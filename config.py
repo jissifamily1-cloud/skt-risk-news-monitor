@@ -34,6 +34,16 @@ RISK_KEYWORDS = [
     # 인물 리스크
     "사퇴", "사임", "퇴진", "경질", "해임", "소환", "출국금지",
     "횡령", "배임", "뇌물", "비리", "비위", "성추행", "성희롱", "막말",
+    # 정부·국회
+    "국정감사", "국감", "청문회", "특검", "공수처", "감사원", "세무조사",
+    # 보안·프라이버시
+    "도청", "감청", "사찰", "디도스", "개인정보",
+    # 법무 (추가)
+    "패소", "영장", "손해배상",
+    # 평판 (추가)
+    "불매", "물의", "뭇매",
+    # 통신 정책·재무 (오탐 다소 가능 — 운영하며 조정)
+    "요금 인상", "요금인상", "단통법", "적자", "급락", "어닝쇼크", "최하위",
 ]
 
 # 오탐 방지 — 텍스트에서 제거 후 매칭 (좁은 표현만 추가할 것)
@@ -44,6 +54,9 @@ EXCLUDED_WORDS = [
     # 동명이인 오탐 방지 (성우 정재헌) — 제거되면 인물 매칭 자체가 안 됨
     "성우 정재헌",
     "정재헌 성우",
+    # "조사" 키워드 오탐 방지
+    "설문조사",
+    "여론조사",
 ]
 
 # 짧은 영문 키워드는 단어 경계(\b) 매칭 적용 대상
@@ -64,6 +77,7 @@ MAX_SEEN_URLS = 3000
 
 # 기사 URL 도메인 → 매체명 (네이버 API는 매체명을 안 주므로 도메인으로 추정)
 PRESS_MAP = {
+    "it.chosun.com": "IT조선",
     "yna.co.kr": "연합뉴스",
     "news1.kr": "뉴스1",
     "newsis.com": "뉴시스",
@@ -110,4 +124,42 @@ PRESS_MAP = {
     "businesspost.co.kr": "비즈니스포스트",
     "newdaily.co.kr": "뉴데일리",
     "pressian.com": "프레시안",
+    "mtn.co.kr": "MTN",
+    "epnc.co.kr": "테크월드뉴스",
+    "digitaltoday.co.kr": "디지털투데이",
+    "ebn.co.kr": "EBN",
+    "techm.kr": "테크M",
+    "asiatoday.co.kr": "아시아투데이",
+    "newspim.com": "뉴스핌",
+    "etoday.co.kr": "이투데이",
+    "newstomato.com": "뉴스토마토",
+    "newsway.co.kr": "뉴스웨이",
+    "econovill.com": "이코노믹리뷰",
+    "g-enews.com": "글로벌이코노믹",
+    "shinailbo.co.kr": "신아일보",
+    "polinews.co.kr": "폴리뉴스",
+    "popcornnews.net": "팝콘뉴스",
+    "dailypop.kr": "데일리팝",
+    "metroseoul.co.kr": "메트로신문",
+    "viva100.com": "브릿지경제",
+    "ceoscoredaily.com": "CEO스코어데일리",
+    "theguru.co.kr": "더구루",
+    "enewstoday.co.kr": "이뉴스투데이",
+    "dnews.co.kr": "대한경제",
+    "datanet.co.kr": "데이터넷",
+    "byline.network": "바이라인네트워크",
+    "thelec.kr": "디일렉",
+    "wowtv.co.kr": "한국경제TV",
+    "sisajournal.com": "시사저널",
+    "sisajournal-e.com": "시사저널e",
+    "ilyo.co.kr": "일요신문",
+    "joseilbo.com": "조세일보",
+    "ekn.kr": "에너지경제",
+    "businesskorea.co.kr": "비즈니스코리아",
+    "koreaherald.com": "코리아헤럴드",
+    "koreatimes.co.kr": "코리아타임스",
+    "seoulfn.com": "서울파이낸스",
+    "paxetv.com": "팍스경제TV",
+    "m-economynews.com": "M이코노미뉴스",
+    "dealsitetv.com": "딜사이트TV",
 }
