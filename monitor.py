@@ -26,6 +26,8 @@ from email.utils import parsedate_to_datetime
 from config import (
     KEYWORDS,
     BLOCK_KEYWORDS,
+    BLOCK_DOMAINS,
+    BLOCK_URL_KEYWORDS,
     EXCLUDED_WORDS,
     WORD_BOUNDARY_KEYWORDS,
     RECENCY_MINUTES,
@@ -66,6 +68,15 @@ def _contains_keyword(text, keyword):
         pattern = r"(?<![A-Za-z])" + re.escape(keyword) + r"(?![A-Za-z])"
         return re.search(pattern, text, re.IGNORECASE) is not None
     return keyword in text
+
+
+def blocked_url(url):
+    """스포츠 전문 매체 도메인 또는 스포츠 섹션 URL이면 True."""
+    host = _host_of(url)
+    for d in BLOCK_DOMAINS:
+        if host == d or host.endswith("." + d):
+            return True
+    return any(k in url.lower() for k in BLOCK_URL_KEYWORDS)
 
 
 def match_keyword(title):
@@ -335,6 +346,8 @@ def main():
         seen.add(key)
         state["seen_urls"].append(key)
         if pub and pub < cutoff:
+            continue
+        if blocked_url(url):
             continue
         m = match_keyword(title)
         if not m:

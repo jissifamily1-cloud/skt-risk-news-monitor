@@ -30,6 +30,32 @@ BLOCK_KEYWORDS = [
     "라이온즈", "타이거즈",
 ]
 
+# 스포츠 전문 매체 — 통신업 기사를 안 쓰므로 도메인 통째 차단
+BLOCK_DOMAINS = [
+    "mydaily.co.kr",       # 마이데일리
+    "spotvnews.co.kr",     # SPOTV뉴스
+    "osen.co.kr",          # OSEN
+    "xportsnews.com",      # 엑스포츠뉴스
+    "sportschosun.com",    # 스포츠조선
+    "starnewskorea.com",   # 스타뉴스
+    "mksports.co.kr",      # MK스포츠
+    "sportsworldi.com",    # 스포츠월드
+    "sportsseoul.com",     # 스포츠서울
+    "isplus.com",          # 일간스포츠
+    "sportalkorea.com",    # 스포탈코리아
+    "interfootball.co.kr", # 인터풋볼
+    "stnsports.co.kr",     # STN스포츠
+    "mhnse.com",           # MHN스포츠
+    "sportsq.co.kr",       # 스포츠Q
+]
+
+# URL에 포함되면 차단 — 종합지 스포츠 섹션 기사까지 커버 (예: news1.kr/sports/baseball/...)
+BLOCK_URL_KEYWORDS = [
+    "/sports/",
+    "/baseball/",
+    "sports.",
+]
+
 # 오탐 방지 — 텍스트에서 제거 후 매칭 (좁은 표현만 추가할 것)
 EXCLUDED_WORDS = [
     # 동명이인 오탐 방지 (성우 정재헌) — 제거되면 인물 매칭 자체가 안 됨
