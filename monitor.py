@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-"""특이뉴스 모니터링 — SKT 부정·리스크 기사 탐지 → 텔레그램 발송.
+"""특이뉴스 모니터링 — 통신업계 키워드 기사 탐지 → 텔레그램 발송.
 
 소스: 네이버 뉴스 검색 Open API (NAVER_CLIENT_ID/SECRET 없으면 Google News RSS fallback)
-매칭: 제목에 회사 키워드 AND 리스크 키워드 둘 다 있어야 발송
+매칭: 제목에 KEYWORDS 중 하나라도 있으면 발송 (리스크 필터 없음)
 중복: state.json seen_urls
 실행: GitHub Actions (cron-job.org 트리거, 06~22시 KST 10분 단위)
 야간: 22시~06시 발행분은 06시 첫 실행에서 모아보기로 일괄 발송
@@ -24,8 +24,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 from config import (
-    COMPANY_KEYWORDS,
-    RISK_KEYWORDS,
+    KEYWORDS,
     EXCLUDED_WORDS,
     WORD_BOUNDARY_KEYWORDS,
     RECENCY_MINUTES,
@@ -55,22 +54,21 @@ def _clean_text(text):
 
 
 def _contains_keyword(text, keyword):
-    """키워드 매칭. 짧은 영문 키워드는 단어 경계(\\b) 적용."""
+    """키워드 매칭. 짧은 영문 키워드는 영문자 경계 적용.
+
+    (?<![A-Za-z])KT(?![A-Za-z]) — "SKT" 안의 KT는 제외, "KT가"처럼
+    한글이 붙은 경우는 매칭 (기존 \\b 방식은 한글 인접 시 매칭 실패).
+    """
     if keyword in WORD_BOUNDARY_KEYWORDS:
-        return re.search(r"\b" + re.escape(keyword) + r"\b", text) is not None
+        pattern = r"(?<![A-Za-z])" + re.escape(keyword) + r"(?![A-Za-z])"
+        return re.search(pattern, text, re.IGNORECASE) is not None
     return keyword in text
 
 
-def match_risk(title):
-    """제목에 회사 키워드 AND 리스크 키워드 둘 다 있으면 (회사kw, 리스크kw) 반환."""
+def match_keyword(title):
+    """제목에 KEYWORDS 중 하나라도 있으면 해당 키워드 반환."""
     text = _clean_text(title)
-    company_hit = next((k for k in COMPANY_KEYWORDS if _contains_keyword(text, k)), None)
-    if not company_hit:
-        return None
-    risk_hit = next((k for k in RISK_KEYWORDS if _contains_keyword(text, k)), None)
-    if not risk_hit:
-        return None
-    return (company_hit, risk_hit)
+    return next((k for k in KEYWORDS if _contains_keyword(text, k)), None)
 
 
 # ---------- 수집 ----------
@@ -143,7 +141,7 @@ def fetch_all(count):
     use_naver = bool(NAVER_ID and NAVER_SECRET)
     print("source: %s, count: %d" % ("naver-api" if use_naver else "google-rss", count))
     articles = []
-    for q in COMPANY_KEYWORDS:
+    for q in KEYWORDS:
         try:
             articles += fetch_naver_api(q, count) if use_naver else fetch_google_rss(q, count)
         except Exception as e:
@@ -234,7 +232,7 @@ def build_message(hits, night_range=None):
     if night_range:
         header += " (야간 모아보기 %s)" % night_range
     lines = [header, ""]
-    for title, url, pub, source, ckw, rkw in hits:
+    for title, url, pub, source, kw in hits:
         lines.append("[%s] %s" % (press_name(url, source), title))
         lines.append(url)
         lines.append("")
@@ -281,14 +279,14 @@ def main():
         state["seen_urls"].append(key)
         if pub and pub < cutoff:
             continue
-        m = match_risk(title)
+        m = match_keyword(title)
         if not m:
             continue
         tkey = re.sub(r"\s+", "", title)[:40]
         if tkey in dedup_titles:
             continue
         dedup_titles.add(tkey)
-        hits.append((title, url, pub, source, m[0], m[1]))
+        hits.append((title, url, pub, source, m))
 
     print("hits: %d" % len(hits))
 

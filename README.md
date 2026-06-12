@@ -1,13 +1,13 @@
 # skt-risk-news-monitor — 특이뉴스 모니터링
 
-SKT 부정·리스크 기사를 06~22시 KST 10분 단위로 탐지해 텔레그램으로 발송하는 자동화 시스템.
+통신업계 키워드(SKT·SK텔레콤·SK브로드밴드·정재헌·유플러스·KT·이통사·통신사) 기사를 06~22시 KST 10분 단위로 탐지해 텔레그램으로 발송하는 자동화 시스템.
 
 ## 구조
 
 | 항목 | 값 |
 |---|---|
 | 소스 | 네이버 뉴스 검색 Open API (키 없으면 Google News RSS 자동 fallback) |
-| 매칭 | 제목에 **회사 키워드**(SKT·SK텔레콤·SK브로드밴드) AND **리스크 키워드** 둘 다 |
+| 매칭 | 제목에 **키워드**(SKT·SK텔레콤·SK브로드밴드·정재헌·유플러스·KT·이통사·통신사) 중 하나라도 있으면 발송 (리스크 필터 없음) |
 | 중복 방지 | `state.json` seen_urls + 최근 120분 발행 기사만 |
 | 실행 | GitHub Actions (`workflow_dispatch`) ← cron-job.org 트리거 |
 | 주기 | `*/10 6-21 * * *` KST (06:00~21:50, 하루 96회) |
@@ -59,7 +59,8 @@ SKT 부정·리스크 기사를 06~22시 KST 10분 단위로 탐지해 텔레그
 
 ## 유지보수
 
-- **키워드 추가/삭제**: `config.py`의 `RISK_KEYWORDS` — GitHub UI에서 직접 한 줄씩 편집 (paste 자동화로 큰 변경 금지)
+- **키워드 추가/삭제**: `config.py`의 `KEYWORDS` — GitHub UI에서 직접 한 줄씩 편집 (paste 자동화로 큰 변경 금지)
+- **발송 폭주 시**: `이통사`·`통신사` 같은 광범위 키워드부터 제거
 - **오탐 제거**: `EXCLUDED_WORDS`에 좁은 표현만 추가
 - **키워드 변경 후 기존 기사 재평가**: `state.json`을 `{"seen_urls": [], "last_run": "", "initialized": true}`로 reset
 - **알림 폭주 시**: `RECENCY_MINUTES` 축소 또는 키워드 정리
