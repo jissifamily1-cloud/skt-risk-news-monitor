@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260608000354",
-  "http://www.wsobi.com/news/articleView.html?idxno=313246",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4418797",
   "https://www.ngonews.kr/news/articleView.html?idxno=230798",
   "http://www.thebigdata.co.kr/view.php?ud=20260608104925509df3c2a17b7_23",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606072032449680108595",
@@ -2999,9 +2996,12 @@
   "https://www.starnewskorea.com/sports/2026/06/12/2026061213560547987",
   "https://www.aitimes.com/news/articleView.html?idxno=211670",
   "http://www.bizwnews.com/news/articleView.html?idxno=138639",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16091174"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16091174",
+  "https://www.dizzotv.com/site/data/html_dir/2026/06/12/2026061280156.html",
+  "https://www.aitimes.com/news/articleView.html?idxno=211674",
+  "http://www.economytalk.kr/news/articleView.html?idxno=421945"
  ],
- "last_run": "2026-06-12T19:06:32.364635+09:00",
+ "last_run": "2026-06-12T19:08:33.541760+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3062,6 +3062,7 @@
   "koreajoongangdaily.com": "koreajoongangdaily",
   "joongboo.com": "중부일보 - 경기·인천의 든든한 친구",
   "gukjenews.com": "국제뉴스",
-  "aitimes.com": "AI타임스"
+  "aitimes.com": "AI타임스",
+  "dizzotv.com": "디지틀조선TV"
  }
 }
