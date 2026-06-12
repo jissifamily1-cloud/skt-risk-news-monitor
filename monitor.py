@@ -279,9 +279,9 @@ def press_name(url, source="", cache=None):
     for domain, name in PRESS_MAP.items():
         if host == domain or host.endswith("." + domain):
             return name
-    if cache and host in cache:
+    if cache and host in cache and cache[host] != host:
         return cache[host]
-    return None
+    return None  # 미캐시 또는 과거 실패(도메인 그대로 캐시) → 재조회 대상
 
 
 def resolve_press_names(hits, cache):

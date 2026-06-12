@@ -93,7 +93,7 @@ MAX_SEEN_URLS = 3000
 
 # PRESS_MAP에 없는 도메인의 매체명 동적 조회 (기사 페이지 og:site_name)
 PRESS_FETCH_MAX = 10      # 실행당 신규 도메인 조회 상한
-PRESS_FETCH_TIMEOUT = 5   # 조회 타임아웃(초)
+PRESS_FETCH_TIMEOUT = 8   # 조회 타임아웃(초)
 
 # 기사 URL 도메인 → 매체명 (네이버 API는 매체명을 안 주므로 도메인으로 추정)
 # 여기 없는 도메인은 기사 페이지 og:site_name을 1회 조회해 state.json에 캐시
@@ -185,4 +185,9 @@ PRESS_MAP = {
     "dealsitetv.com": "딜사이트TV",
     "megaeconomy.co.kr": "메가경제",
     "seoultimes.news": "서울타임즈뉴스",
+    "huffingtonpost.kr": "허프포스트코리아",
+    "weekly.hankooki.com": "주간한국",
+    "chukkyung.co.kr": "축산경제신문",
+    "mediapen.com": "미디어펜",
+    "delighti.co.kr": "딜라이트닷넷",
 }
