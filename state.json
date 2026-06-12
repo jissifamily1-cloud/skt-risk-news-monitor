@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260608046500013?input=1196m",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1003822",
-  "https://www.seoulfn.com/news/articleView.html?idxno=630550",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=778691",
-  "https://www.greened.kr/news/articleView.html?idxno=342024",
-  "https://www.businessplus.kr/news/articleView.html?idxno=112623",
-  "http://www.srtimes.kr/news/articleView.html?idxno=204722",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=842861",
-  "https://www.thepowernews.co.kr/view.php?ud=202606080939225643de3f0aa1be_7",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2436572",
   "http://weekly.chosun.com/news/articleView.html?idxno=52326",
   "https://www.hankyung.com/article/2026060825726",
@@ -2999,9 +2990,18 @@
   "https://news.tf.co.kr/read/economy/2332303.htm",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=421711",
   "https://view.asiae.co.kr/article/2026061216570138499",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/12/2026061290270.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/12/2026061290270.html",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7169212",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=439892",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05061046645481064",
+  "https://www.donga.com/news/It/article/all/20260612/134101299/1",
+  "https://www.hellot.net/news/article.html?no=113157",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=238529",
+  "https://www.newspim.com/news/view/20260612000934",
+  "https://www.tokenpost.kr/news/breaking/368590",
+  "https://www.joongangenews.com/news/articleView.html?idxno=525639"
  ],
- "last_run": "2026-06-12T17:06:32.835908+09:00",
+ "last_run": "2026-06-12T17:08:34.751135+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3048,6 +3048,7 @@
   "jnilbo.com": "전남일보",
   "hidomin.com": "경북도민일보",
   "todaykorea.co.kr": "투데이코리아",
-  "news.tf.co.kr": "더팩트"
+  "news.tf.co.kr": "더팩트",
+  "weekly.hankooki.com": "주간한국"
  }
 }
