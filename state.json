@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260607023501017?input=1195m",
-  "https://www.nocutnews.co.kr/news/6529056",
-  "https://www.news1.kr/industry/general-industry/6189696",
-  "http://www.metroseoul.co.kr/article/20260607500095",
-  "https://www.sidae.com/article/2026060712345330689",
-  "https://zdnet.co.kr/view/?no=20260607131320",
-  "https://view.asiae.co.kr/article/2026060713214226340",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260607132044h4R",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2420358",
-  "https://www.mt.co.kr/tech/2026/06/07/2026060712355459630",
   "https://biz.heraldcorp.com/article/10765366",
   "https://www.sidae.com/article/2026060713192920914",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606070055&t=NN",
@@ -2999,9 +2989,21 @@
   "https://www.nc.press/news/articleView.html?idxno=617877",
   "https://www.nc.press/news/articleView.html?idxno=617892",
   "https://www.mk.co.kr/article/12072626",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3606897"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3606897",
+  "https://www.ytn.co.kr/_ln/0102_202606120920420227",
+  "https://www.etnews.com/20260612000183",
+  "https://zdnet.co.kr/view/?no=20260612105425",
+  "http://www.inews24.com/view/1976092",
+  "https://www.yna.co.kr/view/AKR20260612051800017?input=1195m",
+  "https://biz.heraldcorp.com/article/10770279",
+  "https://www.sidae.com/article/2026061210531368061",
+  "https://biz.newdaily.co.kr/site/data/html/2026/06/12/2026061200096.html",
+  "https://www.newsis.com/view/NISX20260612_0003666598",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3606911"
  ],
- "last_run": "2026-06-12T13:00:38.685528+09:00",
+ "last_run": "2026-06-12T13:02:24.233555+09:00",
  "initialized": true,
- "press_names": {}
+ "press_names": {
+  "sidae.com": "동행미디어 시대"
+ }
 }
