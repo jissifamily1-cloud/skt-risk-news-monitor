@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=20260607194353470112616b072_1",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000040521",
-  "https://news.bizwatch.co.kr/article/industry/2026/06/07/0004",
   "https://www.kukinews.com/article/view/kuk202606070036",
   "https://www.chosun.com/economy/industry-company/2026/06/07/RSXNWCZPX5HJPM7WMYKQZDDCFQ/",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7167995",
@@ -2999,9 +2996,12 @@
   "https://www.mt.co.kr/society/2026/06/12/2026061214022526316",
   "https://www.mydaily.co.kr/page/view/2026061215074850892",
   "https://www.nocutnews.co.kr/news/6532273",
-  "https://www.etoday.co.kr/news/view/2593134"
+  "https://www.etoday.co.kr/news/view/2593134",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=308087",
+  "https://www.eroun.net/news/articleView.html?idxno=82985",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3607120"
  ],
- "last_run": "2026-06-12T15:18:20.271125+09:00",
+ "last_run": "2026-06-12T15:20:33.288598+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3027,6 +3027,7 @@
   "businessplus.kr": "비즈니스플러스",
   "newsfreezone.co.kr": "뉴스프리존",
   "newsquest.co.kr": "뉴스퀘스트",
-  "weeklytoday.com": "위클리오늘"
+  "weeklytoday.com": "위클리오늘",
+  "pointdaily.co.kr": "포인트데일리"
  }
 }
