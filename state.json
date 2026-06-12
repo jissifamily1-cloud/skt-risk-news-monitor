@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=85414",
-  "http://www.techholic.co.kr/news/articleView.html?idxno=221570",
-  "https://www.naeil.com/news/read/591273",
   "https://www.cstimes.com/news/articleView.html?idxno=708996",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1711787",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=458699",
@@ -2999,9 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459792",
   "https://www.seoulfn.com/news/articleView.html?idxno=631036",
   "http://www.newsian.co.kr/news/articleView.html?idxno=90814",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=90884"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=90884",
+  "https://www.kbsm.net/news/view.php?idx=522792",
+  "https://www.hankyung.com/article/2026061341067",
+  "https://www.ytn.co.kr/_ln/0104_202606130719155052"
  ],
- "last_run": "2026-06-13T07:20:40.493250+09:00",
+ "last_run": "2026-06-13T07:22:32.732639+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3075,6 +3075,7 @@
   "apnews.kr": "AP신문 |  온라인뉴스미디어  에이피신문",
   "nytimes.com": "nytimes.com",
   "coinreaders.com": "코인리더스",
-  "goodkyung.com": "goodkyung.com"
+  "goodkyung.com": "goodkyung.com",
+  "kbsm.net": "경북신문"
  }
 }
