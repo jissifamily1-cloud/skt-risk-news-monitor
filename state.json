@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01764646645479424",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01777766645479424",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01774486645479424",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01767926645479424",
@@ -2999,11 +2998,13 @@
   "https://www.nc.press/news/articleView.html?idxno=617900",
   "https://www.nc.press/news/articleView.html?idxno=617897",
   "https://www.nc.press/news/articleView.html?idxno=617901",
-  "https://www.naeil.com/news/read/591693"
+  "https://www.naeil.com/news/read/591693",
+  "http://www.tvdaily.co.kr/read.php3?aid=17812366741789914003"
  ],
- "last_run": "2026-06-12T13:12:22.056159+09:00",
+ "last_run": "2026-06-12T13:14:23.669575+09:00",
  "initialized": true,
  "press_names": {
-  "sidae.com": "동행미디어 시대"
+  "sidae.com": "동행미디어 시대",
+  "tvdaily.co.kr": "tvdaily.co.kr"
  }
 }
