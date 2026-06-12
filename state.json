@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260608078500008?input=1195m",
   "https://www.banronbodo.com/news/articleView.html?idxno=32416",
   "https://www.rapportian.com/news/articleView.html?idxno=236810",
   "https://view.asiae.co.kr/article/2026060811262024328",
@@ -2999,9 +2998,10 @@
   "https://www.hankookilbo.com/news/article/A2026061213510001824?did=NA",
   "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026061218410397549?feed=na",
   "http://www.yonhapnewstv.co.kr/news/MYH20260612210657AkD",
-  "https://www.etnews.com/20260612000314"
+  "https://www.etnews.com/20260612000314",
+  "https://www.slist.kr/news/articleView.html?idxno=744980"
  ],
- "last_run": "2026-06-12T21:08:30.731238+09:00",
+ "last_run": "2026-06-12T21:10:40.400866+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3067,6 +3067,7 @@
   "thebell.co.kr": "thebell.co.kr",
   "lecturernews.com": "한국강사신문",
   "wikitree.co.kr": "위키트리",
-  "mdtoday.co.kr": "메디컬투데이"
+  "mdtoday.co.kr": "메디컬투데이",
+  "slist.kr": "싱글리스트"
  }
 }
