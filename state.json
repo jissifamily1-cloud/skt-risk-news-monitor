@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260608_0003660161",
-  "https://kpenews.com/View.aspx?No=4103741",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606071604044960106583",
   "https://www.cnbizm.com/news/articleView.html?idxno=304848",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260608010002415",
@@ -2999,9 +2997,11 @@
   "https://www.newsen.com/news_view.php?uid=202606121756582610",
   "https://www.mk.co.kr/article/12073053",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606120459&t=NN",
-  "https://www.hankookilbo.com/news/article/A2026061219210001069?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026061219210001069?did=NA",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1163000",
+  "https://www.wikitree.co.kr/articles/1141070"
  ],
- "last_run": "2026-06-12T19:50:34.662412+09:00",
+ "last_run": "2026-06-12T19:52:33.264879+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3065,6 +3065,7 @@
   "aitimes.com": "AI타임스",
   "dizzotv.com": "디지틀조선TV",
   "thebell.co.kr": "thebell.co.kr",
-  "lecturernews.com": "한국강사신문"
+  "lecturernews.com": "한국강사신문",
+  "wikitree.co.kr": "위키트리"
  }
 }
