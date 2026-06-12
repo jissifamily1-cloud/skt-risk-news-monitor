@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260607_0003659304",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000533228",
   "https://www.kukinews.com/article/view/kuk202606070030",
   "https://www.newsis.com/view/NISX20260607_0003659379",
   "https://biz.sbs.co.kr/article_hub/20000314935?division=NAVER",
@@ -2999,9 +2997,11 @@
   "https://www.newspim.com/news/view/20260612000776",
   "https://www.newspim.com/news/view/20260612000764",
   "https://www.mk.co.kr/article/12072683",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3607068"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3607068",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=131393",
+  "http://www.itdaily.kr/news/articleView.html?idxno=239821"
  ],
- "last_run": "2026-06-12T14:28:21.973892+09:00",
+ "last_run": "2026-06-12T14:30:34.721704+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3020,6 +3020,7 @@
   "ngonews.kr": "한국NGO신문",
   "m-i.kr": "매일일보",
   "megaeconomy.co.kr": "megaeconomy.co.kr",
-  "newscj.com": "천지일보"
+  "newscj.com": "천지일보",
+  "newslock.co.kr": "뉴스락"
  }
 }
