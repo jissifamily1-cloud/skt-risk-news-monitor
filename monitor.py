@@ -2,7 +2,7 @@
 """특이뉴스 모니터링 — 통신업계 키워드 기사 탐지 → 텔레그램 발송.
 
 소스: 네이버 뉴스 검색 Open API (NAVER_CLIENT_ID/SECRET 없으면 Google News RSS fallback)
-매칭: 제목에 KEYWORDS 중 하나라도 있으면 발송 (리스크 필터 없음)
+매칭: 제목에 KEYWORDS 중 하나라도 있으면 발송 (BLOCK_KEYWORDS 있으면 제외)
 중복: state.json seen_urls
 실행: GitHub Actions (cron-job.org 트리거, 06~22시 KST)
 야간: 22시~06시 발행분은 06시 첫 실행에서 모아보기로 일괄 발송
@@ -25,6 +25,7 @@ from email.utils import parsedate_to_datetime
 
 from config import (
     KEYWORDS,
+    BLOCK_KEYWORDS,
     EXCLUDED_WORDS,
     WORD_BOUNDARY_KEYWORDS,
     RECENCY_MINUTES,
@@ -68,8 +69,13 @@ def _contains_keyword(text, keyword):
 
 
 def match_keyword(title):
-    """제목에 KEYWORDS 중 하나라도 있으면 해당 키워드 반환."""
+    """제목에 KEYWORDS 중 하나라도 있으면 해당 키워드 반환.
+
+    BLOCK_KEYWORDS(야구 등 제외 토픽)가 제목에 있으면 무조건 제외.
+    """
     text = _clean_text(title)
+    if any(b in text for b in BLOCK_KEYWORDS):
+        return None
     return next((k for k in KEYWORDS if _contains_keyword(text, k)), None)
 
 

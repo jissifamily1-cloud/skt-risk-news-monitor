@@ -7,7 +7,7 @@
 | 항목 | 값 |
 |---|---|
 | 소스 | 네이버 뉴스 검색 Open API (키 없으면 Google News RSS 자동 fallback) |
-| 매칭 | 제목에 **키워드**(SKT·SK텔레콤·SK브로드밴드·정재헌·유플러스·KT·이통사·통신사) 중 하나라도 있으면 발송 (리스크 필터 없음) |
+| 매칭 | 제목에 **키워드**(SKT·SK텔레콤·SK브로드밴드·정재헌·유플러스·KT·이통사·통신사) 중 하나라도 있으면 발송. 단 BLOCK_KEYWORDS(야구 등)가 제목에 있으면 제외 |
 | 매체명 | Google RSS source → PRESS_MAP 도메인 → 기사 페이지 og:site_name 동적 조회(state.json `press_names` 캐시) |
 | 중복 방지 | `state.json` seen_urls + 최근 120분 발행 기사만 |
 | 실행 | GitHub Actions (`workflow_dispatch`) ← cron-job.org 트리거 |
@@ -62,6 +62,7 @@
 
 - **키워드 추가/삭제**: `config.py`의 `KEYWORDS` — GitHub UI에서 직접 한 줄씩 편집 (paste 자동화로 큰 변경 금지)
 - **발송 폭주 시**: `이통사`·`통신사` 같은 광범위 키워드부터 제거
+- **야구 등 토픽 제외**: `config.py`의 `BLOCK_KEYWORDS` — 제목에 있으면 무조건 발송 제외
 - **매체명 오표기 시**: `config.py`의 `PRESS_MAP`에 도메인 추가(우선 적용) 또는 `state.json`의 `press_names` 캐시 수정
 - **오탐 제거**: `EXCLUDED_WORDS`에 좁은 표현만 추가
 - **키워드 변경 후 기존 기사 재평가**: `state.json`을 `{"seen_urls": [], "last_run": "", "initialized": true}`로 reset
