@@ -1,6 +1,6 @@
 # skt-risk-news-monitor — 특이뉴스 모니터링
 
-통신업계 키워드(SKT·SK텔레콤·SK브로드밴드·정재헌·유플러스·KT·이통사·통신사) 기사를 06~22시 KST 10분 단위로 탐지해 텔레그램으로 발송하는 자동화 시스템.
+통신업계 키워드(SKT·SK텔레콤·SK브로드밴드·정재헌·유플러스·KT·이통사·통신사) 기사를 06~22시 KST 주기 실행으로 탐지해 텔레그램으로 발송하는 자동화 시스템.
 
 ## 구조
 
@@ -8,16 +8,17 @@
 |---|---|
 | 소스 | 네이버 뉴스 검색 Open API (키 없으면 Google News RSS 자동 fallback) |
 | 매칭 | 제목에 **키워드**(SKT·SK텔레콤·SK브로드밴드·정재헌·유플러스·KT·이통사·통신사) 중 하나라도 있으면 발송 (리스크 필터 없음) |
+| 매체명 | Google RSS source → PRESS_MAP 도메인 → 기사 페이지 og:site_name 동적 조회(state.json `press_names` 캐시) |
 | 중복 방지 | `state.json` seen_urls + 최근 120분 발행 기사만 |
 | 실행 | GitHub Actions (`workflow_dispatch`) ← cron-job.org 트리거 |
-| 주기 | `*/10 6-21 * * *` KST (06:00~21:50, 하루 96회) |
+| 주기 | `*/2 6-21 * * *` KST (06:00~21:58, 하루 480회) |
 | 발송 | 텔레그램 @skt_personnel_bot → 특이뉴스 채널 |
 
 ## 파일
 
 - `monitor.py` — 수집·매칭·발송·상태관리 전부
 - `config.py` — 키워드 설정 (유지보수 시 이 파일만 수정)
-- `state.json` — 발송 이력 (자동 갱신)
+- `state.json` — 발송 이력·매체명 캐시 (자동 갱신)
 - `.github/workflows/cron.yml` — Actions 워크플로우 (`cron.yml`을 이 경로로 업로드)
 
 ## 셋업 순서
@@ -30,7 +31,7 @@
 ### 2. 네이버 API 키 발급 (권장, 5분)
 1. https://developers.naver.com/apps/#/register → 애플리케이션 등록
 2. 사용 API: "검색" 선택 → Client ID / Client Secret 확보
-3. 무료 일 25,000회 (이 시스템은 일 288회 사용)
+3. 무료 일 25,000회 (2분 주기 기준 일 3,840회 사용)
 4. ※ 생략 시 Google News RSS로 자동 동작 (네이버 검색 대비 커버리지 다를 수 있음)
 
 ### 3. GitHub repo 생성
@@ -55,12 +56,13 @@
    - `Authorization: Bearer {GitHub PAT}` (기존 시스템과 동일 PAT 사용 가능, repo+workflow 권한)
    - `Accept: application/vnd.github+json`
    - `Content-Type: application/json`
-5. Schedule: `*/10 6-21 * * *` (KST 타임존 확인)
+5. Schedule: `*/2 6-21 * * *` (KST 타임존 확인)
 
 ## 유지보수
 
 - **키워드 추가/삭제**: `config.py`의 `KEYWORDS` — GitHub UI에서 직접 한 줄씩 편집 (paste 자동화로 큰 변경 금지)
 - **발송 폭주 시**: `이통사`·`통신사` 같은 광범위 키워드부터 제거
+- **매체명 오표기 시**: `config.py`의 `PRESS_MAP`에 도메인 추가(우선 적용) 또는 `state.json`의 `press_names` 캐시 수정
 - **오탐 제거**: `EXCLUDED_WORDS`에 좁은 표현만 추가
 - **키워드 변경 후 기존 기사 재평가**: `state.json`을 `{"seen_urls": [], "last_run": "", "initialized": true}`로 reset
 - **알림 폭주 시**: `RECENCY_MINUTES` 축소 또는 키워드 정리

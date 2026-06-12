@@ -4,7 +4,7 @@
 소스: 네이버 뉴스 검색 Open API (NAVER_CLIENT_ID/SECRET 없으면 Google News RSS fallback)
 매칭: 제목에 KEYWORDS 중 하나라도 있으면 발송 (리스크 필터 없음)
 중복: state.json seen_urls
-실행: GitHub Actions (cron-job.org 트리거, 06~22시 KST 10분 단위)
+실행: GitHub Actions (cron-job.org 트리거, 06~22시 KST)
 야간: 22시~06시 발행분은 06시 첫 실행에서 모아보기로 일괄 발송
 
 환경변수:
@@ -28,6 +28,8 @@ from config import (
     EXCLUDED_WORDS,
     WORD_BOUNDARY_KEYWORDS,
     RECENCY_MINUTES,
+    PRESS_FETCH_MAX,
+    PRESS_FETCH_TIMEOUT,
     FETCH_COUNT,
     FETCH_COUNT_NIGHT,
     MAX_SEEN_URLS,
@@ -216,24 +218,74 @@ def send_telegram(text):
             print("telegram: %s" % resp.status)
 
 
-def press_name(url, source=""):
-    """매체명 결정: Google RSS source 우선, 없으면 URL 도메인 → PRESS_MAP."""
+def _host_of(url):
+    return urllib.parse.urlparse(url).netloc.lower().removeprefix("www.")
+
+
+def _fetch_site_name(url):
+    """기사 페이지에서 og:site_name 매체명 추출. 실패 시 None."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=PRESS_FETCH_TIMEOUT) as resp:
+            data = resp.read(65536)
+    except Exception:
+        return None
+    head = data[:2048].decode("ascii", errors="ignore").lower()
+    enc = "euc-kr" if ("euc-kr" in head or "ms949" in head or "cp949" in head) else "utf-8"
+    text = data.decode(enc, errors="replace")
+    m = re.search(
+        r'<meta[^>]+property=["\']og:site_name["\'][^>]+content=["\']([^"\']+)', text, re.I
+    ) or re.search(
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:site_name["\']', text, re.I
+    )
+    if not m:
+        return None
+    name = html_mod.unescape(m.group(1)).strip()
+    return name[:30] or None
+
+
+def press_name(url, source="", cache=None):
+    """매체명 결정: Google RSS source → PRESS_MAP → 캐시. 미해결이면 None."""
     if source:
         return source
-    host = urllib.parse.urlparse(url).netloc.lower()
+    host = _host_of(url)
     for domain, name in PRESS_MAP.items():
         if host == domain or host.endswith("." + domain):
             return name
-    return host.removeprefix("www.") or "기타"
+    if cache and host in cache:
+        return cache[host]
+    return None
 
 
-def build_message(hits, night_range=None):
+def resolve_press_names(hits, cache):
+    """hits의 매체명 확정. 미등록 도메인은 기사 페이지에서 동적 조회 후 캐시.
+
+    실행당 최대 PRESS_FETCH_MAX건만 신규 조회. 실패 시 도메인명으로 캐시해
+    반복 조회를 방지한다 (수동 교정은 PRESS_MAP 또는 state.json press_names).
+    """
+    budget = PRESS_FETCH_MAX
+    resolved = []
+    for title, url, pub, source, kw in hits:
+        name = press_name(url, source, cache)
+        if name is None:
+            host = _host_of(url) or "기타"
+            if budget > 0:
+                budget -= 1
+                name = _fetch_site_name(url) or host
+                cache[host] = name
+            else:
+                name = host
+        resolved.append((name, title, url))
+    return resolved
+
+
+def build_message(resolved_hits, night_range=None):
     header = "*특이기사 모니터링"
     if night_range:
         header += " (야간 모아보기 %s)" % night_range
     lines = [header, ""]
-    for title, url, pub, source, kw in hits:
-        lines.append("[%s] %s" % (press_name(url, source), title))
+    for name, title, url in resolved_hits:
+        lines.append("[%s] %s" % (name, title))
         lines.append(url)
         lines.append("")
     return "\n".join(lines).strip()
@@ -294,7 +346,8 @@ def main():
         # 최초 실행은 기존 기사를 seen 처리만 하고 발송 생략 (과거 기사 폭주 방지)
         print("first run — baseline only, no send")
     elif hits:
-        send_telegram(build_message(hits, night_range))
+        cache = state.setdefault("press_names", {})
+        send_telegram(build_message(resolve_press_names(hits, cache), night_range))
 
     state["initialized"] = True
     save_state(state)

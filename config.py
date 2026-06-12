@@ -41,7 +41,12 @@ FETCH_COUNT_NIGHT = 100
 # state.json에 보관할 최대 URL 수
 MAX_SEEN_URLS = 3000
 
+# PRESS_MAP에 없는 도메인의 매체명 동적 조회 (기사 페이지 og:site_name)
+PRESS_FETCH_MAX = 10      # 실행당 신규 도메인 조회 상한
+PRESS_FETCH_TIMEOUT = 5   # 조회 타임아웃(초)
+
 # 기사 URL 도메인 → 매체명 (네이버 API는 매체명을 안 주므로 도메인으로 추정)
+# 여기 없는 도메인은 기사 페이지 og:site_name을 1회 조회해 state.json에 캐시
 PRESS_MAP = {
     "it.chosun.com": "IT조선",
     "yna.co.kr": "연합뉴스",
