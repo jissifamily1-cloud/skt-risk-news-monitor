@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econonews.co.kr/news/articleView.html?idxno=439347",
-  "https://biz.heraldcorp.com/article/10765421",
-  "https://www.dt.co.kr/article/12066217",
-  "https://news.tf.co.kr/read/economy/2330161.htm",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5027914",
-  "https://www.etoday.co.kr/news/view/2590535",
   "http://game.dailyesports.com/view.php?ud=20260607155110706243da15d9d2_26",
   "https://www.g-enews.com/view.php?ud=202606071514187001daecd3dad5_1",
   "https://www.joongangenews.com/news/articleView.html?idxno=524199",
@@ -2999,9 +2993,15 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008607568&plink=ORI&cooper=NAVER",
   "http://www.lawissue.co.kr/view.php?ud=20260612134623690667191f6c6e_12",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=267751",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3607025"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3607025",
+  "https://www.news1.kr/it-science/cc-newmedia/6195645",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16090140",
+  "https://www.cstimes.com/news/articleView.html?idxno=709571",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=373333",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3606935",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3607036"
  ],
- "last_run": "2026-06-12T13:52:22.032631+09:00",
+ "last_run": "2026-06-12T13:56:26.736339+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3014,6 +3014,8 @@
   "sportsworldi.com": "스포츠월드",
   "sportsseoul.com": "스포츠서울",
   "itdaily.kr": "아이티데일리",
-  "starnewskorea.com": "스타뉴스"
+  "starnewskorea.com": "스타뉴스",
+  "topstarnews.net": "톱스타뉴스",
+  "cstimes.com": "컨슈머타임스(Consumertimes)"
  }
 }
