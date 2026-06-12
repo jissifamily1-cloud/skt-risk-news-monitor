@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1974503",
-  "https://www.news1.kr/it-science/general-it/6188750",
-  "https://www.sedaily.com/article/20052742",
   "http://www.yonhapnewstv.co.kr/news/MYH20260608052240XsX",
   "https://www.newsis.com/view/NISX20260607_0003659389",
   "https://www.donga.com/news/Economy/article/all/20260608/134066530/2",
@@ -2999,9 +2996,12 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1303860&inflow=N",
   "https://www.nocutnews.co.kr/news/6532324",
   "https://byline.network/?p=9004111222607171",
-  "https://www.m-i.kr/news/articleView.html?idxno=1381203"
+  "https://www.m-i.kr/news/articleView.html?idxno=1381203",
+  "https://www.goodkyung.com/news/articleView.html?idxno=288097",
+  "https://www.news2day.co.kr/article/20260612500185",
+  "https://www.kgnews.co.kr/news/article.html?no=899665"
  ],
- "last_run": "2026-06-12T16:20:30.575989+09:00",
+ "last_run": "2026-06-12T16:22:29.607248+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3032,6 +3032,8 @@
   "safetimes.co.kr": "세이프타임즈",
   "4th.kr": "포쓰저널",
   "lcnews.co.kr": "라이센스뉴스",
-  "newsprime.co.kr": "프라임경제"
+  "newsprime.co.kr": "프라임경제",
+  "news2day.co.kr": "뉴스투데이",
+  "kgnews.co.kr": "kgnews.co.kr"
  }
 }
