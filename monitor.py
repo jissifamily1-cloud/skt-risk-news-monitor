@@ -286,10 +286,9 @@ def resolve_press_names(hits, cache):
 
 
 def build_message(resolved_hits, night_range=None):
-    header = "*특이기사 모니터링"
+    lines = []
     if night_range:
-        header += " (야간 모아보기 %s)" % night_range
-    lines = [header, ""]
+        lines += ["야간 모아보기 %s" % night_range, ""]
     for name, title, url in resolved_hits:
         lines.append("[%s] %s" % (name, title))
         lines.append(url)
