@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000096364",
-  "https://www.mt.co.kr/industry/2026/06/08/2026060809384291840",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=199218",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=201670",
   "https://www.ddaily.co.kr/page/view/2026060811335750661",
   "http://www.thebigdata.co.kr/view.php?ud=202606081126039319df3c2a17b7_23",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3065764",
@@ -2999,9 +2995,13 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260612010004418",
   "https://www.tokenpost.kr/news/market/368669",
   "https://www.topstarnews.net/news/articleView.html?idxno=16091400",
-  "https://www.tokenpost.kr/news/tech/368671"
+  "https://www.tokenpost.kr/news/tech/368671",
+  "https://www.mediawatch.kr/news/article.html?no=260014",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2197870",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=203125",
+  "https://www.slist.kr/news/articleView.html?idxno=744981"
  ],
- "last_run": "2026-06-12T21:20:38.266895+09:00",
+ "last_run": "2026-06-12T21:22:37.555469+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3068,6 +3068,8 @@
   "lecturernews.com": "한국강사신문",
   "wikitree.co.kr": "위키트리",
   "mdtoday.co.kr": "메디컬투데이",
-  "slist.kr": "싱글리스트"
+  "slist.kr": "싱글리스트",
+  "mediawatch.kr": "인싸잇",
+  "webeconomy.co.kr": "웹이코노미"
  }
 }
