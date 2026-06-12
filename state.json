@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092163417",
-  "https://www.viva100.com/article/20260607500355",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260607143015rzl",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000040441",
-  "https://www.seoultimes.news/news/article.html?no=2000096347",
-  "https://www.ekn.kr/web/view.php?key=20260607026191238",
   "https://www.businesspost.co.kr/BP?command=article_view&num=439430",
   "https://mhnse.com/news/articleView.html?idxno=1403935",
   "http://www.seouleconews.com/news/articleView.html?idxno=91658",
@@ -2999,13 +2993,23 @@
   "https://www.econovill.com/news/articleView.html?idxno=742272",
   "https://isplus.com/article/view/isp202606120058",
   "https://www.mk.co.kr/article/12072636",
-  "http://www.osen.co.kr/article/G1112819744"
+  "http://www.osen.co.kr/article/G1112819744",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=822030",
+  "https://www.news1.kr/sports/baseball/6195708",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=80584",
+  "https://www.mydaily.co.kr/page/view/2026061213330771324",
+  "http://www.newsdream.kr/news/articleView.html?idxno=113008",
+  "https://www.yna.co.kr/view/AKR20260612093100007?input=1195m"
  ],
- "last_run": "2026-06-12T13:42:21.408450+09:00",
+ "last_run": "2026-06-12T13:44:29.625443+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
   "tvdaily.co.kr": "tvdaily.co.kr",
-  "news.bizwatch.co.kr": "비즈니스워치"
+  "news.bizwatch.co.kr": "비즈니스워치",
+  "spotvnews.co.kr": "SPOTV NEWS",
+  "pointe.co.kr": "포인트경제",
+  "mydaily.co.kr": "마이데일리",
+  "newsdream.kr": "뉴스드림"
  }
 }
