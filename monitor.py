@@ -256,8 +256,18 @@ def _fetch_site_name(url):
         r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:site_name["\']', text, re.I
     )
     if not m:
+        # 2차: copyright 메타/문구에서 매체명 추출
+        # 예: <meta name="Copyright" content="서울타임즈뉴스">
+        #     "Copyright ⓒ 메가경제 All rights reserved"
+        m = re.search(
+            r'<meta[^>]+name=["\']copyright["\'][^>]+content=["\']([^"\']+)', text, re.I
+        ) or re.search(
+            r'Copyright\s*[@ⓒ©]?\s*([^\s<>][^<>\n]{0,28}?)\s*(?:Corp\.?)?\s*All\s+rights\s+reserved',
+            text, re.I,
+        )
+    if not m:
         return None
-    name = html_mod.unescape(m.group(1)).strip()
+    name = html_mod.unescape(m.group(1)).strip().strip('.@ⓒ© ')
     return name[:30] or None
 
 

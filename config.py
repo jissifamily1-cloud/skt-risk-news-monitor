@@ -172,4 +172,6 @@ PRESS_MAP = {
     "paxetv.com": "팍스경제TV",
     "m-economynews.com": "M이코노미뉴스",
     "dealsitetv.com": "딜사이트TV",
+    "megaeconomy.co.kr": "메가경제",
+    "seoultimes.news": "서울타임즈뉴스",
 }
