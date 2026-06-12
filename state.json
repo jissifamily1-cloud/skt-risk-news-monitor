@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606080953390900394",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4418759",
-  "https://www.greened.kr/news/articleView.html?idxno=342026",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02758486645479752",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=360102",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=188272",
@@ -2999,9 +2996,12 @@
   "https://www.mydaily.co.kr/page/view/2026061217170811722",
   "https://www.ddaily.co.kr/page/view/2026061213242163588",
   "https://www.kgnews.co.kr/news/article.html?no=899707",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=843735"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=843735",
+  "https://www.newsis.com/view/NISX20260612_0003667530",
+  "https://www.ziksir.com/news/articleView.html?idxno=136726",
+  "https://www.mediawatch.kr/news/article.html?no=260012"
  ],
- "last_run": "2026-06-12T17:32:36.187145+09:00",
+ "last_run": "2026-06-12T17:34:33.760346+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3052,6 +3052,7 @@
   "weekly.hankooki.com": "주간한국",
   "thedailypost.kr": "데일리포스트",
   "ilyoseoul.co.kr": "일요서울i",
-  "newsworks.co.kr": "뉴스웍스"
+  "newsworks.co.kr": "뉴스웍스",
+  "ziksir.com": "직썰"
  }
 }
