@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260610_0003663634",
-  "https://www.dailian.co.kr/news/view/1654432/?sc=Naver",
-  "https://www.econovill.com/news/articleView.html?idxno=742016",
-  "https://www.starnewskorea.com/broadcast-show/2026/06/10/2026061011051646721",
   "https://www.techm.kr/news/articleView.html?idxno=152503",
   "https://www.fetv.co.kr/news/articleView.html?idxno=304014",
   "https://biz.sbs.co.kr/article_hub/20000315648?division=NAVER",
@@ -2999,9 +2995,13 @@
   "https://www.nytimes.com/2026/06/13/books/review/something-we-said-elizabeth-stordeur-pryor.html?partner=naver",
   "https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html?partner=naver",
   "https://platum.kr/archives/288845",
-  "https://www.aitimes.com/news/articleView.html?idxno=211698"
+  "https://www.aitimes.com/news/articleView.html?idxno=211698",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0029963339&code=61162012&cp=nv",
+  "https://www.kukinews.com/article/view/kuk202606130013",
+  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=153798",
+  "https://www.inven.co.kr/webzine/news/?news=317444"
  ],
- "last_run": "2026-06-13T18:12:34.500077+09:00",
+ "last_run": "2026-06-13T18:14:47.379257+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3087,6 +3087,7 @@
   "kpinews.kr": "KPI뉴스",
   "fomos.kr": "fomos.kr",
   "gamevu.co.kr": "게임뷰",
-  "e-science.co.kr": "이코노미사이언스"
+  "e-science.co.kr": "이코노미사이언스",
+  "inven.co.kr": "인벤"
  }
 }
