@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260608500067",
-  "https://www.seoul.co.kr/news/economy/industry/2026/06/10/20260610030003?wlog_tag3=naver",
   "https://www.segye.com/newsView/20260609514984?OutUrl=naver",
   "https://www.kmib.co.kr/article/view.asp?arcid=1780990663&code=11151400&cp=nv",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=85430",
@@ -2999,9 +2997,11 @@
   "https://www.sedaily.com/article/20055336",
   "https://www.gukjenews.com/news/articleView.html?idxno=3607485",
   "http://www.newstomato.com/ReadNews.aspx?no=1303884&inflow=N",
-  "https://biz.heraldcorp.com/article/10770964"
+  "https://biz.heraldcorp.com/article/10770964",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=872313",
+  "http://www.joseilbo.com/news/news_read.php?uid=569989&class=53"
  ],
- "last_run": "2026-06-13T11:22:29.421512+09:00",
+ "last_run": "2026-06-13T11:24:32.667350+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3082,6 +3082,7 @@
   "hansbiz.co.kr": "한스경제",
   "khgames.co.kr": "경향게임스",
   "opinionnews.co.kr": "오피니언뉴스",
-  "insight.co.kr": "인사이트"
+  "insight.co.kr": "인사이트",
+  "getnews.co.kr": "글로벌경제신문"
  }
 }
