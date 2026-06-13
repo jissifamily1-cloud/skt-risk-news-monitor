@@ -103,7 +103,7 @@ def _strip_tags(s):
 
 
 def fetch_naver_api(query, count):
-    """네이버 뉴스 검색 Open API. [(title, url, published_dt, source), ...]"""
+    """네이버 뉴스 검색 Open API. [(title, url, published_dt, source, desc), ...]"""
     url = (
         "https://openapi.naver.com/v1/search/news.json?query="
         + urllib.parse.quote(query)
@@ -118,16 +118,17 @@ def fetch_naver_api(query, count):
     for it in items:
         title = _strip_tags(it.get("title", ""))
         link = it.get("originallink") or it.get("link", "")
+        desc = _strip_tags(it.get("description", ""))
         try:
             pub = parsedate_to_datetime(it.get("pubDate", "")).astimezone(KST)
         except Exception:
             pub = None
-        results.append((title, link, pub, ""))
+        results.append((title, link, pub, "", desc))
     return results
 
 
 def fetch_google_rss(query, count):
-    """Google News RSS fallback. [(title, url, published_dt, source), ...]"""
+    """Google News RSS fallback. [(title, url, published_dt, source, desc), ...]"""
     url = (
         "https://news.google.com/rss/search?q="
         + urllib.parse.quote(query + " when:1d")
@@ -141,10 +142,12 @@ def fetch_google_rss(query, count):
         l = re.search(r"<link/?>(.*?)(?:</link>|<)", block, re.S)
         d = re.search(r"<pubDate>(.*?)</pubDate>", block, re.S)
         s = re.search(r"<source[^>]*>(.*?)</source>", block, re.S)
+        dsc = re.search(r"<description>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</description>", block, re.S)
         if not t or not l:
             continue
         title = _strip_tags(t.group(1))
         source = _strip_tags(s.group(1)) if s else ""
+        desc = _strip_tags(dsc.group(1)) if dsc else ""
         # Google RSS 제목 끝의 " - 매체명" 제거
         if source and title.endswith(" - " + source):
             title = title[: -(len(source) + 3)]
@@ -152,7 +155,7 @@ def fetch_google_rss(query, count):
             pub = parsedate_to_datetime(d.group(1)).astimezone(KST) if d else None
         except Exception:
             pub = None
-        results.append((title, l.group(1).strip(), pub, source))
+        results.append((title, l.group(1).strip(), pub, source, desc))
     return results[:count]
 
 
@@ -277,7 +280,7 @@ def resolve_press_names(hits, cache):
     """
     budget = PRESS_FETCH_MAX
     resolved = []
-    for title, url, pub, source, kw in hits:
+    for title, url, pub, source, kw, desc in hits:
         name = press_name(url, source, cache)
         if name is None:
             host = _host_of(url) or "기타"
@@ -287,7 +290,7 @@ def resolve_press_names(hits, cache):
                 cache[host] = name
             else:
                 name = host
-        resolved.append((name, title, url))
+        resolved.append((name, title, url, desc))
     return resolved
 
 
@@ -323,7 +326,7 @@ def main():
     first_run = not state.get("initialized", False)
     hits = []
     dedup_titles = set()
-    for title, url, pub, source in articles:
+    for title, url, pub, source, desc in articles:
         key = _norm_url(url)
         if not key or key in seen:
             continue
@@ -340,7 +343,7 @@ def main():
         if tkey in dedup_titles:
             continue
         dedup_titles.add(tkey)
-        hits.append((title, url, pub, source, m))
+        hits.append((title, url, pub, source, m, desc))
 
     print("hits: %d" % len(hits))
 
@@ -352,8 +355,9 @@ def main():
         resolved = resolve_press_names(hits, cache)
         if night_range:
             _post_telegram("야간 모아보기 %s" % night_range)
-        for name, title, url in resolved:
-            _post_telegram("[%s] %s\n%s" % (name, title, url))
+        for name, title, url, desc in resolved:
+            excerpt = ("\n" + desc[:200] + ("..." if len(desc) > 200 else "")) if desc else ""
+            _post_telegram("[%s] %s%s\n%s" % (name, title, excerpt, url))
 
     state["initialized"] = True
     save_state(state)
