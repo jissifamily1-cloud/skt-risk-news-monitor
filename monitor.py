@@ -200,39 +200,24 @@ def _norm_url(u):
 
 # ---------- 발송 ----------
 
-TELEGRAM_MAX = 3500  # 4096 한도 대비 여유
-
-
-def send_telegram(text):
-    """긴 메시지는 기사 단위로 분할 발송."""
-    chunks = []
-    cur = ""
-    for block in text.split("\n\n"):
-        if cur and len(cur) + len(block) + 2 > TELEGRAM_MAX:
-            chunks.append(cur)
-            cur = block
-        else:
-            cur = (cur + "\n\n" + block) if cur else block
-    if cur:
-        chunks.append(cur)
-
-    for chunk in chunks:
-        if DRY_RUN:
-            print("[DRY_RUN] message:\n%s\n" % chunk)
-            continue
-        chat_id_val = int(CHAT_ID) if CHAT_ID.lstrip("-").isdigit() else CHAT_ID
-        payload = json.dumps({
-            "chat_id": chat_id_val,
-            "text": chunk,
-            "disable_web_page_preview": True,
-        }).encode("utf-8")
-        req = urllib.request.Request(
-            "https://api.telegram.org/bot%s/sendMessage" % BOT_TOKEN,
-            data=payload,
-            headers={"Content-Type": "application/json"},
-        )
-        with urllib.request.urlopen(req, timeout=20) as resp:
-            print("telegram: %s" % resp.status)
+def _post_telegram(text):
+    """텔레그램 단건 메시지 발송."""
+    if DRY_RUN:
+        print("[DRY_RUN] message:\n%s\n" % text)
+        return
+    chat_id_val = int(CHAT_ID) if CHAT_ID.lstrip("-").isdigit() else CHAT_ID
+    payload = json.dumps({
+        "chat_id": chat_id_val,
+        "text": text,
+        "disable_web_page_preview": True,
+    }).encode("utf-8")
+    req = urllib.request.Request(
+        "https://api.telegram.org/bot%s/sendMessage" % BOT_TOKEN,
+        data=payload,
+        headers={"Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        print("telegram: %s" % resp.status)
 
 
 def _host_of(url):
@@ -306,17 +291,6 @@ def resolve_press_names(hits, cache):
     return resolved
 
 
-def build_message(resolved_hits, night_range=None):
-    lines = []
-    if night_range:
-        lines += ["야간 모아보기 %s" % night_range, ""]
-    for name, title, url in resolved_hits:
-        lines.append("[%s] %s" % (name, title))
-        lines.append(url)
-        lines.append("")
-    return "\n".join(lines).strip()
-
-
 # ---------- 메인 ----------
 
 def main():
@@ -375,7 +349,11 @@ def main():
         print("first run — baseline only, no send")
     elif hits:
         cache = state.setdefault("press_names", {})
-        send_telegram(build_message(resolve_press_names(hits, cache), night_range))
+        resolved = resolve_press_names(hits, cache)
+        if night_range:
+            _post_telegram("야간 모아보기 %s" % night_range)
+        for name, title, url in resolved:
+            _post_telegram("[%s] %s\n%s" % (name, title, url))
 
     state["initialized"] = True
     save_state(state)
