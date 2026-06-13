@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=267581",
-  "https://www.khan.co.kr/article/202606101335001",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=236216",
   "https://www.sportsseoul.com/news/read/1614942",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260610010003489",
   "http://www.dailypop.kr/news/articleView.html?idxno=99537",
@@ -2999,9 +2996,12 @@
   "https://www.news1.kr/it-science/general-it/6196474",
   "https://www.gpkorea.com/news/articleView.html?idxno=143710",
   "https://www.dailian.co.kr/news/view/1655637/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20260612165751007?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260612165751007?input=1195m",
+  "http://www.maniareport.com/view.php?ud=2026061320320593006cf2d78c68_19",
+  "http://www.stoo.com/article.php?aid=107139248020",
+  "https://www.segye.com/newsView/20260613505225?OutUrl=naver"
  ],
- "last_run": "2026-06-13T20:38:30.234441+09:00",
+ "last_run": "2026-06-13T20:40:57.531401+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3089,6 +3089,8 @@
   "gamevu.co.kr": "게임뷰",
   "e-science.co.kr": "이코노미사이언스",
   "inven.co.kr": "인벤",
-  "gamefocus.co.kr": "gamefocus.co.kr"
+  "gamefocus.co.kr": "gamefocus.co.kr",
+  "maniareport.com": "마니아타임즈",
+  "stoo.com": "stoo"
  }
 }
