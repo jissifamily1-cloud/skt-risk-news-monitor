@@ -203,8 +203,13 @@ def _norm_url(u):
 
 # ---------- 발송 ----------
 
+def _h(text):
+    """HTML 특수문자 이스케이프 (&, <, >)."""
+    return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
 def _post_telegram(text):
-    """텔레그램 단건 메시지 발송."""
+    """텔레그램 단건 메시지 발송 (HTML 파싱 모드)."""
     if DRY_RUN:
         print("[DRY_RUN] message:\n%s\n" % text)
         return
@@ -212,6 +217,7 @@ def _post_telegram(text):
     payload = json.dumps({
         "chat_id": chat_id_val,
         "text": text,
+        "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }).encode("utf-8")
     req = urllib.request.Request(
@@ -356,8 +362,8 @@ def main():
         if night_range:
             _post_telegram("야간 모아보기 %s" % night_range)
         for name, title, url, desc in resolved:
-            excerpt = ("\n" + desc[:200] + ("..." if len(desc) > 200 else "")) if desc else ""
-            _post_telegram("[%s] %s%s\n%s" % (name, title, excerpt, url))
+            excerpt = ("\n" + _h(desc[:200]) + ("..." if len(desc) > 200 else "")) if desc else ""
+            _post_telegram("%s\n<a href=\"%s\">%s</a>%s" % (_h(name), url, _h(title), excerpt))
 
     state["initialized"] = True
     save_state(state)
