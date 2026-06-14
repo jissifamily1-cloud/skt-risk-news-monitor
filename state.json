@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=103578",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=271093",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4419513",
   "http://www.globalepic.co.kr/view.php?ud=20260611142108256048439a4874_29",
@@ -2999,9 +2998,10 @@
   "https://www.news1.kr/world/usa-canada/6196663",
   "https://www.ikbc.co.kr/article/view/kbc202606140018",
   "http://www.osen.co.kr/article/G1112820967",
-  "https://view.asiae.co.kr/article/2026061411254202640"
+  "https://view.asiae.co.kr/article/2026061411254202640",
+  "http://www.datanews.co.kr/news/article.html?no=145127"
  ],
- "last_run": "2026-06-14T12:16:32.453541+09:00",
+ "last_run": "2026-06-14T12:18:35.147910+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3116,6 +3116,7 @@
   "greened.kr": "녹색경제신문",
   "thefairnews.co.kr": "더페어",
   "newsclaim.co.kr": "뉴스클레임",
-  "autodaily.co.kr": "엠투데이"
+  "autodaily.co.kr": "엠투데이",
+  "datanews.co.kr": "데이터뉴스"
  }
 }
