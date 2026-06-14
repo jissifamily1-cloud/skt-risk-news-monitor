@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=199316",
   "https://www.pointe.co.kr/news/articleView.html?idxno=80547",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=203316",
   "http://www.yonhapnewstv.co.kr/news/MYH20260611143527m7x",
@@ -2999,9 +2998,10 @@
   "https://www.hankookilbo.com/news/article/A2026061411390002990?did=NA",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=263500",
   "http://www.metroseoul.co.kr/article/20260614500120",
-  "http://www.metroseoul.co.kr/article/20260614500118"
+  "http://www.metroseoul.co.kr/article/20260614500118",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=262448"
  ],
- "last_run": "2026-06-14T12:46:33.331632+09:00",
+ "last_run": "2026-06-14T12:48:29.982069+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3118,6 +3118,7 @@
   "newsclaim.co.kr": "뉴스클레임",
   "autodaily.co.kr": "엠투데이",
   "datanews.co.kr": "데이터뉴스",
-  "whitepaper.co.kr": "화이트페이퍼"
+  "whitepaper.co.kr": "화이트페이퍼",
+  "financialpost.co.kr": "파이낸셜포스트"
  }
 }
