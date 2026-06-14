@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gosiweek.com/article/1065577396941698",
-  "https://www.newsway.co.kr/news/view?ud=2026061110091680817",
-  "http://www.4th.kr/news/articleView.html?idxno=2113025",
-  "https://www.segye.com/newsView/20260611507338?OutUrl=naver",
-  "https://www.widedaily.com/news/articleView.html?idxno=295563",
   "https://www.inthenews.co.kr/news/article.html?no=87944",
   "https://www.kukinews.com/article/view/kuk202606110039",
   "https://www.etnews.com/20260611000118",
@@ -2999,9 +2994,14 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=271229",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008609187&plink=ORI&cooper=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8585702",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459883"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459883",
+  "https://www.sentv.co.kr/article/view/sentv202606140009",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260614095657L1m",
+  "https://www.ziksir.com/news/articleView.html?idxno=136743",
+  "https://www.asiatime.co.kr/article/20260614500011",
+  "https://www.slist.kr/news/articleView.html?idxno=745145"
  ],
- "last_run": "2026-06-14T09:56:34.295788+09:00",
+ "last_run": "2026-06-14T09:58:35.978398+09:00",
  "initialized": true,
  "press_names": {
   "sidae.com": "동행미디어 시대",
@@ -3099,6 +3099,8 @@
   "srtimes.kr": "SR타임스",
   "electimes.com": "전기신문",
   "the-biz.co.kr": "THE Biz(더비즈)",
-  "econonews.co.kr": "이코노뉴스"
+  "econonews.co.kr": "이코노뉴스",
+  "sentv.co.kr": "(주) 서울경제티브이",
+  "asiatime.co.kr": "아시아타임즈"
  }
 }
