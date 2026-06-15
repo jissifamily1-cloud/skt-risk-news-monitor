@@ -183,19 +183,27 @@ def load_state():
 
 def save_state(state):
     state["seen_urls"] = state["seen_urls"][-MAX_SEEN_URLS:]
+    state["seen_titles"] = state.get("seen_titles", [])[-MAX_SEEN_URLS:]
     state["last_run"] = datetime.now(KST).isoformat()
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=1)
 
 
+_STRIP_PARAMS = frozenset({
+    "fbclid", "gclid", "ref", "from", "sid", "cate", "stype", "page",
+    "mode", "nt", "naver_source", "s_ref", "searchid", "search_id",
+    "category", "section", "listid", "list_id",
+})
+
 def _norm_url(u):
-    """dedup 키: fragment·추적 파라미터만 제거 (기사 ID 쿼리스트링은 유지)."""
+    """dedup 키: 추적·섹션 파라미터 제거 후 scheme+host+path+기사ID만 유지."""
     parts = urllib.parse.urlsplit(u)
     query = ""
     if parts.query:
         kept = [
             (k, v) for k, v in urllib.parse.parse_qsl(parts.query)
-            if not k.lower().startswith("utm") and k.lower() not in ("fbclid", "gclid", "ref")
+            if not k.lower().startswith("utm")
+            and k.lower() not in _STRIP_PARAMS
         ]
         query = urllib.parse.urlencode(kept)
     return urllib.parse.urlunsplit((parts.scheme, parts.netloc, parts.path, query, ""))
@@ -309,6 +317,7 @@ def main():
 
     state = load_state()
     seen = set(state["seen_urls"])
+    seen_titles = set(state.get("seen_titles", []))
     now = datetime.now(KST)
 
     # 마지막 실행 이후 발행분 커버 (야간 공백 포함). 최소 RECENCY_MINUTES 보장.
@@ -331,13 +340,16 @@ def main():
 
     first_run = not state.get("initialized", False)
     hits = []
-    dedup_titles = set()
     for title, url, pub, source, desc in articles:
         key = _norm_url(url)
-        if not key or key in seen:
+        tkey = re.sub(r"\s+", "", title)[:60]
+        if (key and key in seen) or tkey in seen_titles:
             continue
-        seen.add(key)
-        state["seen_urls"].append(key)
+        if key:
+            seen.add(key)
+            state["seen_urls"].append(key)
+        seen_titles.add(tkey)
+        state.setdefault("seen_titles", []).append(tkey)
         if pub and pub < cutoff:
             continue
         if blocked_url(url):
@@ -345,10 +357,6 @@ def main():
         m = match_keyword(title)
         if not m:
             continue
-        tkey = re.sub(r"\s+", "", title)[:40]
-        if tkey in dedup_titles:
-            continue
-        dedup_titles.add(tkey)
         hits.append((title, url, pub, source, m, desc))
 
     print("hits: %d" % len(hits))
