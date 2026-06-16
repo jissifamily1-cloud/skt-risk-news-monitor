@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=211754",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=154491",
-  "https://www.mk.co.kr/article/12075308",
   "https://www.etoday.co.kr/news/view/2594078",
   "http://www.metroseoul.co.kr/article/20260616500208",
   "https://www.kado.net/news/articleView.html?idxno=2055992",
@@ -2999,12 +2996,12 @@
   "https://www.mediawatch.kr/news/article.html?no=260056",
   "https://www.hankyung.com/article/202606170796i",
   "https://www.g-enews.com/view.php?ud=202606170837252320a96f092d0c_1",
-  "https://view.asiae.co.kr/article/2026061609175127232"
+  "https://view.asiae.co.kr/article/2026061609175127232",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=79701",
+  "https://www.ziksir.com/news/articleView.html?idxno=137099",
+  "https://thetracker.co.kr/View.aspx?No=4115033"
  ],
  "seen_titles": [
-  "미국보안리더들,앤트로픽규제철회촉구...\"국가안보오히려저해...",
-  "SKAX,'AI가일하는기업'청사진제시…에이전틱엔터프라이즈전환...",
-  "‘스페이스X’화려한데뷔…상장이틀만에40%급등",
   "비드래프트,GPQADiamond90.9%기록…AI과학추론리더보드1위",
   "엘리스그룹,국가AI데이터센터GPU인프라공급",
   "'개인정보유출'손배소확산…듀오1000여명·티빙9만명이상참여",
@@ -6001,7 +5998,10 @@
   "[AI인싸잇]미래에셋증권,스페이스XIPO공모주미배정책임있나…A...",
   "\"컴퓨팅용량과장\"...앤스로픽,월200달러AI요금제피소",
   "도미노피자,17일단하루‘SKTTday50%할인·적립",
-  "[Invest&Law]지평,개보위출신박성임변호사영입"
+  "[Invest&Law]지평,개보위출신박성임변호사영입",
+  "나인하이어,잡코리아원클릭지원연동으로채용이탈율잡는다",
+  "SKT,유동인구·매출·금융데이터로상권지원고도화",
+  "SK텔레콤,소상공인위한민관데이터연합구축"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,17 @@
   [
    "2026-06-17T08:42:17.151491+09:00",
    "박성임 지평 변호사 영입 출신"
+  ],
+  [
+   "2026-06-17T08:44:16.181341+09:00",
+   "금융 고도화 매출 유동인구 상권 지원 데이터로"
+  ],
+  [
+   "2026-06-17T08:44:16.181341+09:00",
+   "데이터 민관 연합 소상공인 위한 구축"
   ]
  ],
- "last_run": "2026-06-17T08:42:40.627944+09:00",
+ "last_run": "2026-06-17T08:44:43.342912+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6306,6 +6314,8 @@
   "econonews.co.kr": "이코노뉴스",
   "thebell.co.kr": "thebell.co.kr",
   "choicenews.co.kr": "초이스경제",
-  "greened.kr": "녹색경제신문"
+  "greened.kr": "녹색경제신문",
+  "ziksir.com": "직썰",
+  "thetracker.co.kr": "더트래커"
  }
 }
