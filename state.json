@@ -927,7 +927,12 @@
   "https://www.venturesquare.net/1091298/",
   "https://www.sjsori.com/news/articleView.html?idxno=86637",
   "https://www.datasom.co.kr/news/articleView.html?idxno=208918",
-  "http://www.boannews.com/media/view.asp?idx=144134&kind=1"
+  "http://www.boannews.com/media/view.asp?idx=144134&kind=1",
+  "https://www.businessplus.kr/news/articleView.html?idxno=112932",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3609746",
+  "http://www.paxetv.com/news/articleView.html?idxno=274740",
+  "http://www.techholic.co.kr/news/articleView.html?idxno=221685",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=85689"
  ],
  "seen_titles": [
   "장생포수국페스티벌,19일장생포고래문화마을서개막",
@@ -1855,7 +1860,12 @@
   "“AI모델만으로는부족하다”…업스테이지,‘다음·타임리’품고AI...",
   "[NZSIINDEX]2026년6월5일,주가는단기적으로트레이딩이결정한다",
   "최태원\"주식분할대상아니다\"VS노소영\"경영뒷받침한공동재산\"",
-  "“닌텐도금융문서등민감한정보탈취”...해킹조직주장"
+  "“닌텐도금융문서등민감한정보탈취”...해킹조직주장",
+  "'마이크로'에서'메가'로…전용100㎡이상중대형오피스텔새주류로...",
+  "금산군,농번기파상풍(Tdap)예방잡종당부",
+  "\"글로벌빅테크와함께AI인재키운다\"경과원,AI전문인력양성교육...",
+  "SKT,AI에이전트에사번부여-'AX혁신2.0'시행",
+  "카카오톡채팅방에들어온오픈AI…카카오,'ChatGPT챗봇'전격도입"
  ],
  "recent_sigs": [
   [
@@ -2013,9 +2023,13 @@
   [
    "2026-06-16T13:58:15.897620+09:00",
    "민감한 금융문서 탈취 정보 닌텐도 주장"
+  ],
+  [
+   "2026-06-16T14:00:39.353174+09:00",
+   "카카오톡 채팅방에 들어온 ChatGPT 도입 카카오 챗봇 전격"
   ]
  ],
- "last_run": "2026-06-16T13:58:37.491546+09:00",
+ "last_run": "2026-06-16T14:00:58.945858+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -2040,6 +2054,7 @@
   "cnbizm.com": "문화경제",
   "thepublic.kr": "더퍼블릭",
   "the-biz.co.kr": "THE Biz(더비즈)",
-  "boannews.com": "보안뉴스"
+  "boannews.com": "보안뉴스",
+  "worktoday.co.kr": "워크투데이"
  }
 }
