@@ -3,7 +3,9 @@
 
 소스: 네이버 뉴스 검색 Open API (NAVER_CLIENT_ID/SECRET 없으면 Google News RSS fallback)
 매칭: 제목에 KEYWORDS 중 하나라도 있으면 발송 (BLOCK_KEYWORDS 있으면 제외)
-중복: state.json seen_urls
+중복: state.json seen_urls / seen_titles + 유사 제목(near-dup) 묶음 차단
+발송: run당 MAX_SEND_PER_RUN건, 메시지 간 SEND_INTERVAL_SEC 간격, 429시 안전 중단
+      성공한 건만 seen 처리하고 save_state는 항상 실행 → 크래시·재발송 루프 방지
 실행: GitHub Actions (cron-job.org 트리거, 06~22시 KST)
 야간: 22시~06시 발행분은 06시 첫 실행에서 모아보기로 일괄 발송
 
@@ -17,9 +19,11 @@ import json
 import os
 import re
 import sys
+import time
 import html as html_mod
 import urllib.parse
 import urllib.request
+import urllib.error
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
@@ -31,6 +35,11 @@ from config import (
     EXCLUDED_WORDS,
     WORD_BOUNDARY_KEYWORDS,
     RECENCY_MINUTES,
+    MAX_SEND_PER_RUN,
+    SEND_INTERVAL_SEC,
+    NEAR_DUP_MIN_SHARED,
+    NEAR_DUP_HOURS,
+    NEAR_DUP_MAX,
     PRESS_FETCH_MAX,
     PRESS_FETCH_TIMEOUT,
     FETCH_COUNT,
@@ -70,15 +79,6 @@ def _contains_keyword(text, keyword):
     return keyword in text
 
 
-def blocked_url(url):
-    """스포츠 전문 매체 도메인 또는 스포츠 섹션 URL이면 True."""
-    host = _host_of(url)
-    for d in BLOCK_DOMAINS:
-        if host == d or host.endswith("." + d):
-            return True
-    return any(k in url.lower() for k in BLOCK_URL_KEYWORDS)
-
-
 def match_keyword(title):
     """제목에 KEYWORDS 중 하나라도 있으면 해당 키워드 반환.
 
@@ -88,6 +88,54 @@ def match_keyword(title):
     if any(b in text for b in BLOCK_KEYWORDS):
         return None
     return next((k for k in KEYWORDS if _contains_keyword(text, k)), None)
+
+
+# ---------- 유사 제목(near-duplicate) 판정 ----------
+
+# 제목 토큰화 시 무시할 일반 단어 (같은 사안 판정 정확도 향상)
+_STOP_TOKENS = frozenset({
+    "속보", "단독", "공식", "종합", "기자", "뉴스", "오늘", "내일", "관련",
+    "위해", "통해", "대한", "밝혀", "예정", "이번", "최대", "최초", "그룹",
+    "AI", "추진", "전환", "조직", "으로", "일하는", "방식",
+})
+
+_KW_LOWER = frozenset(k.lower() for k in KEYWORDS)
+
+
+def _title_tokens(title):
+    """제목에서 고유 토큰 집합 추출. 괄호 태그·일반어·키워드·숫자 제거, 2자 이상만.
+
+    키워드(SKT 등)는 모든 관련 기사에 공통이라 제외해야 변별력이 생긴다.
+    """
+    t = _clean_text(title)
+    t = re.sub(r"\[[^\]]*\]", " ", t)            # [속보] [단독] 등 제거
+    out = set()
+    for w in re.findall(r"[가-힣A-Za-z0-9]{2,}", t):
+        if w in _STOP_TOKENS or w.lower() in _KW_LOWER or w.isdigit():
+            continue
+        out.add(w)
+    return out
+
+
+def _is_near_dup(tokens, sig_list):
+    """tokens가 sig_list 중 하나와 고유어를 NEAR_DUP_MIN_SHARED개 이상 공유하면 True."""
+    return any(len(tokens & s) >= NEAR_DUP_MIN_SHARED for s in sig_list)
+
+
+def _load_recent_sigs(state, now):
+    """state의 recent_sigs 중 NEAR_DUP_HOURS 이내만 토큰셋 리스트로 반환 (만료분 정리)."""
+    kept = []
+    sets = []
+    for item in state.get("recent_sigs", []):
+        try:
+            ts = datetime.fromisoformat(item[0])
+        except Exception:
+            continue
+        if (now - ts) <= timedelta(hours=NEAR_DUP_HOURS):
+            kept.append(item)
+            sets.append(set(item[1].split()))
+    state["recent_sigs"] = kept[-NEAR_DUP_MAX:]
+    return sets
 
 
 # ---------- 수집 ----------
@@ -184,6 +232,7 @@ def load_state():
 def save_state(state):
     state["seen_urls"] = state["seen_urls"][-MAX_SEEN_URLS:]
     state["seen_titles"] = state.get("seen_titles", [])[-MAX_SEEN_URLS:]
+    state["recent_sigs"] = state.get("recent_sigs", [])[-NEAR_DUP_MAX:]
     state["last_run"] = datetime.now(KST).isoformat()
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=1)
@@ -217,7 +266,7 @@ def _h(text):
 
 
 def _post_telegram(text):
-    """텔레그램 단건 메시지 발송 (HTML 파싱 모드)."""
+    """텔레그램 단건 메시지 발송 (HTML 파싱 모드). 실패 시 예외 그대로 전파."""
     if DRY_RUN:
         print("[DRY_RUN] message:\n%s\n" % text)
         return
@@ -308,6 +357,15 @@ def resolve_press_names(hits, cache):
     return resolved
 
 
+def blocked_url(url):
+    """스포츠/게임 전문 매체 도메인 또는 스포츠 섹션 URL이면 True."""
+    host = _host_of(url)
+    for d in BLOCK_DOMAINS:
+        if host == d or host.endswith("." + d):
+            return True
+    return any(k in url.lower() for k in BLOCK_URL_KEYWORDS)
+
+
 # ---------- 메인 ----------
 
 def main():
@@ -339,42 +397,84 @@ def main():
     print("fetched: %d, night_mode: %s" % (len(articles), night_mode))
 
     first_run = not state.get("initialized", False)
-    hits = []
+    recent_sigs = _load_recent_sigs(state, now)
+
+    def _mark_seen(key, tkey):
+        if key and key not in seen:
+            seen.add(key)
+            state["seen_urls"].append(key)
+        if tkey not in seen_titles:
+            seen_titles.add(tkey)
+            state.setdefault("seen_titles", []).append(tkey)
+
+    # 1) 중복 URL/제목 제거 + 기간·차단·키워드 필터 → 후보 (발송 전엔 seen 처리 안 함)
+    candidates = []
     for title, url, pub, source, desc in articles:
         key = _norm_url(url)
         tkey = re.sub(r"\s+", "", title)[:60]
         if (key and key in seen) or tkey in seen_titles:
             continue
-        if key:
-            seen.add(key)
-            state["seen_urls"].append(key)
-        seen_titles.add(tkey)
-        state.setdefault("seen_titles", []).append(tkey)
-        if pub and pub < cutoff:
+        if (pub and pub < cutoff) or blocked_url(url) or not match_keyword(title):
+            _mark_seen(key, tkey)   # 발송 대상 아님 → 즉시 seen 처리
             continue
-        if blocked_url(url):
+        candidates.append((title, url, pub, source, match_keyword(title), desc, key, tkey))
+
+    # 2) 유사 기사(같은 보도자료) 묶음 차단
+    accepted = []
+    run_sigs = []
+    for (title, url, pub, source, kw, desc, key, tkey) in candidates:
+        toks = _title_tokens(title)
+        if len(toks) >= NEAR_DUP_MIN_SHARED and (_is_near_dup(toks, recent_sigs) or _is_near_dup(toks, run_sigs)):
+            _mark_seen(key, tkey)   # 같은 사안 → 1건만 남기고 드롭
             continue
-        m = match_keyword(title)
-        if not m:
-            continue
-        hits.append((title, url, pub, source, m, desc))
+        run_sigs.append(toks)
+        accepted.append((title, url, pub, source, kw, desc, key, tkey, toks))
 
-    print("hits: %d" % len(hits))
+    print("hits: %d (candidates: %d)" % (len(accepted), len(candidates)))
 
-    if first_run:
-        # 최초 실행은 기존 기사를 seen 처리만 하고 발송 생략 (과거 기사 폭주 방지)
-        print("first run — baseline only, no send")
-    elif hits:
-        cache = state.setdefault("press_names", {})
-        resolved = resolve_press_names(hits, cache)
-        if night_range:
-            _post_telegram("야간 모아보기 %s" % night_range)
-        for name, title, url, desc in resolved:
-            excerpt = ("\n" + _h(desc[:200]) + ("..." if len(desc) > 200 else "")) if desc else ""
-            _post_telegram("%s\n<a href=\"%s\">%s</a>%s" % (_h(name), url, _h(title), excerpt))
-
-    state["initialized"] = True
-    save_state(state)
+    try:
+        if first_run:
+            # 최초 실행은 기존 기사를 seen 처리만 하고 발송 생략 (과거 기사 폭주 방지)
+            print("first run — baseline only, no send")
+            for item in accepted:
+                _mark_seen(item[6], item[7])
+        elif accepted:
+            cache = state.setdefault("press_names", {})
+            to_send = accepted[:MAX_SEND_PER_RUN]   # 초과분은 seen 처리 안 함 → 다음 run으로 분산
+            resolved = resolve_press_names(
+                [(t, u, p, s, kw, d) for (t, u, p, s, kw, d, k, tk, to) in to_send], cache
+            )
+            if night_range:
+                try:
+                    _post_telegram("야간 모아보기 %s" % night_range)
+                except Exception as e:
+                    print("header send error: %s" % e)
+            sent = 0
+            for idx, (name, title, url, desc) in enumerate(resolved):
+                key, tkey, toks = to_send[idx][6], to_send[idx][7], to_send[idx][8]
+                excerpt = ("\n" + _h(desc[:200]) + ("..." if len(desc) > 200 else "")) if desc else ""
+                try:
+                    _post_telegram("%s\n<a href=\"%s\">%s</a>%s" % (_h(name), url, _h(title), excerpt))
+                except urllib.error.HTTPError as e:
+                    if e.code == 429:
+                        print("429 rate limit — stop (%d sent, %d남음 다음 run)" % (sent, len(to_send) - idx))
+                        break
+                    print("send error 4xx (skip): %s" % e)
+                    _mark_seen(key, tkey)   # 400 등 영구 오류는 재시도 무의미 → seen 처리
+                    continue
+                except Exception as e:
+                    print("send error — stop: %s" % e)
+                    break
+                # 성공 → seen + 유사판정 시그니처 기록
+                _mark_seen(key, tkey)
+                state.setdefault("recent_sigs", []).append([now.isoformat(), " ".join(toks)])
+                recent_sigs.append(toks)
+                sent += 1
+                time.sleep(SEND_INTERVAL_SEC)
+            print("sent: %d" % sent)
+    finally:
+        state["initialized"] = True
+        save_state(state)
 
 
 if __name__ == "__main__":

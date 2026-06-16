@@ -120,6 +120,17 @@ FETCH_COUNT_NIGHT = 100
 # state.json에 보관할 최대 URL 수
 MAX_SEEN_URLS = 3000
 
+# 발송 제어 (텔레그램 429 Too Many Requests 방지)
+MAX_SEND_PER_RUN = 20      # run당 최대 발송 건수 (초과분은 다음 run으로 분산)
+SEND_INTERVAL_SEC = 2.0    # 메시지 간 간격(초) — 텔레그램 그룹 분당 한도 회피
+
+# 유사 기사(같은 보도자료를 여러 매체가 받아쓴 경우) 묶음 차단
+# 제목에서 키워드·일반어·숫자를 뺀 "고유 토큰"을 이 개수 이상 공유하면 같은 사안 → 1건만 발송.
+# (한국어 헤드라인은 조사 변형이 심해 Jaccard 비율보다 공유어 개수가 안정적)
+NEAR_DUP_MIN_SHARED = 2    # 값을 1로 낮추면 더 공격적으로 묶음(무관기사 오병합 위험↑)
+NEAR_DUP_HOURS = 6         # 유사 판정용 제목 시그니처 보관 시간
+NEAR_DUP_MAX = 800         # 보관 시그니처 최대 개수
+
 # PRESS_MAP에 없는 도메인의 매체명 동적 조회 (기사 페이지 og:site_name)
 PRESS_FETCH_MAX = 10      # 실행당 신규 도메인 조회 상한
 PRESS_FETCH_TIMEOUT = 8   # 조회 타임아웃(초)
