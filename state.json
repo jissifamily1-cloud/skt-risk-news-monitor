@@ -595,7 +595,17 @@
   "https://news.tf.co.kr/read/economy/2333134.htm",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=206144",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=188638",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=544927"
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=544927",
+  "https://biz.heraldcorp.com/article/10772637",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80059",
+  "https://biz.heraldcorp.com/article/10772640",
+  "https://www.econovill.com/news/articleView.html?idxno=742500",
+  "https://biz.heraldcorp.com/article/10772636",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=85678",
+  "http://www.metroseoul.co.kr/article/20260616500151",
+  "https://biz.heraldcorp.com/article/10772635",
+  "https://www.ikbc.co.kr/article/view/kbc202606160027",
+  "https://www.slist.kr/news/articleView.html?idxno=745565"
  ],
  "seen_titles": [
   "장생포수국페스티벌,19일장생포고래문화마을서개막",
@@ -1191,7 +1201,17 @@
   "삼성전자,글로벌전략회의시작…이재용표'AI대전환'속도낸다",
   "SWM.AI,한성대·스마트라이드와손잡고교통약자자율주행실증",
   "[WIKIAtoZ]청와대영빈관에서진흙탕법정으로…최태원·노소영'11년...",
-  "엔비디아,30조규모회사채발행나선다…AI투자금몰려"
+  "엔비디아,30조규모회사채발행나선다…AI투자금몰려",
+  "“규제풀었더니홈쇼핑과상생으로이어졌다”",
+  "[기획]\"장남이아니라도괜찮아\"…재계이끄는'차남리더십'",
+  "‘U+드라이브’토요타커넥트,올뉴RAV4탑재",
+  "DB손보\"차대차사고,AI가과실판정\"…업계최초AI블랙박스분석시스...",
+  "카카오톡채팅방에서바로‘챗GPT’쓴다",
+  "\"AI데이터센터냉각전력10분의1로\"....KAIST,AI반도체'발열난제...",
+  "AI가동료된다\"…SKT,AI에이전트에사번주고'AX2.0'시동",
+  "“AI새업무주체”SK텔레콤‘AX혁신2.0’",
+  "'방망이식었는데...'KIA,이번주'1·2위'LG·KT만난다",
+  "젠슨황,'유퀴즈'출연으로TV·OTT출연자화제성1위"
  ],
  "recent_sigs": [
   [
@@ -1201,12 +1221,30 @@
   [
    "2026-06-16T11:30:36.514785+09:00",
    "회사채 투자금 나선다 몰려 발행 30조 규모"
+  ],
+  [
+   "2026-06-16T11:32:22.964824+09:00",
+   "AX혁신 업무주체"
+  ],
+  [
+   "2026-06-16T11:32:22.964824+09:00",
+   "AI가 동료 주고 사번 에이전트에 AX 시동 된다"
+  ],
+  [
+   "2026-06-16T11:32:22.964824+09:00",
+   "2위 KIA LG 방망이 만난다 식었는데"
+  ],
+  [
+   "2026-06-16T11:32:22.964824+09:00",
+   "젠슨 출연으로 TV OTT 1위 유퀴즈 화제성 출연자"
   ]
  ],
- "last_run": "2026-06-16T11:31:00.326036+09:00",
+ "last_run": "2026-06-16T11:33:01.449140+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
-  "autodaily.co.kr": "엠투데이"
+  "autodaily.co.kr": "엠투데이",
+  "ikbc.co.kr": "KBC광주방송",
+  "slist.kr": "싱글리스트"
  }
 }
