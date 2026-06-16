@@ -2025,7 +2025,12 @@
   "http://www.osen.co.kr/article/G1112822266",
   "https://n.news.naver.com/mnews/article/091/0010233415",
   "http://www.boannews.com/media/view.asp?idx=144143&kind=3",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1781602436&code=11151400&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=1781602436&code=11151400&cp=nv",
+  "http://www.osen.co.kr/article/G1112822281",
+  "http://www.osen.co.kr/article/G1112822283",
+  "https://www.sportschosun.com/baseball/2026-06-16/202606160100110560007127",
+  "https://www.sportschosun.com/baseball/2026-06-16/202606160100110600007131",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=58736"
  ],
  "seen_titles": [
   "장생포수국페스티벌,19일장생포고래문화마을서개막",
@@ -4051,13 +4056,14 @@
   "[사진]류승민'이적후첫안타는2루타'",
   "epaselectJAPANSOFTBANKOPENAI",
   "韓미토스접근무산...중국연계한국통신사탓?이통3사“사실무근...",
-  "하루아침에막힌앤트로픽AI“배경엔韓통신사,中연관의심”"
+  "하루아침에막힌앤트로픽AI“배경엔韓통신사,中연관의심”",
+  "[사진]2루타류승민",
+  "[사진]류승민'2루타'",
+  "[포토]류승민'프로통산첫번째안타는2루타'",
+  "[포토]류승민'첫타석기분좋은2루타'",
+  "[NDC26]\"도구를쫓지마라\",오픈AI출신CTO가말한성장의조건"
  ],
  "recent_sigs": [
-  [
-   "2026-06-16T13:12:21.874520+09:00",
-   "조정 무산 재산분할"
-  ],
   [
    "2026-06-16T13:14:21.820820+09:00",
    "Ahead IPO Leadership 34B Pushes of Spending Market"
@@ -4449,9 +4455,13 @@
   [
    "2026-06-16T19:04:19.547032+09:00",
    "협력사에 메모리 경영으로 지급 확보용 상생 위기 극복 선금"
+  ],
+  [
+   "2026-06-16T19:12:25.388653+09:00",
+   "성장의 CTO가 출신 말한 조건 쫓지 마라 도구를"
   ]
  ],
- "last_run": "2026-06-16T19:10:47.184233+09:00",
+ "last_run": "2026-06-16T19:12:45.188103+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -4505,6 +4515,7 @@
   "getnews.co.kr": "글로벌경제신문",
   "tokenpost.kr": "토큰포스트",
   "weeklytoday.com": "위클리오늘",
-  "aitimes.com": "AI타임스"
+  "aitimes.com": "AI타임스",
+  "gamevu.co.kr": "게임뷰"
  }
 }
