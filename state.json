@@ -811,7 +811,12 @@
   "http://www.fnnews.com/news/202606161309531167",
   "https://www.dailian.co.kr/news/view/1656439/?sc=Naver",
   "https://platum.kr/archives/289025",
-  "https://www.naeil.com/news/read/592076"
+  "https://www.naeil.com/news/read/592076",
+  "https://www.joongangenews.com/news/articleView.html?idxno=526250",
+  "https://byline.network/?p=9004111222607643",
+  "http://www.press9.kr/news/articleView.html?idxno=77970",
+  "https://www.mk.co.kr/article/12075296",
+  "https://www.econotimes.com/OpenAIs-34B-Spending-Pushes-AI-Market-Leadership-Ahead-of-IPO-1744405"
  ],
  "seen_titles": [
   "장생포수국페스티벌,19일장생포고래문화마을서개막",
@@ -1623,7 +1628,12 @@
   "고교서반도체·AI배워대기업간다",
   "[현장]업스테이지김성훈\"다음인수이유?천만명이토큰쓰게만드는...",
   "경기콘텐츠진흥원,'판교허브투자유치밸류업패키지'참가사모집",
-  "최태원-노소영,재산분할조정무산"
+  "최태원-노소영,재산분할조정무산",
+  "토요타코리아,\"도심부터모험까지\"...'올뉴RAV4'공개",
+  "‘AI모델·에이전트·포털’종합AI회사‘업스테이지컴퍼니’출범",
+  "삼성전자,동유럽락페스티벌서세탁기로관람객잡았다",
+  "SKT,AI에사번부여하고인력처럼관리...에이전트시대조직체계실험",
+  "OpenAI's$34BSpendingPushesAIMarketLeadershipAheadofIPO"
  ],
  "recent_sigs": [
   [
@@ -1717,9 +1727,13 @@
   [
    "2026-06-16T13:12:21.874520+09:00",
    "조정 무산 재산분할"
+  ],
+  [
+   "2026-06-16T13:14:21.820820+09:00",
+   "Ahead IPO Leadership 34B Pushes of Spending Market"
   ]
  ],
- "last_run": "2026-06-16T13:12:46.833385+09:00",
+ "last_run": "2026-06-16T13:14:53.913017+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -1737,6 +1751,7 @@
   "news.bbsi.co.kr": "불교방송",
   "mediawatch.kr": "인싸잇",
   "joongangenews.com": "중앙이코노미뉴스",
-  "naeil.com": "내일신문"
+  "naeil.com": "내일신문",
+  "econotimes.com": "econotimes.com"
  }
 }
