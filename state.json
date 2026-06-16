@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260616000220",
-  "http://www.suwonilbo.kr/news/articleView.html?idxno=316358",
-  "https://www.mk.co.kr/article/12075312",
   "https://www.ytn.co.kr/_ln/0134_202606161335515854",
   "http://www.techholic.co.kr/news/articleView.html?idxno=221684",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4420229",
@@ -2999,12 +2996,12 @@
   "https://www.newspim.com/news/view/20260617000140",
   "https://daily.hankooki.com/news/articleView.html?idxno=1377182",
   "https://www.yna.co.kr/view/PYH20260617021500013?input=1196m",
-  "https://www.newsis.com/view/NISX20260617_0003671973"
+  "https://www.newsis.com/view/NISX20260617_0003671973",
+  "https://www.klnews.co.kr/news/articleView.html?idxno=321531",
+  "https://www.seoulfn.com/news/articleView.html?idxno=631255",
+  "http://www.datanews.co.kr/news/article.html?no=145131"
  ],
  "seen_titles": [
-  "유비씨·EY한영,PhysicalAI기반휴머노이드로봇기술공동개발",
-  "경과원,'인공지능(AI)전문인력양성사업'교육생60명모집",
-  "“내정보유출피해배상받자”…티빙9만명·듀오1000명소송참여",
   "[자막뉴스]\"중계권은왜산거냐?\"...투자자분노한JTBC사태총정리",
   "KT,AI투자확대속메모리·원자재급등선제대응-협력사선금지급",
   "LG손잡은토요타,韓특화소프트웨어탑재한'올뉴RAV4'출시",
@@ -6001,7 +5998,10 @@
   "[AIMY증시전망]\"반도체조정여파속유가안정에낙폭제한전망\"",
   "SK텔레콤,민관데이터협력체계구축…지역상권정밀분석",
   "SKT,소상공인위한민관데이터연합구축",
-  "\"신촌상권,일요일밤에돈번다\"…SKT,KB와소상공인데이터지원"
+  "\"신촌상권,일요일밤에돈번다\"…SKT,KB와소상공인데이터지원",
+  "국토부,AI로물류현장문제해결할'MOVE-AIChallenge'해커톤개최",
+  "AI시대맞아13년만에풀린금융권망분리···기대반·우려반",
+  "트럼프도,샌더스도,올트먼도“AI가버는돈,전국민나눠주자”"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,13 @@
   [
    "2026-06-17T08:50:32.451597+09:00",
    "소상공인 융합 동맹 살릴 키웠다 빅데이터"
+  ],
+  [
+   "2026-06-17T08:54:15.466779+09:00",
+   "AI가 올트먼도 버는 국민 나눠주자 트럼프도 샌더스도"
   ]
  ],
- "last_run": "2026-06-17T08:52:42.020785+09:00",
+ "last_run": "2026-06-17T08:54:38.664172+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6295,7 +6299,7 @@
   "ezyeconomy.com": "이지경제",
   "thefirstmedia.net": "더퍼스트미디어",
   "wikitree.co.kr": "위키트리",
-  "datanews.co.kr": "datanews.co.kr",
+  "datanews.co.kr": "데이터뉴스",
   "socialvalue.kr": "socialvalue.kr",
   "financialreview.co.kr": "파이낸셜리뷰",
   "insight.co.kr": "인사이트",
