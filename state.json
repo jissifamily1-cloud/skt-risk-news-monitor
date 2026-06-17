@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womennews.co.kr/news/articleView.html?idxno=278646",
-  "https://www.etoday.co.kr/news/view/2592739",
-  "http://www.newstomato.com/ReadNews.aspx?no=1303693&inflow=N",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=80547",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3066162",
-  "https://www.widedaily.com/news/articleView.html?idxno=295563",
-  "https://www.starnewskorea.com/broadcast-show/2026/06/11/2026061109530985896",
   "https://www.tenasia.co.kr/article/2026061197364",
   "https://www.mk.co.kr/article/12071271",
   "https://www.sidae.com/article/2026061108590687442",
@@ -2999,16 +2992,16 @@
   "https://www.dt.co.kr/article/12068100",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=308409",
   "https://www.mt.co.kr/finance/2026/06/17/2026061715405067526",
-  "https://www.khan.co.kr/article/202606171547001"
+  "https://www.khan.co.kr/article/202606171547001",
+  "http://www.osen.co.kr/article/G1112822914",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675925",
+  "https://www.news1.kr/life-culture/performance-exhibition/6200150",
+  "https://www.yna.co.kr/view/AKR20260617128400017?input=1195m",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/17/2026061790214.html",
+  "https://www.ddaily.co.kr/page/view/2026061715445385425",
+  "https://www.aitimes.com/news/articleView.html?idxno=211820"
  ],
  "seen_titles": [
-  "최태원,왜일본에AI팩토리꽂나…HBM·GPU·소부장‘삼각동맹’",
-  "SK브로드밴드도고객귀책AS출동비약관명시…IPTV3사모두운영",
-  "[이승욱의포인트]최태원의선택이빚은'SK-젠슨황의시간'",
-  "KB증권SK텔레콤AI인프라사업성장기대목표가상향",
-  "KB證\"SKT,AI인프라확장에수익성개선…목표가15만원↑\"",
-  "전현무,배성재에연애조언했는데..\"김다영과비밀연애중이었다\"[전...",
-  "\"애기라고불러\"배성재,♥14살연하김다영애칭공개했다…\"전생에...",
   "“2배올랐는데여기서더?”…AI인프라업은SKT,목표가15만원[오늘...",
   "[아침밥]KB증권\"SKT,AI인프라사업성장기대감…목표가15만원\"",
   "“SK텔레콤,AI인프라사업기대에목표가↑”-KB",
@@ -6001,17 +5994,16 @@
   "IITP,AX풀스택지원속도…“AIR&D발전소될것”",
   "\"데이터많이가진기업이이긴다\"는옛말…AI경쟁력은'신뢰'",
   "KB금융,서울신보·SKT와맞손…\"빅데이터로소상공인경쟁력강화\"",
-  "‘앤트로픽수출통제는중국연계한국통신사때문’보도에국내통신..."
+  "‘앤트로픽수출통제는중국연계한국통신사때문’보도에국내통신...",
+  "‘삼성→두산’트레이드이적생,2G연속선발!오명진5번+타카다-양의...",
+  "비-x86서버매출1년만에107%급증…x86점유율절반수준으로",
+  "\"韓전통공예,AI기술만나파리를홀리다\"…디지털자산미래제시",
+  "이통3사\"미국AI통제보도속'중국연계통신사'우리아냐\"",
+  "도미노피자,SKT멤버십고객대상최대50%할인",
+  "'에이전틱AI'승부수띄운KT…초개인화AI비서연내상용화",
+  "한국딥러닝,1.2B모델로글로벌'문서파싱'부문1위...\"구글·오픈AI..."
  ],
  "recent_sigs": [
-  [
-   "2026-06-17T09:52:18.817762+09:00",
-   "SK하이닉스 근육 뽑는 간판 결단 최태원의 진짜"
-  ],
-  [
-   "2026-06-17T09:52:18.817762+09:00",
-   "발맞출 젠슨 수밖에 사회가 시대적 변화에"
-  ],
   [
    "2026-06-17T09:58:23.060944+09:00",
    "젠슨 성공하길 성공 정치적 성공하면 의견 트럼프 달라도"
@@ -6427,9 +6419,13 @@
   [
    "2026-06-17T15:50:31.670489+09:00",
    "때문 보도에 한국 중국 국내 통신 앤트로픽 수출통제는 연계"
+  ],
+  [
+   "2026-06-17T15:52:19.401049+09:00",
+   "구글 파싱 한국딥러닝 모델로 부문 1위 문서 2B 글로벌"
   ]
  ],
- "last_run": "2026-06-17T15:50:57.192706+09:00",
+ "last_run": "2026-06-17T15:52:41.650453+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
