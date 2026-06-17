@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6534077",
-  "https://www.starnewskorea.com/sports/2026/06/16/2026061615193414334",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008613539&plink=ORI&cooper=NAVER",
-  "https://www.mydaily.co.kr/page/view/2026061621162047003",
-  "https://www.m-i.kr/news/articleView.html?idxno=1382219",
-  "http://www.maniareport.com/view.php?ud=2026061622034272776cf2d78c68_19",
-  "https://www.newsis.com/view/NISX20260616_0003671726",
-  "https://www.mydaily.co.kr/page/view/2026061622013930671",
-  "https://www.xportsnews.com/article/2161181",
   "https://www.news1.kr/sports/baseball/6199402",
   "http://www.stoo.com/article.php?aid=107188130589",
   "http://www.stoo.com/article.php?aid=107188099989",
@@ -2999,18 +2990,18 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1377444",
   "https://www.segye.com/newsView/20260617502390?OutUrl=naver",
   "http://www.yonhapnewstv.co.kr/news/AKR20260617163538mRj",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2282344"
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2282344",
+  "https://zdnet.co.kr/view/?no=20260617160949",
+  "https://www.ajunews.com/view/20260616151605633",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2282349",
+  "https://www.thisisgame.com/articles/426428",
+  "https://www.etoday.co.kr/news/view/2594617",
+  "http://www.wsobi.com/news/articleView.html?idxno=313867",
+  "http://www.newstomato.com/ReadNews.aspx?no=1304313&inflow=N",
+  "https://www.ceoscoredaily.com/page/view/2026061716102281144",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207211"
  ],
  "seen_titles": [
-  "'결승타+2타점'강렬복귀안현민\"아프지않고잘마쳐기쁘다\"[잠실...",
-  "김도영·오스틴,나란히20호포…안현민은복귀전2타점",
-  "지금KIA타선은김도영하고김호령만보인다…LG·KT5G어떻게하려고...",
-  "롯데,SSG꺾고최하위탈출…전민재만루포",
-  "'복귀전안현민2타점'KT,두산6-2제압하고3연승...힐리어드투런·고...",
-  "오스틴·김도영시즌20호포…LG,KIA꺾고선두질주·3연승(종합)",
-  "'두산허탈하겠네'고영표,득점권10타수무피안타신들린피칭…\"베테...",
-  "'1위LG2G차유지'이끈QS장인,9피안타에도5승거뒀다…\"동진이멋...",
-  "롯데전민재,탈꼴찌이끈만루포…돌아온KT안현민결승타(종합)",
   "[ST포토]치어리더김해리,신나는응원",
   "[ST포토]치어리더김해리,다같이응원해요",
   "'최고152km쾅'KIA亞쿼터투수또쓴맛봤다…3이닝연속실점→2G연...",
@@ -6001,7 +5992,16 @@
   "과기정통부·NIA,제39회정보문화의달기념식...디지털포용확산",
   "“여름선크림?한국산씁니다”…일본서불티나는K-뷰티[트렌드]",
   "이통3사\"미AI통제보도에'중국연계통신사'우리아냐\"",
-  "KT인재개발원개발갈등확산…요양병원\"이주대책논의선행돼야\""
+  "KT인재개발원개발갈등확산…요양병원\"이주대책논의선행돼야\"",
+  "실전뛰어든AI에이전트…\"기업성과열쇠는'기술·업무연결'\"",
+  "[김호균칼럼]반도체공급망내제화가경제안보강화의길",
+  "정부가인정한수자원공사AI혁신…윤석대號물관리대전환성과입증",
+  "[NDC26]AI에게아트리뷰를맡길수있을까,넥슨게임즈의실험",
+  "월가새AI슈퍼스타테마‘MANGOS’⋯ETF출시채비",
+  "동아쏘시오그룹·대웅제약,글로벌파트너십확대·아크와AI헬스케어...",
+  "CCL부터HVLP까지‘병목’…반도체소재도훈풍",
+  "네이버,‘아시아판코어위브’넘는다…“AI인프라는특목법인·GPU는...",
+  "HPE-엔비디아,실무운영환경적합한에이전틱AI솔루션발표"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-06-17T16:36:23.666230+09:00",
    "KT인재개발원 갈등 개발 확산 논의 요양병원 이주대책 선행돼야"
+  ],
+  [
+   "2026-06-17T16:40:33.504438+09:00",
+   "에이전틱 솔루션 적합한 HPE 운영 실무 환경 발표"
   ]
  ],
- "last_run": "2026-06-17T16:38:47.033548+09:00",
+ "last_run": "2026-06-17T16:41:00.254835+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6486,6 +6490,7 @@
   "news2day.co.kr": "뉴스투데이",
   "dealsite.co.kr": "dealsite.co.kr",
   "1conomynews.co.kr": "1코노미뉴스",
-  "daejonilbo.com": "대전일보"
+  "daejonilbo.com": "대전일보",
+  "dailysecu.com": "데일리시큐"
  }
 }
