@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/sport/2026/06/17/20260617500001?wlog_tag3=naver",
-  "https://isplus.com/article/view/isp202606160140",
-  "https://www.mk.co.kr/article/12075877",
-  "https://www.sportschosun.com/baseball/2026-06-16/202606160100112120007236",
-  "https://www.ngonews.kr/news/articleView.html?idxno=231247",
   "https://www.nocutnews.co.kr/news/6534077",
   "https://www.starnewskorea.com/sports/2026/06/16/2026061615193414334",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008613539&plink=ORI&cooper=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=112998",
   "https://www.mk.co.kr/article/12076520",
   "https://www.yna.co.kr/view/AKR20260617135400009?input=1195m",
-  "http://www.itdaily.kr/news/articleView.html?idxno=239905"
+  "http://www.itdaily.kr/news/articleView.html?idxno=239905",
+  "http://www.newstomato.com/ReadNews.aspx?no=1304322&inflow=N",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1377444",
+  "https://www.segye.com/newsView/20260617502390?OutUrl=naver",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260617163538mRj",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2282344"
  ],
  "seen_titles": [
-  "터미네이터101서모델변경?턱선살아난안현민은'친구'와'단장님'께...",
-  "꼴찌벗어났다!…‘전민재만루포+나승엽연타석홈런’롯데,SSG꺾고...",
-  "2달만의복귀,바로결승타때리는존재감\"팀에미안했다.더열심히...",
-  "\"1000만관중의그늘\"…프로야구장99.4%매장서일회용품사용",
-  "가을야구?이미시작됐다…'LG·kt·삼성'3強,3연승질주!",
   "'결승타+2타점'강렬복귀안현민\"아프지않고잘마쳐기쁘다\"[잠실...",
   "김도영·오스틴,나란히20호포…안현민은복귀전2타점",
   "지금KIA타선은김도영하고김호령만보인다…LG·KT5G어떻게하려고...",
@@ -6001,13 +5996,14 @@
   "[뉴스+]삼성전자DX부문,AI대전환으로위기돌파",
   "‘xAI’한계인정한머스크…600억달러승부수던졌다",
   "NYT\"AI붐에한국·대만으로기술패권이동…중국은소외\"",
-  "구글클라우드,'보안운영플랫폼'서울리전출시…\"AI로보안업무자..."
+  "구글클라우드,'보안운영플랫폼'서울리전출시…\"AI로보안업무자...",
+  "독파모2차평가앞두고…몸집불리는AI스타트업",
+  "과기정통부·NIA,제39회정보문화의달기념식...디지털포용확산",
+  "“여름선크림?한국산씁니다”…일본서불티나는K-뷰티[트렌드]",
+  "이통3사\"미AI통제보도에'중국연계통신사'우리아냐\"",
+  "KT인재개발원개발갈등확산…요양병원\"이주대책논의선행돼야\""
  ],
  "recent_sigs": [
-  [
-   "2026-06-17T10:36:15.027114+09:00",
-   "BBQ 글로벌에서 효과 치킨 한류 키우는 윤홍근의 젠슨"
-  ],
   [
    "2026-06-17T10:38:15.781221+09:00",
    "KT가 완전체 안현민 소형준까지 무서운 복귀에 이유"
@@ -6383,9 +6379,13 @@
   [
    "2026-06-17T16:32:23.142945+09:00",
    "경찰청 AI로 피해 보이스피싱 3개월간 1638억원 막았다"
+  ],
+  [
+   "2026-06-17T16:36:23.666230+09:00",
+   "KT인재개발원 갈등 개발 확산 논의 요양병원 이주대책 선행돼야"
   ]
  ],
- "last_run": "2026-06-17T16:35:23.252791+09:00",
+ "last_run": "2026-06-17T16:38:05.603679+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6489,6 +6489,7 @@
   "newsdream.kr": "뉴스드림",
   "news2day.co.kr": "뉴스투데이",
   "dealsite.co.kr": "dealsite.co.kr",
-  "1conomynews.co.kr": "1코노미뉴스"
+  "1conomynews.co.kr": "1코노미뉴스",
+  "daejonilbo.com": "대전일보"
  }
 }
