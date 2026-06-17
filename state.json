@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.jeonmin.co.kr/news/articleView.html?idxno=441641",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3609756",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3609747",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=843962",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=88789",
-  "http://www.itdaily.kr/news/articleView.html?idxno=239876",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=114384",
-  "http://www.newsprime.co.kr/news/article.html?no=736858",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=722681",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=844570",
   "http://www.itdaily.kr/news/articleView.html?idxno=239878",
   "https://www.veritas-a.com/news/articleView.html?idxno=615112",
   "http://www.kdfnews.com/news/articleView.html?idxno=184287",
@@ -2999,19 +2989,19 @@
   "http://www.fnnews.com/news/202606170808526927",
   "http://www.knnews.co.kr/news/articleView.php?idxno=1544217",
   "http://www.issuenbiz.com/news/articleView.html?idxno=77322",
-  "https://www.sidae.com/article/2026061708323727050"
+  "https://www.sidae.com/article/2026061708323727050",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=240629",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3610343",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606160375&t=NN",
+  "https://www.hankookilbo.com/news/article/A2026060309380004431?did=NA",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260616134509VSW",
+  "https://www.segye.com/newsView/20260616509702?OutUrl=naver",
+  "https://www.ajunews.com/view/20260617084807457",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2439573",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=304372",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403102"
  ],
  "seen_titles": [
-  "전북도지사직인수위,'피지컬AI밸리'구축시동",
-  "김해시,2026년자동차세276억원부과",
-  "박대출국회의원\"진주중앙시장,중기부'백년시장'선정\"",
-  "BMW·벤츠·볼보·지커·BYD하반기총출동…테슬라독주흔들'전기차...",
-  "듀오·티빙개인정보유출,손배소송참여자↑",
-  "LGU+,토요타'올뉴RAV4'에차량커넥티드서비스탑재",
-  "삼성전자,'C랩아웃사이드'9기모집…AI·로봇등스타트업30곳선발",
-  "[카드]DB손해보험,'블랙박스영상활용AI과실판정시스템'오픈",
-  "\"사번줄테니출근해\"…AI사원영입한SKT",
-  "최태원·노소영재산분할조정결국결렬…SK주식향방다시법정으로",
   "KT,고려대와한국문화특화'KSAFE-MM'벤치마크개발",
   "숭실대GTEP사업단'세계최대조선/해양전시회'Posidonia2026참가지...",
   "사고보다예방…기업들건강∙안전투자늘린다",
@@ -6001,7 +5991,17 @@
   "중국도7월부터AI기술해외이전전면통제..'AI쇄국'가속[글로벌AI브리...",
   "창녕군‘행정AI톡톡’도입",
   "코트라·무보,무역사기예방·피해대응원스톱지원",
-  "앤트로픽수출통제에'한국통신사중국연계가능성'대두"
+  "앤트로픽수출통제에'한국통신사중국연계가능성'대두",
+  "[정책브리핑]2026년06월17일수요일주요정책",
+  "용인동백2동,초등학교승하차구역에캐노피설치완료",
+  "택스아이운영사뉴아이,국토교통부‘우수부동산서비스사업자인증...",
+  "중국짝퉁메카?화창베이가봤더니...\"미친제조업생태계의심장\"",
+  "[경제읽기]코스피이틀째상승세…스페이스X공모주추가배정",
+  "회생절차들어간JTBC,종편재승인심사‘빨간불’",
+  "SKT·KB·서울신보,데이터결합해소상공인지원나선다",
+  "\"오늘단하루\"···도미노피자,'SKTTday'프로모션진행",
+  "SK텔레콤,서울신보·KB와데이터협력확대…\"소상공인지원\"",
+  "KT,한국문화반영AI안전성벤치마크선봬"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,13 @@
   [
    "2026-06-17T09:00:45.913699+09:00",
    "연계 수출 앤트로픽 한국 대두 통제에 중국 가능성"
+  ],
+  [
+   "2026-06-17T09:02:17.125537+09:00",
+   "문화 한국 벤치마크 안전성 반영 선봬"
   ]
  ],
- "last_run": "2026-06-17T09:01:10.631589+09:00",
+ "last_run": "2026-06-17T09:02:36.271109+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
