@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2593366",
-  "http://www.fnnews.com/news/202606141309296087",
-  "http://www.metroseoul.co.kr/article/20260614500118",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4088970",
   "https://www.newsverse.kr/news/articleView.html?idxno=10701",
   "https://it.chosun.com/news/articleView.html?idxno=2023092163848",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5199638",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260617151900085?input=1195m",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255191",
   "https://sports.khan.co.kr/article/202606171755003?pt=nv",
-  "https://www.sedaily.com/article/20056989"
+  "https://www.sedaily.com/article/20056989",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2439896",
+  "https://www.irobotnews.com/news/articleView.html?idxno=46952",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=103704",
+  "https://www.esquirekorea.co.kr/article/1904553"
  ],
  "seen_titles": [
-  "'호르무즈재개방'띄운G7…李대통령·트럼프·올트먼한자리에",
-  "[오늘AI]오픈AI덮친美주검찰조사…IPO·올트먼방한연기변수되나",
-  "G7정상들프랑스에서중동문제등현안논의",
-  "깐부·삼쏘회동이면의젠슨황리더십과재벌총수리더십",
   "美,오픈AI전방위검증…챗GPT안전성들여다본다",
   "이란전쟁후첫G7정상회의15일개막…서방결속시험대",
   "이란전쟁후G7첫집결…“서방결속시험대”",
@@ -6001,7 +5997,11 @@
   "책도논문도음악도…이제는AI콘텐츠대량생산시대",
   "'진옥동야심작'신한금융슈퍼쏠출시···신한투증성장촉매제될까",
   "곽튜브사진도용피해·허영만활동중단·남보라득남…오늘연예계는...",
-  "“보안데이터국내에둔다”…구글클라우드,韓공략속도"
+  "“보안데이터국내에둔다”…구글클라우드,韓공략속도",
+  "[단독]'정산'멈춘메가박스,회생여파에가맹점미수금'눈덩이'",
+  "\"인공지능으로물류문제해결\"…청년·일반국민대상해커톤개최",
+  "신한금융,새'슈퍼SOL'공개…\"금융업경계없앤다\"",
+  "올해초복중복,복날보양식은여기!젠슨황도찾은서울4대삼계탕..."
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,13 @@
   [
    "2026-06-17T17:54:17.702824+09:00",
    "롯데 SSG 장성우 사구 재활 손등 3주 콜업 윤동희 고명준"
+  ],
+  [
+   "2026-06-17T18:00:48.691159+09:00",
+   "서울 삼계탕 4대 젠슨 중복 여기 올해 찾은 초복 황도 보양식은 복날"
   ]
  ],
- "last_run": "2026-06-17T17:58:42.041337+09:00",
+ "last_run": "2026-06-17T18:01:15.645497+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6460,6 +6464,7 @@
   "1conomynews.co.kr": "1코노미뉴스",
   "daejonilbo.com": "대전일보",
   "dailysecu.com": "데일리시큐",
-  "breaknews.com": "브레이크뉴스"
+  "breaknews.com": "브레이크뉴스",
+  "esquirekorea.co.kr": "esquirekorea.co.kr"
  }
 }
