@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026061619201081924",
-  "https://www.mydaily.co.kr/page/view/2026061619223940340",
-  "https://www.hani.co.kr/arti/international/america/1263880.html",
-  "http://www.newstomato.com/ReadNews.aspx?no=1304223&inflow=N",
-  "http://www.osen.co.kr/article/G1112822309",
-  "https://www.mydaily.co.kr/page/view/2026061619242190214",
-  "http://www.osen.co.kr/article/G1112822310",
-  "http://www.osen.co.kr/article/G1112822308",
-  "http://www.osen.co.kr/article/G1112822311",
   "https://www.kgnews.co.kr/news/article.html?no=900234",
   "https://www.mydaily.co.kr/page/view/2026061619263858259",
   "https://www.sportschosun.com/baseball/2026-06-16/202606160100110680007138",
@@ -2999,18 +2990,18 @@
   "https://www.gamechosun.co.kr/webzine/article/view.php?no=222759",
   "https://biz.heraldcorp.com/article/10773634",
   "https://www.sisajournal.com/news/articleView.html?idxno=376786",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610689"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3610689",
+  "https://www.mt.co.kr/living/2026/06/17/2026061713224758827",
+  "https://www.bloter.net/news/articleView.html?idxno=665554",
+  "https://www.thelec.kr/news/articleView.html?idxno=58230",
+  "https://www.sedaily.com/article/20056832",
+  "https://www.g-enews.com/view.php?ud=2026061713144652143084322ec9_1",
+  "https://biz.sbs.co.kr/article_hub/20000317129?division=NAVER",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=844166",
+  "https://news.tf.co.kr/read/economy/2333645.htm",
+  "https://www.consumuch.com/news/articleView.html?idxno=78317"
  ],
  "seen_titles": [
-  "[MD포토]조수행,'첫타석부터안타'",
-  "“중국연계의혹한국기업에AI제공”…미정부,앤트로픽수출통제",
-  "미앤트로픽미토스수출차단배경에'한국통신사'거론",
-  "[사진]안현민땅볼로역전하는KT",
-  "[MD포토]힐리어드,'짜릿한투런포'",
-  "[사진]힐리어드'달아나는투런포'",
-  "[사진]땅볼로동점만드는김현수",
-  "[사진]힐리어드'최승용상대로투런포'",
-  "한주희경기신문기자,‘경기언론인상’수상영예",
   "[MD포토]힐리어드,'짜릿한투런포의맛'",
   "[포토]힐리어드'투런홈런포작렬'",
   "[포토]이강철감독'힐리어드홈런에흐뭇한미소'",
@@ -6001,7 +5992,16 @@
   "[NDC26]\"복합감정까지AI가생성할것\",엔씨AI의얼굴애니메이션...",
   "최태원“성장동력제고가통합토대다지는길”",
   "'위고비'제약사노보노디스크,데이터해킹당해…\"신약IP위협\"",
-  "서범준,17일KT전시구...잠실서'바보의나눔베이스볼데이'"
+  "서범준,17일KT전시구...잠실서'바보의나눔베이스볼데이'",
+  "맥주·치킨발주량최대12배...편의점,월드컵멕시코전'특수'기대",
+  "[제조,브랜드가되다]이유식아빠의반란…베리네이처,자사몰로흑자",
+  "시마AI,피지컬AI용에이전틱개발플랫폼'팔레트니트'출시",
+  "“안녕,나잊은거아니지?”…후속작공개에이틀새20%급등한‘이...",
+  "최태원“경제가받쳐줘야통합도가능”…이석연통합위원장면담",
+  "KT,'에이전트AI'승부수…하반기본격도입",
+  "[#통신풍향계]KT희망나눔재단'K-AI콘텐츠공모전'·과기부'한·일전...",
+  "\"AI가예약하고업무보조\"…KT,'에이전틱AI'청사진공개",
+  "해킹으로70만원캐시피해…플랫폼책임일부인정"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,17 @@
   [
    "2026-06-17T13:56:16.694506+09:00",
    "잠실서 베이스볼데이 서범준 바보의나눔 KT전 17일 시구"
+  ],
+  [
+   "2026-06-17T13:58:16.197018+09:00",
+   "청사진 공개 AI가 예약하고 에이전틱 업무보조"
+  ],
+  [
+   "2026-06-17T13:58:16.197018+09:00",
+   "플랫폼 캐시 피해 해킹으로 책임 일부 인정 70만원"
   ]
  ],
- "last_run": "2026-06-17T13:56:40.533261+09:00",
+ "last_run": "2026-06-17T13:58:43.017170+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6505,6 +6513,7 @@
   "thisisgame.com": "thisisgame.com",
   "seouleconews.com": "서울이코노미뉴스",
   "smartbizn.com": "스마트비즈",
-  "gukjenews.com": "국제뉴스"
+  "gukjenews.com": "국제뉴스",
+  "consumuch.com": "컨슈머치"
  }
 }
