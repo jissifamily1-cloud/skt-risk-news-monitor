@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/7962792",
-  "https://www.etnews.com/20260617000123",
-  "http://www.kdfnews.com/news/articleView.html?idxno=184316",
   "https://www.news1.kr/photos/7962795",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1712832",
   "https://www.newspim.com/news/view/20260617000322",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/industry/sb-founded/6197306",
   "https://www.yna.co.kr/view/AKR20260617168000007?input=1195m",
   "https://www.mt.co.kr/industry/2026/06/18/2026061311462882899",
-  "https://www.news1.kr/finance/general-finance/6199347"
+  "https://www.news1.kr/finance/general-finance/6199347",
+  "https://www.yna.co.kr/view/AKR20260617167900007?input=1195m",
+  "https://www.sjsori.com/news/articleView.html?idxno=86766",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=757583"
  ],
  "seen_titles": [
-  "SKT-경찰청,3개월만에643명보이스피싱피해막았다",
-  "배민·SKT·토스페이먼츠·삼성화재·한샘,협업확대…\"데이터·플랫폼...",
-  "SKT·경찰청,악성앱분석및수사협력부속협약",
   "[Telecom&Now]KT그룹희망나눔재단,'K-AI콘텐츠공모전'…총상금540...",
   "\"美상무,앤스로픽에첨단AI모델수출규제준수않으면처벌경고\"",
   "'AI시대인재상'찾는SK하이닉스,채용서'학력제한'없앤다",
@@ -6001,7 +5998,10 @@
   "젠슨황이콕집은슈퍼브에이아이…비전AI로글로벌영토확장[2026디...",
   "◇오늘의경기(18일)",
   "\"韓변압기는총알,만들어만달라\"…AI시대'월드클래스'K제조업",
-  "젠슨황'삼소회동'효과…네이버가띄운'얼굴결제'토스가웃었다"
+  "젠슨황'삼소회동'효과…네이버가띄운'얼굴결제'토스가웃었다",
+  "◇내일의경기(19일)",
+  "[최태원·노소영이혼]재판부가적시한'SK성장의역사'…노태우변수...",
+  "[LG유플러스30년㊤]만년3등?IoT는10년째1위...LG그룹캐시카우로..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,17 @@
   [
    "2026-06-18T06:16:23.563743+09:00",
    "삼소 회동 네이버가 효과 얼굴결제 젠슨 웃었다 띄운 토스가"
+  ],
+  [
+   "2026-06-18T06:18:15.465553+09:00",
+   "재판부가 노태우 역사 변수 SK 적시한 성장의"
+  ],
+  [
+   "2026-06-18T06:18:15.465553+09:00",
+   "만년 1위 LG그룹 캐시카우로 10년째 3등 IoT는"
   ]
  ],
- "last_run": "2026-06-18T06:16:48.330187+09:00",
+ "last_run": "2026-06-18T06:18:42.952316+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6219,6 +6227,7 @@
   "idaegu.co.kr": "대구신문",
   "news.ifm.kr": "경인방송",
   "gametoc.co.kr": "게임톡",
-  "pinpointnews.co.kr": "핀포인트뉴스"
+  "pinpointnews.co.kr": "핀포인트뉴스",
+  "consumernews.co.kr": "소비자가 만드는 신문"
  }
 }
