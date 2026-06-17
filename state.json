@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12076163",
-  "https://www.newspim.com/news/view/20260617000435",
-  "https://biz.sbs.co.kr/article_hub/20000317080?division=NAVER",
-  "https://www.socialvalue.kr/news/view/1065577404371016",
-  "https://www.mk.co.kr/article/12076167",
   "https://www.etnews.com/20260617000168",
   "http://www.boannews.com/media/view.asp?idx=144141&kind=1",
   "http://www.newsian.co.kr/news/articleView.html?idxno=91052",
@@ -2999,14 +2994,14 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008615782&plink=ORI&cooper=NAVER",
   "https://www.slist.kr/news/articleView.html?idxno=745995",
   "https://www.asiatime.co.kr/article/20260618500002",
-  "https://www.tokenpost.kr/news/cryptocurrency/370545"
+  "https://www.tokenpost.kr/news/cryptocurrency/370545",
+  "http://www.bizwnews.com/news/articleView.html?idxno=138908",
+  "http://www.itdaily.kr/news/articleView.html?idxno=239891",
+  "https://www.hankyung.com/article/2026061832906",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=77346",
+  "https://www.betanews.net/article/view/beta202606170069"
  ],
  "seen_titles": [
-  "G7,'신뢰할수있는파트너'에美첨단AI모델접근허용논의",
-  "하이닉스는'고객서버',삼성은'로봇두뇌'…美AI인재전",
-  "KB금융,SKT·서울신보와손잡고상권분석해소상공인경쟁력키운다",
-  "젠슨황“AI시대엔새사회적규범필요해…모든사람사용해봐야”",
-  "“사용량부풀렸다?”…앤스로픽,최고가AI요금제두고집단소송직...",
   "AI가공격하는시대,개인정보이렇게지켜라...PISFAIR2026,22일개막",
   "'반도체의힘'SK그룹시총사상첫2000조돌파",
   "웍스피어,나인하이어에잡코리아즉시지원연동기능출시",
@@ -6001,7 +5996,12 @@
   "주장구자욱끝내기적시3루타폭발…삼성4연승질주",
   "BTS부산공연11만명관람…도시전역축제프로젝트마무리",
   "뉴욕증시,하락마감...WTI,5일만에상승",
-  "IREN주가하락중에도AI와비트코인채굴로투자자주목"
+  "IREN주가하락중에도AI와비트코인채굴로투자자주목",
+  "[굿모닝금융]KB금융·토스·서금원등",
+  "SKT,소상공인위한민관데이터협력체계구축한다",
+  "\"삼성전자,내년영업익92조원예상…목표가↑\"-하나",
+  "뉴욕증시,금리인상가능성에하락마감",
+  "\"학벌아닌잠재력\"…최태원의AI인재론이바꾸는직업의미래"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,13 @@
   [
    "2026-06-18T08:02:16.873809+09:00",
    "평가 위험 동맹 오픈AI와 검증 마련 최첨단 기준 안전"
+  ],
+  [
+   "2026-06-18T08:08:21.956073+09:00",
+   "잠재력 바꾸는 직업의 아닌 인재론이 미래 학벌 최태원의"
   ]
  ],
- "last_run": "2026-06-18T08:06:33.832627+09:00",
+ "last_run": "2026-06-18T08:08:45.425359+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6278,6 +6282,7 @@
   "pinpointnews.co.kr": "핀포인트뉴스",
   "consumernews.co.kr": "소비자가 만드는 신문",
   "newsprime.co.kr": "프라임경제",
-  "itbiznews.com": "IT비즈뉴스"
+  "itbiznews.com": "IT비즈뉴스",
+  "betanews.net": "베타뉴스"
  }
 }
