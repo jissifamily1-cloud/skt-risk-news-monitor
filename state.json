@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260617095958646",
-  "http://weekly.chosun.com/news/articleView.html?idxno=52625",
-  "https://www.joongang.co.kr/article/25437484",
-  "https://www.energydaily.co.kr/news/articleView.html?idxno=200501",
-  "http://www.newsdream.kr/news/articleView.html?idxno=113184",
   "https://view.asiae.co.kr/article/2026061709330845362",
   "https://news.tf.co.kr/read/national/2333299.htm",
   "http://www.itdaily.kr/news/articleView.html?idxno=239891",
@@ -2999,14 +2994,14 @@
   "https://www.etoday.co.kr/news/view/2594742",
   "https://www.mk.co.kr/article/12077032",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=61638",
-  "https://www.banronbodo.com/news/articleView.html?idxno=32483"
+  "https://www.banronbodo.com/news/articleView.html?idxno=32483",
+  "https://www.yna.co.kr/view/AKR20260618019900011?input=1195m",
+  "https://www.kyeongin.com/article/1765776",
+  "https://www.dt.co.kr/article/12068216",
+  "https://biz.chosun.com/stock/stock_general/2026/06/18/EBGXPNTBDZEJXPBFAETQXIDG2U/",
+  "https://www.itbiznews.com/news/articleView.html?idxno=216559"
  ],
  "seen_titles": [
-  "SK하이닉스,신입채용서학력제한폐지…\"대학안나와도지원가능\"",
-  "“‘4년제대학나왔나’안묻는다…SK하이닉스,학력제한폐지",
-  "한국수자원공사,혁신프로젝트TOP101위…AI물관리경쟁력입증",
-  "한국수자원공사,정부'공공AI혁신'1위·3위싹쓸이…글로벌물시장...",
-  "\"MS,中딥시크AI모델사용검토\"…美정부마찰불가피할듯",
   "\"계엄옹호자들이다시?\"천주교정의평화연대,이진숙'과방위배치'반...",
   "SKT,소상공인위한민관데이터협력체계구축한다",
   "SK텔레콤·경찰청,AI로3개월만에범죄서버475개식별…피해예방고...",
@@ -6001,7 +5996,12 @@
   "[증시키워드]반도체랠리이어지는가운데숨고른재건주…삼전·SK하...",
   "“저평가받을이유없다”…삼성전자,메모리시장훈풍에목표가↑",
   "한국,반도체만으로살아남을까",
-  "[주간미디어동향]공영방송이사추천본격화…MBC임직원몫추천후보..."
+  "[주간미디어동향]공영방송이사추천본격화…MBC임직원몫추천후보...",
+  "[전국주요신문톱뉴스](18일조간)",
+  "[굿모닝위즈·66]힐리어드깨운안현민의복귀",
+  "오픈AI이어앤트로픽도서울사무소열어",
+  "스페이스X이어오픈AI·앤트로픽도…공모주투자어려울듯",
+  "韓,오픈AI와AI안전동맹…최첨단AI위험검증·평가기준마련"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,17 @@
   [
    "2026-06-18T07:54:16.492372+09:00",
    "보이스피싱 475개 범죄 경찰청 식별 AI로 서버"
+  ],
+  [
+   "2026-06-18T08:02:16.873809+09:00",
+   "투자 스페이스X 이어 공모주 앤트로픽도 어려울"
+  ],
+  [
+   "2026-06-18T08:02:16.873809+09:00",
+   "평가 위험 동맹 오픈AI와 검증 마련 최첨단 기준 안전"
   ]
  ],
- "last_run": "2026-06-18T08:00:58.620093+09:00",
+ "last_run": "2026-06-18T08:02:38.654127+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6269,6 +6277,7 @@
   "gametoc.co.kr": "게임톡",
   "pinpointnews.co.kr": "핀포인트뉴스",
   "consumernews.co.kr": "소비자가 만드는 신문",
-  "newsprime.co.kr": "프라임경제"
+  "newsprime.co.kr": "프라임경제",
+  "itbiznews.com": "IT비즈뉴스"
  }
 }
