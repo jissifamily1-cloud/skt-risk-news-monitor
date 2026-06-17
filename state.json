@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.getnews.co.kr/news/articleView.html?idxno=872531",
-  "https://www.etnews.com/20260616000338",
-  "https://www.heraldmuse.com/article/10772964",
-  "https://www.ddaily.co.kr/page/view/2026061616164801131",
-  "https://www.mediapen.com/news/view/1104725",
-  "https://www.joongangenews.com/news/articleView.html?idxno=526335",
-  "http://www.bizwnews.com/news/articleView.html?idxno=138767",
   "https://www.newscj.com/news/articleView.html?idxno=3409655",
   "https://www.ekn.kr/web/view.php?key=20260616025443571",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=360571",
@@ -2999,16 +2992,16 @@
   "https://biz.sbs.co.kr/article_hub/20000317080?division=NAVER",
   "https://www.socialvalue.kr/news/view/1065577404371016",
   "https://www.mk.co.kr/article/12076167",
-  "https://www.etnews.com/20260617000168"
+  "https://www.etnews.com/20260617000168",
+  "http://www.boannews.com/media/view.asp?idx=144141&kind=1",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=91052",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=844765",
+  "https://game.donga.com/122995/",
+  "https://www.hankookilbo.com/news/article/A2026061709560000663?did=NA",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000043113",
+  "https://www.ddaily.co.kr/page/view/2026061710482280458"
  ],
  "seen_titles": [
-  "SK텔레콤,'AX혁신2.0'드라이브...\"AI에이전트도사번받고인사관리...",
-  "앤트로픽'AI수출제재'에韓통신사빌미제공했나…KT·LG유플“관련...",
-  "이재욱♥신예은,깨물키스후일담..‘화들짝’놀란이유는?(‘닥터섬...",
-  "\"뙤약볕취재하던후배들위해\"…프레스센터기자실'서재필방'개관",
-  "'AI가일하는기업'으로…SKAX,에이전틱엔터프라이즈비전제시",
-  "업스테이지,다음·타임리품고'업스테이지컴퍼니'출범...토큰경제...",
-  "[보험사이모저모]신한라이프케어,흥국생명,동양생명등",
   "동서발전,풍력발전량예측AI경진대회개최",
   "“AI,내동료가돼라”…SKT,AX혁신2.0시행",
   "SK텔레콤,AX혁신2.0시동…\"사람·AI에이전트협업본격화\"",
@@ -6001,7 +5994,14 @@
   "하이닉스는'고객서버',삼성은'로봇두뇌'…美AI인재전",
   "KB금융,SKT·서울신보와손잡고상권분석해소상공인경쟁력키운다",
   "젠슨황“AI시대엔새사회적규범필요해…모든사람사용해봐야”",
-  "“사용량부풀렸다?”…앤스로픽,최고가AI요금제두고집단소송직..."
+  "“사용량부풀렸다?”…앤스로픽,최고가AI요금제두고집단소송직...",
+  "AI가공격하는시대,개인정보이렇게지켜라...PISFAIR2026,22일개막",
+  "'반도체의힘'SK그룹시총사상첫2000조돌파",
+  "웍스피어,나인하이어에잡코리아즉시지원연동기능출시",
+  "[NDC2026]AI로블루아카의일본어음성을\"한글목소리로바꾸기까지\"",
+  "AI안전연구소,오픈AI와손잡고AI모델위험성검증한다",
+  "MS도딥시크품나…오픈AI대안검토나섰다",
+  "\"엔비디아대비AI처리량2.2배\"…인텔아크프로B70벤치마크공개"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,17 @@
   [
    "2026-06-17T10:48:24.005085+09:00",
    "사용량 집단소송 두고 부풀렸다 최고가 요금제"
+  ],
+  [
+   "2026-06-17T10:50:25.577747+09:00",
+   "품나 대안 딥시크 검토 MS도 나섰다"
+  ],
+  [
+   "2026-06-17T10:50:25.577747+09:00",
+   "B70 아크 프로 벤치마크 인텔 대비 2배 처리량 공개"
   ]
  ],
- "last_run": "2026-06-17T10:48:44.510043+09:00",
+ "last_run": "2026-06-17T10:50:49.111924+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6535,6 +6543,7 @@
   "youthdaily.co.kr": "청년일보",
   "mstoday.co.kr": "MS TODAY",
   "kdfnews.com": "한국면세뉴스",
-  "kyeonggi.com": "경기일보"
+  "kyeonggi.com": "경기일보",
+  "jnilbo.com": "전남일보"
  }
 }
