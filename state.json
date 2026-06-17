@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112822438",
-  "https://www.xportsnews.com/article/2161084",
-  "http://www.stoo.com/article.php?aid=107182511471",
-  "http://www.stoo.com/article.php?aid=107182674422",
-  "http://www.stoo.com/article.php?aid=107182786137",
-  "https://www.mk.co.kr/article/12075810",
-  "http://www.osen.co.kr/article/G1112822446",
-  "https://www.mydaily.co.kr/page/view/2026061620280271921",
-  "http://www.osen.co.kr/article/G1112822444",
   "http://www.osen.co.kr/article/G1112822443",
   "http://www.stoo.com/article.php?aid=107182868480",
   "https://www.gukjenews.com/news/articleView.html?idxno=3610151",
@@ -2999,18 +2990,18 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2439806",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=722753",
   "https://www.newsis.com/view/NISX20260617_0003672740",
-  "http://journal.kobeta.com/?post_type=post&p=62977"
+  "http://journal.kobeta.com/?post_type=post&p=62977",
+  "https://www.busan.com/view/busan/view.php?code=2026061709265242268",
+  "https://www.yna.co.kr/view/AKR20260617110300003?input=1195m",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2282303",
+  "https://www.newspim.com/news/view/20260617000694",
+  "https://www.hankyung.com/article/202606171429i",
+  "https://www.cnbizm.com/news/articleView.html?idxno=305788",
+  "http://www.4th.kr/news/articleView.html?idxno=2113310",
+  "https://www.etoday.co.kr/news/view/2594526",
+  "https://news.bizwatch.co.kr/article/mobile/2026/06/17/0020"
  ],
  "seen_titles": [
-  "돌아온안현민[포토]",
-  "[ST포토]힐리어드,짜릿한투런포",
-  "[ST포토]힐리어드,5-1벌리는홈런",
-  "[ST포토]이강철감독,미소지으며주먹인사",
-  "“복귀각?”…‘충주맨’김선태,퇴사4개월만에깜짝귀환",
-  "[사진]박지훈'이번에도내가'",
-  "[MD포토]최지강,'위기막아야해'",
-  "[사진]최승용이어최지강",
-  "[사진]역투하는최지강",
   "[ST포토]급정거하는박찬호",
   "\"위성곤첫시험대,3000억추경재원마련가능할까?\"",
   "엔비디아,AI붐이후첫회사채발행…최소30조원조달추진",
@@ -6001,7 +5992,16 @@
   "SKT-경찰청,통신·금융사기대응고도화···\"AI에이전트분석자동화...",
   "美백악관AI금지령파장…한국통신사안보방패막이삼았나",
   "최태원,이석연국민통합위원장과면담…\"경제받쳐줘야통합토대생겨...",
-  "KT희망나눔재단,‘K-AI콘텐츠공모전’개최"
+  "KT희망나눔재단,‘K-AI콘텐츠공모전’개최",
+  "여름축제로변신한양산웅상회야제20일개막",
+  "삼성전자완제품부문,AI전환·체질개선해위기돌파한다",
+  "\"100만유튜버가무슨일로\"충주시유튜브에'깜짝'등장한김선태",
+  "구글TPU공급망쪼갠다…삼성전자파운드리,AI칩수주기회확대",
+  "구글보안전문가“한국은세계3위사이버위협표적”",
+  "SK텔레콤·경찰청,AI기반보이스피싱대응강화…3개월간643명피해...",
+  "최태원\"성장이통합의토대\"…대한상의·국민통합위협력논의",
+  "젠슨황\"AI시대엔새로운사회적규범필요…모든사람사용해야“",
+  "KT,여성과학기술인들과'AI시대산업혁신'논의"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-06-17T14:40:25.440828+09:00",
    "파장 안보 백악관 금지령 한국 삼았나 방패막이"
+  ],
+  [
+   "2026-06-17T14:42:16.294062+09:00",
+   "과학기술인들과 산업혁신 AI시대 여성 논의"
   ]
  ],
- "last_run": "2026-06-17T14:40:45.640024+09:00",
+ "last_run": "2026-06-17T14:42:39.464958+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6560,6 +6564,7 @@
   "gukjenews.com": "국제뉴스",
   "consumuch.com": "컨슈머치",
   "dizzotv.com": "디지틀조선TV",
-  "wsobi.com": "wsobi.com"
+  "wsobi.com": "wsobi.com",
+  "news.bizwatch.co.kr": "비즈니스워치"
  }
 }
