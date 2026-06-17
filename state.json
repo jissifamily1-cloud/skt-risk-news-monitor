@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1616488",
-  "https://www.sportsworldi.com/newsView/20260616518149",
-  "http://www.osen.co.kr/article/G1112822416",
-  "https://www.mydaily.co.kr/page/view/2026061620174615901",
-  "https://www.sportschosun.com/baseball/2026-06-16/202606160100111090007169",
-  "http://www.stoo.com/article.php?aid=107182131747",
-  "https://isplus.com/article/view/isp202606160143",
-  "https://www.mydaily.co.kr/page/view/2026061620204725860",
   "https://www.xportsnews.com/article/2161082",
   "https://www.mydaily.co.kr/page/view/2026061620122492510",
   "https://www.xportsnews.com/article/2161081",
@@ -2999,17 +2991,17 @@
   "https://www.veritas-a.com/news/articleView.html?idxno=615298",
   "https://www.ytn.co.kr/_ln/0102_202606171431521166",
   "https://www.businesspost.co.kr/BP?command=article_view&num=440176",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=544967"
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=544967",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4089662",
+  "https://www.greened.kr/news/articleView.html?idxno=342732",
+  "https://www.cnbizm.com/news/articleView.html?idxno=305784",
+  "https://www.cnbizm.com/news/articleView.html?idxno=305785",
+  "https://www.tokenpost.kr/news/tech/370227",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675869",
+  "http://www.wsobi.com/news/articleView.html?idxno=313827",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675882"
  ],
  "seen_titles": [
-  "백발아버지와두아들의특별한시구…두산,소방가족1119명에추억선...",
-  "[사진]최원준'시즌100번째안타'",
-  "[MD포토]안현민,'1타점적시타쾅!'",
-  "두산박정원구단주,올해도소방가족1119명잠실구장초청,83세소방...",
-  "[ST포토]안현민,안타가필요해",
-  "‘충주맨’김선태,퇴사4개월만에친정복귀..충주시채널깜짝등장",
-  "[MD포토]이강철감독,'이번작전은'",
-  "김민혁'한점더추가요'[포토]",
   "'충격'한화15억외인무슨일이,4회도못채웠다…안타-2루타-안타-볼...",
   "이강철감독'안현민복귀안타축하해'[포토]",
   "[MD포토]안현민,'내가타점해냈어!'",
@@ -6001,17 +5993,17 @@
   "숭실대입주기업와이비즈'캄보디아서스마트농업상용화가능성입증...",
   "최태원,이석연통합위원장면담...\"성장동력이곧통합\"",
   "엔비디아젠슨황인공지능기술'낙관론'강조,\"인류의삶편리해질것...",
-  "\"LG유플러스와협력,차별화된고객경험만든다\"토요타RAV4,커넥티드..."
+  "\"LG유플러스와협력,차별화된고객경험만든다\"토요타RAV4,커넥티드...",
+  "KB국민은행·국민카드등4개기관,'소상공인빅데이터협약'체결",
+  "첨단해양기술한자리에…'2026국제해양·안전대전'인천송도서개막",
+  "LGAI연구원,디앤디파마텍과손잡고AI기반차세대펩타이드신약개발...",
+  "삼성전자,비바테크2026서'커넥티드케어'공개…AI기반통합헬스케...",
+  "스페이스X,AI코딩플랫폼‘커서’90조원대인수추진…AI개발자시...",
+  "비트코인시총까지제친일론머스크…순자산2120조원돌파",
+  "LGCNS·SKT,AI전환가속···AX경쟁력강화",
+  "엔비디아안쓴다…中전기차'자체AI칩'전쟁돌입"
  ],
  "recent_sigs": [
-  [
-   "2026-06-17T08:36:15.143804+09:00",
-   "HPE 베라 클라우드 규제 앞세워 프라이빗 확장 산업"
-  ],
-  [
-   "2026-06-17T08:36:15.143804+09:00",
-   "던진 손들 이곳 쓸어 담은 인텔 조용히"
-  ],
   [
    "2026-06-17T08:42:17.151491+09:00",
    "하루 17일 적립 할인 도미노피자 day"
@@ -6463,9 +6455,17 @@
   [
    "2026-06-17T14:34:16.947081+09:00",
    "낙관론 기술 인류의 인공지능 젠슨 편리해질 강조"
+  ],
+  [
+   "2026-06-17T14:36:15.275110+09:00",
+   "CNS 강화 경쟁력 가속 AX LG"
+  ],
+  [
+   "2026-06-17T14:36:15.275110+09:00",
+   "전쟁 전기차 쓴다 자체 AI칩 돌입"
   ]
  ],
- "last_run": "2026-06-17T14:34:37.938584+09:00",
+ "last_run": "2026-06-17T14:36:44.057848+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6555,6 +6555,7 @@
   "smartbizn.com": "스마트비즈",
   "gukjenews.com": "국제뉴스",
   "consumuch.com": "컨슈머치",
-  "dizzotv.com": "디지틀조선TV"
+  "dizzotv.com": "디지틀조선TV",
+  "wsobi.com": "wsobi.com"
  }
 }
