@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.stoo.com/article.php?aid=107183712686",
-  "http://www.osen.co.kr/article/G1112822469",
-  "http://www.osen.co.kr/article/G1112822471",
-  "http://www.stoo.com/article.php?aid=107183642394",
-  "http://www.osen.co.kr/article/G1112822477",
-  "https://www.xportsnews.com/article/2161112",
   "http://www.stoo.com/article.php?aid=107183832955",
   "https://www.gukjenews.com/news/articleView.html?idxno=3610156",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606160530&t=NN",
@@ -2999,15 +2993,15 @@
   "http://www.queen.co.kr/news/articleView.html?idxno=458775",
   "http://www.inews24.com/view/1977305",
   "https://www.asiatime.co.kr/article/20260617500344",
-  "https://www.asiatime.co.kr/article/20260617500312"
+  "https://www.asiatime.co.kr/article/20260617500312",
+  "https://kpenews.com/View.aspx?No=4115938",
+  "https://magazine.hankyung.com/business/article/202606171954b",
+  "http://www.fnnews.com/news/202606171429254669",
+  "http://www.inews24.com/view/1977315",
+  "http://journal.kobeta.com/?post_type=post&p=62980",
+  "https://www.ajunews.com/view/20260617144527248"
  ],
  "seen_titles": [
-  "[사진]양의지'갑자기'",
-  "[사진]올스타중간집계1위양의지,'갑자기'현수막등장",
-  "[ST포토]이병헌,힘찬투구",
-  "[사진]고영표돕는권동진의호수비",
-  "허경민'권동진수비좋았다'[포토]",
-  "[ST포토]한승택,스기모토와하이파이브",
   "'청정그린수소'라더니...제주그린수소의불편한진실",
   "11조실탄장전한딥시크…\"기업가치75조이상\"",
   "[ST포토]김민석,힘찬스윙",
@@ -6001,7 +5995,13 @@
   "삼성·SK·현대차등'K-뉴딜아카데미'참여대기업50곳공개…청년맞...",
   "\"야구틀어줘\"취향알아서척척…KT,초개인화AI에이전트공개",
   "[산업뉴스브리핑]LG전자,유럽서고효율히트펌프공급확대…스페인...",
-  "[AIRF2026]\"기업AX,이제는핵심업무혁신”"
+  "[AIRF2026]\"기업AX,이제는핵심업무혁신”",
+  "SK하이닉스,AI시대실력중심채용나선다..학력제한전면철폐",
+  "가디언에이아이·삼현,AI순찰·안전로봇글로벌사업화위한전략적M...",
+  "'미운오래새끼'버스덕트날아올랐다...가온전선,美서반년간5.2조수...",
+  "\"이사람이범인?\"⋯544억코인사기범으로지목된곽튜브,무슨일이길...",
+  "SK텔레콤-경찰청,AI로범죄서버475개식별…협력확대",
+  "삼성SDS,피지컬AI조직키운다…KT출신배순민합류"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,13 @@
   [
    "2026-06-17T14:48:15.693693+09:00",
    "앤트로픽 연관 안보전쟁 의혹 도마에"
+  ],
+  [
+   "2026-06-17T14:54:15.463678+09:00",
+   "배순민 피지컬 키운다 삼성SDS 합류 출신"
   ]
  ],
- "last_run": "2026-06-17T14:52:41.731546+09:00",
+ "last_run": "2026-06-17T14:54:40.121381+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
