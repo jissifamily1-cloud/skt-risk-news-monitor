@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026061621080569405",
-  "http://coinreaders.com/242625",
-  "https://www.mydaily.co.kr/page/view/2026061621101505438",
-  "http://www.stoo.com/article.php?aid=107184782556",
-  "https://www.xportsnews.com/article/2161130",
-  "http://www.stoo.com/article.php?aid=107184887271",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3117261",
   "http://www.4th.kr/news/articleView.html?idxno=2113278",
   "https://www.mydaily.co.kr/page/view/2026061621121635579",
   "http://www.osen.co.kr/article/G1112822507",
@@ -2999,16 +2992,16 @@
   "https://www.viva100.com/article/20260617500875",
   "https://www.slist.kr/news/articleView.html?idxno=745841",
   "https://www.munhwa.com/article/11596257",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4767543"
+  "https://www.newsinside.kr/news/articleView.html?idxno=4767543",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1712870",
+  "https://www.socialvalue.kr/news/view/1065601379178164",
+  "https://www.yakup.com/news/index.html?cat=13&nid=328642",
+  "http://www.iminju.net/news/articleView.html?idxno=165436",
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=206190",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=308532",
+  "https://kbench.com/?q=node%2F279647"
  ],
  "seen_titles": [
-  "짐크레이머도놀랐다…스페이스X,엔비디아규모까지커질까?",
-  "[MD포토]스기모토-한승택,'완벽한수비에환호'",
-  "[ST포토]손동현,정확하게던진다",
-  "박신지'실점은없어'[포토]",
-  "[ST포토]안재석,집중하는타격",
-  "'제39회TVA·KATA한국·대만관광교류회의'성료...\"한·대만손잡고...",
-  "美미토스5외국인차단은'중국연계한국통신사'때문?",
   "[MD포토]스기모토,'깔끔한병살플레이에박수를'",
   "[사진]역투하는이병헌",
   "[사진]경기지켜보는소형준",
@@ -6001,21 +5994,16 @@
   "AI안전연구소-오픈AI,고위험분야안전확보협력나서",
   "SK하이닉스신입사원수시채용…학력제한전면철폐",
   "경찰은‘피싱앱’잡고SKT는AI로분석…통신·금융사기대응고도화",
-  "SKTAI에이전트,경찰청과보이스피싱서버적발협력"
+  "SKTAI에이전트,경찰청과보이스피싱서버적발협력",
+  "LGU+원청교섭책임인정한노동위…통신업계노사관계변수'촉각'",
+  "안전에'구멍'SK하이닉스청주4공장…HBM라인M15X에사고집중된이...",
+  "제이엘케이,'뇌졸중AI소프트웨어해외임상-인허가획득'과제선정",
+  "[민주약국]동아쏘시오그룹·휴메딕스·JW중외제약",
+  "미다웍스,프랜차이즈ERP누적데이터기반구축형AI서비스고도화",
+  "KT그룹희망나눔재단'2026K-AI콘텐츠공모전'개최",
+  "엔비디아RTXSpark기반'레노버요가프로9n'렌더링유출"
  ],
  "recent_sigs": [
-  [
-   "2026-06-17T09:06:20.359007+09:00",
-   "빅데이터로 소상공인 KB금융 손잡고 살린다"
-  ],
-  [
-   "2026-06-17T09:06:20.359007+09:00",
-   "데이터 해킹당해 IP 위협 신약 노보노디스크"
-  ],
-  [
-   "2026-06-17T09:06:20.359007+09:00",
-   "집단소송 유출 움직임도 개인정보 착수 조사 BGF네트웍스"
-  ],
   [
    "2026-06-17T09:14:15.843263+09:00",
    "전면 제한 뽑는다 철폐 그리는 인재상 최태원이 학력 SK하이닉스"
@@ -6475,9 +6463,13 @@
   [
    "2026-06-17T15:06:16.821934+09:00",
    "경찰청과 에이전트 협력 서버 적발 보이스피싱"
+  ],
+  [
+   "2026-06-17T15:08:17.037991+09:00",
+   "렌더링 Spark 요가 9n 유출 RTX 기반 프로 레노버"
   ]
  ],
- "last_run": "2026-06-17T15:06:42.736403+09:00",
+ "last_run": "2026-06-17T15:08:39.333203+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6572,6 +6564,7 @@
   "news.bizwatch.co.kr": "비즈니스워치",
   "womaneconomy.co.kr": "여성경제신문",
   "busan.com": "부산일보",
-  "newsinside.kr": "뉴스인사이드"
+  "newsinside.kr": "뉴스인사이드",
+  "kbench.com": "kbench.com"
  }
 }
