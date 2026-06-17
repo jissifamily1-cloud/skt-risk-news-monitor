@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.stoo.com/article.php?aid=107187887007",
-  "http://www.stoo.com/article.php?aid=107187741407",
-  "http://www.stoo.com/article.php?aid=107187679789",
-  "https://www.news2day.co.kr/article/20260616500249",
-  "https://www.sportsseoul.com/news/read/1616498",
-  "http://www.stoo.com/article.php?aid=107187544806",
-  "https://www.ytn.co.kr/_ln/0107_202606162212063045",
-  "https://www.sportsworldi.com/newsView/20260616518968",
-  "http://www.stoo.com/article.php?aid=107187189817",
-  "https://www.newsis.com/view/NISX20260616_0003671674",
   "http://www.stoo.com/article.php?aid=107187072791",
   "https://www.newsis.com/view/NISX20260616_0003671673",
   "https://sports.khan.co.kr/article/202606162205003?pt=nv",
@@ -2999,19 +2989,19 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000534999",
   "https://www.sedaily.com/article/20056926",
   "https://www.newscj.com/news/articleView.html?idxno=3410044",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598440574412"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598440574412",
+  "https://www.yna.co.kr/view/AKR20260617141300073?input=1195m",
+  "https://biz.sbs.co.kr/article_hub/20000317175?division=NAVER",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005860107",
+  "https://www.nocutnews.co.kr/news/6534594",
+  "https://www.hani.co.kr/arti/opinion/column/1263996.html",
+  "https://biz.sbs.co.kr/article_hub/20000317190?division=NAVER",
+  "https://cwn.kr/article/1065593812026612",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=201592",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260617010006079",
+  "http://www.breaknews.com/1214954"
  ],
  "seen_titles": [
-  "[ST포토]치어리더계유진,매려적인미소로",
-  "[ST포토]치어리더계유진,늘씬한각선미",
-  "수도권대형오피스텔매매가↑...GS건설,‘목동윤슬자이’분양",
-  "“오스틴4년연속20홈런축하”염갈량웃었다…“웰스자기역할+불...",
-  "[ST포토]치어리더계유진,빠져드는미모",
-  "'오스틴·김도영,나란히20호홈런'...LG,3연승",
-  "“실점억제집중”9안타맞고도QS…고영표,마운드위평정심번뜩",
-  "[ST포토]치어리더김한슬,수줍보충",
-  "[KBO내일의선발투수]6월17일(수)",
-  "[ST포토]치어리더김한슬,앉아서도연습또연습",
   "[KBO오늘의경기결과]6월16일(화)",
   "‘돌아온안현민2타점+고영표QS+권동진호수비’KT3연승,두산에6-2...",
   "오늘의경기(6월17일)",
@@ -6001,7 +5991,17 @@
   "‘충주맨’김선태,퇴사4개월만에충주시유튜브등장…“깐부회동...",
   "경찰청,업비트점찍었나...압수코인수탁사업뒷말",
   "최태원대한상의회장,이석연통합위원장면담…\"성장동력,통합의토...",
-  "[CEO열전]최태원회장\"성장이곧통합\"...경제살려야사회도산다"
+  "[CEO열전]최태원회장\"성장이곧통합\"...경제살려야사회도산다",
+  "자민당간부\"日기술없인세계AI안돌아가는불가결성추구\"",
+  "[증시인사이트]우리시간내일(18일)워시주재첫FOMC결과확인",
+  "[집중취재]스페이스X'코리아패싱'여파지속…주가전망은?",
+  "수자원공사디지털트윈·AI정수장,공공기관혁신프로젝트선정",
+  "미션이즈더보스[유레카]",
+  "\"AI붐에한국·대만으로기술패권이동…中소외\"",
+  "\"AI반도체패권,한국·대만으로이동\"…NYT,삼성·SK하이닉스주목",
+  "SKT·경찰청,AI로보이스피싱대응...\"3개월간피해643건막았다\"",
+  "젠슨황\"AI시대,새사회적규범필요…모든사람이사용하길\"",
+  "KT&G,‘릴에이블3.0’17일부터편의점에서판매"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,13 @@
   [
    "2026-06-17T16:40:33.504438+09:00",
    "에이전틱 솔루션 적합한 HPE 운영 실무 환경 발표"
+  ],
+  [
+   "2026-06-17T16:44:17.067554+09:00",
+   "에이블 판매 17일부터 편의점에서"
   ]
  ],
- "last_run": "2026-06-17T16:42:40.920011+09:00",
+ "last_run": "2026-06-17T16:44:40.977878+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6491,6 +6495,7 @@
   "dealsite.co.kr": "dealsite.co.kr",
   "1conomynews.co.kr": "1코노미뉴스",
   "daejonilbo.com": "대전일보",
-  "dailysecu.com": "데일리시큐"
+  "dailysecu.com": "데일리시큐",
+  "breaknews.com": "브레이크뉴스"
  }
 }
