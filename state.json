@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12075475",
-  "http://www.osen.co.kr/article/G1112822132",
-  "https://www.mydaily.co.kr/page/view/2026061615432403297",
-  "https://www.mk.co.kr/article/12075477",
-  "https://www.munhwa.com/article/11595968",
-  "https://www.etnews.com/20260616000158",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=201440",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=201467",
-  "http://www.fnnews.com/news/202606161523417683",
   "https://www.mk.co.kr/article/12075472",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=201438",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=201432",
@@ -2999,18 +2990,18 @@
   "https://www.mhns.co.kr/news/articleView.html?idxno=750482",
   "http://www.bizwnews.com/news/articleView.html?idxno=138843",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=308533",
-  "https://www.slist.kr/news/articleView.html?idxno=745784"
+  "https://www.slist.kr/news/articleView.html?idxno=745784",
+  "https://biz.chosun.com/topics/topics_social/2026/06/17/TISYEOCYXRCR5MISDSD3YSC3G4/",
+  "https://www.techm.kr/news/articleView.html?idxno=152661",
+  "https://magazine.hankyung.com/business/article/202606171309b",
+  "https://biz.chosun.com/distribution/channel/2026/06/17/CCHWWYEQTBHWRLOOOSUOFVTKFM/",
+  "https://www.techm.kr/news/articleView.html?idxno=152665",
+  "https://zdnet.co.kr/view/?no=20260617102717",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317323",
+  "https://www.ziksir.com/news/articleView.html?idxno=137140",
+  "http://www.inews24.com/view/1977168"
  ],
  "seen_titles": [
-  "‘닥터섬보이’이재욱♥신예은,설레는키스뒤찾아온‘초비상변수...",
-  "'트레이드이적생'류승민,이적후첫선발출장...두산라인업공개,...",
-  "'와'132억좌완에이스출격,무려1382일만에한화만난다…NC라인업...",
-  "스카이라운지·수영장·공유오피스…\"여기호텔?아파트?\"",
-  "“중소식당,배달앱의존할수록영업이익률감소”",
-  "[미래포럼]AI의'마지막1마일'데이터스페이스에달렸다",
-  "\"AI가보험가입심사한다…\"...흥국생명,인수심사체계고도화",
-  "\"대화중바로AI활용\"...카카오,카카오톡에ChatGPT챗봇적용",
-  "\"AI캐릭터와팀이뤄플레이\"...크래프톤,펍지엘라이첫선",
   "‘84만팔로워’신원미상주식트레이더,한국주식언급해주가급등락",
   "\"업무도구넘어동료로\"...SKT,AI에이전트조직편입",
   "\"AI發메모리수급난대응\"...KT,협력사선구매자금지원",
@@ -6001,7 +5992,16 @@
   "쿠팡'6200억과징금'유통업계초긴장…'CU택배'해킹조사에보안비...",
   "도미노피자,17일단하루50%할인가능한'SKTTday'프로모션전개",
   "SKT·경찰청,AI로보이스피싱범죄서버475개잡아냈다",
-  "오픈AI,한국AI안전연구소와MOU…미·영·일이어네번째"
+  "오픈AI,한국AI안전연구소와MOU…미·영·일이어네번째",
+  "김선태,퇴직4개월만에충주시유튜브등장…‘충주한우’홍보",
+  "SK하이닉스,25일까지신입채용서류접수...학력제한철폐",
+  "\"밀린임금있는지실시간확인\"…인크루트,'안심채용'전면도입",
+  "CJ온스타일,전사AI플랫폼으로앤트로픽‘클로드’도입",
+  "[마켓인싱가포르]\"제조업AI아직허점많아...통제시스템구축힘써...",
+  "딥시크,첫외부투자로11조원확보…中AI대표주자부상",
+  "이훈기\"JTBC뿐아니라모든미디어경영위기\"",
+  "SKT·경찰청,피싱악성앱대응협약…범죄서버475개식별",
+  "\"북한,엔비디아GPU확보\"⋯드론·해킹등AI군사활용가능성제기"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,13 @@
   [
    "2026-06-17T10:28:17.648551+09:00",
    "개발 레퍼런스 지멘스 아키텍처 데이터센터용"
+  ],
+  [
+   "2026-06-17T10:32:16.320562+09:00",
+   "확보 활용 드론 가능성 제기 군사 GPU 북한"
   ]
  ],
- "last_run": "2026-06-17T10:30:51.418249+09:00",
+ "last_run": "2026-06-17T10:32:40.513802+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
