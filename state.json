@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12054493",
-  "https://www.donga.com/news/Economy/article/all/20260329/133630593/1",
-  "https://www.g-enews.com/view.php?ud=202603261734225647fbbec65dfb_1",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=795765",
-  "https://www.mk.co.kr/article/11995041",
-  "https://www.dt.co.kr/article/12052286",
-  "https://view.asiae.co.kr/article/2026031810245871379",
   "https://view.asiae.co.kr/article/2026031709142305461",
   "https://view.asiae.co.kr/article/2026031609504350669",
   "https://www.news1.kr/it-science/general-it/6099415",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026061728151",
   "https://n.news.naver.com/mnews/article/077/0007050409",
   "https://www.hankyung.com/article/2026061728291",
-  "https://www.joongang.co.kr/article/25437651"
+  "https://www.joongang.co.kr/article/25437651",
+  "https://www.hankyung.com/article/2026061725341",
+  "https://www.sportsseoul.com/news/read/1616799",
+  "https://www.sportsseoul.com/news/read/1616800",
+  "https://www.mk.co.kr/article/12076795",
+  "http://www.maniareport.com/view.php?ud=202606171846295716dad9f33a29_19",
+  "https://www.mk.co.kr/article/12076794",
+  "http://www.ktnews.com/news/articleView.html?idxno=146644"
  ],
  "seen_titles": [
-  "앤스로픽내부문건유출…차세대AI‘클로드미토스’실체드러났다",
-  "삼성·SK하이닉스최대고객이백악관입성…HBM·자율주행표준설계권...",
-  "AI의전쟁설계",
-  "AI조종대잡으려는미국…정부·기업총출동해표준선점‘사활’",
-  "아마존CEO\"AWS,AI덕에2036년매출6000억달러전망\"",
-  "배경훈\"2~3년내AI승부갈릴것…엔스로픽같은기업한국서나와야...",
-  "AI가내일자리대체할까…청년층고용둔화우려",
   "[산업의맥]AI의대답은무엇으로결정될까",
   "페북은왜'AI들의커뮤니티'를인수할까",
   "‘AI비서’앤스로픽에MS,결국적과의동침택했다",
@@ -6001,13 +5994,16 @@
   "경북영덕에신규대형원전…국내첫SMR은부산기장",
   "FranceG7Summit",
   "대형원전2기2038년완공…탈원전에'마침표'",
-  "“6세대유·무인협동전투기개발서한·미협력가능”[2026코리아디..."
+  "“6세대유·무인협동전투기개발서한·미협력가능”[2026코리아디...",
+  "\"고졸은R&D안된다고?\"…SK하이닉스'스펙파괴'나섰다",
+  "[포토]한승택,5회깔끔한2루타",
+  "[포토]한승택,5회득점기회만드는2루타",
+  "허경민‘하이파이브’[MK포토]",
+  "포수사인과반대로들어간공...김원형감독,최승용피홈런에\"힘많이...",
+  "다시앞서가는KT위즈[MK포토]",
+  "로레알,오픈AI와제휴…상품발견·가상체험·AI광고까지확장"
  ],
  "recent_sigs": [
-  [
-   "2026-06-17T14:02:16.176725+09:00",
-   "검증 에이전트 내부 발표 하반기 오픈클로 청사진"
-  ],
   [
    "2026-06-17T14:04:17.679825+09:00",
    "개최 혁신 세미나 AX 일터 여성과총과"
@@ -6339,9 +6335,13 @@
   [
    "2026-06-17T19:46:17.724050+09:00",
    "당장 코드 디파이 경고 빼라 DeFi 자금 인공지능 해킹가능성"
+  ],
+  [
+   "2026-06-17T20:02:18.143863+09:00",
+   "확장 상품 체험 제휴 로레알 가상 광고까지 발견 오픈AI와"
   ]
  ],
- "last_run": "2026-06-17T20:00:55.389157+09:00",
+ "last_run": "2026-06-17T20:02:38.333454+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6450,6 +6450,7 @@
   "dailysecu.com": "데일리시큐",
   "breaknews.com": "브레이크뉴스",
   "esquirekorea.co.kr": "esquirekorea.co.kr",
-  "webeconomy.co.kr": "웹이코노미"
+  "webeconomy.co.kr": "웹이코노미",
+  "ktnews.com": "한국섬유신문"
  }
 }
