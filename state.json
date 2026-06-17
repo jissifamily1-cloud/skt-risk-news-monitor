@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260616112511222",
-  "https://news.bizwatch.co.kr/article/healthcare/2026/06/16/0031",
-  "http://www.dtnews24.com/news/articleView.html?idxno=812465",
-  "https://www.news2day.co.kr/article/20260616500082",
-  "https://www.dt.co.kr/article/12067877",
-  "https://www.etnews.com/20260616000313",
-  "https://www.news1.kr/it-science/security-hacking/6198955",
-  "https://www.goodkyung.com/news/articleView.html?idxno=288198",
   "https://nownews.seoul.co.kr/news/newsView.php?id=20260616601015&wlog_tag3=naver",
   "https://www.ajunews.com/view/20260616150217603",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675515",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03135686645482704",
   "https://view.asiae.co.kr/article/2026061709064331855",
   "https://biz.sbs.co.kr/article_hub/20000317058?division=NAVER",
-  "http://www.fnnews.com/news/202606170952001146"
+  "http://www.fnnews.com/news/202606170952001146",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0029979745&code=61141411&cp=nv",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248287",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=803830",
+  "https://www.sedaily.com/article/20056702",
+  "https://biz.newdaily.co.kr/site/data/html/2026/06/16/2026061600209.html",
+  "http://www.lkp.news/news/articleView.html?idxno=80983",
+  "https://www.inthenews.co.kr/news/article.html?no=88147",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248286"
  ],
  "seen_titles": [
-  "[아주사설│기본·원칙·상식]개인정보유출에흔들리는티빙",
-  "대웅건강관리웰다,KT임직원대상혈당관리캠페인",
-  "대전혁신센터,'딥테크밸류업밋업데이'성료",
-  "[김희철의직업군인이야기(326)]조준선을정열하라(하)",
-  "“‘@chatGPT’주변맛집검색해줘”…카카오,채팅방챗GPT챗봇기능...",
-  "크래프톤,'PUBG엘라이'베타서비스첫공개",
-  "AI·의료·국방연구자료노렸다…中해커미국에1년넘게침투",
-  "LG유플러스,고객혁신결실…이용자보호·만족도1위석권",
   "“북한,엔비디아GPU확보성공”…‘세계31위’군사력에날개달아...",
   "통신네트워크에도AI,주파수효율·데이터처리량높여",
   "LGU+,이용자보호·서비스평가'두각'...AI데이터기반개선가속",
@@ -6001,7 +5993,15 @@
   "美앤스로픽'차단'속…과기정통부,오픈AI와'AI안전'협력강화",
   "한국,오픈AI와AI안전MOU…미·영·일이어세계네번째",
   "젠슨황\"美정부,AI기업지분보유논의한적없다\"",
-  "\"AI,도구넘어동료로\"…KT,여성기술리더들과산업혁신방향공유"
+  "\"AI,도구넘어동료로\"…KT,여성기술리더들과산업혁신방향공유",
+  "“4년제졸업장안봅니다”…하이닉스채용서학력제한폐지",
+  "SK하이닉스,신입사원채용학력제한전면폐지",
+  "[이슈]앤트로픽AI수출규제…한국업체중국연계의혹",
+  "유가떨어져도금리공포…FOMC촉각",
+  "김성훈업스테이지대표“토크노믹스시동…토큰이모든것을결정한...",
+  "한컴인증서악용한표적형사회공학공격…북한사이버범죄전술과일...",
+  "SKT,민관데이터협력체계구축…소상공인위한상권분석지원",
+  "KT희망나눔재단,'K-AI콘텐츠공모전'개최…AI윤리·사회문제해결아..."
  ],
  "recent_sigs": [
   [
@@ -6389,7 +6389,7 @@
    "없다 젠슨 지분 보유 정부 AI기업 논의한"
   ]
  ],
- "last_run": "2026-06-17T10:04:43.473186+09:00",
+ "last_run": "2026-06-17T10:06:43.986220+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
