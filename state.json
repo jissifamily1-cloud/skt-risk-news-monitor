@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1214445",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1376893",
-  "https://view.asiae.co.kr/article/2026061610362017075",
-  "https://www.topdaily.kr/articles/110556",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3609761",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04122966645482376",
-  "https://www.ajunews.com/view/20260616134939404",
-  "http://www.fnnews.com/news/202606161409520890",
-  "http://www.fntimes.com/html/view.php?ud=2026061612113390357fd637f543_18",
-  "https://www.ddaily.co.kr/page/view/2026061613530661835",
-  "https://www.seoulfn.com/news/articleView.html?idxno=631202",
   "https://www.cnbnews.com/news/articleView.html?idxno=1004767",
   "https://biz.chosun.com/it-science/ict/2026/06/16/VUGV227QKNFDNKY4G3MPIF3AYQ/",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04132806645482376",
@@ -2999,20 +2988,20 @@
   "https://www.chosun.com/economy/money/2026/06/17/HEJWSW5AURHFFK6LIJJ2KDF5LM/",
   "https://www.viva100.com/article/20260617500150",
   "https://www.yna.co.kr/view/PYH20260617024900013?input=1196m",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675727"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675727",
+  "https://www.etnews.com/20260617000035",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1712799",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571971919811",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=267967",
+  "https://www.newsis.com/view/NISX20260617_0003672061",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=91038",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4420358",
+  "https://www.yna.co.kr/view/AKR20260616102700371?input=1195m",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2439591",
+  "https://news.mtn.co.kr/news-detail/2026061709061133715",
+  "https://www.ziksir.com/news/articleView.html?idxno=137115"
  ],
  "seen_titles": [
-  "SKT,“사람과AI가원팀”..AX혁신2.0본격시동",
-  "[유통레이더]NS홈쇼핑,유한킴벌리,교촌치킨,오리온,오설록,에이피...",
-  "박람회참여·중동파견…전쟁끝나자IT업계분주",
-  "[TOP'sPick][유통]에이피알,잠실'메디큐브팝업'12일간2만5000명방...",
-  "[포토]논산시탑정호음악분수잠정중단",
-  "테크리더들잇따른방한...빅테크'계산된구애'에숨은한국AI의생존...",
-  "트럼프,이란합의앞세워G7참석…우크라해법도시험대",
-  "DB손해보험,보험업계최초AI과실판정시스템도입",
-  "[현장]‘다음・타임리안은’업스테이지김성훈“모두를위한AI시대...",
-  "김완종SKAX사장\"기업경쟁력,AI도입보다최적화가더중요\"",
-  "[현장]다음·타임리품은업스테이지,AI기술넘어수익화선언",
   "\"경기도-경기도경제과학진흥원,글로벌빅테크와손잡고AI인재키운다...",
   "세일즈포스,5조5000억원에핀인수…AI에이전트역량강화",
   "[일문일답]업스테이지,‘다음’인수로‘AI토크노믹스’시동…수익...",
@@ -6001,7 +5990,18 @@
   "코스피,9000앞두고하락",
   "SKT·서울신보·KB국민은행·KB국민카드,데이터기반소상공인지원협...",
   "SKT-경찰청,통신·금융사기대응체계고도화",
-  "中점유율0%된엔비디아…'베라CPU'로화웨이에반격나선다"
+  "中점유율0%된엔비디아…'베라CPU'로화웨이에반격나선다",
+  "KB금융,금융·통신·상권빅데이터결합…소상공인지원강화",
+  "[Tech&Now]SK하이닉스,신입수시채용부터'학력제한'전면철폐",
+  "SK하이닉스,채용서'학력제한'전면철폐",
+  "'꿈의직장'SK하이닉스,인재채용시'학력제한'전면철폐",
+  "현대차·LGU+·두나무참여…티오리주축'아시아판글래스윙'출범",
+  "[2026프로야구삼진과홈런사이]류현진,NC전9승도전…3년만의'20...",
+  "코스피,美테크주하락·FOMC경계에장초반8,600선후퇴",
+  "\"AI의'한국왜곡'안돼\"…반크,디지털주권방어플랫폼오픈",
+  "SKT,소상공인위한민관데이터연합구축···\"상권지원협력추진\"",
+  "중국산장비가트리거였나…앤트로픽수출규제에韓통신사'불똥'",
+  "KT희망나눔재단,AI윤리·활용아이디어공모전개최"
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,17 @@
   [
    "2026-06-17T09:16:23.038655+09:00",
    "반격 화웨이에 나선다 점유율 베라 CPU"
+  ],
+  [
+   "2026-06-17T09:18:22.943102+09:00",
+   "장비가 불똥 중국산 수출규제에 앤트로픽 트리거였나"
+  ],
+  [
+   "2026-06-17T09:18:22.943102+09:00",
+   "공모전 윤리 KT희망나눔재단 아이디어 개최 활용"
   ]
  ],
- "last_run": "2026-06-17T09:16:47.467455+09:00",
+ "last_run": "2026-06-17T09:18:44.037373+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
