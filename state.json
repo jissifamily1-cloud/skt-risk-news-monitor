@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6200962",
   "https://www.ddaily.co.kr/page/view/2026061809005433144",
   "https://www.ddaily.co.kr/page/view/2026061809235717695",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4420627",
@@ -2999,10 +2998,10 @@
   "https://dgmbc.com/NewsArticle/846571",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1713117",
   "https://www.bntnews.co.kr/article/view/bnt202606190009",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676432"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676432",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=50987"
  ],
  "seen_titles": [
-  "LG유플러스,'유튜브프리미엄+구글AI프로'할인프로모션진행",
   "\"부산을AX거점도시로\"…KT,'부산클라우드데이'개최",
   "[뉴템]삼성전자,'갤럭시A375G'국내출시…\"50만원대AI폰\"",
   "삼성전자,공간제작소와'삼성AI모듈러홈'출시…단톡주택형모듈러...",
@@ -6001,7 +6000,8 @@
   "이틀연속끝내기승리삼성라이온즈…'신의한수'된2번타자최형우...",
   "반도체가살린뉴욕증시…인텔11%급등,나스닥2%가까이반등",
   "월드컵일정오늘멕시코전…72년징크스깨고조1위되나",
-  "앤트로픽·오픈AI에반격?....유력SW기업들ARD프로토콜띄운다"
+  "앤트로픽·오픈AI에반격?....유력SW기업들ARD프로토콜띄운다",
+  "앤스로픽\"한국과보안협력…페이블5정상화노력\""
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,13 @@
   [
    "2026-06-19T06:48:15.345657+09:00",
    "ARD 기업들 띄운다 SW 프로토콜 앤트로픽 반격 유력 오픈AI에"
+  ],
+  [
+   "2026-06-19T06:50:26.447408+09:00",
+   "정상화 페이블5 한국과 보안 협력 노력"
   ]
  ],
- "last_run": "2026-06-19T06:48:40.195935+09:00",
+ "last_run": "2026-06-19T06:50:45.886830+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6260,6 +6264,7 @@
   "gndomin.com": "경남도민신문",
   "hellodd.com": "헬로디디",
   "rookie.co.kr": "ROOKIE",
-  "marieclairekorea.com": "Marie Claire Korea"
+  "marieclairekorea.com": "Marie Claire Korea",
+  "koreareport.co.kr": "코리아리포트"
  }
 }
