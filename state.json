@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/tech/370193",
-  "http://www.techholic.co.kr/news/articleView.html?idxno=221706",
-  "https://www.ppss.kr/news/articleView.html?idxno=299053",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4089633",
-  "https://www.sisajournal.com/news/articleView.html?idxno=376761",
-  "https://www.kyeonggi.com/article/20260617580124",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=85739",
   "https://www.munhwa.com/article/11596229",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8588509",
   "https://www.koit.co.kr/news/articleView.html?idxno=207607",
@@ -2999,16 +2992,16 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=360662",
   "https://www.etnews.com/20260618000070",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676087",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=305480"
+  "https://www.khgames.co.kr/news/articleView.html?idxno=305480",
+  "https://www.techm.kr/news/articleView.html?idxno=152716",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=203607",
+  "https://www.tokenpost.kr/news/ai/370596",
+  "https://www.greened.kr/news/articleView.html?idxno=342783",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676117",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=780312",
+  "https://www.newspim.com/news/view/20260618000330"
  ],
  "seen_titles": [
-  "HPE,‘에이전트형AI’시대겨냥…네트워크·보안·데이터인프라묶...",
-  "삼성전자,佛'비바테크2026'서'커넥티드케어'통한건강관리비전선...",
-  "SK하이닉스,신입채용학력제한전면폐지…\"고졸도설계·R&D지원가...",
-  "방미통위,'시청자권익보호위'신규위원위촉",
-  "SK하이닉스신입사원수시채용시작…학력제한철폐",
-  "SK하이닉스,직원채용시학력제한전면폐지…세자릿수선발",
-  "KT그룹희망나눔재단,'2026K-AI콘텐츠공모전'개최…총상금5,400만...",
   "최태원회장-이석연위원장,‘성장·통합선순환’등논의",
   "[영상]노시환4연속삼진…홈런타자의숙명인가?",
   "AI반도체·에이전틱AI·피지컬AI·네트워크·보안까지풀스택역량가...",
@@ -6001,7 +5994,14 @@
   "SKT,독파모선행연구기반세미나개최",
   "SKT,AI기술트렌드세미나개최…독파모선행연구기반",
   "구형모델로차세대모델점검…오픈AI,GPT-5.6출시전AI위험예측기...",
-  "엔비디아x크래프톤합작AI동료발표…배틀그라운드신규모드'엘..."
+  "엔비디아x크래프톤합작AI동료발표…배틀그라운드신규모드'엘...",
+  "[글로벌]딥시크,첫외부투자11조원조달마무리...량원펑지배권은그...",
+  "모듈러건축시장진출한삼성전자,'삼성AI모듈러홈'출시·쇼룸오...",
+  "프라마나랩스,규제산업겨냥‘검증형AI’로시드2,700만달러유치",
+  "언더라이팅고도화에사활건보험사...\"외형보다핵심수익지표관리...",
+  "아마존,첫양자컴퓨터시간표꺼냈다…\"5~7년안에현실화\"",
+  "[위클리오늘]이동통신소식_SK텔레콤,LG유플러스,KT(6.18)",
+  "앤스로픽미토스,美전략자산으로둔갑하나?21세기판핵우산"
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,17 @@
   [
    "2026-06-18T10:04:15.515686+09:00",
    "발표 동료 합작 크래프톤 모드 배틀그라운드 신규"
+  ],
+  [
+   "2026-06-18T10:06:15.348995+09:00",
+   "LG유플러스 이동통신 소식"
+  ],
+  [
+   "2026-06-18T10:06:15.348995+09:00",
+   "핵우산 전략자산으로 둔갑하나 미토스 21세기판"
   ]
  ],
- "last_run": "2026-06-18T10:04:44.079598+09:00",
+ "last_run": "2026-06-18T10:06:43.878432+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
