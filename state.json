@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202606171250190254",
-  "https://www.mydaily.co.kr/page/view/2026061620155145926",
-  "https://www.donga.com/news/Economy/article/all/20260617/134128056/1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610682",
-  "https://www.naeil.com/news/read/592182",
-  "https://www.naeil.com/news/read/592191",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=60549",
-  "https://www.naeil.com/news/read/592194",
-  "https://www.naeil.com/news/read/592207",
-  "https://www.naeil.com/news/read/592209",
   "https://www.naeil.com/news/read/592195",
   "https://www.ekn.kr/web/view.php?key=20260617022564020",
   "https://www.naeil.com/news/read/592206",
@@ -2999,19 +2989,19 @@
   "https://www.betanews.net/article/view/beta202606180034",
   "https://www.topstarnews.net/news/articleView.html?idxno=16099484",
   "https://www.dailian.co.kr/news/view/1657232/?sc=Naver",
-  "http://www.joseilbo.com/news/news_read.php?uid=570279&class=78"
+  "http://www.joseilbo.com/news/news_read.php?uid=570279&class=78",
+  "http://www.breaknews.com/1215064",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676116",
+  "https://www.sportsseoul.com/news/read/1616928",
+  "https://www.sedaily.com/article/20057219",
+  "https://www.mk.co.kr/article/12077142",
+  "https://zdnet.co.kr/view/?no=20260618101051",
+  "https://magazine.hankyung.com/job-joy/article/202606183814d",
+  "https://www.theguru.co.kr/news/article.html?no=103237",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=263011",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248366"
  ],
  "seen_titles": [
-  "최태원,국민통합위원장면담...\"통합나아가려면경제받쳐줘야\"",
-  "“(손)주영이가선발로가야이길확률이높겠다”염갈량이이생각을...",
-  "93만유저무기로…피클플러스,이달말‘온라인휴대폰공동구매’론...",
-  "세종시의회제106회임시회폐회…제4대의회역사속으로",
-  "물류배송문제인공지능으로해결",
-  "SK하이닉스,채용서‘학력제한’폐지",
-  "AI경쟁,전선에서에이전트까지…전력·데이터인프라가승부처",
-  "최첨단AI모델안전확보추진한다",
-  "스페이스X,사흘째급등…시총5위등극",
-  "AI컴퓨팅파워도선물거래시대",
   "코트라·무보,무역거래리스크예방",
   "최태원대한상의회장,이석연국민통합위원회위원장면담",
   "미정부AI규제칼날…앤스로픽IPO먹구름",
@@ -6001,7 +5991,17 @@
   "델테크놀로지스,차세대XPS및'에일리언웨어'게이밍신제품6종공개",
   "SK텔레콤주가,6월18일장중96,200원2.83%하락",
   "SKT,학생·개발자들과AI독파모'열공'",
-  "엔비디아,AI코딩에이전트로‘스스로학습하는로봇’개발"
+  "엔비디아,AI코딩에이전트로‘스스로학습하는로봇’개발",
+  "이정헌의원\"티빙개인정보유출최종피해자1953만명확인\"",
+  "국가AI전략위,보안취약점신고조치제세미나",
+  "‘야구좋아하세요?’KBO,역대최소경기600만관중달성…LG·삼성8...",
+  "BTS부산공연에11만명운집…해운대·광안리상권까지들썩",
+  "“LG긴장하겠네”…삼성전자도모듈러주택시장출사표",
+  "델테크놀로지스,XPS13·XPS16크리에이터에디션공개",
+  "LG슈퍼스타트,넥스트라이즈2026서AI·클린테크스타트업선보인다",
+  "ASML푸케CEO\"공급제약없다면스페이스X테라팹은'기회'\"",
+  "SK하이닉스,HBM4E12단제품샘플공급…삼성출하20일만'맞불'",
+  "SKT,독자AI모델세미나개최…서울대교수진과AI원리공유"
  ],
  "recent_sigs": [
   [
@@ -6333,7 +6333,7 @@
    "스스로 학습하는 코딩 에이전트로 로봇 개발"
   ]
  ],
- "last_run": "2026-06-18T10:12:41.684439+09:00",
+ "last_run": "2026-06-18T10:14:37.571358+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
