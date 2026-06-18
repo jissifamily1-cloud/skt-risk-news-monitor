@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260617_0003672362",
-  "https://zdnet.co.kr/view/?no=20260617110215",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4420404",
-  "https://www.dt.co.kr/article/12068039",
-  "https://www.ceoscoredaily.com/page/view/2026061616253007530",
   "https://www.hidomin.com/news/articleView.html?idxno=709679",
   "https://www.sportschosun.com/baseball/2026-06-16/202606170100111030007165",
   "https://cwn.kr/article/1065578479548649",
@@ -2999,14 +2994,14 @@
   "http://www.koreastocknews.com/news/articleView.html?idxno=119122",
   "https://www.etnews.com/20260618000024",
   "https://www.news1.kr/photos/7964473",
-  "https://www.news1.kr/photos/7964475"
+  "https://www.news1.kr/photos/7964475",
+  "https://www.sidae.com/article/2026061808455929169",
+  "https://biz.sbs.co.kr/article_hub/20000317302?division=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461042",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=79815",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092163921"
  ],
  "seen_titles": [
-  "구글,제미나이기반보안플랫폼서울에설치…공공·금융시장'정조...",
-  "HPE,엔비디아손잡고'에이전틱AI'실전투입나선다",
-  "팹10,'M7'대체할키워드…스페이스X·오픈AI·앤트로픽추가",
-  "[人사이더]젠슨황“모든사람에AI필요…새사회적규범마련을”",
-  "정재헌표‘AX2.0’본격화…SKT,AI에사번부여일반직원처럼관리한...",
   "\"학벌보다실력\"…SK하이닉스,신입채용서학력제한폐지",
   "\"감독님죄송합니다\",\"뭐가미안해ABS때문인데\"그러니'최장신외인...",
   "이재명“한반도평화=세계평화”…교황방한기대",
@@ -6001,7 +5996,12 @@
   "티빙,정보유출손배소9만명···'고작12억과징금'듀오1000명소송",
   "채비,KT와AI기반전기차충전서비스고도화",
   "KT,영월옥동초찾아'고객경청포럼'",
-  "KT,'영월옥동초찾아고객의목소리를듣다'"
+  "KT,'영월옥동초찾아고객의목소리를듣다'",
+  "SK하이닉스,차세대AI메모리'HBM4E'12단샘플공급",
+  "뉴욕증시,연준'금리인상'시사에일제히하락",
+  "SKT-서울대학교,'독파모'선행연구세미나개최",
+  "LG유플러스,빅테크결합구독경쟁력강화…AI·콘텐츠연계프로모션...",
+  "KT,1900억원규모과징금철퇴맞을까…최종수위촉각"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-06-18T08:58:16.858796+09:00",
    "영월 찾아 목소리를 옥동초 고객의 듣다"
+  ],
+  [
+   "2026-06-18T09:00:39.255173+09:00",
+   "선행연구 세미나 독파모 개최 서울대학교"
+  ],
+  [
+   "2026-06-18T09:00:39.255173+09:00",
+   "철퇴 규모 최종 맞을까 촉각 1900억원 수위 과징금"
   ]
  ],
- "last_run": "2026-06-18T08:58:35.818340+09:00",
+ "last_run": "2026-06-18T09:01:03.544527+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
