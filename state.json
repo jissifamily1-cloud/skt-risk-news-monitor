@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://swtvnews.com/news/newsview.php?ncode=1065575834723469",
-  "http://www.wsobi.com/news/articleView.html?idxno=313818",
-  "https://www.sidae.com/article/2026061710493212926",
-  "https://biz.heraldcorp.com/article/10773467",
-  "https://www.hani.co.kr/arti/society/media/1263828.html",
   "https://www.businesspost.co.kr/BP?command=article_view&num=440162",
   "https://www.econovill.com/news/articleView.html?idxno=742621",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4420409",
@@ -2999,14 +2994,14 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092164047",
   "https://www.newsinside.kr/news/articleView.html?idxno=4769294",
   "https://kpenews.com/View.aspx?No=4116621",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676065"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676065",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=82277",
+  "https://www.yna.co.kr/view/AKR20260618029900003?input=1195m",
+  "https://www.etoday.co.kr/news/view/2594779",
+  "https://www.seoulfn.com/news/articleView.html?idxno=631318",
+  "http://www.thebigdata.co.kr/view.php?ud=2026061716122393150a47484cf8_23"
  ],
  "seen_titles": [
-  "‘닥터섬보이’이재욱,신예은과본격로맨스시동…직진매력으로‘...",
-  "삼성전자·삼성화재,비바테크2026서'커넥티드케어'소개·디지털위...",
-  "체질개선힘싣는가온전선,'AI인프라기업'진화가속페달",
-  "베일벗은SK하이닉스HBM4E…차세대HBM본격경쟁막올랐다",
-  "연합뉴스TV,사장추천위구성노사합의…YTN은제자리걸음",
   "외신\"오픈AI1분기37억달러지출\",상장앞두고점유율확대총력전",
   "SK하이닉스,올해신입사원수시채용학력제한전면폐지",
   "SK하이닉스,신입채용서학력제한전면폐지…세자릿수채용",
@@ -6001,7 +5996,12 @@
   "베이넥스·HPE,스트라드비젼통합AI플랫폼구축",
   "SK하이닉스,차세대AID램'HBM4E'12단샘플공급시작…열저항17%개...",
   "서울대석학에게듣는AI원리..SKT,독파모선행연구기반세미나개최",
-  "아마존,오픈AI·앤트로픽에밀렸지만…\"1년안에따라잡는다\"자신감"
+  "아마존,오픈AI·앤트로픽에밀렸지만…\"1년안에따라잡는다\"자신감",
+  "삼성전자,실속형'갤럭시A375G'19일출시",
+  "삼성전자,AI가전·스마트싱스기반'삼성AI모듈러홈'출시",
+  "삼성전자,공간제작소와'AI모듈러홈'출시…입주즉시AI홈구현",
+  "[한화AI전략②]\"반도체·플랫폼없어도\"···AI시장'키플레이어...",
+  "티빙해킹에그룹보안역량재조명…CJ올리브네트웍스역할커지나"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,13 @@
   [
    "2026-06-18T09:02:16.167906+09:00",
    "안에 자신감 1년 밀렸지만 앤트로픽에 아마존 따라잡는다"
+  ],
+  [
+   "2026-06-18T09:04:15.716725+09:00",
+   "역할 역량 커지나 재조명 CJ올리브네트웍스 티빙 해킹에 보안"
   ]
  ],
- "last_run": "2026-06-18T09:02:37.214082+09:00",
+ "last_run": "2026-06-18T09:04:43.464920+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6350,6 +6354,7 @@
   "betanews.net": "베타뉴스",
   "itworld.co.kr": "itworld.co.kr",
   "daily.hankooki.com": "데일리한국",
-  "incheonin.com": "인천in 시민언론의 길을 열어갑니다"
+  "incheonin.com": "인천in 시민언론의 길을 열어갑니다",
+  "thebigdata.co.kr": "빅데이터뉴스"
  }
 }
