@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026060314300003306?did=NA",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02269766645478112",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092163182",
-  "http://www.economytalk.kr/news/articleView.html?idxno=421669",
-  "https://www.insidevina.com/news/articleView.html?idxno=43307",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=306596",
   "https://www.asiatime.co.kr/article/20260601500303",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2434861",
   "https://www.etnews.com/20260601000348",
@@ -2999,15 +2993,15 @@
   "https://www.jjan.kr/article/20260616500230",
   "https://www.ajunews.com/view/20260618175336629",
   "https://www.sisaweek.com/news/articleView.html?idxno=236215",
-  "https://www.bloter.net/news/articleView.html?idxno=665895"
+  "https://www.bloter.net/news/articleView.html?idxno=665895",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553306367",
+  "http://www.maniareport.com/view.php?ud=202606181700384662dad9f33a29_19",
+  "https://www.sedaily.com/article/20057500",
+  "https://www.g-enews.com/view.php?ud=202606181806016656e250e8e188_1",
+  "https://www.ceoscoredaily.com/page/view/2026061810541436377",
+  "http://www.journalist.or.kr/news/article.html?no=61118"
  ],
  "seen_titles": [
-  "\"쿠팡·네이버결합판매로'록인효과'...이통사-OTT결합은제한적\"",
-  "배달묶은쿠팡,OTT묶은네이버…이커머스가입자76%,멤버십가입",
-  "지방선거당일통신장애방지…SKT·KT,AI모니터링·유무선이중화가...",
-  "통신3사'요금제허물기'…알뜰폰생존전략달라질까",
-  "베트남,이동통신가입자기기변경시'안면인증'의무화…'대포폰근절...",
-  "[통신맥락읽기]체감인하는0원…'통신비개편'불신의벽",
   "“나떨고있니”…‘저가요금제’확산에알뜰폰경쟁력악화",
   "\"갤S26공시지원금또올랐다\"···통신사들이계속돈쓰는진짜이유...",
   "지원금경쟁에밀린알뜰폰,가입자순감지속",
@@ -6001,7 +5995,13 @@
   "[특파원칼럼]AI시대의진짜주인공은누가될까?",
   "넥슨기획자의바이브코딩실전기…\"목적분명해야시행착오줄인다\"",
   "KT,부울경산업현장AX공략",
-  "KT밀리의서재,지니뮤직과오디오제작…IP경쟁력높인다"
+  "KT밀리의서재,지니뮤직과오디오제작…IP경쟁력높인다",
+  "[오피셜]미쳤다,한화인기대단하네!'99.8%'압도적1위좌석점유율...",
+  "'복귀전홈런쾅'두산박준순,2군4경기뒤1군콜업예정",
+  "[글로벌핫스톡]델테크놀로지스,AI서버수주급증…AI투자붐수혜",
+  "트럼프\"애플·인텔칩설계·제조합의\"...인텔주가장전거래서9%급...",
+  "삼성반도체,차세대HBM4선두굳힌다…“‘만년적자’파운드리도2나...",
+  "방미통위,JTBC사태관련점검반구성…의견청취도추진"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-06-18T18:10:29.807738+09:00",
    "KT밀리의서재 지니뮤직과 오디오 제작 IP 경쟁력 높인다"
+  ],
+  [
+   "2026-06-18T18:12:25.537644+09:00",
+   "의견청취도 사태 점검반 구성 JTBC"
   ]
  ],
- "last_run": "2026-06-18T18:10:47.908226+09:00",
+ "last_run": "2026-06-18T18:12:57.319476+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6591,6 +6595,7 @@
   "fetv.co.kr": "FETV",
   "globale.co.kr": "글로벌E",
   "catchnews.kr": "CatchNews",
-  "srtimes.kr": "SR타임스"
+  "srtimes.kr": "SR타임스",
+  "journalist.or.kr": "한국기자협회 인터넷신문"
  }
 }
