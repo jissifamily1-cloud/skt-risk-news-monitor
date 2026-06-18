@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260617176500001?input=1195m",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=81211",
-  "https://www.segye.com/newsView/20260617515188?OutUrl=naver",
-  "https://www.newsis.com/view/NISX20260617_0003673436",
-  "https://www.newspim.com/news/view/20260617001141",
   "http://www.bizwnews.com/news/articleView.html?idxno=138862",
   "https://www.yna.co.kr/view/PYH20260617177800013?input=1196m",
   "https://www.news1.kr/world/general-world/6200677",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8589789",
   "https://www.sportschosun.com/baseball/2026-06-18/202606180100129530008394",
   "https://www.mt.co.kr/future/2026/06/18/2026061810425711146",
-  "https://www.hankookilbo.com/news/article/A2026061815230001570?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026061815230001570?did=NA",
+  "https://www.thelec.kr/news/articleView.html?idxno=58327",
+  "http://www.hellodd.com/news/articleView.html?idxno=112173",
+  "http://www.hellodd.com/news/articleView.html?idxno=112164",
+  "http://www.hellodd.com/news/articleView.html?idxno=112174",
+  "https://www.dt.co.kr/article/12068406"
  ],
  "seen_titles": [
-  "李대통령,G7업무오찬참석…AI시대'공유·안전'과제제시",
-  "SEC,토큰화주식거래허용추진-미국주식도24시간거래시대열리나",
-  "[세계포럼]‘우주AI시대’예고한스페이스X",
-  "李대통령,G7서AI시대과제로'공유·안전'제시…\"AI안전확보위한...",
-  "[미국특징주]애플투자자들,AI약속에피로감…가시적성과촉구",
   "[산업HOT뉴스]\"AI가설계하고제약사가검증한다\"…LG,'경구용펩타...",
   "이재명대통령,G7업무오찬참석",
   "G7\"미·이란합의는역사적기회\"…AI기업에아동보호주문(종합2보)",
@@ -6001,7 +5996,12 @@
   "방미통위,JTBC재무위기논란예의주시…“시청권침해없어야”",
   "[포토]소형준,돌아온에이스",
   "컴퍼니케이,넥스트라이즈서'우주항공특별무대'연다",
-  "삼전반도체는AI칩수요대응분주,완제품은군살빼기로위기돌파"
+  "삼전반도체는AI칩수요대응분주,완제품은군살빼기로위기돌파",
+  "넥써쓰,626억원에'원스토어'인수...웹3게임플랫폼으로",
+  "\"인공지능작성·허위참고문헌도탐지\"MDPI,AI검증시스템전면도입",
+  "\"질문없이선도적국가만들수없다\"서울대교수진18人세상바꿀질...",
+  "오픈AI·엔비디아이어앤트로픽까지···과기정통부,AI협력망확대",
+  "방미통위“JTBC재정위기예의주시…월드컵중계차질없어야”"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-06-18T18:42:16.933608+09:00",
    "발신 전화 번호로 중계소 불법 해외 115곳 경찰 공조로 조작"
+  ],
+  [
+   "2026-06-18T19:04:22.699200+09:00",
+   "협력망 확대 과기정통부 앤트로픽까지 이어"
   ]
  ],
- "last_run": "2026-06-18T19:02:35.964448+09:00",
+ "last_run": "2026-06-18T19:04:50.205929+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6601,6 +6605,7 @@
   "catchnews.kr": "CatchNews",
   "srtimes.kr": "SR타임스",
   "journalist.or.kr": "한국기자협회 인터넷신문",
-  "gndomin.com": "경남도민신문"
+  "gndomin.com": "경남도민신문",
+  "hellodd.com": "헬로디디"
  }
 }
