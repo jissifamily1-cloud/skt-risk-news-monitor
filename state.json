@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/592195",
-  "https://www.ekn.kr/web/view.php?key=20260617022564020",
-  "https://www.naeil.com/news/read/592206",
-  "https://www.vegannews.co.kr/news/article.html?no=383366",
-  "https://www.sportsseoul.com/news/read/1616657",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610684",
   "http://www.ktnews.com/news/articleView.html?idxno=146621",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=42934",
   "http://coinreaders.com/242772",
@@ -2999,15 +2993,15 @@
   "https://magazine.hankyung.com/job-joy/article/202606183814d",
   "https://www.theguru.co.kr/news/article.html?no=103237",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=263011",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248366"
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248366",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3611514",
+  "http://www.paxetv.com/news/articleView.html?idxno=274966",
+  "https://www.inven.co.kr/webzine/news/?news=317561",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4420639",
+  "https://www.newspim.com/news/view/20260618000349",
+  "http://www.spochoo.com/news/articleView.html?idxno=126188"
  ],
  "seen_titles": [
-  "코트라·무보,무역거래리스크예방",
-  "최태원대한상의회장,이석연국민통합위원회위원장면담",
-  "미정부AI규제칼날…앤스로픽IPO먹구름",
-  "공공투데이,광역·지역본부모집",
-  "‘케릴라’가돌아왔다!6월들어다소처진KT타선,안현민과함께반...",
-  "세종예술의전당,평일에도열린다…시민위한문화휴게공간조성",
   "채율·아이스테이징아시아,파리서디지털헤리티지미래제시",
   "최태원,이석연만나'지속가능사회'협력방안논의",
   "시총5조돌파한엔비디아,월가가조준한'743달러'현실성있을까?",
@@ -6001,7 +5995,13 @@
   "LG슈퍼스타트,넥스트라이즈2026서AI·클린테크스타트업선보인다",
   "ASML푸케CEO\"공급제약없다면스페이스X테라팹은'기회'\"",
   "SK하이닉스,HBM4E12단제품샘플공급…삼성출하20일만'맞불'",
-  "SKT,독자AI모델세미나개최…서울대교수진과AI원리공유"
+  "SKT,독자AI모델세미나개최…서울대교수진과AI원리공유",
+  "[조간신문뉴스라인]대전∙충남∙세종19일(목)",
+  "삼성전자,'갤럭시A375G'출시…AI기능·카메라성능강화",
+  "[배틀그라운드]엔비디아,언리얼페스트서‘PUBG엘라이’지원발표",
+  "하나증권,삼성전자목표가48만원상향…\"150조원규모주주환원기대...",
+  "[중국특징주]증권기관\"AI물결이PCB산업의판도재편추진\"",
+  "900억과세뒤늦게수면위로…그럼에도SKT는왜'대관총괄'을농구단..."
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-06-18T10:12:17.268689+09:00",
    "스스로 학습하는 코딩 에이전트로 로봇 개발"
+  ],
+  [
+   "2026-06-18T10:16:17.140254+09:00",
+   "그럼에도 과세 수면 대관 총괄 900억 농구단 SKT는 뒤늦게 위로"
   ]
  ],
- "last_run": "2026-06-18T10:14:37.571358+09:00",
+ "last_run": "2026-06-18T10:16:36.060762+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6461,6 +6465,7 @@
   "news.skbroadband.com": "B tv news",
   "koreaittimes.com": "Korea IT Times",
   "newsfreezone.co.kr": "뉴스프리존",
-  "khgames.co.kr": "경향게임스"
+  "khgames.co.kr": "경향게임스",
+  "spochoo.com": "더게이트(THE GATE)"
  }
 }
