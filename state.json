@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=205364",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1712953",
-  "https://www.seoul.co.kr/news/editOpinion/column/After-closing/2026/06/18/20260618026003?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/06/18/20260618029003?wlog_tag3=naver",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=308624",
-  "http://www.fnnews.com/news/202606172039255928",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260617.99099004919",
   "https://www.donga.com/news/Economy/article/all/20260617/134131957/2",
   "https://www.hankookilbo.com/news/article/A2026061715410005492?did=NA",
   "https://www.donga.com/news/Opinion/article/all/20260617/134133428/2",
@@ -2999,16 +2992,16 @@
   "https://www.globale.co.kr/news/articleView.html?idxno=38885",
   "https://www.getnews.co.kr/news/articleView.html?idxno=872761",
   "http://www.osen.co.kr/article/G1112823859",
-  "https://www.techm.kr/news/articleView.html?idxno=152740"
+  "https://www.techm.kr/news/articleView.html?idxno=152740",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2204369",
+  "http://www.maniareport.com/view.php?ud=20260618172326787991b55a0d56_19",
+  "https://isplus.com/article/view/isp202606180143",
+  "https://www.topdaily.kr/articles/110610",
+  "http://www.jjn.co.kr/news/articleView.html?idxno=1044101",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=222213",
+  "https://www.catchnews.kr/news/articleView.html?idxno=125158"
  ],
  "seen_titles": [
-  "\"구성원·AI원팀으로\"…SKT,AX혁신2.0드라이브건다",
-  "[EBN칼럼]이혼이흔드는경영권,주주들이살펴봐야할것들",
-  "[마감후]경제민주화2026ver.",
-  "“AI시대는잠재력”…SK하이닉스채용때학력제한없앤다",
-  "[출근길포인트]SK학력철폐·구글보안상륙·신고포상금한도폐지",
-  "학력제한없앤SK하이닉스…\"실력중심\"vs\"결국고스펙\"",
-  "‘천상의직장’SK하이닉스,대학재학생도입사한다",
   "SK하이닉스,신입채용서‘학력제한’전면폐지",
   "[사설]신입학력제한없앤SK하이닉스…AI가바꾼인재상",
   "[횡설수설/김창덕]하이닉스가없앤학력제한",
@@ -6001,7 +5994,14 @@
   "앤트로픽미토스5외국인접근차단촉발한한국통신사는어디?",
   "방한미룬오픈AI샘올트먼…연기이유는'둘째딸출산'",
   "‘이천→잠실’78억거포,2군타율0.203인데왜콜업했나“장타필요...",
-  "[NDC26]AI·데이터·개발노하우한곳에...게임의미래,'이용자'에게..."
+  "[NDC26]AI·데이터·개발노하우한곳에...게임의미래,'이용자'에게...",
+  "SK그룹,K-뉴딜아카데미참여…\"청년AX역량지원\"",
+  "롯데,남은78경기중46승올릴수있나?...LG는30승만추가해도가을...",
+  "[IS광주]KIA햄스트링회복카스트로,53일만에1군복귀\"하루정도...",
+  "[TOP'sPick][전자·IT]SK하이닉스,‘HBM4E’12단샘플공급外",
+  "전북,국제금융센터로글로벌금융허브꿈꾼다",
+  "태평양,구글과'온라인안전포럼'개최",
+  "\"물류·제조심장부산을AX거점도시로\"KT,현지기업과'현장형전략'..."
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-06-18T17:22:17.837967+09:00",
    "미토스5 차단 한국 외국인 앤트로픽 접근 통신사는 촉발한 어디"
+  ],
+  [
+   "2026-06-18T17:26:20.111282+09:00",
+   "부산을 AX거점 현지기업과 도시로 물류 현장형 제조심장 전략"
   ]
  ],
- "last_run": "2026-06-18T17:24:36.373406+09:00",
+ "last_run": "2026-06-18T17:26:43.888137+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6589,6 +6593,7 @@
   "kfenews.co.kr": "한국금융경제신문",
   "finomy.com": "현대경제신문",
   "fetv.co.kr": "FETV",
-  "globale.co.kr": "글로벌E"
+  "globale.co.kr": "글로벌E",
+  "catchnews.kr": "CatchNews"
  }
 }
