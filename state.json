@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=79805",
-  "http://www.osen.co.kr/article/G1112823076",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05192246645482704",
-  "http://www.econotelling.com/news/articleView.html?idxno=20691",
-  "http://www.fnnews.com/news/202606171833270723",
-  "http://www.fnnews.com/news/202606171833337899",
-  "https://www.inthenews.co.kr/news/article.html?no=88191",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4768913",
-  "https://www.sportsseoul.com/news/read/1616754",
-  "https://view.asiae.co.kr/article/2026061718372077181",
   "https://www.yna.co.kr/view/AKR20260617160100007?input=1195m",
   "https://www.mk.co.kr/article/12076740",
   "http://www.osen.co.kr/article/G1112823058",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/it-science/general-it/6201533",
   "https://swtvnews.com/news/newsview.php?ncode=1065576826328490",
   "http://www.fnnews.com/news/202606181521100266",
-  "https://biz.chosun.com/it-science/ict/2026/06/18/WTNUU54HU5G6TPTMR6BUAA5RLU/"
+  "https://biz.chosun.com/it-science/ict/2026/06/18/WTNUU54HU5G6TPTMR6BUAA5RLU/",
+  "http://www.segyebiz.com/newsView/20260618513537?OutUrl=naver",
+  "https://www.m-i.kr/news/articleView.html?idxno=1383008",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16100441",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=845089",
+  "https://www.ajunews.com/view/20260618125022378",
+  "https://www.techm.kr/news/articleView.html?idxno=152737",
+  "https://news.unn.net/news/articleView.html?idxno=593650",
+  "http://www.mdilbo.com/detail/0kIA7d/756451",
+  "https://www.etnews.com/20260618000383",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=872735"
  ],
  "seen_titles": [
-  "KX넥스지,12년만의신제품발표...차세대통합보안플랫폼넥스포스...",
-  "91구던지고또올라갔다…구창모7승거두자마자1군말소,계획대로열...",
-  "풀무원,급식·외식서신사업검증…‘지속가능식생활’판키운다",
-  "SK하이닉스,신입학력장벽허문다",
-  "\"국민아이디어가자산되도록…제도재정비할것\"[제16회국제지식재...",
-  "\"글로벌기업특허95%는무용지물…양보다질로승부해야\"[제16회국제...",
-  "신한금융자회사경계허문‘슈퍼앱’…진옥동회장“올인원금융플...",
-  "[뉴스인사이드_뉴스톡톡]진옥동야심작'신한슈퍼SOL'공개",
-  "전상현-카스트로돌아온다→KIA‘천군만마’그자체…마침내‘완전체...",
-  "\"하필곽씨네\"550억코인해킹에...곽튜브직접해명",
   "kt장성우,손목골절이탈…이강철감독\"완전체이틀못가\"",
   "사우어‘역투’[MK포토]",
   "‘이게무슨날벼락’LG추격전선초비상,주전포수손등금갔다→...",
@@ -6001,13 +5991,19 @@
   "샘올트먼오픈AI대표,방한연기사유는'둘째딸출산'",
   "KT,도서산간지역서‘고객경청포럼’개최…현장목소리청취",
   "\"AI데이터센터생태계구축위해통신사적극투자해야\"",
-  "오픈AI“지금이창업최적기”…AI에이전트가스타트업성장공식바..."
+  "오픈AI“지금이창업최적기”…AI에이전트가스타트업성장공식바...",
+  "오래제로아이즈,7년간700여곳무인운영…GS인증1등급·NIPA품질등...",
+  "[기획]고비용·고갈등에밀리는韓생산거점",
+  "농구월드컵아시아예선,7월대만·일본과홈경기…티켓예매오픈언...",
+  "'팀타율1위'KT,안현민복귀효과기대",
+  "\"3천원하던쌀국수가5천원?\"베트남,생활비압박속물가상승'경고...",
+  "델,XPS·에일리언웨어신제품6종공개...\"프리미엄기준높였다\"",
+  "울산과학대,AI·DX세미나개최…'특허·저작권·영업비밀'활용전략...",
+  "“미래100년위한기반닦아전남을미래성장핵심축으로만들었다는...",
+  "SK쉴더스“AI시대,해킹사후대응이보안경쟁력”",
+  "'1953만명유출'티빙해킹사고파장…집단소송·탈퇴서비스신청폭증"
  ],
  "recent_sigs": [
-  [
-   "2026-06-18T09:36:15.609699+09:00",
-   "953만 유출 4배 논란 피해 개인정보 유료회원 티빙 넘는"
-  ],
   [
    "2026-06-18T09:38:21.455250+09:00",
    "풀릴 수출통제 기대 조만간 미토스"
@@ -6383,9 +6379,13 @@
   [
    "2026-06-18T15:34:16.068761+09:00",
    "최적기 창업 스타트업 에이전트가 지금이 성장"
+  ],
+  [
+   "2026-06-18T15:36:17.959156+09:00",
+   "파장 폭증 1953만명 탈퇴 유출 티빙 신청 사고 서비스 집단소송"
   ]
  ],
- "last_run": "2026-06-18T15:34:44.395975+09:00",
+ "last_run": "2026-06-18T15:36:37.982048+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
