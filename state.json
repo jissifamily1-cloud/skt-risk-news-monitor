@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403132",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=439804",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610662",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610659",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610657",
-  "https://www.ziksir.com/news/articleView.html?idxno=137163",
-  "https://news.tf.co.kr/read/economy/2333618.htm",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610677",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610673",
   "http://www.fnnews.com/news/202606171250190254",
   "https://www.mydaily.co.kr/page/view/2026061620155145926",
   "https://www.donga.com/news/Economy/article/all/20260617/134128056/1",
@@ -2999,18 +2990,18 @@
   "https://platum.kr/archives/289200",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=248364",
   "https://www.betanews.net/article/view/beta202606180028",
-  "https://byline.network/?p=9004111222608056"
+  "https://byline.network/?p=9004111222608056",
+  "http://www.econotelling.com/news/articleView.html?idxno=20683",
+  "http://www.kdfnews.com/news/articleView.html?idxno=184361",
+  "https://news.jtbc.co.kr/article/NB12303798?influxDiv=NAVER",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=780565",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=601365",
+  "https://www.betanews.net/article/view/beta202606180034",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16099484",
+  "https://www.dailian.co.kr/news/view/1657232/?sc=Naver",
+  "http://www.joseilbo.com/news/news_read.php?uid=570279&class=78"
  ],
  "seen_titles": [
-  "SKT-경찰청,AI로피싱범죄피해막았다…공식협력추진",
-  "최태원대한상의회장,국민통합위원회위원장과면담...\"성장이곧통합...",
-  "하남시,발달장애인대상재활·구강교육완료…자가건강관리역량↑",
-  "강기윤창원시장취임식시민참여신청접수",
-  "창원시장학회,428명장학생선발…장학금5억3천만원지급",
-  "삼성전자,비바테크서삼성헬스연동건강관리서비스전시",
-  "최태원대한상의회장\"성장이곧통합토대\"…국민통합위와협력",
-  "이현정의원\"세종시재정위기정면돌파해야\"…민생중심예산강조",
-  "유인호의원,보람종합복지센터전면개편제안…\"수요자중심운영필...",
   "최태원,국민통합위원장면담...\"통합나아가려면경제받쳐줘야\"",
   "“(손)주영이가선발로가야이길확률이높겠다”염갈량이이생각을...",
   "93만유저무기로…피클플러스,이달말‘온라인휴대폰공동구매’론...",
@@ -6001,7 +5992,16 @@
   "LG슈퍼스타트,스타트업10개사와'넥스트라이즈2026'공동전시",
   "KT,영월산간마을서고객경청포럼개최…현장목소리듣고AI교육도진...",
   "엔비디아,언리얼페스트서PUBG엘라이지원발표",
-  "정부,오픈AI·앤트로픽과AI안전협력확대"
+  "정부,오픈AI·앤트로픽과AI안전협력확대",
+  "AI사원이정규직?",
+  "청년부터시니어까지…기업들디지털포용나선다",
+  "뜨거운홈응원뚫어라!…JTBC,대한민국-멕시코전19일현지생중계",
+  "[산업계동향]삼성ㆍSK하이닉스ㆍLG(6.18)",
+  "LG화학,영국랩-지니어스와손잡고다중항체후보물질발굴위한공동...",
+  "델테크놀로지스,차세대XPS및'에일리언웨어'게이밍신제품6종공개",
+  "SK텔레콤주가,6월18일장중96,200원2.83%하락",
+  "SKT,학생·개발자들과AI독파모'열공'",
+  "엔비디아,AI코딩에이전트로‘스스로학습하는로봇’개발"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,17 @@
   [
    "2026-06-18T10:08:16.812569+09:00",
    "조사 조건 해킹은 보안 SK쉴더스 경쟁력의 복구보다"
+  ],
+  [
+   "2026-06-18T10:12:17.268689+09:00",
+   "개발자들과 독파모 열공 학생"
+  ],
+  [
+   "2026-06-18T10:12:17.268689+09:00",
+   "스스로 학습하는 코딩 에이전트로 로봇 개발"
   ]
  ],
- "last_run": "2026-06-18T10:10:43.533481+09:00",
+ "last_run": "2026-06-18T10:12:41.684439+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
