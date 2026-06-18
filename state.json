@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260616172636",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676120",
-  "https://www.eroun.net/news/articleView.html?idxno=83381",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268082",
-  "https://www.viva100.com/article/20260618500250",
-  "http://www.srtimes.kr/news/articleView.html?idxno=205554",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461088",
   "https://www.cnbnews.com/news/articleView.html?idxno=1005035",
   "http://www.popcornnews.net/news/articleView.html?idxno=124154",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=823280",
@@ -2999,16 +2992,16 @@
   "https://www.fetv.co.kr/news/articleView.html?idxno=304634",
   "https://daily.hankooki.com/news/articleView.html?idxno=1377864",
   "https://www.jibs.co.kr/news/articles/articlesDetail/62550?feed=na",
-  "https://www.bntnews.co.kr/article/view/bnt202606190011"
+  "https://www.bntnews.co.kr/article/view/bnt202606190011",
+  "https://www.tvreport.co.kr/star/article/1055031/",
+  "https://www.starnewskorea.com/sports/2026/06/19/2026061810030754621",
+  "https://www.sportschosun.com/baseball/2026-06-18/202606180100129800008417",
+  "https://www.mediapen.com/news/view/1105299",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260619070002496",
+  "https://www.yna.co.kr/view/AKR20260619013100009?input=1195m",
+  "https://www.chosun.com/economy/tech_it/2026/06/19/AEJMIWJHFBGI7I47RD4AJEQNOM/"
  ],
  "seen_titles": [
-  "삼성전자,AI입힌‘갤럭시A375G’19일국내출시...출고가59만8400...",
-  "오픈AI,지난해개발·사업에51조원투입…순익19조원그쳐",
-  "델,XPS·에일리언웨어신제품6종공개…1kg초경량부터330Hz게이밍모...",
-  "SKT,독자AI모델연구공개세미나개최…서울대교수진과AI원리공유",
-  "SK텔레콤,독자AI모델세미나개최…산학협력본격화",
-  "LG유플러스,‘유독특급어시스트’진행⋯“유튜브프리미엄+구글A...",
-  "KT,BIPA와'부산클라우드데이'개최…'현장형AX'전략공개",
   "채비·KT,AI기반충전플랫폼협력추진…영상관제·간편결제·AI고객...",
   "KT,'찾아가는고객경청포럼'개최",
   "티빙유출규모1953만명으로불어나…보안투자뒷걸음이키운플랫폼...",
@@ -6001,7 +5994,14 @@
   "재계4위LG그룹,사업구조적한계'피지컬AI'로돌파구",
   "신한카드,개인·법인카드'동시1위'…삼성카드와격차더벌어지나",
   "젠슨황도반한'참기름소금장'…K푸드숨은주역으로세계식탁올랐...",
-  "두산에너빌리티주가전망,체코·엔비디아호재에도약세마감"
+  "두산에너빌리티주가전망,체코·엔비디아호재에도약세마감",
+  "리사가열고BTS가닫는다…북중미월드컵집어삼킨'K-POP★들'[종합]",
+  "\"치어리더율동따라했어요\"美명문여대생,KBO열기에깜짝놀랐다",
+  "\"내가욕을먹더라도…\"LG에서인생이달라졌다!800경기헌신좌를향한...",
+  "[美증시특징주]컨설팅업체액센추어18%폭락...실적·M&A'실망'",
+  "[글로벌증시]뉴욕증시,반도체강세에일제히상승마감",
+  "아마존,AI칩외부판매추진…엔비디아아성도전",
+  "AI시대‘영업맨’이뜬다...오픈AI·앤스로픽,기술영업인력대거채..."
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,13 @@
   [
    "2026-06-19T07:00:40.353463+09:00",
    "주가 두산에너빌리티 전망 약세 호재에도 체코 마감"
+  ],
+  [
+   "2026-06-19T07:02:18.917544+09:00",
+   "뜬다 대거 영업맨 AI시대 영업 인력 기술"
   ]
  ],
- "last_run": "2026-06-19T07:00:59.960561+09:00",
+ "last_run": "2026-06-19T07:02:36.195874+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
