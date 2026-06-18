@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.catchnews.kr/news/articleView.html?idxno=125080",
-  "https://www.kyeonggi.com/article/20260617580178",
-  "https://www.etnews.com/20260617000299",
-  "https://www.ngonews.kr/news/articleView.html?idxno=231292",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3610721",
-  "https://www.thisisgame.com/articles/426405",
-  "https://theviewers.co.kr/View.aspx?No=4115868",
-  "http://coinreaders.com/242611",
-  "https://www.chosun.com/economy/tech_it/2026/06/17/7ROXYEI7JRCFDFB6KJVR54K3SY/",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=81191",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606171415342130713",
   "https://www.bloter.net/news/articleView.html?idxno=665718",
   "https://www.businesspost.co.kr/BP?command=article_view&num=440165",
   "http://www.newsian.co.kr/news/articleView.html?idxno=91063",
@@ -2999,20 +2988,20 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03883526645483032",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4420660",
   "https://biz.heraldcorp.com/article/10774589",
-  "https://www.seoulfn.com/news/articleView.html?idxno=631408"
+  "https://www.seoulfn.com/news/articleView.html?idxno=631408",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3611580",
+  "https://www.koreadaily.com/article/20260617190352506",
+  "https://www.koreadaily.com/article/20260617190222501",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148966736&call_from=naver_news",
+  "https://www.newspim.com/news/view/20260618000451",
+  "https://www.etoday.co.kr/news/view/2594504",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=101891",
+  "https://www.hani.co.kr/arti/economy/marketing/1264120.html",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675868",
+  "https://www.econovill.com/news/articleView.html?idxno=742734",
+  "https://www.econovill.com/news/articleView.html?idxno=742746"
  ],
  "seen_titles": [
-  "\"빅데이터로'상권생존지도'그린다\"KB금융,SKT·서울신보와'맞손'",
-  "한국,오픈AI와AI안전협력강화…미·영·일이어4번째",
-  "AI보안사각지대막는다…공익보안연합'캐노피'출범",
-  "해양경찰청,'2026국제해양·안전대전'개최…20여개전문세미나도열...",
-  "대전국세청,622명추가채용…7월부터17개세무서체납관리단확대",
-  "[NDC26]넥슨IO본부의TTS로미소녀목소리만들기,그결과는?",
-  "신한금융'슈퍼SOL',증권·은행벽허문다",
-  "2026년물량완판한마이크론…실적서프라이즈나오나",
-  "구글클라우드,AI기반‘구글보안운영플랫폼’국내공식출시…“...",
-  "곽튜브,사진도용피해로코인사기범오해-전세계투자자들에게욕",
-  "자담치킨,SKT·KT·LGU+‘V컬러링’과축구응원프로모션진행",
   "정부,오픈AI와손잡고AI안전동맹구축…미·영·일이어4번째",
   "공익AI보안협력체'프로젝트캐노피'출범,LG유플러스·두나무등27개...",
   "이마트에브리데이·홈플러스,대규모할인전…먹거리부터여름용품까...",
@@ -6001,7 +5990,18 @@
   "AI가이상거래잡고데이터는거래한다…부동산산업혁신나선다",
   "투자자들,스페이스X돌풍과비교되는MS주가에인내심'바닥'",
   "쿠팡개인정보유출이통상문제로…‘프레임’을바꿔라[북적book적]",
-  "채비,KT와손잡고AI기반충전생태계혁신주도"
+  "채비,KT와손잡고AI기반충전생태계혁신주도",
+  "대구광역시,세계마스터즈육상맞아'더굿나잇'140개우수숙박업소선...",
+  "AI가주택거래바꾼다",
+  "AI로빨리사서빨리파는오픈도어",
+  "이대통령,AI시대'공유'와'안전'위한국제협력필요성강조",
+  "중개사담합처벌강화·개발사업투명성제고…분양대행업법적근거...",
+  "미국,AI수출통제논란에절충안모색…유럽과‘신뢰파트너’모델...",
+  "딥시크제재보류한美…반도체·AI전선'신중모드'",
+  "SK하이닉스도7세대HBM샘플공급시작…차세대메모리경쟁본격화",
+  "뉴스레터도AI로…소셜플랫폼비하이브,클로드·챗GPT연동기능내놨...",
+  "\"충전도AI시대\"채비·KT,전기차인프라고도화맞손",
+  "\"통신망깔고끝아냐\"KT,산골학교찾아AI수업열었다"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,13 @@
   [
    "2026-06-18T11:02:17.147824+09:00",
    "둘째 사유는 출산 연기 방한"
+  ],
+  [
+   "2026-06-18T11:06:15.682494+09:00",
+   "찾아 산골학교 아냐 수업 열었다 통신망 깔고"
   ]
  ],
- "last_run": "2026-06-18T11:04:37.332359+09:00",
+ "last_run": "2026-06-18T11:06:40.310058+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
