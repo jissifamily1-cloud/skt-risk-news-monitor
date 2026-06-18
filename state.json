@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260617_0003672271",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1059711",
-  "https://news.ifm.kr/news/articleView.html?idxno=473172",
-  "https://www.econotimes.com/G7-Explores-AI-Access-Deal-With-US-Amid-Anthropic-Restrictions-1744493",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606170332&t=NN",
-  "https://biz.heraldcorp.com/article/10773514",
-  "http://journal.kobeta.com/?post_type=post&p=62971",
-  "https://biz.chosun.com/topics/topics_social/2026/06/17/NQ5C7BBZUNEAVMVJX2I5S7FVSM/",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003243925&CMPT_CD=P0010",
   "https://www.xportsnews.com/article/2161256",
   "http://www.kdfnews.com/news/articleView.html?idxno=184325",
@@ -2999,17 +2991,17 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440052",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676084",
   "https://www.viva100.com/article/20260618500164",
-  "https://www.livebiz.today/news/articleView.html?idxno=202708"
+  "https://www.livebiz.today/news/articleView.html?idxno=202708",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=199417",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=252622",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=59746",
+  "https://www.smartbizn.com/news/articleView.html?idxno=146436",
+  "https://www.joongangenews.com/news/articleView.html?idxno=526665",
+  "https://www.sedaily.com/article/20057178",
+  "https://www.etoday.co.kr/news/view/2594807",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676060"
  ],
  "seen_titles": [
-  "'학력제한철폐'SK하이닉스열린채용新인재상은?…최태원강조'AI3대...",
-  "'제4회울산중구전국거리음악대회'6월20~21일개최",
-  "삼성전자,AI기반'커넥티드케어'로글로벌헬스케어시장조준…'비...",
-  "G7ExploresAIAccessDealWithU.S.AmidAnthropicRestrictions",
-  "\"저코인안만듭니다\"…곽튜브,난데없는논란해명",
-  "KB금융,서울신보·SKT와소상공인빅데이터협력",
-  "한국AI안전연구소-오픈AI와업무협약…미·영·일이어4번째",
-  "수백억대코인해킹사태에사진도용된곽튜브해명…“코인안만든...",
   "'삼전닉스'고점은어디일까?중국변수를보자",
   "'0.167'KIA우타거포침묵어쩌나…\"좀더집중해야한다\"꽃감독도아...",
   "관람객에서참여자로…브랜드소통방식바뀐다",
@@ -6001,7 +5993,15 @@
   "SKT,독파모선행연구기반세미나개최···\"전문연구자가담당\"",
   "KT,현장형AX전략공개…'부산클라우드데이'개최",
   "KT,부울경지역기업에‘현장형AX’전략공개",
-  "KTHCN,건물정보통신설비유지보수시장본격공략"
+  "KTHCN,건물정보통신설비유지보수시장본격공략",
+  "[통신·유통레이더]SKT·우아한형제들·풀무원식품,'동반성장'위한...",
+  "삼성전자,'갤럭시A375G'선보인다...\"가성비·AI·대화면갖췄다\"",
+  "[디지털포스트모닝픽]미토스수출통제묻자…앤트로픽\"수일내풀릴...",
+  "코스피,반도체강세에장초반8900선상승출발",
+  "SK하이닉스,HBM4E샘플공급개시…AI메모리초격차굳힌다",
+  "“AI는어떻게생각하는가”SKT,독파모선행연구기반세미나개최",
+  "SKT,'독파모'세미나로대중과소통…서울대교수진이화두던진다",
+  "KT,도서산간지역'고객경청포럼'…초등생AI교육진행"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,13 @@
   [
    "2026-06-18T09:22:17.800779+09:00",
    "메모리 공급 SK하이닉스 시작 HBM4E 엔비디아도 차세대 주목"
+  ],
+  [
+   "2026-06-18T09:26:15.561697+09:00",
+   "독파모 교수진이 서울대 화두 대중과 소통 세미나로 던진다"
   ]
  ],
- "last_run": "2026-06-18T09:24:36.975572+09:00",
+ "last_run": "2026-06-18T09:26:39.479156+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
