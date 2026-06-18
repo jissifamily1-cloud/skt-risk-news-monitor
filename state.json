@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026061711250001486?did=NA",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=460847",
-  "https://news.tf.co.kr/read/economy/2333609.htm",
-  "https://zdnet.co.kr/view/?no=20260617132924",
-  "https://view.asiae.co.kr/article/2026061714005211152",
-  "https://www.yna.co.kr/view/PYH20260617096700013?input=1196m",
   "https://www.mt.co.kr/tech/2026/06/17/2026061709232394275",
   "https://zdnet.co.kr/view/?no=20260617140054",
   "https://zdnet.co.kr/view/?no=20260617135027",
@@ -2999,15 +2993,15 @@
   "https://www.ezyeconomy.com/news/articleView.html?idxno=236505",
   "https://www.pointe.co.kr/news/articleView.html?idxno=80806",
   "https://biz.newdaily.co.kr/site/data/html/2026/06/18/2026061800088.html",
-  "https://www.dailian.co.kr/news/view/1657277/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1657277/?sc=Naver",
+  "https://sports.khan.co.kr/article/202606171401003?pt=nv",
+  "https://www.kgnews.co.kr/news/article.html?no=900234",
+  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1169325",
+  "https://view.asiae.co.kr/article/2026061808250134684",
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=222788",
+  "https://www.mk.co.kr/article/12077185"
  ],
  "seen_titles": [
-  "외국인선수2명늘리면경쟁력오를까...5년전실패한제도'데자뷔'",
-  "독자적AI솔루션상용화…차이커뮤니케이션,수익성날개달고고속...",
-  "두산,코스피불장속홀로급락세…SK실트론인수독됐나",
-  "SKT,경찰청과보이스피싱차단...1638억원피해방지성과",
-  "최태원회장-이석연국민통합위원장면담…\"경제성장이통합의토대\"",
-  "최태원대한상의회장만난이석연국민통합위원장,",
   "KT,에이전트AI청사진발표…'K-오픈클로'하반기내부검증",
   "\"AI발보안위협대응\"…'프로젝트캐노피'공식출범",
   "레드햇\"똑똑한모델만큼중요한건'AI운영플랫폼'\"",
@@ -6001,7 +5995,13 @@
   "SK하이닉스,차세대AI메모리HBM4E샘플공급…기술리더십강화",
   "크래프톤,'배틀그라운드'경쟁전개편…AI동반자'엘라'베타첫선",
   "오픈AI이어앤트로픽까지AI빅테크잇따른상륙…韓시장'AI격전지...",
-  "정보통신설비관리의무확대에ktHCN시장선점나서"
+  "정보통신설비관리의무확대에ktHCN시장선점나서",
+  "‘성수마니아’전현무인증,보쌈+칼국수집어디?(전현무계획3)",
+  "한주희경기신문기자,‘경기언론인상’수상영예",
+  "LG화학,AI생태계구축…신약물질선제적발굴추진",
+  "[글로벌AI격전지대한민국]②잇따라한국행…AI외산의존도82%",
+  "[NDC26]＂잠든IP,AI로깨우다＂넥슨리플레이가레거시를플랫폼으로...",
+  "국경에가로막힌IT자산가격불균형을해킹하다"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-06-18T10:50:33.282600+09:00",
    "확대에 나서 관리 선점 시장 HCN 의무 정보통신설비"
+  ],
+  [
+   "2026-06-18T10:52:17.142025+09:00",
+   "해킹하다 가격 가로막힌 자산 IT 불균형을 국경에"
   ]
  ],
- "last_run": "2026-06-18T10:50:51.787544+09:00",
+ "last_run": "2026-06-18T10:52:35.663321+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
