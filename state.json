@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202606171713O",
-  "http://www.fnnews.com/news/202606171335492919",
-  "https://www.busan.com/view/busan/view.php?code=2026061713395106129",
   "http://www.boannews.com/media/view.asp?idx=144153&kind=2",
   "http://www.4th.kr/news/articleView.html?idxno=2113288",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=803868",
@@ -2999,12 +2996,12 @@
   "https://www.donga.com/news/Economy/article/all/20260618/134135149/1",
   "http://www.itdaily.kr/news/articleView.html?idxno=239919",
   "https://view.asiae.co.kr/article/2026061810304217845",
-  "https://www.wikitree.co.kr/articles/1142004"
+  "https://www.wikitree.co.kr/articles/1142004",
+  "http://www.wsobi.com/news/articleView.html?idxno=313886",
+  "https://www.news1.kr/it-science/security-hacking/6201046",
+  "http://www.fntimes.com/html/view.php?ud=202606181015201547fd637f543_18"
  ],
  "seen_titles": [
-  "액시스로보틱스(AxisRobotics),피지컬AI데이터생성상용화모델공...",
-  "오픈AI,한국AI안전연구소와맞손…美·英·日이어네번째",
-  "펜싱남자사브르간판,구본길국가대표은퇴",
   "공익AI보안이니셔티브‘프로젝트캐노피’공식출범",
   "삼성전자,AI헬스케어의료연계..'커넥티드케어'공개",
   "[이슈]신한금융,계열사경계허물다…만능금융앱'슈퍼SOL'출격",
@@ -6001,7 +5998,10 @@
   "대한항공,AI첨단항공기술제안…스타트업·테크박람회‘넥스트라...",
   "SKT,서울대석학과독자AI파운데이션모델선행연구기반세미나개최",
   "SKT,독파모선행연구기반세미나개최…\"AI관련학생·개발자소통\"",
-  "서학개미11억4280만달러뭉칫돈…엔비디아다음은'이곳'?"
+  "서학개미11억4280만달러뭉칫돈…엔비디아다음은'이곳'?",
+  "IT·통신업계'HBM4E'12단샘플공급·LG올레드할리우드로드쇼개최...",
+  "침해사고2년새2배…SK쉴더스\"복구넘어원인찾아야\"",
+  "‘30년빗장푼’LG유플러스,사외이사의장첫발탁[기업지배구조보..."
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,13 @@
   [
    "2026-06-18T10:32:15.157173+09:00",
    "11억 이곳 뭉칫돈 다음은 서학개미 달러 4280만"
+  ],
+  [
+   "2026-06-18T10:34:22.932837+09:00",
+   "LG유플러스 의장 기업지배구조 발탁 빗장 사외이사 30년"
   ]
  ],
- "last_run": "2026-06-18T10:32:39.438875+09:00",
+ "last_run": "2026-06-18T10:34:50.614113+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6486,6 +6490,7 @@
   "koreaittimes.com": "Korea IT Times",
   "newsfreezone.co.kr": "뉴스프리존",
   "khgames.co.kr": "경향게임스",
-  "spochoo.com": "더게이트(THE GATE)"
+  "spochoo.com": "더게이트(THE GATE)",
+  "fntimes.com": "한국금융신문"
  }
 }
