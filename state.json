@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260618154723",
-  "https://www.aitimes.com/news/articleView.html?idxno=211810",
-  "http://www.popcornnews.net/news/articleView.html?idxno=124187",
-  "https://zdnet.co.kr/view/?no=20260618152855",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676265",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164167",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=845144",
-  "https://www.welfarenews.net/news/articleView.html?idxno=207670",
-  "https://en.yna.co.kr/view/AEN20260618008200320?input=2106m",
   "https://www.sisaweek.com/news/articleView.html?idxno=236204",
   "http://www.metroseoul.co.kr/article/20260618500325",
   "https://www.pointe.co.kr/news/articleView.html?idxno=80817",
@@ -2999,18 +2990,18 @@
   "http://www.smedaily.co.kr/news/articleView.html?idxno=358980",
   "https://www.techm.kr/news/articleView.html?idxno=152749",
   "http://www.boannews.com/media/view.asp?idx=144193&kind=6",
-  "https://www.ajunews.com/view/20260619111326773"
+  "https://www.ajunews.com/view/20260619111326773",
+  "https://www.busan.com/view/busan/view.php?code=2026061907191184563",
+  "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202606191102421371",
+  "https://www.aitimes.com/news/articleView.html?idxno=211897",
+  "https://www.ddaily.co.kr/page/view/2026061911524483238",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676587",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676561",
+  "http://www.breaknews.com/1215459",
+  "https://www.mt.co.kr/tech/2026/06/19/2026061913323515795",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=386599"
  ],
  "seen_titles": [
-  "집행유예'SK3세',5년만에그룹복귀",
-  "\"하이닉스없는자,모두유죄\"…주가급등에또다시쏟아진'밈'",
-  "김제시용지면,취약계층90가구에밑반찬나눔…건강·생활실태점검",
-  "AI팩토리구축쉽게…넷앱-시스코,'플렉스포드'고도화",
-  "'챗GPT'독주흔들…글로벌점유율사상첫50%아래로",
-  "정부·통신3사가약속한'2만원대5G'통합요금제...디테일은통신사별...",
-  "두산로보틱스'데이터'-엔비디아'AI엔진'융합해피지컬AI고도화",
-  "EU,우크라이나사이버방패된다…러해킹대응긴급지원체계편입",
-  "방미통위,제7기방송시장경쟁상황평가위원회위촉…첫회의개최",
   "SK그룹,K-뉴딜아카데미참여…청년AI·반도체인재키운다",
   "SK하이닉스직원,1억기부'아너소사이어티'가입",
   "KOSPI200ClosingPriceList-3",
@@ -6001,7 +5992,16 @@
   "오픈AI,광고형챗GPT국내출시",
   "엔비디아협력사들,국내서뭉친다...LGCNS,두산과AX·RX·DC맞손",
   "[한국정보공학기술사보안을論하다-33]‘인포그래픽’에서‘비주얼...",
-  "글로벌시총톱15중6곳이반도체…삼전닉스는비트코인시총도넘었다"
+  "글로벌시총톱15중6곳이반도체…삼전닉스는비트코인시총도넘었다",
+  "경영·창업·예술·컨설팅…SK오너3세들‘극과극행보’",
+  "챗GPT오늘부터광고표출…\"무료버전에만해당\"",
+  "마스오토,미국서자율주행화물운송왕복7000km돌파...\"역대최고기...",
+  "美AI모델통제우려속…피지컬AI연합2기출범“모델·하드웨어독...",
+  "AI내세울수록역효과…美소비자60%\"브랜드매력떨어져\"",
+  "'수출통제'까지갔던AI충돌…백악관·앤트로픽새심판기준만든다",
+  "KT,장기고객‘문화·여가’혜택대폭확대..뮤지컬‘그날들’1200명...",
+  "방미통위·방미심의위·금감원,불법금융정보근절'맞손'…핀플루언서...",
+  "아임에코,광화문KT스퀘어옥외광고로친환경캠페인전개"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-06-19T13:34:15.653144+09:00",
    "챗GPT 국내 광고형 출시"
+  ],
+  [
+   "2026-06-19T13:38:16.061099+09:00",
+   "광화문 캠페인 전개 친환경 광고로 아임에코 옥외 KT스퀘어"
   ]
  ],
- "last_run": "2026-06-19T13:36:35.728780+09:00",
+ "last_run": "2026-06-19T13:38:37.842177+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6463,6 +6467,7 @@
   "biztribune.co.kr": "비즈트리뷴",
   "headlinejeju.co.kr": "헤드라인제주",
   "celuvmedia.com": "www.celuvmedia.com",
-  "smedaily.co.kr": "중소기업신문"
+  "smedaily.co.kr": "중소기업신문",
+  "fntoday.co.kr": "파이낸스투데이"
  }
 }
