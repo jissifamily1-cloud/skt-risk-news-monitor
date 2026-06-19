@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3611790",
-  "https://www.pressian.com/pages/articles/2026061814385135614",
-  "http://www.fnnews.com/news/202606181419322229",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=410921",
   "http://www.seouleconews.com/news/articleView.html?idxno=91893",
   "https://www.newsis.com/view/NISX20260618_0003674488",
   "https://platum.kr/archives/289268",
@@ -2999,13 +2995,13 @@
   "http://www.ddanzi.com/886035501",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=358971",
   "https://news.jtbc.co.kr/article/NB12304017?influxDiv=NAVER",
-  "https://www.newspim.com/news/view/20260619000469"
+  "https://www.newspim.com/news/view/20260619000469",
+  "http://www.ifs.or.kr/bbs/board.php?bo_table=research&wr_id=11327",
+  "https://view.asiae.co.kr/article/2026061911135618168",
+  "https://zdnet.co.kr/view/?no=20260619111308",
+  "http://www.celuvmedia.com/article.php?aid=1781830687522518006"
  ],
  "seen_titles": [
-  "SK,정부주관‘K-뉴딜아카데미’참여…청년AX역량키운다",
-  "SK그룹,'K-뉴딜아카데미'참여…반도체·AIAX인재양성본격화",
-  "SK그룹,정부주관‘K-뉴딜아카데미’참여…청년AX역량강화지원",
-  "부여군찾은우즈베키스탄농업부...이용우군수당선인면담",
   "'3선성공'명현관해남군수,민선9기미래먹거리선점위해광폭행보",
   "대한항공\"AI윙맨곧온다\"…자율무인기시대청사진제시",
   "KISTI,글로벌과학기술혁신주도",
@@ -6001,7 +5997,11 @@
   "[뉴공아카이브]김정태동양대게임학과교수,김상현경향게임스편집...",
   "LG-두산,AI·로봇힘합친다",
   "\"하닉없는자,모두유죄\"…9000피이끈SK하이닉스폭등에''최태원밈...",
-  "\"AI해킹시대\"...日정부,'사이버방어'전면재정비나섰다"
+  "\"AI해킹시대\"...日정부,'사이버방어'전면재정비나섰다",
+  "AI인프라경쟁에서소프트웨어의구조적역할",
+  "\"AI가잘하는것,예술이지켜야할것\"…예술산업AI특강",
+  "AI는승자독식시장…조준희회장\"정부·기업·산업계힘모아야\"",
+  "‘1953만명털렸다’티빙해킹후폭풍…집단소송10만명돌파[셀럽이..."
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,13 @@
   [
    "2026-06-19T11:16:15.370510+09:00",
    "나섰다 시대 정부 방어 재정비 사이버 전면"
+  ],
+  [
+   "2026-06-19T11:18:15.096296+09:00",
+   "돌파 소송 티빙 셀럽이 집단 털렸다 10만명 1953만명 후폭풍"
   ]
  ],
- "last_run": "2026-06-19T11:16:39.807407+09:00",
+ "last_run": "2026-06-19T11:18:41.054776+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6525,6 +6529,7 @@
   "bntnews.co.kr": "bntnews",
   "investchosun.com": "investchosun.com",
   "biztribune.co.kr": "비즈트리뷴",
-  "headlinejeju.co.kr": "헤드라인제주"
+  "headlinejeju.co.kr": "헤드라인제주",
+  "celuvmedia.com": "www.celuvmedia.com"
  }
 }
