@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=432017",
-  "https://www.newspim.com/news/view/20260618000916",
-  "https://www.mydaily.co.kr/page/view/2026061816011756615",
-  "http://www.osen.co.kr/article/G1112823809",
   "https://www.newspim.com/news/view/20260618000910",
   "https://view.asiae.co.kr/article/2026061814570625665",
   "http://www.economytalk.kr/news/articleView.html?idxno=422029",
@@ -2999,13 +2995,13 @@
   "https://www.aitimes.com/news/articleView.html?idxno=211900",
   "https://www.donga.com/news/Economy/article/all/20260619/134142911/2",
   "https://www.sisajournal.com/news/articleView.html?idxno=376952",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990158.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990158.html",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403261",
+  "https://kidd.co.kr/news/246401",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990159.html",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52898"
  ],
  "seen_titles": [
-  "대기업노조'성과급투쟁'커질수록LGCNS뜨는이유는?",
-  "[위클리오늘]이동통신소식_SK텔레콤,KT(6.18)",
-  "KT,AX전략부울경지역기업과공유…\"AX거점도시로\"",
-  "SK그룹,K-뉴딜아카데미통해AI·반도체인재양성나선내용은?",
   "이원택\"전북피지컬AI·로봇도시조성\"…미래산업거점육성선언",
   "카스트로가돌아왔다,안터지는KIA타선최후의보루…5번지명타자로...",
   "78억1루수컴백!양석환47일만에선발,박찬호-조수행테이블세터…...",
@@ -6001,21 +5997,13 @@
   "트럼프\"애플-인텔,미국서칩생산합의\"…인텔,이석희전하이닉스대...",
   "‘AI대부’얀르쿤“일론머스크xAI는실패작”",
   "\"전면재개표로선관위에대한국민의심부터걷어내야\"",
-  "방미통위-방미심위-금감원,'불법금융정보근절'맞손"
+  "방미통위-방미심위-금감원,'불법금융정보근절'맞손",
+  "넥스트라이즈2026,휴머노이드부터순찰로봇까지…국내스타트업개발...",
+  "“피지컬AI가이끌‘챗GPT모먼트’”…한국스타트업에열린기회의...",
+  "[티조Q&A]250억재산?집4채다주택?또네이버?…한성숙청문회쟁점...",
+  "머스크·올트먼조준한샌더스\"AI기업절반은국민의것\""
  ],
  "recent_sigs": [
-  [
-   "2026-06-19T08:02:16.287126+09:00",
-   "충격파 바뀐다 스페이스X 경쟁의 판이 던진 상장이 국내 6G"
-  ],
-  [
-   "2026-06-19T08:02:16.287126+09:00",
-   "난리 SK하이닉스 이래도 독해 질주에 독하다"
-  ],
-  [
-   "2026-06-19T08:02:16.287126+09:00",
-   "2조 SK 지난해 창출 사회적가치"
-  ],
   [
    "2026-06-19T08:10:25.398091+09:00",
    "결합 부담 소상공인 경영 토스플레이스 모델 덜어줄"
@@ -6303,9 +6291,13 @@
   [
    "2026-06-19T13:58:16.279546+09:00",
    "이슈위 티빙 해킹까지 회생절차부터 연예 JTBC 미디어계 뒤흔든"
+  ],
+  [
+   "2026-06-19T14:02:17.360892+09:00",
+   "머스크 기업 절반은 국민의 조준한 샌더스"
   ]
  ],
- "last_run": "2026-06-19T14:00:59.223669+09:00",
+ "last_run": "2026-06-19T14:02:44.115695+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6464,6 +6456,7 @@
   "headlinejeju.co.kr": "헤드라인제주",
   "celuvmedia.com": "www.celuvmedia.com",
   "smedaily.co.kr": "중소기업신문",
-  "fntoday.co.kr": "파이낸스투데이"
+  "fntoday.co.kr": "파이낸스투데이",
+  "fortunekorea.co.kr": "포춘코리아"
  }
 }
