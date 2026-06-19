@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportschosun.com/baseball/2026-06-18/202606180100129810008418",
-  "https://www.betanews.net/article/view/beta202606180131",
   "https://www.hankyung.com/article/2026061853291",
   "https://www.ajunews.com/view/20260618194207045",
   "https://www.newsis.com/view/NISX20260618_0003675015",
@@ -2999,11 +2997,11 @@
   "https://www.jibs.co.kr/news/replay/viewNewsReplayDetail/2026061919243361974?feed=na",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=310578",
   "https://www.tokenpost.kr/news/breaking/371107",
-  "https://basketkorea.com/news/newsview.php?ncode=1065614911628258"
+  "https://basketkorea.com/news/newsview.php?ncode=1065614911628258",
+  "http://www.stoo.com/article.php?aid=107254458536",
+  "https://www.lecturernews.com/news/articleView.html?idxno=201719"
  ],
  "seen_titles": [
-  "방탄소년단이펙트에물든부산",
-  "수세,국내소버린AI강화앞장···오픈소스인프라로벤더종속성...",
   "[포토]김원형감독-양석환,동점득점",
   "넥써쓰,원스토어인수",
   "트럼프,인텔'애플칩생산'공식화…시간외급등",
@@ -6001,7 +5999,9 @@
   "'유심빼라'그수상한요구",
   "가질수록더원하는권력의심리학[이지은의신간]",
   "앤스로픽마이토스,미국정부금지에도일부기업접근유지",
-  "배스데리고온문경은KT감독,‘2옵션외국선수’의기준은?"
+  "배스데리고온문경은KT감독,‘2옵션외국선수’의기준은?",
+  "[ST포토]김도영,2타점2루타",
+  "유플러스드라마'밤이되었습니다'\"이재은·김우석·최예빈·차우민·..."
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,13 @@
   [
    "2026-06-19T21:12:18.683851+09:00",
    "2옵션 기준은 배스 문경은 선수 감독 외국 데리고"
+  ],
+  [
+   "2026-06-19T21:14:16.860989+09:00",
+   "차우민 이재은 김우석 최예빈 되었습니다 드라마 밤이"
   ]
  ],
- "last_run": "2026-06-19T21:12:37.992860+09:00",
+ "last_run": "2026-06-19T21:14:39.346735+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6320,6 +6324,7 @@
   "kpinews.kr": "kpinews.kr",
   "thebk.co.kr": "뷰티경제",
   "jejumbc.com": "제주MBC",
-  "basketkorea.com": "바스켓코리아"
+  "basketkorea.com": "바스켓코리아",
+  "lecturernews.com": "한국강사신문"
  }
 }
