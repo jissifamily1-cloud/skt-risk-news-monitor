@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=124181",
-  "https://www.etnews.com/20260618000365",
-  "https://www.bloter.net/news/articleView.html?idxno=665807",
   "https://www.datanet.co.kr/news/articleView.html?idxno=212449",
   "https://www.techm.kr/news/articleView.html?idxno=152734",
   "https://www.ddaily.co.kr/page/view/2026061814523669741",
@@ -2999,12 +2996,12 @@
   "https://zdnet.co.kr/view/?no=20260619113728",
   "https://www.viva100.com/article/20260619500237",
   "https://www.newspim.com/news/view/20260617000953",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260619114104QMv"
+  "http://www.yonhapnewstv.co.kr/news/AKR20260619114104QMv",
+  "https://www.sedaily.com/article/20057757",
+  "http://www.boannews.com/media/view.asp?idx=144195&kind=3",
+  "https://view.asiae.co.kr/article/2026061910005354843"
  ],
  "seen_titles": [
-  "샘올트먼오픈AICEO,둘째딸출산으로방한연기",
-  "SK,정부주관'K-뉴딜아카데미'참여…청년인재육성",
-  "KB국민은행,코파일럿으로업무자동화속도…MS와AI활용행사",
   "\"캐즘돌파구찾는다\"…전기차충전업계,'AI·공공인프라'손잡고전...",
   "'넥스트라이즈2026'개막…글로벌AI총집결",
   "성공담걷어낸넥슨·크래프톤…AX핵심은'시행착오'[NDC26]",
@@ -6001,7 +5998,10 @@
   "여야과방위의원'피지컬AI2기얼라이언스'초당적지원약속",
   "ACE글로벌반도체TOP4PlusETF,상장후첫10만원돌파…누적수익률9...",
   "[AI판결돋보기]'김용재판위증교사'李캠프인사무죄...법원\"10분늦...",
-  "\"유심빼달라?피싱같은데\"…70대부부6천만원지킨통신사점장"
+  "\"유심빼달라?피싱같은데\"…70대부부6천만원지킨통신사점장",
+  "한남대,268억원규모‘국방AX거점’사업선정",
+  "AI시대보안패치지연리스크커진다...턱스케어,무중단패치대안...",
+  "[초동시각]젠슨황방한에K-NPU스타트업빠진이유"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-06-19T11:34:17.086731+09:00",
    "인재 올랐다 대거 성장동력 뒤처지나 시험대 이탈"
+  ],
+  [
+   "2026-06-19T11:44:15.646469+09:00",
+   "젠슨 NPU 빠진 스타트업 이유 방한에"
   ]
  ],
- "last_run": "2026-06-19T11:42:38.695633+09:00",
+ "last_run": "2026-06-19T11:44:38.242451+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
