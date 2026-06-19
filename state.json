@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=205585",
-  "http://www.itdaily.kr/news/articleView.html?idxno=239938",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=440322",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3612042",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3612026",
-  "https://biz.chosun.com/it-science/ict/2026/06/18/RXGYLRFPINBSDH2YQPCAJC22P4/",
   "https://www.cnbizm.com/news/articleView.html?idxno=305961",
   "https://byline.network/?p=9004111222608138",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=421833",
@@ -2999,15 +2993,15 @@
   "https://www.mstoday.co.kr/news/articleView.html?idxno=101907",
   "https://www.aitimes.com/news/articleView.html?idxno=211910",
   "http://coinreaders.com/243301",
-  "https://www.venturesquare.net/1091896/"
+  "https://www.venturesquare.net/1091896/",
+  "http://www.maniareport.com/view.php?ud=2026061915134152686cf2d78c68_19",
+  "https://www.chosun.com/economy/tech_it/2026/06/19/THZG4D5WXFDY5JVNBJZKXEDVJI/",
+  "https://zdnet.co.kr/view/?no=20260619155652",
+  "https://zdnet.co.kr/view/?no=20260619150600",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3026500",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8590475"
  ],
  "seen_titles": [
-  "'넥스트라이즈2026'개막···미래산업'총망라'",
-  "[현장]BMW'더뉴iX3'국내상륙···1회충전613km주행",
-  "이원택\"전북에피지컬AI·로봇도시조성\"…새만금중심미래산업구상...",
-  "'미토스'수출통제여파…두나무등27개기업·기관보안협력나섰다",
-  "\"지상망끊기면우주로\"스타링크,국내외재난통신인프라로부상",
-  "삼성전자AI탑재'갤럭시A375G'국내출시,출고가59만8400원",
   "울산항만공사등11개공공기관,중대재해예방위해안전협의체확대",
   "국립창원대학내갈등...총장불신임투포에박민원총장\"대화·숙의나...",
   "아마존“AI최상위권1년내진입”…모델·칩동시육성",
@@ -6001,7 +5995,13 @@
   "M7지고'망고스(MANGOS)'뜬다…美기술주주도권이동하나",
   "국내챗GPT무료·Go요금제에'광고'도입",
   "아시아증시,호르무즈회담연기쇼크에'흔들'...美기술주랠리약발...",
-  "[VS현장]오픈AI·앤트로픽·팔란티어한자리에…넥스트라이즈2026개막"
+  "[VS현장]오픈AI·앤트로픽·팔란티어한자리에…넥스트라이즈2026개막",
+  "'돌아오는부상병들'KIA카스트로복귀신고...전상현·박상준까지전...",
+  "인텔,이석희前SK하이닉스대표영입...파운드리부활속도낸다",
+  "AI시대,글쓰기보다중요한'자제의기술'",
+  "젠슨황삼소회동그식당,네이버'페이스사인'지금도쓸까",
+  "KT강서지사-㈜케이씨에프앤비,매장디지털전환(DX)위한업무협약체...",
+  "“유심빼달라”통신사대리점찾아온70대…알고보니보이스피싱"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,21 @@
   [
    "2026-06-19T15:48:16.775960+09:00",
    "거절할 찍고 황의 K먹방 젠슨 없는 제안"
+  ],
+  [
+   "2026-06-19T16:06:18.235975+09:00",
+   "케이씨에프앤비 디지털전환 강서지사 위한 매장 업무협약 DX"
+  ],
+  [
+   "2026-06-19T16:06:18.235975+09:00",
+   "유심 빼달라 대리점 알고보니 보이스피싱 70대 찾아온"
+  ],
+  [
+   "2026-06-19T16:06:18.235975+09:00",
+   "페이스사인 네이버 식당 지금도 젠슨 삼소회동 쓸까"
   ]
  ],
- "last_run": "2026-06-19T16:04:34.587539+09:00",
+ "last_run": "2026-06-19T16:06:44.088197+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6391,6 +6403,7 @@
   "fntoday.co.kr": "파이낸스투데이",
   "fortunekorea.co.kr": "포춘코리아",
   "koreajoongangdaily.com": "koreajoongangdaily",
-  "womentimes.co.kr": "우먼타임스"
+  "womentimes.co.kr": "우먼타임스",
+  "kihoilbo.co.kr": "기호일보"
  }
 }
