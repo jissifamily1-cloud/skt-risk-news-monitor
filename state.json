@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://platum.kr/archives/289206",
-  "https://biz.chosun.com/it-science/ict/2026/06/18/MR6K3R2VYRFRPHJVG33NA5SRMM/",
-  "https://www.nocutnews.co.kr/news/6534872",
-  "https://zdnet.co.kr/view/?no=20260618111149",
-  "https://www.mt.co.kr/tech/2026/06/18/2026061717245936553",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=101894",
-  "https://www.ddaily.co.kr/page/view/2026061719403567851",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1712938",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676036",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8589551",
   "https://www.news1.kr/it-science/general-it/6200988",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03273446645483360",
   "http://www.paxetv.com/news/articleView.html?idxno=275093",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154564",
-  "https://www.businessplus.kr/news/articleView.html?idxno=113074"
+  "https://www.businessplus.kr/news/articleView.html?idxno=113074",
+  "http://www.inews24.com/view/1977918",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3612443",
+  "https://www.handmk.com/news/articleView.html?idxno=40447",
+  "https://www.smartbizn.com/news/articleView.html?idxno=146546",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4420851",
+  "https://www.ajunews.com/view/20260618110123079",
+  "https://www.yna.co.kr/view/AKR20260619039400056?input=1195m",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676480"
  ],
  "seen_titles": [
-  "과기부-앤스로픽,AI안전·사이버보안MOU…美수출통제에실효성우려",
-  "“남의집AI로는안된다”…‘생존’이걸린소버린AI",
-  "앤트로픽“중단된미토스모델,수일내재개될것”…정부,‘AI안전...",
-  "복잡한삶의1순위는'일'…한국인이가장덜어내고싶은것",
-  "과기부,앤트로픽과맞손…AI안전성연구·사이버보안공조",
-  "과기부,앤트로픽과손잡았다…AI안전·사이버보안동맹구축",
-  "정부,앤트로픽과'AI안전'협력체결…글로벌AI동맹확대",
-  "과기정통부-앤트로픽,글로벌AI보안동맹나선다",
   "앤트로픽,한국시장본격상륙…'미국AI수출통제'는새변수로",
   "韓정부-앤트로픽,AI안전·보안협력맞손…글로벌AI동맹확대",
   "[Gov&Now]韓AI안전망에앤트로픽합류…정부,글로벌빅테크협력완...",
@@ -6001,7 +5993,15 @@
   "'데이터센터보안'지슨,흑자전환기대에'상한가'[특징주]",
   "SK브로드밴드,소상공인부담낮추기나서...\"통신비에결제기까지묶었...",
   "KT,장기고객1200명뮤지컬'그날들'초청",
-  "KT,장기이용자대상문화·여가혜택확대…뮤지컬'그날들'초청"
+  "KT,장기이용자대상문화·여가혜택확대…뮤지컬'그날들'초청",
+  "원스토어품은넥써쓰…'승부사'장현국대표가그리는그림은?[IT돋보...",
+  "지역보건의료계획성과대회서'최우수'…용인시2년연속장관상수상",
+  "SK,지난해사회적가치32조창출...8년간누적155조원",
+  "코스피,장중9300선돌파···반도체강세에또사상최고치",
+  "[오늘의채권ㆍ외환메모](06월19일)",
+  "개보위·기업,개인정보유출규모공방…이용자는'셀프보안강화'",
+  "\"유심빼라\"피싱범지시눈치챈통신사점장6천만원피해막아",
+  "엔비디아없이화웨이칩만으로훈련…中Z.ai,클로드급AI'GLM-5.2'공개"
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,17 @@
   [
    "2026-06-19T09:20:27.340709+09:00",
    "회생신청 JTBC 월드컵 없게할 차질 점검반 가동 중계"
+  ],
+  [
+   "2026-06-19T09:26:15.708190+09:00",
+   "6천만원 피해 빼라 막아 점장 지시 눈치챈 피싱범 유심"
+  ],
+  [
+   "2026-06-19T09:26:15.708190+09:00",
+   "공개 클로드급 칩만으로 ai GLM 없이 화웨이 훈련"
   ]
  ],
- "last_run": "2026-06-19T09:24:34.780701+09:00",
+ "last_run": "2026-06-19T09:26:42.637136+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
