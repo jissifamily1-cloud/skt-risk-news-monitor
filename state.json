@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000317198?division=NAVER",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82295",
-  "https://news.appstory.co.kr/daily19241",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04077046645483032",
-  "http://www.fnnews.com/news/202606181020331317",
-  "https://www.hankookilbo.com/news/article/A2026061810060003556?did=NA",
-  "https://view.asiae.co.kr/article/2026061808541081098",
   "https://www.bntnews.co.kr/article/view/bnt202606180147",
   "http://www.thebigdata.co.kr/view.php?ud=202606181113313615570d99e4c8_23",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4089905",
@@ -2999,16 +2992,16 @@
   "https://www.seoul.co.kr/news/economy/2026/06/19/20260619500029?wlog_tag3=naver",
   "http://www.ikld.kr/news/articleView.html?idxno=336234",
   "https://www.news1.kr/finance/market-exr/6202195",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=250524"
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=250524",
+  "https://www.sjsori.com/news/articleView.html?idxno=86812",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3612496",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3612463",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3612483",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3612465",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713150",
+  "https://www.biospectator.com/view/news_view.php?varAtcId=29064"
  ],
  "seen_titles": [
-  "미토스통제논란속한국·앤트로픽협력본격화",
-  "앤트로픽과글로벌AI안전‧보안동맹…韓,글로벌AI핵심파트너국...",
-  "[질문에답하다]‘글래스윙’만다시들어가면끝?…여전히남은‘의...",
-  "과기부,앤트로픽과AI안전·보안협력",
-  "주요제약·바이오기업들,'바이오USA2026'서글로벌파트너십·차세...",
-  "SK하이닉스,HBM4E12단샘플공급…AI메모리경쟁본격화",
-  "정부-앤스로픽MOU…\"빅테크협업강화로AI동맹완비\"",
   "오픈AI이어앤스로픽까지…정부,AI협력망확대",
   "한국정부와AI안전성MOU맺은앤스로픽...'글래스윙'엔답변피해",
   "과기정통부-앤스로픽,안전한AI위해맞손…\"안전성·사이버보안분야...",
@@ -6001,7 +5994,14 @@
   "AI시대보안패치지연리스크부각…턱스케어(TuxCare),재부팅없는...",
   "IPARK현대산업개발,프리미엄민간임대'파크로쉬서울원'오픈",
   "코스피9300돌파·삼전닉스'신고가'…코스닥은1000선붕괴[개장시황]",
-  "한컴위드,'한컴오스'금융결제원얼굴인식분산관리성능평가통과"
+  "한컴위드,'한컴오스'금융결제원얼굴인식분산관리성능평가통과",
+  "\"마약전력도오너가면복귀가능?\"…최영근SK지주사팀장복귀에형...",
+  "'청소년유해환경점검'용인기흥구,기흥역일대민관합동캠페인",
+  "'용인사용설명서'통합안내서공개…생애주기별정책한눈에",
+  "용인시,4-H연합회신입회원입단식개최…청년농업인등130여명참석",
+  "서울시,'글로벌혁신도시'로창업생태계1,000억달러성장",
+  "[Tech&Now]삼현,글로벌휴머노이드핵심부품연속수주등",
+  "[창간설문]韓바이오10社중9社,“AI도입의향있다\""
  ],
  "recent_sigs": [
   [
@@ -6277,7 +6277,7 @@
    "공개 클로드급 칩만으로 ai GLM 없이 화웨이 훈련"
   ]
  ],
- "last_run": "2026-06-19T09:28:37.491504+09:00",
+ "last_run": "2026-06-19T09:30:55.086407+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
