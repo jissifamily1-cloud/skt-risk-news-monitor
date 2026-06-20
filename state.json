@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260618110123079",
   "https://www.yna.co.kr/view/AKR20260619039400056?input=1195m",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676480",
   "https://www.etoday.co.kr/news/view/2595244",
@@ -2999,10 +2998,10 @@
   "https://www.starnewskorea.com/sports/2026/06/21/2026062014212765572",
   "https://biz.heraldcorp.com/article/10782046",
   "https://view.asiae.co.kr/article/2026061818280205520",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=188833"
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=188833",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092164218"
  ],
  "seen_titles": [
-  "개보위·기업,개인정보유출규모공방…이용자는'셀프보안강화'",
   "\"유심빼라\"피싱범지시눈치챈통신사점장6천만원피해막아",
   "엔비디아없이화웨이칩만으로훈련…中Z.ai,클로드급AI'GLM-5.2'공개",
   "동명대배석태교수,AI·로봇산업협회신임상근부회장취임…산학협력...",
@@ -6001,7 +6000,8 @@
   "LG는어떻게1위가됐나,염갈량이\"절대적\"이라며직접밝힌'그이유'",
   "AI열풍속동박적층판수출36%↑…1년만에최대치경신전망",
   "[사이언스스코프]우리가몰랐던AI…전기도먹고,물도마신다",
-  "[인공지능줌인]\"AI의도덕적기준은기업이정해선안된다\"...교황과..."
+  "[인공지능줌인]\"AI의도덕적기준은기업이정해선안된다\"...교황과...",
+  "AIGPU경쟁의새변수는'메모리'…엔비디아독주흔들인텔아크프로..."
  ],
  "recent_sigs": [
   [
@@ -6087,9 +6087,13 @@
   [
    "2026-06-21T06:34:17.203112+09:00",
    "정해선 기업이 교황과 도덕적 기준은 된다 AI의"
+  ],
+  [
+   "2026-06-21T06:44:14.995921+09:00",
+   "메모리 경쟁의 인텔 프로 GPU 흔들 아크 독주 변수는"
   ]
  ],
- "last_run": "2026-06-21T06:42:37.053061+09:00",
+ "last_run": "2026-06-21T06:44:40.413882+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
