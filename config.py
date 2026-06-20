@@ -108,6 +108,14 @@ EXCLUDED_WORDS = [
 # 한글이 바로 붙는 "KT가"·"SKT는"은 정상 매칭됨 (\b 방식의 버그 수정)
 WORD_BOUNDARY_KEYWORDS = {"SKT", "KT"}
 
+# 본문(네이버 설명 스니펫) 매칭 — 제목에 키워드가 없어도 본문에 있으면 발송.
+# 단, TITLE_ONLY_KEYWORDS의 광범위 키워드는 제목에서만 매칭(본문 매칭 시 발송 폭주 방지).
+BODY_MATCH = True
+TITLE_ONLY_KEYWORDS = {
+    "SKT", "KT", "통신사", "이통사", "유플러스",
+    "엔비디아", "해킹", "오픈AI", "OpenAI",
+}
+
 # 발행 후 이 시간(분) 이내 기사만 대상 (오래된 기사 재발송 방지 2중 장치)
 RECENCY_MINUTES = 120
 
