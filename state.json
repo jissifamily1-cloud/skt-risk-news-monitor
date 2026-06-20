@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202606190723156467fbbec65dfb_1",
-  "http://www.hemophilia.co.kr/news/articleView.html?idxno=42694",
   "https://www.tgdaily.co.kr/news/articleView.html?idxno=405050",
   "https://www.dizzotv.com/site/data/html_dir/2026/06/19/2026061980018.html",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=268166",
@@ -2999,11 +2997,11 @@
   "https://h21.hani.co.kr/arti/culture/culture_general/59494.html",
   "https://www.viva100.com/article/20260617500651",
   "https://www.newsis.com/view/NISX20260621_0003676969",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=439956"
+  "http://www.econonews.co.kr/news/articleView.html?idxno=439956",
+  "https://www.namdonews.com/news/articleView.html?idxno=914197",
+  "https://www.namdonews.com/news/articleView.html?idxno=914198"
  ],
  "seen_titles": [
-  "인니·말레이,한국'천궁-II'동시조준…동남아방공플랫폼선점시동",
-  "서울창업생태계,생태계가치1,000억달러확대하며글로벌톱10혁신...",
   "\"성수는'배그'IP의확장한계의실험실\"",
   "IPARK현대산업개발,프리미엄임대주택파크로쉬서울원공개",
   "SK그룹,'사회적가치'32조2000억원창출…2018년대비2배증가",
@@ -6001,7 +5999,9 @@
   "특수부대출신여전사도결국남성품으로?",
   "검색엔진대신‘AI어시스턴트’⋯“이젠AI가사번받고일합니다”",
   "SKT,보안·네트워크AX인재양성나서…전액국비지원",
-  "SKT,AI보안·네트워크인재양성나선다...교육생모집"
+  "SKT,AI보안·네트워크인재양성나선다...교육생모집",
+  "\"폰바꿀적기?\"이통시장들썩…내달5일까지",
+  "티빙,해킹사태에1천953만명유출"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,13 @@
   [
    "2026-06-21T08:38:15.515527+09:00",
    "양성 보안 인재 나선다 교육생 네트워크 모집"
+  ],
+  [
+   "2026-06-21T08:40:26.732934+09:00",
+   "1천953만 해킹사태에 유출 티빙"
   ]
  ],
- "last_run": "2026-06-21T08:38:34.600982+09:00",
+ "last_run": "2026-06-21T08:40:52.772974+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6335,6 +6339,7 @@
   "dentalnews.or.kr": "치과신문",
   "kor.theasian.asia": "아시아엔 THE AsiaN",
   "dongponews.net": "재외동포신문",
-  "rcast.co.kr": "리얼캐스트"
+  "rcast.co.kr": "리얼캐스트",
+  "namdonews.com": "남도일보"
  }
 }
