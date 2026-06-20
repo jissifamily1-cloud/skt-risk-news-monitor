@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260617001111",
   "https://www.newspim.com/news/view/20260617001101",
   "https://www.tokenpost.kr/news/breaking/370294",
   "http://www.fnnews.com/news/202606171833270723",
@@ -2999,10 +2998,10 @@
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52905",
   "https://www.techm.kr/news/articleView.html?idxno=152774",
   "https://www.aitimes.com/news/articleView.html?idxno=211934",
-  "http://www.newstomato.com/ReadNews.aspx?no=1304602&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1304602&inflow=N",
+  "https://www.tokenpost.kr/news/breaking/371250"
  ],
  "seen_titles": [
-  "[미국특징주]애플투자자들,AI약속에피로감…가시적성과촉구",
   "오른,앤스로픽·오픈AI토큰비용지수출시",
   "[GAM]세일즈포스①핀인수로AI에이전트경쟁력강화",
   "[유럽특징주]佛정보기관,10년간의존했던팔란티어분석플랫폼서...",
@@ -6001,7 +6000,8 @@
   "아시아중립AI허브꿈꾸는싱가포르",
   "[글로벌]트럼프\"애플도인텔과손잡았다\"...미국반도체동맹확대",
   "미드저니,AI이미지생성넘어의료기기도전…'수중전신스캐너'공개",
-  "‘중공업’지운두산의화려한변신…AI·원전으로‘훨훨’"
+  "‘중공업’지운두산의화려한변신…AI·원전으로‘훨훨’",
+  "트럼프대통령\"앤스로픽,국가안보위협으로보지않아\""
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-06-20T12:30:33.644566+09:00",
    "트레이니엄 AWS 밖에서도 독주에 아마존 판다"
+  ],
+  [
+   "2026-06-20T12:48:16.240679+09:00",
+   "국가안보 트럼프 보지 위협으로 대통령 않아"
   ]
  ],
- "last_run": "2026-06-20T12:46:37.216467+09:00",
+ "last_run": "2026-06-20T12:48:40.667799+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
