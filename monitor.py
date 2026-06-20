@@ -34,6 +34,8 @@ from config import (
     BLOCK_URL_KEYWORDS,
     EXCLUDED_WORDS,
     WORD_BOUNDARY_KEYWORDS,
+    BODY_MATCH,
+    TITLE_ONLY_KEYWORDS,
     RECENCY_MINUTES,
     MAX_SEND_PER_RUN,
     SEND_INTERVAL_SEC,
@@ -79,15 +81,23 @@ def _contains_keyword(text, keyword):
     return keyword in text
 
 
-def match_keyword(title):
-    """제목에 KEYWORDS 중 하나라도 있으면 해당 키워드 반환.
+def match_keyword(title, desc=""):
+    """제목에 KEYWORDS가 있으면 반환. 없고 BODY_MATCH면 본문(desc)도 검사.
 
-    BLOCK_KEYWORDS(야구 등 제외 토픽)가 제목에 있으면 무조건 제외.
+    제목 매칭은 모든 키워드 대상. 본문 매칭은 TITLE_ONLY_KEYWORDS(광범위어) 제외해
+    발송 폭주를 막는다. BLOCK_KEYWORDS(야구 등)는 제목·본문 어느 쪽에 있어도 제외.
     """
     text = _clean_text(title)
     if any(b in text for b in BLOCK_KEYWORDS):
         return None
-    return next((k for k in KEYWORDS if _contains_keyword(text, k)), None)
+    hit = next((k for k in KEYWORDS if _contains_keyword(text, k)), None)
+    if hit or not BODY_MATCH or not desc:
+        return hit
+    body = _clean_text(desc)
+    if any(b in body for b in BLOCK_KEYWORDS):
+        return None
+    return next((k for k in KEYWORDS
+                 if k not in TITLE_ONLY_KEYWORDS and _contains_keyword(body, k)), None)
 
 
 # ---------- 유사 제목(near-duplicate) 판정 ----------
@@ -414,10 +424,11 @@ def main():
         tkey = re.sub(r"\s+", "", title)[:60]
         if (key and key in seen) or tkey in seen_titles:
             continue
-        if (pub and pub < cutoff) or blocked_url(url) or not match_keyword(title):
+        kwhit = match_keyword(title, desc)
+        if (pub and pub < cutoff) or blocked_url(url) or not kwhit:
             _mark_seen(key, tkey)   # 발송 대상 아님 → 즉시 seen 처리
             continue
-        candidates.append((title, url, pub, source, match_keyword(title), desc, key, tkey))
+        candidates.append((title, url, pub, source, kwhit, desc, key, tkey))
 
     # 2) 유사 기사(같은 보도자료) 묶음 차단
     accepted = []
