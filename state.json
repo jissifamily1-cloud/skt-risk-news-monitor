@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12078322",
-  "https://www.ngonews.kr/news/articleView.html?idxno=231404",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990120.html",
   "https://www.etoday.co.kr/news/view/2595315",
   "https://www.topstarnews.net/news/articleView.html?idxno=16101634",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260621504793?OutUrl=naver",
   "https://www.ajunews.com/view/20260621094110816",
   "https://www.asiatime.co.kr/article/20260621500044",
-  "https://www.ajunews.com/view/20260621122653011"
+  "https://www.ajunews.com/view/20260621122653011",
+  "https://www.dailian.co.kr/news/view/1658102/?sc=Naver",
+  "http://www.samdailbo.com/news/articleView.html?idxno=266302"
  ],
  "seen_titles": [
-  "[ST포토]김진아치어리더,광화문응원요정",
-  "[인터뷰]엄윤설에이로봇대표\"'모두를위한로봇'꿈,현실로\"",
   "‘얼굴인증’신뢰성확보한한컴위드…금융넘어공공시장노린다",
   "\"KT장기고객,인기뮤지컬'그날들'관람한다\"",
   "\"유심빼라\"는말에수상함감지…통신사점장기지로6000만원피해막...",
@@ -6001,7 +5999,9 @@
   "딥마인드부사장,엔트로픽합류…구글핵심인재잇단이탈",
   "\"카드사넘어인텔리전스기업으로\"…BC카드,AI금융혁신속도",
   "\"속도가미래가른다\"…취임8년차구광모,AI전환가속페달",
-  "개인정보위,EQT·SK쉴더스조사장기화논란…강민국\"결론없이수개월..."
+  "개인정보위,EQT·SK쉴더스조사장기화논란…강민국\"결론없이수개월...",
+  "양자컴퓨팅시대,개인정보털리기더쉽다는데…KT가제시한보안전...",
+  "제주경찰-통신사'보이스피싱예방시스템'성과"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,13 @@
   [
    "2026-06-21T13:38:16.068719+09:00",
    "부사장 구글 핵심인재 딥마인드 잇단 합류 이탈"
+  ],
+  [
+   "2026-06-21T13:48:15.266449+09:00",
+   "예방 보이스피싱 성과 시스템 제주경찰"
   ]
  ],
- "last_run": "2026-06-21T13:46:36.279482+09:00",
+ "last_run": "2026-06-21T13:48:41.305179+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6404,6 +6408,7 @@
   "kwangju.co.kr": "kwangju.co.kr",
   "kookbang.dema.mil.kr": "국방일보",
   "cbci.co.kr": "CBC뉴스 | CBCNEWS",
-  "lawtimes.co.kr": "법률신문"
+  "lawtimes.co.kr": "법률신문",
+  "samdailbo.com": "삼다일보"
  }
 }
