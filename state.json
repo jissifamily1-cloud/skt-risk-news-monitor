@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202606190028",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=203673",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=263172",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335276",
   "https://www.munhwa.com/article/11596699",
@@ -2999,11 +2997,11 @@
   "https://www.hankookilbo.com/news/article/A2026062108580005533?did=NA",
   "https://biz.heraldcorp.com/article/10782725",
   "https://biz.sbs.co.kr/article_hub/20000317823?division=NAVER",
-  "https://www.sedaily.com/article/20058165"
+  "https://www.sedaily.com/article/20058165",
+  "https://www.news2day.co.kr/article/20260621500005",
+  "https://zdnet.co.kr/view/?no=20260621092655"
  ],
  "seen_titles": [
-  "트럼프\"애플,인텔과반도체설계·생산추진\"",
-  "내보험금·대출대출심사하는AI,어디까지믿어도될까···사고나면...",
   "한컴위드얼굴인증'한컴오스',금융결제원성능평가통과",
   "SK브로드밴드,토스플레이스와통신·결제결합상품출시",
   "토스플레이스,SK브로드밴드와소상공인대상통신·결제결합상품출시",
@@ -6001,7 +5999,9 @@
   "도미니카공화국해변호텔화재...1명사망,1700명대피",
   "르노코리아,亞최대기술·스타트업박람회서미래모빌리티비전제시",
   "삼성전자글로벌전략회의마무리…칩장기공급계약전략점검",
-  "KT,양자컴시대대비‘미래네트워크보안’구상공개"
+  "KT,양자컴시대대비‘미래네트워크보안’구상공개",
+  "[재계인사이드]삼성이재용과SK최태원의AI전략‘차이’",
+  "KT,미래네트워크보안구상‘E2E퀀텀시큐리티’공개"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-06-21T09:08:16.075974+09:00",
    "중국AI가 따라잡는 미국AI를 시간은"
+  ],
+  [
+   "2026-06-21T09:30:34.239744+09:00",
+   "최태원의 이재용과 차이 전략 SK 삼성"
   ]
  ],
- "last_run": "2026-06-21T09:28:30.918274+09:00",
+ "last_run": "2026-06-21T09:30:52.428315+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
