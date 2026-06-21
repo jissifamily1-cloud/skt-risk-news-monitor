@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.starnewskorea.com/business-life/2026/06/19/2026061909531191708",
   "https://www.itbiznews.com/news/articleView.html?idxno=216743",
   "https://www.mediapen.com/news/view/1105284",
   "https://www.socialvalue.kr/news/view/1065574398977018",
@@ -2999,10 +2998,10 @@
   "https://www.etoday.co.kr/news/view/2595612",
   "https://www.topstarnews.net/news/articleView.html?idxno=16104709",
   "http://www.yonhapnewstv.co.kr/news/AKR20260621093141YJU",
-  "https://view.asiae.co.kr/article/2026062109311916847"
+  "https://view.asiae.co.kr/article/2026062109311916847",
+  "http://www.kwangju.co.kr/article.php?aid=1782001800800310026"
  ],
  "seen_titles": [
-  "[월드컵-르포]달아오른멕시코전응원열기…\"1대0으로이길것\"",
   "황인엽X이혜리교복스틸공개..첫사랑추억소환비주얼(‘그대에게드...",
   "KT,장기고객1200명뮤지컬'그날들'초청…문화혜택↑",
   "SK,지난해사회적가치32조원창출…8년만에2배늘었다",
@@ -6001,7 +6000,8 @@
   "KT,양자시대대비한미래보안구상‘E2E퀀텀시큐리티’공개",
   "삼성전자,TSMC병목속빅테크수주확대시험대",
   "삼성전자,전략회의서HBM판매확대방안논의…장기공급계약점검",
-  "SKT,보안·네트워크AX인재키운다…교육비전액지원"
+  "SKT,보안·네트워크AX인재키운다…교육비전액지원",
+  "우주식민지화1초늦으면100조명사망?"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,13 @@
   [
    "2026-06-21T09:32:15.957003+09:00",
    "시대 대비한 시큐리티 보안 공개 E2E 미래 양자 구상 퀀텀"
+  ],
+  [
+   "2026-06-21T09:36:16.501296+09:00",
+   "사망 100조명 늦으면 우주 1초 식민지화"
   ]
  ],
- "last_run": "2026-06-21T09:34:31.541494+09:00",
+ "last_run": "2026-06-21T09:36:49.463643+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6376,6 +6380,7 @@
   "kor.theasian.asia": "아시아엔 THE AsiaN",
   "dongponews.net": "재외동포신문",
   "rcast.co.kr": "리얼캐스트",
-  "namdonews.com": "남도일보"
+  "namdonews.com": "남도일보",
+  "kwangju.co.kr": "kwangju.co.kr"
  }
 }
