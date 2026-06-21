@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=376952",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990158.html",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403261",
   "https://kidd.co.kr/news/246401",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/19/2026061990159.html",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52898",
@@ -2999,12 +2996,12 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=823912",
   "https://www.econovill.com/news/articleView.html?idxno=742972",
   "https://www.mydaily.co.kr/page/view/2026062118083442257",
-  "https://www.mydaily.co.kr/page/view/2026062118072342386"
+  "https://www.mydaily.co.kr/page/view/2026062118072342386",
+  "http://www.dynews.co.kr/news/articleView.html?idxno=854846",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=823914",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1559296"
  ],
  "seen_titles": [
-  "트럼프\"애플-인텔,미국서칩생산합의\"…인텔,이석희전하이닉스대...",
-  "‘AI대부’얀르쿤“일론머스크xAI는실패작”",
-  "\"전면재개표로선관위에대한국민의심부터걷어내야\"",
   "방미통위-방미심위-금감원,'불법금융정보근절'맞손",
   "넥스트라이즈2026,휴머노이드부터순찰로봇까지…국내스타트업개발...",
   "“피지컬AI가이끌‘챗GPT모먼트’”…한국스타트업에열린기회의...",
@@ -6001,7 +5998,10 @@
   "[포토S]안타날리는박재현",
   "\"AI·스타트업협업전면에\"르노코리아,넥스트라이즈서미래차청사진...",
   "[MD포토]시라카와폭투로추가점올리는최원준",
-  "[MD포토]최원준'주저없이달린다'"
+  "[MD포토]최원준'주저없이달린다'",
+  "공예로머무는부여…123사비공예마을,도시의시간을바꾸다",
+  "[포토S]역투하는시라카와",
+  "피지컬AI,전북천재일우의기회"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,13 @@
   [
    "2026-06-21T18:04:15.513574+09:00",
    "30도 불안 닭고기 물가 벌써 불안한 키운다 계란 이른 더위가 상승"
+  ],
+  [
+   "2026-06-21T18:12:15.675939+09:00",
+   "피지컬 천재일우의 전북 기회"
   ]
  ],
- "last_run": "2026-06-21T18:10:45.992852+09:00",
+ "last_run": "2026-06-21T18:12:40.802476+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6394,6 +6398,7 @@
   "pointdaily.co.kr": "포인트데일리",
   "hellot.net": "헬로티",
   "m-i.kr": "매일일보",
-  "jemin.com": "제민일보"
+  "jemin.com": "제민일보",
+  "domin.co.kr": "전북도민일보"
  }
 }
