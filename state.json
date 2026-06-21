@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008619139&plink=ORI&cooper=NAVER",
-  "https://www.newspim.com/news/view/20260619000938",
-  "https://www.mydaily.co.kr/page/view/2026061921450708716",
   "https://sports.khan.co.kr/article/202606192256003?pt=nv",
   "https://www.news1.kr/sports/baseball/6203097",
   "https://www.hani.co.kr/arti/sports/baseball/1264433.html",
@@ -2999,12 +2996,12 @@
   "http://www.wsobi.com/news/articleView.html?idxno=314003",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154594",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1713319",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=154593"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=154593",
+  "https://www.slist.kr/news/articleView.html?idxno=746758",
+  "https://www.newsis.com/view/NISX20260622_0003677504",
+  "https://www.tfmedia.co.kr/news/article.html?no=205262"
  ],
  "seen_titles": [
-  "돌아온카스트로홈런포함3안타3타점'맹활약'…KIA,KT꺾고3연승질...",
-  "'송찬의역전포'LG,두산꺾고1위수성…NC4연승·KIA3연승(종합)",
-  "'송찬의4안타'LG선두수성…3연승롯데는8위도약",
   "[AI상보]'카스트로복귀포'KIA,KT11-3완파하고3연승…네일6이닝2...",
   "김도영결정적더블아웃에네일이포효했다…대타안현민성공하면뭐하...",
   "네일5경기연속QS·4연승-카스트로복귀2경기만에홈런···NC토다...",
@@ -6001,7 +5998,10 @@
   "KT-SKT,AI전환시대맞춤형인재육성",
   "SKT,AI보안·네트워크인재키운다…실무형교육'알레프'출범",
   "[Telecom&Now]\"20대목소리듣는다\"…SKT,서비스혁신실험나서",
-  "AI·양자시대보안판바꾼다…KT,'E2E퀀텀시큐리티'청사진제시"
+  "AI·양자시대보안판바꾼다…KT,'E2E퀀텀시큐리티'청사진제시",
+  "'그대에게드림'황인엽,이혜리에벽치기시도?…현재시점투샷",
+  "지슨,해군지능정보화정책발전세미나참가…'알파-H'선보여",
+  "LG그룹경영진방미...엔비디아와차세대AI협력논의박차"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-06-22T08:12:16.543401+09:00",
    "나서 듣는다 실험 혁신 20대 목소리 서비스"
+  ],
+  [
+   "2026-06-22T08:14:15.547475+09:00",
+   "논의 엔비디아와 방미 차세대 경영진 박차 LG그룹 협력"
   ]
  ],
- "last_run": "2026-06-22T08:12:33.809057+09:00",
+ "last_run": "2026-06-22T08:14:37.964480+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6431,6 +6435,7 @@
   "newsroad.co.kr": "뉴스로드",
   "koscaj.com": "대한전문건설신문",
   "safetimes.co.kr": "세이프타임즈",
-  "m.skyedaily.com": "m.skyedaily.com"
+  "m.skyedaily.com": "m.skyedaily.com",
+  "tfmedia.co.kr": "조세금융신문"
  }
 }
