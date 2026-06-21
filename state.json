@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=734603",
   "https://www.khan.co.kr/article/202606182001005",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676824",
   "https://www.mt.co.kr/society/2026/06/19/2026061921510779020",
@@ -2999,10 +2998,10 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1713260",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317372",
   "https://www.viva100.com/article/20260621500401",
-  "https://www.segye.com/newsView/20260621509104?OutUrl=naver"
+  "https://www.segye.com/newsView/20260621509104?OutUrl=naver",
+  "https://www.newsverse.kr/news/articleView.html?idxno=10713"
  ],
  "seen_titles": [
-  "[동서발전소식]‘1호공공주도사업’한동평대해상풍력사업‘본궤...",
   "[ST포토]이범호감독,선수들과하이파이브",
   "[정국인터뷰]이준석대표\"친윤계장악력여전…한동훈,창당가능성열...",
   "[에디터의창]전도사젠슨황이만드는환각",
@@ -6001,7 +6000,8 @@
   "광고시장'모바일'성장…방송광고하락세",
   "2025년지상파방송광고매출,전년대비-17%",
   "“KT도하반기가세”⋯이통3사,‘AI에이전트’경쟁본격화",
-  "‘모두의창업’정보유출,외부해킹아니었다"
+  "‘모두의창업’정보유출,외부해킹아니었다",
+  "전쟁패러다임뒤집혔다…美-이란106일전쟁이시사한한국군교훈"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-06-22T06:06:17.263675+09:00",
    "유출 창업 아니었다 외부 모두의 정보"
+  ],
+  [
+   "2026-06-22T06:10:25.982042+09:00",
+   "교훈 106일 한국군 전쟁 이란 시사한 패러다임 전쟁이 뒤집혔다"
   ]
  ],
- "last_run": "2026-06-22T06:08:32.172516+09:00",
+ "last_run": "2026-06-22T06:10:52.883465+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6326,6 +6330,7 @@
   "jndn.com": "jndn.com",
   "ngonews.kr": "한국NGO신문",
   "economychosun.com": "economychosun.com",
-  "startuptoday.co.kr": "오늘경제"
+  "startuptoday.co.kr": "오늘경제",
+  "newsverse.kr": "뉴스버스(Newsverse)"
  }
 }
