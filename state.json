@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.veritas-a.com/news/articleView.html?idxno=615680",
-  "http://www.bizwnews.com/news/articleView.html?idxno=139011",
-  "https://www.sisajournal.com/news/articleView.html?idxno=377131",
-  "https://www.viva100.com/article/20260619500452",
-  "https://www.sisaweek.com/news/articleView.html?idxno=236221",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1713209",
-  "https://www.smartbizn.com/news/articleView.html?idxno=146516",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606190428&t=NN",
   "http://www.ccnnews.co.kr/news/articleView.html?idxno=410968",
   "http://www.itdaily.kr/news/articleView.html?idxno=239956",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164230",
@@ -2999,17 +2991,17 @@
   "http://www.maniareport.com/view.php?ud=2026062119115879576cf2d78c68_19",
   "https://www.mydaily.co.kr/page/view/2026062119165231493",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=823951",
-  "https://www.sedaily.com/article/20058328"
+  "https://www.sedaily.com/article/20058328",
+  "https://www.mydaily.co.kr/page/view/2026062119202270327",
+  "https://www.mydaily.co.kr/page/view/2026062119023046801",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16105207",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=823952",
+  "https://www.aitimes.com/news/articleView.html?idxno=211948",
+  "https://www.koreajoongangdaily.com/business/openai-starts-showing-ads-to-lowertier-chatgpt-users-in-korea/12731460",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260621192025zMW",
+  "http://www.yonhapnewstv.co.kr/news/MYH202606211920475hD"
  ],
  "seen_titles": [
-  "남해군,'의료취약지인공신장실지원사업'공모선정",
-  "뉴욕K-뷰티거점이된'하우스오브케이'…브루클린속작은‘서울...",
-  "서강대판교디지털혁신캠퍼스서'금융규제샌드박스제도개선발표행사...",
-  "[헬스이모저모]바디프랜드\"스타필드안성서건강수명충전소운영\",세...",
-  "\"유심을빼달라고요?\"…보이스피싱범에속은70대,통신사대리점장이...",
-  "오픈AI,한국서챗GPT광고도입…AI수익모델확대",
-  "원스토어,626억원에매각…SK스퀘어\"선택과집중\"",
-  "[Telecom&Now]02-114로전화하면무더위쉼터알려드려요등",
   "\"AI시대주인공은스타트업\"···글로벌혁신가들서울집결",
   "'불법리딩방'잡는다…금감원,방미통위·방미심위와협약",
   "한남대,국가안보및지역성장동시견인",
@@ -6001,7 +5993,15 @@
   "'복귀전5이닝2실점'KT대체외인로건합격점…6주간마운드책임진...",
   "[MD포토]김규성'희생플라이도괜찮아'",
   "[포토S]2루도루성공한김민규",
-  "아마존“5년내완전한상업용양자컴퓨터출시”"
+  "아마존“5년내완전한상업용양자컴퓨터출시”",
+  "[MD포토]손동현'위기는내가책임진다'",
+  "'와'151kmKKKKKK미쳤다,다저스에서데려온6주외인어땠나…KIA전5이...",
+  "6K로2실점묶은로건,kt부상공백메웠다",
+  "[포토S]김규성,'1타점희생플라이'",
+  "미니맥스,초장문컨텍스트해결한'MSA'공개…추론속도14배↑·연산...",
+  "OpenAIstartsshowingadstolower-tierChatGPTusersinKorea",
+  "중기부'모두의창업'정보유출…참여업체가원인",
+  "의대맞먹는'삼전닉스'계약학과…서울대합격선넘어"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-06-21T19:20:26.594301+09:00",
    "출시 양자컴퓨터 아마존 완전한 상업용 5년"
+  ],
+  [
+   "2026-06-21T19:22:17.002023+09:00",
+   "의대 서울대 넘어 삼전닉스 합격선 맞먹는 계약학과"
   ]
  ],
- "last_run": "2026-06-21T19:20:50.463837+09:00",
+ "last_run": "2026-06-21T19:22:35.068040+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
