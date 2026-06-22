@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112825886",
-  "https://www.sportschosun.com/baseball/2026-06-21/202606210100143120009387",
-  "https://www.newspim.com/news/view/20260621000054",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422061",
-  "https://www.busan.com/view/busan/view.php?code=2026062112142690321",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=845471",
-  "https://kookbang.dema.mil.kr/newsWeb/20260622/3/ATCE_CTGR_0010040000/view.do",
   "https://www.dailian.co.kr/news/view/1656925/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260621021700001?input=1195m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3613650",
@@ -2999,16 +2992,16 @@
   "https://www.sportsworldi.com/newsView/20260622514816",
   "https://www.ddaily.co.kr/page/view/2026062214131112252",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677231",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255321"
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255321",
+  "http://www.osen.co.kr/article/G1112826679",
+  "https://www.mk.co.kr/article/12080082",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1325639",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676221",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=309138",
+  "https://hbnpress.com/news/view/1065599686847491",
+  "https://www.sidae.com/article/2026062215111714664"
  ],
  "seen_titles": [
-  "[AI프리뷰]21일수원KT-KIA전,대체외인투수로건등판KT기세이어갈...",
-  "[현장]GPT5.5의24시간자율구동…넥스트라이즈,AI산업에이전트전...",
-  "KT,‘K-뉴딜아카데미’1기교육생모집",
-  "최하위키움에또악재…'고관절통증'로젠버그22일정밀검진",
-  "민·군‘상용위성활용MDA발전’손잡았다",
-  "\"잠실7동제2투표소서대기표받은12명결국투표안해\"등[6/17(수)데...",
-  "[프로필]성기홍홍보소통수석…뉴스현장경험풍부한언론인",
   "영남이공대학교,가구디자인과제전개최...성인학습자실무역량전시",
   "규제강화되는배달앱시장…멀어지는영세소상공인지원",
   "[단독]카카오,전세계30위권AI슈퍼컴가동…삼성·NHN도'개봉박두...",
@@ -6001,7 +5994,14 @@
   "MBC라디오개편…손석희,13년만복귀",
   "[DD퇴근길]3600억내밀었는데퇴짜…배민·쿠팡이츠의'합의시도'가실...",
   "시크릿네트워크브릿지,'무한민트'버그로470만달러탈취",
-  "탈옥형정보유출공포에흔들리는월가···'AI보안'서사의이면"
+  "탈옥형정보유출공포에흔들리는월가···'AI보안'서사의이면",
+  "\"장타기대한다\"했는데...두산78억거포,홈런없이5일만에또2군으...",
+  "SK바이오팜,인실리코와중추신경계AI신약개발맞손",
+  "대기업AX가속…업무방식재편움직임",
+  "샘알트먼\"AI발고용대란없을듯…내가틀려서기쁘다\"",
+  "반도체주,AI發'구조적재평가'…상승랠리계속된다",
+  "SKT,대학생과함께고객경험개선추진",
+  "[사설]고개숙인'모두의창업'…민간해킹처럼엄정히다뤄야"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,13 @@
   [
    "2026-06-22T17:00:39.425470+09:00",
    "공포에 서사의 월가 정보유출 탈옥형 흔들리는 보안 이면"
+  ],
+  [
+   "2026-06-22T17:02:18.151288+09:00",
+   "개선 대학생과 함께고객경험"
   ]
  ],
- "last_run": "2026-06-22T17:00:57.300585+09:00",
+ "last_run": "2026-06-22T17:02:43.719740+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6740,6 +6744,7 @@
   "theopiniontimes.news": "더오피니언타임즈",
   "kgnews.co.kr": "경기신문",
   "newsfc.co.kr": "금융소비자뉴스",
-  "civicnews.com": "CIVICNEWS(시빅뉴스)"
+  "civicnews.com": "CIVICNEWS(시빅뉴스)",
+  "hbnpress.com": "hbnpress.com"
  }
 }
