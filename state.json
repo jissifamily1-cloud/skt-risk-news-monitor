@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260621094110816",
-  "https://www.asiatime.co.kr/article/20260621500044",
-  "https://www.ajunews.com/view/20260621122653011",
-  "https://www.dailian.co.kr/news/view/1658102/?sc=Naver",
-  "http://www.samdailbo.com/news/articleView.html?idxno=266302",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01617046645484016",
   "http://www.newstomato.com/ReadNews.aspx?no=1304639&inflow=N",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/21/2026062190081.html",
   "https://zdnet.co.kr/view/?no=20260621135028",
@@ -2999,15 +2993,15 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=734658",
   "https://www.yna.co.kr/view/AKR20260622133600083?input=1195m",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440691",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=263495"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=263495",
+  "http://www.itdaily.kr/news/articleView.html?idxno=239980",
+  "https://www.hankyung.com/article/2026062298061",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6935158",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067290",
+  "https://www.segye.com/newsView/20260621504793?OutUrl=naver",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=212533"
  ],
  "seen_titles": [
-  "개인정보위,EQT·SK쉴더스조사장기화논란…강민국\"결론없이수개월...",
-  "양자컴퓨팅시대,개인정보털리기더쉽다는데…KT가제시한보안전...",
-  "제주경찰-통신사'보이스피싱예방시스템'성과",
-  "앤스로픽수출금지자초?…\"AI위험경고,오픈AI의8배달해\"",
-  "현대차는LGU+·KT,기아는SKT…내차‘통신사’어디?",
-  "구글,4조원들여영입한AI핵심인재샤지어2년만에오픈AI行",
   "[ZD브리핑]'세기의재산분할'최태원-노소영,SK주식놓고이번주공...",
   "애플비츠이어폰,'도청해킹'취약점뒤늦게패치",
   "코리아국제스트리밍페스티벌성료…\"K-OTT투자유치지원\"",
@@ -6001,7 +5995,13 @@
   "[스페이스XIPO]골드만삭스'코리아패싱'논란...日은받았는데韓은...",
   "'기업에중요한건기회'…AI로존재감과시한中공급망박람회",
   "[IT뒷담화]2년만정책협의회여는과기정통부-방미통위,배경은?",
-  "\"올거나이즈·인핸스·랭코드·셀렉트스타,다음주인공은?\"…KT,AI스타..."
+  "\"올거나이즈·인핸스·랭코드·셀렉트스타,다음주인공은?\"…KT,AI스타...",
+  "[인터뷰]\"AI로쏟아지는취약점폭탄,선택과집중이최선\"",
+  "다음품은업스테이지,'모두를위한AI'실현할연합군띄웠다",
+  "르노코리아,'넥스트라이즈2026'서미래모빌리티비전제시",
+  "오뚜기한국맥도날드우아한형제들外(여기유통이슈)",
+  "딥마인드부사장,엔트로픽합류…구글핵심인재잇단이탈",
+  "이니텍\"AI악용공격,제로트러스트로대응\""
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-06-22T17:20:28.925347+09:00",
    "다음 인핸스 셀렉트스타 올거나이즈 스타 주인공은 랭코드"
+  ],
+  [
+   "2026-06-22T17:22:17.367632+09:00",
+   "대응 트러스트로 이니텍 제로 악용 공격"
   ]
  ],
- "last_run": "2026-06-22T17:20:54.580628+09:00",
+ "last_run": "2026-06-22T17:22:36.071505+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
