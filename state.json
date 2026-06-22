@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421049",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5200988",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440775",
-  "https://www.bloter.net/news/articleView.html?idxno=666031",
-  "http://www.4th.kr/news/articleView.html?idxno=2113463",
-  "https://www.kyeongin.com/article/1765884",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=421850",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260618.99099005374",
   "https://www.ekn.kr/web/view.php?key=20260621029305117",
   "https://www.etnews.com/20260619000093",
   "https://www.ddaily.co.kr/page/view/2026061917070413224",
@@ -2999,17 +2991,17 @@
   "http://www.thefirstmedia.net/news/articleView.html?idxno=201880",
   "http://www.metroseoul.co.kr/article/20260622500445",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=201908",
-  "https://cwn.kr/article/1065593118452110"
+  "https://cwn.kr/article/1065593118452110",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04283686645483032",
+  "https://www.sentv.co.kr/article/view/sentv202606220133",
+  "https://www.khan.co.kr/article/202606221627001",
+  "https://www.irobotnews.com/news/articleView.html?idxno=47033",
+  "http://www.metroseoul.co.kr/article/20260622500449",
+  "https://www.naeil.com/news/read/592366",
+  "https://www.m-joongang.com/news/articleView.html?idxno=402645",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79433"
  ],
  "seen_titles": [
-  "르노코리아,넥스트라이즈서미래모빌리티청사진공개",
-  "SKT직원들,'에이닷비즈코워크'로수십개제안서비교도뚝딱",
-  "KT,AI·양자기술로미래네트워크신뢰성높인다",
-  "[굿모닝위즈·69]힐리어드의힐링타임",
-  "최태원·노소영파기환송심26일재개···'1.3조재산분할'다시계산...",
-  "'S시리즈인가,아닌가'...갤럭시A37국내출시",
-  "경북,AI보안·방산·지방정치까지…미래성장동력확보와지역역량강...",
-  "KT서비스남부대구본부·위드네트웍스대구경북지사,대구·경북사업...",
   "통신3사가키운원스토어,게임사품으로…정체성바뀌나",
   "KT,양자·AI보안위협대응미래네트워크전략'E2E퀀텀시큐리티'공...",
   "[인제군1박2일야구]지구라트최태원“게임MVP먹었어요”[스경포토...",
@@ -6001,7 +5993,15 @@
   "\"Z세대에게답을묻다\"...SKT,대학생과서비스혁신나선다",
   "SK텔레콤,'CX캠퍼스'프로젝트…대학생소통강화",
   "AI동맹넓히는KT...유망스타트업발굴해AX시장공략",
-  "LG전자,엔비디아협력기대감에7%대상승마감"
+  "LG전자,엔비디아협력기대감에7%대상승마감",
+  "\"지원하루가급한데\"…배달앱동의의결기각에소상공인도'한숨'(종합...",
+  "SK바이오팜,인실리코와AI기반CNS신약개발맞손",
+  "“늘하던대로할까요?”···‘기억’으로옮겨간AI모델경쟁",
+  "에스오에스랩,창립10주년맞아'100배연결'비전선포",
+  "SK하이닉스,삼성넘고시총1위…AI시대'가장날카로운창'의비결과...",
+  "과기정통부-앤트로픽AI안전·보안협력",
+  "화폐금융혁신의아이콘,스테이블코인시장이꿈틀댄다",
+  "김병훈-최진민-김창수-이성엽은재벌총수못잖게배당-연봉챙겨"
  ],
  "recent_sigs": [
   [
@@ -6499,9 +6499,13 @@
   [
    "2026-06-22T16:28:15.965986+09:00",
    "강화 소통 프로젝트 캠퍼스 CX 대학생"
+  ],
+  [
+   "2026-06-22T16:30:35.211675+09:00",
+   "배당 챙겨 김병훈 최진민 김창수 재벌총수 연봉 못잖게 이성엽은"
   ]
  ],
- "last_run": "2026-06-22T16:28:41.393657+09:00",
+ "last_run": "2026-06-22T16:31:02.118172+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6730,6 +6734,7 @@
   "smarttoday.co.kr": "스마트투데이",
   "newsgn.com": "뉴스경남",
   "theopiniontimes.news": "더오피니언타임즈",
-  "kgnews.co.kr": "경기신문"
+  "kgnews.co.kr": "경기신문",
+  "newsfc.co.kr": "금융소비자뉴스"
  }
 }
