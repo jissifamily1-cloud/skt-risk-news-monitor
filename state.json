@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12078962",
-  "http://www.osen.co.kr/article/G1112825381",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461723",
-  "http://www.joseilbo.com/news/news_read.php?uid=570419&class=42",
-  "http://www.osen.co.kr/article/G1112825374",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=461724",
   "https://www.mk.co.kr/article/12078969",
   "https://www.munhwa.com/article/11596944",
   "https://www.munhwa.com/article/11596945",
@@ -2999,15 +2993,15 @@
   "https://www.dailian.co.kr/news/view/1658327/?sc=Naver",
   "http://www.newstomato.com/ReadNews.aspx?no=1304717&inflow=N",
   "https://www.thepublic.kr/news/articleView.html?idxno=308521",
-  "https://www.smartbizn.com/news/articleView.html?idxno=146692"
+  "https://www.smartbizn.com/news/articleView.html?idxno=146692",
+  "http://www.osen.co.kr/article/G1112826323",
+  "https://www.newsgn.com/news/articleView.html?idxno=558133",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403291",
+  "https://economist.co.kr/article/view/ecn202606220018",
+  "https://www.smarttoday.co.kr/ko-kr/articles/108619",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=15815"
  ],
  "seen_titles": [
-  "\"내이더리움·비트코인이가짜?\"…검증누락이불러온크로스체인파멸...",
-  "삼전·네카오만난다더니‘돌연취소’…샘올트먼이방한연기한진짜...",
-  "\"원래타이밍잘맞추는데집중력까지좋아\"복귀후2G타율.556-1홈런...",
-  "테슬라·엔비디아물리더니결국…BNB체인대출출시뒤에숨은파멸의...",
-  "이스라엘,휴전뒤또공습…총선앞둔네타냐후,종전합의최대변수...",
-  "'LG킬러'가타자한명에당하다니...감독의아쉬움\"홈런앞에볼넷이...",
   "오일머니가다삼킨다…아부다비MGX,데이터센터거물'데이원'삼키나",
   "“전기는있는데사람이없다”…해남·광주‘AI벨트’가못푼마지...",
   "61만전자·500만닉스’진짜가나…증권가전망은?",
@@ -6001,7 +5995,13 @@
   "KT,AI스타트업발굴…AX사업공동추진·투자연계등지원",
   "LG경영진,미엔비디아‘총출동’…AI협력구체화시동",
   "\"해킹책임어디까지?\"금융위,롯데카드정보유출제재착수...내달결...",
-  "오픈AI와손잡은삼성전자···외부생성형AI로일하는방식바꾼다"
+  "오픈AI와손잡은삼성전자···외부생성형AI로일하는방식바꾼다",
+  "복귀타율4할4푼4리결승타또결승타,혼자만잘한게아니었다...'3G...",
+  "남해소방서,2026년실전형긴급구조종합훈련실시",
+  "EDB-비투엔-오두,'오픈소스트랜스포메이션'공동추진…풀스택오픈소...",
+  "삼전닉스,성과급만6~7억원수준?…초임금격차우려진단도",
+  "KB證,MCP허브기반AI개발환경구축추진",
+  "첫6.4조크레딧,감축실적과다계상논란"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-06-22T11:10:27.335223+09:00",
    "삼성전자 AI로 외부 손잡은 바꾼다 생성형 오픈AI와"
+  ],
+  [
+   "2026-06-22T11:12:16.171901+09:00",
+   "논란 크레딧 과다 실적 4조 계상 감축"
   ]
  ],
- "last_run": "2026-06-22T11:10:52.716487+09:00",
+ "last_run": "2026-06-22T11:12:42.549682+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6732,6 +6736,7 @@
   "ditoday.com": "ditoday.com",
   "cnbnews.com": "CNB뉴스",
   "widedaily.com": "와이드경제",
-  "00news.co.kr": "공공뉴스"
+  "00news.co.kr": "공공뉴스",
+  "esgeconomy.com": "ESG경제"
  }
 }
