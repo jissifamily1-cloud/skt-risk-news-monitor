@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202606160007",
-  "https://biz.sbs.co.kr/article_hub/20000317820?division=NAVER",
-  "https://www.newsis.com/view/NISX20260621_0003676929",
-  "https://www.news1.kr/industry/general-industry/6202949",
-  "https://www.newsis.com/view/NISX20260619_0003676316",
-  "https://www.newsis.com/view/NISX20260619_0003675817",
   "https://www.news1.kr/society/court-prosecution/6202939",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5032248",
   "https://www.newsis.com/view/NISX20260619_0003676389",
@@ -2999,15 +2993,15 @@
   "https://www.techm.kr/news/articleView.html?idxno=152803",
   "https://www.ajunews.com/view/20260618110123079",
   "https://www.aitimes.com/news/articleView.html?idxno=211986",
-  "http://www.fnnews.com/news/202606221402478070"
+  "http://www.fnnews.com/news/202606221402478070",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713423",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3614507",
+  "https://www.ekn.kr/web/view.php?key=20260622029545379",
+  "https://www.ibabynews.com/news/articleView.html?idxno=152264",
+  "https://www.techm.kr/news/articleView.html?idxno=152770",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260622.99099006454"
  ],
  "seen_titles": [
-  "한달살이도쇼핑하듯…‘소유’종말이낳은구독신세계[구독어디까...",
-  "\"채권발행해서라도AI투자\"...빅테크들금리인상에민감",
-  "\"AI기업지분절반은공공몫\"샌더스법안까지…앤트로픽IPO에정치권...",
-  "MLCC탑재량'632%'폭증,제2메모리반도체조짐…삼성전기'미소'",
-  "TSMC생산한계에인텔의추격…삼성파운드리'빅테크쟁탈전'서반전...",
-  "AI에이전트시대개막…주목받는생체인증株는",
   "'조정불발'최태원-노소영재산분할파기환송심,이번주재개",
   "[와이파이]6월4주,'월드컵굿즈'할인가에만나기…KT외2가지통신...",
   "\"가전은옛말\"…LG전자,엔비디아손잡고'피지컬AI'기업으로체질개...",
@@ -6001,25 +5995,15 @@
   "\"시총1위내줬다?\"…우선주까지더하면아직삼성전자,AI반격도이제...",
   "개보위·기업,개인정보유출규모공방…이용자는'셀프보안강화'",
   "영화'그녀'의스파이크존즈\"AI는고독한도구...인간관계대체못해...",
-  "\"어디서많이봤는데…\"'용산전자상가최고아웃풋'꽃미남정체"
+  "\"어디서많이봤는데…\"'용산전자상가최고아웃풋'꽃미남정체",
+  "GS건설,아이스퀘드와맞손…2035년1.5GW에너지확보목표",
+  "진주시,정원박람회서'공공기관2차이전홍보관'운영",
+  "[보험사풍향계]교보생명,12년연속무디스‘A1’등급획득外",
+  "[건강뉴스]보건복지부,'2026년지역보건의료계획성과대회및제9기...",
+  "이메일만샌게아닌데...'모두의창업'유출사고에공공책임기준시...",
+  "글로벌AI업체,국내경쟁치열…오픈AI,삼성전자기업용모델공급"
  ],
  "recent_sigs": [
-  [
-   "2026-06-22T09:28:17.172520+09:00",
-   "키운다 고객 프로그램 현장 확대 목소리 중심 인재 듣고"
-  ],
-  [
-   "2026-06-22T09:28:17.172520+09:00",
-   "예약 만에 종료 8개월 온라인 무상교체 유심"
-  ],
-  [
-   "2026-06-22T09:30:34.881294+09:00",
-   "경희대 반복 기업책임 강화해야 개인정보유출 명예교수 정완"
-  ],
-  [
-   "2026-06-22T09:30:34.881294+09:00",
-   "MBC 13년 손석희 복귀 라디오"
-  ],
   [
    "2026-06-22T09:38:15.724812+09:00",
    "인프라 경쟁 승부처는 운영 2라운드 AIDC"
@@ -6479,9 +6463,13 @@
   [
    "2026-06-22T15:28:16.813423+09:00",
    "꽃미남 아웃풋 많이 봤는데 최고 어디서 용산전자상가 정체"
+  ],
+  [
+   "2026-06-22T15:30:36.969136+09:00",
+   "모델 글로벌 국내 업체 치열 삼성전자 기업용 공급 경쟁"
   ]
  ],
- "last_run": "2026-06-22T15:28:40.998892+09:00",
+ "last_run": "2026-06-22T15:30:54.995380+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
