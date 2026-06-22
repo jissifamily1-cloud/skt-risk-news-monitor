@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02345206645484344",
-  "https://www.etoday.co.kr/news/view/2595783",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245053&CMPT_CD=P0010",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=236565",
-  "https://www.insight.co.kr/news/559524",
-  "https://news.mtn.co.kr/news-detail/2026062208342396722",
   "https://www.xportsnews.com/article/2163072",
   "https://imnews.imbc.com/news/2026/politics/article/6831859_36911.html",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676984",
@@ -2999,15 +2993,15 @@
   "https://www.khan.co.kr/article/202606230600101",
   "https://sports.khan.co.kr/article/202606230600016?pt=nv",
   "https://www.medipana.com/news/articleView.html?idxno=413346",
-  "http://www.fnnews.com/news/202606221651415754"
+  "http://www.fnnews.com/news/202606221651415754",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=757920",
+  "https://www.newsis.com/view/NISX20260623_0003679127",
+  "https://www.lecturernews.com/news/articleView.html?idxno=204744",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=844718",
+  "http://www.srtimes.kr/news/articleView.html?idxno=205619",
+  "https://www.mediapen.com/news/view/1105892"
  ],
  "seen_titles": [
-  "'늦깎이유망주'양창섭,사자마운드'기둥'됐다",
-  "SKT,대학생과함께고객경험혁신…'CX캠퍼스'프로젝트운영",
-  "SKT,대학생과고객경험손본다...8주간서비스개선프로젝트",
-  "\"챗GPT대화로요금제추천\"…KT엠모바일,알뜰업계최초적용",
-  "김도영거르고나성범?'2타점2루타'KIA캡틴의한방…\"병살타유도하...",
-  "[단독]14년간군자회사가'꿀꺽'‥국방부,무더기징계",
   "LG에너지솔루션,AI데이터센터전력솔루션으로유럽시장공략",
   "SKT,대학생대상고객경험혁신아이디어발굴하는‘CX캠퍼스’진행",
   "KT,AI스타트업발굴…‘K-PATH2026’공모시작",
@@ -6001,7 +5995,13 @@
   "[단독]‘부정선거음모론’에수검표인력·예산늘였더니…개표오류...",
   "좌승사자들지워나가는‘우향우’LG",
   "유한양행,ETC3대전략구체화…수익성에방점",
-  "\"대만처럼뭉쳐야산다\"삼전·닉스만으로는빅테크하청기지신세"
+  "\"대만처럼뭉쳐야산다\"삼전·닉스만으로는빅테크하청기지신세",
+  "[시승기]3가지색깔로돌아온토요타'라브4'…연비는HEV,정숙성은PH...",
+  "[오늘의주요일정]강원(6월23일화요일)",
+  "PD수첩,'AI,이토록다정한배신자'…AI의존,판단력상실,청소년노...",
+  "뉴욕증시,스페이스X급락에'혼조'…다우,홀로0.29%↑",
+  "[창간기획-산업]SK최태원의'투트랙'승부수…'곽노정캐시카우-정재...",
+  "[美증시특징주]슈퍼마이크로15%폭등...엔비디아와차세대데이터센..."
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,17 @@
   [
    "2026-06-23T06:04:17.259739+09:00",
    "엔비디아가 정조준 로봇 점찍은 5000억원 몸값 피지컬AI 디든로보틱스"
+  ],
+  [
+   "2026-06-23T06:12:18.747534+09:00",
+   "최태원의 캐시카우 투트랙 곽노정 승부수 SK 정재"
+  ],
+  [
+   "2026-06-23T06:12:18.747534+09:00",
+   "차세대 폭등 엔비디아와 슈퍼마이크로 데이터센"
   ]
  ],
- "last_run": "2026-06-23T06:10:44.688262+09:00",
+ "last_run": "2026-06-23T06:12:39.281110+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
