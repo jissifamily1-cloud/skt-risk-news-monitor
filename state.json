@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335266",
-  "https://www.greened.kr/news/articleView.html?idxno=342855",
-  "https://www.ddaily.co.kr/page/view/2026061818045892004",
-  "https://www.ytn.co.kr/_ln/0102_202606181824523354",
-  "http://www.journalist.or.kr/news/article.html?no=61118",
-  "https://www.news1.kr/it-science/cc-newmedia/6201814",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05825286645483032",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008617217&plink=ORI&cooper=NAVER",
-  "https://www.yna.co.kr/view/AKR20260618153900017?input=1195m",
-  "https://www.newsis.com/view/NISX20260618_0003674979",
   "https://www.ddaily.co.kr/page/view/2026061816554425742",
   "https://news.jtbc.co.kr/article/NB12303898?influxDiv=NAVER",
   "https://www.dailian.co.kr/news/view/1657489/?sc=Naver",
@@ -2999,19 +2989,19 @@
   "https://www.etnews.com/20260622000103",
   "https://www.getnews.co.kr/news/articleView.html?idxno=872917",
   "https://www.delighti.co.kr/news/articleView.html?idxno=117969",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=781010"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=781010",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3614121",
+  "https://platum.kr/archives/289429",
+  "https://www.munhwa.com/article/11597140",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000044121",
+  "http://www.lawissue.co.kr/view.php?ud=202606220952449477b3279dfb36_12",
+  "https://www.kado.net/news/articleView.html?idxno=2056996",
+  "https://www.mk.co.kr/article/12079605",
+  "https://www.sedaily.com/article/20058471",
+  "https://www.itworld.co.kr/article/4187504/10년을-기다렸다오픈ai-트랜스포머-아버지-노암-샤.html",
+  "https://biz.heraldcorp.com/article/10783440"
  ],
  "seen_titles": [
-  "방미통위,JTBC재무위기논란예의주시…“시청권침해없어야”",
-  "방미통위,재허가조건위반한KBS·TBC·OBS시정명령",
-  "\"30%수수료는수탈\"…구글본사앞에선게임업계,\"K게임국부유출막...",
-  "재허가조건위반한KBS·TBC·OBS…방미통위\"시정명령\"",
-  "방미통위\"JTBC회생절차관련현안,상시점검\"",
-  "방미통위,JTBC사태관련점검반구성…의견청취도추진",
-  "방미통위,협찬고지위반KBS·감사장기연임TBC'시정명령'",
-  "방미통위,KBS등재허가조건위반시정명령…JTBC회생이슈도예의주...",
-  "방미통위,JTBC등회생신청관련\"점검반구성…필요하면대표면담\"",
-  "방미통위,JTBC재무위기논란예의주시…\"시청권침해없어야\"",
   "KBS·TBC·OBS재허가조건위반…방미통위시정명령",
   "방미통위,새방송시장경쟁상황평가구축나선다…\"자료확보해야\"",
   "최민희의원,통합미디어법제마련…\"미디어현실반영\"",
@@ -6001,7 +5991,17 @@
   "KT,고객AX함께할AI스타트업찾는다…K-패쓰공모",
   "오픈AI,삼성전자에챗GPT·코덱스공급",
   "금융위,'해킹정보유출'롯데카드제재착수…내달결론",
-  "[위클리오늘]KT소식(6.22)"
+  "[위클리오늘]KT소식(6.22)",
+  "목포독거노인100명에돌봄로봇보급…우울감63%감소",
+  "리얼월드,다관절로봇손10종분석플랫폼'AllHandsUp!'공개",
+  "AI시대,독서의본질고민하고…굿즈찾는MZ‘텍스트힙’만끽",
+  "코스피미국이란후속협상주시속9000선회복시도",
+  "한성숙,중기부'모두의창업'정보유출논란에\"책임통감…긴급보안...",
+  "[속보]한성숙,'모두의창업'개인정보유출사과…\"신뢰회복에최선...",
+  "[속보]한성숙,‘모두의창업’정보유출에“책임통감…진심으로사...",
+  "오픈AI,삼성전자와챗GPT엔터프라이즈공급계약…“세계최대규모...",
+  "“10년을기다렸다”오픈AI,트랜스포머아버지노암샤지어품다",
+  "손석희,MBC라디오DJ복귀…‘시선집중’후13년만"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-06-22T09:56:15.871129+09:00",
    "소식"
+  ],
+  [
+   "2026-06-22T09:58:15.533533+09:00",
+   "10년을 샤지어 아버지 품다 트랜스포머 기다렸다 노암"
   ]
  ],
- "last_run": "2026-06-22T09:56:46.738165+09:00",
+ "last_run": "2026-06-22T09:58:33.535635+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
