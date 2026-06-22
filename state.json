@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202606220048",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606220847472470154",
-  "https://biz.heraldcorp.com/article/10783408",
-  "https://www.donga.com/news/Economy/article/all/20260619/134143777/1",
-  "https://biz.heraldcorp.com/article/10783471",
-  "https://www.joongangenews.com/news/articleView.html?idxno=527234",
-  "https://www.tjb.co.kr/news05/bodo/view/id/99804",
-  "https://www.g-enews.com/view.php?ud=2026062209441437244093b5d4e_1",
   "https://magazine.hankyung.com/business/article/202606229773b",
   "https://www.tenasia.co.kr/article/2026061845334",
   "https://sports.khan.co.kr/article/202606221003003?pt=nv",
@@ -2999,17 +2991,17 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4421146",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=268330",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=844612",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02751926645484672"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02751926645484672",
+  "https://www.globale.co.kr/news/articleView.html?idxno=38945",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462221",
+  "https://www.hankyung.com/article/202606231659i",
+  "https://www.newspim.com/news/view/20260623000064",
+  "https://www.newspim.com/news/view/20260623000068",
+  "https://magazine.hankyung.com/business/article/202606220814b",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02755206645484672",
+  "https://www.newspim.com/news/view/20260623000071"
  ],
  "seen_titles": [
-  "[증권가로수]NH증권/KB증권/키움증권/유안타증권/마스턴운용/NH아문디운...",
-  "투자넘어상용화로레벨업…현대차그룹,BD100%자회사로피지컬AI속...",
-  "TV부품·ESL강자‘솔루엠’,AI데이터센터전력시장진출확대…차...",
-  "한성숙,‘모두의창업’정보유출에“책임통감…잘못·책임에엄정...",
-  "한성숙,'모두의창업'정보유출사과...\"피해자보호최우선과제삼을...",
-  "한성숙총리후보자,'모두의창업'정보유출공식사과",
-  "[특징주]LG그룹주,엔디비아와사업논의..동반'강세'",
-  "[속보]“보안해결”삼성전자·오픈AI역대급동맹",
   "[단독]\"에스파·뉴진스가한그룹이라니\"구글·OpenAI,초상권침해만...",
   "‘닥터섬보이’이재욱,열병앓는신예은과‘눈물그렁’포옹",
   "김도영“연패안돼”⋯KIA대역전승이끈한마디",
@@ -6001,7 +5993,15 @@
   "삼성전자,오픈AI챗GPT·코덱스전세계조직에도입",
   "[굿모닝!글로벌뉴욕증시]AI투자대비수익성(ROI)에대한우려가증...",
   "[#IT라운지]노타'AI특화도시'·'테크포임팩트캠퍼스'종강·카카오...",
-  "최태원회장\"큰나무모여숲이룬다\"…AI인재생태계확장주력"
+  "최태원회장\"큰나무모여숲이룬다\"…AI인재생태계확장주력",
+  "넥슨,2,500억규모초기개발사투자돌입···생태계살리기총력",
+  "넥슨,2500억원규모게임투자프로그램가동...신생스타트업키운다",
+  "SK바이오팜\"韓기업신약개발,AI로지원하겠다\"",
+  "[미국특징주]오라클올해2.1만명감축…감원예상보다커",
+  "[미국특징주]\"퀄컴,AI칩스타트업모듈러인수임박\"",
+  "구글,노벨상수상자마저엔트로픽행…AI‘인재전쟁’심화",
+  "오픈AI·구글과나란히선니어스랩…‘피지컬AI’글로벌경쟁력입증",
+  "[미국특징주]컬럼비아\"기술주랠리,최소두어분기는지속\""
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,21 @@
   [
    "2026-06-23T08:14:16.178569+09:00",
    "수혜주로 피지컬AI로 부상할것 꼽혀 데이터센터"
+  ],
+  [
+   "2026-06-23T08:18:15.367001+09:00",
+   "심화 전쟁 엔트로픽행 인재 수상자마저 구글 노벨상"
+  ],
+  [
+   "2026-06-23T08:18:15.367001+09:00",
+   "입증 경쟁력 피지컬 구글과 니어스랩 나란히 글로벌"
+  ],
+  [
+   "2026-06-23T08:18:15.367001+09:00",
+   "기술주 분기는 지속 두어 컬럼비아 최소 랠리"
   ]
  ],
- "last_run": "2026-06-23T08:16:32.553326+09:00",
+ "last_run": "2026-06-23T08:18:39.714262+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
