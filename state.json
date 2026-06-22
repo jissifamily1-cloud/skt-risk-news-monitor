@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=243507",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4089317",
-  "https://www.bizhankook.com/bk/article/32546",
-  "https://www.etoday.co.kr/news/view/2593839",
-  "https://www.yna.co.kr/view/AKR20260615116000530?input=1195m",
-  "http://www.newstomato.com/ReadNews.aspx?no=1303978&inflow=N",
   "https://www.mk.co.kr/article/12074718",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=222068",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=49084",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260622000173",
   "https://www.yna.co.kr/view/AKR20260622047000017?input=1195m",
   "http://www.metroseoul.co.kr/article/20260622500049",
-  "https://www.sedaily.com/article/20058398"
+  "https://www.sedaily.com/article/20058398",
+  "https://biz.chosun.com/topics/law_firm/2026/06/22/7QYLI3XMQFCBVKIQU6AMKHNSAQ/",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574839357477",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260622.99099006292",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440890",
+  "https://www.ppss.kr/news/articleView.html?idxno=299465",
+  "https://ditoday.com/%eb%8c%80%ea%b8%b0%ec%97%85%eb%8f%84-50%ec%a0%90%eb%8c%80-%ec%97%98%eb%a6%ac%ed%8e%80%ed%8a%b8%ec%bb%b4%ed%8d%bc%eb%8b%88-%ea%b5%ad%eb%82%b4-geo-%eb%a6%ac%ed%8f%ac%ed%8a%b8-%eb%b0%9c%ea%b0%84/"
  ],
  "seen_titles": [
-  "[단독]“이혼사유까지샜다”…듀오개인정보유출손배소조정회부",
-  "개보위CU택배개인정보유출조사착수",
-  "개보위,공공기관'개인정보보호수준평가'설명회개최",
-  "쿠팡때린과징금6200억은서막일뿐,아직줄줄이남았다",
-  "개인정보위,CU택배개인정보유출조사착수",
-  "개보위,싱가포르·홍콩과'개인정보불법유통'공동대응",
   "개보위,싱가포르·홍콩과AI개인정보협력강화",
   "법무법인지평,개보위출신박성임변호사영입",
   "지평,개보위출신박성임변호사영입",
@@ -6001,7 +5995,13 @@
   "한성숙총리후보자\"모두의창업정보유출책임통감…이용자께사과\"",
   "[테크스냅]KT엠모바일,AI가요금제추천해준다",
   "[특징주]LG전자,엔비디아와협력기대감에9%급등",
-  "‘클로드미토스5’운영중단사태끝나나…트럼프,앤스로픽에유화적..."
+  "‘클로드미토스5’운영중단사태끝나나…트럼프,앤스로픽에유화적...",
+  "법무법인광장,개인정보보호법개정쟁점세미나개최",
+  "\"AI가먹는전기,LG엔솔이책임진다\"…유럽서데이터센터배터리기반...",
+  "한성숙,‘모두의창업’정보유출에“진심으로사과”",
+  "\"고객AX이끌AI스타트업찾는다\"···KT,'K-PATH2026'공모시작",
+  "\"13년만의귀환\"...손석희,MBC라디오낮12시책임진다",
+  "\"대기업도50점대\"엘리펀트컴퍼니,국내GEO리포트발간"
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,13 @@
   [
    "2026-06-22T10:06:16.693125+09:00",
    "사태 운영 트럼프 미토스5 끝나나 유화적 중단 클로드 앤스로픽에"
+  ],
+  [
+   "2026-06-22T10:08:15.390898+09:00",
+   "50점대 GEO 발간 대기업도 엘리펀트컴퍼니 국내 리포트"
   ]
  ],
- "last_run": "2026-06-22T10:06:37.688739+09:00",
+ "last_run": "2026-06-22T10:08:37.631404+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6640,6 +6644,7 @@
   "bizwork.co.kr": "비즈워크",
   "lawleader.co.kr": "로리더",
   "iminju.net": "민주신문",
-  "tenasia.co.kr": "텐아시아"
+  "tenasia.co.kr": "텐아시아",
+  "ditoday.com": "ditoday.com"
  }
 }
