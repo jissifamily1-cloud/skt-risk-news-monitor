@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/06/22/2026062200074.html",
-  "http://www.babytimes.co.kr/news/articleView.html?idxno=73346",
-  "http://www.segyebiz.com/newsView/20260622505028?OutUrl=naver",
-  "https://zdnet.co.kr/view/?no=20260622101314",
-  "https://www.mt.co.kr/tech/2026/06/22/2026062210010472384",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5032792",
-  "https://news.tf.co.kr/read/economy/2334954.htm",
-  "https://zdnet.co.kr/view/?no=20260622101614",
-  "https://www.theguru.co.kr/news/article.html?no=103377",
-  "http://www.joseilbo.com/news/news_read.php?uid=570459&class=78",
-  "https://zdnet.co.kr/view/?no=20260622094015",
   "http://enews.imbc.com/News/RetrieveNewsInfo/509043",
   "https://www.tokenpost.kr/news/breaking/371169",
   "https://www.bizhankook.com/bk/article/32586",
@@ -2999,20 +2988,20 @@
   "https://www.ajunews.com/view/20260623081523411",
   "https://www.dailysecu.com/news/articleView.html?idxno=207269",
   "https://www.etoday.co.kr/news/view/2596163",
-  "https://www.insight.co.kr/news/559691"
+  "https://www.insight.co.kr/news/559691",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=80182",
+  "https://magazine.hankyung.com/business/article/202606220550b",
+  "https://zdnet.co.kr/view/?no=20260622174951",
+  "https://biz.sbs.co.kr/article_hub/20000318159?division=NAVER",
+  "https://economist.co.kr/article/view/ecn202606220027",
+  "https://www.yna.co.kr/view/AKR20260623026400008?input=1195m",
+  "https://www.ajunews.com/view/20260623082713432",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390041.html",
+  "https://www.cstimes.com/news/articleView.html?idxno=710677",
+  "https://magazine.hankyung.com/business/article/202606231823b",
+  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402191"
  ],
  "seen_titles": [
-  "TSMC생산능력한계에인텔가세…삼성전자,파운드리수주전'2라운드...",
-  "신한카드,금융사고제로(Zero)상신설·1호직원포상",
-  "‘모두의창업’정보유출…한성숙장관“책임통감…신뢰져버렸다...",
-  "지슨,해군에무선보안솔루션'알파-H'선봬",
-  "\"오픈AI역대최대규모\"삼성전자전세계임직원,오늘부터챗GPT로일...",
-  "OpenAI·앤트로픽IPO출격…스페이스X넘어설까",
-  "GS건설,글로벌투자사와3조규모신재생에너지개발사업추진",
-  "HNIX-맨텍솔루션,컨테이너플랫폼기반클라우드전환가속'맞손'",
-  "ASML,극자외선노광장비중국판매전면부인",
-  "HBM수요,中GLM-5.2등장으로고객구도변화가능성",
-  "20년간IT시스템지킨'MCCS'…맨텍솔루션,AI시대무중단운영이끈다",
   "\"AI가내인생망쳤다\"…'PD수첩',다정함뒤숨은위험추적",
   "OpenAI,생명과학연구용AI평가기준공개",
   "[가장보통의투자]삼성닉스투자자가마이크론만쳐다보는이유",
@@ -6001,7 +5990,18 @@
   "최태원\"큰나무가모여숲이룬다\"…AI시대인재생태계확장",
   "오픈AI,사이버방어'데이브레이크'확대…취약점탐지부터패치까지...",
   "알파벳,구글AI임원들오픈AI·앤스로픽이직에5%급락[뉴욕증시무...",
-  "최태원회장,장학생넘어신진학자까지...AI시대'인재숲'키운다"
+  "최태원회장,장학생넘어신진학자까지...AI시대'인재숲'키운다",
+  "재건축대전환기맞은목동,30조정비사업속신규주거공급도기지개",
+  "와이즈버즈,클리오와북미대상챗GPT광고집행…AI마케팅역량강화",
+  "\"AI시대기업경쟁력,'데이터신뢰도'에서판가름\"",
+  "보건산업진흥원\"아스트라제네카-국내바이오텍협력확대\"",
+  "와이즈버즈,북미ChatGPT광고집행…K뷰티‘클리오’캠페인전개",
+  "메리츠,두산목표가↑…\"2분기영업익47%증가전망\"",
+  "메리츠證\"두산,광모듈용CCL성장본격화…목표주가260만원\"",
+  "[아이온의AI:온]\"상상만하면돼\"…생각이곧명령인시대",
+  "최태원SK회장\"큰나무가모여숲을이룬다\"…AI인재육성강화",
+  "최태원\"AI시대인재,나무처럼자라숲을이루길\"",
+  "와이즈버즈-클리오,북미오픈AI의챗GPT광고집행"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-06-23T08:30:35.142760+09:00",
    "방어 데이브레이크 패치까지 확대 탐지부터 사이버 취약점"
+  ],
+  [
+   "2026-06-23T08:32:15.152659+09:00",
+   "오픈AI의 북미 와이즈버즈 클리오 집행 챗GPT 광고"
   ]
  ],
- "last_run": "2026-06-23T08:30:59.385473+09:00",
+ "last_run": "2026-06-23T08:32:42.242069+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6650,6 +6654,7 @@
   "rightknow.co.kr": "알티케이뉴스",
   "medigatenews.com": "medigatenews.com",
   "ftoday.co.kr": "파이낸셜투데이",
-  "taxtimes.co.kr": "한국세정신문"
+  "taxtimes.co.kr": "한국세정신문",
+  "forbeskorea.co.kr": "포브스코리아(Forbes Korea)"
  }
 }
