@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260611500065",
-  "http://www.srtimes.kr/news/articleView.html?idxno=205030",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=203289",
   "http://www.finomy.com/news/articleView.html?idxno=255521",
   "https://biz.sbs.co.kr/article_hub/20000315608?division=NAVER",
   "https://www.chosun.com/economy/money/2026/06/10/R5UBLNXSVJFYTOFVWPEHC5XKDQ/",
@@ -2999,12 +2996,12 @@
   "https://www.mydaily.co.kr/page/view/2026062210460496632",
   "https://www.thepublic.kr/news/articleView.html?idxno=308571",
   "https://www.businessplus.kr/news/articleView.html?idxno=113159",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3614439"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3614439",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=304819",
+  "https://www.yna.co.kr/view/AKR20260622104000017?input=1195m",
+  "https://www.koreatimes.co.kr/path/A2026062214070001991"
  ],
  "seen_titles": [
-  "속도붙은재계‘AI전환’…삼성전자도외부생성형AI도입",
-  "삼성전자,외부생성형AI3종도입…AX본격화",
-  "삼성전자,반도체부터AX본격시동…외부생성형AI도입",
   "\"외양간'잘'고쳐야\"SKT'프로젝트글래스윙'합류,고객신뢰회복'속...",
   "[직설]코스피급등락에역대급변동성…일희일비장세속주의할것은...",
   "美스페이스X·오픈AI,中CXMT·유니트리...‘IPO대어’줄줄이출격,...",
@@ -6001,7 +5998,10 @@
   "‘몸값30조’보스턴다이내믹스품는현대차그룹…IPO채비본격화",
   "LG전자·디스플레이·이노텍올해매출역대최대전망…\"엔비디아협력...",
   "[LG로봇의삼각편대/上]로봇의'척추'직접만든다",
-  "장유빈,연속우승으로제네시스포인트1위등극…10개대회연속1위..."
+  "장유빈,연속우승으로제네시스포인트1위등극…10개대회연속1위...",
+  "LG그룹,AI동맹'엔비디아'에실무진30명방문…재계서'처음'",
+  "AX국가전략머리맞댄다…과기·경제자문회의첫공동심포지엄",
+  "OpenAIlandsSamsungasmajorChatGPTEnterprisecustomer"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,21 @@
   [
    "2026-06-22T14:44:15.104140+09:00",
    "직접 로봇의 척추 만든다"
+  ],
+  [
+   "2026-06-22T14:46:16.429855+09:00",
+   "맞댄다 AX 국가전략 과기 심포지엄 공동 경제자문회의 머리"
+  ],
+  [
+   "2026-06-22T14:46:16.429855+09:00",
+   "ChatGPT Samsung lands Enterprise as customer major"
+  ],
+  [
+   "2026-06-22T14:46:16.429855+09:00",
+   "실무진 방문 30명 LG그룹 동맹 처음 재계서"
   ]
  ],
- "last_run": "2026-06-22T14:44:45.486582+09:00",
+ "last_run": "2026-06-22T14:46:39.740486+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
