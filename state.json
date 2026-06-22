@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://enews.imbc.com/News/RetrieveNewsInfo/509043",
-  "https://www.tokenpost.kr/news/breaking/371169",
-  "https://www.bizhankook.com/bk/article/32586",
-  "https://www.bloter.net/news/articleView.html?idxno=665922",
   "https://sateconomy.co.kr/news/view/1065572945968582",
   "https://view.asiae.co.kr/article/2026062210164764061",
   "https://www.epnc.co.kr/news/articleView.html?idxno=403302",
@@ -2999,13 +2995,13 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390041.html",
   "https://www.cstimes.com/news/articleView.html?idxno=710677",
   "https://magazine.hankyung.com/business/article/202606231823b",
-  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402191"
+  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402191",
+  "https://www.seoultimes.news/news/article.html?no=2000096909",
+  "https://www.theguru.co.kr/news/article.html?no=103421",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02840486645484672",
+  "https://www.aitimes.kr/news/articleView.html?idxno=40623"
  ],
  "seen_titles": [
-  "\"AI가내인생망쳤다\"…'PD수첩',다정함뒤숨은위험추적",
-  "OpenAI,생명과학연구용AI평가기준공개",
-  "[가장보통의투자]삼성닉스투자자가마이크론만쳐다보는이유",
-  "[디깅노트]'스페이스X0주배정'이한국자본시장에끼얹은찬물",
   "롯데카드,정보유출제재막판심사…영업정지유지될까",
   "ETRI,양자내성암호공동인증서'시험·검증'기반마련",
   "SKT,대학생협업고객서비스혁신…아이디어발굴프로젝트진행",
@@ -6001,7 +5997,11 @@
   "[아이온의AI:온]\"상상만하면돼\"…생각이곧명령인시대",
   "최태원SK회장\"큰나무가모여숲을이룬다\"…AI인재육성강화",
   "최태원\"AI시대인재,나무처럼자라숲을이루길\"",
-  "와이즈버즈-클리오,북미오픈AI의챗GPT광고집행"
+  "와이즈버즈-클리오,북미오픈AI의챗GPT광고집행",
+  "[뉴스앤데이터]주가3배뛰었지만주주친화50점…코스피9000시대의...",
+  "공모안하길잘했나…스페이스X주가급락에시총900조이상증발",
+  "삼성전자,HBM4매출10억달러돌파…점유율확대나선다",
+  "엔비디아,유럽에AI슈퍼컴퓨터35대구축…300만연구자위한'AI과학..."
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,13 @@
   [
    "2026-06-23T08:32:15.152659+09:00",
    "오픈AI의 북미 와이즈버즈 클리오 집행 챗GPT 광고"
+  ],
+  [
+   "2026-06-23T08:34:15.721904+09:00",
+   "35대 300만 연구자 슈퍼컴퓨터 위한 유럽에 과학 구축"
   ]
  ],
- "last_run": "2026-06-23T08:32:42.242069+09:00",
+ "last_run": "2026-06-23T08:34:44.893430+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6655,6 +6659,7 @@
   "medigatenews.com": "medigatenews.com",
   "ftoday.co.kr": "파이낸셜투데이",
   "taxtimes.co.kr": "한국세정신문",
-  "forbeskorea.co.kr": "포브스코리아(Forbes Korea)"
+  "forbeskorea.co.kr": "포브스코리아(Forbes Korea)",
+  "aitimes.kr": "인공지능신문"
  }
 }
