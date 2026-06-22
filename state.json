@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/life/2026/06/22/20260622500047?wlog_tag3=naver",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440899",
-  "https://www.gosiweek.com/article/1065575166177667",
-  "http://www.fins.co.kr/news/articleView.html?idxno=108890",
-  "https://www.slist.kr/news/articleView.html?idxno=746814",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=824034",
-  "https://thetracker.co.kr/View.aspx?No=4120412",
-  "https://www.newscj.com/news/articleView.html?idxno=3411001",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3614095",
-  "https://zdnet.co.kr/view/?no=20260622093852",
   "https://news.tf.co.kr/read/economy/2334946.htm",
   "https://view.asiae.co.kr/article/2026062210124293622",
   "https://sports.donga.com/ent/article/all/20260622/134155046/1",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2596160",
   "https://www.hankyung.com/article/2026062317167",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440041",
-  "https://www.newspim.com/news/view/20260623000087"
+  "https://www.newspim.com/news/view/20260623000087",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390037.html",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606230211&t=NN",
+  "https://www.dailian.co.kr/news/view/1658672/?sc=Naver",
+  "https://www.etoday.co.kr/news/view/2596162",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02807686645484672",
+  "http://coinreaders.com/243842",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606230204&t=NN",
+  "https://www.viva100.com/article/20260622501017",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606230201&t=NN",
+  "https://www.etoday.co.kr/news/view/2596165"
  ],
  "seen_titles": [
-  "JTBC사장출신손석희,DJ로복귀한다…13년만에MBC라디오진행",
-  "콜게이트,한화손보에실시간자막형ARS'WAVECaption'오픈",
-  "우간다교사위한무료수학수업자료플랫폼‘오픈플랫’공개",
-  "DB생명,임직원업무용AI포털서비스'DBAI'2단계오픈",
-  "[딥테크]긴트,'인니스마트팩토리도입사업'外",
-  "손석희,13년만에MBC라디오복귀…'손석희의12시'신설[공식]",
-  "SK텔레콤,대학생과‘고객눈높이’서비스만든다",
-  "'닥터섬보이'이재욱,또다시과거상처마주하나…신예은과눈물의...",
-  "대구광역시,2027세계대사체총회국내첫유치...40개국1500명집결",
-  "\"토큰얼마나썼나\"한눈에…깃허브,AI사용량관리기능확대",
   "유안타증권,AI맞춤형투자정보서비스'AIPB'출시",
   "에스오에스랩,창립10주년맞아'100배혁신연결'비전선포",
   "손석희,13년만에MBC돌아온다…‘손석희의12시’신설",
@@ -6001,7 +5991,17 @@
   "뉴욕증시,스페이스X부진에혼조…유가,평화협상진전에급락[글로벌...",
   "트럼프,양자컴행정명령서명…\"2028년실용화·2031년보안완료\"",
   "최태원\"큰나무가모여숲을이룬다\"...인재생태계키운다",
-  "[모닝리포트]\"LG유플러스,2분기실적·주주환원기대…7월주가반등..."
+  "[모닝리포트]\"LG유플러스,2분기실적·주주환원기대…7월주가반등...",
+  "[뉴스뷰]미토스사태,AI시장파장은?",
+  "밴스\"이란,IAEA활동수용\"...무박2일18시간협상만족-[굿모닝글로...",
+  "넥슨,5년간2500억투자…초기게임사육성나선다",
+  "[증시키워드]SK하이닉스,단일종목시총1위에주목도↑…LG전자,엔비...",
+  "SK하이닉스,프리마켓서사상첫300만원돌파[특징주]",
+  "오픈AI,선상장선물14%급등...스페이스X(SPCX)식IPO광풍재현하나?",
+  "'AI피해주'에서'오픈AI파트너'로…게티이미지,챗GPT콘텐츠공급에...",
+  "[오늘의브릿지경제1면]우체국대출시대,법적책임은은행에…조건...",
+  "빅테크약세에뉴욕증시혼조마감-[글로벌마감시황]",
+  "최태원\"AI시대인재는연결과협력이핵심\"…한국고등교육재단,신진..."
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,33 @@
   [
    "2026-06-23T08:26:17.409659+09:00",
    "7월 반등 2분기 주가 기대 실적 주주환원 LG유플러스"
+  ],
+  [
+   "2026-06-23T08:28:15.865100+09:00",
+   "사태 미토스 파장은 AI시장"
+  ],
+  [
+   "2026-06-23T08:28:15.865100+09:00",
+   "신진 한국고등교육재단 협력이 인재는 시대 연결과 핵심"
+  ],
+  [
+   "2026-06-23T08:28:15.865100+09:00",
+   "재현하나 급등 IPO 선상장 SPCX 스페이스X 광풍 선물"
+  ],
+  [
+   "2026-06-23T08:28:15.865100+09:00",
+   "공급에 파트너 피해주 챗GPT 게티이미지 콘텐츠 에서"
+  ],
+  [
+   "2026-06-23T08:28:15.865100+09:00",
+   "빅테크 마감 뉴욕증시 약세에 혼조"
+  ],
+  [
+   "2026-06-23T08:28:15.865100+09:00",
+   "은행에 시대 조건 우체국 대출 책임은 법적"
   ]
  ],
- "last_run": "2026-06-23T08:26:35.472096+09:00",
+ "last_run": "2026-06-23T08:28:52.849669+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
