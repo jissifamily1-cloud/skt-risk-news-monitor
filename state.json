@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.itdaily.kr/news/articleView.html?idxno=239919",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268082",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=386428",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=199417",
-  "http://www.techholic.co.kr/news/articleView.html?idxno=221703",
-  "https://www.dailian.co.kr/news/view/1656826/?sc=Naver",
   "https://www.sjsori.com/news/articleView.html?idxno=86804",
   "https://www.dailian.co.kr/news/view/1656862/?sc=Naver",
   "http://www.srtimes.kr/news/articleView.html?idxno=205406",
@@ -2999,15 +2993,15 @@
   "https://www.dailian.co.kr/news/view/1658452/?sc=Naver",
   "https://www.newspim.com/news/view/20260622000724",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606220136&t=NN",
-  "https://www.newspim.com/news/view/20260622000695"
+  "https://www.newspim.com/news/view/20260622000695",
+  "https://www.thepublic.kr/news/articleView.html?idxno=308256",
+  "https://byline.network/?p=9004111222608088",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=199447",
+  "http://www.metroseoul.co.kr/article/20260622500332",
+  "https://www.cstimes.com/news/articleView.html?idxno=710608",
+  "https://www.chosun.com/economy/tech_it/2026/06/22/RSCQNUCHUNDJNETYE5TAPDDJLA/"
  ],
  "seen_titles": [
-  "SKT,서울대석학과독자AI파운데이션모델선행연구기반세미나개최",
-  "SK텔레콤,독자AI모델세미나개최…산학협력본격화",
-  "KB금융·서울신용보증재단·SK텔레콤,소상공인빅데이터협력MOU체결",
-  "[통신·유통레이더]SKT·우아한형제들·풀무원식품,'동반성장'위한...",
-  "SKT·KB국민은행·KB국민카드·서울신보,소상공인위한민관데이터연...",
-  "하이닉스ADR에앤트로픽IPO까지…SK스퀘어·SKT'줄경사'",
   "\"동거녀냐,상간녀냐\"…최태원·노소영보도둘러싼용어논란재점화(...",
   "16만원→70만원…SK주가에셈법복잡해진최태원·노소영",
   "최태원·노소영,2년2개월만의대면에도재산분할조정결렬…26일법정...",
@@ -6001,7 +5995,13 @@
   "이찬진금감원장\"증시과열·레버리지ETF위험주시…보험사기범정부...",
   "달파,글로벌AI벤치마크3관왕…구글·오픈AI제쳤다",
   "이찬진,스페이스X사태\"어처구니없어\"…레버리지ETF도'직격'",
-  "\"노타,엔비디아·ARM레퍼런스확보…글로벌AI시장공략\"-미래에셋..."
+  "\"노타,엔비디아·ARM레퍼런스확보…글로벌AI시장공략\"-미래에셋...",
+  "\"서울대석학에게듣다\"…SKT,독파모선행연구기반세미나개최",
+  "SKT,독파모선행연구기반세미나개최",
+  "[더밸류브리핑]오늘의KB금융그룹소식...빅데이터협약·청년취업프...",
+  "SK바이오팜,인실리코와최대3.9조규모AI기반CNS신약개발",
+  "DB생명,AI포털서비스'DBAI'2단계오픈…업무혁신속도",
+  "해킹신고3주...피해규모도특정못한티빙"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,13 @@
   [
    "2026-06-22T15:04:18.948306+09:00",
    "ARM 글로벌 확보 미래에셋 레퍼런스 시장 노타 공략"
+  ],
+  [
+   "2026-06-22T15:06:18.493760+09:00",
+   "규모도 티빙 특정 못한 3주 신고 피해"
   ]
  ],
- "last_run": "2026-06-22T15:04:42.794946+09:00",
+ "last_run": "2026-06-22T15:06:36.290476+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
