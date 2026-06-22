@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000317823?division=NAVER",
-  "https://www.sedaily.com/article/20058165",
-  "https://www.news2day.co.kr/article/20260621500005",
-  "https://zdnet.co.kr/view/?no=20260621092655",
-  "https://www.yna.co.kr/view/AKR20260620023500017?input=1195m",
-  "https://www.etnews.com/20260619000218",
-  "https://www.etnews.com/20260618000491",
-  "https://www.etoday.co.kr/news/view/2595612",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16104709",
   "http://www.yonhapnewstv.co.kr/news/AKR20260621093141YJU",
   "https://view.asiae.co.kr/article/2026062109311916847",
   "http://www.kwangju.co.kr/article.php?aid=1782001800800310026",
@@ -2999,18 +2990,18 @@
   "https://www.viva100.com/article/20260622500784",
   "https://www.sentv.co.kr/article/view/sentv202606220117",
   "https://theopiniontimes.news/%ec%93%b0%eb%8d%98-%eb%8c%80%eb%a1%9c-%eb%91%90%eb%a9%b4-%ed%86%b5%ec%8b%a0%ec%82%ac-%eb%b0%98%ec%b9%9910%ec%9b%94%eb%b6%80%ed%84%b0-skt%c2%b7kt%c2%b7lgu-%ec%b5%9c%ec%a0%81%ec%9a%94/",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677177"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677177",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4090538",
+  "https://biz.chosun.com/industry/industry_general/2026/06/22/FQIOAK5E3RH2LJ3XPR7FEPKLDM/",
+  "https://www.dailian.co.kr/news/view/1658520/?sc=Naver",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=238692",
+  "https://kr.aving.net/news/articleView.html?idxno=1811855",
+  "https://www.biotimes.co.kr/news/articleView.html?idxno=32606",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=757933",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03926166645484344",
+  "https://www.dt.co.kr/article/12068842"
  ],
  "seen_titles": [
-  "[재계인사이드]삼성이재용과SK최태원의AI전략‘차이’",
-  "KT,미래네트워크보안구상‘E2E퀀텀시큐리티’공개",
-  "[AI위클리]AI경쟁시대,한국은왜더불안해하나",
-  "티빙개인정보유출규모혼선…“조사아직진행중”",
-  "“통신기반시설보안구멍막는다”…아이피로드,교통신호기·과속카...",
-  "KT,양자시대대비한미래보안구상‘E2E퀀텀시큐리티’공개",
-  "삼성전자,TSMC병목속빅테크수주확대시험대",
-  "삼성전자,전략회의서HBM판매확대방안논의…장기공급계약점검",
-  "SKT,보안·네트워크AX인재키운다…교육비전액지원",
   "우주식민지화1초늦으면100조명사망?",
   "KT,미래네트워크보안청사진‘E2E퀀텀시큐리티’제시",
   "[오늘의일정]6월21일일요일스포츠경기",
@@ -6001,7 +5992,16 @@
   "[테크리뷰㉜]“답이귓가로들리네”⋯‘메타AI글래스’써보니",
   "코스피,9100선도접수…SK하이닉스시총1위등극",
   "\"쓰던대로두면통신사반칙\"…10월부터SKT·KT·LGU+'최적요금고지...",
-  "\"케이블TV정책타이밍놓치면제2의JTBC사태올것\""
+  "\"케이블TV정책타이밍놓치면제2의JTBC사태올것\"",
+  "조선시대정보전쟁의기록...'징비록'과'간양록'이주는안보교훈",
+  "[인터뷰]“코파일럿,멀티모델전략…AI효과요인67%는조직에있어...",
+  "SK바이오팜,'생성형AI'로CNS신약캔다",
+  "[의료기기업계소식]6월22일",
+  "데이오프스튜디오,AFPRO2026서아티장홈프래그런스'아일랜드토모라...",
+  "파로스아이바이오,캅스바이오와AI·TPD결합차세대메닌저해제개발...",
+  "이찬진금감원장\"단일종목레버리지상품은삶을피폐하게해…증권사...",
+  "잘나가는아우덕에…하이닉스앞지르는'지주사'의이유있는급등세",
+  "LG유플러스“AI,비용절감아닌고객경험개선도구”"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,17 @@
   [
    "2026-06-22T16:10:27.500883+09:00",
    "사태 JTBC 제2의 놓치면 케이블TV 타이밍 정책"
+  ],
+  [
+   "2026-06-22T16:12:20.698492+09:00",
+   "하이닉스 덕에 급등세 지주사 있는 이유 나가는 아우 앞지르는"
+  ],
+  [
+   "2026-06-22T16:12:20.698492+09:00",
+   "개선 고객 절감 비용 아닌 경험 도구 LG유플러스"
   ]
  ],
- "last_run": "2026-06-22T16:10:57.620947+09:00",
+ "last_run": "2026-06-22T16:12:42.196052+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
