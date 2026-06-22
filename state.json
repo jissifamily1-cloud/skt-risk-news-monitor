@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://sateconomy.co.kr/news/view/1065572945968582",
-  "https://view.asiae.co.kr/article/2026062210164764061",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403302",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421151",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40611",
-  "https://www.newspim.com/news/view/20260622000280",
-  "https://www.etnews.com/20260622000143",
   "https://www.seoulfn.com/news/articleView.html?idxno=631597",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606220946036800107828",
   "https://www.segye.com/newsView/20260618515822?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.seoultimes.news/news/article.html?no=2000096909",
   "https://www.theguru.co.kr/news/article.html?no=103421",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02840486645484672",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40623"
+  "https://www.aitimes.kr/news/articleView.html?idxno=40623",
+  "http://www.dtnews24.com/news/articleView.html?idxno=812592",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=77059",
+  "https://www.sidae.com/article/2026062308305352679",
+  "https://www.bloter.net/news/articleView.html?idxno=665922",
+  "https://www.news2day.co.kr/article/20260623500027",
+  "https://biz.chosun.com/stock/stock_general/2026/06/23/MHWT66GADBA7BPTQVJTZZNMX2I/",
+  "https://www.hankyung.com/article/202606231648i"
  ],
  "seen_titles": [
-  "롯데카드,정보유출제재막판심사…영업정지유지될까",
-  "ETRI,양자내성암호공동인증서'시험·검증'기반마련",
-  "SKT,대학생협업고객서비스혁신…아이디어발굴프로젝트진행",
-  "채권·외환시장큰손으로떠오른SK하이닉스…김우현CFO는누구",
-  "고객AX함께이끌AI스타트업찾는다...KT,'K-PATH2026'공모시작",
-  "KB증권,금융보안원생성형AI보안대책평가통과",
-  "리얼월드,로봇손분석플랫폼'올핸즈업!'공개",
   "구글,AI핵심인재줄이탈···AI경쟁력공백우려",
   "[더벨][i-point]창립10주년맞은에스오에스랩,'100배혁신'비전선포",
   "韓·美공모제도차이로‘제2스페이스X사태’우려",
@@ -6001,7 +5994,14 @@
   "[뉴스앤데이터]주가3배뛰었지만주주친화50점…코스피9000시대의...",
   "공모안하길잘했나…스페이스X주가급락에시총900조이상증발",
   "삼성전자,HBM4매출10억달러돌파…점유율확대나선다",
-  "엔비디아,유럽에AI슈퍼컴퓨터35대구축…300만연구자위한'AI과학..."
+  "엔비디아,유럽에AI슈퍼컴퓨터35대구축…300만연구자위한'AI과학...",
+  "더위먹은독수리들,지혜로운엔트리운영절실",
+  "아스트라제네카-K바이오협력첫결실…주인공은갤럭스·에즈큐리스",
+  "삼성전자,HBM4매출업계최초10억달러돌파…양산4개월만",
+  "[디깅노트]'스페이스X0주배정'이한국자본시장에끼얹은찬물",
+  "[재계인사이드]시가총액과매출,기업순위따지는기준은?",
+  "교보證“LG전자,2분기영업익1.5조원전망…목표가35만원”",
+  "스페이스X·빅테크주투매확대...美반도체·금융주목"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,21 @@
   [
    "2026-06-23T08:34:15.721904+09:00",
    "35대 300만 연구자 슈퍼컴퓨터 위한 유럽에 과학 구축"
+  ],
+  [
+   "2026-06-23T08:36:15.749990+09:00",
+   "기업순위 시가총액과 기준은 매출 따지는"
+  ],
+  [
+   "2026-06-23T08:36:15.749990+09:00",
+   "LG전자 목표가 35만원 2분기 5조원 영업익 전망 교보"
+  ],
+  [
+   "2026-06-23T08:36:15.749990+09:00",
+   "빅테크주 스페이스X 반도체 금융 확대 주목 투매"
   ]
  ],
- "last_run": "2026-06-23T08:34:44.893430+09:00",
+ "last_run": "2026-06-23T08:36:40.746848+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
