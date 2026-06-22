@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=545051",
-  "https://www.ajunews.com/view/20260617164154516",
-  "https://www.gpkorea.com/news/articleView.html?idxno=143932",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065582197928605",
-  "https://www.businessplus.kr/news/articleView.html?idxno=113119",
-  "https://www.newscj.com/news/articleView.html?idxno=3410876",
-  "https://www.inews365.com/news/article.html?no=924090",
   "https://www.cctoday.co.kr/news/articleView.html?idxno=2231901",
   "https://www.mt.co.kr/industry/2026/06/21/2026061916030028000",
   "https://www.seoultimes.news/news/article.html?no=2000096844",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12080147",
   "https://www.hankyung.com/article/2026062210931",
   "http://www.popcornnews.net/news/articleView.html?idxno=124364",
-  "https://www.aitimes.com/news/articleView.html?idxno=211992"
+  "https://www.aitimes.com/news/articleView.html?idxno=211992",
+  "https://news.mtn.co.kr/news-detail/2026061814192062157",
+  "http://www.itdaily.kr/news/articleView.html?idxno=239984",
+  "https://www.koreaherald.com/article/10782899",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4420754",
+  "http://www.itdaily.kr/news/articleView.html?idxno=239982",
+  "https://www.ddaily.co.kr/page/view/2026062217312764784",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=263500"
  ],
  "seen_titles": [
-  "르노코리아,넥스트라이즈서AI차량비서공개…스타트업협업확대",
-  "양자시대앞둔KT,보안판다시짠다…'E2E퀀텀시큐리티'출격",
-  "\"투자자들,데이터센터붐의둔화우려\"",
-  "\"리멤버·SK쉴더스삼킨EQT…개인정보위,9개월째조사중\"",
-  "KT&G,렉시스넥시스'글로벌100대혁신기업'4년연속선정",
-  "수백만원건네며\"사업추진협조해달라\"청탁",
-  "\"반도체용웨이퍼부족하다는데\"..'실트론'매각못접는SK,왜?",
   "KT,AI·양자시대대비미래보안청사진공개",
   "삼성전자,글로벌전략회의서HBM·장기공급계약전략점검",
   "마이크론실적앞두고달라진시선…'포스트HBM'수혜주는?",
@@ -6001,7 +5994,14 @@
   "[단독]“순혈주의가밥먹여주나”...빅테크인재빨아들이는현대차그...",
   "[단독]게임사에서AI기업으로'레벨업'하는크래프톤",
   "스페이스X'0주배정'골드만삭스갑질…\"제도정비필요\"",
-  "[게시판]'SSAFY×카카오테크AI해커톤'우수팀선정등단신"
+  "[게시판]'SSAFY×카카오테크AI해커톤'우수팀선정등단신",
+  "3600억원상생안퇴짜에배민\"아쉽\"…공정위과징금수순",
+  "오픈베이스,'AIDiscovery2026세미나'개최…하이브리드AI전략제시",
+  "Korea'sUSstockboomisonlygettingstarted:Tossstrategist",
+  "트럼프,G7서AI기업CEO들과美주도글로벌AI규칙논의",
+  "AI에이전트가바꾼칩시장…\"CPU재부상\"",
+  "[DailyAI]원프레딕트,제조AI운영체계고도화",
+  "롯데카드'해킹유출'제재절차본격화…금융위,내달결론가닥"
  ],
  "recent_sigs": [
   [
@@ -6535,9 +6535,13 @@
   [
    "2026-06-22T17:32:18.348078+09:00",
    "해커톤 카카오테크 SSAFY 우수팀 단신 선정"
+  ],
+  [
+   "2026-06-22T17:34:17.803837+09:00",
+   "고도화 제조 원프레딕트 운영체계"
   ]
  ],
- "last_run": "2026-06-22T17:32:37.592957+09:00",
+ "last_run": "2026-06-22T17:34:35.989181+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
