@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1978694",
-  "https://biz.chosun.com/industry/business-venture/2026/06/22/ZC3PPK2EXZELPB63BATXFNMIF4/",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31065",
-  "https://www.mk.co.kr/article/12077466",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40622",
-  "https://www.ksmnews.co.kr/news/view.php?idx=610197",
-  "https://www.newsis.com/view/NISX20260622_0003679013",
-  "https://www.segye.com/newsView/20260622514518?OutUrl=naver",
   "http://www.bizwnews.com/news/articleView.html?idxno=139196",
   "http://www.osen.co.kr/article/G1112826726",
   "https://www.gukjenews.com/news/articleView.html?idxno=3614794",
@@ -2999,17 +2991,17 @@
   "https://www.mt.co.kr/industry/2026/06/23/2026062310114047693",
   "https://www.m-i.kr/news/articleView.html?idxno=1384484",
   "https://www.m-i.kr/news/articleView.html?idxno=1384485",
-  "https://zdnet.co.kr/view/?no=20260623143251"
+  "https://zdnet.co.kr/view/?no=20260623143251",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3615588",
+  "https://byline.network/?p=9004111222609280",
+  "https://www.sedaily.com/article/20058786",
+  "https://www.ddaily.co.kr/page/view/2026062315595483041",
+  "https://theopiniontimes.news/%ec%bd%94%ec%8a%a4%ed%94%bc-%ec%a0%84%ec%9d%bc-%eb%8c%80%eb%b9%84-10-%eb%8c%80%ed%8f%ad%eb%9d%bd8200%ec%84%a0-%ea%b0%84%ec%8b%a0%ed%9e%88-%ec%9c%a0%ec%a7%80/",
+  "https://www.eroun.net/news/articleView.html?idxno=83760",
+  "https://www.gokorea.kr/news/articleView.html?idxno=870097",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=241098"
  ],
  "seen_titles": [
-  "[데스크칼럼]취재질문에돌아온\"개보위신고\"...진옥동회장에게향...",
-  "티빙개인정보유출1953만명…정부초기추산比650만명↑",
-  "\"내것도?\"'티빙정보유출'1953만명으로늘어…역대네번째",
-  "티빙개인정보유출피해1953만명…역대4번째규모",
-  "하나은행-사단법인온율,장애인자산관리신탁및성년후견제도활성...",
-  "검은거품이그리는시간…아트센터나비한진수개인전",
-  "나델라의경고,\"소수프론티어AI기업의가치독점,지속가능하지않...",
-  "대구·경북,정보보호거점도시도약…AI로봇보안산업육성본격화",
   "\"0.495%가90%처럼\"…방미심위,알부민함량과장홈쇼핑'주의'",
   "AI발메모리수요폭증에…삼전닉스2분기도새역사‘예약’",
   "[보험사이모저모]교보생명,DB생명,동양생명등",
@@ -6001,7 +5993,15 @@
   "핑크랩,의료물류센터서피지컬AI주행형양팔로봇실증착수",
   "현대차그룹,AVP본부손질…SDV전략가속",
   "삼성SDS,엔비디아B300로공공AI인프라시장공략",
-  "'스펙2배로올려줘'...LG전자CDU엔비디아인증암초"
+  "'스펙2배로올려줘'...LG전자CDU엔비디아인증암초",
+  "충북대,멀티LLM기반AI플랫폼공식오픈…교육·연구·행정혁신기...",
+  "크리테오,국내광고주챗GPT인벤토리광고집행지원",
+  "무려‘4조원’주고데려왔는데…“얼마나대단하길래”2년만에다...",
+  "AI반도체성장에팹운영도바뀐다…디지털전환·예측최적화부상",
+  "코스피,전일대비10%대폭락…8200선간신히유지",
+  "최태원회장\"큰나무가모여숲이룬다\"...한국고등교육재단,신진학자...",
+  "최태원회장의AI인재상제시…한국고등교육재단에서의특별강연",
+  "[이슈체크]'축제'에서'참사'로...6만명몰린'모두의창업'해킹파국"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,13 @@
   [
    "2026-06-23T16:08:17.777835+09:00",
    "암초 스펙 CDU LG전자 인증 올려줘 2배로"
+  ],
+  [
+   "2026-06-23T16:10:26.591115+09:00",
+   "에서 축제 파국 모두의 참사 6만 창업 몰린"
   ]
  ],
- "last_run": "2026-06-23T16:08:42.860887+09:00",
+ "last_run": "2026-06-23T16:10:45.908966+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6827,6 +6831,7 @@
   "imaeil.com": "매일신문",
   "natv.go.kr": "대한민국 국회방송 - 국회를 국민에게, 국민을 국회로",
   "the-pr.co.kr": "The PR 더피알",
-  "iusm.co.kr": "울산매일 - 울산최초, 최고의 조간신문"
+  "iusm.co.kr": "울산매일 - 울산최초, 최고의 조간신문",
+  "sisunnews.co.kr": "시선뉴스"
  }
 }
