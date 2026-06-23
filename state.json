@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1142590",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16106312",
-  "http://www.inews24.com/view/1978489",
-  "https://www.hidomin.com/news/articleView.html?idxno=710277",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=29436",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260622130631kyo",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248499",
-  "https://www.theguru.co.kr/news/article.html?no=103392",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82395",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03325926645484344",
   "https://isplus.com/article/view/isp202606220095",
   "https://www.donga.com/news/Economy/article/all/20260622/134156306/1",
   "https://it.donga.com/109062/",
@@ -2999,19 +2989,19 @@
   "https://www.ziksir.com/news/articleView.html?idxno=137725",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=360905",
   "https://www.thereport.co.kr/news/articleView.html?idxno=88994",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164345"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092164345",
+  "https://www.youthdaily.co.kr/news/article.html?no=221454",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=268347",
+  "https://www.joongboo.com/news/articleView.html?idxno=363729471",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=212548",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=101932",
+  "https://www.mt.co.kr/thebio/2026/06/23/2026062306302125251",
+  "https://www.smartbizn.com/news/articleView.html?idxno=146793",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=127769",
+  "https://www.dailian.co.kr/news/view/1658742/?sc=Naver",
+  "https://zdnet.co.kr/view/?no=20260623084759"
  ],
  "seen_titles": [
-  "[2026테마캠퍼스/울산과학대학교]'학교안의기업부터글로벌석사까...",
-  "달파,빅테크제치고글로벌AI벤치마크3관왕기염",
-  "삼닉에서닉삼으로…SK하이닉스,삼성전자제치고시총1위등극",
-  "[투자전략]마이크론실적분수령…HBM수요에삼성전자·SK하이닉스주...",
-  "SK하이닉스,삼성전자제치고장중코스피시총1위올라",
-  "SK하이닉스,삼성전자시총추월…25년만에바뀐왕좌",
-  "SK하이닉스,장중삼성전자제치고코스피시총1위기록",
-  "SK하이닉스,삼성전자제치고시총1위…26년만에대장주교체",
-  "엔지니어부터CEO까지데려간다...빅테크,한국인재전방위영입전",
-  "엔비디아,美AI데이터센터전력인프라플랫폼'벌스'투자",
   "\"개인정보유출공포커진다\"…국내최대개인정보보호축제'개인정보...",
   "삼성전자,26년지켜온시총1위빼앗기나…장중SK하이닉스에추월당해",
   "\"시너지효과가나온다\"복귀후4G팀안타59개…카스트로5번,춤추는...",
@@ -6001,7 +5991,17 @@
   "미래에셋증권,30억이상자산가1년새3배증가",
   "李대통령,'최태원·이재용'과회동…반도체지방투자시그널",
   "최태원\"큰나무모여숲이룬다\"···인재육성확대",
-  "에듀테크업계잇단개인정보유출…보안체계도마위"
+  "에듀테크업계잇단개인정보유출…보안체계도마위",
+  "'외인농사'가가른KBO희비…상위권'미소'vsSSG'눈물'",
+  "목동,30조재건축·고급주거복합공급에기대감...\"판교·위례뛰어넘...",
+  "셀트리온,주주친화점수상위권...100점만점에73.2점",
+  "델,HPC·AI용차세대슈퍼컴서버공개",
+  "AI가지키고AI가뚫는사이버보안...'수개월단위'로빨라진다",
+  "바이오USA서AZ와맞손모색한韓기업들…미팅부터공동연구까지",
+  "\"GPT·Claude따로쓰던시대끝났다\"···카페24,AI모델통합운용인...",
+  "기술주쇼크에장중9천피'붕괴'...스마트개미'1.3조'줍줍",
+  "김정관산업부장관\"EU철강쿼터46%감축,FTA위반·보복논리로저...",
+  "니어스랩\"방산용드론체계통합추진\""
  ],
  "recent_sigs": [
   [
@@ -6691,9 +6691,13 @@
   [
    "2026-06-23T10:12:15.312553+09:00",
    "뚫린다 초비상 수개월 정보국 서방 방어벽"
+  ],
+  [
+   "2026-06-23T10:18:15.926912+09:00",
+   "드론체계 니어스랩 방산용 통합"
   ]
  ],
- "last_run": "2026-06-23T10:16:32.109406+09:00",
+ "last_run": "2026-06-23T10:18:35.411729+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
