@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=166961",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6935056",
   "https://www.pennmike.com/news/articleView.html?idxno=122544",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154624",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=271803",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20260623168300030?input=1195m",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51035",
   "https://www.seoul.co.kr/news/economy/securities/2026/06/24/20260624500007?wlog_tag3=naver",
-  "https://biz.sbs.co.kr/article_hub/20000318436?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000318436?division=NAVER",
+  "https://www.seoultimes.news/news/article.html?no=2000096836",
+  "https://www.mt.co.kr/world/2026/06/24/2026062406063743863"
  ],
  "seen_titles": [
-  "美나스닥지수급락에도...코스피,장초반'상승전환'",
-  "스페이스XIPO0주배정논란…코리아패싱과제도적한계남겼다",
   "[로렌스펙의자유전선]6월워싱턴서친북로비대잔치…한미보수는...",
   "최태원회장,\"큰나무가되어함께성장하는숲만들어달라\"",
   "서남선추진과엔비디아R&D센터건립기대감↑이목쏠리는마곡일대",
@@ -6001,7 +5999,9 @@
   "중기부,개인정보유출에\"노출됐다\"브리핑…책임축소지적",
   "정재헌SK텔레콤대표,ESG경영으로실적회복잰걸음",
   "[서울데이터랩]미국증시,기술주·반도체급락에약세출발…나스닥2...",
-  "블룸버그\"韓AI주급락에레버리지ETF시장주목\""
+  "블룸버그\"韓AI주급락에레버리지ETF시장주목\"",
+  "[CEO위클리]\"르망과바티칸그리고데이터센터\"…재계리더들의미래...",
+  "AI거품론에반도체주폭락…나스닥2.2%↓[뉴욕마감]"
  ],
  "recent_sigs": [
   [
@@ -6125,7 +6125,7 @@
    "모닝 패권 붙었다 전쟁 양자컴퓨터로 글로벌 이번엔 기술"
   ]
  ],
- "last_run": "2026-06-24T06:14:35.227693+09:00",
+ "last_run": "2026-06-24T06:16:35.619586+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
