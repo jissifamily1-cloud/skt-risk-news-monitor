@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677042",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=240969",
-  "https://biz.heraldcorp.com/article/10783770",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000044178",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3614227",
-  "https://www.tokenpost.kr/news/breaking/371316",
-  "https://www.yna.co.kr/view/AKR20260622072500030?input=1195m",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4090468",
-  "https://biz.heraldcorp.com/article/10783776",
-  "https://biz.heraldcorp.com/article/10783771",
   "https://www.cstimes.com/news/articleView.html?idxno=710579",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=402929",
   "https://news.tf.co.kr/read/economy/2334999.htm",
@@ -2999,19 +2989,19 @@
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=250624",
   "https://www.inthenews.co.kr/news/article.html?no=88371",
   "https://www.it-b.co.kr/news/articleView.html?idxno=88774",
-  "https://www.etoday.co.kr/news/view/2596225"
+  "https://www.etoday.co.kr/news/view/2596225",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03257046645484672",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=781280",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421329",
+  "http://www.beyondpost.co.kr/view.php?ud=20260623093707410946a9e4dd7f_30",
+  "https://www.yna.co.kr/view/AKR20260623024351005?input=1195m",
+  "https://www.kyeonggi.com/article/20260623580051",
+  "https://www.newsis.com/view/NISX20260618_0003674907",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03253766645484672",
+  "https://www.mt.co.kr/tech/2026/06/23/2026062309022663038",
+  "http://www.joseilbo.com/news/news_read.php?uid=570523&class=42"
  ],
  "seen_titles": [
-  "KT,국내유망AI스타트업발굴...'K-PATH2026'공모시작",
-  "오픈AI,삼성전자에챗GPT공급…“세계최대규모급”",
-  "고령화비상日,피지컬AI에100조원투입…'휴머노이드로봇'국가전략...",
-  "손석희,13년만에MBC라디오복귀…'12시'진행맡는다",
-  "한-우즈벡기업‘민간교류창구’물꼬텄다[한·우즈벡경제협력포럼...",
-  "4위질주KIA…마운드안정이상위권도약열쇠",
-  "'휴식과치유의시간'밀양세계요가의날페스티벌성황",
-  "캘리포니아,스페이스X·AI기업IPO세수효과주목",
-  "중기부,'API취약'경고에도정보유출…\"예방가능한전통수법\"",
-  "영남이공대,'반려동물부터사이버보안까지'대명고초청진로체험프로...",
   "SKT,대학생과아이디어발굴‘CX캠퍼스’",
   "LG유플러스,생성형AI‘10명중8명’쓴다",
   "KT엠모바일,알뜰폰첫AI요금추천서비스출시",
@@ -6001,7 +5991,17 @@
   "최태원회장\"큰나무가모여숲을이룬다\"...AI시대인재생태계키운...",
   "최태원회장“AI시대인재는타인의성장돕는‘큰나무’”",
   "오픈AI,'데이브레이크'확대…전세계사이버보안역량강화",
-  "오픈AI,사이버보안‘데이브레이크‘확대"
+  "오픈AI,사이버보안‘데이브레이크‘확대",
+  "한국AI·로봇산업협회,배석태상근부회장선임",
+  "[위클리오늘]\"AI시대의역설…대기업실적은뛰는데일자리는줄었다...",
+  "코스피,美기술주약세에0.34%내린9,083대출발…외국인1조원'팔자...",
+  "삼양애니,참여형캐릭터플랫폼‘페포월드닷컴’오픈",
+  "K-게임성장사다리놓는다…문체부·넥슨,1천200억펀드결성(종합)",
+  "[속보]경찰\"'모두의창업'정보유출사건내사착수\"",
+  "[오늘의주요일정]과기정통부·방미통위·개보위(6월19일금요일)",
+  "'없어서못파는'삼성HBM4…양산첫해매출100억달러넘을듯(종합)",
+  "\"해킹경고넘어치료까지\"오픈AI,알아서고치는'보안AI'공개",
+  "애플·테슬라'630GB'영업비밀다크웹유출…인도타타해킹"
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,13 @@
   [
    "2026-06-23T09:38:16.569210+09:00",
    "LG까지 확대 동맹 피지컬 두산 현대차 이어"
+  ],
+  [
+   "2026-06-23T09:42:15.266707+09:00",
+   "고치는 경고 알아서 치료까지 보안 공개 넘어"
   ]
  ],
- "last_run": "2026-06-23T09:40:42.226958+09:00",
+ "last_run": "2026-06-23T09:42:36.541429+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
