@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2335283.htm",
-  "https://www.hankyung.com/article/2026062211641",
-  "https://www.aitimes.com/news/articleView.html?idxno=211981",
-  "https://www.seoul.co.kr/news/international/2026/06/22/20260622500231?wlog_tag3=naver",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=440549",
-  "https://sports.khan.co.kr/article/202606221745003?pt=nv",
   "https://www.aitimes.com/news/articleView.html?idxno=211891",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606170416&t=NNv",
   "https://www.sedaily.com/article/20058697",
@@ -2999,15 +2993,15 @@
   "https://www.itbiznews.com/news/articleView.html?idxno=217012",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2441316",
   "https://www.mk.co.kr/article/12080863",
-  "https://www.huffingtonpost.kr/article/258167"
+  "https://www.huffingtonpost.kr/article/258167",
+  "https://www.news1.kr/world/international-economy/6205794",
+  "https://www.etnews.com/20260623000353",
+  "https://www.khan.co.kr/article/202606231501001",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440787",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=263625",
+  "https://view.asiae.co.kr/article/2026062313221103346"
  ],
  "seen_titles": [
-  "예견된‘모두의창업’정보유출…한달전경고에도관리부실",
-  "KT,AI스타트업육성위한'K-PATH2026'공모시작",
-  "KT,'AX파트너'스타트업20곳발굴",
-  "구글,엔비디아전략베끼기…AI데이터센터에금융보증",
-  "엔비디아,재학습없는공간추론AI'스페이셜클로'공개…\"코드가행...",
-  "구글CEO연설에‘우르르’퇴장·야유…젠슨황만환호받은이유",
   "SK하이닉스삼성전자제치고시총1위,반도체호황에국내증시'부익부...",
   "“외인투수는3년이한계?내가깨줄게”…불운딛은‘강철멘털’,...",
   "오픈AI,'트랜스포머'노암샤지어영입...트럼프AI고문도합류",
@@ -6001,7 +5995,13 @@
   "삼성SDS,'2026공공AI박람회'서공공AX혁신사례선봬",
   "삼성·SK반도체훈풍에올라탄韓···지방투자·초과세수논의급물살",
   "최태원“큰나무가모여숲을이룬다...음수사원의마음기억해야”",
-  "이대통령,국정2년차동력경제에서찾는다:최태원·이재용회동이..."
+  "이대통령,국정2년차동력경제에서찾는다:최태원·이재용회동이...",
+  "손정의,머스크'우주데이터센터'일축…\"AI승부지상서결판\"",
+  "미래에셋증권,30억이상고액자산가1년새3배증가",
+  "삼성SDS,공공AI박람회서‘AI업무혁신’사례소개",
+  "방송광고시장위축···방송사업자매출3년연속감소",
+  "\"테슬라·엔비디아출신영입\"…현대차그룹,조직개편으로'SDV'역량강...",
+  "엔비디아·TSMC사로잡은슈나이더일렉트릭…\"다음타깃은K반도체\""
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,13 @@
   [
    "2026-06-23T15:02:16.098811+09:00",
    "2년차 국정 대통령 찾는다 경제에서 회동 이재용 동력"
+  ],
+  [
+   "2026-06-23T15:04:14.733478+09:00",
+   "K반도체 사로잡은 일렉트릭 타깃은 TSMC 다음 슈나이더"
   ]
  ],
- "last_run": "2026-06-23T15:02:43.170871+09:00",
+ "last_run": "2026-06-23T15:04:40.158839+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
