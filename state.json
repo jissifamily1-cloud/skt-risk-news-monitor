@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/163981",
-  "https://www.newscj.com/news/articleView.html?idxno=3411014",
-  "https://www.mt.co.kr/society/2026/06/22/2026062210384932887",
-  "https://biz.heraldcorp.com/article/10783705",
-  "https://www.youthdaily.co.kr/news/article.html?no=221376",
-  "http://www.seouleconews.com/news/articleView.html?idxno=91934",
-  "https://www.ajunews.com/view/20260622090810826",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=236573",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245164&CMPT_CD=P0010",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=439978",
-  "https://www.m-i.kr/news/articleView.html?idxno=1383814",
   "https://theviewers.co.kr/View.aspx?No=4120525",
   "https://www.gukjenews.com/news/articleView.html?idxno=3614206",
   "https://cwn.kr/article/1065579112836454",
@@ -2999,20 +2988,20 @@
   "https://www.slist.kr/news/articleView.html?idxno=747032",
   "https://www.newsis.com/view/NISX20260623_0003679339",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=263765",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=263562"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=263562",
+  "https://www.econovill.com/news/articleView.html?idxno=743133",
+  "http://www.thebigdata.co.kr/view.php?ud=202606230925421057a79b9f00ab_23",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421174",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03175046645484672",
+  "https://www.ajunews.com/view/20260623084817492",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677388",
+  "http://www.inews24.com/view/1978740",
+  "https://www.ajunews.com/view/20260623091751565",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=844722",
+  "https://www.cnbizm.com/news/articleView.html?idxno=306294",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067330"
  ],
  "seen_titles": [
-  "[AI이슈트렌드]월드컵열기속미·이란종전MOU와스페이스X상장주...",
-  "[오늘의게임·IT소식]넥써쓰,법정화폐로크로쓰토큰거래外",
-  "'외부혁신'나선통신사vs'내실·상생'다지는플랫폼",
-  "법무법인광장,한국정보법학회와개인정보보호관련학술세미나성료",
-  "HD현대,엔비디아와‘선박건조로봇’만든다",
-  "[특징주]LG전자,엔비디아와AI·로봇협력기대감↑…장중12%대급등",
-  "삼성전자,'AI동료'전사적도입…美챗GPT·코덱스업무현장투입",
-  "두산로보틱스,美오토메이트서AI물류자동화솔루션공개",
-  "한성숙\"'모두의창업'개인정보유출송구\"…신뢰회복총력",
-  "한성숙후보자,'모두의창업'정보유출에\"책임통감,진심사과\"",
-  "SK텔레콤,노동부와대학생참여'CX캠퍼스'프로젝트운영",
   "삼성전자,챗GPT전사도입…오픈AI글로벌최대고객됐다",
   "영업정지기로에선롯데카드...'해킹사고'제재감경될까",
   "함안동부로타리클럽,창립29주년기념식…제30대김창욱회장취임",
@@ -6001,7 +5990,18 @@
   "[나눔]서울우유,플로깅봉사·LG유플러스,참전유공자기부外",
   "오픈AI,우방국사이버동맹확대…'GPT-5.5-사이버'공개",
   "LG유플러스,AX성과와사회공헌동시강화",
-  "산업계주주친화도평가,KT·SK·삼성물산·포스코·KT&G·한화순"
+  "산업계주주친화도평가,KT·SK·삼성물산·포스코·KT&G·한화순",
+  "카카오,공공AI박람회서에이전틱AI총출동",
+  "삼양애니,페포공식플랫폼‘페포월드닷컴’오픈...불닭브랜드관심...",
+  "수자원공사,물기업아닌진짜'AI기업'…오픈AI가먼저알아봤다",
+  "코스피,외국인·기관매도에9000선밑으로…삼전·닉스동반약세",
+  "[진정자의미국증시이야기]스페이스X시총2.5조달러,미국증시는...",
+  "'월10%보상'미끼에속았다…가짜인증한번에1만4600XRP증발",
+  "최태원\"큰나무는숲에서자란다\"…AI시대인재육성확대",
+  "靑\"반도체초과세수미래세대위해\"…李대통령,이재용회장회동",
+  "최태원회장\"큰나무가모여숲을이뤄\"…AI시대이끌인재키운다",
+  "LG유플러스,'천원의사랑'으로6·25참전유공자지원…누적기부금3억...",
+  "LG유플러스참전용사에'천원의사랑'"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,13 @@
   [
    "2026-06-23T09:28:18.743017+09:00",
    "주주친화도 삼성물산 포스코 산업계 SK 평가 한화"
+  ],
+  [
+   "2026-06-23T09:30:33.360869+09:00",
+   "사랑 천원의 LG유플러스 참전용사에"
   ]
  ],
- "last_run": "2026-06-23T09:28:40.200818+09:00",
+ "last_run": "2026-06-23T09:30:51.283503+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
