@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000318042?division=NAVER",
-  "https://www.bloter.net/news/articleView.html?idxno=666151",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82411",
-  "https://www.dt.co.kr/article/12068864",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=659110",
   "https://www.dongascience.com/news/view/78474",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462145",
   "https://www.etoday.co.kr/news/view/2595976",
@@ -2999,14 +2994,14 @@
   "http://www.newsdream.kr/news/articleView.html?idxno=113464",
   "https://www.kukinews.com/article/view/kuk202606220145",
   "https://www.m-i.kr/news/articleView.html?idxno=1384274",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03995046645484672"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03995046645484672",
+  "https://www.thelec.kr/news/articleView.html?idxno=58471",
+  "https://kidd.co.kr/news/246446",
+  "https://www.newspim.com/news/view/20260623000627",
+  "https://www.hankyung.com/article/202606232292g",
+  "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202606231107204513"
  ],
  "seen_titles": [
-  "[단독]네이버서비스에구글·오픈AI기술'쏙'…\"투트랙전략\"",
-  "선관위수의계약'독점·쪼개기'의혹…상위5개사가절반싹쓸이",
-  "[증시인사이트]SK하이닉스,삼성전자제치고코스피시총1위등극",
-  "보스턴다이내믹스몸값뛰었는데…'2021년가격표'로사는현대차그룹",
-  "AI스타트업키우는KT…'K-PATH2026'가동,AX동반성장본격화",
   "KT엠모바일,챗GPT기반대화형요금추천도입",
   "[KFE게임리뷰]\"오빠사랑해\"…크래프톤'배그'에서만난세계최초CPC...",
   "\"암환자데이터보유한한국,AI바이오기회의창빠르게닫혀\"",
@@ -6001,7 +5996,12 @@
   "삼성SDS,공공AI박람회서패브릭스·브리티웍스등AI풀스택역량소...",
   "중기부도개인정보유출책임질까…‘모두의창업’관리소홀도마위",
   "최태원SK회장\"AI시대에걸맞은인재생태계구축\"",
-  "컴퓨팅파워…이젠담보로대출받고원유처럼사고판다"
+  "컴퓨팅파워…이젠담보로대출받고원유처럼사고판다",
+  "[인터뷰]김재승모빌테크\"디지털트윈,고품질데이터가경쟁력\"",
+  "기업데이터보안,플랫폼하나로관리한다",
+  "파이브아이즈\"AI무장한적국,수개월내방어망돌파가능\"",
+  "정의선회장소개에젠슨황'엄지척'…해외서반응터졌다[모빌리티...",
+  "KT,AI스타트업발굴공모전...\"20곳선정해육성\""
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,21 @@
   [
    "2026-06-23T13:56:16.863291+09:00",
    "받고 사고판다 대출 원유처럼 담보로 파워 컴퓨팅 이젠"
+  ],
+  [
+   "2026-06-23T13:58:16.420604+09:00",
+   "20곳 발굴 육성 스타트업 공모전 선정해"
+  ],
+  [
+   "2026-06-23T13:58:16.420604+09:00",
+   "회장 엄지 소개에 해외서 정의선 모빌리티 터졌다 젠슨 반응"
+  ],
+  [
+   "2026-06-23T13:58:16.420604+09:00",
+   "무장한 적국 가능 수개월 파이브아이즈 돌파 방어망"
   ]
  ],
- "last_run": "2026-06-23T13:56:39.609967+09:00",
+ "last_run": "2026-06-23T13:58:40.351058+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
