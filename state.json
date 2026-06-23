@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2589659",
-  "https://www.hankookilbo.com/news/article/A2026053116460000715?did=NA",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254504",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01643286645453840",
-  "https://www.dt.co.kr/article/12064546",
   "https://www.datanet.co.kr/news/articleView.html?idxno=212529",
   "https://www.newsis.com/view/NISX20260622_0003678551",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1713416",
@@ -2999,14 +2994,14 @@
   "https://www.hankyung.com/article/202606232548O",
   "https://www.dizzotv.com/site/data/html_dir/2026/06/23/2026062380041.html",
   "https://www.dailyt.co.kr/newsView/dlt202606230005",
-  "https://www.kukinews.com/article/view/kuk202606230055"
+  "https://www.kukinews.com/article/view/kuk202606230055",
+  "https://www.newspim.com/news/view/20260622000869",
+  "https://www.segye.com/newsView/20260623507596?OutUrl=naver",
+  "https://www.gokorea.kr/news/articleView.html?idxno=870058",
+  "https://www.dizzotv.com/site/data/html_dir/2026/06/23/2026062380040.html",
+  "https://www.gokorea.kr/news/articleView.html?idxno=870056"
  ],
  "seen_titles": [
-  "올해만400%급등한미니맥스,홍콩이어중국상장추진",
-  "[단독]엔비디아와MS합작차세대PC에클로드배제됐다",
-  "미군,업그레이드방향은AI자동화…장성들은우려목소리",
-  "삼전하닉,앤스로픽에투자하고메모리팔면시장선도?순환거래?",
-  "[Ψ-딧세이]피묻은로짓의군주태종이방원의권도",
   "“오픈AI보다비싸졌다”…앤스로픽몸값1조달러육박",
   "망분리풀리는금융권…보안기업‘AI솔루션선점경쟁’본격화",
   "중기부\"모두의창업1차합격자,1년간기술임치무상지원\"",
@@ -6001,7 +5996,12 @@
   "김성현에스에이에스(SAS)대표,국제해양·안전대전서해양경찰청실...",
   "LG유플러스,백마고지참전용사에게'천원의사랑'기부금전달",
   "개인정보5천명분유출됐는데…공공기관과징금은고작수억원?기업은...",
-  "조선전기통신사,거제지세포항서뱃길열었다"
+  "조선전기통신사,거제지세포항서뱃길열었다",
+  "오픈AI최대고객된삼성전자,이재용회장의AX본궤도",
+  "30억이상고액자산가3배증가...‘현대차·하이닉스·삼성전자’많이...",
+  "공공기관개인정보유출…과징금격차논란속공정성도마위에",
+  "최태원,차세대인재들에게\"AI활용역량·사회적책임함께갖춰야\"",
+  "인공지능시대,협력과인재의역할…최태원회장의새로운메시지"
  ],
  "recent_sigs": [
   [
@@ -6859,9 +6859,17 @@
   [
    "2026-06-23T11:30:33.055552+09:00",
    "뱃길 지세포항서 조선전기 열었다 거제"
+  ],
+  [
+   "2026-06-23T11:32:15.786920+09:00",
+   "차세대 인재들에게 사회적 함께 갖춰야 책임 역량 활용"
+  ],
+  [
+   "2026-06-23T11:32:15.786920+09:00",
+   "인재의 회장의 시대 역할 메시지 인공지능 새로운 협력과"
   ]
  ],
- "last_run": "2026-06-23T11:30:59.830271+09:00",
+ "last_run": "2026-06-23T11:32:45.939266+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7110,6 +7118,7 @@
   "newsbrite.net": "뉴스브라이트",
   "issuenbiz.com": "이슈앤비즈",
   "bizwnews.com": "비즈월드",
-  "dailyt.co.kr": "데일리환경"
+  "dailyt.co.kr": "데일리환경",
+  "gokorea.kr": "공감신문"
  }
 }
