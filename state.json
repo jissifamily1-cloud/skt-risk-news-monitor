@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260611145240",
-  "https://www.newsis.com/view/NISX20260611_0003665614",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674128",
   "https://www.aitimes.com/news/articleView.html?idxno=211605",
   "https://zdnet.co.kr/view/?no=20260611113751",
@@ -2999,11 +2997,11 @@
   "https://www.aitimes.kr/news/articleView.html?idxno=40643",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=85953",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8592950",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268409"
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=268409",
+  "http://www.tennispeople.kr/news/articleView.html?idxno=18781",
+  "https://kidd.co.kr/news/246458"
  ],
  "seen_titles": [
-  "오픈AI,토큰비용낮추나…앤트로픽과가격경쟁시동",
-  "엔비디아등에업은오픈AI…美오하이오주서'초대형데이터센터'검토",
   "샘알트먼,네이버·카카오연쇄회동…AI협력모색",
   "\"노화도질병\"…노화세포재생첫임상시험시작",
   "샘알트먼,삼성·카카오·네이버찾는다…AI협력확대논의",
@@ -6001,7 +5999,9 @@
   "화웨이·TM포럼,\"AI네이티브기업의성패는인재전략에달려\"...'AI인...",
   "[게임투데이]게임업계단비같은소식두가지",
   "이대통령,이번주이재용회동…“투자논의기대”",
-  "\"LG전자,북미빅테크향AI데이터센터칠러수주임박…퀄테스트막바..."
+  "\"LG전자,북미빅테크향AI데이터센터칠러수주임박…퀄테스트막바...",
+  "테니스에서가장기묘한문제,'그림자'를어떻게해결할수있을까?",
+  "“AI시대보안은제어지점방어가핵심”…F5,ADSP기반새아키텍처..."
  ],
  "recent_sigs": [
   [
@@ -6641,7 +6641,7 @@
    "수주 임박 칠러 퀄테스트 북미 막바 빅테크향 LG전자 데이터센터"
   ]
  ],
- "last_run": "2026-06-23T19:10:49.502624+09:00",
+ "last_run": "2026-06-23T19:12:34.197413+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
