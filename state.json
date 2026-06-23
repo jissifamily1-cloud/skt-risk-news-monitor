@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/entertain/2334990.htm",
-  "https://www.thepublic.kr/news/articleView.html?idxno=308525",
-  "https://www.thepublic.kr/news/articleView.html?idxno=308535",
-  "https://www.newspim.com/news/view/20260622000459",
-  "https://www.etnews.com/20260622000207",
-  "https://www.dailian.co.kr/news/view/1658327/?sc=Naver",
   "http://www.newstomato.com/ReadNews.aspx?no=1304717&inflow=N",
   "https://www.thepublic.kr/news/articleView.html?idxno=308521",
   "https://www.smartbizn.com/news/articleView.html?idxno=146692",
@@ -2999,15 +2993,15 @@
   "https://biz.heraldcorp.com/article/10784678",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164359",
   "https://www.hellot.net/news/article.html?no=113352",
-  "http://www.wsobi.com/news/articleView.html?idxno=314093"
+  "http://www.wsobi.com/news/articleView.html?idxno=314093",
+  "https://www.ziksir.com/news/articleView.html?idxno=137693",
+  "https://www.tokenpost.kr/news/market/371898",
+  "https://www.dailian.co.kr/news/view/1658701/?sc=Naver",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677375",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390065.html",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1005484"
  ],
  "seen_titles": [
-  "구광모'ABC미래비전'속도전…LG경영진,엔비디아본사찾아",
-  "손석희,13년만에MBC라디오복귀…'손석희의12시'진행",
-  "'회생불똥튈라'자금급한SLL중앙,2000억규모티빙지분매각추진",
-  "코스피,9000선앞두고흔들…외국인1조원가까이팔았다",
-  "[뉴욕주간프리뷰]①마이크론결산초점,옵션시장'긴장'",
-  "LG유플러스,전국서5GSA망테스트돌입…상용화채비",
   "KT,AI스타트업발굴…AX사업공동추진·투자연계등지원",
   "LG경영진,미엔비디아‘총출동’…AI협력구체화시동",
   "\"해킹책임어디까지?\"금융위,롯데카드정보유출제재착수...내달결...",
@@ -6001,7 +5995,13 @@
   "최태원SK회장“AI시대인재기준달라져…여럿이협력할때더큰변...",
   "이재용,李대통령과25일회동…'반도체지방투자'논의",
   "글로벌빅테크와어깨나란히...니어스랩,넥스트라이즈서피지컬AI비...",
-  "삼성전자·SK,차세대UFS5.0메모리솔루션개발·'온누리상품권'지급..."
+  "삼성전자·SK,차세대UFS5.0메모리솔루션개발·'온누리상품권'지급...",
+  "재건축·신규공급동시가동…목동,세번째변곡점맞나",
+  "두산,AI수요힘입어목표주가상향…전자비지부문호조",
+  "최태원\"큰나무모여숲이룬다\"…AI인재생태계확장",
+  "SK인재재단,신진연구자지원'KFAS신진학자상'신설",
+  "李대통령,25일이재용회장만난다…최태원회장도이미회동",
+  "LG유플러스,참전유공자위해사내기부프로그램으로모은기부금전달"
  ],
  "recent_sigs": [
   [
@@ -6565,7 +6565,7 @@
    "개발 메모리 UFS SK 지급 삼성전자 차세대 온누리상품권 솔루션"
   ]
  ],
- "last_run": "2026-06-23T09:24:38.664317+09:00",
+ "last_run": "2026-06-23T09:26:31.086432+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
