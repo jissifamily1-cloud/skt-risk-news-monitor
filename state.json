@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=188928",
-  "https://feedapi.cloud.sbs.co.kr/feed-api/article_hub/G20000002431",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1064432",
-  "https://www.etoday.co.kr/news/view/2596421",
-  "http://www.itdaily.kr/news/articleView.html?idxno=239999",
   "http://www.rookie.co.kr/news/articleView.html?idxno=124048",
   "https://www.etnews.com/20260623000383",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04365686645484672",
@@ -2999,14 +2994,14 @@
   "https://www.dt.co.kr/article/12069295",
   "https://www.inven.co.kr/webzine/news/?news=317764",
   "https://www.medipana.com/news/articleView.html?idxno=413512",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518949"
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=518949",
+  "http://www.dtnews24.com/news/articleView.html?idxno=812658",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616612",
+  "https://www.inthenews.co.kr/news/article.html?no=88469",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713764",
+  "https://www.kgnews.co.kr/news/article.html?no=901273"
  ],
  "seen_titles": [
-  "SK텔링크,보안앞세워B2B통합사업자변신",
-  "'구광모·젠슨황회동'2주만의속도전…LG,엔비디아와피지컬AI실무...",
-  "‘왕의귀환’장유빈,2개대회연속우승으로제네시스포인트1위등...",
-  "최태원회장,'KFAS신진학자상'신설…세계적석학키운다",
-  "“한일전힘인가”⋯월드컵예선티켓2분만에‘순삭’",
   "스패로우,AI생성코드보안어시스턴트'스패로우MCP'출시",
   "김코치가돌아온다!KT,김영환코치1년만에코칭스태프로복귀",
   "케이블TV12개사,지방선거밀착선거방송…기초의원까지개표중계",
@@ -6001,7 +5996,12 @@
   "젠슨황‘엄지척’PV5,이번엔7인승출격",
   "한국e스포츠협회2026KEL,FC모바일챔피언가릴부산결선돌입",
   "제약바이오협회,BIOUSA참가…홍보관·코리아나잇운영",
-  "한국투자액셀러레이터,초기스타트업대상'바른동행'참가사모집"
+  "한국투자액셀러레이터,초기스타트업대상'바른동행'참가사모집",
+  "ETRI,AI시대'초고속신경망'구축나서...HINT포럼출범",
+  "이용우부여군수당선인,타운홀미팅...'부여대전환,더위대하게'비...",
+  "한국투자액셀러레이터“함께성장할초기스타트업모집합니다”",
+  "AI반도체슈퍼사이클지속되나…마이크론실적에쏠리는시선",
+  "경기창조경제혁신센터,'2026KT콜라보레이션'참여기업모집"
  ],
  "recent_sigs": [
   [
@@ -6461,7 +6461,7 @@
    "PV5 젠슨 출격 엄지척 7인승 이번엔"
   ]
  ],
- "last_run": "2026-06-24T15:24:35.023884+09:00",
+ "last_run": "2026-06-24T15:26:32.297893+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
