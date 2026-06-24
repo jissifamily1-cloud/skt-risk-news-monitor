@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20059281",
-  "https://www.yna.co.kr/view/AKR20260623168300030?input=1195m",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51035",
-  "https://www.seoul.co.kr/news/economy/securities/2026/06/24/20260624500007?wlog_tag3=naver",
   "https://biz.sbs.co.kr/article_hub/20000318436?division=NAVER",
   "https://www.seoultimes.news/news/article.html?no=2000096836",
   "https://www.mt.co.kr/world/2026/06/24/2026062406063743863",
@@ -2999,13 +2995,13 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245890&CMPT_CD=P0010",
   "https://www.news2day.co.kr/article/20260625500015",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=60848",
-  "https://sateconomy.co.kr/news/view/1065563039127705"
+  "https://sateconomy.co.kr/news/view/1065563039127705",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421724",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02394406645485328",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16110774",
+  "https://www.ddaily.co.kr/page/view/2026061505274761816"
  ],
  "seen_titles": [
-  "[기자수첩]'드러누워막지못해'불난단일종목레버리지ETF,당국'다음...",
-  "‘기술패권전쟁’미·중,이번엔양자컴퓨터로붙었다[글로벌모닝...",
-  "중기부,개인정보유출에\"노출됐다\"브리핑…책임축소지적",
-  "정재헌SK텔레콤대표,ESG경영으로실적회복잰걸음",
   "[서울데이터랩]미국증시,기술주·반도체급락에약세출발…나스닥2...",
   "블룸버그\"韓AI주급락에레버리지ETF시장주목\"",
   "[CEO위클리]\"르망과바티칸그리고데이터센터\"…재계리더들의미래...",
@@ -6001,7 +5997,11 @@
   "호남반도체투자,'민심달래기용말잔치'아니라면3가지지켜야[반도...",
   "마이크론,4분기전망도예상뛰어넘었다…메모리슈퍼사이클가속",
   "\"NH콕마이데이터\",국가브랜드대상수상…국민734만명이선택한생활...",
-  "LG유플러스,통신본업에AI인프라장착…AIDC실적의새축"
+  "LG유플러스,통신본업에AI인프라장착…AIDC실적의새축",
+  "오픈AI·브로드컴,자체AI칩'할라페뇨'공개…추론에특화",
+  "오픈AI,자체칩공개…\"엔비디아·구글칩과대등한성능\"",
+  "뉴욕증시유가급락에도기술주흔들…마이크론대기속엔비디아약세",
+  "영업이익보다많은기금…벼랑끝케이블TV,소송검토"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-06-25T06:58:18.505545+09:00",
    "통신 인프라 장착 AIDC 본업에 실적의 LG유플러스"
+  ],
+  [
+   "2026-06-25T07:00:44.361997+09:00",
+   "벼랑 영업이익보다 케이블TV 검토 많은 소송 기금"
   ]
  ],
- "last_run": "2026-06-25T06:58:37.527342+09:00",
+ "last_run": "2026-06-25T07:01:01.683678+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
