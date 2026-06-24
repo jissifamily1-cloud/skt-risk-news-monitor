@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportschosun.com/baseball/2026-06-23/202606230100160420010502",
-  "https://www.xportsnews.com/article/2163801",
-  "https://sports.donga.com/sports/article/all/20260623/134167937/1",
-  "https://www.joongang.co.kr/article/25439188",
   "https://www.mk.co.kr/article/12081127",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255364",
   "https://www.mk.co.kr/article/12081129",
@@ -2999,13 +2995,13 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092164504",
   "https://www.joongangenews.com/news/articleView.html?idxno=528044",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86697",
-  "http://www.popcornnews.net/news/articleView.html?idxno=124713"
+  "http://www.popcornnews.net/news/articleView.html?idxno=124713",
+  "https://www.ddaily.co.kr/page/view/2026062417144435183",
+  "https://www.etnews.com/20260624000420",
+  "https://zdnet.co.kr/view/?no=20260623173831",
+  "https://www.kyeongin.com/article/1766111"
  ],
  "seen_titles": [
-  "이재용,HBM매출10억달러넘은날천안생산현장직접점검",
-  "'왜?'KIA의결단,이선수로테이션에서빠진다…\"이제는시라카와뒤에...",
-  "아픈로젠버그vs못미더운와일스,키움의선택은?…\"이번주결정나...",
-  "“수비생각하지도마라”SSG최정의고관절통증미스터리…병원에서...",
   "\"초과세수는하늘이주신기회,미래위해혁신기술에투자해야\"[최준...",
   "“K바이오먼저만나자”글로벌미팅수백건[바이오USA현장]",
   "KAIST'이상한약광고'공포론···AI정보유출위험가린다",
@@ -6001,7 +5997,11 @@
   "\"GPU없이도세계1위\"…中,美제치고슈퍼컴왕좌탈환",
   "HBM호황올라탄SK하이닉스…45조원ADR들고美나스닥간다",
   "개발비만10억달러'GTA6'출시앞두고몸사리는게임업계",
-  "토큰증권시대개막…증권사,발행·유통·글로벌'5사5색'"
+  "토큰증권시대개막…증권사,발행·유통·글로벌'5사5색'",
+  "\"AI시대,질문하는인간\"…서울국제도서전개막",
+  "웹케시,NH농협은행'AI에이전트기반조회'구축한다",
+  "삼성SDS·LGCNS·카카오등총출동…공공행정도'에이전틱AI'시대",
+  "용인반도체삼성전자팹이전‘일단락’모드…업계불안은지속"
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,13 @@
   [
    "2026-06-24T17:20:27.418254+09:00",
    "5색 증권사 5사 시대 유통 글로벌 토큰증권 발행 개막"
+  ],
+  [
+   "2026-06-24T17:22:16.609595+09:00",
+   "삼성전자 이전 지속 일단락 용인반도체 불안은 업계 모드"
   ]
  ],
- "last_run": "2026-06-24T17:20:56.845511+09:00",
+ "last_run": "2026-06-24T17:22:36.283105+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6796,6 +6800,7 @@
   "slownews.kr": "슬로우뉴스",
   "news.appstory.co.kr": "앱스토리",
   "idaegu.com": "대구일보",
-  "theviewers.co.kr": "뷰어스"
+  "theviewers.co.kr": "뷰어스",
+  "kyeongin.com": "경인일보"
  }
 }
