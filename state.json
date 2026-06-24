@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6205767",
-  "https://www.techm.kr/news/articleView.html?idxno=152849",
-  "https://www.nocutnews.co.kr/news/6537401",
-  "https://www.dailian.co.kr/news/view/1658962/?sc=Naver",
-  "https://www.newsis.com/view/NISX20260623_0003680451",
-  "http://www.inews24.com/view/1978995",
-  "https://www.yna.co.kr/view/AKR20260623142400017?input=1195m",
-  "https://news.mtn.co.kr/news-detail/2026062314493365029",
-  "https://www.bloter.net/news/articleView.html?idxno=666332",
   "https://www.seoultimes.news/news/article.html?no=2000096587",
   "https://www.hankyung.com/article/202606233332i",
   "https://www.bntnews.co.kr/article/view/bnt202606240044",
@@ -2999,18 +2990,18 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=268482",
   "https://www.news1.kr/finance/general-stock/6207662",
   "https://thetracker.co.kr/View.aspx?No=4124233",
-  "https://zdnet.co.kr/view/?no=20260625062146"
+  "https://zdnet.co.kr/view/?no=20260625062146",
+  "https://www.etnews.com/20260625000016",
+  "https://www.dailian.co.kr/news/view/1659607/?sc=Naver",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=15850",
+  "https://www.etoday.co.kr/news/view/2597032",
+  "http://www.segyebiz.com/newsView/20260625502992?OutUrl=naver",
+  "http://www.srtimes.kr/news/articleView.html?idxno=205629",
+  "https://www.mt.co.kr/world/2026/06/25/2026062508152077068",
+  "https://www.dailian.co.kr/news/view/1659537/?sc=Naver",
+  "https://www.news1.kr/it-science/internet-platform/6207657"
  ],
  "seen_titles": [
-  "AX기획~검증한번에…KT,'이노베이션허브'통해B2B시장공략",
-  "말로설명하니3분만에'프로토타입'턱…KT,AX장벽낮춘다",
-  "KT\"이노베이션허브,AX시작이자베이스캠프...수익화'시동'\"",
-  "KT,현장중심AX체계구축…필요한AI모델자유롭게'활용'",
-  "[현장]\"신규대리점어디낼까\"…KT,AI로상권분석5분만'뚝딱'",
-  "\"3만원짜리AI앱,1000원에뚝딱\"…KT,AI'이노베이션허브'가보니",
-  "\"말한마디에5분만에앱완성\"…KT,기업AX실험실공개",
-  "[가보니]\"말한마디에앱뚝딱\"…KT가보여준AI에이전트시대",
-  "KT침묵하지만…CJ.웨이브품을준비끝냈다?[엔터코노미]",
   "KT,AX하네스·FDE개발도구·AIDD로AX가속화",
   "[비즈인사이트]\"LG성장공식바뀐다\"…배터리주춤,AI·전장·AX가실...",
   "\"헤이지니,상권분석해줘\"…말하자마자'뚝딱'해냈다",
@@ -6001,7 +5992,16 @@
   "[굿모닝!글로벌뉴욕증시]국제유가하락으로장기국채가격상승속....",
   "삼전·닉스,마이크론호실적에날았다…프리마켓서10%·6%대급등",
   "LG화학,신용등급결국강등…석화·배터리동반부진에‘AA’로하향",
-  "퀄컴,AI데이터센터청사진공개...\"전용CPU2028년출시\""
+  "퀄컴,AI데이터센터청사진공개...\"전용CPU2028년출시\"",
+  "“책,가볍게읽어도돼요”…밀리의서재,도서전서'밀리하우스'공개",
+  "‘전승착시효과’KIA,아직넘지못한상위권벽",
+  "유엔도나섰다...'깜깜이'AI데이터센터환경비용에거세지는'투명성...",
+  "[증시키워드]코스피,폭락딛고반등…삼전시총1위탈환",
+  "[뉴욕증시]AI반도체경계감에나스닥하락…유가급락에다우0.35%↑",
+  "[창간기획]시험대오른현대차그룹장재훈부회장,인공지능로보틱스...",
+  "마이크론,이익률·장기계약도'깜짝'…주가15%급등에다른반도체주...",
+  "데일리:디렉션,7월13일‘몽키모드’로데뷔후첫컴백",
+  "카카오페이,'알리페이개인정보제공'패소에항소"
  ],
  "recent_sigs": [
   [
@@ -6277,7 +6277,7 @@
    "관심도 순현금 급증 주주환원 SK하이닉스"
   ]
  ],
- "last_run": "2026-06-25T08:28:33.121915+09:00",
+ "last_run": "2026-06-25T08:30:55.529775+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
