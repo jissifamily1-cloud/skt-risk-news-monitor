@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ftimes.kr/news/articleView.html?idxno=38171",
-  "https://www.starnewskorea.com/star/2026/06/23/2026062314454683314",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462476",
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=109459",
-  "https://zdnet.co.kr/view/?no=20260623154301",
-  "https://www.etnews.com/20260623000322",
-  "https://www.inews365.com/news/article.html?no=924630",
-  "https://www.mydaily.co.kr/page/view/2026062316294672142",
-  "https://www.etnews.com/20260623000289",
-  "http://www.4th.kr/news/articleView.html?idxno=2113593",
-  "http://www.dailypop.kr/news/articleView.html?idxno=99924",
   "http://www.metroseoul.co.kr/article/20260623500418",
   "https://www.gukjenews.com/news/articleView.html?idxno=3615621",
   "http://www.newsprime.co.kr/news/article.html?no=737745",
@@ -2999,20 +2988,20 @@
   "https://www.inews365.com/news/article.html?no=924840",
   "https://view.asiae.co.kr/article/2026062415483467818",
   "https://www.mk.co.kr/article/12082011",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462779"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462779",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34306",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04749446645485000",
+  "https://news.jtbc.co.kr/article/NB12304843?influxDiv=NAVER",
+  "https://www.newsis.com/view/NISX20260624_0003681953",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616718",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616673",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616708",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616715",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403454",
+  "https://www.chosun.com/economy/tech_it/2026/06/24/YFG4KH5NYJC4XMRTTPYVYYDSIU/",
+  "http://www.newsprime.co.kr/news/article.html?no=737879"
  ],
  "seen_titles": [
-  "\"휴머노이드,수직통합이답\"…테슬라따라가는로보티즈·마음AI",
-  "SNS공동구매,새로운해외판로로부상…문플러그,중소제조사글로...",
-  "에픽하이타블로,젠슨황언급\"우리노래를샤라웃?믿고싶다\"",
-  "1.14달러에갇힌리플…기습적유동성왜곡시걷잡을수없는연쇄청...",
-  "넥써쓰\"기본기갖춘게임에블록체인얹어야통한다\"",
-  "월드컵한국경기열린날,모바일트래픽20%올랐다",
-  "“항공관제에스타링크쓴다”…공항공사,저궤도위성백업망추진",
-  "\"마약밀수신고는125\"",
-  "“와일스도로젠버그도한경기라도더던지고싶은마음”영웅들의최...",
-  "의사는'천식'오진…AI는의사가놓친'숨은심장질환'찾아냈다",
-  "삼양식품,전병우표'페포'본격…공식플랫폼열고글로벌팬덤공략",
   "[맥락읽기]엔비디아가쏘아올린기대,LG가증명해야할시간",
   "626억베팅한넥써쓰…원스토어품고모바일게임플랫폼승부수",
   "대구광역시,집단급식소식중독가정...현장대응모의훈련실시",
@@ -6001,7 +5990,18 @@
   "우영메디칼등6개사美BIOUSA참가",
   "손정의\"AI혁명은이제시작…버블론은모독\"",
   "오픈AI·구글과나란히선니어스랩…‘피지컬AI’로코스닥드론1호...",
-  "[거래소외국인]LS·LG전자담고SK하이닉스삼성전자대거팔았다"
+  "[거래소외국인]LS·LG전자담고SK하이닉스삼성전자대거팔았다",
+  "최태원·노소영재산분할파기환송심26일변론재개",
+  "美AI통제에'K-글래스윙'부상…보안업계2파전,정부는신중",
+  "'0이닝5실점'악몽극복한KIA성영탁\"눈물흘린것아냐…빨리잊는...",
+  "LG염경엽감독,역대9번째통산700승까지1승남았다",
+  "대전시,14만빗물받이준설완료…집중호우대비박차",
+  "김제시농촌유학·가족지역주민등문학기행·곰소젓갈시장체험",
+  "김제시의회당선자,출범'본격'늘처음처럼다지며\"시민앞에다가서...",
+  "경남도,배달·대리운전등플랫폼노동자산재보험료지원",
+  "카카오,'지속가능성보고서'발간…AI안전·재생에너지확대성과공개",
+  "中,독자슈퍼컴으로세계1위...GPU통제하자CPU로구축",
+  "[아하!]미국엔사이드카가없다?한·미증시안전장치의차이"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-06-24T16:08:16.639245+09:00",
    "피지컬 1호 드론 구글과 코스닥 나란히 니어스랩"
+  ],
+  [
+   "2026-06-24T16:10:26.150789+09:00",
+   "정부는 부상 업계 글래스윙 통제에 2파전 신중 보안"
   ]
  ],
- "last_run": "2026-06-24T16:08:43.935415+09:00",
+ "last_run": "2026-06-24T16:10:51.674969+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
