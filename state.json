@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=2026062405303892772aaae0046f_30",
-  "https://www.donga.com/news/Culture/article/all/20260624/134169503/2",
-  "https://www.nongmin.com/article/20260622500683",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268280",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=268278",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597876437907",
   "https://www.dailysecu.com/news/articleView.html?idxno=207291",
@@ -2999,13 +2995,13 @@
   "https://www.sedaily.com/article/20059794",
   "https://www.etoday.co.kr/news/view/2596990",
   "https://view.asiae.co.kr/article/2026061916591181590",
-  "https://www.chosun.com/international/us/2026/06/22/D2V6U7OBL5HWXDHEWRU6C64W74/"
+  "https://www.chosun.com/international/us/2026/06/22/D2V6U7OBL5HWXDHEWRU6C64W74/",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02279606645485328",
+  "https://www.mt.co.kr/industry/2026/06/25/2026062416550154925",
+  "https://www.dailian.co.kr/news/view/1659596/?sc=Naver",
+  "https://www.mt.co.kr/tech/2026/06/25/2026062314552770090"
  ],
  "seen_titles": [
-  "[AI프리즘]엔비디아,새로운데이터센터냉각기술개발…물자원문...",
-  "엔비디아4.13%,마이크론13.2%↓...美반도체주상승세,삼성전자SK하이...",
-  "“교황‘AI무장해제’발언,인간존엄성수호의뜻”",
-  "강서시장도매법인해킹에마비",
   "SK텔레콤,대학생소통강화…'CX캠퍼스'프로젝트8주간운영",
   "SK텔레콤,'ALEPH'로AI보안·네트워크인재양성나선다",
   "LG유플러스,'천원의사랑'으로6·25참전유공자지원",
@@ -6001,7 +5997,11 @@
   "“용인팹10년앞당긴다”靑속도전에…“지원이먼저”[biz-플러스]",
   "뉴욕증시,반도체주매도속혼조...나스닥0.43%↓[상보]",
   "카카오페이패소에핀테크업계'촉각'…'제3자정보제공'파장예고",
-  "前트럼프비서실장“한국,中알리·테무엔솜방망이…친구를이렇게..."
+  "前트럼프비서실장“한국,中알리·테무엔솜방망이…친구를이렇게...",
+  "마이크론,메모리공급난에매출4배↑…시간외서10%↑",
+  "춤추고백플립하는로봇...\"근데이게돈이돼?\"1년뒤놀라운진화",
+  "월가뒤흔든마이크론…예상뛰어넘은실적에시간외14%급등",
+  "GPU확보했지만…AI팩토리못짓는이유\"네가지없어서\""
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-06-25T06:28:15.893530+09:00",
    "10년 먼저 앞당긴다 용인 지원이 속도전에"
+  ],
+  [
+   "2026-06-25T06:32:15.421461+09:00",
+   "GPU 확보했지만 없어서 가지 이유 못짓는 AI팩토리"
   ]
  ],
- "last_run": "2026-06-25T06:31:00.187099+09:00",
+ "last_run": "2026-06-25T06:32:37.419535+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
