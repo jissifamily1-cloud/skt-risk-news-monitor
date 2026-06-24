@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=527470",
-  "https://www.aitimes.com/news/articleView.html?idxno=211990",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=222302",
-  "https://www.ddaily.co.kr/page/view/2026062314162379288",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5033396",
   "https://www.munhwa.com/article/11597576",
   "https://www.etoday.co.kr/news/view/2596288",
@@ -2999,13 +2995,13 @@
   "https://www.newspim.com/news/view/20260624000738",
   "https://zdnet.co.kr/view/?no=20260618140251",
   "https://www.newspim.com/news/view/20260624000554",
-  "https://www.mt.co.kr/tech/2026/06/24/2026062410120674842"
+  "https://www.mt.co.kr/tech/2026/06/24/2026062410120674842",
+  "http://www.fnnews.com/news/202606241358294776",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616527",
+  "https://www.etoday.co.kr/news/view/2596796",
+  "https://zdnet.co.kr/view/?no=20260624114132"
  ],
  "seen_titles": [
-  "[AI+]구글떠난두명의천재…\"AI전쟁은지금부터다\"",
-  "불닭의새얼굴'페포'뜬다…삼양애니,글로벌팬덤플랫폼오픈",
-  "\"중국AI,미국관련작업서취약코드생성\"...미방산업체보고서논란",
-  "(이번주법조일정)6월22일~6월26일",
   "크라우드아카데미,기업B2B공략교육매출390%증가",
   "[단독]'eSIM판매사업'투자주의보…수백명자금묶여",
   "SK바이오팜“AI·오픈이노베이션으로신약개발속도높인다”",
@@ -6001,7 +5997,11 @@
   "현대판실크로드,중국국제철도굴기맹위",
   "앤트로픽CEO\"민주주의국가AI협력해야\"…G7서기술동맹강조",
   "[AI프리뷰]24일수원KT-SSG전,안현민등폭발한KT와반등필요한SSG",
-  "AI해킹,'몇달'뒤면현실로…보안업계,위협커질수록시장도커진다"
+  "AI해킹,'몇달'뒤면현실로…보안업계,위협커질수록시장도커진다",
+  "\"중소기업AICC전환돕는다\"LGU+,블룸에이아이와맞손",
+  "김해인제대,THE세계대학영향력평가첫진입",
+  "구글모회사알파벳,다우지수편입…M7서메타·테슬라만남아",
+  "[현장]데이터못읽는AI는무용지물…KT·삼성해법은"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,13 @@
   [
    "2026-06-24T14:18:15.155835+09:00",
    "시장도 커진다 현실로 커질수록 보안업계 위협 뒤면"
+  ],
+  [
+   "2026-06-24T14:20:25.927727+09:00",
+   "데이터 무용지물 해법은 삼성 읽는 AI는"
   ]
  ],
- "last_run": "2026-06-24T14:18:45.046805+09:00",
+ "last_run": "2026-06-24T14:20:50.923312+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
