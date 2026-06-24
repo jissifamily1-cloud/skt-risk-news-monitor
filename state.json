@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026062406372770881",
-  "https://kidd.co.kr/news/246461",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=80293",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01407126645483688",
   "https://www.news1.kr/entertain/broadcast-tv/6203242",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20260623_0003680711",
   "https://www.nytimes.com/2026/06/23/business/meta-ai-government-reviews-security.html?partner=naver",
   "https://www.mediapen.com/news/view/1106362",
-  "http://www.joseilbo.com/news/news_read.php?uid=570680&class=17"
+  "http://www.joseilbo.com/news/news_read.php?uid=570680&class=17",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=845272",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421726"
  ],
  "seen_titles": [
-  "[美증시특징주]AI반도체세라브라스,실적실망에시간외급락",
-  "[뉴욕증시]AI반도체주직격에와르르…나스닥2%급락",
   "[비철금속시황]긴축우려에구리5주최저…알루미늄도공급정상화...",
   "'AI투자너무앞서갔나'…미국뉴욕증시기술주급락에거품론재부상",
   "JTBC위기에…조영신박사“팬데믹콘텐츠버블붕괴,미디어구조조...",
@@ -6001,7 +5999,9 @@
   "AI도입기업,고숙련늘고저숙련줄었다…대기업·공공중심확산",
   "U.S.PressesMetatoAgreetoA.I.ReviewsasSecurityConcernsRise",
   "[美증시특징주]퀄컴시간외폭등...비스마트폰매출전망치대폭상향",
-  "③주가상승이만든파기환송심변수[최태원·노소영재산분할]"
+  "③주가상승이만든파기환송심변수[최태원·노소영재산분할]",
+  "티빙,이용자CI유출...이통사해킹사고보다파장큰이유",
+  "[오늘재경부등경제부처일정]"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,13 @@
   [
    "2026-06-25T07:06:16.319515+09:00",
    "상승이 주가 변수 만든 파기환송심"
+  ],
+  [
+   "2026-06-25T07:08:15.780260+09:00",
+   ""
   ]
  ],
- "last_run": "2026-06-25T07:06:38.801915+09:00",
+ "last_run": "2026-06-25T07:08:39.933357+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
