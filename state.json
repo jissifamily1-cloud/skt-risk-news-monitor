@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12081127",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255364",
-  "https://www.mk.co.kr/article/12081129",
-  "https://www.mk.co.kr/article/12081134",
-  "http://www.finomy.com/news/articleView.html?idxno=256133",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260624010008201",
   "https://www.mk.co.kr/article/12081142",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=202089",
@@ -2999,14 +2994,14 @@
   "https://www.ddaily.co.kr/page/view/2026062417144435183",
   "https://www.etnews.com/20260624000420",
   "https://zdnet.co.kr/view/?no=20260623173831",
-  "https://www.kyeongin.com/article/1766111"
+  "https://www.kyeongin.com/article/1766111",
+  "http://www.osen.co.kr/article/G1112827784",
+  "https://www.hani.co.kr/arti/area/chungcheong/1265155.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8593983",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462815",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=361785"
  ],
  "seen_titles": [
-  "\"초과세수는하늘이주신기회,미래위해혁신기술에투자해야\"[최준...",
-  "“K바이오먼저만나자”글로벌미팅수백건[바이오USA현장]",
-  "KAIST'이상한약광고'공포론···AI정보유출위험가린다",
-  "슈퍼리치가담은국내주식은현대차·하이닉스·삼전順",
-  "AI인프라투자확대수혜…슈퍼마이크로컴'불기둥'",
   "LG유플러스,임단협장기화에사측'주도권굳히기'⋯인상률0.4%확정되...",
   "KT신뢰회복순항…100일맞는박윤영號'AI본게임'출격",
   "\"쉬었음딛고취업門넓히세요\"",
@@ -6001,7 +5996,12 @@
   "\"AI시대,질문하는인간\"…서울국제도서전개막",
   "웹케시,NH농협은행'AI에이전트기반조회'구축한다",
   "삼성SDS·LGCNS·카카오등총출동…공공행정도'에이전틱AI'시대",
-  "용인반도체삼성전자팹이전‘일단락’모드…업계불안은지속"
+  "용인반도체삼성전자팹이전‘일단락’모드…업계불안은지속",
+  "‘한화가왜버렸나’논란의필승조1군컴백,2군ERA20.25에도콜업...",
+  "한남대‘국방분야AI전환’이끈다",
+  "손정의“AI혁명은이제막시작…버블언급은모독”",
+  "중부발전-위플랫,'2026년제1차윈윈아너스'프로젝트최종선정",
+  "코스피,대폭락다음날반등성공…삼성전자10%급등"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-06-24T17:22:16.609595+09:00",
    "삼성전자 이전 지속 일단락 용인반도체 불안은 업계 모드"
+  ],
+  [
+   "2026-06-24T17:24:19.144115+09:00",
+   "대폭락 반등 삼성전자 급등 성공 코스피 다음날"
   ]
  ],
- "last_run": "2026-06-24T17:22:36.283105+09:00",
+ "last_run": "2026-06-24T17:24:48.980786+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6801,6 +6805,7 @@
   "news.appstory.co.kr": "앱스토리",
   "idaegu.com": "대구일보",
   "theviewers.co.kr": "뷰어스",
-  "kyeongin.com": "경인일보"
+  "kyeongin.com": "경인일보",
+  "sisafocus.co.kr": "시사포커스"
  }
 }
