@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268278",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597876437907",
   "https://www.dailysecu.com/news/articleView.html?idxno=207291",
   "https://www.hani.co.kr/arti/international/international_general/1265016.html",
   "https://www.segye.com/newsView/20260623514934?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02279606645485328",
   "https://www.mt.co.kr/industry/2026/06/25/2026062416550154925",
   "https://www.dailian.co.kr/news/view/1659596/?sc=Naver",
-  "https://www.mt.co.kr/tech/2026/06/25/2026062314552770090"
+  "https://www.mt.co.kr/tech/2026/06/25/2026062314552770090",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86017",
+  "https://www.seoul.co.kr/news/economy/2026/06/25/20260625500010?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "SK텔레콤,대학생소통강화…'CX캠퍼스'프로젝트8주간운영",
-  "SK텔레콤,'ALEPH'로AI보안·네트워크인재양성나선다",
   "LG유플러스,'천원의사랑'으로6·25참전유공자지원",
   "트럼프,양자내성암호전환시한못박았다…美연방기관2030년까지전...",
   "‘중국을이겨라’AI규제않는미국,군비확장부추기다",
@@ -6001,7 +5999,9 @@
   "마이크론,메모리공급난에매출4배↑…시간외서10%↑",
   "춤추고백플립하는로봇...\"근데이게돈이돼?\"1년뒤놀라운진화",
   "월가뒤흔든마이크론…예상뛰어넘은실적에시간외14%급등",
-  "GPU확보했지만…AI팩토리못짓는이유\"네가지없어서\""
+  "GPU확보했지만…AI팩토리못짓는이유\"네가지없어서\"",
+  "[뉴겜투데이]위메이드,'나이트크로우'IP신작명칭'나이트크로우...",
+  "[서울데이터랩]미국증시혼조출발…다우상승,나스닥·S＆P500약세"
  ],
  "recent_sigs": [
   [
@@ -6145,7 +6145,7 @@
    "GPU 확보했지만 없어서 가지 이유 못짓는 AI팩토리"
   ]
  ],
- "last_run": "2026-06-25T06:36:31.391597+09:00",
+ "last_run": "2026-06-25T06:38:34.643942+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
