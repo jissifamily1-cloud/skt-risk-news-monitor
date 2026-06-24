@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.imaeil.com/page/view/2026062314582218759",
-  "http://www.newstomato.com/ReadNews.aspx?no=1304919&inflow=N",
-  "https://www.khan.co.kr/article/202606231703011",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=873086",
-  "https://kpenews.com/View.aspx?No=4122896",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164327",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677518",
-  "https://www.aitimes.com/news/articleView.html?idxno=212026",
-  "https://www.mk.co.kr/article/12081020",
   "https://www.mk.co.kr/article/12081022",
   "https://www.newsis.com/view/NISX20260623_0003680367",
   "http://www.fnnews.com/news/202606231626237148",
@@ -2999,18 +2990,18 @@
   "https://www.hellot.net/news/article.html?no=113398",
   "https://www.ajunews.com/view/20260624143916089",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=248782",
-  "https://byline.network/?p=9004111222609477"
+  "https://byline.network/?p=9004111222609477",
+  "http://www.popcornnews.net/news/articleView.html?idxno=124578",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=421949",
+  "http://www.newstomato.com/ReadNews.aspx?no=1305073&inflow=N",
+  "https://biz.sbs.co.kr/article_hub/20000318627?division=NAVER",
+  "https://www.newspim.com/news/view/20260624001065",
+  "https://biz.sbs.co.kr/article_hub/20000318629?division=NAVER",
+  "https://www.newsis.com/view/NISX20260624_0003682005",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04854406645485000",
+  "https://www.newspim.com/news/view/20260624001068"
  ],
  "seen_titles": [
-  "AI도골라쓰는시대…카페24,AI모델한데묶은'LLM라우터'선보여",
-  "경찰'모두의창업'조사착수…중기부\"원인규명에협조\"",
-  "이대통령,이재용·최태원과연쇄회동…광주전남에대규모반도체투자",
-  "삼전은‘반도체’,SK는‘AI데이터센터’···광주근교권대규모투...",
-  "'검은화요일'코스피,10%폭락해8,203으로마감...코스닥도7.9↓%",
-  "[현장쏙]디지털자산입법,한국은어디쯤왔나..해시드오픈리서치,정...",
-  "\"AI가車성능좌우한다\"…SDV시대,커지는빅테크영향력",
-  "[데일리픽]비트코인,부동산처럼장기보유해라…中,美희토류·방산...",
-  "오라클,AI인프라투자확대로2만1000명감원",
   "의료AI키워라…정부,데이터빗장푼다",
   "\"민원처리도AI가\"삼성SDS,공공AX공략",
   "'지방반도체투자설'속현장찾은이재용삼성전자회장…천안후공정...",
@@ -6001,7 +5992,16 @@
   "씨큐비스타,복호화없이암호화위협실시간탐지하는'NDR패킷사이버...",
   "[글로벌증시'반도체천하통일'①미국]GE의아성을깬애플,애플을넘...",
   "무역협회,샌디에이고서K-바이오스타트업신약개발역량선보여",
-  "오픈AI연봉1억원뿐인샘올트먼,진짜수익원은따로있다"
+  "오픈AI연봉1억원뿐인샘올트먼,진짜수익원은따로있다",
+  "통신3사2분기실적키워드는'비용'…SKT·LGU+는웃고KT는신중",
+  "3兆신재생띄운GS건설···'이니마'빈자리채울까",
+  "글로벌증시도반도체쏠림…내년까지간다",
+  "[증시인사이트]10%하락딛고반등…9000선향해달리는코스피",
+  "[GAM]BofA\"메모리공급과잉2028년까지없다…마이크론목표가1500달...",
+  "[뉴욕증시전략]韓서시작된투매확산…나스닥2%대하락",
+  "공공소프트웨어납품때'성분표'낸다…정부,내년부터단계적용(종...",
+  "\"AI인프라는한몸\"…박윤영,KT클라우드재합병검토[only이데일리]",
+  "손정의\"초인공지능시대온다\"...오픈AI·ARM·로봇으로'ASI제국'구축"
  ],
  "recent_sigs": [
   [
@@ -6499,9 +6499,17 @@
   [
    "2026-06-24T16:46:17.473993+09:00",
    "진짜 1억원뿐인 수익원은 따로 있다 연봉"
+  ],
+  [
+   "2026-06-24T16:48:16.517730+09:00",
+   "한몸 박윤영 검토 인프라는 KT클라우드 재합병"
+  ],
+  [
+   "2026-06-24T16:48:16.517730+09:00",
+   "초인공지능 로봇으로 구축 시대 손정의 ASI ARM 온다 제국"
   ]
  ],
- "last_run": "2026-06-24T16:46:35.539057+09:00",
+ "last_run": "2026-06-24T16:48:41.012109+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
