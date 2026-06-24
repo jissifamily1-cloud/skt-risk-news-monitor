@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.redian.org/news/articleView.html?idxno=256852",
-  "https://biz.chosun.com/it-science/ict/2026/06/23/3RCXZ6YGGBC25PQMQPH24R2YPM/",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=844819",
-  "https://www.mt.co.kr/industry/2026/06/23/2026062310120962697",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=103841",
-  "https://www.hankyung.com/article/2026062334167",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=844818",
   "https://www.hankyung.com/article/2026062335491",
   "http://datanews.co.kr/news/article.html?no=145267",
   "https://www.dailysecu.com/news/articleView.html?idxno=207286",
@@ -2999,16 +2992,16 @@
   "https://www.donga.com/news/Economy/article/all/20260624/134174514/1",
   "https://www.ajunews.com/view/20260624165712492",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=248757",
-  "https://www.kyeonggi.com/article/20260624580473"
+  "https://www.kyeonggi.com/article/20260624580473",
+  "http://www.osen.co.kr/article/G1112827791",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=359256",
+  "https://www.tokenpost.kr/news/breaking/372407",
+  "https://www.sidae.com/article/2026062416181047473",
+  "http://www.economytalk.kr/news/articleView.html?idxno=422165",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=309493",
+  "https://news.appstory.co.kr/daily19269"
  ],
  "seen_titles": [
-  "케이블TV,'지역밀착선거방송'으로존재감입증…숏폼·AI활용확대",
-  "영화'현상수배',안방극장상륙...IPTV·VOD서비스전격개시",
-  "[비즈톡톡]매장늘리고알뜰폰까지했지만…한국서막힌샤오미생태...",
-  "[#시큐리티포커스]F5'ADSP비전'공개·앤앤에스피'보안기능확인서'...",
-  "제9회소방방재기술산업전(FIRETECHKOREA),참관객사전등록진행",
-  "삼성25년독주깬SK하이닉스,급락장에도시총1위",
-  "루마니아병원들,해커공격에아날로그방식으로대처",
   "[#통신풍향계]이스트-SKT-테라코'AI아바타'개발·LGU+'참전유공자...",
   "재경부이어금융위도챗GPT·제미나이허용",
   "보이스피싱민원125.7%급증…금융민원증가세",
@@ -6001,7 +5994,14 @@
   "“온·습도자동조절에완벽보안”…가전업계‘AI모듈러주택’시...",
   "삼전닉스급락나스닥까지확산…\"레버리지ETF가변동성증폭,글로벌...",
   "이재용삼성회장야심작HBM4...출시4개월만에1.5조쓸어담았다",
-  "22억비트코인증거물분실하고도'징계무'…강남경찰서기강해이논..."
+  "22억비트코인증거물분실하고도'징계무'…강남경찰서기강해이논...",
+  "'사구골절'김휘집이드디어돌아왔다,7번3루수선발…'송구실책'서...",
+  "손정의\"AI생태계올인,버블론은모독\"",
+  "서울경찰,22BTC분실감사없이종결…징계없어",
+  "[르포]집은살아숨쉬는나만의집사…'삼성AI모듈러홈'가보니",
+  "[진단]KT탓,티빙탓만하면끝?…제휴서비스보안책임은제각각",
+  "농협상호금융'NH콕마이데이터',2026국가브랜드대상수상",
+  "애플·테슬라기밀문서유출의혹…인도타타해킹피해"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,21 @@
   [
    "2026-06-24T17:00:39.812723+09:00",
    "67만원까지 화요일 삼성전자 상승한 검은 충격 딛고"
+  ],
+  [
+   "2026-06-24T17:04:18.536633+09:00",
+   "국가브랜드 NH콕마이데이터 농협상호금융 대상 수상"
+  ],
+  [
+   "2026-06-24T17:04:18.536633+09:00",
+   "티빙 제휴 보안 책임은 서비스 탓만 제각각 하면"
+  ],
+  [
+   "2026-06-24T17:04:18.536633+09:00",
+   "유출 타타 기밀 인도 애플 문서 피해 의혹 테슬라"
   ]
  ],
- "last_run": "2026-06-24T17:02:38.856090+09:00",
+ "last_run": "2026-06-24T17:04:43.578213+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6789,6 +6801,7 @@
   "koit.co.kr": "정보통신신문",
   "incheonilbo.com": "인천일보",
   "kr.aving.net": "에이빙(AVING)",
-  "slownews.kr": "슬로우뉴스"
+  "slownews.kr": "슬로우뉴스",
+  "news.appstory.co.kr": "앱스토리"
  }
 }
