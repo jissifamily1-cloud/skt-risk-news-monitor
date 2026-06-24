@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260623514936?OutUrl=naver",
-  "https://www.segye.com/newsView/20260623517590?OutUrl=naver",
-  "http://www.kgnews.co.kr/news/article.html?no=901120",
   "http://enews.imbc.com/News/RetrieveNewsInfo/508874",
   "https://www.news2day.co.kr/article/20260623500180",
   "https://www.segye.com/newsView/20260623517844?OutUrl=naver",
@@ -2999,12 +2996,12 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676870",
   "https://www.sedaily.com/article/20059646",
   "http://www.osen.co.kr/article/G1112828130",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6832694_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6832694_37012.html",
+  "https://www.etoday.co.kr/news/view/2596993",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678077",
+  "https://www.newspim.com/news/view/20260625000031"
  ],
  "seen_titles": [
-  "[다음주재정경제부등경제부처일정]",
-  "실무에꼭맞는비서로…SKT‘말뿐인AI’넘어‘쓰는AI’박차",
-  "삼전·닉스,호남에수백조생산시설추진",
   "[엄태윤의마켓인텔리전스]미래산업최강자인엔비디아·스페이스X의...",
   "임우일,유재석에게100만원받은사연“이삿날우연히…”(전현무계...",
   "[N2모닝경제브리핑-6월24일]美증시,3대지수일제히하락…AI투자...",
@@ -6001,7 +5998,10 @@
   "아마존MGM,샘알트먼영화'아티피셜'손뗐다",
   "“오픈AI는규제안하면서”...앤스로픽사용금지형평성논란",
   "‘미쳤다161.7km’문동주기록깼다…“리그불펜1등이다”감독극찬...",
-  "\"모두가AI혜택누리도록\"‥뤼순감옥도방문"
+  "\"모두가AI혜택누리도록\"‥뤼순감옥도방문",
+  "뉴욕증시,반도체주매도·유가급락속혼조...나스닥0.43%↓[종합]",
+  "오픈AI,자체AI추론서버칩내놨다...연말첫가동",
+  "[AIMY뉴스]25일중국증시'구조적장세지속,주도업종순환흐름'"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,17 @@
   [
    "2026-06-25T06:46:16.470795+09:00",
    "혜택 방문 누리도록 뤼순감옥도 모두가"
+  ],
+  [
+   "2026-06-25T06:48:15.906055+09:00",
+   "자체 추론 서버칩 가동 내놨다 연말"
+  ],
+  [
+   "2026-06-25T06:48:15.906055+09:00",
+   "업종 흐름 구조적 주도 순환 지속 장세 중국증시 25일"
   ]
  ],
- "last_run": "2026-06-25T06:46:35.661486+09:00",
+ "last_run": "2026-06-25T06:48:42.953993+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
