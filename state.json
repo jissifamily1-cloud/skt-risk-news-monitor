@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongboo.com/news/articleView.html?idxno=363729582",
-  "https://www.sportsseoul.com/news/read/1618322",
-  "https://www.news1.kr/sports/baseball/6206220",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=359183",
   "https://www.yeongnam.com/web/view.php?key=20260623024121842",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677685",
@@ -2999,12 +2996,12 @@
   "https://www.seoultimes.news/news/article.html?no=2000097008",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=846222",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=846226",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16110333"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16110333",
+  "https://www.kyeongin.com/article/1766119",
+  "https://www.naeil.com/news/read/593035",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=639686"
  ],
  "seen_titles": [
-  "만루서통했다…안현민개인2번째만루포…KT승리기대↑[MD수원]",
-  "이광재민주당하남갑당선인,하남발전구상제시…\"국공유지활용해...",
-  "‘장현식3191일만에선발승’LG,삼성4-3제압‘4연승’…삼성은실...",
   "KT안현민,SSG상대로개인통산2번째만루포작렬'시즌4호'",
   "한투운용'ACE글로벌AI맞춤형반도체ETF'순자산500억돌파",
   "삼성라이온즈,LG와의주중시리즈첫경기서패",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,나스닥상장본격화…AI메모리투자위해최대45조원조달",
   "앱티브,엔비디아와엣지AI상용화협력",
   "데이터이쿠,AI빌딩에이전트'코빌드'공개",
-  "SK하이닉스나스닥상장추진…45조원규모ADR발행계획"
+  "SK하이닉스나스닥상장추진…45조원규모ADR발행계획",
+  "피어린희생에대한보답,훈장추서[이원규작가가쓴임영균약전·(...",
+  "서비스에이스,ISO27001인증획득…정보보안·환경·안전‘트리플인...",
+  "거제시,조선전기통신사역사적규명학술대회"
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,13 @@
   [
    "2026-06-24T18:48:16.138164+09:00",
    "빌딩 공개 데이터이쿠 코빌드 에이전트"
+  ],
+  [
+   "2026-06-24T18:52:17.534356+09:00",
+   "거제시 전기 규명 학술대회 역사적 조선"
   ]
  ],
- "last_run": "2026-06-24T18:50:44.340736+09:00",
+ "last_run": "2026-06-24T18:52:36.930454+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6843,6 +6847,7 @@
   "theviewers.co.kr": "뷰어스",
   "kyeongin.com": "경인일보",
   "sisafocus.co.kr": "시사포커스",
-  "newswatch.kr": "뉴스워치"
+  "newswatch.kr": "뉴스워치",
+  "gnnews.co.kr": "경남일보"
  }
 }
