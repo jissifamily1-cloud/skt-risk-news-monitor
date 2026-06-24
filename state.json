@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=41939",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1713545",
-  "http://www.4th.kr/news/articleView.html?idxno=2112985",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3615254",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=440607",
-  "https://www.aitimes.com/news/articleView.html?idxno=211859",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676121",
   "https://www.aitimes.com/news/articleView.html?idxno=211815",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=675766",
   "https://zdnet.co.kr/view/?no=20260616172636",
@@ -2999,16 +2992,16 @@
   "https://www.goodkyung.com/news/articleView.html?idxno=288097",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4421589",
   "https://www.smartbizn.com/news/articleView.html?idxno=146901",
-  "https://www.mk.co.kr/article/12081706"
+  "https://www.mk.co.kr/article/12081706",
+  "http://www.4th.kr/news/articleView.html?idxno=2113118",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1712183",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092163615",
+  "https://www.mk.co.kr/article/12070788",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=440715",
+  "https://www.etnews.com/20260624000152",
+  "https://sports.khan.co.kr/article/202606241054013?pt=nv"
  ],
  "seen_titles": [
-  "유럽AI팩토리90%장악…엔비디아,유럽23개국에슈퍼컴35대구축",
-  "LG전자목표가35만원상향…AI데이터센터·로봇사업반영-교보증권",
-  "[AI3대강국,인프라는준비됐나④]엔비디아의존의덫",
-  "바디프랜드,'헬스케어플랫폼'체질개선박차",
-  "영진전문대학교,외국인유학생26명...K-뷰티작품품평회서미래꿈발...",
-  "미국영국등5개국정보동맹\"첨단AI모델이사이버공격위험키운다...",
-  "[6월18일]반도체다음은AI모델...G7서떠오른'접근권외교'",
   "앤트로픽·구글딥마인드\"AI는미국이이끌어야\"…G7서연합구축촉구",
   "[6월17일]앤트로픽을둘러싼미국의달라진시선...\"AI안전론의역설\"",
   "챗GPT,이가격이맞나?…이용자들사이서뜻밖의'너무싸다'논쟁",
@@ -6001,7 +5994,14 @@
   "[스마트주거플랫폼기획⑨·끝]실용택한대방건설,일상스며든'생...",
   "\"용인만으론부족하다\"…김용범,AI시대'제2반도체벨트'필요성제기...",
   "호남반도체클러스터급부상···삼성·SK'기대와우려교차'",
-  "올해한미과학행사에엔비디아공동창업자온다"
+  "올해한미과학행사에엔비디아공동창업자온다",
+  "이통사이용자보호평가LG유플러스'매우우수'..SKT·KT'우수'",
+  "\"폐통신장비속1800억핵심광물\"…정부·이통사,순환체계구축나선다",
+  "데이터쿠폰'찔끔'…이통사장기고객통신혜택여전히부족",
+  "“AI3대강국,통신망에달렸다”...산학전문가들,주파수추가공급·...",
+  "중국CXMT메모리반도체'다크호스'역량증명,삼성전자SK하이닉스HBM...",
+  "데일리:디렉션,'MONKEYMODE'파격컴백선언",
+  "해킹한건아기원숭이···데일리:디렉션,수상한예고"
  ],
  "recent_sigs": [
   [
@@ -6505,7 +6505,7 @@
    "올해 공동창업자 한미과학행사에 온다"
   ]
  ],
- "last_run": "2026-06-24T10:54:40.659766+09:00",
+ "last_run": "2026-06-24T10:56:38.278417+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
