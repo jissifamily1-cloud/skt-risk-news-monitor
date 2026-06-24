@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsbrite.net/news/articleView.html?idxno=198820",
-  "https://www.lecturernews.com/news/articleView.html?idxno=203755",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355054",
-  "https://www.tvreport.co.kr/breaking/article/1056229/",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403389",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=355055",
   "https://www.kyeonggi.com/article/20260623580523",
   "https://www.ftimes.kr/news/articleView.html?idxno=38174",
@@ -2999,14 +2994,14 @@
   "http://www.paxetv.com/news/articleView.html?idxno=275505",
   "https://www.aitimes.com/news/articleView.html?idxno=212058",
   "https://www.etoday.co.kr/news/view/2596830",
-  "https://www.newspim.com/news/view/20260624000967"
+  "https://www.newspim.com/news/view/20260624000967",
+  "https://kookbang.dema.mil.kr/newsWeb/20260625/1/ATCE_CTGR_0060010000/view.do",
+  "https://www.munhwa.com/article/11597971",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04778966645485000",
+  "http://www.fnnews.com/news/202606241552090711",
+  "https://www.aitimes.com/news/articleView.html?idxno=212067"
  ],
  "seen_titles": [
-  "\"매년1만명씩줄어드는참전유공자\"...LG유플러스,생활안정지원나서",
-  "'페포월드닷컴'오픈...삼양식품,글로벌팬참여형캐릭터생태계구...",
-  "영화'중간계'\"이승과저승사이!강윤성감독,변요한·김강우·방효린...",
-  "네이버랩스유럽,로봇두뇌경량화기술공개…피지컬AI상용화속도",
-  "20회연장승부수통했나…사이다복수극→시청률6.1%로최고찍은韓...",
   "삼성SDS,공공AI박람회서AX청사진공개…\"AI에이전트부터AI데이터...",
   "최태원이말한AI시대인재상…\"질문하고협력하라\"",
   "외국인농사희비…KT는‘대박’,SSG는‘악몽’",
@@ -6001,7 +5996,12 @@
   "[리포트]\"AI,이럴때이렇게활용하세요\"…KT,기업의AI도입‧활용...",
   "오픈AI,IPO앞두고광고시장조준…칸에서챗GPT광고비즈니스공개",
   "[속보]KBO올스타전최종명단발표⋯최다득표는양의지",
-  "개인정보유출로신뢰잃은'모두의창업'…후속기수흥행도시험대"
+  "개인정보유출로신뢰잃은'모두의창업'…후속기수흥행도시험대",
+  "한강을사수하라...역사를바꾼6일",
+  "AI발SW공급망공격우려에…정부,SW공급망보안로드맵발표",
+  "'모두의창업'유출논란중기부…산하기관보안인력은6년째제자리[...",
+  "정부'호남반도체'속도전인데...삼성,SK\"추진은하는데모든게유동...",
+  "엔비디아,생명과학분야용소프트웨어출시...코딩지식없어도에이전..."
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,17 @@
   [
    "2026-06-24T16:16:15.330586+09:00",
    "개인정보 잃은 후속 모두의창업 흥행도 시험대 유출로 신뢰 기수"
+  ],
+  [
+   "2026-06-24T16:18:17.845547+09:00",
+   "바꾼 한강을 역사를 사수하라 6일"
+  ],
+  [
+   "2026-06-24T16:18:17.845547+09:00",
+   "분야용 지식 에이전 소프트웨어 코딩 출시 없어도 생명과학"
   ]
  ],
- "last_run": "2026-06-24T16:16:39.576352+09:00",
+ "last_run": "2026-06-24T16:18:39.188013+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
