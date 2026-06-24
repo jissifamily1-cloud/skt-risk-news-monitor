@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355055",
-  "https://www.kyeonggi.com/article/20260623580523",
-  "https://www.ftimes.kr/news/articleView.html?idxno=38174",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3615626",
-  "https://biz.heraldcorp.com/article/10785586",
-  "https://vop.co.kr/A00001695374.html",
-  "https://www.inews365.com/news/article.html?no=924651",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355068",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4421454",
   "http://www.mkhealth.co.kr/news/articleView.html?idxno=79019",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390206.html",
@@ -2999,17 +2991,17 @@
   "https://www.munhwa.com/article/11597971",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04778966645485000",
   "http://www.fnnews.com/news/202606241552090711",
-  "https://www.aitimes.com/news/articleView.html?idxno=212067"
+  "https://www.aitimes.com/news/articleView.html?idxno=212067",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=77465",
+  "https://www.yna.co.kr/view/AKR20260624140400007?input=1195m",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677854",
+  "https://www.aitimes.com/news/articleView.html?idxno=212064",
+  "https://zdnet.co.kr/view/?no=20260624161604",
+  "https://www.etoday.co.kr/news/view/2596892",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=844933",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=844932"
  ],
  "seen_titles": [
-  "삼성SDS,공공AI박람회서AX청사진공개…\"AI에이전트부터AI데이터...",
-  "최태원이말한AI시대인재상…\"질문하고협력하라\"",
-  "외국인농사희비…KT는‘대박’,SSG는‘악몽’",
-  "돌아온KIA카스트로,100만달러의가치를증명하다",
-  "대구광역시,밀폐공간질식사고막는다...수급인대상예방교육실시",
-  "‘머스크야심작’우주데이터센터에…‘장점없다’손정의일축,왜...",
-  "“빅테크지분거둬국민배당”샌더스의‘AI국부펀드’이사회진출...",
-  "충북대교육·연구·행정전반AX본격추진",
   "넥슨,5년간2500억원게임스타트업투자…AI전환기차세대IP선점나...",
   "펀드스트랫\"M7,매수기회왔다\"",
   "미래먹거리찾아라…뷰티·웰니스업계생태계경쟁",
@@ -6001,13 +5993,17 @@
   "AI발SW공급망공격우려에…정부,SW공급망보안로드맵발표",
   "'모두의창업'유출논란중기부…산하기관보안인력은6년째제자리[...",
   "정부'호남반도체'속도전인데...삼성,SK\"추진은하는데모든게유동...",
-  "엔비디아,생명과학분야용소프트웨어출시...코딩지식없어도에이전..."
+  "엔비디아,생명과학분야용소프트웨어출시...코딩지식없어도에이전...",
+  "코스닥,하루만에반등...개인·기관순매수",
+  "두산양의지,8년만에올스타팬투표최다득표…15번째선정",
+  "더존비즈온,세무사전용지원센터오픈",
+  "오픈소스이미지모델'크레아2'출시...\"2초만에기업용이미지생성...",
+  "NH농협은행예금만기조회더쉬워진다…웹케시,AI기업뱅킹구축",
+  "모건스탠리\"한국증시급락은일시적숨고르기…코스피강세장서1만...",
+  "[#시큐리티포커스]아이티센글로벌-BTQ'양자보안MOU'·시큐비스타'패...",
+  "[#통신풍향계]LGU+'AICC전환지원MOU'·KT밀리'서울국제도서전'참..."
  ],
  "recent_sigs": [
-  [
-   "2026-06-24T10:20:26.691245+09:00",
-   "제미나이 압도 미토스 뛰어나 버그수정서 너무 막혔다 GPT"
-  ],
   [
    "2026-06-24T10:24:16.147294+09:00",
    "옴니 사람처럼 말하는 모델 개발 듣고"
@@ -6479,9 +6475,17 @@
   [
    "2026-06-24T16:18:17.845547+09:00",
    "분야용 지식 에이전 소프트웨어 코딩 출시 없어도 생명과학"
+  ],
+  [
+   "2026-06-24T16:20:28.131841+09:00",
+   "시큐비스타 양자보안 MOU 아이티센글로벌 BTQ"
+  ],
+  [
+   "2026-06-24T16:20:28.131841+09:00",
+   "지원 KT밀리 서울국제도서전 AICC MOU LGU"
   ]
  ],
- "last_run": "2026-06-24T16:18:39.188013+09:00",
+ "last_run": "2026-06-24T16:20:48.900207+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
