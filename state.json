@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90103",
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31086",
-  "https://www.itbiznews.com/news/articleView.html?idxno=217001",
-  "http://www.fnnews.com/news/202606231123229515",
-  "https://www.newspim.com/news/view/20260623000431",
-  "https://www.newspim.com/news/view/20260623000453",
-  "https://www.cnet.co.kr/view/?no=20260623114922",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=166978",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=268377",
   "https://www.newspim.com/news/view/20260623000487",
   "https://www.thepublic.kr/news/articleView.html?idxno=308680",
@@ -2999,17 +2991,17 @@
   "https://www.tokenpost.kr/news/market/372319",
   "https://www.joongang.co.kr/article/25439432",
   "https://www.techm.kr/news/articleView.html?idxno=152770",
-  "https://news.mtn.co.kr/news-detail/2026062411061295078"
+  "https://news.mtn.co.kr/news-detail/2026062411061295078",
+  "https://www.seoul.co.kr/news/sport/2026/06/24/20260624500097?wlog_tag3=naver",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553320158",
+  "https://www.newspim.com/news/view/20260623000395",
+  "https://biz.heraldcorp.com/article/10786465",
+  "https://view.asiae.co.kr/article/2026062409351306343",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=873130",
+  "http://www.paxetv.com/news/articleView.html?idxno=275466",
+  "http://www.newsprime.co.kr/news/article.html?no=737835"
  ],
  "seen_titles": [
-  "\"미토스보다우리\"…오픈AI,사이버보안프로그램'데이브레이크'확...",
-  "[이선영의나이스샷]올여름젠슨황이남긴것",
-  "대신증권,ESOP·자사주소각실시外",
-  "LGU+사내기부'천원의사랑',6·25참전유공자지원",
-  "한국AI·로봇산업협회신임상근부회장에배석태동명대교수",
-  "[AI프리뷰]23일고척키움-KIA전,'신인'박준현앞세워'6전전패'KIA전...",
-  "[AI프리뷰]23일대전한화-두산전,'다승1위'류현진등판한화의분위...",
-  "마이크로닉스,AI서버용최대3600W전원솔루션출시",
   "증시불안땐방어주?...LG유플러스·하이트진로'장중상승'",
   "\"가격메리트말곤호재없다…KT,2분기어닝쇼크우려와올해배당기...",
   "[AI프리뷰]23일수원KT-SSG전,SSG김건우KT킬러본능발휘하나",
@@ -6001,7 +5993,15 @@
   "반도체주급락,인공지능투자우려와금리인상파장",
   "중기부개인정보유출사고에‘노출’표현…책임축소의도지적",
   "이메일만샌게아닌데...'모두의창업'유출사고에공공책임기준시...",
-  "삼성·SK,'호남반도체클러스터'윤곽…\"논의막바지\""
+  "삼성·SK,'호남반도체클러스터'윤곽…\"논의막바지\"",
+  "류현진한미통산2500탈삼진을통해본탈삼진의세계",
+  "'와'이런반전이,팬들비판'1순위'였던52억불펜의변신…4GERA0.98→...",
+  "'싱어게인'출신부터가요제싹쓸이인재까지…'마이케이팝스타'예선...",
+  "‘金卵’시대,30구한판5000원대수입산완판대란",
+  "[단독]이재명정부,K로보틱스육성청사진내놓는다…두산·현대차총...",
+  "[상반기결산]'반도체천하'속삼성전자·SK·현대차·LG·네이버등산...",
+  "[유료방송'밀실평가'의민낯④]이재명대통령의'공정성장'외면한...",
+  "이재용,천안HBM생산라인방문…기술초격차성과점검"
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,21 @@
   [
    "2026-06-24T11:14:16.326664+09:00",
    "해준 광주 전남 의원들에 국가가 민주주의 기여했는데"
+  ],
+  [
+   "2026-06-24T11:18:16.304309+09:00",
+   "HBM 천안 이재용 성과 방문 기술 생산라인 초격차 점검"
+  ],
+  [
+   "2026-06-24T11:18:16.304309+09:00",
+   "삼성전자 천하 SK 네이버 현대차 LG 반도체"
+  ],
+  [
+   "2026-06-24T11:18:16.304309+09:00",
+   "내놓는다 두산 정부 육성 K로보틱스 현대차 청사진 이재명"
   ]
  ],
- "last_run": "2026-06-24T11:16:37.109822+09:00",
+ "last_run": "2026-06-24T11:18:46.741976+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
