@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260623000418",
-  "http://www.newstomato.com/ReadNews.aspx?no=1304932&inflow=N",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462486",
-  "https://www.namdonews.com/news/articleView.html?idxno=914467",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355062",
-  "https://www.ngetnews.com/news/articleView.html?idxno=550959",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030009397&code=61131111&cp=nv",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1165310",
-  "https://www.news1.kr/local/daejeon-chungnam/6206002",
   "http://www.itdaily.kr/news/articleView.html?idxno=240004",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=305417",
   "https://www.nocutnews.co.kr/news/6537376",
@@ -2999,18 +2990,18 @@
   "https://www.newspim.com/news/view/20260624001038",
   "https://www.mk.co.kr/article/12082030",
   "https://www.etoday.co.kr/news/view/2596898",
-  "https://www.thepublic.kr/news/articleView.html?idxno=308897"
+  "https://www.thepublic.kr/news/articleView.html?idxno=308897",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=659169",
+  "https://www.etoday.co.kr/news/view/2596900",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04808486645485000",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616736",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616723",
+  "https://www.mediapen.com/news/view/1106157",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=167062",
+  "https://www.news1.kr/industry/general-industry/6207238",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713795"
  ],
  "seen_titles": [
-  "선풍기부터냉장고까지…패션앱장바구니커진다",
-  "대구창조경제혁신센터,'제8회대구스타트업오픈이노베이션밋업데이...",
-  "290조온라인쇼핑시장의그늘…AI유통혁신'수도권독식'",
-  "[코스시지수선물옵션]삼성전자·SK하이닉스흔들리자선물도와르르...",
-  "[질문]전남광주,반도체인재가살고싶은도시인가",
-  "전세·월세부담커지자분양시장관심…고덕국제신도시신규공급",
-  "SK바이오팜,AI기반CNS치료제개발착수…인실리코메디슨과맞손",
-  "방산기업순위가바뀐다…팔란티어기업가치,록히드마틴‘훌쩍’",
-  "특구재단-에어버스,대덕딥테크발굴'오픈이노베이션'성료",
   "특구재단,에어버스와미래항공우주분야특구기업실증연계추진",
   "[AI브리프]데이터브릭스,에이전트기반고객데이터플랫폼'커스터...",
   "SK하이닉스,삼성전자넘었다…14년전최태원의선택이만든반전",
@@ -6001,7 +5992,16 @@
   "한화운용HBM반도체ETF,순자산2조돌파",
   "불법가상자산취급업자12곳무더기적발…수수료정식거래소최대62배",
   "kt밀리의서재,서울국제도서전참가…'밀리하우스'에서독서를일상처...",
-  "레버리지ETF자산2900억달러돌파…韓반도체급락에위험부각"
+  "레버리지ETF자산2900억달러돌파…韓반도체급락에위험부각",
+  "[기획]SK텔레콤,AI풀스택전략본궤도…통신넘어AI기업전환속도",
+  "[속보]KBO올스타전'역전'주인공6명⋯최원준ㆍ김주원등",
+  "양의지,역대최다팬투표新...15번째올스타전간다",
+  "대전유성구의회,제10대의원당선인오리엔테이션개최…15명의정활동...",
+  "논산시,민선9기'공약실현가능성과타당성사전검토보고회'개최",
+  "\"이제는협업이뉴노멀\"…제약업계,희귀질환신약'분업화'로리스크...",
+  "삼성전자뛰자,코스피'껑충'...바이오·화장품주'활짝'",
+  "무협,美샌디에고서AI·바이오행사…K-스타트업글로벌진출지원",
+  "호남·충청에K-반도체새거점추진…삼성·SK투자계획마무리수순"
  ],
  "recent_sigs": [
   [
@@ -6481,7 +6481,7 @@
    "레버리지 자산 2900억달러 돌파 ETF 급락에 위험 부각 반도체"
   ]
  ],
- "last_run": "2026-06-24T16:26:36.095547+09:00",
+ "last_run": "2026-06-24T16:28:34.366804+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
