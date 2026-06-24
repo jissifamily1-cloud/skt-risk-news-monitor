@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1304792&inflow=N",
-  "https://www.thepublic.kr/news/articleView.html?idxno=308711",
-  "https://view.asiae.co.kr/article/2026062314040598203",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=359143",
-  "http://www.fnnews.com/news/202606231325273887",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355046",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86668",
   "https://www.donga.com/news/Inter/article/all/20260622/134157930/1",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=166984",
   "https://www.newsis.com/view/NISX20260623_0003679975",
@@ -2999,16 +2992,16 @@
   "https://www.nytimes.com/2026/06/23/nyregion/ny12-nadler-primary-micah-lasher.html?partner=naver",
   "https://www.mediawatch.kr/news/article.html?no=260160",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86671",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2051480"
+  "http://www.intn.co.kr/news/articleView.html?idxno=2051480",
+  "https://www.ytn.co.kr/_ln/0102_202606231344560507",
+  "https://www.newscj.com/news/articleView.html?idxno=3410856",
+  "https://www.the-stock.kr/news/articleView.html?idxno=32800",
+  "https://zdnet.co.kr/view/?no=20260624102742",
+  "https://www.dailian.co.kr/news/view/1659395/?sc=Naver",
+  "https://www.sjsori.com/news/articleView.html?idxno=86979",
+  "https://www.koit.co.kr/news/articleView.html?idxno=207713"
  ],
  "seen_titles": [
-  "오현경,'첫번째남자'서비자금추적위기…132회최고6.1%",
-  "개인정보침해우려…'AI예외주의'반대국민청원",
-  "美ADR상장기대감에시총1위까지'기염'…SK하이닉스,글로벌자본시...",
-  "오픈AI,사이버보안프로그램'데이브레이크'확대",
-  "LGU+,6·25참전유공자에'천원의사랑'기부금전달",
-  "지상파빈틈메운케이블TV…기초의원정보까지,채널가치재확인",
-  "AI-RAN주목하는통신업계…5G다음먹거리경쟁본격화",
   "국민일상점령한외산AI...지정학적리스크현실화",
   "트럼프양옆에올트먼·허사비스…“AICEO들,G7서정상급대우”",
   "美나스닥선물'급락'속...일본증시&日반도체주'장중뚝'",
@@ -6001,13 +5994,16 @@
   "MicahLasherWinsManhattanPrimary,DefeatingKennedyHeirandOther",
   "100억자산가들,AI·반도체株로고수익…SK하이닉스1241%",
   "정의선회장의피지컬AI승부수,보스턴다이내믹스IPO속도",
-  "불법가상자산취급업자(특금법상미신고가상자산사업자)이용-거래각..."
+  "불법가상자산취급업자(특금법상미신고가상자산사업자)이용-거래각...",
+  "하닉만큼잘나가는SK스퀘어주가,최태원회장의'말못할고민'?",
+  "'매관매직혐의'김건희여사1심등이번주선고",
+  "'성장정체'케이앤에스아이앤씨,IPO낙관경계",
+  "오픈서베이\"설문기획부터결과까지AI와쉽고빠르고정확하게\"",
+  "[단독]삼성전자,美ITC피소중'수입금지요건강화'빅테크연합참여",
+  "\"삼성이키운로봇AI수장,현대차로간다\"…휴머노이드전쟁속흔들리...",
+  "유지보수·관리제시행초기혼선…관리주체의무이행'필수'"
  ],
  "recent_sigs": [
-  [
-   "2026-06-24T07:52:15.550670+09:00",
-   "재평가 타고 랠리 SK스퀘어 하이닉스"
-  ],
   [
    "2026-06-24T07:56:15.687177+09:00",
    "생태계 시대 인재 확장 회장 숲을 이룬다 나무가"
@@ -6491,9 +6487,13 @@
   [
    "2026-06-24T13:46:14.857046+09:00",
    "기대 반도체 클러스터 계획에 호남 충청 400조원 우려"
+  ],
+  [
+   "2026-06-24T13:52:16.673380+09:00",
+   "관리주체 혼선 의무 초기 이행 시행 유지보수 관리제 필수"
   ]
  ],
- "last_run": "2026-06-24T13:50:47.286926+09:00",
+ "last_run": "2026-06-24T13:52:37.383884+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6765,6 +6765,7 @@
   "hemophilia.co.kr": "헤모필리아라이프",
   "newstopkorea.com": "뉴스톱",
   "thedailypost.kr": "데일리포스트",
-  "abcn.kr": "ABC뉴스"
+  "abcn.kr": "ABC뉴스",
+  "koit.co.kr": "정보통신신문"
  }
 }
