@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260623129600009?input=1195m",
-  "https://star.ytn.co.kr/_sn/0117_202606231540438079",
-  "https://www.greened.kr/news/articleView.html?idxno=343133",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=310611",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79469",
-  "https://www.topdaily.kr/articles/110652",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=202039",
   "https://www.thedailypost.kr/news/articleView.html?idxno=114455",
   "https://www.cnbnews.com/news/articleView.html?idxno=1005572",
   "http://fpn119.co.kr/252836",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3616659",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462744",
   "https://www.thelec.kr/news/articleView.html?idxno=58545",
-  "https://www.etoday.co.kr/news/view/2596842"
+  "https://www.etoday.co.kr/news/view/2596842",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207278",
+  "https://www.munhwa.com/article/11597952",
+  "https://www.thelec.kr/news/articleView.html?idxno=58562",
+  "https://www.tokenpost.kr/news/breaking/372387",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677951",
+  "http://journal.kobeta.com/?post_type=post&p=63066",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1325805"
  ],
  "seen_titles": [
-  "용인시,건축행정통합기준마련나선다…'협의체첫회의'개최",
-  "손정의,머스크의우주데이터센터'장점없다'일축",
-  "고준희,예능출연후달린악플\"20년째오해받아\"",
-  "마이크론실적발표D-1…HBM4공급·가격전망에'쏠린눈'",
-  "불복,불복…소송선택한쿠팡이끝내놓친것[추적+]",
-  "최태원,AI시대인재상제시…\"여럿이협력해사회기여해야\"",
-  "'고사위기'케이블TV,원가부담유지속매출급감'이중고'",
   "\"불닭캐릭터키운다\"...삼양애니,'페포월드'오픈",
   "NHN두레이,2026공공AI박람회서행정기관맞춤형AI협업인프라선봬",
   "삼양애니,신규캐릭터'페포'공식플랫폼'페포월드닷컴'오픈",
@@ -6001,13 +5994,16 @@
   "김해시서부보건소,동남아여행객대상뎅기열예방키트배부",
   "카카오'데이터센터안산',에너지효율화로온실가스연4753톤감축",
   "KT의팔란티어사업,'업무파트너'AI에이전트시대로",
-  "美법률기업‘리전리걸테크’,트럼프행정부의앤스로픽AI모델수출..."
+  "美법률기업‘리전리걸테크’,트럼프행정부의앤스로픽AI모델수출...",
+  "이스트소프트-SKT-테라코랩스,상담사교육용AI아바타공동개발",
+  "NCAI,글로벌최고성능3D생성AI모델‘바르코3D2.0’공개",
+  "NCAI,3D생성AI모델'바르코3D2.0'공개",
+  "게이트,미·홍콩·한국주식24시간거래출시",
+  "삼성·SK,광주·전남에반도체클러스터조성추진...합산400조검토",
+  "LG유플러스,중소기업고객센터AI전환지원",
+  "KT·서울역허위테러예고한10대들1심유죄"
  ],
  "recent_sigs": [
-  [
-   "2026-06-24T09:30:41.500695+09:00",
-   "맞교환 필요해 엔비디아와 블랙웰 지분 확보 승부수"
-  ],
   [
    "2026-06-24T09:34:15.011009+09:00",
    "고개 액면분할론 대장주 드는 등극에 SK하이닉스"
@@ -6459,9 +6455,13 @@
   [
    "2026-06-24T15:30:34.099076+09:00",
    "법률기업 리전 행정부의 리걸테크 트럼프 모델 수출"
+  ],
+  [
+   "2026-06-24T15:32:17.270861+09:00",
+   "유죄 예고한 테러 1심 서울역 10대들 허위"
   ]
  ],
- "last_run": "2026-06-24T15:31:01.347874+09:00",
+ "last_run": "2026-06-24T15:32:39.177126+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6734,6 +6734,7 @@
   "newstopkorea.com": "뉴스톱",
   "thedailypost.kr": "데일리포스트",
   "abcn.kr": "ABC뉴스",
-  "koit.co.kr": "정보통신신문"
+  "koit.co.kr": "정보통신신문",
+  "incheonilbo.com": "인천일보"
  }
 }
