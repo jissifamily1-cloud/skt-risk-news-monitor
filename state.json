@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260623102841",
-  "https://news.dealsitetv.com/articles/172228",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=103825",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=360908",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=751110",
-  "https://www.bizhankook.com/bk/article/32592",
-  "https://health.chosun.com/site/data/html_dir/2026/06/23/2026062301257.html",
   "https://www.mt.co.kr/stock/2026/06/23/2026062310411782596",
   "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390091.html",
   "https://www.news1.kr/industry/general-industry/6205431",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3616246",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03237366645485000",
   "https://weekly.donga.com/3/all/11/6280186/1",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=212576"
+  "https://www.datanet.co.kr/news/articleView.html?idxno=212576",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606231113236770393",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616248",
+  "http://www.econotelling.com/news/articleView.html?idxno=20731",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092164458",
+  "https://www.etoday.co.kr/news/view/2596653",
+  "https://www.seoultimes.news/news/article.html?no=2000096964",
+  "https://zdnet.co.kr/view/?no=20260624094010"
  ],
  "seen_titles": [
-  "최태원\"AI와협력할줄아는인재가미래경쟁력\"",
-  "이재용회장,25일이재명대통령만난다...29일대기업총수간담회",
-  "[유통24시]홈플러스,익스프레스매각본계약…정상화속도外",
-  "LGU+,호국보훈의달'천원의사랑'캠페인펼쳐6·25참전유공자지원",
-  "미래에셋증권,고액자산가3배확대…세대별VIP자산관리강화",
-  "\"아직도저평가\"…실적·AI로봇숫자로증명해낸두산,목표가상향",
-  "국가바이오빅데이터17만확보,정밀의료도약위해100만모은다",
   "韓,보건의료빅데이터수집한발늦어…활용촉진할‘디지털헬스케...",
   "지슨,필리핀콤클락과보안솔루션현지시장진출MOU체결",
   "경찰\"'모두의창업'정보유출관련내사착수\"",
@@ -6001,7 +5994,14 @@
   "김대권수성구청장,청년도전지원사업중기2기수료식개최...24명교육...",
   "케이뱅크,중소법인여신시스템구축착수…\"기업금융확장\"",
   "﻿삼성전자·SK하이닉스풍향계마이크론실적발표에이목…목표주가...",
-  "넷앱·SKT,AI클라우드가상화성능검증맞손"
+  "넷앱·SKT,AI클라우드가상화성능검증맞손",
+  "자이C&A“산업공간전문기업으로도약”",
+  "세종시통합돌봄추진민관협의체첫회의개최",
+  "[독점연재]정주영히스토리(104)조카몽혁에대한지극한사랑",
+  "상장2주만에또…스페이스X,채권시장서'38조'조달",
+  "오픈서베이,AI에이전트기반데이터스페이스전면개편",
+  "LG유플러스,블룸AI와협력…중소기업AI고객센터도입지원",
+  "밸브,엔비디아와협력해스팀OS지원확대추진"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-06-24T09:42:15.007898+09:00",
    "맞손 성능 가상화 넷앱 클라우드 검증"
+  ],
+  [
+   "2026-06-24T09:44:14.923763+09:00",
+   "협력해 지원 엔비디아와 스팀OS 밸브 확대"
   ]
  ],
- "last_run": "2026-06-24T09:42:36.248899+09:00",
+ "last_run": "2026-06-24T09:44:39.695690+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
