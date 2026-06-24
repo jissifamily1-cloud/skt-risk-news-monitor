@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390285.html",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=551912",
-  "https://www.newsis.com/view/NISX20260623_0003680687",
-  "https://www.newspim.com/news/view/20260623001044",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1060274",
-  "https://www.inven.co.kr/webzine/news/?news=317696",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16106977",
   "https://www.thepublic.kr/news/articleView.html?idxno=308591",
   "https://www.newstnt.com/news/articleView.html?idxno=707328",
   "https://news.dealsitetv.com/articles/172199",
@@ -2999,16 +2992,16 @@
   "https://www.ajunews.com/view/20260624190224712",
   "https://www.topstarnews.net/news/articleView.html?idxno=16110350",
   "https://www.gukjenews.com/news/articleView.html?idxno=3616973",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05461206645485000"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05461206645485000",
+  "https://www.seoul.co.kr/news/sport/2026/06/24/20260624500296?wlog_tag3=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616966",
+  "https://zdnet.co.kr/view/?no=20260624191759",
+  "http://www.fnnews.com/news/202606240819383896",
+  "http://coinreaders.com/244233",
+  "https://www.newsis.com/view/NISX20260624_0003682231",
+  "https://www.gpkorea.com/news/articleView.html?idxno=144046"
  ],
  "seen_titles": [
-  "[KBO오늘의경기결과]6월23일(화)",
-  "[윤정호의앵커칼럼]납득이안가잖아,납득이",
-  "삼성·SK,호남·충청에반도체투자검토",
-  "[KBO내일의선발투수]6월24일(수)",
-  "'검색의왕좌'흔들리는구글…챗GPT·덕덕고공세",
-  "SKAX,울산등채용연계교육'스칼라'운영",
-  "[인터뷰]\"T13연패역사를한눈에\"25월즈스킨개발비화",
   "티빙개인정보유출,650만명늘었다…최종피해규모1953만명",
   "SKT,대학생과함께'고객눈높이'서비스발굴나선다",
   "SKT,대학생과함께서비스혁신나선다…'CX캠퍼스'8주간운영",
@@ -6001,7 +5994,14 @@
   "\"피지컬AI프론티어강국으로\"…30대그룹·스타트업,피지컬AI전략논...",
   "AI경쟁,HBM다음병목은전력…머스크데이터센터증설이던진메시지",
   "류한국서구청장,청장년정규직채용시최대840만원장려금지원",
-  "SK하닉,내달美ADR상장…45조조달해용인·청주투자(재종합)"
+  "SK하닉,내달美ADR상장…45조조달해용인·청주투자(재종합)",
+  "두산양의지,역대최다득표로통산15번째올스타",
+  "위성곤\"도민과함께!미래를만나는제주\"…민선9기청사진제시",
+  "수산아이앤티'디바이스인증서비스'ISO/IEC27001'인증획득",
+  "\"韓·대만반도체,경쟁보다협력해야…中대응할기술동맹필요\"",
+  "엔비디아이사,왜4억달러넘게주식팔았나?",
+  "\"中암시장서엔비디아제품가격2배이상급등\"",
+  "정의선회장이밀고있는기아PV5…출고대기4.5개월"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,25 @@
   [
    "2026-06-24T19:08:16.639796+09:00",
    "강인함 품은 여자 남자 축구에서 미셸 축구까지 한국인의"
+  ],
+  [
+   "2026-06-24T19:20:26.857092+09:00",
+   "필요 협력해야 기술 대만 반도체 동맹 대응할 경쟁보다"
+  ],
+  [
+   "2026-06-24T19:20:26.857092+09:00",
+   "주식 넘게 4억 이사 달러 팔았나"
+  ],
+  [
+   "2026-06-24T19:20:26.857092+09:00",
+   "제품 암시장서 급등 가격 이상 2배"
+  ],
+  [
+   "2026-06-24T19:20:26.857092+09:00",
+   "출고 기아 5개월 밀고 대기 회장이 정의선 PV5 있는"
   ]
  ],
- "last_run": "2026-06-24T19:18:37.331010+09:00",
+ "last_run": "2026-06-24T19:21:01.119706+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6856,6 +6872,7 @@
   "kyeongin.com": "경인일보",
   "sisafocus.co.kr": "시사포커스",
   "newswatch.kr": "뉴스워치",
-  "gnnews.co.kr": "경남일보"
+  "gnnews.co.kr": "경남일보",
+  "gpkorea.com": "지피코리아"
  }
 }
