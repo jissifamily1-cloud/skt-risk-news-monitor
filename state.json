@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462529",
-  "https://www.hankyung.com/article/202606244076i",
-  "https://www.g-enews.com/view.php?ud=202606240729279047e250e8e188_1",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02522326645485000",
-  "https://www.sportschosun.com/baseball/2026-06-24/202606240100163550010698",
-  "https://www.yna.co.kr/view/AKR20260624018700072?input=1195m",
-  "https://biz.chosun.com/stock/stock_general/2026/06/24/COWVDGVREBA6PFSWU3X45EJ4WY/",
   "https://biz.heraldcorp.com/article/10785877",
   "http://www.osen.co.kr/article/G1112827534",
   "https://www.lecturernews.com/news/articleView.html?idxno=204849",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20260625_0003682630",
   "https://www.tenasia.co.kr/article/2026062565374",
   "http://www.inews24.com/view/1979522",
-  "https://www.g-enews.com/view.php?ud=2026062507524137812bd56fbc3c_1"
+  "https://www.g-enews.com/view.php?ud=2026062507524137812bd56fbc3c_1",
+  "https://www.kyeongin.com/article/1766158",
+  "https://www.banronbodo.com/news/articleView.html?idxno=32522",
+  "https://www.yna.co.kr/view/AKR20260624158000017?input=1195m",
+  "https://view.asiae.co.kr/article/2026062413552112374",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02542006645485328",
+  "https://www.youthdaily.co.kr/news/article.html?no=221531",
+  "http://www.econotelling.com/news/articleView.html?idxno=20738"
  ],
  "seen_titles": [
-  "삼성파운드리,다음주서울서포럼…업계새국면속성장비전주목",
-  "[영상뉴스]코스피200야간선물0.98%하락…뉴욕증시,주요지수일제히...",
-  "스타링크독주에도전장낸라쿠텐…日첫민간위성통신망구축",
-  "‘매도폭탄’맞은美선물시장반등시도…나스닥선물0.4%↑",
-  "\"팔줄몰라\"...'SK하이닉스100배수익'김문수,알고보니",
-  "강민호문책성교체,포수없는9회말'운명의6연전'첫판,미완성으로...",
-  "캐나다조달청장\"잠수함수주전,'경제혜택'집중검증\"",
   "KB證“SK하이닉스,업황호조에메모리공급부족심화…목표가380만...",
   "글로벌IB“SK이노,亞최대저평가에너지기업”",
   "1099일만에2G연속홈런,1차지명거포유망주“장타욕심없다,힘빼...",
@@ -6001,7 +5994,14 @@
   "[오늘의증시]'역대급실적'마이크론,시간외13%급등…코스피,반등...",
   "132회만에자체최고시청률경신…함은정X마동석복수계획결과는('...",
   "광주반도체클러스터'한국판타이난'될까",
-  "마이크론,3분기매출415억달러역대최대…삼성·SK하이닉스주가어..."
+  "마이크론,3분기매출415억달러역대최대…삼성·SK하이닉스주가어...",
+  "[굿모닝위즈·72]사우어흔든2개의희생플라이",
+  "[주간미디어동향]중앙일보,\"채권자피해없도록만전\"입장문발표外",
+  "AI실력으로취업뚫는다…6개기업채용연계해커톤개막",
+  "앤더스인터랙티브\"좋은게임만만들면,성공까지나머지책임진다\"",
+  "3년버틴2차전지,다운사이클끝보인다…“셀업체로압축”",
+  "삼성·SK,호남반도체투자검토에…지방발전기대감속·실효성우려...",
+  "[특별기획]'SK70년'최종건ㆍ최종현語錄유산(80)\"인수가격보다인..."
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,13 @@
   [
    "2026-06-25T07:58:15.164393+09:00",
    "버블은 시작된다 붐에서 모든"
+  ],
+  [
+   "2026-06-25T08:02:16.282048+09:00",
+   "가격보다 최종건 유산 SK 70년 인수 최종현"
   ]
  ],
- "last_run": "2026-06-25T08:00:56.952587+09:00",
+ "last_run": "2026-06-25T08:02:42.519086+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6540,6 +6544,7 @@
   "gpkorea.com": "지피코리아",
   "tbc.co.kr": "TBC",
   "danbinews.com": "단비뉴스",
-  "gjdream.com": "드림투데이"
+  "gjdream.com": "드림투데이",
+  "econotelling.com": "이코노텔링(econotelling)"
  }
 }
