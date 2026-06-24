@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.koreastocknews.com/news/articleView.html?idxno=119267",
-  "https://www.newsway.co.kr/news/view?ud=2026062310410512974",
-  "https://www.tenasia.co.kr/article/2026062318184",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065582682398027",
   "https://www.gukjenews.com/news/articleView.html?idxno=3615371",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586571022000",
@@ -2999,12 +2996,12 @@
   "https://www.aitimes.com/news/articleView.html?idxno=212041",
   "https://www.etnews.com/20260624000210",
   "https://www.ytn.co.kr/_ln/0107_202606241240041237",
-  "https://www.aitimes.com/news/articleView.html?idxno=212053"
+  "https://www.aitimes.com/news/articleView.html?idxno=212053",
+  "http://www.srtimes.kr/news/articleView.html?idxno=205985",
+  "https://zdnet.co.kr/view/?no=20260624113621",
+  "https://zdnet.co.kr/view/?no=20260624112358"
  ],
  "seen_titles": [
-  "\"AI가수학을어떻게배우나\"...SKT,독자AI모델기술세미나개최",
-  "삼성SDS,AI풀스택기반공공AX혁신방안제시",
-  "AI호황의과실…삼성·SK지방으로간다",
   "이유미가고이혜리왔다…첫사랑황인엽과15년만에♥재회\"30대에다...",
   "[메가이슈토픽]25년만삼성제친SK하이닉스…왕좌교체놓고신경전",
   "'기술주매도세에'아시아증시혼조세,유가하락세유지",
@@ -6001,7 +5998,10 @@
   "손정의,머스크'우주데이터센터'구상비판...\"별이점없어\"",
   "엔코아,실무형AI인재양성코스7월개강",
   "\"월드컵32강가도못본다?\"...JTBC\"잘못된정보\"[앵커리포트]",
-  "엔비디아,'온수욕조'보다뜨거운데이터센터액체냉각기술공개…\"..."
+  "엔비디아,'온수욕조'보다뜨거운데이터센터액체냉각기술공개…\"...",
+  "카카오,ESG보고서발간…데이터센터안산온실가스4,753톤감축",
+  "[유미's픽]G7효과본'비바테크'...규제만하던유럽,미·중AI판흔...",
+  "[현장]한국딜로이트\"AI전환,공포넘어협력으로실질변화를\""
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,13 @@
   [
    "2026-06-24T12:48:15.984490+09:00",
    "뜨거운 데이터센터 냉각 온수 액체 기술 공개 욕조 보다"
+  ],
+  [
+   "2026-06-24T12:50:24.736102+09:00",
+   "비바테크 하던 규제만 유럽 효과 G7"
   ]
  ],
- "last_run": "2026-06-24T12:48:40.225415+09:00",
+ "last_run": "2026-06-24T12:50:48.444910+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
