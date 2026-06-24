@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403382",
-  "http://www.fntimes.com/html/view.php?ud=2026062314573515647de3572ddd_18",
-  "http://www.fnnews.com/news/202606211235117707",
-  "https://dhnews.co.kr/news/view/1065593834049115",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=845878",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=80271",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677556",
-  "https://www.g-enews.com/view.php?ud=2026062215035075716ed0c62d49_1",
   "https://www.aflnews.co.kr/news/articleView.html?idxno=322955",
   "https://www.inven.co.kr/webzine/news/?news=317723",
   "https://www.woodkorea.co.kr/news/articleView.html?idxno=89977",
@@ -2999,17 +2991,17 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=527974",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164486",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=359238",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=723175"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=723175",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3616630",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43098",
+  "https://news.mtn.co.kr/news-detail/2026062414474760564",
+  "https://www.theguru.co.kr/news/article.html?no=103521",
+  "https://www.huffingtonpost.kr/article/258111",
+  "https://www.inven.co.kr/webzine/news/?news=317761",
+  "https://www.gokorea.kr/news/articleView.html?idxno=870198",
+  "https://www.joongangenews.com/news/articleView.html?idxno=527983"
  ],
  "seen_titles": [
-  "HS효성인포\"사이버복원력핵심은실시간데이터보호\"",
-  "오픈AI,'데이브레이크'확대…취약점발견부터테스트까지지원",
-  "삼성전자는왜SK하이닉스에시총1위를내줬나",
-  "'세기의분할재산'최태원·노소영변론재개...'매관매직'김건희1심...",
-  "공동구매중개플랫폼'딜로',7월10일정식서비스시작",
-  "카페24,AI인프라'LLM라우터'출시",
-  "F5,한국보안시장서'금융'우선공략…\"LLM규제등선제대응집중...",
-  "AI요금폭탄막는다…오픈AI,챗GPT엔터프라이즈·에듀에월간사용량...",
   "SK하이닉스,美ADR상장으로곽노정의100조확보전략‘청신호’",
   "대동임원진,대동주식15억3000만원규모매입",
   "ASUSBusiness기자간담회개최,엑스퍼트북울트라노트북라인업확대",
@@ -6001,13 +5993,17 @@
   "이억원금융위위원장\"스타트업-금융권협업확대…스케일업생태계조...",
   "\"AI도입늘었지만성과내는곳은6%\"…데이터이쿠가제시한해법은",
   "웹케시,농협은행에'AI에이전트기업뱅킹조회서비스'구축",
-  "\"지방에또?\"삼성·SK'400조추가투자'논란시끌"
+  "\"지방에또?\"삼성·SK'400조추가투자'논란시끌",
+  "대구광역시,걷기활성화성과공유회개최...북구보건소최우수상",
+  "[오늘의제약리뷰]한미약품·일동제약·현대약품·JW중외제약·한국제...",
+  "[단독]구글국내대리인신청서반려…필수정보누락",
+  "테슬라주주들\"일론머스크의최종목표는스페이스X와합병\"베팅",
+  "KT양자기술로데이터생성부터전송까지모든영역보호한다:'미토스...",
+  "505게임즈,레트로퓨처리즘웨스턴FPS'이그제킬러(ExeKiller)'퍼블리...",
+  "삼성전자·SK하이닉스,지방반도체클러스터투자계획발표임박...첨...",
+  "SK텔레콤주가,6월24일장중90,900원1.11%상승"
  ],
  "recent_sigs": [
-  [
-   "2026-06-24T09:10:28.059037+09:00",
-   "로펌 대표 바이오벤처 Sonsini와 Wilson 디엘지가 실리콘밸리 글로벌"
-  ],
   [
    "2026-06-24T09:14:15.190079+09:00",
    "안면인증 도입 앞두고 반쪽 태클 휴대폰 내달 시행"
@@ -6471,9 +6467,13 @@
   [
    "2026-06-24T15:10:26.783952+09:00",
    "삼성 시끌 논란 400조 지방에 추가 SK 투자"
+  ],
+  [
+   "2026-06-24T15:12:18.537674+09:00",
+   "주가 상승 24일 장중 900원 6월"
   ]
  ],
- "last_run": "2026-06-24T15:10:47.943329+09:00",
+ "last_run": "2026-06-24T15:12:38.453190+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
