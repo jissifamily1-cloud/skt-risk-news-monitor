@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000318455?division=NAVER",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606240202&t=NN",
   "https://www.newspim.com/news/view/20260624000062",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02689606645485000",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02696166645485000",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20260625026600030?input=1195m",
   "https://www.gametoc.co.kr/news/articleView.html?idxno=109502",
   "https://www.newsis.com/view/NISX20260625_0003682720",
-  "https://www.ajunews.com/view/20260625084545999"
+  "https://www.ajunews.com/view/20260625084545999",
+  "https://view.asiae.co.kr/article/2026062508285565939",
+  "https://www.mediapen.com/news/view/1106378"
  ],
  "seen_titles": [
-  "S&P글로벌,버라이즌대신알파벳다우지수에편입...기술주비중강화",
-  "[굿모닝마켓]뉴욕증시,반도체주급락에일제히하락",
   "아시아반도체도미노폭락,월가는‘역대급슈퍼사이클’vs‘냉정한...",
   "\"한국AI관련주급락에445조원규모'레버리지ETF열풍'주목\"",
   "SK,올해SK스퀘어실적호조등턴어라운드원년…목표가↑-흥국",
@@ -6001,7 +5999,9 @@
   "GS샵,디지털·AI업무도구통합한포털오픈…현장중심AI",
   "토스행운퀴즈'대한민국응원'정답…6월25일",
   "GS샵,디지털·AI업무플랫폼'엑스허브플러스'오픈",
-  "마이크론,사상최대실적에시간외12%급등…AI메모리랠리재점화"
+  "마이크론,사상최대실적에시간외12%급등…AI메모리랠리재점화",
+  "SKB\"5분만에개발시작하는AX환경\"…30여개AI에이전트적용중",
+  "마이크론매출이익률85%최고기업등극...엔비디아·메타추월"
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,17 @@
   [
    "2026-06-25T08:44:15.583766+09:00",
    "기술 협력 가전 하반기 결정 로봇 LG전자"
+  ],
+  [
+   "2026-06-25T08:52:16.758707+09:00",
+   "5분만에 개발 시작하는 환경 적용 에이전트 SKB AX 30여개"
+  ],
+  [
+   "2026-06-25T08:52:16.758707+09:00",
+   "추월 등극 최고기업 매출이익률 메타 마이크론"
   ]
  ],
- "last_run": "2026-06-25T08:50:44.694830+09:00",
+ "last_run": "2026-06-25T08:52:40.940967+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
