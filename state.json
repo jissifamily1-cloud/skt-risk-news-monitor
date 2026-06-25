@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421520",
-  "https://www.biospectator.com/view/news_view.php?varAtcId=29114",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=60813",
-  "https://www.mt.co.kr/world/2026/06/24/2026062408160247700",
-  "https://www.newspim.com/news/view/20260624000066",
-  "https://www.newspim.com/news/view/20260624000065",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=873127",
   "https://www.mhns.co.kr/news/articleView.html?idxno=751222",
   "https://www.topstarnews.net/news/articleView.html?idxno=16109381",
   "https://www.nocutnews.co.kr/news/6537573",
@@ -2999,16 +2992,16 @@
   "https://www.itworld.co.kr/article/4189141/안전-판정-받은-ai-에이전트-스킬의-배신정적-스.html",
   "https://www.datanet.co.kr/news/articleView.html?idxno=212614",
   "https://www.datanet.co.kr/news/articleView.html?idxno=212616",
-  "https://www.smartbizn.com/news/articleView.html?idxno=146981"
+  "https://www.smartbizn.com/news/articleView.html?idxno=146981",
+  "https://www.news1.kr/industry/distribution/6207733",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=314069",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421756",
+  "https://www.kbanker.co.kr/news/articleView.html?idxno=225274",
+  "http://www.newsdream.kr/news/articleView.html?idxno=113578",
+  "https://www.hankyung.com/article/2026062567497",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=51612"
  ],
  "seen_titles": [
-  "뉴욕증시,반도체주불안에하락…나스닥,2%급락[글로벌마켓모닝브...",
-  "삼성전자,HBM4로반격…SK하이닉스HBM독주흔드나",
-  "SK바이오팜,신약개발핵심축\"오픈이노베이션·AI\"",
-  "[증시전망대]美반도체·AI동반급락직격탄맞은코스피,오늘'기술...",
-  "알파벳,다음주다우지수편입…맥7중메타·테슬라빼고모두포함",
-  "[AIMY증시전망]코스피,반도체급락여진속반등시도…저가매수세...",
-  "[모닝리포트]\"SK하이닉스목표가380만원유지...하반기실적추정치...",
   "블룸버그\"韓AI주급락에2900억달러레버리지ETF시장재조명\"",
   "기보,금융공공기관첫AI경영시스템국제표준인증",
   "데일리:디렉션,'MONKEYMODE'로해킹콘셉트컴백시동",
@@ -6001,7 +5994,14 @@
   "‘안전판정’받은AI에이전트스킬의배신…정적스캔한계드러나",
   "포바이포·HP,기업용AI영상최적화시장공략맞손",
   "공급망위협높아지자기업69%\"공급업체보안에투자\"",
-  "\"55만원간다\"삼성전자,흔들리는주가에도증권가낙관론솔솔"
+  "\"55만원간다\"삼성전자,흔들리는주가에도증권가낙관론솔솔",
+  "GS샵,'AI에이전트'로업무툴통합…엑스허브플러스오픈",
+  "[AI의전기요금③]친환경AI의역설…빅테크가가스·원전을찾는다",
+  "퀄컴,비휴대폰매출목표올려시간외서주가급등",
+  "불법가상자산취급업자40곳명단공개…\"피해구제어려워\"",
+  "SKT,독자AI모델제조현장첫이식…KG스틸·코넥과실증협약",
+  "\"팔줄몰라서\"수익100배…김문수,하이닉스'잭팟'",
+  "새만금AI밸리·군산전북대병원'군산경장마루힐써밋아파트'분양"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,13 @@
   [
    "2026-06-25T08:58:14.794753+09:00",
    "낙관론 증권가 55만원 흔들리는 주가에도 솔솔 삼성전자 간다"
+  ],
+  [
+   "2026-06-25T09:00:41.751689+09:00",
+   "아파트 전북대병원 AI밸리 써밋 분양 마루힐 군산 새만금 경장"
   ]
  ],
- "last_run": "2026-06-25T08:58:37.448444+09:00",
+ "last_run": "2026-06-25T09:01:01.077813+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
