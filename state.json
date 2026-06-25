@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswatch.kr/news/articleView.html?idxno=80214",
-  "https://view.asiae.co.kr/article/2026062417414959194",
-  "https://www.sedaily.com/article/20059717",
-  "https://www.dt.co.kr/article/12069375",
-  "https://www.hankyung.com/article/2026062460931",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3027000",
-  "https://www.sidae.com/article/2026062416511843982",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05172566645485000",
   "https://view.asiae.co.kr/article/2026062414423298361",
   "https://www.newsis.com/view/NISX20260624_0003682374",
   "https://it.donga.com/109072/",
@@ -2999,17 +2991,17 @@
   "https://www.seoultimes.news/news/article.html?no=2000097043",
   "https://www.etoday.co.kr/news/view/2597367",
   "https://www.newspim.com/news/view/20260624000963",
-  "https://www.hani.co.kr/arti/politics/bluehouse/1265354.html"
+  "https://www.hani.co.kr/arti/politics/bluehouse/1265354.html",
+  "https://www.news1.kr/it-science/cc-newmedia/6208596",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=58953",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606250400&t=NNv",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000045452",
+  "https://www.kukinews.com/article/view/kuk202606240171",
+  "https://www.newsis.com/view/NISX20260625_0003684056",
+  "https://www.nocutnews.co.kr/news/6538818",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594936"
  ],
  "seen_titles": [
-  "[단독]LG유플러스,5G속도과장광고행정소송'패소'",
-  "[단독]KT,KT클라우드합병추진…\"AI데이터센터성장동력으로\"",
-  "첨단팹조기가동해메모리초격차…다운사이클땐되레부메랑",
-  "장중4번출렁인‘삼전닉스’…공포지수사상최고치에글로벌증시‘...",
-  "\"한명이100개AI고용하는시대,메모리수요100만배늘것\"",
-  "용인세무서개인정보8만여건유출사고…납세자'2차피해불안'",
-  "이재용·최태원HBM직접챙긴다…삼성·SK,메모리주도권강화총력",
-  "‘회생신청’JTBC대표부른방미통위…“외주제작사구제·시청권...",
   "[클릭e종목]\"SK,실적턴어라운드원년...목표가76만원→100만원\"",
   "美中테크전쟁터된슈퍼컴…삼성·NHN·카카오도TOP100합류(종합)",
   "F5,“분산된인프라전반에서일관된보안역량확보해야”",
@@ -6001,7 +5993,15 @@
   "하나생명,사내생성형AI'별비서'구축…디지털혁신본격화",
   "카운터포인트\"삼성,1분기D램점유율38%…낸드도1위탈환\"",
   "[AI판결돋보기]박성재징역25년판결문보니...\"검찰내란가담의심...",
-  "이대통령“대규모투자영남,충청등확대…전략산업다극화”"
+  "이대통령“대규모투자영남,충청등확대…전략산업다극화”",
+  "\"토큰이코노미시대,마중물로부족…정부가'설계자'돼야\"",
+  "[ICT종합]이노스및넥써쓰소식외",
+  "李\"첨단산업투자다극화\"...이재용회동",
+  "\"탐지율97%\",딥페이크성범죄대응위한부처합동업무협약체결",
+  "1953만명이털렸는데…반복된개인정보유출이낳은‘위험한침묵’[...",
+  "세계기록유산체험'조선통신사행렬'부산서27일재현",
+  "방미통위,JTBC회생신청첫점검…\"파견직·프리랜서보호최우선\"",
+  "방미통위,‘회생신청’JTBC에“재승인면밀검토”"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,25 @@
   [
    "2026-06-25T17:12:19.684817+09:00",
    "맞춤으로 평가까지 조직문화 바꿔야"
+  ],
+  [
+   "2026-06-25T17:16:16.594383+09:00",
+   "위험한 1953만명이 반복된 털렸는데 낳은 개인정보 침묵 유출이"
+  ],
+  [
+   "2026-06-25T17:16:16.594383+09:00",
+   "재현 체험 27일 행렬 부산서 세계기록유산 조선통신사"
+  ],
+  [
+   "2026-06-25T17:16:16.594383+09:00",
+   "회생신청 보호 프리랜서 최우선 JTBC 점검 파견직"
+  ],
+  [
+   "2026-06-25T17:16:16.594383+09:00",
+   "회생신청 면밀 JTBC에 검토 재승인"
   ]
  ],
- "last_run": "2026-06-25T17:14:32.897392+09:00",
+ "last_run": "2026-06-25T17:16:49.565435+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
