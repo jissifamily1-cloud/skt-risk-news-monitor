@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=309416",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79489",
-  "https://www.smartbizn.com/news/articleView.html?idxno=146906",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=140513",
-  "https://www.asiatime.co.kr/article/20260624500122",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=824352",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=212583",
   "https://cwn.kr/article/1065578231464983",
   "https://www.aitimes.com/news/articleView.html?idxno=212036",
   "https://www.news1.kr/industry/general-industry/6206406",
@@ -2999,16 +2992,16 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/06/25/2026062500087.html",
   "http://weekly.chosun.com/news/articleView.html?idxno=52872",
   "https://www.nocutnews.co.kr/news/6538419",
-  "https://www.newspost.kr/news/articleView.html?idxno=223796"
+  "https://www.newspost.kr/news/articleView.html?idxno=223796",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=126022",
+  "https://www.itbiznews.com/news/articleView.html?idxno=217329",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676121",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=735067",
+  "https://www.newsis.com/view/NISX20260625_0003683194",
+  "https://biz.sbs.co.kr/article_hub/20000318774?division=NAVER",
+  "https://www.mt.co.kr/policy/2026/06/25/2026062510374146783"
  ],
  "seen_titles": [
-  "업비트,폴리곤스테이킹규모전세계1위등극",
-  "삼성·SK,호남·충청반도체투자이달말민관회의서발표예정",
-  "'제2반도체클러스터'윤곽···정부\"용인유지,지방생산거점추가...",
-  "LG유플러스중소기업'AICC대중화'시동...\"비용·인력장벽허문다\"",
-  "중기부개인정보\"노출됐다\"만표현…책임논란",
-  "한국에서이게돼?6선발도파격인데,필승조가9명…ERA2위삼성이유...",
-  "NH농협은행,기업용에이전트뱅킹구축시동",
   "나델라“AI권력집중경계”…MS,가격·선택권앞세운플랫폼전략강...",
   "메타,299달러'보급형AI안경'공개…'뮤즈스파크'최초탑재",
   "\"LNG기지개방했더니역수출\"…중기부,상생협력우수사례10건선정",
@@ -6001,7 +5994,14 @@
   "해킹피해로통신사바꿨더니또해킹,고객보상OTT가입했더니또해...",
   "17년묵힌하이닉스…2만원에산김문수,100배수익봤나",
   "\"반도체광주몰빵안돼\"전북분산배치론나와",
-  "LG유플러스,아이패드기반IPTV결합상품론칭"
+  "LG유플러스,아이패드기반IPTV결합상품론칭",
+  "LGU+,IPTV결합상품에아이패드첫적용…'U+tv프리5foriPad'출시",
+  "LGU+,애플아이패드기반이동형IPTV상품출시",
+  "앤트로픽·구글딥마인드\"AI는미국이이끌어야\"…G7서연합구축촉구",
+  "SKT,통신망운영자동화·제조현장적용추진",
+  "해킹온라인게임계정웃돈얹어되판20대들실형",
+  "개보위,개인정보국외이전위반'빗썸'과징금2.1억부과",
+  "동두천시-KT,국가정보통신서비스망이용업무협약"
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,13 @@
   [
    "2026-06-25T10:46:15.910649+09:00",
    "OTT 고객보상 가입했더니 바꿨더니 피해로"
+  ],
+  [
+   "2026-06-25T10:48:14.418951+09:00",
+   "동두천시 이용 업무협약 국가정보통신서비스"
   ]
  ],
- "last_run": "2026-06-25T10:46:34.146100+09:00",
+ "last_run": "2026-06-25T10:48:39.311170+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
