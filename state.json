@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tbc.co.kr/news/view?pno=20260624152732AE01472&id=207679",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=551969",
-  "https://www.danbinews.com/news/articleView.html?idxno=33229",
-  "https://www.newsis.com/view/NISX20260624_0003680831",
-  "https://www.econovill.com/news/articleView.html?idxno=743357",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=440790",
   "https://www.newscj.com/news/articleView.html?idxno=3411869",
   "https://www.gukjenews.com/news/articleView.html?idxno=3617040",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255426",
@@ -2999,15 +2993,15 @@
   "http://www.journalist.or.kr/news/article.html?no=61157",
   "http://www.osen.co.kr/article/G1112828554",
   "http://www.yonhapnewstv.co.kr/news/AKR20260625181648lcl",
-  "https://www.econovill.com/news/articleView.html?idxno=743482"
+  "https://www.econovill.com/news/articleView.html?idxno=743482",
+  "https://www.newsway.co.kr/news/view?ud=2026062518094182884",
+  "http://www.fnnews.com/news/202606251819087685",
+  "http://www.inews24.com/view/1979832",
+  "http://www.fnnews.com/news/202606251818205407",
+  "http://www.mkhealth.co.kr/news/articleView.html?idxno=79038",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845115"
  ],
  "seen_titles": [
-  "데이터센터좌초위기에반도체공장유치도차질",
-  "[미디어포커스]\"AI,산업전반운영방식바꾸는핵심인프라자리매김...",
-  "망고스(MANGOS)",
-  "김총리\"AI대전환으로생겨날막대한부,기본소득결합해보자\"(종합...",
-  "정부,'영업이익연동성과급'손질나선다…이사회·주총통제장치검...",
-  "[6월25일자]비즈니스포스트아침의주요기사",
   "대전화재가흔든질서…네이버,정부에데이터센터내민까닭",
   "\"이제제이름도직접써요\"…어르신들의늦은학교가문열었다",
   "中휴머노이드,공장인턴십출근시작···24시간'생중계'결정한이...",
@@ -6001,7 +5995,13 @@
   "남아공전못볼뻔?월드컵'블랙아웃'일단막았지만…",
   "“홍창기빠졌어도됐고,염경엽없다고안되는것아니다”왜LG가강...",
   "딥페이크성범죄물,정부인공지능기술로대응…탐지율97%",
-  "마이크론3Q매출63조'사상최대'…신용등급도BBB+상향"
+  "마이크론3Q매출63조'사상최대'…신용등급도BBB+상향",
+  "\"20%페이백효과엄청나\"…삼성,온누리상품권혜택에매장'북적'[르포...",
+  "한·미'피지컬AI'협력확대…실리콘밸리서3억弗규모상담",
+  "JP모건\"韓증시,승자가계속이긴다\"…코스피1만5000까지기대",
+  "목표가올리고13兆베팅…증권가도개미도반도체'올인'",
+  "초복앞두고뭐먹지?삼계탕vs제철민어",
+  "[#시큐리티포커스]아이티센PNS'NTRU+표준화'참여·SGA'CC인증'획득..."
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,17 @@
   [
    "2026-06-25T18:16:17.543439+09:00",
    "블랙아웃 월드컵 일단 남아공전 막았지만"
+  ],
+  [
+   "2026-06-25T18:22:17.298546+09:00",
+   "먹지 vs 제철 앞두고 삼계탕 민어 초복"
+  ],
+  [
+   "2026-06-25T18:22:17.298546+09:00",
+   "아이티센PNS SGA 참여 NTRU CC인증 획득 표준화"
   ]
  ],
- "last_run": "2026-06-25T18:20:49.962343+09:00",
+ "last_run": "2026-06-25T18:22:43.464606+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7022,6 +7030,7 @@
   "bizhankook.com": "비즈한국",
   "jmbc.co.kr": "전주MBC",
   "koreastocknews.com": "증권경제신문",
-  "idomin.com": "경남도민일보"
+  "idomin.com": "경남도민일보",
+  "mkhealth.co.kr": "매경헬스"
  }
 }
