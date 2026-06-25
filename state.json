@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260624000361",
-  "https://www.newspim.com/news/view/20260624000362",
-  "https://zdnet.co.kr/view/?no=20260624064850",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=781021",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462654",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164441",
-  "https://www.aitimes.com/news/articleView.html?idxno=212037",
-  "https://view.asiae.co.kr/article/2026061709240454428",
   "http://www.fnnews.com/news/202606160756181324",
   "https://www.chosun.com/economy/tech_it/2026/06/15/HEOE2O5KVBABPIVNZB7PBQY73M/",
   "https://www.munhwa.com/article/11595559",
@@ -2999,17 +2991,17 @@
   "http://www.celuvmedia.com/article.php?aid=1782350795522864006",
   "http://www.metroseoul.co.kr/article/20260625500121",
   "https://news.dealsitetv.com/articles/172368",
-  "https://www.donga.com/news/Economy/article/all/20260625/134179665/2"
+  "https://www.donga.com/news/Economy/article/all/20260625/134179665/2",
+  "http://www.fntimes.com/html/view.php?ud=2026062510391113127fd637f543_18",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3617562",
+  "https://www.newspim.com/news/view/20260624000349",
+  "https://www.kyeonggi.com/article/20260625580114",
+  "https://www.heraldmuse.com/article/10787848",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=203963",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845027",
+  "https://www.livebiz.today/news/articleView.html?idxno=202858"
  ],
  "seen_titles": [
-  "[미국특징주]\"엔비디아AI칩,중국암시장서2배급등\"",
-  "[미국특징주]\"사이버보안바로니스,매각검토\"…주가7%급등",
-  "\"AI모델보다경험\"…젠스파크,AI워크스페이스시대연다",
-  "[위클리오늘]LG생활건강소식(6.24)",
-  "AI반도체폭발에심장거머쥔한미반도체…차세대TC본더로시장장악",
-  "업무용AI내세운젠스파크…AI워크스페이스로韓시장공략",
-  "중국'라인샤인',세계슈퍼컴1위탈환…\"알맹이없는AI경쟁력과시용...",
-  "통신3사,앤스로픽AI수출차단韓통신사의혹에\"연관없다\"",
   "미스트랄,5조원투자유치나서...\"소버린AI성공가늠자\"[글로벌AI브리...",
   "스페이스X화려한데뷔...‘매그7’지고‘망고스’뜬다",
   "‘AI봉쇄’불사하는미국…더중요해진소버린AI역량[사설]",
@@ -6001,7 +5993,15 @@
   "'술값먹튀의혹'장동주\"모두계산한상태…법적대응준비중\"",
   "[김승호의시선]모두의창업,모두의정보",
   "[뉴욕돋보기]엔비디아최대고객도돌아섰다…오픈AI,자체칩'할라페...",
-  "마이크론역대급실적에AI우려불식…월가“HBM수요더늘것”"
+  "마이크론역대급실적에AI우려불식…월가“HBM수요더늘것”",
+  "2000만유출에SLL지분매각까지…‘티빙・웨이브합병’또표류하나",
+  "대전경찰청,'손목치기'보험사기20대구속…6개월간55차례1,370만원...",
+  "AI가격전쟁,앤스로픽·오픈AIIPO흥행에찬물끼얹나",
+  "추미애경기준비위,반도체초격차3대전략발표…“HBM호황에취하면...",
+  "[뮤즈★]‘배우은퇴선언’장동주,이번엔술값미지급논란..직접해...",
+  "SK텔레콤,글로벌무대서'AI자율네트워크'전략공개",
+  "오픈AI,자체개발AI칩'할라페뇨'공개…엔비디아의존줄인다",
+  "AI칩엔비디아독주체제끝나나...구글·아마존이어퀄컴·오픈AI도참..."
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,17 @@
   [
    "2026-06-25T10:54:16.286738+09:00",
    "역대급 우려 월가 HBM 불식 마이크론 수요 실적에"
+  ],
+  [
+   "2026-06-25T10:56:15.445913+09:00",
+   "티빙 유출에 합병 표류하나 지분 매각까지 SLL 2000만 웨이브"
+  ],
+  [
+   "2026-06-25T10:56:15.445913+09:00",
+   "이어 아마존 구글 독주체제 오픈AI도 끝나나 퀄컴 AI칩"
   ]
  ],
- "last_run": "2026-06-25T10:54:43.621613+09:00",
+ "last_run": "2026-06-25T10:56:37.412144+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6909,6 +6917,7 @@
   "tvdaily.co.kr": "tvdaily.co.kr",
   "news.unn.net": "한국대학신문 - 411개 대학을 연결하는",
   "lcnews.co.kr": "라이센스뉴스",
-  "asiatime.co.kr": "아시아타임즈"
+  "asiatime.co.kr": "아시아타임즈",
+  "livebiz.today": "생생비즈플러스"
  }
 }
