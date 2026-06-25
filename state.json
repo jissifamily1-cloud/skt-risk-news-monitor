@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11597971",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04778966645485000",
-  "http://www.fnnews.com/news/202606241552090711",
-  "https://www.aitimes.com/news/articleView.html?idxno=212067",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=77465",
-  "https://www.yna.co.kr/view/AKR20260624140400007?input=1195m",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677854",
-  "https://www.aitimes.com/news/articleView.html?idxno=212064",
-  "https://zdnet.co.kr/view/?no=20260624161604",
-  "https://www.etoday.co.kr/news/view/2596892",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=844933",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=844932",
   "https://www.sportsseoul.com/news/read/1618608",
@@ -2999,19 +2989,19 @@
   "https://zdnet.co.kr/view/?no=20260625154708",
   "http://www.fntimes.com/html/view.php?ud=202606251531485720179ad43907_18",
   "https://view.asiae.co.kr/article/2026062515473879919",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260625010009070"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260625010009070",
+  "https://kookbang.dema.mil.kr/newsWeb/20260625/1/ATCE_CTGR_0060010000/view.do",
+  "https://news.bizwatch.co.kr/article/mobile/2026/06/25/0024",
+  "https://www.dt.co.kr/article/12069570",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255447",
+  "https://www.smartbizn.com/news/articleView.html?idxno=147018",
+  "https://www.news1.kr/industry/general-industry/6208370",
+  "http://www.popcornnews.net/news/articleView.html?idxno=124809",
+  "https://www.aitimes.kr/news/articleView.html?idxno=40677",
+  "https://www.etoday.co.kr/news/view/2597316",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=268554"
  ],
  "seen_titles": [
-  "AI발SW공급망공격우려에…정부,SW공급망보안로드맵발표",
-  "'모두의창업'유출논란중기부…산하기관보안인력은6년째제자리[...",
-  "정부'호남반도체'속도전인데...삼성,SK\"추진은하는데모든게유동...",
-  "엔비디아,생명과학분야용소프트웨어출시...코딩지식없어도에이전...",
-  "코스닥,하루만에반등...개인·기관순매수",
-  "두산양의지,8년만에올스타팬투표최다득표…15번째선정",
-  "더존비즈온,세무사전용지원센터오픈",
-  "오픈소스이미지모델'크레아2'출시...\"2초만에기업용이미지생성...",
-  "NH농협은행예금만기조회더쉬워진다…웹케시,AI기업뱅킹구축",
-  "모건스탠리\"한국증시급락은일시적숨고르기…코스피강세장서1만...",
   "[#시큐리티포커스]아이티센글로벌-BTQ'양자보안MOU'·시큐비스타'패...",
   "[#통신풍향계]LGU+'AICC전환지원MOU'·KT밀리'서울국제도서전'참...",
   "‘양의지역대최다260만표’2026KBO올스타베스트12확정…선수단...",
@@ -6001,13 +5991,19 @@
   "AI가상화성능한계넘었다…넷앱·SK텔레콤,AI클라우드최적화검증",
   "국제금융센터\"하반기세계경제,AI투자효과로완만한회복예상…고...",
   "최태원“AI로복지비용줄여야‥토큰이코노믹스실험필요\"",
-  "조선통신사정신잇는다…울산·부산·양산초광역교육협력출범"
+  "조선통신사정신잇는다…울산·부산·양산초광역교육협력출범",
+  "한강을사수하라...역사를바꾼6일",
+  "7월부터안면인증…통신업계\"준비끝났지만당장은글쎄\"",
+  "[손재권칼럼]AI접근권이진짜안보다…‘독파모’다시봐야",
+  "탈옥도유출도못보면서···아모데이'사용자얼굴정보수집쇼'",
+  "SK바이오팜,세노바메이트이후성장동력과제로",
+  "美마이크론AI메모리'여름'입증…삼전·닉스증설경쟁불붙는다",
+  "SKT,자체AI모델제조현장첫적용…\"데이터외부반출없이활용\"",
+  "솔트룩스,총1981억규모원주K-AI시티핵심기술맡는다...다국토부...",
+  "오픈AI,엔비디아블랙웰대항마공개...연내실전투입[종합]",
+  "\"LG씨엔에스,2026년영업익5915억전망…엔비디아동맹으로'RX퀀텀점..."
  ],
  "recent_sigs": [
-  [
-   "2026-06-25T09:52:15.209020+09:00",
-   "들어간다 비반도체 삼전닉스 ETF에도"
-  ],
   [
    "2026-06-25T09:54:15.398436+09:00",
    "도마 노출 창업정보 중기부 유출됐는데 대응 5000명"
@@ -6683,9 +6679,17 @@
   [
    "2026-06-25T15:50:27.540324+09:00",
    "회복 예상 국제금융센터 하반기 세계경제 완만한 투자 효과로"
+  ],
+  [
+   "2026-06-25T15:52:16.554163+09:00",
+   "공개 실전 연내 투입 블랙웰 대항마"
+  ],
+  [
+   "2026-06-25T15:52:16.554163+09:00",
+   "5915억 전망 RX 2026년 LG씨엔에스 퀀텀 동맹으로 영업익"
   ]
  ],
- "last_run": "2026-06-25T15:50:59.003261+09:00",
+ "last_run": "2026-06-25T15:52:40.147856+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
