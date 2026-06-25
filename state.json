@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12080535",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606181650320200107863",
-  "http://www.fnnews.com/news/202606221625050492",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677081",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260622010007595",
-  "https://magazine.hankyung.com/business/article/202606156545b",
-  "https://www.sportsseoul.com/news/read/1617851",
   "https://www.topstarnews.net/news/articleView.html?idxno=16106977",
   "https://www.thepublic.kr/news/articleView.html?idxno=308591",
   "https://www.newstnt.com/news/articleView.html?idxno=707328",
@@ -2999,16 +2992,16 @@
   "https://zdnet.co.kr/view/?no=20260625183441",
   "https://www.news1.kr/it-science/cc-newmedia/6208785",
   "https://www.hidomin.com/news/articleView.html?idxno=710919",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2283939"
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2283939",
+  "http://www.fnnews.com/news/202606251859105738",
+  "http://www.fnnews.com/news/202606251859236175",
+  "http://www.fnnews.com/news/202606251858567694",
+  "http://www.fnnews.com/news/202606250919540014",
+  "https://www.m-i.kr/news/articleView.html?idxno=1385428",
+  "https://www.etoday.co.kr/news/view/2597268",
+  "https://www.joongang.co.kr/article/25439938"
  ],
  "seen_titles": [
-  "“피지컬AI로부상할것”…SK텔레콤,데이터센터수혜주로꼽혀",
-  "[더벨]SKT,스캐터랩지분재조명'제2의앤트로픽될까'",
-  "엔비디아가불지핀AI기지국경쟁…25일'퓨처ICT포럼'서해법찾는다",
-  "과기정통부,K-AI모델전문영역확산공개...\"암치료·국방·반도체설...",
-  "청사진그리는SK하이닉스'AI컴퍼니'…계열사사업교통정리에쏠리...",
-  "[2026100대CEO]KT박윤영,본업경쟁력강화…주가살리기숙제",
-  "“오싹한K-호러의세계로”…롯데월드,여름축제‘봉인해제:요괴대...",
   "티빙개인정보유출,650만명늘었다…최종피해규모1953만명",
   "SKT,대학생과함께'고객눈높이'서비스발굴나선다",
   "SKT,대학생과함께서비스혁신나선다…'CX캠퍼스'8주간운영",
@@ -6001,7 +5994,14 @@
   "방미통위\"개정정보통신망법,정부사전검열아니다\"",
   "SK텔레콤,하이닉스낸드법인'AI컴퍼니'에7384억원출자",
   "이대통령,이재용과비공개회동…반도체지방투자막판조율",
-  "장동혁\"李,삼전닉스에민주당전대까지맡길태세…정청래불쌍할지..."
+  "장동혁\"李,삼전닉스에민주당전대까지맡길태세…정청래불쌍할지...",
+  "\"AI·망융합가속화…초연결·초지능네트워크가미래비전\"[제17회퓨...",
+  "\"AI시대핵심은네트워크…국가간패권경쟁좌우할것\"[제17회퓨처ICT...",
+  "\"통제가능한AI로클라우드·반도체등보안생태계구축해야\"[제17회...",
+  "'더작게'아닌'더높게'…IBM,0.7나노시대열었다",
+  "이재용,이대통령만나지방투자밑그림점검",
+  "이재명대통령,이재용회장과비공개회동…신규반도체투자논의",
+  "IBM1nm이하반도체길열었다…트랜지스터위로쌓는0.7나노기술공..."
  ],
  "recent_sigs": [
   [
@@ -6747,9 +6747,13 @@
   [
    "2026-06-25T18:56:18.355871+09:00",
    "사전 정보통신망법 정부 개정 검열 아니다"
+  ],
+  [
+   "2026-06-25T19:02:17.987881+09:00",
+   "반도체 열었다 쌓는 트랜지스터 7나노 기술 1nm 위로 IBM 이하"
   ]
  ],
- "last_run": "2026-06-25T19:01:01.712923+09:00",
+ "last_run": "2026-06-25T19:02:35.660484+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
