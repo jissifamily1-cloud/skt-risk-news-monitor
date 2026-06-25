@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=552058",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40667",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01928646645485328",
   "https://www.seoultimes.news/news/article.html?no=2000096926",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164371",
@@ -2999,11 +2997,11 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=1782378321&code=11121100&cp=nv",
   "https://biz.newdaily.co.kr/site/data/html/2026/06/25/2026062500264.html",
   "https://biz.chosun.com/it-science/ict/2026/06/25/FWSW66QELZDNBHH3DOGK2HOL4A/",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260625184015j5J"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260625184015j5J",
+  "https://www.news1.kr/politics/assembly/6208779",
+  "https://www.thelec.kr/news/articleView.html?idxno=58620"
  ],
  "seen_titles": [
-  "삼성이승민,'생애첫올스타'선정",
-  "\"CPU·GPU·NPU통합시대본격개막\"...퀄컴,모듈러인수로AI인프라판...",
   "정보유출책임묻더니…국회·법원보안'구멍'[only이데일리]",
   "더본코리아역전우동,냉모밀반값…SKT회원대상3500원",
   "이스트소프트·SKT·테라코랩스,상담사훈련용AI아바타개발협력",
@@ -6001,7 +5999,9 @@
   "이재용만난李,국토균형발전위해첨단산업지방투자논의",
   "방미통위\"JTBC회생으로재승인사업계획변경불가피…시청권보호...",
   "[단독]SK텔레콤도美‘AI컴퍼니’에4억8000만달러출자…SK그룹반도...",
-  "\"승리확신했는데\"…탄식·한숨물든광화문"
+  "\"승리확신했는데\"…탄식·한숨물든광화문",
+  "野\"미꾸라지·마귀\"與\"女롤모델·적임자\"…한성숙청문회공방(종합...",
+  "브로드컴·오픈AI,자체AI추론용칩'할라페뇨'공개"
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,13 @@
   [
    "2026-06-25T18:42:18.192940+09:00",
    "물든 탄식 광화문 한숨 확신했는데 승리"
+  ],
+  [
+   "2026-06-25T18:44:15.999056+09:00",
+   "할라페뇨 추론용 브로드컴 자체 공개"
   ]
  ],
- "last_run": "2026-06-25T18:42:39.920524+09:00",
+ "last_run": "2026-06-25T18:44:41.240389+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
