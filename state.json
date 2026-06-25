@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462657",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=751267",
-  "http://www.e2news.com/news/articleView.html?idxno=331640",
-  "https://www.sedaily.com/article/20059578",
-  "https://www.etnews.com/20260624000364",
   "https://daily.hankooki.com/news/articleView.html?idxno=1379463",
   "https://www.mk.co.kr/article/12080211",
   "https://www.etnews.com/20260624000367",
@@ -2999,14 +2994,14 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1385307",
   "https://www.mt.co.kr/industry/2026/06/25/2026061811440571656",
   "https://m.skyedaily.com/news_view.html?ID=306629",
-  "https://www.etnews.com/20260625000302"
+  "https://www.etnews.com/20260625000302",
+  "https://www.etnews.com/20260625000312",
+  "https://www.techm.kr/news/articleView.html?idxno=152896",
+  "https://www.aitimes.com/news/articleView.html?idxno=211891",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4091281",
+  "https://biz.sbs.co.kr/article_hub/20000318858?division=NAVER"
  ],
  "seen_titles": [
-  "호남'반도체'ㆍ영남'원전'ㆍ충청'데이터센터'?…지역균형발전후폭...",
-  "베이스어스오픈형이어폰·맥세이프보조배터리'넾다세일'참여",
-  "베이스어스,'넾다세일'참여…오픈형이어폰·맥세이프보조배터리최...",
-  "“부장님,전주식대박나도회사다닐겁니다”…‘갓생’사는30대의...",
-  "“美제조업부활조준”…코트라,'AUTOMATE2026'서K-로봇관운영",
   "김창한크래프톤대표,AWSCEO와AI비전논의…협력분야확대",
   "SK,초대형AI데이터센터전국5곳에구축",
   "'45톤쇳덩이0.1도까지조정'…포스코DX,'피지컬AI'로제조자율화...",
@@ -6001,7 +5996,12 @@
   "SKT,독자AI파운데이션모델제조업첫적용…제조AI전환본격화",
   "'휴보'서'아틀라스'로진화한K휴머노이드…전세계가주목",
   "[사설]호남반도체밸리환영…발목잡기식반대곤란",
-  "KT동부고객본부,한국외식업중앙회경북지회구미시지부와업무협약…“..."
+  "KT동부고객본부,한국외식업중앙회경북지회구미시지부와업무협약…“...",
+  "[MWC26상하이]'토큰경제'입은차세대통신,인프라시장재편",
+  "\"AI와일하세요\"유통가'AX경쟁'본격화",
+  "오픈AI,'트랜스포머'노암샤지어영입...트럼프AI고문도합류",
+  "개보위\"상조업계개인정보보호미흡\"…시정권고",
+  "반도체투톱,고점논란흔들릴필요없어…목표가줄상향"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,13 @@
   [
    "2026-06-25T14:18:17.267735+09:00",
    "진화한 전세계가 K휴머노이드 휴보 주목 아틀라스"
+  ],
+  [
+   "2026-06-25T14:20:28.931258+09:00",
+   "투톱 논란 흔들릴 줄상향 고점 목표가 반도체 없어 필요"
   ]
  ],
- "last_run": "2026-06-25T14:18:41.318299+09:00",
+ "last_run": "2026-06-25T14:20:46.988018+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
