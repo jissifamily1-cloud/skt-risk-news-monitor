@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=570610&class=18",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167028",
-  "https://www.insight.co.kr/news/559885",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=734952",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2438983",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1713678",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167027",
   "https://www.khgames.co.kr/news/articleView.html?idxno=305661",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4421542",
   "https://www.chosun.com/economy/money/2026/06/24/FKY7X47HORCURH2RF4XE5VYMV4/",
@@ -2999,16 +2992,16 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1005788",
   "https://www.chosun.com/economy/tech_it/2026/06/25/7Y6QJNTLN5E2BC2GW2TQ7C7TFI/",
   "https://www.mt.co.kr/stock/2026/06/25/2026062509304357686",
-  "https://www.news2day.co.kr/article/20260624500222"
+  "https://www.news2day.co.kr/article/20260624500222",
+  "https://www.mk.co.kr/article/12074787",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248814",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713840",
+  "https://www.newsis.com/view/NISX20260625_0003682910",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=154690",
+  "http://www.newsdream.kr/news/articleView.html?idxno=113587",
+  "https://news.unn.net/news/articleView.html?idxno=593924"
  ],
  "seen_titles": [
-  "심전·닉스시총역전…韓증시,‘기업체급’보다'자본효율'에값매...",
-  "美AI·반도체주'쇼크'속...코스피·코스닥은'상승출발'",
-  "삼성·SK,호남·충청반도체투자400조까지커지나",
-  "폴리뉴스모닝브리핑6월24일수요일",
-  "역대급환급·차비폰까지···'역시삼성전자',감사잔치에통신시장...",
-  "[Game&Now]3분만에3D애셋생성…NCAI,글로벌최고수준'바르코3...",
-  "일본,아태지역사이버공격표적1위로...왜?",
   "국산펫게임'레이어랜드'스팀상륙…오픈1시간만에네자리수판매...",
   "코스피,장초반2%대급반등…8,300선회복",
   "[속보]코스피1.86%오른8356.79출발",
@@ -6001,7 +5994,14 @@
   "SK텔레콤,'DTW이그나이트2026'서AI자율네트워크추진전략발표",
   "‘SNS인플루언서’영입하는실리콘밸리VC들이유는?",
   "SK,자회사가치+실적호조전망에52주신고가경신",
-  "[2026비자발적고립청년일경험캠프(8)]국내최초'청년헤드헌터'양..."
+  "[2026비자발적고립청년일경험캠프(8)]국내최초'청년헤드헌터'양...",
+  "갤럭시S26125만원→50만원‘뚝’…뜻밖의기회에비수기버티는이통...",
+  "GS샵,AI업무플랫폼'xhub+'공개…디지털도구한곳에통합",
+  "[EBN포커스]손정의가바라본AI미래…\"버블아닌초지능혁명\"",
+  "\"반도체만보다간놓친다\"…전문가가꼽은다음투자처",
+  "SK텔레콤,AI가스스로운영하는'자율네트워크'청사진공개…통신인...",
+  "LG유플러스,세계최초'아이패드IPTV'출시…미디어다바이스장벽허...",
+  "\"비자심사,대학·기업에맡기자\"…한국,해외우수인재잡으려면"
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,13 @@
   [
    "2026-06-25T09:34:16.189759+09:00",
    "VC들 이유는 인플루언서 영입하는 SNS 실리콘밸리"
+  ],
+  [
+   "2026-06-25T09:36:15.859028+09:00",
+   "대학 한국 기업에 맡기자 심사 우수인재 비자 잡으려면 해외"
   ]
  ],
- "last_run": "2026-06-25T09:34:43.247691+09:00",
+ "last_run": "2026-06-25T09:36:39.651303+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6690,6 +6694,7 @@
   "danbinews.com": "단비뉴스",
   "gjdream.com": "드림투데이",
   "econotelling.com": "이코노텔링(econotelling)",
-  "tvdaily.co.kr": "tvdaily.co.kr"
+  "tvdaily.co.kr": "tvdaily.co.kr",
+  "news.unn.net": "한국대학신문 - 411개 대학을 연결하는"
  }
 }
