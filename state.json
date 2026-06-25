@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026062316251888854",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606240497&t=NN",
-  "https://www.dongponews.net/news/articleView.html?idxno=58918",
-  "http://www.fnnews.com/news/202606241815082014",
-  "http://www.fnnews.com/news/202606241815005346",
-  "https://www.sedaily.com/article/20059743",
   "http://www.fnnews.com/news/202606241815046980",
   "https://www.joongang.co.kr/article/25439559",
   "https://www.goodkyung.com/news/articleView.html?idxno=288499",
@@ -2999,15 +2993,15 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=154726",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164595",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317417",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000045456"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000045456",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463152",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1064566",
+  "https://www.news2day.co.kr/article/20260625500169",
+  "https://www.hankookilbo.com/news/article/A2026062516530000179?did=NA",
+  "https://biz.chosun.com/it-science/ict/2026/06/25/XU23QJWNIRDM5BVWLKUU7A6YJI/",
+  "http://www.4th.kr/news/articleView.html?idxno=2113673"
  ],
  "seen_titles": [
-  "\"오픈소스명세서작성\"…스패로우,AI코드취약점찾는'SparrowMCP'출시",
-  "손정의\"AI버블론은모독…초지능단숨에커질것\"",
-  "삼성·SK,호남·충청에초대형반도체클러스터…수백조투자가능성",
-  "복잡한5G요금제걷어낸다…통신시장글로벌트렌드'심플'",
-  "LGU+\"중소·중견기업AI고객센터도입앞장\"",
-  "AI병목잡을해결사…‘CPU르네상스’온다[테크언커버드]",
   "'풀스택역량'네이버클라우드공공AX정조준",
   "“6시부터오픈런”...‘텍스트힙산실’서울국제도서전개막",
   "'피지컬AI'조선업출격하나…피지컬AI얼라이언스2기출범",
@@ -6001,21 +5995,15 @@
   "삼성전자ADR상장설부상…글로벌자금유입기대에재평가목소리",
   "방미통위,JTBC회생신청에\"시청권차질없어야\"",
   "MBC시청자위,방문진이사에강형철·신종원추천",
-  "방미통위,'회생신청'JTBC에\"북중미월드컵정상중계차질없도록\""
+  "방미통위,'회생신청'JTBC에\"북중미월드컵정상중계차질없도록\"",
+  "GS샵,DX·AX통합포털'xhub+'오픈…AI업무혁신가속",
+  "\"맹탕청문회\"vs\"정쟁유도\"…여야,한성숙청문회첫날격돌",
+  "LG유플러스,아이패드서IPTV본다…세계첫결합상품출시",
+  "방미통위\"JTBC,월드컵전경기정상중계통보받았다고보고\"",
+  "방미통위“JTBC,재승인신청때제출한사업계획서변경불가피”",
+  "이재명\"지방곳곳에산업기반구축\"…전략산업대전환예고"
  ],
  "recent_sigs": [
-  [
-   "2026-06-25T11:28:16.355021+09:00",
-   "주가 SK스퀘어 장중 지분가치 급등 SK하이닉스 SK 상승에"
-  ],
-  [
-   "2026-06-25T11:28:16.355021+09:00",
-   "광고로 전에 폴라로이드 파격 데이 마시기 AI가 뛰어드세요"
-  ],
-  [
-   "2026-06-25T11:28:16.355021+09:00",
-   "공영방송 추천 법조계 학계 이사 완료"
-  ],
   [
    "2026-06-25T11:30:35.964295+09:00",
    "6월 핫클립 4주차 ESG 국내"
@@ -6691,9 +6679,13 @@
   [
    "2026-06-25T17:26:15.691553+09:00",
    "중계 신청 북중미 회생 JTBC에 월드컵 없도록 차질 정상"
+  ],
+  [
+   "2026-06-25T17:28:19.029457+09:00",
+   "산업 곳곳에 전략산업 구축 기반 지방 이재명 예고 대전환"
   ]
  ],
- "last_run": "2026-06-25T17:26:43.246147+09:00",
+ "last_run": "2026-06-25T17:28:43.544926+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
