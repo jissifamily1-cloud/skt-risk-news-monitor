@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260624000641",
-  "https://www.naeil.com/news/read/592908",
-  "https://sports.khan.co.kr/article/202606241305003?pt=nv",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=447980",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=696114",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04283686645483032",
   "https://www.naeil.com/news/read/593011",
   "https://www.yna.co.kr/view/AKR20260624092000009?input=1195m",
   "https://www.newspim.com/news/view/20260624000644",
@@ -2999,15 +2993,15 @@
   "https://www.slist.kr/news/articleView.html?idxno=747610",
   "https://www.thepublic.kr/news/articleView.html?idxno=308996",
   "https://www.econovill.com/news/articleView.html?idxno=743359",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305161&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1305161&inflow=N",
+  "https://www.sedaily.com/article/20060028",
+  "https://www.mydaily.co.kr/page/view/2026062422294851672",
+  "http://www.osen.co.kr/article/G1112828331",
+  "https://www.m-i.kr/news/articleView.html?idxno=1384004",
+  "https://www.newscj.com/news/articleView.html?idxno=3411974",
+  "https://www.newspim.com/news/view/20260625000645"
  ],
  "seen_titles": [
-  "[일본특징주]KDDI,개인정보1422만건유출가능성에주가하락",
-  "LG유플러스,중기AICC전환지원",
-  "완전체KIA불펜,막내가방점을찍는다…선발김태형보직이동의진짜...",
-  "[KSOI여론조사]이재명대통령지지율데드크로스...민주당은소폭반...",
-  "케이뱅크,중소법인여신시스템구축착수",
-  "\"지원하루가급한데\"…배달앱동의의결기각에소상공인도'한숨'(종합...",
   "“AI데이터분쟁,출처검증체계구축해야”",
   "세레브라스,실적가이던스실망에시간외11%↓",
   "[미국특징주]머스크제국에번지는'합병기대감'테슬라버팀목되나",
@@ -6001,7 +5995,13 @@
   "삼성전자,1분기글로벌D램점유율1위…HBM1위는SK하이닉스",
   "HBM4에힘주는삼성전자…전체생산능력50%몰아주기'승부수'",
   "[금고해킹AIvs쉴드MS⑧]13년만에풀린금융망분리규제가던진...",
-  "(단독)창진원해킹1년새'40%'늘었는데…되레'예산깎은'한성숙"
+  "(단독)창진원해킹1년새'40%'늘었는데…되레'예산깎은'한성숙",
+  "LG유플,아이패드로보는IPTV세계최초출시",
+  "올스타탈락했는데,롯데→두산트레이드이적생은왜울컥했나…189559...",
+  "84만표뒤집히고탈락했는데…아쉬움보다감사인사먼저였던김민석\"...",
+  "[넥스트코리아]'AI'시대,건설사도진화중",
+  "이재용삼성전자회장,이재명대통령과회동…반도체투자논의",
+  "'최후의매수자'마저흔들…비트코인6만달러붕괴,'진짜바닥'어디"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,13 @@
   [
    "2026-06-25T12:00:42.318806+09:00",
    "깎은 창진원 한성숙 되레 1년 예산 늘었는데"
+  ],
+  [
+   "2026-06-25T12:02:16.855754+09:00",
+   "흔들 붕괴 진짜 매수자 어디 바닥 최후의 마저 비트코인 6만 달러"
   ]
  ],
- "last_run": "2026-06-25T12:01:06.237783+09:00",
+ "last_run": "2026-06-25T12:02:39.494823+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
