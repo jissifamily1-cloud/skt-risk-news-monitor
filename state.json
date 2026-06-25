@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606241410591430604",
-  "https://www.news1.kr/it-science/security-hacking/6206696",
-  "https://www.slist.kr/news/articleView.html?idxno=747377",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=88806",
-  "https://biz.sbs.co.kr/article_hub/20000318592?division=NAVER",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245894&CMPT_CD=P0010",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003245966&CMPT_CD=P0010",
   "http://www.metroseoul.co.kr/article/20260623500282",
   "https://www.bntnews.co.kr/article/view/bnt202606240169",
@@ -2999,15 +2993,15 @@
   "https://www.datanet.co.kr/news/articleView.html?idxno=212638",
   "https://zdnet.co.kr/view/?no=20260625131921",
   "https://www.m-i.kr/news/articleView.html?idxno=1385260",
-  "https://www.newsis.com/view/NISX20260625_0003683474"
+  "https://www.newsis.com/view/NISX20260625_0003683474",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=222302",
+  "https://www.nocutnews.co.kr/news/6538538",
+  "https://zdnet.co.kr/view/?no=20260618140251",
+  "http://www.inews24.com/view/1979668",
+  "https://www.econovill.com/news/articleView.html?idxno=743438",
+  "https://www.thepowernews.co.kr/view.php?ud=202606251337216754de3f0aa1be_7"
  ],
  "seen_titles": [
-  "씨큐비스타,패킷사이버3.0공개…“글로벌NDR성능압도”",
-  "'미토스쇼크'현실화대비…정부,SW공급망방어선구축",
-  "삼성전자·SK하이닉스,호남·충청K-반도체클러스터추진되나",
-  "LG유플러스,블룸에이아이와협력…중소·중견기업AICC전환지원",
-  "KT·카카오등폭파협박'스와팅'10대2명…법원,1심징역·벌금형선...",
-  "\"남을돕는사람을돕고있어요\"대기업직원의'부캐'",
   "미국'초고가두뇌'vs.중국'초저가인프라',승자는누구?",
   "더본코리아역전우동,T멤버십고객에냉모밀할인판매",
   "KBO올스타전투표최종명단발표…순위현황",
@@ -6001,7 +5995,13 @@
   "오픈소스컨설팅,LG유플러스아틀라시안협업환경클라우드전환완료",
   "마이크론,이익률85%…엔비디아·메타제쳤다",
   "민간방산은AI전장으로…국방AI는아직'실증단계'",
-  "\"조선통신사정신계승\"…'이지역'문화·교육기관뭉쳤다"
+  "\"조선통신사정신계승\"…'이지역'문화·교육기관뭉쳤다",
+  "(이번주법조일정)6월22일~6월26일",
+  "밀리의서재,서울국제도서전서10주년기념'밀리하우스'공개",
+  "앤트로픽CEO\"민주주의국가AI협력해야\"…G7서기술동맹강조",
+  "삼성전자,D램2분기연속1위...HBM은SK하이닉스가58%",
+  "KT,클라우드다시품을까?",
+  "LG유플러스,아이패드로IPTV본다…태블릿결합상품확대"
  ],
  "recent_sigs": [
   [
@@ -6621,7 +6621,7 @@
    "AI는 전장으로 아직 실증 국방 방산은 단계 민간"
   ]
  ],
- "last_run": "2026-06-25T13:38:42.486294+09:00",
+ "last_run": "2026-06-25T13:40:50.949174+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
