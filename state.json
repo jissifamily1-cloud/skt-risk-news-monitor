@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03207846645485000",
-  "https://www.econovill.com/news/articleView.html?idxno=743263",
-  "https://www.eroun.net/news/articleView.html?idxno=83805",
-  "https://www.bloter.net/news/articleView.html?idxno=666378",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268095",
-  "http://www.boannews.com/media/view.asp?idx=144295&kind=3",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=154659",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462607",
   "https://www.news1.kr/finance/general-stock/6206509",
   "https://www.gukjenews.com/news/articleView.html?idxno=3616233",
@@ -2999,16 +2992,16 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000045183",
   "https://www.g-enews.com/view.php?ud=202606250948183486a9fc143920_1",
   "https://www.eroun.net/news/articleView.html?idxno=83933",
-  "https://news.unn.net/news/articleView.html?idxno=593907"
+  "https://news.unn.net/news/articleView.html?idxno=593907",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713525",
+  "https://www.ddaily.co.kr/page/view/2026062509504723483",
+  "http://coinreaders.com/244120",
+  "https://kpenews.com/View.aspx?No=4125140",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=361794",
+  "https://view.asiae.co.kr/article/2026062507564555042",
+  "https://www.yna.co.kr/view/AKR20260625035700017?input=1195m"
  ],
  "seen_titles": [
-  "폭락하루만에반등한코스피,3%대상승…삼전7%급등",
-  "LG유플러스,블룸AI와손잡고중소기업AICC문턱낮춘다",
-  "LG유플러스,블룸AI와맞손…중소·중견기업AI고객센터도입지원",
-  "SK하이닉스대장주등극에고개드는액면분할론",
-  "[오늘의일정]6월24일수요일스포츠경기",
-  "넷유,와이파이6공유기‘네티스AX3000’출시",
-  "ETRI,AI데이터센터잇는'국가AI신경망'구축나선다",
   "코스피,장초반3%대상승해8500선회복...삼성전자·SK하이닉스반등...",
   "美반도체급락에도코스피2%대강세…삼전7%·닉스4%대반등[개장시...",
   "세종시의회,'위반행위제로'성과속청렴의정문화강화",
@@ -6001,7 +5994,14 @@
   "테슬라,휴머노이드로봇'옵티머스'초기양산돌입…부품공급망주목",
   "‘오토메이트2026’서입증한K-로봇기술력…코트라,美시장‘AI전환...",
   "SKT,독자AI파운데이션모델첫제조현장적용",
-  "5000명창업정보유출됐는데\"노출\"?…중기부대응도마"
+  "5000명창업정보유출됐는데\"노출\"?…중기부대응도마",
+  "케이블TV'구조적붕괴'경고음…\"규제가열등재만들었다\"",
+  "웹트래픽절반넘긴AI·봇…사람이용첫추월",
+  "핵심인재이탈에도흔들리지않았다…월가\"구글AI경쟁력여전\"",
+  "SKT,AI네트워크운영고도화..자율네트워크청사진공개",
+  "SK텔레콤,철강·자동차부품공장에'독자AI모델'도입",
+  "[단독]李대통령,30일서남권첨단산업투자국민보고회…반도체·AI·로...",
+  "[만나보니]딜로이트AI리더\"AI파편화시대…국가별챔피언뜬다\""
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-06-25T09:54:15.398436+09:00",
    "도마 노출 창업정보 중기부 유출됐는데 대응 5000명"
+  ],
+  [
+   "2026-06-25T09:56:16.548334+09:00",
+   "이용 절반 사람 넘긴 트래픽 추월"
   ]
  ],
- "last_run": "2026-06-25T09:54:40.209550+09:00",
+ "last_run": "2026-06-25T09:56:38.329683+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
