@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202606160756181324",
-  "https://www.chosun.com/economy/tech_it/2026/06/15/HEOE2O5KVBABPIVNZB7PBQY73M/",
-  "https://www.munhwa.com/article/11595559",
-  "https://www.hankookilbo.com/news/article/A2026061410430003591?did=NA",
   "https://www.g-enews.com/view.php?ud=202606131412537851fbbec65dfb_1",
   "https://www.sportsseoul.com/news/read/1618522",
   "https://www.eroun.net/news/articleView.html?idxno=83843",
@@ -2999,13 +2995,13 @@
   "https://www.heraldmuse.com/article/10787848",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=203963",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=845027",
-  "https://www.livebiz.today/news/articleView.html?idxno=202858"
+  "https://www.livebiz.today/news/articleView.html?idxno=202858",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=846389",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=263860",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92021",
+  "https://view.asiae.co.kr/article/2026061709240454428"
  ],
  "seen_titles": [
-  "미스트랄,5조원투자유치나서...\"소버린AI성공가늠자\"[글로벌AI브리...",
-  "스페이스X화려한데뷔...‘매그7’지고‘망고스’뜬다",
-  "‘AI봉쇄’불사하는미국…더중요해진소버린AI역량[사설]",
-  "앤스로픽AI,첫수출통제…아마존제보에미정부움직였다",
   "\"HBM4수요둔화압력확산하나\"엔스로픽통제에삼성·SK긴장고조",
   "데일리:디렉션,파격적인‘바디호러’",
   "시큐어가디언스,몸캠피싱협박'신속한초기대응'의중요성경고",
@@ -6001,7 +5997,11 @@
   "[뮤즈★]‘배우은퇴선언’장동주,이번엔술값미지급논란..직접해...",
   "SK텔레콤,글로벌무대서'AI자율네트워크'전략공개",
   "오픈AI,자체개발AI칩'할라페뇨'공개…엔비디아의존줄인다",
-  "AI칩엔비디아독주체제끝나나...구글·아마존이어퀄컴·오픈AI도참..."
+  "AI칩엔비디아독주체제끝나나...구글·아마존이어퀄컴·오픈AI도참...",
+  "두산양의지,역대올스타전팬최다득표",
+  "하나생명,사내전용AI챗봇'별비서'로보안·업무효율성동시확보",
+  "삼성전자·SK하이닉스,AI메모리주도권경쟁격화…HBM4승부수되나",
+  "통신3사,앤스로픽AI수출차단韓통신사의혹에\"연관없다\""
  ],
  "recent_sigs": [
   [
@@ -6625,7 +6625,7 @@
    "이어 아마존 구글 독주체제 오픈AI도 끝나나 퀄컴 AI칩"
   ]
  ],
- "last_run": "2026-06-25T10:56:37.412144+09:00",
+ "last_run": "2026-06-25T10:58:33.169725+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
