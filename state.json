@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026062409460002301?did=NA",
-  "https://www.donga.com/news/Economy/article/all/20260624/134174562/1",
-  "https://www.news1.kr/it-science/general-it/6207229",
-  "https://www.ddaily.co.kr/page/view/2026062416074646571",
-  "https://dealsite.co.kr/articles/164149",
-  "https://www.newspim.com/news/view/20260624000977",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04762566645485000",
-  "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1776927",
   "https://www.smarttoday.co.kr/ko-kr/articles/108756",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=804544",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677950",
@@ -2999,17 +2991,17 @@
   "https://www.mk.co.kr/article/12082011",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463098",
   "http://www.newstomato.com/ReadNews.aspx?no=1305173&inflow=N",
-  "https://www.sentv.co.kr/article/view/sentv202606250079"
+  "https://www.sentv.co.kr/article/view/sentv202606250079",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43132",
+  "https://www.mt.co.kr/world/2026/06/25/2026062513150146472",
+  "https://www.munhwa.com/article/11598262",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594870",
+  "https://news.bizwatch.co.kr/article/industry/2026/06/25/0023",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713931",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463096",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1713936"
  ],
  "seen_titles": [
-  "중국,슈퍼컴퓨터도세계1위...엔비디아없이미국제쳤다",
-  "“설비·자본만큼인재중요”…주요기업CEO,영어·AI역량강화직...",
-  "\"두달걸리던AI개발,단5분으로\"…SKB,'플레이그라운드'구축",
-  "MS“AI가해킹까지대신하는시대”…금융권보안도속도전",
-  "[중화학ON]LG엔솔,중진공과K배터리생태계경쟁력강화맞손",
-  "김용범\"韓,유럽제치고세계5대시총국…'모두의AI'내년무료추진...",
-  "‘기술임치’모두의창업대책이라더니…알고보니기존사업재포장",
-  "505게임즈,서부극사이버펑크FPS'이그제킬러'퍼블리싱",
   "LG유플러스,블룸AI와MOU…중소·중견기업AICC도입지원",
   "[현장]\"독서에조건은없어\"KT밀리의서재10주년집들이가보니",
   "방미통위,'2026장애인미디어축제'부산서개최",
@@ -6001,7 +5993,15 @@
   "오픈AI·구글과나란히선니어스랩…‘피지컬AI’로코스닥드론1호...",
   "3달러에서0.5달러로곤두박질…밈코어M토큰'유령투매'에개미들비...",
   "(현장+)\"태극기는우리모두의것\"…광화문뒤덮은\"대~한민국\"함성",
-  "고려대구로병원개방형실험실,올해27개협력연구과제착수"
+  "고려대구로병원개방형실험실,올해27개협력연구과제착수",
+  "[오늘의외식]매드포갈릭·창고43",
+  "\"SK하이닉스뉴욕온다…뛰어난실적\"월가·외신도들썩",
+  "AI가스스로오류찾는다…LGCNS,ERP테스트솔루션출시",
+  "“마이크론,피크아웃우려진정시켰다…기술주마진왕등극”",
+  "[반도체신질서]上'CPU제왕'귀환속더또렷해진트럼프의큰그림",
+  "[Telecom&Now]SKT,'자율네트워크'청사진공개…\"글로벌표준은필수...",
+  "SKT독자AI모델,철강·자동차부품공장으로...\"제조AX강화\"",
+  "[Leader&Now]최태원회장\"AI도목표가먼저…빠른실험필요\""
  ],
  "recent_sigs": [
   [
@@ -6679,9 +6679,13 @@
   [
    "2026-06-25T15:42:18.265290+09:00",
    "OTT는 업계 손봐야 유료방송 규제는 낡은 승승장구 우리"
+  ],
+  [
+   "2026-06-25T15:48:17.540824+09:00",
+   "독자 부품 자동차 AX 제조 모델 철강 강화 공장으로"
   ]
  ],
- "last_run": "2026-06-25T15:46:36.748817+09:00",
+ "last_run": "2026-06-25T15:48:35.106593+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
