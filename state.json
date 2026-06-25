@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678022",
-  "https://news.tf.co.kr/read/video/2336204.htm",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3616917",
-  "https://www.news1.kr/finance/blockchain-fintech/6206795",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40664",
-  "https://biz.sbs.co.kr/article_hub/20000318663?division=NAVER",
-  "https://kpenews.com/View.aspx?No=4124588",
   "https://dhnews.co.kr/news/view/1065605032397566",
   "https://www.gukjenews.com/news/articleView.html?idxno=3616906",
   "https://www.m-i.kr/news/articleView.html?idxno=1385014",
@@ -2999,16 +2992,16 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7171484",
   "https://www.newsis.com/view/NISX20260625_0003683885",
   "http://www.dailypop.kr/news/articleView.html?idxno=100052",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305260&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1305260&inflow=N",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606250388&t=NNv",
+  "https://www.hankyung.com/article/2026062585361",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2051475",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317418",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845105",
+  "https://zdnet.co.kr/view/?no=20260625171325",
+  "https://www.idomin.com/news/articleView.html?idxno=2008737"
  ],
  "seen_titles": [
-  "SK하이닉스,내달10일나스닥ADR상장…45조조달",
-  "\"통신선휘고,쓰레기는산더미\"...집회20일째올림픽공원'몸살'[오승...",
-  "대구광역시,통합정보시스템전환작업에일부민원서비스3일간중단",
-  "\"AI에밀린가상자산\"구조조정칼바람…이더리움도20%감원",
-  "매트가먼CEO,\"기업AI실험단계끝났다,AIROI현실화\"…기업AI시...",
-  "반도체이어어디로흐르나…AI가바꾸는자본의물줄기",
-  "‘모두의창업’개인정보유출,경찰입건전조사..공공AI관리도마",
   "전남대양재석교수,한국고등교육재단신진학자상수상",
   "신진성회장\"사적부조일뿐…특정세력의흔들기공작\"",
   "손정의\"AI혁명이제막시작\"...AI거품론일축",
@@ -6001,13 +5994,16 @@
   "출판계불황에도'나홀로'웃는서울국제도서전",
   "\"2040년네이버전력사용량,서울28만가구1년치와맞먹어\"",
   "[줌인]SKT,국내선독자AI현장적용...글로벌무대에선통신AI기준...",
-  "회생신청JTBC…방미통위\"재승인사업계획변경불가피\""
+  "회생신청JTBC…방미통위\"재승인사업계획변경불가피\"",
+  "외국인'팔자'에강달러까지...환율1542.7원마감",
+  "삼성전자,D램점유율1위…HBM은SK하이닉스선두",
+  "6월세무사정기총회'플랫폼세무사회'열풍...유료회원확대가속화",
+  "방미통위,JTBC에\"비정규직최우선보호\"당부",
+  "방미통위,JTBC회생신청의견청취…\"재승인심사사업계획서변경불...",
+  "방미통위\"JTBC재승인시사업계획서전면수정불가피\"",
+  "KT경남지사,6.25참전용사예우행사…커피·선풍기로감사전해"
  ],
  "recent_sigs": [
-  [
-   "2026-06-25T11:34:14.556117+09:00",
-   "스페이스X 스테이블코인으로 괜찮을까 선물투자"
-  ],
   [
    "2026-06-25T11:40:28.758796+09:00",
    "Deloitte 성료 Korea ConnecT 딜로이트 한국 구글"
@@ -6659,9 +6655,13 @@
   [
    "2026-06-25T17:32:19.069446+09:00",
    "독자 기준 무대에선 적용 글로벌 통신 현장 국내선"
+  ],
+  [
+   "2026-06-25T17:34:18.495584+09:00",
+   "전해 경남지사 선풍기로 예우 참전용사 행사 커피 감사"
   ]
  ],
- "last_run": "2026-06-25T17:32:37.376813+09:00",
+ "last_run": "2026-06-25T17:34:37.899232+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6961,6 +6961,7 @@
   "amenews.kr": "amenews.kr",
   "bizhankook.com": "비즈한국",
   "jmbc.co.kr": "전주MBC",
-  "koreastocknews.com": "증권경제신문"
+  "koreastocknews.com": "증권경제신문",
+  "idomin.com": "경남도민일보"
  }
 }
