@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=103478",
-  "https://www.m-i.kr/news/articleView.html?idxno=1384878",
-  "https://www.m-i.kr/news/articleView.html?idxno=1384906",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/24/2026062490183.html",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3616577",
-  "https://www.koreaherald.com/article/10785408",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47074",
-  "https://www.yna.co.kr/view/AKR20260624114300009?input=1195m",
-  "https://sports.khan.co.kr/article/202606241443003?pt=nv",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=677525",
-  "https://www.chosun.com/economy/tech_it/2026/06/24/Q4SZW36SVRDUZGWS6CSPWU2RGU/",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=804526",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008625558&plink=ORI&cooper=NAVER",
   "https://www.mk.co.kr/article/12081906",
@@ -2999,20 +2988,20 @@
   "https://www.etoday.co.kr/news/view/2597039",
   "http://www.popcornnews.net/news/articleView.html?idxno=124364",
   "https://www.itbiznews.com/news/articleView.html?idxno=217268",
-  "https://www.econovill.com/news/articleView.html?idxno=743365"
+  "https://www.econovill.com/news/articleView.html?idxno=743365",
+  "https://sports.khan.co.kr/article/202606251401003?pt=nv",
+  "https://news.mtn.co.kr/news-detail/2026061814192062157",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3617789",
+  "https://biz.heraldcorp.com/article/10788107",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4420754",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04073766645485328",
+  "http://www.fnnews.com/news/202606251322379882",
+  "https://www.etnews.com/20260625000241",
+  "https://www.etoday.co.kr/news/view/2597245",
+  "https://www.news1.kr/it-science/general-it/6208234",
+  "https://www.hankyung.com/article/202606256485i"
  ],
  "seen_titles": [
-  "CATL수장\"전기차,향후AI토큰팩토리로변모\"",
-  "삼성·SK,호남에'반도체팹'짓나…전력·용수·생태계구축이관건",
-  "LG유플러스,블룸AI와'맞손'…중소·중견AICC도입지원",
-  "KT·카카오등폭파협박한10대들…1심서징역·벌금형",
-  "하남시,AI돌봄로봇활용어르신건강관리소모임운영",
-  "AIbreaksKoreamemory'sboom-bustcycle:CLSA",
-  "서울로보틱스,현대차등과한국첫'K-AI시티'만든다",
-  "\"퀄컴,바이트댄스에맞춤형칩설계제공협상중\"",
-  "신인왕→국대4번타자꿰찬KT안현민이돌이켜본공백기“사실은많...",
-  "오픈AI보다8배많이외친'위험'…앤트로픽,AI수출금지자초했다",
-  "삼성전자,HBM생산능력절반HBM4에배치",
   "[오늘증시]8500선되찾은코스피…'패닉셀'하루만에반등성공",
   "호남·충청에K-반도체새터전추진…수백조규모다음주발표",
   "“AI고객센터문턱낮춘다”…LG유플러스,블룸AI와중소기업공략",
@@ -6001,7 +5990,18 @@
   "한미피지컬AI협력본격화…실리콘밸리서3억달러규모상담",
   "스페이스X'0주배정'골드만삭스갑질…\"제도정비필요\"",
   "넷앱·SKT,가상화환경AI인프라확장가능성입증",
-  "[금고해킹AIvs쉴드MS⑫]열리는문과닫아야할빗장,금융보안의..."
+  "[금고해킹AIvs쉴드MS⑫]열리는문과닫아야할빗장,금융보안의...",
+  "‘5월ERA6.75→6월ERA1.08’SSG마무리조병현이다시제궤도에오...",
+  "3600억원상생안퇴짜에배민\"아쉽\"…공정위과징금수순",
+  "김대권수성구청장,6·25참전기념비서참배행사...참전용사희생기려",
+  "“혼자선AI전환어렵죠?”…中企‘공동혁신생태계’로난제푼다",
+  "트럼프,G7서AI기업CEO들과美주도글로벌AI규칙논의",
+  "코트라,美실리콘밸리서'피지컬AI수퍼커넥트'개최",
+  "\"한-미피지컬AI협력본격화\"…코트라,실리콘밸리서'2026피지컬AI수...",
+  "韓美,피지컬AI협력본격화…실리콘밸리서3억불상담·7건계약",
+  "SKB,구성원누구나AI에이전트만든다…네트워크품질혁신적용",
+  "과기·경제자문회의,AX국가전략머리맞대",
+  "엔비디아·테슬라만난'K-피지컬AI'…실리콘밸리서협력논의"
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,17 @@
   [
    "2026-06-25T14:02:17.321441+09:00",
    "보안의 문과 열리는 금융 빗장 닫아야"
+  ],
+  [
+   "2026-06-25T14:04:15.118204+09:00",
+   "과기 경제자문회의 AX 맞대 머리 국가전략"
+  ],
+  [
+   "2026-06-25T14:04:15.118204+09:00",
+   "테슬라 협력 논의 만난 실리콘밸리서 피지컬"
   ]
  ],
- "last_run": "2026-06-25T14:02:35.545354+09:00",
+ "last_run": "2026-06-25T14:04:43.075862+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
