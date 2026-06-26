@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260625_0003684056",
-  "https://www.nocutnews.co.kr/news/6538818",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8594936",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39007",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3618032",
-  "http://www.finomy.com/news/articleView.html?idxno=256308",
-  "https://www.smarttoday.co.kr/ko-kr/articles/108818",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678378",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=204000",
   "https://www.laborplus.co.kr/news/articleView.html?idxno=41044",
   "https://zdnet.co.kr/view/?no=20260625171822",
   "https://www.businesspost.co.kr/BP?command=article_view&num=440862",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05097126645485000",
   "https://www.joongangenews.com/news/articleView.html?idxno=528637",
   "https://www.ajunews.com/view/20260626155525545",
-  "http://www.boannews.com/media/view.asp?idx=144341&kind=6"
+  "http://www.boannews.com/media/view.asp?idx=144341&kind=6",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=440953",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/23/2026062390223.html",
+  "https://zdnet.co.kr/view/?no=20260626155907",
+  "https://www.kpinews.kr/newsView/1065590900544924",
+  "https://www.bbc.com/korean/articles/clyx7gkyjr1o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://idsn.co.kr/news/view/1065596196344977",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=199657",
+  "https://www.ppss.kr/news/articleView.html?idxno=300088",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335422"
  ],
  "seen_titles": [
-  "李대통령,이재용과만찬겸회동…반도체지방투자최종논의",
-  "국힘,李정부호남권반도체클러스터추진에\"정청래떨어뜨려달란것...",
-  "방미통위\"JTBC,재승인당시사업계획변경불가피…향후심사시기·절...",
-  "정부'AI딥페이크분석모델'성범죄대응활용…관계기관간MOU",
-  "방미통위\"JTBC회생절차에도시청권침해없어야\"",
-  "[가봤다]밀리의서재가만든\"독서와친해지는집\"...'전자책·오디오북...",
-  "삼성전자1분기'D램·낸드'SK하이닉스'HBM'선두,중국추격도거세져",
-  "네이버클라우드,정부GPU사용권1576장취득···2457억원규모",
-  "[위클리AI]\"AI검색더신뢰할수있게\"오픈AI·게티이미지손잡았다...",
   "방미통위\"JTBC월드컵중계차질없어야\"…회생절차점검",
   "'14G중유일무실점'위기의외인,또KT전호투선보일까…SSG,25일선...",
   "대구광역시,청소년소비자피해증가...전문가양성아카데미개최",
@@ -6001,7 +5992,16 @@
   "[포토]NH콕마이데이터,2026국가브랜드대상’수상",
   "SK하이닉스,그룹전용기소유확대…글로벌경영지원강화",
   "'딥페이크성범죄물'찾는다...'AI범죄대응범부처협의체'출범",
-  "[배종찬의보안빅데이터]탈많은선관위까지해킹한북한의사이버공..."
+  "[배종찬의보안빅데이터]탈많은선관위까지해킹한북한의사이버공...",
+  "[청춘커리어좌담회]\"열심히만하면되는세상아냐,취업과이직도...",
+  "[국제PICK]미션임파서블이현실로?…\"몇달내AI공격온다\"다급히...",
+  "NHN클라우드,AI인프라'글로벌톱20'진입…\"국내최고성능\"",
+  "'HBM주도권'추격하는삼성전자,'D램실리'챙기려는하이닉스",
+  "북한IT위장취업조직의실체…BBC가입수한북한내부기록을열어보...",
+  "AI범죄대응범부처협의체출범…공동대응체계가동",
+  "[그룹레이더]LS·SKC·글로벌세아,미래경쟁력강화…북미투자부터...",
+  "오세훈\"기업활동침해·사법시스템붕괴우려\"정부정책정조준",
+  "MBC시청자위원회,방문진이사후보로강형철·신종원추천"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,21 @@
   [
    "2026-06-26T16:00:37.237782+09:00",
    "선관위까지 북한의 많은 해킹한 사이버"
+  ],
+  [
+   "2026-06-26T16:02:16.920456+09:00",
+   "강화 경쟁력 SKC 미래 글로벌세아 북미 투자부터 LS"
+  ],
+  [
+   "2026-06-26T16:02:16.920456+09:00",
+   "기업활동 정부 정조준 정책 침해 사법시스템 우려 오세훈 붕괴"
+  ],
+  [
+   "2026-06-26T16:02:16.920456+09:00",
+   "추천 MBC 이사 시청자위원회 방문진 신종원 후보로 강형철"
   ]
  ],
- "last_run": "2026-06-26T16:00:55.986253+09:00",
+ "last_run": "2026-06-26T16:02:40.874637+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
