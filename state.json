@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/560103",
-  "https://www.ytn.co.kr/_ln/0102_202606231344560507",
-  "https://www.busan.com/view/busan/view.php?code=2026062512564069759",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16111726",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3617721",
-  "https://newscham.net/articles/116736",
-  "https://www.nytimes.com/2026/06/23/nyregion/ny12-nadler-primary-micah-lasher.html?partner=naver",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86671",
-  "https://www.naeil.com/news/read/593098",
-  "http://www.fnnews.com/news/202606231325273887",
-  "https://www.newscj.com/news/articleView.html?idxno=3410856",
   "https://www.gukjenews.com/news/articleView.html?idxno=3617693",
   "https://www.gukjenews.com/news/articleView.html?idxno=3617696",
   "https://www.gukjenews.com/news/articleView.html?idxno=3617711",
@@ -2999,17 +2988,20 @@
   "https://www.news1.kr/society/court-prosecution/6209271",
   "https://magazine.hankyung.com/business/article/202606269742b",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030024530&code=61141111&cp=nv",
-  "https://www.mediapen.com/news/view/1106669"
+  "https://www.mediapen.com/news/view/1106669",
+  "https://www.tokenpost.kr/news/economy/372935",
+  "http://www.fnnews.com/news/202606261055061234",
+  "https://www.yna.co.kr/view/PYH20260626068000013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260626067800013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260626067900013?input=1196m",
+  "https://www.newsis.com/view/NISX20260626_0003684878",
+  "https://www.yna.co.kr/view/PYH20260626067700013?input=1196m",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=873377",
+  "https://www.cstimes.com/news/articleView.html?idxno=711249",
+  "https://www.mk.co.kr/article/12083812",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000045576"
  ],
  "seen_titles": [
-  "[금고해킹AIvs쉴드MS⑨]\"미토스없이도미토스이긴다\"멀티모델로...",
-  "AI정치성향은?챗GPT·클로드'진보'·제미나이'중도'",
-  "KB금융,오픈이노베이션성과로금융위원장상",
-  "삼성전자D램점유율38%로세계1위…HBM은SK하이닉스선두",
-  "삼성전자,D램·낸드점유율1위…SK하이닉스는HBM58%차지",
-  "여야,한성숙청문회첫날격돌…\"권력도취마귀\"\"총리적임자\"",
-  "KACI\"AI-PaaS,공공AX·소버린AI핵심기반\"",
-  "“하이네켄56.3%·BBQ83.3%”..월드컵응원시생성형AI가추천한먹거...",
   "수산아이앤티,디바이스인증서비스운영체계ISO/IEC27001인증",
   "숭실대이동렬/박세영교수연구팀'전기적나노소용돌이로초고속나...",
   "‘박준현-안우진속절없이당했다’꽃감독이경계한마지막파이어볼...",
@@ -6001,7 +5993,15 @@
   "[뉴스1PICK]최태원·노소영,파기환송심2차변론출석…재산분할공방...",
   "최태원·노소영,SK주식분할'운명의날'…주가5배폭등에갈라진셈...",
   "카카오-KT클라우드,AI안전생태계구축협력",
-  "‘정부주도’호남행반도체…'예타'는?우려의목소리커"
+  "‘정부주도’호남행반도체…'예타'는?우려의목소리커",
+  "[특징주]크리스탈신소재,中5개대학과AI교육플랫폼공동테스트착...",
+  "[속보]법원,최태원·노소영'재산분할'파기환송심내달24일선고",
+  "최태원-노소영,재산분할2차변론출석",
+  "'재산분할소송'최태원·노소영,합의진전질문에'묵묵부답'[뉴시스...",
+  "LG유플러스,생성형AI구독료'휴대폰결제'시최대45%할인",
+  "LG유플러스,AI구독료휴대폰결제할인프로모션진행",
+  "카카오,kt클라우드와안전한AI생태계만든다",
+  "오픈AI,1조달러IPO미루나…GPT-5.6공개도제동"
  ],
  "recent_sigs": [
   [
@@ -6645,7 +6645,7 @@
    "정부 반도체 예타 주도 목소리 호남행 우려의"
   ]
  ],
- "last_run": "2026-06-26T10:56:40.318460+09:00",
+ "last_run": "2026-06-26T10:58:37.151146+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
