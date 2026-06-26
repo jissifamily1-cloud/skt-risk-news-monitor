@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=88539",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=361062",
-  "https://www.joongang.co.kr/article/25439894",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05392326645485328",
-  "http://www.osen.co.kr/article/G1112828524",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3617974",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=263959",
-  "http://www.lawissue.co.kr/view.php?ud=2026062417032227649817d053b9_12",
   "https://www.sedaily.com/article/20060173",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=79531",
   "http://www.seouleconews.com/news/articleView.html?idxno=92042",
@@ -2999,17 +2991,17 @@
   "https://vop.co.kr/A00001695456.html",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678664",
   "http://www.globalepic.co.kr/view.php?ud=20260626145339354348439a4874_29",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678662"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678662",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3618838",
+  "https://www.kukinews.com/article/view/kuk202606260106",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678675",
+  "https://www.newsway.co.kr/news/view?ud=2026062614251186709",
+  "https://www.nongmin.com/article/20260626500151",
+  "https://www.mk.co.kr/article/12084028",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678695",
+  "https://www.itbiznews.com/news/articleView.html?idxno=217490"
  ],
  "seen_titles": [
-  "[이슈IN인천]김찬진당선인\"제물포구.인천의중심으로\"",
-  "'업데이트전쟁'시작됐다…게임사들,여름이용자잡기총력",
-  "[AI픽]\"에이전틱AI시대\"…AX국가전략서둘러야(종합)",
-  "KB금융,스타트업협업성과로금융위원장상…AI상담신뢰도높였다",
-  "[더밸류브리핑]오늘의KB금융그룹소식...KB금융·KB국민은행·KB국민카...",
-  "한성숙\"北,위협이지만동포인이중적인상황\"",
-  "여야,한성숙총리후보자청문회첫날격돌…“권력도취한마귀”vs...",
-  "제조현장파고든SKT독자AI…KG스틸·코넥과AX실증",
   "'호남반도체클러스터'성사되면400조대투자…'일석삼조'효과",
   "IPO위해분사한KT클라우드,KT로재편입…\"AI가치극대화\"",
   "KT,'내보냈던자식'다시부르나…박윤영의AI빅픽처",
@@ -6001,7 +5993,15 @@
   "서울시설공단,도시인프라AI혁신실험장으로적극개방나선다",
   "폴리마켓또뚫렸다…300만달러털리고\"전액보상\"",
   "최태원-노소영재산분할판결내달24일결론",
-  "오픈AI,IPO2027년으로연기검토…앤트로픽먼저상장채비"
+  "오픈AI,IPO2027년으로연기검토…앤트로픽먼저상장채비",
+  "오석진대전교육감당선인,'GPU서버팜'통한AI교육혁신추진",
+  "바이오USA서존재감키운K-바이오…글로벌파트너링이끌어",
+  "中,AI또일냈다…美도놀란'GLM-5.2'GPT맞먹고비용은48%낮췄다",
+  "\"120만원이냐69만원이냐\"…현대차목표가로봇값셈법갈렸다",
+  "“상담원통화대신채팅으로도”…‘휴대전화해지’수월해진다",
+  "끊이지않는딥페이크·금융사기에...AI범죄대응범부처협의체출범",
+  "AI범죄대응범부처협의체출범...방미통위등10개기관참여",
+  "송경희개보위원장,G7개인정보감독기구회의참석…AI이슈대응협력..."
  ],
  "recent_sigs": [
   [
@@ -6671,9 +6671,13 @@
   [
    "2026-06-26T14:56:18.991568+09:00",
    "육성 관광상품 한돈 푸드"
+  ],
+  [
+   "2026-06-26T15:00:34.753437+09:00",
+   "참석 협력 G7 회의 대응 개인정보 이슈 송경희 개보위원장 감독기구"
   ]
  ],
- "last_run": "2026-06-26T14:58:35.395552+09:00",
+ "last_run": "2026-06-26T15:00:59.671935+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
