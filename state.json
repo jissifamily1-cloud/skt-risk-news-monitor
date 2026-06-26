@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12069579",
-  "http://www.inews24.com/view/1979744",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=114481",
-  "https://kpenews.com/View.aspx?No=4126013",
-  "https://www.news1.kr/it-science/general-it/6208469",
   "https://www.news1.kr/politics/president/6208530",
   "https://www.techm.kr/news/articleView.html?idxno=152904",
   "https://daily.hankooki.com/news/articleView.html?idxno=1379966",
@@ -2999,14 +2994,14 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595668",
   "https://www.mk.co.kr/article/12083986",
   "https://www.seoulfn.com/news/articleView.html?idxno=632027",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714079"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714079",
+  "https://www.donga.com/news/Economy/article/all/20260626/134187155/1",
+  "https://news.dealsitetv.com/articles/172458",
+  "https://www.etnews.com/20260626000237",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=264096",
+  "https://www.jbnews.com/news/articleView.html?idxno=1506567"
  ],
  "seen_titles": [
-  "LG유플러스'IPTV'·SKB'결제'·SK텔링크'위성',상품선택권확대",
-  "이대통령“영남·충청·강원·제주·호남에전략산업다극화필수적”",
-  "우주청,한국형GPS상용화시동…기업들\"시험·검증인프라시급\"",
-  "3.7조투입하는한국형GPS…개발단계부터산업계참여",
-  "추미애반도체초격차전략위\"반도체특별법시행령환영\"",
   "로봇안을열어보면일본이있다…제조강국의저력",
   "SKT독자AI모델'A.XK1',철강·자동차부품공장에도입",
   "\"코딩지고철학전공뜬다\"…졸업전앤스로픽·오픈AI앞다퉈'모셔가...",
@@ -6001,7 +5996,12 @@
   "‘5배폭등’SK주식,노소영에일부갈까?‘내달선고’[지금뉴스]",
   "“최소1조달러는받아야지”…오픈AI,내년으로상장미루나",
   "오픈AI,첫추론용AI칩'할라페뇨'공개···엔비디아의존축소",
-  "류재철LG전자대표\"엔비디아와피지컬AI협력구체화…미래준비박..."
+  "류재철LG전자대표\"엔비디아와피지컬AI협력구체화…미래준비박...",
+  "구윤철“석유최고가격은현행수준보다인하…농축수산물도할인”",
+  "[중화학노트]고려아연온산제련소에美의회실무대표단방문外",
+  "KT클라우드,카카오와AI세이프티협력…“신뢰할수있는AI환경조성...",
+  "류재철\"LG전자-엔비디아,협업·전략적파트너십구체화…피지컬AI생...",
+  "SK하이닉스청주M17설계착수…반도체메가팹'시동'"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-06-26T14:16:15.414460+09:00",
    "추론용 할라페뇨 AI칩 공개 의존 축소"
+  ],
+  [
+   "2026-06-26T14:18:15.749104+09:00",
+   "청주 설계 반도체 메가팹 착수 M17 시동 SK하이닉스"
   ]
  ],
- "last_run": "2026-06-26T14:16:39.880706+09:00",
+ "last_run": "2026-06-26T14:18:39.373784+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6950,6 +6954,7 @@
   "beopbo.com": "법보신문",
   "junggi.co.kr": "중기이코노미",
   "us.aving.net": "AVING NEWS",
-  "s-journal.co.kr": "S저널"
+  "s-journal.co.kr": "S저널",
+  "jbnews.com": "중부매일 - 충청권 대표 뉴스 플랫폼"
  }
 }
