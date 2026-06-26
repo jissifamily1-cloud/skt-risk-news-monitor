@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421889",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255465",
-  "https://www.mk.co.kr/article/12083106",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248859",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=119335",
-  "https://www.hani.co.kr/arti/politics/politics_general/1265339.html",
-  "https://www.newstnt.com/news/articleView.html?idxno=707803",
   "https://www.mk.co.kr/article/12083108",
   "https://www.joongboo.com/news/articleView.html?idxno=363729755",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606250406&t=NN",
@@ -2999,16 +2992,16 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260626125704OBQ",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=846391",
   "https://www.junggi.co.kr/news/articleView.html?idxno=36919",
-  "https://www.ajunews.com/view/20260626144348384"
+  "https://www.ajunews.com/view/20260626144348384",
+  "https://www.thebilliards.kr/news/articleView.html?idxno=31256",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=241395",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422084",
+  "https://www.etnews.com/20260626000265",
+  "https://www.thepowernews.co.kr/view.php?ud=202606261434332640de3f0aa1be_7",
+  "https://www.g-enews.com/view.php?ud=2026062613593576106ed0c62d49_1",
+  "https://www.electimes.com/news/articleView.html?idxno=369602"
  ],
  "seen_titles": [
-  "장동주,'술값미지급'의혹부인\"전액지불완료,법적대응준비중\"",
-  "[정연우의중기직설]기회가파국으로...위기맞은'전국민창업열풍'",
-  "[DD퇴근길]검은화요일충격딛고9.19%상승한삼성전자,67만원까지간...",
-  "SKT독자AI모델,국방이어제조현장실전배치…‘산업특화AX’승부...",
-  "李”지방곳곳에핵심산업대규모투자…곧대국민보고\"",
-  "SKT,AI자율네트워크승부수…AWS와맞손",
-  "농협상호금융'NH콕마이데이터',2026국가브랜드대상수상",
   "손정의소프트뱅크그룹회장\"피지컬AI로봇이미양산시작\"",
   "[AI인싸잇]‘1승2패’홍명보號,32강진출가능성…AI에물어보니",
   "[산업레이더]뉴로랩·딥큐어·주닥,오늘의뉴스",
@@ -6001,7 +5994,14 @@
   "[CEO풍향계]'뚝심경영'최태원…'역사인식교육'정용진",
   "IPO위해분사한KT클라우드,KT로재편입…\"AI가치극대화\"",
   "트럼프,양자컴퓨터행정명령두건서명…4년앞당겨",
-  "애플?오픈AI?중동?…코스피급락'트리거'는무엇인가"
+  "애플?오픈AI?중동?…코스피급락'트리거'는무엇인가",
+  "킹비서,'통신3사가족결합할인계산기'출시",
+  "잇올,'몰입관인천검단캠프'7월신규오픈확정...기념이벤트진행",
+  "亞증시,기술주매도세에폭락…日4%대·대만3%대하락",
+  "최태원·노소영재산분할파기환송심내달24일선고",
+  "카카오AI가드레일,ktcloud플랫폼에적용된다",
+  "류재철“엔비디아와피지컬AI협력구체화…AI생태계구축시너지기대...",
+  "종합건설사전기실무자한자리에…건설현장밀착기술총망라"
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,17 @@
   [
    "2026-06-26T15:04:19.555191+09:00",
    "중동 애플 무엇인가 트리거 급락 코스피"
+  ],
+  [
+   "2026-06-26T15:06:16.097101+09:00",
+   "가족결합 통신 할인 출시 계산기 3사 킹비서"
+  ],
+  [
+   "2026-06-26T15:06:16.097101+09:00",
+   "전기 밀착 총망라 건설현장 종합건설사 한자리에 기술 실무자"
   ]
  ],
- "last_run": "2026-06-26T15:04:40.795434+09:00",
+ "last_run": "2026-06-26T15:06:40.467392+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7000,6 +7008,7 @@
   "us.aving.net": "AVING NEWS",
   "s-journal.co.kr": "S저널",
   "jbnews.com": "중부매일 - 충청권 대표 뉴스 플랫폼",
-  "handmk.com": "핸드메이커(handmaker)"
+  "handmk.com": "핸드메이커(handmaker)",
+  "thebilliards.kr": "빌리어즈"
  }
 }
