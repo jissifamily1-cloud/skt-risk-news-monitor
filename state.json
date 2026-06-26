@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wsobi.com/news/articleView.html?idxno=314286",
-  "https://www.mk.co.kr/article/12083132",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1005885",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=36904",
-  "https://www.news1.kr/world/usa-canada/6208493",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05471046645485328",
   "https://www.aitimes.com/news/articleView.html?idxno=212109",
   "http://www.fnnews.com/news/202606251512387195",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/it-science/security-hacking/6209401",
   "https://www.hani.co.kr/arti/economy/it/1265524.html",
   "https://www.gukjenews.com/news/articleView.html?idxno=3618892",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463418"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463418",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3618893",
+  "https://www.hellot.net/news/article.html?no=113432",
+  "https://www.insight.co.kr/news/560355",
+  "https://www.tokenpost.kr/news/tech/373004",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=305195"
  ],
  "seen_titles": [
-  "[철강업계6월동향]현대제철,H-HUB오픈·타운홀미팅개최·청소년대...",
-  "네이버클라우드,정부GPU사업사용권1576장확보…2457억원규모",
-  "SKT,DTW2026서'AI자율네트워크'전략공개",
-  "장동혁,삼전닉스호남투자에\"李,반도체줄테니정청래떨어뜨려달...",
-  "\"거실TV없이도된다\"LG유플러스,아이패드IPTV출시",
   "[오늘의주요공시]한양증권·SK이노베이션·KT·OCI홀딩스·한화솔루션...",
   "‘KIA전8전전패’키움“이주형도돌아와기대커…선수단,자발적으...",
   "‘타격감너무좋다’KIA한준수,10G타율.387→5번DH출장…네일vs...",
@@ -6001,7 +5996,12 @@
   "범죄도구가되버린AI…정부,범부처대응체계만든다",
   "앤트로픽이어오픈AI까지…미행정부,GPT새모델공개제한요구",
   "국가철도공단,대전북연결선안전시공설명회개최…주민의견수렴나...",
-  "한국바이오협회,BIOUSA서역대최대한국관운영"
+  "한국바이오협회,BIOUSA서역대최대한국관운영",
+  "하남청년40명\"지역문제직접제안\"…정책실험실워크숍성료",
+  "한국후지쯔,메디앙스통합공급망플랫폼구축...업무처리속도2배↑",
+  "이재명대통령삼성·SK총수와연쇄회동,'3대메가프로젝트'29일공개...",
+  "오픈AI,IPO연기검토와인공지능모델출시규제이중고",
+  "SK그룹,반도체공장해외투자설에\"현재검토사항無\""
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,13 @@
   [
    "2026-06-26T15:28:15.415008+09:00",
    "다시 방송산업 JTBC 묻다 경고 수익모델"
+  ],
+  [
+   "2026-06-26T15:36:21.095247+09:00",
+   "해외 검토사항 반도체 현재 SK그룹 투자설에 공장"
   ]
  ],
- "last_run": "2026-06-26T15:34:37.078553+09:00",
+ "last_run": "2026-06-26T15:36:40.600882+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
