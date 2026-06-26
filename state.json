@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026062217300003896?did=NA",
-  "https://www.inthenews.co.kr/news/article.html?no=88527",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=299523",
-  "http://www.beyondpost.co.kr/view.php?ud=2026062514434577979aeda69934_30",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3617820",
   "http://www.dailypop.kr/news/articleView.html?idxno=99710",
   "https://www.econovill.com/news/articleView.html?idxno=743458",
   "https://www.aitimes.com/news/articleView.html?idxno=212100",
@@ -2999,14 +2994,14 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3618673",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606220193&t=NNv",
   "http://www.fnnews.com/news/202606261027465002",
-  "https://www.naeil.com/news/read/593244"
+  "https://www.naeil.com/news/read/593244",
+  "https://www.naeil.com/news/read/593243",
+  "https://www.naeil.com/news/read/593268",
+  "http://www.joseilbo.com/news/news_read.php?uid=570810&class=32",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=236794",
+  "https://www.sisajournal.com/news/articleView.html?idxno=377839"
  ],
  "seen_titles": [
-  "AI메모리훈풍에삼성전자'1위'굳건…SK하이닉스도점유율확대",
-  "[넥스트코리아]AI메모리패권전격화…K-반도체,다음판짠다",
-  "[넥스트코리아]새성장공식찾는다…K-가전,체질개선'강드라이브'",
-  "'반도체호남행'에…국힘\"與전대용카드냐\"반발",
-  "삼성·SK'호남'투자두고공방…野\"기업팔비틀어\"vs與\"자발적결...",
   "[넥스트코리아]국내기업들,글로벌공급망재편의주역으로",
   "롯데카드,해킹사태겪어도정보보호투자비중'10%미만'",
   "73조AI에이전트시장열린다…통신3사선점각축",
@@ -6001,7 +5996,12 @@
   "여름휴가철맞아전남경찰,2개월간음주운전특별단속실시",
   "증시랠리에도금감원장은걱정…\"레버리지ETF,꼬리가몸통을\"",
   "'1조3808억원재산분할'다시법정으로…최태원·노소영,조정결렬후...",
-  "해킹메일10명중4명이열어본다"
+  "해킹메일10명중4명이열어본다",
+  "휴대폰결제시AI구독료최대45%할인",
+  "인공지능으로전통시장관광현장문제해결",
+  "최태원-노소영파기환송심,내달24일선고…급등한SK주가'변수'",
+  "오픈AI,IPO내년연기검토…'1조달러몸값'달성에무게",
+  "임직원10명중4명해킹메일열었다…12.7%는악성코드감염"
  ],
  "recent_sigs": [
   [
@@ -6645,7 +6645,7 @@
    "4명이 메일 10명 열어본다"
   ]
  ],
- "last_run": "2026-06-26T13:06:37.581422+09:00",
+ "last_run": "2026-06-26T13:08:31.211188+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
