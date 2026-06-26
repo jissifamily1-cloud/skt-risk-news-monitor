@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=309101",
-  "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3537035&seq_800=20529916",
-  "https://www.sedaily.com/article/20060296",
-  "https://www.mk.co.kr/article/12083339",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845119",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05848246645485328",
   "https://www.seoultimes.news/news/article.html?no=2000097052",
   "https://www.thepublic.kr/news/articleView.html?idxno=309109",
@@ -2999,14 +2994,14 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05743286645485656",
   "https://www.cnbizm.com/news/articleView.html?idxno=306809",
   "https://www.hani.co.kr/arti/economy/finance/1265547.html",
-  "https://www.busan.com/view/busan/view.php?code=2026062617190101229"
+  "https://www.busan.com/view/busan/view.php?code=2026062617190101229",
+  "https://www.m-i.kr/news/articleView.html?idxno=1385819",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240066",
+  "https://www.mt.co.kr/industry/2026/06/26/2026062614411615599",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=735288",
+  "https://www.newspim.com/news/view/20260626000895"
  ],
  "seen_titles": [
-  "[기획]한성숙청문회'개문발차'…부동산·정보유출·안보관공방격화",
-  "SKT의독자AI모델,철강·자동차부품공장도입첫사례",
-  "미래에셋증권,투자센터여의도WM이전오픈기념무료세미나진행",
-  "신한투자증권,보안투자171억‘5년래최대’…데이터·오픈소스강화",
-  "SKT,DTW이그나이트서AI자율네트워크전략공개",
   "이대통령,이재용회장과비공개회동…반도체지방투자막판조율",
   "LG유플러스,세계최초아이패드기반IPTV결합상품출시",
   "\"20살투수라고믿기지않을정도\"…한화잠재운'토종1위'日AG우완,...",
@@ -6001,13 +5996,14 @@
   "게임·영화도음반시장공략…'소장형앨범'이뜬다",
   "코스피,장중8%급락에서킷브레이커…8411선마감",
   "검은화요일,검은금요일…코스피미친변동성왜?",
-  "지상·위성데이터로물부족대책제시한다…농어촌공사,엔비디아참여..."
+  "지상·위성데이터로물부족대책제시한다…농어촌공사,엔비디아참여...",
+  "정부\"5년간R&D투자200조원\"",
+  "중소알뜰폰,전파사용료감면50→90%로확대…3년더연장",
+  "기업간외부소통플랫폼'조인트',시드투자10억원↑유치",
+  "BC카드,연세대와금융특화생성형AI산학협력프로젝트성료",
+  "반도체·AI데이터센터,피지컬AI·로봇'3대메가프로젝트'"
  ],
  "recent_sigs": [
-  [
-   "2026-06-26T11:26:16.071986+09:00",
-   "KT클라우드 데이터센터 재흡수 사업 검토"
-  ],
   [
    "2026-06-26T11:28:15.576242+09:00",
    "일일시호일 공동캠페인 이주민돕기 조계사"
@@ -6543,9 +6539,13 @@
   [
    "2026-06-26T17:24:15.427458+09:00",
    "위성 지상 농어촌공사 대책 데이터로 물부족 참여 제시한다"
+  ],
+  [
+   "2026-06-26T17:26:17.745078+09:00",
+   "피지컬 데이터센터 메가 3대 로봇 반도체 프로젝트"
   ]
  ],
- "last_run": "2026-06-26T17:24:37.088429+09:00",
+ "last_run": "2026-06-26T17:26:35.985354+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
