@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1305260&inflow=N",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606250388&t=NNv",
-  "https://www.hankyung.com/article/2026062585361",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2051475",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317418",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845105",
-  "https://zdnet.co.kr/view/?no=20260625171325",
-  "https://www.idomin.com/news/articleView.html?idxno=2008737",
-  "https://www.sportschosun.com/baseball/2026-06-25/202606250100182330012005",
   "http://www.yonhapnewstv.co.kr/news/MYH20260625173442fV6",
   "https://www.ajunews.com/view/20260625164424236",
   "https://www.ceoscoredaily.com/page/view/2026062513292739975",
@@ -2999,18 +2990,18 @@
   "https://www.newspim.com/news/view/20260626000191",
   "https://www.newsis.com/view/NISX20260626_0003685517",
   "https://www.newdaily.co.kr/site/data/html/2026/06/26/2026062600184.html",
-  "https://zdnet.co.kr/view/?no=20260626161443"
+  "https://zdnet.co.kr/view/?no=20260626161443",
+  "https://www.kwnews.co.kr/article/20260626500305",
+  "https://www.newspim.com/news/view/20260626000193",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463444",
+  "https://www.mk.co.kr/article/12084156",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=552207",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422103",
+  "https://www.aitimes.com/news/articleView.html?idxno=212167",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248916",
+  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90132"
  ],
  "seen_titles": [
-  "'세수효자'SK하이닉스,세금9.5조냈다…고용·배당등합산20조효과",
-  "김혜경·문재인·선우정아·박혜진...유명인등장에도서전‘들썩’",
-  "피지컬AI데이터모을'로봇훈련소'만든다",
-  "삼성전자,1분기D램점유율1위…SK하이닉스HBM왕좌유지",
-  "네이버클라우드,정부GPU사업서1576장사용권확보",
-  "삼성전자ADR상장설부상…글로벌자금유입기대에재평가목소리",
-  "방미통위,JTBC회생신청에\"시청권차질없어야\"",
-  "MBC시청자위,방문진이사에강형철·신종원추천",
-  "방미통위,'회생신청'JTBC에\"북중미월드컵정상중계차질없도록\"",
   "GS샵,DX·AX통합포털'xhub+'오픈…AI업무혁신가속",
   "\"맹탕청문회\"vs\"정쟁유도\"…여야,한성숙청문회첫날격돌",
   "LG유플러스,아이패드서IPTV본다…세계첫결합상품출시",
@@ -6001,7 +5992,16 @@
   "[히든스테이지]신직선\"올해가마지막,무서울게없다\"",
   "\"하반기판매경쟁막올랐다\"…현대차아반떼·기아PV5신차첫선[26부...",
   "올트먼,기업가치1조달러고수…오픈AIIPO내년으로미루나",
-  "KT그룹,동대문노숙인급식소찾아400명무료급식제공"
+  "KT그룹,동대문노숙인급식소찾아400명무료급식제공",
+  "[속보]김건희‘매관매직’혐의유죄인정징역7년선고…김건희측...",
+  "[히든스테이지]김은찬밴드\"우리만의음악으로기억되는아티스트될...",
+  "NHN클라우드,'슈퍼컴퓨터TOP500'국내최고순위등재",
+  "할수만있다면…정책에‘입김’을넣어라[신간]",
+  "김용범정책실장\"29일메가프로젝트투자규모,상상초월할것\"",
+  "美정부,오픈AI에GPT-5.6모델배포제한요청",
+  "오픈AI,IPO내년연기검토…'주가급락'스페이스X변동성에신중론",
+  "TSMC창업멤버조언…\"삼성,AMD·테슬라·엔비디아중한곳확보해야...",
+  "[Editorial-우리생각엔…]청와대가자초한반도체발지역차별논란"
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,17 @@
   [
    "2026-06-26T16:18:16.601816+09:00",
    "KT그룹 찾아 무료 급식소 동대문 급식 노숙인 제공 400명"
+  ],
+  [
+   "2026-06-26T16:20:26.294767+09:00",
+   "청와대가 논란 반도체발 차별 지역 자초한"
+  ],
+  [
+   "2026-06-26T16:20:26.294767+09:00",
+   "창업 AMD TSMC 확보해야 조언 삼성 테슬라 멤버"
   ]
  ],
- "last_run": "2026-06-26T16:18:40.550804+09:00",
+ "last_run": "2026-06-26T16:20:53.395281+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
