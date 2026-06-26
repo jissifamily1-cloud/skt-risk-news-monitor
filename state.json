@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260625000832",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3617811",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3617823",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463060",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067622",
   "https://www.yna.co.kr/view/AKR20260625108800008?input=1195m",
   "https://www.etnews.com/20260625000334",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463058",
@@ -2999,14 +2994,14 @@
   "https://www.junggi.co.kr/news/articleView.html?idxno=36915",
   "https://www.munhwa.com/article/11598508",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=222604",
-  "https://biz.sbs.co.kr/article_hub/20000319089?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000319089?division=NAVER",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3618591",
+  "https://www.hg-times.com/news/articleView.html?idxno=303107",
+  "http://www.economytalk.kr/news/articleView.html?idxno=422248",
+  "https://www.vogue.co.kr/2026/06/26/nasa%ea%b0%80-%eb%b0%9c%ea%b2%ac%ed%95%9c-%eb%b9%9b-%ec%9b%b0%eb%8b%88%ec%8a%a4-%ec%97%85%ea%b3%84%ea%b0%80-%ed%9d%a5%eb%b6%84%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0/",
+  "https://biz.sbs.co.kr/article_hub/20000319092?division=NAVER"
  ],
  "seen_titles": [
-  "SK텔레콤,제조현장에AI에이전트실증추진",
-  "SKT,제조현장에'독자AI모델'적용…철강·자동차부품공장투입",
-  "삼성'하드웨어초격차'vsSK'인문학적서비스'···AI실속경쟁",
-  "경제·과학기술자문회의공동제언…“AX대응,제조·교육혁신함께...",
-  "김용범\"K뉴딜아카데미…청년고용해소주목\"",
   "마이크론,충격의80%이익률…AI거품론잠재웠다",
   "[투자전략]어질리티상장추진…피지컬AI상용화시대열린다",
   "'제2의대박'될까…SKT투자펭귄솔루션스,엔비디아파트너선정",
@@ -6001,7 +5996,12 @@
   "시총2조달러스페이스X가쏘아올린신조어'망고스'",
   "최태원·노소영,2차변론출석",
   "법원,최태원·노소영파기환송심7월24일선고",
-  "은행앱에서얼굴로그인사라진다"
+  "은행앱에서얼굴로그인사라진다",
+  "창원시,물놀이장9곳동시개장앞두고안전점검",
+  "현대차,'확바뀐'아반떼8세대최초공개..준중형넘어선디지털경험",
+  "[주목e-시장]Off코스골프열풍…글로벌시뮬레이터폭발,'K-골프테크...",
+  "NASA가발견한‘빛’,웰니스업계가흥분하는이유",
+  "李대통령,이재용반도체투자최종논의…다음주발표"
  ],
  "recent_sigs": [
   [
@@ -6777,7 +6777,7 @@
    "사라진다 로그인 앱에서 얼굴 은행"
   ]
  ],
- "last_run": "2026-06-26T11:56:37.574467+09:00",
+ "last_run": "2026-06-26T11:58:35.091033+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
