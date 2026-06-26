@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbizm.com/news/articleView.html?idxno=306584",
-  "https://www.g-enews.com/view.php?ud=20260625094800204244093b5d4e_1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3617492",
-  "https://www.cnbizm.com/news/articleView.html?idxno=306583",
-  "https://www.sedaily.com/article/20059949",
-  "https://www.newspim.com/news/view/20260625000296",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=126028",
   "https://www.businessplus.kr/news/articleView.html?idxno=113310",
   "https://www.hankyung.com/article/202606256774g",
   "https://www.epnc.co.kr/news/articleView.html?idxno=403491",
@@ -2999,16 +2992,16 @@
   "https://www.ddaily.co.kr/page/view/2026062609173344933",
   "https://www.betanews.net/article/view/beta202606260021",
   "https://www.news2day.co.kr/article/20260626500032",
-  "https://hbnpress.com/news/view/1065571831484740"
+  "https://hbnpress.com/news/view/1065571831484740",
+  "https://www.etnews.com/20260625000432",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=212649",
+  "https://www.m-i.kr/news/articleView.html?idxno=1385482",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03053686645485656",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=236779",
+  "https://www.tournews21.com/news/articleView.html?idxno=137329",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4793710"
  ],
  "seen_titles": [
-  "SK텔레콤,제조현장에독자AI모델투입…KG스틸·코넥과AX실증",
-  "[특징주]SK,자회사실적호조등재평가..15%대'급등'",
-  "금호건설·남화토건등건설중소형株상승...호남반도체투자기대",
-  "LG유플러스,아이패드기반IPTV'U+tv프리5foriPad'세계최초출시",
-  "[속보]개보위,개인정보국외이전위반‘빗썸’과징금2.1억부과",
-  "[스타in수원]AG명단발표후주춤,SSG정준재...리드오프출전컨디션...",
-  "\"AI가거짓말하면실시간차단\"…KB금융그룹,스타트업과손잡고금융위...",
   "[금융권이모저모]신한은행,이종통화해외송금서비스출시外",
   "'역대최대실적'에도…임직원만족도는떨어진카카오",
   "슈퍼마이크로,차세대엣지AI시스템대거공개...\"에이전틱AI,현장에...",
@@ -6001,7 +5994,14 @@
   "\"AI서버가부품싹쓸이해서\"…애플,공급망압박에맥북·아이패드기습...",
   "NHNFactoryX,슈퍼컴퓨터TOP500국내최고순위등재",
   "\"현대차·삼성전기도해외서2배ETF등장…변동성확대는경계\"<신한투...",
-  "삼성전자·SK하이닉스,구미\"평당1000원용지공급\"카드...전남·광주..."
+  "삼성전자·SK하이닉스,구미\"평당1000원용지공급\"카드...전남·광주...",
+  "바른정보기술,'2026대한민국리딩기업대상'공공출입보안부문대상...",
+  "텐,시스코'아이소밸런트'와파트너십···쿠버네티스기반AI인프라...",
+  "중기부·중진공,유망중기업에2040억스케일업금융지원",
+  "호남반도체투자설에…지역건설주‘불기둥’[특징주]",
+  "KT그룹희망나눔재단,'빨간밥차'10주년…무료급식·디지털나눔실천",
+  "'김구탄생150주년유네스코기념해'공식로고공개…국내외기념사...",
+  "KT재단,취약계층디지털포용사회공헌확대"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-06-26T09:20:25.467241+09:00",
    "광주 카드 삼성전자 평당 용지 구미 공급 SK하이닉스 1000원 전남"
+  ],
+  [
+   "2026-06-26T09:22:17.033745+09:00",
+   "KT재단 확대 디지털 포용 사회공헌 취약계층"
   ]
  ],
- "last_run": "2026-06-26T09:20:48.326032+09:00",
+ "last_run": "2026-06-26T09:22:35.875492+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
