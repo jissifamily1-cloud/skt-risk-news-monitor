@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16111333",
-  "http://www.srtimes.kr/news/articleView.html?idxno=206052",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678158",
-  "https://www.m-i.kr/news/articleView.html?idxno=1383969",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=309575",
-  "https://www.joongangenews.com/news/articleView.html?idxno=528182",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164548",
-  "https://www.g-enews.com/view.php?ud=202606241652081697c5fa75ef86_1",
-  "http://www.beyondpost.co.kr/view.php?ud=202606251015294676be44c0aacd_30",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1713843",
   "https://www.smartbizn.com/news/articleView.html?idxno=147001",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678182",
   "https://www.apnews.kr/news/articleView.html?idxno=3049280",
@@ -2999,19 +2989,19 @@
   "https://www.etnews.com/20260626000047",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440217",
   "https://www.news1.kr/politics/assembly/6208951",
-  "https://www.slist.kr/news/articleView.html?idxno=747834"
+  "https://www.slist.kr/news/articleView.html?idxno=747834",
+  "https://www.etoday.co.kr/news/view/2597521",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=103920",
+  "https://www.newscj.com/news/articleView.html?idxno=3412256",
+  "https://www.ddaily.co.kr/page/view/2026062609211430189",
+  "https://www.aitimes.kr/news/articleView.html?idxno=40692",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678520",
+  "https://www.m-i.kr/news/articleView.html?idxno=1384358",
+  "http://www.newstomato.com/ReadNews.aspx?no=1305299&inflow=N",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=250732",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678532"
  ],
  "seen_titles": [
-  "SK텔레콤주가,6월25일장중91,000원0%보합세지속",
-  "LG유플러스,아이패드용IPTV'유플러스티비프리5for아이패드'출시",
-  "오픈AI또손봤다…GPT-5.5인스턴트,질문의도까지읽는AI로진화",
-  "금융위,'해킹유출'롯데카드제재본격착수…다음달결론",
-  "LGU+,아이패드기반IPTV상품출시",
-  "신한라이프,임직원주도AI에이전트공모전'A.B.C'성료...현업문화A...",
-  "SK하이닉스,HBM서점유율58%로1위…삼성은D램1위",
-  "위메이드·매드엔진,차기작명칭'나이트크로우W'확정",
-  "SKT,글로벌표준기반AI자율네트워크청사진공개",
-  "SKT독자AI모델,KG스틸철강생산라인에들어간다…제조업첫적용",
   "SK텔레콤AI파운데이션모델,실전투입본격화",
   "램값드디어꺾이나…SK하이닉스DDR5확대관측·에이수스가격인상둔...",
   "\"'월드컵'응원에는역시치킨\"…함샤우트AI연구소,AI추천브랜드리...",
@@ -6001,7 +5991,17 @@
   "LG유플러스,AI구독료휴대폰결제최대45%할인",
   "KT그룹희망나눔재단,'빨간밥차'10주년…무료급식·디지털교육봉사",
   "안철수\"李대통령,삼닉멱살끌어호남투자…朴처벌받은직권남용\"",
-  "LG유플러스,챗지피티·제미나이등AI구독료청구할인"
+  "LG유플러스,챗지피티·제미나이등AI구독료청구할인",
+  "LG유플,휴대폰결제고객대상AI4종구독료최대45%할인프로모션",
+  "LGU+,휴대폰결제하면생성형AI구독료45%까지할인",
+  "바다앞멈춰선이재욱…'닥터섬보이'결말흔들마지막변수",
+  "화웨이,AI시대'황금주파수'U6GHz띄운다",
+  "MIT·마이크로소프트,AI에이전트전력소비73%줄이는'무라카브'공개",
+  "NHN클라우드GPU클러스터2개슈퍼컴TOP500등재",
+  "AI는애널리스트를대체할까",
+  "(특징주)호남반도체투자기대감에…남화토건상한가·금호건설급등",
+  "KT그룹희망나눔재단,'사랑,해빨간밥차'10주년무료급식·디지털교...",
+  "KT클라우드-카카오,AI안정성협력"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-06-26T09:32:17.496853+09:00",
    "구독료 챗지피티 청구할인 LG유플러스 제미나이"
+  ],
+  [
+   "2026-06-26T09:34:17.171439+09:00",
+   "카카오 협력 안정성 KT클라우드"
   ]
  ],
- "last_run": "2026-06-26T09:32:38.230686+09:00",
+ "last_run": "2026-06-26T09:34:35.363343+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
