@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260618110123079",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=91074",
   "https://www.ddaily.co.kr/page/view/2026061810070446085",
   "http://www.breaknews.com/1215064",
   "http://www.popcornnews.net/news/articleView.html?idxno=124154",
@@ -2999,11 +2997,11 @@
   "https://www.khan.co.kr/article/202606270834001",
   "https://www.radiokorea.com/news/article.php?uid=498164",
   "https://www.ajunews.com/view/20260625102003309",
-  "https://www.xportsnews.com/article/2165360"
+  "https://www.xportsnews.com/article/2165360",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714152",
+  "https://www.ytn.co.kr/_ln/0101_202606270847118394"
  ],
  "seen_titles": [
-  "'경계없는미디어'…2026장애인미디어축제부산서개막",
-  "‘2026장애인미디어축제’개최…“경계없는미디어,하나된우리”",
   "방미통위,'2026장애인미디어축제'부산서개최",
   "정부,두달간마약류사범5천337명단속",
   "교실까지파고든마약…정부,'인터폴마약대응센터'韓유치추진",
@@ -6001,7 +5999,9 @@
   "뉴욕증시3대지수일제히약세마감…나스닥닷새째하락",
   "6월26일이브닝뉴스헤드라인",
   "[ABCAI국가대전환=이억원금융위원장]AI금융혁명,금융은대한민국...",
-  "LG서데려온제2의이정후,슬럼프이어시즌아웃까지...키움은울고싶..."
+  "LG서데려온제2의이정후,슬럼프이어시즌아웃까지...키움은울고싶...",
+  "기술주차익실현에뉴욕증시동반약세…반도체5%급락",
+  "\"대통령자신감지나쳤다\"유시민발언논란...'또'징계카드꺼내든장..."
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,13 @@
   [
    "2026-06-27T08:18:15.355945+09:00",
    "사안 검증 3가지 JP모간이 짚은 실적 시즌 메모리 2분기"
+  ],
+  [
+   "2026-06-27T08:58:15.230028+09:00",
+   "카드 지나쳤다 발언 꺼내든 유시민 논란 대통령 자신감 징계"
   ]
  ],
- "last_run": "2026-06-27T08:56:38.537658+09:00",
+ "last_run": "2026-06-27T08:58:39.372510+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
