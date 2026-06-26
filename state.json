@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=06369766645485328",
-  "https://www.dt.co.kr/article/12069645",
-  "https://www.newsis.com/view/NISX20260625_0003684238",
-  "https://www.joongangenews.com/news/articleView.html?idxno=528438",
   "https://www.dt.co.kr/article/12069646",
   "https://www.mydaily.co.kr/page/view/2026062520471517185",
   "https://www.newspim.com/news/view/20260625001183",
@@ -2999,13 +2995,13 @@
   "https://www.ajunews.com/view/20260625194803505",
   "https://www.segye.com/newsView/20260626513599?OutUrl=naver",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4422129",
-  "http://coinreaders.com/244692"
+  "http://coinreaders.com/244692",
+  "http://www.bizwnews.com/news/articleView.html?idxno=139543",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2443005",
+  "http://www.joseilbo.com/news/news_read.php?uid=570833&class=78",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=602587"
  ],
  "seen_titles": [
-  "SKT,美SK하이닉스AI투자법인에7000억대투자",
-  "이대통령,이재용회장과회동…신규반도체투자논의",
-  "문구점카드였는데경매가238억원…포켓몬카드의놀라운부활",
-  "반도체3대장'역대급갑질'가능한이유[B급기자의B급리포트]",
   "SKT,SK하이닉스미국낸드플래시법인에7000억원대출자",
   "李-이재용회동…반도체지방투자막판조율,충청권도촉각",
   "이재용과반도체지방투자논의한이대통령\"곧청사진보고\"",
@@ -6001,7 +5997,11 @@
   "SKT,SK하이닉스미국내AI투자법인에7400억출자",
   "“낮보다밤이다?”…폭염에야간라운드찾는골퍼들",
   "李대통령\"한일은'가깝고또가까운나라'\"…사바에안경농담에웃음...",
-  "러셀지수,12조달러자산대격변예고...엔비디아(NVDA)가최고종목..."
+  "러셀지수,12조달러자산대격변예고...엔비디아(NVDA)가최고종목...",
+  "[비즈피플]\"AI데이터센터부터반값관광까지\"...강진원강진군수,4차...",
+  "이대통령\"한-일'가깝고또가까운'사이되길\"",
+  "59조손실에도몸값1500조고수한오픈AI…IPO속도조절?",
+  "SK그룹AI역량집결…美거점중심으로AI인프라투자확대"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,17 @@
   [
    "2026-06-26T18:28:17.003229+09:00",
    "12조 자산 러셀 최고 달러 대격변 종목 지수 예고 NVDA"
+  ],
+  [
+   "2026-06-26T18:30:31.710554+09:00",
+   "SK그룹 확대 중심으로 집결 인프라 투자 역량 거점"
+  ],
+  [
+   "2026-06-26T18:30:31.710554+09:00",
+   "몸값 IPO 속도조절 59조 1500조 고수한 손실에도"
   ]
  ],
- "last_run": "2026-06-26T18:28:35.246992+09:00",
+ "last_run": "2026-06-26T18:30:58.103214+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
