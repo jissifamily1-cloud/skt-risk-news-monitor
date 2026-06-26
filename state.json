@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7171412",
-  "https://www.mk.co.kr/article/12082743",
-  "https://it.donga.com/109084/",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008627258&plink=ORI&cooper=NAVER",
-  "https://biz.chosun.com/it-science/ict/2026/06/25/X2WQAZX4SZB7VELYBEFHFCWQQY/",
-  "https://www.news1.kr/local/gyeonggi/6208146",
   "https://www.datanet.co.kr/news/articleView.html?idxno=212631",
   "https://www.newstnt.com/news/articleView.html?idxno=707713",
   "https://www.newscj.com/news/articleView.html?idxno=3411957",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026062608131607946",
   "https://www.newsis.com/view/NISX20260626_0003684647",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595582",
-  "https://www.etoday.co.kr/news/view/2597571"
+  "https://www.etoday.co.kr/news/view/2597571",
+  "https://www.koreadaily.com/article/20260625184630602",
+  "https://www.mk.co.kr/article/12083804",
+  "https://www.news1.kr/it-science/internet-platform/6209164",
+  "http://www.joseilbo.com/news/news_read.php?uid=570788&class=17",
+  "https://www.yna.co.kr/view/AKR20260626066800004?input=1195m",
+  "https://www.m-economynews.com/news/article.html?no=68200"
  ],
  "seen_titles": [
-  "\"지원하루가급한데\"…배달앱동의의결기각에소상공인도'한숨'(종합...",
-  "GS샵,AI업무포털'xhub+'오픈..AX전환가속",
-  "美빅테크,데이터센터임대에8500억달러베팅[AI인포그래픽]",
-  "네이버·카카오,2025'지속가능'보고서발간...AI·환경보호·책임경영...",
-  "막올린한성숙총리후보인사청문회···여야,공수총력전",
-  "개보위,개인정보국외이전위반'빗썸'...과징금2억1000만원부과",
   "“AI데이터분쟁,출처검증체계구축해야”",
   "SK하이닉스,마이크론호재업고‘나스닥직행’승부수",
   "[경제소식]하나금융그룹,'하나JOB매칭페스타in광주'성료",
@@ -6001,7 +5995,13 @@
   "최태원\"잘마치고오겠다\"…재산분할조정실패후오늘첫변론",
   "백악관,오픈AI에차세대모델'제한적공개'요구…\"미토스만큼강력\"",
   "“임직원10명중1명‘해킹메일’에당해”…과기정통부,사이버위...",
-  "與“국힘오늘정오까지명단안내면상임위단독강행\""
+  "與“국힘오늘정오까지명단안내면상임위단독강행\"",
+  "[오픈업]AI시대에필요한교육방식",
+  "NHN이구축한GPU클러스터,韓최고슈퍼컴·글로벌20위등극",
+  "세계슈퍼컴20위오른NHN클라우드GPU클러스터…국내선1등",
+  "마이크론훈풍에도삼성·하이닉스약세…장비주로매기이동[칩칩폭폭...",
+  "[속보]최태원·노소영'재산분할'파기환송심내달24일선고",
+  "폴란드,통신사해킹통한SIM스와핑조직검거...암호화폐수백만달러..."
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-06-26T10:48:16.765052+09:00",
    "제한적 차세대 백악관 요구 모델 오픈AI에 강력 미토스만큼 공개"
+  ],
+  [
+   "2026-06-26T10:50:28.536189+09:00",
+   "통한 수백만 스와핑 달러 폴란드 검거 암호화폐 SIM"
   ]
  ],
- "last_run": "2026-06-26T10:48:41.679239+09:00",
+ "last_run": "2026-06-26T10:50:47.894700+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
