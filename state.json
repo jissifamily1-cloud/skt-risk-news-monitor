@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12082737",
-  "https://www.newspim.com/news/view/20260625000307",
-  "https://www.ajunews.com/view/20260625100836277",
-  "https://www.yna.co.kr/view/AKR20260625051900017?input=1195m",
   "https://www.cnbizm.com/news/articleView.html?idxno=306584",
   "https://www.g-enews.com/view.php?ud=20260625094800204244093b5d4e_1",
   "https://www.gukjenews.com/news/articleView.html?idxno=3617492",
@@ -2999,13 +2995,13 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678521",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4421977",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678495",
-  "http://www.breaknews.com/1217050"
+  "http://www.breaknews.com/1217050",
+  "https://www.ddaily.co.kr/page/view/2026062609173344933",
+  "https://www.betanews.net/article/view/beta202606260021",
+  "https://www.news2day.co.kr/article/20260626500032",
+  "https://hbnpress.com/news/view/1065571831484740"
  ],
  "seen_titles": [
-  "‘은퇴’장동주,‘술값미지급의혹’전면부인…“명예훼손법적대...",
-  "SKT자체AI모델,철강·자동차부품제조현장첫적용",
-  "[특징주]SK,52주신고가경신…계열사가치상승에매수세집중",
-  "SKT\"AI네트워크도표준화\"…자율망구축본격화",
   "SK텔레콤,제조현장에독자AI모델투입…KG스틸·코넥과AX실증",
   "[특징주]SK,자회사실적호조등재평가..15%대'급등'",
   "금호건설·남화토건등건설중소형株상승...호남반도체투자기대",
@@ -6001,7 +5997,11 @@
   "레드햇,IBM·팔로알토네트웍스와협력확장…기업소프트웨어취약점...",
   "[뉴욕마켓브리핑](26일)",
   "가격은주춤했지만인프라는전진…21셰어스,2026년암호화폐전망조...",
-  "국민의힘장동혁·정점식,“선관위항명·반도체정치화폭거”"
+  "국민의힘장동혁·정점식,“선관위항명·반도체정치화폭거”",
+  "\"AI서버가부품싹쓸이해서\"…애플,공급망압박에맥북·아이패드기습...",
+  "NHNFactoryX,슈퍼컴퓨터TOP500국내최고순위등재",
+  "\"현대차·삼성전기도해외서2배ETF등장…변동성확대는경계\"<신한투...",
+  "삼성전자·SK하이닉스,구미\"평당1000원용지공급\"카드...전남·광주..."
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-06-26T09:18:15.908780+09:00",
    "폭거 정점식 선관위 장동혁 국민의힘 항명 반도체 정치화"
+  ],
+  [
+   "2026-06-26T09:20:25.467241+09:00",
+   "광주 카드 삼성전자 평당 용지 구미 공급 SK하이닉스 1000원 전남"
   ]
  ],
- "last_run": "2026-06-26T09:18:40.866212+09:00",
+ "last_run": "2026-06-26T09:20:48.326032+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
