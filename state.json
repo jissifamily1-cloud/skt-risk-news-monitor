@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1618949",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248772",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=248869",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=781920",
-  "https://zdnet.co.kr/view/?no=20260623173831",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=361071",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=824929",
   "http://www.wsobi.com/news/articleView.html?idxno=314250",
   "https://view.asiae.co.kr/article/2026062516515925202",
@@ -2999,15 +2993,15 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714098",
   "https://www.pressian.com/pages/articles/2026062615003625253",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=696582",
-  "https://biz.chosun.com/it-science/ict/2026/06/26/C655TPV4A5HOLHST4JB3SFCQBM/"
+  "https://biz.chosun.com/it-science/ict/2026/06/26/C655TPV4A5HOLHST4JB3SFCQBM/",
+  "https://www.mk.co.kr/article/12083108",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3618866",
+  "https://www.yna.co.kr/view/AKR20260626108000017?input=1195m",
+  "https://www.natv.go.kr/natv/news/newsView.do?newsId=513616",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=873404",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92062"
  ],
  "seen_titles": [
-  "임문영의원\"AI시대반도체수요폭증...광주·전남은천운같은기회...",
-  "HBM호황올라탄SK하이닉스…채용3배늘고이직률0%대",
-  "서울대보다어려워진반도체학과···기업은왜학력을지웠나",
-  "오픈AI·브로드컴과합작추론칩공개···추론인프라생태계'지각...",
-  "[증시인사이트]마이크론호실적·반도체주강세…코스피9000선근접",
-  "[OBS뉴스오늘1]이대통령지지율하락에광폭행보?…정청래·장동혁...",
   "금융AI의숙제'환각'잡았다…KB금융·스타트업협업주목",
   "[초점]스프링구버전지원종료에'VM웨어탄주스프링에센셜스'부상",
   "임문영의원\"호남반도체,뿌리내려돌이킬수없게해야\"",
@@ -6001,7 +5995,13 @@
   "[특징주]가온전선,美AI데이터센터공급망진입에주가10%급등",
   "전북상의협의회\"반도체새성장축은전북새만금...클러스터조성촉...",
   "KT희망나눔재단,'빨간밥차'무료급식·디지털봉사",
-  "류재철LG전자사장“엔비디아와협업세부영역·파트너십구체화”"
+  "류재철LG전자사장“엔비디아와협업세부영역·파트너십구체화”",
+  "“왜이렇게비싼요금쓰세요?”…최적요금고지에437억부담하는이...",
+  "대전서부교육지원청,복합위기학생맞춤지원논의…통합위원회개최",
+  "TTA,AI·5G·보안분야정보통신표준19건채택",
+  "[국회라이브1/정치한수]유인태\"원구성도없이보완수사권논의…답답...",
+  "\"AI·AX사업진행시켜!\"LG에너지솔루션·SKT등기업들'CEO가직접챙...",
+  "LG전자,美엔비디아와피지컬AI동맹'착착'…차세대로봇생태계구축..."
  ],
  "recent_sigs": [
   [
@@ -6671,9 +6671,13 @@
   [
    "2026-06-26T15:10:25.693843+09:00",
    "김우석 밤이 이재은 최예빈 드라마 차우민 되었습니다"
+  ],
+  [
+   "2026-06-26T15:22:16.272436+09:00",
+   "CEO가 LG에너지솔루션 사업 AX 직접 기업들 진행시켜"
   ]
  ],
- "last_run": "2026-06-26T15:20:41.266284+09:00",
+ "last_run": "2026-06-26T15:22:34.988515+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
