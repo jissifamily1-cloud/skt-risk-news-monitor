@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845112",
-  "https://www.inven.co.kr/webzine/news/?news=317797",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3618110",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3618106",
-  "http://www.fnnews.com/news/202606251822434882",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678432",
   "https://www.vogue.co.kr/2026/06/25/%ec%b9%b4%ec%9d%bc%eb%a6%ac-%ec%a0%9c%eb%84%88-%eb%a9%94%ed%83%80-%ea%b8%80%eb%9d%bc%ec%8a%a4%ec%99%80-%eb%b9%88%ed%8b%b0%ec%a7%80-%ea%b5%ac%ec%b0%8c-%eb%93%9c%eb%a0%88%ec%8a%a4%eb%a1%9c-%ec%99%84/",
   "http://www.joseilbo.com/news/news_read.php?uid=570742&class=42",
   "http://www.fnnews.com/news/202606251825351271",
@@ -2999,15 +2993,15 @@
   "http://www.inews24.com/view/1980169",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=250759",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714133",
-  "https://biz.chosun.com/it-science/ict/2026/06/26/M5D35ADR3VDAVFNWFO6MRTWC2I/"
+  "https://biz.chosun.com/it-science/ict/2026/06/26/M5D35ADR3VDAVFNWFO6MRTWC2I/",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=387079",
+  "https://www.mt.co.kr/world/2026/06/26/2026062617011972707",
+  "https://www.news1.kr/it-science/general-it/6207506",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=659356",
+  "https://www.viva100.com/article/20260626500653",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=511611"
  ],
  "seen_titles": [
-  "‘2026KEL’FC모바일결선27일부산서개최…상금1000만원",
-  "李대통령,이재용과청와대만찬..반도체지방투자막판조율",
-  "[헬로스톡]6/25주목할종목:LG씨엔에스·삼성중공업·삼성카드·LG디...",
-  "\"AI권력,소수기업손에맡길수없다\"...MSCEO나델라경고",
-  "조코딩AX파트너스,‘AI심사에이전트’적용한AX인재전쟁해커톤개...",
-  "넥써쓰,\"블록체인게임은기술만큼이용자경험이중요\"",
   "이재명대통령·이재용회장,'반도체지방투자'논의비공개회동",
   "방미통위“JTBC에월드컵시청차질·비정규직피해없도록당부”",
   "\"독파모만으론AI주권확립되지않아\"",
@@ -6001,7 +5995,13 @@
   "\"또물렸다\"개미들한숨⋯외인·기관'폭탄매도'부른악재2가지는?",
   "카카오모빌리티,\"자율주행,원팀으로기술선도\"나서…'오픈생태계'로...",
   "작은악재에도와르르…삼전·닉스편중이키운증시공포",
-  "[비즈톡톡]다시품고싶은KT,비싸게팔고싶은투자자…KT클라우드..."
+  "[비즈톡톡]다시품고싶은KT,비싸게팔고싶은투자자…KT클라우드...",
+  "서킷브레이커걸린코스피,5.8%하락해8400선후퇴",
+  "AI투자둔화우려,亞증시최대4%급락…키옥시아10%↓[Asia마감]",
+  "공공AX어디까지왔나…\"폰으로업무처리·AI가회의록작성\"",
+  "LG유플러스,AI구독료최대45%할인프로모션",
+  "오픈AI,IPO내년으로연기검토⋯“기업가치1조달러고수”",
+  "'창업주장손'최영근지주사복귀…SK그룹오너3세들역할구도재조..."
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,13 @@
   [
    "2026-06-26T17:10:25.796032+09:00",
    "KT클라우드 다시 품고 투자자 팔고 비싸게 싶은"
+  ],
+  [
+   "2026-06-26T17:12:15.808578+09:00",
+   "복귀 장손 3세들 역할 SK그룹 오너 최영근 지주사 구도 창업주 재조"
   ]
  ],
- "last_run": "2026-06-26T17:10:52.856566+09:00",
+ "last_run": "2026-06-26T17:12:40.644270+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
