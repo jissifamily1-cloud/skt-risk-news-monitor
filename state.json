@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/jeju/6202414",
-  "https://www.ajunews.com/view/20260625140927756",
-  "https://byline.network/?p=9004111222609569",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1713912",
-  "https://www.inthenews.co.kr/news/article.html?no=88519",
-  "https://www.viva100.com/article/20260625500710",
   "http://www.metroseoul.co.kr/article/20260625500208",
   "https://www.donga.com/news/Economy/article/all/20260625/134180020/1",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1713585",
@@ -2999,15 +2993,15 @@
   "https://www.newscj.com/news/articleView.html?idxno=3412306",
   "https://www.ytn.co.kr/_ln/0102_202606261052089190",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03876966645485656",
-  "https://www.munhwa.com/article/11598482"
+  "https://www.munhwa.com/article/11598482",
+  "https://www.ajunews.com/view/20260626113809178",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4091275",
+  "https://www.hani.co.kr/arti/society/society_general/1265493.html",
+  "https://www.smarttoday.co.kr/ko-kr/articles/108849",
+  "https://www.newscj.com/news/articleView.html?idxno=3412307",
+  "https://www.newscj.com/news/articleView.html?idxno=3412308"
  ],
  "seen_titles": [
-  "중국,세계슈퍼컴퓨터성능1위올라...한국의수준은",
-  "삼성전자,1분기D램매출1위굳히기…SK하이닉스와격차9%p로확대",
-  "여야,한성숙국무총리후보자인사청문회'격돌'···\"권력에도취\"v...",
-  "AI인프라경쟁서SKT에밀린KT,'KT클라우드재합병'카드꺼내나?",
-  "[월드컵]\"제발한골만\"전국응원열기속아쉬운패배에탄식",
-  "구글AI두뇌유출비상…'제미나이'개발중추2명도빠진다",
   "SK텔레콤,AI기반자율네트워크청사진베일벗어",
   "SKT,독자AI파운데이션모델제조업첫적용…제조AI전환본격화",
   "'휴보'서'아틀라스'로진화한K휴머노이드…전세계가주목",
@@ -6001,7 +5995,13 @@
   "[포토]법원출석하는노소영관장",
   "\"반도체꺾이면같이망한다..韓,상당히위험한경제구조\"",
   "美정부가앤스로픽막으니…中Z.ai가반사이익",
-  "영남·충청·전북반발‘광주반도체’국민납득이관건[사설]"
+  "영남·충청·전북반발‘광주반도체’국민납득이관건[사설]",
+  "중국AI의거센추격…'6분의1가격'으로美선두권위협",
+  "빗썸,동의없이개인정보국외이전…과징금2억과시정명령",
+  "최태원-노소영‘재산분할소송’변론마무리…오는7월24일선고",
+  "최태원·노소영재산분할파기환송다음달24일선고",
+  "[포토]법정향하는노소영관장",
+  "[포토]재산분할파기환송2차변론기일출석하는노소영관장"
  ],
  "recent_sigs": [
   [
@@ -6761,7 +6761,7 @@
    "같이 꺾이면 반도체 경제구조 위험한 상당히 망한다"
   ]
  ],
- "last_run": "2026-06-26T11:44:39.989681+09:00",
+ "last_run": "2026-06-26T11:46:32.952086+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
