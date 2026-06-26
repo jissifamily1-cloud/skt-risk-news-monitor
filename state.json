@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=263804",
-  "https://www.newspim.com/news/view/20260624000967",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=188991",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=243656",
-  "http://www.dailypop.kr/news/articleView.html?idxno=99775",
-  "http://www.newstomato.com/ReadNews.aspx?no=1304792&inflow=N",
-  "https://www.kukinews.com/article/view/kuk202606220145",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=212529",
-  "https://www.kukinews.com/article/view/kuk202606220110",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02072966645484016",
-  "https://www.news1.kr/politics/assembly/6203480",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260621.99099006012",
   "https://www.techm.kr/news/articleView.html?idxno=152770",
   "https://www.yna.co.kr/view/AKR20260619147100530?input=1195m",
@@ -2999,20 +2988,20 @@
   "https://www.news1.kr/industry/general-industry/6209954",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678934",
   "https://biz.sbs.co.kr/article_hub/20000318897?division=NAVER",
-  "https://view.asiae.co.kr/article/2026062611263265039"
+  "https://view.asiae.co.kr/article/2026062611263265039",
+  "https://www.viewsnnews.com/article?q=236775",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01879446645485984",
+  "https://www.tokenpost.kr/news/cryptocurrency/373179",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16113868",
+  "https://magazine.hankyung.com/business/article/202606257650b",
+  "https://www.munhwa.com/article/11598615",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092164706",
+  "https://www.newsis.com/view/NISX20260627_0003685944",
+  "https://www.lecturernews.com/news/articleView.html?idxno=205119",
+  "https://www.mt.co.kr/tech/2026/06/27/2026062514042311353",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255504"
  ],
  "seen_titles": [
-  "삼성SDS,'2026공공AI박람회'서AI풀스택기반공공AX혁신사례공...",
-  "삼성SDS,엔비디아B300로공공AI인프라시장공략",
-  "삼성SDS,민간협력형인프라및GPU실물공개",
-  "삼성SDS,공공AI박람회서민원자동분류부터GPU인프라까지펼쳤다",
-  "삼성SDS공공AI박람회출격,민원자동분류부터B300GPU까지풀스택...",
-  "삼성SDS,공공AI박람회서AI풀스택기반AX사례공개",
-  "\"내손안의AI도검사받는시대\"...통제권확보에사활걸린'AI주권'",
-  "삼성SDS,공공AI박람회서행정AX사례공개",
-  "삼성SDS,공공서비스혁신위한'AI풀스택'역량공개",
-  "삼성SDS·NHN,'공공AX확산'전시에나서",
-  "삼성SDS,공공AX시장공략…AI풀스택전면에",
   "[더벨]SKT,스캐터랩지분재조명'제2의앤트로픽될까'",
   "전세계해커들\"비트코인110만개노다지캐자\"혈안",
   "사과거듭한한성숙청문회…다주택·카페·정보유출논란봇물(종합)",
@@ -6001,7 +5990,18 @@
   "'1000조역대급투자'호남·충청반도체팹,제2의타이난되려면",
   "오픈AI,정부요청에새AI모델초기공개대상'신뢰할수있는파트너...",
   "삼성·SK호남반도체투자공개임박…김용범\"마무리단계\"[많이본경...",
-  "[칩톡]삼성·하이닉스몸값더뛴다…엔비디아독점깨지는AI칩시장"
+  "[칩톡]삼성·하이닉스몸값더뛴다…엔비디아독점깨지는AI칩시장",
+  "필라반도체지수5.29%,마이크론6.69%급락",
+  "[바이오USA폐막]K바이오,'전시참가'넘어공동연구·투자·수주전으로...",
+  "IREN,AI인프라성장으로연초대비27.3%급등",
+  "뉴욕증시,유가급락에도AI반도체매물에약세",
+  "\"호남에큰거온다\"...삼전닉스중심'반도체클러스터'구축",
+  "“美정부요청에공개미뤘다”…오픈AI신형모델도일부기관부터제...",
+  "성능보다안보…오픈AIGPT-5.6제한공개",
+  "딥시크충격능가하는중국인공지능미국서일대선풍",
+  "정부초청외국인장학생(GKS)동문첫교류행사개최…한국정착과미...",
+  "[AI+]뜨거운물로AI를식힌다…엔비디아가꺼낸'물전쟁'해법",
+  "[여경코멘토]6월셋째주4명활동···지적·의견5건무슨내용?"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,25 @@
   [
    "2026-06-27T08:02:16.276844+09:00",
    "깨지는 시장 몸값 삼성 뛴다 하이닉스 독점"
+  ],
+  [
+   "2026-06-27T08:09:34.502875+09:00",
+   "행사 외국인 정부초청 한국 GKS 개최 교류 정착과 장학생 동문"
+  ],
+  [
+   "2026-06-27T08:09:34.502875+09:00",
+   "미국서 선풍 일대 중국 충격 딥시크 인공지능 능가하는"
+  ],
+  [
+   "2026-06-27T08:09:34.502875+09:00",
+   "AI를 엔비디아가 해법 전쟁 식힌다 물로 뜨거운 꺼낸"
+  ],
+  [
+   "2026-06-27T08:09:34.502875+09:00",
+   "4명 6월 셋째 의견 지적 활동 내용 5건 무슨"
   ]
  ],
- "last_run": "2026-06-27T08:02:43.292581+09:00",
+ "last_run": "2026-06-27T08:09:59.012780+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
