@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000316444?division=NAVER",
-  "https://www.kukinews.com/article/view/kuk202606150001",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=843816",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=581914",
   "https://www.ikbc.co.kr/article/view/kbc202606140043",
   "https://www.etoday.co.kr/news/view/2593416",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=03804806645448592",
@@ -2999,13 +2995,13 @@
   "https://shindonga.donga.com/3/all/13/6284080/1",
   "https://economist.co.kr/article/view/ecn202606230050",
   "https://www.dailian.co.kr/news/view/1660364/?sc=Naver",
-  "https://economist.co.kr/article/view/ecn202606240064"
+  "https://economist.co.kr/article/view/ecn202606240064",
+  "https://weekly.donga.com/3/all/11/6283594/1",
+  "https://www.etoday.co.kr/news/view/2597523",
+  "https://www.viva100.com/article/20260622501126",
+  "https://weekly.donga.com/3/all/11/6283279/1"
  ],
  "seen_titles": [
-  "트럼프도,샌더스도,올트먼도“AI가버는돈,전국민나눠주자”",
-  "공익AI보안이니셔티브‘프로젝트캐노피’출범…티오리‘진트’로...",
-  "\"클로드맥스사용량광고보다적다\"…엔트로픽,소비자로부터피소",
-  "김성훈업스테이지대표“토크노믹스시동…토큰이모든것을결정한...",
   "테너블,엔트로픽의글래스윙프로젝트참여로방어역량강화및CVE취...",
   "이재용·최태원·정의선·구광모등대기업총수,AI전환'속도전'...삼...",
   "美미토스수출통제에한국도‘비상’",
@@ -6001,7 +5997,11 @@
   "반도체역대급호황?호황이곧위기…무분별한‘나눠먹기’논할때...",
   "삼성·SK,‘1000조투자반도체수도권벨트’흔들리나[반도체수도권...",
   "'역대급지방투자'물꼬튼이재용,보스턴다이내믹스'100%자회사'품는...",
-  "비수도권반도체벨트조성‘유인책’은[반도체수도권집중vs비수도..."
+  "비수도권반도체벨트조성‘유인책’은[반도체수도권집중vs비수도...",
+  "“K팝콘서트는되는데야구는왜?”온라인예매불통에외국인들야구...",
+  "[K·IP‘ONE’터치]AI의내그림학습,막을수있을까?",
+  "[비바100]검은뒷거래?로비는죄가없다",
+  "테슬라생태계핵심파트너로부상한LG에너지솔루션·삼성전기"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,13 @@
   [
    "2026-06-27T07:02:17.586869+09:00",
    "벨트 반도체 수도권 비수도권 vs 비수도 유인책 집중 조성"
+  ],
+  [
+   "2026-06-27T07:04:17.440009+09:00",
+   "파트너로 핵심 부상한 테슬라 LG에너지솔루션 생태계 삼성전기"
   ]
  ],
- "last_run": "2026-06-27T07:02:38.320337+09:00",
+ "last_run": "2026-06-27T07:04:35.536269+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
