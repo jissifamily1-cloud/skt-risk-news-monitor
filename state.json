@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/general-it/6208649",
-  "https://www.etoday.co.kr/news/view/2597374",
-  "https://www.newspim.com/news/view/20260625001090",
-  "https://www.mk.co.kr/article/12083252",
-  "https://weeklytrade.co.kr/news/view.html?no=100358",
-  "https://news.tf.co.kr/read/economy/2336701.htm",
-  "https://byline.network/?p=9004111222609648",
-  "https://www.donga.com/news/Economy/article/all/20260625/134183940/1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3618075",
-  "http://www.newsprime.co.kr/news/article.html?no=738042",
   "https://zdnet.co.kr/view/?no=20260624191759",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260626010009201",
   "https://www.hani.co.kr/arti/politics/politics_general/1265377.html",
@@ -2999,19 +2989,19 @@
   "https://www.newspim.com/news/view/20260626000841",
   "https://www.newspim.com/news/view/20260626000842",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164657",
-  "https://www.munhwa.com/article/11598551"
+  "https://www.munhwa.com/article/11598551",
+  "https://www.donga.com/news/Economy/article/all/20260626/134188282/1",
+  "http://www.popcornnews.net/news/articleView.html?idxno=124934",
+  "https://biz.sbs.co.kr/article_hub/20000319158?division=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595754",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132214",
+  "https://www.etoday.co.kr/news/view/2597723",
+  "https://www.chosun.com/economy/money/2026/06/23/ATM2INJMURFLDHQOK53RQ6KCK4/",
+  "https://www.klnews.co.kr/news/articleView.html?idxno=321677",
+  "https://news.mtn.co.kr/news-detail/2026062516062367230",
+  "https://www.ytn.co.kr/_ln/0103_202606261635320064"
  ],
  "seen_titles": [
-  "국힘,李정부호남반도체클러스트에\"전대용…기업에'네가가라호남...",
-  "李대통령,이재용과만찬겸회동…비수도권반도체투자논의",
-  "오픈AI,첫자체AI가속기‘할라페뇨’선보여...풀스택인프라전략...",
-  "이재용만난이재명…‘5극3특’투자판키우나",
-  "서비스에이스,ISO27001인증획득…정보보안·환경·안전‘트리플인...",
-  "“그래야다른구종도더산다”161.7㎞찍은LG리오스,염경엽감독은...",
-  "고영표비슬리올러후라도…정상급선발때만출전,감독한테미운털...",
-  "[인사]경기하남시",
-  "SK하이닉스,작년이직률0.9%…신입초임은월450만원",
-  "샤오미연구팀,AI에이전트하네스자동진화프레임워크'하네스X'공...",
   "마이크론이익률85%,빅테크다제쳐…\"슈퍼甲메모리질주\"",
   "李대통령\"지방으로의전략산업다극화는필수적\"",
   "방미통위\"JTBC,재승인시제출한사업계획변경불가피\"",
@@ -6001,7 +5991,17 @@
   "발언나선이경수국가과학기술자문회의부의장",
   "발언나선배경훈부총리",
   "구글핵심AI연구원,앤트로픽으로또이직…\"AI개발주도의문\"",
-  "‘세기의이혼’최태원·노소영재산분할,내달24일결론"
+  "‘세기의이혼’최태원·노소영재산분할,내달24일결론",
+  "메모리대란못버틴애플,맥·아이패드가격최대20%인상",
+  "넷마블2종업데이트·카카오게임즈'오딘'매출호조…게임업계콘텐츠...",
+  "[증시인사이트]코스피급락에사이드카·서킷브레이커…멀어지는9천...",
+  "[NewsToday]AIinvestmentkeytochipboom",
+  "한미반도체,AI시스템반도체용'FC본더3.5'공개...2.5D시장공략",
+  "“다음AI수혜처는로봇”…현대차·국내공급망기업'아틀라스'독주...",
+  "“월가도‘삼전닉스사자’가세…지금주목해야할건AI병목株”",
+  "한익스프레스,'2026사이버위기대응모의훈련'우수기업선정",
+  "과기정통부는7월시행,개보위는개선권고...휴대폰안면인증충돌",
+  "최태원·노소영'재산분할'파기환송심다음달선고...SK주식쟁점"
  ],
  "recent_sigs": [
   [
@@ -6573,7 +6573,7 @@
    "범죄 딥페이크부터 합동대응 정부 나선다 금융사기까지"
   ]
  ],
- "last_run": "2026-06-26T16:40:41.697410+09:00",
+ "last_run": "2026-06-26T16:42:36.014963+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
