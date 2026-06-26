@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260625000429",
-  "http://www.fnnews.com/news/202606251858425410",
-  "https://www.yna.co.kr/view/AKR20260625108751003?input=1195m",
-  "https://www.g-enews.com/view.php?ud=2026062519044771090c8c1c064d_1",
-  "https://www.sportschosun.com/baseball/2026-06-25/202606250100182920012050",
-  "https://sports.khan.co.kr/article/202606251910003?pt=nv",
-  "https://www.xportsnews.com/article/2164827",
   "https://www.imaeil.com/page/view/2026062517174419472",
   "https://www.imaeil.com/page/view/2026062519112880657",
   "https://www.sportschosun.com/baseball/2026-06-25/202606250100182970012054",
@@ -2999,16 +2992,16 @@
   "https://www.insight.co.kr/news/560378",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422020",
   "https://www.mt.co.kr/politics/2026/06/26/2026062617070427786",
-  "https://www.seoul.co.kr/news/society/2026/06/26/20260626500253?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/2026/06/26/20260626500253?wlog_tag3=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260626173557Z7S",
+  "http://www.dailypop.kr/news/articleView.html?idxno=100084",
+  "https://www.news1.kr/finance/general-finance/6209878",
+  "https://www.hankyung.com/article/2026062607621",
+  "https://www.ilemonde.com/news/articleView.html?idxno=30232",
+  "https://www.aitimes.com/news/articleView.html?idxno=212173",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2051565"
  ],
  "seen_titles": [
-  "[시사플랫폼]축구대표팀,월드컵32강자력진출실패…홍명보“모두...",
-  "6월26일알림",
-  "하나증권,THEH1W신규오픈外",
-  "[시론담론]제주의미래는게임산업과돌봄산업에있다",
-  "[기획]이번엔영남반도체…정치에찢긴'K-칩'",
-  "32강예상했던KT…광화문거리응원계획도‘안갯속’",
-  "'창사최대실적'카카오,직원만족도'역대최저'[ESG성적표]",
   "\"HBM왕좌지키려美로\"…SK하이닉스ADR상장의두얼굴",
   "이대통령,이재용회장과비공개회동…비수도권지역반도체투자막...",
   "[NBARSI]나이제한규정때문에..단1초도뛰지못하는고교최고블루...",
@@ -6001,7 +5994,14 @@
   "정재헌의첫AI베팅...SKT,하이닉스美법인에7400억넣는다",
   "[영상]5G·LTE칸막이허문'통합요금제'출격···통신비인하체감은...",
   "李대통령\"GPU대규모로필요…추경할지모르겠지만재원추가발생\"",
-  "AI악용범죄에범부처가함께대응한다"
+  "AI악용범죄에범부처가함께대응한다",
+  "[퇴근길머니]코스피,폭락장에'서킷브레이커'발동…기름값은왜그대...",
+  "NH농협은행·하나은행등금융권,ESG경영고도화와포용금융확대로상...",
+  "\"하닉500만원까지가져간다\"…'삼전닉스'8조쓸어담은개미들",
+  "반도체생산기업빼고모두가피해자",
+  "SK텔레콤,美AI투자법인에7,384억출자…SK그룹미국AI전략'삼각축...",
+  "\"앤트로픽·커서모델,정답도출대신'검색'했다\"…'보상해킹'실태...",
+  "공정위·방통위·금융위·경찰청등정부,AI범죄대응범부처협의체..."
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,13 @@
   [
    "2026-06-26T17:36:15.809253+09:00",
    "함께 대응한다 범부처가 범죄에 악용"
+  ],
+  [
+   "2026-06-26T17:38:15.510225+09:00",
+   "384억 출자 미국 전략 SK그룹 투자법인에 삼각축"
   ]
  ],
- "last_run": "2026-06-26T17:36:47.960995+09:00",
+ "last_run": "2026-06-26T17:38:42.475741+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6878,6 +6882,7 @@
   "jbnews.com": "중부매일 - 충청권 대표 뉴스 플랫폼",
   "handmk.com": "핸드메이커(handmaker)",
   "thebilliards.kr": "빌리어즈",
-  "thereport.co.kr": "더리포트"
+  "thereport.co.kr": "더리포트",
+  "ilemonde.com": "르몽드디플로마티크(LeMonde Diplomatique"
  }
 }
