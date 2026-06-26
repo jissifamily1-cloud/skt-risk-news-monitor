@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12305081?influxDiv=NAVER",
-  "https://www.segye.com/newsView/20260623504185?OutUrl=naver",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606250291&t=NN",
-  "https://www.sedaily.com/article/20060314",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2283969",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1528682",
   "https://www.seoul.co.kr/news/economy/2026/06/25/20260625500288?wlog_tag3=naver",
@@ -2999,13 +2995,13 @@
   "https://www.sedaily.com/article/20060701",
   "https://www.newsis.com/view/NISX20260626_0003685746",
   "https://www.rcast.co.kr/news/articleView.html?idxno=31136",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272094"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272094",
+  "https://m.sports.naver.com/basketball/article/065/0000299057",
+  "https://www.hankyung.com/article/2026062608071",
+  "https://www.news1.kr/politics/president/6209905",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335425"
  ],
  "seen_titles": [
-  "위탁직원통근대책'0'…공무원과천지차이",
-  "방미통위\"JTBC에월드컵시청권당부…재승인심사검토\"",
-  "호남반도체클러스터에여야충돌…\"특정지역배려\"\"지역갈등조장...",
-  "이대통령-이재용회장비공개회동…반도체지방투자최종논의",
   "'500조'삼전닉스반도체공장호남행…전력·용수확보넘어야할산",
   "SKT,'SK하이닉스美AI투자회사'에7천400억출자",
   "인천항만공사,말레이시아·인도현장마케팅및'사이버보안모의훈련...",
@@ -6001,7 +5997,11 @@
   "류재철“엔비디아와피지컬AI협력…데이터팩토리등시너지기대”",
   "이대통령,日의원단에\"국제관계유동적,한일관계개선양국에도움\"",
   "KB증권,1조규모유상증자결정外",
-  "카카오모빌리티,'이동DX'노하우바탕으로로봇생태계확장가속"
+  "카카오모빌리티,'이동DX'노하우바탕으로로봇생태계확장가속",
+  "“수비와궂은일에서보탬되겠다”KT에서새출발,서민수의다부진...",
+  "최태원·노소영재산분할,다음달파기환송심선고",
+  "李대통령\"한일관계개선모두에도움\"…다케다\"미들파워결속해야\"",
+  "\"유진꼭두각시이사회해체하라\"주총장모인YTN조합원들"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-06-26T18:10:25.570698+09:00",
    "노하우 로봇 생태계 카카오모빌리티 가속 바탕으로 확장 DX 이동"
+  ],
+  [
+   "2026-06-26T18:12:16.830286+09:00",
+   "모인 주총장 YTN 이사회 꼭두각시 조합원들 해체하라 유진"
   ]
  ],
- "last_run": "2026-06-26T18:10:47.161141+09:00",
+ "last_run": "2026-06-26T18:12:36.123765+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
