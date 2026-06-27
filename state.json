@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02827366645485656",
-  "https://www.etoday.co.kr/news/view/2597473",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678481",
   "https://www.gokorea.kr/news/articleView.html?idxno=870374",
   "https://www.ajunews.com/view/20260626082848733",
@@ -2999,11 +2997,11 @@
   "https://www.newspim.com/news/view/20260627000076",
   "https://www.yna.co.kr/view/AKR20260627022851075?input=1195m",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=846798",
-  "https://www.xportsnews.com/article/2165566"
+  "https://www.xportsnews.com/article/2165566",
+  "http://www.stoo.com/article.php?aid=107408547361",
+  "https://theopiniontimes.news/?p=5529"
  ],
  "seen_titles": [
-  "SK하이닉스직원들이지난1~3월성과급으로만받는액수가무려...",
-  "컴포즈커피,레인보우로보틱스와‘로봇바리스타’도입추진",
   "애플,맥북가격최대300달러인상...메모리대란에가격올리고칩로...",
   "GS샵-IBK기업은행,AI기반업무혁신확산",
   "애플,메모리대란에가격올리고칩로드맵도수정",
@@ -6001,7 +5999,9 @@
   "[AI상보]'최형우8회역전결승타'삼성,KT잡고3연승+2위탈환",
   "美,앤트로픽'미토스5'사용제한자국기업만우선풀어줘(종합)",
   "'안재석결승타'프로야구두산,KIA잡고4연승…키움은10연패탈출",
-  "'오스틴전율의그랜드슬램'LG2:1→2:5→4:5→8:7대역전극,'엘롯라시..."
+  "'오스틴전율의그랜드슬램'LG2:1→2:5→4:5→8:7대역전극,'엘롯라시...",
+  "'최형우8회결승타'삼성,KT꺾고3연승질주…2위도약",
+  "오픈소스AI'GLM-5.2'화제…유료모델넘보는코딩성능에개발자커뮤..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-06-27T20:18:16.430583+09:00",
    "자국기업만 풀어줘 우선 사용제한 앤트로픽 미토스5"
+  ],
+  [
+   "2026-06-27T20:26:16.518467+09:00",
+   "성능에 넘보는 GLM 유료모델 커뮤 오픈소스 개발자 화제 코딩"
   ]
  ],
- "last_run": "2026-06-27T20:24:34.947480+09:00",
+ "last_run": "2026-06-27T20:26:34.383063+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
