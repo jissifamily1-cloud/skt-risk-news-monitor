@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52932",
-  "https://www.smartbizn.com/news/articleView.html?idxno=147081",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16112739",
-  "https://www.gokorea.kr/news/articleView.html?idxno=870384",
   "https://www.mt.co.kr/tech/2026/06/26/2026062608261929283",
   "https://zdnet.co.kr/view/?no=20260626081205",
   "https://www.gukjenews.com/news/articleView.html?idxno=3618310",
@@ -2999,13 +2995,13 @@
   "https://www.dt.co.kr/article/12069752",
   "https://www.newsis.com/view/NISX20260627_0003686188",
   "http://www.maniareport.com/view.php?ud=2026062720342829796cf2d78c68_19",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52931"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52931",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845256",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845258",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845257",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678981"
  ],
  "seen_titles": [
-  "앤트로픽\"알리바바,가짜계정2.5만개로클로드AI복제시도\"주장",
-  "\"위즈파크응원전\"…KT사격단,아시안게임앞두고하나된'원팀'",
-  "‘애플의충격’...美반도체·산업재순환매주목",
-  "안철수,‘삼전닉스’호남行에“이재명,수백조원투자하명권한있나...",
   "6월재산공개…현직1위김문희평가원장'99억',퇴직1위최지영전...",
   "티엘비,AI향고부가제품출하확대지속-메리츠",
   "[오늘의사설]\"확산되는'N%성과급'요구...주총승인의무화서둘러야...",
@@ -6001,7 +5997,11 @@
   "이원택,젠슨황에“삼겹살먹으며대화하자”…새만금투자제안",
   "[KBO오늘의경기결과]6월27일(토)",
   "'최형우가뒤집었다'삼성,KT4-3역전승으로2위등극",
-  "최고인재들이최고AI연구소를떠나는까닭"
+  "최고인재들이최고AI연구소를떠나는까닭",
+  "[#통신풍향계]LGU+'AI구독료할인'·KT희망재단'빨간밥차'봉사·TTA...",
+  "[#클라우드월드]엑셈'SQL서버튜닝세미나'·카카오-KT클라우드'AI...",
+  "[#시큐리티포커스]KACS'AI국가사이버안보세미나'·개보위'개인정...",
+  "오픈AI,애플비전프로핵심임원영입…AI기기개발맡긴다"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,21 @@
   [
    "2026-06-27T20:26:16.518467+09:00",
    "성능에 넘보는 GLM 유료모델 커뮤 오픈소스 개발자 화제 코딩"
+  ],
+  [
+   "2026-06-27T20:40:30.097840+09:00",
+   "엑셈 세미나 서버 카카오 SQL KT클라우드 튜닝"
+  ],
+  [
+   "2026-06-27T20:40:30.097840+09:00",
+   "세미나 KACS 국가 사이버안보 개인정"
+  ],
+  [
+   "2026-06-27T20:40:30.097840+09:00",
+   "프로 비전 맡긴다 임원 애플 영입 기기 핵심 개발"
   ]
  ],
- "last_run": "2026-06-27T20:38:34.150400+09:00",
+ "last_run": "2026-06-27T20:40:58.948829+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
