@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.economytalk.kr/news/articleView.html?idxno=422240",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606232319104480106221",
   "https://www.newscj.com/news/articleView.html?idxno=3411293",
   "https://weekly.donga.com/3/all/11/6282034/1",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51104",
@@ -2999,11 +2997,11 @@
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269142",
   "http://www.jmbc.co.kr/news/view/65784",
   "https://www.newsen.com/news_view.php?uid=202606271359462510",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02492806645485984"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02492806645485984",
+  "https://www.segye.com/newsView/20260627502940?OutUrl=naver",
+  "http://www.bokuennews.com/news/article.html?no=280382"
  ],
  "seen_titles": [
-  "'히든스테이지'첫무대주인공은신직선·김은찬밴드…뉴스핌TV서공개",
-  "[N2포커스]기업시총‘엎치락뒤치락’…AI·반도체·방산판흔들어",
   "“시즌중에도믿음과사랑으로응원해줬다”…KT마케팅사업팀김동진...",
   "마이크론호실적'나비효과'…샌디스크·웨스턴디지털등반도체주'훨...",
   "마이크론급등·애플하락에뉴욕증시혼조...나스닥4거래일째하락[종...",
@@ -6001,7 +5999,9 @@
   "문승호경기도의원,판교제2테크노밸리교통개선추진상황점검",
   "이원택전북지사당선인,엔비디아젠슨황에새만금투자제안",
   "최민식,젠슨황만난유재석에부러움폭발“같이가려고”(핑계고)",
-  "민선9기시·도지사들의무리수?...엔비디아·테슬라유치전의냉혹한..."
+  "민선9기시·도지사들의무리수?...엔비디아·테슬라유치전의냉혹한...",
+  "오픈AI,애플비전프로책임자영입…AI하드웨어강화",
+  "농협상호금융NH콕마이데이터,국가브랜드대상"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,17 @@
   [
    "2026-06-27T14:32:14.920930+09:00",
    "무리수 테슬라 9기 유치전의 도지사들의 민선 냉혹한"
+  ],
+  [
+   "2026-06-27T14:34:15.578963+09:00",
+   "브랜드 농협상호금융 국가 NH콕마이데이터 대상"
+  ],
+  [
+   "2026-06-27T14:34:15.578963+09:00",
+   "영입 하드웨어 강화 책임자 애플 비전프로"
   ]
  ],
- "last_run": "2026-06-27T14:32:36.706191+09:00",
+ "last_run": "2026-06-27T14:34:38.000881+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6315,7 +6323,7 @@
   "lkp.news": "리버티코리아포스트",
   "globalepic.co.kr": "글로벌에픽",
   "insightkorea.co.kr": "인사이트코리아",
-  "bokuennews.com": "bokuennews.com",
+  "bokuennews.com": "보건신문, 보건뉴스",
   "economytalk.kr": "이코노미톡뉴스",
   "economist.co.kr": "이코노미스트",
   "kfenews.co.kr": "한국금융경제신문",
