@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/security-hacking/6209358",
-  "https://news.unn.net/news/articleView.html?idxno=593982",
-  "https://www.newsis.com/view/NISX20260626_0003684640",
-  "http://www.fnnews.com/news/202606260957436221",
   "https://www.etoday.co.kr/news/view/2597485",
   "https://gamefocus.co.kr/detail.php?number=177022",
   "https://www.gukjenews.com/news/articleView.html?idxno=3618577",
@@ -2999,13 +2995,13 @@
   "https://basketkorea.com/news/newsview.php?ncode=1065579502676542",
   "https://www.gukjenews.com/news/articleView.html?idxno=3619861",
   "http://www.fins.co.kr/news/articleView.html?idxno=108954",
-  "https://www.bloter.net/news/articleView.html?idxno=666733"
+  "https://www.bloter.net/news/articleView.html?idxno=666733",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034979",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2443095",
+  "http://www.inews24.com/view/1979354",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=188906"
  ],
  "seen_titles": [
-  "정부,AI보안위협에중기지원...\"7월부터취약점점검신청\"",
-  "AI사이버위협에취약한중소기업…정부,보안기본기지원",
-  "국내거주GKS동문100여명한자리…교육부,첫교류행사개최",
-  "\"AI해킹위협에\"…정부,중소기업'약한고리'메운다",
   "정부장학금으로키운외국인인재,SKT엔지니어·대학교수됐다",
   "정부초청외국인장학생첫동문행사개최…국내정착·취업지원강화",
   "카카오,ktcloud와안전한AI생태계구축을위한업무협약체결",
@@ -6001,7 +5997,11 @@
   "[KBLY리그]폭풍처럼몰아친현대모비스,다재다능함뽐낸윤지민",
   "충남도,사회적경제기업제품안내서발간…230여개기업정보담아공...",
   "레벨4자율주행시대성큼…보험도'운전자'아닌'시스템'보장으로바...",
-  "SK,K-AI얼라이언스50개사체제로…'AI풀스택'생태계확장"
+  "SK,K-AI얼라이언스50개사체제로…'AI풀스택'생태계확장",
+  "송파구,청년취·창업전문가멘토링운영…실전역량강화지원",
+  "운항안정성확보나선다···티웨이항공,B737신입부기장채용",
+  "'제2의대박'될까…SKT투자펭귄솔루션스,엔비디아파트너선정",
+  "[증권NOW]미래에셋증권·KB증권·대신증권"
  ],
  "recent_sigs": [
   [
@@ -6261,7 +6261,7 @@
    "28일 삼성 양창섭 남자 4연승 KT전 일요일의 대구"
   ]
  ],
- "last_run": "2026-06-28T12:32:37.163302+09:00",
+ "last_run": "2026-06-28T12:34:33.200804+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
