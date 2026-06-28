@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=602587",
-  "https://biz.heraldcorp.com/article/10789891",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440246",
   "https://www.newspim.com/news/view/20260626000941",
   "https://www.ajunews.com/view/20260626123541229",
@@ -2999,11 +2997,11 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/06/29/2026062990008.html",
   "https://economist.co.kr/article/view/ecn202606290002",
   "https://kjmbc.co.kr/NewsArticle/1525085",
-  "https://www.nocutnews.co.kr/news/6539758"
+  "https://www.nocutnews.co.kr/news/6539758",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008631559&plink=ORI&cooper=NAVER",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02030326645486640"
  ],
  "seen_titles": [
-  "59조손실에도몸값1500조고수한오픈AI…IPO속도조절?",
-  "SK그룹AI역량집결…美거점중심으로AI인프라투자확대",
   "정재승·AI작곡가“인간의언어배운AI,인간다움을묻다”[인터뷰]",
   "최태원·노소영이혼소송파기환송심변론종결…7월24일선고",
   "\"난장판재무구조\"혹평까지…IPO앞둔오픈AI재무건전성도마위",
@@ -6001,7 +5999,9 @@
   "6월29일'뉴스퍼레이드'오프닝",
   "[속보]이재용·최태원참석...李,오늘삼전닉스'1000조호남투자'청...",
   "반도체생산기지꿈현실화?..오늘정부발표",
-  "창피한32강탈락…문체부장관\"위원회구성해철저조사\"[오늘아침]"
+  "창피한32강탈락…문체부장관\"위원회구성해철저조사\"[오늘아침]",
+  "[뉴욕증시]고용지표발표에주목…상승동력이어갈까",
+  "호주AI스타트업퍼머스,엔비디아와인니에데이터센터건설"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-06-29T07:48:15.337325+09:00",
    "탈락 장관 문체부 32강 위원회 창피한 조사 철저 구성해"
+  ],
+  [
+   "2026-06-29T07:50:27.022683+09:00",
+   "호주 엔비디아와 인니에 퍼머스 건설 데이터센터 스타트업"
   ]
  ],
- "last_run": "2026-06-29T07:48:37.110417+09:00",
+ "last_run": "2026-06-29T07:50:45.869418+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
