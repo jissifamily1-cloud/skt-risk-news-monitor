@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/tech_it/2026/06/26/ZQ6PSP2KNBAJPA3CJO4IPIGV64/",
-  "http://www.itdaily.kr/news/articleView.html?idxno=240048",
-  "https://view.asiae.co.kr/article/2026061812454162951",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03772006645485656",
   "https://www.newspim.com/news/view/20260626000264",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606260329&t=NN",
@@ -2999,12 +2996,12 @@
   "https://www.newspim.com/news/view/20260628000022",
   "https://www.newspim.com/news/view/20260628000020",
   "https://www.newspim.com/news/view/20260628000026",
-  "https://www.seoul.co.kr/news/economy/industry/2026/06/28/20260628500019?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/economy/industry/2026/06/28/20260628500019?wlog_tag3=naver",
+  "http://www.osen.co.kr/article/G1112830160",
+  "https://www.kado.net/news/articleView.html?idxno=2058122",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000045914"
  ],
  "seen_titles": [
-  "기업임직원10명중4명해킹메일열람,악성코드감염률12.7%",
-  "앤스로픽“알리바바,클로드베끼려허위계정2만5000개동원”",
-  "\"이동통신서비스해지쉬워진다\"…모바일앱·상담채팅도입",
   "규제강화되는배달앱시장…멀어지는영세소상공인지원",
   "서울시설公,도시인프라AI혁신실험장으로적극개방",
   "서울시설공단,어린이대공원'AI실험장'으로개방…미래형스마트공원...",
@@ -6001,7 +5998,10 @@
   "LG유플러스,지엔씨에너지와AI데이터센터전력협력",
   "LG유플러스,사업기반사회공헌사례발표",
   "KT,월드컵거리응원서'5G네트워크슬라이싱'실증",
-  "한전-OpenAI,‘에너지산업AI전환협력’맞손"
+  "한전-OpenAI,‘에너지산업AI전환협력’맞손",
+  "\"제가3루까지가서이겼는데…\"최형우의미소,그리고역전타로완성...",
+  "개인정보유출갈수록대형화…최근2년새수천만명피해잇따라",
+  "\"우주말고지상도\"…스페이스X,통신사업시장넘본다"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,13 @@
   [
    "2026-06-28T10:06:17.303227+09:00",
    "가속 처리량 장문 검증 상용망 추론 화웨이"
+  ],
+  [
+   "2026-06-28T10:12:15.739294+09:00",
+   "잇따라 수천만명 갈수록 2년 개인정보 대형화 피해 최근 유출"
   ]
  ],
- "last_run": "2026-06-28T10:10:50.698589+09:00",
+ "last_run": "2026-06-28T10:12:39.826427+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
