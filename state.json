@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=440925",
-  "https://view.asiae.co.kr/article/2026062610065867052",
-  "http://www.metroseoul.co.kr/article/20260626500058",
   "https://www.beopbo.com/news/articleView.html?idxno=336282",
   "https://www.mt.co.kr/tech/2026/06/26/2026062608305621792",
   "https://biz.heraldcorp.com/article/10789283",
@@ -2999,12 +2996,12 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361167",
   "https://nownews.seoul.co.kr/news/newsView.php?id=20260628601004&wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20260628_0003686467",
-  "https://www.mydaily.co.kr/page/view/2026062513401060281"
+  "https://www.mydaily.co.kr/page/view/2026062513401060281",
+  "http://www.4th.kr/news/articleView.html?idxno=2113821",
+  "https://biz.sbs.co.kr/article_hub/20000319276?division=NAVER",
+  "https://www.joongdo.co.kr/web/view.php?key=20260628010007766"
  ],
  "seen_titles": [
-  "29일베일벗는'호남반도체클러스터'",
-  "최태원·노소영'재산분할'파기환송심7월24일선고,SK주식이쟁점",
-  "지역균형발전'반도체호남행'…與\"국가전략\"野\"정부개입\"",
   "LG유플러스,생성형AI청구할인프로모션…최대45%",
   "조계사·일일시호일이주민돕기공동캠페인",
   "쿠팡6246억과징금공방…'조회'와'유출'기준법정서가린다",
@@ -6001,7 +5998,10 @@
   "LGU+,지엔씨에너지'맞손'…AIDC전력인프라강화에나선다",
   "스페이스X,‘AI인프라임대업’으로돌파구?…그록AI에커지는의문...",
   "\"덕분에안전했어요\"…젠슨황장녀,한국경찰에감사편지",
-  "개보위,빗썸에과징금2억1000만원부과…개인정보국외이전절차위반"
+  "개보위,빗썸에과징금2억1000만원부과…개인정보국외이전절차위반",
+  "엔비디아장녀\"서울경찰에밥사고싶다\"",
+  "\"한국경찰에밥사고싶다\"…젠슨황장녀매디슨,직접감사편지",
+  "'대한민국대도약3대프로젝트29일공개…충청권초미관심"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,17 @@
   [
    "2026-06-28T10:50:27.234992+09:00",
    "김용범 생산능력이 정책실장"
+  ],
+  [
+   "2026-06-28T10:58:16.391524+09:00",
+   "밥사고 서울경찰에 싶다 장녀"
+  ],
+  [
+   "2026-06-28T10:58:16.391524+09:00",
+   "프로젝트 대도약 대한민국 충청권 공개 29일 초미 3대 관심"
   ]
  ],
- "last_run": "2026-06-28T10:56:33.844053+09:00",
+ "last_run": "2026-06-28T10:58:39.709276+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6600,6 +6608,7 @@
   "ttlnews.com": "퍼블릭뉴스통신(Public news-network fo",
   "womennews.co.kr": "여성신문",
   "todayeconomic.com": "투데이e코노믹, 투데이이코노믹",
-  "jeonmin.co.kr": "전민일보"
+  "jeonmin.co.kr": "전민일보",
+  "joongdo.co.kr": "중도일보"
  }
 }
