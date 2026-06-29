@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10790929",
-  "https://www.m-i.kr/news/articleView.html?idxno=1386041",
-  "https://view.asiae.co.kr/article/2026062908512551778",
-  "https://www.news1.kr/it-science/cc-newmedia/6210932",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02407526645486640",
-  "https://www.hellot.net/news/article.html?no=113454",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264296",
-  "https://www.handmk.com/news/articleView.html?idxno=40780",
   "https://www.socialvalue.kr/news/view/1065590361153101",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=314227",
   "https://biz.heraldcorp.com/article/10790930",
@@ -2999,17 +2991,17 @@
   "http://www.spochoo.com/news/articleView.html?idxno=126709",
   "https://sjbnews.com/news/news.php?number=881798",
   "http://www.jjn.co.kr/news/articleView.html?idxno=1045047",
-  "https://www.joongang.co.kr/article/25440862"
+  "https://www.joongang.co.kr/article/25440862",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847109",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3621090",
+  "https://www.namdonews.com/news/articleView.html?idxno=915188",
+  "http://www.inews24.com/view/1980725",
+  "https://www.goodkyung.com/news/articleView.html?idxno=288671",
+  "http://www.inews24.com/view/1980719",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597409",
+  "https://www.namdonews.com/news/articleView.html?idxno=915190"
  ],
  "seen_titles": [
-  "[증시키워드]'청와대보고회'삼성·SK대규모투자발표임박...반도체...",
-  "[미르의알기쉬운비즈니스]왜세계적인투자거물은인도주식을다팔...",
-  "'대구·경북사이버보안심포지엄2026',25일호텔인터불고에서개최…...",
-  "SKAI위원회,실리콘밸리서'유나이트2026'개최…K-AI얼라이언스글...",
-  "李대통령,‘대한민국대도약3대메가프로젝트’국민보고…이재용...",
-  "KT,경기도청에5G업무망거점형첫적용",
-  "‘나노코리아2026’,국가전략산업고도화나노·AI융합기술미래제...",
-  "산만함의재정의…스튜디오산만기획전'산만인류:SANMANDNA'개최",
   "올리브영,북성수에‘뷰티맨션’연다…K뷰티체험거점확대",
   "\"용인도8년걸려\"...시선쏠린호남반도체클러스터[이슈톺]",
   "[정치쇼]홍익표\"반도체공장물,전기,연구인프라까지호남최적…...",
@@ -6001,7 +5993,15 @@
   "\"17년만의감독추천\"류현진·고졸신인·아쿼최초까지…KBO올스타전...",
   "광주에제2반도체클러스터…전북은또'외면'",
   "\"반도체에전북은없었다\"3중소외도민분노폭발",
-  "삼전닉스4700조원투자…90도인사한李“제가직접챙길것”"
+  "삼전닉스4700조원투자…90도인사한李“제가직접챙길것”",
+  "KBO,마지막잠실올스타전나설선수단확정…27명첫출전",
+  "박수현충남,'3대메가프로젝트'환영…반도체패키징·AI데이터센터...",
+  "삼성·SK,반도체새거점'광주·서남권'콕집었다",
+  "최태원SK회장“청주에100조원투자앞당길것”",
+  "李대통령,3대메가프로젝트발표⋯與\"종합미래설계도\",野\"관치경제...",
+  "‘SK,청주100조투자’…이장섭“하이닉스랜드만들겠다”",
+  "‘3대메가프로젝트’발표…전북몫찾기과제",
+  "광주시·전남도\"320만시민과온마음으로뜨겁게환영\""
  ],
  "recent_sigs": [
   [
@@ -7015,9 +7015,13 @@
   [
    "2026-06-29T19:20:29.889846+09:00",
    "삼전닉스 90도 인사한 직접 제가 챙길 투자 4700조원"
+  ],
+  [
+   "2026-06-29T19:22:16.797726+09:00",
+   "전남도 마음으로 뜨겁게 320만 환영 시민과 광주시"
   ]
  ],
- "last_run": "2026-06-29T19:20:58.383443+09:00",
+ "last_run": "2026-06-29T19:22:35.270206+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
