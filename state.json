@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026062614155765269",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3619410",
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19395",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463530",
-  "https://www.econovill.com/news/articleView.html?idxno=743635",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714157",
-  "https://www.xportsnews.com/article/2165424",
-  "http://www.newsprime.co.kr/news/article.html?no=738210",
   "https://www.g-enews.com/view.php?ud=202606271115463627fbbec65dfb_1",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02364886645485984",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=60848",
@@ -2999,17 +2991,17 @@
   "https://biz.heraldcorp.com/article/10791397",
   "https://biz.heraldcorp.com/article/10791402",
   "https://www.dt.co.kr/article/12070002",
-  "https://www.huffingtonpost.kr/article/258302"
+  "https://www.huffingtonpost.kr/article/258302",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679128",
+  "https://www.hankookilbo.com/news/article/A2026062910520002675?did=NA",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=204124",
+  "https://biz.heraldcorp.com/article/10791406",
+  "https://news.knn.co.kr/news/article_sns/1457",
+  "https://www.thelec.kr/news/articleView.html?idxno=58732",
+  "https://www.chosun.com/economy/weeklybiz/2026/06/20/MT33CKRYR5BHPCWA5OMF7GCUDI/",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03227526645486640"
  ],
  "seen_titles": [
-  "'기적의사나이'부터'콩쿠르1위'까지…'마이케이팝스타'예선달군...",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(6월26일금요일)",
-  "학계·법조계공영방송이사추천완료…새이사회구성막바지",
-  "이토록화려한전역신고김현준…삼성라이온즈역전승발판만들었다",
-  "[굿모닝위즈·74]공든탑이7회말무너졌다",
-  "'스마트폰강자'퀄컴,메타동맹업고데이터센터시장흔들수있을까...",
-  "피지컬AI가키울OLED...로봇이새먹거리되나",
-  "대구광역시,등산로전구간전수조사완료...낙석·위험수목등510건확...",
   "[칼럼]정완경희대명예교수\"침묵하는'Web발신',피싱범죄통로인가...",
   "다크웹AI선도하는에스투더블유…글로벌보안시장정조준",
   "오픈AI차세대모델GPT-5.6,美정부손바닥위에서첫선",
@@ -6001,7 +5993,15 @@
   "삼성·SK,반도체에배터리·디스플레이까지…‘AI패권’초대형베팅",
   "KT,경기도청‘5G업무망’거점형으로고도화",
   "KT,5G업무망‘거점형’고도화…경기도청에첫적용",
-  "KT가5G업무망고도화로공공기관업무환경바꾼다:공무원들이사무..."
+  "KT가5G업무망고도화로공공기관업무환경바꾼다:공무원들이사무...",
+  "과기정통부\"K-AI모델,공공·방송·반도체현장으로확산\"",
+  "BIS,AI투자광풍에'버블붕괴우려\"…\"장기불황올수도\"",
+  "[공사Pick]한전·LH·한국수자원공사,공공혁신과상생생태계조성...",
+  "美,미토스이어챗GPT도통제…AI보안경쟁‘격화’",
+  "이대통령,1천조메가프로젝트발표…호남반도체클러스터조성",
+  "KT클라우드,차세대공공클라우드구축",
+  "‘CEO브랜딩’은양날의검…경영철학을기업DNA로체화해야",
+  "\"中,사이버보안서앤스로픽따라잡아\"…트럼프규제가부른'역설'"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,17 @@
   [
    "2026-06-29T11:28:15.377161+09:00",
    "미래 대한민국 2000조 승부수 바꿀"
+  ],
+  [
+   "2026-06-29T11:32:16.118800+09:00",
+   "규제가 역설 부른 트럼프 사이버보안서 따라잡아"
+  ],
+  [
+   "2026-06-29T11:32:16.118800+09:00",
+   "브랜딩 체화해야 양날의 철학을 DNA로 기업 경영 CEO"
   ]
  ],
- "last_run": "2026-06-29T11:30:54.098169+09:00",
+ "last_run": "2026-06-29T11:32:38.633456+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
