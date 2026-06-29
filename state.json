@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630027&plink=ORI&cooper=NAVER",
-  "https://news.tf.co.kr/read/world/2337116.htm",
-  "https://www.ceoscoredaily.com/page/view/2026062515254542364",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=873451",
-  "https://shindonga.donga.com/3/all/13/6284080/1",
   "https://economist.co.kr/article/view/ecn202606230050",
   "https://www.dailian.co.kr/news/view/1660364/?sc=Naver",
   "https://economist.co.kr/article/view/ecn202606240064",
@@ -2999,14 +2994,14 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=846963",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=305758",
   "https://www.aitimes.kr/news/articleView.html?idxno=40728",
-  "https://www.pennmike.com/news/articleView.html?idxno=122871"
+  "https://www.pennmike.com/news/articleView.html?idxno=122871",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=249056",
+  "https://www.sedaily.com/article/20061265",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=212689",
+  "https://www.dailian.co.kr/news/view/1660931/?sc=Naver",
+  "https://www.yna.co.kr/view/AKR20260629060900017?input=1195m"
  ],
  "seen_titles": [
-  "나스닥100'뚝'...마이크론·인텔'급락',애플은'껑충'",
-  "[주간거래소외국인]삼성전자SK하이닉스차익실현지속...HD현대중공...",
-  "공공기관개인정보유출,기업못지않은데…처벌은솜방망이",
-  "뉴욕증시,반도체부진에하락…S&P500ㆍ나스닥5일째약세[상보]",
-  "뉴욕증시,기술주고점부담에약세…나스닥5일째하락",
   "SK하이닉스뉴욕직행…삼성전자와반도체밸류체계흔든다",
   "오픈AI,새AI모델GPT-5.6공개…미국정부요청에일부기관제공",
   "뉴욕증시,기술주'고점부담'약세…나스닥5일째하락",
@@ -6001,7 +5996,12 @@
   "[이슈체크]'호남반도체'발표임박,삼성·SK역대급투자예상",
   "미래에셋\"SK하닉,글로벌저변확대·재평가기대\"",
   "피지컬AI인재양성본격화…엑스와이지,엔비디아협력교육과정운영",
-  "주진우\"삼성·SK호남투자설득한공무원밝혀라\"…직권남용고발경..."
+  "주진우\"삼성·SK호남투자설득한공무원밝혀라\"…직권남용고발경...",
+  "경과원,판교서실습형AI전환인재키운다",
+  "호남이면일단‘상한가’친다?…반도체‘메가프로젝트’투자앞두고...",
+  "kt클라우드,자체개발플랫폼기반공공클라우드구축완료",
+  "KT,경기도청에공공기관용'5G업무망거점형'첫적용",
+  "[AI픽]KT클라우드,공공클라우드상용화…재해복구·AI강화"
  ],
  "recent_sigs": [
   [
@@ -6577,7 +6577,7 @@
    "저변 재평가 확대 미래에셋 SK하닉 기대 글로벌"
   ]
  ],
- "last_run": "2026-06-29T10:50:57.293855+09:00",
+ "last_run": "2026-06-29T10:52:39.592534+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
