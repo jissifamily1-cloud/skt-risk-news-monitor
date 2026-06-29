@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kpinews.kr/newsView/1065573090219083",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167228",
-  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=242379",
-  "https://www.dailian.co.kr/news/view/1660856/?sc=Naver",
   "http://www.lawissue.co.kr/view.php?ud=202606290938289304b3279dfb36_12",
   "https://www.ytn.co.kr/_ln/0101_202606290935377849",
   "https://news.dealsitetv.com/articles/172506",
@@ -2999,13 +2995,13 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260629210528huV",
   "https://www.sedaily.com/article/20061596",
   "http://www.fntimes.com/html/view.php?ud=20260629184424296ed56b8e1f8_18",
-  "https://zdnet.co.kr/view/?no=20260629161444"
+  "https://zdnet.co.kr/view/?no=20260629161444",
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1545167",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597592",
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1545162",
+  "https://news.tvchosun.com/site/data/html_dir/2026/06/29/2026062990246.html"
  ],
  "seen_titles": [
-  "KT,공공용'5G업무망거점형'서비스개시…경기도청첫적용",
-  "'5타점폭발'김호령,잠실7연패끊고20홈런향한질주",
-  "용인서대학연극제홍보행사…3000여명모여야외광장뜨겁게달궈",
-  "CJ올리브영,성수에‘뷰티맨션’오픈…취향탐색·휴식결합",
   "\"결제10억건시대온다\"…인도UPI,AI로판키운다",
   "코딩에이전트쓸수록커지는토큰비용,인건비지출넘본다",
   "CJ올리브영,북성수에체험특화매장‘뷰티맨션’연다⋯K뷰티경험...",
@@ -6001,29 +5997,13 @@
   "이대통령\"지역선도한국형AI산업혁명시작…가슴벅차\"",
   "李대통령“지역이주도해세계로뻗는한국형AI산업혁명완수”",
   "보험소비자,가입부터상품별비교까지생성형AI적극활용…\"보험사...",
-  "수자원공사\"서남권,안정적용수공급가능\""
+  "수자원공사\"서남권,안정적용수공급가능\"",
+  "[3대메가프로젝트추진]‘호남반도체’투자에…“정부개입”-“...",
+  "“균형발전과AI·반도체거점수요일치…기업손실강요아냐”",
+  "경남‘피지컬AI’기대·우려교차",
+  "이재용은금액빼고,최태원은단서달고…'1000조투자'의조건"
  ],
  "recent_sigs": [
-  [
-   "2026-06-29T15:10:30.058985+09:00",
-   "신약 뇌전증 뚝심 국내 출시 통할까 SK바팜"
-  ],
-  [
-   "2026-06-29T15:10:30.058985+09:00",
-   "경기도청에 구축 업무망 5G 바꾼다 공공망 거점형 적용"
-  ],
-  [
-   "2026-06-29T15:10:30.058985+09:00",
-   "전남 400조 반도체 퇴임 강위원 10조 경제부지사 국고"
-  ],
-  [
-   "2026-06-29T15:12:16.459844+09:00",
-   "흔들 출자 아냐 7384억원 수준 나신평 신용도"
-  ],
-  [
-   "2026-06-29T15:12:16.459844+09:00",
-   "불러 국가 최태원에 영웅이라 영웅 국민 이재용 드리고"
-  ],
   [
    "2026-06-29T15:16:16.589886+09:00",
    "데이터센터에 투자 1000조원"
@@ -6875,9 +6855,17 @@
   [
    "2026-06-29T21:06:18.058261+09:00",
    "도약 AI로 대한민국 균형발전 도모"
+  ],
+  [
+   "2026-06-29T21:12:17.358829+09:00",
+   "경남 우려 기대 교차 피지컬"
+  ],
+  [
+   "2026-06-29T21:12:17.358829+09:00",
+   "투자 이재용은 1000조 조건 단서 빼고 달고 금액 최태원은"
   ]
  ],
- "last_run": "2026-06-29T21:10:48.843593+09:00",
+ "last_run": "2026-06-29T21:12:42.853033+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7225,6 +7213,7 @@
   "dynews.co.kr": "동양일보",
   "kjdaily.com": "jndmnews",
   "withinnews.co.kr": "withinnews.co.kr",
-  "g1tv.co.kr": "COPYRIGHT@ 2015 G1TV ALL RIGHT"
+  "g1tv.co.kr": "COPYRIGHT@ 2015 G1TV ALL RIGHT",
+  "knnews.co.kr": "경남신문"
  }
 }
