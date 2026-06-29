@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026062824037",
-  "https://www.sedaily.com/article/20061009",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40721",
-  "https://www.hankyung.com/article/2026062823131",
-  "https://www.hani.co.kr/arti/opinion/column/1265704.html",
-  "https://biz.sbs.co.kr/article_hub/20000319312?division=NAVER",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000046009",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=204092",
-  "https://www.mk.co.kr/article/12084999",
-  "https://www.seoultimes.news/news/article.html?no=2000097113",
-  "https://www.mk.co.kr/article/12084930",
   "https://www.etnews.com/20260626000063",
   "https://www.mk.co.kr/article/12084933",
   "https://www.mt.co.kr/industry/2026/06/29/2026062813073439219",
@@ -2999,20 +2988,20 @@
   "https://www.dailian.co.kr/news/view/1661181/?sc=Naver",
   "https://www.newsis.com/view/NISX20260629_0003688153",
   "https://www.econovill.com/news/articleView.html?idxno=743788",
-  "https://www.newsis.com/view/NISX20260629_0003688189"
+  "https://www.newsis.com/view/NISX20260629_0003688189",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6935662",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2284523",
+  "https://www.techm.kr/news/articleView.html?idxno=152966",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606251459453560102884",
+  "http://www.segyebiz.com/newsView/20260629514154?OutUrl=naver",
+  "https://www.joongang.co.kr/article/25440816",
+  "https://news.dealsitetv.com/articles/172552",
+  "https://www.etoday.co.kr/news/view/2598371",
+  "https://www.etoday.co.kr/news/view/2598323",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422396",
+  "https://www.dt.co.kr/article/12070102"
  ],
  "seen_titles": [
-  "동남권‘AI·ICT·게임’인재키운다…대기업청년취업프로그램봇물",
-  "'AI컴퍼니'가핵심키잡았다…SK,AI메모리주도권굳히기총력",
-  "[오늘의DT인]\"AI3강,혼자선못해…K-얼라이언스회원사100개로늘...",
-  "美\"외국인첨단AI접속전쟁부가선별\"",
-  "쿠팡·SKT·티빙유출,터졌다하면수천만명…뭐가문제?",
-  "[DD주간브리핑]현대차'파업기로'대책위출범…한·미AI생태계주도...",
-  "\"한번뚫리면수천만명\"…AI가키운개인정보유출규모",
-  "정부,여름물가총력대응…\"1조원투입,2%대로낮추기목표\"(종합)",
-  "신세계면세점,여름정기캠페인…\"여행객혜택강화\"",
-  "AI전환속도내는SK…지주사'정보보호투자비중·인력'늘렸다",
-  "신세계免,‘최대65%할인’여름캠페인돌입…괌여행권도",
   "SKT,하이닉스美AI투자법인에7384억원출자…협력확대",
   "SK그룹미국AI공략가속…하이닉스·스퀘어·SKT삼각축부상",
   "AI시대에도'사람이답'···이통3사,도서산간으로향하는이유",
@@ -6001,7 +5990,18 @@
   "[메가프로젝트]李대통령,집권2년차승부수띄웠다…삼성,전남광주...",
   "다음달부터'유튜브가짜뉴스'최대5배손해배상…방미통위,시행령의...",
   "[대한민국대도약전격해부⑤]2011조투자,성공과공포의간격은?",
-  "OTT도'장애인방송'제공노력해야…방송접근권보장확대"
+  "OTT도'장애인방송'제공노력해야…방송접근권보장확대",
+  "코스피,장중급락딛고8400선턱밑마감…코스닥은8%대급등",
+  "2026올스타전감독,한화'류현진·이도윤'추천…별들의무대오른다",
+  "여름철장바구니에'이색경험'담는다...백화점3사,릴레이팝업출격",
+  "[더벨][커머스,플랫폼군단의역습]네카오이어토스도참전…플랫폼...",
+  "CJ올리브영,N성수다음은뷰티맨션…MZ핫플서존재감키운다",
+  "구글,고객사메타에AI사용제한…빅테크도직면한‘인프라가뭄’...",
+  "이재용·최태원회장,메가프로젝트투자계획발표",
+  "SK,AI인프라에1100조투자…전국15GW데이터센터구축",
+  "용인넘어호남으로…삼성·SK,제2반도체클러스터띄운다",
+  "삼성,미래산업에2천655조국내투자…'광주'반도체팹추진",
+  "[프리미엄픽]LG유플러스,유튜브프리미엄·구글AI프로결합상품출..."
  ],
  "recent_sigs": [
   [
@@ -6767,9 +6767,13 @@
   [
    "2026-06-29T16:38:16.885690+09:00",
    "제공 보장 노력해야 OTT도 확대 장애인방송 접근권 방송"
+  ],
+  [
+   "2026-06-29T16:40:29.488063+09:00",
+   "상품 결합 프리미엄 구글 LG유플러스 프로 유튜브"
   ]
  ],
- "last_run": "2026-06-29T16:38:41.103802+09:00",
+ "last_run": "2026-06-29T16:40:47.579566+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
