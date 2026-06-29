@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.itdaily.kr/news/articleView.html?idxno=240107",
-  "http://www.itdaily.kr/news/articleView.html?idxno=240116",
   "https://www.newsis.com/view/NISX20260629_0003688046",
   "http://www.fnnews.com/news/202606291331578629",
   "https://biz.sbs.co.kr/article_hub/20000319496?division=NAVER",
@@ -2999,11 +2997,11 @@
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005868562",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6833768_37012.html",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02351766645486968",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845465"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845465",
+  "https://www.news1.kr/it-science/security-hacking/6211369",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758084"
  ],
  "seen_titles": [
-  "[2026제로트러스트시범사업①]5개컨소,금융·OT·글로벌까지전선...",
-  "[2026제로트러스트시범사업②]프라이빗테크놀로지컨소시엄",
   "[2026제로트러스트시범사업⑥]SK쉴더스컨소시엄",
   "[2026제로트러스트시범사업③]이니텍컨소시엄",
   "[2026제로트러스트시범사업⑤]앰진컨소시엄",
@@ -6001,7 +5999,9 @@
   "뉴욕증시,기술주반등에강세마감…다우사상최고치",
   "\"인재들모이게하겠다\"‥'균형발전'승부수",
   "뉴욕증시,기술주반등에강세마감…다우사상최고·나스닥2%↑[월스...",
-  "뉴욕증시,기술주반등에'상승'…다우,사상첫5만2000선"
+  "뉴욕증시,기술주반등에'상승'…다우,사상첫5만2000선",
+  "해커AI가취약점쏟아내자…보안업계'무조건패치'한계왔다",
+  "[AI시대의그늘-다크패턴㉖]가입은원클릭,탈퇴는7단계…테무·에이..."
  ],
  "recent_sigs": [
   [
@@ -6161,7 +6161,7 @@
    "인재들 승부수 균형발전 하겠다 모이게"
   ]
  ],
- "last_run": "2026-06-30T06:20:55.529971+09:00",
+ "last_run": "2026-06-30T06:22:30.837973+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
