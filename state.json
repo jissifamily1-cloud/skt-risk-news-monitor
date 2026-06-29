@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/stock/stock_general/2026/06/29/6NYIZZVT5BE6VCNN4Y7KJNDLDE/",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6204",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679319",
-  "http://coinreaders.com/245066",
-  "https://www.viva100.com/article/20260629501105",
-  "https://www.sportsseoul.com/news/read/1619539",
-  "https://www.etoday.co.kr/news/view/2598350",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=723478",
   "https://www.yna.co.kr/view/AKR20260629130500017?input=1195m",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4091281",
   "https://www.mt.co.kr/policy/2026/06/29/2026062915115286705",
@@ -2999,17 +2991,17 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464105",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4091275",
   "https://www.etnews.com/20260625000289",
-  "https://www.insight.co.kr/news/560707"
+  "https://www.insight.co.kr/news/560707",
+  "https://www.news1.kr/it-science/security-hacking/6212215",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1380987",
+  "http://www.fnnews.com/news/202606292243480458",
+  "https://zdnet.co.kr/view/?no=20260630085252",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=314288",
+  "https://www.wikitree.co.kr/articles/1143850",
+  "https://www.slist.kr/news/articleView.html?idxno=748539",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7172098"
  ],
  "seen_titles": [
-  "이재명대통령“반도체·피지컬AI·데이터센터,초격차산업강국도약...",
-  "삼성·SK,총2000조투자청사진…광주반도체거점·AI인프라구축속...",
-  "이대통령,이재용·최태원에\"국민영웅\"…90도인사도",
-  "반도체랠리에심해진‘K자양극화’…상반기코스닥10곳중8곳하락...",
-  "[스틸컷]李대통령\"그동안한일중가장큰성과\"[전문]",
-  "HP,오픈AI와동맹...내외부솔루션에오픈AI프론티어플랫폼통합",
-  "업비트,보안에627억원쏟았지만…445억원해킹남긴숙제는'신뢰회복...",
-  "2천조‘넘사벽투자장벽’쌓는K-AI…미래산업패권정조준",
   "‘류현진올스타전간다’드림·나눔감독추천선수확정…루키장찬희...",
   "[속보]KBO올스타전감독추천명단발표",
   "코스피,뉴욕발악재에8390선후퇴…코스닥은'매수사이드카'속8%급...",
@@ -6001,7 +5993,15 @@
   "한컴위드,무설치기반보안솔루션'한컴엑스에프웹'출시",
   "빗썸,동의없이개인정보국외이전…과징금2억과시정명령",
   "쿠팡5000원쿠폰도보험으로?…개보위,기업'자발적보상'보험가능성...",
-  "李대통령,이재용·최태원에90도인사...\"큰절하려다참모가말렸다..."
+  "李대통령,이재용·최태원에90도인사...\"큰절하려다참모가말렸다...",
+  "모바일신분증활용해커톤에318팀몰려…전년比51%증가",
+  "SKT,AI영상합성기술논문…유럽컴퓨터비전학회서채택",
+  "[단독]SKT,'놀금'에도'AI모드'대전환...'포커스데이'시동",
+  "SKT\"2035년까지15GWAI데이터센터순차구축”",
+  "KT,'2026년ESG보고서'발간…활동성과공개",
+  "팔란티어·엔비디아,미정부용소버린AI운영체제공개",
+  "공차,LG유플러스등과최대50%할인7월프로모션",
+  "한컴위드,양자컴퓨터해킹예방솔루션'엑스에프웹'출시"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,25 @@
   [
    "2026-06-30T08:52:16.440772+09:00",
    "양향자 정부가 뒷받침하면 부족 호남 된다 우재준 전력"
+  ],
+  [
+   "2026-06-30T08:56:15.164374+09:00",
+   "대전환 포커스 에도 시동 모드 놀금 데이"
+  ],
+  [
+   "2026-06-30T08:56:15.164374+09:00",
+   "15GW AI데이터센터 2035년까지 구축 순차"
+  ],
+  [
+   "2026-06-30T08:56:15.164374+09:00",
+   "할인 등과 공차 7월 프로모션 LG유플러스"
+  ],
+  [
+   "2026-06-30T08:56:15.164374+09:00",
+   "예방 엑스에프웹 한컴위드 솔루션 양자컴퓨터 출시"
   ]
  ],
- "last_run": "2026-06-30T08:54:33.002608+09:00",
+ "last_run": "2026-06-30T08:56:44.380471+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
