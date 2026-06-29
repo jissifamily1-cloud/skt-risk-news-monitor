@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12084660",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/27/2026062790061.html",
-  "https://www.sedaily.com/article/20060845",
-  "http://www.osen.co.kr/article/G1112829722",
   "https://www.segye.com/newsView/20260627504541?OutUrl=naver",
   "https://news.mtn.co.kr/news-detail/2026062714155186104",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=846775",
@@ -2999,13 +2995,13 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606290087&t=NN",
   "https://www.newsis.com/view/NISX20260629_0003687061",
   "https://www.techm.kr/news/articleView.html?idxno=152929",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202216"
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=202216",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6833592_36967.html",
+  "https://www.redian.org/news/articleView.html?idxno=256879",
+  "http://www.fnnews.com/news/202606291203201747",
+  "https://www.newspim.com/news/view/20260629000264"
  ],
  "seen_titles": [
-  "아버지와같은길걷는다!여자농구차세대유망주,수원제일중박솔비",
-  "스페이스X,나스닥100에'초고속'편입된다",
-  "이원택당선인\"젠슨황,삼겹살먹으며새만금투자논의하자\"",
-  "美,안보우려로막았던AI‘미토스5’2주만에일부허용…“100여개...",
   "SKT,독자AI모델제조현장첫이식…KG스틸·코넥과실증협약",
   "AI도'옥석가리기'…7월시장흔들변수는금리[애널리스트의시각]",
   "“삼전닉스주가따라가는마이크론”…코스피핵심시장부상?",
@@ -6001,7 +5997,11 @@
   "3분기제조업경기,2분기보다좀낫다.",
   "국정자원,입주기관협의회…'AI해킹'대응방안논의",
   "[글로벌]오픈AI,IPO내년으로연기검토...스페이스X상장후폭풍에속...",
-  "이재용·최태원참석…'3대메가프로젝트'청사진주목"
+  "이재용·최태원참석…'3대메가프로젝트'청사진주목",
+  "코스피'주춤'·코스닥'급등'‥정책기대감?",
+  "'취임8주년'구광모LG회장,ABC전략으로미래사업체질바꿨다",
+  "AI해킹막고재해복구세운다…정부전산인프라점검",
+  "국가정보자원관리원,입주기관협의회개최…AI해킹대응·재해복구체..."
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-06-29T12:04:15.987993+09:00",
    "입주기관 논의 협의회 국정자원 대응방안"
+  ],
+  [
+   "2026-06-29T12:08:15.838304+09:00",
+   "8주년 LG 바꿨다 회장 체질 ABC 구광모 미래사업 취임 전략으로"
   ]
  ],
- "last_run": "2026-06-29T12:06:38.395148+09:00",
+ "last_run": "2026-06-29T12:08:42.996653+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6929,6 +6933,7 @@
   "goodmorningcc.com": "굿모닝충청",
   "straightnews.co.kr": "스트레이트뉴스",
   "worldkorean.net": "월드코리안뉴스",
-  "e-platform.net": "에너지플랫폼뉴스"
+  "e-platform.net": "에너지플랫폼뉴스",
+  "redian.org": "레디앙"
  }
 }
