@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202606290216&t=NN",
-  "https://www.businessplus.kr/news/articleView.html?idxno=113461",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847042",
-  "https://www.news2day.co.kr/article/20260629500143",
-  "https://www.yna.co.kr/view/AKR20260629124600017?input=1195m",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3620814",
-  "http://www.fnnews.com/news/202606291048598976",
-  "https://www.mk.co.kr/article/12085673",
   "https://ditoday.com/%ea%b5%ac%ea%b8%80-ai-%ea%b2%80%ec%83%89-%ec%b5%9c%ec%a0%81%ed%99%94%ec%97%90-%eb%8c%80%ed%95%9c-5%ea%b0%80%ec%a7%80-%ec%98%a4%ed%95%b4/",
   "https://www.asiatime.co.kr/article/20260629500344",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=59866",
@@ -2999,17 +2991,17 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202804",
   "https://www.munhwa.com/article/11599073",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335467",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=440397"
+  "http://www.econonews.co.kr/news/articleView.html?idxno=440397",
+  "https://www.slist.kr/news/articleView.html?idxno=748498",
+  "https://news.bizwatch.co.kr/article/mobile/2026/06/24/0033",
+  "http://coinreaders.com/245063",
+  "https://www.yna.co.kr/view/AKR20260626060900009?input=1195m",
+  "https://www.public25.com/news/articleView.html?idxno=49496",
+  "https://www.ppss.kr/news/articleView.html?idxno=300363",
+  "http://www.inews24.com/view/1980788",
+  "https://www.joongangenews.com/news/articleView.html?idxno=529149"
  ],
  "seen_titles": [
-  "정의선회장의피지컬AI승부수,보스턴다이내믹스IPO속도",
-  "최태원\"AI데이터센터1천조·반도체1100조투자\",\"10년간매년100조이...",
-  "최태원회장\"AI시대2,100조투자\"…반도체·데이터센터동시확대",
-  "李대통령,이재용·최태원에90도인사…\"국민영웅\"",
-  "[이슈+]이재용\"반도체는광주,로봇은구미\"…최태원\"AI·반도체에210...",
-  "[이슈체크]정부,삼성·SKAI·반도체1000조투입…국가산업'메가프...",
-  "신세계免·NOL·롯데온,여름휴가프로모션시동",
-  "넥슨,FC온라인대회'2026FSL서머'7월5일개막",
   "대구공업대학교,'떠나GO'동아리...슬로우조깅·플로깅으로건강·환경...",
   "'AI거품'꺼지면세계경제도동반위기,투자열풍끝날까?",
   "경기도경제과학진흥원,디바이스AX혁신기술교육생모집",
@@ -6001,7 +5993,15 @@
   "6월30일굿모닝MBN이시각주요뉴스",
   "조갑제“‘비과학적’호남반도체프로젝트,정권날릴수도”",
   "동아일보\"정청래부터김어준채널출연,당밖훈수꾼들키워주고당...",
-  "뉴욕증시,미국과이란간긴장완화조짐등영향반등⋯엔비디아와마이..."
+  "뉴욕증시,미국과이란간긴장완화조짐등영향반등⋯엔비디아와마이...",
+  "인크루트,MICE기업전문관오픈...산업맞춤형인재매칭",
+  "[AI와토큰]③벌써다썼다고?…토큰,똑똑하게쓰는법",
+  "앤트로픽,IPO카운트다운...\"아마존(AMZN)·알파벳(GOOGL)재평가온다\"",
+  "NYT\"중국AI모델,앤트로픽·오픈AI턱밑까지추격\"",
+  "[코스피·코스닥,SK텔레콤팬오션알엔투테크놀로지소노인터내셔널아...",
+  "\"국민영웅이라부르고싶다\"...이재명대통령,이재용·최태원투자결...",
+  "[르포]\"삼성·SK반도체정말옵니까\"…첨단3지구·군공항가보니",
+  "인도해킹에뚫린애플…아이폰18부품공급망·시험사진유출파장"
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,13 @@
   [
    "2026-06-30T07:40:32.856519+09:00",
    "영향 뉴욕증시 이란간 엔비디아와 반등 조짐 긴장완화 마이 미국과"
+  ],
+  [
+   "2026-06-30T07:42:15.429187+09:00",
+   "시험 사진 뚫린 애플 아이폰18 파장 해킹에 인도 부품 공급망 유출"
   ]
  ],
- "last_run": "2026-06-30T07:41:13.558125+09:00",
+ "last_run": "2026-06-30T07:42:36.037835+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
