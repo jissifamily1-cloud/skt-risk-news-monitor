@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=748292",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714224",
-  "https://www.sedaily.com/article/20061140",
   "https://www.mk.co.kr/article/12085234",
   "https://www.newscj.com/news/articleView.html?idxno=3412763",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679059",
@@ -2999,12 +2996,12 @@
   "https://www.ziksir.com/news/articleView.html?idxno=138406",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202606251845209440102781",
   "https://www.namdonews.com/news/articleView.html?idxno=915193",
-  "https://www.namdonews.com/news/articleView.html?idxno=915192"
+  "https://www.namdonews.com/news/articleView.html?idxno=915192",
+  "https://view.asiae.co.kr/article/2026062919231628519",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597416",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1085692"
  ],
  "seen_titles": [
-  "[마켓프리뷰]반도체투심살아날까…오픈AI충격딛고반등시험대",
-  "AI가해킹도빨라지게했다…지니언스,취약점포상제로맞불",
-  "컬리여름보양식최대40%할인...순수본'본양념장어'출시",
   "과기정통부,AI사이버위협취약한중소기업보안기본기강화지원",
   "반도체·AI국가전략공개…이재용·최태원도직접마이크잡는다",
   "KT,'5G업무망거점형'으로공공업무혁신",
@@ -6001,7 +5998,10 @@
   "SOOP계열플레이디,AI마케팅사업강화…광고제작·GEO확대",
   "[더벨]SKT,하이닉스산하'AI컴퍼니'투자대열합류",
   "삼성·SK,호남반도체에800조투자…이재명\"직접챙긴다\"",
-  "김영록지사,전남반도체생산거점낙점환영"
+  "김영록지사,전남반도체생산거점낙점환영",
+  "\"큰절한다는李대통령겨우말려\"…이재용·최태원에90도인사뒷얘기",
+  "SK하이닉스청주에100조원투자…“낸드플래시증설”",
+  "청주·천안·아산,AI반도체'심장부'된다"
  ],
  "recent_sigs": [
   [
@@ -7023,9 +7023,13 @@
   [
    "2026-06-29T19:24:17.644577+09:00",
    "하이닉스 투자 산하 컴퍼니 대열 합류"
+  ],
+  [
+   "2026-06-29T19:26:16.639894+09:00",
+   "청주 반도체 천안 심장부 아산 된다"
   ]
  ],
- "last_run": "2026-06-29T19:24:44.050136+09:00",
+ "last_run": "2026-06-29T19:26:40.370482+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7368,6 +7372,7 @@
   "newspenguin.com": "뉴스펭귄",
   "newstown.co.kr": "뉴스타운",
   "viewsnnews.com": "2006-2026 Views&News",
-  "jjn.co.kr": "전북중앙"
+  "jjn.co.kr": "전북중앙",
+  "ccdn.co.kr": "충청매일"
  }
 }
