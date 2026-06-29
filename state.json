@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=748273",
-  "https://www.ikbc.co.kr/article/view/kbc202606290014",
-  "https://www.bloter.net/news/articleView.html?idxno=666712",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207345",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7171471",
-  "http://www.newsbrite.net/news/articleView.html?idxno=198902",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02240246645486640",
-  "https://www.catchnews.kr/news/articleView.html?idxno=125478",
   "https://www.dailysecu.com/news/articleView.html?idxno=207346",
   "https://www.livebiz.today/news/articleView.html?idxno=202924",
   "https://www.insight.co.kr/news/560511",
@@ -2999,17 +2991,17 @@
   "https://www.joongboo.com/news/articleView.html?idxno=363730041",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247347&CMPT_CD=P0010",
   "http://www.newsworker.co.kr/news/articleView.html?idxno=433739",
-  "https://www.busan.com/view/busan/view.php?code=2026062918365024554"
+  "https://www.busan.com/view/busan/view.php?code=2026062918365024554",
+  "https://www.donga.com/news/Economy/article/all/20260629/134204731/1",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207359",
+  "https://www.ceoscoredaily.com/page/view/2026062918324772835",
+  "https://www.kyeonggi.com/article/20260629580655",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202724",
+  "https://www.m-economynews.com/news/article.html?no=68243",
+  "https://www.insnews.co.kr/news/articleView.html?idxno=91577",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1782725272&code=11121600&cp=nv"
  ],
  "seen_titles": [
-  "李대통령'3대메가프로젝트'보고회…이재용·최태원도마이크잡는다",
-  "최태원·노소영‘1조원대재산분할’파기환송심,7월24일선고",
-  "원익IPS,글로벌반도체·파운드리장비투자사이클'핵심기업'…\"본격...",
-  "지니언스,보안취약점신고포상금1000%증가",
-  "李대통령,오늘'삼성·SK참여3대메가프로젝트'발표…1천조규모",
-  "“한국경찰에밥꼭사고싶다”…젠슨황딸,마포서에‘감사메일’...",
-  "최태원-노소영재산분할눈길쏠린'내조'변론",
-  "이통3사,AI-RAN투자잰걸음…\"신규요금제논의가능성\"",
   "[모닝리포트]\"이번주국내증시변동성지속전망\"",
   "[모닝리포트]\"SK하이닉스목표가상향…HBM기회비용상승반영기대\"",
   "메모리‘슈퍼사이클’언제까지?…“AI투자성패에달렸다”",
@@ -6001,7 +5993,15 @@
   "이대통령\"새로운대도약전환점\"…3대메가프로젝트본격추진",
   "강훈식\"물부족론<조선일보>의프레임,야당비난과도\"",
   "김영록지사,\"'전남·광주반도체거점'역사적쾌거\"",
-  "[영상]수천조메가투자…부울경은‘들러리’"
+  "[영상]수천조메가투자…부울경은‘들러리’",
+  "SK,전국AI인프라구축에2100조투자구상…서남권반도체거점도추...",
+  "아우토크립트,국토교통R&D우수성과20선선정…자동차사이버보안기...",
+  "최태원“AI소비국에서수출국으로전환”…SK,반도체·데이터센터에...",
+  "용인반도체클러스터'속도전'…12년앞당겨완공추진",
+  "\"이재용·최태원은국민영웅\"…이대통령,3대메가프로젝트발표[뉴스...",
+  "‘반도체·AI·지방시대’대한민국대도약3대메가프로젝트시동",
+  "\"양자금융준비늦어지면5년뒤경쟁열위\"…금융권향하는양자기술",
+  "‘낯선숫자’4755조투자…李“오직속도전”"
  ],
  "recent_sigs": [
   [
@@ -6967,9 +6967,17 @@
   [
    "2026-06-29T18:48:16.254825+09:00",
    "들러리 메가 수천 투자 부울경은"
+  ],
+  [
+   "2026-06-29T18:50:30.091770+09:00",
+   "준비 열위 양자금융 금융권 5년 늦어지면 양자기술 향하는 경쟁"
+  ],
+  [
+   "2026-06-29T18:50:30.091770+09:00",
+   "투자 숫자 낯선 속도전 4755조 오직"
   ]
  ],
- "last_run": "2026-06-29T18:48:40.852455+09:00",
+ "last_run": "2026-06-29T18:50:52.917850+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
