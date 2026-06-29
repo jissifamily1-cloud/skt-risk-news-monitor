@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kgnews.co.kr/news/article.html?no=901664",
-  "http://www.osen.co.kr/article/G1112829470",
-  "https://www.m-i.kr/news/articleView.html?idxno=1385841",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16113676",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=825234",
-  "https://www.newsis.com/view/NISX20260626_0003685869",
-  "https://www.mk.co.kr/article/12084464",
   "http://www.spochoo.com/news/articleView.html?idxno=126607",
   "https://www.news1.kr/sports/baseball/6210011",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=07015926645485656",
@@ -2999,16 +2992,16 @@
   "https://www.koit.co.kr/news/articleView.html?idxno=207769",
   "https://www.ddaily.co.kr/page/view/2026062909082475500",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361201",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=122958"
+  "http://www.newscape.co.kr/news/articleView.html?idxno=122958",
+  "https://mhnse.com/news/articleView.html?idxno=1446161",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=846909",
+  "https://view.asiae.co.kr/article/2026062909123965516",
+  "https://www.cstimes.com/news/articleView.html?idxno=711401",
+  "http://www.paxetv.com/news/articleView.html?idxno=275802",
+  "https://www.viva100.com/article/20260629500156",
+  "http://www.paxetv.com/news/articleView.html?idxno=275804"
  ],
  "seen_titles": [
-  "롯데,최근10경기8승…가을야구희망이어가",
-  "롯데의상승세가LG마저꺾었다…최근10경기8승1무1패",
-  "투타모두부진한모습보인KT위즈,삼성상대1-9'패배'",
-  "'퉁퍼소닉'최형우의전력질주,8득점빅이닝을깨웠다…박진만감독,...",
-  "롯데,LG3-2제압…10경기서8승1무1패",
-  "KBO프로야구,26일경기결과→현재팀순위?",
-  "박진만이뽑은수훈선수?김현준·디아즈·장찬희다아니다…\"경기포...",
   "'10경기8승'롯데,선두LG제압…키움구단최다연패타이10연패(종합...",
   "‘7회8득점’타선집중력미쳤다!…‘디아즈쐐기스리런’삼성,KT...",
   "평균자책1위마운드의위엄...\"곽빈최고의피칭!\"두산,KIA불방망이...",
@@ -6001,7 +5994,14 @@
   "[기자수첩]개인정보외통수,피해는국민몫",
   "[주간클라우드동향/6월④]AI데이터센터전력경쟁…아마존선두,구...",
   "KT,'5G업무망거점형'으로공공업무혁신...\"경기도청첫적용\"",
-  "KT,'5G거점형서비스'경기도청에최초적용"
+  "KT,'5G거점형서비스'경기도청에최초적용",
+  "박진만감독신들린대타작전,명장까진아니지만팀뎁스만든공로...",
+  "포바이포,AI영상화질개선데스크톱버전출시",
+  "포바이포,AI픽셀데스크톱버전출시",
+  "그로쓰리서치\"PLP,차세대첨단패키징기술기대\"",
+  "SKAI위원회,K-AI얼라이언스확대…글로벌AI협력강화",
+  "KT,‘5G업무망거점형’으로공공업무혁신⋯경기도청에최초적용",
+  "한국전력,오픈AI와에너지AI전환협력…전력서비스혁신추진"
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,13 @@
   [
    "2026-06-29T09:08:16.767523+09:00",
    "특검 필요 오염 3지선 퍼레이드 추진해야 재선거 이진숙"
+  ],
+  [
+   "2026-06-29T09:14:16.439087+09:00",
+   "서비스 협력 전력 한국전력 혁신 에너지 오픈AI와"
   ]
  ],
- "last_run": "2026-06-29T09:12:32.275950+09:00",
+ "last_run": "2026-06-29T09:14:41.308428+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
