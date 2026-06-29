@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/president/6210850",
-  "https://www.segye.com/newsView/20260626507676?OutUrl=naver",
-  "http://www.newsprime.co.kr/news/article.html?no=738227",
-  "https://www.cstimes.com/news/articleView.html?idxno=711379",
-  "https://www.tjb.co.kr/news05/bodo/view/id/100106",
-  "https://www.sedaily.com/article/20061122",
-  "http://www.00news.co.kr/news/articleView.html?idxno=104738",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164494",
-  "https://www.newspim.com/news/view/20260629000021",
   "https://www.newspim.com/news/view/20260629000024",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595446",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=359415",
@@ -2999,18 +2990,18 @@
   "https://www.pressian.com/pages/articles/2026062918100610142",
   "https://www.thepublic.kr/news/articleView.html?idxno=309456",
   "https://news.jtbc.co.kr/article/NB12305616?influxDiv=NAVER",
-  "https://www.thepublic.kr/news/articleView.html?idxno=309439"
+  "https://www.thepublic.kr/news/articleView.html?idxno=309439",
+  "https://www.mediapen.com/news/view/1106854",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202301",
+  "https://www.mydaily.co.kr/page/view/2026062917031486586",
+  "https://www.ikbc.co.kr/article/view/kbc202606290059",
+  "https://biz.heraldcorp.com/article/10791326",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714360",
+  "https://www.segye.com/newsView/20260629516850?OutUrl=naver",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847106",
+  "https://www.yna.co.kr/view/AKR20260629125451001?input=1195m"
  ],
  "seen_titles": [
-  "젠슨황딸,한국경찰에“진심으로감사”이메일",
-  "李대통령,국민보고회주재…이재용·최태원,'AI·반도체'투자발표",
-  "[미국특징주]메모리대란에전자기기값줄인상...\"내후년에도수급난...",
-  "[미국특징주]\"문제는전력\"…청정에너지·발전기업IPO홍수",
-  "[AIMY뉴스]29일중국증시'정책·기업·산업이벤트3대재료영향'",
-  "최태원-노소영‘재산분할’9년만의마침표…다음달24일선고",
-  "SK-LG,AI인프라강화로글로벌경쟁력확대",
-  "李대통령,반도체·피지컬AI·데이터센터‘3대메가프로젝트’띄운다",
-  "李대통령,오늘3대메가프로젝트투자계획발표…반도체·피지컬AI·데...",
   "AI가삼킨발전설비시장…3800억원가스터빈도2031년인도분까지예...",
   "[굿모닝마켓]뉴욕증시,반도체약세에일제히하락…나스닥5거래일...",
   "경과원,디바이스AX혁신기술교육생모집",
@@ -6001,7 +5992,16 @@
   "李대통령,반도체'메가프로젝트'사활…\"동업자정신으로책임질것\"",
   "李대통령,3대메가프로젝트발표…\"반도체·피지컬AI·데이터센터에1...",
   "[맞수토론]\"기업팔비틀기?\"'삼전닉스'호남대규모투자,논란왜",
-  "업무환경무선화…KT,거점형5G업무망경기도청에적용"
+  "업무환경무선화…KT,거점형5G업무망경기도청에적용",
+  "최태원·노소영재산분할파기환송심,변론종결…선고는내달24일",
+  "'세기의재산분할'7월24일결론…마지막변론기일50분만에종료",
+  "'LG·삼성·KIA·NC변화없다'권광민·유민→강백호보상선수5일만에...",
+  "코스피,외인7조원대팔자에도약보합마감…삼전닉스메가프로젝트...",
+  "‘한달만에무려39.2%’,아무나못산다…‘간큰개미’인버스ETF,...",
+  "SKT,울산시작으로GW급DC짓는다…15GW로아태최고'정조준'",
+  "김영록지사“호남에‘800조반도체팹4기’확정…산업지도바꿀...",
+  "박균택\"전남광주에AI반도체800조투자,호남권국가균형발전토대\"...",
+  "[3대메가]李대통령,이재용·최태원에\"국민영웅\"…기업전폭지원약속..."
  ],
  "recent_sigs": [
   [
@@ -6955,9 +6955,13 @@
   [
    "2026-06-29T18:36:19.170306+09:00",
    "과징금 시행 규제 허위조작정보 7월 배포자 10억원"
+  ],
+  [
+   "2026-06-29T18:42:17.484239+09:00",
+   "DC 15GW로 GW급 최고 아태 정조준 짓는다 울산 시작으로"
   ]
  ],
- "last_run": "2026-06-29T18:40:52.534583+09:00",
+ "last_run": "2026-06-29T18:42:41.965235+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
