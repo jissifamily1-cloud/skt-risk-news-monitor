@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167179",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=463507",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164634",
-  "https://www.etoday.co.kr/news/view/2597793",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630026&plink=ORI&cooper=NAVER",
-  "https://www.g-enews.com/view.php?ud=202606270634538836fbbec65dfb_1",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008630027&plink=ORI&cooper=NAVER",
   "https://news.tf.co.kr/read/world/2337116.htm",
   "https://www.ceoscoredaily.com/page/view/2026062515254542364",
@@ -2999,15 +2993,15 @@
   "https://www.cstimes.com/news/articleView.html?idxno=711430",
   "https://www.tokenpost.kr/news/economy/373547",
   "https://www.dizzotv.com/site/data/html_dir/2026/06/29/2026062980053.html",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=659387"
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=659387",
+  "https://www.joongangenews.com/news/articleView.html?idxno=528920",
+  "https://view.asiae.co.kr/article/2026062909212254097",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=846963",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=305758",
+  "https://www.aitimes.kr/news/articleView.html?idxno=40728",
+  "https://www.pennmike.com/news/articleView.html?idxno=122871"
  ],
  "seen_titles": [
-  "[AI돋보기]1㎜도못속인다…월드컵'AI심판'의진화",
-  "기술주에서자금빼방어주로…나스닥,5거래일연속하락[월스트리트i...",
-  "서울시설공단,도시인프라AI실험장으로개방…민·관·학협력확대",
-  "애플비전프로책임자오픈AI행…AI하드웨어경쟁본격화",
-  "뉴욕증시,기술주고점부담에일제히하락마감",
-  "롱포지션97%전멸한리플(XRP)1.03달러추락,과연1달러심리적마지...",
   "나스닥100'뚝'...마이크론·인텔'급락',애플은'껑충'",
   "[주간거래소외국인]삼성전자SK하이닉스차익실현지속...HD현대중공...",
   "공공기관개인정보유출,기업못지않은데…처벌은솜방망이",
@@ -6001,7 +5995,13 @@
   "SK,K-AI얼라이언스2.0공개…글로벌협력강화",
   "[특징주]금호전기,'호남반도체클러스터'기대에상한가",
   "LG유플러스,고령화시대맞아‘사업연계형CSR’제시",
-  "KT,5G업무망거점형서비스경기도청에최초적용"
+  "KT,5G업무망거점형서비스경기도청에최초적용",
+  "삼성,KT에7-4승리…선발양창섭승리투수·KT고영표패전",
+  "화웨이,AI추론가속솔루션검증성과…토큰처리량372%까지향상",
+  "[이슈체크]'호남반도체'발표임박,삼성·SK역대급투자예상",
+  "미래에셋\"SK하닉,글로벌저변확대·재평가기대\"",
+  "피지컬AI인재양성본격화…엑스와이지,엔비디아협력교육과정운영",
+  "주진우\"삼성·SK호남투자설득한공무원밝혀라\"…직권남용고발경..."
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,13 @@
   [
    "2026-06-29T10:46:17.158711+09:00",
    "음수사원까지 언어 회장의 딥체인지에서 SK"
+  ],
+  [
+   "2026-06-29T10:50:30.108436+09:00",
+   "저변 재평가 확대 미래에셋 SK하닉 기대 글로벌"
   ]
  ],
- "last_run": "2026-06-29T10:48:33.032260+09:00",
+ "last_run": "2026-06-29T10:50:57.293855+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6902,6 +6906,7 @@
   "fieldnews.kr": "필드뉴스",
   "gqkorea.co.kr": "gqkorea.co.kr",
   "safetynews.co.kr": "안전신문",
-  "goodmorningcc.com": "굿모닝충청"
+  "goodmorningcc.com": "굿모닝충청",
+  "straightnews.co.kr": "스트레이트뉴스"
  }
 }
