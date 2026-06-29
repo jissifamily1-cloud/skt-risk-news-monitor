@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422259",
-  "https://news.mtn.co.kr/news-detail/2026062908554474099",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02460006645486640",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02456726645486640",
-  "https://www.news1.kr/local/gwangju-jeonnam/6210946",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422261",
-  "https://zdnet.co.kr/view/?no=20260629090447",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/29/2026062990034.html",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678638",
   "https://www.ddaily.co.kr/page/view/2026062620442322165",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167225",
@@ -2999,17 +2991,17 @@
   "https://www.ftimes.kr/news/articleView.html?idxno=38284",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537054",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679271",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317444"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317444",
+  "http://www.spochoo.com/news/articleView.html?idxno=126711",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166426",
+  "http://www.osen.co.kr/article/G1112830851",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2215869",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166402",
+  "https://www.kyeongin.com/article/1766408",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=602943",
+  "https://news.jtbc.co.kr/article/NB12305683?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "호남반도체투자에커지는정치권·학계·산업계'반대목소리'",
-  "오픈AI상장연기검토에삼전'휘청'…고개든메모리노이즈[특징주]",
-  "李대통령,오늘'3대메가프로젝트'보고회…반도체·AI지방투자공개",
-  "K-뷰티열기잇는다…CJ올리브영,북성수에‘뷰티맨션’",
-  "CJ올리브영,북성수에체험형K뷰티거점'뷰티맨션'연다",
-  "올리브영,성수K뷰티성지키운다…체험특화매장추가오픈",
-  "KT,경기도청에'5G업무망거점형'최초적용…\"공공업무혁신\"",
-  "KT,‘5G거점형업무망’시동…“사무실밖에서도공공업무안전하게...",
   "LTspice®의FFT분석기능을활용해유효커패시터리플전류를측정하...",
   "연세의료원,'넥스트세브란스'비전본격화…전문의중심·AI혁신가속...",
   "[산업잇-슈!]시총1위SK하이닉스반도체공정톺아보기…직원들의해...",
@@ -6001,13 +5993,17 @@
   "류현진,9번째올스타초대장받았다…감독추천으로출전",
   "호남에반도체메가투자…삼성425조·SK400조",
   "오픈AI분열의시작…샘알트먼·다리오아모데이10년갈등재조명",
-  "'10만구독'유튜버,허위조작정보가중손배제대상포함"
+  "'10만구독'유튜버,허위조작정보가중손배제대상포함",
+  "카리나·원숭이분장뛰어넘을퍼포먼스나올까?...2026KBO퓨처스올스...",
+  "대덕특구,'오픈이노베이션대덕withDRB동일'참여기업모집",
+  "'219곡'영케이,GD보다저작권넘었다\"생존위해작곡\"('최우수산')",
+  "SK,AI데이터센터15GW·반도체생산벨트구축…총2,100조원투자",
+  "삼성2655조원,SK2100조원규모인프라투자",
+  "[사설]메가프로젝트로속도붙은용인반도체산업단지",
+  "오픈AI상장지연설과AI시장의향방:메디컬투데이TV",
+  "'반도체거점'왜호남인가…이재용이직접'광주'언급"
  ],
  "recent_sigs": [
-  [
-   "2026-06-29T13:34:14.173148+09:00",
-   "메모리 상승 미래에셋운용이 이제 구조적 싸진다"
-  ],
   [
    "2026-06-29T13:42:16.231925+09:00",
    "박지원 김민석이 발언 재건축 유시민 부적절 정청래보다"
@@ -7035,9 +7031,17 @@
   [
    "2026-06-29T19:32:16.037112+09:00",
    "유튜버 대상 가중 허위조작정보 포함 10만 구독 손배제"
+  ],
+  [
+   "2026-06-29T19:34:17.087141+09:00",
+   "이재용이 반도체 광주 직접 거점 언급 호남인가"
+  ],
+  [
+   "2026-06-29T19:34:17.087141+09:00",
+   "향방 메디컬투데이TV 지연설과 상장 시장의"
   ]
  ],
- "last_run": "2026-06-29T19:32:42.846923+09:00",
+ "last_run": "2026-06-29T19:34:45.235299+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
