@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=359478",
-  "https://biz.chosun.com/it-science/ict/2026/06/29/3GZV5CI4DBHKJHNMTHVXPG7HD4/",
-  "https://www.mt.co.kr/industry/2026/06/29/2026062910211619932",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4091275",
-  "https://www.etnews.com/20260625000289",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268698",
-  "https://www.ekn.kr/web/view.php?key=20260629021467466",
-  "https://www.ddaily.co.kr/page/view/2026062915335515495",
   "https://www.smartbizn.com/news/articleView.html?idxno=147266",
   "https://www.ziksir.com/news/articleView.html?idxno=138376",
   "https://www.news2day.co.kr/article/20260629500153",
@@ -2999,17 +2991,17 @@
   "https://www.newdaily.co.kr/site/data/html/2026/06/30/2026063000024.html",
   "https://biz.sbs.co.kr/article_hub/20000319095?division=NAVER",
   "https://www.newsinside.kr/news/articleView.html?idxno=4801974",
-  "https://www.wikitree.co.kr/articles/1143846"
+  "https://www.wikitree.co.kr/articles/1143846",
+  "http://www.babytimes.co.kr/news/articleView.html?idxno=73407",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714393",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422479",
+  "https://thetracker.co.kr/View.aspx?No=4130625",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=63408",
+  "https://www.catchnews.kr/news/articleView.html?idxno=125539",
+  "https://www.newscj.com/news/articleView.html?idxno=3413153",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633551&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "넥슨,구글플레이와e스포츠대회'2026FSL서머'스폰서십체결",
-  "새내기장찬희·박정민·박준현,감독추천KBO올스타전출전",
-  "외국인7조매도세역대최대…개미·기관쌍매수로코스피팽팽",
-  "'외국인8조매도'코스피약보합美기술주약세…삼성전자5%↓",
-  "美‘AI쇄국’틈파고든中…앤트로픽‘미토스급’보안AI로맞불",
-  "핑크랩,한국디자인진흥원'디자인-온라인제조플랫폼사업'선정",
-  "빗썸,동의없이개인정보국외이전…과징금2억과시정명령",
-  "쿠팡5000원쿠폰도보험으로?…개보위,기업'자발적보상'보험가능성...",
   "삼성전자·SK하이닉스,서남권에초대형'제2의반도체'생산기지만든...",
   "삼성·SK‘통큰미래투자’…“대체불가대한민국견인”",
   "최태원“AI미래는대한민국서”…SK,AI데이터센터·반도체에2100조...",
@@ -6001,7 +5993,15 @@
   "美기술주반등에뉴욕증시일제상승…다우,첫5만2000선마감",
   "NYT\"中AI모델,앤트로픽·오픈AI턱밑까지추격\"",
   "KT,'2026년ESG보고서'발간…2050년탄소중립등전략공개",
-  "타타전자해킹으로아이폰18프로설계다크웹유출"
+  "타타전자해킹으로아이폰18프로설계다크웹유출",
+  "최태원·노소영재산분할파기환송심7월24일선고",
+  "[Tech&Now]삼성전자감사페스티벌,온누리상품권으로전통시장살린...",
+  "슈마컴,대만당국압수수색에주가하락",
+  "다이나믹솔루션,울산에HBM·AI반도체소재공장짓는다",
+  "SK텔레콤,AI영상합성기술논문ECCV2026채택",
+  "6월29일주식시장주요공시",
+  "KT,보이스피싱25%↓재활용률81%↑[ESG성적표]",
+  "[정치쇼]양향자\"호남물·전력부족?정부가뒷받침하면된다…우재준..."
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,25 @@
   [
    "2026-06-30T08:50:33.880450+09:00",
    "프로 해킹으로 아이폰 설계 타타전자 다크웹 유출"
+  ],
+  [
+   "2026-06-30T08:52:16.440772+09:00",
+   "합성 논문 ECCV 기술 채택 영상"
+  ],
+  [
+   "2026-06-30T08:52:16.440772+09:00",
+   "주식시장 6월 29일 주요공시"
+  ],
+  [
+   "2026-06-30T08:52:16.440772+09:00",
+   "보이스피싱 재활용률"
+  ],
+  [
+   "2026-06-30T08:52:16.440772+09:00",
+   "양향자 정부가 뒷받침하면 부족 호남 된다 우재준 전력"
   ]
  ],
- "last_run": "2026-06-30T08:50:52.986050+09:00",
+ "last_run": "2026-06-30T08:52:47.875967+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
