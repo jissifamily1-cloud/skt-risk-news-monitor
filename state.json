@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260627029277020",
-  "https://www.newsis.com/view/NISX20260626_0003685689",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=846675",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02407526645485984",
-  "https://www.seoulfn.com/news/articleView.html?idxno=632012",
-  "https://www.pressian.com/pages/articles/2026062712003401675",
   "https://www.segye.com/newsView/20260622506688?OutUrl=naver",
   "https://www.seoultimes.news/news/article.html?no=2000097106",
   "https://zdnet.co.kr/view/?no=20260622091343",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260629_0003687462",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441037",
   "https://news.jtbc.co.kr/article/NB12305550?influxDiv=NAVER",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82650"
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=82650",
+  "http://www.osen.co.kr/article/G1112830719",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092164336",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1269589",
+  "https://www.aitimes.com/news/articleView.html?idxno=212210",
+  "https://www.g-enews.com/view.php?ud=202606271935279844906806b77b_1",
+  "https://www.mt.co.kr/stock/2026/06/29/2026062911183051266"
  ],
  "seen_titles": [
-  "김세훈,제41대화천군수취임…7월1일오전10시화천군청광장",
-  "29일‘3대메가프로젝트국민보고회’에이재용·최태원참석",
-  "스페이스X,상장안팎'나스닥100'초고속편입…6조원대자금유입기...",
-  "스페이스X,나스닥100편입과패시브자금유입기대감",
-  "[패트롤]경기도-경기도의회-경기경제청-경기평택항만공사-경기교육청",
-  "스페이스X,7월7일나스닥100편입…상장후초고속",
   "[패트롤]오산시-용인시-이천시-평택시-화성시",
   "'45조펀딩'SK하이닉스,용인·청주이어호남권반도체거점가시화[3...",
   "\"AI천재한명이기업을바꾼다\"…글로벌빅테크,인재확보'각축전",
@@ -6001,7 +5995,13 @@
   "2000조'반도체클러스터'호재에…지역건설업계주가'청신호'",
   "[김재섭의뒤집어보기]박윤영KT사장취임3개월,'허니문'은끝났다",
   "이대통령,청와대에서'메가프로젝트'보고회…역대최대지방투자계...",
-  "광역단위로묶은5G정부망…KT,공공통신인프라공동활용모델본격..."
+  "광역단위로묶은5G정부망…KT,공공통신인프라공동활용모델본격...",
+  "‘리그공동5위’두산,플렉센·카메론웨이버공시…결단내렸다,외...",
+  "\"이돈이면넷플릭스본다\"…이통사'지상파·종편VOD'요금제의한계",
+  "성남산업진흥원,기후테크산업생태계고도화박차",
+  "앤트로픽,미정부와'페이블5'복구에근접...이르면이번주해제",
+  "[인물]제러미그랜섬\"비트코인무서운경고\"",
+  "\"SK하닉美ADR상장,韓반도체재평가계기…7조수급기대\""
  ],
  "recent_sigs": [
   [
@@ -6673,7 +6673,7 @@
    "활용 공공 5G 묶은 인프라 모델 본격 공동 단위로 통신 정부망 광역"
   ]
  ],
- "last_run": "2026-06-29T11:40:54.428788+09:00",
+ "last_run": "2026-06-29T11:42:37.998674+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
