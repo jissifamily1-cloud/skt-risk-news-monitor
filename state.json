@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/cryptocurrency/373179",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16113868",
-  "https://magazine.hankyung.com/business/article/202606257650b",
-  "https://www.munhwa.com/article/11598615",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164706",
-  "https://www.newsis.com/view/NISX20260627_0003685944",
   "https://www.lecturernews.com/news/articleView.html?idxno=205119",
   "https://www.mt.co.kr/tech/2026/06/27/2026062514042311353",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255504",
@@ -2999,15 +2993,15 @@
   "https://www.namdonews.com/news/articleView.html?idxno=915069",
   "https://biz.heraldcorp.com/article/10791275",
   "https://zdnet.co.kr/view/?no=20260629110158",
-  "https://dealsite.co.kr/articles/164263"
+  "https://dealsite.co.kr/articles/164263",
+  "https://www.newspim.com/news/view/20260626000630",
+  "http://amenews.kr/news/view.php?idx=67227",
+  "https://www.sedaily.com/article/20061277",
+  "https://www.hankyung.com/article/2026062608231",
+  "http://www.beyondpost.co.kr/view.php?ud=202606291038116826be44c0aacd_30",
+  "http://www.worldkorean.net/news/articleView.html?idxno=57210"
  ],
  "seen_titles": [
-  "'1000조역대급투자'호남·충청반도체팹,제2의타이난되려면",
-  "오픈AI,정부요청에새AI모델초기공개대상'신뢰할수있는파트너...",
-  "삼성·SK호남반도체투자공개임박…김용범\"마무리단계\"[많이본경...",
-  "[칩톡]삼성·하이닉스몸값더뛴다…엔비디아독점깨지는AI칩시장",
-  "필라반도체지수5.29%,마이크론6.69%급락",
-  "[바이오USA폐막]K바이오,'전시참가'넘어공동연구·투자·수주전으로...",
   "IREN,AI인프라성장으로연초대비27.3%급등",
   "뉴욕증시,유가급락에도AI반도체매물에약세",
   "\"호남에큰거온다\"...삼전닉스중심'반도체클러스터'구축",
@@ -6001,7 +5995,13 @@
   "민주당\"野,'호남투자'악의적흑색선전…21세기판매국행위\"",
   "[이형석칼럼]AI를고용하고조직하고경영하라…진화와기술진보의결...",
   "[이성엽의IT프리즘]데이터정책거버넌스의과제",
-  "수차례협의체에도제자리…SO정책연구반'실질적제도개선'필요"
+  "수차례협의체에도제자리…SO정책연구반'실질적제도개선'필요",
+  "뉴스핌'마이케이팝스타',오디션강자·최연소참가자등10팀영상공...",
+  "온세미,시냅틱스70억불인수…피지컬AI시장확대",
+  "미래에셋운용“SK하닉ADR,韓반도체재평가계기…패시브자금유입...",
+  "[토요칼럼]딸깍의시대,사라진보호막",
+  "KT,공공분야‘5G업무망거점형’상용화…경기도청첫적용",
+  "일본시즈오카서'경요세계의밤'…1차조선통신사방문기념"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-06-29T11:04:16.212525+09:00",
    "필요 협의체에도 개선 SO 정책연구반 수차례 제자리 실질적 제도"
+  ],
+  [
+   "2026-06-29T11:06:18.209744+09:00",
+   "조선통신사 시즈오카서 일본 방문 경요세계의 기념 1차"
   ]
  ],
- "last_run": "2026-06-29T11:04:45.987927+09:00",
+ "last_run": "2026-06-29T11:06:41.630905+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6939,6 +6943,7 @@
   "gqkorea.co.kr": "gqkorea.co.kr",
   "safetynews.co.kr": "안전신문",
   "goodmorningcc.com": "굿모닝충청",
-  "straightnews.co.kr": "스트레이트뉴스"
+  "straightnews.co.kr": "스트레이트뉴스",
+  "worldkorean.net": "월드코리안뉴스"
  }
 }
