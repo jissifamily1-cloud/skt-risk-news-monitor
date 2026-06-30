@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreadaily.com/article/20260629011003511",
-  "https://view.asiae.co.kr/article/2026062917093609971",
-  "http://www.fnnews.com/news/202606291644258915",
-  "https://www.dailian.co.kr/news/view/1661220/?sc=Naver",
-  "https://www.joongangenews.com/news/articleView.html?idxno=529063",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035501",
-  "https://www.etnews.com/20260629000420",
   "http://www.newsprime.co.kr/news/article.html?no=738358",
   "http://www.fnnews.com/news/202606291644235944",
   "https://www.idaegu.com/news/articleView.html?idxno=663950",
@@ -2999,14 +2992,16 @@
   "https://zdnet.co.kr/view/?no=20260630100926",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=314307",
   "https://www.news2day.co.kr/article/20260630500068",
-  "http://www.queen.co.kr/news/articleView.html?idxno=459465"
+  "http://www.queen.co.kr/news/articleView.html?idxno=459465",
+  "https://biz.heraldcorp.com/article/10792580",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597325",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6209",
+  "http://www.jeollailbo.com/news/articleView.html?idxno=803981",
+  "http://journal.kobeta.com/?post_type=post&p=63103",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008633659&plink=ORI&cooper=NAVER",
+  "https://www.ngonews.kr/news/articleView.html?idxno=231908"
  ],
  "seen_titles": [
-  "류현진,2년만에올스타전출전…새내기장찬희박정민등도출전",
-  "류현진도,유토도간다!…'감독추천올스타'26명확정",
-  "조근제군수,8년군정마무리…함안군수퇴임식열려",
-  "기술주·반도체주약세‥선물시장강세로반전",
-  "AI•반도체산업벨트확대…‘더웨스트마곡데시앙’미래가치관심",
   "SK,전국15GWAI데이터센터구축…1100조원AI반도체투자추진",
   "\"빅테크수요선점\"…SKT,15GWAIDC2029년부터순차구축",
   "[메가프로젝트]SK텔레콤\"900조AIDC,부지선정에다양한요소고려\"",
@@ -6001,7 +5996,12 @@
   "데이터브릭스,SIEM생태계를에이전트중심으로…팬서인수",
   "다이나믹솔루션,'실리카슬러리'국산화본격",
   "삼성전기,AI서버용MLCC4500억수주…이례적규모",
-  "대기업오너일가주식담보대출,삼성가상속세종료영향으로큰폭감..."
+  "대기업오너일가주식담보대출,삼성가상속세종료영향으로큰폭감...",
+  "NHN클라우드·NHN두레이,DB증권디지털워크플레이스구축한다",
+  "방미통위,장애인방송대상확대…OTT에도제공노력의무",
+  "[스틸컷]\"10년간매년100조씩\"...최태원의큰투자",
+  "SF와AI위험성",
+  "KT,ESG경영으로'넷제로얼라이언스출범·AI활용사회적포용확대'"
  ],
  "recent_sigs": [
   [
@@ -6691,9 +6691,21 @@
   [
    "2026-06-30T10:10:34.033280+09:00",
    "AI를 지금은 거대한 투자 순간 진실 놓치는 테마 파도"
+  ],
+  [
+   "2026-06-30T10:14:16.026665+09:00",
+   "투자 100조씩 최태원의 매년 10년간"
+  ],
+  [
+   "2026-06-30T10:14:16.026665+09:00",
+   "얼라이언스 ESG 사회적 출범 경영으로 포용 확대 넷제로 활용"
+  ],
+  [
+   "2026-06-30T10:14:16.026665+09:00",
+   "SF와 위험성"
   ]
  ],
- "last_run": "2026-06-30T10:12:35.614468+09:00",
+ "last_run": "2026-06-30T10:14:41.707960+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7053,6 +7065,7 @@
   "dandinews.com": "단디뉴스",
   "mbcgn.kr": "mbcgn.kr",
   "ablenews.co.kr": "에이블뉴스",
-  "futurechosun.com": "더나은미래"
+  "futurechosun.com": "더나은미래",
+  "jeollailbo.com": "전라일보"
  }
 }
