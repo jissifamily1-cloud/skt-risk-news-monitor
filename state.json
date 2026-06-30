@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.finomy.com/news/articleView.html?idxno=256510",
-  "https://www.seoul.co.kr/news/economy/industry/2026/06/30/20260630002002?wlog_tag3=naver",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1528996",
-  "http://www.kjdaily.com/article.php?aid=1782731886681316002",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05631766645486640",
-  "http://www.ujeil.com/news/articleView.html?idxno=388048",
   "http://www.ujeil.com/news/articleView.html?idxno=388032",
   "http://www.ujeil.com/news/articleView.html?idxno=388000",
   "http://www.kjdaily.com/article.php?aid=1782731883681319002",
@@ -2999,15 +2993,15 @@
   "https://www.econovill.com/news/articleView.html?idxno=743897",
   "https://www.ajunews.com/view/20260630133548686",
   "https://www.yna.co.kr/view/AKR20260630057751001?input=1195m",
-  "https://www.khan.co.kr/article/202606301421001"
+  "https://www.khan.co.kr/article/202606301421001",
+  "https://it.donga.com/109106/",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679654",
+  "https://news.tf.co.kr/read/economy/2337778.htm",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035847",
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=317744",
+  "https://www.thepowernews.co.kr/view.php?ud=202606301422291959de3f0aa1be_7"
  ],
  "seen_titles": [
-  "삼성·SK800조투자…김영록\"전남·광주,제2반도체거점도약\"",
-  "[뉴스추적]삼성2655조·SK2100조투자/기업들이얻는건무엇?/'과...",
-  "코스피200변동성지수,사상최고수준돌파…한국증시'공포지수'비...",
-  "[비즈투데이]KT,광화문거리응원에서5GSA실증",
-  "스페이스X,'강진'베네수엘라에스타링크무료제공",
-  "이재명정부,호남반도체로국토균형발전명운걸었다",
   "SK,전국AI인프라에1100조투자⋯\"AI소비국서수출국으로\"",
   "삼전닉스,전국에‘4755조’투자…슈퍼사이클초격차지켜낸다",
   "\"두회장은영웅\"…삼성은광주·SK는서남권",
@@ -6001,7 +5995,13 @@
   "LG전자,류재철대표직속'로보틱스사업센터'신설…데이터팩토리역...",
   "[아주사설│기본·원칙·상식]3대메가프로젝트,정쟁에국가大計발...",
   "국힘\"반도체투자,강요라면대통령처벌면치못해\"…국조거론(종합)",
-  "대만검찰,엔비디아반도체중국밀수출기업압수수색"
+  "대만검찰,엔비디아반도체중국밀수출기업압수수색",
+  "리벨리온,AI양자화기업'스퀴즈비츠'인수···전폭적인AI생태계...",
+  "[데일리픽]美클래리티법진전언제쯤…메모리발원가상승본격화",
+  "쿠팡개인정보유출분쟁조정에14만6000여명참여",
+  "李대통령,광주·아산·진주서'첨단산업'릴레이국민보고회",
+  "삼성·SK,AI·반도체'메가투자'규모는나란히2000조대",
+  "LG유플러스,4년만에영업익1조복귀…무선이끌고데이터센터가민다"
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,13 @@
   [
    "2026-06-30T14:24:17.499411+09:00",
    "반도체 밀수출 검찰 중국 압수수색 대만 기업"
+  ],
+  [
+   "2026-06-30T14:26:15.775407+09:00",
+   "무선이 4년 민다 영업익 복귀 데이터센터가 LG유플러스 끌고 1조 만에"
   ]
  ],
- "last_run": "2026-06-30T14:24:35.745634+09:00",
+ "last_run": "2026-06-30T14:26:34.068473+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
