@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4092001",
-  "https://www.asiatime.co.kr/article/20260629500374",
-  "http://www.fnnews.com/news/202606291503225912",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=310740",
-  "https://www.hankookilbo.com/news/article/A2026062915460004916?did=NA",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=202471",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=202504",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82620",
-  "http://www.kmedinfo.co.kr/news/articleView.html?idxno=96510",
   "https://www.joongboo.com/news/articleView.html?idxno=363730024",
   "https://www.topstarnews.net/news/articleView.html?idxno=16117053",
   "https://www.sportsseoul.com/news/read/1619542",
@@ -2999,18 +2990,18 @@
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=59868",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440409",
   "https://www.ddaily.co.kr/page/view/2026062915435242527",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067944"
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3067944",
+  "https://www.dt.co.kr/article/12070102",
+  "http://www.lawissue.co.kr/view.php?ud=2026063009231031569817d053b9_12",
+  "http://www.popcornnews.net/news/articleView.html?idxno=125148",
+  "https://www.newsis.com/view/NISX20260630_0003688936",
+  "https://www.mk.co.kr/article/12085108",
+  "http://www.lawissue.co.kr/view.php?ud=2026063009252269929817d053b9_12",
+  "http://www.newsdream.kr/news/articleView.html?idxno=113758",
+  "http://www.epj.co.kr/news/articleView.html?idxno=38872",
+  "https://www.chosun.com/economy/tech_it/2026/06/30/QNEQH5ODORFXHERSNKEPODBRPU/"
  ],
  "seen_titles": [
-  "최태원회장\"AI소비국서수출국으로\"…SK,AI인프라대전환시동",
-  "쿠팡개인정보유출분쟁조정신청14만6천여명…역대최대",
-  "글로벌AI생태계확장본격화...SK,실리콘밸리서'K-AI얼라이언스'...",
-  "“470개반도체기업흔들린다”…TK,정부반도체투자방향전면재검...",
-  "이대통령\"이재용·최태원,국민영웅…기업투자전폭지원\"",
-  "SK,전국AI인프라구축추진…최태원“AI소비국서수출국으로”",
-  "李,이재용·최태원에\"국민영웅\"…삼성·SK4755조원국내투자",
-  "800조원규모반도체클러스터…李정부'호남팹구상'과삼전닉스",
-  "이대통령,이재용·최태원회장에'90도'인사[사진잇슈]",
   "KT,공공5G업무망'거점형'첫적용...\"지자체공동활용시대연다\"",
   "농협은행,'무선백도어'해킹대응강화...지슨과보안협력",
   "삼성·SK등대기업,전국에'1000조원'투자…'3대메가프로젝트'발맞...",
@@ -6001,7 +5992,16 @@
   "[디지털포스트모닝픽]'제2스타링크'나오나…로켓랩,12조에이리듐...",
   "SKTAI영상기술,세계3대컴퓨터비전학회서성과인정",
   "1000조메가프로젝트…현대차·HD현대·두산역량결집",
-  "메가프로젝트기업투자강제했나?반시장적관치경제비판확산"
+  "메가프로젝트기업투자강제했나?반시장적관치경제비판확산",
+  "[프리미엄픽]LG유플러스,유튜브프리미엄·구글AI프로결합상품출...",
+  "삼성전자,감사페스티벌디지털온누리상품권20%환급",
+  "NHN클라우드-NHN두레이,DB증권과협력…\"금융권AI협업도구도입\"",
+  "LS일렉트릭-카이스트,공동연구센터개소…\"미래전력솔루션개발\"",
+  "美\"외국인첨단AI접속전쟁부가선별\"",
+  "KT,2026ESG보고서공개",
+  "KT,플랫폼전환통했다…'KT멤버십·사장이지'국가서비스대상1위",
+  "한전,글로벌AI선도기업OpenAI와에너지산업AI전환협력MOU체결",
+  "[단독]KT‘단기육아휴직’선제적도입"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,17 @@
   [
    "2026-06-30T09:26:17.110614+09:00",
    "투자 확산 관치 경제 비판 메가프로젝트 했나 강제 반시장적 기업"
+  ],
+  [
+   "2026-06-30T09:28:16.857868+09:00",
+   "선제적 단기육아휴직 도입"
+  ],
+  [
+   "2026-06-30T09:28:16.857868+09:00",
+   "체결 OpenAI와 에너지 협력 글로벌 MOU 산업 선도기업 한전"
   ]
  ],
- "last_run": "2026-06-30T09:26:34.731725+09:00",
+ "last_run": "2026-06-30T09:28:41.583623+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6908,6 +6916,7 @@
   "jibs.co.kr": "2002 JIBS",
   "ilyosisa.co.kr": "일요시사",
   "sisaon.co.kr": "시사오늘(시사ON)",
-  "sisain.co.kr": "시사IN"
+  "sisain.co.kr": "시사IN",
+  "epj.co.kr": "일렉트릭파워"
  }
 }
