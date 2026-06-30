@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536724",
-  "https://www.idomin.com/news/articleView.html?idxno=2008994",
-  "https://www.newspim.com/news/view/20260629000037",
-  "https://www.newspim.com/news/view/20260629000023",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606290924529930059",
   "http://www.osen.co.kr/article/G1112830804",
   "https://www.busan.com/view/busan/view.php?code=2026062918424055577",
   "https://www.newspim.com/news/view/20260629001277",
@@ -2999,14 +2994,14 @@
   "https://www.goodmorningcc.com/news/articleView.html?idxno=448238",
   "https://feedapi.cloud.sbs.co.kr/feed-api/article_hub/G20000002441",
   "https://www.joongdo.co.kr/web/view.php?key=20260630010008450",
-  "https://www.naeil.com/news/read/593592"
+  "https://www.naeil.com/news/read/593592",
+  "https://www.mediapen.com/news/view/1106854",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202301",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3621735",
+  "https://www.newscj.com/news/articleView.html?idxno=3413233",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53021"
  ],
  "seen_titles": [
-  "코스피,외인7조원대팔자에도약보합마감…삼전닉스메가프로젝트...",
-  "‘한달만에무려39.2%’,아무나못산다…‘간큰개미’인버스ETF,...",
-  "SKT,울산시작으로GW급DC짓는다…15GW로아태최고'정조준'",
-  "김영록지사“호남에‘800조반도체팹4기’확정…산업지도바꿀...",
-  "박균택\"전남광주에AI반도체800조투자,호남권국가균형발전토대\"...",
   "[3대메가]李대통령,이재용·최태원에\"국민영웅\"…기업전폭지원약속...",
   "최태원-노소영‘재산분할’9년만의마침표…다음달24일선고",
   "물류·금융교차했던왜관에서식민지경제수탈관문으로[김석환의남...",
@@ -6001,7 +5996,12 @@
   "건양대스마트보안학과,학술대회'우수논문상'10개팀전원수상",
   "‘유일한다승자’장유빈,제네시스포인트1위유지“올해가장큰...",
   "이대통령2일충남아산서첨단산업발전비전국민보고회주재",
-  "삼성·SK‘반도체초격차’승부수…서남권에새팹짓는다"
+  "삼성·SK‘반도체초격차’승부수…서남권에새팹짓는다",
+  "최태원·노소영재산분할파기환송심,변론종결…선고는내달24일",
+  "'세기의재산분할'7월24일결론…마지막변론기일50분만에종료",
+  "세종시교육청,교육공무직원(조리실무사)채용시험'최종합격자발표",
+  "'팹1기200조시대'…삼성·SK,천문학적투자비확보총력",
+  "\"AI가만든풍요는누구몫?\"첫직장잃은Z세대가던진질문"
  ],
  "recent_sigs": [
   [
@@ -6703,9 +6703,13 @@
   [
    "2026-06-30T13:06:16.386303+09:00",
    "짓는다 삼성 초격차 승부수 서남권에 SK 반도체"
+  ],
+  [
+   "2026-06-30T13:08:15.992512+09:00",
+   "누구 Z세대가 직장 던진 만든 잃은 풍요는 질문 AI가"
   ]
  ],
- "last_run": "2026-06-30T13:06:35.071375+09:00",
+ "last_run": "2026-06-30T13:08:37.902255+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
