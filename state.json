@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026062701002149617",
-  "https://www.newspim.com/news/view/20260627000003",
-  "https://www.sedaily.com/article/20060740",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=602587",
-  "https://www.sedaily.com/article/20060715",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=299577",
-  "https://www.chosun.com/economy/weeklybiz/2026/06/19/YWE34NGJH5HETDEOYIY5QZUW2E/",
-  "https://www.etoday.co.kr/news/view/2597666",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04188566645485656",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86733",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03876966645485656",
   "https://www.chosun.com/economy/tech_it/2026/06/26/ZQ6PSP2KNBAJPA3CJO4IPIGV64/",
   "https://www.newsis.com/view/NISX20260626_0003684876",
@@ -2999,19 +2989,19 @@
   "https://www.jbnews.com/news/articleView.html?idxno=1506779",
   "https://www.chosun.com/economy/industry-company/2026/06/30/HXCQZ2C7YFFQPDKQDMKRVQ4YQ4/",
   "http://www.4th.kr/news/articleView.html?idxno=2113978",
-  "https://www.hankookilbo.com/news/article/A2026063015380002869?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026063015380002869?did=NA",
+  "https://www.sportschosun.com/baseball/2026-06-30/202606300100208640013943",
+  "http://www.osen.co.kr/article/G1112831316",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148967396&call_from=naver_news",
+  "https://www.newsis.com/view/NISX20260630_0003690123",
+  "https://view.asiae.co.kr/article/2026063015014374369",
+  "https://www.mt.co.kr/world/2026/06/30/2026063015460929495",
+  "http://www.4th.kr/news/articleView.html?idxno=2113985",
+  "https://www.yna.co.kr/view/AKR20260630174300017?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260630165900017?input=1195m",
+  "https://www.aitimes.com/news/articleView.html?idxno=212261"
  ],
  "seen_titles": [
-  "[GAM]JP모간이짚은메모리2분기실적시즌검증사안3가지",
-  "딥시크충격능가하는중국인공지능미국서일대선풍",
-  "[여경코멘토]6월셋째주4명활동···지적·의견5건무슨내용?",
-  "삼성·하이닉스몸값더뛴다…엔비디아독점깨지는AI칩시장[칩톡]",
-  "\"다빼앗기게생겼어\"AI키운빅테크,이젠'불편'[테크토크]",
-  "정부승인이표준되나…오픈AI\"일부에만새AI모델GPT-5.6공개\"",
-  "AI랠리의하반기시험대…기술주를흔드는건'가격'[천조국리포트]",
-  "[미국특징주]골드만·모간스탠리,'오픈AIIPO연기설'에하락",
-  "[사설]방산분야K유니콘육성,혁신생태계구축이먼저다",
-  "SK그룹AI역량집결…美거점중심으로AI인프라투자확대",
   "스페이스X‘호된신고식’…“변동성대비분할매수전략필요”[S머...",
   "\"내집앞은안돼\"…미국AI데이터센터건설'빨간불'",
   "美정부의클로드수출통제…저무는기술자유무역시대",
@@ -6001,7 +5991,17 @@
   "순천향대,디지털새싹인재양성시동",
   "광주간삼성CEO“원전·LNG확대반드시추진해달라\"",
   "신한투자증권작년온실가스배출량7.8%↓..재생에너지비중54%",
-  "전영현\"재생에너지간헐성보완할원전·LNG부탁\"대통령에건의"
+  "전영현\"재생에너지간헐성보완할원전·LNG부탁\"대통령에건의",
+  "6월9위성적표,100억FA보상선수까지빠졌다…\"상황에맞게해야죠\"",
+  "'해결사특명'김현수,한화전서이적후첫5번배치\"투수걱정안하...",
+  "휴대전화개통시안면인증,내달6일부터단계적시행",
+  "日,소버린AI'노에트라'에올해3.7조투입…'피지컬AI'로승부수",
+  "[클릭e종목]\"SK,그룹대규모투자소식계속…목표가↑",
+  "다우-나스닥,반도체-빅테크커지는수익률차이…약세장경고음?[오미...",
+  "삼성증권작년온실가스배출량3.7%↓..녹색프리미엄전기확대",
+  "위메이드,중국계자본에매각…게임·코인사업재조정하나",
+  "이통3사정보보호투자22%↑…SKT증가폭가장컸다",
+  "오픈AI,개발자겨냥'코덱스'전용하드웨어티저공개"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,17 @@
   [
    "2026-06-30T18:04:17.728711+09:00",
    "LNG 확대 반드시 삼성 CEO 추진해달라 원전 광주"
+  ],
+  [
+   "2026-06-30T18:08:16.252775+09:00",
+   "컸다 증가폭 가장 정보보호 이통3사 투자"
+  ],
+  [
+   "2026-06-30T18:08:16.252775+09:00",
+   "코덱스 개발자 하드웨어 공개 전용 겨냥 티저"
   ]
  ],
- "last_run": "2026-06-30T18:06:34.743139+09:00",
+ "last_run": "2026-06-30T18:08:37.254470+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
