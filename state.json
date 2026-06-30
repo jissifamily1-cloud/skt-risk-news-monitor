@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1980703",
-  "https://www.ddaily.co.kr/page/view/2026063010192359603",
   "https://www.delighti.co.kr/news/articleView.html?idxno=118346",
   "https://www.gukjenews.com/news/articleView.html?idxno=3621601",
   "https://www.gukjenews.com/news/articleView.html?idxno=3621594",
@@ -2999,11 +2997,11 @@
   "https://www.newspim.com/news/view/20260701000069",
   "http://www.yonhapnewstv.co.kr/news/MYH20260701075001BfV",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6834123_37012.html",
-  "https://www.g-enews.com/view.php?ud=20260701074701693e7e8286d56_1"
+  "https://www.g-enews.com/view.php?ud=20260701074701693e7e8286d56_1",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=279412",
+  "http://www.newsprime.co.kr/news/article.html?no=738588"
  ],
  "seen_titles": [
-  "SKT4월휴대폰점유율39.0%…KT23.3%·LGU+19.5%순",
-  "프라이빗테크놀로지\"N2SF·AI·VPP융합에너지운영체계구축\"",
   "\"가전사고20%환급받아전통시장으로\"…삼성전자,'감사페스티벌'현...",
   "제8회창녕군수기전국궁도대회성황리마무리…창원강무정단체전우...",
   "창녕군,찾아가는군민안전교실운영…\"취약계층안전강화\"",
@@ -6001,7 +5999,9 @@
   "[AIMY뉴스]1일중국증시'박스권진동속전반적상승,기술하드웨어...",
   "[3분증시]뉴욕증시,상반기'초강세장'으로마감",
   "뉴욕증시,기술주반등에이틀째상승‥나스닥1.5%↑",
-  "日통신대기업NTT도코모비즈니스,AI·IoT분야에수천억엔규모M&..."
+  "日통신대기업NTT도코모비즈니스,AI·IoT분야에수천억엔규모M&...",
+  "뉴욕증시,기술주강세에이틀째상승…나스닥1.5%↑",
+  "심텍,'소캠2'본격양산속'엔비디아최대공급사'주목…반도체PCB업..."
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,13 @@
   [
    "2026-07-01T07:52:15.740144+09:00",
    "비즈니스 규모 통신 대기업 IoT 수천억 NTT 분야에 도코모"
+  ],
+  [
+   "2026-07-01T07:54:15.001124+09:00",
+   "소캠2 PCB 주목 반도체 공급사 양산 본격 심텍"
   ]
  ],
- "last_run": "2026-07-01T07:52:40.203987+09:00",
+ "last_run": "2026-07-01T07:54:38.731556+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
