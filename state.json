@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026062922511374674",
-  "https://www.newspim.com/news/view/20260629001444",
-  "http://coinreaders.com/245122",
-  "http://www.e-platform.net/news/articleView.html?idxno=103400",
-  "https://biz.heraldcorp.com/article/10791781",
-  "https://www.cnbizm.com/news/articleView.html?idxno=306882",
-  "https://www.koreajoongangdaily.com/bilingual-news/chinas-science-and-technology-race-moves-at-the-pace-of-a-decade-each-year-kor/12744698",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47145",
-  "https://www.ytn.co.kr/_ln/0103_202606290835179562",
   "https://www.insight.co.kr/news/560511",
   "https://www.sedaily.com/article/20061122",
   "https://biz.chosun.com/topics/topics_social/2026/06/29/AEFFLF4ZZRHWTENDB4JHXDVNFM/",
@@ -2999,18 +2990,18 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247623&CMPT_CD=P0010",
   "https://www.mt.co.kr/industry/2026/06/30/2026063012180541174",
   "https://nownews.seoul.co.kr/news/newsView.php?id=20260630601022&wlog_tag3=naver",
-  "https://www.mk.co.kr/article/12086886"
+  "https://www.mk.co.kr/article/12086886",
+  "http://www.boannews.com/media/view.asp?idx=144421&kind=3",
+  "http://www.4th.kr/news/articleView.html?idxno=2113981",
+  "https://www.news2day.co.kr/article/20260630500230",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422660",
+  "https://mhnse.com/news/articleView.html?idxno=1447667",
+  "https://www.imaeil.com/page/view/2026063017515195846",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=433982",
+  "https://www.newsis.com/view/NISX20260630_0003690205",
+  "http://fpn119.co.kr/253203"
  ],
  "seen_titles": [
-  "[다산칼럼]21세기'발전국가'의성공조건",
-  "흙없는농장…‘수직매직’꿈꾸는LG",
-  "[김대호진단]돈의질서⑮국경선을넘어라\"글로벌머니노마드\"...기...",
-  "델테크놀로지스,차세대슈퍼컴서버신제품공개",
-  "뉴욕증시,지난주하락딛고나스닥1.2%상승",
-  "“청년집단지성으로풍력난제푼다”…동서발전,풍력발전AI경진대회...",
-  "[뉴욕증시]일제히상승출발…기술주반등에나스닥1%대↑",
-  "[AIMY뉴스]뉴욕반도체주프리뷰...중동리스크완화에AI반도체반등...",
-  "매그니피센트7,22년만에네번째쇼크...기술주던지고'소프트웨어'...",
   "동서발전,'풍력발전량예측인공지능경진대회'로풍력난제해결한다",
   "‘포브스2000기업’삼성전자15위,SK하이닉스107계단‘껑충’…韓6...",
   "유영상SKAI위원장\"AI협력생태계기반으로글로벌네트워크확대\"",
@@ -6001,7 +5992,16 @@
   "삼전닉스800조이어삼성SDS17조·앰코코리아1조투자",
   "\"지금은호황,투자이후가문제\"…반도체'사이클반전'우려",
   "“연봉6억대줄게…형이랑우주사업하자”…젠슨황의다음승부수[...",
-  "매경뉴스읽으면…AI가종목상세정보까지술술"
+  "매경뉴스읽으면…AI가종목상세정보까지술술",
+  "‘메가투자’삼전닉스,보안투자도대폭확대",
+  "대포폰막는다..휴대전화개통안면인증내달시행",
+  "[현장]CJ올리브영,북성수에'뷰티맨션'오픈…'K뷰티체험'거점확장",
+  "마이크론등4종목,2분기美증시이익성장에54%기여",
+  "허남준,명실상부'대세'반열…출연만하면화제성1위",
+  "'삼전사장출신'고동진\"호남반도체투자,한달새추진된졸속계획...",
+  "전남·광주,'800조반도체'흔들기...국민의힘향해'구태정치'맹공",
+  "이대통령\"용인·호남반도체클러스트동시진행…제가끝까지책임있...",
+  "대전동부소방서장,KT대전지사현장안전점검…배터리화재예방강화"
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-06-30T17:52:17.463857+09:00",
    "종목 상세정보까지 술술 읽으면 매경 AI가"
+  ],
+  [
+   "2026-06-30T17:54:15.564497+09:00",
+   "현장 대전동부소방서장 KT대전지사 강화 화재 예방 안전점검 배터리"
   ]
  ],
- "last_run": "2026-06-30T17:52:35.991101+09:00",
+ "last_run": "2026-06-30T17:54:40.005959+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7037,6 +7041,7 @@
   "dailysportshankook.co.kr": "데일리스포츠한국",
   "mdilbo.com": "mdilbo.com",
   "ktv.go.kr": "ktv.go.kr",
-  "srn.hcn.co.kr": "srn.hcn.co.kr"
+  "srn.hcn.co.kr": "srn.hcn.co.kr",
+  "fpn119.co.kr": "FPN"
  }
 }
