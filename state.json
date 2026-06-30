@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20035823",
-  "https://www.hankyung.com/article/202604216505i",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013171",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=04063926645418088",
   "https://www.mk.co.kr/article/12021205",
   "https://www.sedaily.com/article/20034067",
   "https://biz.sbs.co.kr/article_hub/20000304912?division=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.incheonilbo.com/news/articleView.html?idxno=1326233",
   "https://biz.sbs.co.kr/article_hub/20000319854?division=NAVER",
   "https://it.donga.com/109109/",
-  "http://www.inews365.com/news/article.html?no=925586"
+  "http://www.inews365.com/news/article.html?no=925586",
+  "https://it.donga.com/109105/",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714557",
+  "https://news.bizwatch.co.kr/article/mobile/2026/06/30/0051",
+  "https://www.dt.co.kr/article/12070396"
  ],
  "seen_titles": [
-  "클로드쇼크...‘사스포칼립스’넘어‘화이트칼라대공황’까지[엔스...",
-  "앤스로픽,오픈AI몸값넘나…'기업가치9000억달러'투자유치검토",
-  "구글직원560여명“군사용AI제공중단해야”…피차이에공개서한",
-  "\"아일랜드는'유럽의실리콘밸리'…韓AI기업,EU진출발판될것\"",
   "직원들피눈물에주주들환호하던메타…8000명해고하니벌어진일",
   "오픈AI,새모델GPT-5.5출시…앤스로픽은보안논란구설수",
   "AWS“에이전틱AI로파트너사생산성85%끌어올려”",
@@ -6001,7 +5997,11 @@
   "[인천5대관광거점]①개항장문화지구,조선의바닷길관문…머무는...",
   "지난해이통3사정보보호투자3천675억…22%↑",
   "[위클리AI]앤트로픽·퀄컴·오픈AI,영역확장본격화...성과에관심집...",
-  "반도체충북투자차질없도록준비해야"
+  "반도체충북투자차질없도록준비해야",
+  "에릭징젠스파크CEO“한국에도AI창작의불꽃밝힐것”",
+  "이통3사보안투자3675억원'역대최대'…SKT증가폭1위",
+  "SK텔레콤,정보보호1434억원투자…보안역량강화",
+  "[르포]1층상가엔빛바랜임대딱지…“절망뿐인광주에인공호흡기”"
  ],
  "recent_sigs": [
   [
@@ -6747,9 +6747,13 @@
   [
    "2026-06-30T18:58:15.124991+09:00",
    "확장 앤트로픽 성과에 본격화 영역 퀄컴 관심"
+  ],
+  [
+   "2026-06-30T19:00:49.019427+09:00",
+   "인공호흡기 임대딱지 1층 빛바랜 상가엔 절망뿐인 광주에"
   ]
  ],
- "last_run": "2026-06-30T18:58:38.586314+09:00",
+ "last_run": "2026-06-30T19:01:13.574630+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
