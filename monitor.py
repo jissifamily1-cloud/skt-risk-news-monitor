@@ -124,12 +124,43 @@ def _title_tokens(title):
         if w in _STOP_TOKENS or w.lower() in _KW_LOWER or w.isdigit():
             continue
         out.add(w)
+    out |= _carriers(title)
+    return out
+
+
+_CARRIER_IDS = ("~SKT", "~KT", "~LGU")
+
+
+def _carriers(title):
+    """Distinct telecom carrier tags (KT/SKT/LGU+) named in the title.
+
+    Same-story articles angled on different carriers must not be merged as
+    near-duplicates, so each carrier becomes a distinguishing '~' token.
+    """
+    text = _clean_text(title)
+    skt_ko = "SK" + chr(0xD154) + chr(0xB808) + chr(0xCF64)   # SK + Korean for telecom
+    lgu_ko = chr(0xC720) + chr(0xD50C) + chr(0xB7EC) + chr(0xC2A4)   # Korean for U-plus
+    out = set()
+    if _contains_keyword(text, "SKT") or skt_ko in text:
+        out.add("~SKT")
+    if _contains_keyword(text, "KT"):
+        out.add("~KT")
+    if (lgu_ko in text) or ("LGU" in text):
+        out.add("~LGU")
     return out
 
 
 def _is_near_dup(tokens, sig_list):
     """tokens가 sig_list 중 하나와 고유어를 NEAR_DUP_MIN_SHARED개 이상 공유하면 True."""
-    return any(len(tokens & s) >= NEAR_DUP_MIN_SHARED for s in sig_list)
+    a_car = {x for x in tokens if x[:1] == "~"}
+    a_gen = tokens - a_car
+    for s in sig_list:
+        b_car = {x for x in s if x[:1] == "~"}
+        if a_car and b_car and a_car.isdisjoint(b_car):
+            continue
+        if len(a_gen & (s - b_car)) >= NEAR_DUP_MIN_SHARED:
+            return True
+    return False
 
 
 def _load_recent_sigs(state, now):
