@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbnews.com/news/articleView.html?idxno=1006279",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7172151",
-  "http://www.metroseoul.co.kr/article/20260630500070",
-  "https://www.g-enews.com/view.php?ud=202606301014469534fbbec65dfb_1",
-  "https://byline.network/?p=9004111222610166",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679507",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714436",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=250820",
   "https://biz.chosun.com/it-science/ict/2026/06/30/QME7NL3RBRHHRBIOF7KPVVWEDY/",
   "https://www.inthenews.co.kr/news/article.html?no=88693",
@@ -2999,16 +2992,16 @@
   "https://www.bntnews.co.kr/article/view/bnt202607010044",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361324",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4422710",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464436"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464436",
+  "https://kpenews.com/View.aspx?No=4132204",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847174",
+  "https://www.banronbodo.com/news/articleView.html?idxno=32551",
+  "https://kids.donga.com/news/articleView.html?idxno=169174",
+  "https://biz.heraldcorp.com/article/10793698",
+  "https://www.etoday.co.kr/news/view/2598947",
+  "https://www.pennmike.com/news/articleView.html?idxno=122961"
  ],
  "seen_titles": [
-  "[구병두의세상읽기]\"지금이AI투자적기(適期)\"···국가차원인프라...",
-  "한미반도체,AI반도체핵심장비'2.5DTC본더40'출시",
-  "[인터뷰]빈센트\"과열아닌상승장초입…돈은AI병목으로흐른다\"",
-  "AI투자사이클의숨은병목,전력망과기후리스크",
-  "금융보안원“해외금융권,회사별위험따라보안체계운영”",
-  "아이폰18프로,출시전무더기'유출'…낙하테스트·A20칩설계도까지",
-  "[Tech&Now]한컴위드,PQC기반웹보안솔루션출시·교원그룹,교육브...",
   "한컴위드,PQC무설치웹구간암호화솔루션'한컴엑스에프웹'출시",
   "한컴위드,무설치보안솔루션‘한컴엑스에프웹’출시…“보안성·편...",
   "SKTAI영상합성기술‘인서트애니웨어’,유럽컴퓨터비전학회서기...",
@@ -6001,7 +5994,14 @@
   "‘닥터섬보이’이수경성장서사",
   "비용이가른이통3사,2분기실적양극화…하반기승부처는'AI'",
   "'빅쇼트버리'\"한국반도체지출로인한랠리,종말의시작\"",
-  "개미들돈줄마르는데…'하이퍼리퀴드거물'삼킨팬텀의기괴한질주"
+  "개미들돈줄마르는데…'하이퍼리퀴드거물'삼킨팬텀의기괴한질주",
+  "하나증권“GS건설,데이터센터수주로매출도약전망..목표가15.6%상...",
+  "[카드업계거머넌스분석]②현대카드,현대차그룹결제생태계한축.....",
+  "[ESG공시릴레이①]'지속가능경영보고서'공개잇따라...탄소중립·미...",
+  "[시사스터디카페]K반도체대한민국을바꾸다",
+  "전쟁도못막은AI랠리…S&P500·나스닥,팬데믹이후최고분기상승[...",
+  "하나증권“NAVER,AIㆍ클라우드신사업성과있어야주가반등⋯목표주...",
+  "삼성·SK하이닉스전라도수백조투자…시장논리아닌정치논리의산..."
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,13 @@
   [
    "2026-07-01T07:58:14.960179+09:00",
    "거물 하이퍼리퀴드 삼킨 기괴한 개미들 팬텀의 질주 마르는데 돈줄"
+  ],
+  [
+   "2026-07-01T08:00:47.266081+09:00",
+   "투자 전라도 정치 시장 수백조 삼성 논리의 SK하이닉스 아닌 논리"
   ]
  ],
- "last_run": "2026-07-01T07:58:42.139265+09:00",
+ "last_run": "2026-07-01T08:01:12.001630+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
