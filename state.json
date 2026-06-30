@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/politics/2026/06/29/2026062917250281373",
-  "https://zdnet.co.kr/view/?no=20260629172902",
-  "https://jtv.co.kr/news/article.php?id=69856",
-  "https://www.sentv.co.kr/article/view/sentv202606290132",
-  "https://www.newscj.com/news/articleView.html?idxno=3413012",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=103974",
-  "https://magazine.hankyung.com/business/article/202606294859b",
-  "https://kookbang.dema.mil.kr/newsWeb/20260630/4/ATCE_CTGR_0030010000/view.do",
-  "https://www.viva100.com/article/20260629501250",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04890486645486640",
   "http://www.metroseoul.co.kr/article/20260629500468",
   "https://www.sisaweek.com/news/articleView.html?idxno=236407",
@@ -2999,18 +2990,18 @@
   "http://www.beyondpost.co.kr/view.php?ud=202606301038244354be44c0aacd_30",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440417",
   "https://www.newspim.com/news/view/20260630000415",
-  "https://www.meconomynews.com/news/articleView.html?idxno=132350"
+  "https://www.meconomynews.com/news/articleView.html?idxno=132350",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=212718",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240129",
+  "https://www.g-enews.com/view.php?ud=202606301019295463fbbec65dfb_1",
+  "https://www.mk.co.kr/article/12086390",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=80848",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=204187",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92102",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714443",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79580"
  ],
  "seen_titles": [
-  "'메가투자'삼성·SK,AI테이터센터에피지컬AI까지대규모투자단행",
-  "[메가프로젝트]10년간1000조푼다…삼성·SK,반도체·AI'초격차올인...",
-  "전남광주각계한목소리…'800조반도체투자환영'\"",
-  "반도체'호남행'논란…국가전략산업인가,정치프로젝트인가",
-  "SK,'반도체핵심'청주에100조투자…충북경제역대급성장기대감",
-  "[초점]이재용·최태원,같은미래다른해법...\"전국구균형vs지능수...",
-  "\"큰절하고싶다\"…李대통령,이재용·최태원회장에'90도인사'배경은",
-  "방미통위\"OTT도장애인방송노력의무화\"",
-  "전남광주에800조투자확정···전북소외론확산",
   "강위원경제부지사\"전남미래응원\"…30일퇴임",
   "SK,전국AI인프라구축본격화…AI수출국도약시동",
   "SK그룹,AI수출국전환위해전국단위AI인프라구축본격화",
@@ -6001,7 +5992,16 @@
   "“고객센터연결부터일정관리까지”…SKT에이닷,AI에이전트기능강...",
   "SKT,에이닷AI에이전트고도화…고객센터대기까지AI가대신",
   "李대통령\"3대메가프로젝트,수도권1극극복의핵심…정치권대승적...",
-  "골드만삭스·HSBC양자기술실행단계국내금융사는걸음마...\"양자우위..."
+  "골드만삭스·HSBC양자기술실행단계국내금융사는걸음마...\"양자우위...",
+  "NHN클라우드·NHN두레이,금융AI업무혁신맞손",
+  "[이슈리포트]LLM기업의컨설팅화,FDE시대",
+  "AI투자거품경고…삼성·SK하이닉스밸류에이션재평가국면",
+  "“영상에없던물건도AI가‘퐁’만든다”…SKT,세계3대학회서기술...",
+  "SK텔레콤,차세대'4D영상합성'기술로글로벌AI기술경쟁력입증",
+  "SK텔레콤,AI영상합성기술세계적비전학회서소개한다",
+  "삼성·SK,4755조투자청사진…\"지원책·실행력에달렸다\"",
+  "[Gov&Now]14세이상청소년온라인아이핀발급서비스시행",
+  "SK닉스美낸드법인,'AI관련공동투자플랫폼'역할예상"
  ],
  "recent_sigs": [
   [
@@ -6787,9 +6787,13 @@
   [
    "2026-06-30T10:46:14.878886+09:00",
    "국내 실행단계 골드만삭스 걸음마 HSBC 양자기술 양자우위 금융사는"
+  ],
+  [
+   "2026-06-30T10:48:16.951963+09:00",
+   "플랫폼 낸드법인 역할 공동투자 SK닉스 예상"
   ]
  ],
- "last_run": "2026-06-30T10:46:39.345792+09:00",
+ "last_run": "2026-06-30T10:48:35.459503+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
