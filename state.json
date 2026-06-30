@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.jeollailbo.com/news/articleView.html?idxno=795765",
-  "https://www.mk.co.kr/article/11995041",
-  "https://www.dt.co.kr/article/12052286",
-  "https://view.asiae.co.kr/article/2026031810245871379",
-  "https://view.asiae.co.kr/article/2026031709142305461",
-  "https://view.asiae.co.kr/article/2026031609504350669",
   "https://www.news1.kr/it-science/general-it/6099415",
   "https://www.sedaily.com/article/20017560",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=03089766645382008",
@@ -2999,15 +2993,15 @@
   "http://www.jndn.com/article.php?aid=1782814064435248008",
   "https://www.todayeconomic.com/news/article.html?no=31132",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598512",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422677"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422677",
+  "https://www.sportschosun.com/baseball/2026-06-30/202606300100208910013976",
+  "https://sports.khan.co.kr/article/202606301915003?pt=nv",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635266&plink=ORI&cooper=NAVER",
+  "https://it.donga.com/109110/",
+  "http://www.journalist.or.kr/news/article.html?no=61187",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207385"
  ],
  "seen_titles": [
-  "“GPT가보고서쓰고,클로드가논평한다”…MS,연구에이전트AI신기...",
-  "단종수순·생산중단까지···벼랑끝에선소비자용메모리,그이유...",
-  "칭기즈칸의역참에서펜타곤의AI까지:전쟁을바꾼정보의속도",
-  "상승세탄앤스로픽,10년복수이룰까",
-  "앤스로픽내부문건유출…차세대AI‘클로드미토스’실체드러났다",
-  "삼성·SK하이닉스최대고객이백악관입성…HBM·자율주행표준설계권...",
   "AI의전쟁설계",
   "AI조종대잡으려는미국…정부·기업총출동해표준선점‘사활’",
   "아마존CEO\"AWS,AI덕에2036년매출6000억달러전망\"",
@@ -6001,7 +5995,13 @@
   "정치권은'전남·광주반도체'흔들지말라",
   "삼성증권,반도체우수기업IR행사‘KSSIRDay’성료",
   "“용인과동시에추진한다”…산단조성10년→5년",
-  "[亞증시-종합]기술주강세에전반적으로상승"
+  "[亞증시-종합]기술주강세에전반적으로상승",
+  "\"빈곳보이면뛴다\"'통산안타+타점1위'통산득점도3위네…1400득점...",
+  "‘KT비상’리드오프최원준,1회수비도중허리‘삐끗’교체[스경...",
+  "'과태료·범칙금납부'교통민원24홈페이지8시간넘게접속장애…\"복...",
+  "개인정보유출사고,기업은어떻게대응해야할까(feat.롯데카드)",
+  "불완전한법의출발,공론장이완성해야",
+  "조회수노린'사이버렉카'정조준…허위조작정보반복유통시과징금..."
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,17 @@
   [
    "2026-06-30T19:12:16.346122+09:00",
    "통신3사 증가 올해 돌파 4000억 정보보안 전망 작년 투자"
+  ],
+  [
+   "2026-06-30T19:18:15.375699+09:00",
+   "불완전한 공론장이 출발 법의 완성해야"
+  ],
+  [
+   "2026-06-30T19:18:15.375699+09:00",
+   "반복 유통 조회수 노린 렉카 사이버 정조준 과징금 허위조작정보"
   ]
  ],
- "last_run": "2026-06-30T19:16:35.457565+09:00",
+ "last_run": "2026-06-30T19:18:39.370944+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
