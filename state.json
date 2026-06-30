@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202606160053",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=845272",
-  "https://www.seoul.co.kr/news/society/accident/2026/06/19/20260619500112?wlog_tag3=naver",
-  "https://www.news1.kr/local/jeju/6202414",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440290",
-  "https://news.mtn.co.kr/news-detail/2026061814192062157",
-  "https://view.asiae.co.kr/article/2026061812454162951",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260618.99099005374",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04283686645483032",
   "https://www.theguru.co.kr/news/article.html?no=103232",
   "https://www.newstree.kr/newsView/ntr202606180003",
@@ -2999,17 +2991,17 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1386788",
   "https://www.m-i.kr/news/articleView.html?idxno=1386785",
   "https://www.newspim.com/news/view/20260630000988",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=361331"
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=361331",
+  "http://www.metroseoul.co.kr/article/20260630500389",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679764",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=416969",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05412006645486968",
+  "https://www.yna.co.kr/view/AKR20260630152400001?input=1195m",
+  "https://www.catchnews.kr/news/articleView.html?idxno=125594",
+  "https://www.donga.com/news/Economy/article/all/20260630/134208975/1",
+  "https://www.newsis.com/view/NISX20260630_0003689982"
  ],
  "seen_titles": [
-  "한화생명,애큐온캐피탈·저축은행품는다[시그널]",
-  "'2026FC온라인슈퍼챔피언스리그서머'구글플레이스폰서십체결",
-  "[미리보는이데일리신문]5000조투입…전국에‘AI거점’만든다",
-  "오늘의경기(6월30일)",
-  "위하준,러닝·웨이트·격투기로다독인체력관리…'세이렌'후더욱단...",
-  "'승승승승'삼성,전반기1위종료꿈아니다…LG와3연전기대감'UP'",
-  "“2만원대라더니알뜰폰보다비싸다”…이통3사통합요금제의함정",
-  "티빙,이용자CI유출...이통사해킹사고보다파장큰이유",
   "“유심빼달라”한마디에이상한예감…이통사점장,6000만원보이스...",
   "\"유심빼달라\"말에수상함감지…이통사대리점장,6000만원피해막아",
   "스페이스X상장이던진충격파···국내이통사,6G경쟁의판이바뀐다",
@@ -6001,7 +5993,15 @@
   "SKT,글로벌학회서AI영상합성성과인정",
   "SKT에이닷,AI가고객센터대기전담…온디바이스기능대폭강화",
   "15GW구축하는SKTACDC…'국내최다'KT·'수도권최대전력'LGU+",
-  "KT,2026년ESG보고서발간…AX연계강화"
+  "KT,2026년ESG보고서발간…AX연계강화",
+  "경기도경제과학진흥원,유망스타트업투자매칭60건성사",
+  "메이투안,롱캣-2.0오픈소스로공개...중국산ASIC5만개로학습",
+  "서부발전,생성형AI로업무혁신속도…'위피봇'공개",
+  "李“SK·삼성·앰코서남권투자,글로벌우위선점의지…정부,확실하...",
+  "李대통령\"용인·서남권클러스터동시추진…확실히책임질것\"",
+  "\"지속가능경영에AX이식속도낼것\"KT'2026년ESG보고서'",
+  "앤스로픽·엔비디아·MS‘삼각동맹’상용화…연합군경쟁본격화",
+  "\"케이블TV,'5극3특'지역균형발전에필수…제도적뒷받침해야\""
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,13 @@
   [
    "2026-06-30T16:20:32.478151+09:00",
    "최다 국내 DC 15GW 구축하는 전력 LGU 수도권 AC"
+  ],
+  [
+   "2026-06-30T16:22:16.487165+09:00",
+   "경쟁 상용화 연합군 MS 본격화 삼각 동맹"
   ]
  ],
- "last_run": "2026-06-30T16:20:57.018907+09:00",
+ "last_run": "2026-06-30T16:22:41.469062+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
