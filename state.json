@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2337895.htm",
-  "https://www.donga.com/news/Economy/article/all/20260628/134197068/2",
-  "http://www.sisacast.kr/news/articleView.html?idxno=97241",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=118342",
-  "https://www.nocutnews.co.kr/news/6540551",
-  "https://www.seoultimes.news/news/article.html?no=2000097193",
   "http://www.economytalk.kr/news/articleView.html?idxno=422329",
   "https://www.yna.co.kr/view/AKR20260630057700001?input=1195m",
   "https://www.etoday.co.kr/news/view/2598632",
@@ -2999,15 +2993,15 @@
   "http://www.osen.co.kr/article/G1112831637",
   "https://isplus.com/article/view/isp202607010001",
   "https://www.farminsight.net/news/articleView.html?idxno=16606",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635710&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635710&plink=ORI&cooper=NAVER",
+  "https://www.bntnews.co.kr/article/view/bnt202607010039",
+  "https://www.mediapen.com/news/view/1107495",
+  "https://www.viewsnnews.com/article?q=236866",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02666646645510256",
+  "https://www.kado.net/news/articleView.html?idxno=2058803",
+  "https://www.newspim.com/news/view/20260701000069"
  ],
  "seen_titles": [
-  "삼성증권,반도체유망기업초청'KSSIR데이'개최",
-  "美,‘미토스5’자국기업접근허용…‘GPT-5.6’도일부기관우선...",
-  "SK텔레콤,AI영상합성기술논문ECCV서채택",
-  "SKT의AI영상합성기술,세계3대컴퓨터비전학회서인정받아",
-  "SKT,AI영상합성기술…세계적컴퓨터비전학회서인정",
-  "SKT,에이닷AI에이전트진화…상담대기부터일정관리까지맡는다",
   "[서남권반도체]\"삼성SK호남800조투자\"…대통령주도반도체프로...",
   "국힘\"반도체투자,강요라면대통령처벌면치못해\"…국조거론",
   "14세이상청소년도온라인으로아이핀발급…방미통위,발급절차개선",
@@ -6001,7 +5995,13 @@
   "리드잡아도안심못해!삼성,상대를질리게하는'역전DNA'[오!쎈창...",
   "역전승1위삼성,무서워진'사자꼬리'",
   "박수진축평원장\"품질평가AI전환으로축산물가치극대화\"",
-  "[뉴욕증시]지수일제히상승…연준의장연설'주목'"
+  "[뉴욕증시]지수일제히상승…연준의장연설'주목'",
+  "‘닥터섬보이’이재욱붕괴…시청률은1위",
+  "2분기美증시최고기업은마이크론...주가240%폭등,시총9200억달러...",
+  "필라델피아반도체지수3.92%↑마이크론0.79%↑",
+  "오픈AI경제학자\"AI가일자리없애지않을것\"",
+  "주요인터넷사업자,지난해불법촬영물등14만여건삭제·접속차단",
+  "[AIMY뉴스]1일중국증시'박스권진동속전반적상승,기술하드웨어..."
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,13 @@
   [
    "2026-07-01T07:44:15.727496+09:00",
    "올해 외면 인에이블러 퇴색 해자 현상 부각과 M7"
+  ],
+  [
+   "2026-07-01T07:50:33.709488+09:00",
+   "진동 박스권 상승 1일 중국증시 기술 전반적 하드웨어"
   ]
  ],
- "last_run": "2026-07-01T07:48:36.837547+09:00",
+ "last_run": "2026-07-01T07:50:52.016208+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
