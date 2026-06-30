@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kjdaily.com/article.php?aid=1782732238681323002",
-  "http://www.kjdaily.com/article.php?aid=1782732241681320002",
-  "https://www.hankookilbo.com/news/article/A2026062918230004150?did=NA",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1326142",
-  "https://www.kyeongin.com/article/1766431",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=640005",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=640051",
-  "http://coinreaders.com/245104",
   "https://www.mbceg.co.kr/post/137775",
   "https://www.tokenpost.kr/news/tech/373670",
   "https://www.khan.co.kr/article/202606292034005",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/PYH20260630124000013?input=1196m",
   "https://www.yna.co.kr/view/AKR20260630118000009?input=1195m",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4422609",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598335"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598335",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43226",
+  "https://www.ajunews.com/view/20260630140408778",
+  "https://www.cnbizm.com/news/articleView.html?idxno=307080",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42072",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04834726645486968",
+  "https://www.ytn.co.kr/_ln/0134_202606301422383745",
+  "http://www.metroseoul.co.kr/article/20260630500296",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2443723"
  ],
  "seen_titles": [
-  "울산,AI생태계주도권잡는다",
-  "울산경찰청직원들,전국평가서치안역량입증",
-  "동서발전,청년집단지성으로'난제푼다'",
-  "‘삼전닉스’800조투자…전남광주‘반도체허브’로",
-  "리플(XRP)2주만에활성주소72%급증…1달러지지선지키면반등가능...",
-  "'전여친언급·SNS해킹'조유식,보란듯백허그인증샷",
-  "‘산업화소외’전남광주‘新반도체기지’도약…“경천동지”",
-  "전남광주특별시,반도체미래핵심거점급부상",
   "삼성·SK,호남반도체공장신설등4755조투자...李\"제대로집행되...",
   "사활걸린'ABC+E'…이재용\"송도바이오집중투자\"",
   "용인반도체클러스터가속도…삼전닉스,완공앞당긴다",
@@ -6001,7 +5993,15 @@
   "휴대전화개통에안면인증도입",
   "애플,AI위험대응해보안패치조기배포",
   "李대통령,'메가프로젝트'전국순회…광주이어아산·진주行",
-  "방미통위“청소년도아이핀온라인발급가능”…법정대리인동의필요"
+  "방미통위“청소년도아이핀온라인발급가능”…법정대리인동의필요",
+  "[오늘의증권]삼성증권·KB증권·NH투자증권·한국투자증권·SK증권",
+  "경기도·경과원,스타트업투자매칭60건성사...G-SUMMIT사전프로그램...",
+  "[트렌드리뷰]'고기'와'치즈'의미친존재감…맘스터치신메뉴먹어보...",
+  "기보,불법브로커차단나선다…신고포상금최대200만원",
+  "\"하루1.3%,年수백%수익보장\"…267억원모은코인폰지사기[only이데일...",
+  "[자막뉴스]'800조승부수'...서남권반도체시대'전격개막'",
+  "하반기부터외환시장24시간개방...임금체불사업주징역최대5년",
+  "시청자가인정한케이블SO지역채널\"지역발전위한필수매체\""
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,17 @@
   [
    "2026-06-30T14:26:15.775407+09:00",
    "무선이 4년 민다 영업익 복귀 데이터센터가 LG유플러스 끌고 1조 만에"
+  ],
+  [
+   "2026-06-30T14:30:42.433250+09:00",
+   "외환시장 사업주 징역 24시간 개방 5년 하반기부터 임금체불"
+  ],
+  [
+   "2026-06-30T14:30:42.433250+09:00",
+   "발전 케이블 시청자가 위한 필수 SO지역채널 매체 지역 인정한"
   ]
  ],
- "last_run": "2026-06-30T14:28:31.207628+09:00",
+ "last_run": "2026-06-30T14:31:06.807789+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
