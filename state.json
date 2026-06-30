@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.klnews.co.kr/news/articleView.html?idxno=321691",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04847846645486640",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260629172223LCJ",
-  "https://www.dt.co.kr/article/12070123",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5202707",
-  "https://www.etnews.com/20260629000433",
-  "https://news.ifm.kr/news/articleView.html?idxno=474006",
-  "https://www.ajunews.com/view/20260629171803513",
   "https://www.chosun.com/national/regional/chungcheong/2026/06/29/WK436DQTPRA67HHH5V5TCZQASM/",
   "https://www.munhwa.com/article/11599028",
   "https://biz.sbs.co.kr/article_hub/20000319529?division=NAVER",
@@ -2999,17 +2991,17 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=847229",
   "https://www.mt.co.kr/policy/2026/06/30/2026063010130333489",
   "https://it.chosun.com/news/articleView.html?idxno=2023092164821",
-  "https://www.ziksir.com/news/articleView.html?idxno=138384"
+  "https://www.ziksir.com/news/articleView.html?idxno=138384",
+  "http://www.fnnews.com/news/202606301019102361",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464157",
+  "https://www.ajunews.com/view/20260630102735336",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189215",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=268750",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=122999",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=603001",
+  "http://www.4th.kr/news/articleView.html?idxno=2113918"
  ],
  "seen_titles": [
-  "[게시판]한컴,한국서부발전에한컴어시스턴트공급등단신",
-  "SK,AI데이터센터1000조·반도체1100조투자…국내초대형프로젝트...",
-  "광주지역경제계·시민들,삼성전자·SK하이닉스800조투자에일제히환...",
-  "[메가프로젝]공장·주거·R&D하나로…규제완화한'기업형첨단도시'...",
-  "정부2000조메가프로젝트서전북'배제'…\"우려가현실로\"",
-  "신용한\"3대메가프로젝트환영…반도체투자전담TF구성\"",
-  "엑스와이지,엔비디아협력피지컬AI인재양성교육운영",
-  "배경훈\"피지컬AI·AIDC육성…세계최초'AI기본사회'열것\"",
   "\"가짜뉴스고의유포시과징금최대10억\"…방미통위,시행령의결",
   "불법·허위조작정보유통방지7월시행…카톡등메신저포함,검색은...",
   "\"홍명보선임잘못됐다\"8건고발…경찰\"적극수사\"[짤e몽땅]",
@@ -6001,7 +5993,15 @@
   "팀카이,오픈AI협업프로그램선정",
   "국립목포대,제5회호남청소년해킹캠프참가자모집",
   "통화대기맡기고문자도요약…SK텔레콤,에이닷개편",
-  "NH농협은행,무선백도어해킹대응체계구축나선다"
+  "NH농협은행,무선백도어해킹대응체계구축나선다",
+  "318개팀몰린'블록체인AI해커톤'…모바일신분증활용도↑",
+  "CXL테마숨고르기…삼성전자·파두중심차별화흐름뚜렷",
+  "[진정자의대한민국증시급등락이야기]사상최고에서사상최대급락...",
+  "15GWAI데이터센터짓는다…SKT,글로벌AI로드맵공개",
+  "SK텔레콤AI서비스'에이닷',상담대기대신맡긴다…고객센터통화도...",
+  "SK텔레콤'에이닷',상담원연결기다려주고문자메시지속일정도정리",
+  "삼전·SK하이닉스,호남반도체클러스터조성…10년간4755조투자",
+  "삼성·SK'호남반도체'어디에?"
  ],
  "recent_sigs": [
   [
@@ -6761,7 +6761,7 @@
    "백도어 구축 나선다 무선 대응체계 NH농협은행"
   ]
  ],
- "last_run": "2026-06-30T10:32:43.428983+09:00",
+ "last_run": "2026-06-30T10:34:34.566552+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
