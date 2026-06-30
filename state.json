@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4420754",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676293",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676235",
-  "https://zdnet.co.kr/view/?no=20260618144646",
-  "https://zdnet.co.kr/view/?no=20260618140251",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676221",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676209",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676121",
   "https://www.aitimes.com/news/articleView.html?idxno=211815",
@@ -2999,15 +2993,15 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=735558",
   "https://www.idomin.com/news/articleView.html?idxno=2009045",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=202293",
-  "https://www.chosun.com/economy/tech_it/2026/06/30/IROI6K5KJRHKDHXV7MGFGN4HIY/"
+  "https://www.chosun.com/economy/tech_it/2026/06/30/IROI6K5KJRHKDHXV7MGFGN4HIY/",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2284848",
+  "https://biz.chosun.com/it-science/ict/2026/06/30/XOXQ76N5WBHBZEGY5R2N2ENKKI/",
+  "https://biz.newdaily.co.kr/site/data/html/2026/06/30/2026063000273.html",
+  "https://www.news1.kr/industry/general-industry/6213296",
+  "https://www.news1.kr/local/jeonbuk/6213314",
+  "https://www.kyeonggi.com/article/20260630580505"
  ],
  "seen_titles": [
-  "아마존MGM,샘알트먼영화'아티피셜'손뗐다",
-  "오픈AI,'트랜스포머'노암샤지어영입...트럼프AI고문도합류",
-  "오픈AI,한국서챗GPT광고서비스시작",
-  "[6월18일]반도체다음은AI모델...G7서떠오른'접근권외교'",
-  "방한돌연연기한오픈AI샘알트먼,사유는'둘째딸출산'",
-  "아모데이·알트먼,G7서'민주국가AI동맹'주장...\"안전문제공동대...",
   "트럼프,G7서AI기업CEO들과美주도글로벌AI규칙논의",
   "샘알트먼오픈AICEO,둘째딸출산으로방한연기",
   "앤트로픽CEO는왜오픈AI를떠났나…\"비전도다르고믿음도없었다\"",
@@ -6001,7 +5995,13 @@
   "[마감시황]반도체주반등...삼성전자3.41%↑·SK하이닉스0.84%↑",
   "이재명대통령3일진주서'영남권첨단산업발전비전'공개",
   "李대통령\"호남투자,역사적으론조족지혈\"[청와대오늘]",
-  "네이버·구글·카카오,작년성착취물등14만건지웠다"
+  "네이버·구글·카카오,작년성착취물등14만건지웠다",
+  "한화김경문\"6월마지막경기,선수들잘해주길\"…캡틴채은성통증재...",
+  "韓도뛰어든‘로봇두뇌’데이터확보전…美는시뮬레이션·中은제...",
+  "박관호의장은'자식같은'위메이드를왜중국에팔았나[비하인드컷]",
+  "[단독]SKT출신AI전문가에릭데이비스,삼성디스플레이합류",
+  "제조혁신피지컬AI협회\"3대메가프로젝트환영…대혁신함께할것\"",
+  "李대통령,반도체컨트롤타워맡는다…“최종책임지고직접챙길것"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,17 @@
   [
    "2026-06-30T17:22:18.656509+09:00",
    "비용 반도체 구축 정부 인프라 지원 서남권"
+  ],
+  [
+   "2026-06-30T17:26:17.107933+09:00",
+   "삼성디스플레이 에릭 출신 데이비스 전문가 합류"
+  ],
+  [
+   "2026-06-30T17:26:17.107933+09:00",
+   "챙길 직접 반도체 컨트롤타워 책임지고 최종 맡는다 대통령"
   ]
  ],
- "last_run": "2026-06-30T17:24:37.095400+09:00",
+ "last_run": "2026-06-30T17:26:41.330205+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
