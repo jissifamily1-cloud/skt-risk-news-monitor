@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260629136500009?input=1195m",
-  "https://www.slist.kr/news/articleView.html?idxno=748563",
-  "http://www.newsprime.co.kr/news/article.html?no=738387",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16117759",
-  "https://www.bloter.net/news/articleView.html?idxno=666819",
   "https://biz.heraldcorp.com/article/10792512",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035588",
   "https://www.newsis.com/view/NISX20260630_0003689064",
@@ -2999,14 +2994,14 @@
   "https://www.munhwa.com/article/11599383",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=80910",
   "http://www.fnnews.com/news/202607010423042435",
-  "http://www.fnnews.com/news/202607010455400682"
+  "http://www.fnnews.com/news/202607010455400682",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758486",
+  "https://www.news1.kr/it-science/general-science/6213138",
+  "https://view.asiae.co.kr/article/2026063015535247223",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758490",
+  "https://www.yakup.com/news/index.html?cat=12&nid=329203"
  ],
  "seen_titles": [
-  "한미반도체,AI시스템반도체용‘2.5DTC본더40’출시",
-  "호남반도체투자수혜주옥석찾기…테마주도기승",
-  "中'가성비'AI모델코딩능력약진에'제2딥시크모멘트'기대감",
-  "[은행가]하나은행'청소년마이데이터'·KB국민카드'펜타포트'티켓이...",
-  "삼성·SK,4755조메가투자…李대통령,이재용·최태원에\"국민영웅\"",
   "엔비디아주가,194.97달러1.27%상승마감",
   "[구광모리더십8년]②저평가탈출LG,다음과제는'자본배분'",
   "외국인‘팔자’에개미도속수무책…코스피,8500터치후결국하락전...",
@@ -6001,7 +5996,12 @@
   "[속보]나스닥21%↑6년만최고분기상승률기염",
   "미국뉴욕증시,AI주반등상승마감…다우사상최고치경신",
   "앤스로픽,과학자전용'클로드사이언스'공개…바이오노린다",
-  "[속보][뉴욕증시]다우지수,이틀연속사상최고…엔비디아,2.5%상승"
+  "[속보][뉴욕증시]다우지수,이틀연속사상최고…엔비디아,2.5%상승",
+  "5대그룹시총5469조,144%↑...SK그룹시총3.6배,삼성2.3배불어",
+  "中지푸·360,美앤트로픽잡는다…사이버보안AI경쟁본격화",
+  "자율주행차보험시장열린다…전용보험개발속도",
+  "통신3사주가희비...SK텔레콤65%'쑥',KT·LGU+상승분반납하며원점...",
+  "인공지능검색,고급브랜드보다대중적브랜드"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,21 @@
   [
    "2026-07-01T06:08:15.139061+09:00",
    "클로드 전용 공개 과학자 바이오 노린다 사이언스"
+  ],
+  [
+   "2026-07-01T06:12:15.396683+09:00",
+   "반납하며 통신3사 원점 ~SKT 상승분 ~LGU 희비 ~KT LGU 주가"
+  ],
+  [
+   "2026-07-01T06:12:15.396683+09:00",
+   "3배 5대 5469조 시총 삼성 6배 SK그룹 불어"
+  ],
+  [
+   "2026-07-01T06:12:15.396683+09:00",
+   "브랜드 인공지능 대중적 고급 검색 브랜드보다"
   ]
  ],
- "last_run": "2026-07-01T06:10:50.837871+09:00",
+ "last_run": "2026-07-01T06:12:48.869636+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6519,6 +6531,7 @@
   "ktv.go.kr": "ktv.go.kr",
   "srn.hcn.co.kr": "srn.hcn.co.kr",
   "fpn119.co.kr": "FPN",
-  "ysmbc.co.kr": "여수MBC"
+  "ysmbc.co.kr": "여수MBC",
+  "yakup.com": "yakup.com"
  }
 }
