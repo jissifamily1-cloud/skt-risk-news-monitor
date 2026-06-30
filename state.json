@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260629001437",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2443589",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3121069",
-  "https://www.ikbc.co.kr/article/view/kbc202606290063",
-  "http://www.cctimes.kr/news/articleView.html?idxno=914010",
-  "http://www.cctimes.kr/news/articleView.html?idxno=914011",
-  "https://slownews.kr/162363",
-  "https://mpmbc.co.kr/NewsArticle/1525191",
-  "http://www.cctimes.kr/news/articleView.html?idxno=914009",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597596",
-  "https://www.khan.co.kr/article/202606292117015",
   "https://www.mediapen.com/news/view/1107202",
   "https://www.gukjenews.com/news/articleView.html?idxno=3621179",
   "https://news.jtbc.co.kr/article/NB12305691?influxDiv=NAVER",
@@ -2999,20 +2988,20 @@
   "http://www.newsbrite.net/news/articleView.html?idxno=198941",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=723547",
   "https://biz.chosun.com/it-science/ict/2026/06/30/CRXA5VRM35G2BKFTRLTLV5UPTQ/",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355319"
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=355319",
+  "https://www.sedaily.com/article/20061882",
+  "http://www.lawissue.co.kr/view.php?ud=20260630144358271067191f6c6e_12",
+  "https://isplus.com/article/view/isp202606300149",
+  "https://www.ekn.kr/web/view.php?key=20260630028527770",
+  "https://www.mk.co.kr/article/12086619",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=305433",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04920006645486968",
+  "https://www.hellot.net/news/article.html?no=113507",
+  "https://www.ytn.co.kr/_ln/0104_202606301445433134",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=659473",
+  "https://www.ytn.co.kr/_ln/0104_202606301445551711"
  ],
  "seen_titles": [
-  "경남‘피지컬AI’기대·우려교차",
-  "이재용은금액빼고,최태원은단서달고…'1000조투자'의조건",
-  "용인예술과학대,제2회예비치과위생사선서식개최…학생들책임다짐",
-  "[3대메가]삼성·SK는4천700조,산업부는1천500조…투자액차이왜(종...",
-  "[종합]\"픽스녹음기,탈모샴푸,대면보험상담,소이비랩\"등6월29일캐시...",
-  "3대메가프로젝트...'대구경북'은없어",
-  "쿠팡개인정보유출에개보위분쟁조정14만6000명신청…역대최대",
-  "성남산업진흥원,기후테크기업글로벌진출지원강화",
-  "SK,전국에15GW규모AI데이터센터구축...반도체벨트에110조원투입",
-  "'삼성·SK800조팹4기'...\"광주반도체새심장으로\"",
-  "반도체빼면충북엔투자내용없다",
   "\"하닉청주100조조기투자대환영\"",
   "SlowLetter:June29,2026.",
   "서남권에'메모리팹4기'구축..800조투자확정",
@@ -6001,13 +5990,20 @@
   "李대통령\"AI·반도체,국가성장핵심축으로육성\"",
   "하닉은과자,현대차는빙과…첨단기업'이색마케팅'활발",
   "[비즈톡톡]“SKT고객개인정보2100만건팝니다”...AI시대스캠에...",
-  "SK실트론몸값다시뛰나…SK·두산협상은'가치재평가'국면"
+  "SK실트론몸값다시뛰나…SK·두산협상은'가치재평가'국면",
+  "이현재하남시장“10조투자유치·5철시대…강남격차줄인다”",
+  "“지역은같아도집값3억차이”…양극화속‘대장단지’몸값부각",
+  "황인엽X이혜리,첫사랑재회…‘그대에게드림’측“가슴뜨거울차례...",
+  "시총950조증발에도“두배뛴다”…‘빅쇼트’버리의‘롱승부수’...",
+  "“고객센터기다림도AI가대신”…SKT에이닷,에이전트강화",
+  "SKT,AI영상합성기술로ECCV2026채택",
+  "SKT,AI영상합성기술'세계3대컴퓨터비전학회'인정받았다",
+  "KT,ESG에도AX실행력접목…2026년ESG보고서발간",
+  "엔비디아도우주AI데이터센터구축박차...연봉6억대채용공고",
+  "NH농협은행,무선백도어해킹대응체계구축나서",
+  "애플,AI해킹우려에이례적조치...보안패치'조기배포'"
  ],
  "recent_sigs": [
-  [
-   "2026-06-30T08:48:15.611991+09:00",
-   "팔란티어 플랫폼 보안 정부용 공개"
-  ],
   [
    "2026-06-30T08:50:33.880450+09:00",
    "프로 해킹으로 아이폰 설계 타타전자 다크웹 유출"
@@ -6751,9 +6747,13 @@
   [
    "2026-06-30T14:46:14.855299+09:00",
    "두산 다시 SK실트론 국면 뛰나 몸값 재평가 SK 협상은 가치"
+  ],
+  [
+   "2026-06-30T14:48:18.537700+09:00",
+   "배포 조기 이례적 보안 조치 애플 우려에 패치"
   ]
  ],
- "last_run": "2026-06-30T14:46:43.891460+09:00",
+ "last_run": "2026-06-30T14:48:36.655842+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
