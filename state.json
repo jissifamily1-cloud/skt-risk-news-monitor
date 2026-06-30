@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202751",
-  "https://www.hani.co.kr/arti/economy/marketing/1265903.html",
-  "https://news.jtbc.co.kr/article/NB12305672?influxDiv=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597385",
-  "https://www.econovill.com/news/articleView.html?idxno=743805",
-  "https://www.busan.com/view/busan/view.php?code=2026062919143824873",
-  "http://www.jndn.com/article.php?aid=1782727947435180001",
-  "https://www.khan.co.kr/article/202606291914001",
   "http://www.spochoo.com/news/articleView.html?idxno=126709",
   "https://sjbnews.com/news/news.php?number=881798",
   "http://www.jjn.co.kr/news/articleView.html?idxno=1045047",
@@ -2999,17 +2991,17 @@
   "https://www.mk.co.kr/article/12086542",
   "https://www.m-i.kr/news/articleView.html?idxno=1386665",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2216962",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270164"
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1270164",
+  "http://www.beyondpost.co.kr/view.php?ud=202606301344225534205868f676_30",
+  "https://www.etoday.co.kr/news/view/2598708",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=119424",
+  "http://www.snmnews.com/news/articleView.html?idxno=571446",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240134",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068010",
+  "https://www.g-enews.com/view.php?ud=202606301102587632fda4f5ab74_1",
+  "https://www.dt.co.kr/article/12070268"
  ],
  "seen_titles": [
-  "재생에너지·용수·드넓은부지…수도권한계넘을최적지",
-  "4700조투자발표한이재용·최태원…90도허리굽힌이대통령\"국민영...",
-  "삼성,미래산업육성위해국내에2,655조원역대급투자....광주에신...",
-  "이대통령“서남권에반도체등대규모투자…‘메가프로젝트’직접...",
-  "제주빠진‘3대메가프로젝트’",
-  "‘K-스타게이트’프로젝트에550조원…울산·동해·세종에AI데이터센...",
-  "825조반도체투자유력부지는어디?…일단삼전은광주로",
-  "호남에삼전·닉스팹2기씩짓고,용인산단완공도앞당긴다",
   "이재용·최태원에\"국가영웅\"…90도숙이고전폭지원약속",
   "서남권‘거물급투자’…부산은‘원론적확대’",
   "자체AI칩'할라페뇨'꺼낸오픈AI…엔비디아에매운맛?",
@@ -6001,13 +5993,17 @@
   "메타,경쟁사AI사용제한...‘증류’방지나섰다",
   "뷰런,보쉬오픈이노베이션선정…LiDAR안전기술PoC추진",
   "SKT'에이닷',고객센터대기·문자정리까지대신해준다",
-  "김영록지사\"전남·광주반도체거점,지방주도성장전환점\""
+  "김영록지사\"전남·광주반도체거점,지방주도성장전환점\"",
+  "서울분양가3년새2배,목동신축희소성커진다",
+  "휴대폰개통안면인증7월6일부터…모바일신분증·초본대체인증가능",
+  "삼성증권,유망반도체기업IR행사",
+  "재료硏,'2026KIMS패밀리기업PartnershipDay'개최",
+  "방미통위,허위조작정보규제7월시행…대형플랫폼운영기준확정",
+  "대신증권SK텔레콤이익개선기대목표가유지",
+  "엔비디아中수출'제로(0)'...美수출통제·中기술자립·수출전략협공",
+  "㈜아르케,청년아이디어로K-콘텐츠산업의미래그린다…‘미래내일..."
  ],
  "recent_sigs": [
-  [
-   "2026-06-30T07:48:17.383891+09:00",
-   "모내기 보급 확대 태양광 자유롭게 아래"
-  ],
   [
    "2026-06-30T07:52:14.950589+09:00",
    "알파벳A 최고 사상 활짝 미국증시 다우지수"
@@ -6679,9 +6675,17 @@
   [
    "2026-06-30T13:48:15.247198+09:00",
    "광주 반도체 거점 김영록 전환점 지사 전남 지방주도 성장"
+  ],
+  [
+   "2026-06-30T13:50:33.220644+09:00",
+   "콘텐츠 아이디어로 미래 청년 산업의 그린다 미래내일 아르케"
+  ],
+  [
+   "2026-06-30T13:50:33.220644+09:00",
+   "협공 기술 수출 자립 수출통제 제로 전략"
   ]
  ],
- "last_run": "2026-06-30T13:48:39.842285+09:00",
+ "last_run": "2026-06-30T13:50:59.866570+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
