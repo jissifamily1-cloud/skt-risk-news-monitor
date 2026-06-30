@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://m.skyedaily.com/news_view.html?ID=306856",
-  "https://www.betanews.net/article/view/beta202606290080",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6833717_37004.html",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6833716_37004.html",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6833715_37004.html",
-  "https://news.jtbc.co.kr/article/NB12305657?influxDiv=NAVER",
-  "https://www.asiatime.co.kr/article/20260629500416",
   "https://www.nocutnews.co.kr/news/6540371",
   "https://www.hidomin.com/news/articleView.html?idxno=711314",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260629010010332",
@@ -2999,16 +2992,16 @@
   "https://www.aitimes.com/news/articleView.html?idxno=212257",
   "http://www.itdaily.kr/news/articleView.html?idxno=240146",
   "https://www.mt.co.kr/policy/2026/06/30/2026063013515171919",
-  "https://biz.sbs.co.kr/article_hub/20000319753?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000319753?division=NAVER",
+  "https://www.insight.co.kr/news/560819",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3621881",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317453",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=264552",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283541788930",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441169",
+  "https://www.ktv.go.kr/content/view?content_id=757217"
  ],
  "seen_titles": [
-  "넥슨'FC온라인'e스포츠대회7월개막…총상금10억원",
-  "쿠팡개인정보분쟁조정14만6000명신청…역대최대규모",
-  "삼성·SK'4700조'마련어떻게?…\"2년영업이익1500조전망\"",
-  "동남권피지컬AI도소외…데이터센터건설땐소부장기회",
-  "[뉴스프라임]여야'메가프로젝트'두고갑론을박공방",
-  "KT'카이로스-X'중단되나···수장교체,흔들린중장기전략\"확실한...",
-  "메가프로젝트시동…서남권반도체800조원투자",
   "외인‘7.7조매도’에원화흔들…환율1545.2원,또금융위기이후최...",
   "이대통령,균형발전승부수‥\"지방발전과반도체수요일치\"",
   "이대통령,이재용·최태원회장에90도인사\"국민영웅\"",
@@ -6001,13 +5994,16 @@
   "오픈클로,iOS·안드로이드모바일앱출시...접근성높였지만진입장벽...",
   "시큐웨이브,'F5AIGuardrailsLabShow2026'개최",
   "美포틀랜드뚫은K반도체스타트업…인텔등빅테크기업과협력물꼬",
-  "李,광주·아산·진주서‘반도체·AI투자'릴레이국민보고회"
+  "李,광주·아산·진주서‘반도체·AI투자'릴레이국민보고회",
+  "휴대전화개통'안면인증'7월6일부터...모바일신분증·초본대체인증...",
+  "중소기업AI도입지원사업추진…경남중기청-한국남동발전협력",
+  "미국400개지역언론,'AI무단활용'공동법적대응",
+  "LG전자,'로보틱스사업센터'신설…류재철CEO직속원포인트조직개편",
+  "성장과균형동시겨냥3대메가프로젝트,초격차대한민국도약계기...",
+  "삼성전자SK하이닉스호남반도체투자에외신평가긍정적,\"AI산업성...",
+  "감사한만큼[정책원샷]"
  ],
  "recent_sigs": [
-  [
-   "2026-06-30T08:12:17.376518+09:00",
-   "우려로 iOS 보안 배포 애플 조기 패치"
-  ],
   [
    "2026-06-30T08:16:15.600120+09:00",
    "기반 ESG 가속 지속가능경영 AX 보고서 발간"
@@ -6707,9 +6703,13 @@
   [
    "2026-06-30T14:10:34.518703+09:00",
    "모델 의존 줄인다 베이스44 공개 외부 업체들 자체"
+  ],
+  [
+   "2026-06-30T14:14:17.090644+09:00",
+   "감사한만큼"
   ]
  ],
- "last_run": "2026-06-30T14:12:37.491658+09:00",
+ "last_run": "2026-06-30T14:14:44.122528+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7075,6 +7075,7 @@
   "joynews24.com": "아이뉴스24",
   "newstnt.com": "뉴스티앤티",
   "dailysportshankook.co.kr": "데일리스포츠한국",
-  "mdilbo.com": "mdilbo.com"
+  "mdilbo.com": "mdilbo.com",
+  "ktv.go.kr": "ktv.go.kr"
  }
 }
