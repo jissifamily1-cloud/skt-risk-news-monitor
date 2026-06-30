@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112830804",
-  "https://www.busan.com/view/busan/view.php?code=2026062918424055577",
-  "https://www.newspim.com/news/view/20260629001277",
-  "https://view.asiae.co.kr/article/2026062918430910872",
-  "https://www.thelec.kr/news/articleView.html?idxno=58770",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310021",
   "http://www.doctorstimes.com/news/articleView.html?idxno=238792",
   "https://biz.sbs.co.kr/article_hub/20000319482?division=NAVER",
@@ -2999,14 +2994,14 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202301",
   "https://www.gukjenews.com/news/articleView.html?idxno=3621735",
   "https://www.newscj.com/news/articleView.html?idxno=3413233",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53021"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53021",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=359514",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132408",
+  "https://kpenews.com/View.aspx?No=4131347",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=314320",
+  "https://www.naeil.com/news/read/593622"
  ],
  "seen_titles": [
-  "[3대메가]李대통령,이재용·최태원에\"국민영웅\"…기업전폭지원약속...",
-  "최태원-노소영‘재산분할’9년만의마침표…다음달24일선고",
-  "물류·금융교차했던왜관에서식민지경제수탈관문으로[김석환의남...",
-  "[미국특징주]\"문제는전력\"…청정에너지·발전기업IPO홍수",
-  "[AIMY뉴스]29일중국증시'정책·기업·산업이벤트3대재료영향'",
   "[CAR브리프]한국타이어ㆍ한국앤컴퍼니ㆍ벤츠ㆍBMWㆍ폴스타ㆍ타타대우...",
   "‘홈런1위-타점2위-타격2위’LG역대최고외인타자,‘트리플크라...",
   "정부발표뒤삼전닉스낙폭축소…코스피0.2%하락마감",
@@ -6001,7 +5996,12 @@
   "'세기의재산분할'7월24일결론…마지막변론기일50분만에종료",
   "세종시교육청,교육공무직원(조리실무사)채용시험'최종합격자발표",
   "'팹1기200조시대'…삼성·SK,천문학적투자비확보총력",
-  "\"AI가만든풍요는누구몫?\"첫직장잃은Z세대가던진질문"
+  "\"AI가만든풍요는누구몫?\"첫직장잃은Z세대가던진질문",
+  "메모리가격하반기에만2배뛴다",
+  "한미반도체,AI반도체용'2.5DTC본더40'출시…첨단패키징장비라...",
+  "SKT,AI영상합성기술인정받아..ECCV2026서논문채택",
+  "국힘\"삼성·SK800조반도체투자,메가프로젝트아닌메가권력농단\"",
+  "기업들‘싼AI가더낫다’기류변화"
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,13 @@
   [
    "2026-06-30T13:08:15.992512+09:00",
    "누구 Z세대가 직장 던진 만든 잃은 풍요는 질문 AI가"
+  ],
+  [
+   "2026-06-30T13:10:33.192237+09:00",
+   "기류 기업들 변화 낫다 AI가"
   ]
  ],
- "last_run": "2026-06-30T13:08:37.902255+09:00",
+ "last_run": "2026-06-30T13:10:57.847611+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
