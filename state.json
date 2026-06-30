@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itbiznews.com/news/articleView.html?idxno=217720",
-  "https://zdnet.co.kr/view/?no=20260629161613",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679306",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82673",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714345",
-  "https://www.dailian.co.kr/news/view/1661182/?sc=Naver",
-  "https://www.econovill.com/news/articleView.html?idxno=743786",
-  "https://www.gokorea.kr/news/articleView.html?idxno=870730",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=314277",
-  "https://weekly.donga.com/3/all/11/6286624/1",
-  "https://www.gokorea.kr/news/articleView.html?idxno=870734",
-  "https://sateconomy.co.kr/news/view/1065596729356745",
   "https://www.joongangenews.com/news/articleView.html?idxno=528932",
   "https://www.dt.co.kr/article/12070095",
   "https://www.mk.co.kr/article/12085713",
@@ -2999,21 +2987,21 @@
   "https://www.etoday.co.kr/news/view/2598544",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4422494",
   "https://www.viva100.com/article/20260630500121",
-  "http://www.newsprime.co.kr/news/article.html?no=738386"
+  "http://www.newsprime.co.kr/news/article.html?no=738386",
+  "https://www.econovill.com/news/articleView.html?idxno=743855",
+  "http://www.bokuennews.com/news/article.html?no=280511",
+  "http://www.popcornnews.net/news/articleView.html?idxno=125140",
+  "https://www.newspim.com/news/view/20260630000239",
+  "https://www.hankyung.com/article/202606294549O",
+  "https://www.hellot.net/news/article.html?no=113483",
+  "https://www.sentv.co.kr/article/view/sentv202606300029",
+  "https://www.mt.co.kr/stock/2026/06/30/2026063009104887710",
+  "https://www.newsis.com/view/NISX20260630_0003688849",
+  "https://www.news1.kr/photos/7982900",
+  "https://www.news1.kr/photos/7982899",
+  "https://www.news1.kr/photos/7982901"
  ],
  "seen_titles": [
-  "이럴수가!238만표받고탈락이라니…손아섭,올스타전출전끝내불발",
-  "스페이스X가직접이통사운영한다?...\"주파수경매참여”,\"종이호랑이...",
-  "코스피,삼전·닉스회복하며약보합마감...코스닥은8%대급등[fn마감...",
-  "알리동맹G마켓,쿠팡·네이버잡는다…7000억투입효과'톡톡'",
-  "장경훈훈씨앤씨대표\"AI시대광고대행사의경쟁력은제작보다운영에...",
-  "포털AI검색올라탄'K-엑사원'…독파모서먼저웃을까",
-  "반도체거점서남권으로확장…삼성·SK,1000조투자",
-  "정부'880조메가프로젝트'청사진에…삼성·SK,대규모'맞춤형투자'...",
-  "SK,2100조AI승부수…데이터센터·반도체에역대최대투자",
-  "李대통령\"청와대직할담당관두고3대메가프로젝트직접챙길것\"등...",
-  "[대한민국대도약전격해부④]李대통령이90도허리굽힌이유\"삼성...",
-  "삼성전자·SK하이닉스,광주·서남권반도체투자…지역경제활성화기...",
   "李대통령,이재용·최태원에\"국민영웅…정부지원확실히\"",
   "전남광주,반도체산업중심된다…800조투입메모리팹구축계획발표",
   "이재명\"이재용·최태원,국가위한영웅적투자자\"…첨단산업발전견...",
@@ -6001,7 +5989,19 @@
   "[특징주]삼전·SK하닉,미반도체주반등에장초반강세",
   "용인앞당기고서남권더한K-반도체…AI호황뒤공급과잉변수",
   "SKT의AI영상합성기술논문,세계적컴퓨터비전학회서채택",
-  "\"충청권반도체패키징거점81조투자…'800조호남'과격차논란\""
+  "\"충청권반도체패키징거점81조투자…'800조호남'과격차논란\"",
+  "에이닷,고객센터대신기다려주고문자속할일까지챙긴다",
+  "세브란스병원,캄보디아난청아동에게'새소리'선물",
+  "삼성전자감사페스티벌,전통시장으로확산…온누리상품권상생효과",
+  "소프트뱅크주도44개기업뭉쳤다...日'국산AI'프로젝트시동",
+  "프로그레스미디어,OpenAISMBChannelPartner기반AI사업확대",
+  "오픈AI,사이버보안특화GPT-5.63종제한공개...미국정부협력속단...",
+  "코스피,강보합출발…삼전닉스동반강세",
+  "삼성전자,장초반상승…미국기술주상승훈풍",
+  "\"그림자·반사까지구현한다\"…SKT,'AI영상합성기술'해외학회논문...",
+  "SKT,고객센터통화대기부터일정관리까지AI가돕는다",
+  "SKT에이닷,AI에이전트기능강화",
+  "SKT'고객센터연결대기,AI가대신맡는다'"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-06-30T09:10:33.506885+09:00",
    "비친 학생들의 배재고 눈에 어른들의 세계"
+  ],
+  [
+   "2026-06-30T09:14:15.852540+09:00",
+   "대기 대신 AI가 맡는다 연결 고객센터"
   ]
  ],
- "last_run": "2026-06-30T09:12:37.970402+09:00",
+ "last_run": "2026-06-30T09:14:37.014767+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
