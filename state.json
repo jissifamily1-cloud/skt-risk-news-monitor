@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreaittimes.com/news/articleView.html?idxno=154836",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599171",
-  "https://www.slist.kr/news/articleView.html?idxno=748827",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3622735",
-  "https://www.pharmnews.com/news/articleView.html?idxno=304575",
-  "https://www.mfgkr.com/news/articleView.html?idxno=28285",
-  "https://www.mfgkr.com/news/articleView.html?idxno=28270",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=45948",
   "http://www.4th.kr/news/articleView.html?idxno=2114004",
   "https://view.asiae.co.kr/article/2026070109535553172",
   "https://www.newstree.kr/newsView/ntr202607010004",
@@ -2999,17 +2991,17 @@
   "https://www.slist.kr/news/articleView.html?idxno=749037",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04070486645486968",
   "https://biz.sbs.co.kr/article_hub/20000320196?division=NAVER",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008637935&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008637935&plink=ORI&cooper=NAVER",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=81029",
+  "https://www.mydaily.co.kr/page/view/2026070208150744426",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=697443",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714766",
+  "http://www.economytalk.kr/news/articleView.html?idxno=422387",
+  "http://www.joseilbo.com/news/news_read.php?uid=571132&class=53",
+  "https://www.newsis.com/view/NISX20260702_0003692608",
+  "https://view.asiae.co.kr/article/2026070208115755795"
  ],
  "seen_titles": [
-  "엔비디아,5년만에RTX3060생산재개…가격은339달러",
-  "시흥시'시흥써머비트페스티벌'…거북섬서서핑·음악축제",
-  "람다256노딧,기관용온체인데이터서비스'데이터셰어'베타출시",
-  "SK브로드밴드,지상파·실시간채널담은'Btv+max'출시",
-  "LG유플러스,ESG공시고도화…지속가능경영보고서발간",
-  "LG유플러스,ESG보고서발간...AI·정보보안·디지털포용성과공개",
-  "간편결제도입7주년맞은KT…\"럭키7이벤트진행\"",
-  "급작스럽폭우-우천중단뒤에도뜨거웠던한화생명볼파크,노게임선언...",
   "\"대포폰막아야\"…이통사·알뜰폰·유통업계,안면인증찬성",
   "강원랜드,'AI중독예방상담챗봇'정식오픈…24시간도박문제상담지...",
   "[종목분석]삼성전자영업익97%메모리…AI수혜부각",
@@ -6001,7 +5993,15 @@
   "[은행가]하나은행'하나나라사랑카드'캐시백·국민카드긱워커체크...",
   "“머스크스페이스X,‘트럼프계좌’에주식기부논의”",
   "[굿모닝마켓]뉴욕증시,반도체주매도에약세마감…나스닥0.66%↓",
-  "고민수\"OTT도장애인방송제공노력의무…장벽없는미디어생태계..."
+  "고민수\"OTT도장애인방송제공노력의무…장벽없는미디어생태계...",
+  "롯데카드,통신3사와손잡고AI로보이스피싱철벽방어나선다",
+  "정말잘데려왔다두경기연속3안타두산김민석…'제2의이정후'평가...",
+  "토스뱅크,올1분기300억흑자···충당금이만든착시",
+  "스페이스X,이번엔'AI기기'도전하나…머스크다음타깃'디바이스'",
+  "[최카피의딴생각]격이달라진나라의\"아재\"",
+  "뉴욕증시,AI반도체주급락에약세…마이크론·샌디스크10%대추락",
+  "삼전·SK하닉,프리마켓서5%안팎약세…美마이크론급락여파",
+  "[굿모닝증시]마이크론10%뚝…韓증시약세출발전망"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,13 @@
   [
    "2026-07-02T08:16:16.448876+09:00",
    "생태계 OTT도 장벽 미디어 의무 없는 고민수 장애인 노력 제공 방송"
+  ],
+  [
+   "2026-07-02T08:18:16.795901+09:00",
+   "롯데카드 나선다 보이스피싱 철벽 손잡고 AI로 방어 통신3사와"
   ]
  ],
- "last_run": "2026-07-02T08:16:34.482063+09:00",
+ "last_run": "2026-07-02T08:18:34.677473+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
