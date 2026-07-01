@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202606301736372396fbbec65dfb_1",
-  "https://www.newspim.com/news/view/20260701000003",
-  "https://www.donga.com/news/Economy/article/all/20260630/134211565/2",
-  "https://www.ppss.kr/news/articleView.html?idxno=300540",
-  "https://zdnet.co.kr/view/?no=20260630234220",
   "https://view.asiae.co.kr/article/2026063023362211028",
   "https://www.donga.com/news/Opinion/article/all/20260630/134212626/2",
   "https://www.thepublic.kr/news/articleView.html?idxno=309646",
@@ -2999,14 +2994,14 @@
   "http://www.hellodd.com/news/articleView.html?idxno=112330",
   "https://www.aitimes.kr/news/articleView.html?idxno=40780",
   "https://www.mk.co.kr/article/12088039",
-  "http://www.fnnews.com/news/202607011805003647"
+  "http://www.fnnews.com/news/202607011805003647",
+  "http://www.fnnews.com/news/202607011805469583",
+  "https://www.aitimes.com/news/articleView.html?idxno=212332",
+  "https://www.m-i.kr/news/articleView.html?idxno=1387328",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=15916",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403793"
  ],
  "seen_titles": [
-  "日서잘나가는삼성갤럭시…노태문사장도스마트폰직접챙겼다",
-  "경북ICT기업6곳,MWC상하이서AI·드론등신기술선보여",
-  "미국AI반도체주,사상최고의분기…100%폭등뒤\"랠리지속될까\"",
-  "새스테이블코인'오픈USD'뜬다...스트라이프·비자등140개기업참여",
-  "앤트로픽,클로드소넷5공개...오퍼스4.8수준성능에가격낮춰",
   "“美기술빌려규제넘는다”…中바이트댄스,퀄컴과차세대‘AI서...",
   "[N2포커스]반도체사상최고분기눈앞…승자는따로있었다",
   "인간과로봇의협동작전,우크라이나전쟁역전의비결",
@@ -6001,7 +5996,12 @@
   "\"피지컬AI,3년내세계1강···실·합성데이터로학습량폭발적확대...",
   "최태원회장,\"AI가답을찾는시대,인간은더나은질문을해야한다\"",
   "\"李임기내호남반도체완공…여야힘모으면충분히가능\"",
-  "앤스로픽AI수출통제해제"
+  "앤스로픽AI수출통제해제",
+  "도넛애호가도메뉴외우는건힘들어…땀냄새도달았던하루[잡(JOB)스...",
+  "마스오토,국내첫트레일러자율주행시행...\"2028년무인화물운송달...",
+  "SK텔레콤,첫정보보호백서발간…중장기보안로드맵공개",
+  "SKT,1GW급AI데이터센터추진…RE100통해전력대응",
+  "최태원회장,\"AI시대인재,답보다질문하는능력중요\""
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,13 @@
   [
    "2026-07-01T18:04:17.924290+09:00",
    "핵심 은행권 망분리 위협 완화 보안 규제 과제"
+  ],
+  [
+   "2026-07-01T18:10:39.088057+09:00",
+   "RE100통해 대응 전력 1GW급 ~SKT 데이터센터"
   ]
  ],
- "last_run": "2026-07-01T18:08:37.977120+09:00",
+ "last_run": "2026-07-01T18:10:56.807796+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
