@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/560819",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3621881",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317453",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264552",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283541788930",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441169",
   "https://www.ktv.go.kr/content/view?content_id=757217",
   "https://www.asiatime.co.kr/article/20260630500269",
   "https://www.ikbc.co.kr/article/view/kbc202606300035",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260701000426",
   "https://www.asiatime.co.kr/article/20260701500087",
   "https://www.dt.co.kr/article/12070460",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422781"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422781",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166757",
+  "https://www.news1.kr/life-culture/book/6210795",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=236943",
+  "https://www.cstimes.com/news/articleView.html?idxno=711806",
+  "https://www.nocutnews.co.kr/news/6541211",
+  "https://www.econovill.com/news/articleView.html?idxno=743988"
  ],
  "seen_titles": [
-  "李,광주·아산·진주서‘반도체·AI투자'릴레이국민보고회",
-  "휴대전화개통'안면인증'7월6일부터...모바일신분증·초본대체인증...",
-  "중소기업AI도입지원사업추진…경남중기청-한국남동발전협력",
-  "미국400개지역언론,'AI무단활용'공동법적대응",
-  "LG전자,'로보틱스사업센터'신설…류재철CEO직속원포인트조직개편",
-  "성장과균형동시겨냥3대메가프로젝트,초격차대한민국도약계기...",
   "삼성전자SK하이닉스호남반도체투자에외신평가긍정적,\"AI산업성...",
   "감사한만큼[정책원샷]",
   "'대포폰'원천차단…정부,휴대폰개통에도'안면인증'",
@@ -6001,7 +5995,13 @@
   "[미국특징주]마이클버리,캐터필러공매도선언…\"韓투자발표가AI...",
   "KT,5G·LTE통합요금제출시…공유데이터·QoS강화",
   "T1,신규팝업‘암행천문:별을헤다’2일오픈",
-  "[반도체4천700조투자]채권수급호재흔들…공사채발행증가우려도"
+  "[반도체4천700조투자]채권수급호재흔들…공사채발행증가우려도",
+  "유진테크주가,급등세...이유는?",
+  "\"초안은1초,확정은하루\"…AI가만든초안을최종안으로바꾸는법",
+  "T1,성수동서체험형전시'암행천문:별을헤다'개최…우승역사한눈...",
+  "LG유플러스,ESG핵심성과담은지속가능경영보고서공개",
+  "KT,5G·LTE통합요금제출시…'요금단순화'",
+  "SK텔레콤,첫정보보호백서공개...보안체계·개인정보보호활동담아"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-07-01T10:40:36.065403+09:00",
    "흔들 우려도 수급호재 증가 발행 채권 공사채"
+  ],
+  [
+   "2026-07-01T10:42:15.597485+09:00",
+   "개인정보 보호 담아 공개 활동 정보보호 보안 체계 ~SKT 백서"
   ]
  ],
- "last_run": "2026-07-01T10:41:02.005143+09:00",
+ "last_run": "2026-07-01T10:42:40.558510+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
