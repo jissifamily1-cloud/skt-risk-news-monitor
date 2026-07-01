@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026063017531075376",
-  "https://www.sentv.co.kr/article/view/sentv202606300094",
-  "https://www.xportsnews.com/article/2166498",
-  "https://www.aitimes.com/news/articleView.html?idxno=212263",
-  "https://www.hankyung.com/article/2026063075291",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=140854",
-  "https://www.sedaily.com/article/20062050",
-  "https://www.nytimes.com/2026/06/30/books/review/dead-but-dreaming-of-electric-sheep-paul-tremblay.html?partner=naver",
   "https://www.jbnews.com/news/articleView.html?idxno=1506782",
   "https://www.sedaily.com/article/20062053",
   "https://www.jbnews.com/news/articleView.html?idxno=1506779",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260701000433",
   "https://news.mtn.co.kr/news-detail/2026070114195060287",
   "https://www.e-science.co.kr/news/articleView.html?idxno=131281",
-  "https://www.jbnews.com/news/articleView.html?idxno=1506868"
+  "https://www.jbnews.com/news/articleView.html?idxno=1506868",
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077093",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3623168",
+  "https://www.youthdaily.co.kr/news/article.html?no=222051",
+  "https://www.dongponews.net/news/articleView.html?idxno=59060",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607010406&t=NN",
+  "https://zdnet.co.kr/view/?no=20260701151715",
+  "https://www.news1.kr/photos/7986887",
+  "https://zdnet.co.kr/view/?no=20260701151415"
  ],
  "seen_titles": [
-  "국가안보과제부상한AI보안…KISIA,산업계공동대응논의",
-  "李대통령\"이재용·최태원과확약…서남권첨단투자,용인과'동시추...",
-  "솔라시도등서남권에896조투자…정부“65만t의용수확보”",
-  "'한화캡틴'돌아온다고했는데…1군엔트리에없었다,대체왜?MOON직...",
-  "과기정통부,“7월6일부터휴대전화개통시안면인증”",
-  "충남데이터·AI창업경진대회,'해양다중위험분석시스템'등대상에...",
-  "트럼프월드서‘써밋’까지이어온고급화…다음타깃은목동·성수",
-  "[유통가상반기돌아보니]⑦컬리·오아시스질주속중위권'생존'몸부...",
   "데이터센터마다GPU수백만장?...근무자적을텐데지역경제도움되나",
   "광주간李대통령\"'쇼아니라진짜구나'보여줄것…내가책임진다\"",
   "편의점진열대오른자동차·HBM스낵",
@@ -6001,7 +5993,15 @@
   "네이버,로봇용인코더'디바인'에언어·오디오접목한다…피지컬AI승...",
   "AI병목,낸드가해결...샌디스크특허에몸값날개",
   "통신요금도'페이'로낸다…KT간편결제누적3조5000억원",
-  "1천100조투자SK하이닉스\"시장둔화땐재무부담\""
+  "1천100조투자SK하이닉스\"시장둔화땐재무부담\"",
+  "경북도,클라우드인재키운다…3년간국비7억2천만원확보",
+  "전북경찰청,홍보대사배우김응수위촉\"도민안전위해힘쓸것\"",
+  "행정개편'직격탄'...위택스등지방세망\"사흘째먹통사태\"",
+  "美진출한국기업에'주한미군전역장병'채용연결",
+  "재계·산업장관만난국회의장“적시입법지원”",
+  "[신간]\"스테이블코인,디지털금융환경구조적변화불러올것\"",
+  "업무협약서명하는최태원회장",
+  "[현장]박형빈서울교대\"AI기본법에아동·청소년보호조항필요\""
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,21 @@
   [
    "2026-07-01T15:18:15.730037+09:00",
    "~KT 페이 3조5000억원 통신요금도 누적 간편결제 낸다"
+  ],
+  [
+   "2026-07-01T15:20:34.520724+09:00",
+   "변화 디지털금융 스테이블코인 구조적 불러올 환경"
+  ],
+  [
+   "2026-07-01T15:20:34.520724+09:00",
+   "서명하는 업무협약 회장"
+  ],
+  [
+   "2026-07-01T15:20:34.520724+09:00",
+   "기본법에 박형빈 서울교대 청소년 필요 보호 조항 아동"
   ]
  ],
- "last_run": "2026-07-01T15:18:45.120644+09:00",
+ "last_run": "2026-07-01T15:21:03.775031+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
