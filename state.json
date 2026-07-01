@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topdaily.kr/articles/110652",
-  "https://www.g-enews.com/view.php?ud=2026062215035075716ed0c62d49_1",
-  "https://www.mk.co.kr/article/12080211",
-  "https://www.betanews.net/article/view/beta202606220050",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4421151",
   "https://www.sidae.com/article/2026061916081733720",
   "https://kookbang.dema.mil.kr/newsWeb/20260622/1/ATCE_CTGR_0060010000/view.do",
   "https://www.rcast.co.kr/news/articleView.html?idxno=31086",
@@ -2999,14 +2994,14 @@
   "https://www.nspna.com/news/?newsid=818904",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464755",
   "https://biz.sbs.co.kr/article_hub/20000320094?division=NAVER",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=127935"
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=127935",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607011230575490495",
+  "https://www.ajunews.com/view/20260701161147146",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847567",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000537423",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51209"
  ],
  "seen_titles": [
-  "서비스에이스,ISO/IEC27001인증취득…정보보안국제표준확보",
-  "통신사유료방송성패의해답은'VOD'활용법[NW리포트]",
-  "SK,전국5개권역에AI데이터센터추가조성",
-  "케이블TV12개사,지방선거밀착선거방송…기초의원까지개표중계",
-  "케이블TVSO,제9회지방선거'지역밀착선거방송'존재감입증",
   "'동네밀착선거방송'선보인케이블TV…AI·숏폼도확대",
   "지상파빈틈메운케이블TV…기초의원정보까지,채널가치재확인",
   "케이블TVSO,제9회지방선거'지역밀착선거방송'으로존재감입증",
@@ -6001,13 +5996,14 @@
   "AWS,고성능AI보안위협증가…‘시프트레프트’강조",
   "[코스피지수선물옵션]삼성전자·SK하이닉스흔들리자뭉칫돈대이동...",
   "[증시인사이트]수출호조에도삼전닉스주춤…\"외국인코스피순매도...",
-  "[정치문법]서남권반도체클러스터조성,균형발전인가관치경제인가"
+  "[정치문법]서남권반도체클러스터조성,균형발전인가관치경제인가",
+  "삼성전자‘세이프포럼2026’개최…2나노로드맵앞세워‘AI생태계...",
+  "[RESET코스닥]황철주주성엔지니어링회장\"코스닥의본질은혁신...당...",
+  "비마이프렌즈,'암행천문'팝업기획·운영전담",
+  "최태원,국회의장만나“법·제도개선”거듭요청[현장영상]",
+  "노소영아트센터나비관장'AI시대배움'공개강연"
  ],
  "recent_sigs": [
-  [
-   "2026-07-01T10:44:16.538424+09:00",
-   "이노베이션아카데미 양성 ~KT 주식회사 위한 케이티 인재 업무협"
-  ],
   [
    "2026-07-01T10:46:15.879762+09:00",
    "소듐냉각고속로 차세대 SMR 상용화 나트 앞당긴다 오클로"
@@ -6659,9 +6655,13 @@
   [
    "2026-07-01T16:42:16.627749+09:00",
    "코스피 순매도 호조에도 수출 외국인 삼전닉스 주춤"
+  ],
+  [
+   "2026-07-01T16:44:18.199314+09:00",
+   "나비 아트센터 공개 관장 배움 AI시대 강연"
   ]
  ],
- "last_run": "2026-07-01T16:42:38.218094+09:00",
+ "last_run": "2026-07-01T16:44:36.515414+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
