@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202606301636438018",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464322",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=845589",
-  "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=06&story_id=NS2026063000035&story_seq=0&soCode=114&socttSn=NS2026063000035&socttSeq=0",
-  "https://economist.co.kr/article/view/ecn202606300041",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714528",
-  "https://www.kyeonggi.com/article/20260629580688",
   "http://www.dailypop.kr/news/articleView.html?idxno=100167",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361340",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=264527",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3623069",
   "https://www.dt.co.kr/article/12070530",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04565766645510256",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714656"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714656",
+  "https://www.newspim.com/news/view/20260701000968",
+  "https://www.etnews.com/20260701000407",
+  "https://www.newspost.kr/news/articleView.html?idxno=223916",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845709",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=603205",
+  "https://zdnet.co.kr/view/?no=20260701140303",
+  "https://www.etoday.co.kr/news/view/2599186"
  ],
  "seen_titles": [
-  "애플,AI해킹위협에보안패치먼저푼다",
-  "5선발고민이어가는NC“태경이가더잘해줘야…이재학도기대중”",
-  "매몰된여성,'라이브방송'으로구조요청…스타링크무료개방덕분",
-  "야구팬들염장지른‘그판정’…‘AI심판’은어떻게돈이됐나[권준...",
-  "KISIA,'AI보안인텔리전스협의체'회의개최…AI보안대응강화나선...",
-  "李대통령\"용인·서남권팹동시구축,삼성·SK회장약속받아\"",
-  "이재명대통령\"삼성·SK에용인·서남권반도체동시추진약속받았다...",
   "'메가프로젝트'지휘봉직접잡은이대통령,'호남반도체'논란정면...",
   "李대통령\"호남얼마나서러웠겠나…반도체로조금이라도만회\"",
   "李대통령\"호남권대규모투자,1년재임중가장보람있는일\"",
@@ -6001,7 +5994,14 @@
   "김해시,7월'기억교실'참가자모집",
   "제9회소방방재기술산업전오는8일개최,최신소방기술선봬",
   "대한상의,美독립250주년맞아'주한미군채용플랫폼'확대…참여기...",
-  "[현장]이진욱LGCNS레드팀팀장\"AI로모의해킹…보안점검5일서5시..."
+  "[현장]이진욱LGCNS레드팀팀장\"AI로모의해킹…보안점검5일서5시...",
+  "[AI프리뷰]1일잠실두산-롯데전,두산벤자민의안정감과롯데로드리...",
+  "삼성전자AI로5G망속도52%높여…日KDDI와실증성공",
+  "[현장]AI메이크업부터피부진단까지…올리브영'뷰티맨션'가보니",
+  "[#IT라운지]'마리특'진행·코나아이'분기배당'·펀진'GS인증1등급'·...",
+  "LG전자,로봇사업가속화위해CEO직속조직신설",
+  "[보안리더]이상운KTCISO\"방대한데이터와인프라바탕세계수준정...",
+  "앤스로픽“페이블5ㆍ미토스5접근차단해제…내일부터순차복구”"
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,13 @@
   [
    "2026-07-01T14:04:16.156432+09:00",
    "보안 이진욱 모의해킹 5시 팀장 점검 LG 5일서 CNS 레드팀 AI로"
+  ],
+  [
+   "2026-07-01T14:06:16.174333+09:00",
+   "인프라 수준 바탕 ~KT 세계 데이터와 CISO 방대한 이상운"
   ]
  ],
- "last_run": "2026-07-01T14:04:41.146494+09:00",
+ "last_run": "2026-07-01T14:06:38.224929+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
