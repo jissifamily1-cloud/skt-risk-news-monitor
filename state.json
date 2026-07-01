@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisaweek.com/news/articleView.html?idxno=236428",
-  "https://mhnse.com/news/articleView.html?idxno=1447648",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=59059",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3622220",
-  "https://www.thepublic.kr/news/articleView.html?idxno=309618",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714551",
-  "https://www.nongmin.com/article/20260630500444",
-  "https://www.g-enews.com/view.php?ud=2026063009514493823d7a510102_1",
-  "https://www.dongascience.com/news/view/78707",
   "https://www.hankookilbo.com/news/article/A2026063017150003434?did=NA",
   "https://www.g-enews.com/view.php?ud=202606301725219481fbbec65dfb_1",
   "https://biz.chosun.com/policy/politics/president_office/2026/06/30/L4QTVYLJS5HY7CK6OUXKARRZDQ/",
@@ -2999,18 +2990,18 @@
   "https://www.irobotnews.com/news/articleView.html?idxno=47196",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04739606645510256",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2218300",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591039476740"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591039476740",
+  "http://www.4th.kr/news/articleView.html?idxno=2114025",
+  "https://www.m-i.kr/news/articleView.html?idxno=1387138",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207404",
+  "https://www.newsis.com/view/NISX20260701_0003691690",
+  "https://www.betanews.net/article/view/beta202607010058",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=123038",
+  "https://swtvnews.com/news/newsview.php?ncode=1065575110407237",
+  "https://www.m-i.kr/news/articleView.html?idxno=1387077",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591638225035"
  ],
  "seen_titles": [
-  "李대통령\"호남투자,역사적으론조족지혈\"[청와대오늘]",
-  "네이버·구글·카카오,작년성착취물등14만건지웠다",
-  "한화김경문\"6월마지막경기,선수들잘해주길\"…캡틴채은성통증재...",
-  "韓도뛰어든‘로봇두뇌’데이터확보전…美는시뮬레이션·中은제...",
-  "박관호의장은'자식같은'위메이드를왜중국에팔았나[비하인드컷]",
-  "[단독]SKT출신AI전문가에릭데이비스,삼성디스플레이합류",
-  "제조혁신피지컬AI협회\"3대메가프로젝트환영…대혁신함께할것\"",
-  "李대통령,반도체컨트롤타워맡는다…“최종책임지고직접챙길것",
-  "\"AI시대시급한과제는?\"…국내보안업계머리맞댔다",
   "거점별발전비전보고회,3일영남권개최",
   "[속보]광주서李대통령“제가확실히책임지겠다…서남권·용인클러스...",
   "광주찾은李대통령“용인·서남권클러스터동시추진…확실히책임질...",
@@ -6001,7 +5992,16 @@
   "\"중국전통제조업까지인공지능기반자동화바람거세\"",
   "최태원\"AI경쟁력,기술만으론안된다\"…경제계AIDC지원확대건의(...",
   "삼성전자,엔비디아AI칩수주앞세워2나노파운드리승부수",
-  "[메가이슈토픽]\"슈퍼카막히니전용기로?\"…기아'수백억하늘경영'논..."
+  "[메가이슈토픽]\"슈퍼카막히니전용기로?\"…기아'수백억하늘경영'논...",
+  "[경제소식]KB금융후원'로보컵2026인천'2일개최",
+  "하남시,민선9기첫결재는'K-컬처'…글로벌문화도시조성본격화",
+  "시큐웨이브,생성형AI위협대응위한F5AIGuardrails세미나개최",
+  "디토닉,UAE상장사프리사이트글로벌육성프로그램에최종선정",
+  "최태원상의회장\"예측불가능성이기업최대난제…국회입법지원절...",
+  "조정식국회의장,경제계와경제도약위한협력방안논의",
+  "KT,간편결제도입7주년기념‘럭키7이벤트’진행…순금·포인트증...",
+  "공주시,충남역사박물관에조선통신사기록'통신사행렬도'사본기탁",
+  "KB국민카드,긱워커맞춤'KB온더고체크카드'출시"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,13 @@
   [
    "2026-07-01T14:48:15.782151+09:00",
    "전용기로 막히니 기아 하늘 경영 수백억 슈퍼카"
+  ],
+  [
+   "2026-07-01T14:50:35.079182+09:00",
+   "온더고 KB KB국민카드 맞춤 출시 체크카드 긱워커"
   ]
  ],
- "last_run": "2026-07-01T14:48:37.166548+09:00",
+ "last_run": "2026-07-01T14:50:59.288306+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
