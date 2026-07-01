@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680011",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680009",
-  "https://www.g-enews.com/view.php?ud=2026063017353652640c8c1c064d_1",
-  "https://www.news2day.co.kr/article/20260701500006",
-  "http://weekly.chosun.com/news/articleView.html?idxno=52928",
-  "https://www.g-enews.com/view.php?ud=202606301809439599fbbec65dfb_1",
-  "https://biz.sbs.co.kr/article_hub/20000319873?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000319871?division=NAVER",
-  "https://www.tokenpost.kr/news/breaking/374029",
   "https://www.g-enews.com/view.php?ud=202606301736372396fbbec65dfb_1",
   "https://www.newspim.com/news/view/20260701000003",
   "https://www.donga.com/news/Economy/article/all/20260630/134211565/2",
@@ -2999,18 +2990,18 @@
   "https://www.newsgn.com/news/articleView.html?idxno=560020",
   "https://www.gukjenews.com/news/articleView.html?idxno=3623501",
   "https://www.mk.co.kr/article/12088031",
-  "https://www.segye.com/newsView/20260701518882?OutUrl=naver"
+  "https://www.segye.com/newsView/20260701518882?OutUrl=naver",
+  "https://www.donga.com/news/Economy/article/all/20260701/134217559/1",
+  "http://www.newstomato.com/ReadNews.aspx?no=1305870&inflow=N",
+  "https://www.munhwa.com/article/11599626",
+  "https://www.mk.co.kr/article/12088048",
+  "http://www.fnnews.com/news/202607011804594794",
+  "http://www.hellodd.com/news/articleView.html?idxno=112330",
+  "https://www.aitimes.kr/news/articleView.html?idxno=40780",
+  "https://www.mk.co.kr/article/12088039",
+  "http://www.fnnews.com/news/202607011805003647"
  ],
  "seen_titles": [
-  "이통3사,통합요금제전환본격화",
-  "[6월5일자]비즈니스포스트아침의주요기사",
-  "이통사,통합요금제맞춰온라인요금제20~50%줄인다",
-  "[김재섭의뒤집어보기]6·3지방선거때도'이통요금인하'물거품,이...",
-  "일부카드사포인트지역화폐서비스…수십조원규모로확산하나",
-  "스페이스X,T모바일까지삼킬까…월가서3000억달러인수시나리오",
-  "휴대폰개통안면인증전면도입…명의도용막는다",
-  "NBC떼어낸컴캐스트,다음은넷플릭스·차터?",
-  "휴대전화개통에안면인증도입…대포폰차단",
   "日서잘나가는삼성갤럭시…노태문사장도스마트폰직접챙겼다",
   "경북ICT기업6곳,MWC상하이서AI·드론등신기술선보여",
   "미국AI반도체주,사상최고의분기…100%폭등뒤\"랠리지속될까\"",
@@ -6001,7 +5992,16 @@
   "BNK경남은행,'BNK경남은행가족문화페스티벌(경가페)'개최…오는7일...",
   "대구광역시,일본뇌염바이러스검출...모기매개감염병예방수칙당부",
   "美,앤트로픽AI'미토스5'수출통제해제",
-  "AI산업한복판에선최태원이전한조언\"AI가답을찾는시대…인간은..."
+  "AI산업한복판에선최태원이전한조언\"AI가답을찾는시대…인간은...",
+  "미사용신용카드포인트2.9조원…李제안에지역화폐전환서비스확대...",
+  "\"청와대'청년펠로우십구성…캐나다잠수함수주'50대50'\"",
+  "‘래플’‘백래시’‘스와팅’‘서드파드’…외계어?알고보니...",
+  "전략자산된AI…美정부,사전승인의무화",
+  "달러치솟고금값폭락…美기술주랠리에달라진자산지도",
+  "\"피지컬AI,3년내세계1강···실·합성데이터로학습량폭발적확대...",
+  "최태원회장,\"AI가답을찾는시대,인간은더나은질문을해야한다\"",
+  "\"李임기내호남반도체완공…여야힘모으면충분히가능\"",
+  "앤스로픽AI수출통제해제"
  ],
  "recent_sigs": [
   [
@@ -6657,7 +6657,7 @@
    "핵심 은행권 망분리 위협 완화 보안 규제 과제"
   ]
  ],
- "last_run": "2026-07-01T18:06:33.369516+09:00",
+ "last_run": "2026-07-01T18:08:37.977120+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
