@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.00news.co.kr/news/articleView.html?idxno=104818",
-  "https://www.sedaily.com/article/20062094",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1166719",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1166710",
-  "https://www.thepublic.kr/news/articleView.html?idxno=309636",
-  "https://www.kbmaeil.com/article/20260630500079",
-  "https://www.thepublic.kr/news/articleView.html?idxno=309638",
   "https://www.thepublic.kr/news/articleView.html?idxno=309619",
   "https://www.pressian.com/pages/articles/2026063017083146452",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06136886645486968",
@@ -2999,16 +2992,16 @@
   "https://www.socialvalue.kr/news/view/1065585037396460",
   "https://www.apnews.kr/news/articleView.html?idxno=3049413",
   "https://www.todayeconomic.com/news/article.html?no=31153",
-  "http://www.metroseoul.co.kr/article/20260701500385"
+  "http://www.metroseoul.co.kr/article/20260701500385",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05005286645510256",
+  "http://www.osen.co.kr/article/G1112831892",
+  "https://en.yna.co.kr/view/AEN20260701007200320?input=2106m",
+  "https://www.techm.kr/news/articleView.html?idxno=153046",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=82765",
+  "http://www.fnnews.com/news/202607011515114314",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81268"
  ],
  "seen_titles": [
-  "한미반도체,AI패키징장비강화…매출영토넓힌다",
-  "[시사플랫폼]이재명대통령,연이틀광주·서남권반도체투자및완성...",
-  "SK가스,울산GPS지분49%양도완료…1조2242억원유동화",
-  "SK,데이터센터·반도체·시스템다쥔다…수천조투자나서는이유는?",
-  "이통3사,정보보호투자모두늘렸다…KT1276억'최대'",
-  "LG유플러스,온실가스배출량4.5%↑",
-  "[#시큐리티포커스]프라이빗'N2SF에너지체계'구축·라온'블록체인...",
   "[#클라우드월드]포티투마루'AX혁신'제시·신세계I&C'지속가능경영...",
   "[칼럼]〈오즈〉를보며눈물을흘린다는것은",
   "[#통신풍향계]SKT'AI영상합성ECCV'채택-'AI에이전트'강화·KT'ES...",
@@ -6001,7 +5994,14 @@
   "이통3사,7월부터5G·LTE요금제통합…'기본통신권'강화",
   "엔씨,초대형신작슈터'신더시티'출시초읽기…어떤게임?",
   "삼성전자,‘세이프포럼2026’개최…AI파운드리생태계확대",
-  "대한상의,주한미군채용플랫폼고도화…한미동맹'일자리협력'으로..."
+  "대한상의,주한미군채용플랫폼고도화…한미동맹'일자리협력'으로...",
+  "[포토]김재희,역시웨지는이것이죠",
+  "'KBO최초눈앞'최정,11시즌연속20홈런까지단2개…또역사쓰나",
+  "KOSPI200ClosingPriceList-3",
+  "[테크M이슈]\"검색창이달라졌다\"네이버·다음,포털AI맞대결...검색...",
+  "[현장]부산항부터미국까지…마스오토,트레일러자율주행으로'화물운...",
+  "최태원회장\"혁신적기에이뤄지도록신속한정비필요\"조정식국회의...",
+  "KT,5G·LTE경계허문통합요금제출시…간편결제이벤트까지"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-07-01T15:38:15.481846+09:00",
    "대신 연구용 클로드 AI가 분석까지 논문부터 단백질"
+  ],
+  [
+   "2026-07-01T15:42:16.093606+09:00",
+   "부산항부터 트레일러 미국까지 자율주행으로 마스오토 화물운"
   ]
  ],
- "last_run": "2026-07-01T15:40:56.819667+09:00",
+ "last_run": "2026-07-01T15:42:40.262758+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
