@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260701091136",
-  "http://www.wsobi.com/news/articleView.html?idxno=314528",
-  "https://www.etoday.co.kr/news/view/2599010",
-  "http://www.paxetv.com/news/articleView.html?idxno=276043",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=250828",
   "http://www.boannews.com/media/view.asp?idx=144399&kind=2",
   "https://www.viva100.com/article/20260701500210",
@@ -2999,13 +2995,13 @@
   "http://www.jbsori.com/news/articleView.html?idxno=17523",
   "https://www.busan.com/view/busan/view.php?code=2026063009442070134",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=758555",
-  "https://www.news1.kr/it-science/mobile/6214890"
+  "https://www.news1.kr/it-science/mobile/6214890",
+  "https://www.news1.kr/industry/sb-founded/6214780",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260702060935MPZ",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758569",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758579"
  ],
  "seen_titles": [
-  "대구광역시,온열질환감시체계가동...9월말까지시민건강보호총력",
-  "NextRise2026에서살펴본한국의방산및항공우주산업의미래",
-  "KSE국제로지스틱,한일역직구물류에카페리선대안제시",
-  "[종합]\"내집등록,키토선생,픽스녹음기,대면보험상담,픽스에어건,빅...",
   "휴몬랩교풀AI,'AroundX''OpenAI협업트랙열림'최종선정",
   "SBA,성장기업CEO커뮤니티‘파운더스라운드’출범",
   "美정부,앤트로픽AI'미토스'수출통제해제…내일서비스재개",
@@ -6001,7 +5997,11 @@
   "\"영원한'전기식민지'되라는말인가?...'전북고립'고착화'호남권반...",
   "휴대전화개통안면인증오는6일부터단계적시행",
   "한국투자증권IT투자액1762억원'톱'...KB·신한·NH투자·하나증권도...",
-  "印공급망해킹에…애플,아이폰18실물·공급망정보유출곤혹"
+  "印공급망해킹에…애플,아이폰18실물·공급망정보유출곤혹",
+  "[인터뷰]\"AC는투자사아닌플랫폼\"…씨엔티테크전화성,코스닥재도전",
+  "뉴욕증시,반도체주매도에약세…마이크론10%'뚝'",
+  "SK그룹시총3.6배폭증했지만계열사10곳중6곳은주가↓...SK하이닉스...",
+  "20대그룹총수3명중1명올들어주식가치하락...이재용59조'톱',최..."
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,17 @@
   [
    "2026-07-02T06:10:38.273912+09:00",
    "애플 실물 해킹에 유출 곤혹 공급망 정보 아이폰18"
+  ],
+  [
+   "2026-07-02T06:12:15.622787+09:00",
+   "SK하이닉스 계열사 6곳은 폭증했지만 10곳 주가 6배 시총 SK그룹"
+  ],
+  [
+   "2026-07-02T06:12:15.622787+09:00",
+   "1명 이재용 3명 올들어 20대 하락 59조 총수 주식가치"
   ]
  ],
- "last_run": "2026-07-02T06:11:23.244001+09:00",
+ "last_run": "2026-07-02T06:12:42.928726+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
