@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607010939081607fbbec65dfb_1",
-  "http://www.breaknews.com/1218112",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=434012",
-  "https://www.g-enews.com/view.php?ud=202607011002068504e8b8a793f7_1",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=314372",
-  "https://www.nc.press/news/articleView.html?idxno=619497",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/01/2026070100063.html",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464537",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444120",
@@ -2999,15 +2993,15 @@
   "https://www.etoday.co.kr/news/view/2599427",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036602",
   "https://www.news1.kr/it-science/cc-newmedia/6215213",
-  "https://www.news1.kr/photos/7987816"
+  "https://www.news1.kr/photos/7987816",
+  "https://www.mydaily.co.kr/page/view/2026070122244190943",
+  "https://www.newspim.com/news/view/20260702000017",
+  "https://www.dailian.co.kr/news/view/1661561/?sc=Naver",
+  "https://www.etoday.co.kr/news/view/2599423",
+  "https://www.news1.kr/photos/7987817",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607020824254880627"
  ],
  "seen_titles": [
-  "T1,팀의역사담은'암행천문:별을헤다'전시성수서개최",
-  "KT,KT클라우드재합병검토…AI전략보다어려운'FI셈법'",
-  "에코프로비엠1.2조유상증자…애프터마켓서급락",
-  "최태원·노소영재산분할파기환송심,변론종결…선고는내달24일",
-  "'세기의재산분할'7월24일결론…마지막변론기일50분만에종료",
-  "세종시체육회,생성형AI실습교육…스마트체육행정앞장",
   "中체화AI기업'엑스스퀘어로봇',기업가치28억달러돌파",
   "WSL국제서핑대회열기…시흥시'써머비트페스티벌'로거북섬달군다",
   "코스피,장초반8,400대혼조세…코스닥은2%대상승",
@@ -6001,7 +5995,13 @@
   "뉴욕증시,반도체주약세에하락…금값,1.1%반등[글로벌마켓모닝브...",
   "SKT,한국서비스품질지수'이통부문'1위…27년연속",
   "\"27년째정상지켰다\"…SKT,한국서비스품질지수이동통신1위",
-  "SKT,'퀀텀코리아2026'참가"
+  "SKT,'퀀텀코리아2026'참가",
+  "'韓최초'한화에있는친형에게130m대형포맞았는데,국가대표세이...",
+  "[현장포커스]마무리첫시즌고비맞은성영탁...KIA뒷문운영시험대",
+  "\"안면인증도입했지만,안해도개통\"…휴대폰개통보안강화실효성...",
+  "반도체주,차익실현에급락⋯마이크론10.6%털썩[뉴욕증시무버]",
+  "SKT,퀀텀코리아서차세대양자암호기술대거공개",
+  "[데스크칼럼]‘호모두두리’의4755조베팅"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,17 @@
   [
    "2026-07-02T08:42:14.719236+09:00",
    "참가 퀀텀코리아 ~SKT"
+  ],
+  [
+   "2026-07-02T08:44:15.568927+09:00",
+   "~SKT 기술 공개 양자암호 퀀텀코리아서 대거 차세대"
+  ],
+  [
+   "2026-07-02T08:44:15.568927+09:00",
+   "베팅 두두리 4755조 호모"
   ]
  ],
- "last_run": "2026-07-02T08:42:40.252531+09:00",
+ "last_run": "2026-07-02T08:44:43.594322+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
