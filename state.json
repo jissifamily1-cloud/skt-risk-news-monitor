@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444108",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=723582",
-  "https://www.hankyung.com/article/202606305902r",
-  "http://www.00news.co.kr/news/articleView.html?idxno=104803",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3622723",
-  "https://www.dt.co.kr/article/12070450",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03371846645510256",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04070486645486968",
   "https://zdnet.co.kr/view/?no=20260701092757",
   "https://www.cnbizm.com/news/articleView.html?idxno=307205",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20260701000862",
   "https://www.yna.co.kr/view/AKR20260702018000075?input=1195m",
   "https://www.munhwa.com/article/11599708",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200018.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/02/2026070200018.html",
+  "https://www.segye.com/newsView/20260701505214?OutUrl=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3623903",
+  "https://www.insight.co.kr/news/561088",
+  "https://www.tokenpost.kr/news/cryptocurrency/374365",
+  "https://www.ajunews.com/view/20260701161407152",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02696166645510584",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=361459"
  ],
  "seen_titles": [
-  "뉴욕버거,한국도로공사와함께고속도로졸음운전예방캠페인전개",
-  "'KoAct미국나스닥채권혼합50액티브'ETF,올해나스닥초과수익",
-  "미국반도체랠리훈풍···코스피8600선출발후보합",
-  "SKT,T1스토리체험전시개최…첫정보보호백서발간",
-  "KT,간편결제7주년이벤트…순금1돈·7000포인트증정",
-  "李'잠자는포인트'지역화폐전환추진…타분야로도확산하나",
-  "앤트로픽AI'미토스'봉인풀렸다…美,수출통제해제",
   "[#IT라운지]QAI-클래시크'파트너십'·카카오'연구지원'·여기어때'할...",
   "K-수출,사상첫1000억달러돌파...'AI인프라기대'국내증시강세출발",
   "마이크론·인텔·AMD,AI반도체광풍에2분기시총2조달러증가",
@@ -6001,7 +5994,14 @@
   "[GAM]미국대형은행들'돈잔치'①배당올리고자사주매입,역대급환...",
   "\"아이폰보다얇은디자인\"…스페이스X,AI기기프로토타입제작",
   "“삼전닉스호남투자는붕괴신호탄”…마이크론10%급락,뉴욕증시...",
-  "[속보]美나스닥,반도체에발목…삼전·하닉5%대급락직격탄"
+  "[속보]美나스닥,반도체에발목…삼전·하닉5%대급락직격탄",
+  "기본통신권정책에KT도LTE·5G통합요금제출시…이통3사모두QoS전면...",
+  "'아시아4개국4VS4데스매치'메인이벤트…고교천왕시즌4유튜브생...",
+  "57조분기익낸삼성...이재용회장,선밸리다시가나",
+  "IREN,AI인프라매도압력에8거래일연속하락",
+  "AWS\"AI가공격속도앞당겨\"…\"보안도에이전트로자동화해야\"",
+  "트웰브랩스,1500억원시리즈B투자유치…AWS협력강화",
+  "KT알파쇼핑,'에넥스그랑레스트'프리미엄호텔식침대온에어"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,17 @@
   [
    "2026-07-02T07:46:16.039156+09:00",
    "로드맵 사고 짠다 넷마블 예측형 보안"
+  ],
+  [
+   "2026-07-02T08:06:14.649728+09:00",
+   "시리즈B 투자 트웰브랩스 유치 1500억원 강화 협력 AWS"
+  ],
+  [
+   "2026-07-02T08:06:14.649728+09:00",
+   "침대 호텔식 KT알파 온에어 에넥스 프리미엄 그랑 ~KT 쇼핑 레스트"
   ]
  ],
- "last_run": "2026-07-02T08:04:38.681334+09:00",
+ "last_run": "2026-07-02T08:06:40.756327+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
