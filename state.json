@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/distribution/6212887",
-  "https://www.nocutnews.co.kr/news/6540803",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464238",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=154814",
-  "https://www.newspim.com/news/view/20260629001437",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285747846000",
   "https://www.eroun.net/news/articleView.html?idxno=84300",
   "http://www.4th.kr/news/articleView.html?idxno=2113929",
   "https://www.joongangenews.com/news/articleView.html?idxno=529328",
@@ -2999,15 +2993,15 @@
   "http://www.itdaily.kr/news/articleView.html?idxno=240177",
   "https://www.news1.kr/photos/7985694",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=264667",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/01/2026070190109.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/01/2026070190109.html",
+  "https://sports.donga.com/ent/article/all/20260701/134214853/1",
+  "https://www.mydaily.co.kr/page/view/2026070111015800854",
+  "https://www.techm.kr/news/articleView.html?idxno=153022",
+  "https://www.mediawatch.kr/news/article.html?no=260246",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/01/2026070100098.html",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578740939019"
  ],
  "seen_titles": [
-  "엔비디아도우주AI데이터센터구축박차...연봉6억대채용공고",
-  "NH농협은행,무선백도어해킹대응체계구축나서",
-  "애플,AI해킹우려에이례적조치...보안패치'조기배포'",
-  "[SW포커스]“8회가무서워요”마무리까지못간다…승부가르는‘마...",
-  "쿠팡,지난해정보보호투자1349억쏟아…전년대비51.6%증가",
-  "7월6일부터휴대폰개통안면인증…명의도용·대포폰막는다",
   "바이브컴퍼니,AI데이터플랫폼영토확장…첨단기술시장선점시동",
   "삼성증권,반도체유망기업투자설명회개최…AI반도체성장기업투자...",
   "쿠팡개인정보유출에개보위분쟁조정14만6000명신청…역대최대",
@@ -6001,7 +5995,13 @@
   "SKT,'정보보호백서2025'첫공식보고서발간",
   "조정식국회의장,취임첫경제계간담회",
   "SK하이닉스,메가프로젝트투자위험반영신고서정정",
-  "서범수\"李,'반도체호남행'자백…'직권남용'결정증거\""
+  "서범수\"李,'반도체호남행'자백…'직권남용'결정증거\"",
+  "차은우·김선호소속사판타지오,‘고분고분한킬러’공동제작",
+  "KBO,오늘(1일)부터2027신인드래프트지명참가신청접수…학교폭력...",
+  "'솔라'품은다음,'AI요약'첫선...AI검색전환본격화",
+  "[단독]‘수십억횡령’신한은행직원중형...수사·재판서드러난‘...",
+  "보안사고악몽씻는다…두나무는'인재',빗썸은'기술'에베팅",
+  "KT,'5G·LTE'통합요금제출시…\"복잡한요금구조단순화\""
  ],
  "recent_sigs": [
   [
@@ -6725,7 +6725,7 @@
    "증거 자백 호남행 결정 직권남용 서범수 반도체"
   ]
  ],
- "last_run": "2026-07-01T11:08:37.712520+09:00",
+ "last_run": "2026-07-01T11:10:57.664815+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
