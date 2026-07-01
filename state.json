@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260701500229",
-  "https://www.news1.kr/photos/7985213",
   "http://news.lghellovision.net/news/articleView.html?idxno=547068",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8599121",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598186",
@@ -2999,11 +2997,11 @@
   "https://www.aitimes.kr/news/articleView.html?idxno=40765",
   "https://www.news2day.co.kr/article/20260702500014",
   "https://www.sjsori.com/news/articleView.html?idxno=87241",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6834383_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6834383_37012.html",
+  "https://biz.chosun.com/international/international_economy/2026/07/02/53QZS4HESBFNZJR2EW5ZU6Y47Q/",
+  "https://www.voakorea.com/a/us-lifts-anthropic-ban-070126/8166903.html"
  ],
  "seen_titles": [
-  "SKT,에이닷AI에이전트기능강화…\"고객센터대기·문자정리AI가돕...",
-  "7월6일부터휴대폰개통안면인증도입...“범죄악용대포폰방지”",
   "SKT,T1과함께신규전시‘암행천문:별을헤다’2일부터운영시작",
   "SK텔레콤,'정보보호백서2025'발간…정보보호체계재점검",
   "국민의힘“호남반도체공장,전면철회하라”",
@@ -6001,7 +5999,9 @@
   "SKT,'정보보호백서2025'발간...전사관점에서정보보호체계재점검",
   "[N2포커스]메타,남는GPU를클라우드로임대…AI인프라판도흔든다",
   "AI반도체차익실현에뉴욕증시숨고르기…코스피도단기변동성확대",
-  "미하원\"한국정부,쿠팡차별적공격‥표적화\""
+  "미하원\"한국정부,쿠팡차별적공격‥표적화\"",
+  "뉴욕증시,반도체주매도세에약세마감",
+  "미국‘앤스로픽의클로드첨단AI모델’금지해제"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-07-02T06:14:17.392773+09:00",
    "따지고 본인 투자성향 리스크 과열 완전 증시 고려해야"
+  ],
+  [
+   "2026-07-02T06:22:16.005198+09:00",
+   "앤스로픽의 미국 금지 해제 클로드 모델 첨단"
   ]
  ],
- "last_run": "2026-07-02T06:20:57.776310+09:00",
+ "last_run": "2026-07-02T06:22:36.831877+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
