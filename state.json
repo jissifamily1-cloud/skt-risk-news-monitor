@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04588726645510256",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624171",
-  "https://www.etnews.com/20260702000164",
-  "https://zdnet.co.kr/view/?no=20260702101948",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=783077",
   "https://www.khan.co.kr/article/202607021048001",
   "https://kpenews.com/View.aspx?No=4134151",
   "http://www.kdfnews.com/news/articleView.html?idxno=184803",
@@ -2999,14 +2994,14 @@
   "https://www.sportsseoul.com/news/read/1620230",
   "https://view.asiae.co.kr/article/2026070307571739004",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02660086645510912",
-  "https://kids.donga.com/news/articleView.html?idxno=169286"
+  "https://kids.donga.com/news/articleView.html?idxno=169286",
+  "https://www.public25.com/news/articleView.html?idxno=49786",
+  "https://www.sedaily.com/article/20063305",
+  "https://www.itbiznews.com/news/articleView.html?idxno=218177",
+  "https://www.banronbodo.com/news/articleView.html?idxno=32562",
+  "https://www.hankyung.com/article/2026070227771"
  ],
  "seen_titles": [
-  "메타발공급과잉공포…반도체믿었던개미'멘붕'",
-  "증시변동성키우는주범‘숏감마’가뭐길래",
-  "나스닥20%랠리의'착시'…상승분대부분,반도체몇종목이만들었다",
-  "KT,실속형AI폰‘갤럭시점프5’단독출시...54만원대",
-  "KT,‘퀀텀코리아2026’에서양자암호통신기술선보여",
   "가장약한공급망고리가뚫렸다,애플협력사연이어해킹피해",
   "삼성호남권투자,노조변수생기나…초기업노조\"협의체제안\"",
   "'2026LCK3~4라운드,젠지-T1팀로드쇼와함께시작'",
@@ -6001,7 +5996,12 @@
   "뇌수술없이생각을텍스트로…메타신기술‘브레인투쿼티v2’발표",
   "삼성파운드리부활'청신호'…\"앤트로픽,삼성과AI칩생산논의\"",
   "네이버,하반기주목할포인트는AI팩토리·두나무합병-메리츠",
-  "\"상식풍부해진아이와주식얘기해요\""
+  "\"상식풍부해진아이와주식얘기해요\"",
+  "신한은행,서울시와'제5회피노베이션챌린지'스타트업6곳선발…금...",
+  "메타‘AI과잉론’이무자비한‘반도체피크설’로[트럼프스톡커]",
+  "SK,협력사금융·기술지원확대…1조4000억원투입상생생태계조성",
+  "[주간기업동향]최태원SK그룹회장,AI·반도체에2100조원투자外",
+  "유상윤대표\"해킹당한로봇,사람공격할수도…AI보안시장커진다\""
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-07-03T08:00:48.939897+09:00",
    "상식 아이와 얘기해요 주식 풍부해진"
+  ],
+  [
+   "2026-07-03T08:02:14.811017+09:00",
+   "반도체에 회장 2100조원 투자 SK그룹"
+  ],
+  [
+   "2026-07-03T08:02:14.811017+09:00",
+   "사람 수도 대표 공격할 커진다 보안시장 유상윤 해킹당한 로봇"
   ]
  ],
- "last_run": "2026-07-03T08:01:13.435053+09:00",
+ "last_run": "2026-07-03T08:02:44.319468+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6610,6 +6618,7 @@
   "doctorstimes.com": "의사신문",
   "cctoday.co.kr": "충청투데이",
   "sisacast.kr": "시사캐스트",
-  "tennispeople.kr": "tennispeople.kr"
+  "tennispeople.kr": "tennispeople.kr",
+  "banronbodo.com": "반론보도닷컴"
  }
 }
