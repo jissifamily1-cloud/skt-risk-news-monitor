@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260701001081",
-  "http://www.suwonilbo.kr/news/articleView.html?idxno=316570",
-  "https://www.sedaily.com/article/20062442",
-  "https://www.etnews.com/20260701000457",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3623128",
-  "https://www.sidae.com/article/2026070110303726252",
-  "https://www.thepowernews.co.kr/view.php?ud=202606301514355152de3f0aa1be_7",
-  "http://www.itdaily.kr/news/articleView.html?idxno=240168",
-  "https://www.theguru.co.kr/news/article.html?no=103825",
   "http://www.maniareport.com/view.php?ud=202607011311305850dad9f33a29_19",
   "https://www.etnews.com/20260701000458",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464656",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03772006645510584",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714834",
   "http://www.ddanzi.com/888350987",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=59914"
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=59914",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104077",
+  "https://www.mk.co.kr/article/12088613",
+  "https://www.ddaily.co.kr/page/view/2026070211025655735",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3624202",
+  "https://www.itworld.co.kr/article/4191945/ai-비용-절반으로-줄이는-모델-라우팅-이제는-토큰매칭.html",
+  "https://www.yna.co.kr/view/AKR20260702072400009?input=1195m",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=805371",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=82813",
+  "https://www.newsis.com/view/NISX20260702_0003693165"
  ],
  "seen_titles": [
-  "오텍캐리어,AI데이터센터액체냉각사업본격화",
-  "김경율\"호남800조투자,못믿겠다?\"VS서용주\"그럼해외에투자?\"",
-  "삼성·SK800조호남행…광주신세계,소비시장최대수혜기대",
-  "앤스로픽'페이블·미토스'다시열린다…美수출통제해제",
-  "앤스로픽‘클로드사이언스’로AI신약전쟁참전",
-  "美,앤스로픽첨단AI모델수출통제해제…내일부터서비스재개",
-  "이현재하남시장민선9기첫날,1호결재로K-컬처TF가동",
-  "KBL연봉킹은변준형·허훈…나란히보수8억원",
-  "2배빠른'와이파이7'도입속도",
   "임형석,전남광주통합특별시의회기획재정위원장선출…첫본회의서결...",
   "코스맥스,'생산'대신'기술자산'승부수…수익성해법찾았다",
   "메모리가격더오른다…삼성전자·SK하이닉스재평가시간온다",
@@ -6001,7 +5992,16 @@
   "[포토]강인하면서도날렵한이미를가진폴스타플래그십퍼포먼스SUV...",
   "메타AI클라우드진출설…'과잉투자'보다인프라수요확대에무게",
   "[뉴공아카이브]퍼니포:‘구천피시대’국민투자자가말하는‘성투’...",
-  "[위클리디지털포스트]머스크스타링크,이제통신사밥그릇노린다"
+  "[위클리디지털포스트]머스크스타링크,이제통신사밥그릇노린다",
+  "LGU+,'워터풀파티'진행...풍성한유플투쁠여름혜택에눈길",
+  "[LCK정규시즌]3~4라운드29일부터진행…젠지·T1로드쇼",
+  "양자암호통신상용화'성큼'…작아진칩,넓어진무대",
+  "대전테미예술창작센터,13기입주작가라운드테이블개최…창작세계조...",
+  "AI비용절반으로줄이는모델라우팅,이제는토큰매칭이다",
+  "AI첨단모델출시'자발적기준'백악관막판협상…이르면내주",
+  "[오늘증시]'반도체쇼크'에외인순매도…개미들,8000선방어안간힘",
+  "양자보안주도권경쟁본격화…이통사,AI·6G시대겨냥기술고도화",
+  "\"2억5000만달러쐈다\"…마이크론,'트럼프표어린이투자계좌'에통큰..."
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,13 @@
   [
    "2026-07-02T11:06:15.313976+09:00",
    "스타링크 밥그릇 노린다 이제 머스크"
+  ],
+  [
+   "2026-07-02T11:08:14.111180+09:00",
+   "트럼프표 쐈다 어린이 투자계좌 마이크론 2억5000만달러"
   ]
  ],
- "last_run": "2026-07-02T11:06:45.314861+09:00",
+ "last_run": "2026-07-02T11:08:39.008673+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
