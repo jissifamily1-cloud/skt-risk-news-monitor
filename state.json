@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=263804",
-  "https://www.newspim.com/news/view/20260624000967",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=188991",
-  "https://biz.heraldcorp.com/article/10786501",
   "https://www.smartbizn.com/news/articleView.html?idxno=146889",
   "https://biz.heraldcorp.com/article/10786014",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=243676",
@@ -2999,13 +2995,13 @@
   "https://www.iusm.co.kr/news/articleView.html?idxno=1064890",
   "https://www.mydaily.co.kr/page/view/2026070219242823246",
   "https://www.ikbc.co.kr/article/view/kbc202607020055",
-  "https://www.mt.co.kr/future/2026/07/02/2026070215003874993"
+  "https://www.mt.co.kr/future/2026/07/02/2026070215003874993",
+  "https://www.xportsnews.com/article/2167474",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008639418&plink=ORI&cooper=NAVER",
+  "http://www.sisacast.kr/news/articleView.html?idxno=97406",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165055"
  ],
  "seen_titles": [
-  "[속보]개보위,개인정보국외이전위반‘빗썸’과징금2.1억부과",
-  "[속보]개보위,개인정보국외이전위반'빗썸'과징금2.1억부과",
-  "개보위,상조서비스개인정보보호취약요인점검",
-  "개보위,개인정보국외이전위반‘빗썸’에과징금2억1000만원부과",
   "개보위,빗썸개인정보국외이전위반제재…과징금2.1억원",
   "개보위,빗썸에과징금2.1억원…\"이용자동의없이개인정보해외이전...",
   "개보위,상조업체3곳사전실태점검…\"보안취약점조치미흡\"",
@@ -6001,13 +5997,13 @@
   "울산웨일즈,6월MVP'알렉스홀·김준우'",
   "'와'100억FA강백호135m대형홈런미쳤다!연이틀홈런→80타점돌파…...",
   "박지원\"'스벅가야지'배재고,뭔뜻인지알고썼을것...어린학생들이...",
-  "에너지산업안전성높인다…엔닷라이트·한전,디지털트윈구현"
+  "에너지산업안전성높인다…엔닷라이트·한전,디지털트윈구현",
+  "'이틀전7-0노게임잊어라'한화2회에만무려10안타9득점대폭발!…...",
+  "영월텅스텐광산조명한뉴욕타임스…\"미국,중국대항마로눈독\"",
+  "롯데카드,통신정보활용한AI보안체계도입…금융사기대응고도화",
+  "1억원대전기차韓서는7000만원대에…폴스타3한국상륙"
  ],
  "recent_sigs": [
-  [
-   "2026-07-02T13:34:15.427622+09:00",
-   "클라우드 일부 자금 가져 간다 매출 보증하고 업체에"
-  ],
   [
    "2026-07-02T13:38:15.823824+09:00",
    "최신 지견 치료 성료 통증 GC녹십자웰빙 좌담회"
@@ -6667,9 +6663,13 @@
   [
    "2026-07-02T19:30:47.765233+09:00",
    "가야지 박지원 학생들이 배재고 알고 어린 스벅 뜻인지 썼을"
+  ],
+  [
+   "2026-07-02T19:34:18.403539+09:00",
+   "대응 금융사기 활용한 보안체계 고도화 롯데카드 도입 통신정보"
   ]
  ],
- "last_run": "2026-07-02T19:32:35.123818+09:00",
+ "last_run": "2026-07-02T19:34:37.622241+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7060,6 +7060,7 @@
   "klnews.co.kr": "물류신문",
   "smarttimes.co.kr": "스마트타임스",
   "doctorstimes.com": "의사신문",
-  "cctoday.co.kr": "충청투데이"
+  "cctoday.co.kr": "충청투데이",
+  "sisacast.kr": "시사캐스트"
  }
 }
