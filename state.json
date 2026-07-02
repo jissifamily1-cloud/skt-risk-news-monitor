@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3623154",
-  "https://www.etnews.com/20260701000472",
-  "http://www.bizwnews.com/news/articleView.html?idxno=139784",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=59902",
-  "http://www.press9.kr/news/articleView.html?idxno=78725",
-  "http://www.fnnews.com/news/202607011120549928",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441282",
-  "https://www.dailian.co.kr/news/view/1662165/?sc=Naver",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3623145",
-  "https://biz.heraldcorp.com/article/10794751",
   "https://www.gukjenews.com/news/articleView.html?idxno=3623158",
   "https://news.bizwatch.co.kr/article/industry/2026/07/01/0020",
   "https://www.thepowernews.co.kr/view.php?ud=202607011430309436de3f0aa1be_7",
@@ -2999,19 +2989,19 @@
   "https://www.hankookilbo.com/news/article/A2026070209520001798?did=NA",
   "http://www.intn.co.kr/news/articleView.html?idxno=2051688",
   "https://www.yna.co.kr/view/AKR20260702041451004?input=1195m",
-  "http://www.mdilbo.com/detail/0kIA7d/756839"
+  "http://www.mdilbo.com/detail/0kIA7d/756839",
+  "https://www.nocutnews.co.kr/news/6542038",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847803",
+  "https://zdnet.co.kr/view/?no=20260702112031",
+  "https://news.mtn.co.kr/news-detail/2026070211013659100",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030053523&code=61141111&cp=nv",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847509",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=199786",
+  "http://www.ikld.kr/news/articleView.html?idxno=336969",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203394",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=126376"
  ],
  "seen_titles": [
-  "한컴위드,별도설치없는PQC웹구간암호화솔루션출시",
-  "SKT,정보보호백서발간...정보보호체계재점검",
-  "최태원“기업은방향보여야움직인다”…국회에예측가능한입법환경...",
-  "‘백만장자여름캠프’…이재용올해도선밸리간다",
-  "[수도권주요뉴스]경기도,위안부기림의날SNS챌린지",
-  "'시민과함께'하남민선9기출범기념축제개최",
-  "윌라,'2026상반기결산'공개",
-  "[헬스이모저모]HK이노엔,한독,유한양행등",
-  "2026년다크호스게이밍모니터,앤트게이머'ANT27VUPRO'[2026상반기...",
-  "[SK,재평가]①2100조투자,반도체공장짓고AI데이터센터세운다",
   "안보넘어'일자리동맹'으로...대한상의,'주한미군채용플랫폼'으로...",
   "국내환경단체'3대메가프로젝트'놓고의견엇갈려,수자원문제부터...",
   "SKB,지상파품은'Btv+max'출시…OTT구독부담낮춘다",
@@ -6001,7 +5991,17 @@
   "'HBM아버지',AI에이전트활용한반도체설계노하우공개한다",
   "더존TV,개국반년만에유튜브구독자10만돌파",
   "오세훈새임기첫정책'청년AI사다리'…이용권지원등추진(종합)",
-  "“지어준다고진짜짓는줄아냐”비웃음보란듯···이대통령·삼전..."
+  "“지어준다고진짜짓는줄아냐”비웃음보란듯···이대통령·삼전...",
+  "\"AI흔들'수'있다!\"는신진서,드디어4억건'세기의승부'",
+  "샥즈,이어클립형오픈형이어폰'오픈닷2','오픈닷에어'국내출시",
+  "샥즈,이어클립형이어폰'오픈닷2·오픈닷에어'출시...19만9000원",
+  "메타클라우드진출에반도체주출렁…\"AI인프라수익화\"",
+  "구글AI칩파트너‘美대신대만’…한국반도체‘기회이자시험대...",
+  "내년\"자율주행차상용화\"…보험사,데이터기반리스크관리급부상",
+  "[더밸류브리핑]오늘의NH농협은행소식...지슨협약·농촌아동공간...",
+  "스튜디오초이스,시니어맞춤VOD확대…'트롯초이스'출시",
+  "유튜버부터댓글러까지...7일바뀌는정보통신망법총정리",
+  "\"계좌하나바꿨을뿐인데치킨이공짜\"...하나은행·SK텔레콤,역대급..."
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-07-02T11:28:15.837118+09:00",
    "지어준다고 보란듯 진짜 짓는 삼전 비웃음 대통령 아냐"
+  ],
+  [
+   "2026-07-02T11:30:47.337998+09:00",
+   "하나은행 치킨이 바꿨을 계좌 공짜 역대급 뿐인데 하나 ~SKT"
   ]
  ],
- "last_run": "2026-07-02T11:28:35.976269+09:00",
+ "last_run": "2026-07-02T11:31:06.521593+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7059,6 +7063,7 @@
   "dailymedi.com": "데일리메디",
   "wemakenews.co.kr": "wemakenews.co.kr",
   "tgdaily.co.kr": "더게임스데일리",
-  "ddanzi.com": "ddanzi.com"
+  "ddanzi.com": "ddanzi.com",
+  "dailysmart.co.kr": "스마트경제"
  }
 }
