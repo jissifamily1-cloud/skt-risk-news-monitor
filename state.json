@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6541211",
-  "https://www.econovill.com/news/articleView.html?idxno=743988",
-  "http://www.breaknews.com/1218125",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/01/2026070100084.html",
-  "https://edu.donga.com/news/articleView.html?idxno=109473",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7172346",
-  "https://www.etnews.com/20260701000200",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=417011",
-  "https://www.theguru.co.kr/news/article.html?no=103812",
-  "https://view.asiae.co.kr/article/2026063014513433810",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51188",
   "https://www.jbnews.com/news/articleView.html?idxno=1506833",
   "https://zdnet.co.kr/view/?no=20260701093550",
   "https://biz.chosun.com/stock/finance/2026/07/01/MXYPBPVNXZGVTAOBLAGJAAFEQQ/",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20260702_0003692753",
   "https://www.newspim.com/news/view/20260702000173",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680544",
-  "https://www.newspim.com/news/view/20260702000175"
+  "https://www.newspim.com/news/view/20260702000175",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03047126645510584",
+  "https://www.ddaily.co.kr/page/view/2026070209072419365",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679271",
+  "https://www.etoday.co.kr/news/view/2599458",
+  "https://www.chosun.com/economy/money/2026/07/02/OIW7FWXDSRDKPDTSOKSDTYIE7A/",
+  "https://www.viva100.com/article/20260702500137",
+  "http://www.lawissue.co.kr/view.php?ud=2026070209072340169817d053b9_12",
+  "http://www.boannews.com/media/view.asp?idx=144452&kind=3",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86313",
+  "https://www.mt.co.kr/tech/2026/07/02/2026070208550899074",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464895"
  ],
  "seen_titles": [
-  "KT도LTE·5G통합요금제출시…이통3사전면전환",
-  "KT,간편결제도입7주년···'럭키7이벤트'진행",
-  "프로야구좌석점유율87.7%…관중수입은1300억원넘었다",
-  "[더벨][i-point]크라우드웍스,로봇정밀조작피지컬AI데이터공급",
-  "람다256,기관용온체인데이터서비스‘노딧데이터셰어’오픈베타",
-  "강원랜드,AI도박중독상담챗봇도입…24시간상담지원",
-  "[자막뉴스]\"이러다중국모델이다따라잡겠네\"…\"다막아!\"결국꼬리...",
-  "포브스아시아'30언더30'올해의한국인선정자는?",
-  "[미국특징주]마이클버리,캐터필러공매도선언…\"韓투자발표가AI...",
-  "KT,5G·LTE통합요금제출시…공유데이터·QoS강화",
-  "T1,신규팝업‘암행천문:별을헤다’2일오픈",
   "[반도체4천700조투자]채권수급호재흔들…공사채발행증가우려도",
   "유진테크주가,급등세...이유는?",
   "\"초안은1초,확정은하루\"…AI가만든초안을최종안으로바꾸는법",
@@ -6001,7 +5990,18 @@
   "日증시,美기술주약세에하락출발…닛케이지수0.62%↓",
   "AI공급망주목한외국인...日주식상반기10조엔순매수",
   "SKT,KS-SQI이동통신27년연속정상…SKB·SK텔링크도1위",
-  "하나은행,SK텔레콤과통신비자동납부계좌변경이벤트"
+  "하나은행,SK텔레콤과통신비자동납부계좌변경이벤트",
+  "롯데카드,'AI'로이상거래탐지…3억원상당의피해예방",
+  "'아이폰보다얇은단말기내놓나'…스페이스X,자체AI기기개발에머...",
+  "오픈AI분열의시작…샘알트먼·다리오아모데이10년갈등재조명",
+  "[특징주]삼성전자·SK하이닉스,美반도체쇼크에장초반급락",
+  "메타는오른메타발(發)폭락...삼전하닉도폭락출발",
+  "SKT,‘퀀텀코리아2026’참가⋯AI·6G시대대비한차세대양자암호...",
+  "LG유플러스,유플투쁠여름혜택확대…장기고객초청파티개최",
+  "KT,‘퀀텀코리아2026’에서양자암호통신기술공개",
+  "KT,'퀀텀코리아2026'서양자암호통신기술공개…상용화·생태계확...",
+  "KT전용폰'갤럭시점프5'출시…54만원대",
+  "KT,50만원대실속형AI폰'갤럭시점프5'출시"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,13 @@
   [
    "2026-07-02T09:06:16.581106+09:00",
    "아우르는 민간 생태계 공공 기술 조성 양자암호통신 국산화 ~KT"
+  ],
+  [
+   "2026-07-02T09:10:35.935659+09:00",
+   "출시 점프5 ~KT AI폰 50만원대 갤럭시 실속형"
   ]
  ],
- "last_run": "2026-07-02T09:08:37.453318+09:00",
+ "last_run": "2026-07-02T09:10:54.494369+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
