@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.maniareport.com/view.php?ud=202607011311305850dad9f33a29_19",
-  "https://www.etnews.com/20260701000458",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464656",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=873792",
-  "https://view.asiae.co.kr/article/2026070114385086511",
-  "https://www.sisajournal.com/news/articleView.html?idxno=378358",
-  "https://www.seoul.co.kr/news/international/2026/07/01/20260701500151?wlog_tag3=naver",
-  "https://www.munhwa.com/article/11599581",
-  "https://www.wikitree.co.kr/articles/1144127",
   "http://www.wsobi.com/news/articleView.html?idxno=314564",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42103",
   "https://www.m-i.kr/news/articleView.html?idxno=1387162",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/AKR20260702072400009?input=1195m",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=805371",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=82813",
-  "https://www.newsis.com/view/NISX20260702_0003693165"
+  "https://www.newsis.com/view/NISX20260702_0003693165",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3624213",
+  "https://news.mtn.co.kr/news-detail/2026070210411859737",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3624205",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92163",
+  "https://www.sedaily.com/article/20062943",
+  "https://m.skyedaily.com/news_view.html?ID=307091",
+  "https://www.techm.kr/news/articleView.html?idxno=153065",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=118476",
+  "https://mbcgn.kr/01_new/new01_view.asp?idx=409278"
  ],
  "seen_titles": [
-  "임형석,전남광주통합특별시의회기획재정위원장선출…첫본회의서결...",
-  "코스맥스,'생산'대신'기술자산'승부수…수익성해법찾았다",
-  "메모리가격더오른다…삼성전자·SK하이닉스재평가시간온다",
-  "네이버·카카오,IT투자4%이상정보보호에…전략은달랐다",
-  "\"비용80%·시간70%절감\"…AWS보안패러다임바꾼다",
-  "10년만의인간대AI재대결...신진서9단,AI카타고와2점접바둑3번...",
-  "동신대AI보안학과재학생들,'한국융합보안학회학술대회'서한전KDN사...",
-  "삼성액티브운용'KoAct미국나스닥채권혼합50액티브',연초이후29%수익...",
-  "[ICT픽]KT,5G·LTE통합요금제출시…이통3사요금제개편완료",
   "SKB,올인원구독상품'Btv+max'출시…\"채널255개한번에\"",
   "이재용·최태원은왜'호남행'응했나…'조건부'화답의속내",
   "중국엔비디아칩수입안한이유가…대만,칩밀수첫구속",
@@ -6001,7 +5992,16 @@
   "AI첨단모델출시'자발적기준'백악관막판협상…이르면내주",
   "[오늘증시]'반도체쇼크'에외인순매도…개미들,8000선방어안간힘",
   "양자보안주도권경쟁본격화…이통사,AI·6G시대겨냥기술고도화",
-  "\"2억5000만달러쐈다\"…마이크론,'트럼프표어린이투자계좌'에통큰..."
+  "\"2억5000만달러쐈다\"…마이크론,'트럼프표어린이투자계좌'에통큰...",
+  "대구광역시,'대구100대스몰브랜드의등장'특별기획전,7월'오픈대...",
+  "강원지자체,AI데이터센터선제대응...경제훈풍기대",
+  "창녕건마늘경매200톤출하…대서종최고가8,000원·남도종9,000원",
+  "코스피,美기술주삭풍에5%대↓7,800선...삼전30만원깨져",
+  "폴스타코리아,플래그십퍼포먼스SUV‘폴스타3’국내출시",
+  "미국하원“한국정부가쿠팡에차별적공격”",
+  "\"양자기술선점\"...SKT·KT,'퀀텀코리아2026'격돌",
+  "KT,'퀀텀코리아2026'참가…양자암호통신기술공개",
+  "3일,진주서′메가투자′영남권국민보고회개최"
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,13 @@
   [
    "2026-07-02T11:08:14.111180+09:00",
    "트럼프표 쐈다 어린이 투자계좌 마이크론 2억5000만달러"
+  ],
+  [
+   "2026-07-02T11:10:36.460643+09:00",
+   "진주서 영남권 투자 국민보고회 개최 3일 메가"
   ]
  ],
- "last_run": "2026-07-02T11:08:39.008673+09:00",
+ "last_run": "2026-07-02T11:11:03.821347+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
