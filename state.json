@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607011829315751fbbec65dfb_1",
-  "https://biz.sbs.co.kr/article_hub/20000320149?division=NAVER",
-  "https://www.g-enews.com/view.php?ud=202607011826234273fbbec65dfb_1",
-  "https://www.yna.co.kr/view/AKR20260702002600091?input=1195m",
-  "https://www.tokenpost.kr/news/market/374305",
-  "https://www.newspim.com/news/view/20260702000008",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4422933",
   "https://www.chosun.com/economy/tech_it/2026/07/02/7ZCY4RU3JFGWFPT7O46OMNZMWQ/",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008637643&plink=ORI&cooper=NAVER",
@@ -2999,15 +2993,15 @@
   "http://www.lawissue.co.kr/view.php?ud=202607021734013037204ead0791_12",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05375926645510584",
   "https://www.hankyung.com/article/2026070227311",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203469"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203469",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=264884",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3624840",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79691",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132403",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600590",
+  "https://www.sedaily.com/article/20063171"
  ],
  "seen_titles": [
-  "[뉴욕증시]다우지수,막판약세전환…마이크론,10.4%급락",
-  "\"대순환장세3분기에도\"나스닥0.7%↓…마이크론10%↓",
-  "반도체·메모리주숨고르기…상반기폭등주에차익실현쏟아졌다",
-  "차익실현영향받은뉴욕증시소폭하락,국제유가는4개월만에최저...",
-  "[속보]뉴욕증시하락마감…나스닥,반도체株급락에발목",
-  "테슬라AI5칩,옵티머스·로보택시승부수",
   "[단독]‘스페이스X’7000원…텔레통해3초면샀다[회색지대주식토큰...",
   "휴머노이드로봇실전성공률99.99%…로봇株들썩",
   "[美증시특징주]반도체메모리·장비주소나기악재에'휘청'...마이크...",
@@ -6001,7 +5995,13 @@
   "SK협력사상생협약체결,1조4000억규모지원포함",
   "“日소뱅,오픈AI지분담보삼아15조원대출논의재개“",
   "오픈AI,美정부에지분5%보유제안",
-  "방미통위,통일TV등록취소상고포기...\"시청권위축유감\""
+  "방미통위,통일TV등록취소상고포기...\"시청권위축유감\"",
+  "[은행업계소식]하나은행,NH농협은행,BNK부산은행",
+  "[포토]금산군,민선9기문정우군수비전제막식...'모두가행복한...",
+  "반도체수요위축우려에'검은목요일'…코스피'8천피'붕괴",
+  "[뉴스락특별기획]10대그룹AX경쟁,선언넘어실행으로…하반기'성...",
+  "[사사건건]“단합”과“확장”…같은의미?다른의미?",
+  "이번엔메타…AI정점론에시장또패닉"
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,21 @@
   [
    "2026-07-02T17:38:17.187970+09:00",
    "인재 양성에 열올리는 교육 질문하는 실무형 재계 부터 기업들"
+  ],
+  [
+   "2026-07-02T17:40:38.675758+09:00",
+   "AX 넘어 10대 하반기 선언 실행으로 경쟁"
+  ],
+  [
+   "2026-07-02T17:40:38.675758+09:00",
+   "단합 확장 같은 의미 다른"
+  ],
+  [
+   "2026-07-02T17:40:38.675758+09:00",
+   "패닉 시장 메타 정점론에 이번엔"
   ]
  ],
- "last_run": "2026-07-02T17:38:39.942918+09:00",
+ "last_run": "2026-07-02T17:41:04.481551+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
