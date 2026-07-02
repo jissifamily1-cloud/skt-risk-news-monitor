@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbmaeil.com/article/20260702500009",
-  "https://www.seoul.co.kr/news/international/2026/07/02/20260702500009?wlog_tag3=naver",
-  "https://www.g-enews.com/view.php?ud=2026070114134451100c8c1c064d_1",
-  "https://www.seoul.co.kr/news/politics/2026/07/02/20260702006005?wlog_tag3=naver",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030051684&code=61141111&cp=nv",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01620326645510584",
-  "https://biz.sbs.co.kr/article_hub/20000320151?division=NAVER",
   "https://www.yna.co.kr/view/AKR20260702001351071?input=1195m",
   "https://www.donga.com/news/Economy/article/all/20260701/134219411/2",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714552",
@@ -2999,16 +2992,16 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272403",
   "https://www.joongang.co.kr/article/25441964",
   "https://zdnet.co.kr/view/?no=20260702171549",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000951"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260702010000951",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2285365",
+  "https://www.dt.co.kr/article/12070922",
+  "http://www.doctorstimes.com/news/articleView.html?idxno=238866",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845922",
+  "https://www.hankyung.com/article/2026070227551",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000047372",
+  "https://www.aitimes.com/news/articleView.html?idxno=212345"
  ],
  "seen_titles": [
-  "머니투데이오프라인헤드라인-23일자",
-  "이찬진\"KB차기회장후보압축전지배구조개선안발표\"",
-  "증시랠리에도금감원장은걱정…\"레버리지ETF,꼬리가몸통을\"",
-  "AI는애널리스트를대체할까",
-  "[AIMY뉴스]25일중국증시'구조적장세지속,주도업종순환흐름'",
-  "'AI8종무료'전남대,학생들체감도는\"글쎄…\"",
-  "공공AX어디까지왔나…\"폰으로업무처리·AI가회의록작성\"",
   "엄벌하면사고안칠까?쿠팡최대과징금갑론을박",
   "“전산장애징계없다”…금융위,AI보안점검에‘파격면책’",
   "美하원“韓의쿠팡차별은무역합의위반...李대통령도관여”",
@@ -6001,7 +5994,14 @@
   "[반도체경고음]'빅쇼트'마이클버리의경고…한국반도체'1,000조투...",
   "프로야구전반기10승투수실종사건,왜?",
   "[AI고속도로]\"AI칩독주지켜라\"…엔비디아,GPU고객사에돈줄댄다",
-  "'꿈의보안'양자암호통신…SKT·KT,'퀀텀코리아'서기술력맞불"
+  "'꿈의보안'양자암호통신…SKT·KT,'퀀텀코리아'서기술력맞불",
+  "'형제홈런'한화박정현\"직구승부예상했다…동생박영현에밥사줄...",
+  "노키아,무선·전송·운영전구간에AI접목",
+  "[제약업계소식]7월2일",
+  "최창원의장\"상생위해1조4000억투입…협력사R&D등지원\"",
+  "\"경제력차이가AI격차안되게\"…오세훈,서울청년에무상이용권",
+  "\"AI도신분증갖는다\"…통제공백걷어내고업무주체로우뚝",
+  "팔란티어CEO,오픈AI·앤트로픽'토큰'시스템맹비난…\"돈만쓰고데이..."
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-07-02T18:10:38.546365+09:00",
    "~KT 퀀텀 기술력 코리아 ~SKT 맞불 보안 양자암호통신 꿈의"
+  ],
+  [
+   "2026-07-02T18:12:17.233174+09:00",
+   "2일 7월"
   ]
  ],
- "last_run": "2026-07-02T18:11:00.091606+09:00",
+ "last_run": "2026-07-02T18:12:35.976319+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7066,6 +7070,7 @@
   "kbsm.net": "경북신문",
   "knpnews.com": "한국원자력신문",
   "klnews.co.kr": "물류신문",
-  "smarttimes.co.kr": "스마트타임스"
+  "smarttimes.co.kr": "스마트타임스",
+  "doctorstimes.com": "의사신문"
  }
 }
