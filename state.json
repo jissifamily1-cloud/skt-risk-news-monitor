@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260702500007",
-  "https://www.chosun.com/international/international_general/2026/07/02/7HALCSRVYREWXNJXIZH35Y3WZE/",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01708886645510584",
-  "https://www.g-enews.com/view.php?ud=2026070200292231349a1f309431_1",
-  "https://www.seoul.co.kr/news/plan/greyarea-SecurityToken/2026/07/02/20260702001004?wlog_tag3=naver",
-  "https://www.g-enews.com/view.php?ud=2026070122440578892bd56fbc3c_1",
-  "https://www.mediapen.com/news/view/1107747",
-  "https://biz.sbs.co.kr/article_hub/20000320150?division=NAVER",
   "https://www.g-enews.com/view.php?ud=202607011829315751fbbec65dfb_1",
   "https://biz.sbs.co.kr/article_hub/20000320149?division=NAVER",
   "https://www.g-enews.com/view.php?ud=202607011826234273fbbec65dfb_1",
@@ -2999,17 +2991,17 @@
   "https://mhnse.com/news/articleView.html?idxno=1449437",
   "https://en.yna.co.kr/view/AEN20260702005851315?input=2106m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3624835",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237045"
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=237045",
+  "http://www.dailypop.kr/news/articleView.html?idxno=100268",
+  "https://www.ekn.kr/web/view.php?key=20260702028348726",
+  "https://www.mk.co.kr/article/12089053",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248221&CMPT_CD=P0010",
+  "http://www.lawissue.co.kr/view.php?ud=202607021734013037204ead0791_12",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05375926645510584",
+  "https://www.hankyung.com/article/2026070227311",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203469"
  ],
  "seen_titles": [
-  "작성중-원전·방위산업까지사업확장하는AWS[글로벌모닝브리핑]",
-  "“日독점하던730억달러영토잡는다”…中반도체소재사,하이테크...",
-  "'HBM4'시장커지고가격오른다…삼성·SK·마이크론'점유율전쟁'",
-  "미국증시에선...반도체주대거'추락',반도체ETF'폭락'",
-  "반도체차익실현에마이크론·샌디스크10%대급락[뉴욕is]",
-  "반도체차익실현매물…마이크론10%급락[뉴욕마감]",
-  "트럼프,코인수익만10억달러...메타·구글합의금에기술주배당까지...",
-  "뉴욕증시,반도체차익실현속일제히하락…나스닥0.66%↓",
   "[뉴욕증시]다우지수,막판약세전환…마이크론,10.4%급락",
   "\"대순환장세3분기에도\"나스닥0.7%↓…마이크론10%↓",
   "반도체·메모리주숨고르기…상반기폭등주에차익실현쏟아졌다",
@@ -6001,7 +5993,15 @@
   "[mhn포토]김재희,우승이목말라",
   "(LEAD)DoosanBearssigntemporaryreplacementpitchertofullcontra",
   "창녕경찰서,'교통문화바로세우기'캠페인실시…창녕군교통사망사고...",
-  "'임베디드금융내건'NH농협은행,BaaS·AI기반'산업플랫폼'으로전..."
+  "'임베디드금융내건'NH농협은행,BaaS·AI기반'산업플랫폼'으로전...",
+  "인재양성에열올리는기업들…재계,'질문하는힘'부터'실무형교육'까...",
+  "[금융권풍향계]KB국민은행,‘KBAIDev’출범…금융서비스혁신外",
+  "글로벌동맹확장에…韓대기업속속전용기확대",
+  "공포영화보기딱좋은시기,방학이시원해집니다",
+  "SK협력사상생협약체결,1조4000억규모지원포함",
+  "“日소뱅,오픈AI지분담보삼아15조원대출논의재개“",
+  "오픈AI,美정부에지분5%보유제안",
+  "방미통위,통일TV등록취소상고포기...\"시청권위축유감\""
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,17 @@
   [
    "2026-07-02T17:32:15.458165+09:00",
    "~LGU LG유플러스 ~SKT ~KT"
+  ],
+  [
+   "2026-07-02T17:38:17.187970+09:00",
+   "속속 전용기 동맹 확장에 확대 글로벌 대기업"
+  ],
+  [
+   "2026-07-02T17:38:17.187970+09:00",
+   "인재 양성에 열올리는 교육 질문하는 실무형 재계 부터 기업들"
   ]
  ],
- "last_run": "2026-07-02T17:36:34.815147+09:00",
+ "last_run": "2026-07-02T17:38:39.942918+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
