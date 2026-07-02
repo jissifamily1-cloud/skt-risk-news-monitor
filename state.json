@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403793",
-  "https://www.ytn.co.kr/_ln/0102_202607011803349073",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247972&CMPT_CD=P0010",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05726886645510256",
-  "https://byline.network/?p=9004111222610497",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255655",
-  "https://www.yna.co.kr/view/AKR20260701180300008?input=1195m",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255682",
-  "http://www.fnnews.com/news/202607011809261581",
   "https://www.hankyung.com/article/2026070103101",
   "https://www.newscj.com/news/articleView.html?idxno=3413697",
   "https://www.gukjenews.com/news/articleView.html?idxno=3623514",
@@ -2999,18 +2990,18 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=125395",
   "http://www.lak.co.kr/news/boardview.php?id=23424",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465067",
-  "https://www.news1.kr/world/international-economy/6215896"
+  "https://www.news1.kr/world/international-economy/6215896",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=448381",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3624617",
+  "https://zdnet.co.kr/view/?no=20260702144724",
+  "https://www.etnews.com/20260702000352",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545417",
+  "https://www.dailian.co.kr/news/view/1662705/?sc=Naver",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317481",
+  "https://www.etnews.com/20260702000353",
+  "https://www.yna.co.kr/view/AKR20260702119100009?input=1195m"
  ],
  "seen_titles": [
-  "\"李임기내호남반도체완공…여야힘모으면충분히가능\"",
-  "앤스로픽AI수출통제해제",
-  "도넛애호가도메뉴외우는건힘들어…땀냄새도달았던하루[잡(JOB)스...",
-  "마스오토,국내첫트레일러자율주행시행...\"2028년무인화물운송달...",
-  "SK텔레콤,첫정보보호백서발간…중장기보안로드맵공개",
-  "SKT,1GW급AI데이터센터추진…RE100통해전력대응",
-  "최태원회장,\"AI시대인재,답보다질문하는능력중요\"",
-  "\"외형은삼성,수익성은SK\"...AI시대로불붙은'재계경쟁'",
-  "외신\"한국,반도체와국가균형발전연계가장과감한행보\"",
   "\"비용무서워\"…AI발인플레에다시중국산가성비제품찾는기업들",
   "크라우드웍스,‘로봇정밀조작피지컬AI데이터’공급",
   "마이클버리\"종말의시작\"외쳤지만···삼전닉스공매도는없었다",
@@ -6001,7 +5992,16 @@
   "[POP!대학가]고려대연구팀,도시기후모델풍속예측정확도높이는보...",
   "고려대연구팀,도시기후모델보정으로풍속예측정확도개선",
   "GC녹십자웰빙,'통증치료좌담회'성료",
-  "손정의,오픈AI지분담보100억달러대출재추진…상환보증제시"
+  "손정의,오픈AI지분담보100억달러대출재추진…상환보증제시",
+  "전국의대5곳,AI로지역보건의료문제해결나선다",
+  "산림복지진흥원,통합안전관리시스템구축워크숍개최…현장의견반영",
+  "위조품,작년에만14만개넘게적발…이커머스들대책은",
+  "서울시,'청년AI기본권'추진…모든청년에생성형AI무료지원",
+  "\"전세계최저가,퍼포먼스는제대로챙겼다\"폴스타3,플래그십전기...",
+  "마이클버리\"한국발반도체투자,끝의시작…이제는시간문제\"",
+  "윤석열정부'통일TV등록취소'위법처분확정",
+  "KT·네이버클라우드,'포스트국정자원'판짠다",
+  "\"소프트뱅크,오픈AI지분담보100억달러대출협상재개\""
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,17 @@
   [
    "2026-07-02T15:12:15.806250+09:00",
    "100억달러 손정의 대출 재추진 제시 상환보증 담보 지분"
+  ],
+  [
+   "2026-07-02T15:14:14.947018+09:00",
+   "짠다 국정자원 포스트 ~KT 네이버클라우드"
+  ],
+  [
+   "2026-07-02T15:14:14.947018+09:00",
+   "소프트뱅크 재개 100억달러 대출협상 지분담보"
   ]
  ],
- "last_run": "2026-07-02T15:12:40.638224+09:00",
+ "last_run": "2026-07-02T15:14:38.752961+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
