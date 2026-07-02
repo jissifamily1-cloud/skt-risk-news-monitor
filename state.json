@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260702000307",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624113",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=88930",
   "https://www.mediawatch.kr/news/article.html?no=260261",
   "https://www.g-enews.com/view.php?ud=2026070210181790252bd56fbc3c_1",
   "https://n.news.naver.com/mnews/article/214/0001509108",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000320443?division=NAVER",
   "https://www.seoulfn.com/news/articleView.html?idxno=632565",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001110",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165035"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165035",
+  "https://view.asiae.co.kr/article/2026070112574725371",
+  "https://www.sidae.com/article/2026070306264346061",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165027"
  ],
  "seen_titles": [
-  "SK텔레콤주가,7월2일장중86,700원2.14%하락",
-  "롯데카드,AI기반보이스피싱탐지강화…통신3사와협력체계구축",
-  "BC카드,금융특화생성형AI검색임베딩모델공개…경량형글로벌1위...",
   "제주전역서음주운전합동단속…면허취소2명적발",
   "롯데카드,통신3사와손잡고AI로보이스피싱막는다",
   "[포토]대구광역시,글로벌대구치맥페스티벌화려한개막!",
@@ -6001,7 +5998,10 @@
   "[외신헤드라인]\"앤트로픽,삼성과AI칩생산논의\"",
   "[뉴욕증시]고용둔화속혼조,다우최고치···메타5%↓·샌디스크...",
   "앤트로픽,삼성파운드리에자체AI칩생산타진…오픈AI추격본격화",
-  "통신3사주가…해킹악재SKT'으뜸',3중고KT'꼴찌'"
+  "통신3사주가…해킹악재SKT'으뜸',3중고KT'꼴찌'",
+  "[써보니]\"헤이메타\"한마디로촬영·통화까지…그냥안경아니었네",
+  "[뉴욕증시]다우1.14%↑,사상최고치경신…AI거품론에반도체는급락",
+  "AI외친통신사,직원줄이며경영효율화"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-07-03T06:30:46.447376+09:00",
    "~KT 3사 ~SKT 주가 해킹악재 으뜸 꼴찌 3중고 통신"
+  ],
+  [
+   "2026-07-03T06:32:15.774380+09:00",
+   "직원 외친 줄이며 효율화 경영"
   ]
  ],
- "last_run": "2026-07-03T06:31:04.141324+09:00",
+ "last_run": "2026-07-03T06:32:36.644717+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
