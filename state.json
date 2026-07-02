@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.boannews.com/media/view.asp?idx=144449&kind=2",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16120818",
-  "http://www.segyebiz.com/newsView/20260702506102?OutUrl=naver",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3122038",
   "https://www.gukjenews.com/news/articleView.html?idxno=3624110",
   "https://idsn.co.kr/news/view/1065575998977161",
   "https://www.gukjenews.com/news/articleView.html?idxno=3624119",
@@ -2999,13 +2995,13 @@
   "https://view.asiae.co.kr/article/2026070215595294304",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714935",
   "https://www.mediapen.com/news/view/1107980",
-  "http://www.boannews.com/media/view.asp?idx=144417&kind=1"
+  "http://www.boannews.com/media/view.asp?idx=144417&kind=1",
+  "https://biz.chosun.com/international/international_economy/2026/07/03/5VSUPM4BV5HXHFNKXW3DRU4RYQ/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625150",
+  "https://www.ytn.co.kr/_ln/0104_202607030623216476",
+  "https://www.newspim.com/news/view/20260703000021"
  ],
  "seen_titles": [
-  "\"물놀이혜택주간부터콘서트까지\"…LG유플러스.여름마케팅강화",
-  "스튜디오초이스,시니어맞춤형트로트VOD'트롯초이스'론칭",
-  "충남교육청,학생맞춤통합지원단운영…전문가10명현장지원",
-  "현대카드,'국민행복카드'경쟁력강화...국가바우처부터생활혜택까...",
   "[포토]추경호대구광역시장,대구치맥페스티벌개막축하",
   "\"오픈AI할라피뇨칩위협무색\"...엔비디아(NVDA),AI반도체지배력안...",
   "폴스타,최대486km주행'폴스타3'출시…9월출고",
@@ -6001,7 +5997,11 @@
   "해킹피해가경영리스크로…'안전판'떠오른사이버보험",
   "뉴욕증시,반도체株급락에혼조마감…다우'사상최고'",
   "[美증시특징주]반도체에서제약주로'빅로테이션'...머크·J&J·암젠...",
-  "크롬스토어파고든가짜AI,마이크로소프트“즉각삭제하라”"
+  "크롬스토어파고든가짜AI,마이크로소프트“즉각삭제하라”",
+  "뉴욕증시,반도체주차익실현에혼조마감…다우는사상최고치",
+  "뉴욕증시혼조세…AI차익실현에나스닥밀리고다우는사상최고치",
+  "뉴욕증시,반도체추락속혼조마감...다우최고치",
+  "[미국특징주]마이크론,트럼프\"위대한기업\"극찬에도주가내리막"
  ],
  "recent_sigs": [
   [
@@ -6137,7 +6137,7 @@
    "리스크로 경영 안전판 떠오른 피해가 사이버보험"
   ]
  ],
- "last_run": "2026-07-03T06:24:36.160766+09:00",
+ "last_run": "2026-07-03T06:26:38.265025+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
