@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inven.co.kr/webzine/news/?news=318037",
-  "https://www.newspim.com/news/view/20260701001391",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3623557",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3623555",
-  "https://www.aitimes.com/news/articleView.html?idxno=212333",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008637286&plink=ORI&cooper=NAVER",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714743",
-  "http://www.osen.co.kr/article/G1112831975",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247372&CMPT_CD=P0010",
   "https://www.joongboo.com/news/articleView.html?idxno=363730342",
   "https://www.ngonews.kr/news/articleView.html?idxno=232041",
   "https://www.mediawatch.kr/news/article.html?no=260260",
@@ -2999,18 +2990,18 @@
   "https://www.kgnews.co.kr/news/article.html?no=902334",
   "https://www.ppss.kr/news/articleView.html?idxno=300832",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441410",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335533"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335533",
+  "https://www.ddaily.co.kr/page/view/2026070215074214821",
+  "https://www.slist.kr/news/articleView.html?idxno=749176",
+  "https://www.mediapen.com/news/view/1107914",
+  "https://www.mk.co.kr/article/12088823",
+  "http://www.globalepic.co.kr/view.php?ud=20260702151906486348439a4874_29",
+  "https://www.etnews.com/20260702000365",
+  "https://www.cnbizm.com/news/articleView.html?idxno=307400",
+  "https://biz.heraldcorp.com/article/10796249",
+  "https://www.electimes.com/news/articleView.html?idxno=369870"
  ],
  "seen_titles": [
-  "최태원SK회장\"좋은질문이AI시대최고의경쟁력\"",
-  "정부,'피지컬AI1강도약'청사진공개…\"미·중에종속않는독자기...",
-  "SK브로드밴드노조,SK스토아매각반대총파업…“라포랩스인수자금...",
-  "대한상의최태원\"AI로성장하려면…예측가능제도환경필요\"",
-  "람다256,'노딧데이터셰어'오픈베타시작",
-  "빈집고쳐작은학교살린다…제주도,주거지원대폭확대",
-  "7월31일개막'차이나조이2026',천개이상의게임시연예고",
-  "[종합]강훈식\"미사용포인트,지역화폐전환추진…메가프로젝트담...",
-  "\"저출생이뭐예요?\"…퀴즈로배우는인구교실'인구골든벨'눈길",
   "대구광역시,다낭시자매도시대표단...7월대구축제개막식참석",
   "[게시판]마키나락스,AIOS'런웨이'기반산업AI파트너십가동등단...",
   "[자막뉴스]\"이게진짜이해충돌아니라고?\"…트럼프,대통령되고1조...",
@@ -6001,7 +5992,16 @@
   "“통신비자동납부바꾸고치킨·커피받으세요”하나은행,SKT결제변...",
   "'퀀텀코리아2026'개막...SK텔레콤·KT양자암호기술공개",
   "LG유플러스AI사업성장에올해영업이익1조복귀하나,해킹수사·임단...",
-  "공영방송사장교체'카운트다운'"
+  "공영방송사장교체'카운트다운'",
+  "[2026보안공시②]\"유출량보다피해에집중\"…사고겪은기업6곳,보...",
+  "한국레노버'탭플러스2세대'...샥즈'오픈닷2·에어'출시",
+  "NHN두레이,오스템임플란트에협업툴공급…글로벌SaaS전환확대",
+  "스페이스X스마트폰나올까...머스크“완전한거짓”반박했지만...",
+  "[EpicWhy]한미반도체곽동신회장,왜자사주계속살까",
+  "올2분기해킹그늘걷어낸통신3사…“이제는AI로성장”",
+  "SK텔레콤,한국서비스품질지수'27년연속1위'수성",
+  "“소프트뱅크,오픈AI지분담보로100억달러대출협상재개”",
+  "정보공개했더니또논란…부산지하철E효율화사업'매칭사업비'공방"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-07-02T15:26:15.961594+09:00",
    "교체 카운트다운 사장 공영방송"
+  ],
+  [
+   "2026-07-02T15:28:15.429164+09:00",
+   "E효율화사업 공방 논란 정보공개했더니 매칭사업비 부산지하철"
   ]
  ],
- "last_run": "2026-07-02T15:26:43.833243+09:00",
+ "last_run": "2026-07-02T15:28:40.634179+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
