@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://chmbc.co.kr/article/Adm9uI1KwiGW",
-  "https://www.xportsnews.com/article/2166812",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2444407",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3623455",
-  "https://www.yna.co.kr/view/AKR20260701175100003?input=1195m",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=81283",
   "https://www.ziksir.com/news/articleView.html?idxno=138769",
   "https://www.meconomynews.com/news/articleView.html?idxno=132379",
   "https://www.gukjenews.com/news/articleView.html?idxno=3623463",
@@ -2999,15 +2993,15 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=847854",
   "https://www.thedailypost.kr/news/articleView.html?idxno=114540",
   "https://www.news1.kr/it-science/cc-newmedia/6215877",
-  "https://www.dt.co.kr/article/12070834"
+  "https://www.dt.co.kr/article/12070834",
+  "https://www.news1.kr/finance/general-finance/6215872",
+  "http://www.lawissue.co.kr/view.php?ud=20260702144045461767191f6c6e_12",
+  "https://www.khan.co.kr/article/202607021442001",
+  "https://www.smartbizn.com/news/articleView.html?idxno=147598",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1382223",
+  "http://www.knpnews.com/news/articleView.html?idxno=33984"
  ],
  "seen_titles": [
-  "[단독]‘스페이스X’7000원텔레통해3초면샀다[회색지대주식토큰...",
-  "피지컬AI산업발전위한'AI반도체SW플랫폼연구회'성료",
-  "[기업들]2026년하반기키워드는'지속가능경영·상생금융·인도적지...",
-  "SDT,퀀텀코리아2026서풀스택양자솔루션공개",
-  "퀄컴HBC로엔비디아AI서버시장지배력에도전,삼성전자SK하이닉스...",
-  "\"AI로비즈니스모델재설계해야\"",
   "'지역방송도AI시대'..방미통위,강원방송인AI교육",
   "\"처음겪어본일이라많이놀라\"타격1위가사라졌다!수비중허리염...",
   "[2026방산포럼]단순무기판매넘어패키지·현지화로'다극화시대'넘...",
@@ -6001,7 +5995,13 @@
   "[지배구조핵심지표기업분석]②SKT,이통3사중유일기업지배구조...",
   "마키나락스,상반기수주200억돌파전망…국방·제조투트랙으로'초...",
   "'등록취소위법'통일TV,2심도승소…2일방송사업자지위회복",
-  "[속보]20%도로꺼진국힘,지지자8할“6·3선거조작됐다”…중도·..."
+  "[속보]20%도로꺼진국힘,지지자8할“6·3선거조작됐다”…중도·...",
+  "250만명가입한우리銀삼성월렛머니,다이소·CU에서도쓴다",
+  "도로가숲되니…여의도금융·목동교육묶는‘서남권골든웨이’뜬...",
+  "청년특화정책잇따라내놓는서울시…“청년에‘AI이용권’준다”",
+  "\"한국이가장싸다\"···'폴스타3'7790만원승부수",
+  "KT,실속형KT전용단말기'갤럭시점프5'3일출시",
+  "넷마블보안투자,2021년73억서2025년54억으로감소…해킹이후투자..."
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-07-02T14:42:15.400769+09:00",
    "지지자 중도 꺼진 8할 국힘 도로 3선거 조작됐다"
+  ],
+  [
+   "2026-07-02T14:44:14.628123+09:00",
+   "2025년 54억으로 투자 넷마블 73억서 감소 2021년 이후 보안투자"
   ]
  ],
- "last_run": "2026-07-02T14:42:43.900526+09:00",
+ "last_run": "2026-07-02T14:44:42.551170+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7031,6 +7035,7 @@
   "dailysmart.co.kr": "스마트경제",
   "lawtalknews.co.kr": "로톡뉴스",
   "medisobizanews.com": "메디소비자뉴스",
-  "kbsm.net": "경북신문"
+  "kbsm.net": "경북신문",
+  "knpnews.com": "한국원자력신문"
  }
 }
