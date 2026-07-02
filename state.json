@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260701000111",
-  "https://www.kukinews.com/article/view/kuk202607010053",
-  "https://www.etoday.co.kr/news/view/2599063",
-  "https://www.yna.co.kr/view/AKR20260701080600002?input=1195m",
-  "https://www.news1.kr/finance/general-finance/6214001",
-  "https://www.mt.co.kr/tech/2026/07/01/2026070109390062647",
-  "https://www.news1.kr/industry/general-industry/6214187",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003247466&CMPT_CD=P0010",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=305948",
-  "https://www.munhwa.com/article/11599530",
-  "https://www.munhwa.com/article/11599531",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=91663",
   "https://www.munhwa.com/article/11599549",
   "http://www.wsobi.com/news/articleView.html?idxno=314556",
   "https://www.dt.co.kr/article/12070505",
@@ -2999,21 +2987,21 @@
   "https://www.hankyung.com/article/202607020981g",
   "https://www.sedaily.com/article/20062846",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440537",
-  "https://www.sedaily.com/article/20062855"
+  "https://www.sedaily.com/article/20062855",
+  "https://www.socialvalue.kr/news/view/1065574801749492",
+  "https://www.thepowernews.co.kr/view.php?ud=202607020959487706cf2d78c68_7",
+  "https://www.ize.co.kr/news/articleView.html?idxno=78424",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3624069",
+  "https://biz.heraldcorp.com/article/10795563",
+  "https://www.bntnews.co.kr/article/view/bnt202607020038",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=127949",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=45974",
+  "https://www.sedaily.com/article/20062852",
+  "https://www.greened.kr/news/articleView.html?idxno=343886",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4092366",
+  "https://www.newstree.kr/newsView/ntr202607020004"
  ],
  "seen_titles": [
-  "국회의장-대한상공회의소경제대도약간담회[포토]",
-  "퀀텀코리아2026'2일개막…세계양자기술서울집결",
-  "KTalsoreducesbenefitsofcombination",
-  "과기정통부,'퀀텀코리아2026'개최…세계양자기술의현재와미래를...",
-  "中AI,저가대체재넘어美기술우위흔드나…\"서방인식도전환\"",
-  "\"영화속기술이현실로\"…미래바꿀양자축제'퀀텀코리아2026'개막",
-  "세계양자기업서울집결…'퀀텀코리아2026'2일개막",
-  "“보험점검센터는공공기관이아닙니다”…금감원,소비자경보'주의'...",
-  "“‘보험점검센터’공공기관아닙니다”…금감원,소비자경보발령",
-  "\"보험점검센터아닙니다\"…금감원,민간DB업체꼼수영업에소비자경보...",
-  "\"보험점검센터는공공기관아닌GA영업\"…금감원,소비자경보",
-  "무심코\"보험무료진단\"개인정보동의…GA불건전영업수단으로",
   "IBM·아이온큐한자리에…'2026퀀텀코리아'개최",
   "최태원\"언제될지모른다가장어려워…법·제도,예측가능해야\"(종합...",
   "보이스피싱범행과유사?공모관계도특정못한검찰의황당의견서",
@@ -6001,7 +5989,19 @@
   "4755조메가프로젝트에노조·개미들'반발'…\"논의서빠졌다\"",
   "AI은행원이하루80명응대…신한,6523억절감",
   "\"메가특구성공열쇠는규제합리화\"…대한상의AI토론회",
-  "美,앤스로픽AI수출통제18일만에해제"
+  "美,앤스로픽AI수출통제18일만에해제",
+  "현대카드,국가바우처통합이용‘국민행복현대카드’출시",
+  "볼트업,7월부터충전요금인하...통신·금융·완성차제휴혜택확대",
+  "'그대에게드림'황인엽,'로맨스장인'굳힐영화감독",
+  "제주청년창업브랜드한자리에…'탐나는마켓'새단장",
+  "오세훈,‘청년AI사다리’발표…“청년에AI서비스무료이용권”",
+  "[단독]캐시워크돈버는퀴즈정답7월2일",
+  "뉴욕發AI쇼크에'삼전닉스'폭락...코스피,8000선붕괴'매도사이드...",
+  "美AI반도체주,차익실현매물에하락",
+  "삼성,1.4나노승부수…양자컴퓨팅으로‘연산병목’푼다",
+  "성호전자'무자본레버리지'의역습…지배력·자금줄동시마비위기③",
+  "투숙객정보보호잘하는호텔,등급평가시우대",
+  "SK계열,이동통신·초고속·IPTV'품질1위'석권...SKT는27년연속"
  ],
  "recent_sigs": [
   [
@@ -6525,7 +6525,7 @@
    "수출통제 해제 18일 만에"
   ]
  ],
- "last_run": "2026-07-02T10:02:45.905605+09:00",
+ "last_run": "2026-07-02T10:04:34.543320+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
