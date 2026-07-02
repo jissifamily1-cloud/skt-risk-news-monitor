@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4092241",
-  "https://www.newsis.com/view/NISX20260630_0003689883",
-  "https://www.mk.co.kr/article/12086677",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5202909",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335485",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04969206645486968",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3624864",
   "https://www.news1.kr/society/court-prosecution/6216321",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=243922",
-  "https://www.kyosu.net/news/articleView.html?idxno=207240"
+  "https://www.kyosu.net/news/articleView.html?idxno=207240",
+  "https://www.sedaily.com/article/20063231",
+  "https://www.sedaily.com/article/20063230",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317483"
  ],
  "seen_titles": [
-  "네이버·구글·카카오,작년성착취물등14만건지웠다",
-  "네카오·구글,불법촬영물14만건삭제·차단…100만건은사전차단",
-  "아동·청소년성착취물,딥페이크영상물등14만건삭제·차단",
   "불법촬영물삭제·차단14만건…딥페이크대응성과",
   "\"케이블TV,'5극3특'지역균형발전에필수…제도적뒷받침해야\"",
   "\"네카오·구글등지난해불법성착취물14만건삭제·차단\"",
@@ -6001,7 +5998,10 @@
   "용인시,제6회요양보호사의날기념행사개최…100여명참석",
   "윤석열,법정서\"선관위에계엄군보낸건시스템점검위한것\"주장",
   "공정위지원속'SK상생협력'확대한다",
-  "\"AI주권확보하려면,K-도메인버티컬AI구축해야\""
+  "\"AI주권확보하려면,K-도메인버티컬AI구축해야\"",
+  "K벤처,멈췄던중동시장다시두드린다",
+  "양자보안사업키우는KT,장거리QKD도개발",
+  "글로벌플랫폼이한국서수수료폭리취하는이유"
  ],
  "recent_sigs": [
   [
@@ -6687,9 +6687,17 @@
   [
    "2026-07-02T18:22:16.754655+09:00",
    "버티컬 구축해야 확보하려면 도메인 주권"
+  ],
+  [
+   "2026-07-02T18:24:15.378074+09:00",
+   "~KT 키우는 QKD도 양자보안사업 장거리 개발"
+  ],
+  [
+   "2026-07-02T18:24:15.378074+09:00",
+   "폭리 이유 플랫폼이 한국서 글로벌 수수료 취하는"
   ]
  ],
- "last_run": "2026-07-02T18:22:39.237840+09:00",
+ "last_run": "2026-07-02T18:24:42.036258+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
