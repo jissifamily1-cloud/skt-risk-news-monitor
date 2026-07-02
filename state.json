@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/7985819",
-  "https://www.newsis.com/view/NISI20260701_0021345174",
-  "https://www.newsis.com/view/NISI20260701_0021345176",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100189",
-  "https://www.news1.kr/photos/7985820",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=59066",
-  "https://www.hellot.net/news/article.html?no=113527",
-  "https://zdnet.co.kr/view/?no=20260701103959",
-  "https://www.news1.kr/photos/7985837",
-  "https://www.news1.kr/industry/general-industry/6214124",
-  "https://view.asiae.co.kr/article/2026070108135982767",
   "https://www.newspim.com/news/view/20260701000605",
   "https://www.cbci.co.kr/news/articleView.html?idxno=585845",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=243871",
@@ -2999,20 +2988,20 @@
   "https://www.yna.co.kr/view/AKR20260702040100002?input=1195m",
   "https://www.etnews.com/20260702000071",
   "https://www.bizwork.co.kr/news/articleView.html?idxno=417041",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008638033&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008638033&plink=ORI&cooper=NAVER",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102015",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81294",
+  "https://www.news1.kr/finance/insurance-card/6215288",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=679049",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260702505&PRO_CODE=99",
+  "https://www.wikitree.co.kr/articles/1144343",
+  "https://www.yna.co.kr/view/AKR20260702042300008?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714792",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464924",
+  "https://www.chosun.com/economy/tech_it/2026/07/02/5OTSBOE6DNACJLV6ORVUOGNMKY/",
+  "https://www.businessplus.kr/news/articleView.html?idxno=113617"
  ],
  "seen_titles": [
-  "\"이제사진도사전검사?\"…7월1일부터커뮤니티업로드가달라진다",
-  "美정부,앤트로픽첨단AI'미토스5'수출통제해제",
-  "강원랜드,도박중독예방'AI상담챗봇'오픈",
-  "미토스수출통제해제...韓기업접근권한가능성",
-  "SKT에이닷,AI에이전트기능강화…고객센터통화대기·일정관리돕는...",
-  "SK,전국에15GWAI데이터센터·1,100조반도체벨트…\"AI수출국도약\"",
-  "대한상의찾은조정식국회의장",
-  "최태원대한상의회장,국회의장-대한상공회의소경제대도약간담회발...",
-  "국회의장-대한상공회의소경제대도약간담회발언하는최태원회장",
-  "기념촬영하는조정식국회의장과최태원대한상의회장",
-  "[맥락읽기]가전이로봇을넘본다…LG전자,CEO직속조직신설로'로봇...",
   "대한민국경제대도약위해!",
   "[칼럼]존점퍼이직이보여준AI시대의진짜경쟁력",
   "[이슈포커스]美,對中AI규제외려역풍부나...기술격차좁혀졌다",
@@ -6001,7 +5990,18 @@
   "[게시판]하나은행\"SKT통신비자동납부등록하면BBQ쿠폰\"",
   "[에듀플러스]빌딩숲바람길예측해야폭염막고대기질개선…고려대...",
   "LG유플러스,여름멤버십혜택키운다…장기고객엔레고랜드파티초청",
-  "[정치쇼]김성환\"호남클러스터,용인급되면원전증설도고민할것,원..."
+  "[정치쇼]김성환\"호남클러스터,용인급되면원전증설도고민할것,원...",
+  "AI·6G시대본격화…통신3사,차세대양자암호기술공개",
+  "LGU+,여름맞이'유플투쁠'혜택확대…장기고객'워터풀파티'초청",
+  "BC카드,금융특화AI검색모델공개…금융전문용어검색성능↑",
+  "AI때문에올렸다는데…두터운마진에도가격올린애플,진짜속내는",
+  "[속보]‘8000피깨졌다’…코스피5%급락에매도사이드카발동",
+  "준대형전기SUV'폴스타3'출시…400km대주행·에어서스펜션갖춰",
+  "[특징주]삼전·닉스7%대급락…삼성전자30만원선내줘",
+  "[EBN데이터센터]코스피,美반도체삭풍에매도사이드카발동…5%이...",
+  "국내거래소보안전쟁격화…빗썸,포상금업계최고로올렸다",
+  "‘결합할인’축소·폐지나선통신3사…AI투자늘고해킹사태수습...",
+  "KT,50만원대전용AI스마트폰'갤럭시점프5'단독출시"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,13 @@
   [
    "2026-07-02T09:38:15.915211+09:00",
    "용인급 클러스터 호남 원전증설도 되면 김성환 고민할"
+  ],
+  [
+   "2026-07-02T09:40:36.666909+09:00",
+   "폐지 나선 늘고 수습 3사 축소 투자 결합할인 사태 통신"
   ]
  ],
- "last_run": "2026-07-02T09:38:33.383403+09:00",
+ "last_run": "2026-07-02T09:40:54.300259+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
