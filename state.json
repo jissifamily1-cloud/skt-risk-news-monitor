@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=434315",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624169",
-  "https://www.g-enews.com/view.php?ud=202607020948015054a6e8311f64_1",
-  "https://www.sentv.co.kr/article/view/sentv202607020058",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680654",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714821",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=140961",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=1160",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260703_0003694239",
   "https://www.hankookilbo.com/news/article/A2026070308000003192?did=NA",
   "https://www.donga.com/news/Inter/article/all/20260703/134229158/1",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680998"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680998",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248354&CMPT_CD=P0010",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300022.html",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423180",
+  "https://www.kyeonggi.com/article/20260629580688",
+  "https://www.seoulfn.com/news/articleView.html?idxno=632557"
  ],
  "seen_titles": [
-  "KT,유·무선양자키분배고도화하며상용화실증속도",
-  "\"인구·구매력확대기대\"...800조반도체투자에광주·서남권유통가...",
-  "롯데카드,보이스피싱예방체계강화…통신3사제휴",
-  "KBO리그역사상형제투타대결서첫피홈런맞은KT박영현“형을직구...",
-  "밀양시,민선9기첫날시정비전·방침확정…핵심공약반영",
   "한컴,주총서36년만에'에이전틱OS기업'전환선언'",
   "KT,50만원대실속형AI폰갤럭시점프5출시",
   "마피8000만원이웃돈5000만원으로…삼성기대감에광주집값기대감...",
@@ -6001,7 +5996,12 @@
   "美반도체주급락에프리마켓서삼성전자2%↓SK하이닉스3%↓",
   "백악관\"쿠팡,이재명정부에찍혀\"…韓유감표명뒤반박",
   "“북한,올해상반기만전세계가상자산1조원해킹”",
-  "미재무부,트론기반ISIS연계암호화폐지갑130여개제재"
+  "미재무부,트론기반ISIS연계암호화폐지갑130여개제재",
+  "'삼전닉스'가1000조투자하는HBM,딥시크논문한편의균열",
+  "[속보]美반도체연쇄급락에하이닉스,프리장서3%대하락…삼전,...",
+  "[뉴욕마켓워치]긴축우려덜었지만반도체는또추락…달러↓주식·채...",
+  "[지지대]흔들리지않는소버린AI",
+  "애플,인도협력사해킹에아이폰18실물정보유출"
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,13 @@
   [
    "2026-07-03T08:06:16.929902+09:00",
    "제재 지갑 트론 재무부 ISIS 기반 암호화폐 연계 130여개"
+  ],
+  [
+   "2026-07-03T08:08:16.405434+09:00",
+   "아이폰18 인도 협력사 해킹에 유출 실물 애플 정보"
   ]
  ],
- "last_run": "2026-07-03T08:06:35.322999+09:00",
+ "last_run": "2026-07-03T08:08:40.682743+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
