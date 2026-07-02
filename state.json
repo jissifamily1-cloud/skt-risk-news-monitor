@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sidae.com/article/2026070113151743150",
-  "https://www.tokenpost.kr/news/policy/374199",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310353",
-  "https://www.venturesquare.net/1095062/",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=212760",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05264406645510256",
-  "https://www.news1.kr/finance/general-stock/6214657",
-  "https://www.newspim.com/news/view/20260701001147",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361412",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=59074",
   "https://www.gukjenews.com/news/articleView.html?idxno=3623345",
@@ -2999,17 +2991,17 @@
   "http://www.jeollailbo.com/news/articleView.html?idxno=804290",
   "https://www.sisaweek.com/news/articleView.html?idxno=236472",
   "https://www.mk.co.kr/article/12088687",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260702133428LaP"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260702133428LaP",
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=1133",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=123069",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=783171",
+  "https://www.mt.co.kr/industry/2026/07/02/2026070211100145984",
+  "http://www.boannews.com/media/view.asp?idx=144458&kind=3",
+  "http://www.kdfnews.com/news/articleView.html?idxno=184812",
+  "http://www.medisobizanews.com/news/articleView.html?idxno=139889",
+  "https://biz.sbs.co.kr/article_hub/20000320297?division=NAVER"
  ],
  "seen_titles": [
-  "민선9기이철우지사취임…\"경북대전환·지방시대완성\"",
-  "코스피,외국인'팔자'에2%내려8,300대…코스닥은상승(종합)",
-  "[뉴스락현장]최태원\"AI투자엔예측가능성중요\"…조정식국회의장...",
-  "최태원,이재용제쳤다…SK영업익2년연속1위'수익성압승'",
-  "'삼성·LG대형호재!'안우진,5일두산전아닌7일KT전등판\"물집초...",
-  "엔씨‘신더시티’스팀페이지오픈∙∙∙신규게임소개영상공개",
-  "정부'메가프로젝트'시동,국내NPU스타트업볕들까",
-  "EU미카전면시행…유토그,유럽29개국운영자격확보",
   "\"AI혁명·공급망재편,대한민국대도약의기회로만들자\"",
   "한성숙총리취임…스타트업계“AI·벤처정책골든타임왔다”",
   "AI스페라,'크리미널IP'오픈CTI공식연동",
@@ -6001,7 +5993,15 @@
   "AI반도체시대,전북은언제까지'낙수효과'만구걸할것인가",
   "폴스타,신차'폴스타3'출격…\"전세계최저가수준\"",
   "마이크론급락에반도체株‘출렁’…다음주삼성전자실적에쏠린눈",
-  "미하원\"한국,美기업차별적공격…쿠팡표적\""
+  "미하원\"한국,美기업차별적공격…쿠팡표적\"",
+  "롯데카드,통신3사와맞손…AI보이스피싱피해예방나서",
+  "롯데카드,통신3사AI보이스피싱탐지솔루션도입",
+  "[위클리오늘]동해시,정부AI메가프로젝트대응전담TF구성추진",
+  "암참,AI리더십위원회출범…美기업\"규제,예측가능해야\"",
+  "보안관제,AI에이전트가주도한다...SOC패러다임대전환예고",
+  "\"장기고객위한워터풀파티\"...LG유플러스,레고랜드행사연다",
+  "GC녹십자웰빙,'2026통증치료최신지견좌담회'성료",
+  "미니밴크기원자로로엔비디아블랙엘움직였다"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-07-02T13:34:15.427622+09:00",
    "클라우드 일부 자금 가져 간다 매출 보증하고 업체에"
+  ],
+  [
+   "2026-07-02T13:38:15.823824+09:00",
+   "최신 지견 치료 성료 통증 GC녹십자웰빙 좌담회"
+  ],
+  [
+   "2026-07-02T13:38:15.823824+09:00",
+   "블랙엘 크기 미니밴 원자로로 움직였다"
   ]
  ],
- "last_run": "2026-07-02T13:36:32.029447+09:00",
+ "last_run": "2026-07-02T13:38:37.580253+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6989,6 +6997,7 @@
   "tgdaily.co.kr": "더게임스데일리",
   "ddanzi.com": "ddanzi.com",
   "dailysmart.co.kr": "스마트경제",
-  "lawtalknews.co.kr": "로톡뉴스"
+  "lawtalknews.co.kr": "로톡뉴스",
+  "medisobizanews.com": "메디소비자뉴스"
  }
 }
