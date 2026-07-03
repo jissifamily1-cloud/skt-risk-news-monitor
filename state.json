@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260702000194",
-  "https://www.livebiz.today/news/articleView.html?idxno=203030",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624291",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624300",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624305",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624262",
-  "https://www.munhwa.com/article/11599802",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86325",
   "https://www.munhwa.com/article/11599816",
   "https://www.gukjenews.com/news/articleView.html?idxno=3624310",
   "http://www.sisacast.kr/news/articleView.html?idxno=97366",
@@ -2999,17 +2991,17 @@
   "https://www.etoday.co.kr/news/view/2599901",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1529444",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681012",
-  "https://www.apnews.kr/news/articleView.html?idxno=3049455"
+  "https://www.apnews.kr/news/articleView.html?idxno=3049455",
+  "http://www.engjournal.co.kr/news/articleView.html?idxno=3851",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625293",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6935864",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=81176",
+  "https://www.koreajoongangdaily.com/bilingual-news/securitys-strongest-shield-becomes-a-barrier-to-innovation-kor/12753557",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000047385",
+  "http://www.sisacast.kr/news/articleView.html?idxno=97171",
+  "https://www.medigatenews.com/news/1239079219"
  ],
  "seen_titles": [
-  "판타지오남궁견회장,새드라마‘고분고분한킬러’공동제작확정",
-  "美,앤트로픽AI수출통제해제…프런티어AI'정부공동검증'체계본...",
-  "폴스타,고성능전기SUV\\'폴스타3\\'출시..가격은7790만~9990만원",
-  "LG유플러스,7월멤버십혜택확대…워터파크할인부터레고랜드특별...",
-  "美백악관,다음주AI'자율규제표준'공개…오픈AI·구글과막바지협...",
-  "기계에지능을더하다…정부,자율정밀제조등피지컬AI전략가동",
-  "\"경쟁률34대1뚫었다\"…신한은행·서울시,204개기업중'금융생태계...",
-  "\"美증시의AI집중도닷컴버블붕괴당시수준\"",
   "美마이크로원자로,엔비디아블랙웰구동시연성공",
   "'로맨스장인'의귀환…황인엽,'그대에게드림'스틸선물",
   "SK하이닉스美ADR상장으로더주목받는SK·SK스퀘어...증권사들목표...",
@@ -6001,7 +5993,15 @@
   "[특징주]美반도체급락에도⋯삼성전자·SK하이닉스동반반등",
   "미매체\"앤트로픽,삼성과자체개발AI칩생산논의\"",
   "SKT,T우주서'구글AI플랜'출시…월최대2100원할인",
-  "[AP미디어동향7월1주]외신기자들,정부의가짜뉴스처벌법우려"
+  "[AP미디어동향7월1주]외신기자들,정부의가짜뉴스처벌법우려",
+  "AI의품질과안전성검증,핵심은AI신뢰성평가",
+  "광주권역부본부,110여명참여신속동료구조팀특별훈련실시",
+  "KB국민은행,현대백화점·국민연금공단과전주서상생형'오픈스토어'...",
+  "KB국민은행,전주서소상공인돕는'오픈스토어'개최…상생경영박차",
+  "Security'sstrongestshieldbecomesabarriertoinnovation(KOR)",
+  "트럼프\"AI안전장치필요하지만최소한\"…규제최소화시사",
+  "[경제전망]자본시장연구원,하반기인플레이션불확실성커지고환율...",
+  "문헌분석부터데이터처리까지…앤트로픽,연구AI'클로드사이언스'..."
  ],
  "recent_sigs": [
   [
@@ -6361,7 +6361,7 @@
    "정부의 우려 가짜뉴스처벌법 외신기자들"
   ]
  ],
- "last_run": "2026-07-03T09:18:38.569286+09:00",
+ "last_run": "2026-07-03T09:20:57.177451+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
