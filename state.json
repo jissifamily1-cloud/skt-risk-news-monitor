@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600487",
-  "http://www.osen.co.kr/article/G1112832425",
-  "https://www.mk.co.kr/article/12087764",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=586167",
-  "https://www.newspim.com/news/view/20260702000572",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680222",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=250941",
-  "https://www.seoul.co.kr/news/economy/2026/07/02/20260702500098?wlog_tag3=naver",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160267896055135",
   "https://www.segye.com/newsView/20260702508993?OutUrl=naver",
   "https://www.it-b.co.kr/news/articleView.html?idxno=88938",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20260703041900008?input=1195m",
   "https://imnews.imbc.com/replay/2026/nw930/article/6834725_36996.html",
   "https://www.ddaily.co.kr/page/view/2026070309385233209",
-  "https://www.newspim.com/news/view/20260703000188"
+  "https://www.newspim.com/news/view/20260703000188",
+  "https://zdnet.co.kr/view/?no=20260703094452",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166719",
+  "https://zdnet.co.kr/view/?no=20260703091105",
+  "https://sports.khan.co.kr/article/202607030946003?pt=nv",
+  "https://www.irobotnews.com/news/articleView.html?idxno=47231",
+  "https://www.yna.co.kr/view/AKR20260703042100009?input=1195m",
+  "https://www.youthdaily.co.kr/news/article.html?no=222209",
+  "https://hbnpress.com/news/view/1065571485847953"
  ],
  "seen_titles": [
-  "'와0.00-0'한화22살제로맨의솔직고백,나고야행왜욕심없었겠나…...",
-  "비씨카드,금융특화AI검색모델공개",
-  "[창간17주년]한국에너지기술평가원이승재원장",
-  "신한은행,서울시와함께피노베이션스타트업선발",
-  "34대1경쟁률뚫었다…신한은행,차세대핀테크이끌6개혁신기업선...",
-  "달러스테이블코인연합체출범에서클주가폭락…\"우려과도\"",
-  "캐나다온타리오주경제개발부장관,제약바이오협회방문…AI신약개발...",
-  "\"1년치AI예산이석달만에삭제…'AI토큰비용'단속나선기업들",
   "[카수다]폴스타3가던진질문,폴스타는비싸도납득될까",
   "일본,지자체USB이용실태조사…‘해킹의심’USB사용후속조치",
   "“손민한느낌난다”→“한국에몇없는투수”감독들왜하나같이극...",
@@ -6001,7 +5993,15 @@
   "코스피,외국인'팔자'에하락지속…7,400대후퇴(종합)",
   "'AI과잉투자'우려에‥美반도체주또급락",
   "SKT,T우주에'구글AI플랜'…제미나이구독서비스",
-  "[AIMY뉴스]3일중국증시'변곡점장세,섹터간차별화심화'"
+  "[AIMY뉴스]3일중국증시'변곡점장세,섹터간차별화심화'",
+  "4년전3G종료한T모바일,8월에2G통신스위치내린다",
+  "휴대전화개통안면인증도입…대포폰차단강화",
+  "\"아이폰18프로,미국만C2대신퀄컴모뎀\"…이유는?",
+  "박기표안전지대대표…암참,AI리더십위원회출범식참여",
+  "광운대로빛,로보컵2026휴머노이드축구리그참가…엑스와이지기술...",
+  "\"AI경쟁승리에도움돼야\"…트럼프,동맹새로정의한다",
+  "\"파운드리반등기회\"…앤트로픽,삼성과AI칩생산논의",
+  "‘1위SK최태원vs2위삼성이재용’...K-브랜드지수CEO부문TOP10순..."
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,17 @@
   [
    "2026-07-03T09:46:18.262323+09:00",
    "차별화 변곡점 3일 중국증시 장세 섹터간 심화"
+  ],
+  [
+   "2026-07-03T09:48:14.811507+09:00",
+   "스위치 종료한 T모바일 내린다 3G 통신 4년전 2G 8월에"
+  ],
+  [
+   "2026-07-03T09:48:14.811507+09:00",
+   "삼성 1위 브랜드지수 이재용 TOP10 부문 2위 CEO vs SK"
   ]
  ],
- "last_run": "2026-07-03T09:46:42.186325+09:00",
+ "last_run": "2026-07-03T09:48:43.368453+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
