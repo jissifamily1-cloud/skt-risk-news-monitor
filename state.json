@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423089",
-  "https://www.yna.co.kr/view/AKR20260701168300017?input=1195m",
-  "https://www.newsis.com/view/NISX20260702_0003693472",
-  "https://www.ekn.kr/web/view.php?key=20260702028508593",
-  "https://www.etnews.com/20260702000302",
-  "https://imnews.imbc.com/replay/2026/nw1700/article/6834272_36981.html",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680404",
-  "https://www.kbsm.net/news/view.php?idx=525359",
-  "https://www.ytn.co.kr/_ln/0104_202607021421205226",
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4022788",
   "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55859",
   "https://www.dongponews.net/news/articleView.html?idxno=59074",
@@ -2999,18 +2990,18 @@
   "https://www.sportschosun.com/baseball/2026-07-03/202607030100020840001049",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008640189&plink=ORI&cooper=NAVER",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51255",
-  "https://zdnet.co.kr/view/?no=20260703081749"
+  "https://zdnet.co.kr/view/?no=20260703081749",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441490",
+  "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=0023&key=202607021644023721",
+  "https://www.aitimes.com/news/articleView.html?idxno=212377",
+  "https://www.huffingtonpost.kr/article/258430",
+  "https://view.asiae.co.kr/article/2026070309255810812",
+  "https://biz.heraldcorp.com/article/10797144",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260702141924191",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714875",
+  "https://zdnet.co.kr/view/?no=20260703100706"
  ],
  "seen_titles": [
-  "[공식]‘사령탑바람대로’두산,벤자민정식계약…새외인타자유...",
-  "외국인매수몰린밸류업株…실적과주주환원기대커진다",
-  "“AI서비스폭증에통신망도진화”…노키아,AI-RAN전략공개",
-  "\"임신·출산부터육아까지\"…현대카드,국민행복카드출시",
-  "김제시,외국인유학생유치위해산·학·관협력'업무협약'체결",
-  "메타신사업에또피크아웃…\"반도체,5년간거뜬\"",
-  "LS일렉트릭,세계최초DC팩토리앞세워차세대전력시장선점",
-  "\"800V입은전기SUV\"…폴스타3국내출시",
-  "M7,AI투자부담에지난달시총2조달러증발",
   "방미통위,유료방송기금업무이관반영규정정비",
   "교육부\"삼전닉스·서울대,지방국립대계약학과신설검토중\"",
   "국제유가추락에도웃지못하는코스피…‘빅쇼트’예언적중했나[머...",
@@ -6001,7 +5992,16 @@
   "\"괜찮으세요?\"주심연속강타에안절부절…23세안방마님,3안타만큼...",
   "트럼프\"AI기업규제일부필요하지만최소한으로\"",
   "삼성전자'AI반도체'업고파운드리날개짓",
-  "KT·네이버클라우드,국정자원개편청사진그린다"
+  "KT·네이버클라우드,국정자원개편청사진그린다",
+  "삼성전자파운드리,미국앤트로픽과AI칩생산협업논의",
+  "[다시보기]7월2일(목)오후사이언스투데이",
+  "앤트로픽,자체AI칩개발착수…삼성전자에제조맡기나",
+  "삼성전자파운드리대형고객사추가할까,해외언론\"클로드개발사앤트...",
+  "트럼프증권계좌,관세유예하루전327건매수",
+  "美의회‘쿠팡보고서’후폭풍…野“무역분쟁우려”",
+  "통일TV방송채널사업자지위회복…방미통위상고포기",
+  "개인정보유출신고1년새5만건…개보위,침해대응현장점검",
+  "할인받고,나눠쓰고...휴가철이통사별'로밍'꼭확인하세요"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-07-03T10:56:16.118318+09:00",
    "업고 반도체 파운드리 날개짓 삼성전자"
+  ],
+  [
+   "2026-07-03T10:58:16.826398+09:00",
+   "확인하세요 이통사별 할인받고 휴가철 로밍 나눠쓰고"
   ]
  ],
- "last_run": "2026-07-03T10:56:40.909121+09:00",
+ "last_run": "2026-07-03T10:58:41.136752+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
