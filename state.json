@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12088823",
-  "http://www.globalepic.co.kr/view.php?ud=20260702151906486348439a4874_29",
-  "https://www.etnews.com/20260702000365",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307400",
   "https://biz.heraldcorp.com/article/10796249",
   "https://www.electimes.com/news/articleView.html?idxno=369870",
   "https://www.gukjenews.com/news/articleView.html?idxno=3624632",
@@ -2999,13 +2995,13 @@
   "http://www.newsprime.co.kr/news/article.html?no=739030",
   "http://www.spochoo.com/news/articleView.html?idxno=126961",
   "http://www.4th.kr/news/articleView.html?idxno=2114165",
-  "https://zdnet.co.kr/view/?no=20260703110717"
+  "https://zdnet.co.kr/view/?no=20260703110717",
+  "http://www.4th.kr/news/articleView.html?idxno=2114162",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681043",
+  "https://www.donga.com/news/Politics/article/all/20260703/134230271/1",
+  "https://zdnet.co.kr/view/?no=20260703120719"
  ],
  "seen_titles": [
-  "'영업정지'롯데카드,헐값에팔리나…금융위에쏠린눈",
-  "“통신비자동납부바꾸고치킨·커피받으세요”하나은행,SKT결제변...",
-  "'퀀텀코리아2026'개막...SK텔레콤·KT양자암호기술공개",
-  "LG유플러스AI사업성장에올해영업이익1조복귀하나,해킹수사·임단...",
   "공영방송사장교체'카운트다운'",
   "[2026보안공시②]\"유출량보다피해에집중\"…사고겪은기업6곳,보...",
   "한국레노버'탭플러스2세대'...샥즈'오픈닷2·에어'출시",
@@ -6001,7 +5997,11 @@
   "개보위,AI시대'개인정보보호체계'개편…'원칙중심'전환",
   "잠실의낮과밤,좌석색상까지유니폼에…마지막잠실올스타전,어센...",
   "\"노후자금잡아라\"..증권사,시니어자산관리경쟁가열",
-  "[AI는지금]AI도입성패가르는FDE…기업밀착형구축경쟁본격화"
+  "[AI는지금]AI도입성패가르는FDE…기업밀착형구축경쟁본격화",
+  "[경제소식]KB국민은행상생형'오픈스토어'열어..\"지역경제활성화\"",
+  "과기정통부,'퀀텀코리아'계기한-캐나다·영국·EU협력강화",
+  "“北,올해가상자산1조원해킹…전세계피해액의66%”",
+  "[현장]오픈AI\"AI벤치마크한계…토큰·비용·시간까지고려해야\""
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,17 @@
   [
    "2026-07-03T12:12:15.584680+09:00",
    "중심 시대 개인정보보호체계 원칙 개편"
+  ],
+  [
+   "2026-07-03T12:18:15.491077+09:00",
+   "과기정통부 협력 캐나다 EU 계기 강화 퀀텀코리아 영국"
+  ],
+  [
+   "2026-07-03T12:18:15.491077+09:00",
+   "한계 고려해야 토큰 비용 벤치마크 시간까지"
   ]
  ],
- "last_run": "2026-07-03T12:16:35.792659+09:00",
+ "last_run": "2026-07-03T12:18:39.596605+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
