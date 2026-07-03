@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6215693",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40798",
-  "https://www.mt.co.kr/industry/2026/07/02/2026070111190311164",
-  "http://www.breaknews.com/1218581",
-  "https://www.sedaily.com/article/20062843",
-  "https://view.asiae.co.kr/article/2026070209195493540",
-  "https://www.yna.co.kr/view/AKR20260702044000003?input=1195m",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1382044",
-  "https://www.newspim.com/news/view/20260702000443",
-  "https://www.newspim.com/news/view/20260702000600",
   "https://www.newspim.com/news/view/20260702000630",
   "https://www.gukjenews.com/news/articleView.html?idxno=3624377",
   "https://www.gukjenews.com/news/articleView.html?idxno=3624317",
@@ -2999,19 +2989,19 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=154916",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030058186&code=61141411&cp=nv",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571193970668",
-  "https://www.socialvalue.kr/news/view/1065571407493388"
+  "https://www.socialvalue.kr/news/view/1065571407493388",
+  "https://www.hg-times.com/news/articleView.html?idxno=303284",
+  "https://www.g-enews.com/view.php?ud=202607030923344163d7a510102_1",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104108",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=306203",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030058201&code=61141111&cp=nv",
+  "https://biz.chosun.com/it-science/ict/2026/07/03/XBX45K7HRJHTTNGEDQBYVIBLSE/",
+  "http://www.popcornnews.net/news/articleView.html?idxno=125531",
+  "https://www.sedaily.com/article/20063379",
+  "https://vop.co.kr/A00001695650.html",
+  "https://www.ytn.co.kr/_ln/0101_202607030951317552"
  ],
  "seen_titles": [
-  "박셀바이오,인터비즈포럼서기술공급자로참가...사업화박차",
-  "하나은행,K텔레콤과협업통해금융서비스확장",
-  "SK하이닉스,청주에100조쏟는다…\"AI낸드수요폭발에증설불가피\"",
-  "쉬어갈구간이없다…‘개막임박’2026FSL서머,모든조가‘죽음의...",
-  "AWS,아마존오픈서치서비스에로그분석성능강화…추가비용은없어",
-  "AI붐에부자몰린샌프란시스코,월세880만원돌파",
-  "‘빅쇼트’마이클버리“韓반도체투자,AI정점신호”...공매도베...",
-  "“스페이스X,AI폰프로토타입공개”...머스크는부인",
-  "진화하거나도태되거나…AI시대의적자생존",
-  "암참,AI리더십위원회출범\"韓AIG3도약민관협력강화\"(종합)",
   "삼성,충청권에140조원투자…\"디스플레이·HBM·배터리·AI패키지로...",
   "업피플,'MVC(미션·비전·핵심가치)웨비나'7월14일개최",
   "LGU+,여플투쁠여름혜택강화..장기고객‘워터풀파티’쏜다",
@@ -6001,7 +5991,17 @@
   "앤트로픽,삼성전자에AI칩생산맡기나...파운드리대형고객확보기...",
   "SKT,40만원대가성비5G폰‘갤럭시와이드9’출시",
   "최태원SK회장,삼성이재용삼성회장제치고K-브랜드지수CEO부문정...",
-  "LG구광모,K-브랜드지수CEO부문3위…박정원·정몽주톱10신규진입"
+  "LG구광모,K-브랜드지수CEO부문3위…박정원·정몽주톱10신규진입",
+  "[KBO]LG,'최하위'키움꺾고시즌50승선착..삼성김백산데뷔전승리",
+  "네이버,'세이프티'페이지오픈…재난·기상특보제공",
+  "KB국민은행,전주서소상공인돕는상생형'오픈스토어'운영",
+  "코스피,장중7400선까지밀려…외국인11거래일째'팔자'",
+  "코스피,7400대후퇴…외국인매도세에낙폭3%확대",
+  "서울대,총상금2,300만원전국대학생AI경진대회…“제한된자원속...",
+  "SKT,'T우주'에구글AI구독출시…\"OTT넘어AI까지판다\"",
+  "“앤스로픽,삼성과AI칩생산논의”오픈AI와자체칩경쟁",
+  "FT“오픈AI,미국정부에‘지분5%제공·국부펀드조성’제안”",
+  "\"북,올상반기가상자산1조해킹...전세계피해액66%\""
  ],
  "recent_sigs": [
   [
@@ -6433,7 +6433,7 @@
    "하락 마감 주가 83달러"
   ]
  ],
- "last_run": "2026-07-03T09:54:36.321773+09:00",
+ "last_run": "2026-07-03T09:56:38.522963+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
