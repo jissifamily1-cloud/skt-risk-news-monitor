@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202606160053",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=845272",
   "https://www.seoul.co.kr/news/society/accident/2026/06/19/20260619500112?wlog_tag3=naver",
   "https://www.news1.kr/local/jeju/6202414",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2440290",
@@ -2999,11 +2997,11 @@
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1529554",
   "http://www.osen.co.kr/article/G1112833501",
   "http://www.osen.co.kr/article/G1112833500",
-  "http://andongmbc.co.kr/adboard/NewsView83459"
+  "http://andongmbc.co.kr/adboard/NewsView83459",
+  "http://www.osen.co.kr/article/G1112833503",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441568"
  ],
  "seen_titles": [
-  "IPO위해분사한KT클라우드,KT로재편입…\"AI가치극대화\"",
-  "이통3사,AI-RAN투자잰걸음…\"신규요금제논의가능성\"",
   "이통사최적요금고지제도,실효성두고'회의론'솔솔",
   "GS네오텍,‘가짜010차단’맞춤형합법발신솔루션으로시장공략",
   "\"이돈이면넷플릭스본다\"…이통사'지상파·종편VOD'요금제의한계",
@@ -6001,7 +5999,9 @@
   "[월드e브리핑]독일,경제개혁승부수…부자증세·노동유연화",
   "[사진]한동희'다른투수로두번째투런포'",
   "[사진]이이무라'타이밍뺐는다'",
-  "R]영남권첨단산업발전비전국민보고회..대구·경북'실망'"
+  "R]영남권첨단산업발전비전국민보고회..대구·경북'실망'",
+  "[사진]한동희'투런포윙크'",
+  "[7월4일자]비즈니스포스트아침의주요기사"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,13 @@
   [
    "2026-07-03T20:54:15.996659+09:00",
    "유연화 경제개혁 독일 증세 부자 노동 승부수"
+  ],
+  [
+   "2026-07-03T20:58:16.304120+09:00",
+   "비즈니스포스트 아침의 주요기사"
   ]
  ],
- "last_run": "2026-07-03T20:56:33.079061+09:00",
+ "last_run": "2026-07-03T20:58:35.724049+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
