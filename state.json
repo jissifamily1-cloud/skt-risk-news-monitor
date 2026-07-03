@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/7988771",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86833",
-  "https://www.veritas-a.com/news/articleView.html?idxno=617666",
-  "https://www.hankyung.com/article/202607021889O",
-  "https://www.sejungilbo.com/news/articleView.html?idxno=59063",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82795",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310466",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2285291",
   "http://www.dailyesports.com/view.php?ud=202607021352156106b91e133c1f_27",
   "https://sports.donga.com/sports/article/all/20260702/134223190/1",
@@ -2999,16 +2992,16 @@
   "https://www.ajunews.com/view/20260703101917804",
   "https://www.gokorea.kr/news/articleView.html?idxno=871061",
   "https://www.dt.co.kr/article/12070958",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601356"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601356",
+  "https://www.hyunbulnews.com/news/articleView.html?idxno=504161",
+  "https://theopiniontimes.news/ms-ai-%ec%bb%a8%ec%84%a4%ed%8c%85-%ed%8c%90%ec%97%90-3%ec%a1%b0%ec%9b%90-%ec%8a%b9%eb%b6%80%ec%88%98-%ed%94%84%eb%a1%a0%ed%8b%b0%ec%96%b4-%ec%bb%b4%ed%8d%bc%eb%8b%88-%eb%9d%84%ec%9a%b0/",
+  "http://www.joseilbo.com/news/news_read.php?uid=571222&class=17",
+  "https://www.gokorea.kr/news/articleView.html?idxno=871065",
+  "https://biz.heraldcorp.com/article/10797071",
+  "https://www.bloter.net/news/articleView.html?idxno=666930",
+  "https://dealsite.co.kr/articles/164727"
  ],
  "seen_titles": [
-  "아이폰18프로실물유출⋯X게시글삭제·계정정지'이례적'",
-  "KT,국산양자암호장비로보안주권강화",
-  "엔비디아,AI인프라수익분배협력모델출시",
-  "[카드PICK]'복지는넓히고보안은강화하고'…카드업계,서비스경쟁...",
-  "[충청권첨단산업육성]삼성140조·SK하이닉스100조투자…“AI소재·...",
-  "이어클립형오픈형이어폰'샥스오픈닷2·오픈닷에어'",
-  "美D램집단소송소장분석···삼성·SK하이닉스겨눈담합논리는",
   "SKT,한국서비스품질지수이동통신1위",
   "SKT,한국서비스품질지수‘27년연속1위’",
   "[퀀텀코리아2026]글로벌양자기업한자리에...양자컴퓨팅플랫폼과개...",
@@ -6001,7 +5994,14 @@
   "[핫타임]메타쇼크여진에SK하이닉스4%대약세…반도체주'휘청'",
   "\"코스피하락세,외국인매도에7,400대주춤…반도체대형주희비교차...",
   "삼성파운드리또‘청신호’…美매체“앤트로픽,삼성과AI칩생산논...",
-  "[전격시사]김우창청와대국가AI정책비서관-“중부권포화상태심각..."
+  "[전격시사]김우창청와대국가AI정책비서관-“중부권포화상태심각...",
+  "[붓다,AI윤리에답하다]⑬스스로연구하는AI",
+  "MS,AI컨설팅판에3조원승부수…'프론티어컴퍼니'띄우고6000명대...",
+  "메타쇼크진정되나…삼성웃고SK목표가는뛴다[칩칩폭폭]",
+  "외국인매도에코스피7,400선붕괴…반도체주여파계속",
+  "美의회‘쿠팡보고서’후폭풍…野“무역분쟁으로번질우려”[이런...",
+  "[KTAI해부]③B2B본격공략…컨설팅통박상원에거는기대",
+  "[제약+]동아쏘시오그룹3사,‘ESG베스트기업’선정外"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,21 @@
   [
    "2026-07-03T10:24:14.816712+09:00",
    "중부권 국가AI정책비서관 포화상태 청와대 김우창 심각"
+  ],
+  [
+   "2026-07-03T10:26:14.650009+09:00",
+   "선정 동아쏘시오그룹 베스트 기업 ESG 3사"
+  ],
+  [
+   "2026-07-03T10:26:14.650009+09:00",
+   "본격 기대 B2B 박상원에 컨설팅통 공략 거는 ~KT"
+  ],
+  [
+   "2026-07-03T10:26:14.650009+09:00",
+   "판에 컴퍼니 6000명 승부수 띄우고 프론티어 3조원 MS 컨설팅"
   ]
  ],
- "last_run": "2026-07-03T10:24:36.510062+09:00",
+ "last_run": "2026-07-03T10:26:45.037466+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
