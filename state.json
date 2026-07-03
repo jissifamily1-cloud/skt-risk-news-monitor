@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10795948",
-  "https://www.news1.kr/industry/auto-industry/6215632",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=88934",
-  "https://zdnet.co.kr/view/?no=20260702113757",
-  "https://www.xportsnews.com/article/2167166",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680700",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624263",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272363",
-  "https://www.viva100.com/article/20260702500662",
-  "https://www.medigatenews.com/news/1239079219",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=126371",
-  "http://www.4th.kr/news/articleView.html?idxno=2114092",
   "https://www.todayeconomic.com/news/article.html?no=31163",
   "http://www.osen.co.kr/article/G1112832443",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607021120153840700",
@@ -2999,21 +2987,21 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037095",
   "https://zdnet.co.kr/view/?no=20260703090543",
   "https://www.sedaily.com/article/20063339",
-  "https://www.etnews.com/20260703000025"
+  "https://www.etnews.com/20260703000025",
+  "https://www.bntnews.co.kr/article/view/bnt202607030088",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625289",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625284",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625280",
+  "http://www.press9.kr/news/articleView.html?idxno=78852",
+  "http://coinreaders.com/245872",
+  "https://www.sentv.co.kr/article/view/sentv202607030009",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=314509",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681022",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=305698",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445088",
+  "http://www.iminju.net/news/articleView.html?idxno=166157"
  ],
  "seen_titles": [
-  "볼트업,'충전요금인하'···제휴혜택확대",
-  "LG전자,아시아HVAC거점확대…B2B공략속도높인다",
-  "“한국,美기업차별적공격”美하원법사위보고서공개",
-  "대량실점잦아지는마무리성영탁…깊어지는KIA의고민",
-  "BC카드,금융특화AI임베딩모델공개…생성형AI검색정확도↑",
-  "헤일리온,MS와전사적AI확대제휴",
-  "통신3사,차세대양자보안전면확대…AI시대대응속도",
-  "T1·젠지안방격돌…LCK후반레이스29일막오른다",
-  "36년‘한글과컴퓨터’역사접고‘한컴’으로…AI넘어‘에이전틱O...",
-  "메타,클라우드사업뛰어든다…업계지각변동예고",
-  "신승규부사장\"새만금AI밸리성공위해전력·정주여건개선필요\"",
-  "SKT,AI·6G시대보안대비한다…퀀텀코리아서양자암호기술공개",
   "아카마이-엔비디아,AI팩토리보안맞손…\"인프라단계서제로트러스...",
   "'ERA8.18'KIA마무리왜이래?…이틀휴식에도2실점흔들,이대로괜찮...",
   "'인터넷의아버지'빈트서프,20년몸담은구글떠난다",
@@ -6001,7 +5989,19 @@
   "SKT,40만원대가성비폰'갤럭시와이드9'선봬",
   "美2위샌드위치체인저지마이크스,증시입성추진",
   "北올상반기가상자산1조원해킹…전세계피해액3분의2",
-  "[에듀플러스]〈기고〉AI시대초등학교정보교육더이상미룰수없다"
+  "[에듀플러스]〈기고〉AI시대초등학교정보교육더이상미룰수없다",
+  "‘닥터섬보이’종영D-2,관전포인트",
+  "대구시수성구,도자워크숍작품품평회개최...작가·관계자15명참석",
+  "[포토]대구시수성구청·한국커리어혁신진흥원,'실무형AI·SW인재육...",
+  "전남광주통합특별시52개해수욕장순차개장…8월23일까지운영",
+  "KB국민은행,대기업·공공기관과협력해지역소상공인자립생태계키...",
+  "SMCI,대만發수출규정위반논란에'발목'...\"매출늘었지만전망치하...",
+  "코스피,장초반1%강세…삼전닉스동반상승",
+  "김우빈의시선이향한차…폴스타3,국내출시캠페인본격화",
+  "SKT,가성비5G폰'갤럭시와이드9'출시…출고가46만9700원",
+  "SKT,T우주서'구글AI플랜'출시…\"AI구독라인업확대\"",
+  "SKT,T우주'구글AI플랜'출시···\"다양한라인업\"",
+  "李대통령,진주서영남권투자청사진공개…방산·우주항공중심"
  ],
  "recent_sigs": [
   [
@@ -6353,7 +6353,7 @@
    "체인 증시 저지 마이크스 샌드위치 입성 2위"
   ]
  ],
- "last_run": "2026-07-03T09:12:43.108455+09:00",
+ "last_run": "2026-07-03T09:14:32.524715+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
