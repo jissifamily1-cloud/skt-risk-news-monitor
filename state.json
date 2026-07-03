@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=362073",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237034",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624574",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624570",
-  "https://www.etoday.co.kr/news/view/2599651",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=212792",
   "http://www.fnnews.com/news/202607021414130715",
   "https://www.inthenews.co.kr/news/article.html?no=88873",
   "https://www.munhwa.com/article/11599880",
@@ -2999,15 +2993,15 @@
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1271297",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=359715",
   "http://www.newsprime.co.kr/news/article.html?no=739025",
-  "https://www.yna.co.kr/view/AKR20260703024651530?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260703024651530?input=1195m",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/07/03/2026070380069.html",
+  "https://biz.heraldcorp.com/article/10797230",
+  "https://biz.heraldcorp.com/article/10797232",
+  "https://biz.sbs.co.kr/article_hub/20000320519?division=NAVER",
+  "https://www.ajunews.com/view/20260703111941932",
+  "https://www.donga.com/news/Economy/article/all/20260703/134229813/1"
  ],
  "seen_titles": [
-  "고기철전후보\"서귀포개표현장의문있다\"",
-  "스페이스X(SPCX),통신시장진출루머'솔솔'...美통신주,시총436.5억...",
-  "\"백악관,AI모델'자발적기준'마련속도전…이르면다음주공개\"",
-  "\"리니지클래식,54레벨캐릭터삭제\"…NC주가는?[B급기자의B급리포트...",
-  "[카드&Now]신한카드,토스와'TossOne신한카드'출시등",
-  "미·중,AI기술블록화...한국,제조데이터와'피지컬AI'로맞불",
   "[IT투데이]두나무'업사이드아카데미'성료外",
   "LS일렉트릭,세계최초직류배전공장가동",
   "SK텔레콤·KT,'퀀텀코리아2026'서차세대양자암호기술공개",
@@ -6001,7 +5995,13 @@
   "외국인11거래일째'팔자'…코스피장중7,400선후퇴",
   "앤트로픽날개단삼성전자파운드리",
   "'피지컬AI핵심'휴머노이드로봇핸드,메가프로젝트로'날개'…\"대외...",
-  "개보위\"위험비례개인정보보호체계구축…이행강제금도입\"(종합)"
+  "개보위\"위험비례개인정보보호체계구축…이행강제금도입\"(종합)",
+  "갤럭시코퍼레이션,로봇복합공간‘로봇파크’9월개관",
+  "2나노앞세운삼성파운드리부활청신호",
+  "SK하이닉스,10년만에낸드증설한다",
+  "M7추락에다시불거진'피크아웃'…반도체랠리에변수?",
+  "우본DaaS입찰에KT·NHN참전…네이버는국방AX로'선택과집중'",
+  "앤스로픽,삼성과AI칩생산논의…삼성파운드리부활청신호"
  ],
  "recent_sigs": [
   [
@@ -6617,7 +6617,7 @@
    "이행강제금 위험비례 도입 구축 개인정보보호체계"
   ]
  ],
- "last_run": "2026-07-03T11:26:35.478482+09:00",
+ "last_run": "2026-07-03T11:28:37.269734+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
