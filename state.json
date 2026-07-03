@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260702100551009?input=1195m",
-  "https://www.mediapen.com/news/view/1107887",
-  "https://www.aitimes.com/news/articleView.html?idxno=212354",
-  "https://www.etoday.co.kr/news/view/2599677",
-  "http://www.koreatimes.com/article/1619777",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036836",
   "https://www.m-i.kr/news/articleView.html?idxno=1387719",
   "http://www.yonhapnewstv.co.kr/news/AKR20260702150526Qza",
@@ -2999,14 +2994,14 @@
   "https://biz.heraldcorp.com/article/10797261",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=46978",
   "http://www.beyondpost.co.kr/view.php?ud=202607031133467102205868f676_30",
-  "https://biz.heraldcorp.com/article/10797282"
+  "https://biz.heraldcorp.com/article/10797282",
+  "https://new.dailypharm.com/user/news/340105?REFERER=NP",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=846008",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441501",
+  "http://www.4th.kr/news/articleView.html?idxno=2114160",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/03/2026070300084.html"
  ],
  "seen_titles": [
-  "폴스타3국내출시...유럽선1억4000만원대,한국은7790만원부터",
-  "숙명여대,MS와함께‘정보보안인재양성과정’운영…재학생·지역...",
-  "송경희개보위원장,태국개인정보보호위원회대표단면담",
-  "SK브로드밴드,KS-SQI초고속인터넷·IPTV부문단독1위",
-  "[Telecom&Now]KT,50만원대AI폰'갤럭시점프5'단독출시",
   "밸류업수혜주다시달린다…금융·보험주투자심리회복뚜렷",
   "[Invest]오픈USD,비자·마스터가판깔자…신한·삼성·두나무,각자이...",
   "구독은한번에,해지는'미로'…OTT결제피해2배쑥",
@@ -6001,7 +5996,12 @@
   "“전남광주지방분권시발점…반도체투자,대통령임기내성과”[민...",
   "KB국민은행,상생형'오픈스토어'운영…\"포용금융실천\"",
   "K-브랜드지수CEO부문,최태원·이재용·구광모순",
-  "세계최고AI전문가한국에모였다…KAIST,‘글로벌AI프론티어심포..."
+  "세계최고AI전문가한국에모였다…KAIST,‘글로벌AI프론티어심포...",
+  "바로팜,AI기반의약품주문서비스'BAROi'오픈",
+  "삼성전자,앤트로픽파운드리고객사확보하나…AI칩협업논의",
+  "트럼프지난해상호관세발표뒤빅테크주식'저가매수',이해충돌의혹...",
+  "[현장]SKT,6G양자보안표준선점나선다..PQC국제표준반영추진",
+  "800조반도체금융파트너자처한광주은행…정작대기업대출1.6조"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,17 @@
   [
    "2026-07-03T11:34:16.944876+09:00",
    "수주 발표 TKMS 임박 최종 잠수함 캐나다 한화오션 사고"
+  ],
+  [
+   "2026-07-03T11:40:35.985112+09:00",
+   "양자보안 선점 표준 나선다 PQC 6G ~SKT 반영 국제표준"
+  ],
+  [
+   "2026-07-03T11:40:35.985112+09:00",
+   "800조 광주은행 반도체 정작 금융파트너 6조 대기업대출 자처한"
   ]
  ],
- "last_run": "2026-07-03T11:38:30.905117+09:00",
+ "last_run": "2026-07-03T11:41:02.568850+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
