@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2114107",
-  "https://www.etoday.co.kr/news/view/2599596",
-  "https://www.dongponews.net/news/articleView.html?idxno=59042",
-  "http://www.4th.kr/news/articleView.html?idxno=2114088",
-  "https://www.sportsseoul.com/news/read/1620239",
-  "https://www.sedaily.com/article/20062978",
-  "http://www.press9.kr/news/articleView.html?idxno=78816",
-  "https://www.meconomynews.com/news/articleView.html?idxno=132450",
-  "https://www.m-economynews.com/news/article.html?no=68363",
-  "https://www.sedaily.com/article/20062979",
-  "http://coinreaders.com/245681",
-  "http://www.newsbrite.net/news/articleView.html?idxno=199001",
   "https://www.xportsnews.com/article/2167189",
   "https://www.econotimes.com/Trump-Administration-to-Launch-Voluntary-AI-Standards-for-Frontier-Models-1745699",
   "https://www.sedaily.com/article/20062980",
@@ -2999,21 +2987,21 @@
   "http://www.4th.kr/news/articleView.html?idxno=2114151",
   "https://www.viewsnnews.com/article?q=236930",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2445111",
-  "https://www.tokenpost.kr/news/market/374721"
+  "https://www.tokenpost.kr/news/market/374721",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625318",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681027",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141018",
+  "https://www.cstimes.com/news/articleView.html?idxno=712133",
+  "https://www.mk.co.kr/article/12089607",
+  "https://www.newspim.com/news/view/20260703000182",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422111",
+  "https://zdnet.co.kr/view/?no=20260630155619",
+  "https://www.newstnt.com/news/articleView.html?idxno=708808",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81351",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=269045",
+  "http://coinreaders.com/245873"
  ],
  "seen_titles": [
-  "우정의앙상블부터영국관현악까지…예술의전당7월마티네",
-  "코스피한때8,000선붕괴…미국기술주급락영향",
-  "'일일극왕국'MBC도참전…숏폼드라마,새격전지됐다[엔터코노미]",
-  "이명호국가데이터처차장\"야구도경제도데이터가승부가른다\"",
-  "NHN두레이,오스템임플란트에협업툴'두레이'오픈",
-  "신한은행,서울시와함께'제5회피노베이션챌린지'스타트업6곳선정",
-  "SKAX,에너지공공기관AX확산이끈다…한국전력기술과맞손",
-  "면세점'여행특화K플랫폼'으로활로찾는다",
-  "통신3사정보보호투자22%↑...보안위협대비책강화",
-  "[산업소식]온누리상품권20%환급'삼성전자감사페스티벌'5일종료",
-  "36년만에사명바꾼'한컴'...에이전틱OS기업으로본격전환",
-  "AI가AI를만드는시대성큼…'재귀적자기개선'현실로다가온다",
   "[경제소식]NH농협은행,지역정착청년지원신용대출상품첫선",
   "“나는항상이런사람이구나”…좌절금지,‘5월타율0.145’천성호가...",
   "부자들몰려오더니“방2개짜리월세가880만원”…뉴욕도제친샌프란...",
@@ -6001,7 +5989,19 @@
   "SK하이닉스\"AI경쟁,연산→메모리계층설계로확장\"",
   "코스피지수장중7,600붕괴,코스닥840붕괴",
   "SKT,'갤럭시와이드9'단독출시···출고가46만9700원",
-  "[국내증시개장시황]국내증시하락세,대형주혼조세"
+  "[국내증시개장시황]국내증시하락세,대형주혼조세",
+  "경포해수욕장'여름의시작'…2026년개장식4일열려",
+  "KB국민은행,전주서상생형'오픈스토어'운영",
+  "코스피,장초반7700선등락...美반도체급락에도'삼전닉스'반등",
+  "코스피,반도체약세에하락전환..7540선기록",
+  "“아직도빠질게더남았나”…JP모건이뽑은올여름두가지위험은...",
+  "[개장시황]코스피,보합권출발뒤하락전환…1%대약세",
+  "앤트로픽,AI기술로신약개발추진···클로드사이언스공개",
+  "\"고객사정보AI에물어도될까?\"...PR현직자들머리맞대",
+  "SK텔레콤,가성비5G폰'갤럭시와이드9'단독출시…T우주'구글AI플...",
+  "SKT,'T우주'에구글AI구독확대…40만원대'갤럭시와이드9'출시",
+  "SK텔레콤,3일부터'구글AI플랜'구독서비스출시",
+  "팔란티어(PLTR),엔비디아손잡고'급반등'...CEO발언논란에도폭발..."
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-07-03T09:34:17.400393+09:00",
    "혼조세 대형주 증시 국내 하락세"
+  ],
+  [
+   "2026-07-03T09:36:15.015286+09:00",
+   "급반등 잡고 논란에도 PLTR 팔란티어 발언 CEO 폭발"
   ]
  ],
- "last_run": "2026-07-03T09:34:35.979785+09:00",
+ "last_run": "2026-07-03T09:36:38.375932+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
