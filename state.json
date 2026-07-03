@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/living/2026/07/02/2026070215232032851",
-  "https://www.sportsseoul.com/news/read/1620321",
-  "https://www.joongangenews.com/news/articleView.html?idxno=530127",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307419",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000047343",
-  "https://www.yna.co.kr/view/AKR20260702042351008?input=1195m",
-  "https://www.newsway.co.kr/news/view?ud=2026070216105019859",
-  "https://www.sjsori.com/news/articleView.html?idxno=87267",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=91748",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=440598",
-  "https://www.sidae.com/article/2026070215295961242",
-  "https://kr.aving.net/news/articleView.html?idxno=1812083",
   "https://www.mt.co.kr/industry/2026/07/02/2026070211122697113",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310510",
   "https://www.newsis.com/view/NISX20260702_0003693823",
@@ -2999,18 +2987,21 @@
   "https://economist.co.kr/article/view/ecn202607030026",
   "https://www.hankyung.com/article/2026070344247",
   "https://www.getnews.co.kr/news/articleView.html?idxno=874066",
-  "https://www.yna.co.kr/view/AKR20260703107800017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260703107800017?input=1195m",
+  "https://www.seoulfn.com/news/articleView.html?idxno=632619",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625681",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=938040",
+  "https://isplus.com/article/view/isp202607030070",
+  "https://www.newspim.com/news/view/20260703000696",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2220311",
+  "https://www.hankookilbo.com/news/article/A2026070313500002177?did=NA",
+  "https://www.yna.co.kr/view/PYH20260703105300013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260703105400013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260703105500013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260703105700013?input=1196m",
+  "https://www.yna.co.kr/view/AKR20260703108300017?input=1195m"
  ],
  "seen_titles": [
-  "BC카드,금융특화AI검색모델공개",
-  "주대만美대사격\"대만을드론벌집으로\"…中\"잡음만들어\"",
-  "\"G마켓제대로키운다\"...쿠팡,네이버양강구도견제구날린정용진",
-  "“입는순간시원하다”…캘러웨이어패럴,‘A.I.컬렉션’으로한여름...",
-  "신한은행-서울시,'피노베이션챌린지'협업...스타트업6개사선발",
-  "신한은행,서울시와'피노베이션챌린지'스타트업6곳선정",
-  "'반도체투톱'폭락에코스피7600선주저앉아…'검은목요일'",
-  "14%↓하이닉스17년만최대급락…삼전9%↓30만원선내줘(종합)",
-  "SK,협력사에1.4조원추가지원…최창원\"반도체연결고리강화\"",
   "SK,1.4조상생투자…AI반도체생태계키운다",
   "SK,협력사와동반성장강화…상생협약체결",
   "SK하이닉스,협력사에1조4000억지원…반도체상생모델본격가동",
@@ -6001,7 +5992,16 @@
   "갤럭시코퍼레이션,‘갤럭시로봇파크’프리오픈흥행…9월그랜드오...",
   "美3300만건유출에도\"한국이차별\"…靑\"표적조사없다\"",
   "SKT,T우주'구글AI플랜'출시...\"월최대2100원할인\"",
-  "[속보]SKT정재헌\"SK,아시아최대AI데이터센터인프라허브'구축\""
+  "[속보]SKT정재헌\"SK,아시아최대AI데이터센터인프라허브'구축\"",
+  "[유통브리핑]다이소,'토이스토리'테마상품2차출시외",
+  "iM금융그룹iM캐피탈,청년대상산학연계프로그램운영...직무경험제...",
+  "제약바이오協·캐나다,AI기반신약개발공동연구모색",
+  "갤럭시코퍼레이션,'갤럭시로봇파크'프리오픈운영…9월정식개관준...",
+  "[핌in청라]김효주롯데오픈2R도선두권\"우승생각하며집중하겠다\"",
+  "글로벌AI석학한자리에…KAIST'AI프론티어심포지엄2026'",
+  "[속보]SK,영남권에총2GW급AI데이터센터...140조원투자한다",
+  "SK텔레콤,영남권투자계획발표",
+  "[속보]SKT정재헌\"울산에1호GW급AIDC건설…영남권에140조투자\""
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,17 @@
   [
    "2026-07-03T15:26:16.694518+09:00",
    "힘주는 4조원 2분기 통신3사 영업익 합산 웃돌 수익성"
+  ],
+  [
+   "2026-07-03T15:28:15.239015+09:00",
+   "AIDC 울산에 140조 건설 투자 영남권에 GW급 1호 ~SKT"
+  ],
+  [
+   "2026-07-03T15:28:15.239015+09:00",
+   "발표 영남권 ~SKT 투자계획"
   ]
  ],
- "last_run": "2026-07-03T15:26:43.407097+09:00",
+ "last_run": "2026-07-03T15:28:42.724770+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
