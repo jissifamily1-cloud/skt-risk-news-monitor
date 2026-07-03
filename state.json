@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260630000832",
-  "https://www.econovill.com/news/articleView.html?idxno=743910",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4092366",
-  "http://www.kgnews.co.kr/news/article.html?no=902359",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680981",
-  "https://biz.heraldcorp.com/article/10796687",
   "https://www.sedaily.com/article/20063295",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8601117",
   "https://www.segye.com/newsView/20260702515436?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.wikitree.co.kr/articles/1144682",
   "https://www.gukjenews.com/news/articleView.html?idxno=3626072",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=255816",
-  "http://woman.chosun.com/news/articleView.html?idxno=126234"
+  "http://woman.chosun.com/news/articleView.html?idxno=126234",
+  "https://www.news1.kr/it-science/internet-platform/6216950",
+  "https://www.hankyung.com/article/2026070229996",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01151286645511240",
+  "https://www.nongmin.com/article/20260703500610",
+  "https://www.dailian.co.kr/news/view/1663105/?sc=Naver",
+  "https://www.munhwa.com/article/11600220"
  ],
  "seen_titles": [
-  "마이크로소프트주가,오늘급등한원인은?",
-  "\"글로벌AI신약개발가속화...한국은인력·데이터한계\"",
-  "메모리품귀에가려진CPU부족심화…질주하는인텔·AMD‘이중호황...",
-  "美,엔트로픽최상위AI‘미토스’빗장풀어…韓기업접근,선별허용...",
-  "[AI판결돋보기]'매관매직'김건희징역7년…법원\"비공식적청탁구...",
-  "AI가쓴보도자료,책임은누가지나",
   "투숙객정보보호잘하는호텔,등급평가시우대",
   "[오세훈의온고지신]독립군들을생각하라",
   "앤트로픽도자체AI칩개발검토...삼성전자와파트너십논의",
@@ -6001,7 +5995,13 @@
   "클로드페이블5,美수출규제풀리자AI자동화율16%기록",
   "연꽃향기가득…'부여서동연꽃축제'개막알린윤용근의원",
   "[여경코멘토]6월넷째주5명활동···38건지적·의견무슨내용?",
-  "[키워드로읽는경제트렌드]글로벌빅테크명단재편,망고스(MANGOS)"
+  "[키워드로읽는경제트렌드]글로벌빅테크명단재편,망고스(MANGOS)",
+  "[토요리뷰]'최애'와나만의이야기를…네이버웹툰AI챗'바이어스'",
+  "\"코스피극심한변동성?…앞으로몇년더각오해야\"[노정동의어쩌다...",
+  "우리금융경영연구소,올해경제성장률2.0→3.0%로상향",
+  "[하반기이렇게달라집니다]KTX·SRT앱통합…‘계약형지역필수의사...",
+  "AI시대가바꾼선밸리…이재용이찾는'억만장자캠프'도달라졌다",
+  "‘AI황제’젠슨황의검정가죽재킷가격은…경매가최대9000만원…젠..."
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,17 @@
   [
    "2026-07-04T08:00:53.372411+09:00",
    "MANGOS 망고스 빅테크 재편 명단 글로벌"
+  ],
+  [
+   "2026-07-04T08:02:14.855154+09:00",
+   "통합 계약형 SRT KTX 지역필수의사"
+  ],
+  [
+   "2026-07-04T08:02:14.855154+09:00",
+   "선밸리 이재용이 찾는 캠프 시대가 달라졌다 억만장자 바꾼"
   ]
  ],
- "last_run": "2026-07-04T08:01:12.851987+09:00",
+ "last_run": "2026-07-04T08:02:42.508840+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
