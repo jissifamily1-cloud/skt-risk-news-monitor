@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12083857",
-  "https://www.newscj.com/news/articleView.html?idxno=3414102",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=91590",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600891",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=86224",
   "http://www.breaknews.com/1217749",
@@ -2999,12 +2996,12 @@
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2221751",
   "https://www.topdaily.kr/articles/110798",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=846094",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846097"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=846097",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=59123",
+  "https://www.hankookilbo.com/news/article/A2026070316250003103?did=NA",
+  "https://www.m-i.kr/news/articleView.html?idxno=1388129"
  ],
  "seen_titles": [
-  "SK하이닉스,협력사에5년간1조4000억원지원…AI반도체생태계조성",
-  "[AI그래픽]한화왕옌청,7월2일대전KT전투구분석",
-  "이명호국가데이터처차장…경제총조사성공기원시구",
   "“한국,미국기업들만차별한다”…쿠팡말만듣는美의회",
   "구글,EU반독점'역대최대'벌금확정…최고법원서패소",
   "소비로나를드러낸다…‘굿즈경제’[스페셜리포트]",
@@ -6001,7 +5998,10 @@
   "[KT]양자암호기술공개/갤럭시점프5출시",
   "[예별손보매각]정상화열쇠쥔‘4인4색’...6전7기성공할까",
   "[#클라우드월드]카카오'가천대클라우드현장실습'·딥엑스-고시다...",
-  "[#시큐리티포커스]시민단체'개보법개정안폐기'요구·안쿠팡공동행..."
+  "[#시큐리티포커스]시민단체'개보법개정안폐기'요구·안쿠팡공동행...",
+  "[게임뉴스]스마일게이트및라이온하트소식외",
+  "영남권312조투자에전재수·김상욱·박완수\"행정신속지원\"",
+  "加CPSP발표임박…獨TKMS'해킹'변수에한화오션촉각"
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,13 @@
   [
    "2026-07-03T18:20:39.332177+09:00",
    "개정안 폐기 공동행 안쿠팡 시민단체 개보법 요구"
+  ],
+  [
+   "2026-07-03T18:22:16.289964+09:00",
+   "발표 CPSP 임박 촉각 한화오션 변수에 TKMS"
   ]
  ],
- "last_run": "2026-07-03T18:21:00.073676+09:00",
+ "last_run": "2026-07-03T18:22:38.179277+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
