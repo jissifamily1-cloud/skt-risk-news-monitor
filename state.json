@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.dealsitetv.com/articles/172750",
-  "http://www.queen.co.kr/news/articleView.html?idxno=459642",
-  "http://www.4th.kr/news/articleView.html?idxno=2114114",
-  "http://www.joseilbo.com/news/news_read.php?uid=571163&class=42",
-  "https://www.mt.co.kr/stock/2026/07/02/2026070211084279071",
-  "https://www.wikitree.co.kr/articles/1144401",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624429",
-  "https://www.dt.co.kr/article/12070782",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61115",
-  "https://www.newstnt.com/news/articleView.html?idxno=708673",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264163",
   "https://www.onews.tv/news/articleView.html?idxno=282422",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036764",
   "https://www.mt.co.kr/tech/2026/07/02/2026070210495122176",
@@ -2999,20 +2988,20 @@
   "https://www.mk.co.kr/article/12089643",
   "http://www.breaknews.com/1218890",
   "https://www.sentv.co.kr/article/view/sentv202607030032",
-  "https://www.theguru.co.kr/news/article.html?no=103908"
+  "https://www.theguru.co.kr/news/article.html?no=103908",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625357",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625345",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403845",
+  "https://www.hidomin.com/news/articleView.html?idxno=711837",
+  "https://www.newsis.com/view/NISX20260703_0003694552",
+  "http://www.iminju.net/news/articleView.html?idxno=166145",
+  "https://www.eroun.net/news/articleView.html?idxno=84532",
+  "http://www.lawissue.co.kr/view.php?ud=2026070310040328459817d053b9_12",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681069",
+  "https://n.news.naver.com/mnews/article/214/0001509357",
+  "https://www.news1.kr/it-science/cc-newmedia/6216752"
  ],
  "seen_titles": [
-  "국회대로지하화로여의도와목동연결…서남권주거여건변화",
-  "신한은행,'제5회피노베이션챌린지'스타트업6개사선발…서울시와...",
-  "[경제직필]AI주식회사한국의위험한미래",
-  "KT,'퀀텀코리아2026'서양자암호통신기술공개…상용화·생태계확장...",
-  "아카마이-엔비디아,AI팩토리내부보안위해협력확대",
-  "[호남반도체시대②]왜호남인가…전력이답이다",
-  "하남시,미군기지규제개선으로경진대회최우수상수상",
-  "경쟁률34대1…신한은행,금융공동사업화스타트업6곳선정",
-  "[재계투데이]삼성전자감사페스티벌,오는5일마무리​外",
-  "신한은행·서울시,'피노베이션챌린지'통해혁신스타트업6곳선정.....",
-  "코스피,상반기상승률압도적1위…AI랠리주도권반도체로",
   "메타\"남는AI연산판다\"…호재인가,둔화신호인가[과잉투자vs투자...",
   "美기술주하락에삼성전자·SK하이닉스'뚝'…외인'썰물'",
   "프로야구감독30%가광주일고출신...배재고야구부학생들,프로행가...",
@@ -6001,7 +5990,18 @@
   "코스피,상승출발후하락전환7400대…외국인11일째‘팔자’",
   "SKT,가성비5G스마트폰‘갤럭시와이드9’단독출시",
   "SKT,‘갤럭시와이드9’단독출시…출고가46만9700원",
-  "[단독]'엔비디아날개단'두산,AI휴머노이드로드맵전격공개…독..."
+  "[단독]'엔비디아날개단'두산,AI휴머노이드로드맵전격공개…독...",
+  "교육과안전책임질세종시의회교육안전위원회출범",
+  "대구사이버대학교,서울캠퍼스서지역간담회...재학생·졸업생등100여...",
+  "코난테크놀로지,서부발전생성형AI플랫폼'위피봇'개통…에너지특...",
+  "코스피또7400선으로…외국인'11거래일팔자'에3%대급락",
+  "코스피,장중낙폭3%확대…'美반도체쇼크'에7400선도무너져",
+  "'지속가능경영'띄우는게임업계…사회공헌넘어설올해키워드는",
+  "SKT,T우주에'구글AI플랜'출시…AI구독서비스라인업확대",
+  "SKT'갤럭시와이드9'출시",
+  "젠슨황입던가죽재킷소더비경매…예상가4만~6만달러",
+  "[시선집중]김성환장관“美빅테크,韓에AI데이터센터짓겠다의사...",
+  "노키아,AI-RAN으로통신사수익모델제시…\"韓DX적극지원\""
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,21 @@
   [
    "2026-07-03T10:06:17.178768+09:00",
    "전격 로드맵 휴머노이드 두산 공개 날개"
+  ],
+  [
+   "2026-07-03T10:08:14.827882+09:00",
+   "김성환 장관 빅테크 짓겠다 의사 데이터센터"
+  ],
+  [
+   "2026-07-03T10:08:14.827882+09:00",
+   "모델 RAN으로 수익 노키아 제시 적극 DX 지원"
+  ],
+  [
+   "2026-07-03T10:08:14.827882+09:00",
+   "가죽 젠슨 예상가 소더비 경매 4만 6만달러 입던 재킷"
   ]
  ],
- "last_run": "2026-07-03T10:06:35.517461+09:00",
+ "last_run": "2026-07-03T10:08:40.885181+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
