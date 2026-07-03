@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008638713&plink=ORI&cooper=NAVER",
-  "https://www.newsis.com/view/NISX20260701_0003691963",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3624488",
-  "https://www.newspim.com/news/view/20260702000716",
-  "http://www.ikoreanspirit.com/news/articleView.html?idxno=86172",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=305615",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=361485",
   "https://www.mt.co.kr/future/2026/07/02/2026070208220738528",
   "https://view.asiae.co.kr/article/2026070207515977491",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1387949",
   "http://www.newsdream.kr/news/articleView.html?idxno=113970",
   "https://kpenews.com/View.aspx?No=4135795",
-  "https://www.asiatime.co.kr/article/20260703500091"
+  "https://www.asiatime.co.kr/article/20260703500091",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625380",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264196",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260703103008zOw",
+  "https://view.asiae.co.kr/article/2026070310063320391",
+  "https://www.news1.kr/world/international-economy/6216780",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3007610"
  ],
  "seen_titles": [
-  "노소영아트센터나비관장'AI시대배움'공개강연",
-  "이광형KAIST총장이임…\"도전과창업DNA심고새도약발판마련\"",
-  "신한은행·서울시,'피노베이션챌린지'로스타트업6개사선정",
-  "한컴,36년만에사명변경…문서딱지떼고AI기업으로",
-  "구자균LS일렉트릭AI데이터센터전력시장선점에전력투구:세계최...",
-  "마이클버리,韓반도체가리키며\"종말의시작\"...외신반응은?",
   "SKT,한국서비스품질지수이동통신부문'1위'…27년연속정상차지",
   "'스타트업품'안기는T커머스1위…라포랩스,SK스토아인수이달판가...",
   "자위대'중국해킹의심'USB에놀란일본정부…지자체IT장비전수조...",
@@ -6001,7 +5995,13 @@
   "美매체\"앤트로픽,삼성전자와자체AI칩위탁생산협의착수\"",
   "국민은행,지역상생형'오픈스토어'운영…\"경제활성화지원\"",
   "폴스타코리아,배우김우빈광고참여..'폴스타3'출시캠페인본격화",
-  "KT알파,개국14주년'그랜드14페스타'…최대70%할인"
+  "KT알파,개국14주년'그랜드14페스타'…최대70%할인",
+  "창녕군,군민안전보험보장강화…자연·사회재난상해후유장해신규포...",
+  "삼성전자,AI파운드리판커지나…앤트로픽·구글물량검토설솔솔",
+  "트럼프,AI시대'동맹재정의'…\"미국승리에도움돼야\"",
+  "40~50만원대가성비폰나왔다…SKT,KT동시출시",
+  "팔란티어CEO\"오픈AI·앤트로픽AI판매방식완전잘못…고객피해\"",
+  "GC녹십자웰빙,2026통증치료최신지견좌담회"
  ],
  "recent_sigs": [
   [
@@ -6535,9 +6535,13 @@
   [
    "2026-07-03T10:26:14.650009+09:00",
    "판에 컴퍼니 6000명 승부수 띄우고 프론티어 3조원 MS 컨설팅"
+  ],
+  [
+   "2026-07-03T10:32:15.687814+09:00",
+   "좌담회 통증 최신 치료 지견 GC녹십자웰빙"
   ]
  ],
- "last_run": "2026-07-03T10:31:03.868867+09:00",
+ "last_run": "2026-07-03T10:32:34.893565+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6932,6 +6936,7 @@
   "sisacast.kr": "시사캐스트",
   "tennispeople.kr": "tennispeople.kr",
   "banronbodo.com": "반론보도닷컴",
-  "newscape.co.kr": "뉴스케이프"
+  "newscape.co.kr": "뉴스케이프",
+  "bosa.co.kr": "의학신문"
  }
 }
