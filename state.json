@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/07/02/2026070214514341986",
-  "https://www.etnews.com/20260702000359",
-  "https://www.hellot.net/news/article.html?no=113556",
-  "https://www.koreajoongangdaily.com/business/anthropics-top-ai-models-set-to-return-to-korea-as-us-drops-controls/12750315",
   "https://www.pennmike.com/news/articleView.html?idxno=123062",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=268999",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1714887",
@@ -2999,13 +2995,13 @@
   "https://www.munhwa.com/article/11600083",
   "https://mhnse.com/news/articleView.html?idxno=1450662",
   "https://www.munhwa.com/article/11600080",
-  "https://www.munhwa.com/article/11600085"
+  "https://www.munhwa.com/article/11600085",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=250987",
+  "https://www.munhwa.com/article/11600111",
+  "https://www.newspim.com/news/view/20260703000455",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=130725"
  ],
  "seen_titles": [
-  "오픈AI,美정부에지분5%양도제안…FT보도",
-  "KIA는‘필승투수성영탁’을어떻게살려낼것인가",
-  "2026LCK3~4라운드,젠지-T1팀로드쇼와함께시작...아시안게임고려...",
-  "동서울대학교파크골프전문강사과정5기모집",
   "오세훈\"청년AI무료구독,세계1·2위기업과협상중\"",
   "[르포]'실물이더강했다'…폴스타3첫공개현장",
   "'애플·엔비디아족집게'댄아이브스,8년만에웨드부시떠난다…새...",
@@ -6001,7 +5997,11 @@
   "미국‘AI전략자산’본격화…트럼프,신모델출시일까지관여",
   "세베리노는1루수?'전설의1차지명'도아직마음놓을때아니다",
   "삼성,앤트로픽AI칩수주유력…‘TSMC영토’흔든다",
-  "SKT‘구글AI플랜’체험"
+  "SKT‘구글AI플랜’체험",
+  "삼성파운드리,테슬라이어앤트로픽협력도논의...\"'미운오리'서'백...",
+  "정치가산업삼킨독일의교훈[이관범의시론]",
+  "트럼프,'해방의날'폭락장서애플·엔비디아저가매수…다음날\"지금...",
+  "구윤철\"고환율피해中企에14.9조원긴급지원\""
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,13 @@
   [
    "2026-07-03T11:56:16.623956+09:00",
    "전략자산 본격화 트럼프 출시일까지 관여 신모델 미국"
+  ],
+  [
+   "2026-07-03T12:00:47.103920+09:00",
+   "지원 피해 9조원 고환율 구윤철 긴급"
   ]
  ],
- "last_run": "2026-07-03T11:58:31.611750+09:00",
+ "last_run": "2026-07-03T12:01:09.619189+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7046,6 +7050,7 @@
   "banronbodo.com": "반론보도닷컴",
   "newscape.co.kr": "뉴스케이프",
   "bosa.co.kr": "의학신문",
-  "moneystorm.kr": "머니스톰"
+  "moneystorm.kr": "머니스톰",
+  "efnews.co.kr": "파이낸셜신문"
  }
 }
