@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.hankooki.com/news/articleView.html?idxno=6935853",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100275",
-  "https://www.sedaily.com/article/20063240",
-  "https://www.newspim.com/news/view/20260702001162",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8600653",
-  "http://www.fnnews.com/news/202607021834046549",
-  "https://kidd.co.kr/news/246580",
-  "https://www.segye.com/newsView/20260702515622?OutUrl=naver",
   "http://www.boannews.com/media/view.asp?idx=144468&kind=3",
   "https://www.ngonews.kr/news/articleView.html?idxno=232130",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=82861",
@@ -2999,17 +2991,17 @@
   "https://www.usmbc.co.kr/NewsArticle/849141",
   "https://www.hankookilbo.com/news/article/A2026070316320002795?did=NA",
   "https://www.ngonews.kr/news/articleView.html?idxno=232191",
-  "https://www.aitimes.com/news/articleView.html?idxno=212389"
+  "https://www.aitimes.com/news/articleView.html?idxno=212389",
+  "https://www.mydaily.co.kr/page/view/2026070317211841742",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607031700592120888",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80327",
+  "https://www.techm.kr/news/articleView.html?idxno=153118",
+  "http://www.fnnews.com/news/202607031717413712",
+  "https://www.etoday.co.kr/news/view/2600170",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264227",
+  "http://www.4th.kr/news/articleView.html?idxno=2114207"
  ],
  "seen_titles": [
-  "[기고]전세계가활용할'AI팩토리',AIDC특화클러스터에답있다",
-  "SK그룹,협력사지원에1조4000억투입",
-  "\"200만달러규모로봇수출\"…북미서성과낸韓로보틱스기업",
-  "디노티사아,KVCache압축기술'STAR-KV'공개",
-  "R&D예산늘려도현장병목여전…'연구공간·자율성·실증병행해야'",
-  "SK,협력사와상생협약…상생문화'2차이하협력사'까지확대",
-  "SK,3차협력사까지상생협약...낙수효과한계깨고'공급망전반체질...",
-  "애플·오픈AI이어메타까지…국내주식시장시총569조증발",
   "동해시,AI데이터센터지원TF팀구성...단계별대응방안마련",
   "尹“선관위군투입은보안점검”…‘독재목적계엄’부인",
   "[기자수첩]반가운한국형AI보안망",
@@ -6001,7 +5993,15 @@
   "SKT\"울산데이터센터1GW확대구축\"",
   "삼성·SK,영남권에200조원투자...피지컬AI·데이터센터허브만든다",
   "영남권인공지능·첨단산업육성에삼성,SK,LG,한화등대규모투자",
-  "오픈AI5%제안에트럼프행정부·앤트로픽간지분논의아직없어"
+  "오픈AI5%제안에트럼프행정부·앤트로픽간지분논의아직없어",
+  "“채은성후반기복귀생각하는게낫다,(김)태연이가은성이빈자리...",
+  "자담치킨,7월자사앱·배달앱채널별할인프로모션진행…다양한채...",
+  "[단독]法,'공공회선담합'통신4사에\"40억배상하라\"(법정워치)",
+  "횡령·부당대출이어이번엔개인정보…우리은행'신뢰회복'또시험대",
+  "정재헌SKT대표\"울산에1호GW급AIDC건설…영남권에140조투자\"",
+  "李\"영남을세계제조1위로\"…6대그룹312조투자협약[종합]",
+  "SK,영남에2GWAI데이터센터만든다…140조원투자",
+  "[메가프로젝트]산업지도대개편..호남반도체·충청패키징·영남피지..."
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,17 @@
   [
    "2026-07-03T17:22:16.564554+09:00",
    "제안에 행정부 트럼프 아직 없어 논의 지분 앤트로픽"
+  ],
+  [
+   "2026-07-03T17:24:16.525146+09:00",
+   "충청 반도체 대개편 산업지도 영남 호남 패키징 피지"
+  ],
+  [
+   "2026-07-03T17:24:16.525146+09:00",
+   "법정워치 40억 배상하라 통신4사에 담합 공공회선"
   ]
  ],
- "last_run": "2026-07-03T17:22:34.777157+09:00",
+ "last_run": "2026-07-03T17:24:36.983222+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
