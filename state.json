@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12088758",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680733",
-  "https://zdnet.co.kr/view/?no=20260702143009",
-  "https://www.ajunews.com/view/20260702142016573",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=131370",
-  "http://www.press9.kr/news/articleView.html?idxno=78805",
-  "https://www.joongang.co.kr/article/25441871",
-  "http://www.newsdream.kr/news/articleView.html?idxno=113917",
-  "https://www.m-i.kr/news/articleView.html?idxno=1387691",
-  "https://biz.chosun.com/it-science/ict/2026/07/02/DLY5RFY7RNG2VO6EDSQMMVTBKM/",
   "https://www.lecturernews.com/news/articleView.html?idxno=205449",
   "https://www.gamemeca.com/mv.php?inflow=naver&gid=1777349",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465040",
@@ -2999,19 +2989,19 @@
   "https://view.asiae.co.kr/article/2026070215433917381",
   "https://imnews.imbc.com/replay/2026/nw1700/article/6834272_36981.html",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=519364",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714991"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1714991",
+  "https://www.joongangenews.com/news/articleView.html?idxno=530324",
+  "https://www.newspim.com/news/view/20260702000724",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165091",
+  "https://www.slist.kr/news/articleView.html?idxno=749374",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=434548",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=845994",
+  "https://www.ajunews.com/view/20260703103512824",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4022788",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545449",
+  "https://view.asiae.co.kr/article/2026070309114539704"
  ],
  "seen_titles": [
-  "함부로공유했다가수억원낭패볼수도…오는7일부터달라지는'이...",
-  "2026LCK3~4라운드,젠지-T1팀로드쇼와함께시작...아시안게임한국...",
-  "대전교통공사,임직원청렴의식높이려'청렴소통의장'간담회개최",
-  "캐나다온타리오주,국내제약바이오업계와산업협력논의",
-  "AI로돈번신흥부자들…롤렉스·장수치료·VIP서비스에수억쏟아붓...",
-  "오픈소스AI규제공방에'초기비트코인'데자뷔…美투자사분석",
-  "메타\"남는GPU판다\"흔들린AI슈퍼사이클…거품인가,수익화시작인...",
-  "알리바바계열앤트그룹,휴머노이드투자속도전…18개월간12곳투자",
-  "SKT,한국서비스품질지수‘27년연속1위’달성",
-  "오픈AI내부서'추론비용절감법'공유?…챗GPT운영비낮추나",
   "공무원이직접개발하는AI행정서비스…'AI정부실험실'시범운영",
   "오세훈,민선9기첫정책'청년AI사다리'...\"청년AI기본권시대연...",
   "엔닷라이트·한국전력,피지컬AI기반전력설비디지털트윈실증착수",
@@ -6001,7 +5991,17 @@
   "[남산길산책]스페이스X가여는우주시대미리보기",
   "[간추린경제]1.\"미토스빗장해제\"2.'스페이스X'주문실수?‥미래...",
   "SK,협력사와상생협약…1.4조원신규자금투입해동반성장가속화",
-  "[Telecom&Now]SKT,40만원대5G폰'갤럭시와이드9'단독출시등"
+  "[Telecom&Now]SKT,40만원대5G폰'갤럭시와이드9'단독출시등",
+  "한화,KT에14-3대승…선발왕옌청5이닝2실점승리·KT오원석패전",
+  "'마이케이팝스타',국경넘은K팝열기…예선진출자10팀무대베일...",
+  "앤트로픽,삼성전자와AI칩생산논의…파운드리수주기대감",
+  "[은행가]하나금융,대학생홍보대사발대식·국민은행'오픈스토어'운...",
+  "[뉴스워커_신한투자증권]'실버라운지'오픈…시니어WM경쟁력강화내...",
+  "[#게임스테이션]퓨처랩'AI영화특별전'·스게'AX참가'·넷마블재단'어...",
+  "[곽재원의Now&Future]메타에서시작한AI반도체주식급락나비효과",
+  "엑스온,생성형AI검색기반스킨케어브랜드GEO분석발표",
+  "SKT,구글AI구독서비스품었다…T우주AI라인업확대",
+  "서남·충청이어영남찾는李대통령…·AI·우주항공에270조투자"
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,17 @@
   [
    "2026-07-03T11:00:52.800522+09:00",
    "경쟁이 트럼프 우선 최소화 규제는 중국과"
+  ],
+  [
+   "2026-07-03T11:04:16.258795+09:00",
+   "품었다 라인업 구글 ~SKT 구독 확대 서비스 T우주"
+  ],
+  [
+   "2026-07-03T11:04:16.258795+09:00",
+   "서남 대통령 이어 우주항공에 영남 찾는 270조 충청 투자"
   ]
  ],
- "last_run": "2026-07-03T11:02:35.430262+09:00",
+ "last_run": "2026-07-03T11:04:37.617538+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
