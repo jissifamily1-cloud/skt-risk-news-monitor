@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260702_0003693798",
-  "https://www.yna.co.kr/view/AKR20260702143800007?input=1195m",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594547917600",
-  "https://www.mt.co.kr/world/2026/07/02/2026070216212414628",
   "https://www.yna.co.kr/view/AKR20260702140600053?input=1195m",
   "http://www.press9.kr/news/articleView.html?idxno=78839",
   "http://www.thevaluenews.co.kr/news/view.php?idx=199819",
@@ -2999,13 +2995,13 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465390",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030059749&code=61141411&cp=nv",
   "https://www.hidomin.com/news/articleView.html?idxno=711869",
-  "https://www.mt.co.kr/tech/2026/07/03/2026070315230228996"
+  "https://www.mt.co.kr/tech/2026/07/03/2026070315230228996",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3625694",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189370",
+  "http://www.4th.kr/news/articleView.html?idxno=2114187",
+  "https://www.newscj.com/news/articleView.html?idxno=3414271"
  ],
  "seen_titles": [
-  "AI시대데이터활용,지역이이끈다…개보위광주현장점검",
-  "[AJU+MONEY]투자고수와하수의선택지는달랐다…당신은어느쪽입니까...",
-  "SK하이닉스,협력사상생에5년간1조4000억원",
-  "SK·삼성증권,협력사와상생협약체결·싱가포르'DBS'와전략적MOU",
   "SK가1조4000억원을협력사에쏟는이유…'AI반도체전쟁'은공급망경...",
   "[현장]SK,협력사에1.4조푼다…최창원수펙스의장\"대금지급부터상...",
   "키움알칸타라,팔꿈치염증으로1군말소…전반기마감",
@@ -6001,17 +5997,13 @@
   "단순용역탈피적중…에이디테크놀로지,글로벌턴키수주로체질개선...",
   "[속보]SKT정재헌“울산에1호GW급AIDC건설…영남권에140조투자”",
   "한화·현대차·삼성·SK,영남권에297조원투자…AI미래산업키운다",
-  "정재헌SKT대표\"울산총1GW,영남2GW이상AI데이터센터구축\""
+  "정재헌SKT대표\"울산총1GW,영남2GW이상AI데이터센터구축\"",
+  "김해서부문화센터,'레디~액션!'콘서트개최",
+  "[WIKI현장]SKT,칩에서표준까지…AI·6G시대양자보안청사진",
+  "[메가프로젝트]현대차그룹영남권에42조투자…AI자율주행·우주·에...",
+  "[속보]정재헌SKT대표\"5GW급AIDC,2029년부터단계적오픈\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-03T09:34:17.400393+09:00",
-   "혼조세 대형주 증시 국내 하락세"
-  ],
-  [
-   "2026-07-03T09:36:15.015286+09:00",
-   "급반등 잡고 논란에도 PLTR 팔란티어 발언 CEO 폭발"
-  ],
   [
    "2026-07-03T09:38:15.277024+09:00",
    "업계 숨통 알뜰폰 개선이 정부 틔웠지만 시급 도매대가 중소"
@@ -6555,9 +6547,13 @@
   [
    "2026-07-03T15:34:17.240402+09:00",
    "2GW 이상 1GW 구축 대표 영남 AI데이터센터 울산 ~SKT"
+  ],
+  [
+   "2026-07-03T15:36:17.218161+09:00",
+   "오픈 단계적 대표 DC 5GW급 ~SKT 2029년부터"
   ]
  ],
- "last_run": "2026-07-03T15:34:35.549223+09:00",
+ "last_run": "2026-07-03T15:36:35.517649+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
