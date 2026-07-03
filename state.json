@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260702100223paT",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607020287&t=NN",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423103",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008638977&plink=ORI&cooper=NAVER",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423104",
@@ -2999,11 +2997,11 @@
   "https://www.dizzotv.com/site/data/html_dir/2026/07/03/2026070380071.html",
   "http://www.fnnews.com/news/202607031303205463",
   "https://www.catchnews.kr/news/articleView.html?idxno=125743",
-  "https://economist.co.kr/article/view/ecn202607030007"
+  "https://economist.co.kr/article/view/ecn202607030007",
+  "https://www.businessplus.kr/news/articleView.html?idxno=113698",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=735869"
  ],
  "seen_titles": [
-  "[속보]코스피,美반도체과잉투자우려에7.9%급락마감",
-  "메타발'반도체쇼크'…코스피장중8,000선붕괴",
   "씨큐비스타,보안기술보고서'AI가재편하는SOC운영패러다임'공개",
   "SK7개주요계열사,1·2·3차협력사상생협약체결…동반성장가속...",
   "SK,2·3차협력사까지상생확대…반도체생태계위해1.4조지원",
@@ -6001,13 +5999,11 @@
   "SKT,가성비5G폰‘갤럭시와이드9’단독출시",
   "\"300만원에서65만원떨어졌는데\"...애널들은주가420만원간다는SK하이...",
   "\"지역경제풀뿌리살린다\"국민은행,전주서상생형'오픈스토어'운영",
-  "WSJ\"삼성·SK하이닉스비중60%…한국증시AI반도체의존심화\""
+  "WSJ\"삼성·SK하이닉스비중60%…한국증시AI반도체의존심화\"",
+  "[게임게시판]스마일게이트·엔씨·컴투스·넷마블문화재단",
+  "[이슈]코스피,외국인11거래일째매도에장초반7,400대후퇴"
  ],
  "recent_sigs": [
-  [
-   "2026-07-03T07:22:16.553296+09:00",
-   "가상자산 피해액의 전세계 상반기 1조원"
-  ],
   [
    "2026-07-03T07:34:14.971895+09:00",
    "택스 리펀드 자동화 가능케 결제 스테이블코인"
@@ -6537,7 +6533,7 @@
    "420만원 65만원 주가 애널들은 떨어졌는데 간다는 300만원에서 SK하이"
   ]
  ],
- "last_run": "2026-07-03T13:22:36.769347+09:00",
+ "last_run": "2026-07-03T13:24:31.515962+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
