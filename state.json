@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.irobotnews.com/news/articleView.html?idxno=47222",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847898",
-  "https://www.ddaily.co.kr/page/view/2026070217105051357",
-  "https://www.mk.co.kr/article/12088989",
-  "https://www.dt.co.kr/article/12070893",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5036841",
   "https://www.aitimes.com/news/articleView.html?idxno=212358",
   "https://zdnet.co.kr/view/?no=20260702171303",
@@ -2999,14 +2994,14 @@
   "http://www.thevaluenews.co.kr/news/view.php?idx=199855",
   "https://www.ziksir.com/news/articleView.html?idxno=139042",
   "https://www.ytn.co.kr/_ln/0101_202607031616009324",
-  "https://www.thelec.kr/news/articleView.html?idxno=58988"
+  "https://www.thelec.kr/news/articleView.html?idxno=58988",
+  "https://www.mk.co.kr/article/12089951",
+  "https://www.khan.co.kr/article/202607031618001",
+  "https://www.asiatime.co.kr/article/20260703500320",
+  "https://www.insight.co.kr/news/561455",
+  "https://www.newsis.com/view/NISX20260703_0003695282"
  ],
  "seen_titles": [
-  "\"한국,쿠팡차별적공격\"‥\"유감,사실과달라\"",
-  "SK브로드밴드,KS-SQI초고속인터넷12년·IPTV8년연속1위기록",
-  "KT,퀀텀코리아2026참가...최첨단양자암호통신기술공개",
-  "[은행브리핑]KB국민은행,'KBAIDev센터'출범외",
-  "SK,협력사와상생협약...하이닉스5년간1.4조활용",
   "퀀텀에어로,건양대와적층제조드론자율비행기술개발과제착수",
   "[현장]암참,AI리더십위원회출범…한미AI동맹가속",
   "美반도체주급락,매도사이드카발동…코스피7.89%,하이닉스14%↓",
@@ -6001,7 +5996,12 @@
   "브리즘,대구범어스토어오픈…대구·경북맞춤형아이웨어시장공략",
   "코스피,반도체반등에8000선탈환…기관4.4조순매수",
   "청와대,쿠팡사태관련에\"국적따라기업차별대우안해\"",
-  "양자컴퓨터해킹도방어…래티스,양자내성암호FPGA기술력인정"
+  "양자컴퓨터해킹도방어…래티스,양자내성암호FPGA기술력인정",
+  "靑“쿠팡일방적주장유감…국적따라차별안해”",
+  "이대통령“남해안우주항공산업벨트구축…안보초석,명운걸고키...",
+  "李대통령“영남,대한민국초격차첨단산업태동지될것”",
+  "최태원CEO브랜드1위...AI·반도체투자로이재용·구광모앞섰다",
+  "구윤철\"영남권에6개기업이312조원+α투자할것\""
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,13 @@
   [
    "2026-07-03T16:18:17.787927+09:00",
    "FPGA 방어 인정 해킹도 기술력 양자내성암호 래티스 양자컴퓨터"
+  ],
+  [
+   "2026-07-03T16:20:37.912340+09:00",
+   "312조원 6개 기업이 구윤철 투자할 영남권에"
   ]
  ],
- "last_run": "2026-07-03T16:18:36.010890+09:00",
+ "last_run": "2026-07-03T16:21:02.316266+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
