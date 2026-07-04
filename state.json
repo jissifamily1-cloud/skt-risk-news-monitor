@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264942",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16121912",
-  "https://biz.chosun.com/it-science/ict/2026/06/30/5NPCA6M4BBFFXOHM3SM4LMUSJY/",
   "https://www.thelec.kr/news/articleView.html?idxno=59000",
   "https://www.sjsori.com/news/articleView.html?idxno=87273",
   "https://www.econotimes.com/Wall-Street-Ends-Mixed-as-Weak-Jobs-Data-Lowers-Fed-Rate-Hike-Bets-Chip-Stocks-Tumble-1745812",
@@ -2999,12 +2996,12 @@
   "http://coinreaders.com/246064",
   "https://kidd.co.kr/news/246601",
   "https://www.dailian.co.kr/news/view/1663369/?sc=Naver",
-  "https://www.tokenpost.kr/news/market/374989"
+  "https://www.tokenpost.kr/news/market/374989",
+  "https://www.starnewskorea.com/sports/2026/07/04/2026070410310054645",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=265096",
+  "https://www.ngetnews.com/news/articleView.html?idxno=551264"
  ],
  "seen_titles": [
-  "에임드바이오\"2030년시총20조…기술이전12조원목표\"",
-  "\"직류가미래다\"LS일렉트릭,세계첫100%DC팩토리가동",
-  "\"北,올상반기가상자산1조원해킹…전세계피해액의66%\"",
   "“스페이스X,이동통신시장진출추진⋯‘위성폰’시대박차”",
   "앤트로픽,삼성전자와AI칩생산협의…파운드리훈풍",
   "미국증시고용둔화에도혼조…반도체주·테슬라약세",
@@ -6001,7 +5998,10 @@
   "테슬라(TSLA)·스페이스X(SPCX),엇갈린7월운명...누가더앞서나?",
   "“AI가다해준다는환상버려라”…현업주도권이프로젝트성패가른...",
   "'5G과장광고'LG유플러스,과징금불복소송패소",
-  "AI경쟁이미국빅테크효율성부담,아시아반도체에는기회"
+  "AI경쟁이미국빅테크효율성부담,아시아반도체에는기회",
+  "[공식발표]7연패SSG,외국인투수'끝내'전원교체...ERA6.10베니지...",
+  "[데스크칼럼]'구본무의마사다'하이닉스,'양산박'미래에셋을Pick한...",
+  "OTT에서쇼핑·배달까지…생활묶는'통합구독'경쟁"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,17 @@
   [
    "2026-07-04T10:24:15.340933+09:00",
    "반도체 정말 선물일까 초강국 신의"
+  ],
+  [
+   "2026-07-04T11:00:53.508120+09:00",
+   "배달까지 묶는 통합 구독 경쟁 생활 OTT에서 쇼핑"
+  ],
+  [
+   "2026-07-04T11:00:53.508120+09:00",
+   "하이닉스 양산박 Pick한 구본무의 미래에셋을 마사다"
   ]
  ],
- "last_run": "2026-07-04T10:58:39.103738+09:00",
+ "last_run": "2026-07-04T11:01:16.012547+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6666,6 +6674,7 @@
   "efnews.co.kr": "파이낸셜신문",
   "dailypharm.com": "데일리팜",
   "todayenergy.kr": "투데이에너지",
-  "cjb.co.kr": "cjb.co.kr"
+  "cjb.co.kr": "cjb.co.kr",
+  "ngetnews.com": "뉴스저널리즘"
  }
 }
