@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=81168",
   "http://www.kwangju.co.kr/article.php?aid=1783034100800857011",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51250",
   "https://www.newscj.com/news/articleView.html?idxno=3413883",
@@ -2999,10 +2998,10 @@
   "https://news.bizwatch.co.kr/article/industry/2026/07/03/0014",
   "https://www.bloter.net/news/articleView.html?idxno=667308",
   "https://www.mk.co.kr/article/12090306",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203821"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5203821",
+  "https://zdnet.co.kr/view/?no=20260704151025"
  ],
  "seen_titles": [
-  "UN,AI글로벌거버넌스기구'AIforGood위원회'설립[글로벌AI브리핑...",
   "삼성전자,앤트로픽과손잡나…'2나노·첨단패키징'논의",
   "SKT,T우주‘구글AI플랜’출시…최대월2100원저렴하게",
   "SK텔레콤,'T우주'에구글AI이식…구독서비스경쟁력강화",
@@ -6001,7 +6000,8 @@
   "유리기판핵심'글라스코어'잡는다…삼성전기,4800억들여JV설립",
   "[KTAI해부]④로봇안판다…플랫폼에건다",
   "젠슨황의상징‘가죽재킷’경매나온다…예상낙찰가가‘무려’",
-  "'앤드로픽AI수출통제해제'…1등공신은브라운CCO였다"
+  "'앤드로픽AI수출통제해제'…1등공신은브라운CCO였다",
+  "[안광섭AI진테제]메타의클라우드사업진출이의미하는것"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-07-04T15:02:16.369753+09:00",
    "판다 ~KT 로봇 플랫폼에 건다"
+  ],
+  [
+   "2026-07-04T15:14:16.384116+09:00",
+   "클라우드사업 진출이 의미하는 메타의"
   ]
  ],
- "last_run": "2026-07-04T15:12:34.151865+09:00",
+ "last_run": "2026-07-04T15:14:34.384689+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
