@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=249500",
-  "https://www.joongangenews.com/news/articleView.html?idxno=530253",
-  "https://biz.chosun.com/science-chosun/science/2026/07/03/RHXEHZCPKVFXRCLNET4YQCFVUQ/",
-  "https://www.ekn.kr/web/view.php?key=20260703022388896",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03913046645510912",
   "https://www.it-b.co.kr/news/articleView.html?idxno=88954",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43311",
   "https://www.mt.co.kr/tech/2026/07/03/2026070314503341168",
@@ -2999,14 +2994,14 @@
   "https://www.hani.co.kr/arti/economy/it/1266760.html",
   "https://www.veritas-a.com/news/articleView.html?idxno=617979",
   "https://www.newspim.com/news/view/20260705000052",
-  "https://zdnet.co.kr/view/?no=20260705133947"
+  "https://zdnet.co.kr/view/?no=20260705133947",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068489",
+  "https://www.ytn.co.kr/_ln/0102_202607051341246859",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=846138",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01633446645511568",
+  "https://www.etnews.com/20260705000053"
  ],
  "seen_titles": [
-  "갤럭시로봇파크프리오픈시작…9월정식개관앞두고관람객맞이",
-  "\"돈못버는AI\"비판에…메타,데이터센터'임대업'나서나",
-  "靑“쿠팡차별없다...美에서발생했어도심각한이슈일것”",
-  "SKT·KT,양자암호기술잇따라공개…AI시대보안경쟁본격화",
-  "SKT,40만원대'갤럭시와이드9'단독출시…가성비5G폰승부수",
   "노벨상물리학자도못푼10년난제,클로드가증명실마리찾았다",
   "美500조에국내4755조까지…재계투자약속현실성은",
   "AI평가한계지적한오픈AI부사장“AI성적표,점수만보면착시\"",
@@ -6001,7 +5996,12 @@
   "“AI가다해준다”는착각…기업인공지능전환이더딘이유는",
   "[단독][20276월모평실채점배치표]서울대의예표점합412점'최고'연...",
   "[AI프리뷰]5일인천SSG-삼성전,SSG김건우시즌초반에이스모드발...",
-  "\"위성도통신인프라\"...GSMA,기술중립규제가이드제시"
+  "\"위성도통신인프라\"...GSMA,기술중립규제가이드제시",
+  "대구소소디시즌6가제안하는골목상권생존법",
+  "온라인몰에서피싱유도...금감원,소비자경보발령",
+  "이종배\"충주드림파크산단에SKTAI데이터센터유치총력\"",
+  "메타,AI클라우드사업자로변신하나…앤스로픽과‘전용클로드’협...",
+  "허위조작정보규제7일시행…플랫폼업계,자율규제체계정비마쳐"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,17 @@
   [
    "2026-07-05T13:38:17.931335+09:00",
    "부진 눌렀 전망 2분기 삼성전자 메모리 질주 85조 세트 영업익"
+  ],
+  [
+   "2026-07-05T13:44:15.368227+09:00",
+   "클로드 사업자로 메타 변신하나 클라우드 앤스로픽과 전용"
+  ],
+  [
+   "2026-07-05T13:44:15.368227+09:00",
+   "플랫폼 허위조작정보 자율규제 7일 시행 규제 마쳐 체계 업계 정비"
   ]
  ],
- "last_run": "2026-07-05T13:42:39.192401+09:00",
+ "last_run": "2026-07-05T13:44:42.647322+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
