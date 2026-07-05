@@ -72,3 +72,28 @@
 ## 비용
 
 전부 무료: public repo Actions 무제한 + cron-job.org 무료 + 네이버 API 무료 한도 내 + 텔레그램 무료.
+
+## 클리앙(clien.net) 커뮤니티 모니터링
+
+`clien_monitor.py` — 뉴스 모니터와 별개로, 클리앙 게시글에서 SKT/KT/유플러스 언급을 탐지하는 참고 구현.
+
+**방식**: 클리앙은 RSS·공식 API가 없고, 직접 스크래핑은 clien.net 자체 봇 차단(WAF)에
+막혀 메인 페이지·robots.txt까지 403이 뜬다(User-Agent를 바꿔도 동일 — 확인됨).
+GitHub Actions 같은 클라우드 IP도 같은 이유로 막힐 가능성이 높다.
+
+대신 네이버가 이미 클리앙 게시글을 색인해 두고, 클리앙 페이지 `<title>`이 항상
+"게시글 제목 : 클리앙" 형식이라는 점을 이용한다. 네이버 검색 오픈API의
+웹문서검색(`openapi.naver.com/v1/search/webkr.json`)에 **"{키워드} 클리앙"**으로
+질의하면 clien.net 결과가 상위에 잡히고, 클리앙 서버에 전혀 접속하지 않고
+제목·링크·스니펫을 얻을 수 있다(실제 질의로 확인: "SKT 클리앙", "KT 클리앙",
+"유플러스 클리앙" 모두 최근 클리앙 게시글이 정상 반환됨).
+
+**한계**:
+- webkr 응답에는 pubDate가 없음 → 게시글 URL 끝 숫자(사이트 전역 오름차순
+  게시글 ID)로 최신순 정렬·dedup.
+- 네이버 색인 지연(수 분~수십 분)이 있어 실시간성은 RSS보다 떨어짐.
+- 필요 환경변수는 뉴스 모니터와 동일: `NAVER_CLIENT_ID`, `NAVER_CLIENT_SECRET`.
+
+**axonetool-web으로 포팅 시**: `fetch_clien(keyword)` / `find_new_posts()` 두 함수로
+동작이 완결되므로, 텔레그램 발송이나 `clien_state.json` 로컬 파일 저장 대신
+포팅 대상 쪽의 저장소(DB 등)에 맞춰 dedup 로직만 옮기면 된다.
