@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112833538",
-  "http://www.osen.co.kr/article/G1112833535",
-  "http://www.osen.co.kr/article/G1112833536",
-  "http://www.osen.co.kr/article/G1112833537",
-  "https://www.news1.kr/sports/baseball/6217568",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=735944",
   "http://www.osen.co.kr/article/G1112833552",
   "http://www.osen.co.kr/article/G1112833544",
   "http://www.osen.co.kr/article/G1112833545",
@@ -2999,15 +2993,15 @@
   "https://www.starnewskorea.com/sports/2026/07/06/2026070607494025245",
   "https://www.xportsnews.com/article/2168553",
   "http://www.yonhapnewstv.co.kr/news/AKR20260706082538JDW",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715146"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715146",
+  "http://www.wsobi.com/news/articleView.html?idxno=314738",
+  "https://www.yna.co.kr/view/AKR20260706018100009?input=1195m",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607021055391360104429",
+  "http://www.beyondpost.co.kr/view.php?ud=20260706082704271646a9e4dd7f_30",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=82908",
+  "https://www.newspim.com/news/view/20260706000048"
  ],
  "seen_titles": [
-  "우주항공·데이터센터·피지컬AI…‘마지막퍼즐’312조영남권투자공...",
-  "[사진]KT상대4-0완승거둔롯데",
-  "[사진]한동희호출하는롯데'승리주인공이와야지'",
-  "[사진]김원중-손성빈'롯데의승리'",
-  "[사진]김원중'돌아온롯데마무리'",
-  "한동희6년만에멀티홈런…롯데,KT4-0제압",
   "KB국민은행,전주서상생형'오픈스토어'운영…소상공인판로확대지...",
   "[사진]수훈선수인터뷰하는김진욱",
   "[사진]롯데'승리포토타임'",
@@ -6001,7 +5995,13 @@
   "'연투또연투'헌신의日아쿼,99일만에KBO데뷔첫승!맏형이가장...",
   "35일만의홈런이3연패끊는결승포!그런데김현수왜기쁨대신\"미안...",
   "휴대폰개통까다로워진다…오늘부터안면인증의무화",
-  "[Tech&Now]오픈AI,정몽구재단과'AI복지인재'육성·스트라드비젼..."
+  "[Tech&Now]오픈AI,정몽구재단과'AI복지인재'육성·스트라드비젼...",
+  "통신3사,AI데이터센터구축추진...'익시오로밍콜'서비스출시...'갤...",
+  "칠레아미들뿔났다…BTS칠레콘서트장승인불허논란",
+  "[더벨]IPO막힌미코세라믹스,코미코합병가산정'새쟁점'",
+  "삼성이재용,CEO브랜드평판2026년7월...1위",
+  "AI인프라승부수띄운SKT…15GW데이터센터로'아시아허브'정조준",
+  "[AIMY뉴스]6일중국증시'안정적흐름,저평가주&고가기술주순환장..."
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-07-06T08:28:16.635169+09:00",
    "육성 복지 정몽구재단과 스트라드비젼 인재"
+  ],
+  [
+   "2026-07-06T08:30:53.921863+09:00",
+   "순환 고가 안정적 기술주 6일 흐름 저평가주 중국증시"
   ]
  ],
- "last_run": "2026-07-06T08:28:35.994975+09:00",
+ "last_run": "2026-07-06T08:31:17.859439+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
