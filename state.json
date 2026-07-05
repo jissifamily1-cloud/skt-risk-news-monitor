@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3625480",
-  "https://www.imaeil.com/page/view/2026062415102852861",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3625482",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6834783_36967.html",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307400",
   "http://www.fnnews.com/news/202607031230008910",
   "https://www.ytn.co.kr/_ln/0101_202607031223050925",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03621126645510912",
@@ -2999,14 +2994,14 @@
   "http://www.newsprime.co.kr/news/article.html?no=739030",
   "https://www.newspim.com/news/view/20260704000008",
   "http://www.newstomato.com/ReadNews.aspx?no=1306121&inflow=N",
-  "https://www.newspim.com/news/view/20260704000048"
+  "https://www.newspim.com/news/view/20260704000048",
+  "https://kidd.co.kr/news/246600",
+  "https://zdnet.co.kr/view/?no=20260703110717",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3122743",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403881",
+  "http://www.jeollailbo.com/news/articleView.html?idxno=804397"
  ],
  "seen_titles": [
-  "[패트롤]경기도-성남시-수원시-용인시",
-  "공영방송사장교체'카운트다운'",
-  "[현장]양자,연구실밖으로..'미래기술'넘어통신·국방·제조현장...",
-  "강릉시안현동주택서불…인명피해는없어",
-  "[YESKIDSZONE]비싼키카대신…육아거지맵어때요",
   "강릉성산면서차량사고…40대남성부상",
   "\"북한,올상반기에만가상자산1조원해킹\"",
   "SK텔레콤,한국서비스품질지수'27년연속1위'수성",
@@ -6001,7 +5996,12 @@
   "개보위,AI시대'개인정보보호체계'개편…'원칙중심'전환",
   "[3대메가프로젝트]SKT,2035년까지AI데이터센터15GW구축",
   "SKT는AIDC,KT는토큰경제…AI시대청사진내놓은통신사",
-  "LG유플러스,일본서'익시오로밍콜'첫선…해외무료통화확대"
+  "LG유플러스,일본서'익시오로밍콜'첫선…해외무료통화확대",
+  "로봇이유동인구분석해‘광고명당’찾아이동한다",
+  "[AI는지금]AI도입성패가르는FDE…기업밀착형구축경쟁본격화",
+  "SKT,2035년까지15GWAI데이터센터구축…아시아인프라허브목표",
+  "LG유플러스,\"해외로밍통화부담낮춘다\"…'익시오로밍콜'해외100개...",
+  "서남권반도체기지에서전북배제를애도함"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,13 @@
   [
    "2026-07-05T09:06:18.151790+09:00",
    "~SKT SKT는 토큰 시대 AIDC 청사진 내놓은 KT는 ~KT 경제"
+  ],
+  [
+   "2026-07-05T09:08:16.581568+09:00",
+   "배제를 반도체 서남권 전북 기지에서 애도함"
   ]
  ],
- "last_run": "2026-07-05T09:06:35.924461+09:00",
+ "last_run": "2026-07-05T09:08:34.212838+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
