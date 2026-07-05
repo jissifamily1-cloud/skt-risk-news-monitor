@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112833518",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160268902155004",
-  "http://coinreaders.com/245987",
-  "http://andongmbc.co.kr/adboard/NewsView83445",
   "http://www.osen.co.kr/article/G1112833519",
   "http://www.osen.co.kr/article/G1112833520",
   "http://www.yonhapnewstv.co.kr/news/MYH20260703210242Al4",
@@ -2999,13 +2995,13 @@
   "https://www.ddaily.co.kr/page/view/2026070608043716420",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1529554",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5203979",
-  "https://www.viva100.com/article/20260704500210"
+  "https://www.viva100.com/article/20260704500210",
+  "https://news.bizwatch.co.kr/article/real_estate/2026/07/01/0041",
+  "https://www.xportsnews.com/article/2168541",
+  "https://www.mt.co.kr/tech/2026/07/06/2026070607590071573",
+  "https://www.newspim.com/news/view/20260706000046"
  ],
  "seen_titles": [
-  "[도산아카데미]백준호퓨리오사AI대표“국산NPU로글로벌추론시장...",
-  "[사진]최준용맞이하는김진욱",
-  "KB국민은행,전주서상생형'오픈스토어'운영…지역소상공인판로확...",
-  "AMD,마벨지분호재터졌는데...반도체매도폭탄에주가'휘청'",
   "이재명대통령,영남권발전비전발표..TK투자계획주목",
   "[사진]이미무라'무실점피칭'",
   "[사진]김원중'마무리복귀'",
@@ -6001,7 +5997,11 @@
   "블랙덕·KMS테크놀로지,7월9일오픈소스보안리스크웨비나공동개최",
   "[월드e브리핑]독일,경제개혁승부수…부자증세·노동유연화",
   "[굿모닝경제]노르웨이산고등어2천톤들여온다/온라인쇼핑몰피싱...",
-  "[비바100]위성통신,6G시대핵심연결인프라로‘주목’"
+  "[비바100]위성통신,6G시대핵심연결인프라로‘주목’",
+  "건설사입맛다시는데이터센터…암초는'주민반대'",
+  "\"송찬의-문정빈,3G연속뛰면뻗는다\"…염갈량의유망주관리이론[잠...",
+  "신분증만으론휴대폰개통못해…오늘부터안면인증시행",
+  "李대통령,오늘메가프로젝트민관합동회의…삼성전자·SK하이닉스참석"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,17 @@
   [
    "2026-07-06T08:08:16.343639+09:00",
    "주목 핵심 연결 시대 6G 인프라로 위성통신"
+  ],
+  [
+   "2026-07-06T08:10:45.726431+09:00",
+   "신분증만으론 휴대폰 안면인증 못해 개통 오늘부터 시행"
+  ],
+  [
+   "2026-07-06T08:10:45.726431+09:00",
+   "프로젝트 참석 메가 SK하이닉스 민관합동회의 대통령 삼성전자"
   ]
  ],
- "last_run": "2026-07-06T08:08:40.784907+09:00",
+ "last_run": "2026-07-06T08:11:13.901924+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
