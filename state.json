@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681043",
-  "https://www.donga.com/news/Politics/article/all/20260703/134230271/1",
-  "https://zdnet.co.kr/view/?no=20260703120719",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3625477",
-  "https://www.ekn.kr/web/view.php?key=20260703020158991",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335533",
-  "http://www.4th.kr/news/articleView.html?idxno=2114166",
   "https://www.gukjenews.com/news/articleView.html?idxno=3625480",
   "https://www.imaeil.com/page/view/2026062415102852861",
   "https://www.gukjenews.com/news/articleView.html?idxno=3625482",
@@ -2999,16 +2992,16 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1306119&inflow=N",
   "https://view.asiae.co.kr/article/2026070509003112853",
   "https://www.newstree.kr/newsView/ntr202607030018",
-  "https://www.viva100.com/article/20260703500583"
+  "https://www.viva100.com/article/20260703500583",
+  "https://www.newspim.com/news/view/20260701001342",
+  "https://www.newspim.com/news/view/20260704000073",
+  "https://www.thisisgame.com/articles/427472",
+  "http://www.newsprime.co.kr/news/article.html?no=739030",
+  "https://www.newspim.com/news/view/20260704000008",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306121&inflow=N",
+  "https://www.newspim.com/news/view/20260704000048"
  ],
  "seen_titles": [
-  "\"노후자금잡아라\"..증권사,시니어자산관리경쟁가열",
-  "[AI는지금]AI도입성패가르는FDE…기업밀착형구축경쟁본격화",
-  "[경제소식]KB국민은행상생형'오픈스토어'열어..\"지역경제활성화\"",
-  "과기정통부,'퀀텀코리아'계기한-캐나다·영국·EU협력강화",
-  "“北,올해가상자산1조원해킹…전세계피해액의66%”",
-  "[현장]오픈AI\"AI벤치마크한계…토큰·비용·시간까지고려해야\"",
-  "주차장사라진강릉시옥천동…불법주정차로도로곳곳'몸살'",
   "[패트롤]경기도-성남시-수원시-용인시",
   "공영방송사장교체'카운트다운'",
   "[현장]양자,연구실밖으로..'미래기술'넘어통신·국방·제조현장...",
@@ -6001,7 +5994,14 @@
   "SKT,2035년까지AIDC15GW구축추진…2029년5GW부터가동",
   "SKT,15GW규모AI데이터센터구축…\"아시아AI인프라허브될것\"",
   "LG유플러스'익시오로밍콜'日서비스...연내100개국으로확대",
-  "LG유플러스,일본시작으로해외100개국에‘익시오로밍콜’출시"
+  "LG유플러스,일본시작으로해외100개국에‘익시오로밍콜’출시",
+  "日상륙한LGU+익시오로밍콜…\"해외서도국내수준통화품질확보목...",
+  "[르포]\"일본에서도통화걱정없네\"...해외에서의통화부담,익시오로...",
+  "'MicrosoftFrontierCompany:고객의고유한지능(Intelligence)을확장하...",
+  "개보위,AI시대'개인정보보호체계'개편…'원칙중심'전환",
+  "[3대메가프로젝트]SKT,2035년까지AI데이터센터15GW구축",
+  "SKT는AIDC,KT는토큰경제…AI시대청사진내놓은통신사",
+  "LG유플러스,일본서'익시오로밍콜'첫선…해외무료통화확대"
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,13 @@
   [
    "2026-07-05T09:04:16.800935+09:00",
    "~LGU 힘주는 익시오 로밍 무료통화 LGU 일본부터 고객"
+  ],
+  [
+   "2026-07-05T09:06:18.151790+09:00",
+   "~SKT SKT는 토큰 시대 AIDC 청사진 내놓은 KT는 ~KT 경제"
   ]
  ],
- "last_run": "2026-07-05T09:04:36.750596+09:00",
+ "last_run": "2026-07-05T09:06:35.924461+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
