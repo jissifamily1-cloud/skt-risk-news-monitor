@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030059749&code=61141411&cp=nv",
-  "https://www.hidomin.com/news/articleView.html?idxno=711869",
   "https://www.mt.co.kr/tech/2026/07/03/2026070315230228996",
   "https://www.gukjenews.com/news/articleView.html?idxno=3625694",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=189370",
@@ -2999,11 +2997,11 @@
   "https://www.inews365.com/news/article.html?no=926220",
   "https://www.mk.co.kr/article/12090549",
   "https://www.mediapen.com/news/view/1108271",
-  "https://www.g-enews.com/view.php?ud=20260703081614124935e857d010_1"
+  "https://www.g-enews.com/view.php?ud=20260703081614124935e857d010_1",
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=1169",
+  "https://www.dt.co.kr/article/12071184"
  ],
  "seen_titles": [
-  "단순용역탈피적중…에이디테크놀로지,글로벌턴키수주로체질개선...",
-  "[속보]SKT정재헌“울산에1호GW급AIDC건설…영남권에140조투자”",
   "한화·현대차·삼성·SK,영남권에297조원투자…AI미래산업키운다",
   "정재헌SKT대표\"울산총1GW,영남2GW이상AI데이터센터구축\"",
   "김해서부문화센터,'레디~액션!'콘서트개최",
@@ -6001,7 +5999,9 @@
   "'AI시대인재육성'음성고,마스터초청오픈세미나",
   "치솟는토큰비용에...서비스모델새판짜는AI기업들",
   "쇼핑몰결제창까지파고든피싱…금감원소비자경보",
-  "[이한우의에너지톺아보기]군사안보와에너지안보"
+  "[이한우의에너지톺아보기]군사안보와에너지안보",
+  "SKT,한국서비스품질지수27년연속1위…고객보호강화활동인정",
+  "SKT,40만원대가성비폰‘갤럭시와이드9’출시"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-07-05T15:16:14.820608+09:00",
    "구글 제미나이 출시 T우주에 900원부터 ~SKT AI플랜 3종 구독"
+  ],
+  [
+   "2026-07-05T15:34:17.002952+09:00",
+   "와이드9 가성비폰 ~SKT 출시 40만원대 갤럭시"
   ]
  ],
- "last_run": "2026-07-05T15:32:41.920644+09:00",
+ "last_run": "2026-07-05T15:34:34.640148+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
