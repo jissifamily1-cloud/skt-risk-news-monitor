@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=199842",
-  "https://zdnet.co.kr/view/?no=20260703150622",
-  "https://www.seoulfn.com/news/articleView.html?idxno=632620",
-  "https://www.thedrive.co.kr/news/newsview.php?ncode=1065592502620210",
-  "https://www.kbmaeil.com/article/20260703500157",
-  "https://www.newspim.com/news/view/20260703000652",
-  "https://www.mt.co.kr/industry/2026/07/03/2026070314435995652",
-  "https://www.etoday.co.kr/news/view/2599895",
-  "http://www.joseilbo.com/news/news_read.php?uid=571254&class=32",
-  "https://magazine.hankyung.com/business/article/202607033925b",
-  "https://zdnet.co.kr/view/?no=20260703144356",
   "https://economist.co.kr/article/view/ecn202607030026",
   "https://www.hankyung.com/article/2026070344247",
   "https://www.getnews.co.kr/news/articleView.html?idxno=874066",
@@ -2999,19 +2988,20 @@
   "https://www.newspim.com/news/view/20260705000072",
   "https://www.asiatime.co.kr/article/20260705500053",
   "https://www.news1.kr/photos/7992435",
-  "https://www.news1.kr/photos/7992441"
+  "https://www.news1.kr/photos/7992441",
+  "https://nownews.seoul.co.kr/news/newsView.php?id=20260703601012&wlog_tag3=naver",
+  "http://www.srtimes.kr/news/articleView.html?idxno=206776",
+  "https://www.news1.kr/photos/7992559",
+  "https://www.news1.kr/photos/7992555",
+  "https://www.news1.kr/photos/7992557",
+  "https://www.news1.kr/photos/7992554",
+  "https://www.news1.kr/photos/7992560",
+  "https://www.news1.kr/photos/7992558",
+  "http://www.metroseoul.co.kr/article/20260705500190",
+  "https://www.news1.kr/photos/7992550",
+  "https://www.news1.kr/photos/7992556"
  ],
  "seen_titles": [
-  "SK텔레콤주가,7월3일장중86,200원1.37%하락",
-  "[JOB현장에선]KT,확젊어진사연",
-  "홈첫승도전하는김해FC…서울E상대로후반기출발",
-  "[더밸류브리핑]오늘의KB금융소식...KB국민은행·KB자산운용",
-  "[기고]AI보안위협과금융망분리제도의딜레마",
-  "삼성전자,앤트로픽AI칩생산검토···파운드리부활청신호",
-  "레드포스PC방,광주동천점오픈…커플룸·팀룸등공간다양화",
-  "이재명대통령,영남권첨단산업비전발표…삼성·현대차·SK·한화투...",
-  "현대차그룹,영남권에10년간42조투자…AI모빌리티·제조거점키운다",
-  "현대차그룹,영남권을'첨단산업거점'으로..10년간'42조'투자",
   "이대통령,영남권첨단산업비전제시…삼성·현대차·SK·한화투자계...",
   "이대통령,영남권발전비전보고회개최…한화·현대차·삼성·SK대규모...",
   "상반기가상자산해킹3분의2는...北소행",
@@ -6001,7 +5991,17 @@
   "[AI프리뷰]5일수원KT-롯데전,사우어등판흔들리는KT잡아줄까",
   "쿠팡,개인정보유출에도'흔들림없었다'…결제액·이용자수모두회복",
   "6일부터휴대전화개통절차엄격…안면인증등도입",
-  "6일부터휴대전화개통본인확인강화…안면인증도입"
+  "6일부터휴대전화개통본인확인강화…안면인증도입",
+  "“남는AI연산자원판매”시장뒤흔든메타AI속사정은?[고든정의...",
+  "금감원·금보원,카드정보탈취'소비자경보'발령",
+  "6일부터휴대전화개통절차엄격해진다…안면인증등도입",
+  "6일부터휴대전화개통안면인증시행",
+  "6일부터안면인증거쳐야휴대전화개통",
+  "휴대전화개통'안면인증시대'",
+  "휴대전화개통절차엄격해진다…안면인증등도입",
+  "휴대전화개통,이제안면인증까지",
+  "5G과장광고첫판결에통신업계촉각",
+  "휴대전화개통,6일부터안면인증시작"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,17 @@
   [
    "2026-07-05T14:54:17.070913+09:00",
    "개인정보 회복 없었다 이용자수 모두 결제액 유출에도 쿠팡 흔들림"
+  ],
+  [
+   "2026-07-05T14:58:16.197695+09:00",
+   "엄격해진다 절차 개통 휴대전화 안면인증 도입"
+  ],
+  [
+   "2026-07-05T14:58:16.197695+09:00",
+   "촉각 5G 판결에 과장광고 통신업계"
   ]
  ],
- "last_run": "2026-07-05T14:56:37.027539+09:00",
+ "last_run": "2026-07-05T14:58:36.392866+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
