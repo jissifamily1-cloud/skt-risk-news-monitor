@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1982322",
-  "http://www.4th.kr/news/articleView.html?idxno=2114193",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441513",
   "http://www.dailypop.kr/news/articleView.html?idxno=100285",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595365092001",
@@ -2999,11 +2997,11 @@
   "https://www.aitimes.com/news/articleView.html?idxno=212442",
   "https://www.businessplus.kr/news/articleView.html?idxno=113709",
   "https://www.gukjenews.com/news/articleView.html?idxno=3626641",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125433"
+  "http://www.popcornnews.net/news/articleView.html?idxno=125433",
+  "https://www.aitimes.kr/news/articleView.html?idxno=40833",
+  "http://www.inews24.com/view/1982468"
  ],
  "seen_titles": [
-  "삼성전자에연달아쏟아지는악재?성장궤도는바뀌지않았다",
-  "삼성전자노태문\"휴머노이드·AI에60조투자…영남제조혁신\"",
   "영남권에312조쏟는다…반도체·AI·로봇'메가벨트'구축",
   "통신사ESGAI전략'3사3색',KT'플랫폼'·SK텔레콤'신뢰'·LG유플러스...",
   "KT만나홀로뒷걸음질…이통3사2분기성적표달라졌다",
@@ -6001,7 +5999,9 @@
   "엔비디아,차세대원자로로블랙웰구동성공…발라와AI데이터센터파...",
   "SKT,영남권AI데이터센터에140조원투자추진…울산거점으로AI인프...",
   "대구시동구청,'노인복지시설'에산림복지나눔숲조성",
-  "삼성·LG·SK,서비스품질1위경쟁…AI혁신이고객경험갈랐다"
+  "삼성·LG·SK,서비스품질1위경쟁…AI혁신이고객경험갈랐다",
+  "세계1만5천AI석학들서울총집결…ICML2026,한국AI위상높인다",
+  "마이크론,日히로시마에14조투자…차세대D램·HBM생산기지구축"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,13 @@
   [
    "2026-07-05T16:20:46.618622+09:00",
    "블랙웰 구동 성공 발라와 차세대 데이터센터 원자로로"
+  ],
+  [
+   "2026-07-05T16:26:15.050407+09:00",
+   "1만5천 서울 세계 한국 석학들 집결 위상 높인다 ICML"
   ]
  ],
- "last_run": "2026-07-05T16:24:36.929364+09:00",
+ "last_run": "2026-07-05T16:26:38.020812+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
