@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848267",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=826431",
-  "https://www.aitimes.com/news/articleView.html?idxno=212428",
-  "https://www.tokenpost.kr/news/cryptocurrency/375027",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681378",
-  "https://view.asiae.co.kr/article/2026070215222373196",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1529567",
-  "https://www.nytimes.com/2026/07/04/books/review/american-trickster-ru-marshall.html?partner=naver",
   "https://www.hankyung.com/article/202607034252H",
   "https://www.etoday.co.kr/news/view/2599316",
   "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html?partner=naver",
@@ -2999,17 +2991,17 @@
   "https://www.smarttoday.co.kr/ko-kr/articles/109234",
   "https://www.catchnews.kr/news/articleView.html?idxno=125803",
   "https://www.etnews.com/20260706000292",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82949"
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=82949",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4093281",
+  "https://www.ajunews.com/view/20260706135019756",
+  "https://sports.khan.co.kr/article/202607061355003?pt=nv",
+  "https://isplus.com/article/view/isp202607060081",
+  "https://www.etnews.com/20260706000297",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588702684244",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=440771",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283200273228"
  ],
  "seen_titles": [
-  "'77구QS+역투'KT대체외인,8회왜안올라왔나...기존외인2주재...",
-  "'KBO최초형제를울린남자'한화박정현,LG장현식상대선발SS출격...",
-  "이강철KT감독\"로건,6이닝3실점가능한투수\"",
-  "“벤치프레스만했다던데,2주더걸려”KT악재의연속,보쉴리어깨...",
-  "SK,역대급AIDC청사진으로본격인프라경쟁…'병목현상'전력수급...",
-  "1600조투자,20년짜리성장엔진이될수있나",
-  "오늘도쌍포터질까...'10경기14홈런합작'강백호4번-노시환5번,한화...",
-  "[AI이슈트렌드]월드컵32강탈락속'호남반도체투자'논란주목",
   "[토큰분석]“에이전틱AI는토큰화된레일을요구한다”…자율금융의...",
   "젠슨황'시그니처재킷'경매나온다…예상가최대9000만원",
   "4대0압승거둔롯데,오늘KT위즈와2연전",
@@ -6001,7 +5993,15 @@
   "[KeyPlayer]①\"꺽이지않는AI수요…주도주교체는신중해라\"",
   "\"나무엑스로'특수학교선생님'도와보세요\"SK인텔릭스,제2회해커톤대...",
   "[포토]'AX플랫폼컴퍼니로도약'핵심전략발표하는박윤영KT대표",
-  "KT,12조원통신투자승부수…'AX플랫폼'으로AI성장축전환"
+  "KT,12조원통신투자승부수…'AX플랫폼'으로AI성장축전환",
+  "파스쿠찌,여름음료'그라니따'특별프로모션진행",
+  "교도소에서도시작된AI...법무부,모범수형자대상자립교육첫발",
+  "KT,‘AX플랫폼컴퍼니’로도약선언",
+  "BIFAN,개막첫주말흥행대박…5만명찾았다",
+  "[포토]기자간담회에서발표하는박윤영KT대표",
+  "KT,'AX플랫폼컴퍼니'로도약선언",
+  "이재용회장,선밸리콘퍼런스참석전망…빅테크CEO총출동",
+  "與주도‘정보통신망법’시행에野“李반대온라인댓글완전히사..."
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-07-06T13:54:16.520955+09:00",
    "인공지능 대규모 투자 ~KT 선언 앞세워 12조원"
+  ],
+  [
+   "2026-07-06T13:58:15.397897+09:00",
+   "시행에 댓글 완전히 정보통신망법 반대 주도 온라인"
   ]
  ],
- "last_run": "2026-07-06T13:56:36.888017+09:00",
+ "last_run": "2026-07-06T13:58:41.646761+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6930,6 +6934,7 @@
   "newstree.kr": "뉴스;트리",
   "youngnong.co.kr": "youngnong.co.kr",
   "yonhapmidas.com": "연합뉴스 월간 마이더스",
-  "wolyo.co.kr": "월요신문"
+  "wolyo.co.kr": "월요신문",
+  "siminilbo.co.kr": "siminilbo.co.kr"
  }
 }
