@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2339731.htm",
-  "https://www.ytn.co.kr/_ln/0115_202607050104130408",
-  "https://www.newsis.com/view/NISX20260704_0003695892",
-  "https://biz.heraldcorp.com/article/10798171",
-  "https://www.g-enews.com/view.php?ud=2026070420404934579a1f309431_1",
-  "https://www.g-enews.com/view.php?ud=202607041414299038fbbec65dfb_1",
-  "http://weekly.chosun.com/news/articleView.html?idxno=53177",
-  "https://www.chosun.com/politics/diplomacy-defense/2026/07/05/FWKK2GPW25BMVEVG7UFJFLRS4A/",
   "https://www.segye.com/newsView/20260703506445?OutUrl=naver",
   "http://weekly.chosun.com/news/articleView.html?idxno=53134",
   "https://www.joongang.co.kr/article/25442434",
@@ -2999,17 +2991,17 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=530795",
   "https://www.todayeconomic.com/news/article.html?no=31216",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441656",
-  "https://zdnet.co.kr/view/?no=20260706160957"
+  "https://zdnet.co.kr/view/?no=20260706160957",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141116",
+  "http://www.fnnews.com/news/202607061625399337",
+  "https://www.yna.co.kr/view/AKR20260705024351017?input=1195m",
+  "https://www.ajunews.com/view/20260629093443222",
+  "http://www.4th.kr/news/articleView.html?idxno=2114293",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165233",
+  "http://www.00news.co.kr/news/articleView.html?idxno=104944",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=249639"
  ],
  "seen_titles": [
-  "한성숙\"北,위협이지만동포인이중적인상황\"",
-  "개보위,본인전송요구권안착지원…공공기관8곳정보확대",
-  "개보위\"상조업계개인정보보호미흡\"…시정권고",
-  "빗썸,동의없이개인정보국외이전…과징금2억과시정명령",
-  "쿠팡5000원쿠폰도보험으로?…개보위,기업'자발적보상'보험가능성...",
-  "개보위,빗썸에과징금2억1000만원부과…개인정보국외이전절차위반",
-  "안면인증개통D-6…개인정보·외국인·소비자불편'3중암초'",
-  "카카오페이,'中알리페이개인정보제공'패소에항소",
   "개보위,개인정보국외이전위반'빗썸'...과징금2억1000만원부과",
   "개보위,빗썸에과징금2.1억부과…개인정보국외이전절차위반",
   "빗썸,개인정보국외이전위반에과징금2억1000만원…“개선조치완료...",
@@ -6001,13 +5993,17 @@
   "박윤영KT대표\"대한민국AX강국견인\"…18조투자해AI플랫폼기업...",
   "KT,18조투자로AX기업전환속도…AI데이터센터·보안·6G인프라키...",
   "엔비디아차세대AI서버시스템'출시지연'전망나와,\"삼성전기주가...",
-  "[이슈진단+]KT,'AX연결허브'도약...수요기반AI인프라확충"
+  "[이슈진단+]KT,'AX연결허브'도약...수요기반AI인프라확충",
+  "LG,'낙수율10%'장벽깬다…2차이하협력사까지상생금융확대",
+  "도요타올뉴RAV4,車기자협회'7월의차'선정..\"전동화완성도최고\"",
+  "휴대폰개통오늘부터까다로워진다…신분증만으론안된다(종합)",
+  "[ABCAI지방시대=구자열원주시장]AI의료혁명,원주는대한민국의료...",
+  "[4th-AI]\"790만소상공인AI전환시급..中企AX법제정해야\"",
+  "삼성전자역대최대실적예고…LG전자도어닝서프라이즈기대",
+  "[출항100일KT박윤영號]첫승부수'AX플랫폼컴퍼니'",
+  "\"이젠AI인프라사업자로변신\"...정재헌SKT대표,AIDC에승부수"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T10:30:51.861636+09:00",
-   "재개정해 완성 독재의 즉시 입틀막법 유예하고 국민의힘"
-  ],
   [
    "2026-07-06T10:36:16.353250+09:00",
    "참가 얼라이언스 양자암호통신 라닉스 ~KT 파트너로 KT의 퀀텀코리아"
@@ -6655,9 +6651,13 @@
   [
    "2026-07-06T16:28:15.980907+09:00",
    "6G 기업 인프라 데이터센터 ~KT AX 투자로 보안 18조 속도"
+  ],
+  [
+   "2026-07-06T16:30:58.695589+09:00",
+   "DC에 이젠 승부수 대표 사업자로 ~SKT 인프라 변신"
   ]
  ],
- "last_run": "2026-07-06T16:28:42.318928+09:00",
+ "last_run": "2026-07-06T16:31:15.861659+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
