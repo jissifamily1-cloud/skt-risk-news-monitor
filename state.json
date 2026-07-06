@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260626170812",
-  "https://zdnet.co.kr/view/?no=20260626170016",
-  "https://www.itbiznews.com/news/articleView.html?idxno=217490",
-  "https://www.mt.co.kr/tech/2026/06/26/2026062608305621792",
-  "https://www.yna.co.kr/view/AKR20260626055400530?input=1195m",
-  "https://www.etnews.com/20260626000059",
-  "https://www.news1.kr/politics/pm-bai-comm/6208923",
-  "https://www.yna.co.kr/view/AKR20260625120900530?input=1195m",
-  "https://www.chosun.com/economy/industry-company/2026/07/04/ACSXVYORS5HCNLADT3QE7CKQEQ/",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86379",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=86378",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06094246645510912",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06100806645510912",
@@ -2999,19 +2989,19 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423504",
   "https://www.news1.kr/photos/7993478",
   "https://view.asiae.co.kr/article/2026070310582826647",
-  "http://www.boannews.com/media/view.asp?idx=144503&kind=1"
+  "http://www.boannews.com/media/view.asp?idx=144503&kind=1",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16124926",
+  "https://www.dt.co.kr/article/12071313",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3040685",
+  "https://www.newspim.com/news/view/20260706000484",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81430",
+  "https://www.newspim.com/news/view/20260703000842",
+  "https://biz.chosun.com/international/international_economy/2026/07/06/KUAIVMM3M5AJNMGKMH7Q2NFXJE/",
+  "https://www.yonhapmidas.com/news/articleView.html?idxno=10438",
+  "http://www.boannews.com/media/view.asp?idx=144504&kind=3",
+  "https://www.dt.co.kr/article/12071315"
  ],
  "seen_titles": [
-  "주요인터넷사업자,지난해불법촬영물등14만여건삭제·접속차단",
-  "동영상이어캡쳐사진도차단…오늘부터불법촬영물필터링확대",
-  "오늘부터불법촬영사진도사전차단…자체차단조치내놓는플랫폼",
-  "[기자수첩]개정정통망법,'국가검열시대'열리나",
-  "개인정보유출피해,신고부터손배까지‘원스톱구제’시스템만든다",
-  "특금법만으론부족…거래소'개인정보국외이전'점검대[크립토브리핑...",
-  "주진우\"삼성·SK호남투자설득한공무원밝혀라\"…직권남용고발경...",
-  "'개인정보국외이전위반'빗썸과징금2억1000원",
-  "삼성전자·SK하이닉스호남공장건설결단소식전한이재명...국민의힘...",
-  "주진우\"靑,삼전닉스접촉공무원밝혀라…자율결정인데설득왜필요...",
   "[#시큐리티포커스]KACS'AI국가사이버안보세미나'·개보위'개인정...",
   "\"우수개인정보보호솔루션을찾습니다\"...개보위,첫공모시행",
   "송경희개보위원장,G7개인정보감독기구논의참석",
@@ -6001,7 +5991,17 @@
   "핵심전략발표하는박윤영KT대표이사",
   "['큰손'SK하이닉스]매주목·금5~10조집행…DLB까지쓸어담아",
   "[단독]삼성·하이닉스,'엔비디아종속'막는다…엔비디아에넘어가는...",
-  "미지방정부,데이터유출막으려러배후해킹조직에100만달러지불"
+  "미지방정부,데이터유출막으려러배후해킹조직에100만달러지불",
+  "[정당지지율]더불어민주당48.7%·국민의힘31.3%,격차확대(여론조...",
+  "메타,AI글래스에한국어실시간번역기능업데이트",
+  "\"검사위축될라\"…신장학회,검체검사위수탁개편'보완'촉구",
+  "기자간담회갖는박윤영대표",
+  "'대포폰차단'휴대폰개통강화...오늘부터다중본인확인의무화",
+  "K팝칼군무·랩·발라드완벽소화…'마이케이팝스타'실력자대거포...",
+  "AI없는게무기?…인도증시에돈몰리는이유",
+  "미국빅테크가맞이한시험대",
+  "KT“제로트러스트보안에3년간4조원투자”...AX플랫폼컴퍼니선언",
+  "오픈AI,차세대사회복지리더에AI교육제공"
  ],
  "recent_sigs": [
   [
@@ -6513,7 +6513,7 @@
    "데이터 지방 지불 100만달러 배후 유출 정부 조직에 막으려"
   ]
  ],
- "last_run": "2026-07-06T11:04:53.857925+09:00",
+ "last_run": "2026-07-06T11:06:33.361807+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
