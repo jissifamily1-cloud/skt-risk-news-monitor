@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=06979846645486968",
-  "https://www.dailian.co.kr/news/view/1661802/?sc=Naver",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008635292&plink=ORI&cooper=NAVER",
   "https://www.yna.co.kr/view/AKR20260630170500017?input=1195m",
   "https://www.newstnt.com/news/articleView.html?idxno=708384",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5035995",
@@ -2999,12 +2996,12 @@
   "https://www.m-economynews.com/news/article.html?no=68471",
   "https://www.gukjenews.com/news/articleView.html?idxno=3627665",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=126549",
-  "https://www.newspim.com/news/view/20260706000912"
+  "https://www.newspim.com/news/view/20260706000912",
+  "http://www.lkp.news/news/articleView.html?idxno=81606",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422227",
+  "https://cn.asiatoday.co.kr/view.php?key=20260706000945538"
  ],
  "seen_titles": [
-  "[AI판결돋보기]박성재징역25년판결문보니...\"검찰내란가담의심...",
-  "[단독]SKT보유AI지분3억弗인수…美AI컴퍼니속도낸다[시그널]",
-  "\"적과의동침\"AI기업고소하던게티,챗GPT와다년계약…주가145%폭...",
   "오픈AI·구글과나란히선니어스랩…‘피지컬AI’로코스닥드론1호...",
   "뉴욕맨해튼민주당예비경선…AI규제놓고'쩐의전쟁'벌어져",
   "삼성SDS,'공공AI박람회'서AI풀스택기반공공AX혁신사례선보인다.",
@@ -6001,25 +5998,12 @@
   "휴대전화개통절차,오늘부터강화...안면인증등‘다중본인확인’...",
   "용인시,실내체육관에스크린파크골프장개관…4타석규모",
   "\"구글·오픈AI쓰는기술,공짜로배운다\"…성신여대,여름방학'딥러...",
-  "[아시아특징주]엔비디아차세대AI서버지연설…삼성전기한때11%급..."
+  "[아시아특징주]엔비디아차세대AI서버지연설…삼성전기한때11%급...",
+  "SK인텔릭스,'제2회나무엑스해커톤'대상'가드'팀등시상…신규웰...",
+  "이제'추론'시대라지만···\"AI학습수요2030년까지40%달할것\"",
+  "SKT“海印”AI集群获云安全认证配备1000块英伟达BlackwellGPU"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T10:08:15.533026+09:00",
-   "회사로 변신 인공지능 ~KT 플랫폼"
-  ],
-  [
-   "2026-07-06T10:08:15.533026+09:00",
-   "시간 지연 펌웨어 화질 줄이고 새로운 지싱크 펄사 배포"
-  ],
-  [
-   "2026-07-06T10:08:15.533026+09:00",
-   "특허 전략 우주 바이오 짠다 빅데이터로"
-  ],
-  [
-   "2026-07-06T10:08:15.533026+09:00",
-   "피지컬AI 행사 에임인텔리전스 로봇탑재 주관"
-  ],
   [
    "2026-07-06T10:10:45.423432+09:00",
    "시장 선언 Platform ~KT 선도 도약 AX Company"
@@ -6655,9 +6639,13 @@
   [
    "2026-07-06T16:06:16.752668+09:00",
    "지연설 삼성전기 차세대 한때 서버"
+  ],
+  [
+   "2026-07-06T16:08:17.907135+09:00",
+   "Blackwell GPU ~SKT"
   ]
  ],
- "last_run": "2026-07-06T16:06:41.077959+09:00",
+ "last_run": "2026-07-06T16:08:35.410168+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
