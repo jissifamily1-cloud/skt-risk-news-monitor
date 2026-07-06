@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260702_0003693165",
-  "http://www.ddanzi.com/888350987",
-  "https://www.tgdaily.co.kr/news/articleView.html?idxno=405290",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53066",
-  "https://www.sedaily.com/article/20062852",
-  "https://wemakenews.co.kr/news/view.php?no=25660",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422387",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680310",
-  "https://www.investchosun.com/site/data/html_dir/2026/07/01/2026070180142.html",
-  "https://www.newsverse.kr/news/articleView.html?idxno=10851",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008637734&plink=ORI&cooper=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000320419?division=NAVER",
   "https://www.tokenpost.kr/news/insights/374560",
   "https://www.newspim.com/news/view/20260702001198",
@@ -2999,20 +2988,20 @@
   "https://www.newspim.com/news/view/20260706000431",
   "https://www.newspim.com/news/view/20260706000432",
   "https://www.newspim.com/news/view/20260706000430",
-  "https://www.munhwa.com/article/11600490"
+  "https://www.munhwa.com/article/11600490",
+  "https://www.etoday.co.kr/news/view/2600062",
+  "https://realty.chosun.com/site/data/html_dir/2026/07/06/2026070601198.html",
+  "https://www.siminsori.com/news/articleView.html?idxno=400208",
+  "https://zdnet.co.kr/view/?no=20260706104931",
+  "https://www.yonhapmidas.com/news/articleView.html?idxno=10434",
+  "https://news.tf.co.kr/read/photomovie/2339969.htm",
+  "https://news.tf.co.kr/read/economy/2339959.htm",
+  "https://news.tf.co.kr/read/photomovie/2339976.htm",
+  "https://news.tf.co.kr/read/photomovie/2339974.htm",
+  "https://news.tf.co.kr/read/photomovie/2339971.htm",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272498"
  ],
  "seen_titles": [
-  "팬덤한복판에서모습드러낸장태석…PNC에서존재감키웠다[한강로...",
-  "[기업家]LG전자⑨ㅣAI·로봇·데이터센터까지'미래사업풀가동'",
-  "신승규부사장\"새만금AI밸리성공위해전력·정주여건개선필요\"",
-  "[리더&CEO]구광모LG회장,'선택과집중'으로시가총액3배늘리다",
-  "\"2억5000만달러쐈다\"…마이크론,'트럼프표어린이투자계좌'에통큰...",
-  "[뉴공아카이브]퍼니포:‘구천피시대’국민투자자가말하는‘성투’...",
-  "젠슨황다녀간'T1베이스캠프'가관광명소?",
-  "'공짜점심'거부한젠슨황…밥값대신주식쐈다",
-  "삼성,1.4나노승부수…양자컴퓨팅으로‘연산병목’푼다",
-  "젠슨황놀래킨‘신더시티’집장만",
-  "[최카피의딴생각]격이달라진나라의\"아재\"",
   "검색회사넘어AI인프라사업자로…네이버,'AI팩토리'승부수통할까",
   "[Invest]AI인프라투자계획만1000조이상…'조달지원'으로눈돌리는...",
   "[오늘의경제뉴스]311조휴머노이드시장열린다…이회사도로봇기업...",
@@ -6001,7 +5990,18 @@
   "박윤영KT대표,'AX플랫폼컴퍼니'사업전략발표",
   "KT,'AX플랫폼컴퍼니'비전공개",
   "'AX플랫폼컴퍼니'사업전략발표하는박윤영KT대표",
-  "“李,‘6·3경고’에도안변해…국무회의서반도체·부동산우려전..."
+  "“李,‘6·3경고’에도안변해…국무회의서반도체·부동산우려전...",
+  "지엔씨에너지,신공장까지풀가동…SK그룹1000조AI데이터센터투자에...",
+  "\"꼴랑건물한개부수는데이난리,목동은?\"양천3선의원발언에역...",
+  "오늘부터휴대전화개통'다중본인확인'의무화…안면인증등추가인...",
+  "AWS,스타트업성장돕는AI출시…\"개발·클라우드전환빠르게\"",
+  "뉴스페이스가속…K우주도달린다",
+  "'AX플랫폼컴퍼니'도약...비전발표하는박윤영KT대표[TF사진관]",
+  "박윤영KT대표,'AX플랫폼컴퍼니'전환선언…\"3년간18조원투자\"",
+  "KT,새로운비전'AX플랫폼컴퍼니'제시[포토]",
+  "KT,'인공지능전환플랫폼컴퍼니'도약선언[포토]",
+  "취임첫기자간담회하는박윤영KT대표[포토]",
+  "SKTHaeinClusterWinsCSAPCertification"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,13 @@
   [
    "2026-07-06T10:50:44.118601+09:00",
    "부동산 에도 반도체 안변해 우려 국무회의서 경고"
+  ],
+  [
+   "2026-07-06T10:52:17.560210+09:00",
+   "Haein Wins Certification ~SKT CSAP Cluster"
   ]
  ],
- "last_run": "2026-07-06T10:51:07.592879+09:00",
+ "last_run": "2026-07-06T10:52:35.024612+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
