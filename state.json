@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6209218",
-  "https://www.ddaily.co.kr/page/view/2026062610443814516",
-  "https://www.newsis.com/view/NISX20260626_0003684864",
-  "https://www.yna.co.kr/view/AKR20260626061500017?input=1195m",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678568",
-  "https://www.mk.co.kr/article/12083108",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=846391",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164494",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164390",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04500166645484672",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164336",
   "https://economist.co.kr/article/view/ecn202606160053",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=845272",
   "https://www.seoul.co.kr/news/society/accident/2026/06/19/20260619500112?wlog_tag3=naver",
@@ -2999,20 +2988,20 @@
   "https://www.newspim.com/news/view/20260706000090",
   "http://www.ddanzi.com/888752835",
   "https://economist.co.kr/article/view/ecn202607060001",
-  "https://www.etnews.com/20260706000105"
+  "https://www.etnews.com/20260706000105",
+  "https://idsn.co.kr/news/view/1065587710716388",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=212830",
+  "https://www.itworld.co.kr/article/4192929/ram-가격-폭등에-메타가-내놓은-해법-구형-메모리-재활.html",
+  "https://www.koit.co.kr/news/articleView.html?idxno=207858",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1006971",
+  "https://www.busan.com/view/busan/view.php?code=2026070608293262902",
+  "https://news.mtn.co.kr/news-detail/2026070609444061706",
+  "https://www.hellot.net/news/article.html?no=113613",
+  "https://kbench.com/?q=node%2F280143",
+  "https://www.dt.co.kr/article/12071285",
+  "https://zdnet.co.kr/view/?no=20260706100517"
  ],
  "seen_titles": [
-  "휴대전화해지쉬워진다…채팅상담·모바일앱으로신청가능",
-  "\"연결중입니다\"대기해방…채팅으로통신서비스해지한다",
-  "\"이동통신해지,전화안해도됩니다\"…채팅·앱신청도입",
-  "이동통신해지수월해진다…앱·상담원채팅으로가능",
-  "휴대전화해지쉬워진다…채팅상담·모바일앱신청가능",
-  "방미통위,이동통신해지절차개선…채팅·앱신청허용",
-  "“왜이렇게비싼요금쓰세요?”…최적요금고지에437억부담하는이...",
-  "IPO위해분사한KT클라우드,KT로재편입…\"AI가치극대화\"",
-  "이통3사,AI-RAN투자잰걸음…\"신규요금제논의가능성\"",
-  "이통사최적요금고지제도,실효성두고'회의론'솔솔",
-  "GS네오텍,‘가짜010차단’맞춤형합법발신솔루션으로시장공략",
   "\"이돈이면넷플릭스본다\"…이통사'지상파·종편VOD'요금제의한계",
   "“2만원대라더니알뜰폰보다비싸다”…이통3사통합요금제의함정",
   "티빙,이용자CI유출...이통사해킹사고보다파장큰이유",
@@ -6001,7 +5990,18 @@
   "'취임100일'박윤영KT대표...'AX플랫폼컴퍼니'로대전환선언",
   "[뉴공아카이브]백년위원회:AI로바뀌는100년…국가의새로운역할은...",
   "KT박윤영의승부수…'AI인프라'에6조쏟는다",
-  "KT,3년간12조투입…AX플랫폼기업도약총력"
+  "KT,3년간12조투입…AX플랫폼기업도약총력",
+  "인스타360,대전신세계백화점입점...체험채널확대",
+  "AWS,스타트업개발·클라우드전환지원AI기능출시",
+  "RAM가격폭등에메타가내놓은해법,구형메모리재활용",
+  "KT,'AX플랫폼컴퍼니'선언…AI인프라·네트워크에18조투자",
+  "KT,'AX플랫폼컴퍼니'비전공개···AI·통신인프라기반사업확대",
+  "KT“인공지능전환플랫폼회사로변신”",
+  "KT,AX플랫폼기업박차…3년간18조원투자로AI인프라확대",
+  "오픈AI,사회복지혁신리더아카데미협력파트너참여...AI실습교육제...",
+  "엔비디아새로운'지싱크펄사'펌웨어배포,지연시간줄이고화질개...",
+  "AI·우주·바이오,특허빅데이터로새R&D전략짠다",
+  "\"로봇탑재피지컬AI해킹\"...에임인텔리전스,행사주관"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,25 @@
   [
    "2026-07-06T10:06:16.364547+09:00",
    "새로운 바뀌는 100년 AI로 백년위원회 국가의 역할은"
+  ],
+  [
+   "2026-07-06T10:08:15.533026+09:00",
+   "회사로 변신 인공지능 ~KT 플랫폼"
+  ],
+  [
+   "2026-07-06T10:08:15.533026+09:00",
+   "시간 지연 펌웨어 화질 줄이고 새로운 지싱크 펄사 배포"
+  ],
+  [
+   "2026-07-06T10:08:15.533026+09:00",
+   "특허 전략 우주 바이오 짠다 빅데이터로"
+  ],
+  [
+   "2026-07-06T10:08:15.533026+09:00",
+   "피지컬AI 행사 에임인텔리전스 로봇탑재 주관"
   ]
  ],
- "last_run": "2026-07-06T10:06:52.086261+09:00",
+ "last_run": "2026-07-06T10:09:01.356193+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
