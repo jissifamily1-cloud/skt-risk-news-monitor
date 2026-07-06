@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3626559",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3626556",
   "https://www.newsinside.kr/news/articleView.html?idxno=4812349",
   "https://www.gukjenews.com/news/articleView.html?idxno=3626561",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2425758",
@@ -2999,11 +2997,11 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=310251",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204182",
   "https://www.thepublic.kr/news/articleView.html?idxno=310248",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204184"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204184",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715291",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848549"
  ],
  "seen_titles": [
-  "결제창에카드비밀번호전체입력?...'피싱'소비자경보발령",
-  "\"결제창인줄알았는데\"…온라인쇼핑몰서카드정보5707건털려",
   "금감원“온라인쇼핑몰피싱주의…카드정보5천7백여건탈취”",
   "온라인쇼핑몰서교묘한피싱결제창…과도한개인정보주의",
   "빅테크CEO모임'선밸리콘퍼런스'임박…이재용회장2년연속참가할...",
@@ -6001,21 +5999,11 @@
   "LG,상생결제낙수율10%이상확대…중소협력사자금난숨통",
   "[단독]\"휴대전화사러갔다가상조상품까지\"…지적장애인울린대리점",
   "KT,'AX플랫폼컴퍼니'선언…\"통신·AI에3년간18조투자\"",
-  "휴대폰개통'얼굴도장'필수…대포폰막는'안면인식'개통시행"
+  "휴대폰개통'얼굴도장'필수…대포폰막는'안면인식'개통시행",
+  "삼성이재용,美선밸리간다…AI반도체'빅딜'담판나서나",
+  "'가짜뉴스근절법'시행…악성유포자징벌적손배·최대10억과징금"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T13:48:20.034304+09:00",
-   "1분기 2분기도 LG전자 대박 기대 이어 실적"
-  ],
-  [
-   "2026-07-06T13:50:49.687905+09:00",
-   "박윤영 140명 신사업 채용 ~KT 신입 9월 토큰팩토리"
-  ],
-  [
-   "2026-07-06T13:50:49.687905+09:00",
-   "개인정보 확대 교육 고용까지 전송요구권"
-  ],
   [
    "2026-07-06T13:52:16.817562+09:00",
    "~KT 5조 투입해 짓는다 AI데이터센터 5년간 20곳 실리 물량공세 대신"
@@ -6623,9 +6611,13 @@
   [
    "2026-07-06T19:34:17.702892+09:00",
    "된다더니 철퇴 아고다 팍팍 결제해도 나중에 수수료"
+  ],
+  [
+   "2026-07-06T19:50:52.494202+09:00",
+   "시행 근절법 과징금 악성 손배 유포자 10억 징벌적 가짜뉴스"
   ]
  ],
- "last_run": "2026-07-06T19:48:38.918715+09:00",
+ "last_run": "2026-07-06T19:51:10.946465+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
