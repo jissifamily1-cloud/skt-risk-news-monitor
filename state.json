@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/pm-bai-comm/6207986",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=263892",
-  "https://www.youthdaily.co.kr/news/article.html?no=221624",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2283773",
-  "https://www.etnews.com/20260625000113",
-  "https://www.imaeil.com/page/view/2026062510182948505",
-  "https://www.newsis.com/view/NISX20260625_0003683077",
   "https://news.tf.co.kr/read/economy/2339731.htm",
   "https://www.ytn.co.kr/_ln/0115_202607050104130408",
   "https://www.newsis.com/view/NISX20260704_0003695892",
@@ -2999,16 +2992,16 @@
   "https://www.bosa.co.kr/news/articleView.html?idxno=3007769",
   "http://www.updownnews.co.kr/news/articleView.html?idxno=317857",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603158",
-  "https://www.businessplus.kr/news/articleView.html?idxno=113777"
+  "https://www.businessplus.kr/news/articleView.html?idxno=113777",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260706010001993",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=128016",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441652",
+  "https://www.joongangenews.com/news/articleView.html?idxno=530795",
+  "https://www.todayeconomic.com/news/article.html?no=31216",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441656",
+  "https://zdnet.co.kr/view/?no=20260706160957"
  ],
  "seen_titles": [
-  "쿠팡개인정보유출분쟁조정에14만6000여명참여",
-  "2천만명정보털린티빙사태…집단소송‘수순’",
-  "다윗과골리앗…전관앞세운SKT·쿠팡vs'일당백'개보위",
-  "[월간유통잇슈]쿠팡의'6000억대'청구서,'오후3시'문닫은스타벅스",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(6월26일금요일)",
-  "과기정통부는7월시행,개보위는개선권고...휴대폰안면인증충돌",
-  "[단독]한성숙의사라진6일…'모두의창업정보유출'인지하고도사후조...",
   "한성숙\"北,위협이지만동포인이중적인상황\"",
   "개보위,본인전송요구권안착지원…공공기관8곳정보확대",
   "개보위\"상조업계개인정보보호미흡\"…시정권고",
@@ -6001,13 +5994,16 @@
   "동아대병원,부울경첫AI기반의무기록시스템운영",
   "SK인텔릭스,'나무엑스해커톤'성료...\"웰니스로보틱스신사업발굴본...",
   "[성공예감]삼전닉스주가궁금하면,GPU임대가격을보세요–곽상준...",
-  "[이슈+]캐나다60조원잠수함사업자7일발표…한화오션·TKMS'운명의날..."
+  "[이슈+]캐나다60조원잠수함사업자7일발표…한화오션·TKMS'운명의날...",
+  "실적회복에유리기판상용화까지…SKC,반등윤곽드러난다",
+  "쇼핑몰결제창까지파고든피싱…카드정보5707건탈취",
+  "SK텔레콤AI인프라'해인',클라우드보안인증획득",
+  "박윤영KT대표\"대한민국AX강국견인\"…18조투자해AI플랫폼기업...",
+  "KT,18조투자로AX기업전환속도…AI데이터센터·보안·6G인프라키...",
+  "엔비디아차세대AI서버시스템'출시지연'전망나와,\"삼성전기주가...",
+  "[이슈진단+]KT,'AX연결허브'도약...수요기반AI인프라확충"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T10:28:15.184238+09:00",
-   "1500원에 수억원의 배당 성과급 SK하이닉스 떼쓴 침묵한"
-  ],
   [
    "2026-07-06T10:30:51.861636+09:00",
    "재개정해 완성 독재의 즉시 입틀막법 유예하고 국민의힘"
@@ -6651,9 +6647,17 @@
   [
    "2026-07-06T16:26:18.118481+09:00",
    "주가 궁금하면 곽상준 임대가격을 삼전닉스 보세요 GPU"
+  ],
+  [
+   "2026-07-06T16:28:15.980907+09:00",
+   "수요 AX연결 AI인프라 기반 허브 확충 ~KT 도약"
+  ],
+  [
+   "2026-07-06T16:28:15.980907+09:00",
+   "6G 기업 인프라 데이터센터 ~KT AX 투자로 보안 18조 속도"
   ]
  ],
- "last_run": "2026-07-06T16:26:35.337487+09:00",
+ "last_run": "2026-07-06T16:28:42.318928+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
