@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=712218",
-  "http://www.fnnews.com/news/202607041006311667",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248538&CMPT_CD=P0010",
-  "https://economist.co.kr/article/view/ecn202607040004",
-  "https://news.ifm.kr/news/articleView.html?idxno=474369",
   "http://coinreaders.com/246064",
   "https://kidd.co.kr/news/246601",
   "https://www.dailian.co.kr/news/view/1663369/?sc=Naver",
@@ -2999,14 +2994,14 @@
   "https://www.dkilbo.com/news/articleView.html?idxno=547802",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/06/2026070600154.html",
   "https://www.viva100.com/article/20260706500657",
-  "https://www.gokorea.kr/news/articleView.html?idxno=871244"
+  "https://www.gokorea.kr/news/articleView.html?idxno=871244",
+  "https://www.segye.com/newsView/20260706504298?OutUrl=naver",
+  "https://www.etnews.com/20260706000216",
+  "https://www.bloter.net/news/articleView.html?idxno=667356",
+  "https://www.greened.kr/news/articleView.html?idxno=344287",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=314631"
  ],
  "seen_titles": [
-  "\"제미나이할인구독통로열렸다\"...SKT,T우주서구글AI상품3종단...",
-  "메타도삼성2나노택했다…파운드리수주50조전망",
-  "평균시속142km직구던지며진화한다고?꼴찌팀의1988년생좌완1위...",
-  "법원\"LTE보다20배빠르다\"던LG유플러스5G광고,과징금정당",
-  "양자컴퓨터,정말비트코인파괴할까…최신AI가예측한'운명의날'은...",
   "“5G가LTE보다20배빠르다?”…LG유플러스,28억과징금불복소송패...",
   "젠슨황의상징‘검정가죽재킷’경매에...예상낙찰가최대9000만원",
   "‘5G과장광고’LGU+,28억원과징금취소소송서패소",
@@ -6001,21 +5996,14 @@
   "칠레정부,BTS공연장대관불허···현지아미\"정치적결정\"",
   "\"AI시대에도KT본질은연결\"…박윤영대표,내년6조투자집행'AX...",
   "‘직접고르는혜택’…삼성카드,‘삼성iDSELECTUP카드’출시",
-  "KT,'AX플랫폼컴퍼니'선언…3년간18조원투자해AI전환주도"
+  "KT,'AX플랫폼컴퍼니'선언…3년간18조원투자해AI전환주도",
+  "오늘(6일)부터휴대전화개통시‘안면인증’도입…신분증만으론가입...",
+  "더존비즈온,한국공항공사'AX업무혁신플랫폼'구축…공공AX공략박...",
+  "미래에셋증권,성장넘어책임강조한'ESG화두'",
+  "[KT굴기]통신사최초AI시대'토큰비즈니스'깃발올렸다",
+  "키즈폰·세컨폰인데월8000원더?KT요금제'후폭풍'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T06:34:14.843507+09:00",
-   "478배 디지털 등장 쌍둥이 앞선 엔비디아칩 만든다 중국칩"
-  ],
-  [
-   "2026-07-06T06:34:14.843507+09:00",
-   "보안 GPU 컴퓨팅 보호하나 데이터 추론 엔비디아의 어떻게 기밀"
-  ],
-  [
-   "2026-07-06T06:34:14.843507+09:00",
-   "미국 1000명 바꾼 49명 부의 한국 지도 AI가 머니이 억만장자 세계"
-  ],
   [
    "2026-07-06T06:38:15.799580+09:00",
    "먹구름 IPO에 중국산 공습 10분의 토큰 앤트로픽"
@@ -6507,9 +6495,17 @@
   [
    "2026-07-06T12:12:15.627501+09:00",
    "방한 하는 이유 젠슨 경계해야"
+  ],
+  [
+   "2026-07-06T12:34:16.304750+09:00",
+   "후폭풍 세컨폰인데 키즈폰 요금제 ~KT 8000원"
+  ],
+  [
+   "2026-07-06T12:34:16.304750+09:00",
+   "올렸다 토큰 깃발 비즈니스 시대 ~KT"
   ]
  ],
- "last_run": "2026-07-06T12:32:31.613622+09:00",
+ "last_run": "2026-07-06T12:34:38.377812+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6917,6 +6913,7 @@
   "chungnamilbo.co.kr": "충남일보",
   "newstree.kr": "뉴스;트리",
   "youngnong.co.kr": "youngnong.co.kr",
-  "yonhapmidas.com": "연합뉴스 월간 마이더스"
+  "yonhapmidas.com": "연합뉴스 월간 마이더스",
+  "wolyo.co.kr": "월요신문"
  }
 }
