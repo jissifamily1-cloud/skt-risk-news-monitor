@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=377476",
-  "https://www.hankyung.com/article/202607066845g",
-  "https://www.mydaily.co.kr/page/view/2026070609432003781",
   "https://www.itbiznews.com/news/articleView.html?idxno=218304",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=387521",
   "https://www.it-b.co.kr/news/articleView.html?idxno=88964",
@@ -2999,12 +2996,12 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423627",
   "https://www.econovill.com/news/articleView.html?idxno=744351",
   "https://biz.sbs.co.kr/article_hub/20000321015?division=NAVER",
-  "https://www.tokenpost.kr/news/cryptocurrency/375479"
+  "https://www.tokenpost.kr/news/cryptocurrency/375479",
+  "https://www.etoday.co.kr/news/view/2600862",
+  "https://www.sedaily.com/article/20064509",
+  "http://coinreaders.com/246397"
  ],
  "seen_titles": [
-  "SKT해인클러스터,KISA클라우드서비스보안인증취득",
-  "SK텔레콤,AI데이터센터'해인'클라우드보안인증획득",
-  "동부건설,'춘천효자동주상복합신축공사'수주…1015억원규모",
   "스페이스X,내일나스닥100전격편입…\"최대41조원유입\"",
   "정점식\"가짜뉴스촉법정당민주당이표현의자유억압아이러니\"",
   "세종시의회예결특위구성완료…재정심사본격화",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,ADR북빌딩첫날부터역대급흥행…코너스톤수요만70억달...",
   "\"5년간18조원쏟는다\"박윤영호KT,AX플랫폼컴퍼니로",
   "삼성전자,엔비디아넘어섰다...2분기영업익90조육박",
-  "AI데이터센터확장기대감에IREN주가급등세"
+  "AI데이터센터확장기대감에IREN주가급등세",
+  "뉴욕증시,AI주반등에상승…다우,첫5만3000선돌파[글로벌마켓모닝...",
+  "삼성반도체,2분기영업익88조이상…1년만에220배성장",
+  "엔비디아(NVDA),200달러붕괴가매수찬스?...전문가\"보수적으로봐도..."
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-07-07T08:06:16.307174+09:00",
    "확장 IREN 주가 급등세 데이터센터 기대감에"
+  ],
+  [
+   "2026-07-07T08:08:15.388408+09:00",
+   "NVDA 전문가 200달러 찬스 붕괴가 보수적으로 봐도 매수"
   ]
  ],
- "last_run": "2026-07-07T08:06:36.801158+09:00",
+ "last_run": "2026-07-07T08:08:37.930686+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
