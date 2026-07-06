@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1094888",
-  "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html?partner=naver",
-  "http://coinreaders.com/245436",
-  "https://www.newspim.com/news/view/20260701000223",
-  "https://www.wikitree.co.kr/articles/1144067",
-  "https://www.wikitree.co.kr/articles/1144058",
-  "https://n.news.naver.com/mnews/article/077/0007072016",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02866726645510256",
-  "https://www.g-enews.com/view.php?ud=202607022015508503740eacf404_1",
-  "https://www.yna.co.kr/view/AKR20260702100552009?input=1195m",
   "https://www.khan.co.kr/article/202607021950001",
   "https://www.dt.co.kr/article/12070919",
   "https://www.sedaily.com/article/20063195",
@@ -2999,19 +2989,19 @@
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2222729",
   "https://view.asiae.co.kr/article/2026070610265123531",
   "https://www.sedaily.com/article/20064136",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=434727"
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=434727",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92216",
+  "https://www.insight.co.kr/news/561622",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1383013",
+  "http://www.joseilbo.com/news/news_read.php?uid=571343&class=17",
+  "https://www.segye.com/newsView/20260706505131?OutUrl=naver",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86883",
+  "https://www.mk.co.kr/article/12090982",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260706102754zhr",
+  "https://biz.heraldcorp.com/article/10799071",
+  "https://www.newspim.com/news/view/20260706000379"
  ],
  "seen_titles": [
-  "암호화폐테마주,비트코인(BTC)따라'휘청'...고평가논란경고등",
-  "\"오픈AI할라피뇨칩위협무색\"...엔비디아(NVDA),AI반도체지배력안...",
-  "[이슈포커스]美,對中AI규제외려역풍부나...기술격차좁혀졌다",
-  "앤트로픽,'클로드페이블5·미토스5'수출통제해제…7월1일부터서...",
-  "하나투어,'인센티브견적자동화'AI에이전트도입...AX전환가속화",
-  "U.S.LiftsRestrictionsonAnthropic’sMostPowerfulA.I.Models",
-  "美증시,7월은계절성랠리타고오를타이밍?...웰스파고\"AI하락때...",
-  "앤스로픽'도장깨기'어디까지…이번엔제약",
-  "오픈AI,소프트웨어만으로추론비용절반줄였다",
-  "앤트로픽,소넷5출시…에이전틱작업비용절감",
   "FilmDroppedOpenAIMovie",
   "“AI투자돈길은한국으로”…3분기코스피7300~9900전망",
   "오픈AI,美정부에지분5%제공논의…‘AI수익국민과공유’제안",
@@ -6001,7 +5991,17 @@
   "KT,'AX플랫폼컴퍼니'선언…3년간18조원투자해AI·통신혁신",
   "[포토]박윤영KT대표,'AX플랫폼컴퍼니'사업전략발표",
   "‘엔비디아핵심공급사’폭스콘,2분기매출40%↑",
-  "[뉴스분석]수억원의떼쓴성과급,연1500원에침묵한배당…SK하이닉스..."
+  "[뉴스분석]수억원의떼쓴성과급,연1500원에침묵한배당…SK하이닉스...",
+  "휴대폰개통'한번더확인'…오늘부터명의도용차단망촘촘해진다",
+  "영화6000원할인권205만장선착순으로풀린다...\"8일오전10시접속...",
+  "부산에서깨어나는왕조의기록,4대사고본첫동행",
+  "美반도체급락에도…삼성웃고메모리값또오른다[칩칩폭폭]",
+  "“사이버위협선제대응”…코레일,정보보안캠페인전개",
+  "코레일,전직원대상'정보보안실천프로그램'운영",
+  "블랙웰GPU1000개묶은SKT‘해인...국내첫CSAP인증",
+  "'AX플랫폼컴퍼니'선언한KT…3년간18조미래투자",
+  "통신12조·AI인프라6조‘투자’예고…KT박윤영“AX플랫폼회사...",
+  "국민의힘\"7·7'입틀막법'은李독재의완성…즉시유예하고재개정해..."
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,13 @@
   [
    "2026-07-06T10:28:15.184238+09:00",
    "1500원에 수억원의 배당 성과급 SK하이닉스 떼쓴 침묵한"
+  ],
+  [
+   "2026-07-06T10:30:51.861636+09:00",
+   "재개정해 완성 독재의 즉시 입틀막법 유예하고 국민의힘"
   ]
  ],
- "last_run": "2026-07-06T10:28:38.944298+09:00",
+ "last_run": "2026-07-06T10:31:15.859355+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
