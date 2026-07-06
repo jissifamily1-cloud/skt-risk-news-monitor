@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202607034252H",
-  "https://www.etoday.co.kr/news/view/2599316",
-  "https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html?partner=naver",
-  "https://www.tokenpost.kr/news/insights/374985",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/04/2026070490103.html",
-  "http://sateconomy.co.kr/news/view/1065603841675081",
-  "http://www.inews24.com/view/1982444",
-  "https://www.lecturernews.com/news/articleView.html?idxno=205605",
-  "https://www.kyeonggi.com/article/20260704580108",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/04/2026070490145.html",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=848274",
   "https://www.starnewskorea.com/sports/2026/07/04/2026070415500643213",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=826435",
@@ -2999,19 +2989,19 @@
   "https://www.etnews.com/20260706000297",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588702684244",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440771",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283200273228"
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283200273228",
+  "http://www.fnnews.com/news/202607061338496384",
+  "https://www.newsis.com/view/NISX20260706_0003697258",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207462",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1007009",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260630010010696",
+  "https://www.yna.co.kr/view/AKR20260706083500011?input=1195m",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207463",
+  "https://www.joongangenews.com/news/articleView.html?idxno=530597",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2222851",
+  "https://www.dizzotv.com/site/data/html_dir/2026/07/01/2026070180196.html"
  ],
  "seen_titles": [
-  "[토큰분석]“에이전틱AI는토큰화된레일을요구한다”…자율금융의...",
-  "젠슨황'시그니처재킷'경매나온다…예상가최대9000만원",
-  "4대0압승거둔롯데,오늘KT위즈와2연전",
-  "마이크론,14조들여日HBM공장증설…“2028년여름제품출하\"",
-  "엔비디아,차세대'루빈울트라'4칩렛대신2칩렛으로선회…양산현실...",
-  "계속되는당권주자신경전...입법속도전VS보이콧대응",
-  "동생울린한화박정현4일LG전선발유격수…김경문감독\"심우준일단...",
-  "'쿠팡방패'자처한미국하원보고서,도(度)넘은주권간섭",
-  "[EBN오늘(4일)이슈종합]독일,60조원규모캐나다잠수함수주낙관...",
-  "김태형롯데감독\"한동희,타석에서확신생긴듯\"",
   "로빈후드CEO\"크립토미래,실물자산토큰화에달렸다\"",
   "\"한명치면,한명못쳤는데\"강백호-노시환시너지폭발,한화'407억...",
   "[2026클라우드보안리포트]앞서가는클라우드전환,뒤처진보안생태...",
@@ -6001,13 +5991,19 @@
   "[포토]기자간담회에서발표하는박윤영KT대표",
   "KT,'AX플랫폼컴퍼니'로도약선언",
   "이재용회장,선밸리콘퍼런스참석전망…빅테크CEO총출동",
-  "與주도‘정보통신망법’시행에野“李반대온라인댓글완전히사..."
+  "與주도‘정보통신망법’시행에野“李반대온라인댓글완전히사...",
+  "동부건설,'효자동주상복합공사'수주...1015억규모",
+  "'1경기차'선두LGvs2위삼성…전반기1위놓고대격돌[주간야구전망...",
+  "오픈베이스,F5와함께고객사대상AI보안인프라전략세미나개최",
+  "[유통가오늘]배민ㆍ코웨이ㆍW컨셉ㆍ다이소",
+  "SK,역대급AIDC청사진으로본격인프라경쟁…'병목현상'전력수급...",
+  "[전국주요신문톱뉴스](6일석간)",
+  "[기획연재⑤]\"보안의사각지대\"…선통제,후감사의'Two-Track'전략으로",
+  "SK텔레콤,엔비디아블랙웰AI클러스터첫CSAP인증…공공AI시장공략...",
+  "[통신]SKT,AI클라우드보안인증/KT,해외무료통화서비스",
+  "LG유플러스,글로벌공시기준맞춘ESG보고서발간"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T08:01:00.812365+09:00",
-   "삼중고 합병 존속마저 적자 불투 티빙"
-  ],
   [
    "2026-07-06T08:02:15.260550+09:00",
    "학교 읽기 수업에 들어간다"
@@ -6523,9 +6519,17 @@
   [
    "2026-07-06T13:58:15.397897+09:00",
    "시행에 댓글 완전히 정보통신망법 반대 주도 온라인"
+  ],
+  [
+   "2026-07-06T14:01:06.509708+09:00",
+   "서비스 ~SKT 해외 클라우드 무료 보안 통화 인증 ~KT"
+  ],
+  [
+   "2026-07-06T14:01:06.509708+09:00",
+   "ESG 보고서 기준 발간 맞춘 글로벌 LG유플러스 공시 ~LGU"
   ]
  ],
- "last_run": "2026-07-06T13:58:41.646761+09:00",
+ "last_run": "2026-07-06T14:01:29.821223+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
