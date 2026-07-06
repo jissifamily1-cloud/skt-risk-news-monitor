@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.lawtv.kr/news/articleView.html?idxno=60304",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=81033",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305155&inflow=N",
-  "https://www.kukinews.com/article/view/kuk202606250059",
-  "http://www.newstomato.com/ReadNews.aspx?no=1305162&inflow=N",
-  "https://www.etoday.co.kr/news/view/2597173",
-  "https://biz.heraldcorp.com/article/10787903",
-  "https://dealsite.co.kr/articles/164223",
-  "https://zdnet.co.kr/view/?no=20260625103759",
   "https://www.news1.kr/politics/pm-bai-comm/6207986",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=263892",
   "https://www.youthdaily.co.kr/news/article.html?no=221624",
@@ -2999,18 +2990,18 @@
   "https://www.thedailypost.kr/news/articleView.html?idxno=114572",
   "https://www.g-enews.com/view.php?ud=2026070614585814153d7a510102_1",
   "https://dealsite.co.kr/articles/164820",
-  "https://www.hankyung.com/article/202607068197i"
+  "https://www.hankyung.com/article/202607068197i",
+  "https://www.thelec.kr/news/articleView.html?idxno=59101",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=61817",
+  "https://www.newspim.com/news/view/20260706000937",
+  "https://enter.etoday.co.kr/news/view/299398",
+  "https://www.asiatime.co.kr/article/20260706500334",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3007769",
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=317857",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603158",
+  "https://www.businessplus.kr/news/articleView.html?idxno=113777"
  ],
  "seen_titles": [
-  "美하원,韓쿠팡차별보고서발표…\"국정원이기기회수강요\"",
-  "투숙객정보보호잘하는호텔,등급평가시우대",
-  "개보위,국제무대서영국등에AI대응정책'훈수'",
-  "개보위,'AI프라이버시정책'주제로국제화상회의개최",
-  "대포폰·보이스피싱차단위해휴대폰개통시‘안면인증’정식도입....",
-  "내달6일부터휴대폰개통시안면인증전면도입…대체수단도병행(종...",
-  "과기정통부,휴대전화개통안면인증6일시행…대포폰방지절차강화",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(6월30일화요일)",
-  "쿠팡개인정보유출에개보위분쟁조정14만6000명신청…역대최대",
   "쿠팡개인정보유출분쟁조정에14만6000여명참여",
   "2천만명정보털린티빙사태…집단소송‘수순’",
   "다윗과골리앗…전관앞세운SKT·쿠팡vs'일당백'개보위",
@@ -6001,7 +5992,16 @@
   "에버스핀,티냅스와'AI트러스트시큐리티'동맹구축",
   "KT,AX넘어토큰과스테이블코인까지…미래먹거리확보에열중",
   "KT,토큰팩토리로AI플랫폼본격화…글로벌AI파트너확대",
-  "엔비디아·애플공급사폭스콘,2분기매출40%증가"
+  "엔비디아·애플공급사폭스콘,2분기매출40%증가",
+  "LG,2·3차협력사로상생협력확대",
+  "LG,2·3차협력사까지상생확대...1300개공급망지원",
+  "LG,2·3차협력사까지상생협력지원확대…900억금융지원",
+  "경서,프로야구KT위즈시구·응원가열창‘승리요정’",
+  "[르포]\"이번달은괜찮아요\"첫날부터삐걱이는'휴대폰개통안면인증...",
+  "동아대병원,부울경첫AI기반의무기록시스템운영",
+  "SK인텔릭스,'나무엑스해커톤'성료...\"웰니스로보틱스신사업발굴본...",
+  "[성공예감]삼전닉스주가궁금하면,GPU임대가격을보세요–곽상준...",
+  "[이슈+]캐나다60조원잠수함사업자7일발표…한화오션·TKMS'운명의날..."
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,13 @@
   [
    "2026-07-06T16:24:15.801028+09:00",
    "AX 넘어 토큰과 열중 미래먹거리 ~KT 확보에 스테이블코인까지"
+  ],
+  [
+   "2026-07-06T16:26:18.118481+09:00",
+   "주가 궁금하면 곽상준 임대가격을 삼전닉스 보세요 GPU"
   ]
  ],
- "last_run": "2026-07-06T16:24:39.293281+09:00",
+ "last_run": "2026-07-06T16:26:35.337487+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
