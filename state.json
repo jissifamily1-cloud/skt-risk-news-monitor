@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714743",
-  "https://biz.heraldcorp.com/article/10795078",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678662",
-  "https://www.handmk.com/news/articleView.html?idxno=40786",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678624",
   "https://zdnet.co.kr/view/?no=20260626101010",
   "https://www.aitimes.com/news/articleView.html?idxno=212122",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=678218",
@@ -2999,14 +2994,14 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3627527",
   "https://www.seoulfn.com/news/articleView.html?idxno=632742",
   "https://www.ibabynews.com/news/articleView.html?idxno=152656",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260706010001957"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260706010001957",
+  "https://www.etnews.com/20260706000344",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681599",
+  "http://www.metroseoul.co.kr/article/20260706500370",
+  "https://byline.network/?p=9004111222610891",
+  "http://www.newstomato.com/ReadNews.aspx?no=1306224&inflow=N"
  ],
  "seen_titles": [
-  "인공지능(AI)90%암호화폐골랐다...비트코인(BTC),결제시장장악하나...",
-  "AI데이터센터시대핵심은광학연결…루멘텀\"광통신이인프라의순환...",
-  "앤트로픽,삼성전자와AI칩위탁생산논의",
-  "'삼전닉스'가1000조투자하는HBM,딥시크논문한편의균열",
-  "WallStreetEndsMixedasWeakJobsDataLowersFedRateHikeBets,Chip.",
   "앤트로픽,자체AI칩개발착수…삼성전자와2나노생산협의",
   "마이클세일러\"비트코인(BTC),AI에자금빼앗겼다\"...3분기전환점예...",
   "SpaceXunveilsAIdeviceprototypestoinvestorsamidgrowingwarning",
@@ -6001,13 +5996,14 @@
   "대구시달서구,7월부터평생학습관정규강좌70개과정운영",
   "휴대전화개통시다중인증도입···안면인증등절차거쳐야",
   "[아이들과가볼만한곳]\"세계최초PhysicalAI테마파크시대연다\"…...",
-  "\"협력사들과동반성장이답\"…삼성·SK·LG,모두상생문화확산에동참"
+  "\"협력사들과동반성장이답\"…삼성·SK·LG,모두상생문화확산에동참",
+  "[뉴스줌인]박윤영號,단단한통신바탕위'AI'로체질개선…'토큰'경...",
+  "[데일리픽]XRP결제량1000%폭증후추락…SK하닉美ADR상장'흥행예...",
+  "SK텔레콤,'해인클러스터'클라우드보안인증취득",
+  "KT,18조원투입‘AX플랫폼컴퍼니’선언",
+  "얼굴결제경쟁격화…'보안·안정성'시험대"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T08:40:47.619541+09:00",
-   "해인 취득 CSAP 인증 클러스터 ~SKT"
-  ],
   [
    "2026-07-06T08:44:14.807933+09:00",
    "명대 통신3사 인력 3만 전체 무너졌다"
@@ -6555,9 +6551,13 @@
   [
    "2026-07-06T14:34:15.552216+09:00",
    "플랫폼 통신사가 아니라 승부수 ~KT 18조원"
+  ],
+  [
+   "2026-07-06T14:40:48.690546+09:00",
+   "얼굴 경쟁 격화 시험대 보안 안정성 결제"
   ]
  ],
- "last_run": "2026-07-06T14:38:30.612604+09:00",
+ "last_run": "2026-07-06T14:41:06.797077+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
