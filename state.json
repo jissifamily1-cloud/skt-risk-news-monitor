@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1106854",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=465556",
   "https://biz.heraldcorp.com/article/10796755",
   "https://it.chosun.com/news/articleView.html?idxno=2023092165027",
@@ -2999,10 +2998,10 @@
   "https://www.koreaherald.com/article/10799533",
   "https://www.factin.co.kr/news/articleView.html?idxno=6628",
   "https://www.viva100.com/article/20260706500740",
-  "http://www.inews24.com/view/1982707"
+  "http://www.inews24.com/view/1982707",
+  "https://weeklytrade.co.kr/news/view.html?no=100492"
  ],
  "seen_titles": [
-  "[KBO내일의선발투수]7월5일(일)",
   "젠슨황이입은'검은가죽재킷'경매로…예상가최대9천만원",
   "[로드픽]국가가접수하는AI패권…안보와지분사이'위험한동거'",
   "7월4일모닝뉴스헤드라인",
@@ -6001,7 +6000,8 @@
   "CheckmateyourweekendinSuwon",
   "조선왕조실록4대사고본한자리에부산서만난다",
   "‘반도체쌍포’삼성•SK,2분기‘어닝서프라이즈’초대형축포터...",
-  "KT\"토큰팩토리등AX신성장모델로성장실현\"[일문일답]"
+  "KT\"토큰팩토리등AX신성장모델로성장실현\"[일문일답]",
+  "[김시래대기자의시선]미국'독립정신250주년,기업가정신250년'의..."
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-07-06T14:22:16.005864+09:00",
    "RQ2722 공개 라닉스 KT와 협력 확대 양자내성암호 ~KT IC"
+  ],
+  [
+   "2026-07-06T14:26:16.264544+09:00",
+   "미국 독립 250년 기업가 정신 250주년"
   ]
  ],
- "last_run": "2026-07-06T14:24:31.662587+09:00",
+ "last_run": "2026-07-06T14:26:40.898227+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6951,6 +6955,7 @@
   "youngnong.co.kr": "youngnong.co.kr",
   "yonhapmidas.com": "연합뉴스 월간 마이더스",
   "wolyo.co.kr": "월요신문",
-  "siminilbo.co.kr": "siminilbo.co.kr"
+  "siminilbo.co.kr": "siminilbo.co.kr",
+  "weeklytrade.co.kr": "2007 Korea Trade News"
  }
 }
