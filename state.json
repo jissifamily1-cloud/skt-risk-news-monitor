@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1384358",
-  "https://www.newspim.com/news/view/20260625000031",
-  "http://www.gjdream.com/news/articleView.html?idxno=670478",
-  "https://www.news1.kr/it-science/general-it/6207506",
   "https://www.newspim.com/news/view/20260624000963",
   "https://www.sedaily.com/article/20059586",
   "https://www.thepublic.kr/news/articleView.html?idxno=308902",
@@ -2999,13 +2995,13 @@
   "https://www.medicopharma.co.kr/news/articleView.html?idxno=68624",
   "https://www.datanet.co.kr/news/articleView.html?idxno=212853",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=202436",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53121"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53121",
+  "https://www.etnews.com/20260706000090",
+  "https://www.etnews.com/20260706000138",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=204500",
+  "http://www.lkp.news/news/articleView.html?idxno=81568"
  ],
  "seen_titles": [
-  "\"정답아닌과정을묻다\"…AI가답할때인간은무엇을할까",
-  "삼성전자,AI가전…일상대화로기능제어",
-  "[AIMY뉴스]30일중국증시'지수박스권상승,종목차별화심화'",
-  "[파워인터뷰화제人]최호준와이즈버즈대표“글로벌애드테크의새로...",
   "플레이디,AI광고제작에GEO까지…SOOP광고계열사의체질전환",
   "\"초안은1초,확정은하루\"…AI가만든초안을최종안으로바꾸는법",
   "[AIMY뉴스]29일중국증시'정책·기업·산업이벤트3대재료영향'",
@@ -6001,7 +5997,11 @@
   "아스트라제네카,中CSPC와2.4조규모계약…RNA치료제개발협력",
   "더존비즈온,한국공항공사'AI업무혁신플랫폼'구축수주",
   "삼성,여름철근로자보호설루션강화…박윤영KT대표,취임후첫비...",
-  "\"내가떠나면이런거래없다\"백악관서마주한'CEO총사령관'트럼프"
+  "\"내가떠나면이런거래없다\"백악관서마주한'CEO총사령관'트럼프",
+  "[디지털문서인사이트]AI핵심역량에대응할수있는보안패러다임...",
+  "[ET단상]사후약방문식인프라관리와보안불감증,선제적투자로전...",
+  "취임100일박윤영KT대표\"18조투자해AX플랫폼컴퍼니로\"",
+  "BS한양,삼성SDS17조투자소식에반색…'묘도LNG열병합발전'탄력전..."
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-07-06T16:01:02.116461+09:00",
    "떠나면 이런 거래 총사령관 없다 백악관서 내가 트럼프 마주한 CEO"
+  ],
+  [
+   "2026-07-06T16:02:18.640284+09:00",
+   "삼성SDS 탄력 투자 묘도 LNG 소식에 17조 반색 BS한양 열병합발전"
   ]
  ],
- "last_run": "2026-07-06T16:01:20.333094+09:00",
+ "last_run": "2026-07-06T16:02:36.530947+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
