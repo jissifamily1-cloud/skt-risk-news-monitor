@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260704000008",
-  "http://www.newstomato.com/ReadNews.aspx?no=1306121&inflow=N",
-  "https://www.newspim.com/news/view/20260704000048",
-  "https://kidd.co.kr/news/246600",
-  "https://zdnet.co.kr/view/?no=20260703110717",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3122743",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=403881",
   "http://www.jeollailbo.com/news/articleView.html?idxno=804397",
   "https://www.newspim.com/news/view/20260705000001",
   "https://www.sentv.co.kr/article/view/sentv202607050004",
@@ -2999,16 +2992,16 @@
   "https://www.donga.com/news/Economy/article/all/20260706/134244816/1",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=49424",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607060153&t=NNv",
-  "https://www.newsis.com/view/NISX20260706_0003697866"
+  "https://www.newsis.com/view/NISX20260706_0003697866",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848544",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=846008",
+  "https://biz.heraldcorp.com/article/10797282",
+  "http://www.ikld.kr/news/articleView.html?idxno=337141",
+  "https://www.ceoscoredaily.com/page/view/2026070615552184057",
+  "https://www.mt.co.kr/tech/2026/07/06/2026070616543977585",
+  "http://www.4th.kr/news/articleView.html?idxno=2114300"
  ],
  "seen_titles": [
-  "'아시아AI허브'노리는SK텔레콤…15GW데이터센터추진",
-  "SKT,전국15GW규모AI데이터센터구축…\"아시아AI인프라허브로\"",
-  "LG유플러스,해외무료통화'익시오로밍콜'출시",
-  "\"LG유플러스로밍하면국제전화공짜\"…'로밍콜'100개국확대",
-  "LG유플러스,해외무료통화서비스출시…日시작100개국확대계획",
-  "로밍고객힘주는LGU+…일본부터익시오무료통화",
-  "LGU+,日‘익시오로밍콜’출시…하반기100개국확대",
   "LG유플,일본에‘익시오로밍콜’출시…하반기해외100개국으로확대",
   "미국‘AI전략자산’본격화…트럼프,신모델출시일까지관여",
   "드론시대라더니…현대전의복병은풍선이었다[박수찬의軍]",
@@ -6001,13 +5994,16 @@
   "오픈베이스,F5와AI보안세미나‘오픈베이스무비데이’개최",
   "취임100일박윤영KT대표,청사진내놨지만…시장반응'글쎄'",
   "KT,AI전환에18조투자…\"AX기업으로바꿀것\"",
-  "극동방송,美자매기관서100만달러투자유치…방미통위승인"
+  "극동방송,美자매기관서100만달러투자유치…방미통위승인",
+  "휴대폰개통,오늘부터'안면인증'의무화",
+  "삼성전자,앤트로픽파운드리고객사확보하나…AI칩협업논의",
+  "세계최고AI전문가한국에모였다…KAIST,‘글로벌AI프론티어심포...",
+  "코레일,'정보보안실천프로그램'운영…임직원보안역량강화",
+  "KT박윤영號,‘AX플랫폼’대전환18조‘통큰투자’…“토큰팩토...",
+  "방미통위,방문진·EBS이사각8명임명…KBS이사4명임명제청",
+  "배스킨라빈스,배민단독플레이버출시..디지털커머스강화"
  ],
  "recent_sigs": [
-  [
-   "2026-07-06T11:30:51.217931+09:00",
-   "국민영웅 제대로 대우하기 않습니다 어렵지"
-  ],
   [
    "2026-07-06T11:32:18.514010+09:00",
    "박윤영 파트너십 MS와 있었다 글로벌 ~KT 협력 확대할 MS 성과"
@@ -6639,9 +6635,13 @@
   [
    "2026-07-06T17:26:16.777231+09:00",
    "투자 되겠다 ~KT 만드는 무대 5년간 미래 18조원 회사"
+  ],
+  [
+   "2026-07-06T17:30:56.338857+09:00",
+   "디지털 커머스 배스킨라빈스 배민 출시 플레이버 강화"
   ]
  ],
- "last_run": "2026-07-06T17:28:38.155327+09:00",
+ "last_run": "2026-07-06T17:31:15.076952+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
