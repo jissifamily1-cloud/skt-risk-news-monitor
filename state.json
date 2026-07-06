@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.boannews.com/media/view.asp?idx=144417&kind=1",
-  "https://www.newspim.com/news/view/20260630000832",
-  "https://www.econovill.com/news/articleView.html?idxno=743910",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=387248",
-  "https://www.news1.kr/life-culture/book/6212153",
-  "https://www.hankyung.com/article/2026062934911",
-  "https://www.newspim.com/news/view/20260630000021",
-  "https://news.mtn.co.kr/news-detail/2026062909402426495",
   "https://www.econovill.com/news/articleView.html?idxno=743731",
   "https://www.news1.kr/life-culture/book/6210795",
   "https://www.newspim.com/news/view/20260629000023",
@@ -2999,17 +2991,17 @@
   "https://www.etoday.co.kr/news/view/2600730",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=6264",
   "https://www.news1.kr/industry/general-industry/6219126",
-  "https://www.kukinews.com/article/view/kuk202607060137"
+  "https://www.kukinews.com/article/view/kuk202607060137",
+  "https://www.newspim.com/news/view/20260706000776",
+  "http://www.srtimes.kr/news/articleView.html?idxno=206866",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16125162",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240246",
+  "http://www.finomy.com/news/articleView.html?idxno=256871",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132691",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603129",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1086761"
  ],
  "seen_titles": [
-  "[글로벌]\"증류는기술도용\"...앤스로픽도中AI기업정조준",
-  "IBM주가25년만에최대폭추락",
-  "[글로벌]10배성장앤스로픽,오픈AI매출추월하나...B2B시장서판뒤...",
-  "뉴욕증시,추가관세우려와AI산업불확실성에큰폭하락⋯다우지수1...",
-  "교보證“디지털자산,자본력보단창의·전문성…상위권도약기로\"[일...",
-  "\"교보그룹디지털자산협의체원팀협업…비상장株·콘텐츠IPRWA준비\"",
-  "LGCNSvs삼성SDS…오픈AI손잡고'격돌'",
-  "잘나가는앤스로픽,중급모델서도'최상위급성능'",
   "\"본질무관한모든것내려놓는다\"…오픈AI의절치부심",
   "사스포칼립스?소프트웨어의종말이아니라서비스의새로운문법.",
   "\"AI투자7~8년더간다\"…젠슨황·골드만삭스,거품론에일침",
@@ -6001,7 +5993,15 @@
   "이재용회장,선밸리2년연속참석전망…AI빅테크네트워크넓힌다",
   "[줌인]우리은행,1.7만명개인정보유출책임없나?",
   "생성형AI추천동물병원은…베트맨,11일검색솔루션선보인다",
-  "전남광주통합특별시의회,시청·교육청예결특위출범"
+  "전남광주통합특별시의회,시청·교육청예결특위출범",
+  "LG,상생결제낙수율10%넘긴다…2·3차협력사현금흐름지원",
+  "젠슨황불붙인이통3사클라우드대전…승자누가되나",
+  "[산업분석]삼성전자·SK하이닉스,DRAM18%·HBM상승",
+  "KT,'AX플랫폼컴퍼니'전환…AI인프라‧보안투자확대",
+  "\"3년간12조투자\"⋯KT,'AX플랫폼컴퍼니'비전발표",
+  "박윤영KT대표,취임첫간담회개최...\"'토큰팩토리'로AI생태계주도...",
+  "휴대전화개통시‘안면인증’시작…대포폰·명의도용차단강화",
+  "코레일,정보보호의날맞아전사보안강화…화이트해킹대회개최"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,17 @@
   [
    "2026-07-06T15:52:18.831205+09:00",
    "교육청 출범 예결특위 전남광주통합특별시의회 시청"
+  ],
+  [
+   "2026-07-06T15:54:16.552248+09:00",
+   "승자 대전 이통3사 붙인 클라우드 젠슨황 누가 되나"
+  ],
+  [
+   "2026-07-06T15:54:16.552248+09:00",
+   "시작 대포폰 안면인증 강화 명의도용 개통 차단 휴대전화"
   ]
  ],
- "last_run": "2026-07-06T15:52:36.781711+09:00",
+ "last_run": "2026-07-06T15:54:43.342027+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
