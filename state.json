@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2112985",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=203267",
-  "https://www.dt.co.kr/article/12066883",
-  "https://www.yna.co.kr/view/AKR20260610129700017?input=1195m",
-  "https://www.wikitree.co.kr/articles/1144674",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3626032",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3626012",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3626008",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=222928",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607030401&t=NN",
   "https://www.yna.co.kr/view/AKR20260704003200091?input=1195m",
   "http://weekly.chosun.com/news/articleView.html?idxno=53122",
   "https://biz.heraldcorp.com/article/10797940",
@@ -2999,19 +2989,19 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3627102",
   "https://www.econovill.com/news/articleView.html?idxno=744366",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43326",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423482"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423482",
+  "https://www.news1.kr/it-science/mobile/6218596",
+  "https://www.viva100.com/article/20260706500302",
+  "https://news.tf.co.kr/read/economy/2339929.htm",
+  "https://platum.kr/archives/290432",
+  "https://www.kmaeil.com/news/articleView.html?idxno=644367",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310778",
+  "https://www.newspim.com/news/view/20260706000296",
+  "https://www.yna.co.kr/view/PYH20260706037400013?input=1196m",
+  "https://www.newsis.com/view/NISX20260706_0003696869",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=269134"
  ],
  "seen_titles": [
-  "통신학회\"AI3대강국목표,5G·차세대망투자확대해야\"(종합)",
-  "바디프랜드,'헬스케어플랫폼'체질개선박차",
-  "재난현장소방대원통신우선전송한다…이통3사·과기부·소방청협력",
-  "\"통신망에투자해야피지컬AI시대열린다\"",
-  "통신학회\"AI3대강국목표,5G·차세대망투자확대해야\"",
-  "OxygenOS·리얼미UI폐지설…오포ColorOS로전면통합",
-  "서산시,첫정기인사단행…승진·전보270명규모",
-  "청양군드림스타트아동,정기후원금으로성장지원받는다",
-  "예산군농어촌도로확포장완료…주민이동편의대폭개선",
-  "[AI와사는법]AUP와라이선스",
   "\"7200~9000선널뛴다\"…7일코스피'변곡점'",
   "'앤트로픽AI수출통제해제'이끈건아모데이아닌브라운CCO",
   "용병시장가뭄,더큰가뭄온다",
@@ -6001,7 +5991,17 @@
   "김중남강릉시장주재,민선9기공약이행방안집중점검",
   "\"AWS스타트업어드바이저등판\"비개발자도클라우드구축시대열렸다",
   "이양수의원,사이버위협대응예산2년새21%증가",
-  "국힘\"입틀막법은희대의악법…통제·검열의독재권력시작\""
+  "국힘\"입틀막법은희대의악법…통제·검열의독재권력시작\"",
+  "메타,AI글래스에韓실시간번역'쏙'…판매처확대",
+  "동부건설,1015억원규모‘춘천효자동주상복합’신축공사단독수주",
+  "동부건설,1015억원규모춘천효자동주상복합수주",
+  "AWS,스타트업용AI어시스턴트'스타트업어드바이저'출시",
+  "[문인찬의新戰略論]NewStrategyParadigm#30",
+  "SKT'해인'클러스터,클라우드보안인증취득",
+  "SKT'해인',블랙웰AI클러스터첫CSAP인증",
+  "박윤영KT대표,AX플랫폼컴퍼니전략발표",
+  "국힘,검은마스크쓰고\"'입틀막법'시행,권력이국민의입마저집어삼...",
+  "파스쿠찌,여름한정그라니따캠페인…신제품판매량20%↑"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-07-06T10:16:16.687267+09:00",
    "입틀막법은 통제 악법 희대의 국힘 시작 검열의 독재권력"
+  ],
+  [
+   "2026-07-06T10:18:16.258224+09:00",
+   "여름 그라니따 캠페인 신제품 파스쿠찌 한정 판매량"
   ]
  ],
- "last_run": "2026-07-06T10:16:38.101129+09:00",
+ "last_run": "2026-07-06T10:18:38.224460+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
