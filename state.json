@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kjdaily.com/article.php?aid=1783214870681642255",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3626492",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86405",
-  "https://www.asiatime.co.kr/article/20260705500010",
-  "https://www.sentv.co.kr/article/view/sentv202607050015",
-  "http://www.kdfnews.com/news/articleView.html?idxno=184861",
-  "https://www.ajunews.com/view/20260705101441119",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681410",
-  "http://www.segyebiz.com/newsView/20260705503460?OutUrl=naver",
   "http://www.osen.co.kr/article/G1112834190",
   "https://www.kyeongin.com/article/1766750",
   "https://sports.khan.co.kr/article/202607051042003?pt=nv",
@@ -2999,18 +2990,18 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002172",
   "https://www.etoday.co.kr/news/view/2600739",
   "https://view.asiae.co.kr/article/2026070618021412997",
-  "https://www.news1.kr/it-science/cc-newmedia/6219387"
+  "https://www.news1.kr/it-science/cc-newmedia/6219387",
+  "https://www.mydaily.co.kr/page/view/2026070616354495816",
+  "http://www.maniareport.com/view.php?ud=2026070611292275596cf2d78c68_19",
+  "https://news.unn.net/news/articleView.html?idxno=594370",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04811766645511896",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2426367",
+  "https://www.hellot.net/news/article.html?no=113640",
+  "https://www.insnews.co.kr/news/articleView.html?idxno=91691",
+  "https://www.sentv.co.kr/article/view/sentv202607060095",
+  "https://zdnet.co.kr/view/?no=20260706164438"
  ],
  "seen_titles": [
-  "LG유플러스,일본서'익시오로밍콜'서비스개시…하반기100개국확대",
-  "데뷔8일만에5G등판→진한'복덩이'스멜…밝은미소→153㎞직구...",
-  "전부혀내두르는데,너무심했던BABIP신의'억까'…그래도롯데158km...",
-  "“휴대폰개통이요?얼굴부터대세요”…내일부터안면인증",
-  "\"일본직판성패가르는결제현지화…'포인트생태계'이해가우선\"",
-  "LG전자,보스턴에SKS체험관오픈…美빌트인고객접점강화",
-  "LG전자,美4번째'SKS'고객경험공간오픈…빌트인가전시장공략가...",
-  "SKT,15GWAI데이터센터구축추진…\"아시아AI허브도약\"",
-  "LG전자,美보스턴서초프리미엄빌트인가전'SKS'체험형쇼룸오픈",
   "매서운스페이스X發광풍...우주항공ETF,7월첫주수익률최상위권",
   "[포토]대구시서구청,이현공원어린이물놀이장16일정식개장",
   "대구시서구청,착한가격업소하반기신규모집...7월1일부터신청",
@@ -6001,7 +5992,16 @@
   "취임100일KT박윤영,18兆투자로AX플랫폼도약승부수",
   "SK하이닉스나스닥ADR상장,국내유동성흡수할까",
   "방미통위,아고다에과징금24억원…환불·수수료안내미흡",
-  "방미통위,환불조건·수수료명확히고지않은아고다에과징금24억"
+  "방미통위,환불조건·수수료명확히고지않은아고다에과징금24억",
+  "류현진전반기마감!한미통산2500K도전후반기로...윤동희나승엽...",
+  "'더밀고갔다면'박세웅내린선택과주루실패...롯데의발목을잡다",
+  "국립목포대,전남주력산업AI대전환이끌'피지컬AI융합인재'본격...",
+  "'치맥26'글로벌도약신호탄…대구치맥페스티벌,해외관광객3배늘며...",
+  "[사설]까다로워진휴대폰개통",
+  "[봇규의헬로BOT]“클라우드는너무멀다”초고속AI판단지원하는드...",
+  "금융보안원,디지털자산보안위협심층분석'딥체인'보고서창간",
+  "박윤영號KT,18조투자청사진…AI수익화성과낼까",
+  "[이슈진단+]업의본질집중하는KT...'제로트러스트'기반네트워크초..."
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-07-06T18:04:18.653478+09:00",
    "국내 SK하이닉스 ADR 유동성 흡수할까 나스닥 상장"
+  ],
+  [
+   "2026-07-06T18:06:16.034846+09:00",
+   "본질 집중하는 업의 제로트러스트 기반 네트워크 ~KT"
   ]
  ],
- "last_run": "2026-07-06T18:04:39.164547+09:00",
+ "last_run": "2026-07-06T18:06:41.575852+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
