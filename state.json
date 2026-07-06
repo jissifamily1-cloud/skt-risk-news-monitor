@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=440964",
-  "https://www.mk.co.kr/article/12084202",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714124",
-  "https://www.dailian.co.kr/news/view/1660428/?sc=Naver",
-  "https://www.nongmin.com/article/20260626500151",
-  "https://www.mt.co.kr/tech/2026/06/26/2026062614193779711",
-  "https://www.newspim.com/news/view/20260626000680",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=873388",
-  "https://view.asiae.co.kr/article/2026062611263473366",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=89116",
-  "https://www.kyeonggi.com/article/20260626580100",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260626110855iYA",
   "https://www.news1.kr/it-science/cc-newmedia/6209218",
   "https://www.ddaily.co.kr/page/view/2026062610443814516",
   "https://www.newsis.com/view/NISX20260626_0003684864",
@@ -2999,21 +2987,21 @@
   "https://www.hellot.net/news/article.html?no=113614",
   "https://www.yna.co.kr/view/AKR20260706044400017?input=1195m",
   "https://dealsite.co.kr/articles/164766",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02706006645511896"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02706006645511896",
+  "https://www.news1.kr/realestate/general/6218556",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=874177",
+  "https://www.thepublic.kr/news/articleView.html?idxno=310163",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=82924",
+  "https://www.newstree.kr/newsView/ntr202607060005",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02712566645511896",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681499",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165196",
+  "https://www.newspim.com/news/view/20260706000090",
+  "http://www.ddanzi.com/888752835",
+  "https://economist.co.kr/article/view/ecn202607060001",
+  "https://www.etnews.com/20260706000105"
  ],
  "seen_titles": [
-  "채팅·앱으로핸드폰해지...방미통위,이동통신해지개선안발표",
-  "방미통위이동통신해지절차개선,전화상담없이채팅으로해지가능",
-  "전화말고채팅상담으로도휴대전화해지가능해진다",
-  "휴대전화해지쉬워진다…상담원채팅·앱으로가능",
-  "휴대폰해지쉬워진다…채팅상담·모바일앱으로도가능",
-  "“상담원통화대신채팅으로도”…‘휴대전화해지’수월해진다",
-  "채팅·앱만으로이동통신해지가능…방미통위개선안발표",
-  "[미국특징주]스페이스X,스타링크모바일서비스출시검토",
-  "\"상담원채팅으로이동통신해지가능\"...정부,해지절차개선",
-  "\"채팅·앱으로요금제해지\"…방미통위,통신해지절차개선안발표",
-  "휴대폰해지,상담원채팅·모바일앱으로도된다",
-  "\"통화대기지옥끝낸다\"…이통사해지,앱·채팅으로'한방에'",
   "휴대전화해지쉬워진다…채팅상담·모바일앱으로신청가능",
   "\"연결중입니다\"대기해방…채팅으로통신서비스해지한다",
   "\"이동통신해지,전화안해도됩니다\"…채팅·앱신청도입",
@@ -6001,7 +5989,19 @@
   "미스트랄AI,팔란티어식전략통해오픈AI‘맹추격’",
   "[AI픽]경찰수사돕고K팝아이돌만든다…진화하는K-AI",
   "[최태원의결단]반도체호황온기,협력사로퍼진다…단가인상파격...",
-  "\"입틀막법고치겠다\"...장동혁·정점식,정통망법시행비판"
+  "\"입틀막법고치겠다\"...장동혁·정점식,정통망법시행비판",
+  "동부건설,1015억원규모춘천주상복합공사수주",
+  "휴대폰개통,신분증만으론안된다…'다중본인확인'의무화",
+  "휴대전화개통문턱높아진다...안면인증등본인확인강화",
+  "정부,휴대전화부정사용방지대책추진…6일부터개통시'안면인증'",
+  "신분증만들고가면'퇴짜'…폰개통6일부터'깐깐해진다'",
+  "알뜰폰협회,신임상근부회장에양환정전ICT폴리텍대학학장선임",
+  "유럽미스트랄AI,LLM개발넘어AI클라우드·데이터센터까지확장",
+  "KT,정보보안·AI에3년간12조투자…'AX플랫폼'전략공개",
+  "'취임100일'박윤영KT대표...'AX플랫폼컴퍼니'로대전환선언",
+  "[뉴공아카이브]백년위원회:AI로바뀌는100년…국가의새로운역할은...",
+  "KT박윤영의승부수…'AI인프라'에6조쏟는다",
+  "KT,3년간12조투입…AX플랫폼기업도약총력"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,25 @@
   [
    "2026-07-06T10:04:17.711205+09:00",
    "시행 고치겠다 비판 입틀막법 정점식 정통망법 장동혁"
+  ],
+  [
+   "2026-07-06T10:06:16.364547+09:00",
+   "퇴짜 들고가면 개통 신분증만 깐깐해진다 6일부터"
+  ],
+  [
+   "2026-07-06T10:06:16.364547+09:00",
+   "박윤영의 승부수 인프라 ~KT 6조 쏟는다"
+  ],
+  [
+   "2026-07-06T10:06:16.364547+09:00",
+   "투입 AX플랫폼 도약 12조 총력 3년간 기업 ~KT"
+  ],
+  [
+   "2026-07-06T10:06:16.364547+09:00",
+   "새로운 바뀌는 100년 AI로 백년위원회 국가의 역할은"
   ]
  ],
- "last_run": "2026-07-06T10:04:46.621394+09:00",
+ "last_run": "2026-07-06T10:06:52.086261+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6770,6 +6786,7 @@
   "ngetnews.com": "뉴스저널리즘",
   "nc.press": "뉴스컬처",
   "ujeil.com": "울산제일일보",
-  "chungnamilbo.co.kr": "충남일보"
+  "chungnamilbo.co.kr": "충남일보",
+  "newstree.kr": "뉴스;트리"
  }
 }
