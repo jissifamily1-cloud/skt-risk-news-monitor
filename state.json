@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423482",
-  "https://www.news1.kr/it-science/mobile/6218596",
-  "https://www.viva100.com/article/20260706500302",
-  "https://news.tf.co.kr/read/economy/2339929.htm",
-  "https://platum.kr/archives/290432",
-  "https://www.kmaeil.com/news/articleView.html?idxno=644367",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310778",
-  "https://www.newspim.com/news/view/20260706000296",
-  "https://www.yna.co.kr/view/PYH20260706037400013?input=1196m",
-  "https://www.newsis.com/view/NISX20260706_0003696869",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269134",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/06/2026070600058.html",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681503",
@@ -2999,19 +2989,19 @@
   "https://www.hankyung.com/article/202607079130g",
   "https://www.newspim.com/news/view/20260707000116",
   "https://zdnet.co.kr/view/?no=20260707081901",
-  "http://coinreaders.com/246401"
+  "http://coinreaders.com/246401",
+  "https://www.dailian.co.kr/news/view/1663953/?sc=Naver",
+  "https://www.itworld.co.kr/article/4192980/오픈텍스트-국경을-넘지-않는-ai-설계의-원칙을-제시하.html",
+  "https://www.hellot.net/news/article.html?no=113613",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02830646645512224",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848605",
+  "https://www.dt.co.kr/article/12071285",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02827366645512224",
+  "https://news.jtbc.co.kr/article/NB12306911?influxDiv=NAVER",
+  "https://www.etoday.co.kr/news/view/2600896",
+  "https://www.wikitree.co.kr/articles/1145086"
  ],
  "seen_titles": [
-  "개정정보통신망법내일부터시행...무엇이허위조작정보인가",
-  "KB국민은행,상생형오픈스토어운영…소상공인판로지원확대",
-  "네이버,재난·기상특보한번에확인하는'세이프티'페이지오픈",
-  "\"캐나다,'60조'잠수함건조사업자6일발표…한국·독일경쟁마침표...",
-  "박윤영KT\"AX인프라에6조,통신본질에12조투자\"",
-  "KT,'AXPlatformCompany'도약선언…\"AI시장선도\"",
-  "KT\"인공지능기업으로전환…AI인프라에6조\"",
-  "[종합]\"소휘,배민,알룰로스액상,픽스녹음기,픽스에어건\"등7월6일...",
-  "SK텔레콤AI데이터센터인프라'해인'클러스터,CSAP인증획득",
-  "'망'넘어AI인프라로…KT'AI플랫폼'에18조베팅",
   "KT,18조원통큰투자…박윤영대표\"AX시대대한민국연결주도\"",
   "[오늘의유통가]롯데百키네틱그라운드1년,고객지형바꿨다外",
   "\"여름철식중독막는다\"…전담반,708개업소찾아가위생컨설팅나선...",
@@ -6001,7 +5991,17 @@
   "\"성과급빼면영업익100조넘었다\"…삼성전자'대기록'",
   "SKT,포켓몬30주년기념'잉어킹프로모카드'배부시작",
   "삼성전자,2분기영업익89.4조…엔비디아·애플도제쳤다",
-  "엔비디아(NVDA),반도체랠리서나홀로소외...골드만삭스는'적극추천..."
+  "엔비디아(NVDA),반도체랠리서나홀로소외...골드만삭스는'적극추천...",
+  "[르포]\"신분증주세요,얼굴도확인합니다\"…휴대폰안면인증해봤습니...",
+  "오픈텍스트,국경을넘지않는AI설계의원칙을제시하다",
+  "오픈AI,사회복지혁신리더아카데미협력파트너참여...AI실습교육제...",
+  "[마켓무버]AI반도체랠리재개…나스닥1%대상승",
+  "[속보]삼성전자,2분기매출171조,영업이익89조...역대최대",
+  "AI·우주·바이오,특허빅데이터로새R&D전략짠다",
+  "SKT,전국매장서‘잉어킹프로모카드’수령...포켓몬이벤트확대",
+  "통신사넘어AX기업으로…KT,18조투자승부수",
+  "한투운용\"엔비디아밸류체인ETF,연초이후해외밸류체인형수익률1위...",
+  "엔비디아숨고를때6%대급등…다우53000이끈'이주식'"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,17 @@
   [
    "2026-07-07T08:38:14.875045+09:00",
    "추천 반도체 나홀로 골드만삭스는 랠리서 적극 NVDA 소외"
+  ],
+  [
+   "2026-07-07T08:40:48.834327+09:00",
+   "해외 한투운용 수익률 연초 밸류체인형 엔비디아밸류체인 이후 1위 ETF"
+  ],
+  [
+   "2026-07-07T08:40:48.834327+09:00",
+   "고를 주식 다우 이끈 급등"
   ]
  ],
- "last_run": "2026-07-07T08:38:36.536160+09:00",
+ "last_run": "2026-07-07T08:41:09.145485+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
