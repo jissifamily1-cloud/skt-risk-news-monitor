@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165179",
-  "https://www.starnewskorea.com/sports/2026/07/05/2026070415502194189",
-  "http://www.osen.co.kr/article/G1112834263",
-  "https://www.newstnt.com/news/articleView.html?idxno=708988",
-  "https://zdnet.co.kr/view/?no=20260704190722",
   "https://daily.hankooki.com/news/articleView.html?idxno=1382813",
   "https://www.newspim.com/news/view/20260703000854",
   "https://www.vegannews.co.kr/news/article.html?no=383809",
@@ -2999,14 +2994,14 @@
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=189436",
   "https://www.sedaily.com/article/20064417",
   "https://www.news1.kr/it-science/cc-newmedia/6219413",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077545"
+  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077545",
+  "http://www.fnnews.com/news/202607061811195008",
+  "https://www.sportschosun.com/baseball/2026-07-06/202607060100039190002296",
+  "http://www.fnnews.com/news/202607061812230225",
+  "http://www.fnnews.com/news/202607061812190442",
+  "https://www.sedaily.com/article/20064423"
  ],
  "seen_titles": [
-  "AI는더이상기술이아니다…인프라부터쇼핑까지스며든일상",
-  "\"실제고급주택처럼\"…LG전자,美보스턴에대규모SKS쇼룸오픈",
-  "크라켄,토큰화주식·ETF담보로레버리지거래지원",
-  "“亞AI인프라허브로도약”…SKT,15GWAI데이터센터승부수",
-  "ML꿈꿨던포수유망주,투수전향→통산세이브5위…인생이달라졌다...",
   "[굿모닝위즈·80]물대포3방…건조한워터페스티벌",
   "SKT,15GW규모AI데이터센터구축추진···‘아시아AI인프라허브’...",
   "GS,동해2.4GWAI데이터센터낙점…\"메가프로젝트1호완공\"노린다",
@@ -6001,7 +5996,12 @@
   "'함께가요LG'공정위주관상생협력,2차이하협력사까지확산",
   "동부건설,춘천원도심주상복합아파트공사수주",
   "방미통위,KBS이사강명현·방상훈·우형진·임재성임명제청",
-  "[진담승부]1400조반도체구상…균형발전인가기업압박인가"
+  "[진담승부]1400조반도체구상…균형발전인가기업압박인가",
+  "LG'상생결제'확대…2·3차협력사낙수율10%대로높인다",
+  "김태형감독인내심한계인가..KIA전인데윤동희나승엽2군행이라니",
+  "KT'AX컴퍼니'대도약…AIDC·6G기술등18조쏟는다",
+  "오픈AI,사회복지혁신리더육성힘모아",
+  "엔비디아AI서버출시차질…亞기술주일제히급락"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-07-06T18:12:17.424246+09:00",
    "균형발전인가 반도체 구상 1400조 압박인가 기업"
+  ],
+  [
+   "2026-07-06T18:14:16.224550+09:00",
+   "차질 일제히 출시 AI서버 급락 기술주"
   ]
  ],
- "last_run": "2026-07-06T18:12:36.899306+09:00",
+ "last_run": "2026-07-06T18:14:41.284705+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
