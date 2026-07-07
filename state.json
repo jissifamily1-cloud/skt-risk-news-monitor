@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260706000465",
-  "https://www.newspim.com/news/view/20260706000464",
-  "https://www.newspim.com/news/view/20260706000468",
-  "https://view.asiae.co.kr/article/2026070610553173777",
-  "https://news.bizwatch.co.kr/article/finance/2026/07/01/0031",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=586789",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03375126645511896",
-  "https://www.smarttoday.co.kr/ko-kr/articles/109236",
-  "https://www.newsway.co.kr/news/view?ud=2026070610502541634",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03368566645511896",
   "https://kpenews.com/View.aspx?No=4137932",
   "https://www.news1.kr/it-science/cc-newmedia/6218705",
   "https://www.koreaittimes.com/news/articleView.html?idxno=154954",
@@ -2999,19 +2989,19 @@
   "https://www.catchnews.kr/news/articleView.html?idxno=125834",
   "https://www.getnews.co.kr/news/articleView.html?idxno=874334",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03161926645512224",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070210&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070210&t=NN",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251037",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446105",
+  "https://www.itworld.co.kr/article/4193469/폴더블-아이폰-울트라-아이폰-x의-전철-밟나-늦은-출.html",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=403936",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=434744",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=118667",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466133",
+  "https://thetracker.co.kr/View.aspx?No=4139367",
+  "https://www.handmk.com/news/articleView.html?idxno=41105",
+  "https://news.bizwatch.co.kr/article/industry/2026/07/07/0001"
  ],
  "seen_titles": [
-  "[기고]디지털달러파도앞에서,우리는무엇을준비하고있는가",
-  "'갤럭시로봇파크',프리오픈흥행…7월주말공연매진기록",
-  "평가에서에이전트까지,AI관찰가능성을재점검하라",
-  "AWS,창업부터클라우드이전까지AI가돕는다…스타트업전용기능공개",
-  "머스크의스페이스X,7일나스닥100지수전격편입…상장1개월만에'...",
-  "성균관대김정래교수팀,AI반도체최고권위ISCA2026최우수논문상…...",
-  "에버스핀·티냅스,'AI신뢰보안'시장공략맞손",
-  "SKT'해인'클러스터,KISA클라우드보안인증획득…소버린AI가속",
-  "취임100일KT박윤영대표“보안·네트워크품질에3년간12조투자”",
-  "[포토]AX플랫폼컴퍼니로도약하는KT",
   "[포토]박윤영KT대표,AX플랫폼컴퍼니사업전략발표",
   "[포토]발표하는박윤영KT대표",
   "[포토]KT,'AX플랫폼컴퍼니'선언...AI시장선도",
@@ -6001,7 +5991,17 @@
   "\"엔비디아도제쳤다\"삼성전자,2분기영업익90조육박",
   "방미통위,KBS이사4명임명제청…방문진·EBS이사도8명씩임명",
   "M&A거래쏠림현상가속…\"AI딜만뜨거웠다\"",
-  "[속보]'역대급수치'개미놀랐나…엔비디아도,애플도넘었는데주가..."
+  "[속보]'역대급수치'개미놀랐나…엔비디아도,애플도넘었는데주가...",
+  "SKT'해인'클러스터,블랙웰GPU업계최초CSAP인증",
+  "LGU+직원들,스탠퍼드대찾아새로운일방식배웠다",
+  "폴더블아이폰울트라,아이폰X의전철밟나…늦은출시에고가예고",
+  "AWS,스타트업지원AI기능공개…개발부터클라우드이전까지지원",
+  "[뉴스워커_현대차정몽구재단]차세대사회복지리더양성본격화내용...",
+  "삼성전자,2분기영업익89조4000억원…3개분기연속'신기록'",
+  "코스피,7800선으로후퇴...외국인매도속반도체·조선주약세",
+  "삼성전자,AI메모리슈퍼사이클올라탔다…2Q영업익89.4조",
+  "LG유플러스,스탠퍼드서디자인씽킹교육운영",
+  "삼성전자,엔비디아·애플제쳤다…영업이익89조"
  ],
  "recent_sigs": [
   [
@@ -6377,7 +6377,7 @@
    "수치 역대급 엔비디아도 놀랐나 애플도 개미 주가 넘었는데"
   ]
  ],
- "last_run": "2026-07-07T09:31:28.088044+09:00",
+ "last_run": "2026-07-07T09:32:33.409009+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
