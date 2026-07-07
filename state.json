@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6219760",
-  "https://www.sportsseoul.com/news/read/1620976",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=126554",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272107",
-  "https://www.newscj.com/news/articleView.html?idxno=3415034",
   "https://www.news1.kr/local/daejeon-chungnam/6219816",
   "https://news.mtn.co.kr/news-detail/2026070709024696210",
   "http://www.finomy.com/news/articleView.html?idxno=256916",
@@ -2999,14 +2994,14 @@
   "https://biz.sbs.co.kr/article_hub/20000321222?division=NAVER",
   "http://www.osen.co.kr/article/G1112835155",
   "https://www.wikitree.co.kr/articles/1145285",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=440853"
+  "http://www.econonews.co.kr/news/articleView.html?idxno=440853",
+  "https://www.econovill.com/news/articleView.html?idxno=744564",
+  "https://www.yna.co.kr/view/AKR20260708011800091?input=1195m",
+  "https://www.public25.com/news/articleView.html?idxno=50157",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16127221",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6835802_37012.html"
  ],
  "seen_titles": [
-  "해킹이바꾼이통3사…보안에수천억베팅",
-  "삼성전자2Q영업익사실상100조돌파…엔비디아·애플제치고'왕좌'",
-  "‘외국인관광객겨냥’디스커버서울패스제휴시설확대…뷰티·스파...",
-  "LGU+,스탠퍼드서'디자인씽킹'접목…고객중심조직문화혁신속도",
-  "[오늘의일정]7월7일화요일스포츠경기",
   "'닥터섬보이'이재욱·신예은,상처를지나마주한마음…최종회앞두...",
   "ETRI,출연연오픈소스협의체'범출연연'으로확대",
   "'난세영웅'메모리대전..HBM은결국밀려날까?[AI칩인사이드]",
@@ -6001,7 +5996,12 @@
   "[증시전략]뉴욕증시,반도체주급락·중동불안겹쳐일제히하락",
   "‘닥터섬보이’신예은\"실패모르던20대초반…30대되고유연함배...",
   "앤트로픽클로드코워크,노트북안켜도백그라운드서작업처리",
-  "뉴욕증시,반도체주급락과유가반등등영향하락⋯메타2%대,테슬라..."
+  "뉴욕증시,반도체주급락과유가반등등영향하락⋯메타2%대,테슬라...",
+  "SK하이닉스ADR,글로벌자금흡수…AI투자사참여에흥행기대",
+  "메타,대화형AI모델이어이미지생성모델도출시",
+  "뉴욕증시,반도체주급락여파에하락나스닥1.16%↓...국제유가WTI2.76...",
+  "미국증시,국채금리상승에나스닥약세…반도체주차익실현",
+  "3부오늘의주요뉴스"
  ],
  "recent_sigs": [
   [
@@ -6177,7 +6177,7 @@
    "공식무대 박윤영 예고 데뷔 ~KT 대표 총력전"
   ]
  ],
- "last_run": "2026-07-08T07:12:38.888289+09:00",
+ "last_run": "2026-07-08T07:14:37.275358+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
