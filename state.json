@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=104003",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441623",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42193",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=81450",
-  "https://www.newsis.com/view/NISX20260706_0003697507",
-  "https://www.newsis.com/view/NISX20260706_0003697433",
-  "https://www.news1.kr/life-culture/performance-exhibition/6218962",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=131513",
-  "https://www.etnews.com/20260706000362",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272009",
   "https://biz.chosun.com/it-science/ict/2026/07/06/YGL2SB7E4ZE7RCUXVXXNYJUIKA/",
   "https://www.asiatime.co.kr/article/20260706500291",
@@ -2999,18 +2990,18 @@
   "https://www.pennmike.com/news/articleView.html?idxno=123283",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068691",
   "https://gw.newdaily.co.kr/site/data/html/2026/07/07/2026070700154.html",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272262"
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1272262",
+  "http://www.dailypop.kr/news/articleView.html?idxno=100340",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698224",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002437",
+  "https://www.aitimes.kr/news/articleView.html?idxno=40868",
+  "https://www.ekn.kr/web/view.php?key=20260707029549811",
+  "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55891",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=659904",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240260",
+  "http://www.newskr.kr/news/articleView.html?idxno=105033"
  ],
  "seen_titles": [
-  "\"AI경쟁밀릴라\"프랑스·인도,뒤늦게빅테크투자유치나서",
-  "LG'상생결제낙수율10%이상'국내최대로확대,공급망'상생생태계...",
-  "LG,상생결제낙수율10%이상확대…2차이하협력사지원강화",
-  "LG그룹,2·3차영세협력사까지챙긴다…900억원금융지원신설",
-  "[르포]폰개통안면인증첫날\"얼굴대니3분만에끝\"…생체정보불안...",
-  "조선기록,만세에전하다…실록4대사고본첫동시공개(종합)",
-  "조선왕조실록4대사고본,부산서한자리에…\"유례없는일\"(종합)",
-  "AI·로보틱스결합한웰니스혁신…SK인텔릭스,차세대헬스케어서비스...",
-  "기업AI지출'비용폭탄'에제동…'모델맥싱'전략으로체질개선",
   "靑\"호남반도체클러스터,광주군공항부지에조성\"…후보지사실상...",
   "30년정통KT맨박윤영의승부수는‘AX플랫폼’…토큰팩토리·디지털...",
   "[AT현장]KT,AI생태계주도…‘토큰·스테이블코인’승부수",
@@ -6001,7 +5992,16 @@
   "삼성전자매머드급실적에도코스피8천선붕괴···매도사이드카발동",
   "경기도민우선정책'내집걱정없는경기'손꼽아",
   "88개국5000여명집결한국제태권도대회,춘천서열려",
-  "고흥군'조선통신사선'연계해양문화행사개최"
+  "고흥군'조선통신사선'연계해양문화행사개최",
+  "[뉴스줌인]312조몰린영남권,기업마다다른계산법…구미는로봇,울...",
+  "흥국운용'HK베스트일레븐액티브ETF'연초이후수익률120%",
+  "세계유산위,부산서'국가유산축제'로열린다",
+  "서울시민대학,'AI마스터위크'5주대장정…석학·빅테크리더특강부...",
+  "LIGD&A-전략사,‘사이버전자전·레이저’로다층방공망고도화추진",
+  "‘로봇의안드로이드’시대,보안의문법이달라진다",
+  "SKT매장에상륙한포켓몬…내달31일까지리워드행사",
+  "방미통위,아고다에과징금24억부과…환불·취소정보표시개선명령",
+  "'22조메가재정'감시보루선다…전남광주통합특별시의회,초대예결..."
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-07-07T12:28:17.314472+09:00",
    "조선통신사선 해양문화행사 고흥군 개최 연계"
+  ],
+  [
+   "2026-07-07T12:30:53.986303+09:00",
+   "초대 선다 예결 메가 재정 전남광주통합특별시의회 22조 보루 감시"
   ]
  ],
- "last_run": "2026-07-07T12:28:39.728299+09:00",
+ "last_run": "2026-07-07T12:31:19.116285+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6906,6 +6910,7 @@
   "siminilbo.co.kr": "siminilbo.co.kr",
   "weeklytrade.co.kr": "2007 Korea Trade News",
   "ifs.or.kr": "ifs.or.kr",
-  "radiokorea.com": "라디오코리아 뉴스"
+  "radiokorea.com": "라디오코리아 뉴스",
+  "newskr.kr": "한국농어촌방송"
  }
 }
