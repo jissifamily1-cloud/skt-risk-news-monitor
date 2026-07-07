@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1620811",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82813",
-  "http://www.gjdream.com/news/articleView.html?idxno=670789",
-  "https://www.abcn.kr/news/articleView.html?idxno=89120",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005873010",
-  "https://www.econovill.com/news/articleView.html?idxno=744402",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=4905",
-  "https://www.m-economynews.com/news/article.html?no=68463",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681578",
-  "https://www.dailian.co.kr/news/view/1663817/?sc=Naver",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603081",
   "https://www.newsis.com/view/NISI20260706_0021351942",
   "https://www.newsis.com/view/NISI20260706_0021351941",
@@ -2999,19 +2989,19 @@
   "http://www.economytalk.kr/news/articleView.html?idxno=422508",
   "https://www.betanews.net/article/view/beta202607070032",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46077",
-  "https://www.seoultimes.news/news/article.html?no=2000097482"
+  "https://www.seoultimes.news/news/article.html?no=2000097482",
+  "https://www.m-economynews.com/news/article.html?no=68495",
+  "https://www.cstimes.com/news/articleView.html?idxno=712499",
+  "https://www.nc.press/news/articleView.html?idxno=620036",
+  "https://www.slist.kr/news/articleView.html?idxno=750099",
+  "https://www.smartbizn.com/news/articleView.html?idxno=147952",
+  "https://biz.heraldcorp.com/article/10800661",
+  "https://view.asiae.co.kr/article/2026070708395617553",
+  "https://www.ajunews.com/view/20260707105427975",
+  "https://www.newstnt.com/news/articleView.html?idxno=709221",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=359874"
  ],
  "seen_titles": [
-  "‘확’바뀐FSL메타…신규특성‘라인브레이커’,‘트릭스터’를지...",
-  "양자보안주도권경쟁본격화…이통사,AI·6G시대겨냥기술고도화",
-  "광주서당권출사표김민석\"메가프로젝트거당지원\"",
-  "[ABC뉴스포커스]검색은끝나고'AI추천'의시대가왔다",
-  "KT,3년간18조투자…보안·AI인프라강화'박차'",
-  "[KTAX플랫폼인사이트③]\"AI경제화폐는토큰\"판새로짠다",
-  "[인사이트뉴스]은둔을깨고'피지컬AI'신대륙으로…구광모의'결단...",
-  "북한관련해킹단체,유명SW패키지위장해글로벌개발자공격해",
-  "우버·MS도AI비용관리나섰다…'모델맥싱'해법부상",
-  "\"눈앞이익에미래못판다\"…R&D안줄인휴온스의뚝심[인터뷰]",
   "KT“AX플랫폼컴퍼니로도약”…보안·AX인프라혁신본격화",
   "휴대전화개통시안면인증전면도입",
   "오늘부터휴대전화개통시안면인증절차거쳐야",
@@ -6001,7 +5991,17 @@
   "[포토]\"잘오셨소,신입암행천문관\"…SKTXT1'암행천문'진행중",
   "LGU+직원들,스탠퍼드대찾아새로운일하는방식배웠다",
   "퓨리오사찍은액시스인베스트,이번엔'마이크로원'투자",
-  "LG유플러스,스탠퍼드식문제해결법도입…고객관점혁신속도"
+  "LG유플러스,스탠퍼드식문제해결법도입…고객관점혁신속도",
+  "경기광역버스5개노선신설…서울출퇴근길교통망확충",
+  "[특징주]에스와이스틸텍,母에스와이상한가에급등…MS·아마존데이...",
+  "부산전역물들인K-헤리티지…세계유산위원회맞아문화축제",
+  "슬로우베드,대전둔산점개장...바디프랜드,스타필드안성팝업",
+  "AIoT시대보안경쟁본격화···클라우드·펌웨어·공급망관리가핵심...",
+  "반도체여력다했나…모건스탠리“반도체조정예상…하이퍼스케일러...",
+  "삼성전자또분기최대실적…2분기영업이익1810%성장(종합)",
+  "\"美당국,앤트로픽갈등에도'미토스'로정부소프트웨어취약점점검\"",
+  "SKT·KT·LGU+,고객서비스·인재양성·조직혁신강화",
+  "성과급20조털고89조번삼성전자…엔비디아도못한'영업익100조'달..."
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,13 @@
   [
    "2026-07-07T11:22:16.555597+09:00",
    "뛰어넘을 GP 한계 그래픽 차세대 인텔 세종대 섯거라"
+  ],
+  [
+   "2026-07-07T11:26:14.974356+09:00",
+   "인재양성 강화 서비스 ~LGU ~SKT 고객 LGU ~KT 조직혁신"
   ]
  ],
- "last_run": "2026-07-07T11:24:33.455611+09:00",
+ "last_run": "2026-07-07T11:26:39.118797+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
