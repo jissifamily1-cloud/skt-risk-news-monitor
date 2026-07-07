@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681824",
-  "https://www.sedaily.com/article/20064598",
-  "https://www.etnews.com/20260707000087",
   "https://www.seoul.co.kr/news/economy/securities/2026/07/07/20260707500029?wlog_tag3=naver",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=355593",
   "https://www.ajunews.com/view/20260707093206793",
@@ -2999,12 +2996,12 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6835783_37012.html",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682217",
   "https://www.wikitree.co.kr/articles/1145282",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125895"
+  "http://www.popcornnews.net/news/articleView.html?idxno=125895",
+  "https://www.newsverse.kr/news/articleView.html?idxno=10893",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604869",
+  "https://www.koreadaily.com/article/20260707144228064"
  ],
  "seen_titles": [
-  "LGU+,실리콘밸리서배운'고객중심'사고…AI로밍서비스도확대",
-  "LGU+,스탠퍼드大디자인씽킹으로고객경험혁신속도",
-  "ETRI,출연연오픈소스협의체확대운영",
   "[테크차이나]텐센트,차세대AI모델'Hy3'정식공개…코딩·에이전트...",
   "[서울데이터랩]코스피7823.82로급락출발…외국인·프로그램매도에대...",
   "삼성전자,2분기영업익89.4조'신기록'…메모리슈퍼사이클현실화",
@@ -6001,7 +5998,10 @@
   "새파랗게질린'주식창'‥반도체과연고점일까",
   "삼성전자실적에실망한시장,한미반도체주일제히하락",
   "마이크로소프트엑셀·아웃룩오픈AI대신자체MAI로교체",
-  "롯데百,'2026국가고객만족도(NCSI)'조사서백화점부문1위'차지'"
+  "롯데百,'2026국가고객만족도(NCSI)'조사서백화점부문1위'차지'",
+  "[오늘의경제뉴스]삼전닉스레버리지가만든'롤러코스피'...퇴출가능성...",
+  "[뉴스광장헤드라인]",
+  "가주운전자1만1000명에재시험통보…불합격땐면허취소"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-07-08T06:40:53.654506+09:00",
    "교체 자체 아웃룩 대신 엑셀 MAI로 마이크로소프트"
+  ],
+  [
+   "2026-07-08T06:46:17.662643+09:00",
+   "불합격 면허 통보 가주 재시험 1만1000명에 운전자 취소"
   ]
  ],
- "last_run": "2026-07-08T06:44:31.603929+09:00",
+ "last_run": "2026-07-08T06:46:39.236066+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6557,6 +6561,7 @@
   "job-post.co.kr": "잡포스트(JOBPOST)",
   "pdjournal.com": "PD저널",
   "agrinet.co.kr": "한국농어민신문",
-  "laborplus.co.kr": "참여와혁신"
+  "laborplus.co.kr": "참여와혁신",
+  "koreadaily.com": "미주중앙일보"
  }
 }
