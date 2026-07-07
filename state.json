@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260706500136",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441601",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237125",
-  "https://biz.chosun.com/international/international_general/2026/07/06/BSO3MY25OJFQJEDQBLTOEZ7JGY/",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=222953",
-  "https://www.joongang.co.kr/article/25442697",
-  "https://www.nspna.com/news/?newsid=819390",
-  "https://news.jtbc.co.kr/article/NB12306754?influxDiv=NAVER",
-  "https://www.newscj.com/news/articleView.html?idxno=3414708",
   "https://www.gukjenews.com/news/articleView.html?idxno=3627111",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=359813",
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=241893",
@@ -2999,18 +2990,18 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1007123",
   "https://www.tokenpost.kr/news/economy/375500",
   "https://www.youthdaily.co.kr/news/article.html?no=222417",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204260"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5204260",
+  "https://www.newscj.com/news/articleView.html?idxno=3415035",
+  "http://www.ikld.kr/news/articleView.html?idxno=337172",
+  "https://theviewers.co.kr/View.aspx?No=4139396",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3628257",
+  "https://biz.heraldcorp.com/article/10800313",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028169",
+  "https://www.mt.co.kr/tech/2026/07/07/2026070708523643796",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848670",
+  "https://www.news1.kr/industry/general-industry/6219760"
  ],
  "seen_titles": [
-  "AI는서비스가아니라인프라가됐다…기업들디지털전환가속",
-  "[재계는지금]삼성전자,갤럭시워치기반'열스트레스관리시스템'...",
-  "[굿모닝!6일유통가소식]코웨이·세라젬·SK인텔릭스·정관장·배달의...",
-  "두산에너빌리,발전기모니터링사업확대..체코원전적용",
-  "더존비즈온,한국공항공사'AI업무혁신플랫폼'구축한다",
-  "[전격시사]민주,보완수사권처리강행?(박성준)보완수사요구권으로...",
-  "[디지털트윈의두얼굴]②재료비는한국이내고,부가가치는미국이누...",
-  "캐나다잠수함효과?한화오션주가,수주기대감에장중10%상승",
-  "SKT,블랙웰GPU기반AI클라우드'해인'CSAP인증획득",
   "KT“AI가미래성장축”…18조원투자‘AX플랫폼컴퍼니’도약",
   "KT박윤영취임100일첫청사진으로'AX플랫폼컴퍼니'제시,18조투자...",
   "SKT,엔비디아블랙웰GPU기반'해인'클러스터CSAP인증취득",
@@ -6001,7 +5992,16 @@
   "LG유플러스직원들,스탠퍼드대찾아새로운업무방식익혀",
   "KT,인공지능투자로하반기실적반등기대",
   "한국투자신탁운용,AI인프라투자전략적중...ACE엔비디아밸류체인액...",
-  "[신간소개]최수영방미통위위원에세이'축적의언어들'…지혜와통찰..."
+  "[신간소개]최수영방미통위위원에세이'축적의언어들'…지혜와통찰...",
+  "[통신View]'체험마케팅'에'미래인재육성'까지…고객경험혁신",
+  "에스와이,반도체·데이터센터첨단시설용패널공급확대",
+  "“책읽는여름휴가”…BC카드,밀리의서재무료구독권이용",
+  "대전경찰,휴가철음주·약물운전특별단속…유원지·유흥가집중점검",
+  "-AI저작권등오픈소스리스크공동대응",
+  "삼성전자,올해2분기영업익지난해전체영업익2배",
+  "포켓몬'잉어킹프로모카드'오늘부터받는다…SKT매장서배부",
+  "해킹이바꾼이통3사…보안에수천억베팅",
+  "삼성전자2Q영업익사실상100조돌파…엔비디아·애플제치고'왕좌'"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,13 @@
   [
    "2026-07-07T09:44:14.830080+09:00",
    "지혜와 에세이 최수영 언어들 축적의 통찰 위원"
+  ],
+  [
+   "2026-07-07T09:46:17.399862+09:00",
+   "베팅 이통3사 보안에 해킹이 수천억 바꾼"
   ]
  ],
- "last_run": "2026-07-07T09:44:46.294668+09:00",
+ "last_run": "2026-07-07T09:46:35.315156+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
