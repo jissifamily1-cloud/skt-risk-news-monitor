@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628348",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628340",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628349",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=448595",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008644996&plink=ORI&cooper=NAVER",
-  "https://zdnet.co.kr/view/?no=20260706113606",
   "https://www.yna.co.kr/view/PYH20260706072100013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260706072200013?input=1196m",
   "http://www.newsprime.co.kr/news/article.html?no=739353",
@@ -2999,15 +2993,15 @@
   "https://biz.sbs.co.kr/article_hub/20000320828?division=NAVER",
   "https://www.topstarnews.net/news/articleView.html?idxno=16127357",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008645765&plink=ORI&cooper=NAVER",
-  "http://www.fnnews.com/news/202607080743563581"
+  "http://www.fnnews.com/news/202607080743563581",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=269301",
+  "https://www.etoday.co.kr/news/view/2601353",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038587",
+  "https://www.dt.co.kr/article/12071725",
+  "https://www.econovill.com/news/articleView.html?idxno=744579",
+  "https://www.tokenpost.kr/news/economy/375772"
  ],
  "seen_titles": [
-  "NHN,사내AI에이전트문화정착…전임직원대상'클로드'지원",
-  "제10대밀양시의회개원식…의장·부의장선출로새출발",
-  "이도완,창녕군제43대부군수취임…\"현장중심소통행정약속\"",
-  "[인사]계룡시부시장,신일호취임",
-  "대전지역암센터,초등생대상'암예방그림공모전'개최",
-  "청주시,소비는복대1동‧오창읍…유입은가경동‧용암1동",
   "트럼프사용금지지시에도…미당국,수개월째미토스사용",
   "개보위,3기개인정보처리평가위원30명위촉...위원장이희정고대교...",
   "송경희개보위원장,개인정보처리방침평가위원간담회",
@@ -6001,7 +5995,13 @@
   "LG家9월상속항소심…세모녀,'노소영측변호사'선임",
   "양유진,\"두드라마동시출연\"…매니저·절친으로극흐름책임",
   "[자막뉴스]\"완전농락\"작정한듯장애인'탈탈'…\"의미없고요\"당당하...",
-  "\"HBM슈퍼사이클진짜맞나\"…시험대는SK하이닉스ADR상장"
+  "\"HBM슈퍼사이클진짜맞나\"…시험대는SK하이닉스ADR상장",
+  "[굿모닝!글로벌뉴욕증시]반도체피크아웃공포에하락마감…유가급...",
+  "반도체주,하루만에줄줄이하락...AI투자우려여전[뉴욕증시무버...",
+  "네이버클라우드-미스트랄AI,제조AI시장공략맞손",
+  "삼성전자,AI서버용차세대SSD양산…데이터전송속도2배높였다",
+  "T월드매장에별점매겼다,SKT가그린'균일한서비스'의그림",
+  "[국제금융브리핑]미국,이란산원유허가철회...브렌트유3.01%급등·..."
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,13 @@
   [
    "2026-07-08T08:50:49.604237+09:00",
    "앤트로픽 쓴다 미국 기업들 비싸서 사용 돌파"
+  ],
+  [
+   "2026-07-08T08:54:15.892966+09:00",
+   "철회 원유 이란산 미국 허가 브렌트유 급등"
   ]
  ],
- "last_run": "2026-07-08T08:52:33.553111+09:00",
+ "last_run": "2026-07-08T08:54:33.598863+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
