@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260706000150",
-  "https://www.insight.co.kr/news/561660",
-  "https://zdnet.co.kr/view/?no=20260706102055",
-  "https://h21.hani.co.kr/arti/society/society_general/59566.html",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03207846645511896",
-  "http://www.queen.co.kr/news/articleView.html?idxno=459777",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=305836",
-  "http://www.beyondpost.co.kr/view.php?ud=202607061042204249be44c0aacd_30",
-  "https://www.newspim.com/news/view/20260706000412",
   "https://www.news1.kr/it-science/cc-newmedia/6218670",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003248920&CMPT_CD=P0010",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5037719",
@@ -2999,18 +2990,18 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167714",
   "https://kpenews.com/View.aspx?No=4139295",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1715327",
-  "https://www.hankyung.com/article/202607079430i"
+  "https://www.hankyung.com/article/202607079430i",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3628163",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3628232",
+  "https://www.sedaily.com/article/20064552",
+  "https://www.sedaily.com/article/20064553",
+  "https://www.asiatime.co.kr/article/20260707500054",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038117",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446097",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1383388",
+  "https://www.greened.kr/news/articleView.html?idxno=344373"
  ],
  "seen_titles": [
-  "“40년누적이익보다많다”…삼성전자,영업이익300조시대여나",
-  "에버스핀,티냅스손잡고‘AI신뢰보안서비스’본격진출",
-  "코레일,전직원보안역량강화나서...정보보안실천프로그램운영",
-  "KT\"인프라투자·혁신서비스로AI시장선도\"…18조투자계획발표",
-  "인터뷰전문:여선웅“오-한(오세훈한동훈)갈등이시작됐다고봐요...",
-  "학교·학원가품은'에듀타운'아파트인기…신규분양잇따라",
-  "\"내얼굴찍어야폰산다고?\"...오늘부터확바뀐휴대폰개통본인확인...",
-  "SK인텔릭스,나무엑스해커톤대회개최...\"웰니스로보틱스신사업발...",
-  "SK인텔릭스,'제2회나무엑스해커톤'개최",
   "SKT'해인'GPU클러스터,정부보안인증받았다",
   "LG떠나50억이적결단!38살특급대우에도,“혼자있는걸좋아해야...",
   "휴대폰개통절차오늘부터바뀐다…신분증만으론불가능",
@@ -6001,7 +5992,16 @@
   "삼성전자,2분기영업이익89.4조원·전년比1810%증가...주가는'급락...",
   "LG유플러스,고객중심업무혁신속도..직원들스탠퍼드연수",
   "[Tech&Now]오픈AI·삼성연사총출동…에이비일팔공,마케팅컨퍼런스...",
-  "감원말하던AI기업들,고용낙관론전환"
+  "감원말하던AI기업들,고용낙관론전환",
+  "프로야구관람객41.6%'내집걱정없는경기'에한표...道,KT경기서...",
+  "'광주도시철도2호선개통준비'실무협의체출범…8월부터본격운영",
+  "“하이닉스라고?10조넣겠다”오픈AI전직원도투자자로…글로벌...",
+  "삼성전자,6개월간150조벌었다…1년만에13배급증",
+  "뉴욕증시,저가매수세에강세...WTI약보합",
+  "SKT,'포켓몬'오프라인행사…'잉어킹프로모카드'제공",
+  "SKT,포켓몬'잉어킹프로모카드'배부시작···\"증정이벤트진행\"",
+  "삼성전자,엔비디아제치고분기영업익89.4조…韓기업새이정표",
+  "엔비디아넘은삼성전자…메모리호황속파운드리도불붙었다"
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,13 @@
   [
    "2026-07-07T09:12:18.247830+09:00",
    "말하던 낙관론 고용 기업들 감원"
+  ],
+  [
+   "2026-07-07T09:14:15.803305+09:00",
+   "파운드리도 삼성전자 메모리 넘은 붙었다 호황"
   ]
  ],
- "last_run": "2026-07-07T09:12:36.301764+09:00",
+ "last_run": "2026-07-07T09:14:40.592516+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
