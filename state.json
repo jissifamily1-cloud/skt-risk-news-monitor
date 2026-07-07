@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260706112127",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3627622",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1529692",
   "https://www.idaegu.com/news/articleView.html?idxno=664124",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=603787",
   "https://www.dt.co.kr/article/12071372",
@@ -2999,12 +2996,12 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16126683",
   "https://www.gukjenews.com/news/articleView.html?idxno=3628622",
   "https://www.viva100.com/article/20260707500577",
-  "https://www.dt.co.kr/article/12071371"
+  "https://www.dt.co.kr/article/12071371",
+  "https://biz.sbs.co.kr/article_hub/20000321118?division=NAVER",
+  "https://www.m-i.kr/news/articleView.html?idxno=1388922",
+  "https://www.etnews.com/20260707000275"
  ],
  "seen_titles": [
-  "진도해역에어린꽃게60만마리방류…수산자원회복기대",
-  "임형도의경제노트(42회)",
-  "[대구·경북살길을찾자]5끝.반도체·AI\"준비된지역이성공\"…행...",
   "LG家상속분쟁2심돌입…세모녀'노소영측변호사'로맞불",
   "[포토]AX플랫폼컴퍼니전략발표하는박윤영KT대표",
   "중복상장문턱높아졌다…자회사IPO셈법바꾸는IT기업들",
@@ -6001,7 +5998,10 @@
   "\"후반기승부처\"김경문·이강철·김태형,재계약성적표는",
   "전국국공립교수연합회,\"박민원창원대총장사퇴하라\"",
   "청주시소비패턴분석:복대1동과오창읍주목",
-  "비드래프트,LLM추론가속엔진‘VKAE’리더보드·통합컨테이너공개"
+  "비드래프트,LLM추론가속엔진‘VKAE’리더보드·통합컨테이너공개",
+  "LG유플,美서디자인씽킹교육프로그램진행",
+  "韓·日\"EU형경제공동체추진해야\"…무여권왕래도찬성우세",
+  "LGU+,통신사최초AI보안전담조직신설…'미토스發'위협대응"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,13 @@
   [
    "2026-07-07T13:46:15.880840+09:00",
    "~KT 얼라이언스와 퀀텀코리아 라닉스 양자암호통신 참가"
+  ],
+  [
+   "2026-07-07T13:50:49.162761+09:00",
+   "위협 보안 ~LGU 대응 LGU 미토스 신설 전담"
   ]
  ],
- "last_run": "2026-07-07T13:48:36.758044+09:00",
+ "last_run": "2026-07-07T13:51:07.356947+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
