@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260706072100013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260706072200013?input=1196m",
-  "http://www.newsprime.co.kr/news/article.html?no=739353",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=204545",
-  "https://hbnpress.com/news/view/1065572673370698",
-  "http://www.nongaek.com/news/articleView.html?idxno=95995",
-  "http://www.fnnews.com/news/202607070929366654",
   "https://www.smartbizn.com/news/articleView.html?idxno=147920",
   "https://www.gukjenews.com/news/articleView.html?idxno=3628278",
   "https://www.gukjenews.com/news/articleView.html?idxno=3628268",
@@ -2999,16 +2992,16 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038587",
   "https://www.dt.co.kr/article/12071725",
   "https://www.econovill.com/news/articleView.html?idxno=744579",
-  "https://www.tokenpost.kr/news/economy/375772"
+  "https://www.tokenpost.kr/news/economy/375772",
+  "https://news.tf.co.kr/read/economy/2340859.htm",
+  "https://biz.heraldcorp.com/article/10801605",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02938886645512552",
+  "https://www.newsis.com/view/NISX20260708_0003700097",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=81475",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1383842",
+  "http://www.breaknews.com/1220012"
  ],
  "seen_titles": [
-  "트럼프사용금지지시에도…미당국,수개월째미토스사용",
-  "개보위,3기개인정보처리평가위원30명위촉...위원장이희정고대교...",
-  "송경희개보위원장,개인정보처리방침평가위원간담회",
-  "인사말하는송경희개보위원장",
-  "[카드]SKT\"T월드·T팩토리서잉어킹프로모카드받자\"",
-  "KT,AI·클라우드인재양성프로그램'에이블스쿨'교육생모집",
-  "KT,AI·DX실무형인재양성과정10기모집",
   "엔비디아제친삼성전자…분기영업익'100조시대'열었다",
   "구테흐스유엔사무총장,살인로봇금지시켜야",
   "여름분양시장,수도권2만3000가구공급···\"신축품귀는여전\"",
@@ -6001,7 +5994,14 @@
   "네이버클라우드-미스트랄AI,제조AI시장공략맞손",
   "삼성전자,AI서버용차세대SSD양산…데이터전송속도2배높였다",
   "T월드매장에별점매겼다,SKT가그린'균일한서비스'의그림",
-  "[국제금융브리핑]미국,이란산원유허가철회...브렌트유3.01%급등·..."
+  "[국제금융브리핑]미국,이란산원유허가철회...브렌트유3.01%급등·...",
+  "\"월드컵역사상없던일벌어졌다\"…글로벌미디어,아틀라스집중'조...",
+  "네이버클라우드-미스트랄AI,제조AI사업맞손…전방위파트너십체결",
+  "KODEX차이나휴머노이드로봇ETF,1년수익률38%기록",
+  "나인테크-바로에이아이,AI데이터센터냉각솔루션개발추진",
+  "NHN,사내AI에이전트문화정착…전임직원대상'클로드'지원",
+  "SKT,'T월드'매장에AI도입…9월AI에이전트시범운영",
+  "초대전남광주통합특별시의회예결위원장에한춘옥의원선출"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,17 @@
   [
    "2026-07-08T08:54:15.892966+09:00",
    "철회 원유 이란산 미국 허가 브렌트유 급등"
+  ],
+  [
+   "2026-07-08T08:56:16.098351+09:00",
+   "9월 도입 매장에 월드 ~SKT 에이전트 시범 운영"
+  ],
+  [
+   "2026-07-08T08:56:16.098351+09:00",
+   "초대 전남광주통합특별시의회 예결위원장에 의원 한춘옥 선출"
   ]
  ],
- "last_run": "2026-07-08T08:54:33.598863+09:00",
+ "last_run": "2026-07-08T08:56:41.884807+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
