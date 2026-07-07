@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2114283",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=659654",
-  "https://www.m-i.kr/news/articleView.html?idxno=1387700",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310473",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=264844",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=310454",
-  "https://news.dealsitetv.com/articles/172750",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=154895",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=735760",
-  "http://www.cctimes.kr/news/articleView.html?idxno=914620",
-  "https://www.yna.co.kr/view/AKR20260702087800017?input=1195m",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2219802",
   "http://www.4th.kr/news/articleView.html?idxno=2114107",
   "https://www.mediawatch.kr/news/article.html?no=260268",
@@ -2999,20 +2988,20 @@
   "https://www.asiatime.co.kr/article/20260707500406",
   "https://www.mt.co.kr/stock/2026/07/07/2026070716452786480",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=306546",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848803"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848803",
+  "http://www.iminju.net/news/articleView.html?idxno=166344",
+  "https://www.yna.co.kr/view/AKR20260707151300003?input=1195m",
+  "https://www.econovill.com/news/articleView.html?idxno=744532",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/07/2026070700255.html",
+  "https://www.viva100.com/article/20260707501117",
+  "https://www.viva100.com/article/20260707501171",
+  "https://www.m-i.kr/news/articleView.html?idxno=1388891",
+  "https://www.youthdaily.co.kr/news/article.html?no=222480",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16126842",
+  "https://www.dt.co.kr/article/12071651",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008645980&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "\"아직멀었어요?\"흰색오류화면에쩔쩔…휴대폰개통안면인증첫날",
-  "[유통소식]롯데마트·슈퍼,ESG연계'농촌체험프로그램'",
-  "SKB,초고속·IPTV부문'품질리더십'빛났다",
-  "SK브로드밴드,한국서비스품질지수초고속인터넷·IPTV부문1위",
-  "SKB,초고속인터넷12년·IPTV8년연속1위",
-  "SKT,한국서비스품질지수이동통신부문'1위'…27년연속정상차지",
-  "SKT,한국서비스품질지수27년연속1위",
-  "[재계투데이]삼성전자감사페스티벌,오는5일마무리​外",
-  "SKICT패밀리,KS-SQI통신서비스전부문1위석권…27년연속이동통...",
-  "SK,차세대양자보안확보·에너지AI전환속도",
-  "SK텔레콤,한국서비스품질지수'27년연속1위'",
   "[테크스냅]SKB,한국서비스품질지수초고속인터넷·IPTV1위",
   "SKT,표준협회서비스품질지수27년연속1위",
   "[산업소식]온누리상품권20%환급'삼성전자감사페스티벌'5일종료",
@@ -6001,7 +5990,18 @@
   "[은행뉴스브리핑]정상혁신한은행장\"고객의미,창립초심기억해야...",
   "2분기89조벌고도주가는7%하락…증권가는\"저점매수기회\"",
   "'여행DNA'빠진수장인사...시험대오른하나투어",
-  "'가짜뉴스'칼빼든방미통위…대형플랫폼책임확대"
+  "'가짜뉴스'칼빼든방미통위…대형플랫폼책임확대",
+  "[경기도소식]'반려마루여주',11일부터야외놀이시설임시개장등",
+  "이재용,미국선밸리콘퍼런스참석차출국…빅테크CEO회동",
+  "'피크아웃'공포에흔들린삼전닉스…월가와여의도의엇갈린시선,'잔...",
+  "삼성전자,분기영업익100조원체력입증…어닝서프속반도체피크...",
+  "‘제3회브릿지포럼’에참석해주신분들",
+  "국세청,KT특별세무조사착수⋯전임경영진정조준하나",
+  "조선통신사선선상박물관운영…고흥·여수·통영·부산순회",
+  "AI에이전트확산으로사내AX속도높인다…NHN,'클로드'전사도입",
+  "'방출후재도약'외야수이정범,ktwiz새둥지합류",
+  "염흥열KT개인정보보호자문위원장“사후대응아닌사전예방중심...",
+  "[인터뷰]김현\"정보통신망법개정안'입틀막'아닌표현의자유보장…..."
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,25 @@
   [
    "2026-07-07T17:16:17.422224+09:00",
    "플랫폼 빼든 책임 확대 대형 가짜뉴스"
+  ],
+  [
+   "2026-07-07T17:18:17.591146+09:00",
+   "주신 참석해 브릿지포럼 제3회 분들"
+  ],
+  [
+   "2026-07-07T17:18:17.591146+09:00",
+   "외야수 이정범 방출 재도약 wiz ~KT 둥지 합류"
+  ],
+  [
+   "2026-07-07T17:18:17.591146+09:00",
+   "사전 예방 중심 ~KT 자문위원장 염흥열 대응 개인정보보호 아닌 사후"
+  ],
+  [
+   "2026-07-07T17:18:17.591146+09:00",
+   "자유 보장 표현의 개정안 김현 정보통신망법 아닌 입틀막"
   ]
  ],
- "last_run": "2026-07-07T17:16:38.999277+09:00",
+ "last_run": "2026-07-07T17:18:46.759217+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
