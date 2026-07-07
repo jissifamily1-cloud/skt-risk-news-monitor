@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260706001052",
-  "https://www.newspim.com/news/view/20260706001072",
-  "https://www.ziksir.com/news/articleView.html?idxno=139242",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165252",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=130741",
-  "https://www.bloter.net/news/articleView.html?idxno=667324",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16125299",
-  "https://www.dkilbo.com/news/articleView.html?idxno=547880",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=249630",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165251",
-  "https://www.aitimes.kr/news/articleView.html?idxno=40848",
   "https://www.dt.co.kr/article/12071424",
   "https://www.ajunews.com/view/20260706170558215",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/06/2026070600223.html",
@@ -2999,20 +2988,20 @@
   "https://economist.co.kr/article/view/ecn202607070039",
   "https://www.inthenews.co.kr/news/article.html?no=89036",
   "http://www.thevaluenews.co.kr/news/view.php?idx=199914",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=88994"
+  "https://www.it-b.co.kr/news/articleView.html?idxno=88994",
+  "https://www.techm.kr/news/articleView.html?idxno=153175",
+  "https://news.mtn.co.kr/news-detail/2026070715241875823",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/07/2026070700218.html",
+  "https://www.sedaily.com/article/20064782",
+  "https://www.newspim.com/news/view/20260707000958",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04388646645512224",
+  "http://www.boannews.com/media/view.asp?idx=144543&kind=3",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=81502",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=126588",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=587147",
+  "https://www.insight.co.kr/news/561839"
  ],
  "seen_titles": [
-  "경기관광공사,구미주개별관광객유치나서",
-  "SK인텔릭스'나무엑스해커톤'개최…웰니스로보틱스신사업발굴",
-  "AI서버에MLCC주문급증…삼성전기수급압박커진다",
-  "박윤영KT대표\"AX인프라에총18조원규모투자한다\"",
-  "환불조건숨긴아고다에과징금24.2억부과돼",
-  "SKT,15GW규모AI데이터센터구축추진…'아시아AI인프라허브'목표",
-  "SKT최대15GWAIDC구축추진…풀스택AI인프라역량결집",
-  "한미통산2500K앞둔류현진,전반기8승후휴식선택",
-  "'글로벌도약'성공한2026대구치맥페스티벌성황리폐막",
-  "\"GPU없이1위\"중국슈퍼컴…삼성·하이닉스HBM몸값커지나",
-  "\"협력사성장이곧우리의성장\"…2·3차협력사에상생결제손내민LG",
   "구글,FBI와공조해세계최대악성프록시네트워크'넷넛(NetNut)'차단",
   "SKT,GPU클라우드인프라공공보안인증취득",
   "방미통위,아고다'환불·수수료미고지'제재…24억원과징금",
@@ -6001,7 +5990,18 @@
   "금감원,'빚투·단일종목레버리지ETF'정조준…\"과열투자감독강화\"",
   "KT,스타쉽과인기캐릭터IP활용업무협력",
   "[더밸류브리핑]오늘의여신업계소식...BC카드·애큐온캐피탈",
-  "'AI로음성스팸막는다'…LG유플러스,KISA와민관데이터선순환구축"
+  "'AI로음성스팸막는다'…LG유플러스,KISA와민관데이터선순환구축",
+  "\"답답해서내가감독한다\"월드컵32강탈락했는데...FC온라인사용시...",
+  "외국인반도체차익실현매물…'삼전닉스레버리지ETF'가증폭",
+  "이재용,美선밸리향한다…AI공급망협력확대'주목'",
+  "“내카톡도검열대상?”·“‘입틀막법’아닌가요”…가짜뉴스처벌...",
+  "\"메모리판OPEC,미국도못깬다...막을수록단단해지는과점\"",
+  "\"복구만으론부족\"…반복되는침해사고,조사·대응중요성커진다",
+  "[CISO코리아2026]보안용어대신‘리스크’기반‘비즈니스번역’...",
+  "LG유플러스·KISA손잡고AI음성스팸전면전…민관데이터선순환구축",
+  "LG유플러스,음성스팸대응고도화…AI·공공데이터결합",
+  "LG유플러스-KISA,AI로음성스팸차단강화…업무협약체결",
+  "환불조건은'작은글씨'로?...방미통위,아고다에과징금24억부과"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-07-07T15:28:20.910274+09:00",
    "플랫폼 성과 18조 ~KT 투자로 AX 내건 경영진"
+  ],
+  [
+   "2026-07-07T15:34:16.974448+09:00",
+   "글씨 환불 작은 24억 아고다에 조건은 과징금 부과"
   ]
  ],
- "last_run": "2026-07-07T15:32:32.805610+09:00",
+ "last_run": "2026-07-07T15:34:34.856535+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
