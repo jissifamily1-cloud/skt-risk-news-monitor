@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://thetracker.co.kr/View.aspx?No=4139367",
-  "https://www.handmk.com/news/articleView.html?idxno=41105",
-  "https://news.bizwatch.co.kr/article/industry/2026/07/07/0001",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249288&CMPT_CD=P0010",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681844",
   "https://www.venturesquare.net/1095976/",
@@ -2999,12 +2996,12 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6835769_37012.html",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251037",
   "http://www.mediagunpo.co.kr/21584",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646429&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646429&plink=ORI&cooper=NAVER",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758904",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=758909",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4022720"
  ],
  "seen_titles": [
-  "코스피,7800선으로후퇴...외국인매도속반도체·조선주약세",
-  "삼성전자,AI메모리슈퍼사이클올라탔다…2Q영업익89.4조",
-  "LG유플러스,스탠퍼드서디자인씽킹교육운영",
   "삼성전자,엔비디아·애플제쳤다…영업이익89조",
   "LGvs.삼성'라팍대격돌',전반기1위는?",
   "英외무장관\"AI방치하면히로시마원폭급재앙올수도…국제규제서...",
@@ -6001,7 +5998,10 @@
   "1부오늘의주요뉴스",
   "SKT'해인'클러스터,블랙웰GPU업계최초CSAP인증",
   "경기도,주민의견반영한정책조사결과발표",
-  "사실상'영업이익100조'돌파…엔비디아제치고1위"
+  "사실상'영업이익100조'돌파…엔비디아제치고1위",
+  "통신업계신규채용줄이더니20대직원확줄고50대늘었다…SK브로드...",
+  "삼진제약,마곡R&D센터5년만에파이프라인8개→21개'껑충'...2~3년내...",
+  "[데스크칼럼]DB손보,빚내서채우는총수의곳간…고배당이던진기업..."
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,17 @@
   [
    "2026-07-08T06:10:53.955249+09:00",
    "제치고 영업이익 100조 돌파 사실상 1위"
+  ],
+  [
+   "2026-07-08T06:12:16.983190+09:00",
+   "줄고 SK브로드 직원 신규채용 통신업계 50대 늘었다 줄이더니 20대"
+  ],
+  [
+   "2026-07-08T06:12:16.983190+09:00",
+   "총수의 채우는 곳간 고배당이 DB손보 빚내서 던진 기업"
   ]
  ],
- "last_run": "2026-07-08T06:11:11.690103+09:00",
+ "last_run": "2026-07-08T06:12:43.643333+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
