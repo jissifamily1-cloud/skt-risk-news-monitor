@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/daejeon-chungnam/6219816",
-  "https://news.mtn.co.kr/news-detail/2026070709024696210",
-  "http://www.finomy.com/news/articleView.html?idxno=256916",
-  "https://news.jtbc.co.kr/article/NB12306948?influxDiv=NAVER",
-  "https://www.yna.co.kr/view/AKR20260707049700017?input=1195m",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03257046645512224",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=222953",
   "https://www.yna.co.kr/view/AKR20260707052500061?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260708011800091?input=1195m",
   "https://www.public25.com/news/articleView.html?idxno=50157",
   "https://www.topstarnews.net/news/articleView.html?idxno=16127221",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6835802_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6835802_37012.html",
+  "http://www.osen.co.kr/article/G1112835156",
+  "https://www.slist.kr/news/articleView.html?idxno=750259",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545549",
+  "https://www.sejungilbo.com/news/articleView.html?idxno=59144",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86491"
  ],
  "seen_titles": [
-  "'닥터섬보이'이재욱·신예은,상처를지나마주한마음…최종회앞두...",
-  "ETRI,출연연오픈소스협의체'범출연연'으로확대",
-  "'난세영웅'메모리대전..HBM은결국밀려날까?[AI칩인사이드]",
-  "삼성증권\"KT,AX전략본격화성장기반강화\"···목표가'유지'",
-  "삼성전자,엔비디아제쳤다…2분기영업이익89.4조'역대최대'",
   "[AI픽]NHN,전직원에클로드제공…'에이전틱데이'열어",
   "알리바바,직원들에앤스로픽AI금지령…美·中증류논란신경전가열",
   "최·노'5분발언'남긴말은…",
@@ -6001,7 +5996,12 @@
   "메타,대화형AI모델이어이미지생성모델도출시",
   "뉴욕증시,반도체주급락여파에하락나스닥1.16%↓...국제유가WTI2.76...",
   "미국증시,국채금리상승에나스닥약세…반도체주차익실현",
-  "3부오늘의주요뉴스"
+  "3부오늘의주요뉴스",
+  "'닥터섬보이'신예은\"내게힐링안긴육하리…싱크로율90%\"[인터뷰④...",
+  "롯데백화점,'2026NCSI'백화점부문1위...4년만정상",
+  "반도체시장정점넘었나?메모리실적호조속시장기대감높아져상승...",
+  "국세청,KT'비정기세무조사'착수…`21년∼`25년까지5개회계년도대...",
+  "NHN,기술공유행사'에이전틱데이'개최…AI활용사례와성과공유"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,17 @@
   [
    "2026-07-08T07:04:16.582582+09:00",
    "공식무대 박윤영 예고 데뷔 ~KT 대표 총력전"
+  ],
+  [
+   "2026-07-08T07:16:18.112094+09:00",
+   "비정기 21년 착수 ~KT 5개 국세청 25년까지 회계년도 세무조사"
+  ],
+  [
+   "2026-07-08T07:16:18.112094+09:00",
+   "사례와 성과 NHN 에이전틱 개최 활용 행사 데이 공유 기술"
   ]
  ],
- "last_run": "2026-07-08T07:14:37.275358+09:00",
+ "last_run": "2026-07-08T07:16:40.524220+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6598,6 +6606,7 @@
   "pdjournal.com": "PD저널",
   "agrinet.co.kr": "한국농어민신문",
   "laborplus.co.kr": "참여와혁신",
-  "koreadaily.com": "미주중앙일보"
+  "koreadaily.com": "미주중앙일보",
+  "sejungilbo.com": "세정일보"
  }
 }
