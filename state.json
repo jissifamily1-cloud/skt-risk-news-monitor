@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=739345",
-  "https://www.sedaily.com/article/20064567",
-  "http://www.metroseoul.co.kr/article/20260707500081",
-  "https://www.sedaily.com/article/20064576",
   "https://www.sedaily.com/article/20064581",
   "https://www.dailian.co.kr/news/view/1664146/?sc=Naver",
   "https://www.nongmin.com/article/20260707500055",
@@ -2999,13 +2995,13 @@
   "https://www.starnewskorea.com/broadcast-drama/2026/07/08/2026070807420083419",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423838",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890028.html",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423839"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423839",
+  "https://biz.sbs.co.kr/article_hub/20000321234?division=NAVER",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545553",
+  "https://www.cstimes.com/news/articleView.html?idxno=712579",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466414"
  ],
  "seen_titles": [
-  "'AI반도체훈풍'삼성전자,2분기영업익89.4조…글로벌테크1위",
-  "삼성전자,성과급충당금에도영업익사상최대",
-  "삼성SDS창사첫노조출범…토스나스닥ADR상장보류",
-  "KT,실무형AX인재양성나서…에이블스쿨10기모집",
   "삼성·SK광주반도체팹4기…‘속도전’승부수",
   "엔비디아차세대AI서버‘1년연기’…반도체주직격탄",
   "엔비디아넘고충당금도눌렀다…삼성전자영업익89.4조'새역사'(종합...",
@@ -6001,7 +5997,11 @@
   "이재욱,'닥터섬보이'로로코장인진가..유종의미",
   "[뉴욕마켓워치]삼전發반도체급락에이란도가세…주식·채권↓달러↑",
   "잔칫날쏟아진'피크아웃'경고음…美반도체주도급락",
-  "옵션시장서엔비디아'강세베팅'…반도체주급락에도콜옵션집중"
+  "옵션시장서엔비디아'강세베팅'…반도체주급락에도콜옵션집중",
+  "[비즈나우]SK하닉美상장흥행조짐…턴어라운드카드될까",
+  "SK하이닉스나스닥상장초읽기,AI투자심리가늠할시험대될듯",
+  "한국인터넷진흥원(KISA),LG유플러스와'음성스팸·보이스피싱대응'맞...",
+  "\"엔비디아꺾이자같이터졌다\"…비트코인채굴주식20%대폭락의전말"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-07-08T07:56:15.063719+09:00",
    "강세 베팅 집중 옵션시장서 콜옵션 반도체주 급락에도"
+  ],
+  [
+   "2026-07-08T07:58:18.900268+09:00",
+   "대응 음성스팸 LG유플러스와 한국인터넷진흥원 KISA 보이스피싱 ~LGU"
+  ],
+  [
+   "2026-07-08T07:58:18.900268+09:00",
+   "전말 꺾이자 터졌다 주식 같이 대폭락의 비트코인 채굴"
   ]
  ],
- "last_run": "2026-07-08T07:56:38.926435+09:00",
+ "last_run": "2026-07-08T07:58:39.198679+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
