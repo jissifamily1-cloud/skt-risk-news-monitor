@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=846391",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164494",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164390",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04500166645484672",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164336",
   "https://economist.co.kr/article/view/ecn202606160053",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=845272",
   "https://www.seoul.co.kr/news/society/accident/2026/06/19/20260619500112?wlog_tag3=naver",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260707_0003699527",
   "http://www.fnnews.com/news/202607071818592873",
   "https://www.mydaily.co.kr/page/view/2026070716495007228",
-  "https://www.segye.com/newsView/20260707517959?OutUrl=naver"
+  "https://www.segye.com/newsView/20260707517959?OutUrl=naver",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=265474",
+  "http://www.lawissue.co.kr/view.php?ud=20260707152132998d94aa4ada6_12",
+  "https://www.newstnt.com/news/articleView.html?idxno=709356",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=736329",
+  "https://www.pdjournal.com/news/articleView.html?idxno=90033"
  ],
  "seen_titles": [
-  "“왜이렇게비싼요금쓰세요?”…최적요금고지에437억부담하는이...",
-  "IPO위해분사한KT클라우드,KT로재편입…\"AI가치극대화\"",
-  "이통3사,AI-RAN투자잰걸음…\"신규요금제논의가능성\"",
-  "이통사최적요금고지제도,실효성두고'회의론'솔솔",
-  "GS네오텍,‘가짜010차단’맞춤형합법발신솔루션으로시장공략",
   "\"이돈이면넷플릭스본다\"…이통사'지상파·종편VOD'요금제의한계",
   "“2만원대라더니알뜰폰보다비싸다”…이통3사통합요금제의함정",
   "티빙,이용자CI유출...이통사해킹사고보다파장큰이유",
@@ -6001,7 +5996,12 @@
   "분기영업익'사실상100조'시대연삼성전자…3년치한번에벌며글로...",
   "[강남視角]가오슝의시간",
   "'역대최장연패2위'21살투수구하기작전,사령탑\"진지하게논의해...",
-  "설레는부산…국가유산‘축제의장’으로"
+  "설레는부산…국가유산‘축제의장’으로",
+  "LGU+,스탠퍼드대찾아새업무방식익혔다…실리콘밸리'아웃사이트D...",
+  "경기도,신임도정우선과제는주거안정...설문조사서1위",
+  "건양대의대주관'보건의료AI해커톤'성료",
+  "[전문]김민석,3대메가프로젝트토론회개최\"당대표가직접책임맡아...",
+  "'불법·허위정보근절'정보통신망법시행에\"제도보완해야\""
  ],
  "recent_sigs": [
   [
@@ -6639,9 +6639,13 @@
   [
    "2026-07-07T18:22:15.931884+09:00",
    "가오슝의 시간"
+  ],
+  [
+   "2026-07-07T18:26:18.449182+09:00",
+   "불법 근절 해야 시행에 허위정보 제도 보완 정보통신망법"
   ]
  ],
- "last_run": "2026-07-07T18:24:39.278064+09:00",
+ "last_run": "2026-07-07T18:26:37.240713+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7058,6 +7062,7 @@
   "newskr.kr": "한국농어촌방송",
   "hapt.co.kr": "한국아파트신문",
   "newsjeju.net": "뉴스제주",
-  "job-post.co.kr": "잡포스트(JOBPOST)"
+  "job-post.co.kr": "잡포스트(JOBPOST)",
+  "pdjournal.com": "PD저널"
  }
 }
