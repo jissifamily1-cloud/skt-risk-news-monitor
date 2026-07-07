@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12071424",
-  "https://www.ajunews.com/view/20260706170558215",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/06/2026070600223.html",
-  "https://www.ddaily.co.kr/page/view/2026070617145824579",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260703010001385",
   "https://www.dizzotv.com/site/data/html_dir/2026/07/06/2026070680157.html",
   "http://www.popcornnews.net/news/articleView.html?idxno=125746",
   "http://www.newsworker.co.kr/news/articleView.html?idxno=434817",
@@ -2999,14 +2994,14 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=81502",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=126588",
   "https://www.cbci.co.kr/news/articleView.html?idxno=587147",
-  "https://www.insight.co.kr/news/561839"
+  "https://www.insight.co.kr/news/561839",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=130741",
+  "https://www.bloter.net/news/articleView.html?idxno=667324",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3628859",
+  "https://www.newspost.kr/news/articleView.html?idxno=224042",
+  "https://news.dealsitetv.com/articles/172947"
  ],
  "seen_titles": [
-  "구글,FBI와공조해세계최대악성프록시네트워크'넷넛(NetNut)'차단",
-  "SKT,GPU클라우드인프라공공보안인증취득",
-  "방미통위,아고다'환불·수수료미고지'제재…24억원과징금",
-  "\"일상속해킹선제대응\"…코레일,촘촘한'정보보안그물망'짠다",
-  "공영방송새이사회출범시동…방미통위,이사20명임명·제청",
   "SKT,AI데이터센터1호내년울산서가동…영남·호남권3GW우선구축",
   "LG,협력사와상생확대…1300개협력사로혜택넓힌다",
   "\"폭염·사이버테러막아라\"…에너지·철도공기업,여름철'국민안전망...",
@@ -6001,7 +5996,12 @@
   "LG유플러스·KISA손잡고AI음성스팸전면전…민관데이터선순환구축",
   "LG유플러스,음성스팸대응고도화…AI·공공데이터결합",
   "LG유플러스-KISA,AI로음성스팸차단강화…업무협약체결",
-  "환불조건은'작은글씨'로?...방미통위,아고다에과징금24억부과"
+  "환불조건은'작은글씨'로?...방미통위,아고다에과징금24억부과",
+  "SKT,15GW규모AI데이터센터구축추진…'아시아AI인프라허브'목표",
+  "SKT최대15GWAIDC구축추진…풀스택AI인프라역량결집",
+  "세종시,'26년도제1회추가경정예산안2,102억원편성시의회승인요청",
+  "오픈AI-앤트로픽경쟁격화에…존재감커지는삼성파운드리",
+  "[IT투데이]넷마블,샹그릴라프론티어:일곱최강종공개外"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,17 @@
   [
    "2026-07-07T15:34:16.974448+09:00",
    "글씨 환불 작은 24억 아고다에 조건은 과징금 부과"
+  ],
+  [
+   "2026-07-07T15:36:15.566110+09:00",
+   "존재감 격화에 파운드리 삼성 경쟁 앤트로픽 커지는"
+  ],
+  [
+   "2026-07-07T15:36:15.566110+09:00",
+   "최강종 프론티어 넷마블 공개 샹그릴라 일곱"
   ]
  ],
- "last_run": "2026-07-07T15:34:34.856535+09:00",
+ "last_run": "2026-07-07T15:36:42.027795+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
