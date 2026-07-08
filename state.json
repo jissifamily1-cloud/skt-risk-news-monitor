@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbmaeil.com/article/20260706500797",
-  "https://www.sedaily.com/article/20064397",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028148",
-  "https://www.mk.co.kr/article/12091496",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848542",
-  "https://www.joongangenews.com/news/articleView.html?idxno=530798",
-  "https://www.yna.co.kr/view/AKR20260706118400054?input=1195m",
-  "https://www.ajunews.com/view/20260706135254764",
   "http://www.lkp.news/news/articleView.html?idxno=81568",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441634",
   "https://www.newspim.com/news/view/20260706000886",
@@ -2999,17 +2991,17 @@
   "http://www.sisacast.kr/news/articleView.html?idxno=97606",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441894",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2286681",
-  "https://www.hankyung.com/article/2026070835661"
+  "https://www.hankyung.com/article/2026070835661",
+  "https://www.hankyung.com/article/2026070835641",
+  "https://www.sportschosun.com/baseball/2026-07-08/202607080100054920003311",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=237275",
+  "https://www.etnews.com/20260708000435",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04775686645512552",
+  "https://www.socialvalue.kr/news/view/1065601535745794",
+  "https://dealsite.co.kr/articles/165002",
+  "https://www.mk.co.kr/article/12093583"
  ],
  "seen_titles": [
-  "최태원매직시작된다…\"SK하이닉스,외국기업역대최대美ADR\"",
-  "[아침발걸음]K-다크팩토리의시대,전북이먼저움직인다",
-  "[국제칼럼]호남반도체영남이반대말자",
-  "'AI기업'입지,포항만한곳이드물다",
-  "'스벅,인두겁'이대통령,'뭔상관,배재고와함께'이진숙...김재원...",
-  "[진담승부]1400조반도체구상…균형발전인가기업압박인가",
-  "李대통령,3대메가프로젝트속도전주문",
-  "SK,소셜벤처매년10곳선발…계열사연계해최대7000만원지원",
   "호남반도체클러스터,광주군공항부지에조성키로",
   "[특파원칼럼]\"주주가오너다\"…도요타회장이일깨운주총의무게",
   "광주군공항에호남반도체클러스터…정부,부지선정속도",
@@ -6001,7 +5993,15 @@
   "카카오페이증권,해외어닝콜실시간번역·요약으로매매까지한번에",
   "삼성전자이재용,미국'선밸리콘퍼런스'파운드리사업부장과참석",
   "세종소재병원홈페이지해킹정황…경찰,서울청병합수사",
-  "삼성전자,엔비디아에차세대AI용SSD공급"
+  "삼성전자,엔비디아에차세대AI용SSD공급",
+  "AI공격,AI로막는다…정부'보안전환'선포",
+  "\"구위는부상전보다오히려좋아져\"…안우진'리햅시즌'전반기\"실전...",
+  "626억베팅한장현국…넥써쓰,플랫폼대전막올랐다",
+  "옴니사,독립2년…AI·보안·데이터주권앞세워디지털워크플레이스...",
+  "이재용,삼성파운드리수장과美선밸리행…AI칩추가성과나올까",
+  "온도퍼프스(OndoPerps)공개…온도파이낸스개발기술로구축",
+  "SK하이닉스나스닥입성,최태원직접챙긴다",
+  "[알립니다]매경이코노미창간47년…이달28일'AI투자포럼'"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-07-08T17:34:17.159458+09:00",
    "차세대 삼성전자 SSD 공급 엔비디아에 AI용"
+  ],
+  [
+   "2026-07-08T17:36:16.055909+09:00",
+   "28일 창간47년 이달 매경이코노미 투자포럼"
   ]
  ],
- "last_run": "2026-07-08T17:34:35.550447+09:00",
+ "last_run": "2026-07-08T17:36:39.229602+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
