@@ -1,19 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260707193004E8b",
-  "https://www.mydaily.co.kr/page/view/2026070719310058001",
-  "https://www.mydaily.co.kr/page/view/2026070719301608509",
-  "https://www.mydaily.co.kr/page/view/2026070719291544260",
-  "https://www.starnewskorea.com/sports/2026/07/07/2026070719294033512",
-  "https://www.mydaily.co.kr/page/view/2026070719324222987",
-  "https://www.starnewskorea.com/sports/2026/07/07/2026070719323878491",
-  "https://www.xportsnews.com/article/2169282",
-  "https://www.mydaily.co.kr/page/view/2026070719315303011",
-  "https://www.starnewskorea.com/sports/2026/07/07/2026070719314978558",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307864",
-  "https://www.ajunews.com/view/20260707192951036",
-  "https://www.ytn.co.kr/_ln/0102_202607071929075490",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8604442",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008645997&plink=ORI&cooper=NAVER",
   "https://www.mydaily.co.kr/page/view/2026070719342224377",
   "https://www.mydaily.co.kr/page/view/2026070719334692877",
@@ -2999,18 +2985,23 @@
   "http://www.fnnews.com/news/202607081449162463",
   "https://www.news1.kr/finance/blockchain-fintech/6221812",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=846582",
-  "https://n.news.naver.com/mnews/article/214/0001510379"
+  "https://n.news.naver.com/mnews/article/214/0001510379",
+  "https://www.thepublic.kr/news/articleView.html?idxno=310545",
+  "https://biz.chosun.com/science-chosun/bio/2026/07/08/E4TBOY3G4ZCJDLLC3GMYMZAYIA/",
+  "https://www.seoulfn.com/news/articleView.html?idxno=632846",
+  "https://www.asiatime.co.kr/article/20260708500363",
+  "http://www.metroseoul.co.kr/article/20260708500416",
+  "https://www.news1.kr/photos/7998742",
+  "https://www.news1.kr/photos/7998739",
+  "https://www.news1.kr/photos/7998740",
+  "https://www.news1.kr/photos/7998741",
+  "https://www.news1.kr/photos/7998745",
+  "https://www.news1.kr/photos/7998743",
+  "https://www.news1.kr/photos/7998744",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605399",
+  "https://www.newsis.com/view/NISX20260708_0003701213"
  ],
  "seen_titles": [
-  "이재용,선밸리콘퍼런스출국...글로벌빅테크CEO들과만난다",
-  "\"SNS대화도검열하나\"…사적대화는해당안돼",
-  "[MD포토]소형준'키움잡자'",
-  "[MD포토]소형준'시즌4승을향해'",
-  "[MD포토]추재현'나도안타'",
-  "[포토]'벌써2안타'추재현",
-  "[MD포토]소형준'역투'",
-  "[포토]'잘가요~~'김상수",
-  "T1김유민·DNS박지민,뛰어난퍼포먼스선보이며E조승자조진출(FSL...",
   "[MD포토]서건창'시작하자마자선두타자안타'",
   "[포토]'어림없다!원샷투킬'김상수",
   "고등학교1~2학년학생대상...영등포구,'EBS일타강사초청진학캠프...",
@@ -6001,7 +5992,16 @@
   "[르포]\"복잡할줄알았는데\"...폰개통안면인증해보니'1분만에확인...",
   "'2000만달러해킹'봉크,유의종목지정에6%'뚝'[특징코인]",
   "개정정통망법에'입틀막법'비판거세…방미통위,법시행하루만에...",
-  "[고수다]\"5.18더이상해석여지없어‥정보통신망법으로바로잡아야\""
+  "[고수다]\"5.18더이상해석여지없어‥정보통신망법으로바로잡아야\"",
+  "경기교육감인수위,'358억하이러닝'특혜의혹감사요청",
+  "中추격에전략바꾼리가켐바이오…1兆실탄으로‘ADC2.0’시동",
+  "[선구자BMW③]\"미래주도권쥘대담한시도\"···새시대여는'노이에...",
+  "[마켓Q]'반도체피크아웃'우려에중동리스크까지…국내증시'급락'",
+  "[호남반도체시대④]호남,새로운반도체축될까",
+  "정보통신망법가이드라인브리핑하는방미통위",
+  "방미통위,정보통신망법가이드라인브리핑",
+  "방미통위“허위정보법,악의적수익형게재자겨냥”",
+  "[속보]방미통위\"X·틱톡·디시인사이드등가짜뉴스법규제대상통보..."
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,13 @@
   [
    "2026-07-08T16:16:16.136539+09:00",
    "없어 정보통신망법으로 해석 바로잡아야 더이상 여지"
+  ],
+  [
+   "2026-07-08T16:18:17.248781+09:00",
+   "가짜뉴스법 디시인사이드 규제 대상 틱톡 통보"
   ]
  ],
- "last_run": "2026-07-08T16:16:50.854341+09:00",
+ "last_run": "2026-07-08T16:18:40.648654+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
