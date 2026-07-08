@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441684",
-  "http://www.kjdaily.com/article.php?aid=1783336987681808002",
-  "https://www.hankyung.com/article/2026070683196",
-  "https://sjbnews.com/news/news.php?number=882349",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260707.22019001562",
-  "https://www.kbmaeil.com/article/20260706500056",
-  "https://www.ikbc.co.kr/article/view/kbc202607060047",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4077545",
   "https://www.kbmaeil.com/article/20260706500797",
   "https://www.sedaily.com/article/20064397",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3028148",
@@ -2999,17 +2991,17 @@
   "https://www.hankyung.com/article/2026070835611",
   "https://www.hankyung.com/article/2026070835221",
   "https://www.dkilbo.com/news/articleView.html?idxno=548117",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441895"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441895",
+  "https://www.aitimes.com/news/articleView.html?idxno=212548",
+  "http://www.sisacast.kr/news/articleView.html?idxno=97604",
+  "https://www.hankyung.com/article/2026070835591",
+  "https://www.yna.co.kr/view/AKR20260708161600017?input=1195m",
+  "http://www.sisacast.kr/news/articleView.html?idxno=97606",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441894",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2286681",
+  "https://www.hankyung.com/article/2026070835661"
  ],
  "seen_titles": [
-  "SKT,15GW규모AI데이터센터추진…“아시아AI허브도약”",
-  "SKT,15GWAI데이터센터구축추진…아시아AI인프라허브목표",
-  "\"AI시대경부고속도로깐다\"…SKT,15GWAI데이터센터구축",
-  "SKT,영남권에2GWAIDC짓는다…'아시아AI인프라허브'도약",
-  "이훈기\"혐오·조롱문화유행처럼확산…법적제재장치마련하고자일...",
-  "하닉사장도부사장도팔았다…AI피크아웃?[재계톡톡]",
-  "[7월7일자]비즈니스포스트아침의주요기사",
-  "투자발표1주일만에부지까지‘F1급속도전’",
   "최태원매직시작된다…\"SK하이닉스,외국기업역대최대美ADR\"",
   "[아침발걸음]K-다크팩토리의시대,전북이먼저움직인다",
   "[국제칼럼]호남반도체영남이반대말자",
@@ -6001,7 +5993,15 @@
   "'GPT-5.6'출시막았던美,11일만에다시허용",
   "美회사채의20%가'AI채권'…옥석가리기나선월가",
   "윤호중행안부장관,국정자원대구센터찾아안전관리총력점검",
-  "리벨리온대표박성현\"내년상반기코스피IPO목표\",미국상장가능성..."
+  "리벨리온대표박성현\"내년상반기코스피IPO목표\",미국상장가능성...",
+  "\"휴대폰회사는옛말\"...노키아,AI데이터센터핵심기업으로변신",
+  "크래프톤,펍지성수서AINative해커톤·1주년팬페스티벌개최…\"AI...",
+  "中딥시크도반도체개발…'1사1칩'시대오나",
+  "LGCNS,AI인프라'XPU웍스'15일출시",
+  "카카오페이증권,해외어닝콜실시간번역·요약으로매매까지한번에",
+  "삼성전자이재용,미국'선밸리콘퍼런스'파운드리사업부장과참석",
+  "세종소재병원홈페이지해킹정황…경찰,서울청병합수사",
+  "삼성전자,엔비디아에차세대AI용SSD공급"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,13 @@
   [
    "2026-07-08T17:28:15.803115+09:00",
    "판단은 플랫폼 자율 나왔다 지침 가짜뉴스법 정부 허위정보 최종"
+  ],
+  [
+   "2026-07-08T17:34:17.159458+09:00",
+   "차세대 삼성전자 SSD 공급 엔비디아에 AI용"
   ]
  ],
- "last_run": "2026-07-08T17:32:35.598315+09:00",
+ "last_run": "2026-07-08T17:34:35.550447+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
