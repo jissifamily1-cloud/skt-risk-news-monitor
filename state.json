@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1306500&inflow=N",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446613",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1007338",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=104230",
   "https://zdnet.co.kr/view/?no=20260708104040",
   "https://www.theguru.co.kr/news/article.html?no=104113",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682330",
@@ -2999,13 +2995,13 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607090130&t=NN",
   "https://www.segye.com/newsView/20260709504326?OutUrl=naver",
   "https://www.bloter.net/news/articleView.html?idxno=667628",
-  "https://www.chosun.com/economy/tech_it/2026/07/09/V5ANDEHLA5FVLKKDSQ3S3IEBG4/"
+  "https://www.chosun.com/economy/tech_it/2026/07/09/V5ANDEHLA5FVLKKDSQ3S3IEBG4/",
+  "https://www.g-enews.com/view.php?ud=202607090715114428fbbec65dfb_1",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3630541",
+  "https://www.dt.co.kr/article/12071958",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61356"
  ],
  "seen_titles": [
-  "[재계투데이]삼성전자,PCIe6.0기반AI용SSD선보여外",
-  "[더벨][i-point]아이티센피엔에스,AI보안대응사업확대",
-  "美이어中도자국AI모델해외접근막나…\"알리바바·바이트댄스등...",
-  "[증권가중계]삼성증권,유진투자증권,카카오페이증권",
   "4년만에왕좌되찾은롯데백화점…NCSI백화점1위",
   "하나금융융합기술원,금융특화AI파운데이션모델개발",
   "삼성전자,베라루빈용eSSD양산…메모리리더십굳히기",
@@ -6001,7 +5997,11 @@
   "뉴욕증시,미·이란긴장재고조속혼조마감-[글로벌마감시황]",
   "짐크레이머“삼성전자실적발표이후AI투자금,빅테크로이동가능...",
   "[SK스퀘어리셋]③다팔아도티맵은남긴이유…AI데이터",
-  "“어느회사다니세요?”…실리콘밸리집주인의‘입주면접’"
+  "“어느회사다니세요?”…실리콘밸리집주인의‘입주면접’",
+  "AI주도권,‘GPU독점’에서‘인프라수요확산’으로",
+  "나스닥다우지수혼조마감...반도체주강세·국제유가'급등'",
+  "스페이스XAI,그록4.5출시…머스크“클로드오퍼스급”",
+  "최태원,\"하이닉스10배키운다\"선언후첫행보…나스닥서AI투자자..."
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,13 @@
   [
    "2026-07-09T07:32:17.092144+09:00",
    "어느 집주인의 다니세요 실리콘밸리 면접 입주 회사"
+  ],
+  [
+   "2026-07-09T07:34:17.744822+09:00",
+   "투자자 하이닉스 나스닥서 행보 선언 키운다 10배"
   ]
  ],
- "last_run": "2026-07-09T07:32:36.938154+09:00",
+ "last_run": "2026-07-09T07:34:39.029968+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
