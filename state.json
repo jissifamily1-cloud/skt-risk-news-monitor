@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260708067000011?input=1195m",
-  "https://www.wikitree.co.kr/articles/1145332",
-  "https://www.econovill.com/news/articleView.html?idxno=744598",
-  "http://www.metroseoul.co.kr/article/20260708500132",
-  "https://www.inthenews.co.kr/news/article.html?no=89071",
-  "https://www.yna.co.kr/view/PYH20260708054500013?input=1196m",
   "https://www.viva100.com/article/20260708500518",
   "https://it.chosun.com/news/articleView.html?idxno=2023092165368",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441812",
@@ -2999,15 +2993,15 @@
   "https://www.bntnews.co.kr/article/view/bnt202607090007",
   "http://www.srtimes.kr/news/articleView.html?idxno=206947",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1715642",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16128404"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16128404",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466833",
+  "https://www.techm.kr/news/articleView.html?idxno=153230",
+  "https://www.aitimes.com/news/articleView.html?idxno=212534",
+  "https://www.etoday.co.kr/news/view/2601796",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=306023",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849162"
  ],
  "seen_titles": [
-  "AI,금융·쇼핑·오디오·클라우드로확산…산업현장적용속도",
-  "[특징주]데이타솔루션,삼성SDS와매출4배넘는대규모AI데이터센터...",
-  "메타,이미지생성AI모델공개⋯인스타그램·왓츠앱에탑재",
-  "SK하이닉스,HBM에서eSSD까지..'풀스택AI메모리'전략구체화",
-  "네이버클라우드·미스트랄AI,제조AI손잡았다…아시아·유럽소버린...",
-  "삼성전자,차세대AI서버용eSSD양산…데이터센터시장공략가속",
   "[연합뉴스이시각헤드라인]-10:30",
   "분위기바꾼삼성전자…AI인프라최적화된'이것'양산",
   "KT,정보보안에4년연속1000억…\"사고대응넘어예방으로\"",
@@ -6001,7 +5995,13 @@
   "뉴욕증시,반도체주반등…엔비디아3%대급등견인",
   "NHN,'에이전틱데이'개최…클로드전사도입으로AX가속",
   "중국,엔비디아H200빗장푼다…알리바바·딥시크구매허용검토",
-  "미국증시유가·금리압박에도나스닥반등…엔비디아·반도체주선별..."
+  "미국증시유가·금리압박에도나스닥반등…엔비디아·반도체주선별...",
+  "AI기대너무커졌다…골드만\"이번어닝시즌은가이던스가좌우\"",
+  "\"자라보고놀란가슴솥뚜껑보고놀란다\"...통신사,정보보호투자·인...",
+  "[7월8일]\"최고모델이공짜\"…오픈AI·앤트로픽이무료토큰경쟁에나...",
+  "“중국,알리바바·딥시크등에엔비디아H200구매허용계획”[마켓핫...",
+  "[정보보호테크]⑤SK텔레콤,해킹후보안투자'70%증액'효과보나",
+  "[지배구조분석A+]⑥KT&G,지배구조경쟁력입증"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,21 @@
   [
    "2026-07-09T06:58:15.470564+09:00",
    "나스닥 금리 미국증시 반등 유가 반도체주 선별 압박에도"
+  ],
+  [
+   "2026-07-09T07:01:08.883625+09:00",
+   "지배구조 경쟁력 입증 ~KT"
+  ],
+  [
+   "2026-07-09T07:01:08.883625+09:00",
+   "~SKT 보안투자 증액 효과보나"
+  ],
+  [
+   "2026-07-09T07:01:08.883625+09:00",
+   "앤트로픽이 토큰 모델이 최고 경쟁에 공짜 무료"
   ]
  ],
- "last_run": "2026-07-09T06:58:36.825184+09:00",
+ "last_run": "2026-07-09T07:01:31.306728+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
