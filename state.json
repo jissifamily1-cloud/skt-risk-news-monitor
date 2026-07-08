@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kgnews.co.kr/news/article.html?no=902947",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260707152236oiu",
-  "https://dealsite.co.kr/articles/164894",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603190",
-  "http://www.kdfnews.com/news/articleView.html?idxno=184929",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1167766",
   "https://www.busan.com/view/busan/view.php?code=2026070715045717381",
   "https://dealsite.co.kr/articles/164892",
   "http://www.yonhapnewstv.co.kr/news/MYH20260707152431I2O",
@@ -2999,15 +2993,15 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1715548",
   "https://biz.sbs.co.kr/article_hub/20000321315?division=NAVER",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03703126645512552",
-  "https://www.newspim.com/news/view/20260708000031"
+  "https://www.newspim.com/news/view/20260708000031",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43400",
+  "https://dealsite.co.kr/articles/164964",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2225640",
+  "https://www.medipana.com/news/articleView.html?idxno=414248",
+  "https://www.ekn.kr/web/view.php?key=20260708029010296",
+  "http://www.newsmp.com/news/articleView.html?idxno=255911"
  ],
  "seen_titles": [
-  "대구광역시,노인통합돌봄신청자전국13위'저조한실적'보도에대한...",
-  "가천대길병원,희귀내분비질환원인유전자신속규명플랫폼개발",
-  "\"메모리겨울\"모건스탠리,이번엔\"삼전닉스팔아라\"",
-  "D램·낸드가격뛰자이익폭발…삼성영업익89조'공식'",
-  "우리은행개인정보만7천여건유출…개인정보위조사착수",
-  "SKT,포켓몬'잉어킹프로모카드'배부시작…KT·LGU+도IP·AI협업확...",
   "대전재산분할전문변호사,재산분할대상과특유재산의함정",
   "아쉬운‘윤나’,괜찮은‘고황’…윤나고황완전체언제쯤?",
   "엔비디아제친삼성전자,분기영업익100조시대'개막'",
@@ -6001,7 +5995,13 @@
   "신한은행,'신한홈뱅크'시니어금융·생활채널로개편",
   "LS증권,가짜이메일속아수십억인출…경찰수사",
   "안민석인수위,임태희'하이러닝'정조준\"특혜의혹밝혀야\"",
-  "[K성장③]OTT특화399억으로넷플릭스에맞설수있나"
+  "[K성장③]OTT특화399억으로넷플릭스에맞설수있나",
+  "[오늘뭐했니?]신한금융·신한은행·신한카드·신한투자증권",
+  "[오늘의게임·IT소식]위믹스,美가상자산거래소‘크라켄’상장外",
+  "[네이버]AI안전성체계'ASF2.0'공개/네이버클라우드미스트랄AI와...",
+  "\"통계는전략\"신약개발의성공파트너,LSK통계연구실",
+  "삼성전자,엔비디아‘베라루빈’용차세대eSSD‘PM1763’양산돌입",
+  "'유인원에서휴머노이드로'5차산업혁명앞둔의료의미래"
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-07-08T11:54:17.406002+09:00",
    "연구원 톈융룽 합류 텐센트"
+  ],
+  [
+   "2026-07-08T12:01:04.141857+09:00",
+   "산업혁명 미래 5차 휴머노이드로 앞둔 유인원에서 의료의"
   ]
  ],
- "last_run": "2026-07-08T11:58:34.051380+09:00",
+ "last_run": "2026-07-08T12:01:22.468751+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7095,6 +7099,7 @@
   "hyunbulnews.com": "현대불교",
   "mediafine.co.kr": "미디어파인",
   "upkoreanews.kr": "업코리아",
-  "fashionbiz.co.kr": "fashionbiz.co.kr"
+  "fashionbiz.co.kr": "fashionbiz.co.kr",
+  "newsmp.com": "의약뉴스"
  }
 }
