@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6544617",
-  "http://www.cctimes.kr/news/articleView.html?idxno=915462",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310400",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310434",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310418",
   "https://www.thepublic.kr/news/articleView.html?idxno=310411",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000538432",
   "https://www.mydaily.co.kr/page/view/2026070719503273599",
@@ -2999,14 +2994,14 @@
   "https://www.nspna.com/news/?newsid=819833",
   "https://www.mk.co.kr/article/12093499",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=311178",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310524"
+  "https://www.thepublic.kr/news/articleView.html?idxno=310524",
+  "https://sports.donga.com/economy/article/all/20260708/134255920/1",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605037",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1384128",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715607",
+  "http://www.fnnews.com/news/202607081618414993"
  ],
  "seen_titles": [
-  "[MD포토]이강철감독'미안하지만KT가승리합니다'",
-  "“한때는점유율0%였는데”…순식간에‘240만명’몰렸다,역대최고...",
-  "[한번에쓱]1회2안타맞고도무실점'키움전선발역투'소형준",
-  "국세청,4년만에KT특별세무조사",
-  "[MD포토]서건창'태그피해보자'",
   "[포토]'김현수글러브피했나?'",
   "\"경북대,'성장엔진미래대학'앞서가는중…준비잘하고있다\"자신감",
   "[칼럼]회복탄력성,성공의원동력",
@@ -6001,7 +5996,12 @@
   "[위기관리리스크:내부통제]LS증권,이메일해킹으로외국인투자자수...",
   "“이제화웨이쓴다”…‘탈엔비디아’빨라지는中기업",
   "메모리호황뒤남은퍼즐…삼성파운드리,2나노로부활신호탄쏠까",
-  "LS증권,해킹된이메일에주식주문…외국인투자자수십억원피해"
+  "LS증권,해킹된이메일에주식주문…외국인투자자수십억원피해",
+  "롯데카드,‘대한항공마일리지적립법인카드’출시",
+  "‘영남권첨단산업’312조원…경남투자규모는?",
+  "이재용,한진만사장과美선밸리참석…파운드리추가수주기대",
+  "[Telecom&Now]SKT,전국T월드매장'AI전환'착수…AI에이전트도입...",
+  "[속보]방미통위\"네이버·카카오·네이트·디시·구글·메타·X·틱톡,..."
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-07-08T16:20:49.647472+09:00",
    "해킹된 이메일에 수십억원 LS증권 외국인 피해 주문 주식 투자자"
+  ],
+  [
+   "2026-07-08T16:22:17.321429+09:00",
+   "네이버 틱톡 네이트 디시 메타 구글 카카오"
   ]
  ],
- "last_run": "2026-07-08T16:21:15.898694+09:00",
+ "last_run": "2026-07-08T16:22:35.395235+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
