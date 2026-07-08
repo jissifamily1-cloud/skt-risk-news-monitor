@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1621233",
-  "http://www.lawissue.co.kr/view.php?ud=2026070810205543729817d053b9_12",
   "https://www.viva100.com/article/20260708500498",
   "https://www.gukjenews.com/news/articleView.html?idxno=3629627",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404017",
@@ -2999,11 +2997,11 @@
   "https://www.news2day.co.kr/article/20260709500009",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607081121239700393",
   "https://biz.sbs.co.kr/article_hub/20000321441?division=NAVER",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=305841"
+  "https://www.fetv.co.kr/news/articleView.html?idxno=305841",
+  "https://www.mt.co.kr/world/2026/07/09/2026070906214566626",
+  "http://www.inews24.com/view/1983817"
  ],
  "seen_titles": [
-  "AI에서기후변화에관한사실왜곡심각,검증할투명성체계마련목소...",
-  "‘초급속·초대역폭전송량eSSD나왔다’삼성전자‘PM1763양산돌입",
   "\"우리동네친절한매장찾기\"…SKT,T월드방문객AI만족도조사해'별...",
   "KT,영유아가정겨냥'아기상어홈캠'3000대한정출시",
   "외국인투자자거래사고경찰수사…LS증권\"내부망해킹흔적없어\"",
@@ -6001,7 +5999,9 @@
   "[N2모닝경제브리핑-7월9일]美증시,미·이란긴장속혼조세마감...",
   "[데스크칼럼]몽니일까,신기루일까",
   "하이닉스나스닥데뷔…최태원,AI메모리세일즈나선다",
-  "[반도체투자로드맵]⑦'AI·항공우주클러스터'에뛰어든대기업"
+  "[반도체투자로드맵]⑦'AI·항공우주클러스터'에뛰어든대기업",
+  "\"中,엔비디아H200수입제한푼다\"…AI연산자원부족임계점",
+  "방미통위,대규모정보통신서비스제공자8곳→9곳정정"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,17 @@
   [
    "2026-07-09T06:24:16.431594+09:00",
    "데뷔 메모리 나선다 하이닉스 세일즈 나스닥"
+  ],
+  [
+   "2026-07-09T06:30:57.465922+09:00",
+   "임계점 연산자원 부족 H200 푼다 제한 수입"
+  ],
+  [
+   "2026-07-09T06:30:57.465922+09:00",
+   "8곳 정정 정보통신서비스 제공자 9곳 대규모"
   ]
  ],
- "last_run": "2026-07-09T06:28:36.249936+09:00",
+ "last_run": "2026-07-09T06:31:23.361053+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
