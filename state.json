@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682326",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008647204&plink=ORI&cooper=NAVER",
-  "https://thetracker.co.kr/View.aspx?No=4141056",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1007337",
   "http://www.econonews.co.kr/news/articleView.html?idxno=440874",
   "https://www.etoday.co.kr/news/view/2601486",
   "http://www.kdfnews.com/news/articleView.html?idxno=184962",
@@ -2999,13 +2995,13 @@
   "https://www.newspim.com/news/view/20260707000480",
   "https://www.viva100.com/article/20260708500613",
   "https://www.dt.co.kr/article/12071971",
-  "https://www.hankyung.com/article/202607094129i"
+  "https://www.hankyung.com/article/202607094129i",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=660044",
+  "https://news.tf.co.kr/read/economy/2341335.htm",
+  "http://www.segyebiz.com/newsView/20260709505391?OutUrl=naver",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466881"
  ],
  "seen_titles": [
-  "KB금융,전북에자산운용특화'KB금융타운'개소",
-  "더존비즈온,한국공항공사AI플랫폼구축사업수주",
-  "\"AI시대보안이국가경쟁력\"…정보보호산업육성본격화",
-  "\"차세대AI플랫폼핵심솔루션\"…삼성전자,SSD'PM1763'양산",
   "KT,핑크퐁과맞손…'아기상어'입은홈캠선보인다",
   "KT'특별세무조사'받는다…회계처리과정조사",
   "신한은행,'신한홈뱅크'재단장...시니어맞춤콘텐츠확대",
@@ -6001,7 +5997,11 @@
   "[AI판결돋보기]이배용\"나와관련된자료삭제하라\"…증거인멸교사...",
   "박상혁의원,정무위간사로민생경제활력이끈다",
   "최태원,SK하이닉스나스닥상장맞춰美행…투자자소통나선다",
-  "알리바바,中정부엔비디아칩수입허가에11%폭등"
+  "알리바바,中정부엔비디아칩수입허가에11%폭등",
+  "[기획]통신3사'양자삼국지'격돌…돈버는기술개발에사활",
+  "삼성패션'알라이아',갤러리아百명품관리뉴얼…\"순수미강조\"",
+  "[뉴욕증시]중동리스크에혼조마감…다우1.1%↓",
+  "고점찍은LG그룹주한달만에'반토막'…개미들깊어진한숨"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-07-09T08:38:16.472565+09:00",
    "폭등 수입허가에 정부 알리바바"
+  ],
+  [
+   "2026-07-09T08:40:49.692309+09:00",
+   "개미들 반토막 LG그룹주 찍은 만에 한숨 고점 깊어진"
   ]
  ],
- "last_run": "2026-07-09T08:38:33.720521+09:00",
+ "last_run": "2026-07-09T08:41:10.441700+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
