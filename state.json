@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598470",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79769",
-  "https://biz.heraldcorp.com/article/10800959",
-  "http://www.segyebiz.com/newsView/20260707515403?OutUrl=naver",
-  "https://www.etoday.co.kr/news/view/2601143",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628837",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423759",
-  "https://www.cstimes.com/news/articleView.html?idxno=712521",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681041",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681040",
   "https://www.viva100.com/article/20260707500850",
   "https://www.stnsports.co.kr/news/articleView.html?idxno=318731",
   "https://www.gukjenews.com/news/articleView.html?idxno=3628833",
@@ -2999,19 +2989,19 @@
   "https://www.xportsnews.com/article/2169496",
   "https://zdnet.co.kr/view/?no=20260703094452",
   "https://biz.heraldcorp.com/article/10802097",
-  "https://nownews.seoul.co.kr/news/newsView.php?id=20260708601007&wlog_tag3=naver"
+  "https://nownews.seoul.co.kr/news/newsView.php?id=20260708601007&wlog_tag3=naver",
+  "http://www.popcornnews.net/news/articleView.html?idxno=125956",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=846500",
+  "https://www.koreajoongangdaily.com/sports/samsung-lions-reclaim-first-place-after-beating-lg-twins-92/12761029",
+  "https://www.newsis.com/view/NISX20260701_0003691963",
+  "https://www.mk.co.kr/article/12087790",
+  "https://www.socialvalue.kr/news/view/1065585037396460",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1166719",
+  "https://www.yna.co.kr/view/AKR20260708076900017?input=1195m",
+  "http://www.techholic.co.kr/news/articleView.html?idxno=222019",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6279"
  ],
  "seen_titles": [
-  "휴대전화개통시안면인증,내달6일부터단계적시행",
-  "과기정통부,“7월6일부터휴대전화개통시안면인증”",
-  "\"美·英투자사3곳,SK하이닉스ADR최대70억달러인수의사\"",
-  "“임직원이AI만든다”예탁원‘KSDAX챌린지2026’개최",
-  "금감원,‘빚투’·‘제3자리스크’전방위점검…소비자피해차단나...",
-  "삼성전자,분기영업이익엔비디아제치고세계1위…시총은12위",
-  "iM금융그룹iM사회공헌재단등6개기관,청년추진단5기운영업무협약...",
-  "삼성증권\"코스피,단기급등에따른예정된조정…AI투자는지속\"",
-  "무더위도심속힐링…경동나비엔,'응급숨표센터'팝업오픈",
-  "오픈AI,미국정부에지분5%제안했나…백악관과초기논의",
   "샘알트먼'AI,전기이후최대변화'…미국주도국제규범제안",
   "이찬진금감원장“과도한레버리지투자,가계건전성훼손우려”",
   "롯데,박세웅7이닝2실점역투에도…김현수결승포에막혀아쉬운역전...",
@@ -6001,7 +5991,17 @@
   "젠지·DN수퍼스팬미팅…SOOP,'MSI팬페스타'이벤트전개",
   "4년전3G종료한T모바일,8월에2G스위치내린다",
   "챗GPT·클로드‘미국산AI천하’…힘못쓰는네이버·카카오",
-  "“삼성·SK에밀리더니”…일본이한국에꺼낸‘반도체경고’[핫이슈..."
+  "“삼성·SK에밀리더니”…일본이한국에꺼낸‘반도체경고’[핫이슈...",
+  "통신3사,고객경험부터보안까지전방위강화",
+  "[#증권톡톡]카카오페이증권'AI어닝콜'서비스·삼성증권'중개형ISA...",
+  "SamsungLionsreclaimfirstplaceafterbeatingLGTwins9-2",
+  "'삼성감사페스티벌'효과에지난달번호이동60만건돌파",
+  "“소는잃었지만외양간은잘고치자”…SK텔레콤,보안강화에1434억원...",
+  "이통3사,7월부터5G·LTE요금제통합…'기본통신권'강화",
+  "휴대전화개통안면인증도입…대포폰차단강화",
+  "\"AI위협신속대응해야\"…'정보보호의날'사이버주권선언",
+  "KT,지난해정보보호에1276억투자-통신사중최대수준",
+  "LS증권,메일해킹으로고객돈수입억손실...\"시스템뚫린건아니다\""
  ],
  "recent_sigs": [
   [
@@ -6639,9 +6639,13 @@
   [
    "2026-07-08T11:20:50.656016+09:00",
    "47주년 기념 투자포럼 개최 창간"
+  ],
+  [
+   "2026-07-08T11:24:19.317270+09:00",
+   "수입억 아니다 손실 시스템 뚫린 고객돈 메일해킹으로 LS증권"
   ]
  ],
- "last_run": "2026-07-08T11:22:39.268029+09:00",
+ "last_run": "2026-07-08T11:24:38.441488+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
