@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=68504",
-  "https://www.hankookilbo.com/news/article/A2026070714150000322?did=NA",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715396",
-  "https://www.laborplus.co.kr/news/articleView.html?idxno=41107",
-  "https://biz.heraldcorp.com/article/10798171",
-  "https://www.ddaily.co.kr/page/view/2026070714460020857",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202457",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681982",
   "http://www.efnews.co.kr/news/articleView.html?idxno=130789",
   "https://www.mediapen.com/news/view/1108668",
@@ -2999,16 +2992,16 @@
   "https://www.newscj.com/news/articleView.html?idxno=3415358",
   "http://www.efnews.co.kr/news/articleView.html?idxno=130813",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682345",
-  "https://www.hankookilbo.com/news/article/A2026070810460001591?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026070810460001591?did=NA",
+  "http://www.srtimes.kr/news/articleView.html?idxno=206824",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890150.html",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=199947",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=204627",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446647",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=724046",
+  "https://zdnet.co.kr/view/?no=20260708104922"
  ],
  "seen_titles": [
-  "삼성전자,2분기영업이익으로세계1위...89.4조",
-  "일본반다이채널사이버공격피해,4만6000여계정무단해지...15세고...",
-  "부산세계유산위원회기념…조선통신사선남해안한바퀴",
-  "[Digital&Now]NHN,'에이전틱데이'개최",
-  "지지부진원청교섭,공공운수노조'원·하청공동투쟁'선포",
-  "“120만원→50만원,이게웬일이냐”삼성이례적‘할인’에…이통사...",
-  "금감원,빚투·단일종목레버리지ETF정조준…“과도한마케팅점검”",
   "롯데건설,'AAA'등급3000억규모ABS발행[건설·분양오늘]",
   "금감원,빚투확산경고...\"레버리지투자관리강화해야\"",
   "韓70%\"EU형한일경제공동체추진해야\"...日60%'찬성'",
@@ -6001,7 +5994,14 @@
   "정보탈취악성코드,절반은'사용자가직접실행'해서뚫렸다",
   "삼성전자,PCIe6.0기반기업용SSD'PM1763'양산…AI인프라에최적화",
   "오픈AI,월가인재직접뽑는다…연봉3억내건이유",
-  "삼성전자,차세대eSSD양산개시..엔비디아'베라루빈'에공급"
+  "삼성전자,차세대eSSD양산개시..엔비디아'베라루빈'에공급",
+  "SKT'해인'클러스터,국내첫CSAP인증…데이터보안신뢰도↑",
+  "LGU+,'천원의사랑'으로발달장애아동위기가정지원",
+  "[더밸류브리핑]오늘의증권사소식...미래에셋증권·키움증권·카카오...",
+  "[국산차Pick]르노코리아,카카오모빌리티와MOU체결…현대차,'디올...",
+  "삼성운용,'KODEX차이나휴머노이드로봇'1년수익률38.2%",
+  "외국인투자자노린'사칭이메일'…LS증권\"인지직후경찰에수사요...",
+  "경찰청'압수가상자산수탁사업자'에두나무선정"
  ],
  "recent_sigs": [
   [
@@ -6633,7 +6633,7 @@
    "월가 3억 뽑는다 인재 직접 연봉 내건 이유"
   ]
  ],
- "last_run": "2026-07-08T11:14:40.863533+09:00",
+ "last_run": "2026-07-08T11:16:33.098466+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
