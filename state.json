@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269257",
-  "https://zdnet.co.kr/view/?no=20260707105144",
-  "https://news.bizwatch.co.kr/article/mobile/2026/07/07/0007",
-  "https://www.viva100.com/article/20260707500403",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070234&t=NN",
-  "https://biz.heraldcorp.com/article/10800585",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628407",
-  "https://www.kbmaeil.com/article/20260707500181",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628391",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03558806645512224",
-  "https://www.ajunews.com/view/20260707104905959",
   "https://www.imaeil.com/page/view/2026070710273583000",
   "http://www.inews24.com/view/1983109",
   "https://www.dt.co.kr/article/12071521",
@@ -2999,20 +2988,20 @@
   "https://www.chosun.com/economy/money/2026/07/08/2BVBJC35MBCRTAEMC3A6VY5XN4/",
   "https://view.asiae.co.kr/article/2026070809110081057",
   "https://www.handmk.com/news/articleView.html?idxno=41139",
-  "https://biz.heraldcorp.com/article/10801642"
+  "https://biz.heraldcorp.com/article/10801642",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038619",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16127380",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571115740061",
+  "https://cn.asiatoday.co.kr/view.php?key=20260707001012191",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038616",
+  "https://www.asiatime.co.kr/article/20260707500087",
+  "https://www.catchnews.kr/news/articleView.html?idxno=125891",
+  "https://www.newsis.com/view/NISX20260708_0003700176",
+  "http://www.inews24.com/view/1983443",
+  "https://www.mt.co.kr/industry/2026/07/08/2026070808370997369",
+  "https://www.kizmom.com/news/articleView.html?idxno=111434"
  ],
  "seen_titles": [
-  "[위클리오늘]7~8월수도권2만3000여가구분양…작년比2배↑",
-  "\"요금제경쟁은끝났다\"…이통사들진짜승부처는'AI'",
-  "월가'거물들'움직였다…SK하이닉스美상장공모에11조원인수의향",
-  "[비욘드IT]\"몰래추적하고성능까지바꿨다\"…통제불가능한해외AI리...",
-  "결론없는카카오브랜드메시지…대형해킹조사에밀렸다",
-  "불법‧허위조작정보유통방지시행령,국무회의통과",
-  "BC카드,'밀리의서재'무료구독권제공프로모션진행",
-  "‘조선의기록과문화,만세에전하노니’특별기획전",
-  "'위험물안전관리우수사례경진대회'…창녕소방서,참여홍보나서",
-  "대구치맥페스티벌성황폐막…해외관광객3배늘었다",
-  "밀양시대표누리집,AI다국어번역서비스도입",
   "트릴리온랩스,'Llama-4'꺾은모바일월드모델'gWorld'개발…ICML2026...",
   "[삼성세계이익지도재편]분기영업익89.4조신기록...연간400조·세...",
   "[여의도단신]코스콤·미래에셋증권·한국투자신탁운용",
@@ -6001,7 +5990,18 @@
   "삼전실적·딥시크추가쇼크에반도체주하락가속...SK하이닉스미AD...",
   "SKT,전국T월드매장'AI전환'시동…매장용AI에이전트도입",
   "LG유플러스임직원'천원의사랑'발달장애아동지원",
-  "오목교역생활권갖춘옛KT부지개발…‘목동윤슬자이’공급예정"
+  "오목교역생활권갖춘옛KT부지개발…‘목동윤슬자이’공급예정",
+  "LGU+,발달장애아동위기가정에'천원의사랑'기부금전달",
+  "CGV,오늘(8일)6000원할인권배포…'사용방법'관심",
+  "르노차에'카카오T'기능탑재…르노코리아,카카오모빌리티와'SDV승...",
+  "SK海力士启动美国史上最大外企IPO韩半导体推动全球ETF资金重构",
+  "삼성전자,AI인프라최적화SSD'PM1763'양산",
+  "NHN,'에이전틱데이'개최…'전사AX'속도",
+  "\"읽기속도2배점프,AI학습에최적\"삼성전자,기업용SSD'PM1763'양산",
+  "KT\"4년연속정보보호에1000억규모투자…통신사최고수준\"",
+  "삼성전자,엔비디아'베라루빈'용eSSD양산…읽기속도2배높여",
+  "삼성,엔비디아'베라루빈'탑재eSSD양산…AI메모리공략속도",
+  "엔비디아도함께한AI동맹…네이버,유럽AI기업과전격협력"
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,13 @@
   [
    "2026-07-08T09:14:15.532877+09:00",
    "생활권 ~KT 공급 목동윤슬자이 KT부지 갖춘 개발 오목교역"
+  ],
+  [
+   "2026-07-08T09:16:17.078543+09:00",
+   "네이버 유럽 기업과 동맹 엔비디아도 협력 함께한 전격"
   ]
  ],
- "last_run": "2026-07-08T09:14:36.545655+09:00",
+ "last_run": "2026-07-08T09:16:35.201551+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
