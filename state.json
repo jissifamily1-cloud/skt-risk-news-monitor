@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441718",
-  "https://sports.khan.co.kr/article/202607081020003?pt=nv",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=81578",
-  "https://www.businessplus.kr/news/articleView.html?idxno=113874",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=131599",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2446596",
   "https://www.sportsseoul.com/news/read/1621233",
   "http://www.lawissue.co.kr/view.php?ud=2026070810205543729817d053b9_12",
@@ -2999,14 +2994,14 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682605",
   "https://www.g-enews.com/view.php?ud=202607090608484514e250e8e188_1",
   "https://www.ddaily.co.kr/page/view/2026070906184282789",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=52176"
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=52176",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=938217",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02168086645512880",
+  "https://www.news2day.co.kr/article/20260709500009",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607081121239700393",
+  "https://biz.sbs.co.kr/article_hub/20000321441?division=NAVER"
  ],
  "seen_titles": [
-  "MS,엑셀·아웃룩에자체AI모델적용…오픈AI·앤트로픽지출줄인다",
-  "‘소버린AI’,비싸고성능구려도꼭필요한이유[논설실Pick]",
-  "[반도체투자로드맵]⑦'AI·항공우주클러스터'에뛰어든대기업",
-  "‘목동의맨해튼’오목교역…재건축4만7000가구시대중심축으로부상",
-  "리얼월드,GTM·전략파트너십총괄리더로'카르틱크리슈나무르티'영...",
   "“삼성메모리독주,美견제부를라”…日언론‘1980년대악몽’소환",
   "AI에서기후변화에관한사실왜곡심각,검증할투명성체계마련목소...",
   "‘초급속·초대역폭전송량eSSD나왔다’삼성전자‘PM1763양산돌입",
@@ -6001,7 +5996,12 @@
   "스페이스XAI,그록4.5출시…\"오퍼스급모델\"",
   "스페이스X,나스닥100편입후이틀연속하락…첫거래가밑돌아",
   "미·이란충돌재점화에뉴욕증시혼조…반도체주는안정찾아",
-  "[브랜드평판]KT,통신상장기업7월1위...SK텔레콤,LG유플러스뒤쫓..."
+  "[브랜드평판]KT,통신상장기업7월1위...SK텔레콤,LG유플러스뒤쫓...",
+  "리가켐바이오\"ADC넘어차세대플랫폼승부\"",
+  "뉴욕증시,중동긴장에다우1%↓…반도체반등에나스닥은올라[월스트...",
+  "[N2모닝경제브리핑-7월9일]美증시,미·이란긴장속혼조세마감...",
+  "[데스크칼럼]몽니일까,신기루일까",
+  "하이닉스나스닥데뷔…최태원,AI메모리세일즈나선다"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,13 @@
   [
    "2026-07-09T06:22:15.624760+09:00",
    "뒤쫓 7월 LG유플러스 ~KT ~LGU 상장기업 ~SKT 1위 통신"
+  ],
+  [
+   "2026-07-09T06:24:16.431594+09:00",
+   "데뷔 메모리 나선다 하이닉스 세일즈 나스닥"
   ]
  ],
- "last_run": "2026-07-09T06:22:36.781419+09:00",
+ "last_run": "2026-07-09T06:24:34.013037+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
