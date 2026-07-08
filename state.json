@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628462",
-  "https://view.asiae.co.kr/article/2026070711163273116",
-  "https://www.newspim.com/news/view/20260707000383",
-  "https://biz.heraldcorp.com/article/10800634",
-  "https://www.sidae.com/article/2026070711072690163",
-  "https://www.yna.co.kr/view/AKR20260707062200004?input=1195m",
-  "https://www.g-enews.com/view.php?ud=202607071113597586a9fc143920_1",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310333",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260707010002406",
-  "https://www.nocutnews.co.kr/news/6544204",
-  "https://www.mk.co.kr/article/12092149",
   "https://dealsite.co.kr/articles/164881",
   "https://www.joongangenews.com/news/articleView.html?idxno=531017",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=82998",
@@ -2999,20 +2988,20 @@
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572621218611",
   "https://www.etnews.com/20260708000060",
   "https://news.mtn.co.kr/news-detail/2026070710525665733",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272634"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272634",
+  "https://www.etnews.com/20260708000061",
+  "https://www.sportschosun.com/baseball/2026-07-08/202607080100050300003020",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3629492",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132749",
+  "https://www.thisisgame.com/articles/427526",
+  "https://www.sentv.co.kr/article/view/sentv202607080021",
+  "https://www.cstimes.com/news/articleView.html?idxno=712630",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132759",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132748",
+  "https://zdnet.co.kr/view/?no=20260708093035",
+  "http://www.srtimes.kr/news/articleView.html?idxno=206991"
  ],
  "seen_titles": [
-  "프로토승부식80회차,삼성-LG주중선두권대결등KBO10경기대상발...",
-  "\"무료로책읽어요\"…BC카드,밀리의서재구독이벤트진행",
-  "하남시,위례중서학교폭력예방캠페인…30여명참여",
-  "ETRI\"오픈소스리스크공동대응…'출연연협의체'확대·운영\"",
-  "[GAM]SK하이닉스미국행에몰린큰손들…흥행기대3가지이유",
-  "왜지금,비트코인채굴인가",
-  "글로벌빅테크새역사쓴삼성전자,하반기는더좋다",
-  "서울시민대학'AI마스터위크'…석학특강부터기술체험까지",
-  "\"정보보안사각지대없앤다\"...코레일,‘정보보호의날’맞아보안역...",
-  "통신넘어AI플랫폼으로…18조쏟아붓는KT의'새청사진'",
-  "\"주거안정이최우선\"…경기도민,민선9기1순위과제로'내집걱정'...",
   "\"내업무도울비서직접만든다\"예탁원,AI에이전트제작경진대회",
   "코이카IBS사업통해캄보디아프놈펜AI생태계조성“AIODA,이제자...",
   "[오늘의게임·IT소식]빗썸,11번가와제휴프로모션外",
@@ -6001,7 +5990,18 @@
   "KT,정보보호투자비용총1276억원…\"통신사최대규모\"",
   "KT,7월한달간정보보호주간운영…보안마스터플랜도본격가동",
   "'아웃도어TSMC'에어울리지않는기업가치…영원무역은왜타깃이됐나...",
-  "더핑크퐁컴퍼니-KT,'아기상어홈캠'출시"
+  "더핑크퐁컴퍼니-KT,'아기상어홈캠'출시",
+  "LGU+,임직원모금액으로발달장애아동위기가정지원",
+  "트레이드'초대박'이라며,외인타자도바꿨는데...충격의타율5푼9리,...",
+  "울산교육청,지역사회민ㆍ관협력기관교육정책설명회개최",
+  "르노코리아,카카오모빌리티와맞손…SDV시대'차세대차량경험'개발",
+  "NHN,기술공유행사‘에이전틱데이’개최…전사AI도입통해사내...",
+  "SKT,T월드매장에AI도입…“상담·운영품질높인다”",
+  "SKT,전국T월드매장AI전환본격화",
+  "SK텔레콤,전국T월드매장에AI전면도입…오프라인고객경험혁신",
+  "[함께가자우리ESG]LG유플러스,임직원기부로장애아동치료비부담덜...",
+  "KT,작년정보보호에1276억원투자...국내단일기업3위",
+  "LG유플러스,KISA와AI기반음성스팸대응나서"
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,13 @@
   [
    "2026-07-08T09:30:54.984626+09:00",
    "~KT 홈캠 아기상어 출시 더핑크퐁컴퍼니"
+  ],
+  [
+   "2026-07-08T09:32:18.113990+09:00",
+   "기반 나서 LG유플러스 음성 스팸 대응 KISA와 ~LGU"
   ]
  ],
- "last_run": "2026-07-08T09:31:24.487624+09:00",
+ "last_run": "2026-07-08T09:32:35.683047+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
