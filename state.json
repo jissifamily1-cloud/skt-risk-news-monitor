@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fetv.co.kr/news/articleView.html?idxno=305630",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=268974",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=204322",
-  "https://www.seoulfn.com/news/articleView.html?idxno=632487",
-  "https://www.smartbizn.com/news/articleView.html?idxno=147581",
-  "https://www.joongangenews.com/news/articleView.html?idxno=529927",
-  "https://www.newscj.com/news/articleView.html?idxno=3413872",
   "https://dealsite.co.kr/articles/164650",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=81063",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=314443",
@@ -2999,16 +2992,16 @@
   "http://www.boannews.com/media/view.asp?idx=144580&kind=4",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=83022",
   "https://www.etoday.co.kr/news/view/2601718",
-  "https://www.news1.kr/it-science/cc-newmedia/6221930"
+  "https://www.news1.kr/it-science/cc-newmedia/6221930",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=265670",
+  "https://www.ajunews.com/view/20260708121406969",
+  "https://www.newsway.co.kr/news/view?ud=2026070816330172295",
+  "http://www.finomy.com/news/articleView.html?idxno=257068",
+  "https://economist.co.kr/article/view/ecn202607080065",
+  "https://www.newsis.com/view/NISX20260708_0003701387",
+  "https://www.mt.co.kr/world/2026/07/08/2026070816253977708"
  ],
  "seen_titles": [
-  "SKT,한국서비스품질지수27년연속1위…전산업군최장기기록",
-  "SKB,표준협회KS-SQI서초고속인터넷12년·IPTV8년연속1위",
-  "SKT,한국서비스품질지수'27년연속1위'…전산업유일",
-  "SKB,KS-SQI초고속인터넷12년,IPTV8년연속1위",
-  "SKT·SKB,한국서비스품질지수1위…“AI기반고객경험혁신성과”",
-  "시청자는외면하고방송사도지웠다…남아공전‘재방’의잔인한데이...",
-  "SKT,한국서비스품질지수이동통신부문'27년연속1위'",
   "SK브로드밴드,초고속인터넷품질12년연속1위…IPTV도8년째정상",
   "SK텔레콤·브로드밴드,이동통신·인터넷·IPTV한국서비스품질지수1위",
   "통신3사,지난해정보보호투자3675억···전년比22%↑",
@@ -6001,13 +5994,16 @@
   "캐나다안보기관,안보위협해외범죄조직에‘사이버역공’",
   "미상무부,오픈AI'GPT-5.6'전면출시승인-이르면이번주일반공개",
   "미국,GPT-5.6공개승인…오픈AI,9일출시예정",
-  "네카오·구글등8개플랫폼,가짜뉴스직접처리한다"
+  "네카오·구글등8개플랫폼,가짜뉴스직접처리한다",
+  "이재용회장,삼성파운드리사업부장과선밸리콘퍼런스참석…'파운드...",
+  "'43조실탄'장전한SK하이닉스,용인·청주팹건설'속도전'펼친다",
+  "리가켐바이오,'LCB2.0'선언…ADC넘어AI·비항암확장",
+  "마곡더그리드,첨단산업배후지주목",
+  "SKT,전국매장에AI전면도입…매장탐색부터대면상담까지",
+  "KTHCN부산방송·복지기관9곳,'복지이음협의회'출범",
+  "중국\"클로드'백도어'위험\"…美·中반도체넘어AI모델도신경전"
  ],
  "recent_sigs": [
-  [
-   "2026-07-08T11:14:16.911773+09:00",
-   "월가 3억 뽑는다 인재 직접 연봉 내건 이유"
-  ],
   [
    "2026-07-08T11:18:15.580154+09:00",
    "스마트폰으로 알아낸다는데 없이 뭐하나"
@@ -6587,9 +6583,13 @@
   [
    "2026-07-08T17:14:15.832537+09:00",
    "가짜뉴스 구글 네카오 처리한다 플랫폼 직접 8개"
+  ],
+  [
+   "2026-07-08T17:16:19.013368+09:00",
+   "클로드 신경전 반도체 위험 백도어 중국 AI모델도 넘어"
   ]
  ],
- "last_run": "2026-07-08T17:14:44.971115+09:00",
+ "last_run": "2026-07-08T17:16:36.187322+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
