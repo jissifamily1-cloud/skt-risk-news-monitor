@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6544858",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=237252",
-  "https://www.econovill.com/news/articleView.html?idxno=744611",
-  "https://www.mediapen.com/news/view/1108872",
-  "https://www.newscj.com/news/articleView.html?idxno=3415358",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=130813",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682345",
   "https://www.hankookilbo.com/news/article/A2026070810460001591?did=NA",
   "http://www.srtimes.kr/news/articleView.html?idxno=206824",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/08/2026070890150.html",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20260709038300008?input=1195m",
   "https://news.tf.co.kr/read/economy/2341334.htm",
   "http://www.fnnews.com/news/202607090816124953",
-  "https://www.sentv.co.kr/article/view/sentv202607090008"
+  "https://www.sentv.co.kr/article/view/sentv202607090008",
+  "https://biz.sbs.co.kr/article_hub/20000321474?division=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8603158",
+  "https://biz.heraldcorp.com/article/10803070",
+  "http://www.inews24.com/view/1983849",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1384288",
+  "https://www.hankookilbo.com/news/article/A2026070908520000141?did=NA",
+  "https://biz.chosun.com/it-science/ict/2026/07/09/ZZUF6UEWAVCQRB4AGP4W4EQHCQ/"
  ],
  "seen_titles": [
-  "삼성전자AI인프라에최적화된고성능기업용SSD'PM1763'양산",
-  "전국화이트해커부산에집결하라…'핵시움부산'시동",
-  "LG유플러스,임직원과발달장애아동지원나서",
-  "\"이젠AI인프라사업자로변신\"...정재헌SKT대표,AIDC에승부수",
-  "현대·롯데百,2026년국가고객만족도백화점부문'공동1위'(종합)",
-  "삼성전자,‘베라루빈’탑재eSSD양산개시",
-  "삼전,잘나갈수록위험도커진다…일본이소환한1986년'악몽'",
   "SOOP,MSI팬페스타서LCK팬경험확대…팬미팅·굿즈·라이브콘텐츠...",
   "SpaceXAI·커서,첫공동AI모델공개추진…GPT-5.5경쟁예고",
   "주가'출렁'삼성,'턴키서비스'부각…이재용,선밸리서글로벌영업...",
@@ -6001,7 +5994,14 @@
   "SK증권\"LG유플러스,2분기실적개선·주주환원확대기대\"",
   "SK하이닉스나스닥상장직접챙긴다…최태원회장미국行전망",
   "\"최태원회장님,애아빠가화많이났어요\"…SK하닉'상투'개미들웃픈...",
-  "SK하이닉스‘가치10배’키운다…최태원,나스닥상장맞춰미국행"
+  "SK하이닉스‘가치10배’키운다…최태원,나스닥상장맞춰미국행",
+  "뉴욕증시,중동긴장재점화에혼조…나스닥만상승",
+  "[성공예감]삼전닉스주가궁금하면,GPU임대가격을보세요–곽상준...",
+  "SKT,AI가만든사회적효용‘숫자화’나선다",
+  "kt밀리의서재,10주년기념도서'독서라는사건'출간",
+  "최태원,뉴욕行…SK하이닉스AI가치알린다",
+  "중국,자국AI기업에엔비디아H200구매허용",
+  "KT,유엔·ITU서‘AI신뢰인프라’논의…“에이전트AI시대표준협..."
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,21 @@
   [
    "2026-07-09T08:52:14.628865+09:00",
    "LG유플러스 주주환원 ~LGU 2분기 기대 SK증권 실적 개선 확대"
+  ],
+  [
+   "2026-07-09T08:58:17.340064+09:00",
+   "나선다 사회적 ~SKT 만든 효용 AI가 숫자화"
+  ],
+  [
+   "2026-07-09T08:58:17.340064+09:00",
+   "가치 SK하이닉스 알린다 뉴욕"
+  ],
+  [
+   "2026-07-09T08:58:17.340064+09:00",
+   "에이전트 표준 ~KT 논의 시대 인프라 ITU서 유엔 신뢰"
   ]
  ],
- "last_run": "2026-07-09T08:56:30.724407+09:00",
+ "last_run": "2026-07-09T08:58:40.242360+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
