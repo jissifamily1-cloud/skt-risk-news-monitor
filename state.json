@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628867",
-  "https://www.asiatime.co.kr/article/20260707500321",
-  "https://www.news1.kr/finance/general-finance/6219152",
-  "https://www.joongangenews.com/news/articleView.html?idxno=531113",
-  "https://www.mk.co.kr/article/12092359",
-  "https://www.siminsori.com/news/articleView.html?idxno=400258",
-  "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55880",
   "https://www.getnews.co.kr/news/articleView.html?idxno=874379",
   "https://www.sportsseoul.com/news/read/1621091",
   "https://isplus.com/article/view/isp202607070178",
@@ -2999,16 +2992,16 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=847854",
   "https://www.kdpress.co.kr/news/articleView.html?idxno=206701",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5204555",
-  "https://www.thisisgame.com/articles/427576"
+  "https://www.thisisgame.com/articles/427576",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47091",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43399",
+  "https://biz.heraldcorp.com/article/10802189",
+  "https://www.farmnmarket.com/news/article.html?no=27012",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=220319",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=83069",
+  "https://www.mt.co.kr/tech/2026/07/08/2026070811231844737"
  ],
  "seen_titles": [
-  "대구광역시,전직원대상AI리터러시특강...행정혁신시동",
-  "경남도,여름방학초등학생인공지능(AI)디지털무료교육실시",
-  "삼성전자,잘키운‘파운드리’HBM안부럽다",
-  "우리은행개인정보유출사고,개보위정식조사착수…금감원도'주시'",
-  "엔비디아주가,195.55달러0.37%상승마감",
-  "KTunveils18tnwonAXtransformationplan",
-  "조선통신사선,남해안뱃길다시연다",
   "이준호의인공지능이야기<49>AI경부고속도로,그위를달릴차는어디...",
   "KISA·LGU+,음성스팸차단맞손...AI서비스익시오와연계",
   "‘도깨비’작가작품…혜리,황인엽과청춘·어른로맨스로돌아온다[...",
@@ -6001,7 +5994,14 @@
   "[지배구조분석A+]②SKT,이통3사중유일기업지배구조'만점'",
   "솔트룩스,글로벌FDE경쟁속AI에이전트ㆍ생성형AI사업확대에맞춰...",
   "2026년7월8일매일경제1면…삼성,엔비디아꺾고영업익'세계1위'[...",
-  "엔비디아,'둠:더다크에이지스레벨레이션'등최신게임에DLSS적용..."
+  "엔비디아,'둠:더다크에이지스레벨레이션'등최신게임에DLSS적용...",
+  "신한은행\"신한홈뱅크,시니어고객금융·생활콘텐츠채널로리뉴얼\"",
+  "'목동의맨해튼'오목교역일대,현대백화점·SBS·학원가품은자족도시...",
+  "자산운용특화‘전북KB금융타운’개소",
+  "\"AFPRO2026개막\"식품혁신스타트업200여곳한자리",
+  "솔트룩스,글로벌FDE경쟁속AI인재확보나선다",
+  "'보안'에1276억원쏟아부은KT…\"사고대응넘어예방중심체계로전환...",
+  "“AI‘딸깍’에취약점발견→해킹까지1분”…독자AI보안체계필요"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,13 @@
   [
    "2026-07-08T11:42:15.899582+09:00",
    "최신 에이지스 다크 게임에 적용 레벨레이션 DLSS"
+  ],
+  [
+   "2026-07-08T11:44:17.128451+09:00",
+   "1분 발견 취약점 딸깍 해킹까지 독자 필요 보안체계"
   ]
  ],
- "last_run": "2026-07-08T11:42:38.135856+09:00",
+ "last_run": "2026-07-08T11:44:34.805786+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
