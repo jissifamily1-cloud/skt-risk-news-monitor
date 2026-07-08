@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=153180",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155016",
-  "https://www.mt.co.kr/industry/2026/07/07/2026070713561676206",
-  "http://www.osen.co.kr/article/G1112835362",
-  "https://www.hankyung.com/article/202607070716g",
-  "https://isplus.com/article/view/isp202607070202",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715450",
   "https://www.hankyung.com/article/202607070676r",
   "https://www.news2day.co.kr/article/20260707500210",
   "https://www.ddaily.co.kr/page/view/2026070714375023512",
@@ -2999,16 +2992,16 @@
   "https://www.chosun.com/economy/tech_it/2026/07/08/RG6N3JWOABAE5GNLKPF7V6NHLU/",
   "https://www.catchnews.kr/news/articleView.html?idxno=125909",
   "https://science.ytn.co.kr/program/view.php?mcd=0082&key=202607081105498316",
-  "https://biz.heraldcorp.com/article/10802348"
+  "https://biz.heraldcorp.com/article/10802348",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=805995",
+  "https://www.public25.com/news/articleView.html?idxno=50204",
+  "https://economist.co.kr/article/view/ecn202607080031",
+  "https://vn.asiatoday.co.kr/view.php?key=20260708001117012",
+  "https://www.dongponews.net/news/articleView.html?idxno=59125",
+  "https://news.jtbc.co.kr/article/NB12307205?influxDiv=NAVER",
+  "https://www.ddaily.co.kr/page/view/2026070812121811078"
  ],
  "seen_titles": [
-  "[증시인사이트]삼성전자호실적에도7600선으로내려앉은코스피",
-  "[카드뉴스]통신3사,수십조원을투자하는이곳..왜AI데이터센터를...",
-  "LG유플러스,AI로음성스팸선제차단나선다…KISA와민관협력본격...",
-  "성민네트웍스,한국표준협회주관'서비스AI리더상'수상",
-  "'시즌최초'김도영2번카드꺼냈다...이범호타순개혁,2연패탈출하...",
-  "\"자칫AI토큰비용눈덩이처럼불어날수도…AI도'ROI'중요\"[2026한경...",
-  "[IS수원]키움,개인18연패김윤하1군엔트리제외...김성민등록",
   "산은넥스트원,광주로확장…서남권스타트업정책금융거점만든다",
   "‘모험자본투자플랫폼’오픈,이찬진\"생산적금융마중물기대\"",
   "분기영업익'100조시대'연삼성전자…HBM4출격\"하반기더좋아진다...",
@@ -6001,7 +5994,14 @@
   "“어느매장이친절한지별점으로”…SKT,T월드에AI입힌다",
   "\"팬심을자산증식의동력으로\"대신증권,8월4일까지'ktwiz테이블석'...",
   "삼성2분기영업익89.4조...엔비디아넘어세계1위",
-  "“신생아가‘엔비디아’산다”…27조원美증시유입예고,무슨일?"
+  "“신생아가‘엔비디아’산다”…27조원美증시유입예고,무슨일?",
+  "[포커스]190조불어난국민연금…'곳간지분80%'삼전닉스부담되네",
+  "KB금융,전북혁신도시에'KB금융타운'개소…국민연금연계자산운용금...",
+  "카카오페이증권,AI어닝콜공개…실시간번역·요약",
+  "ChủtịchSamsungLeeJae-yongsangMỹdựSunValley,AIsẽlàtâm...",
+  "우리은행고객정보1만7천여건유출…외주업체관리부실도마",
+  "KT,정보보호투자에1276억원...\"전문인력통신사최고수준\"",
+  "“우리집홈캠은아기상어“…KT,더핑크퐁컴퍼니와협업"
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,17 @@
   [
    "2026-07-08T14:12:16.396618+09:00",
    "증시 산다 무슨 예고 27조원 신생아가 유입"
+  ],
+  [
+   "2026-07-08T14:14:15.927559+09:00",
+   "삼전닉스 곳간 불어난 지분 190조 국민연금 부담되네"
+  ],
+  [
+   "2026-07-08T14:14:15.927559+09:00",
+   "~KT 더핑크퐁컴퍼니와 우리집 홈캠은 아기상어 협업"
   ]
  ],
- "last_run": "2026-07-08T14:12:42.811425+09:00",
+ "last_run": "2026-07-08T14:14:39.738517+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
