@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=1389015",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628790",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422239",
-  "https://www.asiatime.co.kr/article/20260707500151",
-  "https://www.khan.co.kr/article/202607071432001",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=587031",
-  "https://www.newspim.com/news/view/20260707000843",
-  "https://sports.khan.co.kr/article/202607071434003?pt=nv",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628772",
-  "https://www.etnews.com/20260707000317",
-  "https://www.viva100.com/article/20260707500726",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=249639",
   "https://www.newspim.com/news/view/20260707000611",
   "https://www.news1.kr/finance/market-exr/6220281",
@@ -2999,20 +2988,20 @@
   "https://www.econovill.com/news/articleView.html?idxno=744613",
   "https://www.newspim.com/news/view/20260707000480",
   "https://www.fashionbiz.co.kr/article/227728",
-  "https://www.viva100.com/article/20260708500613"
+  "https://www.viva100.com/article/20260708500613",
+  "http://www.metroseoul.co.kr/article/20260707500314",
+  "http://www.newsdream.kr/news/articleView.html?idxno=114188",
+  "https://isplus.com/article/view/isp202607080052",
+  "https://www.donga.com/news/Economy/article/all/20260708/134257429/1",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1007345",
+  "https://www.joongangenews.com/news/articleView.html?idxno=531420",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682318",
+  "https://www.koit.co.kr/news/articleView.html?idxno=207895",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=265571",
+  "https://www.sentv.co.kr/article/view/sentv202607080057",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244038"
  ],
  "seen_titles": [
-  "[성공예감]삼전닉스주가궁금하면,GPU임대가격을보세요–곽상준...",
-  "LG유플러스,KISA와'익시오'활용음성스팸공동대응",
-  "조성칠대전시의회의장선출…제10대전반기의장단구성",
-  "삼성전자,하반기HBM영토커질듯···비메모리는'적자행진'예상",
-  "금감원'빚투'제동…소비자권익침해강력경고",
-  "이찬진금감원장“과도한레버리지투자,가계건전성심각훼손우려...",
-  "LG유플러스-KISA,\"음성스팸차단\"MOU…AI·공공데이터연계고도화",
-  "민변\"티빙·우리카드CI유출반복…인터넷본인확인제도개편해야\"",
-  "아시아쿼터도입첫시즌누가웃었나…왕옌청,웰스대만·호주파미소...",
-  "오석진대전교육감,첫월례조회서'학생중심·현장지원'교육행정강...",
-  "KISA-LG유플러스,음성스팸대응협력",
   "밤하늘드론쇼부터조선통신사선까지…고흥녹동항,7월특별한바다축...",
   "\"이젠AI인프라사업자로변신\"...정재헌SKT대표,AIDC에승부수",
   "2년새3배큰팝업스토어시장…서울상권판도바꾼다",
@@ -6001,7 +5990,18 @@
   "[IT큐레이션]중국도오픈소스AI수도꼭지잠그나",
   "[AI판결돋보기]이배용\"나와관련된자료삭제하라\"…증거인멸교사...",
   "글로벌문화콘텐츠를만드는루키들,유니온그룹오은비·진유정인...",
-  "박상혁의원,정무위간사로민생경제활력이끈다"
+  "박상혁의원,정무위간사로민생경제활력이끈다",
+  "대한상의,韓10명중7명\"한일EU형경제공동체필요\"",
+  "신한銀\"신한홈뱅크,시니어위한금융·생활채널로리뉴얼\"",
+  "이제최원준과1개차...롯데레이예스,외국인최초3년연속안타왕향...",
+  "‘아틀라스’에놀란글로벌외신들…“현대차그룹제조업판도바꿀...",
+  "카카오페이증권,'AI어닝콜'실시간서비스오픈",
+  "KB금융,전북에자산운용특화'KB금융타운'개소",
+  "더존비즈온,한국공항공사AI플랫폼구축사업수주",
+  "\"AI시대보안이국가경쟁력\"…정보보호산업육성본격화",
+  "\"차세대AI플랫폼핵심솔루션\"…삼성전자,SSD'PM1763'양산",
+  "KT,핑크퐁과맞손…'아기상어'입은홈캠선보인다",
+  "KT'특별세무조사'받는다…회계처리과정조사"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-07-08T11:06:17.618964+09:00",
    "의원 간사로 이끈다 정무위 박상혁 민생경제 활력"
+  ],
+  [
+   "2026-07-08T11:08:19.802576+09:00",
+   "~KT 조사 회계처리과정 특별세무조사 받는다"
   ]
  ],
- "last_run": "2026-07-08T11:06:39.838036+09:00",
+ "last_run": "2026-07-08T11:08:37.592957+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
