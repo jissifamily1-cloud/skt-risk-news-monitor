@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=359945",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423909",
-  "http://www.paxetv.com/news/articleView.html?idxno=276637",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466520",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=104227",
   "http://www.newscape.co.kr/news/articleView.html?idxno=123182",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000321436?division=NAVER",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466815",
   "https://www.seoulfn.com/news/articleView.html?idxno=632988",
-  "https://www.mediapen.com/news/view/1109059"
+  "https://www.mediapen.com/news/view/1109059",
+  "https://www.g-enews.com/view.php?ud=2026070906213787fbbec65dfb_1",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165407",
+  "https://www.wikitree.co.kr/articles/1145474"
  ],
  "seen_titles": [
-  "[스마트팩토리특집-②]\"AI가공장을설계한다\"…슈나이더일렉트릭,SD...",
-  "삼성전자·LG전자,기업용SSDPM1763양산·산업용히트펌프시스템공...",
-  "SK텔레콤T월드매장AI강화,매장별별점공개에AI에이전트도입",
   "UBS“SK하이닉스美서사고국내주식팔아라”",
   "꾸준함으로에이징커브도잊은최형우,꿈의2천타점시대열까",
   "르노코리아,카카오모빌리티와車경험혁신이룬다",
@@ -6001,7 +5998,10 @@
   "[외신헤드라인]애플,브로드컴과45조원장기계약",
   "미·이란충돌재점화…다우576P급락,나스닥은AI반도체힘입어반등",
   "[뉴욕증시]트럼프강·온발언에혼조,반도체주반등···유가5%급등",
-  "[美증시특징주]네오클라우드네비우스10%급등...\"메타클라우드공포..."
+  "[美증시특징주]네오클라우드네비우스10%급등...\"메타클라우드공포...",
+  "데이터센터·반도체에돈몰린다…한국기업지갑열기전볼지표",
+  "보안사고커지는데…4대은행,정보보호투자비중되레줄어",
+  "오픈AI,GPT-5.630일규제못채우고조기공개"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,13 @@
   [
    "2026-07-09T06:32:16.471983+09:00",
    "애플 계약 45조 장기 브로드컴과"
+  ],
+  [
+   "2026-07-09T06:40:49.584477+09:00",
+   "30일 규제 조기 공개 채우고 GPT"
   ]
  ],
- "last_run": "2026-07-09T06:38:33.570363+09:00",
+ "last_run": "2026-07-09T06:41:10.322950+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
