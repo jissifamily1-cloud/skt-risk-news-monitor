@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20065192",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3629681",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3629581",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3629633",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3629674",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3629663",
   "https://www.newspim.com/news/view/20260707001047",
   "https://www.econovill.com/news/articleView.html?idxno=744613",
   "https://www.newspim.com/news/view/20260707000480",
@@ -2999,15 +2993,15 @@
   "https://www.etoday.co.kr/news/view/2601840",
   "http://www.fnnews.com/news/202607090734034560",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=167896",
-  "http://www.boannews.com/media/view.asp?idx=144576&kind=6"
+  "http://www.boannews.com/media/view.asp?idx=144576&kind=6",
+  "https://www.hankyung.com/article/2026070942466",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3628767",
+  "https://www.munhwa.com/article/11601358",
+  "http://www.newsprime.co.kr/news/article.html?no=739695",
+  "http://www.beyondpost.co.kr/view.php?ud=2026070908274044646a9e4dd7f_30",
+  "https://www.chosun.com/economy/stock-finance/2026/07/09/2OP5OSJPPRDDFEZQWHDQD2HQ2E/"
  ],
  "seen_titles": [
-  "AI인프라로산업대전환,최태원2100조승부수",
-  "KT자체AI'믿:음K2.5프로',인공지능신뢰성인증획득",
-  "구글,유럽첫상업용핵융합발전소베팅…독일'프로시마퓨전'투자...",
-  "[단독]SKAI서밋,상반기개최한다…엔비디아'GTC'와연계추진",
-  "SOOP,MSI팬페스타서LCK팬만난다…참여형이벤트운영",
-  "SOOP,MSI팬페스타기간LCK파트너구단팬미팅및현장이벤트진행",
   "투자하고야구장가자…대신증권,ktwiz테이블석쏜다",
   "밀양시·출입국청,외국인계절근로자제도개선간담회개최",
   "국민의힘박상웅의원,국도79호선부곡온천대교건설,국가도로망계...",
@@ -6001,7 +5995,13 @@
   "최태원,SK하이닉스나스닥상장기념식참석위해방미…AI빅테크회동...",
   "오픈AI,GPT-5.6오늘전세계에공개[글로벌AI브리핑]",
   "미국증시다우지수'뚝'...엔비디아'급등'vsSW·소비주'뚝'",
-  "[배종찬의보안빅데이터]사람을때릴수도있는해킹로봇위협"
+  "[배종찬의보안빅데이터]사람을때릴수도있는해킹로봇위협",
+  "\"삼전닉스밸류에이션역사적저점…저평가아닐가능성\"",
+  "박상혁,국회정무위후반기간사선임…\"민생최우선\"",
+  "울산대학·기업,AI데이터센터운영전문인력양성맞손…시,“인재양...",
+  "LG유플러스,AI데이터센터로고성장지속'주목'…\"실현가능한독보적...",
+  "kt밀리의서재,창립10주년기념《독서라는사건》출간",
+  "엔비디아다시날았다…‘11년만의최저PER’에3%대반등"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,21 @@
   [
    "2026-07-09T08:31:00.268856+09:00",
    "위협 있는 사람을 때릴 수도 로봇"
+  ],
+  [
+   "2026-07-09T08:32:17.897838+09:00",
+   "주목 ~LGU LG유플러스 고성장 지속 데이터센터로 가능한 실현 독보적"
+  ],
+  [
+   "2026-07-09T08:32:17.897838+09:00",
+   "밀리의서재 ~KT 기념 창립 독서라는 사건 10주년 출간"
+  ],
+  [
+   "2026-07-09T08:32:17.897838+09:00",
+   "최저 반등 PER 날았다 만의 다시 11년"
   ]
  ],
- "last_run": "2026-07-09T08:31:17.545945+09:00",
+ "last_run": "2026-07-09T08:32:39.864189+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
