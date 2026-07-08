@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260707171400007?input=1195m",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3629144",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607070445&t=NN",
-  "https://www.starnewskorea.com/sports/2026/07/07/2026070721021163922",
-  "http://www.stoo.com/article.php?aid=107619635444",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422524",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260707210541BBB",
-  "https://sports.donga.com/sports/article/all/20260707/134254706/1",
-  "https://www.mydaily.co.kr/page/view/2026070721084425405",
-  "https://www.xportsnews.com/article/2169360",
-  "http://www.osen.co.kr/article/G1112835637",
   "https://sports.khan.co.kr/article/202607072108003?pt=nv",
   "https://www.starnewskorea.com/sports/2026/07/07/2026070721074593606",
   "https://www.starnewskorea.com/sports/2026/07/07/2026070716255838718",
@@ -2999,20 +2988,20 @@
   "https://www.insnews.co.kr/news/articleView.html?idxno=91742",
   "https://www.sedaily.com/article/20065369",
   "http://www.inews24.com/view/1983719",
-  "https://www.hankyung.com/article/202607083340i"
+  "https://www.hankyung.com/article/202607083340i",
+  "https://www.ajunews.com/view/20260708152924373",
+  "https://m.sports.naver.com/basketball/article/065/0000299455",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849072",
+  "https://www.mydaily.co.kr/page/view/2026070815423791109",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3630130",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272692",
+  "https://news.tf.co.kr/read/economy/2341219.htm",
+  "https://www.sentv.co.kr/article/view/sentv202607080152",
+  "https://www.mk.co.kr/article/12093525",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260708.99099002461",
+  "https://www.newsis.com/view/NISX20260708_0003701283"
  ],
  "seen_titles": [
-  "바이낸스,삼전닉스파생투자의명과암",
-  "변동성‘늪’빠진코스피…레버리지의역습[스페셜리포트]",
-  "[데일리안오늘뉴스종합]삼성전자'어닝서프라이즈',코스피쇼크,'...",
-  "소형준7이닝KKKKK무실점완벽투,배정대3안타2타점폭발...KT,키움...",
-  "‘46일만의결승타’안우진무너뜨린KT배정대,힐리어드몫메운해...",
-  "'소형준역투+배정대맹타'KT,꼴찌키움잡고2연승",
-  "[프로야구수원전적]kt3-0키움",
-  "대전교육감첫인사,'미래교육역량고려'해명에도학·인맥사천(私薦...",
-  "'세계1위'오른날7%빠진삼전주가…외국인'2조'던졌다",
-  "[한번에쓱]'마법에성에가면누가있다?'",
-  "'소형준7이닝무실점호투'KT,안우진무너뜨리고키움에3-0신승",
   "[종합]\"닥터지,팬마음투표,푸드페스타,소휘,알룰로스액상\"등7월7일...",
   "\"하반기에도초호황\"…반도체'슈퍼사이클'어디까지?",
   "신인이팀을구했다…SSG김민준,데뷔첫QS앞세워팀9연패탈출견인",
@@ -6001,7 +5990,18 @@
   "KB금융,'전북KB금융타운'개소…자산운용특화금융거점구축",
   "美사이버보안당국“AI發위협혼자맞서지못해…한국과공조강화”",
   "이재용,한진만파운드리사장과'선밸리콘퍼런스'동행",
-  "“나스닥100만보지마라”…NYSE테크주담는ETF나온다"
+  "“나스닥100만보지마라”…NYSE테크주담는ETF나온다",
+  "휴대전화안면인증직접해보니…안경써도'10초인증'",
+  "‘필리핀UP출신가드’제리아바디아노,현대모비스양동근감독의...",
+  "이강철KT감독\"소형준,답이나오는투수\"",
+  "\"마지노선3위였는데...\"전반기계획맞아떨어졌다,강철매직도대만족...",
+  "경남고성군,스포츠빌리지입주자모집",
+  "[마감시황]코스피,7,200선붕괴조짐…환율은29.7원폭락한1,498.5원...",
+  "네이버클라우드,미스트랄AI와전방위파트너십체결…\"글로벌제조AI수...",
+  "KT“정보보호에1276억투자…통신사최대규모”",
+  "AI해킹·양자컴시대겨냥…스텔스솔루션·린‘통합대응’구축",
+  "허위정보법적용플랫폼공개…네이버·구글·디시등8곳",
+  "\"처벌보다는사전예방\"…AI해킹막을'메가보안기업'키워야"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-07-08T16:46:15.890694+09:00",
    "나스닥100만 마라 보지 ETF 테크주 NYSE 담는 나온다"
+  ],
+  [
+   "2026-07-08T16:48:16.221799+09:00",
+   "막을 처벌보다는 키워야 사전예방 메가 보안기업"
   ]
  ],
- "last_run": "2026-07-08T16:46:39.496497+09:00",
+ "last_run": "2026-07-08T16:48:33.957376+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
