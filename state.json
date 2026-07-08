@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715418",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3628882",
-  "https://www.newspim.com/news/view/20260707000950",
-  "https://economist.co.kr/article/view/ecn202607070039",
-  "https://www.inthenews.co.kr/news/article.html?no=89036",
   "http://www.thevaluenews.co.kr/news/view.php?idx=199914",
   "https://www.it-b.co.kr/news/articleView.html?idxno=88994",
   "https://www.techm.kr/news/articleView.html?idxno=153175",
@@ -2999,14 +2994,14 @@
   "https://www.ggilbo.com/news/articleView.html?idxno=1167766",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272669",
   "https://enter.etoday.co.kr/news/view/299448",
-  "https://www.news1.kr/it-science/security-hacking/6221478"
+  "https://www.news1.kr/it-science/security-hacking/6221478",
+  "https://isplus.com/article/view/isp202607080074",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=15984",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89003",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581645981873",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79793"
  ],
  "seen_titles": [
-  "LG유플러스-한국인터넷진흥원\"음성스팸피해예방한다\"(사진추가후...",
-  "[KT박윤영號100일②]'AX플랫폼'내건새경영진…18조투자로성과...",
-  "하남시의회제10대개원…정병용의장\"성과중심의정실현\"다짐",
-  "中올해휴머노이드로봇10만대돌파전망,작년AI핵심산업230조원",
-  "금감원,'빚투·단일종목레버리지ETF'정조준…\"과열투자감독강화\"",
   "KT,스타쉽과인기캐릭터IP활용업무협력",
   "[더밸류브리핑]오늘의여신업계소식...BC카드·애큐온캐피탈",
   "'AI로음성스팸막는다'…LG유플러스,KISA와민관데이터선순환구축",
@@ -6001,41 +5996,14 @@
   "대전재산분할전문변호사,재산분할대상과특유재산의함정",
   "[IndustryInsights]D램값고공행진에도모건스탠리가\"메모리비중줄여...",
   "[비즈스타]'참교육'유태주\"김무열선배와재회한날,감격의눈물\"(...",
-  "\"AI보안취약점잡아라\"…정부,대응가이드2종발간"
+  "\"AI보안취약점잡아라\"…정부,대응가이드2종발간",
+  "[IS피플]소형준은'신성투심러'최민석이반갑다",
+  "'창립100년'유한양행,차기수장누구...첫외부출신대표가능성은",
+  "SKT,T월드매장에AI도입…\"고객친화적인서비스로진화\"",
+  "대신증권,ktwiz홈경기관람이벤트…ISA투자고객당첨기회2배",
+  "LS증권,경찰수사...'해킹이메일'에주문냈다가수십억인출사고"
  ],
  "recent_sigs": [
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "구축한다는데 풀가동하면 15GW ~SKT 데이터센터"
-  ],
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "휘젓는 기업 반도체 자립 트럼프의 명분 시장 반국유화"
-  ],
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "토성비 쓰지말고 토크노믹스 AI만 비싼 시대"
-  ],
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "이어 4조 달러 들썩 합병설에 스페이스X 거대 교환 지분 월가 테슬라"
-  ],
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "미국 1분기 살펴보니 지수 가시성 순위 뷰티"
-  ],
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "수십억 냈다가 이메일 주문 LS증권 경찰수사 인출사고"
-  ],
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "광장을 위한 자유로운"
-  ],
-  [
-   "2026-07-08T06:04:17.522080+09:00",
-   "있어 의원 쿠팡 4조5000억원 때릴 과징금 나선 저격수"
-  ],
   [
    "2026-07-08T06:06:18.251894+09:00",
    "특수에 현대건설 귀한 상륙 작전"
@@ -6603,9 +6571,13 @@
   [
    "2026-07-08T12:02:22.757609+09:00",
    "정보 방어 정부 속여 신종 지침서 막을 빼낸다 냈다"
+  ],
+  [
+   "2026-07-08T12:06:17.363960+09:00",
+   "경찰수사 이메일 수십억 인출사고 LS증권 주문냈다가"
   ]
  ],
- "last_run": "2026-07-08T12:04:32.520166+09:00",
+ "last_run": "2026-07-08T12:06:34.820067+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
