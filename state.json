@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49455",
-  "https://www.sidae.com/article/2026070811103086386",
-  "https://biz.heraldcorp.com/article/10802084",
-  "https://sateconomy.co.kr/news/view/1065579105879862",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=848713",
-  "https://www.pennmike.com/news/articleView.html?idxno=123340",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=220401",
   "https://www.kukinews.com/article/view/kuk202607080046",
   "https://biz.heraldcorp.com/article/10802086",
   "https://www.mk.co.kr/article/12093160",
@@ -2999,16 +2992,16 @@
   "http://www.inews24.com/view/1983845",
   "https://www.upkoreanews.kr/news/articleView.html?idxno=99189",
   "https://www.gpkorea.com/news/articleView.html?idxno=144518",
-  "https://www.newsis.com/view/NISX20260709_0003701903"
+  "https://www.newsis.com/view/NISX20260709_0003701903",
+  "http://www.srtimes.kr/news/articleView.html?idxno=206824",
+  "https://biz.heraldcorp.com/article/10798171",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3630530",
+  "https://www.hankyung.com/article/2026070820681",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682345",
+  "https://www.newspim.com/news/view/20260709000170",
+  "https://economist.co.kr/article/view/ecn202607080037"
  ],
  "seen_titles": [
-  "[Digital&Now]NHN,'에이전틱데이'개최",
-  "中,해킹없이스마트폰으로뭐하나알아낸다는데",
-  "韓70%\"EU형한일경제공동체추진해야\"...日60%'찬성'",
-  "\"AI시대,무엇을배우고가르칠것인가\"",
-  "노소영아트센터나비관장'AI시대배움'공개강연",
-  "권혁빈,‘세기의이혼소송’내달마지막변론…스마일게이트,지배구...",
-  "[1인가구생활금융]반복되는보험가입전화…개인정보부터점검해야",
   "쇼핑앱이카페까지추천…에이블리의새실험",
   "스페이스X주가최저수준…우주ETF‘수익률털썩’",
   "경찰압수코인보관맡나…두나무,수탁사업우선협상대상자",
@@ -6001,7 +5994,14 @@
   "中,알리바바·딥시크에엔비디아H200구매허용추진",
   "현대자동차,젠슨황이주목한것은GPU고객아닌'AI학습생태계'…5...",
   "젠슨황,서울에AI기술센터설립…'마곡'유력후보지로부상",
-  "KT알파,창립35주년비전선언…\"모든경쟁력하나로이을것\""
+  "KT알파,창립35주년비전선언…\"모든경쟁력하나로이을것\"",
+  "SKT'해인'클러스터,국내첫CSAP인증…데이터보안신뢰도↑",
+  "“120만원→50만원,이게웬일이냐”삼성이례적‘할인’에…이통사...",
+  "여름휴가철맞아용인시,워터파크·음료매장식품위생점검",
+  "[기고]불확실성·AI에이전트의시대…브랜드가경쟁력이되는이유",
+  "오픈AI,월가인재직접뽑는다…연봉3억내건이유",
+  "[AIMY증시전망]반도체반등기대…저가매수유입전망",
+  "비큐AI,한국인공지능·데이터산업협회와업무협약…AI데이터공급망..."
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-07-09T09:01:06.682398+09:00",
    "고객 주목한 아닌 생태계 GPU 현대자동차 학습 젠슨 것은 황이"
+  ],
+  [
+   "2026-07-09T09:02:16.970660+09:00",
+   "데이터산업협회와 비큐AI 공급망 한국인공지능 업무협약 데이터"
   ]
  ],
- "last_run": "2026-07-09T09:01:37.875408+09:00",
+ "last_run": "2026-07-09T09:02:38.717956+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
