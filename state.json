@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.ifm.kr/news/articleView.html?idxno=474620",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=212919",
-  "https://www.mt.co.kr/tech/2026/07/08/2026070814423897767",
-  "https://www.newsis.com/view/NISX20260708_0003701019",
-  "https://www.mk.co.kr/article/12093384",
-  "https://www.news1.kr/industry/electronics/6220688",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16127760",
-  "https://www.itbiznews.com/news/articleView.html?idxno=218575",
-  "https://www.joongangenews.com/news/articleView.html?idxno=531472",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607080240&t=NNv",
-  "https://www.kbmaeil.com/article/20260707500243",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310945",
   "https://zdnet.co.kr/view/?no=20260707225823",
   "https://biz.heraldcorp.com/article/10801709",
@@ -2999,20 +2988,20 @@
   "https://www.dizzotv.com/site/data/html_dir/2026/07/09/2026070980053.html",
   "https://view.asiae.co.kr/article/2026070910304930148",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682686",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189543"
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189543",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=199826",
+  "https://www.dailian.co.kr/news/view/1665201/?sc=Naver",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682703",
+  "https://www.news1.kr/world/international-economy/6222602",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=784305",
+  "https://www.arunews.com/news/articleView.html?idxno=64721",
+  "https://www.newscj.com/news/articleView.html?idxno=3415663",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=237299",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1384379",
+  "https://www.inthenews.co.kr/news/article.html?no=89116",
+  "http://www.joynews24.com/view/1983922"
  ],
  "seen_titles": [
-  "국민대캠퍼스타운,한ㆍ일스타트업혁신생태계연계하는'2026글로벌...",
-  "KB금융,'전북KB금융타운'개소…국민연금과자산운용생태계키운다",
-  "허위조작정보의'회색지대'...플랫폼이떠안은판단의영역",
-  "'삼성전자',역대급영업익에도차익매물에주춤...美ADR상장'SK하이닉...",
-  "제15회정보보호의날화두는'AI'…사이버전도'AI대AI'시대",
-  "KT박윤영호,AX비전구체화…보안·네트워크가출발점",
-  "T1·젠지등7개구단참여…SOOP,MSI팬페스타운영",
-  "TV가은행창구된다…신한은행,시니어디지털금융강화",
-  "남편작업복세탁때문?…암진단일주일만에숨진英여성",
-  "'벌금7천만원·손배5배'칼빼든정보통신망법…'가짜뉴스'잡다'표...",
-  "오라클,MySQL커뮤니티개방성강화···AWS·구글과거버넌스구축",
   "'美수출제한풀려도앤트로픽'미토스'못쓴다,왜?",
   "美정부,인텔지분까지쥐었는데…트럼프는민주당에'공산주의'공세",
   "호실적에도급락한삼성전자…증권가“오히려매수기회”",
@@ -6001,7 +5990,18 @@
   "IPARK현대산업개발,광명하안주공6·7단지美겐슬러와협업",
   "롯데건설,'제15회정보보호의날'단체유일부총리표창",
   "KT,AI영상크리에이터발굴…청년창작자지원",
-  "이재용삼성전자회장,美선밸리서저커버그·올트먼등만나HBM파운드..."
+  "이재용삼성전자회장,美선밸리서저커버그·올트먼등만나HBM파운드...",
+  "[2026상반기리그테이블]⑤KB증권,회사채6년연속'지존(至尊)'…NH...",
+  "서울서초구,AI로그린미래도시…'2026청년디자인캠프'우수작선정",
+  "\"마이SQL,커뮤니티중심성장가속...AI기능도강화\"",
+  "스페이스XAI,AI코딩모델'그록4.5'출시…\"가장똑똑하다\"",
+  "[건설업계동향]삼성물산ㆍIPARK현대산업개발ㆍ롯데건설ㆍ부영그룹(7....",
+  "롯데건설,대한민국정보보호에기여한공로로부총리표창수상",
+  "최태원,SK하이닉스나스닥상장에미국행…빅테크회동주목",
+  "SK증권\"LG유플러스,2분기실적개선·주주환원확대기대…목표가1만...",
+  "KT알파,'SHIFT2026'발표…\"수익성넘어본질적성장이룬다\"",
+  "KT,UN·ITU주관행사서책임감있는AI와표준협력방안논의",
+  "'시간추적자설록'MC장항준\"'왕사남'단종이어조선통신사관심\""
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,17 @@
   [
    "2026-07-09T10:32:15.012627+09:00",
    "~KT KT알파 달성한 퀀텀점프 본업 키우고 AX로 박정민 혁신"
+  ],
+  [
+   "2026-07-09T10:36:16.069259+09:00",
+   "연속 지존 회사채 KB증권 6년 NH"
+  ],
+  [
+   "2026-07-09T10:36:16.069259+09:00",
+   "시간추적자 설록 관심 왕사남 조선통신사 단종 이어 MC 장항준"
   ]
  ],
- "last_run": "2026-07-09T10:34:33.682044+09:00",
+ "last_run": "2026-07-09T10:36:39.423052+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
