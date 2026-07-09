@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=805995",
-  "https://www.public25.com/news/articleView.html?idxno=50204",
-  "https://economist.co.kr/article/view/ecn202607080031",
-  "https://vn.asiatoday.co.kr/view.php?key=20260708001117012",
-  "https://www.dongponews.net/news/articleView.html?idxno=59125",
-  "https://news.jtbc.co.kr/article/NB12307205?influxDiv=NAVER",
-  "https://www.ddaily.co.kr/page/view/2026070812121811078",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422541",
-  "https://zdnet.co.kr/view/?no=20260708141311",
   "https://www.news2day.co.kr/article/20260708500125",
   "https://www.khan.co.kr/article/202607081414001",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000048617",
@@ -2999,18 +2990,18 @@
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251155",
   "http://www.econotelling.com/news/articleView.html?idxno=20867",
   "https://www.etnews.com/20260709000099",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=167910"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=167910",
+  "https://www.starnewskorea.com/sports/2026/07/09/2026070910012659243",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3630805",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3630796",
+  "https://www.itworld.co.kr/article/4194713/llm이-대화를-기억하게-하려면-에이전트-메모리-프레임.html",
+  "https://biz.heraldcorp.com/article/10803261",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068919",
+  "https://kbench.com/?q=node%2F280251",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068918",
+  "https://zdnet.co.kr/view/?no=20260709100457"
  ],
  "seen_titles": [
-  "'역대최대실적'LG전자,넥스트는AI데이터센터·로봇…하반기신사업...",
-  "공언련\"'온라인입틀막'우려현실로…표현의자유위축시키는정통...",
-  "“中,자국산최첨단AI모델해외접근제한검토”",
-  "中딥시크,자체AI칩개발나서…美수출제한에‘하드웨어경쟁’본...",
-  "LS증권,고객이메일사칭으로수십억무단인출사고…경찰수사",
-  "“어느매장이친절한지별점으로”…SKT,T월드에AI입힌다",
-  "\"팬심을자산증식의동력으로\"대신증권,8월4일까지'ktwiz테이블석'...",
-  "삼성2분기영업익89.4조...엔비디아넘어세계1위",
-  "“신생아가‘엔비디아’산다”…27조원美증시유입예고,무슨일?",
   "[포커스]190조불어난국민연금…'곳간지분80%'삼전닉스부담되네",
   "KB금융,전북혁신도시에'KB금융타운'개소…국민연금연계자산운용금...",
   "카카오페이증권,AI어닝콜공개…실시간번역·요약",
@@ -6001,7 +5992,16 @@
   "KT,UN·ITU글로벌행사참여…\"에이전틱AI시대디지털신뢰논의\"",
   "KT대학생서포터즈,'대청도'서'AI교육'봉사",
   "KT대학생IT서포터즈,인천대청도서올해첫AI교육·멘토링진행",
-  "美엔비디아·메타훈풍...한국증시HBM·CXL주'장중급등'"
+  "美엔비디아·메타훈풍...한국증시HBM·CXL주'장중급등'",
+  "'잠실서열리는야구축제'2026KBO올스타전,행사최종라인업및시...",
+  "대구보건대학교,\"커피산업경쟁력강화...산학연관협력체계구축해야...",
+  "세종시의회,조례·예산심사역량높인다…맞춤형의정연수",
+  "LLM이대화를기억하게하려면?에이전트메모리프레임워크4선",
+  "오픈서베이,AI리서치고도화…가상소비자인터뷰지원",
+  "IPARK현산광명하안주공겐슬러설계도입",
+  "DLSSSwapper에서악성코드발견,임의등록DLL주의요망",
+  "롯데건설정보보호공로로부총리표창",
+  "에버스핀‘에버세이프웹’공공체육시설부정예약원천차단"
  ],
  "recent_sigs": [
   [
@@ -6565,7 +6565,7 @@
    "장중 HBM 한국증시 훈풍 메타 CXL주 급등"
   ]
  ],
- "last_run": "2026-07-09T10:06:39.621455+09:00",
+ "last_run": "2026-07-09T10:08:35.638503+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
