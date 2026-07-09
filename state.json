@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.huffingtonpost.kr/article/258507",
-  "https://www.news1.kr/local/gyeonggi/6221519",
-  "http://www.bizwnews.com/news/articleView.html?idxno=140236",
-  "https://www.mt.co.kr/world/2026/07/08/2026070811161723854",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1168172",
   "https://www.tokenpost.kr/news/insights/375877",
   "http://www.sisacast.kr/news/articleView.html?idxno=97583",
   "https://www.newspim.com/news/view/20260708000738",
@@ -2999,14 +2994,14 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272714",
   "https://www.viva100.com/article/20260709500196",
   "https://www.news1.kr/it-science/cc-newmedia/6222516",
-  "https://www.ajunews.com/view/20260709092026132"
+  "https://www.ajunews.com/view/20260709092026132",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466933",
+  "https://news.dealsitetv.com/articles/172947",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=306601",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=846630",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=784041"
  ],
  "seen_titles": [
-  "삼성전자,엔비디아베라루빈에들어가는eSSD양산개시",
-  "미상무부,오픈AIGPT-5.6출시제한해제",
-  "[특징주]외국인·기관'삼성전자·레몬헬스케어'러브콜...'후성'은핑퐁",
-  "[월가톡톡]전골드만CEO\"돈버는것보다쓰는것이더어려워\"",
-  "리얼월드,AWS출신GTM·전략파트너십총괄영입\"RFM상용화속도\"",
   "삼성전자,차세대AI저장장치‘PM1763’양산시작...“AI플랫폼핵심...",
   "홍범식호LG유플러스,노조에임금인상률거부당하고'성과급소송'당...",
   "SKT,AI데이터센터1호내년울산서가동…영남·호남권3GW우선구축",
@@ -6001,7 +5996,12 @@
   "KT,UN·ITU와'책임감있는AI'논의",
   "KT대학생IT서포터즈‘KIT’,대청도서올해첫AI교육·멘토링진행",
   "KT대학생IT서포터즈,인천대청도에서'AI멘토링'봉사",
-  "최태원,SK하이닉스나스닥상장맞아미국행...빅테크CEO회동주목"
+  "최태원,SK하이닉스나스닥상장맞아미국행...빅테크CEO회동주목",
+  "PARK현대산업개발,광명하안주공6·7단지위해겐슬러와협업",
+  "[IT투데이]넷마블,샹그릴라프론티어:일곱최강종공개外",
+  "[단독]미래에셋증권홍콩법인\"3년내토큰화자산플랫폼추진\"",
+  "SK설립사회적가치연구원,소프트뱅크·SKT와사회적가치글로벌표준...",
+  "[위클리오늘]KT소식(7.9)"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-07-09T09:28:17.879055+09:00",
    "선언 KT알파 ~KT SHIFT"
+  ],
+  [
+   "2026-07-09T09:32:18.545656+09:00",
+   "소식 ~KT"
   ]
  ],
- "last_run": "2026-07-09T09:31:17.947387+09:00",
+ "last_run": "2026-07-09T09:32:35.415984+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
