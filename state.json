@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=310631",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310653",
-  "https://www.bigtanews.co.kr/article/view/big202607090011",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698683",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264391",
   "https://www.etoday.co.kr/news/view/2601937",
   "https://sports.khan.co.kr/article/202607091151003?pt=nv",
@@ -2999,13 +2995,13 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683000",
   "https://news.jtbc.co.kr/article/NB12307539?influxDiv=NAVER",
   "https://www.seoul.co.kr/news/economy/finance/2026/07/10/20260710500011?wlog_tag3=naver",
-  "https://www.aitimes.com/news/articleView.html?idxno=212605"
+  "https://www.aitimes.com/news/articleView.html?idxno=212605",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100171&t=NN",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100181&t=NN",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100148&t=NN",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607100185&t=NN"
  ],
  "seen_titles": [
-  "모스탄前대사,\"올림픽공원은K-혁명현장\"…\"대한민국은공산화갈...",
-  "해커가알려줄때까지몰랐다…락앤락,130만명정보유출",
-  "SK하이닉스,10일나스닥ADR상장",
-  "최태원,美나스닥오프닝벨직접울린다···7배초과청약마감",
   "KT,UN·ITU무대서AI신뢰논의…도서지역교육·커머스AX까지확장",
   "오늘도비예보…프로야구우천취소될까",
   "롯데에도분칼바람…다시돌아온박시영,최정동생최항등3명방출...",
@@ -6001,7 +5997,11 @@
   "프리즘ML,아이폰서매개변수270억개AI모델구동성공",
   "SK하이닉스,오늘나스닥상장…37조원규모자금확보나서",
   "“애아빠가많이화났어요”주가하락에‘하이닉스환불’밈확산…...",
-  "\"우리가안전성증명해야\"…알트먼,'정부규제반대'서한발물러섰다"
+  "\"우리가안전성증명해야\"…알트먼,'정부규제반대'서한발물러섰다",
+  "[한경,미증시특징주]마이크론·메타등기술주일제히폭발…AI인...",
+  "마이크론,美반도체공급망위해2,500억달러투자-[굿모닝글로벌이...",
+  "SK하이닉스,오늘밤美나스닥역사적첫발…'역대최대'36조원잭팟...",
+  "‘AI과잉투자우려’해소반도체株반등…코스트코·펩시코는실적부..."
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-07-10T06:56:15.795610+09:00",
    "증명해야 안전성 한발 반대 물러섰다 우리가 정부 규제"
+  ],
+  [
+   "2026-07-10T06:58:18.866242+09:00",
+   "공급망 달러 굿모닝 500억 투자 글로벌 마이크론 반도체"
   ]
  ],
- "last_run": "2026-07-10T06:56:40.343644+09:00",
+ "last_run": "2026-07-10T06:58:42.902976+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
