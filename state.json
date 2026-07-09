@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/insights/375877",
-  "http://www.sisacast.kr/news/articleView.html?idxno=97583",
-  "https://www.newspim.com/news/view/20260708000738",
-  "https://www.mt.co.kr/politics/2026/07/07/2026070714295238582",
-  "http://www.sportsq.co.kr/news/articleView.html?idxno=496147",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=203158",
-  "https://www.imaeil.com/page/view/2026070812285879458",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=306169",
-  "https://www.ibabynews.com/news/articleView.html?idxno=152729",
-  "http://www.apparelnews.co.kr/news/news_view/?idx=226267",
-  "https://byline.network/?p=9004111222611282",
   "https://www.cbci.co.kr/news/articleView.html?idxno=587295",
   "https://www.newsis.com/view/NISX20260708_0003700503",
   "http://www.4th.kr/news/articleView.html?idxno=2114425",
@@ -2999,20 +2988,20 @@
   "https://news.dealsitetv.com/articles/172947",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=306601",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=846630",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=784041"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=784041",
+  "http://www.wsobi.com/news/articleView.html?idxno=314959",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=874578",
+  "https://www.etoday.co.kr/news/view/2601902",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165445",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=724090",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03181606645512880",
+  "https://www.g-enews.com/view.php?ud=202607090923407876923c501012_1",
+  "https://www.newspim.com/news/view/20260709000239",
+  "https://www.cstimes.com/news/articleView.html?idxno=712806",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03188166645512880",
+  "https://www.news1.kr/industry/distribution/6222518"
  ],
  "seen_titles": [
-  "삼성전자,차세대AI저장장치‘PM1763’양산시작...“AI플랫폼핵심...",
-  "홍범식호LG유플러스,노조에임금인상률거부당하고'성과급소송'당...",
-  "SKT,AI데이터센터1호내년울산서가동…영남·호남권3GW우선구축",
-  "SK텔레콤AI클러스터'해인'보안인증취득,정재헌'풀스택AI제공자...",
-  "안민석인수위,하이러닝감사요청…특혜·위법의혹제기",
-  "[캐시워크종합]7월8일수요일낮12시현재출제되고있는문제들의...",
-  "기술주약세속미-이란재충돌위기…닛케이,0.73%↓[Asia오전]",
-  "SK하이닉스2분기실적발표일언제?",
-  "암호화폐거래소,전통자산까지삼켰다…코인게코,RWA·TradFi무기한선...",
-  "SK텔레콤,T월드매장AI도입본격화…9월AI에이전트시범운영",
-  "[미국특징주]오픈AIGPT-5.6출시제한해제…AI경쟁주도권강화나...",
   "\"당도긴장느껴야\"토론강조한김민석,첫번째카드는'메가프로젝트...",
   "BTS부터오아시스까지,경기장흔드는음악[2026월드컵]",
   "에이비일팔공,'모던그로스스택2026'연사라인업공개...OpenAI·삼성...",
@@ -6001,7 +5990,18 @@
   "[IT투데이]넷마블,샹그릴라프론티어:일곱최강종공개外",
   "[단독]미래에셋증권홍콩법인\"3년내토큰화자산플랫폼추진\"",
   "SK설립사회적가치연구원,소프트뱅크·SKT와사회적가치글로벌표준...",
-  "[위클리오늘]KT소식(7.9)"
+  "[위클리오늘]KT소식(7.9)",
+  "식품업계,보라색디저트연이어출시",
+  "[금융zip]케이뱅크,개인사업자대출누적공급액5조원돌파外",
+  "MSI탈락한T1,글로벌랭킹도'추락'⋯G2는3위로상승",
+  "스페이스XAI,금융·법률특화AI모델'그록4.5'공개",
+  "코스피,'검은수요일'딛고3%대반등…삼전·SK닉스강세",
+  "SK하이닉스,3거래일연속약세딛고반등…장중9%대↑[특징주]",
+  "코스피,3%대상승7400선복귀…삼전닉스5~8%대‘강세’",
+  "[개장시황]코스피3%대상승…반도체주강세",
+  "SKT,소프트뱅크·CESE와AI사회적가치측정협력MOU",
+  "KT알파,'시프트2026'선언…'커넥티드커머스'로유통판흔든다",
+  "KT알파'커넥티드커머스'추진…\"고객에상품·혜택유기적연결\""
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,13 @@
   [
    "2026-07-09T09:32:18.545656+09:00",
    "소식 ~KT"
+  ],
+  [
+   "2026-07-09T09:34:19.378818+09:00",
+   "상품 커넥티드 ~KT 연결 고객에 커머스 KT알파 혜택 유기적"
   ]
  ],
- "last_run": "2026-07-09T09:32:35.415984+09:00",
+ "last_run": "2026-07-09T09:34:37.294206+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
