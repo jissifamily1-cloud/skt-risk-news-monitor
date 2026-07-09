@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/562036",
-  "https://www.yna.co.kr/view/AKR20260708120400017?input=1195m",
-  "https://www.newspim.com/news/view/20260708000924",
-  "http://www.press9.kr/news/articleView.html?idxno=79108",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16127737",
-  "https://www.cstimes.com/news/articleView.html?idxno=712693",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=736378",
-  "https://www.hani.co.kr/arti/culture/culture_general/1267267.html",
-  "https://byline.network/?p=9004111222611326",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607061414428160102333",
   "https://www.topdaily.kr/articles/110892",
   "https://www.newsis.com/view/NISX20260708_0003701014",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=254658",
@@ -2999,19 +2989,19 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=846649",
   "https://zdnet.co.kr/view/?no=20260709102431",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=59978",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990122.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/09/2026070990122.html",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86571",
+  "https://www.arunews.com/news/articleView.html?idxno=64720",
+  "https://www.hankyung.com/article/202607083430r",
+  "https://biz.heraldcorp.com/article/10803331",
+  "https://www.viva100.com/article/20260709500436",
+  "https://www.youthdaily.co.kr/news/article.html?no=222480",
+  "http://www.breaknews.com/1220398",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03489926645512880",
+  "https://www.newsis.com/view/NISX20260709_0003702103",
+  "https://www.m-economynews.com/news/article.html?no=68575"
  ],
  "seen_titles": [
-  "나스닥입성앞둔SK하이닉스…‘코리아디스카운트해소’vs‘韓증시...",
-  "\"현금낼게요\"미국판'셔세권'…AI가밀어올린샌프란시스코집값",
-  "IBM,소형IBMz17·리눅스원시스템출시",
-  "롯데·현대百,국가고객만족도백화점부문공동1위",
-  "KB금융,전북혁신도시에'전북KB금융타운'개소…자산운용·혁신성장거...",
-  "'억만장자들의여름캠프'참석하는이재용,빅테크와AI반도체협력주...",
-  "삼성전자가'AI인프라의핵심'SSD양산을시작했다:16TB에서'2배개...",
-  "주금공,부울경사이버보안교육센터개소",
-  "새만금청-전북도-군산시-농공-드림라인,'초고속국제해저광케이블육...",
-  "국세청KT특별세무조사...MS계약·리본·밀리거래선까지보나",
   "[테크스냅]ktHCN·부산복지기관,'복지이음협의회'출범",
   "[일본특징주]아사히,해킹충격딛고올해사상최대실적예고",
   "신한은행,'신한홈뱅크'시니어금융채널개편",
@@ -6001,7 +5991,17 @@
   "[특징주]SK하이닉스,美ADR공모7배초과소식에8%↑",
   "KT대학생IT서포터즈,대청도학생에AI교육",
   "KT클라우드IPO빌드업?…\"데이터센터1GW확장\"",
-  "오픈AI,차세대음성모델공개…사용자음성실시간으로듣고대화·통역"
+  "오픈AI,차세대음성모델공개…사용자음성실시간으로듣고대화·통역",
+  "올하반기분양시장'복합개발'바람…주거·상업·문화한데묶은단...",
+  "삼성물산,2026FutureScape킥오프",
+  "트웰브랩스,1500억시리즈B투자유치[VC브리핑]",
+  "“1년중가장바쁜출장”이재용,파운드리수장과글로벌재계모임...",
+  "IPARK현산,하안주공6·7단지재건축설계에글로벌설계사‘겐슬러’...",
+  "AI에이전트확산으로사내AX속도높인다…NHN,'클로드'전사도입",
+  "KT,Y아티스트레이블AI영상공모전성료..청년크리에이터6인최종...",
+  "[MUSTKNOW5]엔비디아,주가가실적을못따라간다?...AI기대감'여전'",
+  "엔비디아몸값왜낮아졌나…선행PER2019년수준으로",
+  "네이버등국내외8대플랫폼,허위조작정보대응의무대상지정"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,21 @@
   [
    "2026-07-09T10:26:17.045030+09:00",
    "법으로 청소년 해결될까 SNS 막으면"
+  ],
+  [
+   "2026-07-09T10:30:53.729656+09:00",
+   "기대감 여전 못따라간다 주가가 실적을"
+  ],
+  [
+   "2026-07-09T10:30:53.729656+09:00",
+   "선행 몸값 낮아졌나 수준으로 2019년 PER"
+  ],
+  [
+   "2026-07-09T10:30:53.729656+09:00",
+   "대상 대응 플랫폼 허위조작정보 국내외 지정 의무 8대 네이버"
   ]
  ],
- "last_run": "2026-07-09T10:28:33.160948+09:00",
+ "last_run": "2026-07-09T10:31:22.488116+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
