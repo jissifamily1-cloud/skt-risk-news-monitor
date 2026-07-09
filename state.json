@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260708154534xZE",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030081886&code=61141311&cp=nv",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311173",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311172",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3630037",
-  "https://www.news2day.co.kr/article/20260708500116",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=265655",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000048664",
   "http://www.paxetv.com/news/articleView.html?idxno=276661",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=604118",
@@ -2999,16 +2992,16 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03663766645512880",
   "http://www.seouleconews.com/news/articleView.html?idxno=92296",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260709010003402",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335661"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335661",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240300",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441942",
+  "https://zdnet.co.kr/view/?no=20260708153721",
+  "https://www.100ssd.co.kr/news/articleView.html?idxno=210982",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240303",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=242126",
+  "http://www.itdaily.kr/news/articleView.html?idxno=240301"
  ],
  "seen_titles": [
-  "이재용회장,파운드리사업부장과선밸리行…AI반도체수주전주목",
-  "SK텔레콤,T월드에AI에이전트도입…상담부터매장운영까지지원",
-  "中딥시크도‘홀로서기’⋯‘脫엔비디아’에K-반도체웃나",
-  "신재인과김주오,야수1라운더들의자존심대결결과는…퓨처스올스...",
-  "美승인거친GPT-5.6나온다…프론티어AI사전검토,관행되나",
-  "[이로운상생]KB금융,'전북KB금융타운'개소...자산운용특화금융거점...",
-  "이재용,美선밸리콘퍼런스참석…빅테크회동가능성",
   "NHN,기술공유행사개최···에이전트기반업무문화정착박차",
   "'정보보호의날'맞아통신3사CISO집결…AI보안전략공유",
   "이재용,'억만장자클럽'선밸리참석…파운드리사업부장동행",
@@ -6001,7 +5994,14 @@
   "고려대,AWS도놓친HTTP/2보안취약점찾아냈다…신종해킹기법선제...",
   "정부,허위조작정보대응체계본격가동…네이버·구글등플랫폼9곳관...",
   "초등생낀日10대해킹…생성AI로만든프로그램에724만건털렸다",
-  "李캠프출신논란후임이사KBS정재권구창훈EBS김선남"
+  "李캠프출신논란후임이사KBS정재권구창훈EBS김선남",
+  "생성형AI넘어피지컬AI시대…SKAX,자율공장시장공략",
+  "우주AI인프라더이상'공상과학'아니다,모간스탠리\"삼성전자SK하...",
+  "클로드,국내점유율역대최고…에이전트업고코파일럿제쳤다",
+  "롯데건설,'정보보안수준향상기여'공로…단체유일'부총리'표창",
+  "SKT-소프트뱅크,AI가치측정방법론함께개발한다",
+  "SK하이닉스,미국서43조원규모ADR상장…최태원회장뉴욕방문",
+  "KT,UN·ITU글로벌서밋서AI시대'신뢰기본요소'논의"
  ],
  "recent_sigs": [
   [
@@ -6713,7 +6713,7 @@
    "구창훈 김선남 논란 후임 KBS 이사 EBS 정재권 출신 캠프"
   ]
  ],
- "last_run": "2026-07-09T11:04:42.971519+09:00",
+ "last_run": "2026-07-09T11:06:32.217684+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
