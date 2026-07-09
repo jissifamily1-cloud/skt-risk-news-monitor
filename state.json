@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202518",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008646996&plink=ORI&cooper=NAVER",
-  "https://news.jtbc.co.kr/article/NB12307207?influxDiv=NAVER",
-  "https://www.nocutnews.co.kr/news/6545006",
-  "http://www.4th.kr/news/articleView.html?idxno=2114431",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125968",
-  "http://journal.kobeta.com/?post_type=post&p=63211",
-  "https://www.ajunews.com/view/20260708140221116",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030076611&code=61141511&cp=nv",
-  "https://www.hankyung.com/article/2026070828566",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681139",
   "https://www.ytn.co.kr/_ln/0104_202607081431220118",
   "https://www.yna.co.kr/view/AKR20260708116700009?input=1195m",
   "https://www.sidae.com/article/2026070813563657533",
@@ -2999,20 +2988,20 @@
   "https://www.ytn.co.kr/_ln/0102_202607091013301667",
   "https://biz.heraldcorp.com/article/10803286",
   "https://www.abcn.kr/news/articleView.html?idxno=89163",
-  "https://biz.chosun.com/topics/topics_social/2026/07/09/ET5WVM3KERHV3N2LNEIDBWLCTU/"
+  "https://biz.chosun.com/topics/topics_social/2026/07/09/ET5WVM3KERHV3N2LNEIDBWLCTU/",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=466952",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3630799",
+  "https://magazine.hankyung.com/business/article/202607094791b",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251158",
+  "https://www.etnews.com/20260709000122",
+  "https://biz.heraldcorp.com/article/10803299",
+  "http://www.fnnews.com/news/202607091006231871",
+  "https://www.sentv.co.kr/article/view/sentv202607090056",
+  "https://www.dailian.co.kr/news/view/1665188/?sc=Naver",
+  "https://zdnet.co.kr/view/?no=20260709100949",
+  "http://www.popcornnews.net/news/articleView.html?idxno=126091"
  ],
  "seen_titles": [
-  "“친절한매장어디?”…SKT,AI로T월드별점공개",
-  "[데스크칼럼]박윤영KT사장의100일'단단한본질'",
-  "정읍서창작공연'컬러링비빔발레'성황리마무리",
-  "휴대폰성수기앞두고판매점일제단속…불법영업사전차단",
-  "전문학서구청장\"구민안전최우선\"…호우주의보에비상대응돌입",
-  "전북혁신도시에'KB금융타운'개소…양종희\"자산운용특화금융생태계...",
-  "머스크,우주·AI묶은'스페이스XAI'로차세대인프라시장노린다",
-  "KB금융그룹,'전북KB금융타운'개소···지역경제활성화,국가균형발...",
-  "성안당,디자이너AI창작워크플로우실전가이드'ComfyUI독학노트'발...",
-  "르노코리아,카카오모빌리티와미래모빌리티개발협력추진",
-  "800조반도체벨트,'이것'없으면멈춘다…대한민국운명건메가프로...",
   "엔디비아못쓰니자체개발?…\"중국딥시크,AI칩만든다\"",
   "주금공,부산서'부울경사이버보안교육센터'문열어",
   "LS증권,외국인투자자이메일사칭에수십억원인출",
@@ -6001,7 +5990,18 @@
   "최태원회장,SK하이닉스ADR상장맞아미국행",
   "코스피,간만에보는빨간불행렬…최태원미국행에SK하이닉스8%↑[투...",
   "\"AI아는리더보다함께일하는리더가으뜸\"",
-  "“오늘4이드카에다큰낙타”…급등락장에등장한‘개미암호’"
+  "“오늘4이드카에다큰낙타”…급등락장에등장한‘개미암호’",
+  "집만짓는시대끝…복합개발단지,하반기분양시장달군다",
+  "표선고IB선배들,후배들진로멘토로나섰다",
+  "“13조원쏜다”메타캐나다에첫데이터센터",
+  "SKT,소프트뱅크·CSES와손잡고AI사회적가치측정방법론개발",
+  "통신사ESG핵심지표떠오른'탄소집약도'…KT·LG유플러스3년연속감...",
+  "KT알파,‘SHIFT2026’선포…“AI기반커넥티드커머스전환”",
+  "KT대학생서포터즈KIT,도서지역AI교육나섰다",
+  "“AI에이전트시대,신뢰기준은?”KT,유엔·ITU행사서발표",
+  "오픈AI,말끊김줄인'챗GPT보이스'공개",
+  "에이비일팔공,‘모던그로스스택2026’21일개최...오픈AI·삼성·무...",
+  "\"인터넷보안'사각지대'찾았다\"고려대연구팀,신종해킹수법선제..."
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,17 @@
   [
    "2026-07-09T10:16:18.436595+09:00",
    "미국행에 간만에 보는 빨간불 SK하이닉스 코스피 행렬"
+  ],
+  [
+   "2026-07-09T10:18:16.316484+09:00",
+   "21일 삼성 에이비일팔공 개최 모던 스택 그로스"
+  ],
+  [
+   "2026-07-09T10:18:16.316484+09:00",
+   "선제 고려대 찾았다 연구팀 수법 보안 신종 사각지대 인터넷"
   ]
  ],
- "last_run": "2026-07-09T10:16:41.610344+09:00",
+ "last_run": "2026-07-09T10:18:40.539038+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
