@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311178",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310524",
-  "https://sports.donga.com/economy/article/all/20260708/134255920/1",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8605037",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1384128",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715607",
   "http://www.fnnews.com/news/202607081618414993",
   "https://www.namdonews.com/news/articleView.html?idxno=916287",
   "https://www.delighti.co.kr/news/articleView.html?idxno=118774",
@@ -2999,15 +2993,15 @@
   "https://www.insight.co.kr/news/562241",
   "https://www.news1.kr/finance/general-stock/6222824",
   "https://www.newsis.com/view/NISX20260709_0003702369",
-  "https://biz.heraldcorp.com/article/10803519"
+  "https://biz.heraldcorp.com/article/10803519",
+  "http://www.osen.co.kr/article/G1112836596",
+  "https://www.newsis.com/view/NISX20260709_0003702354",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=736484",
+  "https://biz.heraldcorp.com/article/10803537",
+  "https://zdnet.co.kr/view/?no=20260709112716",
+  "https://www.bloter.net/news/articleView.html?idxno=667674"
  ],
  "seen_titles": [
-  "정부,'정보보호의날'맞아사이버주권선언···\"이통3사CISO모여\"",
-  "이재용회장,2년연속美선밸리콘퍼런스참석…한진만사장대동하며...",
-  "[위기관리리스크:내부통제]LS증권,이메일해킹으로외국인투자자수...",
-  "“이제화웨이쓴다”…‘탈엔비디아’빨라지는中기업",
-  "메모리호황뒤남은퍼즐…삼성파운드리,2나노로부활신호탄쏠까",
-  "LS증권,해킹된이메일에주식주문…외국인투자자수십억원피해",
   "롯데카드,‘대한항공마일리지적립법인카드’출시",
   "‘영남권첨단산업’312조원…경남투자규모는?",
   "이재용,한진만사장과美선밸리참석…파운드리추가수주기대",
@@ -6001,7 +5995,13 @@
   "박현주미래에셋3.0,첫실물은코빗...기업결합승인완료",
   "미래에셋,코빗인수승인완료…\"글로벌자산시장새표준만든다\"",
   "고려대,인터넷'보안사각지대'찾았다…국제표준시스템등록",
-  "울산시,대한민국산업인공지능전환거점‘본격화’"
+  "울산시,대한민국산업인공지능전환거점‘본격화’",
+  "롯데도선수단정리,'최정동생'최항결국방출-'롯데컴백'박시영도...",
+  "'선수단정리'롯데,투수박시영·내야수최항등3명방출",
+  "SK,제조로봇연구·사회적가치평가병행",
+  "KT,ITU행사서‘AI신뢰’확보방안제시",
+  "KT알파,창립35주년맞아새비전'커넥티드커머스'공개",
+  "[단독]최태원·김희영의티앤씨재단,SK한국고등교육재단에새둥지"
  ],
  "recent_sigs": [
   [
@@ -6739,9 +6739,13 @@
   [
    "2026-07-09T11:28:17.909594+09:00",
    "글로벌 논의부터 구축 신뢰 규범 취약층 교육까지 주력 ~KT"
+  ],
+  [
+   "2026-07-09T11:32:16.828120+09:00",
+   "둥지 SK 티앤씨재단 한국고등교육재단에 김희영의"
   ]
  ],
- "last_run": "2026-07-09T11:31:19.513075+09:00",
+ "last_run": "2026-07-09T11:32:34.471826+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
