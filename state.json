@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/594580",
-  "https://news.ifm.kr/news/articleView.html?idxno=474593",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86507",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3629810",
-  "http://www.popcornnews.net/news/articleView.html?idxno=125855",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5038791",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=698381",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03817926645512552",
-  "https://zdnet.co.kr/view/?no=20260703110717",
   "https://zdnet.co.kr/view/?no=20260708012913",
   "https://www.kwnews.co.kr/article/20260708500388",
   "https://www.naeil.com/news/read/594651",
@@ -2999,18 +2990,18 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1715677",
   "https://biz.heraldcorp.com/article/10803165",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682652",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682655"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682655",
+  "https://www.dt.co.kr/article/12071600",
+  "https://biz.sbs.co.kr/article_hub/20000321470?division=NAVER",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682666",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132802",
+  "https://www.wikitree.co.kr/articles/1145497",
+  "https://www.yna.co.kr/view/AKR20260709044751008?input=1195m",
+  "https://www.dailian.co.kr/news/view/1665150/?sc=Naver",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1168334",
+  "http://www.joseilbo.com/news/news_read.php?uid=571567&class=78"
  ],
  "seen_titles": [
-  "삼전,AI인프라최적화SSD선보여",
-  "SKT,티월드매장에인공지능입힌다",
-  "한춘옥예산결산특별위원장\"22조원통합재정,공정하게심사\"",
-  "프로2년차,에이스가떠오른다면믿으시겠습니까…비상하는최민석",
-  "창원시청년예술인창작공간,3개팀추가모집",
-  "울산항만공사,재난관리평가2년연속'우수기관'선정",
-  "AB180,‘모던그로스스택2026’주요연사공개",
-  "에이비일팔공,'MGS262026'연사라인업공개",
-  "딥시크,자체추론용AI칩개발",
   "\"라마-3모델1.4초만에\"…삼성전자,PCIe6.0기반차세대AIeSSD'PM1763...",
   "KT,연1,000억이상보안투자지속…AI시대'예방중심'체계전환",
   "계명대김대건교수연구팀,51개국연구개발효율성분석...혁신환경이...",
@@ -6001,7 +5992,16 @@
   "최태원DBL철학,AI시대로확장…SKT·소프트뱅크'사회적가치표준'...",
   "“지금보다10배더커져야한다”…최태원,SK하이닉스나스닥상장에...",
   "KT,UN·ITU글로벌행사참여…AI신뢰인프라표준논의",
-  "오픈AI,챗GPT보이스에새음성모델적용"
+  "오픈AI,챗GPT보이스에새음성모델적용",
+  "통신3사,해킹후폭풍속2분기엇갈린성적표",
+  "[이시각시황]코스피나흘만에반등…반도체주일제히강세",
+  "오픈서베이,소비자조사플랫폼에'합성소비자와대화'기능도입",
+  "IPARK현대산업개발,광명재건축에해외설계첫도입…'아이파크'새판...",
+  "나스닥데뷔전부터들썩…SK하이닉스상장앞두고미국에서벌어진일",
+  "코스피,연이틀급락딛고3%대반등…삼전·닉스급등(종합)",
+  "SKT,소프트뱅크와AI사회적가치측정표준개발나선다",
+  "SK하이닉스,나스닥상장공모가언제나오나",
+  "中,엔비디아H200구매제한적허용검토…알리바바·딥시크대상"
  ],
  "recent_sigs": [
   [
@@ -6473,7 +6473,7 @@
    "ADR상장 나스닥 SK하닉 회장 출발 미국으로"
   ]
  ],
- "last_run": "2026-07-09T09:41:07.270295+09:00",
+ "last_run": "2026-07-09T09:42:36.873541+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
