@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.datanews.co.kr/news/article.html?no=145532",
-  "https://www.lecturernews.com/news/articleView.html?idxno=205931",
-  "http://www.itdaily.kr/news/articleView.html?idxno=240312",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467078",
-  "https://www.lecturernews.com/news/articleView.html?idxno=205962",
-  "https://www.koit.co.kr/news/articleView.html?idxno=207926",
-  "http://www.metroseoul.co.kr/article/20260709500291",
   "https://www.ekn.kr/web/view.php?key=20260708029450582",
   "http://www.segyebiz.com/newsView/20260709516241?OutUrl=naver",
   "https://www.seoultimes.news/news/article.html?no=2000097596",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20066104",
   "https://www.sedaily.com/article/20066107",
   "https://www.mk.co.kr/article/12095133",
-  "https://biz.chosun.com/stock/stock_general/2026/07/10/Y763KTGMG5G2PKUMASCY46GJ3Y/"
+  "https://biz.chosun.com/stock/stock_general/2026/07/10/Y763KTGMG5G2PKUMASCY46GJ3Y/",
+  "https://www.sportsseoul.com/news/read/1621676",
+  "https://www.ize.co.kr/news/articleView.html?idxno=78708",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3632034",
+  "https://www.bntnews.co.kr/article/view/bnt202607100041",
+  "http://kor.theasian.asia/archives/409388",
+  "https://dealsite.co.kr/articles/165114",
+  "https://kbench.com/?q=node%2F280281"
  ],
  "seen_titles": [
-  "현대건설,건설안전스타트업12개사와협업성과공유",
-  "한국콘텐츠진흥원,멕시코한글학교서AI·K-팝·쇼트폼교육'에듀코카...",
-  "EDB,포레스터'멀티모델데이터플랫폼'리더선정",
-  "글로벌빅테크자율주행·AI개발붐…가온칩스,디자인하우스지배력...",
-  "경희대학교,바이오헬스글로벌석학멘토십뇌과학분야수행기관선정...",
-  "티맵모빌리티,'티맵숏폼'출시…AI기반이동라이프플랫폼강화",
-  "신한투자증권,정보보호투자금·인력강화...AI시대보안대응",
   "선글라스낀이재용,선밸리서‘파운드리세일즈’",
   "SK하이닉스ADR상장…AI경쟁력증명할까",
   "IPARK현대산업개발,광명하안주공6·7단지에글로벌설계입힌다",
@@ -6001,7 +5994,14 @@
   "미·이란무력충돌격화…휴전깨지자공습·보복재개",
   "LG,피지컬AI승부수…엔비디아와‘월드모델’맞붙는다",
   "오픈AI·메타“클로드잡아라”...업무용새모델나란히출시",
-  "“마이크론게섯거라”…SK하이닉스,3.1%할증공모가로오늘밤美..."
+  "“마이크론게섯거라”…SK하이닉스,3.1%할증공모가로오늘밤美...",
+  "‘굿바이잠실’!‘44년추억’의한페이지장식할올스타전,‘잠실...",
+  "'그대에게드림'황인엽X이혜리,환상의케미→과몰입첫사랑재회로맨...",
+  "세종의밤을문화관광으로…'세종밤마실'우수사례선정",
+  "[단독]캐시워크돈버는퀴즈정답7월10일",
+  "[오늘의신문읽기]반도체에서호르무즈까지…하나로연결된경제",
+  "[SK하이닉스ADR]최태원,나스닥상장식참석…직접'오프닝벨'울린다",
+  "포켓몬카드인기노린엔비디아?지포스카드14종공개"
  ],
  "recent_sigs": [
   [
@@ -6499,9 +6499,21 @@
   [
    "2026-07-10T10:02:18.410172+09:00",
    "맞붙는다 피지컬AI 월드모델 엔비디아와 승부수 LG"
+  ],
+  [
+   "2026-07-10T10:04:17.068404+09:00",
+   "반도체에서 호르무즈까지 연결된 하나로 경제"
+  ],
+  [
+   "2026-07-10T10:04:17.068404+09:00",
+   "오프닝 울린다 상장식 직접 나스닥 참석"
+  ],
+  [
+   "2026-07-10T10:04:17.068404+09:00",
+   "노린 카드 14종 지포스 포켓몬 인기 공개"
   ]
  ],
- "last_run": "2026-07-10T10:02:38.856520+09:00",
+ "last_run": "2026-07-10T10:04:44.400771+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
