@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591292099532",
-  "http://www.fnnews.com/news/202607091317048814",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223323",
-  "https://www.tokenpost.kr/news/breaking/376203",
-  "https://www.dailypharm.com/user/news/340304?REFERER=NP",
-  "http://www.impacton.net/news/articleView.html?idxno=19544",
-  "https://www.joongang.co.kr/article/25443767",
-  "https://www.joongboo.com/news/articleView.html?idxno=363730952",
   "http://www.popcornnews.net/news/articleView.html?idxno=126131",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1715731",
   "https://www.mydaily.co.kr/page/view/2026070914590052196",
@@ -2999,17 +2991,17 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=442023",
   "https://www.sentv.co.kr/article/view/sentv202607100023",
   "https://www.ddaily.co.kr/page/view/2026071009570231617",
-  "http://www.fnnews.com/news/202607100942193437"
+  "http://www.fnnews.com/news/202607100942193437",
+  "http://www.queen.co.kr/news/articleView.html?idxno=460060",
+  "http://www.ikld.kr/news/articleView.html?idxno=337392",
+  "https://www.slist.kr/news/articleView.html?idxno=750887",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=59993",
+  "https://biz.chosun.com/it-science/ict/2026/07/10/RBMMV3BNNVDLJGRHP2IUBU2WWY/",
+  "https://www.ajunews.com/view/20260710090928874",
+  "https://www.g-enews.com/view.php?ud=202607100957109417906806b77b_1",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422328"
  ],
  "seen_titles": [
-  "이재용회장,'AI거물'모인선밸리출격…파운드리사장동행에삼성...",
-  "김상욱울산시장\"울산산업AX100억짜리말고조단위사업필요\"",
-  "'최태원동거인중국간첩설'유튜버,1심서벌금700만원",
-  "엔비디아·허깅페이스,로봇용오픈소스AI모델개발",
-  "해킹피해크레소티\"질병코드등의료민감정보유출안돼\"",
-  "【위클리ESG행사】7월3주차",
-  "다시불붙는AI모델경쟁…스페이스XAI그록4.5,오픈AIGPT5.6출격한...",
-  "의정부시청이성연,양양전국사이클남자일반부스크래치10km우승",
   "메르세데스-벤츠코리아,'디올-뉴일렉트릭GLC'전격공개…9천만원...",
   "[Car&Now]제네시스,'2026스코티시오픈'개막…GM한국사업장,서비...",
   "[MD포토]키움·KT'빗물털어내며경기준비'",
@@ -6001,7 +5993,15 @@
   "LS증권\"삼성SDS목표주가상향,클라우드와AI사업성장본격화\"",
   "국가수출경쟁력강화…안랩,‘무역안보의날’장관표창수상",
   "KT,스트래티지디지털혁신상수상…전사셀프AI환경구축",
-  "KT,전사AI데이터혁신성과…글로벌혁신상받았다"
+  "KT,전사AI데이터혁신성과…글로벌혁신상받았다",
+  "한국마사회,'AFPRO2026농식품테크스타트업창업박람회'참가…말산...",
+  "한국철강협회철강홍보위원회,2026철강AI영상광고공모전개최",
+  "[모빌리티]택시투데이'내차경매'오픈·래티브'땡겨요'공식배송파...",
+  "단박에40,000,000,000,000…SK하이닉스,나스닥삼켰다",
+  "KT클라우드,여의도데이터센터증설…초저지연금융허브도약",
+  "오픈AI'넘버2'1년여만에사임…경영진변동확대에IPO차질우려도",
+  "[김대호진단]SK하닉ADR상장과최태원진짜승부",
+  "KT,'세계최초5G'주도한삼성맨최성호영입···KTSATCTO맡아"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,21 @@
   [
    "2026-07-10T10:08:15.949204+09:00",
    "성능 딥시크 H200 넣는 알리바바 손에"
+  ],
+  [
+   "2026-07-10T10:12:17.821362+09:00",
+   "ADR SK하닉 상장과 진짜 승부"
+  ],
+  [
+   "2026-07-10T10:12:17.821362+09:00",
+   "CTO 삼성맨 세계최초 영입 맡아 주도한 최성호 ~KT 5G SAT"
+  ],
+  [
+   "2026-07-10T10:12:17.821362+09:00",
+   "차질 1년여 확대에 사임 우려도 만에 경영진 변동 넘버2 IPO"
   ]
  ],
- "last_run": "2026-07-10T10:11:22.873538+09:00",
+ "last_run": "2026-07-10T10:12:44.947395+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
