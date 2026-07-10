@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.maniareport.com/view.php?ud=2026070909401569016cf2d78c68_19",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094196",
-  "https://zdnet.co.kr/view/?no=20260709162157",
   "https://www.newsis.com/view/NISX20260709_0003703062",
   "https://www.viva100.com/article/20260709501270",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=360059",
@@ -2999,12 +2996,12 @@
   "http://www.inews24.com/view/1984121",
   "https://www.etnews.com/20260710000151",
   "https://www.thelec.kr/news/articleView.html?idxno=59361",
-  "https://www.pressman.kr/news/articleView.html?idxno=102707"
+  "https://www.pressman.kr/news/articleView.html?idxno=102707",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3632269",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379282",
+  "https://www.mk.co.kr/article/12095298"
  ],
  "seen_titles": [
-  "'한명만무너져도흔들린다'순위가른외국인투수농사...로테이션을...",
-  "'비싸고맛없다'고속도로휴게소바뀐다…임대료대폭인하·이권카르...",
-  "지큐티코리아,특구글로벌PoC사업으로BTQ서10억원투자받아",
   "[울산소식]한국암웨이미래재단,울산ASTATION오픈기념기부등",
   "2분기호실적네카오⋯주가반등열쇠는‘돈버는AI’",
   "코빗인수승인받은미래에셋전통·디지털금융경계허문다",
@@ -6001,7 +5998,10 @@
   "안전조치의무어겼나⋯방미통위,우리은행유출점검착수",
   "수원4개구,게임으로뭉친다…18일e스포츠최강자결정전개막",
   "KT클라우드,자본시장확대에'금융특화'여의도데이터센터증설",
-  "건설사혁신속도전...미래가치확산총력"
+  "건설사혁신속도전...미래가치확산총력",
+  "김해시,외국인계절근로자출국절차변경",
+  "[단독]\"윗선'보안점수조작'지시\"국정원도속인선관위",
+  "줄리최세레브라스CMO“엔비디아GPU보다15배빨라...엔지니어시간..."
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,13 @@
   [
    "2026-07-10T13:14:17.433307+09:00",
    "없다 투자설에 확정된 ~SKT 사항 데이터센터"
+  ],
+  [
+   "2026-07-10T13:26:17.316644+09:00",
+   "GPU보다 CMO 엔지니어 줄리 15배 시간 빨라 세레브라스"
   ]
  ],
- "last_run": "2026-07-10T13:24:39.200238+09:00",
+ "last_run": "2026-07-10T13:26:35.095507+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
