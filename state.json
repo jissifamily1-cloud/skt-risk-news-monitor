@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607091824407693",
-  "https://www.thepublic.kr/news/articleView.html?idxno=310767",
-  "https://www.fntimes.com/html/view.php?ud=202607091817112425048b718333_18",
-  "http://www.fnnews.com/news/202607091826248283",
-  "https://www.thelec.kr/news/articleView.html?idxno=59336",
   "https://www.mediawatch.kr/news/article.html?no=260336",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269487",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553363660",
@@ -2999,14 +2994,14 @@
   "https://www.gosiweek.com/article/1065601260475506",
   "https://www.fashionbiz.co.kr/article/227811",
   "https://www.hankyung.com/article/2026071085031",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260710172453Mg1"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260710172453Mg1",
+  "https://www.onews.tv/news/articleView.html?idxno=282868",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7173566",
+  "http://www.osen.co.kr/article/G1112837400",
+  "https://www.dt.co.kr/article/12072270",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16130749"
  ],
  "seen_titles": [
-  "[게시판]조코딩AI서바이벌'AX인재전쟁'참가자5000명돌파등단신",
-  "[강남視角]비트코인보다더널뛰는코스피",
-  "속도내는中반도체자립…딥시크·즈푸도'자체AI칩'개발한다",
-  "IPARK현대산업개발,美겐슬러와광명하안주공6·7단지설계추진",
-  "'빅테크안방'진격하는SK…메모리넘어AI인프라기업으로",
   "오픈AI,맥락이해'챗GPT보이스'공개…\"실시간통역가능\"",
   "SK하이닉스‘1100조투자’,이사회결의없이발표됐나…거버넌스포...",
   "\"2030년까지5조수주…LG유플러스,파주·평촌앞세워수도권AIDC최강...",
@@ -6001,17 +5996,14 @@
   "백억커피‘백억오더’,누적회원10만명돌파…고객편의강화",
   "핀란드헤리티지브랜드'이바나헬싱키',아시안핏으로세레모니시장...",
   "과잉투자논란메타\"남는컴퓨팅자원없다\"",
-  "[퇴근길머니]'반도체투심회복'코스피상승…SK하이닉스,美증시데..."
+  "[퇴근길머니]'반도체투심회복'코스피상승…SK하이닉스,美증시데...",
+  "국제대회진출권부터아마추어등용문까지…이스포츠대회다양화",
+  "[김대준의증시산책]\"소문에사서뉴스에판다\"…K반도체전망은",
+  "강예원,길거리서명함돌리며홍보\"저누군지아세요?\"[핫피플]",
+  "“오픈AI·구글,美블랙리스트中기업에AI모델공급”",
+  "'서프라이즈미스터리살롱'이찬원,할리우드를뒤흔든초대형해킹사..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-10T11:28:17.623685+09:00",
-   "쿠팡 vs 주장 회복 실적은 이슈 외교 차별 반박"
-  ],
-  [
-   "2026-07-10T11:28:17.623685+09:00",
-   "칼끝 표적조 한화 CJ 재계 공정위 향하자 브랜드값"
-  ],
   [
    "2026-07-10T11:30:53.441920+09:00",
    "AI가 과기부총리 두려운 배경훈 대중서 당신에게 출간"
@@ -6375,9 +6367,13 @@
   [
    "2026-07-10T17:26:17.458420+09:00",
    "반도체 증시 투심 SK하이닉스 회복 코스피 상승"
+  ],
+  [
+   "2026-07-10T17:28:17.707615+09:00",
+   "할리우드를 뒤흔든 미스터리 서프라이즈 살롱 이찬원 초대형"
   ]
  ],
- "last_run": "2026-07-10T17:26:35.711835+09:00",
+ "last_run": "2026-07-10T17:28:35.495452+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
