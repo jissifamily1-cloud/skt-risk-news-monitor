@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=667559",
-  "https://www.namdonews.com/news/articleView.html?idxno=916435",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=411874",
-  "https://www.inthenews.co.kr/news/article.html?no=89142",
-  "https://www.ibabynews.com/news/articleView.html?idxno=152787",
-  "https://www.news2day.co.kr/article/20260709500183",
-  "https://www.apnews.kr/news/articleView.html?idxno=3049641",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1715755",
   "https://www.eroun.net/news/articleView.html?idxno=85007",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=81779",
   "https://www.dt.co.kr/article/12072067",
@@ -2999,17 +2991,17 @@
   "https://www.segye.com/newsView/20260708520192?OutUrl=naver",
   "https://www.econotimes.com/OpenAI-Executive-Fidji-Simo-to-Step-Down-Amid-Health-Challenges-Ahead-of-IPO-1746416",
   "http://www.newslock.co.kr/news/articleView.html?idxno=132849",
-  "https://www.ddaily.co.kr/page/view/2026071009575137748"
+  "https://www.ddaily.co.kr/page/view/2026071009575137748",
+  "https://www.sportsworldi.com/newsView/20260710508212",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3632118",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3632120",
+  "https://www.newsis.com/view/NISX20260710_0003703979",
+  "https://economist.co.kr/article/view/ecn202607100008",
+  "http://www.metroseoul.co.kr/article/20260709500324",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1715849",
+  "https://www.fntimes.com/html/view.php?ud=2026071009322568727fd637f543_18"
  ],
  "seen_titles": [
-  "르노코리아,동의없이카톡광고전환…KISA신고접수",
-  "KBO올스타전일정확정…홈런더비·팬이벤트'풍성'",
-  "특구재단,딥테크기업'글로벌영토확장'진두지휘",
-  "현대건설,H-Safe데모데이로안전스타트업12곳협력확대",
-  "[가전트렌드]엔유씨전자(NUC),고속블렌더최대68%할인…엔유씨몰...",
-  "미래에셋,코빗품었다…디지털자산사업‘본격시동’",
-  "박현주'미래에셋3.0'구체화…코빗품고글로벌투자플랫폼속도",
-  "SKT,日소프트뱅크와AI가만드는사회적가치측정한다",
   "AI시대사회적가치도'측정의시대'...SK·소프트뱅크,글로벌기준마...",
   "\"AI가치,글로벌표준으로잰다\"…SKT·소프트뱅크,연대한층강화",
   "SKT-日소프트뱅크,AI사회적가치측정글로벌표준만든다",
@@ -6001,7 +5993,15 @@
   "“AI규제입법싸움대비”빅테크의선거판베팅[심층기획]",
   "OpenAIExecutiveFidjiSimotoStepDownAmidHealthChallengesAheado",
   "개보위,'130만명개인정보유출'락앤락에과징금5억300만원철퇴",
-  "스트래티지,데이터·AI콘퍼런스개최…KT디지털전환성과수상"
+  "스트래티지,데이터·AI콘퍼런스개최…KT디지털전환성과수상",
+  "연속안타-최고령-최다관중…새기록쏟아진프로야구전반기",
+  "\"도민의목소리가정책된다\"…위성곤제주도정첫타운홀미팅",
+  "iM금융그룹iM캐피탈,서울어린이대공원서'비밀정원캠페인'참여...생물...",
+  "오픈소스로키운중국AI,美처럼잠그나…中\"기술유출\"경계",
+  "'삼성오너의품격'이재용,청소근로자별세에…손잡고\"헌신잊지않...",
+  "'가짜뉴스처벌법'가이드라인나왔지만…플랫폼에'1차판단'맡겼다",
+  "[협력사의재발견③]이재용·최태원·구광모…오너들이키우는'상생생...",
+  "‘소버린’선언한KT,공공·국방서AI잔혹사끊을까"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,17 @@
   [
    "2026-07-10T10:42:17.730111+09:00",
    "130만 락앤락에 과징금 개인정보 유출 철퇴 5억300만"
+  ],
+  [
+   "2026-07-10T10:44:17.484645+09:00",
+   "이재용 오너들이 구광모 상생 키우는"
+  ],
+  [
+   "2026-07-10T10:44:17.484645+09:00",
+   "소버린 끊을까 국방서 잔혹사 선언한 공공 ~KT"
   ]
  ],
- "last_run": "2026-07-10T10:42:39.364835+09:00",
+ "last_run": "2026-07-10T10:44:38.081526+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
