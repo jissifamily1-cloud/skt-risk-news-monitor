@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112836851",
-  "https://www.mydaily.co.kr/page/view/2026070918464556158",
-  "https://www.mydaily.co.kr/page/view/2026070918455878500",
-  "https://www.newstnt.com/news/articleView.html?idxno=709682",
   "http://www.osen.co.kr/article/G1112836850",
   "https://www.mydaily.co.kr/page/view/2026070918445689221",
   "http://www.osen.co.kr/article/G1112836849",
@@ -2999,13 +2995,13 @@
   "https://www.hankyung.com/article/2026071085471",
   "https://www.dailian.co.kr/news/view/1665931/?sc=Naver",
   "http://www.srtimes.kr/news/articleView.html?idxno=207246",
-  "https://www.mk.co.kr/article/12095667"
+  "https://www.mk.co.kr/article/12095667",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3632635",
+  "http://www.stoo.com/article.php?aid=107673235047",
+  "http://www.srtimes.kr/news/articleView.html?idxno=207295",
+  "https://it.donga.com/109174/"
  ],
  "seen_titles": [
-  "[포토]'폭우속시구는처음이지!'시구나선혜리",
-  "[사진]이혜리,'진지하게우천시구'",
-  "[MD포토]혜리'비가와도신나요'",
-  "[MD포토]혜리'비처럼시원한시구'",
   "[특징주]KB금융·신풍등코스피41개사,10일자기주식매수신청",
   "[사진]이혜리,'시구하러왔어요'",
   "[MD포토]혜리'비를뚫고날아가는시구'",
@@ -6001,7 +5997,11 @@
   "실적·수급받쳐주는데…주도주2년차삼전닉스,다시불붙나",
   "SKT,KKRAI데이터센터인수금융검토설에\"확정된사항없어\"",
   "[기자수첩]총수들의AI인프라혁명,'하청'넘어'지배'로가려면",
-  "오픈AI·메타,차세대AI동시공개"
+  "오픈AI·메타,차세대AI동시공개",
+  "AI역량강화나선용인세브란스병원…디지털의료혁신기대",
+  "박봄,자작곡기습공개이유…\"내노래가져가쓰려해\"해킹피해주장",
+  "KT클라우드,여의도DC증설…국내대표금융허브도약나선다",
+  "에임인텔리전스“모델성능과안전은별개…AI에이전트보안이더어..."
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,13 @@
   [
    "2026-07-10T17:58:17.396908+09:00",
    "공개 차세대 메타 동시"
+  ],
+  [
+   "2026-07-10T18:01:00.347518+09:00",
+   "안전은 성능과 에임인텔리전스 모델 별개 에이전트 보안이"
   ]
  ],
- "last_run": "2026-07-10T17:58:46.969992+09:00",
+ "last_run": "2026-07-10T18:01:17.055663+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
