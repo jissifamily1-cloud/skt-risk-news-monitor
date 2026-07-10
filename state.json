@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12307433?influxDiv=NAVER",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244069",
-  "https://www.kgnews.co.kr/news/article.html?no=903334",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100459",
-  "https://www.hankyung.com/article/2026070957376",
-  "http://www.fnnews.com/news/202607091453046131",
-  "https://www.dailian.co.kr/news/view/1665283/?sc=Naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606053",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3068979",
-  "https://www.sisajournal.com/news/articleView.html?idxno=379304",
   "https://www.hankookilbo.com/news/article/A2026070914300004432?did=NA",
   "https://www.kukinews.com/article/view/kuk202607090130",
   "https://www.socialvalue.kr/news/view/1065592711974924",
@@ -2999,19 +2989,19 @@
   "https://www.bloter.net/news/articleView.html?idxno=667559",
   "https://www.yna.co.kr/view/AKR20260710059000091?input=1195m",
   "https://www.goodkyung.com/news/articleView.html?idxno=289112",
-  "https://www.econotimes.com/Elon-Musk-Says-Anthropic-Leads-AI-Race-as-Claude-Models-Challenge-OpenAI-1746417"
+  "https://www.econotimes.com/Elon-Musk-Says-Anthropic-Leads-AI-Race-as-Claude-Models-Challenge-OpenAI-1746417",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=306250",
+  "https://www.sportsseoul.com/news/read/1621688",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3632128",
+  "https://www.mediapen.com/news/view/1109363",
+  "https://www.pressman.kr/news/articleView.html?idxno=102693",
+  "https://www.etnews.com/20260710000101",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165532",
+  "http://www.dailypop.kr/news/articleView.html?idxno=100487",
+  "http://www.apparelnews.co.kr/news/news_view/?idx=226318",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683057"
  ],
  "seen_titles": [
-  "엔비디아H200에빗장푼중국…AI학습용조건부허용",
-  "허위정보올리면'네이버·카카오·다음'신고대상",
-  "의정부시청이성연,양양국제사이클대회男스크래치10㎞'우승'",
-  "'건설'넘어'미래라이프스타일'로…스타트업과손잡은'삼성물산'",
-  "\"AI로위험잡는다\"…현대건설,안전스타트업과협업확대",
-  "IPARK현대산업개발,하안주공6·7단지재건축에겐슬러손잡았다",
-  "美견제에도무한질주…“중국반도체존재감커진다”",
-  "‘가짜뉴스’대응의무화…네이버·구글등9대플랫폼지정",
-  "CSES·SKT·소프트뱅크AI가치측정",
-  "국힘\"호남반도체산업단지,대통령위한정략적결정\"",
   "최태원회장동거인'중국간첩설'유튜버,1심서벌금700만원",
   "“전력없이반도체?”…주호영,‘반도체인프라’점검토론회개최",
   "KT,유엔·ITU글로벌행사서‘책임감있는AI'논의…\"글로벌표준논...",
@@ -6001,7 +5991,17 @@
   "르노코리아,동의없이카톡광고전환…KISA신고접수",
   "병가냈던오픈AI'넘버2'결국사임…파트타임고문역할계속",
   "[굿모닝!10일유통가소식]신세계백화점·한샘·KT&G·GS리테일·코웨...",
-  "ElonMuskSaysAnthropicLeadsAIRaceasClaudeModelsChallengeOpenA"
+  "ElonMuskSaysAnthropicLeadsAIRaceasClaudeModelsChallengeOpenA",
+  "스트래티지,'스트래티지월드서울2026'개최",
+  "‘최다선정2위’양의지MVP도전-최형우·류현진·최정베테랑의힘-...",
+  "영남이공대학교,7월14일청년일자리채용행사개최",
+  "[산대리의게임탐구]넥슨이다시선택한'히간:이루실'…반전의주인...",
+  "여름고객붙잡는유통가,콘텐츠와실속혜택전면에",
+  "인투씨엔에스,'2026경기수의콘퍼런스'참가",
+  "금융위원장\"망분리전면해제구체화…AI보안구축\"",
+  "[기업들]온실가스감축부터상생비즈니스까지…'지속가능한사회'구...",
+  "KT알파쇼핑,‘신미사바로워크다이얼운동화’런칭",
+  "KT,전사AI분석환경구축…글로벌혁신상수상"
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,13 @@
   [
    "2026-07-10T10:46:15.976620+09:00",
    "Models as Musk Claude Race Challenge Elon Anthropic Leads Says"
+  ],
+  [
+   "2026-07-10T10:48:15.550884+09:00",
+   "비즈니스까지 사회 지속 상생 감축부터 가능한 온실가스"
   ]
  ],
- "last_run": "2026-07-10T10:46:36.989462+09:00",
+ "last_run": "2026-07-10T10:48:39.798425+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
