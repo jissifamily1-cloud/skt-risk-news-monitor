@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=708706",
-  "https://www.businessplus.kr/news/articleView.html?idxno=113945",
-  "https://www.m-i.kr/news/articleView.html?idxno=1389882",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=306723",
-  "https://www.smarttoday.co.kr/ko-kr/articles/109388",
-  "https://www.mk.co.kr/article/12094358",
-  "http://www.fnnews.com/news/202607091324368326",
   "https://www.hani.co.kr/arti/society/society_general/1267482.html",
   "https://kpenews.com/View.aspx?No=4143096",
   "https://www.bntnews.co.kr/article/view/bnt202607090176",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2602358",
   "https://view.asiae.co.kr/article/2026071009110915403",
   "http://www.fnnews.com/news/202607100851199159",
-  "http://www.press9.kr/news/articleView.html?idxno=78588"
+  "http://www.press9.kr/news/articleView.html?idxno=78588",
+  "https://www.newsis.com/view/NISX20260710_0003703780",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53174",
+  "http://fpn119.co.kr/253704",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=314872",
+  "https://www.hankyung.com/article/202607107102O",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=306778",
+  "https://www.etnews.com/20260710000032"
  ],
  "seen_titles": [
-  "이대통령몽골방문,'핵심광물상생형공급망협력모델'",
-  "현대건설,건설안전스타트업협력속도…'H-Safe데모데이'성료",
-  "SKT,日소프트뱅크와맞손…AI사회적가치측정표준만든다",
-  "최태원,SK하이닉스이끌고나스닥간다…HBM1위넘어'AI몸값'재평가",
-  "KT,UN·ITU글로벌AI행사참여…\"에이전트시대신뢰체계필요\"",
-  "KT“에이전트AI시대엔신뢰가핵심”…UN·ITU서AI표준제안",
-  "\"체질개선넘어도약할차례\"…KT알파,성장중심비전'커넥티드커머...",
   "최태원동거인에“중국간첩”…‘배터리아저씨’1심벌금형",
   "SK하이닉스,나스닥입성코앞으로..최태원회장도미국행",
   "니콜라스케이지,또광기폭발…‘서퍼’관람포인트셋",
@@ -6001,7 +5994,14 @@
   "KT클라우드,여의도DC증설…내년6월준공해금융인프라거점육성",
   "\"메타,9월부터자체AI칩양산…엔비디아의존도축소\"",
   "이재용,젠슨황만난다…'광주팹·AI데이터센터'협력논의하나",
-  "IT인력·예산10%보안에할당…롯데카드,'제2의해킹사태'선제차단..."
+  "IT인력·예산10%보안에할당…롯데카드,'제2의해킹사태'선제차단...",
+  "7월3만4000가구쏟아진다…'수도권쏠림·청약옥석가리기'심화",
+  "탁월한성능대신낮은비용?메타의새AI승부수",
+  "제9회소방방재기술산업전,지난8~10일서울양재aT센터서개최",
+  "몰랐던여행즐거움추천...NOL,AI큐레이션서비스선봬",
+  "시원마케팅,AI마케팅특허및‘ChatGPT엔터프라이즈’도입…바이럴...",
+  "코스피,SK하이닉스ADR흥행에2%대반등",
+  "KT,전사AI분석환경구축으로글로벌혁신상수상"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,13 @@
   [
    "2026-07-10T09:36:15.335529+09:00",
    "롯데카드 선제 예산 IT 보안에 할당 제2의 인력 차단 사태"
+  ],
+  [
+   "2026-07-10T09:38:15.229428+09:00",
+   "분석 ~KT 글로벌 혁신상 수상 전사 구축으로 환경"
   ]
  ],
- "last_run": "2026-07-10T09:36:42.763431+09:00",
+ "last_run": "2026-07-10T09:38:40.186595+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
