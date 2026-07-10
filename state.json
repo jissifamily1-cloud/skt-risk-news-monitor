@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=89148",
-  "https://www.hani.co.kr/arti/economy/it/1267512.html",
-  "https://www.hankyung.com/article/202607094867h",
-  "https://www.newsis.com/view/NISI20260709_0021357305",
-  "https://www.newsis.com/view/NISI20260709_0021357307",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141292",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=306735",
   "https://www.bloter.net/news/articleView.html?idxno=667689",
   "https://www.seoul.co.kr/news/economy/securities/2026/07/09/20260709500196?wlog_tag3=naver",
@@ -2999,15 +2993,15 @@
   "https://www.ngonews.kr/news/articleView.html?idxno=232635",
   "https://www.businesspost.co.kr/BP?command=article_view&num=441964",
   "http://www.srtimes.kr/news/articleView.html?idxno=207244",
-  "https://www.mediapen.com/news/view/1109393"
+  "https://www.mediapen.com/news/view/1109393",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2287106",
+  "https://www.news1.kr/photos/8002115",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=588048",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=708782",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5205048",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574335760247"
  ],
  "seen_titles": [
-  "국립한국해양대,해군작전AI협업회의서폐쇄망로드맵제시",
-  "스페이스XAI,새모델‘그록4.5’출시…“오퍼스보다빠르고저렴”",
-  "특구재단,특구기업글로벌실증확대지원",
-  "시연지켜보는오세훈시장",
-  "XR운전시연지켜보는오세훈서울시장",
-  "CXMT상장,삼전·닉스에는오히려호재?...증권가\"기술격차재확인될...",
   "\"생산적금융위한생태계…보험자본역할키워야\"",
   "미래에셋·코빗,기업결합승인…지분규제변수남았다",
   "[마감시황]코스피,장중480.10포인트흔들림끝에0.62%상승마감",
@@ -6001,7 +5995,13 @@
   "AI로디지털성범죄수사속도혁신…경찰,성착취물탐지프로그램전...",
   "SK텔레콤해킹사고후유증털고올해영업이익2조복귀하나,정재헌AI...",
   "SK하이닉스오늘나스닥상장…40조투자실탄확보",
-  "나스닥간SK하이닉스실탄40조잭팟…외국기업사상최대"
+  "나스닥간SK하이닉스실탄40조잭팟…외국기업사상최대",
+  "'한화캡틴'채은성,후반기엔1군돌아오나…\"완전히괜찮아질때콜...",
+  "연구개발특구진흥재단,제84회대덕이노폴리스포럼개최",
+  "[기업家]쿠팡ㅣ美'차별'주장vs韓반박…외교이슈속실적은회복",
+  "아산시시설관리공단,2026년정보보호의날캠페인실시",
+  "2026년7월10일매일경제1면…안잡히는집값,또대출만잡는다[아침...",
+  "[메가이슈토픽]공정위'브랜드값'칼끝,한화·CJ향하자…재계\"표적조..."
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,17 @@
   [
    "2026-07-10T11:22:15.820069+09:00",
    "붙인다 에이전트 SK온 업무에"
+  ],
+  [
+   "2026-07-10T11:28:17.623685+09:00",
+   "쿠팡 vs 주장 회복 실적은 이슈 외교 차별 반박"
+  ],
+  [
+   "2026-07-10T11:28:17.623685+09:00",
+   "칼끝 표적조 한화 CJ 재계 공정위 향하자 브랜드값"
   ]
  ],
- "last_run": "2026-07-10T11:26:33.593782+09:00",
+ "last_run": "2026-07-10T11:28:38.427704+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
