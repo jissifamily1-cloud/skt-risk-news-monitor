@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediawatch.kr/news/article.html?no=260336",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269487",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553363660",
-  "https://www.starnewskorea.com/sports/2026/07/09/2026070914553142626",
   "https://www.newspim.com/news/view/20260709001302",
   "http://www.itdaily.kr/news/articleView.html?idxno=240319",
   "https://www.joongang.co.kr/article/25443856",
@@ -2999,13 +2995,13 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7173566",
   "http://www.osen.co.kr/article/G1112837400",
   "https://www.dt.co.kr/article/12072270",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16130749"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16130749",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849646",
+  "https://www.kpinews.kr/newsView/1065598805180114",
+  "https://www.aitimes.com/news/articleView.html?idxno=212638",
+  "https://www.ekn.kr/web/view.php?key=20260710028341381"
  ],
  "seen_titles": [
-  "오픈AI,맥락이해'챗GPT보이스'공개…\"실시간통역가능\"",
-  "SK하이닉스‘1100조투자’,이사회결의없이발표됐나…거버넌스포...",
-  "\"2030년까지5조수주…LG유플러스,파주·평촌앞세워수도권AIDC최강...",
-  "[오피셜]아뿔싸!올스타전앞두고부상악재…한화·SSG·KT·롯데4명낙...",
   "\"안현민안빠졌다면4~5경기더이겼을것\"전반기3위가못내아쉬운...",
   "[핌in수원]'키움기대주'정현우,팔꿈치부상털고95일만에1군복귀",
   "[AI브리프]한국오픈소스협회,'2026KOSSADAY'개최…오픈소스AX시대...",
@@ -6001,17 +5997,13 @@
   "[김대준의증시산책]\"소문에사서뉴스에판다\"…K반도체전망은",
   "강예원,길거리서명함돌리며홍보\"저누군지아세요?\"[핫피플]",
   "“오픈AI·구글,美블랙리스트中기업에AI모델공급”",
-  "'서프라이즈미스터리살롱'이찬원,할리우드를뒤흔든초대형해킹사..."
+  "'서프라이즈미스터리살롱'이찬원,할리우드를뒤흔든초대형해킹사...",
+  "울산나가·홀,외국인첫퓨처스올스타전나서는비결",
+  "HBM판도흔드는'베이스다이'…삼성전자에기회왔다",
+  "NYT,법원에오픈AI제재요청…\"데이터검색능력숨겼다\"고발",
+  "美까지우려한‘가짜뉴스처벌법’…‘플랫폼부담·위헌논란’확산"
  ],
  "recent_sigs": [
-  [
-   "2026-07-10T11:30:53.441920+09:00",
-   "AI가 과기부총리 두려운 배경훈 대중서 당신에게 출간"
-  ],
-  [
-   "2026-07-10T11:30:53.441920+09:00",
-   "수익 2026년 3조달 세쿼이아 5조달러 회수에 파트너 인프라 투자"
-  ],
   [
    "2026-07-10T11:38:15.884108+09:00",
    "투자 효과는 하이닉스 상장 주주환원 탄력 SK스퀘어"
@@ -6371,9 +6363,17 @@
   [
    "2026-07-10T17:28:17.707615+09:00",
    "할리우드를 뒤흔든 미스터리 서프라이즈 살롱 이찬원 초대형"
+  ],
+  [
+   "2026-07-10T17:30:58.669035+09:00",
+   "요청 능력 고발 제재 법원에 데이터 검색 NYT 숨겼다"
+  ],
+  [
+   "2026-07-10T17:30:58.669035+09:00",
+   "확산 가짜뉴스처벌법 위헌 플랫폼 우려한 부담 까지 논란"
   ]
  ],
- "last_run": "2026-07-10T17:28:35.495452+09:00",
+ "last_run": "2026-07-10T17:31:26.420592+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
