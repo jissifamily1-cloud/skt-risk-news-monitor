@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html?partner=naver",
-  "http://www.srtimes.kr/news/articleView.html?idxno=207097",
-  "https://www.newsis.com/view/NISX20260709_0003702852",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269467",
-  "http://www.metroseoul.co.kr/article/20260709500324",
   "https://www.bloter.net/news/articleView.html?idxno=667559",
   "https://www.namdonews.com/news/articleView.html?idxno=916435",
   "http://www.ccnnews.co.kr/news/articleView.html?idxno=411874",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/it-science/general-it/6224018",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=79838",
   "https://view.asiae.co.kr/article/2026071009465145341",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317551"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317551",
+  "https://www.techm.kr/news/articleView.html?idxno=153273",
+  "https://www.segye.com/newsView/20260708520192?OutUrl=naver",
+  "https://www.econotimes.com/OpenAI-Executive-Fidji-Simo-to-Step-Down-Amid-Health-Challenges-Ahead-of-IPO-1746416",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132849",
+  "https://www.ddaily.co.kr/page/view/2026071009575137748"
  ],
  "seen_titles": [
-  "BlueOriginNearsaBigFund-RaisingRound",
-  "이재용회장,'선밸리'파운드리사장대동…파운드리영토확장가속",
-  "흥국운용,SK하닉'호남팹투자발표저격'주주서한철회…\"본부장개인...",
-  "\"역대급2분기온다…LG유플러스,매출·비용다잡은'완벽한구조'\"",
-  "'가짜뉴스처벌법'가이드라인나왔지만…플랫폼에'1차판단'맡겼다",
   "르노코리아,동의없이카톡광고전환…KISA신고접수",
   "KBO올스타전일정확정…홈런더비·팬이벤트'풍성'",
   "특구재단,딥테크기업'글로벌영토확장'진두지휘",
@@ -6001,7 +5996,12 @@
   "오픈AI,챗GPT워크선보여…\"질답AI넘어업무파트너로\"",
   "이억원,금융사CEO에\"정보유출·해킹교훈…보안체계시급\"",
   "美·中AI모델이용료차이100분의1…\"美기업도딥시크선호\"",
-  "미국무부\"개정망법,미기업에과도한부담부과해선안돼\""
+  "미국무부\"개정망법,미기업에과도한부담부과해선안돼\"",
+  "'국가대표반도체'SK하이닉스,美ADR공모가149달러…40조확보'역대...",
+  "“AI규제입법싸움대비”빅테크의선거판베팅[심층기획]",
+  "OpenAIExecutiveFidjiSimotoStepDownAmidHealthChallengesAheado",
+  "개보위,'130만명개인정보유출'락앤락에과징금5억300만원철퇴",
+  "스트래티지,데이터·AI콘퍼런스개최…KT디지털전환성과수상"
  ],
  "recent_sigs": [
   [
@@ -6567,9 +6567,17 @@
   [
    "2026-07-10T10:40:45.544940+09:00",
    "개정 부담 국무부 과도한 부과해선 기업에 망법"
+  ],
+  [
+   "2026-07-10T10:42:17.730111+09:00",
+   "개최 수상 ~KT 데이터 디지털 콘퍼런스 성과 스트래티지"
+  ],
+  [
+   "2026-07-10T10:42:17.730111+09:00",
+   "130만 락앤락에 과징금 개인정보 유출 철퇴 5억300만"
   ]
  ],
- "last_run": "2026-07-10T10:41:11.621322+09:00",
+ "last_run": "2026-07-10T10:42:39.364835+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
