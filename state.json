@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3631269",
-  "https://news.dealsitetv.com/articles/173099",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607090943577330522",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=306744",
-  "http://www.inews24.com/view/1984144",
-  "https://www.fntimes.com/html/view.php?ud=2026070916214874700f4390e77d_18",
   "https://biz.chosun.com/topics/topics_social/2026/07/09/SFYPXV4YK5ENFN5QMPUGDTVOAU/",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=265828",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264419",
@@ -2999,15 +2993,15 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3632380",
   "http://www.thevaluenews.co.kr/news/view.php?idx=200012",
   "https://www.hankyung.com/article/202607107666g",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1384958"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1384958",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683175",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/10/2026071000176.html",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683172",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683186",
+  "https://www.thepowernews.co.kr/view.php?ud=202607101425377838de3f0aa1be_7",
+  "http://coinreaders.com/247110"
  ],
  "seen_titles": [
-  "김제시,인구의날행사개최…인구문제공감대확산",
-  "[건설플러스]롯데건설,‘K-정보보호’기여…부총리표창수상外",
-  "민선9기서울시,청년AI인재챙긴다",
-  "[차세대오너진단]②CJ미래권력윤곽…이선호성적표가승계가른다",
-  "리벨리온,내년상반기코스피상장추진⋯美ADR도검토",
-  "경찰청압수코인보관사업우협에'두나무'…커스터디사업분야두각[...",
   "‘최태원동거인간첩설’유포…배터리아저씨1심벌금700만원",
   "추락하는것은날개가있다!코스피,7291.91'반등마감'",
   "'주민증변조여부'카카오페이·네이버페이·토스서확인…금융사고예...",
@@ -6001,7 +5995,13 @@
   "대전관광공사,메디·치유관광전문가양성교육성료…체류형관광육성...",
   "[더밸류브리핑]오늘의신한금융소식...아마추어골프대회·벤처모펀드...",
   "\"판매량경쟁으론어렵다\"…삼성·LG가'AI가전'공들이는이유있었네",
-  "2분기통신사성적표,SKT·LGU+약진…KT숨고르기"
+  "2분기통신사성적표,SKT·LGU+약진…KT숨고르기",
+  "AI비용관리막힌기업들…경영진29%\"운영비상승구조이해어렵다\"",
+  "SK하이닉스ADR흥행에도신중론…월가\"AI시대에도메모리는사이클...",
+  "中,엔비디아H200빗장푸나…알리바바·딥시크수입허용검토",
+  "퍼플렉시티,中오픈소스모델로추론비절감…클로드급성능·비용은...",
+  "KT,Y아티스트AI영상크리에이터6명선발",
+  "\"블랙록도비중줄였다\"...엔비디아·스페이스X·마이크론,AI거품'붕괴..."
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,21 @@
   [
    "2026-07-10T14:56:18.721555+09:00",
    "~LGU 성적표 2분기 ~SKT 고르기 ~KT 약진 LGU"
+  ],
+  [
+   "2026-07-10T14:58:15.721416+09:00",
+   "선발 Y아티스트 ~KT 6명 영상 크리에이터"
+  ],
+  [
+   "2026-07-10T14:58:15.721416+09:00",
+   "추론비 절감 비용은 성능 모델로 클로드급 오픈소스"
+  ],
+  [
+   "2026-07-10T14:58:15.721416+09:00",
+   "블랙록도 스페이스X 마이크론 붕괴 비중 거품 줄였다"
   ]
  ],
- "last_run": "2026-07-10T14:56:37.226071+09:00",
+ "last_run": "2026-07-10T14:58:45.144610+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
