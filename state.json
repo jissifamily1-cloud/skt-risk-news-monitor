@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20035823",
-  "https://www.hankyung.com/article/202604216505i",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013171",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=04063926645418088",
   "https://www.mk.co.kr/article/12021205",
@@ -2999,11 +2997,11 @@
   "https://www.sentv.co.kr/article/view/sentv202607110012",
   "https://www.aitimes.com/news/articleView.html?idxno=212660",
   "https://www.sentv.co.kr/article/view/sentv202607110014",
-  "https://www.aitimes.com/news/articleView.html?idxno=212656"
+  "https://www.aitimes.com/news/articleView.html?idxno=212656",
+  "http://www.metroseoul.co.kr/article/20260711500019",
+  "https://www.hankookilbo.com/news/article/A2026071112260004189?did=NA"
  ],
  "seen_titles": [
-  "구글직원560여명“군사용AI제공중단해야”…피차이에공개서한",
-  "\"아일랜드는'유럽의실리콘밸리'…韓AI기업,EU진출발판될것\"",
   "직원들피눈물에주주들환호하던메타…8000명해고하니벌어진일",
   "오픈AI,새모델GPT-5.5출시…앤스로픽은보안논란구설수",
   "AWS“에이전틱AI로파트너사생산성85%끌어올려”",
@@ -6001,7 +5999,9 @@
   "소프트뱅크,日세븐&아이홀딩스에투자방안검토",
   "주가80%폭락미니맥스CEO\"AGI달성때까지무급근무\"",
   "“영업비밀침해”…애플,오픈AI대상소송제기",
-  "프리즘ML,270억매개변수모델아이폰구동성공…성능저하없는온디..."
+  "프리즘ML,270억매개변수모델아이폰구동성공…성능저하없는온디...",
+  "SK하이닉스,美나스닥첫날13%폭등…외국기업역사상최대규모IPO...",
+  "최태원\"반도체수급주기구조적으로변화\"…미국공장건설도검토"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,13 @@
   [
    "2026-07-11T12:08:16.158819+09:00",
    "하이닉스 상승 성공 나스닥 첫날 흥행"
+  ],
+  [
+   "2026-07-11T12:34:15.020465+09:00",
+   "건설도 미국 구조적으로 공장 검토 변화 반도체 수급 주기"
   ]
  ],
- "last_run": "2026-07-11T12:32:35.418653+09:00",
+ "last_run": "2026-07-11T12:34:32.786960+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
