@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202607081431220118",
-  "https://www.naeil.com/news/read/594580",
-  "https://www.newspim.com/news/view/20260708000738",
-  "https://www.tokenpost.kr/news/breaking/375844",
-  "https://www.etoday.co.kr/news/view/2601486",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423909",
-  "https://www.mk.co.kr/article/12093084",
   "http://www.fnnews.com/news/202607080817150969",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4423865",
   "https://www.tokenpost.kr/news/economy/375772",
@@ -2999,16 +2992,16 @@
   "https://www.viva100.com/article/20260711500042",
   "https://www.tjb.co.kr/news05/bodo/view/id/100808",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2229683",
-  "https://www.bloter.net/news/articleView.html?idxno=667855"
+  "https://www.bloter.net/news/articleView.html?idxno=667855",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447816",
+  "https://www.ekn.kr/web/view.php?key=20260710027361324",
+  "https://www.sedaily.com/article/20066491",
+  "https://www.mydaily.co.kr/page/view/2026070615110080622",
+  "https://www.ajunews.com/view/20260711094439904",
+  "https://www.radiokorea.com/news/article.php?uid=499142",
+  "https://www.newsis.com/view/NISX20260710_0003704339"
  ],
  "seen_titles": [
-  "삼성파운드리턴어라운드기대…이재용美출장길에한진만사장동행...",
-  "메모리호황뒤남은퍼즐…삼성파운드리,2나노로부활신호탄쏠까",
-  "호주연기금\"美기술주떨어지면산다\"…AI성장성에베팅",
-  "“취약점대응시간6700배단축”…AI시대보안패러다임변화",
-  "안보우려털어낸오픈AI,최신'GPT-5.6'전면출시",
-  "딥시크,자체추론용AI칩개발",
-  "[미국특징주]오픈AIGPT-5.6출시제한해제…AI경쟁주도권강화나...",
   "앤스로픽,비트코인채굴업체테라울프와20년계약",
   "“중국딥시크,자체AI칩개발한다...업계와논의중”",
   "삼성파운드리턴어라운드했나…선밸리서대형수주기대",
@@ -6001,7 +5994,14 @@
   "SK하이닉스,나스닥화려한데뷔⋯마이크론시총넘었다",
   "\"공급이수요못따라간다\"…최태원,AI에수백억달러승부수",
   "SK하이닉스,美나스닥입성…투자접근성높이고글로벌위상강화",
-  "SK하이닉스,나스닥데뷔첫날13%급등…AI투자열기지속"
+  "SK하이닉스,나스닥데뷔첫날13%급등…AI투자열기지속",
+  "[안병익의식신맛집]섬세한요리와완벽한마리아주!한식다이닝신상...",
+  "[신간도서출간]‘한국에서부자되는가장빠른길’·‘사고싶은마...",
+  "3.2조달러몰렸다…글로벌M&A·IPO10년만에최대",
+  "[리뷰]“빠질걱정덜고소리몰입감더했다”…샥즈‘오픈닷2·에어...",
+  "최태원회장\"AI에수백억달러투자…HBM공급부족계속될것\"",
+  "7월10일이브닝뉴스헤드라인",
+  "'사이버렉카'잡겠다는7.7법…'묻지마소송전'에갇힐지도"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,17 @@
   [
    "2026-07-11T10:01:02.424195+09:00",
    "선택 업스테이지 협업사로 만나요 다음에서 세레브라스"
+  ],
+  [
+   "2026-07-11T10:02:16.293654+09:00",
+   "이브닝뉴스 7월 10일 헤드라인"
+  ],
+  [
+   "2026-07-11T10:02:16.293654+09:00",
+   "렉카 소송전 갇힐지도 사이버 잡겠다는 7법 묻지마"
   ]
  ],
- "last_run": "2026-07-11T10:01:19.915043+09:00",
+ "last_run": "2026-07-11T10:02:41.306701+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
