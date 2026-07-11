@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.huffingtonpost.kr/article/258518",
-  "https://www.newspim.com/news/view/20260707000807",
-  "https://www.naeil.com/news/read/594399",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=82997",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03575206645512224",
   "https://gamefocus.co.kr/detail.php?number=177261",
@@ -2999,12 +2996,12 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=846926",
   "https://www.g-enews.com/view.php?ud=202607111020127196e30fcb1ba8_1",
   "https://www.gukjenews.com/news/articleView.html?idxno=3632902",
-  "http://www.boannews.com/media/view.asp?idx=144636&kind=6"
+  "http://www.boannews.com/media/view.asp?idx=144636&kind=6",
+  "https://www.hankookilbo.com/news/article/A2026071110260003984?did=NA",
+  "https://magazine.hankyung.com/business/article/202607119139b",
+  "https://www.yna.co.kr/view/AKR20260711024100011?input=1195m"
  ],
  "seen_titles": [
-  "트럼프차단조치에도…美당국,보안감사에미토스사용",
-  "오픈AI·앤스로픽,무료AI크레딧뿌리며스타트업선점경쟁",
-  "데이터사이언스랩‘SecureMCP™’,AI기술사업화지원사업선정",
   "NHN,임직원대상‘에이전틱데이’개최…사내AX박차",
   "\"철학자의역습\":'취업안된다'던철학전공자가AI시대실리콘밸리...",
   "[미국특징주]'머스크제국'가속화되나…테슬라·스페이스X합병기대...",
@@ -6001,7 +5998,10 @@
   "SK하이닉스,뉴욕수놓다…최태원오프닝벨누르자현장'환호성'",
   "美“메모리공장지어달라”하루만에…최태원,현지팹투자열어뒀...",
   "추경호대구광역시장,120콜센터방문해민원응대시스템점검및격려",
-  "[배종찬의보안빅데이터]앤트로픽‘미토스’,신의선물인가저주인..."
+  "[배종찬의보안빅데이터]앤트로픽‘미토스’,신의선물인가저주인...",
+  "SK하이닉스나스닥상장첫날,공모가보다13%급등",
+  "[속보]최태원,\"미국에반도체추가투자검토\"",
+  "[연합뉴스이시각헤드라인]-10:30"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-07-11T10:26:14.974036+09:00",
    "수놓다 오프닝 SK하이닉스 환호성 현장 누르자 뉴욕"
+  ],
+  [
+   "2026-07-11T10:32:15.640559+09:00",
+   ""
   ]
  ],
- "last_run": "2026-07-11T10:31:07.662280+09:00",
+ "last_run": "2026-07-11T10:32:39.732346+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
