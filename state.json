@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20260711/134278103/2",
-  "http://www.metroseoul.co.kr/article/20260711500001",
-  "https://www.apnews.kr/news/articleView.html?idxno=3049684",
-  "https://www.ytn.co.kr/_ln/0104_202607110130048917",
-  "http://www.yonhapnewstv.co.kr/news/AKR2026071101264002w",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000049167",
   "https://www.newspim.com/news/view/20260711000007",
   "https://www.joongangenews.com/news/articleView.html?idxno=532182",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724257",
@@ -2999,15 +2993,15 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269568",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02132006645514192",
   "https://www.cstimes.com/news/articleView.html?idxno=713144",
-  "https://www.newsis.com/view/NISX20260713_0003706066"
+  "https://www.newsis.com/view/NISX20260713_0003706066",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02138566645514192",
+  "https://dealsite.co.kr/articles/165106",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699095",
+  "https://news.bizwatch.co.kr/article/industry/2026/07/13/0001",
+  "http://www.nongaek.com/news/articleView.html?idxno=96071",
+  "https://kpenews.com/View.aspx?No=4146186"
  ],
  "seen_titles": [
-  "최태원\"반도체옛날같은사이클로움직이지않아…구조적변화\"",
-  "최태원\"AI메모리수요,2배늘려도부족…과거사이클과달라\"",
-  "SK하이닉스美ADR170달러에거래시작...공모가보다14%↑",
-  "나스닥입성한SK하이닉스‘40조원잭팟’",
-  "SK하이닉스,美나스닥입성…AI생태계·글로벌투자자공략본격화",
-  "SK하이닉스,나스닥ADR상장…\"AI가있는모든곳에함께할것\"",
   "최태원\"하이닉스미상장,꿈이현실로...HBM수요기하급수적급증\"",
   "최태원\"AI분야수백억달러투자…HBM수요기하급수적증가\"",
   "SK하이닉스ADR거래시작…타임스스퀘어엔\"웰컴투나스닥\"",
@@ -6001,7 +5995,13 @@
   "[굿모닝!글로벌뉴욕증시]미국-이란대화지속여력과반도체섹터훈...",
   "'생성형AI음성플랫폼'네오사피엔스,코스닥예심통과…IPO본격화",
   "원콜,위베어소프트에이피넥스기반오픈API플랫폼구축",
-  "중동리스크에'흔들'…프리마켓서삼전0.7%·SK하닉2.1%↓"
+  "중동리스크에'흔들'…프리마켓서삼전0.7%·SK하닉2.1%↓",
+  "노타,글로벌AI학회‘ICML2026’챌린지3위…“LLM추론속도7배높...",
+  "[기자수첩]보안산업태생적한계극복해야",
+  "빗썸,가짜거래앱사기예방가이드공개",
+  "AI수요폭증에'속도전'…삼성,용인첫팹2년앞당긴다",
+  "[오늘의사설]\"첫폭염중대경보…극한더위일상화대비를\"",
+  "롯데카드,해킹사고영업정지결정임박..연말성수기'빨간불'"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,17 @@
   [
    "2026-07-13T08:22:14.857960+09:00",
    "대신 털었다 ~SKT 유출사고 충격 기대 데이터센터 성장"
+  ],
+  [
+   "2026-07-13T08:28:16.041060+09:00",
+   "대비를 폭염중대경보 극한 더위 일상화"
+  ],
+  [
+   "2026-07-13T08:28:16.041060+09:00",
+   "결정 롯데카드 연말 성수기 빨간불 영업정지 해킹사고 임박"
   ]
  ],
- "last_run": "2026-07-13T08:26:34.935584+09:00",
+ "last_run": "2026-07-13T08:28:36.618220+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
