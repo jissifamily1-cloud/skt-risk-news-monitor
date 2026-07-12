@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=441970",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256005",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256001",
-  "https://www.donga.com/news/Economy/article/all/20260709/134267720/1",
   "https://www.munhwa.com/article/11601570",
   "http://www.tjb.co.kr/sub0301/bodo/view/id/100708",
   "https://www.seoultimes.news/news/article.html?no=2000097599",
@@ -2999,13 +2995,13 @@
   "https://www.slist.kr/news/articleView.html?idxno=751298",
   "http://www.e2news.com/news/articleView.html?idxno=332221",
   "https://www.fetv.co.kr/news/articleView.html?idxno=306220",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=61479"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61479",
+  "https://www.ceoscoredaily.com/page/view/2026071016004326673",
+  "https://www.mk.co.kr/article/12096586",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7173779",
+  "https://www.aflnews.co.kr/news/articleView.html?idxno=324243"
  ],
  "seen_titles": [
-  "SK하이닉스,10일나스닥상장'美흥행예고'...최태원·곽노정방미",
-  "역대급흥행조짐…최태원,SK하닉나스닥데뷔직접챙긴다",
-  "[정구민의테크읽기]2026년피지컬AI와휴머노이드가이끄는제조혁신",
-  "국방AI골든타임…\"전장경쟁,무기에서AI로\"",
   "두산로보틱스'젠슨황'효과는언제쯤?,김민표올해도흑자전환난항...",
   "[Ψ-딧세이]아모데이의멀쩡한클로드괴물만들기집착",
   "골드만삭스의AI랠리GG선언:소프트웨어거품시대의종언",
@@ -6001,7 +5997,11 @@
   "SK하이닉스ADR연계레버리지ETF13∼14일美출시",
   "[칼럼]3대메가프로젝트,물과열도중요하다",
   "[ESG돋보기-대한항공]'아시아나합병'앞두고'AI연료제어'극대화",
-  "\"집이냐앤트로픽주식이냐\"…장외서기업가치1조2천억달러,오픈AI도..."
+  "\"집이냐앤트로픽주식이냐\"…장외서기업가치1조2천억달러,오픈AI도...",
+  "건설업계,AI데이터센터‘새먹거리’부상…대우·GS·SK에코미래투...",
+  "매경이전하는세상의지식(매-세-지,7월13일)",
+  "\"9천피신기루였나\"…반도체고점론에흔들리는코스피",
+  "[기고]K-푸드,이제는경험을수출하자"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,21 @@
   [
    "2026-07-13T07:01:04.581988+09:00",
    "집이냐 앤트로픽 기업가치 주식이냐 장외서 오픈AI도 1조2천억달러"
+  ],
+  [
+   "2026-07-13T07:02:16.084089+09:00",
+   "전하는 13일 7월 매경이 세상의 지식"
+  ],
+  [
+   "2026-07-13T07:02:16.084089+09:00",
+   "코스피 흔들리는 9천피 반도체 신기루였나 고점론에"
+  ],
+  [
+   "2026-07-13T07:02:16.084089+09:00",
+   "수출하자 푸드 경험을 이제는"
   ]
  ],
- "last_run": "2026-07-13T07:01:21.437017+09:00",
+ "last_run": "2026-07-13T07:02:44.006190+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6633,6 +6645,7 @@
   "aptn.co.kr": "아파트관리신문",
   "kdpress.co.kr": "데일리경제",
   "news.cpbc.co.kr": "news.cpbc.co.kr",
-  "news.koreanbar.or.kr": "법조신문"
+  "news.koreanbar.or.kr": "법조신문",
+  "aflnews.co.kr": "농수축산신문"
  }
 }
