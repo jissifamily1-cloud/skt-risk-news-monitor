@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmaeil.com/news/articleView.html?idxno=644974",
-  "http://www.breaknews.com/1220816",
   "https://www.aitimes.com/news/articleView.html?idxno=212610",
   "https://www.joongang.co.kr/article/25443812",
   "http://www.joseilbo.com/news/news_read.php?uid=571673&class=1",
@@ -2999,11 +2997,11 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=272820",
   "https://www.thepublic.kr/news/articleView.html?idxno=310842",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=126770",
-  "https://www.mk.co.kr/article/12096291"
+  "https://www.mk.co.kr/article/12096291",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607120912594jN",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317553"
  ],
  "seen_titles": [
-  "SKT,소프트뱅크·사회적가치연구원과기술기여도측정모델구축",
-  "오픈AI2인자,건강악화로사임",
   "[막전막후]그래서\"스타벅스가야지\"는사라졌을까?",
   "SK하이닉스,나스닥상장'40조잭팟'터졌다…최태원,13일'나스닥벨...",
   "경기도어린이박물관,여름방학특별프로그램운영…예술과과학체험...",
@@ -6001,7 +5999,9 @@
   "LGBuildsIndependentFrontForPhysicalAI'WorldModel'",
   "삼성전자파운드리를주목해야하는이유는?",
   "보안높이고지연줄인다…LG유플러스,양자통신품질기준제안",
-  "“집값은오픈AI주식으로주세요”…‘IPO희망회로’부동산도들썩"
+  "“집값은오픈AI주식으로주세요”…‘IPO희망회로’부동산도들썩",
+  "반도체피크아웃?…삼전닉스실적으로잠재울까",
+  "민주당,방문진이사후보'결격사유논란'말아껴"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,13 @@
   [
    "2026-07-12T09:12:16.211989+09:00",
    "주식으로 희망회로 집값은 부동산도 IPO 들썩 주세요"
+  ],
+  [
+   "2026-07-12T09:14:22.699994+09:00",
+   "삼전닉스 반도체 실적으로 잠재울까 피크아웃"
   ]
  ],
- "last_run": "2026-07-12T09:12:40.604806+09:00",
+ "last_run": "2026-07-12T09:14:47.614468+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
