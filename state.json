@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112837454",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=59268",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3632651",
-  "https://www.smartbizn.com/news/articleView.html?idxno=148307",
   "https://www.aitimes.com/news/articleView.html?idxno=212632",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61453",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269555",
@@ -2999,13 +2995,13 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000049382",
   "https://it.donga.com/109174/",
   "http://www.fnnews.com/news/202607121802331212",
-  "https://www.mk.co.kr/article/12096578"
+  "https://www.mk.co.kr/article/12096578",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240344",
+  "https://www.mk.co.kr/article/12096581",
+  "https://www.sedaily.com/article/20066733",
+  "https://www.mk.co.kr/article/12096582"
  ],
  "seen_titles": [
-  "폭우속기흥호수공원환경정화…이상일용인시장·시민400여명참여",
-  "영남이공대,AI·미래산업인재양성확대",
-  "[공매도브리핑]SK하이닉스5,663억…KT비중43.98%",
-  "[사진]퓨처스올스타전선발KT박지훈,'왕사남'으로변신",
   "[사진]퓨처스올스타전선발KT박지훈",
   "[게임뉴스]카카오게임즈및넷이즈게임즈소식외",
   "용인시,경기사회복지공동모금회서7000만원사업비전달받아",
@@ -6001,7 +5997,11 @@
   "\"실적보단미담·연고\"…하락장속묻지마테마주기승",
   "에임인텔리전스“모델성능과안전은별개…AI에이전트보안이더어...",
   "티빙MAU900만명돌파…쿠플제쳤다",
-  "“가짜뉴스와해킹으로진짜와가짜경계허물고적진에공포를심어라..."
+  "“가짜뉴스와해킹으로진짜와가짜경계허물고적진에공포를심어라...",
+  "[위클리시그널]차세대통신망3가지키워드는'양자·AI·위성'",
+  "[미국주식돋보기]데이터유출없는AI…스노플레이크급반등",
+  "칩에냉각수직접흘려발열제어…발전소뺀AIDC생태계품는다",
+  "M7도상장첫달은고전…스페이스X이젠로켓상승?"
  ],
  "recent_sigs": [
   [
@@ -6277,7 +6277,7 @@
    "가짜뉴스와 진짜와 경계 적진에 공포를 심어라 허물고 가짜 해킹으로"
   ]
  ],
- "last_run": "2026-07-12T18:06:38.260283+09:00",
+ "last_run": "2026-07-12T18:08:36.957876+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
