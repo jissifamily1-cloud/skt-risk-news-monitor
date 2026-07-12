@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539150",
-  "https://www.donga.com/news/Economy/article/all/20260710/134276267/2",
-  "https://www.tokenpost.kr/news/breaking/376632",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=206826",
-  "https://imnews.imbc.com/news/2026/world/article/6836658_36925.html",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01272646645513536",
   "https://news.mtn.co.kr/news-detail/2026071103324865614",
   "https://www.sedaily.com/article/20066486",
@@ -2999,14 +2994,14 @@
   "https://www.sidae.com/article/2026071308324848491",
   "https://www.tournews21.com/news/articleView.html?idxno=138451",
   "https://www.munhwa.com/article/11601885",
-  "https://www.joongangenews.com/news/articleView.html?idxno=532267"
+  "https://www.joongangenews.com/news/articleView.html?idxno=532267",
+  "https://www.nocutnews.co.kr/news/6546959",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424562",
+  "http://www.popcornnews.net/news/articleView.html?idxno=126354",
+  "http://datanews.co.kr/news/article.html?no=145538",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02276326645514192"
  ],
  "seen_titles": [
-  "최태원\"AI메모리수요,기하급수적증가…생산두배늘려도부족\"",
-  "나스닥입성한최태원SK회장\"美메모리공장,조건맞으면검토\"",
-  "최태원회장,오프닝벨울렸다…美나스닥입성한SK하이닉스",
-  "‘총성’피해숨던게임속캐릭터AI…산업현장로봇두뇌로진화",
-  "스페이스X·오픈AI·앤스로픽,美VC최대회수기대",
   "[주요공시]파두,한화엔진,남광토건,티에스이,대웅제약,앤로보틱스...",
   "최태원\"반도체시장구조적변화‥수요증가속도가공급능가\"",
   "최태원\"AI는아직4~5살짜리아이…AGI올때까지메모리수요계속늘...",
@@ -6001,7 +5996,12 @@
   "[아침밥]대신증권\"무선강점LG유플러스,데이터센터는다크호스\"",
   "삼양그룹,AI전환가속화나선다…사내포털'SAMI2.0'새롭게선보여",
   "AI업체들,너도나도엔비디아CPU원해…삼전닉스수혜입을까",
-  "하나카드,프리미엄AI30종올인원구독서비스'AI스마트팩'출시"
+  "하나카드,프리미엄AI30종올인원구독서비스'AI스마트팩'출시",
+  "부산시,명지산단에'엣지AI데이터센터'구축…183억원투입",
+  "메타,대규모지출만회할소식에올해들어주가반등",
+  "\"정상앱처럼위장\"…빗썸,가짜거래앱사기예방가이드공개",
+  "SKT,정보보호투자70%↑…해킹이바꾼보안경쟁",
+  "SKT,여름휴가철‘로밍·멤버십’총공세…첫로밍70%할인"
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,17 @@
   [
    "2026-07-13T08:44:16.215835+09:00",
    "무선 LG유플러스 ~LGU 강점 대신증권 데이터센터는 다크호스"
+  ],
+  [
+   "2026-07-13T08:48:16.646712+09:00",
+   "정보보호 ~SKT 투자 보안 경쟁 해킹이 바꾼"
+  ],
+  [
+   "2026-07-13T08:48:16.646712+09:00",
+   "~SKT 할인 멤버십 휴가철 로밍 여름 총공세"
   ]
  ],
- "last_run": "2026-07-13T08:46:34.029237+09:00",
+ "last_run": "2026-07-13T08:48:40.800622+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
