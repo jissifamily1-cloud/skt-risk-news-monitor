@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447770",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16130769",
-  "http://www.osen.co.kr/article/G1112837455",
   "http://www.osen.co.kr/article/G1112837454",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=59268",
   "https://www.gukjenews.com/news/articleView.html?idxno=3632651",
@@ -2999,12 +2996,12 @@
   "https://www.dailian.co.kr/news/view/1665931/?sc=Naver",
   "https://www.nytimes.com/2026/07/12/magazine/data-center-heist.html?partner=naver",
   "http://www.fnnews.com/news/202607121802352436",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000049382"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000049382",
+  "https://it.donga.com/109174/",
+  "http://www.fnnews.com/news/202607121802331212",
+  "https://www.mk.co.kr/article/12096578"
  ],
  "seen_titles": [
-  "北'대남공작'정찰정보총국강화",
-  "'5월4승→5GERA5.32'황동하,올스타전휴식기돌입과함께1군말소…...",
-  "[위클리시그널]차세대통신망3가지키워드는'양자·AI·위성'",
   "폭우속기흥호수공원환경정화…이상일용인시장·시민400여명참여",
   "영남이공대,AI·미래산업인재양성확대",
   "[공매도브리핑]SK하이닉스5,663억…KT비중43.98%",
@@ -6001,7 +5998,10 @@
   "SKT,KKRAI데이터센터인수금융검토설에\"확정된사항없어\"",
   "HowaGangofThievesPulledOffaMultimillion-DollarDataCenterHeis",
   "KT정보보호자문위출범…\"신뢰받는AX컴퍼니로\"",
-  "\"실적보단미담·연고\"…하락장속묻지마테마주기승"
+  "\"실적보단미담·연고\"…하락장속묻지마테마주기승",
+  "에임인텔리전스“모델성능과안전은별개…AI에이전트보안이더어...",
+  "티빙MAU900만명돌파…쿠플제쳤다",
+  "“가짜뉴스와해킹으로진짜와가짜경계허물고적진에공포를심어라..."
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,13 @@
   [
    "2026-07-12T18:04:17.266140+09:00",
    "미담 하락장 기승 묻지마 연고 실적보단 테마주"
+  ],
+  [
+   "2026-07-12T18:06:14.629741+09:00",
+   "가짜뉴스와 진짜와 경계 적진에 공포를 심어라 허물고 가짜 해킹으로"
   ]
  ],
- "last_run": "2026-07-12T18:04:34.922103+09:00",
+ "last_run": "2026-07-12T18:06:38.260283+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
