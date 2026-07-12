@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061819",
   "https://byline.network/?p=9004111222611714",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04191846645513208",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=849506",
@@ -2999,10 +2998,10 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1390571",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716019",
   "https://www.donga.com/news/Economy/article/all/20260710/134273999/1",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2427512"
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2427512",
+  "https://www.koreaherald.com/article/10805972"
  ],
  "seen_titles": [
-  "메타,엔비디아의존줄인다…자체AI칩생산",
   "[그래픽]가짜뉴스처벌법적용사업자및준수사항",
   "경기문화재단경기도어린이박물관,2026년여름방학특별교육프로그램...",
   "통신3사,갤럭시폴더블폰마케팅조기가동…가입자유치전점화",
@@ -6001,7 +6000,8 @@
   "\"메모리판가최대100%급등\"삼성전자·SK하이닉스,역대급호황이어...",
   "메모리슈퍼사이클에3000조원베팅…삼성·하이닉스·마이크론'증설전...",
   "메타,9월부터자체AI칩생산…엔비디아의존줄인다",
-  "SK하이닉스,나스닥시장입성"
+  "SK하이닉스,나스닥시장입성",
+  "KTlaunchescybersecurityadvisorycommittee"
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,13 @@
   [
    "2026-07-12T13:28:15.593706+09:00",
    "메모리 슈퍼사이클에 3000조원 마이크론 증설 삼성 하이닉스 베팅"
+  ],
+  [
+   "2026-07-12T13:34:18.438085+09:00",
+   "launches ~KT committee cybersecurity advisory"
   ]
  ],
- "last_run": "2026-07-12T13:32:32.965299+09:00",
+ "last_run": "2026-07-12T13:34:35.772713+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
