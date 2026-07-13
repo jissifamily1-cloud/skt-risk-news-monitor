@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607101440214316",
-  "https://www.mk.co.kr/article/12095507",
-  "https://zdnet.co.kr/view/?no=20260710181235",
-  "https://www.mt.co.kr/tech/2026/07/12/2026071015411942042",
-  "https://www.newsis.com/view/NISX20260712_0003705487",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683224",
   "http://www.datanews.co.kr/news/article.html?no=145557",
   "https://www.news1.kr/it-science/cc-newmedia/6224500",
@@ -2999,14 +2994,14 @@
   "http://www.finomy.com/news/articleView.html?idxno=257266",
   "https://www.busan.com/view/busan/view.php?code=2026071317411679674",
   "https://www.newspim.com/news/view/20260713001008",
-  "https://www.dongponews.net/news/articleView.html?idxno=59266"
+  "https://www.dongponews.net/news/articleView.html?idxno=59266",
+  "https://www.aitimes.com/news/articleView.html?idxno=212721",
+  "https://www.joongangenews.com/news/articleView.html?idxno=532557",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1385512",
+  "https://www.mk.co.kr/article/12097453",
+  "https://www.g-enews.com/view.php?ud=202607111816098003fda4f5ab74_1"
  ],
  "seen_titles": [
-  "LG유플러스,차세대보안통신품질국제표준화추진",
-  "김우빈앞세운KT…\"요즘은이렇게\"깜짝",
-  "KT,정보보호자문위원회출범…선제적보안체계구축",
-  "KT,정보보호자문위원회출범…AI·제로트러스트전략고도화",
-  "KT,신규광고캠페인‘요즘은이렇게’공개…배우김우빈모델",
   "KT,정보보호자문위원회로미래보안위협대응",
   "KT,정보보호자문위원회출범…AI보안·제로트러스트강화",
   "KT,새광고모델로김우빈발탁",
@@ -6001,13 +5996,14 @@
   "SK브로드밴드,시장침체속신사업과기존사업균형⋯'돌파구'모색",
   "글로벌패권다투는반도체업계‘증설경쟁’",
   "SK하이닉스,HBM공급망재편…청주·용인·인디애나3대거점구축",
-  "佛유력통신사AFP도주목한한국어…아비뇽물들인K-공연예술"
+  "佛유력통신사AFP도주목한한국어…아비뇽물들인K-공연예술",
+  "[게시판]SDT,양자클라우드플랫폼보안강화등단신",
+  "키움,프랜차이즈하영민80억원에잡았다…마운드핵심잔류",
+  "신라대·KOICA,모리셔스교사연수성료",
+  "\"美대형IPO잡자\"액티브ETF확대",
+  "머스크AI수익원,우주보다지상이먼저...연280억달러예상돼"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T11:46:18.246574+09:00",
-   "디파이 렌드 기반 블록체인 본조 헤데라 탈취 해킹으로 135억원"
-  ],
   [
    "2026-07-13T11:50:50.535427+09:00",
    "기술로 파트너 세계 가상 데이터 모빌테크 구현 도시"
@@ -6543,9 +6539,17 @@
   [
    "2026-07-13T17:46:17.166477+09:00",
    "물들인 한국어 유력 주목한 아비뇽 AFP도 공연예술"
+  ],
+  [
+   "2026-07-13T17:48:15.473980+09:00",
+   "대형 확대 ETF 액티브 잡자 IPO"
+  ],
+  [
+   "2026-07-13T17:48:15.473980+09:00",
+   "머스크 우주보다 280억 지상이 먼저 예상돼 수익원 달러"
   ]
  ],
- "last_run": "2026-07-13T17:46:42.872636+09:00",
+ "last_run": "2026-07-13T17:48:38.883995+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
