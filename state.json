@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/375844",
-  "https://www.etoday.co.kr/news/view/2601486",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4423909",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=114582",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607021723320920109467",
-  "https://www.yonhapmidas.com/news/articleView.html?idxno=10461",
   "https://www.dt.co.kr/article/12071285",
   "https://www.sisajournal.com/news/articleView.html?idxno=377476",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01423526645511896",
@@ -2999,15 +2993,15 @@
   "http://www.queen.co.kr/news/articleView.html?idxno=460190",
   "https://www.etnews.com/20260713000286",
   "https://www.donga.com/news/Economy/article/all/20260713/134287952/1",
-  "https://biz.heraldcorp.com/article/10807133"
+  "https://biz.heraldcorp.com/article/10807133",
+  "http://www.sisacast.kr/news/articleView.html?idxno=97747",
+  "https://www.eroun.net/news/articleView.html?idxno=85283",
+  "https://www.mt.co.kr/policy/2026/07/13/2026071314402964800",
+  "https://www.asiatime.co.kr/article/20260713500309",
+  "https://www.ziksir.com/news/articleView.html?idxno=139884",
+  "http://kor.theasian.asia/archives/409617"
  ],
  "seen_titles": [
-  "안보우려털어낸오픈AI,최신'GPT-5.6'전면출시",
-  "딥시크,자체추론용AI칩개발",
-  "[미국특징주]오픈AIGPT-5.6출시제한해제…AI경쟁주도권강화나...",
-  "앤스로픽,비트코인채굴업체테라울프와20년계약",
-  "“중국딥시크,자체AI칩개발한다...업계와논의중”",
-  "삼성파운드리턴어라운드했나…선밸리서대형수주기대",
   "NHN,'클로드'전사도입하고'에이전틱데이'개최…사내AX전면가속화",
   "[더벨][thebellnote]앤트로픽상장까지3개월",
   "미국'주식공급부족'시대끝나나",
@@ -6001,7 +5995,13 @@
   "'오디세이'놀란감독·맷데이먼,유재석만난다…'유퀴즈'출연",
   "'ICTAWARDKOREA2026'수상작발표···AI·디지털혁신70개서비스선...",
   "“반도체로경기살리려다공급과잉“…외신도정부메가프로젝트직...",
-  "한국두번올때일본건너뛴젠슨황,15일도쿄간다"
+  "한국두번올때일본건너뛴젠슨황,15일도쿄간다",
+  "삼양그룹,자체개발업무용AI포털'SAMI2.0'오픈…AI트랜스포메이...",
+  "[이로운분석]AI선도기업은삼성,실제이용은구글·챗GPT…인식과사용...",
+  "부산시명지녹산산단에엣지AI데이터센터구축",
+  "[증권뉴스브리핑]\"코스피밸류에이션금융위기때보다낮아\"/SK하이닉...",
+  "KT,CSAP인증'공공형AI메일보안'출시…공공·교육기관공략",
+  "[오늘의신문읽기]반도체훈풍과금리압박…성장과불안이함께온다"
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,13 @@
   [
    "2026-07-13T14:48:15.585411+09:00",
    "과제 영웅 유동수 규제 국가 기업 정무위의"
+  ],
+  [
+   "2026-07-13T14:54:14.960530+09:00",
+   "훈풍과 압박 함께 반도체 성장과 불안이 금리 온다"
   ]
  ],
- "last_run": "2026-07-13T14:52:34.461566+09:00",
+ "last_run": "2026-07-13T14:54:38.837146+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
