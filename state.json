@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.getnews.co.kr/news/articleView.html?idxno=874785",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=5024",
-  "https://www.gpkorea.com/news/articleView.html?idxno=144610",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360139",
-  "https://www.hankyung.com/article/2026071190037",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01744966645513536",
   "https://www.newsis.com/view/NISI20260711_0021359480",
   "https://www.newsis.com/view/NISI20260711_0021359479",
@@ -2999,14 +2994,14 @@
   "https://www.mt.co.kr/tech/2026/07/13/2026071309021227090",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699102",
   "https://www.newsis.com/view/NISX20260713_0003706243",
-  "https://www.viva100.com/article/20260713500148"
+  "https://www.viva100.com/article/20260713500148",
+  "https://www.news1.kr/politics/president/6225848",
+  "https://www.itworld.co.kr/article/4195861/ai-에이전트가-거짓말을-한다면-휴먼-인-더-루프는-의.html",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467821",
+  "https://www.newspim.com/news/view/20260713000041",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5045"
  ],
  "seen_titles": [
-  "SK하이닉스,美나스닥데뷔'흥행'…ADR첫날12.8%상승",
-  "아이온큐등美양자컴퓨팅주'급락'...이슈는?",
-  "뉴욕증시,SK하이닉스상장'대박'에상승마감...나스닥0.3%↑",
-  "[인사이트뉴스]미국서'40조잭팟'터트린SK하이닉스,코리아디스카...",
-  "\"뉴욕이K반도체에베팅했다\"…SK하이닉스,나스닥첫날13%급등",
   "뉴욕증시,'SK하이닉스데뷔'에상승…나스닥0.29%↑",
   "SK하이닉스,나스닥입성첫날13.1%↑…나스닥사장\"블록버스터급\"",
   "\"찾았다내영어쌤\"…GPT-라이브,실시간통역부터프리토킹까지[잇:써...",
@@ -6001,7 +5996,12 @@
   "KT,'국내첫CSAP인증'공공형AI메일보안출시",
   "KT,국내최초AI·APT결합'공공형AI메일보안'서비스선봬",
   "50년묵은수학난제,오픈AI가1시간만에풀었다",
-  "KT콘텐츠페이,AI·일상구독서비스최대50%할인"
+  "KT콘텐츠페이,AI·일상구독서비스최대50%할인",
+  "李대통령,국가재정전략회의주재…'미래대응기금'청사진제시(종합)",
+  "AI에이전트가거짓말을한다면,‘휴먼인더루프’는의미가있는가...",
+  "SK텔레콤,여름휴가철맞아로밍·멤버십혜택확대",
+  "[모닝리포트]\"SK스퀘어,하이닉스DR프리미엄수혜기대…목표가210...",
+  "[특징주]\"LG전자,엔비디아'AI서버랙'만든다\"는보도에장초반급등..."
  ],
  "recent_sigs": [
   [
@@ -6429,7 +6429,7 @@
    "구독 일상 서비스 ~KT 콘텐츠페이 할인"
   ]
  ],
- "last_run": "2026-07-13T09:21:17.529422+09:00",
+ "last_run": "2026-07-13T09:22:32.668495+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
