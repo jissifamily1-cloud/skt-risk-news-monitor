@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lkp.news/news/articleView.html?idxno=81817",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607110248&t=NN",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467545",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3632927",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1273597",
   "https://www.ikbc.co.kr/article/view/kbc202607110016",
   "https://www.gukjenews.com/news/articleView.html?idxno=3632933",
@@ -2999,13 +2995,13 @@
   "https://www.ddaily.co.kr/page/view/2026071310124834418",
   "https://www.munhwa.com/article/11602177",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424610",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683557"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683557",
+  "https://zdnet.co.kr/view/?no=20260713094912",
+  "http://www.fnnews.com/news/202607131013023641",
+  "https://www.etnews.com/20260713000109",
+  "https://www.hellot.net/news/article.html?no=113726"
  ],
  "seen_titles": [
-  "광주찾은與당권주자'반도체·삼성·문재인'민심잡기3인3색",
-  "김대권수성구청장,다음주독일대표단초청...기후변화·문화협력논...",
-  "[인사]대구시수성구청인사발령",
-  "SK하이닉스,ADR상장및거래개시…최태원회장등'오프닝벨'행사...",
   "\"오픈AI,기밀훔쳤다\"...애플,블록버스터급소송제기",
   "AI가바꾸는SK텔레콤…실적개선에투자매력커졌다",
   "김용판달서구청장,건강증진사업성과대회서보건복지부장관상수상",
@@ -6001,7 +5997,11 @@
   "\"챗GPT반값에이용하세요\"…KT,구독상품휴대폰결제시할인",
   "‘AI종말론’주장하던반AI운동가수개월째종적감춰…오픈AI직원...",
   "오픈AI의포항데이터센터,KB·우리銀금융주선…에코프로투자추진",
-  "오픈AI안전책임자,또떠난다…핵심리더이탈계속"
+  "오픈AI안전책임자,또떠난다…핵심리더이탈계속",
+  "중국지푸AI창업자\"최첨단AI,소수가독점해선안된다\"",
+  "하나카드,챗GPT등AI30종한번에쓴다",
+  "78리서치랩,KISA정보보호유니콘기업육성프로그램선정",
+  "오픈AI,GPT-5.6출시직후안전·연구조직대대적개편단행"
  ],
  "recent_sigs": [
   [
@@ -6535,9 +6535,13 @@
   [
    "2026-07-13T10:16:15.270586+09:00",
    "떠난다 리더 핵심 책임자 계속 안전 이탈"
+  ],
+  [
+   "2026-07-13T10:18:15.902491+09:00",
+   "안전 연구 직후 단행 GPT 대대적 개편 출시"
   ]
  ],
- "last_run": "2026-07-13T10:16:41.843924+09:00",
+ "last_run": "2026-07-13T10:18:33.655474+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
