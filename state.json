@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12072358",
-  "https://www.kbsm.net/news/view.php?idx=526385",
-  "https://www.ekn.kr/web/view.php?key=20260712025271602",
-  "http://www.popcornnews.net/news/articleView.html?idxno=126337",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=441049",
-  "https://www.joongangenews.com/news/articleView.html?idxno=532185",
   "https://zdnet.co.kr/view/?no=20260711222107",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01318566645513864",
   "https://www.businessplus.kr/news/articleView.html?idxno=114018",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260713_0003707397",
   "https://www.thereport.co.kr/news/articleView.html?idxno=89578",
   "https://www.ceoscoredaily.com/page/view/2026071317212106073",
-  "https://www.kwnews.co.kr/article/20260713500908"
+  "https://www.kwnews.co.kr/article/20260713500908",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3634626",
+  "https://www.jbnews.com/news/articleView.html?idxno=1507588",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379698",
+  "http://www.fnnews.com/news/202607131806587852",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424398",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092165717"
  ],
  "seen_titles": [
-  "[포커스]SK하이닉스나스닥'흥행대박'…반도체랠리·원화강세·코스...",
-  "2분기영업익90조예고한삼성전자…엔비디아차세대랙공정차질설...",
-  "CNN“오만,이란과호르무즈회담서남북2개항로제안”",
-  "경북제조업AI대전환…구미·포항AX실증산단동시선정",
-  "코스피7000지켜낼까…CPI·금통위·TSMC실적‘3중관문’[주간증시]",
-  "KTAI스테이션,'WSIS프라이즈2026'챔피언상수상",
   "KT'AI스테이션',WSIS프라이즈2026챔피언상수상",
   "[김수현의상한가]미·이란재공격에하락한증시...SK하이닉스가상승...",
   "공공발주돕는AI·SW포털'코나비'첫선…국산솔루션한눈에",
@@ -6001,29 +5995,15 @@
   "이현중·안영준·송교창합류…농구대표팀,월드컵예선대비훈련명...",
   "점유율,갤럭시81%-애플19%",
   "삼성전기·LG이노텍,AI수혜주부상…2분기역대급실적기록하나",
-  "‘랜섬웨어·지능형해킹막는다’춘천시정보보안체계강화"
+  "‘랜섬웨어·지능형해킹막는다’춘천시정보보안체계강화",
+  "추경호대구광역시장,대구~경북광역철도예타종합평가...'정부지원'...",
+  "[경제칼럼]충북반도체산업의생존법",
+  "한국인81%가삼성폰쓴다",
+  "글로벌‘AI주권경쟁’본격화…\"韓,국가종합전략시급\"",
+  "오픈AI2인자,건강악화로사임",
+  "\"800V부터AGX오린까지\"…AWAK,폴스타3기술검증"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T12:08:17.678255+09:00",
-   "위주로 가짜뉴스 판별 삭제 부사장 어려워 디시인사이드"
-  ],
-  [
-   "2026-07-13T12:10:50.072891+09:00",
-   "나스닥 SK하이닉스 김희 상장보다 사랑해 KHY 화제"
-  ],
-  [
-   "2026-07-13T12:10:50.072891+09:00",
-   "~KT"
-  ],
-  [
-   "2026-07-13T12:10:50.072891+09:00",
-   "일본 참석 찾는다 세가 신세졌던 행사 패싱 지적 젠슨황"
-  ],
-  [
-   "2026-07-13T12:10:50.072891+09:00",
-   "~KT"
-  ],
   [
    "2026-07-13T12:26:15.681685+09:00",
    "AI가 받고 에이전트 경쟁 주문까지 AICC도 전화 예약"
@@ -6565,7 +6545,7 @@
    "젠슨 리센느 터진 홍명보 총출동 이곳"
   ]
  ],
- "last_run": "2026-07-13T18:08:38.553727+09:00",
+ "last_run": "2026-07-13T18:11:08.988012+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
