@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20035823",
-  "https://www.hankyung.com/article/202604216505i",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013171",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=04063926645418088",
-  "https://www.mk.co.kr/article/12021205",
-  "https://www.sedaily.com/article/20034067",
   "https://biz.sbs.co.kr/article_hub/20000304912?division=NAVER",
   "https://www.munhwa.com/article/11582593",
   "https://www.etoday.co.kr/news/view/2575991",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03781846645514192",
   "https://www.dailian.co.kr/news/view/1666471/?sc=Naver",
   "http://www.fnnews.com/news/202607131211316765",
-  "https://www.yna.co.kr/view/AKR20260713091500002?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260713091500002?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3634417",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360201",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=404213",
+  "https://www.gosiweek.com/article/1065593678746515",
+  "https://it.donga.com/109179/",
+  "http://journal.kobeta.com/?post_type=post&p=63251"
  ],
  "seen_titles": [
-  "\"아일랜드는'유럽의실리콘밸리'…韓AI기업,EU진출발판될것\"",
-  "직원들피눈물에주주들환호하던메타…8000명해고하니벌어진일",
-  "오픈AI,새모델GPT-5.5출시…앤스로픽은보안논란구설수",
-  "AWS“에이전틱AI로파트너사생산성85%끌어올려”",
-  "AI동맹진화…아마존,앤스로픽에최대250억달러투자",
-  "[인터뷰-하정우靑AI미래기획수석(上)]\"AI는국가인프라…GPU26만장에...",
   "‘쫓아낼땐언제고’…美국방부엔스로픽미토스버젓이사용",
   "\"에이전트수요잡아야살아남는다\"",
   "배당에실적까지잡은통신주…원픽은‘SK텔레콤’[줍줍리포트]",
@@ -6001,13 +5995,15 @@
   "美수출통제푼오픈AI‘GPT-5.6’…MS코파일럿대표AI됐다",
   "[단독]롯데百본점외벽도광고판된다…명동‘미디어랜드마크’경...",
   "'AI주권'시대...K-AI생태계구축전략시급",
-  "IBK기업은행,혁신창업기업육성프로그램개시"
+  "IBK기업은행,혁신창업기업육성프로그램개시",
+  "하남시,황산사거리교통체계개선주민설명회개최…1단계대책추진",
+  "NHNKCP,글로벌오픈소스재단'AAIF'합류",
+  "노타,ICML2026AI챌린지3위…오픈소스LLM최적화기술력입증",
+  "AI가찾은보안취약점바로패치해도공무원책임묻지않는다...행안부...",
+  "딥노이드,M4CXR로생성형의료AI연다···'퓨리오사AI협력으로사업...",
+  "KT콘텐츠페이,AI‧일상구독서비스최대50%할인"
  ],
  "recent_sigs": [
-  [
-   "2026-07-13T09:26:14.481345+09:00",
-   "채용 제품 관리자 챗GPT 전담 가족 가정으로 무대 개인서"
-  ],
   [
    "2026-07-13T09:28:33.350383+09:00",
    "오픈AI와 레퍼런스 공급 제미나이 삼성전자 경쟁 구글 DX에 클라우드"
@@ -6455,9 +6451,13 @@
   [
    "2026-07-13T15:20:50.906776+09:00",
    "한국보다 젠슨 결정한 패싱한 도쿄행 매력 깜짝 없어"
+  ],
+  [
+   "2026-07-13T15:26:16.228809+09:00",
+   "일상 ~KT 할인 구독 서비스 콘텐츠페이"
   ]
  ],
- "last_run": "2026-07-13T15:24:38.662872+09:00",
+ "last_run": "2026-07-13T15:26:39.675865+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
