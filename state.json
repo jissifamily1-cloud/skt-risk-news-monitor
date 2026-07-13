@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202606262245579352",
-  "https://news.tvchosun.com/site/data/html_dir/2026/06/26/2026062690318.html",
-  "http://www.00news.co.kr/news/articleView.html?idxno=104738",
-  "https://www.segye.com/newsView/20260626507676?OutUrl=naver",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1528781",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000536724",
   "https://www.mediapen.com/news/view/1106854",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202301",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5202280",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20260713069000009?input=1195m",
   "https://www.public25.com/news/articleView.html?idxno=50548",
   "https://www.itbiznews.com/news/articleView.html?idxno=218915",
-  "https://www.news1.kr/it-science/security-hacking/6226181"
+  "https://www.news1.kr/it-science/security-hacking/6226181",
+  "https://swtvnews.com/news/newsview.php?ncode=1065583100497122",
+  "https://www.hellot.net/news/article.html?no=113735",
+  "https://www.ajunews.com/view/20260713124704502",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094687",
+  "https://www.venturesquare.net/1098154/",
+  "https://www.joongangenews.com/news/articleView.html?idxno=532390"
  ],
  "seen_titles": [
-  "최태원-노소영재산분할,7월24일마침표찍는다",
-  "최태원-노소영재산분할파기환송심내달24일선고",
-  "[티조챗]'세기의이혼'인가'세기의주식전쟁'인가…최태원·노소영·S...",
-  "최태원·노소영'재산분할'파기환송심다음달선고...SK주식쟁점",
-  "최태원-노소영'재산분할'변론마무리…내달24일선고",
-  "최태원-노소영재산분할눈길쏠린'내조'변론",
   "최태원·노소영‘1조원대재산분할’파기환송심,7월24일선고",
   "최태원·노소영'재산분할'파기환송심내달24일선고",
   "최태원-노소영‘재산분할’9년만의마침표…다음달24일선고",
@@ -6001,7 +5995,13 @@
   "블룸버그칼럼\"모두가돈나무(SK하이닉스)흔들고싶어한다\"",
   "삼성,테슬라'AI5'2나노양산초읽기…미국테일러공장가동본격화",
   "SKT,여름휴가시즌맞이로밍·멤버십혜택확대",
-  "학술행사자료집사칭해킹…북한배후APT37소행가능성"
+  "학술행사자료집사칭해킹…북한배후APT37소행가능성",
+  "삼성액티브운용,AI광통신·위성투자ETF출시",
+  "“추론속도7배높였다”노타,오픈소스최적화기술입증해",
+  "이원택전북도지사\"도정문턱낮추고,도민과소통가깝게\"",
+  "아태최대스마트시티축제'2026월드스마트시티엑스포'9월부산서...",
+  "“속도는7배,성능은그대로”…노타,ICML서LLM최적화기술력세계...",
+  "'패싱'논란일본찾는젠슨황...도쿄서세가30주년행사참석"
  ],
  "recent_sigs": [
   [
@@ -6525,7 +6525,7 @@
    "블룸버그 SK하이닉스 싶어한다 흔들고 모두가 돈나무 칼럼"
   ]
  ],
- "last_run": "2026-07-13T12:48:31.729529+09:00",
+ "last_run": "2026-07-13T12:51:11.278043+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
