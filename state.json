@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bigtanews.co.kr/article/view/big202607110001",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251223",
-  "https://www.sedaily.com/article/20066413",
-  "https://www.news1.kr/world/international-economy/6224852",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=104321",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141393",
-  "http://coinreaders.com/247228",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=306854",
-  "http://www.newstomato.com/ReadNews.aspx?no=1306852&inflow=N",
   "https://www.aitimes.kr/news/articleView.html?idxno=40935",
   "https://www.etoday.co.kr/news/view/2602667",
   "https://www.econovill.com/news/articleView.html?idxno=744901",
@@ -2999,18 +2990,18 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3633864",
   "https://www.gukjenews.com/news/articleView.html?idxno=3633865",
   "https://www.yna.co.kr/view/PYH20260713022700013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260713023300013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260713023300013?input=1196m",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02594486645514192",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424588",
+  "https://www.etoday.co.kr/news/view/2602945",
+  "https://www.viva100.com/article/20260713500199",
+  "https://www.ziksir.com/news/articleView.html?idxno=139809",
+  "https://www.kizmom.com/news/articleView.html?idxno=111523",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=306290",
+  "https://www.sentv.co.kr/article/view/sentv202607130016",
+  "https://www.newspim.com/news/view/20260713000205"
  ],
  "seen_titles": [
-  "SK하이닉스,나스닥데뷔첫날13%급등…'코리아디스카운트'해소기대...",
-  "타임스스퀘어수놓은‘SKHY’…최태원“AI시대,메모리부족장기화...",
-  "‘공모가대비13%급등’…SK하닉ADR,“이번딜은미국전체주식공...",
-  "[데일리머니마켓]SK하이닉스나스닥상장첫날13.1%↑",
-  "SK하이닉스,나스닥데뷔첫날12.76%급등…시총1조2000억육박",
-  "“오픈AI·구글,블랙리스트中기업에AI모델판매중”",
-  "美증시입성한SK하닉…월가\"AI가메모리사이클바꿀시험대\"",
-  "SK하이닉스,40조원나스닥데뷔전성공...첫날주당168.49달러",
-  "최태원SK회장\"AI에수백억달러투자...HBM수요기하급수적증가\"",
   "SK하이닉스·엔비디아급등!암호화폐시장도활짝웃었다",
   "최태원승부수통했다…SK하이닉스,나스닥첫날13%뛰며'AI몸값'증명",
   "최태원,오프닝벨울렸다…SK하이닉스나스닥입성",
@@ -6001,7 +5992,16 @@
   "KT,휴대폰결제로AI·구독상품이용시50%할인",
   "[포토]이상일용인시장,용인FC홈경기관람…선수단에격려메시지",
   "영남이공대학교,싱가포르서글로벌모빌리티캡스톤디자인프로그램운...",
-  "KT,콘텐츠페이프로모션진행"
+  "KT,콘텐츠페이프로모션진행",
+  "NHNKCP,글로벌오픈소스재단‘AAIF’합류",
+  "[뉴욕은지금]SK하이닉스ADR상장,삼성전자에던진질문",
+  "코스피,하락출발뒤방향성탐색…SK하이닉스4%대급락",
+  "빗썸,7월정보보호캠페인‘가짜거래앱사기예방가이드’공개",
+  "하나카드,인공지능서비스통합제공···'AI스마트팩'선봬",
+  "비트코인투자자노린신종사기…빗썸\"3대보안수칙지켜야\"",
+  "SKT,여름휴가철로밍·멤버십혜택확대",
+  "SKT,여름휴가수요잡는다…로밍·멤버십동시강화",
+  "美AI'클로드코드'백도어논란,中당국경고·알리바바전면금지"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-07-13T09:30:53.848425+09:00",
    "이용시 휴대폰결제로 할인 ~KT 구독상품"
+  ],
+  [
+   "2026-07-13T09:34:15.292149+09:00",
+   "전면 당국 알리바바 경고 코드 논란 금지 클로드 백도어"
   ]
  ],
- "last_run": "2026-07-13T09:32:38.497516+09:00",
+ "last_run": "2026-07-13T09:34:34.110883+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
