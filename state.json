@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000319095?division=NAVER",
-  "https://biz.heraldcorp.com/article/10789281",
-  "https://www.yna.co.kr/view/AKR20260626060900009?input=1195m",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8595446",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=735166",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092164540",
-  "http://www.inews24.com/view/1979354",
-  "https://www.naeil.com/news/read/593011",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422187",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52936",
   "https://magazine.hankyung.com/business/article/202606183594b",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=52932",
@@ -2999,18 +2990,18 @@
   "https://www.newsis.com/view/NISX20260713_0003707073",
   "https://www.hankookilbo.com/news/article/A2026071313360003049?did=NA",
   "https://www.topstarnews.net/news/articleView.html?idxno=16132957",
-  "http://www.joseilbo.com/news/news_read.php?uid=571797&class=18"
+  "http://www.joseilbo.com/news/news_read.php?uid=571797&class=18",
+  "https://www.aitimes.com/news/articleView.html?idxno=212687",
+  "https://www.mediapen.com/news/view/1109811",
+  "https://dealsite.co.kr/articles/165223",
+  "https://www.news1.kr/industry/electronics/6226415",
+  "https://www.mk.co.kr/article/12097132",
+  "https://www.viewsnnews.com/article?q=237160",
+  "https://www.m-i.kr/news/articleView.html?idxno=1390968",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=736828",
+  "https://www.newsis.com/view/NISX20260713_0003706858"
  ],
  "seen_titles": [
-  "中'가성비'AI모델코딩능력약진에'제2딥시크모멘트'기대감",
-  "한국사이버안보학회,AI시대국가사이버안보정책논의...7월9일세미...",
-  "클라우드토큰비용폭발…인텔,PII탐지정확도99%‘슈퍼클로’베...",
-  "NYT\"中AI모델,앤트로픽·오픈AI턱밑까지추격\"",
-  "SKT,엔트로픽IPO수혜주로주목",
-  "NYT\"중국AI모델,앤트로픽·오픈AI턱밑까지추격\"",
-  "메모리‘슈퍼사이클’언제까지?…“AI투자성패에달렸다”",
-  "[스페셜인터뷰]박상인교수②'국가대전환'청사진···\"남은1년이...",
-  "엔트로픽\"中알리바바가자사AI모델훔쳐모방시도\"",
   "'제2의대박'될까…SKT투자펭귄솔루션스,엔비디아파트너선정",
   "“AI데이터분쟁,출처검증체계구축해야”",
   "[주목e-금융]AI해킹시대,'원화스테이블코인'의기회&위험…\"착한...",
@@ -6001,7 +5992,16 @@
   "'나스닥상장'SK하이닉스,랍스터특식…곽노정사장\"이번성과,구성...",
   "거제야호·홍명보·젠슨황...의정부고앨범은올해도'밈모음zip'",
   "아이앤씨,KT와151억8천만원규모모뎀공급계약→매출성장기대",
-  "“AI해킹막아라”…삼성화재,개인정보보호강화로금융위원장표창"
+  "“AI해킹막아라”…삼성화재,개인정보보호강화로금융위원장표창",
+  "\"챗GPT조언이의사진단보다위\"…AI,섭식장애치료흔든다",
+  "[반도체승부수①]시스템·메모리벽허문AI…글로벌반도체지형도재...",
+  "반도체R&D125개과제부산집결…AI미래논의",
+  "삼성전자,테슬라AI5대규모양산임박…테이프아웃완료",
+  "“SK하이닉스는돈나무,모두가흔들고싶어해”…블룸버그가본‘하이...",
+  "<블룸버그>\"한미정부모두SK하이닉스흔들어열매따려해\"",
+  "CSAP인증품었다…KT,'AI메일보안'으로공공·교육기관'정조준'",
+  "KT,생성형서비스이용지원…국제시상식서ESG성과인정",
+  "'일본패싱'젠슨황,이번주방일…파산서구해준'세가'행사참석"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-07-13T15:02:16.750546+09:00",
    "보호 강화로 삼성화재 금융위원장 표창 개인정보 막아라"
+  ],
+  [
+   "2026-07-13T15:04:16.554417+09:00",
+   "생성형 서비스 ESG 국제 인정 지원 ~KT 시상식서 이용 성과"
   ]
  ],
- "last_run": "2026-07-13T15:02:37.518554+09:00",
+ "last_run": "2026-07-13T15:04:34.101272+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
