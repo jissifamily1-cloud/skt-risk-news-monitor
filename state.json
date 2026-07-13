@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1980179",
-  "https://www.mt.co.kr/world/2026/06/27/2026062710074865618",
-  "https://zdnet.co.kr/view/?no=20260626165013",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=440964",
-  "https://www.mk.co.kr/article/12084202",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714124",
   "https://www.dailian.co.kr/news/view/1660428/?sc=Naver",
   "https://www.nongmin.com/article/20260626500151",
   "https://www.mt.co.kr/tech/2026/06/26/2026062614193779711",
@@ -2999,15 +2993,15 @@
   "https://www.m-economynews.com/news/article.html?no=68683",
   "https://www.mk.co.kr/article/12097048",
   "https://www.ytn.co.kr/_ln/0104_202607131349385216",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168081"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168081",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3634252",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82052",
+  "https://www.etnews.com/20260713000217",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1007890",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3008235",
+  "https://biz.sbs.co.kr/article_hub/20000322150?division=NAVER"
  ],
  "seen_titles": [
-  "[사설]통신품질평가,질적진화필요하다",
-  "스페이스X가직접이통사운영한다?...\"주파수경매참여”,\"종이호랑이...",
-  "애플,국내에서만아이폰가격인상'신중모드'…9월이인상분수령",
-  "갤럭시S26실구매가50만원대…삼성환급행사에이통시장'활기'",
-  "스페이스X,스타링크일반소비자요금제검토…이통시장판도바뀌나",
-  "채팅·앱으로핸드폰해지...방미통위,이동통신해지개선안발표",
   "방미통위이동통신해지절차개선,전화상담없이채팅으로해지가능",
   "전화말고채팅상담으로도휴대전화해지가능해진다",
   "휴대전화해지쉬워진다…상담원채팅·앱으로가능",
@@ -6001,7 +5995,13 @@
   "금감원,자산운용사CEO간담회…\"주주권행사내실화·ETF광고개선\"",
   "“싸워”홍명보·“거제야호”리센느…의정부고졸업사진,올해도터...",
   "블룸버그\"SK하이닉스는황금알거위...알더낳아야\"",
-  "亞오후장중...코스피'폭락'&韓양대반도체주'휘청'"
+  "亞오후장중...코스피'폭락'&韓양대반도체주'휘청'",
+  "대전도시공사\"마음리부트서비스시행…직원스트레스완화지원\"",
+  "\"우주·AI·반도체이끌새싹키운다\"…IBK기업은행,하반기'IBK창공'스...",
+  "IBK기업은행,올하반기'IBK창공'혁신스타트업103개사육성돌입",
+  "IBK기업은행,하반기'IBK창공'육성프로그램가동",
+  "딥노이드,'M4CXR'앞세워의료AI서비스기업전환",
+  "[오후장체크포인트]'나스닥흥행'삼킨중동발리스크…시장전망은?"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-07-13T13:52:17.416337+09:00",
    "양대 폭락 오후 반도체주 휘청 장중 코스피"
+  ],
+  [
+   "2026-07-13T13:54:16.717048+09:00",
+   "전망은 리스크 삼킨 나스닥 시장 중동발 흥행"
   ]
  ],
- "last_run": "2026-07-13T13:52:40.859046+09:00",
+ "last_run": "2026-07-13T13:54:34.225370+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
