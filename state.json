@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=708843",
-  "https://www.mydaily.co.kr/page/view/2026071107195703744",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=827612",
-  "https://www.etoday.co.kr/news/view/2602664",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6836666_37012.html",
-  "https://www.yna.co.kr/view/AKR20260711010900091?input=1195m",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202612",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=314924",
   "https://www.wikitree.co.kr/articles/1145895",
   "https://biz.chosun.com/international/international_economy/2026/07/11/ALW5QK3W2NHRRMPU74YVSUZU7Y/",
   "https://www.topstarnews.net/news/articleView.html?idxno=16131165",
@@ -2999,17 +2991,17 @@
   "http://www.ttlnews.com/news/articleView.html?idxno=3124948",
   "https://www.wikitree.co.kr/articles/1145893",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683507",
-  "http://www.newstomato.com/ReadNews.aspx?no=1306935&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1306935&inflow=N",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699092",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=204826",
+  "https://www.nytimes.com/2026/07/10/briefing/ice-shooting-houston-trump-housing-bill.html?partner=naver",
+  "https://www.ddaily.co.kr/page/view/2026071309134371713",
+  "https://view.asiae.co.kr/article/2026071309134985838",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441075",
+  "https://www.viva100.com/article/20260713500138",
+  "https://zdnet.co.kr/view/?no=20260713091556"
  ],
  "seen_titles": [
-  "[르포]HBM4·2나노GAA·AI제조…'나노코리아'달군첨단기술",
-  "법까지바꿔지원…'일본반도체승부수'성패는?",
-  "SK하이닉스주가,월가데뷔첫날12.8%상승168달러로마감",
-  "SK하이닉스,나스닥첫날13%↑…美시장서AI메모리가치인정",
-  "'무려15명'롯데가가장많았다!1000만원→2000만원증액,2026년'미스...",
-  "SK하이닉스,나스닥데뷔흥행…공모가보다13%↑마감[마켓핫]",
-  "1부오늘의주요뉴스",
-  "애플,오픈AI에'하드웨어영업비밀탈취'소송…적이된AI동맹",
   "맞장구에추임새까지…빅테크는'말할맛나는AI'경쟁중",
   "SK하이닉스,나스닥서40조실탄…AI메모리승부처는클린룸으로",
   "SK하이닉스,나스닥입성첫날일냈다",
@@ -6001,7 +5993,15 @@
   "삼양그룹,AI포털'SAMI2.0'오픈…맞춤형업무지원강화",
   "오픈AI·구글,블랙리스트中기업에AI모델판매",
   "KT,공공용'AI메일보안'출시…CSAP인증획득",
-  "(특별기고)AI신문명시대의심장,원전SMR생태계복원의마지막골든..."
+  "(특별기고)AI신문명시대의심장,원전SMR생태계복원의마지막골든...",
+  "금통위25bp인상임박···증시촉각",
+  "고속도로휴게소운영구조전면개편…'정관예우'배제·다단계수수료...",
+  "WitnessestoICEKillingDisputetheOfficialAccount",
+  "애플,독자실리콘아키텍처고도화…1.4나노공정기반M8칩개발돌입",
+  "SK쉴더스,프로스트앤드설리번'아태고객가치리더십'사이버보안우...",
+  "SKT,휴가철맞아첫로밍70%할인",
+  "KT,CSAP인증‘AI메일보안’으로공공·교육기관이메일보안시장확...",
+  "[AI는지금]코드짜주던AI가해킹도구로…가짜패키지악용한'할루스..."
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-07-13T09:16:15.458689+09:00",
    "원전 심장 특별기고 생태계 골든 복원의 SMR 시대의 마지막 신문명"
+  ],
+  [
+   "2026-07-13T09:18:14.857893+09:00",
+   "가짜 AI가 할루스 코드 패키지 짜주던 악용한 도구로"
   ]
  ],
- "last_run": "2026-07-13T09:16:41.679168+09:00",
+ "last_run": "2026-07-13T09:18:38.443471+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
