@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260701000357",
-  "https://www.etnews.com/20260701000355",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680222",
-  "https://zdnet.co.kr/view/?no=20260701151415",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=680148",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4422727",
-  "https://www.newspim.com/news/view/20260701000069",
   "https://www.yakup.com/news/index.html?cat=12&nid=329203",
   "https://zdnet.co.kr/view/?no=20260630155619",
   "http://www.boannews.com/media/view.asp?idx=144417&kind=1",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20260713108900017?input=1195m",
   "https://www.etnews.com/20260713000147",
   "https://www.nocutnews.co.kr/news/6547336",
-  "https://www.mt.co.kr/finance/2026/07/13/2026071213395157521"
+  "https://www.mt.co.kr/finance/2026/07/13/2026071213395157521",
+  "https://www.etnews.com/20260713000234",
+  "https://www.koreajoongangdaily.com/lifestyle/hanwha-life-claims-msi-crown-first-host-country-to-fulfill-the-featnbsp/12770264",
+  "https://news.mtn.co.kr/news-detail/2026071313485596918",
+  "https://www.catchnews.kr/news/articleView.html?idxno=126105",
+  "https://www.newsis.com/view/NISX20260713_0003706879",
+  "https://www.etnews.com/20260713000265",
+  "https://www.mt.co.kr/stock/2026/07/13/2026071315462669461"
  ],
  "seen_titles": [
-  "[AIMY뉴스]2일중국증시'기술주쏠림→다중축균형'이동",
-  "적이냐동지냐...중량급B2BSaaS에앤트로픽클로드속속입성",
-  "글로벌기업직원들AI활용늘었지만…회사전체성과로안이어져",
-  "[이슈플러스]AI에게도상품을팔아야한다…AEO·GEO전쟁시작",
-  "[이슈플러스]네카오는생태계구축,유통업계는AI네이티브…에이전틱...",
-  "챗GPT만쓰면손해?…업무별로달라지는AI챗봇선택지",
-  "[현장]박형빈서울교대\"AI기본법에아동·청소년보호조항필요\"",
   "챗GPT가우리브랜드를추천할까…AI검색시대'새SEO'가시작됐다",
   "SK하닉올라탄SK텔레콤…데이터센터부터AI벤처투자까지'질주'",
   "[AIMY뉴스]1일중국증시'박스권진동속전반적상승,기술하드웨어...",
@@ -6001,7 +5994,14 @@
   "정부,국민누구나쓰는'무료AI'만든다…모두의AI착수",
   "[ET단상]AI공격시대,'가끔점검'은보안이아니다",
   "전국민무료AI에엔비디아GPU512장푼다",
-  "[단독]\"10년전'종이서류'로회귀\"…금융권'서류자동제출'멈춘다"
+  "[단독]\"10년전'종이서류'로회귀\"…금융권'서류자동제출'멈춘다",
+  "부총리-통신3사CEO,22일2차회동…AIDC진흥논의전망",
+  "HanwhaLifeclaimsMSIcrown,firsthostcountrytofulfillthefeat",
+  "전국민'1인1AI'만든다…모두의AI프로젝트착수",
+  "\"챗GPT반값에쓰세요\"KT콘텐츠페이,AI·일상구독서비스프로모션",
+  "\"고객마다칩더달라난리\"…'추론AI'확산에메모리부족장기화전망",
+  "퓨리오사AI,NPU내년'4만장'2배증산…엔비디아독점에도전",
+  "다보링크,CCTV보안시장진출…\"해킹걱정없는서비스제공\""
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,25 @@
   [
    "2026-07-13T16:02:19.952699+09:00",
    "자동제출 10년 멈춘다 금융권 회귀 종이서류 서류"
+  ],
+  [
+   "2026-07-13T16:04:15.944543+09:00",
+   "추론 달라 장기화 부족 전망 고객마다 메모리 확산에 난리"
+  ],
+  [
+   "2026-07-13T16:04:15.944543+09:00",
+   "일상 KT콘텐츠페이 쓰세요 구독서비스 반값에 ~KT 챗GPT 프로모션"
+  ],
+  [
+   "2026-07-13T16:04:15.944543+09:00",
+   "2배 도전 NPU 퓨리오사AI 내년 증산 독점에 4만장"
+  ],
+  [
+   "2026-07-13T16:04:15.944543+09:00",
+   "제공 CCTV 서비스 걱정 다보링크 없는 진출 보안시장"
   ]
  ],
- "last_run": "2026-07-13T16:02:42.931859+09:00",
+ "last_run": "2026-07-13T16:04:46.807235+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
