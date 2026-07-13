@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itbiznews.com/news/articleView.html?idxno=218300",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=63866",
-  "https://www.apnews.kr/news/articleView.html?idxno=3049523",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1783235064&code=11151400&cp=nv",
-  "https://www.donga.com/news/Economy/article/all/20260705/134239698/2",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1061282",
-  "https://www.joongang.co.kr/article/25442577",
   "https://www.medigatenews.com/news/3936791423",
   "https://www.segye.com/newsView/20260705509219?OutUrl=naver",
   "http://www.knnews.co.kr/news/articleView.php?idxno=1545630",
@@ -2999,16 +2992,16 @@
   "https://basketkorea.com/news/newsview.php?ncode=1065617380533839",
   "https://www.news1.kr/local/moi/6225686",
   "https://www.public25.com/news/articleView.html?idxno=50545",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264517"
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264517",
+  "https://www.etnews.com/20260713000181",
+  "https://www.koreadaily.com/article/20260712200143122",
+  "https://www.yna.co.kr/view/AKR20260713046900530?input=1195m",
+  "https://www.mt.co.kr/future/2026/07/13/2026071308334840593",
+  "https://www.news1.kr/bio/healthcare/6226187",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130080&t=NN",
+  "https://www.newsis.com/view/NISX20260713_0003706702"
  ],
  "seen_titles": [
-  "'내수통신사'틀깨는SKT…15GW규모AI데이터센터추진",
-  "AI인프라승부수띄운SKT…15GW데이터센터로'아시아허브'정조준",
-  "통신3사,AI데이터센터구축추진...'익시오로밍콜'서비스출시...'갤...",
-  "\"아시아AI인프라허브키운다\"…SKT,15GW급AI데이터센터구축",
-  "삼성·SK·현대차·한화등영남권에312조원투자...'첨단산업지도'바...",
-  "SKT,15GWAIDC구축한다…\"경부고속道·초고속인터넷잇는혁명\"",
-  "‘아시아AI인프라허브’노리는SKT…15GW데이터센터구축",
   "SKT“2035년까지최대15GW규모AI데이터센터조성”",
   "대형울산투자계획차질없도록市,인허가·규제개선지원나선다",
   "SKT,최대15GW규모AI데이터센터추진",
@@ -6001,7 +5994,14 @@
   "‘MBC배관람’이노우에유스케FE나고야코치,“한국선수들이관심...",
   "\"보안취약점긴급조치하다장애나도면책\"…행안부,제도개선",
   "정부시스템긴급한보안위기에패치적용해생긴문제면책된다",
-  "삼성전자,테슬라AI5양산채비…테일러2나노공장첫시험대"
+  "삼성전자,테슬라AI5양산채비…테일러2나노공장첫시험대",
+  "[인터뷰]이주연성남산업진흥원장“AI·반도체·방산연결···성남산...",
+  "[중앙칼럼]AI에게내주지말아야할능력",
+  "긴급보안패치설치속도높인다…행안부,공무원면책기준마련",
+  "노타,ICML2026챌린지3위…Qwen추론6.978배빨라졌다",
+  "딥노이드\"생성형의료AI상용화원년\"…'M4CXR'앞세워서비스전환",
+  "3분기유통업계2분기에비해회복될듯.",
+  "산업현장안전지킬위치기반서비스찾는다…KISA,공모전개최"
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,17 @@
   [
    "2026-07-13T11:58:16.001989+09:00",
    "자율 ADR 판단 존중해야 순풍 변수 기업의 속출"
+  ],
+  [
+   "2026-07-13T12:04:16.057597+09:00",
+   "회복될 유통업계 비해 3분기 2분기에"
+  ],
+  [
+   "2026-07-13T12:04:16.057597+09:00",
+   "산업현장 KISA 찾는다 지킬 서비스 위치기반 공모전 개최 안전"
   ]
  ],
- "last_run": "2026-07-13T12:02:31.484443+09:00",
+ "last_run": "2026-07-13T12:04:43.140589+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
