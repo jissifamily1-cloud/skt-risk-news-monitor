@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681139",
-  "https://zdnet.co.kr/view/?no=20260703110717",
-  "https://www.g-enews.com/view.php?ud=2026071123252431829a1f309431_1",
-  "https://www.dt.co.kr/article/12072321",
-  "http://www.boannews.com/media/view.asp?idx=144562&kind=3",
-  "https://dealsite.co.kr/articles/165005",
-  "https://www.mt.co.kr/world/2026/07/08/2026070816253977708",
-  "http://www.pckworld.com/article.php?aid=11143178429",
-  "https://www.sedaily.com/article/20064971",
-  "https://www.ziksir.com/news/articleView.html?idxno=139393",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=310945",
   "https://www.youthdaily.co.kr/news/article.html?no=222480",
   "http://www.popcornnews.net/news/articleView.html?idxno=125855",
@@ -2999,19 +2989,19 @@
   "https://zdnet.co.kr/view/?no=20260703094452",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=847854",
   "http://www.boannews.com/media/view.asp?idx=144444&kind=1",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468060"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468060",
+  "http://www.fnnews.com/news/202607131627371651",
+  "https://zdnet.co.kr/view/?no=20260713162757",
+  "https://www.ajunews.com/view/20260713164849124",
+  "https://www.aitimes.com/news/articleView.html?idxno=212605",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682999",
+  "https://www.aitimes.com/news/articleView.html?idxno=212604",
+  "https://zdnet.co.kr/view/?no=20260709095258",
+  "https://www.aitimes.com/news/articleView.html?idxno=212534",
+  "http://journal.kobeta.com/?post_type=post&p=63266",
+  "https://www.busan.com/view/busan/view.php?code=2026071313163220139"
  ],
  "seen_titles": [
-  "오픈AI,월가인재직접뽑는다…연봉3억내건이유",
-  "구글,유럽첫상업용핵융합발전소베팅…독일'프로시마퓨전'투자...",
-  "빅테크'AI실업대란'경고급감...비관론서생산성낙관론으로선회",
-  "마이크론,트럼프어카운트에3900억원쾌척…기업출연'역대최대'",
-  "[AI는지금]AI도입성패가르는FDE…기업밀착형구축경쟁본격화",
-  "백악관산업정책이바꾼인텔재건",
-  "돌아온외국인…삼성전자‘30만원선’회복할까",
-  "[ISEC2026미리보기]AI가공격하는시대,방어도진화해야한다...해커...",
-  "[삼성반도체점검]\"주문이수율높여\"…삼성파운드리,3나노악순환...",
-  "중국\"클로드'백도어'위험\"…美·中반도체넘어AI모델도신경전",
   "영적마찰력지키는주도적AI활용",
   "딥시크,칩까지직접만든다…중국AI‘홀로서기’승부수",
   "NHN,기술공유행사개최···에이전트기반업무문화정착박차",
@@ -6001,7 +5991,17 @@
   "4년전3G종료한T모바일,8월에2G스위치내린다",
   "[지배구조분석A+]②SKT,이통3사중유일기업지배구조'만점'",
   "사후약방문넘어AI보안본궤도?이통사보안투자3600억돌파",
-  "[코스피지수선물옵션]주식선물도'반도체쇼크'…삼성전자·SK하이닉..."
+  "[코스피지수선물옵션]주식선물도'반도체쇼크'…삼성전자·SK하이닉...",
+  "CJENM,광고주맞춤형'캘박CJ'선봬…IP협업기회한눈에본다",
+  "[ZDSW투데이]NIPA,2026오픈소스아카데미발대식개최外",
+  "IBK기업은행,하반기103개혁신창업기업육성",
+  "\"우리가안전성증명해야\"…알트먼,'정부규제반대'서한발물러섰다",
+  "팔로알토네트웍스CEO\"AI토큰비용최대90%낮아져야\"",
+  "AA순위뒤흔든GPT-5.6시리즈…'루나',대세GLM-5.2위협",
+  "[AI는지금]오픈AI,맞장구까지치는음성서비스꺼냈다",
+  "[7월8일]\"최고모델이공짜\"…오픈AI·앤트로픽이무료토큰경쟁에나...",
+  "정부,대국민AI서비스‘모두의AI프로젝트’공모",
+  "1GW급AIDC투자비,KT는5조원SKT는70조원…왜차이날까"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,13 @@
   [
    "2026-07-13T16:52:19.354748+09:00",
    "주식선물도 삼성전자 쇼크 SK하이닉 반도체"
+  ],
+  [
+   "2026-07-13T16:54:16.525066+09:00",
+   "KT는 차이 날까 ~SKT SKT는 AIDC 1GW급 5조 ~KT 투자비 70조"
   ]
  ],
- "last_run": "2026-07-13T16:52:36.940152+09:00",
+ "last_run": "2026-07-13T16:54:35.561259+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
