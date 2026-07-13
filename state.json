@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20066506",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=362395",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467517",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=51401",
-  "https://www.sidae.com/article/2026071109312941141",
-  "https://www.ngonews.kr/news/articleView.html?idxno=232686",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846922",
   "https://www.tournews21.com/news/articleView.html?idxno=138389",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=81885",
   "https://www.tjb.co.kr/news05/bodo/view/id/100813",
@@ -2999,16 +2992,16 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7173964",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4424598",
   "https://www.ajunews.com/view/20260713094848132",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79858"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79858",
+  "http://www.datanews.co.kr/news/article.html?no=145563",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114040",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699114",
+  "https://news.dealsitetv.com/articles/173195",
+  "https://www.newsis.com/view/NISX20260713_0003706381",
+  "https://www.etnews.com/20260713000080",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040144"
  ],
  "seen_titles": [
-  "[종합]\"11번가,키토선생,황금거위,배민,푸드루트,픽스녹음기\"등7월...",
-  "[오늘일본은]태풍9호오키나와강타…항공편200편이상결항",
-  "AI동맹에서경쟁자로…애플,오픈AI에‘영업비밀침해’소송",
-  "고점찍고4개월만에80%증발…주가5분의1토막나자승부수던진AI...",
-  "[이슈]한국도로달리는테슬라FSD…불붙는미래차주도권경쟁",
-  "단한번의원격공격으로이더리움증발…AI에이전트가폭로한재앙...",
-  "SK하이닉스,나스닥데뷔첫날13%급등…뉴욕증시도상승마감",
   "SK하이닉스,나스닥데뷔전서168달러마감…공모가대비13%쑥",
   "최태원SK그룹회장\"SK하이닉스,인공지능(AI)분야에수백억달러투자...",
   "최태원\"반도체,예전같은사이클로안움직인다…수요증가속도,공급...",
@@ -6001,7 +5994,14 @@
   "KT,CSAP인증획득'공공형AI메일보안'서비스출시",
   "기술주랠리에고개숙인버크셔,상반기S&P500에참패",
   "[AI브리핑]오픈AI'IPO잔혹사'···소송맞고매출은앤스로픽에역...",
-  "'TSMC의대안'삼성파운드리,구글-메타-엔트로픽등위탁전망"
+  "'TSMC의대안'삼성파운드리,구글-메타-엔트로픽등위탁전망",
+  "스패로우,통합애플리케이션보안솔루션조달등록",
+  "삼양그룹,'SAMI2.0'오픈…자체개발한업무용AI포털",
+  "\"반도체고점론\"vs\"AI초호황초입\"···한은고점론일축,시장은갈...",
+  "[뉴욕브리핑]SK하이닉스13%급등'화려한신고식'…美증시상승견인",
+  "[경남소식]재료硏바이오·헬스본부,소아암1천만원후원등",
+  "KT,CSAP인증'AI메일보안'출시…공공시장공략",
+  "통큰버거킹'3000원대와퍼'쏜다"
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,13 @@
   [
    "2026-07-13T09:54:16.816966+09:00",
    "TSMC의 구글 메타 위탁 전망 삼성 파운드리 대안"
+  ],
+  [
+   "2026-07-13T09:56:16.948062+09:00",
+   "버거킹 쏜다 3000원대 와퍼"
   ]
  ],
- "last_run": "2026-07-13T09:54:42.238237+09:00",
+ "last_run": "2026-07-13T09:56:40.073669+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
