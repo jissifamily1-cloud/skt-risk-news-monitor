@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/market/2026/07/10/0006",
-  "https://biz.heraldcorp.com/article/10805469",
-  "https://www.newsis.com/view/NISX20260710_0003704737",
-  "https://biz.heraldcorp.com/article/10805212",
-  "https://www.asiatime.co.kr/article/20260710500222",
-  "https://www.seoulfn.com/news/articleView.html?idxno=633045",
-  "https://www.slist.kr/news/articleView.html?idxno=751062",
-  "https://www.ajunews.com/view/20260710145724394",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=46195",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=827678",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260710165315v7s",
   "https://www.itbiznews.com/news/articleView.html?idxno=218874",
   "http://www.osen.co.kr/article/G1112837521",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467513",
@@ -2999,20 +2988,20 @@
   "http://www.fnnews.com/news/202607130909561476",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404187",
   "https://www.tokenpost.kr/news/economy/377015",
-  "https://www.newspim.com/news/view/20260713000176"
+  "https://www.newspim.com/news/view/20260713000176",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422330",
+  "https://www.kpinews.kr/newsView/1065573062348150",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467836",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53187",
+  "https://www.news1.kr/world/international-economy/6224860",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61490",
+  "https://www.cstimes.com/news/articleView.html?idxno=713172",
+  "https://www.joongangenews.com/news/articleView.html?idxno=532300",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572524208454",
+  "https://biz.heraldcorp.com/article/10806498",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7173957"
  ],
  "seen_titles": [
-  "[IT뒷담화]\"가짜뉴스방지가아닌입틀막?\"···7·7법이바꿀온라인...",
-  "스마트폰바꾸려다기겁…\"안산다\"버티기에'충격전망'[홍민성의테...",
-  "[이주의전자수첩]삼성'가이아'개발중…AIPC칩시장노린다",
-  "[ETF워치]변동성에도키워드는역시반도체…신상품은우주·방산",
-  "최태원“HBM수요기하급수적…AI에수십조투자”",
-  "美나스닥입성SK하이닉스…40조원실탄장전'외국기업사상최대규모...",
-  "“총력지원”vs“송곳검증”…與野,‘호남반도체클러스터’존재...",
-  "[힘내라K산업]②제조업다시쓰는구광모…'피지컬AI'로판키운다",
-  "[데스크칼럼]AI의마지막종착역은결국'공장'이다",
-  "최태원\"SK하이닉스액면분할,요청시검토가능…반도체구조적변화\"",
-  "HBM다음은전력반도체…AI가SiC·GaN시장까지키운다",
   "\"역사적순간\"SK하이닉스,나스닥첫날주가13%↑",
   "50명중27명이올스타전처음이라니…국가대표에이스,거포포수,아시...",
   "'엄마최애번호'로6,700만원당첨…복권한장으로효도한아들",
@@ -6001,7 +5990,18 @@
   "\"첫로밍70%할인\"SKT,휴가철로밍·멤버십혜택강화",
   "SKT,여름휴가맞춤형T멤버십혜택마련",
   "[특징주]LG전자,엔비디아'베라루빈'맞춤AI서버랙개발에9%대상...",
-  "[AIMY뉴스]13일중국증시'고점에서저점으로,기술주투자방향전환..."
+  "[AIMY뉴스]13일중국증시'고점에서저점으로,기술주투자방향전환...",
+  "통신3사보안투자3675억···SKT'규모'·LGU+'비중'1위",
+  "경과원,AI·SW중심대학7개교와미래AI인재육성",
+  "기술수출·신약개발기대에생물공학주강세…유전자치료·비만치료플...",
+  "'애플대오픈AI·조니아이브'블록버스터급법정공방벌이는까닭",
+  "애플,오픈AI·전직임원2명제소…\"영업비밀빼내AI하드웨어개발활...",
+  "미래에셋생명,변액펀드라인업확대...한·미·중반도체ETF3종편입",
+  "코스피,강보합7480선...SK하이닉스5%급락",
+  "\"한·미·중반도체까지\"…미래에셋생명ETF라인업확대",
+  "빗썸,'가짜거래앱'주의보…시드구문요구하면즉시사기의심해야",
+  "“거래와무관한권한요구·데이터사용량급증땐의심을”…빗썸‘...",
+  "SKT,휴가철로밍·멤버십혜택강화한다"
  ],
  "recent_sigs": [
   [
@@ -6457,7 +6457,7 @@
    "중국증시 저점으로 기술주 13일 고점에서 투자방향"
   ]
  ],
- "last_run": "2026-07-13T09:38:40.531420+09:00",
+ "last_run": "2026-07-13T09:41:04.624485+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
