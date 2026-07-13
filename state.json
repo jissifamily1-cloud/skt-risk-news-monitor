@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/industry/2026/07/13/0001",
-  "http://www.nongaek.com/news/articleView.html?idxno=96071",
   "https://kpenews.com/View.aspx?No=4146186",
   "https://biz.sbs.co.kr/article_hub/20000322036?division=NAVER",
   "https://daily.hankooki.com/news/articleView.html?idxno=1385152",
@@ -2999,11 +2997,11 @@
   "https://view.asiae.co.kr/article/2026071311053951581",
   "https://www.khan.co.kr/article/202607140757001",
   "http://www.fnnews.com/news/202607131550371508",
-  "https://www.newsis.com/view/NISX20260714_0003707792"
+  "https://www.newsis.com/view/NISX20260714_0003707792",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02112326645514192",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=61912"
  ],
  "seen_titles": [
-  "[기자수첩]보안산업태생적한계극복해야",
-  "빗썸,가짜거래앱사기예방가이드공개",
   "AI수요폭증에'속도전'…삼성,용인첫팹2년앞당긴다",
   "[오늘의사설]\"첫폭염중대경보…극한더위일상화대비를\"",
   "롯데카드,해킹사고영업정지결정임박..연말성수기'빨간불'",
@@ -6001,7 +5999,9 @@
   "[블룸버그칼럼]황금알을계속낳아야할거위,SK하이닉스",
   "2분기이재용주식가치28조↑…최태원은‘10조클럽’가입",
   "AI시대장기기억잡아라…SK하이닉스,낸드성장축키운다",
-  "KB증권\"코스피반등열쇠는금리안정…오픈AI국부펀드도주목\""
+  "KB증권\"코스피반등열쇠는금리안정…오픈AI국부펀드도주목\"",
+  "\"유출사고충격털었다\"SK텔레콤,AI데이터센터성장기대-대신",
+  "\"무섭노,우습노,찔리노?\""
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,13 @@
   [
    "2026-07-14T08:01:03.711132+09:00",
    "반등 코스피 주목 금리 안정 국부펀드도 KB증권 열쇠는"
+  ],
+  [
+   "2026-07-14T08:02:16.095093+09:00",
+   "찔리노 무섭노 우습노"
   ]
  ],
- "last_run": "2026-07-14T08:01:23.437385+09:00",
+ "last_run": "2026-07-14T08:02:38.666893+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
