@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030095661&code=61121111&cp=nv",
-  "https://www.imaeil.com/page/view/2026071110564490144",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005877221",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3632918",
-  "https://www.yna.co.kr/view/AKR20260711024200073?input=1195m",
-  "http://www.bizwnews.com/news/articleView.html?idxno=140465",
-  "https://www.newsway.co.kr/news/view?ud=2026071110565784325",
-  "https://www.yna.co.kr/view/AKR20260710131500062?input=1195m",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003250545&CMPT_CD=P0010",
-  "https://www.newspim.com/news/view/20260710001113",
   "https://www.m-i.kr/news/articleView.html?idxno=1390496",
   "https://www.sedaily.com/article/20066493",
   "https://www.mediapen.com/news/view/1109599",
@@ -2999,19 +2989,19 @@
   "https://www.ppss.kr/news/articleView.html?idxno=301241",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2224071",
   "https://www.ddaily.co.kr/page/view/2026071309513259242",
-  "http://www.joseilbo.com/news/news_read.php?uid=571761&class=78"
+  "http://www.joseilbo.com/news/news_read.php?uid=571761&class=78",
+  "https://www.ddaily.co.kr/page/view/2026071310114097612",
+  "https://www.etnews.com/20260713000105",
+  "http://www.segyebiz.com/newsView/20260713507218?OutUrl=naver",
+  "https://www.etnews.com/20260713000103",
+  "https://www.econotimes.com/Asia-Stocks-Slip-as-Iran-Hormuz-Tensions-Lift-Oil-Prices-Dollar-and-Bond-Yields-1746542",
+  "https://www.ilemonde.com/news/articleView.html?idxno=30319",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/13/2026071300060.html",
+  "https://www.sedaily.com/article/20066912",
+  "https://www.asiatime.co.kr/article/20260713500061",
+  "https://www.hankyung.com/article/202607131134H"
  ],
  "seen_titles": [
-  "SKAI반도체시대.왜세계최고의기업들은미국증시를선택하는가",
-  "최근5거래일SK텔레콤주가상승전환",
-  "iM금융그룹,체험파크상시개방...맞춤형금융교육확대",
-  "박영선“AI3대강국도약,반도체와슈퍼컴설계확보가관건”",
-  "\"숨고르기끝\"SK하이닉스나스닥13%뛰어,역대최대조달",
-  "최태원회장\"수백억달러투자…AI서비스제공업체지향\"",
-  "영남이공대학교,'실습으로배우는AI'...교장60여명보안현장직접...",
-  "소프트뱅크,세븐일레븐지주사에수조원투자검토",
-  "[캐시워크종합]7월11일토요일오전11시현재출제되고있는문제들...",
-  "애플,오픈AI에영업비밀소송…\"미공개기술탈취했다\"",
   "춘천KTA다이내믹태권도개막…세계태권도문화축제열기잇는다",
   "SK하이닉스,나스닥입성…'경쟁사'마이크론단숨에제쳤다",
   "뉴스핌'마이케이팝스타',마지막20조10팀공개…다채로운장르로대...",
@@ -6001,7 +5991,17 @@
   "NHN,AI전환속도전…'클로드'전사도입승부수",
   "NHN,'에이전틱데이'개최…AI활용·보안역량강화",
   "\"악성메일탐지정확도97%\"…KT,'공공형AI메일보안'출시",
-  "애플,AI경쟁에뒤처지자오픈AI상대'영업비밀'위반소송"
+  "애플,AI경쟁에뒤처지자오픈AI상대'영업비밀'위반소송",
+  "해외여행통신비줄인다…통신3사,여름휴가철혜택경쟁",
+  "충북TP,산업부AX실증산단선정…청주산단반도체패키징제조혁신가...",
+  "호두랩스,삼쩜삼‘점삼이’기술파트너참여로음성AI사업성과가...",
+  "삼양그룹,임직원전용AI포털'SAMI2.0'오픈",
+  "AsiaStocksSlipasIran-HormuzTensionsLiftOilPrices,DollarandBo",
+  "[SKAI반도체시대]왜세계최고의기업들은미국증시를선택하는가",
+  "美서다시매겨진몸값…SK하이닉스,글로벌AI반도체주로'밸류재평...",
+  "KT,CSAP인증‘AI메일보안’출시…공공기관보안시장공략",
+  "KT,국내최초CSAP인증'공공형AI메일보안'출시…공공·교육기관공...",
+  "진짜학술행사로위장했다…연구자노린北해킹"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-07-13T10:10:51.201418+09:00",
    "뷰티 선크림 GEO 발표 지수 11일 한국 엑스온 주간 7월"
+  ],
+  [
+   "2026-07-13T10:14:16.769482+09:00",
+   "학술행사로 진짜 연구자 노린 위장했다"
   ]
  ],
- "last_run": "2026-07-13T10:12:32.035210+09:00",
+ "last_run": "2026-07-13T10:14:41.695166+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
