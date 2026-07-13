@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=1169",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=202851",
-  "https://biz.heraldcorp.com/article/10796360",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=202869",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=659654",
-  "http://www.dailypop.kr/news/articleView.html?idxno=100254",
-  "https://view.asiae.co.kr/article/2026070207133356550",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=132572",
-  "https://www.cnbizm.com/news/articleView.html?idxno=307400",
   "https://www.sentv.co.kr/article/view/sentv202607020089",
   "https://www.businessplus.kr/news/articleView.html?idxno=113652",
   "https://www.inthenews.co.kr/news/article.html?no=88873",
@@ -2999,18 +2990,18 @@
   "https://www.e-science.co.kr/news/articleView.html?idxno=131832",
   "https://platum.kr/archives/290780",
   "https://www.thepublic.kr/news/articleView.html?idxno=311015",
-  "https://www.news1.kr/finance/blockchain-fintech/6226182"
+  "https://www.news1.kr/finance/blockchain-fintech/6226182",
+  "https://www.thepublic.kr/news/articleView.html?idxno=310997",
+  "https://www.ziksir.com/news/articleView.html?idxno=139854",
+  "http://www.hellodd.com/news/articleView.html?idxno=112446",
+  "https://view.asiae.co.kr/article/2026071311455666316",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=828082",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=118943",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207573",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105083",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=89546"
  ],
  "seen_titles": [
-  "SK브로드밴드,KS-SQI초고속인터넷12년·IPTV8년연속1위기록",
-  "SKT,27년연속서비스품질지수선두",
-  "삼성·LG·SK,서비스품질1위경쟁…AI혁신이고객경험갈랐다",
-  "SKT,한국서비스품질지수27년연속1위…고객보호강화활동인정",
-  "SK텔레콤,KS-SQI27년연속1위...사이버침해이후신뢰회복속도",
-  "SKB,IPTV·초고속인터넷서비스품질단독1위",
-  "\"AI고객경험강화\"...SK브로드밴드,KS-SQI2개부문1위",
-  "SKB,초고속·IPTV부문'품질리더십'빛났다",
-  "[수상소식]코웨이혁신상,TYM공로상,SM그룹경남기업상호협력최우...",
   "\"김부장이사라진다\"…40대이상몸집줄이는KT",
   "SKT,한국서비스품질지수27년연속정상…SKB·SK텔링크도'1위'",
   "SK텔레콤,한국서비스품질지수'27년연속1위'수성",
@@ -6001,7 +5992,16 @@
   "AI반도체에분산투자…미래에셋생명,한·미·중ETF확대",
   "스카이인텔리전스,오라클-벡터지역혁신벤처펀드서추가투자유치",
   "AI메모리반도체뒤흔드는신호탄?…SK하이닉스美ADR'흥행'에대대적...",
-  "헤데라블록체인기반디파이'본조렌드',해킹으로135억원탈취"
+  "헤데라블록체인기반디파이'본조렌드',해킹으로135억원탈취",
+  "부산,조선·해양AI인프라구축시동...명지녹산산단에엣지데이터센...",
+  "스패로우,앱보안통합플랫폼'스패로우엔터프라이즈'조달청등록",
+  "[조간브리핑]32억화소로우주훑는다···'광시야관측시대'본격개...",
+  "율촌·OSBC,국내첫‘기업형AI거버넌스’체계구축",
+  "크리스토퍼놀란·맷데이먼,유재석만난다…\"'유퀴즈'녹화예정\"[공식...",
+  "하나카드,챗GPT·제미나이·클로드등AI서비스30종담은'AI스마트팩...",
+  "실제학술행사자료집으로위장…북한해커조직APT37,RokRAT표적공격...",
+  "[산업콕!]글로벌메모리제조사증설전쟁",
+  "'학술자료집'인줄알았는데···북한추정해킹공격포착"
  ],
  "recent_sigs": [
   [
@@ -6641,7 +6641,7 @@
    "디파이 렌드 기반 블록체인 본조 헤데라 탈취 해킹으로 135억원"
   ]
  ],
- "last_run": "2026-07-13T11:46:43.528989+09:00",
+ "last_run": "2026-07-13T11:48:38.755560+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
