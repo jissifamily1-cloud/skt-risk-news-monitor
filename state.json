@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03161926645514192",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609079",
-  "https://www.tjb.co.kr/news05/bodo/view/id/100881",
-  "https://www.sportschosun.com/baseball/2026-07-13/202607130100080670005084",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424636",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83226",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682995",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699167",
@@ -2999,14 +2994,14 @@
   "https://www.lcnews.co.kr/news/articleView.html?idxno=204927",
   "https://www.greened.kr/news/articleView.html?idxno=344994",
   "http://www.thebigdata.co.kr/view.php?ud=202607141026371120a79b9f00ab_23",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400131.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400131.html",
+  "https://www.fntimes.com/html/view.php?ud=20260714112306665b5b890e35c_18",
+  "https://www.mydaily.co.kr/page/view/2026071411081951389",
+  "https://www.hani.co.kr/arti/area/capital/1268150.html",
+  "https://www.ddaily.co.kr/page/view/2026071411213793239",
+  "https://www.chosun.com/economy/industry-company/2026/07/14/EN6W534OQNDQTCIRJT7BKEM4WM/"
  ],
  "seen_titles": [
-  "KT,공공형‘AI메일보안’출시",
-  "챗GPT·유튜브프리미엄'반값'에쓴다…KT,구독료최대50%파격할인",
-  "[잇슈#태그]홍명보에젠슨황까지…유명인총출동한의정부고졸업사진",
-  "'학술자료집'사칭해킹까지…연구자겨냥북한발공격의심",
-  "감독도\"상상못했다\"는철벽뒷문→그중심에선남자,오승환이후...",
   "[AI채권뉴노멀-①]채권시장기존질서가뒤바뀐다",
   "고려대,LLM서버비용낮추는GPU스케줄링기술개발…\"처리성능,업...",
   "오픈AI,GPT-5.6정식출시...'챗GPT워크'도공개",
@@ -6001,7 +5996,12 @@
   "이통3사,발신영상보여주는'V프로필'공동출시",
   "LG유플러스,AXIS2026서AI에이전트서비스기술뽐낸다",
   "KT,국가정보자원관리원혁신ISP우선협상대상자선정...AI인프라관심...",
-  "AI경쟁,성능만좋아선안된다…'가성비'따지는기업들"
+  "AI경쟁,성능만좋아선안된다…'가성비'따지는기업들",
+  "LF,AI쇼핑에이전트‘스타일톡’도입…대화로상품추천",
+  "[MD포커스]韓증시떨어지는칼날?…“AI버블시험대”vs“공포보다...",
+  "‘거제야호’부터홍명보·젠슨황·참교육까지…의정부고에모인올해...",
+  "KT,AI로지자체정책영상만든다…지니TV'AI지역정보'출시",
+  "‘SKHY’가뭐길래?쾌거뒤논란만부른회장님의SNS"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-07-14T11:26:18.307866+09:00",
    "안된다 가성비 기업들 좋아선 성능만 경쟁 따지는"
+  ],
+  [
+   "2026-07-14T11:28:15.899002+09:00",
+   "논란만 SNS KHY 뭐길래 부른 쾌거 회장님의"
   ]
  ],
- "last_run": "2026-07-14T11:26:38.177950+09:00",
+ "last_run": "2026-07-14T11:28:40.517327+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
