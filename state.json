@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/cryptocurrency/376854",
-  "https://biz.heraldcorp.com/article/10807330",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189709",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=436141",
-  "https://www.inthenews.co.kr/news/article.html?no=89274",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=272954",
   "http://www.joseilbo.com/news/news_read.php?uid=571817&class=17",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1065296",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256101",
@@ -2999,15 +2993,15 @@
   "https://www.mydaily.co.kr/page/view/2026071416460997494",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422428",
   "https://www.etnews.com/20260714000467",
-  "https://www.kmaeil.com/news/articleView.html?idxno=645335"
+  "https://www.kmaeil.com/news/articleView.html?idxno=645335",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311821",
+  "http://www.inews24.com/view/1985069",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3635701",
+  "https://view.asiae.co.kr/article/2026071416333267075",
+  "https://www.hankookilbo.com/news/article/A2026071410560002125?did=NA",
+  "https://www.econovill.com/news/articleView.html?idxno=745195"
  ],
  "seen_titles": [
-  "AI로옮겨간자금…식어가는크립토IPO시장",
-  "아이렌,AI인프라기업으로급부상…14%급등마감",
-  "SK하이닉스,ADR흥행속2분기실적눈높이하향…액면분할에쏠린‘주...",
-  "[뱅크NOW]IBK기업은행·Sh수협은행·카카오뱅크",
-  "[뉴스워커_IBK기업은행]하반기IBK창공103개스타트업육성시작내용...",
-  "IBK기업은행하반기‘IBK창공’혁신창업기업육성프로그램가동",
   "[MarketAnalysis]나스닥'대박'터뜨린SK하이닉스,국장선200만원붕...",
   "일론머스크가선택한삼성…테슬라AI5양산'마지막관문'넘었다",
   "통신사이예위원회,울산교육감방문",
@@ -6001,7 +5995,13 @@
   "[유통레이더]무신사,도미노피자와맞손…여름한정컬렉션·신메뉴출...",
   "롯데VCM앞둔신동빈···부진계열사에다시메스드나",
   "도쿄·두바이·싱가포르…서울모인AI선도도시“AI행정혁신핵심은...",
-  "용인시산업진흥원,스마트시티오픈이노베이션교류회개최"
+  "용인시산업진흥원,스마트시티오픈이노베이션교류회개최",
+  "플라이웨이게임즈'어센드투제로'글로벌정식출시",
+  "정부,무선국준공검사이통사에이양…\"무선국안정화판단...수수료·...",
+  "김현미운영위원장\"예산낭비철저히검증…책임있는심사\"",
+  "손정의\"AI,2040년까지세계GDP20%차지할것\"",
+  "조선소와제조공장서일할로봇실증위한AI기반통신망깔린다",
+  "[IT큐레이션]욕망의페르소나,AI데이터센터"
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-07-14T16:56:18.340257+09:00",
    "판다는데 글래스 메타 몰카안경 논란 이통3사도"
+  ],
+  [
+   "2026-07-14T16:58:16.987480+09:00",
+   "데이터센터 욕망의 페르소나"
   ]
  ],
- "last_run": "2026-07-14T16:56:40.003110+09:00",
+ "last_run": "2026-07-14T16:58:41.179413+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
