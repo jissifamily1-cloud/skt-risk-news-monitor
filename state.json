@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607131328005953",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123289",
-  "http://journal.kobeta.com/?post_type=post&p=63253",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8609217",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424686",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92372",
   "https://www.munhwa.com/article/11602302",
   "http://www.updownnews.co.kr/news/articleView.html?idxno=317946",
   "https://www.koreatimes.co.kr/path/A2026071314270005263",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1391330",
   "https://www.m-i.kr/news/articleView.html?idxno=1391428",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442312",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=785208"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=785208",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3635502",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207599",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1385843",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=355919",
+  "https://www.newsway.co.kr/news/view?ud=2026071413150972239",
+  "https://www.dizzotv.com/site/data/html_dir/2026/07/14/2026071480100.html"
  ],
  "seen_titles": [
-  "사용자의‘듣기의도’를반영한AI보청기,오티콘인텐",
-  "\"단어알지?싸워\"홍명보패러디한의정부고졸업사진...\"올해도역대...",
-  "[현장]한국자동차전문기자협회,폴스타기술세미나…800V·BMS조명",
-  "KT,AI메일보안출시…공공‧교육기관메일보안공략",
-  "‘서해5도’중고등학생에게AI교육·멘토링봉사‘호응’",
-  "이란혁명수비대\"요르단·바레인등미군기지공격\"(종합)",
   "삼성전자,美테슬라AI5양산채비…2나노파운드리반등승부수",
   "‘일본패싱’논란젠슨황,드디어방일…세가와인연으로AI협력복...",
   "KT,국내첫CSAP인증'공공형AI메일보안'출시...\"안전한DX지원\"",
@@ -6001,7 +5995,13 @@
   "다문화어머니농구단'포위드투글로벌마더스'11번째경기서첫승",
   "최태원SK회장\"나스닥ADR상장,지배구조글로벌수준재편\"",
   "엔비디아AI반도체중국에'우회수출'도막는다,미국정부압박에젠...",
-  "[자동차업계동향]현대차·기아한국타이어(7.14)"
+  "[자동차업계동향]현대차·기아한국타이어(7.14)",
+  "연세대용인세브란스병원암센터신설추진",
+  "행안부,고위험취약점긴급패치장애발생해도공무원책임면제",
+  "LG전자,로봇사업화가속화…피지컬AI생태계전방위확장",
+  "'AI고속도로'구축시동…SKT·KT,차세대네트워크검증나선다",
+  "세상이말린하이닉스인수…최태원15년뚝심,40조글로벌결실[재계...",
+  "이통3사,발신자가먼저보여주는'V프로필'공동출시"
  ],
  "recent_sigs": [
   [
@@ -6639,9 +6639,17 @@
   [
    "2026-07-14T15:14:17.485206+09:00",
    "미국 압박에 정부 중국에 AI반도체 수출 막는다 우회"
+  ],
+  [
+   "2026-07-14T15:16:18.086140+09:00",
+   "뚝심 40조 하이닉스 인수 글로벌 15년 말린 세상이 재계 결실"
+  ],
+  [
+   "2026-07-14T15:16:18.086140+09:00",
+   "V프로필 공동 3사 먼저 이통 보여주는 출시 발신자가"
   ]
  ],
- "last_run": "2026-07-14T15:14:40.525148+09:00",
+ "last_run": "2026-07-14T15:16:43.371275+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
