@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260713523265?OutUrl=naver",
-  "https://www.mt.co.kr/tech/2026/07/12/2026071218123216718",
-  "https://www.etnews.com/20260713000377",
-  "https://www.dailypharm.com/user/news/340389?REFERER=NP",
-  "https://biz.chosun.com/it-science/ict/2026/07/14/AETZBR2BQVD4BMCUFAZMOUSSBU/",
-  "https://www.monews.co.kr/news/articleView.html?idxno=412506",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165715",
-  "https://www.newsis.com/view/NISX20260713_0003707523",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607130955108730862",
   "https://www.segye.com/newsView/20260713500557?OutUrl=naver",
   "https://www.newspim.com/news/view/20260713000003",
@@ -2999,17 +2991,17 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/07/15/2026071590019.html",
   "https://www.slist.kr/news/articleView.html?idxno=751834",
   "http://coinreaders.com/247765",
-  "https://www.etoday.co.kr/news/view/2603773"
+  "https://www.etoday.co.kr/news/view/2603773",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039430",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1384958",
+  "https://www.starnewskorea.com/music/2026/07/15/2026071507052177311",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=202670",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360294",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168187",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684001",
+  "https://thetracker.co.kr/View.aspx?No=4149516"
  ],
  "seen_titles": [
-  "SK,소프트뱅크·CSES와사회적가치측정'표준'제작돌입",
-  "제헌절맞은광화문에‘헌법미디어아트’",
-  "LG유플러스,버스공공와이파이사업자첫선정",
-  "[테크차이나]ZTE,AI에이전트폰으로스마트폰시장재도전…관건은...",
-  "세무회계·처방전보관·양수도패키지…\"이래서지킴쓰죠\"",
-  "AI투자뇌관인가,후발주자의반격인가…오라클베팅에시장우려증...",
-  "[창간25주년]빅5제약사,ESG보고서속R&D전략'각양각색'",
-  "에이전트시대에맞는원키게이트웨이제안[이승현의AI네이티브]",
   "챗GPT독주깨졌다…구글'제미나이',韓AI검색서턱밑추격",
   "[기업용에이전틱AI큰장]①구글,삼성DX전세계임직원에‘제미나...",
   "700만골퍼의꿈‘홀인원의비밀’…골프장습격한‘AI캐디’[권준영...",
@@ -6001,7 +5993,15 @@
   "'한화팬'신지,KT시구거절논란에결국사과",
   "코요테신지,시구거절→공연취소논란...\"팬우려무겁게받아들여\"",
   "美CPI가살린코인시장…업비트거래대금은아직1조원하회",
-  "뉴욕증시,반도체반등ㆍ인플레둔화에상승⋯SK하닉ADR27%↑[종합]"
+  "뉴욕증시,반도체반등ㆍ인플레둔화에상승⋯SK하닉ADR27%↑[종합]",
+  "정재헌vs박윤영vs홍범식…이통3사전쟁터,'AIDC'로이동",
+  "2분기통신사성적표,SKT·LGU+약진…KT숨고르기",
+  "\"한화팬이라\"신지,KT시구거절갑론을박..코요태축하공연도취소[스...",
+  "'초록창'에서'AI탭'까지…네이버검색창27년진화사[옛날신문보기]",
+  "'인플레우려완화'뉴욕증시상승…나스닥1%↑",
+  "양대'호재'속...미국증시'상승',SK하이닉스ADR'27%폭등'",
+  "통화부터피지컬AI까지…LG유플러스'익시오'차별화승부",
+  "삼성전자,'유럽최대NPE'와이파이6·7특허풀합류"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,17 @@
   [
    "2026-07-15T07:24:16.893500+09:00",
    "고민 깊어진 신중론 보완수사권 당내 확산"
+  ],
+  [
+   "2026-07-15T07:31:00.356879+09:00",
+   "통화부터 승부 차별화 피지컬 ~LGU 익시오 AI까지 LG유플러스"
+  ],
+  [
+   "2026-07-15T07:31:00.356879+09:00",
+   "합류 특허풀 유럽 삼성전자 NPE 와이파이6"
   ]
  ],
- "last_run": "2026-07-15T07:28:39.634078+09:00",
+ "last_run": "2026-07-15T07:31:25.833970+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
