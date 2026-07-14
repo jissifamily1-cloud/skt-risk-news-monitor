@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04624806645514192",
-  "http://www.fnnews.com/news/202607131833249806",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3634641",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3634646",
-  "https://www.sentv.co.kr/article/view/sentv202607130203",
-  "https://biz.sbs.co.kr/article_hub/20000322154?division=NAVER",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=266199",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=266300",
   "http://www.inews24.com/view/1985148",
   "https://www.thepublic.kr/news/articleView.html?idxno=311157",
   "https://www.mt.co.kr/tech/2026/07/13/2026071310250517868",
@@ -2999,17 +2991,17 @@
   "https://www.mk.co.kr/article/12098488",
   "http://www.thebigdata.co.kr/view.php?ud=2026071417375364430a47484cf8_23",
   "https://www.koit.co.kr/news/articleView.html?idxno=207999",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=43557"
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43557",
+  "http://www.queen.co.kr/news/articleView.html?idxno=460287",
+  "https://www.hankyung.com/article/2026071448911",
+  "https://www.nongmin.com/article/20260714500494",
+  "https://www.ddaily.co.kr/page/view/2026071417383359034",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132994",
+  "https://zdnet.co.kr/view/?no=20260714161639",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251368&CMPT_CD=P0010",
+  "https://www.tokenpost.kr/news/breaking/377621"
  ],
  "seen_titles": [
-  "국민누구나무제한무료…정부,'국산AI챗봇'연내출시목표",
-  "'인간최강'신진서9단,2점깔고바둑AI와대결…과연이길까?",
-  "[포럼]AI셧다운과백신의경고",
-  "충남도,\"온열질환응급실감시체계일일운영상황\"",
-  "박수현충남지사,전임도정계승의지…집무실·차량그대로사용",
-  "‘모두의AI’사업에LGU+·카카오참전…SKT·KT등은검토중",
-  "[집중진단]'200만닉스붕괴'SK하이닉스대폭락의날…본주공매도덮쳤...",
-  "\"최대70%할인\"SKT,여름휴가맞이프로모션진행…5성호텔숙박권까...",
   "\"AI·일상구독료최대50%할인\"…'KT콘텐츠페이'이벤트진행",
   "이통3사·네카오,정부'모두의AI'참여채비",
   "IBK기업은행,혁신스타트업103곳선발…창업육성본격화",
@@ -6001,13 +5993,17 @@
   "저가공세앞세운中AI…美이어유럽까지파고든다",
   "SKT,AI고속도로핵심AI-RAN선도망구축...정부실증사업선정",
   "\"티빙개인정보유출,KT·네이버·카카오제휴이용자까지확산\"",
-  "[오늘의통신]LG유플러스·KT·SKT"
+  "[오늘의통신]LG유플러스·KT·SKT",
+  "'인간계최고'신진서9단,'바둑AI'카타고와결전앞두고투지활활...",
+  "반도체株떨어졌지만…애플은'사상최고가'",
+  "NH아문디,‘HANARO미국AI광통신TOP10ETF’상장",
+  "독립영화·클래식공연까지…IPTV3사,콘텐츠서비스확대",
+  "티빙,KT·네이버·카카오제휴이용자까지정보유출",
+  "\"엔비디아'쿠다'철벽깬다\"…K-NPU,공공마중물타고비상",
+  "구윤철\"추가세수제대로못쓰면역사에죄인...잠재성장률높이는데...",
+  "SK하이닉스,엔비디아용HBM4양산출하시작"
  ],
  "recent_sigs": [
-  [
-   "2026-07-14T11:46:21.047457+09:00",
-   "인공지능 비용 낮춰야 돌파구로 기술적"
-  ],
   [
    "2026-07-14T11:54:18.493477+09:00",
    "부사장 인텔 갖춰 공급망 협력 반도체 핵심요소 강화할 한국"
@@ -6715,9 +6711,21 @@
   [
    "2026-07-14T17:46:18.154975+09:00",
    "~SKT ~KT ~LGU LG유플러스"
+  ],
+  [
+   "2026-07-14T17:48:17.712508+09:00",
+   "제대로 못쓰면 구윤철 높이는 추가세수 죄인 잠재성장률 역사에"
+  ],
+  [
+   "2026-07-14T17:48:17.712508+09:00",
+   "타고 비상 공공 NPU 마중물 깬다 철벽 쿠다"
+  ],
+  [
+   "2026-07-14T17:48:17.712508+09:00",
+   "시작 양산 HBM4 SK하이닉스 출하 엔비디아용"
   ]
  ],
- "last_run": "2026-07-14T17:46:44.579275+09:00",
+ "last_run": "2026-07-14T17:48:47.316089+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
