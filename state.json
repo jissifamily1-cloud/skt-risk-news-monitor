@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3634033",
-  "https://view.asiae.co.kr/article/2026071309123354407",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716109",
-  "https://www.newspim.com/news/view/20260713000582",
-  "https://www.newsis.com/view/NISX20260713_0003706472",
-  "https://zdnet.co.kr/view/?no=20260713104038",
-  "https://www.econovill.com/news/articleView.html?idxno=745021",
-  "https://www.hankyung.com/article/202607131008i",
-  "https://www.news1.kr/sports/baseball/6226154",
   "https://vop.co.kr/A00001695796.html",
   "https://www.nytimes.com/2026/07/11/opinion/ai-populism-china-open-source.html?partner=naver",
   "https://news.bizwatch.co.kr/article/market/2026/07/13/0018",
@@ -2999,18 +2990,18 @@
   "https://www.ytn.co.kr/_ln/0104_202607141111201558",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=355905",
   "https://www.apnews.kr/news/articleView.html?idxno=3049738",
-  "https://www.mk.co.kr/article/12098021"
+  "https://www.mk.co.kr/article/12098021",
+  "https://www.100ssd.co.kr/news/articleView.html?idxno=211117",
+  "https://news.tf.co.kr/read/life/2342928.htm",
+  "https://www.yna.co.kr/view/AKR20260714058200004?input=1195m",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683959",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683955",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03132406645514192",
+  "https://biz.heraldcorp.com/article/10808132",
+  "https://www.econovill.com/news/articleView.html?idxno=745145",
+  "https://www.econovill.com/news/articleView.html?idxno=745144"
  ],
  "seen_titles": [
-  "밀양시,첫도의원정책간담회…11개현안사업협조요청",
-  "밀양시,시민공약자문평가단위원20명공개모집…13일부터신청",
-  "기업토큰비용부담…AI업계'저비용·고효율'경쟁",
-  "삼성전자,테슬라'AI5'2나노양산채비…테일러공장가동초읽기",
-  "잠시멈춘AI·반도체랠리...TSMC·ASML이트리거될까",
-  "AI보안관제역량통했다…SK쉴더스,F&S'아태고객가치리더십'선정",
-  "SKT,여름휴가철로밍할인·데이터추가제공",
-  "\"공공시장공략\"KT,국내첫CSAP인증AI메일보안출시",
-  "경기도교육청·KT,여름방학교사연수\"AICE로AI역량높여요!\"",
   "키움,'프랜차이즈투수'하영민과8년총액80억원비FA다년계약",
   "부산시,'조선·해양엣지AI데이터실증시범사업'최종선정",
   "WeReturnedFromChina.WeRealizedOurCentury’sBiggestChallenge.",
@@ -6001,7 +5992,16 @@
   "\"제2의아이폰막아라\"...애플,핵심인력싹쓸이오픈AI에'소송철퇴'",
   "LG전자,엔비디아협력·로봇사업이기업가치키운다-교보證",
   "'독립'반전으로공감높여…한국주택금융공사새광고",
-  "최태원“사이클아닌산업의진화”...AI투자5년이승부수"
+  "최태원“사이클아닌산업의진화”...AI투자5년이승부수",
+  "SK인텔릭스나무엑스,공공로봇시장진출…'강남구·청주시실증사업'...",
+  "AI로화재위험낮추고걷기편하게…자치구맞춤해법",
+  "데이터로화재예방·보행환경개선…서울AI재단,자치구행정지원",
+  "노벨상수상자·빅테크리더200명경고…\"AI일자리충격,지금준비해...",
+  "벤츠,1조7000억원투입한EV거점가동…차세대전기C클래스생산시작",
+  "AI비용부담커진기업들…오픈AI·메타·xAI가격전쟁",
+  "바이낸스회원3억2250만명돌파…전세계코인이용자절반품었다",
+  "\"SKT정예팀에새식구\"SKAX·테크노매트릭스합류",
+  "\"AI도쓰는언어에따라성격이달라진다\"앤스로픽클로드가치분석공..."
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,13 @@
   [
    "2026-07-14T11:14:15.749646+09:00",
    "~KT 국가정보자원관리원 대전 그린다 미래 설계도"
+  ],
+  [
+   "2026-07-14T11:16:15.339412+09:00",
+   "쓰는 AI도 달라진다 분석 가치 언어에 성격이 클로드 따라"
   ]
  ],
- "last_run": "2026-07-14T11:14:41.978928+09:00",
+ "last_run": "2026-07-14T11:16:39.761474+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
