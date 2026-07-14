@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360206",
-  "https://www.khan.co.kr/article/202607131607018",
-  "https://www.econovill.com/news/articleView.html?idxno=745042",
-  "https://www.hankyung.com/article/2026071310351",
   "http://www.metroseoul.co.kr/article/20260713500383",
   "https://www.busan.com/view/busan/view.php?code=2026070720483437485",
   "http://www.rookie.co.kr/news/articleView.html?idxno=124775",
@@ -2999,13 +2995,13 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244205",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716332",
   "https://www.mt.co.kr/finance/2026/07/14/2026071213395157521",
-  "http://www.finomy.com/news/articleView.html?idxno=257313"
+  "http://www.finomy.com/news/articleView.html?idxno=257313",
+  "https://www.dt.co.kr/article/12072859",
+  "https://www.catchnews.kr/news/articleView.html?idxno=126105",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86730",
+  "https://www.mediapen.com/news/view/1110119"
  ],
  "seen_titles": [
-  "TSMC,2분기매출36%증가…AI반도체성장세확인",
-  "하나카드,AI30종모은구독서비스'AI스마트팩'출시",
-  "“Let‘sGiveAIaSoul”…갤럭시코퍼레이션최용호대표,UNITU무대서...",
-  "TSMC6월매출68%폭증…AI특수에2Q매출59조7000억원벌어들여",
   "SK텔레콤,제조공정에AI첫투입",
   "메모리3사수백조증설에도…공급난2028년까지지속",
   "명불허전레이예스·감찾은원투펀치'후반기를기대하라’",
@@ -6001,7 +5997,11 @@
   "정부'무료국산AI'추진…챗GPT·제미나이쏠림깰까",
   "[운용&Now]NH아문디운용,미국AI광통신ETF신규상장",
   "[단독]\"10년전'종이서류'로회귀\"…금융권'서류자동제출'멈춘다",
-  "KT,삼성전자·HD현대삼호와조선소AI실증⋯6G기반자율네트워크구..."
+  "KT,삼성전자·HD현대삼호와조선소AI실증⋯6G기반자율네트워크구...",
+  "“AI는도구아닌실행주체”…SAP,ERP가스스로일하는시대연다",
+  "\"챗GPT반값에쓰세요\"KT콘텐츠페이,AI·일상구독서비스프로모션",
+  "SKT,'AI-RAN선도망'구축착수…AI고속도로핵심인프라확보",
+  "KT,삼성전자·HD현대삼호와피지컬AI실증"
  ],
  "recent_sigs": [
   [
@@ -6653,7 +6653,7 @@
    "국가정보관리원 대상자 우협 ~KT 혁신 정보화전략계획 선정"
   ]
  ],
- "last_run": "2026-07-14T15:41:12.744818+09:00",
+ "last_run": "2026-07-14T15:42:32.608993+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
