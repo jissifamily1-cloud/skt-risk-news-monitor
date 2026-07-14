@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83226",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=682995",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=699167",
-  "http://www.boannews.com/media/view.asp?idx=144655&kind=3",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=545692",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83230",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683603",
   "https://www.gukjenews.com/news/articleView.html?idxno=3634066",
   "https://biz.heraldcorp.com/article/10806854",
@@ -2999,15 +2993,15 @@
   "https://www.mydaily.co.kr/page/view/2026071411081951389",
   "https://www.hani.co.kr/arti/area/capital/1268150.html",
   "https://www.ddaily.co.kr/page/view/2026071411213793239",
-  "https://www.chosun.com/economy/industry-company/2026/07/14/EN6W534OQNDQTCIRJT7BKEM4WM/"
+  "https://www.chosun.com/economy/industry-company/2026/07/14/EN6W534OQNDQTCIRJT7BKEM4WM/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3635290",
+  "http://www.popcornnews.net/news/articleView.html?idxno=126559",
+  "https://www.yna.co.kr/view/AKR20260714082200017?input=1195m",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311809",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03801526645514520",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=79895"
  ],
  "seen_titles": [
-  "[AI채권뉴노멀-①]채권시장기존질서가뒤바뀐다",
-  "고려대,LLM서버비용낮추는GPU스케줄링기술개발…\"처리성능,업...",
-  "오픈AI,GPT-5.6정식출시...'챗GPT워크'도공개",
-  "AI모델'성능보다인프라'···크래프톤500억원투자의노림수",
-  "SK쉴더스,F&S선정APAC‘사이버보안’고객가치리더십선정",
-  "SKT,해외·국내여행객모두잡는다…여름T혜택대폭확대",
   "북한배후해킹조직,학술컨퍼런스자료집사칭해연구자노렸다",
   "日로손,편의점최초스테이블코인결제실험…JPYC8월도입",
   "고창구름골산림휴양테마파크,\"안전인프라강화로'명품관광지'도...",
@@ -6001,7 +5995,13 @@
   "[MD포커스]韓증시떨어지는칼날?…“AI버블시험대”vs“공포보다...",
   "‘거제야호’부터홍명보·젠슨황·참교육까지…의정부고에모인올해...",
   "KT,AI로지자체정책영상만든다…지니TV'AI지역정보'출시",
-  "‘SKHY’가뭐길래?쾌거뒤논란만부른회장님의SNS"
+  "‘SKHY’가뭐길래?쾌거뒤논란만부른회장님의SNS",
+  "경남농관원,여름휴가철맞아축산물원산지집중단속",
+  "AI,국민서비스부터산업표준까지…상용화생태계넓어진다",
+  "'모두의AI'경쟁본격화…네카오·통신사·스타트업총출동",
+  "SKT'AI고속도로'핵심'AI-RAN선도망'구축사업착수",
+  "KT\"티빙이용권만제공했을뿐…고객정보전달한적없어\"",
+  "오픈AI,'제2의아이폰'생산하나?...애플'정조준'"
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,13 @@
   [
    "2026-07-14T11:28:15.899002+09:00",
    "논란만 SNS KHY 뭐길래 부른 쾌거 회장님의"
+  ],
+  [
+   "2026-07-14T11:30:55.931413+09:00",
+   "티빙 전달한 고객정보 없어 이용권만 ~KT 제공했을"
   ]
  ],
- "last_run": "2026-07-14T11:28:40.517327+09:00",
+ "last_run": "2026-07-14T11:31:16.712040+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
