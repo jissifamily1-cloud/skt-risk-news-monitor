@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.electimes.com/news/articleView.html?idxno=370274",
-  "https://www.tokenpost.kr/news/tech/377160",
-  "https://www.khan.co.kr/article/202607131712001",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424504",
-  "https://www.newsis.com/view/NISX20260710_0003703800",
-  "https://www.gameple.co.kr/news/articleView.html?idxno=216045",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404224",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49534",
   "https://magazine.hankyung.com/business/article/202607132065b",
   "http://www.boannews.com/media/view.asp?idx=144660&kind=3",
   "http://www.economytalk.kr/news/articleView.html?idxno=422693",
@@ -2999,17 +2991,17 @@
   "http://www.efnews.co.kr/news/articleView.html?idxno=130969",
   "http://www.efnews.co.kr/news/articleView.html?idxno=130970",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=660401",
-  "https://www.etnews.com/20260714000461"
+  "https://www.etnews.com/20260714000461",
+  "https://www.ajunews.com/view/20260714132631310",
+  "https://www.joongang.co.kr/article/25445002",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683069",
+  "http://www.ktnews.com/news/articleView.html?idxno=147180",
+  "https://imnews.imbc.com/news/2026/econo/article/6837364_36932.html",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1561865",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040811",
+  "https://news.appstory.co.kr/daily19358"
  ],
  "seen_titles": [
-  "“위성을해킹하라”엔키화이트햇,‘2026핵테온세종’성료",
-  "국내대표EV시상식'EV어워즈2026'출품접수…시상분야확대",
-  "한국데이터센터,투자매력증가…해외자금도눈독",
-  "정부,국민누구나쓰는‘모두의AI’공모본격착수···연내출시목...",
-  "[차이나칩]월가가중국메모리상장을기다리는이유",
-  "코인운명의날D-5…\"클래리티법안불발시상승동력잃어\"",
-  "팰월드경험치50%올리기,헤로롱상4종위치는?",
-  "엔키화이트햇,'2026핵테온세종'서현실반영해킹문제로호평",
   "[안갯속KTAI②]박윤영號,'MS종속'논란책임론·해법찾기골치",
   "\"한국데이터센터,대체투자핵심자산된다\"...임대료70%상승",
   "스패로우,통합보안솔루션‘SparrowEnterprise’조달청등록",
@@ -6001,7 +5993,15 @@
   "SKT,AI-RAN실증사업수행기관선정…'AI고속도로'핵심인프라구축착...",
   "KT,삼성전자·HD현대삼호와AI네트워크실증…\"조선소피지컬AI상용...",
   "[기획]'흑자전환·AI투자·10%낙수율'…LG그룹,구광모회장의'미래...",
-  "KT,김천평화시장에광통신망구축…지역전통시장경쟁력높인다"
+  "KT,김천평화시장에광통신망구축…지역전통시장경쟁력높인다",
+  "호찌민금융센터,한국을핵심파트너로?...녹색금융·핀테크판커진다",
+  "신진서“바둑AI카타고상대로2승이상도전…후반승부면승산60~70...",
+  "오픈AI,솔공개했는데...美정부검증절차는'깜깜이'",
+  "\"로봇이옷만드는시대\"피지컬AI,패션공급망다시짠다",
+  "티빙해킹,제휴가입자까지번져‥피해확산우려",
+  "그룹총수10명중6명주식재산줄었다",
+  "KT넷코어협력사통신작업'인사사고'발생…KT'중처법'갈림길",
+  "애플·오픈AI영업비밀소송확전…과거분쟁사례까지재조명"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,17 @@
   [
    "2026-07-14T16:44:17.709435+09:00",
    "회장의 흑자전환 LG그룹 투자 구광모 낙수율 미래"
+  ],
+  [
+   "2026-07-14T16:46:16.048298+09:00",
+   "발생 중처법 갈림길 통신작업 KT넷코어 ~KT 인사사고 협력사"
+  ],
+  [
+   "2026-07-14T16:46:16.048298+09:00",
+   "분쟁 사례까지 소송 재조명 과거 영업비밀 확전 애플"
   ]
  ],
- "last_run": "2026-07-14T16:44:38.416804+09:00",
+ "last_run": "2026-07-14T16:46:42.976456+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
