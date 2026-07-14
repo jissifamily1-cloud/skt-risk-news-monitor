@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683501",
-  "http://www.tjb.co.kr/sub0301/bodo/view/id/100862",
-  "https://www.handmk.com/news/articleView.html?idxno=41265",
-  "https://www.yna.co.kr/view/PYH20260713015600013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260713015800013?input=1196m",
-  "https://www.insight.co.kr/news/562668",
-  "https://www.etnews.com/20260713000026",
-  "https://www.etoday.co.kr/news/view/2602922",
   "https://www.gukjenews.com/news/articleView.html?idxno=3633846",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=83366",
   "https://www.dailysecu.com/news/articleView.html?idxno=207571",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06428806645512880",
   "https://kpenews.com/View.aspx?No=4147927",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468178",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168121"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168121",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=255110",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683844",
+  "https://www.m-i.kr/news/articleView.html?idxno=1391184",
+  "https://www.aitimes.com/news/articleView.html?idxno=212613",
+  "https://www.econovill.com/news/articleView.html?idxno=745105",
+  "https://www.econovill.com/news/articleView.html?idxno=744994",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=86718",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2448424"
  ],
  "seen_titles": [
-  "빗썸,정보보호캠페인'가짜거래앱사기'예방가이드공개",
-  "SKT,여름휴가맞이로밍·멤버십혜택강화",
-  "SKT,2030첫로밍70%할인…국내나들이혜택도강화",
-  "한은'반도체고점론'일축…AI수요에확장세내년까지지속",
-  "LG유플러스,차세대보안관리국제표준개발추진",
-  "KT,CSAP인증'AI메일보안'으로공공ㆍ교육기관이메일보안시장확대",
-  "어김없이돌아온'의정부고졸업사진'...젠슨황부터홍명보·참교육까...",
-  "오붓,T멤버십첫운동·웰니스파트너선정…7월Tday프로모션진행",
   "[특징주]LG전자,엔비디아겨냥‘AI서버랙’개발소식에9%대강세",
   "용인12개공원물놀이장15일부터개장…워터슬라이드등다양한시설",
   "호르무즈해협긴장다시고조,미·이란충돌에국제유가상승",
@@ -6001,7 +5993,15 @@
   "[미리보는이데일리신문]국산전기차,중국산공습에‘안방’내줄...",
   "전화상대방에내영상보여준다..통신3사,‘V프로필’출시",
   "KT엠모바일,여름휴가철해외여행객대상eSIM로밍'mobi'제휴페스티...",
-  "언어에서현실세계로...AI업계'월드모델'뜨나"
+  "언어에서현실세계로...AI업계'월드모델'뜨나",
+  "SK인텔릭스'나무엑스',지자체실증사업연속선정...B2G시장정조준",
+  "1X휴머노이드\"인간손에가장가깝다\"…USB꽂고설거지하는로봇공개",
+  "\"검색대신대화로상품찾는다\"…LF몰,AI쇼핑에이전트'스타일톡'출...",
+  "[7월10일]GPT-5.6이보여준'파레토프론티어'경쟁...벤치마크기준이...",
+  "SK하이닉스,황금알낳을수록부담…블룸버그\"모두가흔들고싶은돈나...",
+  "삼성전자임직원전원에제미나이엔터프라이즈,구글의최대베팅나왔...",
+  "국민연금,국내주식비중확대에도'반도체쏠림'심화…리밸런싱주...",
+  "KT,'국가정보자원관리원혁신ISP'사업우선협상대상자선정"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,17 @@
   [
    "2026-07-14T09:04:15.343707+09:00",
    "업계 월드 세계로 모델 현실 언어에서 뜨나"
+  ],
+  [
+   "2026-07-14T09:06:15.288796+09:00",
+   "국내주식 반도체 리밸런싱 국민연금 쏠림 비중 심화 확대에도"
+  ],
+  [
+   "2026-07-14T09:06:15.288796+09:00",
+   "싶은 블룸버그 SK하이닉스 돈나 낳을수록 흔들고 황금알 부담 모두가"
   ]
  ],
- "last_run": "2026-07-14T09:04:42.323812+09:00",
+ "last_run": "2026-07-14T09:06:38.406231+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
