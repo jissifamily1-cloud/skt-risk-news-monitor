@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79873",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=118924",
-  "https://www.newscj.com/news/articleView.html?idxno=3416266",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846772",
-  "http://www.popcornnews.net/news/articleView.html?idxno=126421",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=104332",
-  "https://www.cnbizm.com/news/articleView.html?idxno=308387",
   "http://www.metroseoul.co.kr/article/20260713500105",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03066806645514192",
   "http://www.newsprime.co.kr/news/article.html?no=740039",
@@ -2999,16 +2992,16 @@
   "https://www.tokenpost.kr/news/breaking/377477",
   "https://kpenews.com/View.aspx?No=4148094",
   "https://www.itbiznews.com/news/articleView.html?idxno=219013",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240376"
+  "https://www.itdaily.kr/news/articleView.html?idxno=240376",
+  "https://www.topdaily.kr/articles/110947",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030107834&code=61121111&cp=nv",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3635232",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=237504",
+  "https://www.newsen.com/news_view.php?uid=202607140902085710",
+  "https://www.g-enews.com/view.php?ud=202607140959234405fbbec65dfb_1",
+  "https://www.techm.kr/news/articleView.html?idxno=153349"
  ],
  "seen_titles": [
-  "AI대형주에밀린소프트웨어·클라우드,하반기반등후보로…'따라잡...",
-  "학술행사사칭이메일'주의보'...북한'신종트로이목마'가능성",
-  "SK쉴더스,'아태고객가치리더십'선정…AI보안역량인정",
-  "\"기술넘어신뢰로\"…이통3사,AI거버넌스·사회적책임강화",
-  "[#시큐리티포커스]나루씨큐리티'이노비즈AA등급'획득·롯데건설'부...",
-  "SKT·KT,휴가철맞춰'혜택·보안'동시공략",
-  "SKT,휴가철2030세대T로밍프로모션·T멤버십혜택눈길",
   "KT,CSAP인증AI메일보안출시…공공·교육기관시장공략",
   "KT,공공형AI메일보안서비스출시",
   "크리스토퍼놀란감독·맷데이먼,'유퀴즈'전격출연",
@@ -6001,7 +5994,14 @@
   "미증시AI주약세…애스테라랩스12.33%급락",
   "SKT산업AI전환역량강화..독파모정예팀참가사확대",
   "독파모SKT정예팀에SKAX·테크노매트릭스합류",
-  "KT,'국정자원혁신ISP수립사업'우선협상대상자선정"
+  "KT,'국정자원혁신ISP수립사업'우선협상대상자선정",
+  "[케이블TV흥망성쇠]'송구영체제6년'LG헬로비전,체질개선안간힘",
+  "‘매시17분’광화문스퀘어에헌법주제영상공개",
+  "김제시,청년·신혼부부전세대출이자3억원지원…237세대선정",
+  "이통3사,통화도'프로필시대'…AI입힌'V프로필'공동출시",
+  "‘왕사남’장항준차기작힌트나왔다“조선통신사→이혼소재탐나”...",
+  "'억만장자캠프'서확인된AI하드웨어동맹…폭락한코스피반도체株의...",
+  "[글로벌]오픈AI,50년수학난제풀었나...GPT-5.6솔울트라로1시간만..."
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,17 @@
   [
    "2026-07-14T10:42:15.978362+09:00",
    "소넷은 언어 따뜻 모델 다른 AI의 오퍼스는 따라 가치관 신중"
+  ],
+  [
+   "2026-07-14T10:50:46.563592+09:00",
+   "풀었나 50년 울트라로 수학 GPT 난제 1시간"
+  ],
+  [
+   "2026-07-14T10:50:46.563592+09:00",
+   "코스피 동맹 확인된 하드웨어 억만장자 캠프 폭락한 반도체"
   ]
  ],
- "last_run": "2026-07-14T10:48:37.862182+09:00",
+ "last_run": "2026-07-14T10:51:12.976873+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
