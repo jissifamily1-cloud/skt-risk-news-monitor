@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=871592",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335656",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8606053",
-  "https://www.etoday.co.kr/news/view/2601800",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003249945&CMPT_CD=P0010",
   "http://www.inews24.com/view/1983817",
   "https://www.segye.com/newsView/20260708524238?OutUrl=naver",
@@ -2999,13 +2995,13 @@
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724417",
   "https://www.yna.co.kr/view/AKR20260714169300007?input=1195m",
   "https://www.seoul.co.kr/news/economy/2026/07/15/20260715500008?wlog_tag3=naver",
-  "https://www.viva100.com/article/20260714500840"
+  "https://www.viva100.com/article/20260714500840",
+  "http://www.mjmedi.com/news/articleView.html?idxno=62809",
+  "https://www.ytn.co.kr/_ln/0104_202607150620057175",
+  "https://www.mt.co.kr/world/2026/07/15/2026071506171721248",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5083"
  ],
  "seen_titles": [
-  "[주간미디어동향]중앙일보,경영권매각포함자구안제시外",
-  "네이버·구글등9개플랫폼,허위조작정보대응의무지정강화",
-  "허위정보법반대장동혁에동아일보\"자신비판한의원제명해놓고내로...",
-  "‘가짜뉴스’대응의무화…네이버·구글등9대플랫폼지정",
   "[증시키워드]삼성전자ㆍSK하이닉스총수들은미국行⋯현대차부분파업...",
   "[손병관의뉴스프레소]배재고선수\"탱크데이기억났지만,5·18관련몰...",
   "방미통위,대규모정보통신서비스제공자8곳→9곳정정",
@@ -6001,7 +5997,11 @@
   "[자사주대전환②]\"태우거나나눠주거나\"…상장사들,출구전략마련...",
   "◇내일의경기(16일)",
   "[서울데이터랩]미국증시,기술주·반도체강세에나스닥상승마감",
-  "누가더빨리짓나⋯글로벌반도체‘증설레이스’시작됐다"
+  "누가더빨리짓나⋯글로벌반도체‘증설레이스’시작됐다",
+  "[창간특집]열악한환경탓하기보다시스템개선노력하는한의과공보...",
+  "AI붐·스페이스X덕에미은행권2분기깜짝실적",
+  "물가우려덜었다,반도체랠리…SK하닉27%급등[뉴욕마감]",
+  "하루만에27%폭등한SK하이닉스ADR…월가\"아직도두배더간다\""
  ],
  "recent_sigs": [
   [
@@ -6117,7 +6117,7 @@
    "반도체 증설 짓나 빨리 누가 시작됐다 글로벌 레이스"
   ]
  ],
- "last_run": "2026-07-15T06:22:38.044701+09:00",
+ "last_run": "2026-07-15T06:24:32.958146+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
