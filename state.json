@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=709964",
-  "https://www.hankyung.com/article/2026071317197",
-  "https://view.asiae.co.kr/article/2026071314023594058",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=588746",
-  "https://www.segye.com/newsView/20260713512822?OutUrl=naver",
-  "https://www.etoday.co.kr/news/view/2603110",
-  "https://www.busan.com/view/busan/view.php?code=2026071314053078996",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589421571338",
-  "http://www.mkhealth.co.kr/news/articleView.html?idxno=79240",
-  "https://www.sportschosun.com/entertainment/2026-07-13/202607130100081810005167",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=588747",
   "https://www.ajunews.com/view/20260713114336421",
   "https://www.sedaily.com/article/20067036",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130092&t=NN",
@@ -2999,20 +2988,20 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716306",
   "http://www.nongaek.com/news/articleView.html?idxno=96095",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=311814",
-  "https://www.hankyung.com/article/2026071442076"
+  "https://www.hankyung.com/article/2026071442076",
+  "https://www.cstimes.com/news/articleView.html?idxno=713405",
+  "https://www.ceoscoredaily.com/page/view/2026071414161310115",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3635430",
+  "https://www.tvreport.co.kr/entertainment/article/1061124/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3635414",
+  "https://zdnet.co.kr/view/?no=20260714141109",
+  "https://www.sentv.co.kr/article/view/sentv202607140102",
+  "https://www.ajunews.com/view/20260714141412429",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7174206",
+  "https://www.news1.kr/world/usa-canada/6227681",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094975"
  ],
  "seen_titles": [
-  "\"103개혁신기업육성\"…IBK창공하반기개시",
-  "[특징주]하나증권,반도체소부장주간전망발표…메모리영업익추정...",
-  "\"한국선'삼쏘',일본은왜안와\"난리나더니…젠슨황,도쿄간다",
-  "삼성전자,테슬라'AI5'양산임박…美테일러공장가동속도",
-  "[테크家]아이폰③ㅣ18프로최대200달러인상전망…AI發반도체부...",
-  "키움,투수하영민과8년80억원에비FA다년계약",
-  "'그대에게드림'황인엽·이혜리,15년만에첫사랑재회…오늘첫방",
-  "“AI로도시문제해결”…아태최대규모스마트시티국제행사부산서...",
-  "IBK기업銀,하반기‘IBK창공’본격가동…혁신스타트업103곳육성",
-  "\"실적은이제부터\"…딥노이드,생성형의료AI상용화승부수",
-  "[공식]맷데이먼,생애첫韓방문크리스토퍼놀란감독손잡고'유퀴...",
   "[기업家]롯데그룹⑦ㅣ신동빈'AX전환'점검…유통·바이오·글로벌...",
   "삼성그룹외부AI시대열렸다…삼성SDS,AX구축전면지원",
   "“AI를막는건에너지뿐…수요는무한대”",
@@ -6001,7 +5990,18 @@
   "최태원회장\"AI토큰비용낮추겠다…데이터센터구축집중\"",
   "'삼전닉스'폭등에국민연금도급팽창…마냥웃을수없는입장?",
   "KT'국가정보자원관리원혁신ISP'사업우선협상대상자선정",
-  "\"새로운인재찾을것\"…최태원,美상장이유직접밝혔다[강경주의테..."
+  "\"새로운인재찾을것\"…최태원,美상장이유직접밝혔다[강경주의테...",
+  "네이버·카카오·이통3사몰린다…정부'모두의AI'경쟁가열",
+  "정부‘모두의AI’에네카오·이통3사총출동…국산AI주도권경쟁‘...",
+  "하남시,AI·IoT건강관리사업우수성인정받아복지부표창",
+  "'47세'이지아,몰라보게달라진얼굴→성형설또불붙었다",
+  "하남시,의료사각지대어르신위해'홈닥터온'방문건강관리시작",
+  "'창작의근본'파고든NCAI,'경험의혁신'입증한크래프톤",
+  "지역소식도TV화면으로…KT,지니TV‘AI지역정보’출시",
+  "티빙개인정보유출,네이버·카카오·KT연동이용자도피해가능성제...",
+  "KT,삼성전자·HD현대삼호와조선소피지컬AI실증나선다",
+  "'중국유입막아라'…엔비디아,심사강화로고객절반탈락",
+  "개보위,고용·교육마이데이터중계인프라실증착수"
  ],
  "recent_sigs": [
   [
@@ -6567,9 +6567,13 @@
   [
    "2026-07-14T14:18:17.172913+09:00",
    "인재 상장 강경주의 직접 이유 밝혔다 찾을 새로운"
+  ],
+  [
+   "2026-07-14T14:20:54.139476+09:00",
+   "마이데이터 착수 교육 인프라 실증 고용 중계"
   ]
  ],
- "last_run": "2026-07-14T14:18:37.252413+09:00",
+ "last_run": "2026-07-14T14:21:18.688528+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
