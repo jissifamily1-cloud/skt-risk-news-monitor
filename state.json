@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200047",
-  "https://www.ajunews.com/view/20260713110258345",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=874944",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=306360",
-  "http://www.boannews.com/media/view.asp?idx=144662&kind=6",
-  "https://www.newsway.co.kr/news/view?ud=2026071315154715310",
-  "https://www.viva100.com/article/20260709500819",
-  "https://www.mediapen.com/news/view/1109928",
   "https://www.ziksir.com/news/articleView.html?idxno=139928",
   "http://weekly.chosun.com/news/articleView.html?idxno=53341",
   "http://www.efnews.co.kr/news/articleView.html?idxno=130944",
@@ -2999,17 +2991,17 @@
   "https://www.fntimes.com/html/view.php?ud=2026071416284423187492587736_18",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716369",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128186",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155217"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155217",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240398",
+  "https://www.wikitree.co.kr/articles/1145972",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683079",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43517",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=132849",
+  "https://news.dealsitetv.com/articles/173280",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04910166645514520",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850285"
  ],
  "seen_titles": [
-  "국가대표'이현중'합류…남자농구,월드컵2라운드사냥닻올렸다",
-  "[더밸류브리핑]오늘의운용사소식...미래에셋자산운용·삼성액티브자...",
-  "호찌민떤선녓국제공항,1터미널전면재건축검토",
-  "'블랙먼데이어게인'...코스피,'7천피'붕괴돼6,800선으로폭락",
-  "하나카드,프리미엄AI유로구독서비스AI스마트팩출시",
-  "[배종찬의보안빅데이터]자동차안전벨트보다더필요한‘AI안전벨트...",
-  "이통3사2Q성적'희비'?…박윤영의KT,2Q홀로뒷걸음전망",
-  "해킹악재턴이통사,2분기성적표KT만‘울상’⋯왜?",
   "삼양그룹,자체개발AI‘SAMI2.0’도입…AX속도",
   "기업은행,혁신창업기업103곳선발…IBK창공육성본격화",
   "[인터뷰]이진숙\"지도부흔들면당앞으로나갈수없어\"",
@@ -6001,13 +5993,17 @@
   "‘창작의질’엔씨‧‘서비스확대’크래프톤,AI에대응하는게임사",
   "\"中우회수출원천봉쇄\"…엔비디아,아시아AI칩심사대폭강화",
   "[투데이증시]'천당과지옥'오가는극심한변동성에4조원던진개미들",
-  "KT,'AI가통신망운영하는시대'연다…조선소서피지컬AI네트워크첫..."
+  "KT,'AI가통신망운영하는시대'연다…조선소서피지컬AI네트워크첫...",
+  "국산NPU양산및서비스시작…\"AI반도체생태계확장시동\"",
+  "GPT-5.6,사이버보안위험넘어정부2주심사뒤출시",
+  "AI에쏟아부은돈회수하려면...매출3조달러벌어야한다",
+  "[오늘뭐했니?]KT",
+  "개보위,'130만명개인정보유출'락앤락에과징금5억300만원철퇴",
+  "[퇴근길7분뉴스]3%·4강·5만달러·레버리지ETF·김범석",
+  "AI기술서가장앞선기업은?구글·오픈AI보다‘이기업’꼽았다",
+  "SKT,독자AI정예팀확대…산업AI확산속도"
  ],
  "recent_sigs": [
-  [
-   "2026-07-14T10:42:15.978362+09:00",
-   "소넷은 언어 따뜻 모델 다른 AI의 오퍼스는 따라 가치관 신중"
-  ],
   [
    "2026-07-14T10:50:46.563592+09:00",
    "풀었나 50년 울트라로 수학 GPT 난제 1시간"
@@ -6647,9 +6643,21 @@
   [
    "2026-07-14T16:40:51.379706+09:00",
    "AI가 조선소서 통신망 ~KT 연다 시대 네트워크 피지컬 운영하는"
+  ],
+  [
+   "2026-07-14T16:42:17.486327+09:00",
+   "산업 확산 ~SKT 확대 독자 속도 정예팀"
+  ],
+  [
+   "2026-07-14T16:42:17.486327+09:00",
+   "4강 5만달러 레버리지ETF 김범석"
+  ],
+  [
+   "2026-07-14T16:42:17.486327+09:00",
+   "가장 기술서 기업 구글 꼽았다 오픈AI보다 기업은 앞선"
   ]
  ],
- "last_run": "2026-07-14T16:41:11.634954+09:00",
+ "last_run": "2026-07-14T16:42:43.833732+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
