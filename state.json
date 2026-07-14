@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000539361",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251236",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=132897",
-  "https://www.segye.com/newsView/20260713507323?OutUrl=naver",
-  "http://www.paxetv.com/news/articleView.html?idxno=276969",
-  "https://www.news2day.co.kr/article/20260713500088",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141426",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/13/2026071300035.html",
-  "https://www.ajunews.com/view/20260713101519222",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575366711658",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=806425",
   "https://www.starnewskorea.com/business-life/2026/07/13/2026071309490626471",
@@ -2999,18 +2990,18 @@
   "http://www.inews24.com/view/1985239",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269696",
   "https://www.seoultimes.news/news/article.html?no=2000097736",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03322646645514520"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03322646645514520",
+  "http://www.datanews.co.kr/news/article.html?no=145586",
+  "http://www.economytalk.kr/news/articleView.html?idxno=422706",
+  "https://www.etnews.com/20260713000114",
+  "https://www.newspim.com/news/view/20260713000274",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441157",
+  "https://www.greened.kr/news/articleView.html?idxno=344983",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=118986",
+  "https://www.sentv.co.kr/article/view/sentv202607140046",
+  "https://www.news1.kr/it-science/cc-newmedia/6227267"
  ],
  "seen_titles": [
-  "올해도찾아온의정부고‘졸사’…홍명보에젠슨황까지[자막뉴스]",
-  "SK텔레콤,여름휴가철맞아로밍할인·멤버십혜택동시운영",
-  "KT,공공형AI메일보안출시…국내첫CSAP인증획득",
-  "대한축구협회청문회,결국‘반쪽짜리’되나…손흥민·박지성·이영표...",
-  "미래에셋생명,변액보험에한·미·중반도체ETF3종편입",
-  "삼성화재,정보보호투자3년…'금융위원장표창'결실",
-  "\"반도체고점아냐\"…한국은행\"공급이수요못따라가\"",
-  "가짜뉴스근절법생겼는데…허위게시글,왜안지워지는거야?[김보...",
-  "[로펌라운지]율촌·OSBC,국내최초'기업형AI거버넌스'체계구축",
   "미래에셋생명,변액보험에한·미·중반도체ETF3종편입…투자선택...",
   "[오늘증시]SK하이닉스급락에코스피'휘청'…이달말실적발표변수",
   "한국자동차전문기자협회,폴스타3기술세미나개최…800V아키텍처집...",
@@ -6001,7 +5992,16 @@
   "이재용2분기주식가치28조늘고최태원첫'10조클럽'",
   "KT,국가공공AI인프라재설계…693개시스템이전로드맵짠다",
   "KT,국가공공AI인프라설계맡는다…국가정보자원관리원혁신ISP수주",
-  "모레,UN산하ITU혁신사례선정…“엔비디아종속깬다”"
+  "모레,UN산하ITU혁신사례선정…“엔비디아종속깬다”",
+  "SK인텔릭스,‘나무엑스’지자체공공실증사업2건선정",
+  "[종합]\"밴딩양말,키토선생,소휘효소,컷슬린,닥터버거,로코초코,픽스...",
+  "비드래프트,'VKAE×VKUE'세트엔진으로AIIDC운영효율극대화제안",
+  "애플vs오픈AI'디바이스핵전쟁'....\"포스트스마트폰패권걸렸다\"",
+  "SKT,독자AI모델컨소시엄확대…SKAX·테크노매트릭스합류",
+  "SKT,'AI-RAN'실증사업참여…피지컬AI고속도로깐다",
+  "이재용주식재산2분기28조급증…최태원도첫'10조클럽'가입",
+  "KT,국정자원혁신ISP사업우선협상대상자선정",
+  "KT,공공AI인프라혁신짠다…'국정자원ISP'우선협상자선정"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,13 @@
   [
    "2026-07-14T10:06:16.742062+09:00",
    "혁신사례 산하 깬다 선정 ITU UN 모레 종속"
+  ],
+  [
+   "2026-07-14T10:08:15.178125+09:00",
+   "사업 피지컬AI 깐다 실증 참여 RAN 고속도로 ~SKT"
   ]
  ],
- "last_run": "2026-07-14T10:06:34.323258+09:00",
+ "last_run": "2026-07-14T10:08:38.799020+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
