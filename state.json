@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itbiznews.com/news/articleView.html?idxno=219004",
-  "https://www.newspim.com/news/view/20260714000026",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=306348",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607140187&t=NN",
-  "https://www.huffingtonpost.kr/article/258670",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607130030&t=NN",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240372",
   "https://www.g-enews.com/view.php?ud=202607140644537892fbbec65dfb_1",
   "https://www.news1.kr/industry/general-industry/6226619",
   "https://www.investchosun.com/site/data/html_dir/2026/07/13/2026071380138.html",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20260714000020",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260714010005222",
   "https://www.kbmaeil.com/article/20260715500037",
-  "https://zdnet.co.kr/view/?no=20260715080301"
+  "https://zdnet.co.kr/view/?no=20260715080301",
+  "https://www.cstimes.com/news/articleView.html?idxno=713483",
+  "https://www.newspim.com/news/view/20260715000088",
+  "https://www.newspim.com/news/view/20260715000086",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=51455",
+  "https://www.mk.co.kr/article/12098856",
+  "https://www.tenasia.co.kr/article/2026071556444",
+  "http://www.metroseoul.co.kr/article/20260715500031"
  ],
  "seen_titles": [
-  "[WhoIs?]유경선유진그룹회장",
-  "IBK기업은행,하반기IBK창공혁신창업기업103개사최종선발",
-  "[미국특징주]월가대형은행들,2분기트레이딩수익390억달러육박전...",
-  "[정보보호테크]⑦KT,보안투자증가율'최저'…올해증액시험대",
-  "2분기랠리에회장님'활짝'...이재용·최태원얼마벌었나",
-  "[영상]구조조정과명퇴딛고'AI인프라거물'된두산,'투자냐재무...",
-  "SK하이닉스나스닥화려한등판…반도체·기술주명암교차[美증시특...",
   "폭염보다뜨거운'발열'…삼성은공조,LG는데이터센터주력",
   "반도체팔고미국·채권으로…6월외국인46조이탈,코스피자금의실...",
   "[데스크칼럼]못하는것과안하는것…호남반도체,그어디쯤",
@@ -6001,7 +5994,14 @@
   "[AIMY뉴스]14일중국증시'지정학불안감속기술주조정,거시경제...",
   "구글\"韓,AI테스트베드아닌격전지\"…'풀스택AI'가핵심",
   "美반도체랠리에코스피반등기대감…최근급락회복할까?",
-  "\"오픈AI,첫HW는스마트스피커\"…애플과맞대결"
+  "\"오픈AI,첫HW는스마트스피커\"…애플과맞대결",
+  "프로티나,온코닉테라퓨틱스와항암신약공동연구추진",
+  "[미국특징주]JP모간\"서클·코인베이스,스테이블코인수익성압박\"",
+  "[미국특징주]월가'AI특수'에수수료쓸어담는다…딜·파이낸싱호황",
+  "투자보고서때문에하이닉스ADR27%급등",
+  "“한화팬이라정중히거절한건데”…‘KT시구논란’사과한신지,무...",
+  "신지,KT시구거절에결국축하공연도취소…\"한화팬이라\"",
+  "SK하이닉스ADR에3000억베팅한서학개미…10만명'나스닥직행'"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-07-15T08:18:17.316505+09:00",
    "수도 쓰는 사람"
+  ],
+  [
+   "2026-07-15T08:24:17.481072+09:00",
+   "SK하이닉스 3000억 나스닥 베팅한 ADR에 10만명 직행 서학개미"
   ]
  ],
- "last_run": "2026-07-15T08:22:37.894925+09:00",
+ "last_run": "2026-07-15T08:24:38.652428+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
