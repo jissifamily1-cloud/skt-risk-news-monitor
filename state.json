@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04483766645514520",
-  "https://www.newstree.kr/newsView/ntr202607140008",
-  "https://www.etnews.com/20260714000385",
-  "http://www.fnnews.com/news/202607141500515017",
-  "https://zdnet.co.kr/view/?no=20260714142942",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=132953",
   "http://www.thevaluenews.co.kr/news/view.php?idx=200064",
   "http://www.newslock.co.kr/news/articleView.html?idxno=132981",
   "https://www.seoultimes.news/news/article.html?no=2000097751",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1391911",
   "https://www.newspim.com/news/view/20260715001057",
   "https://www.newsis.com/view/NISX20260715_0003710645",
-  "http://coinreaders.com/247836"
+  "http://coinreaders.com/247836",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=828677",
+  "https://biz.chosun.com/it-science/ict/2026/07/13/ENDU7TRW2RABFPMYDNJA7BHHA4/",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850458",
+  "https://www.mk.co.kr/article/12099253",
+  "http://www.segyebiz.com/newsView/20260715516104?OutUrl=naver",
+  "http://www.fnnews.com/news/202607151506092463"
  ],
  "seen_titles": [
-  "KT,AI네트워크기반조선소피지컬AI실증추진",
-  "KT,‘하이퍼AI네트워크기반조성사업’우선협상대상자선정",
-  "KT,‘하이퍼AI네트워크실증사업’수주⋯“조선소피지컬AI시스...",
-  "KT,삼성전자·HD현대삼호와맞손…“자율운용네트워크조선소피지컬...",
-  "KT,AI가통신망장애스스로해결한다…조선소로봇실증착수",
-  "KT,삼성전자·HD현대삼호와‘조선소피지컬AI’실증…자율운용네트...",
   "조선소에AI로봇투입...KT-삼성電'피지컬AI'실증한다",
   "구글,풀스택AI내세워오픈AI·앤트로픽추격…기업용AI시장공략박...",
   "'보조금덕8천만원→3600만원'..수소전기차'2027넥쏘'출시",
@@ -6001,7 +5995,13 @@
   "미·중양분한로봇두뇌…삼성,'초저지연엣지메모리'선점으로판도...",
   "씨이랩,AICity인물검색공개1위",
   "박윤영KT대표,자사주매입1300주매입",
-  "\"눌릴만큼눌렸다\"...에버코어ISI,엔비디아(NVDA)등반등임박4대종..."
+  "\"눌릴만큼눌렸다\"...에버코어ISI,엔비디아(NVDA)등반등임박4대종...",
+  "부상아냐?사라졌던LG신인왕후보가돌아온다\"트래킹데이터이상없...",
+  "요금은그대로,포인트로‘0원’…통신3사자회사알뜰폰‘도매대가...",
+  "보산진,한국MSD와혁신기업발굴…글로벌진출지원",
+  "포털‘다음’의AI검색,토종AI반도체와모델이구동한다",
+  "“AI가관제사의사결정지원”…KT,드론·UAM박람회참가",
+  "\"GPU너무비싸다\"日도'탈엔비디아'가속"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-07-15T15:14:17.068252+09:00",
    "4대 임박 에버코어ISI 눌릴 NVDA 반등 만큼 눌렸다"
+  ],
+  [
+   "2026-07-15T15:16:16.248874+09:00",
+   "너무 가속 GPU 비싸다"
   ]
  ],
- "last_run": "2026-07-15T15:14:38.435402+09:00",
+ "last_run": "2026-07-15T15:16:37.056219+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
