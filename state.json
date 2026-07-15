@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260714145251",
-  "https://www.sedaily.com/article/20067416",
-  "https://www.newsis.com/view/NISX20260714_0003708517",
-  "https://www.news1.kr/it-science/cc-newmedia/6227170",
-  "https://www.mt.co.kr/tech/2026/07/14/2026071408444992024",
-  "https://www.mt.co.kr/tech/2026/07/14/2026071410352228412",
-  "https://news.bizwatch.co.kr/article/mobile/2026/07/14/0007",
-  "https://biz.chosun.com/it-science/ict/2026/07/14/AQMY5G7URFD3HDUBMAXFWTMYXI/",
   "https://biz.heraldcorp.com/article/10807712",
   "https://www.news1.kr/it-science/cc-newmedia/6227427",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=61920",
@@ -2999,17 +2991,17 @@
   "https://www.thedailypost.kr/news/articleView.html?idxno=114682",
   "https://www.sisajournal.com/news/articleView.html?idxno=379902",
   "https://www.newsinside.kr/news/articleView.html?idxno=4841411",
-  "https://news.jtbc.co.kr/article/NB12308386?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12308386?influxDiv=NAVER",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207612",
+  "http://www.ikld.kr/news/articleView.html?idxno=337632",
+  "https://www.namdonews.com/news/articleView.html?idxno=917030",
+  "https://www.ziksir.com/news/articleView.html?idxno=140189",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114183",
+  "https://www.mt.co.kr/world/2026/07/15/2026071510021922465",
+  "https://www.ddaily.co.kr/page/view/2026071515024311686",
+  "https://www.ziksir.com/news/articleView.html?idxno=140177"
  ],
  "seen_titles": [
-  "네이버검색이용률하락...제미나이이용률·만족도상승",
-  "여야,개인정보관리·손해배상강화법추진",
-  "로봇연산까지기지국이맡는다…SKT,'AI고속도로'본격화",
-  "공장에'피지컬AI'실현할지능망깐다…SKT·KT,하이퍼AI네트워크실...",
-  "SKT,AI고속도로핵심'AI-RAN선도망'구축한다",
-  "SKT,AI-RAN선도망구축...피지컬AI실증추진",
-  "SKT·KT‘AI고속도로’핵심AI-RAN구축사업착수…“피지컬AI실증”",
-  "조선소·공장피지컬AI키운다…초고속·초저지연AI통신망실증",
   "SKT,정부주관피지컬AI실증수행기관선정…'AI-RAN선도망'구축",
   "SKT,'AI고속도로'구축나선다…정부AI-RAN실증사업선정",
   "SKT·KT,정부'하이퍼AI네트워크'실증참여…주도권경쟁본격화(종...",
@@ -6001,7 +5993,15 @@
   "원스토어,크로쓰프로토콜밸리데이터합류…자체노드인프라구축·...",
   "[영주24시]영주시,의료·요양통합돌봄확대…생활밀착서비스신설",
   "KT,소상공인앱'사장이지'에매장운세추가",
-  "코요태신지,KT시구거절논란에축하공연까지무산"
+  "코요태신지,KT시구거절논란에축하공연까지무산",
+  "국제데이터연구협력기구,글로벌데이터스페이스포럼개최",
+  "SK에코플랜트,'2026테크오픈콜라보레이션'시상…혁신기술6건선정",
+  "[이건상시선]대만신주,반도체도시가왜미술관건립했나",
+  "창립13주년다이닝브랜즈그룹,자체AI플랫폼'다이나이'선봬",
+  "SK에코플랜트,'2026테크오픈콜라보레이션'시상…반도체·AI혁신기술...",
+  "'이란전쟁공조'UAE,미국AI칩쓴다…트럼프'이해충돌'논란재점화",
+  "오픈AI,화면없는AI스피커로애플에도전장",
+  "\"포퓰리즘선동에맞서개혁완수\"···李대통령,강력한'비정상의정..."
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,17 @@
   [
    "2026-07-15T15:06:17.318821+09:00",
    "코요태 시구 논란에 무산 신지 거절 ~KT 축하공연까지"
+  ],
+  [
+   "2026-07-15T15:08:16.719022+09:00",
+   "화면 스피커로 애플에 도전장 없는"
+  ],
+  [
+   "2026-07-15T15:08:16.719022+09:00",
+   "개혁 완수 맞서 선동에 강력한 대통령 비정상의 포퓰리즘"
   ]
  ],
- "last_run": "2026-07-15T15:06:38.229608+09:00",
+ "last_run": "2026-07-15T15:08:40.397429+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
