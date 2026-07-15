@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683395",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=79916",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355814",
-  "https://www.newstnt.com/news/articleView.html?idxno=710295",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102100",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39345",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53216",
   "https://www.newspim.com/news/view/20260715000325",
   "https://www.kukinews.com/article/view/kuk202607150028",
@@ -2999,15 +2993,15 @@
   "https://www.ddaily.co.kr/page/view/2026071309221602715",
   "https://www.ajunews.com/view/20260713092031042",
   "https://www.cwn.kr/news/articleView.html?idxno=50580",
-  "https://www.btnnews.tv/news/articleView.html?idxno=90881"
+  "https://www.btnnews.tv/news/articleView.html?idxno=90881",
+  "https://view.asiae.co.kr/article/2026071408041028899",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442178",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607141458308880103865",
+  "https://www.segye.com/newsView/20260715523733?OutUrl=naver",
+  "http://worknworld.kctu.org/news/articleView.html?idxno=509679",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607151516239440108153"
  ],
  "seen_titles": [
-  "코스피·코스닥동반매수사이드카…반도체랠리에7천피탈환",
-  "클라우데라,VAST데이터와파트너십…모든환경지원AI데이터플랫폼...",
-  "美인플레둔화호재에코스피·코스닥급반등…동반사이드카발동",
-  "코스피,7%급등하며7,300선회복‥SK하이닉스12%'폭등'",
-  "LG유플러스,'로밍패스'개편…로밍서비스가입·이용절차간소화",
-  "해외도착하면로밍자동시작…LG유플러스,'로밍패스'개편",
   "코요태신지,'한화팬'이유로KT시구거절…축하공연도취소",
   "\"오픈AI첫기기…'무화면이동식스마트스피커'\"",
   "엔비디아H200,미국의제한적중국출하시작...기술통제속공급허용",
@@ -6001,7 +5995,13 @@
   "애플,영업비밀탈취혐의로오픈AI에소송…핵심인력이탈'경종'",
   "신한證\"SKT,엔트로픽기업가치추가상승기대…목표가10만원\"",
   "'AI데이터센터'전담조직신설…SK텔레콤,15GW규모메가프로젝트본격...",
-  "[기획'AI시대,불교의길'➂]가톨릭,AI윤리선언‥불교계준비상..."
+  "[기획'AI시대,불교의길'➂]가톨릭,AI윤리선언‥불교계준비상...",
+  "우리모델로AI서비스…'모두의AI'에이통3사·네카오출사표(종합)",
+  "[WhoIs?]박민원국립창원대학교총장",
+  "[더벨][CompanyWatch]'영업이익률52%'한미반도체,어닝서프라이즈",
+  "성과급DSR반영축소…커지는기준금리인상가능성[한강로경제브리...",
+  "\"인내의시간은끝…진짜사장나와라\"민주노총10만노동자,일손놓고...",
+  "[더벨]KT밀리의서재,정재욱체제핵심'AI·데이터'"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,17 @@
   [
    "2026-07-16T07:02:16.890121+09:00",
    "윤리 불교계 가톨릭 준비 선언"
+  ],
+  [
+   "2026-07-16T07:04:16.551218+09:00",
+   "10만 나와라 노동자 인내의 진짜사장 일손 놓고 민주노총 시간은"
+  ],
+  [
+   "2026-07-16T07:04:16.551218+09:00",
+   "핵심 체제 데이터 정재욱 ~KT KT밀리의서재"
   ]
  ],
- "last_run": "2026-07-16T07:02:45.964075+09:00",
+ "last_run": "2026-07-16T07:04:45.522106+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6647,6 +6655,7 @@
   "medipana.com": "메디파나뉴스",
   "newsmin.co.kr": "newsmin.co.kr",
   "100ssd.co.kr": "백세시대",
-  "btnnews.tv": "BTN불교TV"
+  "btnnews.tv": "BTN불교TV",
+  "worknworld.kctu.org": "노동과세계"
  }
 }
