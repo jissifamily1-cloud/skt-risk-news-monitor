@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=61901",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468327",
-  "https://www.viva100.com/article/20260714500784",
-  "https://www.veritas-a.com/news/articleView.html?idxno=619258",
-  "http://www.press9.kr/news/articleView.html?idxno=79445",
-  "http://www.metroseoul.co.kr/article/20260714500301",
-  "https://www.joongang.co.kr/article/25444608",
-  "https://www.ajunews.com/view/20260713140408635",
   "http://www.metroseoul.co.kr/article/20260714500299",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=360276",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404209",
@@ -2999,17 +2991,17 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092165865",
   "https://www.etoday.co.kr/news/view/2604065",
   "http://www.newsprime.co.kr/news/article.html?no=740439",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317590"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317590",
+  "https://www.viva100.com/article/20260715500858",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611466",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213085",
+  "https://www.ddaily.co.kr/page/view/2026071512475337720",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4094975",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030114475&code=61121111&cp=nv",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109507",
+  "https://www.newsway.co.kr/news/view?ud=2026071511174328303"
  ],
  "seen_titles": [
-  "\"AI변화속도,산업혁명보다빠르다\"…석학·경영진200인'선제대응'...",
-  "통합결제플랫폼헤이페이,‘2026대한민국소비자만족지수1위’3년...",
-  "DeepSeek창립자량원펑자산360억달러로두배증가",
-  "삼성전자뚫은구글…'풀스택AI'로MS·AWS추격",
-  "AI로달라지는게임콘텐츠…\"인공지능,창작의부족한부분채운다\"",
-  "'챗GPT·클로드최대1만원할인'...KT,7월구독료할인이벤트진행",
-  "예고없는도메인차단날벼락…텔레그램기반암호화폐서비스일제히...",
-  "한국타이어,디자인·마케팅모두잡았다⋯글로벌수상에VIP혜택까지",
   "숭실대법학과윤진숙교수세계법철학학회대회참석'국제학술교류/...",
   "신세계그룹,리플렉션AI와초대형AI데이터센터추진…연내합작사설...",
   "AI전쟁한복판인데…네이버·카카오덮친'노조리스크'",
@@ -6001,7 +5993,15 @@
   "구글출신AI전문가\"SKT,통신사AX청사진제시\"",
   "오픈AI,첫AI하드웨어승부수…화면없는스피커내년출시",
   "에치에프알모바일,현대제철향'휴머노이드제어핵심'고성능AI-RAN솔...",
-  "언론노조KBS본부'근로자과반'달성…편성위탄력받는다"
+  "언론노조KBS본부'근로자과반'달성…편성위탄력받는다",
+  "AI·미디어에친숙한잘파세대⋯“AI는도구이자가장가까운놀이상...",
+  "[KBS열린토론]급등락반복하는코스피…전문가들이보는원인은?",
+  "클라우데라,VAST데이터와GPU병목해소위한AI팩토리구축협력",
+  "수천조투자모이는AI인프라…\"뚫리면끝,제로트러스트로막아라\"",
+  "개보위,고용·교육마이데이터중계인프라실증착수",
+  "충남도,‘202조원’첨단산업기업투자지원협의체개최",
+  "SK브로드밴드'Btv핫딜',론칭8개월만에누적판매액60억원",
+  "SK실트론가치역전…매각대상서AI핵심자산으로"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-07-15T14:20:49.782139+09:00",
    "과반 근로자 달성 탄력 KBS본부 언론노조 받는다 편성위"
+  ],
+  [
+   "2026-07-15T14:22:15.705079+09:00",
+   "자산으로 가치 핵심 SK실트론 역전 대상서 매각"
   ]
  ],
- "last_run": "2026-07-15T14:21:12.940566+09:00",
+ "last_run": "2026-07-15T14:22:40.724130+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
