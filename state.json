@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850341",
-  "https://zdnet.co.kr/view/?no=20260715095121",
-  "http://www.sportsq.co.kr/news/articleView.html?idxno=496459",
-  "https://www.viva100.com/article/20260715500299",
-  "https://www.tokenpost.kr/news/breaking/377916",
-  "https://www.news1.kr/it-science/general-it/6228596",
-  "https://www.hidomin.com/news/articleView.html?idxno=713337",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240408",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/15/2026071500084.html",
   "https://imnews.imbc.com/news/2026/econo/article/6837563_36932.html",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=1408",
@@ -2999,17 +2991,17 @@
   "https://view.asiae.co.kr/article/2026071516462348156",
   "http://www.ddanzi.com/889582244",
   "https://www.yna.co.kr/view/AKR20260716013900091?input=1195m",
-  "https://www.etoday.co.kr/news/view/2604260"
+  "https://www.etoday.co.kr/news/view/2604260",
+  "https://www.lecturernews.com/news/articleView.html?idxno=206341",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005880755",
+  "https://www.g-enews.com/view.php?ud=202607160639319381fbbec65dfb_1",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61633",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684496",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441163",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=306524",
+  "https://www.cwn.kr/news/articleView.html?idxno=50581"
  ],
  "seen_titles": [
-  "KT,소상공인앱'사장이지'에'매장운세'서비스출시",
-  "서울시여성가족재단,오픈AI와손잡고여성IT인재지원",
-  "'최적요금고지'10월도입…\"통신비인하대신집토끼단속?\"",
-  "카카오톡PC에서도챗GPT쓴다…업데이트단행",
-  "카카오톡,6차업데이트…밀린메시지요약·PC버전에챗GPT적용",
-  "다이닝브랜즈그룹,자체AI플랫폼'다이나이'출범...외식업디지털전...",
-  "애플,영업비밀탈취혐의로오픈AI에소송…핵심인력이탈'경종'",
-  "신한證\"SKT,엔트로픽기업가치추가상승기대…목표가10만원\"",
   "배민,전통시장기획전...KT엠모바일'mobi'제휴행사",
   "LGU+,'로밍패스'개편…가입·이용전과정간소화",
   "우리모델로AI서비스…'모두의AI'에이통3사·네카오출사표(종합)",
@@ -6001,7 +5993,15 @@
   "\"FLNG다음은FDC\"…먹거리남은삼성중공업[클릭e종목]",
   "[뉴공아카이브]백년위원회:정부예산800조시대…초과세수로‘미래...",
   "보안부문도AI칼바람…MS,임원9명교체·수백명해고",
-  "앤스로픽,투자자미팅추진...IPO준비순항[마켓핫]"
+  "앤스로픽,투자자미팅추진...IPO준비순항[마켓핫]",
+  "[이용호의손에잡히는인공지능]GPT-5.6,더똑똑함보다더잘일하는...",
+  "애플,AI서버칩경쟁력강화추진…반도체기업인수모색",
+  "인텔EMIB급부상…구글마저TSMC등돌리나,AI패키징판세요동",
+  "SKT,140조'AI메가DC'속도전…CEO직속통합추진단가동",
+  "오픈AI,코덱스연동230달러키보드공개…하드웨어시장진입",
+  "[WhoIs?]류진풍산그룹회장겸한국경제인협회회장",
+  "[통신사AI인프라전]②SKT,투자금'외부조달'로자체부담줄이나",
+  "민주당추천KBS이사4명,방미통위임명제청…'EBS·방문진'이사임..."
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,25 @@
   [
    "2026-07-16T06:52:17.726346+09:00",
    "맥주 경영 일본서도 꼬치에 회식 스킨십 젠슨"
+  ],
+  [
+   "2026-07-16T07:00:59.645494+09:00",
+   "~SKT 직속 가동 통합추진단 속도전 CEO 메가 140조 DC"
+  ],
+  [
+   "2026-07-16T07:00:59.645494+09:00",
+   "외부 ~SKT 자체 투자금 줄이나 부담 조달"
+  ],
+  [
+   "2026-07-16T07:00:59.645494+09:00",
+   "회장 류진 한국경제인협회 풍산그룹"
+  ],
+  [
+   "2026-07-16T07:00:59.645494+09:00",
+   "방문진 4명 민주당 제청 이사 임명 추천 KBS EBS"
   ]
  ],
- "last_run": "2026-07-16T06:58:31.572007+09:00",
+ "last_run": "2026-07-16T07:01:29.311837+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
