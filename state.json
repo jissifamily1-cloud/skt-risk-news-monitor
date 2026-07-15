@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=713396",
-  "https://www.ekn.kr/web/view.php?key=20260714025492319",
-  "https://www.newscj.com/news/articleView.html?idxno=3416886",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=847160",
-  "https://www.sidae.com/article/2026071414175332143",
-  "https://www.m-i.kr/news/articleView.html?idxno=1391265",
-  "https://www.etnews.com/20260714000349",
-  "https://www.livebiz.today/news/articleView.html?idxno=203320",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040800",
   "https://biz.sbs.co.kr/article_hub/20000322408?division=NAVER",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684007",
@@ -2999,17 +2991,17 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=114172",
   "https://www.etnews.com/20260715000327",
   "https://www.newsis.com/view/NISX20260715_0003710505",
-  "https://www.etnews.com/20260715000328"
+  "https://www.etnews.com/20260715000328",
+  "http://www.jeollailbo.com/news/articleView.html?idxno=805489",
+  "http://www.kdfnews.com/news/articleView.html?idxno=185240",
+  "https://zdnet.co.kr/view/?no=20260715142946",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442406",
+  "http://www.fnnews.com/news/202607151343402041",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607150237&t=NN",
+  "https://www.chosun.com/economy/tech_it/2026/07/14/WBKT52JP3VE5TOVRQXDS6PLBN4/",
+  "https://www.donga.com/news/It/article/all/20260715/134303311/2"
  ],
  "seen_titles": [
-  "영동스마트타워,하남시에성금300만원기탁…저소득층지원",
-  "경남고성군,군민체감형폭염대응강화",
-  "사람빈자리파고드는로봇세상",
-  "[Digital&Now]네이버커넥트재단,국립특수교육원과맞춤형AI콘텐츠...",
-  "홍명보에등돌린손흥민…의정부고졸업사진'싱크로율'보니",
-  "SK인텔릭스'나무엑스',공공실증사업연속선정…공공로봇시장진입...",
-  "‘포스트아이폰’싹자른다…애플,소송카드로오픈AI압박",
-  "이통3사·네카오'모두의AI'총출동…대국민AI서비스경쟁본격화",
   "[#IT라운지]네이버'아우디풋볼써밋'티켓판매·틱톡'AI스팸대응'·...",
   "반도체초호황에갈린주식재산…이재용28조·최태원10조클럽",
   "2분기그룹총수주식재산양극화…이재용최태원제외한44명,6조원감...",
@@ -6001,7 +5993,15 @@
   "[게임게시판]컴투스·엔씨·넷마블",
   "에치에프알모바일,현대제철당진공장에AI-RAN공급",
   "에치에프알모바일,지능형오픈랜실증단지조성사업참여",
-  "포항시,AI기반극지해양기술개발본격화…15일포스텍에서KT·맵시등..."
+  "포항시,AI기반극지해양기술개발본격화…15일포스텍에서KT·맵시등...",
+  "익산서'KT위즈퓨처스서머리그'열린다",
+  "AI가고르고,예측하고,실행한다…기업혁신의새공식",
+  "[강은성보안칼럼]AI의사이버공격에대응하기위하여(하)",
+  "AI반도체업황전망TSMC와ASML실적에달려,생산과투자계획이관건",
+  "업스테이지,퓨리오사AI와다음'AI오버뷰'협력...\"K-풀스택AI첫사례...",
+  "업스테이지·퓨리오사AI,소버린AI동맹맺었다",
+  "“산업혁명보다빠르고거대한쓰나미온다”…노벨상수상자등200명...",
+  "AI,언어별로성격이다르다?“한국어쓸때더다정해”"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,13 @@
   [
    "2026-07-15T14:28:17.471495+09:00",
    "기반 맵시 ~KT 개발 포항시 15일 포스텍에서 극지해양기술 본격화"
+  ],
+  [
+   "2026-07-15T14:30:58.219919+09:00",
+   "다르다 한국어 성격이 다정해 언어별로"
   ]
  ],
- "last_run": "2026-07-15T14:28:38.191925+09:00",
+ "last_run": "2026-07-15T14:31:21.872867+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
