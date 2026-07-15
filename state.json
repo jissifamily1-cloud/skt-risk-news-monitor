@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailypop.kr/news/articleView.html?idxno=100350",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260714.99099004026",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89091",
-  "https://www.news1.kr/world/international-economy/6227450",
-  "https://www.etoday.co.kr/news/view/2603490",
-  "https://www.inven.co.kr/webzine/news/?news=318455",
-  "https://www.thelec.kr/news/articleView.html?idxno=59534",
-  "https://www.econovill.com/news/articleView.html?idxno=745141",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578838363423",
   "https://www.gukjenews.com/news/articleView.html?idxno=3635268",
   "https://www.thisisgame.com/articles/427768",
@@ -2999,17 +2991,17 @@
   "http://www.fnnews.com/news/202607140754323634",
   "https://www.seoultimes.news/news/article.html?no=2000097790",
   "https://www.donga.com/news/Economy/article/all/20260715/134302542/1",
-  "https://www.news1.kr/finance/blockchain-fintech/6228826"
+  "https://www.news1.kr/finance/blockchain-fintech/6228826",
+  "https://kpenews.com/View.aspx?No=4149788",
+  "https://www.etnews.com/20260715000211",
+  "https://biz.heraldcorp.com/article/10809583",
+  "https://www.dailian.co.kr/news/view/1667375/?sc=Naver",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1169452",
+  "https://www.etnews.com/20260715000212",
+  "http://www.joseilbo.com/news/news_read.php?uid=571944&class=78",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260715010005615"
  ],
  "seen_titles": [
-  "올해2분기총수지분가치이재용28조증가,최태원10조돌파",
-  "흥국자산운용주주서한철회…\"SK하이닉스가답했어야\"",
-  "여름입맛전쟁,커피부터삼계탕까지격전지",
-  "로봇·침대·바이오까지,몸돌보는시장'주목'",
-  "중등인강밀크티,여름방학‘골든타임’공략…‘2학기내신진도강좌...",
-  "[인사이트]바이브코딩,\"AI가다만들어준다\"는착각",
-  "‘반도체슈퍼사이클’2분기이재용주식평가액28조증가…최태원10...",
-  "LGU+,AX컨퍼런스서AICC기술력∙비전알린다",
   "노벨상수상자·AI개발자200명\"AI경제충격대비서둘러야\"",
   "모레,UN산하ITU혁신사례선정⋯“이기종AI인프라SW기술력국제적...",
   "\"용자리의밤하늘을담았다\"MSI,40주년기념의한정판노트북출시",
@@ -6001,7 +5993,15 @@
   "경제전문가들,AI따른경제적변화·대량실업대책당장마련해야",
   "LG유플러스,해외로밍절차확바꿨다…도착즉시연결·반복가입도자...",
   "오픈AI최상급모델잇따른사고…로컬파일지우고구독해지도",
-  "올트먼의'홍채인식'프로젝트월드,줌·도큐사인에인간인증도입"
+  "올트먼의'홍채인식'프로젝트월드,줌·도큐사인에인간인증도입",
+  "[현장쏙]데이터로본잘파세대특성..밀리의서재등3사세미나열어",
+  "통신3사'모두의AI'도전장…B2CAI주도권선점경쟁",
+  "[사설]AI는새로운사회협약을요구하고있다",
+  "‘QR찍으면비거리·볼스피드한눈에’탑트레이서GO,골프연습장도...",
+  "청주'미원별빛자연휴양림'본격운영···\"숲과별이있는휴식처\"",
+  "“통신AI경쟁,투자에서운영성과로…SKT대표사례부상”",
+  "오픈AI티보소티오\"코덱스·챗GPT워크이용자800만명\"",
+  "젠슨황일본행…게임서출발엔비디아,AI에이전트로귀환"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,21 @@
   [
    "2026-07-15T11:18:15.005761+09:00",
    "프로젝트 인식 올트먼의 도큐사인에 인간 인증 월드 도입 홍채"
+  ],
+  [
+   "2026-07-15T11:20:49.120219+09:00",
+   "통신 사례 투자에서 대표 ~SKT 부상 경쟁 성과로 운영"
+  ],
+  [
+   "2026-07-15T11:20:49.120219+09:00",
+   "800만명 워크 티보 코덱스 소티오 챗GPT 이용자"
+  ],
+  [
+   "2026-07-15T11:20:49.120219+09:00",
+   "AI에이전트로 젠슨 귀환 게임서 일본행 출발"
   ]
  ],
- "last_run": "2026-07-15T11:18:39.982123+09:00",
+ "last_run": "2026-07-15T11:21:12.384590+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
