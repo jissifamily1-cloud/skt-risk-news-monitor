@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260714500254",
-  "https://www.donga.com/news/Economy/article/all/20260714/134294898/1",
-  "https://www.newspim.com/news/view/20260714000726",
-  "https://www.mk.co.kr/article/12098087",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207590",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=221040",
-  "https://www.joongangenews.com/news/articleView.html?idxno=532708",
-  "http://www.metroseoul.co.kr/article/20260714500258",
   "https://www.slist.kr/news/articleView.html?idxno=751701",
   "http://amenews.kr/news/view.php?idx=67419",
   "https://www.mediawatch.kr/news/article.html?no=260370",
@@ -2999,17 +2991,17 @@
   "https://www.khan.co.kr/article/202607151346001",
   "https://www.ytn.co.kr/_ln/0104_202607151344380982",
   "https://www.inthenews.co.kr/news/article.html?no=89363",
-  "https://www.mk.co.kr/article/12099141"
+  "https://www.mk.co.kr/article/12099141",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468309",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=203863",
+  "https://www.pressman.kr/news/articleView.html?idxno=102762",
+  "https://biz.chosun.com/it-science/ict/2026/07/15/BM5MRUJ7HJHZZCGBANMQNYADLE/",
+  "https://biz.sbs.co.kr/article_hub/20000322677?division=NAVER",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03772006645514848",
+  "https://vop.co.kr/A00001695841.html",
+  "https://www.medipana.com/news/articleView.html?idxno=414623"
  ],
  "seen_titles": [
-  "페덱이콜어빈만아니라면...삼성-LG의다른승부수,우승과직결되는...",
-  "통신3사,발신자영상보여주는'V프로필'공동출시",
-  "KT,국가정보자원관리원혁신ISP수립맡는다",
-  "최태원\"AI비용부담,기술과ADR로넘는다\"",
-  "\"10년뒤에도안전한데이터\"…SDT큐레카,양자내성암호전면적용",
-  "SK텔레콤독파모정예팀에SKAX·테크노매트릭스합류",
-  "“10년내훨씬강력해질AI…기다리면이미늦어있을것”",
-  "의정부시보건소,'찾아가는건강관리캠페인'실시",
   "기업용AI시장추격나선구글…“우리경쟁력은풀스택”",
   "스텔라사이버,한국리전SaaS출시...금융·기업자율형AI-SOC시장정조...",
   "LG유플러스·SKT·KT,발신자영상보여주는'V프로필'공동출시",
@@ -6001,13 +5993,17 @@
   "백악관,사이버보안민관협력허브‘골드이글’출범",
   "미,UAE에AI반도체수출통제완화...\"이란작전지원대가\"",
   "KT,‘AX테크커넥트’개최…AX전략·최신네트워크미래기술선봬",
-  "엔비디아지금사야?...H200,中출하소식에주가껑충"
+  "엔비디아지금사야?...H200,中출하소식에주가껑충",
+  "한전KDN,기간통신사업면허·이음5G주파수확보",
+  "2026코리아이커머스페어9월서울세텍서개최…이커머스자동화솔루...",
+  "'백화점은미술관으로,물류센터는AI교실로...'",
+  "애플,‘초경량AI’기술검토…시리온디바이스전환속도내나",
+  "[오후장체크포인트]미국6월CPI3.5%상승…시장전망치밑돌아",
+  "李대통령“부정수급전문신고도공동체기여…불이익없어야”",
+  "네이버‘생활밀착형AI’,식당예약까지원큐에추천만하는챗GPT보다...",
+  "한미무대오른바이오벤처…화두는'기술이후'"
  ],
  "recent_sigs": [
-  [
-   "2026-07-15T07:50:50.283936+09:00",
-   "엇갈린 성적표 1분기 지금부터 경쟁은"
-  ],
   [
    "2026-07-15T07:54:15.200600+09:00",
    "영향 정상화 데이터센터 ~SKT SK증권 성장 로드맵 침해사고"
@@ -6467,9 +6463,17 @@
   [
    "2026-07-15T13:36:16.486470+09:00",
    "인터넷 이어 광통신 구축 전화 AI고속도로 ~KT"
+  ],
+  [
+   "2026-07-15T13:50:51.163003+09:00",
+   "한미 오른 화두는 무대 이후 바이오벤처 기술"
+  ],
+  [
+   "2026-07-15T13:50:51.163003+09:00",
+   "하는 예약까지 챗GPT보다 추천만 식당 원큐에 네이버 생활밀착형"
   ]
  ],
- "last_run": "2026-07-15T13:48:35.555161+09:00",
+ "last_run": "2026-07-15T13:51:18.104872+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6923,6 +6927,7 @@
   "energydaily.co.kr": "에너지데일리",
   "newscham.net": "참세상",
   "ccreview.co.kr": "충청리뷰",
-  "usmbc.co.kr": "울산MBC"
+  "usmbc.co.kr": "울산MBC",
+  "medipana.com": "메디파나뉴스"
  }
 }
