@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200064",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=132981",
-  "https://www.seoultimes.news/news/article.html?no=2000097751",
-  "https://www.tenasia.co.kr/article/2026071443404",
-  "https://www.sportsseoul.com/news/read/1622371",
   "https://www.gukjenews.com/news/articleView.html?idxno=3635490",
   "https://www.gukjenews.com/news/articleView.html?idxno=3635483",
   "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1777790",
@@ -2999,14 +2994,14 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=850458",
   "https://www.mk.co.kr/article/12099253",
   "http://www.segyebiz.com/newsView/20260715516104?OutUrl=naver",
-  "http://www.fnnews.com/news/202607151506092463"
+  "http://www.fnnews.com/news/202607151506092463",
+  "https://www.asiatime.co.kr/article/20260715500326",
+  "https://www.starnewskorea.com/sports/2026/07/15/2026071511115770435",
+  "https://www.m-i.kr/news/articleView.html?idxno=1391848",
+  "https://lawtalknews.co.kr/article/K9BZXRKO0YSG",
+  "https://www.mk.co.kr/article/12099257"
  ],
  "seen_titles": [
-  "조선소에AI로봇투입...KT-삼성電'피지컬AI'실증한다",
-  "구글,풀스택AI내세워오픈AI·앤트로픽추격…기업용AI시장공략박...",
-  "'보조금덕8천만원→3600만원'..수소전기차'2027넥쏘'출시",
-  "딥엑스,'오픈피지컬AI'통합생태계구축",
-  "SKT,정부AI-RAN실증사업따냈다…'AI고속도로'핵심인프라구축나서",
   "[통신레이더]SKT·LGU+,AI인프라혁신으로산업DX대전환",
   "KT,삼성전자·HD현대삼호와'하이퍼AI네트워크'구축나선다",
   "KT,'하이퍼AI네트워크'검증본격화…조선소서피지컬AI통신고도화",
@@ -6001,13 +5996,14 @@
   "보산진,한국MSD와혁신기업발굴…글로벌진출지원",
   "포털‘다음’의AI검색,토종AI반도체와모델이구동한다",
   "“AI가관제사의사결정지원”…KT,드론·UAM박람회참가",
-  "\"GPU너무비싸다\"日도'탈엔비디아'가속"
+  "\"GPU너무비싸다\"日도'탈엔비디아'가속",
+  "\"한솔케미칼·하이브ESG최하위'C+'…삼성전자등5곳S등급\"",
+  "'3-4위'KT·KIA,자칫하면롯데·두산·한화에잡힌다[김인식의한마디...",
+  "[캐피탈생산금융⑦]1000억실탄장전…NH농협캐피탈,모험자본대열합...",
+  "불법야동시청후절대하면안되는'최악의대처'…변호사가짚었다",
+  "KT,미래AX기술총출동…AI·6G·데이터한자리공개"
  ],
  "recent_sigs": [
-  [
-   "2026-07-15T09:16:17.727929+09:00",
-   "H200 확인 국내 업계 중국 출하 수혜 메모리"
-  ],
   [
    "2026-07-15T09:18:18.207823+09:00",
    "990원에 KT엠모바일 ~KT 아시아 쓰세요 4개국 하루 무제한 데이터 이심으로"
@@ -6525,7 +6521,7 @@
    "너무 가속 GPU 비싸다"
   ]
  ],
- "last_run": "2026-07-15T15:16:37.056219+09:00",
+ "last_run": "2026-07-15T15:18:38.333987+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
