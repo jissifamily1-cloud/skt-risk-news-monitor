@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=166635",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3635251",
-  "https://www.econovill.com/news/articleView.html?idxno=745132",
-  "https://platum.kr/archives/290844",
-  "https://www.imaeil.com/page/view/2026071410304043555",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468258",
-  "http://www.popcornnews.net/news/articleView.html?idxno=126549",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=204924",
   "https://www.econovill.com/news/articleView.html?idxno=745133",
   "https://www.hankookilbo.com/news/article/A2026071410370001885?did=NA",
   "https://www.yna.co.kr/view/AKR20260714063200009?input=1195m",
@@ -2999,17 +2991,17 @@
   "https://www.job-post.co.kr/news/articleView.html?idxno=221181",
   "https://www.news1.kr/world/usa-canada/6228805",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577857762817",
-  "https://zdnet.co.kr/view/?no=20260715105126"
+  "https://zdnet.co.kr/view/?no=20260715105126",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=202710",
+  "http://www.joseilbo.com/news/news_read.php?uid=571942&class=17",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274889",
+  "https://view.asiae.co.kr/article/2026071413535971079",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=545778",
+  "http://www.4th.kr/news/articleView.html?idxno=2114781",
+  "https://www.news1.kr/it-science/cc-newmedia/6228816",
+  "https://www.sentv.co.kr/article/view/sentv202607150071"
  ],
  "seen_titles": [
-  "[경제전망]국제금융센터,2026년하반기고물가속AI투자가금융시장...",
-  "드롭박스,클로드로AI생태계확장…챗GPT·제미나이스파크함께지원",
-  "메모리3사올해HBM생산량2배이상↑···내년가격인상본격화",
-  "SOX5%급락에도…삼성·SK반등,HBM주다시뛴다[칩칩폭폭]",
-  "SKT독파모정예팀,SKAX·테크노매트릭스합류…산업적용강화",
-  "KT,'국정자원ISP수립'우선협상자선정…\"AI정부실현에기여\"",
-  "'기억의조각을잇다'전시회,김제시지평선창업지원센터서개막",
-  "업비트,AI매매전략등판",
   "딥엑스,욜로·패들패들·라즈베리파이와NPU연계…개발자생태계공...",
   "삼전닉스목표주가'들쭉날쭉'…증권사전망왜갈렸나",
   "SKT독자AI모델컨소시엄에SKAX·테크노매트릭스합류한다",
@@ -6001,7 +5993,15 @@
   "LG유플러스,로밍패스전면개편…해외도착즉시자동연결",
   "\"오픈AI첫기기는'스마트스피커'…올해공개·내년출시목표\"",
   "서울시여성가족재단,OpenAI와여성AI개발자키운다…'잇츠스터디'5...",
-  "美정부,엔비디아H200중국수출공식화…\"초기인도물량미미\""
+  "美정부,엔비디아H200중국수출공식화…\"초기인도물량미미\"",
+  "농심,'농심면가'다이닝으로'쌤쌤쌤'선정…롯데,하반기VCM진행[유...",
+  "한미반도체역대급실적에27%급등…SK·삼성도불붙었다[칩칩폭폭]",
+  "[특징주]삼성증권,코스피·코스닥지수급등속+9%대↑",
+  "[테슬라독주…현대차반격]현대차한발늦었지만…제네시스'레벨2+'·...",
+  "1~2년걸리던신약탐색5개월로...SKT·SK바이오팜,AI로암표적물질...",
+  "SKT·SK바이오팜,AI로신약유효물질5개월만에발굴",
+  "SKT-SK바이오팜,AI로난치성암표적치료유효물질발굴",
+  "KT,‘드론·UAM박람회’참가…AI관제·5G항공망기술선봬"
  ],
  "recent_sigs": [
   [
@@ -6569,7 +6569,7 @@
    "구독 모델 파일 잇따라 삭제 사고 최신 해지"
   ]
  ],
- "last_run": "2026-07-15T11:11:04.151081+09:00",
+ "last_run": "2026-07-15T11:12:34.067886+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
