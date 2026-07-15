@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404244",
-  "https://www.sedaily.com/article/20067968",
-  "http://www.queen.co.kr/news/articleView.html?idxno=460294",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165833",
-  "http://www.kdfnews.com/news/articleView.html?idxno=185222",
-  "https://biz.sbs.co.kr/article_hub/20000322641?division=NAVER",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123334",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189753",
-  "https://www.seoul.co.kr/news/life/2026/07/15/20260715500060?wlog_tag3=naver",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251281",
-  "https://www.starnewskorea.com/star/2026/07/15/2026071510323079871",
   "https://www.mk.co.kr/article/12099003",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636380",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468588",
@@ -2999,20 +2988,20 @@
   "https://www.newspim.com/news/view/20260716000045",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468907",
   "https://www.newspim.com/news/view/20260716000124",
-  "https://www.mt.co.kr/tech/2026/07/16/2026071519290043264"
+  "https://www.mt.co.kr/tech/2026/07/16/2026071519290043264",
+  "http://www.breaknews.com/1222129",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570417495148",
+  "https://www.mt.co.kr/tech/2026/07/16/2026071608465555225",
+  "https://www.mt.co.kr/tech/2026/07/16/2026071608453864684",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207630",
+  "https://www.youthdaily.co.kr/news/article.html?no=223125",
+  "https://www.viva100.com/article/20260716500078",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02925766645515176",
+  "https://www.econovill.com/news/articleView.html?idxno=745367",
+  "https://www.ilyosisa.co.kr/news/article.html?no=256909",
+  "https://www.dt.co.kr/article/12073194"
  ],
  "seen_titles": [
-  "창립13주년다이닝브랜즈그룹,자체AI플랫폼'다이나이'구축",
-  "\"반복업무AI가해낸다\"다이닝브랜즈그룹,자체플랫폼'다이나이'",
-  "KT,AX역량으로스마트국방조력",
-  "SKT,'AI-RAN'실증사업참여…피지컬AI고속도로깐다",
-  "LGU+,고객의견반영해해외로밍패스개편",
-  "카카오톡,대화요약부터이미지생성까지AI기능확대",
-  "[유통갤러리]BGF리테일,인텔리시아와‘AI합성소비자’기술도입外",
-  "주력서비스붙든네카오AI…검색은잇고,카톡은넓혔다",
-  "애플vs오픈AI'디바이스핵전쟁'....\"포스트스마트폰패권걸렸다\"",
-  "1년짜리연구5개월만에끝냈다…SKT·SK바이오팜,AI동맹으로난치성...",
-  "하지원,내일(16일)잠실구장출격...LG트윈스시구나선다",
   "'V프로필'로전화상대방에게일상영상공유가능…이통3사,출시기념...",
   "알리바바·아너AI폰동맹…갤럭시언팩앞두고中견제구",
   "다이닝브랜즈그룹,창립13주년맞아자체AI플랫폼'다이나이'오픈\"...",
@@ -6001,7 +5990,18 @@
   "[모닝리포트]\"삼성전기목표가175만원…외국인매수이유는AI\"",
   "SKT,AI관제로휴가철통신품질관리나선다",
   "AI데이타센터신속추진...SKT,CEO산하전담조직신설",
-  "인텔,삼성수율앞서나…\"AMD·엔비디아설계수주\"[IT썰]"
+  "인텔,삼성수율앞서나…\"AMD·엔비디아설계수주\"[IT썰]",
+  "제48차유네스코세계유산위원회부산서19일개회...전세계에'K-헤리...",
+  "삼성웰스토리,POSTECH·연세대손잡고‘AI·로봇급식’시대연다",
+  "한컴위드,일본기업사절단에AI·보안솔루션시연",
+  "아톤,공익AI보안연합체'프로젝트캐노피'합류",
+  "뉴지스탁,피싱메일로관리자계정침해…회원개인정보유출",
+  "보안업계도덮친'AI구조조정'…MS,상무급9명전격경질",
+  "SKT,‘하계휴가철특별소통계획’수립⋯“AI로휴가철통신품질미...",
+  "SKB,‘Btv+max’혜택오프라인으로확대…이승철콘서트초대",
+  "SK브로드밴드,'Btv+max'구독에오프라인경험까지얹는다",
+  "최태원의‘AI드라이브경영’통했다…SK㈜밸류업도탄력",
+  "KT이사회,KTAI·네트워크인프라현장점검"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,17 @@
   [
    "2026-07-16T08:48:14.923271+09:00",
    "삼성 수율 수주 앞서나 인텔 AMD 설계"
+  ],
+  [
+   "2026-07-16T08:50:48.462858+09:00",
+   "점검 네트워크 인프라 이사회 ~KT 현장"
+  ],
+  [
+   "2026-07-16T08:50:48.462858+09:00",
+   "최태원의 밸류업도 통했다 SK 드라이브 탄력 경영"
   ]
  ],
- "last_run": "2026-07-16T08:48:41.057635+09:00",
+ "last_run": "2026-07-16T08:51:14.764853+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
