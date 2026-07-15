@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442192",
-  "https://www.hankookilbo.com/news/article/A2026071414110002352?did=NA",
-  "https://www.chosun.com/economy/tech_it/2026/07/13/6ZIB5VNUNJE4DN75V6YWFX53VE/",
-  "http://www.newstomato.com/ReadNews.aspx?no=1306969&inflow=N",
-  "https://www.hankyung.com/article/202607143261g",
-  "https://www.etnews.com/20260714000209",
-  "https://www.nocutnews.co.kr/news/6547765",
   "https://zdnet.co.kr/view/?no=20260714145251",
   "https://www.sedaily.com/article/20067416",
   "https://www.newsis.com/view/NISX20260714_0003708517",
@@ -2999,16 +2992,16 @@
   "https://www.viva100.com/article/20260715500850",
   "https://www.ajunews.com/view/20260715144614350",
   "https://www.techm.kr/news/articleView.html?idxno=153410",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425170"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425170",
+  "https://www.kukinews.com/article/view/kuk202607150122",
+  "https://www.econovill.com/news/articleView.html?idxno=745314",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684003",
+  "https://www.thedailypost.kr/news/articleView.html?idxno=114682",
+  "https://www.sisajournal.com/news/articleView.html?idxno=379902",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4841411",
+  "https://news.jtbc.co.kr/article/NB12308386?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[AI픽]정부,피지컬AI용'하이퍼-AI네트워크'구축착수",
-  "KT,삼성전자·HD현대삼호와조선소피지컬AI실증",
-  "장항준,사극으로1700만감독되더니…역사예능MC됐다\"과거아는것...",
-  "딥엑스,AI개발부터양산까지연결하는개방형플랫폼구축…“NPU활...",
-  "마스턴투자운용,AI기반투자플랫폼구축추진",
-  "삼성전자테슬라인공지능칩'AI5'생산준비완료,한진만2나노파운드...",
-  "한미반도체2분기매출역대최대2511억...\"장비업계최고수준\"",
   "네이버검색이용률하락...제미나이이용률·만족도상승",
   "여야,개인정보관리·손해배상강화법추진",
   "로봇연산까지기지국이맡는다…SKT,'AI고속도로'본격화",
@@ -6001,7 +5994,14 @@
   "“의료AX,원주거점으로기술개발부터사업화까지전주기지원해야”",
   "[특징주]증권株,증시훈풍에동반강세",
   "SK하이닉스가연문…삼성전자ADR가능성다시수면위로",
-  "KT박윤영대표,자사주1천300주매입…\"책임경영의지표현\""
+  "KT박윤영대표,자사주1천300주매입…\"책임경영의지표현\"",
+  "전국배드민턴강호해남집결",
+  "월1000만원받는창작자나온다,네이버메이트스페셜지원금첫공개",
+  "애플-오픈AI소송전,8가지핵심쟁점…시리AI협력도흔들리나",
+  "원스토어,크로쓰프로토콜밸리데이터합류…자체노드인프라구축·...",
+  "[영주24시]영주시,의료·요양통합돌봄확대…생활밀착서비스신설",
+  "KT,소상공인앱'사장이지'에매장운세추가",
+  "코요태신지,KT시구거절논란에축하공연까지무산"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,17 @@
   [
    "2026-07-15T15:04:17.224706+09:00",
    "표현 1천300주 ~KT 대표 책임경영 박윤영 의지 매입 자사주"
+  ],
+  [
+   "2026-07-15T15:06:17.318821+09:00",
+   "확대 생활밀착 의료 요양 통합돌봄 영주시 서비스 신설"
+  ],
+  [
+   "2026-07-15T15:06:17.318821+09:00",
+   "코요태 시구 논란에 무산 신지 거절 ~KT 축하공연까지"
   ]
  ],
- "last_run": "2026-07-15T15:04:35.598263+09:00",
+ "last_run": "2026-07-15T15:06:38.229608+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
