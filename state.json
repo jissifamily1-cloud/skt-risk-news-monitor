@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lawissue.co.kr/view.php?ud=2026071509452870669817d053b9_12",
-  "https://www.newsis.com/view/NISX20260715_0003709898",
-  "https://www.ceoscoredaily.com/page/view/2026071509343448866",
-  "http://www.lawissue.co.kr/view.php?ud=2026071509461485369817d053b9_12",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=279910",
   "https://www.newsis.com/view/NISX20260710_0003704185",
   "https://www.etnews.com/20260715000100",
   "https://www.ajunews.com/view/20260715094628639",
@@ -2999,14 +2994,14 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=847097",
   "https://www.etoday.co.kr/news/view/2604257",
   "https://www.news1.kr/it-science/internet-platform/6229602",
-  "https://www.newspim.com/news/view/20260716000026"
+  "https://www.newspim.com/news/view/20260716000026",
+  "http://coinreaders.com/247978",
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58194",
+  "https://www.100ssd.co.kr/news/articleView.html?idxno=211080",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61630",
+  "https://thetracker.co.kr/View.aspx?No=4150872"
  ],
  "seen_titles": [
-  "\"공항내리자마자바로연결\"…LGU+,더쉬워진'로밍패스'선보여",
-  "‘한화팬’코요태신지,KT위즈시구·공연전부취소",
-  "SKB‘Btv핫딜’,누적판매액60억원돌파⋯“TV커머스혁신주도”",
-  "[조간신문뉴스라인]대전∙충남∙세종15일(수)",
-  "이란·미국,호르무즈해협긴장고조…미군공습에이란드론반격",
   "\"딥시크,이르면연내IPO신청…2027년中본토상장추진\"",
   "카카오톡,6차정기업데이트…메시지요약·PCAI확대",
   "포스트아이폰노리던오픈AI에브레이크…애플,기밀탈취전면전선...",
@@ -6001,7 +5996,12 @@
   "[#통신풍향계]SKT'로밍-멤버십프로모션'·KT'WSIS프라이즈챔피언...",
   "뉴욕증시,인플레둔화·빅테크강세에상승...나스닥0.62%↑[종합]",
   "전국민무료·이용량제약없는'모두의AI',어떻게가능할까",
-  "[AIMY뉴스]16일중국증시'CXMT·TSMC이슈,반도체주변동성에주목'"
+  "[AIMY뉴스]16일중국증시'CXMT·TSMC이슈,반도체주변동성에주목'",
+  "비트코인(BTC),금·증시따라동반상승...\"물가둔화가쏘아올린축제...",
+  "‘AI3대강국’자신하는박태웅위원장이던지는진짜질문",
+  "대한노인회강원양구군지회,'SK텔레콤찾아가는서비스'실시",
+  "\"AI는묻는만큼일한다\"…최태원,제주포럼서'일하는방식재설계'촉...",
+  "[단독]삼성·엔비디아,美피지컬AI기업'월든로보틱스'투자"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,25 @@
   [
    "2026-07-16T06:38:17.167493+09:00",
    "TSMC 주목 CXMT 16일 이슈 변동성에 중국증시 반도체주"
+  ],
+  [
+   "2026-07-16T06:46:08.280447+09:00",
+   "대한노인회 실시 강원 찾아가는 서비스 ~SKT 양구군지회"
+  ],
+  [
+   "2026-07-16T06:46:08.280447+09:00",
+   "제주포럼서 AI는 만큼 묻는 재설계 일한다"
+  ],
+  [
+   "2026-07-16T06:46:08.280447+09:00",
+   "3대 던지는 자신하는 박태웅 진짜 강국 위원장이 질문"
+  ],
+  [
+   "2026-07-16T06:46:08.280447+09:00",
+   "기업 월든 삼성 투자 로보틱스 피지컬"
   ]
  ],
- "last_run": "2026-07-16T06:38:38.563277+09:00",
+ "last_run": "2026-07-16T06:46:39.060089+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6597,6 +6613,7 @@
   "ccreview.co.kr": "충청리뷰",
   "usmbc.co.kr": "울산MBC",
   "medipana.com": "메디파나뉴스",
-  "newsmin.co.kr": "newsmin.co.kr"
+  "newsmin.co.kr": "newsmin.co.kr",
+  "100ssd.co.kr": "백세시대"
  }
 }
