@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2172072",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850185",
-  "https://www.mt.co.kr/industry/2026/07/14/2026071415155491311",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/14/2026071400243.html",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=204949",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=355922",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424920",
-  "https://www.hankyung.com/article/202607144264i",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89101",
-  "https://www.etnews.com/20260713000234",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850179",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716337",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244205",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716332",
@@ -2999,20 +2988,20 @@
   "https://www.smartbizn.com/news/articleView.html?idxno=148641",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468736",
   "https://www.ekn.kr/web/view.php?key=20260715022242672",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088481"
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1088481",
+  "https://www.ddaily.co.kr/page/view/2026071515444075841",
+  "http://www.newsworker.co.kr/news/articleView.html?idxno=436660",
+  "https://www.eroun.net/news/articleView.html?idxno=85524",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=202708",
+  "http://www.boannews.com/media/view.asp?idx=144695&kind=1",
+  "https://www.thepowernews.co.kr/view.php?ud=20260715154335824de3f0aa1be_7",
+  "https://www.newsis.com/view/NISX20260715_0003710721",
+  "https://www.econovill.com/news/articleView.html?idxno=745322",
+  "https://news.tf.co.kr/read/national/2343772.htm",
+  "https://www.m-i.kr/news/articleView.html?idxno=1392002",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250279"
  ],
  "seen_titles": [
-  "NIA,5G-SA기반하이퍼-AI선도망구축…산업현장피지컬AI실증착수",
-  "최태원\"AI시대,회장도최전선직접나가야…SK하이닉스美투자더키...",
-  "[CEO’sSpeech]최태원“AI는경기사이클아닌산업진화그차체”",
-  "이통3사,2분기SKT·LGU+웃고KT숨고르기",
-  "\"한화팬이라시구거절\"…신지,KT위즈행사전발언논란에영상삭제...",
-  "\"생일을축하해주시고,환호해주시고,박수도주시고,아껴주시고…\"딸...",
-  "[마켓IN브리핑]불안한중동정세에매도세확산",
-  "최태원SK회장\"향후5년간AI성장기…美에더많은투자계획\"",
-  "게임속으로들어온AI…크래프톤·엔씨,스토리부터그래픽에상호소...",
-  "KT,국가정보관리원혁신정보화전략계획우협대상자선정",
-  "'AI가통화연결화면까지바꿨다'…이통3사,'V프로필'로개인브랜딩...",
   "[월가톡톡]AI發부의재편…기부가권력이되는시대",
   "애플,반도체·기술주부진에도독주",
   "SKT,AI고속도로핵심'AI-RAN선도망'구축사업맡는다",
@@ -6001,7 +5990,18 @@
   "[오늘의건설브리핑]스마트홈부터용접로봇까지···건설·에너지업계...",
   "보건산업진흥원,'MSD헬스이노베이션서밋'성료",
   "정부‘하이퍼AI네트워크’구축시동…SKT·KT,실증나선다",
-  "충남도'202조원첨단산업투자'속도높인다"
+  "충남도'202조원첨단산업투자'속도높인다",
+  "'미감·혁신성'동시입증…빅크,어워즈2관왕달성",
+  "해남군,'배드민턴열전'앞두고경기장과안전챙긴다",
+  "경북도,공공연구장비'대개방'…중소기업기술갈증푼다",
+  "삼성물산,HJ重과스마트주거서비스확대[건설·분양오늘]",
+  "이메일한통으로AI메모리오염...AI에이전트노린‘멤고스트’주...",
+  "카카오,카카오톡에대화요약·AI이미지기능추가",
+  "\"오픈소스AI,생물·핵분야위험한능력갖출수도\"…구글AI수장,美...",
+  "[소버린AI의다음①]업스테이지와퓨리오사만났다",
+  "소백산고치령,통신사각지대벗는다…10월까지재난안전망구축",
+  "KT,드론·UAM박람회출격…미래도심항공교통기술선봬",
+  "SK하이닉스,황제주시동...최태원회장'액면분할'카드,실효성은?"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,17 @@
   [
    "2026-07-15T15:46:18.955979+09:00",
    "~KT 구축 정부 하이퍼 ~SKT 실증 나선다 네트워크 시동"
+  ],
+  [
+   "2026-07-15T15:48:15.780820+09:00",
+   "고치령 사각지대 구축 벗는다 10월까지 재난안전망 통신 소백산"
+  ],
+  [
+   "2026-07-15T15:48:15.780820+09:00",
+   "황제주 액면분할 회장 실효성은 SK하이닉스 카드 시동"
   ]
  ],
- "last_run": "2026-07-15T15:46:39.569493+09:00",
+ "last_run": "2026-07-15T15:48:42.565388+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
