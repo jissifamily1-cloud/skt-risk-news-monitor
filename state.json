@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008656901&plink=ORI&cooper=NAVER",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4424862",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1169292",
   "https://www.gukjenews.com/news/articleView.html?idxno=3635338",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1096074",
   "https://sateconomy.co.kr/news/view/1065585964266259",
@@ -2999,12 +2996,12 @@
   "https://www.it-b.co.kr/news/articleView.html?idxno=89113",
   "http://www.newsdream.kr/news/articleView.html?idxno=114515",
   "https://www.aitimes.com/news/articleView.html?idxno=212775",
-  "https://www.mk.co.kr/article/12099126"
+  "https://www.mk.co.kr/article/12099126",
+  "https://www.fntimes.com/html/view.php?ud=202607151152297792c1c16452b0_18",
+  "https://www.newscj.com/news/articleView.html?idxno=3417215",
+  "https://www.joongangenews.com/news/articleView.html?idxno=533090"
  ],
  "seen_titles": [
-  "딥엑스\"칩공급넘어글로벌오픈피지컬AI플랫폼만들겠다\"",
-  "소프트플로우,'위협인텔리전스와EUCRA대응가이드'세미나개최",
-  "코스피'날개없는추락'...언제까지떨어질까?[뉴스나우]",
   "SK텔레콤,독자AI모델'정예팀'키운다…SKAX합류로산업확산속도",
   "[민주IT]LGU+·삼성전자·LG전자",
   "일,자율주행1만대시대대비…전국통신인프라정비",
@@ -6001,13 +5998,12 @@
   "KT,'AX테크커넥트2026'서AX역량·연구개발성과공유",
   "[특징주]LIG아큐버,美통신주파수경매기대감…21%대급등",
   "백악관,민·관AI사이버보안동맹'골든이글'출범...오픈소스도합...",
-  "드디어국민앱바뀌나…한국인2300만명매달켠다는‘이것’"
+  "드디어국민앱바뀌나…한국인2300만명매달켠다는‘이것’",
+  "삼성전자·신한금융·우리금융·기아·KB금융,ESG'S등급'",
+  "BNK경남은행,인구소멸지역아동에야구관람선물",
+  "[재도약선언KT]전화ㆍ인터넷ㆍ광통신이어'AI고속도로'구축…\"'대..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-15T07:36:15.699444+09:00",
-   "RAN 깐다 깔고 ~SKT 연산까지 피지컬AI 기지국이"
-  ],
   [
    "2026-07-15T07:38:16.842160+09:00",
    "250억 데이터센터는 반도체 달러 쩐의 아니라 부동산 전쟁"
@@ -6475,9 +6471,17 @@
   [
    "2026-07-15T13:30:59.948456+09:00",
    "협력 분야 기술 바이오 러닝머신 ~SKT"
+  ],
+  [
+   "2026-07-15T13:36:16.486470+09:00",
+   "ESG 기아 삼성전자 신한금융 KB금융 우리금융 S등급"
+  ],
+  [
+   "2026-07-15T13:36:16.486470+09:00",
+   "인터넷 이어 광통신 구축 전화 AI고속도로 ~KT"
   ]
  ],
- "last_run": "2026-07-15T13:34:35.946013+09:00",
+ "last_run": "2026-07-15T13:36:36.810030+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
