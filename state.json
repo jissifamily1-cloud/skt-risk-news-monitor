@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202607140062",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=266469",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251318",
   "https://zdnet.co.kr/view/?no=20260714150245",
   "https://www.segye.com/newsView/20260714513077?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "https://www.etnews.com/20260715000371",
   "https://it.donga.com/109197/",
   "http://www.finomy.com/news/articleView.html?idxno=257400",
-  "https://www.viva100.com/article/20260715500932"
+  "https://www.viva100.com/article/20260715500932",
+  "http://www.metroseoul.co.kr/article/20260715500294",
+  "https://www.m-i.kr/news/articleView.html?idxno=1391952"
  ],
  "seen_titles": [
-  "KT,AI활용범위확대…조선소네트워크실증·지역정보서비스운영",
-  "\"조선소용접·도장로봇AI로제어\"...KT·삼성전자·HD현대삼호,AI네...",
   "KT,정부AI네트워크사업선정…조선소서AI로봇실증",
   "요금은그대로,포인트로‘0원’…통신3사자회사알뜰폰‘도매대가...",
   "SKT,‘AI고속도로’의핵심‘AI-RAN선도망’구축사업착수",
@@ -6001,7 +5999,9 @@
   "KT,'AX테크커넥트2026'개최…AX성과공개",
   "업스테이지,다음AI요약에'퓨리오사AI'칩쓴다···'엔비디아H200...",
   "티오리,AI모의해킹솔루션'진트펄스'출시⋯온디멘드보안진단확대",
-  "내달부터‘스크래핑’제한…은행비대면대출,‘API전환’지연시..."
+  "내달부터‘스크래핑’제한…은행비대면대출,‘API전환’지연시...",
+  "SK브로드밴드,숏폼커머스'인기'…판매액60억원돌파",
+  "SK브로드밴드\"Btv핫딜,출시8개월만에누적판매액60억원돌파\""
  ],
  "recent_sigs": [
   [
@@ -6517,7 +6517,7 @@
    "API 지연 제한 은행 비대면 대출 스크래핑 내달부터"
   ]
  ],
- "last_run": "2026-07-15T15:11:17.105559+09:00",
+ "last_run": "2026-07-15T15:12:35.015930+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
