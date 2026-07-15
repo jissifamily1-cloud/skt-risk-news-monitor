@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsdream.kr/news/articleView.html?idxno=114390",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3634952",
-  "https://www.news1.kr/it-science/general-it/6227142",
-  "https://zdnet.co.kr/view/?no=20260714082322",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92196",
-  "https://view.asiae.co.kr/article/2026071409101974459",
-  "http://www.joseilbo.com/news/news_read.php?uid=571840&class=53",
   "https://www.yna.co.kr/view/AKR20260714037900008?input=1195m",
   "https://www.etoday.co.kr/news/view/2603369",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=847097",
@@ -2999,16 +2992,16 @@
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=362532",
   "https://www.kyeonggi.com/article/20260715580041",
   "https://www.heraldmuse.com/article/10809270",
-  "https://biz.heraldcorp.com/article/10809273"
+  "https://biz.heraldcorp.com/article/10809273",
+  "http://www.starnewsk.com/news/articleView.html?idxno=57328",
+  "https://www.yna.co.kr/view/AKR20260715051000005?input=1195m",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468552",
+  "https://www.aitimes.com/news/articleView.html?idxno=212613",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3636289",
+  "https://www.mk.co.kr/article/12098915",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850384"
  ],
  "seen_titles": [
-  "KT,국가공공AI인프라밑그림그린다…‘국가정보자원관리원혁신IS...",
-  "SK인텔릭스'나무엑스',지자체실증연속선정…B2G로봇시장진입가...",
-  "용인시,초등학교17곳에AI스마트횡단보도9월까지설치",
-  "韓올해상반기'챗GPT'월평균2324만명썼다",
-  "[AI고속도로]메타,美루이지애나AI데이터센터5GW로확대…500억달러...",
-  "국민연금'반도체편중'더커졌다…삼성전자·SK하이닉스비중55.5%",
-  "LGU+,AX콘퍼런스참가…AICC핵심기술·서비스소개",
   "상장첫날환호는잠시…SK하이닉스美ADR9.3%급락",
   "NH아문디,'HANARO미국AI광통신TOP10ETF'상장",
   "NH아문디운용,미국AI광통신ETF신규상장",
@@ -6001,7 +5994,14 @@
   "SK텔레콤-SK바이오팜\"난치성암신약연구기간60%이상단축\"",
   "‘시구거절논란’코요태신지,결국KT홈경기축하공연전격취소",
   "[뮤즈이슈]신지,시구거절후폭풍..KT축하공연도결국취소“우려겸...",
-  "“‘10년뒤아이폰없다’현실되나”…애플,오픈AI소송으로‘선제..."
+  "“‘10년뒤아이폰없다’현실되나”…애플,오픈AI소송으로‘선제...",
+  "'한화팬'신지측,'KT위즈시구거절논란'사과...\"축하공연도취소...",
+  "AI추리게임쇼'머더클럽'29일첫선…페이커예능도전",
+  "차세대통신망구축봇물…한국첨단소재,글로벌투자수혜주부각",
+  "[7월10일]GPT-5.6이보여준'파레토프론티어'경쟁...벤치마크기준이...",
+  "대덕전자·티엘비등소캠관련주상승...美반도체강세여파",
+  "“불편함드려죄송”신지,KT시구거절사과…코요태축하공연도취...",
+  "KT,주당600원분기배당결정"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-07-15T09:40:48.442851+09:00",
    "LG유플러스 ~LGU 절차 서비스 간소화 로밍"
+  ],
+  [
+   "2026-07-15T09:44:15.604342+09:00",
+   "결정 ~KT 600원 분기배당 주당"
   ]
  ],
- "last_run": "2026-07-15T09:42:34.444627+09:00",
+ "last_run": "2026-07-15T09:44:40.573020+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
