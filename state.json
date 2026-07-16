@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03093046645514520",
-  "http://www.finomy.com/news/articleView.html?idxno=257266",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=849968",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02112326645514192",
-  "https://www.mediapen.com/news/view/1109642",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=467644",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422330",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269551",
   "https://www.imaeil.com/page/view/2026071009525120196",
   "http://www.finomy.com/news/articleView.html?idxno=257151",
   "http://www.popcornnews.net/news/articleView.html?idxno=126187",
@@ -2999,17 +2991,17 @@
   "https://www.hani.co.kr/arti/economy/marketing/1268589.html",
   "https://www.inven.co.kr/webzine/news/?news=318584",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=266783",
-  "https://zdnet.co.kr/view/?no=20260716161413"
+  "https://zdnet.co.kr/view/?no=20260716161413",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6936582",
+  "https://www.joongang.co.kr/article/25445710",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16136871",
+  "https://www.joongang.co.kr/article/25445708",
+  "http://www.spochoo.com/news/articleView.html?idxno=127595",
+  "https://www.starnewskorea.com/sports/2026/07/16/2026071615495984143",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141667",
+  "https://www.bloter.net/news/articleView.html?idxno=668270"
  ],
  "seen_titles": [
-  "통신3사2분기희비…KT만역기저에'발목'",
-  "\"정체된IPTV사업,AI로뚫어라\"…통신3사신기술적용박차",
-  "SKT,'산업AI'로독자AI파운데이션모델승부수..A.XK2전열보강",
-  "SOOPTV,금융권당구대회본선생중계나선다",
-  "SOOP,제12회fn금융·증권인당구대회본선생중계",
-  "[경제일보]SK텔레콤,SK그룹15GWAI데이터센터총괄…'AI인프라설계...",
-  "SOOP,'제12회fn금융·증권인당구대회'본선생중계…안방서도만난다",
-  "[월간DCM]SK증권,대형사틈바구니서체급뛰어넘는'존재감'",
   "'외형확장'LG유플러스,SK텔레콤과시총격차더벌어져···왜?",
   "SOOP,금융·증권인당구대회본선생중계",
   "SK브로드밴드,시장침체속신사업과기존사업균형⋯'돌파구'모색",
@@ -6001,7 +5993,15 @@
   "TSMC2분기매출58조원돌파…이번에도분기최대실적",
   "메모리부족에역주행시작한GPU...팰릿,RTX3060신제품출시",
   "\"AI로'여름휴가철특별소통대책'수립\"…SKT,통신품질관리돌입",
-  "\"일본제조업위기해결한다\"...엔비디아,후지쯔·화낙과맞손"
+  "\"일본제조업위기해결한다\"...엔비디아,후지쯔·화낙과맞손",
+  "염경엽감독의하소연\"외국인투수를1이닝만활용하고싶은팀없을것...",
+  "개인정보유출신고하면'과징금30%'포상금준다",
+  "\"선발로테이션정비\"염경엽감독,LG후반기추격전구상",
+  "자금부터홍보까지맞춤지원,청년창업가성공이끈다",
+  "\"외국인투수1이닝만쓰고싶은팀이있나,좋은투수나오면바꿀수...",
+  "\"문보경살아나야한다\"염경엽감독이꼽은LG후반기키플레이어,국...",
+  "[김창덕의미래항공교통]K-UAM,'美조비'패키지활용하다자생력잃는...",
+  "KT,팔란티어와'AI문제해결사'군단키운다"
  ],
  "recent_sigs": [
   [
@@ -6811,9 +6811,17 @@
   [
    "2026-07-16T16:56:17.399010+09:00",
    "해결한다 위기 후지쯔 맞손 제조업 화낙과 일본"
+  ],
+  [
+   "2026-07-16T16:58:15.887029+09:00",
+   "UAM 잃는 조비 패키지 자생력 활용하다"
+  ],
+  [
+   "2026-07-16T16:58:15.887029+09:00",
+   "~KT 군단 키운다 팔란티어와 문제 해결사"
   ]
  ],
- "last_run": "2026-07-16T16:56:37.141354+09:00",
+ "last_run": "2026-07-16T16:58:40.207654+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
