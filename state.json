@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12308189?influxDiv=NAVER",
-  "https://www.ddaily.co.kr/page/view/2026071516052955091",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251662&CMPT_CD=P0010",
   "http://www.seouleconews.com/news/articleView.html?idxno=92438",
   "http://www.fnnews.com/news/202607141357590586",
   "https://www.hidomin.com/news/articleView.html?idxno=713414",
@@ -2999,12 +2996,12 @@
   "https://www.sedaily.com/article/20068540",
   "https://www.irobotnews.com/news/articleView.html?idxno=47457",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030119715&code=61111111&cp=nv",
-  "https://www.bloter.net/news/articleView.html?idxno=668197"
+  "https://www.bloter.net/news/articleView.html?idxno=668197",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200131",
+  "https://www.aitimes.com/news/articleView.html?idxno=212829",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540064"
  ],
  "seen_titles": [
-  "밈코인쏠림에밀린알트코인…저가매수기회왔나",
-  "개보위,‘개인정보유출’KT과징금내주결론…과징금규모‘촉각’",
-  "충남도,202조원첨단산업투자속도높인다",
   "LG유플러스로밍,해외도착즉시시작된다…고객의견반영해로밍패스...",
   "\"출시11개월만가입자10만돌파\"…KT사장이지,'매장운세'출시",
   "엔비디아H200중국출하시작…미정부“매우적은양”",
@@ -6001,7 +5998,10 @@
   "정부,개인정보유출내부고발땐파격포상…‘스마트안경’전담TF...",
   "IBK투자증권\"중국AI의역습…토큰사용량두배로뛰며미국앞질러\"",
   "방미통위“청소년SNS과몰입…14세미만‘가입제한’검토”",
-  "공영방송자율성보장한방미통위,미디어AI대전환추진"
+  "공영방송자율성보장한방미통위,미디어AI대전환추진",
+  "[전자·IT레이더]카페24·한컴위드·카카오,독자기술과특화서비스...",
+  "젠슨황,'베라루빈지연설'일축...\"이미양산중,대규모공급할것\"",
+  "[경제를부탁해]롤러코스터증시에개미들‘한숨’…변동성커진이유..."
  ],
  "recent_sigs": [
   [
@@ -6795,9 +6795,17 @@
   [
    "2026-07-16T13:24:16.470170+09:00",
    "자율성 대전환 공영방송 미디어 보장한"
+  ],
+  [
+   "2026-07-16T13:26:14.889518+09:00",
+   "증시에 한숨 이유 변동성 롤러코스터 커진 개미들"
+  ],
+  [
+   "2026-07-16T13:26:14.889518+09:00",
+   "양산 젠슨 베라 공급할 지연설 이미 루빈 대규모 일축"
   ]
  ],
- "last_run": "2026-07-16T13:24:34.443468+09:00",
+ "last_run": "2026-07-16T13:26:42.294519+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
