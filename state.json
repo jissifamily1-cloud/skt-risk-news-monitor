@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=40998",
-  "http://www.breaknews.com/1221903",
-  "https://www.mk.co.kr/article/12099179",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092165865",
-  "https://www.etoday.co.kr/news/view/2604065",
-  "http://www.newsprime.co.kr/news/article.html?no=740439",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317590",
-  "https://www.viva100.com/article/20260715500858",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8611466",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213085",
-  "https://www.ddaily.co.kr/page/view/2026071512475337720",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4094975",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030114475&code=61121111&cp=nv",
   "https://www.smarttoday.co.kr/ko-kr/articles/109507",
@@ -2999,20 +2988,20 @@
   "https://www.news1.kr/it-science/security-hacking/6230097",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=205065",
   "https://www.imaeil.com/page/view/2026071610415384793",
-  "https://www.ytn.co.kr/_ln/0134_202607161048533137"
+  "https://www.ytn.co.kr/_ln/0134_202607161048533137",
+  "https://www.viva100.com/article/20260701501354",
+  "http://www.press9.kr/news/articleView.html?idxno=79563",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716617",
+  "https://www.mk.co.kr/article/12100081",
+  "https://shindonga.donga.com/3/all/13/6309316/1",
+  "https://www.newspim.com/news/view/20260716000451",
+  "https://www.hankyung.com/article/202607156616g",
+  "http://www.joseilbo.com/news/news_read.php?uid=572041&class=17",
+  "https://www.news1.kr/it-science/security-hacking/6229416",
+  "https://www.yna.co.kr/view/AKR20260716081300017?input=1195m",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=806829"
  ],
  "seen_titles": [
-  "김보라,쇼트폼도전…'진짜재벌3세는나야!'주연",
-  "하남시,여성안심귀갓길야간모니터링…민·관·경14명참여",
-  "김현미의원,제5기시정에\"실질적재정분석·책임행정\"촉구",
-  "'언리얼페스트서울2026'전체세션공개...얼리버드50%할인기간연...",
-  "기업마다다른데이터지표통합…'아파치오시'출범",
-  "SK에코'테크오픈콜라보레이션'시상...AI·반도체기술6건선정",
-  "2면/CFS인터뷰",
-  "KT,'AXTechConnect2026'개최…AX역량및R&D성과공유",
-  "LGU+,고객목소리반영'로밍패스'개편",
-  "서울'기후동행쉼터'가보니…접근성은높았지만안내체계는보완필요...",
-  "\"장원영이불교책읽는대\"…출간100년된책의'역주행'",
   "무인기는AI가판단하고정비는로봇이···대한항공항공기술넓힌다",
   "KBO프로야구,16일경기중계일정→선발투수?",
   "박란희의원,사회적약자기업공공조달활성화4대방안제안",
@@ -6001,7 +5990,18 @@
   "9월부터개인정보유출'징벌적과징금'시행…은닉땐제재강화",
   "KT,서울신보와청년소상공인성장지원나서",
   "SK하이닉스도검토한다는그것,주식액면분할왜하나요?[매일뭐니머니...",
-  "하이닉스극심한변동성에지쳤다...발빼고싶을때생각할것들[몇층..."
+  "하이닉스극심한변동성에지쳤다...발빼고싶을때생각할것들[몇층...",
+  "[출금]19일발제",
+  "하나은행,서울도심서AI민화·백남준특별전",
+  "삼성SDS,KKR베팅에장기자금결합…AI인프라투자'힘실린다'",
+  "삼성웰스토리,포스텍·연세대손잡고미래푸드테크개발나선다",
+  "“숙제질문,고민상담?생성형AI로다해결해요”",
+  "하나투어,AI여행서비스카카오톡연동…고객접점확대",
+  "\"장원영도읽었대\"1020푹빠졌다…'출간100년'책의역주행",
+  "D램값상승에도삼성·SK급락…증권가는“매수기회”[칩칩폭폭]",
+  "개인정보잘지키면인센티브…부실하면징벌적과징금",
+  "배경훈\"보안특화AI모델연내출시…미토스급개발도검토\"",
+  "[이슈]최태원,AI들여만놔선안돼...업무'재설계'주문"
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,13 @@
   [
    "2026-07-16T10:56:16.163402+09:00",
    "것들 몇층 생각할 변동성에 싶을 하이닉스 빼고 극심한 지쳤다"
+  ],
+  [
+   "2026-07-16T10:58:17.706981+09:00",
+   "재설계 주문 들여만 놔선 업무"
   ]
  ],
- "last_run": "2026-07-16T10:56:36.799445+09:00",
+ "last_run": "2026-07-16T10:58:36.099185+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
