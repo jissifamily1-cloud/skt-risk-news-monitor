@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=345197",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3637230",
-  "https://www.g-enews.com/view.php?ud=202607151449006623112616b072_1",
-  "https://www.econovill.com/news/articleView.html?idxno=745340",
-  "http://www.fnnews.com/news/202607152007012795",
-  "https://www.hankyung.com/article/2026071578557",
-  "https://www.xportsnews.com/article/2172527",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468823",
   "http://www.kwangju.co.kr/article.php?aid=1784114700801304011",
   "https://www.polinews.co.kr/news/articleView.html?idxno=737162",
@@ -2999,16 +2992,16 @@
   "http://www.segyebiz.com/newsView/20260716518607?OutUrl=naver",
   "https://www.ytn.co.kr/_ln/0104_202607161622387816",
   "https://www.dailian.co.kr/news/view/1667990/?sc=Naver",
-  "https://www.ytn.co.kr/_ln/0104_202607161622030969"
+  "https://www.ytn.co.kr/_ln/0104_202607161622030969",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213126",
+  "https://www.khan.co.kr/article/202607161626001",
+  "https://www.nytimes.com/2026/07/15/world/australia/albanese-artificial-intelligence-guardrails.html?partner=naver",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716734",
+  "https://www.mt.co.kr/tech/2026/07/16/2026071615333117958",
+  "https://www.nocutnews.co.kr/news/6549335",
+  "https://www.aitimes.com/news/articleView.html?idxno=212850"
  ],
  "seen_titles": [
-  "[여기는포항]북극항로대비‘AI기반해양기술개발’협약외",
-  "[속보]'李대선캠프'논란오태규보류…그외與추천이사는통과",
-  "취재/박정주홍성군수,\"홍주성복원과거처럼안한다\"",
-  "방미통위,오태규방문진이사임명보류…\"결격사유확인중\"",
-  "방미통위,민주당몫공영방송이사임명제청…오태규후보는보류",
-  "'YTN'심사서빠지는김종철방미통위위원장…20일의견청취(종합)",
-  "[창간21주년특집]정재헌의SK텔레콤,고객중심의ESG선도",
   "젠슨황,SK하이닉스나스닥상장극찬",
   "$K하이닉스홍보맨(?)젠슨황“ADR믿을수없을정도로성공적”...국...",
   "최태원회장\"AI시대,단순도입아니라'일하는방식'재설계해야\"",
@@ -6001,7 +5994,14 @@
   "KT,AI에이전트전문가키워B2B시장공략가속",
   "\"내일자리뺏지마\"...'AI공포'에실리콘밸리테러위협비상",
   "개인정보유출숨기면과징금30%더때린다…신고자는포상[개보위업...",
-  "일본35도폭염속냉동물류대기업해킹에식품공급망'타격'"
+  "일본35도폭염속냉동물류대기업해킹에식품공급망'타격'",
+  "데이터독,가트너'옵저버빌리티플랫폼리더'6년연속선정",
+  "빅테크,AI모델저작권침해연이어피소···희소자원되는AI‘학습...",
+  "AustraliatoImposeEnergyandWaterGuardrailsonDataCentersAmidA.",
+  "TSMC,2Q순이익77%↑…AI반도체호황에'어닝서프라이즈'",
+  "네이버커넥트재단,고등학생'로봇대회'연다…엔비디아·교육부후원",
+  "李대통령\"딥페이크,심각한문제…허위정보철저대응\"",
+  "오픈AI,코딩에이전트전용'34만원'매크로패드출시"
  ],
  "recent_sigs": [
   [
@@ -6815,9 +6815,13 @@
   [
    "2026-07-16T16:24:18.051925+09:00",
    "우기철 현장복구반 ~KT 24시간 전국 대비 운영"
+  ],
+  [
+   "2026-07-16T16:28:16.363414+09:00",
+   "매크로패드 34만원 에이전트 전용 출시 코딩"
   ]
  ],
- "last_run": "2026-07-16T16:26:37.419979+09:00",
+ "last_run": "2026-07-16T16:28:37.058726+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
