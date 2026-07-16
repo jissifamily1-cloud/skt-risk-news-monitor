@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12308386?influxDiv=NAVER",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207612",
-  "http://www.ikld.kr/news/articleView.html?idxno=337632",
-  "https://www.namdonews.com/news/articleView.html?idxno=917030",
-  "https://www.ziksir.com/news/articleView.html?idxno=140189",
-  "https://www.businessplus.kr/news/articleView.html?idxno=114183",
-  "https://www.mt.co.kr/world/2026/07/15/2026071510021922465",
-  "https://www.ddaily.co.kr/page/view/2026071515024311686",
-  "https://www.ziksir.com/news/articleView.html?idxno=140177",
-  "https://www.newsgn.com/news/articleView.html?idxno=562512",
   "https://www.newsgn.com/news/articleView.html?idxno=562510",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636748",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029009",
@@ -2999,19 +2989,19 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=168302",
   "https://www.news1.kr/it-science/cc-newmedia/6230118",
   "https://www.sisaweek.com/news/articleView.html?idxno=236733",
-  "https://www.news1.kr/it-science/cc-newmedia/6230200"
+  "https://www.news1.kr/it-science/cc-newmedia/6230200",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3637863",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3637857",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102119",
+  "https://www.cwn.kr/news/articleView.html?idxno=50615",
+  "https://mhnse.com/news/articleView.html?idxno=1463879",
+  "https://www.youthdaily.co.kr/news/article.html?no=223175",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03860566645515176",
+  "https://www.segye.com/newsView/20260716510962?OutUrl=naver",
+  "https://www.newsis.com/view/NISX20260716_0003711933",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441316"
  ],
  "seen_titles": [
-  "\"AI모델부터칩셋까지국산\"…포털다음'AI요약'으로'소버린AI'구현",
-  "[유럽특징주]ASML,연간전망재차상향...AI발수요급증지속",
-  "충남,삼성·SK맞춤형투자지원협의체운영…제조신·증설인허가패...",
-  "KT,2026대한민국드론·UAM박람회참가…AI기반미래도심항공교통...",
-  "티오리,온디멘드AI모의해킹솔루션'진트펄스'선보여",
-  "박완수경남도지사,\"노사신뢰-상생이경남지속성장열쇠\"강조",
-  "“의료AX,원주거점으로기술개발부터사업화까지전주기지원해야”",
-  "[특징주]증권株,증시훈풍에동반강세",
-  "SK하이닉스가연문…삼성전자ADR가능성다시수면위로",
-  "KT박윤영대표,자사주1천300주매입…\"책임경영의지표현\"",
   "전국배드민턴강호해남집결",
   "월1000만원받는창작자나온다,네이버메이트스페셜지원금첫공개",
   "애플-오픈AI소송전,8가지핵심쟁점…시리AI협력도흔들리나",
@@ -6001,7 +5991,17 @@
   "증시불안땐방어주?...LG유플러스등통신주'장중선방'",
   "\"3일만에AI에이전트완성\"…'AX셰르파'FDE양성하는KT",
   "방미통위역할강조한이재명대통령…\"가짜정보사회적비용너무커...",
-  "김종철\"'방송미디어통신진흥원'출범서두를것\"…李\"개혁에입법필..."
+  "김종철\"'방송미디어통신진흥원'출범서두를것\"…李\"개혁에입법필...",
+  "대구시농업기술센터,\"SNS마케팅이렇게배우세요\"...농업인대상실습...",
+  "지영한,대전시제25대정무경제과학부시장임명",
+  "기업들AI비용줄이기…중국모델채택확산",
+  "애플인텔리전스중국출시승인...알리바바·바이두와협력본격화",
+  "김성령,둘째子데뷔막았다…\"서강준에게연락해거절\"('라스')",
+  "정부,AI세계2위·사이버보안자립'투트랙'추진…보안특화AI연내...",
+  "李대통령\"개인정보유출제재강화,특정기업고려아냐\"",
+  "李“개인정보유출과징금강화‘나만표적’주장하는기업있어…...",
+  "\"모두가의문제기했지만\"…최태원회장,SK하이닉스인수14년소회'눈...",
+  "한전KDN,기간통신사업자면허취득…이음5G주파수확보와연계"
  ],
  "recent_sigs": [
   [
@@ -6835,9 +6835,13 @@
   [
    "2026-07-16T11:38:16.018707+09:00",
    "김종철 방송미디어통신진흥원 출범 입법 개혁에 서두를"
+  ],
+  [
+   "2026-07-16T11:40:48.202832+09:00",
+   "취득 기간통신사업자 확보와 연계 한전KDN 이음5G 주파수 면허"
   ]
  ],
- "last_run": "2026-07-16T11:38:43.257719+09:00",
+ "last_run": "2026-07-16T11:41:08.442626+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
