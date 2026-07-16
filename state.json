@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=212776",
-  "https://news.mtn.co.kr/news-detail/2026071511445052880",
-  "http://www.inews24.com/view/1985743",
-  "https://www.slist.kr/news/articleView.html?idxno=751967",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37139",
-  "https://byline.network/?p=9004111222612169",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86774",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7173732",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425103",
-  "https://news.tf.co.kr/read/economy/2343621.htm",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636616",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636569",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636610",
@@ -2999,19 +2989,19 @@
   "https://zdnet.co.kr/view/?no=20260715105729",
   "https://www.khgames.co.kr/news/articleView.html?idxno=306348",
   "https://www.koreaittimes.com/news/articleView.html?idxno=155265",
-  "https://www.etoday.co.kr/news/view/2604398"
+  "https://www.etoday.co.kr/news/view/2604398",
+  "https://www.mt.co.kr/tech/2026/07/16/2026071609214728732",
+  "http://www.economytalk.kr/news/articleView.html?idxno=422772",
+  "https://www.yna.co.kr/view/AKR20260716058000003?input=1195m",
+  "https://www.dt.co.kr/article/12073211",
+  "https://www.newspim.com/news/view/20260716000329",
+  "https://www.newsis.com/view/NISX20260716_0003711655",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=132006",
+  "http://www.e-platform.net/news/articleView.html?idxno=103893",
+  "https://www.ajunews.com/view/20260716093116341",
+  "https://www.news1.kr/photos/8011393"
  ],
  "seen_titles": [
-  "H200中재입성…삼전닉스에'단비'",
-  "KT,UAM상용화위한AI교통관리·5G항공망기술공개",
-  "국산NPU·LLM기반다음'AI요약'…'풀스택소버린AI'상용화",
-  "두산새외인데뷔전확정!16일1군등록→NC전1루수출격“성격밝아...",
-  "카카오톡PC버전에서'챗GPT'쓴다...대화요약등기능추가",
-  "워커힐'스토리라운지'오픈...제주신화월드,호러콘텐츠'귀몽'개장",
-  "알뜰폰지원확대…\"중소사업자만숨통,대기업계열은불만\"[하반기...",
-  "SK텔레콤,SK바이오팜과AI신약개발성과…난치암유효물질발굴",
-  "KT소상공인전용앱'사장이지'신규콘텐츠'매장운세'출시",
-  "위험한질문엔답변거부?…안전한AI학습법개발",
   "엔비디아,'기어스오브워:E-데이'에DLSS4.5·레이트레이싱지원",
   "포항시,북극항로대비‘AI해양혁신생태계’구축나서",
   "SK텔레콤주가상승...\"사이버침해사고영향정상화\"",
@@ -6001,7 +5991,17 @@
   "[AI는지금]AI리서치에이전트,대규모정보조사에서한계확인",
   "문페이,앤트로픽'클로드'연동",
   "데이터센터전력절감수요겨냥…알파에프엔텍,HARFKO2026서친환경기...",
-  "케이쓰리아이,삼보모터스와‘엔비디아옴니버스’기반피지컬AI제조..."
+  "케이쓰리아이,삼보모터스와‘엔비디아옴니버스’기반피지컬AI제조...",
+  "\"야구장여신,미모감탄했는데반전\"…AI,신기한도구수준넘었다",
+  "[종합]\"배민,리얼마이즈,키토선생,소휘효소,픽스녹음기\"등7월16일캐...",
+  "삼성그룹건설3사'2026콘테크공모전'…현장혁신기술발굴",
+  "팔란티어CTO“중국오픈소스AI,미국IP도용…경제적위협”",
+  "동부건설,건설안전및품질관리에′AI시스템′전면도입",
+  "케이쓰리아이-삼보모터스,피지컬AI제조인프라구축MOU",
+  "SK텔레콤·SK바이오팜,AI로난치성암신약후보발굴",
+  "[HARFKO2026]알파에프엔텍,스마트제어·유지관리강화한산업용가습...",
+  "[한준호의모시모시]젠슨황의일본패싱?가장큰보따리는일본서풀...",
+  "과기정통부,방미통위,개보위2차업무보고"
  ],
  "recent_sigs": [
   [
@@ -6567,9 +6567,17 @@
   [
    "2026-07-16T10:06:18.221075+09:00",
    "옴니버스 기반 피지컬 케이쓰리아이 삼보모터스와 제조"
+  ],
+  [
+   "2026-07-16T10:08:16.200335+09:00",
+   "강화한 알파에프엔텍 산업용 유지관리 가습 스마트 제어"
+  ],
+  [
+   "2026-07-16T10:08:16.200335+09:00",
+   "업무보고 과기정통부 2차"
   ]
  ],
- "last_run": "2026-07-16T10:06:38.920084+09:00",
+ "last_run": "2026-07-16T10:08:42.729040+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
