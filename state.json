@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260714_0003709203",
-  "https://www.newsis.com/view/NISX20260714_0003709181",
-  "https://www.news2day.co.kr/article/20260715500274",
-  "https://www.dailian.co.kr/news/view/1667595/?sc=Naver",
-  "http://www.srtimes.kr/news/articleView.html?idxno=207608",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1008271",
-  "https://www.newscj.com/news/articleView.html?idxno=3417330",
-  "https://news.dealsitetv.com/articles/173354",
-  "https://www.greened.kr/news/articleView.html?idxno=345188",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208019",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449329",
   "https://www.kado.net/news/articleView.html?idxno=2061490",
   "https://www.cnbnews.com/news/articleView.html?idxno=1008269",
   "https://www.sedaily.com/article/20068215",
@@ -2999,19 +2988,20 @@
   "https://www.donga.com/news/Economy/article/all/20260716/134312054/1",
   "http://www.econonews.co.kr/news/articleView.html?idxno=441326",
   "https://view.asiae.co.kr/article/2026071615121532275",
-  "http://www.metroseoul.co.kr/article/20260716500142"
+  "http://www.metroseoul.co.kr/article/20260716500142",
+  "https://www.kukinews.com/article/view/kuk202607140178",
+  "https://www.m-i.kr/news/articleView.html?idxno=1392394",
+  "http://www.fnnews.com/news/202607161450268497",
+  "https://www.newspim.com/news/view/20260716000882",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271356197917",
+  "https://www.etnews.com/20260716000264",
+  "https://www.newsis.com/view/NISI20260716_0021367226",
+  "https://www.newsis.com/view/NISI20260716_0021367225",
+  "https://view.asiae.co.kr/article/2026071615132046606",
+  "http://www.fnnews.com/news/202607161504003484",
+  "https://www.yna.co.kr/view/AKR20260716136600009?input=1195m"
  ],
  "seen_titles": [
-  "PC카톡에서도챗GPT쓴다",
-  "[AI는지금]中딥시크,저가API로연매출5억달러눈앞…IPO몸값또...",
-  "[건설레이더]호반그룹·SK에코플랜트·포스코이앤씨·한화건설부문·두...",
-  "[현장]범용이냐특화냐…국방AI개발전략놓고업계'격론'",
-  "똑똑해지는AI에이전트‘탈옥리스크’도커진다[테크언커버드]",
-  "포털'다음',국산LLM과NPU가분석·추론한다",
-  "중국반도체수출,상반기96%급증…1772억8000만달러기록",
-  "금융권망분리전면해제추진…AI·클라우드활용문턱낮춘다",
-  "18조원AX승부수던진KT박윤영…대표취임넉달만에자사주매입으...",
-  "뒷문불안반복되는KIA...후반기마무리는누구?",
   "박완수경남도지사\"민선9기시군과함께경남발전만들어가자\"",
   "김해시,시민위한무료상영회...빙상장서영화·피겨한자리",
   "\"포기하지말라\"했더니50년묵은수학난제해결한AI",
@@ -6001,7 +5991,17 @@
   "최태원“하이닉스인수,모두우려…임직원들이만들어낸결과”",
   "최태원\"제주강점살릴청년필요…사회적가치만드는기업돼야\"",
   "제주청년창업가들고민에…최태원\"사회적가치많이만들어라\"",
-  "최태원\"성장의바다혼자못건너…경제주체힘모아야\""
+  "최태원\"성장의바다혼자못건너…경제주체힘모아야\"",
+  "전남광주통합특별시의회,첫업무보고서현안집중점검",
+  "인니에국산항공기42대…KAI,KF-21수출교두보넓힌다",
+  "실적발표한TSMC,5분기연속순익사상최대기록경신",
+  "[아시아특징주]TSMC2분기이익,기대치큰폭초과…AI수요열기재...",
+  "의왕시,개인정보보호실천문화강화…AI시대맞춤형보안교육실시",
+  "경남도,국가정보통신망지역이원화완성…재난에도중단없는행정서...",
+  "최태원대한상의회장,귀농·귀촌청년기업과의간담회",
+  "李대통령,생중계시청자에\"16세이하SNS차단찬성하면'1번'\"…또즉...",
+  "백준호퓨리오사AI대표\"엔비디아GPU보다전력사용줄인칩개발\"",
+  "日35도폭염속냉동물류대기업해킹에식품공급망'타격'"
  ],
  "recent_sigs": [
   [
@@ -6795,9 +6795,17 @@
   [
    "2026-07-16T15:14:20.371832+09:00",
    "혼자 건너 주체 바다 모아야 경제 성장의"
+  ],
+  [
+   "2026-07-16T15:16:20.944538+09:00",
+   "백준호 전력 GPU보다 줄인 퓨리오사AI 대표 개발 사용"
+  ],
+  [
+   "2026-07-16T15:16:20.944538+09:00",
+   "타격 해킹에 35도 폭염 식품공급망 대기업 냉동물류"
   ]
  ],
- "last_run": "2026-07-16T15:14:38.204482+09:00",
+ "last_run": "2026-07-16T15:16:41.564229+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
