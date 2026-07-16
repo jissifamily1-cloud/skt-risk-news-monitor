@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260715519710?OutUrl=naver",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86805",
-  "https://www.khan.co.kr/article/202607152051005",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1530803",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442464",
   "https://www.gukjenews.com/news/articleView.html?idxno=3637276",
   "https://www.tjb.co.kr/news05/bodo/view/id/101033",
   "https://www.gukjenews.com/news/articleView.html?idxno=3637282",
@@ -2999,14 +2994,14 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=240447",
   "https://www.newspost.kr/news/articleView.html?idxno=224266",
   "https://www.itdaily.kr/news/articleView.html?idxno=240451",
-  "https://www.ajunews.com/view/20260716151332980"
+  "https://www.ajunews.com/view/20260716151332980",
+  "https://www.koit.co.kr/news/articleView.html?idxno=208040",
+  "http://www.wsobi.com/news/articleView.html?idxno=315371",
+  "https://hbnpress.com/news/view/1065598253998270",
+  "https://biz.chosun.com/industry/company/2026/07/16/Z42AY5SRL5BGXIGPHTTQOZUXCY/",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264686"
  ],
  "seen_titles": [
-  "사용자의도파악,구매추천등실행…AI검색시장‘독심술’경쟁",
-  "SK텔레콤,CEO직속'AIDC통합추진단'신설…AI인프라구축속도",
-  "[더in터뷰]'진짜현기증나요'개미들심장철렁…패닉셀뒤'뜻밖의소...",
-  "삼성전자·SK하이닉스,반도체투자심리개선에주가급등",
-  "젠슨황,SK하이닉스ADR에호평…“믿을수없을만큼성공적”",
   "대구대디자인마케팅학과,AI시대실무형디자이너양성나선다",
   "‘100억·48억도싸보인다’먹튀우려잠재운강백호·최원준",
   "미증시에서치솟은하이닉스…투심도살아나7000피탈환",
@@ -6001,7 +5996,12 @@
   "오픈소스컨설팅,'플레이스컨테이너','플레이스GPUOps'출시",
   "신한은행,퇴직공무원디지털금융교육…하나은행,미디어아트축제개...",
   "AI검색부터새벽배송까지…네이버,'구매전과정'잇는다",
-  "SKT·네이버·삼성\"AIDC제도개선시급\"…과기정통부,하반기AIDC얼라..."
+  "SKT·네이버·삼성\"AIDC제도개선시급\"…과기정통부,하반기AIDC얼라...",
+  "\"18GW규모AI데이터센터투자가속화할골든타임\"",
+  "하나은행·IBK기업은행'디지털미디어아트페스타2026'개최·온라인...",
+  "한컴위드,일본기업사절단대상안면인증기술시연",
+  "“몸값높을때팔자”…SK이어코오롱도반도체부문매각추진",
+  "KT나스미디어\"하반기광고시장,AI중심재편·영상통합구매\""
  ],
  "recent_sigs": [
   [
@@ -6827,9 +6827,13 @@
   [
    "2026-07-16T16:34:18.098789+09:00",
    "제도 삼성 과기정통부 하반기 시급 AIDC 개선 ~SKT 얼라 네이버"
+  ],
+  [
+   "2026-07-16T16:36:16.550551+09:00",
+   "광고시장 구매 통합 AI중심 영상 재편 KT나스미디어 하반기 ~KT"
   ]
  ],
- "last_run": "2026-07-16T16:34:39.300321+09:00",
+ "last_run": "2026-07-16T16:36:41.038204+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
