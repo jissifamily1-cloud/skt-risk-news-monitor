@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=532984",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=311975",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008658881&plink=ORI&cooper=NAVER",
-  "https://www.thisisgame.com/articles/427807",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030114064&code=61121111&cp=nv",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636595",
-  "https://www.newsen.com/news_view.php?uid=202607151242466310",
   "https://www.aitimes.com/news/articleView.html?idxno=212776",
   "https://news.mtn.co.kr/news-detail/2026071511445052880",
   "http://www.inews24.com/view/1985743",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/it-science/cc-newmedia/6229965",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=82339",
   "https://www.newsis.com/view/NISX20260716_0003711675",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208025"
+  "https://www.koit.co.kr/news/articleView.html?idxno=208025",
+  "https://www.newscj.com/news/articleView.html?idxno=3417474",
+  "https://news.mtn.co.kr/news-detail/2026071609415012079",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03407926645515176",
+  "https://zdnet.co.kr/view/?no=20260715105729",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=306348",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155265",
+  "https://www.etoday.co.kr/news/view/2604398"
  ],
  "seen_titles": [
-  "[코인매집ON]SXT·NVDA매수세확대관측...HIGH·ZBT투매압력증가",
-  "[종합]\"제주항공,키토선생,소휘효소,컷슬린,픽스녹음기\"등7월15일캐...",
-  "美상무부차관\"엔비디아H200칩,대중국수출'극소량'\"",
-  "박경렬교수\"AI토큰경제확산…자본·세대격차극복해야\"[동반성장...",
-  "\"中딥시크,본토IPO준비본격착수…2027년상장목표\"",
-  "카카오톡,6차정기업데이트…메시지요약·PC용챗GPT등AI기능탑재",
-  "\"플레이볼!,무더위날릴야구축제,익산서열린다\"",
   "H200中재입성…삼전닉스에'단비'",
   "KT,UAM상용화위한AI교통관리·5G항공망기술공개",
   "국산NPU·LLM기반다음'AI요약'…'풀스택소버린AI'상용화",
@@ -6001,7 +5994,14 @@
   "SKB,'Btv+max'구독혜택…이승철콘서트보고百상품권받는다",
   "최태원'AI·반도체중심전략'통했다...SK,성장모멘텀강화",
   "KT,팔란티어와'현장형AI해결사'키운다",
-  "KT이사회,주요통신시설운영현황확인"
+  "KT이사회,주요통신시설운영현황확인",
+  "'신병4:사보타주'상병된박민석앞에또다른변수…새얼굴합류한...",
+  "한컴위드,日기업사절단에AI·보안솔루션시연",
+  "케이쓰리아이,삼보모터스와업무협약…제조AX사업화",
+  "[AI는지금]AI리서치에이전트,대규모정보조사에서한계확인",
+  "문페이,앤트로픽'클로드'연동",
+  "데이터센터전력절감수요겨냥…알파에프엔텍,HARFKO2026서친환경기...",
+  "케이쓰리아이,삼보모터스와‘엔비디아옴니버스’기반피지컬AI제조..."
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,17 @@
   [
    "2026-07-16T10:04:16.841727+09:00",
    "확인 통신시설 운영 이사회 주요 ~KT 현황"
+  ],
+  [
+   "2026-07-16T10:06:18.221075+09:00",
+   "겨냥 2026서 수요 데이터센터 전력 알파에프엔텍 HARFKO 절감 친환경"
+  ],
+  [
+   "2026-07-16T10:06:18.221075+09:00",
+   "옴니버스 기반 피지컬 케이쓰리아이 삼보모터스와 제조"
   ]
  ],
- "last_run": "2026-07-16T10:04:38.268570+09:00",
+ "last_run": "2026-07-16T10:06:38.920084+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
