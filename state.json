@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607160948298641",
-  "https://www.techm.kr/news/articleView.html?idxno=153439",
-  "http://www.queen.co.kr/news/articleView.html?idxno=460380",
-  "https://www.ajunews.com/view/20260715110203876",
   "https://www.news1.kr/it-science/cc-newmedia/6228992",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317597",
   "https://www.news1.kr/politics/president/6230295",
@@ -2999,13 +2995,13 @@
   "https://www.sportschosun.com/baseball/2026-07-16/202607160100104600006570",
   "https://www.lecturernews.com/news/articleView.html?idxno=206517",
   "http://www.osen.co.kr/article/G1112840870",
-  "https://www.aitimes.com/news/articleView.html?idxno=212823"
+  "https://www.aitimes.com/news/articleView.html?idxno=212823",
+  "https://www.sportschosun.com/baseball/2026-07-16/202607160100103250006473",
+  "https://economist.co.kr/article/view/ecn202607130021",
+  "https://economist.co.kr/article/view/ecn202607140019",
+  "https://www.newsis.com/view/NISX20260716_0003712862"
  ],
  "seen_titles": [
-  "AI활용신약개발확대…글로벌R&D경쟁새국면",
-  "KT,사내AI해커톤‘에이전트캠프’개최",
-  "SKB,‘Btv+맥스’가입자이승철콘서트초대…오프라인으로혜택확...",
-  "[대통령업무보고]방미통위,'미디어기본사회'추진…참여·접근·선택...",
   "KT,팔란티어와손잡고사내'AI실행인재'키운다…B2BAX시장정조...",
   "[특징주]외국인삼성전자'사고'기관'팔고'…삼성중공업·한화오션은...",
   "[2027수시/청운대학교]AI·K-컬처·지역혁신으로미래를디자인하다",
@@ -6001,7 +5997,11 @@
   "안아주니깨무네?박영현만루위기극복후'미친세리머니'...KT,LG잡...",
   "미국뉴욕증시,AI반도체주차익실현에다우존스·S&P500·나스닥지수...",
   "눈·코·윤곽하더니결국입술까지…'故최진실딸'최준희,완성형'A...",
-  "[7월16일]AI비용부담의중심에선앤트로픽,어떤돌파구를준비할까"
+  "[7월16일]AI비용부담의중심에선앤트로픽,어떤돌파구를준비할까",
+  "\"내일모레안에결정\"외인교체급물살!\"부상오래간다더라\"허탈한...",
+  "중국은이미AI시대를선점하고있다[새로나온책]",
+  "증시떠받친반도체인데…“정점지났다”시장흔드는피크아웃논란",
+  "\"마음에안든다고가짜뉴스신고?\"…엉터리신고반복하면접수거부"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,17 @@
   [
    "2026-07-17T07:00:45.028222+09:00",
    "어떤 부담의 준비할까 중심에 비용 돌파구를 앤트로픽"
+  ],
+  [
+   "2026-07-17T07:02:16.397823+09:00",
+   "증시 지났다 논란 정점 흔드는 시장 반도체인데 떠받친 피크아웃"
+  ],
+  [
+   "2026-07-17T07:02:16.397823+09:00",
+   "반복하면 신고 접수 가짜뉴스 거부 든다고 마음에 엉터리"
   ]
  ],
- "last_run": "2026-07-17T07:01:09.644763+09:00",
+ "last_run": "2026-07-17T07:02:43.920925+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
