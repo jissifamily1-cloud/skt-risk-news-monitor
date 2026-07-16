@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636406",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636445",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636322",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636389",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=436533",
-  "https://www.techm.kr/news/articleView.html?idxno=153396",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168215",
   "https://daily.hankooki.com/news/articleView.html?idxno=1386172",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=362541",
   "https://game.donga.com/123386/",
@@ -2999,16 +2992,16 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=441282",
   "https://www.viva100.com/article/20260716500124",
   "https://www.ddaily.co.kr/page/view/2026071608465497934",
-  "http://www.journalist.or.kr/news/article.html?no=61289"
+  "http://www.journalist.or.kr/news/article.html?no=61289",
+  "https://www.mt.co.kr/estate/2026/07/16/2026071608455010867",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716585",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168273",
+  "https://www.venturesquare.net/1099019/",
+  "https://kpenews.com/View.aspx?No=4151033",
+  "https://www.ddaily.co.kr/page/view/2026071608292766440",
+  "http://www.journalist.or.kr/news/article.html?no=61286"
  ],
  "seen_titles": [
-  "\"트럼프,16일대국민연설서외국개입등美선거취약점언급\"",
-  "신약개발에AI접목…SKT·SK바이오팜,항암후보물질확보",
-  "\"공항도착하면바로연결\"…LG유플러스,로밍가입절차대폭간소화",
-  "KT,'AXTechConnect2026'개최...AI·데이터·네트워크미래기술선보...",
-  "54GBAI를14배압축…프리즘ML,온디바이스AI'본사이27B'출시",
-  "SK하이닉스는왜한국놔두고미국나스닥으로갈까?",
-  "부산시-부산대,융합보안핵심인재양성한다",
   "'탈팡'은없었다···위기서빛난쿠팡'로켓'의저력",
   "SKT,SK바이오팜과손잡고AI로항암후보물질발굴…초기연구기간60...",
   "KT,'AX테크커넥트2026'개최",
@@ -6001,7 +5994,14 @@
   "KT,팔란티어와사내AI해커톤진행…현장형AX인재키운다",
   "KT-팔란티어,‘에이전트캠프’성료⋯“현장중심AI에이전트로업...",
   "방미통위,전기통신사업자이용자보호평가개편…주관식도입·감점강...",
-  "YTN노사사추위교섭평행선…노조\"사측태도불성실\""
+  "YTN노사사추위교섭평행선…노조\"사측태도불성실\"",
+  "\"건설혁신기술발굴\"…삼성EPC3사'2026콘테크공모전'",
+  "\"사기전엔타보고,산뒤엔책임진다\"…르노코리아의승부수",
+  "美반도체지수'하락'속...코스피·코스닥'급락출발'",
+  "상세페이지도AI가만든다…후커블,스마일게이트인베스트먼트투자유...",
+  "SKT,AI로휴가철통신품질미리살핀다..특별소통상황실운영",
+  "공영방송이사회재편막바지…방미통위,KBS·MBC·EBS이사9명임명",
+  "정부가사실확인단체양성·지원?망법우려더하는시행령"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-07-16T09:12:15.988048+09:00",
    "사측 노조 평행선 사추위 YTN 불성실 교섭 노사 태도"
+  ],
+  [
+   "2026-07-16T09:14:15.948570+09:00",
+   "양성 지원 단체 더하는 사실확인 망법 우려 시행령 정부가"
   ]
  ],
- "last_run": "2026-07-16T09:12:45.037836+09:00",
+ "last_run": "2026-07-16T09:14:37.368123+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
