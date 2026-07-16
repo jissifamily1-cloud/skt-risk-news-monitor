@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisacast.kr/news/articleView.html?idxno=97821",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607151437008190320",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442368",
-  "https://www.ekn.kr/web/view.php?key=20260715021202741",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850463",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311254",
-  "https://www.gokorea.kr/news/articleView.html?idxno=872128",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360348",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1386283",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=86778",
   "https://www.sidae.com/article/2026071510103762265",
   "https://www.sentv.co.kr/article/view/sentv202607150145",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591384483919",
@@ -2999,19 +2989,19 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3637815",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61616",
   "https://www.sedaily.com/article/20068494",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251845&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003251845&CMPT_CD=P0010",
+  "https://biz.chosun.com/stock/finance/2026/07/16/4UZPPZ5AQZH7JHX6SOGBLNTCLI/",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362175",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425350",
+  "https://www.ziksir.com/news/articleView.html?idxno=140288",
+  "https://www.newspim.com/news/view/20260716000575",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=847395",
+  "https://www.mt.co.kr/politics/2026/07/16/2026071611091596445",
+  "https://zdnet.co.kr/view/?no=20260716111612",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612466",
+  "https://www.m-i.kr/news/articleView.html?idxno=1392254"
  ],
  "seen_titles": [
-  "'하지원→야구여왕2→미니언즈→스파이더맨'초호화시구라인업,LG후...",
-  "대한항공,대한민국드론·UAM박람회참가…\"AI관제·무인기·디지털...",
-  "하지원,16일프로야구LG트윈스시구출격“승리요정되고파”",
-  "[금융계동향]경남은행·토스·NH농협생명",
-  "경남도,청년꿈응원경남토크콘서트7월편개최",
-  "입법조사처\"美,AI스위치쥐었다\"…고성능모델통제에韓'소버린A...",
-  "[기업家]크래프톤②ㅣAI게임'미메시스'흥행돌풍…연구·e스포츠까...",
-  "카카오톡,대화요약·AI이미지생성도입…ChatGPTPC지원",
-  "10대증권사중절반은정보보호투자'안갯속'",
-  "삼성전자·신한금융·우리금융·기아·KB금융등5곳,ESG평가최고‘S...",
   "KT'무선가입자순증'의착시···상반기'번호이동'유입꼴찌",
   "[패트롤]익산시-원광대",
   "영남이공대,AI기반물류자동화교육시설오픈",
@@ -6001,7 +5991,17 @@
   "민화에담긴복과희망…'민화만발'네번째회원전",
   "[로드픽]입법조사처\"美,AI스위치쥐었다\"…고성능모델통제에韓...",
   "李대통령“개인정보유출제재,특정기업고려하지않아…법과방침따...",
-  "이대통령\"방미통위,방송·통신악용안되게역할해야\""
+  "이대통령\"방미통위,방송·통신악용안되게역할해야\"",
+  "‘데이터경제’핵심이라던마이데이터…통신3사모두떠났다",
+  "대신증권,크레온신규고객대상투자지원금·주식매수이벤트...최대...",
+  "\"美AI너무비싸\"…글로벌기업들,中'가성비AI'로눈돌려",
+  "[대통령업무보고]개인정보위,9월징벌적과징금시행…예방투자기업...",
+  "귀농·귀촌청년기업부스둘러보는최태원-김정관",
+  "李대통령\"허위·가짜정보규제잘해야…사회적비용너무커\"",
+  "이재명대통령\"AI창작물위험성현실화…대비책있어야\"",
+  "李대통령,방미통위에\"허위조작정보대응,규제기관역할잘해야\"",
+  "‘허위·가짜정보’날세운이대통령“진실은없고편갈라싸움만...",
+  "李\"개인정보제재,법대로…특정기업겨냥한조치아냐\""
  ],
  "recent_sigs": [
   [
@@ -6787,9 +6787,13 @@
   [
    "2026-07-16T11:18:16.458589+09:00",
    "않아 특정기업 제재 법과 개인정보유출 대통령 방침따 고려하지"
+  ],
+  [
+   "2026-07-16T11:20:48.758589+09:00",
+   "아냐 개인정보 겨냥한 기업 제재 특정 법대로 조치"
   ]
  ],
- "last_run": "2026-07-16T11:18:36.921909+09:00",
+ "last_run": "2026-07-16T11:21:09.834441+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
