@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=571940&class=78",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37136",
-  "https://biz.heraldcorp.com/article/10809506",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447564",
-  "https://biz.chosun.com/it-science/ict/2026/07/15/TPRUXM3OZVEZZD2DJ7DEBOXCNM/",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=441228",
-  "https://www.viva100.com/article/20260715500569",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636348",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636406",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636445",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636322",
@@ -2999,17 +2991,17 @@
   "https://www.newspim.com/news/view/20260716000161",
   "https://www.news1.kr/photos/8011179",
   "https://www.dailysecu.com/news/articleView.html?idxno=207632",
-  "https://www.ddaily.co.kr/page/view/2026071608580707745"
+  "https://www.ddaily.co.kr/page/view/2026071608580707745",
+  "https://www.slist.kr/news/articleView.html?idxno=752186",
+  "https://www.munhwa.com/article/11603030",
+  "https://www.medicopharma.co.kr/news/articleView.html?idxno=68724",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1386532",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441282",
+  "https://www.viva100.com/article/20260716500124",
+  "https://www.ddaily.co.kr/page/view/2026071608465497934",
+  "http://www.journalist.or.kr/news/article.html?no=61289"
  ],
  "seen_titles": [
-  "투구폼美쳤다…하지원,잠실야구장뜬다,16일LG시구",
-  "하지원,‘홈런’무대통했다…18년만에프로야구시구",
-  "하지원,16일LG시구출격“승리요정으로거듭나고파”(공식)",
-  "‘26학번새내기’하지원,‘홈런’열풍잇는진짜홈런시구…16일잠...",
-  "밀레니얼세대라면공감할걸?20년전상상도못한일상5",
-  "딥시크,IPO준비착수…2027년중국증시입성추진",
-  "PC에서도이어지는일상AI경험···카카오톡,6차정기업데이트",
-  "[증시오늘(15일)핵심특징주]양대지수폭발적급등에'동반매수사...",
   "\"트럼프,16일대국민연설서외국개입등美선거취약점언급\"",
   "신약개발에AI접목…SKT·SK바이오팜,항암후보물질확보",
   "\"공항도착하면바로연결\"…LG유플러스,로밍가입절차대폭간소화",
@@ -6001,7 +5993,15 @@
   "[모닝리포트]\"잘방어한가입자와실적\"…LG유플러스,목표가1만8000원",
   "KT,사내임직원대상AI해커톤행사진행",
   "크레소티처방전인식시스템해킹…약사·환자개인정보유출",
-  "방미통위,푸른방송조건부재허가…핵심조건미이행땐취소"
+  "방미통위,푸른방송조건부재허가…핵심조건미이행땐취소",
+  "'신병4:사보타주',대본리딩공개…김민호→이현균군복입고출동",
+  "12만명찾는세계유산위원회19일부산개막…도시전역서공연·전시·...",
+  "한국MSD,AI헬스케어오픈이노베이션확대…국내스타트업발굴",
+  "LG유플러스,정보보호백서발간…AI기반보안역량강화",
+  "KT,팔란티어와사내AI해커톤진행…현장형AX인재키운다",
+  "KT-팔란티어,‘에이전트캠프’성료⋯“현장중심AI에이전트로업...",
+  "방미통위,전기통신사업자이용자보호평가개편…주관식도입·감점강...",
+  "YTN노사사추위교섭평행선…노조\"사측태도불성실\""
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,21 @@
   [
    "2026-07-16T09:10:47.786143+09:00",
    "재허가 핵심 푸른방송 취소 조건 미이행 조건부"
+  ],
+  [
+   "2026-07-16T09:12:15.988048+09:00",
+   "팔란티어 중심 현장 ~KT 성료 캠프 에이전트 에이전트로"
+  ],
+  [
+   "2026-07-16T09:12:15.988048+09:00",
+   "평가 주관식 전기통신사업자 개편 도입 이용자보호 감점"
+  ],
+  [
+   "2026-07-16T09:12:15.988048+09:00",
+   "사측 노조 평행선 사추위 YTN 불성실 교섭 노사 태도"
   ]
  ],
- "last_run": "2026-07-16T09:11:19.519975+09:00",
+ "last_run": "2026-07-16T09:12:45.037836+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
