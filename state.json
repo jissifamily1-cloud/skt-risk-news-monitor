@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3637058",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264636",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468801",
-  "https://www.kukinews.com/article/view/kuk202607150148",
-  "https://www.ceoscoredaily.com/page/view/2026071515340296136",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442446",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2233650",
   "https://www.mt.co.kr/future/2026/07/15/2026071511320246236",
@@ -2999,14 +2994,14 @@
   "http://www.thefirstmedia.net/news/articleView.html?idxno=204019",
   "https://www.socialvalue.kr/news/view/1065590846403153",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=203997",
-  "https://www.mk.co.kr/article/12100278"
+  "https://www.mk.co.kr/article/12100278",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274985",
+  "https://www.hankyung.com/article/202607169625h",
+  "https://biz.sbs.co.kr/article_hub/20000322975?division=NAVER",
+  "https://www.joongang.co.kr/article/25445020",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206346"
  ],
  "seen_titles": [
-  "SKT,데이터센터핵심인력CEO직속배치",
-  "허사비스\"AGI달성눈앞…미국주도AI자율규제연내신설해야\"",
-  "[뮤즈★]염혜란,대세배우인데지하철타고귀가..소탈한매력",
-  "대전동구,주민참여예산위원회위촉식개최…50명위원구성",
-  "한국남부발전,지역청년대상취업지원프로그램운영",
   "AI고도화의그늘…'토큰부담'에커지는사용자불만",
   "'광주맛집'팔로우한최태원회장…\"하이닉스광주오나\"",
   "KT이사회,KT주요인프라현장점검…AI·네트워크역량확인",
@@ -6001,13 +5996,14 @@
   "KT,팔란티어와AI실행인재키운다...\"B2BAX경쟁력강화\"",
   "KT,현장형AI인재육성…팔란티어와‘에이전트캠프’",
   "LG유플러스,AI보안역량공개...정보보호투자1000억원육박",
-  "젠슨황“하이닉스ADR,믿기어려울만큼성공적”"
+  "젠슨황“하이닉스ADR,믿기어려울만큼성공적”",
+  "울산시,SK·S-OIL본사방문해AI데이터센터투자·지역협력논의",
+  "북극항로시대대비AI기반해양기술개발하는포항시",
+  "젠슨황\"도요타로봇에힘보태겠다\"",
+  "사흘만에멈춘메타의‘뮤즈이미지’…AI시대,선넘은‘옵트아웃...",
+  "이대통령\"딥페이크악용심각…얼마전꽤시끄러웠다\""
  ],
  "recent_sigs": [
-  [
-   "2026-07-16T09:04:16.593135+09:00",
-   "자체 별도 네이버 빈수레 월드 모델 개발"
-  ],
   [
    "2026-07-16T09:06:15.723898+09:00",
    "사업으로 데이터센터 재평가 ~SKT 시동 기업가치"
@@ -6799,9 +6795,13 @@
   [
    "2026-07-16T15:02:16.668612+09:00",
    "육박 LG유플러스 역량 투자 공개 ~LGU 보안 정보보호 1000억원"
+  ],
+  [
+   "2026-07-16T15:04:18.958495+09:00",
+   "젠슨황 보태겠다 도요타 로봇에"
   ]
  ],
- "last_run": "2026-07-16T15:02:38.410096+09:00",
+ "last_run": "2026-07-16T15:04:51.404519+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
