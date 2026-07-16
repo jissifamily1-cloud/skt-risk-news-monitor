@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kpinews.kr/newsView/1065575587002303",
-  "http://www.4th.kr/news/articleView.html?idxno=2114785",
-  "https://www.newsis.com/view/NISX20260715_0003710128",
-  "http://www.stoo.com/article.php?aid=107764521995",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716438",
-  "https://www.newsgn.com/news/articleView.html?idxno=562416",
-  "https://www.seoul.co.kr/news/sport/2026/07/15/20260715500100?wlog_tag3=naver",
-  "https://www.newscj.com/news/articleView.html?idxno=3417167",
-  "https://biz.heraldcorp.com/article/10809065",
   "https://www.gukjenews.com/news/articleView.html?idxno=3636556",
   "https://www.newsgn.com/news/articleView.html?idxno=562424",
   "https://www.ajunews.com/view/20260715084706467",
@@ -2999,18 +2990,18 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684543",
   "https://www.smarttoday.co.kr/ko-kr/articles/109535",
   "http://www.breaknews.com/1222138",
-  "https://www.newsis.com/view/NISX20260716_0003711469"
+  "https://www.newsis.com/view/NISX20260716_0003711469",
+  "http://www.osen.co.kr/article/G1112840387",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3637651",
+  "https://www.itworld.co.kr/article/4197040/3d-공간을-추론하는-ai-공간지능과-월드-모델의-부상.html",
+  "http://coinreaders.com/248007",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=938345",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=847367",
+  "https://dealsite.co.kr/articles/165442",
+  "https://www.news1.kr/photos/8011157",
+  "https://www.newsis.com/view/NISX20260716_0003711480"
  ],
  "seen_titles": [
-  "신지,시구고사논란후폭풍…결국축하공연도무산",
-  "오픈AI,차세대스마트스피커로AI기기시장진입",
-  "한국MSD,디지털헬스·AI혁신기업발굴…'헬스이노베이션서밋'개최",
-  "국산NPU·AI모델,다음검색서가동…하루5억토큰처리",
-  "김포LH3개단지·KT서인천지사,입주민주거환경개선맞손",
-  "이대한도의원\"남양주U18,백록기서후회없는승부펼치길\"뜨거운격...",
-  "'글로벌공략vs.안방사수'...하이트진로-오비맥주의엇갈린여름행보...",
-  "TrumpAdministrationLaunchesAICybersecurityPartnershiptoProte",
-  "LG유플러스,'로밍패스'개편…해외도착즉시자동이용",
   "시원마케팅,서울동교동신사옥확장이전…AI기반통합마케팅체계...",
   "해외에물류센터짓는한국이커머스",
   "업스테이지,포털‘다음’에풀스택소버린‘AI오버뷰’첫상용화한...",
@@ -6001,7 +5992,16 @@
   "SKB,'Btv+맥스'오프라인혜택확대",
   "LG유플러스,AI시대정보보호성과담은‘정보보호백서2025’발간",
   "파리바게뜨,31일까지KT멤버십최대50%할인",
-  "조정식국회의장\"AI혁명,절호의기회…투자위해제도신속개선할것..."
+  "조정식국회의장\"AI혁명,절호의기회…투자위해제도신속개선할것...",
+  "레전드군텐츠'신병4'8월24일돌아온다..대본리딩공개",
+  "권오상서구청장,주민참여예산총회개최...108개사업15억3천만원확...",
+  "3D공간을추론하는AI,공간지능과월드모델의부상",
+  "샤프링크CEO\"이더리움,비트코인과다른길걷는다\"...토큰화로대반...",
+  "'헬스데이터'와'헬스케어데이터'구분필요",
+  "[특징주]SK텔레콤,AI데이터센터구축속도에5%↑",
+  "KT,팔란티어와사내AI해커톤성료…'B2B시장공략'",
+  "KT·서울신용보증재단,청년소상공인지원사격나선다",
+  "\"엔비디아·日가와사키중공업,차세대조선소구축위해협업\""
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,17 @@
   [
    "2026-07-16T09:56:16.396296+09:00",
    "절호의 기회 투자 제도 혁명 조정식 개선할 신속 국회의장"
+  ],
+  [
+   "2026-07-16T09:58:16.530193+09:00",
+   "~SKT 데이터센터 속도에 구축"
+  ],
+  [
+   "2026-07-16T09:58:16.530193+09:00",
+   "가와사키중공업 차세대 구축 조선소 협업"
   ]
  ],
- "last_run": "2026-07-16T09:56:37.476711+09:00",
+ "last_run": "2026-07-16T09:58:37.782246+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
