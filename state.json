@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://isplus.com/article/view/isp202607150108",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=205011",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273089",
-  "https://www.donga.com/news/Economy/article/all/20260715/134302094/1",
-  "https://www.busan.com/view/busan/view.php?code=2026071413592249190",
-  "https://www.kbmaeil.com/article/20260715500409",
-  "https://sateconomy.co.kr/news/view/1065588627568248",
-  "https://kr.aving.net/news/articleView.html?idxno=1812413",
   "https://economist.co.kr/article/view/ecn202607150033",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659052&plink=ORI&cooper=NAVER",
   "https://www.econovill.com/news/articleView.html?idxno=745289",
@@ -2999,17 +2991,17 @@
   "https://www.hankookilbo.com/news/article/A2026071610320000520?did=NA",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041529",
   "https://www.yna.co.kr/view/AKR20260716076800001?input=1195m",
-  "https://view.asiae.co.kr/article/2026071610411948925"
+  "https://view.asiae.co.kr/article/2026071610411948925",
+  "http://www.osen.co.kr/article/G1112840416",
+  "https://www.newspim.com/news/view/20260716000453",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3637747",
+  "https://www.g-enews.com/view.php?ud=202607161014404678fbbec65dfb_1",
+  "https://www.newspost.kr/news/articleView.html?idxno=224249",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03653926645515176",
+  "https://www.news2day.co.kr/article/20260716500076",
+  "https://www.kukinews.com/article/view/kuk202607160046"
  ],
  "seen_titles": [
-  "표류하던경찰코인커스터디,두나무우협선정…진입배경관심",
-  "국내대기업,업무용AI도입현황을살펴보니",
-  "온디바이스음성AI전문기업에너자이,'NextCon2026'참가",
-  "'아픈손가락'김진욱의반전과'금강불괴'유강남의부진...롯데의후반...",
-  "북극항로시대준비…경북,AI기반해양기술승부수",
-  "AI네이티브된잘파세대…독서·AI·소비방식까지바꿨다",
-  "대한항공,'2026대한민국드론·UAM박람회'참가",
-  "한미약품,오픈이노베이션플랫폼본격화…유망바이오벤처투자연결",
   "기술주에역전당한버크셔해서웨이…승계체제에도시선",
   "씨이랩,'AI시티챌린지2026'공개리더보드1위",
   "오픈AI첫하드웨어기기는‘이동식AI스피커’…내년출시목표",
@@ -6001,7 +5993,15 @@
   "이대통령\"허위·가짜정보규제잘해야…사회적비용너무커\"",
   "李대통령\"허위선동사회적비용커…일정한규범만들어야\"",
   "李대통령\"방미통위,규제기관역할잘해야…허위정보철저대응\"",
-  "김정관\"반도체는AI시대인프라…투자에훨씬더집중해야\"(종합)"
+  "김정관\"반도체는AI시대인프라…투자에훨씬더집중해야\"(종합)",
+  "'유튜브·인스타·틱톡까지'KBO,WSCSports와AI콘텐츠강화…팬서비...",
+  "하나은행,'디지털미디어아트페스타2026'개최",
+  "[제주도의회]고의숙핵심공약'학생안심택시'제동…복지부협의누락...",
+  "CXMT증설·미규제완화의역설…메모리주왜빠지나",
+  "최태원'AI드라이브'성과가시화…SK㈜밸류업속도",
+  "네이버커넥트재단,엔비디아로봇시뮬레이션고교대회연다",
+  "[N2증시풍향계]트럼프조선업협력발언에조선株'강세'…주연테크...",
+  "AI솔루션팔고끝아니다…KT,팔란티어식‘현장엔지니어’키운다"
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,21 @@
   [
    "2026-07-16T10:44:18.983685+09:00",
    "투자에 훨씬 반도체는 시대 인프라 집중해야 김정관"
+  ],
+  [
+   "2026-07-16T10:46:18.634842+09:00",
+   "조선업 트럼프 발언에 주연테크 조선 강세 협력"
+  ],
+  [
+   "2026-07-16T10:46:18.634842+09:00",
+   "키운다 현장 팔고 아니다 엔지니어 ~KT 솔루션 팔란티어식"
+  ],
+  [
+   "2026-07-16T10:46:18.634842+09:00",
+   "고교 시뮬레이션 네이버 로봇 커넥트재단 연다 대회"
   ]
  ],
- "last_run": "2026-07-16T10:44:37.702225+09:00",
+ "last_run": "2026-07-16T10:46:44.785635+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
