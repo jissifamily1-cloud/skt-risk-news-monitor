@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://isplus.com/article/view/isp202607150063",
-  "https://biz.heraldcorp.com/article/10807980",
-  "https://www.ziksir.com/news/articleView.html?idxno=140145",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269822",
-  "https://cn.asiatoday.co.kr/view.php?key=20260715001033208",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=737051",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=104403",
   "https://byline.network/?p=9004111222612139",
   "https://isplus.com/article/view/isp202607150045",
   "https://www.topstarnews.net/news/articleView.html?idxno=16135208",
@@ -2999,16 +2992,16 @@
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=604954",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683422",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1716581",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260716090009LgY"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260716090009LgY",
+  "https://realty.chosun.com/site/data/html_dir/2026/07/15/2026071502465.html",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1716584",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03030726645515176",
+  "https://www.viva100.com/article/20260716500066",
+  "https://kpenews.com/View.aspx?No=4150998",
+  "https://www.todayeconomic.com/news/article.html?no=31319",
+  "https://dealsite.co.kr/articles/165395"
  ],
  "seen_titles": [
-  "KT,AI·데이터·네트워크기술한자리에…'AXTechConnect2026'개최",
-  "청와대에서열린부처업무보고",
-  "하지원,12년만에시구나선다...완벽한투구폼으로잠실마운드접수...",
-  "\"나도오스틴,켈리같은선수가됐으면\"LG우승청부사가돌아본한국...",
-  "AI반도체확산에전자파차폐주강세…고성능패키징수혜기대",
-  "[테크칼럼]보안팀이손댈수없는영역,‘비인간신원’(NHI)위협실체",
-  "챗GPT아침한때‘먹통’…로그인·대화오류",
   "애플,AI모델압축스타트업과협상…\"온디바이스AI\"",
   "\"역대급사기꾼\"\"우주장사꾼\"또설전벌인머스크·올트먼",
   "삼성파운드리,TSMC빈틈공략…AI칩수주전본격화",
@@ -6001,7 +5994,14 @@
   "한국MSD,국내디지털헬스·AI혁신기업발굴",
   "中장정10B로켓,첫부스터회수성공…美스페이스X에도전",
   "[Telecom&Now]LG유플러스,'정보보호백서'발간",
-  "[월드앤이슈]미,닷새연속이란공격…이란\"협상계획없다\""
+  "[월드앤이슈]미,닷새연속이란공격…이란\"협상계획없다\"",
+  "상업용부동산전문'알파카',제1회오픈리노베이션행사성공개최",
+  "[Telecom&Now]SKT,AI로휴가철통신품질집중관리",
+  "LG유플러스,AI보안성과공개…정보보호투자996억원",
+  "LG유플러스,AI시대정보보호성과담은‘정보보호백서’발간",
+  "AI시대정보보호성과공개..LG유플러스,정보보호백서발간",
+  "LG유플러스,AI보안성과담은‘정보보호백서2025’발간",
+  "네이버-엔비디아,월드모델'빈수레'…자체모델별도개발"
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,13 @@
   [
    "2026-07-16T09:02:15.746266+09:00",
    "공격 연속 이란 닷새 계획없다 협상"
+  ],
+  [
+   "2026-07-16T09:04:16.593135+09:00",
+   "자체 별도 네이버 빈수레 월드 모델 개발"
   ]
  ],
- "last_run": "2026-07-16T09:02:42.451999+09:00",
+ "last_run": "2026-07-16T09:04:34.422767+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
