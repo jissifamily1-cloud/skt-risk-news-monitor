@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202607150033",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659052&plink=ORI&cooper=NAVER",
-  "https://www.econovill.com/news/articleView.html?idxno=745289",
-  "https://www.etnews.com/20260715000309",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636670",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3636686",
   "https://sateconomy.co.kr/news/view/1065589623742907",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=82274",
   "https://www.econovill.com/news/articleView.html?idxno=745305",
@@ -2999,15 +2993,15 @@
   "https://www.newspost.kr/news/articleView.html?idxno=224249",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03653926645515176",
   "https://www.news2day.co.kr/article/20260716500076",
-  "https://www.kukinews.com/article/view/kuk202607160046"
+  "https://www.kukinews.com/article/view/kuk202607160046",
+  "http://www.4th.kr/news/articleView.html?idxno=2114836",
+  "http://www.queen.co.kr/news/articleView.html?idxno=460369",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=785600",
+  "https://view.asiae.co.kr/article/2026071610214952969",
+  "https://biz.chosun.com/topics/law_firm/2026/07/16/NSUSJSWAENAE3FP6XXWYGINPPY/",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612414"
  ],
  "seen_titles": [
-  "기술주에역전당한버크셔해서웨이…승계체제에도시선",
-  "씨이랩,'AI시티챌린지2026'공개리더보드1위",
-  "오픈AI첫하드웨어기기는‘이동식AI스피커’…내년출시목표",
-  "클라우데라·VAST데이터,AI데이터플랫폼제공파트너십",
-  "다이닝브랜즈그룹,자체구축AI플랫폼'다이나이'도입",
-  "\"스페이스X,AI수익원은당분간지상데이터센터…우주컴퓨팅은장기...",
   "구글\"삼성설득비결은성과·보안·개방성…풀스택AI로차별화\"",
   "대한항공,'드론·UAM박람회'참가…AI·무인기기반첨단항공기술전...",
   "'5GERA1.97'엘빈,리그1위삼성상대로후반기첫등판...16일에이스...",
@@ -6001,7 +5995,13 @@
   "최태원'AI드라이브'성과가시화…SK㈜밸류업속도",
   "네이버커넥트재단,엔비디아로봇시뮬레이션고교대회연다",
   "[N2증시풍향계]트럼프조선업협력발언에조선株'강세'…주연테크...",
-  "AI솔루션팔고끝아니다…KT,팔란티어식‘현장엔지니어’키운다"
+  "AI솔루션팔고끝아니다…KT,팔란티어식‘현장엔지니어’키운다",
+  "LGU+\"작년AI보안관제20만건대응..처리시간90%단축\"",
+  "하나은행,디지털미디어아트축제'DMAF2026'개최",
+  "[위클리오늘]이마트,갤러리아,GS샵소식(7.16)",
+  "시진핑,세계인공지능대회기조연설…AI·반도체독립선언?",
+  "“이혼뒤오른SK주가도나누나”…최태원·노소영‘세기의재산분...",
+  "이대통령“가짜정보로인한사회적비용너무커…규제기관역할중..."
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,13 @@
   [
    "2026-07-16T10:46:18.634842+09:00",
    "고교 시뮬레이션 네이버 로봇 커넥트재단 연다 대회"
+  ],
+  [
+   "2026-07-16T10:48:15.018983+09:00",
+   "나누나 세기의 오른 재산분 이혼 주가도 SK"
   ]
  ],
- "last_run": "2026-07-16T10:46:44.785635+09:00",
+ "last_run": "2026-07-16T10:48:39.710676+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
