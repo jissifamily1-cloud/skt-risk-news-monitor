@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260715_0003710222",
-  "https://www.insight.co.kr/news/563120",
-  "https://www.rapportian.com/news/articleView.html?idxno=238285",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=468618",
-  "http://www.4th.kr/news/articleView.html?idxno=2114778",
-  "https://www.inthenews.co.kr/news/article.html?no=89359",
-  "https://biz.heraldcorp.com/article/10809579",
-  "https://www.donga.com/news/Economy/article/all/20260715/134302399/1",
-  "https://www.mt.co.kr/tech/2026/07/15/2026071510561251427",
-  "http://www.fnnews.com/news/202607140754323634",
   "https://www.seoultimes.news/news/article.html?no=2000097790",
   "https://www.donga.com/news/Economy/article/all/20260715/134302542/1",
   "https://www.news1.kr/finance/blockchain-fintech/6228826",
@@ -2999,19 +2989,19 @@
   "https://www.eroun.net/news/articleView.html?idxno=85590",
   "https://www.eroun.net/news/articleView.html?idxno=85593",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4095415",
-  "https://www.ngonews.kr/news/articleView.html?idxno=233070"
+  "https://www.ngonews.kr/news/articleView.html?idxno=233070",
+  "https://biz.chosun.com/it-science/ict/2026/07/16/7CEQOEBWMZF2XJ3TFHPU4V745A/",
+  "https://www.newsis.com/view/NISX20260716_0003711571",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82333",
+  "https://www.dt.co.kr/article/12073200",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577857762817",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684537",
+  "https://www.youthdaily.co.kr/news/article.html?no=223133",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/16/2026071690093.html",
+  "https://www.news1.kr/it-science/cc-newmedia/6229884",
+  "https://www.mt.co.kr/tech/2026/07/16/2026071609022941074"
  ],
  "seen_titles": [
-  "KT,‘드론·UAM박람회’참가…AI관제·5G항공망기술선봬",
-  "[공식]하지원,18년만프로야구마운드오른다...'홈런'효과톡톡",
-  "대구시수성구청,재산세624억부과...신축·가격상승영향",
-  "美,UAE에AI반도체수출통제완화…\"이란작전지원대가\"",
-  "\"이제PC카톡서‘챗GPT포카카오’쓴다\"⋯카카오톡,업데이트",
-  "게임업계,미래에베팅…AI·플랫폼확보전본격화",
-  "챗GPT멈추자'504오류'노출…사용자IP도드러내",
-  "ODworks,조직개발(OrganizationDesign)최고전문가과정2기오픈",
-  "LG유플러스,해외로밍설정절차대폭간소화…'로밍패스'개편",
-  "막혔던중국시장뚫리나...엔비디아H200수출재개에시장'들썩'",
   "\"병무행정도AI로\"KT,스마트국방이끈다",
   "'그대에게드림'황인엽·이혜리,15년전헤어진이유는?…",
   "KT위즈서머리그,18~20일익산야구장서열린다",
@@ -6001,7 +5991,17 @@
   "LG유플러스,'정보보호백서2025'발간…AI기반보안체계·고객보호성...",
   "KT,팔란티어와AI해커톤개최…B2BAX실행형인재육성박차",
   "파리바게뜨,KT회원대상반값할인…\"만원이상구매시5천원혜택\"",
-  "KT새노조\"부산하청노동자사망사고,5년전과같은죽음반복…원청..."
+  "KT새노조\"부산하청노동자사망사고,5년전과같은죽음반복…원청...",
+  "한컴위드,일본기업에AI인증·보안기술시연",
+  "삼성EPC3사,'2026콘테크공모전'개최…건설혁신기술찾는다",
+  "\"직접그린그림이AI캐릭터배지로\"…신한은행,코엑스에'슈퍼SOL금융...",
+  "이제너두,종합건강검진플랫폼‘이젠케어’정식오픈",
+  "서울시여성가족재단,OpenAI와여성AI개발자키운다…'잇츠스터디'5...",
+  "애플,AI칩기업인수카드만지작…성능한계돌파승부수",
+  "\"개발기간5개월로단축\"…SKT·SK바이오팜,AI로난치암신약발굴",
+  "\"하이닉스광주진짜오나\"…최태원회장,'광주맛집'SNS팔로우",
+  "KT나스미디어\"하반기광고시장,AI중심으로재편\"",
+  "지포스팬이라면'소장각'…엔비디아,무료카드14종공개"
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,13 @@
   [
    "2026-07-16T09:30:56.305641+09:00",
    "5년 같은 전과 KT새노조 사망사고 원청 하청노동자 부산 죽음 ~KT 반복"
+  ],
+  [
+   "2026-07-16T09:32:17.837381+09:00",
+   "지포스 무료 카드 소장각 14종 팬이라면 공개"
   ]
  ],
- "last_run": "2026-07-16T09:31:19.456667+09:00",
+ "last_run": "2026-07-16T09:32:36.135031+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
