@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.job-post.co.kr/news/articleView.html?idxno=221181",
-  "https://www.news1.kr/world/usa-canada/6228805",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577857762817",
-  "https://zdnet.co.kr/view/?no=20260715105126",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202710",
-  "http://www.joseilbo.com/news/news_read.php?uid=571942&class=17",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1274889",
-  "https://view.asiae.co.kr/article/2026071413535971079",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=545778",
-  "http://www.4th.kr/news/articleView.html?idxno=2114781",
   "https://www.news1.kr/it-science/cc-newmedia/6228816",
   "https://www.sentv.co.kr/article/view/sentv202607150071",
   "https://www.xportsnews.com/article/2172344",
@@ -2999,19 +2989,19 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3637618",
   "https://www.ngonews.kr/news/articleView.html?idxno=233069",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=269905",
-  "https://biz.chosun.com/it-science/ict/2026/07/16/5FEQDQIHABHMNJZ4O2JXZGZTOU/"
+  "https://biz.chosun.com/it-science/ict/2026/07/16/5FEQDQIHABHMNJZ4O2JXZGZTOU/",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82331",
+  "http://www.wsobi.com/news/articleView.html?idxno=315329",
+  "https://www.bntnews.co.kr/article/view/bnt202607160103",
+  "https://www.newsen.com/news_view.php?uid=202607160911160310",
+  "https://www.newsis.com/view/NISX20260715_0003710171",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041476",
+  "https://www.dailian.co.kr/news/view/1667731/?sc=Naver",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=123359",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425299",
+  "https://www.sisajournal.com/news/articleView.html?idxno=380057"
  ],
  "seen_titles": [
-  "엔비디아,H200중국출하시작…美\"수량은매우적다\"",
-  "SK증권\"SK텔레콤2분기실적컨센서스부합전망,해킹사고여파벗어나...",
-  "‘26학번’하지원,LG시구출격…18년만프로야구마운드선다",
-  "제일기획,7월광고상장기업브랜드평판1위…이노션·SMC&C뒤이어",
-  "익산야구장서KT위즈퓨처스서머리그개최…공연·이벤트한자리에",
-  "프로티나,온코닉테라퓨틱스와차세대항암신약공동개발",
-  "주가25%폭락한IBM…‘사스포칼립스’여전했다",
-  "무단파일삭제부터유료구독해지까지…GPT-5.6솔'사고연발'",
-  "OpenAI,GPT-5.6프롬프트가이드공개",
-  "데이터센터운영사스위치IPO추진…\"몸값800억달러전망\"",
   "코스피3거래일만에7000선회복…반도체급등에매수사이드카발동",
   "SK텔레콤·SK바이오팜,AI로항암제초기유효물질2종발굴…연구기간...",
   "LG유플러스,로밍패스전면개편…해외도착즉시자동연결",
@@ -6001,7 +5991,17 @@
   "울산동구,대왕암공원서여름철식중독예방캠페인전개",
   "KT,팔란티어와사내AI해커톤개최…AI에이전트과제발굴",
   "올해하반기광고동향은?…KT나스미디어\"AI중심재편·영상통합구매...",
-  "KT,팔란티어와손잡고‘현장형AI인재’키운다"
+  "KT,팔란티어와손잡고‘현장형AI인재’키운다",
+  "\"AI이용권받고미술관데이트도\"…대신증권,크레온'투트랙'마케팅...",
+  "통신3사,휴가철특별소통대책수립·AI인프라-통신망현장점검·'정...",
+  "‘신병4사보타주’신병즈복귀신고식",
+  "‘신병4:사보타주’대본리딩현장공개“한층업그레이드된병영라...",
+  "한국MSD,혁신기업발굴…헬스이노베이션서밋",
+  "대한상의최태원\"AI,4살짜리아이…지금부터함께키워야\"",
+  "LG유플러스,정보보호백서발간…\"AI기반보안관제성과\"",
+  "LG유플러스,'정보보호백서'발간…AI시대정보보호성과담아",
+  "[남승표의궁변통구]워런버핏이부러워할대한민국을꿈꾸며",
+  "MS,AI해킹대응위해임원9명교체…보안조직'대수술'"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,17 @@
   [
    "2026-07-16T09:26:18.676930+09:00",
    "팔란티어와 현장형 인재 ~KT 손잡고 키운다"
+  ],
+  [
+   "2026-07-16T09:28:16.550378+09:00",
+   "대한민국을 꿈꾸며 부러워할 워런 버핏이"
+  ],
+  [
+   "2026-07-16T09:28:16.550378+09:00",
+   "대수술 9명 MS 대응 교체 보안 임원"
   ]
  ],
- "last_run": "2026-07-16T09:26:39.007796+09:00",
+ "last_run": "2026-07-16T09:28:39.346717+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
