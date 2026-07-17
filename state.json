@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200131",
-  "https://www.aitimes.com/news/articleView.html?idxno=212829",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540064",
-  "https://www.jbnews.com/news/articleView.html?idxno=1507772",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065587000368636",
   "https://www.newstnt.com/news/articleView.html?idxno=710527",
   "https://www.econovill.com/news/articleView.html?idxno=745409",
@@ -2999,13 +2995,13 @@
   "https://www.gosiweek.com/article/1065600162474676",
   "https://www.mediapen.com/news/view/1110715",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659233&plink=ORI&cooper=NAVER",
-  "http://www.fnnews.com/news/202607170847042406"
+  "http://www.fnnews.com/news/202607170847042406",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684953",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16137406",
+  "http://www.inews24.com/view/1986400",
+  "https://www.kyeonggi.com/article/20260717580030"
  ],
  "seen_titles": [
-  "복지TV뉴스_복지이슈포커스'(2026.7.15)",
-  "李대통령\"16세이하SNS규제해외선이미시행…국민적공감대확인하...",
-  "신·미디어업계,AI기반운영·광고·보안강화…하반기경쟁력확보총...",
-  "[포토]신민식신임울산시경제부시장임용장수여",
   "<취재>[모두의AI④完]GPU분배딜레마…“多사업확산vs선택과집중”",
   "\"70대도쓴다\"韓챗GPT2300만시대…'생활검색'은네이버여전",
   "정부,개인정보유출내부고발땐파격포상…‘스마트안경’전담TF...",
@@ -6001,7 +5997,11 @@
   "아드리엘,일본CARTAZERO이용규모700%확대…엔터프라이즈시장공...",
   "반도체업체압도적실적발표날이'초상집'...메모리주잔치종말징후",
   "[AFTER8SPECIAL]\"40나노에서단번에2나노?가능해?\"…삼성·TSMC잡는다...",
-  "반도체매도세에밀린美증시···3대지수동반하락"
+  "반도체매도세에밀린美증시···3대지수동반하락",
+  "미라무라티의씽킹머신스랩,첫AI모델'잉클링'공개",
+  "일본은루빈,중국은슈퍼노드…AI경쟁'공장'으로",
+  "KT온라인몰간판바꾼다…'KT다이렉트샵'으로재단장",
+  "‘장안문지킴이’KT고영표,초록우산‘슈퍼스타캠페인’주자합류"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,21 @@
   [
    "2026-07-17T09:06:17.097402+09:00",
    "나선다 구축 로보틱스용 일본서 국가 인프라"
+  ],
+  [
+   "2026-07-17T09:12:19.614618+09:00",
+   "~KT 다이렉트샵 바꾼다 온라인몰 재단장 간판"
+  ],
+  [
+   "2026-07-17T09:12:19.614618+09:00",
+   "~KT 주자 초록우산 고영표 장안문 합류 캠페인 슈퍼스타 지킴이"
+  ],
+  [
+   "2026-07-17T09:12:19.614618+09:00",
+   "일본은 루빈 경쟁 중국은 슈퍼노드 공장"
   ]
  ],
- "last_run": "2026-07-17T09:10:48.529442+09:00",
+ "last_run": "2026-07-17T09:12:42.863737+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
