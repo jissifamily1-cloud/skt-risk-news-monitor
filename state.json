@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260716132800003?input=1195m",
-  "https://www.newsis.com/view/NISX20260714_0003709197",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449618",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592673417823",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=203987",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=204019",
@@ -2999,12 +2996,12 @@
   "https://www.ibabynews.com/news/articleView.html?idxno=152949",
   "https://www.techm.kr/news/articleView.html?idxno=153477",
   "https://www.insight.co.kr/news/563500",
-  "https://www.econovill.com/news/articleView.html?idxno=745485"
+  "https://www.econovill.com/news/articleView.html?idxno=745485",
+  "https://www.techm.kr/news/articleView.html?idxno=153478",
+  "https://www.tokenpost.kr/news/insights/378739",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5041587"
  ],
  "seen_titles": [
-  "한미약품,키움증권과바이오벤처투자연결…오픈이노베이션협력확대",
-  "한컴위드,일본기업사절단에AI·보안솔루션소개⋯현지협력확대기...",
-  "[16일안성시]폭염피해최소화위해국민행동요령실천당부등",
   "LH,용인반도체국가산단1공구발주…조성속도[건설·분양오늘]",
   "한국자동차전문기자협회,‘폴스타3’기술‘800V아키텍처와SPA2플랫...",
   "AI혁명다음수혜수는?…에너지IPO'닷컴버블이후최대'",
@@ -6001,7 +5998,10 @@
   "[제약·바이오트렌드]케이엠제약,대표이사참여10억규모3자배정유...",
   "[글로벌]팔란티어CTO\"中오픈소스AI,美IP활용해개발\"...보호조치...",
   "SK하이닉스ADR이틀새21%급락...오늘(17일)휴장이라다행이지만,월...",
-  "최태원\"메모리수요계속늘어…SK하이닉스주가우상향\""
+  "최태원\"메모리수요계속늘어…SK하이닉스주가우상향\"",
+  "[글로벌]애플,AI서버칩기업인수검토...자체칩개발지연보완나...",
+  "[마켓분석]우주·AI랠리,2000년닷컴버블의재판인가",
+  "[은행실속한눈에]여름휴가겨냥일본항공권·공항라운지이용권"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,17 @@
   [
    "2026-07-17T13:58:20.550577+09:00",
    "초조한 기존라인 삼전닉스의 호남반도체 잇따른 증설에"
+  ],
+  [
+   "2026-07-17T14:02:18.350846+09:00",
+   "여름휴가 항공권 이용권 겨냥 라운지 일본 공항"
+  ],
+  [
+   "2026-07-17T14:02:18.350846+09:00",
+   "닷컴 2000년 버블의 우주 랠리 재판인가"
   ]
  ],
- "last_run": "2026-07-17T14:01:07.294810+09:00",
+ "last_run": "2026-07-17T14:02:40.573205+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
