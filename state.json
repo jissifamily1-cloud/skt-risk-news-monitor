@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12083108",
-  "https://www.news1.kr/world/usa-canada/6231109",
   "https://www.hani.co.kr/arti/culture/book/1268681.html",
   "https://www.newspim.com/news/view/20260717000016",
   "https://www.hankyung.com/article/202607160517i",
@@ -2999,11 +2997,11 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685035",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685043",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663351&plink=ORI&cooper=NAVER",
-  "https://www.mk.co.kr/article/12095395"
+  "https://www.mk.co.kr/article/12095395",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=850961",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207661"
  ],
  "seen_titles": [
-  "\"채팅·앱으로요금제해지\"…방미통위,통신해지절차개선안발표",
-  "휴대폰해지,상담원채팅·모바일앱으로도된다",
   "\"통화대기지옥끝낸다\"…이통사해지,앱·채팅으로'한방에'",
   "휴대전화해지쉬워진다…채팅상담·모바일앱으로신청가능",
   "\"연결중입니다\"대기해방…채팅으로통신서비스해지한다",
@@ -6001,7 +5999,9 @@
   "초기우버투자자\"비트코인최대변수,스트래티지영향력\"",
   "이더리움고래매수지속…사흘간8만1898ETH거래소서빠졌다",
   "김현수,KBO역대최초17시즌연속100안타신기록",
-  "국내외주목할역노화기업어디?"
+  "국내외주목할역노화기업어디?",
+  "[부고]김현수(프로야구KT위즈외야수)씨조모상",
+  "디지서트인증서탈취사고,중국계해킹조직'골든아이고그'소행으로..."
  ],
  "recent_sigs": [
   [
@@ -6079,9 +6079,13 @@
   [
    "2026-07-18T21:02:15.040327+09:00",
    "어디 국내외 기업 역노화 주목할"
+  ],
+  [
+   "2026-07-18T21:10:25.863488+09:00",
+   "골든아이고그 소행으로 탈취 사고 디지서트 해킹조직 인증서 중국계"
   ]
  ],
- "last_run": "2026-07-18T21:08:33.759544+09:00",
+ "last_run": "2026-07-18T21:10:47.744231+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
