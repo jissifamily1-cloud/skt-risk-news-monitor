@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.journalist.or.kr/news/article.html?no=61294",
-  "https://www.g-enews.com/view.php?ud=2026071806100481510c8c1c064d_1",
-  "https://www.mk.co.kr/article/12101291",
-  "https://www.seoul.co.kr/news/editOpinion/opinion/hongkibin/2026/07/16/20260716026002?wlog_tag3=naver",
-  "https://www.mediapen.com/news/view/1110786",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374290",
-  "https://www.yna.co.kr/view/AKR20260717016700007?input=1195m",
-  "https://www.xportsnews.com/article/2173438",
-  "https://biz.sbs.co.kr/article_hub/20000323124?division=NAVER",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607180089&t=NN",
-  "https://www.seoul.co.kr/news/economy/securities/2026/07/18/20260718500002?wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20260716_0003712692",
   "https://www.globale.co.kr/news/articleView.html?idxno=39394",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469332",
@@ -2999,20 +2988,20 @@
   "https://www.yna.co.kr/view/AKR20260720008800011?input=1195m",
   "https://www.itbiznews.com/news/articleView.html?idxno=219478",
   "https://biz.chosun.com/it-science/ict/2026/07/20/OGE63IEMEJBMXIQGQIWQB5EPYA/",
-  "https://economist.co.kr/article/view/ecn202607140022"
+  "https://economist.co.kr/article/view/ecn202607140022",
+  "https://www.yna.co.kr/view/AKR20260716181100005?input=1195m",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01289046645516488",
+  "https://www.aitimes.com/news/articleView.html?idxno=212918",
+  "https://www.tokenpost.kr/news/cryptocurrency/379294",
+  "https://www.hankyung.com/article/2026072032866",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/20/2026072000026.html",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240454",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469524",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607161433563800109680",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335839",
+  "https://dealsite.co.kr/articles/165494"
  ],
  "seen_titles": [
-  "통신3사,휴가철고객잡기총력…망품질·로밍서비스강화",
-  "대기업만웃나…지역AI업계참여막막",
-  "일본,엔비디아GPU'루빈'2만7500장확보...피지컬AI승부수",
-  "[EBN오늘(16일)이슈종합]단일종목레버리지ETF신규상장잠정중단...",
-  "순천향대,스타트업AI업무자동화지원…입주기업디지털전환속도",
-  "‘AI학습데이터’분쟁불붙었다…제미나이·메타,저작권침해피소",
-  "필라델피아반도체지수1.6%,엔비디아2.2%↓...반도체주,약세장진입",
-  "SKT,SK바이오팜과AI기반난치성암표적치료유효물질발굴",
-  "[뉴욕증시]中문샷에저격당한하이퍼스케일러…하락마감",
-  "리플(XRP),1.08달러박스권속규제명확성이향후방향성결정할듯",
-  "“미공개19분추가”…‘어쩔수가없다확장판’·‘군체’안방상륙",
   "예측시장백발백중베팅범잡고보니…대통령의입이었다",
   "애플,엔비디아제치고한때시총1위탈환…AI투자'반도체→플랫폼'...",
   "KAI,인도네시아에‘T-50i’6대최종인도…42선편제완성",
@@ -6001,7 +5990,18 @@
   "[전국주요신문톱뉴스](20일조간)",
   "SKT·하나금융,청년AI인재대상해커톤'테크포굿'성료",
   "[알립니다]젠슨황·손정의가알아본‘로봇뇌’유니콘한국온다…...",
-  "GPU더팔기위한엔비디아의큰그림…‘피지컬AI’"
+  "GPU더팔기위한엔비디아의큰그림…‘피지컬AI’",
+  "연합뉴스영문연감'코리아애뉴얼2026'출간",
+  "뉴욕증시,'키미쇼크'에반도체주약세…美·이란긴장도고조[뉴스새...",
+  "알리바바,2.4조매개변수'큐원3.8'공개...\"페이블5이어세계2위\"",
+  "IREN주가하락세지속속AI클라우드확장계획발표",
+  "반도체흔들려도TSMC는TSMC…\"첨단공정지배력더커져\"",
+  "[속보]中'키미K3쇼크'에이란전면전공포겹쳤다…나스닥1.4%급락...",
+  "네이버보다AI를먼저찾는다…질문의시대가바뀌었다",
+  "비트코인은10분,이더리움은12초…초고속승부에전재산탕진위기",
+  "[더벨][i-point]지슨,글로벌AI보안위협해법제시",
+  "李캠프논란방문진이사'보류'…자동임명가능성도",
+  "KT\"AI시대FDE'나침반'역할…팔란티어와AX역량내재화\""
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-07-20T08:02:17.914207+09:00",
    "GPU 피지컬 그림 엔비디아의 위한 팔기"
+  ],
+  [
+   "2026-07-20T08:04:18.663736+09:00",
+   "AX ~KT 역량 나침반 역할 내재화 팔란티어와 FDE 시대"
   ]
  ],
- "last_run": "2026-07-20T08:02:43.907856+09:00",
+ "last_run": "2026-07-20T08:04:39.577300+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
