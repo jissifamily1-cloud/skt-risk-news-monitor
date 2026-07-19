@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202607170006",
-  "https://www.joongang.co.kr/article/25445914",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442576",
-  "https://www.tfmedia.co.kr/news/article.html?no=205841",
-  "https://www.joongangenews.com/news/articleView.html?idxno=533282",
   "https://www.gukjenews.com/news/articleView.html?idxno=3638978",
   "https://www.gukjenews.com/news/articleView.html?idxno=3638967",
   "https://www.gukjenews.com/news/articleView.html?idxno=3638975",
@@ -2999,14 +2994,14 @@
   "https://www.koreatimes.co.kr/path/A2026071915070005947",
   "https://www.joongang.co.kr/article/25446221",
   "http://www.gndomin.com/news/articleView.html?idxno=482517",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16139328"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16139328",
+  "https://www.mk.co.kr/article/12101827",
+  "https://www.mk.co.kr/article/12101829",
+  "https://www.dt.co.kr/article/12073497",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260720010006649",
+  "https://www.newsis.com/view/NISX20260719_0003714214"
  ],
  "seen_titles": [
-  "ETF도대장주만담는다…분산덜어낸'Top2·Top3'전성시대",
-  "최태원“SK하이닉스주가,시간두면우상향…한국AI틈새노려야”",
-  "[제약·바이오트렌드]케이엠제약,대표이사참여10억규모3자배정유...",
-  "[글로벌]팔란티어CTO\"中오픈소스AI,美IP활용해개발\"...보호조치...",
-  "SK하이닉스ADR이틀새21%급락...오늘(17일)휴장이라다행이지만,월...",
   "최태원\"메모리수요계속늘어…SK하이닉스주가우상향\"",
   "[글로벌]애플,AI서버칩기업인수검토...자체칩개발지연보완나...",
   "[마켓분석]우주·AI랠리,2000년닷컴버블의재판인가",
@@ -6001,7 +5996,12 @@
   "LeveragedETFsandthe“Koreandiscount”",
   "삼전닉스?이젠K대장바뀐다…“미친척사라”텐배거1순위",
   "경남도,전국지자체최초국가정보통신망지역이원화완성",
-  "\"LG전3승확보\"…kt,AI예측속선두추격가속"
+  "\"LG전3승확보\"…kt,AI예측속선두추격가속",
+  "진격의중국AI…가격넘어성능까지美턱밑추격",
+  "제2의딥시크쇼크…美반도체株휘청",
+  "SK하닉한달새43%‘추락’…“빅테크실적까지반도체로버텨야”",
+  "개인정보유출·해킹은폐까지…'과징금폭탄'떨고있는KT",
+  "LG상대3승확보한KT이강철감독\"AI예측맞아…앞으로도물어볼것..."
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-07-19T17:36:16.495244+09:00",
    "추격 LG전 ~KT 3승 가속 선두 확보 예측"
+  ],
+  [
+   "2026-07-19T17:38:18.325120+09:00",
+   "있는 과징금 개인정보유출 폭탄 ~KT 떨고 은폐까지"
   ]
  ],
- "last_run": "2026-07-19T17:36:37.557022+09:00",
+ "last_run": "2026-07-19T17:38:36.906299+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
