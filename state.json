@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260716_0003712692",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39394",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469332",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684991",
-  "https://www.kbmaeil.com/article/20260716500274",
   "https://www.yna.co.kr/view/AKR20260716022500017?input=1195m",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=189894",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=189859",
@@ -2999,14 +2994,14 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469524",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607161433563800109680",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335839",
-  "https://dealsite.co.kr/articles/165494"
+  "https://dealsite.co.kr/articles/165494",
+  "https://www.aitimes.com/news/articleView.html?idxno=212781",
+  "http://www.sisanews24.co.kr/19048",
+  "https://www.khan.co.kr/article/202607162022015",
+  "http://www.newsbrite.net/news/articleView.html?idxno=199331",
+  "https://www.tokenpost.kr/news/economy/379297"
  ],
  "seen_titles": [
-  "예측시장백발백중베팅범잡고보니…대통령의입이었다",
-  "애플,엔비디아제치고한때시총1위탈환…AI투자'반도체→플랫폼'...",
-  "KAI,인도네시아에‘T-50i’6대최종인도…42선편제완성",
-  "미국뉴욕증시,반도체차익실현에다우존스·S&P500·나스닥지수일제...",
-  "中주도AI동맹출범…시진핑“일국독주아닌교향곡”美우회비판",
   "또나왔다…대통령업무보고도중\"찬성1번,반대2번\"댓글설문",
   "中‘문샷AI’,오픈AI·앤트로픽턱밑추격…저비용·초거대모델공...",
   "전국초고속인터넷깐이남자…30년산같은2년산초고속위스키만들었...",
@@ -6001,7 +5996,12 @@
   "비트코인은10분,이더리움은12초…초고속승부에전재산탕진위기",
   "[더벨][i-point]지슨,글로벌AI보안위협해법제시",
   "李캠프논란방문진이사'보류'…자동임명가능성도",
-  "KT\"AI시대FDE'나침반'역할…팔란티어와AX역량내재화\""
+  "KT\"AI시대FDE'나침반'역할…팔란티어와AX역량내재화\"",
+  "SKT,SK바이오팜과AI기반난치성암표적치료유효물질발굴",
+  "순천향대,스타트업AI업무자동화지원…입주기업디지털전환속도",
+  "‘AI학습데이터’분쟁불붙었다…제미나이·메타,저작권침해피소",
+  "최태원-노소영,'재산분할소송'파기환송심D-4",
+  "에코페트롤(EC),해킹악재속브라질인수‘가속’…신용등급은방어"
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,17 @@
   [
    "2026-07-20T08:04:18.663736+09:00",
    "AX ~KT 역량 나침반 역할 내재화 팔란티어와 FDE 시대"
+  ],
+  [
+   "2026-07-20T08:06:17.692881+09:00",
+   "환송심 재산분할 파기 소송"
+  ],
+  [
+   "2026-07-20T08:06:17.692881+09:00",
+   "에코페트롤 브라질 방어 인수 신용등급은 가속 악재 EC"
   ]
  ],
- "last_run": "2026-07-20T08:04:39.577300+09:00",
+ "last_run": "2026-07-20T08:06:41.112721+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
