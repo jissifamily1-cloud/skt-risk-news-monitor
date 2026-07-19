@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hidomin.com/news/articleView.html?idxno=713642",
-  "https://www.etoday.co.kr/news/view/2604731",
-  "https://www.newsis.com/view/NISX20260716_0003712388",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/511822",
-  "https://www.newsis.com/view/NISX20260715_0003710979",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260713001722231",
   "https://www.dt.co.kr/article/12073304",
   "https://www.hankyung.com/article/2026071709467",
@@ -2999,14 +2994,14 @@
   "https://www.hankyung.com/article/2026071927761",
   "http://www.boannews.com/media/view.asp?idx=144745&kind=3",
   "https://www.mk.co.kr/article/12101791",
-  "https://www.yna.co.kr/view/AKR20260719044800007?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260719044800007?input=1195m",
+  "https://sports.donga.com/sports/article/all/20260719/134323381/1",
+  "https://sports.khan.co.kr/article/202607191721003?pt=nv",
+  "https://www.ddaily.co.kr/page/view/2026071414370671605",
+  "https://www.jbnews.com/news/articleView.html?idxno=1507854",
+  "https://www.news2day.co.kr/article/20260719500078"
  ],
  "seen_titles": [
-  "'모두의AI'사업에카카오·이통사·스타트업잇달아출사표",
-  "트럼프'중국선거개입'주장에…美언론들\"음모론재탕일뿐\"",
-  "오픈AI파산하면증시폭락?...인공지능판'리먼브라더스'사태경고등",
-  "“비용·제약없는국산AI연다”…정부'모두의AI'본격시동",
-  "“국가안보가뚫렸다”…트럼프,‘기밀해제’카드로美선거시스템...",
   "‘이용자빠른확보’vs‘카톡서간편사용’…방법달라도AI올인하...",
   "트럼프,또음모론?\"중국,2020년대선광범위개입\"",
   "최태원“SK하이닉스,단기매매보다오래보유해야”",
@@ -6001,7 +5996,12 @@
   "세종고문에현대차그룹IP전문가윤승현영입",
   "[신간]26년정보보안현장경험담아...‘CISO의시선으로바라본정보...",
   "해킹사고홍역치른통신사…보안투자4년새73%급증",
-  "LG와4연전가운데3승확보…이강철kt감독\"AI예측대로네\""
+  "LG와4연전가운데3승확보…이강철kt감독\"AI예측대로네\"",
+  "“서울팀와야하나”KT이강철감독,힐리어드잠실맹타에미소활...",
+  "4연전중3승예상못했던이강철KT감독의함박웃음“AI가3승한다고...",
+  "[DD퇴근길]구글내비에재미나이탑승…네이버·티맵이길수있을까",
+  "세종스마트시티첫주거단지스타트…'첨단기술일상화'5생활권관심...",
+  "최태원\"반도체확보아비규환…생산능력확대서둘러야\""
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,13 @@
   [
    "2026-07-19T17:20:28.041294+09:00",
    "급증 보안 투자 홍역 치른 해킹사고 4년"
+  ],
+  [
+   "2026-07-19T17:24:17.865355+09:00",
+   "반도체 확대 서둘러야 생산능력 확보 아비규환"
   ]
  ],
- "last_run": "2026-07-19T17:22:34.794220+09:00",
+ "last_run": "2026-07-19T17:24:35.677497+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
