@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1220012",
-  "http://www.newskr.kr/news/articleView.html?idxno=105033",
-  "https://www.betanews.net/article/view/beta202607060061",
-  "https://www.newscj.com/news/articleView.html?idxno=3414891",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1167766",
-  "https://www.greened.kr/news/articleView.html?idxno=344329",
-  "https://www.kukinews.com/article/view/kuk202607060137",
   "https://biz.sbs.co.kr/article_hub/20000320828?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000320820?division=NAVER",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=222953",
@@ -2999,16 +2992,16 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=119170",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4425776",
   "https://www.econovill.com/news/articleView.html?idxno=745610",
-  "https://www.dailian.co.kr/news/view/1668633/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1668633/?sc=Naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3640183",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851107",
+  "https://www.newsis.com/view/NISX20260720_0003714942",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168405",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104464",
+  "https://www.ngonews.kr/news/articleView.html?idxno=233298",
+  "https://www.asiatime.co.kr/article/20260720500111"
  ],
  "seen_titles": [
-  "SK그룹'AI키맨'부상한SK텔레콤정재헌",
-  "SKT,전국T월드매장'AI전환'시동…고객서비스혁신",
-  "\"자라보고놀란가슴솥뚜껑보고놀란다\"...통신사,정보보호투자·인...",
-  "의정부시청이성연,양양전국사이클남자일반부스크래치10km우승",
-  "[게시판]SKT,T월드매장에AI에이전트전면도입등단신",
-  "[오늘의통신]KT·SKT·LG유플러스",
-  "SKT,전국T월드매장'AI전환'시동",
   "‘영남권첨단산업’312조원…경남투자규모는?",
   "'세기의이혼'권혁빈이혼소송4년만에결론…9월9일1심선고",
   "전남광주통합특별시의회예결특위출범",
@@ -6001,7 +5994,14 @@
   "KT,동남아알뜰로밍상품출시...'그랩'할인혜택도제공",
   "\"스페이스X다음,오픈AI·앤트로픽\"…미래에셋,美NYSE100액티브ETF",
   "TEL-엔비디아협력확대…AI로반도체팹자율운영겨냥",
-  "1년새달라진최태원의자본주의론…'의구심'서'망각'으로"
+  "1년새달라진최태원의자본주의론…'의구심'서'망각'으로",
+  "[인사]경기용인시",
+  "아이스크림에듀,AI유튜브채널'뚜루마리'오픈",
+  "이번엔'문샷쇼크'…中공짜AI발코스피파장어디까지",
+  "장초반...중국증시&홍콩증시'급등출발',알리바바'활짝'",
+  "KT,대만·베트남·필리핀·태국등동남아6개국'알뜰로밍·그랩'프로...",
+  "KT,여름휴가철'동남아알뜰로밍'출시…그랩할인혜택도제공",
+  "거버넌스포럼\"SK하이닉스호남반도체팹,LG엔솔IPO악몽되풀이우려..."
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-07-20T10:56:18.438380+09:00",
    "협력 겨냥 자율운영 AI로 TEL 반도체 확대"
+  ],
+  [
+   "2026-07-20T10:58:16.301669+09:00",
+   "악몽 LG엔솔 SK하이닉스 우려 반도체 IPO 되풀이 호남 거버넌스포럼"
   ]
  ],
- "last_run": "2026-07-20T10:56:38.438309+09:00",
+ "last_run": "2026-07-20T10:58:40.584025+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
