@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=319443",
-  "https://www.starnewskorea.com/sports/2026/07/19/2026071822102516601",
-  "https://www.mk.co.kr/article/12101486",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=829218",
-  "https://www.ytn.co.kr/_ln/0107_202607182345440540",
-  "http://www.maniareport.com/view.php?ud=2026071821114397136cf2d78c68_19",
-  "https://www.mydaily.co.kr/page/view/2026071820065199227",
-  "http://www.spochoo.com/news/articleView.html?idxno=127625",
-  "https://www.sportsseoul.com/news/read/1623119",
-  "https://www.newsis.com/view/NISX20260718_0003713757",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=829224",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553385903",
   "https://www.news1.kr/sports/baseball/6231774",
@@ -2999,19 +2989,19 @@
   "https://www.newsis.com/view/NISX20260720_0003715000",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=360471",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02191046645516488",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851113"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851113",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3640210",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3640186",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3640206",
+  "https://www.news1.kr/world/northeast-asia/6232634",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3069749",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264728",
+  "https://www.greened.kr/news/articleView.html?idxno=345394",
+  "https://biz.heraldcorp.com/article/10813478",
+  "https://www.mediapen.com/news/view/1110978",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090100.html"
  ],
  "seen_titles": [
-  "최태원·노소영,‘세기의재산분할’선고한달앞으로…“5배오른...",
-  "대신증권,크레온거래활성화이벤트…신규고객최대6만원지원",
-  "“AI가코드는짜도개발은못끝낸다”…AWS가꺼낸‘AI-DLC’해법",
-  "\"아프지만않으면할수있는기록\"김현수역대급망언?KBO최초대기록...",
-  "'보약인줄알았더니…'한화,꼴찌에충격3연패…키움,데이비슨효과...",
-  "페덱충격적데뷔전후폭풍이LG로?삼성은현역빅리거효과,LG는뭐하...",
-  "8회초LG팬들은떠나갔다...무기력한LG,시즌첫4연패,언제타선이...",
-  "‘KBO최초’기록보다김현수를기쁘게만든건?2G무안타탈출“길어...",
-  "2위역전도보인다...17안타대폭발→LG꺾고6연승,\"김현수최초17시즌...",
-  "'이럴수가'LG초비상!임찬규마저무너졌다,시즌첫4연패→이제2위도...",
   "[2026프로야구일정]7월19일구단별선발투수와생중계채널",
   "'17안타폭발'KT,LG8-2완파...6연승·50승선착,LG는시즌첫4연패",
   "\"열심히하는선수는다할수있다\"KBO최초기록에도겸손했던타격...",
@@ -6001,7 +5991,17 @@
   "지슨,무선백도어해킹상시차단…HW영역보안해법제시",
   "최태원\"내년반도체수요60%증가…시장아비규환\"",
   "\"문샷AI,中AI돌풍업고IPO추진…6개월내홍콩상장\"",
-  "ABB로보틱스·엔비디아,피지컬AI백서발간"
+  "ABB로보틱스·엔비디아,피지컬AI백서발간",
+  "밀양시이동노동상담본격운영…2026년까지현장방문확대",
+  "밀양아리랑시장,증발냉방장치가동…폭염속이용객불편해소기대",
+  "밀양시폭염·가뭄대책회의개최…\"시민안전최우선\"",
+  "中딥시크이은키미쇼크…中관영지\"기술봉쇄로중국못막아\"",
+  "GS리테일AI스타트업과AX속도",
+  "삼성전자·SK하이닉스경력채용확대…비메모리인력확보경쟁본격화",
+  "[파이프라인줌인]프로티나,ABX지분27%취득…AI신약개발수직계열...",
+  "[사설]‘中키미쇼크’와‘네덜란드병’,그리고최태원회장의경고",
+  "역대급실적불구주가폭락...반도체산업,\"호황이면의그늘\"",
+  "[티조Q&A]14세미만SNS막겠다는정부…'자유제한'맞나?실효성은?"
  ],
  "recent_sigs": [
   [
@@ -6639,9 +6639,17 @@
   [
    "2026-07-20T11:08:18.094446+09:00",
    "상시 백도어 보안 지슨 무선 영역 HW 제시 차단 해법"
+  ],
+  [
+   "2026-07-20T11:12:17.937149+09:00",
+   "불구 이면의 산업 호황 그늘 폭락 역대급 반도체 실적 주가"
+  ],
+  [
+   "2026-07-20T11:12:17.937149+09:00",
+   "미만 막겠다는 SNS 14세 자유 제한 정부 실효성은 맞나"
   ]
  ],
- "last_run": "2026-07-20T11:10:44.809527+09:00",
+ "last_run": "2026-07-20T11:12:39.004910+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
