@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/20/20260720023002?wlog_tag3=naver",
-  "https://www.segye.com/newsView/20260719512029?OutUrl=naver",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6936609",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=204068",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=255400",
   "https://biz.sbs.co.kr/article_hub/20000323036?division=NAVER",
   "https://www.newsis.com/view/NISX20260716_0003712211",
@@ -2999,13 +2995,13 @@
   "https://newscham.net/articles/116959",
   "https://www.gukjenews.com/news/articleView.html?idxno=3640898",
   "https://www.thedailypost.kr/news/articleView.html?idxno=114724",
-  "https://www.news1.kr/it-science/general-it/6233308"
+  "https://www.news1.kr/it-science/general-it/6233308",
+  "https://www.nocutnews.co.kr/news/6550547",
+  "https://www.mk.co.kr/article/12102729",
+  "https://www.thelec.kr/news/articleView.html?idxno=59777",
+  "https://www.ajunews.com/view/20260720173915326"
  ],
  "seen_titles": [
-  "통합시의회\"광주군공항,국가주도전환해야\"",
-  "전남광주통합의회서도최대관심사는'반도체클러스터'",
-  "\"반도체클러스터부지광주군공항개발주체는국가\"(종합)",
-  "최태원SK실트론매각막판고심,웨이퍼가치상승에SK하이닉스자회...",
   "[출금]19일발제",
   "\"반도체클러스터부지지정된광주군공항,국가가개발\"",
   "노소영전남광주통합시의원\"효천지구버스노선원안유지하고예산확...",
@@ -6001,7 +5997,11 @@
   "사흘째꺼지지않는쿠팡물류센터의불,로켓배송이쌓아올린위험",
   "황인호동구청장,쪽방촌찾아폭염·집중호우대비현장점검",
   "KT지니뮤직,생활밀착형플랫폼진화…'러닝공유·DJ구독'서비스론...",
-  "네이버이해진·최수연,브룩필드본사방문…AI빅딜전망"
+  "네이버이해진·최수연,브룩필드본사방문…AI빅딜전망",
+  "'수요폭발'의딜레마…中키미K3,이틀만에신규구독중단",
+  "억만장자살린기적의‘암분석’…한국AI로‘암치료용맞춤정밀지...",
+  "네이버,브룩필드찾는다…AI인프라조성속도내나",
+  "부산,AI반도체거점도전...전력반도체전략모색"
  ],
  "recent_sigs": [
   [
@@ -6703,9 +6703,13 @@
   [
    "2026-07-20T18:44:16.283985+09:00",
    "쌓아 올린 위험 사흘째 꺼지지 쿠팡 로켓배송이 않는 물류센터의"
+  ],
+  [
+   "2026-07-20T18:48:19.202064+09:00",
+   "전력반도체 부산 전략 거점 도전 모색 반도체"
   ]
  ],
- "last_run": "2026-07-20T18:46:37.815872+09:00",
+ "last_run": "2026-07-20T18:48:39.914908+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
