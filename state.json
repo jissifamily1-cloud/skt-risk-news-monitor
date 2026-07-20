@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000323216?division=NAVER",
-  "https://www.hankookilbo.com/news/article/A2026071610220000746?did=NA",
   "https://www.ggilbo.com/news/articleView.html?idxno=1169708",
   "https://www.ytn.co.kr/_ln/0104_202607200247428716",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008664350&plink=ORI&cooper=NAVER",
@@ -2999,11 +2997,11 @@
   "http://coinreaders.com/248513",
   "https://www.news1.kr/world/middleeast-africa/6233340",
   "https://www.imaeil.com/page/view/2026072019322159460",
-  "https://www.khan.co.kr/article/202607202008015"
+  "https://www.khan.co.kr/article/202607202008015",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1531244",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1531245"
  ],
  "seen_titles": [
-  "[KBO오늘의경기결과]7월19일(일)",
-  "\"6이닝무실점\"고영표,LG전싹쓸이·7연승견인",
   "오락가락장마도못막았다…프로야구,역대최소경기800만관중돌파",
   "후반기도뜨거운프로야구,역대최소경기800만관중달성",
   "LGU+,IT투자액7.7%보안에썼다…\"정보보호는비용아닌투자\"",
@@ -6001,7 +5999,9 @@
   "중국AI모델에반도체·비트코인‘충격’…문샷AI상장성공할까",
   "이란\"스페인월드컵우승,美·이스라엘비판하는세계인에기쁨\"",
   "\"너무맛있어요\"다가짜였다…리뷰3만개로19억벌어들인일당적발",
-  "[직설]‘두가지축’을누가돌리나"
+  "[직설]‘두가지축’을누가돌리나",
+  "[비즈투데이]삼성,올해브랜드가치974억달러",
+  "[비즈투데이]KT,개인정보보호자문위첫회의"
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,13 @@
   [
    "2026-07-20T20:14:16.554690+09:00",
    "누가 돌리나 가지"
+  ],
+  [
+   "2026-07-20T20:20:27.598567+09:00",
+   "회의 자문위 ~KT 개인정보보호"
   ]
  ],
- "last_run": "2026-07-20T20:18:34.202697+09:00",
+ "last_run": "2026-07-20T20:20:49.238936+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
