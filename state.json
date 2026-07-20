@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244292",
-  "https://www.tokenpost.kr/news/international/379303",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469582",
   "https://www.gukjenews.com/news/articleView.html?idxno=3639977",
   "https://www.gukjenews.com/news/articleView.html?idxno=3639969",
@@ -2999,11 +2997,11 @@
   "https://www.ekn.kr/web/view.php?key=20260721022324211",
   "https://www.news2day.co.kr/article/20260721500013",
   "https://www.khgames.co.kr/news/articleView.html?idxno=306521",
-  "https://www.sedaily.com/article/20069734"
+  "https://www.sedaily.com/article/20069734",
+  "https://biz.heraldcorp.com/article/10814215",
+  "https://www.bntnews.co.kr/article/view/bnt202607210008"
  ],
  "seen_titles": [
-  "성남대표홈페이지,11년만에사용자중심전면개편",
-  "'키미K3충격'삼성·SK하이닉스엔호재?…\"HBM수요더커진다\"[IT썰]",
   "잡코리아,상반기채용분석…반도체신입채용47%증가",
   "투심흔든중국AI'키미'…딥시크쇼크재연일까[마켓무버의국장힌...",
   "삼성파운드리기대감확산…유안타證\"관련스몰캡주목\"",
@@ -6001,7 +5999,9 @@
   "[패트롤]수원시-용인시-화성시",
   "뉴욕증시,미·이란긴장속빅테크실적관망하며하락…나스닥0.05%↓",
   "[김한재의디지털인사이트]팬의기다림을책임지는IP운영이필요한...",
-  "M7파티끝나나…엔비디아내다판美개미들우르르몰려간종목은바..."
+  "M7파티끝나나…엔비디아내다판美개미들우르르몰려간종목은바...",
+  "구글,‘제미나이전용AI칩’만든다…기존TPU와는병행생산",
+  "엔비디아주가반등…하이닉스는하락"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,13 @@
   [
    "2026-07-21T06:48:18.480723+09:00",
    "내다 M7 우르르 몰려간 끝나나 파티 종목은 개미들"
+  ],
+  [
+   "2026-07-21T06:50:26.069392+09:00",
+   "주가 하이닉스는 반등 하락"
   ]
  ],
- "last_run": "2026-07-21T06:48:37.318798+09:00",
+ "last_run": "2026-07-21T06:50:50.294246+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
