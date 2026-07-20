@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1668530/?sc=Naver",
-  "https://biz.chosun.com/stock/stock_general/2026/07/20/Z3BADHSZ2FDIXDBY77SBJ2JT6M/",
-  "https://biz.heraldcorp.com/article/10813142",
-  "https://view.asiae.co.kr/article/2026062616565302401",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86671",
   "https://www.ajunews.com/view/20260619161716262",
   "https://www.chosun.com/economy/money/2026/06/23/ATM2INJMURFLDHQOK53RQ6KCK4/",
@@ -2999,13 +2995,13 @@
   "https://www.aitimes.com/news/articleView.html?idxno=212931",
   "https://www.munhwa.com/article/11603799",
   "https://www.fetv.co.kr/news/articleView.html?idxno=306725",
-  "https://www.g-enews.com/view.php?ud=202607210651384158fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202607210651384158fbbec65dfb_1",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=306697",
+  "https://www.newsis.com/view/NISX20260720_0003715801",
+  "https://www.news1.kr/industry/general-industry/6233185",
+  "http://www.econotelling.com/news/articleView.html?idxno=20935"
  ],
  "seen_titles": [
-  "대구광역시,\"전동보장구충전기점검...장애인이동안전강화한다\"",
-  "\"도의회동의안과달랐다\"...김태현의원,제주-칭다오항로협정검증...",
-  "LG,피지컬AI밸류체인성장성·개정상법수혜기대-iM證",
-  "연휴동안더식은글로벌AI랠리…한국증시방향성베팅'경계등'",
   "엔트로픽,메타와100억달러규모데이터센터용컴퓨팅파워임대협상",
   "NHN전사클로드도입...'에이전틱데이'개최",
   "[기고]전세계가활용할'AI팩토리',AIDC특화클러스터에답있다",
@@ -6001,7 +5997,11 @@
   "[7월20일]오픈AI는왜유명작가를불러한시간동안'쓴소리'를들었...",
   "“시위·집회정보,카톡으로받으세요”…종로구·KT,맞춤형알림톡...",
   "[통신사AI인프라전]④LG유플러스,'현금창출력'기반계열시너지'총...",
-  "메모리ETF'DRAM',엔비디아제쳤다…넉달만에2배급등"
+  "메모리ETF'DRAM',엔비디아제쳤다…넉달만에2배급등",
+  "[건설DC조직은]②현대건설,신설'센터팀'일본부터공략한다",
+  "'AI피크아웃'잠식된반도체…빅테크실적이분수령",
+  "슈퍼사이클에달라진SK실트론셈법,매각협상만7개월째…유턴하나",
+  "◇'삼전닉스레버리지ETF'출구는없을까"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,17 @@
   [
    "2026-07-21T07:00:40.346202+09:00",
    "메모리 ETF 급등 제쳤다 DRAM 2배 만에"
+  ],
+  [
+   "2026-07-21T07:02:19.048305+09:00",
+   "슈퍼사이클에 협상만 달라진 7개월째 SK실트론 셈법 유턴하나 매각"
+  ],
+  [
+   "2026-07-21T07:02:19.048305+09:00",
+   "레버리지 삼전닉스 없을까 ETF 출구는"
   ]
  ],
- "last_run": "2026-07-21T07:01:15.035689+09:00",
+ "last_run": "2026-07-21T07:02:40.195189+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
