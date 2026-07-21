@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/world/international-economy/6232476",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16079",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=205144",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640165",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/20/2026072000085.html",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41040",
-  "https://www.etoday.co.kr/news/view/2605135",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469663",
-  "https://www.youthdaily.co.kr/news/article.html?no=223300",
-  "https://www.news1.kr/it-science/general-it/6232605",
-  "https://www.mk.co.kr/article/12102193",
   "http://www.dailypop.kr/news/articleView.html?idxno=100642",
   "https://www.ddaily.co.kr/page/view/2026072009581175072",
   "https://www.cnbizm.com/news/articleView.html?idxno=308950",
@@ -2999,20 +2988,20 @@
   "https://www.kbmaeil.com/article/20260721500109",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000051076",
   "https://www.eroun.net/news/articleView.html?idxno=85852",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273292"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273292",
+  "http://www.maniareport.com/view.php?ud=2026072109353114626cf2d78c68_19",
+  "https://www.etoday.co.kr/news/view/2605524",
+  "https://sports.khan.co.kr/article/202607210936003?pt=nv",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252844&CMPT_CD=P0010",
+  "https://www.g-enews.com/view.php?ud=202607210930132124923c501012_1",
+  "https://www.joongangenews.com/news/articleView.html?idxno=534081",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6348",
+  "https://www.g-enews.com/view.php?ud=202607210926268268923c501012_1",
+  "https://www.dt.co.kr/article/12073792",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000051063",
+  "https://www.insight.co.kr/news/563827"
  ],
  "seen_titles": [
-  "AI,현장을바꾸다…산업부터일상서비스까지확산",
-  "“AI로유통현장바꾼다”…GS리테일,스타트업5곳과AX실험",
-  "반도체주가급락에도…글로벌반도체ETF에는자금몰려",
-  "KT알파“복날기업선물1위는치킨…백화점·마트상품권급성장”",
-  "젠슨황‘실착’가죽재킷,경매서14억원에낙찰",
-  "젠슨황'시그니처'가죽재킷…소더비경매서14억원에낙찰",
-  "445억해킹에도중징계불투명…두나무제재수위는?",
-  "롯데9회기적의동점타→\"나까지오면내갸해결해야지\"다짐→싹쓸이...",
-  "프로야구선수가운동장으로…북촌초'KBO찾아가는티볼교실'",
-  "[개장증시]코스피,'6515선'급락출발뒤외국인·기관사자전환속...",
-  "캐리어밀고차단선밑으로돌진...인천공항출국장서벌어진중국인...",
   "알파벳,'제미나이3.5프로'출시지연보도에주가하락",
   "AI데이터센터‘디지털SOC’부상…1조3000억달러투자에산업지도...",
   "‘드디어’LG전굴욕의역사청산,5년만에상대전적우위확정!자신...",
@@ -6001,7 +5990,18 @@
   "“코스피반등시도했지만다시밀렸다…외국인·기관‘팔자’에6500...",
   "장초반하락전환한코스피…6500선등락",
   "LG유플러스,에릭슨과손잡고네트워크기반보이스AI개발…글로벌시...",
-  "LG유플러스-에릭슨,'네트워크기반보이스AI'협력"
+  "LG유플러스-에릭슨,'네트워크기반보이스AI'협력",
+  "'롤러코스터타격'LG천성호,시즌첫2군행통보...재조정필요",
+  "'그대에게드림'황인엽ㆍ이혜리,욕실서눈맞춤엔딩⋯재회로맨스불...",
+  "‘오스틴파워’도힘빠지는LG물방방이,만루에서도선두타자안타...",
+  "부상복귀후.398,카스트로의'반전드라마'",
+  "키움증권,라이브데이터손잡고국내주식CLI·샘플코드공개",
+  "경기도,'2026경기스타트업서밋'참가기업모집…최대10년'혁신스타...",
+  "1세대블로그'이글루스',AI최적환경구축하며급성장",
+  "코스피,6500선회복후혼조세…방향성탐색",
+  "병주고약주는모건스탠리…“메모리주가약세는진입기회”",
+  "AI자원난항겪는구글,제미나이칩직접만든다",
+  "서울시,'따릉이'정보유출된462만명에개별통지...보상은?"
  ],
  "recent_sigs": [
   [
@@ -6441,7 +6441,7 @@
    "소식 ~LGU ~SKT LG유플러스 이동통신"
   ]
  ],
- "last_run": "2026-07-21T09:38:34.355448+09:00",
+ "last_run": "2026-07-21T09:40:48.271748+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
