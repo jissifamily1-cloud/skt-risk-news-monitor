@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12073643",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=141728",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=242740",
-  "https://www.aitimes.com/news/articleView.html?idxno=212938",
-  "https://www.viva100.com/article/20260720500946",
-  "https://www.thepublic.kr/news/articleView.html?idxno=311820",
-  "https://www.insight.co.kr/news/563745",
   "https://www.thepublic.kr/news/articleView.html?idxno=311802",
   "https://www.techm.kr/news/articleView.html?idxno=153487",
   "http://www.yonhapnewstv.co.kr/news/MYH202607191346335WC",
@@ -2999,16 +2992,16 @@
   "https://www.aitimes.com/news/articleView.html?idxno=212982",
   "https://www.econovill.com/news/articleView.html?idxno=745701",
   "https://biz.sbs.co.kr/article_hub/20000323641?division=NAVER",
-  "https://www.m-i.kr/news/articleView.html?idxno=1393523"
+  "https://www.m-i.kr/news/articleView.html?idxno=1393523",
+  "https://www.newsis.com/view/NISX20260721_0003716500",
+  "https://zdnet.co.kr/view/?no=20260721140128",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168474",
+  "https://www.dt.co.kr/article/12073872",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=92520",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000540884",
+  "https://www.hankyung.com/article/202607216575i"
  ],
  "seen_titles": [
-  "IFCN인증은JTBC뿐?학생들이기사쓰는'단비뉴스'새인증받아",
-  "하지원,韓배우최초펜웨이파크시구…美MLB보스턴vs볼티모어전",
-  "한국예탁결제원,차세대시스템1단계오픈…외화증권연중무휴처리",
-  "[KimiK3쇼크?혼돈의AI]①돈보다'효율',흔들리는AI시장의공식",
-  "中,딥시크이어'키미K3'로美AI추격…\"기술격차2~3개월\"[글로벌...",
-  "트럼프정부'AI규제완화'기조흔들…인적쇄신·부처갈등에'개입주...",
-  "최태원회장“기업역할확장⋯사회문제해결지속힘쓸터”",
   "KT,여름휴가철'동남아알뜰로밍'출시…그랩제휴할인도",
   "젠슨황상징'가죽재킷'경매서14억원에낙찰...예상가16배",
   "금감원,업비트해킹사고제재착수…두나무에검사의견서발송",
@@ -6001,7 +5994,14 @@
   "잘나가던'키미K3',컴퓨팅부족에발목잡히나",
   "삼성전자,로봇중심'원포인트개편'…미·중·일거점으로피지컬AI...",
   "반도체주반등…SK하이닉스·삼성전자장중6~7%대급등",
-  "'AI기본법'후속개정안전격시행…AI산업육성본격화"
+  "'AI기본법'후속개정안전격시행…AI산업육성본격화",
+  "인간의승리…바둑신진서,AI카타고에2승1패'역전승'",
+  "[현장]흥행여부가성적표...한국형챗GPT,이용자수로평가한다",
+  "美반도체훈풍속...일본증시'장중활짝',키옥시아'껑충'",
+  "中,자체칩으로AI데이터센터구축…美견제정면돌파",
+  "SKT,AI스타트업육성프로그램론칭…'기술·인프라·투자'총력지원",
+  "국립외교원해킹최대1만건유출…외교관정보‘줄줄’",
+  "野\"정부지원받는단체가가짜뉴스판단…입틀막법폐지해야\""
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,17 @@
   [
    "2026-07-21T14:04:17.783691+09:00",
    "연합뉴스서도 독립운동가의 국가기간뉴스통신사 선보여"
+  ],
+  [
+   "2026-07-21T14:08:18.789145+09:00",
+   "성적표 수로 여부가 한국형 챗GPT 흥행 이용자 평가한다"
+  ],
+  [
+   "2026-07-21T14:08:18.789145+09:00",
+   "입틀막법 판단 폐지해야 정부 단체가 지원받는 가짜뉴스"
   ]
  ],
- "last_run": "2026-07-21T14:06:37.439497+09:00",
+ "last_run": "2026-07-21T14:08:38.936827+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
