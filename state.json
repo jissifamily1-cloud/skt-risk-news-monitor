@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251439",
   "http://www.metroseoul.co.kr/article/20260720500284",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7174932",
   "http://www.iminju.net/news/articleView.html?idxno=166833",
@@ -2999,10 +2998,10 @@
   "https://www.koit.co.kr/news/articleView.html?idxno=208059",
   "https://www.ddaily.co.kr/page/view/2026071516330206161",
   "https://www.ytn.co.kr/_ln/0103_202607192228509227",
-  "https://www.tournews21.com/news/articleView.html?idxno=139016"
+  "https://www.tournews21.com/news/articleView.html?idxno=139016",
+  "http://news.ebs.co.kr/ebsnews/allView/60749597/N"
  ],
  "seen_titles": [
-  "[반도체따라잡기]'피크아웃'공포덮친반도체…약세장진입?",
   "중국AI'키미K3'성과앞세워미국의기술규제정조준,제2의딥시크...",
   "\"미래인재와기업을잇는다\"…디스플레이협회,22일부터코엑스서취업...",
   "대기업종속벗어나‘중소기업손잡고AI전환’…반월시화산단서‘...",
@@ -6001,7 +6000,8 @@
   "집합건물통신서비스'선택권'강화추진…건물관리주체도규제대상포...",
   "개보위,과징금산정에예방투자반영…AI특례·손배입증책임개편속...",
   "이번주최태원-노소영'세기의재산분할'파기환송심결론",
-  "화이트해커vsAI,이번엔진짜맞대결…서울서'코드게이트2026'막올..."
+  "화이트해커vsAI,이번엔진짜맞대결…서울서'코드게이트2026'막올...",
+  "기술로확장된장애예술…'미디어술래'개막"
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,13 @@
   [
    "2026-07-21T12:42:17.665971+09:00",
    "모두의 띄운 셈법 정부 기업 복잡해진"
+  ],
+  [
+   "2026-07-21T12:54:17.793720+09:00",
+   "개막 미디어 확장된 술래 장애예술 기술로"
   ]
  ],
- "last_run": "2026-07-21T12:52:33.362346+09:00",
+ "last_run": "2026-07-21T12:54:37.547634+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7038,6 +7042,7 @@
   "phmbc.co.kr": "포항MBC",
   "medicopharma.co.kr": "메디코파마",
   "medicaltimes.com": "메디칼타임즈",
-  "gosiweek.com": "gosiweek.com"
+  "gosiweek.com": "gosiweek.com",
+  "news.ebs.co.kr": "news.ebs.co.kr"
  }
 }
