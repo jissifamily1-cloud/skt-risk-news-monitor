@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.knn.co.kr/news/article/190272",
-  "http://www.phmbc.co.kr/www/news/desk_news?idx=203620",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431407",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640982",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640976",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640990",
   "https://www.gukjenews.com/news/articleView.html?idxno=3640986",
   "https://view.asiae.co.kr/article/2026072018293423612",
   "https://www.kyeongin.com/article/1767626",
@@ -2999,15 +2993,15 @@
   "http://www.fnnews.com/news/202607211807184738",
   "http://www.ttlnews.com/news/articleView.html?idxno=3126994",
   "http://www.fnnews.com/news/202607211806475826",
-  "https://www.hankyung.com/article/2026072176951"
+  "https://www.hankyung.com/article/2026072176951",
+  "https://www.busan.com/view/busan/view.php?code=2026072118093770334",
+  "https://www.hankyung.com/article/2026072175981",
+  "http://www.fnnews.com/news/202607211809214305",
+  "https://www.sentv.co.kr/article/view/sentv202607200158",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096243",
+  "https://www.khan.co.kr/article/202607211810011"
  ],
  "seen_titles": [
-  "\"비정상적\"메모리값…전자상가사장님도\"PC있으면바꾸지마\"",
-  "\"중국이또\"AI독립프로젝트'은하계획'출범",
-  "“결국미장이답이었나”삼전닉스내던지고미국지수ETF로…순매수...",
-  "포털추천맛집알고보니..영수증후기도조작",
-  "포항에2조원투자첫AI데이터센터착공..AI거점도약",
-  "한화,강백호옆구리부상으로1군말소…후반기반등에대형악재",
   "대구시달서구청,27일부터공공근로사업참여자67명모집...31일까지신...",
   "대구시달서구청,간부·신규임용자대상갑질예방·청렴교육실시",
   "대구시수성구,태권도선수단...전국대회서금·은·동메달쾌거",
@@ -6001,7 +5995,13 @@
   "SKT,AI스타트업15곳에멘토링·투자유치지원",
   "LG유플러스-에릭슨,글로벌보이스AI솔루션공동개발나선다",
   "KT에스테이트'리마크빌종로'...도생·오피스텔505가구임대공급",
-  "국립외교원교육서버해킹,韓외교관신상전원털려"
+  "국립외교원교육서버해킹,韓외교관신상전원털려",
+  "[홍순연의도시공감]보존과활용의완충지대,부산",
+  "칩에서'서버랙'단위로…AI공급망판도바뀐다",
+  "미래에셋,액티브ETF상장...美AI혁신기업에집중투자",
+  "주목받는문샷AI'키미K3'···시험대오른韓AI",
+  "종로구-KT,맞춤형알림톡서비스...\"시위·집회정보,카톡으로받으세...",
+  "[사설]이번엔외교원해킹,피해규모조차모른다니"
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,17 @@
   [
    "2026-07-21T18:10:30.197309+09:00",
    "지원 ~SKT 스타트업 투자유치 15곳에 멘토링"
+  ],
+  [
+   "2026-07-21T18:12:17.693775+09:00",
+   "오른 받는 K3 키미 시험대 주목 문샷AI"
+  ],
+  [
+   "2026-07-21T18:12:17.693775+09:00",
+   "외교원 규모조차 이번엔 피해 모른다니"
   ]
  ],
- "last_run": "2026-07-21T18:10:47.832481+09:00",
+ "last_run": "2026-07-21T18:12:40.194846+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
