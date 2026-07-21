@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6550355",
-  "https://news.jtbc.co.kr/article/NB12309174?influxDiv=NAVER",
-  "https://www.ytn.co.kr/_ln/0134_202607201559210845",
-  "http://www.inews24.com/view/1985069",
-  "https://www.viva100.com/article/20260720501147",
-  "https://www.news1.kr/it-science/internet-platform/6233075",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469803",
-  "https://biz.chosun.com/it-science/ict/2026/07/20/BU2FQ2GM5BB2VBRKBPW5Z3XF7A/",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41033",
-  "https://www.seoulfn.com/news/articleView.html?idxno=633693",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640624",
   "https://www.gukjenews.com/news/articleView.html?idxno=3640634",
   "https://daily.hankooki.com/news/articleView.html?idxno=1387304",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5042504",
@@ -2999,20 +2988,20 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1387703",
   "https://www.todayeconomic.com/news/article.html?no=31370",
   "http://www.joseilbo.com/news/news_read.php?uid=572303&class=17",
-  "http://www.boannews.com/media/view.asp?idx=144776&kind=1"
+  "http://www.boannews.com/media/view.asp?idx=144776&kind=1",
+  "http://www.fnnews.com/news/202607211434293596",
+  "https://zdnet.co.kr/view/?no=20260714163725",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3641926",
+  "https://www.naeil.com/news/read/596019",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312444",
+  "https://www.ppss.kr/news/articleView.html?idxno=302725",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/16/2026071600051.html",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2289395",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260721.99099006196",
+  "https://www.viva100.com/article/20260721500680",
+  "https://www.viva100.com/article/20260721500092"
  ],
  "seen_titles": [
-  "세계1위수익률이었는데...'세계꼴찌'로추락한코스피",
-  "KT개인정보보호자문위원회첫정기회의…고객중심보호체계",
-  "'AI안경몰카'와'미토스해킹'시대...'AI윤리지침'LG-유네스코공...",
-  "\"형체알아볼수없을정도\"...후원금쌓일수록구타하는'맞방'[자막뉴...",
-  "정부,무선국준공검사이통사에이양…\"무선국안정화판단...수수료·...",
-  "“독자AI,산업경쟁력강화와프런티어모델개발병행해야”",
-  "배경훈\"中AI도결국폐쇄형갈것…한국,독자AI확보해야\"",
-  "코스피,4%넘게급락해6510선마감...삼성전자·SK하이닉스4%대동반...",
-  "[비즈톡톡]KT그룹보안평가S등급받은KTis…보안취약점조치율1년...",
-  "SKT-하나금융그룹,'TECH4GOOD해커톤'성료…포용적미래를위한AI서...",
-  "삼성SDS,레니게이드기반NPU클라우드'승부수'",
   "논산시,2027년정부예산목표...단계별맞춤형전략수립총력전개시...",
   "민선9기전주시장직인수위원회활동'종료'입장문내놔",
   "예탁결제원,차세대시스템1단계사업완료...외화증권지원·증권대행...",
@@ -6001,7 +5990,18 @@
   "SKT·KT·LGU+,정보보호투자'활활'…전략고도화",
   "LG유플러스-에릭슨,네트워크기반보이스AI공동개발…글로벌시장...",
   "LG유플러스익시오,앱밖으로나온다…에릭슨과통신망기반AI개발",
-  "韓외교관전원해킹추정...최대1만건유출"
+  "韓외교관전원해킹추정...최대1만건유출",
+  "배경훈,통신3사CEO23일회동…AIDC육성힘합친다",
+  "'몰카안경'논란메타AI글래스,이통3사도판다는데",
+  "전남,6년간'아기유니콘'선정0%…의회\"창업지원체계강화해야\"",
+  "경과원‘경기스타트업서밋’참가기업모집",
+  "함샤우트글로벌'AIBAAI인용지수인사이트리포트'창간호발표",
+  "\"재외공관·정보요원명단까지노출?\"…국립외교원뚫려외교인력'비상...",
+  "김종철방미통위위원장,YTN매각취소처분심사서빠진다",
+  "외교관개인정보최대1만건유출…국립외교원시스템해킹",
+  "국립외교원해킹으로외교관신상정보유출우려",
+  "임기만료앞둔경제단체수장들…최태원‘용퇴’·류진‘고심’",
+  "[데스크칼럼]AI전쟁의두얼굴"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,17 @@
   [
    "2026-07-21T15:20:25.804473+09:00",
    "LG유플러스 기반 에릭슨과 익시오 개발 밖으로 나온다 ~LGU 통신망"
+  ],
+  [
+   "2026-07-21T15:22:17.005146+09:00",
+   "임기 수장들 고심 류진 앞둔 만료 경제단체 용퇴"
+  ],
+  [
+   "2026-07-21T15:22:17.005146+09:00",
+   "전쟁의 얼굴"
   ]
  ],
- "last_run": "2026-07-21T15:20:54.064236+09:00",
+ "last_run": "2026-07-21T15:22:40.697805+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
