@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273236",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206867",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851108",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1716935",
-  "https://www.cnbizm.com/news/articleView.html?idxno=308955",
-  "https://zdnet.co.kr/view/?no=20260720104838",
   "https://www.gokorea.kr/news/articleView.html?idxno=872522",
   "http://www.4th.kr/news/articleView.html?idxno=2114937",
   "https://www.chosun.com/economy/tech_it/2026/07/20/JY6JP367PFC3FPWRNLN7TLOTYI/",
@@ -2999,15 +2993,15 @@
   "https://www.etnews.com/20260721000068",
   "https://www.etoday.co.kr/news/view/2605504",
   "http://www.fnnews.com/news/202607210944018900",
-  "https://www.eroun.net/news/articleView.html?idxno=85853"
+  "https://www.eroun.net/news/articleView.html?idxno=85853",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3641354",
+  "https://www.techm.kr/news/articleView.html?idxno=153521",
+  "https://biz.heraldcorp.com/article/10814517",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4425776",
+  "https://www.newscj.com/news/articleView.html?idxno=3418509",
+  "https://www.newsis.com/view/NISX20260721_0003716398"
  ],
  "seen_titles": [
-  "아이스크림에듀,AI유튜브채널'뚜루마리'오픈",
-  "이번엔'문샷쇼크'…中공짜AI발코스피파장어디까지",
-  "장초반...중국증시&홍콩증시'급등출발',알리바바'활짝'",
-  "KT,대만·베트남·필리핀·태국등동남아6개국'알뜰로밍·그랩'프로...",
-  "KT,여름휴가철'동남아알뜰로밍'출시…그랩할인혜택도제공",
-  "거버넌스포럼\"SK하이닉스호남반도체팹,LG엔솔IPO악몽되풀이우려...",
   "김건희대법원판결여론,전화면접유죄70.4%·ARS57.0%(여론조사꽃...",
   "[EE칼럼]MMR시대,민간이주역이어야한다",
   "쿠팡인천물류센터대형화재…5년전안전투자이번엔제대로작동했...",
@@ -6001,7 +5995,13 @@
   "소울소프트,'재다바디X8'와디즈펀딩성공…글로벌및온·오프라인...",
   "대만TSMC,美에1000억달러추가투자확정⋯삼성전자에는‘위기와기...",
   "모건스탠리\"메모리株조정은매수기회\"",
-  "[이로운상생]SKT,AI스타트업육성프로그램'SKTCHwithAI'출범…15개..."
+  "[이로운상생]SKT,AI스타트업육성프로그램'SKTCHwithAI'출범…15개...",
+  "제주교육청,학교외부인출입관리강화…학생안전망촘촘",
+  "[글로벌]CIA,UAEG42의'중국기술배제'관여...화웨이철거후엔비디...",
+  "‘삼천스닥’간다더니…바닥없는코스닥,730선대또급락[투자360]",
+  "\"스페이스X다음,오픈AI·앤트로픽\"…미래에셋,美NYSE100액티브ETF",
+  "AI기본법후속개정안시행…'안전성·산업육성'본격가동",
+  "KT에스테이트,10번째임대주택'리마크빌종로'선봬…505세대공급"
  ],
  "recent_sigs": [
   [
@@ -6461,7 +6461,7 @@
    "기존 검토 활용 앞질러 코드 공동창업자 속도 니어"
   ]
  ],
- "last_run": "2026-07-21T09:50:47.435867+09:00",
+ "last_run": "2026-07-21T09:52:33.657961+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
