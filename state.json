@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12103173",
-  "https://biz.heraldcorp.com/article/10814861",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=52601",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3641543",
-  "https://www.electimes.com/news/articleView.html?idxno=370483",
-  "https://www.gosiweek.com/article/1065579424157664",
-  "https://www.mydaily.co.kr/page/view/2026072109412477581",
-  "https://biz.heraldcorp.com/article/10814870",
-  "https://www.sportsseoul.com/news/read/1623649",
   "https://view.asiae.co.kr/article/2026072111261103206",
   "https://www.starnewskorea.com/sports/2026/07/21/2026072111102513441",
   "https://www.newsis.com/view/NISX20260721_0003716767",
@@ -2999,18 +2990,18 @@
   "http://www.beyondpost.co.kr/view.php?ud=20260722082022217946a9e4dd7f_30",
   "https://view.asiae.co.kr/article/2026072208230525397",
   "https://www.dailian.co.kr/news/view/1669417/?sc=Naver",
-  "https://www.ajunews.com/view/20260722080850360"
+  "https://www.ajunews.com/view/20260722080850360",
+  "https://zdnet.co.kr/view/?no=20260721112059",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312565",
+  "https://www.newspim.com/news/view/20260722000081",
+  "https://www.newspim.com/news/view/20260722000085",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717223",
+  "https://www.kpinews.kr/newsView/1065568406301780",
+  "https://www.newspim.com/news/view/20260721000424",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568865718023",
+  "https://www.newspim.com/news/view/20260722000079"
  ],
  "seen_titles": [
-  "지투지,스파이더코어와'장기지속R&D'AI도입계약",
-  "정재헌SKTCEO가추천한AI도서는?",
-  "KoreanAIstartupCorcanamedOpenAISelectPartner",
-  "배경훈·통신3사CEO‘AI데이터센터인프라’힘모은다",
-  "넥서스에이아이랩스AI미니앱,앱인토스출시초기9위···글로벌확장...",
-  "박용갑의원,허태정시장에충남대병원역량강화사업시비48억원편성...",
-  "LG유플러스,에릭슨과AI네트워크개발협력…AI에이전트만든다",
-  "엑스온,2026-07-13-주간인천치과AI검색추천지수발표",
-  "정부가떠민‘5G’…연말개통앞두고이행지표‘깜깜이’",
   "‘보이스AI개발’LGU+·에릭슨손잡았다",
   "위기에빠진‘디펜딩챔피언’LG,‘NC·한화·키움’까다로운9연전...",
   "\"주주환원외면하는현대차\"…거버넌스포럼이제시한해법은",
@@ -6001,7 +5992,16 @@
   "데이원컴퍼니패스트캠퍼스,직장인대상'2026AX스킬러톤'개최",
   "볼보자동차코리아,차세대순수전기플래그십'ES90'출시",
   "메모리·GPU·AI수장한자리에…이재용·최태원·이해진,젠슨황과회...",
-  "이재용·최태원·이해진,美서젠슨황만난다…'AI피크아웃'우려씻어..."
+  "이재용·최태원·이해진,美서젠슨황만난다…'AI피크아웃'우려씻어...",
+  "정재헌SK텔레콤CEO가추천한AI도서는?",
+  "[최태원·노소영재판장면들②]최태원을기자회견장에세운'100원'",
+  "[미국특징주]\"오클로·엑스에너지,행정부원자로가속사업동참\"",
+  "[미국특징주]알파벳2분기실적프리뷰...제미나이연기·설비투자우...",
+  "[원자재시황]유가강세에도안전·위험자산상승",
+  "\"'LG전자·미래에셋투자'中애지봇,자국산칩탑재\"",
+  "현대차노조,40년중30년파업…463일동안공장멈췄다",
+  "신한카드·SKT·KCB·이민정책연구원,데이터기반이민정책수립손잡...",
+  "[중국특징주]\"문샷AI,몸값500억달러로상장전마지막펀딩추진\""
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,13 @@
   [
    "2026-07-22T08:22:17.143203+09:00",
    "60명 신규 사업 확장 메모리 SK하이닉스 서도 채용"
+  ],
+  [
+   "2026-07-22T08:28:18.235283+09:00",
+   "펀딩 몸값 마지막 상장 500억달러로 문샷AI"
   ]
  ],
- "last_run": "2026-07-22T08:26:39.780146+09:00",
+ "last_run": "2026-07-22T08:28:36.531760+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
