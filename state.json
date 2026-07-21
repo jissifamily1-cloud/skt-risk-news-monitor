@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260720160730132",
-  "https://www.newsis.com/view/NISX20260720_0003715669",
-  "https://www.mt.co.kr/industry/2026/07/17/2026071714350390461",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166105",
-  "http://www.fnnews.com/news/202607201619214246",
-  "https://news.jtbc.co.kr/article/NB12309182?influxDiv=NAVER",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260720010007054",
-  "https://www.busan.com/view/busan/view.php?code=2026072016022503672",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442646",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267152",
   "https://biz.heraldcorp.com/article/10814013",
   "https://biz.chosun.com/stock/stock_general/2026/07/20/MAQPVQAWAJG4DN7EZD7EIGKURU/",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04559206645516816",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450289",
   "https://www.cbci.co.kr/news/articleView.html?idxno=590688",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307740&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1307740&inflow=N",
+  "https://www.aitimes.com/news/articleView.html?idxno=212940",
+  "http://www.newstomato.com/ReadNews.aspx?no=1307389&inflow=N",
+  "https://imnews.imbc.com/replay/2026/nw1400/article/6838657_36974.html",
+  "https://www.kgnews.co.kr/news/article.html?no=904552",
+  "https://www.bloter.net/news/articleView.html?idxno=668551",
+  "https://biz.chosun.com/international/international_economy/2026/07/21/224N2LEJLFDIBKEMBLLWFMUZLI/",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872686",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=242822",
+  "http://www.newstomato.com/ReadNews.aspx?no=1307736&inflow=N"
  ],
  "seen_titles": [
-  "\"비폭력시대끝났다\"…강경반AI지도자잠적에오픈AI'안전비상'",
-  "네이버이해진·최수연,캐나다브룩필드방문…조단위AI투자협의...",
-  "MS도샀지만인텔은3.7배…美개미,AI인프라주로눈돌렸다",
-  "AI가경영하는시대온다…뤼튼AX대표\"기업들데이터'철도'깔아야\"",
-  "中전기차지커,보안인증에발목…출고일정'미정'",
-  "\"외교부산하기관9개월간해킹몰랐다\"...쿠팡처럼개인정보유출우려",
-  "정부·홈쇼핑·중소기업\"홈쇼핑상생협력\"공동선언",
-  "속도론된청소년SNS규제…실효성확보가과제",
-  "결국답은‘방망이’…쳐야이긴다",
   "헝가리새정부중국배터리·전기차겨냥환경규제강화,현대차와K배...",
   "예탁결제원,차세대시스템1단계가동…'G-SAFE·K-TA'오픈",
   "中AI충격에중동리스크까지…코스피6500선후퇴,코스피·코스닥동...",
@@ -6001,7 +5992,16 @@
   "\"거짓말쟁이AI꼼짝마\"…'AI답변검증'해법찾은KB국민은행과티냅스",
   "정부·홈쇼핑·중소기업,상생협력약속···\"성장플랫폼추진\"",
   "[속보]효성ITX,SK텔레콤과2,527억원규모코로케이션서비스계약체...",
-  "최태원·류진,잇단‘우려’표명…‘N%성과급’논쟁재점화?"
+  "최태원·류진,잇단‘우려’표명…‘N%성과급’논쟁재점화?",
+  "SKT,하나금융과AI로사회적약자돕는'테크포굿'해커톤진행",
+  "B2BG로승부…통신3사,공공·국방공략속도",
+  "[이슈+]'세기의이혼'이번주마침표?‥SK분할시점따라'5배'차이",
+  "LGU+,에릭슨과네트워크기반음성AI공동개발",
+  "'지배주주와소액주주사이'현대차이사회에쏠린눈",
+  "“더오른다”對“AI거품”정면충돌…美주식공매도잔액사상최...",
+  "외교부사이버보안취약점드러나다…최대1만명정보유출의혹",
+  "여야,'선관위특검법'합의...국민추천위서특검후보추천外[오늘의...",
+  "TSMC,애리조나에140조더붓는다…미반도체투자전가열"
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,13 @@
   [
    "2026-07-21T15:48:17.860934+09:00",
    "우려 논쟁 류진 성과급 재점화 표명 잇단"
+  ],
+  [
+   "2026-07-21T15:50:30.474399+09:00",
+   "애리조나에 반도체 가열 140조 붓는다 투자전 TSMC"
   ]
  ],
- "last_run": "2026-07-21T15:48:41.291577+09:00",
+ "last_run": "2026-07-21T15:50:48.468734+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
