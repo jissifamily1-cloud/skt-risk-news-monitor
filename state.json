@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404521",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155340",
-  "https://edu.donga.com/news/articleView.html?idxno=110117",
   "https://news.bizwatch.co.kr/article/finance/2026/07/20/0006",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=847681",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03519446645516816",
@@ -2999,12 +2996,12 @@
   "http://www.osen.co.kr/article/G1112843946",
   "https://www.news2day.co.kr/article/20260722500011",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717204",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616694"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616694",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=189984",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260722064934mPA",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633810"
  ],
  "seen_titles": [
-  "모건스탠리\"메모리반도체공급부족2028년까지심화…조정은매수기...",
-  "\"AI스타트업여기여기모여라\"...SKT,'SKTCHwithAI'프로그램론칭",
-  "SKT,AI스타트업발굴육성위한'SKTCHwithAI'참가기업모집",
   "SKT,AI스타트업육성프로그램론칭…15개사선발예정",
   "SK텔레콤,AI스타트업육성프로그램'SKTCHwithAI'출범…15개기업선...",
   "NE능률엔이티처,중·고등영어교사대상'바이브코딩'무료실습세미...",
@@ -6001,7 +5998,10 @@
   "AG대표팀탈락→2개월재활→7월10경기5홈런폭발...비결은“대충치...",
   "뉴욕증시,반도체주반등·기업호실적에상승마감…나스닥1.29%↑",
   "\"AI패권굳힌다\"엔비디아,차세대'베라루빈'본격양산…AMD·빅테크...",
-  "오픈AI,IPO앞두고상장금융사CEO2명이사로영입"
+  "오픈AI,IPO앞두고상장금융사CEO2명이사로영입",
+  "[AI프리즘]중국스타트업의역습과스페이스X의휘청임",
+  "[글로벌증시]뉴욕증시,실적호조·반도체주반등에상승",
+  "[뉴욕증시]\"전쟁불안보다실적기대\"반도체랠리···SK하닉14%급등"
  ],
  "recent_sigs": [
   [
@@ -6153,7 +6153,7 @@
    "굳힌다 AMD 패권 빅테크 본격 차세대 양산 베라 루빈"
   ]
  ],
- "last_run": "2026-07-22T06:50:46.145962+09:00",
+ "last_run": "2026-07-22T06:52:38.764644+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
