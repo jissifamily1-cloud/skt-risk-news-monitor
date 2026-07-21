@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/world/international-economy/6233429",
-  "https://www.sedaily.com/article/20069639",
   "https://www.sedaily.com/article/20069558",
   "https://www.news1.kr/it-science/internet-platform/6233290",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685464",
@@ -2999,11 +2997,11 @@
   "https://www.g-enews.com/view.php?ud=202607212059199803112616b072_1",
   "https://www.tokenpost.kr/news/breaking/379885",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008667982&plink=ORI&cooper=NAVER",
-  "http://www.osen.co.kr/article/G1112843769"
+  "http://www.osen.co.kr/article/G1112843769",
+  "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html?partner=naver",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616411"
  ],
  "seen_titles": [
-  "中AI급부상에놀란美…기업사용제한·제재카드검토",
-  "지정학적균열뚫는과학자연대…“AI미래,美·中대립넘어글로벌...",
   "AMD,첫랙형AI시스템'헬리오스'연내출시…신규고객으로마이크로...",
   "미국반도체주반등시도…\"AI랠리끝난것아니다\"",
   "5000명몰린해커톤…최종6명에채용연계",
@@ -6001,13 +5999,11 @@
   "HPE,슈퍼컴퓨팅개발환경통합…소버린AI인프라간소화",
   "비트디어6월BTC채굴량990개…전년比388%증가",
   "해킹된채로10개월을…외교관등1만명정보'탈탈'",
-  "비가와도KT아웃송댄스는계속,리센느메이-리브[O!SPORTS숏폼]"
+  "비가와도KT아웃송댄스는계속,리센느메이-리브[O!SPORTS숏폼]",
+  "WilltheU.S.andChinaBuildWallsAroundA.I.?",
+  "외교관정보최대1만건유출…10개월동안몰랐다"
  ],
  "recent_sigs": [
-  [
-   "2026-07-21T15:08:18.547784+09:00",
-   "한글처럼 서비스 목표 AI도 정부 출시 전국민 무료 연내"
-  ],
   [
    "2026-07-21T15:14:17.794041+09:00",
    "2라운드 접어든 성능보다 전쟁 AI칩 경쟁 비용"
@@ -6517,7 +6513,7 @@
    "10개월을 채로 정보 탈탈 외교관 1만 해킹된"
   ]
  ],
- "last_run": "2026-07-21T21:08:36.294803+09:00",
+ "last_run": "2026-07-21T21:10:43.067631+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
