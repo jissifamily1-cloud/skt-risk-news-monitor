@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685464",
-  "https://www.mediapen.com/news/view/1111144",
   "https://www.g-enews.com/view.php?ud=202607202006418442bd56fbc3c_1",
   "https://www.segye.com/newsView/20260721502110?OutUrl=naver",
   "https://www.hani.co.kr/arti/opinion/because/1269130.html",
@@ -2999,11 +2997,11 @@
   "https://www.nytimes.com/2026/07/21/business/dealbook/us-china-ai-limits.html?partner=naver",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616411",
   "https://sports.khan.co.kr/article/202607212110006?pt=nv",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851570"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851570",
+  "https://www.cstimes.com/news/articleView.html?idxno=714153",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616412"
  ],
  "seen_titles": [
-  "5000명몰린해커톤…최종6명에채용연계",
-  "AI투자경쟁의그림자…미국빅테크‘숨은빚’2455조원",
   "美·中AI패권경쟁에낀韓…AI중립국길걷는다",
   "허깅페이스,내부침해사고분석에상용프런티어모델대신GLM5.2사용...",
   "[美증시특징주]AMD,AI시스템'헬리오스'MS대규모공급확정…4일만...",
@@ -6001,13 +5999,11 @@
   "WilltheU.S.andChinaBuildWallsAroundA.I.?",
   "외교관정보최대1만건유출…10개월동안몰랐다",
   "깨진한화‘독수리방패’…마운드아킬레스건다시노출",
-  "국립외교원해킹...외교인력개인정보대거유출"
+  "국립외교원해킹...외교인력개인정보대거유출",
+  "인천대,'피지컬AI산업선도'인재양성허브구축및'동북아평화포...",
+  "북한해킹조직이노렸나…‘요원노출·표적피싱’우려"
  ],
  "recent_sigs": [
-  [
-   "2026-07-21T15:14:17.794041+09:00",
-   "2라운드 접어든 성능보다 전쟁 AI칩 경쟁 비용"
-  ],
   [
    "2026-07-21T15:18:17.311484+09:00",
    "육성 with ~SKT 스타트업 모집 프로그램 SKTCH"
@@ -6511,9 +6507,13 @@
   [
    "2026-07-21T21:06:18.195070+09:00",
    "10개월을 채로 정보 탈탈 외교관 1만 해킹된"
+  ],
+  [
+   "2026-07-21T21:16:20.632339+09:00",
+   "북한 우려 노렸나 표적 요원 노출 해킹조직이 피싱"
   ]
  ],
- "last_run": "2026-07-21T21:14:36.835160+09:00",
+ "last_run": "2026-07-21T21:16:38.588752+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
