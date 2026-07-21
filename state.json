@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008665351&plink=ORI&cooper=NAVER",
-  "https://www.mk.co.kr/article/12102346",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=847488",
   "https://biz.heraldcorp.com/article/10813722",
   "https://m.sports.naver.com/basketball/article/065/0000299869",
@@ -2999,11 +2997,11 @@
   "https://www.koit.co.kr/news/articleView.html?idxno=208075",
   "https://biz.heraldcorp.com/article/10814898",
   "https://www.techm.kr/news/articleView.html?idxno=153530",
-  "https://www.ajunews.com/view/20260721110759128"
+  "https://www.ajunews.com/view/20260721110759128",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240497",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685583"
  ],
  "seen_titles": [
-  "새마을금고중앙회,금융권보안사고잇따르자‘출근길캠페인’…보...",
-  "\"실전형사이버보안인재키운다\"토스뱅크,8월17일까지'엔지니어부트...",
   "외교부국립외교원,온라인교육시스템해킹당해…시스템긴급차단",
   "거버넌스포럼“최태원회장,자본주의원칙부터스스로지켜야”",
   "[#통신풍향계]SKT'휴가철통신품질관리'·KT'신속복구체계'가동...",
@@ -6001,7 +5999,9 @@
   "'모두의AI'연내출격…정부,전국민AI서비스시대연다",
   "피지컬AI승부수던진삼성…제2로보틱스M&A예고",
   "SKT·KT·LG유플러스,\"일자리창출도상생도해외진출도AI로\"",
-  "KT에스테이트,리마크빌10주년맞아'리마크빌종로'개관…505가구8월..."
+  "KT에스테이트,리마크빌10주년맞아'리마크빌종로'개관…505가구8월...",
+  "갤럭시언팩D-1,이통3사사전예약혜택경쟁'눈길'",
+  "그레이스케일,월드코인현물ETF추진…美SEC·나스닥승인남아"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,17 @@
   [
    "2026-07-21T11:32:16.738392+09:00",
    "~SKT 창출도 일자리 ~KT 상생도 진출도 AI로 ~LGU 해외 LG유플러스"
+  ],
+  [
+   "2026-07-21T11:34:18.509852+09:00",
+   "눈길 사전예약 갤럭시 이통3사 언팩 혜택 경쟁"
+  ],
+  [
+   "2026-07-21T11:34:18.509852+09:00",
+   "나스닥 승인 SEC 남아 월드코인 ETF 현물 그레이스케일"
   ]
  ],
- "last_run": "2026-07-21T11:32:38.485065+09:00",
+ "last_run": "2026-07-21T11:34:42.317242+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
