@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607201314026920",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105238",
-  "https://www.electimes.com/news/articleView.html?idxno=370441",
-  "https://www.sedaily.com/article/20069449",
-  "https://www.newscj.com/news/articleView.html?idxno=3418278",
-  "https://www.kyeongin.com/article/1767554",
-  "https://news.jtbc.co.kr/article/NB12309136?influxDiv=NAVER",
-  "https://www.ddaily.co.kr/page/view/2026072012105739452",
   "https://www.itdaily.kr/news/articleView.html?idxno=240469",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01177526645516160",
   "https://www.gukjenews.com/news/articleView.html?idxno=3640325",
@@ -2999,17 +2991,17 @@
   "https://biz.heraldcorp.com/article/10814732",
   "https://www.yna.co.kr/view/AKR20260721081200004?input=1195m",
   "https://biz.heraldcorp.com/article/10814731",
-  "https://www.theguru.co.kr/news/article.html?no=104680"
+  "https://www.theguru.co.kr/news/article.html?no=104680",
+  "http://www.spochoo.com/news/articleView.html?idxno=127745",
+  "https://www.medigatenews.com/news/1532959150",
+  "https://www.hankyung.com/article/202607216358H",
+  "http://www.iminju.net/news/articleView.html?idxno=166884",
+  "https://www.welfarenews.net/news/articleView.html?idxno=208645",
+  "https://view.asiae.co.kr/article/2026072110100094057",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360564",
+  "https://www.chosun.com/economy/tech_it/2026/07/21/W5TIIEWVVFBQDI2KMIL4K3HQ44/"
  ],
  "seen_titles": [
-  "(사)한국장에인마이스협회,황태성정책위원장...지역장애인일자리창...",
-  "엔씨'아이온2'글로벌출격,\"MMORPG의왕도를지키고싶다\"",
-  "'딥시크이어키미,이번엔큐원'…中AI,미국턱밑까지왔다",
-  "미래에셋생명공덕시대'韓버크셔'가속",
-  "\"발전社통합은관치강화…판매분할부터\"발전분할설계자의직언",
-  "“이건아무도예상못했다”…1500만원짜리가14억원에팔려,무슨일?",
-  "전남광주특별시의회노소영의원,진월IC주민불편점검…교통개선...",
-  "[굿모닝위즈·87]4승이상의가치…4연속선발승",
   "'대륙의실력'이번엔AI?…중국'키미K3'에미반도체주철렁",
   "시스코\"미토스사태,보안넘어IT자산의문제…회복탄력성확보해야...",
   "\"휴가철해외여행객잡아라\"…이통3사,로밍혜택경쟁",
@@ -6001,7 +5993,15 @@
   "[사설]‘규제프리존’,신산업키우고지역경제살릴돌파구",
   "종로구·KT,27일부터'시위·집회알림톡'시범운영",
   "[데스크칼럼]대통령의90도인사와단군이래최대투자",
-  "일론머스크,'520억달러'스페이스X·엔비디아GPU거래반박"
+  "일론머스크,'520억달러'스페이스X·엔비디아GPU거래반박",
+  "랜더스필드외야에물대포팡팡!SSG랜더스,28~30일'랜필썸머페쓱티...",
+  "대구경북첨단의료산업진흥재단,상반기성과점검및하반기AI전환로...",
+  "타일러'밀실모임'폭로후돌연유튜브중단",
+  "[산업계동향]한컴·이스트에이드·LG전자",
+  "보건복지부·한국사회복지협의회,전국상의와손잡고'복지사각지대'...",
+  "[사설]AI시대산업정책,근본적재편시급하다",
+  "네이버이해진,캐나다·미국行…'AI팩토리'투자유치나서나",
+  "‘키미K3’추격에빗장거는미국,중국AI사용금지검토"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-07-21T11:08:18.225028+09:00",
    "스페이스X 머스크 일론 GPU 거래 520억 달러 반박"
+  ],
+  [
+   "2026-07-21T11:10:27.726679+09:00",
+   "추격에 금지 검토 사용 빗장 키미 미국 K3 중국 거는"
   ]
  ],
- "last_run": "2026-07-21T11:08:43.254708+09:00",
+ "last_run": "2026-07-21T11:10:45.240568+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
