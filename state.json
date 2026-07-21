@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=20260720095121442144093b5d4e_1",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168395",
-  "https://www.sedaily.com/article/20069335",
-  "https://www.sedaily.com/article/20069330",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200152",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=226899",
-  "https://www.mk.co.kr/article/12102136",
-  "https://ditoday.com/60%eb%aa%85-%ec%84%9c%eb%b0%94%ec%9d%b4%eb%b2%8c-%ed%95%b4%ec%bb%a4%ed%86%a4-ax-%ec%9d%b8%ec%9e%ac%ec%a0%84%ec%9f%81-%ec%84%b1%eb%a3%8c/",
-  "https://www.yna.co.kr/view/AKR20260719041951003?input=1195m",
-  "https://www.sedaily.com/article/20069342",
   "http://www.srtimes.kr/news/articleView.html?idxno=207803",
   "https://view.asiae.co.kr/article/2026071814242998503",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5206636",
@@ -2999,19 +2989,19 @@
   "https://isplus.com/article/view/isp202607210030",
   "https://www.gukjenews.com/news/articleView.html?idxno=3641256",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450492",
-  "https://www.etoday.co.kr/news/view/2605466"
+  "https://www.etoday.co.kr/news/view/2605466",
+  "https://www.bntnews.co.kr/article/view/bnt202607210067",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3641233",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3641241",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3641210",
+  "https://thetracker.co.kr/View.aspx?No=4155357",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89164",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82669",
+  "http://www.datanews.co.kr/news/article.html?no=145655",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=469966",
+  "https://www.newsis.com/view/NISX20260721_0003716244"
  ],
  "seen_titles": [
-  "대구시수성구청,청년대상현직자특강개최...SNS·AI등3개분야진...",
-  "다비다·SCG와'AI-powered해커톤'공동추진",
-  "\"중국AI스타트업'문샷',6개월내홍콩증시상장추진\"...블룸버그통...",
-  "\"개발자아니어도AI자동화\"…쿠콘,'AI데이터플랫폼'전환",
-  "현대차정몽구재단,AI활용‘사회복지인재’육성앞장",
-  "코스피,AI버블론에6700선후퇴…삼전·닉스엇갈린흐름",
-  "하정우“AI발고용감소는필연적…청년·지방에초과세수투자해야”",
-  "하정우\"AI,핵무기처럼전략자산화...韓메모리반도체,강력한카드\"",
-  "하정우\"AI시대고용감소불가피…양극화대비해야\"",
-  "KT,동남아로밍2만5000원에7일제공…그랩최대10만원할인",
   "'정형데이터AI개발사'넘즈에이아이,40억투자유치…스톤브릿지벤...",
   "넘즈에이아이,정형데이터파운데이션모델로40억원투자유치",
   "[포토]대구시수성구청,200여명대상찾아가는복지상담소운영",
@@ -6001,7 +5991,17 @@
   "[IS피플]퓨처스리그씹어먹는롯데박세진,1군에서는언제터지나",
   "대구행복진흥원,학교밖청소년진로박람회서1:1입시컨설팅제공",
   "경과원,'경기스타트업서밋'참가기업모집...유망스타트업발굴",
-  "SKT,AI사업동반자될스타트업발굴…‘SKTCHwithAI’론칭"
+  "SKT,AI사업동반자될스타트업발굴…‘SKTCHwithAI’론칭",
+  "‘그대에게드림’박지영,우아한아우라",
+  "계명문화대학교,교육혁신·성과관리모두최고등급'S'획득",
+  "대구공업대학교,김경자·김경순·채영석학생생활스포츠지도사2급합...",
+  "하남시,연내초단기공약13건시행…민생·돌봄등5개분야추진",
+  "LGU+·에릭슨,네트워크기반보이스AI글로벌시장공략",
+  "SKT,AI사업동반자스타트업찾는다…15곳선발",
+  "앱·OS경계무너뜨린차세대통신…LG유플러스·에릭슨,글로벌보이스...",
+  "LG유플러스-에릭슨,네트워크기반보이스AI공동개발추진",
+  "LG유플러스,에릭슨과맞손...네트워크기반'보이스AI'공동개발",
+  "iM證\"SK텔레콤,AI투자가장적극적…목표가11만2000원\""
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-07-21T08:56:16.174678+09:00",
    "루빈 확대 연산 도입 베라 신약개발 인프라 BMS"
+  ],
+  [
+   "2026-07-21T09:00:46.090053+09:00",
+   "적극적 목표가 11만2000원 투자 ~SKT iM 가장"
   ]
  ],
- "last_run": "2026-07-21T08:58:35.350964+09:00",
+ "last_run": "2026-07-21T09:01:04.084005+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
