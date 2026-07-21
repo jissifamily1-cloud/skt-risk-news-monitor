@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1307565&inflow=N",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442304",
-  "http://www.metroseoul.co.kr/article/20260720500313",
-  "https://www.seoultimes.news/news/article.html?no=2000097905",
   "https://www.ddaily.co.kr/page/view/2026072014364341844",
   "http://www.newstomato.com/ReadNews.aspx?no=1307572&inflow=N",
   "https://www.tjb.co.kr/news05/bodo/view/id/101174",
@@ -2999,13 +2995,13 @@
   "https://www.etnews.com/20260721000199",
   "https://www.bntnews.co.kr/article/view/bnt202607210194",
   "https://www.gukjenews.com/news/articleView.html?idxno=3641727",
-  "https://www.meconomynews.com/news/articleView.html?idxno=132830"
+  "https://www.meconomynews.com/news/articleView.html?idxno=132830",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685587",
+  "https://biz.sbs.co.kr/article_hub/20000323563?division=NAVER",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442745",
+  "https://www.newspim.com/news/view/20260721000672"
  ],
  "seen_titles": [
-  "삼계탕은옛말…직장인들이가장많이받아든복날선물1위는?",
-  "대전동구의회,의장단·상임위원장선출…제10대전반기원구성마무리",
-  "‘키미쇼크’에AI고비용투자회의론…삼성·SK도촉각",
-  "[현장]\"AI가게임제작장벽낮췄지만창작의질향상시켰는지는의문...",
   "전국74개상의,첫공동사회공헌…복지사각지대지원나선다",
   "[CEO워치]최태원의AI승부수…제주포럼서던진한마디,SK미래다시...",
   "[e모션]LCK5위도세계정상…디플러스기아가보여준리그의저력",
@@ -6001,7 +5997,11 @@
   "韓위성망,전세계2%불과…'소버린저궤도망'확보에14조쏟는다",
   "‘그대에게드림’황인엽·이혜리,로맨스전환점",
   "박진숙김제시교월동장,경로당41곳방문…어르신애로사항청취",
-  "[기자수첩]'혁신'평가받은삼쩜삼...어쩌다'불신'의아이콘이됐나"
+  "[기자수첩]'혁신'평가받은삼쩜삼...어쩌다'불신'의아이콘이됐나",
+  "앤트로픽,15억달러저작권합의확정…법원\"AI학습은공정이용\"",
+  "[직설]AI투자회의론에흔들리는반도체…코스피장밋빛전망꺾이나?",
+  "TSMC미국반도체투자2650억달러'물량공세',트럼프압박넘어삼성...",
+  "중국'개방형AI'공세에美터줏대감들\"규제장벽세워라\"아우성"
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,17 @@
   [
    "2026-07-21T13:20:25.944420+09:00",
    "혁신 됐나 삼쩜삼 어쩌다 평가받은 불신 아이콘이"
+  ],
+  [
+   "2026-07-21T13:22:16.486265+09:00",
+   "코스피 AI투자 회의론에 전망 장밋빛 꺾이나 흔들리는 반도체"
+  ],
+  [
+   "2026-07-21T13:22:16.486265+09:00",
+   "규제장벽 아우성 개방형 세워라 터줏대감들 공세에 중국"
   ]
  ],
- "last_run": "2026-07-21T13:20:50.344032+09:00",
+ "last_run": "2026-07-21T13:22:40.230414+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
