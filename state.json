@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ibabynews.com/news/articleView.html?idxno=152993",
-  "https://www.sportsseoul.com/news/read/1623380",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640197",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851110",
-  "https://sports.donga.com/economy/article/all/20260720/134326992/1",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200158",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=119162",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=267053",
-  "https://www.mt.co.kr/stock/2026/07/20/2026072010533854513",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=851111",
   "https://www.fashionbiz.co.kr/article/228003",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83458",
@@ -2999,18 +2990,18 @@
   "http://www.kdfnews.com/news/articleView.html?idxno=185460",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717076",
   "https://edu.chosun.com/site/data/html_dir/2026/07/21/2026072180027.html",
-  "https://www.newspim.com/news/view/20260721000288"
+  "https://www.newspim.com/news/view/20260721000288",
+  "https://www.slist.kr/news/articleView.html?idxno=753091",
+  "https://biz.sbs.co.kr/article_hub/20000323552?division=NAVER",
+  "https://zdnet.co.kr/view/?no=20260721095412",
+  "https://www.sedaily.com/article/20069825",
+  "https://www.koreajoongangdaily.com/bilingual-news/the-competition-between-sand-and-protein-kor/12783081",
+  "https://news.tf.co.kr/read/economy/2345117.htm",
+  "http://www.4th.kr/news/articleView.html?idxno=2114937",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872522",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=119914"
  ],
  "seen_titles": [
-  "코스피저평가론시험대…'영업익65兆'하이닉스가답할까",
-  "이찬일의글로벌경제브리프232-1",
-  "음식점·병원긍정후기작성대가19억챙긴일당검거",
-  "KT,개인정보보호자문위첫회의…보호체계강화본격화",
-  "기계·전기·배관설계,AI로1시간내완료",
-  "오세훈서울시장'여론조사비용대납혐의'재판,유죄선고의견62.3%...",
-  "1300만관중시대열린다...LG·삼성·한화'매진36회'공동1위경쟁",
-  "NTT도코모글로벌,기업용블록체인'XDC네트워크'마스터노드검증인합...",
-  "미래에셋운용,'TIGER미국테크NYSE100액티브'21일신규상장",
   "헥토파이낸셜,AI결제표준'x402재단'합류…AI결제인프라확대",
   "[특징주]삼전닉스,상승전환했다다시낙폭확대…3~4%약세(종합)",
   "[발언대]연못을살피지않고고래를들여왔다",
@@ -6001,7 +5992,16 @@
   "LG유플러스·SKT·CJ올리브영,AI사업확대…네트워크·채용·스타트업...",
   "[Tech&Now]인간vsAI국내최초해킹대결…'코드게이트'23일개막등",
   "제23회서울국제환경영화제‘시네마그린틴’성료",
-  "윤상현의원\"최태원,기업이성장멈추면민주주의문제생긴다고꼬집..."
+  "윤상현의원\"최태원,기업이성장멈추면민주주의문제생긴다고꼬집...",
+  "블룸버그\"키미3,컴퓨팅보다메모리에중점…더많은메모리반도체요...",
+  "\"'삼전닉스수요지속…키미3훨씬많은메모리요구\"",
+  "HPE,슈퍼컴퓨팅소프트웨어강화…소버린AI승부수",
+  "명지병원,AI로‘응급실과밀화’해법찾는다",
+  "Thecompetitionbetweensandandprotein(KOR)",
+  "SK하이닉스,ADR하락마감…본주는보합권서등락",
+  "미래에셋\"미국증시성장엔진은테크..액티브선별필요\"",
+  "엑스온,생성형AI의추천빈도측정하는'AI브랜드가치지수'산출",
+  "LG유플러스·에릭슨,AI네이티브네트워크맞손"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,13 @@
   [
    "2026-07-21T09:56:18.161773+09:00",
    "꼬집 문제 민주주의 성장 윤상현 의원 생긴다고 멈추면 기업이"
+  ],
+  [
+   "2026-07-21T09:58:16.545086+09:00",
+   "네트워크 네이티브 맞손 ~LGU 에릭슨 LG유플러스"
   ]
  ],
- "last_run": "2026-07-21T09:56:41.274728+09:00",
+ "last_run": "2026-07-21T09:58:34.395062+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
