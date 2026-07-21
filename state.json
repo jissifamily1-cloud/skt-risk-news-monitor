@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640866",
-  "https://www.hankookilbo.com/news/article/A2026072008590004818?did=NA",
-  "https://www.news1.kr/it-science/security-hacking/6233277",
-  "http://www.fnnews.com/news/202607201812265188",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=362737",
-  "https://www.biotimes.co.kr/news/articleView.html?idxno=33269",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1008598",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260721010007167",
   "http://www.inews24.com/view/1987021",
   "http://www.fnnews.com/news/202607201816161914",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4078794",
@@ -2999,17 +2991,17 @@
   "https://www.nytimes.com/es/2026/07/20/espanol/negocios/ia-bazofia-libros-amazon.html?partner=naver",
   "https://wemakenews.co.kr/news/view.php?no=25854",
   "https://www.pointe.co.kr/news/articleView.html?idxno=82071",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030141270&code=61141111&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030141270&code=61141111&cp=nv",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109650",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240513",
+  "https://www.newscj.com/news/articleView.html?idxno=3418679",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2450838",
+  "https://www.imaeil.com/page/view/2026072117015789979",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207203",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607151135159600109383",
+  "https://www.sidae.com/article/2026072113293290917"
  ],
  "seen_titles": [
-  "국방LLM개발…LIGD&A·한화시스템컨소시엄맞붙는다",
-  "[프로야구주간전망]KIA,홈6연전서상위권추격나선다",
-  "김석환중구의원\"공공채용,결과보다과정의공정성이중요\"",
-  "과기부총리\"중국이AI연대강력하게희망...미중사이최적점찾아야...",
-  "배경훈\"中,韓과AI연대강력희망…쉽게결정어려워\"",
-  "류진한경협회장\"4대그룹모실것\"…3연임여지남겼다",
-  "'삼전닉스레버리지ETF보완책'발표에도코스피급락…6500턱걸이",
-  "AI의료,APAC이글로벌패권무대로…韓'임상·상용화'역량으로승부...",
   "예탁원,차세대시스템1단계오픈…외화증권·증권대행인프라혁신",
   "글로벌빅테크실적발표임박…'1074兆'AI투자지속여부촉각",
   "\"메모리만으론AI3강어렵다…풀스택자생력갖춰야\"[현장]",
@@ -6001,7 +5993,15 @@
   "Fuivíctimadelcontenidobasura",
   "따릉이462만명정보유출…2년침묵끝돌아온건‘5천원이용권’",
   "SK하이닉스,美산호세·인디애나채용대폭확대…ADR상장호재속환...",
-  "MS도AMD의‘AI랙’택했다…엔비디아독주흔드는‘헬리오스’"
+  "MS도AMD의‘AI랙’택했다…엔비디아독주흔드는‘헬리오스’",
+  "대출사기문자162%급증…통신3사,AI피싱대응강화",
+  "이통3사,'레드팀'으로실전형보안역량강화한다",
+  "\"AI할줄아는사람없나요\"…AX인재쟁탈전전방위확산",
+  "과기정통부,이동통신무선국검사간소화한다···10월22일시행",
+  "포항구룡포다방종업원불법촬영40대구속영장기각",
+  "7월21일미리보는MBN뉴스7",
+  "[더벨][thebellnote]사이버보험1호가입자라는꼬리표",
+  "'전액현금→일부자사주'…SK하이닉스성과급,올해임협뇌관으로"
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,25 @@
   [
    "2026-07-21T17:18:16.596249+09:00",
    "독주 흔드는 헬리오스 MS도 택했다 AMD의"
+  ],
+  [
+   "2026-07-21T17:20:29.824754+09:00",
+   "급증 대출사기 강화 대응 통신3사 피싱 문자"
+  ],
+  [
+   "2026-07-21T17:20:29.824754+09:00",
+   "강화한다 이통3사 보안 역량 레드팀 실전형"
+  ],
+  [
+   "2026-07-21T17:20:29.824754+09:00",
+   "AX 인재 확산 사람 아는 전방위 쟁탈전 없나요"
+  ],
+  [
+   "2026-07-21T17:20:29.824754+09:00",
+   "임협 현금 자사주 뇌관으로 성과급 전액 일부 올해 SK하이닉스"
   ]
  ],
- "last_run": "2026-07-21T17:18:44.109398+09:00",
+ "last_run": "2026-07-21T17:20:55.138756+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
