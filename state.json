@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=166886",
-  "https://zdnet.co.kr/view/?no=20260721105757",
-  "https://www.mk.co.kr/article/12103155",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=590522",
-  "https://www.chosun.com/economy/tech_it/2026/07/21/U5OZVZLKX5FPDJSTRH5TNOU7Q4/",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01177526645516160",
-  "https://theviewers.co.kr/View.aspx?No=4155628",
   "https://www.gukjenews.com/news/articleView.html?idxno=3641524",
   "http://www.econonews.co.kr/news/articleView.html?idxno=441436",
   "https://www.biotimes.co.kr/news/articleView.html?idxno=33284",
@@ -2999,16 +2992,16 @@
   "https://www.dt.co.kr/article/12074028",
   "https://www.sidae.com/article/2026072208033560813",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668432&plink=ORI&cooper=NAVER",
-  "https://www.public25.com/news/articleView.html?idxno=51154"
+  "https://www.public25.com/news/articleView.html?idxno=51154",
+  "https://www.newscj.com/news/articleView.html?idxno=3418278",
+  "https://www.mydaily.co.kr/page/view/2026072207473838944",
+  "http://www.joseilbo.com/news/news_read.php?uid=572344&class=53",
+  "https://www.m-i.kr/news/articleView.html?idxno=1393785",
+  "https://www.starnewskorea.com/business-life/2026/07/22/2026072208051954438",
+  "https://www.newspim.com/news/view/20260722000058",
+  "https://www.ilyosisa.co.kr/news/article.html?no=256993"
  ],
  "seen_titles": [
-  "삼전닉스,초호황에도취업문은'바늘구멍'…앞으로활짝열릴듯",
-  "마케팅솔루션기업아드리엘,CARTAZERO와협력확대",
-  "[금융계동향]신한은행·한국투자증권·한화생명",
-  "[AI는지금]모티프,독파모2차전앞두고'반전'…글로벌경쟁력입증",
-  "中,자국산반도체만사용해1GW급데이터센터완공",
-  "LG유플러스-에릭슨,AI네트워크음성솔루션공동개발…글로벌사업...",
-  "LG유플,에릭슨과손잡고앱없이통화하는‘통신망AI’개발AI’개발",
   "LGU+,교보문고와손잡고‘독서구독’승부수…전자책·잡지한번에...",
   "AI인프라경쟁,데이터센터가끝아냐…통신업계,'AI-RAN'구축경쟁",
   "영세폐기물업체협박해3천만원갈취한인터넷신문기자3명구속",
@@ -6001,7 +5994,14 @@
   "구글,경량AI모델‘제미나이3.6플래시’선봬…최상위모델출시는지...",
   "키미K3등장에반도체주매도…월가\"제번스역설나타날것\"",
   "[뉴욕증시]4거래일만반등성공…'반도체주'자금유입",
-  "[코스피·코스닥,고려아연동부건설진흥기업효성ITX에넥스SK디스커..."
+  "[코스피·코스닥,고려아연동부건설진흥기업효성ITX에넥스SK디스커...",
+  "전남광주특별시의회노소영의원,진월IC주민불편점검…교통개선...",
+  "김도영조용히이것1위정복,나스타·카스트로덕분이지만…도루도거...",
+  "뉴욕증시,유가상승에도반도체주강세에상승…나스닥1.3%↑",
+  "유가급등에도반도체반등...나스닥1.29%상승",
+  "볼보ES90출시,파격가로대한민국수입차시장에승부수",
+  "베선트\"中AI모델,美기술도용확인시제재가능\"",
+  "<김삼기의시사펀치>대통령은왜기업초과이윤회의멈췄나"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,17 @@
   [
    "2026-07-22T08:08:17.556307+09:00",
    "문샷AI 돌풍 뛰나 키미 K3 IPO전 기업가치 74조원으로"
+  ],
+  [
+   "2026-07-22T08:12:19.579095+09:00",
+   "멈췄나 대통령은 시사펀치 회의 기업 초과이윤 김삼기의"
+  ],
+  [
+   "2026-07-22T08:12:19.579095+09:00",
+   "기술 제재 베선트 가능 도용 확인 모델"
   ]
  ],
- "last_run": "2026-07-22T08:10:48.068376+09:00",
+ "last_run": "2026-07-22T08:12:39.536534+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
