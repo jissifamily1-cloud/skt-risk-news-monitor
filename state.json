@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026072016184165075",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3640731",
-  "https://sateconomy.co.kr/news/view/1065597781384364",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6936714",
-  "https://www.dt.co.kr/article/12073696",
-  "https://news.mtn.co.kr/news-detail/2026072015330839174",
-  "https://news.mtn.co.kr/news-detail/2026072016431774720",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003252764&CMPT_CD=P0010",
   "https://www.seoul.co.kr/news/publicnews/2026/07/20/20260720500202?wlog_tag3=naver",
   "https://biz.chosun.com/topics/topics_social/2026/07/20/XLLU2YHHZJBHDHW5IPUN326K5I/",
   "https://www.todayeconomic.com/news/article.html?no=31344",
@@ -2999,17 +2991,17 @@
   "https://www.dt.co.kr/article/12073918",
   "https://www.fetv.co.kr/news/articleView.html?idxno=306818",
   "https://www.cbci.co.kr/news/articleView.html?idxno=590643",
-  "http://www.inews24.com/view/1987215"
+  "http://www.inews24.com/view/1987215",
+  "https://www.hellot.net/news/article.html?no=113893",
+  "https://www.mk.co.kr/article/12103457",
+  "https://www.yna.co.kr/view/AKR20260721143200008?input=1195m",
+  "https://www.hankyung.com/article/2026072171857",
+  "https://www.thelec.kr/news/articleView.html?idxno=59823",
+  "https://www.etoday.co.kr/news/view/2605775",
+  "https://hbnpress.com/news/view/1065596433807454",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470216"
  ],
  "seen_titles": [
-  "KT알파,초복기업선물1위는치킨…상품권·아이스크림수요증가",
-  "카카오내비,여름휴가철앞차교통사고정보띄워준다",
-  "\"제주하늘길은도민생존권\"…국회,항공이동권국가책임공감대",
-  "GS리테일,AI스타트업과AX강화…현장실증프로젝트본격화",
-  "'검은월요일'덮친증시…중국AI'키미K3'충격에반도체주급락",
-  "배경훈부총리“AI서비스경쟁력·프론티어모델개발로AI역량강화...",
-  "네이버'AI팩토리'예상매출\"5년내20조원\"…\"고객사확보지켜봐야...",
-  "네이버이해진,브룩필드본사방문…AI인프라투자논의주목",
   "청와대'초과이윤배분'회의순연...덜여문논의탓?",
   "화성‘그냥드림온(溫)라운지’에서전국최초‘전국상의공동챌린지...",
   "검찰,‘최태원동거인간첩설’배터리아저씨벌금형에항소",
@@ -6001,7 +5993,15 @@
   "9월베타·12월출시‘모두의AI’…세부요건은아직‘협의중’",
   "SK텔레콤,AI스타트업육성'SKTCHwithAI'론칭…15개사선발",
   "[기업家]SK그룹⑮ㅣAI데이터센터·반도체·친환경전략가속…글로...",
-  "정관장삼계탕·양산도장어…외식경계깬구내식당"
+  "정관장삼계탕·양산도장어…외식경계깬구내식당",
+  "[헬로즈업]“게임대신AI채팅,종이책대신텍스트힙”잘파세대데이...",
+  "“나만아직안들어왔나”…삼성온누리상품권지급만기다리는소비...",
+  "연이은급락후반등,변동성은여전…코스피,바닥다지나",
+  "FT\"중국,AI·반도체기술'수출빗장'검토중\"",
+  "'리니지의아버지'송재경,1인개발신작MMORPG발표",
+  "\"기본기능은무료,고급서비스는유료\"…정부,'모두의AI'부분유료...",
+  "SK텔레콤,AI스타트업모집...6개월간사업·투자지원",
+  "[거래소기관]SK하이닉스삼성전자삼성전기SK사고기아삼성생명두..."
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,13 @@
   [
    "2026-07-21T16:06:19.102155+09:00",
    "외식 양산도 삼계탕 경계 정관장 구내식당 장어"
+  ],
+  [
+   "2026-07-21T16:08:16.835245+09:00",
+   "사고 SK SK하이닉스 삼성전자 삼성생명 기아 삼성전기"
   ]
  ],
- "last_run": "2026-07-21T16:06:42.058280+09:00",
+ "last_run": "2026-07-21T16:08:41.107885+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
