@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.economytalk.kr/news/articleView.html?idxno=422904",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=724639",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41052",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090249.html",
-  "https://zdnet.co.kr/view/?no=20260720173846",
   "https://busanmbc.co.kr/01_new/new01_view.asp?idx=287245",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=554359",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=554348",
@@ -2999,14 +2994,14 @@
   "https://www.hankyung.com/article/2026072176161",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=59461",
   "https://www.hankyung.com/article/2026072176181",
-  "https://www.hankyung.com/article/2026072176171"
+  "https://www.hankyung.com/article/2026072176171",
+  "https://www.hankyung.com/article/2026072176151",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851551",
+  "http://www.fnnews.com/news/202607211816130310",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207259",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2429332"
  ],
  "seen_titles": [
-  "삼성,후라도대체외국인투수오스틴보스영입…15만달러계약",
-  "배경훈과기부총리\"3.5조'프런티어AI'확보\"",
-  "중국AI,美성능턱밑까지추격…오픈웨이트,글로벌AI구도변화예고",
-  "[종합]\"트리밀데이즈,우리은행,배민,소이비랩,소휘효소,픽스녹음기\"등...",
-  "HBM없이도엔비디아급성능?중국기업,AI가속기양산",
   "엔비디아메트로폴리스,코스모스기반비전AI에이전트개발가속하는...",
   "'초과이윤배분'논의하려던靑회의당일취소…주가영향의식한듯",
   "지슨\"AI해킹시대…보안사각'무선백도어'대응필요\"",
@@ -6001,7 +5996,12 @@
   "LGU+,에릭슨과보이스AI개발",
   "[게임뉴스]데브시스터즈및조이시티소식외",
   "AI모델'모티프3'공개…지능성능딥시크와비슷",
-  "정부'한국형챗GPT'2개이상내놓는다"
+  "정부'한국형챗GPT'2개이상내놓는다",
+  "업스테이지\"핵심AI개발자1명영입에100억쓴다\"",
+  "[현장]\"과징금,법치원리흔드는행정제재\"",
+  "[사설]국립외교원까지줄잇는해킹,뻥뚫린사이버안보",
+  "조정식국회의장,김종철방미통위원장접견…\"AI시대허위조작정보근...",
+  "청주하이온,엔비디아'NVIDIAInception'선정"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,17 @@
   [
    "2026-07-21T18:14:16.801264+09:00",
    "2조원에 저작권 소송 합의"
+  ],
+  [
+   "2026-07-21T18:20:28.633176+09:00",
+   "국립외교원까지 사이버 안보 뚫린 잇는"
+  ],
+  [
+   "2026-07-21T18:20:28.633176+09:00",
+   "청주 Inception 선정 하이온 NVIDIA"
   ]
  ],
- "last_run": "2026-07-21T18:18:36.146166+09:00",
+ "last_run": "2026-07-21T18:20:55.194621+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
