@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=212782",
-  "https://www.sedaily.com/article/20070365",
-  "https://www.news2day.co.kr/article/20260722500048",
-  "https://kbench.com/?q=node%2F280551",
-  "https://www.joongang.co.kr/article/25445020",
-  "https://lawtalknews.co.kr/article/85ZA16UP24BZ",
-  "https://www.yna.co.kr/view/AKR20260722061700089?input=1195m",
-  "https://magazine.hankyung.com/business/article/202607169369b",
   "https://view.asiae.co.kr/article/2026072210245029907",
   "http://www.queen.co.kr/news/articleView.html?idxno=460610",
   "https://sateconomy.co.kr/news/view/1065575003587494",
@@ -2999,17 +2991,17 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=168553",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2449646",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6839441_37012.html",
-  "https://biz.heraldcorp.com/article/10817052"
+  "https://biz.heraldcorp.com/article/10817052",
+  "https://www.aitimes.com/news/articleView.html?idxno=213026",
+  "https://www.lecturernews.com/news/articleView.html?idxno=206897",
+  "https://www.news1.kr/life-culture/performance-exhibition/6236052",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686175",
+  "https://www.tokenpost.kr/news/cryptocurrency/380241",
+  "http://www.economytalk.kr/news/articleView.html?idxno=422937",
+  "https://www.dailian.co.kr/news/view/1669317/?sc=Naver",
+  "https://www.ddaily.co.kr/page/view/2026072216473548437"
  ],
  "seen_titles": [
-  "[유미's픽]中AI추격빨라지는데…韓·美정책수장공백에'비상'",
-  "허사비스\"AGI달성눈앞…미국주도AI자율규제연내신설해야\"",
-  "로봇에도‘탠덤OLED’심는다…K-디스플레이달군‘AI화면’전쟁",
-  "[재계인사이드]삼성,SK발‘초대형M＆A설’의근거",
-  "스마트폰·노트북가격또오를까?TSMC,2027년반도체가격최대10%인...",
-  "사흘만에멈춘메타의‘뮤즈이미지’…AI시대,선넘은‘옵트아웃...",
-  "몸무게·주소까지털린따릉이회원들…30일정기권보상은적절할까?",
-  "미중,시진핑방미전9월'AI회담'추진…\"베선트참석\"",
   "“티빙최주희떨고있나”개인정보유출신고포상금제도도입",
   "신한카드,이민정책硏·SKT·KCB와이민정책지원협력",
   "이재용·최태원·이해진,미국서엔비디아젠슨황과회동…글로벌AI협...",
@@ -6001,7 +5993,15 @@
   "미국증시다우'약보합'...엔비디아'활짝'vs알파벳·SW주'뚝'",
   "AI는모두의것?···정부공모전에통신사·네카오총출동나섰다",
   "미국판'깐부회동'‥이번엔이대통령이계산?",
-  "SK하닉ADR3.88%↓…뉴욕증시,국제유가급등에약세"
+  "SK하닉ADR3.88%↓…뉴욕증시,국제유가급등에약세",
+  "[7월22일]AI가대신할수없는것...\"사람은여행을계획할때가장행...",
+  "[이용호의손에잡히는인공지능]중국키미K3가흔든AI생태계의질...",
+  "공연예술포럼'메타엠'참가작모집…26일자정까지접수",
+  "앤트로픽,AMD서최대2기가와트규모GPU용량구매",
+  "파이어블록스,금융계에혁신적블록체인인프라제공선언",
+  "\"AI활용능력이취업·인사성패가른다\"…기업인사방정식'AI'에무게...",
+  "[전문]김장겸\"공영방송,총선앞두고서는더악착같이편파편향방송할...",
+  "거짓말이라고다규제될까…'허위조작정보'기준살펴보니[IT클로즈업..."
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,21 @@
   [
    "2026-07-23T06:56:16.064355+09:00",
    "깐부 미국판 계산 이번엔 대통령이 회동"
+  ],
+  [
+   "2026-07-23T07:00:37.907154+09:00",
+   "방정식 활용능력이 인사 성패 가른다 무게 취업 기업"
+  ],
+  [
+   "2026-07-23T07:00:37.907154+09:00",
+   "김장겸 앞두고서는 공영방송 악착같이 편파편향방송할 총선"
+  ],
+  [
+   "2026-07-23T07:00:37.907154+09:00",
+   "기준 살펴보니 허위조작정보 규제될까 거짓말이라고 IT클로즈업"
   ]
  ],
- "last_run": "2026-07-23T06:58:30.772060+09:00",
+ "last_run": "2026-07-23T07:01:06.540082+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
