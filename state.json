@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202607220555395889",
-  "https://www.sedaily.com/article/20070244",
   "http://www.yonhapnewstv.co.kr/news/AKR202607220450142GU",
   "https://www.g-enews.com/view.php?ud=2026072121422744212bd56fbc3c_1",
   "https://www.chosun.com/economy/tech_it/2026/07/22/N7ES5BVHVJFZDOHXLCPK3J2AAE/",
@@ -2999,11 +2997,11 @@
   "https://www.moneystorm.kr/news/articleView.html?idxno=5215",
   "https://www.hani.co.kr/arti/society/media/1269496.html",
   "https://www.mydaily.co.kr/page/view/2026072219114686016",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617403"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617403",
+  "https://www.yna.co.kr/view/AKR20260722170100017?input=1195m",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360683"
  ],
  "seen_titles": [
-  "엔비디아,차세대AI플랫폼'베라루빈'본격공급...AMD'헬리오스'맹...",
-  "엔비디아·AMD끼워팔기에기업은속탄다[김창영의실리콘밸리Look]",
   "엔비디아,차세대AI플랫폼'베라루빈'공급시작…\"선두수성\"",
   "오픈AI로향한샤오펑AI수장…격화되는로봇인재영입전",
   "AI반도체이어AI인프라공급…‘脫엔비디아전쟁’2라운드돌입",
@@ -6001,7 +5999,9 @@
   "SK하이닉스,청주첨단패키징공장건설에7조931억투입",
   "‘대선캠프’논란오태규방문진이사후보,자동임명으로",
   "'파격,1418일만에톱타자'한화50억유격수터졌다,달아나는스리런...",
-  "청와대“한미안보협의지연조짐없어…주미대사와쿠팡포함현안생..."
+  "청와대“한미안보협의지연조짐없어…주미대사와쿠팡포함현안생...",
+  "[AI픽]정부,보안특화'독자AI'개발공모…GPU256장지원",
+  "李대통령,美서빅테크리더들만난다"
  ],
  "recent_sigs": [
   [
@@ -6765,7 +6765,7 @@
    "확장 에이전트 라이브러리로 옴니버스 툴킷"
   ]
  ],
- "last_run": "2026-07-22T19:22:38.654026+09:00",
+ "last_run": "2026-07-22T19:24:35.442119+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
