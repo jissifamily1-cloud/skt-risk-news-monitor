@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030140302&code=61111111&cp=nv",
-  "https://www.ajunews.com/view/20260721143715534",
-  "https://view.asiae.co.kr/article/2026072114413638503",
-  "https://www.newsgn.com/news/articleView.html?idxno=562797",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3641883",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3641856",
-  "https://www.ziksir.com/news/articleView.html?idxno=140699",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90307",
   "http://www.newstomato.com/ReadNews.aspx?no=1307363&inflow=N",
   "http://www.newsbrite.net/news/articleView.html?idxno=199349",
   "https://www.ajunews.com/view/20260721144103553",
@@ -2999,17 +2991,17 @@
   "https://www.slist.kr/news/articleView.html?idxno=753355",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2289518",
   "https://www.eroun.net/news/articleView.html?idxno=85960",
-  "https://www.dt.co.kr/article/12074051"
+  "https://www.dt.co.kr/article/12074051",
+  "https://biz.heraldcorp.com/article/10815920",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240519",
+  "https://www.etnews.com/20260721000068",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=128295",
+  "http://www.popcornnews.net/news/articleView.html?idxno=127044",
+  "https://www.insight.co.kr/news/564076",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53285",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114408"
  ],
  "seen_titles": [
-  "[종합]\"팬마음투표,키토선생,우리은행,픽스녹음기\"등7월21일캐시워...",
-  "미래에셋운용,美기술주액티브투자'TIGERETF'상장",
-  "[유통갤러리]신세계아카데미,가을학기접수시작…문해력·뷰티강좌...",
-  "모티프,독파모프리뷰버전으로글로벌오픈소스3위권",
-  "국립외교원10개월간털렸다…외교관명단등최대1만건유출",
-  "SKT,AI스타트업15개사키운다...'스케치위드AI'론칭",
-  "전·현직韓외교관정보'최대1만건'털렸다…국립외교원초유의해킹...",
-  "경남도,재난에도끄떡없는'국가정보통신망지역이원화'완성",
   "[동정]문정우금산군수",
   "금산군,재산세기한내납부독려...3%의납부지연가산세가부과되",
   "AI해커,코드게이트본선진출···인간과취약점탐지경쟁",
@@ -6001,7 +5993,15 @@
   "닛케이아시아\"TSMC,내년부터반도체제조가격최대10%인상계획\"",
   "이재용·최태원·이해진,美서젠슨황만난다…메모리·AI협력논의",
   "LG유플러스·LS일렉트릭,AI데이터센터전력인프라혁신맞손",
-  "오픈AI챗GPT,격리망넘어외부해킹…‘자율AI사이버공격’현실로"
+  "오픈AI챗GPT,격리망넘어외부해킹…‘자율AI사이버공격’현실로",
+  "신한카드,카드소비데이터활용해외국인정착지원나선다",
+  "LGU+,LS일렉트릭과AI데이터센터전력수요대응한다",
+  "소울소프트,'재다바디X8'와디즈펀딩성공…글로벌및온·오프라인...",
+  "[투데이증시]'돌아온외국인'에되찾은7000피",
+  "함샤우트글로벌,국내첫산업별AI인용지수리포트발간",
+  "'휴먼코드'고른정재헌CEO...사람·조직에서시작한SKT의AI전환",
+  "통제불능AI의현실화?오픈AI모델,샌드박스뚫고허깅페이스해킹",
+  "[금융권이모저모]한투운용,ACE주주가치ETF3개월초과성과1위外"
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,17 @@
   [
    "2026-07-22T09:46:15.378961+09:00",
    "자율 외부 사이버공격 현실로 챗GPT 넘어 격리망"
+  ],
+  [
+   "2026-07-22T09:48:16.772175+09:00",
+   "고른 ~SKT 코드 휴먼 사람 조직에서 시작한 CEO SKT의"
+  ],
+  [
+   "2026-07-22T09:48:16.772175+09:00",
+   "초과 ACE 한투운용 1위 ETF 성과 주주가치 3개월"
   ]
  ],
- "last_run": "2026-07-22T09:46:39.301362+09:00",
+ "last_run": "2026-07-22T09:48:37.661155+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
