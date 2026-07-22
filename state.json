@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/world/northeast-asia/6233988",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=596236",
-  "https://www.smartbizn.com/news/articleView.html?idxno=148960",
-  "http://www.4th.kr/news/articleView.html?idxno=2115005",
-  "https://biz.chosun.com/it-science/ict/2026/07/13/ENDU7TRW2RABFPMYDNJA7BHHA4/",
-  "http://kor.theasian.asia/archives/410296",
-  "http://www.4th.kr/news/articleView.html?idxno=2115006",
-  "https://biz.heraldcorp.com/article/10814982",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684654",
-  "https://www.smartbizn.com/news/articleView.html?idxno=148966",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208059",
   "https://www.ddaily.co.kr/page/view/2026071516330206161",
   "https://www.ytn.co.kr/_ln/0103_202607192228509227",
   "https://www.tournews21.com/news/articleView.html?idxno=139016",
@@ -2999,20 +2988,20 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61616",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000051350",
   "https://www.kyosu.net/news/articleView.html?idxno=207917",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=43691"
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43691",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166079",
+  "https://www.pennmike.com/news/articleView.html?idxno=124066",
+  "https://biz.heraldcorp.com/article/10815787",
+  "https://www.kyosu.net/news/articleView.html?idxno=207889",
+  "https://www.news1.kr/industry/general-industry/6234829",
+  "https://www.xportsnews.com/article/2174607",
+  "https://basketkorea.com/news/newsview.php?ncode=1065603653216425",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220212&t=NN",
+  "https://www.econovill.com/news/articleView.html?idxno=745753",
+  "https://www.sedaily.com/article/20070274",
+  "https://www.news1.kr/it-science/general-it/6234863"
  ],
  "seen_titles": [
-  "LG유플러스,에릭슨과AI네이티브네트워크협력",
-  "넥서스에이아이랩스,토스미니앱성과기반글로벌AI유통확대추진",
-  "애플-오픈AI소송전,8가지핵심쟁점…시리AI협력도흔들리나",
-  "'사랑인걸'男가수,부친이름으로개명…\"父,뇌경색투병...데뷔후회...",
-  "'키미K3쇼크'주인공30대양즈린은…애플마다하고귀국·창업",
-  "제주소상공인연합회,최태원회장에반도체체험.학습관조성건의",
-  "'모두의AI'띄운정부···복잡해진기업셈법",
-  "[경제소식]교보생명,통합앱건강검진예약도입…전국검진센터할인",
-  "요금은그대로,포인트로‘0원’…통신3사자회사알뜰폰‘도매대가...",
-  "[아시아라운드업20260721]예멘후티반군,사우디해상봉쇄선언",
-  "[산업소식]행복얼라이언스,구미시결식우려아동에끼니지원",
   "본지임세준기자,이달의보도사진상수상",
   "오픈AI,프롬프트인젝션잡는내부AI'GPT-Red'공개",
   "묘기는끝났다,이제돈벌시간···현대차아틀라스목표는'공장정...",
@@ -6001,7 +5990,18 @@
   "[로드픽]입법조사처\"美,AI스위치쥐었다\"…고성능모델통제에韓...",
   "이재용·최태원·이해진,美서젠슨황만난다…AI빅딜회동",
   "[세종대]'디지로그AI+'전략,AI중심대학가속…최대'인공지능융합...",
-  "조정식국회의장,김종철방송미디어통신위원장접견"
+  "조정식국회의장,김종철방송미디어통신위원장접견",
+  "집합건물특정인터넷강제계속…계약최다는KT",
+  "[재계핫이슈]최태원노소영재판의또다른당사자,삼성전자와두산",
+  "LGU+,LS일렉트릭과차세대AIDC전력인프라구축맞손",
+  "[숭실대]국내최초전자계산학과에서AI중심대학까지…'옴니버시티'로...",
+  "LGU+,LS일렉트릭과AIDC'800VDC'전력인프라개발(종합)",
+  "리센느리브'내고향수원에서시구야호!'[엑's숏폼]",
+  "제주도로떠난한국가스공사,선수들이생각한제주도전지훈련의의미...",
+  "중동불안속반등성공한美증시…주요빅테크특징주총정리[美증...",
+  "SKT,스마트폰다음자리에안경을앉혔다",
+  "신세계I&C,메타스마트글라스국내온·오프라인유통",
+  "오픈AI,韓첫광고개시…\"그모든것에챗GPT\""
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,17 @@
   [
    "2026-07-22T09:00:42.539169+09:00",
    "접견 방송미디어통신위원장 국회의장 조정식 김종철"
+  ],
+  [
+   "2026-07-22T09:02:16.041767+09:00",
+   "~SKT 안경을 스마트폰 자리에 다음 앉혔다"
+  ],
+  [
+   "2026-07-22T09:02:16.041767+09:00",
+   "오프라인 스마트글라스 국내 신세계I 유통 메타"
   ]
  ],
- "last_run": "2026-07-22T09:01:06.756987+09:00",
+ "last_run": "2026-07-22T09:02:42.450331+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
