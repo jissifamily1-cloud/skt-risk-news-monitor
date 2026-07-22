@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1307363&inflow=N",
-  "http://www.newsbrite.net/news/articleView.html?idxno=199349",
-  "https://www.ajunews.com/view/20260721144103553",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90303",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=851216",
-  "http://www.osen.co.kr/article/G1112843419",
-  "https://www.g-enews.com/view.php?ud=2026072110332761753d7a510102_1",
-  "https://www.ajunews.com/view/20260721141330465",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04286966645516816",
   "https://www.mk.co.kr/article/12103330",
   "https://sports.khan.co.kr/article/202607211447013?pt=nv",
@@ -2999,17 +2991,17 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=127044",
   "https://www.insight.co.kr/news/564076",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53285",
-  "https://www.businessplus.kr/news/articleView.html?idxno=114408"
+  "https://www.businessplus.kr/news/articleView.html?idxno=114408",
+  "https://www.mydaily.co.kr/page/view/2026072209470800829",
+  "https://www.newscj.com/news/articleView.html?idxno=3418853",
+  "https://theviewers.co.kr/View.aspx?No=4157265",
+  "https://www.ceoscoredaily.com/page/view/2026072209462800467",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104557",
+  "http://www.iminju.net/news/articleView.html?idxno=166931",
+  "https://www.smartbizn.com/news/articleView.html?idxno=149075",
+  "https://www.dailian.co.kr/news/view/1669446/?sc=Naver"
  ],
  "seen_titles": [
-  "[동정]문정우금산군수",
-  "금산군,재산세기한내납부독려...3%의납부지연가산세가부과되",
-  "AI해커,코드게이트본선진출···인간과취약점탐지경쟁",
-  "[산업브리핑]LG전자·삼성전자·HD현대오일뱅크",
-  "개보위,개인정보사전예방체제전환…AI활용도확대",
-  "LG유플러스-에릭슨,보이스AI로글로벌시장정조준",
-  "LG유플러스,에릭슨과손잡고'보이스AI'네트워크만든다",
-  "[통신브리핑]SK텔레콤·LG유플러스·KT",
   "[ESG포커스]AI기업SK브로드밴드,탄소부담↑",
   "술취해호텔에서눈뜨더니…황인엽·이혜리,4회만에로맨스터진다...",
   "모티프,독파모프리뷰버전글로벌오픈소스3위권기록",
@@ -6001,7 +5993,15 @@
   "함샤우트글로벌,국내첫산업별AI인용지수리포트발간",
   "'휴먼코드'고른정재헌CEO...사람·조직에서시작한SKT의AI전환",
   "통제불능AI의현실화?오픈AI모델,샌드박스뚫고허깅페이스해킹",
-  "[금융권이모저모]한투운용,ACE주주가치ETF3개월초과성과1위外"
+  "[금융권이모저모]한투운용,ACE주주가치ETF3개월초과성과1위外",
+  "통신3사,AI안경‘레이밴메타’동시출시…69만원부터",
+  "'그대에게드림'황인엽·이혜리,영화가이어준마음…'경성연가'와함...",
+  "[유통갤러리]코웨이아이콘미니,‘올해의에너지위너상’에너지대상...",
+  "이통3사,‘레이밴메타’동시출시…AI글래스시장선점경쟁",
+  "SK텔레콤,메타AI안경'레이밴메타'판매개시",
+  "이재용·최태원·이해진,美서젠슨황만난다…AI협력확대주목",
+  "통신3사,'AI안경'동시출시···혜택경쟁'후끈'",
+  "KT,AI안경'레이밴메타'출시…전국체험존11곳운영"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,13 @@
   [
    "2026-07-22T09:48:16.772175+09:00",
    "초과 ACE 한투운용 1위 ETF 성과 주주가치 3개월"
+  ],
+  [
+   "2026-07-22T09:50:24.754284+09:00",
+   "통신3사 후끈 동시 출시 경쟁 혜택 안경"
   ]
  ],
- "last_run": "2026-07-22T09:48:37.661155+09:00",
+ "last_run": "2026-07-22T09:50:44.892376+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
