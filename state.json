@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=723772",
-  "https://www.thelec.kr/news/articleView.html?idxno=59042",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=846008",
-  "https://www.inthenews.co.kr/news/article.html?no=88886",
-  "https://www.mt.co.kr/world/2026/07/03/2026070302463268339",
-  "https://www.hankyung.com/article/2026070206797",
   "https://view.asiae.co.kr/article/2026070113413648994",
   "https://www.mediapen.com/news/view/1107750",
   "https://imnews.imbc.com/replay/2026/nw1700/article/6834272_36981.html",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026072200031",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=51617",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7175449",
-  "https://www.dailian.co.kr/news/view/1669759/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1669759/?sc=Naver",
+  "http://www.inews24.com/view/1987884",
+  "https://it.donga.com/109233/",
+  "https://news.tf.co.kr/read/ptoday/2345997.htm",
+  "https://www.goodkyung.com/news/articleView.html?idxno=289460",
+  "https://www.ekn.kr/web/view.php?key=20260722021025042",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=737719"
  ],
  "seen_titles": [
-  "‘삼전닉스’8%급등…코스피8000선회복[줍줍리포트]",
-  "삼성파운드리,앤트로픽과손잡나…'AI칩협력'논의",
-  "美매체\"삼성·앤트로픽,2나노와첨단패키징협업논의\"",
-  "삼성전자,앤트로픽파운드리고객사확보하나…AI칩협업논의",
-  "[인더리포트]메타발반도체급락,펀더멘털훼손보다수급변동성관점...",
-  "삼성,앤트로픽잡나…엔비디아·테슬라이어AI칩협업논의",
   "\"가치없고IP만뺏긴다\"…오픈AI·엔트로픽저격한팔란티어CEO",
   "\"삼전닉스ETF·스페이스X자금유입량이말해준다…증시,완전과열이다...",
   "[美증시특징주]메타8%급등,잉여컴퓨팅용량판매기대감...코어위브...",
@@ -6001,17 +5995,15 @@
   "6개월수익률42%…KB證,투자고수대회정상",
   "'7천피'터치한코스피…외국인2.6조순매수에도6700대마감",
   "볼보,프리미엄전기세단'ES90'국내출시…\"모든브랜드보다경쟁력↑...",
-  "'D-2'최태원·노소영파기환송심…대법제동건기여도,결론어떻게가..."
+  "'D-2'최태원·노소영파기환송심…대법제동건기여도,결론어떻게가...",
+  "SK하이닉스,AI메모리증설속도전…청주P&T7투자확대",
+  "볼보차세대전기플래그십‘ES90’출시…7294만원가격책정으로‘승...",
+  "李대통령,젠슨황·샘알트만만난다…'샌프란시스코AI선언'도",
+  "李대통령,24일부터미국·남미·독일방문…\"시장개척기대·외교지평...",
+  "李대통령,24일부터美·남미·獨순방…이재용·젠슨황과‘한자리’",
+  "李대통령,24일부터7박11일간美실리콘밸리·남미3개국순방…\"남미교..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T11:46:14.788058+09:00",
-   "반등 기술주 주도한 마이크로 슈퍼"
-  ],
-  [
-   "2026-07-22T11:46:14.788058+09:00",
-   "유튜브에 매체 구하라 라디오를 사로잡힌 100년"
-  ],
   [
    "2026-07-22T11:48:17.079509+09:00",
    "YB 빌리 출동 QWER 리센느부터 ~KT 청하 효린 황재균까지 백아연"
@@ -6667,9 +6659,13 @@
   [
    "2026-07-22T17:44:16.550912+09:00",
    "파기환송심 제동 대법 어떻게 결론 기여도"
+  ],
+  [
+   "2026-07-22T17:46:17.929429+09:00",
+   "T7 메모리 청주 속도전 확대 증설 SK하이닉스 투자"
   ]
  ],
- "last_run": "2026-07-22T17:44:38.695592+09:00",
+ "last_run": "2026-07-22T17:46:35.699598+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
