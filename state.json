@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsen.com/news_view.php?uid=202607221106361910",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422950",
-  "https://www.sedaily.com/article/20070392",
-  "https://edu.chosun.com/site/data/html_dir/2026/07/21/2026072180143.html",
-  "https://biz.chosun.com/it-science/ict/2026/07/22/6CUHORVUWZDIXBRLNR3TFZVQ2E/",
-  "https://www.seoulfn.com/news/articleView.html?idxno=633850",
-  "https://www.m-i.kr/news/articleView.html?idxno=1393708",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=207094",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3642742",
-  "https://www.yna.co.kr/view/AKR20260722051600009?input=1195m",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61838",
   "https://www.kukinews.com/article/view/kuk202607220020",
   "https://www.kyeonggi.com/article/20260722580124",
@@ -2999,19 +2989,19 @@
   "https://biz.sbs.co.kr/article_hub/20000324088?division=NAVER",
   "https://zdnet.co.kr/view/?no=20260723085155",
   "https://www.itworld.co.kr/article/4200314/지침-완수를-위해-규칙을-스스로-깬-ai-오픈ai-미공개-모.html",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686195"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686195",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312711",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=315456",
+  "https://www.sedaily.com/article/20070780",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03142246645517472",
+  "https://www.venturesquare.net/1100495/",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360614",
+  "https://www.koit.co.kr/news/articleView.html?idxno=208107",
+  "https://www.ajunews.com/view/20260723083622307",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03152086645517472",
+  "https://view.asiae.co.kr/article/2026072308533030546"
  ],
  "seen_titles": [
-  "한양대학생들,교통약자위한'캠퍼스배리어프리지도'제작",
-  "‘불꽃야구’불꽃파이터즈,시즌11번째직관상대는강팀동국대였다",
-  "[종합]\"유바이오틱스,알룰로스,팬마음투표,우리은행,픽스녹음기\"등...",
-  "스웨덴보다5000만원싸게…볼보,순수전기플래그십세단ES90출시",
-  "NE능률엔이티처,중·고등영어교사대상‘바이브코딩’실습",
-  "챗GPT가내부평가중통제망뚫고외부서버해킹…안전성논란",
-  "통신3사,AI글래스'레이밴메타'나란히출시",
-  "배경훈,통신3사CEO와회동…AIDC육성본격화",
-  "아모그린텍,아프리카공급레퍼런스기반북미통신인프라시장확대",
-  "계명대R-WeSET,대구서여학생공학주간개최...AI융합·생태정원등실...",
   "미재무\"중국AI모델의지재권도용조사\"",
   "서학개미,3배레버리지반도체ETF에'올인'…이달美주식4조원넘게...",
   "“5000만원낮췄다”…볼보전기플래그십‘ES90’7294만원출격",
@@ -6001,7 +5991,17 @@
   "뉴욕증시,알파벳실적경계감·국제유가급등에하락",
   "SKT,피지컬AI기술표준선도...ITU-T에서RDF과제채택",
   "지침완수를위해규칙을스스로깬AI…오픈AI미공개모델,샌드박스...",
-  "오픈AI,2030년까지1110조원'베팅'...스타게이트흔들리자더키웠다"
+  "오픈AI,2030년까지1110조원'베팅'...스타게이트흔들리자더키웠다",
+  "[최태원·노소영재판장면들③]최태원회장과임직원이함께키운SK...",
+  "AI로맞춤형연금관리솔루션제공…'Npay연금'오픈",
+  "“역대가장강력하고다재다능한폴더블”…1200여명사로잡은갤럭시...",
+  "롯데건설,AI기술실증확대…스타트업지원금6.2억확보",
+  "‘점수’보다‘일하는AI’…업스테이지,에이전트특화LLM‘솔라오...",
+  "한미AI최고기업리더들한자리에모인다",
+  "한화비전,국정원'보안기능확인서'획득…공공영상보안시장공략강...",
+  "최태원이제안한'사회성과보상'입증...SPC효과국제학술지게재",
+  "SKT,ITU-T서‘로봇데이터표준’주도…피지컬AI글로벌경쟁력강화",
+  "최태원SK회장제안'SPC연구',국제SSCI학술지게재"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,13 @@
   [
    "2026-07-23T08:54:15.674298+09:00",
    "모델 미공개 샌드박스 스스로 완수를 규칙을 지침"
+  ],
+  [
+   "2026-07-23T08:56:18.057796+09:00",
+   "국제 학술지 게재 SSCI SK 제안 SPC연구 회장"
   ]
  ],
- "last_run": "2026-07-23T08:54:45.463857+09:00",
+ "last_run": "2026-07-23T08:56:36.074667+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
