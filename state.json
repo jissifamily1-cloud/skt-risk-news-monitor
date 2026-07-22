@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=442758",
-  "https://www.mt.co.kr/stock/2026/07/21/2026072114273355663",
-  "http://www.fnnews.com/news/202607211414126245",
-  "https://www.news1.kr/world/northeast-asia/6234342",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317633",
-  "https://economist.co.kr/article/view/ecn202607210055",
-  "http://www.inews24.com/view/1987390",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04693686645516816",
-  "https://www.ajunews.com/view/20260721160536875",
   "https://www.gukjenews.com/news/articleView.html?idxno=3642019",
   "https://www.mk.co.kr/article/12103492",
   "https://www.imaeil.com/page/view/2026072115161514145",
@@ -2999,18 +2990,18 @@
   "https://www.wikitree.co.kr/articles/1147726",
   "https://www.joongangenews.com/news/articleView.html?idxno=534425",
   "https://www.100ssd.co.kr/news/articleView.html?idxno=211332",
-  "http://www.4th.kr/news/articleView.html?idxno=2115051"
+  "http://www.4th.kr/news/articleView.html?idxno=2115051",
+  "https://dealsite.co.kr/articles/165704",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3642621",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=470421",
+  "https://www.g-enews.com/view.php?ud=2026072210341266910c8c1c064d_1",
+  "https://news.tf.co.kr/read/photomovie/2345696.htm",
+  "https://news.tf.co.kr/read/photomovie/2345689.htm",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360621",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280163",
+  "https://dealsite.co.kr/articles/165709"
  ],
  "seen_titles": [
-  "LG유플러스,이통사최초'eBook+매거진'결합구독상품내놨다",
-  "[취재노트]단통법폐지10년…유통법은20년걸릴까",
-  "통신3사,'메타AI글래스'22일일제히출격…5G'업로드'속도전붙나",
-  "3.2억이용자바이낸스,RWA·주식파생확장…원화거래소도다각화과...",
-  "중국개방형AI모델공세에배경훈'한국형프론티어AI'전략시험대,...",
-  "서학개미도물렸다…2조더샀는데보관금액오히려감소",
-  "앤스로픽,2조원내고'AI의저작권침해소송'끝내…IPO청신호",
-  "\"AI기술서방에넘어갈라\"…中,AI모델·칩수출규제움직임",
-  "'결격논란'방문진이사후보자자동임명수순?",
   "한국AI스타트업모티프,미·중제외오픈소스1위…딥시크와동급",
   "英텔레콤TV,SKTAI팩토리주목…\"국가AI인프라백본역할\"",
   "엔비디아,피지컬AI두뇌'코스모스3엣지'공개…두산로보틱스,도입...",
@@ -6001,7 +5992,16 @@
   "젠슨황·이재용미국서한자리에모인다…전세계AI판도뒤흔들'초...",
   "\"年7억성과급에5억대출까지\"…SK하이닉스노조,또청구서꺼냈다(종...",
   "LG유플러스-LS일렉트릭,'AIDC전력인프라고도화'협업…직류기반전력...",
-  "LG유플러스,LS일렉트릭과800VAIDC전력망실증"
+  "LG유플러스,LS일렉트릭과800VAIDC전력망실증",
+  "[전자는지금]LS마린솔루션,해저케이블포설선성능강화外",
+  "괴산군,초등생'지니버스'도로명주소교육실시",
+  "글로벌완성차러브콜…삼현,차세대구동시스템으로독주채비",
+  "체코헌재,두코바니신규원전소송기각…한수원건설사업탄력",
+  "볼보,차세대순수전기플래그십'VolvoES90'공개[TF사진관]",
+  "차세대순수전기플래그십'VolvoES90'[포토]",
+  "'반도체랠리'에코스피7000선회복악재거의소화…SK하이닉스9%↑",
+  "‘청소년유해음원’막으려다‘사전검열’파문...끝내철회",
+  "[IT는지금]LG유플러스-LS일렉트릭,차세대AI데이터센터전력인프라..."
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-07-22T10:34:15.088691+09:00",
    "SK하이닉스 우려에도 단기채에 매수 몰린다 덕분에 백투백 환전자금"
+  ],
+  [
+   "2026-07-22T10:40:25.305053+09:00",
+   "글로벌 완성차 차세대 시스템으로 삼현 구동 독주 러브콜 채비"
   ]
  ],
- "last_run": "2026-07-22T10:38:36.488165+09:00",
+ "last_run": "2026-07-22T10:40:49.208833+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
