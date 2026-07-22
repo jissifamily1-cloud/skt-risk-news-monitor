@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/tech_it/2026/07/22/QLCQ3YMBVFGGXDSECI232AC3BI/",
-  "https://www.ytn.co.kr/_ln/0104_202607220002144474",
-  "https://www.newspim.com/news/view/20260721001155",
-  "https://www.hankyung.com/article/202607217955i",
-  "https://www.news2day.co.kr/article/20260721500260",
-  "https://www.tokenpost.kr/news/briefing/379915",
-  "https://www.hankyung.com/article/202607217946i",
-  "https://biz.chosun.com/international/international_economy/2026/07/21/KYB3S3DEXBGSPDM5DDAXCGLBVA/",
-  "https://www.munhwa.com/article/11604064",
-  "https://www.news1.kr/world/usa-canada/6234675",
   "https://www.tokenpost.kr/news/market/379903",
   "https://www.newspim.com/news/view/20260721001149",
   "https://www.newspim.com/news/view/20260721001148",
@@ -2999,19 +2989,19 @@
   "https://www.ajunews.com/view/20260722164349670",
   "http://www.engjournal.co.kr/news/articleView.html?idxno=3884",
   "https://news.tf.co.kr/read/ptoday/2345961.htm",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04949526645517144"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04949526645517144",
+  "http://www.sportsq.co.kr/news/articleView.html?idxno=496628",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260722.99004006675",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1388319",
+  "https://view.asiae.co.kr/article/2026072217065988525",
+  "https://www.seoulfn.com/news/articleView.html?idxno=633862",
+  "https://www.ekn.kr/web/view.php?key=20260722026455001",
+  "https://www.dailian.co.kr/news/view/1669756/?sc=Naver",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6839304_36981.html",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=754106",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685982"
  ],
  "seen_titles": [
-  "[단독]SK하이닉스의승부수…인텔美오하이오공장산다",
-  "美제재도안먹혀…中,자체칩만으로초대형데이터센터완공",
-  "뉴욕증시,반도체주저가매수에동반상승출발",
-  "[미국특징주]TSMC,\"2027년최대10%가격인상\"보도에美서3%대상승",
-  "\"TSMC,내년부터위탁칩가격최대10%인상\"[닛케이]",
-  "[마켓인사이드]마이크론·인텔반등…악몽의한달보낸반도체업종,...",
-  "[자정뉴스브리핑]트럼프대통령,비트코인및암호화폐명확성법안...",
-  "美증시,반도체주도기술주상승…나스닥1%↑",
-  "반도체주반등에뉴욕증시강세…나스닥0.7%상승",
-  "[속보]뉴욕증시,반도체반등에상승출발…나스닥1.04%↑",
   "[뉴욕개장]반도체주반등에상승…나스닥0.9%↑",
   "삼성전자·에스케이하이닉스급반등,코스피3%이상상승",
   "[AIMY뉴스]뉴욕반도체주프리뷰...저가매수속일제반등",
@@ -6001,13 +5991,19 @@
   "[오늘의ABC뉴스룸]주담대막히고,전세는만기\"벼랑끝실수요자비...",
   "옴니버스연동완료한이지스,엔비디아피지컬AI생태계진입",
   "[속보]李대통령,24일샌프란시스코行…젠슨황·샘알트만과면담",
-  "위성락“국립외교원해킹주체추정가능하지만단정어려워”"
+  "위성락“국립외교원해킹주체추정가능하지만단정어려워”",
+  "돌아가며터지는삼성,되는집은다르다[프로야구]",
+  "통제뚫은챗GPT,스스로외부사이트공격…초유의사고",
+  "신한카드,이민정책연구원·SKT·KCB와'데이터기반이민정책수립및...",
+  "李대통령,美샌프란서'AI동맹'넓힌다…샘알트만·젠슨황등연쇄...",
+  "[세기의이혼②]'SK의역사와미래'까지걸렸던재산분할소송",
+  "LS일렉트릭·LG유플러스,차세대AIDC전력인프라공동개발한다",
+  "오픈AI,서울도심·TV에첫한국광고…챗GPT대중화승부수",
+  "사상초유AI보안사고‥\"챗GPT가멋대로해킹\"",
+  "통제망뚫은오픈AI…'AI해킹'현실화에글로벌보안비상",
+  "[데일리픽]美클래리티법막판총력전…엔비디아CPU'베라'베일벗었..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T11:06:18.894859+09:00",
-   "최강팀 모바일 대전 KEL 이스포츠 리그 대한민국 배틀그라운드"
-  ],
   [
    "2026-07-22T11:10:25.246308+09:00",
    "회장과 SK 임직원이 함께 키운"
@@ -6675,9 +6671,21 @@
   [
    "2026-07-22T17:06:17.045300+09:00",
    "추정 어려워 위성락 단정 주체 국립외교원 가능하지만"
+  ],
+  [
+   "2026-07-22T17:08:17.105780+09:00",
+   "미래 재산분할 걸렸던 역사와 소송 까지 SK의"
+  ],
+  [
+   "2026-07-22T17:08:17.105780+09:00",
+   "현실화에 뚫은 통제망 비상 보안 글로벌"
+  ],
+  [
+   "2026-07-22T17:08:17.105780+09:00",
+   "클래리티법 총력전 CPU 벗었 베일 베라 막판"
   ]
  ],
- "last_run": "2026-07-22T17:06:45.995000+09:00",
+ "last_run": "2026-07-22T17:08:46.244495+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
