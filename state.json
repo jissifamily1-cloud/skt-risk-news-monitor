@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200097",
-  "http://www.srtimes.kr/news/articleView.html?idxno=207590",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92411",
-  "https://www.betanews.net/article/view/beta202607140045",
-  "https://www.sportsseoul.com/news/read/1622553",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269802",
   "http://www.techholic.co.kr/news/articleView.html?idxno=222107",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=850341",
   "https://biz.heraldcorp.com/article/10809290",
@@ -2999,15 +2993,15 @@
   "http://www.metroseoul.co.kr/article/20260722500297",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267488",
   "https://www.smarttoday.co.kr/ko-kr/articles/109697",
-  "https://www.venturesquare.net/1100293/"
+  "https://www.venturesquare.net/1100293/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3642984",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617166",
+  "https://www.yna.co.kr/view/AKR20260722123500371?input=1195m",
+  "https://www.tournews21.com/news/articleView.html?idxno=139134",
+  "https://www.sentv.co.kr/article/view/sentv202607220124",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=737671"
  ],
  "seen_titles": [
-  "SK텔레콤·바이오팜,AI로난치성암치료제개발단초'유효물질'발굴",
-  "[N2포커스]SKT는선제투자,네이버는수요먼저…AI데이터센터엇갈...",
-  "[통신레이더]AI신약개발이끈SKT,로밍절차줄인LGU+...통신사'...",
-  "SKT·SK바이오팜,AI활용해난치성암신약연구속도높인다",
-  "SK텔레콤,\"AI인프라전환의모범\"평가...글로벌통신업계새기준제...",
-  "독파모SKT정예팀,참여사확대통해산업AI전환역량강화",
   "SKT·SK바이오팜,AI로난치성암신약후보발굴…연구기간5개월로단...",
   "SK텔레콤·SK바이오팜,난치성암신약개발연구속도'Up'",
   "SKT-SK바이오팜,난치성암표적치료제개발에활용할초기유효물질발...",
@@ -6001,17 +5995,15 @@
   "이재용·최태원·이해진,美서젠슨황만남…AI기술혁력확대기대",
   "KT,소상공인앱'사장이지'에'매장운세'출시…영업컨디션점수화",
   "[인터뷰]고명수알뜰폰협회장“이통사,모든요금제도매제공해야”",
-  "피지컬AI겨냥한엣지컴퓨팅…어드밴텍,엔비디아젯슨토르기반시..."
+  "피지컬AI겨냥한엣지컴퓨팅…어드밴텍,엔비디아젯슨토르기반시...",
+  "\"온실가스감축,탄소중립실현\"…전주시설공단,2개친환경공인인증...",
+  "중국AI기업들,미국과격차좁히기총력전…자금조달에매진",
+  "[K-VIBE]임기범의AI혁신스토리…전국민AI서비스는마지막단계여야",
+  "SKT,AI글래스'레이밴메타'국내출시,69만원부터판매시작",
+  "신세계I&C,메타AI글래스국내총판맡는다",
+  "KT,디바이스·광고·소상공인플랫폼잇달아선보여"
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T09:18:14.904638+09:00",
-   "LG그룹주 협력 장초반 저점 재부각 자극 매수심리 강세"
-  ],
-  [
-   "2026-07-22T09:18:14.904638+09:00",
-   "직권취소 운명의 여부만 최대주주 시간 YTN 남아"
-  ],
   [
    "2026-07-22T09:20:26.731475+09:00",
    "침투 허깅페이스 스스로 해킹했다 인정 AI가"
@@ -6609,7 +6601,7 @@
    "토르 컴퓨팅 겨냥한 엣지 젯슨 피지컬 어드밴텍 기반"
   ]
  ],
- "last_run": "2026-07-22T15:16:39.588902+09:00",
+ "last_run": "2026-07-22T15:18:32.602964+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
