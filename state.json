@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220261&t=NN",
-  "https://www.dt.co.kr/article/12074070",
-  "https://www.etoday.co.kr/news/view/2606094",
-  "https://www.dailian.co.kr/news/view/1669508/?sc=Naver",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717263",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3642696",
   "https://realty.chosun.com/site/data/html_dir/2026/07/22/2026072201271.html",
   "https://www.newspim.com/news/view/20260722000422",
   "https://www.businesspost.co.kr/BP?command=article_view&num=442829",
@@ -2999,15 +2993,15 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/07/23/2026072300022.html",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030147217&code=61141211&cp=nv",
   "https://www.cstimes.com/news/articleView.html?idxno=714279",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149169"
+  "https://www.smartbizn.com/news/articleView.html?idxno=149169",
+  "https://www.g-enews.com/view.php?ud=202607230802121916fbbec65dfb_1",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426325",
+  "https://www.chosun.com/economy/stock-finance/2026/07/23/Q4RL6F3O3FF2BHJI576IOBOAPE/",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02899526645517472",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02896246645517472",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153083"
  ],
  "seen_titles": [
-  "LS일렉트릭,LG유플러스와800V직류기술공동개발",
-  "통신3사,메타AI글라스'레이밴메타'출시",
-  "[人사이더]목줄풀린챗GPT,멋대로플랫폼해킹…‘AI보안사고’현...",
-  "안민석경기도교육감\"숫자싸움말고교육주도성장으로\"…교부금축소...",
-  "10개월간해킹몰랐던외교부...\"北소행가능성열어둬\"",
-  "유심·eSIM공세에…통신3사,휴가철로밍혜택승부",
   "계명문화대학교,영아부모위한교육...아이와함께참여하는프로그램...",
   "외신도조명한'李17.7억근저당'…로이터\"대출규제우회한거래\"",
   "[홍콩특징주]中전기차제조사립모터,부동산사업에정식진출",
@@ -6001,7 +5995,13 @@
   "[속보]미·이란충돌악화에유가폭등…나스닥0.6%하락에도삼전닉...",
   "[영상]‘키미K3쇼크’반도체에호재or악재?",
   "볼보ES90국내출시…7000만원대에800V·SDV까지담았다",
-  "국제유가,호르무즈위기타고급등···뉴욕증시도결국하락마감"
+  "국제유가,호르무즈위기타고급등···뉴욕증시도결국하락마감",
+  "美토큰60%삼킨중국AI…워싱턴봉쇄망뚫렸다",
+  "[뉴욕마켓워치]알파벳실적앞두고숨죽인월가…주가·채권·달러모두...",
+  "AI투자고삐더죈구글…반도체주반등신호탄될까",
+  "美서33%더비싼SK하이닉스…“가격차,본주상승으로좁혀질수도”",
+  "AMD,앤스로픽에7조원대투자…AI칩동맹가속",
+  "[복지뉴스]보건복지부·한국사회복지협의회,전국상의와손잡고'복지..."
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,17 @@
   [
    "2026-07-23T08:06:16.336520+09:00",
    "악재 K3 쇼크 반도체에 키미 호재 or"
+  ],
+  [
+   "2026-07-23T08:08:16.495229+09:00",
+   "본주 상승으로 가격 수도 좁혀질 비싼 SK하이닉스"
+  ],
+  [
+   "2026-07-23T08:08:16.495229+09:00",
+   "손잡고 복지 한국사회복지협의회 보건복지부 전국상의와"
   ]
  ],
- "last_run": "2026-07-23T08:06:40.396177+09:00",
+ "last_run": "2026-07-23T08:08:39.429677+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
