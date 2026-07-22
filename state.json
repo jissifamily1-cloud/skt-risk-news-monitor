@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Politics/article/all/20260722/134340594/2",
-  "https://news.jtbc.co.kr/article/NB12309487?influxDiv=NAVER",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668180&plink=ORI&cooper=NAVER",
-  "https://www.joongang.co.kr/article/25446983",
-  "https://www.newsverse.kr/news/articleView.html?idxno=10981",
   "https://www.voakorea.com/a/korea-now-07-21-26/8174378.html",
   "https://www.joongang.co.kr/article/25446932",
   "https://www.donga.com/news/Opinion/article/all/20260721/134340006/2",
@@ -2999,14 +2994,14 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253431&CMPT_CD=P0010",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=59481",
   "https://it.donga.com/109234/",
-  "https://www.newsgn.com/news/articleView.html?idxno=563763"
+  "https://www.newsgn.com/news/articleView.html?idxno=563763",
+  "https://dhnews.co.kr/news/view/1065604873332568",
+  "http://www.yonhapnewstv.co.kr/news/MYH202607221823561O9",
+  "https://www.ziksir.com/news/articleView.html?idxno=140878",
+  "https://www.yna.co.kr/view/AKR20260722163600017?input=1195m",
+  "http://www.fnnews.com/news/202607221822451481"
  ],
  "seen_titles": [
-  "리니지클래식점검시간…서버이전업데이트",
-  "[단독]정보기관요원수백명포함1만명정보털린외교부,알고도5개월...",
-  "'유부녀킬러'회사원으로위장한최정예두루미전자영업3팀",
-  "외교관등1만명정보털렸다…\"국가배후등가능성\"",
-  "[사설]외교망해커에뚫리고도10개월동안몰랐다니",
   "외교원서버뚫은'보이지않는스파이'…10개월간뭘지켜봤나",
   "[한국은지금]한국현직외교관등1만명정보유출",
   "외교관전체등최대1만명정보털렸다…북소행가능성",
@@ -6001,7 +5996,12 @@
   "'단비뉴스'도넘은IFCN문턱...기성언론사에겐'높은벽'",
   "[ICT종합]레노버및네이버페이소식외",
   "결제만하던삼성월렛(삼성페이),이젠신분증까지넣자",
-  "경상국립대,전구성원에AI에이전트'라이너프로'제공"
+  "경상국립대,전구성원에AI에이전트'라이너프로'제공",
+  "경복대의료미용학과,성형미용전공·메디컬스킨케어전공체험운영",
+  "'삼겹살회동'한달만에…AI거물들다시뭉친다",
+  "李대통령,미국빅테크·남미정상만난다…AI·자원외교시동",
+  "SK스토아변경승인취하…방미통위\"위법여부살핀다\"",
+  "[강남視角]1만건해킹된'외교대참사'"
  ],
  "recent_sigs": [
   [
@@ -6731,9 +6731,21 @@
   [
    "2026-07-22T18:22:17.394208+09:00",
    "문턱 단비뉴스 기성 넘은 높은 IFCN 언론사에겐"
+  ],
+  [
+   "2026-07-22T18:26:17.341649+09:00",
+   "살핀다 취하 SK스토아 여부 위법 승인 변경"
+  ],
+  [
+   "2026-07-22T18:26:17.341649+09:00",
+   "다시 회동 뭉친다 만에 삼겹살 거물들"
+  ],
+  [
+   "2026-07-22T18:26:17.341649+09:00",
+   "대참사 1만건 외교 해킹된"
   ]
  ],
- "last_run": "2026-07-22T18:24:39.025159+09:00",
+ "last_run": "2026-07-22T18:26:44.455903+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
