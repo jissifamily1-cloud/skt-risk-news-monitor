@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=212730",
-  "https://www.apnews.kr/news/articleView.html?idxno=3049738",
-  "http://www.boannews.com/media/view.asp?idx=144670&kind=3",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=269715",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251281",
-  "https://www.greened.kr/news/articleView.html?idxno=344983",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/21/2026072190036.html",
   "https://www.hankookilbo.com/news/article/A2026071911360004923?did=NA",
   "https://zdnet.co.kr/view/?no=20260719122204",
@@ -2999,15 +2993,15 @@
   "https://www.todayeconomic.com/news/article.html?no=31393",
   "https://zdnet.co.kr/view/?no=20260722151925",
   "https://www.banronbodo.com/news/articleView.html?idxno=32692",
-  "https://zdnet.co.kr/view/?no=20260722145450"
+  "https://zdnet.co.kr/view/?no=20260722145450",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362420",
+  "https://www.joongang.co.kr/article/25447148",
+  "http://www.joseilbo.com/news/news_read.php?uid=572395&class=78",
+  "https://www.yna.co.kr/view/AKR20260722052551003?input=1195m",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=737670",
+  "https://www.chosun.com/economy/tech_it/2026/07/22/Y277ZHDM3VCSLAAPRW6SE3AFY4/"
  ],
  "seen_titles": [
-  "SKT,정부'하이퍼AI네트워크'실증사업수행기관선정…AI-RAN선도망...",
-  "SKT,독파모정예팀참여사확대…SKAX·테크노매트릭스합류",
-  "SKT,독파모정예팀에SKAX·테크노매트릭스신규합류",
-  "'독립'반전으로공감높여…한국주택금융공사새광고",
-  "독파모SKT정예팀에SKAX·테크노매트릭스합류",
-  "SK텔레콤,독자AI모델컨소시엄에신규참여사합류…산업별혁신가...",
   "SKT,정부독자AI파운데이션모델컨소시엄에SKAX·테크노매트릭스...",
   "SKT,'AI-RAN'실증사업참여…피지컬AI고속도로깐다",
   "'초과이윤배분'논의하려던靑회의당일취소…주가영향의식한듯",
@@ -6001,21 +5995,15 @@
   "LG유플러스-LS일렉트릭,AI데이터센터용800V직류전력기술공동개발",
   "KT,소상공인앱'사장이지'에매장운세출시",
   "'영업익N%'로번진노란봉투법후폭풍...정부,혼란속뒤늦게교통정...",
-  "국립외교원해킹파문...\"TPRM플랫폼도입등필요\""
+  "국립외교원해킹파문...\"TPRM플랫폼도입등필요\"",
+  "LS전력4사,제조·시공·배선'수직계열화'완성…美전력망·AI데이터...",
+  "”냉면쿠폰1000원에팔아요”…진화하는‘짠테크’",
+  "중국AI모델두건이바꾼자금흐름…반도체에서플랫폼으로",
+  "볼보코리아,ES90출시…\"프리미엄전기차1위브랜드목표\"(종합)",
+  "SK텔레콤,스마트글래스'레이밴메타'판매",
+  "기초과학·인문학교수까지...AI인재싹쓸이하는빅테크"
  ],
  "recent_sigs": [
-  [
-   "2026-07-22T09:24:16.810492+09:00",
-   "통신 연구 신한카드 신용정보 이민정책 활용 지원 카드"
-  ],
-  [
-   "2026-07-22T09:24:16.810492+09:00",
-   "~SKT 차익실현 사고 POSCO홀딩스"
-  ],
-  [
-   "2026-07-22T09:24:16.810492+09:00",
-   "매장운세 사장님들 사장이지 전용 신규 위한 ~KT 소상공인 콘텐츠"
-  ],
   [
    "2026-07-22T09:28:16.597703+09:00",
    "321분 두산 버틴 승부 무승부 11회 연장 수원 ~KT"
@@ -6611,9 +6599,13 @@
   [
    "2026-07-22T15:22:18.576328+09:00",
    "필요 파문 국립외교원 플랫폼 TPRM 도입"
+  ],
+  [
+   "2026-07-22T15:24:20.536436+09:00",
+   "기초과학 인문학 빅테크 싹쓸이하는 인재 교수까지"
   ]
  ],
- "last_run": "2026-07-22T15:22:39.470178+09:00",
+ "last_run": "2026-07-22T15:24:41.907406+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
