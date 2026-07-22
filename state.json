@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20070124",
-  "https://www.joongang.co.kr/article/25446873",
-  "https://www.thelec.kr/news/articleView.html?idxno=59804",
-  "https://www.mk.co.kr/article/12103670",
-  "https://www.mk.co.kr/article/12103688",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065602984690052",
   "https://www.gukjenews.com/news/articleView.html?idxno=3642147",
   "http://www.ttlnews.com/news/articleView.html?idxno=3127059",
   "https://www.g-enews.com/view.php?ud=20260721174840690335e857d010_1",
@@ -2999,15 +2993,15 @@
   "https://biz.heraldcorp.com/article/10816313",
   "https://www.techm.kr/news/articleView.html?idxno=153568",
   "http://www.00news.co.kr/news/articleView.html?idxno=105305",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335944"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335944",
+  "https://biz.chosun.com/it-science/ict/2026/07/22/GSO4NFPASRELFNMXOTQEKDFUXU/",
+  "http://www.bizwnews.com/news/articleView.html?idxno=141182",
+  "https://www.redian.org/news/articleView.html?idxno=256984",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=312695",
+  "https://www.tokenpost.kr/news/breaking/380053",
+  "http://www.spochoo.com/news/articleView.html?idxno=127808"
  ],
  "seen_titles": [
-  "美,키미K3쇼크에‘中AI차단’검토…한국형모델승산은",
-  "연산량줄여도메모리더쓴다…구글·키미의‘역설’",
-  "‘키미’파급력에고무된中,AI데이터해외유출차단",
-  "전세계뒤흔든키미3…“그창업자왜中에뺏겼나”美의한탄[팩플...",
-  "삼성전자,평택P5하이브리드본딩양산라인구축시작",
-  "CPU로옮겨붙은반도체ETF경쟁",
   "'국립외교원'10개월간털렸다…한국외교관정보통째로유출",
   "[G-MEGA패치]해긴‘2026프로야구GO!’,FA시즌카드추가外",
   "김해공예창작지원센터,'공예·기술융합교육'오는27일개강",
@@ -6001,7 +5995,13 @@
   "KT,통합플랫폼‘바로광고2.0’출시",
   "\"해킹공격자들은늘같은곳을노린다\"...기업이꼭지켜야할보안수...",
   "[김현철의美증시]엔비디아·슈퍼마이크로주도한기술주반등",
-  "유튜브에사로잡힌'100년매체'라디오를구하라"
+  "유튜브에사로잡힌'100년매체'라디오를구하라",
+  "“AI시대독서란?”…밀리의서재,10주년컨퍼런스‘읽는미래’연다",
+  "SK행복나래,'SK임팩트부스터'가동…소셜벤처9개사선발",
+  "이재용·최태원·이해진,젠슨황과회동추진...AI협력확대논의",
+  "KT'바로광고'2.0출시…옥외·IPTV광고통합플랫폼구축",
+  "오픈AI알트먼,다음주美정부에차세대AI모델설명",
+  "리센느부터YB·청하·효린·백아연·빌리·QWER·황재균까지출동...KT위..."
  ],
  "recent_sigs": [
   [
@@ -6771,9 +6771,17 @@
   [
    "2026-07-22T11:46:14.788058+09:00",
    "유튜브에 매체 구하라 라디오를 사로잡힌 100년"
+  ],
+  [
+   "2026-07-22T11:48:17.079509+09:00",
+   "YB 빌리 출동 QWER 리센느부터 ~KT 청하 효린 황재균까지 백아연"
+  ],
+  [
+   "2026-07-22T11:48:17.079509+09:00",
+   "차세대 모델 설명 정부에 다음"
   ]
  ],
- "last_run": "2026-07-22T11:46:40.703536+09:00",
+ "last_run": "2026-07-22T11:48:40.298567+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
