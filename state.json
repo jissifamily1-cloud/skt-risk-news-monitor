@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260721000240",
-  "https://www.news1.kr/finance/blockchain-fintech/6234402",
-  "https://www.kado.net/news/articleView.html?idxno=2062299",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=829697",
-  "https://www.ilyosisa.co.kr/news/article.html?no=256992",
-  "https://www.rapportian.com/news/articleView.html?idxno=238500",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83475",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1531334",
   "https://www.mediapen.com/news/view/1111337",
   "https://biz.sbs.co.kr/article_hub/20000323691?division=NAVER",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83506",
@@ -2999,17 +2991,17 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607220261&t=NN",
   "https://www.dt.co.kr/article/12074070",
   "https://www.etoday.co.kr/news/view/2606094",
-  "https://www.dailian.co.kr/news/view/1669508/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1669508/?sc=Naver",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717263",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3642696",
+  "https://realty.chosun.com/site/data/html_dir/2026/07/22/2026072201271.html",
+  "https://www.newspim.com/news/view/20260722000422",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442829",
+  "https://www.dailian.co.kr/news/view/1669546/?sc=Naver",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43698",
+  "https://view.asiae.co.kr/article/2026072209002268042"
  ],
  "seen_titles": [
-  "'언론의자유종주국'미국에서벌어진일:트럼프행정부,NYT취재원...",
-  "\"글로벌날개달아볼까\"…경과원'스타트업서밋'참가기업모집",
-  "MS,중국AI로갈아타나…6억弗절감위해키미K3도입검토",
-  "메모리반도체3사,HBM4수율경쟁점화…하반기수익판가름",
-  "월드코인,그레이스케일美첫ETF신청에8%대상승[특징코인]",
-  "'강원전사'홍수현·박하준·조은별아시안게임최종리허설돌입",
-  "LG'162㎞파이어볼러'리오스깜짝말소→웨이버예고\"선발투수영입...",
-  "신진서,인류자존심지켰다⋯AI카타고에‘역전승’",
   "한영실업,노인·장애인복지정보포털'돌봄이음'오픈",
   "정부·홈쇼핑·중소기업,상생협력강화나선다…10대실천과제발표",
   "[OBS뉴스오늘2]'코스피스트레스'언제까지…부동산정책윤곽은",
@@ -6001,7 +5993,15 @@
   "통신3사,메타AI글라스'레이밴메타'출시",
   "[人사이더]목줄풀린챗GPT,멋대로플랫폼해킹…‘AI보안사고’현...",
   "안민석경기도교육감\"숫자싸움말고교육주도성장으로\"…교부금축소...",
-  "10개월간해킹몰랐던외교부...\"北소행가능성열어둬\""
+  "10개월간해킹몰랐던외교부...\"北소행가능성열어둬\"",
+  "유심·eSIM공세에…통신3사,휴가철로밍혜택승부",
+  "계명문화대학교,영아부모위한교육...아이와함께참여하는프로그램...",
+  "외신도조명한'李17.7억근저당'…로이터\"대출규제우회한거래\"",
+  "[홍콩특징주]中전기차제조사립모터,부동산사업에정식진출",
+  "대신증권\"CJENM목표주가하향,영업이익개선되고있지만회복속도더...",
+  "SK하이닉스임단협,성과급'주식지급'놓고새갈등",
+  "LG유플러스-LS일렉트릭,이유있는만남…'AI데이터센터혁신'이끈다",
+  "문샷AI,'키미K3'돌풍타고…IPO전몸값74조도전"
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,13 @@
   [
    "2026-07-22T10:48:15.196843+09:00",
    "10개월간 열어둬 몰랐던 소행 가능성 외교부"
+  ],
+  [
+   "2026-07-22T10:50:27.564711+09:00",
+   "유심 휴가철 승부 통신 혜택 공세에 로밍 3사 eSIM"
   ]
  ],
- "last_run": "2026-07-22T10:48:42.745260+09:00",
+ "last_run": "2026-07-22T10:50:45.148681+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
