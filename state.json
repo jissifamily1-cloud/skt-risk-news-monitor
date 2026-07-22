@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685895",
   "https://www.ytn.co.kr/_ln/0104_202607221015340796",
   "https://www.hankyung.com/article/2026072159731",
   "https://www.pressian.com/pages/articles/2026072210165072169",
@@ -2999,10 +2998,10 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=404484",
   "https://www.imaeil.com/page/view/2026072011082360072",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312444",
-  "https://www.segye.com/newsView/20260722518598?OutUrl=naver"
+  "https://www.segye.com/newsView/20260722518598?OutUrl=naver",
+  "http://www.beyondpost.co.kr/view.php?ud=2026072306003679712aaae0046f_30"
  ],
  "seen_titles": [
-  "그레이스케일,미국첫월드코인(WLD)ETF상장도전...기관자금유입...",
   "IMF\"AI,아프리카경제4%끌어올릴수있어…전기·인터넷부터갖춰야...",
   "TSMC\"제값받겠다\"...내년반도체가격최대10%인상",
   "삼성전자,TV화면색표현의한계를넘다…삼성'마이크로RGB'",
@@ -6001,7 +6000,8 @@
   "'운영중단'노린OT공격,'AI'까지활용…\"현장위험성커진다\"",
   "'감당할수있는뉴욕'구호,민주사회주의자시장의6개월실험",
   "함샤우트글로벌'AIBAAI인용지수인사이트리포트'창간호발표",
-  "DDP·아차산매력에푹~외국인관광객‘쑥’"
+  "DDP·아차산매력에푹~외국인관광객‘쑥’",
+  "엔비디아2.3%↑,마이크론1.2%SK하이닉스ADR3.9%↓...반도체주,혼조..."
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,13 @@
   [
    "2026-07-23T06:06:17.703886+09:00",
    "관광객 아차산 DDP 매력에 외국인"
+  ],
+  [
+   "2026-07-23T06:10:16.063323+09:00",
+   "SK하이닉스 반도체주 ADR 마이크론 혼조"
   ]
  ],
- "last_run": "2026-07-23T06:06:35.358923+09:00",
+ "last_run": "2026-07-23T06:10:34.121020+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
