@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25447055",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=590643",
   "https://view.asiae.co.kr/article/2026072208201613082",
   "http://www.boannews.com/media/view.asp?idx=144784&kind=1",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03644086645517144",
@@ -2999,11 +2997,11 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=872834",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253267&CMPT_CD=P0010",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684742",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02692886645517472"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02692886645517472",
+  "https://www.nytimes.com/es/2026/07/22/espanol/negocios/openai-ataque-biblioteca-digital-hugging-face.html?partner=naver",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872843"
  ],
  "seen_titles": [
-  "챗GPT,통제망뜷고외부플랫폼멋대로해킹…AI모델보안·안전논란",
-  "챗GPT가멋대로외부플랫폼해킹…AI사이버보안우려확산",
   "[기업家]SK그룹⑮ㅣAI데이터센터·반도체·친환경전략가속…글로...",
   "LGU+·LS일렉트릭,AI데이터센터전력기술개발협력",
   "“정찰부터암호화까지초고속”...CVE-2026-0257킬린랜섬웨어주의보",
@@ -6001,7 +5999,9 @@
   "뉴욕증시,국제유가상승에하락세…테슬라·알파벳실적발표의여...",
   "SK하이닉스,'사업적자해행위'하면안된다[반도체특별과외]",
   "기업들AI예산조이자…앤트로픽임원\"한도보다운용전략이중요\"",
-  "“하이닉스,인텔오하이오공장인수아닌협력가능성”"
+  "“하이닉스,인텔오하이오공장인수아닌협력가능성”",
+  "OpenAIdicequesusmodelosdeIAsedescontrolaronyatacaronunabibli",
+  "외교원해킹사건으로최대1만명신상정보노출…늦어진외교부보..."
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,17 @@
   [
    "2026-07-23T07:24:16.207021+09:00",
    "사업적 SK하이닉스 된다 자해행위 하면"
+  ],
+  [
+   "2026-07-23T07:28:18.355489+09:00",
+   "IA dice biblio que descontrolaron modelos una de atacaron sus se"
+  ],
+  [
+   "2026-07-23T07:28:18.355489+09:00",
+   "1만 외교부 늦어진 외교원 정보 신상 노출 사건으로"
   ]
  ],
- "last_run": "2026-07-23T07:26:33.778311+09:00",
+ "last_run": "2026-07-23T07:28:39.735144+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
