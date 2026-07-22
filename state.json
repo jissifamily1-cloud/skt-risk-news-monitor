@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426040",
-  "https://zdnet.co.kr/view/?no=20260720164319",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717168",
-  "https://monthly.chosun.com/news/articleView.html?idxno=70806",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260720010006649",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166176",
-  "https://www.thepublic.kr/news/articleView.html?idxno=312004",
-  "https://www.mt.co.kr/world/2026/07/21/2026072114375677823",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3641968",
   "https://www.kukinews.com/article/view/kuk202607210135",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422532",
   "https://www.itdaily.kr/news/articleView.html?idxno=240506",
@@ -2999,18 +2990,18 @@
   "https://www.aitimes.kr/news/articleView.html?idxno=41079",
   "https://www.mk.co.kr/article/12104134",
   "https://platum.kr/archives/291205",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=605549"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=605549",
+  "http://www.4th.kr/news/articleView.html?idxno=2115046",
+  "https://sports.khan.co.kr/article/202607221017003?pt=nv",
+  "http://coinreaders.com/248683",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685895",
+  "https://www.ytn.co.kr/_ln/0104_202607221015340796",
+  "https://www.hankyung.com/article/2026072159731",
+  "https://www.pressian.com/pages/articles/2026072210165072169",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442816",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008668839&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "FT\"中당국,토종AI·반도체기술유출막아라...차단벽강화검토\"",
-  "\"스타링크시대,소버린위성핵심은소유아닌통제\"",
-  "\"소버린위성통신2035년이면늦다…민관협력PPP필요\"",
-  "마천루저주에걸린아모레퍼시픽?…\"정의선'보스턴다이나믹스지분늘...",
-  "[월가톡톡]'문샷AI'양즈린,판흔든중국의34세천재",
-  "[AI는지금]\"AI가영화판바꾼다\"…할리우드거물들,창업·투자·제작...",
-  "'삼전닉스'반등에코스피급등…개인은1.8조순매도",
-  "모건스탠리\"AI發공급부족,27~28년더심화\"",
-  "개인정보유출·해킹은폐까지…'과징금폭탄'떨고있는KT",
   "SKT최대46만원,KT·LGU+15만원…갤럭시신제품사전혜택경쟁",
   "AI가끌어올린메모리값…'칩플레이션'현실화에공급확대속도내는...",
   "'안면인식'中기업변신…AI생태계'은하계획'엔비디아철옹성깨나",
@@ -6001,7 +5992,16 @@
   "오픈AI,한국첫챗GPT브랜드캠페인...'그모든것에,ChatGPT'공개",
   "“통제벗어나더니이런일까지”…챗GPT,멋대로외부사이트해킹",
   "SK,성장단계소셜벤처9개사선발…'SK임팩트부스터'본격가동",
-  "KTHCN,물품대금소송패소로13억반환위기"
+  "KTHCN,물품대금소송패소로13억반환위기",
+  "통신3사'레이밴메타'출시..AI안경대중화",
+  "이통3사,AI스마트글래스‘레이밴메타’출시",
+  "그레이스케일,미국첫월드코인(WLD)ETF상장도전...기관자금유입...",
+  "IMF\"AI,아프리카경제4%끌어올릴수있어…전기·인터넷부터갖춰야...",
+  "TSMC\"제값받겠다\"...내년반도체가격최대10%인상",
+  "삼성전자,TV화면색표현의한계를넘다…삼성'마이크로RGB'",
+  "포항서여성들성관계·속옷차림불법촬영·유포혐의40대구속영장...",
+  "SK텔레콤·KT·LG유플러스,인공지능안경'레이밴메타'일제히출시",
+  "오픈AI최신모델,샌드박스탈출해해킹…사상초유'AI보안사고'"
  ],
  "recent_sigs": [
   [
@@ -6565,7 +6565,7 @@
    "K3가 중국 당신에게 속삭이는 키미"
   ]
  ],
- "last_run": "2026-07-22T10:18:44.865117+09:00",
+ "last_run": "2026-07-22T10:20:42.206897+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
