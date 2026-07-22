@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000323650?division=NAVER",
-  "https://www.imaeil.com/page/view/2026072114294558209",
-  "https://www.etnews.com/20260721000266",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404532",
-  "https://www.dailian.co.kr/news/view/1669154/?sc=Naver",
-  "https://www.ablenews.co.kr/news/articleView.html?idxno=232151",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3641855",
-  "https://www.smartbizn.com/news/articleView.html?idxno=148990",
-  "https://www.ddaily.co.kr/page/view/2026072111523189288",
-  "https://www.ddaily.co.kr/page/view/2026072113433578812",
   "https://www.seoul.co.kr/news/life/2026/07/21/20260721500181?wlog_tag3=naver",
   "https://www.cbci.co.kr/news/articleView.html?idxno=590648",
   "https://www.ytn.co.kr/_ln/0101_202607211435318992",
@@ -2999,19 +2989,19 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616851",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000051377",
   "http://weekly.chosun.com/news/articleView.html?idxno=53654",
-  "https://www.chosun.com/economy/tech_it/2026/07/22/PAAHEBBYRBENTCSJ2F2GPMYBWM/"
+  "https://www.chosun.com/economy/tech_it/2026/07/22/PAAHEBBYRBENTCSJ2F2GPMYBWM/",
+  "https://www.socialvalue.kr/news/view/1065572040198258",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=84238",
+  "https://www.news1.kr/it-science/security-hacking/6234953",
+  "https://www.catchnews.kr/news/articleView.html?idxno=126408",
+  "http://www.newsdream.kr/news/articleView.html?idxno=114807",
+  "https://www.inthenews.co.kr/news/article.html?no=89583",
+  "https://www.seoultimes.news/news/article.html?no=2000097976",
+  "https://www.etnews.com/20260722000067",
+  "https://biz.sbs.co.kr/article_hub/20000323817?division=NAVER",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03371846645517144"
  ],
  "seen_titles": [
-  "구글,제미나이전용AI칩만든다…모델출시지연속'연산전쟁'승부...",
-  "씨이랩,데이터센터에너지효율협회가입…AI데이터센터사업확대",
-  "오픈네트웍시스템,경기도AI챌린지최종선정…공공서비스혁신나선...",
-  "국민대,국제학술대회계기해외대학·기업과협력확대",
-  "中'키미K3'충격…\"美좌불안석,격차몇달아니라몇주\"",
-  "\"삼전닉스아직안죽었다\"…코스피,반도체株강세에장중4%대급등",
-  "'모두의AI'국산모델이원칙·외산은필요최소로…10개컨소참여전...",
-  "마이크로소프트,AMD와AI인프라전면협력…애저에'헬리오스'도입",
-  "외교부시스템뚫렸다...외교관정보최대1만건유출가능성",
-  "제주장복,'2026장애청소년SW·AI체험교실'참가자모집",
   "전문학서구청장,한밭수목원현장점검…시설관리·이용환경살펴",
   "MS,애저에AMDAI랙도입···'HBM수요확대'삼성·SK하이닉스수혜...",
   "최영석LGD\"탠덤OLED,AI기기표준될것…전영역으로확대\"",
@@ -6001,7 +5991,17 @@
   "챗GPT가멋대로외부플랫폼해킹…사상초유의‘AI보안사고’",
   "통제벗어난GPT…외부플랫폼해킹초유사태",
   "젠슨황,이재용·최태원·이해진과美회동…AI거물총출동",
-  "구글,또뒤쳐지나...제미나이‘프로’없이경량모델3종만공개"
+  "구글,또뒤쳐지나...제미나이‘프로’없이경량모델3종만공개",
+  "LGU+·LS일렉,'AIDC전력망'공동개발…'원LG'에공동보조",
+  "미반도체주강세훈풍,삼성전자·SK하이닉스동반급등",
+  "KISA,보안인재·글로벌전문가한자리에…실무교류의장마련",
+  "\"엔비디아AI플랫폼에딱맞춘전력인프라개발\"LS일렉트릭,LG유플러스...",
+  "KT,AI안경'레이밴메타'정식출시…일상속AI경험넓힌다",
+  "KT,드라마‘신병4’시사회에장기고객초청",
+  "KT,AI안경'레이밴메타'출시…AI웨어러블시장진출",
+  "오픈AI,'그모든것에챗GPT'국내첫브랜드캠페인시작",
+  "초유의'AI보안사고'챗GPT가맘대로해킹",
+  "이지스,엔비디아옴니버스연동솔루션구현…피지컬AI시장공략확대"
  ],
  "recent_sigs": [
   [
@@ -6493,7 +6493,7 @@
    "모델 공개 경량 없이 프로 구글 3종만 제미나이 뒤쳐지나"
   ]
  ],
- "last_run": "2026-07-22T09:40:47.526193+09:00",
+ "last_run": "2026-07-22T09:42:37.788827+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
