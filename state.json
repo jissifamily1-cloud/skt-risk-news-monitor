@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260722067000008?input=1195m",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=84254",
   "https://www.cstimes.com/news/articleView.html?idxno=714221",
   "https://www.tjb.co.kr/news05/bodo/view/id/101281",
   "https://www.joongang.co.kr/article/25447055",
@@ -2999,11 +2997,11 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16143440",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=851433",
   "https://biz.sbs.co.kr/article_hub/20000324064?division=NAVER",
-  "https://www.hankyung.com/article/2026072305866"
+  "https://www.hankyung.com/article/2026072305866",
+  "https://www.gokorea.kr/news/articleView.html?idxno=872834",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253267&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "기업들AI예산조이자…앤트로픽임원\"한도보다운용전략이중요\"",
-  "미국발훈풍에삼전닉스이틀째급등…'반도체조정'끝나나",
   "신한카드,SKT·KCB와데이터협력-외국인정착지원위한이민정책연구...",
   "LG유플러스,LS일렉트릭과차세대AIDC전력인프라공동개발",
   "챗GPT,통제망뜷고외부플랫폼멋대로해킹…AI모델보안·안전논란",
@@ -6001,7 +5999,9 @@
   "미국증시,유가급등·금리상승에나스닥약세…엔비디아2.3%↑",
   "최태원'운명',24일판사들의손에달렸다",
   "[마켓브리핑]이번주빅이벤트,알파벳'어닝서프라이즈'발표",
-  "유가3%대급등·빅테크실적경계감에약세[뉴욕증시브리핑]"
+  "유가3%대급등·빅테크실적경계감에약세[뉴욕증시브리핑]",
+  "뉴욕증시,국제유가상승에하락세…테슬라·알파벳실적발표의여...",
+  "SK하이닉스,'사업적자해행위'하면안된다[반도체특별과외]"
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,13 @@
   [
    "2026-07-23T07:18:16.469730+09:00",
    "금리 미국증시 나스닥 급등 유가 약세 상승에"
+  ],
+  [
+   "2026-07-23T07:24:16.207021+09:00",
+   "사업적 SK하이닉스 된다 자해행위 하면"
   ]
  ],
- "last_run": "2026-07-23T07:22:31.424843+09:00",
+ "last_run": "2026-07-23T07:24:38.684842+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
