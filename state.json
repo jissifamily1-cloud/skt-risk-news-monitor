@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lawissue.co.kr/view.php?ud=202607221019034329817d053b9_12",
-  "https://www.etoday.co.kr/news/view/2606069",
-  "https://www.kyeonggi.com/article/20260722580079",
-  "https://www.youthdaily.co.kr/news/article.html?no=223455",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404561",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607220900281310974",
   "http://www.sportsq.co.kr/news/articleView.html?idxno=496624",
@@ -2999,13 +2995,13 @@
   "https://www.mediapen.com/news/view/1111652",
   "https://www.news2day.co.kr/article/20260723500018",
   "https://www.seoul.co.kr/news/economy/2026/07/23/20260723500004?wlog_tag3=naver",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=759693"
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=759693",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1170579",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686173",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260720010006649",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=759586"
  ],
  "seen_titles": [
-  "LS일렉트릭-LGU+,엔비디아‘베라루빈’겨냥전력인프라개발",
-  "LG유플러스,레이밴메타(Gen2)출시",
-  "KT,AI안경‘레이밴메타’출시…11개매장체험존운영",
-  "우려하던일현실로…챗GPT,통제벗어나외부서버'해킹'",
   "오픈AI·앤트로픽,금융·경제거물잇단영입…IPO·AI영향대응",
   "한컴이노스트림-한림대,엔비디아AI교육기반실무형인재양성",
   "[금융레이더]삼성생명/iM라이프/메트라이프생명/AXA손해보험/신한카드/...",
@@ -6001,7 +5997,11 @@
   "[美증시]국제유가급등·빅테크실적관망3대지수동반조정…AI반도...",
   "뉴욕증시,유가쇼크에'숨고르기'…알파벳·테슬라실적앞두고관망",
   "[서울데이터랩]미국증시,기술주약세에혼조출발…나스닥0.57%하락",
-  "SK하이닉스·스퀘어·이노베이션·가스웃었지만...SK그룹상장사3곳중..."
+  "SK하이닉스·스퀘어·이노베이션·가스웃었지만...SK그룹상장사3곳중...",
+  "sk텔레콤주가급등세...증권가가주목한반전신호는?",
+  "알파벳,구글클라우드덕분에매출24%↑...AI투자로잉여현금흐름마...",
+  "개인정보유출·해킹은폐까지…'과징금폭탄'떨고있는KT",
+  "[황당무계]가입자유치하려이런짓까지...\"통신법바뀌었다\"며통신사..."
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-07-23T06:20:15.376328+09:00",
    "가스 상장사 웃었지만 3곳 이노베이션 SK하이닉스 스퀘어 SK그룹"
+  ],
+  [
+   "2026-07-23T06:22:17.761449+09:00",
+   "통신법 바뀌었다 가입자 유치하려 이런짓까지"
   ]
  ],
- "last_run": "2026-07-23T06:20:33.382620+09:00",
+ "last_run": "2026-07-23T06:22:42.281777+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
