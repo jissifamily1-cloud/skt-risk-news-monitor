@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000323754?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000323748?division=NAVER",
-  "https://www.news2day.co.kr/article/20260722500002",
-  "https://www.g-enews.com/view.php?ud=202607211725238359fbbec65dfb_1",
-  "https://www.wikitree.co.kr/articles/1147652",
   "https://www.kmib.co.kr/article/view.asp?arcid=1784616220&code=23111114&cp=nv",
   "https://www.wikitree.co.kr/articles/1147650",
   "https://www.wikitree.co.kr/articles/1147648",
@@ -2999,14 +2994,14 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=155377",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005884947",
   "https://www.hankookilbo.com/news/article/A2026072213420002137?did=NA",
-  "https://www.yna.co.kr/view/AKR20260722138500017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260722138500017?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3643107",
+  "https://www.ajunews.com/view/20260722152805472",
+  "https://www.koreatimes.co.kr/path/A2026072215220000718",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=119284",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207739"
  ],
  "seen_titles": [
-  "토종AI‘모티프3’,中딥시크최신모델과동급성능기록",
-  "키미쇼크에‘AI2강’험로…'특화AI'키우고,경량화모델로차별화...",
-  "[글로벌비즈브리핑]中,'자급자족'초대형데이터센터지었다外",
-  "美재무\"中AI기술절도조사\"…제재가능성",
-  "[증권데일리]한투·신한·삼성·대신·키움證…'핀셋맞춤형'으로미래...",
   "오라클AI데이터센터에700억달러투입…레버리지부담에70억달러...",
   "앤트로픽15억달러합의승인…권당3000달러배상확정",
   "두란노바이블칼리지,미래목회심포지엄연다",
@@ -6001,7 +5996,12 @@
   "신한카드,외국인경제·소비데이터분석나선다…이민정책연구협력",
   "이재용·최태원·이해진,젠슨황만난다…글로벌AI'연합전선'구축",
   "인간통제벗어난챗GPT,멋대로외부플랫폼해킹...안전성우려",
-  "AI,통제망뚫고스스로해킹했다…현실된자율사이버위협"
+  "AI,통제망뚫고스스로해킹했다…현실된자율사이버위협",
+  "460편중살아남은9편…제주여성영화제'요망진당선작'발표",
+  "AI가뉴스생태계재편…언론·데이터주권해법으로떠오른'연대·정책...",
+  "Korea'stopbizleaderstomeetNvidiaCEOinUS",
+  "신한카드,이민정책연구원·SKT·KCB와데이터기반이민정책협력",
+  "[단독]외교부해킹,국내서버보안솔루션제로데이취약점악용이원..."
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,13 @@
   [
    "2026-07-22T16:24:16.370632+09:00",
    "급등 VCF 브로드컴 메모리 해법 티어링 반도체값"
+  ],
+  [
+   "2026-07-22T16:28:17.865489+09:00",
+   "보안솔루션 악용이 국내 취약점 서버 외교부 제로데이"
   ]
  ],
- "last_run": "2026-07-22T16:26:32.884834+09:00",
+ "last_run": "2026-07-22T16:28:36.057801+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
