@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.dealsitetv.com/articles/173561",
-  "https://economist.co.kr/article/view/ecn202607220009",
-  "http://autotimes.co.kr/detail.php?number=688534&thread=27",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356265",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616942",
-  "https://zdnet.co.kr/view/?no=20260721154836",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=264806",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356270",
   "https://biz.heraldcorp.com/article/10816075",
@@ -2999,15 +2993,15 @@
   "https://www.bntnews.co.kr/article/view/bnt202607230036",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02843766645517472",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317647",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230244&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230244&t=NN",
+  "https://www.etnews.com/20260721000309",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153093",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61866",
+  "https://www.greened.kr/news/articleView.html?idxno=345665",
+  "https://www.ddaily.co.kr/page/view/2026072216475284504",
+  "https://www.banronbodo.com/news/articleView.html?idxno=32688"
  ],
  "seen_titles": [
-  "중국AI'2조파라미터'습격…HBM·DRAM폭풍흡수전망",
-  "[중화학노트]고려아연,호주리치몬드밸리프로젝트투자추진外",
-  "706㎞달리는볼보ES90…가격은7294만원부터",
-  "볼보차코리아,파격으로가득한전기플래그십'ES90’출시",
-  "[뉴욕증시]반도체주살아나자투자심리회복…3대지수동반상승",
-  "[전격시사]‘선관위특검합의’로일하는국회로?(이용우)부정선거...",
   "\"분산된라디오앱,통합오디오플랫폼으로활로찾아야\"",
   "SKT·KT·LG유플러스,스마트폰밖먹거리찾는다",
   "[특징주]효성ITX,SKT와2527억원코로케이션계약…주가강세",
@@ -6001,7 +5995,13 @@
   "‘진짜재벌3세는나야!’유신출격",
   "알파벳어닝서프라이즈·테슬라EPS쇼크…\"AI투자검증국면\"[뉴스새...",
   "\"AI시대공론장위기,공영언론'뉴스공급자협회'로대응해야\"",
-  "클라우드82%성장의그늘…구글'마이너스'현금흐름진입[글로벌마켓..."
+  "클라우드82%성장의그늘…구글'마이너스'현금흐름진입[글로벌마켓...",
+  "한양대재학생,교통약자이동돕는'캠퍼스배리어프리맵'제작",
+  "[문화트렌드]국립대구박물관,7월문화가있는날맞아아카펠라그룹...",
+  "유가3%급등에뉴욕증시흔들렸다…나스닥0.6%하락마감",
+  "바이오주,금리보다임상이변수…증권가\"모멘텀있는기업주목\"",
+  "지란지교에스앤씨,'스텔스몰'·'엑스보우'로AI보안강화",
+  "[주간미디어동향]유튜브,개정정보통신망법'1호신고'김어준영상..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-07-23T07:54:17.641920+09:00",
    "하락 인플레 뉴욕증시 유가급등에 우려에 따른 재발"
+  ],
+  [
+   "2026-07-23T08:00:36.853077+09:00",
+   "김어준 영상 1호 신고 정보통신망법 개정 유튜브"
   ]
  ],
- "last_run": "2026-07-23T07:58:36.938875+09:00",
+ "last_run": "2026-07-23T08:01:01.042846+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
