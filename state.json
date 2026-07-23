@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317648",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/22/2026072200308.html",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260723.22015006550",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029663",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2241381",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335967",
-  "https://www.gokorea.kr/news/articleView.html?idxno=872818",
-  "https://www.gokorea.kr/news/articleView.html?idxno=872819",
-  "https://www.dongponews.net/news/articleView.html?idxno=59434",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=204411",
   "https://www.tokenpost.kr/news/breaking/380154",
   "https://www.seoul.co.kr/news/sport/baseball/2026/07/22/20260722500410?wlog_tag3=naver",
@@ -2999,18 +2990,18 @@
   "https://www.cnet.co.kr/view/?no=20260723144611",
   "https://www.koreadaily.com/article/20260722224921035",
   "https://it.chosun.com/news/articleView.html?idxno=2023092166385",
-  "https://www.asiatime.co.kr/article/20260723500311"
+  "https://www.asiatime.co.kr/article/20260723500311",
+  "http://www.osen.co.kr/article/G1112844869",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3644145",
+  "https://www.techm.kr/news/articleView.html?idxno=153618",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=737820",
+  "https://www.betanews.net/article/view/beta202607230048",
+  "https://www.ytn.co.kr/_ln/0102_202607231451184738",
+  "https://www.cnbizm.com/news/articleView.html?idxno=309434",
+  "https://www.newspim.com/news/view/20260723000914",
+  "https://www.techm.kr/news/articleView.html?idxno=153619"
  ],
  "seen_titles": [
-  "LG유플러스·LS일렉트릭,AI데이터센터직류전력개발",
-  "엔비디아,옴니버스라이브러리로에이전트툴킷확장",
-  "방미통위,‘李캠프이력논란'오태규방문진이사자동임명인정",
-  "'AI메모리수요즉각대응'나선SK하이닉스,청주P&T7첨단패키징팹...",
-  "SK하이닉스,청주첨단패키징공장건설에7조931억투입",
-  "‘대선캠프’논란오태규방문진이사후보,자동임명으로",
-  "'파격,1418일만에톱타자'한화50억유격수터졌다,달아나는스리런...",
-  "청와대“한미안보협의지연조짐없어…주미대사와쿠팡포함현안생...",
-  "[AI픽]정부,보안특화'독자AI'개발공모…GPU256장지원",
   "李대통령,美서빅테크리더들만난다",
   "농축·배합보다'포획'먼저,팰월드1.0후반작업팰총정리",
   "업스테이지,독파모2차'솔라오픈2'공개…\"GPU2장으로실무형AI구현...",
@@ -6001,21 +5992,18 @@
   "에이수스AI서버‘XANB3I-E12’,MLPerf주요항목벤치마크서1위달...",
   "개인정보유출역대최악…상반기피해통지4억7000만건",
   "박윤영KT대표\"미디어계열사통합,고민중이지만구체화안해\"",
-  "CPU까지팔겠다는엔비디아,삼전닉스도‘함박웃음’"
+  "CPU까지팔겠다는엔비디아,삼전닉스도‘함박웃음’",
+  "밟기만해도푹푹들어가는KT위즈파크그라운드,23일경기열릴까?[O!...",
+  "추경호대구광역시장,8개국가기관과첫조찬간담회...민생경제·지역...",
+  "[글로벌]구글,'제미나이3.6플래시'출시...최상위프로모델은공개...",
+  "SK텔레콤,로봇데이터국제표준개발참여…ITU-T신규과제채택",
+  "사회적가치연구원,최태원회장제안'SPC연구'국제SSCI학술지게재",
+  "과기정통부-통신사간담회...인공지능네트워크강화",
+  "KT,기아·에스유엠과원격운전상용화추진…연내서비스목표",
+  "[미국특징주]알파벳피차이\"제미나이경쟁력상실우려반박\"",
+  "[글로벌]오픈AI모델,내부평가중격리망이탈...허깅페이스서버무..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-23T08:54:15.674298+09:00",
-   "RDF ITU 피지컬AI 표준 T에서 선도 과제 채택 기술 ~SKT"
-  ],
-  [
-   "2026-07-23T08:54:15.674298+09:00",
-   "1110조원 흔들리자 2030년까지 키웠다 스타게이트 베팅"
-  ],
-  [
-   "2026-07-23T08:54:15.674298+09:00",
-   "모델 미공개 샌드박스 스스로 완수를 규칙을 지침"
-  ],
   [
    "2026-07-23T08:56:18.057796+09:00",
    "국제 학술지 게재 SSCI SK 제안 SPC연구 회장"
@@ -6643,9 +6631,21 @@
   [
    "2026-07-23T14:52:21.732554+09:00",
    "함박웃음 팔겠다는 CPU까지 삼전닉스도"
+  ],
+  [
+   "2026-07-23T14:54:16.016458+09:00",
+   "과기정통부 인공지능 네트워크 간담회 강화"
+  ],
+  [
+   "2026-07-23T14:54:16.016458+09:00",
+   "격리망 서버 내부 이탈 모델 평가 허깅페이스"
+  ],
+  [
+   "2026-07-23T14:54:16.016458+09:00",
+   "상실 우려 피차이 경쟁력 반박 제미나이 알파벳"
   ]
  ],
- "last_run": "2026-07-23T14:52:42.777583+09:00",
+ "last_run": "2026-07-23T14:54:42.082279+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
