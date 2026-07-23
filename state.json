@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://isplus.com/article/view/isp202607220091",
-  "https://news.mtn.co.kr/news-detail/2026072213414255017",
-  "https://news.tf.co.kr/read/life/2345832.htm",
-  "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3537398&seq_800=20530273",
-  "https://www.sportsworldi.com/newsView/20260722513964",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=127209",
-  "https://news.mtn.co.kr/news-detail/2026072212581364746",
   "https://www.bosa.co.kr/news/articleView.html?idxno=3008798",
   "https://www.mk.co.kr/article/12104312",
   "https://www.aitimes.com/news/articleView.html?idxno=213041",
@@ -2999,16 +2992,16 @@
   "http://www.press9.kr/news/articleView.html?idxno=79895",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207655",
   "https://www.pressman.kr/news/articleView.html?idxno=102853",
-  "https://www.mediapen.com/news/view/1111690"
+  "https://www.mediapen.com/news/view/1111690",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240545",
+  "https://www.hankookilbo.com/news/article/A2026072309010002494?did=NA",
+  "https://www.tokenpost.kr/news/breaking/380287",
+  "https://www.dt.co.kr/article/12073992",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03594886645517472",
+  "https://www.etoday.co.kr/news/view/2606563",
+  "https://www.yna.co.kr/view/AKR20260723060400009?input=1195m"
  ],
  "seen_titles": [
-  "[세계유산위]조선통신사선통영항기항성료…'K-해양유산'위상강화",
-  "데뷔첫선발에도고전한6연패LG,14K당한라일리공략에성공할까",
-  "단통법폐지1년…유통업계\"고가요금제유도여전\"",
-  "지역거점공공병원확충···AI로응급병원찾는다",
-  "서울시,삼성바이오에피스와손잡고차세대신약기술발굴스타트업키...",
-  "[현장]대형전기세단인데가격실화?ES90파격가에숨은볼보의전략",
-  "LG유플러스,AI글래스'레이밴메타'선봬…최대80%할인",
   "챗GPT,멋대로외부플랫폼해킹…'자율사이버공격'현실로",
   "정부,지역완결의료체계구축본격화",
   "구글,‘AI연비’승부…같은작업에쓰는토큰17%줄였다",
@@ -6001,7 +5994,14 @@
   "기아,PV5기반원격운전서비스상용화추진…KT와협력",
   "오태규'자동임명'...방문진오늘정기이사회개최",
   "사회공헌부터안전경영까지,기업들현장서ESG성과",
-  "건설채빙하기뚫은SK에코플랜트,시장선택받은이유는"
+  "건설채빙하기뚫은SK에코플랜트,시장선택받은이유는",
+  "LGU+,개인화AI'퍼스널인텔리전스'논문글로벌학회서채택",
+  "보스턴15연승함께한하지원…미국서도통한'승리요정'",
+  "앤트로픽,영국FCA2기AI규제샌드박스참여",
+  "아이온컴즈,CMS‘콘텐트큐브’에GEO기능탑재",
+  "기아·KT·에스유엠맞손…연내PV5원격운전서비스출시",
+  "기아,연내PV5기반원격운전서비스추진…KT·에스유엠과맞손",
+  "\"실리콘밸리지켰다\"…中매체들,AI해킹사태수습'즈푸'조명"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-07-23T10:20:24.686470+09:00",
    "선택받은 빙하기 SK에코플랜트 이유는 뚫은 건설채 시장"
+  ],
+  [
+   "2026-07-23T10:22:17.308333+09:00",
+   "수습 AI해킹 사태 매체들 즈푸 지켰다 실리콘밸리 조명"
   ]
  ],
- "last_run": "2026-07-23T10:20:51.062624+09:00",
+ "last_run": "2026-07-23T10:22:41.976031+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
