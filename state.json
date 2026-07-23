@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260722134839",
-  "https://www.econovill.com/news/articleView.html?idxno=745821",
-  "https://www.nocutnews.co.kr/news/6551583",
-  "https://www.kukinews.com/article/view/kuk202607220091",
-  "https://www.xportsnews.com/article/2174717",
-  "http://www.newsprime.co.kr/news/article.html?no=741112",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=545977",
-  "https://www.techm.kr/news/articleView.html?idxno=153572",
-  "https://www.etnews.com/20260722000225",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/22/2026072200159.html",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46419",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04086886645517144",
   "https://www.aitimes.com/news/articleView.html?idxno=213037",
@@ -2999,19 +2989,19 @@
   "https://www.newspim.com/news/view/20260723000329",
   "https://www.viva100.com/article/20260723500168",
   "https://www.news1.kr/it-science/security-hacking/6236372",
-  "https://www.nocutnews.co.kr/news/6552047"
+  "https://www.nocutnews.co.kr/news/6552047",
+  "https://www.sisaweek.com/news/articleView.html?idxno=236834",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89204",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=84361",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3643769",
+  "https://www.newsis.com/view/NISX20260723_0003719952",
+  "https://www.ajunews.com/view/20260723092841420",
+  "https://www.goodkyung.com/news/articleView.html?idxno=289465",
+  "https://www.news1.kr/industry/sb-founded/6236407",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207740",
+  "https://news.mtn.co.kr/news-detail/2026072309561061061"
  ],
  "seen_titles": [
-  "삼성디스플레이,AI비전'O.P.E.N.'공개…\"엔비디아협력해자율공장...",
-  "에이아이매틱스-LGU+,'AI눈'달린차량으로포트홀찾아낸다",
-  "에이아이매틱스,버스·택배차를도로순찰차로바꿨다",
-  "후반기아직승이없다고?…'투타붕괴'LG,끝없는6연패추락",
-  "경남에너지,협력회사대상특별안전보건교육…현장안전관리강화",
-  "KIA시절자신뛰어넘은류지혁,생애첫3할도보인다…\"매경기이길...",
-  "[최홍규의AI컨텍스터선언17]텍스터는채점하고,컨텍스터는감식한...",
-  "전자주총눈앞인데...통신장애땐결의효력어떻게?",
-  "SKT·KT·LG유플러스,스마트안경공략...'레이밴메타'판매전'점화'",
-  "오픈AI최신모델,인간통제뚫고외부플랫폼해킹…사상초유AI보안...",
   "가성비플래그십표준세운다…볼보,프리미엄전기세단ES90공식출시",
   "성호전자,ADST가치반영될까",
   "“터미네이터아닌현실”…GPT가테스트환경넘어외부시스템해킹",
@@ -6001,7 +5991,17 @@
   "롯데건설,AI·로봇스타트업과맞손…8개기술현장서검증",
   "SK스토아최대출자자변경승인취하⋯라포랩스“거래구조변경따른...",
   "젠슨황,중국AI모델제재에반대…\"뛰어난오픈소스는활용해야\"",
-  "개보위,애플·틱톡에과징금…\"동의없이개인정보수집·이용\""
+  "개보위,애플·틱톡에과징금…\"동의없이개인정보수집·이용\"",
+  "정부,'국민AI에이전트시대'연다…활용기반구축",
+  "LGU+,국제학술대회서'개인화AI기술'발표…학회논문채택",
+  "하지원시구빛난펜웨이파크···보스턴,80년만에15연승으로구단...",
+  "안신일세종시의회의장,경기·인천시의회와자치분권협력강화",
+  "동양\"우리금융지주보유지분가치만1000억…주가저평가\"",
+  "[이재호의인더스토리]SK하이닉스성공신화,이제부터진짜시험대",
+  "[뉴욕증시포커스]빅테크실적앞두고'숨고르기'…유가급등에나스닥...",
+  "\"소버린파운데이션모델,韓NPU로\"…리벨리온서버,'A.XK1'구동",
+  "지란지교에스앤씨,인공지능보안솔루션라인업확대",
+  "리벨리온,국산NPU로SKT독파모'초거대AI'구동"
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,13 @@
   [
    "2026-07-23T10:04:18.296857+09:00",
    "마련 공공기관 가속 가이드라인 프라이버시"
+  ],
+  [
+   "2026-07-23T10:10:29.867494+09:00",
+   "SK하이닉스 이제부터 시험대 진짜 성공 신화"
   ]
  ],
- "last_run": "2026-07-23T10:08:33.659708+09:00",
+ "last_run": "2026-07-23T10:10:47.536697+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
