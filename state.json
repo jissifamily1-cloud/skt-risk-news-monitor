@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3643122",
-  "https://www.hellot.net/news/article.html?no=113916",
-  "http://www.wsobi.com/news/articleView.html?idxno=315607",
-  "https://www.aitimes.com/news/articleView.html?idxno=213049",
   "https://www.mt.co.kr/world/2026/07/22/2026072216305887727",
   "https://en.yna.co.kr/view/AEN20260722007900315?input=2106m",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04824886645517144",
@@ -2999,13 +2995,13 @@
   "https://news.jtbc.co.kr/article/NB12309796?influxDiv=NAVER",
   "https://www.yna.co.kr/view/AKR20260723095800007?input=1195m",
   "https://www.yna.co.kr/view/PYH20260723100800013?input=1196m",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264869"
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=264869",
+  "https://www.munhwa.com/article/11604504",
+  "https://www.munhwa.com/article/11604514",
+  "https://www.donga.com/news/Economy/article/all/20260723/134349308/2",
+  "https://www.m-i.kr/news/articleView.html?idxno=1394519"
  ],
  "seen_titles": [
-  "지란지교에스앤씨,AI기반보안기업협력확대",
-  "SK텔레콤,AI글래스‘레이밴메타’출시…한국어지원",
-  "[속보]李대통령,24일美AI서밋행사…이재용·최태원·정의선·이해진...",
-  "이재용·최태원·정의선,李대통령순방동행…경제외교총력(종합)",
   "오픈AIAI에이전트,격리망뚫고허깅페이스침해…“전례없는사이버...",
   "[속보]위성락\"외교부해킹주체추정은가능…여러가능성조사중\"",
   "[속보]李대통령,美방문기간젠슨황·샘알트만과조우",
@@ -6001,7 +5997,11 @@
   "오픈AI사장\"키미훌륭한모델…GPT기술도용여부불확실\"",
   "일주일남은프로야구트레이드마감일…대형움직임잠잠",
   "박수치는통신3사CEO",
-  "KT,기아·에스유엠과'원격운전'기술사업화맞손"
+  "KT,기아·에스유엠과'원격운전'기술사업화맞손",
+  "과기부-통신3사,고물가대응요금할인확대",
+  "美,中문샷AI직격…“앤트로픽AI모델베꼈다”",
+  "인권단체‘아동착취’누명씌워계정삭제…메타“AI가실수했다”",
+  "사회적가치연구원'사회성과인센티브연구',국제SSCI학술지게재…..."
  ],
  "recent_sigs": [
   [
@@ -6765,7 +6765,7 @@
    "발언하는 CEO ~SKT"
   ]
  ],
- "last_run": "2026-07-23T11:56:37.556211+09:00",
+ "last_run": "2026-07-23T11:58:37.810975+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
