@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://kbench.com/?q=node%2F280580",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008659103&plink=ORI&cooper=NAVER",
-  "https://www.aitimes.com/news/articleView.html?idxno=213050",
-  "https://www.etoday.co.kr/news/view/2606281",
-  "http://www.mdilbo.com/detail/DDAuq0/757364",
-  "https://dealsite.co.kr/articles/165771",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=273438",
   "https://www.etnews.com/20260722000413",
   "http://www.segyebiz.com/newsView/20260722521452?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.ziksir.com/news/articleView.html?idxno=140958",
   "https://www.inthenews.co.kr/news/article.html?no=89678",
   "http://www.metroseoul.co.kr/article/20260723500283",
-  "https://www.newsgn.com/news/articleView.html?idxno=563864"
+  "https://www.newsgn.com/news/articleView.html?idxno=563864",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207750",
+  "https://www.hankyung.com/article/202607231915i",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190067",
+  "https://www.etoday.co.kr/news/view/2606615",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360737",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=119994"
  ],
  "seen_titles": [
-  "AI글래스‘레이밴메타’출격…통신3사선점경쟁",
-  "방미통위방송평가,지상파KBS1·종편MBN1위",
-  "[속보]李대통령,24일부터美·남미·獨순방…샌프란서'AI선언'발표",
-  "李대통령,샘올트먼·젠슨황연쇄면담…靑'대형AI계약성과'예고",
-  "미재무\"중국AI모델,기술훔친정황확인되면제재\"",
-  "SK하이닉스,청주패키징팹앞당겨7조투입…총투자비는동일",
   "한수원,원전공급망보안강화위한협력기업보안관리제도개선설명...",
   "中AI부상에한미AI동맹총결집...이재용·최태원·이해진,또젠슨...",
   "이재용·최태원·정의선·이해진,미국서빅테크수장들과회동",
@@ -6001,7 +5995,13 @@
   "SKT제안'로봇데이터팩토리',ITU-T표준화과제채택",
   "SK브로드밴드,한국산업안전보건공단이사장표창수상…안전문화확산...",
   "LG유플러스,개인화AI'퍼스널인텔리전스'국제학술대회채택",
-  "통영시'삼도수군통제영부활'조선통신사선으로재현"
+  "통영시'삼도수군통제영부활'조선통신사선으로재현",
+  "인티큐브,디노티시아와손잡고'AI메모리'기반개인화AI에이전트개...",
+  "롯데건설,스타트업과주거환경개선협력",
+  "[핀테크NOW]네이버페이·카카오페이·토스",
+  "증설은더딘데AI수요는폭증…삼성전기,MLCC장기계약잇달아",
+  "박윤영KT대표\"미디어계열사통합,고민하지만결정된것없어\"",
+  "SK텔레콤,ITU-T서로봇데이터표준화과제채택"
  ],
  "recent_sigs": [
   [
@@ -6609,7 +6609,7 @@
    "삼도수군통제영 조선통신사선으로 통영시 부활 재현"
   ]
  ],
- "last_run": "2026-07-23T14:12:39.451906+09:00",
+ "last_run": "2026-07-23T14:14:36.582789+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
