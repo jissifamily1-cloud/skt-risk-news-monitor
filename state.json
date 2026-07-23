@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2606160",
-  "https://news.tf.co.kr/read/economy/2345799.htm",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42547",
-  "https://www.electimes.com/news/articleView.html?idxno=370548",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541105",
-  "http://www.boannews.com/media/view.asp?idx=144790&kind=5",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04060646645517144",
-  "https://www.newspim.com/news/view/20260722000857",
-  "https://www.mk.co.kr/article/12104280",
-  "https://www.m-i.kr/news/articleView.html?idxno=1393923",
-  "https://www.news2day.co.kr/article/20260722500229",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202867",
   "https://www.mediapen.com/news/view/1111476",
   "http://www.joseilbo.com/news/news_read.php?uid=572380&class=78",
   "https://www.m-i.kr/news/articleView.html?idxno=1394072",
@@ -2999,21 +2987,21 @@
   "https://www.news1.kr/it-science/cc-newmedia/6236250",
   "https://www.cnbnews.com/news/articleView.html?idxno=1008898",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=1636",
-  "https://biz.heraldcorp.com/article/10817256"
+  "https://biz.heraldcorp.com/article/10817256",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1170688",
+  "https://www.starnewskorea.com/sports/2026/07/23/2026072216111288437",
+  "https://view.asiae.co.kr/article/2026072308423590665",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3643754",
+  "https://www.sedaily.com/article/20070862",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1008900",
+  "https://www.aitimes.com/news/articleView.html?idxno=213025",
+  "https://zdnet.co.kr/view/?no=20260722221119",
+  "https://www.ddaily.co.kr/page/view/2026072310001479276",
+  "https://zdnet.co.kr/view/?no=20260722213635",
+  "https://imnews.imbc.com/news/2026/econo/article/6839494_36932.html",
+  "https://www.yna.co.kr/view/AKR20260722151700530?input=1195m"
  ],
  "seen_titles": [
-  "中AI선도'4대천왕'…30∼40대로모두'공부의신'",
-  "한수원,원전공급망사이버보안강화⋯보안수준평가제도입",
-  "100대기업임원평균54.2세…젊은임원대부분오너일가",
-  "이재용·최태원·이해진,美서젠슨황회동추진…AI공급망협력가능...",
-  "LS일렉트릭-LG유플러스,차세대AI데이터센터전력인프라공동개발",
-  "챗GPT,인간통제벗어나해킹…AI사이버공격첫사례",
-  "“고민보다행동하라”...전문가들이짚은AI보안커리어돌파구",
-  "반도체가끌고외국인이밀고…코스피5%대급등",
-  "[미국특징주]오픈AI\"우리AI모델이허깅페이스해킹했다\"",
-  "한컴이노스트림,한림대와AI교육확대…엔비디아인증과정운영",
-  "\"시총100대기업임원도고령화…평균연령54.2세\"",
-  "볼보,전기플래그십ES90출시…최대706km·7294만원부터",
   "7000만원대파격…볼보코리아,ES90에전략가책정",
   "[MP기업경제포럼]“미국건국250년유산,한국경제이정표되다”",
   "구글,토큰사용줄인'제미나이'3종공개…속도·비용효율강화",
@@ -6001,7 +5989,19 @@
   "\"안전문화확산공로\"…SKB,산업안전보건공단이사장표창",
   "LG유플러스,개인화AI기술논문국제학술대회에서채택",
   "LG유플러스개발'퍼스널인텔리전스',국제정보검색학회에서인정받...",
-  "SKB,산업재해예방공로로‘한국산업안전보건공단’표창수상"
+  "SKB,산업재해예방공로로‘한국산업안전보건공단’표창수상",
+  "알트주가,상한가...어떤회사길래?",
+  "비웃은박찬호에\"1번어떻게쳐야돼?\"묻더니,'50억유격수'는스스로...",
+  "\"운전자없는차온다\"…기아,연내PV5'원격운전'상용화",
+  "고의숙표제주교육밑그림나왔다…5대시책·47개과제제시",
+  "저가고성능中AI공습에美모델울고칩웃고[트럼프스톡커]",
+  "롯데건설,스타트업지원금6.2억확보···\"혁신기술협력\"",
+  "알트먼,다음주워싱턴서'차세대모델'브리핑...\"업무기능특화\"",
+  "개인정보법위반애플과징금2억5000만원",
+  "“문의75%무인해결”…오픈AI,AI상담원운영제품공개",
+  "공공AX추진때프라이버시보호는?...개보위,안내서발간",
+  "장바구니담았더니맞춤광고로‥틱톡·애플과징금105억",
+  "공공기관AI전환가속…개보위,'프라이버시가이드라인'마련"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,17 @@
   [
    "2026-07-23T10:02:17.635949+09:00",
    "SKB 산업재해 표창 공로로 한국산업안전보건공단 수상 예방"
+  ],
+  [
+   "2026-07-23T10:04:18.296857+09:00",
+   "상담원 제품 운영 문의 공개 무인 해결"
+  ],
+  [
+   "2026-07-23T10:04:18.296857+09:00",
+   "마련 공공기관 가속 가이드라인 프라이버시"
   ]
  ],
- "last_run": "2026-07-23T10:02:43.436558+09:00",
+ "last_run": "2026-07-23T10:04:39.209984+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
