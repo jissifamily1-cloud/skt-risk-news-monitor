@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=437530",
-  "https://www.hankyung.com/article/202607229003H",
-  "http://www.kdfnews.com/news/articleView.html?idxno=185531",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=209262",
-  "http://www.osen.co.kr/article/G1112844079",
-  "https://www.segye.com/newsView/20260721519866?OutUrl=naver",
-  "https://www.khan.co.kr/article/202607161614001",
-  "https://biz.sbs.co.kr/article_hub/20000323860?division=NAVER",
   "http://www.fnnews.com/news/202607221025047427",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267440",
   "https://news.tf.co.kr/read/economy/2345744.htm",
@@ -2999,17 +2991,17 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=442916",
   "https://www.etoday.co.kr/news/view/2606484",
   "https://www.yna.co.kr/view/AKR20260723035100003?input=1195m",
-  "https://view.asiae.co.kr/article/2026072309055677968"
+  "https://view.asiae.co.kr/article/2026072309055677968",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717413",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571233630865",
+  "https://www.cnbizm.com/news/articleView.html?idxno=309366",
+  "https://news.mtn.co.kr/news-detail/2026072309014342983",
+  "https://view.asiae.co.kr/article/2026072309074507234",
+  "https://www.newsis.com/view/NISX20260723_0003719764",
+  "https://view.asiae.co.kr/article/2026072309071099275",
+  "https://news.mtn.co.kr/news-detail/2026072309031445545"
  ],
  "seen_titles": [
-  "LG유플러스·LS일렉트릭맞손…차세대AIDC전력인프라협력",
-  "[뉴스워커_LS일렉트릭]LG유플러스와AI데이터센터전력경쟁력강화협...",
-  "유튜브,'가짜뉴스법1호신고'김어준영상차단…국내서접속불가",
-  "방한관광새판짠다…관광업계,인바운드경쟁력강화",
-  "SKT,AI사업함께할스타트업찾기나서...내달18일까지모집",
-  "이주안,임윤아이어이혜리…'폭군의셰프'→'그대에게드림'활약[공...",
-  "홍명보호32강탈락‘대참사’났는데…318억수령‘돈방석’월드컵",
-  "개인정보유출신고에포상금신설…과징금으로피해자구제한다",
   "정재헌SKT사장,가수션과광화문서'깜짝러닝'왜?",
   "통신3사,AI안경'레이밴메타'동시출격…웨어러블AI생태계키운다",
   "시총100대기업임원진평균연령54.2세…네이버임원,49세로가장젊...",
@@ -6001,7 +5993,15 @@
   "하나증권\"AI데이터센터투자확대에전력기기주부각,관련주HD현대일...",
   "한화비전AICCTV4종,국정원‘보안기능확인서’취득",
   "SK사회성과보상모델선순환효과연구국제학술지게재",
-  "\"현장경험모여4나노결실\"…삼성전자최정민PL,대한민국엔지니어..."
+  "\"현장경험모여4나노결실\"…삼성전자최정민PL,대한민국엔지니어...",
+  "롯데건설,스타트업지원금6.2억확보…건설혁신생태계확장",
+  "롯데건설,오픈이노베이션기술실증지원금6억2000만원확보",
+  "롯데건설,오픈이노베이션기술실증지원금6억확보",
+  "\"中저가AI고마워!\"서버-메모리더필요해[여의도Pick!]",
+  "'네이버페이연금'오픈…흩어진자산AI로진단",
+  "바이브컴퍼니,썸트렌드MCP유료결제정식오픈",
+  "업스테이지,독파모2차'솔라오픈2'공개…에이전트특화모델",
+  "애플엔비디아줄줄이영향..초과주문하면추가요금[여의도Pick!]"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,17 @@
   [
    "2026-07-23T09:06:16.700192+09:00",
    "매체별 2024년 MBN 최고점 방송평가 KBS1 공개"
+  ],
+  [
+   "2026-07-23T09:10:25.016576+09:00",
+   "업스테이지 2차 특화 모델 솔라 에이전트 오픈2 독파모 공개"
+  ],
+  [
+   "2026-07-23T09:10:25.016576+09:00",
+   "애플 줄줄이 영향 초과주문하면 추가요금"
   ]
  ],
- "last_run": "2026-07-23T09:08:31.742373+09:00",
+ "last_run": "2026-07-23T09:10:52.391039+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
