@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026071615055096830",
-  "https://www.newspim.com/news/view/20260716000904",
-  "https://shindonga.donga.com/3/all/13/6309316/1",
-  "https://ditoday.com/ai%ea%b0%80-%eb%8b%b5%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-%eb%8b%b9%ec%8b%a0-%eb%b8%8c%eb%9e%9c%eb%93%9c%eb%8a%94-%ea%b7%b8-%ec%95%88%ec%97%90-%ec%9e%88%eb%8a%94%ea%b0%80/",
-  "https://www.etnews.com/20260716000072",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3637640",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684502",
   "https://www.newspim.com/news/view/20260716000026",
   "https://www.econovill.com/news/articleView.html?idxno=745340",
@@ -2999,15 +2993,15 @@
   "http://www.fnnews.com/news/202607231819241743",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4096763",
   "https://www.gukjenews.com/news/articleView.html?idxno=3644552",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251562"
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251562",
+  "https://www.chosun.com/economy/tech_it/2026/07/23/TEMBKV3VUNERNCFDZDHZXNZDZ4/",
+  "http://www.osen.co.kr/article/G1112844960",
+  "https://www.hankookilbo.com/news/article/A2026072313260004243?did=NA",
+  "https://www.tokenpost.kr/news/blockchain/380431",
+  "http://coinreaders.com/249140",
+  "https://news.tf.co.kr/read/national/2346508.htm"
  ],
  "seen_titles": [
-  "변호사가AI로쓴서면…환각은눈으로읽는판사몫",
-  "구글은열고애플은닫았다…EUAI비서규제갈림길",
-  "[WT논평]WarwithIrannotlikeotherwars",
-  "스페인vs아르헨티나,누가이길까…AI에물었더니",
-  "\"제미나이할인해드려요…통신3사,AI필수재시대유치전",
-  "'AI보안기술기반중소기업정보유출예방'…지란지교소프트,AI보안승...",
   "[시큐리티핫이슈]AI發확빨라진취약점패치...AI네이티브보안진화",
   "[GAM]주변기기만들던로지텍AI로재탄생①고가AIPC대신AI마우스",
   "[#시큐리티포커스]지란지교'우수정보보호기술'지정·세이픽스'플...",
@@ -6001,7 +5995,13 @@
   "\"엔비디아독주체제막아라\"AMD,앤스로픽과'AI동맹'",
   "국립외교원해킹사건늑장보고논란...외교부,\"기술적판단위한시간...",
   "[인사]대구광역시,하반기5급이상인사발령",
-  "LG유플러스개인화AI'퍼스널인텔리전스',세계최고정보검색학술대..."
+  "LG유플러스개인화AI'퍼스널인텔리전스',세계최고정보검색학술대...",
+  "가계통신비부담낮추는대책이달중나온다",
+  "에이스책임감일까…'25구던지고우천노게임'NC1선발,3일만쉬고등...",
+  "롯데건설,공공기관과협업해스타트업혁신기술실증",
+  "크라켄모회사,토큰화주식해외확장…홍콩서시작",
+  "비트코인(BTC),AI發물가폭등에'발목'...6만5,000달러제자리걸음",
+  "경기도신임경제부지사에주형철AI·벤처전문가내정"
  ],
  "recent_sigs": [
   [
@@ -6733,7 +6733,7 @@
    "늑장보고 판단 시간 사건 외교부 위한 국립외교원 기술적 논란"
   ]
  ],
- "last_run": "2026-07-23T18:26:32.706612+09:00",
+ "last_run": "2026-07-23T18:28:38.933844+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
