@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20070616",
-  "https://www.newspim.com/news/view/20260722001246",
-  "https://zdnet.co.kr/view/?no=20260722173651",
-  "https://www.thelec.kr/news/articleView.html?idxno=59890",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=759795",
-  "https://www.mk.co.kr/article/12104641",
   "https://www.newscj.com/news/articleView.html?idxno=3419104",
   "https://zdnet.co.kr/view/?no=20260722173643",
   "https://www.aitimes.com/news/articleView.html?idxno=213053",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026072299691",
   "https://www.idomin.com/news/articleView.html?idxno=2010748",
   "https://www.gukjenews.com/news/articleView.html?idxno=3644066",
-  "https://www.news1.kr/it-science/cc-newmedia/6236653"
+  "https://www.news1.kr/it-science/cc-newmedia/6236653",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426465",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04346006645517472",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04342726645517472",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04339446645517472",
+  "https://biz.sbs.co.kr/article_hub/20000324107?division=NAVER",
+  "https://www.techm.kr/news/articleView.html?idxno=153608"
  ],
  "seen_titles": [
-  "\"5000만원이나싸다\"..볼보,전기차가격반란",
-  "시민사회,방미심위에'혐오표현심의기준마련하라'의견서",
-  "SK텔레콤,AI글래스'레이밴메타'출격…디바이스생태계확장",
-  "이대통령,24일부터미국·남미순방…젠슨황·샘올트먼등빅테크CE...",
-  "오픈AI\"AI모델이스스로외부서버해킹\",자율형AI보안우려현실화",
-  "6연패LG,KIA와도2.5경기차3위도'간당간당'",
   "‘검찰이수사해야진실드러난다고?’…與미성년자강간범영장기각...",
   "김해인제대,산살바도르서엘살바도르보건부연수완료",
   "SK하이닉스,청주P&T7건설투자7.1조원으로확대",
@@ -6001,7 +5995,13 @@
   "[단독]박윤영,KT미디어·콘텐츠중복회사통합추진",
   "\"아이들에게꿈을,지역사회에감동전하고파\"[지역에사니다]",
   "용인특례시의회,입법·법률고문위촉식개최…입법역량강화논의",
-  "배경훈\"AI회사변모\"주문에통신3사\"투자세액공제확대\"요구(종합..."
+  "배경훈\"AI회사변모\"주문에통신3사\"투자세액공제확대\"요구(종합...",
+  "통신3사,AI네트워크투자확대…8월민관협의체출범(종합)",
+  "[포토]'레이벤메타'출시",
+  "[포토]AI안경'레이벤메타'출시",
+  "[포토]갤럭시폴드8시리즈3종출시",
+  "[직설]빅테크실적시즌개막…피크아웃론딛고반도체투심살아날까...",
+  "진격의AMD,'헬리오스'앞세워엔비디아추격나선다"
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,13 @@
   [
    "2026-07-23T13:48:17.354791+09:00",
    "에픽 6세대 베니스 연산 베라 처리량 대비 AMD"
+  ],
+  [
+   "2026-07-23T13:54:17.029336+09:00",
+   "진격의 헬리오스 추격 앞세워 AMD 나선다"
   ]
  ],
- "last_run": "2026-07-23T13:52:32.107917+09:00",
+ "last_run": "2026-07-23T13:54:38.304982+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
