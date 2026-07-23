@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260722000826",
-  "https://www.g-enews.com/view.php?ud=202607221348026149e250e8e188_1",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669275&plink=ORI&cooper=NAVER",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207394",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89192",
-  "https://www.newspim.com/news/view/20260722000839",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16142798",
-  "http://coinreaders.com/248884",
-  "http://www.bizwnews.com/news/articleView.html?idxno=141204",
-  "https://www.tenasia.co.kr/article/2026072044564",
-  "http://www.techholic.co.kr/news/articleView.html?idxno=222198",
   "https://dealsite.co.kr/articles/165728",
   "https://www.xportsnews.com/article/2174720",
   "https://www.hankookilbo.com/news/article/A2026072211270000340?did=NA",
@@ -2999,20 +2988,20 @@
   "https://www.ddaily.co.kr/page/view/2026072218154985380",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404610",
   "https://www.dailian.co.kr/news/view/1669972/?sc=Naver",
-  "https://www.ddaily.co.kr/page/view/2026072310024247406"
+  "https://www.ddaily.co.kr/page/view/2026072310024247406",
+  "http://www.osen.co.kr/article/G1112844773",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=221895",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3643733",
+  "https://zdnet.co.kr/view/?no=20260723085441",
+  "https://zdnet.co.kr/view/?no=20260723084101",
+  "https://www.newsis.com/view/NISX20260723_0003719971",
+  "https://www.aitimes.com/news/articleView.html?idxno=213037",
+  "https://www.etoday.co.kr/news/view/2606550",
+  "https://www.redian.org/news/articleView.html?idxno=256993",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3643774",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008670917&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "[AI프리뷰]22일광주-한화전,KIA올러와한화화이트의에이스맞대결",
-  "[AI프리뷰]22일잠실LG-NC전,톨허스트LG6연패탈출이끌까",
-  "美반도체·메모리주,'중국악재'털어내고급반등…조정끝나나",
-  "미재무\"중국AI모델의지적재산권도용조사\"",
-  "미중,9월정부간'AI회담'추진…\"시진핑방미전\"",
-  "LG유플러스-LS일렉트릭,AIDC전력인프라개발맞손…수요선제대응",
-  "[AI프리뷰]22일수원KT-두산전,우중연장접전후다시맞붙는두팀",
-  "\"AI발해킹현실로\"챗GPT모델,통제넘어서버침투'충격'",
-  "AMD,목표주가640달러대폭상향...엔비디아(NVDA)꺾을카드는?",
-  "[현장에서]볼보,전기플래그십'ES90'7294만원에한국최초공개",
-  "카라허영지,스토킹피해자였다…\"7년간겪어,죽여버리고싶다는편지...",
   "신한카드,이민정책연구원·SKT·KCB와데이터기반외국인정착돕는다",
   "SK하이닉스,인텔美오하이오공장인수설에\"사실아냐\"",
   "이열음,담백+러블리입은톱스타완성...캐릭터변신성공(그대에게드...",
@@ -6001,7 +5990,18 @@
   "정의선,다시젠슨황만난다…현대차글로벌AI동맹확장",
   "아이싸이-KTSAT,실시간홍수재난정보제공'맞손'",
   "기아,‘운전자없는PV5’연내출시…KT·에스유엠과원격운전사업화",
-  "삼성전자4나노초저전력결실…HBM4·AI칩앞세워파운드리풀가동"
+  "삼성전자4나노초저전력결실…HBM4·AI칩앞세워파운드리풀가동",
+  "루시,청량+황홀밴드사운드로日요코하마사로잡는다",
+  "[N잡앱테크]신한쏠퀴즈,7월23일오늘의퀴즈정답",
+  "밀양시,가뭄대비농업용저수지현장점검실시",
+  "미스트랄,MS손잡고유럽AI판키운다",
+  "[AI는지금]AI에돈쏟아붓는알파벳…현금흐름적자에도클라우드'폭...",
+  "케이쓰리아이,'유니티서울'참가…3D생성형플러그인출시",
+  "와이즈앱\"한국인스마트폰이용자10명중9명이생성AI앱설치\"",
+  "SKT,로봇데이터학습표준화선도…ITU-T신규과제채택",
+  "이대통령,샌프란시스코서AI빅테크CEO연쇄회동...미국·남미3개국...",
+  "네이버주가7%상승...엔비디아와협력'AI팩토리건설'",
+  "\"미국산AI에킬스위치없다\"…미,'AI주권론'확산에대응"
  ],
  "recent_sigs": [
   [
@@ -6521,7 +6521,7 @@
    "SK하이닉스 이제부터 시험대 진짜 성공 신화"
   ]
  ],
- "last_run": "2026-07-23T10:12:40.126528+09:00",
+ "last_run": "2026-07-23T10:14:37.487324+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
