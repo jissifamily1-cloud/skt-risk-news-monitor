@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102144",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=807479",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=591283",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=205392",
   "https://news.tf.co.kr/read/photomovie/2346223.htm",
   "https://view.asiae.co.kr/article/2026072309472625714",
   "https://hbnpress.com/news/view/1065575310674436",
@@ -2999,13 +2995,13 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=535020",
   "https://www.news1.kr/local/daejeon-chungnam/6237525",
   "https://www.newsis.com/view/NISX20260724_0003721413",
-  "https://www.newspim.com/news/view/20260724000086"
+  "https://www.newspim.com/news/view/20260724000086",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490067.html",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044053",
+  "https://www.sentv.co.kr/article/view/sentv202607240010",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02955286645517800"
  ],
  "seen_titles": [
-  "SKT,로봇데이터생산·활용체계ITU-T국제표준과제채택",
-  "SKT,로봇데이터국제표준과제채택…피지컬AI표준화주도",
-  "[포토]배경훈부총리,통신사3사CEO간담회",
-  "이재용·정의선,글로벌AI포럼최상위자문진합류",
   "기아,KT·에스유엠과PBV기반'원격운전'상용화협력…연내서비스...",
   "네이버,도쿄에‘스마트빌딩’솔루션수출...젠슨황도극찬했던기술",
   "학교·공원·상권한곳에...청약시장‘올인원입지’대세",
@@ -6001,7 +5997,11 @@
   "9년끌어온최태원·노소영이혼소송…재산분할운명오늘갈린다",
   "KAIST-엔비디아,AI공동연구소설립…3억달러규모협력추진",
   "중국의소프트파워첨병,오픈소스AI",
-  "[AIMY뉴스]24일중국증시'유가급등·AI조정,순환매장세지속'"
+  "[AIMY뉴스]24일중국증시'유가급등·AI조정,순환매장세지속'",
+  "[아이온의AI:온]통제선넘은진화…해커가된AI",
+  "[뉴욕증시]빅테크실적우려·중동긴장에하락…나스닥2.15%↓",
+  "뉴욕증시,유가급등·AI투자부담에일제히하락…나스닥2.2%↓",
+  "오픈AI,서울대·정몽구재단과사회복지AI해커톤"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,13 @@
   [
    "2026-07-24T08:30:33.221945+09:00",
    "조정 중국증시 순환매 장세 24일 유가급등 지속"
+  ],
+  [
+   "2026-07-24T08:32:16.462928+09:00",
+   "서울대 정몽구재단과 해커톤 사회복지"
   ]
  ],
- "last_run": "2026-07-24T08:30:59.789247+09:00",
+ "last_run": "2026-07-24T08:32:34.225522+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
