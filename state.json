@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.globalepic.co.kr/view.php?ud=20260723111737470448439a4874_29",
-  "https://view.asiae.co.kr/article/2026072311185364517",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230351&t=NN",
-  "https://www.news1.kr/photos/8021748",
-  "https://www.news1.kr/photos/8021750",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208110",
-  "https://biz.heraldcorp.com/article/10817672",
   "https://www.bntnews.co.kr/article/view/bnt202607230158",
   "https://www.smartbizn.com/news/articleView.html?idxno=149213",
   "https://www.newspim.com/news/view/20260723000546",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2606944",
   "https://www.ajunews.com/view/20260723140409060",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260724.99099007250",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1388866"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1388866",
+  "http://www.incheonin.com/news/articleView.html?idxno=119527",
+  "https://view.asiae.co.kr/article/2026072408323715372",
+  "https://www.hankyung.com/article/2026072433356",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546056",
+  "https://www.newspim.com/news/view/20260724000104",
+  "https://www.news1.kr/it-science/general-it/6237543",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168651"
  ],
  "seen_titles": [
-  "삼성전자,갤럭시폴드8·플립8등공개...화면비바꾸고AI기능강화",
-  "통제벗어난AI돌발행동에'혼란'…안전성검증과통제,새과제로떠...",
-  "여중생성매매시의원,발각되자회사원인척…경찰수사'허점'",
-  "배경훈\"AI기업돼야\"주문…통신3사'메가프로젝트'지원화답",
-  "롯데건설,AI·로봇스타트업과기술실증본격화…건설생태계활성화",
-  "[CAR브리프]한국타이어ㆍ금호타이어ㆍ스트라드비젼ㆍMINIㆍBYDㆍ지커",
-  "[심층분석]일레븐랩스기업가치33조원평가거론…AI음성기업들이주...",
   "롯데건설,스마트건설기술상용화속도…오픈이노베이션지원금6.2억원...",
   "알파벳호실적에도투자부담부각…코스피상승세이어갈지주목",
   "SK텔레콤,피지컬AI국제기술표준화나선다",
@@ -6001,7 +5994,14 @@
   "코빗,챗GPT·클로드연동거래도구'코빗CLI'출시",
   "SKT·KT\"3G서비스종료하겠습니다\"…과기정통부\"예측가능한일정속...",
   "‘세기의이혼’최태원·노소영재산분할파기환송심오늘결론",
-  "AI서메르코수르까지…李·총수'실용외교'[경제외교新실크로드①]"
+  "AI서메르코수르까지…李·총수'실용외교'[경제외교新실크로드①]",
+  "문학산기슭에서대동법의설계자,권반을만나다",
+  "코빗,챗GPT·클로드연동'AI에이전트트레이딩'지원",
+  "단일종목레버리지예탁금3000만원,이달31일조기시행",
+  "AMD,헬리오스·MI450앞세워엔비디아AI데이터센터아성도전",
+  "[미국특징주]AMD,차세대AI칩·서버랙공개…\"엔비디아보다우위\"",
+  "\"챗GPT로사회복지문제해결\"…오픈AI,서울대서해커톤진행",
+  "달,AI로버시험장으로…엔비디아GPU첫투입"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,21 @@
   [
    "2026-07-24T08:34:17.492029+09:00",
    "실용외교 메르코수르까지 AI서 총수"
+  ],
+  [
+   "2026-07-24T08:36:16.113255+09:00",
+   "헬리오스 MI450 아성 AMD 앞세워 데이터센터 도전"
+  ],
+  [
+   "2026-07-24T08:36:16.113255+09:00",
+   "우위 AMD 차세대 공개 엔비디아보다 서버"
+  ],
+  [
+   "2026-07-24T08:36:16.113255+09:00",
+   "로버 시험장으로 GPU 투입"
   ]
  ],
- "last_run": "2026-07-24T08:34:38.367620+09:00",
+ "last_run": "2026-07-24T08:36:41.132156+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
