@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260722501416",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5207547",
-  "https://www.ytn.co.kr/_ln/0101_202607221947346459",
-  "https://www.jjan.kr/article/20260721500005",
-  "https://www.mt.co.kr/stock/2026/07/21/2026072108225862798",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=119224",
-  "https://www.namdonews.com/news/articleView.html?idxno=917488",
-  "https://www.viva100.com/article/20260720500116",
   "https://www.cstimes.com/news/articleView.html?idxno=714282",
   "https://www.ktv.go.kr/content/view?content_id=758250",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05703926645517144",
@@ -2999,17 +2991,17 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8618282",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312971",
   "https://biz.chosun.com/it-science/ict/2026/07/23/L2XROQQX45HBPHL3L2RQCJ6ALM/",
-  "https://www.mt.co.kr/world/2026/07/23/2026072311285425272"
+  "https://www.mt.co.kr/world/2026/07/23/2026072311285425272",
+  "https://www.mk.co.kr/article/12105422",
+  "https://www.aitimes.com/news/articleView.html?idxno=213087",
+  "https://www.thelec.kr/news/articleView.html?idxno=59944",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686312",
+  "http://www.4th.kr/news/articleView.html?idxno=2115153",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80510",
+  "https://www.joongang.co.kr/article/25447516",
+  "http://www.fnnews.com/news/202607231441153088"
  ],
  "seen_titles": [
-  "긴급폭우에방수포도못덮었다…6연패LG,일단하루쉬나",
-  "김영성원주의료기기산업진흥원장'메디슨팀장'경력논란...사실은'메...",
-  "정부,169억원규모GPU투입해국산보안AI키운다",
-  "과기정통부,보안특화AI모델개발공모…GPU256장지원",
-  "\"中AI는'4대천왕'이장악\"…중화권매체,30∼40대AI창업자조명",
-  "‘사이버보안특화AI파운데이션모델’개발사업내달21일까지공모",
-  "[주간보안동향]따릉이460만개인정보유출…보상은30일정기권이전...",
-  "李대통령,美·남미3개국순방…젠슨황,샘올트먼만난다",
   "사상초유의'AI보안사고'…챗GPT가멋대로해킹",
   "[주식마감]'로봇주'연일질주...앤로보틱스,휴림에이텍,아이로보틱...",
   "[코스피]SIMPAC·KT등34개사,23일자사주매입",
@@ -6001,7 +5993,15 @@
   "KT대표“미디어계열사통합고민…결정된바없어”",
   "SKB'안전최우선'경영…한국산업안전보건공단이사장표창수상",
   "오픈AI사장“中‘키미K3’는훌륭한모델...GPT증류여부불확실”",
-  "\"몇주걸릴해킹,수단방법안가리고몇시간만에\"…오픈AI도'멘붕'"
+  "\"몇주걸릴해킹,수단방법안가리고몇시간만에\"…오픈AI도'멘붕'",
+  "배경훈,통신3사CEO와회동…“AI시대네트워크투자속도”",
+  "구글,AI인프라투자'폭주'…올해지출전망최대301조원상향",
+  "구글클라우드82%성장배경은\"AI추론연산급증\"",
+  "배경훈\"통신사,AI기업으로변해야\"...통신3사투자확대화답",
+  "KT박윤영\"미디어계열사통합,구체화된것아냐\"",
+  "法\"SK텔레콤,5G속도과장광고…과징금은다시따져야\"[법정워치]",
+  "이재용·정의선,AI자문기구합류…젠슨황·리사수머리맞댄다",
+  "\"삼성반도체엔지니어들은더나은미래를만드는사람들\""
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,17 @@
   [
    "2026-07-23T14:58:18.089456+09:00",
    "만에 몇주 멘붕 안가리고 걸릴 몇시간 수단방법 오픈AI도"
+  ],
+  [
+   "2026-07-23T15:00:38.493508+09:00",
+   "5G 과장광고 따져야 다시 ~SKT 과징금은 속도"
+  ],
+  [
+   "2026-07-23T15:00:38.493508+09:00",
+   "삼성 반도체 나은 엔지니어들은 만드는 사람들 미래를"
   ]
  ],
- "last_run": "2026-07-23T14:58:36.175656+09:00",
+ "last_run": "2026-07-23T15:01:05.104335+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
