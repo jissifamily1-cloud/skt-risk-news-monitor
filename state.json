@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2571805",
-  "https://www.dt.co.kr/article/12054961",
-  "https://it.donga.com/108653/",
-  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401722",
-  "https://www.dt.co.kr/article/12054493",
-  "https://www.donga.com/news/Economy/article/all/20260329/133630593/1",
-  "https://www.g-enews.com/view.php?ud=202603261734225647fbbec65dfb_1",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=795765",
   "https://www.mk.co.kr/article/11995041",
   "https://www.dt.co.kr/article/12052286",
   "https://view.asiae.co.kr/article/2026031810245871379",
@@ -2999,17 +2991,17 @@
   "https://www.hankyung.com/article/2026072327301",
   "https://www.mt.co.kr/world/2026/07/23/2026072309443525256",
   "https://www.inthenews.co.kr/news/article.html?no=89696",
-  "https://news.tf.co.kr/read/economy/2346496.htm"
+  "https://news.tf.co.kr/read/economy/2346496.htm",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3644521",
+  "https://bizhankook.com/articles/powerful-ai-hacker-threat.html",
+  "https://www.irobotnews.com/news/articleView.html?idxno=47571",
+  "https://www.hankookilbo.com/news/article/A2026072316460002996?did=NA",
+  "http://www.kdfnews.com/news/articleView.html?idxno=185629",
+  "https://www.hankyung.com/article/2026072326671",
+  "https://www.insight.co.kr/news/564391",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335989"
  ],
  "seen_titles": [
-  "AWS“에이전틱AI로파트너사생산성85%끌어올려”",
-  "AI동맹진화…아마존,앤스로픽에최대250억달러투자",
-  "[인터뷰-하정우靑AI미래기획수석(上)]\"AI는국가인프라…GPU26만장에...",
-  "‘쫓아낼땐언제고’…美국방부엔스로픽미토스버젓이사용",
-  "\"에이전트수요잡아야살아남는다\"",
-  "배당에실적까지잡은통신주…원픽은‘SK텔레콤’[줍줍리포트]",
-  "[서학개미브리핑]반도체주랠리에반도체레버리지ETF상위석권",
-  "‘미토스충격’에정부연이은긴급회의…제로트러스트·공급망보안...",
   "정부,미토스충격에통신사·네카오에이어정보보호기업긴급소집",
   "엔스로픽AI'미토스'공개…美정부·기업경계수위높여",
   "스페이스X·엔스로픽상장전ETF경쟁",
@@ -6001,7 +5993,15 @@
   "美기술봉쇄뚫은中AI,기업사용량의60%장악",
   "AI시대,수능봐야하나요?…입시판도바꾸는인공지능",
   "SKT,AI데이터센터전담신설법인‘SK하이퍼’설립…아시아AI인프라...",
-  "SK스토아노조\"라포랩스꼼수계약변경시총파업으로맞대응\""
+  "SK스토아노조\"라포랩스꼼수계약변경시총파업으로맞대응\"",
+  "HD현대중공업,핵융합심장(ITER)마지막진공용기섹터조립완료",
+  "[미토스쇼크]①\"등골이서늘\"너무강력한AI해커등장에전세계공...",
+  "러쥐로보틱스,WAIC2026서휴머노이드로봇작업8시간시연",
+  "SKT,AI데이터센터전담법인'SK하이퍼'신설...7,500억원투자",
+  "SK텔레콤,AIDC사업분리…15GW구축본격화",
+  "美AI협의체자문위,이재용·정의선합류",
+  "LS일렉트릭,LG유플러스AI데이터센터에800V직류망적용추진",
+  "방문진이사장호선보류,MBC차기사장9월중순선임전망"
  ],
  "recent_sigs": [
   [
@@ -6715,9 +6715,21 @@
   [
    "2026-07-23T18:02:19.707467+09:00",
    "전담법인 출자 2030년까지 ~SKT DC 띄운다 7500억원"
+  ],
+  [
+   "2026-07-23T18:08:17.294180+09:00",
+   "구축 사업 DC ~SKT 본격화 15GW 분리"
+  ],
+  [
+   "2026-07-23T18:08:17.294180+09:00",
+   "~LGU 800V AI데이터센터에 LS일렉트릭 LG유플러스 직류망 적용"
+  ],
+  [
+   "2026-07-23T18:08:17.294180+09:00",
+   "차기사장 중순 선임 보류 호선 전망 방문진 이사장 9월 MBC"
   ]
  ],
- "last_run": "2026-07-23T18:06:32.249506+09:00",
+ "last_run": "2026-07-23T18:08:47.375954+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
