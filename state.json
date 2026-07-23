@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/380121",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008669768&plink=ORI&cooper=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000323984?division=NAVER",
-  "https://www.sidae.com/article/2026072216255341655",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131144",
-  "http://www.inews24.com/view/1987856",
   "https://www.slist.kr/news/articleView.html?idxno=753494",
   "https://www.thereport.co.kr/news/articleView.html?idxno=89826",
   "https://www.gukjenews.com/news/articleView.html?idxno=3643139",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/PYH20260723112400013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260723112600013?input=1196m",
   "https://zdnet.co.kr/view/?no=20260723111143",
-  "https://zdnet.co.kr/view/?no=20260723105644"
+  "https://zdnet.co.kr/view/?no=20260723105644",
+  "https://biz.heraldcorp.com/article/10817451",
+  "https://zdnet.co.kr/view/?no=20260723102810",
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=110155",
+  "https://zdnet.co.kr/view/?no=20260723110107",
+  "https://www.aitimes.com/news/articleView.html?idxno=213074",
+  "https://www.aitimes.com/news/articleView.html?idxno=213083"
  ],
  "seen_titles": [
-  "[속보]李대통령참석‘샌프란서밋’에이재용·최태원·정의선등집...",
-  "\"AI,통제망뚫고스스로해킹\"…'자율공격'우려현실로",
-  "李대통령,24일美샌프란시스코AI서밋참석...젠슨황등빅테크CE...",
-  "시즌초반페이스어디갔나요…‘후반기ERA11.25’배동현1군말소...",
-  "번트타구서서봤던박동원,선발라인업빠졌다…염경엽“당연히포...",
-  "앤트로픽,로봇스타트업'피지컬인텔리전스'인수시도…협상은중단",
   "놀유니버스,통합플랫폼‘NOL’9월출범…AI개인화부터‘원스톱여...",
   "[포항소식]제10회어르신주산경기대회개최등",
   "'800V·차세대안전기술'볼보ES90…글로벌시장보다5000만원↓",
@@ -6001,7 +5995,13 @@
   "李대통령+기업총수들,'샌프란서밋'서AI정상들만난다",
   "코드게이트2026해킹방어대회",
   "[AI는지금]로봇두뇌에1억달러몰렸다…中피사이봇,유니콘등극",
-  "챗봇넘어제조현장으로…문서노동바꾸는AI"
+  "챗봇넘어제조현장으로…문서노동바꾸는AI",
+  "불황에도살아남더니매장마다대변신…MZ들은저녁대신‘덥석’[푸...",
+  "[AI는지금]\"AI가짠코드,AI가잡는다\"…시스코,개발보안시장정조...",
+  "붉은사막\"대규모오픈월드구축위한개발프로세스재정의했다\"",
+  "\"AI모델·사업자종속벗자\"…블록이공개한오픈소스협업툴정체",
+  "리벨리온,국산NPU로SKT독자모델'A.XK1'구동성공",
+  "SKT,로봇학습데이터표준화나선다...ITU-T신규과제채택"
  ],
  "recent_sigs": [
   [
@@ -6625,7 +6625,7 @@
    "제조 문서 넘어 노동 현장으로 바꾸는 챗봇"
   ]
  ],
- "last_run": "2026-07-23T12:30:57.209622+09:00",
+ "last_run": "2026-07-23T12:32:32.906929+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
