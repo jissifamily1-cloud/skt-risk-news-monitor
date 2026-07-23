@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607221007421065",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=202852",
-  "http://www.fnnews.com/news/202607211807187609",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05175846645516816",
-  "https://www.tgdaily.co.kr/news/articleView.html?idxno=405854",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=270155",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=545975",
-  "https://www.newspim.com/news/view/20260722000260",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260722.99099006499",
-  "https://www.sportsworldi.com/newsView/20260721521095",
   "https://www.joongang.co.kr/article/25447095",
   "https://daily.hankooki.com/news/articleView.html?idxno=1388091",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160276676386877",
@@ -2999,19 +2989,19 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3643697",
   "https://www.handmk.com/news/articleView.html?idxno=41560",
   "https://www.etnews.com/20260723000057",
-  "https://news.mtn.co.kr/news-detail/2026072308584094926"
+  "https://news.mtn.co.kr/news-detail/2026072308584094926",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=830162",
+  "https://www.bntnews.co.kr/article/view/bnt202607230097",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213247",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230278&t=NN",
+  "https://www.ytn.co.kr/_ln/0104_202607230928259102",
+  "https://www.newspim.com/news/view/20260723000148",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070091",
+  "https://www.viva100.com/article/20260723500171",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070087",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607230260&t=NN"
  ],
  "seen_titles": [
-  "SKT,AI글래스로에이닷생태계확장…인터페이스경쟁나선다",
-  "\"옥외·IPTV광고한번에\"…KT,통합광고플랫폼공개",
-  "한화갑\"DJ여도하나회청산했을것\"[하나회청산되짚기]",
-  "배경훈부총리,통신3사CEO와23일회동",
-  "한양대학생들,교통약자이동돕는‘캠퍼스맵’개발",
-  "신규챔피언로크,'LOLKeSPA컵'서큰활약",
-  "한수원,원전협력사까지보안관리확대…공급망대응강화",
-  "SKT,AI글래스'레이밴메타'출시.시판가69만원.T월드매장서판매",
-  "행안부,AI시대법원판결문개방논의…민관전문가한자리에",
-  "[속보]'서학개미',믿을건미장뿐,미주식폭풍매수",
   "조정식의장,김종철방미통위위원장접견…“허위·조작정보근절에...",
   "국힘,李대통령겨냥“‘메가프로젝트’가로막은노란봉투법,자업자...",
   "한수원,협력사대상'보안관리제도개선온라인설명회'개최",
@@ -6001,7 +5991,17 @@
   "삼성전자·SK하이닉스등반도체대표株상승...외인순매수효과",
   "SK최태원회장제안SPC연구국제SSCI학술지게재",
   "KT,기아·에스유엠과'원격운전'사업화추진…안정적통신망제공",
-  "'안랩TIP'API전용상품출시...해킹정보실시간연결"
+  "'안랩TIP'API전용상품출시...해킹정보실시간연결",
+  "'MLB시구'하지원,보스턴승리여신역사썼다…80년만의15연승'대기...",
+  "‘신병4사보타주’티저공개…8월24일첫방",
+  "업스테이지,에이전트특화LLM'솔라오픈2'공개",
+  "중국서답찾는다…현대차·기아,상하이UX거점확대",
+  "중국'키미쇼크'에미국'AI무단증류'의혹제기하며공세",
+  "인쿠르트,AI취업지원서비스'신입나비'오픈",
+  "한화비전'국정원보안기능확인서'취득",
+  "LG유플러스AI기반개인화기술,국제학회논문채택",
+  "사회성과인센티브사회·경제성과동반성장확인",
+  "해킹도막는다…한화비전AICCTV,'국정원인증'획득"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,17 @@
   [
    "2026-07-23T09:30:32.719822+09:00",
    "전용 안랩 정보 API 실시간 TIP 상품 연결 출시"
+  ],
+  [
+   "2026-07-23T09:32:15.718091+09:00",
+   "확인 사회성과인센티브 경제성과 사회 동반성장"
+  ],
+  [
+   "2026-07-23T09:32:15.718091+09:00",
+   "획득 인증 한화비전 국정원 막는다 CCTV 해킹도"
   ]
  ],
- "last_run": "2026-07-23T09:30:57.037026+09:00",
+ "last_run": "2026-07-23T09:32:41.882835+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
