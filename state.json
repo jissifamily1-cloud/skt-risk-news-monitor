@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04864246645517144",
-  "http://www.finomy.com/news/articleView.html?idxno=257807",
-  "https://www.mt.co.kr/society/2026/07/22/2026072215263829712",
-  "https://biz.sbs.co.kr/article_hub/20000323982?division=NAVER",
-  "http://www.newstomato.com/ReadNews.aspx?no=1307901&inflow=N",
-  "https://www.bloter.net/news/articleView.html?idxno=668676",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=875780",
-  "https://www.yna.co.kr/view/AKR20260722145300001?input=1195m",
   "https://www.busan.com/view/busan/view.php?code=2026072216473449895",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=250711",
   "https://www.chosun.com/politics/politics_general/2026/07/22/C5SROK5PKNAZTEXTBT52SHU6PQ/",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISI20260723_0021374768",
   "https://www.newsis.com/view/NISI20260723_0021374756",
   "https://www.newsis.com/view/NISI20260723_0021374755",
-  "https://www.newsis.com/view/NISI20260723_0021374765"
+  "https://www.newsis.com/view/NISI20260723_0021374765",
+  "https://www.yna.co.kr/view/AKR20260723099500017?input=1195m",
+  "https://www.kukinews.com/article/view/kuk202607230084",
+  "https://www.seoul.co.kr/news/economy/2026/07/23/20260723500129?wlog_tag3=naver",
+  "https://www.newspim.com/news/view/20260723000714",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=82964",
+  "https://www.dailian.co.kr/news/view/1670078/?sc=Naver",
+  "https://byline.network/?p=9004111222612805",
+  "https://www.nocutnews.co.kr/news/6552219"
  ],
  "seen_titles": [
-  "신한카드,카드소비데이터활용해이민정책연구지원",
-  "정성호,'아동성매매혐의'최영중영장반려에\"필요하다면감찰\"",
-  "통신3사,AI안경'레이밴메타'동시출시...요금제·할인혜택차별화",
-  "용인예술과학대송담이노텍,장애인복지관과'캐릭터굿즈'프로그램진...",
-  "[속보]이재명대통령,24일샌프란시스코AI서밋참석…이재용·젠슨황...",
-  "[속보]李대통령,24일부터美순방길…젠슨황·샘올트먼만난다",
-  "李대통령,샌프란시스코서샘올트먼·젠슨황연쇄회동",
-  "[속보]李대통령,24일美AI서밋행사…이재용·최태원·정의선·이해진...",
   "[속보]이대통령,미방문서젠슨황·샘올트먼등'빅테크CEO'만난다",
   "[속보]이대통령,美샌프란서오픈AI·엔비디아·앤트로픽CEO와연쇄...",
   "\"인간통제벗어났다\"...챗GPT,스스로외부플랫폼해킹",
@@ -6001,7 +5993,15 @@
   "발언하는박윤영KT대표",
   "현대건설,'오픈이노공모전'12개사선발...AI·로보틱스실증추진",
   "발언하는정재헌SK텔레콤대표",
-  "배경훈부총리발언듣는이통3사"
+  "배경훈부총리발언듣는이통3사",
+  "배경훈\"빅테크,한국투자강화…K-AI세계에알릴것\"",
+  "네이버‘1784로봇빌딩’기술,일본도쿄한복판에첫수출外업스테...",
+  "착한해커들의대결",
+  "박윤영KT대표\"미디어부문통합,결정된바없다\"",
+  "\"로봇AI호환성벽허물었다\"…SKT,피지컬AI규격화선도",
+  "젠슨황만나러美로…이재용·최태원·정의선'AI3색전략'",
+  "오픈AI모델침해사고조사에중국모델투입한허깅페이스",
+  "챗GPT모델이스스로해킹까지…정부,AI신원확인검토"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,21 @@
   [
    "2026-07-23T11:54:17.681317+09:00",
    "발언하는 CEO ~SKT"
+  ],
+  [
+   "2026-07-23T12:16:19.324075+09:00",
+   "~SKT 로봇 허물었다 선도 호환성 피지컬 규격화"
+  ],
+  [
+   "2026-07-23T12:16:19.324075+09:00",
+   "이재용 젠슨 전략 3색 만나러 정의선"
+  ],
+  [
+   "2026-07-23T12:16:19.324075+09:00",
+   "신원확인 해킹까지 챗GPT 검토 모델이 스스로 정부"
   ]
  ],
- "last_run": "2026-07-23T12:14:33.303657+09:00",
+ "last_run": "2026-07-23T12:16:42.009915+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
