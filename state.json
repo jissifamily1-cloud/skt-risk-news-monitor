@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026031709142305461",
-  "https://view.asiae.co.kr/article/2026031609504350669",
-  "https://www.news1.kr/it-science/general-it/6099415",
-  "https://www.sedaily.com/article/20017560",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=03089766645382008",
-  "https://www.etoday.co.kr/news/view/2563048",
-  "https://www.sedaily.com/article/20015879",
-  "https://www.newspim.com/news/view/20260305000019",
-  "https://www.mk.co.kr/article/11977685",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=03968806645379712",
   "https://www.joongboo.com/news/articleView.html?idxno=363718442",
   "https://www.hankyung.com/article/2026030238731",
@@ -2999,18 +2990,18 @@
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335989",
   "https://www.dailian.co.kr/news/view/1670291/?sc=Naver",
   "https://daily.hankooki.com/news/articleView.html?idxno=1388831",
-  "https://www.newspost.kr/news/articleView.html?idxno=224377"
+  "https://www.newspost.kr/news/articleView.html?idxno=224377",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05598966645517472",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=59506",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=59513",
+  "http://www.kjdaily.com/article.php?aid=1784797556682980244",
+  "https://www.tokenpost.kr/news/breaking/380426",
+  "https://www.hankookilbo.com/news/article/A2026072314310003694?did=NA",
+  "https://www.newsis.com/view/NISX20260723_0003721091",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3029787",
+  "https://www.khan.co.kr/article/202607231810001"
  ],
  "seen_titles": [
-  "규제해소시간부족…서류·절차벽못넘으면개미는'먼산'만[스페이...",
-  "[AI세계속으로]메타의'뮤즈스파크'…폐쇄형운영으로수익확보우선",
-  "인간몰래해킹후사라져…AI'미소스쇼크'",
-  "[Invest]스페이스X는시작일뿐...'텅텅빈'국내IPO에'헥토콘'해외공...",
-  "“몸값만2600조원”서학개미‘참전’기회왔다",
-  "과기정통부,‘에이전틱AI얼라이언스’출범…발전·신뢰모두챙긴다",
-  "“GPT가보고서쓰고,클로드가논평한다”…MS,연구에이전트AI신기...",
-  "단종수순·생산중단까지···벼랑끝에선소비자용메모리,그이유...",
-  "칭기즈칸의역참에서펜타곤의AI까지:전쟁을바꾼정보의속도",
   "상승세탄앤스로픽,10년복수이룰까",
   "앤스로픽내부문건유출…차세대AI‘클로드미토스’실체드러났다",
   "삼성·SK하이닉스최대고객이백악관입성…HBM·자율주행표준설계권...",
@@ -6001,7 +5992,16 @@
   "방문진이사장호선보류,MBC차기사장9월중순선임전망",
   "카카오,소상공인이어NGO활동가로AI교육확대",
   "SK텔레콤,AI데이터센터전문법인'SK하이퍼'설립",
-  "SK브로드밴드,안전보건공단이사장표창수상…산업재해예방공로"
+  "SK브로드밴드,안전보건공단이사장표창수상…산업재해예방공로",
+  "AI·반도체무관산업까지\"N%성과급달라\"…韓투자리스크로(종합)",
+  "[ICT종합]엔에이치엔및AMD소식외",
+  "BPMG,게임·AI·스테이블코인아우르는생태계확장나서",
+  "[구동에서]반도체가뭐길래",
+  "미증시개장전AI주대체로상승…마이크론4.6%↑",
+  "법인코인투자허용앞두고…금융사·가상자산거래소'합종연횡'",
+  "SKT,AI데이터센터전담법인'SK하이퍼'설립…2030년까지7500억출자",
+  "민선9기경기도초대경제부지사주형철전경기연구원장내정",
+  "[여적]AI의자발적해킹"
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,17 @@
   [
    "2026-07-23T18:08:17.294180+09:00",
    "차기사장 중순 선임 보류 호선 전망 방문진 이사장 9월 MBC"
+  ],
+  [
+   "2026-07-23T18:12:19.630111+09:00",
+   "뭐길래 반도체가"
+  ],
+  [
+   "2026-07-23T18:12:19.630111+09:00",
+   "AI의 자발적"
   ]
  ],
- "last_run": "2026-07-23T18:10:43.677465+09:00",
+ "last_run": "2026-07-23T18:12:40.143682+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
