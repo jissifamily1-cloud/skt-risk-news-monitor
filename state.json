@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000323877?division=NAVER",
-  "https://www.sedaily.com/article/20070408",
-  "https://www.sisaweek.com/news/articleView.html?idxno=236812",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3642784",
-  "https://www.news1.kr/world/northeast-asia/6235276",
-  "http://wemakenews.co.kr/news/view.php?no=25861",
-  "https://www.news1.kr/finance/general-stock/6235277",
-  "https://www.hidomin.com/news/articleView.html?idxno=714196",
-  "https://biz.sbs.co.kr/article_hub/20000323878?division=NAVER",
   "http://www.fnnews.com/news/202607211749252565",
   "https://www.mstoday.co.kr/news/articleView.html?idxno=102143",
   "https://www.hani.co.kr/arti/economy/it/1269383.html",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/AKR20260723038400017?input=1195m",
   "https://www.newspim.com/news/view/20260723000118",
   "https://www.newsis.com/view/NISX20260723_0003719782",
-  "http://www.boannews.com/media/view.asp?idx=144805&kind=1"
+  "http://www.boannews.com/media/view.asp?idx=144805&kind=1",
+  "https://www.nocutnews.co.kr/news/6551997",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03302966645517472",
+  "https://mhnse.com/news/articleView.html?idxno=1467638",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=315463",
+  "https://www.slist.kr/news/articleView.html?idxno=753645",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3127897",
+  "https://www.tokenpost.kr/news/breaking/380053",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270179",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1388487"
  ],
  "seen_titles": [
-  "[특징주]외국인'빛과전자·삼성전자'…기관'삼성전자우·성호전자'...",
-  "SK하닉,삼성따라주식성과급?…노사갈등재점화",
-  "상위1%,삼성전자담고SK하이닉스팔았다…순매수2위는심텍[주식초...",
-  "통신3사,'레이밴메타'로AI웨어러블시장확대",
-  "대전시,폐기물처리업체등7곳환경법위반적발…행정처분완료",
-  "中\"중국산AI막으려는美,패권약화우려반영…中발전못막아\"",
-  "\"글로벌보다5000만원낮췄다\"…'볼보ES90손해보고파는이유'",
-  "‘美반도체훈풍’외인1.9조순매수…코스피5%대상승[장중시황]",
-  "포항구룡포불법촬영혐의40대구속영장기각…불구속수사",
   "'AI어벤져스'한자리에…이재용·최태원·이해진,젠슨황만난다",
   "한양대학생들이만든'배리어프리맵'…경사로·장애인주차장한눈에",
   "일레븐랩스,기업가치220억달러평가논의…한화약32조6천억원",
@@ -6001,7 +5992,16 @@
   "[AI픽]SKT,디지털트윈기반로봇데이터표준화추진",
   "美\"中문샷AI,무단증류해키미K3개발...엔비디아블랙웰도활용\"",
   "이재용·정의선,'글로벌AI포럼'자문위원위촉…젠슨황과11월에美...",
-  "케냐대통령공식웹사이트해킹당해...비트코인몸값요구"
+  "케냐대통령공식웹사이트해킹당해...비트코인몸값요구",
+  "'하지원승리시구'보스턴,볼티모어꺾고80년만에15연승기염",
+  "철학자부터소설가까지…'읽는미래'를말하다",
+  "‘마드리스데뷔포’SSG,롯데꺾고4연패탈출…키움도삼성전7연패...",
+  "그룹사콘텐츠한자리에...골프존그룹,공식뉴스룸오픈",
+  "서울문화재단,대학로체류형문화공간확장…'대-락로'캠페인가동",
+  "롯데건설,오픈이노베이션지원금확보...스타트업협업확대",
+  "오픈AI알트먼,다음주美정부에차세대AI모델설명",
+  "KT통신망에기아차량결합…연내'원격운전서비스'나온다",
+  "KT,기아·에스유엠과원격운전기술사업화맞손"
  ],
  "recent_sigs": [
   [
@@ -6441,7 +6441,7 @@
    "웹사이트 요구 대통령 케냐 몸값 당해 비트코인"
   ]
  ],
- "last_run": "2026-07-23T09:22:41.360162+09:00",
+ "last_run": "2026-07-23T09:24:32.897524+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
