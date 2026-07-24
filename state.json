@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83650",
-  "https://www.mk.co.kr/article/12106556",
-  "https://www.hankookilbo.com/news/article/A2026072409350004522?did=NA",
-  "https://www.theguru.co.kr/news/article.html?no=104878",
-  "https://www.khan.co.kr/article/202607241345001",
-  "https://www.etnews.com/20260724000183",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3645308",
-  "https://biz.chosun.com/science-chosun/science/2026/07/24/HQTMIMF5BJDWHEGO573G434FNQ/",
-  "https://www.munhwa.com/article/11604860",
-  "https://www.sedaily.com/article/20071478",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848243",
   "https://www.news1.kr/politics/president/6237965",
   "https://www.ytn.co.kr/_ln/0103_202607241341514786",
   "https://news.tf.co.kr/read/ptoday/2346752.htm",
@@ -2999,20 +2988,20 @@
   "https://www.yna.co.kr/view/PYH20260725017500013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260725017600013?input=1196m",
   "https://www.kizmom.com/news/articleView.html?idxno=111726",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674278&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674278&plink=ORI&cooper=NAVER",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250219&t=NN",
+  "http://www.fnnews.com/news/202607250825593860",
+  "https://www.wikitree.co.kr/articles/1148395",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541653",
+  "https://zdnet.co.kr/view/?no=20260725084504",
+  "https://www.slist.kr/news/articleView.html?idxno=754083",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01941766645518128",
+  "https://view.asiae.co.kr/article/2026072507530435048",
+  "https://www.pressian.com/pages/articles/2026072508524994736",
+  "https://www.dt.co.kr/article/12074626",
+  "https://www.bntnews.co.kr/article/view/bnt202607250086"
  ],
  "seen_titles": [
-  "하나금융,청년금융인재54명배출…생성형AI교육·해커톤운영",
-  "하나금융금감원과함께청년금융인재양성…올해까지171명수료",
-  "지역최고가아파트40곳중18곳,정비사업수주상위사가시공",
-  "대구시농업기술센터,초등생대상'농업·농촌늘봄프로그램'12개교서...",
-  "이재용·최태원·정의선·이해진‘AI깐부회동’…글로벌AI포럼자문...",
-  "(월요기획)'中비중69%'태양광인버터시장,'보안·계통기여'앞세운...",
-  "SKT정재헌\"지금이골든타임…SK하이퍼로AIDC사업본격화\"",
-  "과천시,전국해킹메일대응평가'우수기관'…기초지자체중유일",
-  "[Gov&Now]개보위,틱톡·애플제재…불법개인정보수집에과징금105...",
-  "[이시각헤드라인]7월24일뉴스현장",
-  "조인성3개월훈련‘호프’승마액션의진실…“불가능해보이지만불...",
   "KT,전국9개매장‘갤럭시Z시리즈’체험공간오픈",
   "中AI굴기맞서…한·미'초대형AI연합체'뜬다",
   "\"마케터·엔지니어·PM경계무너진다\"모던그로스스택2026참관기",
@@ -6001,7 +5990,18 @@
   "이해진의장등네이버경영진과젠슨황엔비디아CEO회동",
   "정의선현대차그룹회장과젠슨황엔비디아CEO회동",
   "젠슨황\"SK와730조원협력\"…삼성·네이버·현대차까지'한국AI동맹'",
-  "[속보]이대통령\"한국,대체불가한글로벌AI공급망핵심국가로\""
+  "[속보]이대통령\"한국,대체불가한글로벌AI공급망핵심국가로\"",
+  "오를땐찬밥이더니…개미들'피난처'급부상",
+  "\"세기의이혼…K드라마같다\"외신도주목한최태원·노소영판결",
+  "젠슨황CEO,SK하이닉스관련초대형발표...5000억달러규모",
+  "이대통령,美샌프란도착…젠슨황등만나'AI선언'",
+  "\"AI통제안된다\"…빅테크,'오픈웨이트규제'집단반발",
+  "샘올트먼\"韓,AI선도적모습…다른나라리더들도따라야\"",
+  "젠슨황,SK와5천억달러파트너십발표...삼성·현대차와도협력",
+  "李대통령\"AI황금시대초입\"…젠슨황\"SK와5000억달러협력\"",
+  "[속보]엔비디아젠슨황\"SK와730조규모파트너십발표할예정\"",
+  "정의선·젠슨황,한달만에또만났다…AI협력확대",
+  "[속보]李대통령“대체불가AI공급망핵심국가로도약”"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-07-25T08:54:16.645224+09:00",
    "한국 국가로 대통령 글로벌 대체불가한 핵심 공급망"
+  ],
+  [
+   "2026-07-25T08:56:17.928758+09:00",
+   "나라 리더들도 다른 선도적 모습 따라야"
   ]
  ],
- "last_run": "2026-07-25T08:54:38.051612+09:00",
+ "last_run": "2026-07-25T08:56:35.828520+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
