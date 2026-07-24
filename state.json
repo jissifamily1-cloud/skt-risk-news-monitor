@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.venturesquare.net/1100243/",
-  "https://www.koreaherald.com/article/10816542",
-  "http://coinreaders.com/248884",
-  "http://coinreaders.com/248877",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273400",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=388609",
   "https://byline.network/?p=9004111222612622",
   "https://www.mk.co.kr/article/12104188",
   "https://www.koreajoongangdaily.com/business/samsung-sk-and-naver-leaders-to-meet-nvidia-ceo-jensen-huang-in-us-ai-talks/12785372",
@@ -2999,15 +2993,15 @@
   "https://www.ytn.co.kr/_ln/0134_202607241620072635",
   "https://dealsite.co.kr/articles/165930",
   "https://www.ppss.kr/news/articleView.html?idxno=303178",
-  "https://www.donga.com/news/Economy/article/all/20260724/134358753/1"
+  "https://www.donga.com/news/Economy/article/all/20260724/134358753/1",
+  "http://kr.people.com.cn/n3/2026/0724/c208059-20481525.html",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200298",
+  "https://www.yna.co.kr/view/AKR20260724137800017?input=1195m",
+  "https://www.dailian.co.kr/news/view/1670716/?sc=Naver",
+  "https://www.techm.kr/news/articleView.html?idxno=153670",
+  "https://news.bizwatch.co.kr/article/industry/2026/07/24/0034"
  ],
  "seen_titles": [
-  "SamsungEyesMajorInvestmentinMistralAI:AStartforKorean'Sovere",
-  "LeetakesKorea’sAIambitionstoSiliconValley",
-  "'AI신냉전체제'반도체다음전장은AI모델",
-  "DonaldTrumpJr.’sInvestmentFirmPostsStaggeringReturnsof200%",
-  "(LEAD)LeetovisitU.S.,Brazil,Chile,Argentina,GermanyfromFri.t",
-  "“도망아니다”라던홍명보,결국돌아왔다…‘월드컵대참사’책임대...",
   "YonhapNewsSummary",
   "Samsung’sLee,SK’sChey,Naver’sLeetojoinNvidia’sHuangatSili...",
   "'밀레니얼천재',중국'문샷AI'창립자34세의양즈린",
@@ -6001,7 +5995,13 @@
   "\"재산분할가액줄이려면\"...최태원측판뒤집을승부수는?[Y녹취록]",
   "더존비즈온,개발조직전반에'클로드'도입…AI업무체계전환",
   "더존비즈온,클로드전면도입…전사AI업무환경전환",
-  "모비데이즈,‘맥스서밋2026’2차라인업공개…오픈AI·넷플릭스합..."
+  "모비데이즈,‘맥스서밋2026’2차라인업공개…오픈AI·넷플릭스합...",
+  "‘터미네이터’현실화된美…AI제어권놓치자,中이구했다",
+  "[더밸류브리핑]오늘의금융계소식...하나금융그룹·새마을금고중앙회...",
+  "최태원·젠슨황,AI서밋앞두고미국서협력확대",
+  "최태원,9440억현금마련어떻게…담보대출이냐실트론이냐",
+  "법원,최태원회장재산분할9440억원판결...최태원측\"검토후재상고...",
+  "法'최태원9440억'판결…2심과다른듯같은이유"
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,17 @@
   [
    "2026-07-24T16:24:17.062314+09:00",
    "넷플릭스 모비데이즈 2차 라인업 공개 맥스서밋"
+  ],
+  [
+   "2026-07-24T16:26:18.397232+09:00",
+   "금융계 새마을금고중앙회 하나금융그룹 소식 오늘의"
+  ],
+  [
+   "2026-07-24T16:26:18.397232+09:00",
+   "2심과 다른 판결 9440억 같은 이유"
   ]
  ],
- "last_run": "2026-07-24T16:24:38.486183+09:00",
+ "last_run": "2026-07-24T16:26:39.433896+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
