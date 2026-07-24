@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253436&CMPT_CD=P0010",
-  "https://www.khan.co.kr/article/202607231404001",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422608",
-  "https://www.inthenews.co.kr/news/article.html?no=89677",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546030",
-  "http://www.breaknews.com/1223802",
-  "http://www.osen.co.kr/article/G1112844853",
   "http://www.osen.co.kr/article/G1112844851",
   "http://www.osen.co.kr/article/G1112844852",
   "http://www.osen.co.kr/article/G1112844849",
@@ -2999,16 +2992,16 @@
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87085",
   "https://www.smartbizn.com/news/articleView.html?idxno=149310",
   "https://www.ziksir.com/news/articleView.html?idxno=141070",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=362517"
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362517",
+  "https://www.sedaily.com/article/20071404",
+  "https://www.lecturernews.com/news/articleView.html?idxno=207015",
+  "https://www.newspim.com/news/view/20260724000331",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49692",
+  "https://www.mt.co.kr/tech/2026/07/24/2026072410192230893",
+  "https://www.newspim.com/news/view/20260724000379",
+  "https://www.newsis.com/view/NISX20260724_0003721709"
  ],
  "seen_titles": [
-  "[AI프리뷰]23일잠실LG-NC전,NC만나는웰스6연패LG구할까",
-  "티베로·오케스트로클라우드,데이터플랫폼·클라우드사업협력",
-  "미국행이대통령,앤트로픽·엔비디아·오픈AI·브로드컴CEO만난다",
-  "“조심하라는말만들었지‘어떻게’몰랐죠”···농아인의보이스피...",
-  "KT박윤영\"미디어계열사통합,결정된것없어···티빙·웨이브합병...",
-  "사회성과인센티브,사회성과·경제성과선순환구조에기여…국제학술...",
-  "기아·KT·에스유엠,PV5원격운전서비스연내출시추진",
   "국립외교원해킹으로1만건정보유출…'제로데이'취약점파고든고도...",
   "[사진]비에젖어진흙으로변한KT위즈파크그라운드",
   "[사진]진흙탕된KT위즈파크그라운드,'23일정상개최가능하나'",
@@ -6001,7 +5994,14 @@
   "하나금융,'청년금융인재양성프로젝트'4기성과공유회…누적수료...",
   "최태원·노소영재산분할파기환송심오늘선고···'SK지분'판단최...",
   "최태원·노소영이혼재산분할오늘선고…SK주식포함여부쟁점",
-  "KT,'AID-X데모데이'개최…전사AX확산속도"
+  "KT,'AID-X데모데이'개최…전사AX확산속도",
+  "롯데중앙연구소,푸드테크스타트업찾는다",
+  "『조직은설계된다』저자조현철박사북콘서트성료",
+  "[미국특징주]'매그니피센트7'하루만에시총7970억弗증발…AI투자...",
+  "하나금융,'청년금융인재양성프로젝트'성과공유회개최",
+  "KAIST도젠슨황손잡았다…엔비디아AI공동연구소설립",
+  "李대통령,오늘美샌프란시스코로…이재용·최태원·정의선과'AI세일즈...",
+  "\"칩플레이션현실화\"…메모리가격치솟자PC·모바일수요위축"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,21 @@
   [
    "2026-07-24T10:22:18.292786+09:00",
    "한국형 KAIST에 공동개발 에이전틱 달러 투자 3억"
+  ],
+  [
+   "2026-07-24T10:30:32.371674+09:00",
+   "스타트업 푸드테크 롯데중앙연구소 찾는다"
+  ],
+  [
+   "2026-07-24T10:30:32.371674+09:00",
+   "치솟자 가격 모바일 메모리 PC 수요 칩플레이션 현실화 위축"
+  ],
+  [
+   "2026-07-24T10:30:32.371674+09:00",
+   "샌프란시스코로 이재용 세일즈 정의선과 대통령"
   ]
  ],
- "last_run": "2026-07-24T10:28:35.102501+09:00",
+ "last_run": "2026-07-24T10:30:57.924550+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
