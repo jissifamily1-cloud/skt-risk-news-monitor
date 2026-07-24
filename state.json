@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01443206645516160",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/19/2026071990038.html",
-  "https://www.sedaily.com/article/20069063",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008663688&plink=ORI&cooper=NAVER",
-  "https://www.newsis.com/view/NISX20260716_0003712612",
-  "https://www.newspim.com/news/view/20260715000940",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=223681",
-  "https://www.news1.kr/society/court-prosecution/6230965",
-  "https://www.dt.co.kr/article/12073373",
-  "https://www.yna.co.kr/view/AKR20260718040900004?input=1195m",
-  "https://www.dailian.co.kr/news/view/1668347/?sc=Naver",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42475",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356108",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=312289",
@@ -2999,20 +2988,20 @@
   "https://www.lecturernews.com/news/articleView.html?idxno=207057",
   "https://www.viewsnnews.com/article?q=237427",
   "https://magazine.hankyung.com/business/article/202607244536b",
-  "https://www.etnews.com/20260724000279"
+  "https://www.etnews.com/20260724000279",
+  "https://www.dailian.co.kr/news/view/1670668/?sc=Naver",
+  "https://www.wikitree.co.kr/articles/1148310",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645448",
+  "http://www.press9.kr/news/articleView.html?idxno=80025",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=724988",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=119397",
+  "https://www.donga.com/news/Economy/article/all/20260724/134358622/1",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852315",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308134&inflow=N",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=61957",
+  "https://www.mt.co.kr/society/2026/07/24/2026072415014244532"
  ],
  "seen_titles": [
-  "2026장애와기술전'미디어술래'개막··8월21일까지진행",
-  "최태원·노소영,'재산분할소송'파기환송심D-3",
-  "이번주‘주가조작’김건희대법결론…오세훈,최태원·노소영재판...",
-  "22일오세훈·24일최태원법조계슈퍼위크···‘일주일유예’김건희...",
-  "대법원서이겼는데'날벼락'…최태원,5배뛴SK주가에재산분할더내...",
-  "24일김건희‘3대의혹’대법결론…최태원‘세기의재산분할’선...",
-  "'법원슈퍼위크'김건희·오세훈선고…최태원·노소영결론도",
-  "최태원-노소영'세기의이혼'24일파기환송심결론",
-  "이번주최태원-노소영'세기의재산분할'파기환송심결론",
-  "李,23일부동산국민대토론회주재…이번주(20~24일)주요일정",
-  "9년공방마침표⋯최태원·노소영,24일파기환송심에쏠린눈",
   "운명의한주,김건희상고심·오세훈1심·최태원재산분할파기환송심",
   "\"김건희·최태원·오세훈\"…내주대형선고잇따라",
   "이번주법원슈퍼위크…김건희·최태원·오세훈선고",
@@ -6001,7 +5990,18 @@
   "카이스트,엔비디아와AI공동연구소설립…한국어특화에이전틱AI개...",
   "李대통령,8박11일미국-남미순방차출국",
   "최태원회장SPC성과정책적으로규명한SSCI논문나와",
-  "“AI체험부터900만원경품까지”…KT·삼성전자,내달3일까지동성로..."
+  "“AI체험부터900만원경품까지”…KT·삼성전자,내달3일까지동성로...",
+  "'루퍼·스피릿'vs'막눈·인섹'…LCK레전드매치명단공개",
+  "550홈런까지단12개남았는데…SSG최정에게전해진안타까운소식",
+  "충남대병원,장애인찾아가는건강검진실시…의료사각지대해소",
+  "최태원SK회장,노소영에9440억원지급판결…항소심보다4368억원감소",
+  "法,\"최태원,노소영에9440억지급\"…2심보다3분의1깎였다",
+  "최태원·노소영파기환송심,재산분할9440억원선고…SK주식분할대상...",
+  "최태원·노소영재산분할파기환송심4368억↓판결…“상고여부등검...",
+  "[톺아보기]1.4조→9440억원…최태원'절반의승리'",
+  "샌프란시스코부터글로벌사우스까지…재계,AI·광물·제조‘영토확장...",
+  "과천시,해킹메일대응우수기관선정…9월공연예술축제퍼레이드시...",
+  "최태원→노소영9440억재산분할금에세금은없어…증여세'0원'"
  ],
  "recent_sigs": [
   [
@@ -6787,9 +6787,21 @@
   [
    "2026-07-24T15:34:15.297054+09:00",
    "900만원 ~KT 내달 경품까지 3일까지 체험부터 동성로 삼성전자"
+  ],
+  [
+   "2026-07-24T15:36:17.060686+09:00",
+   "확장 글로벌사우스까지 재계 샌프란시스코부터 영토 제조 광물"
+  ],
+  [
+   "2026-07-24T15:36:17.060686+09:00",
+   "4조 승리 9440억원 절반의"
+  ],
+  [
+   "2026-07-24T15:36:17.060686+09:00",
+   "없어 9440억 0원 재산분할금에 증여세 세금은"
   ]
  ],
- "last_run": "2026-07-24T15:34:47.392186+09:00",
+ "last_run": "2026-07-24T15:36:44.009616+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
