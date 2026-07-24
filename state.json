@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.korea.kr/news/policyNewsView.do?newsId=148967396&call_from=naver_news",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8598470",
-  "https://www.thelec.kr/news/articleView.html?idxno=58806",
-  "https://view.asiae.co.kr/article/2026063012274400982",
-  "https://www.newspim.com/news/view/20260724000027",
-  "https://www.ddaily.co.kr/page/view/2026072317192350639",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356417",
-  "https://www.kwnews.co.kr/article/20260723500833",
   "https://www.kado.net/news/articleView.html?idxno=2062866",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2429913",
   "https://www.betanews.net/article/view/beta202607230066",
@@ -2999,17 +2991,17 @@
   "https://www.ytn.co.kr/_ln/0134_202607241559575157",
   "http://www.updownnews.co.kr/news/articleView.html?idxno=318101",
   "https://www.ekn.kr/web/view.php?key=20260724026595736",
-  "https://www.aitimes.com/news/articleView.html?idxno=213134"
+  "https://www.aitimes.com/news/articleView.html?idxno=213134",
+  "https://www.news1.kr/local/ulsan/6238295",
+  "https://www.hellot.net/news/article.html?no=113960",
+  "https://www.tokenpost.kr/news/briefing/380909",
+  "https://www.sentv.co.kr/article/view/sentv202607240154",
+  "https://www.ekn.kr/web/view.php?key=20260724024145739",
+  "https://news.dealsitetv.com/articles/173752",
+  "https://www.etnews.com/20260724000299",
+  "https://biz.sbs.co.kr/article_hub/20000324506?division=NAVER"
  ],
  "seen_titles": [
-  "삼성프로모션·데이터안심옵션효과···번호이동증가세,시장달아...",
-  "할인받고,나눠쓰고...휴가철이통사별'로밍'꼭확인하세요",
-  "4년전3G종료한T모바일,8월에2G스위치내린다",
-  "머스크의스페이스X,위성전화서비스나선다",
-  "[지배구조분석A+]②SKT,이통3사중유일기업지배구조'만점'",
-  "양자보안주도권경쟁본격화…이통사,AI·6G시대겨냥기술고도화",
-  "\"요금제경쟁은끝났다\"…이통사들진짜승부처는'AI'",
-  "LTE·5G통합요금제시대활짝…통신3사경쟁본격화",
   "사후약방문넘어AI보안본궤도?이통사보안투자3600억돌파",
   "'삼성감사페스티벌'효과에지난달번호이동60만건돌파",
   "“소는잃었지만외양간은잘고치자”…SK텔레콤,보안강화에1434억원...",
@@ -6001,7 +5993,15 @@
   "괜히재상고했다가'날벼락'?...최태원회장의현실적딜레마[Y녹취록]",
   "KT,업무혁신체계'AID-X'공개…\"전IT프로젝트에AX적용\"",
   "KT,AI테스트50%빨라졌다…전사업무혁신‘AID-X’본격화",
-  "오픈AI,미국서'챗GPT헬스'출시…의료기록연동맞춤형상담지원"
+  "오픈AI,미국서'챗GPT헬스'출시…의료기록연동맞춤형상담지원",
+  "울산시,3대메가프로젝트대응…\"피지컬AI·데이터센터집중\"",
+  "AMD,에이전틱AI겨냥첫랙스케일솔루션‘헬리오스’공개",
+  "[저녁뉴스브리핑]미국기술주시가총액7970억달러증발,AI투자불확...",
+  "오티콘,사용자청력·라이프스타일맞춤형보청기라인업선봬",
+  "SKT,AIDC전담법인출범…2030년까지7500억투자",
+  "[최태원-노소영재산분할]9440억원지급결정…이혼소송9년만에일단락",
+  "에스유엠,기아·KT와원격운전사업화협력",
+  "KAIST·엔비디아,3억달러규모AI공동연구소설립"
  ],
  "recent_sigs": [
   [
@@ -6823,9 +6823,25 @@
   [
    "2026-07-24T16:04:19.885926+09:00",
    "챗GPT 출시 상담 미국서 지원 연동 맞춤형 헬스 의료기록"
+  ],
+  [
+   "2026-07-24T16:06:15.701185+09:00",
+   "투자 AIDC 2030년까지 전담법인 7500억 ~SKT 출범"
+  ],
+  [
+   "2026-07-24T16:06:15.701185+09:00",
+   "일단락 결정 9440억원 지급 이혼소송 9년만에"
+  ],
+  [
+   "2026-07-24T16:06:15.701185+09:00",
+   "기아 사업화 KT와 에스유엠 ~KT 협력 원격운전"
+  ],
+  [
+   "2026-07-24T16:06:15.701185+09:00",
+   "3억달러 규모 KAIST 설립 공동연구소"
   ]
  ],
- "last_run": "2026-07-24T16:04:42.993958+09:00",
+ "last_run": "2026-07-24T16:06:44.623683+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
