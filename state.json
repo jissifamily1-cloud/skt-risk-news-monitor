@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166404",
-  "https://www.newsis.com/view/NISX20260723_0003720627",
   "https://www.gukjenews.com/news/articleView.html?idxno=3644280",
   "https://www.cwn.kr/news/articleView.html?idxno=51137",
   "https://www.smartbizn.com/news/articleView.html?idxno=149254",
@@ -2999,11 +2997,11 @@
   "https://www.newspim.com/news/view/20260724000618",
   "https://www.newspim.com/news/view/20260724000515",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=84485",
-  "https://www.newspim.com/news/view/20260724000637"
+  "https://www.newspim.com/news/view/20260724000637",
+  "http://www.osen.co.kr/article/G1112845467",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43756"
  ],
  "seen_titles": [
-  "[ETF특징주]알파벳자본지출확대에도SOXX웃기힘든이유",
-  "기아,KT·에스유엠과PV5원격운전서비스연내출시",
   "메인라인AIFuze서'스마트플로우'기능제공…\"한줄요청에AI가알아서...",
   "프로농구삼성,이정석·조성민코치선임…김상식감독보좌",
   "정읍시,하천·계곡불법시설3곳철거…637건중196건조치완료",
@@ -6001,7 +5999,9 @@
   "[AI프리뷰]24일대전한화-LG전,한화박준영상대하는LG7연패사슬끊...",
   "[AI프리뷰]24일잠실두산-삼성전,'MLB통산32승'페덱을상대하는'E...",
   "익명이라믿었던카톡오픈채팅,개인정보유출통로될수도[박용선칼...",
-  "[AI프리뷰]24일부산롯데-KT전,이틀휴식취한'7연승'KT상대하는롯..."
+  "[AI프리뷰]24일부산롯데-KT전,이틀휴식취한'7연승'KT상대하는롯...",
+  "“어떻게막아야되나싶었다”9회끝내기만루위기등판→2⅔이닝무...",
+  "[오늘의금융지주]KB금융·하나금융·BNK금융"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-07-24T12:42:16.097503+09:00",
    "~KT 취한 KT전 이틀 부산 7연승 24일 휴식 상대하는 롯데"
+  ],
+  [
+   "2026-07-24T12:44:16.976525+09:00",
+   "하나금융 BNK금융 KB금융"
   ]
  ],
- "last_run": "2026-07-24T12:42:40.043704+09:00",
+ "last_run": "2026-07-24T12:44:38.004195+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
