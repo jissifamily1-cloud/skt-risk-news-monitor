@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25447516",
-  "http://www.fnnews.com/news/202607231441153088",
-  "https://www.sportsseoul.com/news/read/1624298",
-  "https://www.socialvalue.kr/news/view/1065589343054978",
-  "https://zdnet.co.kr/view/?no=20260723144327",
-  "https://www.hankookilbo.com/news/article/A2026072010460004120?did=NA",
-  "https://www.etnews.com/20260723000353",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=875870",
-  "https://www.hankookilbo.com/news/article/A2026072308320003803?did=NA",
   "https://www.gukjenews.com/news/articleView.html?idxno=3644168",
   "https://www.getnews.co.kr/news/articleView.html?idxno=875873",
   "https://www.venturesquare.net/1100711/",
@@ -2999,18 +2990,18 @@
   "https://www.sentv.co.kr/article/view/sentv202607240067",
   "https://www.etnews.com/20260724000122",
   "https://www.segye.com/newsView/20260724507006?OutUrl=naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=1394956"
+  "https://www.m-i.kr/news/articleView.html?idxno=1394956",
+  "http://www.popcornnews.net/news/articleView.html?idxno=127556",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270280",
+  "https://www.newsis.com/view/NISX20260724_0003721810",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360683",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=132375",
+  "https://www.hg-times.com/news/articleView.html?idxno=303863",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2244115",
+  "https://zdnet.co.kr/view/?no=20260724100843",
+  "https://www.hankyung.com/article/2026072438146"
  ],
  "seen_titles": [
-  "KT박윤영\"미디어계열사통합,구체화된것아냐\"",
-  "法\"SK텔레콤,5G속도과장광고…과징금은다시따져야\"[법정워치]",
-  "이재용·정의선,AI자문기구합류…젠슨황·리사수머리맞댄다",
-  "\"삼성반도체엔지니어들은더나은미래를만드는사람들\"",
-  "영화‘호프’조인성의승마액션,실제가능할까…마사회가답했다",
-  "[현장]\"유니클로까불지마!서울이표준이야\"…프리미엄키우는'무신...",
-  "AI·팹리스키울1천억원펀드뜬다…KOSA,AX투자생태계구축",
-  "게시물사전필터링꼭필요한가...일상속'빅브라더'우려커져",
-  "SKT'5G과장광고'일부승소...法“과징금산정기간잘못됐다”",
   "기아,KT등과손잡고PV5원격운전서비스연내출시추진",
   "\"문샷AI,클로드'증류'하고수출금지엔비디아GB300로훈련\"…백악관...",
   "iM금융그룹iM사회공헌재단,어르신금융교육기금전달식개최",
@@ -6001,7 +5992,16 @@
   "“eSIM개통불편줄였다”…KT엠모바일‘모비’레드닷수상",
   "KAIST·엔비디아,'AI공동연구소'설립한다",
   "통제벗어난GPT,초유의외부해킹사태…美\"위험하면정부가끈다\"법...",
-  "과천시,기초지자체유일해킹메일대응훈련'우수기관'선정"
+  "과천시,기초지자체유일해킹메일대응훈련'우수기관'선정",
+  "[현장]인간해커와AI해커같은순위표에…'코드게이트2026'개막",
+  "메가존클라우드,아크릴과AI인프라사업확대협력한다",
+  "AI투자부담에M7,하루1166조원증발…메모리株만웃었다",
+  "李대통령,美서빅테크리더들만난다",
+  "하나금융,생성형AI금융인재키운다…청년54명미래금융프로젝트수...",
+  "하나금융,청년금융인재양성프로젝트통해2026년54명배출",
+  "[금융]하나금융청년인재54명/KB손보여행보험개편/농협은행자산...",
+  "AMD,첫랙스케일AI솔루션공개…앤트로픽·오픈AI잡았다",
+  "[단독]엔비디아,미해군AI장교육성한다…젠슨황,슈퍼컴기증"
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-07-24T11:20:25.631225+09:00",
    "기초지자체 선정 대응훈련 과천시 우수기관 유일 해킹메일"
+  ],
+  [
+   "2026-07-24T11:22:15.807630+09:00",
+   "기증 슈퍼컴 해군 젠슨 육성한다 장교"
   ]
  ],
- "last_run": "2026-07-24T11:20:52.984873+09:00",
+ "last_run": "2026-07-24T11:22:40.379042+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
