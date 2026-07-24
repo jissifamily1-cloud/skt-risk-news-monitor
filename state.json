@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112844869",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3644145",
-  "https://www.techm.kr/news/articleView.html?idxno=153618",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=737820",
-  "https://www.betanews.net/article/view/beta202607230048",
-  "https://www.ytn.co.kr/_ln/0102_202607231451184738",
-  "https://www.cnbizm.com/news/articleView.html?idxno=309434",
   "https://www.newspim.com/news/view/20260723000914",
   "https://www.techm.kr/news/articleView.html?idxno=153619",
   "http://autotimes.co.kr/detail.php?number=688556&thread=27",
@@ -2999,16 +2992,16 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=443052",
   "https://www.mk.co.kr/article/12106455",
   "https://www.smartbizn.com/news/articleView.html?idxno=149320",
-  "https://www.ytn.co.kr/_ln/0134_202607241038207645"
+  "https://www.ytn.co.kr/_ln/0134_202607241038207645",
+  "https://www.seoul.co.kr/news/economy/2026/07/24/20260724500141?wlog_tag3=naver",
+  "https://news.dealsitetv.com/articles/173726",
+  "https://www.busan.com/view/busan/view.php?code=2026072014085664181",
+  "https://www.huffingtonpost.kr/article/258967",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490133.html",
+  "https://www.dailian.co.kr/news/view/1670467/?sc=Naver",
+  "https://www.news1.kr/diplomacy/defense-diplomacy/6237717"
  ],
  "seen_titles": [
-  "박윤영KT대표\"미디어계열사통합,고민중이지만구체화안해\"",
-  "CPU까지팔겠다는엔비디아,삼전닉스도‘함박웃음’",
-  "밟기만해도푹푹들어가는KT위즈파크그라운드,23일경기열릴까?[O!...",
-  "추경호대구광역시장,8개국가기관과첫조찬간담회...민생경제·지역...",
-  "[글로벌]구글,'제미나이3.6플래시'출시...최상위프로모델은공개...",
-  "SK텔레콤,로봇데이터국제표준개발참여…ITU-T신규과제채택",
-  "사회적가치연구원,최태원회장제안'SPC연구'국제SSCI학술지게재",
   "과기정통부-통신사간담회...인공지능네트워크강화",
   "KT,기아·에스유엠과원격운전상용화추진…연내서비스목표",
   "[미국특징주]알파벳피차이\"제미나이경쟁력상실우려반박\"",
@@ -6001,7 +5994,14 @@
   "[현장]KAIST윤인수교수\"AI공격AI로막아야하는시대,사람과AI협...",
   "유엔넷,기업내부데이터를근거로답하는‘타란툴라AI벡터DB’선보...",
   "SK하이퍼출범의의미···'메가프로젝트'실행조직된AIDC전담법인",
-  "선관위'투표율조작'새정황...장동혁존재감커질까[Y녹취록]"
+  "선관위'투표율조작'새정황...장동혁존재감커질까[Y녹취록]",
+  "오케스트로클라우드,티맥스티베로와AI인프라시장공략위한MOU체...",
+  "한국투자증권,인베스팅닷컴내계좌개설서비스제공",
+  "부산국제장애인협의회,장애인정보화교육수료생1만명돌파",
+  "SK텔레콤'SK하이퍼'세워AI데이터센터투자속도,정석근AICIC장신임...",
+  "오늘최태원·노소영'재산분할'파기환송심선고",
+  "외교원이어군의료시스템도해킹정황...국방부\"경위조사완료\"",
+  "장병들엑스레이·나이·진료정보털렸나…軍의료영상해킹정황"
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,17 @@
   [
    "2026-07-24T11:08:17.500092+09:00",
    "전설 부산에 실리콘밸리 드레이퍼 VC 개업"
+  ],
+  [
+   "2026-07-24T11:12:15.720471+09:00",
+   "외교원 의료시스템도 조사 이어 경위 완료 정황 국방부"
+  ],
+  [
+   "2026-07-24T11:12:15.720471+09:00",
+   "털렸나 나이 진료 의료영상 정보 엑스레이 정황 장병들"
   ]
  ],
- "last_run": "2026-07-24T11:10:41.509843+09:00",
+ "last_run": "2026-07-24T11:12:38.901335+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
