@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190067",
-  "https://www.etoday.co.kr/news/view/2606615",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360737",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=119994",
-  "https://www.mt.co.kr/tech/2026/07/22/2026072217532290680",
-  "https://www.dailian.co.kr/news/view/1670121/?sc=Naver",
-  "https://www.gokorea.kr/news/articleView.html?idxno=872890",
-  "https://www.seoul.co.kr/news/international/2026/07/23/20260723500154?wlog_tag3=naver",
-  "https://sports.donga.com/sports/article/all/20260723/134350652/1",
-  "http://www.maniareport.com/view.php?ud=202607231201289991dad9f33a29_19",
   "http://game.dailyesports.com/view.php?ud=20260723134125643743da15d9d2_26",
   "https://biz.heraldcorp.com/article/10817919",
   "https://www.newsis.com/view/NISX20260723_0003720246",
@@ -2999,19 +2989,19 @@
   "https://www.munhwa.com/article/11604732",
   "https://www.greened.kr/news/articleView.html?idxno=345829",
   "https://biz.heraldcorp.com/article/10818935",
-  "https://www.joongdo.co.kr/web/view.php?key=20260724010007163"
+  "https://www.joongdo.co.kr/web/view.php?key=20260724010007163",
+  "https://www.news1.kr/it-science/general-it/6237782",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645054",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645059",
+  "https://news.tf.co.kr/read/economy/2346638.htm",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362519",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92599",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008672866&plink=ORI&cooper=NAVER",
+  "https://www.ytn.co.kr/_ln/0103_202607241034583436",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87088",
+  "https://biz.chosun.com/it-science/ict/2026/07/24/LVNJVX6BAJDBBJMGD5O3QQKCKE/"
  ],
  "seen_titles": [
-  "인티큐브,디노티시아와손잡고'AI메모리'기반개인화AI에이전트개...",
-  "롯데건설,스타트업과주거환경개선협력",
-  "[핀테크NOW]네이버페이·카카오페이·토스",
-  "증설은더딘데AI수요는폭증…삼성전기,MLCC장기계약잇달아",
-  "박윤영KT대표\"미디어계열사통합,고민하지만결정된것없어\"",
-  "SK텔레콤,ITU-T서로봇데이터표준화과제채택",
-  "방미통위방송평가,지상파KBS1·종편MBN1위",
-  "\"내몸무게탈탈털리고선꼴랑5000원보상이라니요\"",
-  "KT·기아·에스유엠,원격운전사업화맞손…미래모빌리티서비스본...",
-  "“미국인공지능의자율해킹공격,중국AI로방어했다”",
   "한국무대연착륙한힐리어드…KT,로하스이을30홈런-100타점외인배...",
   "7월이면뜨거웠던시장이멈췄다...KBO트레이드시장역대급침묵,최소...",
   "펄어비스,'붉은사막'개발프로세스첫공개…핵심은XML과병렬개발",
@@ -6001,7 +5991,17 @@
   "KT엠모바일,이심로밍서비스‘모비’레드닷어워드수상",
   "KT,전사적AX속도낸다…'AID-XDemoDay'성료",
   "‘엔비디아대항마’AMD,삼성HBM4들어간차세대AI인프라(헬리오스...",
-  "KAIST와엔비디아,한국어기반국내산업위한AI공동연구소출범"
+  "KAIST와엔비디아,한국어기반국내산업위한AI공동연구소출범",
+  "LCK레전드매치라인업공개…'낭만의시대'대표선수총출동",
+  "제주연동지구대·생활안전협의회,밤길범죄·장마위험함께살폈다",
+  "계명대학교교수저서2권,학술원우수학술도서선정",
+  "\"든든한디딤돌역할수행\"하나금융,금감원과청년금융인재54명배출",
+  "하나금융,청년금융인재양성프로젝트수료생54명배출",
+  "최태원·노소영,재산분할액은과연...파기환송심오늘9년만에결론",
+  "최태원·노소영'세기의재산분할'파기환송심오늘선고",
+  "오늘최태원-노소영'재산분할'파기환송심선고",
+  "KT,갤럭시Z신작특별체험공간운영",
+  "백악관도주시한오픈AI해킹사태…美하원은‘AI킬스위치법’발의"
  ],
  "recent_sigs": [
   [
@@ -6605,7 +6605,7 @@
    "KAIST와 기반 한국어 공동연구소 출범 위한 국내산업"
   ]
  ],
- "last_run": "2026-07-24T10:38:43.023469+09:00",
+ "last_run": "2026-07-24T10:40:47.214839+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
