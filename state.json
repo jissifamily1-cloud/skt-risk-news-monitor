@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260722213635",
-  "https://zdnet.co.kr/view/?no=20260722221119",
-  "https://imnews.imbc.com/news/2026/econo/article/6839494_36932.html",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096414",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096540",
   "https://www.yna.co.kr/view/AKR20260722151700530?input=1195m",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244387",
   "https://www.mt.co.kr/finance/2026/07/23/2026072220124344243",
@@ -2999,14 +2994,14 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02873286645517472",
   "http://www.yonhapnewstv.co.kr/news/MYH20260724203610zAS",
   "https://www.ytn.co.kr/_ln/0102_202607242033056267",
-  "https://www.dailian.co.kr/news/view/1670787/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1670787/?sc=Naver",
+  "https://www.newspim.com/news/view/20260723000024",
+  "https://www.aitimes.com/news/articleView.html?idxno=213037",
+  "https://zdnet.co.kr/view/?no=20260722130919",
+  "https://biz.chosun.com/it-science/ict/2026/07/22/HWLPZMB6SBAGNCM7IBLZSE4TDA/",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03591606645517144"
  ],
  "seen_titles": [
-  "한국인생성형AI앱실행20억회돌파…2년전比1206%↑",
-  "생성형AI앱실행횟수20억돌파…한국인10명중9명은앱설치",
-  "[AIMY뉴스]22일중국증시'美반도체·AI랠리훈풍속기술주강세기...",
-  "이통3사'AI구독'경쟁활활…요금제·결제혜택확대",
-  "아이온컴,AI검색최적화CMS'콘텐츠큐브GEO'출시",
   "FATF“북한,디파이해킹으로‘확산자금’조달”…‘규제강화’권...",
   "로빈후드CEOX계정해킹…가짜밈코인홍보에투자자주의",
   "SK스토아최대출자자변경승인취하⋯라포랩스“거래구조변경따른...",
@@ -6001,7 +5996,12 @@
   "“폴더블경쟁자환영”…노태문“7년축적한삼성의경험은쉽게못...",
   "국제유가급등에'검은금요일'…또매도사이드카",
   "1조원가까운재산분할금...자금마련어떻게?",
-  "인간통제벗어난AI해킹에美의회,‘킬스위치법’발의"
+  "인간통제벗어난AI해킹에美의회,‘킬스위치법’발의",
+  "[갤럭시언팩]노태문\"다양한제품군삼성의강점이자의무...글로벌전...",
+  "와이즈앱\"한국인스마트폰이용자10명중9명이생성AI앱설치\"",
+  "\"챗GPT가추천하는브랜드는?\"…어도비,AI검색최적화솔루션공개",
+  "“AI검색서브랜드경쟁력높인다”…최적화솔루션‘어도비브랜드...",
+  "어도비,AI검색시대겨냥한'어도비브랜드비저빌리티'공개"
  ],
  "recent_sigs": [
   [
@@ -6817,7 +6817,7 @@
    "4700조원보다 빅테크와 예고 수도 빅딜 삼전 닉스"
   ]
  ],
- "last_run": "2026-07-24T20:38:34.789190+09:00",
+ "last_run": "2026-07-24T20:40:45.486343+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
