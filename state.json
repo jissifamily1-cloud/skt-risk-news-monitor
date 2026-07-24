@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=534822",
-  "https://www.mk.co.kr/article/12105384",
-  "https://www.newsis.com/view/NISX20260723_0003720542",
-  "https://biz.sbs.co.kr/article_hub/20000324208?division=NAVER",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096627",
-  "https://www.etnews.com/20260722000417",
-  "https://www.etnews.com/20260723000316",
-  "http://www.ikld.kr/news/articleView.html?idxno=338006",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3644110",
   "http://www.kdfnews.com/news/articleView.html?idxno=185612",
   "https://www.mk.co.kr/article/12105388",
   "https://www.yna.co.kr/view/AKR20260723048351017?input=1195m",
@@ -2999,18 +2990,18 @@
   "https://www.khgames.co.kr/news/articleView.html?idxno=306657",
   "https://it.chosun.com/news/articleView.html?idxno=2023092166456",
   "https://www.ytn.co.kr/_ln/0101_202607241019061530",
-  "https://www.ytn.co.kr/_ln/0102_202607241039281270"
+  "https://www.ytn.co.kr/_ln/0102_202607241039281270",
+  "http://datanews.co.kr/news/article.html?no=145730",
+  "http://www.kdfnews.com/news/articleView.html?idxno=185656",
+  "https://www.yna.co.kr/view/AKR20260724067500009?input=1195m",
+  "https://imnews.imbc.com/news/2026/econo/article/6839789_36932.html",
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=1676",
+  "https://www.techm.kr/news/articleView.html?idxno=153640",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=848218",
+  "http://www.joseilbo.com/news/news_read.php?uid=572533&class=32",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717638"
  ],
  "seen_titles": [
-  "전력기기업계,AI데이터센터붐타고‘훈풍’…“장기호황기대”",
-  "[AI전쟁]삼성전자의대규모프랑스미스트랄AI투자,한국'소버린A...",
-  "SK텔레콤주가,7월23일장중99,200원5.42%상승",
-  "관제센터서車원격운전...기아,연내서비스상용화",
-  "카카오,NGO활동가AI교육참가자모집",
-  "코딩모르는대학생,AI활용3일만에창업서비스만든다",
-  "통신3사,'8~9월고객혜택강화방안'발표한다",
-  "방미통위2024년방송평가,지상파KBS1·종편MBN1위",
-  "마이크로드라마시장20조원넘는다…AI제작·저작권이슈동시부상",
   "학교·공원·생활편의시설가까운'올인원인프라'단지강세…청약시...",
   "한라산서몰래야영·차박하다간…휴가철불법야영'철퇴'",
   "SK텔레콤,로봇데이터국제표준화과제채택",
@@ -6001,7 +5992,16 @@
   "코빗,가상화폐거래자동화환경구축",
   "한컴,사명·코스닥종목명변경완료…AI사업확대",
   "\"정치적손해감수하더라도\"...부동산세제개편예고[뉴스퀘어10]",
-  "SK그룹,판결앞두고'긴장'...최태원은AI경영행보"
+  "SK그룹,판결앞두고'긴장'...최태원은AI경영행보",
+  "취준생도반도체주산다…Z세대42%“투자경험”",
+  "모델은새롭게,경험은다채롭게…브랜드마케팅진화",
+  "中관변논객\"제2의멍완저우될라…량원펑·양즈린美가면안돼\"",
+  "AI해커도출전한코드게이트‥88개국화이트해커격돌",
+  "하나금융그룹,청년금융인재양성앞장…프로젝트성과공유회열어올...",
+  "\"AX우리가먼저\"...SKT·KT·LG유플러스,레퍼런스구축'잰걸음'",
+  "'세기의이혼'최태원·노소영파기환송심…10조SK주식·평가시점이향...",
+  "최태원·노소영'세기의이혼'오늘운명의판결…SK주식분할대상주목",
+  "엔비디아-카이스트,4400억원규모'공동AI연구소'설립"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-07-24T10:46:16.698612+09:00",
    "긴장 앞두고 경영행보 SK그룹 판결 최태원은"
+  ],
+  [
+   "2026-07-24T10:48:17.964089+09:00",
+   "잰걸음 AX 구축 레퍼런스 ~SKT ~LGU ~KT 우리가 LG유플러스 먼저"
   ]
  ],
- "last_run": "2026-07-24T10:46:34.373179+09:00",
+ "last_run": "2026-07-24T10:48:35.289812+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
