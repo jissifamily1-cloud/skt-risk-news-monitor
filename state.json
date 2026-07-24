@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202607231536003?pt=nv",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=388705",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003253641&CMPT_CD=P0010",
   "https://www.kenews.co.kr/news/article.html?no=89714",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426496",
   "https://www.kgnews.co.kr/news/article.html?no=904927",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04988886645477456",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=254584",
   "https://www.thepublic.kr/news/articleView.html?idxno=312536",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47576"
+  "https://www.irobotnews.com/news/articleView.html?idxno=47576",
+  "https://www.sentv.co.kr/article/view/sentv202607240077",
+  "https://www.sedaily.com/article/20071454",
+  "http://www.impacton.net/news/articleView.html?idxno=19706"
  ],
  "seen_titles": [
-  "오픈AI맘대로해킹,알고보니3개모델서발생",
-  "정부,통신3사에AI망투자주문…6G·해저케이블·5GSA로화답",
-  "유신,숏폼드라마‘진짜재벌3세는나야!’출연",
   "美FCC,화웨이·중싱부품까지전면차단…중국첨단기술제재확대",
   "이대통령이\"집사려빚내면사회주의\"라고했다?'뉴스1'의완전한오...",
   "농정원,‘K-디지털농정씨앗’필리핀에뿌리내려",
@@ -6001,7 +5998,10 @@
   "올해만400%급등한미니맥스,홍콩이어중국상장추진",
   "[단독]엔비디아와MS합작차세대PC에클로드배제됐다",
   "WSJ\"돈·배신얽힌K드라마\"…최태원·노소영재산분할'운명의날'",
-  "KAIST-엔비디아,3억달러들여AI공동연구소세운다"
+  "KAIST-엔비디아,3억달러들여AI공동연구소세운다",
+  "정재헌SKT대표“AI인프라허브로도약…지금이골든타임”",
+  "삼전·하닉6%떨어지는데…상위투자자는순매수1·2위[주식초고수는...",
+  "오픈AI모델,시험환경벗어나외부시스템침해…美의회'킬스위치법..."
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,17 @@
   [
    "2026-07-24T12:10:25.680715+09:00",
    "WSJ 운명의 얽힌 재산분할 배신 K드라마"
+  ],
+  [
+   "2026-07-24T12:12:17.745338+09:00",
+   "떨어지는데 2위 주식 하닉 초고수는 상위 삼전 투자자는 순매수"
+  ],
+  [
+   "2026-07-24T12:12:17.745338+09:00",
+   "침해 모델 시험환경 벗어나 외부 의회 스위치법 시스템"
   ]
  ],
- "last_run": "2026-07-24T12:10:50.345596+09:00",
+ "last_run": "2026-07-24T12:12:38.461568+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
