@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260723000360",
-  "https://www.newsis.com/view/NISX20260723_0003720582",
-  "https://www.huffingtonpost.kr/article/258941",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92480",
-  "https://www.ajunews.com/view/20260715115407032",
-  "https://www.kgnews.co.kr/news/article.html?no=904980",
-  "https://zdnet.co.kr/view/?no=20260723121052",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008671563&plink=ORI&cooper=NAVER",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62026",
   "https://www.itdaily.kr/news/articleView.html?idxno=240558",
   "https://www.m-i.kr/news/articleView.html?idxno=1394680",
   "http://www.yonhapnewstv.co.kr/news/AKR20260723151031stI",
@@ -2999,18 +2990,18 @@
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=2100&key=20260723.22017006517",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=362508",
   "https://www.socialvalue.kr/news/view/1065577714381370",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273534"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273534",
+  "https://www.etoday.co.kr/news/view/2607093",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166477",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070238",
+  "https://www.munhwa.com/article/11604753",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=84483",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2290099",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443064",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104667",
+  "https://www.theguru.co.kr/news/article.html?no=104870"
  ],
  "seen_titles": [
-  "\"'K전통'입고글로벌노젓는다\"…헤지스의내년'新무기'는",
-  "“성형미용·메디컬스킨케어전공은뭘배울까”…경복대,체험행사...",
-  "[뉴스줌인]美AI·보안기업뭉치는데…韓,독자기술·연대시급",
-  "김선태\"홍명보,나름대로어려운점있었을것\"",
-  "SK그룹최태원이10년넘게외치고있는'사회성과인센티브'효과입증한...",
-  "[초점]'이번주법원에쏠린눈'…김건희·오세훈운명가른다,최태원...",
-  "[아주초대석]김윤정의사결정지원연구소장\"보수기준표준화돼야전문...",
-  "세계인이찾는수원만든다…글로벌문화관광축제도시본격시동",
-  "정부\"AIDC투자세액공제·보편적요금감면제도개선검토\"",
   "\"아버지와연락안된다\"신고…한밤중풀숲헤쳐찾았다",
   "카카오,NGO활동가AI역량키운다...'카카오테크NGOAI클래스'운영",
   "시스원,'공군실증목적GPU구축사업'우협선정",
@@ -6001,7 +5992,16 @@
   "부산국제장애인협의회,정보화교육1만명돌파",
   "하나금융,금감원과청년금융·AI교육4개월...54명수료",
   "LG유플러스SNS,'소셜아이어워드'첫최고대상…3년연속4관왕",
-  "KT,'AID-X'로IT전과정AI내재화"
+  "KT,'AID-X'로IT전과정AI내재화",
+  "LCK레전드매치라인업공개⋯직관신청방법은?",
+  "MS,고품질이미지·고속음성모델공개…자체AI확대전략",
+  "bhc치킨롯데웰푸드웅진식품外(유통家이모저모)",
+  "인간해커와AI가취약점찾기맞대결…‘코드게이트2026’성료",
+  "충주맨김선태\"집팔아삼성전자올인\"그러나!",
+  "KAIST-엔비디아'AI공동연구소'설립…3억달러규모협력",
+  "미국경제단체\"한국정부태도,현대차구금사태와쿠팡에이중잣대\"...",
+  "KT,갤럭시Z체험존열었다...미션수행하면경품",
+  "[단독]SK하이닉스,'엔비디아대항마'美추론반도체스타트업에치드..."
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,21 @@
   [
    "2026-07-24T11:24:15.244429+09:00",
    "이혼 현실판 연속극 외신도 주목한"
+  ],
+  [
+   "2026-07-24T11:30:38.108792+09:00",
+   "사태와 정부 이중잣대 태도 현대차 구금 쿠팡에 한국 경제단체 미국"
+  ],
+  [
+   "2026-07-24T11:30:38.108792+09:00",
+   "~KT 열었다 미션 체험존 갤럭시 경품 수행하면"
+  ],
+  [
+   "2026-07-24T11:30:38.108792+09:00",
+   "추론반도체 에치드 SK하이닉스 대항마 스타트업"
   ]
  ],
- "last_run": "2026-07-24T11:28:30.818408+09:00",
+ "last_run": "2026-07-24T11:31:02.207920+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
