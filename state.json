@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8597327",
-  "https://www.mt.co.kr/world/2026/06/30/2026062911204754076",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848180",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426565",
-  "https://www.news1.kr/it-science/security-hacking/6237369",
-  "https://www.mk.co.kr/article/12106225",
-  "https://www.mediapen.com/news/view/1111908",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01938486645517800",
-  "https://www.g-enews.com/view.php?ud=2026072318000710230c8c1c064d_1",
   "https://it.donga.com/109245/",
   "http://www.4th.kr/news/articleView.html?idxno=2115190",
   "https://www.newspim.com/news/view/20260724000031",
@@ -2999,18 +2990,18 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490260.html",
   "https://www.xportsnews.com/article/2175641",
   "https://biz.sbs.co.kr/article_hub/20000324515?division=NAVER",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87119"
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87119",
+  "https://www.ddaily.co.kr/page/view/2026072416400426995",
+  "https://sports.khan.co.kr/article/202607241654003?pt=nv",
+  "https://www.newsis.com/view/NISX20260724_0003722421",
+  "https://www.newsis.com/view/NISX20260724_0003722568",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=848219",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686828",
+  "https://www.ngetnews.com/news/articleView.html?idxno=551835",
+  "https://www.newsis.com/view/NISX20260724_0003722582",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030157309&code=61141111&cp=nv"
  ],
  "seen_titles": [
-  "마이크론,트럼프어카운트에3900억원쾌척…기업출연'역대최대'",
-  "[AI는지금]AI도입성패가르는FDE…기업밀착형구축경쟁본격화",
-  "트럼프\"AI규제는최소화…중국과경쟁이우선\"",
-  "오픈AI,미국정부에지분5%제안했나…백악관과초기논의",
-  "샘알트먼'AI,전기이후최대변화'…미국주도국제규범제안",
-  "미재무부,트론기반ISIS연계암호화폐지갑130여개제재",
-  "오픈AI,미국정부에지분5%제공검토…알트먼\"AI이익,국민과나눠...",
-  "오픈AI,美정부에지분넘기나…\"5%환원방안논의\"",
-  "오픈AI,미국정부에'지분5%'제안…IPO앞두고정치리스크돌파",
   "뇌수술없이생각을텍스트로…메타신기술‘브레인투쿼티v2’발표",
   "솔라나기반예측시장'월드'출시,팬텀월렛과통합",
   "스페이스X,아이폰보다슬림한AI기기투자자에시연",
@@ -6001,7 +5992,16 @@
   "1조원육박노소영몫어떻게산출?…\"부부공동재산3조원의1/3\"",
   "'우승반지약속'페덱출격!ERA1위최민석과잠실빅뱅…삼성,두산...",
   "[증시인사이트]반도체주약세·외국인순매도에7천선과멀어지는코...",
-  "KAIST-엔비디아,5년간3억달러규모'AI공동연구소'설립....한국어·..."
+  "KAIST-엔비디아,5년간3억달러규모'AI공동연구소'설립....한국어·...",
+  "\"10년전LCK가돌아온다\"…'LoL클래식'레전드매치참가명단공개",
+  "2경기연속그사취,두산에겐어떤영향있을까…김원형감독“어쩔수...",
+  "롯데전준우,이틀만에2군행…'트레이드'하주석·이형범,1군등록",
+  "후반기첫승거둔SSG신인김민준,선수단에'깜짝선물'…간식박스...",
+  "[#클라우드월드]오케스트로'AI인프라협력MOU'·앱티브-킨드릴'시...",
+  "메가존클라우드,아크릴과협력...AI인프라사업확장",
+  "최태원·젠슨황美회동…AI서밋앞두고전략공조",
+  "法\"최태원,노소영에9440억지급\"…SK3.8%하락(종합)",
+  "‘16만원주가’로계산한최태원이혼판결…9440억조달은변수"
  ],
  "recent_sigs": [
   [
@@ -6897,7 +6897,7 @@
    "외국인 순매도에 약세 반도체주 멀어지는 7천선과"
   ]
  ],
- "last_run": "2026-07-24T16:54:42.629508+09:00",
+ "last_run": "2026-07-24T16:56:41.900027+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
