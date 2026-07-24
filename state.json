@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260703100706",
-  "https://zdnet.co.kr/view/?no=20260703094452",
-  "https://www.chosun.com/economy/tech_it/2026/07/03/HCGEP2TSL5BL7CXLJZUQIIQA3Q/",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=847854",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=82813",
-  "https://www.hankyung.com/article/202607021279g",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1714775",
-  "http://www.boannews.com/media/view.asp?idx=144444&kind=1",
   "https://www.newsis.com/view/NISX20260701_0003691963",
   "https://www.mk.co.kr/article/12087790",
   "https://www.socialvalue.kr/news/view/1065585037396460",
@@ -2999,17 +2991,17 @@
   "https://www.bntnews.co.kr/article/view/bnt202607240216",
   "https://www.seoulfn.com/news/articleView.html?idxno=634102",
   "https://www.hellot.net/news/article.html?no=113956",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16144831"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16144831",
+  "https://www.xportsnews.com/article/2175605",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1170276",
+  "https://www.ddaily.co.kr/page/view/2026071616545080014",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471311",
+  "https://www.huffingtonpost.kr/article/258983",
+  "https://www.mediawatch.kr/news/article.html?no=260460",
+  "https://www.ytn.co.kr/_ln/0102_202607241557387170",
+  "http://www.journalist.or.kr/news/article.html?no=61339"
  ],
  "seen_titles": [
-  "'최적요금고지'10월도입…\"통신비인하대신집토끼단속?\"",
-  "'삼성프로모션·요금제개편'효과…이통3사웃고알뜰폰울었다",
-  "복잡한통신상담,AI로쉬워질까…이통사매장'소비자친화'속도",
-  "해킹악재턴이통사,2분기성적표KT만‘울상’⋯왜?",
-  "LGU+,IT투자액7.7%보안에썼다…\"정보보호는비용아닌투자\"",
-  "데이터는'더'혜택은'덜'···통합요금제에숨은이동통신사교환공...",
-  "메모리품귀에스마트폰값급등…이통3사'가성비전용폰'카드",
-  "[르포]\"안면인식없이개통되던데?\"…'휴대폰다중인증'현장가보니",
   "\"안면인증해주세요\"…엄격해진휴대전화개통",
   "\"해외여행객잡아라\"…이통사휴가철'로밍'경쟁",
   "지난해대포폰2만건…6일부터휴대폰개통시안면인증도입",
@@ -6001,7 +5993,15 @@
   "최태원회장,노소영에9440억재산분할…파기환송심판결",
   "4000억줄어든재산분할···부담줄인최태원회장",
   "[해외토픽]오픈AI상대로소송제기한전직목사…무슨일이?",
-  "케이티,KT클라우드합병추진설조회공시답변→구체적결정미확정"
+  "케이티,KT클라우드합병추진설조회공시답변→구체적결정미확정",
+  "[오피셜]롯데야호~!'대세'리센느미나미,사직구장마운드선다…31...",
+  "'그대에게드림'등장인물부터인물관계도까지(+몇부작?)",
+  "HBM넘어AI인프라로…SK하이닉스가다시짜는성장판",
+  "[거래소외국인]SK하이닉스·삼성전자팔고금융주샀다…포트폴리오...",
+  "SK그룹최태원이노소영에지급할'재산분할금'은9440억원:법원은급...",
+  "法“최태원,노소영에재산분할금9440억지급해야”",
+  "SK그룹,셈법복잡...지배구조영향'촉각'",
+  "김어준'이동재명예훼손'유죄판결1주일뒤유튜브영상차단"
  ],
  "recent_sigs": [
   [
@@ -6803,9 +6803,21 @@
   [
    "2026-07-24T16:00:43.684621+09:00",
    "답변 케이티 추진설 구체적 합병 결정 ~KT 미확정 조회공시 KT클라우드"
+  ],
+  [
+   "2026-07-24T16:02:16.987303+09:00",
+   "다시 성장판 짜는 SK하이닉스가 인프라로 HBM 넘어"
+  ],
+  [
+   "2026-07-24T16:02:16.987303+09:00",
+   "촉각 복잡 SK그룹 지배구조 영향 셈법"
+  ],
+  [
+   "2026-07-24T16:02:16.987303+09:00",
+   "유죄판결 차단 1주일 김어준 이동재 명예훼손 유튜브 영상"
   ]
  ],
- "last_run": "2026-07-24T16:01:01.409492+09:00",
+ "last_run": "2026-07-24T16:02:45.810975+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
