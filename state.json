@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/diplomacy/defense-diplomacy/6236987",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168634",
-  "https://www.dt.co.kr/article/12074424",
-  "http://www.inews24.com/view/1988176",
-  "https://www.betanews.net/article/view/beta202607230052",
-  "https://sports.khan.co.kr/article/202607231618003?pt=nv",
-  "https://www.news1.kr/local/sejong-chungbuk/6237026",
-  "https://news.mtn.co.kr/news-detail/2026072311144960387",
-  "https://www.newspim.com/news/view/20260723001118",
-  "https://www.dailian.co.kr/news/view/1670217/?sc=Naver",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133357",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133356",
   "https://www.hankookilbo.com/news/article/A2026072309490005349?did=NA",
@@ -2999,19 +2989,19 @@
   "http://www.yonhapnewstv.co.kr/news/MYH202607241351496kQ",
   "http://www.yonhapnewstv.co.kr/news/MYH20260724135010RhV",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=724977",
-  "https://www.g-enews.com/view.php?ud=202607241111322082e99a18c428_1"
+  "https://www.g-enews.com/view.php?ud=202607241111322082e99a18c428_1",
+  "https://www.techm.kr/news/articleView.html?idxno=153651",
+  "https://zdnet.co.kr/view/?no=20260724135352",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207989",
+  "https://www.sedaily.com/article/20071481",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490185.html",
+  "http://www.boannews.com/media/view.asp?idx=144828&kind=2",
+  "https://www.joongangenews.com/news/articleView.html?idxno=535180",
+  "https://www.ytn.co.kr/_ln/0102_202607241347009931",
+  "https://www.mk.co.kr/article/12106564",
+  "https://www.techm.kr/news/articleView.html?idxno=153649"
  ],
  "seen_titles": [
-  "\"미FCC,화웨이제조핵심부품들어간기기판매금지\"",
-  "롯데건설,AI·로봇스타트업8개과제현장실증..공공지원6.2억연계",
-  "미·중경쟁장기화…\"한·중·일,공급망·경제안보협력확대해야\"",
-  "양대호재,코스피'질주'...삼전·닉스·네이버'껑충'",
-  "시스원,공군AI인프라구축사업우선협상대상자선정",
-  "리벨리온NPU로SKT초거대인공지능모델구동성공",
-  "SK브로드밴드,'안전최우선'경영…한국산업안전보건공단이사장표창...",
-  "“늙크크홍명보원해”단독MC꿰찬김선태,남다른게스트섭외야망...",
-  "경찰'미성년성매매혐의'최영중통신기록보전신청",
-  "차세대SMR육성하고AI항만추진…'모두의AI'엔GPU512장",
   "462만개인정보털린따릉이",
   "박윤영KT대표\"미디어계열사통합고민…구체적으로정해진것없어...",
   "SK브로드밴드,유료방송업계유일산업안전보건공단이사장표창",
@@ -6001,7 +5991,17 @@
   "[현장연결]이대통령,7박11일미국·남미순방출국길",
   "[뉴스초점]'세기의재산분할'SK그룹오너리스크향방은",
   "반토막난로봇주,삼성'RX'출범에깨어나나",
-  "해킹메일로뚫리는공공기관,과천시는철벽이었다"
+  "해킹메일로뚫리는공공기관,과천시는철벽이었다",
+  "한컴,AI기업으로새출발...공공·국방·금융'민감데이터'시장정조...",
+  "'한글과컴퓨터'이름뗐다…한컴,36년만에AI기업으로새출발",
+  "이대통령,샌프란으로출발…실리콘밸리서'AI선언'발표",
+  "오랜만에계좌열었다깜짝“이정도일줄이야”…M7시총하루새120...",
+  "이대통령,'AI협력'샌프란시스코향발…실리콘밸리주요기업연쇄면...",
+  "美민관사이버위협정보공유법적리스크없앤다...관련책임면제...",
+  "李대통령,7박11일순방출국...샌프란서빅테크CEO연쇄면담",
+  "SK그룹,판결예의주시...지배구조영향'촉각'",
+  "11일동안미국·남아메리카순방나선이재명대통령",
+  "'본인전송요구권'적용범위확대한달앞으로...대리수집시사전협의"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,13 @@
   [
    "2026-07-24T13:54:17.170363+09:00",
    "뚫리는 철벽이었다 과천시는 공공기관 메일로"
+  ],
+  [
+   "2026-07-24T13:56:16.393835+09:00",
+   "확대 한달 범위 대리 적용 앞으로 수집 사전협의 본인전송요구권"
   ]
  ],
- "last_run": "2026-07-24T13:54:43.828937+09:00",
+ "last_run": "2026-07-24T13:56:41.078520+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
