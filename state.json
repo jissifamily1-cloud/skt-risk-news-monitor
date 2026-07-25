@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=711547",
-  "http://topclass.chosun.com/news/articleView.html?idxno=36566",
-  "https://www.mt.co.kr/industry/2026/07/24/2026072319545222953",
-  "http://www.boannews.com/media/view.asp?idx=144818&kind=3",
-  "http://www.inews24.com/view/1988577",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044279",
-  "https://www.mediapen.com/news/view/1112085",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=362546",
-  "https://www.newsis.com/view/NISX20260724_0003722485",
-  "https://view.asiae.co.kr/article/2026072415541919584",
-  "https://www.slist.kr/news/articleView.html?idxno=753989",
   "https://biz.chosun.com/it-science/ict/2026/07/24/V7SUJKW2IZCLXAF5RRGP55ME2I/",
   "https://magazine.hankyung.com/business/article/202607244655b",
   "https://www.newsis.com/view/NISX20260724_0003722475",
@@ -2999,20 +2988,20 @@
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60113",
   "http://www.atstar1.com/news/articleView.html?idxno=6036962",
   "https://www.viva100.com/article/20260725500196",
-  "https://imnews.imbc.com/news/2026/politics/article/6840029_36911.html"
+  "https://imnews.imbc.com/news/2026/politics/article/6840029_36911.html",
+  "https://magazine.hankyung.com/business/article/202607255601b",
+  "https://isplus.com/article/view/isp202607250081",
+  "https://www.viva100.com/article/20260725500199",
+  "https://www.ytn.co.kr/_ln/0101_202607251401464286",
+  "https://www.hankyung.com/article/2026072448346",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541673",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02220566645518128",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=313187",
+  "https://www.newsis.com/view/NISI20260724_0002195056",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=591842",
+  "https://www.newsis.com/view/NISX20260724_0003722179"
  ],
  "seen_titles": [
-  "GPT인간통제이탈에깜짝…미의회'AI킬스위치'법안발의",
-  "엔비디아,한국과'풀스택AI동맹'강화…글로벌혁신허브도약시동",
-  "박완수경남지사,3169억국비건의·첨단산업메가투자총력",
-  "최태원,9440억원현금어떻게마련할까…SKT주가폭등한이유는",
-  "충남도,202조첨단산업투자지원'광속TF'띄웠다",
-  "李대통령,미국·남미3국순방길올라…직원들엔\"휴가다녀오시라\"",
-  "법원“최태원,노소영에9440억원현금지급”…SK주식도분할대상",
-  "'파기환송심'법원,노소영에9440억원지급판결…최태원측\"상고여부...",
-  "9년법정공방매듭…최태원,노소영에9440억원지급결정",
-  "에스유엠,기아·KT와손잡고원격운전사업화업무협약체결",
-  "'공정성'이냐'책무'냐…YTN장고속김종철위원장회피",
   "[포토]이병헌'정재훈코치의원포인트레슨을받으며'",
   "[병원계소식]7월24일",
   "李대통령,샌프란시스코로…AI외교시동",
@@ -6001,7 +5990,18 @@
   "미세공정한계,아키텍처로넘었다…AMD,차세대GPU'인스팅트MI400'",
   "주진모,결혼생활7년간백수…\"11살어린♥아내에존댓말,떠받들고...",
   "최태원“국민1인당AI에이전트목표”…AI인프라·생태계구축제안",
-  "이대통령,빅테크CEO들과'샌프란깐부회동'‥\"우리는식구\""
+  "이대통령,빅테크CEO들과'샌프란깐부회동'‥\"우리는식구\"",
+  "삼성전자·SK'초대박'...미국서전해진'낭보'",
+  "쌍둥이만나면더'괴물모드'...8연패LG,이번엔류현진공략할까",
+  "정의선“피지컬AI시대연다”…현대차,자율주행·로봇·AI공장전략...",
+  "청와대\"국내기업·글로벌빅테크,향후5년9,500억달러반도체협력...",
+  "머스크의AI승부수,삼성에달렸다…컨콜서\"땡큐\"[강경주의테크X]",
+  "靑“한국-글로벌빅테크기업간9500억불규모협력추진”",
+  "김용범“국내반도체기업,해외빅테크와협력\"",
+  "'식구다'건배사나온샌프란AI만찬…이재명·젠슨황·재계총수한자...",
+  "[그래픽]최태원,노소영에재산분할9440억원판결…'SK주식'도대상",
+  "SK하이닉스주가새주흐름은?…AI협력기대속새주장반등여부주목",
+  "\"노화시계되돌리자\"…불멸에베팅한기업들[회춘약경쟁②]"
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,21 @@
   [
    "2026-07-25T14:02:16.223702+09:00",
    "전략은 이통3사 차별화 DC 경쟁 치열"
+  ],
+  [
+   "2026-07-25T14:04:16.651844+09:00",
+   "SK하이닉스 반등 새주 주가 기대 협력 여부 주목 새주장 흐름은"
+  ],
+  [
+   "2026-07-25T14:04:16.651844+09:00",
+   "재산분할 주식 대상 판결 9440억원 노소영에 SK"
+  ],
+  [
+   "2026-07-25T14:04:16.651844+09:00",
+   "노화 불멸에 기업들 시계 베팅한 되돌리자"
   ]
  ],
- "last_run": "2026-07-25T14:02:41.175921+09:00",
+ "last_run": "2026-07-25T14:04:43.824341+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
