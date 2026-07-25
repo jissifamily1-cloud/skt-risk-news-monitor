@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619523",
-  "https://www.sedaily.com/article/20071664",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49709",
-  "https://www.khan.co.kr/article/202607241824001",
-  "https://www.ajunews.com/view/20260724180137032",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208074",
   "https://www.thedailypost.kr/news/articleView.html?idxno=114791",
   "https://www.donga.com/news/It/article/all/20260724/134360440/1",
@@ -2999,14 +2994,14 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=404714",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717783",
   "https://www.globale.co.kr/news/articleView.html?idxno=39512",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717781"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1717781",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=710327",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60114",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=710328",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541687",
+  "http://www.inews24.com/view/1988738"
  ],
  "seen_titles": [
-  "프로야구KBO최초11시즌20홈런최정,고관절수술로시즌아웃",
-  "젠스파크국내상륙...\"3년간1억달러투자,기업시장공략할것\"",
-  "[사설]SK재산분할소송사실상결론,‘노태우비자금’환수방안모...",
-  "'나대지마심장아'치어리더이예빈,한도초과상큼함으로남심저격...",
-  "\"이걸어떻게찾았지?\"…리센느메이,'초딩사진'발굴됐다'화제'[엑...",
   "AI해커,인간과겨뤄18위...시사점은?",
   "[오늘의ABC뉴스룸]갤Z폴드8스펙전격공개!할부금으로대출이자깎...",
   "최태원,실리콘밸리서젠슨황재회…AI인프라협력논의",
@@ -6001,13 +5996,14 @@
   "최태원-젠슨황손잡았다…690조원규모AI팩토리·메모리협력",
   "AI회의론에흔들린삼성·하이닉스…1375조한미AI동맹,반전계기될...",
   "법원,최태원·노소영재산분할파기환송심서9,440억원선고",
-  "\"국가AI팩토리세운다\"…엔비디아,韓파트너들과'AI동맹'강화"
+  "\"국가AI팩토리세운다\"…엔비디아,韓파트너들과'AI동맹'강화",
+  "이재명대통령,\"샌프란시스코AI선언\"",
+  "개별GPU시대종말…AMD랙스케일'헬리오스',AI데이터센터패러다임...",
+  "삼성전자·SK그룹,미국빅테크와9,500억달러규모계약체결",
+  "“맥주한잔더?”젠슨황에…이대통령“공무원이라안돼!”",
+  "네이버,엔비디아·브룩필드서14.6조원조달⋯\"AI인프라확대\"[종합]"
  ],
  "recent_sigs": [
-  [
-   "2026-07-25T11:02:18.026675+09:00",
-   "자리에 리더들과 글로벌"
-  ],
   [
    "2026-07-25T11:08:16.967876+09:00",
    "CEO들 함께 한국과 여정 한자리 기업가치 합계 2경원"
@@ -6399,9 +6395,21 @@
   [
    "2026-07-25T17:00:40.329403+09:00",
    "440억 파기환송심서 재산분할 선고 법원"
+  ],
+  [
+   "2026-07-25T17:02:19.298419+09:00",
+   "맥주 대통령 한잔 공무원이라 젠슨황에"
+  ],
+  [
+   "2026-07-25T17:02:19.298419+09:00",
+   "개별 데이터센터 종말 GPU AMD 헬리오스 패러다임 랙스케일 시대"
+  ],
+  [
+   "2026-07-25T17:02:19.298419+09:00",
+   "6조원 조달 확대 인프라 브룩필드서 네이버"
   ]
  ],
- "last_run": "2026-07-25T17:00:57.785129+09:00",
+ "last_run": "2026-07-25T17:02:42.625872+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
