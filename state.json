@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12106104",
-  "https://www.chosun.com/economy/tech_it/2026/07/24/6LZCIIWY2BGNFB6OF3KLPMELNI/",
-  "https://www.donga.com/news/Economy/article/all/20260723/134354191/2",
-  "https://www.newspim.com/news/view/20260723001341",
-  "https://www.donga.com/news/Opinion/article/all/20260723/134354924/2",
-  "https://www.tokenpost.kr/news/breaking/380486",
-  "https://www.g-enews.com/view.php?ud=20260723183855618fbbec65dfb_1",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83629",
   "http://www.fnnews.com/news/202607231819241743",
   "https://www.donga.com/news/Economy/article/all/20260723/134351903/1",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20260724_0003722837",
   "https://www.mt.co.kr/politics/2026/07/26/2026072603582731104",
   "https://www.ddaily.co.kr/page/view/2026072602182099371",
-  "https://www.mt.co.kr/world/2026/07/26/2026072310335067134"
+  "https://www.mt.co.kr/world/2026/07/26/2026072310335067134",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6936775",
+  "https://www.etnews.com/20260725000030",
+  "https://www.newspim.com/news/view/20260724001088",
+  "https://www.mt.co.kr/tech/2026/07/26/2026072313410430935",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443077",
+  "https://biz.chosun.com/it-science/ict/2026/07/26/QARJ3TIKZNCMRNFQ6QZM3K2QA4/",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443110"
  ],
  "seen_titles": [
-  "스페이스X,아이폰보다슬림한AI기기투자자에시연",
-  "핵융합전기로전구켰다…美스타트업,직접전력생산첫공개",
-  "오픈AI·앤트로픽비상장투자열풍…\"상장연기는변수\"",
-  "스페이스X(SPCX)·앤트로픽,'초고평가'상태...월가거물\"변동성대비...",
-  "메타,수술없이생각을텍스트로바꾸는비침습BCI공개…정확도61%...",
-  "아르헨‘비인간AI기업’허용추진…“그런기업범죄처벌어떻게?”",
-  "[뉴욕증시]반도체만콕집어서투매…혼조마감",
   "필라델피아반도체지수4.25%,마이크론7%,SK하이닉스ADR8.9%↓...반도...",
   "[뉴욕증시]다우·S&P500반등…반도체약세속나스닥만하락",
   "[美증시특징주]빅테크급락속애플은'독야청청'…AI투자속도조절이...",
@@ -6001,7 +5994,14 @@
   "'지분변동'피했지만9440억마련어떻게…SK그룹주가향방은",
   "李\"대체불가AI공급망핵심국가도약\"선언…9500억달러성과도",
   "[종합]\"2030년2조달러시장정복\"…AMD,'헬리오스'앞세워오픈AI·앤...",
-  "2년만의균열…애플은왜오픈AI를고소했나"
+  "2년만의균열…애플은왜오픈AI를고소했나",
+  "연장이냐,작별이냐…'계약마지막해'이강철·김태형·김경문의운명...",
+  "롯데하이마트,자체알뜰폰'Hi-mart요금제'출시…매장서개통까지",
+  "롯데하이마트,월4900원자체요금제출시…통신시장진출",
+  "'빛나는'로켓,'돈버는'내비게이션…우주경제는사실지구에있다?",
+  "딥시크급성능입증한모티프3,독자AI파운데이션모델2차평가전다...",
+  "[인터뷰]정윤석리벨리온CSO“Arm·SKT와AI추론서버개발…CPU는관...",
+  "'키미K3'AI열풍은젠슨황에악재,엔비디아반도체중국수출당위성..."
  ],
  "recent_sigs": [
   [
@@ -6099,9 +6099,21 @@
   [
    "2026-07-26T06:02:18.012029+09:00",
    "만의 2년 고소했나 오픈AI를 균열 애플은"
+  ],
+  [
+   "2026-07-26T06:04:18.004500+09:00",
+   "서버 SKT와 ~SKT 추론 Arm 개발 CPU는 리벨리온 정윤석 CSO"
+  ],
+  [
+   "2026-07-26T06:04:18.004500+09:00",
+   "모델 평가전 2차 파운데이션 입증한 모티프3 독자 딥시크급 성능"
+  ],
+  [
+   "2026-07-26T06:04:18.004500+09:00",
+   "키미 당위성 악재 수출 K3 중국 젠슨 열풍은 황에 반도체"
   ]
  ],
- "last_run": "2026-07-26T06:02:43.169746+09:00",
+ "last_run": "2026-07-26T06:04:47.307669+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
