@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260724000807",
-  "https://www.newspim.com/news/view/20260724000808",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90342",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92614",
-  "https://www.etoday.co.kr/news/view/2607156",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673380&plink=ORI&cooper=NAVER",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92678",
   "https://www.cstimes.com/news/articleView.html?idxno=714587",
   "https://www.segye.com/newsView/20260724509248?OutUrl=naver",
   "https://www.ajunews.com/view/20260724141625625",
@@ -2999,16 +2992,16 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260725093251psv",
   "https://www.kukinews.com/article/view/kuk202607250002",
   "https://www.sidae.com/article/2026072509204040420",
-  "https://www.newscj.com/news/articleView.html?idxno=3419776"
+  "https://www.newscj.com/news/articleView.html?idxno=3419776",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645890",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645888",
+  "http://www.fnnews.com/news/202607250928283169",
+  "https://www.tjb.co.kr/news05/bodo/view/id/101474",
+  "https://www.ekn.kr/web/view.php?key=20260725023456037",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208117",
+  "https://news.mtn.co.kr/news-detail/2026072509283391651"
  ],
  "seen_titles": [
-  "[속보]법원\"최태원,재산분할금9440억지급\"",
-  "[속보]법원“최태원,노소영에재산분할금2440억원지급”",
-  "[속보]법원“최태원,노소영에게재산분할금9440억원지급”",
-  "[속보]法\"최태원,노소영에9440억재산분할\"",
-  "\"최태원,노소영에재산분할로2,440억원지급하라\"",
-  "이재명대통령,미국·남미순방차출국",
-  "이재명대통령,'미국-남미순방'출국",
   "[속보]최태원측\"심려끼쳐송구…판결문검토후상고여부결정\"",
   "인공지능해킹,불과몇시간만에발생...\"강화학습예견된사고\"",
   "대전신세계,베이비래빗팝업오픈…꿈돌이·꿈순이유아실내복선보여",
@@ -6001,7 +5994,14 @@
   "현대차정의선,젠슨황면담…\"새만금AI등후속논의\"",
   "李대통령만난젠슨황“엔비디아,SK와5000억달러파트너십발표”",
   "정의선현대차그룹회장,엔비디아본사서젠슨황회동…AI협력강화",
-  "李만난젠슨황\"엔비디아-SK,5000억달러파트너십\""
+  "李만난젠슨황\"엔비디아-SK,5000억달러파트너십\"",
+  "용인시지역화폐예산확대촉구…임현수의원\"운영방안개선필요\"",
+  "황재욱용인시의원\"차량사업소이전미루지말아야…주민고통여전\"...",
+  "李대통령美서'샌프란AI선언'…\"韓,대체불가AI공급망핵심국가\"",
+  "\"소외없는AI기본사회만들것\"…李대통령,샌프란서'AI선언'",
+  "李대통령,젠슨황·올트먼연쇄회동…“지금은韓AI황금시대”",
+  "이대통령만난젠슨황,'엔비디아-SK'730조규모파트너십예고",
+  "정의선,美엔비디아본사서젠슨황과회동…자율주행ㆍ로봇협력논의"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-07-25T09:30:31.030365+09:00",
    "Demo 공개 ~KT 혁신 7월4주차 Day에서 사례 AID"
+  ],
+  [
+   "2026-07-25T09:36:16.893401+09:00",
+   "샌프란서 선언 기본사회 소외 없는 대통령 만들"
   ]
  ],
- "last_run": "2026-07-25T09:34:33.025357+09:00",
+ "last_run": "2026-07-25T09:36:38.905859+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
