@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=1784875678&code=11131900&cp=nv",
-  "http://www.fnnews.com/news/202607241830352210",
-  "http://coinreaders.com/249380",
-  "https://www.aitimes.com/news/articleView.html?idxno=213130",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1717749",
   "https://www.busan.com/view/busan/view.php?code=2026072418481574747",
   "https://news.jtbc.co.kr/article/NB12310100?influxDiv=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267809",
   "https://www.newspim.com/news/view/20260725000093",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404715",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260725172128Chc"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260725172128Chc",
+  "http://www.fnnews.com/news/202607251716582386",
+  "https://www.chosun.com/economy/tech_it/2026/07/25/ZMUP5DRWQVEEHLUXX5TVZVJDEU/",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362565",
+  "https://www.aitimes.com/news/articleView.html?idxno=213174"
  ],
  "seen_titles": [
-  "최태원·젠슨황,AI서밋전야회동…SK-엔비디아협력확대주목",
-  "하나금융그룹'금융인재양성프로젝트'54명수료",
-  "젠스파크韓상륙…'AI워크스페이스6.0'으로시장공략",
-  "[오늘의증시]유가100달러·美금리4.7%충격…코스피5.7%폭락",
   "젠슨황·최태원美서만찬…반도체·피지컬AI협력논의",
   "美,AI위험통제강제종료법발의",
   "블랙포레스트랩스,차세대영상모델'플럭스3'출시...\"20초영상부터...",
@@ -6001,7 +5997,11 @@
   "정재헌\"SK하이퍼,AIDC사업개발가속화…글로벌빅테크들과협상진행...",
   "[핌in인천]수술대오르는최정,SSG이숭용감독\"건강하게복귀하는게...",
   "실리콘밸리덮친SK…690조원쏟아부어'AI공룡연합'만들었다",
-  "[이시각헤드라인]7월25일토요와이드(17시)"
+  "[이시각헤드라인]7월25일토요와이드(17시)",
+  "'車·공장넘어도시까지AI지능화'..현대차그룹,빅테크와피지컬AI펼...",
+  "삼성전자,브로드컴과AI반도체손잡아...5년간2000억달러규모협력",
+  "SK그룹,엔비디아·MS·앤트로픽과'AI인프라'협력합의",
+  "엔비디아,한국정부·기업과연달아회동…\"25년협력관계,AI혁신으..."
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-07-25T17:24:17.385621+09:00",
    "공룡 연합 만들었다 덮친 쏟아부어 실리콘밸리 SK 690조"
+  ],
+  [
+   "2026-07-25T17:26:17.214771+09:00",
+   "MS 인프라 협력 SK그룹 합의 앤트로픽과"
   ]
  ],
- "last_run": "2026-07-25T17:24:34.934198+09:00",
+ "last_run": "2026-07-25T17:26:41.270064+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
