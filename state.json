@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260724500215",
-  "https://www.mk.co.kr/article/12106636",
-  "https://www.newscj.com/news/articleView.html?idxno=3419635",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34472",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=700933",
-  "https://magazine.hankyung.com/business/article/202607244385b",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92615",
-  "https://www.hani.co.kr/arti/society/society_general/1269822.html",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607241426418450413",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619417",
   "https://www.newspim.com/news/view/20260724000834",
   "https://www.news1.kr/photos/8024070",
@@ -2999,18 +2990,18 @@
   "https://en.yna.co.kr/view/AEN20260725001200320?input=2106m",
   "https://www.news1.kr/it-science/internet-platform/6238766",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=307666",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000052160"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000052160",
+  "https://news.mtn.co.kr/news-detail/2026072317170292197",
+  "https://www.sedaily.com/article/20071759",
+  "http://www.fnnews.com/news/202607251030013032",
+  "https://www.newsis.com/view/NISX20260725_0003723016",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441779",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166566",
+  "https://www.newsis.com/view/NISI20260725_0021376709",
+  "https://www.newsis.com/view/NISI20260725_0021376716",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645912"
  ],
  "seen_titles": [
-  "최태원,노소영에9440억원재산분할지급판결…\"파기환송심,SK주식분...",
-  "李대통령,美샌프란시스코로출국…젠슨황·올트먼만나AI외교",
-  "최태원측\"심려끼쳐송구…판결문검토후상고여부결정\"",
-  "고법\"최태원,노소영에9440억원재산분할해야\",최태원\"판결문검토...",
-  "파기환송심결과'최태원측,노소영에9440억원재산분할”",
-  "서울고법“최태원회장측,노소영에9440억원재산분할”",
-  "최태원측“심려끼쳐송구,판결문검토후상고여부결정\"",
-  "[속보]법원\"노소영가사·양육·대외활동,SK주식가치증대에기여\"",
-  "[과천24시]과천시,'지방정부해킹메일대응훈련'우수기관선정…정...",
   "도공대전충남본부,하이패스화물차운전자에휴게소식사권증정…7월...",
   "코빗,AI에이전트기반가상자산거래도구'코빗CLI'출시",
   "국힘\"선관위,해체가답\"…'전산통계조작의혹'에총공세",
@@ -6001,7 +5992,16 @@
   "TopS.KoreanbizchiefsmeetwithNvidia,globaltechleaders",
   "네이버이해진,빅테크면전에\"AI,특정집단이지배하는것안돼\"(종합...",
   "李대통령,'샌프란AI선언'...\"글로벌AI허브도약\"",
-  "헌대차정의선,엔비디아본사서젠슨황면담"
+  "헌대차정의선,엔비디아본사서젠슨황면담",
+  "국민의힘과방위배치완료...이진숙전방통위원장도합류",
+  "AI3조달러최태원“허황된게아냐…젠슨은계속배가고프다”",
+  "李대통령,美서'세일즈외교'…젠슨황등빅테크CEO연쇄면담",
+  "이대통령\"글로벌AI공급망핵심국가로\"…최태원\"4700조메가투자과...",
+  "이재명,젠슨황·샘올트먼연쇄회동…AI메가프로젝트협력요청",
+  "앤트로픽\"한국과데이터센터·AI보안협력\"",
+  "악수하는이재명대통령-젠슨황엔비디아CEO",
+  "악수하는이재용삼성전자회장과젠슨황엔비디아CEO",
+  "의정부소방서,LG유플러스직원대상심폐소생술실습교육실시"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,17 @@
   [
    "2026-07-25T10:38:20.362030+09:00",
    "젠슨 최고경영자 이재용 회장과 삼성전자"
+  ],
+  [
+   "2026-07-25T10:44:15.727631+09:00",
+   "앤트로픽 한국과 데이터센터 보안 협력"
+  ],
+  [
+   "2026-07-25T10:44:15.727631+09:00",
+   "~LGU 심폐소생술 직원 의정부소방서 교육 대상 실시 실습 LG유플러스"
   ]
  ],
- "last_run": "2026-07-25T10:42:32.520433+09:00",
+ "last_run": "2026-07-25T10:44:39.388634+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
