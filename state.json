@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2346496.htm",
-  "https://www.ytn.co.kr/_ln/0103_202607241454011782",
-  "https://www.greened.kr/news/articleView.html?idxno=345866",
-  "https://www.yna.co.kr/view/AKR20260724109700052?input=1195m",
-  "https://www.newspost.kr/news/articleView.html?idxno=224377",
-  "https://www.etoday.co.kr/news/view/2607187",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3645406",
-  "https://www.chosun.com/economy/tech_it/2026/07/24/BZZL7FQT25DAZOURXMY2YNDTQE/",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04185286645517800",
   "https://www.newscj.com/news/articleView.html?idxno=3419641",
   "https://www.kukinews.com/article/view/kuk202607240102",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/it-science/cc-newmedia/6237247",
   "https://www.peoplewatch.co.kr/article/view/ppw202607250001",
   "https://www.dailian.co.kr/news/view/1670839/?sc=Naver",
-  "https://www.khan.co.kr/article/202607251107001"
+  "https://www.khan.co.kr/article/202607251107001",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553403800",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471424",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260725111037UsC",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852266",
+  "https://www.viva100.com/article/20260725500146",
+  "https://www.kgnews.co.kr/news/article.html?no=905094",
+  "https://www.koreajoongangdaily.com/business/lee-meets-withnbspopenai-nvidia-broadcom-anthropic-chiefs-to-discuss-koreas-transformation-into-ai-society/12791062",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16145380"
  ],
  "seen_titles": [
-  "취재진앞에선이재근SK그룹최태원회장측변호인",
-  "법원나서는이재근SK그룹최태원회장측변호인",
-  "[이슈]최태원,4368억줄이고SK경영권지켰다...1조3808억서9440억으...",
-  "법원나서는이재근SK그룹최태원회장측변호사",
-  "초유의재산분할'9,440억'...남은절차는[Y녹취록]",
-  "SKT,AIDC자회사‘SK하이퍼’설립…7500억원출자",
-  "[아유경제_문화]영화'비서가된재벌상속녀'가드디어베일을벗다…...",
-  "트럼프美대통령中의기술탈취강력언급",
   "비트코인보안컨소시엄출범…블랙록·스트래티지포함9개사참여",
   "[허프생각]바둑과삼성이전하는메시지:빈틈없는계산은'안전한패...",
   "50조‘국방반도체’열린다…삼성·SK,99%외산탈출선봉[배창학의...",
@@ -6001,7 +5993,15 @@
   "SK스토아노조\"라포랩스매각계약파기하라\"…위법성검토촉구",
   "李대통령\"대체불가한AI핵심국가도약\"…샌프란AI선언(전문)",
   "李대통령\"AI황금시대큰역할기대\"젠슨황\"SK와5000억달러파트너십...",
-  "미국에서시총1.7경AI리더들과건배하는이대통령…[현장화보]"
+  "미국에서시총1.7경AI리더들과건배하는이대통령…[현장화보]",
+  "'실책→대량실점→11점차대패'우울한두산,'4타수4삼진'外人반등...",
+  "쏠리드,미국투자재개기대…향후3년실적성장본격화",
+  "[이시각헤드라인]7월25일토요와이드(11시)",
+  "구글,올해AI에300조투자…국내증시도호재",
+  "李대통령,앤트로픽CEO와협력논의…\"한국AI경쟁력키운다\"",
+  "이재명대통령‘샌프란AI선언’…“韓,대체불가글로벌AI공급망핵...",
+  "LeemeetswithOpenAI,Nvidia,Broadcom,AnthropicchiefstodiscussK",
+  "SK텔레콤주가최근5거래일8만원서10만원도약"
  ],
  "recent_sigs": [
   [
@@ -6567,9 +6567,13 @@
   [
    "2026-07-25T11:10:26.016214+09:00",
    "리더들과 대통령 시총 미국에서 건배하는 7경"
+  ],
+  [
+   "2026-07-25T11:12:15.861095+09:00",
+   "10만원 5거래일 8만원서 ~SKT 최근 도약 주가"
   ]
  ],
- "last_run": "2026-07-25T11:10:51.135491+09:00",
+ "last_run": "2026-07-25T11:12:37.387387+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
