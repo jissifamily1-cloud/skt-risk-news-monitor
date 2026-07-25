@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/24/2026072490354.html",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717750",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839918_37004.html",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839919_37004.html",
-  "https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html?partner=naver",
-  "https://www.mt.co.kr/future/2026/07/24/2026072414391885396",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6839917_37004.html",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208094",
-  "https://www.ikbc.co.kr/article/view/kbc202607240062",
-  "https://www.mk.co.kr/article/12106996",
   "https://www.gukjenews.com/news/articleView.html?idxno=3645732",
   "https://www.tokenpost.kr/news/breaking/380996",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008673932&plink=ORI&cooper=NAVER",
@@ -2999,19 +2989,19 @@
   "http://www.osen.co.kr/article/G1112846337",
   "http://www.osen.co.kr/article/G1112846338",
   "https://news.jtbc.co.kr/article/NB12310176?influxDiv=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620083"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620083",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=848215",
+  "http://www.osen.co.kr/article/G1112846356",
+  "http://www.osen.co.kr/article/G1112846355",
+  "http://www.osen.co.kr/article/G1112846352",
+  "http://www.osen.co.kr/article/G1112846351",
+  "http://www.osen.co.kr/article/G1112846349",
+  "https://www.econovill.com/news/articleView.html?idxno=746147",
+  "https://www.donga.com/news/Society/article/all/20260723/134355099/2",
+  "https://www.kmib.co.kr/article/view.asp?arcid=1784795034&code=11131100&cp=nv",
+  "https://www.tokenpost.kr/news/blockchain/381255"
  ],
  "seen_titles": [
-  "안철수“판교카이스트AI대학원,엔비디아와함께세계로”",
-  "[집중진단]외국인돌아온거아니었나?…'5조매물폭탄'에증시또휘...",
-  "법원,최태원·노소영재산분할파기환송심선고“최회장,9440억원지급...",
-  "[베트남이슈줌인]베트남로또직접사보니...외국인1등4건중3건'...",
-  "노소영-최태원재산분할9940억원...“가사·양육기여인정에도절반...",
-  "최태원·노소영역대급재산분할,'4조'권혁빈이혼소송판흔든다",
-  "[아는기자]‘세기의소송’,사실상노소영판정승?",
-  "군의료시스템‘비인가접속’…이름,병명등민감정보8GB에접근",
-  "9400억넘는재산분할금…최태원회장자금조달어떻게?",
-  "KT,개발부터운영까지AI로혁신…AID-X적용경험과노하우공유",
   "인텔,18A공정수율개선으로파운드리상업화속도",
   "\"최태원,노소영에재산분할금9440억원지급\"",
   "665억→1조3천→9440억…재산분할액'널뛰기'이유는?",
@@ -6001,7 +5991,17 @@
   "[사진]첫타석투런홈런치는힐리어드",
   "[사진]김진욱,아쉬운힐리어드투런포허용",
   "미빅테크와'1375조'AI빅딜…이젠\"AI만드는나라로\"",
-  "이해진“엔비디아·브룩필드,네이버에14조6천억원투자”"
+  "이해진“엔비디아·브룩필드,네이버에14조6천억원투자”",
+  "[#통신풍향계]KT'AID-X업무혁신'-'갤럭시Z시리즈체험공간'운영·...",
+  "[사진]김진욱,승리가필요해",
+  "[사진]주먹불끈김진욱,만루위기순삭",
+  "[사진]김진욱,사직분위기바꾸는투구",
+  "[사진]김진욱,승리하나하나가중요해",
+  "[사진]소형준,끝까지긴장늦추지않는다.",
+  "삼성SDS-앤트로픽동맹,진짜무기는7만명의사용경험",
+  "“틱톡,945만명검색정보등무단이용”103억과징금",
+  "틱톡에103억과징금…개인정보무단수집",
+  "하이퍼리퀴드,주식거래량이암호화폐첫추월...SK하이닉스최다"
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,13 @@
   [
    "2026-07-25T18:56:17.701919+09:00",
    "이해진 투자 14조6천억원 브룩필드 네이버에"
+  ],
+  [
+   "2026-07-25T18:58:17.968156+09:00",
+   "하이퍼리퀴드 추월 거래량이 암호화폐 주식 SK하이닉스 최다"
   ]
  ],
- "last_run": "2026-07-25T18:56:38.386541+09:00",
+ "last_run": "2026-07-25T18:58:35.574001+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
