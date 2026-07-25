@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590789109735",
-  "https://news.mtn.co.kr/news-detail/2026072414005366064",
-  "https://www.dt.co.kr/article/12074536",
-  "https://byline.network/?p=9004111222613006",
   "https://platum.kr/archives/291362",
   "http://www.fnnews.com/news/202607241428102948",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=223960",
@@ -2999,13 +2995,13 @@
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307166",
   "https://www.koreaherald.com/article/10819286",
   "https://www.yna.co.kr/view/AKR20260725019051001?input=1195m",
-  "https://www.kyeonggi.com/article/20260725580036"
+  "https://www.kyeonggi.com/article/20260725580036",
+  "https://www.kukinews.com/article/view/kuk202607250003",
+  "https://www.yna.co.kr/view/PYH20260725023600013?input=1196m",
+  "https://www.news1.kr/politics/president/6238754",
+  "https://www.aitimes.com/news/articleView.html?idxno=213165"
  ],
  "seen_titles": [
-  "최태원과노소영세기의이혼에SK텔레콤주가5%대폭등",
-  "법원\"최태원,노소영에게9440억원지급\"…파기환송심서감액",
-  "[속보]법원\"최태원·노소영재산분할은현금으로\"",
-  "[속보]법원\"재산분할비율노소영1/3,최태원2/3\"",
   "[속보]재산분할9440억원판결에노소영측\"...\"",
   "\"최태원회장,노소영관장에게9440억지급하라\"",
   "[속보]노소영측,재산분할판결관련질문에'답변없이이동'",
@@ -6001,7 +5997,11 @@
   "글로벌복합위기와AI파동속,연금은어떻게지켜야하나",
   "SamsungsuppliesHBM4asAMD’sHeliosentersproduction",
   "李대통령'샌프란AI선언'…\"韓,대체불가공급망핵심국가로\"(종합)",
-  "[속보]이재명대통령,샌프란AI선언…“韓,대체불가공급망핵심국..."
+  "[속보]이재명대통령,샌프란AI선언…“韓,대체불가공급망핵심국...",
+  "李대통령‘샌프란AI선언’…“대한민국,대체불가공급망핵심국가...",
+  "이재명대통령,글로벌AI리더들과함께",
+  "李대통령글로벌AI리더와'미국판깐부회동'…치맥대신피시앤칩스",
+  "엔비디아·MS·메타\"오픈소스막지마라\"...미국정부에공동서한"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,13 @@
   [
    "2026-07-25T10:08:19.810881+09:00",
    "핵심국가로 인공지능 대체불가 대통령의 공급망 샌프란AI선언"
+  ],
+  [
+   "2026-07-25T10:12:17.341487+09:00",
+   "오픈소스 막지 정부에 미국 MS 메타 공동 마라 서한"
   ]
  ],
- "last_run": "2026-07-25T10:10:45.813986+09:00",
+ "last_run": "2026-07-25T10:12:35.531603+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
