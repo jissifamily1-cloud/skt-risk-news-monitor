@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=240593",
-  "https://biz.sbs.co.kr/article_hub/20000324564?division=NAVER",
-  "https://www.asiatime.co.kr/article/20260724500345",
   "https://www.econovill.com/news/articleView.html?idxno=746111",
   "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=154699",
   "https://www.topstarnews.net/news/articleView.html?idxno=16144942",
@@ -2999,12 +2996,12 @@
   "https://www.bloter.net/news/articleView.html?idxno=668993",
   "https://www.yna.co.kr/view/AKR20260725049200017?input=1195m",
   "https://imnews.imbc.com/news/2026/politics/article/6840050_36911.html",
-  "https://www.hankyung.com/article/2026072449601"
+  "https://www.hankyung.com/article/2026072449601",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87135",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620068",
+  "https://www.yna.co.kr/view/AKR20260725049900017?input=1195m"
  ],
  "seen_titles": [
-  "‘외교관이메일노출’국립외교원해킹사태가남긴과제",
-  "복권4억날릴뻔한英소방관,챗GPT로승소…“AI없었으면못이겼다...",
-  "“상반기1.78兆벌었다”...NH농협금융지주,역대최대실적",
   "재산분할서쏙빠진'노태우비자금300억원'…檢,자금흐름추적",
   "최태원,노소영에게9440억원지급",
   "엔비디아·카이스트,AI혁신가속화맞손···'공동AI연구소'설립",
@@ -6001,13 +5998,12 @@
   "韓·美1391조AI동맹…배경훈\"글로벌공급망핵심거점육성\"",
   "한미빅테크1천400조원AI동맹…반도체·AI공급망구축본격화(종합)",
   "청와대\"앤트로픽,미규제당국과'미토스오픈-폐쇄'모델논의중\"",
-  "與'쿠팡차별논란'들여다본다"
+  "與'쿠팡차별논란'들여다본다",
+  "SK,글로벌빅테크와7천억달러AI인프라협력…메가프로젝트실행본...",
+  "청와대“9천5백억달러규모반도체협력추진”",
+  "엔비디아,서울대와AI공동연구기관설립추진"
  ],
  "recent_sigs": [
-  [
-   "2026-07-25T11:12:15.861095+09:00",
-   "10만원 5거래일 8만원서 ~SKT 최근 도약 주가"
-  ],
   [
    "2026-07-25T11:14:16.149354+09:00",
    "인정한 비자금 이유 9440억원 법원이 빠졌는데도"
@@ -6411,9 +6407,13 @@
   [
    "2026-07-25T17:10:26.198554+09:00",
    "반도체 구축 1천400조원 한미 AI공급망 동맹 빅테크 본격화"
+  ],
+  [
+   "2026-07-25T17:12:27.857207+09:00",
+   "연구기관 설립 서울대와 공동"
   ]
  ],
- "last_run": "2026-07-25T17:10:43.548658+09:00",
+ "last_run": "2026-07-25T17:12:45.471810+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
