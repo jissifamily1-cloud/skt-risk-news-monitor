@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112845720",
-  "https://www.mk.co.kr/article/12106907",
-  "https://www.mk.co.kr/article/12106906",
-  "https://www.sedaily.com/article/20071644",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166518",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=34476",
   "https://www.businesspost.co.kr/BP?command=article_view&num=443142",
   "https://news.mtn.co.kr/news-detail/2026072416414684081",
   "http://www.hellodd.com/news/articleView.html?idxno=112598",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026072515593672852",
   "http://www.yonhapnewstv.co.kr/news/AKR20260725155855C4q",
   "https://www.segye.com/newsView/20260725505475?OutUrl=naver",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260725160101yXP"
+  "http://www.yonhapnewstv.co.kr/news/AKR20260725160101yXP",
+  "https://www.newsway.co.kr/news/view?ud=2026072515582913142",
+  "https://www.m-i.kr/news/articleView.html?idxno=1395240",
+  "https://www.newspim.com/news/view/20260725000078",
+  "https://www.wikitree.co.kr/articles/1148426",
+  "https://www.hankookilbo.com/news/article/A2026072515170005029?did=NA",
+  "https://www.m-i.kr/news/articleView.html?idxno=1395242"
  ],
  "seen_titles": [
-  "[현장톡톡]'알파고쇼크10년'…인간vsAI코드게이트서해킹맞대결",
-  "코빗,AI에이전트연동'코빗CLI'출시…자연어로가상자산거래지원",
-  "로봇이따준딸기,드셔보셨어요?",
-  "국민의힘,선관위특검·국조연장‘투트랙’압박",
-  "법원“최태원,노소영에9440억현금지급해야”",
-  "이대통령,美샌프란시스코로출국…7박11일순방시작",
   "최태원,재산분할4368억덜어냈지만…‘1조육박’현금어떻게마련할...",
   "CNN\"AI붐에도최태원전부인,더큰재산분할못받았다\"",
   "KT,갤럭시Z8시리즈체험공간전국9곳운영",
@@ -6001,7 +5995,13 @@
   "젠슨황,李대통령에\"한국증시다시오를것\"",
   "현대차,피지컬AI시대혁신생태계조성…엔비디아와플랫폼구축",
   "“안사길다행인가,지금이바닥인가”…삼전·하닉7~8%급락에도월가...",
-  "SK,엔비디아와5천억달러이상규모AI인프라협력하기로"
+  "SK,엔비디아와5천억달러이상규모AI인프라협력하기로",
+  "이재용'선밸리영업'통했나…삼성,브로드컴과'2나노동맹'",
+  "SK그룹,엔비디아와'AI혈맹'강화…5000억달러협력",
+  "SK,엔비디아와5000억달러AI인프라동맹…MS·앤트로픽까지확장",
+  "장동혁,'AI선언'이대통령향해“뻔한소리왜샌프란까지가서하나...",
+  "이해진\"엔비디아·브룩필드가14조투자\"...네이버,초대형AI팩토리...",
+  "네이버,엔비디아·브룩필드로부터100억달러투자유치"
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,17 @@
   [
    "2026-07-25T15:54:16.271586+09:00",
    "미래 피지컬 승부수 웨이모와 자동차 넘어 현대차그룹"
+  ],
+  [
+   "2026-07-25T16:06:16.095728+09:00",
+   "샌프란까지 하나 향해 대통령 가서 장동혁 소리 뻔한 선언"
+  ],
+  [
+   "2026-07-25T16:06:16.095728+09:00",
+   "유치 100억달러 브룩필드로부터 투자 네이버"
   ]
  ],
- "last_run": "2026-07-25T16:04:33.830727+09:00",
+ "last_run": "2026-07-25T16:06:36.664993+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
