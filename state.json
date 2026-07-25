@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607241354420364",
-  "https://www.yna.co.kr/view/AKR20260724103000004?input=1195m",
-  "https://www.dt.co.kr/article/12074534",
-  "https://www.ajunews.com/view/20260724141059615",
-  "https://www.newspim.com/news/view/20260724000799",
-  "https://www.aitimes.com/news/articleView.html?idxno=213132",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360808",
-  "https://zdnet.co.kr/view/?no=20260724140845",
   "https://www.koit.co.kr/news/articleView.html?idxno=208155",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42617",
   "http://www.fnnews.com/news/202607241406048703",
@@ -2999,17 +2991,17 @@
   "https://news.mtn.co.kr/news-detail/2026072509220154846",
   "https://www.chosun.com/politics/politics_general/2026/07/25/NC3D2OP2F5H6HCVYYI24O7F2H4/",
   "https://www.tjb.co.kr/news05/bodo/view/id/101473",
-  "https://www.betanews.net/article/view/beta202607240019"
+  "https://www.betanews.net/article/view/beta202607240019",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3645885",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260725.99099007411",
+  "https://www.ddaily.co.kr/page/view/2026072316260159792",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030159679&code=61111111&cp=nv",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096983",
+  "https://economist.co.kr/article/view/ecn202607250003",
+  "https://www.ytn.co.kr/_ln/0102_202607250913588791",
+  "https://www.news1.kr/industry/general-industry/6238733"
  ],
  "seen_titles": [
-  "[속보]법원“최태원,노소영에9440억원재산분할”",
-  "[속보]법원\"최태원,노소영에재산분할9440억원지급해야\"",
-  "[속보]법원\"최태원,노소영에재산분할금2천440억원지급\"",
-  "[속보]법원“최태원,노소영에재산분할금9440억원지급하라”",
-  "[속보]법원\"최태원,노소영에9440억원재산분할\"",
-  "[속보]법원“최태원회장,노소영관장에9440억지급”",
-  "[속보]파기환송심재판부\"최태원·노소영재산분할9440억\"",
-  "[속보]법원\"최태원,노소영에재산분할로9440억지급해야\"",
   "(고침)[속보]법원“최태원,노소영에재산분할금9440억원지급”",
   "[속보]법원\"최태원,노소영에재산분할금9천440억원지급\"",
   "[속보]법원“최태원,노소영에재산분할금9천440억원지급”",
@@ -6001,7 +5993,15 @@
   "李대통령\"韓대체불가글로벌AI공급망핵심국가로도약\"",
   "李대통령,샌프란AI선언서“한국,글로벌AI공급망핵심국가도약할...",
   "젠슨황\"SK와730조파트너십발표\"…李대통령과어떤약속했나",
-  "KT,새로운갤럭시Z시리즈특별체험공간운영"
+  "KT,새로운갤럭시Z시리즈특별체험공간운영",
+  "박희정용인시의원,동백골목상권활성화방안제시…보행환경개선...",
+  "[속보]젠슨황“현대차와자율운행제네시스차량함께개발”",
+  "국힘과방위배치완료…한준호·최형두간사체제,이진숙합류",
+  "李대통령‘샌프란AI선언’…“누구도소외되지않는AI기본사회”",
+  "정의선현대차회장,엔비디아본사방문…젠슨황CEO와자율주행·AI협...",
+  "[속보]李대통령만난젠슨황\"SK와5천억달러규모파트너십추진\"",
+  "젠슨황\"삼성,하이닉스등과차세대AI발전시킬것\"[현장영상+]",
+  "[속보]최태원\"브로드컴,깜짝놀랄숫자의메모리칩계속요구\""
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,17 @@
   [
    "2026-07-25T09:26:18.392944+09:00",
    "갤럭시 특별 시리즈 새로운 ~KT 운영 체험공간"
+  ],
+  [
+   "2026-07-25T09:28:17.896328+09:00",
+   "삼성 차세대 발전시킬 젠슨 등과 하이닉스"
+  ],
+  [
+   "2026-07-25T09:28:17.896328+09:00",
+   "메모리칩 숫자의 깜짝 브로드컴 놀랄 계속 요구"
   ]
  ],
- "last_run": "2026-07-25T09:26:36.188547+09:00",
+ "last_run": "2026-07-25T09:28:38.355166+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
