@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=2026072510425033232bd56fbc3c_1",
-  "https://www.sedaily.com/article/20071767",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686966",
-  "https://www.ziksir.com/news/articleView.html?idxno=141152",
-  "https://www.sedaily.com/article/20071768",
-  "https://economist.co.kr/article/view/ecn202607250009",
   "https://www.mk.co.kr/article/12107228",
   "https://news.tf.co.kr/read/economy/2346970.htm",
   "https://www.ytn.co.kr/_ln/0101_202607251039157948",
@@ -2999,15 +2993,15 @@
   "http://www.fnnews.com/news/202607261826363895",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541768",
   "https://www.hankyung.com/article/2026072666131",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=806346"
+  "http://www.jeollailbo.com/news/articleView.html?idxno=806346",
+  "http://www.fnnews.com/news/202607261830373339",
+  "http://www.fnnews.com/news/202607261830355600",
+  "https://www.sedaily.com/article/20072035",
+  "https://www.sedaily.com/article/20072037",
+  "http://www.domin.co.kr/news/articleView.html?idxno=1562966",
+  "https://www.hankyung.com/article/2026072666111"
  ],
  "seen_titles": [
-  "중동전운에유가100달러돌파…원유·태양광ETF‘급등’",
-  "정의선회장\"피지컬AI로도시레벨의통합지능화실현\"",
-  "이대통령,샌프란시스코서‘AI선언’발표…”대체불가공급망핵심...",
-  "李대통령,美서젠슨황·이재용·최태원·정의선·이해진과만찬…'시총...",
-  "李대통령,엔비디아·오픈AI연쇄회동…반도체‘빅딜’나오나",
-  "민주\"李대통령'샌프란AI선언',AI강국역사적출발점\"",
   "현대차정의선회장,엔비디아본사방문…젠슨황과AI협력논의",
   "리사수“거의다왔다”…삼성,AMDHBM4수주눈앞",
   "李대통령샌프란시스코선언…\"대체불가글로벌AI공급망국가로\"(종합...",
@@ -6001,7 +5995,13 @@
   "뒤처지는것보다과잉투자가낫다…AI인프라에돈쏟아붓는빅테크",
   "최태원·노소영,‘세기의이혼’…위자료는20억",
   "젠슨황·혹탄등과'버맥회동'…이대통령\"우리는식구\"건배사외쳐",
-  "이대통령,'샌프란AI선언'...'새만금AI밸리'조성시동"
+  "이대통령,'샌프란AI선언'...'새만금AI밸리'조성시동",
+  "[강남視角]소상공인지원기회놓친배달앱규제",
+  "[사설]한국반도체위상널리알린미국AI서밋",
+  "삼성,AI칩생산2000억弗협력…SK는HBM4공급MS로확장",
+  "빅테크,자본·GPU·AI모델까지…AIDC허브된韓",
+  "6년표류,새만금SK데이터센터속도내야",
+  "글로벌빅샷총집결…李\"韓없이AI발전불가능\""
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,21 @@
   [
    "2026-07-26T18:30:32.780443+09:00",
    "세기의 위자료는 20억 이혼"
+  ],
+  [
+   "2026-07-26T18:32:16.539277+09:00",
+   "빅테크 허브 GPU 자본 AI모델까지 AIDC"
+  ],
+  [
+   "2026-07-26T18:32:16.539277+09:00",
+   "반도체 미국 위상 서밋 널리 한국 알린"
+  ],
+  [
+   "2026-07-26T18:32:16.539277+09:00",
+   "없이 글로벌 발전 불가능 빅샷 총집결"
   ]
  ],
- "last_run": "2026-07-26T18:30:59.662490+09:00",
+ "last_run": "2026-07-26T18:32:42.918900+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
