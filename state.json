@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2607369",
-  "https://www.hidomin.com/news/articleView.html?idxno=714619",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848334",
   "https://www.koreaherald.com/article/10819860",
   "https://www.ddaily.co.kr/page/view/2026072316581063753",
@@ -2999,11 +2997,11 @@
   "https://www.news2day.co.kr/article/20260726500042",
   "https://m.skyedaily.com/news_view.html?ID=308548",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=205513",
-  "https://www.mk.co.kr/article/12107695"
+  "https://www.mk.co.kr/article/12107695",
+  "https://www.aitimes.com/news/articleView.html?idxno=213165",
+  "https://www.seoul.co.kr/news/politics/2026/07/26/20260726500084?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "'2승1.83'장유호,트레이드'재평가'시급",
-  "\"3조달러투자,허황된숫자아니다\"…최태원,젠슨황과AI청사진공개",
   "李대통령\"한국,대체불가글로벌AI공급망으로도약할것\"",
   "李대통령,젠슨황·샘올트먼연쇄회동…\"AI메가프로젝트협력확대...",
   "정의선-젠슨황,자율주행사업면담",
@@ -6001,7 +5999,9 @@
   "미사일도로봇도부족하다…K-방산,AI전장확산에새기회",
   "[한눈에보는그래픽스]이재명대통령,샌프란시스코AI서밋서초대형...",
   "SK텔레콤,독자AI모델API스타트업에개방…국산AI생태계확장나서",
-  "현대차그룹,엔비디아손잡고'휴머노이드로봇생태계'만든다"
+  "현대차그룹,엔비디아손잡고'휴머노이드로봇생태계'만든다",
+  "엔비디아·MS·메타\"오픈소스막지마라\"...미국정부에공동서한",
+  "[단독]외교부·산하기관해킹시도상반기만10만건육박"
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,13 @@
   [
    "2026-07-26T17:12:17.742884+09:00",
    "승부 AI가 가른건 시대 사람의 통찰력 해킹하는"
+  ],
+  [
+   "2026-07-26T17:16:17.863893+09:00",
+   "육박 산하기관 해킹시도 외교부 10만건 상반기만"
   ]
  ],
- "last_run": "2026-07-26T17:14:35.463528+09:00",
+ "last_run": "2026-07-26T17:16:35.551617+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
