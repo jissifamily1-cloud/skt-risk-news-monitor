@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/381265",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/25/2026072590115.html",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260725191511LH6",
-  "https://www.mediapen.com/news/view/1112171",
   "https://www.etoday.co.kr/news/view/2607407",
   "http://www.yonhapnewstv.co.kr/news/AKR202607251923435sX",
   "https://www.econovill.com/news/articleView.html?idxno=746150",
@@ -2999,13 +2995,13 @@
   "http://www.economytalk.kr/news/articleView.html?idxno=423058",
   "https://biz.sbs.co.kr/article_hub/20000324709?division=NAVER",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270025&t=NN",
-  "https://biz.sbs.co.kr/article_hub/20000324727?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000324727?division=NAVER",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270027&t=NN",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270035&t=NN",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270028&t=NN",
+  "https://www.thelec.kr/news/articleView.html?idxno=60040"
  ],
  "seen_titles": [
-  "젠스파크,업무맥락기억하는'AI워크스페이스6.0'공개…韓진출공...",
-  "삼성SDS,앤트로픽과국내기업AI시장공략…'클로드'기반AX사업확...",
-  "SK,엔비디아·MS·AWS와AI인프라동맹확대…글로벌빅테크와협력본...",
-  "엔비디아,AI서밋서한국AI전략조명…글로벌빅테크\"한국역할중요...",
   "오픈AI,한국과전략적협력확대…이재명대통령·삼성·SK와AI동맹강...",
   "정의선현대차그룹회장\"자동차넘어피지컬AI기업으로\"…美'AI서밋...",
   "로빈후드체인토큰화RWA7,000만달러…2주새5배",
@@ -6001,7 +5997,11 @@
   "[7월27일캐시워크돈버는퀴즈종합]\"키토선생,배민,파스타소스,픽스...",
   "[증시전략]빅테크실적·FOMC회의·중동까지…역대급변동성예고",
   "뉴욕증시,유가하락·반도체약세속혼조마감-[글로벌마감시황]",
-  "젠슨황\"韓은AI황금기…SK와5천억달러파트너십\""
+  "젠슨황\"韓은AI황금기…SK와5천억달러파트너십\"",
+  "우버,웨이모결별통보에약세…퀄컴,부품가인상소식에하락-[美증...",
+  "중동제2의전선갈등격화...美·이란은소강상태-[굿모닝글로벌이슈...",
+  "인텔,부활의신호탄인가진짜시험대의시작인가...월가시각팽팽[...",
+  "SK,엔비디아에메모리장기공급"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,13 @@
   [
    "2026-07-27T07:14:17.064696+09:00",
    "5천억달러 황금기 파트너십 젠슨 SK와"
+  ],
+  [
+   "2026-07-27T07:16:16.045506+09:00",
+   "엔비디아에 메모리 장기 공급 SK"
   ]
  ],
- "last_run": "2026-07-27T07:14:39.906463+09:00",
+ "last_run": "2026-07-27T07:16:36.463900+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
