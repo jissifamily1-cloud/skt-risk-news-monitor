@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2346035.htm",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335967",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/22/2026072200308.html",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317648",
-  "https://www.nocutnews.co.kr/news/6551925",
-  "https://www.hani.co.kr/arti/society/media/1269496.html",
-  "https://www.chosun.com/culture-life/broadcast-media/2026/07/22/VIEYI7YJAVCAZJ55AG75AYFANM/",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8617373",
-  "https://www.news1.kr/industry/distribution/6235918",
-  "https://www.ytn.co.kr/_ln/0102_202607221858425921",
-  "https://zdnet.co.kr/view/?no=20260722184559",
   "https://view.asiae.co.kr/article/2026072218532202189",
   "http://www.newstomato.com/ReadNews.aspx?no=1307948&inflow=N",
   "https://www.news1.kr/it-science/cc-newmedia/6235865",
@@ -2999,20 +2988,20 @@
   "https://www.etnews.com/20260726000051",
   "https://www.newsis.com/view/NISX20260726_0003723355",
   "https://www.dailian.co.kr/news/view/1670929/?sc=Naver",
-  "https://www.segye.com/newsView/20260726502803?OutUrl=naver"
+  "https://www.segye.com/newsView/20260726502803?OutUrl=naver",
+  "https://www.ajunews.com/view/20260726094706536",
+  "http://www.srtimes.kr/news/articleView.html?idxno=208319",
+  "https://www.mydaily.co.kr/page/view/2026072313513949208",
+  "http://autotimes.co.kr/detail.php?number=688583&thread=27",
+  "https://www.news2day.co.kr/article/20260726500007",
+  "http://www.press9.kr/news/articleView.html?idxno=80033",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607260953434150513",
+  "https://www.inthenews.co.kr/news/article.html?no=89745",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=256278",
+  "https://www.ddaily.co.kr/page/view/2026072602050830158",
+  "https://www.hankyung.com/article/202607266110i"
  ],
  "seen_titles": [
-  "[섬유패션AI전환실태조사_상]AI활용늘었지만조직은없다\"…섬유패...",
-  "네이버‘생활밀착형AI’,식당예약까지원큐에추천만하는챗GPT보다...",
-  "[AI는지금]AI리서치에이전트,대규모정보조사에서한계확인",
-  "독일\"AI검색답변은플랫폼의자체콘텐츠…미디어법적용\"",
-  "[심층분석]AI쇼핑플랫폼이미래커머스의승자된다…왜전세계빅테...",
-  "AI전문기업메인라인,‘AIFuze’출시...AI자동토론기능‘썰’선...",
-  "메인라인,통합AI서비스‘AIFuze’출시...AI토론기능‘썰’탑재",
-  "휴가대신홈캉스…ICT업계,생활밀착형서비스로승부",
-  "기습예언에시장패닉...대화형AI가폭로한리플연쇄청산의소름돋...",
-  "EU,이란판사등6명추가제재…인권탄압책임묻는다",
-  "[에스프레소]영국총리의빨간가방에담긴교훈",
   "오태규'자동임명'...방문진오늘정기이사회개최",
   "SK스토아최대출자자변경승인취하⋯라포랩스“거래구조변경따른...",
   "방미통위,2024년방송평가공개...YTN보도채널1위",
@@ -6001,7 +5990,18 @@
   "정의선회장'피지컬AI'비전선포…현대차,샌프란시스코혁신생태계...",
   "\"돈도불리고월배당도받고싶다면\"…ETF두개로나눠라",
   "정의선,샌프란시스코서키운'피지컬AI'…혁신생태계협력확대",
-  "최태원·노소영뛰어넘는재산분할…권혁빈조단위이혼소송에쏠리는..."
+  "최태원·노소영뛰어넘는재산분할…권혁빈조단위이혼소송에쏠리는...",
+  "HD현대삼호,美항만크레인수주…'MASGA'본격시동",
+  "LG전자,노크온기술결합한'인스타뷰냉장고'글로벌누적500만대판...",
+  "K플랫폼서비스챗GPT정책에흔들?…해외AI모델‘종속’리스크부상",
+  "현대차그룹,샌프란시스코혁신생태계적극앞장서",
+  "李실리콘밸리VC6곳과투자협력…국민연금,'K스타트업마중물'",
+  "현대차그룹,실리콘밸리전략확대…피지컬AI위한혁신생태계구축...",
+  "빅테크심장부파고든현대차그룹…실리콘밸리협력망넓힌다",
+  "SK,글로벌빅테크와7500억달러규모AI인프라구축협력",
+  "하나금융,'하나청년금융인재양성프로젝트'통해54명신규배출",
+  "[DD주간브리핑]'AI투자·반도체성적표'대거베일벗는다…KT과징금...",
+  "SK하이닉스키옥시아최대주주되나...日언론은투자주의[도쿄나우]"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,21 @@
   [
    "2026-07-26T09:58:16.974563+09:00",
    "권혁빈 이혼소송에 조단위 쏠리는 뛰어넘는 재산분할"
+  ],
+  [
+   "2026-07-26T10:01:20.161693+09:00",
+   "베일 투자 대거 성적표 벗는다 반도체 과징금 ~KT"
+  ],
+  [
+   "2026-07-26T10:01:20.161693+09:00",
+   "투자주의 키옥시아 최대주주되나 SK하이닉스 언론은"
+  ],
+  [
+   "2026-07-26T10:01:20.161693+09:00",
+   "실리콘밸리 투자 VC 협력 6곳과 국민연금 마중물 K스타트업"
   ]
  ],
- "last_run": "2026-07-26T09:58:42.165921+09:00",
+ "last_run": "2026-07-26T10:01:43.055558+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
