@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426820",
-  "https://www.newsis.com/view/NISI20260725_0021376702",
-  "https://www.newsis.com/view/NISX20260725_0003722925",
-  "https://www.news1.kr/it-science/general-it/6238751",
-  "https://www.newsis.com/view/NISI20260725_0021376705",
-  "https://www.news1.kr/photos/8024873",
-  "https://www.news1.kr/photos/8024874",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02059846645518128",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426821",
   "https://www.sportsseoul.com/news/read/1624514",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=335994",
@@ -2999,17 +2991,17 @@
   "https://www.mk.co.kr/article/12107714",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=606176",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336009",
-  "https://www.mk.co.kr/article/12107716"
+  "https://www.mk.co.kr/article/12107716",
+  "https://sports.khan.co.kr/article/202607261721003?pt=nv",
+  "https://www.ajunews.com/view/20260726142127918",
+  "http://www.jjn.co.kr/news/articleView.html?idxno=1047532",
+  "https://www.ajunews.com/view/20260726115107734",
+  "https://www.donga.com/news/Economy/article/all/20260726/134366023/1",
+  "https://www.sidae.com/article/2026072617123796539",
+  "https://www.mk.co.kr/article/12107721",
+  "https://www.mk.co.kr/article/12107726"
  ],
  "seen_titles": [
-  "李대통령만난젠슨황\"SK와5000억달러AI파트너십\"",
-  "李대통령,샘알트만·젠슨황·혹탄연쇄면담…'메가프로젝트'협력...",
-  "Lee’sSanFranciscodeclarationcastsKoreaashubforbuilding,using",
-  "라포랩스“거래구조바꿔재신청”…SK스토아매각논의2라운드",
-  "李대통령\"한국,대체불가글로벌AI공급망국가로도약할것\"",
-  "샌프란시스코AI서밋",
-  "이대통령,엔트로픽CEO와회동…반도체·데이터센터협력논의",
-  "대화나누는한미AI기업인들",
   "이재용회장\"美AI기술과韓반도체결합하면더빠르게혁신\"",
   "젠슨황\"현대차와자율주행제네시스공동개발\"…정의선과회동",
   "젠슨황“SK와5000억달러규모파트너십”…AI협력강화",
@@ -6001,13 +5993,17 @@
   "\"투자자유치중단\"…中딥시크전격결정",
   "삼성전자·브로드컴,2030년까지2000억달러규모AI반도체협력추진",
   "\"우리가과반노조\"선언에KBS내부'시끌'",
-  "\"中AI오픈모델막아야\"vs\"허용해야\"…美빅테크진영분열"
+  "\"中AI오픈모델막아야\"vs\"허용해야\"…美빅테크진영분열",
+  "첫6번NC블레인,‘절친’힐리어드와식사약속,적응기돌파구도찾...",
+  "글로벌VC만난李\"다음세대삼성·SK만들자\"",
+  "국민연금-6개벤처캐피털파트너십구축",
+  "더강력해진韓美AI밸류체인…신경망부터휴머노이드까지'윈윈'",
+  "韓,빅테크와9500억달러AI동맹…‘대체불가핵심’부상",
+  "\"가장값진저녁값\"샌프란'깐부회동'쏜배경훈부총리소감은",
+  "메가프로젝트에美빅테크동참…젠슨황\"韓AI황금시대\"",
+  "[매경시평]해킹방어넘어…'디지털안보'시대로"
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T11:22:18.158593+09:00",
-   "새만금 급부상 글로벌 기지로 AI산업"
-  ],
   [
    "2026-07-26T11:26:16.363815+09:00",
    "체험관광 올여름 계림 속으로 명소 천년 경주 플래시백 신라"
@@ -6483,9 +6479,21 @@
   [
    "2026-07-26T17:22:15.326257+09:00",
    "vs 진영 빅테크 분열 막아야 오픈모델 허용해야"
+  ],
+  [
+   "2026-07-26T17:24:14.743106+09:00",
+   "신경망부터 윈윈 휴머노이드까지 강력해진 밸류체인"
+  ],
+  [
+   "2026-07-26T17:24:14.743106+09:00",
+   "빅테크 동참 황금시대 젠슨 메가프로젝트에"
+  ],
+  [
+   "2026-07-26T17:24:14.743106+09:00",
+   "안보 디지털 방어 넘어 시대로"
   ]
  ],
- "last_run": "2026-07-26T17:22:38.966974+09:00",
+ "last_run": "2026-07-26T17:24:43.806836+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
