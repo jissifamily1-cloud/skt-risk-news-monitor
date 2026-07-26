@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2175877",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=256378",
   "https://www.sidae.com/article/2026072510530217824",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541661",
   "https://www.newscj.com/news/articleView.html?idxno=3419785",
@@ -2999,11 +2997,11 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01938486645518456",
   "https://www.segye.com/newsView/20260726508302?OutUrl=naver",
   "https://m.skyedaily.com/news_view.html?ID=308508",
-  "https://zdnet.co.kr/view/?no=20260726190346"
+  "https://zdnet.co.kr/view/?no=20260726190346",
+  "https://www.kukinews.com/article/view/kuk202607240115",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254013&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "건배하는이재명대통령",
-  "발언하는최태원SK그룹회장",
   "[샌프란시스코AI서밋]이재명\"대체불가한AI공급망허브되겠다\"…...",
   "AI서밋발언하는샘올트먼오픈AICEO",
   "AI서밋참석하는이재용·샘올트먼·젠슨황·이해진",
@@ -6001,7 +5999,9 @@
   "삼성·브로드컴,2000억불턴키계약…SK·엔비디아5000억불인프라동...",
   "李“우리는식구”건배사…‘2경원’빅테크수장들과깐부회동[李...",
   "삼성전자,New갤럭시AI구독클럽출시",
-  "KAIST-엔비디아,\"인체동작파운데이션모델개발\""
+  "KAIST-엔비디아,\"인체동작파운데이션모델개발\"",
+  "‘비디디’곽보성이롤드컵결승패배에서배운것[쿠키인터뷰]",
+  "AI와대화10번?생수0.5리터가필요합니다"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-07-26T19:06:19.484439+09:00",
    "인체동작 KAIST 개발 모델 파운데이션"
+  ],
+  [
+   "2026-07-26T19:08:14.713339+09:00",
+   "10번 AI와 생수 필요합니다 대화 5리터가"
   ]
  ],
- "last_run": "2026-07-26T19:06:37.273128+09:00",
+ "last_run": "2026-07-26T19:08:41.246642+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
