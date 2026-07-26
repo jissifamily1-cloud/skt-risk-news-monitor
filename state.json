@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/economy_general/2026/07/25/NSGXOLCWTZCIVAIEGPYEZEPDTY/",
-  "https://www.khan.co.kr/article/202607250917001",
-  "https://www.dt.co.kr/article/12074628",
-  "https://biz.sbs.co.kr/article_hub/20000324601?division=NAVER",
-  "https://www.yna.co.kr/view/AKR20260725019000001?input=1195m",
   "https://www.mt.co.kr/politics/2026/07/25/2026072509104619318",
   "https://www.newsis.com/view/NISX20260725_0003722921",
   "https://www.hankookilbo.com/news/article/A2026072508550001667?did=NA",
@@ -2999,14 +2994,14 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607260073&t=NN",
   "https://www.munhwa.com/article/11605049",
   "https://www.kyeonggi.com/article/20260726580210",
-  "https://www.chosun.com/economy/tech_it/2026/07/26/XNPHFE2QJBGMTFIF3QR7EESKVA/"
+  "https://www.chosun.com/economy/tech_it/2026/07/26/XNPHFE2QJBGMTFIF3QR7EESKVA/",
+  "https://www.hani.co.kr/arti/economy/it/1269987.html",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=362538",
+  "https://www.aitimes.com/news/articleView.html?idxno=213180",
+  "https://www.koreaherald.com/article/10820499",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166600"
  ],
  "seen_titles": [
-  "李,글로벌AI수장들과협력확대…젠슨황,SK와5천억달러협력",
-  "이대통령\"3대메가큰역할기대\"…젠슨황\"한국AI황금시대\"",
-  "李대통령\"3대메가로새로운나라\"…젠슨황등빅테크인사연쇄회동",
-  "현대차정의선,엔비디아본사서젠슨황면담…자율주행등협력논의",
-  "李대통령만난젠슨황\"SK와5000억달러파트너십…지금은韓AI황금...",
   "오픈AI모델이해킹했는데,美AI는분석거부…결국中AI가'뒷수습'",
   "'본인전송요구권'적용범위확대한달앞으로...대리수집시사전협의",
   "빅테크거물만난이대통령\"세계적으로유명한분뵙게돼반갑다\"",
@@ -6001,7 +5996,12 @@
   "최태원9440억넘을까…'8조재산'권혁빈이혼소송주목",
   "‘챗GPT아버지’가말하는AI초과이익배분해법은…“현금지원보다...",
   "이재용,오픈AI본사서올트먼만났다…무슨얘기오갔나",
-  "앤스로픽,싸고빠른AI‘오퍼스5′공개...가성비AI경쟁치열"
+  "앤스로픽,싸고빠른AI‘오퍼스5′공개...가성비AI경쟁치열",
+  "“중국AI도허용해야”…‘오픈소스AI규제’에갈라진실리콘밸리",
+  "독파모2차평가초읽기…승부처는'AI에이전트·현장적용성'",
+  "딥시크,2차투자유치돌연중단...\"IPO준비하며AI연구집중\"",
+  "ConservativelawmakeraccusesLeeofpiggybackingoncorporateaccom",
+  "이재용회장,오픈AI본사서샘올트먼만났다"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,13 @@
   [
    "2026-07-26T15:28:18.906840+09:00",
    "경쟁 치열 싸고 오퍼스5 공개 가성비 빠른"
+  ],
+  [
+   "2026-07-26T15:30:33.406002+09:00",
+   "초읽기 독파모 적용성 평가 현장 AI에이전트 승부처는 2차"
   ]
  ],
- "last_run": "2026-07-26T15:28:41.736469+09:00",
+ "last_run": "2026-07-26T15:30:51.278554+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
