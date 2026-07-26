@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20260725500011",
-  "https://biz.heraldcorp.com/article/10819824",
-  "https://www.newdaily.co.kr/site/data/html/2026/07/25/2026072500007.html",
-  "http://www.segyebiz.com/newsView/20260725502707?OutUrl=naver",
-  "https://www.hani.co.kr/arti/politics/bluehouse/1269908.html",
-  "https://www.khan.co.kr/article/202607250848001",
-  "http://www.lawissue.co.kr/view.php?ud=202607250843493252204ead0791_12",
-  "https://www.slist.kr/news/articleView.html?idxno=754081",
   "https://www.seoulfn.com/news/articleView.html?idxno=634131",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2290178",
   "https://www.bntnews.co.kr/article/view/bnt202607250083",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/PYH20260726057600051?input=1196m",
   "https://www.yna.co.kr/view/PYH20260726056700051?input=1196m",
   "https://www.yna.co.kr/view/PYH20260726056900051?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260726056200051?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260726056200051?input=1196m",
+  "https://biz.heraldcorp.com/article/10820459",
+  "https://www.etoday.co.kr/news/view/2607502",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166404",
+  "https://www.tokenpost.kr/news/breaking/381384",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336005",
+  "https://www.seoultimes.news/news/article.html?no=2000098143",
+  "https://www.mk.co.kr/article/12107594",
+  "http://www.fnnews.com/news/202607241613595892"
  ],
  "seen_titles": [
-  "이대통령,샌프란서오픈AI샘올트먼등회동",
-  "李대통령만난젠슨황\"SK와5천억弗파트너십체결…네이버도대규모...",
-  "[속보]李대통령만난젠슨황“엔비디아-SK,5000억불파트너십발표”",
-  "李대통령\"AI황금시대큰역할기대\"…젠슨황\"SK와5천억달러파트너...",
-  "젠슨황\"한국AI황금시대\"...이대통령\"지금부터시작\"",
-  "[속보]李대통령만난젠슨황\"SK와5000억달러협력\"",
-  "[현장영상]이대통령,샘올트먼오픈AICEO면담",
-  "[김종섭의광고이야기]노출의시대가가고,철학의시대가왔다.",
   "李대통령,美샌프란서앤트로픽CEO만나“韓,아시아AI최적파트너”",
   "李대통령만난젠슨황\"SK·엔비디아파트너십5000억달러규모\"",
   "이대통령\"3대메가큰역할기대\"…젠슨황\"SK와5천억불파트너십\"",
@@ -6001,7 +5993,15 @@
   "이재용삼성전자회장과샘올트먼오픈AICEO",
   "李대통령,美샌프란시스코출국…브라질등남미3국방문",
   "조선통신사행렬재현",
-  "부산앞바다뜬조선통신사선"
+  "부산앞바다뜬조선통신사선",
+  "대만,‘항모킬러’단장함취역…대함·대공미사일탑재",
+  "AI패권의심장부,실리콘밸리…K기업이몰리는이유",
+  "메인라인,AIFuze'스마트플로우'기능제공…\"한줄요청에AI가알아서...",
+  "AFXTrade해커,1만2467ETH를BTC로전환",
+  "이훈기의원\"혐오·조롱유행처럼…일베금지법은최소한의장치\"",
+  "하나금융,청년금융인재올해54명포함총171명배출…AI·금융융합...",
+  "“통신사도움없인은행도힘들어요”…금융권휩쓰는KTAI에이전틱",
+  "[단독]LG전자,스마트팩토리'체급'키웠다…2030년조단위사업'시동..."
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,17 @@
   [
    "2026-07-26T14:24:16.955753+09:00",
    "회장과 이재용 CEO 삼성전자"
+  ],
+  [
+   "2026-07-26T14:26:16.562830+09:00",
+   "~KT 도움없인 은행도 금융권 힘들어요 에이전틱 휩쓰는"
+  ],
+  [
+   "2026-07-26T14:26:16.562830+09:00",
+   "시동 사업 체급 스마트팩토리 키웠다 2030년 LG전자 단위"
   ]
  ],
- "last_run": "2026-07-26T14:24:55.111490+09:00",
+ "last_run": "2026-07-26T14:26:40.250040+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
