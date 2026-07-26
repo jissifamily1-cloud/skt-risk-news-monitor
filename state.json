@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=213161",
-  "https://news.mtn.co.kr/news-detail/2026072509220154846",
-  "https://www.chosun.com/politics/politics_general/2026/07/25/NC3D2OP2F5H6HCVYYI24O7F2H4/",
-  "https://www.tjb.co.kr/news05/bodo/view/id/101473",
-  "https://www.betanews.net/article/view/beta202607240019",
   "https://www.gukjenews.com/news/articleView.html?idxno=3645885",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260725.99099007411",
   "https://www.ddaily.co.kr/page/view/2026072316260159792",
@@ -2999,14 +2994,14 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254312&CMPT_CD=P0010",
   "https://www.dt.co.kr/article/12074790",
   "https://news.ifm.kr/news/articleView.html?idxno=475813",
-  "https://www.hani.co.kr/arti/politics/bluehouse/1269997.html"
+  "https://www.hani.co.kr/arti/politics/bluehouse/1269997.html",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3646518",
+  "http://www.bizwnews.com/news/articleView.html?idxno=141539",
+  "http://www.metroseoul.co.kr/article/20260726500221",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208116",
+  "https://www.livesnews.com/news/article.html?no=62929"
  ],
  "seen_titles": [
-  "하남시의회,11일간임시회마무리…18건안건심의·의결",
-  "중국키미K3돌풍견제…앤트로픽,'반값AI'내놨다",
-  "李대통령,샌프란AI선언...\"韓,글로벌AI공급망핵심국가로\"",
-  "[속보]알트만오픈AICEO\"3대메가프로젝트,AI다음단계도약에도움...",
-  "李대통령,빅테크인사연쇄회동서'AI기반3대메가프로젝트협력'구...",
   "“내가여기선수니까주신거아닐까?”이대통령환영선물로전달된...",
   "[속보]李대통령,샌프란AI선언…\"글로벌AI공급망핵심국가도약\"",
   "젠슨황·정의선,'제네시스'들고찰칵…AI후속논의",
@@ -6001,13 +5996,14 @@
   "키미K3효과,스타트업을육성하면얻게되는'생태계복리'",
   "美의회선‘AI킬스위치법’발의,밖에선‘AI주권’역풍",
   "보증금떼인HUG사회주택청년들…LG전자는'AI기업'변신승부수[머...",
-  "이대통령,젠슨황·혹탄등과‘샌프란시스코깐부회동’"
+  "이대통령,젠슨황·혹탄등과‘샌프란시스코깐부회동’",
+  "논산시지역청소년들의역량강화...미래인재를키운다,'미래인재코딩...",
+  "[캐시워크종합]7월26일일요일오후4시현재출제되고있는문제들의...",
+  "SK하이닉스,HBM공급·AI투자'투트랙'…美공략강화",
+  "이대통령,앤트로픽CEO에\"한국은아시아AI최적파트너\"",
+  "세계최강독보적1위대한민국AI황금시대개막...3대메가프로젝트..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-26T09:58:16.974563+09:00",
-   "권혁빈 이혼소송에 조단위 쏠리는 뛰어넘는 재산분할"
-  ],
   [
    "2026-07-26T10:01:20.161693+09:00",
    "베일 투자 대거 성적표 벗는다 반도체 과징금 ~KT"
@@ -6487,9 +6483,13 @@
   [
    "2026-07-26T15:52:16.648912+09:00",
    "자체 롯데하이마트 요금제 출시 KT망 사용 알뜰폰 ~KT"
+  ],
+  [
+   "2026-07-26T16:00:37.604340+09:00",
+   "1위 프로젝트 황금시대 대한민국 세계 3대 독보적 개막 최강 메가"
   ]
  ],
- "last_run": "2026-07-26T15:58:36.565306+09:00",
+ "last_run": "2026-07-26T16:01:03.542286+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6979,6 +6979,7 @@
   "gocj.net": "대전시티저널",
   "kmecnews.co.kr": "기계설비신문",
   "peoplewatch.co.kr": "피플워치",
-  "tjmbc.co.kr": "대전MBC"
+  "tjmbc.co.kr": "대전MBC",
+  "livesnews.com": "라이브뉴스"
  }
 }
