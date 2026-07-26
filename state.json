@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260725004800001?input=1195m",
-  "https://www.news1.kr/industry/general-industry/6238487",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8619904",
-  "https://www.news1.kr/politics/president/6238650",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426782",
-  "https://www.ytn.co.kr/_ln/0101_202607250225109740",
   "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260725501&PRO_CODE=99",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208115",
   "https://www.joongang.co.kr/article/25448029",
@@ -2999,15 +2993,15 @@
   "https://www.dailian.co.kr/news/view/1670942/?sc=Naver",
   "https://biz.chosun.com/it-science/ict/2026/07/26/SLLMSFGHLJEVVFR4RTJHE7IUPQ/",
   "https://www.aitimes.com/news/articleView.html?idxno=213181",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044509"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044509",
+  "https://www.koreaherald.com/article/10820312",
+  "https://www.newspim.com/news/view/20260726000028",
+  "https://www.news2day.co.kr/article/20260726500011",
+  "https://www.news1.kr/industry/sb-founded/6239151",
+  "https://www.yna.co.kr/view/AKR20260726022300017?input=1195m",
+  "http://www.srtimes.kr/news/articleView.html?idxno=208331"
  ],
  "seen_titles": [
-  "[단독]김어준의'김민석CCTV'공개행위…정부\"위법가능성\"유권해석",
-  "이대통령\"정보유출제재강화,특정기업고려아냐\"",
-  "개인정보유출숨기면과징금30%증액...신고자엔30%포상도",
-  "李대통령\"개인정보과징금,법·방침에따라\"…쿠팡겨냥?",
-  "개인정보유출숨기면과징금30%더때린다…신고자는포상[개보위업...",
-  "개보위,AI개발리스크해소'안심지원체계'구축",
   "개인정보유출신고에포상금신설…과징금으로피해자구제한다",
   "'쿠팡표적아냐'증명하려면티빙때려야…李발언이만든개보위딜레...",
   "“티빙최주희떨고있나”개인정보유출신고포상금제도도입",
@@ -6001,7 +5995,13 @@
   "'갤럭시Z플립8'2년쓰고반납하면50%잔존가보장",
   "개인정보유출조사평균8개월걸려…“사건별우선순위기준마련해...",
   "오픈AI,에이전트외부해킹일주일간몰라...\"탈출지침까지남겨\"",
-  "李대통령\"대체불가능한대한민국만드는것목표\""
+  "李대통령\"대체불가능한대한민국만드는것목표\"",
+  "ThaideputyPMcallsforKorea-linkedbioecosystem,fromuniversitie",
+  "정의선의'피지컬AI'구상…현대차그룹,실리콘밸리전진기지강화",
+  "\"AI훈풍탄채용시장\"…반도체신입47%급증",
+  "\"한국AI에투자더늘린다\"…실리콘밸리톱VC,국민연금과맞손",
+  "SKT,독파모AI모델로스타트업AX지원…\"활용범위확대\"",
+  "KAIST,엔비디아와공동연구소설립…'한국형에이전틱AI'개발가속"
  ],
  "recent_sigs": [
   [
@@ -6385,7 +6385,7 @@
    "지침까지 탈출 몰라 에이전트 외부 일주일간 남겨"
   ]
  ],
- "last_run": "2026-07-26T10:42:38.970917+09:00",
+ "last_run": "2026-07-26T10:44:37.869276+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
