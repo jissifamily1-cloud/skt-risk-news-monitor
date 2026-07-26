@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/president/6238661",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3645849",
-  "https://www.news1.kr/industry/general-industry/6238700",
   "https://www.yna.co.kr/view/AKR20260725004851001?input=1195m",
   "http://www.fnnews.com/news/202607250837476292",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674265&plink=ORI&cooper=NAVER",
@@ -2999,12 +2996,12 @@
   "https://www.etnews.com/20260726000112",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260726.99099007573",
   "https://biz.sbs.co.kr/article_hub/20000324680?division=NAVER",
-  "https://www.tokenpost.kr/news/breaking/381379"
+  "https://www.tokenpost.kr/news/breaking/381379",
+  "https://www.aitimes.com/news/articleView.html?idxno=213128",
+  "https://www.etoday.co.kr/news/view/2607501",
+  "https://www.joongangenews.com/news/articleView.html?idxno=535449"
  ],
  "seen_titles": [
-  "[속보]李대통령만난젠슨황\"엔비디아-SK,5천억불파트너십발표\"",
-  "오픈AI,챗GPT워크·코덱스의에이전틱역량...사회복지현장문제해...",
-  "[속보]젠슨황\"현대차와자율운행제네시스차량함께개발\"",
   "[속보]젠슨황\"'코리아AI'구축협력…대한민국LLM개발계획도\"",
   "이대통령,올트먼만나\"3대메가프로젝트서더큰역할맡아달라\"",
   "李대통령\"AI중심사회에역할해달라\"젠슨황\"대한민국은황금시대\"",
@@ -6001,7 +5998,10 @@
   "이재용·최태원·정의선,美반도체·피지컬AI연쇄회동",
   "한미기업,1390조원초대형AI동맹...공급망협력본격화",
   "최태원9440억원재산분할역대최대…다음은권혁빈'8조'소송",
-  "엔비디아공개서한연서50곳으로확대…구글·오픈AI합류"
+  "엔비디아공개서한연서50곳으로확대…구글·오픈AI합류",
+  "오픈AI해킹파장에백악관주시...미의회'AI킬스위치'법안발의",
+  "李대통령,美실리콘밸리일정마치고브라질로출발",
+  "이재명대통령,미국샌프란시스코일정마치고브라질출국…'남미3개..."
  ],
  "recent_sigs": [
   [
@@ -6421,7 +6421,7 @@
    "공개 구글 50곳으로 서한 연서 합류 확대"
   ]
  ],
- "last_run": "2026-07-26T14:14:37.353275+09:00",
+ "last_run": "2026-07-26T14:16:37.063317+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
