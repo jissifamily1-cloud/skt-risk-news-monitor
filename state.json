@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.veritas-a.com/news/articleView.html?idxno=620676",
-  "http://www.press9.kr/news/articleView.html?idxno=80002",
-  "http://www.4th.kr/news/articleView.html?idxno=2115209",
-  "http://www.newsbrite.net/news/articleView.html?idxno=199424",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686705",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607241154040240393",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=120042",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=114783",
   "http://www.intn.co.kr/news/articleView.html?idxno=2052160",
   "https://www.fetv.co.kr/news/articleView.html?idxno=307085",
   "https://biz.heraldcorp.com/article/10819112",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20260727014751017?input=1195m",
   "https://www.etnews.com/20260727000014",
   "https://www.news1.kr/finance/general-stock/6239545",
-  "http://www.journalist.or.kr/news/article.html?no=61345"
+  "http://www.journalist.or.kr/news/article.html?no=61345",
+  "https://swtvnews.com/news/newsview.php?ncode=1065568743831802",
+  "https://www.dailian.co.kr/news/view/1671042/?sc=Naver",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=710374",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02168086645518784",
+  "https://biz.heraldcorp.com/article/10820829",
+  "https://www.donga.com/news/Economy/article/all/20260727/134369006/1",
+  "https://www.tokenpost.kr/news/tech/381484",
+  "https://www.newspim.com/news/view/20260727000104"
  ],
  "seen_titles": [
-  "[통신브리핑]SK텔레콤·KT·LG유플러스",
-  "[통신View]AIDC·개발혁신·고객소통…3사3색경쟁력강화",
-  "[산업브리핑]LIGD&A·한화비전·LGU+·LG전자,미래기술선점부터해외...",
-  "네오사피엔스,코스닥상장증권신고서제출",
-  "SKT·LG유플러스·KT,AI인프라부터SNS·폴더블체험까지'고객접점'...",
-  "네오사피엔스,증권신고서제출…하반기코스닥상장추진",
-  "숭실대서리빈교수논문Wiley우수논문2관왕..'디지털전환저항연...",
-  "KB자산운용,'RISE200고배당커버드콜ATM'1개월수익률1위",
   "[산업소식]삼표산업,'블루콘스피드'녹색기술인증획득",
   "LG유플러스,소셜아이어워드에서4관왕달성",
   "SKT'5G과장광고'168억원과징금취소…법원\"액수잘못산정\"",
@@ -6001,7 +5993,15 @@
   "네이버,14.7조원AI인프라확보…엔비디아와AI팩토리구축(종합)",
   "네이버,엔비디아에지분4.5%판다…AI인프라사업본격확대",
   "엔비디아품는네이버20%대급등…AI서밋호재에SK하닉4%↑",
-  "결격논란뚫고자동임명된방문진이사…국힘이이랬다면?"
+  "결격논란뚫고자동임명된방문진이사…국힘이이랬다면?",
+  "‘그대에게드림’황인엽X이혜리,빗속첫키스이후쌍방구원본격화...",
+  "삼성‘갤럭시Z8’28일부터사전판매…168만원부터",
+  "미국파고드는'지능적이고싸며개방적인중국AI'",
+  "키움운용,AI핵심반도체'CPU'투자ETF28일상장",
+  "SK,빅테크와7500억달러반도체협력…최태원“엔비디아와세계최고...",
+  "엔비디아,네이버에10억달러유증…“글로벌AI팩토리구축추진”",
+  "네이버-엔비디아,AI팩토리로글로벌컴퓨팅시장선점나선다",
+  "[특징주]네이버,프리마켓서20%급등…엔비디아AI팩토리협력호재"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-07-27T08:38:17.710920+09:00",
    "결격 이사 방문진 자동임명된 이랬다면 뚫고 논란 국힘이"
+  ],
+  [
+   "2026-07-27T08:40:25.576875+09:00",
+   "SK 7500억달러 빅테크와 협력 세계 최고 반도체 엔비디아와"
   ]
  ],
- "last_run": "2026-07-27T08:38:38.451105+09:00",
+ "last_run": "2026-07-27T08:40:46.641542+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
