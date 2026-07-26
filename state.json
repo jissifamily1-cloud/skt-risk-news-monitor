@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112846416",
-  "https://www.seoultimes.news/news/article.html?no=2000098121",
-  "https://www.tokenpost.kr/news/cryptocurrency/381269",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208212",
   "https://www.pointe.co.kr/news/articleView.html?idxno=82250",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008674148&plink=ORI&cooper=NAVER",
@@ -2999,12 +2996,12 @@
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=224006",
   "https://www.newswhoplus.com/news/articleView.html?idxno=65390",
   "https://view.asiae.co.kr/article/2026072412001426531",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426904"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426904",
+  "https://slownews.kr/163778",
+  "https://www.greened.kr/news/articleView.html?idxno=345940",
+  "http://www.queen.co.kr/news/articleView.html?idxno=460799"
  ],
  "seen_titles": [
-  "靑\"삼전-닉스,5년간글로벌빅테크와9천500억弗반도체협력\"",
-  "“삼전닉스안산사람이승자”금요일바닥인줄알았더니…월요일폭...",
-  "\"지금한국은AI황금기\"…젠슨황,SK·네이버와AI인프라함께키운다",
   "미국서도이어진'AI깐부'…5년간9500억달러AI협력",
   "이재용·올트먼,오픈AI본사서회동…협력논의",
   "최태원\"한국을AI테스트베드로…'1인1AI에이전트'시대준비해야\"",
@@ -6001,7 +5998,10 @@
   "【오늘의법조】2026년7월27일",
   "9년끈'세기의이혼'끝낸최태원…SK지배력지키며9440억마련할까",
   "\"엔비디아만돈버냐?우리도번다\"…1조5천억잭팟터진삼성전기의...",
-  "[윤영숙의시선]헬리콥터를꿈꾼소년,다음세대에건넨AI의꿈"
+  "[윤영숙의시선]헬리콥터를꿈꾼소년,다음세대에건넨AI의꿈",
+  "“한국없으면불가능하다”는젠슨황에게“우리는식구다”:슬로우...",
+  "최태원재산분할뛰어넘는권혁빈이혼소송9월선고'관심'...이재용·...",
+  "삼성·SK하이닉스실적부터FOMC까지…이번주(27일~8월1일)주요일정"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-07-27T07:34:16.690262+09:00",
    "세대에 헬리콥터를 다음 AI의 건넨 꿈꾼 소년"
+  ],
+  [
+   "2026-07-27T07:38:16.083457+09:00",
+   "삼성 27일 8월1일 FOMC까지 일정 주요 이번주 실적부터 SK하이닉스"
   ]
  ],
- "last_run": "2026-07-27T07:36:30.389023+09:00",
+ "last_run": "2026-07-27T07:38:41.730023+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6725,6 +6729,7 @@
   "peoplewatch.co.kr": "피플워치",
   "tjmbc.co.kr": "대전MBC",
   "livesnews.com": "라이브뉴스",
-  "gnmaeil.com": "경남매일"
+  "gnmaeil.com": "경남매일",
+  "queen.co.kr": "Queen 이코노미퀸"
  }
 }
