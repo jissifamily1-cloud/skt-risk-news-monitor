@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260716000560",
-  "https://www.viva100.com/article/20260716500360",
-  "https://www.mt.co.kr/politics/2026/07/16/2026071610480554800",
-  "https://www.newsis.com/view/NISX20260716_0003711892",
   "https://www.news1.kr/photos/8011641",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684577",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8612414",
@@ -2999,13 +2995,13 @@
   "https://www.busan.com/view/busan/view.php?code=2026072610285926061",
   "http://www.4th.kr/news/articleView.html?idxno=2115269",
   "https://www.mt.co.kr/tech/2026/07/26/2026072609542355347",
-  "https://www.khan.co.kr/article/202607261032011"
+  "https://www.khan.co.kr/article/202607261032011",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3646379",
+  "https://www.gpkorea.com/news/articleView.html?idxno=145069",
+  "https://www.viva100.com/article/20260726500248",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360834"
  ],
  "seen_titles": [
-  "[오늘의주요일정·22일]오세훈'명태균여론조사의혹'사건1심선고",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(7월22일수요일)",
-  "[기자수첩]'혁신'평가받은삼쩜삼...어쩌다'불신'의아이콘이됐나",
-  "[더벨]'5G과장광고2심패소'KT,개보위과징금까지'재무압박'",
   "[오늘의주요일정]과기정통부·방미통위·개보위(7월21일화요일)",
   "개보위,'개인정보이노베이션존'운영기관모집",
   "\"가명정보제3자재사용허용\"개보위,'개인정보이노베이션존'신규...",
@@ -6001,7 +5997,11 @@
   "삼성전자,‘뉴갤럭시AI구독클럽’선봬",
   "SKT,독자AI모델스타트업에개방…산업별서비스발굴",
   "SKT,스타트업에자체AI모델지원…서비스개발돕는다",
-  "KAIST,엔비디아와손잡고‘AI테크놀로지센터’설립나선다"
+  "KAIST,엔비디아와손잡고‘AI테크놀로지센터’설립나선다",
+  "대전교육청,고3학생·학부모대상2027대입수시지원전략설명회개...",
+  "\"플립82년뒤50%보장\"…삼성전자,1020겨냥구독승부수",
+  "충남도,202조원첨단산업투자지원본격화‘전담TF가동’",
+  "SK그룹최태원\"국민1인당AI하나씩…韓이AI테스트베드\""
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-07-26T10:34:17.791085+09:00",
    "모델 개발 스타트업에 서비스 자체 ~SKT 돕는다 지원"
+  ],
+  [
+   "2026-07-26T10:36:16.565484+09:00",
+   "국민 1인당 하나씩 SK그룹 테스트베드"
   ]
  ],
- "last_run": "2026-07-26T10:34:39.568124+09:00",
+ "last_run": "2026-07-26T10:36:37.789271+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
