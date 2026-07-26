@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8024860",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4426819",
-  "http://www.fnnews.com/news/202607251010305547",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308195&inflow=N",
-  "https://www.newsis.com/view/NISX20260725_0003723007",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005886941",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4426820",
   "https://www.newsis.com/view/NISI20260725_0021376702",
   "https://www.newsis.com/view/NISX20260725_0003722925",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12107710",
   "https://www.joongang.co.kr/article/25448230",
   "https://www.khan.co.kr/article/202607261717001",
-  "http://www.fnnews.com/news/202607241512059167"
+  "http://www.fnnews.com/news/202607241512059167",
+  "https://www.news1.kr/world/usa-canada/6239330",
+  "https://www.mk.co.kr/article/12107720",
+  "https://www.mk.co.kr/article/12107714",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=606176",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336009",
+  "https://www.mk.co.kr/article/12107716"
  ],
  "seen_titles": [
-  "이재용·정의선·이해진,엔비디아본사방문…젠슨황과면담",
-  "이재용·정의선·이해진,엔비디아본사서젠슨황면담",
-  "이재명대통령'샌프란시스코AI선언'발표(전문)",
-  "이재용·정의선·이해진,미국엔비디아본사서젠슨황만났다",
-  "[전문]李대통령'샌프란AI선언'…\"대체불가핵심국가로도약할것\"",
-  "최태원\"AI수요폭발적증가…3대메가프로젝트도부족할수있다\"",
   "李대통령만난젠슨황\"SK와5000억달러AI파트너십\"",
   "李대통령,샘알트만·젠슨황·혹탄연쇄면담…'메가프로젝트'협력...",
   "Lee’sSanFranciscodeclarationcastsKoreaashubforbuilding,using",
@@ -6001,7 +5995,13 @@
   "롯데하이마트,알뜰폰요금제…전국매장서직원이개통지원",
   "AI잡으려는빅테크“칩더달라”아우성에…‘K반도체’와맞손",
   "이대통령,빅테크CEO와샌프란‘깐부회동’…브라질로이동",
-  "윤인수교수\"AI가해킹하는시대,프론티어모델개발하며빅테크협업..."
+  "윤인수교수\"AI가해킹하는시대,프론티어모델개발하며빅테크협업...",
+  "\"AI,고등학생도따라하기쉬운생화학무기제조법알려줘\"",
+  "시총1.7경원'AI깐부회동'李\"우리는식구다\"건배사",
+  "\"투자자유치중단\"…中딥시크전격결정",
+  "삼성전자·브로드컴,2030년까지2000억달러규모AI반도체협력추진",
+  "\"우리가과반노조\"선언에KBS내부'시끌'",
+  "\"中AI오픈모델막아야\"vs\"허용해야\"…美빅테크진영분열"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,13 @@
   [
    "2026-07-26T17:20:26.503628+09:00",
    "K반도체 맞손 잡으려는 빅테크 달라 아우성에"
+  ],
+  [
+   "2026-07-26T17:22:15.326257+09:00",
+   "vs 진영 빅테크 분열 막아야 오픈모델 허용해야"
   ]
  ],
- "last_run": "2026-07-26T17:20:44.076139+09:00",
+ "last_run": "2026-07-26T17:22:38.966974+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
