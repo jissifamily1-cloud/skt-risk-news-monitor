@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607250825593860",
-  "https://www.wikitree.co.kr/articles/1148395",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000541653",
-  "https://zdnet.co.kr/view/?no=20260725084504",
-  "https://www.slist.kr/news/articleView.html?idxno=754083",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01941766645518128",
   "https://view.asiae.co.kr/article/2026072507530435048",
   "https://www.pressian.com/pages/articles/2026072508524994736",
   "https://www.dt.co.kr/article/12074626",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01718726645518456",
   "https://zdnet.co.kr/view/?no=20260726013356",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213314",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142054"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142054",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607250219&t=NN",
+  "https://www.pressian.com/pages/articles/2026072614373404534",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3646494",
+  "https://www.koreaherald.com/article/10820470",
+  "https://www.m-economynews.com/news/article.html?no=69098",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443155"
  ],
  "seen_titles": [
-  "개보위,틱톡·애플개인정보처리위반제재…과징금105억여원부과",
-  "李대통령만난젠슨황“SK와5000억달러파트너십”",
-  "이재용삼성전자회장과젠슨황엔비디아CEO회동",
-  "젠슨황“SK와5000억달러파트너십”…삼성·현대차·네이버와도협력",
-  "[속보]젠슨황,李대통령과회동\"엔비디아·SK그룹,5000억달러파트...",
-  "필리핀에한국식농업행정디지털플랫폼구축완료",
   "李,글로벌빅테크만나“3대메가”…젠슨황“韓AI황금시대”",
   "젠슨황\"SK와5000억달러협력\"",
   "이해진의장등네이버경영진과젠슨황엔비디아CEO회동",
@@ -6001,7 +5995,13 @@
   "\"폴더블과게임IP의역대급만남\"…게이머팬심사로잡는다",
   "\"AI는도구\"vs\"프로젝트품질위협\"...오픈소스진영,AI코딩둘러싼...",
   "삼성전자,혜택강화된'New갤럭시AI구독클럽'선보여",
-  "[이번주증시]국내외기업실적에주목...FOMC도관건"
+  "[이번주증시]국내외기업실적에주목...FOMC도관건",
+  "오를땐찬밥이더니…\"계좌다녹았어요\"개미들'피난처'급부상",
+  "李대통령주재만찬서韓부총리\"밥값제가\"…젠슨황\"코리아소리치\"",
+  "최현덕남양주시장,\"폭염속시민안전최우선\"…야외활동자제및쉼터...",
+  "LeetoutsS.Korea'sgrowthpotentialinSiliconValley",
+  "이재용·샘올트먼,샌프란시스코서회동...AI반도체·인프라협력논의",
+  "정부만14세미만가입제한·추천알고리즘제한등청소년SNS규제구..."
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-07-26T14:38:19.892155+09:00",
    "국내외 FOMC도 관건 기업 주목 실적에"
+  ],
+  [
+   "2026-07-26T14:40:26.766073+09:00",
+   "정부 가입 규제 알고리즘 제한 만14세 SNS 청소년 추천 미만"
   ]
  ],
- "last_run": "2026-07-26T14:38:37.776633+09:00",
+ "last_run": "2026-07-26T14:40:50.734032+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
