@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=873076",
-  "https://www.sedaily.com/article/20071709",
-  "https://www.newspim.com/news/view/20260724001200",
-  "https://www.kbsm.net/news/view.php?idx=527891",
-  "https://biz.sbs.co.kr/article_hub/20000324594?division=NAVER",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=223998",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=223968",
   "https://www.donga.com/news/Society/article/all/20260724/134362382/2",
@@ -2999,14 +2994,14 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3646381",
   "https://www.dt.co.kr/article/12074722",
   "https://www.busan.com/view/busan/view.php?code=2026072610495600935",
-  "https://biz.heraldcorp.com/article/10820325"
+  "https://biz.heraldcorp.com/article/10820325",
+  "https://www.ekn.kr/web/view.php?key=20260726027436168",
+  "https://www.etoday.co.kr/news/view/2607453",
+  "https://www.segye.com/newsView/20260726503601?OutUrl=naver",
+  "https://www.mk.co.kr/article/12107530",
+  "https://www.namdonews.com/news/articleView.html?idxno=917981"
  ],
  "seen_titles": [
-  "업무보고이틀째,발언하는이재명대통령",
-  "최태원·노소영판결나오자SKT5%급등이유",
-  "신한은행,여름휴가철맞아'SOL트래블·SOL트립체크카드이벤트'시행...",
-  "‘세기의이혼’끝났지만…최태원,9440억현금마련은이제부터",
-  "AI데이터센터독립법인출범…SK텔레콤가치재평가기대",
   "이대통령,앤트로픽CEO에\"한국인공지능투자대대적확대\"",
   "美앤트로픽CEO만난李대통령\"인공지능투자대대적확대\"",
   "李대통령,앤트로픽CEO에\"韓인공지능투자대대적확대\"",
@@ -6001,7 +5996,12 @@
   "대전시의회,전통시장찾아민생현장점검…상인애로사항청취",
   "‘샌프AI서밋’에AI리더한자리에…“韓,글로벌AI허브도약”",
   "현대차그룹,샌프란시스코혁신생태계와협력강화",
-  "실리콘밸리큰손들,한국스타트업에투자확대…국민연금과MOU"
+  "실리콘밸리큰손들,한국스타트업에투자확대…국민연금과MOU",
+  "李대통령“AI시대핵심광물·공급망협력…남미와가치창출관계구...",
+  "李\"AI시대대체불가대한민국\"...한-글로벌빅테크'9500억달러'협력",
+  "이해진“100억달러유치한네이버,새로운단계로도약”[리더의나침...",
+  "“인간움직임학습해로봇움직인다”…KAIST-엔비디아,‘피지컬AI’...",
+  "AI가스스로해킹했다…통제벗어난'자율공격'현실화"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-07-26T10:56:19.087031+09:00",
    "샌프란시스코 협약 성사 기업 달러 9천500억 한국 6건 AI서밋"
+  ],
+  [
+   "2026-07-26T11:00:38.353283+09:00",
+   "해킹했다 벗어난 통제 현실화 스스로 자율 공격 AI가"
   ]
  ],
- "last_run": "2026-07-26T10:58:35.449036+09:00",
+ "last_run": "2026-07-26T11:00:59.227380+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
