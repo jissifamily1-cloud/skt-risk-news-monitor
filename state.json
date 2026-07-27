@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=213180",
-  "https://www.koreaherald.com/article/10820499",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166600",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1277825",
-  "https://www.news1.kr/it-science/general-it/6239268",
-  "https://www.techm.kr/news/articleView.html?idxno=153649",
   "https://kpenews.com/View.aspx?No=4162368",
   "http://www.metroseoul.co.kr/article/20260726500206",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044644",
@@ -2999,15 +2993,15 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848436",
   "https://www.joongang.co.kr/article/25448426",
   "https://www.mt.co.kr/tech/2026/07/27/2026072708584462944",
-  "https://biz.chosun.com/it-science/ict/2026/07/27/TYP4BDODFNH6FDX2XVZTP2RVXA/"
+  "https://biz.chosun.com/it-science/ict/2026/07/27/TYP4BDODFNH6FDX2XVZTP2RVXA/",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852040",
+  "https://www.sportsseoul.com/news/read/1624844",
+  "https://www.newspim.com/news/view/20260727000728",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427031",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03093046645518784",
+  "https://www.yna.co.kr/view/AKR20260723125800530?input=1195m"
  ],
  "seen_titles": [
-  "美빅테크50곳,개방형AI규제반대…“AI리더십은열린생태계에달려...",
-  "SKT,스타트업에자체AI모델제공",
-  "SKT,AI인프라구축전담'SK하이퍼'설립…데이터센터사업속도",
-  "실리콘밸리VC만난이대통령\"'다음세대삼성'함께만들어야\"",
-  "최태원9440억넘을까…'8조재산'권혁빈이혼소송주목",
-  "‘챗GPT아버지’가말하는AI초과이익배분해법은…“현금지원보다...",
   "이재용,오픈AI본사서올트먼만났다…무슨얘기오갔나",
   "앤스로픽,싸고빠른AI‘오퍼스5′공개...가성비AI경쟁치열",
   "“중국AI도허용해야”…‘오픈소스AI규제’에갈라진실리콘밸리",
@@ -6001,29 +5995,15 @@
   "[#시큐리티포커스]파고네트웍스'시큐리티서밋'개최·에버스핀'보안...",
   "李,7·7법시행에“허위·조작정보로여론왜곡땐단호한대응”",
   "과기정통부,AMD와AI인프라동맹…엔비디아편중줄인다",
-  "오픈AI도몰랐던AI‘멋대로해킹’…“일주일지나뒤늦게인지”"
+  "오픈AI도몰랐던AI‘멋대로해킹’…“일주일지나뒤늦게인지”",
+  "피지컬AI수면위로...'AI글래스'각축전",
+  "화성시,제1회AI정부실험실서‘신규공직자지식창고’우수상수상",
+  "[기고]'샌프란시스코AI선언'을환영하며,새만금을글로벌AI허브로",
+  "반도체수도권생산3년새80.7%→82.3%…한은'제조업지도'개정판",
+  "밖으로는대만,안으로는수도권…AI가바꾼반도체지도",
+  "[게시판]개보위,미래포럼개최…개인정보자기결정권논의"
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T06:04:17.108819+09:00",
-   "한줄뉴스 7월27일자 메트로신문"
-  ],
-  [
-   "2026-07-27T06:04:17.108819+09:00",
-   "매각협상 마침표 SK실트론 7개월만에 찍나 변수 초호황 반도체"
-  ],
-  [
-   "2026-07-27T06:04:17.108819+09:00",
-   "투심의 두산 ~KT 매력 최민석이 말한 소형준"
-  ],
-  [
-   "2026-07-27T06:04:17.108819+09:00",
-   "4년 109억원 망가타 평가손실 ~KT 투자 SAT 만에 위성업체"
-  ],
-  [
-   "2026-07-27T06:06:16.284763+09:00",
-   "위기 세우다 ~SKT 딛고 신뢰를 다시 기업으로"
-  ],
   [
    "2026-07-27T06:10:25.768198+09:00",
    "이혼소송 권혁빈 스마일게이트 8조 넘어선"
@@ -6881,7 +6861,7 @@
    "오픈AI도 몰랐던 뒤늦게 일주일 멋대로 인지 지나"
   ]
  ],
- "last_run": "2026-07-27T12:04:37.474228+09:00",
+ "last_run": "2026-07-27T12:06:33.958150+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
