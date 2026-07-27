@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8021999",
-  "https://www.news1.kr/photos/8021997",
-  "https://www.cnbizm.com/news/articleView.html?idxno=309311",
-  "https://www.ngetnews.com/news/articleView.html?idxno=551845",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3647044",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044716",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097150",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240604",
   "https://www.mt.co.kr/finance/2026/07/27/2026072710505913597",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267925",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=360859",
@@ -2999,17 +2991,17 @@
   "https://www.g-enews.com/view.php?ud=2026072807492013729a1f309431_1",
   "https://biz.sbs.co.kr/article_hub/20000324974?division=NAVER",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2451835",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02689606645519112"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02689606645519112",
+  "https://www.ngonews.kr/news/articleView.html?idxno=233928",
+  "https://www.slist.kr/news/articleView.html?idxno=754623",
+  "http://www.inews24.com/view/1988107",
+  "http://www.inews24.com/view/1988091",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02702726645519112",
+  "https://www.joongang.co.kr/article/25448688",
+  "https://www.slist.kr/news/articleView.html?idxno=754622",
+  "https://newscham.net/articles/117000"
  ],
  "seen_titles": [
-  "이통사CEO,배경훈부총리와AI·통신현안논의",
-  "이통사CEO간담회참석하는배경훈부총리",
-  "이통사CEO만난배경훈부총리",
-  "이통사CEO와의간담회참석하는배경훈부총리",
-  "배경훈부총리만난이통사CEO",
-  "이통3사,AI안경'레이밴메타'출시…AI디바이스경쟁본격화",
-  "삼성전자,갤럭시Z폴드8·플립8사전판매…AI구독혜택강화",
-  "충남대병원,모자의료진료협력시범사업충남권역대표기관선정",
   "삼성전자,28일부터'갤럭시Z8'시리즈사전판매",
   "자매결연50주년부산-시모노세키,한.일청소년우정쌓기",
   "삼성전자,폴더블8사전판매…반납보상·분실보장까지묶었다",
@@ -6001,7 +5993,15 @@
   "AI투자폭주에빅테크채권시장신용위험급등",
   "[애프터마켓리뷰]\"최대악력300㎏\"…케이엔알시스템,'로봇손'개발",
   "단통법폐지1년,'효과어디로'···고가요금제유도더거세졌다",
-  "\"미-이란갈등완화에도반도체시장불안지속코스피약세출발\""
+  "\"미-이란갈등완화에도반도체시장불안지속코스피약세출발\"",
+  "LGU+,갤럭시Z폴드8울트라·폴드8·플립8사전예약시작",
+  "'그대에게드림'황인엽,이혜리15년전사고진실에충격",
+  "[일문일답]정부\"3G종료,이용자보호최우선⋯통신비물가부담완화...",
+  "배경훈부총리\"이통3사,AI기업으로나아가야\"...이통3사CEO와회동",
+  "‘키미K3’가촉발한모방논쟁…美제재움직임에中맞대응시사",
+  "美,중국산AI모델제재검토…그사이에낀한국기업셈법복잡",
+  "이재용·최태원,美샌프란이어伊시칠리아로…구글캠프참석",
+  "발인을미룬아버지,멈추지않는공장"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,17 @@
   [
    "2026-07-28T07:52:16.322670+09:00",
    "암홀딩스 실적기대 저가 상승 홀로 쇼크속"
+  ],
+  [
+   "2026-07-28T07:58:15.736318+09:00",
+   "구글캠프 참석 시칠리아로 이어 샌프란 이재용"
+  ],
+  [
+   "2026-07-28T07:58:15.736318+09:00",
+   "미룬 않는 발인을 아버지 공장 멈추지"
   ]
  ],
- "last_run": "2026-07-28T07:56:36.355728+09:00",
+ "last_run": "2026-07-28T07:58:39.629265+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
