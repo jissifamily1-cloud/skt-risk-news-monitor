@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000324701?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000324695?division=NAVER",
-  "https://www.mt.co.kr/politics/2026/07/27/2026072619545832972",
-  "https://www.mt.co.kr/industry/2026/07/27/2026072619435660938",
-  "https://www.g-enews.com/view.php?ud=202607261613097204fbbec65dfb_1",
-  "https://www.kmib.co.kr/article/view.asp?arcid=1785054949&code=11151200&cp=nv",
-  "https://www.chosun.com/politics/politics_general/2026/07/27/IE6OHWTQNFA2HKPMWABCS4KW2Y/",
-  "https://www.chosun.com/economy/tech_it/2026/07/27/B2ZTF65WVJCRRGA2IN3UL2LOUM/",
   "https://www.joongang.co.kr/article/25448312",
   "https://www.newspim.com/news/view/20260727000002",
   "https://www.fntimes.com/html/view.php?ud=202607242152314370dd55077bc2_18",
@@ -2999,17 +2991,17 @@
   "https://www.wikitree.co.kr/articles/1148724",
   "https://economist.co.kr/article/view/ecn202607270036",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687265",
-  "https://www.news2day.co.kr/article/20260727500109"
+  "https://www.news2day.co.kr/article/20260727500109",
+  "https://sports.khan.co.kr/article/202607271659003?pt=nv",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3647538",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254571&CMPT_CD=P0010",
+  "https://www.joongang.co.kr/article/25448517",
+  "https://www.joongangenews.com/news/articleView.html?idxno=535535",
+  "https://www.ddaily.co.kr/page/view/2026072715062834473",
+  "https://it.donga.com/109264/",
+  "https://www.chosun.com/special/2026/07/27/XJT7L5E6JVAT7PYRBY54WC4BFI/"
  ],
  "seen_titles": [
-  "[韓·美빅테크1375조빅딜]반도체다음은AI팩토리·로봇…생태계구...",
-  "반도체협력만1375조‘빅딜’…韓‘3대AI메가프로젝트’글로벌확...",
-  "[사설]청년추락끝이없는데,반도체낙관론만펼쳐서되겠나",
-  "[사설]글로벌AI허브전략,지역과함께가야지속가능하다",
-  "K반도체‘1400조원글로벌AI동맹’뜬다",
-  "‘AI핵심공급망’도약나선한국…전력망확충·정책지원관건",
-  "“키미쇼크?삼전닉스더띄울것”AI기업임원이주목한7곳",
-  "美빅테크에K반도체장기공급계약…“피크아웃우려완화기대”",
   "[글로벌비즈브리핑]'삼전닉스'도전…창신메모리,오늘中증시데뷔...",
   "中딥시크,투자유치돌연중단…\"창업자발언유출불만\"\"",
   "\"대체불가韓\"…'9500억弗'판커지는깐부동맹",
@@ -6001,7 +5993,15 @@
   "위믹스,오너키탈취로522만개무단발행…브리지·유동성풀전면중단",
   "\"엔비디아인증\"LG전자일냈다…젠슨황이찜한'이기술'",
   "[데일리픽]샘알트먼\"AI특이점은이미시작\"…이더리움주목할이유",
-  "[2026비자발적고립청년일경험캠프(15)]진로찾는비자발적고립청년..."
+  "[2026비자발적고립청년일경험캠프(15)]진로찾는비자발적고립청년...",
+  "다시시작하는LCK…29일부터후반기스타트!",
+  "SNS보고모인폭주족19명검거…대전도심10분간도로점거",
+  "70대에시작한AI공부,기본개념을익히다",
+  "미·중AI전쟁에…한국반도체수출,중국줄고대만은2배로",
+  "SK텔레콤,AI활용노하우공모전연다…'모두의프롬프트'개최",
+  "[DD퇴근길]엔비디아1.5조원투자…네이버주가날았다",
+  "배경훈부총리,엔비디아독점견제로AMD와협업제안···'AMD에국산...",
+  "기술추월보다확산속도로앞선다...中이노리는‘AI판짜기’"
  ],
  "recent_sigs": [
   [
@@ -6835,9 +6835,17 @@
   [
    "2026-07-27T17:00:36.581994+09:00",
    "시작 이미 이유 이더리움 특이점은 주목할"
+  ],
+  [
+   "2026-07-27T17:02:18.852707+09:00",
+   "확산 노리는 추월보다 기술 판짜기 앞선다 속도로"
+  ],
+  [
+   "2026-07-27T17:02:18.852707+09:00",
+   "독점 배경훈 견제로 AMD에 국산 AMD와 부총리 협업 제안"
   ]
  ],
- "last_run": "2026-07-27T17:01:01.932529+09:00",
+ "last_run": "2026-07-27T17:02:39.513220+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
