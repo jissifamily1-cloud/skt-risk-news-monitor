@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://cn.asiatoday.co.kr/view.php?key=20260724001350537",
-  "https://en.yna.co.kr/view/AEN20260724003251315?input=2106m",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41138",
-  "https://www.econotimes.com/Trump-Administration-Monitors-OpenAI-Incident-as-Lawmakers-Push-AI-Kill-Switch-Bill-1747621",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685501",
-  "https://www.aitimes.com/news/articleView.html?idxno=212931",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685023",
-  "https://news.mtn.co.kr/news-detail/2026071816023939923",
-  "https://www.aitimes.com/news/articleView.html?idxno=212898",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684922",
   "http://www.ifs.or.kr/bbs/board.php?bo_table=News&wr_id=55920",
   "https://www.aitimes.com/news/articleView.html?idxno=212790",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684225",
@@ -2999,19 +2989,19 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=634242",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607271604387970705",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04008166645518784",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598566718863"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598566718863",
+  "https://www.aitimes.com/news/articleView.html?idxno=213222",
+  "https://www.nocutnews.co.kr/news/6553952",
+  "http://www.jeonmin.co.kr/news/articleView.html?idxno=444050",
+  "https://www.ddaily.co.kr/page/view/2026072716263836278",
+  "https://biz.heraldcorp.com/article/10821810",
+  "https://www.joongangenews.com/news/articleView.html?idxno=535725",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260727164204Epc",
+  "https://www.the-today.com/news/articleView.html?idxno=87902",
+  "https://www.thepowernews.co.kr/view.php?ud=202607271641032266de3f0aa1be_7",
+  "https://www.mk.co.kr/article/12108526"
  ],
  "seen_titles": [
-  "Trump’sRenewedTradeWarRisksDealingaFreshEconomicBlow",
-  "PresidentLeeheadstoU.S.tomeet\"bigfour\"AICEOs",
-  "美백악관“중국문샷AI,태국서엔비디아첨단칩접근”",
-  "오픈AI,데스크톱앱에'GPT보이스'도입…맥화면도읽는다",
-  "[특허법인YNP]생성형AI데이터학습과저작권침해분쟁",
-  "SamsungsuppliesHBM4asAMD’sHeliosentersproduction",
-  "(2ndLD)LeeembarksontriptoSanFrancisco,3S.Americancountries",
-  "Samsung,HyundaichiefsjoinglobalAIadvisoryboard",
-  "李在明总统启程展开美国、南美7晚11天访问",
-  "(LEAD)LeeembarksontriptoSanFrancisco,3S.Americancountries",
   "오픈AI,챗GPT워크·코덱스의에이전틱역량...사회복지현장문제해...",
   "TrumpAdministrationMonitorsOpenAIIncidentasLawmakersPushAIKi",
   "오픈AI,비상장주식거래서다시인기몰이…GPT-5.6·코덱스효과에투...",
@@ -6001,7 +5991,17 @@
   "코스피,창신메모리상장에'출렁'···개인·기관매수6750선반등마...",
   "비트멕스에이어비트마트도폐쇄…글로벌가상자산거래소'도미노셧...",
   "[마켓인]“SK하이퍼설립비통신투자확대예의주시”",
-  "KT알파쇼핑,'보양&별미특집전'개최…삼계탕·민물장어부터여름면..."
+  "KT알파쇼핑,'보양&별미특집전'개최…삼계탕·민물장어부터여름면...",
+  "업스테이지'솔라오픈2',허깅페이스트렌드3위·'주목할만한모델'...",
+  "'창립50주년'현대위아,테크위크(TechWeek)개최",
+  "국민연금,실리콘밸리'450조탑티어VC'6곳과손잡았다",
+  "한·미기업AI동맹에코스피반등…6750선회복,하이닉스3.2%↑",
+  "코스피6755.75반등마감…AI기대속CXMT변수에상승폭제한[투자36...",
+  "韓반도체,글로벌메모리점유율61%…대만수출2위급부상",
+  "코스피등락끝6,700선방어…코스닥2%↑",
+  "브라질서국정현안챙긴李대통령…\"가짜뉴스엄단·중수청공직기강...",
+  "AI서버열잡는다…LG전자,엔비디아냉각인증국내첫획득",
+  "300억대작‘문무’,해킹피해…배우연락처·대본유출"
  ],
  "recent_sigs": [
   [
@@ -6859,9 +6859,13 @@
   [
    "2026-07-27T16:42:17.381324+09:00",
    "별미 여름 ~KT KT알파 삼계탕 쇼핑 특집전 개최 민물장어부터 보양"
+  ],
+  [
+   "2026-07-27T16:44:16.509158+09:00",
+   "3위 업스테이지 만한 트렌드 모델 주목할 허깅페이스 솔라 오픈"
   ]
  ],
- "last_run": "2026-07-27T16:42:46.393556+09:00",
+ "last_run": "2026-07-27T16:44:38.306628+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
