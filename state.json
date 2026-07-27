@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=634186",
-  "https://view.asiae.co.kr/article/2026072709404743909",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02847046645518784",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=417622",
-  "https://www.ngetnews.com/news/articleView.html?idxno=551849",
-  "https://www.joongang.co.kr/article/25448406",
   "https://www.cnbizm.com/news/articleView.html?idxno=309682",
   "https://www.yna.co.kr/view/AKR20260727064800075?input=1195m",
   "https://www.ekn.kr/web/view.php?key=20260727021528333",
@@ -2999,15 +2993,15 @@
   "https://kpenews.com/View.aspx?No=4164359",
   "https://www.bloter.net/news/articleView.html?idxno=669084",
   "https://www.dailian.co.kr/news/view/1671521/?sc=Naver",
-  "https://www.banronbodo.com/news/articleView.html?idxno=32666"
+  "https://www.banronbodo.com/news/articleView.html?idxno=32666",
+  "http://www.segyebiz.com/newsView/20260728500297?OutUrl=naver",
+  "https://www.newspim.com/news/view/20260728000041",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=280395",
+  "https://www.newspim.com/news/view/20260727000629",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607241106217680102333",
+  "https://www.betanews.net/article/view/beta202607270037"
  ],
  "seen_titles": [
-  "에버스핀,인니BRI다나렉사증권에보안솔루션공급",
-  "美클래리티법,北라자루스자금줄끊는다…사전동결권한신설",
-  "SK텔레콤,나만의AI프롬프트공유하는'모두의프롬프트'공모전",
-  "SKT,고객과AI프롬프트공모···상품1000만원시상",
-  "칩요청쇄도한다는삼성·SK…빅테크와5년계약에'피크아웃우려'사...",
-  "갤럭시Z플립·폴드8사전예약과장광고주의…방미통위,소비자주의요...",
   "SK텔레콤,AI활용사례공모전개최",
   "7개월끈SK실트론매각…이사회서향방가를까",
   "네이버지분산이유?…젠슨황“1년뒤10배!”꽂힌K기업",
@@ -6001,7 +5995,13 @@
   "갤럭시Z8온다..LG유플러스,사전예약개시",
   "[하이닉스렌즈로본SK]①SK실트론매각지연…쏠리는눈",
   "LG유플러스,갤럭시Z폴드8울트라·폴드8·플립8사전예약",
-  "[미디어포커스上]\"통신사가미디어를버렸다\"...컴캐스트,NBC유니버..."
+  "[미디어포커스上]\"통신사가미디어를버렸다\"...컴캐스트,NBC유니버...",
+  "[모빌리티NOW]자율주행보다먼저온‘원격운전기사’",
+  "[AIMY증시전망]中반도체발쇼크…코스피'숨고르기'",
+  "애플,엔비디아제치고15개월만에시총1위복귀",
+  "[AI투자의늪]③빅테크'제번스의역설'수익성압박돌파구있나",
+  "[더벨][엔키화이트햇IPO]거래소예심킥오프…시가총액1500억겨냥",
+  "최태원SK회장의'AI풀스택'승부수...신년사구상,반년만에실행으..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,21 @@
   [
    "2026-07-28T08:02:15.207111+09:00",
    "미디어를 통신사가 컴캐스트 NBC유니버 버렸다"
+  ],
+  [
+   "2026-07-28T08:04:19.576566+09:00",
+   "킥오프 예심 거래소 겨냥 시가총액 1500억"
+  ],
+  [
+   "2026-07-28T08:04:19.576566+09:00",
+   "만에 반년 풀스택 회장의 구상 실행으 신년사 SK 승부수"
+  ],
+  [
+   "2026-07-28T08:04:19.576566+09:00",
+   "제번스의 돌파구 역설 수익성 있나 빅테크 압박"
   ]
  ],
- "last_run": "2026-07-28T08:02:43.946594+09:00",
+ "last_run": "2026-07-28T08:04:43.818408+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
