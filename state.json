@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026072317513180532",
-  "https://news.bizwatch.co.kr/article/market/2026/07/24/0020",
-  "https://www.khan.co.kr/article/202607260800001",
-  "https://www.mt.co.kr/tech/2026/07/26/2026072407493262587",
-  "https://economist.co.kr/article/view/ecn202607230012",
-  "https://www.chosun.com/economy/tech_it/2026/07/26/U53MTGDJU5ANDBCDRZARN5EPBM/",
-  "https://www.newsis.com/view/NISX20260725_0003723114",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620223",
-  "https://www.bloter.net/news/articleView.html?idxno=668829",
-  "https://www.sidae.com/article/2026072410020488061",
-  "https://www.dailian.co.kr/news/view/1670807/?sc=Naver",
   "http://www.inews24.com/view/1988753",
   "https://www.kukinews.com/article/view/kuk202607260002",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01144726645518456",
@@ -2999,20 +2988,20 @@
   "http://coinreaders.com/249639",
   "https://www.imaeil.com/page/view/2026072709483603392",
   "https://www.inthenews.co.kr/news/article.html?no=89766",
-  "https://www.news1.kr/it-science/security-hacking/6239625"
+  "https://www.news1.kr/it-science/security-hacking/6239625",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114640",
+  "https://news.bizwatch.co.kr/article/market/2026/07/27/0004",
+  "https://www.gosiweek.com/article/1065574218199321",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1171455",
+  "https://www.g-enews.com/view.php?ud=202607270933514640fbbec65dfb_1",
+  "https://www.techm.kr/news/articleView.html?idxno=153709",
+  "https://www.khan.co.kr/article/202607270955018",
+  "http://www.lawissue.co.kr/view.php?ud=202607270952226920204ead0791_12",
+  "http://www.iminju.net/news/articleView.html?idxno=167124",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251606",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471732"
  ],
  "seen_titles": [
-  "국내피지컬AI'오픈생태계'구축…정의선\"대한민국,산업주도중심...",
-  "박지원\"1375조AI성과속서민민생우선…여야진흙탕싸움멈춰야\"",
-  "김제시고향사랑기부제,교통비·AI돌봄등지역사업확대",
-  "[K-사절단新실크로드④]이재용·최태원·정의선,'K-AI분업'가동…국...",
-  "[와이파이]7월4주,'동남아알뜰로밍'여름휴가…KT외2가지통신혜택",
-  "[데스크칼럼]재계의새문법…4700조에'산업의근거'붙인최태원",
-  "[비즈앤피플]AI품은무선통신망…꿈의‘통신고속도로’열린다",
-  "[공모주달력]한국계美바이오텍인제니아,일반청약",
-  "[영상]연료다쓰면무조건버려지던위성…‘70년낭비’바꿀기술떴...",
-  "메타와근본부터다른삼성AI글래스…\"도수넣고,피팅도하세요\"",
-  "1000조美·450조中…5300억韓독파모가살길은",
   "삼성은왜‘안경’을만들었나…스마트글라스뒤에숨은‘로봇시장...",
   "\"엄지·검지톡톡하면통화연결\"…삼성스마트안경'손짓치트키'",
   "삼성과하이닉스는계속웃을수있을까",
@@ -6001,7 +5990,18 @@
   "엔비디아(NVDA),매출85%급증...213달러저항선탈환모드돌입할까?",
   "NAVER,엔비디아지분투자·자사주소각에10%급등",
   "네이버,엔비디아·브룩필드로부터100억달러투자확보…AI인프라패권...",
-  "SK쉴더스화이트해커,국제해킹방어대회'코드게이트'준우승"
+  "SK쉴더스화이트해커,국제해킹방어대회'코드게이트'준우승",
+  "[금융권이모저모]신한투자증권,블록체인기업디지털에셋투자外",
+  "'AI서밋'으로빅테크협력구체화...네이버·삼성SDS수혜",
+  "아텐츠게임아카데미부산본점학원장개발게임,2026도쿄게임쇼전시작...",
+  "네이버주가,급등세...목표주가는?",
+  "HBM4가격급등에서버원가비중29%육박",
+  "또다시해커표적된위믹스...위믹스달러522만개비정상발행",
+  "플레이31,친환경CSR콘텐츠기반기업ESG캠페인협업확대",
+  "KT알파쇼핑,여름보양식·간편식중심특집전운영",
+  "李대통령,미국서AI·반도체중심경제외교…브라질일정시작",
+  "LG전자액체냉각솔루션,국내최초엔비디아인증획득",
+  "엔비디아가네이버3대주주된이유…검색아닌'AI인프라'가치봤다"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,13 @@
   [
    "2026-07-27T09:54:17.778595+09:00",
    "돌입할까 매출 탈환 급증 NVDA 저항선 213달러 모드"
+  ],
+  [
+   "2026-07-27T09:56:18.369666+09:00",
+   "경제 반도체 중심 미국서 일정 대통령 시작 브라질 외교"
   ]
  ],
- "last_run": "2026-07-27T09:54:44.653008+09:00",
+ "last_run": "2026-07-27T09:56:36.076292+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
