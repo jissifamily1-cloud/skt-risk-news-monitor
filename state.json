@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026072317170292197",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=335980",
-  "https://www.ddaily.co.kr/page/view/2026072316260159792",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5207655",
-  "https://www.viva100.com/article/20260723500168",
-  "https://www.ytn.co.kr/_ln/0102_202607231001319078",
-  "https://news.jtbc.co.kr/article/NB12309760?influxDiv=NAVER",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4096515",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686193",
-  "https://www.banronbodo.com/news/articleView.html?idxno=32688",
   "https://www.dailian.co.kr/news/view/1669317/?sc=Naver",
   "https://www.ddaily.co.kr/page/view/2026072216473548437",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=61861",
@@ -2999,19 +2989,19 @@
   "https://www.mk.co.kr/article/12108719",
   "https://www.joongangenews.com/news/articleView.html?idxno=535776",
   "https://www.yna.co.kr/view/AKR20260727146900011?input=1195m",
-  "https://www.bloter.net/news/articleView.html?idxno=669099"
+  "https://www.bloter.net/news/articleView.html?idxno=669099",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190203",
+  "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html?partner=naver",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260727180258QAx",
+  "https://www.hankyung.com/article/2026072789931",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009923",
+  "https://www.sedaily.com/article/20072432",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308397&inflow=N",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=441897",
+  "https://www.sentv.co.kr/article/view/sentv202607270093",
+  "https://www.hankyung.com/article/2026072789921"
  ],
  "seen_titles": [
-  "[IT소식톺아보기-7월4주차]엔크포지랜섬웨어,랭플로우취약점으...",
-  "비트마트9년만에거래소폐쇄선언,BMX토큰하루만에58%급락",
-  "윤,내란항소심중휴대폰으로‘체포방해징역7년’대법선고보더...",
-  "국힘,선관위'투표율조작'정황에\"특검신속출범시켜조사해야\"",
-  "민언련\"결격사유외면한오태규자동임명,민주당·방미통위책임지고...",
-  "[단독]구글·애플인앱결제,8월시정조치의결",
-  "방문진이사장호선보류,MBC차기사장9월중순선임전망",
-  "OTT장애인방송,다큐·교양으로도넓어진다...정부지원논의물꼬",
-  "국민의힘과방위배치완료...이진숙전방통위원장도합류",
-  "YTN사태,유진그룹에게더시간을줄수는없다",
   "국힘과방위배치완료…한준호·최형두간사체제,이진숙합류",
   "오태규'자동임명'...방문진오늘정기이사회개최",
   "SK스토아최대출자자변경승인취하⋯라포랩스“거래구조변경따른...",
@@ -6001,13 +5991,19 @@
   "'엔비디아+코리아'…GPU넘어의료·게임·인재까지협력",
   "주형철경기도신임경제부지사취임…\"반도체초격차·AI전환역량집...",
   "[연합뉴스이시각헤드라인]-18:00",
-  "[네이버·엔비디아빅딜해부]④'위험분담'빼고GPU·주주로"
+  "[네이버·엔비디아빅딜해부]④'위험분담'빼고GPU·주주로",
+  "[증권NOW]한국투자증권·미래에셋증권·하나증권·교보증권·다올투자...",
+  "HowMetaGotEverythingItWantedinaSecretLouisianaDataCenterDeal",
+  "코스피,널뛰기끝6,700선사수…코스닥상승",
+  "1조자사주도소각…겹호재에뛴네이버",
+  "상장날개단CXMT…삼전닉스주도D램시장에'도전장'",
+  "개인정보잇단유출에도…사이버보험가입‘찔끔’",
+  "KT개인정보유출제재29일결론…과징금규모촉각",
+  "주형철,민선9기초대경기도경제부지사취임",
+  "한미‘1400조AI동맹’…삼성·SK,피크아웃우려씻는다",
+  "엔비디아,오픈AI에2500억달러보증추진"
  ],
  "recent_sigs": [
-  [
-   "2026-07-27T12:04:16.184093+09:00",
-   "오픈AI도 몰랐던 뒤늦게 일주일 멋대로 인지 지나"
-  ],
   [
    "2026-07-27T12:08:16.138640+09:00",
    "필요 대통령 완화의 찾아야 기본사회 양극화 공론화"
@@ -6877,7 +6873,7 @@
    "넘어 GPU 게임 코리아 의료 협력 인재까지"
   ]
  ],
- "last_run": "2026-07-27T18:02:50.380824+09:00",
+ "last_run": "2026-07-27T18:04:40.906480+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
