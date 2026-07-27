@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687149",
-  "https://cn.asiatoday.co.kr/view.php?key=20260727000950102",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=787223",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=132457",
-  "https://www.imaeil.com/page/view/2026072710194235219",
-  "https://www.cnbizm.com/news/articleView.html?idxno=309673",
   "https://www.ddaily.co.kr/page/view/2026072710433373866",
   "https://www.ytn.co.kr/_ln/0102_202607271043053567",
   "https://www.newsis.com/view/NISX20260727_0003724368",
@@ -2999,15 +2993,15 @@
   "https://biz.sbs.co.kr/article_hub/20000324965?division=NAVER",
   "https://www.aitimes.com/news/articleView.html?idxno=213232",
   "https://www.sidae.com/article/2026072806004348379",
-  "https://www.g-enews.com/view.php?ud=202607280654005338fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202607280654005338fbbec65dfb_1",
+  "https://www.wikitree.co.kr/articles/1148786",
+  "https://www.hankyung.com/article/2026072893216",
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58210",
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58211",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427135",
+  "http://coinreaders.com/249840"
  ],
  "seen_titles": [
-  "[공시Pick]네이버,자사주소각·엔비디아지분투자소식에9%대급등",
-  "계룡시,공직기강특별감찰실시...제보위반행위도확인계획",
-  "노타,업스테이지'솔라오픈2'GPU8장→2장으로줄였다",
-  "中AI반도체주,암호화폐거래소서먼저거래된다…해외자금몰리는...",
-  "李在明发布《旧金山AI宣言》韩国迈向全球AI领导者的国家宣言",
-  "[산업계동향]삼성전자ㆍLG전자ㆍ현대그룹ㆍHJ중공업(7.27)",
   "LGCNS,글로벌AI신소재연합합류…에이전틱AI로소재개발혁신",
   "[여의도단신]미래에셋증권·DB증권·키움투자자산운용",
   "삼성전자,'New갤럭시AI구독클럽'출시…1020맞춤혜택강화",
@@ -6001,7 +5995,13 @@
   "[증시전략]엔비디아,오픈AI에지급보증…'순환금융'논란부상",
   "[7월27일]\"무슨말하지?\"…보고서쓰던챗봇,이제는'대화'를돕기시...",
   "[뉴욕증시]이란협상·AI불안감에혼조세…다우0.5%↑·나스닥0.2%↓",
-  "엔비디아,7500억달러순환금융논란…AI거품론재점화"
+  "엔비디아,7500억달러순환금융논란…AI거품론재점화",
+  "엠퍼리,비트코인팔아AI데이터센터에2천만달러투자",
+  "유가급락에도반도체주'와르르'…나스닥약세[뉴욕증시브리핑]",
+  "황당하고섬뜩한이야기,실리콘밸리교주의‘영생론’",
+  "트럼프·올트먼·샌더스의,‘초과이익’배분논쟁",
+  "[뉴욕증시-1보]예전만못한엔비디아투심…혼조마감",
+  "엔비디아5%급락충격…코인시장까지덮친기술주공포"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,21 @@
   [
    "2026-07-28T07:10:30.421958+09:00",
    "보증 논란 오픈AI에 순환금융 지급 부상"
+  ],
+  [
+   "2026-07-28T07:14:21.909607+09:00",
+   "섬뜩한 이야기 황당하고 영생론 실리콘밸리 교주의"
+  ],
+  [
+   "2026-07-28T07:14:21.909607+09:00",
+   "트럼프 초과이익 샌더스의 배분 논쟁"
+  ],
+  [
+   "2026-07-28T07:14:21.909607+09:00",
+   "코인시장까지 충격 공포 기술주 덮친 급락"
   ]
  ],
- "last_run": "2026-07-28T07:12:44.825186+09:00",
+ "last_run": "2026-07-28T07:14:51.878549+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
