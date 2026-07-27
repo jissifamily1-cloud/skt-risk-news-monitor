@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112846894",
-  "http://www.osen.co.kr/article/G1112846895",
-  "http://www.osen.co.kr/article/G1112846893",
-  "http://www.osen.co.kr/article/G1112846886",
-  "http://www.osen.co.kr/article/G1112846891",
-  "http://www.osen.co.kr/article/G1112846887",
-  "http://www.osen.co.kr/article/G1112846900",
-  "http://www.osen.co.kr/article/G1112846892",
-  "http://www.osen.co.kr/article/G1112846888",
-  "http://www.osen.co.kr/article/G1112846889",
-  "http://www.osen.co.kr/article/G1112846890",
   "http://www.osen.co.kr/article/G1112846899",
   "http://www.osen.co.kr/article/G1112846896",
   "http://www.osen.co.kr/article/G1112846897",
@@ -2999,20 +2988,20 @@
   "https://www.tokenpost.kr/news/cryptocurrency/381606",
   "https://www.sidae.com/article/2026072714161445868",
   "https://www.g-enews.com/view.php?ud=202607271440501198153ddfb15a_1",
-  "http://www.segyebiz.com/newsView/20260727510688?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20260727510688?OutUrl=naver",
+  "https://www.inven.co.kr/webzine/news/?news=318876",
+  "https://zdnet.co.kr/view/?no=20260727143525",
+  "https://www.cstimes.com/news/articleView.html?idxno=714710",
+  "https://www.ceoscoredaily.com/page/view/2026072714383227532",
+  "http://www.knnews.co.kr/news/articleView.php?idxno=1547306",
+  "http://www.inews24.com/view/1989076",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254013&CMPT_CD=P0010",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1389749",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661268",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16146823",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030167880&code=61162012&cp=nv"
  ],
  "seen_titles": [
-  "[사진]나승민,타격감올라왔어",
-  "[사진]힐리어드,아쉬운펜스플레이",
-  "[사진]손성빈,만루찬스는놓치지않아",
-  "[사진]노진혁,짜릿한2타점세리머니",
-  "[사진]노진혁,짜릿한손맛",
-  "[사진]노진혁,기분좋은2타점세리머니",
-  "[사진]비슬리,잘던지고있어",
-  "[사진]노진혁,2타점2루타작렬",
-  "[사진]사우어,강력한패스트볼",
-  "[사진]윤동희,짜릿한타격손맛",
-  "[사진]비슬리,다이내믹피칭",
   "[사진]비슬리,완벽한투구",
   "[사진]비슬리,아쉬운볼판정",
   "[사진]윤동희,되살아난타격감",
@@ -6001,7 +5990,18 @@
   "북한전직군해커체포…암호화폐세탁구조다시드러나",
   "최태원'9440억원'세기의재산분할,현금마련은어떻게",
   "'배당주'꼬리표떼나…SKT하반기주도주노린다",
-  "[MONEY]외국인도적금들고배달주문…금융권,‘외국인생활금융’넓..."
+  "[MONEY]외국인도적금들고배달주문…금융권,‘외국인생활금융’넓...",
+  "[기획]‘클로드’를썼다고AI게임인건아니다",
+  "티맥스소프트,AI품은개발프레임워크'프로오브젝트22'공개",
+  "현대위아,창립50주년'테크위크'개최…차세대미래기술총망라",
+  "AMD,국내AI연구센터설립…국산NPU글로벌공급망진입지원",
+  "현대위아,창립50주년맞아‘테크위크’개최…미래기술공개",
+  "AI가바꾼반도체지도…韓반도체수출도중국서대만으로이동",
+  "AI와대화10번?생수0.5리터가필요합니다",
+  "SKT,'아시아AI인프라허브'목표잰걸음…AIDC역량확보",
+  "SK실트론,매각협상31일분수령?",
+  "드라마'문무',홍보사해킹피해→배우·제작진개인정보유출",
+  "트베하쉬를아십니까?"
  ],
  "recent_sigs": [
   [
@@ -6819,9 +6819,13 @@
   [
    "2026-07-27T14:50:28.786242+09:00",
    "외국인도 들고 주문 적금 생활금융 배달 금융권 외국인"
+  ],
+  [
+   "2026-07-27T14:52:18.126846+09:00",
+   "트베하쉬를 아십니까"
   ]
  ],
- "last_run": "2026-07-27T14:50:48.889172+09:00",
+ "last_run": "2026-07-27T14:52:36.568311+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
