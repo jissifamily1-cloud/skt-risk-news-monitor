@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/sports/baseball/6239419",
-  "http://www.maniareport.com/view.php?ud=202607262105141489dad9f33a29_19",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852501",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717073",
-  "https://www.mt.co.kr/tech/2026/07/21/2026072019103599939",
-  "https://www.mk.co.kr/article/12102382",
-  "https://www.mt.co.kr/tech/2026/07/20/2026072011521194699",
-  "https://www.mt.co.kr/tech/2026/07/20/2026072011273618409",
   "https://www.mt.co.kr/tech/2026/07/20/2026070618303376342",
   "https://www.todayeconomic.com/news/article.html?no=31344",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01177526645516160",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/photos/8027652",
   "https://www.kwnews.co.kr/article/20260727501045",
   "https://www.mediapen.com/news/view/1112479",
-  "https://www.newsis.com/view/NISX20260727_0003724615"
+  "https://www.newsis.com/view/NISX20260727_0003724615",
+  "https://www.newspim.com/news/view/20260727001138",
+  "https://zdnet.co.kr/view/?no=20260727153321",
+  "https://www.kgnews.co.kr/news/article.html?no=905259",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03876966645518784",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876176",
+  "https://www.sedaily.com/article/20072382",
+  "https://www.newsis.com/view/NISX20260727_0003725075",
+  "http://coinreaders.com/249697"
  ],
  "seen_titles": [
-  "'한화의도깨비행보?'1이닝9실점수모,10득점대폭발로설욕…LG에...",
-  "'8회10득점폭발'한화,LG14-4완파...한지윤3점포에노시환홈런까...",
-  "특타효과증명됐나…고승민·레이예스홈런포'선발타자전원안타'롯...",
-  "곽빈\"내가에이스\"...삼성전6이닝무실점",
-  "한화,홈런3방으로8회에만10득점…두산곽빈다승공동선두(종합)",
-  "[프로야구]전적종합(26일)",
-  "[KBO오늘의경기결과]7월26일(일)",
-  "다잡은경기볼넷볼넷볼넷볼넷,3연속밀어내기허망한무승부…NC‘...",
   "'8회10점'한화,LG완파…키움김윤하,KIA상대로18연패탈출(종합)",
   "'선발전원안타'롯데,kt15-1대파하고연승신기록저지",
   "'곽빈113구'프로야구두산,삼성에7-0완승",
@@ -6001,7 +5993,15 @@
   "'네이버주가상승'",
   "李대통령“허위정보단호히대응…중수청준비,선공후사중요”",
   "네이버,엔비디아투자유치…AI인프라사업본격화",
-  "AI반도체,'장기공급계약시대'…\"메모리부터부품까지물량확보전\""
+  "AI반도체,'장기공급계약시대'…\"메모리부터부품까지물량확보전\"",
+  "李대통령\"한-메르코수르협상기반상당…타결에도움될것\"",
+  "AI외교첫발뗀정부...투자·생태계구축실행력에관심",
+  "인천환경공단,전국공공기관최초'AI활용보고문서사전검증'",
+  "딥시크량원펑\"모델가격낮춘이유?AGI앞당기기위해\"",
+  "삼성전자,등락거듭하다1.8%상승마감…하닉은3.2%↑",
+  "기업공시[7월27일]",
+  "\"우리는식구\"이재용·최태원,美샌프란이어伊구글캠프까지'AI동행...",
+  "엔비디아(NVDA),오픈AI에2,500억달러보증...마이클버리는'공매도'"
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,21 @@
   [
    "2026-07-27T16:12:17.491787+09:00",
    "메모리부터 반도체 확보전 장기공급계약 물량 시대 부품까지"
+  ],
+  [
+   "2026-07-27T16:14:17.003807+09:00",
+   "투자 정부 외교 실행력에 구축 생태계 관심 첫발"
+  ],
+  [
+   "2026-07-27T16:14:17.003807+09:00",
+   "버리는 500억 NVDA 달러 공매도 보증 오픈AI에 마이클"
+  ],
+  [
+   "2026-07-27T16:14:17.003807+09:00",
+   "모델 가격 량원펑 이유 AGI 앞당기기 딥시크 낮춘"
   ]
  ],
- "last_run": "2026-07-27T16:12:38.583071+09:00",
+ "last_run": "2026-07-27T16:14:47.398420+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
