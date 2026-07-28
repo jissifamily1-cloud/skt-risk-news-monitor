@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260728000165",
-  "https://www.etnews.com/20260728000167",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=62100",
-  "https://www.goodkyung.com/news/articleView.html?idxno=289628",
-  "http://www.osen.co.kr/article/G1112847620",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265040",
   "https://www.sentv.co.kr/article/view/sentv202607280071",
   "https://www.mk.co.kr/article/12109198",
@@ -2999,14 +2994,14 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472376",
   "https://www.tfmedia.co.kr/news/article.html?no=206070",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208832",
-  "https://www.etnews.com/20260729000008"
+  "https://www.etnews.com/20260729000008",
+  "https://www.slist.kr/news/articleView.html?idxno=754898",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=132431",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607290749168160895",
+  "https://www.ytn.co.kr/_ln/0102_202607290748182410",
+  "https://biz.heraldcorp.com/article/10822633"
  ],
  "seen_titles": [
-  "AMD손잡은망고부스트,AI추론플랫폼상용화...시리즈B펀딩본격화",
-  "라온시큐어,화이트해커23명'데프콘CTF2026'본선진출",
-  "웍스피어,ISO/IEC국제인증2종획득…정보보안·개인정보보호체계입...",
-  "K-UAM,제주서첫상용화검증…'하늘택시'인력도키운다",
-  "[로드뷰]'투자금주고칩팔기'…엔비디아의7500억달러메가딜과'순...",
   "통신3사,'갤럭시Z8시리즈'사전예약…다양한혜택구성",
   "'루피대신쵸파가마운드에!'KT,한화전'원피스브랜드데이'개최",
   "아모레퍼시픽,AI연구플랫폼에메디컬투자까지…뷰티R&D판키운다",
@@ -6001,7 +5996,12 @@
   "양자컴퓨터출격하면통장0원…비트코인·이더리움싹털릴초대형재...",
   "[이슈체크]SK하이닉스오늘2Q실적발표...상반기합산영업익100조넘...",
   "[투데이라인업]KT개인정보유출제재심의/김건희항소심시작/윤...",
-  "생성형AI시대브랜드경쟁력도'AI가답하는시대'…에이아이빅스랩,..."
+  "생성형AI시대브랜드경쟁력도'AI가답하는시대'…에이아이빅스랩,...",
+  "'그대에게드림'황인엽,이혜리위해거리두기…첫사랑로맨스제동",
+  "AI는성장하는데현금은줄었다…빅테크1080조원투자의딜레마",
+  "[속보]SK하이닉스2분기매출79조·영업익60조…상반기매출첫100조...",
+  "[긴급진단]이승우센터장\"반도체대폭락?'이숫자'뜨면바닥\"",
+  "[사설]中AI메모리굴기속도전,韓초격차골든타임사수해야"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,13 @@
   [
    "2026-07-29T07:58:16.893156+09:00",
    "에이아이빅스랩 AI가 생성형 답하는 시대 경쟁력도 브랜드"
+  ],
+  [
+   "2026-07-29T08:00:37.127956+09:00",
+   "대폭락 숫자 이승우 뜨면 반도체 바닥 센터장"
   ]
  ],
- "last_run": "2026-07-29T07:58:35.061814+09:00",
+ "last_run": "2026-07-29T08:01:01.094927+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
