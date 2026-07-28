@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12310411?influxDiv=NAVER",
-  "https://www.sedaily.com/article/20072450",
-  "https://economist.co.kr/article/view/ecn202607270045",
-  "https://www.khan.co.kr/article/202607271748001",
-  "https://www.hankyung.com/article/2026072788611",
-  "https://www.hankyung.com/article/2026072789731",
-  "http://www.srtimes.kr/news/articleView.html?idxno=208423",
   "https://www.sisaweek.com/news/articleView.html?idxno=236920",
   "https://www.sedaily.com/article/20072451",
   "https://www.delighti.co.kr/news/articleView.html?idxno=119466",
@@ -2999,16 +2992,16 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045282",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404823",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848580",
-  "https://www.aitimes.com/news/articleView.html?idxno=213245"
+  "https://www.aitimes.com/news/articleView.html?idxno=213245",
+  "https://www.mk.co.kr/article/12108649",
+  "http://www.legaltimes.co.kr/news/articleView.html?idxno=95246",
+  "http://www.fnnews.com/news/202607281332179236",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200357",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200362",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=592523",
+  "https://www.mk.co.kr/article/12109333"
  ],
  "seen_titles": [
-  "LGCNS,엔비디아·메타참여한글로벌AI신소재연합참여",
-  "롯데,kt9연승에마침표…대승으로4연패탈출",
-  "SK텔레콤,총상금1천만원규모'모두의프롬프트'공모전…8월10일까지...",
-  "이재용·최태원,美이어이탈리아동행…구글캠프참석",
-  "네이버,22년만에유증…엔비디아가3대주주된다",
-  "ktwiz,9연승에서멈췄지만선두추격은멈추지않는다",
-  "KBS이사회열린다…신임KBS사장선임절차밟을까",
   "“산은내안에있다”…韓추상미술의정수",
   "AI가바꾼국내외제조업지도…한은\"대만뜨고국내선수도권집중심...",
   "‘반도체생산’수도권비중82%···‘호남클러스터’가반도체지도...",
@@ -6001,7 +5994,14 @@
   "이통3사,갤Z8출시맞춰가입자경쟁…OTT·호텔·쇼핑혜택승부",
   "카카오,'카나나-2'경량AI모델4종공개…온디바이스AI경쟁력강화",
   "'검은화요일'코스피10%급락6000선위태…코스닥서킷브레이커발동",
-  "MS,보안특화'MAI-사이버-1-플래시'공개...\"앤트로픽·오픈AI능가\""
+  "MS,보안특화'MAI-사이버-1-플래시'공개...\"앤트로픽·오픈AI능가\"",
+  "SK실트론매각,이번엔결론날까",
+  "[社告]LegalTimes2026년8월호(Vol.206)가나왔습니다!",
+  "BC카드,금융권최초AI플랫폼오픈소스공개",
+  "[더밸류브리핑]오늘의KB금융그룹소식...KB손해보험·KB국민카드",
+  "[더밸류브리핑]오늘의하나금융소식...하나증권·하나자산운용",
+  "의료AI27개종목주가동반급락…엔젠바이오-21%,셀바스AI는나홀로...",
+  "삼성첫‘여권형’폴더블폰나온다…통신3사,사전예약혜택경쟁돌..."
  ],
  "recent_sigs": [
   [
@@ -6717,7 +6717,7 @@
    "양자컴 파트너십 AT 디웨이브퀀텀 기업 T와"
   ]
  ],
- "last_run": "2026-07-28T13:34:36.217472+09:00",
+ "last_run": "2026-07-28T13:36:36.290205+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
