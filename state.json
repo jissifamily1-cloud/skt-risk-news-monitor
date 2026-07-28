@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/381675",
-  "https://www.ekn.kr/web/view.php?key=20260727023336584",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166692",
-  "https://www.newstnt.com/news/articleView.html?idxno=711794",
-  "https://kidd.co.kr/news/246843",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270283&t=NN",
-  "https://biz.sbs.co.kr/article_hub/20000324914?division=NAVER",
-  "https://www.dailian.co.kr/news/view/1671463/?sc=Naver",
   "https://www.newsen.com/news_view.php?uid=202607271639020310",
   "http://www.beyondpost.co.kr/view.php?ud=2026072718181074834c878f8fa1_30",
   "https://biz.sbs.co.kr/article_hub/20000324915?division=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.ajunews.com/view/20260728134543043",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678482&plink=ORI&cooper=NAVER",
   "https://news.jtbc.co.kr/article/NB12310517?influxDiv=NAVER",
-  "https://www.segye.com/newsView/20260728509958?OutUrl=naver"
+  "https://www.segye.com/newsView/20260728509958?OutUrl=naver",
+  "https://www.the-today.com/news/articleView.html?idxno=87928",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=306751",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045339",
+  "https://www.newspim.com/news/view/20260728000413",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3648603",
+  "https://news.unn.net/news/articleView.html?idxno=595293",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422713",
+  "https://www.viva100.com/article/20260728500817"
  ],
  "seen_titles": [
-  "SK·엔비디아,\"AI인프라구축공식화,5천억달러의향서체결\"",
-  "가상화폐‘위믹스’또해킹…77억원대스테이블코인유출",
-  "통신3사,AI데이터센터에미래건다…정부지원업고투자속도",
-  "삼성전자,28일부터8세대갤럭시Z시리즈·워치사전판매",
-  "투자방식변화에…오픈API뛰어든KB증권",
-  "에버스핀,BRI다나렉사증권에보안솔루션공급",
-  "엔비디아,공개안전인공지능연합설립",
-  "한국IT직업전문학교사이버보안학과,2027학년도신입생조기모집",
   "'상폐쇼크'1년만에해킹…위메이드,위믹스달러77억어치털려",
   "[코스피]조일알미늄·대한제당·하금융등42개사,28일자사주매입",
   "‘칩’에서‘랙’으로판커진AI인프라…AMD,통합솔루션으로생태...",
@@ -6001,7 +5993,15 @@
   "AI투자경쟁에부채부담커진빅테크…신용시장서'경고음'",
   "[뉴스브리핑]오늘의주요뉴스…코스피'검은화요일'장중10%대폭락",
   "'주가급락'시총1위도뺏겼다...엔비디아악재된'AI순환거래'뭐길...",
-  "한전자회사한전기술지주8월7일출범…사장에이종민SKT부사장"
+  "한전자회사한전기술지주8월7일출범…사장에이종민SKT부사장",
+  "아모레퍼시픽,70여년연구자산기반'생성형AI플랫폼'구축",
+  "LCK정규시즌3라운드1주차,한화생명-디플러스기아격돌",
+  "철원갈말읍,삼성스마트폰무료점검·현장수리지원",
+  "[AI프리뷰]28일창원NC-KT전,도루1위NC와타율1위KT의대결",
+  "황인호동구청장,직원소통창구'하하토크'재가동",
+  "대구한의대,'2026그로우앤오픈데이터캠프'운영",
+  "최태원9440억다음은권혁빈···'8조이혼'얼마나나눌까",
+  "타룬굽타CBO“‘표준화된하늘’완성한스카일로,韓통신사에최적..."
  ],
  "recent_sigs": [
   [
@@ -6715,9 +6715,17 @@
   [
    "2026-07-28T14:12:22.431795+09:00",
    "한전기술지주 ~SKT 출범 자회사 사장에 7일 한전 8월 이종민 SKT부사장"
+  ],
+  [
+   "2026-07-28T14:14:22.892119+09:00",
+   "8조 얼마나 이혼 다음은 9440억 권혁빈 나눌까"
+  ],
+  [
+   "2026-07-28T14:14:22.892119+09:00",
+   "굽타 최적 표준화된 완성한 타룬 통신사에 스카일로 하늘 CBO"
   ]
  ],
- "last_run": "2026-07-28T14:12:40.337105+09:00",
+ "last_run": "2026-07-28T14:14:49.665540+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
