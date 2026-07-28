@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.finomy.com/news/articleView.html?idxno=258125",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166700",
-  "http://www.kdfnews.com/news/articleView.html?idxno=185776",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5208656",
   "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500091?wlog_tag3=naver",
   "https://www.nocutnews.co.kr/news/6554309",
@@ -2999,12 +2996,12 @@
   "https://www.mediapen.com/news/view/1112839",
   "https://www.newspim.com/news/view/20260728000649",
   "https://www.tokenpost.kr/news/cryptocurrency/382410",
-  "https://www.sedaily.com/article/20073084"
+  "https://www.sedaily.com/article/20073084",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=442306",
+  "https://www.bntnews.co.kr/article/view/bnt202607290071",
+  "https://www.greened.kr/news/articleView.html?idxno=346198"
  ],
  "seen_titles": [
-  "'검은화요일'코스피,9%대하락에6100선후퇴...매도사이드카+CB발동...",
-  "삼전닉스급락…실적발표앞두고또터진‘피크아웃’우려",
-  "코스피,장중8%급락···1단계서킷브레이커발동",
   "이재용·최태원,美이어伊로…'구글캠프'동반참석",
   "엔비디아,SSI에수십억달러투자…프론티어AI수요선점",
   "2026년7월28일매일경제1면…10억달러투자한엔비디아,네이버3대...",
@@ -6001,7 +5998,10 @@
   "애플,시총장중5조달러'터치'…엔비디아이어사상2번째",
   "[GAM]앤스로픽날개단아마존②AI투자피로감속주가재평가분수령",
   "IREN,AI클라우드사업전환에도주가8.69%하락",
-  "[속보]SK하이닉스,10여개기업과장기공급계약협상마무리…빅테크..."
+  "[속보]SK하이닉스,10여개기업과장기공급계약협상마무리…빅테크...",
+  "[WhoIs?]차정훈엠케이전자회장겸한국토지신탁회장",
+  "‘순례자들은왜돌아오지않는가’IPTV공개",
+  "이재용·최태원은이탈리아로,정의선은브라질로…각자의셈법"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,17 @@
   [
    "2026-07-29T08:06:15.988140+09:00",
    "전환에도 IREN 하락 주가 사업 클라우드"
+  ],
+  [
+   "2026-07-29T08:10:31.443609+09:00",
+   "돌아오지 공개 않는가 순례자들은 IPTV"
+  ],
+  [
+   "2026-07-29T08:10:31.443609+09:00",
+   "브라질로 각자의 이재용 최태원은 정의선은 셈법 이탈리아로"
   ]
  ],
- "last_run": "2026-07-29T08:08:44.339469+09:00",
+ "last_run": "2026-07-29T08:10:58.299821+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
