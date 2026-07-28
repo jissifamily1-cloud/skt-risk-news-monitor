@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=207805",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207804",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471886",
-  "http://kor.theasian.asia/archives/408901",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008675710&plink=ORI&cooper=NAVER",
-  "https://www.yna.co.kr/view/AKR20260724158700505?input=1195m",
-  "https://www.kbsm.net/news/view.php?idx=528012",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02286166645518128",
   "https://www.ajunews.com/view/20260723162202501",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317667",
   "https://www.itdaily.kr/news/articleView.html?idxno=240588",
@@ -2999,17 +2991,17 @@
   "http://www.fnnews.com/news/202607281833136263",
   "https://www.tvreport.co.kr/entertainment/article/1064497/",
   "https://www.viva100.com/article/20260728501330",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472332"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472332",
+  "https://www.xportsnews.com/article/2177023",
+  "https://www.xportsnews.com/article/2177026",
+  "https://www.xportsnews.com/article/2177025",
+  "https://www.xportsnews.com/article/2177028",
+  "https://www.xportsnews.com/article/2177024",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114741",
+  "https://www.tokenpost.kr/news/market/382247",
+  "https://www.kukinews.com/article/view/kuk202607280169"
  ],
  "seen_titles": [
-  "수백억보안망뚫은1000원짜리수첩…손으로특허베끼고도면그려유...",
-  "양자컴퓨팅위협대응목적'비트코인보안컨소시엄'출범",
-  "'SNS홍보'가자초한러미사일공격…우크라방산행사주최자결국구속",
-  "샤이니헌터스유출정보악용한협박메일확산…\"48시간내비트코인2천...",
-  "미의회암호화폐규제법'클래러티액트'찬반팽팽…'북한제재강화...",
-  "중동정부기관뚫은'텔레심'…텔레그램에숨어명령받고추가악성코...",
-  "호텔와이파이접속했는데계정탈취…DNS바꿔마이크로소프트365로그...",
-  "\"추적불가능한암호화폐세탁공장작동\"…655ETH증발에가상자산시...",
   "[역사속오늘·7.28·유두]경성도서관개관(1922)·국어기본법시행(200...",
   "\"말이되냐\"목격담속출…SNS곳곳에충격광고",
   "[OK제보]\"1~2방울이면충분?\"…SNS에'성범죄약물'광고횡행",
@@ -6001,7 +5993,15 @@
   "'AI돈잔치'에빅테크들빚더미...오라클·엔비디아등신용도추락",
   "신지,'시구거절'논란딛고→문원과알콩달콩힐링데이트…\"너무좋...",
   "무보,한국스마트폰유럽점유율제고위해1억달러무역보험지원",
-  "5G·위성통신성장기대에도통신장비주급락...무슨악재있나?"
+  "5G·위성통신성장기대에도통신장비주급락...무슨악재있나?",
+  "애국가부르는프림로즈하윤[엑'sHD포토]",
+  "프림로즈나현‘승리요정이될거야’[엑'sHD포토]",
+  "프림로즈나현‘미소로사인체크’[엑'sHD포토]",
+  "프림로즈나현‘방긋’[엑'sHD포토]",
+  "프림로즈나현‘창원에서시구’[엑'sHD포토]",
+  "다보링크,강남에휴머노이드쇼룸…'두봇'과차세대로봇사업본격화",
+  "아시아반도체주,AI투자불안에전반적급락세",
+  "SK실트론매각협상장기전끝?…이번주결론나올까"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-07-28T18:36:22.193191+09:00",
    "추락 빅테크들 돈잔치 신용도 오라클 빚더미"
+  ],
+  [
+   "2026-07-28T18:40:24.316585+09:00",
+   "협상 장기전 매각 나올까 결론 SK실트론"
   ]
  ],
- "last_run": "2026-07-28T18:38:40.629815+09:00",
+ "last_run": "2026-07-28T18:40:46.563304+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
