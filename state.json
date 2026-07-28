@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=669099",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190203",
-  "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html?partner=naver",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260727180258QAx",
-  "https://www.hankyung.com/article/2026072789931",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260728010009923",
-  "https://www.sedaily.com/article/20072432",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308397&inflow=N",
   "http://www.econonews.co.kr/news/articleView.html?idxno=441897",
   "https://www.sentv.co.kr/article/view/sentv202607270093",
   "https://www.hankyung.com/article/2026072789921",
@@ -2999,17 +2991,17 @@
   "https://www.ajunews.com/view/20260728112553881",
   "https://www.ekn.kr/web/view.php?key=20260728026156830",
   "https://www.itdaily.kr/news/articleView.html?idxno=240635",
-  "https://www.dt.co.kr/article/12075175"
+  "https://www.dt.co.kr/article/12075175",
+  "https://www.ppss.kr/news/articleView.html?idxno=303367",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3648584",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142176",
+  "https://sateconomy.co.kr/news/view/1065587311427941",
+  "https://view.asiae.co.kr/article/2026072813333408823",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718070",
+  "https://www.koreatimes.co.kr/path/A2026072812480000251",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356592"
  ],
  "seen_titles": [
-  "엔비디아,오픈AI에365조원보증…AI생태계'자금줄큰손'역할확대",
-  "AI깐부맞네…엔비디아,네이버3대주주로[퇴근길30초경제]",
-  "AI모델은늦었지만‘피지컬AI’로승부수띄운日",
-  "'엔비디아+코리아'…GPU넘어의료·게임·인재까지협력",
-  "주형철경기도신임경제부지사취임…\"반도체초격차·AI전환역량집...",
-  "[연합뉴스이시각헤드라인]-18:00",
-  "[네이버·엔비디아빅딜해부]④'위험분담'빼고GPU·주주로",
-  "[증권NOW]한국투자증권·미래에셋증권·하나증권·교보증권·다올투자...",
   "HowMetaGotEverythingItWantedinaSecretLouisianaDataCenterDeal",
   "코스피,널뛰기끝6,700선사수…코스닥상승",
   "1조자사주도소각…겹호재에뛴네이버",
@@ -6001,13 +5993,17 @@
   "한국레버리지ETF,日도쿄증시를흔들다",
   "AI가갈라놓은통신주몸값…SKT는프리미엄,KT는의문표",
   "라온시큐어화이트해커23명,국제해킹대회'데프콘CTF'본선진출",
-  "MS“AI해킹,AI로막는다”…보안특화모델·에이전트공개"
+  "MS“AI해킹,AI로막는다”…보안특화모델·에이전트공개",
+  "SK텔레콤,AI데이터센터자회사설립…7500억투자",
+  "대전중부경찰서,무인점포소액절도예방총력…'시니어안전지킴이'와...",
+  "AI회의론에안전자산으로떠오른애플...시총1위되찾았다",
+  "카카오,온디바이스용경량AI4종공개…상업활용도허용",
+  "K-반도체미래,여기서자란다…키자니아,4차산업'어린이인재'육성...",
+  "\"갤럭시Z8이온다\"…통신3사,혜택경쟁'후끈'",
+  "KT,AmorepacificlaunchAIplatformtospeedupcosmeticsR&D",
+  "LG전자,엔비디아액체냉각인증획득…AI데이터센터핵심공급망진입"
  ],
  "recent_sigs": [
-  [
-   "2026-07-28T07:52:16.322670+09:00",
-   "암홀딩스 실적기대 저가 상승 홀로 쇼크속"
-  ],
   [
    "2026-07-28T07:58:15.736318+09:00",
    "구글캠프 참석 시칠리아로 이어 샌프란 이재용"
@@ -6735,9 +6731,17 @@
   [
    "2026-07-28T13:50:23.844133+09:00",
    "모델 막는다 AI로 보안 MS 공개 특화 에이전트"
+  ],
+  [
+   "2026-07-28T13:52:16.326408+09:00",
+   "speed ~KT up Amorepacific launch cosmetics to platform"
+  ],
+  [
+   "2026-07-28T13:52:16.326408+09:00",
+   "액체냉각 인증 LG전자 진입 핵심공급망 데이터센터 획득"
   ]
  ],
- "last_run": "2026-07-28T13:50:53.276484+09:00",
+ "last_run": "2026-07-28T13:52:38.799358+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
