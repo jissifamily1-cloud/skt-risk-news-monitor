@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbizm.com/news/articleView.html?idxno=309788",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=256608",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070529",
-  "http://www.metroseoul.co.kr/article/20260728500156",
-  "https://www.smarttoday.co.kr/ko-kr/articles/109834",
-  "https://www.news1.kr/politics/assembly/6241129",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47632",
-  "https://www.econotimes.com/ASML-Applied-Materials-Slide-as-China-DUV-Chip-Equipment-Breakthrough-Sparks-Market-Jitters-1747882",
-  "https://www.tokenpost.kr/news/breaking/381629",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278563",
-  "https://www.viva100.com/article/20260727501208",
   "https://www.insight.co.kr/news/564870",
   "https://www.inthenews.co.kr/news/article.html?no=89837",
   "https://www.sportschosun.com/baseball/2026-07-28/202607280100173240011179",
@@ -2999,20 +2988,20 @@
   "https://www.geconomy.co.kr/news/article.html?no=322284",
   "https://www.seoulfn.com/news/articleView.html?idxno=634365",
   "https://www.aitimes.com/news/articleView.html?idxno=213256",
-  "https://www.abcn.kr/news/articleView.html?idxno=89877"
+  "https://www.abcn.kr/news/articleView.html?idxno=89877",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166749",
+  "https://sports.khan.co.kr/article/202607290700006?pt=nv",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=243213",
+  "https://en.yna.co.kr/view/AEN20260729000800320?input=2106m",
+  "https://www.itooza.com/common/iview.php?no=2026072815463494374",
+  "https://view.asiae.co.kr/article/2026072816202211136",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=807940",
+  "https://www.techm.kr/news/articleView.html?idxno=153770",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=307335",
+  "https://www.bloter.net/news/articleView.html?idxno=669062",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=725153"
  ],
  "seen_titles": [
-  "라온시큐어화이트해커23명,데프콘CTF본선진출",
-  "[갤럭시8Z사전예약]D-1,과장광고피해방지체크리스트",
-  "SK텔레콤,갤럭시Z폴드8울트라등사전예약돌입…넷플릭스연계혜...",
-  "이통3사,'갤럭시Z8'사전예약시작",
-  "아모레퍼시픽AI특화플랫폼구축",
-  "아모레퍼시픽,'독자연구'기반인공지능플랫폼'레몬'가동",
-  "AI투자부담에이통사갤럭시Z8보조금경쟁도'숨고르기'?",
-  "모경종\"청년은미래아닌현재…스스로미래만들어야\"[대학생미래캠...",
-  "이스라엘'에니그마',7100만달러투자유치…\"모든로봇의지능계층구...",
-  "ASML,AppliedMaterialsSlideasChinaDUVChipEquipmentBreakthroug",
-  "소프트뱅크400억달러대출…21개기관합류했다",
   "[특징주]삼성전자,두달여만에23만원대로···-9%대하락",
   "‘갤럭시Z8’사전예약시작⋯방미통위“과장광고주의”",
   "SKT,'SK하이퍼'에3300억1차출자...15GWAIDC개발체계가동",
@@ -6001,7 +5990,18 @@
   "AI과열우려에반도체주'패닉셀'…샌디스크14%폭락,애플은시총5조...",
   "[뉴욕증시]실적發순환매·반도체투매'혼조'···WTI70달러아래로",
   "[7월28일]\"모델이문제인가,샌드박스가문제인가\"...오픈AI해킹사건...",
-  "내손안의글로벌서재"
+  "내손안의글로벌서재",
+  "2년후얼마보상받나…통신3사'갤럭시AI구독클럽'뜯어보니",
+  "네몫만해내면넌‘두목’이야!삼성대체외인오스틴보스",
+  "갤럭시Z8시리즈·스마트워치사전판매시작…이통3사프로모션경쟁",
+  "(EDITORIALfromTheKoreaTimesonJuly29)",
+  "[미국주식]알파벳,마이크론실적호조...7월트리플증가30선",
+  "\"코스피저평가맞지만…매수할주체가없다\"",
+  "[이슈]SK쉴더스EQST,해커계월드컵'데프콘34CTF'본선진출",
+  "SKT'온가족할인'마감D-2...통신비아끼려면어떻게해야할까?",
+  "[통신사AI인프라전]⑥KT,'현금창출력약화'속5조투자재원마련은",
+  "[하이닉스렌즈로본SK]②합병대신'무혈지분강화'…지주사의흡수...",
+  "[하이닉스성장기①]135원동전주에서세계반도체중심으로"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,25 @@
   [
    "2026-07-29T07:00:38.709051+09:00",
    "서재 안의 글로벌"
+  ],
+  [
+   "2026-07-29T07:02:24.027461+09:00",
+   "마련은 약화 ~KT 재원 현금창출력 투자 5조"
+  ],
+  [
+   "2026-07-29T07:02:24.027461+09:00",
+   "해야 온가족할인 마감 통신비 어떻게 ~SKT 할까 아끼려면"
+  ],
+  [
+   "2026-07-29T07:02:24.027461+09:00",
+   "강화 합병 흡수 대신 무혈 지주사의 지분"
+  ],
+  [
+   "2026-07-29T07:02:24.027461+09:00",
+   "중심으로 세계 반도체 동전주에서 135원"
   ]
  ],
- "last_run": "2026-07-29T07:01:08.117961+09:00",
+ "last_run": "2026-07-29T07:02:52.560817+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
