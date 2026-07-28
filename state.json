@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260722144700",
-  "https://www.tokenpost.kr/news/breaking/380053",
-  "https://www.aitimes.com/news/articleView.html?idxno=212993",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685583",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685501",
-  "https://www.aitimes.com/news/articleView.html?idxno=212931",
-  "https://zdnet.co.kr/view/?no=20260719105523",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685023",
   "https://news.mtn.co.kr/news-detail/2026071816023939923",
   "https://www.aitimes.com/news/articleView.html?idxno=212898",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684953",
@@ -2999,17 +2991,17 @@
   "https://www.nocutnews.co.kr/news/6554644",
   "https://www.hankyung.com/article/2026072809587",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000052926",
-  "https://www.chosun.com/economy/tech_it/2026/07/28/RZZKXRSMTJG25EOF32A43MVEMI/"
+  "https://www.chosun.com/economy/tech_it/2026/07/28/RZZKXRSMTJG25EOF32A43MVEMI/",
+  "https://biz.chosun.com/it-science/ict/2026/07/28/J7JNYTJ77VGS7KDG4EN2PZJLKU/",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251687",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6937081",
+  "https://www.yna.co.kr/view/AKR20260728102400008?input=1195m",
+  "http://www.beyondpost.co.kr/view.php?ud=202607281626477589be44c0aacd_30",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260728163557ww5",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356614",
+  "https://www.aitimes.com/news/articleView.html?idxno=213270"
  ],
  "seen_titles": [
-  "(3rdLD)S.Korean,globaltechfirmsagreeonUS$950blncooperationpr",
-  "(2ndLD)S.Korean,globaltechfirmsagreeonUS$950blncooperationpr",
-  "\"도구의시대는끝났다\"…젠스파크'AI워크스페이스6.0',세컨드브레인...",
-  "이대통령\"한국,앤트로픽최적의파트너…협력확대기대\"",
-  "이재명대통령“대한민국,AI생산기지·글로벌AI협력플랫폼도약”",
-  "[AI는지금]美,AI출시전심사체계만든다…오픈AI차세대모델첫시...",
-  "오픈AI알트먼,다음주美정부에차세대AI모델설명",
-  "오픈AI,새모델성과로2차시장서부활…수요'2대5'로앤트로픽추...",
   "그레이스케일,월드코인현물ETF추진…美SEC·나스닥승인남아",
   "오픈AI,비상장주식거래서다시인기몰이…GPT-5.6·코덱스효과에투...",
   "[7월20일]오픈AI는왜유명작가를불러한시간동안'쓴소리'를들었...",
@@ -6001,7 +5993,15 @@
   "'6천선'무너진코스피…中반도체여파에국내증시와르르",
   "외신\"엔비디아73조데이터센터임차…'순환금융'재점화우려\"",
   "엔비디아,'최대73조원'텍사스데이터센터장기임차",
-  "AI가콕찍은브랜드는...AI브랜드노출지수나온다"
+  "AI가콕찍은브랜드는...AI브랜드노출지수나온다",
+  "아마존,위성5105기추가발사추진…‘스타링크추격’속도",
+  "코스피10.8%·코스닥7.7%폭락'검은화요일'…반도체'투톱'급락에'...",
+  "中CXMT상장흥행에엔비디아악재까지…코스피10.84%폭락",
+  "'증시폭락'긴급진단…리서치센터장들\"낙폭과도,극단적저평가\"",
+  "‘검은화요일’코스피,10%대급락6000선턱걸이…역대두번째낙폭",
+  "미중반도체쇼크…코스피장중6,000선붕괴",
+  "이재용·최태원,美서맺은'AI동맹'시칠리아로…구글캠프참석",
+  "트럼프행정부,AI사전심사체계막바지…오픈AI·앤트로픽·구글초안..."
  ],
  "recent_sigs": [
   [
@@ -6661,7 +6661,7 @@
    "나온다 노출지수 AI가 찍은 브랜드는 브랜드"
   ]
  ],
- "last_run": "2026-07-28T16:36:48.035371+09:00",
+ "last_run": "2026-07-28T16:38:38.635619+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
