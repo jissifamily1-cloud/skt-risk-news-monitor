@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717898",
-  "https://www.munhwa.com/article/11605237",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607271141561240640",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607270102&t=NN",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097177",
-  "https://www.munhwa.com/article/11605238",
-  "https://zdnet.co.kr/view/?no=20260725084504",
-  "https://www.hankyung.com/article/202607277493i",
-  "http://www.fnnews.com/news/202607270811062192",
-  "https://www.chosun.com/economy/economy_general/2026/07/27/4CMNDEMUVJHRTPFC6BTUM3QC5M/",
-  "https://www.sedaily.com/article/20072233",
   "https://biz.sbs.co.kr/article_hub/20000324795?division=NAVER",
   "https://www.etoday.co.kr/news/view/2607772",
   "https://www.mt.co.kr/economy/2026/07/27/2026072710474398371",
@@ -2999,20 +2988,20 @@
   "https://www.inven.co.kr/webzine/news/?news=318882",
   "https://dealsite.co.kr/articles/166056",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80133",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238020"
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238020",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166698",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89263",
+  "https://www.fashionbiz.co.kr/article/228182",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104729",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168860",
+  "https://www.hellot.net/news/article.html?no=114023",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=256586",
+  "https://biz.chosun.com/stock/stock_general/2026/07/28/A64WKJ3L6JAA3OLRVQLDVQUFHU/",
+  "https://www.news1.kr/photos/8028441",
+  "https://www.news1.kr/photos/8028442",
+  "https://news.tf.co.kr/read/entertain/2347629.htm"
  ],
  "seen_titles": [
-  "AMD,국산NPU생태계힘보탠다...한국에R&D센터설립",
-  "과기정통부,AMD손잡고개방형AI컴퓨팅인프라변화대응한다",
-  "과기정통부-AMD,국산NPU연계‘이기종AI인프라’구축맞손",
-  "\"AI와대화하며주식주문\"…다올투자증권,'MCP트레이딩'첫발",
-  "삼성전자,HBM5속도50%향상승부수…구자흠“2나노공정적용”",
-  "“AI가내놓은설계도,그대로출원하면발명자아냐”",
-  "과기부-AMD,AI반도체·컴퓨팅협력강화",
-  "과기정통부-AMD,개방형AI컴퓨팅인프라생태계구축협력",
-  "‘키미K3’설계도무료배포…한국AI시장중국에종속우려",
-  "\"AI통제안된다\"…빅테크,'오픈웨이트규제'집단반발",
-  "AI가바꾼반도체공급망지도…네덜란드,한국반도체장비최대수입...",
   "AI가바꾼반도체수출지도···\"중국의존줄고,대만부상\"",
   "중국산자동차수입급증,獨제치고1위로…올해비중은더늘어",
   "전기버스는100%중국산…수입전기차도70%‘메이드인차이나’",
@@ -6001,7 +5990,18 @@
   "한국AI시대본격개막...글로벌빅테크리더들과미래비전공유",
   "라온시큐어화이트해커23명,'데프콘CTF2026'본선진출",
   "갤럭시Z폴드8·플립8사전판매시작...28일부터내달3일까지",
-  "LG유플러스,'갤럭시Z8시리즈'사전예약돌입…AI·보상혜택강화"
+  "LG유플러스,'갤럭시Z8시리즈'사전예약돌입…AI·보상혜택강화",
+  "갤Z8사전예약오늘시작…통신3사혜택,어디가좋을까",
+  "LGU+,'갤럭시Z8시리즈'사전예약개시…라이브참여고객혜택",
+  "아모레퍼시픽,연구특화AI플랫폼구축…R&D디지털전환가속",
+  "아모레퍼시픽,70년연구자산품은AI플랫폼구축...\"신제품검토5분\"",
+  "美·中반도체쇼크...코스피·코스닥'급락출발'",
+  "'글로벌AI연합체출범파트너'LGCNS,300조개분자탐색6개월로단...",
+  "중국위축된美기술M&A...현대차·한화가빈자리파고든다",
+  "미국發찬바람에코스피,5%대급락출발…매도사이드카도발동",
+  "KT·아모레퍼시픽,AI특화데이터플랫폼구축",
+  "KT·아모레퍼시픽,AI어시스턴트‘레몬’공동구축",
+  "300억대작'문무',홍보사해킹피해…대본·연락처유출"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,17 @@
   [
    "2026-07-28T09:12:15.449027+09:00",
    "하락 부담 증시 전망 투자 122조 노광장비"
+  ],
+  [
+   "2026-07-28T09:16:16.536107+09:00",
+   "아모레퍼시픽 ~KT 어시스턴트 공동 레몬 구축"
+  ],
+  [
+   "2026-07-28T09:16:16.536107+09:00",
+   "300억 대본 대작 연락처 문무 홍보사 유출 피해"
   ]
  ],
- "last_run": "2026-07-28T09:14:33.399599+09:00",
+ "last_run": "2026-07-28T09:16:38.057990+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
