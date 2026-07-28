@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2607899",
-  "https://www.mediapen.com/news/view/1112520",
-  "http://kor.theasian.asia/archives/410743",
-  "https://biz.sbs.co.kr/article_hub/20000324893?division=NAVER",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308357&inflow=N",
-  "https://www.viva100.com/article/20260727501377",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260727170152a2N",
-  "https://www.hankyung.com/article/202607278733i",
-  "https://www.busan.com/view/busan/view.php?code=2026072716014401613",
   "https://www.aitimes.com/news/articleView.html?idxno=213203",
   "https://www.aitimes.com/news/articleView.html?idxno=213209",
   "http://www.economytalk.kr/news/articleView.html?idxno=423082",
@@ -2999,15 +2990,18 @@
   "https://www.pennmike.com/news/articleView.html?idxno=124524",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678288&plink=ORI&cooper=NAVER",
   "https://www.dt.co.kr/article/12075161",
-  "https://www.hankyung.com/article/2026072802687"
+  "https://www.hankyung.com/article/2026072802687",
+  "https://mhnse.com/news/articleView.html?idxno=1470091",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6840573_36967.html",
+  "https://www.munhwa.com/article/11605546",
+  "https://www.newsis.com/view/NISI20260728_0021379933",
+  "https://www.newsis.com/view/NISI20260728_0021379934",
+  "https://www.newsis.com/view/NISI20260728_0021379935",
+  "https://www.econovill.com/news/articleView.html?idxno=746411",
+  "https://www.pressian.com/pages/articles/2026072812043908159",
+  "https://www.newsis.com/view/NISI20260728_0021379938"
  ],
  "seen_titles": [
-  "[DD퇴근길]엔비디아1.5조원투자…네이버주가날았다",
-  "배경훈부총리,엔비디아독점견제로AMD와협업제안···'AMD에국산...",
-  "기술추월보다확산속도로앞선다...中이노리는‘AI판짜기’",
-  "10거래일연속사이드카에예탁금급감…증시반등핵심요소는?",
-  "[신간]\"1조자산가의투자비법\"…세종대김대종교수'…2027머니트렌...",
-  "[오늘의신문]가계빚·대출규제‘경고등’…AI공급망과청년고용은...",
   "2만2천명정보유출'KT'…29일제재결정",
   "6월과달랐다…엔비디아투자에네이버주가재평가",
   "LG전자액체냉각솔루션,국내최초‘엔비디아인증’획득",
@@ -6001,7 +5995,13 @@
   "코스피10%급락,SK하이닉스150만원대로···'美반도체약세'여파인...",
   "[12뉴스]오늘의주요뉴스",
   "李대통령북미방문에플리토·웨인힐스등국내AI기업동행",
-  "문샷AI,키미K3가중치공개…NYT\"대부분사용자는유료이용\""
+  "문샷AI,키미K3가중치공개…NYT\"대부분사용자는유료이용\"",
+  "김진욱햄스트링정말문제없나,전문가들은믿지못한다는데?...그럼...",
+  "'중국발반도체'쇼크‥증시는'검은화요일'",
+  "‘AI투자의역설’…애플,엔비디아제치고시총1위탈환",
+  "업무보고하는송경희개보위원장",
+  "[피지컬AIx자율주행⑬]\"자율주행차는혼자달려도서비스는함께만...",
+  "[속보]코스피,美'엔비디아'쇼크에6천선까지위협…서킷브레이커도..."
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,21 @@
   [
    "2026-07-28T12:06:15.225840+09:00",
    "북미 플리토 방문에 기업 대통령 국내 동행 웨인힐스"
+  ],
+  [
+   "2026-07-28T12:08:15.563652+09:00",
+   "혼자 자율주행차는 달려도 함께 서비스는"
+  ],
+  [
+   "2026-07-28T12:08:15.563652+09:00",
+   "서킷브레이커도 위협 쇼크에 6천선까지 코스피"
+  ],
+  [
+   "2026-07-28T12:08:15.563652+09:00",
+   "개보위원장 송경희 업무보고하는"
   ]
  ],
- "last_run": "2026-07-28T12:06:39.855337+09:00",
+ "last_run": "2026-07-28T12:08:41.377724+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
