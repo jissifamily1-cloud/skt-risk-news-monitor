@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.economytalk.kr/news/articleView.html?idxno=423085",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1389921",
-  "https://news.jtbc.co.kr/article/NB12310398?influxDiv=NAVER",
-  "https://www.mt.co.kr/industry/2026/07/27/2026072718300754555",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443270",
-  "https://biz.sbs.co.kr/article_hub/20000324839?division=NAVER",
   "https://www.ppss.kr/news/articleView.html?idxno=303376",
   "https://imnews.imbc.com/news/2026/econo/article/6840420_36932.html",
   "https://sjbnews.com/news/news.php?number=883830",
@@ -2999,15 +2993,15 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427271",
   "https://www.ddaily.co.kr/page/view/2026072810261054299",
   "http://www.newstomato.com/ReadNews.aspx?no=1308449&inflow=N",
-  "https://www.techm.kr/news/articleView.html?idxno=153765"
+  "https://www.techm.kr/news/articleView.html?idxno=153765",
+  "https://it.donga.com/109269/",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260727010009825",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3648640",
+  "https://www.tournews21.com/news/articleView.html?idxno=139573",
+  "https://www.etnews.com/20260728000255",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04411606645519112"
  ],
  "seen_titles": [
-  "'KS직행확률75.9%→0.9%폭락'위기의LG칼빼들었다!코칭스태프개...",
-  "소설은서재에,경제서는밑줄에…독자들의다른책읽기",
-  "비즈크러시,배경음속에서도통하는실시간다국어회의AI로CES2027정...",
-  "통신3사,갤럭시Z8사전예약돌입…온라인몰고객유치전",
-  "'삼성전자,SK',미국글로벌빅테크와AI협력확대..경쟁력강화",
-  "이대통령,브라질대통령과정상회담…'희토류'논의할듯",
   "[종합]\"네이버플러스,컷슬린,키토선생,배민,파스타소스,픽스녹음기\"등...",
   "위믹스또뚫렸다…77억원규모가상자산유출",
   "네이버주가끌어올린이소식…'엔비디아가3대주주로'",
@@ -6001,21 +5995,15 @@
   "[증시긴급진단]\"AI는가보지않은길…변동성감내할포지션잡아야\"",
   "[AI정책노트]“국대AI,국민이직접써보고평가”…200명평가단모집",
   "갤럭시폴드8·플립8사전예약돌입…통신사지원은'짠물'",
-  "[글로벌]엔비디아,오픈AI오하이오데이터센터에2500억달러보증검토"
+  "[글로벌]엔비디아,오픈AI오하이오데이터센터에2500억달러보증검토",
+  "갤럭시Z폴드8울트라·폴드8·플립8사전예약시작…이통3사혜택살펴...",
+  "[취재후일담]미궁빠진'노태우비자금300억'…독립몰수제절실",
+  "대구시서구청,이현공원서가족사랑아이스축제...아동학대예방캠...",
+  "카카오,무료로쓸수있는'작은AI'4종공개",
+  "나만의러닝메이트·여행가이드…메타AI글래스써보니",
+  "라온시큐어화이트해커,해킹올림픽'데프콘CTF'본선행"
  ],
  "recent_sigs": [
-  [
-   "2026-07-28T08:34:19.464507+09:00",
-   "폴드8 사전예약 갤럭시 요금제 전용 ~KT 용량 플립8 업그레 돌입"
-  ],
-  [
-   "2026-07-28T08:34:19.464507+09:00",
-   "키미 K3 가중치 공개 다운로드로 문샷AI"
-  ],
-  [
-   "2026-07-28T08:34:19.464507+09:00",
-   "네이버 목표가 협력 40만원 하나증권 미반영"
-  ],
   [
    "2026-07-28T08:36:21.819708+09:00",
    "한투증권 파트너십 강화 투자로 네이버"
@@ -6717,7 +6705,7 @@
    "2500억달러 오하이오 검토 데이터센터에 보증"
   ]
  ],
- "last_run": "2026-07-28T14:32:36.700060+09:00",
+ "last_run": "2026-07-28T14:34:42.736989+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
