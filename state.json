@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273652",
-  "http://www.4th.kr/news/articleView.html?idxno=2115327",
-  "https://www.mk.co.kr/article/12108385",
-  "https://www.asiatime.co.kr/article/20260727500333",
-  "http://www.kdfnews.com/news/articleView.html?idxno=185740",
-  "https://www.mk.co.kr/article/12108390",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3647330",
-  "https://zdnet.co.kr/view/?no=20260727141807",
-  "https://www.news1.kr/it-science/cc-newmedia/6240207",
-  "https://www.viva100.com/article/20260727500958",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208176",
   "http://www.bizwnews.com/news/articleView.html?idxno=141583",
   "https://www.kado.net/news/articleView.html?idxno=2063310",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=852661",
@@ -2999,20 +2988,20 @@
   "https://www.ddaily.co.kr/page/view/2026072809422973920",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687532",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687531",
-  "https://www.peoplewatch.co.kr/article/view/ppw202607280003"
+  "https://www.peoplewatch.co.kr/article/view/ppw202607280003",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1389749",
+  "https://www.sidae.com/article/2026072714161445868",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427213",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3648198",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80152",
+  "https://www.pressian.com/pages/articles/2026072808511165284",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254013&CMPT_CD=P0010",
+  "https://www.ddaily.co.kr/page/view/2026072809463585011",
+  "https://www.smartbizn.com/news/articleView.html?idxno=149583",
+  "https://www.sentv.co.kr/article/view/sentv202607280039",
+  "https://newstapa.org/article/P-fJi"
  ],
  "seen_titles": [
-  "[이슈포커스]중국AI,'저가·개방성'앞세워미국시장공략…인기모...",
-  "\"AI반도체가제조업지형바꿨다\"…한은,대만수출확대·수도권편중...",
-  "‘후반기단1승’LG,코치진대폭개편단행",
-  "AI가바꾼반도체지도..대만수출2위급부상·중국비중은급락",
-  "방미통위,갤럭시Z8사전예약과장광고주의보",
-  "갤럭시Z8사전판매돌입…백화점·이커머스·하이마트고객잡기경쟁",
-  "SK실트론매각마침표찍나…최태원보유지분은추후협상",
-  "사회적가치더하는기업들…환경∙안전∙공감실천확대",
-  "카카오페이손해보험,갤럭시파손보장기간3년→5년으로확대",
-  "추경호대구광역시장,\"청원경찰근무환경개선적극검토할것\"",
-  "[AI는지금]中AI또판흔든다…문샷AI,'키미K3'가중치공개로美압...",
   "배경훈\"통신사,'AI컴퓨팅인프라'기업으로거듭나야\"",
   "“단순납품은끝났다”⋯K-반도체·빅테크‘1000조AI동맹’",
   "LG전자600㎾급CDU,엔비디아품질인증획득",
@@ -6001,7 +5990,18 @@
   "엔비디아투자유치한네이버…AI팩토리,GPUaaS넘어모델·SW까지",
   "AI특이점이미왔다는샘알트먼…전문가들은\"아직아니다\"",
   "일론머스크\"AI,5년내인류지능추월…10년뒤엔인간통제벗어날...",
-  "[투데이이슈]엔비디아'순환거래'악재…반도체주추락어디까지"
+  "[투데이이슈]엔비디아'순환거래'악재…반도체주추락어디까지",
+  "SKT,'아시아AI인프라허브'목표잰걸음…AIDC역량확보",
+  "최태원'9440억원'세기의재산분할,현금마련은어떻게",
+  "무보,삼성전자유럽스마트폰시장확대에1억달러지원",
+  "영남이공대K-뷰티과,네일전문숍창업성공이야기...창업역량강화...",
+  "'AI지각생'애플,15개월만에세계시총1위탈환",
+  "'자본주의최종병기'AI에대응하는노동운동의진화방향은…[장석준...",
+  "AI와대화10번?생수0.5리터가필요합니다",
+  "다시애플…엔비디아제치고세계시가총액1위탈환",
+  "포털대신AI···카페24,AI유입주문195%급증",
+  "서울창경,‘민관협력오픈이노베이션’상호자율탐색형스타트업50개...",
+  "SK이노베이션E&S,해킹대응하다직원숨졌는데…“해킹없었다”거짓..."
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,17 @@
   [
    "2026-07-28T10:18:17.218294+09:00",
    "10년 인간 인류 뒤엔 지능 머스크 추월 벗어날 일론 통제 5년"
+  ],
+  [
+   "2026-07-28T10:20:29.894709+09:00",
+   "스타트업 자율탐색형 민관협력 상호 50개 오픈이노베이션 서울창경"
+  ],
+  [
+   "2026-07-28T10:20:29.894709+09:00",
+   "SK이노베이션E 숨졌는데 대응하다 직원 없었다 거짓"
   ]
  ],
- "last_run": "2026-07-28T10:18:40.741263+09:00",
+ "last_run": "2026-07-28T10:20:57.295339+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7157,6 +7165,7 @@
   "queen.co.kr": "Queen 이코노미퀸",
   "tournews21.com": "투어코리아",
   "dailycar.co.kr": "데일리카",
-  "vegannews.co.kr": "2026 VeganNews Co., Ltd. All r"
+  "vegannews.co.kr": "2026 VeganNews Co., Ltd. All r",
+  "newstapa.org": "newstapa.org"
  }
 }
