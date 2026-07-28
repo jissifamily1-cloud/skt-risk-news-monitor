@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2607838",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=760141",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/27/2026072700212.html",
-  "https://www.m-i.kr/news/articleView.html?idxno=1395753",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131243",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=471930",
-  "https://www.asiatime.co.kr/article/20260727500402",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=92834",
   "http://www.4th.kr/news/articleView.html?idxno=2115330",
   "https://www.gukjenews.com/news/articleView.html?idxno=3647515",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008676945&plink=ORI&cooper=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.ziksir.com/news/articleView.html?idxno=141374",
   "https://it.donga.com/109268/",
   "https://www.mt.co.kr/world/2026/07/28/2026072810445696912",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317682"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317682",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661297",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045029",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166712",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=307299",
+  "https://www.yna.co.kr/view/AKR20260728076400008?input=1195m",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=307763",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=222362",
+  "https://www.tokenpost.kr/news/breaking/382060"
  ],
  "seen_titles": [
-  "브룩필드\"네이버·엔비디아와韓차세대AI인프라구축협력\"",
-  "김상희,전북동부보훈지청제41대지청장취임…공식업무개시",
-  "애플·마이크론,메모리반도체공급놓고美업체끼리정면충돌",
-  "1400조원쏟아붓는빅테크,왜한국을‘풀스택AI허브’로찍었나[양...",
-  "HVAC확장잰걸음...삼성전자-고효율히트펌프검증,LG전자-액체냉각솔...",
-  "中CXMT상장여파에'코스피'변동성…삼전·닉스'버티기'",
-  "[마감시황]CXMT충격딛고강보합...코스피6750선회복",
-  "네이버,엔비디아·브룩필드와100억弗규모AI인프라동맹…기술패권...",
   "LG전자액체냉각솔루션,국내첫엔비디아인증획득",
   "[산업뉴스브리핑]LG전자액체냉각솔루션,국내최초엔비디아인증으...",
   "엔비디아와'1.5兆동맹'네이버,'글로벌AI인프라항해'닻올렸다[K...",
@@ -6001,7 +5993,15 @@
   "KT·아모레퍼시픽,70년R&D데이터통합…AI연구비서'레몬'구축",
   "[위클리AI]\"경쟁축다변화\"앤트로픽·오픈AI·구글,다른승부수던졌...",
   "\"엔비디아,오픈AI지급보증\"또순환거래우려…시총1위도내줘",
-  "연합뉴스TV노조,'노사동수사추위정관'가결호소"
+  "연합뉴스TV노조,'노사동수사추위정관'가결호소",
+  "[기획]최태원·권혁빈의법정,이재용·정용진의결단…'재벌가이혼'이...",
+  "[신아일보tv]세기의재산분할",
+  "안전한AI위한'오픈시큐어AI얼라이언스'출범",
+  "유가와하이퍼스케일러,금융시장에지는그림자",
+  "코스피8~9%↓,삼전닉스11∼12%폭락…서킷브레이커발동",
+  "페이팔\"한국시장에스테이블코인진출관심\"",
+  "LG유플러스,갤럭시Z폴드8·플립8사전예약돌입…라이브혜택·AI구독...",
+  "솔리도머니해킹…SUPRA2억9370만개유출됐다"
  ],
  "recent_sigs": [
   [
@@ -6835,9 +6835,13 @@
   [
    "2026-07-28T11:24:16.628148+09:00",
    "호소 정관 연합뉴스TV 가결 사추위 노조 노사동수"
+  ],
+  [
+   "2026-07-28T11:26:16.646478+09:00",
+   "솔리도 SUPRA 유출됐다 2억9370만 머니"
   ]
  ],
- "last_run": "2026-07-28T11:24:42.906769+09:00",
+ "last_run": "2026-07-28T11:26:34.795594+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
