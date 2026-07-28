@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260727500172",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=438423",
-  "http://www.fnnews.com/news/202607271330234645",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=738105",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045029",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207791",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=318131",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=307763",
   "https://www.thelec.kr/news/articleView.html?idxno=60100",
   "https://www.yna.co.kr/view/AKR20260727117900009?input=1195m",
@@ -2999,16 +2992,16 @@
   "http://www.metroseoul.co.kr/article/20260728500147",
   "https://www.smartbizn.com/news/articleView.html?idxno=149602",
   "https://byline.network/?p=9004111222613330",
-  "https://www.klnews.co.kr/news/articleView.html?idxno=322059"
+  "https://www.klnews.co.kr/news/articleView.html?idxno=322059",
+  "https://www.betanews.net/article/view/beta202607280027",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49728",
+  "http://www.kdfnews.com/news/articleView.html?idxno=185781",
+  "http://www.impacton.net/news/articleView.html?idxno=19746",
+  "https://www.huffingtonpost.kr/article/259053",
+  "https://www.newsis.com/view/NISX20260728_0003726163",
+  "https://www.koreaherald.com/article/10822698"
  ],
  "seen_titles": [
-  "부산대,동남권지자체·핵심기업들과‘혁신협력체계’완성",
-  "[동정]이용우부여군수",
-  "'SFAI서밋'훈풍에코스피6750대로메모리수요확인…SK하이닉스3%↑",
-  "(마감시황)코스피,AI훈풍속6,750선반등…코스닥도2.21%올라",
-  "AI시대에\"대학가겠다는고교생64.9%뿐\"취업희망은2년만에두배...",
-  "국가전략인프라된AIDC,전력·세제현실적정책지원시급",
-  "SKT,'모두의프롬프트'공모개최",
   "[신아일보tv]세기의재산분할",
   "SK쉴더스EQST,국제해킹방어대회'코드게이트2026'CTF준우승",
   "현대위아,창립50주년맞아미래모빌리티기술체험형'테크위크'로다...",
@@ -6001,7 +5994,14 @@
   "중동긴장완화에도비트코인약세...9200만원대로밀려",
   "코스피,8%급락에6,200선붕괴···사이드카·서킷브레이커동시발동",
   "노드VPN“휴가철,여행브랜드사칭사이트75%가부킹닷컴위장”",
-  "카페24,\"포털대신AI가고객데려온다\"…쇼핑몰방문·구매모두급증"
+  "카페24,\"포털대신AI가고객데려온다\"…쇼핑몰방문·구매모두급증",
+  "아모레퍼시픽,70년연구개발자산기반AI특화플랫폼구축...\"연구환...",
+  "아모레퍼시픽,AI로70년연구노하우활용…'레몬'개발",
+  "AI가연구하고상담한다…기업업무혁신속도",
+  "삼성·LG,AI데이터센터냉각사업확대…기존시설적용이관건",
+  "'갤럭시Z8'시리즈사전예약시작:통신3사지원금최대57만5천원내...",
+  "中'키미K3'속살공개…매출294억넘는AI업체는별도계약",
+  "KT,AmorepacificjointlydevelopAIassistantLemon"
  ],
  "recent_sigs": [
   [
@@ -6815,9 +6815,13 @@
   [
    "2026-07-28T11:16:23.189705+09:00",
    "정보로 스토킹 가해자가 계정 바꿨더니 해킹범 비번 만든"
+  ],
+  [
+   "2026-07-28T11:22:17.827189+09:00",
+   "develop ~KT jointly Lemon Amorepacific assistant"
   ]
  ],
- "last_run": "2026-07-28T11:20:41.841888+09:00",
+ "last_run": "2026-07-28T11:22:35.622540+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
