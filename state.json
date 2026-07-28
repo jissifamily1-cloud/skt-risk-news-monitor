@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=710467",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621093",
-  "https://www.kukinews.com/article/view/kuk202607270202",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1097098",
-  "https://www.kbanker.co.kr/news/articleView.html?idxno=225529",
-  "https://www.thelec.kr/news/articleView.html?idxno=60115",
   "https://www.tokenpost.kr/news/breaking/381675",
   "https://www.ekn.kr/web/view.php?key=20260727023336584",
   "https://it.chosun.com/news/articleView.html?idxno=2023092166692",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472058",
   "https://www.aitimes.com/news/articleView.html?idxno=213255",
   "https://news.jtbc.co.kr/article/NB12310516?influxDiv=NAVER",
-  "https://www.koreaherald.com/article/10822916"
+  "https://www.koreaherald.com/article/10822916",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03273446645519112",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43826",
+  "https://www.ajunews.com/view/20260728134543043",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678482&plink=ORI&cooper=NAVER",
+  "https://news.jtbc.co.kr/article/NB12310517?influxDiv=NAVER",
+  "https://www.segye.com/newsView/20260728509958?OutUrl=naver"
  ],
  "seen_titles": [
-  "엔비디아10억弗투자..네이버3대주주된다",
-  "[ICT종합]네이버,엔비디아와대규모투자협력소식외",
-  "국가와기업의권력역학:AI시대,새로운균형을향해/김일태",
-  "한국제조업지도,AI때문에달라졌다",
-  "삼성·SK·네이버,글로벌빅테크와9,500억달러AI협력…한국AI허브...",
-  "SK쉴더스EQST,코드게이트2026CTF일반부준우승",
   "SK·엔비디아,\"AI인프라구축공식화,5천억달러의향서체결\"",
   "가상화폐‘위믹스’또해킹…77억원대스테이블코인유출",
   "통신3사,AI데이터센터에미래건다…정부지원업고투자속도",
@@ -6001,7 +5995,13 @@
   "통신3사,갤럭시Z8시리즈사전예약돌입…\"혜택경쟁치열\"",
   "중국,미국의'AI증류'조사·제재움직임에\"모든대응조치\"보복경...",
   "\"돈덜쓴회사가승자?\"...'AI지각생'애플의대반전",
-  "AltmaneyesKoreaastestbedforOpenAI’sfirstdevice"
+  "AltmaneyesKoreaastestbedforOpenAI’sfirstdevice",
+  "\"중국산반도체는중국용\"…삼전·닉스'매수'띄운이유",
+  "[오늘의뷰티]아모레퍼시픽·애경산업",
+  "AI투자경쟁에부채부담커진빅테크…신용시장서'경고음'",
+  "[뉴스브리핑]오늘의주요뉴스…코스피'검은화요일'장중10%대폭락",
+  "'주가급락'시총1위도뺏겼다...엔비디아악재된'AI순환거래'뭐길...",
+  "한전자회사한전기술지주8월7일출범…사장에이종민SKT부사장"
  ],
  "recent_sigs": [
   [
@@ -6711,9 +6711,13 @@
   [
    "2026-07-28T14:10:32.568612+09:00",
    "eyes device Altman testbed for as Korea first"
+  ],
+  [
+   "2026-07-28T14:12:22.431795+09:00",
+   "한전기술지주 ~SKT 출범 자회사 사장에 7일 한전 8월 이종민 SKT부사장"
   ]
  ],
- "last_run": "2026-07-28T14:10:50.966191+09:00",
+ "last_run": "2026-07-28T14:12:40.337105+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
