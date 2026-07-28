@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=243213",
-  "https://www.gamechosun.co.kr/webzine/article/view.php?no=223705",
-  "http://www.ddanzi.com/890494279",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1278544",
-  "https://byline.network/?p=9004111222613300",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105435",
   "https://www.cnbizm.com/news/articleView.html?idxno=309788",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=256608",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070529",
@@ -2999,15 +2993,15 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83467",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356549",
   "https://kpenews.com/View.aspx?No=4164649",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852696"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852696",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240646",
+  "https://www.aitimes.com/news/articleView.html?idxno=213219",
+  "https://www.geconomy.co.kr/news/article.html?no=322284",
+  "https://www.seoulfn.com/news/articleView.html?idxno=634365",
+  "https://www.aitimes.com/news/articleView.html?idxno=213256",
+  "https://www.abcn.kr/news/articleView.html?idxno=89877"
  ],
  "seen_titles": [
-  "브랜딥,생성형AI의건기식브랜드추천순위공개",
-  "3G못끄는통신사…6G시대'4개이동통신망'부담커진다",
-  "갤럭시Z8시리즈·스마트워치사전판매시작…이통3사프로모션경쟁",
-  "2026LCK3R1주차예고...‘통신사매치’부터MSI-EWC챔피언맞대결...",
-  "[뉴공아카이브]겸손NSC:李브라질도착…첫남미3개국순방기대성...",
-  "강남구'파워코리아'스마트시티상수상",
   "라온시큐어화이트해커23명,데프콘CTF본선진출",
   "[갤럭시8Z사전예약]D-1,과장광고피해방지체크리스트",
   "SK텔레콤,갤럭시Z폴드8울트라등사전예약돌입…넷플릭스연계혜...",
@@ -6001,7 +5995,13 @@
   "엔비디아젠슨황,미상무장관회동…중국AI칩수출규제논의",
   "나신평\"SK텔레콤1조5000억출자,신용도영향제한적\"",
   "갤럭시Z8출시에요동치는통신시장..단통법없자보조금경쟁불붙었...",
-  "삼성SDS-앤트로픽,클로드로기업AX키운다"
+  "삼성SDS-앤트로픽,클로드로기업AX키운다",
+  "[이동통신②]5GSA전환그다음은…AI·산업현장'수익화'시급",
+  "AI낙관론에'지구종말가'BGM...메타신규광고의모순",
+  "AI과열우려에반도체주'패닉셀'…샌디스크14%폭락,애플은시총5조...",
+  "[뉴욕증시]실적發순환매·반도체투매'혼조'···WTI70달러아래로",
+  "[7월28일]\"모델이문제인가,샌드박스가문제인가\"...오픈AI해킹사건...",
+  "내손안의글로벌서재"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,21 @@
   [
    "2026-07-29T06:54:22.898879+09:00",
    "중국 상무장관 회동 논의 규제 젠슨 수출"
+  ],
+  [
+   "2026-07-29T07:00:38.709051+09:00",
+   "현장 수익화 SA 산업 시급 그다음은 5G"
+  ],
+  [
+   "2026-07-29T07:00:38.709051+09:00",
+   "모델이 문제인가 사건 샌드박스가"
+  ],
+  [
+   "2026-07-29T07:00:38.709051+09:00",
+   "서재 안의 글로벌"
   ]
  ],
- "last_run": "2026-07-29T06:58:32.968928+09:00",
+ "last_run": "2026-07-29T07:01:08.117961+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
