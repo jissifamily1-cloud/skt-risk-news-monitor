@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tjb.co.kr/news05/bodo/view/id/101540",
-  "https://www.newspim.com/news/view/20260727000941",
-  "https://www.ytn.co.kr/_ln/0102_202607271639381514",
-  "http://www.press9.kr/news/articleView.html?idxno=80104",
-  "https://www.yna.co.kr/view/AKR20260727124000009?input=1195m",
-  "https://www.peoplewatch.co.kr/article/view/ppw202607270007",
   "http://www.press9.kr/news/articleView.html?idxno=80110",
   "https://dealsite.co.kr/articles/166004",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=661287",
@@ -2999,15 +2993,15 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3648315",
   "http://www.ikoreanspirit.com/news/articleView.html?idxno=86526",
   "https://www.venturesquare.net/1101604/",
-  "https://www.tokenpost.kr/news/breaking/382071"
+  "https://www.tokenpost.kr/news/breaking/382071",
+  "https://biz.sbs.co.kr/article_hub/20000325060?division=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621962",
+  "https://www.ekn.kr/web/view.php?key=20260728028026735",
+  "https://biz.sbs.co.kr/article_hub/20000325061?division=NAVER",
+  "https://www.yna.co.kr/view/AKR20260728060700009?input=1195m",
+  "https://www.ppss.kr/news/articleView.html?idxno=303401"
  ],
  "seen_titles": [
-  "11.9km달리며소방관의희생기억한다,LGU+,‘메모리얼런’개최",
-  "코스피,6750선강보합마감…반도체변동성속AI협력기대버팀목",
-  "美WSJ\"하이닉스ADR,AI과열신호\"···국내보통주,격차좁힐까",
-  "AMD컴퓨팅자원대덕에온다…대전국가과학AI연구센터와협력",
-  "깊이가다른글로벌투자정보GAM-맛보기편(7/27)",
-  "코스피1%·코스닥2%상승...'한미AI협력주'강세",
   "롯데카드,개인정보유출제재31일결론",
   "FT,남북핵잠경쟁조명…\"동북아해양안보지형흔든다\"",
   "KT개인정보유출제재29일심의..과징금얼마맞올까?",
@@ -6001,7 +5995,13 @@
   "대한민국전몰군경유족회포천시지회,제24회6·25전사자추모제참석",
   "AI시대메타데이터의미래를묻다…국립중앙도서관,DCMI2026개최",
   "AI주차플랫폼블루스퀘어,디캠프오피스아워선정…모빌리티협력기...",
-  "솔리도머니해킹…SUPRA2.94억개도난"
+  "솔리도머니해킹…SUPRA2.94억개도난",
+  "코스피,미반도체쇼크에8%급락...매도사이드카",
+  "“글로벌모델과경쟁”…카카오,스마트폰용경량AI모델4종오픈소...",
+  "“한국은황금기”라더니…엔비디아논란에코스피‘검은화요일’[머...",
+  "엔비디아보증리스크에와르르...애플시총1위대반전",
+  "NYT\"키미,오픈소스지만대부분사용자는유료이용\"",
+  "위메이드위믹스,77억원규모해킹피해...반복되는보안논란에신뢰..."
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,21 @@
   [
    "2026-07-28T11:40:31.675044+09:00",
    "SUPRA 도난 94억 솔리도머니"
+  ],
+  [
+   "2026-07-28T11:42:22.685563+09:00",
+   "한국은 논란에 화요일 황금기 코스피 검은 라더니"
+  ],
+  [
+   "2026-07-28T11:42:22.685563+09:00",
+   "보증리스크에 대반전 와르르 시총1위 애플"
+  ],
+  [
+   "2026-07-28T11:42:22.685563+09:00",
+   "NYT 사용자는 오픈소스지만 유료 이용 키미 대부분"
   ]
  ],
- "last_run": "2026-07-28T11:40:55.309389+09:00",
+ "last_run": "2026-07-28T11:42:51.506054+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
