@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202607272046025",
-  "https://www.cstimes.com/news/articleView.html?idxno=714783",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443274",
-  "https://www.sidae.com/article/2026072413012349438",
-  "https://www.khan.co.kr/article/202607272051035",
-  "https://news.jtbc.co.kr/article/NB12310380?influxDiv=NAVER",
-  "https://biz.chosun.com/international/international_economy/2026/07/27/WV5IGV5KRVGRHBYDXMIE52KZNI/",
-  "https://www.tjb.co.kr/news05/bodo/view/id/101560",
-  "https://www.tjb.co.kr/news05/bodo/view/id/101556",
-  "https://www.ngetnews.com/news/articleView.html?idxno=551842",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=267809",
   "https://www.polinews.co.kr/news/articleView.html?idxno=738227",
   "http://www.econonews.co.kr/news/articleView.html?idxno=441889",
@@ -2999,19 +2989,19 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1396165",
   "https://www.m-i.kr/news/articleView.html?idxno=1396148",
   "https://www.news2day.co.kr/article/20260728500165",
-  "https://www.aitimes.com/news/articleView.html?idxno=213265"
+  "https://www.aitimes.com/news/articleView.html?idxno=213265",
+  "https://www.mt.co.kr/tech/2026/07/28/2026072812591745177",
+  "https://www.gokorea.kr/news/articleView.html?idxno=873329",
+  "https://www.huffingtonpost.kr/article/259055",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254146&CMPT_CD=P0010",
+  "http://coinreaders.com/249909",
+  "https://www.nocutnews.co.kr/news/6554496",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7175935",
+  "https://www.ajunews.com/view/20260728145405264",
+  "https://www.youthdaily.co.kr/news/article.html?no=223941",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=606443"
  ],
  "seen_titles": [
-  "브랜딥,생성형AI브랜드노출분석서비스출시",
-  "[AI판결돋보기]오세훈은'천하의거짓말쟁이'라했지만…법원은'명...",
-  "피지컬AI,연구실밖으로…엑스와이지,세미휴머노이드‘듀스’실매...",
-  "“최상위AI는핵무기”…격차좁혀진미·중,‘AI통제조약’추진설",
-  "[기자수첩]미흡한코드게이트해커톤",
-  "LG전자“액체냉각설비,국내첫엔비디아인증”",
-  "엔비디아·브룩필드에서100억달러…네이버,AI투자·인프라조달확보",
-  "인천환경공단,전국공공기관최초'AI활용보고문서사전검증'제도...",
-  "[7월28일자]비즈니스포스트아침의주요기사",
-  "'보안검증패싱'허겁지겁만든시스템…외교부해킹피해자초",
   "얇아졌지만더안전하고오래간다…‘실리콘카본’으로배터리성능...",
   "[앵커한마디]AI선언과실리콘밸리교훈",
   "엔비디아,글로벌AI보안연합체구축…네이버·SKT참여",
@@ -6001,7 +5991,17 @@
   "[기획]\"핵심기술유출차단\"…산업계,생성형AI보안투트랙전략",
   "[기획]글로벌빅테크'맞춤AI'격돌…보안빗장푼다",
   "[현장]자율주행일상화,관건은차보다도시",
-  "애플,시가총액1위복귀…엔비디아는'AI순환투자'우려로5%하락"
+  "애플,시가총액1위복귀…엔비디아는'AI순환투자'우려로5%하락",
+  "통신3사57.5만원지원금에…갤럭시Z폴드8,실구매가170만원",
+  "미국증시위기…SK하이닉스·스페이스X등주요기업주가급락",
+  "애플,세계시가총액1위기업자리탈환:투자자들은'AI·반도체강세...",
+  "이대통령만난젠슨황\"SK그룹과5천억달러파트너십발표\"",
+  "암호화폐,클래러티법좌초되면죽는다?...\"'이코인'들은생존한다\"",
+  "동반서킷브레이커까지…코스닥700무너져,코스피6천위태",
+  "\"'반도체거품론'무엇?\"…삼성·SK,美빅테크와9500억달러협력",
+  "통신3사갤럭시폴더블8사전예약돌입…넷플릭스·구글혜택경쟁",
+  "하나자산운용,엔비디아·알파벳투자ETF상장...연금자산배분공략",
+  "SK하이닉스,강남르메르디앙부지사옥건립하나"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,13 @@
   [
    "2026-07-28T14:56:18.392256+09:00",
    "데이터 쿠폰 장기고객 축소 없는 이통3사 생색 할인은"
+  ],
+  [
+   "2026-07-28T14:58:15.442409+09:00",
+   "르메르디앙 SK하이닉스 건립하나 강남 부지 사옥"
   ]
  ],
- "last_run": "2026-07-28T14:56:42.119188+09:00",
+ "last_run": "2026-07-28T14:58:33.438516+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
