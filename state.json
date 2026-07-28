@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3648298",
-  "https://www.sedaily.com/article/20072720",
-  "https://www.seoul.co.kr/news/economy/2026/07/28/20260728500108?wlog_tag3=naver",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208300",
-  "https://www.dizzotv.com/site/data/html_dir/2026/07/28/2026072880019.html",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3648320",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3648315",
-  "http://www.ikoreanspirit.com/news/articleView.html?idxno=86526",
-  "https://www.venturesquare.net/1101604/",
-  "https://www.tokenpost.kr/news/breaking/382071",
-  "https://biz.sbs.co.kr/article_hub/20000325060?division=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621962",
   "https://www.ekn.kr/web/view.php?key=20260728028026735",
   "https://biz.sbs.co.kr/article_hub/20000325061?division=NAVER",
@@ -2999,20 +2988,20 @@
   "https://www.econovill.com/news/articleView.html?idxno=746498",
   "https://www.chosun.com/economy/stock-finance/2026/07/29/QOMCZJUU3VBEFERFHVMKEYY7V4/",
   "https://www.viva100.com/article/20260729500098",
-  "https://www.socialvalue.kr/news/view/1065568765852423"
+  "https://www.socialvalue.kr/news/view/1065568765852423",
+  "https://www.bntnews.co.kr/article/view/bnt202607290112",
+  "https://www.theguru.co.kr/news/article.html?no=105034",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=404856",
+  "https://economist.co.kr/article/view/ecn202607290004",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7176401",
+  "https://www.ajunews.com/view/20260729081319127",
+  "https://www.g-enews.com/view.php?ud=2026072908391769427fa31d75c_1",
+  "https://www.kpinews.kr/newsView/1065569586743984",
+  "https://www.sisaweek.com/news/articleView.html?idxno=236953",
+  "https://www.econovill.com/news/articleView.html?idxno=746501",
+  "http://www.beyondpost.co.kr/view.php?ud=20260729084134552146a9e4dd7f_30"
  ],
  "seen_titles": [
-  "아모레퍼시픽,70년연구데이터AI통합…12일업무'5분'만에끝낸다",
-  "[시민기자]조선왕조실록과달항아리‘환월’의하모니",
-  "장종태\"공공기관2차이전골든타임…대전정치권원팀으로대응해야\"",
-  "드디어입연앤트로픽…“오픈웨이트반대하지않지만젠슨황주장엔...",
-  "호반혁신기술공모전선정10개사,코엑스서‘혁신기술’선보인다",
-  "글로벌벤처투자사들만난이대통령\"다음세대삼성·현대만들자\"…...",
-  "갤럭시Z폴드8사전예약개시...이통3사,혜택경쟁돌입",
-  "대전교통공사,폭염특보에긴급시설점검…궤도·전차선등예방총력",
-  "대한민국전몰군경유족회포천시지회,제24회6·25전사자추모제참석",
-  "AI시대메타데이터의미래를묻다…국립중앙도서관,DCMI2026개최",
-  "AI주차플랫폼블루스퀘어,디캠프오피스아워선정…모빌리티협력기...",
   "솔리도머니해킹…SUPRA2.94억개도난",
   "코스피,미반도체쇼크에8%급락...매도사이드카",
   "“글로벌모델과경쟁”…카카오,스마트폰용경량AI모델4종오픈소...",
@@ -6001,7 +5990,18 @@
   "밀리의서재,여름끝자락책네권으로완독의재미살린다",
   "황의저주?",
   "한국남동발전,차세대발전설비관리시스템‘GENi2.0’공식오픈",
-  "SK하이닉스.2분기실적도역대급…영업이익60.5조로557%증가"
+  "SK하이닉스.2분기실적도역대급…영업이익60.5조로557%증가",
+  "‘그대에게드림’백성철,청춘열연",
+  "美,제너럴다이내믹스잠수함9척건조계약승인…SK오션플랜트기대감...",
+  "뤼튼,데프콘본선진출'콜드퓨전'공식후원…AI보안기술지원",
+  "SK하이닉스2분기영업이익60.5조‘사상최대’…“수요성장세지속...",
+  "AI특수제대로탄SK하이닉스,상반기매출130조신기록",
+  "[종합]SK하이닉스,2분기영업이익률76%달성…TSMC도뛰어넘었다",
+  "SK하이닉스2분기영업이익60.5조·매출79.3조…'역대최대'",
+  "경북ICT콤플렉스,포항첨단해양R&D센터에설치",
+  "KT,개인정보위과징금임박…실적영향관심",
+  "SK브로드밴드,카메라앞에선아이들방송의꿈을찍다",
+  "kt밀리의서재,'제철독서챌린지'8월추천도서4권공개"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,25 @@
   [
    "2026-07-29T08:42:17.810325+09:00",
    "행복얼라이언스 SKB 지역 실습 방송국 견학 스쿨 어린이"
+  ],
+  [
+   "2026-07-29T08:46:16.970831+09:00",
+   "실적 개인정보위 임박 관심 영향 ~KT 과징금"
+  ],
+  [
+   "2026-07-29T08:46:16.970831+09:00",
+   "방송의 찍다 아이들 앞에 꿈을 카메라"
+  ],
+  [
+   "2026-07-29T08:46:16.970831+09:00",
+   "특수 매출 신기록 상반기 130조 제대로 SK하이닉스"
+  ],
+  [
+   "2026-07-29T08:46:16.970831+09:00",
+   "독서 추천 챌린지 도서 제철 4권 ~KT 8월 공개 밀리의서재"
   ]
  ],
- "last_run": "2026-07-29T08:44:35.124178+09:00",
+ "last_run": "2026-07-29T08:46:42.760584+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
