@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070556",
-  "https://www.etoday.co.kr/news/view/2608279",
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=1755",
-  "https://www.munhwa.com/article/11605555",
-  "https://www.meconomynews.com/news/articleView.html?idxno=133163",
-  "http://www.wsobi.com/news/articleView.html?idxno=315878",
-  "https://www.yna.co.kr/view/AKR20260728086000083?input=1195m",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848583",
-  "https://www.mediapen.com/news/view/1112684",
-  "https://www.bntnews.co.kr/article/view/bnt202607280212",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396017",
   "https://www.idaegu.com/news/articleView.html?idxno=664634",
   "https://www.gukjenews.com/news/articleView.html?idxno=3648575",
   "http://www.iminju.net/news/articleView.html?idxno=167228",
@@ -2999,20 +2988,20 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=119466",
   "https://news.jtbc.co.kr/article/NB12310411?influxDiv=NAVER",
   "https://www.sedaily.com/article/20073152",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149706"
+  "https://www.smartbizn.com/news/articleView.html?idxno=149706",
+  "https://www.itbiznews.com/news/articleView.html?idxno=220289",
+  "https://www.koit.co.kr/news/articleView.html?idxno=208206",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=131289",
+  "https://economist.co.kr/article/view/ecn202607290018",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876390",
+  "https://www.eroun.net/news/articleView.html?idxno=86485",
+  "https://www.klnews.co.kr/news/articleView.html?idxno=322087",
+  "https://zdnet.co.kr/view/?no=20260729092921",
+  "https://www.ddaily.co.kr/page/view/2026072909310145492",
+  "https://www.eroun.net/news/articleView.html?idxno=86484",
+  "https://www.ngonews.kr/news/articleView.html?idxno=234033"
  ],
  "seen_titles": [
-  "‘독파모’국민이직접써보고절대평가…정부,200명평가단공모",
-  "KT,갤럭시Z폴드8·플립8사전예약실시…'더블스토리지'등다양한...",
-  "‘AI강국’핵심거점,국가AI컴퓨팅센터다음달해남에착공",
-  "\"70년화장품연구,AI와만났다\"…아모레,또한번의'도전역사'쓴...",
-  "미래에셋자산운용·한국투자증권'TIGER미국필라델피아반도체나스닥E...",
-  "美제재속'中반도체굴기'새국면…IPO성공·기술자립본격시도",
-  "[#꿀혜택]이마트'고래잇페스타'·G마켓'브랜드페스타'·파리바게뜨...",
-  "조정식,입법·개헌속도전...“본회의부의법안,회기내처리”",
-  "황인엽X이혜리‘그대에게드림’,15년전교통사고후폭풍",
-  "[카드톡톡]AI오픈소스부터삼성월렛결합·즉시할인까지…카드업계,...",
-  "2026년프로야구흥행폭발...역대최소경기800만관중돌파·구장별평...",
   "고창꽃정원,여름꽃만개…면도102호선인도완공으로접근성↑",
   "[이원두칼럼]인공지능⁃반도체경쟁력높인'한미AI동맹'",
   "[시장따라잡기]하반기반도체꺾이고'금리인상수혜'금융주뜨나?",
@@ -6001,7 +5990,18 @@
   "갤럭시Z8사전예약시작…방미통위\"과장광고·허위지원금주의\"",
   "KBS이사회열린다…신임KBS사장선임절차밟을까",
   "“한국어성능1위”…크래프톤,음성AI파운데이션모델공개",
-  "크래프톤,자체음성AI공개···AI캐릭터개발속도"
+  "크래프톤,자체음성AI공개···AI캐릭터개발속도",
+  "'세기의이혼'다음타자는권혁빈…특유재산깬법원,오너지배구조...",
+  "SK하이닉스,2026년2분기영업익60.5조…역대최대실적",
+  "SK하이닉스,2분기매출79조·영업익61조'사상최대'…반기누적매...",
+  "펀더멘털은그대로라더니…미래에셋證\"SK하닉,목표가33%↓\"",
+  "SK텔레콤,독파모2차모델공개…\"제조·국방·바이오로확산\"",
+  "SKT,AI파운데이션모델'A.XK2'공개…산업전반AI전환속도높인다",
+  "우체국트럭도AI시대…마스오토,자율주행화물운송확대",
+  "우체국트럭20대에자율주행장비…마스오토,물류망실증확대",
+  "“뉴스이렇게만들어요”…SKB,Btv인천방송서어린이방송실습",
+  "SK브로드밴드,'행복얼라이언스스쿨'통해지역어린이대상방송국체...",
+  "국제무대선도하는'일잘러'이재명대통령을흔들지마라."
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,13 @@
   [
    "2026-07-29T09:44:16.483752+09:00",
    "진출팀 후원 뤼튼 데프콘 해킹대회 본선 국제"
+  ],
+  [
+   "2026-07-29T09:48:22.565090+09:00",
+   "일잘러 선도하는 대통령을 마라 이재명 국제무대 흔들지"
   ]
  ],
- "last_run": "2026-07-29T09:46:34.145821+09:00",
+ "last_run": "2026-07-29T09:48:46.456040+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
