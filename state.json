@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7176325",
-  "https://www.thelec.kr/news/articleView.html?idxno=60172",
-  "https://www.donga.com/news/Economy/article/all/20260728/134379780/1",
-  "https://www.koreatimes.co.kr/path/A2026072214520004833",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260728010010227",
-  "https://www.topdaily.kr/articles/111169",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=142183",
   "https://www.aitimes.com/news/articleView.html?idxno=213269",
   "https://www.ceoscoredaily.com/page/view/2026072815334406566",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04218086645519440",
   "https://www.irobotnews.com/news/articleView.html?idxno=47658",
   "https://www.thisisgame.com/articles/428268",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649585"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3649585",
+  "http://www.wsobi.com/news/articleView.html?idxno=315929",
+  "https://www.smartbizn.com/news/articleView.html?idxno=149727",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5208936",
+  "https://view.asiae.co.kr/article/2026072815270775394",
+  "https://www.joongang.co.kr/article/25449076",
+  "http://www.newsprime.co.kr/news/article.html?no=741904"
  ],
  "seen_titles": [
-  "카카오,경량AI‘카나나-2’공개",
-  "[ED]Korea'sambitiousAIvision",
-  "시총1위쥔애플,SK하이닉스ADR은급락…반도체판변수커졌다",
-  "SK텔레콤,CAPEX늘어날까…AIDC가변곡점",
-  "이재용·최태원회장'AI광폭행보',증시는왜'중국發공포'에더반...",
-  "알트먼\"인류는이미'특이점'진입…기술보다AI권력독점이큰위험...",
   "‘위믹스’1년만에또보안사고…77억원규모해킹유출,신뢰회복...",
   "톰리\"AI약세론틀렸다\"...엔비디아(NVDA),공포가강세시그널?",
   "KT위즈·원피스,프로야구와이색브랜드데이예고...쵸파시구자등판",
@@ -6001,7 +5995,13 @@
   "장동혁\"선관위특검법내일통과못하면정권몰락시작\"",
   "마스오토,우체국물류망에자율주행확대…'국가AI프로젝트'가속화",
   "엔비디아,'헤일로:캠페인이볼브드'등최신게임에DLSS적용확대",
-  "하남시,맞춤형노인복지생태계구축…어르신삶의질높인다"
+  "하남시,맞춤형노인복지생태계구축…어르신삶의질높인다",
+  "금융권,우수FP자녀해외어학연수지원·'금모으기이벤트'진행·'삼...",
+  "AI인프라가만든150조영업이익···삼성·SK,글로벌기업사다시썼...",
+  "장동혁\"'선관위특검'더미루면정권몰락시작…전산조작도수사해야...",
+  "[정책의맥]'AI리그'도전략패할것인가",
+  "SKT,독파모2차AI모델공개…현장성·상용화초점",
+  "금전피해·해킹은폐까지…KT,과징금규모촉각"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,13 @@
   [
    "2026-07-29T11:34:15.908448+09:00",
    "게임에 이볼브드 헤일로 최신 확대 캠페인 DLSS 적용"
+  ],
+  [
+   "2026-07-29T11:38:17.669372+09:00",
+   "SK 삼성 글로벌 다시 150조 기업사 만든 인프라가 영업이익"
   ]
  ],
- "last_run": "2026-07-29T11:36:44.837586+09:00",
+ "last_run": "2026-07-29T11:38:36.977803+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
