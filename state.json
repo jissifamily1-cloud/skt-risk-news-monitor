@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3420722",
-  "https://www.newspim.com/news/view/20260728001148",
-  "https://www.joongang.co.kr/article/25448880",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853036",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166612",
-  "https://www.joongang.co.kr/article/25448996",
-  "https://www.joongang.co.kr/article/25448994",
-  "https://www.news1.kr/world/international-economy/6242011",
-  "https://www.g-enews.com/view.php?ud=2026072819150087579a1f309431_1",
-  "https://www.hankookilbo.com/news/article/A2026072816330004867?did=NA",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=313469",
   "https://biz.sbs.co.kr/article_hub/20000325209?division=NAVER",
   "https://www.news2day.co.kr/article/20260729500002",
@@ -2999,19 +2989,19 @@
   "https://www.idaegu.co.kr/news/articleView.html?idxno=555240",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=83841",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427599",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7176581"
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7176581",
+  "http://www.4th.kr/news/articleView.html?idxno=2115464",
+  "https://isplus.com/article/view/isp202607290140",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607290461&t=NNv",
+  "https://www.ddaily.co.kr/page/view/2026072917361441802",
+  "https://www.econovill.com/news/articleView.html?idxno=746572",
+  "https://bizhankook.com/articles/mythos-ai-control-needed.html",
+  "https://www.tokenpost.kr/news/cryptocurrency/382587",
+  "http://www.srtimes.kr/news/articleView.html?idxno=208647",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89302",
+  "https://kookbang.dema.mil.kr/newsWeb/20260730/9/ATCE_CTGR_0020020015/view.do"
  ],
  "seen_titles": [
-  "지난해대포폰2만건…6일부터휴대폰개통시안면인증도입",
-  "이통사수익모델까지바꾸는AI…‘토큰요금제’도입움직임[ICT]",
-  "“휴대폰개통한다고요?얼굴부터대세요”…내일부터안면인증시작",
-  "“120만원→50만원,이게웬일이냐”삼성이례적‘할인’에…이통사...",
-  "美4년만의주파수경매흥행에글로벌통신시장활기…韓‘재할당’...",
-  "이통3사,작년보안투자·인력늘어...KT,투자증가율가장낮아",
-  "이통3사,2분기실적희비⋯SKT·LGU+‘실적회복’,KT‘숨고르기’",
-  "삼성프로모션·데이터안심옵션효과···번호이동증가세,시장달아...",
-  "대법원,검사에게어느죄로공소제기석명구하지않고유죄판단원심...",
-  "[GAM]디웨이브퀀텀②경쟁심화속성장가능성주목",
   "[GAM]디웨이브퀀텀①AT&T와양자컴퓨팅계약확대",
   "[법정칼럼]개인정보유출대처가이드",
   "트럼프,한국戰참전용사추모…\"한미는변함없는동맹\"",
@@ -6001,7 +5991,17 @@
   "국힘\"선관위특검수사범위무제한·야당추천\"압박…'올공청년'간담...",
   "LG유플러스,자사주900억원매입·중간배당확대…AI데이터센터에1조...",
   "LG유플러스,파주AIDC2단계구축에1.3조추가투자",
-  "LG유플러스,900억원규모자사주추가매입"
+  "LG유플러스,900억원규모자사주추가매입",
+  "LG플러스,파주AI데이터센터에1.3조투자…AI인프라확장본격",
+  "‘그대에게드림’이상엽과취중하룻밤…이지민,직진행보눈길",
+  "\"5g더가볍게\"...삼성전자여기서도일낸다[참견하는기자]",
+  "[컨콜종합]크래프톤,'배그'를플랫폼으로…'서브노티카2'는2년간키...",
+  "700억투입한티몬재오픈불투명…오아시스마켓,'본업경쟁력강화'집...",
+  "[미토스쇼크]②확산하는'미토스급'AI\"성능보다중요한건통제력\"",
+  "XRP,1.08달러대반등세…지지선및규제변수주목",
+  "LG유플러스,주주가치제고위한900억원규모자사주추가매입",
+  "LG유플러스,900억원자사주취득…주당270원중간배당",
+  "AI시대에도성공원칙은결국‘사람을다루는기술’"
  ],
  "recent_sigs": [
   [
@@ -6715,9 +6715,13 @@
   [
    "2026-07-29T17:42:23.049930+09:00",
    "시작 위기 기회 연속 코스피 아닌 대폭락 이틀 투자"
+  ],
+  [
+   "2026-07-29T17:48:21.117593+09:00",
+   "시대에도 원칙은 결국 사람을 다루는 성공 기술"
   ]
  ],
- "last_run": "2026-07-29T17:46:42.082428+09:00",
+ "last_run": "2026-07-29T17:48:38.658451+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
