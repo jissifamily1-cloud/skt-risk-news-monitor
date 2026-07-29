@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/249919",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=754635",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404830",
-  "https://www.mk.co.kr/article/12109482",
-  "https://biz.chosun.com/stock/stock_general/2026/07/28/KCC35MFLQJFFFD722N3GD2MWX4/",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725200",
-  "https://www.imaeil.com/page/view/2026072815423384125",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360973",
-  "https://www.hani.co.kr/arti/international/international_general/1270332.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8622121",
-  "https://www.cwn.kr/news/articleView.html?idxno=51459",
   "https://www.mt.co.kr/world/2026/07/28/2026072815160915659",
   "https://www.etoday.co.kr/news/view/2608388",
   "https://www.joongangenews.com/news/articleView.html?idxno=535931",
@@ -2999,20 +2988,20 @@
   "http://www.newsprime.co.kr/news/article.html?no=741904",
   "https://www.koreatimes.co.kr/path/A2026072214520004833",
   "http://www.kdfnews.com/news/articleView.html?idxno=185845",
-  "https://www.ytn.co.kr/_ln/0101_202607291137203142"
+  "https://www.ytn.co.kr/_ln/0101_202607291137203142",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3649593",
+  "https://www.inthenews.co.kr/news/article.html?no=89918",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=313556",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142183",
+  "https://www.aitimes.com/news/articleView.html?idxno=213269",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87274",
+  "https://biz.heraldcorp.com/article/10824219",
+  "https://www.mt.co.kr/tech/2026/07/29/2026072816535726030",
+  "https://biz.heraldcorp.com/article/10824223",
+  "https://view.asiae.co.kr/article/2026072909395662435",
+  "https://platum.kr/archives/291571"
  ],
  "seen_titles": [
-  "\"지상망끊기면위성망으로\"…스카일로,스마트폰활용위성통신서비...",
-  "美증시슈퍼루키굴욕…스페이스X·하닉ADR공모가붕괴",
-  "[마켓뷰]전쟁만큼무서운中반도체…코스피올해‘역대두번째하락...",
-  "'검은화요일'패닉셀…코스피10%폭락·장중6000선붕괴",
-  "HBM점유율79%K반도체…中과초격차유지안간힘",
-  "中메모리쇼크에코스피6020대로CXMT수급교란…삼성전자13%↓",
-  "인공지능전문가들“5년안에AI가무기만들어수백만살상가능성21...",
-  "5개월간전화·PC도안쓴모즈타바…“대체어디있나”CIA·모사드추...",
-  "AI보안주도권잡는다...엔비디아·네이버·SKT,글로벌연합출범",
-  "또증시발목,AI순환거래뭐길래…엔비디아·반도체주'출렁'",
-  "\"공정위는침묵,피해자는빈손\"…국회서쿠팡뒷수습질타",
   "아모레퍼시픽,연구AI플랫폼구축…12일걸리던업무'5분'으로단축",
   "다보링크,두봇손잡고로봇SI사업본격화'휴머노이드쇼룸'개장",
   "AI가바꾼SK실트론몸값…31일이사회매각분수령",
@@ -6001,7 +5990,18 @@
   "금전피해·해킹은폐까지…KT,과징금규모촉각",
   "[ED]Korea'sambitiousAIvision",
   "[AI자본전쟁③]'아끼는자'가이겼다…애플,15개월만에시총1위탈...",
-  "장동혁\"특검,선관위전산조작·해킹의혹등모두수사해야\""
+  "장동혁\"특검,선관위전산조작·해킹의혹등모두수사해야\"",
+  "진주시,'지속가능한농업·농촌'만들기혼신의힘기울인다",
+  "부산대예술대,부울경예술대생대상4주간커리어특강",
+  "SK하이닉스,'우린여기서멈추지않아'",
+  "이재용·최태원회장'AI광폭행보',증시는왜'중국發공포'에더반...",
+  "알트먼\"인류는이미'특이점'진입…기술보다AI권력독점이큰위험...",
+  "SKT,6880억매개변수'A.XK2'공개…제조·국방·바이오로AI확산",
+  "SK텔레콤,매개변수6880억개독자AI‘A.XK2’공개",
+  "개인정보유출과징금커지는데…KT제재결정할2가지핵심요소는?",
+  "SKB‘행복얼라이언스스쿨’서어린이방송제작체험진행",
+  "AI종사자1100여명\"AI발전속도조절필요…美,국제공조지원해야\"",
+  "마이스터즈,엔비디아인셉션프로그램합류"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,13 @@
   [
    "2026-07-29T11:40:32.773523+09:00",
    "장동혁 특검 선관위 전산조작 모두 의혹 수사해야"
+  ],
+  [
+   "2026-07-29T11:42:17.857588+09:00",
+   "필요 조절 종사자 지원해야 1100여명 국제공조 발전 속도"
   ]
  ],
- "last_run": "2026-07-29T11:40:50.853207+09:00",
+ "last_run": "2026-07-29T11:42:35.876831+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
