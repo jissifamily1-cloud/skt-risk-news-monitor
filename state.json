@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1671814/?sc=Naver",
-  "https://www.segye.com/newsView/20260728509617?OutUrl=naver",
-  "https://www.xportsnews.com/article/2176932",
-  "https://www.kgnews.co.kr/news/article.html?no=905073",
   "http://www.weeklytoday.com/news/articleView.html?idxno=787599",
   "https://byline.network/?p=9004111222613385",
   "https://www.techm.kr/news/articleView.html?idxno=153762",
@@ -2999,13 +2995,13 @@
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=251184",
   "https://news.ifm.kr/news/articleView.html?idxno=476019",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687865",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=360998"
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=360998",
+  "https://www.sidae.com/article/2026072910452712544",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718207",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443406",
+  "https://www.news1.kr/politics/assembly/6242479"
  ],
  "seen_titles": [
-  "이대로‘말복’에도치킨?초복에뜯고중복에도즐겼다",
-  "\"거의바닥\"쓴소리들으며2군행→후반기전경기안타'대반전',이제...",
-  "[특집]용인특례시'신갈오거리스마트도시재생사업',\"시민속으로다...",
-  "[위클리오늘]이랜드,KT&G,아모레퍼시픽소식(7.28)",
   "엔비디아,개방형AI보안연합출범…네이버·SK텔레콤참여",
   "KT,B2C·B2B고삐죈다...'AI데이터·원격운전'공략",
   "CIA·모사드,모즈타바'오리무중'…\"5개월간전화,PC도안써\"",
@@ -6001,7 +5997,11 @@
   "SK하이닉스,사상최대분기실적…TSMC·엔비디아넘어섰다",
   "[마켓+]통신주도'AI옥석가리기'…SKT·LG유플러스앞서고KT는장기전",
   "오픈AI·조니아이브'io'분쟁극적합의…법원도소송멈췄다",
-  "장경덕의정글노믹스(225)스스로뛰는억만장자가늘었다"
+  "장경덕의정글노믹스(225)스스로뛰는억만장자가늘었다",
+  "실적으로증명한'모어칩'수요…SK하이닉스,향후전망더좋다",
+  "[컨콜종합]SK하이닉스\"AI메모리수요장기화\"…5년LTA·HBM4로대응",
+  "메모리호황이어져도삼성전자SK하이닉스주가반등에'역부족'평가,...",
+  "'올공'목소리귀기울이는野\"전산조작포함특검법통과\"(종합)"
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,13 @@
   [
    "2026-07-29T11:00:43.502462+09:00",
    "늘었다 장경덕의 억만장자가 뛰는 정글노믹스 스스로"
+  ],
+  [
+   "2026-07-29T11:02:15.028279+09:00",
+   "전망 향후 SK하이닉스 실적으로 좋다 증명한 모어 수요"
   ]
  ],
- "last_run": "2026-07-29T11:01:09.268079+09:00",
+ "last_run": "2026-07-29T11:02:36.669892+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
