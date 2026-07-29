@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443333",
-  "http://www.segyebiz.com/newsView/20260728513418?OutUrl=naver",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661353",
   "https://www.chosun.com/economy/tech_it/2026/07/28/VTFWSCSA4JGKTJQAPERNFIRQLU/",
   "https://www.mt.co.kr/tech/2026/07/28/2026072816015073201",
   "https://www.seoul.co.kr/news/economy/securities/2026/07/28/20260728500217?wlog_tag3=naver",
@@ -2999,12 +2996,12 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=155572",
   "https://www.munhwa.com/article/11605795",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404885",
-  "https://www.etnews.com/20260729000184"
+  "https://www.etnews.com/20260729000184",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3649633",
+  "https://www.news1.kr/industry/general-industry/6242578",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207829"
  ],
  "seen_titles": [
-  "[기획]엔비디아'순환금융'공포?…SK스퀘어\"무관\"",
-  "젠슨황,오픈AI공동창업자수츠케버에50억달러쏘는이유는",
-  "라온시큐어화이트해커23명,'해킹올림픽'데프콘CTF본선진출",
   "[서울데이터랩]마감직후인기검색종목20選",
   "한국이딥페이크대응미흡?\"동아일보기사사실무근\"",
   "아모레퍼시픽이화장품연구에특화된AI플랫폼구축했다:70년축적한...",
@@ -6001,7 +5998,10 @@
   "SKT,6880억파라미터'A.XK2'공개…AI모델경쟁넘어산업전환정조...",
   "SKT,독자AI2차모델공개…“알리바바·딥시크와동급성능”",
   "마스오토,우체국물류망에자율주행확대…\"국가AI프로젝트가속\"",
-  "마이스터즈,엔비디아인셉션멤버선정…8월AI기반주거관리서비스..."
+  "마이스터즈,엔비디아인셉션멤버선정…8월AI기반주거관리서비스...",
+  "고창군,9488억원추경편성…군민1인당30만원지원",
+  "SK하닉2Q'사상최대'성적표…숫자보다중요한키워드LTA·낸드·증설",
+  "[단독]다크웹에\"배달의민족이용자4,200만명정보판매\"주장…우아한..."
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-07-29T11:52:21.410781+09:00",
    "2차모델 공개 독자 딥시크와 ~SKT 동급 성능 알리바바"
+  ],
+  [
+   "2026-07-29T11:54:23.771708+09:00",
+   "키워드 사상 성적표 낸드 숫자보다 LTA 2Q 중요한 증설 SK하닉"
   ]
  ],
- "last_run": "2026-07-29T11:52:43.673974+09:00",
+ "last_run": "2026-07-29T11:54:41.988669+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
