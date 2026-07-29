@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=212705",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683613",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683616",
   "https://www.newspim.com/news/view/20260713000274",
   "https://www.ddaily.co.kr/page/view/2026071309221602715",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=683483",
@@ -2999,12 +2996,12 @@
   "https://www.segye.com/newsView/20260729516070?OutUrl=naver",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87310",
   "https://www.kmib.co.kr/article/view.asp?arcid=1785311157&code=11141400&cp=nv",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443486"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443486",
+  "https://www.gnnews.co.kr/news/articleView.html?idxno=642076",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3650239",
+  "https://zdnet.co.kr/view/?no=20260729180415"
  ],
  "seen_titles": [
-  "AI가격전쟁,불붙었다…샘알트먼\"앤트로픽1/4가격도가능\"",
-  "오픈AI,프롬프트인젝션잡는내부AI'GPT-Red'공개",
-  "뉴욕주,AI데이터센터신축불허\"전력·용수고갈통제불능\"",
   "앤트로픽신규광고에'공포마케팅'혹평...알트먼\"사칭계정인줄\"조...",
   "허사비스\"AGI달성눈앞…미국주도AI자율규제연내신설해야\"",
   "'코덱스'700만돌파하루만에800만...알트먼\"미친성장세\"",
@@ -6001,7 +5998,10 @@
   "모호한공소장으로유죄…대법“다시재판”",
   "현대차,'디올뉴아반떼'기술설명회…\"준중형넘어프리미엄세단...",
   "美,중국산첨단로봇수입차단…‘제2희토류사태’예방",
-  "금감원'제3자IT리스크가이드라인'마련,금융회사이사회에최종책..."
+  "금감원'제3자IT리스크가이드라인'마련,금융회사이사회에최종책...",
+  "한국전력공사경남본부'에너지절약·자연보전'캠페인",
+  "민형배시장,2027년국비확보총력…AI·반도체등중점70건3,836억선...",
+  "KT,외국인통신서비스불편사항개선검토"
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,13 @@
   [
    "2026-07-29T18:40:27.255381+09:00",
    "중국 AI생태계 노광장비 속도내지만 한계는 구축 개발 자체"
+  ],
+  [
+   "2026-07-29T18:56:18.192237+09:00",
+   "외국인 통신 불편사항 서비스 개선 ~KT 검토"
   ]
  ],
- "last_run": "2026-07-29T18:54:45.039910+09:00",
+ "last_run": "2026-07-29T18:56:39.359594+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
