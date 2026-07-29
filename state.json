@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20072087",
-  "http://www.newsprime.co.kr/news/article.html?no=741793",
-  "https://www.catchnews.kr/news/articleView.html?idxno=126674",
-  "https://www.news1.kr/finance/general-stock/6241404",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3648665",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848594",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718086",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848613",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04450966645519112",
   "http://www.fnnews.com/news/202607281427129471",
   "https://www.gukjenews.com/news/articleView.html?idxno=3648669",
@@ -2999,17 +2991,17 @@
   "https://www.socialvalue.kr/news/view/1065591016324423",
   "http://www.4th.kr/news/articleView.html?idxno=2115405",
   "http://www.fnnews.com/news/202607291014021349",
-  "https://www.joongangenews.com/news/articleView.html?idxno=536234"
+  "https://www.joongangenews.com/news/articleView.html?idxno=536234",
+  "https://www.news1.kr/world/international-economy/6242368",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41205",
+  "https://www.etnews.com/20260729000131",
+  "https://www.sentv.co.kr/article/view/sentv202607290059",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=119523",
+  "http://autotimes.co.kr/detail.php?number=688621&thread=27",
+  "https://www.inthenews.co.kr/news/article.html?no=89897",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097650"
  ],
  "seen_titles": [
-  "독파모프로젝트국민평가단모집",
-  "\"아모레70년연구자산수백만건'AI데이터'로\"KT'데이터하이웨이'완...",
-  "\"퇴직연금으로글로벌AI투자\"…하나운용,엔비디아·구글채권ETF출시",
-  "[동정]추경호대구광역시장",
-  "국산NPU기반AICCTV로공공관제체계전환추진",
-  "[운용&Now]한투운용,'ACEESG액티브ETF'연초이후수익률1위등",
-  "출연연퇴직연구원파일6만개통째빼갔다…보안과제까지무방비유출",
-  "대만,엔비디아직원구속…AI칩중국밀반출수사확대",
   "통신3사,갤럭시Z8로고객유치경쟁…사전예약혜택보니",
   "[동정]김정기대구광역시행정부시장",
   "더그래프,AI에이전트용'서브스트림스스킬'10개전문기능으로확대",
@@ -6001,7 +5993,15 @@
   "“AI가추천한상품산다”…카페24,생성형AI쇼핑유입72%↑",
   "SKT,독자AI'A.XK2'공개…제조·업무·일상확장",
   "SKT,6880억개매개변수'A.XK2'공개…철강·車·국방·바이오에적용",
-  "SK텔레콤주가,7월29일장중80,900원1.58%하락"
+  "SK텔레콤주가,7월29일장중80,900원1.58%하락",
+  "美빅테크연구진1100명\"첨단AI개발속도국제적으로관리해야\"",
+  "아모데이\"오픈웨이트모델금지하자고주장한적없다\"...'AI칩대중국...",
+  "어빌리티시스템즈,기술유출방지시스템구축사업공급기업선정",
+  "크래프톤,음성AI모델‘A.XK2라온스피치’공개",
+  "SK텔레콤,독자AI모델'A.XK2'공개…산업현장·일상AI전환지원본...",
+  "우체국물류망에자율주행들어왔다",
+  "SKB,어린이대상방송제작체험‘행복얼라이언스스쿨’진행",
+  "개보위,오늘KT개인정보유출제재수위결정"
  ],
  "recent_sigs": [
   [
@@ -6529,7 +6529,7 @@
    "60조 미스 AI메모리 못한 웃지 영업이익에도 훈풍 SK하이닉스 어닝"
   ]
  ],
- "last_run": "2026-07-29T10:24:37.084566+09:00",
+ "last_run": "2026-07-29T10:26:31.763854+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
