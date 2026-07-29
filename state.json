@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260728233057EmA",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396357",
-  "http://www.osen.co.kr/article/G1112848061",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008679356&plink=ORI&cooper=NAVER",
-  "https://www.ytn.co.kr/_ln/0107_202607282313270598",
-  "https://sports.khan.co.kr/article/202607282309003?pt=nv",
-  "https://www.nocutnews.co.kr/news/6554816",
   "https://www.inven.co.kr/webzine/news/?news=318948",
   "https://sports.khan.co.kr/article/202607282300006?pt=nv",
   "https://www.yna.co.kr/view/AKR20260728170751007?input=1195m",
@@ -2999,16 +2992,16 @@
   "https://www.inven.co.kr/webzine/news/?news=318975",
   "https://www.aitimes.com/news/articleView.html?idxno=213315",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87301",
-  "https://www.mt.co.kr/tech/2026/07/29/2026072917045178161"
+  "https://www.mt.co.kr/tech/2026/07/29/2026072917045178161",
+  "https://www.hani.co.kr/arti/sports/baseball/1270538.html",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05874486645519440",
+  "https://www.econovill.com/news/articleView.html?idxno=746577",
+  "https://news.tvchosun.com/site/data/html_dir/2026/07/29/2026072990207.html",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240686",
+  "https://biz.chosun.com/stock/stock_general/2026/07/29/MXV44JXJGREIPPNR637L6DO74U/",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443441"
  ],
  "seen_titles": [
-  "'미쳤다'LG65억포수강습타구맞고도끄떡없다니…한화대체외인투...",
-  "AI도입지원…클라우드관리기업'AX파트너'진화",
-  "\"평생고객잡아라\"…제조업도구독경쟁",
-  "휴가철·재난상황에도통신품질걱정마세요",
-  "'26일만에SV'아홉수끝낸LG손주영,아직포기안했다\"KS가는게첫...",
-  "[KeSPA컵]'유칼'손우현,\"제춤실력이요?5점이죠\"",
-  "박세웅2⅔이닝충격강판,롯데어렵나했는데…김태형감독\"이닝확실...",
   "위아래없는구자욱시즌내내‘열공모드’",
   "불펜도불패",
   "'김태형또열받았다'오죽하면직접마운드로올라갔을까…롯데에이스...",
@@ -6001,7 +5994,14 @@
   "[컨콜]크래프톤,상반기매출73%증가...서브노티카2안정적출시",
   "크래프톤,21B음성AI모델공개…\"30B이하한국어성능1위\"",
   "[포토뉴스]KT,서울외국인주민센터에서'찾아가는고객경청포럼'개최",
-  "SBSM&C,방송광고판매대행사업자재허가…유효기간5년"
+  "SBSM&C,방송광고판매대행사업자재허가…유효기간5년",
+  "홈런왕경쟁,김도영·오스틴2파전에힐리어드가세…아시안게임차출...",
+  "어니스트AI,몽골시장진출…여신특화AI솔루션공급추진",
+  "어니스트AI,첫해외진출...몽골금융권에AI여신솔루션수출",
+  "신형아반떼,P버튼누르면긴급제동…현대차핵심기술공개",
+  "방미통위\"불법스팸위반시최대6%과징금산정\"",
+  "투자유치반년만에또모은다…페르소나AI,200억규모프리IPO시동",
+  "SK하이닉스키옥시아지분매각이냐유지냐,일본반발에경영권인수는..."
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,17 @@
   [
    "2026-07-29T17:18:18.781956+09:00",
    "부모 방미통위원장 동의 공론화 SNS 거쳐야 청소년 김종철 검토"
+  ],
+  [
+   "2026-07-29T17:22:17.625714+09:00",
+   "규모 투자유치 시동 200억 반년 만에 모은다 페르소나AI 프리IPO"
+  ],
+  [
+   "2026-07-29T17:22:17.625714+09:00",
+   "키옥시아 인수는 일본 SK하이닉스 경영권 유지냐 지분 반발에 매각이냐"
   ]
  ],
- "last_run": "2026-07-29T17:20:48.083065+09:00",
+ "last_run": "2026-07-29T17:22:41.076026+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
