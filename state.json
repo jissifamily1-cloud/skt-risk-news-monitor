@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03342326645519440",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83491",
-  "https://swtvnews.com/news/newsview.php?ncode=1065570610400644",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649334",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649222",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472424",
-  "https://www.etoday.co.kr/news/view/2608570",
-  "https://www.viva100.com/article/20260729500181",
-  "https://www.newsis.com/view/NISX20260729_0003727353",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=205668",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=168952",
   "http://www.issuenbiz.com/news/articleView.html?idxno=78245",
   "https://www.yna.co.kr/view/AKR20260729038800091?input=1195m",
   "https://mhnse.com/news/articleView.html?idxno=1470612",
@@ -2999,20 +2988,20 @@
   "https://www.cstimes.com/news/articleView.html?idxno=715132",
   "https://www.chosun.com/economy/tech_it/2026/07/30/CKDUCPINO5BCDL6M6Q4JTZCMHM/",
   "https://www.sentv.co.kr/article/view/sentv202607300002",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853051"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853051",
+  "https://www.dt.co.kr/article/12075587",
+  "https://biz.heraldcorp.com/article/10825056",
+  "https://www.sedaily.com/article/20073615",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607290943352920101517",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607271705209160106723",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=168990",
+  "https://view.asiae.co.kr/article/2026073008165488773",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03050406645519768",
+  "https://www.newspim.com/news/view/20260729000148",
+  "https://www.ytn.co.kr/_ln/0104_202607300817552532",
+  "https://www.mt.co.kr/tech/2026/07/30/2026073008073776648"
  ],
  "seen_titles": [
-  "[모닝리포트]\"SK텔레콤,AI데이터센터·AIRAN성장본격화\"",
-  "최태원SK회장재산분할현금9440억확보...4가지경우의수는",
-  "스마트폰300만원시대…통신·제조사까지“폰보험팝니다”",
-  "용인시평생학습관특별강좌154명모집…8월4~6일선착순신청",
-  "용인시니어클럽,노인공익활동우수기관선정…1386개일자리운영",
-  "용인시,화훼농업인대상전문기술교육실시…70명참여",
-  "용인어린이상상의숲,어린이자문단제1기발대식...문화공간운영참여",
-  "용인시,시민이함께한창작프로그램…'로컬크리에이터소셜링'시즌...",
-  "SK하이닉스2분기영업익역대최대60.5조…\"수요성장세지속\"",
-  "AI가마침내인간통제벗어나스스로...'특이점'시대시작됐다",
-  "샘알트먼,트럼프행정부만난다…차세대AI모델직접시연",
   "뉴욕증시,혼조마감...WTI4%급락",
   "[해외시황]뉴욕증시,국제유가하락에도AI반도체주조정에'혼조'…나...",
   "아크릴,AI데이터센터운영플랫폼'GPUBASE'누적공급55억",
@@ -6001,7 +5990,18 @@
   "씨이랩,GPU장비발주개시…'AI컴퓨팅자원'사업",
   "AI에45조원쏟아부은메타…현금흐름10분의1로줄어",
   "\"스펙보다생각근육\"…SK하이닉스,AI시대맞춤형채용전형도입",
-  "가상자산해킹1.6조원···과반이북한연계"
+  "가상자산해킹1.6조원···과반이북한연계",
+  "MS,분기매출900억달러‘깜짝실적’…애저성장률4년만에최고",
+  "롯데글로벌로지스,로봇전문기업‘에프알티로보틱스’와웨어러블로...",
+  "‘인상소수의견’3명제친‘물가늑장대응’우려[트럼프스톡커]",
+  "[더벨][IRBriefing]SK하이닉스,'기본5년LTA'덕수요안정성확보",
+  "[더벨][지배구조분석|네이버]이해진의장,지분희석불구지배력강...",
+  "美증시S&P500'뚝'...LII·광통신주·CHIPS'추락'",
+  "씨이랩,AI컴퓨팅자원사업본격화",
+  "S2W,에이전틱AI시대맞춰'AI서비스취약점진단'사업본격확대",
+  "개보위,'무단소액결제'KT제재안오늘심의...과징금수위주목",
+  "트럼프,'챗GPT해킹'에AI규제시사...\"중의식해신중접근\"",
+  "KT스카이라이프,IPTV'ipitTV'1년만에가입자24만돌파"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,13 @@
   [
    "2026-07-30T08:18:17.786294+09:00",
    "과반이 6조원 북한연계 가상자산"
+  ],
+  [
+   "2026-07-30T08:20:27.392052+09:00",
+   "KT스카이라이프 24만 1년 ~KT 만에 돌파 TV 가입자 IPTV ipit"
   ]
  ],
- "last_run": "2026-07-30T08:18:39.077411+09:00",
+ "last_run": "2026-07-30T08:20:45.181536+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
