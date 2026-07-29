@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://kr.aving.net/news/articleView.html?idxno=1812683",
-  "https://www.news1.kr/industry/general-industry/6241878",
-  "https://www.sportsseoul.com/news/read/1625225",
-  "http://www.osen.co.kr/article/G1112847750",
-  "https://www.newstnt.com/news/articleView.html?idxno=711969",
-  "https://www.pressian.com/pages/articles/2026072816542313011",
-  "http://coinreaders.com/249937",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092166770",
   "https://news.mtn.co.kr/news-detail/2026072818093633757",
   "https://www.kukinews.com/article/view/kuk202607280172",
   "https://www.mt.co.kr/future/2026/07/28/2026072815103273306",
@@ -2999,17 +2991,17 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=443425",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472585",
   "https://www.mt.co.kr/tech/2026/07/29/2026072914533958790",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396724"
+  "https://www.m-i.kr/news/articleView.html?idxno=1396724",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3649949",
+  "https://www.irobotnews.com/news/articleView.html?idxno=47663",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607271305235560102033",
+  "https://www.hankyung.com/article/202607293025i",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687970",
+  "https://www.cnbizm.com/news/articleView.html?idxno=309992",
+  "https://www.news2day.co.kr/article/20260728500270",
+  "https://www.viva100.com/article/20260725500065"
  ],
  "seen_titles": [
-  "최태원\"AI팩토리가새산업인프라…SK생태계구축\"",
-  "아모레퍼시픽,AI연구플랫폼구축…R&D혁신나서",
-  "왜지금코칭스태프개편일까,염갈량\"보강차원\"...1승9패부진\"선수...",
-  "[코스피]우리금융·아남전자·KB금융등44개사,29일자사주매입",
-  "[속보]일본규슈구마모토현에서진도7의강진발생…약5만가구정전",
-  "인텔(INTC),90달러까지주가'곤두박질'...18A공정이살릴까?",
-  "\"생성형AI통한카페24기반직접판매쇼핑몰방문72%증가\"",
-  "AI보안연합체잇단출범...엔비디아도개방형동맹가세",
   "외교부“국립외교원해킹주체아직특정못해”",
   "테스티파이,MS·중기부협업'마중프로그램'선정…글로벌스케일업...",
   "딜리셔스,'신상마켓'독점력으로네이버·산은·VC사로잡았다",
@@ -6001,7 +5993,15 @@
   "SK·LG·삼성포함'AI데이터센터얼라이언스'출범,과기부총리배경훈...",
   "크래프톤,음성AI모델'라온스피치'공개",
   "배경훈\"AIDC골든타임놓치면안돼…기술·전력·용수전폭지원\"",
-  "크래프톤,음성AI모델'A.XK2라온-스피치'공개…한국어1위"
+  "크래프톤,음성AI모델'A.XK2라온-스피치'공개…한국어1위",
+  "추경호대구시장,젊은공직자와햄버거미팅...세대벽허문소통현장",
+  "엑스와이지,오픈그래프랩스와피지컬AI행동데이터수집협력",
+  "[더벨][네이버AI팩토리빅딜]22년만3자배정유증,15조실탄확보",
+  "\"소개팅도데이터로\"…엑셀켜고연애하는美Z세대",
+  "배경훈부총리\"AIDC얼라이언스,글로벌지능수출국도약출발점\"",
+  "크래프톤,음성AI파운데이션모델'A.XK2Raon-Speech'허깅페이스공...",
+  "[ESG경영사례분석]LG유플러스,환경A+로상승…홍범식의ESG목표는'...",
+  "[원클릭시사]프로스페라"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-07-29T15:08:24.085537+09:00",
    "AIDC 배경훈 전폭 지원 용수 전력 골든타임 기술 놓치면"
+  ],
+  [
+   "2026-07-29T15:10:27.815231+09:00",
+   "ESG LG유플러스 환경 홍범식의 목표는 ~LGU 상승"
+  ],
+  [
+   "2026-07-29T15:10:27.815231+09:00",
+   "프로스페라"
   ]
  ],
- "last_run": "2026-07-29T15:08:47.707957+09:00",
+ "last_run": "2026-07-29T15:10:48.512681+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
