@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026072814292007667",
-  "https://www.hankyung.com/article/202607280978O",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008678950&plink=ORI&cooper=NAVER",
-  "https://www.namdonews.com/news/articleView.html?idxno=918203",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607280451&t=NN",
-  "https://shindonga.donga.com/3/all/13/6323209/1",
   "https://biz.sbs.co.kr/article_hub/20000325143?division=NAVER",
   "https://view.asiae.co.kr/article/2026072817023140961",
   "https://imnews.imbc.com/replay/2026/nw1700/article/6840663_36981.html",
@@ -2999,15 +2993,15 @@
   "https://imnews.imbc.com/news/2026/politics/article/6840910_36911.html",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42709",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687928",
-  "https://zdnet.co.kr/view/?no=20260729135340"
+  "https://zdnet.co.kr/view/?no=20260729135340",
+  "http://www.srtimes.kr/news/articleView.html?idxno=208600",
+  "https://www.dizzotv.com/site/data/html_dir/2026/07/29/2026072980088.html",
+  "https://www.etnews.com/20260729000246",
+  "https://www.hankyung.com/article/2026072929836",
+  "https://www.betanews.net/article/view/beta202607290024",
+  "https://www.aitimes.com/news/articleView.html?idxno=213295"
  ],
  "seen_titles": [
-  "이제이엠컴퍼니,정보보호및개인정보관리체계'ISMS-P'획득",
-  "엔비디아,73조데이터센터계약…AI생태계구축vs.순환금융논란",
-  "[사설]전남광주반도체·데이터센터순항기대",
-  "서울창조경제혁신센터,2026민관협력오픈이노베이션지원‘상호자율...",
-  "기업투자,정치적으로결정하면경쟁력떨어진다",
-  "[투자노하우]뉴욕증시,유가급락에도혼조마감…반도체주하락",
   "'AI인텔리전스'유현퍼시픽그룹,글로벌특허전략가동",
   "또'검은화요일'‥코스피장중6천선붕괴",
   "자급제냐통신사냐…‘갤럭시Z8’구매성향별최적의채널은어디?",
@@ -6001,13 +5995,15 @@
   "장동혁\"'선관위특검법'통과못하면이재명정권몰락시작될것\"",
   "[S-이슈]최태원9440억·年최대472억이자부담…SK'배당카드'뜨나",
   "엔비디아직원체포됐다…AI서버대중국밀수,공급망내부까지번져",
-  "현대오토에버,현대차와3986억AWS계약…지난해h클라우드대비3배이..."
+  "현대오토에버,현대차와3986억AWS계약…지난해h클라우드대비3배이...",
+  "[기자수첩]카지노부담금반발부른정부,전남여수에카지노신설?",
+  "크래프톤,음성AI도세계수준…한국어성능1위모델공개",
+  "중기부,미래신안보혁신기업육성실무협의체출범…범부처지원체계...",
+  "\"평생본적없는폭락\"…사상첫이틀연속서킷브레이커에'패닉'",
+  "마스오토,우체국물류망에자율주행확대",
+  "마스오토,전국우체국물류망으로자율주행AI모델고도화나선다"
  ],
  "recent_sigs": [
-  [
-   "2026-07-29T08:00:37.127956+09:00",
-   "대폭락 숫자 이승우 뜨면 반도체 바닥 센터장"
-  ],
   [
    "2026-07-29T08:02:16.975314+09:00",
    "반도체 호남 SK하이닉스 삼성전자"
@@ -6521,7 +6517,7 @@
    "AWS h클라우드 계약 현대오토에버 현대차와 3986억 대비 3배 지난해"
   ]
  ],
- "last_run": "2026-07-29T13:58:41.650094+09:00",
+ "last_run": "2026-07-29T14:00:57.619278+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
