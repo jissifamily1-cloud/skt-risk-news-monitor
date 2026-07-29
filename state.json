@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687684",
-  "https://www.ikbc.co.kr/article/view/kbc202607280052",
-  "https://lawtalknews.co.kr/article/D46END7GBO3S",
-  "https://www.taxtimes.co.kr/news/article.html?no=276170",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396286",
-  "https://www.nocutnews.co.kr/news/6554645",
-  "https://biz.heraldcorp.com/article/10823195",
-  "https://www.nocutnews.co.kr/news/6554644",
   "https://www.hankyung.com/article/2026072809587",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000052926",
   "https://www.chosun.com/economy/tech_it/2026/07/28/RZZKXRSMTJG25EOF32A43MVEMI/",
@@ -2999,17 +2991,17 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3649764",
   "https://www.naeil.com/news/read/596949",
   "https://www.newsis.com/view/NISX20260729_0003728008",
-  "https://www.hani.co.kr/arti/society/media/1270341.html"
+  "https://www.hani.co.kr/arti/society/media/1270341.html",
+  "https://www.newspim.com/news/view/20260729000673",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/512977",
+  "https://www.naeil.com/news/read/596978",
+  "https://www.naeil.com/news/read/596988",
+  "https://www.joongangenews.com/news/articleView.html?idxno=536062",
+  "https://www.pressman.kr/news/articleView.html?idxno=102929",
+  "https://www.naeil.com/news/read/596992",
+  "http://tbs.seoul.kr/news/newsView.do?typ_800=9&idx_800=3537546&seq_800=20530421"
  ],
  "seen_titles": [
-  "해남솔라시도에국가AI컴퓨팅센터8월3일'첫삽'",
-  "'엔비디아선물거래'하려고해외거래소썼는데…저,처벌받나요?",
-  "'플랫폼세무사회'무기로…세출검증·지방세업역넓히는구재이호(號)",
-  "중국발반도체공포에코스피·코스닥'블랙화요일'",
-  "삼전닉스주가,석달전으로되돌아갔다",
-  "‘SK하이닉스평단251만원’서동주…“전쟁같은국장,떠나기로마음...",
-  "'6천선'무너진코스피…中반도체여파에국내증시와르르",
-  "외신\"엔비디아73조데이터센터임차…'순환금융'재점화우려\"",
   "엔비디아,'최대73조원'텍사스데이터센터장기임차",
   "AI가콕찍은브랜드는...AI브랜드노출지수나온다",
   "아마존,위성5105기추가발사추진…‘스타링크추격’속도",
@@ -6001,7 +5993,15 @@
   "경남도,2035년까지21조투자…피지컬AI산업선도본격화",
   "SK하이닉스“10여개고객과장기공급계약”",
   "\"AI메모리호황지속\"…SK하이닉스,2분기실적'사상최대'새로썼다",
-  "오태규방문진이사‘졸속임명’에“부실검증추인한법개정을”지..."
+  "오태규방문진이사‘졸속임명’에“부실검증추인한법개정을”지...",
+  "[AI프리뷰]29일대구삼성-KIA전,'KIA상대ERA8.10'양창섭무패행진...",
+  "이홍기\"집앞사생팬들점령…'데이트좀하자'외치고도망\"(설록)",
+  "반도체투자심리급랭…코스피,금융위기보다큰폭락",
+  "미국데이터센터건립물부족핵심변수로",
+  "\"AI답변속브랜드경쟁력점수로확인\"...에이아이빅스랩,'AIBIX'공개",
+  "[발품뉴스]AI추천이승부가른다…에이아이빅스랩,'AI경쟁력'측정...",
+  "SK텔레콤,독파모2차모델공개",
+  "과방위,TBS찾아\"방미통위·서울시·시의회가정상화책임다해야\""
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-07-29T13:04:21.963615+09:00",
    "논란부터 유통량 잔혹사 위믹스 연이은 뚫렸다 해킹까지"
+  ],
+  [
+   "2026-07-29T13:08:18.978762+09:00",
+   "찾아 서울시 과방위 다해야 시의회가 책임 정상화 TBS"
   ]
  ],
- "last_run": "2026-07-29T13:06:39.301071+09:00",
+ "last_run": "2026-07-29T13:08:39.375342+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7027,6 +7031,7 @@
   "dailycar.co.kr": "데일리카",
   "vegannews.co.kr": "2026 VeganNews Co., Ltd. All r",
   "newstapa.org": "newstapa.org",
-  "busanmbc.co.kr": "busanmbc.co.kr"
+  "busanmbc.co.kr": "busanmbc.co.kr",
+  "tbs.seoul.kr": "TBS"
  }
 }
