@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inews365.com/news/article.html?no=929664",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=128433",
-  "https://www.sedaily.com/article/20072934",
-  "https://www.sportsseoul.com/news/read/1625216",
-  "https://www.sedaily.com/article/20072931",
-  "https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html?partner=naver",
-  "https://www.mk.co.kr/article/12109614",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2453441",
   "http://www.osen.co.kr/article/G1112847752",
   "https://www.econovill.com/news/articleView.html?idxno=746451",
@@ -2999,16 +2992,16 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=536354",
   "https://www.newsis.com/view/NISX20260729_0003728159",
   "https://view.asiae.co.kr/article/2026072914323040557",
-  "http://www.boannews.com/media/view.asp?idx=144870&kind=3"
+  "http://www.boannews.com/media/view.asp?idx=144870&kind=3",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718242",
+  "http://www.metroseoul.co.kr/article/20260729500343",
+  "https://www.apnews.kr/news/articleView.html?idxno=3050140",
+  "https://www.thepowernews.co.kr/view.php?ud=202607291441072936de3f0aa1be_7",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853205",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687927",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336083"
  ],
  "seen_titles": [
-  "이동식에어컨한계넘은LG전자,냉방기술비결은",
-  "올여름‘독서피서’어느책으로떠날까",
-  "조선통신사도팬덤있었다…‘시간추적자설록’원조글로벌한류추적",
-  "MS“작년中해커공격90%가AI…초당1.5만건,인간은못막아”",
-  "TechStocksTumbleonWorriesAboutA.I.SpendingandChina’sChipComp",
-  "[기고]코스닥대개편,'성장사다리'본질지켜야",
-  "'TIGER미국필라델피아반도체나스닥'해외테마형ETF중순자산1위",
   "'햄스트링이상無'김진욱,선발로테이션정상소화한다…다만\"투구...",
   "'명품관옆땅'왜샀나…김동선의큰그림은'럭셔리생활권'",
   "펀더멘털변화없는데…7월-28.9%금융위기보다더한낙폭에‘패닉’",
@@ -6001,7 +5994,14 @@
   "교보생명,22년간우수FP자녀대상어학연수지원",
   "경찰청,'외교관정보1만건유출'국립외교원해킹수사착수",
   "\"주식폭락?이제시작이야\",\"사이드카가모닝콜됐다\"…역대급롤러코...",
-  "[해킹을결제하시겠습니까?]#10.새체크카드등록후5분,해킹은여기..."
+  "[해킹을결제하시겠습니까?]#10.새체크카드등록후5분,해킹은여기...",
+  "[Game&Now]펄어비스'검은사막'신규클래스출시…컴투스'제우스'메...",
+  "롯데카드최종제재안심의코앞…영업정지수위'촉각'",
+  "크래프톤,음성AI파운데이션모델공개…\"한국어종합성능1위\"",
+  "SK텔레콤,6880억매개변수AI공개…제조·국방투입",
+  "[현장]정재헌의장\"AIDC,AI수출산업으로\"",
+  "순이익률118%찍은SK하이닉스\"고객들여전히추가공급요청\"",
+  "YTN되돌리기어렵다?반칙으로인한피해원상복구는최소한의조치"
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,21 @@
   [
    "2026-07-29T14:46:21.877247+09:00",
    "해킹은 체크카드 5분 여기 등록"
+  ],
+  [
+   "2026-07-29T14:48:17.950988+09:00",
+   "AIDC 의장 수출산업으로"
+  ],
+  [
+   "2026-07-29T14:48:17.950988+09:00",
+   "고객들 찍은 추가 공급 순이익률 요청 여전히 SK하이닉스"
+  ],
+  [
+   "2026-07-29T14:48:17.950988+09:00",
+   "최소한의 조치 되돌리기 어렵다 반칙으로 인한 피해 YTN 원상복구는"
   ]
  ],
- "last_run": "2026-07-29T14:46:47.195785+09:00",
+ "last_run": "2026-07-29T14:48:41.924821+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
