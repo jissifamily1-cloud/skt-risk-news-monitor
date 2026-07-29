@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3009164",
-  "https://www.hankyung.com/article/202607280685r",
-  "https://www.newspim.com/news/view/20260727000968",
-  "https://www.etoday.co.kr/news/view/2608375",
-  "https://biz.chosun.com/it-science/ict/2026/07/28/23VSIR5BQBAT7O7APNUATI2KRY/",
-  "https://biz.sbs.co.kr/article_hub/20000325132?division=NAVER",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/28/2026072800213.html",
   "https://www.heraldmuse.com/article/10823121",
   "https://news.mtn.co.kr/news-detail/2026072815435412762",
@@ -2999,16 +2993,15 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260728010010322",
   "https://www.tgdaily.co.kr/news/articleView.html?idxno=406063",
   "https://www.thisisgame.com/articles/428262",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92691"
+  "http://www.seouleconews.com/news/articleView.html?idxno=92691",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260729112259vSI",
+  "https://biz.heraldcorp.com/article/10824149",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268259",
+  "https://www.seoulfn.com/news/articleView.html?idxno=634395",
+  "https://www.chosun.com/economy/tech_it/2026/07/29/MTODZ6OU4BFSVCJ5XPS22EOA3Q/",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166804"
  ],
  "seen_titles": [
-  "'예비유니콘'망고부스트,시리즈B투자유치나서…'AMD동맹'경쟁력...",
-  "청소년SNS빗장건다는정부…'제2게임셧다운제'우려제기",
-  "라온시큐어,화이트해커23명모두‘해킹올림픽’본선행",
-  "국민이독파모프로젝트직접평가한다…과기정통부,평가단200명모집",
-  "오픈AI직원이내옆자리…한국사업전면가동",
-  "\"폴더블고객잡아라\"…이통3사,갤럭시Z폴드8혜택경쟁",
-  "황인엽,15년전이혜리교통사고알았다‘충격’..관계변화하나(‘그...",
   "'검은화요일'재현한코스피10%대하락…삼전닉스레버리지28%폭락...",
   "코스피6023.63마감…양시장에서킷브레이커발동'검은화요일'",
   "코스피낙폭역대4위…반도체쌍벽와르르",
@@ -6001,7 +5994,14 @@
   "일본증시,AI우려·한국시장연동에변동성확대",
   "펄어비스'검은사막'새클래스'에이전트'선봬",
   "크래프톤,한국어성능1위음성AI파운데이션모델‘A.XK2Raon-Speech’...",
-  "SK텔레콤,차세대AI모델'글로벌모델과동급'…산업·일상AI확산속도..."
+  "SK텔레콤,차세대AI모델'글로벌모델과동급'…산업·일상AI확산속도...",
+  "\"우리가만든AI가무섭다\"…테크공룡직원들의경고[뉴스더보기]",
+  "外人패닉셀·中반도체굴기·삼전닉스편중…코스피‘잔인한7월’...",
+  "\"제조·국방·바이오분야확산\"…SK텔레콤,'A.XK2'공개·AI전환지원",
+  "SKT자체AI'A.XK2'공개···독파모2차평가승부수",
+  "“AI권력독점이더위험”…저커버그,오픈AI·앤스로픽정면비판",
+  "오픈AI,해킹테스트한다더니통제불능우려만노출",
+  "오픈AI,해킹테스트한다더니내부망휘젓고다녀"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,17 @@
   [
    "2026-07-29T11:22:23.894078+09:00",
    "~SKT 확산속도 AI모델 일상 글로벌 차세대 산업 동급 모델과"
+  ],
+  [
+   "2026-07-29T11:24:21.477672+09:00",
+   "휘젓고 다녀 테스트 내부망 한다더니"
+  ],
+  [
+   "2026-07-29T11:24:21.477672+09:00",
+   "위험 저커버그 정면 비판 독점이 권력"
   ]
  ],
- "last_run": "2026-07-29T11:22:43.330572+09:00",
+ "last_run": "2026-07-29T11:24:48.816856+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
