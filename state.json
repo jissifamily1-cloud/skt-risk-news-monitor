@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87194",
-  "https://www.mk.co.kr/article/12109551",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16147897",
-  "https://zdnet.co.kr/view/?no=20260728165704",
-  "https://www.dailian.co.kr/news/view/1671839/?sc=Naver",
-  "https://www.mediawatch.kr/news/article.html?no=260490",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05172566645519112",
   "https://www.mt.co.kr/future/2026/07/28/2026072816001493292",
   "https://www.m-i.kr/news/articleView.html?idxno=1396308",
@@ -2999,15 +2993,15 @@
   "http://www.osen.co.kr/article/G1112848272",
   "http://www.newsworker.co.kr/news/articleView.html?idxno=438834",
   "https://view.asiae.co.kr/article/2026072910090961798",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=592874"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=592874",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42718",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5341",
+  "https://www.seoul.co.kr/news/economy/2026/07/29/20260729500144?wlog_tag3=naver",
+  "https://www.newsis.com/view/NISI20260729_0002198740",
+  "http://coinreaders.com/250114",
+  "http://www.metroseoul.co.kr/article/20260729500277"
  ],
  "seen_titles": [
-  "어디서개통할까…이통3사,갤럭시사전예약경쟁",
-  "박성훈,요코하마팬미팅후감성가득근황사진",
-  "사티아나델라MSCEO\"특정AI모델의존하는기업,살아남기어렵다\"",
-  "SK하이닉스ADR공모가하회…美IPO'슈퍼루키'흔들",
-  "[26.7.28증시인싸잇]최악의‘증시패닉’...코스피6000선붕괴",
-  "\"기술훔쳤다\"vs\"패권주의\"…美中,AI베끼기공방격화",
   "\"진짜좋은브랜드만드는법은\"…'배민'창업자김봉진의꿀조언",
   "잡코리아·알바몬,국제보안·개인정보인증동시획득",
   "MSAI총괄의경고…\"오픈AI해킹사고는AI사이버공격의시작일뿐\"",
@@ -6001,7 +5995,13 @@
   "동희덕분에동희가깨어났다…4안타대폭발,우여곡절끝반전의시간...",
   "SK하이닉스역대최대실적에도시장은냉담...향후실적·주가추이에...",
   "애플\"한국,역동적인개발자커뮤티니보유\"…국내생태계지원강화",
-  "[기업家]GS그룹⑤ㅣ글로벌인프라성과에AI·유통혁신까지'전방위..."
+  "[기업家]GS그룹⑤ㅣ글로벌인프라성과에AI·유통혁신까지'전방위...",
+  "SK하이닉스,3개월만에실적또신기록…영업익60조·영업이익률76%",
+  "[증시프리즘]\"레버리지탓만은아니다\"…AI피크아웃·중국추격·수급...",
+  "통신3사·네이버·카카오를AI원팀으로…AIDC인프라구축본격화",
+  "[그래픽]SK하이닉스,엔비디아·TSMC제쳤다…영업이익률세계2위",
+  "매출65%폭증호재터졌는데...엔비디아(NVDA),205달러벽왜못넘나?",
+  "유료방송규제완화시동…OTT차별축소되나"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,17 @@
   [
    "2026-07-29T14:12:18.247030+09:00",
    "혁신까지 글로벌 인프라 GS그룹 전방위 성과에 유통"
+  ],
+  [
+   "2026-07-29T14:14:23.173772+09:00",
+   "터졌는데 매출 폭증 넘나 205달러 NVDA 호재"
+  ],
+  [
+   "2026-07-29T14:14:23.173772+09:00",
+   "OTT 유료방송 시동 규제 완화 축소되나 차별"
   ]
  ],
- "last_run": "2026-07-29T14:12:36.416325+09:00",
+ "last_run": "2026-07-29T14:14:50.377496+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
