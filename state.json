@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8624196",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454035",
-  "https://www.yna.co.kr/view/PYH20260730068300013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260730069500013?input=1196m",
-  "http://www.fnnews.com/news/202607301054351377",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404943",
   "https://www.joongangenews.com/news/articleView.html?idxno=536619",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688250",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4097955",
@@ -2999,15 +2993,15 @@
   "https://www.abcn.kr/news/articleView.html?idxno=89999",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725227",
   "https://www.seoulfn.com/news/articleView.html?idxno=634591",
-  "https://www.sedaily.com/article/20074127"
+  "https://www.sedaily.com/article/20074127",
+  "https://magazine.hankyung.com/business/article/202607316734b",
+  "https://www.dailian.co.kr/news/view/1672759/?sc=Naver",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441250",
+  "https://www.sedaily.com/article/20074055",
+  "https://www.techm.kr/news/articleView.html?idxno=153872",
+  "https://www.aitimes.com/news/articleView.html?idxno=213333"
  ],
  "seen_titles": [
-  "[단독]캐시워크돈버는퀴즈정답7월30일",
-  "삼성SDS,2분기영업이익2318억원…클라우드매출17%↑",
-  "현대차그룹,자율주행인재확보속도…삼성전자출신권정현부사장영...",
-  "통신3사,휴가철‘민생할인’확대…요금인하는없어",
-  "개인정보위,KT펨토셀해킹에과징금540억원…수사기관고발",
-  "KT개인정보유출…540억과징금부과와중대한법위반행위의결과",
   "'해킹소액결제피해'KT에과징금540억원",
   "불법펨토셀통한개인정보유출...KT540억과징금철퇴",
   "삼성SDS,2분기2분기매출3조7178억…클라우드·물류동반성장",
@@ -6001,7 +5995,13 @@
   "[ABC뉴스칼럼]지분0.0005%매수가\"책임경영\"실천이라는최태원SK회...",
   "[하이닉스성장기③]1100조투자·빅테크동맹…AI주도권다진다",
   "[뉴욕증시]AI투자우려덜자'활짝',반도체반등···MS15%↑·닉스...",
-  "반토막난‘국민주식’달래기…삼성전자·하이닉스,주가부양카드..."
+  "반토막난‘국민주식’달래기…삼성전자·하이닉스,주가부양카드...",
+  "KB금융,기업지원'녹색·전환금융'강화…ESG금융20.8조그룹역량결...",
+  "M&A와스타트업육성병행…구다이글로벌,‘한국판로레알’속도",
+  "[WhoIs?]김슬아컬리대표이사",
+  "삼성파운드리적자탈출속도전…메모리와쌍끌이전략[biz-플러스]",
+  "삼성전자·SK하이닉스\"메모리공급과잉없다...수요기반증설\"",
+  "[7월30일]\"이제는기계가인간에맞춘다\"...오픈AI가'음성'에집중하는..."
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-07-31T07:00:38.105836+09:00",
    "1100조 주도권 투자 동맹 다진다 빅테크"
+  ],
+  [
+   "2026-07-31T07:02:24.572368+09:00",
+   "맞춘다 기계가 오픈AI가 이제는 인간에 집중하는 음성"
   ]
  ],
- "last_run": "2026-07-31T07:00:59.505389+09:00",
+ "last_run": "2026-07-31T07:02:42.528057+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
