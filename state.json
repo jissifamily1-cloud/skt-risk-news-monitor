@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62077",
-  "https://www.tgdaily.co.kr/news/articleView.html?idxno=406048",
-  "https://www.newspim.com/news/view/20260729000296",
-  "http://www.iminju.net/news/articleView.html?idxno=167228",
-  "https://economist.co.kr/article/view/ecn202607290020",
-  "https://biz.heraldcorp.com/article/10823851",
-  "https://gamefocus.co.kr/detail.php?number=177808",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649420",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427426",
-  "https://www.mk.co.kr/article/12110286",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=313529",
   "https://www.newsis.com/view/NISX20260729_0003727616",
   "https://www.ekn.kr/web/view.php?key=20260728026156830",
   "https://www.thepowernews.co.kr/view.php?ud=202607290950195729de3f0aa1be_7",
@@ -2999,20 +2988,20 @@
   "https://www.ajunews.com/view/20260730085442371",
   "http://www.econonews.co.kr/news/articleView.html?idxno=442045",
   "https://view.asiae.co.kr/article/2026073009024746673",
-  "https://www.cwn.kr/news/articleView.html?idxno=51746"
+  "https://www.cwn.kr/news/articleView.html?idxno=51746",
+  "https://www.ddaily.co.kr/page/view/2026072909310145492",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046051",
+  "https://www.etoday.co.kr/news/view/2609061",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3650632",
+  "https://www.joongang.co.kr/article/25449397",
+  "http://www.datanews.co.kr/news/article.html?no=145814",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=169002",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=738513",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265121",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=848805",
+  "https://biz.heraldcorp.com/article/10825158"
  ],
  "seen_titles": [
-  "SK브로드밴드,'행복얼라이언스스쿨'통해지역어린이대상방송국체...",
-  "국제무대선도하는'일잘러'이재명대통령을흔들지마라.",
-  "경기연구원,3D지도로골목단위위험지역첫공개",
-  "\"결국중요한건금리\"…코스피급락진정여부,FOMC에달렸다",
-  "SKT,688B규모AI모델'A.XK2'공개…\"추론능력강화\"",
-  "SKT,688BAI모델'A.XK2'공개…산업현장AI전환지원",
-  "SKT,독파모2차모델공개…‘모두의AI’도참여",
-  "자율주행트럭이우편물나른다…마스오토,운송구간확대",
-  "뤼튼테크놀로지스,‘해킹올림픽’데프콘본선팀후원…AI로공격·방...",
-  "크래프톤,차세대음성AI파운데이션모델공개",
-  "잠수함멸종시대…그래서더빛나는‘희귀종’고영표의항로",
   "폭염에방전된프로야구에이스들…전반기이닝폭주후유증일까",
   "[KBO]삼성,KIA완파하고단독선두질주..KIA5위로추락",
   "추경호대구시장,SK,대구AI데이터센터건립중단결정...\"시민에명확...",
@@ -6001,7 +5990,18 @@
   "트럼프\"AI규제검토\"…中과경쟁의식해신중론도",
   "삼성전자,2분기영업이익89.5조…AI반도체호조에역대최대실적",
   "'뭐가무섭노?'크게쓰고유명인태그도배…'돈선태'가키운리센느논...",
-  "'900억자사주추가매입'…LG유플러스,주주가치강화행보"
+  "'900억자사주추가매입'…LG유플러스,주주가치강화행보",
+  "“뉴스이렇게만들어요”…SKB,Btv인천방송서어린이방송실습",
+  "LGU+,여름휴가철로밍·멤버십혜택강화",
+  "6점차도안심못했다⋯김도영이끝낸KIA의승부",
+  "대구시수성구,8~9월사회서비스부정수급예방캠페인실시",
+  "토큰,중국이전기를달러로바꾸는방법",
+  "미소정보기술,VLM기반AIOCR‘빅스(ViiX)’GS인증1등급",
+  "미국증시3대지수'급락'속...코스피'장초반하락'",
+  "폴리뉴스모닝브리핑7월30일목요일",
+  "SKT·LG유플러스·KT,고객체감혜택넓힌다…통신비부터로밍까지",
+  "과기부,독파모국민평가단신뢰성지적에선발절차해명",
+  "‘채용새바람’SK하이닉스,반나절심층면접도입"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-07-30T09:08:21.720190+09:00",
    "ISC 반도체 대전환 푸토성 베트남 거점 빅픽처 공략 앞세워 SK"
+  ],
+  [
+   "2026-07-30T09:12:17.775050+09:00",
+   "국민평가단 신뢰성 과기부 지적에 독파모 선발절차 해명"
   ]
  ],
- "last_run": "2026-07-30T09:10:52.752645+09:00",
+ "last_run": "2026-07-30T09:12:35.801194+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
