@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404907",
-  "https://biz.heraldcorp.com/article/10821134",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356670",
-  "https://www.news1.kr/photos/8031870",
-  "https://www.joongang.co.kr/article/25449169",
-  "https://www.chosun.com/economy/tech_it/2026/07/29/BS7GKZCYERHNJEXIIFHDZSNXP4/",
-  "https://www.dt.co.kr/article/12075494",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=787947",
   "https://www.imaeil.com/page/view/2026072916214129745",
   "https://www.newsis.com/view/NISI20260729_0021381688",
   "https://www.newsis.com/view/NISI20260729_0021381695",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISI20260730_0021382878",
   "https://www.newsis.com/view/NISI20260730_0021382877",
   "https://www.newsis.com/view/NISI20260730_0021382879",
-  "https://www.newsis.com/view/NISI20260730_0021382870"
+  "https://www.newsis.com/view/NISI20260730_0021382870",
+  "https://www.theguru.co.kr/news/article.html?no=105081",
+  "https://zdnet.co.kr/view/?no=20260730135641",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256740",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718248",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308625&inflow=N",
+  "https://www.m-i.kr/news/articleView.html?idxno=1396874",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250405",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166947"
  ],
  "seen_titles": [
-  "정재헌SKT대표\"AIDC는속도전이중요…韓성공토대마련됐다\"",
-  "\"SK하이닉스,배당확대가능성극도로높아졌다\"메리츠證",
-  "애플“소규모개발사도출시첫날부터글로벌무대로”…韓개발자글...",
-  "\"지금까지이렇게진화한적은없었다\"신형아반떼테크데이개최",
-  "'동북권ICT콤플렉스'포항에개소...AI·SW인재양성허브",
-  "‘진정하고,팔지마라…中반도체영향내년까진크지않아’증권사연...",
-  "GPU·HBM이은‘반도체병목’은?...CPU株에도관심",
-  "‘AI고점론’진화한SK하이닉스…“단기간내공급과잉제한적”",
   "이재명대통령,다리오아모데이엔트로픽CEO면담",
   "샘올트먼“AI,이제는속도보다준비가중요”…‘질주’대신‘속도...",
   "반도체주'또급락',코스피'패닉'...5700도붕괴",
@@ -6001,7 +5993,15 @@
   "오픈AI,'챗GPT'유명작가문체모방요청차단…저작권논란대응강...",
   "[다시보기]7월30일(목)오전사이언스투데이",
   "개인정보위\"로그삭제KT고발,서버폐기LGU+수사의뢰\"",
-  "개보위,KT에540억원대과징금부과'추가제재가능성도'"
+  "개보위,KT에540억원대과징금부과'추가제재가능성도'",
+  "SK㈜,싱가포르브릿지데이터센터인수검토…글로벌AI인프라확대'...",
+  "정부,오픈소스개발자글로벌진출지원…15개커뮤니티육성",
+  "[AI칩지정학]⑯이재명역습에중국산D램찾는애플로도망",
+  "'AIDC얼라이언스'출범…정재헌\"AIDC건설,수출·산업화기회될것\"",
+  "AI데이터센터얼라이언스출범…18.4GW센터구축시동",
+  "[데스크칼럼]반도체,판이바뀔때무엇으로살아남을까",
+  "중국산AI,가성비앞세워'진격'...에어비앤비·지멘스·AWS도쓴다",
+  "총수'지분유무'가갈랐나…주주환원응답한삼전,침묵한닉스"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-07-30T13:54:19.055606+09:00",
    "지켜봐야 책임있는 KT의 ~KT 업계 수습"
+  ],
+  [
+   "2026-07-30T13:58:17.691942+09:00",
+   "주주환원 총수 지분 침묵한 닉스 유무 응답한 갈랐나 삼전"
   ]
  ],
- "last_run": "2026-07-30T13:56:42.376695+09:00",
+ "last_run": "2026-07-30T13:58:39.018990+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
