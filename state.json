@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202607230942538027906806b77b_1",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131201",
-  "https://www.natv.go.kr/natv/news/newsView.do?newsId=513856",
-  "https://www.kmib.co.kr/article/view.asp?arcid=0030179150&code=61141111&cp=nv",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190311",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=307944",
   "https://www.aitimes.com/news/articleView.html?idxno=213309",
   "https://www.ajunews.com/view/20260729130520941",
   "https://www.gukjenews.com/news/articleView.html?idxno=3650048",
@@ -2999,15 +2993,15 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5044134",
   "https://platum.kr/archives/291641",
   "https://www.newspim.com/news/view/20260730000747",
-  "https://www.dt.co.kr/article/12075673"
+  "https://www.dt.co.kr/article/12075673",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308622&inflow=N",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3650964",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=313759",
+  "http://www.inews24.com/view/1990315",
+  "https://hbnpress.com/news/view/1065588078309285",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308712&inflow=N"
  ],
  "seen_titles": [
-  "경찰,외교관개인정보‘최대1만건’해킹사건수사착수",
-  "민관'AIDC얼라이언스'출범…국가전략산업육성본격화",
-  "포항시,동북권ICT콤플렉스개소…AI·SW인재양성본격화",
-  "벤처캐피탈협회·삼일PwC,스케일업팁스그로우스랩1기출범",
-  "김병내남구청장\"대촌~나주부지330만㎡반도체배후도시는남구\"",
-  "[주간스타트업동향]디노티시아,STX엔진과방산AI데이터센터사업협...",
   "\"오픈웨이트AI가미래\"…암스트롱,젠슨황첫엑스게시물에화답",
   "\"AI가내브랜드얼마나언급했나\"…점수로매길수있다",
   "민·관원팀‘AIDC얼라이언스’본격가동…초대공동의장에정재헌...",
@@ -6001,17 +5995,15 @@
   "[와이파이]7월4주,'동남아알뜰로밍'여름휴가…KT외2가지통신혜택",
   "[특허법인YNP]AI디자인출원시대의도래",
   "KT과징금539억,SKT의40%…개보위\"유출규모·정보달랐다",
-  "삼성SDS,2Q매출전년비6%↑"
+  "삼성SDS,2Q매출전년비6%↑",
+  "(단독)SKT,울산AI데이터센터투자협상지연…FI조건에분사조직'촉각...",
+  "이현재하남시장,휴가반납하고새벽쓰레기수거현장동행",
+  "시큐리온,KISA와악성문자사전차단협약",
+  "'개인정보유출'SKT1348억,KT540억⋯\"매출산정·유출규모달라\"[일...",
+  "LG유플러스,여름휴가철맞춰로밍·외식혜택대폭강화",
+  "1만6000명정보유출·무단소액결제…KT에과징금539억철퇴"
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T07:48:16.952486+09:00",
-   "세계 VOD 짝사랑 영화 오픈"
-  ],
-  [
-   "2026-07-30T07:48:16.952486+09:00",
-   "줍줍 우드 NVDA 캐시 테슬라 폭락장에서 TSLA"
-  ],
   [
    "2026-07-30T07:50:24.263431+09:00",
    "부담도 얻었지만 GPU 동맹"
@@ -6625,7 +6617,7 @@
    "나섰다 급락 확보 펀드 자금 직격 7월"
   ]
  ],
- "last_run": "2026-07-30T13:46:32.183957+09:00",
+ "last_run": "2026-07-30T13:48:44.479517+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
