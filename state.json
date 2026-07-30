@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8033127",
-  "https://www.sisajournal.com/news/articleView.html?idxno=381715",
-  "https://en.yna.co.kr/view/AEN20260730003751315?input=2106m",
-  "https://view.asiae.co.kr/article/2026073011221510104",
-  "https://view.asiae.co.kr/article/2026073011214103080",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04421446645519768",
-  "http://www.kdfnews.com/news/articleView.html?idxno=185884",
   "https://biz.chosun.com/it-science/ict/2026/07/30/TPNBC4N7EVCJ3NP43Q6SZXW54Y/",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=127596",
   "https://www.nocutnews.co.kr/news/6555817",
@@ -2999,16 +2992,16 @@
   "http://amenews.kr/news/view.php?idx=67577",
   "https://www.etoday.co.kr/news/view/2609525",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718214",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167010"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167010",
+  "https://zdnet.co.kr/view/?no=20260731081334",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313206",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83739",
+  "https://www.newsis.com/view/NISX20260731_0003730817",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313263",
+  "https://www.mt.co.kr/stock/2026/07/31/2026073108122840703",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313207"
  ],
  "seen_titles": [
-  "개보위,'조사방해'통신사에칼뺐다…KT고발·LGU+수사의뢰",
-  "개인정보위'개인정보유출'KT과징금540억부과'증거인멸'LGU+수사...",
-  "KT개인정보유출에과징금539억7,900만원부과",
-  "KT개인정보유출사고브리핑하는개인정보보호위",
-  "개인정보보호위,KT개인정보유출사고브리핑",
-  "[포토]KT,개인정보유출사태과징금539억원부과",
-  "현대차그룹,삼성·엔비디아출신권정현부사장영입…자율주행기술력...",
   "KBS,리센느불러놓고웬대통령·한동훈태그?…'2차가해'논란도",
   "KT와엘지유플러스의개인정보유출사고에대한시정조치안의결관련...",
   "통신3사,여름휴가철맞아혜택일제히확대",
@@ -6001,7 +5994,14 @@
   "SKT·LG·삼성·네이버등참여‘AI데이터센터얼라이언스’본격가동",
   "[증시키워드]삼성전자,주주환원컨콜에도약보합…한화오션나홀로상...",
   "2Q해킹넘은SKT,역대최대실적LGU+…KT역기저에주춤전망",
-  "EU,최대7곳에'AI데이터센터'구축…100억유로투입"
+  "EU,최대7곳에'AI데이터센터'구축…100억유로투입",
+  "S2W,AI서비스취약점진단사업확대",
+  "SKT,8~9월고객혜택확대…요금제부터멤버십·제휴할인까지",
+  "최태원회장,48억규모SK하이닉스주식매입…'책임경영'의지표명",
+  "\"규정상최대치\"최태원,SK하이닉스株첫매수50억원아래로묶인까닭",
+  "LG유플러스,여름휴가철고객혜택확대…\"해외서도무료통화\"",
+  "미국발호재에반도체급등…프리마켓서삼전13%·SK하닉16%↑",
+  "추락·심박이상시'즉시알림'…KT-삼성전자,5G안전관리워치출시"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,17 @@
   [
    "2026-07-31T08:04:18.611007+09:00",
    "IREN 네오클라우드 반등세 업종 급등"
+  ],
+  [
+   "2026-07-31T08:16:19.740903+09:00",
+   "반도체 프리마켓서 호재에 미국발 삼전 SK하닉 급등"
+  ],
+  [
+   "2026-07-31T08:16:19.740903+09:00",
+   "알림 5G 출시 이상 삼성전자 추락 워치 즉시 ~KT 심박 안전관리"
   ]
  ],
- "last_run": "2026-07-31T08:14:32.723177+09:00",
+ "last_run": "2026-07-31T08:16:43.195181+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
