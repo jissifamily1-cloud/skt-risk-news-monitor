@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649739",
-  "https://www.newscj.com/news/articleView.html?idxno=3420855",
-  "https://www.inven.co.kr/webzine/news/?news=318904",
-  "https://view.asiae.co.kr/article/2026072816094338948",
-  "http://amenews.kr/news/view.php?idx=67571",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41221",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427513",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649673",
-  "https://www.joongangenews.com/news/articleView.html?idxno=536181",
-  "https://zdnet.co.kr/view/?no=20260729123537",
   "https://www.inven.co.kr/webzine/news/?news=318870",
   "http://www.ktnews.com/news/articleView.html?idxno=147425",
   "https://www.mydaily.co.kr/page/view/2026072912071430361",
@@ -2999,19 +2989,19 @@
   "https://news.jtbc.co.kr/article/NB12310869?influxDiv=NAVER",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251762",
   "https://www.tokenpost.kr/news/breaking/382870",
-  "https://www.newspim.com/news/view/20260730000462"
+  "https://www.newspim.com/news/view/20260730000462",
+  "https://www.etnews.com/20260730000160",
+  "https://www.yna.co.kr/view/AKR20260730080500530?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3650763",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000107.html",
+  "https://www.nocutnews.co.kr/news/6555767",
+  "https://www.mk.co.kr/article/12111736",
+  "https://www.youthdaily.co.kr/news/article.html?no=224127",
+  "https://www.kado.net/news/articleView.html?idxno=2063956",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=104841",
+  "https://www.mt.co.kr/industry/2026/07/30/2026073009401742648"
  ],
  "seen_titles": [
-  "이홍기\"집지하부터문앞까지점령\"사생피해고백",
-  "SKT,독파모2차모델공개…\"산업현장·국민일상AI확산\"",
-  "크래프톤,감정구현하는음성AI모델공개…한국어성능1위",
-  "코스피5600선'붕괴'…하이닉스,역대급실적에도140만원깨져",
-  "'최대실적'SK하이닉스,중장기메모리수요확신…LTA·투자확대나선...",
-  "홍화연,은은한화이트룩으로근황…티빙·tvN이어새로코준비",
-  "SK하이닉스,2분기영업익50조5000억원",
-  "SKT,독파모2차모델'A.XK2'오픈공개...국내최대'6880억매개변수...",
-  "'충충충'한창록데뷔작,오늘부터극장동시VOD시작",
-  "피크아웃?SK하이닉스\"하반기더좋다\"…계속되는신기록행진",
   "보험사IT위탁관리'이사회책임'강화…클라우드·SaaS리스크직접챙...",
   "'폭염속기강흔들린마운드'…KBO에이스들,7월집단체력난에무너...",
   "'끝판대장'오승환,야구인생2막시작…최첨단스포츠과학입힌'퍼포...",
@@ -6001,7 +5991,17 @@
   "삼전,역대최대영업이익89.5조...'99.7%'는반도체에서나왔다",
   "개인정보위,'펨토셀해킹'개인정보유출KT에과징금540억부과",
   "오픈AI통제이탈에이전트…외부5곳영향",
-  "애플·테슬라·엔비디아인재한곳에…현대차그룹AVP본부'AI드림팀'구..."
+  "애플·테슬라·엔비디아인재한곳에…현대차그룹AVP본부'AI드림팀'구...",
+  "통신3사,민생안정프로그램실시…멤버십할인·로밍혜택",
+  "개인정보유출사고조사전증거폐기제재공백…처벌·과징금추진",
+  "김제시,하천불법경작실태점검…무단개간·시설물집중단속",
+  "삼성SDS,2분기영업익소폭증가…클라우드성장에매출3조7178억원...",
+  "SKT,8~9월혜택확대…온라인요금제·T멤버십·제휴할인",
+  "김선태,리센느원이‘무섭노’재소환논란에사과“죄송합니다”",
+  "'펨토셀해킹'개인정보유출…개인정보위,KT에과징금539억부과",
+  "[속보]불법펨토셀로1만6647명정보유출…KT에과징금539억7900만원",
+  "KT,바캉스시즌에멤버십·로밍·요금제등생활밀착형혜택제공",
+  "메모리슈퍼사이클의역설..삼성전자'한지붕두가족'기막힌성적표"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-07-30T10:54:16.223981+09:00",
    "현대차그룹 드림팀 테슬라 애플 AVP본부 인재 한곳에"
+  ],
+  [
+   "2026-07-30T10:56:17.227540+09:00",
+   "성적표 삼성전자 기막힌 역설 한지붕 두가족 메모리 슈퍼사이클의"
   ]
  ],
- "last_run": "2026-07-30T10:54:39.533613+09:00",
+ "last_run": "2026-07-30T10:56:34.808170+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
