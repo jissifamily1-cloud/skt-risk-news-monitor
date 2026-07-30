@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=268274",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661430",
-  "https://www.joongang.co.kr/article/25449095",
-  "https://www.seoultimes.news/news/article.html?no=2000098262",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16148842",
-  "https://www.slist.kr/news/articleView.html?idxno=755025",
-  "https://www.mk.co.kr/article/12110414",
-  "https://news.skbroadband.com/news/articleView.html?idxno=233356",
-  "https://www.news1.kr/local/sejong-chungbuk/6242686",
-  "https://www.dailian.co.kr/news/view/1672192/?sc=Naver",
   "https://www.thelec.kr/news/articleView.html?idxno=60222",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008680228&plink=ORI&cooper=NAVER",
   "https://www.g-enews.com/view.php?ud=20260729133720402127fa31d75c_1",
@@ -2999,19 +2989,19 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454035",
   "https://www.yna.co.kr/view/PYH20260730068300013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260730069500013?input=1196m",
-  "http://www.fnnews.com/news/202607301054351377"
+  "http://www.fnnews.com/news/202607301054351377",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=404943",
+  "https://www.joongangenews.com/news/articleView.html?idxno=536619",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688250",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097955",
+  "https://news.mtn.co.kr/news-detail/2026073010543874197",
+  "https://theviewers.co.kr/View.aspx?No=4167834",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279428",
+  "https://www.kgnews.co.kr/news/article.html?no=905809",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251291",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688262"
  ],
  "seen_titles": [
-  "5년치수요확보했다…SK하이닉스,빅테크10여곳과장기계약",
-  "'호프'음문석,생애첫'유퀴즈'에…\"누나가'젠슨황됐다'며가문의...",
-  "미국의료비청구업체MCBS해킹…환자126만명개인정보·진료정보노...",
-  "함안군민선9기,현장중심신속행정강화…군민만족도높아",
-  "애플\"한국은세계서가장역동적개발자커뮤니티\"",
-  "美빅테크죽쑤는데…애플‘나홀로승승장구’비결은?[머니+]",
-  "SKT,독파모2차모델'A.XK2'공개하고'모두의AI'합류",
-  "대만,첨단AI칩중국밀반출혐의로엔비디아직원첫구속",
-  "최대실적인데'어닝미스'...SK하이닉스\"고객사10여곳과장기계약\"",
-  "'AI투자패싱'대구…기업유치·산업생태계함께키워야",
   "SKT,688BAI모델공개…제조·국방·바이오적용추진",
   "[컨콜전문]SK하이닉스2026년2분기경영실적",
   "GPT‘불량에이전트’,해킹당시외부계정4곳추가접근",
@@ -6001,7 +5991,17 @@
   "KT,펨토셀정보유출로과징금539억원…“고객께깊이사과”",
   "KT,개인정보위과징금에사과…LGU+“수사성실히임할것”",
   "KT,불법펨토셀개인정보유출과징금540억···개인정보위,조사방...",
-  "'1만건외교망해킹'국수본수사난항우려..'은폐의혹·신고기피'에..."
+  "'1만건외교망해킹'국수본수사난항우려..'은폐의혹·신고기피'에...",
+  "이통3사,여름휴가철멤버십혜택강화…여행부터외식까지",
+  "개인정보유출증거삭제·폐기...개인정보위제재공백손본다",
+  "메타,개인형AI에이전트본격확대예고…마크저커버그\"다음제품·...",
+  "현대차그룹,자율주행개발센터장에'자율주행AI전문가'권정현부사장...",
+  "삼성전자\"3분기HBM4매출전분기比3배↑…메모리부족2028년까지\"[컨...",
+  "삼성SDS,2분기영업익2318억원…클라우드·물류사업견인",
+  "순천시,안전한도시환경조성...'5년간공중케이블정비'시동",
+  "KT,펨토셀개인정보유출에과징금539억7900만원…조사방해혐의도...",
+  "개보위,개인정보유출·소액결제사태KT에과징금540억부과",
+  "디즈니,MS코파일럿버린다…오픈AI코덱스선택한이유"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-07-30T11:02:17.159363+09:00",
    "~KT 무단 540억 소액 속출 피해자 유출로 결제 제재 개인정보"
+  ],
+  [
+   "2026-07-30T11:08:17.579142+09:00",
+   "버린다 디즈니 선택한 이유 코덱스 코파일럿 MS"
   ]
  ],
- "last_run": "2026-07-30T11:06:37.726089+09:00",
+ "last_run": "2026-07-30T11:08:34.742798+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
