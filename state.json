@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443490",
-  "https://www.m-economynews.com/news/article.html?no=69202",
-  "https://www.tokenpost.kr/news/breaking/382652",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=320049",
-  "http://www.dailyesports.com/view.php?ud=202607292053159272b91e133c1f_27",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607290527&t=NN",
-  "http://www.fnnews.com/news/202607292045508064",
-  "https://www.kukinews.com/article/view/kuk202607290207",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=831501",
   "https://www.businessplus.kr/news/articleView.html?idxno=114805",
   "https://www.ksmnews.co.kr/news/view.php?idx=615588",
@@ -2999,17 +2991,17 @@
   "https://www.ekn.kr/web/view.php?key=20260730020147990",
   "https://www.dt.co.kr/article/12075749",
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4023464",
-  "https://www.sentv.co.kr/article/view/sentv202607300129"
+  "https://www.sentv.co.kr/article/view/sentv202607300129",
+  "https://www.m-i.kr/news/articleView.html?idxno=1397353",
+  "https://news.mtn.co.kr/news-detail/2026073016232699172",
+  "https://www.newsis.com/view/NISX20260730_0003730404",
+  "https://sateconomy.co.kr/news/view/1065596882866877",
+  "https://biz.heraldcorp.com/article/10826089",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598222377935",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718499",
+  "https://www.huffingtonpost.kr/article/259145"
  ],
  "seen_titles": [
-  "‘7월에만30%넘게폭락’왜하필코스피투자를…폭락엔다이유가있...",
-  "반도체투톱폭락…코스피5663.08마감",
-  "투구에얼굴맞은KT허경민,검사결과단순타박…\"어지럼증증세\"(종...",
-  "역대급실적기록했는데'반도체고점론'?SK하닉2분기성적표이면",
-  "빌게이츠,이르면내달방한…韓총리면담추진",
-  "푸드트럭음식먹고전광판으로원정경기응원…KT,지역소상공인위한...",
-  "몰래빠져나와시스템침투,새해킹기법까지…통제벗어나는AI어쩌나",
-  "[월드인프레임]멋대로해킹...\"AI속도조절\"촉구",
   "국내대기업,빅테크와'1400조'동맹⋯韓'AI공급망'거듭날까",
   "불행중다행,안면사구에긴급후송KT허경민‘단순타박소견’",
   "설미경충남도의원,\"출자·출연기관장대규모공백\"지적…조례보완...",
@@ -6001,13 +5993,17 @@
   "배경훈요청에화답한통신3사…요금·멤버십혜택확대",
   "‘펨토셀해킹’KT에과징금539억…SKT절반수준",
   "KT500억원대과징금폭탄…펨토셀관리소홀'1만6000명고객정보유...",
-  "KT,여름휴가혜택확대…멤버십·로밍·요금제강화"
+  "KT,여름휴가혜택확대…멤버십·로밍·요금제강화",
+  "남양주시,국가정보통신망인프라'고도화구축'완료",
+  "삼성SDS,2분기매출3.7조'전년比5.9%↑'...IT서비스∙물류고르게성...",
+  "[올댓차이나]AI광통신중지쉬촹,홍콩상장첫날일시10%급락",
+  "“재발없다”던위믹스,또핵심권한털렸다…이번엔522만개무단발행",
+  "KT과징금에서존재감확인한‘전관’…로펌세종,개보위소송‘다크...",
+  "현대차그룹,자율주행수장에권정현부사장영입…엔비디아·삼성AI경...",
+  "[컨콜]LG전자\"엔비디아와'피지컬AI'로봇협력…AIDC냉각부품인증...",
+  "[허프생각]KT클라우드합병설로보는KT'전임자지우기'촌극:구현모..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T10:40:31.505034+09:00",
-   "won via ~KT data base leak stations over fined illegal bln"
-  ],
   [
    "2026-07-30T10:42:26.162286+09:00",
    "해달라 무섭노 일베 원이에게 김선태 사투리 뭐가 논란"
@@ -6619,9 +6615,17 @@
   [
    "2026-07-30T16:40:26.548772+09:00",
    "찔끔 인하에 부담 던다 통신비 속도 통합요금제 느려 착시"
+  ],
+  [
+   "2026-07-30T16:42:18.179501+09:00",
+   "소송 세종 과징금에서 다크 전관 로펌 존재감 확인한 ~KT"
+  ],
+  [
+   "2026-07-30T16:42:18.179501+09:00",
+   "지우기 KT클라우드 합병설로 보는 구현모 촌극 ~KT 전임자"
   ]
  ],
- "last_run": "2026-07-30T16:40:47.391625+09:00",
+ "last_run": "2026-07-30T16:42:39.005688+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
