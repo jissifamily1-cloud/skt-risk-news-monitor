@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3650095",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3650094",
-  "https://news.mtn.co.kr/news-detail/2026072916322958838",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1009665",
-  "http://www.wsobi.com/news/articleView.html?idxno=315961",
-  "https://www.aitimes.com/news/articleView.html?idxno=213310",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4097832",
   "https://news.dealsitetv.com/articles/173958",
   "https://www.news1.kr/it-science/cc-newmedia/6242920",
@@ -2999,15 +2993,15 @@
   "http://www.4th.kr/news/articleView.html?idxno=2115515",
   "https://www.etoday.co.kr/news/view/2609285",
   "https://www.mediawatch.kr/news/article.html?no=260513",
-  "https://www.newsis.com/view/NISX20260730_0003730003"
+  "https://www.newsis.com/view/NISX20260730_0003730003",
+  "https://biz.sbs.co.kr/article_hub/20000325628?division=NAVER",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270744",
+  "https://www.sentv.co.kr/article/view/sentv202607300102",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=132683",
+  "http://www.datanews.co.kr/news/article.html?no=145826",
+  "http://www.metroseoul.co.kr/article/20260730500275"
  ],
  "seen_titles": [
-  "[증시인사이트]하이닉스호실적에도약세…코스피·코스닥급락",
-  "[퇴근길7분뉴스]코스피5663·레버리지ETF·양산40.3도·코카콜라",
-  "롯데카드제재31일심의⋯‘영업정지4.5개월’유지되나",
-  "방미통위,'권태선이사장해임보궐'김성근방문진이사임명처분취...",
-  "[배종찬의보안빅데이터]빈번한해킹으로‘공유재산’이되어버린‘...",
-  "[이슈]200만원넘는'삼성갤럭시Z폴드',어떻게구매해야할까?",
   "경기도폭염취약지5m단위로찾았다…180만명'고위험노출'",
   "“차체키우고안전·효율강화”…현대차,신형아반떼‘테크데이’...",
   "포항시,동북권ICT콤플렉스개소…'AI·SW인재양성'",
@@ -6001,7 +5995,13 @@
   "통신3사,휴가철요금·로밍·멤버십혜택확대",
   "KT,개인정보유출과징금539억원…SKT와무엇이달랐나",
   "KT,개인정보유출사고로540억과징금…로그삭제·거짓진술로고발...",
-  "[컨콜]삼성SDS\"2031년AI인프라800MW확대…엔비디아GPU3분기풀가동..."
+  "[컨콜]삼성SDS\"2031년AI인프라800MW확대…엔비디아GPU3분기풀가동...",
+  "[ETF따라잡기]코스피고점대비40%대폭락…시장흐름은?",
+  "\"신사업은안갯속,주가는턱없이비싸다…현대오토에버'비중축소'경...",
+  "SK텔레콤,8~9월고객혜택확대…에어포인트·T멤버십강화",
+  "KT,기업전용5G에갤럭시워치연동…산업안전서비스확대",
+  "KT개인정보유출사고과징금540억부과",
+  "현대차그룹,삼성·엔비디아출신권정현부사장영입…자율주행기술..."
  ],
  "recent_sigs": [
   [
@@ -6637,7 +6637,7 @@
    "800MW 2031년 3분기 GPU 풀가동 인프라 확대 삼성SDS"
   ]
  ],
- "last_run": "2026-07-30T14:28:40.612021+09:00",
+ "last_run": "2026-07-30T14:30:52.124995+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
