@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852203",
-  "https://www.newscj.com/news/articleView.html?idxno=3419509",
-  "https://www.joongang.co.kr/article/25449278",
-  "https://www.seoul.co.kr/news/economy/IT/2026/07/30/20260730030003?wlog_tag3=naver",
   "https://www.seoul.co.kr/news/economy/2026/07/30/20260730031004?wlog_tag3=naver",
   "https://www.kmib.co.kr/article/view.asp?arcid=1785311346&code=11151100&cp=nv",
   "https://www.chosun.com/economy/tech_it/2026/07/30/TIC23UQALVCEPB2BFF7FGP67YU/",
@@ -2999,13 +2995,13 @@
   "http://www.osen.co.kr/article/G1112849561",
   "https://www.insight.co.kr/news/565661",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688553",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356743"
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356743",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356779",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688554",
+  "https://www.the-today.com/news/articleView.html?idxno=88001",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=555430"
  ],
  "seen_titles": [
-  "[AIMY뉴스]24일중국증시'유가급등·AI조정,순환매장세지속'",
-  "IREN,AI클라우드계약체결후주가급등",
-  "부산국제장애인협의회,장애인정보화교육수료생1만명돌파",
-  "[김재진칼럼]쉬운Web3이야기",
   "선관위특검법처리임박…장동혁‘올공올인’멈출까",
   "대만,TSMC기술빼간직원에징역10년…한국선6년형그쳐[인재통째...",
   "장동혁연임포석?...'징계정치'이어'현역의원평가'새기준마련",
@@ -6001,13 +5997,13 @@
   "[오피셜]KT,‘에이밍’김하람에축객령…DRX‘지우’와맞트레이드...",
   "\"시간두면우상향\"최태원회장,SK하이닉스48억원어치샀다",
   "오픈AI첫하드웨어,화면달린스마트스피커가능성",
-  "정부,KT에과징금540억부과…로그삭제·거짓진술고발"
+  "정부,KT에과징금540억부과…로그삭제·거짓진술고발",
+  "[위기의참정권]'선관위특검법'여야합의로국회통과",
+  "샘알트먼\"AI가생각대신하면인간인지능력약해질수있다\"",
+  "[이슈]\"팔지말라더니본인은바닥에서샀다\"…최태원,첫SK하이닉스매...",
+  "오픈AI,과학자10만명에챗GPT무료제공…한국,아시아최다선정"
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T15:34:18.395446+09:00",
-   "경인방송 위반 비밀계약서 인정 여부 조건 대법원 재허가"
-  ],
   [
    "2026-07-30T15:42:17.400470+09:00",
    "러브콜 보내는 이유 앤트로픽이 구글 경제학자에"
@@ -6459,9 +6455,21 @@
   [
    "2026-07-30T21:32:23.996656+09:00",
    "화면 스마트 스피커 달린 가능성 하드웨어"
+  ],
+  [
+   "2026-07-30T21:36:20.200732+09:00",
+   "바닥에서 샀다 SK하이닉스 말라더니 팔지 본인은"
+  ],
+  [
+   "2026-07-30T21:36:20.200732+09:00",
+   "인지 생각 대신하면 AI가 인간 약해질 능력 있다"
+  ],
+  [
+   "2026-07-30T21:36:20.200732+09:00",
+   "과학자 챗GPT 한국 최다 선정 무료 아시아 10만명에 제공"
   ]
  ],
- "last_run": "2026-07-30T21:34:37.766648+09:00",
+ "last_run": "2026-07-30T21:36:43.210458+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
