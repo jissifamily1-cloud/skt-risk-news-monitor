@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.journalist.or.kr/news/article.html?no=61357",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649444",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649448",
-  "https://zdnet.co.kr/view/?no=20260729100239",
-  "https://www.chosun.com/economy/tech_it/2026/07/29/LOOSOEYDMJESZIQCP7E473FV7Q/",
-  "https://www.koreaherald.com/article/10822916",
-  "https://www.econovill.com/news/articleView.html?idxno=746521",
   "https://www.junggi.co.kr/news/articleView.html?idxno=37261",
   "https://www.inthenews.co.kr/news/article.html?no=89890",
   "https://www.mt.co.kr/tech/2026/07/29/2026072908300929825",
@@ -2999,16 +2992,16 @@
   "https://www.eroun.net/news/articleView.html?idxno=86577",
   "https://www.eroun.net/news/articleView.html?idxno=86578",
   "https://www.viva100.com/article/20260730500233",
-  "https://www.eroun.net/news/articleView.html?idxno=86579"
+  "https://www.eroun.net/news/articleView.html?idxno=86579",
+  "https://www.chosun.com/national/regional/2026/07/30/3SFIE7KTXJHHNIWTXQCFUBBNSM/",
+  "https://www.econotimes.com/US-Stocks-Slide-as-Fed-Holds-Rates-AI-Chip-Selloff-Deepens-and-Oil-Prices-Surge-1748117",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=46627",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=82521",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251742",
+  "https://www.yna.co.kr/view/AKR20260730047500017?input=1195m",
+  "https://www.kado.net/news/articleView.html?idxno=2063947"
  ],
  "seen_titles": [
-  "LG전자,전직원이AI로업무바꾼다…'모두의AX'속도전",
-  "\"폭염속이닝과부하\"…프로야구에이스들7월집단난조",
-  "'손실줄인'카카오엔터프라이즈,이재한대표첫과제'성장'",
-  "3G종료는IoT가변수?...과기정통부\"2G종료때와달라\"",
-  "밀양시,시민대상후보자7월31일부터8월21일까지모집",
-  "밀양댐저수율34%로하락…가뭄단계'주의'격상에시대응강화",
-  "창녕군시설관리공단,고령근로자에맞춤형냉방용품지원",
   "2030여성절반이상\"보톡스,규칙적으로\"",
   "[경북브리핑모음(7월29일)]봉화군,임대형스마트팜첨단냉방시스...",
   "삼전·닉스2분기합산영업익150조…AI훈풍에천문학적실적행진",
@@ -6001,7 +5994,14 @@
   "SKT,8~9월통신비·멤버십혜택확대…여행·영화할인강화",
   "LG유플러스,여름맞아로밍·멤버십혜택확대…청년지원도강화",
   "KT스카이라이프‘ipitTV’,출시1년만에가입자24만돌파",
-  "KT,여름맞아로밍·멤버십혜택확대…청년·장기고객지원강화"
+  "KT,여름맞아로밍·멤버십혜택확대…청년·장기고객지원강화",
+  "부산외국인관광객242만명...6000억썼다",
+  "USStocksSlideasFedHoldsRates,AIChipSelloffDeepensandOilPrice",
+  "뉴욕증시,연준·유가에급락",
+  "SKT,통신비·멤버십혜택확대…8~9월프로모션실시",
+  "KT,여름휴가철멤버십·로밍·요금제혜택대폭확대",
+  "KT스카이라이프'ipitTV'출시1년…가입자24만명돌파",
+  "'GPT자율해킹'충격속올트먼,미의회찾아AI규제론논의"
  ],
  "recent_sigs": [
   [
@@ -6401,7 +6401,7 @@
    "IPO Expectations GPT Revenue as Grow Surges Launch After"
   ]
  ],
- "last_run": "2026-07-30T09:28:32.943379+09:00",
+ "last_run": "2026-07-30T09:30:55.578395+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
