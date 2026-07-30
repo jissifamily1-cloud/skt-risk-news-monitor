@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687950",
-  "https://www.hankyung.com/article/202607293183g",
-  "https://www.newsis.com/view/NISX20260728_0003726839",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=754863",
-  "https://hbnpress.com/news/view/1065590973422167",
-  "http://www.suwonilbo.kr/news/articleView.html?idxno=317000",
-  "https://www.wikitree.co.kr/articles/1149202",
-  "http://www.segyebiz.com/newsView/20260729511750?OutUrl=naver",
-  "https://biz.sbs.co.kr/article_hub/20000325353?division=NAVER",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308588&inflow=N",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396633",
   "https://www.mhns.co.kr/news/articleView.html?idxno=754866",
   "https://www.asiatime.co.kr/article/20260729500263",
   "https://www.epnc.co.kr/news/articleView.html?idxno=404899",
@@ -2999,20 +2988,20 @@
   "https://biz.heraldcorp.com/article/10825594",
   "https://biz.heraldcorp.com/article/10825595",
   "https://www.aitimes.kr/news/articleView.html?idxno=41246",
-  "http://www.fnnews.com/news/202607301121117529"
+  "http://www.fnnews.com/news/202607301121117529",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87288",
+  "http://www.metroseoul.co.kr/article/20260729500305",
+  "https://www.mbceg.co.kr/post/138712",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607300455&t=NN",
+  "https://www.yna.co.kr/view/AKR20260730091600017?input=1195m",
+  "https://biz.heraldcorp.com/article/10825607",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=47756",
+  "https://www.kyeonggi.com/article/20260730580124",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260730.99099008977",
+  "https://www.news1.kr/it-science/general-it/6243963",
+  "https://byline.network/?p=9004111222613646"
  ],
  "seen_titles": [
-  "[총수家]젠슨황엔비디아CEO③ㅣ미·중AI경쟁속'오픈소스해법...",
-  "[포토]발언하는송경희개보위원장",
-  "[기획]SKT,AIDC전담'SK하이퍼'출범…연20조매출기대",
-  "‘10승어렵네’아홉수늪에빠진에이스들",
-  "미성년자성매매혐의전청주시의원30일영장실질심사",
-  "아모레퍼시픽,뷰티연구특화AI로차별화",
-  "[속보]정재헌SKT사장\"AIDC지능생산해글로벌시장공급하는수출공...",
-  "[취재수첩]\"삼성·SK·현대그리고KAIST\"…젠슨황의'깜짝언급',그...",
-  "SK하이닉스,AI메모리호황속최대실적…AI거품론일축(종합)",
-  "챗GPT가자주추천한라면은?…AI답변속브랜드순위나온다",
-  "'올공'청년들국회로모은국민의힘...장동혁\"특검에전산조작포함\"",
   "[속보]정재헌\"AI시대는국가간경쟁…AIDC얼라이언스는연대의시작\"",
   "이통3사,갤럭시Z폴드8사전예약돌입…구독·콘텐츠혜택경쟁",
   "크래프톤,한국어성능1위음성AI파운데이션모델공개",
@@ -6001,7 +5990,18 @@
   "KT개인정보유출과징금540억부과",
   "KT,로밍·멤버십·요금제혜택확대[통신3사여름휴가철고객혜택]",
   "오픈AI,전세계'학술연구자위한챗GPT'무료제공…2027년까지최대...",
-  "오픈AI,학술연구전용챗GPT출시...첨단모델무료제공"
+  "오픈AI,학술연구전용챗GPT출시...첨단모델무료제공",
+  "SK브로드밴드,Btv인천방송서어린이방송체험교육진행",
+  "SK브로드밴드,인천지역어린이대상방송국체험실시",
+  "양양군양양읍주정차홀짝제확대,보행로조성",
+  "7월물티슈AI브랜드평판조사베베숲1위달성…브라운2위,베베앙3위",
+  "NIPA,오픈소스AI커뮤니티15곳지원본격화",
+  "“3분기HBM4매출3배성장전망…美테일러팹2증설”[삼성전자2분...",
+  "광운대정보과학교육원,2027학년도신입생선발…\"화이트해커양성\"",
+  "개인정보위,KT에과징금540억…'펨토셀유출·조사방해'",
+  "‘펨토셀해킹’소액결제피해KT에과징금540억부과",
+  "오픈AI,학술연구자를위한챗GPT출시…한국대학·기관17곳지원",
+  "오픈AI,STM학술연구자용무료챗GPT출시"
  ],
  "recent_sigs": [
   [
@@ -6701,7 +6701,7 @@
    "연구원 설립해야 국립피지컬AI 공격 도의회 선제적 나선 전북에"
   ]
  ],
- "last_run": "2026-07-30T11:34:36.077018+09:00",
+ "last_run": "2026-07-30T11:36:42.121213+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
