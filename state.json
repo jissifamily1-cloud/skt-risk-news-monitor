@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/250324",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046142",
-  "http://www.fnnews.com/news/202607301036595623",
-  "http://www.iminju.net/news/articleView.html?idxno=167338",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279466",
-  "https://hbnpress.com/news/view/1065578506012442",
   "https://www.kukinews.com/article/view/kuk202607300055",
   "https://view.asiae.co.kr/article/2026073011100283976",
   "https://kpenews.com/View.aspx?No=4167850",
@@ -2999,15 +2993,15 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=83733",
   "https://www.dailian.co.kr/news/view/1672806/?sc=Naver",
   "https://www.topstarnews.net/news/articleView.html?idxno=16150517",
-  "https://www.news1.kr/world/international-economy/6244811"
+  "https://www.news1.kr/world/international-economy/6244811",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268274",
+  "https://www.tjb.co.kr/news05/bodo/view/id/101753",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=876630",
+  "https://biz.sbs.co.kr/article_hub/20000325806?division=NAVER",
+  "https://biz.heraldcorp.com/article/10826438",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688351"
  ],
  "seen_titles": [
-  "걱정하는척2차가해?..리센느에‘무섭노’논란물은‘돈선태’역...",
-  "베베숲,7월물티슈AI브랜드평판1위…89만건'진성소비자'데이터...",
-  "MS웃고,메타울었다...엇갈린빅테크성적표",
-  "삼성SDS,2분기매출전년보다5.9%늘어",
-  "“스펙보다‘생각근육’본다”…SK하이닉스AI맞춤형인재선발",
-  "빌게이츠내달방한…SK·HD현대등과SMR협력강화",
   "KT과징금540억원…'펨토셀해킹'에1만6000명개인정보유출",
   "'펨토셀해킹'KT과징금540억부과…개보위\"안전조치의무위반\"",
   "KT스카이라이프‘ipitTV’1년만에가입자24만…인터넷도66만",
@@ -6001,7 +5995,13 @@
   "마이크로소프트,시총4,500억달러증가…엔비디아제치고1위",
   "[현장]“21호도23호도아니었다”…AI가찾아준‘내피부’맞춤파운...",
   "미국증시,MS호실적에나스닥2.78%↑…반도체주·하이닉스ADR급반등",
-  "MS주가16%폭등…하루시총4500억달러늘어'역대최대'"
+  "MS주가16%폭등…하루시총4500억달러늘어'역대최대'",
+  "SK브로드밴드,'행복얼라이언스스쿨'직업체험…\"방송뉴스이렇게만...",
+  "美반도체주일제히급등…반도체지수8.19%↑,1년3개월만최대상승",
+  "美반도체주일제히폭등…반도체지수15개월만에최대상승",
+  "美반도체지수,15개월만에최대폭상승",
+  "최태원,하이닉스주식48억원매수…사전공시없이가능한최대치",
+  "'과징금쇼크'피한KT…신뢰회복과제"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,13 @@
   [
    "2026-07-31T07:32:23.349316+09:00",
    "제치고 증가 시총 마이크로소프트 500억달러 1위"
+  ],
+  [
+   "2026-07-31T07:36:17.824961+09:00",
+   "쇼크 회복 과제 과징금 ~KT 신뢰 피한"
   ]
  ],
- "last_run": "2026-07-31T07:34:36.943826+09:00",
+ "last_run": "2026-07-31T07:36:39.131126+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
