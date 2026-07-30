@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.jmbc.co.kr/news/view/66614",
-  "https://news.jtbc.co.kr/article/NB12310758?influxDiv=NAVER",
-  "https://byline.network/?p=9004111222613538",
-  "http://www.inews24.com/view/1989986",
-  "https://www.aitimes.com/news/articleView.html?idxno=213296",
-  "https://www.ceoscoredaily.com/page/view/2026072916262538897",
-  "https://www.newsis.com/view/NISX20260729_0003728658",
-  "https://www.ceoscoredaily.com/page/view/2026072916195530732",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688041",
-  "https://www.news1.kr/it-science/cc-newmedia/6243153",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718287",
   "https://www.dailysecu.com/news/articleView.html?idxno=207849",
   "http://www.osen.co.kr/article/G1112848366",
@@ -2999,19 +2989,19 @@
   "https://www.mk.co.kr/article/12111944",
   "https://www.news1.kr/world/usa-canada/6243125",
   "https://www.yna.co.kr/view/AKR20260730122900530?input=1195m",
-  "https://zdnet.co.kr/view/?no=20260730142019"
+  "https://zdnet.co.kr/view/?no=20260730142019",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591542042730",
+  "https://www.viva100.com/article/20260730500988",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853352",
+  "https://www.wikitree.co.kr/articles/1149447",
+  "https://www.seoulfn.com/news/articleView.html?idxno=634550",
+  "https://www.thelec.kr/news/articleView.html?idxno=60322",
+  "https://www.mk.co.kr/article/12111945",
+  "https://kidd.co.kr/news/246892",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=848889",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268468"
  ],
  "seen_titles": [
-  "[IT큐레이션]작은회사직원,다른직무는AI로처리한다",
-  "[컨콜]크래프톤,상반기매출2조6천으로'역대최대',매출7조원목표...",
-  "SK하이닉스,상반기영업익100조육박…빅테크10여개와장기계약,‘...",
-  "미토스,연구용인터넷암호체계결함찾아…\"장기파급력클듯\"",
-  "포항시,AI·SW신산업전진기지구축…'동북권ICT콤플렉스'첫선",
-  "SK하닉,상반기매출100조돌파…‘사상최대실적’이지만주가는하...",
-  "'4대주주총수'네이버이해진,체질개선앞세운혁신리더십돋보여",
-  "KT,제4회고객경청포럼개최...10개국고객목소리청취",
-  "[ISEC2026미리보기]XBOW,자율모의해킹으로보안검증의기준다시쓰...",
-  "쿠팡,과징금·화재…2분기실적발표앞두고'이중악재'",
   "폭락,또폭락…\"공포에던졌다\"반도체쇼크에코스피연일패닉",
   "[이슈플러스]전문화된랜섬웨어조직…공격대상전방위확대",
   "'AIDC얼라이언스'공식출범…AI데이터센터국가전략산업육성시동",
@@ -6001,7 +5991,17 @@
   "“선발진한축담당하길”…사우어와결별한KT,새외국인투수로데...",
   "오픈AI샘올트먼\"AI개발속도,사회가따라잡게늦춰야\"",
   "SKT보다800억적은KT과징금…개보위\"유출규모·중대성달라\"",
-  "KT스카이라이프,ipitTV서비스1년만에24만가입자확보"
+  "KT스카이라이프,ipitTV서비스1년만에24만가입자확보",
+  "옆커폰,휴대폰시세확인부터매장상담까지전국원스톱서비스제공",
+  "[컨콜]삼성SDS“2031년까지AI인프라800MW확대,하이엔드GPU입지강...",
+  "팀스파르타,스파르타빌더스CTO로손현태영입",
+  "\"자소서안봅니다\"…SK하이닉스신입채용,가장중요하게보는'이능...",
+  "SKT는1348억,KT는540억···'과징금격차'는왜벌어졌나",
+  "개보위,KT에과징금540억원…불법기지국개인정보유출제재",
+  "KT,삼성전자와산업안전공략…기업전용5G에갤럭시워치결합",
+  "개인정보위,통신업계‘보안불감증’저격…KT500억원대과징금·LG...",
+  "AI데이터센터,우주로가나…냉각기술이관건",
+  "LG유플러스,여름휴가철맞아'로밍·멤버십혜택'확대"
  ],
  "recent_sigs": [
   [
@@ -6639,9 +6639,17 @@
   [
    "2026-07-30T14:48:24.929146+09:00",
    "KT스카이라이프 확보 서비스 ipitTV 가입자 1년만에 ~KT 24만"
+  ],
+  [
+   "2026-07-30T14:50:32.544470+09:00",
+   "혜택 로밍 LG유플러스 ~LGU 맞아 멤버십 여름 휴가철 확대"
+  ],
+  [
+   "2026-07-30T14:50:32.544470+09:00",
+   "우주로 기술이 관건 가나 냉각 데이터센터"
   ]
  ],
- "last_run": "2026-07-30T14:48:45.237229+09:00",
+ "last_run": "2026-07-30T14:50:55.753065+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
