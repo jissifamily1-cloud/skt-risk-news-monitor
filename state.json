@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260725000117",
-  "https://www.mt.co.kr/tech/2026/07/29/2026072915402110005",
-  "http://www.fnnews.com/news/202607291351280240",
-  "http://www.press9.kr/news/articleView.html?idxno=80270",
-  "https://www.sentv.co.kr/article/view/sentv202607290188",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427541",
-  "https://zdnet.co.kr/view/?no=20260729162836",
-  "https://www.donga.com/news/Economy/article/all/20260729/134386966/1",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853184",
   "https://www.greened.kr/news/articleView.html?idxno=346305",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=853183",
   "https://sports.khan.co.kr/article/202607291629003?pt=nv",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04916726645519768",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5365",
   "https://www.newsis.com/view/NISI20260730_0002199888",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443546"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443546",
+  "https://www.ddaily.co.kr/page/view/2026073013124508886",
+  "https://www.ddaily.co.kr/page/view/2026073009583926030",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422767",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268465",
+  "https://www.newspost.kr/news/articleView.html?idxno=224566",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=169049",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04926566645519768",
+  "https://www.ajunews.com/view/20260730110559917",
+  "https://hbnpress.com/news/view/1065589149736418"
  ],
  "seen_titles": [
-  "SKT,6880억개'독파모'공개…\"AI가실적·배당키울것\"",
-  "배경훈부총리,'AI데이터센터얼라이언스'위촉장전달",
-  "오픈AI‘멋대로침투’4곳더…경각심높아진정부·업계[팩플]",
-  "“한국은세계서가장역동적인개발자시장”…애플,국내앱생태계...",
-  "터미네이터공포현실로?…“5년내‘AI재앙적결과’확률20%이상”",
-  "[자동차업계동향]현대차제네시스한국타이어(7.29)",
-  "경북대사범대,교육부AI교원양성사업선정…교육과정전면개편",
-  "지난해가입자정보유출사고KT,제재수위는?",
-  "개인정보보호위원회,KT제재수위는?",
   "KT해킹제재오늘심의...과징금최대1930억원거론",
   "\"12일걸리던연구가5분만에\"...아모레퍼시픽,R&D특화AI'레몬'구축",
   "'교육부터창업까지원스톱지원'…경북도,포항에'ICT콤플렉스'구축",
@@ -6001,7 +5992,16 @@
   "세계유산위원회부산서11일대장정마무리…역대최대3140명등록",
   "삼성SDS,2분기매출3조7178억원·영업익2318억원...\"AI인프라투자\"지...",
   "[그래픽]과징금부과KT…로그삭제·허위자료로고발당해",
-  "미국의'외국산로봇수입금지'에중국반발,\"테슬라나엔비디아규제..."
+  "미국의'외국산로봇수입금지'에중국반발,\"테슬라나엔비디아규제...",
+  "디도스·랜섬웨어공격폭증…상반기사이버침해19.5%늘었다",
+  "\"AI가거품이라고?\"MS의근거있는반박…애저에서코파일럿까지수요...",
+  "삼성전자,2028년까지메모리공급부족전망···D램·낸드다년LTA주...",
+  "[2Q실적]삼성전기,영업익4404억원…전년대비106.7%↑",
+  "삼성SDS,2분기매출3.7조원…IT서비스·물류사업동반성장",
+  "일본증시,어드반테스트호실적속'장중상승'",
+  "네이블,라이프스타일MVNO‘알비레오’출범",
+  "KT\"개보위처분무겁게받아들여\"…행정소송여부는'검토중'",
+  "SK하이닉스,AI시대인재채용전형대폭개편...'생각근육'중심평가"
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,13 @@
   [
    "2026-07-30T14:06:16.921051+09:00",
    "반발 수입 금지 외국산 중국 규제 미국의 로봇 테슬라나"
+  ],
+  [
+   "2026-07-30T14:08:15.816810+09:00",
+   "알비레오 출범 라이프스타일 네이블 MVNO"
   ]
  ],
- "last_run": "2026-07-30T14:06:40.026632+09:00",
+ "last_run": "2026-07-30T14:08:40.202116+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
