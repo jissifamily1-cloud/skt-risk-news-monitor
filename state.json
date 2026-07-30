@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260729000338",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404910",
-  "https://www.tvreport.co.kr/world/article/1064761/",
-  "https://www.korea.kr/news/policyNewsView.do?newsId=148969014&call_from=naver_news",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097837",
-  "https://www.sentv.co.kr/article/view/sentv202607290183",
   "https://www.seoultimes.news/news/article.html?no=2000098282",
   "https://www.newspim.com/news/view/20260729000939",
   "https://www.joongdo.co.kr/web/view.php?key=20260729010008829",
@@ -2999,15 +2993,15 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=270747",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8623777",
   "http://www.inews24.com/view/1990361",
-  "http://www.civicnews.com/news/articleView.html?idxno=40234"
+  "http://www.civicnews.com/news/articleView.html?idxno=40234",
+  "https://www.smarttoday.co.kr/ko-kr/articles/109961",
+  "https://www.bigtanews.co.kr/article/view/big202607300016",
+  "http://www.fnnews.com/news/202607301340454243",
+  "http://www.lkp.news/news/articleView.html?idxno=82427",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60179",
+  "https://www.kbmaeil.com/article/20260730500492"
  ],
  "seen_titles": [
-  "반도체주부진에애플'활짝'…시총장중5조달러뚫었다",
-  "SK하이퍼,아시아AI인프라허브만든다…'최태원식'AIDC공개",
-  "오픈AI샘올트먼\"AI개발속도,사회가따라잡게늦춰야\"",
-  "민주당과방위\"서울시·시의회·방미통위,'TBS정상화협의체'구성하...",
-  "사천시민단체·KAI노조\"한화그룹,KAI인수시도반대\"",
-  "8000명자르고\"AI가일자리늘렸다\"…저커버그의고용낙관론",
   "불법스팸매출최대6%과징금부과",
   "SKT,6880억매개변수AI모델‘A.XK2’공개…“후속모델은조단위”",
   "정부·민간‘AIDC얼라이언스’출범…AI데이터센터18.4GW전략본격화",
@@ -6001,7 +5995,13 @@
   "\"2분기굴욕씻는3분기78조폭격…SK하이닉스,초대형실적역전극\"",
   "방미통위,불법스팸과징금기준마련…최대6%부과",
   "SK하이닉스,면접만'반나절'…AI인재채용전형전면개편",
-  "초록색불떴다고해킹?스마트폰표시의진실"
+  "초록색불떴다고해킹?스마트폰표시의진실",
+  "개인정보위,'안전조치의무위반'개인정보유출KT에과징금540억…악...",
+  "KT,해킹개인정보유출'과징금540억'부과",
+  "\"KT·LG유플개인정보유출처벌안끝났다\"...추가제재가능성",
+  "현대차그룹,엔비디아·삼성전자출신기술전문가영입…'자율주행AI'...",
+  "[위클리디지털포스트]'만년2등'AMD의반격...엔비디아루빈쫒아온...",
+  "뉴스만봐도해킹된다…정부,北라자루스‘사이버비상경보’"
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,13 @@
   [
    "2026-07-30T14:44:18.224068+09:00",
    "표시의 진실 떴다고 스마트폰 초록색"
+  ],
+  [
+   "2026-07-30T14:46:15.728755+09:00",
+   "만년 쫒아온 AMD의 루빈 반격 2등"
   ]
  ],
- "last_run": "2026-07-30T14:44:38.436099+09:00",
+ "last_run": "2026-07-30T14:46:36.660230+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
