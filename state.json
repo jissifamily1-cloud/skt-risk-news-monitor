@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.finomy.com/news/articleView.html?idxno=258286",
-  "https://www.mydaily.co.kr/page/view/2026072917284262884",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097711",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=831493",
-  "https://www.sportschosun.com/baseball/2026-07-29/202607290100185440011918",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3650213",
-  "https://platum.kr/archives/291604",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213399",
-  "http://www.osen.co.kr/article/G1112848453",
   "https://www.xportsnews.com/article/2177519",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=853282",
   "http://www.economytalk.kr/news/articleView.html?idxno=423161",
@@ -2999,18 +2990,18 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=536728",
   "http://www.osen.co.kr/article/G1112849212",
   "https://www.ajunews.com/view/20260730155112725",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30334"
+  "http://www.fieldnews.kr/news/articleView.html?idxno=30334",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=710854",
+  "https://www.newspim.com/news/view/20260730001235",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718469",
+  "https://www.hellot.net/news/article.html?no=114097",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80585",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=808291",
+  "https://www.gokorea.kr/news/articleView.html?idxno=873595",
+  "https://byline.network/?p=9004111222613720",
+  "https://www.yna.co.kr/view/GYH20260730000700044?input=1363m"
  ],
  "seen_titles": [
-  "전남광주교육청-남북체육교류협회,남북청소년스포츠교류활성화업...",
-  "중기부,미래신안보혁신기업육성실무협의체가동한다",
-  "‘HBM+LTA’양날개단SK하이닉스…AI메모리선순환굳힌다",
-  "하이닉스,1만원팔아7630원남겨…HBM날개달고'꿈의이익률'달성",
-  "“데이터창고넘어지능수출공장으로”…민관합동‘AIDC얼라이언...",
-  "LG유플러스,900억자사주추가매입…주주환원·AIDC투자병행",
-  "방미통위,김성근방문진보궐이사임명처분취소…\"실익이없다\"",
-  "올해최고문제작안방1열등판…영화제3관왕빛나는압도적저력→미...",
-  "크래프톤,내년까지신작5종출시...상반기매출2조6616억기록",
   "中테크상장87%급증…하반기엔양쯔메모리·문샷·딥시크‘대어’도",
   "'와120m미쳤다'이대호후계자,대만특급상대솔로포폭발…4년만에...",
   "LGU+,주당배당금270원결정",
@@ -6001,13 +5992,18 @@
   "야구장비상,kt허경민얼굴부상병원행…NC테일러퇴장조치",
   "50억에LG떠나KT로,대기록달성눈앞이다…이승엽-최형우-최정이어...",
   "박찬대인천시장,1조원AI커넥티드카국비사업유치총력",
-  "KT,무단소액결제사고과징금540억…\"개인정보유출뿐아니라금전..."
+  "KT,무단소액결제사고과징금540억…\"개인정보유출뿐아니라금전...",
+  "남양주시,국가정보통신망고도화완료…스마트행정서비스강화",
+  "[홍콩특징주]'키미K3'가중치공개,중국국산AI연산생태계지원...",
+  "[Car&Now]현대차그룹자율주행개발센터장영입·람보르기니상반기매...",
+  "S2W,OWASP기반AI취약점진단으로기업AI도입안전성지원",
+  "[초점]KT,개인정보유출에사건은폐까지…과징금540억·피고발",
+  "[포커스]KT,'총체적부실덩어리'...보안은'구멍'자료는'거짓'",
+  "\"북한배후해킹조직'라자루스',사이버공격급증…개인과기업타깃...",
+  "국가배후해킹조직,뉴스·병원사이트악용…국내이용자공격주의",
+  "[그래픽]북한해킹조직해킹기법워터링홀"
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T10:10:26.191806+09:00",
-   "시대에도 바빠질 우린 없다 4일제"
-  ],
   [
    "2026-07-30T10:12:23.666163+09:00",
    "목표 백준호 NPU 대표 퓨리오사 채우는 AIDC에"
@@ -6667,9 +6663,17 @@
   [
    "2026-07-30T16:04:18.951187+09:00",
    "위험한 전력 제국의 반도체"
+  ],
+  [
+   "2026-07-30T16:10:33.648548+09:00",
+   "부실 자료는 구멍 덩어리 거짓 보안은 총체적 ~KT"
+  ],
+  [
+   "2026-07-30T16:10:33.648548+09:00",
+   "해킹조직 기법 워터링홀 북한"
   ]
  ],
- "last_run": "2026-07-30T16:08:38.033947+09:00",
+ "last_run": "2026-07-30T16:10:53.146200+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
