@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37261",
-  "https://www.inthenews.co.kr/news/article.html?no=89890",
-  "https://www.mt.co.kr/tech/2026/07/29/2026072908300929825",
-  "https://www.kukinews.com/article/view/kuk202607270202",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422713",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=831309",
-  "https://www.viva100.com/article/20260728500817",
-  "https://www.gosiweek.com/article/1065569868621825",
-  "https://www.theguru.co.kr/news/article.html?no=105048",
-  "https://www.medipana.com/news/articleView.html?idxno=415166",
-  "https://www.rapportian.com/news/articleView.html?idxno=238787",
   "https://www.imaeil.com/page/view/2026072909534906207",
   "https://www.newsis.com/view/NISX20260729_0003727669",
   "https://www.it-b.co.kr/news/articleView.html?idxno=89288",
@@ -2999,20 +2988,20 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=82521",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251742",
   "https://www.yna.co.kr/view/AKR20260730047500017?input=1195m",
-  "https://www.kado.net/news/articleView.html?idxno=2063947"
+  "https://www.kado.net/news/articleView.html?idxno=2063947",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60174",
+  "http://www.inews24.com/view/1989217",
+  "https://view.asiae.co.kr/article/2026073009245029469",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155618",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1172245",
+  "https://www.socialvalue.kr/news/view/1065572423602780",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=270611",
+  "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000047.html",
+  "https://www.viva100.com/article/20260730500276",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240694",
+  "https://www.etnews.com/20260730000054"
  ],
  "seen_titles": [
-  "2030여성절반이상\"보톡스,규칙적으로\"",
-  "[경북브리핑모음(7월29일)]봉화군,임대형스마트팜첨단냉방시스...",
-  "삼전·닉스2분기합산영업익150조…AI훈풍에천문학적실적행진",
-  "SKT,독자AI파운데이션모델2차공개…매개변수6880억개로확대",
-  "SKT,6880억매개변수'에이닷엑스K2'공개…KG스틸·국방부·SK하이닉스...",
-  "SKT,688B급독파모2차모델'A.XK2'공개…산업·일상AI확산나선다",
-  "[Telecom&Now]SKB,지역어린이대상방송국체험교육…'행복얼라이...",
-  "◇'기업의초과이익'이뭐길래",
-  "엔비디아냐애플이냐…2026년더나은투자처는?",
-  "100일넘긴방미통위숙의,YTN구성원들'유진퇴출'108배",
-  "대전국제와인엑스포주빈국에뉴질랜드…현지와이너리대거참여",
   "대구광역시,남대구나들목우회도로8월1일부터전면운영...교통혼잡...",
   "\"AI속도조절장치마련시급\"…美빅테크직원들,국제공조요구",
   "실리콘밸리“AI개발속도조절할국제체계마련해달라”",
@@ -6001,7 +5990,18 @@
   "SKT,통신비·멤버십혜택확대…8~9월프로모션실시",
   "KT,여름휴가철멤버십·로밍·요금제혜택대폭확대",
   "KT스카이라이프'ipitTV'출시1년…가입자24만명돌파",
-  "'GPT자율해킹'충격속올트먼,미의회찾아AI규제론논의"
+  "'GPT자율해킹'충격속올트먼,미의회찾아AI규제론논의",
+  "[디지털포스트모닝픽]메타,현금말랐다…'AI투자'부메랑",
+  "3G종료는IoT가변수?...과기정통부\"2G종료때와달라\"",
+  "티머니,카카오톡대화창에생성형AI챗봇도입…교통·항공·모빌리티...",
+  "삼성전자,AI반도체날개달고'최대실적'경신…DS가이끈89조영업...",
+  "코카콜라5%급등이어사상최고가…워런버핏또웃었다",
+  "“스펙대신'생각근육'본다”…SK하이닉스,AI인재찾는반나절심층...",
+  "[조기제변호사의로(Law)인사이트(52-1)]최태원-노소영'세기의이혼...",
+  "LG유플러스,900억원규모자사주추가매입…AI데이터센터에1.3조추...",
+  "LG유플러스,여름휴가철로밍·멤버십등고객혜택확대",
+  "KT-삼성전자,기업전용5G기반'안전관리워치'출시",
+  "KT스카이라이프,'ipitTV'24만·인터넷66만가입자돌파"
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,13 @@
   [
    "2026-07-30T09:24:16.622074+09:00",
    "IPO Expectations GPT Revenue as Grow Surges Launch After"
+  ],
+  [
+   "2026-07-30T09:32:19.185468+09:00",
+   "세기의 이혼"
   ]
  ],
- "last_run": "2026-07-30T09:30:55.578395+09:00",
+ "last_run": "2026-07-30T09:32:37.731168+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
