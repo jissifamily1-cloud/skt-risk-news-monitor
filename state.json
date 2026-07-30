@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1308625&inflow=N",
-  "https://www.mt.co.kr/tech/2026/07/29/2026072915584016623",
-  "http://www.fnnews.com/news/202607272007568256",
-  "https://www.ddaily.co.kr/page/view/2026072916095250831",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546213",
-  "https://www.hidomin.com/news/articleView.html?idxno=715207",
-  "https://www.munhwa.com/article/11605897",
-  "https://www.hankyung.com/article/202607293256i",
-  "https://www.dt.co.kr/article/12075491",
-  "https://www.newspim.com/news/view/20260725000118",
-  "https://www.dt.co.kr/article/12075490",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=168981",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05418566645519440",
   "https://www.mt.co.kr/industry/2026/07/29/2026072912560881559",
@@ -2999,20 +2988,20 @@
   "https://www.ezyeconomy.com/news/articleView.html?idxno=238167",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133684",
   "https://www.ekn.kr/web/view.php?key=20260730026067848",
-  "https://www.econovill.com/news/articleView.html?idxno=746662"
+  "https://www.econovill.com/news/articleView.html?idxno=746662",
+  "https://www.joongang.co.kr/article/25449472",
+  "https://sports.donga.com/sports/article/all/20260730/134394078/1",
+  "https://www.seoul.co.kr/news/society/2026/07/30/20260730500122?wlog_tag3=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3650989",
+  "https://zdnet.co.kr/view/?no=20260727085255",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687098",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687057",
+  "https://www.g-enews.com/view.php?ud=202607230942538027906806b77b_1",
+  "https://www.topdaily.kr/articles/111213",
+  "https://www.econovill.com/news/articleView.html?idxno=746665",
+  "https://www.econovill.com/news/articleView.html?idxno=746666"
  ],
  "seen_titles": [
-  "오픈AI,'챗GPT'유명작가문체모방요청차단…저작권논란대응강...",
-  "월급은올랐지만지갑은더얇아져...베트남가계덮친'이중압박'",
-  "경남고성군,2026공룡엑스포SNS이벤트실시",
-  "애플\"개발도구로글로벌생태계선순환\"…인앱결제는여전히'불씨'",
-  "김용범\"샌프란AI선언,한국AI공급망허브만드는출발점\"",
-  "이젠AI가성비전쟁?오픈AI,GPT-5.6으로판뒤집을까[스프]",
-  "한미빅테크1,300조원'AI동맹'...'K-스타트업투자유치'도시동",
-  "메모리·AI센터·로봇‥1,375조'빅딜'성사",
-  "'AIDC얼라이언스'가동…정재헌SKT대표\"AI시대글로벌시장선도시...",
-  "SKT,독파모2차'A.XK2'모델공개...\"지식·추론능력강화\"",
-  "18.4GWAI데이터센터시동…정부.민간얼라이언스출범",
   "[사설]영업이익76%착시…떡고물챙길때인가",
   "[의료기기업계소식]7월29일",
   "서로의손잡은이재명대통령-다리오아모데이엔트로픽CEO",
@@ -6001,7 +5990,18 @@
   "KT,개인정보유출에540억과징금…새노조\"탈통신경영이남긴청구서...",
   "KT,개인정보유출·조사방해…539억원과징금",
   "KT알티미디어,WidevineWLS종료앞두고Widevine로컬라이선스서버서...",
-  "[개보위,그리고KT②]군부대에서사라진펨토셀한대가벌인일"
+  "[개보위,그리고KT②]군부대에서사라진펨토셀한대가벌인일",
+  "통신3사‘고물가대응책’…신규고객엔포인트,멤버십할인확대",
+  "“과감하게적극적으로”공격력끌어올린거인의4번타자한동희,도약...",
+  "‘글로벌문화도시위상과시’부산,세계유산위성공개최…경제파...",
+  "용인시정연구원,빅데이터분석플랫폼활성화방안제안",
+  "[AI는지금]오픈AI모델,허깅페이스시스템침입…\"실행기록공개하라...",
+  "샘알트먼\"우리는이미특이점안에있다…AI가인간넘는순간은지금...",
+  "[AI핫이슈]K-AI칩시험대...글로벌AI스타트업韓진출활발",
+  "[김대호진단]반도체열전(20)딥시크(DeepSeek)...공짜AI\"놀라운시...",
+  "SK㈜,실트론매각논의…최태원'9440억재산분할'실탄만들까",
+  "[개보위,그리고KT④]앞으로어떻게?",
+  "[개보위,그리고KT⑤]책임있는KT의수습,업계\"지켜봐야\""
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,17 @@
   [
    "2026-07-30T13:52:18.877785+09:00",
    "군부대에서 펨토셀 ~KT 대가 벌인 사라진"
+  ],
+  [
+   "2026-07-30T13:54:19.055606+09:00",
+   "앞으로 ~KT 어떻게"
+  ],
+  [
+   "2026-07-30T13:54:19.055606+09:00",
+   "지켜봐야 책임있는 KT의 ~KT 업계 수습"
   ]
  ],
- "last_run": "2026-07-30T13:52:42.501427+09:00",
+ "last_run": "2026-07-30T13:54:39.699524+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
