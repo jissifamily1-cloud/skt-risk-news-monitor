@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=313115",
-  "http://www.joynews24.com/view/1990065",
-  "https://www.tokenpost.kr/news/economy/382629",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3650271",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607290596&t=NN",
-  "https://www.kyeongin.com/article/1768127",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1600&key=20260730.22014008566",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2249726",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=256910",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2249722",
   "https://www.hani.co.kr/arti/opinion/column/1270568.html",
@@ -2999,17 +2991,17 @@
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290968448271",
   "https://view.asiae.co.kr/article/2026073016114829621",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336120",
-  "https://www.hankookilbo.com/news/article/A2026073015340004617?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026073015340004617?did=NA",
+  "http://www.fnnews.com/news/202607301602370022",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3650741",
+  "http://www.newstomato.com/ReadNews.aspx?no=1308771&inflow=N",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166944",
+  "http://www.metroseoul.co.kr/article/20260730500407",
+  "https://dealsite.co.kr/articles/166248",
+  "https://www.munhwa.com/article/11606174",
+  "https://www.etnews.com/20260730000411"
  ],
  "seen_titles": [
-  "'3이닝도못버티고충격강판'90억투자했는데뒤에서2등이라니,김태...",
-  "[이슈하이킥]3대메가프로젝트,인재양성은어떻게?",
-  "'45홈런페이스'LG복덩이맞네!오스틴3년연속30홈런폭발→KBO역대...",
-  "김도영꼼짝마!오스틴,3년연속30홈런'금자탑'…KBO통산9번째,우즈...",
-  "세종시'시민사회비상연석회의'가동...'행정수도특별법제정'에사활",
-  "해킹당한허깅페이스,상용AI는조사도거절했다",
-  "마이스터즈,'엔비디아인셉션'멤버로선정",
-  "우즈,테임즈와나란히...LG우승복덩이,3시즌연속30홈런달성→역대...",
   "'또넘겼다!'오스틴,키움전선제3점포폭발…KBO역대9번째'3시즌연...",
   "하주석보낸한화,2주연속KBO리그관심도1위",
   "[종합]\"방탄커피,엑소좀,네플스,알룰로스,원뱅킹,휴플러스,키토선생\"등...",
@@ -6001,13 +5993,17 @@
   "사상최고실적에도우려만커진반도체,기술·공급확충으로회의론...",
   "삼성SDS\"두나무와스테이블코인·AI협력추진…사업모델구체화\"(종합...",
   "이진숙과방위배치민주당이해충돌자문요청…李\"왕따괴롭힘\"",
-  "1위삼성과1.5경기차...KT,외국인교체로'승부수'띄운다"
+  "1위삼성과1.5경기차...KT,외국인교체로'승부수'띄운다",
+  "李대통령,'1호韓·칠레FTA'개정논의…'구리·리튬'핵심광물협력",
+  "조지훈전주시장취임1달,\"시민소통·재정정상화\"강조",
+  "삼전·하닉분기영업익150조신기원…하반기HBM4물량'경쟁'격화",
+  "KT해킹과징금539억원…쿠팡·SKT와차이만든건'관련매출'",
+  "SK하이닉스,AI인재선발방식바꾼다...자소서없애고심층면접도입",
+  "KT,펨토셀사고과징금540억…'추가제재'가능성",
+  "오픈AI,과학기술연구자10만명지원…최신AI1년무료",
+  "“AI,해킹명령5317개실행…멕시코정부기관9곳피해”"
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T10:14:18.015777+09:00",
-   "딜레마 현대차 기아의 맞겠지 전기차"
-  ],
   [
    "2026-07-30T10:16:24.647299+09:00",
    "~KT 늘렸다 유통 여름철 마련 멤버십할인 상생자금 공사업"
@@ -6671,9 +6667,13 @@
   [
    "2026-07-30T16:14:17.001030+09:00",
    "구체화 스테이블 사업모델 코인 두나무와 삼성SDS 협력"
+  ],
+  [
+   "2026-07-30T16:16:16.161823+09:00",
+   "멕시코 피해 정부기관 명령 9곳 실행 5317개"
   ]
  ],
- "last_run": "2026-07-30T16:14:42.558823+09:00",
+ "last_run": "2026-07-30T16:16:41.108872+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
