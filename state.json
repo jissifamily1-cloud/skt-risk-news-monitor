@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336089",
-  "http://www.boannews.com/media/view.asp?idx=144929&kind=6",
   "http://www.dailypop.kr/news/articleView.html?idxno=100977",
   "https://www.kgnews.co.kr/news/article.html?no=905732",
   "https://www.mk.co.kr/article/12110636",
@@ -2999,11 +2997,11 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=62203",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=62202",
   "http://www.boannews.com/media/view.asp?idx=144947&kind=3",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454105"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454105",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102169",
+  "https://www.tokenpost.kr/news/breaking/382942"
  ],
  "seen_titles": [
-  "KT,서울외국인주민센터서'고객경청포럼'",
-  "KT,찾아가는고객경청포럼'개최",
   "KT‘제4회고객경청포럼’",
   "KT고객경청포럼",
   "'고객이바꾸는KT,찾아가는고객경청포럼'",
@@ -6001,13 +5999,11 @@
   "베베숲,'진성소비자'가뽑은2026년7월물티슈AI브랜드평판1위",
   "[종합]삼성전자,2분기에만89조벌었다…'AI반도체잭팟'에전세계...",
   "AI보안사각지대잡는다...S2W,오펜시브취약점진단사업공략",
-  "양양군,남문9·10길도로환경개선나선다···주정차홀짝제확대·..."
+  "양양군,남문9·10길도로환경개선나선다···주정차홀짝제확대·...",
+  "AI가업무대신처리한다…구글'제미나이스파크'출시",
+  "전오픈AI연구원펀드자금모집…AI랠리식었나"
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T08:20:27.392052+09:00",
-   "KT스카이라이프 24만 1년 ~KT 만에 돌파 TV 가입자 IPTV ipit"
-  ],
   [
    "2026-07-30T08:26:18.715760+09:00",
    "보고 폐지 면접 몰렸는데 반나절 억대 자소서 성과급"
@@ -6635,9 +6631,13 @@
   [
    "2026-07-30T14:14:15.324803+09:00",
    "T1 팬들 ~KT 지나친 KT에도 외부 완패한 내부불화 체념에 일정 논란까지"
+  ],
+  [
+   "2026-07-30T14:22:16.735491+09:00",
+   "펀드 자금모집 식었나 랠리 연구원"
   ]
  ],
- "last_run": "2026-07-30T14:20:47.073842+09:00",
+ "last_run": "2026-07-30T14:22:34.566931+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
