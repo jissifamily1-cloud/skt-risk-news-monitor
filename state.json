@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260729167200013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260729167600013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260729166900013?input=1196m",
   "http://www.fnnews.com/news/202607291533536929",
   "https://www.yna.co.kr/view/PYH20260729166800013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260729167500013?input=1196m",
@@ -2999,12 +2996,12 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=738523",
   "https://www.nspna.com/news/?newsid=822500",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5366",
-  "https://www.yna.co.kr/view/AKR20260730105800530?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260730105800530?input=1195m",
+  "https://www.newsis.com/view/NISX20260730_0003729728",
+  "https://www.newspim.com/news/view/20260730000814",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=442071"
  ],
  "seen_titles": [
-  "\"인생최대공포\"…단숨에5200선까지무너진코스피,지금팔아야할까",
-  "KT과징금제재임박…'관련매출'핵심변수로",
-  "SK하이닉스\"100원팔면76원남아\"…엔비디아·TSMC앞질렀다",
   "미국,중국산휴머노이드로봇수입금지",
   "안파는이유있었네…사상최고가찍은버핏의‘최애종목’",
   "마이스터즈,엔비디아인셉션프로그램합류...AI서비스고도화추진",
@@ -6001,7 +5998,10 @@
   "빌게이츠,1년만에한국재방문…SMR전력인프라돌파구찾는다",
   "[기업실적]삼성SDS,2Q실적‘상승’…영업이익전년比0.7%↑",
   "현대차그룹,삼성전자출신권정현부사장영입...\"자율주행ㆍAI전문성...",
-  "[일문일답]개보위\"KT유출,중대한위반…피해보상·시정조치고려\""
+  "[일문일답]개보위\"KT유출,중대한위반…피해보상·시정조치고려\"",
+  "개인정보위\"LGU+경찰수사결과나오면정보유출조사재개\"",
+  "[AI프리뷰]30일대구삼성-KIA전,'홈런1위'KIA상대하는'2G피홈런無...",
+  "한국남동발전,차세대발전설비관리시스템'GENi2.0'오픈...AI기반분..."
  ],
  "recent_sigs": [
   [
@@ -6601,7 +6601,7 @@
    "유출 ~KT 중대한 위반 고려 피해보상 시정조치"
   ]
  ],
- "last_run": "2026-07-30T12:56:39.566071+09:00",
+ "last_run": "2026-07-30T12:58:46.741034+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
