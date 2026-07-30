@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026072014085664181",
-  "https://www.the-today.com/news/articleView.html?idxno=87978",
   "https://www.seoul.co.kr/news/politics/2026/07/30/20260730006004?wlog_tag3=naver",
   "https://www.donga.com/news/Economy/article/all/20260730/134391164/2",
   "https://www.hankookilbo.com/news/article/A2026072915190001930?did=NA",
@@ -2999,11 +2997,11 @@
   "https://www.danbinews.com/news/articleView.html?idxno=33433",
   "http://www.yonhapnewstv.co.kr/news/MYH20260730210915H2d",
   "https://news.jtbc.co.kr/article/NB12310952?influxDiv=NAVER",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149962"
+  "https://www.smartbizn.com/news/articleView.html?idxno=149962",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688546",
+  "https://www.hankyung.com/article/202607306648i"
  ],
  "seen_titles": [
-  "CPU까지팔겠다는엔비디아,삼전닉스도‘함박웃음’",
-  "배경훈,SKT·KT·LGU+CEO에통신사아닌AI기업강조",
   "'수급지형이바뀌었다'…달러-원하향안정화기대되는이유",
   "실리콘밸리서AI,남미서자원확보…이재명대통령'신경제외교'출항",
   "AMD,엔트로픽에최대7조원대투자…AI칩공급동맹구축",
@@ -6001,17 +5999,11 @@
   "키미K3",
   "상반기사이버침해1,236건…디도스공격기승",
   "[더in터뷰]국민원성산'레버리지ETF'…정부대책엔\"너무늦었다\"",
-  "최태원,SK하이닉스주식48억원장내매수···책임경영의지강조"
+  "최태원,SK하이닉스주식48억원장내매수···책임경영의지강조",
+  "전오픈AI연구원설립헤지펀드,AI칩주하락에베팅",
+  "'내부갈등'KT,에이밍과결별...KRX지우와원딜트레이드"
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T15:16:24.219784+09:00",
-   "for ~KT customer better service feedback collects foreign"
-  ],
-  [
-   "2026-07-30T15:16:24.219784+09:00",
-   "사업 취약점 확대 점검한다 S2W 서비스도 진단"
-  ],
   [
    "2026-07-30T15:25:42.413024+09:00",
    "출시 ~KT 산업안전 갤럭시 삼성전자 워치 서비스 기반"
@@ -6467,9 +6459,17 @@
   [
    "2026-07-30T21:12:21.291720+09:00",
    "프리미엄 MVNO 시장 네이블 플랫폼 통신 알비레오 결합으로 출시"
+  ],
+  [
+   "2026-07-30T21:18:25.910449+09:00",
+   "지우와 내부 갈등 ~KT 원딜 에이밍과 트레이드 KRX 결별"
+  ],
+  [
+   "2026-07-30T21:18:25.910449+09:00",
+   "베팅 헤지펀드 연구원 칩주 설립 하락에"
   ]
  ],
- "last_run": "2026-07-30T21:16:37.014833+09:00",
+ "last_run": "2026-07-30T21:18:46.371268+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
