@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1148780",
-  "https://www.nytimes.com/2026/07/27/business/moonshot-kimi-k3-china-ai.html?partner=naver",
-  "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html?partner=naver",
-  "https://www.segye.com/newsView/20260728500223?OutUrl=naver",
-  "http://coinreaders.com/249816",
-  "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html?partner=naver",
-  "https://www.tokenpost.kr/news/breaking/381858",
-  "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html?partner=naver",
-  "https://www.nytimes.com/2026/07/27/business/china-ai-alibaba-bytedance.html?partner=naver",
   "https://www.nytimes.com/2026/07/27/business/dealbook/open-closed-ai-debate.html?partner=naver",
   "https://www.koreajoongangdaily.com/business/taiwans-share-of-korean-chip-exports-more-than-doubles-as-china-loses-ground/12794357",
   "https://www.tokenpost.kr/news/breaking/381694",
@@ -2999,18 +2990,18 @@
   "https://www.tokenpost.kr/news/cryptocurrency/383002",
   "http://www.inews24.com/view/1990503",
   "https://www.yna.co.kr/view/AKR20260730177300001?input=1195m",
-  "https://www.bloter.net/news/articleView.html?idxno=669520"
+  "https://www.bloter.net/news/articleView.html?idxno=669520",
+  "http://www.00news.co.kr/news/articleView.html?idxno=105526",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356764",
+  "https://biz.heraldcorp.com/article/10826233",
+  "https://www.dailian.co.kr/news/view/1672912/?sc=Naver",
+  "http://www.fnnews.com/news/202607301820333125",
+  "https://www.asiatime.co.kr/article/20260730500425",
+  "https://biz.sbs.co.kr/article_hub/20000325752?division=NAVER",
+  "https://www.dt.co.kr/article/12075791",
+  "https://www.aitimes.com/news/articleView.html?idxno=213347"
  ],
  "seen_titles": [
-  "폴리마켓연구소설립…예측시장검증나선다",
-  "스트라이프,오픈라우터인수논의…몸값100억달러",
-  "샘알트만\"예측넘는AI발전속도…기술적특이점시대도달했다\"",
-  "MicrosoftIncreasesSpendingonA.I.asProfitJumps31.6%",
-  "Meta’sProfitFalls14%asA.I.SpendingContinues",
-  "Today,InShort",
-  "\"70년화장품연구,AI와만났다\"…아모레,또한번의'도전역사'쓴...",
-  "美IPO,16%급증...SEC규제빗장더풀까?",
-  "[조홍균의금융경제읽기]다시소환되는제본스역설,AI에새돌파구를...",
   "반도체업종대외불안에코스피·코스닥장초반급락세",
   "WillNAVERRiseAsan'EastAsiaAIHub'onAlliancewithNvidia?",
   "[심층분석]K뷰티에부는AI혁신바람",
@@ -6001,7 +5992,16 @@
   "비트코인보합…마이크로소프트호실적에AI기대다시커졌다",
   "LG전자\"로봇핵심부품키운다\"…액추에이터양산검증착수[컨콜종합]",
   "장동혁\"선관위특검,공소시효남았다면총·대선도수사가능\"",
-  "LG전자·엔솔·LS와뭉쳤다…AIDC에1.3조더붓는LG유플러스"
+  "LG전자·엔솔·LS와뭉쳤다…AIDC에1.3조더붓는LG유플러스",
+  "LGU+,주주환원과성장동력확보",
+  "하반기분양시장서다시맞붙는다…브랜드대단지경쟁본격화",
+  "현대차증권,상반기순이익593억원…전년比48.2%증가",
+  "LG전자,영업익1.6조최대…원가압박속B2B·로봇으로방어(종합)",
+  "삼성,반도체로90조수익…\"美파운드리연내착공\"[삼성2분기역대급...",
+  "LG전자\"2031년AI데이터센터70GW시대…성장60%는'북미'집중\"",
+  "삼성\"HBM43배확대\"..SK왕좌흔든다",
+  "KT,삼성전자갤럭시워치로산업현장안전관리돕는다",
+  "건강문제로싱킹머신즈떠난릴리안웽...오픈AI서'재귀적자기개선..."
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-07-30T18:22:22.183078+09:00",
    "붓는 3조 LG전자 AIDC에 LG유플러스 ~LGU 엔솔 LS와 뭉쳤다"
+  ],
+  [
+   "2026-07-30T18:24:17.580765+09:00",
+   "릴리안 오픈AI서 자기개선 문제로 건강 싱킹 머신즈 떠난 재귀적"
   ]
  ],
- "last_run": "2026-07-30T18:22:42.981463+09:00",
+ "last_run": "2026-07-30T18:24:42.453248+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
