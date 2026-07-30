@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026072910533323828",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687859",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1328339",
-  "http://www.snmnews.com/news/articleView.html?idxno=572644",
-  "https://www.ddaily.co.kr/page/view/2026072910382231997",
-  "https://news.tvchosun.com/site/data/html_dir/2026/07/29/2026072990103.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8623033",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=52879",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87238",
-  "https://sports.donga.com/ent/article/all/20260729/134385736/1",
   "https://www.mt.co.kr/policy/2026/07/29/2026072910281683980",
   "https://www.newsis.com/view/NISX20260729_0003727844",
   "https://www.biospectator.com/view/news_view.php?varAtcId=29416",
@@ -2999,19 +2989,19 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=128152",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=270696",
   "https://www.insight.co.kr/news/565497",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427726"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427726",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092166893",
+  "https://www.hellot.net/news/article.html?no=114080",
+  "https://www.etnews.com/20260730000123",
+  "https://www.greened.kr/news/articleView.html?idxno=346356",
+  "http://www.fnnews.com/news/202607301010575732",
+  "https://www.nocutnews.co.kr/news/6555714",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443497",
+  "https://www.seoultimes.news/news/article.html?no=2000098298",
+  "https://www.mt.co.kr/tech/2026/07/30/2026073007503981141",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16149772"
  ],
  "seen_titles": [
-  "SK하이닉스,상반기이어하반기도질주…48조원CAPEX가이끌'중장기...",
-  "크래프톤,자체개발'음성AI언어모델'공개…게임AI기술고도화속...",
-  "[컨콜-SK하이닉스]박준덕D램담당\"LTA통상5년,예치금도포함\"",
-  "SK하이닉스\"10여개고객과5년LTA\"⋯AI메모리공급부족장기화전망[...",
-  "부산대,빅테크손잡고AI실무교육확대…학생100명프로젝트완주",
-  "빌리시윤X션,8월2일KT위즈파크달군다..시구·시타진행",
-  "SK하이닉스2026년2분기실적발표컨퍼런스콜전문",
-  "크래프톤,음성AI모델‘A.XK2라온-스피치’공개…한국어성능1위...",
-  "묵직한대구경으로,'검은사막'신규클래스'에이전트'출시",
-  "마인크래프트,17년만에요구사양변경…권장메모리4GB→16GB상향",
   "아크릴,한컴에'GPUBASE'공급계약…\"누적55억원\"",
   "웍스피어,채용포털최초정보보안·개인정보보호국제인증2종획득",
   "‘시간추적자설록’조선통신사사생팬일화",
@@ -6001,7 +5991,17 @@
   "KT,삼성전자와'산업안전서비스'출시…기업전용5G에'갤럭시워치'결...",
   "KT,여름휴가고객지원확대…로밍·레저·요금제혜택강화",
   "현대차그룹,엔비디아출신권정현영입...자율주행'개발부터제품화...",
-  "현대차그룹,엔비디아·삼성전자출신자율주행전문가영입"
+  "현대차그룹,엔비디아·삼성전자출신자율주행전문가영입",
+  "통신3사,8·9월요금제·멤버십·제휴할인확대",
+  "미소정보기술,VLM기반AIOCR‘빅스’GS인증1등급획득",
+  "현대차그룹,AVP본부자율주행개발센터장에권정현부사장영입",
+  "LGCNS합류한AI신소재연합,4억5000만달러시리즈B유치",
+  "\"20분짜리면접은잊어라\"SK하이닉스,'반나절심층면접'도입",
+  "[속보]개인정보위,'고객정보유출'KT에과징금540억원",
+  "KT기업전용5G에갤럭시워치연동,산업현장안전관리지원",
+  "KT·삼성전자,기업전용5G기반'안전관리워치'선보여",
+  "인증서하나로11개월간통신망활보…'가짜기지국'에뚫린KT",
+  "SK텔레콤주가,7월30일장중80,100원1.91%상승"
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,17 @@
   [
    "2026-07-30T10:18:22.471947+09:00",
    "규제 대립 오픈웨이트 앤트로픽 구글과 놓고 인포그 모델"
+  ],
+  [
+   "2026-07-30T10:22:23.119842+09:00",
+   "상승 7월 주가 장중 30일 ~SKT 100원"
+  ],
+  [
+   "2026-07-30T10:22:23.119842+09:00",
+   "~KT 뚫린 활보 기지국 인증서 통신망 11개월간 하나로 가짜"
   ]
  ],
- "last_run": "2026-07-30T10:20:47.764587+09:00",
+ "last_run": "2026-07-30T10:22:43.835557+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
