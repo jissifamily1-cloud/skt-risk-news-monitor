@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260729021087343",
-  "https://www.aitimes.com/news/articleView.html?idxno=213298",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443425",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=472585",
-  "https://www.mt.co.kr/tech/2026/07/29/2026072914533958790",
-  "https://www.m-i.kr/news/articleView.html?idxno=1396724",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3649949",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47663",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607271305235560102033",
   "https://www.hankyung.com/article/202607293025i",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687970",
   "https://www.cnbizm.com/news/articleView.html?idxno=309992",
@@ -2999,18 +2990,18 @@
   "https://view.asiae.co.kr/article/2026072914120867890",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=852866",
   "https://www.newsis.com/view/NISX20260730_0003729364",
-  "https://www.koreaherald.com/article/10825672"
+  "https://www.koreaherald.com/article/10825672",
+  "https://www.dailian.co.kr/news/view/1672615/?sc=Naver",
+  "https://www.newscammp.co.kr/news/articleView.html?idxno=6653",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=85037",
+  "https://www.munhwa.com/article/11606114",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05077446645519440",
+  "https://www.mk.co.kr/article/12109650",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1279491",
+  "https://www.dailian.co.kr/news/view/1672545/?sc=Naver",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317705"
  ],
  "seen_titles": [
-  "[AI스토리지①]'GPU굶주림'깨는데이터인프라",
-  "[#통신풍향계]KT밀리'제철독서챌린지'·SKB'어린이방송제작'체험",
-  "SKT,독파모2차모델'A.XK2'허깅페이스에공개",
-  "차두원퓨처링크대표\"엔비디아자율주행,협력하되종속은위험\"",
-  "\"AI가보기에우리브랜드는몇점?\"에이아이빅스랩,경쟁력지수공개",
-  "[동정]추경호대구광역시장",
-  "포항,동북권ICT콤플렉스개소…AI·SW인재양성거점본격가동",
-  "[TOP'sPick][제약]한미약품\"북경한미매출채권,강도높게관리중\"外",
-  "엔비디아(NVDA),200달러지지선'와르르'...180달러行위험",
   "SK하이닉스최대실적에도급락…이제삼성·애플에쏠린눈",
   "정재헌SKT대표\"AIDC건설은AI수출과산업화기회\"",
   "SK텔레콤,초거대AI'A.XK2'공개…제조·국방·바이오AX본격화",
@@ -6001,13 +5992,18 @@
   "저커버그\"미국,중국AI금지해선안돼\"",
   "카페24,AI유입72%↑…챗GPT73%비중",
   "\"해킹지능화에디도스·랜섬웨어폭발\"…상반기사이버침해19.5%'껑충...",
-  "KThitwithW54bpenaltyoverdatabreach"
+  "KThitwithW54bpenaltyoverdatabreach",
+  "AI확산에사이버위협커졌다…상반기DDoS공격57%급증",
+  "AI·디지털자산·양자컴퓨팅총망라…핀테크혁신무대열린다",
+  "삼성SDS,2분기매출3조7178억원-클라우드·물류성장에실적개선",
+  "“밸류에이션의미잃은과매도구간…시장불신해소가우선”",
+  "메타CEO“中AI모델차단해법아냐…규제포획경계해야”",
+  "광고회사의변신…영화만들고AI컨설팅도",
+  "동두천경찰서,체험형피싱방어력테스트·가족비상암호캠페인",
+  "긴급현안대응R&D본격…사이버보안·감염병등4개과제착수",
+  "KT,'개인정보유출-소액결제'사태로540억과징금"
  ],
  "recent_sigs": [
-  [
-   "2026-07-30T06:04:25.396407+09:00",
-   "적용 현장 독자 ~SKT 모델 공개 산업"
-  ],
   [
    "2026-07-30T06:08:22.660816+09:00",
    "클라우드 1000억달러 성장 마이크로소프트 돌파 애저 연매출도"
@@ -6613,7 +6609,7 @@
    "사이버 상반기 랜섬웨어 껑충 침해 지능화에 디도스 폭발"
   ]
  ],
- "last_run": "2026-07-30T12:04:42.906637+09:00",
+ "last_run": "2026-07-30T12:06:37.401296+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
