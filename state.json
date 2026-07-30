@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260730072000013?input=1196m",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=449807",
-  "https://news.tf.co.kr/read/photomovie/2348711.htm",
   "http://www.osen.co.kr/article/G1112848987",
   "https://www.xportsnews.com/article/2177923",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046160",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02656806645520096",
   "https://www.etnews.com/20260731000009",
   "https://www.kbmaeil.com/article/20260731500035",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310310&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310310&t=NN",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688544",
+  "https://www.ajunews.com/view/20260731070916691",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83733"
  ],
  "seen_titles": [
-  "펨토셀에뚫려개인정보유출…KT에과징금539억",
-  "자율주행인재보강하는현대차…삼성·엔비디아출신영입",
-  "KT‧LGU+,정보유출증거숨겼다…개보위,고발‧수사의뢰조치",
   "오픈AI,학술연구자에첨단AI도구1년간무료제공",
   "루미스엑스계정해킹정황…가짜밈코인글삭제됐다",
   "SK브로드밴드,'행복얼라이언스스쿨'직업체험…\"방송뉴스이렇게만...",
@@ -6001,7 +5998,10 @@
   "\"40년모은22억날려\"하닉몰빵투자자\"손해청구하고파\"",
   "로봇전신제어구현…구글,'제미나이로보틱스2'공개",
   "美반도체주‘폭등’…필라델피아지수1년3개월만에최대상승",
-  "반도체주,바닥찍더니'급상승'...美증시에무슨일이"
+  "반도체주,바닥찍더니'급상승'...美증시에무슨일이",
+  "[시큐리티핫이슈]AI에울고웃고...보안판흔드는AI의두얼굴",
+  "[아주증시포커스]급락장못견딘개미들…코스피,사흘째약세外",
+  "마이크로소프트,시총4,500억달러증가…엔비디아제치고1위"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-07-31T07:26:16.934555+09:00",
    "날려 청구 하고파 40년 투자자 손해 22억 모은 몰빵 하닉"
+  ],
+  [
+   "2026-07-31T07:32:23.349316+09:00",
+   "급락장 약세 사흘째 개미들 코스피 견딘"
+  ],
+  [
+   "2026-07-31T07:32:23.349316+09:00",
+   "제치고 증가 시총 마이크로소프트 500억달러 1위"
   ]
  ],
- "last_run": "2026-07-31T07:30:53.860301+09:00",
+ "last_run": "2026-07-31T07:32:47.475450+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
