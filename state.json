@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260729_0003727616",
-  "https://www.ekn.kr/web/view.php?key=20260728026156830",
-  "https://www.thepowernews.co.kr/view.php?ud=202607290950195729de3f0aa1be_7",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718179",
   "https://lawtalknews.co.kr/article/HPVZ84DXI7P0",
   "https://www.gukjenews.com/news/articleView.html?idxno=3649437",
   "https://www.hankyung.com/article/202607292219i",
@@ -2999,13 +2995,13 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=738513",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265121",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848805",
-  "https://biz.heraldcorp.com/article/10825158"
+  "https://biz.heraldcorp.com/article/10825158",
+  "https://zdnet.co.kr/view/?no=20260730084015",
+  "https://www.itworld.co.kr/article/4203127/오픈-웨이트-ai를-더-정직하게-만들-수-있을까.html",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03503046645519768",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260730010011041"
  ],
  "seen_titles": [
-  "폭염에방전된프로야구에이스들…전반기이닝폭주후유증일까",
-  "[KBO]삼성,KIA완파하고단독선두질주..KIA5위로추락",
-  "추경호대구시장,SK,대구AI데이터센터건립중단결정...\"시민에명확...",
-  "SK하이닉스,2분기사상최대실적…매출79조·순이익93조기록",
   "셀트리온,비만치료제·ADC성과순차공개...신약파이프라인확대",
   "SK하이닉스,2분기영업익60조5426억…상반기매출사상첫100조돌파",
   "크래프톤,음성AI모델'A.XK2Raon-Speech'공개",
@@ -6001,7 +5997,11 @@
   "폴리뉴스모닝브리핑7월30일목요일",
   "SKT·LG유플러스·KT,고객체감혜택넓힌다…통신비부터로밍까지",
   "과기부,독파모국민평가단신뢰성지적에선발절차해명",
-  "‘채용새바람’SK하이닉스,반나절심층면접도입"
+  "‘채용새바람’SK하이닉스,반나절심층면접도입",
+  "챗GPT·로블록스,월간이용자4500만명돌파…EU감시촘촘해진다",
+  "오픈웨이트,AI를더정직하게만들수있을까",
+  "\"체감월1만원에무제한데이터\"…SKT,8월T멤버십·영화반값혜택쏟...",
+  "순천시,공중케이블정비본격화…5년간도시미관·시민안전개선"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,17 @@
   [
    "2026-07-30T09:12:17.775050+09:00",
    "국민평가단 신뢰성 과기부 지적에 독파모 선발절차 해명"
+  ],
+  [
+   "2026-07-30T09:14:17.365063+09:00",
+   "영화 반값 8월 체감 T멤버십 혜택 무제한 1만원에 ~SKT 데이터"
+  ],
+  [
+   "2026-07-30T09:14:17.365063+09:00",
+   "본격화 공중케이블 시민안전 정비 5년간 순천시 도시미관 개선"
   ]
  ],
- "last_run": "2026-07-30T09:12:35.801194+09:00",
+ "last_run": "2026-07-30T09:14:42.093131+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
