@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://kbench.com/?q=node%2F280789",
-  "https://www.wikitree.co.kr/articles/1149342",
-  "https://www.topdaily.kr/articles/111211",
-  "https://www.bntnews.co.kr/article/view/bnt202607300161",
-  "https://www.ddaily.co.kr/page/view/2026073011520171312",
-  "https://www.sedaily.com/article/20073771",
-  "https://kpenews.com/View.aspx?No=4167892",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93007",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454094",
   "https://www.yna.co.kr/view/AKR20260730100300017?input=1195m",
   "https://www.koit.co.kr/news/articleView.html?idxno=208238",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336112",
@@ -2999,18 +2990,18 @@
   "https://www.newspim.com/news/view/20260731000043",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=257089",
   "https://www.news1.kr/industry/distribution/6244922",
-  "https://zdnet.co.kr/view/?no=20260731083823"
+  "https://zdnet.co.kr/view/?no=20260731083823",
+  "https://www.mydaily.co.kr/page/view/2026073108475794073",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3651860",
+  "https://www.tjb.co.kr/news05/bodo/view/id/101767",
+  "https://www.topdaily.kr/articles/111230",
+  "https://www.newspim.com/news/view/20260731000179",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853610",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1391430",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83747",
+  "http://journal.kobeta.com/?post_type=post&p=63426"
  ],
  "seen_titles": [
-  "현대차그룹,삼성·엔비디아출신권정현부사장영입…자율주행경쟁력...",
-  "SKT,에어요금제혜택강화…통신비부담낮춘다",
-  "SK하이닉스,20분면접대신반나절과제수행⋯실전형인재뽑는다",
-  "불법펨토셀에뚫린KT에과징금539억…악성코드감염미신고·로그삭...",
-  "삼성SDS,2분기매출3조7178억원…전년대비5.9%증가",
-  "SK하이닉스의인재요건…스펙·자소서보다‘생각근육’",
-  "[기획]진화하는게임속AI…동료도적도'스스로생각한다'",
-  "인재도주고받은이재용-정의선...피지컬AI에진심",
-  "KT과징금540억어떻게나왔나?…\"실제피해발생,안전조치의무위반...",
   "삼성SDS,2분기영업이익2318억원전…전년대비0.7%성장",
   "SK하이닉스8월대규모신규채용...\"학력제한없애고반나절심층면접...",
   "LG전자·LG유플러스,'밸류업'본격화…배당·자사주매입·대규모AI투...",
@@ -6001,7 +5992,16 @@
   "[스타in창원]'37일만에홈런'안현민,멀티포로반등예고...KT선두탈...",
   "오늘부터단일종목레버리지대폭상향...\"현금3000만원없으면매수못...",
   "KT알파쇼핑,8월최대20%할인…'SWF2026'티켓증정",
-  "방미통위,데이터홈쇼핑10곳재승인심사8월시작"
+  "방미통위,데이터홈쇼핑10곳재승인심사8월시작",
+  "SK하이닉스‘저평가’에사재로답한최태원…50억문턱까지매수한까...",
+  "전남광주교육청,우즈베키스탄서한국어교원30명연수실시",
+  "알뜰폰요금더내린다…연250억절감'알뜰폰2.0'",
+  "[VC밸류업]IMM인베스트,'딜심사역'중심밸류업…해외네트워크로성...",
+  "시타델의'AI반도체주식구하기'...통으로줍줍했다",
+  "과기정통부·KISIA,사이버보안인재육성협업",
+  "SK텔레콤,피지컬AI스타트업8곳과로보틱스생태계강화",
+  "\"반도체부터로봇까지\"…SKT,피지컬AI스타트업모아풀스택동맹구축",
+  "‘해킹‧무단소액결제’KT에과징금540억…로그삭제‧거짓진술"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-07-31T08:54:17.049579+09:00",
    "시작 8월 10곳 심사 데이터홈쇼핑 재승인"
+  ],
+  [
+   "2026-07-31T08:56:19.081569+09:00",
+   "~SKT 풀스택 피지컬 동맹 스타트업 구축 모아 반도체부터 로봇까지"
   ]
  ],
- "last_run": "2026-07-31T08:54:41.988448+09:00",
+ "last_run": "2026-07-31T08:56:39.915361+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
