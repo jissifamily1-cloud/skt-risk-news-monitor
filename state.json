@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=715309",
-  "https://www.businessplus.kr/news/articleView.html?idxno=114898",
-  "https://zdnet.co.kr/view/?no=20260731093124",
-  "https://www.the-today.com/news/articleView.html?idxno=88016",
   "http://www.joseilbo.com/news/news_read.php?uid=572997&class=78",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03660486645520096",
   "https://biz.heraldcorp.com/article/10826616",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/AKR20260801011100504?input=1195m",
   "https://www.sedaily.com/article/20074507",
   "https://www.ikbc.co.kr/article/view/kbc202608010003",
-  "https://www.wikitree.co.kr/articles/1149744"
+  "https://www.wikitree.co.kr/articles/1149744",
+  "https://www.mk.co.kr/article/12114154",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142436",
+  "https://www.g-enews.com/view.php?ud=202608010709515469fbbec65dfb_1",
+  "http://www.lawissue.co.kr/view.php?ud=20260801071937924204ead0791_12"
  ],
  "seen_titles": [
-  "SKT,피지컬AI스타트업8개사와로보틱스협력확대",
-  "SKT,피지컬AI스타트업8곳과협력확대…로보틱스생태계구축나선다",
-  "딥엑스,KT·세솔과온디바이스AIoT사업협력",
-  "11개월해킹도몰랐던KT…불법로그지우다과징금540억물고고발까지...",
   "오픈AI,GPT-5.6가격재편…중저가모델최대80%인하",
   "\"최태원매수에AI훈풍\"…SK스퀘어,장중상한가[특징주]",
   "‘얼마만에보는빨간불’코스피,13%대올라단숨에‘육천피’탈환...",
@@ -6001,7 +5997,11 @@
   "\"北,맥OS겨냥악성코드공격…걸리면가산자산'탈탈'\"",
   "최태원·노태문기막힌타이밍…자사주사자마자‘폭등’[갭월드]",
   "엔비디아,애플제치고'세계시총1위'복귀",
-  "이건몰랐다...하이닉스·삼성주가가무시무시하게오른'뜻밖의이유..."
+  "이건몰랐다...하이닉스·삼성주가가무시무시하게오른'뜻밖의이유...",
+  "“나흘만에되찾았다”…애플폭락에시가총액1위복귀한이회사",
+  "[오늘의글로벌마켓]뉴욕증시,아마존호실적에3대지수강세",
+  "SK하이닉스HBM4공급망확보…美빅테크장기계약결실",
+  "북한연계해커,맥OS노린악성코드유포…가상자산지갑정보탈취시..."
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-08-01T07:24:18.378229+09:00",
    "오른 무시무시하게 하이닉스 이건 주가가 뜻밖의 몰랐다 삼성 이유"
+  ],
+  [
+   "2026-08-01T07:26:22.520129+09:00",
+   "결실 장기계약 공급망 빅테크 확보 HBM4 SK하이닉스"
   ]
  ],
- "last_run": "2026-08-01T07:24:36.310508+09:00",
+ "last_run": "2026-08-01T07:26:39.737641+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
