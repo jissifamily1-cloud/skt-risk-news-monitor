@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427865",
-  "https://www.slist.kr/news/articleView.html?idxno=755416",
-  "https://economist.co.kr/article/view/ecn202607300014",
   "https://www.aitimes.com/news/articleView.html?idxno=213364",
   "https://www.idomin.com/news/articleView.html?idxno=2011337",
   "https://www.nongmin.com/article/20260730500285",
@@ -2999,12 +2996,12 @@
   "https://www.koreaherald.com/article/10827054",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04260726645520096",
   "https://www.dt.co.kr/article/12075852",
-  "https://www.koreaherald.com/article/10827055"
+  "https://www.koreaherald.com/article/10827055",
+  "https://www.hankookilbo.com/news/article/A2026073010220004495?did=NA",
+  "https://www.ajunews.com/view/20260730165043995",
+  "http://www.spochoo.com/news/articleView.html?idxno=128278"
  ],
  "seen_titles": [
-  "삼성SDS“클라우드·물류동반성장세…AI풀스택으로중장기사업본...",
-  "LG전자,2분기매출·영업익역대최대…로보틱스미래동력키운다[종합...",
-  "개인정보위,KT개인정보유출에539억과징금…KT사과(종합)",
   "프로야구kt,새외국인투수대니엘영입…우승도전박차",
   "‘큰AI’만으론부족하다…카카오,‘작은AI’푸는이유",
   "구글,노벨상AI'알파폴드'개발팀해체...'제미나이'중심체제로전환",
@@ -6001,7 +5998,10 @@
   "LGunveilsKorea’slargestAImodelwith750billionparameters",
   "씨메스로보틱스,SKT피지컬AI간담회참석…협력확대논의",
   "KT알티미디어,Widevine로컬라이선스서버출시…WLS종료대응",
-  "KT,DeepX,SesolteamuponNPU-basededgeAIsystems"
+  "KT,DeepX,SesolteamuponNPU-basededgeAIsystems",
+  "'AI자율해킹'시대,규제고민하는美…안전이냐경쟁력이냐",
+  "삼성SDS,2분기매출3조7178억원…\"클라우드·물류성장견인\"",
+  "5년전기억생각나네...'0.5G차딱붙었다'삼성-KT선두싸움점입가경..."
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,13 @@
   [
    "2026-07-31T13:22:16.859719+09:00",
    "NPU on up team systems ~KT DeepX edge based Sesol"
+  ],
+  [
+   "2026-07-31T13:24:17.236413+09:00",
+   "5년 점입가경 선두싸움 ~KT 5G 기억 붙었다 삼성 생각나네"
   ]
  ],
- "last_run": "2026-07-31T13:22:41.071052+09:00",
+ "last_run": "2026-07-31T13:24:35.864193+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
