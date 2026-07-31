@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=167365",
-  "https://www.ziksir.com/news/articleView.html?idxno=141678",
-  "https://biz.chosun.com/it-science/ict/2026/07/30/UPHDPRD4WRFQFNVVBC6MPH2RYI/",
-  "https://www.m-i.kr/news/articleView.html?idxno=1397210",
-  "https://www.irobotnews.com/news/articleView.html?idxno=47682",
-  "https://www.newsis.com/view/NISX20260730_0003729956",
-  "https://www.news2day.co.kr/article/20260730500211",
-  "https://www.farmnmarket.com/news/article.html?no=27262",
-  "http://www.fnnews.com/news/202607301414363149",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=738560",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308739&inflow=N",
   "https://www.mydaily.co.kr/page/view/2026072915540729646",
   "https://www.tvreport.co.kr/entertainment/article/1065021/",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=848883",
@@ -2999,20 +2988,20 @@
   "https://www.ajunews.com/view/20260731100115090",
   "https://www.mt.co.kr/industry/2026/07/31/2026073109305299300",
   "https://www.newsis.com/view/NISX20260731_0003731193",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688671"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688671",
+  "https://www.busan.com/view/busan/view.php?code=2026073108573357555",
+  "https://www.newsis.com/view/NISX20260731_0003731123",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114904",
+  "http://www.brainmedia.co.kr/Trend/25544",
+  "https://www.sidae.com/article/2026073110000232460",
+  "https://www.seoultimes.news/news/article.html?no=2000098345",
+  "https://www.sentv.co.kr/article/view/sentv202607310044",
+  "https://www.namdonews.com/news/articleView.html?idxno=918632",
+  "https://biz.heraldcorp.com/article/10826766",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=442116",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03817926645520096"
  ],
  "seen_titles": [
-  "담합·회유도사람뺨치네…AI에자판기경영맡겼더니",
-  "[컨콜]삼성SDS,AI인프라800MW승부수…DBO첫수주확보",
-  "LG전자,2분기영업익1조5791억원…매출·이익역대최대",
-  "삼성전기,2분기영업이익4404억원···전년동기比106.7%증가",
-  "LG전자,2분기영업익1조5791억원…전사업고른성장에147%↑",
-  "김선희경기도의원,경기교육AI플랫폼'지원이'보안·실효성강화촉...",
-  "로보티즈,美FCC가인증한'핵심로봇부품'으로북미수출날개",
-  "KT,과징금539억에소송검토…SKT이어행정소송수순",
-  "시큐리온,KISA와협업...'악성문자사전차단체계'구축나서",
-  "제주도-농촌진흥청,제주농업체질개선협력강화",
-  "\"420만원\"외치더니\"270만원\"…갈라진증권가,반도체전망도양극화",
   "5GW·2.4GW·1GW…대형데이터센터구축나선기업투자전략",
   "5년간1206억원투입결정한롯데카드,제재시250억손실추정",
   "'女은밀한만남사생활유출'주진모,결혼2500일부인에게사랑고백...",
@@ -6001,7 +5990,18 @@
   "\"불장신호탄?\"...삼전·하이닉스20%대급등,상승세얼마나갈까?",
   "최태원회장SK하이닉스주식49억만사들인이유..사전공시규정최대...",
   "최태원의완벽한'저점매수'…SK하닉매입하루만에12억평가차익",
-  "방미통위,지역방송AI제작지원작8편선정"
+  "방미통위,지역방송AI제작지원작8편선정",
+  "알뜰폰도데이터소진후‘무제한’…내달부터‘데이터안심옵션’...",
+  "LGCNS,2분기매출1.5조돌파…AI·클라우드가실적견인",
+  "[잘먹잘살+]뉴발란스·현대홈쇼핑·아모레퍼시픽·배민·29CM·무신사·에...",
+  "웹툰'보는시대'에서'경험하는시대'로",
+  "젠틀몬스터,프라다협업아이웨어국내출시…글로벌협업확대",
+  "LGAI연구원,750B'K-엑사원2.0'공개…국산초거대AI,글로벌프런티...",
+  "美반도체주급반등…필라델피아지수8.19%상승",
+  "코스피16%폭등'불기둥'…삼성전자23%·SK하이닉스28%급반등",
+  "최태원SK하닉첫매수,하루새‘13억’평가익…하닉날자스퀘어상...",
+  "SK스퀘어,장초반상한가…AI기대감에최태원회장SK하이닉스매수까...",
+  "[MUSTKNOW5]AWS깜짝성장·SK하이닉스강세…AI투자사이클재가속"
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,13 @@
   [
    "2026-07-31T10:18:16.273202+09:00",
    "지원작 지역방송 제작 선정 8편"
+  ],
+  [
+   "2026-07-31T10:20:31.986304+09:00",
+   "성장 강세 깜짝 AWS 사이클 투자 SK하이닉스 재가속"
   ]
  ],
- "last_run": "2026-07-31T10:18:37.277509+09:00",
+ "last_run": "2026-07-31T10:20:49.504494+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
