@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepowernews.co.kr/view.php?ud=2026073017052250019aeda69934_7",
-  "https://www.hankookilbo.com/news/article/A2026073016000003274?did=NA",
-  "https://byline.network/?p=9004111222613746",
-  "http://www.fnnews.com/news/202607301703550784",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046416",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260730010011330",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688476",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05874486645519768",
-  "https://www.dt.co.kr/article/12075768",
   "https://www.ceoscoredaily.com/page/view/2026073013481417585",
   "http://www.newstomato.com/ReadNews.aspx?no=1308800&inflow=N",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=389269",
@@ -2999,18 +2990,18 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3652185",
   "https://www.ajunews.com/view/20260731133743464",
   "https://www.businessplus.kr/news/articleView.html?idxno=114924",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60571"
+  "https://www.lawtv.kr/news/articleView.html?idxno=60571",
+  "http://www.osen.co.kr/article/G1112849774",
+  "https://www.joongangenews.com/news/articleView.html?idxno=536973",
+  "https://www.etnews.com/20260731000202",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273895",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240715",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268572",
+  "https://www.m-i.kr/news/articleView.html?idxno=1397628",
+  "https://www.kukinews.com/article/view/kuk202607310061",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=738699"
  ],
  "seen_titles": [
-  "\"생성형AI시대,주도적판단력갖춘미래인재로\"",
-  "[이슈인터뷰]경북도의회김일수행정보건복지위원장\"경북이지방시대...",
-  "부동산플래닛,지도기반매수·매도통합조회기능도입",
-  "개인정보위'무단소액결제'KT에과징금540억원",
-  "“중국AI막지말라”…저커버그,오픈AI·앤트로픽정면겨냥",
-  "한독,상반기매출2686억원...영업익흑자전환",
-  "'2억4000만원무단결제피해'KT,과징금540억부과",
-  "'540억'과징금맞은KT…재무부담덜었지만증거은닉'꼬리표'",
-  "오픈AI이어앤트로픽클로드코워드도통제환경이탈우려",
   "\"혼자서매출14억이상도거뜬\"…AI시대본격화,'1인기업'속출",
   "상반기침해사고1236건…디도스57%·랜섬웨어77%급증",
   "‘국가대표AI’,‘톱3’가린다…LG·SKT·업스테이지·모티프‘출사...",
@@ -6001,13 +5992,18 @@
   "경남도,여름휴가즐기기좋은'8월경남픽7선'선정",
   "'AI집중투자'시추에이셔널,7월67%손실…보유주식대부분시타델에...",
   "[영상]SKT,배우한석규와28년만에재회…스피드011오마주광고공개",
-  "\"정보유출피해자에10만원씩배상\"...쿠팡,소비자원분조위안수용할..."
+  "\"정보유출피해자에10만원씩배상\"...쿠팡,소비자원분조위안수용할...",
+  "‘이럴수가’류현진아홉수도아닌여덟수에걸리다니…불운-불운-불...",
+  "LGAI연구원,국내최대7500억매개변수'K-엑사원2.0'공개",
+  "다날,AI로봇커피'비트'일본1호점연다",
+  "삼성SDS2분기매출3.7조돌파...클라우드·AI가실적견인",
+  "[컨콜]삼성SDS,'AI풀스택'실행방안공개…'클라이언트제로'체계구...",
+  "\"잠시꺼두셔도좋습니다\"…SKT,한석규와28년만재회→'스피드011'오...",
+  "KT,공정위과징금불복소송서패소…소송대법행",
+  "왜48억이었나…최태원의‘SK하이닉스첫매수’에숨은메시지",
+  "[이슈]코스피12%대폭등…외국인4조원순매수에사이드카발동,반도..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T07:42:21.218080+09:00",
-   "아반떼 하이닉스 폭락장에 300층 날렸다 입주민 개미들"
-  ],
   [
    "2026-07-31T07:46:22.820493+09:00",
    "삼성 올라간다 있나 LG가 임찬규 10승 ~KT 다승 챔피언 떨고"
@@ -6593,7 +6589,7 @@
    "~KT 피해 과징금 결정적 소액결제 540억"
   ]
  ],
- "last_run": "2026-07-31T13:42:31.988265+09:00",
+ "last_run": "2026-07-31T13:44:40.077877+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
