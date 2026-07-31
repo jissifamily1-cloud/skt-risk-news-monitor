@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html?partner=naver",
-  "https://www.nytimes.com/2026/07/29/briefing/europe-is-burning.html?partner=naver",
   "https://byline.network/?p=9004111222613549",
   "https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html?partner=naver",
   "https://www.fntimes.com/html/view.php?ud=202607291736272145de68fcbb35_18",
@@ -2999,11 +2997,11 @@
   "https://www.thelec.kr/news/articleView.html?idxno=60414",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030190378&code=61141111&cp=nv",
   "https://www.mediapen.com/news/view/1113668",
-  "https://dealsite.co.kr/articles/166404"
+  "https://dealsite.co.kr/articles/166404",
+  "https://www.m-i.kr/news/articleView.html?idxno=1397793",
+  "https://dealsite.co.kr/articles/166392"
  ],
  "seen_titles": [
-  "BigTechTurmoilCastsDoubtonA.I.’sPayoffPotential",
-  "SickofA.I.-GeneratedContent?The‘SlopJanitor’IsHeretoHelp.",
   "EuropeIsBurning",
   "오픈AI모델,허깅페이스침해과정서외부계정4개접근",
   "A.I.CompaniesAreRecruitingElectriciansandCarpentersbytheThou",
@@ -6001,7 +5999,9 @@
   "SOOP,올해2분기영업익58%급감…세무조사·추징영향",
   "‘297만명정보유출’롯데카드에1.5개월업무정지·과징금50억원",
   "금융위,정보유출롯데카드에과징금50억·1.5개월업무정지부과",
-  "SK,두산에SK실트론지분70%판다…매각가2.3조원"
+  "SK,두산에SK실트론지분70%판다…매각가2.3조원",
+  "SK㈜,SK실트론2.3조원에매각…AI투자실탄확보",
+  "[롯데카드해킹사고파장]보안허점드러난롯데카드…외부해킹첫업..."
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,13 @@
   [
    "2026-07-31T18:16:22.679046+09:00",
    "KOSPI 강력한 회복력 효과에 껑충 1000p MS"
+  ],
+  [
+   "2026-07-31T18:20:26.201780+09:00",
+   "보안 외부 허점 롯데카드 드러난"
   ]
  ],
- "last_run": "2026-07-31T18:18:33.799563+09:00",
+ "last_run": "2026-07-31T18:20:45.097863+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
