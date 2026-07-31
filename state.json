@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/07/30/opinion/ai-weapon-testing.html?partner=naver",
-  "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html?partner=naver",
-  "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html?partner=naver",
-  "https://www.nytimes.com/2026/07/29/briefing/today-in-short.html?partner=naver",
-  "https://www.nytimes.com/2026/07/29/business/dealbook/big-tech-ai-earnings.html?partner=naver",
   "https://www.nytimes.com/2026/07/29/business/dealbook/pangram-ai-slop-detection.html?partner=naver",
   "https://www.nytimes.com/2026/07/29/briefing/europe-is-burning.html?partner=naver",
   "https://byline.network/?p=9004111222613549",
@@ -2999,14 +2994,14 @@
   "https://www.mk.co.kr/article/12113633",
   "https://www.ppss.kr/news/articleView.html?idxno=303947",
   "https://www.mk.co.kr/article/12113660",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105566"
+  "http://www.00news.co.kr/news/articleView.html?idxno=105566",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167093",
+  "https://www.thelec.kr/news/articleView.html?idxno=60414",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030190378&code=61141111&cp=nv",
+  "https://www.mediapen.com/news/view/1113668",
+  "https://dealsite.co.kr/articles/166404"
  ],
  "seen_titles": [
-  "FlounderingA.I.‘Nostradamus’HedgeFundIsRescuedbyRival",
-  "StopTestingA.I.LikeanApp.TestItLikeaWeapon.",
-  "MicrosoftIncreasesSpendingonA.I.asProfitJumps31%",
-  "Meta’sProfitFalls14%asA.I.SpendingContinues",
-  "Today,InShort",
   "BigTechTurmoilCastsDoubtonA.I.’sPayoffPotential",
   "SickofA.I.-GeneratedContent?The‘SlopJanitor’IsHeretoHelp.",
   "EuropeIsBurning",
@@ -6001,7 +5996,12 @@
   "최태원29.4%지분보유…가치1조육박",
   "297만명정보유출롯데카드,45일업무정지...신규카드발급중단",
   "두산,SK실트론2.3조에품었다",
-  "['클릭'증시]MS효과에KOSPI1000p껑충...강력한회복력"
+  "['클릭'증시]MS효과에KOSPI1000p껑충...강력한회복력",
+  "씽킹머신랩,2주만에몸집70%줄인경량AI공개…성능은전작급",
+  "SOOP,올해2분기영업익58%급감…세무조사·추징영향",
+  "‘297만명정보유출’롯데카드에1.5개월업무정지·과징금50억원",
+  "금융위,정보유출롯데카드에과징금50억·1.5개월업무정지부과",
+  "SK,두산에SK실트론지분70%판다…매각가2.3조원"
  ],
  "recent_sigs": [
   [
@@ -6601,7 +6601,7 @@
    "KOSPI 강력한 회복력 효과에 껑충 1000p MS"
   ]
  ],
- "last_run": "2026-07-31T18:16:43.165758+09:00",
+ "last_run": "2026-07-31T18:18:33.799563+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
