@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12112192",
-  "https://www.hankyung.com/article/2026073064461",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454314",
-  "https://news.mtn.co.kr/news-detail/2026073016424171077",
-  "https://news.mtn.co.kr/news-detail/2026073016423626149",
-  "http://www.spochoo.com/news/articleView.html?idxno=128238",
-  "https://www.kyeongin.com/article/1768183",
-  "https://newscham.net/articles/117014",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374557",
-  "https://www.gokorea.kr/news/articleView.html?idxno=873618",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3651359",
   "https://www.sedaily.com/article/20073985",
   "https://www.sedaily.com/article/20073983",
   "https://www.mk.co.kr/article/12112220",
@@ -2999,20 +2988,20 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3652266",
   "https://www.gukjenews.com/news/articleView.html?idxno=3652260",
   "https://www.mt.co.kr/stock/2026/07/31/2026073114195969165",
-  "https://biz.chosun.com/it-science/ict/2026/07/31/BXSCFZTDGJEPHEZCMBQJETGDI4/"
+  "https://biz.chosun.com/it-science/ict/2026/07/31/BXSCFZTDGJEPHEZCMBQJETGDI4/",
+  "http://www.stoo.com/article.php?aid=108036070937",
+  "https://biz.chosun.com/topics/law_firm/2026/07/31/K7SO7DGLBFHTZHV3WAHXBZLLPE/",
+  "https://www.klnews.co.kr/news/articleView.html?idxno=322162",
+  "https://www.newsis.com/view/NISX20260731_0003731688",
+  "https://www.kukinews.com/article/view/kuk202607300162",
+  "http://www.segyebiz.com/newsView/20260731512945?OutUrl=naver",
+  "https://www.newsway.co.kr/news/view?ud=2026073114191578192",
+  "https://www.news2day.co.kr/article/20260731500163",
+  "https://view.asiae.co.kr/article/2026073114072488441",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000542732",
+  "https://biz.sbs.co.kr/article_hub/20000325905?division=NAVER"
  ],
  "seen_titles": [
-  "포스텍,'AI와블록체인융합'전문가과정모집…엔비디아·민병덕의원...",
-  "李\"한·칠레FTA현대화를\"…핵심광물도협력확대",
-  "中문샷AI5조원'장전'…앤트로픽정조준",
-  "삼성전자영업익89.5조…반도체가89.2조벌었다",
-  "김선희도의원\"'지원이'데이터집중…철저한보안필요\"",
-  "'금전피해'해킹과징금에…KT,법정다툼가능성도[MTN리포트②]",
-  "KT540억과징금...개인정보위\"조사방해도끝까지책임\"[MTN리포트①]",
-  "KT팬들이제안심하고경기보셔도됩니다...불안불안사우어와작별,...",
-  "‘우승을위해서라면’…ktwiz,1선발교체‘배수진’",
-  "상고장이오지않았다,배달라이더는노동자다",
-  "'우승도전'kt,새외국인투수데이비드대니엘영입…맷사우어웨이...",
   "테르메덴풀앤스파,'2026썸머페스타'전개",
   "부여군,'국가유산미디어아트부여정림사지'...세계유산정림사지에...",
   "삼성“메모리부족심화…3분기HBM4매출3배확대”",
@@ -6001,7 +5990,18 @@
   "경남도의회,박동철의원발의'해군사관학교진해존치촉구결의안'통...",
   "유득원대전시행정부시장이임…2년8개월시정운영마무리",
   "가온그룹,상반기누적영업이익192억…역대최대실적달성",
-  "삼성전자,내년HBM점유율SK하이닉스추월전망…“HBM4전환속도앞..."
+  "삼성전자,내년HBM점유율SK하이닉스추월전망…“HBM4전환속도앞...",
+  "KBS측\"김선태'돈선태'하차맞아,존속여부논의중\"[공식입장]",
+  "법무법인태평양,하비·챗GPT아우른전사AI체계구축",
+  "LGCNS,상반기매출액6.1%증가한2조8,358억원",
+  "MS훈풍에삼전·닉스'축포'…SK하닉상한가·삼성전자25%↑",
+  "유출인원은SKT보다적은데…KT,1인당과징금324만원폭탄왜?",
+  "최태원,SK하이닉스주식첫매수…48억원규모‘책임경영’",
+  "AI우려걷히고최태원매수까지…SK하이닉스장중'상한가'[특징주]",
+  "SK하이닉스,美반도체주훈풍에상한가…최태원첫자사주매입도호재...",
+  "SK하이닉스3600주'싹쓸이'…\"혹시회장님?\"슈카도놀란50억매수",
+  "SK하이닉스49억매수한최태원,하루만에13억벌어",
+  "[오후장체크포인트]'AI수익성확인'안도랠리에간밤미반도체주급..."
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,13 @@
   [
    "2026-07-31T14:24:18.869878+09:00",
    "베팅 정면 48억 반박 피크아웃"
+  ],
+  [
+   "2026-07-31T14:28:21.328271+09:00",
+   "간밤 안도랠리에 수익성 확인 반도체주"
   ]
  ],
- "last_run": "2026-07-31T14:26:32.412278+09:00",
+ "last_run": "2026-07-31T14:28:42.313415+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
