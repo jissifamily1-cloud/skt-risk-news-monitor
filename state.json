@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1308760&inflow=N",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05408726645519768",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=307513",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=123674",
-  "https://www.mk.co.kr/article/12112025",
-  "https://zdnet.co.kr/view/?no=20260730155142",
-  "http://www.finomy.com/news/articleView.html?idxno=258321",
-  "https://www.ddaily.co.kr/page/view/2026073013271313504",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3650200",
-  "https://www.xportsnews.com/article/2178098",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=831694",
   "https://www.todayeconomic.com/news/article.html?no=31533",
   "https://www.donga.com/news/Economy/article/all/20260730/134394790/1",
@@ -2999,19 +2989,19 @@
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80198",
   "https://www.econovill.com/news/articleView.html?idxno=746786",
   "http://www.economytalk.kr/news/articleView.html?idxno=423216",
-  "https://news.dealsitetv.com/articles/174087"
+  "https://news.dealsitetv.com/articles/174087",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3652046",
+  "https://www.econovill.com/news/articleView.html?idxno=746792",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=222642",
+  "https://www.mk.co.kr/article/12113235",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04096726645520096",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2252175",
+  "https://biz.chosun.com/it-science/ict/2026/07/31/4MY7KT65WRBVBDFZNV47GE4FYQ/",
+  "https://www.yna.co.kr/view/AKR20260731076100008?input=1195m",
+  "https://www.etnews.com/20260731000178",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546293"
  ],
  "seen_titles": [
-  "삼성SDS,2분기영업익2318억원…클라우드·AI서비스성과확대",
-  "방미통위,불법스팸위반정도에따라최대6%과징금부과기준마련",
-  "불확실성덜었지만…KT박윤영호수익성'시험대'",
-  "오픈AI,한국대학등17곳에연구용첨단AI무상지원",
-  "[컨콜-삼성SDS]김은영부사장\"오픈AI·앤트로픽과데이터센터협력논...",
-  "현대차그룹,엔비디아·삼성출신권정현부사장영입…SDV강화",
-  "AI끼리자판기맡겼더니…담합·배신·협박까지,가장돈많이번건클...",
-  "KT,갤럭시워치로산업현장안전관리",
-  "[단독]KT엠모바일,김의현號연내'200만가입자'도전",
-  "국가배후해킹조직,메일첨부파일에숨어악성코드배포",
   "정부,AI데이터센터산업화위해민관협의체가동",
   "'8연속위닝도전'삼성,30일KIA전라인업공개…'2G2승'페덱선발등...",
   "'143km직구→손등직격'문정빈큰부상피했나?엔트리생존,선발라...",
@@ -6001,7 +5991,17 @@
   "AIDC얼라이언스출범…'지능토큰수출'민·관협력체본격가동",
   "LGAI연구원,국내최대7500억파라미터'K-엑사원2.0'공개…상업이...",
   "[종합]\"네플스,배민,버터쉐이크,리얼마이즈,엑소좀,알룰로스\"등7월31일...",
-  "LGCNS,AI·클라우드상반기외형성장…2분기영업익뒷걸음"
+  "LGCNS,AI·클라우드상반기외형성장…2분기영업익뒷걸음",
+  "조규일진주시장,창원출입국·외국인사무소진주출장소설치제안",
+  "아토스직원5만6000명에게AI에이전트1만9000개가붙으면생기는일",
+  "LGAI연구원,7500억파라미터'K-엑사원2.0'공개…오픈소스로개방성...",
+  "AI·클라우드매출성장한아마존,인프라투자더늘린다",
+  "“모델밖해자를구축하라”…신간'변하지않는것에베팅하라'의3가...",
+  "SKT,피지컬AI스타트업8개사와협력확대",
+  "SK텔레콤,피지컬AI스타트업8곳과협력…로보틱스생태계확대",
+  "코스피10%이상폭등세,최고17%↑…삼전닉스20%안팎↑",
+  "KT-딥엑스-세솔,NPU활용차세대AI엣지박스개발맞손",
+  "한국어1위오른크래프톤음성AI'A.XK2라온-스피치',기존모델과..."
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,13 @@
   [
    "2026-07-31T11:20:33.286053+09:00",
    "안긴 코빗 애물단지 될라 우려의 시선 미래에셋 시너지커녕 향한"
+  ],
+  [
+   "2026-07-31T11:28:16.867431+09:00",
+   "오른 한국어 음성 라온 스피치 기존 1위 크래프톤 K2 모델과"
   ]
  ],
- "last_run": "2026-07-31T11:26:33.403371+09:00",
+ "last_run": "2026-07-31T11:28:40.767881+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
