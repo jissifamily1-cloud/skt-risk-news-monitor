@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12110704",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313213",
-  "https://www.munhwa.com/article/11606156",
-  "https://zdnet.co.kr/view/?no=20260730151158",
-  "https://www.mk.co.kr/article/12111983",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3650771",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3651127",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208242",
   "https://www.mt.co.kr/tech/2026/07/30/2026073015144066516",
   "http://www.bizwnews.com/news/articleView.html?idxno=142001",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427830",
@@ -2999,17 +2991,17 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1009904",
   "https://www.topstarnews.net/news/articleView.html?idxno=16150777",
   "https://www.sedaily.com/article/20074246",
-  "https://www.pennmike.com/news/articleView.html?idxno=124782"
+  "https://www.pennmike.com/news/articleView.html?idxno=124782",
+  "https://www.pressman.kr/news/articleView.html?idxno=102963",
+  "https://www.pressman.kr/news/articleView.html?idxno=102968",
+  "https://www.joongang.co.kr/article/25449797",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3651982",
+  "https://www.kgnews.co.kr/news/article.html?no=905940",
+  "https://www.dailian.co.kr/news/view/1672768/?sc=Naver",
+  "https://www.etnews.com/20260731000162",
+  "https://www.mt.co.kr/tech/2026/07/31/2026073110344061886"
  ],
  "seen_titles": [
-  "‘개인정보유출·무단결제’KT과징금이SK텔레콤의40%인이유…“...",
-  "SK브로드밴드,행복얼라이언스스쿨운영…인천어린이대상진로체험...",
-  "'AIDC얼라이언스'출범…SKT,민간의장사맡아",
-  "가격올리고쿠폰뿌리는저가커피…'제값내면손해'만드는선택적...",
-  "KT,외국인투수대니엘영입…잔여기간총액40만6000달러",
-  "NIA,AI윤리캠프로청소년책임감키운다",
-  "李,韓·칠레FTA개정추진시사…“시대변화맞게진화해야”",
-  "김제시,'생명나누기헌혈행사'성료…시민참여로혈액수급동참",
   "김용판달서구청장,교육·경찰·소방5개기관과'안전한달서'업무협...",
   "상반기침해사고1236건발생,전년比19.5%증가",
   "정보통신산업진흥원,국내오픈소스AI·SW생태계커뮤니티지원나선...",
@@ -6001,7 +5993,15 @@
   "KT,딥엑스·세솔과온디바이스AIoT협력",
   "SK텔레콤주가,7월31일장중81,000원3.58%상승",
   "오픈AI,과학자10만명에챗GPT무료제공",
-  "이진숙물러나라는민주당...김장겸\"방미통위에서일한적없는데?\"직..."
+  "이진숙물러나라는민주당...김장겸\"방미통위에서일한적없는데?\"직...",
+  "산업전반AI확산…기업들잇단신사업·협력공개",
+  "공연장엔치킨,도로엔자전거,컵안엔새맛",
+  "알뜰폰도데이터안심옵션개방…기본데이터다써도또쓴다",
+  "사천읍시장에'쿨링포그'...폭염속쾌적한환경'엄지척'",
+  "AI가기업시스템'무단접근'…앤트로픽,클로드평가과정서보안사...",
+  "'GPT자율해킹'논란속...올트먼,美의회찾아AI규제논의",
+  "[ET특징주]美반도체훈풍에최태원장내매수까지…SK스퀘어,주가上",
+  "방미통위,지역방송사AI도입지원…\"저비용·고효율제작환경조성\""
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,17 @@
   [
    "2026-07-31T10:52:16.165222+09:00",
    "김장겸 물러나라는 민주당 방미통위에서 이진숙 일한 없는데"
+  ],
+  [
+   "2026-07-31T10:54:16.828832+09:00",
+   "훈풍에 주가 장내 SK스퀘어 매수까지 반도체"
+  ],
+  [
+   "2026-07-31T10:54:16.828832+09:00",
+   "조성 고효율 도입 제작환경 방송사 지역 지원 저비용"
   ]
  ],
- "last_run": "2026-07-31T10:52:46.472590+09:00",
+ "last_run": "2026-07-31T10:54:35.591598+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
