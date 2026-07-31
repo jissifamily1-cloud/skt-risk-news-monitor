@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443435",
-  "https://www.yna.co.kr/view/PYH20260729166800013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260729166900013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260729167500013?input=1196m",
-  "http://www.fnnews.com/news/202607291533536929",
   "https://www.yna.co.kr/view/PYH20260729166700013?input=1196m",
   "https://www.mydaily.co.kr/page/view/2026072915305748940",
   "https://www.etnews.com/20260729000326",
@@ -2999,14 +2994,14 @@
   "https://www.sidae.com/article/2026073116470818421",
   "https://www.tfmedia.co.kr/news/article.html?no=206130",
   "https://news.bizwatch.co.kr/article/finance/2026/07/31/0041",
-  "https://www.mt.co.kr/finance/2026/07/31/2026073116522339976"
+  "https://www.mt.co.kr/finance/2026/07/31/2026073116522339976",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238240",
+  "https://zdnet.co.kr/view/?no=20260731170830",
+  "https://www.youthdaily.co.kr/news/article.html?no=224297",
+  "https://www.seoul.co.kr/news/economy/2026/07/31/20260731500253?wlog_tag3=naver",
+  "https://www.chosun.com/economy/economy_general/2026/07/31/G4LJ4YGV55CS5ANX7QV6BBYCF4/"
  ],
  "seen_titles": [
-  "SKT정재헌\"유연한사업추진·자금유치위해SK하이퍼설립\"",
-  "SK텔레콤대표정재헌\"AI데이터센터대규모수요확보중요,SK하이퍼로...",
-  "AIDC얼라이언스출범의장사위촉장수여식",
-  "개회사하는정재헌한국정보통신진흥협회장",
-  "개회사하는정재헌협회장",
   "AI데이터센터국가전략시동…민관얼라이언스출범",
   "의장사위촉장수여",
   "18.4GWAIDC구축민관협력체가동…정재헌SKT대표초대의장",
@@ -6001,7 +5996,12 @@
   "롯데카드,정보유출제재확정…1.5개월업무정지·과징금50억원",
   "쿠팡,'현금10만원배상'소비자분쟁조정위결정수용가능성은?",
   "금융위,롯데카드업무정지1.5개월…해킹제재첫사례",
-  "'297만명정보유출'롯데카드,해킹사고첫업무정지1.5개월"
+  "'297만명정보유출'롯데카드,해킹사고첫업무정지1.5개월",
+  "LGAI연구원,750B'K-엑사원2.0'공개…국내최대파운데이션모델로글...",
+  "美빅테크AI투자1500조원돌파…수익성시험대",
+  "SK하이닉스'17년만상한가'·삼성전자'26.8%↑'…역대최고상승률기...",
+  "롯데카드,해킹책임에영업정지1.5개월…신규카드발급중단",
+  "금융위,‘해킹사태’롯데카드에1.5개월업무정지·과징금50억부과"
  ],
  "recent_sigs": [
   [
@@ -6521,7 +6521,7 @@
    "정보유출 297만명 롯데카드 해킹사고 5개월 업무정지"
   ]
  ],
- "last_run": "2026-07-31T17:10:48.325735+09:00",
+ "last_run": "2026-07-31T17:12:39.983656+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
