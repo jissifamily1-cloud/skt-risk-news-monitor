@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202607300054",
-  "https://biz.heraldcorp.com/article/10826093",
-  "https://www.etoday.co.kr/news/view/2609428",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3651272",
-  "https://www.techm.kr/news/articleView.html?idxno=153857",
-  "https://www.m-economynews.com/news/article.html?no=69202",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=593108",
   "https://www.yna.co.kr/view/AKR20260730159600017?input=1195m",
   "http://www.fnnews.com/news/202607301641595097",
   "https://www.newsis.com/view/NISX20260730_0003730409",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20074306",
   "https://byline.network/?p=9004111222613822",
   "https://www.sedaily.com/article/20074307",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046584"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046584",
+  "http://www.globalepic.co.kr/view.php?ud=20260731125108498248439a4874_29",
+  "https://www.dailian.co.kr/news/view/1673143/?sc=Naver",
+  "https://www.aitimes.com/news/articleView.html?idxno=213391",
+  "https://www.mt.co.kr/stock/2026/07/31/2026073112425463237",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8625412",
+  "https://www.ytn.co.kr/_ln/0106_202607301641125516",
+  "https://www.techm.kr/news/articleView.html?idxno=153890"
  ],
  "seen_titles": [
-  "메이크봇,국내대표교통결제플랫폼에카카오톡네이티브생성형AI...",
-  "국내대기업,빅테크와'1400조'동맹⋯韓'AI공급망'거듭날까",
-  "SKT,8~9월통신비·멤버십혜택확대…민생안정지원",
-  "“격차좁힐것”vs.“단숨에어려워”…HBM놓고삼성·SK신경전팽팽",
-  "[컨콜]LG전자“로봇액추에이터생산돌입”…엔비디아와제조로봇실...",
-  "대구광역시,2027년예산편성시민설문조사31일부터실시",
-  "삼성SDS,B30090%이상가동...클라우드대외매출75%증가(종합)",
   "AI에서핵심광물까지...李대통령,미주순방서‘미래산업’동맹구축",
   "팀스파르타,손현태CTO영입…AX통합솔루션강화나선다",
   "'모두의AI'공모접수일주일연장…연내출시일정은그대로",
@@ -6001,13 +5994,16 @@
   "삼성,HBM4효과에세계1위…엔비디아·애플도앞섰다",
   "AWS,2분기영업이익64%증가“AI수익화예상보다빨라”",
   "연준,금리또동결…시장흔든‘9월인상’신호",
-  "[카드뉴스]오픈AI가격승부수"
+  "[카드뉴스]오픈AI가격승부수",
+  "LGAI연구원,'K-엑사원2.0'으로소버린AI대열선언…중국GLM·Qwen추...",
+  "LGCNS,AI·클라우드가상반기59%…피지컬AI·금융으로하반기속도(종...",
+  "아마존,AWS37%급성장…'AI투자회의론'잠재우고주가9%급등",
+  "정부피지컬AI에1.4조투입…앞서뛴시선AI·유온로보틱스주목",
+  "[뉴스in뉴스]롤러코스터코스피…변동성언제까지?",
+  "YTN\"방미통위차원의현실적중재·의견제시필요\"",
+  "LGAI연구원·SKT,독파모2단계'격돌'...AI신모델공개·우군확대"
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T06:58:16.796388+09:00",
-   "매수가 SK회 실천이라는 지분 책임경영"
-  ],
   [
    "2026-07-31T07:00:38.105836+09:00",
    "1100조 주도권 투자 동맹 다진다 빅테크"
@@ -6609,7 +6605,7 @@
    "승부수 가격"
   ]
  ],
- "last_run": "2026-07-31T12:56:38.886003+09:00",
+ "last_run": "2026-07-31T12:58:42.301469+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
