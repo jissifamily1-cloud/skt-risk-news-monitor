@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026073016551518752",
-  "https://www.ajunews.com/view/20260730165043995",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87242",
-  "https://www.hankookilbo.com/news/article/A2026073010220004495?did=NA",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80228",
-  "https://biz.chosun.com/it-science/ict/2026/07/30/T3K363PNNFCIDNJLYS2X7P55W4/",
-  "https://www.etoday.co.kr/news/view/2609437",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4427865",
   "https://www.slist.kr/news/articleView.html?idxno=755416",
   "https://economist.co.kr/article/view/ecn202607300014",
@@ -2999,16 +2992,16 @@
   "https://www.sportschosun.com/entertainment/2026-07-31/202607310100198360012875",
   "https://magazine.hankyung.com/business/article/202607317842b",
   "https://www.newsis.com/view/NISX20260731_0003731186",
-  "https://www.newsis.com/view/NISX20260731_0003731539"
+  "https://www.newsis.com/view/NISX20260731_0003731539",
+  "https://www.g-enews.com/view.php?ud=202607310946444322906806b77b_1",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256779",
+  "https://www.seoultimes.news/news/article.html?no=2000098354",
+  "https://www.koreaherald.com/article/10827054",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04260726645520096",
+  "https://www.dt.co.kr/article/12075852",
+  "https://www.koreaherald.com/article/10827055"
  ],
  "seen_titles": [
-  "[손재권칼럼]중국발AI쇼크가반복되는이유",
-  "삼성SDS,2분기매출·영업익성장…물류'끌고'AI인프라'밀고'",
-  "씨이랩,삼성SDS와AI컴퓨팅사업본격화…GPU장비발주개시",
-  "삼성SDS,2분기매출3조7178억원…\"클라우드·물류성장견인\"",
-  "\"숨기고거짓말하고\"...과징금540억에고발까지당한KT",
-  "'AI자율해킹'시대,규제고민하는美…안전이냐경쟁력이냐",
-  "채용·기부메일로속이는해킹기승…정부'사이버경보'",
   "삼성SDS“클라우드·물류동반성장세…AI풀스택으로중장기사업본...",
   "LG전자,2분기매출·영업익역대최대…로보틱스미래동력키운다[종합...",
   "개인정보위,KT개인정보유출에539억과징금…KT사과(종합)",
@@ -6001,7 +5994,14 @@
   "‘밀회’안판석감독,급성뇌출혈로쓰러졌다..“현재회복중”",
   "[속보]쿠팡,개인정보유출‘10만원배상’",
   "주가급락·주주환원불만에…최태원,48억SK하이닉스주식첫매수",
-  "'정보유출'모두의창업,보안강화…\"2기8월시작\"(종합)"
+  "'정보유출'모두의창업,보안강화…\"2기8월시작\"(종합)",
+  "[김대호인물]MS나델라(Nadella)반도체주가폭발\"1등공신\"",
+  "[분석]레버리지청산을국가배상론으로바꾸는극좌포퓰리즘",
+  "LGCNS현신균號,상반기매출2.8조원,영업익2221억원...AI데이터센터...",
+  "LGunveilsKorea’slargestAImodelwith750billionparameters",
+  "씨메스로보틱스,SKT피지컬AI간담회참석…협력확대논의",
+  "KT알티미디어,Widevine로컬라이선스서버출시…WLS종료대응",
+  "KT,DeepX,SesolteamuponNPU-basededgeAIsystems"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-07-31T13:18:21.898743+09:00",
    "매출 동력 흔드는 체제 AMD 2배 독점 헬리오스 성장"
+  ],
+  [
+   "2026-07-31T13:22:16.859719+09:00",
+   "NPU on up team systems ~KT DeepX edge based Sesol"
   ]
  ],
- "last_run": "2026-07-31T13:20:42.213102+09:00",
+ "last_run": "2026-07-31T13:22:41.071052+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
