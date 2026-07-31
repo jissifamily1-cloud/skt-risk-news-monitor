@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1391325",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207868",
-  "https://www.mk.co.kr/article/12112145",
-  "https://www.mk.co.kr/article/12112142",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102176",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=49783",
-  "http://www.starnewsk.com/news/articleView.html?idxno=57776",
-  "https://www.ddaily.co.kr/page/view/2026073017112657184",
   "https://www.xportsnews.com/article/2178146",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000053494",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06038486645519768",
@@ -2999,17 +2991,17 @@
   "https://www.xportsnews.com/article/2178511",
   "http://www.osen.co.kr/article/G1112849718",
   "http://www.newswatch.kr/news/articleView.html?idxno=80596",
-  "https://www.dt.co.kr/article/12075858"
+  "https://www.dt.co.kr/article/12075858",
+  "https://biz.sbs.co.kr/article_hub/20000325705?division=NAVER",
+  "https://sports.donga.com/sports/article/all/20260731/134400906/1",
+  "https://biz.sbs.co.kr/article_hub/20000325928?division=NAVER",
+  "https://www.thelec.kr/news/articleView.html?idxno=60349",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273901",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265208",
+  "https://news.mtn.co.kr/news-detail/2026073113561890629",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101118"
  ],
  "seen_titles": [
-  "[현장스케치]13년의세월을되돌려낸대한제국의진짜시간,국립중앙...",
-  "함께하는'제주삼다수마스터스'내달6일티오프",
-  "NIPA,오픈소스AI·SW개발자커뮤니티지속성장지원",
-  "삼성SDS,2분기매출3조7,178억원...IT서비스와물류사업동반성장",
-  "개도국AI데이터센터에국내기업반도체심는다",
-  "현대차AVP자율주행센터장…삼성전자부사장출신영입",
-  "KT,개인정보유출로540억과징금…조사방해혐의도",
-  "KT과징금540억철퇴…참여연대·새노조\"유출은폐엄벌해야\"",
   "'설록'장항준,조선통신사숨은이야기에\"출셋길보장돼도못할것\"",
   "오픈AI만바라보지않는MS…기업AI‘멀티모델’전환",
   "\"(박)민우는호흡이안된다고하더라\"남부지방강타한무더위,NC선수...",
@@ -6001,7 +5993,15 @@
   "김선태,리센느논란에결국'돈선태'자진하차…\"제능력부족\"",
   "'축구아닌데?'\"자녀들군대갔나?\"국회의원질의,병역질문두고의...",
   "[초점]최태원회장,48억원어치SK하이닉스주식매입…12억평가수익",
-  "“가만히갖고계시라더니”49억베팅…최태원,하룻새10억벌었다"
+  "“가만히갖고계시라더니”49억베팅…최태원,하룻새10억벌었다",
+  "1조현금필요한최태원앞선택지들[CEO업&다운]",
+  "최준용·송교창부상으로제외…니콜라스호14인체제로강화훈련→다음...",
+  "사상첫연이틀서킷브레이커불구…'3배레버리지'에1조원넘게몰려",
+  "삼성SDS,2분기실적\"클라우드·물류대외사업성장\"",
+  "개보위,'해킹방치·조사방해'KT과징금540억부과",
+  "\"최태원,SK하이닉스49억매수배경은…책임경영위한법적내매입최...",
+  "KT·딥엑스·세솔,NPU기반'AI엣지박스'공동개발",
+  "[이슈talk]SK최태원,\"책임경영한다면한다\"…회장님의'시원한한방..."
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,13 @@
   [
    "2026-07-31T14:04:15.980196+09:00",
    "클로드까지 보안 평가 있나 이어 믿을 어디까지"
+  ],
+  [
+   "2026-07-31T14:08:17.904804+09:00",
+   "SK 시원한 한다 한방 책임경영 한다면 회장님의"
   ]
  ],
- "last_run": "2026-07-31T14:06:35.535576+09:00",
+ "last_run": "2026-07-31T14:08:35.761080+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
