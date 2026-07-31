@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/07/28/20260728500091?wlog_tag3=naver",
-  "http://www.newsdream.kr/news/articleView.html?idxno=115215",
-  "https://www.ajunews.com/view/20260727094652728",
-  "https://www.ekn.kr/web/view.php?key=20260728023556662",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=701278",
-  "https://www.ppss.kr/news/articleView.html?idxno=303367",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1717966",
-  "https://www.hankyung.com/article/2026072773271",
   "https://www.insight.co.kr/news/564870",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356549",
   "https://www.m-i.kr/news/articleView.html?idxno=1395721",
@@ -2999,17 +2991,17 @@
   "https://www.huffingtonpost.kr/article/259181",
   "https://www.yna.co.kr/view/AKR20260731119651008?input=1195m",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607310557&t=NN",
-  "https://biz.chosun.com/stock/finance/2026/07/31/WOXIISSYGRBOPGMPKVDOVAE3JA/"
+  "https://biz.chosun.com/stock/finance/2026/07/31/WOXIISSYGRBOPGMPKVDOVAE3JA/",
+  "https://www.sportschosun.com/sports-news/2026-07-31/202607310100198870012932",
+  "https://zdnet.co.kr/view/?no=20260731161107",
+  "https://www.ytn.co.kr/_ln/0102_202607311648050889",
+  "https://www.yna.co.kr/view/AKR20260731138800002?input=1195m",
+  "https://biz.heraldcorp.com/article/10827399",
+  "https://www.etoday.co.kr/news/view/2609868",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=243476",
+  "https://www.tokenpost.kr/news/breaking/383270"
  ],
  "seen_titles": [
-  "[Biz&Law]휴맥스·가온그룹,美특허침해피소…셋톱박스기술'도마위...",
-  "이홍근경기도의원,우만테크노밸리내SK브로드밴드방송국침수피해...",
-  "[특징주]SKT,AIDC투자부담·주주환원우려에15%급락",
-  "[경제일보]메모리넘어AI연산허브로…네이버·SKAI패권전뛰어들다",
-  "[패트롤]경기도의회-경기도교육청-경기도국제교육원",
-  "신분당선공사뒤SKB방송국반복침수…원인규명나선다",
-  "SK텔레콤,AI데이터센터자회사설립…7500억투자",
-  "1조5000억투자도'이상무'…SK텔레콤,AI인프라구축가속페달",
   "메가프로젝트앞둔SK텔레콤,AI데이터센터전문회사세운다",
   "SKT,'SK하이퍼'에3300억1차출자...15GWAIDC개발체계가동",
   "나신평\"SK텔레콤1조5000억출자,신용도영향제한적\"",
@@ -6001,17 +5993,17 @@
   "'독파모1위'LG,규모3배키운역대최대모델공개:SK텔레콤·업스...",
   "코스피,17.9%·1000p폭등하며'불기둥'…사상최대상승(종합)",
   "'삼전닉스'개미손실만회…회장님은13억벌었다",
-  "금융위,‘해킹사태’롯데카드에1.5개월업무정지부과…과징금50..."
+  "금융위,‘해킹사태’롯데카드에1.5개월업무정지부과…과징금50...",
+  "'세계2위K-펜싱'최신원회장\"사무실봉쇄어려움속에지원해준문체...",
+  "[기고]인공지능의수명",
+  "코스피,역대급반등...18%오르며6,590선안착",
+  "금융위,'정보유출'롯데카드제재감경…업무정지4.5→1.5개월",
+  "‘어제팔았다면피눈물’삼전닉스,단하루만에사흘낙폭대부분회...",
+  "[급등락주짚어보기]반도체주강세에코스피·코스닥39개상한가...SK하...",
+  "'충주맨'김선태씨,웹예능자진하차…\"능력부족\"",
+  "에이에프엑스,335억원해킹보상안…8월3일공개한다"
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T10:54:16.828832+09:00",
-   "훈풍에 주가 장내 SK스퀘어 매수까지 반도체"
-  ],
-  [
-   "2026-07-31T10:54:16.828832+09:00",
-   "조성 고효율 도입 제작환경 방송사 지역 지원 저비용"
-  ],
   [
    "2026-07-31T10:56:22.166942+09:00",
    "사이드카 폭등에 코스피 급등 삼전닉스 초반 매수"
@@ -6523,9 +6515,13 @@
   [
    "2026-07-31T16:52:17.635712+09:00",
    "과징금 금융위 업무 부과 롯데카드에 정지 사태 5개월"
+  ],
+  [
+   "2026-07-31T16:54:23.952459+09:00",
+   "공개한다 에이에프엑스 3일 8월 335억원 보상안"
   ]
  ],
- "last_run": "2026-07-31T16:52:38.586723+09:00",
+ "last_run": "2026-07-31T16:54:42.431458+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
