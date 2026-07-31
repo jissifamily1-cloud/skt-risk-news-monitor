@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://newscham.net/articles/117005",
-  "https://newscham.net/articles/117006",
-  "http://www.dailyesports.com/view.php?ud=20260730120506441174bcc1e038_27",
-  "https://zdnet.co.kr/view/?no=20260729143549",
-  "https://www.inven.co.kr/webzine/news/?news=319010",
   "https://www.munhwa.com/article/11606132",
   "https://www.xportsnews.com/article/2177973",
   "https://www.ziksir.com/news/articleView.html?idxno=141654",
@@ -2999,14 +2994,14 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=155668",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=853606",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607301529125120109595",
-  "http://www.journalist.or.kr/news/article.html?no=61361"
+  "http://www.journalist.or.kr/news/article.html?no=61361",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=848743",
+  "https://www.mk.co.kr/article/12109650",
+  "http://www.tvdaily.co.kr/read.php3?aid=17854567141795847002",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688588",
+  "https://www.g-enews.com/view.php?ud=2026073109084419089a1f309431_1"
  ],
  "seen_titles": [
-  "삼성전자,빅테크5곳과장기계약완료…최소5년간캐파70%확보",
-  "코나아이,지역화폐넘어'AI·문화경제플랫폼'선언",
-  "\"AI가보기에우리브랜드는몇점?\"에이아이빅스랩,경쟁력지수공개",
-  "현대차그룹,엔비디아출신권정현자율주행개발센터장선임",
-  "AI확산하자올상반기사이버침해사고1236건...전년比19.5%↑",
   "상반기사이버침해사고1236건…DDoS·랜섬웨어증가",
   "삼성전자,2Q반도체영업익89.2조…\"2028년에도공급부족\"(종합2보)",
   "삼성·현대차그룹,로봇·자율주행인물빼가기경쟁치열",
@@ -6001,7 +5996,12 @@
   "최태원회장,SK하이닉스첫직접매수…47억투입해'책임경영'승부수",
   "딥엑스·KT·세솔,AIoT사업협력MOU체결",
   "[더벨][IRBriefing]삼성SDS,오픈AI·앤트로픽'테넌트유치'논의",
-  "과방위민주당의원들\"TBS,국회차원소통·대책나설것\""
+  "과방위민주당의원들\"TBS,국회차원소통·대책나설것\"",
+  "[#통신풍향계]KT밀리'제철독서챌린지'·SKB'어린이방송제작'체험",
+  "광고회사의변신…영화만들고AI컨설팅도",
+  "'40억채무·은퇴선언'장동주,라이브크리에이터도전",
+  "KT,딥엑스·세솔과NPU기반AI엣지박스공동개발",
+  "앤스로픽클로드,보안시험중실제조직3곳침해"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-07-31T09:14:24.681046+09:00",
    "나설 의원들 과방위 국회차원 TBS 소통 대책 민주당"
+  ],
+  [
+   "2026-07-31T09:16:16.728174+09:00",
+   "실제 클로드 침해 3곳 보안시험"
   ]
  ],
- "last_run": "2026-07-31T09:14:44.978268+09:00",
+ "last_run": "2026-07-31T09:16:33.917106+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
