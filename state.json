@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.lawtv.kr/news/articleView.html?idxno=60556",
-  "https://www.news1.kr/it-science/cc-newmedia/6243641",
-  "https://www.smartbizn.com/news/articleView.html?idxno=149900",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336118",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251253",
-  "https://www.sportsworldi.com/newsView/20260730512590",
-  "https://www.cwn.kr/news/articleView.html?idxno=51782",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05149606645519768",
-  "https://zdnet.co.kr/view/?no=20260730122708",
-  "https://www.cwn.kr/news/articleView.html?idxno=51783",
   "https://www.getnews.co.kr/news/articleView.html?idxno=876565",
   "https://zdnet.co.kr/view/?no=20260730145910",
   "https://www.hankookilbo.com/news/article/A2026073014040003924?did=NA",
@@ -2999,19 +2989,19 @@
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190404",
   "https://www.fntimes.com/html/view.php?ud=202607311031066877492587736_18",
   "https://www.gameple.co.kr/news/articleView.html?idxno=216161",
-  "https://www.yna.co.kr/view/AKR20260731062500091?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260731062500091?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3651933",
+  "https://www.mk.co.kr/article/12113161",
+  "https://www.news1.kr/world/international-economy/6245126",
+  "https://www.newspim.com/news/view/20260731000414",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268565",
+  "https://www.newspim.com/news/view/20260731000402",
+  "https://www.newsinside.kr/news/articleView.html?idxno=4878485",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240727",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853677",
+  "https://www.newsis.com/view/NISX20260731_0003731096"
  ],
  "seen_titles": [
-  "KT,개인정보위과징금540억원…거짓자료제출로고발",
-  "11개월뚫린KT내부망…개보위\"과징금540억,2차피해·유출규모등...",
-  "KT개인정보유출,과징금540억원...\"무선통신매출기준으로책정\"",
-  "펨토셀해킹KT,과징금540억이유…\"실피해자적었다\"",
-  "개인정보위,불법펨토셀에뚫린KT에과징금539억부과···로그삭제...",
-  "민주당고발에YTN찾은경찰…YTN사측\"매우유감,고발취소하라\"",
-  "SKTelecom、SKHyperを設立15GW級AIデータセンター構想を実行段階へ",
-  "“안정적인운영능력포커스”KT,사우어와결별하고새외인투수대...",
-  "'반도체영업이익250조시대'…삼성전자·SK하이닉스,AI시장수요로...",
-  "SKT·쿠팡보다유출적었는데540억…KT과징금키운‘실제피해’",
   "KT540억·SKT1348억…개인정보유출과징금,왜차이났나",
   "'해외로밍통화무료'…LG유플러스,여름휴가맞아청년·가족혜택대...",
   "현대차그룹,삼성·엔비디아출신권정현부사장영입…AI자율주행강화",
@@ -6001,7 +5991,17 @@
   "최태원SK회장,사재들여SK하이닉스48억첫장내매수…AI성장자신...",
   "‘부실보안’KT,개인정보유출과징금540억‘철퇴’",
   "'에이밍',KT에서KRX로트레이드...\"끝까지함께하려했다\"",
-  "GPT이어클로드도외부기관해킹드러나…현실된AI보안위험"
+  "GPT이어클로드도외부기관해킹드러나…현실된AI보안위험",
+  "밀양시,농촌체류형복합단지조성사업공모선정",
+  "벼랑끝몰린AI레버리지투자대가,시타델에자산대부분매각",
+  "\"레버리지이렇게무섭다\"…마진콜몰린美AI스타펀드23조통매각",
+  "창업아이디어싹틔우다...관세청,무역데이터·AI활용창업경진대회",
+  "LGCNS,상반기매출2조8358억…전년比매출6.1%·영업익1.1%↑",
+  "\"GPU208장직접굴린다\"…시선AI,희소한AI인프라기반'주목'",
+  "삼성SDS,2분기매출3조7178억원…클라우드·물류동반성장",
+  "SKT,피지컬AI스타트업8개사와협력,로보틱스생태계확산",
+  "[특징주]삼전닉스20%대폭등…'VI'발동",
+  "앤트로픽도AI보안사고…클로드,평가中기업3곳해킹"
  ],
  "recent_sigs": [
   [
@@ -6585,7 +6585,7 @@
    "클로드도 보안위험 드러나 현실 외부기관 GPT 이어"
   ]
  ],
- "last_run": "2026-07-31T10:36:41.782353+09:00",
+ "last_run": "2026-07-31T10:38:35.875726+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
