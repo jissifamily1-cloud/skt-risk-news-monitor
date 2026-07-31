@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202607306648i",
-  "https://www.sedaily.com/article/20074075",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683381&plink=ORI&cooper=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688548",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202607302103185420275",
   "http://www.fnnews.com/news/202607302118290531",
   "https://www.newspim.com/news/view/20260730001494",
@@ -2999,13 +2995,13 @@
   "http://www.sportsq.co.kr/news/articleView.html?idxno=496989",
   "https://biz.heraldcorp.com/article/10827337",
   "https://www.dkilbo.com/news/articleView.html?idxno=550154",
-  "https://it.donga.com/109293/"
+  "https://it.donga.com/109293/",
+  "https://www.hankyung.com/article/202607318336g",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356822",
+  "https://www.mediapen.com/news/view/1113566",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=205872"
  ],
  "seen_titles": [
-  "전오픈AI연구원설립헤지펀드,AI칩주하락에베팅",
-  "'내부갈등'KT,에이밍과결별...KRX지우와원딜트레이드",
-  "충북진천골프장서고객9만명개인정보유출…경찰수사",
-  "\"기본보안만했어도예방\"…KT과징금539억원부과",
   "토큰화주식보유자76만명돌파…한달새93%늘었다",
   "최태원,SK하이닉스48억첫장내매수…급락장에‘책임경영’카드꺼...",
   "최태원,SK하닉주식샀다...3260주48억첫장내매수",
@@ -6001,7 +5997,11 @@
   "'똑딱이군단'KT이끄는대포힐리어드[프로야구]",
   "‘하루에1000포인트상승실화냐’…코스피17.9％↑‘역대급불기둥...",
   "코스피17.91%폭등마감···역대최대상승률·상승폭경신",
-  "[AI써봄]오픈AIGPT-라이브,무료플랜으로도끊김없이될까"
+  "[AI써봄]오픈AIGPT-라이브,무료플랜으로도끊김없이될까",
+  "\"잠시꺼두셔도좋습니다\"…한석규28년만에돌아온이유",
+  "[분석]AI성장공식달랐다…삼성SDS는생태계,LGCNS는산업현장",
+  "무거워진통신사책임…보안투자키울'정밀·정교'한과징금체계필...",
+  "[마감시황]코스피,1001.89포인트오른6595.45마감"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,17 @@
   [
    "2026-07-31T16:22:23.640580+09:00",
    "끊김 무료 라이브 될까 없이 플랜으로도 GPT"
+  ],
+  [
+   "2026-07-31T16:24:17.136716+09:00",
+   "잠시 28년 꺼두셔도 한석규 이유 좋습니다 만에 돌아온"
+  ],
+  [
+   "2026-07-31T16:24:17.136716+09:00",
+   "정교 보안투자 과징금 책임 정밀 무거워진 키울 체계"
   ]
  ],
- "last_run": "2026-07-31T16:22:48.473515+09:00",
+ "last_run": "2026-07-31T16:24:40.667214+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
