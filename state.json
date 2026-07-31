@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80211",
-  "https://www.etoday.co.kr/news/view/2609187",
-  "https://www.ziksir.com/news/articleView.html?idxno=141651",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4427789",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546265",
-  "https://www.thelec.kr/news/articleView.html?idxno=60305",
-  "http://www.popcornnews.net/news/articleView.html?idxno=128180",
-  "https://www.aitimes.com/news/articleView.html?idxno=213327",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023425",
-  "https://www.wikitree.co.kr/articles/1149389",
   "https://newscham.net/articles/117005",
   "https://newscham.net/articles/117006",
   "http://www.dailyesports.com/view.php?ud=20260730120506441174bcc1e038_27",
@@ -2999,19 +2989,19 @@
   "https://www.slist.kr/news/articleView.html?idxno=755561",
   "https://www.news2day.co.kr/article/20260731500023",
   "http://www.4th.kr/news/articleView.html?idxno=2115569",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571595285073"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571595285073",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114884",
+  "https://www.koit.co.kr/news/articleView.html?idxno=208253",
+  "http://www.metroseoul.co.kr/article/20260731500043",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=85037",
+  "http://www.popcornnews.net/news/articleView.html?idxno=128272",
+  "https://www.smartbizn.com/news/articleView.html?idxno=149972",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155668",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=853606",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607301529125120109595",
+  "http://www.journalist.or.kr/news/article.html?no=61361"
  ],
  "seen_titles": [
-  "메타CEO“中AI모델차단해법아냐…규제포획경계해야”",
-  "광고회사의변신…영화만들고AI컨설팅도",
-  "동두천경찰서,체험형피싱방어력테스트·가족비상암호캠페인",
-  "긴급현안대응R&D본격…사이버보안·감염병등4개과제착수",
-  "KT,'개인정보유출-소액결제'사태로540억과징금",
-  "KEL,이터널리턴'미드시즌컵',내달1일광주서개최",
-  "[#통신풍향계]KT밀리'제철독서챌린지'·SKB'어린이방송제작'체험",
-  "'도란'최현준,\"T1팀내부적과부하온것같아,자신감많이떨어져\"",
-  "기업형임대키운다지만…'임대료물가연동규제'에사업성발목",
-  "“규제냐,성장이냐”…美AI정책딜레마",
   "삼성전자,빅테크5곳과장기계약완료…최소5년간캐파70%확보",
   "코나아이,지역화폐넘어'AI·문화경제플랫폼'선언",
   "\"AI가보기에우리브랜드는몇점?\"에이아이빅스랩,경쟁력지수공개",
@@ -6001,7 +5991,17 @@
   "공차,KT최대50%할인부터주요카드사제휴프로모션",
   "\"다음주코스피저가매수세유입,변동성완화기대\"<신한투자證>",
   "UBS\"메모리슈퍼사이클2028년지속…D램수요내년36%증가\"",
-  "또털린채비…올해해킹조사하다'작년유출'까지드러나"
+  "또털린채비…올해해킹조사하다'작년유출'까지드러나",
+  "[AI인프라의역설/下]\"AI도지속가능해야한다\"…규제보다어려운'공존...",
+  "NIPA,오픈소스AI·SW커뮤니티15곳출범…글로벌생태계진출지원",
+  "현대차증권,상반기순이익593억원…전년比48%증가",
+  "삼성SDS,2분기매출3조7178억원-클라우드·물류성장에실적개선",
+  "SKT,'피지컬AI생태계'키운다…로봇스타트업8곳과맞손",
+  "'20배빠른5G'통신3사모두제동···과징금판단은갈려",
+  "최태원회장,SK하이닉스첫직접매수…47억투입해'책임경영'승부수",
+  "딥엑스·KT·세솔,AIoT사업협력MOU체결",
+  "[더벨][IRBriefing]삼성SDS,오픈AI·앤트로픽'테넌트유치'논의",
+  "과방위민주당의원들\"TBS,국회차원소통·대책나설것\""
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,17 @@
   [
    "2026-07-31T09:12:15.897599+09:00",
    "조사하다 작년 유출 까지 드러나 털린 올해 채비"
+  ],
+  [
+   "2026-07-31T09:14:24.681046+09:00",
+   "유치 논의 테넌트 앤트로픽 삼성SDS"
+  ],
+  [
+   "2026-07-31T09:14:24.681046+09:00",
+   "나설 의원들 과방위 국회차원 TBS 소통 대책 민주당"
   ]
  ],
- "last_run": "2026-07-31T09:12:46.047193+09:00",
+ "last_run": "2026-07-31T09:14:44.978268+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
