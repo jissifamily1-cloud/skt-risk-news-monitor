@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=59690",
-  "https://www.dt.co.kr/article/12075798",
-  "https://biz.chosun.com/it-science/ict/2026/07/30/XZB3BOS4VRAQBBCSJOZJ5BH5QU/",
-  "http://www.bizwnews.com/news/articleView.html?idxno=142031",
-  "https://www.newscj.com/news/articleView.html?idxno=3421364",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=59696",
   "http://www.yonhapnewstv.co.kr/news/MYH20260730185852wdB",
   "https://www.tenasia.co.kr/article/2026073057064",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1673191/?sc=Naver",
   "http://enews.imbc.com/News/RetrieveNewsInfo/513220",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454609",
-  "https://www.donga.com/news/Economy/article/all/20260731/134399749/1"
+  "https://www.donga.com/news/Economy/article/all/20260731/134399749/1",
+  "https://www.newspim.com/news/view/20260731001151",
+  "https://www.sentv.co.kr/article/view/sentv202607310100",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607271248527800103980",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207871",
+  "https://www.hellot.net/news/article.html?no=114129"
  ],
  "seen_titles": [
-  "[컨콜]LG전자\"피지컬AI시장협력필요성인식···전략적파트너십...",
-  "[이수영의IT칼럼]빠르고똑똑한'AI복지'...모두에게안전한가",
-  "[ICT종합]인텔및네이버페이소식외",
-  "[기획]또패닉셀…빛바랜삼전‘미라클실적’",
-  "위믹스77억해킹원인은“스마트컨트랙트허점노린관리자권한탈취...",
   "[캐시워크종합]7월30일목요일오후7시현재출제되고있는문제들의...",
   "[스포츠속으로]바둑AI'카타고'는무엇을남겼나",
   "[게임뉴스]크래프톤및웹젠소식외",
@@ -6001,25 +5996,14 @@
   "카카오뱅크첫파업…'IT식성과급'논쟁,은행권으로확산",
   "'하얀거탑'안판석감독,뇌출혈로입원…\"현재회복중\"[공식입장]",
   "과기정통부,알뜰폰2.0카드꺼냈다···풀MVNO로통신3사독과점깬다",
-  "존슨앤드존슨,혁신의약품공급넘어국내바이오생태계협력확대"
+  "존슨앤드존슨,혁신의약품공급넘어국내바이오생태계협력확대",
+  "[홍콩특징주]미니맥스,차세대멀티모달AI모델'MiniMaxH3'공개",
+  "실적개선삼성SDS,AI인프라·디지털자산사업속도",
+  "[더벨][thebelldesk]'추격자'이재용회장의드림티켓",
+  "아마존\"npm공급망공격4건,북한해킹조직소행\"",
+  "SK그룹임원진한자리에...씨메스로보틱스,제조·물류피지컬AI실증..."
  ],
  "recent_sigs": [
-  [
-   "2026-07-31T09:08:19.167874+09:00",
-   "데이터 만든다 구축 ~SKT 스타트업과 로봇 손잡고 로보틱스 생태계"
-  ],
-  [
-   "2026-07-31T09:08:19.167874+09:00",
-   "한석규 광고 28년 만에 산사에서 ~SKT 아일랜드까지 복귀 배우"
-  ],
-  [
-   "2026-07-31T09:08:19.167874+09:00",
-   "기술 리더들 서울에 오픈소스 모인다 커널까지 AI부터"
-  ],
-  [
-   "2026-07-31T09:10:26.208492+09:00",
-   "파는 됐다 엔비디아의 보증인이 사람의 보증 사는 사람이"
-  ],
   [
    "2026-07-31T09:12:15.897599+09:00",
    "변동성 기대 코스피 완화 신한투자 유입 매수세 다음주 저가"
@@ -6567,9 +6551,21 @@
   [
    "2026-07-31T15:04:23.013370+09:00",
    "주인공 동화 확대 LG유플러스 진행 우리 아이가 ~LGU 키즈 콘텐츠"
+  ],
+  [
+   "2026-07-31T15:10:27.792369+09:00",
+   "물류 피지컬 SK그룹 한자리에 실증 씨메스로보틱스 임원진 제조"
+  ],
+  [
+   "2026-07-31T15:10:27.792369+09:00",
+   "회장의 드림티켓 이재용 추격자"
+  ],
+  [
+   "2026-07-31T15:10:27.792369+09:00",
+   "아마존 4건 공격 북한 npm 공급망 소행"
   ]
  ],
- "last_run": "2026-07-31T15:08:32.962626+09:00",
+ "last_run": "2026-07-31T15:10:51.773055+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
