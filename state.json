@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=710854",
-  "https://www.newspim.com/news/view/20260730001235",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718469",
-  "https://www.hellot.net/news/article.html?no=114097",
-  "http://www.newswatch.kr/news/articleView.html?idxno=80585",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=808291",
-  "https://www.gokorea.kr/news/articleView.html?idxno=873595",
-  "https://byline.network/?p=9004111222613720",
   "https://www.yna.co.kr/view/GYH20260730000700044?input=1363m",
   "https://sports.donga.com/it/article/all/20260730/134393041/1",
   "https://kidd.co.kr/news/246879",
@@ -2999,17 +2991,17 @@
   "https://www.koreatimes.co.kr/path/A2026072117330004002",
   "https://www.gukjenews.com/news/articleView.html?idxno=3652096",
   "https://www.newsis.com/view/NISX20260731_0003731281",
-  "https://www.m-economynews.com/news/article.html?no=69274"
+  "https://www.m-economynews.com/news/article.html?no=69274",
+  "https://www.newstnt.com/news/articleView.html?idxno=712365",
+  "https://www.xportsnews.com/article/2178440",
+  "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1425452",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3652104",
+  "https://www.mydaily.co.kr/page/view/2026073111352218361",
+  "https://www.irobotnews.com/news/articleView.html?idxno=47692",
+  "https://biz.heraldcorp.com/article/10826983",
+  "https://www.hidomin.com/news/articleView.html?idxno=715471"
  ],
  "seen_titles": [
-  "박찬대인천시장,1조원AI커넥티드카국비사업유치총력",
-  "KT,무단소액결제사고과징금540억…\"개인정보유출뿐아니라금전...",
-  "남양주시,국가정보통신망고도화완료…스마트행정서비스강화",
-  "[홍콩특징주]'키미K3'가중치공개,중국국산AI연산생태계지원...",
-  "[Car&Now]현대차그룹자율주행개발센터장영입·람보르기니상반기매...",
-  "S2W,OWASP기반AI취약점진단으로기업AI도입안전성지원",
-  "[초점]KT,개인정보유출에사건은폐까지…과징금540억·피고발",
-  "[포커스]KT,'총체적부실덩어리'...보안은'구멍'자료는'거짓'",
   "\"북한배후해킹조직'라자루스',사이버공격급증…개인과기업타깃...",
   "국가배후해킹조직,뉴스·병원사이트악용…국내이용자공격주의",
   "[그래픽]북한해킹조직해킹기법워터링홀",
@@ -6001,7 +5993,15 @@
   "TelecombetsonAI-RANtowinglobal6Gstandardsrace",
   "iM금융그룹,금융소비자보호연수참여...전계열사실무역량강화",
   "'아재폰'옛말…2030홀린폴드8,\"예약걸어도한달대기\"",
-  "이진숙과방위보임공방...민주·진보“이해충돌”vs국힘“방통위..."
+  "이진숙과방위보임공방...민주·진보“이해충돌”vs국힘“방통위...",
+  "[특징주]외국인'삼성전자·금호타이어'사고'삼성중공업'팔고…기관...",
+  "'페덱이무너졌다'삼성,1위수성비상등…원태인앞세워롯데잡고선...",
+  "[스포츠LIVE]KIA4위사수!LG반등조짐?…홈런왕경쟁'후끈'",
+  "2026년제2회검정고시1,505명응시…충남교육청,8월11일시험장공고",
+  "오늘부터단일레버리지달라진다…다음카드는‘홍콩식가변레버리지...",
+  "씨메스로보틱스,SK텔레콤'피지컬AI·로보틱스스타트업간담회'참석",
+  "SK하이닉스“적자땐임금조정…성과급절반이상주식으로지급”[...",
+  "최태원의30일'SK하이닉스풀매수'직관화제"
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,17 @@
   [
    "2026-07-31T11:42:16.310057+09:00",
    "반등에도 롤러코스피 증시 끌어올린 AI가 고르는 역대급"
+  ],
+  [
+   "2026-07-31T11:48:17.020965+09:00",
+   "임금 적자 조정 절반 지급 이상 주식으로 성과급 SK하이닉스"
+  ],
+  [
+   "2026-07-31T11:48:17.020965+09:00",
+   "풀매수 30일 직관 최태원의 화제 SK하이닉스"
   ]
  ],
- "last_run": "2026-07-31T11:46:37.290974+09:00",
+ "last_run": "2026-07-31T11:48:37.023261+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
