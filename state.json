@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12311120?influxDiv=NAVER",
-  "https://www.mk.co.kr/article/12113350",
-  "https://www.ceoscoredaily.com/page/view/2026073111320482548",
-  "https://biz.chosun.com/it-science/ict/2026/07/31/ZHRTBY6LKNBJ3JNMSG6OFB23LU/",
   "https://www.gukjenews.com/news/articleView.html?idxno=3652307",
   "https://view.asiae.co.kr/article/2026073114500929030",
   "https://www.newsis.com/view/NISX20260731_0003731724",
@@ -2999,13 +2995,13 @@
   "https://www.newscj.com/news/articleView.html?idxno=3421787",
   "https://www.wikitree.co.kr/articles/1149864",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167084",
-  "https://www.tokenpost.kr/news/market/383725"
+  "https://www.tokenpost.kr/news/market/383725",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167088",
+  "https://news.bizwatch.co.kr/article/market/2026/07/31/0049",
+  "https://view.asiae.co.kr/article/2026073114322425564",
+  "https://zdnet.co.kr/view/?no=20260801161743"
  ],
  "seen_titles": [
-  "'봄밤'안판석감독,뇌출혈로입원“회복중…신작정상공개”",
-  "사상최고상승률기록코스피…당분간변동성장세불가피[머니닥터시...",
-  "위믹스,해킹원인드러났다…스마트컨트랙트취약점악용,블록체인전...",
-  "이통3사2만원대요금제에흔들린알뜰폰…지원보다구조조정에무게...",
   "대전경찰청,장애인보호센터에세탁세제등생활용품전달",
   "법무법인태평양,리걸AI·범용AI통합운영체계구축",
   "제이엘케이\"다양한GPU환경검증으로의료AI상용화속도\"",
@@ -6001,7 +5997,11 @@
   "[야구]kt,한화꺾고5연승질주…76일만에1위탈환",
   "삼전닉스주식보유자들은이번주이일정에반드시주목하세요",
   "삼성'탈Arm'이끈전임원,아마존'자체AI칩'만든다",
-  "코스피·코스닥,변동성속반도체·AI로급반전"
+  "코스피·코스닥,변동성속반도체·AI로급반전",
+  "멜론위협하는스포티파이…바이브버린네이버가키워",
+  "[공모주달력]증권신고서4번고친빅웨이브로보틱스,수요예측",
+  "앤스로픽클로드,외부기업3곳무단해킹…안전성우려확산",
+  "\"中AI유니콘문샷AI,알리바바서엔비디아칩2만대제공받아\""
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,13 @@
   [
    "2026-08-02T07:54:17.288615+09:00",
    "현실로 넘어 통제 샌드박스"
+  ],
+  [
+   "2026-08-02T08:02:19.835611+09:00",
+   "제공받아 2만대 유니콘 알리바바서 문샷"
   ]
  ],
- "last_run": "2026-08-02T08:00:53.419848+09:00",
+ "last_run": "2026-08-02T08:02:37.161573+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
