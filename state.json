@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ppss.kr/news/articleView.html?idxno=303878",
-  "https://www.ajunews.com/view/20260731101153110",
-  "https://view.asiae.co.kr/article/2026073110244719017",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04001606645520096",
   "http://www.bizwnews.com/news/articleView.html?idxno=142053",
   "https://www.ajunews.com/view/20260731105352223",
@@ -2999,12 +2996,12 @@
   "https://www.etoday.co.kr/news/view/2609993",
   "https://www.hankyung.com/article/202607318312i",
   "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209705"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5209705",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3652956",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3652958",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16152316"
  ],
  "seen_titles": [
-  "최태원,SK하이닉스주식48억원어치첫매수…책임경영강조",
-  "오픈AI이어앤트로픽AI모델도외부기관해킹…사이버보안우려고조",
-  "美·中연산자원경쟁…\"딥시크,대규모데이터센터건설\"",
   "'에어컨부터물놀이용품까지'…이커머스업계,여름할인대전",
   "[캐시워크종합]7월31일금요일오전11시현재출제되고있는문제들...",
   "美반도체지수한달새27%급락에…서학개미는3배레버리지베팅",
@@ -6001,7 +5998,10 @@
   "KT내야진,한화추격끊은삼중살…시즌2호·통산88호",
   "\"10초짜리영상으로상품300만개팔았다\"…'숏폼마케팅'에꽂힌홈쇼...",
   "삼성SDS,상반기영업익전년比37.8%감소",
-  "맥OS노린북한신종해킹…스스로악성코드깔게유도"
+  "맥OS노린북한신종해킹…스스로악성코드깔게유도",
+  "대구광역시,\"법인택시정산사변경에2천여대대구로페이일시중단...",
+  "김대권수성구청장,'통합돌봄특화사업'업무협약체결",
+  "장혁,셀피로근황알리며'문무'연개소문기대감높였다"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-08-01T20:04:17.984610+09:00",
    "악성코드 노린 신종 깔게 유도 맥OS 스스로 북한"
+  ],
+  [
+   "2026-08-01T20:06:16.024491+09:00",
+   "기대감 문무 근황 높였다 연개소문 알리며 장혁 셀피로"
   ]
  ],
- "last_run": "2026-08-01T20:04:34.696628+09:00",
+ "last_run": "2026-08-01T20:06:36.710676+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
