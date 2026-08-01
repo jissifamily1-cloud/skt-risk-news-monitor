@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251799",
-  "https://www.ddaily.co.kr/page/view/2026073110195825726",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251798",
   "http://www.fnnews.com/news/202607310919072339",
   "https://www.sedaily.com/article/20074225",
   "https://www.taxtimes.co.kr/news/article.html?no=276230",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20260731_0003731865",
   "https://shindonga.donga.com/3/all/13/6319813/1",
   "https://www.dailian.co.kr/news/view/1673164/?sc=Naver",
-  "https://www.mk.co.kr/article/12106717"
+  "https://www.mk.co.kr/article/12106717",
+  "https://zdnet.co.kr/view/?no=20260801125827",
+  "https://www.tokenpost.kr/news/breaking/383516",
+  "https://www.seoul.co.kr/news/economy/2026/08/01/20260801500013?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "LG유플러스,'U+tv아이들나라'서고객사연AI동화제작행사진행",
-  "KT,딥엑스·세솔과MOU…온디바이스AIoT사업협력",
-  "KT·딥엑스·세솔,NPU기반온디바이스AIoT사업3자협약체결",
   "KT,딥엑스·세솔과손잡고NPU기반AIoT시장키운다",
   "MS‘AI투자’회수할때실탄바닥난저커버그[트럼프스톡커]",
   "AI·관세무역데이터접목…창업아이디어빛났다",
@@ -6001,7 +5998,10 @@
   "아이폰빌려쓰는애플'리스',韓상륙한다면…보조금대란터진다?[폰...",
   "“수행평가,AI에물어보면답바로나와요”",
   "저평가확신준최태원'14억'평가익,수석부회장오른김동관[재계-i...",
-  "비트코인,K자본시장심장부로대이동[홍익희의비트코인이야기]"
+  "비트코인,K자본시장심장부로대이동[홍익희의비트코인이야기]",
+  "[AI는지금]가짜폭격·난민사진쏟아지자…구글,'어스AI편집'긴급...",
+  "오픈AI,캄보디아사기계정차단…챗GPT악용대응했다",
+  "25세‘AI예언자’빚투가뒤흔든증시…하이닉스널뛰기주가에숨은..."
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,17 @@
   [
    "2026-08-01T13:02:18.809970+09:00",
    "수석부회장 김동관 14억 오른 평가익 재계 확신 저평가"
+  ],
+  [
+   "2026-08-01T13:06:22.348441+09:00",
+   "캄보디아 악용 챗GPT 대응했다 차단 계정 사기"
+  ],
+  [
+   "2026-08-01T13:06:22.348441+09:00",
+   "하이닉스 25세 주가에 뒤흔든 빚투가 예언자 널뛰기 숨은 증시"
   ]
  ],
- "last_run": "2026-08-01T13:04:42.265605+09:00",
+ "last_run": "2026-08-01T13:06:48.114923+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
