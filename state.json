@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026073115170004363?did=NA",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04933126645520096",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=205098",
   "https://www.bloter.net/news/articleView.html?idxno=669429",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167077",
@@ -2999,11 +2997,11 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008683381&plink=ORI&cooper=NAVER",
   "http://www.osen.co.kr/article/G1112850984",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=362917",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065584561556394"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065584561556394",
+  "https://www.tokenpost.kr/news/breaking/383816",
+  "https://www.yna.co.kr/view/AKR20260802023700089?input=1195m"
  ],
  "seen_titles": [
-  "\"지역신문경쟁력은속보아니라해석에있다\"",
-  "암호키부실관리가부른'모두의창업'개인정보유출",
   "‘불기둥’쏜코스피,17%급등…글로벌금융위기뛰어넘어",
   "KT,딥엑스·세솔과온디바이스AIoT맞손...AIEdge시장공략",
   "[엑시인피니티개편]②6억달러해킹딛은로닌…플랫폼으로승부",
@@ -6001,7 +5999,9 @@
   "\"기본보안만했어도예방\"…KT,과징금539억원부과",
   "\"그동안미안했다\"한화캡틴시즌첫4안타폭발했는데…뼈아픈타선...",
   "KT,공식온라인몰'KT다이렉트샵'으로리브랜딩...편의중심개편",
-  "금감원,불법사금융차단‘대포폰제로’가동…차단소요기간7일→3일..."
+  "금감원,불법사금융차단‘대포폰제로’가동…차단소요기간7일→3일...",
+  "암스트롱,오픈웨이트지지…미AI혁신강조",
+  "\"'고성능키미K3'中문샷,알리바바의엔비디아칩2만장사용\""
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,13 @@
   [
    "2026-08-02T12:40:25.971856+09:00",
    "상승세 제동걸까 한화전 2일 ~KT 화이트 한화 수원"
+  ],
+  [
+   "2026-08-02T12:52:16.035572+09:00",
+   "키미 사용 고성능 알리바바의 2만장 K3 문샷"
   ]
  ],
- "last_run": "2026-08-02T12:50:40.473302+09:00",
+ "last_run": "2026-08-02T12:52:39.027960+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
