@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=212782",
-  "https://www.aitimes.com/news/articleView.html?idxno=212790",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684225",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684201",
-  "https://zdnet.co.kr/view/?no=20260715080301",
   "https://www.aitimes.com/news/articleView.html?idxno=212728",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684053",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=684003",
@@ -2999,14 +2994,14 @@
   "https://www.ziksir.com/news/articleView.html?idxno=141917",
   "https://www.hankyung.com/article/2026080306916",
   "https://www.ajunews.com/view/20260730135835283",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686746&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008686746&plink=ORI&cooper=NAVER",
+  "https://www.etnews.com/20260803000019",
+  "https://view.asiae.co.kr/article/2026080308382387032",
+  "http://www.kdfnews.com/news/articleView.html?idxno=186006",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=314019",
+  "https://www.greened.kr/news/articleView.html?idxno=346604"
  ],
  "seen_titles": [
-  "오픈AI,프롬프트인젝션잡는내부AI'GPT-Red'공개",
-  "뉴욕주,AI데이터센터신축불허\"전력·용수고갈통제불능\"",
-  "앤트로픽신규광고에'공포마케팅'혹평...알트먼\"사칭계정인줄\"조...",
-  "허사비스\"AGI달성눈앞…미국주도AI자율규제연내신설해야\"",
-  "'코덱스'700만돌파하루만에800만...알트먼\"미친성장세\"",
   "구글딥마인드CEO\"AGI,몇년내도래…전기·불발견만큼큰변화온...",
   "구글딥마인드수장허사비스,미국주도AI표준기구촉구",
   "\"오픈AI,첫HW는스마트스피커\"…애플과맞대결",
@@ -6001,7 +5996,12 @@
   "한화,'우주의조약돌'공개컨퍼런스개최…우주인재육성확대",
   "\"두산SK실트론싸게인수,SK는오버행우려↓…윈윈거래\"-DS",
   "[전문가기고]AI도막연한'공채'아닌목적에맞는'수시채용'으로",
-  "\"이재용·최태원모두방나갔다\"개미들보고놀란사진"
+  "\"이재용·최태원모두방나갔다\"개미들보고놀란사진",
+  "백미당,매주수요일아이스크림최대46%할인",
+  "오늘이엔엠,이통3사통합'12포트안테나'공급…정부사업핵심공급...",
+  "중국,'AI연인'서비스금지…과도한의존에따른사회불안차단[KDFW...",
+  "디윅스,'AI'건망증'고친다…'위아엔그래프(WEAEngraph)'시장관심...",
+  "\"미국선구글이0%까지낮췄는데\"…K게임업계\"한국만30%수수료,정부..."
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,13 @@
   [
    "2026-08-03T08:38:14.808296+09:00",
    "AI도 맞는 공채 수시채용 아닌 목적에 막연한"
+  ],
+  [
+   "2026-08-03T08:40:26.284556+09:00",
+   "한국만 까지 구글이 K게임업계 낮췄는데 정부 수수료 미국선"
   ]
  ],
- "last_run": "2026-08-03T08:38:41.937305+09:00",
+ "last_run": "2026-08-03T08:40:42.871398+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
