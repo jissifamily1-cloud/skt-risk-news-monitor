@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20260731500221",
-  "https://www.thelec.kr/news/articleView.html?idxno=60413",
-  "https://www.bloter.net/news/articleView.html?idxno=669718",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167096",
-  "http://www.newsprime.co.kr/news/article.html?no=742323",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=362901",
-  "https://biz.chosun.com/industry/company/2026/07/31/CIXV7LCAZNC5JCAPC7KIY6HJWM/",
   "https://m.skyedaily.com/news_view.html?ID=308813",
   "http://www.lawissue.co.kr/view.php?ud=202607311750514521204ead0791_12",
   "https://www.mydaily.co.kr/page/view/2026073117234334620",
@@ -2999,16 +2992,16 @@
   "https://biz.heraldcorp.com/article/10828229",
   "https://mhnse.com/news/articleView.html?idxno=1470624",
   "https://www.dt.co.kr/article/12076094",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/02/2026080200064.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/02/2026080200064.html",
+  "https://mhnse.com/news/articleView.html?idxno=1476918",
+  "https://mhnse.com/news/articleView.html?idxno=1476920",
+  "https://mhnse.com/news/articleView.html?idxno=1476916",
+  "https://mhnse.com/news/articleView.html?idxno=1476913",
+  "https://www.joongdo.co.kr/web/view.php?key=20260802010008973",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240745",
+  "https://www.mtnews.net/news/articleView.html?idxno=25518"
  ],
  "seen_titles": [
-  "두산,밥캣이후19년만에빅딜…반도체·전력·로봇‘AI인프라’완성",
-  "“어제다팔았는데”하루1001p폭등,SK하이닉스상한가…널뛰기증...",
-  "[속보]삼성전자26.81%오른26만2천500원,SK하이닉스상한가인29.95%까...",
-  "LG,신규'K-엑사원2.0'공개...7500억개파라미터",
-  "[플랫폼보안점검]③알파벳생태계총동원…AI·하드웨어로사이버방어",
-  "롯데카드,영업정지1.5개월…중징계면해",
-  "'정보유출'롯데카드제재…1.5개월업무정지·과징금50억원",
   "코스피역대급상승,외인의복귀...하닉상한가·삼전26%↑",
   "SK,SK실트론지분70.6%두산에매각…2조3000억원규모",
   "[최송목의CEO전략]박지성이감독직을마다한이유",
@@ -6001,13 +5994,16 @@
   "“한국,온체인금융허브조건다갖췄다”…체인링크창업자가꼽은‘...",
   "아리아나그란데,미공개자료유출→다크웹판매…결국칼빼들었다[...",
   "[김화균칼럼]고약해진코스피,이제'읍참마속'생각할때다",
-  "외신'한국증시거품'경고…블룸버그\"신뢰회복,주가반등보다오..."
+  "외신'한국증시거품'경고…블룸버그\"신뢰회복,주가반등보다오...",
+  "[mhn포토]짜릿한역전우승이다연,완벽하다",
+  "[mhn포토]이다연,통산10승에맞는우승재킷",
+  "[mhn포토]이다연,트리플보기가뭐에요이글로역전우승",
+  "[mhn포토]장애인인식개발을위한용품지원",
+  "[월요논단]'보장된수익률'의환상,우리의일상을위협하다",
+  "오픈AI'챗GPT',이용자10억시대…AI경쟁,'성능'에서'경제성'으로",
+  "미·중경쟁2.0시대,中'피지컬AI·공급망'거센공세…\"K-제조,'아..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-02T11:02:18.377038+09:00",
-   "교수 시대 김승주 고려대 보안정책 7일 국가"
-  ],
   [
    "2026-08-02T11:06:17.392955+09:00",
    "모델로 학습 앤트로픽 개발 중국 군사용 증류"
@@ -6331,9 +6327,13 @@
   [
    "2026-08-02T17:02:17.579790+09:00",
    "신뢰 거품 경고 반등보다 회복 증시 한국 블룸버그 외신 주가"
+  ],
+  [
+   "2026-08-02T17:04:18.858354+09:00",
+   "공급망 시대 피지컬 공세 거센 제조 경쟁"
   ]
  ],
- "last_run": "2026-08-02T17:02:40.495772+09:00",
+ "last_run": "2026-08-02T17:04:38.089635+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6835,6 +6835,7 @@
   "tbs.seoul.kr": "TBS",
   "starnewsk.com": "케이스타뉴스",
   "fourfourtwo.co.kr": "포포투",
-  "news.mbccb.co.kr": "MBC충북"
+  "news.mbccb.co.kr": "MBC충북",
+  "mtnews.net": "기계신문"
  }
 }
