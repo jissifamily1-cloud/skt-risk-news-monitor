@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260731010011741",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718689",
-  "https://www.mk.co.kr/article/12113490",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04926566645520096",
   "https://www.bloter.net/news/articleView.html?idxno=669428",
   "http://www.newsprime.co.kr/news/article.html?no=742306",
@@ -2999,12 +2996,12 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=738842",
   "https://www.ddaily.co.kr/page/view/2026080212041391710",
   "https://www.tokenpost.kr/news/breaking/383801",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=593796"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=593796",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148969169&call_from=naver_news",
+  "https://www.ddaily.co.kr/page/view/2026080212081988000",
+  "https://www.newspim.com/news/view/20260802000043"
  ],
  "seen_titles": [
-  "\"기본보안만했어도예방\"…KT,과징금539억원부과",
-  "'해킹서버폐기'의혹LGU+…과징금·형사처벌목소리커진다",
-  "삼성·SK하이닉스시총하루만에300조상승…역사적반등기록",
   "AI거품터지면한국부터?…英이코노미스트의경고",
   "HBM4앞세운삼성,수성나선SK…주도권경쟁본격화",
   "[엑시인피니티개편]①수익보장형P2E지속불가…게임경제재설계",
@@ -6001,7 +5998,10 @@
   "[포토]김재희,'최종전첫티샷'",
   "AI동료삼고,셰르파키우고…통신3사'사내AX'각양각색",
   "H200약2만장,알리바바키미에제공보도",
-  "국내반도체업계,글로벌빅테크와장기공급계약으로수익안정확보"
+  "국내반도체업계,글로벌빅테크와장기공급계약으로수익안정확보",
+  "알뜰폰도'데이터안심옵션'도입…다써도계속쓴다",
+  "KT,공식온라인몰새단장…'KT샵'에서'KT다이렉트샵'",
+  "[AI프리뷰]2일수원KT-한화전,한화화이트KT상승세제동걸까"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,13 @@
   [
    "2026-08-02T12:32:16.544050+09:00",
    "김재희 티샷 최종전"
+  ],
+  [
+   "2026-08-02T12:40:25.971856+09:00",
+   "상승세 제동걸까 한화전 2일 ~KT 화이트 한화 수원"
   ]
  ],
- "last_run": "2026-08-02T12:38:35.108427+09:00",
+ "last_run": "2026-08-02T12:40:46.382563+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
