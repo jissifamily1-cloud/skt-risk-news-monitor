@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=573038&class=42",
-  "https://www.mk.co.kr/article/12113636",
-  "https://www.mk.co.kr/article/12113632",
-  "https://www.donga.com/news/Economy/article/all/20260731/134403044/1",
-  "https://www.mk.co.kr/article/12113640",
-  "http://www.4th.kr/news/articleView.html?idxno=2115637",
-  "https://www.mk.co.kr/article/12113633",
-  "https://www.ppss.kr/news/articleView.html?idxno=303947",
-  "https://www.mk.co.kr/article/12113660",
-  "http://www.00news.co.kr/news/articleView.html?idxno=105566",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167093",
   "https://www.thelec.kr/news/articleView.html?idxno=60414",
   "https://www.kmib.co.kr/article/view.asp?arcid=0030190378&code=61141111&cp=nv",
@@ -2999,19 +2989,19 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000210",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1328618",
   "https://www.mk.co.kr/article/12114581",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000170"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260802010000170",
+  "https://mhnse.com/news/articleView.html?idxno=1476972",
+  "https://mhnse.com/news/articleView.html?idxno=1476984",
+  "https://mhnse.com/news/articleView.html?idxno=1476968",
+  "https://mhnse.com/news/articleView.html?idxno=1476978",
+  "https://mhnse.com/news/articleView.html?idxno=1476966",
+  "https://mhnse.com/news/articleView.html?idxno=1476979",
+  "https://mhnse.com/news/articleView.html?idxno=1476980",
+  "https://mhnse.com/news/articleView.html?idxno=1476983",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3653354",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02542006645543384"
  ],
  "seen_titles": [
-  "코스피17.91%폭등...공매도몰린반도체·방산주까지동반강세",
-  "조선·정유쌍끌이…HD현대영업익262%늘어4조1246억",
-  "439%수익률의결말…AI헤지펀드SA,마진콜에무너지다",
-  "더똑똑해진토종AI'K-엑사원2.0'",
-  "박정원의'반도체비전'가속도…세계3위웨이퍼생산능력확보",
-  "‘297만명정보유출’롯데카드,1.5개월업무정지·과징금50억부과",
-  "'고객정보유출'롯데카드…금융위,영업정지1.5개월",
-  "SK,SK실트론지분70.6%두산에매각…최태원29.4%도팔까",
-  "최태원29.4%지분보유…가치1조육박",
-  "297만명정보유출롯데카드,45일업무정지...신규카드발급중단",
   "두산,SK실트론2.3조에품었다",
   "['클릭'증시]MS효과에KOSPI1000p껑충...강력한회복력",
   "씽킹머신랩,2주만에몸집70%줄인경량AI공개…성능은전작급",
@@ -6001,7 +5991,17 @@
   "SK㈜,실트론매각금액쓸곳은…재무건전성확보,AI시너지고려할듯",
   "개편후유증·화재겹친인천서해구'이중고'",
   "빅테크리더들과AI동맹맺고…원유·핵심광물공급망다변화",
-  "[여의대로]'반도체노출'줄이는게정부할일이다"
+  "[여의대로]'반도체노출'줄이는게정부할일이다",
+  "[mhn포토]이다연,아버지와뜨거운포옹",
+  "[mhn포토]이다연,오로라월드챔피언십우승",
+  "[mhn포토]이다연,이글로짜릿한역전우승",
+  "[mhn포토]이다연,오로라월드역전우승",
+  "[mhn포토]이다연,우승도와준캐디최희창과함께",
+  "[mhn포토]이다연,사랑하는어머니와뜨거운포옹",
+  "[mhn포토]이다연,역전우승인터뷰진행",
+  "[mhn포토]이다연,사랑하는부모님과함께",
+  "제주소상공인특별채무감면…취약계층원금최대90%낮춘다",
+  "독파모4강,글로벌개발자검증대올랐다"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,13 @@
   [
    "2026-08-02T17:48:18.438554+09:00",
    "줄이는 일이다 정부 노출 반도체"
+  ],
+  [
+   "2026-08-02T17:50:25.137313+09:00",
+   "글로벌 검증대 독파모 올랐다 개발자 4강"
   ]
  ],
- "last_run": "2026-08-02T17:48:40.837677+09:00",
+ "last_run": "2026-08-02T17:50:42.465854+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
