@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3653026",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3653027",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3653025",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3653023",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3653022",
-  "https://www.etoday.co.kr/news/view/2610019",
-  "https://www.segye.com/newsView/20260731509306?OutUrl=naver",
   "https://www.tokenpost.kr/news/market/383731",
   "http://www.fnnews.com/news/202607301823320800",
   "https://www.ikbc.co.kr/article/view/kbc202608020005",
@@ -2999,16 +2992,16 @@
   "http://www.economytalk.kr/news/articleView.html?idxno=423277",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005893199",
   "https://www.mt.co.kr/stock/2026/08/03/2026080316310292406",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16153715"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16153715",
+  "https://www.seoul.co.kr/news/publicnews/local_govern/2026/08/03/20260803500208?wlog_tag3=naver",
+  "https://view.asiae.co.kr/article/2026080316234345811",
+  "https://www.thelec.kr/news/articleView.html?idxno=60473",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41290",
+  "https://biz.sbs.co.kr/article_hub/20000326314?division=NAVER",
+  "https://www.busan.com/view/busan/view.php?code=2026080316374362501",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3131137"
  ],
  "seen_titles": [
-  "[산업HOT뉴스]LG,7500억개파라미터'K-엑사원2.0'전격공개…\"中...",
-  "‘5000명정보유출’모두의창업,보안강화…관리체계전면개편",
-  "KT온라인몰'다이렉트샵'으로리브랜딩",
-  "한화새외인울린한방,첫FA앞둔베테랑백업이해냈다…\"프로는찬...",
-  "NetBSD11.0공개,RISC-V아키텍처첫정식지원열었다",
-  "레블업,코스닥상장예심2개월만에통과",
-  "유명AI툴보안취약점확산....마이크로소프트코파일럿서도두건발...",
   "용인수지구,장애아동가족과'함께떠나휴'프로그램운영",
   "여름철취약계층지원,용인곳곳서꾸러미전달이어져",
   "용인시,8월부터자동차종합검사모바일안내서비스시행",
@@ -6001,13 +5994,16 @@
   "롯데카드,업무정지제재…기존고객어떻게되나",
   "[구민정의크립토포커스]디지털자산기본법재시동…'네카오'스테이블...",
   "\"최태원잔여지분도협상\"…'SK실트론인수'두산5%넘게올라",
-  "SK텔레콤주가,8월3일82,000원0.74%상승마감"
+  "SK텔레콤주가,8월3일82,000원0.74%상승마감",
+  "전남광주특별시기업도시에‘국가AI컴퓨팅센터’착공",
+  "[현장]2.4조'국가AI센터'착공…\"해남,대한민국AI심장이되다\"",
+  "맥스리니어,AI데이터압축가속기'팬서'공개...메모리병목잡는다",
+  "AI열풍에클라우드시장'폭풍성장'…2분기205조원,8년만에최고성...",
+  "[뉴욕증시전략]아마존급등에뉴욕증시상승…장기물국채수익률부담",
+  "역대급폭등했던코스피,5%대하락",
+  "서울시의황당한'5천원쿠폰'면피책...\"中학생해킹에털린462만명..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T10:40:27.975297+09:00",
-   "배포 논란 IPO 내년 TST 해명 토큰 거론 연기 바이낸스"
-  ],
   [
    "2026-08-03T10:42:24.997902+09:00",
    "우리투자증권 우리자산운용 소식 오늘의 우리금융"
@@ -6615,9 +6611,13 @@
   [
    "2026-08-03T16:38:38.941966+09:00",
    "마감 ~SKT 주가 8월 상승 3일 000원"
+  ],
+  [
+   "2026-08-03T16:40:28.462394+09:00",
+   "학생 쿠폰 462만 5천 서울시의 털린 황당한 해킹에 면피책"
   ]
  ],
- "last_run": "2026-08-03T16:38:57.706293+09:00",
+ "last_run": "2026-08-03T16:40:47.143665+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
