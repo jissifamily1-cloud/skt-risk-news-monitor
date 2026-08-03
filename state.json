@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260730_0003729956",
-  "https://www.etnews.com/20260730000283",
-  "https://kpenews.com/View.aspx?No=4168323",
-  "https://www.ajunews.com/view/20260730110559917",
-  "http://www.4th.kr/news/articleView.html?idxno=2115510",
-  "https://www.newsis.com/view/NISI20260730_0021382881",
-  "https://www.econovill.com/news/articleView.html?idxno=746665",
-  "https://www.econovill.com/news/articleView.html?idxno=746666",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000167.html",
   "https://www.econovill.com/news/articleView.html?idxno=746662",
   "https://www.econovill.com/news/articleView.html?idxno=746664",
@@ -2999,17 +2991,17 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3653748",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=205915",
   "https://www.etoday.co.kr/news/view/2610284",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83942"
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83942",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16153379",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3653752",
+  "https://www.koreajoongangdaily.com/korea/lee-returns-to-a-packed-agenda-after-sealing-950-billion-in-chip-deals-with-silicon-valley/12804145",
+  "https://www.news1.kr/finance/blockchain-fintech/6247010",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240747",
+  "https://www.sentv.co.kr/article/view/sentv202608030040",
+  "https://www.wikitree.co.kr/articles/1149987",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207887"
  ],
  "seen_titles": [
-  "개보위,KT에과징금540억원…불법기지국개인정보유출제재",
-  "SKT보다800억적은KT과징금…개보위\"유출규모·중대성달라\"",
-  "개보위,'안전조치의무위반'개인정보유출KT에과징금539억…악성코...",
-  "5년간1206억원투입결정한롯데카드,제재시250억손실추정",
-  "KT,과징금540억에소송검토예정…SKT이어행정소송수순",
-  "[뉴스줌인]KT과징금부과율0.9%…'매우중대한위반'피했다",
-  "KT,불법펨토셀내부망접속11개월간놓쳐..개보위,과징금540억명령",
-  "KT\"개보위처분무겁게받아들여\"…행정소송여부는'검토중'",
   "개보위,KT에과징금539억…11개월통신망뚫리고금전피해까지",
   "개보위,KT에540억원대과징금부과'추가제재가능성도'",
   "[개보위,그리고KT④]앞으로어떻게?",
@@ -6001,7 +5993,15 @@
   "체육부터제과·제빵까지…서귀포특수교육계절학교운영",
   "한화,'우주의조약돌'컨퍼런스개최…우주산업저변확대",
   "아크릴-퓨리오사AI,소버린AI시장공략맞손…‘K-AI풀스택’인프라...",
-  "하나투어,KTAI서비스연동…생성형AI여행상담채널확대"
+  "하나투어,KTAI서비스연동…생성형AI여행상담채널확대",
+  "KBO프로야구,2일경기결과→현재팀순위?",
+  "전남광주청년문화복지카드,31일까지신청…22개시군청년대상연25...",
+  "Leereturnstoapackedagendaaftersealing$950billioninchipdealsw",
+  "비트코인,6만3000달러선회복…트럼프이란협상재개에상승[코인브리...",
+  "KT,외국인대상인터넷할인프로그램운영…1년약정요금적용",
+  "KT,단기체류외국인인터넷요금할인…내년1월까지",
+  "오픈AI,콜센터AI‘프레즌스’로기존강자와정면충돌",
+  "우리금융그룹,국내금융권최초AI모의해킹솔루션도입…티오리'진..."
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,13 @@
   [
    "2026-08-03T09:52:23.572171+09:00",
    "서비스 채널 생성형 ~KT 상담 연동 확대 여행 하나투어"
+  ],
+  [
+   "2026-08-03T09:54:17.249774+09:00",
+   "콜센터 정면충돌 기존 강자와 프레즌스"
   ]
  ],
- "last_run": "2026-08-03T09:52:41.307196+09:00",
+ "last_run": "2026-08-03T09:54:35.098759+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
