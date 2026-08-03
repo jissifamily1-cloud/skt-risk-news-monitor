@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112850621",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/01/2026080190035.html",
-  "https://www.segye.com/newsView/20260801507044?OutUrl=naver",
-  "https://www.the-today.com/news/articleView.html?idxno=88040",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=85290",
-  "https://www.aitimes.com/news/articleView.html?idxno=213436",
-  "https://www.newspim.com/news/view/20260801000068",
-  "https://www.goodkyung.com/news/articleView.html?idxno=289836",
   "http://kor.theasian.asia/archives/411326",
   "https://www.gukjenews.com/news/articleView.html?idxno=3652356",
   "https://www.ddaily.co.kr/page/view/2026080112344526430",
@@ -2999,17 +2991,17 @@
   "https://www.tokenpost.kr/news/cryptocurrency/384105",
   "https://sports.khan.co.kr/article/202608031147003?pt=nv",
   "https://www.aitimes.com/news/articleView.html?idxno=213461",
-  "https://www.investchosun.com/site/data/html_dir/2026/08/03/2026080380066.html"
+  "https://www.investchosun.com/site/data/html_dir/2026/08/03/2026080380066.html",
+  "https://www.aitimes.com/news/articleView.html?idxno=213457",
+  "https://www.newsis.com/view/NISX20260731_0003731865",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689253",
+  "https://news.tf.co.kr/read/economy/2349890.htm",
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=318196",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5045046",
+  "https://www.newspim.com/news/view/20260803000664",
+  "https://zdnet.co.kr/view/?no=20260803114927"
  ],
  "seen_titles": [
-  "“수행평가,AI에물어보면답바로나와요”",
-  "저평가확신준최태원'14억'평가익,수석부회장오른김동관[재계-i...",
-  "비트코인,K자본시장심장부로대이동[홍익희의비트코인이야기]",
-  "[AI는지금]가짜폭격·난민사진쏟아지자…구글,'어스AI편집'긴급...",
-  "오픈AI,캄보디아사기계정차단…챗GPT악용대응했다",
-  "25세‘AI예언자’빚투가뒤흔든증시…하이닉스널뛰기주가에숨은...",
-  "KIA출신이적생맞대결,KT가웃었다…\"2위팀포수로서자부심있다\"[...",
-  "\"이강인보려고4만km?\"ATM이지구한바퀴도는진짜이유",
   "엔비디아시총1위탈환…4조8,600억달러규모",
   "엔비디아,나흘만에시가총액1위복귀…애플,공급제약우려에7%대...",
   "롯데카드45일업무정지…'3조몸값'멀어질라MBK전전긍긍",
@@ -6001,7 +5993,15 @@
   "알리바바Qwen,2.4조파라미터모델공개…가중치는다음주푼다",
   "최다니엘“삼전주식네개사.두달동안보지도않았다”(셀럽병사...",
   "\"읽어도무슨뜻인지몰라요\"...SKT,AI로문해력교육나선다",
-  "[Invest]언아웃으로실트론'저가논란'봉쇄한SK…최회장지분공방은..."
+  "[Invest]언아웃으로실트론'저가논란'봉쇄한SK…최회장지분공방은...",
+  "셀렉트스타,AI신뢰성기업최초코스닥기술성평가통과",
+  "아이폰빌려쓰는애플'리스',韓상륙한다면…보조금대란터진다?[폰...",
+  "한국정보공학,엔텔스와협력...타진DB공급",
+  "반도체실적사상최대…삼전·닉스가꺼낸'장기공급계약'",
+  "SKT,순천향대와'AI그림일기'로교육현장AX선도에미래인재육성까...",
+  "AI짝짓기'이통3파전'…정재헌'스타트업'·박윤영'전문가'·홍범식...",
+  "SK㈜,주당1500원중간배당…최태원194억원수령전망",
+  "KT,1년내외단기체류외국인도인터넷할인"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,17 @@
   [
    "2026-08-03T11:50:25.945279+09:00",
    "언아웃으로 실트론 지분 회장 봉쇄한 논란 SK 저가 공방은"
+  ],
+  [
+   "2026-08-03T11:52:16.881425+09:00",
+   "전문가 홍범식 이통 스타트업 짝짓기 박윤영 3파전"
+  ],
+  [
+   "2026-08-03T11:52:16.881425+09:00",
+   "사상 반도체 실적 꺼낸 삼전 닉스가 장기공급계약"
   ]
  ],
- "last_run": "2026-08-03T11:50:44.694673+09:00",
+ "last_run": "2026-08-03T11:52:37.595564+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
