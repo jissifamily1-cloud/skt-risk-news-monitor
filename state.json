@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=2026080109425837463084322ec9_1",
-  "https://www.xportsnews.com/article/2178976",
-  "https://www.kyeongin.com/article/1768263",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689054",
-  "http://www.economytalk.kr/news/articleView.html?idxno=423237",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=876741",
-  "https://www.sedaily.com/article/20074519",
-  "http://www.boannews.com/media/view.asp?idx=144931&kind=6",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008685531&plink=ORI&cooper=NAVER",
   "https://www.xportsnews.com/article/2178967",
   "https://www.newsis.com/view/NISX20260731_0003731577",
   "https://www.dailian.co.kr/news/view/1673312/?sc=Naver",
@@ -2999,18 +2990,18 @@
   "https://www.insnews.co.kr/news/articleView.html?idxno=92119",
   "https://www.techm.kr/news/articleView.html?idxno=153929",
   "https://www.newsway.co.kr/news/view?ud=2026080310473349317",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251516"
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251516",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1097661",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718828",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849166",
+  "https://www.yna.co.kr/view/AKR20260730156500017?input=1195m",
+  "http://www.lawissue.co.kr/view.php?ud=2026080311010414169817d053b9_12",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000054025",
+  "http://www.lawissue.co.kr/view.php?ud=2026080311032447579817d053b9_12",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313538",
+  "https://www.thepublic.kr/news/articleView.html?idxno=313525"
  ],
  "seen_titles": [
-  "챗GPT,이용자10억명달성…페이스북보다2년빨랐다",
-  "LG,국내최대AI공개…‘K-엑사원2.0’오픈소스출시",
-  "엔비디아,시총1위나흘만에탈환...애플,7%넘게폭락",
-  "“북한,맥OS겨냥악성코드유포중…157개가상자산및개인정보탈취...",
-  "코스피급반등이끈AI훈풍…삼성·SK일제히상한가",
-  "체급3배커진LGK-엑사원,中대표AI성능추월",
-  "“임금도원청교섭대상”…경기지방노동위서첫인정",
-  "오픈AIGPT,사내시험서또통제이탈…안전성조사확대",
-  "'2026KEL이터널리턴미드시즌컵',1일광주서개막…전반기최강팀가...",
   "[굿모닝위즈·95]역전이끈힐리어드의발",
   "AI에7650억달러쏟는빅테크,현금흐름급속냉각",
   "[종합]\"11번가,리얼마이즈,버터쉐이크,파스타소스,엑소좀,픽스녹음기\"...",
@@ -6001,7 +5992,16 @@
   "금융보안원,'금융회사침투테스트수행기준'마련…실제공격대응력...",
   "'영유아부터취업준비생까지'...삼성·SK,AI시대교육새판짜기지원",
   "실적부진엔책임,저평가엔자신감…노태문·최태원의자사주승부수",
-  "수수료에뿔난시민단체·게임업계,\"구글사건,빨리결론내라\""
+  "수수료에뿔난시민단체·게임업계,\"구글사건,빨리결론내라\"",
+  "남양유업백미당,여름할인프로모션전개…수요일아이스크림할인",
+  "'20Gbps'광고위법…이통3사,대법원·과징금재산정분수령",
+  "[#게임스테이션]KT'LCK레전드그룹선두합류'·카겜'아키에이지S공...",
+  "[테크톡노트]AI네이티브시대…'AI를붙이는'것만으론부족하다",
+  "SKT·순천향대,'AI그림일기'로학생문해력지원",
+  "SK텔레콤,통신3사중올해가입자'순증1위'",
+  "KT,외국인고객인터넷할인프로그램운영",
+  "외국인고객잡아라…KT,단기체류자겨냥인터넷할인",
+  "국내이어미국서도레버리지손실…서학개미,테슬라·엔비디아하락에..."
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,21 @@
   [
    "2026-08-03T11:04:16.951174+09:00",
    "구글 수수료에 게임업계 결론 빨리 내라 사건 시민단체"
+  ],
+  [
+   "2026-08-03T11:06:15.647593+09:00",
+   "순증 통신 1위 가입자 3사 ~SKT 올해"
+  ],
+  [
+   "2026-08-03T11:06:15.647593+09:00",
+   "대법원 위법 이통3사 재산정 과징금 분수령 광고 20Gbps"
+  ],
+  [
+   "2026-08-03T11:06:15.647593+09:00",
+   "이어 미국서도 테슬라 하락에 국내 손실 레버리지 서학개미"
   ]
  ],
- "last_run": "2026-08-03T11:04:39.857389+09:00",
+ "last_run": "2026-08-03T11:06:42.278469+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
