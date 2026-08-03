@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260803041600017?input=1195m",
-  "http://www.breaknews.com/1226127",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573566058569",
-  "https://www.mk.co.kr/article/12114884",
-  "https://www.kbmaeil.com/article/20260803500092",
-  "https://biz.heraldcorp.com/article/10828666",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=205914",
-  "https://www.newsis.com/view/NISX20260803_0003733656",
   "https://www.seoultimes.news/news/article.html?no=2000098406",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133823",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428255",
@@ -2999,17 +2991,17 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1392324",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02952006645544040",
   "http://www.newsprime.co.kr/news/article.html?no=742542",
-  "http://www.fnnews.com/news/202608040733414085"
+  "http://www.fnnews.com/news/202608040733414085",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718981",
+  "https://www.g-enews.com/view.php?ud=202608040808091597fbbec65dfb_1",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047551",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265291",
+  "https://www.mk.co.kr/article/12115928",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02968406645544040",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02961846645544040",
+  "https://www.ajunews.com/view/20260729141535180"
  ],
  "seen_titles": [
-  "'2.3조'실트론딜승자는?\"알짜샀다\"두산2%대강세·SK는5%대급락",
-  "\"전기먹는하마AI데이터센터잡아라\"…자이C&A,10년냉각기술로시...",
-  "SKT,순천향대와AI교육확대…'AI그림일기'로문해력키운다",
-  "[테크스냅]SKT,AI그림일기로학생문해력키운다",
-  "KT,공식온라인몰‘KT다이렉트샵’으로전면리브랜딩",
-  "KT,광화문서'KT스포츠팝업전시'운영",
-  "[세계지식포럼연사]사막11㎞→212㎞…발상의전환으로웨이모를만든...",
-  "‘사상최대폭등’하루만에급락…코스피5%대밀리고삼전·하이닉...",
   "‘또도망가는외인’삼전닉스8%대급락…코스피,하루만에내림세로...",
   "SK텔레콤,순천향대디지털새싹에'AI그림일기'적용…교육현장AX확...",
   "멜론·유튜브라이트결합상품,T우주서출시…최대20%저렴",
@@ -6001,7 +5993,15 @@
   "지니언스,상반기영업익294%↑…NAC·EDR성장",
   "오픈AI·컴투스,서울서세계첫‘코덱스’게임해커톤연다",
   "[이윤선의인력경영]1375조원반도체협력,이제는AI인재공급망을설...",
-  "앤트로픽클로드도무단해킹했다...AI공포확산[글로벌AI브리핑]"
+  "앤트로픽클로드도무단해킹했다...AI공포확산[글로벌AI브리핑]",
+  "[Tech&Now]삼성전자,아마존프라임비디오에'HDR10+어드밴스드'기...",
+  "골드만삭스\"AI인프라투자,하이퍼스케일러넘어정부·기업으로확산...",
+  "[뉴욕증시]미·이란협상기대속기술주강세…나스닥2%↑",
+  "SKT,폴더블흥행에가입자순증까지…하반기통신경쟁불붙는다",
+  "상법개정에‘배당대박’…‘개인배당금1위’상반기만728억받아,...",
+  "KT,갤럭시Z폴드8·울트라·플립8사전개통시작…예약절반이상'폴...",
+  "신세계I&C,KT와프라이빗·하이브리드클라우드협력",
+  "[김한정칼럼]반도체가민주주의를보장하지않는다"
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,17 @@
   [
    "2026-08-04T08:40:33.180240+09:00",
    "서울서 해커톤 연다 세계 게임 코덱스 컴투스"
+  ],
+  [
+   "2026-08-04T08:42:25.080471+09:00",
+   "불붙는다 ~SKT 순증까지 폴더블 경쟁 흥행에 하반기 가입자 통신"
+  ],
+  [
+   "2026-08-04T08:42:25.080471+09:00",
+   "보장하지 않는다 반도체가 민주주의를"
   ]
  ],
- "last_run": "2026-08-04T08:40:56.281288+09:00",
+ "last_run": "2026-08-04T08:42:45.496377+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
