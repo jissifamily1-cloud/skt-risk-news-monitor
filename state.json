@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=83942",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16153379",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3653752",
-  "https://www.koreajoongangdaily.com/korea/lee-returns-to-a-packed-agenda-after-sealing-950-billion-in-chip-deals-with-silicon-valley/12804145",
-  "https://www.news1.kr/finance/blockchain-fintech/6247010",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240747",
-  "https://www.sentv.co.kr/article/view/sentv202608030040",
-  "https://www.wikitree.co.kr/articles/1149987",
   "https://www.dailysecu.com/news/articleView.html?idxno=207887",
   "https://www.gukjenews.com/news/articleView.html?idxno=3653756",
   "https://www.gukjenews.com/news/articleView.html?idxno=3653758",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20260804_0003735161",
   "https://www.seoultimes.news/news/article.html?no=2000098445",
   "http://www.lawissue.co.kr/view.php?ud=2026080408480885189817d053b9_12",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1392347"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1392347",
+  "https://www.mydaily.co.kr/page/view/2026080408513339059",
+  "https://www.ajunews.com/view/20260804084208428",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03083206645544040",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474096",
+  "http://www.lawissue.co.kr/view.php?ud=2026080408492644709817d053b9_12",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=306958",
+  "https://news.tf.co.kr/read/economy/2349152.htm",
+  "https://www.newsis.com/view/NISX20260804_0003735165"
  ],
  "seen_titles": [
-  "프로야구KT,6연승단독선두질주…2위삼성과1게임차",
-  "[기자수첩]사전예약을사전예약?..갤럭시Z8로살펴본마케팅과열",
-  "체육부터제과·제빵까지…서귀포특수교육계절학교운영",
-  "한화,'우주의조약돌'컨퍼런스개최…우주산업저변확대",
-  "아크릴-퓨리오사AI,소버린AI시장공략맞손…‘K-AI풀스택’인프라...",
-  "하나투어,KTAI서비스연동…생성형AI여행상담채널확대",
-  "KBO프로야구,2일경기결과→현재팀순위?",
-  "전남광주청년문화복지카드,31일까지신청…22개시군청년대상연25...",
   "Leereturnstoapackedagendaaftersealing$950billioninchipdealsw",
   "비트코인,6만3000달러선회복…트럼프이란협상재개에상승[코인브리...",
   "KT,외국인대상인터넷할인프로그램운영…1년약정요금적용",
@@ -6001,7 +5993,15 @@
   "지니언스,상반기영업익43억…AI보안수요에전년比294%↑",
   "[뉴스앤데이터]삼성전자이재용상반기배당금728억원1위...정몽구...",
   "삼성자산운용,ARM·AMD·인텔집중투자CPU반도체ETF출시",
-  "KT,연세의료원과의료AI혁신·미래경쟁력확보협력"
+  "KT,연세의료원과의료AI혁신·미래경쟁력확보협력",
+  "통신3사,갤럭시Z8사전개통…‘폴드8’예약절반넘어",
+  "갤럭시Z8사전개통시작…통신3사\"폴드8이대세\"",
+  "엘리스그룹,B300최적화모듈형AI데이터센터구축",
+  "SKT,갤럭시Z폴드8·플립8사전예약개통시작...넷플릭스연계혜택...",
+  "LG유플러스,갤럭시Z폴드8·플립8판매개시",
+  "오픈AI,8월31일'오픈AI게임빌더스서울'개최",
+  "우리자산운용미국단기채공모주펀드,순자산5000억돌파",
+  "KT·연세의료원,의료데이터고도화맞손…AI활용기반다진다"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,21 @@
   [
    "2026-08-04T08:52:18.330481+09:00",
    "삼성자산운용 출시 ARM 인텔 ETF 집중 CPU AMD 반도체 투자"
+  ],
+  [
+   "2026-08-04T08:54:17.047297+09:00",
+   "연세의료원 ~KT 활용 데이터 다진다 의료 맞손 고도화 기반"
+  ],
+  [
+   "2026-08-04T08:54:17.047297+09:00",
+   "펀드 미국 단기채 돌파 공모주 순자산 5000억 우리자산운용"
+  ],
+  [
+   "2026-08-04T08:54:17.047297+09:00",
+   "31일 개최 8월 빌더스 서울 게임"
   ]
  ],
- "last_run": "2026-08-04T08:52:43.849108+09:00",
+ "last_run": "2026-08-04T08:54:42.931370+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
