@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstown.co.kr/news/articleView.html?idxno=711026",
-  "https://www.newspim.com/news/view/20260801000119",
-  "https://www.dt.co.kr/article/12075941",
-  "https://bizhankook.com/articles/doosan-sk-siltron-acquisition-2-3-trillion.html",
-  "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1778603",
   "https://www.mt.co.kr/world/2026/08/01/2026080114304581002",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/01/2026080190067.html",
   "https://www.etnews.com/20260731000280",
@@ -2999,14 +2994,14 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260803120524rb1",
   "https://www.econovill.com/news/articleView.html?idxno=746535",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03211126645543712",
-  "https://www.ikbc.co.kr/article/view/kbc202608030023"
+  "https://www.ikbc.co.kr/article/view/kbc202608030023",
+  "https://www.aitimes.com/news/articleView.html?idxno=213467",
+  "https://www.news1.kr/industry/auto-industry/6247243",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268915",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260803120822Bqn",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432070"
  ],
  "seen_titles": [
-  "LG,국내최대AI공개…글로벌빅테크와맞붙는다",
-  "콜드카드취약점노출…비트코인1000개넘게41분만에털렸다",
-  "'고작49억'아니었다…SK하이닉스에담긴'최태원책임경영'셈법",
-  "AI인프라투자확대올라탄씨이랩…GPU효율화기술에시장주목",
-  "롯데날벼락!'병원에선괜찮다고했는데…'김진욱또또햄스트링전조...",
   "청와대\"대통령,국제사회에'글로벌AI중심국가'비전제시\"",
   "오픈AI'챗GPT',이용자10억명돌파…'가성비'승부수통했나",
   "오픈AI80%가격인하,AI생태계주도권싸움",
@@ -6001,7 +5996,12 @@
   "코스피,폭등후다시하락…코스닥은매수사이드카",
   "[IT큐레이션]작은회사직원,다른직무는AI로처리한다",
   "“샌드박스탈출한AI,규제공백드러냈다…경실련“프론티어AI안전...",
-  "[속보]李대통령,5개국7박11일순방마치고귀국"
+  "[속보]李대통령,5개국7박11일순방마치고귀국",
+  "챗GPT로3주만에취약점50개적발…애플,AI시대버그바운티'과부하...",
+  "[단독]지구한바퀴돈정의선회장,귀국후첫현장은'이곳'왜?",
+  "SKT,'따뜻한AI'실현…자체개발설루션으로교육소외계층참여확대",
+  "이대통령,5개국순방마치고귀국…부동산·증시회의",
+  "'6연승'KT,선두굳히기시동…KIA·롯데넘어창단첫10연승도전"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-08-03T12:08:16.982600+09:00",
    "프론티어 샌드박스 드러냈다 규제 안전 공백 경실련 탈출한"
+  ],
+  [
+   "2026-08-03T12:10:26.103259+09:00",
+   "선두 시동 창단 KIA ~KT 10연승 도전 롯데 6연승 넘어 굳히기"
   ]
  ],
- "last_run": "2026-08-03T12:08:37.606828+09:00",
+ "last_run": "2026-08-03T12:10:51.285333+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
