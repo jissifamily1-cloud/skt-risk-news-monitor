@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2178982",
-  "https://www.aitimes.com/news/articleView.html?idxno=213429",
-  "https://www.busan.com/view/busan/view.php?code=2026073013595694397",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89317",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250405",
-  "https://www.aitimes.com/news/articleView.html?idxno=213309",
-  "http://www.economytalk.kr/news/articleView.html?idxno=423239",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=832151",
   "http://www.newsprime.co.kr/news/article.html?no=742338",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128523",
@@ -2999,16 +2992,16 @@
   "https://www.g-enews.com/view.php?ud=2026080310292482398fbfc802b3_1",
   "https://www.news2day.co.kr/article/20260803500108",
   "http://www.segyebiz.com/newsView/20260731510668?OutUrl=naver",
-  "https://biz.heraldcorp.com/article/10828916"
+  "https://biz.heraldcorp.com/article/10828916",
+  "https://www.eroun.net/news/articleView.html?idxno=86829",
+  "https://www.ddaily.co.kr/page/view/2026080310452718627",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702147",
+  "http://www.ddanzi.com/890882155",
+  "http://www.ddanzi.com/890876897",
+  "http://www.metroseoul.co.kr/article/20260803500168",
+  "https://www.bloter.net/news/articleView.html?idxno=669823"
  ],
  "seen_titles": [
-  "SK㈜,싱가포르브릿지데이터센터인수검토…글로벌AI인프라확대'...",
-  "마진콜에무너진‘AI투자스타’…시타델,160억달러인수",
-  "‘AI전기세’가온다…청구서는누구몫인가[페트로-일렉트로]",
-  "하이퍼스케일러주가급등,반도체주는약세",
-  "[컬처슬로건탐방기]베슬AI흩어진GPU처럼,흩어진생각도잇는다",
-  "[속담으로배우는100가지보안습관79]등잔밑이어둡다(9)-IoT기기기...",
-  "비트코인,양자컴퓨터해법나오면10%급등?…30%‘공포할인’해소...",
   "\"박해민못지않아\"…한화와류현진,홈런아닌이선수'발'에무너졌다...",
   "'딥시크-V4-플래시-0731'API출시...\"사후학습으로에이전트성능대폭...",
   "삼성SDS2분기영업익2318억…클라우드·AI동반성장",
@@ -6001,7 +5994,14 @@
   "\"성남시민무료제주여행?\"...알고보니눈뜨고당하는'AI미끼상술'",
   "보험업계,비대면보안'고삐'…삼성생명,업계최초금융결제원페이스...",
   "포케올데이,SKTT멤버십고객대상Tday할인이벤트진행",
-  "반도체슈퍼사이클은언제까지갈것인가?[조원경의경제·산업답사..."
+  "반도체슈퍼사이클은언제까지갈것인가?[조원경의경제·산업답사...",
+  "[분석]코스피4%대급락,6300선까지밀려…삼성전자·SK하이닉스동반...",
+  "하나투어,주요채널에H-AI연동박차…여행에이전트실용화",
+  "우리은행,갤럭시자급제전용요금제출시···24개월간최대60만원혜...",
+  "[뉴공아카이브]박시동경제평론가·12시에만나요진행자,이광수광수...",
+  "[뉴공아카이브]겸손NSC:미셸스틸美대사부임…쿠팡·대미투자등...",
+  "KT,고객체험전시'KT스포츠팝업'운영",
+  "네이버AI팩토리,엔비디아·브룩필드맞손…GPU확보·재무부담분산"
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,13 @@
   [
    "2026-08-03T11:10:30.287012+09:00",
    "답사 것인가 경제 사이클은 반도체 조원경의 산업 언제까지 슈퍼"
+  ],
+  [
+   "2026-08-03T11:12:22.833159+09:00",
+   "12시에 경제평론가 박시동 만나요 진행자 광수 이광수"
   ]
  ],
- "last_run": "2026-08-03T11:10:54.438653+09:00",
+ "last_run": "2026-08-03T11:12:43.368190+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
