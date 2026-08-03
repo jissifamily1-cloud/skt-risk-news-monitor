@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=213427",
-  "https://www.hankookilbo.com/news/article/A2026073014430000422?did=NA",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689030",
-  "https://www.etnews.com/20260801000038",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689031",
-  "http://kor.theasian.asia/archives/411320",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608010355&t=NN",
   "https://www.mydaily.co.kr/page/view/2026073122215776344",
   "https://www.munhwa.com/article/11606503",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473781",
   "https://www.gukjenews.com/news/articleView.html?idxno=3653864",
   "https://www.mydaily.co.kr/page/view/2026080309211655859",
-  "https://www.g-enews.com/view.php?ud=202607252218095193906806b77b_1"
+  "https://www.g-enews.com/view.php?ud=202607252218095193906806b77b_1",
+  "https://www.newsis.com/view/NISX20260803_0003733888",
+  "https://www.inthenews.co.kr/news/article.html?no=90070",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3653855",
+  "https://www.tokenpost.kr/news/cryptocurrency/383475",
+  "https://www.businessplus.kr/news/articleView.html?idxno=114975",
+  "https://www.tokenpost.kr/news/blockchain/384074"
  ],
  "seen_titles": [
-  "“신영우는언제미국갈수있나요?”MLB스카우트까지사로잡은절륜...",
-  "“(이)우성이좀많이예뻐해주세요”삼성타격장인이영원히간직할...",
-  "미니맥스H3,영상편집세계1위모델가중치전면공개",
-  "'뉴욕증시'아마존'어닝서프라이즈'에상승…나스닥1%↑",
-  "위고비,마운자로...비만치료제가격,곧있으면이정도대폭락?",
-  "중국AI기업,우회조달과초저가로미국추격",
   "뉴욕증시,아마존실적훈풍에나스닥1%↑…엔비디아시총1위탈환[투...",
   "오픈AI,워싱턴서차세대모델'아스트라'시연…\"에이전트패러다임전...",
   "李대통령‘샌프란AI선언’,韓美中‘글로벌3각구도’막올렸다[...",
@@ -6001,7 +5995,13 @@
   "자이C&A,10년전부터데이터센터에너지효율기술축적…AI시대경쟁...",
   "울주군,진하해수욕장청소년유해환경합동점검…편의점·음식점단속",
   "알뜰폰250억지원풀지만…가입자체감‘월200원’",
-  "[김대호진단]반도체열전(22)엔스로픽...인공지능AI남매의반란"
+  "[김대호진단]반도체열전(22)엔스로픽...인공지능AI남매의반란",
+  "개인정보유출피해집단조정,6년간'3전3패'",
+  "자이C&A,PUE1.4설계경험으로AI데이터센터경쟁력강화",
+  "문정우금산군수,취임읍,면초도방문성료.",
+  "아이렌,AI클라우드계약28억달러돌파…마이크로소프트·엔비디아...",
+  "[잘먹잘살+]쿠팡이츠·KT&G·LG생건·이랜드오찌·배민·바디프랜드·놀...",
+  "아르헨티나기자엑스계정해킹…폴리마켓사칭가짜토큰떴다"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,17 @@
   [
    "2026-08-03T10:48:16.533690+09:00",
    "최태원은 팔고 셈법 남겼다 SK는"
+  ],
+  [
+   "2026-08-03T10:52:16.907108+09:00",
+   "바디프랜드 쿠팡이츠 ~KT 이랜드 오찌 LG생건 배민"
+  ],
+  [
+   "2026-08-03T10:52:16.907108+09:00",
+   "엑스 토큰 계정 가짜 폴리마켓 떴다 사칭 아르헨티나"
   ]
  ],
- "last_run": "2026-08-03T10:50:53.195935+09:00",
+ "last_run": "2026-08-03T10:52:38.462666+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
