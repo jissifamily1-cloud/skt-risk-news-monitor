@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112851042",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8626320",
-  "https://isplus.com/article/view/isp202608020075",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01863046645543384",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01856486645543384",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01866326645543384",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01849926645543384",
@@ -2999,13 +2995,13 @@
   "http://www.newsworker.co.kr/news/articleView.html?idxno=439567",
   "http://www.finomy.com/news/articleView.html?idxno=258511",
   "https://www.tokenpost.kr/news/cryptocurrency/384254",
-  "https://www.hankyung.com/article/2026080324311"
+  "https://www.hankyung.com/article/2026080324311",
+  "https://www.newstnt.com/news/articleView.html?idxno=712655",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3654551",
+  "https://biz.heraldcorp.com/article/10829338",
+  "https://www.sentv.co.kr/article/view/sentv202608030072"
  ],
  "seen_titles": [
-  "中문샷,알리바바와'엔비디아칩2만장'사용계약…美반도체우회확...",
-  "바닥찍고급반등한코스피,7000선복귀시동거나[주간증시전망]",
-  "[포토]김재희,생일축하합니다",
-  "피싱전화,폭탄전화로대응...대포폰에2초마다전화걸어불법영업...",
   "\"의료AI믿어도될까\"…최신모델서드러난치명적한계",
   "[7박11일순방결산]AI연대·핵심광물·신시장…경제질서요동속활...",
   "[LCK]'루시드'최용혁\"씨맥감독덕에방향성잡고우상향...T1·KT전설...",
@@ -6001,7 +5997,11 @@
   "전남광주통합특별시,'국가AI컴퓨팅센터'첫삽...대한민국AI경쟁력...",
   "'반도체호황'속SK실트론매각⋯SK실탄확보'속도'",
   "월지암면,홍콩IPO·30억달러조달설부인",
-  "상수도망뚫린美…이란해킹가능성"
+  "상수도망뚫린美…이란해킹가능성",
+  "[코스피]현대퓨처넷·DL이앤씨·TBH글로벌등46개사,8월4일자사주매...",
+  "2027논산세계딸기산업엑스포민간위원장...하나금융그룹함영주회장위...",
+  "‘주식부자’에안빠졌던이름들,어디갔어?…국내부자순위급변동...",
+  "두산,2.3조승부수…웨이퍼품고‘반도체공룡’도약"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-08-03T18:40:26.774686+09:00",
    "뚫린 이란 상수도망 가능성"
+  ],
+  [
+   "2026-08-03T18:42:26.873168+09:00",
+   "국내 급변동 순위 어디 빠졌던 갔어 부자 이름들 주식부자"
+  ],
+  [
+   "2026-08-03T18:42:26.873168+09:00",
+   "도약 웨이퍼 품고 3조 승부수 반도체 공룡 두산"
   ]
  ],
- "last_run": "2026-08-03T18:40:48.510957+09:00",
+ "last_run": "2026-08-03T18:42:48.348720+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
