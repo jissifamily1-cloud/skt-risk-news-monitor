@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260730000797",
-  "https://www.munhwa.com/article/11606132",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317705",
-  "https://biz.sbs.co.kr/article_hub/20000325607?division=NAVER",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=848852",
-  "https://biz.heraldcorp.com/article/10825594",
-  "https://biz.heraldcorp.com/article/10825585",
-  "https://www.segye.com/newsView/20260730508209?OutUrl=naver",
   "https://www.sedaily.com/article/20074449",
   "https://imnews.imbc.com/replay/2026/nw2500/article/6841636_36989.html",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=849075",
@@ -2999,17 +2991,17 @@
   "http://www.thebigdata.co.kr/view.php?ud=2026080309483628630ecbf9426b_23",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02653526645543712",
   "http://www.econonews.co.kr/news/articleView.html?idxno=442243",
-  "https://www.yna.co.kr/view/AKR20260803048000002?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260803048000002?input=1195m",
+  "https://www.kmecnews.co.kr/news/articleView.html?idxno=51114",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3653763",
+  "https://www.kbmaeil.com/article/20260803500099",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3653769",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849121",
+  "https://www.tokenpost.kr/news/blockchain/384046",
+  "https://biz.chosun.com/it-science/ict/2026/08/03/SAKH4Y7QURBVBAV3PHWMD4OJ5M/",
+  "https://www.news1.kr/it-science/cc-newmedia/6247015"
  ],
  "seen_titles": [
-  "[일문일답]개보위\"KT유출,중대한위반…피해보상·시정조치고려\"",
-  "같은이동통신매출기준인데…KT과징금왜달랐나",
-  "'정보유출·소액결제피해'KT에과징금540억원...\"'펨토셀해킹'관리...",
-  "KT,개인정보유출540억과징금…개보위,'거짓자료제출'로KT고발",
-  "개보위,KT고발조치...로그삭제·거짓진술도드러나",
-  "‘개인정보유출·무단결제’KT에과징금540억",
-  "KT,'개인정보유출-소액결제'사태로540억과징금",
-  "펨토셀개인정보유출KT에과징금539억부과",
   "KT과징금540억어떻게나왔나?…\"실제피해발생,안전조치의무위반...",
   "KT개인정보유출과징금540억부과",
   "“과징금폭탄,남의일아냐”기업들‘초긴장’",
@@ -6001,7 +5993,15 @@
   "한화,'우주의조약돌'컨퍼런스개최…\"우주산업미래비전공유\"",
   "아크릴,퓨리오사AI와'한국형AI풀스택'구축나선다",
   "미국중국산로봇규제에로봇주강세…티엑스알로보틱스상한가",
-  "금융보안원,금융분야모의해킹수행가이드라인발간"
+  "금융보안원,금융분야모의해킹수행가이드라인발간",
+  "자이C&A,AI데이터센터시대겨냥…10년전부터에너지효율기술축적",
+  "제주여고셔틀콕전국서빛났다…복식준우승·단식3위",
+  "의성경찰서,율정호체험하며인권·청렴·의무위반예방다짐",
+  "영남이공대학생51명,중국서하계해외연수...관광·재활의학현장체...",
+  "LG전자,관리솔루션앞세워글로벌B2B세탁가전사업속도",
+  "콜드카드7000만달러유출…창펑자오\"분산보관해야\"",
+  "멜론,T우주서유튜브프리미엄라이트결합상품출시",
+  "갤폴드8앞두고7월번호이동숨고르기…SKT·LGU+순증"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,13 @@
   [
    "2026-08-03T09:58:23.285225+09:00",
    "가이드라인 수행 모의해킹 금융보안원 금융분야 발간"
+  ],
+  [
+   "2026-08-03T10:00:37.416516+09:00",
+   "앞두고 LGU 고르기 ~LGU 번호이동 순증 갤폴드8 7월 ~SKT"
   ]
  ],
- "last_run": "2026-08-03T09:58:40.942080+09:00",
+ "last_run": "2026-08-03T10:00:59.071476+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
