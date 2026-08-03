@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Society/article/all/20260730/134390647/2",
-  "https://www.ngonews.kr/news/articleView.html?idxno=234108",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=313585",
-  "http://www.journalist.or.kr/news/article.html?no=61358",
-  "https://www.ddaily.co.kr/page/view/2026072917394970361",
-  "https://www.hankookilbo.com/news/article/A2026072916310001297?did=NA",
   "http://www.newstomato.com/ReadNews.aspx?no=1308669&inflow=N",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336092",
   "https://www.news1.kr/it-science/cc-newmedia/6243185",
@@ -2999,15 +2993,15 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047222",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03735926645543712",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03224246645543056",
-  "https://news.mtn.co.kr/news-detail/2026080315052827826"
+  "https://news.mtn.co.kr/news-detail/2026080315052827826",
+  "https://www.bloter.net/news/articleView.html?idxno=669787",
+  "https://www.safetynews.co.kr/news/articleView.html?idxno=249844",
+  "http://www.metroseoul.co.kr/article/20260803500434",
+  "https://www.jjan.kr/article/20260803500298",
+  "https://www.newsis.com/view/NISX20260803_0003734509",
+  "https://zdnet.co.kr/view/?no=20260803150150"
  ],
  "seen_titles": [
-  "[오늘의주요일정·30일]행안부수상안전관계기관대책회의",
-  "삼성전자‘갤럭시Z8시리즈’사전예약시작…8월3일까지",
-  "불법성범죄사이트3만여곳제재…8월통합대응방안발표",
-  "디지털성범죄실무협의회개최…'불법사이트'대응논의",
-  "11명남은공영방송이사선임…방미통위'자동임명'후폭풍우려",
-  "[열린송현]청소년SNS이용,차단아닌‘핀셋규제’로",
   "[오늘의주요일정]과기정통부·방미통위·개보위(7월30일목요일)",
   "AI로숏폼뚝딱…“키즈크리에이터도전”",
   "오태규의혹,이대로넘어갈일아니다",
@@ -6001,7 +5995,13 @@
   "광화문에'KT스포츠'팝업운영…야구·농구·e스포츠한눈에",
   "LG엑사원,신약개발모델고도화...엔젠바이오·디앤디파마텍과사업...",
   "보안사고발생,기술부서만대응해선안되는이유",
-  "AI외교마친李대통령,귀국하자마자'부동산·증시'부터챙긴다"
+  "AI외교마친李대통령,귀국하자마자'부동산·증시'부터챙긴다",
+  "\"2027년조기가동\"…해남서닻올린2.5조'국가AI센터'[현장+]",
+  "오세훈\"폭염에맞서비상한각오로시민안전·건강지킬것\"",
+  "네이버,1조원자사주소각…AI인프라기업전환속도",
+  "김민석민주당당대표후보,3일전주서표심공략",
+  "부산문화재단,대마도서조선통신사행렬재현…국서교환",
+  "엔비디아'지포스RTX50'그래픽카드,이달부터최대30%가격인상"
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,21 @@
   [
    "2026-08-03T15:44:24.332509+09:00",
    "잡은 지휘봉 90억불 GPU 팩토리 쏜다 엔비디아가 대고 브룩필드가"
+  ],
+  [
+   "2026-08-03T15:50:25.930587+09:00",
+   "전주서 후보 표심 3일 김민석 민주당 공략 당대표"
+  ],
+  [
+   "2026-08-03T15:50:25.930587+09:00",
+   "국서교환 조선통신사 부산문화재단 행렬재현 대마도서"
+  ],
+  [
+   "2026-08-03T15:50:25.930587+09:00",
+   "이달부터 RTX 그래픽카드 가격 지포스 인상"
   ]
  ],
- "last_run": "2026-08-03T15:48:34.003452+09:00",
+ "last_run": "2026-08-03T15:50:54.976440+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
