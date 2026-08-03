@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.lecturernews.com/news/articleView.html?idxno=207188",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80255",
-  "https://www.munhwa.com/article/11606511",
-  "https://www.sidae.com/article/2026072914364921823",
-  "https://www.lecturernews.com/news/articleView.html?idxno=206669",
-  "https://www.lecturernews.com/news/articleView.html?idxno=206778",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473430",
-  "https://view.asiae.co.kr/article/2026072913460834861",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02118886645543056",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92782",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3070962",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80256",
   "https://view.asiae.co.kr/article/2026080110273668162",
   "http://www.fnnews.com/news/202608011020259963",
@@ -2999,20 +2988,20 @@
   "https://www.mediawatch.kr/news/article.html?no=260541",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725516",
   "https://www.news1.kr/finance/general-stock/6247132",
-  "https://biz.heraldcorp.com/article/10828936"
+  "https://biz.heraldcorp.com/article/10828936",
+  "https://www.newsis.com/view/NISX20260803_0003733904",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3653936",
+  "https://news.bizwatch.co.kr/article/real_estate/2026/08/03/0004",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473801",
+  "https://www.busan.com/view/busan/view.php?code=2026073013595694397",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89317",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250405",
+  "https://www.aitimes.com/news/articleView.html?idxno=213309",
+  "https://www.tokenpost.kr/news/economy/384088",
+  "https://www.hani.co.kr/arti/economy/it/1271115.html",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=306931"
  ],
  "seen_titles": [
-  "[투데이증시]\"AI거품론꺼졌나\"...엔비디아시총1위복귀",
-  "[야구]kt,류현진상대4연승휘파람…후반기10승1패1무",
-  "‘이럴수가’4주동안연승이없다…‘7월최하위’LG,상위권과5강...",
-  "아마존'깜짝실적'에뉴욕증시상승…AI투자우려완화",
-  "개인정보유출반복되는데처방은과징금뿐인가[취재진담]",
-  "2분기웃은삼성SDS·LGCNS,하반기더달린다",
-  "[2026드론제품&솔루션리포트]드론,영상보안과만나세상(世上)을...",
-  "SBS드라마'보물섬'\"인생풀베팅복수전!박형식·허준호·이해영·홍...",
-  "SK,두산에SK실트론매각…지분70.6%2.3조에매각",
-  "엔비디아,시가총액1위탈환…‘AI투자심리’회복",
-  "\"AI혁명골든타임\"…민관합동AI데이터센터얼라이언스첫발",
   "KBS2드라마'결혼의완성'\"아내를구하라!남궁민·이설·김대명·이상...",
   "ENA드라마'그대에게드림'\"다시쓰는꿈과사랑!황인엽·이혜리·백...",
   "[7월종합]코스피한달−22.19%,IMF·금융위기이후최악…100대기업...",
@@ -6001,7 +5990,18 @@
   "SK㈜,중간배당1500원확정…9년연속주주환원강화",
   "[핫스톡현미경]두산,SK실트론품고체질개선…증권가\"새성장축확...",
   "두산,SK실트론인수증권가긍정평가…4%상승[핫종목]",
-  "AI랠리가개인주식부호순위바꿨다"
+  "AI랠리가개인주식부호순위바꿨다",
+  "'삼성20%환급막차'탄소비자들…지난달번호이동64만명",
+  "대전시설관리공단,신입직원19명임용…시민안전·공공서비스강화",
+  "삼성물산,﻿돌봄형실버타운시장진출본격화",
+  "한화,'우주의조약돌컨퍼런스'개최...'한국판스페이스X'도전",
+  "삼성SDS2분기영업익2318억…클라우드·AI동반성장",
+  "삼성SDS,2분기영업익2318억…전년比0.7%↑",
+  "중국산AI,가성비앞세워'진격'...에어비앤비·지멘스·AWS도쓴다",
+  "오픈AI,'챗GPT'유명작가문체모방요청차단…저작권논란대응강...",
+  "[특징주]지엔씨에너지,KT와755억군산데이터센터발전기공급계약에...",
+  "오픈AI,차세대AI‘아스트라’공개예고…“수학계10대난제풀어”",
+  "해킹리스크에거래소로'비트코인대거이동'포착"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,17 @@
   [
    "2026-08-03T11:14:16.766611+09:00",
    "주식부호 순위 개인 랠리가 바꿨다"
+  ],
+  [
+   "2026-08-03T11:16:16.982998+09:00",
+   "삼성 지난달 64만명 환급 번호이동 소비자들 막차"
+  ],
+  [
+   "2026-08-03T11:16:16.982998+09:00",
+   "리스크에 비트코인 포착 대거 이동 거래소로"
   ]
  ],
- "last_run": "2026-08-03T11:14:34.508600+09:00",
+ "last_run": "2026-08-03T11:16:37.502321+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
