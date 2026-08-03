@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000098400",
-  "https://www.mk.co.kr/article/12114809",
-  "https://www.etoday.co.kr/news/view/2610231",
   "https://www.etnews.com/20260803000037",
   "http://www.foodnews.co.kr/news/articleView.html?idxno=119592",
   "https://www.cbci.co.kr/news/articleView.html?idxno=593654",
@@ -2999,12 +2996,12 @@
   "https://news.bizwatch.co.kr/article/mobile/2026/08/03/0029",
   "https://www.ngonews.kr/news/articleView.html?idxno=234497",
   "http://www.inews24.com/view/1991540",
-  "https://www.greened.kr/news/articleView.html?idxno=346724"
+  "https://www.greened.kr/news/articleView.html?idxno=346724",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260804074302891",
+  "https://www.etnews.com/20260804000004",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=268998"
  ],
  "seen_titles": [
-  "유진證\"개인코스피평단7300선·기관7100선…손실구간물량125조\"",
-  "오픈AI,차세대AI모델'아스트라'출시예고",
-  "디윅스,AI장기기억기술앞세워···글로벌성능세계최고수치달성",
   "SKT-순천향대,‘디지털새싹’에‘AI그림일기’제공⋯“교육현장A...",
   "SK텔레콤,'AI그림일기'디지털새싹적용…교육현장AI활용",
   "SK실트론인수한두산…증권가“싸게잘샀다”",
@@ -6001,7 +5998,10 @@
   "KT,피지컬AI시동…\"인프라로승부\"",
   "풀무원,공식몰'#풀무원'5주년프로모션…최대50%할인",
   "이재용728억·정몽구671억…상반기'배당부자'1·2위",
-  "상반기배당금1위이재용이어홍라희·이서현·이부진4~6위'싹쓸이'...."
+  "상반기배당금1위이재용이어홍라희·이서현·이부진4~6위'싹쓸이'....",
+  "[3분증시]뉴욕증시,미·이란긴장완화에사흘째강세",
+  "美행정부,AI모델'해킹등사이버보안테스트'의무화",
+  "상법개정했더니상반기배당기업48%급증…삼성전자4.9조·현대자동차..."
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-08-04T07:42:23.232897+09:00",
    "인프라로 승부 피지컬AI ~KT 시동"
+  ],
+  [
+   "2026-08-04T07:46:16.808396+09:00",
+   "상반기 9조 개정했더니 삼성전자 배당기업 급증 상법 현대자동차"
   ]
  ],
- "last_run": "2026-08-04T07:44:39.377637+09:00",
+ "last_run": "2026-08-04T07:46:41.616221+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
