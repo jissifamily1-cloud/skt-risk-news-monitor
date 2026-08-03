@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1149839",
-  "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1778609",
-  "https://www.naeil.com/news/read/597356",
-  "https://view.asiae.co.kr/article/2026073110244719017",
-  "https://www.ppss.kr/news/articleView.html?idxno=303876",
-  "https://www.newspim.com/news/view/20260731000479",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02883126645520096",
-  "https://www.mk.co.kr/article/12112979",
-  "https://www.abcn.kr/news/articleView.html?idxno=89999",
-  "https://www.yna.co.kr/view/AKR20260730139200527?input=1195m",
   "http://www.newstomato.com/ReadNews.aspx?no=1308749&inflow=N",
   "https://www.news1.kr/world/general-world/6244535",
   "https://www.etnews.com/20260730000465",
@@ -2999,19 +2989,19 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2455189",
   "https://www.asiatime.co.kr/article/20260803500018",
   "http://www.newstomato.com/ReadNews.aspx?no=1309037&inflow=N",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274038"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274038",
+  "http://www.iminju.net/news/articleView.html?idxno=167503",
+  "https://www.thepowernews.co.kr/view.php?ud=20260803144044314de3f0aa1be_7",
+  "https://www.xportsnews.com/article/2179592",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3654237",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3654244",
+  "http://www.globalepic.co.kr/view.php?ud=20260803143950604948439a4874_29",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1718891",
+  "http://www.srtimes.kr/news/articleView.html?idxno=208945",
+  "https://www.news1.kr/it-science/general-it/6247441",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=127762"
  ],
  "seen_titles": [
-  "샘알트먼\"우리는이미특이점안에있다…AI가인간넘는순간은지금...",
-  "[AI핫이슈]K-AI칩시험대...글로벌AI스타트업韓진출활발",
-  "머스크\"첨단AI,배포전경쟁사가2주간'동료평가'해야\"",
-  "AI투자9500억불·핵심광물공급망활로…李대통령'세일즈외교'종반",
-  "AI데이터센터임대료재산정…빅테크현금가뭄논란해소하나",
-  "AI5대빅테크,FCF마이너스위기…미국경제도박되나",
-  "원화세계2위급등…반도체달러환류가견인했다",
-  "미상무부,CHIPS법으로반도체7곳에8억7400만달러지원하고지분받는...",
-  "[Chinajoy26]B2C부스없던붉은사막,현장서자주보인이유",
-  "세종대김대종교수‘2027머니트렌드’출간",
   "美·中연산자원경쟁…\"딥시크,대규모데이터센터건설\"",
   "AI가외교·안보지렛대로…미중경쟁속국가간연대본격화",
   "[특징주]사흘급락딛고반전…'S7'일제히급등",
@@ -6001,7 +5991,17 @@
   "임규호서울시의원,462만명개인정보유출보상5000원?,서울시설공단...",
   "SKT,'디지털새싹'에'AI그림일기'도입…교육AX지원",
   "가족결합할인손본다…이번엔LGU+자녀할인'싹둑'",
-  "KTLaunchesInternetDiscountsforForeigners"
+  "KTLaunchesInternetDiscountsforForeigners",
+  "국가AI컴퓨팅센터첫삽…첨단GPU1만5000장규모",
+  "이승엽·최형우·최정다음은김현수…KBO네번째4000루타",
+  "한화'완전체'타선잠재운고영표,20이닝연속무실점'펄펄'…\"요즘...",
+  "민주당경남도당위원장에김기운씨당선",
+  "충남대병원,환자경험평가1등급…환자중심의료서비스입증",
+  "한화3남김동선,본격‘홀로서기’나섰다",
+  "[Telecom&Now]SKT,순천향대와'AI그림일기'로미래인재키운다등",
+  "SKT,AI·소프트웨어교육사업디지털새싹에'AI그림일기'제공",
+  "오픈AI차세대모델'아스트라'…10년넘게풀리지않은난제해결",
+  "\"양자컴퓨터해킹뚫지못한다\"…KB국민은행,차세대암호기술로금융..."
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,13 @@
   [
    "2026-08-03T14:44:22.132736+09:00",
    "이번엔 자녀할인 ~LGU 싹둑 LGU 손본다 가족결합할인"
+  ],
+  [
+   "2026-08-03T14:46:18.625564+09:00",
+   "못한다 금융 양자컴퓨터 암호기술로 차세대 뚫지 KB국민은행"
   ]
  ],
- "last_run": "2026-08-03T14:44:49.095658+09:00",
+ "last_run": "2026-08-03T14:46:39.577861+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
