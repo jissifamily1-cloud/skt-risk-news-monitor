@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356354",
-  "https://news.bizwatch.co.kr/article/industry/2026/07/23/0012",
-  "https://biz.heraldcorp.com/article/10817706",
-  "https://www.thelec.kr/news/articleView.html?idxno=59920",
-  "https://biz.heraldcorp.com/article/10817211",
-  "https://www.tokenpost.kr/news/cryptocurrency/383690",
-  "https://www.naeil.com/news/read/597363",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03224246645543056",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336116",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336118",
@@ -2999,16 +2992,16 @@
   "https://www.huffingtonpost.kr/article/259216",
   "http://www.economytalk.kr/news/articleView.html?idxno=423274",
   "https://www.smartbizn.com/news/articleView.html?idxno=150199",
-  "https://zdnet.co.kr/view/?no=20260803153926"
+  "https://zdnet.co.kr/view/?no=20260803153926",
+  "https://www.thelec.kr/news/articleView.html?idxno=60464",
+  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243263",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030253&t=NN",
+  "https://www.kyeonggi.com/article/20260803580312",
+  "http://www.sisacast.kr/news/articleView.html?idxno=98426",
+  "https://www.sisajournal.com/news/articleView.html?idxno=382124",
+  "https://www.ajunews.com/view/20260803151810332"
  ],
  "seen_titles": [
-  "[김종섭의광고이야기]노출의시대가가고,철학의시대가왔다.",
-  "메인라인,AIFuze'스마트플로우'기능제공…\"한줄요청에AI가알아서...",
-  "메인라인,AI서비스'AIFuze'에에이전트기능탑재",
-  "[AIMY뉴스]24일중국증시'유가급등·AI조정,순환매장세지속'",
-  "IREN,AI클라우드계약체결후주가급등",
-  "[AI판결돋보기]오세훈은'천하의거짓말쟁이'라했지만…법원은'명...",
-  "부산국제장애인협의회,장애인정보화교육수료생1만명돌파",
   "[갤럭시언팩2026]폴더블'선택의시대'선언…노태문,AI전략가속",
   "애플참전앞둔삼성의승부수…폴더블넘어'AI생태계'키운다",
   "노태문“역대최대판매목표”…폴더블1위수성",
@@ -6001,25 +5994,16 @@
   "두산그룹이SK실트론을100%자회사만들어도최대3.3조'감당수준':...",
   "삼성물산,AI시니어리빙'돌봄형'으로확장…실버타운시장공략",
   "글로벌빅테크출신AI인재모시는대기업들…엔비디아·애플출신전면...",
-  "드론부터위성까지해킹막는다…LIGD&A,日보안기업과맞손"
+  "드론부터위성까지해킹막는다…LIGD&A,日보안기업과맞손",
+  "해남'국가AI컴퓨팅센터'착공...2028년구축완료",
+  "AI·직무교육으로커지는콜롬비아에듀테크시장",
+  "파마스퀘어,하남에이어구로디지털단지에2호점열어",
+  "평택노인요양원에AI돌봄도입…낙상·병상이탈‘사전감지’",
+  "삼성물산,시니어케어는'AI시니어리빙솔루션'…돌봄형실버타운시...",
+  "SK실트론인수하며반도체날개단두산…최태원'재산분할열쇠'도품...",
+  "[공시학개론]흔들리는주가에자사주사는경영진…'책임경영'신호"
  ],
  "recent_sigs": [
-  [
-   "2026-08-03T09:40:30.989582+09:00",
-   "전력부터 새판 부지 짠다 ~SKT 확보 데이터센터"
-  ],
-  [
-   "2026-08-03T09:42:16.955403+09:00",
-   "나선다 그림일기 미래 양성 인재 ~SKT"
-  ],
-  [
-   "2026-08-03T09:42:16.955403+09:00",
-   "시장 에스원 기대감 현대에이치티 주목을 스마트홈 누리플렉스 확대"
-  ],
-  [
-   "2026-08-03T09:42:16.955403+09:00",
-   "3조 강세 샀다 승자는 두산 알짜 SK는 실트론 급락"
-  ],
   [
    "2026-08-03T09:44:15.950078+09:00",
    "그림일기로 문해력 ~SKT 키운다 학생"
@@ -6599,9 +6583,13 @@
   [
    "2026-08-03T15:40:27.363114+09:00",
    "드론부터 LIG 보안기업과 막는다 위성까지 맞손"
+  ],
+  [
+   "2026-08-03T15:42:18.600233+09:00",
+   "자사주 경영진 흔들리는 사는 신호 주가에 책임경영"
   ]
  ],
- "last_run": "2026-08-03T15:40:48.001141+09:00",
+ "last_run": "2026-08-03T15:42:42.507484+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
