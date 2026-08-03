@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pennmike.com/news/articleView.html?idxno=124689",
-  "https://www.mt.co.kr/tech/2026/07/30/2026072916554394252",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1171606",
-  "https://www.seoul.co.kr/news/economy/industry/2026/07/30/20260730031001?wlog_tag3=naver",
-  "https://www.newsis.com/view/NISX20260729_0003728565",
   "https://www.bloter.net/news/articleView.html?idxno=669427",
   "https://www.chosun.com/economy/stock-finance/2026/07/30/ZYIK74KUT5AIJLYU2UA536EZ6E/",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01167686645519768",
@@ -2999,14 +2994,14 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=268838",
   "http://www.popcornnews.net/news/articleView.html?idxno=128423",
   "https://www.mt.co.kr/stock/2026/08/03/2026080308590146161",
-  "https://www.etnews.com/20260802000035"
+  "https://www.etnews.com/20260802000035",
+  "https://www.catchnews.kr/news/articleView.html?idxno=126850",
+  "https://news.mtn.co.kr/news-detail/2026080309010573859",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2454939",
+  "https://biz.heraldcorp.com/article/10828589",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689122"
  ],
  "seen_titles": [
-  "[더벨][지배구조분석|네이버]이해진의장,지분희석불구지배력강...",
-  "[손병관의뉴스프레소]검찰개혁법안에'공소기각'끼워넣기논란",
-  "[하이닉스성장기②]17년HBM뚝심…글로벌AI공급망쥐다",
-  "[금융핫이슈]삼전·닉스2000조증발,공황급증시폭락의책임",
-  "\"젠슨황너무한거아냐?\"…GPU값올해만세번째인상[IT썰]",
   "LG전자,국내최초엔비디아인증...젠슨황사로잡은기술뭐길래?",
   "美,이번엔‘中로봇’빗장…中제3국우회풍선효과전망도",
   "젠슨황\"AI,일자리뺏지않아…업무를자동화할뿐\"",
@@ -6001,7 +5996,12 @@
   "실적발표'슈퍼위크'…한화·쿠팡·현대백화점부터대우건설·SKT·카카...",
   "유통업계,여름맞이프로모션'풍성'...체험·할인·적립혜택으로소비...",
   "두산,SK실트론인수에목표주가상향-유진투자증권",
-  "RAPA·KT,LTE단말규격검증지원확대"
+  "RAPA·KT,LTE단말규격검증지원확대",
+  "\"24시간심박·움직임감지해선제대응\"삼성물산,AI돌봄형실버타운...",
+  "\"성과급,이렇게주는거야\"中반도체'소름돋는당근'[여의도Pick!]",
+  "SKT,순천향대와'AI그림일기'로미래인재육성나선다",
+  "KT,광화문서‘스포츠팝업전시’운영…AI체험프로그램선봬",
+  "오픈AI,유저10억명돌파…\"코덱스가판바꿨다\""
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,17 @@
   [
    "2026-08-03T09:04:15.271457+09:00",
    "RAPA 지원 확대 검증 규격 LTE 단말 ~KT"
+  ],
+  [
+   "2026-08-03T09:06:23.189890+09:00",
+   "프로그램 운영 전시 광화문서 ~KT 체험 스포츠 선봬 팝업"
+  ],
+  [
+   "2026-08-03T09:06:23.189890+09:00",
+   "코덱스가 바꿨다 10억명 돌파 유저"
   ]
  ],
- "last_run": "2026-08-03T09:04:42.366735+09:00",
+ "last_run": "2026-08-03T09:06:49.996198+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
