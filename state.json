@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20075076",
-  "http://coinreaders.com/250821",
-  "https://www.cnbizm.com/news/articleView.html?idxno=310391",
-  "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
-  "http://www.fnnews.com/news/202608031039203159",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16152316",
-  "https://www.xportsnews.com/article/2179591",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=104925",
-  "https://zdnet.co.kr/view/?no=20260803132358",
-  "https://www.idaegu.com/news/articleView.html?idxno=664768",
   "https://www.gukjenews.com/news/articleView.html?idxno=3654081",
   "https://www.aitimes.com/news/articleView.html?idxno=213473",
   "http://www.jndn.com/article.php?aid=1785731134437120011",
@@ -2999,19 +2989,19 @@
   "https://www.fntoday.co.kr/news/articleView.html?idxno=389610",
   "http://www.bokuennews.com/news/article.html?no=282141",
   "https://www.seoultimes.news/news/article.html?no=2000098456",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80293"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80293",
+  "https://www.hankyung.com/article/202607318312i",
+  "https://www.kmib.co.kr/article/view.asp?arcid=0030204104&code=61161511&cp=nv",
+  "https://zdnet.co.kr/view/?no=20260804082858",
+  "https://www.mk.co.kr/article/12116094",
+  "http://www.joseilbo.com/news/news_read.php?uid=573198&class=17",
+  "https://www.newsis.com/view/NISX20260731_0003731129",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689642",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=205993",
+  "https://dealsite.co.kr/articles/166511",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689596"
  ],
  "seen_titles": [
-  "\"건강하고안전한노후\"…애월어르신70명에맞춤형봉사",
-  "AI가바꾼삼성전기부품지도…MLCC값올리고장기계약확대",
-  "네이버,엔비디아·브룩필드‘AI팩토리’계약구조공개…재무부담분...",
-  "비트코인6만달러다시무너지나…콜드카드해킹충격",
-  "KT·디플러스기아,3라운드1주차2연승…LCK선두권경쟁격화",
-  "삼성SDS,상반기영업익전년比37.8%감소",
-  "티오리,우리금융에AI모의해킹솔루션'진트웹'공급",
-  "장혁,셀피로근황알리며'문무'연개소문기대감높였다",
-  "'LG서우승반지2개'김현수,마법사의반지도원한다…\"1위싸움은다른...",
-  "SK인텔릭스,'로봇과사는시대'테마로'나무엑스'새광고오픈",
   "메타빌드,인천국제공항공사차세대통합연계시스템구축사업추진",
   "[김희대의이로운기술,다정한도시]삼성전자가쏘아올린작은공,한...",
   "선양오크소맥흥행질주…출시40일만에100만캔넘었다",
@@ -6001,7 +5991,17 @@
   "석유최고가격제가물가0.3%p낮췄다…정부\"상방위험여전\"",
   "던킨,SKT와'YoungWeek'프로모션",
   "오픈AI,서울서첫게임AI해커톤…송재경개발자도참가",
-  "근원물가2년7개월來최고…한은연속금리인상가능성커져"
+  "근원물가2년7개월來최고…한은연속금리인상가능성커져",
+  "8개월만에'60억'잭팟…2030돈쓸어담은'1분영상'정체[류은혁의...",
+  "‘디펜딩챔프’고지원,고향제주서2연패샷날린다…6일개막‘축...",
+  "백악관,빅테크와AI안전성시험체계논의",
+  "카카오,자체AI모델음성생성기술고도화…“말투·감정까지조절”",
+  "美AWS훈풍덮은中CXMT공포…반도체주약세[칩칩폭폭]",
+  "AI데이터센터도'빅테크보증'시대…구글,앤트로픽21.5조원조달지...",
+  "지니언스,상반기매출19.9%증가...영업이익은294.3%성장",
+  "KT,연세의료원과의료데이터표준화협력…의료AI활용기반강화",
+  "[오늘의게임·IT소식]오픈AI·컴투스,코덱스활용게임개발해커톤...",
+  "피터시프\"비트코인상황더악화될것\"…콜드카드해킹에AI·양자컴..."
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,13 @@
   [
    "2026-08-04T10:24:19.490403+09:00",
    "연속 한은 근원물가 금리인상 2년7개월 가능성 커져 최고"
+  ],
+  [
+   "2026-08-04T10:26:24.471710+09:00",
+   "양자컴 콜드카드 피터 시프 비트코인 해킹에 악화될 상황"
   ]
  ],
- "last_run": "2026-08-04T10:24:43.144064+09:00",
+ "last_run": "2026-08-04T10:26:42.205260+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
