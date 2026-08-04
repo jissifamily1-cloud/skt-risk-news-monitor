@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6555445",
-  "https://www.ceoscoredaily.com/page/view/2026072916195530732",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=404910",
-  "https://www.korea.kr/news/policyNewsView.do?newsId=148969014&call_from=naver_news",
-  "https://www.thepowernews.co.kr/view.php?ud=202607291654472210de3f0aa1be_7",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251211",
-  "http://www.inews24.com/view/1989979",
-  "https://imnews.imbc.com/news/2026/econo/article/6840967_36932.html",
-  "https://www.ddaily.co.kr/page/view/2026072916252934972",
   "http://www.metroseoul.co.kr/article/20260729500478",
   "https://www.aitimes.com/news/articleView.html?idxno=213310",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4097832",
@@ -2999,18 +2990,18 @@
   "http://www.srtimes.kr/news/articleView.html?idxno=209086",
   "https://www.newsis.com/view/NISX20260804_0003736020",
   "https://www.gosiweek.com/article/1065593821349708",
-  "https://www.yna.co.kr/view/AKR20260804115100009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260804115100009?input=1195m",
+  "http://www.boannews.com/media/view.asp?idx=145017&kind=3",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008689863&plink=ORI&cooper=NAVER",
+  "https://www.etnews.com/20260804000268",
+  "https://www.hankookilbo.com/news/article/A2026080415070000200?did=NA",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=43975",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689741",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=356927",
+  "https://www.smartbizn.com/news/articleView.html?idxno=150302",
+  "https://www.news1.kr/politics/assembly/6248732"
  ],
  "seen_titles": [
-  "AI데이터센터도수출산업으로···AIDC얼라이언스공식출범",
-  "정재헌SKT대표\"SK하이퍼설립해투자금유치·빠른사업추진\"",
-  "18.4GWAI데이터센터구축시동…민관얼라이언스출범",
-  "‘AIDC얼라이언스’출범…18.4GWAI데이터센터구축,‘지능토큰’공...",
-  "'AIDC얼라이언스'공식출범…AI데이터센터국가전략산업육성시동",
-  "'AI데이터센터얼라이언스'출범…민·관공동의장체제운영",
-  "정부·민간‘AIDC얼라이언스’출범…AI데이터센터18.4GW전략본격화",
-  "SK하이퍼,아시아AI인프라허브만든다…'최태원식'AIDC공개",
-  "\"AIDC는지능수출공장\"…정부·산업계,AI데이터센터국가전략산업화...",
   "AI데이터센터민관협의체출범‥국산화·수출전략논의",
   "통신3사,'AIDC얼라이언스'핵심축으로…정재헌\"AI경쟁은국가간경...",
   "[CEO와칭]AI네이티브승부수던진정재헌…SKT'보안리더십'시험대",
@@ -6001,7 +5992,16 @@
   "팀네이버,브라질·칠레서AI인프라협력논의…남미시장진출모색",
   "수공-경북창조경제혁신센터,창업생태계활성화'맞손'",
   "스칼라스비스타청주테크노센터,8월25·27일설명회개최",
-  "전쟁표적된데이터센터…중동AI투자에먹구름"
+  "전쟁표적된데이터센터…중동AI투자에먹구름",
+  "LGU+,보안기업파고네트웍스인수...“위협탐지·분석·대응내재화...",
+  "보이스피싱의심정보공유,정보주체동의없이가능",
+  "경북창조경제혁신센터-한국수자원공사,오픈이노베이션활성화업무협...",
+  "중국알리바바,최고기능의AI'큐웬3.8-맥스'공개",
+  "SKT김태윤총괄임원\"일하는AI지향해야\"…독파모'A.XK2'활용확대",
+  "KT,산업인력공단과'AI인재'양성협력…디지털혁신강화",
+  "오픈AI,서울서첫게임해커톤개최…'리니지주역'송재경,AI로개발...",
+  "삼성·SK하이닉스,증설에도못따라가는메모리공급···2030년까지이...",
+  "고민정\"죄송하다\"…文\"제법맷집이…도전자체가큰의미\"격려"
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,17 @@
   [
    "2026-08-04T15:20:28.477748+09:00",
    "오픈웨이트"
+  ],
+  [
+   "2026-08-04T15:24:19.462705+09:00",
+   "증설에도 따라가는 2030년까지 메모리 SK하이닉스 공급 삼성"
+  ],
+  [
+   "2026-08-04T15:24:19.462705+09:00",
+   "도전 격려 의미 맷집이 고민정 자체가 죄송하다 제법"
   ]
  ],
- "last_run": "2026-08-04T15:22:36.464135+09:00",
+ "last_run": "2026-08-04T15:24:40.623724+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
