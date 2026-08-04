@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8623777",
-  "https://www.dailian.co.kr/news/view/1672393/?sc=Naver",
-  "https://biz.chosun.com/it-science/ict/2026/07/29/PSFKPFUH5NGN5AM7S3NQAUXBO4/",
-  "https://www.mt.co.kr/tech/2026/07/29/2026072918354629005",
-  "https://www.nocutnews.co.kr/news/6555517",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317703",
   "https://www.ajunews.com/view/20260729180643929",
   "https://www.etoday.co.kr/news/view/2608933",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5209031",
@@ -2999,15 +2993,15 @@
   "http://www.lawissue.co.kr/view.php?ud=20260804181802235f4ab64559d_12",
   "https://www.sentv.co.kr/article/view/sentv202608040057",
   "https://www.newspim.com/news/view/20260804001404",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256913"
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256913",
+  "https://www.news1.kr/sports/baseball/6249167",
+  "https://www.xportsnews.com/article/2179978",
+  "https://sports.khan.co.kr/article/202608041821003?pt=nv",
+  "https://kr.aving.net/news/articleView.html?idxno=1812876",
+  "http://www.kdfnews.com/news/articleView.html?idxno=186079",
+  "https://www.abcn.kr/news/articleView.html?idxno=90159"
  ],
  "seen_titles": [
-  "오태규의혹,이대로넘어갈일아니다",
-  "[개정정보통신망법시행][중]플랫폼은어떻게달라지나…네이버·카카...",
-  "방미통위,불법스팸과징금기준마련…최대6%부과",
-  "불법스팸전송하면매출액최대6%과징금",
-  "방미통위,불법스팸전송·방치하면관련매출액최대6%과징금",
-  "방미통위,김성근방문진보궐이사임명처분취소…\"실익이없다\"",
   "불법스팸매출액에최대6%과징금…상습땐50%가중",
   "언론연대\"민주당,오태규결격논란확인설명하라\"",
   "방미통위,불법스팸위반정도에따라최대6%과징금부과",
@@ -6001,13 +5995,15 @@
   "서강대,복자여고와AI·빅데이터교육프로그램개최",
   "SK하이닉스,‘HBF’첫표준공개…AI메모리판흔드나",
   "[업무보고]공정위,집행체계전면개편…독과점구조부터뜯어고친다",
-  "\"구리없인데이터센터도없다\"···풍산·LS전선·효성중공업덮친원..."
+  "\"구리없인데이터센터도없다\"···풍산·LS전선·효성중공업덮친원...",
+  "'40도육박'야구장지열로경기취소…\"사막바람이부니까숨막혀\"",
+  "KIA초대형변수맞는다!사상초유의3G연속폭염취소→9월순연경기...",
+  "너무일찍취소했나…오후5시적당히내린비에폭염식은챔필,KIA는...",
+  "[판교인터뷰]타이가글로벌,무토양이끼모듈모스헥사로글로벌실...",
+  "현대퓨처넷·KT·KB국민은행·보람그룹,AI·보안·생활체육분야협력...",
+  "KT밀리의서재,9.81파크제주서'제주에온밀리'운영"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T12:22:17.724059+09:00",
-   "솔루션 ~SKT 통합 에듀테크 선보여 삼성전자 그림 냉난방 설루션"
-  ],
   [
    "2026-08-04T12:44:17.230523+09:00",
    "스테이트스트리트 가능 8월 유가 중요 여전히 흐름 금리인상"
@@ -6615,9 +6611,17 @@
   [
    "2026-08-04T18:22:17.591408+09:00",
    "보안시장 ~LGU 7년만에 LGU 노린다"
+  ],
+  [
+   "2026-08-04T18:24:22.953291+09:00",
+   "보람그룹 보안 ~KT 현대퓨처넷 협력 생활체육 KB국민은행 분야"
+  ],
+  [
+   "2026-08-04T18:24:22.953291+09:00",
+   "~KT 운영 밀리의서재 제주서 제주에 81파크 밀리"
   ]
  ],
- "last_run": "2026-08-04T18:22:43.517102+09:00",
+ "last_run": "2026-08-04T18:24:47.418576+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
