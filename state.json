@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260727155540",
-  "https://www.aitimes.com/news/articleView.html?idxno=213219",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852637",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254487&CMPT_CD=P0010",
-  "https://www.inven.co.kr/webzine/news/?news=318882",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687123",
-  "https://zdnet.co.kr/view/?no=20260727085255",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687098",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687057",
   "https://www.aitimes.com/news/articleView.html?idxno=213183",
@@ -2999,16 +2992,16 @@
   "https://www.techm.kr/news/articleView.html?idxno=153982",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=251633",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474309",
-  "https://biz.chosun.com/it-science/ict/2026/08/04/KZYK7Q66CZAYVLE2ZRCPGI4VQU/"
+  "https://biz.chosun.com/it-science/ict/2026/08/04/KZYK7Q66CZAYVLE2ZRCPGI4VQU/",
+  "https://www.mydaily.co.kr/page/view/2026080416155018001",
+  "https://www.nocutnews.co.kr/news/6558135",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240787",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405152",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474311",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719099",
+  "https://zdnet.co.kr/view/?no=20260804160524"
  ],
  "seen_titles": [
-  "수츠케버의SSI,엔비디아와장기협력...베라루빈으로연구역량확대",
-  "[데일리픽]샘알트먼\"AI특이점은이미시작\"…이더리움주목할이유",
-  "AI안전논란속백악관찾는알트먼…규제·혁신메시지주목",
-  "AI낙관론에'지구종말가'BGM...메타신규광고의모순",
-  "배경훈장관\"美'AI선언'다음은실행\"",
-  "이대통령\"AI기본사회공론화필요,양극화완화의길찾아야\"",
-  "한국AI시대본격개막...글로벌빅테크리더들과미래비전공유",
   "\"오픈웨이트AI가미래\"…암스트롱,젠슨황첫엑스게시물에화답",
   "[AI는지금]오픈AI모델,허깅페이스시스템침입…\"실행기록공개하라...",
   "샘알트먼\"우리는이미특이점안에있다…AI가인간넘는순간은지금...",
@@ -6001,13 +5994,16 @@
   "여기어때,사내서에이전트40개쓴다...'실행하는AI'시장효과가시화",
   "박창훈신한카드대표\"나,떨고있나?\"...임기앞두고정보유출제재촉...",
   "[거래소외국인]삼성전자담고SK하이닉스팔았다…방산·AI·바이오로...",
-  "[비즈톡톡]“탈옥한AI가무단해킹”…안전우려속‘공포마케팅’..."
+  "[비즈톡톡]“탈옥한AI가무단해킹”…안전우려속‘공포마케팅’...",
+  "540억과징금보다뼈아픈23만이탈…KT,연972억매출기반흔들",
+  "민형배호'입'…전남광주통합특별시,대변인공모",
+  "네이버,브라질AI데이터센터와GPU클라우드협력추진",
+  "지니언스,역대상반기최대실적…매출249.2억원으로19.9%증가",
+  "[거래소기관]NAVER사고삼성전자팔았다…수급변화뚜렷",
+  "[1%초고수의선택]'한국콜마'사고'SK텔레콤'순매도",
+  "경기도,AI책임관에주형철경제부지사…도정·산업AX총괄"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T10:18:16.178880+09:00",
-   "파인엠텍 강세 삼성 수혜 애플 동시"
-  ],
   [
    "2026-08-04T10:20:26.772905+09:00",
    "롯데카드와 아니다 긋기 롯데 계열사 업무정지"
@@ -6647,9 +6643,17 @@
   [
    "2026-08-04T16:16:21.977960+09:00",
    "안전 마케팅 공포 우려 무단 탈옥한 AI가"
+  ],
+  [
+   "2026-08-04T16:18:20.111428+09:00",
+   "경제부지사 AI책임관에 총괄 산업 AX 경기도 도정 주형철"
+  ],
+  [
+   "2026-08-04T16:18:20.111428+09:00",
+   "~SKT 한국콜마 순매도 사고"
   ]
  ],
- "last_run": "2026-08-04T16:16:46.165870+09:00",
+ "last_run": "2026-08-04T16:18:40.543146+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
