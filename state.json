@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2350267.htm",
-  "http://www.iminju.net/news/articleView.html?idxno=167546",
-  "http://www.inews24.com/view/1991293",
-  "https://zdnet.co.kr/view/?no=20260803141004",
-  "http://www.thebigdata.co.kr/view.php?ud=2026080410513444940a47484cf8_23",
   "http://www.4th.kr/news/articleView.html?idxno=2115758",
   "https://www.newsis.com/view/NISX20260804_0003735411",
   "https://www.mk.co.kr/article/12116130",
@@ -2999,14 +2994,14 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689787",
   "http://www.4th.kr/news/articleView.html?idxno=2115807",
   "https://isplus.com/article/view/isp202608050001",
-  "https://www.newstree.kr/newsView/ntr202608040006"
+  "https://www.newstree.kr/newsView/ntr202608040006",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190529",
+  "https://www.labortoday.co.kr/news/articleView.html?idxno=236055",
+  "https://www.wikitree.co.kr/articles/1150439",
+  "https://www.ajunews.com/view/20260805062459488",
+  "https://www.ziksir.com/news/articleView.html?idxno=142166"
  ],
  "seen_titles": [
-  "'국가대표AI'2차평가돌입…덩치보다효율·실증관건",
-  "SK하이닉스,HBF첫표준규격공개…AI메모리병목푼다",
-  "AI·핵심광물성과안고귀국한李…'부동산·증시·형소법'현안산적",
-  "[AI는지금]오픈AI해킹사고에샘알트먼도긴장…\"AI속도조절필요...",
-  "LG유플러스,보안전문기업품었다...보안고도화로경쟁력확대",
   "LG유플러스,파고네트웍스인수..24시간위협대응역량확보",
   "굿바이황재균…8일수원롯데-KT전서은퇴식",
   "“코덱스로빌드하고하이브로플레이하라”…‘오픈AI게임빌더스서...",
@@ -6001,7 +5996,12 @@
   "신작보다익숙한게임…게임업계,'클래식'으로이용자공략",
   "스페이스X2분기영업손실1.4억달러...주가시간외8%급락",
   "온열질환의심환자25명...야구열기뜨겁지만더워도너무덥다",
-  "'갤럭시Z8'144만대사전판매'역대최다'...가장인기있는기종은?"
+  "'갤럭시Z8'144만대사전판매'역대최다'...가장인기있는기종은?",
+  "[ChipWar]SK실트론,두산품으로…반도체수직계열화·리밸런싱'윈윈...",
+  "[노동부업무보고]정년연장법·'일법'패키지하반기국회달군다",
+  "앤트로픽,6개월신생볼타와100억달러컴퓨팅계약체결",
+  "AMD2분기매출50%급증…실적호조에도시간외9%↓",
+  "호르무즈훈풍·AI실적호조…S&P·다우사상최고치"
  ],
  "recent_sigs": [
   [
@@ -6169,7 +6169,7 @@
    "대응 오픈 보안 제안 사고 주도 얼라이언스 시큐어"
   ]
  ],
- "last_run": "2026-08-05T06:34:35.854192+09:00",
+ "last_run": "2026-08-05T06:36:41.635104+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
