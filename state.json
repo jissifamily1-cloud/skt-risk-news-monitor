@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tvreport.co.kr/entertainment/article/1065898/",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190529",
-  "http://www.inews24.com/view/1991293",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3653948",
-  "https://www.kukinews.com/article/view/kuk202608030086",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=120258",
-  "https://www.newspim.com/news/view/20260803000582",
-  "https://zdnet.co.kr/view/?no=20260803141004",
-  "https://www.kukinews.com/article/view/kuk202608030109",
-  "http://www.inews24.com/view/1991321",
-  "https://biz.sbs.co.kr/article_hub/20000326266?division=NAVER",
   "http://www.celuvmedia.com/article.php?aid=1785733856525022006",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=43949",
   "https://www.chosun.com/economy/tech_it/2026/08/03/L4QD6UP7VBD6LKBPUGFXVN37AI/",
@@ -2999,20 +2988,20 @@
   "https://www.youthdaily.co.kr/news/article.html?no=224434",
   "https://www.techm.kr/news/articleView.html?idxno=153953",
   "https://www.dizzotv.com/site/data/html_dir/2026/08/04/2026080480073.html",
-  "http://www.fnnews.com/news/202608041035438295"
+  "http://www.fnnews.com/news/202608041035438295",
+  "https://mhnse.com/news/articleView.html?idxno=1477854",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1097791",
+  "https://www.g-enews.com/view.php?ud=202608040928254711bb91c46fcd_1",
+  "http://www.seouleconews.com/news/articleView.html?idxno=92820",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=131401",
+  "https://theviewers.co.kr/View.aspx?No=4173004",
+  "https://www.thelec.kr/news/articleView.html?idxno=60498",
+  "https://www.etoday.co.kr/news/view/2610775",
+  "http://www.metroseoul.co.kr/article/20260804500138",
+  "https://www.cstimes.com/news/articleView.html?idxno=715654",
+  "https://economist.co.kr/article/view/ecn202608040011"
  ],
  "seen_titles": [
-  "[AIㆍ반도체알기①]반도체와GPU…AI시대의핵심두뇌",
-  "\"SK하닉,내년이면바로추월당할것\"…HBM'역전전망'에개미술렁",
-  "'40억채무→은퇴'장동주,개인방송하더니사채원금완납…\"빚다갚...",
-  "[ChipWar]SK실트론,두산품으로…반도체수직계열화·리밸런싱'윈윈...",
-  "AI·핵심광물성과안고귀국한李…'부동산·증시·형소법'시험대",
-  "논산시시민행복채움센터천장붕괴사고...사후근본대책마련에부심",
-  "“영업정지보다그이후”…신평사들이본롯데카드과제",
-  "롯데카드,1.5개월영업정지···신평사\"영업재개이후가중요\"",
-  "하나투어,KTAI품었다…마이케이티서여행상담",
-  "[AI는지금]오픈AI해킹사고에샘알트먼도'긴장'…\"AI속도조절필...",
-  "2.4조들여GPU1.5만장…국가AI컴퓨팅센터해남서착공",
   "네이버,AI팩토리계약구조공개⋯\"GPU확보·재무부담완화\"",
   "중국반도체충격에성과급갈등까지…삼전닉스중HBM승자는?",
   "장동주,사채원금상환완료\"개인·금융기관채무순차정리할것\"",
@@ -6001,7 +5990,18 @@
   "'갤럭시Z8시리즈'개통시작…사전판매144만대신기록,폴더블대중화...",
   "'8세대갤럭시Z',칩플레이션파고넘었다...갤럭시예판최고치경신",
   "KT,연세의료원과손잡고의료데이터표준화추진",
-  "지니언스,상반기영업익43억원…전년比294%성장"
+  "지니언스,상반기영업익43억원…전년比294%성장",
+  "“아시안게임전40홈런칠것같다”심수창전망…김도영,AG변수도...",
+  "서울시,전역폭염경보·열대야계속…4일동남·서남권'폭염중대경보...",
+  "7월소비자물가2.8%↑,국제유가상승세둔화에3개월만에2%대",
+  "통신3사,갤럭시Z8고객잡기열전…폴드8흥행에혜택서비스치열",
+  "우리은행,하이브리드AI상담봇구축…고객상담편의성↑",
+  "롯데백화점노원점,17개월리뉴얼끝…\"동북권랜드마크노린다\"",
+  "SK하이닉스,HBF첫표준공개...최대16단512GB구성",
+  "미국CPU에집중투자…삼성운용반도체ETF상장",
+  "KT,연세의료원과데이터디지털전환협력…AI활용기반다진다",
+  "KT,연세의료원과의료AI혁신위한업무협약",
+  "삼성오너가상반기배당금만약2000억수령,현대차일가도1000억"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-08-04T10:54:16.643616+09:00",
    "8세대 최고치 예판 칩플레이션 경신 갤럭시 넘었다 파고 갤럭시Z"
+  ],
+  [
+   "2026-08-04T10:56:18.830608+09:00",
+   "오너가 수령 2000억 일가도 삼성 1000억 배당금만 현대차 상반기"
   ]
  ],
- "last_run": "2026-08-04T10:54:37.069427+09:00",
+ "last_run": "2026-08-04T10:56:36.570197+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
