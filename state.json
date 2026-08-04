@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260803010000657",
-  "https://www.aitimes.com/news/articleView.html?idxno=213471",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260803180459osY",
-  "https://www.mt.co.kr/world/2026/08/03/2026080312385684246",
-  "https://www.hankyung.com/article/2026080325131",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3130980",
-  "http://www.osen.co.kr/article/G1112851678",
   "https://www.namdonews.com/news/articleView.html?idxno=918902",
   "http://www.economytalk.kr/news/articleView.html?idxno=423281",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=84005",
@@ -2999,16 +2992,16 @@
   "https://www.pressman.kr/news/articleView.html?idxno=103012",
   "https://hbnpress.com/news/view/1065589374646897",
   "https://www.newscj.com/news/articleView.html?idxno=3422362",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546394"
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546394",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5047707",
+  "https://economist.co.kr/article/view/ecn202608040024",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200528",
+  "http://www.press9.kr/news/articleView.html?idxno=80583",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=725604",
+  "http://www.press9.kr/news/articleView.html?idxno=80586",
+  "http://www.4th.kr/news/articleView.html?idxno=2115764"
  ],
  "seen_titles": [
-  "ThisIsNottheWaytoHoldA.I.CompaniesAccountable",
-  "\"B200도,GPU1.5만장도유동적\"…국가AI컴퓨팅센터,시장변화맞춘다",
-  "[김태우의안보정론]후티반군중동전쟁의새변수되나",
-  "MS,첫실시간양방향음성AI'MAI리얼타임'테스트…대화형생태계확...",
-  "코스피,다시6,300선반납…삼전닉스급락",
-  "\"반도체주급락이기회\"3배레버리지베팅…SK하닉도\"떨어지면계속...",
-  "SK텔레콤,순천향대와AI그림일기교육",
   "[심층분석]평촌10년,세종·파주로…자이C&A의AI데이터센터확장공...",
   "'그대에게드림'황인엽·이혜리,'경성연가'프로젝트위기…\"관계봐...",
   "해남솔라시도2조5천억국가AI컴퓨팅센터첫삽",
@@ -6001,7 +5994,14 @@
   "매장혁신부터무료반품까지...유통업계,고객쟁탈전",
   "SK하이닉스·샌디스크,AI메모리병목겨냥'HBF'표준공개",
   "[금융소식]신한슈퍼SOLMAU1100만명·하나금융혹서기행복상자·우리...",
-  "한국,휴머노이드특허수2위…질적가치는미국·일본에밀려4위"
+  "한국,휴머노이드특허수2위…질적가치는미국·일본에밀려4위",
+  "LGU+,보안전문'파고네트웍스'인수…7년만M&A",
+  "한은“7월물가상승률2.8%,8월엔지난해통신비기저효과로더오를...",
+  "[전자·IT레이더]삼성SDS·카페24·한컴,AI인프라·커머스·문화까지...",
+  "롯데그룹,롯데카드서사과받아…경영주체는'MBK'",
+  "갤럭시Z8사려면어디가유리할까…통신사혜택따져보니",
+  "SK,주당1500원중간배당…최태원194억수령",
+  "KT·연세의료원,진료기록·의료영상AI학습데이터로전환"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-08-04T14:10:33.954541+09:00",
    "만에 에이전트 10시간 장벽 SW 코딩 호환 넘는다 CUDA"
+  ],
+  [
+   "2026-08-04T14:16:18.329340+09:00",
+   "진료기록 학습데이터로 연세의료원 ~KT 의료영상"
   ]
  ],
- "last_run": "2026-08-04T14:14:36.227255+09:00",
+ "last_run": "2026-08-04T14:16:35.545359+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
