@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260731000971",
-  "http://www.4th.kr/news/articleView.html?idxno=2115604",
-  "https://www.newsis.com/view/NISX20260731_0003731329",
-  "https://view.asiae.co.kr/article/2026073110244719017",
-  "https://www.newspim.com/news/view/20260731000507",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=268565",
   "https://www.chosun.com/economy/tech_it/2026/07/31/2WYR2U3OLJFSBGSVM4BFORIIFY/",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03863846645520096",
@@ -2999,14 +2994,14 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=537693",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190582",
   "https://www.gukjenews.com/news/articleView.html?idxno=3655580",
-  "http://www.fnnews.com/news/202608041617321068"
+  "http://www.fnnews.com/news/202608041617321068",
+  "https://www.sportsseoul.com/news/read/1626608",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=854510",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=269121",
+  "http://www.segyebiz.com/newsView/20260804518710?OutUrl=naver",
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=223917"
  ],
  "seen_titles": [
-  "빅테크실적명암,아마존·MS웃고메타울다[美증시특징주]",
-  "가상회사뚫으랬더니진짜기업3곳해킹…피해기업2곳도침입몰랐다",
-  "[GAM]시타델이되살린저가매수의욕...AI악재피크아웃?",
-  "'AI의노스트라다무스'구출한시타델…반도체주'진바닥'신호?",
-  "'AI예언자가29조원대로키운펀드…빚내산주식시타델에넘겼다",
   "美·中연산자원경쟁…\"딥시크,대규모데이터센터건설\"",
   "오픈AI이어앤스로픽까지...통제벗어나무단해킹",
   "LGCNS,상반기매출2조8358억…전년比매출6.1%·영업익1.1%↑",
@@ -6001,13 +5996,14 @@
   "MBK잇단리스크에도\"고려아연은예외\"…투자자신뢰,도덕적해이논...",
   "[WIKI현장]KT,'온마루'콘텐츠순환전략…월드컵다음은스포츠",
   "대구광역시,세계마스터즈육상대회앞두고식품운반차량·물류센터위...",
-  "보이스피싱잡는'정보공유망'가동...금융·통신·수사정보한곳에"
+  "보이스피싱잡는'정보공유망'가동...금융·통신·수사정보한곳에",
+  "대체선발은미정!‘햄스트링통증’김진욱말소이유?김감독“검진...",
+  "법원,KT5G과장광고인정…가입자도이탈",
+  "\"'갤럭시Z폴드'부터'플립8'까지\"…KT-LGU+,사전개통돌입",
+  "KT-연세의료원,데이터기반AI의료혁신나선다",
+  "오픈AI,전설적인게임개발자와‘오픈AI게임빌더스서울’개최"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T10:56:18.830608+09:00",
-   "오너가 수령 2000억 일가도 삼성 1000억 배당금만 현대차 상반기"
-  ],
   [
    "2026-08-04T11:00:36.047795+09:00",
    "빠른 강국 순방 산업 기반 초격차 후속조치 대통령 남미 미국"
@@ -6623,9 +6619,17 @@
   [
    "2026-08-04T16:54:18.439945+09:00",
    "순환 월드컵 전략 스포츠 ~KT 콘텐츠 다음은 온마루"
+  ],
+  [
+   "2026-08-04T16:58:20.184315+09:00",
+   "가입자도 과장광고 법원 이탈 인정 5G ~KT"
+  ],
+  [
+   "2026-08-04T16:58:20.184315+09:00",
+   "까지 부터 LG 돌입 플립8 ~KT 폴드 사전개통 갤럭시"
   ]
  ],
- "last_run": "2026-08-04T16:56:37.587722+09:00",
+ "last_run": "2026-08-04T16:58:44.276032+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
