@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202608040011",
-  "https://www.newstree.kr/newsView/ntr202608040006",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190529",
   "https://www.hankyung.com/article/202607280936i",
   "https://news.tf.co.kr/read/economy/2350267.htm",
@@ -2999,11 +2997,11 @@
   "https://biz.sbs.co.kr/article_hub/20000326664?division=NAVER",
   "https://www.techm.kr/news/articleView.html?idxno=153995",
   "https://www.womennews.co.kr/news/articleView.html?idxno=280657",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689945"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689945",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689787",
+  "http://www.4th.kr/news/articleView.html?idxno=2115807"
  ],
  "seen_titles": [
-  "삼성오너가상반기배당금만약2000억수령,현대차일가도1000억",
-  "'갤럭시Z8'144만대사전판매'역대최다'...가장인기있는기종은?",
   "[ChipWar]SK실트론,두산품으로…반도체수직계열화·리밸런싱'윈윈...",
   "음악도음식도'끝'이중요하다…한끼를완성하는마지막페어링[김새...",
   "'국가대표AI'2차평가돌입…덩치보다효율·실증관건",
@@ -6001,7 +5999,9 @@
   "[외신헤드라인]AMD,데이터센터수요에실적'서프라이즈",
   "AMD,2분기역대최대실적경신...DC매출전년비2배↑",
   "뉴욕증시반도체강세에급등...다우존스·S&P500사상최고",
-  "엔비디아주도오픈시큐어AI얼라이언스,AI보안사고대응제안"
+  "엔비디아주도오픈시큐어AI얼라이언스,AI보안사고대응제안",
+  "신작보다익숙한게임…게임업계,'클래식'으로이용자공략",
+  "스페이스X2분기영업손실1.4억달러...주가시간외8%급락"
  ],
  "recent_sigs": [
   [
@@ -6169,7 +6169,7 @@
    "대응 오픈 보안 제안 사고 주도 얼라이언스 시큐어"
   ]
  ],
- "last_run": "2026-08-05T06:30:53.517273+09:00",
+ "last_run": "2026-08-05T06:32:34.115691+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
