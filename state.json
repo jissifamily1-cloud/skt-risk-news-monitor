@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202608041129304008",
-  "https://biz.heraldcorp.com/article/10830250",
-  "https://www.mydaily.co.kr/page/view/2026080411291042951",
-  "http://www.metroseoul.co.kr/article/20260804500170",
-  "http://www.4th.kr/news/articleView.html?idxno=2115767",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1097772",
   "http://weekly.chosun.com/news/articleView.html?idxno=54017",
   "https://www.mk.co.kr/article/12116173",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265317",
@@ -2999,15 +2993,15 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689972",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=356965",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608031514415800108356",
-  "https://www.slist.kr/news/articleView.html?idxno=756572"
+  "https://www.slist.kr/news/articleView.html?idxno=756572",
+  "https://www.tokenpost.kr/news/economy/384705",
+  "https://www.sisajournal.com/news/articleView.html?idxno=382124",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719129",
+  "https://www.newsis.com/view/NISX20260805_0003736674",
+  "https://view.asiae.co.kr/article/2026080508225147616",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428639"
  ],
  "seen_titles": [
-  "8월물가비상...\"통신할인기저효과물가0.6%p높일듯\"",
-  "카페24,마케팅플레이북2026개최",
-  "[유통레이더]bhc,강남역에첫플래그십스토어오픈…‘올데이치킨’...",
-  "SK하이닉스,HBF첫표준규격공개…'포스트HBM'판깔았다",
-  "카카오카나나-오,말투·감정까지조절하는음성생성고도화",
-  "시흥시·서울대학교'청소년SEED캠프'개막…초중고생330명진로탐색...",
   "코스닥급등에또사이드카…3거래일연속발동",
   "SKT,갤럭시Z폴드8개통시작…“사전예약2040비중65%”",
   "\"AI시대보안이성장동력\"LG유플러스,MDR기업품었다",
@@ -6001,7 +5995,13 @@
   "나루씨큐리티,KISA'지역침해사고피해기업탐지및취약점진단'사업...",
   "LG유플러스,보안기업파고네트웍스인수…'보안중심성장'",
   "[더벨]SK실트론,'2조5000억규모'인수금융논의재개",
-  "kt밀리의서재,9.81파크제주서'제주에온밀리'운영"
+  "kt밀리의서재,9.81파크제주서'제주에온밀리'운영",
+  "[특징주]SK텔레콤,AIDC국가전략핵심부각에11%대강세",
+  "SK실트론인수하며반도체날개단두산…최태원'재산분할열쇠'도품...",
+  "[EBN데이터센터]미증시,기술주강세에일제히상승마감...나스닥2....",
+  "뉴욕증시훈풍에AI강세…삼전닉스프리마켓서4~6%급등",
+  "스페이스X,상장후첫성적표…매출92%급증에도AI투자부담에주가...",
+  "LG유플러스,조용한성장…2Q영업익4%증가전망"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,13 @@
   [
    "2026-08-05T08:24:18.783597+09:00",
    "운영 ~KT 제주에 제주서 81파크 밀리 밀리의서재"
+  ],
+  [
+   "2026-08-05T08:26:23.932904+09:00",
+   "~LGU 성장 조용한 증가 영업익 2Q 전망 LG유플러스"
   ]
  ],
- "last_run": "2026-08-05T08:24:40.432839+09:00",
+ "last_run": "2026-08-05T08:26:49.623713+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
