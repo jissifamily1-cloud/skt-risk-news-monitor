@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260803121100008?input=1195m",
-  "http://www.inews24.com/view/1991421",
-  "https://www.electimes.com/news/articleView.html?idxno=370920",
-  "https://www.kado.net/news/articleView.html?idxno=2064506",
-  "https://www.etnews.com/20260803000367",
-  "https://www.newsis.com/view/NISX20260803_0003734517",
-  "https://sports.khan.co.kr/article/202608031607003?pt=nv",
-  "https://www.news1.kr/world/northeast-asia/6247663",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607301457171640105451",
-  "https://www.sidae.com/article/2026080315573615995",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=273895",
   "https://www.itdaily.kr/news/articleView.html?idxno=240715",
   "https://www.ajunews.com/view/20260730165043995",
@@ -2999,19 +2989,19 @@
   "https://news.tf.co.kr/read/economy/2350312.htm",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=269047",
   "https://www.gukjenews.com/news/articleView.html?idxno=3655169",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269052"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=269052",
+  "https://biz.sbs.co.kr/article_hub/20000326506?division=NAVER",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=301183",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=222973",
+  "https://www.munhwa.com/article/11606398",
+  "https://view.asiae.co.kr/article/2026073111504362142",
+  "https://www.dailian.co.kr/news/view/1673131/?sc=Naver",
+  "https://www.tokenpost.kr/news/blockchain/384730",
+  "https://biz.sbs.co.kr/article_hub/20000326508?division=NAVER",
+  "https://www.munhwa.com/article/11607102",
+  "https://www.catchnews.kr/news/articleView.html?idxno=126917"
  ],
  "seen_titles": [
-  "김제시,60여양식장폭염대비점검돌입…보호대책마련",
-  "제네릭넘어신약·플랫폼으로…전통제약사성장전략진화",
-  "역대급폭등했던코스피,5%급락6,200대…코스닥은상승(종합)",
-  "헬로모바일,KT·SKT망'휴대폰소액결제'종료⋯왜?",
-  "지엔씨에너지,창사이래최대규모수주계약달성...KT에755억원규모...",
-  "국가AI컴퓨팅센터첫삽…전남해남에2조5000억원투입",
-  "해남서국가AI컴퓨팅센터착공…AI3대강국향한국가전략본격시동",
-  "동작구어르신노래·춤겨룬다…'동작스타노래자랑'개최",
-  "페덱무너진뒤보스너마저…삼성의선두경쟁시나리오어떡하나",
-  "알리바바,2.4조매개변수AI신모델공개…\"키미K3근접\"",
   "[더벨]한화운용신임대표,임동준전략사업유닛장내정",
   "평택시,노인요양시설에'AI위험징후포착시스템'도입",
   "삼성SDS2분기매출3.7조돌파...클라우드·AI가실적견인",
@@ -6001,7 +5991,17 @@
   "한은\"8월물가,통신요금기저효과에7월보다높아질것\"",
   "\"1분에140대,7일간144만대\"…삼성전자갤럭시Z,사전판매기록7년만...",
   "한은\"핵심물가오름세지속…8월엔통신비기저효과로상승할듯\"",
-  "삼성자산운용,CPU반도체ETF출시…AI투자무게중심'쿵'"
+  "삼성자산운용,CPU반도체ETF출시…AI투자무게중심'쿵'",
+  "휘발유,경유꺾이자석달만에물가2.8%대",
+  "자이C&A,데이터센터에너지효율·기술경쟁력축적",
+  "잡코리아,'흐레카26'개최…AI시대HR전략공유",
+  "알뜰폰에도‘데이터무제한’저가요금제공급",
+  "\"알뜰폰인터넷안끊기게\"활성화방안에\"시장진흥기대\"(종합)",
+  "알뜰폰업계\"정부활성화대책환영…요금경쟁력·혁신기반마련\"",
+  "AI에이전트실제인프라접근,권한통제시험대",
+  "SKT5G과장광고과징금,대법원간다",
+  "LG유플러스,파고네트웍스인수…AI확산속전사적보안역량강화",
+  "\"양자컴퓨터해킹위협막는다\"KB국민은행,키페어와'맞손'"
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,17 @@
   [
    "2026-08-04T11:52:25.049721+09:00",
    "매수 기관 혼조세 코스닥 코스피 매도에 사이드카"
+  ],
+  [
+   "2026-08-04T11:58:23.949824+09:00",
+   "대법원 간다 5G 과징금 ~SKT 과장광고"
+  ],
+  [
+   "2026-08-04T11:58:23.949824+09:00",
+   "막는다 키페어와 해킹위협 양자컴퓨터 맞손 KB국민은행"
   ]
  ],
- "last_run": "2026-08-04T11:56:38.975919+09:00",
+ "last_run": "2026-08-04T11:58:50.717734+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
