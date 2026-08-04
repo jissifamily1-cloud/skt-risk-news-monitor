@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000326388?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000326387?division=NAVER",
-  "https://www.ekn.kr/web/view.php?key=20260804021489204",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008688657&plink=ORI&cooper=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627588",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=314121",
-  "https://www.tokenpost.kr/news/policy/384501",
-  "https://www.bloter.net/news/articleView.html?idxno=669896",
   "https://www.tokenpost.kr/news/cryptocurrency/384488",
   "https://www.hankyung.com/article/202608042845i",
   "https://www.thedailypost.kr/news/articleView.html?idxno=114904",
@@ -2999,17 +2991,17 @@
   "http://coinreaders.com/251029",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=854409",
   "https://www.epnc.co.kr/news/articleView.html?idxno=405145",
-  "https://www.etnews.com/20260804000159"
+  "https://www.etnews.com/20260804000159",
+  "https://www.donga.com/news/Sports/article/all/20260804/134419378/1",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=725626",
+  "https://www.asiatime.co.kr/article/20260804500161",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689805",
+  "https://www.mk.co.kr/article/12116362",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661880",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=854466",
+  "http://www.newstomato.com/ReadNews.aspx?no=1309183&inflow=N"
  ],
  "seen_titles": [
-  "[글로벌비즈브리핑]\"AI돈된다\"…아마존,시총3조달러클럽입성...",
-  "인공지능시대의초격차와대체불가전략[투데이窓/최연구]",
-  "백악관,첨단AI보안검증방안확정…AI기업들불러새틀짠다",
-  "中딥시크신모델,압도적가성비…\"클로드의105분의1\"",
-  "[패트롤]오산시-이천시-평택시-화성시",
-  "백악관,첨단AI보안검증방안확정…AI기업과비공개논의키로",
-  "백악관,첨단AI보안검증방안확정…기업과비공개논의",
-  "살빼고건강도챙기고…제약사들'건기식체지방시장'공략속도",
   "미니맥스H3,한국서공용라이선스적용제외",
   "아마존,시총3조달러첫돌파…'AI승자'재평가",
   "중국AI모델,허깅페이스다운로드41%차지",
@@ -6001,13 +5993,17 @@
   "비트코인반등하려면6만5,000달러회복해야…실패시5만달러도열려",
   "지니언스,상반기매출·영업익모두역대최대",
   "오픈AI,'게임빌더스서울'개최…코덱스로게임개발생태계확대",
-  "[김경환변호사의IT법]〈13〉클라우드해킹사고,'책임공유'를넘어..."
+  "[김경환변호사의IT법]〈13〉클라우드해킹사고,'책임공유'를넘어...",
+  "키움팬이여,‘알렉산더웅빈’을찬양하라![베이스볼비키니]",
+  "7월물가2%대복귀에도근원물가가속…한은,8월연속인상사수하나",
+  "[흔들린공공]전산오류부터하자·공실까지…GH,공공공급자격'시험대...",
+  "\"기업업무전부AI로대체못해\"…비용이가르는'자동화'현실",
+  "지니언스,AI보안수요타고상반기최대실적",
+  "LG유플러스,보안기업파고네트웍스인수",
+  "'알뜰폰'에밀린이통3사,하반기요금제로반격",
+  "중공업서AI·반도체로…두산‘체질개선’남은과제는"
  ],
  "recent_sigs": [
-  [
-   "2026-08-04T10:02:24.664366+09:00",
-   "상무보 ~KT 상근부회장에 디지털미디어산업진흥협회 이길욱 취임"
-  ],
   [
    "2026-08-04T10:06:18.250898+09:00",
    "주주환원 상장사 배당 상반기에 한국 강화 증가 정책"
@@ -6647,9 +6643,17 @@
   [
    "2026-08-04T16:02:19.416118+09:00",
    "공유 책임 사고 넘어 클라우드"
+  ],
+  [
+   "2026-08-04T16:04:23.022996+09:00",
+   "알뜰폰 하반기 반격 이통3사 밀린 요금제로"
+  ],
+  [
+   "2026-08-04T16:04:23.022996+09:00",
+   "중공업서 과제는 체질개선 남은 반도체로 두산"
   ]
  ],
- "last_run": "2026-08-04T16:02:40.024821+09:00",
+ "last_run": "2026-08-04T16:04:49.065972+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
