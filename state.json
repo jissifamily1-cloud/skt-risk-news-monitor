@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689280",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405087",
-  "https://byline.network/?p=9004111222613847",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689299",
-  "http://www.fnnews.com/news/202608031412204934",
-  "https://www.smartbizn.com/news/articleView.html?idxno=150169",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1718879",
-  "https://www.mt.co.kr/living/2026/08/03/2026080313324296187",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=46737",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244632",
-  "https://www.g-enews.com/view.php?ud=20260803140621605820ae620e86_1",
   "https://www.asiatime.co.kr/article/20260803500088",
   "https://www.e-science.co.kr/news/articleView.html?idxno=132840",
   "https://www.newspim.com/news/view/20260803000572",
@@ -2999,20 +2988,20 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20260804104832pzl",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1718874",
   "https://www.sedaily.com/article/20075445",
-  "https://www.news1.kr/finance/market-exr/6248400"
+  "https://www.news1.kr/finance/market-exr/6248400",
+  "https://mhnse.com/news/articleView.html?idxno=1477852",
+  "https://www.mediapen.com/news/view/1114162",
+  "https://isplus.com/article/view/isp202608040053",
+  "https://www.news1.kr/sports/baseball/6248428",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260804105029jdl",
+  "https://www.huffingtonpost.kr/article/259232",
+  "https://www.yna.co.kr/view/AKR20260804062400009?input=1195m",
+  "https://www.news2day.co.kr/article/20260803500129",
+  "https://www.g-enews.com/view.php?ud=202608041047515581153ddfb15a_1",
+  "https://www.cstimes.com/news/articleView.html?idxno=715653",
+  "http://www.metroseoul.co.kr/article/20260804500134"
  ],
  "seen_titles": [
-  "SKT,순천향대와'AI그림일기'로교육현장AX이끈다",
-  "KT,외국인인터넷할인프로그램내년1월까지운영",
-  "챗GPT광고주820곳돌파…오픈AI,10억이용자기반수익화속도",
-  "2분기클라우드매출1430억달러돌파...8년만에최고성장률",
-  "[미토스이후,취약점대응④]AI가찾은취약점,누가검증·조정하나",
-  "허깅페이스,美AI대신中AI로보안사고분석…의외선택에'발칵'",
-  "LIGD&A,미래전사이버방어선구축…日최고화이트해커기업과'맞손...",
-  "KT클라우드재합병검토하는KT박윤영,넘어야할과제는",
-  "[증권&Now]신한투자증권,국내금융사최초'AI에이전트부'신설",
-  "GS25'신선강화점'5년만에1000호점돌파…AI품고질적성장가속",
-  "HBM4전환기…삼성전자점유율,SK하이닉스앞지를까",
   "네이버,AI설비소유보다'운영'집중…글로벌컴퓨팅사업확대",
   "\"460만명개인정보털리고5천원퉁치나\"...서울시설공단'생색내기보...",
   "'산넘어산'롯데카드…영업정지에회복세고꾸라지나",
@@ -6001,7 +5990,18 @@
   "[코인시세]비트코인6만4천달러선약보합…규제불확실성부담",
   "[Gov&Now]방미통위,'2026방송대상'국민심사단모집",
   "LG유플러스,보안전문기업인수…‘시큐어AI’전략속도",
-  "\"쉽지않은반등\"삼전닉스3%대약세전환…코스피도1%대하락[장중시..."
+  "\"쉽지않은반등\"삼전닉스3%대약세전환…코스피도1%대하락[장중시...",
+  "\"대니엘ERA가너무높은것아닌가요?\"잘난척하다'참교육'제대로...",
+  "KBO리그7월MVP후보발표…선두KT소형준·스기모토·힐리어드3명,삼...",
+  "'굿바이,우승주장'황재균은퇴식,8일수원KT-롯데전서열린다",
+  "'KT창단첫우승주장'황재균,8일수원롯데전서은퇴식",
+  "KB증권,개인고객대상‘OpenAPI’서비스오픈",
+  "SK하이닉스샌디스크와고대역폭플래시HBF첫표준규격공개,AI차세대...",
+  "허깅페이스CEO\"중국이연말에최첨단AI마저지배해도안놀라\"",
+  "[재계인사이드]의심받는엔비디아와젠슨황,삼성전자는거리두기?",
+  "삼성운용,ARM·AMD·인텔담은'미국CPU반도체'ETF출시",
+  "[특징주]네이버,'AI팩토리'기대감에'급등'",
+  "[특징주]SK텔레콤,'독파모'2차평가돌입에14%강세"
  ],
  "recent_sigs": [
   [
@@ -6605,7 +6605,7 @@
    "장중시 않은 코스피도 약세 반등 삼전닉스 하락 쉽지"
   ]
  ],
- "last_run": "2026-08-04T10:50:48.596427+09:00",
+ "last_run": "2026-08-04T10:52:36.689144+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
