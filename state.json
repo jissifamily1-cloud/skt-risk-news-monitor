@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.namdonews.com/news/articleView.html?idxno=918974",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04854406645544040",
-  "https://isplus.com/article/view/isp202608040128",
-  "https://www.sidae.com/article/2026080413472597374",
-  "https://zdnet.co.kr/view/?no=20260804140818",
-  "https://www.tokenpost.kr/news/cryptocurrency/384815",
-  "https://www.todayeconomic.com/news/article.html?no=31597",
-  "http://www.fnnews.com/news/202608041414567085",
   "https://www.koreatimes.co.kr/path/A2026080412210001817",
   "https://www.sedaily.com/article/20075548",
   "https://news.dealsitetv.com/articles/174227",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/photos/8041640",
   "https://www.tjb.co.kr/news05/bodo/view/id/101998",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500068.html",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849420"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849420",
+  "https://www.banronbodo.com/news/articleView.html?idxno=32746",
+  "https://www.starnewskorea.com/sports/2026/08/05/2026080509462495114",
+  "https://www.yna.co.kr/view/AKR20260805025500009?input=1195m",
+  "https://www.sidae.com/article/2026080509361586197",
+  "https://www.g-enews.com/view.php?ud=202608050951054658fbbec65dfb_1",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03637526645544368",
+  "https://www.itbiznews.com/news/articleView.html?idxno=220973",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=119825"
  ],
  "seen_titles": [
-  "'호령존'김호령,7월CGV씬-스틸러상도전",
-  "LG트윈스,8월잠실구장잔여홈경기외야에‘워터존’운영",
-  "'잘나가네'1위KT,7월MVP후보에4명이나…두산마운드·삼성타격과...",
-  "새옷입은롯데노원점,서울동북권대표백화점노린다",
-  "엘리스그룹,B300최적화AI데이터센터구축한다…국내첫'온수냉각'...",
-  "438억달러보증나선구글,TPU금융경쟁확장",
-  "LG유플러스,갤럭시Z폴드8시리즈개통시작…예약고객67%폴드8선택",
-  "오픈AI,코딩에이전트'코덱스'활용한게임해커톤개최...컴투스후원",
   "OpenAItohold1stCodexgamedevelopmenteventinKorea",
   "삼성운용,ARM·AMD·인텔집중투자‘KODEX미국CPU반도체TOP10’상장",
   "대한민국'AI심장'이뛴다…해남AI컴퓨팅센터착공",
@@ -6001,7 +5993,15 @@
   "KT,홍대‘미니브X민트라온콜라보에디션’팝업",
   "\"韓,2031년까지'메모리최강'전망…엔비디아,HBM점유율완화\"",
   "\"주가반토막났는데\"…시총100위유한양행보다못한SK하닉주주환원...",
-  "[IT라운지]플로'나의애정도TOP3'·SDT-성우'MOU'·임영웅콘서트'카..."
+  "[IT라운지]플로'나의애정도TOP3'·SDT-성우'MOU'·임영웅콘서트'카...",
+  "[이달의신문광고]'혼자인적없었다'AI시대에도고객과함께미래...",
+  "[오피셜]'학생들도천만다행'37℃폭염속낮경기피했다!봉황대기...",
+  "\"시추에이셔널,약탈적공매도표적아니었다\"",
+  "6600선돌파코스피,'매수사이드카'발동…미반도체주상승영향",
+  "앤트로픽,100억달러연산자원확보",
+  "“해커가노리는자산먼저찾는다”…KISA,기업맞춤형사이버위협알...",
+  "SKT2분기실적발표…영업익5,660억원전년동기비67.3%증가",
+  "\"한국,2031년까지'메모리최강'유지...엔비디아HBM점유율올해58%\""
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,17 @@
   [
    "2026-08-05T10:00:45.074542+09:00",
    "애정도 플로 성우 콘서트 TOP3 SDT MOU 임영웅 나의"
+  ],
+  [
+   "2026-08-05T10:02:18.172553+09:00",
+   "미래 시대에도 함께 혼자인 고객과 없었다"
+  ],
+  [
+   "2026-08-05T10:02:18.172553+09:00",
+   "연산 달러 자원 100억 확보 앤트로픽"
   ]
  ],
- "last_run": "2026-08-05T10:01:13.458904+09:00",
+ "last_run": "2026-08-05T10:02:40.071475+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
