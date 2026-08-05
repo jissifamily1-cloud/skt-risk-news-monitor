@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190566",
-  "https://www.sportschosun.com/baseball/2026-08-04/202608040100023050001360",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4080240",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=308311",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2052329",
-  "http://www.fnnews.com/news/202608041727460380",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309227&inflow=N",
   "https://www.polinews.co.kr/news/articleView.html?idxno=739063",
   "https://www.newspim.com/news/view/20260804001380",
   "https://www.mydaily.co.kr/page/view/2026080417095182427",
@@ -2999,16 +2992,16 @@
   "https://www.ytn.co.kr/_ln/0102_202608051410418489",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=42865",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690175",
-  "http://www.joseilbo.com/news/news_read.php?uid=573301&class=17"
+  "http://www.joseilbo.com/news/news_read.php?uid=573301&class=17",
+  "https://www.busan.com/view/busan/view.php?code=2026080514083615365",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16155440",
+  "https://www.viva100.com/article/20260805500806",
+  "https://www.viva100.com/article/20260804500843",
+  "https://zdnet.co.kr/view/?no=20260804170334",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428764",
+  "https://www.newsis.com/view/NISX20260805_0003737488"
  ],
  "seen_titles": [
-  "[ETFNOW]삼성자산운용·한화자산운용·NH아문디자산운용",
-  "3억몸값가성비최강아쿼,충격의6-6-5실점...염경엽감독은\"휴식없...",
-  "GOODTV'더로드',포항의역사·신앙담아전국에알린다",
-  "[폭염]전국곳곳'이글이글'...온열질환자하루186명·사망2명",
-  "보이스피싱의심금융·통신·수사정보,'ASAP'통해본격적으로공유",
-  "AI금융,경쟁력은기술보다'책임'…학계\"책임공백부터메워야\"",
-  "다음,AI도입에도점유율2%…에이전트차별화가관건",
   "하나자산운용,국내증시긴급점검온라인세미나개최…변동성장세...",
   "오픈AI,3일게임해커톤개최...'리니지'아버지송재경개발자도참석",
   "3연속위닝상승세였는데,'패패패'한화왜흐름끊겼나…김경문감독...",
@@ -6001,13 +5994,16 @@
   "SKT,2분기영업이익5,660억원...67%↑",
   "최태원,HBM으로빅테크묶었다…5000억달러AI동맹SKT까지확장",
   "오픈AI,캄보디아사기단챗GPT악용사례적발…계정차단",
-  "머스크도엔비디아GPU확보전참전…“내년상당물량받는다”"
+  "머스크도엔비디아GPU확보전참전…“내년상당물량받는다”",
+  "폭염으로5~6일프로야구전경기취소",
+  "'폭염방학'2일간전면중단…PS판도·AG변수겹쳤다",
+  "네이버웹툰日라인망가,애니메이션구독서비스선봬",
+  "서강대수학과,복자여고와AI·빅데이터교육프로그램열어",
+  "노사갈등·오너리스크걷히는카카오…신사업시계빨라지나",
+  "캔터피츠제럴드\"SK하닉ADR주가1년내두배뛴다…AI수혜지속\"",
+  "'신약IP'노렸다…글로벌빅파마,잇달아해킹피해"
  ],
  "recent_sigs": [
-  [
-   "2026-08-05T08:16:18.217230+09:00",
-   "기지국 진출 기회 통신업체엔 하나증권 국내"
-  ],
   [
    "2026-08-05T08:18:23.119935+09:00",
    "주가 하락 3대 스페이스X 시간외 도전장에 지상망"
@@ -6599,9 +6595,13 @@
   [
    "2026-08-05T14:14:18.078105+09:00",
    "GPU 상당 참전 확보전 내년 받는다 물량 머스크도"
+  ],
+  [
+   "2026-08-05T14:16:22.926445+09:00",
+   "글로벌빅파마 피해 신약IP 노렸다 잇달아"
   ]
  ],
- "last_run": "2026-08-05T14:14:48.006543+09:00",
+ "last_run": "2026-08-05T14:16:40.773375+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
