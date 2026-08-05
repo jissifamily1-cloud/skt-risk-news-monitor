@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6460",
-  "https://www.newsis.com/view/NISX20260804_0003735831",
-  "https://www.tokenpost.kr/news/cryptocurrency/384890",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4098828",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=755451",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313771",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000054499",
-  "http://www.inews24.com/view/1991828",
   "https://www.huffingtonpost.kr/article/259258",
   "https://www.gukjenews.com/news/articleView.html?idxno=3655553",
   "http://www.updownnews.co.kr/news/articleView.html?idxno=318227",
@@ -2999,17 +2991,17 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1399053",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213568",
   "https://www.mt.co.kr/future/2026/08/05/2026080510121233374",
-  "http://www.breaknews.com/1226879"
+  "http://www.breaknews.com/1226879",
+  "https://isplus.com/article/view/isp202608050149",
+  "https://www.naeil.com/news/read/597743",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=832991",
+  "https://www.newspim.com/news/view/20260805000914",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456146",
+  "https://www.naeil.com/news/read/597751",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=594539",
+  "https://www.naeil.com/news/read/597752"
  ],
  "seen_titles": [
-  "홈플러스에롯데카드,오스템까지...MBK\"사면초가\"",
-  "역대급폭염에자율훈련…SSG이숭용감독\"경기에서집중력중요\"",
-  "오픈라우터,실제업무로AI모델고르는평가도구공개",
-  "우리은행,생성형AI결합'하이브리드상담봇'구축…음성·화면결합한...",
-  "빅테크뚫은팔란티어,AI생태계'절대강자'입지입증",
-  "삼성전자,2분기D램시장점유율39%로선두…SK하이닉스26%,마이크론...",
-  "롤러코스터탄코스피6300선탈환…코스닥은6%대폭등",
-  "SKT독파모개발총괄\"A.XK2,일하는AI로무게중심옮겨\"",
   "LG유플러스7년만에인수합병나서,파고네트웍스품고B2B보안사업키...",
   "[동정]추경호대구광역시장",
   "KB증권,개인투자자에도'오픈API'서비스...투자환경혁신",
@@ -6001,7 +5993,15 @@
   "[카드톡톡]숙박비는깎아주고폰값은돌려주고…카드사'여름씀씀이'...",
   "팔로알토\"오픈소스4000개에서1만4000개미공개취약점발견\"",
   "파이온,GEO'파이온사이트'기업실증…\"챗GPT속브랜드노출\"",
-  "SKT,올2분기영업익5660억원..전년대비67.3%↑"
+  "SKT,올2분기영업익5660억원..전년대비67.3%↑",
+  "[속보]사상첫프로야구전경기폭염취소...올시즌총10경기로늘어...",
+  "‘미니브X민트라온콜라보에디션’팝업",
+  "[오피셜]오늘-내일야구못봅니다→사상초유연이틀폭염취소…KBO...",
+  "[AI프리뷰]5일대구삼성-한화전,주춤한삼성분위기바꿔줘야하는페...",
+  "과기정보硏,AI·XR융합연구성과기술민간에이전",
+  "스페이스X,첫실적서매출92%급증",
+  "[기업家]SK그룹⑱ㅣ하이닉스신용등급'A등급대'도약…배터리·바이...",
+  "구글,2000억달러금융망으로앤스로픽지원"
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,17 @@
   [
    "2026-08-05T13:02:20.305170+09:00",
    "브랜드 파이온사이트 GEO 실증 챗GPT 파이온 노출 기업"
+  ],
+  [
+   "2026-08-05T13:06:16.401178+09:00",
+   "바이 배터리 도약 SK그룹 하이닉스 A등급대 신용등급"
+  ],
+  [
+   "2026-08-05T13:06:16.401178+09:00",
+   "2000억달러 금융망으로 지원 구글"
   ]
  ],
- "last_run": "2026-08-05T13:04:36.184660+09:00",
+ "last_run": "2026-08-05T13:06:43.262366+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
