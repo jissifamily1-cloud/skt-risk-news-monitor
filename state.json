@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20075583",
-  "https://hbnpress.com/news/view/1065594173125765",
-  "https://www.huffingtonpost.kr/article/259248",
-  "https://www.hankyung.com/article/202608044235g",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167269",
-  "https://biz.heraldcorp.com/article/10830602",
-  "https://www.sportsseoul.com/news/read/1626581",
-  "https://www.yna.co.kr/view/AKR20260804118100017?input=1195m",
-  "https://www.etoday.co.kr/news/view/2610898",
   "https://www.techm.kr/news/articleView.html?idxno=153977",
   "https://economist.co.kr/article/view/ecn202608040030",
   "https://www.seoulfn.com/news/articleView.html?idxno=634854",
@@ -2999,18 +2990,18 @@
   "http://www.fnnews.com/news/202608051050252078",
   "https://www.mt.co.kr/tech/2026/08/05/2026080510292065009",
   "https://www.datasom.co.kr/news/articleView.html?idxno=209372",
-  "https://www.betanews.net/article/view/beta202608050023"
+  "https://www.betanews.net/article/view/beta202608050023",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1010413",
+  "https://www.seoultimes.news/news/article.html?no=2000098495",
+  "https://biz.chosun.com/it-science/ict/2026/08/05/AFZNIQFDNRC3DMQHJJWI57YPCI/",
+  "https://www.yna.co.kr/view/AKR20260805038100009?input=1195m",
+  "https://www.segye.com/newsView/20260805509939?OutUrl=naver",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110134",
+  "https://www.tfmedia.co.kr/news/article.html?no=206253",
+  "http://www.kdfnews.com/news/articleView.html?idxno=186097",
+  "https://view.asiae.co.kr/article/2026080510041579879"
  ],
  "seen_titles": [
-  "하이퍼스케일러,올해지출90%증가...AI데이터증설영향",
-  "우리은행,생성형AI결합한상담챗봇구축착수",
-  "중동사막의AI데이터센터,이란미사일의표적이되다:미국의새로운...",
-  "\"삼성전자,SK하이닉스제치고1위굳혔다\"…놀라운반전",
-  "위메이드'컨퍼런스콜패싱'에불통논란",
-  "엔비디아·아마존도못피했다…전쟁표적된AI데이터센터",
-  "무더운여름,피서는‘잠실구장외야’에서!LG‘여름시즌외야워터...",
-  "네이버,남미서AI인프라협력확대…GPU·클라우드사업논의",
-  "네이버,브라질·칠레AI기업·정부와협력확대…남미공략속도",
   "놀유니버스는'글로벌',여기어때는'AI'...여행·숙소예약서비스경쟁...",
   "“동북권대표랜드마크노린다”…17개월새단장마친롯데백화점노원...",
   "[경기소식]이기형김포시장,'영유아발달통합지원체계'등",
@@ -6001,7 +5992,16 @@
   "코스피4%대오르며장중6600선돌파…반도체주가상승주도[fn오전시...",
   "코히어,한국·일본법인설립…아태지역소버린AI공략박차",
   "SK텔레콤,2분기영업이익전년比67.3%증가5660억원",
-  "SK텔레콤,2분기영업이익5660억원…전년대비67.3%증가"
+  "SK텔레콤,2분기영업이익5660억원…전년대비67.3%증가",
+  "NH투자증권,한국경제연구학회와'AI시대금융산업'세미나개최",
+  "CJ제일제당,프론티어랩스6기확정…260여개지원속스타트업4곳선...",
+  "AMD,2분기매출16조4500억원‘역대최대’…AI서버수요가실적견...",
+  "스페이스X,AI자본지출급증…잉여현금흐름마이너스",
+  "경과원,중소기업‘디지털방패’구축지원…최대480만원보조",
+  "SKT,2분기영업익67%↑…AIDC매출은1년새두배가까이",
+  "SKT,2분기영업이익전년比67.3%↑…유심교체기저효과등영향",
+  "SK텔레콤2분기영업이익5660억…전년동기대비67.3%↑",
+  "팔란티어30%폭등…공매도투자자하루만4조원손실"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-08-05T10:52:17.602181+09:00",
    "상승 ~SKT 영업이익 급증에"
+  ],
+  [
+   "2026-08-05T10:58:22.223445+09:00",
+   "공매도 하루만 팔란티어 폭등 4조원 투자자 손실"
   ]
  ],
- "last_run": "2026-08-05T10:56:35.841802+09:00",
+ "last_run": "2026-08-05T10:58:45.095424+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
