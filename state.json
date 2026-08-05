@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87530",
-  "https://www.ngonews.kr/news/articleView.html?idxno=234569",
-  "https://www.techm.kr/news/articleView.html?idxno=153917",
-  "https://www.mk.co.kr/article/12113533",
-  "https://biz.sbs.co.kr/article_hub/20000326531?division=NAVER",
-  "https://zdnet.co.kr/view/?no=20260804140653",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719062",
-  "https://www.ppss.kr/news/articleView.html?idxno=304137",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520766",
-  "https://www.m-i.kr/news/articleView.html?idxno=1398740",
   "https://biz.sbs.co.kr/article_hub/20000326532?division=NAVER",
   "https://www.ggilbo.com/news/articleView.html?idxno=1173098",
   "https://www.munhwa.com/article/11606938",
@@ -2999,19 +2989,19 @@
   "https://biz.chosun.com/it-science/ict/2026/08/05/5RQK7ICWVBEUJON36R4ZBJUW3I/",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500053.html",
   "https://www.dt.co.kr/article/12076622",
-  "https://www.ddaily.co.kr/page/view/2026080510164210285"
+  "https://www.ddaily.co.kr/page/view/2026080510164210285",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656107",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656105",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142604",
+  "https://www.kukinews.com/article/view/kuk202608050061",
+  "http://www.jeollailbo.com/news/articleView.html?idxno=806957",
+  "https://www.inthenews.co.kr/news/article.html?no=90182",
+  "https://www.sentv.co.kr/article/view/sentv202608050054",
+  "https://www.businessplus.kr/news/articleView.html?idxno=115073",
+  "https://www.wikitree.co.kr/articles/1150502",
+  "https://www.ddaily.co.kr/page/view/2026080510135711199"
  ],
  "seen_titles": [
-  "LG유플러스,갤Z폴드8시리즈개통시작…예약고객3명중2명'폴드8...",
-  "KT-연세의료원,의료데이터고도화·AI혁신추진",
-  "\"해킹여진여전\"...SKT·KT·LG유플러스,2분기실적전망은?",
-  "알뜰폰도데이터다써도안끊긴다…‘안심옵션’8월부터도매제공",
-  "[오후장체크포인트]코스피8월흐름은?",
-  "美,中로봇수입금지…\"韓,중장기반사이익기대\"",
-  "독파모2차평가진용완성…LG·SKT·업스테이지·모티프최종모델제...",
-  "국가대표AI4파전본격화...LG·SKT·업스테이지·모티프경쟁",
-  "이재용,상반기배당728억'1위'...상법개정후주주환원본격화",
-  "KT,연세의료원과맞손…의료데이터고도화",
   "[투자전략따라잡기]역대급실적에도…꺼지지않는'메모리고점론’",
   "[주식마감]'비만치료제'기대감에펩트론상한가...원익홀딩스,티엑...",
   "SK(주),주당1500원중간배당…최태원,약100억수령할듯",
@@ -6001,7 +5991,17 @@
   "온세미,2분기매출9%증가…AI데이터센터매출성장전망",
   "중국추격에AI판커졌다…삼성·SK,'포스트HBM'선점경쟁",
   "해킹기저효과에…SKT,2Q영업이익전년동기比67.3%↑",
-  "AMD라이젠AI헤일로,엔비디아제치고온디바이스에이전트성능34%↑"
+  "AMD라이젠AI헤일로,엔비디아제치고온디바이스에이전트성능34%↑",
+  "HPV백신무료확대…남성청소년도여름방학접종독려",
+  "영남이공대-경북교육청,일학습병행·직업교육활성화협약체결",
+  "바이야드,아이티센과'금토큰'등가치평가엔진개발...RWA시장확대...",
+  "‘유가급락·AI투자기대에외국인귀환’…코스피6600선회복시도",
+  "이대통령,샌프란AI동맹·자원외교확대",
+  "[20262분기실적]SKT,2분기영업이익67.3%↑…AIDC매출2배급증",
+  "AIDC매출급증…SKT,2분기영업익전년비67%증가",
+  "KT,홍대서'미니브X민트라온'팝업운영…IP협업콘텐츠확대",
+  "퍼플렉시티코멧,아마존접속금지명령항소심서뒤집혔다",
+  "방미통위,AI학습용방송영상데이터117만건개방"
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,17 @@
   [
    "2026-08-05T10:18:17.521469+09:00",
    "성능 라이젠 AMD 헤일로 온디바이스 에이전트 제치고"
+  ],
+  [
+   "2026-08-05T10:20:33.130715+09:00",
+   "코멧 항소심서 접속 뒤집혔다 금지명령 아마존"
+  ],
+  [
+   "2026-08-05T10:20:33.130715+09:00",
+   "학습용 117만건 방송영상 개방 데이터"
   ]
  ],
- "last_run": "2026-08-05T10:18:46.557346+09:00",
+ "last_run": "2026-08-05T10:20:59.509475+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
