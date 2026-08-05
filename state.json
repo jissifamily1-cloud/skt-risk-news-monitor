@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12076467",
-  "https://www.ppss.kr/news/articleView.html?idxno=304159",
-  "https://www.tokenpost.kr/news/blockchain/384865",
-  "https://www.mt.co.kr/policy/2026/08/04/2026080415400355960",
   "https://www.ppss.kr/news/articleView.html?idxno=304109",
   "https://www.kyeonggi.com/article/20260804580385",
   "https://dealsite.co.kr/articles/166522",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10831534",
   "http://www.fnnews.com/news/202608051030478252",
   "https://www.newsis.com/view/NISX20260805_0003737212",
-  "https://www.news1.kr/it-science/cc-newmedia/6249749"
+  "https://www.news1.kr/it-science/cc-newmedia/6249749",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142617",
+  "https://www.joongangenews.com/news/articleView.html?idxno=537841",
+  "https://www.newspim.com/news/view/20260805000570",
+  "http://www.newskr.kr/news/articleView.html?idxno=105353"
  ],
  "seen_titles": [
-  "브라질·칠레찾은팀네이버“남미AI인프라진출교두보확보”",
-  "네이버,남미AI인프라사업나선다...브라질·칠레기업과협력",
-  "클로드코드,웹커넥터터미널·API로확장",
-  "\"서울대서진로찾는다\"…시흥시'청소년SEED캠프'본격가동",
   "슈나이더일렉트릭,AI데이터센터'800VDC'전력전환제시",
   "MBK,홈플러스후폭풍계속…롯데카드중징계·오스템구조조정논란까...",
   "[IT는지금]카카오,카나나-오음성AI고도화外",
@@ -6001,7 +5997,11 @@
   "스페이스X첫호실적에도주가냉담…보호예수물량해제부담",
   "대성하이텍,AIDC냉각부품양산확대\"베트남생산라인풀가동임박\"",
   "美미네소타수도시설30여곳해킹…이란배후설에트럼프는주정부탓",
-  "\"제2의뉴토끼끝까지쫓는다\"…방미심위,텔레그램과공조"
+  "\"제2의뉴토끼끝까지쫓는다\"…방미심위,텔레그램과공조",
+  "'AI백화점'시대열린다…생성형AI경쟁본격화",
+  "\"책임공백막아라\"…NH투자증권,AI금융정책세미나",
+  "옵션광풍이끌어올린랠리…\"강세장이면에과열경고등\"",
+  "성과급줬다고배임…삼전닉스대표수사"
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,13 @@
   [
    "2026-08-05T11:22:17.263249+09:00",
    "방미심위 텔레그램과 쫓는다 공조 뉴토끼 끝까지 제2의"
+  ],
+  [
+   "2026-08-05T11:24:22.870397+09:00",
+   "삼전닉스 줬다고 성과급 배임 수사 대표"
   ]
  ],
- "last_run": "2026-08-05T11:22:41.245246+09:00",
+ "last_run": "2026-08-05T11:24:46.088438+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
