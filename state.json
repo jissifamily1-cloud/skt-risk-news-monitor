@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3655363",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=417909",
-  "https://www.etnews.com/20260804000266",
-  "http://www.domin.co.kr/news/articleView.html?idxno=1564105",
-  "https://www.livebiz.today/news/articleView.html?idxno=203830",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661839",
-  "https://www.starnewskorea.com/sports/2026/08/04/2026080414592078725",
-  "https://www.khan.co.kr/article/202608041519001",
   "http://www.srtimes.kr/news/articleView.html?idxno=209086",
   "https://www.newsis.com/view/NISX20260804_0003736020",
   "https://www.gosiweek.com/article/1065593821349708",
@@ -2999,17 +2991,17 @@
   "https://www.junggi.co.kr/news/articleView.html?idxno=37350",
   "http://www.fnnews.com/news/202608051026318075",
   "https://www.news1.kr/it-science/cc-newmedia/6249696",
-  "https://www.mt.co.kr/stock/2026/08/05/2026080510350251443"
+  "https://www.mt.co.kr/stock/2026/08/05/2026080510350251443",
+  "https://sports.khan.co.kr/article/202608051046003?pt=nv",
+  "https://isplus.com/article/view/isp202608050049",
+  "http://www.finomy.com/news/articleView.html?idxno=258605",
+  "https://www.ekn.kr/web/view.php?key=20260805020399351",
+  "https://www.news1.kr/it-science/security-hacking/6249678",
+  "https://www.khan.co.kr/article/202608051048001",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000543485",
+  "https://www.g-enews.com/view.php?ud=202608051038544802e250e8e188_1"
  ],
  "seen_titles": [
-  "겨울잠깬제주한라산박쥐…포근한밤이면사냥나선다",
-  "수자원공사,경북스타트업물기술실증·사업화지원",
-  "[ICT시사용어]오픈웨이트",
-  "해외반도체시장탐구③미국,설계강자가공장을다시짓는이유",
-  "bhc,K-치킨성지강남에플래그십스토어오픈",
-  "KT,갤럭시Z8사전개통…예약절반이상이'폴드8'",
-  "'폭염취소유불리에촉각'KIA,김도영·박재현AG나가는데3G나못치...",
-  "혼자라고느낄때언제,어디서든상담하세요···인천에‘24시간외로...",
   "팀네이버,브라질·칠레서AI인프라협력논의…남미시장진출모색",
   "수공-경북창조경제혁신센터,창업생태계활성화'맞손'",
   "스칼라스비스타청주테크노센터,8월25·27일설명회개최",
@@ -6001,7 +5993,15 @@
   "SKT,2분기당기순이익6.63%↓",
   "KT,홍대서컬래버굿즈'미니브X민트라온'팝업스토어연다",
   "KT,홍대서'미니브X민트라온'팝업운영…16일까지",
-  "젠슨황찜한'CPO'세계1위…성호전자ADS테크,美서235억원수주'전..."
+  "젠슨황찜한'CPO'세계1위…성호전자ADS테크,美서235억원수주'전...",
+  "소형준·카스트로,7월‘쉘힐릭스플레이어’선정",
+  "'월간타율0.405'KIA카스트로,7월쉘힐릭스플레이어선정...투수부문...",
+  "코스피,美증시훈풍에3%대급등···6600선회복",
+  "[조현상의HS효성③]HS효성인포메이션시스템,“AI인프라사업확장…...",
+  "KISA,기업별사이버위협골라알려준다…맞춤형서비스시범운영",
+  "SKT2분기영업이익전년대비67%증가…AI데이터센터매출2배로",
+  "방미통위,방송영상데이터117만건무료로개방",
+  "스페이스X,궤도데이터센터위성핵심부품에엔비디아루빈채택"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-08-05T10:48:17.569563+09:00",
    "CPO 235억원 찜한 젠슨 1위 ADS테크 수주 세계 성호전자"
+  ],
+  [
+   "2026-08-05T10:50:33.762793+09:00",
+   "채택 위성 데이터 루빈 센터 핵심 스페이스X 부품에 궤도"
   ]
  ],
- "last_run": "2026-08-05T10:48:40.780378+09:00",
+ "last_run": "2026-08-05T10:50:51.941827+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
