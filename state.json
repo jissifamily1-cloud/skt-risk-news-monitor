@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244639",
-  "https://www.etoday.co.kr/news/view/2610461",
-  "https://www.nytimes.com/es/2026/08/03/espanol/negocios/siri-ia-prompts.html?partner=naver",
-  "https://byline.network/?p=9004111222613965",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405087",
-  "https://www.econotimes.com/Alibaba-Stock-Jumps-as-Qwen-38-MAX-AI-Model-Intensifies-Chinas-AI-Race-1748405",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=83980",
-  "https://www.ngonews.kr/news/articleView.html?idxno=234422",
   "https://www.wikitree.co.kr/articles/1150003",
   "http://www.incheonnews.com/news/articleView.html?idxno=438850",
   "https://www.tokenpost.kr/news/breaking/384066",
@@ -2999,17 +2991,17 @@
   "http://www.inews24.com/view/1992289",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690261",
   "https://daily.hankooki.com/news/articleView.html?idxno=1393121",
-  "https://www.etnews.com/20260805000362"
+  "https://www.etnews.com/20260805000362",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2292813",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656732",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656727",
+  "https://zdnet.co.kr/view/?no=20260805172252",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05690806645544368",
+  "https://www.g-enews.com/view.php?ud=20260805172302768235e857d010_1",
+  "https://www.techm.kr/news/articleView.html?idxno=154033",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=62167"
  ],
  "seen_titles": [
-  "'M7은죽었다'…AI투자새주도주는망고스?",
-  "오픈AI\"질문에서실행으로\"…10억이용자넘어에이전트경쟁본격화",
-  "SiritieneunnuevocerebrodeIA.Usaestas5instruccionesparaprobar",
-  "LGAI연구원,‘K-엑사원2.0’공개…750B모델·10개언어지원",
-  "2분기클라우드매출1430억달러돌파...8년만에최고성장률",
-  "AlibabaStockJumpsasQwen3.8-MAXAIModelIntensifiesChina'sAIRac",
-  "모션컨트롤,EtherCAT중심재편…실시간네트워크가장비성능가른다",
-  "\"통제벗어난AI,현실이된경고\"…경실련\"OpenAI사태계기안전규제...",
   "UKGI,부주의로공무원51명정보40시간노출됐다",
   "[특별기고]AI는무료가아니다…서울대가알린'AI인프라전쟁'",
   "바이낸스,TST토큰배포논란해명…오픈AIIPO내년연기거론",
@@ -6001,13 +5993,17 @@
   "[컨콜]SKT\"5GW수요불확실성우려'인지'⋯여러옵션고민단계\"",
   "SKT,AI인프라성장에2분기실적방긋…영업익67%↑",
   "[컨콜종합]SKT\"대한민국대표AI인프라사업자로진화할것\"",
-  "“韓,향후5년메모리최강국유지…엔비디아,HBM독주흔들”"
+  "“韓,향후5년메모리최강국유지…엔비디아,HBM독주흔들”",
+  "[사설]기록적폭염,실효적시민건강안전대책필요",
+  "[동정]김정기대구광역시행정부시장",
+  "[동정]추경호대구광역시장",
+  "조원철법제처장\"AI기반법제행정혁신추진\"...법령비서·AI검색고도...",
+  "AMD호실적에웃는K-메모리…삼성·SK'AI훈풍'탄다",
+  "[글로벌이코노믹사설]반도체슈퍼사이클,정점지났나",
+  "SKT\"AIDC'선수요후구축\"'...재무악화·공급과잉우려'일축'(종합)",
+  "SKT,2분기영업익67.3%급증…AI데이터센터92.5%성장견인"
  ],
  "recent_sigs": [
-  [
-   "2026-08-05T11:28:19.832626+09:00",
-   "알지에이로보틱스 프로그램 스타트업 지원 선정 인셉션"
-  ],
   [
    "2026-08-05T11:34:22.133624+09:00",
    "시설 배후 의심 보고 이란 상하수도"
@@ -6555,9 +6551,13 @@
   [
    "2026-08-05T17:28:18.074180+09:00",
    "최강국 독주 5년 HBM 흔들 향후 메모리 유지"
+  ],
+  [
+   "2026-08-05T17:30:36.308769+09:00",
+   "~SKT 일축 공급 과잉 우려 AIDC 재무 악화 후구축 선수요"
   ]
  ],
- "last_run": "2026-08-05T17:28:45.607379+09:00",
+ "last_run": "2026-08-05T17:30:55.497439+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
