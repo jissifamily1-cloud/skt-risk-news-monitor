@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050914484580810",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03352166645544368",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690016",
   "http://www.00news.co.kr/news/articleView.html?idxno=105641",
   "https://www.mt.co.kr/stock/2026/08/05/2026080509063486538",
   "https://www.namdonews.com/news/articleView.html?idxno=919075",
@@ -2999,12 +2996,12 @@
   "https://platum.kr/archives/292036",
   "https://www.kukinews.com/article/view/kuk202608060010",
   "http://www.fnnews.com/news/202608050901275375",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849530"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849530",
+  "https://www.g-enews.com/view.php?ud=202608012228546318906806b77b_1",
+  "https://kpenews.com/View.aspx?No=4176186",
+  "http://www.tvdaily.co.kr/read.php3?aid=17859722471796603002"
  ],
  "seen_titles": [
-  "증권가\"밸류에이션매력높아\"…엠케이전자17%↑[특징주]",
-  "앤트로픽,스타트업볼타에100억달러베팅…'AI전쟁'승부수는엔비디...",
-  "[김현철의美증시]S&P500·다우사상최고치경신",
   "팔란티어실적에AI수익성불안'뚝'…전선주,동반강세",
   "[주식시황]삼성전자·SK하이닉스급등…미국반도체주강세에동반상승",
   "중동안보불안에국가시설보안부각…카티스,AI·양자보안기술주목",
@@ -6001,7 +5998,10 @@
   "이녹스·경기혁신센터,AI스타트업2곳에투자",
   "뉴욕증시혼조…다우또최고치,AI기술주는‘숨고르기’",
   "'경선탈락'고민정에文\"맷집이제법생겨…도전자체가큰의미\"위로",
-  "SK텔레콤,이젠'AI인프라'기업…증권가\"데이터센터가성장이끈다\""
+  "SK텔레콤,이젠'AI인프라'기업…증권가\"데이터센터가성장이끈다\"",
+  "[김대호인물]아센브레너(Aschenbrenner)\"레버리지끝내파산\"",
+  "LG유플러스,공공계정관리시장공략..‘알파키’IDaaS최초CSAP인증",
+  "이준혁SNS해킹피해…\"메시지확인·링크클릭말아달라\""
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,17 @@
   [
    "2026-08-06T08:26:18.561701+09:00",
    "데이터센터가 증권가 ~SKT 인프라 이끈다 기업 성장 이젠"
+  ],
+  [
+   "2026-08-06T08:28:15.334878+09:00",
+   "시장 알파키 ~LGU 인증 계정관리 CSAP LG유플러스 공략 공공 IDaaS"
+  ],
+  [
+   "2026-08-06T08:28:15.334878+09:00",
+   "말아달라 확인 메시지 링크 SNS 피해 이준혁 클릭"
   ]
  ],
- "last_run": "2026-08-06T08:26:35.974655+09:00",
+ "last_run": "2026-08-06T08:28:45.169071+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
