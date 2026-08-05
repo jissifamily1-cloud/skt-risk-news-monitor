@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10830625",
-  "https://www.goodnews1.com/news/articleView.html?idxno=462728",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=205303",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=308288",
-  "https://www.newsis.com/view/NISX20260804_0003736103",
-  "http://www.kdfnews.com/news/articleView.html?idxno=186067",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=205271",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=5486",
   "https://www.slist.kr/news/articleView.html?idxno=756451",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=205299",
   "https://www.mhj21.com/news/articleView.html?idxno=253493",
@@ -2999,17 +2991,17 @@
   "https://www.theguru.co.kr/news/article.html?no=105385",
   "https://www.gokorea.kr/news/articleView.html?idxno=874181",
   "https://www.gokorea.kr/news/articleView.html?idxno=874182",
-  "http://www.dailypop.kr/news/articleView.html?idxno=101263"
+  "http://www.dailypop.kr/news/articleView.html?idxno=101263",
+  "http://www.inews24.com/view/1992070",
+  "https://www.inthenews.co.kr/news/article.html?no=90191",
+  "https://www.ekn.kr/web/view.php?key=20260805022009656",
+  "http://www.fnnews.com/news/202608050938341057",
+  "https://www.sedaily.com/article/20075955",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=223126",
+  "https://www.tokenpost.kr/news/economy/385456",
+  "https://www.news2day.co.kr/article/20260805500129"
  ],
  "seen_titles": [
-  "은행권,보이스피싱탐지에통신·수사정보도활용한다",
-  "보이스피싱의심정보공유빨라져…정보주체동의없이가능",
-  "KB증권,개인투자자대상'OpenAPI'서비스확대",
-  "삼성전자,2분기D램점유율39%선두유지…마이크론,SK하이닉스1%p차...",
-  "美반도체강세…삼성전자0.2%↑·SK하이닉스0.6%↑[핫스탁](종합)",
-  "SKT,갤럭시Z폴더블8개통시작…2040비중65%로젊은층유입확대",
-  "LG유플러스,MDR전문기업파고네트웍스인수...기업보안사업강화",
-  "보안사업포석넓힌LG유플러스…\"MDR\"시장공략",
   "'kt캡틴'황재균,8일롯데전서은퇴식...가족이시구·시타",
   "KT,연세의료원과의료AI데이터생태계구축맞손",
   "LGU+,보안전문기업인수…\"내부보안역량강화\"",
@@ -6001,7 +5993,15 @@
   "일본키옥시아,GPU연동AISSD'GP1시리즈'공개…HBM한계극복",
   "삼성전자·SK하이닉스,주식시장상승세…반도체업종기대감↑",
   "SK텔레콤,AI데이터센터덕에실적급상승…영업이익67.3%증가",
-  "LG유플러스,B2B'보안내재화'와B2C'알닷락인'으로구조개편"
+  "LG유플러스,B2B'보안내재화'와B2C'알닷락인'으로구조개편",
+  "中미니맥스,최신영상AI모델'H3'韓·美·EU사용제한",
+  "CJ제일제당,‘프론티어랩스’6기선발완료…스타트업4개사육성",
+  "S&P500신고가찍은날…‘빅쇼트’버리“폭락장온다”경고[머니+]",
+  "해킹터널지난SKT,AIDC'날개'...영업익67%급증",
+  "LG유플러스,알뜰폰전용‘알닷클럽’론칭...생활밀착형혜택풍성",
+  "LG유플러스,알뜰폰고객전용'알닷클럽'출시…장기이용자혜택확대",
+  "[특징주]SK텔레콤,AI데이터센터급성장에실적호조…장중5%대강세",
+  "쿠팡,역대최대영업손실에도…서비스확대·장기성장바라본다(종합..."
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,21 @@
   [
    "2026-08-05T11:08:22.629895+09:00",
    "보안 구조 락인 내재화 LG유플러스 ~LGU B2C 알닷 B2B 개편"
+  ],
+  [
+   "2026-08-05T11:10:33.537752+09:00",
+   "터널 ~SKT DC 지난 급증 날개 영업익"
+  ],
+  [
+   "2026-08-05T11:10:33.537752+09:00",
+   "호조 데이터센터 강세 ~SKT 실적 급성장에 장중"
+  ],
+  [
+   "2026-08-05T11:10:33.537752+09:00",
+   "쿠팡 서비스 장기 역대 영업손실에도 성장 바라본다 확대"
   ]
  ],
- "last_run": "2026-08-05T11:08:46.429065+09:00",
+ "last_run": "2026-08-05T11:11:01.807714+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
