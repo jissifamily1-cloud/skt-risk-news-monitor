@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/market-exr/6248924",
-  "https://zdnet.co.kr/view/?no=20260804154027",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251634",
   "https://www.inthenews.co.kr/news/article.html?no=90159",
   "https://www.epnc.co.kr/news/articleView.html?idxno=405147",
   "https://weeklytrade.co.kr/news/view.html?no=100896",
@@ -2999,12 +2996,12 @@
   "http://www.segyebiz.com/newsView/20260805511632?OutUrl=naver",
   "http://www.4th.kr/news/articleView.html?idxno=2115799",
   "https://sports.hankooki.com/news/articleView.html?idxno=6937516",
-  "https://www.m-economynews.com/news/article.html?no=69444"
+  "https://www.m-economynews.com/news/article.html?no=69444",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=82818",
+  "https://www.biotimes.co.kr/news/articleView.html?idxno=33615",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=788970"
  ],
  "seen_titles": [
-  "'삼전닉스주춤'코스피,순환매로선방…코스닥5%대급등[시황종합]",
-  "LCK3라운드2주차개막…2연패한화생명e스포츠,젠지·T1과연전",
-  "'정유경회장특명'…이승민대표,신세계百뷰티사업새판짠다",
   "네이버,남미서AI신사업발굴…현지AI기업과잇단회동",
   "카카오,'카나나-오'음성생성기술고도화…자연어로말투·감정까지...",
   "‘글로벌1위’두봇,한국지사설립추진…다보링크와손잡고휴머노...",
@@ -6001,7 +5998,10 @@
   "한국자동차환경협회,미래차충전인프라전문인력양성교육성과…179명...",
   "[현장]\"AI,기존시스템대체아닌보완\"..코히어,LGCNS와한국공략",
   "'개보위과징금'발목잡힌쿠팡,상장후최대분기적자",
-  "국내방송영상이미지·배경등데이터117만건개방...AI연구활용본..."
+  "국내방송영상이미지·배경등데이터117만건개방...AI연구활용본...",
+  "CJ제일제당,'프론티어랩스'6기선발…푸드테크스타트업4곳육성",
+  "메디스비,서울시바이오·의료기술사업화지원사업선정…로봇재활...",
+  "[위클리오늘]이동통신소식_LG유플러스,KT,SK텔레콤(8.5)"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,13 @@
   [
    "2026-08-05T11:51:38.866500+09:00",
    "대원전선 두산에너빌리 GS건설 금호타이어 외국인 기관"
+  ],
+  [
+   "2026-08-05T11:56:24.274408+09:00",
+   "이동통신 소식 ~KT ~SKT LG유플러스 ~LGU"
   ]
  ],
- "last_run": "2026-08-05T11:54:34.366425+09:00",
+ "last_run": "2026-08-05T11:56:49.030304+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
