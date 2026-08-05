@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2611095",
-  "http://www.thebigdata.co.kr/view.php?ud=2026080415313120840a47484cf8_23",
-  "http://www.newsprime.co.kr/news/article.html?no=742709",
-  "https://www.ytn.co.kr/_ln/0104_202608050900201696",
-  "http://www.dailyesports.com/view.php?ud=20260805085801132174bcc1e038_27",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=832903",
-  "https://www.nc.press/news/articleView.html?idxno=622663",
   "https://www.mk.co.kr/article/12117317",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690000",
   "https://www.hellot.net/news/article.html?no=114166",
@@ -2999,16 +2992,16 @@
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02555126645544696",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=244461",
   "https://view.asiae.co.kr/article/2026080517060927881",
-  "https://biz.sbs.co.kr/article_hub/20000326940?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000326940?division=NAVER",
+  "https://dealsite.co.kr/articles/166496",
+  "https://www.yna.co.kr/view/AKR20260806013000009?input=1195m",
+  "https://www.newspim.com/news/view/20260805001434",
+  "https://biz.sbs.co.kr/article_hub/20000326950?division=NAVER",
+  "https://www.etoday.co.kr/news/view/2611516",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005895150",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142657"
  ],
  "seen_titles": [
-  "LG유플러스,알뜰폰전용혜택'알닷클럽'론칭…고객지속혜택체감",
-  "가입자잃은KT,하반기회복시동…보상종료·신작효과주목",
-  "[숏폼]최태원매수뒤퍼진'하이닉스36조배당지라시'진실은?",
-  "'엔비디아대항마'AMD분기매출115억4천만달러...1년전보다50%↑",
-  "LCK3R'2전전승'KT-디플기아,상승세이어갈까",
-  "'K팝기획자'나상천,북콘서트5일개최⋯'점심한시간의일탈'콘셉트",
-  "나상천작가,'어느멋진도망'북콘서트개최…도심속'힐링일탈'",
   "중국‘키미쇼크’이어...딥시크·알리바바도새모델내놔",
   "팔로알토네트웍스\"AI로취약점바로악용,,,버추얼패칭이답이다\"",
   "AI로연결되는산업생태계…‘2026산업AIEXPO’10월킨텍스개최",
@@ -6001,7 +5994,14 @@
   "시타델등월가대형헤지펀드,사이버공격표적",
   "[안전상황실·6일]고성대진항어구보관창고화재진화…인명피해없...",
   "AMD,서버CPU매출5분기연속최고…\"성장은증명,해자는숙제\"[클릭...",
-  "[마켓브리핑]기업실적따라종목별차별화…기술주흐름부진"
+  "[마켓브리핑]기업실적따라종목별차별화…기술주흐름부진",
+  "지분협상여지열어둔두산…최태원재산분할금부담더나",
+  "메타,첫AI코딩에이전트공개…\"성능아닌가격으로경쟁\"",
+  "\"곤드레도AI로판다\"…성신여대,영월소상공인디지털전환나선다",
+  "美자산운용사\"스페이스X5년뒤전망훨씬밝아\"",
+  "뉴욕증시,호르무즈재개방기대에도숨고르기…나스닥0.83%↓[종합]",
+  "증시오늘'핫이슈'…\"뉴욕증시,호르무즈재개방기대속혼조마감\"",
+  "[오늘의글로벌마켓]뉴욕증시,혼조마감...차익실현에나스닥은0.8%하..."
  ],
  "recent_sigs": [
   [
@@ -6225,7 +6225,7 @@
    "삼성 이재용 SK 1위 경쟁력 브랜드 LG 구광모"
   ]
  ],
- "last_run": "2026-08-06T07:18:37.415879+09:00",
+ "last_run": "2026-08-06T07:20:52.689062+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
