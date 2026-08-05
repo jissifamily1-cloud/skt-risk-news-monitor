@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80273",
-  "https://news.jtbc.co.kr/article/NB12311423?influxDiv=NAVER",
-  "https://www.sisaweek.com/news/articleView.html?idxno=237035",
-  "http://www.inews24.com/view/1991228",
-  "https://www.hani.co.kr/arti/economy/it/1271115.html",
-  "https://biz.heraldcorp.com/article/10828916",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93168",
   "https://biz.chosun.com/it-science/ict/2026/08/03/IBM3ILIFYVEIRCEUOYOKG2BWUY/",
   "https://view.asiae.co.kr/article/2026080219444437473",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/03/2026080390069.html",
@@ -2999,16 +2992,16 @@
   "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90441",
   "https://www.hankookilbo.com/news/article/A2026080516590004870?did=NA",
   "https://daily.hankooki.com/news/articleView.html?idxno=1393129",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90430"
+  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90430",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=205438",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656733",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=205428",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=105013",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661925",
+  "https://www.dt.co.kr/article/12076772",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167403"
  ],
  "seen_titles": [
-  "오픈AI,차세대AI모델'아스트라'예고…\"수학난제10개해결\"",
-  "이대통령,서울공항도착…미국·남미등5개국순방종료",
-  "이재명대통령,7박11일순방종료…AI협력·무역로확장등성과",
-  "오픈AI,차세대AI모델'아스트라'성능공개⋯\"수학난제10가지풀어...",
-  "오픈AI“10년묵은수학계10대난제풀었다”…차세대‘아스트라’...",
-  "반도체슈퍼사이클은언제까지갈것인가?[조원경의경제·산업답사...",
-  "AI동맹부터광물·에너지확보까지…이대통령,美·남미서'공급망외...",
   "“수학난제10개해결”…오픈AI,차세대모델‘아스트라’예고",
   "1400조AI협력·남미공급망확장물꼬튼李…7박11일순방종료",
   "오픈AI최신모델,290만원어치연산으로수학난제10가지풀었다",
@@ -6001,7 +5994,14 @@
   "SK쉴더스,'DEFCONCTF2026'본선참가",
   "AI데이터센터매출93%뛴SKT...\"빅테크와AI인프라수요협의중\"",
   "李,10일반도체메가프로젝트재점검…광주군공항·전력·용수해법찾...",
-  "[통신브리핑]SK텔레콤·KT·LG유플러스"
+  "[통신브리핑]SK텔레콤·KT·LG유플러스",
+  "레고랜드,주말워터풀파티개최…안전·편의강화한가족물놀이축제",
+  "대구광역시,'청년이지킨다'민생범죄예방캠페인...시민호응",
+  "CJ제일제당,오픈이노베이션확대…'프론티어랩스'6기스타트업4곳선...",
+  "경동나비엔,현대백화점압구정본점서팝업오픈",
+  "[현장]코히어,한국법인세우고인력2배로",
+  "[논설실의서가]엔지니어가쉽게풀어쓴반도체해설서",
+  "\"글로벌빅테크와AI인프라협의진행\"[SKT컨콜]"
  ],
  "recent_sigs": [
   [
@@ -6581,7 +6581,7 @@
    "~SKT ~LGU ~KT LG유플러스"
   ]
  ],
- "last_run": "2026-08-05T17:34:51.500317+09:00",
+ "last_run": "2026-08-05T17:36:37.077709+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
