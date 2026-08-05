@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260804168100007?input=1195m",
-  "https://www.yna.co.kr/view/AKR20260804167800007?input=1195m",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=832861",
-  "https://www.newspim.com/news/view/20260804001462",
-  "http://www.maniareport.com/view.php?ud=2026080421380178966cf2d78c68_19",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=555862",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=555859",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=374689",
-  "https://www.mydaily.co.kr/page/view/2026080418180807934",
   "http://www.stoo.com/article.php?aid=108114720884",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008690394&plink=ORI&cooper=NAVER",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=59801",
@@ -2999,18 +2990,18 @@
   "https://m.skyedaily.com/news_view.html?ID=309242",
   "https://www.newspim.com/news/view/20260805001150",
   "https://www.greened.kr/news/articleView.html?idxno=346919",
-  "https://www.ddaily.co.kr/page/view/2026080516525898249"
+  "https://www.ddaily.co.kr/page/view/2026080516525898249",
+  "https://www.etnews.com/20260805000255",
+  "http://www.footballist.co.kr/news/articleView.html?idxno=213137",
+  "https://www.news1.kr/sports/baseball/6250261",
+  "https://www.dt.co.kr/article/12076755",
+  "https://www.ddaily.co.kr/page/view/2026080514595688107",
+  "https://www.mt.co.kr/industry/2026/08/05/2026080515291952827",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=307857",
+  "https://www.yna.co.kr/view/AKR20260805030101017?input=1195m",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190623"
  ],
  "seen_titles": [
-  "SSG,폭염속난타전끝에LG제압…김재환3점포에쐐기타까지",
-  "폭염속치러진프로야구경기중관중한명쓰러져병원이송",
-  "염경엽승부수였나모험수였나,왜투수교체가없었을까…이게LG의현...",
-  "[AI상보]로드리게스호투·황성빈활약한롯데,키움3-2제압",
-  "'눈야구가승부를갈랐다'한화,삼성에4-1승...왕옌청6이닝무실점...",
-  "오늘의경기",
-  "구자욱·김지찬,프로야구7월MVP후보",
-  "'6이닝무실점쾌투로시즌10승'한화왕옌청역투속에삼성에4-1승리",
-  "“모아니면도”김도영AVG0.342·나성범AVG0.361·카스트로AVG0.42...",
   "'왕옌청시즌10승+노시환멀티히트'한화,삼성4-1제압…3연패탈출",
   "한화왕옌청10승달성…삼성전6이닝7탈삼진무실점",
   "[ICT종합]소니코리아및이노스소식외",
@@ -6001,7 +5992,16 @@
   "폭염에쓰러진관중…결국프로야구이틀간멈춘다",
   "깊이가다른글로벌투자정보GAM-맛보기편(8/5)",
   "[컨콜]SKT,AIDC전담신설법인SK하이퍼\"대형외부투자유치할것\"",
-  "[컨콜]SKT\"수요확인후투자\"…SK하이퍼로AIDC15GW추진"
+  "[컨콜]SKT\"수요확인후투자\"…SK하이퍼로AIDC15GW추진",
+  "국산CSP사'마켓플레이스'커졌다…5개사등록솔루션1439개",
+  "'39도정신나간무더위'K리그,야구처럼경기취소아닌30분지연시작...",
+  "'5경기연속폭염취소'KIA이범호감독\"타자들경기감각걱정\"",
+  "“AI에이전트,가짜신원만들어실제개발자속이려했다”",
+  "[DD퇴근길]저가우회로가사라졌다…D램협상판도,한국으로기운다",
+  "메모리없으면AI도없다..'슈퍼을'K반도체2031년까지시장주도",
+  "[컨콜-SK텔레콤]박종석CFO\"'AIDC'구축,고객확보가우선\"",
+  "AIDC날개단SKT,영업익67%↑…\"빅테크와인프라협의지속\"(종합2보)",
+  "SKT,통신회복속AI데이터센터성장"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,13 @@
   [
    "2026-08-05T17:00:44.252269+09:00",
    "~SKT 15GW 확인 AIDC 수요 투자 SK하이퍼로"
+  ],
+  [
+   "2026-08-05T17:02:18.251713+09:00",
+   "데이터센터 회복 성장 ~SKT 통신"
   ]
  ],
- "last_run": "2026-08-05T17:01:02.039423+09:00",
+ "last_run": "2026-08-05T17:02:42.578903+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
