@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260804025339439",
-  "https://www.dailian.co.kr/news/view/1674421/?sc=Naver",
-  "https://www.topdaily.kr/articles/111295",
-  "https://www.sedaily.com/article/20075642",
-  "https://www.aitimes.com/news/articleView.html?idxno=213505",
-  "https://www.medipana.com/news/articleView.html?idxno=415497",
-  "https://www.viva100.com/article/20260804501251",
-  "https://www.yna.co.kr/view/AKR20260804128700009?input=1195m",
   "https://news.mtn.co.kr/news-detail/2026080417081841276",
   "https://www.etnews.com/20260804000341",
   "https://news.dealsitetv.com/articles/174254",
@@ -2999,17 +2991,17 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=788974",
   "https://www.theguru.co.kr/news/article.html?no=105400",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=363100",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210437"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210437",
+  "http://www.metroseoul.co.kr/article/20260805500293",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656420",
+  "https://www.econovill.com/news/articleView.html?idxno=747197",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690148",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361303",
+  "https://www.gosiweek.com/article/1065588720072460",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=46797",
+  "https://www.thepowernews.co.kr/view.php?ud=202608051353196120de3f0aa1be_7"
  ],
  "seen_titles": [
-  "MBK내·외부진통지속…사모펀드향한비판고조",
-  "달라진KBO폭염규정,잠실은취소인데인천은정상개시",
-  "[VC밸류업]HB인베스트먼트,후속투자부터사업연계까지…데스밸리극...",
-  "네이버,남미AI시장공략…브라질·칠레서데이터센터·클라우드협력",
-  "\"중국AI금지하면미국기업연간16조원타격…비용절감수단없어져...",
-  "서울대병원,국가브랜드경쟁력지수11년연속1위",
-  "수자원공사,경북창조경제혁신센터와기후테크스케일업협력나선다",
-  "\"'AI칩확대'구글,286조원인프라금융사업망구축\"",
   "지니언스,상반기영업이익294%↑…\"어닝서프라이즈\"",
   "해킹위협막는'디지털방패'…경과원,중소기업보안지원",
   "[IT투데이]팀네이버,브라질·칠레AI기업·정부협력外",
@@ -6001,7 +5993,15 @@
   "[위클리오늘]산업일반소식_한화시스템,한화호텔앤드리조트(8.5)",
   "AI데이터센터기업'코어위브',아시아시장첫발..인니에데이터센터...",
   "신한카드,갤럭시Z폴더블8구매고객이벤트...캐시백에통신비할인",
-  "같은4억도증여방법따라2000만원절세가능…분산증여방법은?[프..."
+  "같은4억도증여방법따라2000만원절세가능…분산증여방법은?[프...",
+  "4개월째번호이동순감…'알뜰폰2.0'통할까",
+  "전주시,재정혁신특별위원회출범…13명전문가구성'재정건전성확보...",
+  "네이버라인망가,일본서애니구독서비스시작",
+  "\"그냥재미로\"덧붙이자…챗GPT,허위영수증·증명서만들었다",
+  "'데이터센터'날개단AMD,2분기어닝서프라이즈",
+  "에듀피디,8월29일순천시공무직시험일정대비‘특가+축하금’프로...",
+  "성호전자ADS테크,美서235억'빅오더'",
+  "치킨·OTT·영화할인매주바뀐다…LG유플러스,‘알닷클럽’출시"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,13 @@
   [
    "2026-08-05T13:54:18.030811+09:00",
    "방법은 증여 방법 따라 4억도 절세 가능 분산 같은 2000만"
+  ],
+  [
+   "2026-08-05T13:56:24.076188+09:00",
+   "알뜰폰 통할까 번호이동 순감 4개월째"
   ]
  ],
- "last_run": "2026-08-05T13:54:38.705020+09:00",
+ "last_run": "2026-08-05T13:56:42.670611+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
