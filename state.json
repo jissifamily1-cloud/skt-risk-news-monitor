@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260729500478",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4097832",
-  "https://www.aitimes.com/news/articleView.html?idxno=213310",
-  "https://www.news1.kr/it-science/cc-newmedia/6242920",
   "https://www.newsis.com/view/NISX20260729_0003728462",
   "https://news.mtn.co.kr/news-detail/2026072916114275338",
   "https://www.busan.com/view/busan/view.php?code=2026072916312953116",
@@ -2999,13 +2995,13 @@
   "https://www.donga.com/news/Economy/article/all/20260805/134425399/1",
   "https://www.bntnews.co.kr/article/view/bnt202608050270",
   "https://www.g-enews.com/view.php?ud=2026080514583239493084322ec9_1",
-  "https://www.aitimes.com/news/articleView.html?idxno=213571"
+  "https://www.aitimes.com/news/articleView.html?idxno=213571",
+  "https://www.sedaily.com/article/20076090",
+  "https://biz.chosun.com/it-science/ict/2026/08/05/YWMBU2J3XNHOPCZXT7JEQ3CSDU/",
+  "https://www.cstimes.com/news/articleView.html?idxno=715843",
+  "https://news.mtn.co.kr/news-detail/2026080515524175453"
  ],
  "seen_titles": [
-  "[CEO와칭]AI네이티브승부수던진정재헌…SKT'보안리더십'시험대",
-  "'AI데이터센터얼라이언스'출범…국가전략산업화추진",
-  "\"대체불가토큰수출국목표\"...민·관주도'AIDC얼라이언스'공식출...",
-  "'AIDC얼라이언스'출범…\"글로벌AI데이터센터거점으로\"(종합)",
   "정재헌SKT대표\"SK하이퍼는AIDC빠른의사결정과자금유치위한전담...",
   "민관'AIDC얼라이언스'출범…18.4GW구축추진",
   "AI데이터센터국가전략산업화‘시동’…AIDC얼라이언스출범",
@@ -6001,17 +5997,13 @@
   "SKT,2분기영업익5660억…AI데이터센터매출92%급증",
   "이준혁SNS해킹피해“절대링크클릭하지마세요”",
   "AI메모리도고객따라다변화…삼성은'ASIC'·SK는'엔비디아'",
-  "퍼플렉시티,아마존과AI쇼핑도구항소심서승리…'에이전트차단취..."
+  "퍼플렉시티,아마존과AI쇼핑도구항소심서승리…'에이전트차단취...",
+  "폭염속경기에관중쓰러지자…KBO“5·6일전경기취소,긴급실행위...",
+  "반도체공장통째인수하는노키아…“메모리다음은광통신병목”",
+  "KT,'아이브미니브·민트라온'팝업오픈…갤럭시Z8시리즈도동시체...",
+  "[단독]정부,인공지능격차해소특위신설...中企에AI인프라개방한다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-05T10:20:33.130715+09:00",
-   "코멧 항소심서 접속 뒤집혔다 금지명령 아마존"
-  ],
-  [
-   "2026-08-05T10:20:33.130715+09:00",
-   "학습용 117만건 방송영상 개방 데이터"
-  ],
   [
    "2026-08-05T10:24:17.327966+09:00",
    "신냉전 글로벌 시대"
@@ -6535,9 +6527,13 @@
   [
    "2026-08-05T16:20:29.064036+09:00",
    "쇼핑 도구 에이전트 차단 승리 항소심서 아마존과"
+  ],
+  [
+   "2026-08-05T16:22:24.546687+09:00",
+   "격차해소 인공지능 신설 특위 정부 개방한다 인프라"
   ]
  ],
- "last_run": "2026-08-05T16:20:51.850867+09:00",
+ "last_run": "2026-08-05T16:22:42.388719+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
