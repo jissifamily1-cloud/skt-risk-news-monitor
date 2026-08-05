@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6249491",
-  "https://view.asiae.co.kr/article/2026080509074626017",
-  "http://www.newsdream.kr/news/articleView.html?idxno=115682",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071199",
-  "https://www.etoday.co.kr/news/view/2611115",
   "https://www.globale.co.kr/news/articleView.html?idxno=39697",
   "https://www.mk.co.kr/article/12117322",
   "https://www.aitimes.com/news/articleView.html?idxno=213503",
@@ -2999,14 +2994,14 @@
   "http://kor.theasian.asia/archives/412237",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474788",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=169414",
-  "https://kidd.co.kr/news/246925"
+  "https://kidd.co.kr/news/246925",
+  "http://www.inews24.com/view/1991989",
+  "https://www.tokenpost.kr/news/economy/386018",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260730010011241",
+  "https://www.thelec.kr/news/articleView.html?idxno=60349",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2432637"
  ],
  "seen_titles": [
-  "[속보]SKT2분기영업이익5660억…전년比67.34%↑",
-  "[속보]SKT,2분기영업이익5660억원…전년동기比67.3%↑",
-  "LG유플러스,알뜰폰장기고객잡는다…혜택프로그램'알닷클럽'론칭",
-  "LG유플러스알뜰폰'알닷클럽'",
-  "'폭염경보'인천경기왜열렸나⋯관중25명온열질환의심",
   "KT엠모바일eSIM로밍'모비',1일990원특가,8월말까지연장",
   "카카오페이2분기역대급실적에증권가“체질개선기대”",
   "백악관,주요AI기업실무자소집...'자발적감독방안'최종검토",
@@ -6001,7 +5996,12 @@
   "[동북아정세브리핑]호르무즈위기중국에직격탄…中AI·로봇·신약...",
   "AI펀드'헐값인수'통했다…시타델,7월수익률두자릿수질주",
   "테크주'희비'속...미국증시'혼조',다우는'또사상최고'",
-  "[비철금속시황]구리12주최고치…공급부족우려에강세"
+  "[비철금속시황]구리12주최고치…공급부족우려에강세",
+  "[속보]SKT2Q영업이익5660억⋯전년比67.34%↑",
+  "시타델,AI위기속기회포착…할인자산인수로7월수익률14%기록",
+  "삼성SDS,2분기매출3조700억·영업이익2300억…AI풀스택으로경쟁력...",
+  "삼성SDS,2분기실적\"클라우드·물류대외사업성장\"",
+  "KT매장70곳·그늘막90곳…대전폭염방어망"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,13 @@
   [
    "2026-08-06T07:40:25.947043+09:00",
    "정상화 본업은 성장은 목표가 AI로 유안타 ~SKT 11만8000원"
+  ],
+  [
+   "2026-08-06T07:44:17.441602+09:00",
+   "~KT 방어망 매장 대전 폭염 그늘막 70곳 90곳"
   ]
  ],
- "last_run": "2026-08-06T07:42:39.216853+09:00",
+ "last_run": "2026-08-06T07:44:41.957526+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
