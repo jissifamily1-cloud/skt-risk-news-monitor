@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112851957",
-  "https://www.xportsnews.com/article/2179934",
-  "https://www.mydaily.co.kr/page/view/2026080415241472800",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405144",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1392613",
-  "https://www.hellot.net/news/article.html?no=114160",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200532",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=205314",
   "https://www.yna.co.kr/view/AKR20260804117600009?input=1195m",
   "https://www.mk.co.kr/article/12116342",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=316013",
@@ -2999,17 +2991,17 @@
   "https://www.seoul.co.kr/news/economy/2026/08/05/20260805500093?wlog_tag3=naver",
   "https://www.mk.co.kr/article/12117511",
   "http://www.queen.co.kr/news/articleView.html?idxno=461302",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256628&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256628&CMPT_CD=P0010",
+  "http://www.finomy.com/news/articleView.html?idxno=258558",
+  "https://www.segye.com/newsView/20260805510700?OutUrl=naver",
+  "https://www.news1.kr/sports/baseball/6249757",
+  "https://www.gokorea.kr/news/articleView.html?idxno=874209",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1010422",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05270966645544040",
+  "https://www.mt.co.kr/tech/2026/08/04/2026080414085074436",
+  "https://www.newspim.com/news/view/20260805000562"
  ],
  "seen_titles": [
-  "[e세상人]“레전드매치이벤트전?내겐진짜경기”…‘피글렛’채광...",
-  "대구날씨실화?서울보다시원하다…폭염취소없이'정상개시'확실...",
-  "잠실보다대구가시원하다니,한화-삼성전정상개최준비중…강민호...",
-  "팀네이버,브라질·칠레AI협력확대…남미시장공략속도",
-  "카페24,마케팅컨퍼런스'마케팅플레이북2026'개최",
-  "국내AI전환원스톱지원포털‘AX360°’공식서비스돌입",
-  "[더밸류브리핑]오늘의증권소식...한국투자증권·KB증권·대신증권",
-  "본격개화한피지컬AI시장…국내스타트업도글로벌경쟁가세",
   "\"日NTT데이터,2033년까지데이터센터에13조원투입\"",
   "LG유플러스,파고네트웍스품었다…7년만의인수합병이유가?",
   "잡코리아,AI시대HR해법찾는다…27일'흐레카26'개최",
@@ -6001,7 +5993,15 @@
   "방미통위,방송영상데이터117만건개방…“AI모델활용기대”",
   "KTpartnerswithYUHSonhealthcareAI",
   "롯데카드해킹사고,MBK인수후정보보호예산·인력축소가원인으로...",
-  "지연된정의,YTN의정상화를위하여"
+  "지연된정의,YTN의정상화를위하여",
+  "SK텔레콤,AIDC사업기대감에11%급등",
+  "춘천레고랜드에가수‘코요테,노라조,다이나믹듀오’뜬다",
+  "KT소형준·KIA카스트로,KBO리그7월'쉘힐릭스플레이어'선정",
+  "공정위,대기업계열사누락시총수개인에도과징금부과검토…플랫...",
+  "경동나비엔,현대백화점압구정본점'나비엔'팝업오픈",
+  "이파피루스,웹문서뷰어‘스트림닥스7.0’출시",
+  "\"베낀건없지만고쳐낸다\"…카카오웹툰,표절논란정면돌파",
+  "WSJ\"美개방형AI모델,당국의사전검증대상에서제외\""
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,13 @@
   [
    "2026-08-05T11:18:22.984780+09:00",
    "정의 YTN의 지연된 정상화를 위하여"
+  ],
+  [
+   "2026-08-05T11:20:33.413452+09:00",
+   "당국의 대상에서 AI모델 개방형 사전 검증 WSJ 제외"
   ]
  ],
- "last_run": "2026-08-05T11:18:52.605570+09:00",
+ "last_run": "2026-08-05T11:20:51.389197+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
