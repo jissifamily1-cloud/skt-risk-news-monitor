@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260804001195",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3655440",
-  "https://www.cstimes.com/news/articleView.html?idxno=715699",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474291",
-  "https://www.mydaily.co.kr/page/view/2026080415455539902",
-  "https://www.thepowernews.co.kr/view.php?ud=202608041516496729de3f0aa1be_7",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05264406645544040",
-  "https://www.newsis.com/view/NISX20260804_0003736108",
-  "https://view.asiae.co.kr/article/2026080415443000864",
   "http://www.srtimes.kr/news/articleView.html?idxno=209050",
   "https://www.xportsnews.com/article/2179933",
   "https://www.newspim.com/news/view/20260804001145",
@@ -2999,18 +2990,18 @@
   "http://coinreaders.com/251204",
   "https://www.insight.co.kr/news/566515",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474542",
-  "https://www.socialvalue.kr/news/view/1065578920676261"
+  "https://www.socialvalue.kr/news/view/1065578920676261",
+  "https://biz.heraldcorp.com/article/10831502",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04234486645544368",
+  "http://www.srtimes.kr/news/articleView.html?idxno=209179",
+  "https://www.joongang.co.kr/article/25450955",
+  "https://www.sedaily.com/article/20075595",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6448",
+  "https://www.newsis.com/view/NISX20260805_0003737186",
+  "https://www.ekn.kr/web/view.php?key=20260805027379698",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200548"
  ],
  "seen_titles": [
-  "엘리스그룹,B300GPU2560장규모모듈형AI데이터센터구축",
-  "울산동구가족센터,다문화가족자녀40명과'꿈자람문화체험'진행",
-  "팀네이버,브라질·칠레AI기업과협업논의",
-  "팀네이버,남미AI인프라시장공략…현지데이터센터·정부와협력논...",
-  "롯데百노원점,17개월리뉴얼마침표…동북권랜드마크로",
-  "카카오‘카나나-오’,한국어음성평가서GPT-4o미니앞섰다",
-  "IPO앞둔빗썸,사업·고객관리체계손질…오지급대응조치도강화",
-  "文찾은고민정\"'도전이큰의미'평가해주셔…'잘해내겠다'말해\"",
-  "오픈AI·앤스로픽평가이익에빅테크실적'착시'",
   "KTM&S,갤럭시Z8시리즈개통시작…체험존지속운영",
   "체감36.8도'살인폭염'…잠실취소?그런데인천더뜨겁다→LG-SSG정...",
   "서울북부보훈지청,한여름더위날리는'건강한여름나기'",
@@ -6001,7 +5992,16 @@
   "레이달리오\"AI버블터지면금이비트코인(BTC)보다우위\"",
   "정재헌첫온전한분기...SKT영업익5660억·AIDC매출2배",
   "[마켓포인트]SKT,2분기영업익67.3%↑…AIDC매출2배증가",
-  "[SV금융단신]NH농협은행,지자체연계‘고향사랑기부’간편화外"
+  "[SV금융단신]NH농협은행,지자체연계‘고향사랑기부’간편화外",
+  "[사설]“AI미래돈과힘의혈투”,개방-폐쇄형모델경쟁주목해야",
+  "\"레버리지제한없다\"는월가하룻강아지배경에는",
+  "공정위,대기업규율강화…반복담합기업영업정지추진",
+  "“33%빠진테슬라는줍지마라”나스닥고수3인의추천종목",
+  "앤트로픽·오픈AI백악관모인다...사이버보안프레임워크논의",
+  "[KB증권금감원제재32건]④IT투자1587억어디썼나",
+  "나루씨큐리티,KISA와중소기업침해평가·취약점진단지원",
+  "SKT,2분기영업익5660억원…AIDC매출92.5%↑",
+  "SK텔레콤,2Q매출액4.3조...전년동기比0.5%↑"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,17 @@
   [
    "2026-08-05T11:14:25.266766+09:00",
    "지자체 고향사랑기부 연계 간편화 NH농협은행"
+  ],
+  [
+   "2026-08-05T11:16:17.881103+09:00",
+   "힘의 경쟁 돈과 폐쇄형 혈투 개방 모델 주목해야 미래"
+  ],
+  [
+   "2026-08-05T11:16:17.881103+09:00",
+   "2Q 3조 매출액 전년동기 ~SKT"
   ]
  ],
- "last_run": "2026-08-05T11:14:44.581912+09:00",
+ "last_run": "2026-08-05T11:16:38.514913+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
