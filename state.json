@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167342",
-  "http://www.newskr.kr/news/articleView.html?idxno=105346",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=206038",
-  "http://www.4th.kr/news/articleView.html?idxno=2115819",
-  "https://www.seoulfn.com/news/articleView.html?idxno=634947",
-  "http://www.popcornnews.net/news/articleView.html?idxno=128391",
   "https://www.dailian.co.kr/news/view/1673986/?sc=Naver",
   "https://www.bloter.net/news/articleView.html?idxno=669859",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003256568&CMPT_CD=P0010",
@@ -2999,15 +2993,15 @@
   "https://www.g-enews.com/view.php?ud=202608060827276183153ddfb15a_1",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03083206645544696",
   "https://www.topdaily.kr/articles/111322",
-  "https://www.newspim.com/news/view/20260806000076"
+  "https://www.newspim.com/news/view/20260806000076",
+  "https://www.m-i.kr/news/articleView.html?idxno=1399377",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000054862",
+  "https://biz.sbs.co.kr/article_hub/20000326958?division=NAVER",
+  "http://www.fnnews.com/news/202608060830120712",
+  "http://www.fnnews.com/news/202608060800239257",
+  "https://www.newspim.com/news/view/20260806000100"
  ],
  "seen_titles": [
-  "과징금충격…쿠팡상반기적자1조원돌파",
-  "SK텔레콤,2분기영업이익5660억원…AIDC매출92.5%증가",
-  "SK텔레콤,2분기영업익5660억원…전년比67.3%↑",
-  "SKT,2Q영업이익5660억원···해킹기저효과에67.3%↑",
-  "SKT,러너들을위한신규제품·혜택선봬...선호스마트기기라인업확...",
-  "최태원,SK㈜중간배당194억원…재산분할재원마련주목",
   "SK하이닉스지분첫매입한최태원회장…배경에관심증폭",
   "'한화3연패탈출'왕옌청,시즌10승으로다승선두",
   "[LCK리뷰]'희비교차'에이밍없이초대형업셋해낸KT,집안잔치제...",
@@ -6001,7 +5995,13 @@
   "英글로벌분석가\"SK그룹,아·태AI기술지형재편중\"",
   "노타,中AI모델'키미K3'경량화성공…\"GPU사용량절반으로줄였다\"",
   "[VC밸류업]관리조직힘싣는SBVA,밸류업경쟁력높인다",
-  "[모닝리포트]\"AIDC로의드라이브\"…SK텔레콤,해킹충격털고회복"
+  "[모닝리포트]\"AIDC로의드라이브\"…SK텔레콤,해킹충격털고회복",
+  "호실적에도'뉴스에팔라'...나스닥0.83%하락[뉴욕증시]",
+  "\"간밤미국증시혼조마감\"…국내증시,\"숨고르기\"장세펼쳐질까",
+  "[어제장오늘장]외국인돌아온코스피…양대지수상승랠리,추세전환...",
+  "\"AIDC성장에앤스로픽지분가치까지\"SK텔레콤목표가↑-DB",
+  "\"원전대신AI데이터센터\"…건설주,체질개선본격화",
+  "[일본특징주]소프트뱅크그룹오늘실적발표...관심은오픈AI상장여..."
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,21 @@
   [
    "2026-08-06T08:34:16.249629+09:00",
    "털고 회복 충격 드라이브 AIDC로의 ~SKT"
+  ],
+  [
+   "2026-08-06T08:38:21.297851+09:00",
+   "지분가치까지 목표가 ~SKT DB AIDC 성장에"
+  ],
+  [
+   "2026-08-06T08:38:21.297851+09:00",
+   "본격화 건설주 대신 원전 데이터센터 체질 개선"
+  ],
+  [
+   "2026-08-06T08:38:21.297851+09:00",
+   "관심은 실적 소프트뱅크그룹 상장 발표"
   ]
  ],
- "last_run": "2026-08-06T08:36:34.903472+09:00",
+ "last_run": "2026-08-06T08:38:48.040912+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
