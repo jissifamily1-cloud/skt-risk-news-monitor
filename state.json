@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254146&CMPT_CD=P0010",
-  "http://www.fnnews.com/news/202607251030013032",
-  "https://news.tf.co.kr/read/ptoday/2346967.htm",
-  "https://www.aitimes.com/news/articleView.html?idxno=213165",
-  "https://zdnet.co.kr/view/?no=20260725084504",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686958",
-  "https://www.aitimes.com/news/articleView.html?idxno=213131",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686763",
-  "https://www.aitimes.com/news/articleView.html?idxno=213128",
   "https://zdnet.co.kr/view/?no=20260724101257",
   "https://www.aitimes.com/news/articleView.html?idxno=213076",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686253",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/AKR20260805145300011?input=1195m",
   "https://sports.hankooki.com/news/articleView.html?idxno=6937554",
   "https://news.jtbc.co.kr/article/NB12311900?influxDiv=NAVER",
-  "https://zdnet.co.kr/view/?no=20260805173533"
+  "https://zdnet.co.kr/view/?no=20260805173533",
+  "https://www.tokenpost.kr/news/briefing/385610",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050916346320813",
+  "https://www.sedaily.com/article/20076171",
+  "https://www.tokenpost.kr/news/cryptocurrency/385613",
+  "https://www.news1.kr/it-science/cc-newmedia/6250344",
+  "https://www.topdaily.kr/articles/111326",
+  "https://news.tf.co.kr/read/entertain/2351013.htm",
+  "https://www.aitimes.com/news/articleView.html?idxno=213568",
+  "https://www.tokenpost.kr/news/cryptocurrency/385609"
  ],
  "seen_titles": [
-  "이대통령만난젠슨황\"SK그룹과5천억달러파트너십발표\"",
-  "李대통령,美서'세일즈외교'…젠슨황등빅테크CEO연쇄면담",
-  "李대통령,샌프란시스코AI선언발표…\"대체불가AI공급망핵심국도...",
-  "엔비디아·MS·메타\"오픈소스막지마라\"...미국정부에공동서한",
-  "\"AI통제안된다\"…빅테크,'오픈웨이트규제'집단반발",
-  "샘알트먼의생체인증스타트업월드,암호화폐판매로5250만달러조달",
-  "[7월24일]증류는왜'도둑질'이됐나…키미K3논란의진짜쟁점",
-  "일론머스크\"구글견제하려만든오픈AI…결국AI경쟁만더키웠다\"",
-  "오픈AI해킹파장에백악관주시...미의회'AI킬스위치'법안발의",
   "美빅테크앞'샌프란선언'하는이대통령…토종AI도모인다",
   "오픈AI,29조들여'스타게이트'재가동…첫자체데이터센터짓는다",
   "오픈AI,AI에이전트직접굴린다…기업용'오픈AI프레즌스'출시",
@@ -6001,7 +5992,16 @@
   "[연합뉴스이시각헤드라인]-18:00",
   "NH투자증권,한국경제연구학회와'AI시대금융산업'정책세미나공동개...",
   "코스피3.8%급등,6500선회복…미기술주강세에반도체주상승",
-  "SKT\"외부투자로5GWAIDC확장…직접투자는최소화\""
+  "SKT\"외부투자로5GWAIDC확장…직접투자는최소화\"",
+  "[저녁뉴스브리핑]미상원민주당이클래리티법안종결표결을막을...",
+  "[증권가로수]하나증권/NH아문디/바이야드",
+  "“韓,2031년까지메모리최강국”",
+  "AI랠리에도못오른비트코인…크립토,내부수요부재드러났나",
+  "해킹털어낸SKT\"1등AI인프라사업자\"포부[IR종합]",
+  "본업정체겪는SKT,'효자'AI데이터센터가실적받쳤다",
+  "이준혁,SNS계정해킹피해…\"복구절차진행중\"",
+  "화웨이최고과학자\"엔비디아도칩제조물리적한계봉착할것\"",
+  "콜드카드해킹후폭풍…비트코인네트워크활동급증,변동성커지나"
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,21 @@
   [
    "2026-08-05T18:00:43.145880+09:00",
    "~SKT 고객 통신이 DC로 선확보 위험성도 키운다 낮춰"
+  ],
+  [
+   "2026-08-05T18:04:17.745045+09:00",
+   "받쳤다 ~SKT 겪는 정체 효자 데이터센터가 본업 실적"
+  ],
+  [
+   "2026-08-05T18:04:17.745045+09:00",
+   "물리적 엔비디아도 제조 최고 한계 봉착할 과학자 화웨이"
+  ],
+  [
+   "2026-08-05T18:04:17.745045+09:00",
+   "변동성 활동 후폭풍 급증 네트워크 커지나 콜드카드 비트코인"
   ]
  ],
- "last_run": "2026-08-05T18:02:38.926431+09:00",
+ "last_run": "2026-08-05T18:04:47.052203+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
