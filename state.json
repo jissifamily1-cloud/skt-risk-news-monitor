@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169317",
-  "https://www.sedaily.com/article/20075617",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251629",
-  "http://www.queen.co.kr/news/articleView.html?idxno=461273",
-  "https://www.dizzotv.com/site/data/html_dir/2026/08/04/2026080480068.html",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400258.html",
   "https://www.aitimes.kr/news/articleView.html?idxno=41300",
   "http://www.newstomato.com/ReadNews.aspx?no=1309171&inflow=N",
@@ -2999,14 +2994,14 @@
   "https://www.aitimes.com/news/articleView.html?idxno=213545",
   "https://www.topstarnews.net/news/articleView.html?idxno=16155369",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=832989",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629165"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629165",
+  "https://www.xportsnews.com/article/2180282",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3656339",
+  "https://www.newdaily.co.kr/site/data/html/2026/08/05/2026080500159.html",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=739156",
+  "http://www.fnnews.com/news/202608051040501111"
  ],
  "seen_titles": [
-  "코스피,갈팡질팡하다'급상승'...LG전자·NAVER'껑충'",
-  "기업공시[8월4일]",
-  "[칩플레이션쇼크③]메모리초호황,미국통상압박불씨되나",
-  "[오늘증시]코스피,'삼전닉스'흔들렸지만순환매로선방...…코스닥5...",
-  "LG유플러스,파고네트웍스인수\"탐지부터대응까지내재화\"",
   "LGU+노조,'개인인센티브·성과급'소송착수…소송인단모집",
   "잡코리아,HR컨퍼런스'HReka26'개최…AI시대,HR이만들어가는승리...",
   "외로운인천시민은언제·어디서나'120+9,1899-2579'로전화",
@@ -6001,17 +5996,14 @@
   "\"영업비밀반환하라\"애플가처분신청에오픈AI\"착각말라\"맞불",
   "장혁,무대위마이크들고선굳건한존재감…'문무'·'아파트'로이어...",
   "'34안타17타점'카스트로&'4QS3승ERA1.78'소형준7월WAR1위질주...",
-  "‘한국문화’방송영상,AI에학습…117만건데이터공개"
+  "‘한국문화’방송영상,AI에학습…117만건데이터공개",
+  "김경문감독,2페-3문향한믿음변함없다…\"두사람이쳐줄때연승...",
+  "고창군,농촌공간계획10년청사진공개…주민180여명의견수렴",
+  "스페이스X,AI투자두배로확대…잉여현금흐름은적자전환",
+  "[분석]'AI플랫폼'넘어'AX파트너'로…KT가노리는기업시장대전환",
+  "방송영상117만건,AI학습용으로무료공개"
  ],
  "recent_sigs": [
-  [
-   "2026-08-05T06:46:24.605364+09:00",
-   "SK하이닉스 수순은 풀린 규제 주주환원책 다음"
-  ],
-  [
-   "2026-08-05T06:46:24.605364+09:00",
-   "뉴욕증시 기업실적 급등세 호조 애플 영향"
-  ],
   [
    "2026-08-05T06:54:23.192300+09:00",
    "영업비밀 반박 주장에 문자 이메일로 애플"
@@ -6583,9 +6575,13 @@
   [
    "2026-08-05T12:44:23.400950+09:00",
    "들고 이어 문무 아파트 존재감 무대 장혁 굳건한 마이크"
+  ],
+  [
+   "2026-08-05T12:48:22.432690+09:00",
+   "KT가 파트너 플랫폼 대전환 기업시장 ~KT 노리는 넘어 AX"
   ]
  ],
- "last_run": "2026-08-05T12:46:35.423482+09:00",
+ "last_run": "2026-08-05T12:48:46.037579+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
