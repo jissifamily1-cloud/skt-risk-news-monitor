@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12117883",
-  "https://www.kyosu.net/news/articleView.html?idxno=208508",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422898",
-  "https://www.smartbizn.com/news/articleView.html?idxno=150473",
-  "https://news.mtn.co.kr/news-detail/2026080517354347517",
-  "https://www.asiatime.co.kr/article/20260805500215",
-  "https://isplus.com/article/view/isp202608050184",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=257777",
-  "https://www.dt.co.kr/article/12076776",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608051054194000849",
   "https://www.kukinews.com/article/view/kuk202608050189",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167402",
   "https://biz.heraldcorp.com/article/10831454",
@@ -2999,19 +2989,19 @@
   "http://www.inews24.com/view/1992609",
   "https://www.mk.co.kr/article/12117863",
   "https://www.aitimes.com/news/articleView.html?idxno=213619",
-  "https://www.socialvalue.kr/news/view/1065595088655308"
+  "https://www.socialvalue.kr/news/view/1065595088655308",
+  "https://www.econovill.com/news/articleView.html?idxno=747224",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167403",
+  "https://www.aitimes.com/news/articleView.html?idxno=213607",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512175",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3657736",
+  "http://www.fnnews.com/news/202608061546597913",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=256982",
+  "https://www.tokenpost.kr/news/tech/386225",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405255",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475058"
  ],
  "seen_titles": [
-  "국립목포해양대-국립한국해양대,서울·대전서고교교사초청진로진학...",
-  "SKT\"AIDC구축,수요·외부자금확보후진행···올해SK하이퍼3300억...",
-  "사전예약신기록쓴갤럭시Z8···'폴드8'개통이달말까지연장",
-  "네이버웹툰日라인망가,일본통신사와애니메이션구독서비스선보인...",
-  "[카드뉴스브리핑]농협카드호텔스닷컴최대25%할인",
-  "비로소재결성윤나고황,시너지확장기대...벼랑끝롯데반등동력",
-  "[A금융가소식]IBK기업은행,'IBK상거래원스톱'고도화및'크레탑기...",
-  "롯데카드\"최악은피했지만\"…정상호대표,수익성방어‘시험대’",
-  "SKT,해킹악재딛고2분기영업익67%↑…AIDC·독파모로‘AI승부’",
-  "SKT“국내1등AI인프라사업자로진화…SK하이퍼에7500억투자”[컨...",
   "인텔·AMD반등이끈AI…엔비디아독주체제에변화바람",
   "10억원씩‘통큰베팅’…자사주사는오너들,주주들은좋겠네[투자36...",
   "“스스로우회로찾는다”中해커‘딥시크’악용한자율형AI해킹적...",
@@ -6001,7 +5991,17 @@
   "TSMC,올해4분기3나노월18만장으로확대⋯상반기보다20%↑",
   "아마존서쇼핑한AI봇…美법원\"법적문제없어\"",
   "\"AI로신종스팸도철통방어\"...KT,AI스팸차단서비스전고객확대",
-  "KT박윤영,목동데이터센터서\"AIDC는AX플랫폼컴퍼니도약위한핵심..."
+  "KT박윤영,목동데이터센터서\"AIDC는AX플랫폼컴퍼니도약위한핵심...",
+  "2분기펄펄난SKT,AIDC자신감도붙었다",
+  "\"글로벌빅테크와AI인프라협의진행\"[SKT컨콜]",
+  "LGU+,2분기영업익3445억달성...\"AIDC투자,현금흐름내안정적진행...",
+  "세베리노↓하주석↑…수면위로드러난KBO구단'포지션고민'",
+  "김제시,주민참여예산학교이틀간운영…150여명교육·공주우수사례...",
+  "호반그룹,'오픈이노베이션위크'...스타트업협력확대",
+  "삼성,칩사들이며AIPC쏟아내는데···LG전자,그램무게에발목",
+  "TSMC,인공지능반도체시장주도권강화…3나노생산량폭증",
+  "엔비디아,상용화풀린자율주행AI'알파마요2슈퍼'전격공개",
+  "[거래소외국인]기아삼성바이오로직스사고SK하이닉스·삼성전자팔..."
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,13 @@
   [
    "2026-08-06T15:58:25.394369+09:00",
    "컴퍼니 데이터센터서 위한 도약 플랫폼 박윤영 ~KT AIDC는 AX 목동 핵심"
+  ],
+  [
+   "2026-08-06T16:00:43.297759+09:00",
+   "사고 삼성바이오로직스 삼성전자 SK하이닉스 기아"
   ]
  ],
- "last_run": "2026-08-06T15:58:44.204538+09:00",
+ "last_run": "2026-08-06T16:01:10.351781+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
