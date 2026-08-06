@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://sateconomy.co.kr/news/view/1065573054552768",
-  "http://www.newsprime.co.kr/news/article.html?no=742730",
-  "http://www.popcornnews.net/news/articleView.html?idxno=128710",
-  "https://www.eroun.net/news/articleView.html?idxno=87034",
-  "https://www.cstimes.com/news/articleView.html?idxno=715686",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1097852",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3656063",
   "https://www.joongangenews.com/news/articleView.html?idxno=537767",
   "https://www.gukjenews.com/news/articleView.html?idxno=3656077",
   "https://www.viva100.com/article/20260805500279",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2611597",
   "https://www.g-enews.com/view.php?ud=2026080313420565143d7a510102_1",
   "https://www.etoday.co.kr/news/view/2611578",
-  "http://www.journalist.or.kr/news/article.html?no=61405"
+  "http://www.journalist.or.kr/news/article.html?no=61405",
+  "http://www.srtimes.kr/news/articleView.html?idxno=209160",
+  "https://www.mt.co.kr/tech/2026/08/06/2026080608513611688",
+  "https://www.news1.kr/finance/general-stock/6250643",
+  "https://www.businessplus.kr/news/articleView.html?idxno=115115",
+  "https://www.etnews.com/20260806000034",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690418",
+  "https://www.smartbizn.com/news/articleView.html?idxno=150484"
  ],
  "seen_titles": [
-  "SKT,2분기반등…해킹사태여파벗어나",
-  "LG유플러스,알뜰폰고객전용'알닷클럽'출시…장기이용자혜택강화",
-  "KT,'미니브X민트라온'팝업스토어운영…홍대서갤럭시Z8체험도",
-  "[특징주]SK텔레콤,AIDC얼라이언스참여소식에'강세'",
-  "레고랜드,'워터풀파티'세부일정및현장운영계획공개",
-  "\"당근파종해야하는데물이없다\"…제주구좌읍가뭄비상",
-  "\"최대5만원캐시백\"…신한카드,갤럭시Z폴더블8이벤트",
   "대구시달서구,9월12일'두근두근페스티벌'개최...\"인구정책알린다...",
   "롯데백화점,AI로외국인관광객공략",
   "[유통갤러리]CJ제일제당'프론티어랩스'6기선발완료外",
@@ -6001,7 +5994,14 @@
   "코스피약보합·코스닥은강보합…美증시혼조마감영향",
   "이동통신3사,AI이용자잡아라…요금부터프로모션까지선보여",
   "“엔비디아,소버린AI92%점유⋯韓다변화추진주목”<카운터포인트...",
-  "\"포털이어AI에도주도권넘길건가\"…해외언론글로벌연대"
+  "\"포털이어AI에도주도권넘길건가\"…해외언론글로벌연대",
+  "SKT,2분기영업익5660억…전년비67.3%",
+  "엔비디아,SKT·네이버와AI보안가이드라인의견수렴착수",
+  "DB증권\"SK텔레콤,앤트로픽지분가치상승…목표가12만5000원\"",
+  "LG유플러스통합계정관리'알파키',국내첫CSAP인증획득…공공보안...",
+  "KT,'AI스팸차단'전고객에확대적용…오차단율0.003%",
+  "KT,9월'초대드림'운영…장기고객문화혜택제공",
+  "스페이스X,매출92%뛰었는데주가는공모가밑으로···AI투자'역풍..."
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,25 @@
   [
    "2026-08-06T09:14:24.052869+09:00",
    "글로벌 해외언론 넘길건가 AI에도 포털 주도권 연대 이어"
+  ],
+  [
+   "2026-08-06T09:16:16.362607+09:00",
+   "수렴 보안 네이버와 ~SKT 의견 착수 가이드라인"
+  ],
+  [
+   "2026-08-06T09:16:16.362607+09:00",
+   "12만 목표가 ~SKT DB증권 상승 5000원 지분가치 앤트로픽"
+  ],
+  [
+   "2026-08-06T09:16:16.362607+09:00",
+   "운영 초대드림 문화 9월 제공 ~KT 혜택 장기고객"
+  ],
+  [
+   "2026-08-06T09:16:16.362607+09:00",
+   "역풍 뛰었는데 주가는 스페이스X 밑으로 투자 매출 공모가"
   ]
  ],
- "last_run": "2026-08-06T09:14:45.950959+09:00",
+ "last_run": "2026-08-06T09:16:47.997820+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
