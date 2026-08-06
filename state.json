@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=85742",
-  "https://www.newscj.com/news/articleView.html?idxno=3422765",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719209",
-  "https://dealsite.co.kr/articles/166636",
-  "http://www.popcornnews.net/news/articleView.html?idxno=128795",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=120359",
-  "https://www.yna.co.kr/view/AKR20260805145300011?input=1195m",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6937554",
-  "https://news.jtbc.co.kr/article/NB12311900?influxDiv=NAVER",
   "https://zdnet.co.kr/view/?no=20260805173533",
   "https://www.tokenpost.kr/news/briefing/385610",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608050916346320813",
@@ -2999,18 +2990,18 @@
   "https://www.ajunews.com/view/20260806160211164",
   "https://www.sidae.com/article/2026080615392775494",
   "https://www.dynews.co.kr/news/articleView.html?idxno=860824",
-  "https://www.itbiznews.com/news/articleView.html?idxno=221120"
+  "https://www.itbiznews.com/news/articleView.html?idxno=221120",
+  "https://www.news1.kr/it-science/cc-newmedia/6251430",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3657737",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3657773",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3657741",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3657768",
+  "https://www.etoday.co.kr/news/view/2611861",
+  "http://www.srtimes.kr/news/articleView.html?idxno=209316",
+  "https://www.news1.kr/finance/general-stock/6251464",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84142"
  ],
  "seen_titles": [
-  "[일문일답]코히어\"韓,AI시험대…소버린AI로협력가능\"",
-  "홍범식,첫인수타깃은'보안'…LGU+성장전략본격화",
-  "SKT,올해SK하이퍼에3300억출자…'AIDC기반확보'",
-  "SKT\"통신이번돈AIDC로더키운다\"…'고객선확보'로위험성도낮춰",
-  "LG유플러스,알뜰폰고객대상리텐션프로그램'알닷클럽'출시",
-  "[연합뉴스이시각헤드라인]-18:00",
-  "NH투자증권,한국경제연구학회와'AI시대금융산업'정책세미나공동개...",
-  "코스피3.8%급등,6500선회복…미기술주강세에반도체주상승",
-  "SKT\"외부투자로5GWAIDC확장…직접투자는최소화\"",
   "[저녁뉴스브리핑]미상원민주당이클래리티법안종결표결을막을...",
   "[증권가로수]하나증권/NH아문디/바이야드",
   "“韓,2031년까지메모리최강국”",
@@ -6001,13 +5992,18 @@
   "[컨콜]KBO효과본티빙,2분기첫흑자…매출40%↑",
   "AI음악생성기업,설자리좁아지나…독일서저작권침해소송패소",
   "\"AI그림일기로인재키운다\"순천향대·SKT맞손",
-  "KT박윤영\"그룹사역량집결로AIDC경쟁력강화해야\""
+  "KT박윤영\"그룹사역량집결로AIDC경쟁력강화해야\"",
+  "'분기최대영업익'기록세운LGU+,\"AIDC에2조투자\"[IR종합]",
+  "함안군,폭염대비8월'안전점검의날'합동캠페인전개",
+  "추경호대구광역시장,강동노인복지관방문...폭염속어르신격려·현...",
+  "경남도교육청,온열질환예방현장점검실시",
+  "세종TP,한국인공지능협회와업무협약…지역AI생태계조성본격화",
+  "호반그룹,‘오픈이노베이션위크’개최⋯미래산업생태계확대",
+  "'위로쌓고·새공간만들고'…삼성·SK,AI메모리병목해법갈렸다",
+  "AI메가딜에몰린자금…글로벌M&A거래5년만에최대전망",
+  "\"와이파이유출도통신사책임\"…공정위,이통3사불공정약관손질"
  ],
  "recent_sigs": [
-  [
-   "2026-08-06T10:14:17.147531+09:00",
-   "슈퍼 개방 자율주행 추론 모델 무료 알파마요"
-  ],
   [
    "2026-08-06T10:16:17.823996+09:00",
    "기회 데이터센터로 ~SKT 성장동력 NH투자 기업가치 재평가 확보"
@@ -6547,9 +6543,13 @@
   [
    "2026-08-06T16:06:20.486397+09:00",
    "100억 담보로 지분 달러 소프트뱅크 대출"
+  ],
+  [
+   "2026-08-06T16:14:17.330863+09:00",
+   "세운 투자 ~LGU LGU 분기 영업익 기록 2조 AIDC에"
   ]
  ],
- "last_run": "2026-08-06T16:12:45.514624+09:00",
+ "last_run": "2026-08-06T16:14:35.449911+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
