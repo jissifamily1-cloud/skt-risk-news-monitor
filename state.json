@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167401",
-  "https://www.viva100.com/article/20260805501189",
-  "https://www.newspim.com/news/view/20260805001335",
-  "https://kpenews.com/View.aspx?No=4175601",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269288",
-  "https://sports.khan.co.kr/article/202608051654003?pt=nv",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240814",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=356976",
   "https://zdnet.co.kr/view/?no=20260805165343",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05546486645544368",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719291",
@@ -2999,17 +2991,17 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000054904",
   "http://www.newslock.co.kr/news/articleView.html?idxno=134021",
   "https://www.lecturernews.com/news/articleView.html?idxno=207703",
-  "https://www.m-i.kr/news/articleView.html?idxno=1399689"
+  "https://www.m-i.kr/news/articleView.html?idxno=1399689",
+  "http://datanews.co.kr/news/article.html?no=145935",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690569",
+  "https://www.ajunews.com/view/20260806150521102",
+  "https://www.news1.kr/world/usa-canada/6251328",
+  "https://www.chosun.com/economy/tech_it/2026/08/06/7UUL5IJCSBHNPGEOEAVKYY2RHM/",
+  "http://www.beyondpost.co.kr/view.php?ud=202608061503336022be44c0aacd_30",
+  "https://www.mt.co.kr/tech/2026/08/06/2026080615011867212",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690582"
  ],
  "seen_titles": [
-  "[컨콜]SKT“AIDC최우선원칙은고객확보후구축,외부투자로재원...",
-  "\"AI데이터센터는속도전\"…SKT,부지·전력먼저확보한다",
-  "SK텔레콤,글로벌AI수요유치속도..빅테크와구체적논의",
-  "\"알뜰요금제혜택가득\"…LG유플러스,'알닷클럽'으로이용자케어확대",
-  "“나원래파워히터”…본색드러낸다크호스힐리어드,그리고홈런1위...",
-  "[AI브리프]레드햇,오픈소스커뮤니티'아사고'출범…AI안전·거버넌...",
-  "신한투자증권,금융권최초'AI에이전트부'신설…정보보호투자도확...",
-  "씨이랩,AI데이터센터냉각인프라역량강화…글로벌유체기업과협력...",
   "SKT,기가와트AIDC에올해3300억투자…\"先투자유치,後투자나설것\"(...",
   "[컨콜]SKT\"SK하이퍼올해출자3300억원…AIDC사업,외부투자최대한...",
   "[컨콜]SKT“AI인프라수요일시현상아냐…SK하이퍼는그룹시너지...",
@@ -6001,7 +5993,15 @@
   "KIA가을야구'빨간불'…김도영·박재현·성영탁아시안게임차출변수",
   "이통3사,'개인정보유출'면책조항없앤다...불공정약관4종자진시...",
   "서울대학교,엔비디아와AI공동연구부터인재양성까지…국내대학최초...",
-  "'현장경영'박윤영KT대표\"AIDC,AX핵심인프라\""
+  "'현장경영'박윤영KT대표\"AIDC,AX핵심인프라\"",
+  "창원40.4도·대구39.6도인데…폭염속강행된프로야구",
+  "구글'나노바나나2'품질저하논란…챗GPT와비교해보니",
+  "카카오,'AI에이전트마켓플레이스'만든다…과기정통부개발사업수...",
+  "'빅쇼트'버리\"대세고점근처…1987년'블랙먼데이'올것\"",
+  "세계각국소버린AI추진하면서,AI칩은여전히엔비디아에종속",
+  "KT박윤영대표,목동2데이터센터점검…\"AIDC경쟁력강화\"",
+  "[컨콜]CJENM\"티빙x웨이브합병,하반기KT와상의할것\"",
+  "AMD폭락에도\"엔비디아독식아니다\"…짐크레이머가던진AI투자경고"
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,17 @@
   [
    "2026-08-06T15:08:32.523787+09:00",
    "최적화 개발 2나노 본격화 활용 삼성 클로드"
+  ],
+  [
+   "2026-08-06T15:12:26.845469+09:00",
+   "ENM 합병 ~KT 티빙 상의할 웨이브 CJ KT와 하반기"
+  ],
+  [
+   "2026-08-06T15:12:26.845469+09:00",
+   "폭락에도 경고 AMD 투자 아니다 던진 독식 크레이머가"
   ]
  ],
- "last_run": "2026-08-06T15:10:46.564847+09:00",
+ "last_run": "2026-08-06T15:12:50.698295+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
