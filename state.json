@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260805000291",
-  "https://www.hankookilbo.com/news/article/A2026080409410001002?did=NA",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238362",
-  "https://www.g-enews.com/view.php?ud=2026080313420565143d7a510102_1",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719170",
-  "https://www.mt.co.kr/tech/2026/08/05/2026080509292759331",
-  "https://www.sedaily.com/article/20075878",
-  "https://www.dailian.co.kr/news/view/1674597/?sc=Naver",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271106",
   "https://www.imaeil.com/page/view/2026080417450489801",
   "https://www.ikbc.co.kr/article/view/kbc202608050009",
@@ -2999,17 +2991,17 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20260806090813P1V",
   "http://www.newsprime.co.kr/news/article.html?no=742891",
   "https://www.tokenpost.kr/news/tech/385406",
-  "https://www.etoday.co.kr/news/view/2611582"
+  "https://www.etoday.co.kr/news/view/2611582",
+  "http://www.popcornnews.net/news/articleView.html?idxno=128823",
+  "https://www.news2day.co.kr/article/20260806500032",
+  "https://sateconomy.co.kr/news/view/1065571443304099",
+  "https://biz.chosun.com/stock/stock_general/2026/08/06/G5NXKGUB7FF3RPPKTRBHY6CMMU/",
+  "https://www.ddaily.co.kr/page/view/2026080509453173722",
+  "https://www.viva100.com/article/20260806500142",
+  "https://www.newsis.com/view/NISX20260806_0003738417",
+  "https://www.yna.co.kr/view/AKR20260806032800017?input=1195m"
  ],
  "seen_titles": [
-  "AI의무단해킹막는다...백악관,첨단AI'보안검증'방안마련",
-  "호르무즈긴장완화·AI실적훈풍···코스피6600선회복출발",
-  "이동통신3사,AI이용자잡아라…요금부터프로모션까지선보여",
-  "\"해킹이전실적넘었다\"…SKT,가입자증가에2Q영업익5660억원",
-  "SKT,2분기영업익5660억원…AI데이터센터성장에67%↑(종합)",
-  "SK텔레콤,영업익전년비67%성장…AIDC매출2배급증",
-  "KT,홍대서'미니브×민트라온'팝업스토어운영",
-  "KT,홍대서'미니브X민트라온'팝업…갤럭시Z신제품도체험",
   "박진만감독의결단,강민호제외해삼성라이온즈에긴장감불어넣어",
   "폭염에프로야구도멈췄다...KIA,3경기연속취소",
   "골프존,'2026신한투자증권GTOUR'6차메이저대회개최...총상금1억20...",
@@ -6001,7 +5993,15 @@
   "[3분증시]뉴욕증시,연일급등뒤숨고르기",
   "[해외시황]뉴욕증시,호르무즈협상기대·차익실현에'숨고르기'…다...",
   "엔비디아,인공지능랜으로5G통신기지국혁신예고",
-  "메타,첫AI코딩에이전트공개⋯오픈AIㆍ엔스로픽과본격경쟁"
+  "메타,첫AI코딩에이전트공개⋯오픈AIㆍ엔스로픽과본격경쟁",
+  "삼성,8월대기업집단브랜드평판1위…'SK·현대차'뒤이어",
+  "\"코스피,미반도체조정에숨고르기…순환매장세이어질것<키움證>",
+  "다우사상최고치…기술주차익실현에뉴욕증시혼조",
+  "美증시‘숨고르기’여파에…코스피,1.8%하락출발",
+  "\"데이터센터매출2배급증\"…AMD,2분기115억달러사상최대실적",
+  "KT,AI기반실시간스팸차단서비스전고객확대적용",
+  "\"스팸의심문자싹잡아낸다\"…KT,'AI기반실시간차단'전고객확대",
+  "[AI픽]KT,AI기반실시간스팸차단서비스전고객확대"
  ],
  "recent_sigs": [
   [
@@ -6405,7 +6405,7 @@
    "기반 보안 확산 확보 엔큐리티 Censys CTEM 고객 추가 운영"
   ]
  ],
- "last_run": "2026-08-06T09:10:47.012688+09:00",
+ "last_run": "2026-08-06T09:12:32.615378+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
