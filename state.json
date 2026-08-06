@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260806000042",
-  "https://www.etnews.com/20260806000045",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=854934",
-  "http://www.thebigdata.co.kr/view.php?ud=202608060746231453d0a8833aad_23",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=725753",
   "https://www.etoday.co.kr/news/view/2611615",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=316096",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12120425",
   "http://www.osen.co.kr/article/G1112853248",
   "http://coinreaders.com/251584",
-  "https://www.greened.kr/news/articleView.html?idxno=347054"
+  "https://www.greened.kr/news/articleView.html?idxno=347054",
+  "https://www.dailian.co.kr/news/view/1675327/?sc=Naver",
+  "https://biz.sbs.co.kr/article_hub/20000327220?division=NAVER",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690785",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04168886645545024"
  ],
  "seen_titles": [
-  "한국산업단지공단×씨엔티테크,2026년산업단지오픈이노베이션프로그...",
-  "어드밴텍,NVIDIAJetsonThor전라인업지원…엣지AI플랫폼완성",
-  "밈코인으로뜬로빈후드체인…토큰화는아직",
-  "이재용회장,CEO브랜드평판8월빅데이터1위...최태원·구광모회장순",
   "LG유플러스,공공보안시장공략…'알파키'CSAP인증획득",
   "LG유플러스,통합계정관리서비스‘알파키’…국내첫CSAP인증획득",
   "LG유플러스'알파키',국내IDaaS최초CSAP획득…공공시장공략본격화",
@@ -6001,7 +5997,11 @@
   "오픈AI첫AI기기‘하키퍽크기도넛’모양스피커…가격300~400달러",
   "황재균,폭염여파로은퇴식취소…\"조금만기다려달라\"당부[전문]",
   "6만7,025달러냐6만2,662달러냐…비트코인운명가를두가격",
-  "구광모LG회장,다음주엔비디아본사찾아젠슨황CEO와2차회동...피..."
+  "구광모LG회장,다음주엔비디아본사찾아젠슨황CEO와2차회동...피...",
+  "\"한도줄기전에받자\"…정부규제가부추긴'대출막차'",
+  "[증시전략]스페이스X,첫락업해제…9억주매물주가흔드나?",
+  "제니티,클로드·챗GPT아틀라스브라우저해킹기법2건공개",
+  "[이정훈의크립토네이션]콜드월렛해킹,강건너불구경안된다"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,17 @@
   [
    "2026-08-07T07:08:18.904068+09:00",
    "기기 크기 모양 가격 도넛 하키퍽 400달러 스피커"
+  ],
+  [
+   "2026-08-07T07:12:18.804470+09:00",
+   "챗GPT 제니티 브라우저 클로드 아틀라스 공개 2건 기법"
+  ],
+  [
+   "2026-08-07T07:12:18.804470+09:00",
+   "건너 불구경 콜드월렛 안된다"
   ]
  ],
- "last_run": "2026-08-07T07:10:54.594188+09:00",
+ "last_run": "2026-08-07T07:12:46.031766+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
