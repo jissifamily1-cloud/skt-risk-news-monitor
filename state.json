@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.getnews.co.kr/news/articleView.html?idxno=877117",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690188",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444010",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/05/2026080590186.html",
-  "https://www.news1.kr/society/general-society/6250068",
-  "http://coinreaders.com/251238",
-  "https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html?partner=naver",
-  "https://www.mt.co.kr/tech/2026/08/04/2026080320203039445",
-  "https://www.chosun.com/opinion/correspondent_column/2026/08/03/PGHGRFT6ENDVHFOU4BCSH75MHY/",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474659",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05054486645544368",
   "https://www.ekn.kr/web/view.php?key=20260805020399785",
   "https://sports.donga.com/sports/article/all/20260805/134425167/1",
   "https://www.newspim.com/news/view/20260805000216",
@@ -2999,20 +2988,20 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=444108",
   "http://www.inews24.com/view/1992086",
   "https://www.mk.co.kr/article/12119103",
-  "https://www.sedaily.com/article/20076458"
+  "https://www.sedaily.com/article/20076458",
+  "http://www.breaknews.com/1227174",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689094",
+  "https://www.wikitree.co.kr/articles/1149723",
+  "https://view.asiae.co.kr/article/2026080613585710971",
+  "http://www.hellodd.com/news/articleView.html?idxno=112688",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2292005",
+  "https://www.newsis.com/view/NISX20260806_0003738912",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/05/2026080590184.html",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690545",
+  "http://www.joseilbo.com/news/news_read.php?uid=573367&class=53",
+  "https://www.ddaily.co.kr/page/view/2026080613582373820"
  ],
  "seen_titles": [
-  "텐센트,주력AI'Hy3'글로벌무료개방…오픈AI출신영입후첫모델",
-  "엔비디아'루빈울트라'에도HBM4탑재검토,삼성전자·SK하이닉스HBM4...",
-  "방미통위,방송영상데이터117만건'무료개방'",
-  "폭염에프로야구이틀중단…오늘팀K리그-맨시티전은예정대로",
-  "소프트뱅크,월가AI매수세따라13%랠리...삼전·닉스도동반랠리",
-  "WhyWallStreetIsFeelingSoBullish",
-  "몰카에쓰지않게…개보위\"AI글라스'촬영알림'필요\"",
-  "[특파원리포트]쿠팡앞에서‘집안싸움’벌이나",
-  "LG유플러스,알뜰폰전용멤버십프로그램'알닷클럽'출시",
-  "[단독]靑10일메가프로젝트점검회의…특별법윤곽나온다",
-  "[여전사풍향계]신한카드,갤럭시Z폴더블8고객잡기…최대5만원캐...",
   "폭염에미뤄진900만관중…하지만KBO는단호하다“흥행보다안전이...",
   "뉴스핌'마이케이팝스타',본선진출자발표…국내12팀·해외18팀공...",
   "\"첨단AI모델,가짜신원만들고인간속이고공격\"",
@@ -6001,7 +5990,18 @@
   "삼성전자SK하이닉스소극적주주환원에해외증권가비판,\"반도체호황...",
   "'예기치못한적자'마주한쿠팡…위기관리시험대",
   "박윤영KT대표,목동데이터센터현장점검...AI인프라경쟁력강화당...",
-  "박윤영“AIDC가AX핵심...KT그룹역량결집해경쟁력높여야”"
+  "박윤영“AIDC가AX핵심...KT그룹역량결집해경쟁력높여야”",
+  "LGU+,올2분기영업익3445억원..전년대비13.1%↑",
+  "[AI핫이슈]거세지는AI가격경쟁...오픈소스AI글로벌대세로",
+  "클로드오푸스4.7,실제기업인프라침투알고도강행",
+  "\"호실적도안통하네\"…코스피따라출렁이는日증시",
+  "[차이나급보]중국AI경쟁력의진실",
+  "[세상보기]AI와인문역량",
+  "\"월가주요헤지펀드,잇단사이버공격…최첨단AI등장에위험↑\"",
+  "방미심위,불법대체사이트차단성과…\"전자심의도입해신속차단\"",
+  "SKT,독자AI모델추론효율높인다…'소버린AI'역량강화",
+  "SK텔레콤,통신넘어‘AIDC’사업자추진…주가상승요인[주가동향...",
+  "박윤영KT대표,KT클라우드데이터센터점검…\"경쟁력높여야\""
  ],
  "recent_sigs": [
   [
@@ -6601,7 +6601,7 @@
    "음성복제 연쇄 월가 표적 비상 헤지펀드"
   ]
  ],
- "last_run": "2026-08-06T14:04:32.552101+09:00",
+ "last_run": "2026-08-06T14:06:38.976455+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
