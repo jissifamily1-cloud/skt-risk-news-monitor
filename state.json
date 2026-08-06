@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026080509384172011",
-  "https://www.yna.co.kr/view/AKR20260805049400008?input=1195m",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03706406645544368",
-  "https://www.munhwa.com/article/11607336",
-  "https://www.mydaily.co.kr/page/view/2026080510050902167",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/513728",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=594658",
-  "http://www.osen.co.kr/article/G1112852365",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271125",
-  "https://www.sportsworldi.com/newsView/20260805508233",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688554",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688553",
   "https://www.newsway.co.kr/news/view?ud=2026080509455785515",
@@ -2999,19 +2989,19 @@
   "http://www.kdfnews.com/news/articleView.html?idxno=186158",
   "https://www.bizwork.co.kr/news/articleView.html?idxno=417967",
   "https://www.eroun.net/news/articleView.html?idxno=87124",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725756"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=725756",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=82867",
+  "https://news.skbroadband.com/news/articleView.html?idxno=234215",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=01548166645543384",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148969169&call_from=naver_news",
+  "https://www.sentv.co.kr/article/view/sentv202608060019",
+  "https://news.tf.co.kr/read/economy/2351088.htm",
+  "https://imnews.imbc.com/news/2026/econo/article/6842806_36932.html",
+  "https://www.seoultimes.news/news/article.html?no=2000098535",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110172",
+  "https://www.sentv.co.kr/article/view/sentv202608060029"
  ],
  "seen_titles": [
-  "NH아문디\"반도체우려,주가에상당반영…반등모색여건조성\"",
-  "코스닥이어코스피도매수사이드카…코스피4%대↑",
-  "9440억전액현금지급판결…SK그룹지배구조엔영향없어[Who,What,Why...",
-  "5일서울포함수도권최고기온38도예보'폭염취소'경기또나올까",
-  "황인엽♥이혜리,비밀연애시작…'그대에게드림'설렘최고조",
-  "삼성에스디에스(삼성SDS),국가AI컴퓨팅센터첫삽…클라우드성장축...",
-  "KT소형준·KIA카스트로,7월‘쉘힐릭스플레이어’선정…상금150만원",
-  "교촌에프앤비,교촌치킨앱리뉴얼…멤버십혜택·고객편의기능강화",
-  "정찬민·임수현부부,노총각김빌리에돌직구…“결혼못하는이유있...",
-  "샘알트먼\"AI가생각대신하면인간인지능력약해질수있다\"",
   "오픈AI첫하드웨어,화면달린스마트스피커가능성",
   "美반도체주급등훈풍…25만전자·132만닉스안착[특징주]",
   "'갤럭시Z폴더블8개통혜택'…신한카드,최대5만원캐시백이벤트",
@@ -6001,7 +5991,17 @@
   "SKT,2분기영업익5660억원'컨센서스상회'…하나증권\"AI성장본격화...",
   "LG유플러스'알파키',국내IDaaS첫CSAP획득…공공시장공략시동",
   "LG유플러스,'알파키'국내첫CSAPSaaS표준등급획득…공공시장공략...",
-  "KT,AI스팸차단전고객확대…변형스팸도실시간탐지"
+  "KT,AI스팸차단전고객확대…변형스팸도실시간탐지",
+  "LGU+'알파키',공공클라우드보안확대…국내첫IDaaSCSAP인증",
+  "\"폭염땐편의점으로\"…광진구,기후동행쉼터17곳운영",
+  "단통법폐지1년,알뜰폰성장도멈췄다…“통신유통구조다시손봐야...",
+  "알뜰폰도'데이터안심옵션'도입…다써도계속쓴다",
+  "“SK,AI부품넘어지능수출…아태지형바꾼다”",
+  "뉴욕증시숨고르기에코스피약세출발…반도체주중심매도세",
+  "코스피숨고르기?1%안팎하락6,400선출발‥SK하이닉스는5%급락",
+  "LG유플러스'알파키',국내첫CSAP인증…공공클라우드시장공략",
+  "KT,AI스팸차단서비스전고객확대적용",
+  "\"전세계소버린AI92%가엔비디아칩사용…한국은대안찾기\""
  ],
  "recent_sigs": [
   [
@@ -6459,9 +6459,13 @@
   [
    "2026-08-06T09:28:17.100841+09:00",
    "기회다 균열도 독점"
+  ],
+  [
+   "2026-08-06T09:32:16.364410+09:00",
+   "전세계 한국은 소버린AI 대안 찾기 사용"
   ]
  ],
- "last_run": "2026-08-06T09:30:48.712304+09:00",
+ "last_run": "2026-08-06T09:32:41.293786+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
