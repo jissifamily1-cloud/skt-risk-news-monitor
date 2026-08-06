@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tfmedia.co.kr/news/article.html?no=206253",
-  "http://www.kdfnews.com/news/articleView.html?idxno=186097",
-  "https://view.asiae.co.kr/article/2026080510041579879",
-  "https://www.ddaily.co.kr/page/view/2026080510365161085",
-  "http://www.newsdream.kr/news/articleView.html?idxno=115713",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422840",
-  "https://www.sentv.co.kr/article/view/sentv202608050075",
-  "https://www.newspim.com/news/view/20260805000464",
-  "https://www.ekn.kr/web/view.php?key=20260805020409647",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307223",
   "https://www.joongangenews.com/news/articleView.html?idxno=537814",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629072",
@@ -2999,18 +2990,18 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1399468",
   "http://www.weeklytoday.com/news/articleView.html?idxno=789211",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444062",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=789218"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=789218",
+  "https://www.betanews.net/article/view/beta202608050023",
+  "https://zdnet.co.kr/view/?no=20260806101017",
+  "https://www.newsis.com/view/NISX20260806_0003738621",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=251953",
+  "https://sports.khan.co.kr/article/202608061014013?pt=nv",
+  "https://www.mediapen.com/news/view/1114638",
+  "https://www.news1.kr/finance/blockchain-fintech/6250800",
+  "https://www.econovill.com/news/articleView.html?idxno=747271",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444079"
  ],
  "seen_titles": [
-  "SK텔레콤2분기영업이익5660억…전년동기대비67.3%↑",
-  "팔란티어30%폭등…공매도투자자하루만4조원손실",
-  "LGU+,알뜰폰장기고객혜택강화…'알닷클럽'출시",
-  "신한카드,갤럭시Z폴더블8시리즈구매고객대상이벤트진행",
-  "[인터뷰]로미오TPAPAC부사장\"기술자체보다AI와사람협력체계구...",
-  "NH투자증권,‘AI시대금융산업’정책세미나개최",
-  "NH투자증권·한국경제연구학회,'AI시대금융산업'정책세미나개최",
-  "AI차세대메모리는…zHBM품은삼성,HBF내민SK",
-  "'페놀악몽'서'AI공급망주역'으로···두산전자BG화려한부활",
   "중동발복합전위협에국가시설보안부각...카티스,AI·로봇·양자보안...",
   "SKT,2분기영업이익5천660억원…AI데이터센터매출급증",
   "SK텔레콤,AI데이터센터성장세올라탔다…2분기영업이익67%급증",
@@ -6001,7 +5992,16 @@
   "LG유플러스,2분기영업익3445억원'역대최대'…AIDC가견인",
   "[위클리오늘]이동통신소식_LG유플러스,KT(8.6)",
   "NH투자\"SK텔레콤AI데이터센터로성장동력확보,기업가치재평가기회...",
-  "[위클리오늘]LG유플러스소식(8.6)"
+  "[위클리오늘]LG유플러스소식(8.6)",
+  "SK텔레콤,2분기영업이익5660억원…전년대비67.3%증가",
+  "LGU+,2분기영업익3445억원...전년비13.1%↑",
+  "LGU+,2분기영업익'역대최대'…AI데이터센터가효자(종합)",
+  "호남권AI데이터센터,컨테이너실증형vs7개사컨소시엄경쟁",
+  "이노션,2분기영업이익22.4%↑…스포츠·디지털마케팅성장",
+  "호반그룹,미래기술발굴부터투자까지…협력생태계넓힌다",
+  "비트코인9100만원대버티기…고래매집에반등기대감[코인브리핑]",
+  "\"최초CSAP인증획득\"LG유플러스알파키,공공시장진출기반확보",
+  "LG유플러스2분기영업이익3445억역대최대,AIDC매출28.9%증가"
  ],
  "recent_sigs": [
   [
@@ -6581,7 +6581,7 @@
    "소식 ~LGU LG유플러스"
   ]
  ],
- "last_run": "2026-08-06T10:16:38.539349+09:00",
+ "last_run": "2026-08-06T10:18:45.189335+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
