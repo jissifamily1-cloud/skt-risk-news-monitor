@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260805112221",
-  "https://sports.khan.co.kr/article/202608051123003?pt=nv",
-  "https://www.slist.kr/news/articleView.html?idxno=756644",
-  "https://www.tokenpost.kr/news/market/385466",
-  "https://www.newspim.com/news/view/20260805000587",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155801",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432192",
-  "https://www.koreaherald.com/article/10831567",
-  "https://www.xportsnews.com/article/2180206",
-  "https://www.huffingtonpost.kr/article/259275",
   "https://zdnet.co.kr/view/?no=20260805105838",
   "https://zdnet.co.kr/view/?no=20260805110201",
   "https://www.seoultimes.news/news/article.html?no=2000098505",
@@ -2999,19 +2989,19 @@
   "http://www.metroseoul.co.kr/article/20260805500594",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336230",
   "https://www.seoul.co.kr/news/economy/2026/08/05/20260805500093?wlog_tag3=naver",
-  "http://www.thebigdata.co.kr/view.php?ud=202608060957052746df3c2a17b7_23"
+  "http://www.thebigdata.co.kr/view.php?ud=202608060957052746df3c2a17b7_23",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=105034",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719360",
+  "https://www.viva100.com/article/20260806500369",
+  "https://www.cnbizm.com/news/articleView.html?idxno=310747",
+  "https://www.newspim.com/news/view/20260805000562",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05270966645544040",
+  "https://www.mt.co.kr/tech/2026/08/04/2026080414085074436",
+  "https://www.news1.kr/it-science/cc-newmedia/6249749",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=269338",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=200591"
  ],
  "seen_titles": [
-  "두산에또다른‘2015시즌흐름’이오고있는가",
-  "후지필름코리아,혁구개인전'빛이머무는순간'개최",
-  "코스피,미국증시훈풍타고4%급등…반도체주주도",
-  "[일본특징주]이비덴,실적상향에24%급등...AI반도체기판수요확대...",
-  "LG유플러스,알뜰폰고객전용'알닷클럽'출범…장기이용자혜택강...",
-  "KT,8일'캡틴'황재균은퇴식개최…20년그라운드마침표",
-  "SKTelecomQ2profitjumps67%onAIdatacentergrowth",
-  "'홈런왕도전하는박해민'실존한다,22연타석무안타→7월MVP후보'환...",
-  "스페이스X'호실적'발표에도주가시간외거래에서7%이상하락:원인...",
-  "업스테이지,하반기AI모델2연타…상용시장공략속도",
   "콜드월렛도뚫렸다…전문가\"100%안전없어,추가비번설정해야\"",
   "LG유플러스,'알닷클럽'으로알뜰폰장기고객관리박차",
   "알지에이로보틱스,엔비디아'인셉션'스타트업지원프로그램선정",
@@ -6001,7 +5991,17 @@
   "부산외대-부산대,美실리콘밸리해외창업실습성료",
   "지연된정의,YTN의정상화를위하여",
   "방미통위,방송영상데이터117만건개방…“AI모델활용기대”",
-  "KT,AI기반실시간스팸차단서비스전고객확대적용...이용자관심도..."
+  "KT,AI기반실시간스팸차단서비스전고객확대적용...이용자관심도...",
+  "LGU+,2분기영업이익3445억원으로분기별최대실적창출",
+  "AIDC로날았다…LGU+,2Q영업익3445억으로역대분기최대",
+  "‘중심지락인효과’·‘브랜드’선호뚜렷…상반기1군브랜드청약...",
+  "호반그룹,'오픈이노베이션위크'열어…스타트업기술협력강화",
+  "WSJ\"美개방형AI모델,당국의사전검증대상에서제외\"",
+  "이파피루스,웹문서뷰어‘스트림닥스7.0’출시",
+  "\"베낀건없지만고쳐낸다\"…카카오웹툰,표절논란정면돌파",
+  "\"제2의뉴토끼끝까지쫓는다\"…방미심위,텔레그램과공조",
+  "LG유플러스'알파키',정부기관진출활로개척…국내IDaaS최초CSAP인...",
+  "LG유플러스,2Q매출액3.6조...전년동기比4.4%↓"
  ],
  "recent_sigs": [
   [
@@ -6621,7 +6621,7 @@
    "심각 85건 찾았다 레드팀 취약점 390곳서 오픈소스 비트코인"
   ]
  ],
- "last_run": "2026-08-06T10:34:42.202516+09:00",
+ "last_run": "2026-08-06T10:36:38.985880+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
