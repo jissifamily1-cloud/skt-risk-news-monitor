@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=90201",
-  "https://www.seoul.co.kr/news/sport/2026/08/05/20260805500112?wlog_tag3=naver",
-  "https://sports.khan.co.kr/article/202608051217003?pt=nv",
-  "https://www.yna.co.kr/view/AKR20260805047400009?input=1195m",
-  "https://m.skyedaily.com/news_view.html?ID=309226",
-  "http://www.4th.kr/news/articleView.html?idxno=2115839",
-  "http://www.4th.kr/news/articleView.html?idxno=2115842",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=808789",
-  "http://www.4th.kr/news/articleView.html?idxno=2115845",
-  "https://www.koreaherald.com/article/10831686",
-  "https://www.pressman.kr/news/articleView.html?idxno=103037",
   "https://www.catchnews.kr/news/articleView.html?idxno=126970",
   "https://www.inthenews.co.kr/news/article.html?no=90202",
   "https://www.aitimes.com/news/articleView.html?idxno=213550",
@@ -2999,20 +2988,20 @@
   "https://www.mt.co.kr/future/2026/08/06/2026080610172635532",
   "http://www.ttlnews.com/news/articleView.html?idxno=3132033",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=702737",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690453"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690453",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600089.html",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719099",
+  "https://www.inthenews.co.kr/news/article.html?no=90243",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3657273",
+  "https://new.dailypharm.com/user/news/341172?REFERER=NP",
+  "https://www.seoultimes.news/news/article.html?no=2000098544",
+  "http://coinreaders.com/251423",
+  "https://www.sedaily.com/article/20076398",
+  "http://www.metroseoul.co.kr/article/20260806500135",
+  "https://www.etoday.co.kr/news/view/2611695",
+  "https://www.mt.co.kr/world/2026/08/06/2026080609362823525"
  ],
  "seen_titles": [
-  "뜨거운7월보낸kt소형준-KIA카스트로,KBO리그7월의쉘힐릭스플레...",
-  "도깨비방망이같은KBO규정,선수들은의아하다…광주는사흘째폭염...",
-  "美의회\"美통신사들,데이터센터로중국해킹위협노출\"",
-  "SKT영업이익67.3%증가…유심정보유출여파벗었다",
-  "[경제소식]NH올원뱅크,'고향사랑기부제'간편연계도입",
-  "[산업소식]SK이노베이션,가족돌봄아동진로지원'낙낙투어'개최",
-  "[현장]소버린AI'코히어'CRO\"아태보다중요한시장없다\"",
-  "\"인터넷끊었는데도털렸다\"…콜드월렛해킹에비트코인1.3억달러증발",
-  "HeatdisruptsKoreanbaseballasplayers,fansstrugglethroughrecor",
-  "스마트폰캐시백부터숙박할인...카드업계여름혜택강화",
-  "\"AI가금융판단대신할때사고책임은누구에게\"NH투자증권·한국경제연...",
   "KT,홍대‘미니브×민트라온콜라보에디션’팝업운영",
   "스페이스X,AI컴퓨팅계약힘입어분기매출2배급증...주가는8%하락",
   "“너,무대안서고싶어?”최태지가부르자,차진엽윤혜진이응답했...",
@@ -6001,7 +5990,18 @@
   "아우토크립트,'데프콘'서자동차이더넷보안연구사례공개",
   "공공클라우드빗장푼LG유플러스...IDaaS최초CSAP표준등급획득",
   "KT,전고객에AI스팸차단확대",
-  "MS,자체AI두고도오픈AI선택…개발자는'GPT-5.6솔'부터쓴다"
+  "MS,자체AI두고도오픈AI선택…개발자는'GPT-5.6솔'부터쓴다",
+  "역대급폭염에AIDC도비상,GPU냉각총력전…“무조건식혀라”",
+  "[1%초고수의선택]'한국콜마'사고'SK텔레콤'순매도",
+  "목동재건축확산에도오목교중심축…목동윤슬자이651실공급",
+  "전남광주의회\"조직개편초안,공식전달없어...집행부와협의부족\"지...",
+  "미소정보기술,액틱으로기업AI에이전트운영통합",
+  "호반그룹,AI·스마트건설스타트업육성…오픈이노베이션본격화",
+  "AMD,2분기호실적에도주가하락...번스타인\"진짜승부는4분기\"",
+  "‘그놈목소리’에월가도당했다…AI보이스피싱동원연쇄사이버공...",
+  "LG유플러스,통합계정관리서비스'알파키'보안인증획득",
+  "LG유플러스,2분기영업익3445억역대최대…AIDC가실적견인",
+  "메타너마저…AI테스트중외부해킹발생,\"원인은오픈AI와달라\""
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,13 @@
   [
    "2026-08-06T10:54:15.931665+09:00",
    "GPT 쓴다 선택 개발자는 두고도 MS 자체 부터"
+  ],
+  [
+   "2026-08-06T10:56:16.874002+09:00",
+   "테스트 발생 메타 너마저 오픈AI와 달라 원인은 외부해킹"
   ]
  ],
- "last_run": "2026-08-06T10:54:40.471787+09:00",
+ "last_run": "2026-08-06T10:56:37.394415+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
