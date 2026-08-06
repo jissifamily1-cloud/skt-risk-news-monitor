@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202608050951054658fbbec65dfb_1",
-  "https://news.mtn.co.kr/news-detail/2026080609132133763",
-  "https://www.newspim.com/news/view/20260806000237",
-  "http://www.kdfnews.com/news/articleView.html?idxno=186158",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=417967",
-  "https://www.eroun.net/news/articleView.html?idxno=87124",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725756",
   "https://www.pointe.co.kr/news/articleView.html?idxno=82867",
   "https://news.skbroadband.com/news/articleView.html?idxno=234215",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01548166645543384",
@@ -2999,16 +2992,16 @@
   "https://www.lecturernews.com/news/articleView.html?idxno=206111",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719493",
   "https://biz.sbs.co.kr/article_hub/20000327230?division=NAVER",
-  "https://www.g-enews.com/view.php?ud=202608070726259407e8b8a793f7_1"
+  "https://www.g-enews.com/view.php?ud=202608070726259407e8b8a793f7_1",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690767",
+  "https://www.xportsnews.com/article/2180911",
+  "http://san.chosun.com/news/articleView.html?idxno=26032",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=203322",
+  "https://www.yna.co.kr/view/AKR20260807012900009?input=1195m",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/07/2026080790074.html",
+  "https://www.yna.co.kr/view/AKR20260807014100011?input=1195m"
  ],
  "seen_titles": [
-  "앤트로픽,100억달러연산자원확보",
-  "코스피,장초반1%대하락…SK하이닉스,4%대약세",
-  "[개장시황]차익실현매물에코스피,1%대하락출발…삼전닉스약세",
-  "SKT,2분기영업익5660억원'컨센서스상회'…하나증권\"AI성장본격화...",
-  "LG유플러스'알파키',국내IDaaS첫CSAP획득…공공시장공략시동",
-  "LG유플러스,'알파키'국내첫CSAPSaaS표준등급획득…공공시장공략...",
-  "KT,AI스팸차단전고객확대…변형스팸도실시간탐지",
   "LGU+'알파키',공공클라우드보안확대…국내첫IDaaSCSAP인증",
   "\"폭염땐편의점으로\"…광진구,기후동행쉼터17곳운영",
   "단통법폐지1년,알뜰폰성장도멈췄다…“통신유통구조다시손봐야...",
@@ -6001,7 +5994,14 @@
   "ENA드라마'허수아비'\"연쇄살인사건의진범을잡아라!박해수·이희준...",
   "[EBN데이터센터]미국증시,다우0.85%하락마감...기술주혼조속반...",
   "[마켓프리뷰]상승세지키지못한코스피급락마감…코스닥'강보합'",
-  "中인민해방군,美AI지식추출…반도체제재우회군사전용"
+  "中인민해방군,美AI지식추출…반도체제재우회군사전용",
+  "[시큐리티핫이슈]AI發보안위협대응어떻게?테크기업연대확산",
+  "머리짧게자른구자욱,오직삼성우승만생각한다…\"나부터더집중하...",
+  "우리들의산전수전사진전[독자코너이사진어때요?]",
+  "대형전기SUV의반전매력,볼보EX90[시승기]",
+  "AMD,AI추론용맞춤칩스타트업인수…엔비디아추격가속",
+  "모건스탠리\"AI판누가이겨도엔비디아가승자\"…왜?",
+  "[연합뉴스이시각헤드라인]-07:30"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,17 @@
   [
    "2026-08-07T07:18:19.853585+09:00",
    "중심 성장 ~LGU 매년 확대까 데이터센터 본격화 LG유플러스 주주환원"
+  ],
+  [
+   "2026-08-07T07:32:22.334995+09:00",
+   "엔비디아가 누가 승자 이겨도 모건스탠리"
+  ],
+  [
+   "2026-08-07T07:32:22.334995+09:00",
+   ""
   ]
  ],
- "last_run": "2026-08-07T07:30:54.738435+09:00",
+ "last_run": "2026-08-07T07:32:43.741793+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
