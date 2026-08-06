@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260805230711",
-  "https://www.joongangenews.com/news/articleView.html?idxno=538065",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428897",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=854945",
-  "https://www.mk.co.kr/article/12113533",
   "https://biz.sbs.co.kr/article_hub/20000326975?division=NAVER",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03670326645544696",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5210636",
@@ -2999,14 +2994,14 @@
   "https://www.mydaily.co.kr/page/view/2026080708155159540",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475159",
   "https://www.newsen.com/news_view.php?uid=202608070816112410",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16157164"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16157164",
+  "https://theviewers.co.kr/View.aspx?No=4177591",
+  "https://www.econovill.com/news/articleView.html?idxno=747380",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84370",
+  "http://www.jeollailbo.com/news/articleView.html?idxno=806957",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608030431361340106881"
  ],
  "seen_titles": [
-  "KG스틸,SKT독자AI모델로설비오류대응30%줄였다",
-  "메타,첫AI코딩에이전트'뮤즈코드'공개…오픈AI·앤트로픽에도전...",
-  "AMD리사수,머스크의엔비디아독점채택발언일축",
-  "LGU+,공공보안상품'알파키'내년1분기출시",
-  "알뜰폰도데이터다써도안끊긴다…‘안심옵션’8월부터도매제공",
   "한화불꽃축제내달5일개최…작년보다3주앞당겨",
   "가성비·개방성앞세운中AI개도국서확산",
   "육동한강원춘천시장\"태권도중심·첨단산업도시로\"",
@@ -6001,7 +5996,12 @@
   "네이버,2분기영업익5203억원…전년比0.2%↓",
   "[마켓포인트]네이버,2분기매출3조3888억원…전년比16.2%↑",
   "‘유부녀킬러’공효진,워크숍서킬러본능…살벌한눈빛",
-  "공효진,워크숍게임서숨겨둔'킹피셔'감각드러낸다"
+  "공효진,워크숍게임서숨겨둔'킹피셔'감각드러낸다",
+  "네이버,2분기영업이익5203억원…전년比0.2%↓",
+  "AI가광고매출절반이상끌어올린네이버,이익은?",
+  "AI와해외C2C'쌍끌이'…네이버,외형확장속영업익은주춤",
+  "이대통령,샌프란AI동맹·자원외교확대",
+  "[더벨][두산실트론인수재무방정식]FI유치없다,로보틱스팔고도..."
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,13 @@
   [
    "2026-08-07T08:18:19.953219+09:00",
    "경기도 경기도교육청 경기도의회 경기신보"
+  ],
+  [
+   "2026-08-07T08:24:18.301490+09:00",
+   "팔고도 유치 로보틱스 FI 없다"
   ]
  ],
- "last_run": "2026-08-07T08:22:39.005398+09:00",
+ "last_run": "2026-08-07T08:24:36.610195+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
