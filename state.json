@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260805163224",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87578",
-  "https://www.sedaily.com/article/20075620",
-  "https://www.livebiz.today/news/articleView.html?idxno=203880",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16155497",
-  "https://www.hankyung.com/article/2026080569411",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8628696",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=119876",
-  "https://zdnet.co.kr/view/?no=20260805172027",
-  "https://www.newsis.com/view/NISX20260805_0003737897",
-  "https://www.bloter.net/news/articleView.html?idxno=670112",
   "https://www.tfmedia.co.kr/news/article.html?no=206247",
   "http://www.joynews24.com/view/1992293",
   "https://www.ppss.kr/news/articleView.html?idxno=304290",
@@ -2999,20 +2988,20 @@
   "https://www.newspim.com/news/view/20260806001005",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265434",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422911",
-  "https://www.ekn.kr/web/view.php?key=20260806021080250"
+  "https://www.ekn.kr/web/view.php?key=20260806021080250",
+  "https://www.dt.co.kr/article/12076947",
+  "https://en.yna.co.kr/view/AEN20260806007000320?input=2106m",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167475",
+  "https://www.koreadaily.com/article/20260805233829928",
+  "https://www.bzeronews.com/news/articleView.html?idxno=820959",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661997",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271253",
+  "https://www.tokenpost.kr/news/cryptocurrency/385584",
+  "https://zdnet.co.kr/view/?no=20260806111654",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16306",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/06/2026080600216.html"
  ],
  "seen_titles": [
-  "LG전자,청소로봇'LG로니'팝업체험존오픈…현대백화점판교점서시...",
-  "앤트로픽펜39.99달러…AI상장대기가만든굿즈프리미엄[박시진의...",
-  "AIDC로성장성되찾은SKT...2Q영업익67%↑",
-  "이준혁,개인X해킹→강아지사진업로드…소속사\"복구절차진행중...",
-  "캐나다AI코히어,韓법인설립",
-  "미,AI규제론-경쟁론놓고고심…“미중회담까진전략적모호성”",
-  "코스피3.8%상승...하이닉스5.77%,삼성전자2.50%올라",
-  "나루씨큐리티,KISA와전국중기보안사각지대해소나서",
-  "SKT,5GWAIDC'선구축'없다…수요맞춰올해3300억원부터출자(컨콜종...",
-  "[콘퍼런스콜리뷰]SK바이오팜,가이던스유지…하반기비용흡수할까",
-  "美행정부,AI규제냐경쟁이냐고심…\"돈과힘을둘러싼혈투\"",
   "이준혁SNS해킹당했다⋯\"계정복구중,피해주의\"",
   "[기업해부SK③]SK를흔드는오너리스크…9440억원재산분할판결이남...",
   "[컨콜종합]SKT,영업익67%반등…3300억출자해AIDC5GW시동",
@@ -6001,7 +5990,18 @@
   "BNK경남은행,여름문화페스티벌가족친화적이벤트추진",
   "이통3사'개인정보사고면책'약관고친다…공정위지적에시정",
   "매출줄었지만영업익역대최대찍은홈범식號LG유플러스",
-  "LG유플러스,2분기영업익3445억원…역대최대실적"
+  "LG유플러스,2분기영업익3445억원…역대최대실적",
+  "6G포럼,베트남과5G-A·6G기술및국제표준협력추진",
+  "KOSPI200ClosingPriceList-3",
+  "\"하반기티빙·웨이브합병본격논의\"[CJENM컨콜]",
+  "미주연세인들벨뷰에모여라…벨뷰서오는7일부터나흘간",
+  "'창업생존율40%'충북,7000억승부수",
+  "카카오,AI에이전트마켓플레이스개발",
+  "[빅데이터로읽는이슈]\"역시삼성\"갤럭시Z폴드8사전판매기록경신...",
+  "체리스튜디오2.0,에이전트업무공간으로확장",
+  "카카오,'쿠팡이츠'로에이전트AI첫구현…검색광고까지확장",
+  "삼전닉스주주환원경쟁...삼성'100조'·SK하이닉스'50조'기대",
+  "[컨콜]CJENM\"티빙-웨이브합병,하반기KT와협의본격화\""
  ],
  "recent_sigs": [
   [
@@ -6569,7 +6569,7 @@
    "에이전트 자체시스템 침투 허깅페이스"
   ]
  ],
- "last_run": "2026-08-06T15:40:47.010777+09:00",
+ "last_run": "2026-08-06T15:42:41.358978+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
