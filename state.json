@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307223",
-  "https://www.joongangenews.com/news/articleView.html?idxno=537814",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629072",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92852",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=206068",
-  "https://www.mk.co.kr/article/12117480",
-  "https://www.ziksir.com/news/articleView.html?idxno=142207",
   "http://www.journalist.or.kr/news/article.html?no=61402",
   "https://www.mk.co.kr/article/12116321",
   "http://www.fnnews.com/news/202608051007494569",
@@ -2999,16 +2992,16 @@
   "https://www.mediapen.com/news/view/1114638",
   "https://www.news1.kr/finance/blockchain-fintech/6250800",
   "https://www.econovill.com/news/articleView.html?idxno=747271",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444079"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444079",
+  "http://www.fnnews.com/news/202608061011498376",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444074",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155833",
+  "https://www.yna.co.kr/view/AKR20260806047300091?input=1195m",
+  "https://view.asiae.co.kr/article/2026080608575637919",
+  "https://www.nocutnews.co.kr/news/6559051",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630077"
  ],
  "seen_titles": [
-  "중동발복합전위협에국가시설보안부각...카티스,AI·로봇·양자보안...",
-  "SKT,2분기영업이익5천660억원…AI데이터센터매출급증",
-  "SK텔레콤,AI데이터센터성장세올라탔다…2분기영업이익67%급증",
-  "LG유플러스,알뜰폰고객도통신사할인받는'알닷클럽'출시",
-  "개보위과징금폭탄에…쿠팡,상장후최대분기적자",
-  "나루씨큐리티·KISA맞손···전국중소기업해킹징후탐지·취약점진...",
-  "YTN구성원들,극한폭염속'유진퇴출108배'",
   "“이제아재폰이라부르지마”…갤Z8역대급판매에이통사유치전‘활...",
   "\"10조원시공물량탄다\"GS건설,데이터센터·원전겹모멘텀…카카오페...",
   "“AI로돈못번다고?”의구심씻어낸클라우드…아마존,시총3조달...",
@@ -6001,7 +5994,14 @@
   "호반그룹,미래기술발굴부터투자까지…협력생태계넓힌다",
   "비트코인9100만원대버티기…고래매집에반등기대감[코인브리핑]",
   "\"최초CSAP인증획득\"LG유플러스알파키,공공시장진출기반확보",
-  "LG유플러스2분기영업이익3445억역대최대,AIDC매출28.9%증가"
+  "LG유플러스2분기영업이익3445억역대최대,AIDC매출28.9%증가",
+  "\"프리미엄SUV충족\"..더뉴BMWiX3,한국車기자협회8월의차선정",
+  "KT인공지능실시간스팸차단전체가입자로확대,오차단율0.003%",
+  "KT,AI로진화하는스팸잡는다…실시간차단서비스전고객확대",
+  "메타AI도외부기관해킹…세번째'불량에이전트'보안사고",
+  "\"전세계독자적AI의92%가엔비디아칩에종속\"",
+  "성기홍\"李,형소법개정안핵심내용당연히숙지\"",
+  "“수십조운용월가헤지펀드들대상해킹시도발생”"
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,17 @@
   [
    "2026-08-06T10:16:17.823996+09:00",
    "소식 ~LGU LG유플러스"
+  ],
+  [
+   "2026-08-06T10:20:26.092698+09:00",
+   "AI의 전세계 칩에 종속 독자적"
+  ],
+  [
+   "2026-08-06T10:20:26.092698+09:00",
+   "핵심 개정안 내용 성기홍 형소법 숙지 당연히"
   ]
  ],
- "last_run": "2026-08-06T10:18:45.189335+09:00",
+ "last_run": "2026-08-06T10:20:50.354678+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
