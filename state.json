@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260805000424",
-  "https://dealsite.co.kr/articles/166590",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93303",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271130",
-  "https://www.nocutnews.co.kr/news/6558478",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04139366645544368",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3030841",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269202",
-  "http://www.fnnews.com/news/202608051050252078",
-  "https://www.mt.co.kr/tech/2026/08/05/2026080510292065009",
   "https://www.datasom.co.kr/news/articleView.html?idxno=209372",
   "https://www.betanews.net/article/view/beta202608050023",
   "https://www.cnbnews.com/news/articleView.html?idxno=1010413",
@@ -2999,19 +2989,19 @@
   "https://www.econotimes.com/Meta-AI-Model-Exploits-Security-Flaw-During-Cybersecurity-Test-Raising-AI-Safety-Concerns-1748743",
   "https://www.sedaily.com/article/20076353",
   "https://www.donga.com/news/Economy/article/all/20260806/134429525/1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3657205"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3657205",
+  "https://www.g-enews.com/view.php?ud=2026080609490059603d7a510102_1",
+  "https://www.dailian.co.kr/news/view/1675222/?sc=Naver",
+  "https://www.tokenpost.kr/news/breaking/386083",
+  "https://kpenews.com/View.aspx?No=4176410",
+  "http://www.metroseoul.co.kr/article/20260806500082",
+  "http://www.joseilbo.com/news/news_read.php?uid=573343&class=78",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574987794874",
+  "https://biz.sbs.co.kr/article_hub/20000326755?division=NAVER",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=155831",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03883526645544696"
  ],
  "seen_titles": [
-  "[여행24시]대한항공,美아처와'군용AAM'협력外",
-  "[초점]삼성'3D독자행보'·SK'개방형연합'…'포스트HBM'향한동상...",
-  "'스페이스X'호실적에도…시간외거래서8%폭락한이유",
-  "'월간WAR1위'KT소형준·KIA카스트로,KBO7월쉘힐릭스플레이어선정",
-  "소형준·카스트로,7월WAR1위...‘쉘힐릭스플레이어’선정",
-  "프로야구kt위즈소형준,7월쉘힐릭스플레이어선정",
-  "NH투자증권,한국경제연구학회와'AI시대금융산업'정책세미나진행",
-  "코스피4%대오르며장중6600선돌파…반도체주가상승주도[fn오전시...",
-  "코히어,한국·일본법인설립…아태지역소버린AI공략박차",
-  "SK텔레콤,2분기영업이익전년比67.3%증가5660억원",
   "SK텔레콤,2분기영업이익5660억원…전년대비67.3%증가",
   "NH투자증권,한국경제연구학회와'AI시대금융산업'세미나개최",
   "CJ제일제당,프론티어랩스6기확정…260여개지원속스타트업4곳선...",
@@ -6001,7 +5991,17 @@
   "MetaAIModelExploitsSecurityFlawDuringCybersecurityTest,Raisi",
   "LG유플러스,국내첫CSAP인증알파키로공공공략",
   "머스크“앞으로엔비디아칩만쓴다”…228조원추가매출기대",
-  "LG유플러스,2분기호실적발표에주가도상승"
+  "LG유플러스,2분기호실적발표에주가도상승",
+  "LGU+,2분기영업익3445억원…역대최대실적달성",
+  "한국자동차기자협회,‘8월의차’에BMW신형iX3선정",
+  "시추에이셔널어웨어니스,비상장사에4억달러추가투자",
+  "카카오,에이전틱AI로‘의도경제’시대이끈다..쿠팡이츠와협업발...",
+  "호반그룹‘오픈이노베이션위크’…스타트업협력확대",
+  "메타,AI코딩에이전트'뮤즈코드'공개…클로드·코덱스에도전",
+  "우리금융연구소,워시發연준‘침묵의소통’…한은8월금리동결·인...",
+  "NH아문디\"반도체정점우려는과도…반등여건조성\"",
+  "LG유플러스,2분기영업이익3445억원'역대최대'…AI인프라성장·수...",
+  "엔비디아,자율주행추론모델'알파마요2슈퍼'무료개방"
  ],
  "recent_sigs": [
   [
@@ -6567,9 +6567,13 @@
   [
    "2026-08-06T10:12:19.302634+09:00",
    "발표에 호실적 주가도 2분기 LG유플러스 ~LGU 상승"
+  ],
+  [
+   "2026-08-06T10:14:17.147531+09:00",
+   "슈퍼 개방 자율주행 추론 모델 무료 알파마요"
   ]
  ],
- "last_run": "2026-08-06T10:12:39.933305+09:00",
+ "last_run": "2026-08-06T10:14:35.345841+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
