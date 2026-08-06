@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.economytalk.kr/news/articleView.html?idxno=423329",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690095",
-  "https://www.veritas-a.com/news/articleView.html?idxno=622151",
-  "http://www.maniareport.com/view.php?ud=202608051343529863dad9f33a29_19",
-  "https://www.thelec.kr/news/articleView.html?idxno=60586",
-  "https://www.nytimes.com/2026/08/05/pageoneplus/how-to-approach-an-interview-with-mark-zuckerberg.html?partner=naver",
-  "https://www.etnews.com/20260805000286",
-  "https://www.etnews.com/20260805000228",
-  "https://www.itbiznews.com/news/articleView.html?idxno=220921",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240809",
   "https://www.dt.co.kr/article/12076721",
   "http://www.beyondpost.co.kr/view.php?ud=20260805155610651be44c0aacd_30",
   "http://www.popcornnews.net/news/articleView.html?idxno=128767",
@@ -2999,19 +2989,19 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428978",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93376",
   "https://www.gokorea.kr/news/articleView.html?idxno=867050",
-  "https://wemakenews.co.kr/news/view.php?no=25994"
+  "https://wemakenews.co.kr/news/view.php?no=25994",
+  "https://www.sportschosun.com/life/2026-08-06/202608060100037110002303",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=269391",
+  "https://www.etnews.com/20260806000273",
+  "https://www.etoday.co.kr/news/view/2611792",
+  "https://www.ajunews.com/view/20260713160252009",
+  "https://www.news1.kr/finance/blockchain-fintech/6250920",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101209",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=760938",
+  "https://www.ftimes.kr/news/articleView.html?idxno=38901",
+  "https://news.appstory.co.kr/daily19458"
  ],
  "seen_titles": [
-  "방미심위,'뉴토끼'추적강화…CDN직접차단·텔레그램채널삭제",
-  "서울여대블록체인특성화대학(원)지원사업선정..'ABCD컨소시엄'주...",
-  "KBO폭염긴급대책회의개최…5∼6일1·2군전경기취소",
-  "AMD\"내년데이터센터부문매출두배\"…서버CPU는공급난여전",
-  "HowtoApproachanInterviewWithMarkZuckerberg",
-  "[사설]美AIDC냉각시장,우리도현지대응을",
-  "美AIDC냉각시장현지화속도내는日…삼성·LG'발등의불'",
-  "트렌드포스\"메모리수요공급불균형,내년까지지속\"",
-  "\"네오클라우드기업75%,전략전환·M&A아니면시장퇴출\"",
-  "“AI병목은GPU아닌데이터”…델,엔드투엔드전략승부수",
   "SKT,2분기영업익5660억전년比67.3%↑…AIDC매출2배성장",
   "두산,AI시대웨이퍼에베팅…SK실트론인수큰그림명확",
   "KBO리그결국올스톱…폭염이바꾼시즌판도와긴급대책",
@@ -6001,7 +5991,17 @@
   "JP모건\"AI투자사이클아직안끝났다…반도체장비유망\"",
   "'AIDC현장행보'KT박윤영대표\"차별화된경쟁력키워야\"당부",
   "KT박윤영대표,ktcloud데이터센터현장점검…\"AIDC경쟁력강화해야...",
-  "“시장1위가AI1위는아니야”…AI가고른브랜드순위첫공개"
+  "“시장1위가AI1위는아니야”…AI가고른브랜드순위첫공개",
+  "KT,AI실시간스팸차단전고객확대적용",
+  "\"27년째백만명이상관람,한·미·영참가\"…한화세계불꽃축제개최",
+  "TTA,韓6G기술베트남진출교두보마련",
+  "미래에셋운용\"반도체투자,메모리넘어밸류체인전반으로넓혀야\"",
+  "[문송천의디지털산책]엔비디아선물보따리속의은밀한함정",
+  "[기고]콜드월렛도완벽하지않다…'키보관'넘어'서명통제'물어야",
+  "'유튜브쇼츠'도청소년SNS규제대상검토",
+  "KT,AI스팸차단전고객적용…신종·변형스팸까지걸러낸다",
+  "\"해킹범메시지주의\"…이준혁소속사,SNS해킹피해에긴급공지",
+  "AI에이전트,해킹실험중가짜신원만들어공격시도"
  ],
  "recent_sigs": [
   [
@@ -6611,9 +6611,13 @@
   [
    "2026-08-06T14:22:19.492521+09:00",
    "4분기 생산량 예상 3나노 주문 올해 18만장 TSMC 수요"
+  ],
+  [
+   "2026-08-06T14:26:16.154992+09:00",
+   "에이전트 신원 공격 가짜 만들어 시도 실험"
   ]
  ],
- "last_run": "2026-08-06T14:24:37.738990+09:00",
+ "last_run": "2026-08-06T14:26:37.368458+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
