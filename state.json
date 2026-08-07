@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031037",
-  "https://www.newsis.com/view/NISX20260806_0003739618",
-  "https://www.mk.co.kr/article/12119550",
-  "https://www.hankookilbo.com/news/article/A2026080616160004110?did=NA",
-  "https://www.newsis.com/view/NISX20260806_0003739542",
-  "https://www.busan.com/view/busan/view.php?code=2026080617375420136",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719477",
   "https://www.newsis.com/view/NISX20260806_0003739505",
   "https://www.mt.co.kr/industry/2026/08/06/2026080522210222797",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93333",
@@ -2999,16 +2992,16 @@
   "https://news.tf.co.kr/read/life/2351935.htm",
   "http://www.journalist.or.kr/news/article.html?no=61423",
   "http://www.00news.co.kr/news/articleView.html?idxno=105720",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271362"
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271362",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690772",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07872006645545024",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07878566645545024",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07881846645545024",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07885126645545024",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07888406645545024",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07875286645545024"
  ],
  "seen_titles": [
-  "SKT'에이닷'서비스서일시적장애발생…현재복구",
-  "SKT,에이닷서비스점검완료",
-  "SKT·LGU+,AIDC로호실적…해킹여파KT주춤전망",
-  "짱짱한기술로여객기→화물기인천공항'항공MRO허브'도약",
-  "SKT,에이닷서비스일시장애복구…\"LLM모델자체와는무관\"(종합)",
-  "SKT,에이닷서비스일시장애복구…“호출장비일시적오류”",
-  "'통신망·시스템'에서'인프라·플랫폼'으로...AI체질개선나선기업...",
   "SKT,에이닷서비스장애발생…\"LLM모델측오류\"",
   "SKT·KT·LGU+이통3사,개인정보사고면책등약관시정한다",
   "SKT·LGU+,2분기통신본업회복에AIDC로날았다",
@@ -6001,7 +5994,14 @@
   "변호사사칭개인정보갈취…변협,피싱사이트31곳차단",
   "네이버\"AI탭,출시한달만에MAU1000만명돌파\"",
   "[FMS2026]삼성·SK,차세대AI메모리기술승부수",
-  "\"시장기대치11%뚫은LG유플러스…비용줄이고주력사업날았다\""
+  "\"시장기대치11%뚫은LG유플러스…비용줄이고주력사업날았다\"",
+  "SKT'에이닷'일시장애복구…점검후정상작동",
+  "[포토]김재희,폭염에도미소출발",
+  "[포토]김재희,파이팅외치며출발",
+  "[포토]김재희,밝은손인사와함께",
+  "[포토]김재희,미소를잃지않아",
+  "[포토]김재희,조준에오차없이",
+  "[포토]김재희,팬들에게인사해요"
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,29 @@
   [
    "2026-08-07T18:50:29.409705+09:00",
    "변호사 31곳 피싱 차단 사이트 개인정보 사칭 변협 갈취"
+  ],
+  [
+   "2026-08-07T18:54:19.404468+09:00",
+   "외치며 출발 파이팅 김재희"
+  ],
+  [
+   "2026-08-07T18:54:19.404468+09:00",
+   "밝은 함께 손인사와 김재희"
+  ],
+  [
+   "2026-08-07T18:54:19.404468+09:00",
+   "잃지않아 미소를 김재희"
+  ],
+  [
+   "2026-08-07T18:54:19.404468+09:00",
+   "조준에 오차없이 김재희"
+  ],
+  [
+   "2026-08-07T18:54:19.404468+09:00",
+   "팬들에게 인사해요 김재희"
   ]
  ],
- "last_run": "2026-08-07T18:52:36.226799+09:00",
+ "last_run": "2026-08-07T18:54:48.234861+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
