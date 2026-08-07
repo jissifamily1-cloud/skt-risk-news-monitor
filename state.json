@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260806500452",
-  "https://gamefocus.co.kr/detail.php?number=178045",
-  "https://www.newspost.kr/news/articleView.html?idxno=224749",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309486&inflow=N",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031042",
   "https://www.newspim.com/news/view/20260806001016",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=357080",
@@ -2999,13 +2995,13 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1010794",
   "https://www.polinews.co.kr/news/articleView.html?idxno=739534",
   "https://www.khan.co.kr/article/202608061637001",
-  "https://dgmbc.com/NewsArticle/855528"
+  "https://dgmbc.com/NewsArticle/855528",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7178078",
+  "https://www.kyeongin.com/article/1768634",
+  "https://www.sedaily.com/article/20077043",
+  "https://www.ytn.co.kr/_ln/0101_202608071745160011"
  ],
  "seen_titles": [
-  "[기획]LG유플,역대실적…서버폐기혐의'발목'",
-  "알바채용도'자동화'…채용관리시스템도입150%증가",
-  "경남은행,창원NC파크서가족문화페스티벌'경가페'개최",
-  "TSMC,3나노월18만장조기달성…2027년1분기'가격폭탄'까지예고",
   "최약체좀비를화끈하게성장시키는액션RPG,'StupidNeverDies'패키지...",
   "LG유플러스,AIDC사업LGCNS와중복?…\"고객기반에차이\"",
   "박윤영KT대표,AIDC현장경영…\"AX플랫폼핵심인프라로키운다\"",
@@ -6001,7 +5997,11 @@
   "부산외대·한국해양대·동아대,서울서진로진학콘서트개최",
   "[마감시황]외국인매도에코스피6258선으로후퇴.....2차전지·은행주...",
   "‘업계1위’와‘AI노출1위’는달랐다···AI검색증가에기업들...",
-  "민주당당원커뮤니티서개인정보무더기해킹···\"전당대회온라인..."
+  "민주당당원커뮤니티서개인정보무더기해킹···\"전당대회온라인...",
+  "SK하이닉스,용인·청주에'54조'메모리공장짓는다",
+  "네이버,AI효과로2Q‘역대최대매출’…인프라투자로영업이익소...",
+  "엔비디아도쩔쩔…‘루빈울트라’HBM줄이나",
+  "민주당커뮤니티'블루웨이브'해킹...1만7천여명개인정보유출"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,13 @@
   [
    "2026-08-07T17:44:16.429709+09:00",
    "기관을 대신 문제를 시험 푸는 해킹했다 출제"
+  ],
+  [
+   "2026-08-07T17:48:20.032586+09:00",
+   "HBM 루빈 쩔쩔 엔비디아도 줄이나 울트라"
   ]
  ],
- "last_run": "2026-08-07T17:46:33.133693+09:00",
+ "last_run": "2026-08-07T17:48:42.335949+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
