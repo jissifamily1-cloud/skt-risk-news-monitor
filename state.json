@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10825419",
-  "https://www.viva100.com/article/20260730500505",
   "https://www.hani.co.kr/arti/economy/marketing/1270558.html",
   "https://www.ytn.co.kr/_ln/0102_202607290748182410",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607241428290000103888",
@@ -2999,11 +2997,11 @@
   "https://www.khan.co.kr/article/202608061716001",
   "https://www.newspim.com/news/view/20260807000891",
   "https://www.viva100.com/article/20260804501332",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691211"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691211",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475483",
+  "https://www.hankyung.com/article/2026080816547"
  ],
  "seen_titles": [
-  "삼성SDS,2분기영업익2318억원…전년比0.7%↑",
-  "[비즈+]삼성SDS,2분기매출3조7178억·영업익2318억…클라우드·물류...",
   "삼성SDS,2분기매출3.7조\"AI·클라우드가견인\"…전년비6%↑",
   "삼성SDS,2분기영업익2318억...전년比0.7%↑",
   "삼성SDS,2분기영업이익2318억원…전년比0.7%증가",
@@ -6001,7 +5999,9 @@
   "가짜신분으로악성코드심으려한AI···실패하자은폐시도까지",
   "6월엔협력,8월엔사업화…구광모·젠슨황두번째담판",
   "[비바100]사라진‘인간’의시간,당신생각의주인은누구인가요?",
-  "오픈AI,아스트라모델일부개발중단...\"심각한사이버공격가능성배..."
+  "오픈AI,아스트라모델일부개발중단...\"심각한사이버공격가능성배...",
+  "[주간거래소외국인]삼성물산셀트리온삼성바이오로직스SK쓸어담았...",
+  "무료이용자도최신챗gpt무제한뚫렸다…오픈AI\"무제한제공\""
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,17 @@
   [
    "2026-08-08T07:04:19.169754+09:00",
    "사업화 8월엔 담판 6월엔 구광모 젠슨 번째 협력"
+  ],
+  [
+   "2026-08-08T07:12:19.385749+09:00",
+   "SK 담았 삼성물산 쓸어 셀트리온 삼성바이오로직스"
+  ],
+  [
+   "2026-08-08T07:12:19.385749+09:00",
+   "최신 제공 이용자도 무제한 무료 뚫렸다 챗gpt"
   ]
  ],
- "last_run": "2026-08-08T07:10:42.691570+09:00",
+ "last_run": "2026-08-08T07:12:41.895184+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
