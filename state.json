@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=110457",
-  "https://zdnet.co.kr/view/?no=20260804164526",
-  "https://www.ziksir.com/news/articleView.html?idxno=142347",
-  "https://www.inthenews.co.kr/news/article.html?no=90248",
-  "https://www.news1.kr/photos/8043849",
-  "https://www.betanews.net/article/view/beta202608060020",
-  "https://www.techm.kr/news/articleView.html?idxno=154047",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6475",
   "https://www.cnbnews.com/news/articleView.html?idxno=1010588",
   "https://www.newspim.com/news/view/20260804001279",
   "https://www.cnbizm.com/news/articleView.html?idxno=310753",
@@ -2999,17 +2991,17 @@
   "https://zdnet.co.kr/view/?no=20260807085724",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167542",
   "https://zdnet.co.kr/view/?no=20260807102857",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=361426"
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361426",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049047",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690861",
+  "https://www.m-economynews.com/news/article.html?no=69485",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=877310",
+  "https://www.ajunews.com/view/20260807103726738",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005896061",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1533259",
+  "https://www.mt.co.kr/world/2026/08/07/2026080710153320173"
  ],
  "seen_titles": [
-  "서울세계불꽃축제9월5일개최...\"안전관리강화\"",
-  "케이뱅크,통신비절감·부동산경매서비스확대",
-  "[뉴스줌인]韓수출'세계5강'눈앞…근원물가압력에'금리셈법'복잡",
-  "카카오,과기부'AI에이전트마켓플레이스개발사업'수행자선정",
-  "한국인이쓰는AI지형변화…챗GPT이어클로드부상",
-  "LG유플러스,2분기영업익3445억원'분기최대'",
-  "[20262분기실적]LG유플러스,영업이익3445억원…역대분기최대기록",
-  "KT,8월중‘스팸차단실시간알림서비스’도입",
   "미디어로그셀로,갤럭시Z폴드8·플립8사전예약에중고폰판매91%증...",
   "LG헬로비전,2분기매출·영업익'부진'...체질개선지속",
   "[단독]U+홈서비스노조\"38도폭염서야외작업명령\"",
@@ -6001,7 +5993,15 @@
   "오픈AI,'도넛모양'AI스피커만든다",
   "\"엔비디아협력AI팩토리,내년상반기첫매출예상\"[네이버컨콜]",
   "소프트뱅크,오픈AI지분담보로100억달러조달…'AI올인'가속",
-  "\"오픈AI첫AI기기는도넛형스피커\""
+  "\"오픈AI첫AI기기는도넛형스피커\"",
+  "우리은행,전북해상풍력산업'생산적금융'지원",
+  "SK하이닉스·샌디스크'HBF'윤곽나왔다…상용화는2027년이후",
+  "메타AI,보안평가중외부기관해킹...오픈AI·앤트로픽이어세번째...",
+  "네이버,2분기매출3.4조'역대최대'…영업이익은'0.2%감소'",
+  "오픈AI,AI기기윤곽나왔다…화면없는'도넛형스피커'",
+  "엔비디아,HBM부족에'루빈울트라'메모리축소검토",
+  "변협,방미통위공조'변호사사칭사이트'31건접속차단",
+  "미공화당의원들,한국정보통신망법항의…\"표현의자유침해\""
  ],
  "recent_sigs": [
   [
@@ -6533,7 +6533,7 @@
    "기기는 스피커 도넛형"
   ]
  ],
- "last_run": "2026-08-07T10:42:39.694199+09:00",
+ "last_run": "2026-08-07T10:44:36.129354+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
