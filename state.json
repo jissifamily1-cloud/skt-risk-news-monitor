@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251857",
-  "https://www.kyeonggi.com/article/20260806580357",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3657849",
-  "https://www.hellot.net/news/article.html?no=114202",
-  "https://www.dt.co.kr/article/12076976",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048728",
-  "https://www.newspim.com/news/view/20260806000770",
   "https://www.techm.kr/news/articleView.html?idxno=154066",
   "https://www.etoday.co.kr/news/view/2611891",
   "https://biz.sbs.co.kr/article_hub/20000327146?division=NAVER",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1675010/?sc=Naver",
   "https://www.segye.com/newsView/20260805520021?OutUrl=naver",
   "https://www.tokenpost.kr/news/breaking/386670",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691079"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691079",
+  "https://mhnse.com/news/articleView.html?idxno=1482277",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3658982",
+  "https://news.dealsitetv.com/articles/174474",
+  "https://www.tfmedia.co.kr/news/article.html?no=206314",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=59881",
+  "https://bizhankook.com/articles/ai-hacker-era-korea-response.html",
+  "https://medicalworldnews.co.kr/news/view.php?idx=1510976440"
  ],
  "seen_titles": [
-  "머스크'스페이스XAI칩엔비디아독점'선언…AMD7%급락",
-  "인재잃는구글…‘구글AI전설’제프딘까지떠났다[팩플]",
-  "오픈AI,허깅페이스해킹세부내용공개...\"자체시스템먼저해킹·정...",
-  "이동훈SK바이오팜대표,'빅바이오텍'순항…두번째수익원발굴임박",
-  "공정위,이통3사약관시정…개인정보유출책임제한조항손본다",
-  "전북자치도·고창군,4000억확보…고창해상풍력'2026년착공'",
-  "노타,문샷AI키미K3경량화…B300GPU8장을최대4장으로절감",
   "[고견을듣는다]\"메모리사이클안끝나…삼전닉스,완만한상승곡선...",
   "[CEOPICK]두산박정원…반도체로2번째'체질개선'시동",
   "앤스로픽도AI칩직접만든다…삼성전자2나노수주'촉각'",
@@ -6001,7 +5994,14 @@
   "[데일리안오늘뉴스종합][단독]영장집행일10일도과원희룡포렌식...",
   "최태원·노소영,37년중21년‘쇼윈도부부’",
   "predict.fun,LCKGENG대KT전GENG승리확률67%",
-  "SK하이닉스,용인·청주에54조투입...D램·낸드팹동시증설"
+  "SK하이닉스,용인·청주에54조투입...D램·낸드팹동시증설",
+  "'T1이돌아왔다'…현폼최강DK까지2-0완파,우승후보위용되찾았다",
+  "논산시의회이건창의장...'바른의정,실천하는민생의회'실현",
+  "[IT투데이]두나무,'압수디지털자산커스터디'선정外",
+  "[현장]경쟁은치열하게진입은가볍게…컴투스,신작‘제우스’26일...",
+  "[ICT종합]두나무및KT소식외",
+  "[미토스쇼크]③AI대해킹시대,우리는어떻게대응하고있나",
+  "“‘2026방송대상’국민심사단지원하세요”…만19세이상국민누구..."
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,21 @@
   [
    "2026-08-07T17:48:20.032586+09:00",
    "HBM 루빈 쩔쩔 엔비디아도 줄이나 울트라"
+  ],
+  [
+   "2026-08-07T18:00:40.045594+09:00",
+   "~KT KT소식 두나무"
+  ],
+  [
+   "2026-08-07T18:00:40.045594+09:00",
+   "어떻게 있나 대해킹시대 대응하고 우리는"
+  ],
+  [
+   "2026-08-07T18:00:40.045594+09:00",
+   "19세 국민심사단 국민 방송대상 지원하세요 이상 누구"
   ]
  ],
- "last_run": "2026-08-07T17:58:35.994251+09:00",
+ "last_run": "2026-08-07T18:01:15.589161+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6927,6 +6939,7 @@
   "sisanews24.co.kr": "시사뉴스24",
   "jejusori.net": "제주의소리",
   "dailyvet.co.kr": "dailyvet.co.kr",
-  "insidevina.com": "인사이드비나"
+  "insidevina.com": "인사이드비나",
+  "medicalworldnews.co.kr": "medicalworldnews.co.kr"
  }
 }
