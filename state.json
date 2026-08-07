@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260806500914",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444071",
-  "https://www.asiatime.co.kr/article/20260806500235",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428982",
-  "https://www.itbiznews.com/news/articleView.html?idxno=221111",
-  "https://www.mydaily.co.kr/page/view/2026080614140392102",
-  "https://www.ziksir.com/news/articleView.html?idxno=142353",
-  "https://www.mt.co.kr/living/2026/08/05/2026080516344032209",
   "https://daily.hankooki.com/news/articleView.html?idxno=1393410",
   "https://www.mstoday.co.kr/news/articleView.html?idxno=102251",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=314551",
@@ -2999,17 +2991,17 @@
   "http://coinreaders.com/251458",
   "https://dealsite.co.kr/articles/166789",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=314459",
-  "https://zdnet.co.kr/view/?no=20260807111045"
+  "https://zdnet.co.kr/view/?no=20260807111045",
+  "https://biz.sbs.co.kr/article_hub/20000327368?division=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475246",
+  "https://biz.sbs.co.kr/article_hub/20000327367?division=NAVER",
+  "https://www.hani.co.kr/arti/science/science_general/1271912.html",
+  "https://www.seoul.co.kr/news/economy/industry/2026/08/07/20260807500180?wlog_tag3=naver",
+  "https://www.catchnews.kr/news/articleView.html?idxno=127099",
+  "https://www.mk.co.kr/article/12120951",
+  "https://www.etnews.com/20260807000027"
  ],
  "seen_titles": [
-  "사구5개에벤치클리어링…시애틀윌슨감독·투수스파이어퇴장",
-  "'서울세계불꽃축제2026',내달5일개최…안전관리인력만4700여명",
-  "메타AI도실제시스템접근…사이버보안테스트중‘예상밖’사고",
-  "[컨콜]LG유플러스“AIDC투자확대로CAPEX증가,신규DC의수익성개...",
-  "[김재섭의뒤집어보기]SK텔레콤해킹사고관련자료보전명령위반수사...",
-  "박윤영KT대표\"AIDC,'AX플랫폼컴퍼니'도약의핵심인프라\"",
-  "김정관산업부장관\"수도권반도체공장,용인이사실상마지막\"(종합...",
-  "LGU+'알파키',국내IDaaS최초CSAP인증획득",
   "KIA는서울행버스안탔다,SSG도창원행아직…키움은강제부산스테...",
   "'급식외길'은옛말···급식빅4,미래먹거리판바꾼다",
   "탈팡족돌아왔지만...6200억'징벌적과징금'에쿠팡대위기",
@@ -6001,13 +5993,17 @@
   "마이크로소프트(MSFT)실적,빅테크반등신호탄...\"월가가AI속도착각...",
   "네이버,AI수익화확장…AI팩토리새성장축키운다",
   "SK하이닉스,FMS2026서차세대AI메모리아키텍처제시",
-  "엔비디아동반자네이버\"내년‘AI팩토리’수익가시화\"자신"
+  "엔비디아동반자네이버\"내년‘AI팩토리’수익가시화\"자신",
+  "'김부장'웹툰보려다날벼락…환불받으려면증빙서류?",
+  "[기자수첩]실적은역대급,주가는반토막…네이버·카카오,이제는'돈...",
+  "AI사업몰아치다'체할라'…'보안AI'결국닷새연장",
+  "인공지능으로‘자연에없는’바이러스만들었다…괜찮을까?",
+  "네이버,2분기역대최고매출,영업익은0.2%하락…“AI투자영향”",
+  "\"더울땐언제든들어오세요\"KT,전국410개매장무더위쉼터로개방",
+  "美공화의원들정통망법항의서한…정부“차별없다”반박",
+  "네이블,LG유플러스와5G특화망고도화사업계약"
  ],
  "recent_sigs": [
-  [
-   "2026-08-07T09:46:21.356165+09:00",
-   "99달러 하락 주가 마감"
-  ],
   [
    "2026-08-07T09:48:17.317303+09:00",
    "네이버 엔비디아와 공고한 이어갈 파트너십"
@@ -6439,9 +6435,13 @@
   [
    "2026-08-07T15:40:25.578274+09:00",
    "자동차 수출기업 불똥 관세 긴장 압박에 정통망법 철강 우려"
+  ],
+  [
+   "2026-08-07T15:48:16.911925+09:00",
+   "LG유플러스와 계약 ~LGU 네이블 5G 특화망 사업 고도화"
   ]
  ],
- "last_run": "2026-08-07T15:46:37.574697+09:00",
+ "last_run": "2026-08-07T15:48:38.579981+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
