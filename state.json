@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260806000779",
-  "https://www.joongangenews.com/news/articleView.html?idxno=538245",
-  "https://biz.sbs.co.kr/article_hub/20000327070?division=NAVER",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608060467&t=NNv",
   "https://www.joongangenews.com/news/articleView.html?idxno=538229",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206148",
   "https://www.nspna.com/news/?newsid=823330",
@@ -2999,13 +2995,13 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719587",
   "http://www.srtimes.kr/news/articleView.html?idxno=209403",
   "https://zdnet.co.kr/view/?no=20260807105908",
-  "https://www.dailyvet.co.kr/news/industry/292505"
+  "https://www.dailyvet.co.kr/news/industry/292505",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=258052",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=761022",
+  "https://thetracker.co.kr/View.aspx?No=4178361",
+  "https://www.ekn.kr/web/view.php?key=20260807020180551"
  ],
  "seen_titles": [
-  "KT박윤영대표,데이터센터현장점검…\"AIDC경쟁력높여야\"",
-  "이노션,2분기영업이익22.4%증가…글로벌CX사업성장견인",
-  "권오상서구청장,'을지연습준비보고회'개최",
-  "혁신기술발굴부터투자까지…호반그룹,스타트업성장지원",
   "TSMC,4분기3나노월18만장생산전망…AI주문폭증에증설가속",
   "[셀럽의한수]호르무즈협상기대감…다우지수또최고치",
   "AI로봇연1천대승부수…레인보우·로보티즈빛본다",
@@ -6001,7 +5997,11 @@
   "[1%초고수의선택]'삼성전기'사고'S-Oil'팔았다",
   "'게임인가챗봇인가'…AI캐릭터챗,게임물기준어디로",
   "국내대리인신고'앤트로픽'뿐…정부,해외AI기업과연내회동",
-  "‘엑스칼리버’서비스계속된다..코벳이SKT로부터인수"
+  "‘엑스칼리버’서비스계속된다..코벳이SKT로부터인수",
+  "보이스피싱의심금융정보,ASAP공유...금융소비자권익보호강화",
+  "'AI·비용절감'통했다…네이버·카카오,상반기실적승승장구",
+  "SK하이닉스,FMS2026서차세대AI메모리전략공개",
+  "“푸틴은로또,시진핑은연금”…김정은,4년간31조벌었다[이슈+]"
  ],
  "recent_sigs": [
   [
@@ -6457,7 +6457,7 @@
    "계속된다 인수 서비스 코벳이 ~SKT 엑스칼리버 SKT로부터"
   ]
  ],
- "last_run": "2026-08-07T14:56:40.944815+09:00",
+ "last_run": "2026-08-07T14:58:40.880585+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
