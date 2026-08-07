@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202608061200011",
-  "https://biz.sbs.co.kr/article_hub/20000326981?division=NAVER",
-  "https://www.news1.kr/economy/trend/6250834",
-  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243136",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=42865",
   "https://www.dailian.co.kr/news/view/1675164/?sc=Naver",
   "https://news.tf.co.kr/read/economy/2351132.htm",
   "https://www.hankookilbo.com/news/article/A2026080611230004247?did=NA",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260807065300017?input=1195m",
   "https://biz.heraldcorp.com/article/10834040",
   "https://www.news1.kr/finance/blockchain-fintech/6252149",
-  "https://www.news1.kr/finance/blockchain-fintech/6252194"
+  "https://www.news1.kr/finance/blockchain-fintech/6252194",
+  "https://biz.heraldcorp.com/article/10834043",
+  "https://www.yna.co.kr/view/AKR20260807067100007?input=1195m",
+  "https://biz.sbs.co.kr/article_hub/20000327303?division=NAVER",
+  "https://zdnet.co.kr/view/?no=20260807111657",
+  "https://www.mk.co.kr/article/12120768"
  ],
  "seen_titles": [
-  "통신3사개인정보침해‘면책조항’사라진다",
-  "\"개인정보유출책임없다?\"...통신3사불공정약관대대적시정",
-  "이통3사불공정약관자진시정…개인정보침해사고에대한면책조항...",
-  "와이파이로정보유출돼도“내책임아냐”라는통신3사불공정약관...",
-  "통신3사불공정약관시정…개인정보유출책임못피한다",
   "비암호화와이파이정보유출에\"책임없다\"…통신3사불공정약관시정",
   "프랑스스마트폰시장동향",
   "최태원,HBM으로빅테크묶었다…5000억달러AI동맹SKT까지확장",
@@ -6001,7 +5996,12 @@
   "[AI픽]네이버,엔비디아업고AI인프라기업도약할까",
   "네이버2분기매출3.4조‘역대최대’",
   "기관투자자비트코인보유량확줄었다…6.4만달러대약보합[코인브리핑...",
-  "콜드카드해킹에…\"비트코인현물ETF수요늘어날수도\"관측제기"
+  "콜드카드해킹에…\"비트코인현물ETF수요늘어날수도\"관측제기",
+  "[현장에서]“혜택줄일테니갈아타세요”…믿었던ISA의배신",
+  "\"대중분노속수사동력\"…외신들도한국축구잇단파문조명",
+  "[이번주뉴스메이커]도널드트럼프·가타야마사쓰키·메리앤바텔스...",
+  "[비욘드IT]오픈AI·팔란티어도쓰는'FDE'...SI파견직과뭐가다를까",
+  "‘엔비디아♥네이버’내년이승부수…AI팩토리로드맵봤더니"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,17 @@
   [
    "2026-08-07T11:22:16.902591+09:00",
    "사고 성과 시내버스 감소 도입 천안 안전시스템"
+  ],
+  [
+   "2026-08-07T11:26:15.014631+09:00",
+   "팔란티어도 파견직과 쓰는 뭐가 다를까 FDE SI"
+  ],
+  [
+   "2026-08-07T11:26:15.014631+09:00",
+   "내년이 봤더니 승부수 로드맵 팩토리 네이버"
   ]
  ],
- "last_run": "2026-08-07T11:24:38.043861+09:00",
+ "last_run": "2026-08-07T11:26:41.832082+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
