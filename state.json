@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260805000719",
-  "https://view.asiae.co.kr/article/2026080509062415514",
-  "https://www.g-enews.com/view.php?ud=202608051048293921fbbec65dfb_1",
-  "https://www.newsis.com/view/NISX20260805_0003737150",
-  "https://view.asiae.co.kr/article/2026080510041579879",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271130",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=251660",
   "https://view.asiae.co.kr/article/2026080509593426682",
@@ -2999,14 +2994,14 @@
   "https://www.etoday.co.kr/news/view/2612362",
   "https://www.ddaily.co.kr/page/view/2026080806274145020",
   "https://biz.chosun.com/international/international_economy/2026/08/08/66KJ54MYNNCO7IRHM3A7J5D67U/",
-  "https://www.wikitree.co.kr/articles/1151147"
+  "https://www.wikitree.co.kr/articles/1151147",
+  "https://view.asiae.co.kr/article/2026080712005752396",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290076",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290075",
+  "https://biz.heraldcorp.com/article/10834293",
+  "https://biz.heraldcorp.com/article/10834613"
  ],
  "seen_titles": [
-  "美AI사전검증에서中개방형모델은제외",
-  "중국모델글로벌석권,딥시크V4플래시주간AI호출량세계1위",
-  "스페이스X,첫실적서매출92%급증",
-  "구글,2000억달러금융망으로앤스로픽지원",
-  "오픈AI·앤스로픽AI에이전트,보안시험서무단행동…가짜신원까지...",
   "英AI보안연구소\"앤스로픽·오픈AI모델,사이버시험서무단해킹\"",
   "AI투자,미국성장3분의1견인…거품붕괴경고음도나와",
   "'AI의노스트라다무스'로불린24세…월가거물돈몰린펀드,7월67%급...",
@@ -6001,7 +5996,12 @@
   "뉴욕증시,고용지표악화에상승...S&P500사상최고치[상보]",
   "AI,가둬도뚫는다…중국산'키미K3'탈출에커지는보안경고음",
   "뉴욕증시,금리인하기대감꺾이며3대지수상승마감",
-  "비트코인고래,12억달러매집…크립토퀀트“베어마켓끝자락”진단"
+  "비트코인고래,12억달러매집…크립토퀀트“베어마켓끝자락”진단",
+  "[AI세계속으로]애플-오픈AI진흙탕소송…난타전이유있었다",
+  "[현장]컴투스신작'제우스:오만의신'26일출격…\"모두가즐기는경...",
+  "[굿모닝!AI리포트]오픈AI,'아스트라'출시예고…메타,첫AI코딩에...",
+  "잦아진오너들의자사주매입…책임경영일환이지만변동성확대지적도...",
+  "차세대HBM거론되는‘CXL’…엔비디아가확산걸림돌이라고?[칩칩팹팹..."
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,17 @@
   [
    "2026-08-08T06:02:18.502049+09:00",
    "정통망법 한국 항의 하원 아니다 차별 개정에"
+  ],
+  [
+   "2026-08-08T06:32:23.114751+09:00",
+   "오너들의 잦아진 확대 자사주 일환이지만 지적도 매입 변동성 책임경영"
+  ],
+  [
+   "2026-08-08T06:32:23.114751+09:00",
+   "걸림돌이라고 칩칩팹팹 HBM CXL 확산 거론되는 차세대 엔비디아가"
   ]
  ],
- "last_run": "2026-08-08T06:30:49.395340+09:00",
+ "last_run": "2026-08-08T06:32:43.058880+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
