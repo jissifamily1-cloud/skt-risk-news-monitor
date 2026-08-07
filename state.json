@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8630134",
-  "http://www.fnnews.com/news/202608060941560661",
-  "https://www.nocutnews.co.kr/news/6559093",
-  "https://www.ekn.kr/web/view.php?key=20260806020500092",
-  "https://www.ddaily.co.kr/page/view/2026080610225685835",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=125734",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=854896",
   "https://www.gukjenews.com/news/articleView.html?idxno=3657244",
   "https://www.gukjenews.com/news/articleView.html?idxno=3657233",
   "https://www.gukjenews.com/news/articleView.html?idxno=3657228",
@@ -2999,16 +2992,16 @@
   "https://www.eroun.net/news/articleView.html?idxno=87216",
   "http://www.newsdream.kr/news/articleView.html?idxno=115875",
   "https://www.m-i.kr/news/articleView.html?idxno=1399890",
-  "https://www.news1.kr/society/court-prosecution/6252044"
+  "https://www.news1.kr/society/court-prosecution/6252044",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16157272",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213616",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240852",
+  "https://www.sentv.co.kr/article/view/sentv202608070043",
+  "https://platum.kr/archives/292169",
+  "https://biz.heraldcorp.com/article/10833776",
+  "https://www.news2day.co.kr/article/20260807500063"
  ],
  "seen_titles": [
-  "코스피,반도체주급락에4%대하락···'매도사이드카'발동",
-  "아우토크립트,데프콘서차량이더넷보안연구공개",
-  "홈플러스이어롯데카드까지…'검찰재소환'김광일MBK부회장,책임론...",
-  "LG유플러스2분기영업이익3천4백억원…역대분기최대",
-  "KT,AI스팸차단서비스전가입자에확대…24시간탐지",
-  "이준혁SNS해킹피해…\"금전피해없도록메시지클릭자제\"",
-  "방미통위,가짜뉴스전담‘정보무결성정책과’신설",
   "엔비디아칩만쓴다…스페이스X,차세대AI인프라'올인'[AI인포그래픽...",
   "'DB손해보험2026KBL유스클럽농구대회IN제천'개최",
   "나인하이어,알바채용도입2년간150%증가",
@@ -6001,7 +5994,14 @@
   "KT,전국410개매장'무더위쉼터'운영",
   "KT,전국매장410곳서무더위쉼터운영中",
   "'쿠팡두둔'美공화당,韓정통망법압박…\"표현의자유침해\"",
-  "변협,방미통위와공조해'변호사사칭사이트'31건접속차단"
+  "변협,방미통위와공조해'변호사사칭사이트'31건접속차단",
+  "황재균,폭염여파로'은퇴식'연기…\"조금만더기다려주길\"",
+  "클라이온,김주성신임대표이사겸총괄사장선임",
+  "KTis,무더위속고령층위한'택시대신불러주기'서비스운영",
+  "[컨콜]네이버최수연“AI팩토리,내년상반기부터매출발생”",
+  "로봇손재주평가기준만드는리얼월드,3D·시뮬레이션스타트업3곳과...",
+  "‘21년간무늬만부부’최태원·노소영,세기의이혼막내린다",
+  "[N2증시풍향계]LG전자·포스코퓨처엠·BGF리테일·상상인증권‘강세..."
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,17 @@
   [
    "2026-08-07T09:50:25.844926+09:00",
    "공조해 31건 사칭 방미통위와 사이트 변호사 변협 접속차단"
+  ],
+  [
+   "2026-08-07T09:52:19.029285+09:00",
+   "내린다 이혼 21년간 세기의 무늬만 부부"
+  ],
+  [
+   "2026-08-07T09:52:19.029285+09:00",
+   "BGF리테일 LG전자 강세 포스코퓨처엠 상상인증권"
   ]
  ],
- "last_run": "2026-08-07T09:50:49.008170+09:00",
+ "last_run": "2026-08-07T09:52:39.523980+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
