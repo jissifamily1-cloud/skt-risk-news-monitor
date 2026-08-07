@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/it-science/ict/2026/08/04/FNBL5RH4Q5FU5N35WDYTJ22SS4/",
-  "https://zdnet.co.kr/view/?no=20260805110109",
-  "http://www.journalist.or.kr/news/article.html?no=61402",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=127932",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2456548",
-  "https://www.gokorea.kr/news/articleView.html?idxno=874270",
-  "https://www.tokenpost.kr/news/insights/386086",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84297",
-  "https://www.bntnews.co.kr/article/view/bnt202608060165",
   "https://www.mt.co.kr/tech/2026/08/06/2026080609391789556",
   "http://www.newslock.co.kr/news/articleView.html?idxno=133998",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4428539",
@@ -2999,18 +2990,18 @@
   "http://www.paxetv.com/news/articleView.html?idxno=278883",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=269506",
   "https://www.newspim.com/news/view/20260807000228",
-  "https://www.mk.co.kr/article/12117480"
+  "https://www.mk.co.kr/article/12117480",
+  "https://www.mk.co.kr/article/12116321",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3658434",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3658119",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101346",
+  "https://www.news1.kr/finance/general-stock/6251982",
+  "https://news.bizwatch.co.kr/article/mobile/2026/08/07/0004",
+  "https://www.topdaily.kr/articles/111354",
+  "https://www.ddaily.co.kr/page/view/2026080709193953186",
+  "https://www.mt.co.kr/tech/2026/08/07/2026080709240815141"
  ],
  "seen_titles": [
-  "호반그룹,오픈이노베이션으로대·중소기업동반성장이끈다",
-  "[뉴욕증시]호르무즈협상지켜본월가…혼조마감",
-  "전국민대상무료'모두의AI'...256단위GPU로는'태부족'",
-  "‘챗GPT독주’생성형AI판도변화…클로드급부상,국내AI는내리막",
-  "방송영상AI학습데이터117만건,국민에개방",
-  "YTN구성원들,극한폭염속'유진퇴출108배'",
-  "LG유플러스,2분기영업익3445억원'역대최대'…AIDC29%성장",
-  "교보교육재단,NIA·KT와'AI윤리ON'캠프진행",
-  "일론머스크의스페이스X,엔비디아독점파트너십공포에주가급등…...",
   "해킹악재에도버틴코인시장,진짜반등일까…코인피드,美증시의존...",
   "[증시오늘(6일)주요특징주]실적·신약호재속장중특징주'극명한...",
   "KBO경기취소,폭염관련긴급회의",
@@ -6001,7 +5992,16 @@
   "KT,전국410개매장'무더위쉼터'운영...\"생활밀착형지원이어갈것...",
   "우리은행,전북해상풍력4,000억원금융지원",
   "[일본특징주]소프트뱅크,'AI올인'전략시험대...NAV한달새20%감...",
-  "개보위과징금폭탄에…쿠팡,상장후최대분기적자"
+  "개보위과징금폭탄에…쿠팡,상장후최대분기적자",
+  "“이제아재폰이라부르지마”…갤Z8역대급판매에이통사유치전‘활...",
+  "전남광주-고치현청소년교류,자매교류10주년맞아6박7일간일본탐방",
+  "[기자수첩]지구반대편MOU보다먼저챙겨야할것은'대전교육'의현실...",
+  "AI부터청년금융·포용금융까지…금융권,'미래금융생태계'구축속도",
+  "美반도체혼조…삼성전자2%,SK하이닉스1%상승[핫종목]",
+  "네이버,역대급매출에도이익은제자리…\"투자확대영향\"",
+  "네이버,2Q매출3.4조'역대최대'…AI투자에도성장↑",
+  "KT,전국매장410곳개방…폭염속무더위쉼터로",
+  "KT지니뮤직,'사랑의하츄핑:고래보석의전설'OST유통"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-08-07T09:22:16.891334+09:00",
    "리스크 사업 관계 함께하는 네이버 동반자"
+  ],
+  [
+   "2026-08-07T09:28:20.568197+09:00",
+   "사랑의 KT지니뮤직 OST 하츄핑 ~KT 유통 전설 고래보석의"
   ]
  ],
- "last_run": "2026-08-07T09:26:43.803560+09:00",
+ "last_run": "2026-08-07T09:28:41.422966+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
