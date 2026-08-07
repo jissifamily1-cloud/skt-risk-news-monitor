@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12064546",
-  "https://biz.sbs.co.kr/article_hub/20000312787?division=NAVER",
-  "https://www.hankookilbo.com/news/article/A2026051909430002994?did=NA",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=03804806645448592",
   "https://www.etoday.co.kr/news/view/2583034",
   "https://www.mk.co.kr/article/12039124",
@@ -2999,12 +2996,12 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719641",
   "https://www.ytn.co.kr/_ln/0104_202608080833051509",
   "https://biz.heraldcorp.com/article/10834648",
-  "http://www.osen.co.kr/article/G1112853714"
+  "http://www.osen.co.kr/article/G1112853714",
+  "https://www.sedaily.com/article/20077180",
+  "https://www.sedaily.com/article/20077178",
+  "https://zdnet.co.kr/view/?no=20260808084211"
  ],
  "seen_titles": [
-  "미군,업그레이드방향은AI자동화…장성들은우려목소리",
-  "삼전하닉,앤스로픽에투자하고메모리팔면시장선도?순환거래?",
-  "[Ψ-딧세이]피묻은로짓의군주태종이방원의권도",
   "“오픈AI보다비싸졌다”…앤스로픽몸값1조달러육박",
   "망분리풀리는금융권…보안기업‘AI솔루션선점경쟁’본격화",
   "[셀럽의한수]개전이후美·이란교전-협상반복…마무리양상",
@@ -6001,7 +5998,10 @@
   "차세세AI'아스트라'출시연기…오픈AI\"안전등급'위험'수준도달\"",
   "반도체레버리지경각심속뉴욕증시에서3배레버리지투자상품경쟁...",
   "“인간개입없이공격가능한수준”…오픈AI,보안우려에차세대AI출...",
-  "[오!쎈종로]\"원하는구도로자신있게\"…'류'류상욱,\"완벽했던KT전..."
+  "[오!쎈종로]\"원하는구도로자신있게\"…'류'류상욱,\"완벽했던KT전...",
+  "이란,호르무즈통항제한검토…중동물류긴장고조",
+  "메모리품귀에…엔비디아HBM4E용량축소검토",
+  "유럽통신사\"아동성착취물접속차단법적권한달라\""
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,13 @@
   [
    "2026-08-08T08:40:30.516956+09:00",
    "우려에 없이 개입 보안 가능한 차세대AI 수준 인간 공격"
+  ],
+  [
+   "2026-08-08T08:44:22.451051+09:00",
+   "법적 유럽 권한 접속차단 성착취물 달라 아동"
   ]
  ],
- "last_run": "2026-08-08T08:42:41.664576+09:00",
+ "last_run": "2026-08-08T08:44:46.704504+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
