@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1309423&inflow=N",
-  "https://www.todayeconomic.com/news/article.html?no=31629",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04674006645544696",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=725777",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317748",
-  "http://www.datanews.co.kr/news/article.html?no=145930",
-  "http://www.4th.kr/news/articleView.html?idxno=2115903",
-  "https://www.news1.kr/it-science/internet-platform/6251030",
-  "https://www.aitimes.com/news/articleView.html?idxno=213590",
   "http://www.popcornnews.net/news/articleView.html?idxno=128856",
   "https://www.dailypharm.com/user/news/341179?REFERER=NP",
   "http://www.intn.co.kr/news/articleView.html?idxno=2052380",
@@ -2999,18 +2990,18 @@
   "http://www.fnnews.com/news/202608051358400940",
   "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=243236",
   "https://www.nocutnews.co.kr/news/6559743",
-  "https://biz.heraldcorp.com/article/10834058"
+  "https://biz.heraldcorp.com/article/10834058",
+  "https://www.starnewskorea.com/sports/2026/08/07/2026080710190539256",
+  "https://biz.heraldcorp.com/article/10834075",
+  "https://www.mtnews.net/news/articleView.html?idxno=25550",
+  "https://zdnet.co.kr/view/?no=20260804170334",
+  "https://www.nocutnews.co.kr/news/6559744",
+  "https://www.newsis.com/view/NISX20260807_0003740229",
+  "http://www.lec.co.kr/news/articleView.html?idxno=752530",
+  "https://www.jejusori.net/news/articleView.html?idxno=505386",
+  "https://www.g-enews.com/view.php?ud=202608070829026571fda4f5ab74_1"
  ],
  "seen_titles": [
-  "주민번호·주소·계좌·성적…대학서10년간291만건털렸다",
-  "공정위,통신3사불공정약관시정…'개인정보보호'강화",
-  "공정위,통신3사이용약관심사…\"개인정보침해시사업자책임강화\"",
-  "3개통신사,개인정보침해면책등자진시정…공정위\"이용자권리강...",
-  "LG유플러스‘알파키’,국내IDaaS최초CSAP인증획득",
-  "스노우플레이크,27일‘월드투어서울’개최",
-  "\"노트·S도제쳤다\"…갤럭시Z8,역대최고'144만대'",
-  "방미심위,뉴토끼대체사이트안내텔레그램삭제",
-  "LG유플러스,2분기영업이익사상최대…AIDC성장주목",
   "[경제소식]대신증권,네이버웹툰과크레온신규고객프로모션",
   "카카오,정부'AI에이전트플랫폼'개발한다",
   "메타,AI코딩에이전트'뮤즈코드'공개...백그라운드비동기로차별...",
@@ -6001,7 +5992,16 @@
   "네이버웹툰,日이통사와협업해구독서비스제공",
   "불가리아의료용엑스레이장비시장동향",
   "美,첨단AI사전심사도입…폐쇄형모델만대상",
-  "GPU7656장물로식히는NHN서울AI데이터센터"
+  "GPU7656장물로식히는NHN서울AI데이터센터",
+  "전KBO출신투수가보복구를?그것도3점차에서?벤치클리어링사태발...",
+  "BNK경남은행,창원NC파크서‘가족문화페스티벌’개최",
+  "전기·광학신호동시해독'광반도체BCI칩'세계최초개발…반도체...",
+  "노사갈등·오너리스크걷히는카카오…신사업시계빨라지나",
+  "네이버2분기매출3.3조'역대최대'…영업익5203억원",
+  "네이버,AI인프라해외확장본격화…중동협상·남미파트너물색(종...",
+  "대한변협,'변호사사칭피싱범죄'방지에기여",
+  "이제제주행정도본격AI시대?전직원에유료개인계정",
+  "北해킹조직,가짜구인공고로57개국1640곳침투정황...기업·기업보..."
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,17 @@
   [
    "2026-08-07T11:28:17.149976+09:00",
    "유튜브 항의 겨냥 방미통위에 공화당 서한 가짜뉴스법"
+  ],
+  [
+   "2026-08-07T11:34:19.651936+09:00",
+   "행정도 유료 개인계정 시대 제주 이제 본격 직원에"
+  ],
+  [
+   "2026-08-07T11:34:19.651936+09:00",
+   "해킹조직 구인공고로 57개국 침투 가짜 기업 1640곳 정황"
   ]
  ],
- "last_run": "2026-08-07T11:32:41.183016+09:00",
+ "last_run": "2026-08-07T11:34:48.068039+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7100,6 +7108,7 @@
   "news.inochong.org": "news.inochong.org",
   "golfin.co.kr": "골프산업신문",
   "datasom.co.kr": "데이터솜",
-  "sisanews24.co.kr": "시사뉴스24"
+  "sisanews24.co.kr": "시사뉴스24",
+  "jejusori.net": "제주의소리"
  }
 }
