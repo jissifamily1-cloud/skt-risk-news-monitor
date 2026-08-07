@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260806500325",
-  "https://www.techm.kr/news/articleView.html?idxno=154051",
-  "https://www.newspim.com/news/view/20260806000863",
-  "https://www.ddaily.co.kr/page/view/2026080614521426628",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719423",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3657622",
-  "https://www.newspim.com/news/view/20260806000887",
-  "https://www.the-today.com/news/articleView.html?idxno=88177",
-  "http://www.metroseoul.co.kr/article/20260806500327",
-  "http://www.paxetv.com/news/articleView.html?idxno=278802",
   "https://www.it-b.co.kr/news/articleView.html?idxno=89405",
   "https://www.hankyung.com/article/202608056603g",
   "https://www.newsis.com/view/NISX20260806_0003739127",
@@ -2999,19 +2989,19 @@
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190693",
   "http://www.intn.co.kr/news/articleView.html?idxno=2052426",
   "http://www.efnews.co.kr/news/articleView.html?idxno=131448",
-  "https://www.tvreport.co.kr/breaking/article/1067077/"
+  "https://www.tvreport.co.kr/breaking/article/1067077/",
+  "https://hbnpress.com/news/view/1065587296155062",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=251953",
+  "https://zdnet.co.kr/view/?no=20260807142020",
+  "https://zdnet.co.kr/view/?no=20260807152821",
+  "https://byline.network/?p=9004111222614628",
+  "https://www.aitimes.com/news/articleView.html?idxno=213667",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849723",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238472",
+  "https://hbnpress.com/news/view/1065594403365579",
+  "https://www.yna.co.kr/view/AKR20260807106400009?input=1195m"
  ],
  "seen_titles": [
-  "AIDC효과누린LG유플러스…2분기영업익'역대최대'",
-  "딥시크,초저가전략접나…AI서비스가격대폭인상예고",
-  "세계55개국이소버린AI만들지만92%는엔비디아에의존",
-  "SK텔레콤,통신본업회복나서…마케팅투자확대",
-  "KT,'멤버십·보안·캐릭터'강화로고객신뢰잡는다",
-  "[컨콜]LG유플러스,\"파주AIDC수익성기대\"",
-  "[컨콜]LGU+\"AI데이터센터,EBITDA범위내투자유지\"",
-  "[컨콜]LGU+\"AIDC투자,전년대비증가할것…EBITDA범위내집행\"",
-  "iM뱅크장학문화재단,경북다자녀학생100명에8천만원장학금전달",
-  "日,아키타에일본최대규모의AI데이터센터건설추진",
   "[이슈]홈플러스수사에롯데카드업무정지까지…김광일MBK부회장'책임...",
   "박윤영KT대표,목동데이터센터현장점검…\"AIDC경쟁력높여야\"",
   "LG유플러스,공공보안시장공략…국내첫IDaaS보안인증",
@@ -6001,7 +5991,17 @@
   "현대건설,세계최대운용사블랙록서지분확대…'AI데이터센터'수...",
   "세무사회원들은'플랫폼세무사회'어떤기능많이썼을까?",
   "SK하이닉스,美서열린'FMS2026'서차세대AI메모리청사진제시",
-  "단2회만에'시청률8%'대폭발…'출연진논란'에도입소문제대로탄..."
+  "단2회만에'시청률8%'대폭발…'출연진논란'에도입소문제대로탄...",
+  "이홍근경기도의회도시환경위원회위원장,수원우만동방송국침수현...",
+  "홍범식LGU+대표,AIDC'가성비묘수'나왔다…소유대신운영",
+  "공무원이만든AI,전부처가함께쓴다…'AI정부실험실'확산시동",
+  "[유미's픽]'풀스택'믿었던구글,제미나이위기불렀나…인력·조직도...",
+  "미국서벌어진프론티어AI‘자율검증’논쟁",
+  "문샷AI'키미K3',보안테스트중샌드박스탈출…\"오픈소스첫사례\"",
+  "SK하이닉스'FMS2026'서방향성제시…AI인프라전계층솔루션전시",
+  "SK하이닉스,'FMS2026'서HBM넘어차세대메모리아키텍처해법제시",
+  "NH투자증권\"LG유플러스,파주AIDC투자확대...실적성장기대\"",
+  "SNS기반점조직범죄확산에…日,'범죄자스마트폰해킹'추진"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,13 @@
   [
    "2026-08-07T15:30:36.001008+09:00",
    "썼을까 기능 플랫폼세무사회 많이 세무사 회원들은 어떤"
+  ],
+  [
+   "2026-08-07T15:36:24.446250+09:00",
+   "확산에 SNS 기반 범죄 점조직 범죄자 스마트폰"
   ]
  ],
- "last_run": "2026-08-07T15:34:38.620052+09:00",
+ "last_run": "2026-08-07T15:36:45.097278+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
