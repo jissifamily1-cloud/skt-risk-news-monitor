@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1626994",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=474900",
-  "https://biz.heraldcorp.com/article/10832642",
-  "https://www.newsis.com/view/NISX20260806_0003738585",
-  "https://www.gokorea.kr/news/articleView.html?idxno=874269",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37362",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260806101900AXk",
-  "https://www.mk.co.kr/article/12117480",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4428917",
-  "https://www.smartbizn.com/news/articleView.html?idxno=150503",
   "https://www.kukinews.com/article/view/kuk202608060033",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265409",
   "https://www.mk.co.kr/article/12116321",
@@ -2999,19 +2989,19 @@
   "http://www.datanews.co.kr/news/article.html?no=145946",
   "https://www.cnbnews.com/news/articleView.html?idxno=1010702",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=849650",
-  "https://www.khan.co.kr/article/202608070917001"
+  "https://www.khan.co.kr/article/202608070917001",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153524",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3658431",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=595591",
+  "http://www.joseilbo.com/news/news_read.php?uid=573407&class=53",
+  "https://www.nocutnews.co.kr/news/6559051",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608061604385540110",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=206178",
+  "https://www.news1.kr/it-science/internet-platform/6251977",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53521",
+  "https://biz.chosun.com/it-science/ict/2026/08/07/UTZJYAA5QZFCHNC4QCBVHW5X5U/"
  ],
  "seen_titles": [
-  "LGU+2분기영업익3445억원전년比13.1%↑'역대최대'",
-  "LGU+2분기영업이익3445억원…역대분기최다",
-  "가입자늘고AI성장하고…LGU+2분기영업익3445억'최대실적'",
-  "“변형·신종스팸도24시간차단”…KT,AI스팸차단서비스전면도입",
-  "사람대신AI가타깃팅…매드업,모바일광고효율극대화시동",
-  "카톡에서쿠팡이츠음식주문한다…AI생태계본격확장,정신아“내년...",
-  "노타,'키미K3'경량화성공…GPU4장으로구동",
-  "외국인매도공세…코스피·코스닥동반하락세",
-  "심텍,소캠훈풍에다시웃는다…가이던스대폭상향",
-  "코스피다시3%대하락…6,400선아래로",
   "개보위과징금폭탄에…쿠팡,상장후최대분기적자",
   "LG유플러스,2Q영업익3천445억…\"AIDC고속성장\"(종합)",
   "LG유플러스,상반기영업이익6168억···전년비10.2%↑",
@@ -6001,7 +5991,17 @@
   "네이버,2분기매출16.2%↑,영업이익0.2%↓",
   "KT,전국매장410곳무더위쉼터로운영",
   "구광모LG회장,내주실리콘밸리방문…젠슨황과두달만에재회",
-  "미공화당,한국정부에‘정통망법항의서한’···“미국기업처벌..."
+  "미공화당,한국정부에‘정통망법항의서한’···“미국기업처벌...",
+  "[문화트렌드]무형유산총서『빛과바람의지휘자조대용』출간外",
+  "전남광주특별시,벼병해충방제합동점검…친환경농업단지안전관리강...",
+  "오픈아이오티,스마트폰으로주차장차단기직접제어하는무인주차앱...",
+  "'7월쇼크'ETF10개중8개추락했다고?...순자산78조원증발",
+  "성기홍\"李,형소법개정안핵심내용당연히숙지\"",
+  "[CAR브리프]한국타이어ㆍ지커ㆍ리본카ㆍ타이어뱅크ㆍ람보르기니ㆍ아...",
+  "KT,전국410곳매장'무더위쉼터'로제공",
+  "[IR]네이버\"엔비디아와AI팩토리구축…내년상반기매출발생예상\"",
+  "공모하고흔적지웠다…오픈AI해킹사건의전말",
+  "[컨콜]네이버“엔비디아,사업리스크함께하는동반자관계”"
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,17 @@
   [
    "2026-08-07T09:18:23.854709+09:00",
    "하원 페북 정통망법 유튜브 차별 김종철 법사위 미국 구글 방미"
+  ],
+  [
+   "2026-08-07T09:22:16.891334+09:00",
+   "전말 사건의 흔적 지웠다 공모하고"
+  ],
+  [
+   "2026-08-07T09:22:16.891334+09:00",
+   "리스크 사업 관계 함께하는 네이버 동반자"
   ]
  ],
- "last_run": "2026-08-07T09:20:46.934875+09:00",
+ "last_run": "2026-08-07T09:22:37.197694+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
