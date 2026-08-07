@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260806_0003739173",
-  "https://www.khan.co.kr/article/202608061512001",
-  "https://www.koreatimes.co.kr/path/A2026080614550005819",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=316119",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260806010002109",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8629280",
   "https://www.newsis.com/view/NISX20260806_0003739183",
@@ -2999,13 +2995,13 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=849728",
   "https://www.tournews21.com/news/articleView.html?idxno=140483",
   "http://www.dailypop.kr/news/articleView.html?idxno=101378",
-  "https://www.newspim.com/news/view/20260807000967"
+  "https://www.newspim.com/news/view/20260807000967",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3658863",
+  "http://www.fnnews.com/news/202608071505383498",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5566",
+  "https://www.ajunews.com/view/20260807160530431"
  ],
  "seen_titles": [
-  "AMD폭락에도\"엔비디아독식아니다\"…짐크레이머가던진AI투자경고",
-  "[컨콜-LGU+]여명희CFO\"AIDC투자,EBITDA범위내집행…외부조달없...",
-  "[IR]LGU+\"파주등신규AIDC,기존DC대비수익성높다\"",
-  "티빙,KBO흥행타고첫흑자…'개인정보보상'이숙제",
   "구글‘전설’도떠났다…AI인력이탈가속에조직개편나선알파벳",
   "KakaotofocusonAI-basedservices,notinfrastructure",
   "LG유플러스,매출줄었지만영업익은역대최대…AIDC가끌었다",
@@ -6001,7 +5997,11 @@
   "코스피,외인'팔자'에6200선약보합마감…코스닥도800선사수실패",
   "SK하이닉스,HBM넘어HBF강조하며AI메모리진화이끌다",
   "두나무,경찰청'압수디지털자산커스터디'최종낙찰자선정...\"보안...",
-  "외교부,美의원들정통망법비판에반박...\"디지털환경변화에따른것..."
+  "외교부,美의원들정통망법비판에반박...\"디지털환경변화에따른것...",
+  "금산군,전기승용·승합차구입적기얼능신청하세요...보조금지원",
+  "SK하이닉스,美'FMS2026'서차세대메모리아키텍처방향성제시했다",
+  "SK하이닉스,HBM넘어'차세대AI메모리'공개…FMS서미래방향성제시",
+  "[中증시마감]수출호조에상승...엔비디아호재에6G급등"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-08-07T16:06:18.118959+09:00",
    "범용은 입지 NPU 빅테크는 좁아지는 ASIC"
+  ],
+  [
+   "2026-08-07T16:10:26.330328+09:00",
+   "수출 상승 급등 6G 호조에 호재에"
   ]
  ],
- "last_run": "2026-08-07T16:08:42.198812+09:00",
+ "last_run": "2026-08-07T16:10:47.456696+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
