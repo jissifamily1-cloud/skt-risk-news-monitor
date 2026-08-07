@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000327132?division=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690772",
   "https://www.mt.co.kr/tech/2026/08/06/2026080620195419795",
   "https://zdnet.co.kr/view/?no=20260806190638",
   "https://www.sentv.co.kr/article/view/sentv202608060115",
@@ -2999,11 +2997,11 @@
   "http://www.osen.co.kr/article/G1112853575",
   "https://www.inven.co.kr/webzine/news/?news=319317",
   "https://www.aitimes.com/news/articleView.html?idxno=213665",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=07832646645545024"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07832646645545024",
+  "https://www.aitimes.com/news/articleView.html?idxno=213662",
+  "https://news.tf.co.kr/read/life/2351935.htm"
  ],
  "seen_titles": [
-  "한화,여의도서울세계불꽃축제9월5일개최…한·미·영3개국참가",
-  "한국마사회-스타트업10곳,말산업오픈이노베이션업무협약체결",
   "방미통위,허위조작정보전담'정보무결성정책과'신설",
   "SKT과장광고과징금취소에…결국대법원행[기업백브리핑]",
   "SKT'에이닷'일시장애복구…점검후정상작동",
@@ -6001,7 +5999,9 @@
   "천성호→송찬의→문정빈‘21홈런합작’…50억FA김현수떠난자리는...",
   "[LCK]기억되찾은젠지,기세좋던KT상대로완승",
   "\"큐원3.8-맥스,벤치마크비해경쟁력없어\"...AI모델의'숨은비용'함...",
-  "[포토]김재희,신중하게볼을놓는다"
+  "[포토]김재희,신중하게볼을놓는다",
+  "엔비디아,'루빈울트라'메모리사양축소검토...HBM4E수급난항여파",
+  "변호사사칭개인정보갈취…변협,피싱사이트31곳차단"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-08-07T18:46:23.550639+09:00",
    "볼을 신중하게 놓는다 김재희"
+  ],
+  [
+   "2026-08-07T18:50:29.409705+09:00",
+   "변호사 31곳 피싱 차단 사이트 개인정보 사칭 변협 갈취"
   ]
  ],
- "last_run": "2026-08-07T18:48:37.649682+09:00",
+ "last_run": "2026-08-07T18:50:52.954620+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
