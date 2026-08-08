@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12312164?influxDiv=NAVER",
-  "http://www.beyondpost.co.kr/view.php?ud=2026080709544548be44c0aacd_30",
-  "https://www.sedaily.com/article/20076810",
-  "https://www.g-enews.com/view.php?ud=202608070959318999fbbec65dfb_1",
   "https://www.ddaily.co.kr/page/view/2026080710013157677",
   "https://www.sedaily.com/article/20076809",
   "https://www.m-economynews.com/news/article.html?no=69515",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12117480",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444123",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/08/2026080890070.html",
-  "https://news.mtn.co.kr/news-detail/2026080716364819783"
+  "https://news.mtn.co.kr/news-detail/2026080716364819783",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11139",
+  "https://www.wikitree.co.kr/articles/1151258",
+  "https://www.ekn.kr/web/view.php?key=20260807024109482",
+  "https://www.ddaily.co.kr/page/view/2026080717583276488"
  ],
  "seen_titles": [
-  "[컨콜]네이버“AI팩토리운영사마진,20%이상목표”",
-  "\"미국기업처벌가능해져\"...쿠팡감싼미공화의원들,정통망법에'항...",
-  "우리은행,전북고창해상풍력에생산적금융투입…4000억규모지원",
-  "‘전설’마저퇴사…AI밀린구글,조직재편나서",
   "테슬라·스페이스X,텍사스에세계최대반도체공장건립",
   "오픈AI첫AI기기‘도넛형스피커’…내년40만원대출격",
   "해고없는원칙30년…빅테크감원속엔비디아는확충",
@@ -6001,7 +5997,11 @@
   "개보위과징금폭탄에…쿠팡,상장후최대분기적자",
   "SK하이닉스노사'성과급주식지급'평행선,곽노정'N%성과급'법적논...",
   "KT,폭염속시민안전위해'무더위쉼터'운영",
-  "메모리치킨게임엄습,장기계약은매직카드일까[AI칩인사이드]"
+  "메모리치킨게임엄습,장기계약은매직카드일까[AI칩인사이드]",
+  "사람은퇴사했는데AI는출근…만능처럼보이는AI에이전트의함정",
+  "리눅스SCTP결함,루트탈취에컨테이너탈출까지가능",
+  "섭씨40도시대의도시생존학…물·숲·바람길연결해야산다[기후신호...",
+  "[AI클로즈업]하사비스·제프딘이후의구글…‘제미나이2막’시험..."
  ],
  "recent_sigs": [
   [
@@ -6065,7 +6065,7 @@
    "엄습 매직카드일까 메모리 장기계약은 치킨게임"
   ]
  ],
- "last_run": "2026-08-09T06:10:46.678468+09:00",
+ "last_run": "2026-08-09T06:12:33.588861+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
