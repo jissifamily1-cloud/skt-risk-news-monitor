@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2612071",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005896024",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=361349",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7177924",
-  "http://www.beyondpost.co.kr/view.php?ud=202608071004514938be44c0aacd_30",
-  "http://www.fnnews.com/news/202608070922429486",
-  "https://www.tokenpost.kr/news/tech/386532",
-  "https://www.sportsseoul.com/news/read/1627195",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3658483",
   "https://www.gukjenews.com/news/articleView.html?idxno=3658408",
   "https://www.gukjenews.com/news/articleView.html?idxno=3658373",
   "https://biz.chosun.com/it-science/ict/2026/08/07/TOB26SS6TREWBMSLHIQAMEV5S4/",
@@ -2999,18 +2990,18 @@
   "https://biz.chosun.com/topics/topics_social/2026/08/09/IFVMDZF36NHIFJUWXOOSPHWM6I/",
   "http://www.popcornnews.net/news/articleView.html?idxno=129067",
   "https://www.wikitree.co.kr/articles/1151262",
-  "https://www.yna.co.kr/view/AKR20260807155900017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260807155900017?input=1195m",
+  "https://www.starnewskorea.com/sports/2026/08/09/2026080821454025974",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=724797",
+  "http://www.inews24.com/view/1993132",
+  "https://www.hankookilbo.com/news/article/A2026080616180002847?did=NA",
+  "https://biz.heraldcorp.com/article/10834483",
+  "https://www.mt.co.kr/tech/2026/08/09/2026080713552570240",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=809095",
+  "https://www.asiatime.co.kr/article/20260808500004",
+  "https://www.hankookilbo.com/news/article/A2026080617380004703?did=NA"
  ],
  "seen_titles": [
-  "네이버,2분기매출3조3888억·영업이익5203억…\"내년상반기부터AI...",
-  "네이버,AI로광고·커머스키웠다…2분기매출3조3888억",
-  "네이버,2분기매출16.2%증가…AI투자에영업이익은감소",
-  "글로벌분석가가본SK그룹의AI전략",
-  "순천향대-SKT,강원·충청청소년대상체험형AI교육운영",
-  "KT,전국매장410곳에'무더위쉼터'운영…지자체와협업",
-  "\"폭염피해KT매장서쉬고가세요\"KT,전국매장개방",
-  "LG유플러스,AI데이터센터로주가목표2만1천원상향",
-  "‘페이커’와T1깨운뼈아픈‘국제대회실패’,성장계기됐다“우...",
   "세종시의회도시환경위,크린넷·상하수도사업소방문…현장중심의정...",
   "창녕중부내륙고속도로갓길서포탄발견…1시간30분통제",
   "[기자수첩]폭염속에비친두가지공직자상(像)…성낙인창녕군수,...",
@@ -6001,7 +5992,16 @@
   "최태원·노소영재상고기한D-5…‘재산분할금1조원’확정되나",
   "풀무원재단,'국제과학연극제2026'서어린이과학창작극숏필름금상...",
   "오픈AI아스트라,사이버보안‘크리티컬’등급가능성에개발일부중...",
-  "오픈AI,한국에챗GPT광고팀꾸렸다…시장공략본격화"
+  "오픈AI,한국에챗GPT광고팀꾸렸다…시장공략본격화",
+  "LG'폭염브레이크'최대수혜자되나→'KBO21아웃퍼펙트'괴물주2회...",
+  "[코리아피지컬AI⑦·끝]절실한국가전략,K-제조업'총동원령'",
+  "'AI팩토리'네이버,'AI대중화'카카오⋯서로다른AI행보[IT돋보기]",
+  "'가상인물딥페이크음란물'도징역7년?…과잉입법인가,견제장치인...",
+  "FMS열기핫칩스로…삼성·SK,넥스트HBM으로‘생각하는메모리’기술...",
+  "네이버\"마진율20%\",카카오\"B2C집중\"…AI인프라,노선갈렸다",
+  "[이슈]네이버,2분기매출3조3888억원'역대최대'…영업익은소폭감...",
+  "[시승기]\"이런것까지?\"…볼보EX90,타는내내감탄한이유는",
+  "“당나라를한반도에서몰아냈다”…문무대왕이‘왕중왕’인이유"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-08-09T06:58:20.395834+09:00",
    "꾸렸다 광고팀 한국에 시장 본격화 공략 챗GPT"
+  ],
+  [
+   "2026-08-09T07:02:17.712274+09:00",
+   "왕중왕 문무대왕이 당나라를 한반도에서 몰아냈다 이유"
   ]
  ],
- "last_run": "2026-08-09T07:00:57.415229+09:00",
+ "last_run": "2026-08-09T07:02:39.014626+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
