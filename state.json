@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=760981",
   "https://www.dailysecu.com/news/articleView.html?idxno=207948",
   "https://www.hankookilbo.com/news/article/A2026080617030000471?did=NA",
   "https://www.mt.co.kr/world/2026/08/07/2026080610334210148",
@@ -2999,10 +2998,10 @@
   "https://www.sedaily.com/article/20077194",
   "http://www.newsbrite.net/news/articleView.html?idxno=199625",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475506",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211089"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5211089",
+  "https://www.tokenpost.kr/news/breaking/386915"
  ],
  "seen_titles": [
-  "아우토크립트,데프콘서차량이더넷보안연구사례공개",
   "빗썸보안팀,국제해킹대회'데프콘CTF'본선진출",
   "[게임뉴스]카카오게임즈및레드랩게임즈소식외",
   "월가헤지펀드도노렸다…美'AI보이스피싱주의보'",
@@ -6001,7 +6000,8 @@
   "베슬AI,GPU확보…클라우드사업강화",
   "최태원·노소영1조재산분할과'0원'세금…조세정의는어디로갔나",
   "AI해킹공포현실로…오픈AI,보안우려에차세대모델제동",
-  "\"너무똑똑해서위험\"…오픈AI,차세대AI'아스트라'출시연기"
+  "\"너무똑똑해서위험\"…오픈AI,차세대AI'아스트라'출시연기",
+  "AI진영,미선거자금1.4억달러모금…암호화폐로비모델차용"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,13 @@
   [
    "2026-08-08T11:18:19.125759+09:00",
    "0원 1조 어디로 세금 정의는 재산분할과 조세 갔나"
+  ],
+  [
+   "2026-08-08T11:24:22.047625+09:00",
+   "모델 모금 로비 암호화폐 차용 4억달러 진영 선거자금"
   ]
  ],
- "last_run": "2026-08-08T11:22:36.973766+09:00",
+ "last_run": "2026-08-08T11:24:45.193666+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
