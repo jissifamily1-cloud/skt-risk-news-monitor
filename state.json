@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.seouleconews.com/news/articleView.html?idxno=92914",
   "https://www.newsis.com/view/NISX20260807_0003740095",
   "https://www.tokenpost.kr/news/breaking/386531",
   "http://www.kdfnews.com/news/articleView.html?idxno=186222",
@@ -2999,10 +2998,10 @@
   "https://view.asiae.co.kr/article/2026073109362441015",
   "https://www.news1.kr/it-science/internet-platform/6252440",
   "https://biz.heraldcorp.com/article/10834379",
-  "https://www.news1.kr/finance/blockchain-fintech/6252462"
+  "https://www.news1.kr/finance/blockchain-fintech/6252462",
+  "https://magazine.hankyung.com/business/article/202608030936b"
  ],
  "seen_titles": [
-  "네이버,AI투자…매출늘었지만영업익줄어",
   "코스피·코스닥,상승출발후6,300대보합권서혼조",
   "인공지능특이점(singlularity)지나고있다",
   "LG회장,다음주황런쉰과회동전망…AI·스마트공장논의",
@@ -6001,7 +6000,8 @@
   "[AI혁명](210)로그프레소\"K-AI보안구심점목표…AI가위협판단·대응...",
   "美,韓'가짜뉴스법'도문제삼았다…디지털규제압박확산",
   "HBM대란에엔비디아·AMD“사양낮춰서라도…”삼성·SK,공급전더뜨...",
-  "콜드월렛도안전하지않았다…1억달러해킹에가상자산보관공식'흔들..."
+  "콜드월렛도안전하지않았다…1억달러해킹에가상자산보관공식'흔들...",
+  "‘짤방’으로이해하는K-주식세계"
  ],
  "recent_sigs": [
   [
@@ -6075,9 +6075,13 @@
   [
    "2026-08-09T06:32:32.365574+09:00",
    "1억달러 안전하지 보관 해킹에 콜드월렛도 가상자산 않았다 흔들"
+  ],
+  [
+   "2026-08-09T06:38:15.982077+09:00",
+   "이해하는 세계 짤방 주식"
   ]
  ],
- "last_run": "2026-08-09T06:36:31.593496+09:00",
+ "last_run": "2026-08-09T06:38:39.358993+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
