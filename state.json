@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260807044700017?input=1195m",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690868",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257124&CMPT_CD=P0010",
-  "https://www.ddaily.co.kr/page/view/2026080710024843582",
-  "https://news.dealsitetv.com/articles/174412",
   "http://www.seouleconews.com/news/articleView.html?idxno=92914",
   "https://www.newsis.com/view/NISX20260807_0003740095",
   "https://www.tokenpost.kr/news/breaking/386531",
@@ -2999,14 +2994,14 @@
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190684",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=190719",
   "https://www.lecturernews.com/news/articleView.html?idxno=208105",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11134"
+  "https://www.newsverse.kr/news/articleView.html?idxno=11134",
+  "https://www.yna.co.kr/view/AKR20260806150400030?input=1195m",
+  "https://view.asiae.co.kr/article/2026073109362441015",
+  "https://www.news1.kr/it-science/internet-platform/6252440",
+  "https://biz.heraldcorp.com/article/10834379",
+  "https://www.news1.kr/finance/blockchain-fintech/6252462"
  ],
  "seen_titles": [
-  "[iNTheScene]KT,전국매장서‘무더위쉼터’운영…“누구나쉬다가...",
-  "원스토어,AI창작게임전문관오픈…\"설치없이바로플레이\"",
-  "리얼월드,국내로보틱스·시뮬레이션3사와피지컬AI협력",
-  "폭염의펜타포트,끝없이'헤쳐모여'를반복한이유",
-  "HBM만으론부족하다…AI추론이불러온'계층형메모리'시대",
   "네이버,AI투자…매출늘었지만영업익줄어",
   "코스피·코스닥,상승출발후6,300대보합권서혼조",
   "인공지능특이점(singlularity)지나고있다",
@@ -6001,7 +5996,12 @@
   "[인공지능줌인]데이터센터의또다른비용…폭발적인전력부하증가...",
   "[AI프리즘]미국경제를재편하고있는AI…외환시장이먼저반응",
   "[코스피·코스닥지수]급락장휩쓴한국증시,변동성진정세…반등의실...",
-  "美,핵전략새판짠다…'쓸수있는핵'으로중국억제강화"
+  "美,핵전략새판짠다…'쓸수있는핵'으로중국억제강화",
+  "루마니아서적발된메디큐브'짝퉁'…유럽까지번진K-뷰티가품",
+  "[AI혁명](210)로그프레소\"K-AI보안구심점목표…AI가위협판단·대응...",
+  "美,韓'가짜뉴스법'도문제삼았다…디지털규제압박확산",
+  "HBM대란에엔비디아·AMD“사양낮춰서라도…”삼성·SK,공급전더뜨...",
+  "콜드월렛도안전하지않았다…1억달러해킹에가상자산보관공식'흔들..."
  ],
  "recent_sigs": [
   [
@@ -6067,9 +6067,17 @@
   [
    "2026-08-09T06:18:18.137488+09:00",
    "파고든 수면까지 돌봄 24시간 부모님 심박 본다 실버타운"
+  ],
+  [
+   "2026-08-09T06:32:32.365574+09:00",
+   "대란에 공급전 삼성 HBM 낮춰서라도 SK 사양 AMD"
+  ],
+  [
+   "2026-08-09T06:32:32.365574+09:00",
+   "1억달러 안전하지 보관 해킹에 콜드월렛도 가상자산 않았다 흔들"
   ]
  ],
- "last_run": "2026-08-09T06:30:56.415567+09:00",
+ "last_run": "2026-08-09T06:32:59.472891+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
