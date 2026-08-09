@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026080717311211077",
-  "https://www.hankyung.com/article/2026080712551",
-  "https://it.donga.com/109319/",
   "https://www.catchnews.kr/news/articleView.html?idxno=127102",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=520942",
   "https://www.tokenpost.kr/news/breaking/386663",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/it-science/internet-platform/6252938",
   "https://www.dailymedi.com/news/news_view.php?wr_id=939131",
   "https://www.yna.co.kr/view/AKR20260809005600007?input=1195m",
-  "https://www.sedaily.com/article/20077443"
+  "https://www.sedaily.com/article/20077443",
+  "https://www.news1.kr/finance/insurance-card/6252397",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=760689",
+  "https://www.dt.co.kr/article/12077323"
  ],
  "seen_titles": [
-  "사람수준로봇손기준은?…K-스타트업들'글로벌표준'구축한다",
-  "\"HBM·D램등유기적연계가AI시스템핵심\"",
-  "[26.8.7증시인싸잇]외국인‘팔자’…코스피6300선도달실패",
   "베트남IT대기업FPT,'오픈AI'셀렉트파트너선정…기업AI지원확대",
   "'사요나라,미야지'승부수또던졌다삼성새AQ미야모리영입",
   "'역대최대매출'네이버\"내년부터AI팩토리로돈번다\"",
@@ -6001,7 +5998,10 @@
   "'AI팩토리'에미래건네이버…'카톡'에올인카카오",
   "인공지능(AI)주목비타민…종근당브랜드'두각'",
   "◇내일의경기(11일)",
-  "월가는실패라는데…실리콘밸리는아셴브레너에줄섰다[글로벌모닝브..."
+  "월가는실패라는데…실리콘밸리는아셴브레너에줄섰다[글로벌모닝브...",
+  "'300만원폰시대'갤럭시특수에웃는카드사…영업정지롯데카드는'울...",
+  "해외서데이터'먹통'인데환불안된다고?…휴가철로밍·eSIM피해속출",
+  "테슬라·엔비디아도24시간거래…‘토큰주식’올들어4배급성장"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,13 @@
   [
    "2026-08-10T06:14:16.288378+09:00",
    "종근당 비타민 브랜드 두각 인공지능 주목"
+  ],
+  [
+   "2026-08-10T06:22:17.343235+09:00",
+   "데이터 환불 로밍 안된다고 eSIM 피해 해외서 휴가철 속출 인데 먹통"
   ]
  ],
- "last_run": "2026-08-10T06:20:42.446966+09:00",
+ "last_run": "2026-08-10T06:22:38.732916+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
