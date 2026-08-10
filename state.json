@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/385504",
-  "https://www.hankyung.com/article/202608056068O",
-  "https://www.hellot.net/news/article.html?no=114177",
-  "https://www.tokenpost.kr/news/cryptocurrency/385461",
-  "https://www.koreajoongangdaily.com/bilingual-news/artificial-intelligence-that-jumped-the-fence-kor/12808762",
-  "https://www.ddaily.co.kr/page/view/2026080509202592990",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87548",
-  "http://www.4th.kr/news/articleView.html?idxno=2115811",
   "https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html?partner=naver",
   "https://www.tokenpost.kr/news/policy/385345",
   "http://www.4th.kr/news/articleView.html?idxno=2115806",
@@ -2999,17 +2991,17 @@
   "https://www.it-b.co.kr/news/articleView.html?idxno=89430",
   "https://www.aitimes.com/news/articleView.html?idxno=213705",
   "https://www.venturesquare.net/1104579/",
-  "https://www.news2day.co.kr/article/20260810500142"
+  "https://www.news2day.co.kr/article/20260810500142",
+  "https://www.welfarenews.net/news/articleView.html?idxno=209396",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429410",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008691603&plink=ORI&cooper=NAVER",
+  "http://www.inews24.com/view/1993323",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7178267",
+  "https://www.news1.kr/photos/8049155",
+  "https://www.kukinews.com/article/view/kuk202608100124",
+  "https://www.newsis.com/view/NISX20260810_0003743140"
  ],
  "seen_titles": [
-  "ThinkIt’sCooltoWearFancySneakerstoWork?YouMightBeOld.",
-  "WhoAretheGoodGuysandtheBadGuys?I’mNoLongerSure.",
-  "오픈AI,인플루언서초청'럭셔리행사'개최…환경논란에역풍",
-  "오픈AI모델,테스트환경오접속으로실제사이트공격",
-  "서울대빅데이터혁신융합대학사업단,'AI기반창업방법론'특강개최",
-  "오픈AI,코덱스로게임개발하는'오픈AI게임빌더스서울'개최",
-  "2억9900만건딥시크호출량,구글앞섰다",
-  "Artificialintelligencethatjumpedthefence(KOR)",
   "직원이름도헷갈린애플?…오픈AI,문자내역내던지며애플소송반박",
   "[게임이모저모]오픈AI,서울서해커톤개최...코덱스·컴투스하이브연...",
   "AMD\"헬리오스수요폭발\"…내년AI매출두배이상자신",
@@ -6001,7 +5993,15 @@
   "컨플'오더하우',누적주문액25억원돌파…지역마트디지털전환인프...",
   "'에이전트플러그인1.0'공개...스킬·MCP묶어에이전트호환성높여",
   "인터넷허용된‘미토스5’,설정오류찾은‘키미K3’…AI에이전트...",
-  "[문화인사이드]BTS월드투어와영화‘오디세이’,반도체수출"
+  "[문화인사이드]BTS월드투어와영화‘오디세이’,반도체수출",
+  "장애인신문뉴스브리핑'(2026.8.7)",
+  "[월가톡톡]수천만달러'고수입'프로선수,은퇴후파산하는이유",
+  "[글로벌인사이트]결혼안할까봐?AI연인지운중국…\"내연인을돌려...",
+  "'9440만원재산분할'노소영,재상고확정전'이곳'다녀갔다",
+  "KT,NH농협은행차세대AICC구축마무리",
+  "KT,NH농협은행AICC구축",
+  "정재욱kt밀리의서재대표,자사주5000주추가매입…취임후두번째",
+  "금융보안원,글로벌해킹방어대회'데프콘'상위권석권"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,17 @@
   [
    "2026-08-10T15:36:25.434107+09:00",
    "월드투어와 반도체 BTS 영화 수출 오디세이"
+  ],
+  [
+   "2026-08-10T15:38:18.031024+09:00",
+   "확정 재상고 이곳 재산분할 9440만원 다녀갔다"
+  ],
+  [
+   "2026-08-10T15:38:18.031024+09:00",
+   "석권 금융보안원 데프콘 상위권 글로벌 방어대회"
   ]
  ],
- "last_run": "2026-08-10T15:36:43.359221+09:00",
+ "last_run": "2026-08-10T15:38:39.786842+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
