@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20076685",
-  "https://www.tokenpost.kr/news/breaking/386949",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=07015926645544696",
-  "https://www.thepublic.kr/news/articleView.html?idxno=313971",
-  "https://www.ddaily.co.kr/page/view/2026080514595688107",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4878485",
-  "https://dealsite.co.kr/articles/166261",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203130",
-  "https://www.busan.com/view/busan/view.php?code=2026073013595694397",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89317",
   "https://www.klnews.co.kr/news/articleView.html?idxno=322137",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=104847",
   "http://www.datanews.co.kr/news/article.html?no=145823",
@@ -2999,19 +2989,19 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=538844",
   "https://www.ppss.kr/news/articleView.html?idxno=304815",
   "https://www.xportsnews.com/article/2182101",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=318314"
+  "http://www.updownnews.co.kr/news/articleView.html?idxno=318314",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6937763",
+  "https://www.techm.kr/news/articleView.html?idxno=154157",
+  "https://www.seoul.co.kr/news/politics/north/2026/08/10/20260810500181?wlog_tag3=naver",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719807",
+  "https://www.mk.co.kr/article/12122932",
+  "https://www.hankookilbo.com/news/article/A2026081015550000119?did=NA",
+  "http://www.newsprime.co.kr/news/article.html?no=743325",
+  "https://www.mk.co.kr/article/12122945",
+  "https://www.mk.co.kr/article/12122948",
+  "http://www.joseilbo.com/news/news_read.php?uid=573546&class=17"
  ],
  "seen_titles": [
-  "구광모LG회장,다음주美서젠슨황회동…로봇·AI실질적협력안논의",
-  "구광모,다음주실리콘밸리서젠슨황과회동…두달만에재회",
-  "구광모,美엔비디아본사찾는다…두달만에젠슨황후속회동",
-  "구광모,다음주실리콘밸리서젠슨황만난다…피지컬AI밀착행보",
-  "앤스로픽,클로드에예산제어·지역추론등새기능4종추가했다",
-  "왜유독구글에서AI인재들이떠날까…구조적이유있다",
-  "허깅페이스CEO\"中,개방형AI시장주도…첨단분야도추월할수있어...",
-  "[DD퇴근길]저가우회로가사라졌다…D램협상판도,한국으로기운다",
-  "삼성SDS,2분기매출3조7178억원…클라우드·물류동반성장",
-  "삼성SDS,2분기영업익2318억…클라우드·AI가실적견인",
   "2분기웃은삼성SDS·LGCNS,하반기더달린다",
   "삼성SDS2분기영업익2318억…클라우드·AI동반성장",
   "삼성SDS,2분기영업익2318억…전년比0.7%↑",
@@ -6001,7 +5991,17 @@
   "KT,NH농협은행400억'AI상담센터'구축…AI처리업무45개→180개",
   "[기업해부SK⑤]리밸런싱은어디까지왔나…SK사업재편의성적표[8.10보...",
   "'그대에게드림'이혜리전남친이주안등장…황인엽과삼각관계예고",
-  "삼성전자,AI로통신품질도'맞춤형'…NTT도코모와최적화기술검증"
+  "삼성전자,AI로통신품질도'맞춤형'…NTT도코모와최적화기술검증",
+  "'로하스이후6년만의대기록'…'9홈런'ktwiz힐리어드,7월월간MVP등...",
+  "네이버·카카오가넓히는'AI생태계'...시니어교육부터AI에이전트까지",
+  "피싱미끼제작은옛말…北해커,이젠AI로공격대상자동추적한다...",
+  "'중국메모리공포'에외국인1.5조투매…삼전닉스,상승분전부반납",
+  "토큰경제학의승자:데이터가있는곳에AI를배치하라[기고]",
+  "SK쉴더스EQST,데프콘34AICTF서글로벌5위",
+  "\"장기고객잡자\"…SKT·LGU+,경험중심혜택확대",
+  "\"성능좋은AI모델은끊임없이등장…유통망과인프라갖췄는지가관...",
+  "\"기업데이터70%는잠든상태…AI혁신은데이터정리서시작\"",
+  "KT,농협AI상담확대…상담사연결없는업무180개로"
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,25 @@
   [
    "2026-08-10T16:02:19.268722+09:00",
    "리밸런싱은 사업재편의 어디까지 성적표 SK 10보 왔나"
+  ],
+  [
+   "2026-08-10T16:06:20.945692+09:00",
+   "~SKT 혜택 경험 장기고객 잡자 LGU 중심 확대 ~LGU"
+  ],
+  [
+   "2026-08-10T16:06:20.945692+09:00",
+   "기업 상태 혁신은 데이터 잠든 시작 정리서"
+  ],
+  [
+   "2026-08-10T16:06:20.945692+09:00",
+   "~KT 농협 연결 업무 없는 180개로 상담사 확대 상담"
+  ],
+  [
+   "2026-08-10T16:06:20.945692+09:00",
+   "끊임없이 유통망과 성능 인프라 갖췄는지가 등장 좋은 AI모델은"
   ]
  ],
- "last_run": "2026-08-10T16:04:35.356071+09:00",
+ "last_run": "2026-08-10T16:06:47.415372+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
