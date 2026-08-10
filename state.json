@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202607300053",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046142",
-  "https://byline.network/?p=9004111222613620",
-  "http://www.newsdream.kr/news/articleView.html?idxno=115375",
-  "https://www.hankyung.com/article/202607292150r",
   "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000107.html",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577812922483",
   "https://www.businessplus.kr/news/articleView.html?idxno=114841",
@@ -2999,14 +2994,14 @@
   "https://www.mk.co.kr/article/12122950",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592879731925",
   "https://zdnet.co.kr/view/?no=20260810160604",
-  "https://www.mk.co.kr/article/12122947"
+  "https://www.mk.co.kr/article/12122947",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240889",
+  "https://www.aitimes.com/news/articleView.html?idxno=213730",
+  "https://www.ajunews.com/view/20260810155707593",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703278",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476011"
  ],
  "seen_titles": [
-  "삼성SDS,2분기영업익2318억원…전년比0.7%증가",
-  "삼성SDS,2분기매출3조7178억…클라우드·물류동반성장",
-  "삼성SDS,2분기영업이익2318억원…AI·클라우드성장지속",
-  "삼성SDS,클라우드·물류동반성장에2분기실적개선",
-  "삼성SDS,2Q영업익2318억·0.7%↑…IT서비스·AI사업호조",
   "삼성SDS,2분기매출전년보다5.9%늘어",
   "삼성SDS,2분기2분기매출3조7178억…클라우드·물류동반성장",
   "삼전닉스올마이티?[정삼기의경영프리즘]",
@@ -6001,13 +5996,14 @@
   "오픈AI·구글박차고나왔다…AI판흔드는게임체인저들",
   "엔비디아·현대차·퀄컴한자리에…'피지컬AI'자율주행상용화공개'...",
   "금보원소속화이트해커,'해킹올림픽'2~4위달성",
-  "\"AI가짜의료영상막으려청년자문단지원…미디어정책제안보람느..."
+  "\"AI가짜의료영상막으려청년자문단지원…미디어정책제안보람느...",
+  "AI반도체전쟁2막…GPU성능보다'추론비용'낮춰라",
+  "중국AI산업의새로운복병...반도체넘어'중국어학습데이터기근'...",
+  "옌타이자이산·AI밸리,인공지능산업핵심성장축으로도약",
+  "KT·NH농협은행,AI상담시스템구축",
+  "[거래소기관]삼성전자SK하이닉스삼성SDILG에너지솔루션HD현대중공..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-10T10:10:28.553929+09:00",
-   "개발 ~SKT 코스 AI로 러닝 광복절"
-  ],
   [
    "2026-08-10T10:12:19.156481+09:00",
    "~SKT 챙긴다 직접 장기고객은 CEO가 가입자 순증"
@@ -6523,9 +6519,13 @@
   [
    "2026-08-10T16:08:18.123407+09:00",
    "의료영상 정책 보람 지원 미디어 막으려 제안 청년자문단 가짜"
+  ],
+  [
+   "2026-08-10T16:10:28.895660+09:00",
+   "HD현대중공 삼성SDI LG에너지솔루션 SK하이닉스 삼성전자"
   ]
  ],
- "last_run": "2026-08-10T16:08:47.392757+09:00",
+ "last_run": "2026-08-10T16:10:53.250244+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
