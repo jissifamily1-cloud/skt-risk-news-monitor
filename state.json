@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/387202",
-  "https://www.hankyung.com/article/2026080928161",
-  "https://www.bloter.net/news/articleView.html?idxno=670430",
-  "https://www.mk.co.kr/article/12122291",
-  "https://www.sedaily.com/article/20077365",
-  "https://www.sedaily.com/article/20077362",
   "https://www.sedaily.com/article/20077354",
   "https://www.kukinews.com/article/view/kuk202608090027",
   "https://www.mk.co.kr/article/12122195",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/2026081154737",
   "https://www.sidae.com/article/2026081107163438002",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476087",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257289&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257289&CMPT_CD=P0010",
+  "https://www.koreajoongangdaily.com/sports/heat-break-over-kbo-gets-back-in-the-swing-of-things/12817556",
+  "https://www.tokenpost.kr/news/policy/387965",
+  "https://www.joongang.co.kr/article/25451940",
+  "https://biz.sbs.co.kr/article_hub/20000327827?division=NAVER",
+  "https://www.public25.com/news/articleView.html?idxno=52450",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=49679"
  ],
  "seen_titles": [
-  "가트너\"2027년중국AI점유율50%…특정국가의존은치명적리스크\"",
-  "Naval“오픈소스AI,프론티어랩수익성위협안해”",
-  "'수익률1500%'객기vs패기…25세신화놓고'시끌시끌'",
-  "[어바웃C]클래시스CTO공백메운김택수,R&D로드맵계승",
-  "한국K문샷-미국제네시스미션...양국손잡고‘과학AI’에올인하자...",
-  "뉴욕가상자산사업자면허딴마스터카드…스테이블코인직접정산",
   "월가는‘실패작’이라는데…실리콘밸리선투자자몰렸다[글로벌WHAT]",
   "한경협“창업팀100개육성”…투자·대기업사업연계지원",
   "산업혁명에비견되는‘AI혁명’…장현국넥써쓰대표“원스토어‘A...",
@@ -6001,7 +5995,13 @@
   "구글에왕좌내준네이버…AI가바꾼국내모바일지형도",
   "'정준영단톡방'논란후8년…이종현근황\"평범한회사원으로사는중...",
   "AI열풍의민낯…데이터센터3000곳몰리자미국주민들이들고일어났다",
-  "인공지능믿었던미국대기업들의후회...한국이간과한진실[강인규..."
+  "인공지능믿었던미국대기업들의후회...한국이간과한진실[강인규...",
+  "Heatbreakover,KBOgetsbackintheswingofthings",
+  "EUAI법시행,생성형AI워터마크경쟁본격화",
+  "수학난제풀었다홍보했는데…오픈AI'아스트라'개발보류발표,왜[팩...",
+  "[마켓프리뷰]코스피숨죽이자코스닥'날개'…삼전닉스모멘텀실종?",
+  "뉴욕증시,미·이란협상교착에하락나스닥0.32%↓...국제유가5%대급...",
+  "[남영준칼럼]AGI시대도래,자녀를위해울어라"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,13 @@
   [
    "2026-08-11T07:20:27.533837+09:00",
    "호실적까지 유지 AIDC 목표가 동력에 ~SKT"
+  ],
+  [
+   "2026-08-11T07:30:39.418874+09:00",
+   "울어라 AGI 시대 자녀를 도래"
   ]
  ],
- "last_run": "2026-08-11T07:28:38.966101+09:00",
+ "last_run": "2026-08-11T07:30:58.675893+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6733,6 +6737,7 @@
   "dailyvet.co.kr": "dailyvet.co.kr",
   "insidevina.com": "인사이드비나",
   "medicalworldnews.co.kr": "medicalworldnews.co.kr",
-  "thedrive.co.kr": "thedrive.co.kr"
+  "thedrive.co.kr": "thedrive.co.kr",
+  "ferrotimes.com": "페로타임즈(FerroTimes)"
  }
 }
