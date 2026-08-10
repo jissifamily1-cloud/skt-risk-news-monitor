@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/251849",
-  "https://www.newsen.com/news_view.php?uid=202608100534531710",
-  "http://www.stoo.com/article.php?aid=108247984566",
-  "https://www.mk.co.kr/article/12122384",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=833764",
-  "http://www.osen.co.kr/article/G1112854352",
-  "https://enter.etoday.co.kr/news/view/300803",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3659838",
-  "https://www.heraldmuse.com/article/10835117",
-  "https://www.hankookilbo.com/news/article/A2026080711150003851?did=NA",
   "http://www.beyondpost.co.kr/view.php?ud=202608071338402831be44c0aacd_30",
   "https://www.ajunews.com/view/20260807132022001",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=357113",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2613012",
   "https://www.mt.co.kr/tech/2026/08/11/2026081108040828721",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93557",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03588326645546336"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03588326645546336",
+  "https://www.tokenpost.kr/news/cryptocurrency/387980",
+  "https://biz.heraldcorp.com/article/10836721",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=726003",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429468",
+  "https://platum.kr/archives/292300",
+  "https://www.yna.co.kr/view/AKR20260811024500003?input=1195m",
+  "https://www.mt.co.kr/tech/2026/08/11/2026081108134812752",
+  "https://biz.sbs.co.kr/article_hub/20000327846?division=NAVER",
+  "http://www.joynews24.com/view/1993711",
+  "https://www.econovill.com/news/articleView.html?idxno=747623"
  ],
  "seen_titles": [
-  "메모리공급난에…엔비디아·AMD‘HBM눈높이’낮춘다",
-  "1년새63%급락…리플(XRP)'대박신화'멀어졌다!",
-  "“젠슨황에100주만달라고‥”화사,한혜진제안에“언니창피해요”...",
-  "화사\"젠슨황샤라웃AI인줄,누군지몰랐지만손편지보내\"(미우새)...",
-  "“사실잘모르는분”화사,젠슨황샤라웃솔직한속마음(‘미우새’...",
-  "화사,젠슨황샤라웃언급\"저는잘모르는분,경제에무지하다\"('미우...",
-  "화사,젠슨황'샤라웃'비하인드공개…한혜진\"주식100주달라고하지...",
-  "'미우새'화사,덕자찜원조맛집방문…효소찜질방체험",
-  "'미우새'화사,덕자찜맛집방문...젠슨황샤라웃일화공개",
-  "[투데이TV]화사“젠슨황샤라웃?누군지몰라어리둥절했다”(미우새...",
   "한화마무리김서현도무너뜨린'입스'…이겨낸사람들의공통점은",
   "LG구광모회장,두달만에젠슨황과재회…美실리콘밸리방문",
   "엔비디아,'루빈울트라'메모리줄이나…HBM부족·비용부담대응",
@@ -6001,7 +5991,17 @@
   "뉴욕증시,미국·이란불확실성에소폭하락…유가는5%급등[글로벌마...",
   "'델테크포럼'25일개최…SK하이닉스등글로벌빅테크모인다",
   "[거래절벽코인시장,활로는④]거래넘어결제로…원화스테이블코인...",
-  "[단독]“안눌렀는데쿠팡이?”…방미통위,‘납치광고’이달중제재"
+  "[단독]“안눌렀는데쿠팡이?”…방미통위,‘납치광고’이달중제재",
+  "7.65GW가스발전허가,아마존기후공약시험대",
+  "삼성전자,세계최대게임전시회‘게임스컴2026’참가",
+  "[프리마켓포커스]중동불안·美반도체급락에약세…삼전·SK하닉2%...",
+  "[뉴욕마켓워치]'금리안정'베선트좌절시키는이란…주식·채권↓달러...",
+  "로봇학습용가상세계만드는엔닷라이트,150억원투자유치",
+  "삼성전자,게임스컴참가…PC·콘솔·모바일게이밍경험선보여",
+  "삼성SDS,국가AI연구에'블랙웰울트라'GPU공급",
+  "[굿모닝마켓]유가·국채금리급등…뉴욕증시반도체중심하락세",
+  "'정준영단톡방'이종현,뷰티마케터제2의인생\"평범한일상어려움...",
+  "KT롯데백화점에백화점업계첫RCS메시징심는다"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-08-11T08:16:22.837702+09:00",
    "제재 눌렀는데 납치광고 이달 쿠팡이"
+  ],
+  [
+   "2026-08-11T08:18:16.855830+09:00",
+   "RCS 심는다 메시징 ~KT 백화점 업계 롯데백화점에"
   ]
  ],
- "last_run": "2026-08-11T08:16:40.925256+09:00",
+ "last_run": "2026-08-11T08:18:41.105827+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
