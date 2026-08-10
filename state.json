@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687549",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=710535",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687532",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687531",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687474",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687440",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687265",
-  "https://zdnet.co.kr/view/?no=20260727155540",
-  "https://www.aitimes.com/news/articleView.html?idxno=213219",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=852637",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254487&CMPT_CD=P0010",
   "https://www.inven.co.kr/webzine/news/?news=318882",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687123",
@@ -2999,19 +2989,19 @@
   "http://www.metroseoul.co.kr/article/20260810500091",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167678",
   "https://news.tf.co.kr/read/economy/2352220.htm",
-  "https://view.asiae.co.kr/article/2026081010235335553"
+  "https://view.asiae.co.kr/article/2026081010235335553",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=307150",
+  "https://www.sedaily.com/article/20077536",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475840",
+  "https://www.yna.co.kr/view/AKR20260810052800063?input=1195m",
+  "https://www.lecturernews.com/news/articleView.html?idxno=208142",
+  "https://www.hankyung.com/article/202608103494g",
+  "http://www.boannews.com/media/view.asp?idx=145068&kind=3",
+  "http://www.fnnews.com/news/202608100944309025",
+  "https://www.ddaily.co.kr/page/view/2026081010191241720",
+  "https://www.news1.kr/it-science/cc-newmedia/6253936"
  ],
  "seen_titles": [
-  "李대통령,AI투자9500억불결실…'세일즈외교전'마무리",
-  "\"AI속도조절장치마련시급\"…美빅테크직원들,국제공조요구",
-  "알트먼\"인류는이미'특이점'진입…기술보다AI권력독점이큰위험...",
-  "샘알트먼,트럼프행정부만난다…차세대AI모델직접시연",
-  "주4일제선그은샘알트먼…\"근무시간줄지않을것\"왜?",
-  "중국,\"미국의AI패권주의비난,보복조치\"경고",
-  "AI특이점이미왔다는샘알트먼…전문가들은\"아직아니다\"",
-  "일론머스크\"AI,5년내인류지능추월…10년뒤엔인간통제벗어날...",
-  "MS·엔비디아·오픈AI한목소리…\"중국막으려면오픈모델키워야\"",
-  "수츠케버의SSI,엔비디아와장기협력...베라루빈으로연구역량확대",
   "[데일리픽]샘알트먼\"AI특이점은이미시작\"…이더리움주목할이유",
   "AI안전논란속백악관찾는알트먼…규제·혁신메시지주목",
   "AI낙관론에'지구종말가'BGM...메타신규광고의모순",
@@ -6001,7 +5991,17 @@
   "KT,NH농협은행AI상담시스템구축사업완료",
   "지니언스\"北해킹조직김수키,로컬AI로공격고도화정황\"",
   "SK하이닉스'성과급갈등'확산…통합노조신설초읽기",
-  "대신증권,KTCEO초청콥데이주관…\"AI·AX성장전략공유\""
+  "대신증권,KTCEO초청콥데이주관…\"AI·AX성장전략공유\"",
+  "2026LCKCL,정규시즌최종4라운드돌입…PO진출경쟁본격화",
+  "삼성·도코모,AI-RAN공동실증…통신끊김절반줄였다",
+  "\"뇌신경망본뜬AI칩검사\"…네패스아크,독보적테스트경쟁력구축",
+  "대전시,AI활용해보안도구개발추진…하반기시범운영",
+  "초등인강엘리하이,AI게임개발·웹툰창작·영자신문까지…비교과신...",
+  "\"이번엔다르다\"파격전망…삼전닉스'역대급겹호재'터졌다[테크로...",
+  "[인터뷰]아이덴티티와데이터보안으로세계를바꾼‘네트릭스’,N2S...",
+  "AI로콜센터대기시간20%줄였다...KT,NH농협은행AICC구축완료",
+  "\"북한해킹조직김수키,AI활용해사이버위협고도화\"",
+  "\"K-콘텐츠싱가포르향한다\"…ATF참가사공개모집"
  ],
  "recent_sigs": [
   [
@@ -6461,7 +6461,7 @@
    "성장전략 공유 ~KT CEO AX 콥데이 초청 대신증권 주관"
   ]
  ],
- "last_run": "2026-08-10T10:26:41.529369+09:00",
+ "last_run": "2026-08-10T10:28:35.702530+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
