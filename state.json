@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10831454",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1393129",
-  "https://www.segye.com/newsView/20260803523566?OutUrl=naver",
-  "https://www.munhwa.com/article/11606938",
   "http://www.fieldnews.kr/news/articleView.html?idxno=30412",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93194",
   "https://www.bloter.net/news/articleView.html?idxno=669880",
@@ -2999,13 +2995,13 @@
   "http://www.worktoday.co.kr/news/articleView.html?idxno=87749",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100185&t=NNv",
   "http://www.yonhapnewstv.co.kr/news/MYH20260810143832hhc",
-  "https://www.aitimes.com/news/articleView.html?idxno=213734"
+  "https://www.aitimes.com/news/articleView.html?idxno=213734",
+  "https://www.yna.co.kr/view/AKR20260810071900009?input=1195m",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608101407090200431",
+  "https://www.mk.co.kr/article/12122820",
+  "http://www.newsprime.co.kr/news/article.html?no=743317"
  ],
  "seen_titles": [
-  "李대통령,10일'메가프로젝트2차점검회의'…호남반도체논의전망",
-  "[만화경]회장님의주식매입",
-  "SK하이닉스,솔리다임프리IPO로美투자비만들까",
-  "10억원씩‘통큰베팅’…자사주사는오너들,주주들은좋겠네[투자36...",
   "李,10일반도체메가프로젝트재점검…광주군공항·전력·용수해법찾...",
   "9940억원짜리이혼이남긴것[알아야보이는법(法)]",
   "SK(주),주당1500원중간배당…최태원,약100억수령할듯",
@@ -6001,7 +5997,11 @@
   "SKT,AI로독립운동가1만8000여명발자취되살렸다…전국10개코스...",
   "SK하이닉스,미래승부수…패키징팔고AI메모리올인",
   "[사건현장]폭염에노숙인몰리자…공항측“나가라”명령",
-  "오픈AI·앤트로픽·메타흔든이레귤러...\"AI자율해킹아닌설정오류..."
+  "오픈AI·앤트로픽·메타흔든이레귤러...\"AI자율해킹아닌설정오류...",
+  "\"미국AI에도전하는중국…이제자본시장을자금줄로\"",
+  "SKT·독립기념관,광복81주년맞아‘기억하길’캠페인전개",
+  "“AI시대는일생일대기회…美빅테크·K제조업에장기투자하라”",
+  "케이앤어스,무선백도어해킹탐지수요증가…사업확대속도"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,21 @@
   [
    "2026-08-10T14:42:29.594651+09:00",
    "오류 이레귤러 메타 자율 아닌 흔든 설정 앤트로픽"
+  ],
+  [
+   "2026-08-10T14:44:16.691965+09:00",
+   "광복 81주년 맞아 독립기념관 기억하길 캠페인 전개 ~SKT"
+  ],
+  [
+   "2026-08-10T14:44:16.691965+09:00",
+   "빅테크 시대는 기회 K제조업에 장기투자하라 일생일대"
+  ],
+  [
+   "2026-08-10T14:44:16.691965+09:00",
+   "속도 사업 탐지 무선백도어 확대 수요 증가 케이앤어스"
   ]
  ],
- "last_run": "2026-08-10T14:42:55.547680+09:00",
+ "last_run": "2026-08-10T14:44:43.051809+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
