@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80273",
-  "https://news.jtbc.co.kr/article/NB12311423?influxDiv=NAVER",
-  "https://www.sisaweek.com/news/articleView.html?idxno=237035",
-  "http://www.inews24.com/view/1991228",
-  "https://www.hani.co.kr/arti/economy/it/1271115.html",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005892934",
   "https://biz.heraldcorp.com/article/10828916",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93168",
   "https://biz.chosun.com/it-science/ict/2026/08/03/IBM3ILIFYVEIRCEUOYOKG2BWUY/",
@@ -2999,15 +2993,15 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092167686",
   "https://www.koreaittimes.com/news/articleView.html?idxno=155932",
   "https://www.dt.co.kr/article/12077365",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209515"
+  "http://www.srtimes.kr/news/articleView.html?idxno=209515",
+  "https://www.dailian.co.kr/news/view/1676574/?sc=Naver",
+  "http://www.inews24.com/view/1993347",
+  "https://news.bizwatch.co.kr/article/consumer/2026/08/10/0005",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855558",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422973",
+  "https://www.etnews.com/20260810000128"
  ],
  "seen_titles": [
-  "오픈AI,차세대AI'아스트라'예고⋯10년묵은난제10개풀었다",
-  "[핫클릭]\"통영60대여성살인용의자,175㎝보통체격\"外",
-  "오픈AI'아스트라'공개임박…수학난제10개풀며추론력과시",
-  "李대통령,7박11일순방마치고귀국…곧바로靑출근",
-  "오픈AI,차세대AI모델'아스트라'예고…\"수학난제10개해결\"",
-  "이대통령,서울공항도착…미국·남미등5개국순방종료",
   "이재명대통령,7박11일순방종료…AI협력·무역로확장등성과",
   "오픈AI,차세대AI모델'아스트라'성능공개⋯\"수학난제10가지풀어...",
   "오픈AI“10년묵은수학계10대난제풀었다”…차세대‘아스트라’...",
@@ -6001,7 +5995,13 @@
   "오픈AI·앤트로픽·메타'AI탈주'사건…테스트업체는'이레귤러'",
   "KT,농협은행상담업무AI로전환…'AI가직접처리'180개로확대",
   "잇따른AI해킹사고는동일한테스트환경오류에서발생",
-  "지니언스,北해킹조직'김수키'AI공격고도화정황포착"
+  "지니언스,北해킹조직'김수키'AI공격고도화정황포착",
+  "서울종로구,광복절맞아전광판통합미디어아트프로젝트추진",
+  "삼성전자·日NTT도코모,AI-RAN으로통신품질최적화",
+  "신원,AI로글로벌공급망잇는다",
+  "자율주행산업전8월코엑스개최",
+  "SK하이퍼이사회윤곽···SK텔레콤'재무투톱'CFO·재무관리실장'눈...",
+  "KT,NH농협은행AI상담고도화…처리업무45개→180개"
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,13 @@
   [
    "2026-08-10T10:16:24.662097+09:00",
    "ATF서 진출 11편 모집 방송콘텐츠 해외 지원 싱가포르 콘텐츠"
+  ],
+  [
+   "2026-08-10T10:22:16.717847+09:00",
+   "윤곽 CFO 재무관리실장 재무투톱 이사회 SK하이퍼 ~SKT"
   ]
  ],
- "last_run": "2026-08-10T10:20:48.365883+09:00",
+ "last_run": "2026-08-10T10:22:40.606212+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
