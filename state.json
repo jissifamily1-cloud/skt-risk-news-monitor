@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25451404",
-  "http://www.boannews.com/media/view.asp?idx=145036&kind=3",
-  "https://www.chosun.com/economy/tech_it/2026/08/06/YDIAYUDD4RDBVPZIRCXHZSO3CU/",
-  "https://www.newspim.com/news/view/20260806000770",
-  "https://www.joongang.co.kr/article/25451396",
-  "https://www.etoday.co.kr/news/view/2611877",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=06432086645544696",
-  "http://www.fnnews.com/news/202608061449570331",
-  "https://www.donga.com/news/Economy/article/all/20260806/134431576/2",
-  "https://www.chosun.com/economy/tech_it/2026/08/06/LQDABHHDUBEHJGG6W5BKOZUO5A/",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05795766645544696",
   "https://www.newspim.com/news/view/20260806000900",
   "https://www.segye.com/newsView/20260806514645?OutUrl=naver",
   "https://view.asiae.co.kr/article/2026080614382589104",
@@ -2999,20 +2988,20 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=115236",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855584",
   "https://economychosun.com/site/data/html_dir/2026/08/02/2026080200006.html",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475845"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475845",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=105108",
+  "https://www.mt.co.kr/policy/2026/08/10/2026081009215768084",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=307154",
+  "https://view.asiae.co.kr/article/2026081009544477816",
+  "https://www.pressman.kr/news/articleView.html?idxno=103081",
+  "https://magazine.hankyung.com/business/article/202608103883b",
+  "https://www.segye.com/newsView/20260810508461?OutUrl=naver",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405342",
+  "https://www.hankyung.com/article/202608103851h",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=128053",
+  "https://www.mt.co.kr/tech/2026/08/10/2026081010302597736"
  ],
  "seen_titles": [
-  "AI에이전트시대,메모리도계층화…SK하이닉스가제시한차세대전략",
-  "외국인매도에코스피이틀째하락,SK하이닉스약세에6,200선마감",
-  "엔비디아가점찍은‘800V’다크호스[미장보석주]",
-  "삼성전자,휴머노이드로봇에꽂히다",
-  "한미반도체폭등맞힌100억男“다음텐배거?힌트다나왔다”",
-  "블랙햇USA2026...보안업계,AI자율방어솔루션대거선봬",
-  "中AI,기술넘어돈도몰린다…문샷몸값한달새44조→73조원",
-  "앤스로픽도AI칩직접만든다…삼성전자2나노수주'촉각'",
-  "인재잃는구글…‘구글AI전설’제프딘까지떠났다[팩플]",
-  "中딥시크,AI가격대폭인상예고⋯‘초저가전략’접나",
-  "메타AI,테스트중해킹공격…오픈AI·앤스로픽이어세번째",
   "AI경쟁에서쳐질라...구글,미국본사로핵심인물집결",
   "‘AI가격파괴’딥시크도결국올린다…IPO앞두고전략수정",
   "앤스로픽‘클로드최적화’AI칩개발본격화...“삼성2나노활용검...",
@@ -6001,7 +5990,18 @@
   "KT,400억규모NH농협은행차세대AICC구축완료…AI가180개금융업무...",
   "서치독,엔비디아인셉션멤버선정",
   "[BOOKS]정보는넘치고생각은부족한시대…왜다시책을읽어야하나",
-  "인텔·엔비디아채택기대감…유리기판테마,장비·소재주동반우상..."
+  "인텔·엔비디아채택기대감…유리기판테마,장비·소재주동반우상...",
+  "LGU+,장기고객3000명초청'레고랜드워터풀파티'열어",
+  "종로구,광화문스퀘어서일주일간'광복절특별영상'내보낸다",
+  "SOOP,AI자막이어채팅번역도입…글로벌소통강화",
+  "대만국방비16%급증…사상첫1조대만달러돌파",
+  "국경넘는상품,로봇이나르는장보기",
+  "“차이나AI공습”가트너의파격전망",
+  "모비데이즈,‘MAXSUMMIT2026’개최…1104개기업,2252명참여",
+  "금융보안원화이트해커,데프콘서보안역량우수성입증…상위권기록",
+  "고려대세종캠퍼스연구팀,복제방지이중인증홀로그램개발",
+  "LG유플러스,장기고객3000명레고랜드초청…'체험형혜택'확대",
+  "韓화이트해커,세계최고해킹대회휩쓸었다…데프콘2·3위"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,13 @@
   [
    "2026-08-10T10:40:28.221128+09:00",
    "기대감 장비 우상 인텔 채택 기판 테마 유리 동반 소재주"
+  ],
+  [
+   "2026-08-10T10:42:18.507258+09:00",
+   "세계 화이트해커 해킹대회 휩쓸었다 최고 데프콘 3위"
   ]
  ],
- "last_run": "2026-08-10T10:40:59.102377+09:00",
+ "last_run": "2026-08-10T10:42:37.846270+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
