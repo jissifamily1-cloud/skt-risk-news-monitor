@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429238",
-  "http://www.beyondpost.co.kr/view.php?ud=2026080805301384452aaae0046f_30",
-  "http://www.fnnews.com/news/202608080534109868",
-  "https://www.mt.co.kr/world/2026/08/08/2026080805342618489",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169507",
-  "https://www.newspim.com/news/view/20260808000016",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=224509",
-  "https://www.mediapen.com/news/view/1115073",
   "https://www.wikitree.co.kr/articles/1151136",
   "https://www.newspim.com/news/view/20260808000013",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01367766645545352",
@@ -2999,17 +2991,17 @@
   "https://www.tokenpost.kr/news/insights/387317",
   "https://www.cstimes.com/news/articleView.html?idxno=716218",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02689606645546008",
-  "https://www.kbsm.net/news/view.php?idx=529775"
+  "https://www.kbsm.net/news/view.php?idx=529775",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238506",
+  "https://www.kmaeil.com/news/articleView.html?idxno=647943",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307245",
+  "https://www.yna.co.kr/view/AKR20260810054600017?input=1195m",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=258168",
+  "https://www.insight.co.kr/news/567310",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691369",
+  "https://www.hankyung.com/article/202608103825g"
  ],
  "seen_titles": [
-  "샘알트먼의생체인증스타트업월드,암호화폐판매로5250만달러조달",
-  "[7월24일]증류는왜'도둑질'이됐나…키미K3논란의진짜쟁점",
-  "일론머스크\"구글견제하려만든오픈AI…결국AI경쟁만더키웠다\"",
-  "오픈AI해킹파장에백악관주시...미의회'AI킬스위치'법안발의",
-  "[뉴욕증시]고용쇼크에금리부담덜었다…강세마감",
-  "필라델피아반도체지수2.56%↑,마이크론0.44%SK하이닉스ADR3.9%↓...반...",
-  "[뉴욕증시]고용감소속S&P500사상최고…스페이스X,16%폭등",
-  "고용충격에금리인상전망제동…증시는웃었다[뉴욕마감]",
   "美고용쇼크에도,미국증시나스닥'활짝'",
   "뉴욕증시,고용쇼크에금리인상우려후퇴…S&P500최고치",
   "\"로펌·기업맞춤형AI직접설계\"",
@@ -6001,7 +5993,15 @@
   "\"반등인가,착시인가\"…코인피드,비트코인6만5000달러회복에도유동...",
   "시민과함께달린다…SKT,AI로되살린독립운동가기억길조성",
   "‘중국판엔비디아’상반기매출급신장…“중국이어홍콩증시도상...",
-  "GSNC,채용·기부위장해킹메일대응위한통합메일보안지원"
+  "GSNC,채용·기부위장해킹메일대응위한통합메일보안지원",
+  "SOOP,AI채팅번역도입…글로벌소통문턱낮춘다",
+  "[문인찬의新戰略論]NewStrategyParadigm#40",
+  "최태원1조원'사법리스크'현실화···SK지배구조흔들",
+  "KT,NH농협은행차세대AICC구축…상담시간20%단축",
+  "KT,NH농협은행AI상담시스템고도화...채널통합·생성형AI확장기틀...",
+  "젠슨황샤라웃받은화사...한혜진\"주식500주만달라고해\"폭소",
+  "방미통위,싱가포르ATF참가방송콘텐츠11편모집",
+  "한국인터넷소통협회,'2026대한민국AI브랜드대상'신설"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,17 @@
   [
    "2026-08-10T10:34:19.759135+09:00",
    "지원 기부 대응 위장 위한 GSNC 통합 메일 메일보안 채용"
+  ],
+  [
+   "2026-08-10T10:36:16.832468+09:00",
+   "흔들 SK 현실화 사법 1조원 리스크 지배구조"
+  ],
+  [
+   "2026-08-10T10:36:16.832468+09:00",
+   "대한민국AI브랜드대상 신설 한국인터넷소통협회"
   ]
  ],
- "last_run": "2026-08-10T10:34:39.720895+09:00",
+ "last_run": "2026-08-10T10:36:39.928775+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
