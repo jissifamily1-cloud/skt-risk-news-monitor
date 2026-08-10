@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254487&CMPT_CD=P0010",
-  "https://www.inven.co.kr/webzine/news/?news=318882",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687123",
-  "https://zdnet.co.kr/view/?no=20260727085255",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687098",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687057",
   "https://www.aitimes.com/news/articleView.html?idxno=213183",
   "https://www.aitimes.com/news/articleView.html?idxno=213181",
@@ -2999,14 +2994,14 @@
   "http://www.boannews.com/media/view.asp?idx=145068&kind=3",
   "http://www.fnnews.com/news/202608100944309025",
   "https://www.ddaily.co.kr/page/view/2026081010191241720",
-  "https://www.news1.kr/it-science/cc-newmedia/6253936"
+  "https://www.news1.kr/it-science/cc-newmedia/6253936",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703185",
+  "https://sports.khan.co.kr/article/202608101028003?pt=nv",
+  "https://theviewers.co.kr/View.aspx?No=4180092",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207968",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1719737"
  ],
  "seen_titles": [
-  "[데일리픽]샘알트먼\"AI특이점은이미시작\"…이더리움주목할이유",
-  "AI안전논란속백악관찾는알트먼…규제·혁신메시지주목",
-  "AI낙관론에'지구종말가'BGM...메타신규광고의모순",
-  "배경훈장관\"美'AI선언'다음은실행\"",
-  "이대통령\"AI기본사회공론화필요,양극화완화의길찾아야\"",
   "한국AI시대본격개막...글로벌빅테크리더들과미래비전공유",
   "\"오픈웨이트AI가미래\"…암스트롱,젠슨황첫엑스게시물에화답",
   "[AI는지금]오픈AI모델,허깅페이스시스템침입…\"실행기록공개하라...",
@@ -6001,7 +5996,12 @@
   "[인터뷰]아이덴티티와데이터보안으로세계를바꾼‘네트릭스’,N2S...",
   "AI로콜센터대기시간20%줄였다...KT,NH농협은행AICC구축완료",
   "\"북한해킹조직김수키,AI활용해사이버위협고도화\"",
-  "\"K-콘텐츠싱가포르향한다\"…ATF참가사공개모집"
+  "\"K-콘텐츠싱가포르향한다\"…ATF참가사공개모집",
+  "하나은행,FDS고도화로신종투자사기'KReSIM'사전예방",
+  "독립투사들이딛고간길,후손이걷는다…SKT·독립기념관‘광복81주...",
+  "[유통갤러리]신원,AX로글로벌공급망경쟁력강화外",
+  "금융보안원소속화이트해커,데프콘34CTF서2·3·4위차지",
+  "[현장]젠슨황다녀간지두달인데…홍대BBQ여전히'문전성시'"
  ],
  "recent_sigs": [
   [
@@ -6459,9 +6459,13 @@
   [
    "2026-08-10T10:26:17.523364+09:00",
    "성장전략 공유 ~KT CEO AX 콥데이 초청 대신증권 주관"
+  ],
+  [
+   "2026-08-10T10:30:34.447960+09:00",
+   "젠슨 여전히 문전성시 다녀간 BBQ 홍대 두달인데"
   ]
  ],
- "last_run": "2026-08-10T10:28:35.702530+09:00",
+ "last_run": "2026-08-10T10:30:58.363427+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
