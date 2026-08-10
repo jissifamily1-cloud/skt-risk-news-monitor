@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003257422&CMPT_CD=P0010",
-  "https://news.tf.co.kr/read/world/2351973.htm",
-  "https://www.dailian.co.kr/news/view/1676115/?sc=Naver",
   "https://www.starnewskorea.com/broadcast-show/2026/08/08/2026080810003887929",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855397",
   "http://www.yonhapnewstv.co.kr/news/AKR202608081054340Cb",
@@ -2999,12 +2996,12 @@
   "https://www.donga.com/news/Inter/article/all/20260810/134448945/1",
   "https://www.khan.co.kr/article/202608062036005",
   "http://www.econonews.co.kr/news/articleView.html?idxno=442600",
-  "https://www.naeil.com/news/read/598268"
+  "https://www.naeil.com/news/read/598268",
+  "https://zdnet.co.kr/view/?no=20260810130523",
+  "http://www.fnnews.com/news/202608101253414390",
+  "https://www.naeil.com/news/read/598317"
  ],
  "seen_titles": [
-  "[동정]김정기대구광역시행정부시장",
-  "대구시농업기술센터,귀농귀촌기초영농기술교육2기교육생40명모집",
-  "[EBN데이터센터]미증시,기술주강세에일제히상승마감...나스닥종...",
   "'아시아쿼터교체'삼성,선두경쟁승부수던졌다",
   "美증시,고용악화속금리인상론후퇴에상승…S&P최고치경신",
   "민주당당원커뮤니티해킹에정청래책임론?…김민석\"관리무능바로...",
@@ -6001,7 +5998,10 @@
   "‘중국판엔비디아’무어스레드,상반기매출147%급증…“홍콩상장...",
   "AI검색때상품노출순위,시장점유율·평판과차이",
   "대신증권,KTCEO초청'콥데이'주관",
-  "중,자본시장총동원해AI패권도전"
+  "중,자본시장총동원해AI패권도전",
+  "방미심위,190억원피해스캠사이트179개차단",
+  "NH투자증권,오픈API'PLUG'출시…AI활용투자전략구현지원",
+  "‘삼프로TV’앱개인정보46만여건유출"
  ],
  "recent_sigs": [
   [
@@ -6497,7 +6497,7 @@
    "총동원해 자본시장 AI패권 도전"
   ]
  ],
- "last_run": "2026-08-10T13:06:38.800950+09:00",
+ "last_run": "2026-08-10T13:08:33.744639+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
