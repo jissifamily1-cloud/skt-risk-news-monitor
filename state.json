@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20077403",
-  "https://www.sedaily.com/article/20077396",
-  "https://www.sedaily.com/article/20077383",
-  "http://www.hellodd.com/news/articleView.html?idxno=112756",
-  "https://www.chosun.com/economy/tech_it/2026/08/09/DYHEIZQV7RFAJPSJ3PIQM7BO44/",
-  "https://www.sedaily.com/article/20077363",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02660086645545680",
   "https://www.ajunews.com/view/20260809130310593",
   "https://www.mk.co.kr/article/12122191",
   "https://www.mk.co.kr/article/12122194",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20260810000864",
   "https://www.nspna.com/news/?newsid=823632",
   "https://www.ngonews.kr/news/articleView.html?idxno=235134",
-  "https://www.g-enews.com/view.php?ud=2026081107573754469a1f309431_1"
+  "https://www.g-enews.com/view.php?ud=2026081107573754469a1f309431_1",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03493206645546336",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=78601",
+  "https://www.econovill.com/news/articleView.html?idxno=747615",
+  "https://www.ddaily.co.kr/page/view/2026081108073855007",
+  "https://www.ytn.co.kr/_ln/0102_202608110757538050",
+  "https://www.newspim.com/news/view/20260811000065",
+  "https://www.mk.co.kr/article/12123655"
  ],
  "seen_titles": [
-  "[주간증시전망]성장성뒷받침되는업종중심대응필요",
-  "SK하닉임단협‘성과급자사주지급’놓고난항…HBM4생산악영향우...",
-  "‘메모리+파운드리+패키징’원팀위력…HBM4E양산도앞당겨",
-  "삼성HBM4‘황금수율’달성…공급늘린다",
-  "[차이나급보]중국의우주AI데이터센터프로젝트는시작되었다",
-  "엔비디아도‘메모리다이어트’나서나",
-  "[단독]KAIST본원에AI데이터센터세운다",
   "불붙는반도체주도권경쟁…삼전·하닉이어中·대만'증설러시'",
   "두회사,다른AI해법…네이버는인프라,카카오는에이전트",
   "불붙은순환매…소비재·화장품ETF로돈몰린다",
@@ -6001,7 +5994,14 @@
   "[GAM]CAT굴착기에서AI인프라주축으로②역대급백로그와46%저력",
   "[들어보니]증권사임직원‘모럴해저드’확산…증선위,칼빼들다",
   "롯데百,업계최초'RCS메시징시스템'도입…\"스미싱걱정끝\"",
-  "엔비디아·월가,5000억달러AI금융플랫폼구축"
+  "엔비디아·월가,5000억달러AI금융플랫폼구축",
+  "델,이달'DTF2026'개최…비즈니스성과창출AI전략제시",
+  "뉴욕증시,호르무즈협상의구심에하락...유가5%급등",
+  "삼성SDS국가AI연구용GPU서비스개시B300블랙웰울트라까지공급...",
+  "칩회사에서자산시장으로…엔비디아가5000억달러모으는이유",
+  "\"엔비디아,이젠금융회사?\"하락마감뒤커지는'700조'의구심",
+  "[AIMY뉴스]11일중국증시'로봇·AI반도체·우주항공기술혁신테마...",
+  "‘불법촬영물파문’이종현,해킹핑계로기습근황…“퇴출잊었나”"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,25 @@
   [
    "2026-08-11T08:04:19.314646+09:00",
    "엔닷라이트 150억원 투자 피지컬 데이터 고도화 유치"
+  ],
+  [
+   "2026-08-11T08:10:37.096278+09:00",
+   "시장으로 달러 5000억 모으는 자산 회사에서 이유 엔비디아가"
+  ],
+  [
+   "2026-08-11T08:10:37.096278+09:00",
+   "이젠 커지는 700조 금융회사 하락 마감 의구심"
+  ],
+  [
+   "2026-08-11T08:10:37.096278+09:00",
+   "우주항공 기술혁신 테마 중국증시 반도체 로봇 11일"
+  ],
+  [
+   "2026-08-11T08:10:37.096278+09:00",
+   "핑계로 이종현 파문 잊었나 퇴출 촬영물 근황 기습 불법"
   ]
  ],
- "last_run": "2026-08-11T08:08:34.320450+09:00",
+ "last_run": "2026-08-11T08:11:03.164679+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
