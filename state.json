@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12312164?influxDiv=NAVER",
-  "https://www.yna.co.kr/view/AKR20260807046500004?input=1195m",
-  "https://www.news1.kr/society/court-prosecution/6252044",
-  "https://www.m-i.kr/news/articleView.html?idxno=1399890",
-  "https://www.newspim.com/news/view/20260807000130",
-  "https://www.khan.co.kr/article/202608070917001",
-  "https://hbnpress.com/news/view/1065571469119911",
-  "http://www.fnnews.com/news/202608070844224270",
   "https://www.khan.co.kr/article/202608070854001",
   "https://www.ajunews.com/view/20260807084357373",
   "http://www.fnnews.com/news/202608070831268562",
@@ -2999,17 +2991,17 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/08/11/2026081190047.html",
   "https://www.businessplus.kr/news/articleView.html?idxno=115267",
   "https://www.ddaily.co.kr/page/view/2026081108342449977",
-  "https://www.news1.kr/it-science/general-it/6254910"
+  "https://www.news1.kr/it-science/general-it/6254910",
+  "https://www.betanews.net/article/view/beta202608110001",
+  "https://www.tjb.co.kr/news05/bodo/view/id/102234",
+  "https://www.etoday.co.kr/news/view/2613017",
+  "http://www.segyebiz.com/newsView/20260811505388?OutUrl=naver",
+  "https://www.mk.co.kr/article/12123667",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691772",
+  "https://www.newsway.co.kr/news/view?ud=2026081108333028470",
+  "http://www.fnnews.com/news/202608110829486812"
  ],
  "seen_titles": [
-  "합수본,서울·경기·충북선관위압수수색…'통계조작'수사확대外[오...",
-  "변호사사칭돈·개인정보갈취피싱…변협,웹사이트31곳접속차단",
-  "실존변호사사칭해비대면상담유도…변협,피싱사이트31곳차단이...",
-  "\"미국기업처벌가능해져\"...쿠팡감싼미공화의원들,정통망법에'항...",
-  "변호사사칭해돈·개인정보갈취…변협,웹사이트31곳접속차단",
-  "변협,방미통위와공조해'변호사사칭사이트'31건접속차단",
-  "'쿠팡두둔'美공화당,韓정통망법압박…\"표현의자유침해\"",
-  "美공화,韓'개정정통망법'에항의서한…\"표현의자유위협\"",
   "쿠팡편들던미공화하원의원들,한국정부에‘정통망법항의서한’",
   "미국하원법사위,정통망법'구글·유튜브·페북·X'차별...김종철방미...",
   "'쿠팡두둔'美공화의원들,이번엔韓정부에정통망법압박서한",
@@ -6001,7 +5993,15 @@
   "[아이온의AI:온]미래를움직이는오래된기술",
   "KT,롯데백화점에'RCS메시징시스템'구축…백화점업계첫도입",
   "전환비용50%폭증부담…중국AI기업들,국산칩대신엔비디아고수",
-  "삼성SDS,국내학계·연구기관에엔비디아'B300'GPU지원"
+  "삼성SDS,국내학계·연구기관에엔비디아'B300'GPU지원",
+  "AI자막이어채팅번역까지,SOOP언어장벽없는글로벌소통확대",
+  "구글,국내월간이용자수첫네이버추월…챗GPT는다음의2.6배",
+  "인텔,유상증자발표에4%하락...마린맥스46%급등[뉴욕증시무버]",
+  "[뉴욕증시]호르무즈협상난항에하락…다우0.1%↓",
+  "“마이크론샌디스크아니다”…‘SK하닉저가매수기회’라는미투자...",
+  "AI수요미쳤다…TSMC7월에만145억달러,1년새44.7%급증",
+  "삼성전자·SK하이닉스,프리마켓1~2%대동반하락…美반도체주약세여...",
+  "'2조해킹피해'바이비트,美법원에北상대소송제기"
  ],
  "recent_sigs": [
   [
@@ -6321,7 +6321,7 @@
    "지원 연구기관에 삼성SDS 국내 GPU B300 학계"
   ]
  ],
- "last_run": "2026-08-11T08:38:43.623960+09:00",
+ "last_run": "2026-08-11T08:40:49.137300+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
