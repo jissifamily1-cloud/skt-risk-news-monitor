@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12076757",
-  "https://www.ddaily.co.kr/page/view/2026080516525898249",
-  "https://www.ajunews.com/view/20260805162733292",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05546486645544368",
-  "https://www.etoday.co.kr/news/view/2611428",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/05/2026080500247.html",
   "https://kpenews.com/View.aspx?No=4175601",
   "https://www.newspim.com/news/view/20260805001335",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444041",
@@ -2999,15 +2993,15 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=82976",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=274415",
   "https://www.viva100.com/article/20260810500204",
-  "https://www.dailian.co.kr/news/view/1676524/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1676524/?sc=Naver",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457411",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3660015",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3660021",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=169551",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=123821",
+  "https://www.ddaily.co.kr/page/view/2026081009172588187"
  ],
  "seen_titles": [
-  "SKT\"AIDC매출판교사업으로급증…고객확보후5GWDC구축\"",
-  "SKT,해킹후유증메운AI…'SK하이퍼'로성장동력키운다(종합)",
-  "[컨콜]SKT\"15GWAIDC,고객확보후건설..직접투자최소화\"",
-  "‘해킹터널’벗어난SKT…AI데이터센터매출날개달았다",
-  "SKT,AIDC전문기업도약한다…2Q영업익전년比67.3%↑",
-  "[컨콜]SKT\"수요확인후투자\"…SK하이퍼로AIDC15GW추진",
   "[컨콜]SKT\"AIDC에대규모자금필요…PF등외부자본적극활용\"",
   "SKT,기가와트AIDC에올해3300억투자…\"先투자유치,後건설나설것\"(...",
   "SKT,해킹털고본격AI수익화…AIDC매출92.5%급증",
@@ -6001,7 +5995,13 @@
   "SKT,AI로독립운동가발자취되살린다…전국10개코스조성",
   "LG유플러스,장기고객초청'레고랜드워터풀파티'성료",
   "LG유플러스,장기고객3000명과‘레고랜드워터풀파티’성황리마무...",
-  "엔비디아·현대차·퀄컴한자리에…자율주행모빌리티산업전25일개막"
+  "엔비디아·현대차·퀄컴한자리에…자율주행모빌리티산업전25일개막",
+  "LGU+,장기고객3000명과'레고랜드워터풀파티'성황리마무리",
+  "10년만의경선뚫은문대림…제주도당,오직하나\"원팀\"",
+  "[조간신문뉴스라인]대전∙충남∙세종10일(월)",
+  "亞장초반...한국·일본·호주증시'혼조',원화환율'상승'",
+  "SK텔레콤,독립운동가들이걸었던길후손·시민들이다시걷는다",
+  "전력·환경논란에뿔난주민들…美데이터센터건설금지구역500곳돌..."
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,17 @@
   [
    "2026-08-10T09:14:18.563269+09:00",
    "서치독 도면 분석 개발 선정 인셉션"
+  ],
+  [
+   "2026-08-10T09:20:27.706353+09:00",
+   "~SKT 독립운동가들이 다시 시민들이 후손 걷는다 걸었던"
+  ],
+  [
+   "2026-08-10T09:20:27.706353+09:00",
+   "뿔난 주민들 논란에 구역 금지 환경 건설 전력 500곳 데이터센터"
   ]
  ],
- "last_run": "2026-08-10T09:18:34.519997+09:00",
+ "last_run": "2026-08-10T09:20:50.947828+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
