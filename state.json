@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1151219",
-  "https://www.segye.com/newsView/20260808509371?OutUrl=naver",
-  "https://www.newsis.com/view/NISX20260808_0003741485",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691251",
-  "http://www.wsobi.com/news/articleView.html?idxno=316159",
-  "http://www.wsobi.com/news/articleView.html?idxno=316158",
-  "https://zdnet.co.kr/view/?no=20260808194326",
-  "http://www.wsobi.com/news/articleView.html?idxno=316150",
   "https://www.aitimes.com/news/articleView.html?idxno=213710",
   "https://www.tokenpost.kr/news/blockchain/386961",
   "https://www.aitimes.com/news/articleView.html?idxno=213709",
@@ -2999,17 +2991,17 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1719780",
   "https://news.bizwatch.co.kr/article/mobile/2026/08/10/0018",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87394",
-  "https://www.dailian.co.kr/news/view/1676774/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1676774/?sc=Naver",
+  "http://www.fnnews.com/news/202608101452254934",
+  "https://www.m-i.kr/news/articleView.html?idxno=1400570",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3660605",
+  "https://www.g-enews.com/view.php?ud=202608100759491287fda4f5ab74_1",
+  "https://www.news1.kr/it-science/general-science/6253823",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=739640",
+  "https://www.dailian.co.kr/news/view/1676725/?sc=Naver",
+  "https://www.news1.kr/it-science/cc-newmedia/6254372"
  ],
  "seen_titles": [
-  "대형마트휴무일,이마트·롯데마트·홈플러스·코스트코‘추석선물예...",
-  "'AI투자비서'가미래먹거리…토스·카카오페이증권,투자대중화속도",
-  "[뉴스]잔홍,링코와여름이벤트,수영복까지총출동!'이환'1.3버전...",
-  "구글웨더넥스트,허리케인멜리사카테고리5닷새전80%확률로맞혔다",
-  "오픈AI,차세대AI개발일시중단…보안위험‘최고’등급가능성",
-  "오픈AI,챗GPT무료이용자에최신모델무제한개방",
-  "기업AI도입딜레마...폐쇄형도중국오픈모델도못믿는다",
-  "CJ제일제당-CJ온스타일-CJENM,AI플랫폼'FoodAI360'론칭...사회공헌...",
   "CJ제일제당-CJ온스타일'프론티어랩스'6기선발...유망중소기업발굴...",
   "[AI는지금]\"LLM키울데이터가없다\"…中AI,중국어부족에비상등",
   "CJ문화재단-한화그룹-교보생명,장학금수여식진행...'우주의조약돌...",
@@ -6001,7 +5993,15 @@
   "'돈버는AI'집중네카오…네이버는B2B·카카오는B2C",
   "'자본조달'밑그림공개한네이버,고객사확보'관건'",
   "AI가'세균잡는바이러스'만들었다...커지는생물안전논란",
-  "한국팀,데프콘국제해킹대회서2·3위석권…5년연속최상위권"
+  "한국팀,데프콘국제해킹대회서2·3위석권…5년연속최상위권",
+  "LGU+,통화음성원본데이터AI학습에활용...\"이용자동의전제\"",
+  "통신3사,하반기'AI데이터센터'로승부수…관건은전력·부지확보",
+  "'생태환경보전'…반딧불이서식지보호조례간담회연용인특례시의회",
+  "스페이스X롤러코스터…시총425조휘청하머스크'그라인드모드'복귀",
+  "우주항공청,AI·ICT기업우주산업진입발판만든다",
+  "\"14조AI인프라\"네이버vs\"카톡B2C\"카카오…AI전략살펴보니",
+  "대법\"개인정보가명처리,처리정지대상아냐\"…SKT최종승소",
+  "\"SKTADR,30%세일중\"…美모닝스타\"앤트로픽간접투자매력\""
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,13 @@
   [
    "2026-08-10T15:30:36.506081+09:00",
    "커지는 잡는 AI가 만들었다 생물안전 바이러스 논란 세균"
+  ],
+  [
+   "2026-08-10T15:32:17.408158+09:00",
+   "매력 세일중 앤트로픽 모닝스타 간접투자 ADR ~SKT"
   ]
  ],
- "last_run": "2026-08-10T15:30:58.959629+09:00",
+ "last_run": "2026-08-10T15:32:42.671023+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
