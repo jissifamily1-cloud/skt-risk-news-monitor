@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169511",
-  "https://www.sedaily.com/article/20077183",
-  "https://zdnet.co.kr/view/?no=20260808072641",
-  "https://www.kado.net/news/articleView.html?idxno=2065485",
-  "https://www.aitimes.com/news/articleView.html?idxno=213701",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3659254",
   "https://www.news1.kr/finance/blockchain-fintech/6250009",
   "https://www.g-enews.com/view.php?ud=202608080854479292bd56fbc3c_1",
   "http://www.fnnews.com/news/202608071439345561",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260810000426",
   "https://zdnet.co.kr/view/?no=20260808063232",
   "https://www.munhwa.com/article/11608444",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=739635"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=739635",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=87736",
+  "http://game.dailyesports.com/view.php?ud=20260810115822957043da15d9d2_26",
+  "https://news.jtbc.co.kr/article/NB12312534?influxDiv=NAVER",
+  "https://news.mtn.co.kr/news-detail/2026081009553437446",
+  "https://news.mtn.co.kr/news-detail/2026081011164855155",
+  "https://news.mtn.co.kr/news-detail/2026081010411981205"
  ],
  "seen_titles": [
-  "유럽통신사\"아동성착취물접속차단법적권한달라\"",
-  "엔비디아,루빈울트라HBM줄인다…비용절감카드꺼냈다",
-  "AI시대,미래학의고전앨빈토플러3부작을다시읽어야하는이유",
-  "다음주증시,美CPI·PPI등물가지표살펴야",
-  "SK하이닉스,용인반도체에54조베팅…대규모투자나선다",
-  "中키미K3,인터넷무단접속→정답확인…보안강화해야",
   "민주당당원커뮤니티해킹…1만7088명개인정보유출",
   "미국상무부,중국AI기업의해외엔비디아칩원격접근실태조사착...",
   "세종시의회행정수도완성특위본격가동…행정수도완성핵심현안점검",
@@ -6001,7 +5995,13 @@
   "해외직구위해제품늘자리콜4.7%증가…'권고'40%급증",
   "오픈AI,차세대AI'아스트라'개발늦춘다…사이버보안우려",
   "중앙아시아,데이터센터새거점으로뜬다",
-  "삼성·LG폭염속'1조격차'…히트펌프·공조하반기분수령"
+  "삼성·LG폭염속'1조격차'…히트펌프·공조하반기분수령",
+  "젠지,한화생명·KT연파…LCK선두권3팀16승6패동률",
+  "오픈AI,차세대AI'아스트라'출시연기…악용우려에보안통제강화",
+  "[지금이뉴스]피지컬AI'핵심경쟁력은'합성데이터'..사람처럼생각하...",
+  "KT,농협은행차세대AICC구축…고객상담대기20%줄여",
+  "정재욱kt밀리의서재대표,회사주식5000주추가매입…5200만원상당",
+  "지니언스\"北김수키,생성형AI해킹환경구축\""
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-08-10T12:04:16.951204+09:00",
    "경쟁 표시 변조 글라스 촬영 기준 보안 LED 차단이"
+  ],
+  [
+   "2026-08-10T12:08:16.272705+09:00",
+   "생성형 김수키 지니언스 환경 구축"
   ]
  ],
- "last_run": "2026-08-10T12:06:37.796087+09:00",
+ "last_run": "2026-08-10T12:08:41.285493+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
