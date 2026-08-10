@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260731513247?OutUrl=naver",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607301133024920107226",
-  "https://www.newsis.com/view/NISX20260731_0003731539",
-  "http://www.newstomato.com/ReadNews.aspx?no=1308859&inflow=N",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046572",
-  "https://biz.heraldcorp.com/article/10826753",
   "https://www.khan.co.kr/article/202607311201001",
   "http://www.thebigdata.co.kr/view.php?ud=2026073016270025180a47484cf8_23",
   "https://www.news1.kr/it-science/cc-newmedia/6243848",
@@ -2999,15 +2993,15 @@
   "https://biz.heraldcorp.com/article/10835796",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213649",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/10/2026081090103.html",
-  "https://www.newsis.com/view/NISX20260810_0003742571"
+  "https://www.newsis.com/view/NISX20260810_0003742571",
+  "https://biz.heraldcorp.com/article/10835808",
+  "https://www.segye.com/newsView/20260810509318?OutUrl=naver",
+  "http://www.inews24.com/view/1993275",
+  "https://www.viva100.com/article/20260810500167",
+  "https://www.tokenpost.kr/news/breaking/387329",
+  "https://www.ngonews.kr/news/articleView.html?idxno=235046"
  ],
  "seen_titles": [
-  "檢수사권박탈한與,8월국회서합병가액·AI개인정보법처리추진",
-  "개인정보위제재받은기업들잇단법정행…진행중소송만17건",
-  "[A주간서머리]경제·산업계\"정부·당국,단일종목레버리지규제강...",
-  "'해킹서버폐기'의혹LGU+…과징금·형사처벌목소리커진다",
-  "‘5000명정보유출’모두의창업,보안강화…관리체계전면개편",
-  "[더벨][PolicyRadar]KT,해킹과징금540억'소액결제피해결정적'",
   "'정보유출'모두의창업,보안강화…\"2기8월시작\"(종합)",
   "모두의창업플랫폼,API에비공개정보담겨암호키까지새나갔다",
   "[이슈+]\"쿠팡,정보유출피해자에게10만원씩줘라\"",
@@ -6001,7 +5995,13 @@
   "與,당원개인정보유출사과…“전산시스템전면점검”",
   "지니언스\"북한공격그룹'김수키',로컬LLM구축해공격진행\"",
   "최태원,노소영에약1조원지급하나…재상고기한임박",
-  "최태원회장,재산분할재상고로시간벌까…재원마련방안도관심"
+  "최태원회장,재산분할재상고로시간벌까…재원마련방안도관심",
+  "오늘이엔엠,74억규모옥외안테나공급계약",
+  "한병도,민주당원개인정보유출에“사과…외부수사에협조\"",
+  "中점유율0.1%삼성전자,'화웨이텃밭'서폴드8승부수",
+  "NH투자“네이버,단기수익성악화불가피…2027년AI팩토리결실기대...",
+  "빗썸,OFAC제재대상Shelbit·AbanTether·CryptoHomeDMCC입출금제한",
+  "\"길위에서다시만나는독립운동가\"…AI가1만8,776명의발자취잇는다"
  ],
  "recent_sigs": [
   [
@@ -6585,7 +6585,7 @@
    "방안도 재원 벌까 재산분할 재상고로 시간 관심 마련 회장"
   ]
  ],
- "last_run": "2026-08-10T11:12:41.469370+09:00",
+ "last_run": "2026-08-10T11:14:34.884433+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
