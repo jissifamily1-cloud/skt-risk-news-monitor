@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisajournal.com/news/articleView.html?idxno=382124",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16253",
-  "https://www.wikitree.co.kr/articles/1150123",
-  "https://www.peoplewatch.co.kr/article/view/ppw202608030005",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200492",
-  "https://economist.co.kr/article/view/ecn202608030015",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608030176&t=NNv",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03512886645543712",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190529",
   "https://news.bizwatch.co.kr/article/industry/2026/08/03/0014",
   "https://magazine.hankyung.com/business/article/202608031683b",
   "https://www.sisajournal.com/news/articleView.html?idxno=382071",
@@ -2999,18 +2990,18 @@
   "https://www.segye.com/newsView/20260810514101?OutUrl=naver",
   "https://www.news1.kr/it-science/security-hacking/6254310",
   "https://www.dailysecu.com/news/articleView.html?idxno=207981",
-  "http://www.newskr.kr/news/articleView.html?idxno=105492"
+  "http://www.newskr.kr/news/articleView.html?idxno=105492",
+  "https://www.mydaily.co.kr/page/view/2026081014362249930",
+  "https://www.imaeil.com/page/view/2026081009384959889",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7178256",
+  "https://www.dailian.co.kr/news/view/1676740/?sc=Naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3660534",
+  "http://www.iminju.net/news/articleView.html?idxno=167838",
+  "https://www.dailian.co.kr/news/view/1676664/?sc=Naver",
+  "https://www.asiatime.co.kr/article/20260810500280",
+  "https://www.ytn.co.kr/_ln/0102_202608101443293564"
  ],
  "seen_titles": [
-  "최태원,SK중간배당195억원받는다…'재산분할재원'주목",
-  "최태원,SK중간배당으로194억원수령⋯실수령액98억원추정",
-  "최태원회장,SK㈜중간배당에'세후100억'수령전망…배당확대여부...",
-  "SK실트론인수하며반도체날개단두산…최태원'재산분할열쇠'도품...",
-  "최태원,확실한'재산분할'카드SK실트론개인지분...처분시점은",
-  "“배당금1주당1500원”…SK중간배당확정,지급일과대상은?",
-  "실트론딜에담긴최태원·박정원의셈법은",
-  "SK,두산에실트론경영권2.3조양도…수익공유및자산효율화병행",
-  "결국SK실트론품은두산,최태원개인지분도품을까",
   "빅딜승자는두산…SK,8년안전장치통할까",
   "“배당금194억”최태원,SK중간배당실수령액은얼마",
   "[ChipWar]SK실트론,두산품으로…반도체수직계열화·리밸런싱'윈윈...",
@@ -6001,7 +5992,16 @@
   "‘2026자율주행모빌리티산업전’,25일코엑스서개막",
   "키미K3도통제환경벗어났다…고성능AI안전성'경고등'",
   "SK쉴더스EQST,데프콘34AICTF서5위기록",
-  "이재명\"호남반도체클러스터,구마모토급속도로\""
+  "이재명\"호남반도체클러스터,구마모토급속도로\"",
+  "최수종연극에뜬'9440억의주인공'노소영과이영애,대체어떤사이길...",
+  "[프로야구전망대]'폭염휴식기끝'삼성라이온즈,선두탈환시동걸...",
+  "[증권가톡톡]미래에셋·NH·대신증권,콘텐츠·이벤트·신규서비스출...",
+  "반가운6연전!폭염브레이크최대수혜팀은LG트윈스?",
+  "김해시,'치매관리주치의시범사업'추진…조은금강병원·김해복음병원...",
+  "[민주게임방]스마일게이트·넥슨·펄어비스",
+  "AI투자달라진'네카오'…카카오는왜'카톡'에집중하나",
+  "삼성·LG,HVAC기술경쟁가속…혹한견디고AI열식힌다",
+  "코스피상승6,300탈환시도...코스닥은6%급등"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,13 @@
   [
    "2026-08-10T14:46:18.138994+09:00",
    "이재명 반도체클러스터 속도로 호남 구마모토급"
+  ],
+  [
+   "2026-08-10T14:48:18.182214+09:00",
+   "집중하나 네카오 투자 카카오는 카톡 달라진"
   ]
  ],
- "last_run": "2026-08-10T14:46:39.284139+09:00",
+ "last_run": "2026-08-10T14:48:36.351441+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
