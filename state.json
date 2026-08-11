@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071538",
-  "https://www.bntnews.co.kr/article/view/bnt202608100006",
-  "https://www.newspim.com/news/view/20260810000008",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/10/2026081090009.html",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93496",
-  "https://www.sportsseoul.com/news/read/1627321",
-  "https://www.mydaily.co.kr/page/view/2026080918551990309",
-  "https://www.sportsseoul.com/news/read/1627322",
-  "https://www.mk.co.kr/article/12122409",
   "https://www.businesspost.co.kr/BP?command=article_view&num=443473",
   "https://www.xportsnews.com/article/2181894",
   "https://www.bloter.net/news/articleView.html?idxno=670373",
@@ -2999,16 +2990,18 @@
   "https://www.mt.co.kr/society/2026/08/11/2026081108102118694",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06976566645544368",
   "https://www.g-enews.com/view.php?ud=202608110854577440fbbec65dfb_1",
-  "https://www.segye.com/newsView/20260811505645?OutUrl=naver"
+  "https://www.segye.com/newsView/20260811505645?OutUrl=naver",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3031313",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2457882",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167754",
+  "https://www.newsis.com/view/NISX20260811_0003743822",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=224556",
+  "https://www.yna.co.kr/view/PYH20260811018800013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260811018700013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20260811019200013?input=1196m",
+  "https://zdnet.co.kr/view/?no=20260811090404"
  ],
  "seen_titles": [
-  "AI안전성테스트,AI보안새리스크로",
-  "주식이24시간돌아간다…올해4배불어난'토큰주식'의정체",
-  "토큰주식시장,7개월만에273%폭발적성장",
-  "비정상이표준이된시대…뉴노멀투자나침반세가지",
-  "미운우리새끼화사,덕자찜화제(미우새)",
-  "[미국특징주]엔비디아,AI전력인프라에4조원베팅…'전력확보'경...",
-  "최태원,노소영에9440억지급확정여부이달중순판가름",
   "[AI프리즘]생성형AI가바꾼수학의지형도…\"수학이란무엇인가\"근...",
   "“스마트폰다음은AI안경”…이통3사,‘레이밴메타’로차세대기...",
   "\"나때문에팀이이렇게된것같았다\"만루병살타이후2군행,독기품...",
@@ -6001,7 +5994,14 @@
   "권투글러브에둔기까지…2살아들살해부부,지적장애인폭행",
   "[미리보는이데일리신문]토스‘환급액찾기’막히나…업계초긴장",
   "엔비디아,월가와709조원결성…HBM수요주기길어진다",
-  "SK하이닉스손자회사‘솔리다임’중복상장?…“투자재원마련도구”"
+  "SK하이닉스손자회사‘솔리다임’중복상장?…“투자재원마련도구”",
+  "프로야구kt위즈힐리어드,7월월간MVP선정",
+  "\"기업사칭걱정끝\"···롯데百,백화점최초'RCS'메시징시스템도...",
+  "메타,고성능PC서구동하는오픈웨이트AI'뮤즈글리머'공개",
+  "\"문서작성부터데이터분석까지\"서울우유,사내전용AI도입",
+  "개인정보보호위송무팀류승균팀장·박병준변호사,법률신문사방문",
+  "KT,구글AI결합한초이스신규라인업추가",
+  "밸브,스팀하드웨어배송망해킹…유럽고객개인정보유출"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,17 @@
   [
    "2026-08-11T09:06:18.309847+09:00",
    "월가와 결성 수요 주기 HBM 길어진다 709조"
+  ],
+  [
+   "2026-08-11T09:08:19.588756+09:00",
+   "~KT 초이스 신규 구글 추가 결합한 라인업"
+  ],
+  [
+   "2026-08-11T09:08:19.588756+09:00",
+   "스팀 유럽 배송망 밸브 하드웨어 고객 개인정보 유출"
   ]
  ],
- "last_run": "2026-08-11T09:06:38.852169+09:00",
+ "last_run": "2026-08-11T09:08:42.271936+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
