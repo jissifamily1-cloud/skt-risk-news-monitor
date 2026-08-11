@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20077506",
-  "http://www.bizwnews.com/news/articleView.html?idxno=142821",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422977",
-  "https://www.news1.kr/local/moi/6253808",
-  "https://www.sedaily.com/article/20077496",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000055589",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=133179",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=703165",
-  "https://www.news1.kr/it-science/cc-newmedia/6253853",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=244786",
-  "https://zdnet.co.kr/view/?no=20260810090321",
   "https://www.hankyung.com/article/202608103643g",
   "https://www.mediapen.com/news/view/1115272",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/10/2026081000037.html",
@@ -2999,20 +2988,20 @@
   "http://www.metroseoul.co.kr/article/20260811500061",
   "https://www.itdaily.kr/news/articleView.html?idxno=240908",
   "http://www.techholic.co.kr/news/articleView.html?idxno=222431",
-  "https://biz.sbs.co.kr/article_hub/20000327890?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000327890?division=NAVER",
+  "https://zdnet.co.kr/view/?no=20260811100025",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16160369",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100101&t=NN",
+  "https://www.bloter.net/news/articleView.html?idxno=670564",
+  "https://www.public25.com/news/articleView.html?idxno=52472",
+  "http://www.tvdaily.co.kr/read.php3?aid=17864106451797291010",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608110579&t=NN",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=42942",
+  "http://www.4th.kr/news/articleView.html?idxno=2116107",
+  "https://biz.chosun.com/it-science/ict/2026/08/11/7BYLQLMLOJGABJMJQ2R5U3GVA4/",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=422999"
  ],
  "seen_titles": [
-  "[Tech&Now]삼성전자·NTT도코모,AI-RAN기술검증…통신품질저하...",
-  "삼성전자-NTT도코모,통신품질저하없는'AI-RAN'최적화기술검증",
-  "삼성전자·NTT도코모,AI가통신품질미리예측해자동최적화하는기...",
-  "삼성전자,日도코모와'AI자율무선망'상용화검증성공",
-  "취향맞춤여행뜬다…여행플랫폼지구놀이터,2030사로잡아",
-  "한경협,창업팀100개선발·투자연계지원나선다",
-  "[캐시워크종합]8월10일월요일오전10시현재출제되고있는문제들...",
-  "통제벗어난AI···차세대모델출시도멈췄다",
-  "서울시,청년50만명에'챗GPT·제미나이'이용권쏜다…\"56억투입\"",
-  "삼성HBM4수율잡았다…내년엔SK하이닉스추월전망",
-  "중국산반도체쓰는애플…한국반도체에불똥튈까",
   "수억원보안장비,제대로막고있습니까…78리서치랩,ISEC서보안검증...",
   "삼성-도코모,AI-RAN품질최적화검증···6G'AI네이티브'표준경쟁...",
   "\"AI상담사가고객응대\"…KT,NH농협은행AICC구축",
@@ -6001,7 +5990,18 @@
   "LG유플러스,'ISEC20206'서기업보안포트폴리오공개",
   "KT엠모바일,중·고용량요금제가격낮췄다…30GB도월1만원대",
   "KT,롯데백화점에업계첫차세대RCS메시징도입-스미싱·스팸예방",
-  "IPO앞둔오픈AI,직원구주10조원치매입"
+  "IPO앞둔오픈AI,직원구주10조원치매입",
+  "LGU+,'ISEC2026'서통합보안포트폴리오공개",
+  "보이넥스트도어,스포츠부터뷰티까지생활밀착브랜드와동행",
+  "삼성전자,일본이통사와AI-RAN기반통신최적화기술검증",
+  "삼성SDS,국가AI연구에B300푼다…GPUaaS대외사업확대",
+  "삼성전자,독일게임스컴2026참가…PC·콘솔·모바일아우르는'풀스택...",
+  "'정준영단톡방멤버'이종현,연예계퇴출후근황\"평범한삶어렵더...",
+  "'정준영단톡방'논란8년만의근황…이종현\"살아보려일배웠다\"",
+  "9440억원보다무거운'17.9%'…최태원재상고카드,돈아닌'SK지배력...",
+  "계정관리부터MDR까지..LG유플러스,기업보안사업확장",
+  "삼성SDS,국가AI연구에최신엔비디아블랙웰GPU공급",
+  "[삼전닉스주주환원-下]SK하이닉스추가주주환원,의지의문제일까"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,17 @@
   [
    "2026-08-11T10:12:18.989788+09:00",
    "칼리노프스키 합류 책임자 로봇 앤트로픽"
+  ],
+  [
+   "2026-08-11T10:16:16.344489+09:00",
+   "의지의 추가 SK하이닉스 문제일까 주주환원"
+  ],
+  [
+   "2026-08-11T10:16:16.344489+09:00",
+   "카드 9440억원보다 아닌 무거운 SK 재상고 지배력"
   ]
  ],
- "last_run": "2026-08-11T10:14:35.725723+09:00",
+ "last_run": "2026-08-11T10:16:43.598938+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
