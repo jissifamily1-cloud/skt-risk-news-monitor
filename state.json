@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=207968",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719737",
-  "https://news.tvchosun.com/site/data/html_dir/2026/08/10/2026081090082.html",
-  "https://zdnet.co.kr/view/?no=20260810102157",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=206259",
-  "https://www.news1.kr/finance/blockchain-fintech/6253955",
-  "https://www.cnbizm.com/news/articleView.html?idxno=310988",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=269736",
-  "https://www.itbiznews.com/news/articleView.html?idxno=221364",
   "http://www.yonhapnewstv.co.kr/news/AKR20260810103025brX",
   "https://www.tokenpost.kr/news/breaking/387315",
   "https://www.etoday.co.kr/news/view/2612693",
@@ -2999,18 +2990,18 @@
   "http://www.inews24.com/view/1993791",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444404",
   "https://www.thisisgame.com/articles/428740",
-  "https://www.cwn.kr/news/articleView.html?idxno=52805"
+  "https://www.cwn.kr/news/articleView.html?idxno=52805",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361549",
+  "https://www.thisisgame.com/articles/428743",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444405",
+  "https://www.ddaily.co.kr/page/view/2026081110304991289",
+  "https://www.gpkorea.com/news/articleView.html?idxno=145568",
+  "http://www.boannews.com/media/view.asp?idx=145107&kind=4",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444409",
+  "https://zdnet.co.kr/view/?no=20260811102913",
+  "http://www.segyebiz.com/newsView/20260811508920?OutUrl=naver"
  ],
  "seen_titles": [
-  "\"북한해킹조직김수키,AI활용해사이버위협고도화\"",
-  "\"K-콘텐츠싱가포르향한다\"…ATF참가사공개모집",
-  "하나은행,FDS고도화로신종투자사기'KReSIM'사전예방",
-  "독립투사들이딛고간길,후손이걷는다…SKT·독립기념관‘광복81주...",
-  "[유통갤러리]신원,AX로글로벌공급망경쟁력강화外",
-  "금융보안원소속화이트해커,데프콘34CTF서2·3·4위차지",
-  "[현장]젠슨황다녀간지두달인데…홍대BBQ여전히'문전성시'",
-  "폭염으로멈췄던프로야구,11일재개…실전감각·아시안게임이변수",
-  "헐값매각·급락·급등...SaaS시장'사스포칼립스'혼란지속",
   "[완성차Pick]현대차그룹,편리한주차로봇실증…코엑스,'2026AME'개최",
   "비트코인,6.7만달러저항선못뚫고숨고르기…6.5만달러선[코인브리...",
   "SK텔레콤,장기고객초청'테이블데이'서울행사성료",
@@ -6001,7 +5992,16 @@
   "[컨콜]NHN클라우드\"GPU사업,해외수요증가…일본거점확보\"",
   "NHN기술사업성장에영업이익579억'역대최대',전년대비164%증가",
   "AGONbyAOC,트리플모드지원신규게이밍모니터공개",
-  "'풀스택게이밍혁신'...삼성전자,게임스컴2026서신제품대거공개"
+  "'풀스택게이밍혁신'...삼성전자,게임스컴2026서신제품대거공개",
+  "K바이오,美직판시대정면돌파",
+  "블로믹스,신작웹MMORPG'에오스레드리버스'대만·태국·필리핀정...",
+  "삼성SDS,'국가AI연구용'GPU컴퓨팅서비스공급나서",
+  "NHN클라우드,양평B200타고매출85%↑…GPU사업본궤도",
+  "삼성전자,독일'게임스컴2026'참가…PC·콘솔·모바일게이밍경험공...",
+  "이란의美수자원망공격심화...자원봉사보안전문가정수장보안방...",
+  "LG유플러스보안컨퍼런스서통합보안포트폴리오공개,기업보안시장...",
+  "KT,'구글AI+400GB클라우드'요금제4종선봬",
+  "SK쉴더스EQST,세계해킹·보안컨퍼런스CTF5위…AI·보안역량입증"
  ],
  "recent_sigs": [
   [
@@ -6565,7 +6565,7 @@
    "메타 덕에 요구에는 일해라 벌었으니 CTO 발끈 휴가 시간"
   ]
  ],
- "last_run": "2026-08-11T10:34:38.106237+09:00",
+ "last_run": "2026-08-11T10:36:33.043937+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
