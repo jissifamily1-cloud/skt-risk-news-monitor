@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589186103399",
-  "https://www.news1.kr/entertain/celebrity-topic/6254246",
-  "https://news.bizwatch.co.kr/article/mobile/2026/08/10/0010",
-  "http://www.press9.kr/news/articleView.html?idxno=80838",
-  "https://www.upkoreanews.kr/news/articleView.html?idxno=99676",
-  "https://biz.sbs.co.kr/article_hub/20000327688?division=NAVER",
   "http://www.srtimes.kr/news/articleView.html?idxno=209532",
   "https://www.smartbizn.com/news/articleView.html?idxno=150809",
   "https://www.itdaily.kr/news/articleView.html?idxno=240890",
@@ -2999,15 +2993,15 @@
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34538",
   "https://www.mk.co.kr/article/12123965",
   "https://www.socialvalue.kr/news/view/1065586763694650",
-  "https://www.huffingtonpost.kr/article/259448"
+  "https://www.huffingtonpost.kr/article/259448",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=53279",
+  "https://www.etnews.com/20260811000211",
+  "https://www.aitimes.com/news/articleView.html?idxno=213785",
+  "https://www.etnews.com/20260811000210",
+  "https://www.viva100.com/article/20260811500725",
+  "https://www.aitimes.com/news/articleView.html?idxno=213740"
  ],
  "seen_titles": [
-  "KT밀리의서재대표,자사주5천주매입…취임후두번째",
-  "신원,AI전담조직신설·챗GPT도입…AX가속화",
-  "NH투자증권,오픈API'PLUG'출시…개인투자전략구현지원",
-  "[談談한만남]오병근앤커코리아지사장\"韓시장잠재력커…인지도...",
-  "北해커,AI까지전면에…피싱넘어공격자동화노린다",
-  "SK쉴더스EQST,데프콘34참가성료",
   "'9440억'재산분할판결뒤노소영깜짝행보…최수종공연장찾았다",
   "금융권AX속도내는KT…NH농협은행차세대AICC구축",
   "대신증권,KT경영진콥데이주관…AI·AX성장전략공유",
@@ -6001,17 +5995,15 @@
   "9440억재산분할…'특유재산'과혼인기여의경계",
   "LG유플러스,보안시장공략…‘알파키·SASE’공개",
   "KT,구글제미나이결합‘초이스요금제’4종출시…\"통신과AI결합\"",
-  "삼성SDS국내학계와연구기관에AI연구용GPU자원지원한다,엔비디아..."
+  "삼성SDS국내학계와연구기관에AI연구용GPU자원지원한다,엔비디아...",
+  "\"투자전략직접만든다\"NH투자증권,오픈API로투자시장새판",
+  "모티프,MS마켓플레이스에서자체LLM'모티프-2'제공",
+  "저커버그,오픈소스복귀선언하며폐쇄형정조준...\"AI증류도허용해...",
+  "NHN,2분기매출·영업익역대최대...게임·AIGPU성장견인",
+  "NHN,AIGPU사업키운다⋯30MW증설·해외공략(종합)",
+  "\"이제는바이브해킹이온다\"...아카마이,기업AI사용리스크보고서..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-11T07:48:22.984135+09:00",
-   "710조원 논란 순환금융 고조 월가와 펀딩동맹"
-  ],
-  [
-   "2026-08-11T07:50:28.118794+09:00",
-   "초지능 개방형 기업 특정 저커버그 메타 독점"
-  ],
   [
    "2026-08-11T07:58:16.048762+09:00",
    "발목 자금조달 잡아 인텔 반도체"
@@ -6569,7 +6561,7 @@
    "경계 재산분할 혼인 기여의 9440억 특유재산"
   ]
  ],
- "last_run": "2026-08-11T13:48:38.714271+09:00",
+ "last_run": "2026-08-11T13:50:44.331312+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
