@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202608100851003?pt=nv",
-  "https://biz.heraldcorp.com/article/10835415",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1394067",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271391",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265494",
-  "https://www.yna.co.kr/view/AKR20260810024000004?input=1195m",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209496",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=02230406645546008",
-  "https://www.itworld.co.kr/article/4207005/ai-에이전트-킬-스위치-선택-아닌-필수.html",
-  "https://www.news1.kr/industry/distribution/6253743",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7178151",
   "https://www.newsis.com/view/NISX20260810_0003742212",
   "https://zdnet.co.kr/view/?no=20260810085439",
   "http://www.newsdream.kr/news/articleView.html?idxno=115924",
@@ -2999,20 +2988,20 @@
   "https://biz.chosun.com/it-science/ict/2026/08/11/5K34JOS4JNHY5PYD4GLF2SKLMY/",
   "https://www.ddaily.co.kr/page/view/2026081109260646616",
   "https://www.widedaily.com/news/articleView.html?idxno=299155",
-  "https://www.newsis.com/view/NISX20260811_0003743845"
+  "https://www.newsis.com/view/NISX20260811_0003743845",
+  "http://www.bizwnews.com/news/articleView.html?idxno=142662",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167776",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=849944",
+  "https://www.sedaily.com/article/20077941",
+  "https://www.news1.kr/world/international-economy/6255058",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04385366645546336",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405387",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3133221",
+  "https://www.ddaily.co.kr/page/view/2026081109323430352",
+  "https://news.bizwatch.co.kr/article/mobile/2026/08/11/0006",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04378806645546336"
  ],
  "seen_titles": [
-  "[포토]광화문스퀘어,광복절기념미디어아트",
-  "제6회전국청소년스트리트댄스배틀'무브업'성황리에개최",
-  "용인시수지구보건소,알레르기예방우수사례로주목…취약계층지원도",
-  "SKT,광복81주년기념캠페인'18,776명의독립운동가기억하길'전개",
-  "엔비디아,美랜시움에30억달러투자해AI전력망선점",
-  "젠슨황‘최애’화사,정작누군지몰랐다…“경제무지해”(미우새...",
-  "선열이딛고간길,후손이걷는다…SKT·독립기념관,광복81주년걷기...",
-  "지니언스\"北김수키,생성형AI공격활용정황확인\"",
-  "SKT\"독립운동가1만8776명을기억합니다\"…광복81주년기념캠페인전...",
-  "SKT,AI로되살린독립의길…고객과함께뛰고나누는캠페인확대",
-  "종로구,11∼17일광화문스퀘어서'광복절기념영상'내보낸다",
   "하나은행,신종투자사기1450건사전차단…FDS고도화속도",
   "\"글로벌공급망경쟁력강화\"신원,AX가속",
   "AI에이전트킬스위치,선택아닌필수",
@@ -6001,7 +5990,18 @@
   "KT,9만원대요금제에‘구글AI’담았다",
   "KT엠모바일,34종요금제인하…\"30GB도1만원대\"",
   "플랫폼은웃고통신사는낸다…디지털공적부담'엇박자'",
-  "엔비디아,월가손잡고AI인프라에709조원조달…'금융동맹'본격화"
+  "엔비디아,월가손잡고AI인프라에709조원조달…'금융동맹'본격화",
+  "이홍근경기도의회도시환경위원장,방송국침수재발방지촉구",
+  "모티프,자체LLM'모티프-2-12.7B'MS마켓플레이스서제공",
+  "[특징주]NHN,분기'역대최대실적'에16%↑…AIGPU성장'본격화'",
+  "네이버D2SF,‘엔닷라이트’후속투자…“피지컬AI협업모색”",
+  "\"인텔,유상증자150억→200억불확대추진…청약1000억불몰려\"",
+  "LG유플러스,ISEC2026서‘통합보안포트폴리오’공개...보안경쟁력...",
+  "LG유플러스,ISEC2026서기업대상통합보안서비스공개",
+  "LG유플러스,ISEC2026서'통합보안포트폴리오'공개…알파키·U+SASE·클...",
+  "KT,구글AI결합한초이스요금제4종출시…9만원대부터",
+  "LG유플러스,기업보안시장공략",
+  "아우토크립트,데프콘자동차해킹부문첫우승…83개팀중1위"
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,17 @@
   [
    "2026-08-11T09:38:20.854649+09:00",
    "3년간의 장악에도 전쟁 시장서 압승 반격카드 오픈소스"
+  ],
+  [
+   "2026-08-11T09:40:29.637734+09:00",
+   "~LGU 기업 보안시장 LG유플러스 공략"
+  ],
+  [
+   "2026-08-11T09:40:29.637734+09:00",
+   "우승 부문 아우토크립트 83개팀 자동차 1위 데프콘"
   ]
  ],
- "last_run": "2026-08-11T09:38:39.825915+09:00",
+ "last_run": "2026-08-11T09:40:50.003037+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
