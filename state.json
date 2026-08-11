@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://byline.network/?p=9004111222614589",
-  "https://slownews.kr/164590",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01951606645546008",
-  "http://san.chosun.com/news/articleView.html?idxno=26044",
-  "https://www.sportsseoul.com/news/read/1627496",
-  "https://www.mk.co.kr/article/12121207",
-  "http://www.newsprime.co.kr/news/article.html?no=743182",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608051506584200102262",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207965",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599007920953",
-  "https://kpenews.com/View.aspx?No=4179864",
   "https://www.womennews.co.kr/news/articleView.html?idxno=280822",
   "https://www.huffingtonpost.kr/article/259346",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01971286645546008",
@@ -2999,20 +2988,20 @@
   "https://www.catchnews.kr/news/articleView.html?idxno=127177",
   "https://www.goodkyung.com/news/articleView.html?idxno=290142",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83044",
-  "http://www.paxetv.com/news/articleView.html?idxno=279111"
+  "http://www.paxetv.com/news/articleView.html?idxno=279111",
+  "https://www.sportsworldi.com/newsView/20260811506445",
+  "https://www.medipana.com/news/articleView.html?idxno=415778",
+  "https://sateconomy.co.kr/news/view/1065571750271079",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=169619",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=206319",
+  "https://www.dt.co.kr/article/12077569",
+  "https://www.koit.co.kr/news/articleView.html?idxno=208412",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1394565",
+  "http://www.thebigdata.co.kr/view.php?ud=202608110747238927d0a8833aad_23",
+  "https://www.viva100.com/article/20260811500169",
+  "https://kpenews.com/View.aspx?No=4181609"
  ],
  "seen_titles": [
-  "리얼월드,국내로보틱스·시뮬레이션3사와업무협약",
-  "챗GPT,누구나\"무료\"…최신모델'루나'무료개방",
-  "[뉴욕증시]7월고용지표부진…물가지수에쏠린눈",
-  "파키스탄보안군,대테러작전으로남서부의무장세력소탕전..15명살해",
-  "언급량70%폭락·동조화파괴...美증시,'매그니피센트7'주도주시대...",
-  "네이버가잘해온것,잘하려는것,잘하고싶은것",
-  "“버스에서살면안되나”논란에보유세강화까지전면재검토:슬로...",
-  "삼성Z8예약30%↑…한국은‘여권형’,인도는‘울트라’강세[모닝...",
-  "코리아둘레길4,500km첫완주자는78세퇴직공무원[산지컬100]",
-  "‘우취’적었는데→‘폭취’가더많아졌다…9월AG도있어,순위싸움...",
-  "美하원\"韓정통망법중대위협\"우려서한",
   "네이버,'엔비디아최신GPU탑재'로AI팩토리시장주도…\"매력적인밸...",
   "[더벨][thebellnote]AIDC는구원투수가될수있을까",
   "[데프콘34]AI가해커가되고자동차·선박·공장이공격표면으로…빌...",
@@ -6001,7 +5990,18 @@
   "\"국가AI연구든든한파트너로\"삼성SDS,최신GPU지원나서",
   "[뉴욕증시포커스]호르무즈협상난항에반도체주까지'휘청'…주요3대...",
   "LG유플러스,'ISEC2026'서통신사네이티브보안포트폴리오공개",
-  "삼성SDS,국가AI연구용GPU서비스개시…엔비디아H100·최신B300제공"
+  "삼성SDS,국가AI연구용GPU서비스개시…엔비디아H100·최신B300제공",
+  "FNC‘블러썸음악제’,경쟁률17.8대1기록…역대최고치",
+  "AI신약개발,알고리즘넘어'컴퓨팅전쟁'…빅파마슈퍼컴퓨터경쟁",
+  "뉴욕증시,미·이란협상의구심에약보합…나스닥0.32%↓",
+  "亞장초반...호주증시'상승',코스피&韓반도체주'뚝'",
+  "삼성SDS,국가AI연구용GPU공급사선정…B300기반컴퓨팅자원제공",
+  "코스피,美약세에6200선하락출발…삼전·SK하닉↓",
+  "삼성SDS,국가AI연구용GPU서비스시작",
+  "네이버D2SF,데이터인프라기업'엔닷라이트'에후속투자",
+  "SK텔레콤,통신상장기업브랜드평판8월빅데이터1위...KT·LG유플러스...",
+  "LG유플러스,‘ISEC2026’참가⋯“‘통합보안포트폴리오’공개”",
+  "구글AI품은KT..초이스요금제신규라인업추가"
  ],
  "recent_sigs": [
   [
@@ -6417,7 +6417,7 @@
    "론칭 훔친수건 KT스튜디오지니 신화부대 귀환 신병 짬쌩 ~KT"
   ]
  ],
- "last_run": "2026-08-11T09:16:37.629836+09:00",
+ "last_run": "2026-08-11T09:18:36.470460+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
