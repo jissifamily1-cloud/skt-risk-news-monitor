@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026073111504362142",
-  "https://www.dailian.co.kr/news/view/1673131/?sc=Naver",
-  "https://www.m-i.kr/news/articleView.html?idxno=1397558",
-  "http://www.seouleconews.com/news/articleView.html?idxno=92760",
-  "https://www.joongang.co.kr/article/25449797",
   "https://news.tvchosun.com/site/data/html_dir/2026/07/31/2026073190119.html",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046541",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=80236",
@@ -2999,14 +2994,14 @@
   "http://www.osen.co.kr/article/G1112855278",
   "http://www.osen.co.kr/article/G1112855276",
   "http://www.osen.co.kr/article/G1112855277",
-  "https://www.dailian.co.kr/news/view/1677326/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1677326/?sc=Naver",
+  "https://www.mt.co.kr/politics/2026/08/11/2026081119182267761",
+  "http://www.newstomato.com/ReadNews.aspx?no=1309789&inflow=N",
+  "https://www.newspim.com/news/view/20260811001101",
+  "https://www.dailian.co.kr/news/view/1677327/?sc=Naver",
+  "https://www.seoul.co.kr/news/economy/2026/08/11/20260811500291?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "정부,15년만에알뜰폰활성화...'상생구조'관건",
-  "과기정통부,알뜰폰2.0카드꺼냈다···풀MVNO로통신3사독과점깬다",
-  "이통3사2만원대요금제에흔들린알뜰폰…지원보다구조조정에무게...",
-  "과기부,'알뜰폰2.0'추진…이통3사안심옵션개방",
-  "알뜰폰'대포폰온상'오명벗는다",
   "정부,'알뜰폰2.0'추진…데이터다써도계속쓴다",
   "알뜰폰에도‘데이터무제한’저가요금제공급",
   "\"알뜰폰인터넷안끊기게\"활성화방안에\"시장진흥기대\"(종합)",
@@ -6001,7 +5996,12 @@
   "[사진]김현수,솔로홈런하이파이브",
   "[사진]김현수,홈런넘어간다",
   "[사진]라일리,이건실투인거야!",
-  "모티프테크놀로지스,자체LLM‘Motif2’MS마켓플레이스출시"
+  "모티프테크놀로지스,자체LLM‘Motif2’MS마켓플레이스출시",
+  "\"AI가바꾸는세계질서,韓생존전략은\"…KIDIS,'SFS2026'개최",
+  "\"갤Z폴드8256GB로변경하면지원금추가\"",
+  "[코인시황]비트코인6만4000달러로밀렸지만…고래들은6개월만에최...",
+  "LG유플러스,‘ISEC2026’서통합보안포트폴리오공개",
+  "‘스크레이핑’제한에금융권부글…개보위“사전협의신청하면한시..."
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,13 @@
   [
    "2026-08-11T20:00:43.267790+09:00",
    "인하 30GB ~KT KT엠모바일 요금제 1만원대로"
+  ],
+  [
+   "2026-08-11T20:06:19.049878+09:00",
+   "신청하면 금융권 제한에 사전협의 한시 스크레이핑 부글"
   ]
  ],
- "last_run": "2026-08-11T20:04:35.957033+09:00",
+ "last_run": "2026-08-11T20:06:37.527430+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
