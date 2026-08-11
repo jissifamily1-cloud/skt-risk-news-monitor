@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102271",
-  "http://www.paxetv.com/news/articleView.html?idxno=278991",
-  "https://www.xportsnews.com/article/2181993",
-  "http://www.sisacast.kr/news/articleView.html?idxno=98646",
-  "https://zdnet.co.kr/view/?no=20260810101454",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167702",
   "http://www.samdailbo.com/news/articleView.html?idxno=268782",
   "https://biz.heraldcorp.com/article/10835941",
   "https://zdnet.co.kr/view/?no=20260810111739",
@@ -2999,15 +2993,15 @@
   "https://www.aitimes.kr/news/articleView.html?idxno=41391",
   "https://www.businessplus.kr/news/articleView.html?idxno=115309",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855859",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213683"
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213683",
+  "http://www.ggmedinews.com/news/articleView.html?idxno=6732",
+  "https://www.itworld.co.kr/article/4207710/오픈텍스트-9월-개인정보-보호법-개정-대응콘텐츠.html",
+  "https://www.radiokorea.com/news/article.php?uid=501129",
+  "https://biz.heraldcorp.com/article/10837288",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83058",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=269954"
  ],
  "seen_titles": [
-  "아스트로스·월러스,AI트레이딩위한거래데이터표준'WVTS'공개",
-  "韓화이트해커,세계해킹대회데프콘서2·3위",
-  "KT,NH농협은행차세대인공지능컨택센터구축완료",
-  "빗썸,셸빗·아반테더등美제재대상3곳과입출금즉시차단",
-  "KT,NH농협은행AI상담고도화…상담사없이처리하는업무45개→180개",
-  "잇단AI해킹사고…공통원인은'같은테스트환경'",
   "[파워인터뷰]HLB제넥스김도연대표\"27~28년부터매출과수익본격확...",
   "SOOP,AI채팅자동번역도입…자막이어언어장벽없는소통확대",
   "삼성전자,NTT도코모와AI-RAN기반사용자맞춤형통신품질최적화검...",
@@ -6001,7 +5995,13 @@
   "삼성SDS,국가AI연구용GPU컴퓨팅서비스개시...국내학·연연구자에...",
   "\"피지컬AI데이터협업\"…네이버D2SF,스타트업'엔닷라이트'에후속...",
   "'델테크놀로지스포럼2026'8월코엑스개최",
-  "오픈AI,고급취약점연구특화'GPT-5.6사이버'출시"
+  "오픈AI,고급취약점연구특화'GPT-5.6사이버'출시",
+  "디지털혁신성과바탕으로…병원들,AI전환(AX)본격화",
+  "오픈텍스트,9월개인정보보호법개정대응…콘텐츠거버넌스로규제...",
+  "기예르모델토로,아론소킨,AFI명예박사학위받아",
+  "“美산메모리는우리뿐”…삼성·SK견제나선마이크론",
+  "네이버D2SF,'피지컬AI데이터병목뚫는다'…엔닷라이트에세번째투...",
+  "'알뜰폰1위'KT엠모바일,LTE·5G34종요금인하…30GB도1만원대"
  ],
  "recent_sigs": [
   [
@@ -6681,7 +6681,7 @@
    "전면 최신 모델도 개방 무료"
   ]
  ],
- "last_run": "2026-08-11T11:32:38.658157+09:00",
+ "last_run": "2026-08-11T11:34:44.209133+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
