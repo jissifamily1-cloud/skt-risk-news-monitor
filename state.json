@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10835875",
-  "https://www.cwn.kr/news/articleView.html?idxno=52706",
-  "https://biz.heraldcorp.com/article/10835877",
-  "https://view.asiae.co.kr/article/2026081011252625841",
-  "https://biz.heraldcorp.com/article/10835879",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90461",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=320615",
   "https://www.gukjenews.com/news/articleView.html?idxno=3660233",
   "https://www.e-science.co.kr/news/articleView.html?idxno=133198",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53515",
@@ -2999,16 +2992,16 @@
   "https://www.tokenpost.kr/news/cryptocurrency/388139",
   "https://news.mtn.co.kr/news-detail/2026080722275419362",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=269904",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691904"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691904",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100111.html",
+  "https://biz.heraldcorp.com/article/10837231",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100140.html",
+  "https://www.techm.kr/news/articleView.html?idxno=154179",
+  "https://www.cstimes.com/news/articleView.html?idxno=716386",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691920",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100107.html"
  ],
  "seen_titles": [
-  "엘리스그룹이AI풀스택을선언한이유",
-  "민주,'블루웨이브'개인정보유출사과...\"수사적극협조\"",
-  "LG유플러스,장기고객초청'레고랜드워터풀파티'성황리마무리",
-  "대신증권,KTCEO첫기관IR주관…AI성장전략공개",
-  "대법\"가명처리,개인정보침해아냐\"…SKT5년만에최종승소",
-  "중국‘초대형AI’개발착수…거세지는AI공습",
-  "갤럭시Z8사전판매30%급증...폴드8앞세워글로벌흥행시동",
   "KT,NH농협은행차세대‘AI고객센터’구축",
   "오늘이엔엠,KT와74억이동통신용기지국안테나계약",
   "LGU+,장기고객3000명‘레고랜드워터풀파티’",
@@ -6001,7 +5994,14 @@
   "엑스스톡스,하이퍼리퀴드에주식토큰5종상장",
   "구글공동창업자'브린'경영일선복귀…제미나이수익화집중",
   "LG유플러스,ISEC2026서통합보안포트폴리오선보였다",
-  "오픈AI,美심리학회와협력…'위기대응AI'고칠수있을까"
+  "오픈AI,美심리학회와협력…'위기대응AI'고칠수있을까",
+  "[단독]LGU+,기업전용AI통화앱출시추진…익시세번째브랜드‘익...",
+  "일벌처럼식품나르는바퀴달린봇…영하25도에도‘척척’",
+  "삼성SDS,국가AI연구용GPU서비스개시…최신‘블랙웰’제공",
+  "LG유플러스,보안시장공략...'알파키·유플러스SASE'선봬",
+  "KT,롯데백화점에RCS도입…쿠폰·멤버십안내고도화",
+  "'중대위험'코앞까지간아스트라…오픈AI,결국개발일부중단",
+  "'공짜'자율주행AI푼엔비디아…완성차업계'GPU종속'딜레마에속..."
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,17 @@
   [
    "2026-08-11T11:20:28.809726+09:00",
    "심리학회와 협력 고칠 대응 위기 있을까"
+  ],
+  [
+   "2026-08-11T11:22:17.772085+09:00",
+   "아스트라 위험 일부 중대 중단 결국 개발 코앞까지"
+  ],
+  [
+   "2026-08-11T11:22:17.772085+09:00",
+   "업계 종속 공짜 딜레마에 자율주행 GPU 완성차"
   ]
  ],
- "last_run": "2026-08-11T11:20:53.186083+09:00",
+ "last_run": "2026-08-11T11:22:44.870165+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
