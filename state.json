@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5049584",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608100826429020338",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3659955",
-  "https://www.newsis.com/view/NISX20260810_0003742179",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209494",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87722",
-  "http://www.newskr.kr/news/articleView.html?idxno=105468",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3659910",
   "https://www.mt.co.kr/stock/2026/08/10/2026081008042094569",
   "https://www.etoday.co.kr/news/view/2612579",
   "https://www.gukjenews.com/news/articleView.html?idxno=3659920",
@@ -2999,17 +2991,17 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429509",
   "https://www.smartbizn.com/news/articleView.html?idxno=150884",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=855899",
-  "https://www.etnews.com/20260811000049"
+  "https://www.etnews.com/20260811000049",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271474",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=314999",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04355846645546336",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050030",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/11/2026081100064.html",
+  "https://www.tokenpost.kr/news/market/388039",
+  "https://www.slist.kr/news/articleView.html?idxno=758016",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316297"
  ],
  "seen_titles": [
-  "[분석]미국이막아도따라왔다…中반도체굴기,삼성·SK의진짜위협...",
-  "北해킹조직'김수키',로컬AI구축해공격자동화시도",
-  "[김민정기자의'코스뽀']지엔씨에너지AI붐에비상발전기호황,친환...",
-  "부산특성화대부산외대·한국해양대·동아대,서울서공동입시설명회...",
-  "[AI프리즘]북한김수키,로컬LLM까지구축…AI로공격자동화",
-  "SKT,AI로'독립운동가'발자취이어…'기억하길'캠페인진행",
-  "‘2026자율주행모빌리티산업전’25일코엑스개막…엔비디아ㆍ현대차...",
-  "[포토]울산시,생명을이어주는'사랑의헌혈'행사",
   "매드포갈릭,최대60%할인'프리미엄다이닝패키지'3종출시",
   "SKT,AI로독립운동가발자취분석…전국10개'기억하길'조성",
   "LG유플러스,장기고객3000명초청'레고랜드워터풀파티'...체험형혜...",
@@ -6001,7 +5993,15 @@
   "[뉴욕마켓브리핑](11일)",
   "삼성SDS,국가AI컴퓨팅인프라사업확대",
   "KT엠모바일,알뜰폰첫QoS요금제출시",
-  "KT엠모바일,알뜰폰요금제34종인하…30GB도1만원대"
+  "KT엠모바일,알뜰폰요금제34종인하…30GB도1만원대",
+  "롯데백화점문자,'공식로고'확인후여세요…사칭·스미싱차단강화",
+  "토스인슈,홈페이지리뉴얼...모바일·PC도상담신청가능",
+  "네이버D2SF,피지컬AI데이터스타트업엔닷라이트에세번째투자",
+  "'게임스컴2026'삼성전자,PC·콘솔·모바일'풀스택게이밍'역량선봬",
+  "코스피,호르무즈협상신뢰약화에1%대하락세…반도체투톱도약세",
+  "SK하이닉스1.83%하락,삼성전자도약세전환",
+  "LG유플러스,ISEC2026서통합보안포트폴리오공개",
+  "LG유플러스,기업보안시장공략…통신·클라우드·보안한데묶는다"
  ],
  "recent_sigs": [
   [
@@ -6473,7 +6473,7 @@
    "사칭 구축 ~KT 막고 신뢰 문자서비스 높인다 전용 롯데백화점에 기업"
   ]
  ],
- "last_run": "2026-08-11T09:34:39.263634+09:00",
+ "last_run": "2026-08-11T09:36:38.927199+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
