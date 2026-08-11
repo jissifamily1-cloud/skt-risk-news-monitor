@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260811000065",
-  "https://www.mk.co.kr/article/12123655",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000055847",
   "https://www.hankyung.com/article/202608115538H",
   "http://www.osen.co.kr/article/G1112854867",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476109",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000328106?division=NAVER",
   "https://www.yna.co.kr/view/AKR20260811150100017?input=1195m",
   "https://daily.hankooki.com/news/articleView.html?idxno=1394869",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=07360326645546336"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=07360326645546336",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190758",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190826",
+  "http://www.inews24.com/view/1994094"
  ],
  "seen_titles": [
-  "엔비디아·월가,5000억달러AI금융플랫폼구축",
-  "델,이달'DTF2026'개최…비즈니스성과창출AI전략제시",
-  "뉴욕증시,호르무즈협상의구심에하락...유가5%급등",
   "삼성SDS국가AI연구용GPU서비스개시B300블랙웰울트라까지공급...",
   "칩회사에서자산시장으로…엔비디아가5000억달러모으는이유",
   "\"엔비디아,이젠금융회사?\"하락마감뒤커지는'700조'의구심",
@@ -6001,7 +5998,10 @@
   "[외신헤드라인]엔비디아,새'오픈소스'AI모델공개",
   "빅테크국내AI시장질주…챗GPT·제미나이,이용경험률1·2위",
   "온라인시장10%커졌는데…중위권이커머스,외형보다'내실'",
-  "엔비디아,5000억달러AI인프라금융파트너십체결에역할확대'주목..."
+  "엔비디아,5000억달러AI인프라금융파트너십체결에역할확대'주목...",
+  "[인공지능줌인]스스로실험실밖으로탈출한AI…진짜위협은인간",
+  "[AI프리즘]초지능시대메타의오픈소스와'개인정보보호'선언한저...",
+  "\"상장앞두고또떠났다\"⋯오픈AI고위임원'줄퇴사',IPO영향촉각"
  ],
  "recent_sigs": [
   [
@@ -6133,7 +6133,7 @@
    "금융 주목 확대 인프라 파트너십 5000억 체결에 역할 달러"
   ]
  ],
- "last_run": "2026-08-12T06:34:38.020994+09:00",
+ "last_run": "2026-08-12T06:36:41.421242+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
