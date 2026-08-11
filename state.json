@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10836229",
-  "https://www.busan.com/view/busan/view.php?code=2026081015140411481",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3660588",
-  "https://www.wikitree.co.kr/articles/1151505",
-  "https://www.m-i.kr/news/articleView.html?idxno=1400654",
-  "https://www.donga.com/news/It/article/all/20260810/134449881/2",
-  "https://hbnpress.com/news/view/1065593795938142",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84235",
-  "https://www.aitimes.com/news/articleView.html?idxno=213754",
-  "https://www.catchnews.kr/news/articleView.html?idxno=127152",
   "https://www.tokenpost.kr/news/breaking/387427",
   "http://www.babytimes.co.kr/news/articleView.html?idxno=73800",
   "http://www.thebigdata.co.kr/view.php?ud=2026081015135318770ecbf9426b_23",
@@ -2999,19 +2989,19 @@
   "https://www.e-science.co.kr/news/articleView.html?idxno=133326",
   "https://www.ajunews.com/view/20260811144808746",
   "https://biz.chosun.com/it-science/ict/2026/08/11/GGWY6HGQK5H7TJZNLLRGNCVNR4/",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608110704&t=NNv"
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608110704&t=NNv",
+  "https://www.hankyung.com/article/202608104527H",
+  "https://www.ajunews.com/view/20260811144300737",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691977",
+  "https://www.newsis.com/view/NISX20260811_0003744442",
+  "https://www.dailysecu.com/news/articleView.html?idxno=207997",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=37417",
+  "https://www.fntimes.com/html/view.php?ud=202608111446479214094b7542a8_18",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80453",
+  "https://www.aitimes.com/news/articleView.html?idxno=213791",
+  "https://www.newspim.com/news/view/20260811000767"
  ],
  "seen_titles": [
-  "'최태원과세기의이혼'노소영,최수종연극백스테이지서포착",
-  "[기획]'해킹제재'에영업막힌롯데카드…돌파구는",
-  "프로농구2026-2027시즌일정확정⋯10월3일KCC-LG개막전",
-  "종로구,광화문스퀘어서‘광복절기념미디어아트’[지금우리동네는...",
-  "SK하이닉스중국공장매각설...돌발변수로업계재편론부각",
-  "대신증권,KTCEO초청‘콥데이’개최…AI·AX성장전략공유",
-  "부산외국인생활플랫폼기업월드다가치,LG유플러스와손잡고통신...",
-  "용인특례시의회,베트남다낭시와교류확대간담회개최",
-  "\"돈내고쓰지마세요\"...서울시,19~29세청년들에게'이것'지원확정",
-  "LG유플러스,장기고객과'레고랜드워터풀파티'성료",
   "한국해커팀,국제해킹대회2·3위휩쓸었다…5년연속‘세계정상’",
   "김흥도감독,‘1학년1반7번’,학교폭력의덫을넘어세상을구하다",
   "'안드로이드무덤'日홀린삼성갤럭시Z폴드8…초고가에도인기랭킹...",
@@ -6001,7 +5991,17 @@
   "통신요금제에'AI구독'들어왔다…KT,구글Gemini품은초이스4종출시",
   "KT,초이스요금제에'구글AI플러스'결합…신규라인업4종출시",
   "UBS“엔비디아루빈울트라사양낮춰도HBM소비증가”…공급부족에...",
-  "\"명품사는사람이이렇게많다고?\"…신세계도영업익두배"
+  "\"명품사는사람이이렇게많다고?\"…신세계도영업익두배",
+  "'세기의이혼'노소영,최수종연극공연장서포착…깜짝근황",
+  "'폭염브레이크'끝난프로야구,11일레이스재개…에이스맞대결주목",
+  "클로드코드·제미나이CLI·코덱스서발견된'신뢰취약점'3가지",
+  "앤트로픽,사상최대IPO앞두고투자자달래기…中AI우려일축",
+  "지멘스,EDA포럼서'AI-NativeDesign'전략공개",
+  "두산·SK실트론,초기부담낮춘'언아웃'딜의속사정",
+  "LG유플러스‘ISEC2026’참가…통합보안포트폴리오공개",
+  "월가금융사들,710조원대엔비디아AI인프라금융플랫폼구축나서",
+  "엔비디아,월가손잡고700조AI펀드결성…\"GPU를금융자산으로\"",
+  "[GAM]엔비디아의순환금융2.0?…월가로번지는AI부채고리"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,21 @@
   [
    "2026-08-11T14:54:17.762157+09:00",
    "사는 이렇게 명품 신세계도 영업익 사람이 많다고"
+  ],
+  [
+   "2026-08-11T14:56:18.165276+09:00",
+   "초기 SK실트론 부담 속사정 언아웃 딜의 낮춘 두산"
+  ],
+  [
+   "2026-08-11T14:56:18.165276+09:00",
+   "GPU를 700조 펀드 손잡고 결성 월가 금융자산으로"
+  ],
+  [
+   "2026-08-11T14:56:18.165276+09:00",
+   "번지는 순환금융2 부채 엔비디아의 월가로 고리"
   ]
  ],
- "last_run": "2026-08-11T14:54:40.383273+09:00",
+ "last_run": "2026-08-11T14:56:41.220784+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
