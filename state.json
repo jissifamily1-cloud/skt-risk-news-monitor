@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202608091159224147fda4f5ab74_1",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=30597",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2261556",
-  "https://www.dt.co.kr/article/12077441",
-  "https://www.gqkorea.co.kr/2026/08/08/ai-%ec%8b%9c%eb%8c%80%eb%a5%bc-%ec%9d%b4%eb%81%84%eb%8a%94-%ec%84%b1%ea%b3%b5%ed%95%9c-ceo%eb%93%a4%ec%9d%98-%ec%9b%8c%ec%b9%98-6/",
-  "https://zdnet.co.kr/view/?no=20260810154636",
-  "http://www.beyondpost.co.kr/view.php?ud=202608101529528288d3244b4fed_30",
-  "https://biz.sbs.co.kr/article_hub/20000327722?division=NAVER",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209563",
-  "http://www.4th.kr/news/articleView.html?idxno=2116081",
   "https://www.ajunews.com/view/20260810152859467",
   "https://thedrive.co.kr/news/newsview.php?ncode=1065595644939143",
   "https://www.tvreport.co.kr/breaking/article/1067695/",
@@ -2999,19 +2989,19 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3661752",
   "https://www.fetv.co.kr/news/articleView.html?idxno=308209",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=84295",
-  "https://www.aitimes.com/news/articleView.html?idxno=213804"
+  "https://www.aitimes.com/news/articleView.html?idxno=213804",
+  "https://www.pressman.kr/news/articleView.html?idxno=103119",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153611",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153622",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153609",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153619",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855994",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2262838",
+  "https://www.tokenpost.kr/news/market/388249",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1394775",
+  "https://www.yna.co.kr/view/AKR20260811087200009?input=1195m"
  ],
  "seen_titles": [
-  "SOOP,AI채팅번역도입…글로벌스트리머·팬'한채팅창'서소통",
-  "종로구,광화문스퀘어에'광복'새긴다…4개전광판동시송출",
-  "최수연의'고부가가치'vs정신아의'불확실성회피'…韓양대플랫폼A...",
-  "'2026자율주행모빌리티산업전'25일개막...피지컬AI·SDV등논의",
-  "대신증권,KT경영진초청콥데이…AI·AX성장전략공유",
-  "美법원,‘2조원’북한해킹자금소송에신속증거개시·자산동결명...",
-  "두산그룹,SK실트론인수후고배당·합병계획…최태원회장잔여지분...",
-  "[삼성전자]NTT도코모AI무선망검증/삼성월렛코레일승차권",
-  "[입법이나라바꾼다]AI데이터센터규제혁파서둘러야",
-  "AI시대를이끄는성공한CEO들의워치6",
   "기업데이터건들기시작한AI…아카마이가제시한대응책은",
   "[공연현장]‘고척돔입성’에스파,7년차아티스트역량입증…높은...",
   "'국가대표AI'4파전…2차탈락팀이르면모레윤곽",
@@ -6001,7 +5991,17 @@
   "사천에'시니어복합공간'들어선다...2028년6월준공목표",
   "서울우유,사내전용AI플랫폼'서울우유GPT'도입",
   "엔비디아,'월가큰손'6곳과710조원AI인프라금융플랫폼구축",
-  "'수업예약'지시받은AI,헬스장해킹까지...\"대기1순위예약취소해..."
+  "'수업예약'지시받은AI,헬스장해킹까지...\"대기1순위예약취소해...",
+  "말복지나면가을준비…유통업계'여름끝·새계절'동시공략",
+  "[푸드·다이닝트렌드]GS25,바나나'전용지정농장'운영으로안정적...",
+  "[문화트렌드]서초문화재단,넌버벌어린이공연'네네네'개최外",
+  "[푸드·다이닝트렌드]널담,'파이버맥싱'트렌드겨냥한고단백·저당...",
+  "[오늘의브랜드]삼성전자,8세대갤럭시폴더블기술혁신담은'폴더블...",
+  "[아슬아슬현대차]③SDV속도전...독자기술은있나?",
+  "NHN,2분기매출·영업이익분기최대…기술·게임성장견인",
+  "2028년말까지메모리공급난지속전망…HBM사양조정",
+  "두산이받아든SK실트론'8년언아웃'…문턱높인이유",
+  "오픈AI윤리책임자,1년안돼퇴사"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-08-11T15:16:17.192389+09:00",
    "지시받은 취소해 헬스장 해킹까지 수업 대기 예약 1순위"
+  ],
+  [
+   "2026-08-11T15:18:18.515663+09:00",
+   "윤리책임자 퇴사 1년 안돼"
   ]
  ],
- "last_run": "2026-08-11T15:16:42.555158+09:00",
+ "last_run": "2026-08-11T15:18:36.633584+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
