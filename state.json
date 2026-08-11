@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=475767",
-  "https://www.etoday.co.kr/news/view/2612598",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62209",
-  "https://biz.sbs.co.kr/article_hub/20000327579?division=NAVER",
-  "https://www.ziksir.com/news/articleView.html?idxno=142606",
-  "http://www.datanews.co.kr/news/article.html?no=145961",
-  "https://www.donga.com/news/Inter/article/all/20260810/134448020/1",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3660092",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=120438",
-  "https://www.ziksir.com/news/articleView.html?idxno=142612",
   "https://www.inthenews.co.kr/news/article.html?no=90322",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100101&t=NN",
   "https://www.namdonews.com/news/articleView.html?idxno=919525",
@@ -2999,19 +2989,19 @@
   "https://www.ziksir.com/news/articleView.html?idxno=142760",
   "https://www.joongangenews.com/news/articleView.html?idxno=539219",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271487",
-  "https://dealsite.co.kr/articles/166960"
+  "https://dealsite.co.kr/articles/166960",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1174609",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855879",
+  "https://www.inven.co.kr/webzine/news/?news=319373",
+  "https://www.newstnt.com/news/articleView.html?idxno=713492",
+  "https://www.dizzotv.com/site/data/html_dir/2026/08/11/2026081180033.html",
+  "https://www.news1.kr/it-science/internet-platform/6255141",
+  "https://www.apnews.kr/news/articleView.html?idxno=3050405",
+  "https://view.asiae.co.kr/article/2026081109281895655",
+  "https://www.tokenpost.kr/news/cryptocurrency/388071",
+  "https://www.ajunews.com/view/20260811094124788"
  ],
  "seen_titles": [
-  "美핵심기반시설위협고조...뉴욕주,상수도사이버보안에900만달러...",
-  "SKT,독립운동가활동AI분석해전국10개코스로개발",
-  "서치독,엔비디아인셉션멤버선정…EPC산업AI솔루션공급",
-  "엔키화이트햇,연구원연합팀'국제해킹방어올림픽'준우승",
-  "삼성전자·NTT도코모,AI가통신품질미리예측…속도저하빈도'절반...",
-  "\"통신품질저하절반으로\"...삼성전자,NTT도코모와AI-RAN기술검증",
-  "삼성전자·NTT도코모,AI로사용자별통신품질최적화",
-  "'영상끊기기전AI가네트워크최적화'…삼성전자,AI무선망기술개...",
-  "삼성전자,'AI통신망'성능입증…속도저하빈도'절반'으로",
-  "삼성전자·NTT도코모,AI-RAN통신품질최적화기술검증",
   "삼성전자,NTT도코모와AI무선망품질최적화검증",
   "코스피하락에韓자살율늘어?“사실아냐”…佛외신,자사보도왜곡...",
   "[포토]대구시수성구,불법광고물합동단속캠페인실시",
@@ -6001,7 +5991,17 @@
   "KT,롯데백화점에RCS메시징구축",
   "오픈AI,IPO앞두고10조원어치직원주식샀다…기업가치1210조유지",
   "삼성SDS,대학·출연연에엔비디아최신GPU푼다",
-  "아우토크립트,데프콘자동차해킹대회우승…83개팀중1위"
+  "아우토크립트,데프콘자동차해킹대회우승…83개팀중1위",
+  "'신병4'팝업스토어·팬미팅개최...일정및참여방법은?",
+  "엠클라우드브리지,역할별코파일럿교육출시",
+  "[컨콜]NHN최대매출달성,신작게임은일본시장집중한다",
+  "서울우유,사내전용생성형AI'서울우유GPT'오픈…디지털업무혁신...",
+  "모니터서폴더블폰까지…삼성,게임스컴서‘게임생태계’승부수",
+  "네이버D2SF,피지컬AI데이터업체엔닷라이트에후속투자",
+  "SK쉴더스EQST,라스베이거스'데프콘34AICTF'서'글로벌톱5'올라",
+  "\"인간이통제못할기계그만\"…美진보대부,AI3사에개발중단요구",
+  "오픈AI전로봇책임자칼리노프스키,앤트로픽합류",
+  "SK하이닉스,日키옥시아의사실상최대주주로등극"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,17 @@
   [
    "2026-08-11T10:08:17.640862+09:00",
    "국제수학올림피아드 K2 금메달 ~SKT 넘었다 기준"
+  ],
+  [
+   "2026-08-11T10:12:18.989788+09:00",
+   "최대주주로 키옥시아의 SK하이닉스 사실상 등극"
+  ],
+  [
+   "2026-08-11T10:12:18.989788+09:00",
+   "칼리노프스키 합류 책임자 로봇 앤트로픽"
   ]
  ],
- "last_run": "2026-08-11T10:10:46.539362+09:00",
+ "last_run": "2026-08-11T10:12:41.072034+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
