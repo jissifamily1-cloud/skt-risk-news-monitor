@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260811024100091?input=1195m",
-  "https://www.slist.kr/news/articleView.html?idxno=757979",
   "http://www.newsprime.co.kr/news/article.html?no=743397",
   "https://www.bntnews.co.kr/article/view/bnt202608110107",
   "https://www.joongang.co.kr/article/25452362",
@@ -2999,11 +2997,11 @@
   "https://biz.sbs.co.kr/article_hub/20000328117?division=NAVER",
   "https://www.newsis.com/view/NISX20260812_0003745333",
   "https://www.hankyung.com/article/202608125524H",
-  "https://www.mediapen.com/news/view/1115778"
+  "https://www.mediapen.com/news/view/1115778",
+  "https://www.smartbizn.com/news/articleView.html?idxno=150988",
+  "https://kids.donga.com/news/articleView.html?idxno=169594"
  ],
  "seen_titles": [
-  "NHN,2분기매출·영업익'역대최대'…게임·결제·기술동반성장",
-  "삼성SDS,국가AI연구용GPU인프라공급…B300클러스터최초투입",
   "[마켓무버]호르무즈협상교착에유가5%급등…뉴욕증시일제하락",
   "NHN,2분기매출·영업익역대최대…AI인프라사업확장(종합)",
   "오픈AI,새보안특화모델공개…'데이브레이크'보안계획재편",
@@ -6001,7 +5999,9 @@
   "[비즈나우]'오픈소스'푼엔비디아…中견제용?",
   "KB증권\"삼성전자,조정국면끝났다…본격상승추세시작\"",
   "상장코앞인데또?…임원'줄퇴사'이어지는오픈AI",
-  "5000억달러AI파이낸싱젠슨황\"AI칩소모성부품아닌장기투자인프라..."
+  "5000억달러AI파이낸싱젠슨황\"AI칩소모성부품아닌장기투자인프라...",
+  "호르무즈해협,다시시장흔들었다···뉴욕증시일제히약세마감",
+  "독립운동가가걷던길,따라달리며기억해요"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-08-12T07:58:18.115730+09:00",
    "인프라 5000억달러 AI파이낸싱 장기투자 AI칩 소모성부품 아닌 젠슨"
+  ],
+  [
+   "2026-08-12T08:00:49.464465+09:00",
+   "따라 걷던 기억해요 달리며 독립운동가가"
   ]
  ],
- "last_run": "2026-08-12T07:58:35.772191+09:00",
+ "last_run": "2026-08-12T08:01:07.073930+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
