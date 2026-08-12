@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260811105745",
-  "https://www.sentv.co.kr/article/view/sentv202608110073",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=227360",
-  "https://www.businessplus.kr/news/articleView.html?idxno=115303",
-  "https://www.ytn.co.kr/_ln/0104_202608111106247534",
   "https://www.gukjenews.com/news/articleView.html?idxno=3661276",
   "https://www.yna.co.kr/view/AKR20260811073400063?input=1195m",
   "https://www.etnews.com/20260811000161",
@@ -2999,14 +2994,14 @@
   "https://www.newscj.com/news/articleView.html?idxno=3424531",
   "http://www.4th.kr/news/articleView.html?idxno=2116198",
   "http://www.breaknews.com/1228429",
-  "https://www.ngonews.kr/news/articleView.html?idxno=235287"
+  "https://www.ngonews.kr/news/articleView.html?idxno=235287",
+  "https://www.cwn.kr/news/articleView.html?idxno=52830",
+  "https://www.news1.kr/it-science/cc-newmedia/6256742",
+  "https://hbnpress.com/news/view/1065587322552018",
+  "https://www.cwn.kr/news/articleView.html?idxno=52818",
+  "http://www.fnnews.com/news/202608121109194423"
  ],
  "seen_titles": [
-  "레전드군텐츠의귀환…KT스튜디오지니,'신병4'팝업스토어오픈",
-  "미국은회장님이장관님?…트럼프의'재벌내각'",
-  "삼성SDS·엘리스그룹,국가AI연구인프라책임진다…고성능GPU공급",
-  "SKT‘A.XK2’,국제수학올림피아드29점…금메달기준충족",
-  "통신상장기업2026년8월브랜드평판...SK텔레콤,KT,LG유플러스順",
   "LG유플러스,기업보안시장공략강화…통신·클라우드묶은포트폴리오...",
   "\"엔비디아칩사양낮춰도...HBM소비량오히려늘것\"",
   "[기자수첩]폭염과가뭄속,진정한'군민맞춤형'정치를보다",
@@ -6001,13 +5996,14 @@
   "OTT공세맞선유료방송가,글로벌·IP·지역상생으로돌파구",
   "[일문일답]\"정의선도직접코딩\"…현대차그룹AX성과공개",
   "KT,올2분기영업익6483억원..전년대비36.1%↓",
-  "KT,2분기매출6조6799억·영업이익6483억···AX,데이터센터성장에..."
+  "KT,2분기매출6조6799억·영업이익6483억···AX,데이터센터성장에...",
+  "'마이크로소프트마켓플레이스서첫선'…모티프테크놀로지스,자체LLM...",
+  "SK하이퍼,C레벨인선완료…AI데이터센터사업속도",
+  "KT,2분기영업이익6483억원...데이터센터·콘텐츠성장",
+  "'알파키부터U+SASE까지'…LG유플러스,기업보안새전략공개",
+  "[이구순의느린걸음]K-AI리그를만들자"
  ],
  "recent_sigs": [
-  [
-   "2026-08-12T07:34:22.580131+09:00",
-   "710조원 자금 월가와 필요한 조달 고객에"
-  ],
   [
    "2026-08-12T07:38:18.879743+09:00",
    "약세 알파벳 호르무즈에 기술주 짓눌린 뉴욕증시"
@@ -6547,9 +6543,17 @@
   [
    "2026-08-12T13:32:25.479252+09:00",
    "공세 글로벌 유료방송가 맞선 OTT 지역상생으로 IP 돌파구"
+  ],
+  [
+   "2026-08-12T13:36:17.547749+09:00",
+   "만들자 리그를"
+  ],
+  [
+   "2026-08-12T13:36:17.547749+09:00",
+   "알파키부터 LG유플러스 SASE까지 전략 보안 ~LGU 공개 기업"
   ]
  ],
- "last_run": "2026-08-12T13:34:33.378088+09:00",
+ "last_run": "2026-08-12T13:36:38.500028+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
