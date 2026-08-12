@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://m.sports.naver.com/basketball/article/065/0000300556",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87420",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691965",
-  "https://www.ajunews.com/view/20260811134953503",
-  "https://www.joongangenews.com/news/articleView.html?idxno=539361",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3661297",
-  "https://www.inews365.com/news/article.html?no=931335",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=315056",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=142891",
   "https://www.mt.co.kr/tech/2026/08/11/2026081113154521116",
   "https://www.etoday.co.kr/news/view/2613238",
@@ -2999,17 +2991,17 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092167987",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476749",
   "https://www.rapportian.com/news/articleView.html?idxno=239337",
-  "https://www.newspim.com/news/view/20260812001068"
+  "https://www.newspim.com/news/view/20260812001068",
+  "https://www.news1.kr/society/people/6254246",
+  "https://www.kgnews.co.kr/news/article.html?no=907433",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1395295",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1011273",
+  "http://www.newsdream.kr/news/articleView.html?idxno=116175",
+  "https://www.newspim.com/news/view/20260812001020",
+  "https://dealsite.co.kr/articles/167071",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608120600&t=NN"
  ],
  "seen_titles": [
-  "삼성SDS·엘리스그룹,'국가AI연구용GPU컴퓨팅서비스'책임진다",
-  "사흘앞둔9440억원재산분할…최태원,'재상고후합의'나서나",
-  "[뒷북STAT]‘SK와한지붕두가족’삼성,16시즌만에12월홈5경기",
-  "중국發저가AI공세에AI산업패러다임변화예고",
-  "성능좋다고안전한건아니다…중국AI모델,보안방어력'천차만별'",
-  "엔비디아HBM덜넣는다는데…UBS\"수요·가격더오른다\"",
-  "SK텔레콤주가,8월11일장중85,800원0.94%상승",
-  "박동식사천시장,고수온경보속가두리양식장현장점검",
   "교육대전환정책해커톤참가자모집",
   "NHN,2분기영업이익579억원…전년比164.1%증가",
   "[AI쩐의전쟁]①현금떨어진빅테크들...자금조달에물불안가린다",
@@ -6001,7 +5993,15 @@
   "박윤영KT대표\"2028년자기자본이익률9~10%목표…AX로승부\"",
   "KT,'2026코퍼레이트데이'개최...\"AX플랫폼컴퍼니전환본격화\"",
   "휴이노,KT와안전한의료데이터전송·보안체계고도화협력",
-  "[이영종의통일오디세이]고문·해킹범죄에北상대손배소봇물...\"김..."
+  "[이영종의통일오디세이]고문·해킹범죄에北상대손배소봇물...\"김...",
+  "'9440억'재산분할판결뒤노소영깜짝행보…최수종공연장찾았다",
+  "LGU+,클라우드서비스로지자체등공공기관에서비스지원한다",
+  "농협은행,AI·데이터기반차세대컨택센터구축",
+  "BC카드,해외디지털자산지갑·국내카드결제인프라연결사업완료",
+  "NH농협은행,AI컨택센터오픈…고객중심상담체계구축",
+  "포천시,2026년을지연습사전준비보고회개최",
+  "KT밀리의서재,2Q영업익↓…사업투자·IP확보영향",
+  "[속보]'44만원→14만원'맘고생했는데…13%급등LG개미'쾌재'"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-08-12T15:48:17.147435+09:00",
    "범죄에 상대 고문 봇물 손배소"
+  ],
+  [
+   "2026-08-12T15:50:27.448347+09:00",
+   "고생했는데 쾌재 14만원 44만원 LG개미 급등"
   ]
  ],
- "last_run": "2026-08-12T15:48:55.528848+09:00",
+ "last_run": "2026-08-12T15:50:52.028851+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
