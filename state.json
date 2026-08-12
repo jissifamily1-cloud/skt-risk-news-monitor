@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87795",
-  "https://www.widedaily.com/news/articleView.html?idxno=299232",
-  "https://www.donga.com/news/Politics/article/all/20260806/134433275/1",
-  "https://www.joongang.co.kr/article/25451420",
-  "https://www.etoday.co.kr/news/view/2613227",
-  "https://www.newspim.com/news/view/20260811000627",
-  "https://www.cstimes.com/news/articleView.html?idxno=716390",
-  "https://www.cnet.co.kr/view/?no=20260811133833",
-  "https://www.donga.com/news/It/article/all/20260811/134456658/1",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608111335316850593",
   "https://www.smartbizn.com/news/articleView.html?idxno=150905",
   "https://www.etnews.com/20260811000205",
@@ -2999,18 +2990,18 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=444575",
   "https://www.newsway.co.kr/news/view?ud=2026081214144678226",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546570",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=512241"
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512241",
+  "https://www.welfarenews.net/news/articleView.html?idxno=209538",
+  "https://www.techm.kr/news/articleView.html?idxno=154245",
+  "https://www.newsis.com/view/NISX20260811_0003744288",
+  "https://bizhankook.com/articles/telco-ai-data-center-expansion.html",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314718",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316369",
+  "https://www.thepowernews.co.kr/view.php?ud=202608121506549635de3f0aa1be_7",
+  "https://www.ekn.kr/web/view.php?key=20260812026471997",
+  "https://zdnet.co.kr/view/?no=20260812150846"
  ],
  "seen_titles": [
-  "아우토크립트,데프콘車해킹대회83개팀중1위",
-  "구글,국내모바일이용자수네이버첫추월…AI가포털지형바꾼다",
-  "삼성전자,독일'게임스컴2026'서모바일·PC·콘솔아우른풀스택게이...",
-  "[특징주]코칩,글로벌MLCC품귀속'삼성전기30년파트너'부각에상...",
-  "[단독]정부,美하원에‘디지털규제국회상황’설명",
-  "[단독]대치동유명학원,개인정보유출…학부모들“레테만봤는데주...",
-  "SKTAI모델'A.XK2',국제수학올림피아드서금메달성능…미·중이외...",
-  "[AI프리뷰]11일인천SSG-롯데전,'선발4연승'비슬리vs'떠오르는에...",
-  "삼성전자,7년폴더블역사담은'폴더블헤리티지'전시오픈",
   "델테크놀로지스포럼2026,코엑스서25일개최…AI인프라·사이버복...",
   "엔비디아,금융사6곳과‘710조원AI인프라자금조달’양해각서",
   "韓‘독파모’4개모델,美AI연구기관‘주목할만한모델’등재",
@@ -6001,7 +5992,16 @@
   "인텔이석희앞세워저전력AI용D램개발,삼성전자·SK하이닉스HBM아...",
   "\"회사파산에도거래는계속?\"…가상자산거래소자율상장다시도마",
   "KT만웃지못한2분기⋯SKT·LG유플러스와실적희비갈려",
-  "‘만년2등’체질못버렸나…SK하이닉스,‘역대급저평가’에도반등..."
+  "‘만년2등’체질못버렸나…SK하이닉스,‘역대급저평가’에도반등...",
+  "웰페어뉴스브리핑'(2026.8.12)",
+  "[기고]AI를'도입'하는시대는끝났다",
+  "본인전송요구권확대앞두고…'스크래핑'사업자3차사전협의접수",
+  "이동통신3사,AI데이터센터로승부\"본업성장끝났다\"",
+  "LG유플러스,AWS와공공클라우드사업확대'맞손'…서비스강화",
+  "LG유플러스,AWS손잡고공공클라우드공략확대",
+  "60승선착팀우승확률77.8%…KT가가장먼저올라섰다",
+  "“2007년금융위기데자뷔?”…엔비디아·월가,AI까지‘증권화’[이슈...",
+  "리벨리온,SK텔레콤에K-NPU'리벨'칩공급...\"물량은미정\""
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,21 @@
   [
    "2026-08-12T15:36:18.236743+09:00",
    "저평가 2등 SK하이닉스 에도 만년 체질 버렸나 역대급 반등"
+  ],
+  [
+   "2026-08-12T15:38:17.173784+09:00",
+   "승부 성장 3사 끝났다 데이터센터로 이동통신 본업"
+  ],
+  [
+   "2026-08-12T15:38:17.173784+09:00",
+   "리벨 리벨리온 미정 물량은 NPU 공급 ~SKT SK텔레콤에"
+  ],
+  [
+   "2026-08-12T15:38:17.173784+09:00",
+   "2007년 AI까지 데자뷔 월가 이슈 금융위기 증권화"
   ]
  ],
- "last_run": "2026-08-12T15:36:38.649812+09:00",
+ "last_run": "2026-08-12T15:38:44.615031+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
