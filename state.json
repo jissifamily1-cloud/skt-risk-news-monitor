@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2613538",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=206386",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3662358",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701315&plink=ORI&cooper=NAVER",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850069",
-  "https://view.asiae.co.kr/article/2026081209135442474",
   "https://www.cbci.co.kr/news/articleView.html?idxno=597495",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60297",
   "http://www.maniareport.com/view.php?ud=2026081209143572486cf2d78c68_19",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476844",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000056459",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03378406645546992",
-  "https://www.tokenpost.kr/news/breaking/389558"
+  "https://www.tokenpost.kr/news/breaking/389558",
+  "https://www.ddaily.co.kr/page/view/2026081117082010745",
+  "https://www.starnewskorea.com/sports/2026/08/13/2026081214594232532",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=363751",
+  "https://www.wikitree.co.kr/articles/1152119",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6844412_37012.html",
+  "http://www.newsprime.co.kr/news/article.html?no=743697"
  ],
  "seen_titles": [
-  "LG유플러스,AWS클라우드공공시장공급길열었다",
-  "마이클버리,엔비디아등4개종목하락베팅확대",
-  "울산동구,제6기복지계획연구용역중간보고…2027~2030정책초안점...",
-  "[마켓무버]뉴욕증시이틀째하락…호르무즈불확실성에유가반등",
-  "코스피,1%대상승출발…금융∙보험주강세",
-  "개인정보보호위송무팀류승균팀장·박병준변호사,법률신문사방문",
   "LG유플러스,AWS기반공공클라우드사업본격확대…공공기관수요대...",
   "다나와,생성형AI유입방문자119%증가…AI쇼핑채널확대",
   "여름휴가후'차량점검'필수…타이어뱅크\"타이어이물질·공기압확...",
@@ -6001,7 +5995,13 @@
   "서학개미·코인족다낚였네...테슬라이름판'지갑싹쓸이'피싱공포...",
   "\"록스타\"…엔비디아젠슨황,'직원이뽑은최고CEO'1위",
   "KT,신사업도전은실적성장과밸류상승에기여할것-NH",
-  "2560만달러해킹자산,DAI·ETH로전환"
+  "2560만달러해킹자산,DAI·ETH로전환",
+  "극장살리려‘홀드백’…자칫교각살우될라[강소현의방송통신문]",
+  "아빌라조언듣고슬라이더구속7㎞↑,류현진→소형준잇는KBO역대1...",
+  "의성군-경북문화관광공사,수상레포츠관광육성",
+  "러버블,시리즈C4억달러유치…몸값133억달러로2배",
+  "뉴욕증시,인플레둔화속혼조세마감",
+  "KT,고가AI요금제유입으로장기ARPU'폭증'…국내AI기지국활성화..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,13 @@
   [
    "2026-08-13T07:46:20.869125+09:00",
    "ETH로 자산 DAI 2560만달러"
+  ],
+  [
+   "2026-08-13T07:48:17.294264+09:00",
+   "활성화 고가 폭증 ARPU 유입으로 ~KT 장기 기지국 국내 요금제"
   ]
  ],
- "last_run": "2026-08-13T07:46:37.253912+09:00",
+ "last_run": "2026-08-13T07:48:40.934416+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
