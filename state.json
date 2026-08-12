@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260810_0003742461",
-  "https://www.yna.co.kr/view/AKR20260811073800017?input=1195m",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691902",
   "https://byline.network/?p=9004111222614884",
   "https://www.sportsworldi.com/newsView/20260811510290",
   "http://www.osen.co.kr/article/G1112854916",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3662715",
   "https://www.xportsnews.com/article/2182748",
   "https://www.ekn.kr/web/view.php?key=20260812025122016",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213717"
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213717",
+  "https://view.asiae.co.kr/article/2026081213481944003",
+  "https://www.sidae.com/article/2026081213340020502",
+  "http://www.newswatch.kr/news/articleView.html?idxno=80728"
  ],
  "seen_titles": [
-  "“마이크론말고SK하이닉스사라”美투자지추천에도…한국선주가...",
-  "방미통위,‘아시아최대콘텐츠마켓’지원사업자공개모집",
-  "은행이대신가져가던내정보…이젠내가‘전송’결정",
   "SKTAI모델'A.XK2',국제수학올림피아드서금메달성적거둬",
   "샌더스美상원의원\"통제못할AI개발멈춰라\"…오픈AI·앤트로픽·메...",
   "아우토크립트,데프콘자동차해킹CTF우승",
@@ -6001,7 +5998,10 @@
   "함안군,가뭄대응'총력'…농업용수긴급지원현장점검",
   "스포츠스타게시물,AI성착취'심각'→\"젊고어린대학선수게시물타...",
   "KT,2분기영업익6483억원…시장전망치7%웃돌아",
-  "클루커스,'오픈AI셀렉트파트너'선정"
+  "클루커스,'오픈AI셀렉트파트너'선정",
+  "BC카드,해외디지털지갑연결…환전없이USDC로결제",
+  "\"직접코딩해보고싶다\"…정의선회장,경영진AI활용강조",
+  "[초점]남들은키워주는데…포스코홀딩스,피지컬AI계열사지분줄였..."
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,13 @@
   [
    "2026-08-12T13:38:18.158336+09:00",
    "기간 신차 변신 기업으로 현대차그룹 개발 단축 세계 AX"
+  ],
+  [
+   "2026-08-12T13:50:25.622099+09:00",
+   "남들은 줄였 계열사 포스코홀딩스 키워주는데 지분 피지컬"
   ]
  ],
- "last_run": "2026-08-12T13:48:40.131828+09:00",
+ "last_run": "2026-08-12T13:50:50.430783+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
