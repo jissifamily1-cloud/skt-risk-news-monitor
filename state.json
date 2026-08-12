@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2613248",
-  "http://www.newsdream.kr/news/articleView.html?idxno=116058",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=315060",
-  "https://www.tenasia.co.kr/article/2026081141414",
-  "http://www.dailyesports.com/view.php?ud=202608111410259922b91e133c1f_27",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000055863",
-  "https://www.gosiweek.com/article/1065589580431331",
-  "https://www.etnews.com/20260811000238",
-  "https://www.hellot.net/news/article.html?no=114276",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=133300",
-  "https://www.newspim.com/news/view/20260811000675",
   "https://www.heraldmuse.com/article/10836140",
   "https://www.gamemeca.com/mv.php?inflow=naver&gid=1778973",
   "https://www.news1.kr/local/ulsan/6255499",
@@ -2999,20 +2988,20 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=874842",
   "https://www.sentv.co.kr/article/view/sentv202608120141",
   "https://www.etoday.co.kr/news/view/2613802",
-  "https://www.tvreport.co.kr/breaking/article/1068276/"
+  "https://www.tvreport.co.kr/breaking/article/1068276/",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16161665",
+  "https://www.etnews.com/20260812000081",
+  "https://www.mt.co.kr/tech/2026/08/12/2026081209070777838",
+  "https://it.donga.com/109342/",
+  "http://www.lawissue.co.kr/view.php?ud=202608121451158738204ead0791_12",
+  "https://mhnse.com/news/articleView.html?idxno=1486660",
+  "https://www.mydaily.co.kr/page/view/2026081215420643695",
+  "https://www.mt.co.kr/finance/2026/08/12/2026081214012278422",
+  "https://www.etnews.com/20260812000375",
+  "https://www.bloter.net/news/articleView.html?idxno=670736",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476756"
  ],
  "seen_titles": [
-  "KT,구글구독서비스결합초이스요금제신규선봬",
-  "오픈AI,취약점연구특화사이버보안모델'GPT-5.6사이버'공개",
-  "엔비디아는5000억달러금융지원·인텔은증자…AI‘쩐의전쟁’격화",
-  "에이아이빅스랩\"라면4사,AI응답점유율97.5%차지\"",
-  "LGU+,ISEC2026서'통합보안포트폴리오'선보인다",
-  "BTS정국,뉴욕타임스퀘어에생일광고…중국팬이나섰다",
-  "[KeSPA컵]농심결승직행...한화생명-DN-T1,녹아웃합류",
-  "\"교체설은옛말\"KIA카스트로,후반기타율0.421…가을야구이끌해결...",
-  "‘MZ무당’노슬비,AI운세키오스크선보여…“예약없이간편하게...",
-  "마이크로LED칩제조사,'광인터커넥트'사업속도",
-  "TSMC7월매출45%급증…빅테크AI투자열기재확인",
   "네이버D2SF,피지컬AI데이터기업엔닷라이트에세번째투자",
   "AGONbyAOC,트리플모드게이밍모니터3종출시",
   "[뮤즈★]노소영,‘9440억’세기의재산분할앞두고…최수종공개응...",
@@ -6001,7 +5990,18 @@
   "KT,'2026KTCorporateDay'개최…AX전략·밸류업계획공유",
   "KT,‘2026KT코퍼레이트데이’개최…AX성장전략공개",
   "코스피,외국인2.8조순매수에3.7%급등…매수사이드카도발동",
-  "최시원,해킹의심에'초비상'…\"보안조치중→수상한메시지·링크클..."
+  "최시원,해킹의심에'초비상'…\"보안조치중→수상한메시지·링크클...",
+  "'5연속금메달도전'한국야구,9월14일소집후日나고야행",
+  "[혁신플랫폼톡]하네스엔지니어링이여는기업AX",
+  "[단독]태국어LLM만들었지만,필리핀·인니는'스톱'…네이버AI수출현...",
+  "[주간보안동향]삼프로TV,개인정보유출…카드정보317명노출外",
+  "카페24'마케팅플레이북2026'진행…이커머스성장전략제시",
+  "최시원,다급히올린글...해킹피해→계정이상징후에주의당부\"보안...",
+  "최시원,왓츠앱·스레드·인스타뚫렸나…\"누가어떤의도인지모르겠다...",
+  "[단독]\"마이데이터안해\"…수백억원과금,올해부터줄어든다",
+  "기관투자자만난박윤영KT대표“AX기반새성장동력확보”",
+  "현대차\"중국차보다긴차량개발기간,AI로단축목표\"[현장+]",
+  "[거래소외국인]삼성전자·SK하이닉스·삼성전기'줍줍'...조정마무리..."
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,17 @@
   [
    "2026-08-12T15:56:18.210043+09:00",
    "MS 해킹조직 공격 패치 8월 윈도 긴급 북한 라자루스 제로데이 실제"
+  ],
+  [
+   "2026-08-12T16:02:18.118144+09:00",
+   "삼성전자 마무리 삼성전기 줍줍 SK하이닉스 조정"
+  ],
+  [
+   "2026-08-12T16:02:18.118144+09:00",
+   "수백억원 올해부터 과금 줄어든다 마이데이터"
   ]
  ],
- "last_run": "2026-08-12T16:00:57.573800+09:00",
+ "last_run": "2026-08-12T16:02:41.817106+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
