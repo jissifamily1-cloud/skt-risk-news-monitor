@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260812500044",
-  "https://www.newspim.com/news/view/20260812000065",
-  "https://www.chosun.com/economy/tech_it/2026/08/12/CLQWEOIRIVFTXKPHQU36CICLHU/",
-  "https://biz.heraldcorp.com/article/10838185",
-  "http://www.4th.kr/news/articleView.html?idxno=2116165",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84786",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209750",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071805",
-  "https://news.jtbc.co.kr/article/NB12312663?influxDiv=NAVER",
-  "https://view.asiae.co.kr/article/2026081208324366840",
   "https://thetracker.co.kr/View.aspx?No=4183170",
   "https://www.gukjenews.com/news/articleView.html?idxno=3662247",
   "https://www.gukjenews.com/news/articleView.html?idxno=3662298",
@@ -2999,19 +2989,19 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16162248",
   "https://www.techm.kr/news/articleView.html?idxno=154223",
   "https://weekly.donga.com/3/all/11/6345034/1",
-  "https://dealsite.co.kr/articles/166995"
+  "https://dealsite.co.kr/articles/166995",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635790",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240867",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110244",
+  "https://www.asiatime.co.kr/article/20260806500253",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690549",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=661935",
+  "https://www.mt.co.kr/future/2026/08/13/2026081214011840641",
+  "https://www.news2day.co.kr/article/20260813500016",
+  "https://biz.sbs.co.kr/article_hub/20000328385?division=NAVER",
+  "https://www.newspim.com/news/view/20260813000043"
  ],
  "seen_titles": [
-  "공급사쥐어짜고기술유출의혹…시장교란하는'포식자'[인사이드애...",
-  "용인시보건소,지역아동센터아동대상구강건강관리사업실시",
-  "용인시,8월주민세신고·납부의달…정기분126억부과",
-  "\"삼전닉스발끝도못쫓아오던중국이…\"주식시장흔든'차이나쇼크'의...",
-  "[기술주권시대LLM전략②]국내LLM,범용성능넘어'주권형실행스...",
-  "뉴욕증시,호르무즈불확실성·CPI경계에일제히하락",
-  "뉴욕증시,이틀째약세마감...WTI1.3%↑",
-  "[AIMY증시전망]코스피,CPI대기속전약후강전망…반도체수급개선...",
-  "털려도변경불가‘온라인주민번호’…“유효기간제도입시급”",
-  "LG유플러스,공공클라우드영토넓힌다…AWS중개서비스등록",
   "LG유플러스,AWS기반공공클라우드사업확대",
   "\"공공클라우드시장잡는다\"…LG유플러스,AWS기반중개서비스공식...",
   "LG유플러스,AWS중개서비스등록…공공클라우드사업확대",
@@ -6001,7 +5991,17 @@
   "미국증시,CPI안도에기술주·반도체강세…엔비디아3%↑·다우약보합",
   "[네이버밸류업②]엔비디아·두나무가바꾼계산법…네이버몸값다시...",
   "머스크손잡은엔비디아고공행진…‘삼전닉스’도웃는다",
-  "[현대百그룹과제]'9부능선'넘은지주사요건갖추기…관건은속도"
+  "[현대百그룹과제]'9부능선'넘은지주사요건갖추기…관건은속도",
+  "홈런선두김도영,시즌34호홈런폭발",
+  "[위클리시그널]스타링크2분기실적'파란불',갤럭시Z8공식출시",
+  "해킹에놀란이통3사,보안에3353억원썼다…투자더늘린다",
+  "“환급금받아가세요”…AI입은스미싱에이통업계‘총력전’",
+  "\"개인정보유출책임못피한다\"...공정위,이통사불공정약관시정",
+  "[기획]알뜰폰'안심옵션'적용…실효성은'글쎄'",
+  "아워박스,사내업무용AI플랫폼'AI게이트웨이'구축",
+  "뉴욕증시,CPI둔화에도혼조…AI인프라주급등에나스닥강세",
+  "[증시전략]원유양대길목서모두'교전'…美-이란협상어디로?",
+  "[AIMY뉴스]13일중국증시'美물가안도감+AI인프라+로봇'3대키워드..."
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-08-13T07:08:18.167197+09:00",
    "지주사 속도 넘은 요건 능선 갖추기 9부 관건은"
+  ],
+  [
+   "2026-08-13T07:10:29.543635+09:00",
+   "중국증시 키워드 인프라 물가 13일 안도감 3대 로봇"
   ]
  ],
- "last_run": "2026-08-13T07:08:50.240855+09:00",
+ "last_run": "2026-08-13T07:10:46.204269+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
