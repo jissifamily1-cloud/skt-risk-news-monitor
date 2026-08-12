@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260811000464",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632831",
-  "https://www.ziksir.com/news/articleView.html?idxno=142778",
-  "https://www.chosun.com/economy/tech_it/2026/08/11/TBOBGRVMDBDINHMLKVBXTE2JZE/",
-  "http://www.youngnong.co.kr/news/articleView.html?idxno=61484",
   "https://www.slist.kr/news/articleView.html?idxno=758050",
   "http://www.joseilbo.com/news/news_read.php?uid=573609&class=17",
   "http://www.00news.co.kr/news/articleView.html?idxno=105767",
@@ -2999,14 +2994,14 @@
   "https://www.ddaily.co.kr/page/view/2026081212070905179",
   "https://www.ddaily.co.kr/page/view/2026081211502929036",
   "https://www.insight.co.kr/news/567787",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84860"
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84860",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=274660",
+  "https://www.aitimes.com/news/articleView.html?idxno=213829",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=390315",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429774",
+  "https://www.ajunews.com/view/20260812131610804"
  ],
  "seen_titles": [
-  "롯데百,RCS시스템도입...안심문자·양방향소통지원",
-  "“갤럭시쓰면통신장애반토막”…삼성전자,日점유율반등카드확...",
-  "NHN,GPU성과에분기최대실적...30MWAIDC추가확보",
-  "방미통위,싱가포르ATF서선보일방송콘텐츠11편모집",
-  "LG유플러스,ISEC서기업용통합보안포트폴리오공개",
   "SEC,AI데이터센터빚규제완화…‘데이터센터돈잔치’더커지나",
   "서울우유,사내전용생성형AI'서울우유GPT'가동…업무전반디지털...",
   "서울우유'서울우유GPT'도입→본아이에프,PB온라인판매확대",
@@ -6001,7 +5996,12 @@
   "[AI정책노트]AI가신약후보찾고실험실이검증…정부,K-문샷신약개...",
   "[독파모2차전下]‘벤치마크한계론’부터‘GPU지원규모’까지…지...",
   "'온라인주민번호'CI해킹속출...털려도변경불가",
-  "\"대기시간줄이고상담정확도올린다\"…NH농협은행,차세대AICC전면구..."
+  "\"대기시간줄이고상담정확도올린다\"…NH농협은행,차세대AICC전면구...",
+  "KT2분기영업이익6483억원기록...전분기대비수익성개선",
+  "엔비디아,'1조매개변수'모델개발박차...\"GPU수요·생태계확장노...",
+  "엔비디아,월가6개금융사와손잡고AI인프라에5000억달러자금조달...",
+  "정의선도바이브코딩배웠다…AI기업거듭나는현대차",
+  "엔비디아,'1조파라미터'AI만든다…中오픈소스추격"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,13 @@
   [
    "2026-08-12T13:18:17.026506+09:00",
    "CI 털려도 불가 변경 속출 주민번호 온라인"
+  ],
+  [
+   "2026-08-12T13:22:18.800699+09:00",
+   "파라미터 추격 오픈소스 만든다 1조"
   ]
  ],
- "last_run": "2026-08-12T13:20:42.265645+09:00",
+ "last_run": "2026-08-12T13:22:38.015439+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
