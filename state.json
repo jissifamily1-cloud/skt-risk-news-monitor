@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20078441",
-  "https://www.sentv.co.kr/article/view/sentv202608120049",
-  "https://biz.sbs.co.kr/article_hub/20000328170?division=NAVER",
-  "http://www.kdfnews.com/news/articleView.html?idxno=186412",
-  "https://www.chosun.com/economy/money/2026/08/12/H2GRJEBDMJEB3AK4POOMMLQ7MY/",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1395073",
-  "https://www.sportsseoul.com/news/read/1628200",
-  "https://www.tgdaily.co.kr/news/articleView.html?idxno=406300",
   "https://www.gukjenews.com/news/articleView.html?idxno=3662440",
   "https://www.ngonews.kr/news/articleView.html?idxno=235259",
   "https://www.hani.co.kr/arti/economy/finance/1272504.html",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260813000016",
   "https://www.yna.co.kr/view/AKR20260813026400008?input=1195m",
   "https://www.ddaily.co.kr/page/view/2026081308440464221",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260813084916iZw"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260813084916iZw",
+  "https://www.slist.kr/news/articleView.html?idxno=758448",
+  "https://zdnet.co.kr/view/?no=20260812093811",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03755606645546992",
+  "https://www.newsis.com/view/NISX20260813_0003747177",
+  "https://www.newspim.com/news/view/20260813000100",
+  "https://www.mk.co.kr/article/12126140",
+  "https://dealsite.co.kr/articles/167100",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62260"
  ],
  "seen_titles": [
-  "KT,2분기영업익6483억원…전년比36.1%감소",
-  "KT,2026년2분기영업이익6483억원⋯전년比36.1%↓",
-  "KT,2분기영업익6483억…B2B·AX성장세가속",
-  "'9회6득점'7-3대역전극…'7연승'KT,60승선착+우승확률77.8%확보",
-  "[금융권이모저모]삼성자산운용,국내S&P500공모펀드첫순자산1조원...",
-  "미국발AI훈풍에국내반도체주강세…삼성전자4%상승[특징주]",
-  "LG유플러스,AWS클라우드앞세워공공AX시장공략",
-  "KT,2분기영업익6483억원…전년비36.1%↓",
   "[속보]KT,2분기영업익6천483억원…1년전보다36%감소",
   "KT,2분기영업익6483억…과징금에순익줄고AX는성장",
   "LG전자오르면증시끝물?다시고개든‘고점징크스’",
@@ -6001,7 +5993,15 @@
   "[기획]PoC넘어성과로…기업AX,'모델'보다'운영'이중요",
   "iM증권\"LG전자,본업강화·신사업기대…목표가25만원상향\"",
   "지니언스,한국거래소'코스닥라이징스타'4년연속선정",
-  "젠슨황,美직원이뽑은'최고CEO'1위"
+  "젠슨황,美직원이뽑은'최고CEO'1위",
+  "공차,8월'공차데이'→최대50%할인제휴프로모션",
+  "샌더스의'AI멈춤'경고…미국의기술패권에독인가약인가",
+  "KB자산운용,'RISE미국대표지수ETF'순자산3조돌파",
+  "iM證\"LG전자,캐시카우전장에로봇신사업까지…목표가25만원으로↑\"",
+  "[모닝리포트]\"반도체가끌고CPI가받치고…증시강세전망\"",
+  "‘일회성’걷어낸KT,2분기깜짝호실적…AX로날개단다",
+  "KT밀리의서재,통신제휴한계돌파…B2C·IP·AI로돌파구",
+  "자율주행시장진출하는AMD…테슬라·엔비디아겨냥(?)"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,21 @@
   [
    "2026-08-13T08:48:24.652206+09:00",
    "27일 SK하이닉스 인디애나팹 2028년부터 생산 HBM 착공식"
+  ],
+  [
+   "2026-08-13T08:54:16.990602+09:00",
+   "단다 깜짝 2분기 날개 걷어낸 ~KT 일회성 호실적 AX로"
+  ],
+  [
+   "2026-08-13T08:54:16.990602+09:00",
+   "IP 제휴 AI로 ~KT 돌파 돌파구 KT밀리의서재 한계 통신 B2C"
+  ],
+  [
+   "2026-08-13T08:54:16.990602+09:00",
+   "자율주행 겨냥 시장 테슬라 진출하는 AMD"
   ]
  ],
- "last_run": "2026-08-13T08:52:38.944284+09:00",
+ "last_run": "2026-08-13T08:54:43.370400+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
