@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbnews.com/news/articleView.html?idxno=1011044",
-  "https://www.agrinet.co.kr/news/articleView.html?idxno=406336",
-  "https://www.namdonews.com/news/articleView.html?idxno=919663",
-  "https://www.newsis.com/view/NISX20260811_0003744147",
   "https://www.hankyung.com/article/202608116217g",
   "https://www.ekn.kr/web/view.php?key=20260811027581138",
   "https://www.asiatime.co.kr/article/20260811500077",
@@ -2999,13 +2995,13 @@
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546565",
   "https://theviewers.co.kr/View.aspx?No=4183408",
   "https://www.newsen.com/news_view.php?uid=202608121147326310",
-  "https://www.tokenpost.kr/news/ai/388957"
+  "https://www.tokenpost.kr/news/ai/388957",
+  "https://www.etnews.com/20260812000213",
+  "https://www.yna.co.kr/view/AKR20260812068000371?input=1195m",
+  "https://www.mk.co.kr/article/12125185",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856317"
  ],
  "seen_titles": [
-  "대전관광공사,작은도서관찾아가는'꿈돌이과학북마스터'운영",
-  "블로믹스,에오스레드리버스대만태국필리핀출시",
-  "서울우유,자체AI플랫폼'서울우유GPT'도입…디지털혁신시동",
-  "서울우유,사내전용'GPT'도입···AI업무혁신본격화",
   "[종목분석리포트]심텍,소캠2매출본격화로이익모멘텀강화…3분기...",
   "삼성SDS,국가AI연구용컴퓨팅사업에GPU'B300'공급",
   "SKT'세계1위'깜짝성적표…데이터센터확장이통사'선두'",
@@ -6001,7 +5997,11 @@
   "구광모·젠슨황2개월만에재회동⋯어떤사업논의하나?",
   "KT,2분기수익성둔화…AX·데이터센터성장세는지속",
   "이현균→오대환‘신병4’간부진에게도닥친심상치않은변화",
-  "AIIPO,공모가보다중요한건상장뒤‘유동성’…벤처자금재편신호"
+  "AIIPO,공모가보다중요한건상장뒤‘유동성’…벤처자금재편신호",
+  "81만교직원쓰는'K-에듀파인'클라우드대전환…IT서비스업계대형수...",
+  "반크,AI퍼뜨린'한국왜곡'잡을가짜뉴스추적플랫폼출범",
+  "안드로이드등에업은제미나이…10억명시대열었다",
+  "AI가PC안으로…엔비디아,'로컬AI'판키운다"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-08-12T11:52:25.416667+09:00",
    "논의하나 2개월 젠슨 재회동 구광모 사업 어떤 만에"
+  ],
+  [
+   "2026-08-12T11:58:16.784916+09:00",
+   "안으로 키운다 로컬 AI가 PC"
   ]
  ],
- "last_run": "2026-08-12T11:56:35.272101+09:00",
+ "last_run": "2026-08-12T11:58:42.721915+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
