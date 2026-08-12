@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661935",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167298",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=244030",
-  "https://www.munhwa.com/article/11608617",
-  "http://www.newsprime.co.kr/news/article.html?no=743404",
-  "http://www.datanews.co.kr/news/article.html?no=145974",
-  "https://news.dealsitetv.com/articles/174525",
-  "https://www.mt.co.kr/world/2026/08/11/2026081108484753173",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213672",
-  "https://www.newsis.com/view/NISX20260811_0003743816",
   "http://www.newsdream.kr/news/articleView.html?idxno=116019",
   "https://daily.hankooki.com/news/articleView.html?idxno=1394548",
   "https://www.etnews.com/20260811000023",
@@ -2999,19 +2989,19 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=363420",
   "https://www.medipana.com/news/articleView.html?idxno=415846",
   "https://www.newsis.com/view/NISX20260812_0003745267",
-  "http://www.inews24.com/view/1994022"
+  "http://www.inews24.com/view/1994022",
+  "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/08/06/20260806500119?wlog_tag3=naver",
+  "https://www.mt.co.kr/tech/2026/08/12/2026081208474721357",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3662242",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3662238",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3662240",
+  "https://www.youthdaily.co.kr/news/article.html?no=224973",
+  "http://www.whosaeng.com/172776",
+  "https://www.news1.kr/finance/general-stock/6256221",
+  "https://www.econovill.com/news/articleView.html?idxno=747746",
+  "https://www.itbiznews.com/news/articleView.html?idxno=221571"
  ],
  "seen_titles": [
-  "[위클리시그널]스타링크2분기실적'파란불',갤럭시Z8공식출시",
-  "해킹에놀란이통3사,보안에3353억원썼다…투자더늘린다",
-  "“환급금받아가세요”…AI입은스미싱에이통업계‘총력전’",
-  "\"개인정보유출책임못피한다\"...공정위,이통사불공정약관시정",
-  "[기획]알뜰폰'안심옵션'적용…실효성은'글쎄'",
-  "공급사쥐어짜고기술유출의혹…시장교란하는'포식자'[인사이드애...",
-  "스마트폰기반디핀'아큐라스트',한국공식커뮤니티오픈…13일AMA...",
-  "킨텍스,중기부‘오픈이노베이션’사업선정…AI·로봇기술적용실...",
-  "[해외시황]뉴욕증시,호르무즈협상불확실성·유가급등에'약보합'…...",
-  "NHN,2분기매출·영업익사상최대…AIGPU앞세워성장가속",
   "[뉴욕브리핑]호르무즈개방'오리무중'…3대지수동반하락",
   "MS,내달자체AI칩마이아300공개할듯…생산량확대",
   "[AI에이전트보안①]해커가된AI에이전트",
@@ -6001,7 +5991,17 @@
   "'고객'챙긴SKTvs'인프라·보안'살핀KT…CEO현장경영차별화눈길",
   "휴이노-KT,의료데이터전송·보안체계고도화협력",
   "앱켜면AI가읽을기사골라준다…뉴욕포스트'해밀턴'띄웠다",
-  "개인정보보호위원회\"스크래핑,전면금지아니다⋯한시적유예\""
+  "개인정보보호위원회\"스크래핑,전면금지아니다⋯한시적유예\"",
+  "이홍근경기도의회도시환경위원장,우만테크노밸리내SK브로드밴드방...",
+  "LGU+,AWS와손잡고공공클라우드사업확대",
+  "용인시도서관,맞춤추천도서서비스시작…대출이력기반추천",
+  "국도45호선확장사업입찰공고…용인~안성12.53㎞최대8차로로",
+  "용인시,우수중소기업10곳선정…3년간다양한혜택제공",
+  "포털검색흔든빅테크AI…챗GPT·제미나이'독주'",
+  "부정맥치료명가‘고려대안암병원’",
+  "KB證\"삼성전자,과거40%대급락후모두반등…상승세시작\"",
+  "LG유플러스,AWS손잡고공공클라우드시장정조준",
+  "월가와손잡은엔비디아…\"AI인프라투자,금융자산화되나\""
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,13 @@
   [
    "2026-08-12T08:58:17.546269+09:00",
    "스크래핑 유예 전면 아니다 한시적 개인정보보호위원회 금지"
+  ],
+  [
+   "2026-08-12T09:00:47.118258+09:00",
+   "클라우드 손잡고 공공 LG유플러스 정조준 AWS 시장 ~LGU"
   ]
  ],
- "last_run": "2026-08-12T08:58:44.624988+09:00",
+ "last_run": "2026-08-12T09:01:04.847468+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
