@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11608948",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720056",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=789833",
-  "https://www.bloter.net/news/articleView.html?idxno=670689",
-  "https://www.hankyung.com/article/2026081260596",
-  "https://biz.sbs.co.kr/article_hub/20000328139?division=NAVER",
-  "https://www.news2day.co.kr/article/20260812500042",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405453",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=363471",
-  "https://www.ddaily.co.kr/page/view/2026081209384541979",
-  "https://www.ddaily.co.kr/page/view/2026081209405002130",
   "https://dealsite.co.kr/articles/166838",
   "https://www.etnews.com/20260812000066",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608120437&t=NN",
@@ -2999,20 +2988,20 @@
   "https://www.slist.kr/news/articleView.html?idxno=758432",
   "http://www.fnnews.com/news/202608130723354872",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050897",
-  "https://www.sentv.co.kr/article/view/sentv202608130006"
+  "https://www.sentv.co.kr/article/view/sentv202608130006",
+  "http://www.thebigdata.co.kr/view.php?ud=202608110747238927d0a8833aad_23",
+  "https://platum.kr/archives/292413",
+  "https://www.news1.kr/industry/distribution/6257500",
+  "https://www.sedaily.com/article/20078810",
+  "https://www.cstimes.com/news/articleView.html?idxno=716634",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271653",
+  "http://www.joseilbo.com/news/news_read.php?uid=573746&class=53",
+  "https://www.ajunews.com/view/20260813082138195",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=86499",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692675",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=363485"
  ],
  "seen_titles": [
-  "[속보]KT,2분기영업익6483억…전년동기대비36.1%감소",
-  "엔비디아GPU가금융상품으로…10월'GPU선물시장'열린다",
-  "정재헌SK텔레콤지극히방어적AI데이터센터전략:SK하이퍼통한리...",
-  "위에이알,자체개발ERP오픈소스로공개",
-  "대구시서구청,신평리시장300m구간에쿨링포그45대설치완료",
-  "정근모대전시의원,홍도·인동지하차도누수현장점검…\"조속히보수...",
-  "“선생님,하닉은요?”KB證,삼전조정끝…본격상승할것",
-  "[속보]KT,2분기영업익6483억원…전년比36.1%↓",
-  "[위클리오늘]LG유플러스소식(8.12)",
-  "비씨카드,베트남법인자금수혈…김영우대표첫'글로벌전략'좌표",
-  "美반도체훈풍에삼성전자·SK하이닉스↑…코스피6400선회복",
   "[이시각시황]코스피2%대강세·코스닥약세…전력설비·건설·LPG株...",
   "\"코스피,변동성안정화뚜렷…CPI지표와고유가변수\"<키움證>",
   "다나와\"생성형AI시대새로운쇼핑관문으로부상…가격비교·구매연...",
@@ -6001,7 +5990,18 @@
   "트렌핏,K패션크로스보더플랫폼'클로씨'오픈...북미·유럽진출지원",
   "\"남들팔때샀다\"...'돈나무언니'가찜한AI반도체종목3개는?",
   "[뉴욕증시]7월CPI둔화속혼조세…나스닥0.5%↑",
-  "SK하이퍼“메모리등SK그룹역량앞세워AI인프라공략”"
+  "SK하이퍼“메모리등SK그룹역량앞세워AI인프라공략”",
+  "SK텔레콤,통신상장기업브랜드평판8월빅데이터1위...KT·LG유플러스...",
+  "세종류DB를한몸에,그래파이시리즈A170억원유치",
+  "11번가,8월'T멤버십쇼핑페스타’제철먹거리최대50%할인",
+  "삼전닉스프리마켓4%급등…美반도체훈풍수혜[마켓시그널]",
+  "뉴욕증시,인플레둔화속AI낙관론재개…나스닥0.5%상승",
+  "[굿모닝!글로벌뉴욕증시]반도체투심은살아났으나대형기술주들은...",
+  "뉴욕증시,'AI주강세·물가둔화'혼조세...S&P500최고치근접",
+  "[마켓프리뷰]美CPI發금리부담완화…반도체훈풍에코스피반등기...",
+  "젠슨황,직원들이뽑은'최고의CEO'1위-엔비디아지지율99%",
+  "AI로낮아진해킹문턱…암호화폐업계\"BTC개발자에최신모델개방해...",
+  "KT,부동산기저효과에영업익36%↓...AX매출은22.3%성장"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,17 @@
   [
    "2026-08-13T08:22:20.040239+09:00",
    "역사의 교훈 파이낸싱과 닷컴버블 순환"
+  ],
+  [
+   "2026-08-13T08:28:18.485292+09:00",
+   "~KT AX 기저효과에 매출은 성장 영업익 부동산"
+  ],
+  [
+   "2026-08-13T08:28:18.485292+09:00",
+   "AI로 모델 낮아진 개방해 암호화폐 문턱 BTC 업계 최신 개발자에"
   ]
  ],
- "last_run": "2026-08-13T08:26:39.293889+09:00",
+ "last_run": "2026-08-13T08:28:43.040154+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
