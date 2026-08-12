@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719897",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89443",
-  "https://www.econovill.com/news/articleView.html?idxno=747651",
-  "https://www.inthenews.co.kr/news/article.html?no=90381",
-  "https://www.sentv.co.kr/article/view/sentv202608110052",
-  "https://byline.network/?p=9004111222614842",
-  "https://futurechosun.com/?p=157245",
-  "https://www.kado.net/news/articleView.html?idxno=2066012",
-  "https://www.thisisgame.com/articles/428732",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=86307",
   "https://www.cnbizm.com/news/articleView.html?idxno=311117",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444415",
   "https://www.kizmom.com/news/articleView.html?idxno=112025",
@@ -2999,19 +2989,19 @@
   "http://www.dailypop.kr/news/articleView.html?idxno=101471",
   "https://www.topstarnews.net/news/articleView.html?idxno=16161379",
   "http://www.inews24.com/view/1994224",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142934"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142934",
+  "https://www.kukinews.com/article/view/kuk202608120054",
+  "https://www.asiatime.co.kr/article/20260812500145",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41407",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156022",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050572",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=357323",
+  "https://www.techm.kr/news/articleView.html?idxno=154230",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120108",
+  "https://www.segye.com/newsView/20260812510487?OutUrl=naver",
+  "https://www.kyeongin.com/article/1768883"
  ],
  "seen_titles": [
-  "NHN,2분기영업익579억원…전부문성장하며분기최대실적",
-  "NHN,2분기영업익164%증가…역대분기최대실적",
-  "[Digital&Now]네이버D2SF,'엔닷라이트'후속투자…피지컬AI데이터...",
-  "SK쉴더스EQST,데프콘34서글로벌해커들과경쟁…AICTF글로벌5위",
-  "\"기업보안사업확장\"LG유플러스,ISEC서통합포트폴리오공개",
-  "KT,구글AI결합한초이스신규요금제출시",
-  "오픈AI,사이버보안특화모델‘GPT-5.6사이버’출시",
-  "오픈AI,보안특화모델‘GPT-5.6사이버’공개",
-  "KT-롯데百,AI마케팅시스템'RCS'구축",
-  "국내구글이용자수,네이버첫추월…챗GPT도다음의2.6배",
   "NHN,2026년2분기경영실적발표…분기최대매출·영업이익달성",
   "삼성SDS,국가AI연구용GPU공급맡는다-최신B300클러스터투입",
   "삼성전자,게임스컴2026서'풀스택게이밍'경험선보인다",
@@ -6001,7 +5991,17 @@
   "[뉴스줌인]'밀리의서재'의딜레마,실적은오르는데주가는'왜'그대로...",
   "구글제미나이앱,월간활성이용자10억명돌파",
   "미소정보기술'디파이(Dify)해커톤'대회개최",
-  "KT,'2분기B2BAI매출22%증가...플랫폼기업'체질개선성과가시화"
+  "KT,'2분기B2BAI매출22%증가...플랫폼기업'체질개선성과가시화",
+  "‘박윤영체제’기대감높인첫성적표…‘AX플랫폼컴퍼니’전환효...",
+  "'유가·폭염·기저효과'에들썩…8월물가다시3%대로",
+  "미소정보기술,노코드AI'디파이'로대학생AI에이전트개발생태계확...",
+  "LG유플러스,AWS손잡고공공클라우드시장공략본격화",
+  "KT박윤영,취임후첫성적표'영업익36%↓'…반등열쇠'AX'",
+  "[분석]KT,비용방어로2분기'깜짝실적'…영업익전망치웃돌아",
+  "KT,2분기실적'반등'...'AX플랫폼회사'전환본격화",
+  "KT,2분기영업이익6483억원,작년비36%감소…AX사업매출은22%증가",
+  "KT,2분기실적주춤…“해킹과징금·부동산기저효과”",
+  "ktwiz,60승선점…정규리그우승77.8%확률잡았다"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-08-12T11:16:19.129365+09:00",
    "보안 걱정 자동차 연구팀 세계적 학회 차량 고려대 국민대"
+  ],
+  [
+   "2026-08-12T11:20:28.777376+09:00",
+   "wiz 정규리그 잡았다 60승 우승 확률 선점 ~KT"
   ]
  ],
- "last_run": "2026-08-12T11:18:35.451803+09:00",
+ "last_run": "2026-08-12T11:20:50.381900+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
