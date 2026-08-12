@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20260811018800013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260811018700013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260811019200013?input=1196m",
-  "https://zdnet.co.kr/view/?no=20260811090404",
-  "https://www.etnews.com/20260811000029",
-  "https://www.seoultimes.news/news/article.html?no=2000098679",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=711961",
   "http://www.apparelnews.co.kr/news/news_view/?idx=226825",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691834",
   "https://www.bloter.net/news/articleView.html?idxno=670558",
@@ -2999,16 +2992,16 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=405449",
   "https://www.tvreport.co.kr/star/article/1068138/",
   "https://www.news1.kr/politics/assembly/6256309",
-  "https://www.youthdaily.co.kr/news/article.html?no=224975"
+  "https://www.youthdaily.co.kr/news/article.html?no=224975",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265608",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03630966645546664",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260812091116mlk",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=169675",
+  "https://www.ddaily.co.kr/page/view/2026081117082010745",
+  "https://www.seoultimes.news/news/article.html?no=2000098716",
+  "https://www.tokenpost.kr/news/breaking/388811"
  ],
  "seen_titles": [
-  "\"기업사칭걱정끝\"···롯데百,백화점최초'RCS'메시징시스템도...",
-  "메타,고성능PC서구동하는오픈웨이트AI'뮤즈글리머'공개",
-  "\"문서작성부터데이터분석까지\"서울우유,사내전용AI도입",
-  "개인정보보호위송무팀류승균팀장·박병준변호사,법률신문사방문",
-  "KT,구글AI결합한초이스신규라인업추가",
-  "밸브,스팀하드웨어배송망해킹…유럽고객개인정보유출",
-  "해외데이터이용자,e심이로밍제쳤다",
   "서울우유,자체‘GPT’업무에투입…회계·데이터분석에활용",
   "[AI역설]AI로업무줄었다는데,직원들은주90시간근무",
   "신원,AI기반운영체계구축",
@@ -6001,7 +5994,14 @@
   "AI결제시대오는데…해시드\"원화스테이블코인,'정산망·신원인증'...",
   "'정준영단톡방'8년만에…침묵깬이종현→승리·최종훈·정준영은어...",
   "재외동포청겨냥사이버공격,올해7개월간4271건",
-  "자체AI푼엔비디아…1조모델도'오픈소스'승부"
+  "자체AI푼엔비디아…1조모델도'오픈소스'승부",
+  "신한카드,'하이포인트플랜'신용카드2종출시",
+  "많이쓸수록적립률높아진다…신한카드‘하이포인트’2종출시",
+  "생성형AI검색기능대체…챗GPT·제미나이,이용경험률1·2위",
+  "美SMCI훈풍속...코스피'상승출발',코스닥은'장초반하락'",
+  "극장살리려‘홀드백’…자칫교각살우될라[강소현의방송통신문]",
+  "LG유플러스,AWS클라우드공공시장공급길열었다",
+  "마이클버리,엔비디아등4개종목하락베팅확대"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,21 @@
   [
    "2026-08-12T09:10:28.916149+09:00",
    "통한 방문자 증가 1년 다나와 생성형"
+  ],
+  [
+   "2026-08-12T09:14:22.662725+09:00",
+   "쓸수록 적립률 출시 높아진다 신한카드 2종 많이 하이포인트"
+  ],
+  [
+   "2026-08-12T09:14:22.662725+09:00",
+   "홀드백 극장 자칫 될라 교각살우 살리려"
+  ],
+  [
+   "2026-08-12T09:14:22.662725+09:00",
+   "하락 확대 버리 4개 마이클 베팅 종목"
   ]
  ],
- "last_run": "2026-08-12T09:12:37.775956+09:00",
+ "last_run": "2026-08-12T09:14:49.179353+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
