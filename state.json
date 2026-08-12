@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=207990",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87794",
-  "https://www.cnet.co.kr/view/?no=20260811132700",
-  "https://www.news1.kr/local/daejeon-chungnam/6255418",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=155991",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849996",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1394582",
-  "https://www.newsis.com/view/NISX20260811_0003744288",
   "https://www.donga.com/news/article/all/20260811/134456658/1",
   "https://www.ddaily.co.kr/page/view/2026081113350754728",
   "https://www.tokenpost.kr/news/cryptocurrency/388212",
@@ -2999,17 +2991,17 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1401566",
   "https://zdnet.co.kr/view/?no=20260812151616",
   "https://www.mediapen.com/news/view/1115872",
-  "https://www.kpinews.kr/newsView/1065579965128769"
+  "https://www.kpinews.kr/newsView/1065579965128769",
+  "https://www.sportsseoul.com/news/read/1627734",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3662898",
+  "https://sports.khan.co.kr/article/202608121532003?pt=nv",
+  "https://www.itworld.co.kr/article/4208402/모델-임차인에서-모델-소유자로-오픈-웨이트의-부상.html",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720130",
+  "https://www.newsis.com/view/NISX20260812_0003746384",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240957",
+  "https://biz.chosun.com/it-science/ict/2026/08/12/W757DAIZRFAA5KXFWZFXZU7ROU/"
  ],
  "seen_titles": [
-  "삼성SDS,국가AI연구용GPU자원지원...\"7월부터서비스개시\"",
-  "\"오픈소스와AI융합\"…오픈소스서밋,기술주권·인프라혁신전략조...",
-  "데이타솔루션,KB증권차세대정보계시스템구축완료",
-  "KT,구글과손잡고AI결합요금제4종출시…AI활용편의높인다",
-  "오픈AI,‘GPT-5.6사이버’출시…방어용‘데이브레이크블루·레드’...",
-  "한남대,국방부선발우수창업팀집중지원…스타트업캠프개최",
-  "Samsung-NTTDOCOMOAI-RANTestSignalsShiftTowardPredictive6GNet",
-  "토스인슈어런스'토스앱'밖으로영업망넓혀…웹보험상담개시",
   "[유통레이더]쿠팡,로보락코리아,신라호텔,크림,젝시믹스,대상웰라...",
   "본인전송요구권확대앞두고…'스크래핑'사업자3차사전협의접수",
   "엔비디아,월가6개사와710조원AI인프라금융플랫폼구축",
@@ -6001,7 +5993,15 @@
   "[기획]반도체부터로봇·AIDC까지…대기업,미래먹거리'베팅'",
   "[AI고속도로]AI바람탄韓클라우드,데이터센터투자전가열",
   "\"직원3만명매일쓴다\"...업무방식바꾼현대차그룹'AI전환'",
-  "\"독립운동후손돕는다\"…동화약품·모나미,광복절기념캠페인"
+  "\"독립운동후손돕는다\"…동화약품·모나미,광복절기념캠페인",
+  "‘9440억재산분할’노소영,최태원과소송중근황…최수종공연장서...",
+  "김제지평선축제,10월1~5일개최…'K-농경문화'와미래기술콘텐츠선보...",
+  "‘1년만에한국대회출전’김아림,“캐디‘딜런GPT’가시키는대...",
+  "모델임차인에서모델소유자로,오픈웨이트의부상",
+  "[Tech&Now]피씨엔,'모두의AI실험실'지원…플래티어,'슈마커'에A...",
+  "고려대·국민대,차량사이버보안표준제시…국제학회'최우수상'",
+  "SKT,국방AX정조준…'AI풀스택'구축본격화",
+  "통신업계2분기실적은SKT·LGU+웃고KT주춤"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-08-12T15:32:19.048924+09:00",
    "캠페인 동화약품 후손 돕는다 기념 모나미 광복절 독립운동"
+  ],
+  [
+   "2026-08-12T15:34:19.758341+09:00",
+   "실적은 2분기 주춤 웃고 ~LGU ~SKT ~KT 통신업계 LGU"
   ]
  ],
- "last_run": "2026-08-12T15:32:45.644648+09:00",
+ "last_run": "2026-08-12T15:34:38.110711+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
