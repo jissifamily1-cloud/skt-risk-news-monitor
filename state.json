@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260811500262",
-  "https://news.mtn.co.kr/news-detail/2026081108563068126",
-  "https://www.pressman.kr/news/articleView.html?idxno=103107",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3661289",
-  "https://www.mt.co.kr/policy/2026/08/11/2026081109412252894",
-  "https://www.bloter.net/news/articleView.html?idxno=670557",
-  "https://news.mtn.co.kr/news-detail/2026081109165547272",
   "http://www.newslock.co.kr/news/articleView.html?idxno=134170",
   "https://www.g-enews.com/view.php?ud=202608110910565956923c501012_1",
   "https://www.newsis.com/view/NISX20260811_0003743986",
@@ -2999,16 +2992,16 @@
   "https://view.asiae.co.kr/article/2026081115520848560",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720064",
   "https://www.sentv.co.kr/article/view/sentv202608120059",
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=2188"
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=2188",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856244",
+  "https://www.newsis.com/view/NISX20260812_0003745765",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692337",
+  "http://www.inews24.com/view/1994193",
+  "https://news.dealsitetv.com/articles/174612",
+  "https://www.etnews.com/20260812000150",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692333"
  ],
  "seen_titles": [
-  "삼성SDS,국가연구기관에엔비디아GPU지원",
-  "‘신병4’스페셜포스터공개…4배의재미X미스터리뉴페이스예고",
-  "롯데백화점,스팸걱정없는‘RCS메시징’도입…안심쇼핑·디지털소...",
-  "삼성SDS,국가AI인프라사업잇단선점...연구용GPU자원공급",
-  "GPU부터요금제까지…기업들의AI접목방식",
-  "고광완부시장·정은경장관,광산구수완숲지역아동센터'초등방학틈...",
-  "킨텍스,전시장내인공지능·로봇기술도입위해현장실증'착수'",
   "[로봇온에어]엔닷라이트,150억투자유치…피지컬AI게임체인저",
   "NHN,2분기게임·결제·기술고른성장...영업이익164%'점프'",
   "삼성SDS,153억규모국가AI컴퓨팅사업수주",
@@ -6001,7 +5994,14 @@
   "[집단소송,과잉구제의덫]①사고한번에中企존폐위기,과거소환'파...",
   "KT,2Q영업익전년비36%감소…\"일회성이익제외하면2%↑\"",
   "부동산이익기저에KT,2분기영업익36%↓…AX는22%성장",
-  "KT,고객보상비용에도이익늘었다...AX가새성장축"
+  "KT,고객보상비용에도이익늘었다...AX가새성장축",
+  "플래티어,슈마커플러스에젠서디스커버리적용",
+  "\"스테이블코인,발행보다유통·정산이돈된다\"…AI결제,98%달러가선...",
+  "'싼맛에중국산AI'옛말…알리바바,연30달러AI유료구독도입",
+  "KT,2분기영업익6483억전분기比34%↑⋯AIDC·부동산·콘텐츠성장[...",
+  "KT,AX성장에도본업부진…2Q영업익36%감소",
+  "휴이노,KT와의료데이터전송·보안인프라구축맞손",
+  "AI가수학연구정면진입…오픈AI성과에검증·공로논란"
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-08-12T10:22:17.122427+09:00",
    "보상 고객 비용에도 성장축 이익 ~KT AX가 늘었다"
+  ],
+  [
+   "2026-08-12T10:24:16.184545+09:00",
+   "검증 연구 논란 수학 성과에 공로 정면 AI가 진입"
   ]
  ],
- "last_run": "2026-08-12T10:22:44.573337+09:00",
+ "last_run": "2026-08-12T10:24:40.957454+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
