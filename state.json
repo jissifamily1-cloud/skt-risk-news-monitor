@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20078293",
-  "http://www.srtimes.kr/news/articleView.html?idxno=209704",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635425",
-  "https://www.hankyung.com/article/202608114880g",
-  "https://www.ajunews.com/view/20260811161248116",
-  "http://www.inews24.com/view/1993980",
-  "https://www.ajunews.com/view/20260811143953726",
   "https://www.ajunews.com/view/20260811142959676",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=856005",
   "https://news.dealsitetv.com/articles/174570",
@@ -2999,16 +2992,16 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429829",
   "https://www.delighti.co.kr/news/articleView.html?idxno=120135",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=856393",
-  "http://www.fnnews.com/news/202608121641353971"
+  "http://www.fnnews.com/news/202608121641353971",
+  "https://view.asiae.co.kr/article/2026081216532261399",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=597484",
+  "https://www.newsis.com/view/NISX20260812_0003746580",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=556528",
+  "https://news.mtn.co.kr/news-detail/2026081216053328459",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290213",
+  "https://news.mtn.co.kr/news-detail/2026081216364286529"
  ],
  "seen_titles": [
-  "이통3사,샤오미신제품'뚝'…1년째정체",
-  "재계호소에도…與,집단소송제‘3년소급적용’강행",
-  "이통3사,AI활용경쟁…통신·금융·산업으로확장중",
-  "SKT,전세계통신사중데이터센터확장1위",
-  "\"미국·중국만있는줄알았지\"…수학金찍은'토종AI'정체",
-  "[권기원칼럼]AI데이터센터메가프로젝트속도전…기업도선제대응...",
-  "SKT,데이터센터확장글로벌통신사1위…소프트뱅크·NTT제쳐",
   "[꽉막힌통신시장,AI로뚫는다]통신3사,AIDC삼국지…법인분리·직...",
   "[꽉막힌통신시장,AI로뚫는다]KT,AIDC법인신설대신본사직할카...",
   "中중저가폰,한국서고전…'칩플레이션'탓?",
@@ -6001,7 +5994,14 @@
   "SK하이닉스,美인디애나팹27일착공식…최태원참석여부관심",
   "KT알파,상반기영업익262억원'선전'…거래규모작년보다9%증가",
   "KT알파,상반기영업이익262억원…전년比0.3%↑",
-  "고려대-국민대,달리는차해킹탐지돕는데이터로국제학회최우수상"
+  "고려대-국민대,달리는차해킹탐지돕는데이터로국제학회최우수상",
+  "SK하이닉스,美인디애나팹27일착공식…최태원·젠슨황회동주목",
+  "LG유플러스,AWS연계공공클라우드중개서비스공식등록",
+  "KT알파,상반기영업익262억전년比↑…AI·데이터기반수익성강화",
+  "경북대,엔비디아,HD현대로보틱스와협력해인공지능전환나선다",
+  "오픈AI,'보안전문가'까지넘본다...보안기업먹거리는?",
+  "미래준비하는SK텔레콤…'AIDC'에승부수",
+  "호남반도체두고여야공방...삼전닉스가원했나,정부가떠밀었나"
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,21 @@
   [
    "2026-08-12T16:52:25.798547+09:00",
    "개발 요구하는 상원의원이 이유는 중단 샌더스 버니"
+  ],
+  [
+   "2026-08-12T16:56:18.245292+09:00",
+   "~SKT 승부수 준비하는 AIDC 미래"
+  ],
+  [
+   "2026-08-12T16:56:18.245292+09:00",
+   "공방 호남 떠밀었나 삼전닉스가 여야 반도체 원했나 정부가 두고"
+  ],
+  [
+   "2026-08-12T16:56:18.245292+09:00",
+   "먹거리는 넘본다 전문가 보안 까지 보안기업"
   ]
  ],
- "last_run": "2026-08-12T16:54:34.368128+09:00",
+ "last_run": "2026-08-12T16:56:43.911058+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
