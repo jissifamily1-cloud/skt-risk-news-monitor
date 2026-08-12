@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.starnewsk.com/news/articleView.html?idxno=58082",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1394584",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=105148",
-  "https://www.etnews.com/20260811000061",
-  "https://www.gokorea.kr/news/articleView.html?idxno=874623",
-  "http://www.4th.kr/news/articleView.html?idxno=2116101",
-  "https://www.newsis.com/view/NISX20260811_0003743863",
-  "https://kpenews.com/View.aspx?No=4181682",
-  "https://www.gokorea.kr/news/articleView.html?idxno=874614",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1282798",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3661270",
   "http://www.fnnews.com/news/202608110935191082",
   "https://www.cbci.co.kr/news/articleView.html?idxno=597038",
   "https://www.smartbizn.com/news/articleView.html?idxno=150890",
@@ -2999,20 +2988,20 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260812010003932",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692318",
   "https://www.newspim.com/news/view/20260812000334",
-  "https://www.hankyung.com/article/202608126090g"
+  "https://www.hankyung.com/article/202608126090g",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3662476",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03962246645546664",
+  "https://www.mk.co.kr/article/12124013",
+  "https://www.tleaves.co.kr/news/articleView.html?idxno=9683",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065574879186151",
+  "https://www.wikitree.co.kr/articles/1151917",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=442687",
+  "https://www.seoultimes.news/news/article.html?no=2000098722",
+  "https://www.asiatime.co.kr/article/20260812500078",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=850083",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856221"
  ],
  "seen_titles": [
-  "NHN,2분기매출7579억·영업익579억···분기최대실적",
-  "코스피,미·이란협상불확실성에6200선후퇴...코스닥도숨고르기",
-  "'씨엔블루출신'이종현,8년만'뷰티마케터'근황공개...\"살아보려일...",
-  "SKT,'에이닷엑스K2'수리추론지표서최상위…수학추론강점",
-  "LG유플러스,더강해진'통합보안포트폴리오'내세워ISEC2026참가",
-  "오픈AI,고급취약점악용연구AI'GPT-5.6사이버'출시",
-  "오픈AI,보안전담모델'GPT-5.6사이버'공개…보안질문95%응답",
-  "삼성SDS,국가AI연구에엔비디아B300공급…GPU서비스개시",
-  "LGU+,기업보안시장공략나서…\"계정·네트워크·클라우드한번에\"",
-  "롯데백화점,멀티미디어기능·보완성겸비..RCS메시징시스템도입",
-  "구자욱\"우승하고FA얘기하자\"…81경기타율0.343질주",
   "[오늘의일정]8월11일화요일스포츠경기",
   "세종청년센터'사이사이공방'운영…청년주거자립역량강화",
   "킨텍스,AI·로봇기술전시장에적용…안전·운영효율높인다",
@@ -6001,7 +5990,18 @@
   "글로벌AI레버리지ETF투기광풍…한국선코스피변동성비트코인추...",
   "KT,2분기연결매출6조6799억·영업익6483억...AX사업22.3%성장",
   "KT,2분기영업익6483억원…전년비36%감소",
-  "KT,직전분기대비영업익34.3%증가…'AX사업'성장세뚜렷"
+  "KT,직전분기대비영업익34.3%증가…'AX사업'성장세뚜렷",
+  "여수산단고도화논의…전남광주특별시,전문가간담회개최",
+  "플래티어‘젠서디스커버리’,슈마커플러스에적용…에이전틱커머스...",
+  "조이시티‘프리스타일리부트’,더쉽게더오래즐길수있게‘재구...",
+  "[분석]'체질개선'NHN,역대최대분기실적…성장모멘텀확보",
+  "삼성자산운용‘삼성미국S&P500인덱스펀드’,S&P500공모펀드최초순자...",
+  "'정준영단톡방'그가수,돌연이혼고백하더니…SNS복귀하루만에...",
+  "KT,2분기영업이익36%줄어든6483억원…AX·데이터센터는성장세",
+  "KT박윤영號,2분기영업익6483억원전년比36.1%감소",
+  "자체모델에월가맞손…엔비디아,AI대제국완성하나",
+  "KT영업익,1년새36.1%줄어…지난해아파트분양이익기저효과",
+  "다나와\"AI플랫폼유입119%급증\""
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,21 @@
   [
    "2026-08-12T10:06:18.059112+09:00",
    "AX ~KT 사업 영업익34 뚜렷 성장세 대비 분기 직전 증가"
+  ],
+  [
+   "2026-08-12T10:08:17.374048+09:00",
+   "지난해 ~KT 1년새 기저효과 분양이익 줄어 아파트 영업익"
+  ],
+  [
+   "2026-08-12T10:08:17.374048+09:00",
+   "월가 맞손 대제국 자체 완성하나 모델에"
+  ],
+  [
+   "2026-08-12T10:08:17.374048+09:00",
+   "유입 플랫폼 다나와 급증"
   ]
  ],
- "last_run": "2026-08-12T10:06:41.535414+09:00",
+ "last_run": "2026-08-12T10:08:44.458390+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
