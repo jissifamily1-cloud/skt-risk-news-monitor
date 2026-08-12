@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112855453",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208003",
-  "https://www.khan.co.kr/article/202608102039025",
-  "http://www.popcornnews.net/news/articleView.html?idxno=129228",
-  "https://www.mk.co.kr/article/12123185",
   "https://www.ytn.co.kr/_ln/0102_202608101850373632",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=404723",
   "https://sateconomy.co.kr/news/view/1065598245259696",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20260812_0003746636",
   "https://www.yna.co.kr/view/AKR20260812150700082?input=1195m",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/11/2026081190260.html",
-  "https://www.sedaily.com/article/20078726"
+  "https://www.sedaily.com/article/20078726",
+  "https://www.donga.com/news/Economy/article/all/20260812/134467611/2",
+  "https://www.tokenpost.kr/news/breaking/389205",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692551",
+  "https://news.appstory.co.kr/daily19483",
+  "https://www.thepublic.kr/news/articleView.html?idxno=314763"
  ],
  "seen_titles": [
-  "북한해킹조직김수키,로컬LLM·RAG까지구축…AI공격체계본격화",
-  "통신3사“AIDC증설”…현실화‘산넘어산’",
-  "통신3사,AI·고객경험소식나란히전해…SKT는'기억'·KT는'AI상담'·...",
-  "“일못하는사람은몇번말해도못고쳐”…피지컬AI인턴,현장서무...",
-  "[기업]\"독립운동발자취따라서\"...SKT광복절달리기코스제공",
   "SKT,통신AI평가체계'텔에이전트벤치'통해해외에서'샤라웃'",
   "통신3사,AI활용·고객접점확대…서비스영역넓힌다",
   "\"AI로독립운동가발자취복원\"…SKT,'기억하길'공개",
@@ -6001,7 +5996,12 @@
   "엔비디아5천억＄금융플랫폼…순환금융우려완화냐?재점화냐?",
   "독일정보기관에'작전권한'부여…\"게슈타포냐\"반발도",
   "[따져보니]쿠팡도안되는데…구글통제가능할까?",
-  "서울대,로보틱스연구동짓는다…엔비디아조인트랩도한곳에"
+  "서울대,로보틱스연구동짓는다…엔비디아조인트랩도한곳에",
+  "NH농협은행,AI컨택센터출범",
+  "여러가상자산기업,AI기업에비트코인개발자모델접근권요구",
+  "위메이드맥스,2분기영업손실154억원…적자축소",
+  "오픈AI,고위험보안작업거부줄인AI공개…AWS에서도이용가능",
+  "앤스로픽·오픈AI·딥시크·문샷AIIPO추진…미·중AI'상장경쟁'"
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,13 @@
   [
    "2026-08-12T18:24:20.081045+09:00",
    "먼저 출격 채비 뛰어든 ~SKT 네이버도 보안 LG"
+  ],
+  [
+   "2026-08-12T18:30:38.101936+09:00",
+   "상장 경쟁 딥시크 문샷AI IPO"
   ]
  ],
- "last_run": "2026-08-12T18:28:43.444507+09:00",
+ "last_run": "2026-08-12T18:31:02.010157+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
