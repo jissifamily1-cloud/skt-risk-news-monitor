@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=90386",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=418099",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691911",
-  "http://www.fnnews.com/news/202608111055518850",
-  "https://www.smartbizn.com/news/articleView.html?idxno=150902",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8633890",
   "https://www.kbmaeil.com/article/20260806500181",
   "https://www.fetv.co.kr/news/articleView.html?idxno=308185",
   "https://www.tokenpost.kr/news/cryptocurrency/388139",
@@ -2999,15 +2993,15 @@
   "https://www.tfmedia.co.kr/news/article.html?no=206405",
   "https://www.newsgn.com/news/articleView.html?idxno=567523",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691902",
-  "http://www.joseilbo.com/news/news_read.php?uid=573705&class=53"
+  "http://www.joseilbo.com/news/news_read.php?uid=573705&class=53",
+  "https://news.dealsitetv.com/articles/174621",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271607",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458571",
+  "https://www.news1.kr/finance/market-exr/6256786",
+  "http://www.newstomato.com/ReadNews.aspx?no=1310038&inflow=N",
+  "https://www.news1.kr/finance/market-exr/6256769"
  ],
  "seen_titles": [
-  "[증시타임]유가부터AI·고용까지…美증시·韓증시변동성향방은?",
-  "\"AI부품없어서못판다\"…삼성전기,내년영업익4조원대'껑충'",
-  "LG유플러스,보안컨퍼런스‘ISEC2026’참가…통합보안포트폴리오...",
-  "LG유플러스,ISEC2026서기업용통합보안포트폴리오공개",
-  "中최상위AI도여전히엔비디아에종속…자국칩전환늦어지는이유는",
-  "\"엔비디아는쉬는데삼성전자는뛴다\"…증권가,메모리재평가주목",
   "문자에도'신분증'붙인다···롯데百,RCS로고객소통바꾼다",
   "[무등의아침]KIA,11일만에실전재개…삼성·두산홈6연전서상위권...",
   "공덕비를찾아가다",
@@ -6001,7 +5995,13 @@
   "[서기수의경제+]젠슨황이한국에던진‘4개의AI승부수’",
   "다시시작된프로야구,900만관중돌파",
   "샌더스美상원의원\"통제못할AI개발멈춰라\"…오픈AI·앤트로픽·메...",
-  "삼성운용S&P500펀드,순자산1조원돌파…대표공모펀드입증"
+  "삼성운용S&P500펀드,순자산1조원돌파…대표공모펀드입증",
+  "[보험·카드24시]삼성생명,뉴플러스원건강보험개정출시外",
+  "NH농협은행상담센터진화...생성형AI품은차세대컨택센터오픈",
+  "[스마트건설2030]\"레미콘물량산출·외벽점검까지\"···호반건설,AI...",
+  "구광모·젠슨황회동기대에LG전자12%급등[핫종목]",
+  "정책모멘텀실종·SK하닉중복상장악재…탄력잃은코스피",
+  "삼전닉스7%급등,코스피6600선회복…매수사이드카발동[장중시황]"
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,17 @@
   [
    "2026-08-12T13:52:19.310852+09:00",
    "승부수 젠슨 4개의 황이 한국에 던진"
+  ],
+  [
+   "2026-08-12T13:56:16.459745+09:00",
+   "실종 악재 모멘텀 잃은 중복상장 코스피 정책 탄력 SK하닉"
+  ],
+  [
+   "2026-08-12T13:56:16.459745+09:00",
+   "발동 회복 6600선 코스피 사이드카 매수 급등 삼전닉스"
   ]
  ],
- "last_run": "2026-08-12T13:54:37.130014+09:00",
+ "last_run": "2026-08-12T13:56:42.653077+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
