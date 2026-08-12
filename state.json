@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849940",
-  "https://www.sentv.co.kr/article/view/sentv202608110050",
-  "https://sports.khan.co.kr/article/202608111020003?pt=nv",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3661334",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3661348",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3661304",
-  "https://www.pharmnews.com/news/articleView.html?idxno=305515",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336356",
   "https://www.yna.co.kr/view/AKR20260811057000017?input=1195m",
   "http://www.datanews.co.kr/news/article.html?no=145981",
@@ -2999,16 +2992,16 @@
   "https://bizhankook.com/articles/line-group-owner-dongyang-architects.html",
   "https://www.the-today.com/news/articleView.html?idxno=88365",
   "https://www.ziksir.com/news/articleView.html?idxno=142905",
-  "https://h21.hani.co.kr/arti/economy/economy_general/59714.html"
+  "https://h21.hani.co.kr/arti/economy/economy_general/59714.html",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=877693",
+  "https://www.kbsm.net/news/view.php?idx=530111",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167954",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444542",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04293526645546664",
+  "https://biz.heraldcorp.com/article/10838586",
+  "https://www.g-enews.com/view.php?ud=202608121030133909fbbec65dfb_1"
  ],
  "seen_titles": [
-  "안전∙편의∙몰입잡는다…LG∙KT∙삼성,디지털서비스강화",
-  "KT,'초이스'요금제에구글AI결합…9만원대",
-  "[IT라운지]엘리스'AI연구GPU공급'·리멤버'AX페스타'·'날씨AI팩토리...",
-  "LGU+,ISEC2026참가해기업통합보안솔루션선봬",
-  "KT,구글AI결합한‘초이스요금제’신규라인업출시",
-  "폭염경보속80대어르신쓰러져…창녕군공무원신속대처로병원이송",
-  "창녕문화예술회관서'다시돌아온동춘서커스'무료공연열린다",
   "폭염·가뭄현장찾은밀양시장…경로당냉방시설점검",
   "중국수출'로봇·AI·혁신의약품재편,제품제조에서기술이전으로",
   "네이버D2SF,피지컬AI데이터스타트업'엔닷라이트'에150억투자",
@@ -6001,7 +5994,14 @@
   "대기업오른라인그룹,오너일가독특한지배구조와'사촌경영'눈길",
   "[이슈]솔리다임상장과실,SK하이닉스개미보다최태원에게더돌아가...",
   "LG유플러스,AWS중개서비스공공플랫폼등록…클라우드사업확대",
-  "‘AI토건사업’3대메가프로젝트,청구서가밀려온다"
+  "‘AI토건사업’3대메가프로젝트,청구서가밀려온다",
+  "미소정보기술,'디파이해커톤'으로AI혁신인재육성나선다",
+  "'챗GPT·제미나이'이용경험률1·2위...빅테크국내AI시장질주",
+  "총보다먼저마음을공격한다…전쟁의새로운전선[권호천의ICT인사이...",
+  "LG유플러스AWS기반공공클라우드시장공략,AX사업영역확대",
+  "오픈웨이트AI경쟁,‘로컬AI’로번진다…엔비디아,생태계선점",
+  "[사설]엔비디아가쏘아올린‘AI의금융화’,기회와리스크잘살펴야",
+  "러시아순항미사일에엔비디아AI칩적발…서방부품5800개유입"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,21 @@
   [
    "2026-08-12T11:08:17.042520+09:00",
    "메가프로젝트 청구서가 3대 밀려온다 토건사업"
+  ],
+  [
+   "2026-08-12T11:10:27.906547+09:00",
+   "생태계 경쟁 번진다 로컬 선점 오픈웨이트"
+  ],
+  [
+   "2026-08-12T11:10:27.906547+09:00",
+   "쏘아올린 금융화 리스크 엔비디아가 살펴야 기회와 AI의"
+  ],
+  [
+   "2026-08-12T11:10:27.906547+09:00",
+   "유입 5800개 부품 서방 적발 러시아 순항미사일에"
   ]
  ],
- "last_run": "2026-08-12T11:08:39.032377+09:00",
+ "last_run": "2026-08-12T11:10:51.134614+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
