@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134170",
-  "https://www.g-enews.com/view.php?ud=202608110910565956923c501012_1",
-  "https://www.newsis.com/view/NISX20260811_0003743986",
-  "https://www.ddaily.co.kr/page/view/2026081009172588187",
-  "https://lawtalknews.co.kr/article/WIF7OAZU6LFZ",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134172",
-  "https://news.mtn.co.kr/news-detail/2026081109300370574",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167790",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050041",
-  "http://www.newskr.kr/news/articleView.html?idxno=105520",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635347",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213675",
   "https://www.g-enews.com/view.php?ud=20260811093958450844093b5d4e_1",
   "https://www.mk.co.kr/article/12123751",
@@ -2999,20 +2988,20 @@
   "http://www.inews24.com/view/1994193",
   "https://news.dealsitetv.com/articles/174612",
   "https://www.etnews.com/20260812000150",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692333"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692333",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=361624",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=809445",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167939",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1174923",
+  "https://www.ziksir.com/news/articleView.html?idxno=142896",
+  "https://www.imaeil.com/page/view/2026081210220312827",
+  "http://www.datanews.co.kr/news/article.html?no=146002",
+  "https://www.g-enews.com/view.php?ud=20260812101402456544093b5d4e_1",
+  "https://www.sidae.com/article/2026081209522371847",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110379",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692341"
  ],
  "seen_titles": [
-  "[로봇온에어]엔닷라이트,150억투자유치…피지컬AI게임체인저",
-  "NHN,2분기게임·결제·기술고른성장...영업이익164%'점프'",
-  "삼성SDS,153억규모국가AI컴퓨팅사업수주",
-  "코스피,美증시약세에숨고르기…6200선하락출발",
-  "NHN클라우드,해외고객과GPU서비스계약임박…日데이터센터확보검...",
-  "전력·환경논란에뿔난주민들…美데이터센터건설금지구역500곳돌...",
-  "내폰에서해커가빼간'그영상',유포되면촬영한나도처벌될까?",
-  "LG유플러스,'ISEC2026'참가…기업용통합보안포트폴리오선봬",
-  "오픈AI,보안특화AI'GPT-5.6사이버'출시",
-  "오픈AI,'GPT-5.6사이버'출시…'데이브레이크'블루·레드로이원화",
-  "구글,네이버추월…'이용자수1위'등극",
   "구글,네이버꺾어...생성형AI타고뒤집힌'검색1위'",
   "[식음료브리핑]다이닝브랜즈그룹,'일하기좋은기업'인증획득외",
   "삼성SDS,국가AI연구용GPU서비스개시···B300기반클러스터제...",
@@ -6001,7 +5990,18 @@
   "KT,2분기영업익6483억전분기比34%↑⋯AIDC·부동산·콘텐츠성장[...",
   "KT,AX성장에도본업부진…2Q영업익36%감소",
   "휴이노,KT와의료데이터전송·보안인프라구축맞손",
-  "AI가수학연구정면진입…오픈AI성과에검증·공로논란"
+  "AI가수학연구정면진입…오픈AI성과에검증·공로논란",
+  "또펀드로넘어간자동차렌탈",
+  "[Weekly백화점·면세점]현대百·신세계百·롯데百",
+  "프랑스언론\"구글AI요약에트래픽급감\"…당국에개입요청",
+  "JW중외제약주가,급등세...이유는?",
+  "[특징주]반도체주에다시훈풍…삼성전자·SK하이닉스동반상승",
+  "[여의도단신]미래에셋증권·한국투자증권·삼성자산운용",
+  "KT,2분기매출·영업이익모두줄었다",
+  "[공시]KT,2분기영업익6483억원..전년대비36.1%감소",
+  "KT2분기영업이익6483억원…전년대비36%↓",
+  "KT,2분기영업이익6,483억원…1분기대비회복",
+  "영상시대에수천단어…AICEO들이장문선언에빠진이유"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-08-12T10:24:16.184545+09:00",
    "검증 연구 논란 수학 성과에 공로 정면 AI가 진입"
+  ],
+  [
+   "2026-08-12T10:26:17.609241+09:00",
+   "수천 빠진 이유 장문 단어 CEO들이 시대에 선언에 영상"
   ]
  ],
- "last_run": "2026-08-12T10:24:40.957454+09:00",
+ "last_run": "2026-08-12T10:26:39.285239+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
