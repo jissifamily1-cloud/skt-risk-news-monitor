@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10837459",
-  "https://www.news1.kr/local/gyeonggi/6255592",
-  "http://www.segyebiz.com/newsView/20260811515565?OutUrl=naver",
-  "https://view.asiae.co.kr/article/2026081114160527612",
-  "http://www.fnnews.com/news/202608101417533384",
-  "http://www.breaknews.com/1228166",
-  "https://www.mt.co.kr/future/2026/08/11/2026081108482651455",
-  "https://www.mydaily.co.kr/page/view/2026081113361518114",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444402",
   "http://www.fnnews.com/news/202608111003030157",
   "http://www.newslock.co.kr/news/articleView.html?idxno=134214",
@@ -2999,17 +2991,17 @@
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=244188",
   "https://www.it-b.co.kr/news/articleView.html?idxno=89476",
   "https://www.joongang.co.kr/article/25452793",
-  "https://www.mt.co.kr/industry/2026/08/12/2026081213313250230"
+  "https://www.mt.co.kr/industry/2026/08/12/2026081213313250230",
+  "http://www.metroseoul.co.kr/article/20260812500338",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84235",
+  "https://www.betanews.net/article/view/beta202608120055",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476785",
+  "https://www.etnews.com/20260812000391",
+  "https://www.donga.com/news/Economy/article/all/20260812/134465812/1",
+  "https://www.jjan.kr/article/20260806500213",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=258615"
  ],
  "seen_titles": [
-  "퇴출위기에서대반전!기다림의미학이만든폭풍질주…7월MVP3인방낳...",
-  "코트라,‘수출다변화전략회의’개최…수출다변화전략·실행방안...",
-  "킨텍스,중기부'오픈이너베이션'사업선정…AI·로봇현장실증",
-  "구글,첫월간이용자1위…네이버와‘AI경쟁’점입가경",
-  "반도체의존낮춘다…코트라,'수출다변화전략회의'개최",
-  "방미통위,방송콘텐츠해외진출지원...아시아최대시장참가작모집",
-  "KT,구글생성형AI결합‘초이스요금제’신규라인업출시",
-  "엔닷라이트,150억투자유치…피지컬AI용3D데이터시장공략",
   "[재계빅4,하반기승부수②]이재용,‘반도체삼성’명예회복…아산...",
   "[김재섭의뒤집어보기]\"보편요금제로'모두의AI'실효성높이자\",다시...",
   "보험상담신청?···토스인슈에선앱없어도된다",
@@ -6001,7 +5993,15 @@
   "에이아이웍스,캄보디아크메르어민원서비스챗봇구축…저자원언어...",
   "에이아이웍스,'캄보디아크메르어민원서비스챗봇구축사례'국제학...",
   "“AI맹신말라”정의선도직접코딩…현대차AX성과발표",
-  "'가격비교'다나와,생성형AI시대새로운쇼핑관문으로부상"
+  "'가격비교'다나와,생성형AI시대새로운쇼핑관문으로부상",
+  "NH농협은행,AI컨택센터오픈",
+  "'안드로이드무덤'日홀린삼성갤럭시Z폴드8…초고가에도인기랭킹...",
+  "컴투스홀딩스,2026년2분기매출156억원기록",
+  "삼성자산운용,미국S&P500인덱스펀드순자산1조원돌파",
+  "KT알파,상반기취급고9%증가…수익성개선지속",
+  "엔비디아,오픈소스·금융으로AI반도체판넓힌다",
+  "[타향에서]피지컬AI는왜전북의새로운기회인가",
+  "농협은행,KT·상호금융과맞손'AI·데이터기반'차세대상담환경도..."
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,21 @@
   [
    "2026-08-12T16:32:26.552590+09:00",
    "관문으로 가격비교 시대 쇼핑 새로운 생성형 부상 다나와"
+  ],
+  [
+   "2026-08-12T16:34:19.566248+09:00",
+   "농협은행 기반 데이터 상호금융과 상담 ~KT 환경 맞손 차세대"
+  ],
+  [
+   "2026-08-12T16:34:19.566248+09:00",
+   "오픈소스 넓힌다 반도체 금융으로"
+  ],
+  [
+   "2026-08-12T16:34:19.566248+09:00",
+   "AI는 새로운 기회인가 전북의 피지컬"
   ]
  ],
- "last_run": "2026-08-12T16:32:44.023888+09:00",
+ "last_run": "2026-08-12T16:34:42.630825+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
