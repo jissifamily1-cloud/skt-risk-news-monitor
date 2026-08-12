@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026080517050947140",
-  "https://view.asiae.co.kr/article/2026080517232101607",
-  "https://www.ddaily.co.kr/page/view/2026080517073136804",
-  "http://www.4th.kr/news/articleView.html?idxno=2115870",
-  "https://www.mediapen.com/news/view/1114546",
-  "https://www.dt.co.kr/article/12076757",
   "https://www.ddaily.co.kr/page/view/2026080516525898249",
   "https://www.greened.kr/news/articleView.html?idxno=346919",
   "https://www.ajunews.com/view/20260805162733292",
@@ -2999,15 +2993,15 @@
   "http://www.journalist.or.kr/news/article.html?no=61448",
   "https://www.aitimes.com/news/articleView.html?idxno=213861",
   "https://www.yna.co.kr/view/AKR20260812157300017?input=1195m",
-  "https://kidd.co.kr/news/247005"
+  "https://kidd.co.kr/news/247005",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=06199206645546664",
+  "https://www.wikitree.co.kr/articles/1152083",
+  "https://news.tf.co.kr/read/economy/2353605.htm",
+  "https://news.jtbc.co.kr/article/NB12313078?influxDiv=NAVER",
+  "https://www.news1.kr/it-science/cc-newmedia/6257078",
+  "https://www.techm.kr/news/articleView.html?idxno=154257"
  ],
  "seen_titles": [
-  "SKT\"AIDC'선수요후구축\"'...재무악화·공급과잉우려'일축'(종합)",
-  "[컨콜종합]SKT\"대한민국대표AI인프라사업자로진화할것\"",
-  "SKT,AI인프라성장에2분기실적방긋…영업익67%↑",
-  "SKT\"5GWAIDC,고객확보후구축\"…직접투자최소화하며주도권확보...",
-  "[컨콜종합]SKT,영업익67%반등…3300억출자해AIDC5GW시동",
-  "SKT\"AIDC매출판교사업으로급증…고객확보후5GWDC구축\"",
   "SKT,해킹후유증메운AI…'SK하이퍼'로성장동력키운다(종합)",
   "[컨콜]SKT\"15GWAIDC,고객확보후건설..직접투자최소화\"",
   "‘해킹터널’벗어난SKT…AI데이터센터매출날개달았다",
@@ -6001,13 +5995,15 @@
   "KBS새사장추천절차돌입…'15명'이사회완전체도갖춰지나",
   "인기오픈동영상모델'LTX-2.5'공개...엔비디아칩서10초영상6.8초...",
   "방미통위,구글·애플앱마켓결제행위시정조치추후의결",
-  "“오탐걸러내고해킹경로자연어로분석”…수모로직,대화형‘SOC..."
+  "“오탐걸러내고해킹경로자연어로분석”…수모로직,대화형‘SOC...",
+  "AAII평가점수13일공개…‘독파모’최종심사변수로",
+  "MS8월패치,라자루스가악용한커널제로데이도포함",
+  "KT알파,상반기영업익262억…취급고9%↑",
+  "낡은방송광고규제손질…총량17%→20%,중간광고기준합리화",
+  "방송광고규제푼다…하루광고총량20%로확대·중간광고30분부터",
+  "방미통위,인앱결제제재절차개시...구글-애플의견청취"
  ],
  "recent_sigs": [
-  [
-   "2026-08-12T13:14:16.285190+09:00",
-   "서남권이라고만 반도체 했다 누가 부지 제안했나 광주"
-  ],
   [
    "2026-08-12T13:18:17.026506+09:00",
    "CI 털려도 불가 변경 속출 주민번호 온라인"
@@ -6671,9 +6667,13 @@
   [
    "2026-08-12T19:12:18.224421+09:00",
    "SOC 경로 분석 대화형 수모로직 자연어로 걸러내고 오탐"
+  ],
+  [
+   "2026-08-12T19:14:16.703762+09:00",
+   "최종 변수로 심사 13일 독파모 공개 AAII 평가점수"
   ]
  ],
- "last_run": "2026-08-12T19:12:37.676650+09:00",
+ "last_run": "2026-08-12T19:14:40.634601+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
