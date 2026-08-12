@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=661935",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092167298",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3662243",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3662244",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008695427&plink=ORI&cooper=NAVER",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213664",
-  "https://biz.sbs.co.kr/article_hub/20000328145?division=NAVER",
   "https://www.asiatime.co.kr/article/20260812500044",
   "https://www.newspim.com/news/view/20260812000065",
   "https://www.chosun.com/economy/tech_it/2026/08/12/CLQWEOIRIVFTXKPHQU36CICLHU/",
@@ -2999,16 +2992,16 @@
   "https://dealsite.co.kr/articles/167017",
   "https://www.mediapen.com/news/view/1116066",
   "https://www.newsis.com/view/NISX20260812_0003745267",
-  "http://www.inews24.com/view/1994022"
+  "http://www.inews24.com/view/1994022",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=244880",
+  "https://weekly.donga.com/3/all/11/6345088/1",
+  "https://weekly.donga.com/3/all/11/6344962/1",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16162248",
+  "https://www.techm.kr/news/articleView.html?idxno=154223",
+  "https://weekly.donga.com/3/all/11/6345034/1",
+  "https://dealsite.co.kr/articles/166995"
  ],
  "seen_titles": [
-  "LGU+,AWS손잡고공공클라우드확대…정부디지털서비스등록",
-  "외국인관광객,환전없이도국내서디지털자산지갑결제한다",
-  "[위클리시그널]스타링크2분기실적'파란불',갤럭시Z8공식출시",
-  "해킹에놀란이통3사,보안에3353억원썼다…투자더늘린다",
-  "“환급금받아가세요”…AI입은스미싱에이통업계‘총력전’",
-  "\"개인정보유출책임못피한다\"...공정위,이통사불공정약관시정",
-  "[기획]알뜰폰'안심옵션'적용…실효성은'글쎄'",
   "공급사쥐어짜고기술유출의혹…시장교란하는'포식자'[인사이드애...",
   "용인시보건소,지역아동센터아동대상구강건강관리사업실시",
   "용인시,8월주민세신고·납부의달…정기분126억부과",
@@ -6001,7 +5994,14 @@
   "독파모2차평가막바지…'체급'vs'효율'승부",
   "[美증시특징주]통신장비업체노키아오랜만에9%급등…\"AI인프라매출...",
   "앱켜면AI가읽을기사골라준다…뉴욕포스트'해밀턴'띄웠다",
-  "개인정보보호위원회\"스크래핑,전면금지아니다⋯한시적유예\""
+  "개인정보보호위원회\"스크래핑,전면금지아니다⋯한시적유예\"",
+  "[오늘의주요일정·13일]행안부,폭염·가뭄재난대응중앙재난안전대...",
+  "“10년간일감걱정없다”…SK하이닉스용인클러스터증설현장",
+  "SKTAI모델‘A.XK2’,국제수학올림피아드서금메달수준성적",
+  "미국증시,CPI안도에기술주·반도체강세…엔비디아3%↑·다우약보합",
+  "[네이버밸류업②]엔비디아·두나무가바꾼계산법…네이버몸값다시...",
+  "머스크손잡은엔비디아고공행진…‘삼전닉스’도웃는다",
+  "[현대百그룹과제]'9부능선'넘은지주사요건갖추기…관건은속도"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,25 @@
   [
    "2026-08-13T07:04:16.700053+09:00",
    "선택 대면 강화 투자자 대신 컨콜 스킨십 ~KT"
+  ],
+  [
+   "2026-08-13T07:08:18.167197+09:00",
+   "모델 성적 국제수학올림피아드서 ~SKT K2 금메달 수준"
+  ],
+  [
+   "2026-08-13T07:08:18.167197+09:00",
+   "몸값 바꾼 계산법 네이버 다시 두나무가"
+  ],
+  [
+   "2026-08-13T07:08:18.167197+09:00",
+   "손잡은 행진 머스크 고공 삼전닉스 웃는다"
+  ],
+  [
+   "2026-08-13T07:08:18.167197+09:00",
+   "지주사 속도 넘은 요건 능선 갖추기 9부 관건은"
   ]
  ],
- "last_run": "2026-08-13T07:06:39.827537+09:00",
+ "last_run": "2026-08-13T07:08:50.240855+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
