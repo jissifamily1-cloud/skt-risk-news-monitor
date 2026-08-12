@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ibabynews.com/news/articleView.html?idxno=153619",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855994",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2262838",
-  "https://www.tokenpost.kr/news/market/388249",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1394775",
-  "https://www.yna.co.kr/view/AKR20260811087200009?input=1195m",
-  "https://www.aitimes.com/news/articleView.html?idxno=213802",
-  "https://www.viva100.com/article/20260811500946",
-  "https://www.donga.com/news/Inter/article/all/20260811/134457403/1",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=476341",
-  "https://www.newspim.com/news/view/20260811000792",
   "https://www.yna.co.kr/view/AKR20260811112900057?input=1195m",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000002162&cp=nv",
   "https://www.huffingtonpost.kr/article/259457",
@@ -2999,20 +2988,20 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=539691",
   "http://www.bizwnews.com/news/articleView.html?idxno=143139",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52115",
-  "https://www.bloter.net/news/articleView.html?idxno=670778"
+  "https://www.bloter.net/news/articleView.html?idxno=670778",
+  "https://www.newsgn.com/news/articleView.html?idxno=567618",
+  "https://biz.sbs.co.kr/article_hub/20000328299?division=NAVER",
+  "https://www.news1.kr/world/usa-canada/6257139",
+  "https://www.irobotnews.com/news/articleView.html?idxno=47888",
+  "https://www.dt.co.kr/article/12077960",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=315306",
+  "https://www.joongang.co.kr/article/25452804",
+  "https://biz.heraldcorp.com/article/10839210",
+  "http://www.fnnews.com/news/202608121532505059",
+  "https://biz.sbs.co.kr/article_hub/20000328297?division=NAVER",
+  "https://news.mtn.co.kr/news-detail/2026081215365438496"
  ],
  "seen_titles": [
-  "[푸드·다이닝트렌드]널담,'파이버맥싱'트렌드겨냥한고단백·저당...",
-  "[오늘의브랜드]삼성전자,8세대갤럭시폴더블기술혁신담은'폴더블...",
-  "[아슬아슬현대차]③SDV속도전...독자기술은있나?",
-  "NHN,2분기매출·영업이익분기최대…기술·게임성장견인",
-  "2028년말까지메모리공급난지속전망…HBM사양조정",
-  "두산이받아든SK실트론'8년언아웃'…문턱높인이유",
-  "오픈AI윤리책임자,1년안돼퇴사",
-  "오픈서베이,'컨셉스튜디오'베타출시…\"AI합성소비자로신제품아...",
-  "삼성전자,獨‘게임스컴2026’참가…풀스택게이밍경험제시",
-  "“통제불능기계개발멈춰라”…美진보대부,AI기업CEO들에서한",
-  "KT,구글AI혜택담은'초이스요금제'출시…월9만원부터",
   "'현금100조'만드는중…SK하이닉스'숨은자본전략'",
   "울산원도심서오는14∼15일'워터버블페스티벌'",
   "美‘진보좌장’샌더스“통제불능AI개발중단하라”",
@@ -6001,7 +5990,18 @@
   "컴투스홀딩스,2분기영업손실53억원...\"하반기신작·플랫폼으로실적...",
   "가톨릭대,'대학혁신지원사업성과평가'6회연속최고'S등급'획득",
   "코스피3.7%뛰었는데하락종목더많았다…반도체'독주'",
-  "KT클라우드,'액체냉각+GPUaaS'무장…2분기매출20%껑충"
+  "KT클라우드,'액체냉각+GPUaaS'무장…2분기매출20%껑충",
+  "백정원도의원,\"성과내는양산인공지능고,안정적교육재정뒷받침돼...",
+  "[뉴욕증시전략]CPI앞두고경계감…뉴욕증시이틀연속숨고르기",
+  "챗GPT이어…구글AI비서제미나이월간이용자10억명돌파",
+  "서울공대기계공학부,피지컬AI교육프로그램'AI로봇챌린지'성료",
+  "SK하이닉스무기한선물222조거래...정규장수급변수급부상",
+  "삼성전자갤럭시Z8흥행에통신사제휴카드도'특수'",
+  "SK하이닉스인디애나팹27일착공…최태원·젠슨황회동하나",
+  "KT지니뮤직,2분기영업익19억…전년비62.3%↓",
+  "LG구광모,美서젠슨황과이번주'3대사업'전략적파트너십체결한...",
+  "[증시인사이트]삼성전자·하이닉스급등에6600선회복앞둔코스피",
+  "방송광고하루20%로확대…30분프로그램도중간광고"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-08-12T16:44:17.972034+09:00",
    "인프라에 몰렸다 SK하이 삼성전자 전력"
+  ],
+  [
+   "2026-08-12T16:48:17.711015+09:00",
+   "프로그램도 중간광고 방송광고 하루 30분 확대"
   ]
  ],
- "last_run": "2026-08-12T16:46:35.871806+09:00",
+ "last_run": "2026-08-12T16:48:38.856814+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
