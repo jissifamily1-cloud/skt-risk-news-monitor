@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.00news.co.kr/news/articleView.html?idxno=105804",
-  "https://biz.heraldcorp.com/article/10838289",
-  "https://en.yna.co.kr/view/AEN20260812002800320?input=2106m",
   "https://www.yna.co.kr/view/AKR20260812040700527?input=1195m",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690997",
   "https://biz.sbs.co.kr/article_hub/20000328156?division=NAVER",
@@ -2999,12 +2996,12 @@
   "https://www.wikitree.co.kr/articles/1152120",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258798&CMPT_CD=P0010",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=169757",
-  "https://www.smartbizn.com/news/articleView.html?idxno=151127"
+  "https://www.smartbizn.com/news/articleView.html?idxno=151127",
+  "https://www.joongangenews.com/news/articleView.html?idxno=539520",
+  "https://www.viva100.com/article/20260813500012",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429880"
  ],
  "seen_titles": [
-  "우버프레이트,해킹공격에데이터무단접근확인…\"운영영향없어...",
-  "KT,'K-뉴딜아카데미'1기…KT위즈파크서산업현장체험",
-  "인디제이,'눈치AI'로감정·기억·행동잇는다…180억규모'차세대에...",
   "울주군가족봉사단무궁화,경로당어르신께미니양우산500개기부",
   "타불라,인사이트에오픈웹기반생성형AI답변엔진'디퍼다이브'공...",
   "지금,캠브리콘등中AI반도체기업들은어떤상황?",
@@ -6001,7 +5998,10 @@
   "오라클,8월추가감원준비…일부팀두자릿수%대감축",
   "[손병관의뉴스프레소]이대통령,국힘주호영·박덕흠의원과비공개...",
   "美증시S&P500'상승'...SMCI'치솟고',퍼스트솔라'뚝'",
-  "엔비디아가끌고물가가밀었다,뉴욕증시다시상승세"
+  "엔비디아가끌고물가가밀었다,뉴욕증시다시상승세",
+  "IPO앞둔오픈AI,또핵심임원떠난다…'8년베테랑'라이트캡도퇴사",
+  "“기프티콘선물늘었다”⋯KT알파,상반기영업익262억전년比↑",
+  "코어위브·네비우스호실적이재점화한AI낙관론…엔비디아실적주목"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-08-13T08:08:17.693897+09:00",
    "뉴욕증시 끌고 엔비디아가 물가가 상승세 밀었다 다시"
+  ],
+  [
+   "2026-08-13T08:10:29.052028+09:00",
+   "영업익 KT알파 상반기 기프티콘 전년 262억 늘었다 선물 ~KT"
+  ],
+  [
+   "2026-08-13T08:10:29.052028+09:00",
+   "주목 재점화한 호실적이 AI낙관론 실적 코어위브 네비우스"
   ]
  ],
- "last_run": "2026-08-13T08:08:36.955157+09:00",
+ "last_run": "2026-08-13T08:10:53.419266+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
