@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260811053500017?input=1195m",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=855603",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3661312",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7178383",
-  "http://www.joseilbo.com/news/news_read.php?uid=573597&class=78",
-  "https://www.sedaily.com/article/20077960",
-  "https://www.joongangenews.com/news/articleView.html?idxno=539212",
-  "https://www.etoday.co.kr/news/view/2613117",
   "http://www.breaknews.com/1228068",
   "https://www.news1.kr/it-science/internet-platform/6255119",
   "https://www.topstarnews.net/news/articleView.html?idxno=16160343",
@@ -2999,17 +2991,17 @@
   "https://www.greened.kr/news/articleView.html?idxno=347456",
   "https://www.gukjenews.com/news/articleView.html?idxno=3662518",
   "http://www.newsian.co.kr/news/articleView.html?idxno=93637",
-  "http://www.fnnews.com/news/202608120950239001"
+  "http://www.fnnews.com/news/202608120950239001",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=315220",
+  "https://www.newsis.com/view/NISX20260812_0003745511",
+  "https://www.nocutnews.co.kr/news/6561687",
+  "https://www.100ssd.co.kr/news/articleView.html?idxno=211869",
+  "https://www.mk.co.kr/article/12125047",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458478",
+  "https://biz.heraldcorp.com/article/10838497",
+  "https://www.etnews.com/20260812000167"
  ],
  "seen_titles": [
-  "LG유플러스,'ISEC2026'서기업용통합보안포트폴리오제시",
-  "KT,롯데백화점에차세대메시징'RCS'심었다…백화점업계첫사례",
-  "KT,구글AI혜택결합한'초이스요금제'신규라인업출시",
-  "SKT·LGU+,장기고객잡기혜택경쟁",
-  "[동정]권오상대구광역시서구청장",
-  "\"웹상담신청1분만에\"토스인슈어런스,고객편의위해홈페이지새...",
-  "메타,클라우드없이PC서돌리는로컬AI'뮤즈글리머'공개",
-  "K패션,일본서통했다…무신사거래액182%급증",
   "美공화당도트럼프'中반도체완화'제동…TSMC에'화웨이우회로'차...",
   "\"딸바보예약\"kt최원준,결혼3년만에첫아이품에",
   "KT엠모바일,LTE·5G요금제34종개편..“고용량데이터1만원대”",
@@ -6001,7 +5993,15 @@
   "KT박윤영체제첫성적표,B2B·AX수주확대등'선방'",
   "대전디자인진흥원,소방대원현장경험담은'차세대웨어러블'개발모...",
   "KT,2분기영업익6483억…B2B회복으로전분기比34.3%↑",
-  "KT,2분기영업익36%감소…해킹사고여파"
+  "KT,2분기영업익36%감소…해킹사고여파",
+  "외국인이국내서'코인'으로결제한다...비씨카드,관련시스템검증",
+  "\"슈퍼사이클끝났나\"…증권가,삼전·닉스줄하향에목표가격차2배",
+  "독일군수장\"러시아,드론으로매일유럽방공망시험\"",
+  "LG유플러스,'공공클라우드사업'확대…AWS중개서비스디지털서비스...",
+  "KT,2분기실적주춤…AX매출은두자릿수성장",
+  "KT,2분기연결매출6조6799억원,영업익6483억원기록",
+  "700조원월가우군얻은엔비디아,삼전닉스덩달아웃는다[비즈360]",
+  "KT,대구경북제조기업대상'찾아가는AX세미나'성료…맞춤형AIAgent..."
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,17 @@
   [
    "2026-08-12T10:36:25.261888+09:00",
    "Partner 선정 클루커스 Select"
+  ],
+  [
+   "2026-08-12T10:40:29.554749+09:00",
+   "얻은 월가 덩달아 웃는다 우군 700조원 삼전닉스"
+  ],
+  [
+   "2026-08-12T10:40:29.554749+09:00",
+   "제조기업 AX 맞춤형 대상 ~KT 찾아가는 Agent 대구경북 세미나 성료"
   ]
  ],
- "last_run": "2026-08-12T10:38:38.832351+09:00",
+ "last_run": "2026-08-12T10:40:50.770130+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
