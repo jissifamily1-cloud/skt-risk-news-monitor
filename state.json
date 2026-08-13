@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://kormedi.com/?p=2845158",
-  "https://www.mydaily.co.kr/page/view/2026081210155197525",
-  "https://www.newsis.com/view/NISX20260812_0003746429",
-  "http://journal.kobeta.com/?post_type=post&p=63530",
   "https://www.dailian.co.kr/news/view/1677691/?sc=Naver",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=265652",
   "https://zdnet.co.kr/view/?no=20260811195901",
@@ -2999,13 +2995,13 @@
   "http://www.thefirstmedia.net/news/articleView.html?idxno=206015",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=206002",
   "http://www.srtimes.kr/news/articleView.html?idxno=209955",
-  "https://www.mk.co.kr/article/12126464"
+  "https://www.mk.co.kr/article/12126464",
+  "https://www.dt.co.kr/article/12078144",
+  "https://www.ngonews.kr/news/articleView.html?idxno=235412",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260813141855Nre",
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=207784"
  ],
  "seen_titles": [
-  "60승선착팀우승확률77.8%…KT가가장먼저올라섰다",
-  "“2007년금융위기데자뷔?”…엔비디아·월가,AI까지‘증권화’[이슈...",
-  "리벨리온,SK텔레콤에K-NPU'리벨'칩공급...\"물량은미정\"",
-  "승리에굶주린곰들의포효...더높은곳으로간다",
   "김제시,행정동우회와간담회…정성주시장'경험·지혜로지역발전...",
   "제미나이월간이용자10억명돌파-구글역사상가장빠른성장",
   "치료사의'세번째팔'된재활로봇…'자율주행'심는정형외과의사",
@@ -6001,7 +5997,11 @@
   "LG유플러스,장애인·지역농가판로넓힌다...'나눔마켓'개최",
   "KT,'2027충청유니버시아드'통신망책임진다...50여개거점구축",
   "AI스타트업인수한AMD…엔비디아천하GPU지형도바꿀까",
-  "KTprofitslipsinQ2asAXbusinessgainsmomentum"
+  "KTprofitslipsinQ2asAXbusinessgainsmomentum",
+  "구글,도쿄에스마트폰‘픽셀’매장오픈…해외첫매장",
+  "KT,'2027충청유니버시아드대회'정보통신부문공식후원협약체결",
+  "\"오픈AI올트먼사망\"구글검색소동…위키백과허위정보탓인듯",
+  "왓츠랩,엔비디아인셉션합류…에어글러브기반로봇손데이터기술..."
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,13 @@
   [
    "2026-08-13T14:18:18.829107+09:00",
    "business in as gains AX momentum ~KT Q2 profit slips"
+  ],
+  [
+   "2026-08-13T14:20:28.662961+09:00",
+   "왓츠랩 로봇 합류 기술 기반 인셉션 데이터 에어글러브"
   ]
  ],
- "last_run": "2026-08-13T14:18:39.412257+09:00",
+ "last_run": "2026-08-13T14:20:51.561783+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
