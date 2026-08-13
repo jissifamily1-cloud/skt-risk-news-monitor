@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84369",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=270124",
-  "https://www.news1.kr/industry/general-industry/6257225",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05753126645546664",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310115&inflow=N",
-  "https://zdnet.co.kr/view/?no=20260812163516",
-  "https://www.hankyung.com/article/2026081275011",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3663056",
-  "https://www.hankyung.com/article/2026081274971",
   "https://www.techm.kr/news/articleView.html?idxno=154253",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=361667",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005898710",
@@ -2999,18 +2990,18 @@
   "https://www.etoday.co.kr/news/view/2614364",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=2272",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=546615",
-  "https://www.joongangenews.com/news/articleView.html?idxno=540001"
+  "https://www.joongangenews.com/news/articleView.html?idxno=540001",
+  "http://www.fnnews.com/news/202608131639049882",
+  "https://sports.donga.com/sports/article/all/20260813/134473212/1",
+  "https://www.kyeongin.com/article/1769002",
+  "https://www.news1.kr/sports/baseball/6258495",
+  "https://www.busan.com/view/busan/view.php?code=2026081317164783448",
+  "https://www.news1.kr/finance/general-stock/6258445",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444715",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43023",
+  "https://www.aitimes.com/news/articleView.html?idxno=213917"
  ],
  "seen_titles": [
-  "SK하이닉스'인디애나팹'27일착공식…최태원·젠슨황또만날까",
-  "KT알파,상반기영업이익262억원...전년대비0.3%소폭증가",
-  "KT,2분기영업익6483억원…AX·B2B가실적방어(종합)",
-  "KT알파,상반기영업익262억…“수익성중심사업구조정립”",
-  "‘해킹과징금·부동산기저효과’KT,2Q영업익6483억",
-  "논산시,대한민국지방자치대상'대상수상...지방자치혁신선도도시...",
-  "GPU만사면끝?…AI인프라경쟁,'누가오래돈버느냐'로바뀐다",
-  "컴투스홀딩스,2분기영업손실53억원\"하반기신작통해수익성개선\"",
-  "삼성자산운용'미국S&P500인덱스펀드',순자산1조원돌파",
   "SK하이닉스인디애나팹,27일착공식…최태원·젠슨황회동?",
   "대법,가족관계증명서스크래핑차단한시유예…이달31일까지",
   "김정관·김영훈또'평행선'…출구못찾는'주52시간'특례",
@@ -6001,7 +5992,16 @@
   "아시아증시,美CPI불확실성해소⋯日닛케이1.16%↑",
   "빗썸,'AI공급망공격'예방가이드공개…3대보안수칙제시",
   "게이밍기기'입력·화면·공간'경쟁…로지텍·삼성·XREAL신제품3종",
-  "NC,구창모활약·박시원결승타로kt7연승과NC전6연승마침표"
+  "NC,구창모활약·박시원결승타로kt7연승과NC전6연승마침표",
+  "LG전자·LG이노텍호조에…㈜LG2Q영업익2배'점프'",
+  "난세속재능꽃피운김광현후계자들…경쟁심반긴SSG,신구조화향한...",
+  "[굿모닝위즈·99]응답하라방망이",
+  "'06년생'김민준활약에사령탑미소…\"김광현이을토종에이스기대\"",
+  "“언제든머물다가는휴식처이자사유와성찰,힐링의공간”",
+  "120일선뚫은코스피'지금부터중요'…美금리넘어실적상향'필요'",
+  "LG전자주가'냉온탕'이번엔없을까,피지컬AI·데이터센터기대에연기...",
+  "[심층분석]피지컬AI플랫폼평가받은LG전자,실적검증포인트는?",
+  "케빈웨일전오픈AI부사장,AI과학스타트업창립…몸값1조목표"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,17 @@
   [
    "2026-08-13T17:18:18.292837+09:00",
    "6연승 NC 구창모 7연승과 결승타로 마침표 NC전 활약 ~KT 박시원"
+  ],
+  [
+   "2026-08-13T17:20:28.095645+09:00",
+   "웨일 케빈 1조 목표 부사장 과학 몸값 스타트업 창립"
+  ],
+  [
+   "2026-08-13T17:20:28.095645+09:00",
+   "평가받은 검증 피지컬AI LG전자 플랫폼 실적 포인트는"
   ]
  ],
- "last_run": "2026-08-13T17:18:36.453443+09:00",
+ "last_run": "2026-08-13T17:20:54.959215+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
