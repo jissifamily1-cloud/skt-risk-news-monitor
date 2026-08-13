@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635731",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=307266",
   "https://www.yna.co.kr/view/AKR20260812150751082?input=1195m",
   "https://www.segye.com/newsView/20260812525819?OutUrl=naver",
   "https://www.newspim.com/news/view/20260812001311",
@@ -2999,11 +2997,11 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026081406194156502aaae0046f_30",
   "https://www.mk.co.kr/article/12127533",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693049",
-  "https://www.wikitree.co.kr/articles/1152391"
+  "https://www.wikitree.co.kr/articles/1152391",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092167666",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693050"
  ],
  "seen_titles": [
-  "통신3사엇갈린2Q성적속…효자된AIDC",
-  "7대시드프로젝트...SMR·양자·바이오담대한도전",
   "독일정보기관에‘작전권한’부여…“테러·공작대응”",
   "1만개이상비트코인투자자수6개월만에최고치",
   "독일정보기관에'작전권한'부여…\"게슈타포냐\"반발도(종합)",
@@ -6001,7 +5999,9 @@
   "앤트로픽,오는10월IPO상장하나...CNBC,최고재무책임자(CFO)\"투자자들...",
   "솔리다임나스닥상장논의에…거버넌스포럼“중복상장중단해야”",
   "마이크로소프트,흩어진코파일럿앱통합...성과못낸AI기능정리",
-  "트레저고객1만3689명정보유출,배송업체ShipMonk해킹이원인"
+  "트레저고객1만3689명정보유출,배송업체ShipMonk해킹이원인",
+  "\"대기업인프라·스타트업기술묶어AI성과낸다\"[K-AI파트너십②]",
+  "미국,공격형사이버작전에민간기업참여첫허용"
  ],
  "recent_sigs": [
   [
@@ -6141,7 +6141,7 @@
    "유출 배송업체 1만3689명 ShipMonk 원인 해킹이 고객 정보 트레저"
   ]
  ],
- "last_run": "2026-08-14T06:30:56.809510+09:00",
+ "last_run": "2026-08-14T06:32:38.215445+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
