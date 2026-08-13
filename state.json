@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/567796",
-  "https://www.newstree.kr/newsView/ntr202608120007",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84328",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=133405",
-  "https://biz.heraldcorp.com/article/10838650",
-  "https://biz.heraldcorp.com/article/10837011",
-  "https://www.joongang.co.kr/article/25452704",
-  "https://www.goodkyung.com/news/articleView.html?idxno=290199",
   "https://biz.heraldcorp.com/article/10838668",
   "https://www.stnsports.co.kr/news/articleView.html?idxno=320765",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=856293",
@@ -2999,17 +2991,17 @@
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128725",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=252136",
   "https://www.ddaily.co.kr/page/view/2026081309583970278",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444630"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444630",
+  "https://www.ddaily.co.kr/page/view/2026081309552023833",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101521",
+  "http://www.bizwnews.com/news/articleView.html?idxno=143205",
+  "https://www.ddaily.co.kr/page/view/2026081309480525509",
+  "https://news.tf.co.kr/read/economy/2353672.htm",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240973",
+  "https://www.yna.co.kr/view/AKR20260813059000002?input=1195m",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=790154"
  ],
  "seen_titles": [
-  "“세차하러가는데걸어가라고?”...‘국가대표AI’추론성능논란확...",
-  "폭염도못막았다…KBO,역대최소경기900만관중돌파",
-  "데이비슨이당긴'스위치'…후반기대반격→'탈꼴찌'열쇠'우산효과'만...",
-  "대구광역시,팔공산·비슬산등27개마을'3층이하'고도지구폐지추...",
-  "“AI를어떻게인간의통제범위에두느냐가관건”",
-  "삼성자산운용S&P500인데스펀드,국내최초순자산1조돌파",
-  "\"평범한삶으로\"...이종현,SNS재개하루만에활동중단선언",
-  "LG유플러스,AWS기반공공클라우드시장'정조준'",
   "KT,2분기영업익6483억원전년비36.1%감소…\"고객보답프로그램영...",
   "통신사에서'AX플랫폼'으로…KT,AI·클라우드매출22.3%성장",
   "엔비디아,700조원재원조달…삼전닉스덩달아웃는다",
@@ -6001,7 +5993,15 @@
   "[마켓펄스]\"개미팔자외인연속매수\"...코스피6800선돌파",
   "LG유플러스,사회적경제판로지원'2026나눔마켓'연다",
   "KT,2027충청유니버시아드공식후원…통신·AX역량발휘",
-  "유진투자\"KTAI데이터센터,2031년매출4조4천억목표달성가능\""
+  "유진투자\"KTAI데이터센터,2031년매출4조4천억목표달성가능\"",
+  "LGU+,나눔마켓개최…장애인·지역농가판로지원",
+  "[기업들]AI부터고단열창호·에듀테크까지…맞춤형서비스로시장공...",
+  "[금융HOT뉴스]농협은행,'AI컨택센터'오픈…AI기반상담혁신이룬...",
+  "GPU팔고데이터센터채우고글로벌로…국내CSP3사수익화셈법",
+  "AI대화창입력하면주식거래실행…토스증권,'오픈API'출시",
+  "네이버,'파력발전AIDC'판탈라사투자…해상서전력생산·AI연산",
+  "빗썸,인공지능공급망공격예방위한가이드공개",
+  "[위클리오늘]삼전닉스,역대급실적에주주환원'통큰카드'꺼낼까"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-08-13T10:08:18.700243+09:00",
    "오류에 구글 암살당했다 발칵 검색"
+  ],
+  [
+   "2026-08-13T10:12:16.720169+09:00",
+   "실적에 역대급 꺼낼까 카드 삼전닉스 주주환원"
   ]
  ],
- "last_run": "2026-08-13T10:10:46.246334+09:00",
+ "last_run": "2026-08-13T10:12:41.379212+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
