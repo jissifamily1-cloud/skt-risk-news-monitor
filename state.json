@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=208027",
-  "https://biz.heraldcorp.com/article/10839375",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5212062",
-  "http://www.jmbc.co.kr/news/view/67021",
-  "https://www.kbsm.net/news/view.php?idx=530230",
-  "https://www.news1.kr/society/general-society/6257360",
   "https://www.ddaily.co.kr/page/view/2026081219480747601",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=86469",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2265048",
@@ -2999,15 +2993,15 @@
   "https://it.donga.com/109356/",
   "https://it.donga.com/109353/",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635473",
-  "https://www.dailian.co.kr/news/view/1678323/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1678323/?sc=Naver",
+  "https://www.newsis.com/view/NISX20260813_0003748536",
+  "https://www.yna.co.kr/view/AKR20260813166000007?input=1195m",
+  "https://sports.khan.co.kr/article/202608132100006?pt=nv",
+  "https://www.news1.kr/photos/8053309",
+  "https://www.heraldmuse.com/article/10840614",
+  "https://www.khan.co.kr/article/202608132058005"
  ],
  "seen_titles": [
-  "\"면접보려면VPN설치하세요\"…러시아해커의가짜채용공격",
-  "채널별광고시간17%→20%…중간광고도확대",
-  "폭염휴식이보약됐네…관중900만돌파에경기력도'쑥쑥'",
-  "\"해킹당한줄\"..전주시시스템오류에'출근길마비'",
-  "경북대,엔비디아·HD현대로보틱스와제조AI혁신플랫폼구축",
-  "서울대,로보틱스연구동건립나선다…엔비디아조인트랩입주논의",
   "구글·애플인앱결제제재‘막바지’…방미통위,최종숙의돌입",
   "SK하이닉스,27일美인디애나팹착공식-최태원·젠슨황참석가능성...",
   "[통신]KTAX성장전략/LGU+공공클라우드확대",
@@ -6001,13 +5995,15 @@
   "[위클리_피지컬AI]로봇대신노동력을파는스타트업등장외",
   "‘로봇모듈형플랫폼’앞세운브릴스,IPO로피지컬AI시장역량강화...",
   "10월부터중간광고확대…30분프로그램부터가능토록허용",
-  "최태원·노소영이혼소송재상고D-1…9440억원확정여부주목"
+  "최태원·노소영이혼소송재상고D-1…9440억원확정여부주목",
+  "KT새외인대니엘,KBO데뷔전5이닝2실점…승리요건충족",
+  "kt,새외국인투수대니엘,데뷔전서NC상대로5이닝2실점",
+  "프로야구삼성‘호랑이앞에만서면…’이상하게작아지는사자",
+  "제27차방미통위전체회의주재하는김종철위원장",
+  "최시원,SNS해킹피해호소하루만에…돌담길앞에서전한근황",
+  "해킹당한줄…이런지자체홍보대체누가?[이상한책을보았다]"
  ],
  "recent_sigs": [
-  [
-   "2026-08-13T15:00:45.821500+09:00",
-   "게임체인저 찾는 개발해달라 양자컴 이재명 빨리 대통령 다음"
-  ],
   [
    "2026-08-13T15:02:21.060173+09:00",
    "인공태양 핵융합 지상에 1억 구현하려면"
@@ -6451,9 +6447,17 @@
   [
    "2026-08-13T21:00:45.451033+09:00",
    "9440억원 재상고 이혼소송 주목 여부 확정"
+  ],
+  [
+   "2026-08-13T21:02:19.287002+09:00",
+   "하루 근황 전한 호소 SNS 만에 피해 앞에서 최시원 돌담길"
+  ],
+  [
+   "2026-08-13T21:02:19.287002+09:00",
+   "홍보 대체 누가 이런 해킹당한 지자체"
   ]
  ],
- "last_run": "2026-08-13T21:01:02.512979+09:00",
+ "last_run": "2026-08-13T21:02:43.812176+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6973,6 +6977,7 @@
   "ferrotimes.com": "페로타임즈(FerroTimes)",
   "decenter.kr": "Decenter",
   "rapportian.com": "라포르시안",
-  "kidd.co.kr": "산업일보"
+  "kidd.co.kr": "산업일보",
+  "heraldmuse.com": "헤럴드뮤즈 (Herald Muse)"
  }
 }
