@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20078204",
-  "https://biz.sbs.co.kr/article_hub/20000328100?division=NAVER",
-  "https://view.asiae.co.kr/article/2026081205022000998",
-  "https://biz.sbs.co.kr/article_hub/20000328098?division=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691284",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690982",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690909",
-  "https://zdnet.co.kr/view/?no=20260807085724",
   "https://www.aitimes.com/news/articleView.html?idxno=213551",
   "https://www.pressian.com/pages/articles/2026080511262136600",
   "https://www.mtnews.net/news/articleView.html?idxno=25550",
@@ -2999,17 +2991,17 @@
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005900848",
   "https://www.etoday.co.kr/news/view/2614441",
   "http://www.yonhapnewstv.co.kr/news/MYH20260814072549rmd",
-  "https://www.ytn.co.kr/_ln/0104_202608140726381941"
+  "https://www.ytn.co.kr/_ln/0104_202608140726381941",
+  "http://www.fnnews.com/news/202608131611330965",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692948",
+  "https://www.mediapen.com/news/view/1116373",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3664473",
+  "https://biz.heraldcorp.com/article/10840889",
+  "https://www.yna.co.kr/view/AKR20260814015700011?input=1195m",
+  "https://view.asiae.co.kr/article/2026081407231249126",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052553"
  ],
  "seen_titles": [
-  "오픈AI,IPO앞또다시임원줄퇴사…윤리책임자이어前COO도",
-  "오픈AI,IPO앞두고임원이탈잇따라…前COO도사임",
-  "‘몸값1400조원목표’오픈AI…벌써400억자산가나왔다",
-  "오픈AI,IPO앞또임원줄퇴사…윤리책임자이어前COO도",
-  "오픈AI전COO라이트캡도떠난다…고위급인사재편잇따라",
-  "[글로벌비즈브리핑]SK하이닉스,日키옥시아사실상최대주주로外",
-  "월드체인,17일메인넷에EIP-7928BAL도입...초당최대1기가가스처리...",
-  "오픈AI,레인AI특허사들였다…자체AI칩전략가속",
   "백악관과학기술고문\"AI일자리우려과장…기업들이책임돌린다\"",
   "오픈AI,'도넛모양'AI스피커만든다",
   "[8월5일]\"오픈AI가무너질것\"이라는2년전예측...그이후무슨일이...",
@@ -6001,7 +5993,15 @@
   "증시오늘'핫이슈'\"K-증시,드디어안정찾았다…'체계적위험'만빼고...",
   "[증시키워드]LG구광모,美서젠슨황만난다⋯‘모건스탠리효과’에...",
   "[이시각헤드라인]8월14일라이브투데이",
-  "UAE\"이란,호르무즈해협국영석유사선박두척공격\""
+  "UAE\"이란,호르무즈해협국영석유사선박두척공격\"",
+  "[단독]롯데카드,K글래스윙'프로젝트캐노피'연구이끈다…카드사최...",
+  "[시큐리티핫이슈]K보안업계'AI전진배치'...M&A도탄력",
+  "[美증시특징주]소셜미디어레딧18일부터S&P500편입…시간외10%급등",
+  "뉴욕증시,PPI둔화·유가하락에상승…S&P500사상최고치경신",
+  "오픈AIIPO마음급했나…최고매출책임자1년도안돼교체",
+  "[연합뉴스이시각헤드라인]-07:30",
+  "해킹취약中企위한'구독형보안서비스'각광",
+  "이찬진금융감독원장취임1년,'소비자최우선'감독체계구축"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,25 @@
   [
    "2026-08-14T07:18:18.530421+09:00",
    "전용기 세우는 한국 기업들이 이유 게이츠 타고 촉각"
+  ],
+  [
+   "2026-08-14T07:32:18.602141+09:00",
+   ""
+  ],
+  [
+   "2026-08-14T07:32:18.602141+09:00",
+   ""
+  ],
+  [
+   "2026-08-14T07:32:18.602141+09:00",
+   "구독형 서비스 위한 취약 보안 각광"
+  ],
+  [
+   "2026-08-14T07:32:18.602141+09:00",
+   "최우선 취임 구축 금융감독원장 소비자 감독체계 1년 이찬진"
   ]
  ],
- "last_run": "2026-08-14T07:30:51.768610+09:00",
+ "last_run": "2026-08-14T07:32:44.272068+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
