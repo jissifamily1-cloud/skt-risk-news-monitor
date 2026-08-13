@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260812067300009?input=1195m",
-  "https://www.news1.kr/it-science/cc-newmedia/6256534",
-  "https://www.yna.co.kr/view/AKR20260811056300005?input=1195m",
-  "https://www.etnews.com/20260812000186",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=307236",
-  "https://www.econovill.com/news/articleView.html?idxno=747773",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=244145",
-  "https://www.khan.co.kr/article/202608121113001",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635479",
-  "http://www.popcornnews.net/news/articleView.html?idxno=129421",
   "http://www.dailypop.kr/news/articleView.html?idxno=101471",
   "https://www.topstarnews.net/news/articleView.html?idxno=16161379",
   "http://www.inews24.com/view/1994224",
@@ -2999,19 +2989,19 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=444648",
   "https://www.newsis.com/view/NISX20260812_0003746806",
   "https://www.sedaily.com/article/20078814",
-  "https://www.sedaily.com/article/20078840"
+  "https://www.sedaily.com/article/20078840",
+  "https://www.venturesquare.net/1105651/",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100101&t=NN",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04142646645546992",
+  "https://h21.hani.co.kr/arti/economy/economy_general/59714.html",
+  "https://view.asiae.co.kr/article/2026081309561255088",
+  "https://www.dailian.co.kr/news/view/1677796/?sc=Naver",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04149206645546992",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=133472",
+  "https://www.g-enews.com/view.php?ud=202608130951255313fbbec65dfb_1",
+  "https://biz.heraldcorp.com/article/10839800"
  ],
  "seen_titles": [
-  "[이슈]KT,2분기영업익전년比36%↓…일회성분양이익영향",
-  "삼성자산운용,'미국S&P500인덱스펀드'순자산1조원돌파",
-  "고려대-국민대공동연구팀차량보안최고권위국제학술대회서최우수...",
-  "\"오픈소스클수록우리칩산다\"...엔비디아,1조매개변수AI개발",
-  "[Invest]엔비디아,블랙록·KKR등월가자본조달추진…700兆컴퓨팅금...",
-  "CME,엔비디아GPU기반선물계약오는10월출시",
-  "'5천억달러투자지원'젠슨황\"엔비디아는건당최대25%까지\"",
-  "해킹악재털고가는KT…AX·클라우드두자릿수성장(종합)",
-  "[가요소식]어반자카파,오늘새싱글'7'…조현아자작곡",
-  "국방혁신기술보안협회·대륙아주,'AI·사이버융합최고위과정3기'개...",
   "해시드,\"원화스테이블코인,발행보다정산·신원인증선점해야\"",
   "캐논코리아'시네마캠프2026'성료…EOSC50·EOSR6V지원",
   "꽃파는총각,꽃배달'AI주문시스템'고도화정식오픈",
@@ -6001,7 +5991,17 @@
   "한국기업거버넌스포럼\"5단중복상장통한'솔리다임'나스닥상장논의...",
   "류제명과기2차관\"청년AI스타트업은미래경쟁력…맞춤형지원\"",
   "중국,유럽전기차공급망장악속도전…독일에투자집중",
-  "“AI반도체수요재확인”외인,2.8조순매수…코스피,3일연속상승"
+  "“AI반도체수요재확인”외인,2.8조순매수…코스피,3일연속상승",
+  "PG가입비면제에도메인2년까지…메이크샵,온라인창업초기비용낮...",
+  "삼성전자,일본이통사와AI-RAN기반통신최적화기술검증",
+  "과기정통부,주파수재할당대가산정체계손본다",
+  "‘AI토건사업’3대메가프로젝트,청구서가밀려온다",
+  "‘AI수요재확인’삼전·닉스랠리…코스피6800선탈환",
+  "과기정통부,청년AI스타트업현장목소리청취…“맞춤형성장지원...",
+  "청년AI창업가에GPU·투자지원…정부,경진대회확대추진",
+  "150개국1만5000명움직이는'디지털신경망'…KT,충청유니버시아드연...",
+  "버리,\"엔비디아5000억달러AI금융,2008년월가꼼수\"",
+  "최시원SNS해킹당했나…“안보낸메시지반복발송”"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,17 @@
   [
    "2026-08-13T10:02:18.948029+09:00",
    "순매수 반도체 상승 재확인 코스피 8조 연속 외인 3일 수요"
+  ],
+  [
+   "2026-08-13T10:04:17.286786+09:00",
+   "2008년 월가 버리 꼼수 금융 5000억달러"
+  ],
+  [
+   "2026-08-13T10:04:17.286786+09:00",
+   "최시원 반복 메시지 SNS 보낸 발송 당했나"
   ]
  ],
- "last_run": "2026-08-13T10:02:51.204844+09:00",
+ "last_run": "2026-08-13T10:04:43.998011+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
