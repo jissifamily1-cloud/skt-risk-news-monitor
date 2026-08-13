@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260810000034",
-  "https://www.mk.co.kr/article/12122300",
-  "https://www.dailymedi.com/news/news_view.php?wr_id=939131",
   "https://www.mk.co.kr/article/12122208",
   "https://www.news2day.co.kr/article/20260807500125",
   "https://news.koreanbar.or.kr/news/articleView.html?idxno=35989",
@@ -2999,12 +2996,12 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026081405564239522aaae0046f_30",
   "https://www.hankyung.com/article/2026081300931",
   "https://www.kukinews.com/article/view/kuk202608140004",
-  "https://www.newspim.com/news/view/20260813001299"
+  "https://www.newspim.com/news/view/20260813001299",
+  "https://www.etoday.co.kr/news/view/2614427",
+  "https://www.news2day.co.kr/article/20260814500007",
+  "https://www.sedaily.com/article/20079089"
  ],
  "seen_titles": [
-  "한국인터넷소통협회,'2026대한민국AI브랜드대상'신설",
-  "아카마이\"AI도입가속화로아태'API보안격차'심화…기업절반이상...",
-  "[AIMY뉴스]10일중국증시'첨단산업모멘텀,경기우려,글로벌금리...",
   "매경이전하는세상의지식(매-세-지,8월10일)",
   "인공지능(AI)주목'비타민'…종근당브랜드'두각'",
   "챗GPT·제미나이…AI가가장많이인용한언론은매일경제",
@@ -6001,7 +5998,10 @@
   "마이크론4.2%,SK하이닉스ADR7.3%↑..SK하이닉스ADR,3일간무려21%반...",
   "\"방대한로봇학습데이터잡아라\"…유니트리주주된中3대빅테크",
   "‘세기의이혼’최태원·노소영,오늘재상고기한…9년재산분할소송...",
-  "최태원-노소영,오늘재산분할재상고시한...9년소송마무리될까"
+  "최태원-노소영,오늘재산분할재상고시한...9년소송마무리될까",
+  "뉴욕증시,인플레이션둔화·유가하락에상승...S&P500최고치[상보]",
+  "[N2모닝경제브리핑-8월14일]美증시,물가안정에3대지수상승…...",
+  "1년5개월간87%뛴엔비디아GPU…게임용까지올랐다"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,13 @@
   [
    "2026-08-14T06:04:18.134354+09:00",
    "한줄뉴스 14일 메트로신문 8월"
+  ],
+  [
+   "2026-08-14T06:08:16.900855+09:00",
+   "올랐다 게임용까지 GPU 5개월간 1년"
   ]
  ],
- "last_run": "2026-08-14T06:06:40.504907+09:00",
+ "last_run": "2026-08-14T06:08:41.612194+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
