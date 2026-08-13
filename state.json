@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608112028121770",
-  "https://theviewers.co.kr/View.aspx?No=4182442",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169713",
-  "http://www.fnnews.com/news/202608121328104646",
-  "https://www.seoultimes.news/news/article.html?no=2000098744",
-  "https://www.etoday.co.kr/news/view/2613711",
-  "https://www.mk.co.kr/article/12125267",
-  "https://www.smartbizn.com/news/articleView.html?idxno=151053",
   "https://www.cnbizm.com/news/articleView.html?idxno=311328",
   "https://zdnet.co.kr/view/?no=20260812134632",
   "https://www.topstarnews.net/news/articleView.html?idxno=16161548",
@@ -2999,17 +2991,17 @@
   "https://www.thelec.kr/news/articleView.html?idxno=60886",
   "http://www.newsdream.kr/news/articleView.html?idxno=116225",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8636134",
-  "http://www.inews24.com/view/1994629"
+  "http://www.inews24.com/view/1994629",
+  "https://biz.heraldcorp.com/article/10840056",
+  "https://www.bntnews.co.kr/article/view/bnt202608120278",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3663648",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=133487",
+  "https://www.huffingtonpost.kr/article/259528",
+  "https://biz.heraldcorp.com/article/10840055",
+  "https://biz.heraldcorp.com/article/10840058",
+  "https://www.yna.co.kr/view/AKR20260813077400017?input=1195m"
  ],
  "seen_titles": [
-  "구글제미나이,벌써이용자수10억명…AI패권경쟁본격화",
-  "더똑똑해지는AI...검색·기억·도구를잇는기술[생성형AI는어떻게...",
-  "TSMC,2나노·첨단패키징에42조원쏟는다…AI반도체'초격차'속도",
-  "[전국주요신문사설](12일석간)",
-  "구글공동창업자'브린'경영일선복귀…제미나이수익화집중",
-  "日本借英伟达打造“国产AI”将获2.75万块GPU",
-  "\"접었다펴고,만화도보고\"아이폰천국日서폴드8'품절'[르포]",
-  "[기자가간다]17개월간다바꾼롯데百노원점,동북권쇼핑판흔든다",
   "장중...텐센트·알리바바'급락'속,홍콩항셍지수'뚝'",
   "SK하이퍼,C레벨인선완료…15GWAIDC사업본격화",
   "[비즈인사이트]통신3사2분기희비…SKT영업익67%↑·KT36%↓",
@@ -6001,7 +5993,15 @@
   "SK하이닉스美인디애나팹27일착공식…최태원·젠슨황회동주목",
   "KT,2027충청유니버시아드대회공식파트너로참여…AX역량총동원",
   "“샘올트먼이죽었다고?”…구글검색오류소동,범인은[이런뉴스]",
-  "젠슨황에또들썩인LG전자…이번엔'테마'넘어설까"
+  "젠슨황에또들썩인LG전자…이번엔'테마'넘어설까",
+  "LGU+,사회경제적기업과2026나눔마켓개최",
+  "아시안게임야구엔트리선수명단·경기일정정리",
+  "2027충청유니버시아드대회,완벽한정보·통신및ICT시스템구축",
+  "매드포갈릭,카카오쇼핑라이브첫참여…'프리미엄다이닝패키지'로혜...",
+  "중국IT기업텐센트2분기매출43조원집계:AI관련사업호조로작...",
+  "네이버,美AI데이터센터개발기업‘판탈라사’투자",
+  "KT,충청유니버시아드정보통신책임진다",
+  "오픈AI·엔비디아,첫공동개발자행사…AI에이전트집중"
  ],
  "recent_sigs": [
   [
@@ -6613,7 +6613,7 @@
    "젠슨 들썩인 LG전자 넘어설까 이번엔 테마 황에"
   ]
  ],
- "last_run": "2026-08-13T11:26:38.680534+09:00",
+ "last_run": "2026-08-13T11:28:38.133040+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
