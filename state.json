@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.lawleader.co.kr/news/articleView.html?idxno=19692",
-  "https://www.m-i.kr/news/articleView.html?idxno=1401734",
-  "https://gamefocus.co.kr/detail.php?number=178167",
   "https://gamefocus.co.kr/detail.php?number=178163",
   "https://www.koit.co.kr/news/articleView.html?idxno=208454",
   "https://www.mk.co.kr/article/12124227",
@@ -2999,12 +2996,12 @@
   "https://www.hankyung.com/article/2026081301011",
   "https://www.hankookilbo.com/news/article/A2026081308560004034?did=NA",
   "https://news.mtn.co.kr/news-detail/2026081316163880219",
-  "https://www.bloter.net/news/articleView.html?idxno=670908"
+  "https://www.bloter.net/news/articleView.html?idxno=670908",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3664150",
+  "https://www.itdaily.kr/news/articleView.html?idxno=240996",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271735"
  ],
  "seen_titles": [
-  "\"틱톡현금보상,청소년정말제외했나\"…방미통위현장점검",
-  "제주항공,고객100여명개인정보노출…1인당10만원보상금",
-  "보안특화AI개발경쟁본격화…LG참전,SKT·네이버도저울질",
   "SK하이닉스美인디애나팹27일착공식…최태원·젠슨황참석주목",
   "KT,반사이익끝나자실적'뚝'…소송까지겹악재",
   "취임후첫메시지낸SK하이퍼정석근\"풀스택AI로시장선점\"",
@@ -6001,7 +5998,10 @@
   "美인플레둔화에AI투자심리회복…코스피'훈풍'",
   "AI가짠코드안전할까…몸값2조된'코드검증'스타트업",
   "브라우저전쟁에밀린오픈AI...다음은네이버의역습?",
-  "자본잠식네이버제트,AI스트리머로반전노리나"
+  "자본잠식네이버제트,AI스트리머로반전노리나",
+  "사천대진일반산단...산업단지지정취소아닌사업시행자지정취소",
+  "'보안특화AI'개발에LG참전…SKT·네이버도참여검토",
+  "5조쏟아붓는AI데이터센터…KT의KT클라우드재합병,실익이냐비용이..."
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,17 @@
   [
    "2026-08-13T17:38:19.542542+09:00",
    "밀린 역습 다음은 네이버의 전쟁에 브라우저"
+  ],
+  [
+   "2026-08-13T17:40:30.196325+09:00",
+   "보안 검토 ~SKT LG 참전 개발에 네이버도 특화 참여"
+  ],
+  [
+   "2026-08-13T17:40:30.196325+09:00",
+   "KT클라우드 5조 쏟아붓는 ~KT 데이터센터 KT의 재합병 비용이 실익이냐"
   ]
  ],
- "last_run": "2026-08-13T17:38:46.432291+09:00",
+ "last_run": "2026-08-13T17:40:50.639039+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
