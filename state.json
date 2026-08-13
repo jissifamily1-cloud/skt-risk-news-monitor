@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.bokuennews.com/news/article.html?no=282469",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=80488",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850186",
-  "https://www.sidae.com/article/2026081216005754818",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001540",
   "https://sports.donga.com/sports/article/all/20260812/134465802/1",
   "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=01&story_id=NS2026081200094&story_seq=0&soCode=114&socttSn=NS2026081200094&socttSeq=0",
@@ -2999,13 +2995,13 @@
   "https://www.hankyung.com/article/202608139813O",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271722",
   "https://www.tokenpost.kr/news/market/389989",
-  "https://www.ytn.co.kr/_ln/0103_202608131647232697"
+  "https://www.ytn.co.kr/_ln/0103_202608131647232697",
+  "http://www.economytalk.kr/news/articleView.html?idxno=423493",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05749846645546992",
+  "https://theopiniontimes.news/%eb%8f%85%ed%8c%8c%eb%aa%a8-2%ec%b0%a8-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%b2%a4%ec%b9%98%eb%a7%88%ed%81%ac%ec%84%9c-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%bd%ec%a7%84/",
+  "http://www.press9.kr/news/articleView.html?idxno=81074"
  ],
  "seen_titles": [
-  "中C919국제선뜨는날…한국여객기는왜30년째설계도에만남았나",
-  "롯데초비상!나균안,목담증세12일등판무산…'6R신인'우완깜짝...",
-  "프랑스언론단체,구글때문에트래픽줄어…경쟁당국에제소",
-  "컴투스홀딩스,2Q당기순이익흑자전환…하반기신작반등",
   "[초점]사고소식뜸하지만…랜섬웨어공격은'현재진행형'",
   "[크립토퀵서치]경찰청디지털자산보관,업비트커스터디란?",
   "최시원,SNS해킹의심\"어떤의도인지모르겠다\"",
@@ -6001,7 +5997,11 @@
   "버슨,인지형AI기업림빅인수…AI혁신역량강화",
   "'팔(Arm)'대신'솔루션'이먹여살렸다…두산로보틱스,창사이래첫매...",
   "삼성전자선물134만계약거래,하이닉스도상승",
-  "최태원-노소영재상고기한D-1...9년소송마무리될까"
+  "최태원-노소영재상고기한D-1...9년소송마무리될까",
+  "에어빌리티,'AI대드론'띄운다…우주항공청스케일업팁스선정",
+  "행정망서'네이버AI'실시간검색…범정부업무체질바꾼다(종합)",
+  "'독파모'2차글로벌벤치마크서스타트업약진",
+  "KB자산운용,미국대표지수ETF2종순자산3조원돌파…장기투자수요..."
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,13 @@
   [
    "2026-08-13T16:50:30.132286+09:00",
    "소송 마무리될까 9년 기한 재상고"
+  ],
+  [
+   "2026-08-13T16:52:18.119092+09:00",
+   "스타트업 벤치마크서 독파모 약진 글로벌 2차"
   ]
  ],
- "last_run": "2026-08-13T16:50:49.132143+09:00",
+ "last_run": "2026-08-13T16:52:42.598100+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
