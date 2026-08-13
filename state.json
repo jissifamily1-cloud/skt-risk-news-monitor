@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12313078?influxDiv=NAVER",
   "https://www.news1.kr/it-science/cc-newmedia/6257078",
   "https://www.techm.kr/news/articleView.html?idxno=154257",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=06209046645546664",
@@ -2999,10 +2998,10 @@
   "https://www.betanews.net/article/view/beta202608130075",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271753",
   "https://www.mk.co.kr/article/12126982",
-  "https://www.tokenpost.kr/news/breaking/390099"
+  "https://www.tokenpost.kr/news/breaking/390099",
+  "https://www.mt.co.kr/industry/2026/08/13/2026081318340695086"
  ],
  "seen_titles": [
-  "MS8월패치,라자루스가악용한커널제로데이도포함",
   "KT알파,상반기영업익262억…취급고9%↑",
   "낡은방송광고규제손질…총량17%→20%,중간광고기준합리화",
   "방송광고규제푼다…하루광고총량20%로확대·중간광고30분부터",
@@ -6001,7 +6000,8 @@
   "코스피,반도체강세에6800선회복",
   "\"가전껍데기벗는LG전자,'전장·냉각·로봇'으로수주곳간채운다\"",
   "미국로봇,인도노동자에‘몸쓰는법’배운다…1시간영상가격이",
-  "아이비엠·오픈AI,기업용AI배포협력맺었다"
+  "아이비엠·오픈AI,기업용AI배포협력맺었다",
+  "SK하이닉스통합노조공식출범…조합원2400명돌파"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-08-13T19:28:20.087316+09:00",
    "배포 아이비엠 협력 기업용 맺었다"
+  ],
+  [
+   "2026-08-13T19:30:40.631261+09:00",
+   "SK하이닉스 출범 통합노조 조합원 2400명 돌파"
   ]
  ],
- "last_run": "2026-08-13T19:28:38.084932+09:00",
+ "last_run": "2026-08-13T19:30:57.870092+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
