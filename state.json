@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202608121051003?pt=nv",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856268",
-  "https://www.kyosu.net/news/articleView.html?idxno=208765",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=308766",
-  "http://www.nongaek.com/news/articleView.html?idxno=96360",
-  "http://www.thebigdata.co.kr/view.php?ud=20260812104345550a47484cf8_23",
-  "https://www.dailian.co.kr/news/view/1677527/?sc=Naver",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83112",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=169705",
   "http://www.bokuennews.com/news/article.html?no=282442",
@@ -2999,16 +2992,16 @@
   "https://news.mtn.co.kr/news-detail/2026081309423124224",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206483",
   "http://www.fnnews.com/news/202608130940560004",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52099"
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52099",
+  "https://www.ajunews.com/view/20260813082516204",
+  "https://www.greened.kr/news/articleView.html?idxno=347534",
+  "https://www.gokorea.kr/news/articleView.html?idxno=874900",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=37434",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=238680",
+  "https://biz.sbs.co.kr/article_hub/20000328434?division=NAVER",
+  "https://www.tjb.co.kr/news05/bodo/view/id/102348"
  ],
  "seen_titles": [
-  "KT,펨토셀과징금·분양이익기저효과소멸…2Q수익성둔화",
-  "'몸값1363조'앤트로픽역대급IPO추진…중국저가공세·인프라난관...",
-  "오픈AI는왜‘루나’를무료로풀었을까",
-  "[글로벌마켓]애플,트럼프반대에도中CXMT칩사용...글로벌메모리...",
-  "1인가구에입소문난카드…신한카드'미스터라이프',생활비혜택쏠...",
-  "KT,2분기영업익6483억원…AX·데이터센터성장",
-  "“다시개막하는느낌으로가자”···타선다시개편한LG,‘초심찾기...",
   "에이아이웍스,크메르어챗봇ICEGOV논문채택",
   "가톨릭대,대학혁신지원사업성과평가'S등급'…6회째최고등급",
   "반도체투자,월분배ETF로호흡길어진다",
@@ -6001,7 +5994,14 @@
   "반도체꿈틀에코스피장초반3%대상승…6800선회복",
   "KT,2027충청유니버시아드대회정보통신부문공식파트너…정보통신...",
   "엔비디아AI칩에'가치하락없다'베팅한월가",
-  "\"AI데이터센터물재순환200%,잉여전력은지역에공급\""
+  "\"AI데이터센터물재순환200%,잉여전력은지역에공급\"",
+  "\"애플,시리AI뉴스기능강화위해언론사들과콘텐츠사용논의…수...",
+  "[AI규제]AI챗봇이써준문서,함부로썼다간‚AI산'표시영원히못...",
+  "신세계10조AI팩토리,강원제치고호남이새후보지로",
+  "美7월CPI예상치부합에도뉴욕증시혼조",
+  "LG유플러스,'나눔마켓'개최…장애인생산품·지역농가판로지원",
+  "'샘올트먼오픈AICEO오늘사망'구글오류소동",
+  "\"수요지속될까\"우려에도…월가,엔비디아AI칩'가치하락없다'베팅"
  ],
  "recent_sigs": [
   [
@@ -6413,7 +6413,7 @@
    "공급 전력은 재순환 잉여 지역에 AI데이터센터"
   ]
  ],
- "last_run": "2026-08-13T09:48:43.044364+09:00",
+ "last_run": "2026-08-13T09:50:45.070229+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
