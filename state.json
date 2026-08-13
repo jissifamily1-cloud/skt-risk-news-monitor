@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1677691/?sc=Naver",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265652",
-  "https://zdnet.co.kr/view/?no=20260811195901",
-  "https://en.yna.co.kr/view/AEN20260812008300320?input=2106m",
   "https://biz.chosun.com/distribution/channel/2026/08/12/RZG6MKCUGRBBFIE5HUEY3Y2OJI/",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635146",
   "https://www.newsis.com/view/NISX20260812_0003746169",
@@ -2999,13 +2995,13 @@
   "https://www.dt.co.kr/article/12078144",
   "https://www.ngonews.kr/news/articleView.html?idxno=235412",
   "http://www.yonhapnewstv.co.kr/news/AKR20260813141855Nre",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=207784"
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=207784",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=60002",
+  "https://www.youthdaily.co.kr/news/article.html?no=225104",
+  "https://www.huffingtonpost.kr/article/259533",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=128237"
  ],
  "seen_titles": [
-  "김제시,행정동우회와간담회…정성주시장'경험·지혜로지역발전...",
-  "제미나이월간이용자10억명돌파-구글역사상가장빠른성장",
-  "치료사의'세번째팔'된재활로봇…'자율주행'심는정형외과의사",
-  "AI매출늘었는데이익은제각각…NHN·삼성SDS·LGCNS‘수익화속도’...",
   "한국정책학회가인정…\"식약처,최우수정책상\"",
   "LG유플러스,AWS앞세워공공클라우드시장공략",
   "KT\"2028년ROE10%목표\"…AX매출2배·자사주1조소각",
@@ -6001,7 +5997,11 @@
   "구글,도쿄에스마트폰‘픽셀’매장오픈…해외첫매장",
   "KT,'2027충청유니버시아드대회'정보통신부문공식후원협약체결",
   "\"오픈AI올트먼사망\"구글검색소동…위키백과허위정보탓인듯",
-  "왓츠랩,엔비디아인셉션합류…에어글러브기반로봇손데이터기술..."
+  "왓츠랩,엔비디아인셉션합류…에어글러브기반로봇손데이터기술...",
+  "[현장]지스타조직위\"대형게임사불참아냐,G-CON의전논란사실무근...",
+  "민간자금80%유입…1조원'LP성장펀드'출범",
+  "네이버AI데이터센터미국진출전방위적모색,파도활용하는'파력발...",
+  "\"실제차몰며해킹막는다\"…국민대·고려대,세계최고차량보안학..."
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,13 @@
   [
    "2026-08-13T14:20:28.662961+09:00",
    "왓츠랩 로봇 합류 기술 기반 인셉션 데이터 에어글러브"
+  ],
+  [
+   "2026-08-13T14:22:18.178313+09:00",
+   "국민대 막는다 최고 고려대 세계 차량보안 실제 몰며"
   ]
  ],
- "last_run": "2026-08-13T14:20:51.561783+09:00",
+ "last_run": "2026-08-13T14:22:40.420862+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
