@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444603",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3663086",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3663093",
-  "https://biz.sbs.co.kr/article_hub/20000328332?division=NAVER",
-  "http://www.fnnews.com/news/202608121809596559",
-  "https://www.dt.co.kr/article/12077995",
   "http://www.fnnews.com/news/202608121809564429",
   "http://www.gndomin.com/news/articleView.html?idxno=485298",
   "https://www.namdonews.com/news/articleView.html?idxno=919897",
@@ -2999,15 +2993,15 @@
   "https://www.aitimes.com/news/articleView.html?idxno=213918",
   "http://www.newstomato.com/ReadNews.aspx?no=1309984&inflow=N",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260814010004793",
-  "http://www.gndomin.com/news/articleView.html?idxno=485517"
+  "http://www.gndomin.com/news/articleView.html?idxno=485517",
+  "http://www.newstomato.com/ReadNews.aspx?no=1309789&inflow=N",
+  "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html?partner=naver",
+  "https://www.mk.co.kr/article/12126910",
+  "https://www.sedaily.com/article/20079198",
+  "https://www.mt.co.kr/stock/2026/08/13/2026081318034376273",
+  "https://www.aitimes.com/news/articleView.html?idxno=213920"
  ],
  "seen_titles": [
-  "‘스크레이핑’제한에금융권부글…개보위“사전협의신청하면한시...",
-  "신한카드,최대6%적립'하이포인트플랜'출시",
-  "[이슈플러스]“HBM이어낸드”…SK하이닉스,낸드공급망확장",
-  "\"AX매출2배·영업이익률9%\"...KT,'코퍼레이트데이'서기업가치계...",
-  "감사원“1.6조투입공공기관AI학습데이터,저품질·관리부실”",
-  "\"쓸수록포인트가쌓인다\"…신한카드,'Hi-PointPlan'2종출시",
   "[중앙로365]AI에이전트가결제하는시대,그리고부산",
   "농협은행AI기반차세대고객센터열어,상담대기줄이고맞춤형답변...",
   "조상호세종시장,시민사회범국민대책위원회출범은...행정수도특별...",
@@ -6001,7 +5995,13 @@
   "유럽서점가덮친'5000권주문미스터리'...\"AI학습용책수집의혹확...",
   "개인정보위,20일부터공공기관개인정보'무단스크래핑'제동…사전협...",
   "해킹수습에지갑못여는SKT·KT…설비투자두자릿수'뚝'",
-  "KT,부산지역외국인유학생'통신장벽'낮춘다"
+  "KT,부산지역외국인유학생'통신장벽'낮춘다",
+  "\"갤Z폴드8256GB로변경하면지원금추가\"",
+  "ITestedaPopularA.I.SlopDetector.ItFeltEmpowering.",
+  "HBM·ASIC…암호같은이름알면반도체투자가보인다[반도체플러스]",
+  "AI4대천왕키워낸中의‘인내자본’…자체칩으로美규제도우회",
+  "\"솔리다임상장,SK하이닉스주주에불리…주주환원주목\"-토스",
+  "오픈AI,'AI에이전트지식노동'전직군으로확대…\"법무분야활용도..."
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,13 @@
   [
    "2026-08-13T18:06:24.604795+09:00",
    "통신 부산지역 낮춘다 외국인 장벽 유학생 ~KT"
+  ],
+  [
+   "2026-08-13T18:08:19.307898+09:00",
+   "분야 활용도 확대 지식 에이전트 노동 법무 직군으로"
   ]
  ],
- "last_run": "2026-08-13T18:06:49.122940+09:00",
+ "last_run": "2026-08-13T18:08:38.597010+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
