@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=747799",
-  "https://www.socialvalue.kr/news/view/1065580451295778",
   "http://www.srtimes.kr/news/articleView.html?idxno=209803",
   "https://daily.hankooki.com/news/articleView.html?idxno=1395175",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1001487",
@@ -2999,11 +2997,11 @@
   "https://economist.co.kr/article/view/ecn202608130030",
   "https://www.starnewskorea.com/star/2026/08/13/2026081311455437394",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43012",
-  "https://www.joongangenews.com/news/articleView.html?idxno=539794"
+  "https://www.joongangenews.com/news/articleView.html?idxno=539794",
+  "https://www.donga.com/news/Culture/article/all/20260813/134471179/4",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168042"
  ],
  "seen_titles": [
-  "문학을그림으로만난다…대전테미문학관'그림으로읽는문학'展",
-  "AI생태계주도권,오픈소스·오픈데이터가가른다",
   "가짜신분으로악성코드심으려한AI···실패하자은폐시도까지",
   "LG유플러스,AWS클라우드공공기관에공급…AX시장공략",
   "KT,2분기영업이익전년比36%↓…\"성장사업은확대\"",
@@ -6001,7 +5999,9 @@
   "모티프테크놀로지스,독자AI모델‘모티프3’오픈소스공개",
   "최시원,SNS해킹피해호소후하루만..\"클래식은기준이다\"",
   "요금제짜던KT,이젠'AI토큰가격표'만든다…1GWAIDC위새수익공...",
-  "시흥시,서울대·오픈AI와함께인공지능미래인재양성"
+  "시흥시,서울대·오픈AI와함께인공지능미래인재양성",
+  "키스오브라이프,광화문밝힌응원…“힘들땐쉬어가도괜찮아”",
+  "SKT\"Raisethefacialrecognitionsuccessrateabove60%\""
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,13 @@
   [
    "2026-08-13T12:00:42.217299+09:00",
    "토큰 만든다 짜던 요금제 AIDC ~KT 1GW 가격표 수익공 이젠"
+  ],
+  [
+   "2026-08-13T12:02:18.166277+09:00",
+   "~SKT rate Raise success recognition facial above the"
   ]
  ],
- "last_run": "2026-08-13T12:00:59.916545+09:00",
+ "last_run": "2026-08-13T12:02:36.484853+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
