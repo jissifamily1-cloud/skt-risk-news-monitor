@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10838668",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=320765",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856293",
-  "https://kr.aving.net/news/articleView.html?idxno=1813088",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=307237",
-  "https://biz.heraldcorp.com/article/10838670",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53582",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169709",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422973",
   "https://biz.heraldcorp.com/article/10838681",
   "https://www.gukjenews.com/news/articleView.html?idxno=3662590",
@@ -2999,17 +2991,17 @@
   "https://news.tf.co.kr/read/economy/2353672.htm",
   "https://www.itdaily.kr/news/articleView.html?idxno=240973",
   "https://www.yna.co.kr/view/AKR20260813059000002?input=1195m",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=790154"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=790154",
+  "https://www.yna.co.kr/view/AKR20260813058100017?input=1195m",
+  "https://www.theguru.co.kr/news/article.html?no=105742",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458971",
+  "https://www.imaeil.com/page/view/2026081310020898021",
+  "https://www.newsis.com/view/NISX20260813_0003747184",
+  "https://www.nbntv.co.kr/news/articleView.html?idxno=4023829",
+  "https://www.namdonews.com/news/articleView.html?idxno=919948",
+  "https://www.etnews.com/20260813000094"
  ],
  "seen_titles": [
-  "KT,2분기영업익6483억원전년비36.1%감소…\"고객보답프로그램영...",
-  "통신사에서'AX플랫폼'으로…KT,AI·클라우드매출22.3%성장",
-  "엔비디아,700조원재원조달…삼전닉스덩달아웃는다",
-  "[단독]청소년중독우려,틱톡‘현금보상’…결국칼빼든방미통위",
-  "해킹영향지속…KT영업이익지난해대비36.1%감소",
-  "KT,2분기영업이익6483억원…일회성분양이익기저영향으로전년비3...",
-  "통신3사,불붙는‘요금제+AI’결합상품전쟁",
-  "8이닝끌려가던KT,9회에만6점...7-3NC뒤집고'7연승·60승'질주",
   "미소정보기술,2026디파이AI해커톤개최",
   "인텔렉투스,DIFA2026서실시간미들웨어'int2ConneX'선봬…\"초저지연...",
   "중앙통제없는비트코인,15년간네트워크지킨'분산거버넌스'",
@@ -6001,7 +5993,15 @@
   "AI대화창입력하면주식거래실행…토스증권,'오픈API'출시",
   "네이버,'파력발전AIDC'판탈라사투자…해상서전력생산·AI연산",
   "빗썸,인공지능공급망공격예방위한가이드공개",
-  "[위클리오늘]삼전닉스,역대급실적에주주환원'통큰카드'꺼낼까"
+  "[위클리오늘]삼전닉스,역대급실적에주주환원'통큰카드'꺼낼까",
+  "[테크스냅]LGU+,장애인직업재활시설·지역농가와'나눔마켓'",
+  "인도,신형훈련기150대도입착수…KAI·HAL·보잉·레오나르도물망",
+  "주파수재할당대가산정방식손본다···연구반13일발족",
+  "[여의도단신]NH투자증권·한국투자증권·신한투자증권·토스증권",
+  "中연계추정해커,AI로대만정부기관공격",
+  "글로벌광통신밸류체인증설본격화…ADST장비수주확대",
+  "청암대외국인유학생,학교서통신가입·상담받는다",
+  "기업AI사용격차8.3배…'코딩에이전트'오픈AI토큰사용압도"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,17 @@
   [
    "2026-08-13T10:12:16.720169+09:00",
    "실적에 역대급 꺼낼까 카드 삼전닉스 주주환원"
+  ],
+  [
+   "2026-08-13T10:14:18.448170+09:00",
+   "상담 받는다 통신 학교서 외국인 청암대 가입 유학생"
+  ],
+  [
+   "2026-08-13T10:14:18.448170+09:00",
+   "코딩 압도 격차 기업 토큰 3배 사용 에이전트"
   ]
  ],
- "last_run": "2026-08-13T10:12:41.379212+09:00",
+ "last_run": "2026-08-13T10:14:42.846655+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
