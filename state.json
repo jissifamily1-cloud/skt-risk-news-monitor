@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260812_0003746110",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=114981",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=662281",
-  "https://www.cnbizm.com/news/articleView.html?idxno=311291",
-  "http://coinreaders.com/252381",
-  "https://www.news1.kr/industry/auto-industry/6256722",
-  "https://www.greened.kr/news/articleView.html?idxno=347479",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1719901",
-  "https://www.busan.com/view/busan/view.php?code=2026081213435456034",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3662715",
-  "https://www.xportsnews.com/article/2182748",
   "https://www.ekn.kr/web/view.php?key=20260812025122016",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213717",
   "https://view.asiae.co.kr/article/2026081213481944003",
@@ -2999,20 +2988,20 @@
   "https://gamefocus.co.kr/detail.php?number=178188",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444649",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692803",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692799"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692799",
+  "http://www.osen.co.kr/article/G1112856327",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3663608",
+  "https://www.greened.kr/news/articleView.html?idxno=347571",
+  "https://news.mtn.co.kr/news-detail/2026081310042556262",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04526406645546992",
+  "https://www.redian.org/news/articleView.html?idxno=257122",
+  "http://www.inews24.com/view/1994644",
+  "https://www.newspim.com/news/view/20260813000509",
+  "https://www.sentv.co.kr/article/view/sentv202608130082",
+  "https://kbench.com/?q=node%2F281137",
+  "https://www.newspim.com/news/view/20260813000539"
  ],
  "seen_titles": [
-  "해외증권사사칭'15억대투자리딩사기'…유성서,8명검거",
-  "[영상]\"모든걸아우르는건사람이다\"",
-  "호르무즈에발목잡힌뉴욕증시…코스피는상승,삼성전자·하이닉스도...",
-  "KT,2분기매출6조6천799억원…B2B·AX회복에전분기대비수익성개선",
-  "NH농협은행,AI컨택센터구축…상담내용요약·맞춤답변지원",
-  "'챗GPT압도적1위'…구글제미나이도가세,빅테크AI서비스국내검색...",
-  "여야,광주반도체공방…與\"최적지\"野\"총선·대선용인기성정책\"",
-  "LG유플러스,AWS기반공공클라우드중개서비스등록…공공AX사업속...",
-  "KT,2Q영업익6483억…34%실적반등",
-  "신한카드,생활밀착가맹점최대6%적립'Hi-PointPlan'출시",
-  "암호화폐기업99곳문닫았지만...비트코인(BTC)은바닥다지기?",
   "정의선회장\"경영진도코딩해봐야\"…현대차그룹AX직접챙겼다",
   "실명계좌는없어도,준비는달랐다…우리·하나은행의두가지가상자...",
   "\"집토끼지켜라\"⋯통신사장기고객모시기경쟁'후끈'",
@@ -6001,7 +5990,18 @@
   "서린씨앤아이,리드텍엔비디아RTXPRO4500블랙웰서버에디션D732GB...",
   "상장준비하는오픈AI・앤트로픽온실가스배출에는침묵,탄소중립목...",
   "앤트로픽,기업AI도입률앞섰는데…고급모델지출은오픈AI승리",
-  "유명기업사칭→검색결과악용…정교해지는북한해킹"
+  "유명기업사칭→검색결과악용…정교해지는북한해킹",
+  "이오콘텐츠그룹,호러스릴러명가입지굳힌다…‘지하도’공개",
+  "[기고]강정근문학박사\"전북,웰니스치유여행과워케이션의성지로...",
+  "한화생명,AI기반업무혁신내재화'가속'...\"보험넘어AI기반종합금...",
+  "네이버,파력발전기반AI데이터센터개발기업'판탈라사'투자",
+  "지슨,2Q매출82%↑…영업익흑자전환",
+  "SK하이닉스,27일美인디애나공장착공식...최태원·젠슨황참석여부...",
+  "오픈AI·엔비디아,한국서첫개발자밋업…AI에이전트기술공유",
+  "오픈AI·엔비디아,한국첫공동밋업개최",
+  "“AI에업무맡긴다”…오픈AI,기업용AI사용변화분석",
+  "엔비디아A100,2029년까지현역..경제적수명예상보다길어져",
+  "\"앤스로픽,AI스타트업'데카트'60억달러인수추진\""
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,17 @@
   [
    "2026-08-13T11:10:28.582502+09:00",
    "정교해지는 북한 유명 기업 사칭 결과 악용 검색"
+  ],
+  [
+   "2026-08-13T11:12:20.230256+09:00",
+   "기업용 맡긴다 AI에 업무 변화 사용 분석"
+  ],
+  [
+   "2026-08-13T11:12:20.230256+09:00",
+   "60억 인수 달러 데카트 스타트업"
   ]
  ],
- "last_run": "2026-08-13T11:10:51.719011+09:00",
+ "last_run": "2026-08-13T11:12:41.041378+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
