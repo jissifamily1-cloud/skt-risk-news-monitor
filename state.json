@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260812500483",
-  "https://www.imaeil.com/page/view/2026081210442620589",
-  "https://view.asiae.co.kr/article/2026081210500362408",
-  "https://www.etnews.com/20260812000178",
-  "http://www.dailyesports.com/view.php?ud=202608121056225711b91e133c1f_27",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3662521",
-  "http://www.nongup.net/news/articleView.html?idxno=33534",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=361623",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008701620&plink=ORI&cooper=NAVER",
   "https://www.ziksir.com/news/articleView.html?idxno=142903",
   "https://www.etoday.co.kr/news/view/2613638",
@@ -2999,17 +2991,17 @@
   "http://www.metroseoul.co.kr/article/20260813500054",
   "https://www.joongang.co.kr/article/25452995",
   "https://www.news1.kr/finance/market-exr/6257689",
-  "https://www.newsis.com/view/NISX20260813_0003747343"
+  "https://www.newsis.com/view/NISX20260813_0003747343",
+  "https://www.bntnews.co.kr/article/view/bnt202608130106",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84940",
+  "https://www.imaeil.com/page/view/2026081309420033998",
+  "https://view.asiae.co.kr/article/2026081308565608509",
+  "https://biz.heraldcorp.com/article/10839772",
+  "https://theviewers.co.kr/View.aspx?No=4184883",
+  "https://biz.heraldcorp.com/article/10839768",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000056508"
  ],
  "seen_titles": [
-  "[공시]KT,2분기영업이익3,890억…전년비17.0%↓",
-  "갤럭시Z8글로벌흥행조짐…한국39%·미국30%·유럽20%↑",
-  "이현재하남시장,미사역스마트쉼터·근린공원무더위쉼터점검…시민...",
-  "[포인트데일리특징주]'삼전닉스',美반도체주훈풍에동반불기둥",
-  "삼성전자,외국인매수세에'급등'…'대규모주주환원'주가기폭제되...",
-  "메타,'로컬AI'승부수…노트북에서돌아가는오픈모델공개",
-  "국내AI스타트업“국산AI반도체,공공수요·수출기반必”⋯국회에...",
-  "박스권이냐V자반등이냐…반도체투톱주주환원에달렸다",
   "원유·전기처럼'AI연산력'에투자…GPU선물나온다",
   "경북대,엔비디아·HD현대로보틱스와손잡고'지역제조AI혁신'추진",
   "'기인'김기인,\"탑최초500승?기억남는순간AF시절\"",
@@ -6001,7 +5993,15 @@
   "[특징주]美반도체강세에'삼성전자·SK하이닉스'나란히급등",
   "엔비디아젠슨황,직원이뽑은‘美최고CEO’1위…지지율99%",
   "'삼전닉스'강세에코스피4%급등,6800선회복[개장시황]",
-  "장마·폭염에도…KT지니뮤직,러닝특화음악서비스성장세"
+  "장마·폭염에도…KT지니뮤직,러닝특화음악서비스성장세",
+  "‘신병4:사보타주’이상진,중위오석진으로컴백",
+  "\"통합API연동으로매매편의성극대화\"…토스증권,LLM결합오픈API서...",
+  "디지털역량강화하는NH證…개화앞둔STO시장선점나선다",
+  "\"AI가업무효율높인다더니\"…정작AI개발자들은'주90시간근무'도'",
+  "네이버,美AI데이터센터개발기업‘판탈라사’투자…AI인프라확보...",
+  "[기업탐방]씨이랩,3458억수주로외형성장본격화…GPU구축넘어운...",
+  "美CPI안도·반도체질주에코스피6800선돌파[투자360]",
+  "젠슨황,직원신뢰도99%…CEO평가정상"
  ],
  "recent_sigs": [
   [
@@ -6421,7 +6421,7 @@
    "KT지니뮤직 음악 폭염에도 러닝 서비스 성장세 특화 장마 ~KT"
   ]
  ],
- "last_run": "2026-08-13T09:52:39.876677+09:00",
+ "last_run": "2026-08-13T09:54:39.198022+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
