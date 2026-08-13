@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=208028",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=06848646645546664",
-  "https://www.sedaily.com/article/20078775",
-  "https://www.ikbc.co.kr/article/view/kbc202608120056",
-  "https://www.wikitree.co.kr/articles/1152089",
-  "https://www.tokenpost.kr/news/cryptocurrency/389331",
-  "http://www.osen.co.kr/article/G1112856062",
   "https://www.rcast.co.kr/news/articleView.html?idxno=31455",
   "https://www.tokenpost.kr/news/cryptocurrency/389338",
   "https://www.tokenpost.kr/news/market/389335",
@@ -2999,16 +2992,16 @@
   "http://www.osen.co.kr/article/G1112856861",
   "http://www.osen.co.kr/article/G1112856859",
   "http://www.osen.co.kr/article/G1112856858",
-  "https://www.the-today.com/news/articleView.html?idxno=88454"
+  "https://www.the-today.com/news/articleView.html?idxno=88454",
+  "http://www.osen.co.kr/article/G1112856876",
+  "https://mhnse.com/news/articleView.html?idxno=1488175",
+  "https://www.pdjournal.com/news/articleView.html?idxno=90061",
+  "https://www.khan.co.kr/article/202608122058035",
+  "https://biz.heraldcorp.com/article/10840796",
+  "https://www.joongang.co.kr/article/25453198",
+  "http://www.joseilbo.com/news/news_read.php?uid=573820&class=18"
  ],
  "seen_titles": [
-  "해커가원격에서시스코방화벽멈춘다…CVE-2026-20349공격확인",
-  "[미리보는이데일리신문]PRS올해만6.3조···주가떨어지면'숨은빚...",
-  "청산위기넘기자마자또‘통큰베팅’…월가뒤흔든‘25세천재’가...",
-  "[단독]10조규모신세계'AI팩토리',호남유력후보지검토",
-  "하모니ONE,40억개무단발행에가격40%급락",
-  "42억위안유니트리IPO등록승인,휴머노이드5500대출하",
-  "[사진]최정원,실점막은호수비",
   "한국투자증권뱅키스,'주식모으기시즌2'이벤트진행外",
   "720Tbps해저케이블,걸프7개국잇는다",
   "분사후600%오른GE버노바…주문도88%늘었다",
@@ -6001,7 +5994,14 @@
   "[사진]축하받는김주원,역전솔로포",
   "[사진]김주원역전솔로홈런",
   "[사진]김주원,위풍당당역전솔로홈런",
-  "말레이시아국영통신사'베르나마'CEO\"아세안-中협력,역내안정·성..."
+  "말레이시아국영통신사'베르나마'CEO\"아세안-中협력,역내안정·성...",
+  "[사진]역전포에고개떨군손동현",
+  "최시원,'해킹피해'호소하루만에…여유로운근황[MHN:피드]",
+  "10월부터중간광고규제완화...\"방송시장회복마중물\"",
+  "1조6000억쏟은공공AI데이터‘거기서거기’",
+  "빌게이츠1년만에방한…정·재계와SMR협력논의예정",
+  "[속보]빌게이츠1년만에방한…정·재계와SMR협력논의예정",
+  "“K-디스카운트수출하나”…거버넌스포럼,‘솔리다임상장검토’에..."
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-08-13T21:54:17.815335+09:00",
    "아세안 역내 안정 국영통신사 협력 CEO 말레이시아 베르나마"
+  ],
+  [
+   "2026-08-13T21:56:18.366362+09:00",
+   "거버넌스포럼 상장 솔리다임 검토 수출하나 디스카운트"
   ]
  ],
- "last_run": "2026-08-13T21:54:38.632531+09:00",
+ "last_run": "2026-08-13T21:56:41.511564+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
