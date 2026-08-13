@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/12/2026081200285.html",
-  "https://kookbang.dema.mil.kr/newsWeb/20260812/4/ATCE_CTGR_0060010000/view.do",
-  "https://sports.khan.co.kr/article/202608121702003?pt=nv",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3663023",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050837",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850191",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34544",
   "https://www.newsway.co.kr/news/view?ud=2026081215273655462",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206449",
@@ -2999,15 +2993,15 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=129632",
   "https://www.etnews.com/20260813000398",
   "http://coinreaders.com/252621",
-  "https://www.hankookilbo.com/news/article/A2026081313430002822?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026081313430002822?did=NA",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444454",
+  "https://www.tgdaily.co.kr/news/articleView.html?idxno=406344",
+  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90532",
+  "https://www.news2day.co.kr/article/20260813500216",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=877873",
+  "https://ditoday.com/%ec%b4%88%ec%95%88-%ec%a7%9c%eb%8a%94-ai-%ec%98%86%ec%97%90%ec%84%9c-%ea%b8%b0%ed%9a%8d%ec%9e%90%ea%b0%80-%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%9d%bc/"
  ],
  "seen_titles": [
-  "롯데백화점,'RCS'도입…기업사칭·스팸막는다",
-  "기록적폭염에재난문자급증…5년평균보다57%늘었다",
-  "문정인군수선거법위반관련,각하및기각결정받아",
-  "삼전·닉스동반급등에코스피6600선눈앞…\"패닉이진정국면으로\"",
-  "손흥민없는대표팀,당연히있다...\"삼전닉스없는대한민국도대비를...",
-  "깊이가다른글로벌투자정보GAM-맛보기편(8/12)",
   "최시원,SNS해킹당했나...\"무작위대화시도,답하지말길\"",
   "SK하이닉스인디애나팹27일착공…최태원·젠슨황빅테크거물모인...",
   "광복으로이어진길,그발자취를따르다",
@@ -6001,7 +5995,13 @@
   "KT는스포츠,LGU+는나눔…통신사,사회적가치확산나서",
   "시흥시,서울대·오픈AI와AI여름캠프개최…고등·대학생80명실습",
   "오픈AI,핵심인력줄퇴사에8,520억몸값'불안'...올해IPO물건너가나",
-  "임직원99%가\"젠슨황최고\"…美'CEO평가'1위,인기비결은?"
+  "임직원99%가\"젠슨황최고\"…美'CEO평가'1위,인기비결은?",
+  "통신3사CEO\"예방보안체계로다바꿔\",'매출10%과징금'개정개인정...",
+  "[LCK]DK2대0으로KT격파4위로상승",
+  "[금융브리핑]대신증권·한양증권·토스증권·LS증권",
+  "(마감시황)코스피,美CPI안도감속반도체관련주랠리…6,810선안착",
+  "삼성전자주가상승에그룹시총2000조원대회복성공",
+  "초안짜는AI옆에서기획자가해야할일"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,13 @@
   [
    "2026-08-13T16:34:27.368799+09:00",
    "핵심 건너가나 몸값 줄퇴사에 520억 인력 불안 올해 IPO"
+  ],
+  [
+   "2026-08-13T16:36:20.520493+09:00",
+   "초안 해야 기획자가 옆에서 짜는"
   ]
  ],
- "last_run": "2026-08-13T16:34:54.057183+09:00",
+ "last_run": "2026-08-13T16:36:42.116850+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
