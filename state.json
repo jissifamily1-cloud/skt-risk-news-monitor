@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2116198",
-  "http://www.breaknews.com/1228429",
-  "https://www.ngonews.kr/news/articleView.html?idxno=235287",
-  "https://www.cwn.kr/news/articleView.html?idxno=52830",
-  "https://www.news1.kr/it-science/cc-newmedia/6256742",
-  "https://hbnpress.com/news/view/1065587322552018",
-  "https://www.cwn.kr/news/articleView.html?idxno=52818",
-  "http://www.fnnews.com/news/202608121109194423",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=227360",
   "https://www.kbmaeil.com/article/20260812500301",
   "https://www.newsis.com/view/NISX20260812_0003746010",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260813000153",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=2232",
   "https://www.etnews.com/20260813000152",
-  "http://www.iminju.net/news/articleView.html?idxno=168016"
+  "http://www.iminju.net/news/articleView.html?idxno=168016",
+  "https://www.hankookilbo.com/news/article/A2026081310350001881?did=NA",
+  "https://www.pressman.kr/news/articleView.html?idxno=103129",
+  "https://www.ytn.co.kr/_ln/0102_202608121105155680",
+  "https://www.asiatime.co.kr/article/20260810500118",
+  "https://www.ddaily.co.kr/page/view/2026081311020620984",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=756351",
+  "https://www.news1.kr/industry/distribution/6257856",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04493606645546992"
  ],
  "seen_titles": [
-  "'AI쓰는3만직원'다음은'로봇연3만대'…현대차AX,피지컬AI로'...",
-  "(자체)애플문턱까지온CXMT,HBM벽은높다…SK하이닉스'AI메모리해...",
-  "아동·청소년성착취물미끼도박사이트로476억원상당부당이익챙긴...",
-  "키움1선발된안우진의승운없는여름",
-  "한국농어촌공사함안지사,310만원기부…지역사회협력강화",
-  "OTT공세맞선유료방송가,글로벌·IP·지역상생으로돌파구",
-  "[일문일답]\"정의선도직접코딩\"…현대차그룹AX성과공개",
-  "KT,올2분기영업익6483억원..전년대비36.1%↓",
   "KT,2분기매출6조6799억·영업이익6483억···AX,데이터센터성장에...",
   "'마이크로소프트마켓플레이스서첫선'…모티프테크놀로지스,자체LLM...",
   "SK하이퍼,C레벨인선완료…AI데이터센터사업속도",
@@ -6001,7 +5993,15 @@
   "[ET특징주]삼성전자·SK하이닉스강세…美반도체훈풍·주주환원기대...",
   "LG유플러스,장애인직업재활시설·지역농가참여'나눔마켓'연다",
   "젠슨황,美직원이뽑은'최고의CEO'등극…지지율99%로1위",
-  "[민주IT]삼성SDS·LG유플러스·LG전자"
+  "[민주IT]삼성SDS·LG유플러스·LG전자",
+  "독자모델개발스타트업약진…글로벌평가서모티프·업스테이지1·...",
+  "쌀전달부터광복절캠페인까지…기업사회공헌삼색행보",
+  "삼전닉스'주주환원'아우성\"실적좋다며?근데주가는왜이래?\"",
+  "“갤럭시쓰면통신장애반토막”…삼성전자,日점유율반등카드확...",
+  "구글,‘픽셀워치5·픽셀태그·픽셀버즈’공개…픽셀스마트생태...",
+  "실적개선에도시총17조싹둑…카카오흔드는5대위기",
+  "에스트라,KDD2026서AI피부진단기술연구성과공개",
+  "지니언스,한국거래소주관‘코스닥라이징스타’4년연속선정"
  ],
  "recent_sigs": [
   [
@@ -6561,7 +6561,7 @@
    "LG전자 ~LGU LG유플러스 삼성SDS"
   ]
  ],
- "last_run": "2026-08-13T11:02:40.029275+09:00",
+ "last_run": "2026-08-13T11:04:39.911344+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
