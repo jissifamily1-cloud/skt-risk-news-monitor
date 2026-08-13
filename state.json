@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=849685",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=690856",
   "https://www.newspim.com/news/view/20260807000101",
   "https://www.etnews.com/20260807000005",
   "https://slownews.kr/164479",
@@ -2999,11 +2997,11 @@
   "http://www.consumernews.co.kr/news/articleView.html?idxno=761465",
   "https://www.yna.co.kr/view/AKR20260813171800007?input=1195m",
   "https://www.yna.co.kr/view/AKR20260813171700007?input=1195m",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720360"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720360",
+  "https://www.etoday.co.kr/news/view/2614431",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693046"
  ],
  "seen_titles": [
-  "'AI검색시대엔다르다?'...PB브랜드,AI답변서대기업앞질러",
-  "이제제주행정도본격AI시대?전직원에유료개인계정",
   "인터넷소통協'AI브랜드경쟁력지수'개발·'AI브랜드대상'신설",
   "쇼피파이,AI검색이고객데려온다…신규유입경로로작동",
   "[AIMY뉴스]7일중국증시'지정학불안·유가변수재등장,변동성확...",
@@ -6001,7 +5999,9 @@
   "[단독]LGU+,인터넷장애배상기준1시간→2시간'문턱높여'...누적장...",
   "◇내일의경기(15·16일)",
   "◇오늘의경기(14일)",
-  "빌게이츠방한…정·재계잇달아만나SMR협력속도전"
+  "빌게이츠방한…정·재계잇달아만나SMR협력속도전",
+  "뉴욕증시,인플레이션둔화·유가하락에상승...S&P500최고치[종합]",
+  "IBM,오픈AI와제휴...기업용AI사업확장"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,13 @@
   [
    "2026-08-14T06:18:24.710241+09:00",
    "배상기준 인터넷 장애 문턱 1시간 LG 2시간 누적 높여"
+  ],
+  [
+   "2026-08-14T06:20:29.217880+09:00",
+   "기업용 사업 오픈AI와 확장 IBM 제휴"
   ]
  ],
- "last_run": "2026-08-14T06:18:46.193187+09:00",
+ "last_run": "2026-08-14T06:20:46.690440+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
