@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://ditoday.com/ai-%ec%83%9d%ec%84%b1-%ea%b8%80%ec%97%90-%ec%9b%8c%ed%84%b0%eb%a7%88%ed%81%ac-%eb%b6%99%eb%8a%94%eb%8b%a4-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%a0%84-%eb%aa%a8/",
-  "https://www.newspim.com/news/view/20260812001082",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310074&inflow=N",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131548",
-  "https://www.m-i.kr/news/articleView.html?idxno=1401674",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=444577",
-  "https://www.dt.co.kr/article/12077922",
   "https://www.newspim.com/news/view/20260812000987",
   "http://www.efnews.co.kr/news/articleView.html?idxno=131544",
   "https://www.dailysecu.com/news/articleView.html?idxno=208024",
@@ -2999,16 +2992,16 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=635611",
   "https://www.mstoday.co.kr/news/articleView.html?idxno=102321",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=05172566645546992",
-  "https://www.yeongnam.com/web/view.php?key=20260813026491988"
+  "https://www.yeongnam.com/web/view.php?key=20260813026491988",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=790235",
+  "https://kpenews.com/View.aspx?No=4185558",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=597971",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142891",
+  "https://www.seoul.co.kr/news/society/2026/08/13/20260813500156?wlog_tag3=naver",
+  "https://www.yna.co.kr/view/PYH20260813164100013?input=1196m",
+  "https://www.news1.kr/economy/trend/6258033"
  ],
  "seen_titles": [
-  "“김희철착한척”해명한최시원,SNS해킹당했나“보내지않은메...",
-  "KeSPA,제18회대통령배KeG전국결선15일경주서개막...아마추어저...",
-  "T1,KSPO돔서디플러스기아·젠지와맞대결…농심레드포스도반격도전",
-  "농협은행,AI컨택센터오픈…\"고객의금융여정밀착지원\"",
-  "'아시안게임5연패도전'한국야구대표팀,9월14일소집",
-  "전주승화원,'GA실내공기질우수시설인증'획득",
-  "AI생성글에'워터마크'붙는다...앤트로픽,클로드전모델적용",
   "\"中연계해커,AI동원해대만공격...원전당국도노려\"",
   "악재털어낸KT…박윤영호,3분기부터'진짜성적표'",
   "kt밀리의서재,2분기매출238억원…전년比15.2%증가'성장세지속'",
@@ -6001,7 +5994,14 @@
   "모티프·업스테이지,글로벌AI성능지표서SKT·LG앞섰다",
   "직원신뢰99%…젠슨황,美'최고CEO'1위",
   "엔비디아GPU가금융자산으로…월가의베팅",
-  "‘승리가뭄’삼성의선발라인업실험...선두KT와격차줄일수있을..."
+  "‘승리가뭄’삼성의선발라인업실험...선두KT와격차줄일수있을...",
+  "[금융권소식]KB금융ㆍBNK경남은행ㆍiM뱅크(8.13)",
+  "독파모판흔든후발주자모티프..글로벌평가47점선두",
+  "[기업家]LG씨엔에스(LGCNS)②ㅣ신약부터공항·신소재까지…산업전반...",
+  "[AI쩐의전쟁]①현금떨어진빅테크들...자금조달에물불안가린다",
+  "국민대·고려대공동연구팀,차량보안국제학회서최우수아티팩트상",
+  "KT-2027충청유니버시아드대회조직위원회정보·통신부문공식후원...",
+  "[단독]금융위·개보위세종行…산은·기은·수은도지방이전유력"
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,13 @@
   [
    "2026-08-13T14:42:18.578025+09:00",
    "GPU가 월가의 금융 자산으로 베팅"
+  ],
+  [
+   "2026-08-13T14:44:20.621588+09:00",
+   "세종 수은도 이전 유력 기은 금융위 지방 산은"
   ]
  ],
- "last_run": "2026-08-13T14:42:40.243367+09:00",
+ "last_run": "2026-08-13T14:44:42.358389+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
