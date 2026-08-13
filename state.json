@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.catchnews.kr/news/articleView.html?idxno=127272",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1011322",
-  "https://www.dt.co.kr/article/12077984",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=238661",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134290",
-  "https://www.ajunews.com/view/20260812171656601",
   "https://kidd.co.kr/news/247003",
   "https://www.sportschosun.com/life/2026-08-12/202608120100071930004436",
   "https://www.mydaily.co.kr/page/view/2026081217281875696",
@@ -2999,15 +2993,15 @@
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87508",
   "https://magazine.hankyung.com/business/article/202608139932b",
   "https://www.newspim.com/news/view/20260813001017",
-  "https://www.donga.com/news/It/article/all/20260813/134473517/2"
+  "https://www.donga.com/news/It/article/all/20260813/134473517/2",
+  "https://sports.khan.co.kr/article/202608131704003?pt=nv",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3664097",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3664089",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3664105",
+  "https://www.viva100.com/article/20260813501276",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=270402"
  ],
  "seen_titles": [
-  "김민석,鄭에“이재용·최태원만나봤나”…정청래“총수자주만나...",
-  "최태원‘장기보유’권했는데짠물배당…SK하이닉스주주환원정책논...",
-  "피지컬AI힘주는롯데…챗GPT전사차원도입",
-  "위메이드맥스,2분기영업손실154억…'나이트크로우W'출격준비",
-  "SKT,가입자순감폭은줄였지만…영업익67%뒤엔기저효과와소송리스...",
-  "‘무료AI풀어판키운다’…엔비디아,자체개발AI모델공개",
   "퍼플렉시티·퓨리오사AI…미래에셋이찜한넥스트'스페이스X'는?",
   "\"아마존클라우드앞세워\"LG유플,공공AX영토확장속도",
   "[생생현장]확달라진에이피알의'메디큐브홍대'…직접가서체험해보...",
@@ -6001,7 +5995,13 @@
   "현대차가공개한AX성적표,삼성·SK·LG는",
   "펫플레이,농심과AI진성크리에이터활용반려동물관광마케팅실증...",
   "깊이가다른글로벌투자정보GAM-맛보기편(8/13)",
-  "“트럼프욕OK,시진핑욕NO”…AI에도‘중국식검열’스며들었나"
+  "“트럼프욕OK,시진핑욕NO”…AI에도‘중국식검열’스며들었나",
+  "‘변화의연속’NC구창모,규정이닝까지이제30이닝도안남았다",
+  "부여군,여름철수상레저이용객안전사고예방안전점검실시",
+  "박완수경남도지사,밀양가뭄현장점검...\"행정력집중\"",
+  "김해시,1대1맞춤재무자립사업수강생모집",
+  "국민대·고려대연구팀,세계적차량보안학회USENIX서‘최우수아티...",
+  "\"통합관제센터부터AI콜센터까지\"…KT,2027충청유니버시아드대회공..."
  ],
  "recent_sigs": [
   [
@@ -6453,7 +6453,7 @@
    "다른 GAM 글로벌 깊이가 정보 투자 맛보기편"
   ]
  ],
- "last_run": "2026-08-13T17:04:46.512667+09:00",
+ "last_run": "2026-08-13T17:06:35.035494+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
