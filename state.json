@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026081308380163901",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4429897",
-  "https://www.sedaily.com/article/20078822",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720202",
-  "https://www.newspim.com/news/view/20260813000072",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=608235",
   "https://biz.heraldcorp.com/article/10839592",
   "https://www.news1.kr/entertain/broadcast-tv/6254882",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271484",
@@ -2999,15 +2993,15 @@
   "https://www.datanet.co.kr/news/articleView.html?idxno=213791",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260814010004859",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=726214",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89492"
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89492",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316419",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720401",
+  "https://imnews.imbc.com/replay/2026/nw930/article/6844721_36996.html",
+  "https://www.ytn.co.kr/_ln/0103_202608140937352952",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000056801",
+  "https://biz.sbs.co.kr/article_hub/20000328711?division=NAVER"
  ],
  "seen_titles": [
-  "빗썸,8월정보보호의날맞아..AI공급망공격예방가이드공개",
-  "애플도MS도아니다…빅테크주저앉을때홀로솟구친'이곳'",
-  "美AI·반도체주훈풍에...삼성전자·SK하이닉스프리마켓서4%대↑[특징...",
-  "NDF,1,417.30/1,417.70원…2.45원↑",
-  "소비자물가3.4%상승으론금리전망못바꿔[트럼프스톡커]",
-  "그로쓰리서치\"씨이랩,3458억원GPU인프라수주…외형성장궤도진입...",
   "[모닝리포트]\"씨이랩,GPU인프라투자확대수혜\"",
   "KT,분양이익기저효과에2분기영업익36.1%↓…AX사업은22.3%성장",
   "SK하이닉스,27일美인디애나팹착공식…2028년부터HBM생산",
@@ -6001,7 +5995,13 @@
   "씨이랩,상반기매출31.3억···전년동기比108%증가",
   "업스테이지‘솔라프로4’,글로벌개발자공략…사흘만에800억토큰",
   "매출로답한이통3사AIDC…다음시험대는'투자회수'",
-  "업스테이지,국산LLM'솔라프로4'공개…추론∙에이전트성능강화"
+  "업스테이지,국산LLM'솔라프로4'공개…추론∙에이전트성능강화",
+  "[오늘의편의점]세븐일레븐'윤남노복담주'전통주1위·CU'미니간편...",
+  "\"상한가다음날도샀다\"…국민연금베팅한NHN,사흘새60%폭등",
+  "최태원-노소영재상고시한‥9,440억운명은?",
+  "최태원-노소영'운명의날'...9,440억재산분할확정될까?",
+  "\"몇년→4개월\"…AI만난디즈니,'진짜올라프'만들었다",
+  "'오픈AI뛰어넘는다'앤트로픽,IPO시동"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,21 @@
   [
    "2026-08-14T09:38:17.511792+09:00",
    "윤인수 데프콘 KAIST 교수팀 세계 쾌거 해킹대회 최고 CTF 준우승"
+  ],
+  [
+   "2026-08-14T09:44:17.817006+09:00",
+   "재산분할 440억 운명의 확정될까"
+  ],
+  [
+   "2026-08-14T09:44:17.817006+09:00",
+   "뛰어넘는다 IPO 앤트로픽 시동"
+  ],
+  [
+   "2026-08-14T09:44:17.817006+09:00",
+   "디즈니 만난 올라프 만들었다 4개월 진짜"
   ]
  ],
- "last_run": "2026-08-14T09:42:34.497979+09:00",
+ "last_run": "2026-08-14T09:44:42.981760+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
