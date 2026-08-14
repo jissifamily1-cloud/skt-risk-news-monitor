@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53599",
-  "https://economist.co.kr/article/view/ecn202608130055",
-  "https://www.mk.co.kr/article/12126781",
-  "https://www.greened.kr/news/articleView.html?idxno=347630",
-  "https://www.newspim.com/news/view/20260813001286",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423063",
   "http://www.lawissue.co.kr/view.php?ud=202608131727346200204ead0791_12",
   "https://www.g-enews.com/view.php?ud=2026081311312637303d7a510102_1",
@@ -2999,15 +2994,14 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=405620",
   "https://news.mtn.co.kr/news-detail/2026081417264354190",
   "https://www.sentv.co.kr/article/view/sentv202608140222",
-  "https://www.mt.co.kr/tech/2026/08/14/2026081417402087604"
+  "https://www.mt.co.kr/tech/2026/08/14/2026081417402087604",
+  "https://www.tokenpost.kr/news/cryptocurrency/390857",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=05753126645546664",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=105329",
+  "https://www.mediawatch.kr/news/article.html?no=260688",
+  "https://economist.co.kr/article/view/ecn202608140076"
  ],
  "seen_titles": [
-  "인텔,AI투자위해유상증자…불확실성높은AI시대구글과애플은다른...",
-  "코스피급등한날,공매도2조3864억원으로급증...KT거래비중41%최고",
-  "LG,2분기영업익5329억…전자계열호실적에전년比92.5%↑",
-  "한화리드오프또변경…이진영→최인호다시바꿨다,1987년생류현진...",
-  "무작정쓰라더니…AI찬양하던CIO들의변심",
-  "그랜드벤처스,유상증자마무리…2기벤처투자확대",
   "버슨,인지형AI기업‘림빅’품고기술력키운다",
   "GS글로벌,美휴스턴지사개소…북미시장공략박차",
   "\"통제벗어난AI,위법행위책임은누구에게\"…'스키밍'책임공백",
@@ -6001,7 +5995,13 @@
   "마음AI-도구로보틱스,온디바이스AI순찰로봇개발협력",
   "홍범식18억·정재헌17억…이통3사CEO,상반기보수1등은?",
   "김영섭전KT대표,상반기보수12억원…퇴직금6억원",
-  "유진기업의YTN인수적법성판단,다음회의서재논의"
+  "유진기업의YTN인수적법성판단,다음회의서재논의",
+  "17만달러루빈울트라,원가절반은메모리",
+  "대법,가족관계증명서스크래핑차단한시유예…이달31일까지",
+  "SK이노베이션,테라파워와'나트륨'SMR사업협력합의서체결",
+  "엔비디아손잡은LG그룹,로봇·AI팩토리·모빌리티3대분야MOU",
+  "삼성전자소액주주수800만육박...LG전자'100만주주'합류",
+  "'주식열풍'에삼성전자소액주주800만육박...LG전자'100만주주'대열"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,17 @@
   [
    "2026-08-14T17:52:18.055080+09:00",
    "유진기업의 인수 적법성 재논의 YTN 회의서 판단 다음"
+  ],
+  [
+   "2026-08-14T17:54:15.432230+09:00",
+   "나트륨 테라파워와 체결 사업협력 합의서 SMR SK이노베이션"
+  ],
+  [
+   "2026-08-14T17:54:15.432230+09:00",
+   "모빌리티 손잡은 LG그룹 팩토리 MOU 로봇 3대 분야"
   ]
  ],
- "last_run": "2026-08-14T17:52:36.355035+09:00",
+ "last_run": "2026-08-14T17:54:37.608538+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
