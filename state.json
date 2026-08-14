@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026081212522392904",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260813080247qAN",
-  "https://www.wikitree.co.kr/articles/1152120",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258798&CMPT_CD=P0010",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169757",
-  "https://www.smartbizn.com/news/articleView.html?idxno=151127",
   "https://www.joongangenews.com/news/articleView.html?idxno=539520",
   "https://www.viva100.com/article/20260813500012",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4429880",
@@ -2999,15 +2993,15 @@
   "https://www.kado.net/news/articleView.html?idxno=2066765",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213784",
   "https://www.newsis.com/view/NISX20260814_0003748927",
-  "https://www.news1.kr/society/general-society/6258817"
+  "https://www.news1.kr/society/general-society/6258817",
+  "https://biz.chosun.com/it-science/ict/2026/08/14/HXV2QNJT3NFF7HLAB6YP2PPUDI/",
+  "https://biz.heraldcorp.com/article/10841081",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008703347&plink=ORI&cooper=NAVER",
+  "https://www.joongangenews.com/news/articleView.html?idxno=540100",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=357421",
+  "https://www.sedaily.com/article/20079356"
  ],
  "seen_titles": [
-  "[GAM]AI가위협?오히려기회TWLO①단순API에서AI플랫폼으로",
-  "美반도체강세…프리마켓서삼성전자3%↑SK하이닉스4%↑",
-  "삼성·SK하이닉스,HBM4경쟁본격화…변수는평균판매가",
-  "엔비디아젠슨황,美직원이뽑은'최고CEO'1위",
-  "오라클,8월추가감원준비…일부팀두자릿수%대감축",
-  "[손병관의뉴스프레소]이대통령,국힘주호영·박덕흠의원과비공개...",
   "美증시S&P500'상승'...SMCI'치솟고',퍼스트솔라'뚝'",
   "엔비디아가끌고물가가밀었다,뉴욕증시다시상승세",
   "IPO앞둔오픈AI,또핵심임원떠난다…'8년베테랑'라이트캡도퇴사",
@@ -6001,7 +5995,13 @@
   "최태원·노소영재산분할오늘재상고시한…9440억원판결확정갈림길",
   "업스테이지,차세대LLM'솔라프로4'공개···에이전트·장문추론...",
   "도미노피자,'SKTTday'반값프로모션17~21일자사앱에서진행",
-  "\"해킹으로계정날아갔었음\"…'황정민폭로녀'잠적안해,바로복구"
+  "\"해킹으로계정날아갔었음\"…'황정민폭로녀'잠적안해,바로복구",
+  "모토로라,7000mAh배터리탑재‘모토g57파워’국내출시...출고가...",
+  "앤트로픽,잠재적투자자들과만나IPO초기회의",
+  "\"결국이빚,녹이는수밖에없어요\"베센트가엔저에개입한진짜이유...",
+  "\"1만개미니앱\"…토스,앱인토스로슈퍼앱도약",
+  "KT,분기영업이익5000억원은뉴노멀-대신증권",
+  "업스테이지,신규AI모델‘솔라프로4’공개"
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,13 @@
   [
    "2026-08-14T09:18:17.808911+09:00",
    "날아갔었음 잠적 계정 폭로녀 황정민 복구 바로 해킹으로"
+  ],
+  [
+   "2026-08-14T09:20:27.504283+09:00",
+   "대신증권 5000억원은 분기 뉴노멀 ~KT 영업이익"
   ]
  ],
- "last_run": "2026-08-14T09:18:39.569930+09:00",
+ "last_run": "2026-08-14T09:20:51.384227+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
