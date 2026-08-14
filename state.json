@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608130723354872",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5050897",
-  "https://www.sentv.co.kr/article/view/sentv202608130006",
-  "http://www.thebigdata.co.kr/view.php?ud=202608110747238927d0a8833aad_23",
-  "https://platum.kr/archives/292413",
-  "https://www.news1.kr/industry/distribution/6257500",
-  "https://www.sedaily.com/article/20078810",
-  "https://www.cstimes.com/news/articleView.html?idxno=716634",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271653",
-  "http://www.joseilbo.com/news/news_read.php?uid=573746&class=53",
-  "https://www.ajunews.com/view/20260813082138195",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=86499",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692675",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=363485",
@@ -2999,20 +2988,20 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1011549",
   "https://www.ngonews.kr/news/articleView.html?idxno=235459",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=856841",
-  "https://www.etoday.co.kr/news/view/2614519"
+  "https://www.etoday.co.kr/news/view/2614519",
+  "https://www.nocutnews.co.kr/news/6562874",
+  "https://www.bntnews.co.kr/article/view/bnt202608120243",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53609",
+  "https://www.sentv.co.kr/article/view/sentv202608140034",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608140280&t=NN",
+  "https://www.hankyung.com/article/2026081410096",
+  "https://www.news1.kr/world/usa-canada/6258959",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856839",
+  "https://zdnet.co.kr/view/?no=20260814081211",
+  "https://www.businessplus.kr/news/articleView.html?idxno=115468",
+  "https://view.asiae.co.kr/article/2026081409291091364"
  ],
  "seen_titles": [
-  "iM증권\"LG전자,본업방어에AI신사업모멘텀까지...목표가25만원상향...",
-  "트렌핏,K패션크로스보더플랫폼'클로씨'오픈...북미·유럽진출지원",
-  "\"남들팔때샀다\"...'돈나무언니'가찜한AI반도체종목3개는?",
-  "[뉴욕증시]7월CPI둔화속혼조세…나스닥0.5%↑",
-  "SK하이퍼“메모리등SK그룹역량앞세워AI인프라공략”",
-  "SK텔레콤,통신상장기업브랜드평판8월빅데이터1위...KT·LG유플러스...",
-  "세종류DB를한몸에,그래파이시리즈A170억원유치",
-  "11번가,8월'T멤버십쇼핑페스타’제철먹거리최대50%할인",
-  "삼전닉스프리마켓4%급등…美반도체훈풍수혜[마켓시그널]",
-  "뉴욕증시,인플레둔화속AI낙관론재개…나스닥0.5%상승",
-  "[굿모닝!글로벌뉴욕증시]반도체투심은살아났으나대형기술주들은...",
   "뉴욕증시,'AI주강세·물가둔화'혼조세...S&P500최고치근접",
   "[마켓프리뷰]美CPI發금리부담완화…반도체훈풍에코스피반등기...",
   "젠슨황,직원들이뽑은'최고의CEO'1위-엔비디아지지율99%",
@@ -6001,7 +5990,18 @@
   "LG유플러스,청년재단과청년지원프로그램선봬",
   "LG유플러스,청년재단과업무협약…청년지원프로그램마련",
   "어센트AI박세용대표,브랜드전략신간출간",
-  "티오리진트,‘IDC이노베이터’선정…AI모의해킹솔루션차별성인..."
+  "티오리진트,‘IDC이노베이터’선정…AI모의해킹솔루션차별성인...",
+  "호르무즈에서또상선2척피격…긴장고조",
+  "대형마트휴무일?이마트·롯데마트·홈플러스·코스트코‘연휴할인...",
+  "AI주도권되찾는다…MS'코파일럿슈퍼앱'착수",
+  "“반도체AX속도”…삼성전자,딥러닝·데이터전문가영입",
+  "\"국민연금,사고또샀다\"...역대급실적에3일째'폭등'",
+  "\"땡큐샌디스크!\"…美물가안도에삼전닉스등반도체株급등",
+  "\"가상화폐최강지갑인데\"…콜드월렛고객1만4000명신상털려",
+  "업스테이지,솔라프로4공개…글로벌플랫폼등재",
+  "오픈AI,연환산매출56조원돌파전망…영업수장도교체",
+  "업스테이지'솔라프로4'공개…글로벌개발자플랫폼한국모델최초...",
+  "업스테이지,'솔라프로4'공개…韓모델최초오픈라우터등재"
  ],
  "recent_sigs": [
   [
@@ -6369,7 +6369,7 @@
    "17일부터 적립 ~SKT 도미노피자 5일간 고객 할인 방문포장"
   ]
  ],
- "last_run": "2026-08-14T09:28:38.014784+09:00",
+ "last_run": "2026-08-14T09:30:52.632294+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
