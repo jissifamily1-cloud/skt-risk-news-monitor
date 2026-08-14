@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000328403?division=NAVER",
-  "https://www.viva100.com/article/20260812501121",
-  "https://www.sedaily.com/article/20078811",
-  "https://www.mk.co.kr/article/12126127",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=270246",
-  "https://biz.sbs.co.kr/article_hub/20000328404?division=NAVER",
   "https://www.epnc.co.kr/news/articleView.html?idxno=405453",
   "http://www.beyondpost.co.kr/view.php?ud=2026081308230242164c878f8fa1_30",
   "https://dealsite.co.kr/articles/166838",
@@ -2999,15 +2993,15 @@
   "https://www.bntnews.co.kr/article/view/bnt202608140115",
   "https://www.sedaily.com/article/20079369",
   "https://biz.heraldcorp.com/article/10841030",
-  "https://www.news1.kr/industry/distribution/6258969"
+  "https://www.news1.kr/industry/distribution/6258969",
+  "https://www.sentv.co.kr/article/view/sentv202608140035",
+  "https://www.dt.co.kr/article/12078267",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03640806645547320",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720394",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000056793",
+  "https://www.newscj.com/news/articleView.html?idxno=3425035"
  ],
  "seen_titles": [
-  "네트워크카메라일방철수…아파트'보안마비･수억비용'날벼락",
-  "구글,‘픽셀11’공개…AI강화했지만가격도100달러인상",
-  "[기업이슈]주주환원확대기대감에…삼전닉스동반강세↑",
-  "[오늘의브릿지경제1면]이제포장도‘수출스펙’⋯EU‘포장규제’...",
-  "시흥시,서울대·오픈AI와AI여름캠프연다",
-  "‘샘올트먼사망’…위키장난편집41분만에퍼졌다",
   "iM증권\"LG전자,본업방어에AI신사업모멘텀까지훌륭\"",
   "[어제장오늘장]CPI시장예상치부합…삼전닉스동반강세장에주목",
   "다나와\"생성형AI시대새로운쇼핑관문으로부상…가격비교·구매연...",
@@ -6001,7 +5995,13 @@
   "‘신병4’1생활관스틸공개",
   "엑스와이지,H100·H200확보…휴머노이드개발가속[로보인사이트]",
   "삼성전자,‘반도체AX’속도…딥러닝·데이터전문가영입",
-  "도미노피자,T멤버십고객에반값할인…'SKTTday'프로모션"
+  "도미노피자,T멤버십고객에반값할인…'SKTTday'프로모션",
+  "업스테이지,‘솔라프로4’공개…韓최초오픈라우터진입",
+  "타불라,인사이트에오픈웹기반AI답변솔루션‘디퍼다이브’공급",
+  "SK텔레콤,앤스로픽IPO훈풍·정책기대감겹호재7%대↑[특징주]",
+  "[EBN데이터센터]코스피,장초반6939.72상승출발...외국인4336억원...",
+  "화사,빗속공원에서전한일상…흰티에미소로여유만끽",
+  "[오늘의주요일정]14일(금)"
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,25 @@
   [
    "2026-08-14T09:28:18.375200+09:00",
    "17일부터 적립 ~SKT 도미노피자 5일간 고객 할인 방문포장"
+  ],
+  [
+   "2026-08-14T09:34:16.238745+09:00",
+   "겹호재 기대감 정책 IPO ~SKT 훈풍"
+  ],
+  [
+   "2026-08-14T09:34:16.238745+09:00",
+   "14일"
+  ],
+  [
+   "2026-08-14T09:34:16.238745+09:00",
+   "14일"
+  ],
+  [
+   "2026-08-14T09:34:16.238745+09:00",
+   "미소로 만끽 공원에서 화사 여유 티에 빗속 전한 일상"
   ]
  ],
- "last_run": "2026-08-14T09:32:39.061271+09:00",
+ "last_run": "2026-08-14T09:34:48.367453+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
