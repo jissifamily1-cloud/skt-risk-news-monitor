@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/sports/baseball/6257735",
-  "http://www.boannews.com/media/view.asp?idx=145133&kind=3",
-  "https://www.seoul.co.kr/news/economy/securities/2026/08/13/20260813500040?wlog_tag3=naver",
-  "http://www.kdfnews.com/news/articleView.html?idxno=186490",
-  "https://www.yna.co.kr/view/AKR20260813052300017?input=1195m",
-  "https://www.sentv.co.kr/article/view/sentv202608130058",
-  "https://zdnet.co.kr/view/?no=20260813083726",
-  "https://www.newsis.com/view/NISX20260813_0003747123",
-  "http://www.fnnews.com/news/202608130849111610",
   "https://www.joongang.co.kr/article/25452998",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=252134",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=850241",
@@ -2999,18 +2990,18 @@
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284116",
   "https://www.ddaily.co.kr/page/view/2026081410583925059",
   "https://www.news1.kr/finance/market-exr/6259126",
-  "https://www.theguru.co.kr/news/article.html?no=105830"
+  "https://www.theguru.co.kr/news/article.html?no=105830",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04149206645546992",
+  "https://www.newsis.com/view/NISX20260812_0003746806",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100101&t=NN",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3664693",
+  "https://www.newsis.com/view/NISX20260814_0003749234",
+  "https://www.mk.co.kr/article/12127768",
+  "https://www.inven.co.kr/webzine/news/?news=319548",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693168",
+  "https://www.nocutnews.co.kr/news/6563000"
  ],
  "seen_titles": [
-  "\"하늘에서물보라가\"LG,폭염으로취소된'서머홀릭'부활",
-  "원작뷰1000만회터진시리즈,'시즌4'로돌아온다…오는24일공개되...",
-  "마운드흔들리고홈런'실종'…'4연패'삼성의위기",
-  "스피어AX,마키나락스와MOU통해국방·제조·글로벌AI사업확장가속",
-  "[서울데이터랩]코스피6885.03으로급등출발,반도체주강세에외국인...",
-  "KT,2027충청유니버시아드공식후원...\"경기운영부터다국어상담까...",
-  "[AI프리즘]독파모글로벌평가'이변'…모티프·업스테이지1·2위",
-  "에어빌리티,우주항공청'스케일업팁스'선정…對드론AI요격시스템...",
-  "'바이브코딩'열풍탄러버블,기업가치18조원돌파",
   "세레브라스,연간매출전망상향에도…기대치밑돌아주가16%↓",
   "하반기스페이스X성장동력은AI...우주·통신매출넘어설듯",
   "“샘올트먼오늘암살당했다”…구글검색오류에‘발칵’",
@@ -6001,7 +5992,16 @@
   "[특징주]LG전자,구광모·젠슨황회동임박영향'상승'",
   "방미통위,공익·장애인복지채널선정절차돌입",
   "삼성전자약보합전환,코스피6800선후퇴…코스닥하락세로[장중시황...",
-  "'유아아이폰소지'애플옥외광고,이탈리아서윤리적논란"
+  "'유아아이폰소지'애플옥외광고,이탈리아서윤리적논란",
+  "청년AI창업가에GPU·투자지원…정부,경진대회확대추진",
+  "류제명과기2차관\"청년AI스타트업은미래경쟁력…맞춤형지원\"",
+  "삼성전자,일본이통사와AI-RAN기반통신최적화기술검증",
+  "정현미도의원,K4남양주시민축구단U18간담회개최…전학현안및운...",
+  "대만,中침공대비해모바일인터넷'문자속도'로늦췄다",
+  "[세계지식포럼연사]AI가그림을쏟아내는시대…구겐하임은예술의자...",
+  "리니지·메이플이끈개발자들,오픈AI해커톤멘토나선다",
+  "돈대고칩팔기까지…엔비디아는AI생태계어디까지손뻗을까",
+  "KAIST학생·동문참여한해킹팀,세계최고해킹대회서준우승"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-08-14T11:04:20.500538+09:00",
    "소지 유아 이탈리아서 논란 윤리적 아이폰 옥외광고 애플"
+  ],
+  [
+   "2026-08-14T11:06:18.823385+09:00",
+   "대고 어디까지 생태계 뻗을까 엔비디아는 팔기까지"
   ]
  ],
- "last_run": "2026-08-14T11:04:41.151022+09:00",
+ "last_run": "2026-08-14T11:06:36.855869+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
