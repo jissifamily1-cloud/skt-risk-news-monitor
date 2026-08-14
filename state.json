@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202608130106",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=84940",
-  "https://www.imaeil.com/page/view/2026081309420033998",
-  "https://view.asiae.co.kr/article/2026081308565608509",
-  "https://biz.heraldcorp.com/article/10839772",
-  "https://theviewers.co.kr/View.aspx?No=4184883",
-  "https://biz.heraldcorp.com/article/10839768",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000056508",
   "https://news.mtn.co.kr/news-detail/2026081216454494844",
   "https://www.mt.co.kr/world/2026/08/13/2026081309394328997",
   "http://www.popcornnews.net/news/articleView.html?idxno=129554",
@@ -2999,17 +2991,17 @@
   "https://www.straightnews.co.kr/news/articleView.html?idxno=308944",
   "https://www.nocutnews.co.kr/news/6562963",
   "https://www.viva100.com/article/20260814500301",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430165"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430165",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051413",
+  "https://sports.donga.com/sports/article/all/20260814/134471784/1",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856911",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2459381",
+  "https://zdnet.co.kr/view/?no=20260810093133",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=850368",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=712441",
+  "https://www.newsis.com/view/NISX20260814_0003749164"
  ],
  "seen_titles": [
-  "'삼전닉스'강세에코스피4%급등,6800선회복[개장시황]",
-  "장마·폭염에도…KT지니뮤직,러닝특화음악서비스성장세",
-  "‘신병4:사보타주’이상진,중위오석진으로컴백",
-  "\"통합API연동으로매매편의성극대화\"…토스증권,LLM결합오픈API서...",
-  "디지털역량강화하는NH證…개화앞둔STO시장선점나선다",
-  "\"AI가업무효율높인다더니\"…정작AI개발자들은'주90시간근무'도'",
-  "네이버,美AI데이터센터개발기업‘판탈라사’투자…AI인프라확보...",
-  "[기업탐방]씨이랩,3458억수주로외형성장본격화…GPU구축넘어운...",
   "美CPI안도·반도체질주에코스피6800선돌파[투자360]",
   "젠슨황,직원신뢰도99%…CEO평가정상",
   "이통3사모두AI요금제…인터넷·OTT이어新'번들링'전략굳히나",
@@ -6001,7 +5993,15 @@
   "LG·엔비디아,내년1분기차세대이족보행휴머노이드공개…AI동맹본...",
   "AI가해킹작전지휘·실행…대만정부기관노린'자율형공격'발생",
   "하나증권,지슨과보안협력…도청·무선해킹대응강화",
-  "[국민연금美주식]엔비디아덜고애플·MS더담았다…엇갈린M7베팅"
+  "[국민연금美주식]엔비디아덜고애플·MS더담았다…엇갈린M7베팅",
+  "독립운동가후손147명에생활지원…대한적십자사'다시피는무궁화'...",
+  "한국야구이끌新황금세대탄생?…KBO를뒤흔드는‘2006년생’",
+  "타불라,인사이트에AI답변엔진공급",
+  "\"정비기록을AI가읽는다\"···대한항공분석시스템구축",
+  "오픈AI는왜‘루나’를무료로풀었을까",
+  "구광모,젠슨황과또만났다…LG'휴머노이드로봇'내년1분기공개",
+  "젠슨황,'피지컬AI'연합에일본7대산업대기업참여시켜",
+  "KAIST학생·동문,세계최고해킹대회'준우승'"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-08-14T10:44:19.183965+09:00",
    "MS 애플 M7 덜고 베팅 담았다 엇갈린"
+  ],
+  [
+   "2026-08-14T10:46:16.771137+09:00",
+   "피지컬AI 대기업 산업 참여시켜 젠슨 일본 연합에 7대"
   ]
  ],
- "last_run": "2026-08-14T10:44:40.173370+09:00",
+ "last_run": "2026-08-14T10:46:39.128667+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
