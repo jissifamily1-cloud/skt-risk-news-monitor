@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7178757",
-  "https://www.news1.kr/it-science/cc-newmedia/6257503",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000002753&cp=nv",
-  "https://www.asiatime.co.kr/article/20260813500037",
-  "http://www.joseilbo.com/news/news_read.php?uid=573748&class=10",
-  "https://www.news2day.co.kr/article/20260813500033",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458895",
-  "https://kpenews.com/View.aspx?No=4183259",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=93678",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3663460",
   "https://www.newstopkorea.com/news/articleView.html?idxno=46964",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3071931",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458898",
@@ -2999,19 +2989,19 @@
   "https://news.dealsitetv.com/articles/174752",
   "https://www.gpkorea.com/news/articleView.html?idxno=145664",
   "https://www.donga.com/news/Inter/article/all/20260814/134476838/1",
-  "https://www.news1.kr/it-science/cc-newmedia/6258979"
+  "https://www.news1.kr/it-science/cc-newmedia/6258979",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3664592",
+  "https://www.ziksir.com/news/articleView.html?idxno=143189",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720404",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03791686645547320",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720400",
+  "https://www.seoultimes.news/news/article.html?no=2000098809",
+  "https://www.ajunews.com/view/20260814095201870",
+  "https://www.mt.co.kr/stock/2026/08/14/2026081409542199342",
+  "https://imnews.imbc.com/news/2026/econo/article/6844725_36932.html",
+  "https://www.busan.com/view/busan/view.php?code=2026081409545169613"
  ],
  "seen_titles": [
-  "\"LG전자,냉각솔루션·로보틱스성과모멘텀…목표가25만원으로↑\"",
-  "KB운용,'RISE미국대표지수'ETF순자산3조원돌파",
-  "LG유플러스,사회적경제기업과'2026나눔마켓'개최",
-  "LG유플러스,사회적경제기업과마곡·용산서'2026나눔마켓'개최",
-  "“챗GPT보고있나”…제미나이,월이용자10억돌파",
-  "뉴욕증시,혼조마감...국제유가,보합세",
-  "삼일PwC\"AI시대,다음병목은'연결'…광통신이승부처\"",
-  "\"코스피,반도체중심강세이어질것…인플레이션·AI수요불안피크...",
-  "빗썸,'AI공급망공격'예방가이드공개",
-  "집토끼지키기나선통신3사..장기고객혜택강화",
   "[2026프로야구삼진과홈런사이]kt마지막승부수'데이비스데니엘'...",
   "김용판달서구청장,계명대와'달서053미래청년활동가'발대식개최",
   "AI광통신'피크아웃'우려무색…글로벌4사,1.6T증설",
@@ -6001,7 +5991,17 @@
   "[유통24시]마몽드,'화잘먹'선케어신제품선봬外",
   "불꽃파이터즈,1점차리드지킬까…울산웨일즈전승부처",
   "UAE“호르무즈서국영석유사선박2척이란에공격받아”",
-  "정재헌SKT대표,상반기보수17억…AX성과상여만10억"
+  "정재헌SKT대표,상반기보수17억…AX성과상여만10억",
+  "[기자수첩]'안상호친일논란'...기자배우자\"독립운동가후손\"자격...",
+  "[특징주]美반도체훈풍에투심개선···삼전닉스강세",
+  "MS윈도우,北연계추정보안결함…美당국'긴급조치'",
+  "한국찾은빌게이츠,최태원·정기선만나'SMR동맹'힘싣는다",
+  "SK하이닉스,美패키징공장착공…북미'메모리팹'투자도열어뒀다",
+  "LG유플러스·청년재단맞손…'일상비일상의틈'청년예술인에연다",
+  "[특징주]LG전자3%대강세…구광모·젠슨황'AI동맹'기대감",
+  "LG전자,구광모-젠슨황회동기대에상승",
+  "LG구광모·엔비디아젠슨황,미국서다시회동‥\"전방위협력\"",
+  "두산에너빌,테라파워와SMR핵심기자재제작계약"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,13 @@
   [
    "2026-08-14T09:54:17.765920+09:00",
    "장벽 비용 전공정 규제는 수급 불균형 검토 내년"
+  ],
+  [
+   "2026-08-14T09:58:23.155231+09:00",
+   "SMR 테라파워와 두산에너빌 핵심기자재 제작계약"
   ]
  ],
- "last_run": "2026-08-14T09:56:35.967451+09:00",
+ "last_run": "2026-08-14T09:58:45.134572+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
