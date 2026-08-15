@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/it-science/ict/2026/08/14/6O2E5NU23NCPBGSAUT2WOIC4VY/",
-  "http://www.fnnews.com/news/202608141604596370",
   "https://www.yna.co.kr/view/AKR20260814130800003?input=1195m",
   "https://news.mtn.co.kr/news-detail/2026081416491182765",
   "http://www.joynews24.com/view/1995257",
@@ -2999,11 +2997,11 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=444683",
   "https://www.mt.co.kr/industry/2026/08/12/2026081213313250230",
   "https://www.mt.co.kr/future/2026/08/16/2026080413044526123",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002099"
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002099",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=190930",
+  "https://www.yna.co.kr/view/AKR20260815048200017?input=1195m"
  ],
  "seen_titles": [
-  "삼성전자,AI석학·메타출신데이터전문가영입…반도체AX강화",
-  "김정관,빌게이츠만나'SMR동맹'…韓기업테라파워공급망진입확대",
   "빌게이츠,정재계연쇄회동…'AI전력난해법'SMR협력본격화",
   "'해킹위협vs출금지연'…가상자산거래소콜드월렛딜레마",
   "'불꽃야구2'이대호,KT출신심재민등판에헛스윙⋯울산웨일즈에승...",
@@ -6001,7 +5999,9 @@
   "화웨이·SMIC3나노공정모바일CPU상용화,삼성전자초격차AI폰·1나...",
   "'가격비교'다나와,생성형AI시대새로운쇼핑관문으로부상",
   "'세계1위'로입증한토종'비전AI'경쟁력…피지컬AI시장공략",
-  "레이예스-구자욱2파전이라고?KIA요술방망이운다,극적역전레이스..."
+  "레이예스-구자욱2파전이라고?KIA요술방망이운다,극적역전레이스...",
+  "[인베스트]\"시장의비이성이끝나기전에파산이먼저올것\"…AI헤지...",
+  "한국노린북한해킹늘었다…AI·딥페이크까지악용"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-08-16T06:04:13.506412+09:00",
    "비전 경쟁력 피지컬 공략 세계 토종 입증한 1위 시장"
+  ],
+  [
+   "2026-08-16T06:14:14.789155+09:00",
+   "딥페이크까지 악용 늘었다 한국 북한 노린"
   ]
  ],
- "last_run": "2026-08-16T06:12:32.054675+09:00",
+ "last_run": "2026-08-16T06:14:39.084841+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
