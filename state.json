@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.rcast.co.kr/news/articleView.html?idxno=31466",
-  "http://www.e-platform.net/news/articleView.html?idxno=104580",
-  "https://www.ytn.co.kr/_ln/0102_202608141806192646",
   "https://www.tokenpost.kr/news/insights/390865",
   "https://news.jtbc.co.kr/article/NB12313479?influxDiv=NAVER",
   "https://magazine.hankyung.com/business/article/202608142642b",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/AKR20260816020300004?input=1195m",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444884",
   "http://www.breaknews.com/1229305",
-  "https://magazine.hankyung.com/business/article/202608163908b"
+  "https://magazine.hankyung.com/business/article/202608163908b",
+  "https://www.dailian.co.kr/news/view/1678764/?sc=Naver",
+  "https://www.news1.kr/it-science/cc-newmedia/6259880",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208070"
  ],
  "seen_titles": [
-  "통신3사상반기CEO보수왕은누구?…홍범식LGU+대표,18.2억'최고'",
-  "삼성증권,'중개형ISA평생혜택계좌'이벤트실시外",
-  "빌게이츠,한국에차세대원전'파운드리'역할요청…SK이노와해외사...",
   "산업장관,빌게이츠면담...\"한국과SMR협력강화\"",
   "마이클버리,엔비디아AI인프라금융제휴에\"절박함신호\"경고",
   "120일째숙의…'YTN인수취소'결론못낸방미통위",
@@ -6001,7 +5998,10 @@
   "최태원\"9천440억원재산분할일부주식으로\"…노소영\"현금만\"",
   "'클로드'개발사앤트로픽2분기사상첫흑자전환,매출도'14배증가'",
   "트럼프미대통령“호르무즈협상17일시한”경고…유가쇼크속코스...",
-  "“해커인줄알았더니”공공기관직원정보유출눈덩이"
+  "“해커인줄알았더니”공공기관직원정보유출눈덩이",
+  "방미통위,‘팩트체크사업’빠띠방문…“감사과정사과”",
+  "'취소vs유보'…YTN최대주주'직권취소'두고방미통위'팽팽'",
+  "보잉737에60초면해킹장치설치…비행경로·이륙정보조작가능성입..."
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-08-16T12:14:13.805888+09:00",
    "주식으로 9천440억원 현금만 일부 재산분할"
+  ],
+  [
+   "2026-08-16T12:18:13.654383+09:00",
+   "해킹장치 설치 보잉 737에 이륙정보 조작 가능성 60초면 비행경로"
   ]
  ],
- "last_run": "2026-08-16T12:16:32.301126+09:00",
+ "last_run": "2026-08-16T12:18:35.593278+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
