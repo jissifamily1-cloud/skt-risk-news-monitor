@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112857367",
-  "http://www.osen.co.kr/article/G1112857366",
-  "http://www.osen.co.kr/article/G1112857368",
-  "https://www.mydaily.co.kr/page/view/2026081420154341516",
-  "https://www.m-i.kr/news/articleView.html?idxno=1402703",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213818",
   "https://view.asiae.co.kr/article/2026081419000314715",
   "https://www.khan.co.kr/article/202608122058035",
@@ -2999,14 +2994,14 @@
   "https://www.tokenpost.kr/news/breaking/391649",
   "https://www.greened.kr/news/articleView.html?idxno=347783",
   "https://www.smarttoday.co.kr/ko-kr/articles/110523",
-  "https://www.news1.kr/society/incident-accident/6260612"
+  "https://www.news1.kr/society/incident-accident/6260612",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3666131",
+  "https://www.aitimes.com/news/articleView.html?idxno=214011",
+  "https://www.econovill.com/news/articleView.html?idxno=748126",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/14/2026081490237.html",
+  "https://www.econovill.com/news/articleView.html?idxno=748094"
  ],
  "seen_titles": [
-  "상반기재계총수'보수1위'두산박정원455억…LS구자은133억2위",
-  "[사진]포구실책범하는KT3루수허경민",
-  "[사진]이악문KT선발고영표",
-  "[사진]허경민실책,'마음이급했나'",
-  "[MD포토]허경민,'아쉬운실책'",
   "SK이노-테라파워,'나트륨SMR'협력…美실증·국내적용추진",
   "엔비디아·LG,피지컬AI협력확대···아이작GR00T기반휴머노이드...",
   "美주식대체뭘샀길래…국민연금석달만에33조원불렸다",
@@ -6001,7 +5996,12 @@
   "구글인증동기화악용에비트코인75만달러유출보도",
   "최태원SK그룹회장,노소영관장에지급할9440억원현금마련'비상'.....",
   "‘세기의이혼소송’노소영,최태원에“현금으로전액지급”",
-  "'박근혜등개인정보18만건유출'서강대해킹…경찰,내사착수"
+  "'박근혜등개인정보18만건유출'서강대해킹…경찰,내사착수",
+  "한준호,민주당경기합동연설회참석…\"이재명정부성공·민생성과\"...",
+  "GLM-5.3,'커서'보안취약점찾아냈다...AI보안역량입증",
+  "\"폴드8울트라게임성능궁금해\"…삼성전자,게임스컴서'풀스택게이밍...",
+  "방미통위'YTN인수취소'입장차…\"법위반사유차고넘쳐\"↔\"법원판...",
+  "SK이노·테라파워,SMR사업화나선다…AI데이터센터전력시장공략"
  ],
  "recent_sigs": [
   [
@@ -6217,7 +6217,7 @@
    "전액 지급 현금으로 이혼소송 세기의 최태원에"
   ]
  ],
- "last_run": "2026-08-16T18:18:32.937834+09:00",
+ "last_run": "2026-08-16T18:20:42.203379+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
