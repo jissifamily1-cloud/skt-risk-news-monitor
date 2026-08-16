@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112857331",
-  "http://www.osen.co.kr/article/G1112857332",
-  "https://www.xportsnews.com/article/2183827",
-  "https://magazine.hankyung.com/business/article/202608142761b",
   "https://www.mk.co.kr/article/12128344",
   "https://www.gametoc.co.kr/news/articleView.html?idxno=110678",
   "https://www.mydaily.co.kr/page/view/2026081419211801690",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20260816_0003751052",
   "https://www.newsis.com/view/NISX20260816_0003751046",
   "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260816507&PRO_CODE=99",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720587"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720587",
+  "https://www.the-today.com/news/articleView.html?idxno=88538",
+  "https://www.mk.co.kr/article/12129073",
+  "https://www.mk.co.kr/article/12129075",
+  "https://www.mk.co.kr/article/12129071"
  ],
  "seen_titles": [
-  "상반기'연봉킹'올해도두산박정원455억…이재용10년째무보수",
-  "[사진]선두타자볼넷허용아쉬운키움선발박준현",
-  "[사진]연속볼넷으로무사1,2루위기맞이한키움박준현-김동헌배터...",
-  "'이닝먹방'그리운삼성,대식가복귀시동…\"투구수더늘려야,퓨처스...",
   "상반기연봉킹박정원455억…2위구자은133억·3위김승연115억",
   "상반기재계‘연봉킹’두산박정원455억…이재용은0원",
   "오픈AI'게임빌더스서울'멘토로나서는한국대표개발자12인",
@@ -6001,7 +5997,11 @@
   "박근혜도털린서강대개인정보해킹사건…경찰,입건전조사",
   "'키움전2⅔이닝8실점'KT오원석,피하지못한2군행",
   "'세기의이혼'최태원,재상고배경엔'9440억지급방식'에의견차",
-  "AI랠리도못이긴액티브펀드…美투자자들ETF로이동"
+  "AI랠리도못이긴액티브펀드…美투자자들ETF로이동",
+  "中생태환경법전시행…신화통신싱크탱크\"중국식환경법치모델제시...",
+  "K스타트업AI모델들,글로벌서통했다",
+  "공공기관개인정보유출…3건중2건은'업무과실'",
+  "SKT의선택과집중…'에이닷'B2B역량강화"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,13 @@
   [
    "2026-08-16T17:46:13.921184+09:00",
    "막고 이자 주가 SK 재상고하는 472억 띄운다"
+  ],
+  [
+   "2026-08-16T17:54:12.187820+09:00",
+   "선택과 강화 ~SKT 역량 B2B SKT의 집중 에이닷"
   ]
  ],
- "last_run": "2026-08-16T17:52:32.775168+09:00",
+ "last_run": "2026-08-16T17:54:33.210226+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
