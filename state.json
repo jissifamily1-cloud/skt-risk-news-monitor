@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260814084413681",
-  "https://www.chosun.com/economy/tech_it/2026/08/14/FKJBAVWTUVHEFJC7LNL5LHOBSU/",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=87942",
-  "https://www.chosun.com/economy/money/2026/08/14/NETYRHO3XVHLBHTKKAKIS5UUQM/",
-  "https://www.public25.com/news/articleView.html?idxno=52709",
-  "https://www.dailian.co.kr/news/view/1678347/?sc=Naver",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03207846645547320",
   "https://www.econovill.com/news/articleView.html?idxno=747993",
   "https://www.newspim.com/news/view/20260814000054",
@@ -2999,15 +2993,15 @@
   "https://www.etoday.co.kr/news/view/2615258",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=143137",
   "http://www.srtimes.kr/news/articleView.html?idxno=210176",
-  "https://www.etnews.com/20260814000238"
+  "https://www.etnews.com/20260814000238",
+  "https://www.etoday.co.kr/news/view/2615256",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=02699446645548632",
+  "https://www.g-enews.com/view.php?ud=202608180818247649906806b77b_1",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693561",
+  "https://www.cfnews.kr/news/article.html?no=111178",
+  "https://www.hankyung.com/article/202608185993i"
  ],
  "seen_titles": [
-  "업스테이지,차세대LLM'솔라프로4'공개···에이전트·장문추론...",
-  "앤스로픽,클로드가쓴글에'AI지문'…복붙해도남는다",
-  "업스테이지,에이전트특화‘솔라프로4’공개⋯“글로벌개발자플...",
-  "업스테이지'솔라프로4'공개…한국AI최초오픈라우터진입",
-  "업스테이지,'솔라프로4'공개…오픈라우터등개발자플랫폼등재",
-  "앤스로픽워터마크넣자,하루만에무력화기술등장",
   "업스테이지'솔라프로4'공개…한국모델최초로글로벌개발자플...",
   "앤스로픽,‘2조달러몸값’으로10월IPO…스페이스X넘어역대최대노...",
   "업스테이지,에이전트특화'솔라프로4'공개…글로벌AI플랫폼서한...",
@@ -6001,7 +5995,13 @@
   "LG유플러스,메르세데스-벤츠코리아와신형차량멀티미디어서비스탑...",
   "[최석원칼럼]엔비디아의'AI인프라금융동맹'과미·중패권전쟁",
   "kt밀리의서재,'오디세이'열풍에원작서재담기4.7배↑",
-  "한국정보공학,기업용생성형AI플랫폼2종공개…운영·관리체계강화"
+  "한국정보공학,기업용생성형AI플랫폼2종공개…운영·관리체계강화",
+  "'그대에게드림'오늘최종회⋯황인엽♥이혜리로맨스결말은?",
+  "모아데이타,글로벌통신SW강자넷크래커와손잡다...통신망에‘AI두...",
+  "[긴급진단]미국국가부채40조달러돌파와베어스티프닝(BearSteepeni...",
+  "3억8000만달러빠진비트코인현물ETF…6만4000달러선은지켰다",
+  "재벌회장도‘마감1분전’…최태원재상고가알려준법원마감의법...",
+  "오픈AI상장앞두고자산관리사‘AI부자’쟁탈전"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,17 @@
   [
    "2026-08-18T08:32:14.696704+09:00",
    "운영 체계 한국정보공학 관리 플랫폼 2종 기업용 생성형 강화 공개"
+  ],
+  [
+   "2026-08-18T08:34:18.012173+09:00",
+   "재상고가 법원 회장도 마감 재벌 마감의 알려준 1분"
+  ],
+  [
+   "2026-08-18T08:34:18.012173+09:00",
+   "자산관리사 상장 쟁탈전 부자 앞두고"
   ]
  ],
- "last_run": "2026-08-18T08:32:40.179171+09:00",
+ "last_run": "2026-08-18T08:34:39.579097+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6857,6 +6865,7 @@
   "heraldmuse.com": "헤럴드뮤즈 (Herald Muse)",
   "harpersbazaar.co.kr": "하퍼스 바자 코리아",
   "e2news.com": "이투뉴스",
-  "bbc.com": "BBC News 코리아"
+  "bbc.com": "BBC News 코리아",
+  "cfnews.kr": "유교신문"
  }
 }
