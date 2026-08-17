@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202608130907278451906806b77b_1",
-  "https://www.tokenpost.kr/news/market/391453",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89492",
-  "https://view.asiae.co.kr/article/2026081409291091364",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856839",
-  "https://www.businessplus.kr/news/articleView.html?idxno=115468",
   "https://www.sedaily.com/article/20079356",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213784",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03371846645547320",
@@ -2999,15 +2993,15 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271863",
   "https://view.asiae.co.kr/article/2026081808254546562",
   "https://www.cstimes.com/news/articleView.html?idxno=717013",
-  "https://biz.sbs.co.kr/article_hub/20000329117?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000329117?division=NAVER",
+  "https://news.dealsitetv.com/articles/174793",
+  "https://www.cstimes.com/news/articleView.html?idxno=717014",
+  "http://www.fnnews.com/news/202608180704179695",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478087",
+  "https://www.ngonews.kr/news/articleView.html?idxno=235697",
+  "https://www.ytn.co.kr/_ln/0104_202608180820380227"
  ],
  "seen_titles": [
-  "하이퍼리퀴드,클래리티법표류에CFTC직접협상으로무기한선물미국...",
-  "RTX5060Ti16GB두달만에39%급등…429달러가800달러로치솟았다",
-  "단일주식옵션17일확대,주말점검마쳤다",
-  "美기관투자자,2분기AI·기술주비중일부축소…반도체순매수유지",
-  "[김대호진단]반도체열전(40)세레브라스(Cerebras)...펠드먼의반란...",
-  "미증시0.4%상승,AI자금조달힘보탰다",
   "업스테이지,국산LLM'솔라프로4'공개…추론∙에이전트성능강화",
   "업스테이지,'솔라프로4'공개…韓모델최초오픈라우터등재",
   "업스테이지,솔라프로4공개…글로벌플랫폼등재",
@@ -6001,7 +5995,13 @@
   "[박정식의국내주식시황]국내증시반도체섹터강세에증시상승기조...",
   "다이나믹솔루션,WRC2026서'BCI로봇손글러브'첫공개…피지컬AI사...",
   "KT,농협경제지주·MS와AI·클라우드기반유통AX협력",
-  "[기업이슈]현대차그룹주훨훨날았다…피지컬AI·하이브리드수출에..."
+  "[기업이슈]현대차그룹주훨훨날았다…피지컬AI·하이브리드수출에...",
+  "AI독파모발표임박…혼전속대기업탈락여부관심",
+  "LGU+,벤츠와맞손…신형차량에멀티미디어서비스탑재",
+  "루미아,R&Y와전략적맞손…휴머노이드'e-Skin'상용화잰걸음",
+  "SK이노·테라파워,'나트륨'SMR사업협력합의서체결…AI데이터센터...",
+  "KT·농협경제지주·한국MS\"유통AX협력으로농산물거래활성화나선다...",
+  "엔비디아,오픈AI데이터센터에149조원보증"
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,13 @@
   [
    "2026-08-18T08:28:18.348073+09:00",
    "하이브리드 수출에 현대차그룹주 피지컬 날았다 훨훨"
+  ],
+  [
+   "2026-08-18T08:30:25.448506+09:00",
+   "데이터센터 체결 나트륨 사업협력 합의서 SMR SK이노 테라파워"
   ]
  ],
- "last_run": "2026-08-18T08:28:42.347740+09:00",
+ "last_run": "2026-08-18T08:30:50.116652+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
