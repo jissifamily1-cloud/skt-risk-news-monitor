@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12313501?influxDiv=NAVER",
-  "https://news.tf.co.kr/read/economy/2354573.htm",
   "https://magazine.hankyung.com/business/article/202608152877b",
   "https://www.insight.co.kr/news/568393",
   "https://www.joongangenews.com/news/articleView.html?idxno=540301",
@@ -2999,11 +2997,11 @@
   "https://kpenews.com/View.aspx?No=4188677",
   "http://www.metroseoul.co.kr/article/20260817500225",
   "http://www.metroseoul.co.kr/article/20260817500229",
-  "https://www.hankyung.com/article/202608175089i"
+  "https://www.hankyung.com/article/202608175089i",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002240",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=206631"
  ],
  "seen_titles": [
-  "최태원,일부주식지급막후협상시도불발된듯…재상고배경은",
-  "최태원고심끝에재산분할9440억재상고,이유는?",
   "SK최태원,'노소영에9440억지급'판결불복...'세기의재산분할'다시...",
   "최태원'노소영에9440억재산분할'불복,재상고…다시대법으로",
   "최태원회장재산분할재상고…노소영관장측협의끝내거부",
@@ -6001,7 +5999,9 @@
   "삼성폴더블무게중심‘플립→폴드’..갤Z폴드8주문100만대·추가생...",
   "주파수재할당앞둔통신3사,5GSA전환잰걸음",
   "KT지니뮤직,포켓몬30주년OST출시",
-  "젠슨황장녀매디슨황,LGR&D캠퍼스방문…‘피지컬AI’혈맹가속"
+  "젠슨황장녀매디슨황,LGR&D캠퍼스방문…‘피지컬AI’혈맹가속",
+  "전반기선두경쟁꿈같네…후반기최하위LG,사실6~7위전력인데잘...",
+  "KT,서울대병원과의료AX플랫폼구축협력…공공의료AI모델발굴"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,13 @@
   [
    "2026-08-17T15:08:16.593224+09:00",
    "잰걸음 SA 재할당 주파수 통신3사 앞둔 5G"
+  ],
+  [
+   "2026-08-17T15:12:14.651693+09:00",
+   "구축 발굴 공공 ~KT AX 모델 의료 서울대병원과 플랫폼 협력"
   ]
  ],
- "last_run": "2026-08-17T15:10:41.853539+09:00",
+ "last_run": "2026-08-17T15:12:32.879451+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
