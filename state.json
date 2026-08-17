@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705653&plink=ORI&cooper=NAVER",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=477752",
   "https://www.ilyosisa.co.kr/news/article.html?no=257392",
   "http://www.osen.co.kr/article/G1112858169",
   "http://www.osen.co.kr/article/G1112858167",
@@ -2999,11 +2997,11 @@
   "https://www.khan.co.kr/article/202608061716001",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=761234",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=760701",
-  "https://www.seoul.co.kr/news/economy/2026/08/18/20260818500007?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/economy/2026/08/18/20260818500007?wlog_tag3=naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608180354&t=NN",
+  "https://www.seoulfn.com/news/articleView.html?idxno=635803"
  ],
  "seen_titles": [
-  "[사진]안치홍'솔로포'",
-  "[사진]솔로홈런날리는안치홍",
   "[사진]안치홍'팀의두자릿수득점완성하는솔로포'",
   "이스라엘공격에레바논서9명사망…\"6월휴전이후최다\"",
   "정부,불법스팸차단고삐…무효번호·해외발문자막는다",
@@ -6001,7 +5999,9 @@
   "가짜신분으로악성코드심으려한AI···실패하자은폐시도까지",
   "\"갤럭시Z8언제오나요\"역대급흥행에배송지연잇따라...삼성전자·...",
   "[AI시대의그늘-다크패턴㉝]해외직구'무료배송'이라더니…결제후관...",
-  "[서울데이터랩]미국증시,주요지수일제히하락마감…반도체주는강..."
+  "[서울데이터랩]미국증시,주요지수일제히하락마감…반도체주는강...",
+  "한집안팔고또담았다…'증시큰손'연기금,1조5000억원사들인종...",
+  "[뉴욕증시]중동發유가·국채금리에'발목'···메모리주'나홀로랠리..."
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,17 @@
   [
    "2026-08-18T06:22:13.235184+09:00",
    "배송 지연 갤럭시 오나요 흥행에 잇따라 Z8 언제 삼성전자 역대급"
+  ],
+  [
+   "2026-08-18T06:26:14.557189+09:00",
+   "팔고 연기금 1조 집안 5000억원 담았다 증시 사들인"
+  ],
+  [
+   "2026-08-18T06:26:14.557189+09:00",
+   "유가 발목 국채금리에 나홀로 랠리 메모리주 중동"
   ]
  ],
- "last_run": "2026-08-18T06:24:31.726263+09:00",
+ "last_run": "2026-08-18T06:26:34.907060+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
