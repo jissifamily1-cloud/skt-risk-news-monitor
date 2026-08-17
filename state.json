@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260815500003",
-  "http://www.maniareport.com/view.php?ud=202608142223139576cf2d78c68_19",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271484",
   "http://www.beyondpost.co.kr/view.php?ud=2026081506314499472aaae0046f_30",
   "https://www.g-enews.com/view.php?ud=202608150636219042bd56fbc3c_1",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260817513910?OutUrl=naver",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/17/2026081790093.html",
   "https://www.tokenpost.kr/news/cryptocurrency/392024",
-  "https://www.newscj.com/news/articleView.html?idxno=3425799"
+  "https://www.newscj.com/news/articleView.html?idxno=3425799",
+  "https://www.tokenpost.kr/news/blockchain/392026",
+  "http://www.journalist.or.kr/news/article.html?no=61469"
  ],
  "seen_titles": [
-  "‘세기의재산분할’최태원,고민끝재상고…9천400억과했나",
-  "[더차트]\"비전있는진짜리더\"직원99%가극찬한최고CEO,누구?",
   "재산분할9440억원최태원대법원에재상고",
   "외국인'SK하이닉스·삼성전자'던졌다…개미는SK하닉집중매수",
   "'최원준이다했다'KT,키움8-3완파...단독선두수성",
@@ -6001,7 +5999,9 @@
   "[단독]‘개인정보18만건’털린서강대,학점교류타대생도유출",
   "英총리도속았다…'트럼프최측근'사칭범과문자주고받아",
   "AI기술주고평가경고한ECB,조정위험짚었다",
-  "벤치마크1위,최종승자아니다…독파모진짜승부는'실전'"
+  "벤치마크1위,최종승자아니다…독파모진짜승부는'실전'",
+  "블록스트림,비트코인·라이트닝·리퀴드스왑묶었다",
+  "방미통위의YTN사안'숙의'와'지연된정의'"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,13 @@
   [
    "2026-08-17T18:08:14.496190+09:00",
    "유포 추정 랜섬웨어 중국 VMware vCenter 해킹그룹 취약 연계 변종 Babuk"
+  ],
+  [
+   "2026-08-17T18:16:14.614884+09:00",
+   "정의 방미통위의 사안 지연된 숙의 YTN"
   ]
  ],
- "last_run": "2026-08-17T18:14:30.844673+09:00",
+ "last_run": "2026-08-17T18:16:38.929439+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
