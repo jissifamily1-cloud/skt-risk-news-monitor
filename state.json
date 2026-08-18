@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/market/391681",
-  "http://www.osen.co.kr/article/G1112858648",
-  "http://www.osen.co.kr/article/G1112858647",
-  "http://www.osen.co.kr/article/G1112858642",
-  "http://www.osen.co.kr/article/G1112858646",
-  "http://www.osen.co.kr/article/G1112858649",
-  "http://www.osen.co.kr/article/G1112858644",
-  "http://www.osen.co.kr/article/G1112858645",
-  "http://www.osen.co.kr/article/G1112858640",
-  "http://www.osen.co.kr/article/G1112858641",
   "http://www.osen.co.kr/article/G1112858639",
   "http://www.osen.co.kr/article/G1112858638",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693511",
@@ -2999,19 +2989,19 @@
   "https://www.asiatime.co.kr/article/20260818500180",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=50014",
   "https://www.socialvalue.kr/news/view/1065579512764013",
-  "https://en.yna.co.kr/view/AEN20260818004700320?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260818004700320?input=2106m",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573834817228",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430524",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=309084",
+  "https://www.newsis.com/view/NISX20260818_0003752297",
+  "https://www.huffingtonpost.kr/article/259625",
+  "https://m.skyedaily.com/news_view.html?ID=309955",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88069",
+  "https://byline.network/?p=9004111222615641",
+  "https://www.hankookilbo.com/news/article/A2026081811170003937?did=NA",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290351"
  ],
  "seen_titles": [
-  "[사진]안현민,'담장넘겼다'",
-  "외국인의‘픽’으로돌아온S7…삼전닉스에5.6조원‘뭉칫돈’[투자...",
-  "“LG는절대안산다”만년저평가,결국손절했더니…하루새‘폭등...",
-  "150억달러손실제인스트리트,AI펀드타격겹쳤다",
-  "[사진]안현민,'위풍당당홈런타자'",
-  "[사진]KT위즈파크열광의도가니만드는안현민",
-  "[사진]박지성,'안현민에게홈런허용'",
-  "[사진]안현민,'홈런환호'",
-  "[사진]홈런안현민,'멋진세리머니'",
-  "[사진]안현민,'박지성울리는홈런'",
   "[사진]안현민,'안봐도홈런이야'",
   "[사진]홈런안현민,'풍선껌불며'",
   "[사진]안현민,'내가홈런사나이'",
@@ -6001,7 +5991,17 @@
   "독파모2차,업스테이지·SKT·LGAI연구원진출…모티프탈락",
   "현대건설,美테라파워와기본협약…차세대원전사업'속도'",
   "LG유플러스,벤츠더뉴S클래스에‘라이브TV+’적용…탑재차량확대",
-  "KT,SKTelecom,Upstageadvancetonextstageingov't-ledAIproject"
+  "KT,SKTelecom,Upstageadvancetonextstageingov't-ledAIproject",
+  "[CEO열전]박윤영KT대표'친화형리더십'눈길…'노조·야구단'까지...",
+  "카카오,카나나경량모델'카나나-2'안전성세계최고수준입증",
+  "KB증권\"AI생태계,토큰비용최적화로변화\"",
+  "'AI예언자'펀드몰락의전말…마진콜에300억달러증발",
+  "유럽중앙은행의미국기술주하락경고:19세기철도붐사라지고2000년...",
+  "‘국가대표AI’외부평가모티프선두…최종순위는아직",
+  "kt클라우드,다음달15일'ktcloudsummit2026'개최",
+  "카페24,‘AI유입도메인’분석기능출시",
+  "전영현4만3000주,곽노정1만4000주…삼전닉스임원자사주트래킹사...",
+  "[굿모닝!18일유통가소식]11번가·쿠팡·현대홈쇼핑·배달의민족·KT&..."
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,17 @@
   [
    "2026-08-18T11:36:14.587757+09:00",
    "SK stage in advance next gov Telecom Upstage project to led ~KT"
+  ],
+  [
+   "2026-08-18T11:38:14.474738+09:00",
+   "1만4000주 트래킹 전영현 자사주 4만3000주 임원 삼전닉스 곽노정"
+  ],
+  [
+   "2026-08-18T11:38:14.474738+09:00",
+   "11번가 ~KT 쿠팡 배달의민족 현대홈쇼핑"
   ]
  ],
- "last_run": "2026-08-18T11:36:32.019934+09:00",
+ "last_run": "2026-08-18T11:38:40.782411+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
