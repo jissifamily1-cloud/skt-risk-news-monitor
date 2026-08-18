@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026073015201823278",
-  "https://zdnet.co.kr/view/?no=20260730152155",
-  "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4878485",
-  "https://dealsite.co.kr/articles/166261",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203130",
-  "https://www.busan.com/view/busan/view.php?code=2026073013595694397",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89317",
-  "https://www.dt.co.kr/article/12075673",
   "https://www.klnews.co.kr/news/articleView.html?idxno=322137",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=104847",
   "http://www.datanews.co.kr/news/article.html?no=145823",
@@ -2999,18 +2990,18 @@
   "https://www.smarttoday.co.kr/ko-kr/articles/110572",
   "https://www.thelec.kr/news/articleView.html?idxno=61051",
   "https://www.goodkyung.com/news/articleView.html?idxno=290378",
-  "https://www.newscj.com/news/articleView.html?idxno=3426112"
+  "https://www.newscj.com/news/articleView.html?idxno=3426112",
+  "https://www.sportsworldi.com/newsView/20260818520934",
+  "https://www.newspim.com/news/view/20260818001226",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3666881",
+  "https://www.yna.co.kr/view/AKR20260818156200083?input=1195m",
+  "https://www.thelec.kr/news/articleView.html?idxno=61054",
+  "https://www.jbnews.com/news/articleView.html?idxno=1509646",
+  "https://www.sentv.co.kr/article/view/sentv202608180100",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336545",
+  "https://www.hankyung.com/article/2026081878821"
  ],
  "seen_titles": [
-  "[김희대의이로운기술,다정한도시]삼성전자가쏘아올린작은공,한...",
-  "“보너스받으려끼니걸러가며일한다”살인폭염에내몰리는배민노...",
-  "[차이나급보]중국AI경쟁력의진실",
-  "이대통령,샌프란AI동맹·자원외교확대",
-  "보안사고발생,기술부서만대응해선안되는이유",
-  "오픈AI,GPT모델‘통제이탈’정황추가발견…해킹조사확대",
-  "AI데이터센터도'빅테크보증'시대…구글,앤트로픽21.5조원조달지...",
-  "삼성SDS,2분기매출3조700억·영업이익2300억…AI풀스택으로경쟁력...",
-  "삼성SDS2분기매출3.7조돌파...클라우드·AI가실적견인",
   "'키미K3'의출사표…시장은절반만읽었다[기고]",
   "[컨콜]삼성SDS\"AI인프라800MW장기구축…글로벌기업도고객으로확...",
   "삼성SDS,상반기영업익전년比37.8%감소",
@@ -6001,7 +5992,16 @@
   "독파모경쟁LG·SKT·업스테이지3파전…한국AI성능‘글로벌3위’",
   "내달15일'KT클라우드서밋2026'개최",
   "LG전자,엔비디아와로보틱스협업속도…12년치로봇데이터학습",
-  "엔비디아,오픈AI뒤봐준다…149조원규모금융보증파문"
+  "엔비디아,오픈AI뒤봐준다…149조원규모금융보증파문",
+  "갈길바쁜데…LG이재원,햄스트링부상‘재활에만3~4주예상’",
+  "[핌in잠실]LG'햄스트링부상'이재원이탈...새'亞쿼터'케네디는19일...",
+  "대구광역시,세계마스터즈육상대회해외참가자맞춤이동지원...입국...",
+  "\"中,정부기관용'MS윈도우10'조기퇴출지시\"",
+  "네이버빠진'모두의AI'…통신3사·카카오경쟁",
+  "[기고]보이스피싱피해는자만심에서시작된다",
+  "독파모,LG·SKT·업스테이지3파전...\"경쟁방식재편\"",
+  "[속보]이대통령\"특정지역비하·특정사건피해자조롱,실질적제재...",
+  "테라파워SMR뒤엔최태원·정기선회장있었다"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-08-18T17:50:23.745139+09:00",
    "실질적 비하나 조롱에 피해자 지역 필요 제재 특정 대통령"
+  ],
+  [
+   "2026-08-18T18:00:34.980943+09:00",
+   "회장 테라파워 SMR 있었다 뒤엔 정기선"
   ]
  ],
- "last_run": "2026-08-18T17:58:32.706619+09:00",
+ "last_run": "2026-08-18T18:00:58.342021+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
