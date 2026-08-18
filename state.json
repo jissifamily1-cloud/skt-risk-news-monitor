@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3050500",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720583",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=86900",
-  "https://www.mediapen.com/news/view/1116814",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=86901",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/16/2026081600033.html",
-  "https://www.tokenpost.kr/news/breaking/391611",
-  "https://www.mk.co.kr/article/12128943",
   "https://www.mk.co.kr/article/12128941",
   "https://www.newsis.com/view/NISX20260816_0003750987",
   "https://www.hankookilbo.com/news/article/A2026081612160005963?did=NA",
@@ -2999,17 +2991,17 @@
   "http://www.4th.kr/news/articleView.html?idxno=2116480",
   "https://www.busan.com/view/busan/view.php?code=2026081810483499439",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=105347",
-  "https://www.m-economynews.com/news/article.html?no=69854"
+  "https://www.m-economynews.com/news/article.html?no=69854",
+  "https://www.sentv.co.kr/article/view/sentv202608130136",
+  "https://www.sedaily.com/article/20080286",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460068",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=857444",
+  "https://www.smartbizn.com/news/articleView.html?idxno=151417",
+  "https://www.mk.co.kr/article/12129983",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=133643",
+  "https://www.insight.co.kr/news/568655"
  ],
  "seen_titles": [
-  "KT·삼성·LG·두산·KIA가을야구주인공확정?5위KIA·6위한화6G차…...",
-  "AIDC판키우는통신3사…통신이을수익원으로키운다[통신AI베팅③]",
-  "'페덱vs왕옌청'외인에이스맞대결성사될까,라팍을흠뻑적신빗줄...",
-  "\"9440억현금?주주피해는어쩌나\"…최태원이재상고택한이유",
-  "최태원,9440억원재산분할금'주식지급'제안…노소영측\"전액현금\"",
-  "친일사과하영,촬영중오열-생일파티까지취소",
-  "최태원,재산분할일부주식제안…노소영,현금만고수",
-  "앤트로픽,2분기첫영업흑자-매출16조원돌파·IPO기대감커져",
   "최태원,9440억원재산분할금'주식+현금'제안…노소영은\"전액현금...",
   "엔비디아,에스비에너지30억달러투자논의",
   "“父한쪽몸마비돼도유공자도왔다”…홍지민,독립운동가후손이었...",
@@ -6001,7 +5993,15 @@
   "벤츠신차에'라이브TV+'공급..LGU+,차량미디어사업확대",
   "대기업신규채용줄어드는데청년들“AI에도밀린다”",
   "KT,농협경제지주·한국마이크로소프트와농산물AX거래활성화추진",
-  "젠슨황“AI경제서컴퓨팅은매출”…엔비디아,전력·부지까지확보"
+  "젠슨황“AI경제서컴퓨팅은매출”…엔비디아,전력·부지까지확보",
+  "[기획]스마트도시로도약하는김천시",
+  "“수산물시세잡는다”…AI로가격예측·수급이상체크",
+  "카카오개발AI'카나나2',AI안전성평가서구글모델능가",
+  "티맥스티베로,AI로DBMS보안점검완료",
+  "대기업신규채용2년새15%감소···청년줄고장년늘며'세대역전'",
+  "LG유플러스,신형벤츠에차량무선통신실시간영상채널탑재",
+  "농산물쇼핑도AI가주문·배송챙긴다…KT·농협·MS'유통AX'확장",
+  "클로드앞세운앤트로픽,연매출92조돌파...오픈AI제치고기업공개..."
  ],
  "recent_sigs": [
   [
@@ -6611,9 +6611,13 @@
   [
    "2026-08-18T10:54:15.023646+09:00",
    "컴퓨팅은 젠슨 확보 매출 전력 부지까지 경제서"
+  ],
+  [
+   "2026-08-18T10:56:16.621409+09:00",
+   "클로드 기업공개 앞세운 앤트로픽 돌파 제치고 92조 연매출"
   ]
  ],
- "last_run": "2026-08-18T10:54:39.580711+09:00",
+ "last_run": "2026-08-18T10:56:33.787781+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
