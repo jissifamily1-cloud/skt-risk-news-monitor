@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.incheonin.com/news/articleView.html?idxno=120005",
-  "https://www.hankyung.com/article/202608141900i",
-  "https://www.joongboo.com/news/articleView.html?idxno=363734010",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=857321",
-  "http://www.sisacast.kr/news/articleView.html?idxno=98859",
-  "https://sports.donga.com/sports/article/all/20260817/134489238/1",
-  "https://kpenews.com/View.aspx?No=4188685",
-  "https://www.etoday.co.kr/news/view/2615097",
-  "https://www.ajunews.com/view/20260817140930475",
-  "https://view.asiae.co.kr/article/2026081715220389145",
-  "https://www.huffingtonpost.kr/article/259618",
   "https://m.sports.naver.com/general/article/065/0000300833",
   "https://www.nocutnews.co.kr/news/6563754",
   "https://www.ggilbo.com/news/articleView.html?idxno=1175743",
@@ -2999,20 +2988,20 @@
   "https://www.asiaa.co.kr/news/articleView.html?idxno=259117",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=44253",
   "https://www.dailysecu.com/news/articleView.html?idxno=208100",
-  "https://www.etnews.com/20260818000352"
+  "https://www.etnews.com/20260818000352",
+  "https://www.tournews21.com/news/articleView.html?idxno=141257",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720754",
+  "https://www.ddaily.co.kr/page/view/2026081815195392495",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667346",
+  "http://www.osen.co.kr/article/G1112859241",
+  "https://www.etoday.co.kr/news/view/2615551",
+  "https://www.inthenews.co.kr/news/article.html?no=90624",
+  "https://biz.chosun.com/it-science/ict/2026/08/18/FQBS3JN2ENEHDB4VDR5WIQEJFM/",
+  "https://www.mediapen.com/news/view/1117107",
+  "https://www.hellot.net/news/article.html?no=114416",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04086886645548632"
  ],
  "seen_titles": [
-  "KT지니뮤직,포켓몬30주년OST출시",
-  "젠슨황장녀매디슨황,LGR&D캠퍼스방문…‘피지컬AI’혈맹가속",
-  "전반기선두경쟁꿈같네…후반기최하위LG,사실6~7위전력인데잘...",
-  "KT,서울대병원과의료AX플랫폼구축협력…공공의료AI모델발굴",
-  "AI중개플랫폼오픈라우터10조원에인수돼...AI중개·평가플랫폼이...",
-  "KT복덩이된최원준\"제복덩이는딸이죠\"",
-  "한달전8연패의시작을되갚을까...LG의설욕전,kt마운드공략이관...",
-  "전패로끝난충격의‘안방잔치’…위기의T1",
-  "편의점추석선물도취향따라…로봇·호텔디저트·한우까지",
-  "용산숲안일제폐건물에서벽돌한장들고온날",
-  "제재에도깜짝성장한北…러파병댓가로건설경기띄웠다[북한은지금...",
   "[프로야구주간전망]60승선착KT,LG·SSG상대로2위와격차벌리기.....",
   "전설백인천의'4할타율',얼마나대단한기록일까",
   "KT,서울대병원과'의료AX플랫폼구축'본격화",
@@ -6001,7 +5990,18 @@
   "편의점,추석선물판매돌입...초고가·실속형'투트랙'",
   "[오늘의제약리뷰]JW중외제약·일동제약·종근당바이오·에스티팜·셀트...",
   "티맥스티베로,'티베로7'보안정밀점검완료...AI활용해안전성강화",
-  "모두의AI,통신사등3곳참여확정…서비스가당락가른다"
+  "모두의AI,통신사등3곳참여확정…서비스가당락가른다",
+  "'스마트시티를넘어AI시티로'…부산서'WSCE2026'막오른다",
+  "[카드&Now]신한·롯데카드,경남집중호우피해고객결제대금유예...",
+  "\"갤럭시링안방서승부\"…오우라,월9400원구독제고수·34개지원망...",
+  "내가일할곳은어디?...논산시,우수기업채용설명회개최",
+  "LG클로이드와엔비디아피지컬AI기술이만나는현장에'매디슨황'엔...",
+  "경과원,美매직쇼서23개사판로뚫었다…'G-BIOWeek'접수개시",
+  "LG·SKT·업스테이지,독파모2차평가통과…최종2팀내년결정",
+  "엔비디아,오픈AI데이터센터에149조원보증…‘순환금융’논란재점...",
+  "LG전자,엔비디아와손잡고로보틱스도약…\"연내12년치데이터학습...",
+  "내년1분기차세대이족보행로봇베일벗는다...LG·엔비디아,동맹본...",
+  "국민대,차량해킹막는차세대보안반도체기술개발"
  ],
  "recent_sigs": [
   [
@@ -6739,9 +6739,13 @@
   [
    "2026-08-18T15:20:21.102378+09:00",
    "참여 가른다 서비스가 모두의 3곳 확정 당락"
+  ],
+  [
+   "2026-08-18T15:22:14.909523+09:00",
+   "차량 막는 개발 차세대 국민대 기술 보안반도체"
   ]
  ],
- "last_run": "2026-08-18T15:20:38.265657+09:00",
+ "last_run": "2026-08-18T15:22:38.855553+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
