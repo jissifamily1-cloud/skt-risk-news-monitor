@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1678780/?sc=Naver",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051296",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856092",
-  "https://www.newsway.co.kr/news/view?ud=2026081416280311976",
-  "https://www.yna.co.kr/view/AKR20260814177500003?input=1195m",
-  "https://basketkorea.com/news/newsview.php?ncode=1065564811529236",
-  "https://www.etnews.com/20260813000291",
-  "https://www.ddaily.co.kr/page/view/2026081607214197777",
-  "http://www.joseilbo.com/news/news_read.php?uid=573906&class=78",
   "https://www.dailian.co.kr/news/view/1678914/?sc=Naver",
   "https://www.dailian.co.kr/news/view/1678602/?sc=Naver",
   "https://www.hankyung.com/article/202608141856i",
@@ -2999,18 +2990,18 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=120306",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444918",
   "http://www.iminju.net/news/articleView.html?idxno=168147",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16165859"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16165859",
+  "https://www.ajunews.com/view/20260817023352018",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/18/2026081800074.html",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1284556",
+  "https://news.jtbc.co.kr/article/NB12313788?influxDiv=NAVER",
+  "https://www.news1.kr/it-science/mobile/6259820",
+  "http://www.fnnews.com/news/202608180941557531",
+  "https://www.ddaily.co.kr/page/view/2026081809332606942",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7179350",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693607"
  ],
  "seen_titles": [
-  "SKT,AI플랫폼법인청산…PAA대신AI인프라정조준",
-  "사흘간3홈런11안타로타율0.339→0.357...생애첫타격왕타이틀노리...",
-  "앤트로픽다중AI실험,에이전트늘리자협업보다충돌커졌다",
-  "되살아난반도체투심…코스피6200~7200[주간증시전망]",
-  "정재헌vs박윤영vs홍범식…이통3사,클라우드기반'공공기관AX'공략전",
-  "이통3사,샤오미신제품'뚝'…1년째정체",
-  "\"AI에게물어봤더니광고가?\"…챗GPT도광고띄운다",
-  "AI핵심인프라재생에너지…전력안정성높이는ESS입지확대",
-  "냉정한강성욱“잘하는선수는팀을이기게할줄알아야”",
   "KT,2년만에MVNO회선1위탈환…현대차수주효과",
   "알리바바큐웬,메타·구글제치고오픈소스AI1위…다운로드30억건돌...",
   "앤트로픽,2분기잠정매출16.3조‘전년比14배↑’…첫조정영업익흑...",
@@ -6001,7 +5992,16 @@
   "KT·농협경제지주·한국MS,유통AX협력…농산물거래활성화",
   "KT,농협경제지주·한국MS와손잡고에이전틱AI로농산물거래활성화...",
   "KT,농협경제지주·한국MS와AX협력…\"새사업모델발굴\"",
-  "엔비디아주가,225.01달러0.07%하락마감"
+  "엔비디아주가,225.01달러0.07%하락마감",
+  "[경제일보]통신보다AI가더큰다…이통3사,데이터센터에미래건다",
+  "벤츠코리아,신형S-클래스·마이바흐S-클래스출시…1억5400만원부터",
+  "[오늘의일정]8월18일화요일스포츠경기",
+  "빌리,수험생응원'아이돌이들려주는수능한국사'참여",
+  "'수요폭증'에갤Z폴드8배송서두른다…삼성전자,물량공급박차",
+  "웅진씽크빅,2학기개학맞아'웅진스마트올중학'내신강좌개편",
+  "[뉴템]샥즈,오픈형이어폰'오픈런에어2'·'오픈핏에어2'공개",
+  "LG유플러스,메르세데스-벤츠소프트웨어벤더선정",
+  "엔비디아맞서던그록,결국엔비디아고객됐다…5000억원조달"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,17 @@
   [
    "2026-08-18T09:44:14.354333+09:00",
    "하락 주가 01달러 마감"
+  ],
+  [
+   "2026-08-18T09:46:13.652022+09:00",
+   "미래 AI가 큰다 건다 이통3사 통신보다 데이터센터에"
+  ],
+  [
+   "2026-08-18T09:46:13.652022+09:00",
+   "그록 조달 5000억원 결국 고객 맞서던 됐다"
   ]
  ],
- "last_run": "2026-08-18T09:44:37.761068+09:00",
+ "last_run": "2026-08-18T09:46:34.378165+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
