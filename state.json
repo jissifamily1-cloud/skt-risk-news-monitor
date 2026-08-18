@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357432",
-  "https://game.donga.com/123812/",
-  "https://gamefocus.co.kr/detail.php?number=178255",
-  "https://www.tokenpost.kr/news/breaking/390178",
-  "https://www.ajunews.com/view/20260813153044631",
-  "https://www.nocutnews.co.kr/news/6562703",
-  "https://www.newspim.com/news/view/20260813001110",
-  "https://www.dongascience.com/news/view/79414",
   "https://www.mt.co.kr/world/2026/08/13/2026081311145817440",
   "http://www.yonhapnewstv.co.kr/news/AKR20260813141855Nre",
   "https://biz.chosun.com/it-science/ict/2026/08/13/ZH5PV6XZARFJ3FD5T3LA2HW4VU/",
@@ -2999,17 +2991,17 @@
   "http://www.metroseoul.co.kr/article/20260818500202",
   "http://www.inews24.com/view/1995788",
   "http://www.newstomato.com/ReadNews.aspx?no=1310523&inflow=N",
-  "https://www.techm.kr/news/articleView.html?idxno=154392"
+  "https://www.techm.kr/news/articleView.html?idxno=154392",
+  "https://mhnse.com/news/articleView.html?idxno=1492951",
+  "https://isplus.com/article/view/isp202608180107",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405668",
+  "https://www.aitimes.com/news/articleView.html?idxno=214044",
+  "https://www.munhwa.com/article/11610151",
+  "http://www.newsprime.co.kr/news/article.html?no=744157",
+  "https://www.munhwa.com/article/11610149",
+  "https://www.munhwa.com/article/11610150"
  ],
  "seen_titles": [
-  "4000만달러유치발스AI,모델평가인프라확대",
-  "오픈AI'게임빌더스서울'12인공개,송재경부터넥슨강대현대표까...",
-  "오픈AI,'코덱스'게임개발실험나선다…韓대표개발자12명참여",
-  "AI기업,사내메신저·이메일데이터사들인다",
-  "오픈AI,14배빠른'울트라패스트'모드공개...\"지능과속도다잡았다...",
-  "오픈AI,'게임빌더스서울'31일개최…송재경·강대현등개발자12인...",
-  "SinotepreocupabalaIA,elmomentohallegado",
-  "\"ChatGPT·Gemini·Claude,정치허위정보판별정확도편차\"…AI출처신...",
   "오픈AI,韓서첫'AI게임빌더스'개최…'리니지아버지'송재경등판...",
   "오픈AI‘게임빌더스서울에대한민국대표개발자12인모인다",
   "'리니지''메이플스토리'등韓대표게임개발자들'오픈AI게임빌더스...",
@@ -6001,7 +5993,15 @@
   "LG·SKT·업스테이지독파모최종진출…국가대표AI경쟁3강압축",
   "엔비디아매디슨황,LG'로봇훈련소'찾았다…클로이드12년치데이터...",
   "LG전자만남“인크레더블”…매디슨황,데이터팩토리서회동",
-  "LG전자-엔비디아,로봇사업'가속'...'LG데이터팩토리'본격화"
+  "LG전자-엔비디아,로봇사업'가속'...'LG데이터팩토리'본격화",
+  "종영단1회남기고주연커플'결별위기'…예측불가결말에기대감이...",
+  "[IS포커스]1할타자,8실점투수…AG엔트리이대로괜찮나",
+  "샥즈,오픈형이어폰2종공개…18일부터사전예약실시",
+  "비드래프트,AI신약발견프로젝트공개…3일만에2000건이상후보물질...",
+  "LG·SKT·업스테이지…‘국대AI’3파전압축",
+  "독파모,LG·SKT·업스테이지'3파전'압축…모티프탈락",
+  "“LG클로이드,엔비디아만나12년치데이터학습”",
+  "AI앞에떨고있는청년들…30세이하채용,13%줄었다"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,13 @@
   [
    "2026-08-18T12:06:16.745223+09:00",
    "솔루션으로 학습 분량 데이터 연내 12년 LG클로이드"
+  ],
+  [
+   "2026-08-18T12:12:15.022439+09:00",
+   "있는 청년들 이하 줄었다 앞에 떨고 30세 채용"
   ]
  ],
- "last_run": "2026-08-18T12:10:41.983289+09:00",
+ "last_run": "2026-08-18T12:12:34.814356+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
