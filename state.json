@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=856221",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1395073",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252098",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850073",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405453",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=206386",
-  "https://zdnet.co.kr/view/?no=20260812085907",
-  "https://www.newsis.com/view/NISX20260812_0003745267",
   "https://www.newspim.com/news/view/20260812000042",
   "https://www.dailian.co.kr/news/view/1677125/?sc=Naver",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=224614",
@@ -2999,17 +2991,17 @@
   "https://www.hankyung.com/article/2026081879061",
   "https://dealsite.co.kr/articles/167411",
   "https://www.segye.com/newsView/20260818519150?OutUrl=naver",
-  "https://www.newsis.com/view/NISX20260818_0003753162"
+  "https://www.newsis.com/view/NISX20260818_0003753162",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002484",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=213857",
+  "https://sports.khan.co.kr/article/202608181819003?pt=nv",
+  "https://www.mk.co.kr/article/12130533",
+  "https://www.econovill.com/news/articleView.html?idxno=748289",
+  "https://www.mediapen.com/news/view/1117213",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101661",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=761714"
  ],
  "seen_titles": [
-  "김용범\"샌프란AI선언,한국AI공급망허브만드는출발점\"",
-  "이젠AI가성비전쟁?오픈AI,GPT-5.6으로판뒤집을까[스프]",
-  "젠슨황“AI황금시대”·올트먼“가장중요한나라”…韓,AI핵심국가...",
-  "SKT,앤스로픽에추가투자...\"파트너십으로AI생태계서역할강화\"",
-  "정재헌SKT사장\"앤스로픽추가투자,협력관계이어갈것\"",
-  "아시아증시일제히급락⋯日닛케이3.85%↓",
-  "[AIMY뉴스]13일중국증시'美물가안도감+AI인프라+로봇'3대키워드...",
-  "[더벨][i-point]다나와\"생성형AI연계이용자유입119%증가\"",
   "\"AI대화로쇼핑해보세요\"…다나와,생성형AI유입119%증가",
   "다나와\"AI플랫폼유입119%급증\"",
   "다나와,생성형AI유입트래픽119%증가…AI쇼핑MCP도입",
@@ -6001,13 +5993,17 @@
   "\"美국채10년물금리향방이더중요…연5%뚫으면증시타격\"",
   "이스트소프트,가장먼저'모두의AI'컨소구성…'알약'효과노린다",
   "대기업고용비중‘청년<50세이상’역전…신규채용뚝↓[고용지표...",
-  "잠실만오면펄펄나는KT힐리어드…이강철감독\"첫기억이좋아서그..."
+  "잠실만오면펄펄나는KT힐리어드…이강철감독\"첫기억이좋아서그...",
+  "\"이번에다치면끝이니까\"KT장성우90%회복,1군복귀는일주일뒤",
+  "넵튠인도법인,'배틀그라운드모바일인디아'광고공식운영",
+  "“둘째출산도잠실경기는피하자고했다”홈런왕복병KT힐리어드,...",
+  "일본연말시총1위를AI에게물었더니…일본경제시나리오3가지로갈...",
+  "[IT큐레이션]딸깍의경제학\"AI콘텐츠를어찌할꼬?\"",
+  "삼양그룹,‘AI·스페셜티’집중…김윤회장“목표반드시달성”",
+  "한국투자증권·신한은행·BNK경남은행...리테일신상품부터상생대출·...",
+  "SKT·LGAI연구원·업스테이지,'독파모'3파전...\"실사용모델만들것..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-18T12:22:16.214867+09:00",
-   "하반기 GPU 독파모 지원체계도 논의 지원 확대"
-  ],
   [
    "2026-08-18T12:26:14.393127+09:00",
    "대학생 청춘비상 경연 뮤지션 지원 최종 ~KT 상상마당"
@@ -6641,7 +6637,7 @@
    "이강철 잠실만 힐리어드 좋아서 펄펄 나는 오면 ~KT 기억이 감독"
   ]
  ],
- "last_run": "2026-08-18T18:20:46.189969+09:00",
+ "last_run": "2026-08-18T18:22:32.935306+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
