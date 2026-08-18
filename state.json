@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008707776&plink=ORI&cooper=NAVER",
-  "https://www.newspim.com/news/view/20260816000151",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/17/20260817032005?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/IT/2026/08/17/20260817012001?wlog_tag3=naver",
-  "https://www.wikitree.co.kr/articles/1152823",
-  "https://www.xportsnews.com/article/2184479",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11171",
-  "https://www.mt.co.kr/tech/2026/08/17/2026081417362312469",
-  "https://biz.chosun.com/international/international_general/2026/08/17/GFNLQMMBSFC4HOADNOEJIPPGFM/",
   "http://www.fnnews.com/news/202608150809136171",
   "https://economist.co.kr/article/view/ecn202608100009",
   "https://it.chosun.com/news/articleView.html?idxno=2023092167985",
@@ -2999,18 +2990,18 @@
   "https://dealsite.co.kr/articles/167373",
   "https://www.pharmnews.com/news/articleView.html?idxno=305661",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693669",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6536"
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6536",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667120",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667107",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667132",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667097",
+  "https://www.dailian.co.kr/news/view/1679370/?sc=Naver",
+  "https://www.mt.co.kr/future/2026/08/18/2026081809025835332",
+  "https://www.itbiznews.com/news/articleView.html?idxno=222095",
+  "https://www.koreaherald.com/article/10844040",
+  "https://www.mt.co.kr/tech/2026/08/18/2026081812313869772"
  ],
  "seen_titles": [
-  "앤트로픽매출14.6배껑충…’라이벌’오픈AI는내홍심화",
-  "앤트로픽아모데이,AI반발책임론에“신뢰의위기”반박…투자자와...",
-  "톰리\"AI시대창업자비전이기업경쟁력\"",
-  "IPO앞둔AI업계양대주자,속사정은극과극",
-  "인간통제벗어난AI,일론머스크의낙관은위험합니다",
-  "LG,엔비디아두뇌달고‘체질개조’",
-  "[단독]\"젠슨황과발전기사업\"…2700억사기수사받자간판바꾸고또...",
-  "엔비디아두뇌에LG몸통…차세대휴머노이드‘동맹’",
-  "美“中과AI협력양다리땐공급망배제”…韓등AI동맹35개국에경고...",
   "오픈AI,재앙적위험평가하던‘준비팀’조용히해체하고업무분산배...",
   "KIA,두산꺾고4위탈환…SSG는LG에완승,kt는선두질주",
   "최원준역전타에안현민쐐기포…1위KT,꼴찌키움에역전승",
@@ -6001,7 +5992,16 @@
   "[제약+]JW중외제약,‘보팡글루타이드’국내3상IND신청外",
   "삼양그룹,'2026삼양커넥트'개최...상반기성과및경영전략공유",
   "SKT'A.XK2',기술력넘어'실전경쟁력'입증",
-  "KT노조\"LGU+보다적은투자..박윤영분발하라\"[전문]"
+  "KT노조\"LGU+보다적은투자..박윤영분발하라\"[전문]",
+  "'청구영언'과K-POP의만남…세종한글문화,LA서뜨거운호응",
+  "세종도시교통공사,참여형청렴프로그램으로'신뢰받는공기업'다짐",
+  "민주당세종시당\"김민석당대표당선환영…행정수도특별법연내제정...",
+  "창원시,칠월칠석전통문화현대적콘텐츠로재해석해선보여",
+  "'독파모'3강서모티프고배…사용성·활용성이당락갈랐다(종합)",
+  "두핸즈'품고',토스쇼핑'도착보장'맡는다…물류파트너선정",
+  "LG전자,엔비디아와로보틱스협력'맞손'…\"융합로보틱스사업본격화...",
+  "LG,SKT,UpstageadvanceinKorea’ssovereignAIrace",
+  "'국가대표AI'뽑는독파모,내년대대적개편할까[일문일답]"
  ],
  "recent_sigs": [
   [
@@ -6671,9 +6671,17 @@
   [
    "2026-08-18T13:00:34.115189+09:00",
    "보다 투자 LGU 적은 박윤영 분발하라 ~KT KT노조 ~LGU"
+  ],
+  [
+   "2026-08-18T13:02:15.379760+09:00",
+   "Upstage advance sovereign in ~SKT race Korea LG"
+  ],
+  [
+   "2026-08-18T13:02:15.379760+09:00",
+   "대대적 국가대표 뽑는 내년 개편할까 독파모"
   ]
  ],
- "last_run": "2026-08-18T13:00:54.551473+09:00",
+ "last_run": "2026-08-18T13:02:39.345138+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
