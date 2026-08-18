@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3665964",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3665967",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3665954",
-  "https://zdnet.co.kr/view/?no=20260812163516",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=363845",
-  "https://www.g-enews.com/view.php?ud=202608161009395609fbbec65dfb_1",
-  "https://news.mtn.co.kr/news-detail/2026081417264354190",
-  "https://www.mt.co.kr/tech/2026/08/14/2026081417402087604",
-  "https://www.econovill.com/news/articleView.html?idxno=748121",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=05753126645546664",
-  "https://www.g-enews.com/view.php?ud=202608161016243836fbbec65dfb_1",
   "https://www.econovill.com/news/articleView.html?idxno=748122",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212763",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005898710",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20260818_0003752166",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460013",
   "https://www.ytn.co.kr/_ln/0134_202608180943461483",
-  "https://www.mt.co.kr/tech/2026/08/18/2026081809574596813"
+  "https://www.mt.co.kr/tech/2026/08/18/2026081809574596813",
+  "https://www.hankyung.com/article/202608186506O",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052080",
+  "https://www.dt.co.kr/article/12078655",
+  "https://www.newsis.com/view/NISX20260818_0003752208",
+  "https://biz.heraldcorp.com/article/10843678",
+  "https://www.nocutnews.co.kr/news/6563965",
+  "https://www.aitimes.com/news/articleView.html?idxno=213795",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03224246645548632",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052113",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=90506",
+  "https://zdnet.co.kr/view/?no=20260818092950"
  ],
  "seen_titles": [
-  "이스라엘,레바논남부공습…어린이등9명사망",
-  "[굿모닝위즈·102]사사구9개는선넘었지",
-  "정부는정책드라이브,민간은서비스로구현...'디지털보훈'진화중",
-  "대구시서구청,'맞벌이가구증가'...다함께돌봄센터비산점조성완료",
-  "대구시서구청,청소년드림센터'오픈체험단'330명모집...8월18~28일무...",
-  "김제시,19개읍면동민간위원장위촉…복지사각지대발굴·취약계층...",
-  "데이터센터성장세탄통신3사…AIDC투자드라이브",
-  "[이슈]정유4사'14조원대호실적'…유통망다지고신사업키운다",
-  "SK하이닉스,美웨이퍼공장검토…칩플레이션경고",
-  "홍범식18억·정재헌17억…이통3사CEO,상반기보수1등은?",
-  "유진기업의YTN인수적법성판단,다음회의서재논의",
   "[IT큐레이션]오픈웨이트가AI패권경쟁의새전선이됐다",
   "대법,가족관계증명서스크래핑차단한시유예…이달31일까지",
   "엔비디아,인텔·스페이스X지분510억달러보유",
@@ -6001,7 +5990,18 @@
   "美30년물국채금리5.3%폭등…'보험주'웃고'은행주'울고",
   "KT·농협·한국MS맞손···\"AI가상품추천부터주문·배송까지\"",
   "노태우일가자금흐름역추적...'300억원'국가환수가능성은?[자막...",
-  "\"AX실행쉽도록\"…kt클라우드서밋2026개최"
+  "\"AX실행쉽도록\"…kt클라우드서밋2026개최",
+  "카톡•텔레그램속피싱까지…아톤,KB스타뱅킹에‘디펜더스’탑재",
+  "LGU+,벤츠소프트웨어벤더선정…'라이브TV+'서비스탑재",
+  "“사전계약2500대돌파”…벤츠더뉴S클래스공식출시",
+  "넵튠,'배그모바일인디아'광고맡는다",
+  "17거래일만에돌아온‘칠천피’…외국인·반도체가이끌었다",
+  "'AI가가져올도시의변화'부산서월드스마트시티엑스포개최",
+  "미하원,오픈AI·앤트로픽청문회소환추진...\"AI통제이탈위험심각...",
+  "아크릴,상반기매출120억원전년比150%↑…지난해연간매출90%달성",
+  "대기업청년채용2년새23%감소…하이닉스는11배↑",
+  "대기업청년채용줄고장년층늘었다···'세대역전'심화",
+  "오픈AI,美오하이오10GW데이터센터구축…엔비디아자금지원"
  ],
  "recent_sigs": [
   [
@@ -6529,7 +6529,7 @@
    "서밋 개최 클라우드 실행 AX 쉽도록 ~KT"
   ]
  ],
- "last_run": "2026-08-18T10:12:42.053933+09:00",
+ "last_run": "2026-08-18T10:14:34.736593+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
