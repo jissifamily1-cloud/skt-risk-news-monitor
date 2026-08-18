@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html?partner=naver",
-  "https://www.sedaily.com/article/20079495",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53602",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03178326645547320",
-  "https://biz.sbs.co.kr/article_hub/20000328677?division=NAVER",
-  "https://www.sedaily.com/article/20079021",
-  "https://www.bloter.net/news/articleView.html?idxno=670934",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=311253",
-  "https://www.thelec.kr/news/articleView.html?idxno=60924",
   "https://www.joongang.co.kr/article/25452998",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5212130",
   "https://biz.sbs.co.kr/article_hub/20000328434?division=NAVER",
@@ -2999,18 +2990,18 @@
   "https://www.sportsseoul.com/news/read/1629255",
   "https://www.ceoscoredaily.com/page/view/2026081813064579574",
   "https://www.huffingtonpost.kr/article/259651",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04539526645548632"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=04539526645548632",
+  "https://www.etnews.com/20260818000425",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60351",
+  "https://www.news2day.co.kr/article/20260818500238",
+  "https://www.dt.co.kr/article/12078787",
+  "http://www.inews24.com/view/1995974",
+  "https://www.newsis.com/view/NISX20260818_0003752191",
+  "https://www.aitimes.com/news/articleView.html?idxno=214071",
+  "https://www.joongangenews.com/news/articleView.html?idxno=540808",
+  "https://www.gameple.co.kr/news/articleView.html?idxno=216268"
  ],
  "seen_titles": [
-  "오픈AI직원들,출시압박에안전밀렸다증언",
-  "AI매출143%에도브로드컴6월4일14%하락",
-  "구글,제미나이·플로우워터마크끄는기능켰다…신스ID는그대로유지...",
-  "앤트로픽,데카트8조5080억원에인수논의…엔비디아제치고사상최대...",
-  "오픈AI,기업고객200만곳넘기고매출책임자교체",
-  "TechGiants’ProfitsRevealPotentialVulnerabilityintheStockMark",
-  "쓰라이브캐피털,아마존3049억원어치매입",
-  "2000억달러AI매출,브로드컴공식전망아니다",
-  "마이크로소프트,코파일럿앱2종통합하며미코퇴장…9월중순순차배...",
   "RobinhoodBetsAgainonaPublicVentureCapitalFund",
   "[이혜정의교육이데아]대입개편,‘정답찾기’벗어나야",
   "\"AI많이써도매출은…\"오픈AI최신연구에숨은반전",
@@ -6001,13 +5992,18 @@
   "LG·엔비디아‘로봇동맹’속도…클로이드에10만시간데이터학습",
   "‘국가대표AI’,LG·SKT·업스테이지‘생존’…모디프,벤치마크최고...",
   "엔비디아젠슨황장녀매디슨황LG전자류재철만났다,'클로이드'에...",
-  "LG·엔비디아,나흘만에재회…매디슨황,LG로봇거점방문"
+  "LG·엔비디아,나흘만에재회…매디슨황,LG로봇거점방문",
+  "이은택KB증권이사“물가·금리동시상승이증시고비…美10년물5%...",
+  "강화된사운드적용...신규오픈형이어폰2종선보인'샥즈'",
+  "\"삼성전자100주사줘\"…AI대화창이증권사창구된다",
+  "이대론3강어렵다…정부,‘독파모’재검토",
+  "이통3사·카카오'모두의AI'출사표⋯네이버는불참",
+  "\"7200피찍자마자뚝\"…코스피,대세상승전환은언제쯤",
+  "그로크,4900억추가유치…AI칩개발사서'네오클라우드'로체질개선",
+  "'전국민무료AI'누가만드나…SKT·KT·LGU+·카카오출격,네이버는...",
+  "한국대표개발자12인은?오픈AI-컴투스의해커톤라인업"
  ],
  "recent_sigs": [
-  [
-   "2026-08-18T11:24:15.034825+09:00",
-   "일어날 없다 지도부 김민석 소지는 갈등 최민희"
-  ],
   [
    "2026-08-18T11:26:15.574647+09:00",
    "국제금융통 재경부 영입 SK하이닉스"
@@ -6683,9 +6679,13 @@
   [
    "2026-08-18T17:20:22.935789+09:00",
    "맡겼다 국가 ~KT 조사방해 핵심망 로그삭제"
+  ],
+  [
+   "2026-08-18T17:24:17.172567+09:00",
+   "한국 컴투스의 라인업 12인은 대표 해커톤 개발자"
   ]
  ],
- "last_run": "2026-08-18T17:22:34.051267+09:00",
+ "last_run": "2026-08-18T17:24:43.273535+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7210,6 +7210,7 @@
   "harpersbazaar.co.kr": "하퍼스 바자 코리아",
   "e2news.com": "이투뉴스",
   "bbc.com": "BBC News 코리아",
-  "cfnews.kr": "유교신문"
+  "cfnews.kr": "유교신문",
+  "gameple.co.kr": "게임플"
  }
 }
