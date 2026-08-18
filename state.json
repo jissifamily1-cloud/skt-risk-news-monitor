@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://ditoday.com/%ec%b4%88%ec%95%88-%ec%a7%9c%eb%8a%94-ai-%ec%98%86%ec%97%90%ec%84%9c-%ea%b8%b0%ed%9a%8d%ec%9e%90%ea%b0%80-%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%9d%bc/",
-  "https://www.yna.co.kr/view/AKR20260814175200001?input=1195m",
-  "https://www.yna.co.kr/view/AKR20260816009200091?input=1195m",
-  "https://www.tjb.co.kr/news05/bodo/view/id/102462",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635450",
-  "https://www.ddaily.co.kr/page/view/2026081601020103469",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693487",
-  "https://www.ddaily.co.kr/page/view/2026081518495126126",
   "https://www.sentv.co.kr/article/view/sentv202608140087",
   "https://www.cbci.co.kr/news/articleView.html?idxno=598541",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260816.99099004166",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260813000291",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=856005",
   "http://www.boannews.com/media/view.asp?idx=145178&kind=3",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41479"
+  "https://www.aitimes.kr/news/articleView.html?idxno=41479",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=93843",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1396107",
+  "https://sports.khan.co.kr/article/202608180949003?pt=nv",
+  "http://www.ddanzi.com/892048726",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423106",
+  "https://news.unn.net/news/articleView.html?idxno=596006",
+  "https://www.kmaeil.com/news/articleView.html?idxno=648698",
+  "https://lawtalknews.co.kr/article/BIF8S6I99OBN"
  ],
  "seen_titles": [
-  "[두산,SK실트론인수후]박정원회장,흡수합병유력…'지주사리스크...",
-  "쓰레기통페달밟아쓰레기버리는휴머노이드…엔비디아'소닉'공개",
-  "기록적폭염에재난문자급증…5년평균보다57%늘었다",
-  "초안짜는AI옆에서기획자가해야할일",
-  "공공기관개인정보유출5년새7배증가…3건중2건'업무과실'",
-  "앤트로픽,창사첫분기흑자전환…매출은14배로급증",
-  "개인정보유출사고뒤통신사이동35%…유출걱정클수록갈아탔다",
-  "[반도체패권전쟁③]TSMC·엔비디아·미국동맹공급망···AI반도체...",
   "지멘스EDA개방형인공지능생태계영토확장…美무역확장법에긴장...",
   "글로벌AI판'가격중심'재편탄력...美유력기업도인하대공세",
   "KT,고객목소리서비스개선으로…선제적고객보호강화",
@@ -6001,7 +5993,15 @@
   "KT,2년만에MVNO회선1위탈환…현대차수주효과",
   "中중저가폰,한국서고전…'칩플레이션'탓?",
   "SGA솔루션즈상반기매출751억원,영업이익21억...흑자전환",
-  "엔비디아RTXGPU,로컬AI에서프론티어급큐웬3.8-27B코딩에이전트구..."
+  "엔비디아RTXGPU,로컬AI에서프론티어급큐웬3.8-27B코딩에이전트구...",
+  "추석선물도'편의점전성시대'…로봇·러닝템부터한우·헬로키티까지",
+  "SKT·KT·LGU+,장기고객잡아라…체험형프로그램'소통'",
+  "‘게임체인저’는아니지만‘엔딩체인저’는될수있다?···G새좌완...",
+  "[뉴공아카이브]주식아가방:코스피,5거래일째상승랠리…7000선이번...",
+  "AI로상품찾아도결제율은17%뿐···'규제·보안'장벽에막힌에이전...",
+  "아주대염동일교수팀,2차원물질-광섬유소자기반광통신대역양자얽...",
+  "[말말말]이민근안산시장\"어떠한위기에도시민의생명과재산지키겠...",
+  "최태원재상고로다시대법원간'9440억재산분할'…핵심쟁점은?"
  ],
  "recent_sigs": [
   [
@@ -6489,7 +6489,7 @@
    "큐웬3 27B 프론티어급 GPU RTX 코딩 AI에서 로컬 에이전트"
   ]
  ],
- "last_run": "2026-08-18T09:50:40.622503+09:00",
+ "last_run": "2026-08-18T09:52:34.817439+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
