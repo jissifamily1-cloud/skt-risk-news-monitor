@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12116321",
-  "https://www.mt.co.kr/tech/2026/08/05/2026080410523991329",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39697",
-  "https://view.asiae.co.kr/article/2026080410272080480",
-  "https://www.newstree.kr/newsView/ntr202608040006",
-  "https://www.kbsm.net/news/view.php?idx=529084",
-  "https://www.mt.co.kr/tech/2026/08/04/2026080408142844985",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=689285",
-  "http://www.newstomato.com/ReadNews.aspx?no=1309073&inflow=N",
-  "https://www.etnews.com/20260803000251",
-  "https://www.m-i.kr/news/articleView.html?idxno=1398334",
   "https://biz.heraldcorp.com/article/10828322",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01548166645543384",
   "https://www.etnews.com/20260731000251",
@@ -2999,20 +2988,20 @@
   "https://www.mt.co.kr/tech/2026/08/18/2026081816080185027",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=316553",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87558",
-  "https://www.newspost.kr/news/articleView.html?idxno=225000"
+  "https://www.newspost.kr/news/articleView.html?idxno=225000",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667534",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667535",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3667533",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878185",
+  "https://www.newsis.com/view/NISX20260818_0003753083",
+  "https://byline.network/?p=9004111222615709",
+  "https://www.newsis.com/view/NISX20260818_0003753038",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89527",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=270818",
+  "https://www.globale.co.kr/news/articleView.html?idxno=39920",
+  "https://www.hankookilbo.com/news/article/A2026081809250003282?did=NA"
  ],
  "seen_titles": [
-  "[기획]알뜰폰'안심옵션'적용…실효성은'글쎄'",
-  "\"100배성능자신\"스페이스X,2027년스타링크모바일강화…美3대이...",
-  "네이버웹툰,日이통사와협업해구독서비스제공",
-  "네이버웹툰日라인망가에서애니도본다",
-  "비수기뚫고번호이동60만건…갤Z8·아이폰출격에경쟁격화예고",
-  "공급사쥐어짜고기술유출의혹…시장교란하는'포식자'[인사이드애...",
-  "대세는폴더블폰…대박난삼성‘갤Z8’,이젠애플과승부",
-  "\"싸서썼는데\"옛말…알뜰폰흔들리자정부구조개편",
-  "“‘폴드8’무슨색상살까”40대도고민…뚜껑여니‘대세’있었다",
-  "“이제아저씨폰아니다”갤Z8신기록에…이통사유치전‘활활’",
-  "\"AI시대,해킹당하면큰일\"…7년만에M&A나선LG유플러스",
   "KT엠모바일eSIM로밍'모비',1일990원특가,8월말까지연장",
   "\"3GB는부족하고30일은길고\"불편한로밍요금제",
   "'갤럭시Z8'144만대사전판매'역대최다'...가장인기있는기종은?",
@@ -6001,7 +5990,18 @@
   "'벤치맥싱'논란넘어…'독파모2차평가'가한국에남긴것은",
   "LG전자·엔비디아,'로봇데이터공장'맞손…연말10만시간학습데이터...",
   "구광모의'원LG'에젠슨황의두뇌심는다…피지컬AI수익화시험대",
-  "LG전자'클로이드',연말까지12년치데이터학습…엔비디아와협업"
+  "LG전자'클로이드',연말까지12년치데이터학습…엔비디아와협업",
+  "넷마블'뱀파이어MMORPG'1주년,레드문페스타·권속콘텐츠·VCC토너...",
+  "전주시공공분수33곳운영전면중단…가뭄대응절수조치",
+  "[동정]문정우금산군수",
+  "'상승행진'코스피,6거래일만에하락세로...중동리스크고조ㆍ美국...",
+  "흰천앞에서뛰자모니터엔초원이…할리우드파고든中AI",
+  "에스넷시스템,올해AI인프라누적수주액1400억원",
+  "\"당신아이폰이공격표적\"…애플,110개국이용자에이례적경고",
+  "'국대AI'정예팀3강가려졌다…업스테이지∙SKT∙LG진출",
+  "\"AX전략키노트부터기술발표세션·전시까지\"…'ktcloudsummit'개최",
+  "[포토]LG전자,엔비디아와로보틱스협력가속···피지컬AI맞손",
+  "엔비디아,오픈AI의데이터센터에150조원보증...\"핵심인프라\""
  ],
  "recent_sigs": [
   [
@@ -6721,7 +6721,7 @@
    "구광모의 시험대 두뇌 젠슨 피지컬 수익화 LG 황의 심는다"
   ]
  ],
- "last_run": "2026-08-18T16:58:37.715147+09:00",
+ "last_run": "2026-08-18T17:00:50.990359+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
