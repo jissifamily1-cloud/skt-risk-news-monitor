@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6261832",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03847446645548632",
-  "https://www.cnet.co.kr/view/?no=20260818140426",
-  "https://www.busan.com/view/busan/view.php?code=2026081812471150311",
-  "https://www.insight.co.kr/news/568675",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=87098",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639304",
-  "https://www.greened.kr/news/articleView.html?idxno=347859",
-  "https://www.mk.co.kr/article/12130135",
-  "https://www.sportschosun.com/life/2026-08-18/202608180100103140006542",
-  "http://www.segyebiz.com/newsView/20260818514022?OutUrl=naver",
   "https://www.news2day.co.kr/article/20260818500128",
   "http://www.sisacast.kr/news/articleView.html?idxno=98894",
   "https://www.ajunews.com/view/20260818134926199",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20260819_0003753398",
   "https://www.slist.kr/news/articleView.html?idxno=759577",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720799",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170035"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170035",
+  "https://www.nocutnews.co.kr/news/6564502",
+  "https://www.aitimes.com/news/articleView.html?idxno=214043",
+  "https://www.chosun.com/economy/tech_it/2026/08/19/VEWPG57ZRBHARKAEZATPBP6A6I/",
+  "https://www.koreadaily.com/article/20260818145952675",
+  "https://www.itooza.com/common/iview.php?no=2026081812581606458",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=878214",
+  "https://www.slist.kr/news/articleView.html?idxno=759580",
+  "https://www.seoulfn.com/news/articleView.html?idxno=635916",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=441620",
+  "https://www.ceoscoredaily.com/page/view/2026081814035986232",
+  "https://www.newsis.com/view/NISX20260818_0003753251"
  ],
  "seen_titles": [
-  "독자AI파운데이션모델경쟁,LG·SKT·업스테이지3파전압축",
-  "현대건설,테라파워원전최대8기EPC우선권확보...원전분야협력확...",
-  "'독파모탈락'모티프3,이의제기안한다…\"아쉽지만결과수용\"",
-  "에스넷시스템,AI인프라수주잇따라…올해누적1400억확보",
-  "샥즈,오픈런에어2·오픈핏에어2공개…가격21만5천원",
-  "LG·SKT·업스테이지‘독파모’3파전…내년초최종2팀선정",
-  "SKT·LG,'국가대표AI'2차평가통과...연말최종2팀경쟁",
-  "대기업채용2년새15%감소-50대이상고용비중,30세이하첫추월",
-  "‘독파모’2차평가결과발표…모티프탈락·3개팀생존",
-  "젠슨황장녀,LG전자데이터팩토리방문\"인크레더블\"···엔비디아본...",
-  "스포츠토토,대구삼성라이온즈파크에서현장프로모션…야구열기속...",
   "무더위에도계속된'프로야구직관열기'…'1위파워'KT홈구장식음료...",
   "옆커폰,공식앱통해휴대폰시세부터매장상담까지원스톱서비스제...",
   "LG데이터팩토리방문한매디슨황…피지컬AI협력도모",
@@ -6001,7 +5990,18 @@
   "美,이란정부연계해커5명에140억원현상금",
   "대기업고액보수36.4%가주식보상…SK·두산이63.5%",
   "﻿7200찍자쏟아진매도…기관1.2조폭탄,개미가물량받아내",
-  "미국증시DOW'또하락'..엔비디아·캐터필러'뚝',SW주'활짝'"
+  "미국증시DOW'또하락'..엔비디아·캐터필러'뚝',SW주'활짝'",
+  "김민석,봉하마을참배·文예방…부산서첫공개최고위[오늘아침]",
+  "[8월18일]AI의료의새로운돌파구…의사도경험하기어려운'희귀질환...",
+  "“우리AI가1등”검증해준다…우후죽순AI에‘AI심판’도유망산업",
+  "윤용규재미한인과기협회장,제1회R.C.곤잘레스펠로우상수상",
+  "[미국주식]2026년8월마법공식30선",
+  "뉴욕증시,중동리스크확대·美국채금리급등에하락지속",
+  "미·일·유럽장기국채금리급등…재정확대·AI회사채발행부담",
+  "[뉴욕증시]글로벌고금리충격'화들짝',사흘째하락…반도체주급락",
+  "[WhoIs?]홍영철고려제강회장",
+  "대기업고액연봉자22%‘주식보상’…SK·두산이2343억원으로64%차지",
+  "\"주가급등에…\"올상반기고액연봉자5명중1명주식기준보상"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,17 @@
   [
    "2026-08-19T07:00:31.888345+09:00",
    "하락 캐터필러 DOW SW주 활짝 미국증시"
+  ],
+  [
+   "2026-08-19T07:02:16.163086+09:00",
+   "주가 상반기 1명 보상 5명 급등에 고액 주식기준 연봉자"
+  ],
+  [
+   "2026-08-19T07:02:16.163086+09:00",
+   "AI가 유망 산업 검증해준다 우리 심판 AI에 1등 우후죽순"
   ]
  ],
- "last_run": "2026-08-19T07:00:49.609863+09:00",
+ "last_run": "2026-08-19T07:02:43.630041+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
