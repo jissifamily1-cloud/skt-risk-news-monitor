@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52196",
-  "https://biz.sbs.co.kr/article_hub/20000329107?division=NAVER",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=169954",
-  "https://www.public25.com/news/articleView.html?idxno=52831",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608180385&t=NN",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=67109",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693535",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257387",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608180404&t=NN",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608180411&t=NN",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026081881087",
   "https://www.gukjenews.com/news/articleView.html?idxno=3667695",
   "https://www.dailian.co.kr/news/view/1679580/?sc=Naver",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=271955"
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271955",
+  "https://www.sportsseoul.com/news/read/1629310",
+  "https://www.sportsseoul.com/news/read/1629311",
+  "https://www.sportsseoul.com/news/read/1629312",
+  "https://www.sportsseoul.com/news/read/1629313",
+  "https://www.korea.kr/news/policyNewsView.do?newsId=148970236&call_from=naver_news",
+  "https://biz.heraldcorp.com/article/10843317",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8639667"
  ],
  "seen_titles": [
-  "앤트로픽,연환산매출650억달러…7개월만에7배성장",
-  "LG구광모,영업익2배'껑충'…전자계열호성적,하반기AX고도화",
-  "미·이란긴장·국채금리급등에뉴욕증시하락…AI반도체주는반등",
-  "'잠실에서강했던'선두kt,'반전절실한'3위LG와주중3연전…선두권...",
-  "앤트로픽,IPO앞두고연환산매출650억달러돌파…1년새7배↑",
-  "대기업채용15%'뚝'…'청년줄고장년느는'고용세대역전뚜렷",
-  "[오늘의신문]거제636㎜물폭탄에서카이로선언새자료까지",
   "유가상승에3대지수하락했지만…메모리반도체는상승[뉴욕증시브리...",
   "하닉ADR3%마이크론4%올랐지만'이란먹구름'",
   "[마켓프리뷰]외인8조순매수에코스피질주…삼전닉스다시달릴까?",
@@ -6001,7 +5994,14 @@
   "'모두의AI'에6곳도전장…SKT·카카오·KT격돌",
   "모두의AI,6파전확정…이통3사·카카오·제논·이스트소프트",
   "'모두의AI'에SKT·KT·카카오등6곳참여…네이버는불참",
-  "\"SK의사운건결단…계열사총동원한'AIDC전면전'시작됐다\""
+  "\"SK의사운건결단…계열사총동원한'AIDC전면전'시작됐다\"",
+  "[포토]김현수‘안맞네’",
+  "[포토]안타신민재‘득점하러가자’",
+  "[포토]3회우전안타날리는박해민",
+  "[포토]박해민‘3회득점기회만드는안타’",
+  "한국대표'독파모',업스테이지·SK·LG3파전…세계수준입증",
+  "엔비디아,오픈AI데이터센터에150조원보증…순환금융‘논란’",
+  "[단독]‘외교관정보유출’국립외교원해킹…‘24시간보안관리’못..."
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,13 @@
   [
    "2026-08-18T19:58:14.733058+09:00",
    "결단 SK의 DC 계열사 총동원한 시작됐다 전면전 사운"
+  ],
+  [
+   "2026-08-18T20:00:33.797934+09:00",
+   "외교관 보안 24시간 정보유출 국립외교원 관리"
   ]
  ],
- "last_run": "2026-08-18T19:58:32.230417+09:00",
+ "last_run": "2026-08-18T20:00:51.820951+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
