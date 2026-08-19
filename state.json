@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1229553",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=432638",
-  "https://www.mydaily.co.kr/page/view/2026081817141977498",
-  "http://www.finomy.com/news/articleView.html?idxno=259392",
-  "https://biz.sbs.co.kr/article_hub/20000329087?division=NAVER",
-  "https://news.tf.co.kr/read/economy/2355031.htm",
-  "https://www.joongang.co.kr/article/25454200",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=418294",
-  "https://www.mt.co.kr/world/2026/08/18/2026081816321417178",
   "http://www.fnnews.com/news/202608181704567537",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423148",
   "https://www.etnews.com/20260818000423",
@@ -2999,18 +2990,18 @@
   "https://www.sentv.co.kr/article/view/sentv202608190040",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03148806645548960",
   "https://www.delighti.co.kr/news/articleView.html?idxno=120386",
-  "http://www.dailypop.kr/news/articleView.html?idxno=101677"
+  "http://www.dailypop.kr/news/articleView.html?idxno=101677",
+  "https://www.nocutnews.co.kr/news/6564596",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3668051",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445048",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430712",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156243",
+  "http://www.joseilbo.com/news/news_read.php?uid=574034&class=17",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1397002",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41503",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16167215"
  ],
  "seen_titles": [
-  "기다렸던에이스가드디어…투구수늘려가는삼성후라도,빠르면30일...",
-  "청송군,18일부터나흘간'2026을지연습'진행",
-  "\"AI가인간을대체?…함께해야최고성과\"",
-  "KT,농협·마이크로소프트와AI·클라우드기반유통AX혁신‘맞손’",
-  "2026LCK정규시즌마지막주차돌입…레전드그룹최종순위경쟁'점...",
-  "순위경쟁중부상암초또만났다…LG이재원햄스트링다쳐'3~4주결장...",
-  "키움운용'美S&P500ETF'순자산1000억원돌파",
-  "[글로벌비즈브리핑]메타,청소년유해재판개시…최고'돈줄'위기...",
-  "엔비디아매디슨황반긴LG경영진…로보틱스협업가속화",
   "국민대,차량해킹잡는보안반도체기술개발한다…국책과제참여",
   "반도체벨트집값'고공행진'…경기남부신규분양잇따라",
   "\"반도체로번돈국민과나눈다\"…대만,전국민에'44만원'현금지급",
@@ -6001,7 +5992,16 @@
   "LG유플러스·연세대,AI-RAN전환기술검증…6G대비속도",
   "KT,국산NPU에자체LLM'믿음K2.5프로'탑재제품출시",
   "KT알파쇼핑,가을·연말여행상품집중편성…총1000만원여행지원금...",
-  "[맥락읽기]LG전자·엔비디아가로봇경쟁에서'데이터'에주목한이유"
+  "[맥락읽기]LG전자·엔비디아가로봇경쟁에서'데이터'에주목한이유",
+  "열흘쉬었더니펄펄…KIA에폭염휴가는특효약'승률7할'",
+  "학교밖청소년31명,AI로제주현안해결나선다",
+  "구글AMD와차기AI반도체협력전망,삼성전자와SK하이닉스HBM도수혜...",
+  "[이미선의크립토ON]달라진알트코인투자기준",
+  "LG에너지솔루션,美랜싱공장가동…ESS중심북미생산망확대",
+  "25만전자붕괴·SK하이닉스9%↓…소부장은‘역주행’칩칩폭폭",
+  "대성하이텍,AIDC냉각부품제조장비추가수주",
+  "SKT,전국민AI활용지원나선다...'모두의AI'사업참여",
+  "45명참가어댑티브오픈…SK텔레콤,발달장애골프대회연다"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-08-19T10:10:20.281622+09:00",
    "83BTC CACAO 유출 4887만 보도 마야체인"
+  ],
+  [
+   "2026-08-19T10:14:15.799396+09:00",
+   "~SKT 어댑티브 오픈 참가 연다 골프대회 발달장애 45명"
   ]
  ],
- "last_run": "2026-08-19T10:12:29.789457+09:00",
+ "last_run": "2026-08-19T10:14:34.113580+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
