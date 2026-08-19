@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026073015201823278",
-  "https://zdnet.co.kr/view/?no=20260730152155",
   "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
   "https://www.newsinside.kr/news/articleView.html?idxno=4878485",
   "https://dealsite.co.kr/articles/166261",
@@ -2999,11 +2997,11 @@
   "https://www.mydaily.co.kr/page/view/2026081919453829476",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000004482&cp=nv",
   "https://view.asiae.co.kr/article/2026081919444858308",
-  "https://www.sedaily.com/article/20081078"
+  "https://www.sedaily.com/article/20081078",
+  "https://www.mydaily.co.kr/page/view/2026081919474784951",
+  "https://www.mydaily.co.kr/page/view/2026081919473572173"
  ],
  "seen_titles": [
-  "“AI,해킹명령5317개실행…멕시코정부기관9곳피해”",
-  "삼성SDS,2분기영업익2318억원…클라우드·AI서비스성과확대",
   "'키미K3'의출사표…시장은절반만읽었다[기고]",
   "[컨콜]삼성SDS\"AI인프라800MW장기구축…글로벌기업도고객으로확...",
   "삼성SDS,상반기영업익전년比37.8%감소",
@@ -6001,7 +5999,9 @@
   "[MD포토]대니엘'LG는내가잡는다'",
   "돌고돌아정규시즌1위는젠지",
   "'장애인과비장애인이하나가된다'…SK텔레콤어댑티브오픈",
-  "로이터“삼성전자,파운드리주문가격최대15%인상”"
+  "로이터“삼성전자,파운드리주문가격최대15%인상”",
+  "[MD포토]한승택'박해민,기습번트어림없지'",
+  "[MD포토]대니엘'빠른공승부'"
  ],
  "recent_sigs": [
   [
@@ -6629,7 +6629,7 @@
    "로이터 삼성전자 파운드리 주문가격 인상"
   ]
  ],
- "last_run": "2026-08-19T19:48:32.141802+09:00",
+ "last_run": "2026-08-19T19:50:40.279671+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
