@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jejumaeil.net/news/articleView.html?idxno=403797",
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=597620",
   "https://www.jejudomin.co.kr/news/articleView.html?idxno=321406",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1285007",
   "https://www.datasom.co.kr/news/articleView.html?idxno=209560",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20260819174700007?input=1195m",
   "https://www.seoul.co.kr/news/economy/2026/08/20/20260820500013?wlog_tag3=naver",
   "https://www.mediapen.com/news/view/1117528",
-  "http://www.osen.co.kr/article/G1112860350"
+  "http://www.osen.co.kr/article/G1112860350",
+  "https://www.munhwa.com/article/11610555",
+  "https://www.sedaily.com/article/20080987"
  ],
  "seen_titles": [
-  "제주개발공사사장에김도영전GS건설상무지명",
-  "신임제주개발공사사장에김도영전GS건설상무지명",
   "위성곤지사,제주개발공사사장후보김도영지명",
   "[오늘의일정]8월19일수요일스포츠경기",
   "LG에너지솔루션,미국랜싱배터리공장본격가동",
@@ -6001,7 +5999,9 @@
   "◇내일의경기(21일)",
   "[서울데이터랩]뉴욕증시혼조마감…다우상승·반도체약세에나스닥...",
   "[美증시]국채금리하락·모더나대폭등에3대지수상승…반도체는조...",
-  "'후반기외인1위'이제야'폰와급'면모찾아가나...강습타구도막지..."
+  "'후반기외인1위'이제야'폰와급'면모찾아가나...강습타구도막지...",
+  "[속보]모더나주가177%폭등…뉴욕증시3대지수상승",
+  "美국채금리더오를라…100억달러대출나선엔트로픽[마켓무버]"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,13 @@
   [
    "2026-08-20T06:14:16.293154+09:00",
    "반등 하락 급등세 사흘 국채금리 진정 뉴욕증시"
+  ],
+  [
+   "2026-08-20T06:24:14.504632+09:00",
+   "대출나선 국채금리 달러 오를라 100억"
   ]
  ],
- "last_run": "2026-08-20T06:22:37.784345+09:00",
+ "last_run": "2026-08-20T06:24:33.600388+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
