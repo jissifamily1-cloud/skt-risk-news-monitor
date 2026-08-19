@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1094480",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=850729",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=857652",
-  "https://www.aitimes.com/news/articleView.html?idxno=214084",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2269889",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260818185656kCj",
-  "https://www.hankyung.com/article/2026081878491",
-  "https://www.tokenpost.kr/news/cryptocurrency/392438",
   "http://www.yonhapnewstv.co.kr/news/MYH20260818185733mTK",
   "https://www.knnews.co.kr/news/articleView.php?idxno=1548867",
   "https://www.xportsnews.com/article/2184906",
@@ -2999,17 +2991,17 @@
   "https://kpenews.com/View.aspx?No=4190950",
   "http://www.bizwnews.com/news/articleView.html?idxno=143687",
   "https://www.newsis.com/view/NISX20260819_0003753988",
-  "https://www.sentv.co.kr/article/view/sentv202608190080"
+  "https://www.sentv.co.kr/article/view/sentv202608190080",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=315932",
+  "https://m.sports.naver.com/basketball/article/065/0000300890",
+  "https://www.xportsnews.com/article/2185154",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3668203",
+  "http://www.kdfnews.com/news/articleView.html?idxno=186755",
+  "https://www.theguru.co.kr/news/article.html?no=105982",
+  "https://biz.heraldcorp.com/article/10845161",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260136&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "경량모델'카나나-2'안전성글로벌수준이상",
-  "작년국내21곳해킹애슐리우드,성형외과10만건개인정보또탈취",
-  "달아오르는동탄·분당…'반도체벨트'서분양봇물",
-  "'청년줄고장년증가'…고용비중세대역전",
-  "[통신풍향계]KT'유통AX'협력·KT-서울대병원'의료AX플랫폼구축...",
-  "LGU+,벤츠에라이브tv서비스탑재",
-  "맥주한잔에코딩토큰'무제한'…베이징에들어선'AGI바'",
-  "[통신]KT농협유통AX/KT클라우드AI서밋/LGU+벤츠차량용TV",
   "젠슨황딸찾은'로봇훈련소'…이젠데이터확보전",
   "오디세이·호프덕에…특수상영관신바람",
   "브록먼“기업보안팀,AI에이전트써야”",
@@ -6001,7 +5993,15 @@
   "SKT,전국민AI활용지원나선다..‘모두의AI’사업참가",
   "넷마블,오는9월16일까지뱀파이어콘셉트MMORPG'뱀피르'출시1주년...",
   "KT,'모두의AI'출사표…다음·무신사·업스테이지·리벨리온등과연합",
-  "카카오벤처스,‘템프서울’연다…오픈AI·AWS기술지원"
+  "카카오벤처스,‘템프서울’연다…오픈AI·AWS기술지원",
+  "LG,지속가능미래준비위한'2025ESG보고서발간'",
+  "KBL신인상출신카굴랑안,EASL무대밟는다…MPBL우승팀도가세",
+  "임찬규도감탄한'MLB112승'카라스코클래스…\"어떤타이밍에어디보...",
+  "신하균과만나는'나의특별한형제'…제주서영화음악콘서트",
+  "카카오,LG유플러스·LGAI연구원등14개사와'모두의AI'컨소시엄구...",
+  "CNBC\"엔비디아강점은칩아닌돈…막강한자본력활용\"",
+  "SK하이닉스선택에산업계‘촉각’…노조‘주식성과급’잠정합의안...",
+  "용인반도체송전망따라걸었다...거제의폭우가던진질문"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,21 @@
   [
    "2026-08-19T11:06:17.887609+09:00",
    "기술 지원 카카오벤처스 AWS 연다 템프서울"
+  ],
+  [
+   "2026-08-19T11:08:13.132291+09:00",
+   "주식 산업계 잠정합의안 노조 성과급 촉각 SK하이닉스 선택에"
+  ],
+  [
+   "2026-08-19T11:08:13.132291+09:00",
+   "거제의 따라 걸었다 던진 용인 질문 송전망 폭우가 반도체"
+  ],
+  [
+   "2026-08-19T11:08:13.132291+09:00",
+   "강점은 활용 CNBC 아닌 막강한 자본력"
   ]
  ],
- "last_run": "2026-08-19T11:06:46.796294+09:00",
+ "last_run": "2026-08-19T11:08:39.959101+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
