@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/tech_it/2026/08/18/UJG5SAFVZJEZPC3SOSQ7YYRJDI/",
-  "https://view.asiae.co.kr/article/2026081723564880638",
-  "https://www.hankyung.com/article/202608175622i",
   "https://www.newspim.com/news/view/20260817000276",
   "https://www.hankyung.com/article/202608175540i",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02050006645548304",
@@ -2999,12 +2996,12 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=315416",
   "https://www.nocutnews.co.kr/news/6565102",
   "https://www.xportsnews.com/article/2185457",
-  "http://www.spochoo.com/news/articleView.html?idxno=128971"
+  "http://www.spochoo.com/news/articleView.html?idxno=128971",
+  "https://www.aitimes.com/news/articleView.html?idxno=214122",
+  "https://it.donga.com/109379/",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1534608"
  ],
  "seen_titles": [
-  "뉴욕증시,국채금리·유가동반상승에하락…소매실적관망",
-  "샴페인대신스타링크…AI부호가뒤흔든191억호화요트판",
-  "앤스로픽,2028년예상매출283조원…현재의4배",
   "[뉴욕증시]이란\"외교실패시군사행동\"경고…일제히하락",
   "'유가영향'美증시약세…AI낙관에반도체주는상승",
   "뉴욕증시프리뷰,앤스로픽發AI훈풍속주가선물혼조…기술주강세",
@@ -6001,7 +5998,10 @@
   "피지컬AI시대연다…LG유플러스·연세대,AI-RAN연결성검증",
   "AI가유아교육에가져올변화는?…유아교육컨퍼런스",
   "\"6이닝3실점으로만막아주면땡큐\"KT이강철감독이기대하는새외인...",
-  "\"KBO데뷔설레고기대...타이트한상황도자신있다\"…김진성공백메울..."
+  "\"KBO데뷔설레고기대...타이트한상황도자신있다\"…김진성공백메울...",
+  "구글,FDE업무도AI로자동화...\"데이터정리,사람만으론한계\"",
+  "\"기술연결로새로운시장\"제2회상생포럼,양자·반도체·로봇딥테크...",
+  "미법무부,미정부기관·대학해킹이란인8명기소"
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,17 @@
   [
    "2026-08-19T18:52:16.800055+09:00",
    "시대 검증 연세대 LG유플러스 피지컬 연결성 연다 RAN ~LGU"
+  ],
+  [
+   "2026-08-19T18:58:14.985845+09:00",
+   "시장 로봇 상생포럼 반도체 연결로 제2회 딥테크 새로운 기술 양자"
+  ],
+  [
+   "2026-08-19T18:58:14.985845+09:00",
+   "대학 법무부 기관 기소 이란인 정부 8명"
   ]
  ],
- "last_run": "2026-08-19T18:56:36.779813+09:00",
+ "last_run": "2026-08-19T18:58:42.150727+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
