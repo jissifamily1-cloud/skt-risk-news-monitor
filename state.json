@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260818000924",
-  "https://www.news2day.co.kr/article/20260818500223",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90578",
-  "https://view.asiae.co.kr/article/2026081815564641000",
-  "https://www.ajunews.com/view/20260818151555565",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635884",
-  "https://www.sisaweek.com/news/articleView.html?idxno=237342",
-  "http://www.finomy.com/news/articleView.html?idxno=259388",
-  "https://ic.newdaily.co.kr/site/data/html/2026/08/18/2026081800305.html",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04506726645548632",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168379",
   "https://www.gukjenews.com/news/articleView.html?idxno=3667544",
@@ -2999,18 +2990,18 @@
   "https://www.econovill.com/news/articleView.html?idxno=748337",
   "https://www.yna.co.kr/view/AKR20260818158000007?input=1195m",
   "https://www.tokenpost.kr/news/cryptocurrency/392942",
-  "https://www.tokenpost.kr/news/breaking/392941"
+  "https://www.tokenpost.kr/news/breaking/392941",
+  "https://www.livebiz.today/news/articleView.html?idxno=204231",
+  "https://www.etnews.com/20260819000091",
+  "https://www.news1.kr/it-science/internet-platform/6262749",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=271938",
+  "https://www.hankookilbo.com/news/article/A2026081809250003282?did=NA",
+  "https://www.dailian.co.kr/news/view/1679531/?sc=Naver",
+  "http://ww.ddanzi.com/892137326",
+  "https://zdnet.co.kr/view/?no=20260819095051",
+  "https://www.etnews.com/20260819000092"
  ],
  "seen_titles": [
-  "“独立AI基础模型”角逐变三强Motif第二轮评估出局",
-  "‘페이커’,‘우지’이어세번째헌액자...‘캡스’라스무스뷘터,...",
-  "'실적고공행진'삼양식품,'제2의불닭'키운다···IP·헬스케어까지...",
-  "깊이가다른글로벌투자정보GAM-맛보기편(8/18)",
-  "SGA솔루션즈,상반기영업익21억기록...흑자전환달성",
-  "[업계만화경]업스테이지·LG·SKT,'독파모'3단계경쟁진입",
-  "'모두의AI'사업공모에이통3사·카카오등참여…네이버는불참",
-  "'구광모AI구상'현장이식…LG전자,엔비디아와'몸체갖춘AI'만든다",
-  "LG전자·엔비디아,로보틱스협업가속···연내학습데이터10만시간",
   "韓과학·산업계지원나선오픈AI…AI인프라진화기대감↑",
   "LG전자,엔비디아와로봇'데이터동맹···연내12년치학습데이터확...",
   "인천글로벌시티,창사12주년맞아홈페이지전면개편…31일까지온라...",
@@ -6001,7 +5992,16 @@
   "\"피지컬AI끊김줄인다\"LG유플러스,5G·AI-RAN망전환검증",
   "SK텔레콤,24일용인CC에서발달장애선수골프대회",
   "437메가와트과금,채굴사전력사업전환",
-  "마야프로토콜해킹피해170만달러발생주장"
+  "마야프로토콜해킹피해170만달러발생주장",
+  "카카오컨소시엄,'모두의AI'사업참여",
+  "LG그룹11개상장사'독립이사의장체제'전환…ESG보고서발간",
+  "카카오,LGU+·LGAI연구원등14개사와'모두의AI'출사표",
+  "실탄7.6조,AI투자만5조…삼성SDS,'오픈AI·구글'등에업고AI풀스...",
+  "엔비디아,오픈AI데이터센터에150조원보증...\"핵심인프라\"",
+  "방미통위,‘한국수어통역방송실무지침’발간…방송접근권강화",
+  "[뉴공아카이브]백년위원회:美·中AI전쟁격화…한국등35개국에‘...",
+  "구글,파산항공사데이터까지꿀꺽…AI는왜'남의과거'집착하나",
+  "[기고]AI브랜드경쟁,아직절대강자는없다"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,21 @@
   [
    "2026-08-19T10:05:36.635591+09:00",
    "발생 마야 프로토콜 피해 170만달러 주장"
+  ],
+  [
+   "2026-08-19T10:06:46.193274+09:00",
+   "전쟁 백년위원회 한국 35개국에 격화"
+  ],
+  [
+   "2026-08-19T10:06:46.193274+09:00",
+   "꿀꺽 구글 과거 집착하나 항공사 데이터까지 AI는 파산 남의"
+  ],
+  [
+   "2026-08-19T10:06:46.193274+09:00",
+   "브랜드 없다 절대강자는 아직 경쟁"
   ]
  ],
- "last_run": "2026-08-19T10:06:00.419900+09:00",
+ "last_run": "2026-08-19T10:07:09.587419+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7039,6 +7051,7 @@
   "e2news.com": "이투뉴스",
   "bbc.com": "BBC News 코리아",
   "cfnews.kr": "유교신문",
-  "gameple.co.kr": "게임플"
+  "gameple.co.kr": "게임플",
+  "ww.ddanzi.com": "ww.ddanzi.com"
  }
 }
