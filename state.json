@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260819000262",
-  "https://www.joongangenews.com/news/articleView.html?idxno=540774",
-  "https://news.jtbc.co.kr/article/NB12313989?influxDiv=NAVER",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16167138",
-  "https://www.viva100.com/article/20260819500426",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/19/2026081900068.html",
-  "https://www.g-enews.com/view.php?ud=2026081822363959418fbfc802b3_1",
-  "https://byline.network/?p=9004111222615760",
   "http://www.ikld.kr/news/articleView.html?idxno=339148",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83417",
   "https://www.tokenpost.kr/news/cryptocurrency/392921",
@@ -2999,17 +2991,17 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=636011",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1534264",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444915",
-  "https://www.globale.co.kr/news/articleView.html?idxno=39953"
+  "https://www.globale.co.kr/news/articleView.html?idxno=39953",
+  "http://www.breaknews.com/1229731",
+  "https://sports.khan.co.kr/article/202608200700013?pt=nv",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443955",
+  "https://www.newsis.com/view/NISX20260818_0003753176",
+  "https://www.chosun.com/economy/science/2026/08/20/E2KR4EGXXZC7NFAEMWYIUUUZHU/",
+  "https://www.mk.co.kr/article/12130931",
+  "https://www.naeil.com/news/read/599202",
+  "https://sports.khan.co.kr/article/202608200700003?pt=nv"
  ],
  "seen_titles": [
-  "앤스로픽매출2배뛰는동안오픈AI는18%증가에그쳐",
-  "노소영기여도33.3%맞나?…최태원SK회장재상고에다시열린'9440억...",
-  "이혜리“'그대에게드림',꺼내보고싶은작품되길”종영소감",
-  "\"폭염방학후승률0.714\"KIA,3위LG추격시동",
-  "“부산동구역사를작품으로”…어린이패션메이커스성료",
-  "LG엔솔,美미시간랜싱공장본격가동…'5대생산거점'체계완성",
-  "경기도,바이오기업'투자·기술협력'연결…'G-BIOWeek'개최",
-  "오픈소스로탈VM웨어가상화잡는다,씨플랫폼‘Smar-V’",
   "신성이엔지,'오픈이노베이션'으로미래성장동력넓힌다",
   "[오늘일본은]西일본38도폭염…도호쿠는집중호우주의",
   "210억달러냉각시장,2034년544억달러전망",
@@ -6001,7 +5993,15 @@
   "[뉴욕증시]美재무부시장개입,나흘만에'찔끔'···모더나177%폭등",
   "임형도의경제노트(48회)",
   "[WhoIs?]조좌진하나투어대표집행임원",
-  "〈GTA6〉,넷플릭스독점공개앞두고영상대량유출"
+  "〈GTA6〉,넷플릭스독점공개앞두고영상대량유출",
+  "대기업고액연봉자,올상반기3698억원‘주식보상’..SK·두산독식",
+  "‘그대에게드림’황인엽“이혜리와야구장데이트?드라마같았던하...",
+  "[WhoIs?]최신원SK네트웍스명예회장",
+  "이병헌·이준호·심은경·선재스님·최현욱·이수지·앤더블·키오프…...",
+  "사용자정치성향따라답변달라져…AI는‘정치카멜레온’",
+  "의료기기개발,규제와사례로본개인의료정보리스크[지평테크레이...",
+  "오픈AI,앤스로픽에매출첫추월당해…적자확대",
+  "LG전자·엔비디아,자율주행전장부문협력가속화하는이유[손재철인..."
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-08-20T06:58:17.427524+09:00",
    "AIDC 자라 차세대 쑥쑥 가속도 통신 매년 ~KT 먹거리 사업 매출"
+  ],
+  [
+   "2026-08-20T07:02:16.427315+09:00",
+   "SK네트웍스 최신원 명예회장"
   ]
  ],
- "last_run": "2026-08-20T07:00:53.930038+09:00",
+ "last_run": "2026-08-20T07:02:35.211420+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
