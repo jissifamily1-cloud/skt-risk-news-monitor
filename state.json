@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202608181454538934e207547429_1",
-  "https://www.seoul.co.kr/news/international/USA-amrica/2026/08/19/20260819010007?wlog_tag3=naver",
-  "https://www.mt.co.kr/tech/2026/08/19/2026072910143046751",
-  "https://www.mediapen.com/news/view/1117220",
-  "https://www.g-enews.com/view.php?ud=2026081822402073162bd56fbc3c_1",
-  "https://www.news2day.co.kr/article/20260818500280",
-  "https://www.hankookilbo.com/news/article/A2026080210030001732?did=NA",
   "https://www.wikitree.co.kr/articles/1153242",
   "http://coinreaders.com/253394",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=170027",
@@ -2999,16 +2992,16 @@
   "http://www.fnnews.com/news/202608191817408035",
   "https://www.ppss.kr/news/articleView.html?idxno=306273",
   "https://www.stardailynews.co.kr/news/articleView.html?idxno=546472",
-  "https://www.thegolftimes.co.kr/news/articleView.html?idxno=81792"
+  "https://www.thegolftimes.co.kr/news/articleView.html?idxno=81792",
+  "https://www.welfarenews.net/news/articleView.html?idxno=209874",
+  "https://www.xportsnews.com/article/2185444",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16167705",
+  "http://www.e2news.com/news/articleView.html?idxno=333383",
+  "http://www.newsprime.co.kr/news/article.html?no=744376",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005863",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=37498"
  ],
  "seen_titles": [
-  "美30년물국채금리5.32%폭등…AI랠리제동걸렸다",
-  "[美증시]잘나가던AI인프라주'와르르'…세레브라스·코어위브·코히런...",
-  "[데스크칼럼]되돌아본'단일종목레버리지ETF'정책부실징후",
-  "美저수지‘데드풀’근접…‘물먹는하마’AI빅테크단수공포",
-  "\"2000만원대GPU필요없다\"…가성비AI로산업혁신나선이곳",
-  "[美증시특징주]이란발국채금리발작에반도체추락…하이닉스·마이...",
-  "삼성,'가우스AI'입힌독자로봇개발…구미공장데이터팩토리전환",
   "美3조달러AI약정…빅테크엔‘잠재부담’,반도체엔‘수요’",
   "농지에반도체공장이들어왔다?…호남이대만'자이현'을봐야하는이...",
   "에치드,제인스트리트주도7억달러투자유치…몸값한달만에2배뛴...",
@@ -6001,7 +5994,14 @@
   "LG엔솔,美랜싱공장가동…\"북미ESS5대거점완성\"",
   "[기업해부SK⑦]빚줄인SK,이제어디에돈쓰나…AI·반도체투자'제...",
   "'솔로지옥5'이주영,이정후응원차오라클파크방문…\"KBO와또다른매...",
-  "SK텔레콤,어댑티브오픈2026withSK하이닉스개최"
+  "SK텔레콤,어댑티브오픈2026withSK하이닉스개최",
+  "\"장애인생산품이라서가아니라,좋은상품이라서\"…LGU+상생나눔마켓...",
+  "\"보경이가살아나야지\"5일만에선발복귀한LG문보경,염갈량은간절...",
+  "홀드공동1위김진성이탈…LG불펜재편불가피",
+  "LG엔솔,미시간랜싱공장가동…ESS·전기차배터리年35GWh생산",
+  "日IT기업보안전문가\"KT해킹,신뢰받는장비가공격경로로변한사례...",
+  "[취재후일담]\"가만히앉아서벌잖아\"…반도체직원들의금융권'초과이...",
+  "반도체·방산주에공매도집중...KT는거래대금41%가공매도"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,21 @@
   [
    "2026-08-19T18:20:33.596237+09:00",
    "반도체 이제 SK 어디에 투자 쓰나 줄인"
+  ],
+  [
+   "2026-08-19T18:25:55.996680+09:00",
+   "앉아서 금융권 벌잖아 직원들의 초과이 가만히 반도체"
+  ],
+  [
+   "2026-08-19T18:25:55.996680+09:00",
+   "방산주에 ~KT 거래대금 공매도 집중 KT는 반도체"
+  ],
+  [
+   "2026-08-19T18:25:55.996680+09:00",
+   "IT기업 신뢰받는 보안 공격경로로 사례 ~KT 장비가 변한 전문가"
   ]
  ],
- "last_run": "2026-08-19T18:22:34.233745+09:00",
+ "last_run": "2026-08-19T18:26:25.117591+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
