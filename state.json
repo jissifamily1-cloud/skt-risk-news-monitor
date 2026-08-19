@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260819010005927",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=270853",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257427",
-  "https://www.aitimes.com/news/articleView.html?idxno=214055",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210279",
-  "https://www.hankyung.com/article/2026081878701",
-  "https://www.ekn.kr/web/view.php?key=20260818026403813",
-  "https://zdnet.co.kr/view/?no=20260818174532",
-  "https://www.inven.co.kr/webzine/news/?news=319642",
-  "https://www.munhwa.com/article/11610217",
   "https://www.mydaily.co.kr/page/view/2026081818242348538",
   "https://www.xportsnews.com/article/2184888",
   "https://www.bloter.net/news/articleView.html?idxno=671205",
@@ -2999,19 +2989,19 @@
   "https://www.cstimes.com/news/articleView.html?idxno=717237",
   "https://www.e-science.co.kr/news/articleView.html?idxno=133750",
   "https://www.seoulfn.com/news/articleView.html?idxno=635947",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03270166645548960"
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03270166645548960",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=857752",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430729",
+  "https://www.kyeongin.com/article/1769243",
+  "https://www.pennmike.com/news/articleView.html?idxno=125934",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=87193",
+  "https://www.medigatenews.com/news/1549274581",
+  "http://www.thebigdata.co.kr/view.php?ud=2026081910445859800a47484cf8_23",
+  "https://www.g-enews.com/view.php?ud=202608190826183423fda4f5ab74_1",
+  "https://www.dt.co.kr/article/12078908",
+  "https://www.sedaily.com/article/20080771"
  ],
  "seen_titles": [
-  "[단독]르베크CEO\"SMR은기존원전대체재아냐…AI시대새로운전력원...",
-  "\"최고모델따라잡으려면이대론부족\"'독파모'지원규모·방식등새로...",
-  "월가베테랑\"애플(AAPL),엔비디아(NVDA)손잡으면주가30%폭등\"",
-  "가전서쌓은기술력로봇으로확장…엔비디아동맹으로가속",
-  "\"접속만해도아이템증정\"…넷마블'뱀피르',출시1주년이벤트진행",
-  "[이준희만평]트럼프의\"환승연애\"",
-  "미니맥스,5분음악생성오픈웨이트모델'뮤직3'공개…\"즉시서비스...",
-  "카카오SLM'가나나-2'시리즈,구글·알리바바모델보다안전",
-  "피델리티의굴욕…韓서반년만에자금7000억증발",
-  "[유통가NOW]삼양그룹AX전환주문·KT&G청춘비상2팀선정…골든블루...",
   "'모두의AI'공모마감…네이버·코난불참속통신3사·AI기업총출동",
   "'캡스'라스무스뷘터,서양선수최초LoL'홀오브레전드'헌액",
   "[대구현장]“소형준때도이런느낌”…4연속QS김민준,이번엔‘주...",
@@ -6001,7 +5991,17 @@
   "KT,업스테이지·리벨리온등과'모두의AI'컨소시엄구성",
   "국산AI기술을국민일상으로…KT,'모두의AI'생태계구축나선다",
   "오픈AI,잇단안전사고소송에'청소년용챗GPT'출시",
-  "AI대장은앤스로픽…오픈AI매출첫역전"
+  "AI대장은앤스로픽…오픈AI매출첫역전",
+  "슈퍼브에이아이,AI파운데이션3차진출",
+  "[인터뷰]고려아연감사위원후보박유경\"독립이사는진영이없다\"",
+  "[굿모닝위즈·104]145m괴력포…유일한위안",
+  "미시간랜싱공장가동...LG에너지솔루션,북미ESS'5대생산거점'완성",
+  "LG에너지솔루션,미시간랜싱공장가동-북미ESS5대생산거점구축",
+  "서울아산병원,AI혁신드라이브…“병원역할은'좋은시험문제'만드...",
+  "LG유플러스,연세대와AI-RAN맞손...끊김없는네트워크구현",
+  "오픈AI안전기준강화…차세대아스트라AI모델훈련일시중단",
+  "유락,엔비디아‘엔업’선정",
+  "챗GPT성장둔화에…오픈AI손실17조원으로확대"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,13 @@
   [
    "2026-08-19T10:54:18.793258+09:00",
    "역전 매출 대장은"
+  ],
+  [
+   "2026-08-19T10:56:13.669025+09:00",
+   "원으로 17조 성장 챗GPT 확대 손실 둔화에"
   ]
  ],
- "last_run": "2026-08-19T10:54:40.020705+09:00",
+ "last_run": "2026-08-19T10:56:38.111785+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
