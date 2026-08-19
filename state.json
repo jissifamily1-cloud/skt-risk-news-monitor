@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260818_0003752959",
-  "https://www.etoday.co.kr/news/view/2615616",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309143",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005896",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41490",
-  "https://www.viva100.com/article/20260818501217",
-  "https://www.lawtv.kr/news/articleView.html?idxno=60699",
-  "https://zdnet.co.kr/view/?no=20260818170321",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1002481",
   "https://www.polinews.co.kr/news/articleView.html?idxno=740538",
   "http://www.4th.kr/news/articleView.html?idxno=2116522",
@@ -2999,17 +2991,17 @@
   "http://www.00news.co.kr/news/articleView.html?idxno=105958",
   "https://www.newspim.com/news/view/20260818000924",
   "https://www.koit.co.kr/news/articleView.html?idxno=208544",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460532"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2460532",
+  "https://www.sentv.co.kr/article/view/sentv202608190048",
+  "https://www.peoplewatch.co.kr/article/view/ppw202608190004",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2052634",
+  "https://www.newspim.com/news/view/20260819000288",
+  "https://www.sisaweek.com/news/articleView.html?idxno=237342",
+  "http://www.srtimes.kr/news/articleView.html?idxno=210338",
+  "https://www.segye.com/newsView/20260819507607?OutUrl=naver",
+  "https://www.tokenpost.kr/news/breaking/392966"
  ],
  "seen_titles": [
-  "30억회큐웬,오픈웨이트AI다운로드1위",
-  "[데일리픽]XRP,즉시비트코인으로바꾼다?…앤트로픽연환산매출92조...",
-  "네이버,'모두의AI'불참…AI팩토리등기존사업에역량집중",
-  "LG이재원,왼쪽햄스트링미세손상으로1군제외…\"재활에3~4주\"",
-  "LG이재원다시재정비⋯퓨처스서맹타친손용준이1군으로",
-  "카카오,오픈소스경량언어모델안전성평가서글로벌모델앞서",
-  "새만금개발공사“새만금2차분양임박…현대차투자에완판기대”",
-  "어드밴텍,GPU기반DAQ시스템으로고속데이터수집부터실시간AI처리...",
   "오텍캐리어,48MW급하이퍼스케일데이터센터냉각솔루션공급",
   "[LAW투데이]\"창피합니다최태원회장님\"",
   "음영지역메우던스타링크,지상통신사경쟁자로떠오를까",
@@ -6001,7 +5993,15 @@
   "[김현철의美증시]뉴욕증시덮친'삼중고'...나스닥1.3%급락",
   "깊이가다른글로벌투자정보GAM-맛보기편(8/18)",
   "KT,협력사6곳과북미시장공략…ISEEXPO첫참가",
-  "KT,국산NPU·LLM결합한기업용AI출시···공공·금융·국방시장공..."
+  "KT,국산NPU·LLM결합한기업용AI출시···공공·금융·국방시장공...",
+  "카카오,LG와손잡고‘모두의AI’도전…“톡·AI역량결집”",
+  "나무타는코끼리,뒷마당의표범…그영상,자연에는없었다",
+  "제24회모의공정위,참신한시각과논리로공정거래이슈풀어내",
+  "한양대법전원,제24회모의공정위경연대회대상",
+  "韓과학·산업계지원나선오픈AI…AI인프라진화기대감↑",
+  "KT,국산NPU·LLM결합'NPULLMStation'출시",
+  "오픈AI“개발속도잠시늦춘다”…안전장치강화추진",
+  "마야체인해킹보도,20.83BTC·4887만CACAO유출"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-08-19T10:06:46.193274+09:00",
    "브랜드 없다 절대강자는 아직 경쟁"
+  ],
+  [
+   "2026-08-19T10:10:20.281622+09:00",
+   "83BTC CACAO 유출 4887만 보도 마야체인"
   ]
  ],
- "last_run": "2026-08-19T10:08:30.666354+09:00",
+ "last_run": "2026-08-19T10:10:43.877489+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
