@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8061106",
-  "https://www.news1.kr/photos/8061104",
-  "https://www.news1.kr/photos/8061109",
-  "https://www.news1.kr/photos/8061108",
-  "https://www.news1.kr/photos/8061107",
-  "https://www.news1.kr/photos/8061102",
-  "https://idsn.co.kr/news/view/1065577341053195",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458971",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04149206645546992",
   "https://www.newsis.com/view/NISX20260812_0003746806",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3668239",
   "https://www.mk.co.kr/article/12130962",
   "https://www.newspim.com/news/view/20260819000502",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2270323"
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2270323",
+  "http://www.inews24.com/view/1996007",
+  "https://www.donga.com/news/Economy/article/all/20260819/134492871/1",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=704622",
+  "https://www.thelec.kr/news/articleView.html?idxno=61095",
+  "https://www.hani.co.kr/arti/economy/it/1273538.html",
+  "https://www.hankyung.com/article/202608198983i",
+  "https://www.newsis.com/view/NISX20260819_0003753931"
  ],
  "seen_titles": [
-  "[포토]오스틴,포효!",
-  "[ST포토]규빈,승리하세요",
-  "[ST포토]규빈,설렘가득한시구",
-  "소형준'내가KT의선발투수'",
-  "역투하는소형준",
-  "선발투수로등판한소형준",
-  "시구하는가수규빈",
   "KT선발투수'소형준'",
   "가수규빈'승리의요정'",
   "과기정통부,청년AI스타트업지원확대…내년상반기경진대회추진",
@@ -6001,7 +5994,14 @@
   "함안군,18~21일을지연습돌입…차석호군수\"실전적준비강조\"",
   "“요며칠조금오르나싶더니또”…삼전닉스,6~8%대동반급락",
   "[AI회사채쇼크]민간저축쓸어담는빅테크...자금쟁탈전",
-  "[통신]KT소버린AI서버/KT협력사북미진출/LGU+AI-RAN검증"
+  "[통신]KT소버린AI서버/KT협력사북미진출/LGU+AI-RAN검증",
+  "노태문12만주·곽노정1.4만주…'삼전닉스'임원자사주추적사이트등...",
+  "AI반도체전쟁,학습에서추론으로…‘메모리벽’깨는d-매트릭스[최...",
+  "신성이엔지,스타트업손잡고AI데이터센터·ESS등키운다",
+  "LG엔솔,美랜싱공장가동…북미ESS5대거점구축",
+  "오픈AI‘청소년용챗GPT’출시…학습·안전기능강화",
+  "'AI희망'이악재로…'반년새7배'앤스로픽매출실망론",
+  "AI에이전트잇단무단해킹에…오픈AI\"테스트절차전면개편\""
  ],
  "recent_sigs": [
   [
@@ -6711,9 +6711,17 @@
   [
    "2026-08-19T11:26:13.340304+09:00",
    "DLSS 적용 최신 모탈 게임 루미너리 3종에 기술"
+  ],
+  [
+   "2026-08-19T11:30:27.931657+09:00",
+   "반년새 희망 실망론 매출 악재로 7배"
+  ],
+  [
+   "2026-08-19T11:30:27.931657+09:00",
+   "해킹에 잇단 테스트 무단 전면 에이전트 개편 절차"
   ]
  ],
- "last_run": "2026-08-19T11:28:30.166409+09:00",
+ "last_run": "2026-08-19T11:30:53.842073+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
