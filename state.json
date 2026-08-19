@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112859527",
-  "http://www.osen.co.kr/article/G1112859517",
-  "http://www.osen.co.kr/article/G1112859521",
-  "http://www.osen.co.kr/article/G1112859519",
-  "http://www.osen.co.kr/article/G1112859518",
-  "http://www.osen.co.kr/article/G1112859520",
   "http://www.osen.co.kr/article/G1112859516",
   "http://www.osen.co.kr/article/G1112859522",
   "https://www.news1.kr/photos/8061235",
@@ -2999,15 +2993,15 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008703470&plink=ORI&cooper=NAVER",
   "https://www.ajunews.com/view/20260819100409976",
   "https://www.koreatimes.co.kr/path/A2026081912340004051",
-  "https://news.tf.co.kr/read/national/2355533.htm"
+  "https://news.tf.co.kr/read/national/2355533.htm",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445045",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208113",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445079",
+  "https://www.newsway.co.kr/news/view?ud=2026081913543875058",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168411",
+  "https://www.newsis.com/view/NISX20260819_0003754164"
  ],
  "seen_titles": [
-  "'홈런선두'KIA김도영,시즌36호포폭발…개인최다기록도가시권",
-  "'모두의AI'사업자공모에SKT·KT·카카오등출사표",
-  "모두의AI프로젝트,SKT·KT·카카오등6개컨소시엄경쟁",
-  "[사진]8회는김진수",
-  "[사진]박해민,빠르게",
-  "[사진]문정빈,만루홈런이어적시타",
   "[사진]박해민,3시즌연속30도루성공",
   "[사진]3루훔치는박해민,3시즌연속30도루성공",
   "[사진]4번타자문정빈",
@@ -6001,7 +5995,13 @@
   "AI가스스로탈출하고,공격하는'통제불능'시대왔다[스프]",
   "전국민무료AI에도전장…SKT·KT·카카오,컨소시엄전략'각양각색'",
   "KTputsKoreanAIchips,languagemodelintooneenterpriseserver",
-  "[단독]\"거부하면일감끊겨\"…KT넷코어,지시한'계약밖유지보수'서..."
+  "[단독]\"거부하면일감끊겨\"…KT넷코어,지시한'계약밖유지보수'서...",
+  "[김재섭의뒤집어보기]개인정보유출과징금산정결과발표때마다'고...",
+  "스노우플레이크,코텍스AI게이트웨이에다이나믹모델라우팅기능도...",
+  "SK텔레콤풀스택AI로'모두의AI'승부,챗봇넘어생활밀착에이전트...",
+  "최태원회장이잃은것…9440억보다무거운'SK총수의서사'[신지훈의...",
+  "챗GPT성장둔화오픈AI…앤트로픽에매출추월당해",
+  "AI추격급한中,엔비디아H200빗장일부풀었다"
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,13 @@
   [
    "2026-08-19T14:20:22.747613+09:00",
    "유지보수 KT넷코어 계약 거부하면 지시한 끊겨 ~KT 일감"
+  ],
+  [
+   "2026-08-19T14:22:17.355394+09:00",
+   "서사 9440억보다 총수의 잃은 SK 회장이 신지훈의 무거운"
   ]
  ],
- "last_run": "2026-08-19T14:20:42.680739+09:00",
+ "last_run": "2026-08-19T14:22:35.882329+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
