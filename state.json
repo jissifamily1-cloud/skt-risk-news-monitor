@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608181527194807",
-  "https://www.hankookilbo.com/news/article/A2026081815360003809?did=NA",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3667493",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3667491",
-  "https://www.wikitree.co.kr/articles/1153168",
-  "https://www.gokorea.kr/news/articleView.html?idxno=875450",
-  "http://www.fnnews.com/news/202608181624117328",
-  "https://www.gokorea.kr/news/articleView.html?idxno=875453",
-  "https://www.gokorea.kr/news/articleView.html?idxno=875454",
-  "https://zdnet.co.kr/view/?no=20260818155603",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3667469",
   "https://www.gukjenews.com/news/articleView.html?idxno=3667445",
   "https://www.gukjenews.com/news/articleView.html?idxno=3667501",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005903145",
@@ -2999,20 +2988,20 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190455&t=NN",
   "https://www.news1.kr/photos/8061580",
   "https://www.sentv.co.kr/article/view/sentv202608190038",
-  "https://zdnet.co.kr/view/?no=20260819094423"
+  "https://zdnet.co.kr/view/?no=20260819094423",
+  "https://www.bntnews.co.kr/article/view/bnt202608190139",
+  "https://www.sportsseoul.com/news/read/1629389",
+  "https://zdnet.co.kr/view/?no=20260819094041",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316575",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275024",
+  "https://www.yna.co.kr/view/AKR20260819047100017?input=1195m",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=47122",
+  "https://thetracker.co.kr/View.aspx?No=4190817",
+  "https://www.ddaily.co.kr/page/view/2026081909441710382",
+  "https://www.seoultimes.news/news/article.html?no=2000098917",
+  "https://www.yna.co.kr/view/AKR20260819048400009?input=1195m"
  ],
  "seen_titles": [
-  "싱거워진5강싸움,김서현·정우주판흔들까",
-  "티베로,AI로DBMS보안검증…사이버위협선제대응",
-  "현대차,미래사업조직촘촘히…'자율주행·SDV·로봇'임원보강",
-  "전국민'모두의AI'윤곽드러났다...SK텔레콤,KT,카카오등참여",
-  "LG전자휴머노이드'클로이드'만난젠슨황딸\"어메이징\"",
-  "대구광역시,고해상도항공사진온라인서비스...통합플랫폼으로제공",
-  "김제시의회,정례간담회개최…총18건안건논의",
-  "SK하이닉스직원들평균급여역대급…심지어‘상반기’에만'이액수...",
-  "독파모프로젝트3파전…LG·SK텔레콤·업스테이지의AI경쟁본격화",
-  "美SMR급락에공매도3조원'잭팟'...AI전력株거품꺼지나",
-  "LG전자-엔비디아,로봇혁신가속…'양재데이터팩토리'에서미래전략...",
   "정부,AI벤치마크평가'과적합우려'해결…신뢰성확보",
   "영화'오디세이'흥행에원작도인기…밀리의서재서재담기4.7배↑",
   "내사랑내고향세종...세종시출향인임기수씨고향사랑기부300만...",
@@ -6001,7 +5990,18 @@
   "KT,국산AI반도체·LLM통합…기업용소버린AI공략",
   "KT,'국산반도체·AI모델한서버에통합'",
   "오픈AI,청소년맞춤형챗GPT출시…학습지원·안전장치강화",
-  "[기경학회AX칼럼]이제공장을움직이는지식을팔차례"
+  "[기경학회AX칼럼]이제공장을움직이는지식을팔차례",
+  "스크린넘어독서로번진‘오디세이’열풍",
+  "다시나기시작하는‘2025년향기’,‘꿈틀’거리는신민재→최상위권...",
+  "\"OTT,2031년863조원규모전망...연평균8%대성장\"",
+  "북미ESS5대거점완성…LG에너지솔루션,랜싱공장본격가동",
+  "LG엔솔,美미시간랜싱공장본격가동…북미ESS5대거점완성",
+  "넥써쓰,자체개발AI툴11종한자리에…'AI랩스'오픈",
+  "카카오,LG유플러스·LGAI연구원등과컨소시엄으로'모두의AI'사업참...",
+  "KT,협력사와함께ISEEXPO참가…협력사북미진출지원",
+  "오픈AI,청소년용챗GPT출시…학습·안전기능강화",
+  "LG유플러스·연세대,AI-RAN·5G망전환해도연결유지확인",
+  "'미정부기관·대학등해킹'…미법무부,이란인8명기소"
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,13 @@
   [
    "2026-08-19T09:48:15.849466+09:00",
    "차례 공장을 이제 지식을 움직이는"
+  ],
+  [
+   "2026-08-19T09:50:21.855784+09:00",
+   "LG유플러스 RAN 연세대 5G망 ~LGU 유지 연결 전환해도 확인"
   ]
  ],
- "last_run": "2026-08-19T09:48:37.504312+09:00",
+ "last_run": "2026-08-19T09:50:39.791178+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
