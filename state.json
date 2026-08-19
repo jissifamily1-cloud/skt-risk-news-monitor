@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=213181",
-  "https://www.g-enews.com/view.php?ud=202607230942538027906806b77b_1",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131201",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=213312",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=251597",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=686974",
   "https://www.aitimes.com/news/articleView.html?idxno=213173",
@@ -2999,13 +2995,13 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=541192",
   "https://www.yna.co.kr/view/AKR20260819161000007?input=1195m",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260073&CMPT_CD=P0010",
-  "https://www.sedaily.com/article/20081031"
+  "https://www.sedaily.com/article/20081031",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=662721",
+  "https://www.sedaily.com/article/20081040",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405702",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=271067"
  ],
  "seen_titles": [
-  "[AI핫이슈]K-AI칩시험대...글로벌AI스타트업韓진출활발",
-  "머스크\"첨단AI,배포전경쟁사가2주간'동료평가'해야\"",
-  "오픈AI,에이전트외부해킹일주일간몰라...\"탈출지침까지남겨\"",
-  "[김대호진단]반도체열전(20)딥시크(DeepSeek)...공짜AI\"놀라운시...",
   "엔비디아,AI서밋서한국AI전략조명…글로벌빅테크\"한국역할중요...",
   "\"글로벌테크리더한자리에···풀스택AI미래비전공유\"",
   "靑\"한미빅테크와9500억달러반도체동맹\"…삼성·SK·현대차·네이버...",
@@ -6001,7 +5997,11 @@
   "MLB맨시니,대장암극복후8시즌빅리그마감하고은퇴",
   "LG김진성,어깨미세손상으로엔트리말소",
   "\"'회기가회기로불리게된이유',이영상만든사람이접니다\"",
-  "낸드연결해D램사용량16분의1로…SK하이닉스,AI칩패러다임바꾼다"
+  "낸드연결해D램사용량16분의1로…SK하이닉스,AI칩패러다임바꾼다",
+  "LG엔솔,美랜싱공장가동…북미'ESS·EV'영토확장본격화",
+  "‘비전AI’입은로봇…7.5억장데이터로스스로위험판단해보고",
+  "카카오,AIDC대신선택한B2C…노사갈등속AI승부수통할까",
+  "\"바이어발굴부터후속교신까지지원\"…KT,'ISEEXPO'참가"
  ],
  "recent_sigs": [
   [
@@ -6613,7 +6613,7 @@
    "한국군 평범해지는 천재도 만들고 기술부대 10만 육성 과학병"
   ]
  ],
- "last_run": "2026-08-19T18:08:35.315282+09:00",
+ "last_run": "2026-08-19T18:10:38.358016+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
