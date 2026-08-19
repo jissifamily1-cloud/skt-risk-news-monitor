@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112859477",
-  "http://www.osen.co.kr/article/G1112859475",
-  "http://www.osen.co.kr/article/G1112859476",
-  "http://www.osen.co.kr/article/G1112859474",
-  "http://www.osen.co.kr/article/G1112859473",
   "https://www.news1.kr/photos/8061171",
   "https://www.newsis.com/view/NISX20260818_0003753307",
   "https://www.news1.kr/photos/8061173",
@@ -2999,14 +2994,14 @@
   "http://www.the-biz.co.kr/news/articleView.html?idxno=726426",
   "http://www.segyebiz.com/newsView/20260819513997?OutUrl=naver",
   "https://www.mk.co.kr/article/12131057",
-  "https://www.m-i.kr/news/articleView.html?idxno=1403642"
+  "https://www.m-i.kr/news/articleView.html?idxno=1403642",
+  "https://www.news1.kr/society/court-prosecution/6263089",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3668342",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=270991",
+  "https://www.cnbizm.com/news/articleView.html?idxno=311996",
+  "https://www.koreatimes.co.kr/path/A2026081910390004652"
  ],
  "seen_titles": [
-  "문정빈'만루홈런'",
-  "[AIMY뉴스]18일중국증시'4000선재돌파목전,AI·반도체·로봇상승...",
-  "LG'훈련장'찾은엔비디아…'피지컬AI'로손잡았다",
-  "[사진]문정빈,화끈한만루홈런",
-  "[사진]문정빈,바로이거야",
   "[사진]포효하는문정빈,만루홈런",
   "[사진]4번타자문정빈,위풍당당'만루홈런'",
   "[사진]소형준,문정빈에만루홈런허용",
@@ -6001,13 +5996,14 @@
   "AI데이터센터키우는LG유플러스,투자효율까지잡는다",
   "카카오,LGAI연구원등과손잡고‘모두의AI’정부사업참여",
   "LG유플러스,연세대와6G핵심AI-랜네트워크전환기술검증",
-  "KT,국산NPU·LLM담은'소버린AI서버'선봬"
+  "KT,국산NPU·LLM담은'소버린AI서버'선봬",
+  "이태한특검\"특검보,포렌식역량최우선고려\"…합수본예방(종합)",
+  "대전대덕구의회원구성또'평행선'…국민의힘\"야당의장\"vs민주당...",
+  "KT,업스테이지·리벨리온등과맞손…정부'모두의AI'공모참여",
+  "운전자들의통행불편개선...구로구,상습정체남부순환로KT구로전화...",
+  "OpenAIlaunchesteenversionofChatGPTwithbuilt-insafetyfeatures"
  ],
  "recent_sigs": [
-  [
-   "2026-08-19T07:50:21.369972+09:00",
-   "세계 322곳 해킹조직원 17명 대학 이란 공격 기소"
-  ],
   [
    "2026-08-19T08:00:33.178216+09:00",
    "만든 할인 리스크 금융"
@@ -6611,9 +6607,17 @@
   [
    "2026-08-19T13:46:15.035443+09:00",
    "데이터센터 ~LGU 키우는 효율까지 투자 잡는다 LG유플러스"
+  ],
+  [
+   "2026-08-19T13:50:24.384538+09:00",
+   "구로구 KT구로전화 통행 남부순환로 개선 ~KT 상습정체 운전자들의 불편"
+  ],
+  [
+   "2026-08-19T13:50:24.384538+09:00",
+   "launches with ChatGPT of safety built version features in teen"
   ]
  ],
- "last_run": "2026-08-19T13:48:35.614591+09:00",
+ "last_run": "2026-08-19T13:50:44.040297+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
