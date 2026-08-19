@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2615420",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4430635",
-  "https://www.news1.kr/world/international-economy/6262463",
-  "https://view.asiae.co.kr/article/2026081905520176531",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=5797",
-  "https://www.news1.kr/world/international-economy/6262462",
   "https://www.kbmaeil.com/article/20260819500003",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=01954886645548960",
   "https://www.news1.kr/world/international-economy/6262460",
@@ -2999,15 +2993,15 @@
   "http://www.fnnews.com/news/202608191809522153",
   "https://www.sedaily.com/article/20081041",
   "https://www.insidevina.com/news/articleView.html?idxno=43854",
-  "https://www.bloter.net/news/articleView.html?idxno=671245"
+  "https://www.bloter.net/news/articleView.html?idxno=671245",
+  "http://www.fnnews.com/news/202608191812353324",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712305&plink=ORI&cooper=NAVER",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3668752",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3668828",
+  "https://zdnet.co.kr/view/?no=20260819181447",
+  "http://www.fnnews.com/news/202608191812532122"
  ],
  "seen_titles": [
-  "오픈AI,이대통령이어삼성·SK회동…\"한국AI협력확대\"",
-  "李대통령\"우리는식구다\"…젠슨황\"위아패밀리\"화답",
-  "韓거래소5곳합쳐도바이낸스10분의1…벌어지는글로벌격차",
-  "[뉴욕증시]글로벌금리상승에'도망쳐'…필리지수5%↓",
-  "美반도체반등하루만에급제동…\"단기약세론다시주도권\"",
-  "[뉴욕증시]美30년물국채금리상승에일제히하락마감",
   "[뉴욕증시마감시황]뉴욕증시,장기금리급등에급락…'반도체쇼크'한...",
   "미국반도체지수5%급락…장기금리상승에SK하닉ADR9%↓",
   "미국채30년물19년만에최고…나스닥1.33%급락",
@@ -6001,7 +5995,13 @@
   "'청소년모드'챗GPT나왔다…학습시간설정가능",
   "CCTV영상을로봇교과서로…학습모델넓히는피지컬AI",
   "[뉴스로보는베트남어]베트남,2030년까지고수준인공지능인력1만...",
-  "SKT,앤트로픽에1400억추가배팅…AIDC부터보안까지협력"
+  "SKT,앤트로픽에1400억추가배팅…AIDC부터보안까지협력",
+  "K-AI로여는새로운경제…AX·인재·보안전략에답있다[미리보는AI월...",
+  "[스브스뉴스]야구는취소돼도먹방은계속된다.수원로컬푸드에진심...",
+  "제주시,J마트강제금\"한번\"이라더니…엇갈린답변·뒤늦은처분",
+  "제주청소년10명,희망의선율로환아치료비200만원기부",
+  "\"PQC와제로트러스트결합\"…SGA솔루션즈·키페어'맞손'",
+  "中,엔비디아AI칩에빗장풀었다"
  ],
  "recent_sigs": [
   [
@@ -6611,9 +6611,13 @@
   [
    "2026-08-19T18:14:15.935096+09:00",
    "배팅 AIDC부터 ~SKT 앤트로픽에 1400억 추가 보안까지 협력"
+  ],
+  [
+   "2026-08-19T18:16:36.625180+09:00",
+   "AI칩에 빗장 풀었다"
   ]
  ],
- "last_run": "2026-08-19T18:14:33.629930+09:00",
+ "last_run": "2026-08-19T18:16:57.034255+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
