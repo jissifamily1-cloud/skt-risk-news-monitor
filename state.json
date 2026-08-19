@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25454237",
-  "https://www.news1.kr/photos/8061266",
-  "https://www.news1.kr/photos/8061277",
-  "https://www.news1.kr/photos/8061276",
-  "https://www.news1.kr/photos/8061279",
-  "https://www.news1.kr/photos/8061265",
   "https://www.news1.kr/photos/8061267",
   "https://www.mt.co.kr/tech/2026/08/19/2026081819553363758",
   "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064872",
@@ -2999,15 +2993,15 @@
   "https://kr.aving.net/news/articleView.html?idxno=1813366",
   "https://gamefocus.co.kr/detail.php?number=178352",
   "https://www.greened.kr/news/articleView.html?idxno=347990",
-  "https://www.news1.kr/local/moi/6263211"
+  "https://www.news1.kr/local/moi/6263211",
+  "https://www.thelec.kr/news/articleView.html?idxno=61115",
+  "https://it.donga.com/109378/",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052782",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=131707",
+  "http://www.fnnews.com/news/202608191448452715",
+  "https://zdnet.co.kr/view/?no=20260819143618"
  ],
  "seen_titles": [
-  "뉴욕증시프리뷰,美·이란긴장에유가91달러돌파…나스닥선물1.3%↓...",
-  "셀렉트스타,SKT'국가대표AI'데이터품질·검수책임",
-  "잠실에뜬‘수퍼문’문정빈만루포앞세운LG,선두KT에승리",
-  "KT상대로9대1완승거둔LG",
-  "'9대1로완패한KT'",
-  "LG에게완패한KT",
   "LG'KT상대로9대1완승'",
   "KT에9대1로승리한'LG트윈스'",
   "KT,LG상대로완패",
@@ -6001,7 +5995,13 @@
   "카카오,경량언어모델Kanana-2시리즈안전성평가결과공개...글로벌...",
   "'GTA6'영상및일부콘텐츠유출의혹...유출자게이머권익외쳤지만...",
   "넷플릭스통해공개앞둔'GTA6'…해킹그룹에의해정보유출",
-  "관악구,KT구로전화국교차로좌회전신호신설"
+  "관악구,KT구로전화국교차로좌회전신호신설",
+  "카카오,'모두의AI'위해LGAI연구원등14개기업과컨소시엄",
+  "[주간스타트업동향]디노티시아,코오롱베니트'AI얼라이언스'합류外",
+  "'모두의AI'KT,업스테이지·다음·NC손잡고출전…AI서비스기반마련",
+  "오픈AI,'청소년을위한챗GPT'공식출시…학습·안전기능기본적용",
+  "中엔비디아H200빗장일부풀었다…바이트댄스·텐센트1만개씩확보",
+  "오픈AI,GPT안전장치강화…\"더강한모델일수록더엄격하게\""
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,13 @@
   [
    "2026-08-19T14:52:14.537709+09:00",
    "신설 신호 교차로 좌회전 관악구 ~KT KT구로전화국"
+  ],
+  [
+   "2026-08-19T14:54:14.243664+09:00",
+   "강화 GPT 모델일수록 엄격하게 강한 안전장치"
   ]
  ],
- "last_run": "2026-08-19T14:52:32.439040+09:00",
+ "last_run": "2026-08-19T14:54:37.931900+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
