@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.stoo.com/article.php?aid=108384766295",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693851",
-  "https://www.ytn.co.kr/_ln/0104_202608180820380227",
-  "https://zdnet.co.kr/view/?no=20260818202735",
-  "http://www.stoo.com/article.php?aid=108385098318",
-  "http://www.osen.co.kr/article/G1112859459",
-  "http://www.osen.co.kr/article/G1112859455",
-  "http://www.osen.co.kr/article/G1112859458",
   "http://www.stoo.com/article.php?aid=108385113937",
   "http://www.osen.co.kr/article/G1112859457",
   "http://www.osen.co.kr/article/G1112859456",
@@ -2999,17 +2991,17 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3668331",
   "https://www.mk.co.kr/article/12131029",
   "https://www.sedaily.com/article/20080829",
-  "https://www.sedaily.com/article/20080830"
+  "https://www.sedaily.com/article/20080830",
+  "https://www.ziksir.com/news/articleView.html?idxno=143586",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241070",
+  "https://www.sedaily.com/article/20080833",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311300",
+  "https://www.sedaily.com/article/20080836",
+  "https://www.sedaily.com/article/20080834",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316592",
+  "https://www.sedaily.com/article/20080831"
  ],
  "seen_titles": [
-  "“국민1인당44만원지급”…라이칭더가주는보너스,왜?",
-  "[ST포토]홍창기,안타신고",
-  "[ST포토]홍창기,타격감올리는안타",
-  "[ST포토]문정빈,1루베이스꾹",
-  "챗GPT가더거칠어졌다?…욕설증가체감한이용자들잇따라",
-  "엔비디아,오픈AI데이터센터에149조원보증",
-  "풀스택부터대규모연합까지…'모두의AI'6개진영강점과전략은",
-  "[ST포토]신민재,찬스만드는안타",
   "[사진]김현수,찬스에서",
   "[사진]임찬규,역투",
   "[사진]임찬규,내가직접",
@@ -6001,13 +5993,17 @@
   "유성구'일주일살기'인기몰이…전국168개팀몰렸다",
   "KT,국산반도체·LLM하나로…기업용‘소버린AI서버’출시",
   "원·달러환율1411원까지하락…11일만에최저",
-  "코스피7200선찍고급락…국채금리·유가에상승분반납"
+  "코스피7200선찍고급락…국채금리·유가에상승분반납",
+  "통신3사,'모두의AI'사업참여…AI서비스·모델역량결집",
+  "[현장]AI와함께커진파이썬생태계,깊어지는공급망위협",
+  "미국장기금리급등에코스피‘전강후약’…7000선회복실패",
+  "개인정보유출적으면과징금도적다?해외선'피해의질'더따진다[K...",
+  "“대학생296만명정보유출”…해커의표적이된캠퍼스",
+  "독자AI모델2차평가…업스테이지·SKT·LG통과",
+  "LG유플러스,5G·AI-RAN넘나들어도'끊김없이'…피지컬AI통신검증",
+  "엔비디아,오픈AI에149조보증…‘순환금융’논란재점화"
  ],
  "recent_sigs": [
-  [
-   "2026-08-19T07:24:16.565678+09:00",
-   "늦췄다 보안 개발속도 위협에 일시중단 모델훈련"
-  ],
   [
    "2026-08-19T07:32:15.251356+09:00",
    "투자전략 넘어 이통3사 DC로 가속 재편 통신망"
@@ -6603,9 +6599,29 @@
   [
    "2026-08-19T13:24:16.138391+09:00",
    "코스피 찍고 반납 유가에 7200선 상승분 급락 국채금리"
+  ],
+  [
+   "2026-08-19T13:26:16.367595+09:00",
+   "2차 모델 ~SKT 독자 평가 통과 업스테이지 LG"
+  ],
+  [
+   "2026-08-19T13:26:16.367595+09:00",
+   "개인정보 과징금도 적으면 적다 피해의 해외선 따진다 유출"
+  ],
+  [
+   "2026-08-19T13:26:16.367595+09:00",
+   "해커의 정보 대학생 캠퍼스 표적이 296만명 유출"
+  ],
+  [
+   "2026-08-19T13:26:16.367595+09:00",
+   "미국 급등에 회복 실패 장기금리 전강후약 7000선 코스피"
+  ],
+  [
+   "2026-08-19T13:26:16.367595+09:00",
+   "오픈AI에 순환 논란 금융 재점화 보증 149조"
   ]
  ],
- "last_run": "2026-08-19T13:24:39.566641+09:00",
+ "last_run": "2026-08-19T13:26:45.921155+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
