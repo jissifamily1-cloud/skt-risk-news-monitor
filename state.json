@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260731_0003731129",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260730010011241",
-  "https://zdnet.co.kr/view/?no=20260730155717",
-  "https://www.dailysecu.com/news/articleView.html?idxno=207868",
-  "https://www.thelec.kr/news/articleView.html?idxno=60349",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273895",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240715",
   "https://www.ajunews.com/view/20260730165043995",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=422782",
   "https://www.etnews.com/20260730000411",
@@ -2999,16 +2992,16 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640670",
   "https://www.inven.co.kr/webzine/news/?news=319689",
   "https://www.aitimes.com/news/articleView.html?idxno=214103",
-  "https://www.tokenpost.kr/news/breaking/393322"
+  "https://www.tokenpost.kr/news/breaking/393322",
+  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155227",
+  "https://www.sportsseoul.com/news/read/1629531",
+  "https://www.sportsseoul.com/news/read/1629528",
+  "https://www.sportsseoul.com/news/read/1629527",
+  "https://www.sportsseoul.com/news/read/1629529",
+  "https://www.sportsseoul.com/news/read/1629532",
+  "https://www.sportsseoul.com/news/read/1629530"
  ],
  "seen_titles": [
-  "보안사고발생,기술부서만대응해선안되는이유",
-  "오픈AI,GPT모델‘통제이탈’정황추가발견…해킹조사확대",
-  "AI데이터센터도'빅테크보증'시대…구글,앤트로픽21.5조원조달지...",
-  "삼성SDS,2분기매출3조700억·영업이익2300억…AI풀스택으로경쟁력...",
-  "[컨콜종합]이준희삼성SDS대표\"AI풀스택으로미래성장기회선점\"",
-  "삼성SDS,2분기매출3조7,178억원...IT서비스와물류사업동반성장",
-  "삼성SDS,2분기실적\"클라우드·물류대외사업성장\"",
   "삼성SDS2분기매출3.7조돌파...클라우드·AI가실적견인",
   "[컨콜]삼성SDS,'AI풀스택'실행방안공개…'클라이언트제로'체계구...",
   "삼성SDS,2분기매출3조7178억원…\"클라우드·물류성장견인\"",
@@ -6001,7 +5994,14 @@
   "[주요단신]제76주기섯알오름예비검속희생자합동위령제봉행외",
   "[LCK]젠지,KT와접전끝승리...PO2R진출확정",
   "앤트로픽'클로드'워터마크도입에제거도구우후죽순",
-  "미국,엔비디아AI칩우회접근차단검토"
+  "미국,엔비디아AI칩우회접근차단검토",
+  "[LCK]젠지,PO2R직행확정...KT는5연패늪빠져(종합)",
+  "[포토]역투하는LG톨허스트",
+  "[포토]LG톨허스트의역투",
+  "[포토]LG톨허스트,KT전선발등판",
+  "[포토]시즌11승도전하는LG선발톨허스트",
+  "[포토]힘차게공뿌리는LG선발톨허스트",
+  "[포토]LG톨허스트,힘차게!"
  ],
  "recent_sigs": [
   [
@@ -6633,7 +6633,7 @@
    "검토 미국 차단 접근 AI칩 우회"
   ]
  ],
- "last_run": "2026-08-19T19:42:33.220484+09:00",
+ "last_run": "2026-08-19T19:44:34.599446+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
