@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202608190069",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=321179",
-  "https://www.mk.co.kr/article/12131494",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=761805",
-  "https://www.nytimes.com/2026/08/19/podcasts/bridget-todd-ai-chatgpt.html?partner=naver",
-  "https://www.ajunews.com/view/20260819152040850",
   "https://www.gukjenews.com/news/articleView.html?idxno=3668778",
   "https://www.inews365.com/news/article.html?no=932340",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307302",
@@ -2999,15 +2993,15 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=858093",
   "https://www.g-enews.com/view.php?ud=2026082009322564483d7a510102_1",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641703",
-  "https://www.donga.com/news/Society/article/all/20260820/134512604/1"
+  "https://www.donga.com/news/Society/article/all/20260820/134512604/1",
+  "http://sateconomy.co.kr/news/view/1065603263897228",
+  "https://zdnet.co.kr/view/?no=20260820155725",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694379",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694370",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694367",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102376"
  ],
  "seen_titles": [
-  "매출18%늘었지만…첫추월당한오픈AI",
-  "[CEOAtoZ]조용했던구광모,LG의'세일즈최전선'에나서다",
-  "'대장암극복'트레이맨시니,결국메이저리그은퇴…\"야구는내삶의...",
-  "UAE\"이란과교역중단\"",
-  "LG에너지솔루션,美랜싱공장본격가동...연간35GWh배터리생산",
-  "IDon’tTrustA.I.ButITolditEverything",
   "TSMC는'동반성장',K-칩는'즉시현금'…보상격차가가른반도체초격...",
   "논산시의회,제274회임시회개회...2026년도제1회추가경정예산안심사...",
   "충북대,'성장엔진연계'산학협력확대",
@@ -6001,17 +5995,15 @@
   "아이스크림에듀,초등문해력콘텐츠오픈",
   "네이버에통합교섭요청한노조…AI사업새변수되나",
   "민간기관해킹에청와대인사등명함정보유출…경찰“청와대서버...",
-  "최태원회장,EBS‘위대한수업’출연…첫한국인연사"
+  "최태원회장,EBS‘위대한수업’출연…첫한국인연사",
+  "카카오·SKT·KT'모두의AI'격돌…네이버불참이던진질문",
+  "과기정통부·KISIA주최CTF대회성료…'Trezor'팀우승",
+  "과기정통부,독파모2차세부평가공개…모티프벤치·LG전문가평가1위",
+  "방미통위,'유료방송활성화'민관협의체출범…규제·콘텐츠대가논의",
+  "방미통위,국가비상대비방송제작·송출훈련…8개기관참여",
+  "AI도'사람흉내'멈춘다…오픈AI,청소년보호모드출시이유"
  ],
  "recent_sigs": [
-  [
-   "2026-08-20T09:58:17.371316+09:00",
-   "조희대 현수막 김민석 물러나라 법치파괴 지시 게첩 전국"
-  ],
-  [
-   "2026-08-20T10:00:32.974723+09:00",
-   "일상 바꾼다 정신아 대신 인프라 카카오 5000만 승부처"
-  ],
   [
    "2026-08-20T10:02:15.380170+09:00",
    "반도체 머리 과의존 낮추자 업계와 맞대 정부"
@@ -6583,9 +6575,13 @@
   [
    "2026-08-20T15:58:15.552592+09:00",
    "출연 수업 EBS 회장 한국인 위대한 연사"
+  ],
+  [
+   "2026-08-20T16:00:34.705485+09:00",
+   "보호 모드 사람 출시 멈춘다 이유 흉내 청소년 AI도"
   ]
  ],
- "last_run": "2026-08-20T15:58:33.692239+09:00",
+ "last_run": "2026-08-20T16:00:55.793539+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
