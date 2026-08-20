@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405712",
-  "https://www.sedaily.com/article/20080891",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640474",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3668475",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7179555",
   "https://zdnet.co.kr/view/?no=20260819135624",
   "https://www.ajunews.com/view/20260819143218666",
@@ -2999,13 +2995,13 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5052924",
   "http://www.techholic.co.kr/news/articleView.html?idxno=222536",
   "http://www.srtimes.kr/news/articleView.html?idxno=210362",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405808"
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405808",
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=904984",
+  "https://www.tennis.co.kr/news/articleView.html?idxno=53496",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=662765",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032137"
  ],
  "seen_titles": [
-  "창업자위한공간...카카오벤처스‘템프서울’9월개관",
-  "B2007656장구축한NHN'팩토리X서울'…AI인프라경쟁력키운다",
-  "LG유플-연세대,AI랜환경서네트워크전환기술검증",
-  "과기정통부,GPS교란민관군합동대응훈련실시",
   "학생·학부모가만드는'지구건강밥상'…레시피공모전",
   "서울관악구,KT구로전화국교차로좌회전신호신설",
   "KT,한국ICT중소벤처기업북미진출지원",
@@ -6001,7 +5997,11 @@
   "카페24,챗GPT·제미나이등AI유입성과한눈에분석",
   "SKB,서울국제여성영화제상영작'Btv특집관'운영",
   "이통3사가입자판도,해킹에'흔들'…LG유플러스만웃었다",
-  "클라우데라,'애니웨어클라우드'공개…하이브리드환경서에이전틱A..."
+  "클라우데라,'애니웨어클라우드'공개…하이브리드환경서에이전틱A...",
+  "공주시,국립공주박물관테러대비'실제훈련'실시",
+  "플렉스,권순우와함께.전역후스폰서십이어간다",
+  "SKT,3G신규가입20일중단",
+  "KT수도권강남고객본부마켓보로(식봄)와외식업소상공인AX지원'맞..."
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-08-20T13:12:16.324221+09:00",
    "한눈에 분석 카페24 성과 제미나이 챗GPT 유입"
+  ],
+  [
+   "2026-08-20T13:16:15.690087+09:00",
+   "마켓보로 식봄 강남고객본부 ~KT 외식업 AX 지원 소상공인 수도권"
   ]
  ],
- "last_run": "2026-08-20T13:14:32.509567+09:00",
+ "last_run": "2026-08-20T13:16:33.680652+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
