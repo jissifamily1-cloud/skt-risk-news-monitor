@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170145",
-  "https://www.etnews.com/20260820000033",
-  "https://www.etnews.com/20260818000431",
-  "https://www.dailian.co.kr/news/view/1680131/?sc=Naver",
-  "https://www.news1.kr/it-science/cc-newmedia/6263876",
-  "https://www.seoultimes.news/news/article.html?no=2000098953",
   "https://www.bntnews.co.kr/article/view/bnt202608200131",
   "https://www.yna.co.kr/view/AKR20260820044300008?input=1195m",
   "https://www.tokenpost.kr/news/cryptocurrency/393840",
@@ -2999,15 +2993,15 @@
   "https://sports.donga.com/sports/article/all/20260820/134511180/1",
   "https://www.seoulfn.com/news/articleView.html?idxno=636116",
   "https://www.etoday.co.kr/news/view/2615869",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=443953"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=443953",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252305",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=444913",
+  "https://news.ifm.kr/news/articleView.html?idxno=477609",
+  "https://www.aitimes.com/news/articleView.html?idxno=214145",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445027",
+  "https://www.dailian.co.kr/news/view/1679961/?sc=Naver"
  ],
  "seen_titles": [
-  "한국첨단소재,‘코리아퀀텀’,아이온큐추가…초전도ㆍ트랩이온2종...",
-  "티사이언티픽,SBOM기반공급망보안‘스코프’구축…에이전틱AI결...",
-  "장초반...코스피·삼성전자·SK하이닉스'껑충',日증시도'상승'",
-  "과기정통부·KISIA,'2026KISIA정보보호경진대회'성료",
-  "李대통령“특정지역비하나피해자조롱에실질적제재필요”",
-  "SKT,3G서비스가입중단…23년만에퇴장수순",
   "KT,스타트업16곳과산업현장AX사업가속화…'K-PATH2026'",
   "LG유플러스,AI건물관리첫발…요양원서건강·시설함께살핀다",
   "‘신병4’카메라밖비하인드컷공개",
@@ -6001,7 +5995,13 @@
   "펑펑펑‘홈런공장장’된20대젊은피…김도영·강백호·노시환,홈런계...",
   "[뉴욕증시]'바이백'약발하루만에'뚝!',금리·유가↑···월마트9%...",
   "버뮤다총리·OKX창업자,KBW2026무대오른다",
-  "[WhoIs?]김종철방송미디어통신위원회위원장"
+  "[WhoIs?]김종철방송미디어통신위원회위원장",
+  "SKT,3G서비스단계적종료수순…오늘부터신규가입중단",
+  "[WhoIs?]이병철다올금융그룹회장",
+  "'원금보장'ELB의함정부터9440억최태원재산분할까지[머니카운터방...",
+  "[8월20일]데이터센터반발'달래기'에나선빅테크…결국필요한건AI...",
+  "[WhoIs?]이국환서브원대표이사",
+  "\"판단은GPT가\"…생각마저외주준2030[Now2.30]"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,25 @@
   [
    "2026-08-21T07:00:34.903230+09:00",
    "방송미디어통신위원회 김종철 위원장"
+  ],
+  [
+   "2026-08-21T07:02:14.976578+09:00",
+   "대표이사 서브원 이국환"
+  ],
+  [
+   "2026-08-21T07:02:14.976578+09:00",
+   "보장 함정부터 ELB의 재산분할까지 원금 9440억 머니카운터"
+  ],
+  [
+   "2026-08-21T07:02:14.976578+09:00",
+   "필요한 나선 빅테크 결국 달래기 데이터센터 반발"
+  ],
+  [
+   "2026-08-21T07:02:14.976578+09:00",
+   "생각마저 판단은 외주 GPT가"
   ]
  ],
- "last_run": "2026-08-21T07:00:51.855370+09:00",
+ "last_run": "2026-08-21T07:02:40.394419+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
