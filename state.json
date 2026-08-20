@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026081908591915223",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3010450",
-  "https://zdnet.co.kr/view/?no=20260819153006",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000004371&cp=nv",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=878289",
-  "https://news.mtn.co.kr/news-detail/2026081914222969592",
   "https://news.mtn.co.kr/news-detail/2026081909070337146",
   "https://biz.sbs.co.kr/article_hub/20000329513?division=NAVER",
   "https://www.chosun.com/economy/tech_it/2026/08/19/SBCGFRIIA5DXBK7OU7PZREF3JQ/",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260820_0003755766",
   "https://www.donga.com/news/Society/article/all/20260820/134511265/1",
   "http://www.e2news.com/news/articleView.html?idxno=333413",
-  "https://view.asiae.co.kr/article/2026081914114234600"
+  "https://view.asiae.co.kr/article/2026081914114234600",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721028",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3669686",
+  "https://zdnet.co.kr/view/?no=20260820105659",
+  "https://zdnet.co.kr/view/?no=20260820133716",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=316641",
+  "https://www.tokenpost.kr/news/breaking/394068"
  ],
  "seen_titles": [
-  "[1%초고수의선택]급락한'반도체'사고,'티엘비'팔았다",
-  "LGU+·연세대,AI-RAN네트워크전환기술검증",
-  "\"R&D3000억투자해야만점\"…혁신형제약기업,투자부터임상·수출까지...",
-  "데이터쌓고모델푸는中…FT\"차이나쇼크4.0온다\"",
-  "LG엔솔,美랜싱공장가동돌입…북미ESS공략‘5대거점’완성",
-  "SK텔레콤,'독파모'이어'모두의AI'도전장",
   "카카오,'모두의AI'참여…LG유플러스등14개사컨소시엄구성",
   "KT,국산NPU·AI모델결합한기업용AI장비출시",
   "WSJ\"오픈AI2분기매출18%↑…영업손실확대\"",
@@ -6001,17 +5995,15 @@
   "SK그룹,中법인지분정리로9000억조달…최태원號'AI풀스택'투자가...",
   "정부,불법촬영물사이트개설도처벌한다…수익차단으로‘돈줄’끊...",
   "\"크리에이터·브랜드·팬덤연결\"샌드박스네트워크,공식홈페이지개...",
-  "[K테크,아세안실험실]②도로깔던공적원조의진화‥韓반도체,아세..."
+  "[K테크,아세안실험실]②도로깔던공적원조의진화‥韓반도체,아세...",
+  "AI가보이스피싱의심정보46만건훑었다…9개월간660억원피해차단",
+  "iM금융그룹iM사회공헌재단,청년멘토링후원금전달...사회공헌사업...",
+  "한국국방AI,'머리'늘었는데'방아쇠'가없다",
+  "두산로보틱스,생성형AI'클로드'도입…로봇R&D속도전",
+  "로그지운KT·서버폐기LGU+...서울YMCA\"위약금면제·영업정지해야\"",
+  "프랙타일,앤스로픽2.5억달러칩주문확보보도"
  ],
  "recent_sigs": [
-  [
-   "2026-08-20T08:08:14.388753+09:00",
-   "대학생 청소년 시흥서 서울대학교 해커톤 80명 개최"
-  ],
-  [
-   "2026-08-20T08:10:22.395096+09:00",
-   "호실적 주목 수혜주는 LG 두산 27일"
-  ],
   [
    "2026-08-20T08:14:15.527279+09:00",
    "이유 특집관 여는 3년째 여성영화제 tv"
@@ -6551,9 +6543,13 @@
   [
    "2026-08-20T14:06:22.315901+09:00",
    "법인 정리로 9000억 지분 투자 풀스택 조달 SK그룹"
+  ],
+  [
+   "2026-08-20T14:10:25.438379+09:00",
+   "프랙타일 보도 5억달러 주문 확보"
   ]
  ],
- "last_run": "2026-08-20T14:08:33.112470+09:00",
+ "last_run": "2026-08-20T14:10:49.133490+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
