@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=8800&key=20260819.99099005179",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1064896",
-  "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html?partner=naver",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213283",
-  "https://swtvnews.com/news/newsview.php?ncode=1065570813406855",
-  "https://isplus.com/article/view/isp202608190076",
-  "https://www.dailypharm.com/user/news/341565?REFERER=NP",
-  "https://www.munhwa.com/article/11610441",
   "https://www.munhwa.com/article/11610449",
   "https://www.newscj.com/news/articleView.html?idxno=3426254",
   "https://www.bbc.com/korean/articles/cp9eg5m58zmo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -2999,17 +2991,17 @@
   "https://dealsite.co.kr/articles/167531",
   "https://thetracker.co.kr/View.aspx?No=4192494",
   "https://news.unn.net/news/articleView.html?idxno=596130",
-  "https://www.cstimes.com/news/articleView.html?idxno=717397"
+  "https://www.cstimes.com/news/articleView.html?idxno=717397",
+  "https://www.dt.co.kr/article/12079173",
+  "https://www.newsgn.com/news/articleView.html?idxno=568741",
+  "https://www.etoday.co.kr/news/view/2616302",
+  "https://www.ceoscoredaily.com/page/view/2026082010392459346",
+  "https://www.itbiznews.com/news/articleView.html?idxno=222269",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83509",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461072",
+  "https://lawtalknews.co.kr/article/ABMLA8UMWQ68"
  ],
  "seen_titles": [
-  "[시민기자]선비지혜가득한목판,한일교류담은한지공예",
-  "'미술을보고,듣고,직접경험'2026대한민국미술축제미술여행예약...",
-  "OpenAIIntroduces‘ChatGPTforTeens’asSafetyConcernsGrow",
-  "세탁기조립하고,청소·빨래하고…엔비디아도찾은'로봇훈련소'",
-  "‘그대에드림’박지영,안수희의두얼굴완벽하게그려냈다",
-  "‘그대에게드림’황인엽,야구장데이트해명“혜리와좋은친구”...",
-  "유령사무실운영?…창고형약국약사,조세포탈혐의로고발",
-  "글로벌국채급등‘쇼크’…코스피사이드카‘패닉’",
   "“데이터센터필요”67%“내집앞안돼”64%…AI‘님비리스크’[급...",
   "LG엔솔,美랜싱거점가동…북미ESS5대생산망구축",
   "미국,국제형사재판소장등주요인사들에대한새로운제재발표",
@@ -6001,7 +5993,15 @@
   "[오늘의게임·IT소식]강율빈넵튠대표,印‘미디어퀘스트서밋20...",
   "SK하이닉스,차세대광인터커넥트'CPO'기술로드맵제시",
   "경운대,SDT-모빌린트와'양자·AI드론'협약…글로벌무인이동체시장...",
-  "오픈AICFO\"내년상장할것…앤트로픽보다늦어도괜찮아\""
+  "오픈AICFO\"내년상장할것…앤트로픽보다늦어도괜찮아\"",
+  "“이체막고대포폰잡고”…보이스피싱660억막아낸AI플랫폼",
+  "거창군,2026년을지연습실제훈련성료",
+  "'노데스'유나라ㆍ케이틀린⋯젠지,'룰러'활약앞세워PO2R확보",
+  "“새벽·신선배송돼~요”…롯데마트제타,이대호앞세워부산·영남권...",
+  "스노우플레이크,AI모델선택권늘린다…\"오픈모델접근성확대\"",
+  "LG유플러스,건물관리솔루션'AI빌딩넷byixi'출시",
+  "KT,AI스타트업16개사와미래AX사업발굴···공동사업화추진",
+  "\"케이블떨어져반려견에게쾅!\"…통신사에게손해배상청구될까?"
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,13 @@
   [
    "2026-08-20T10:32:13.968700+09:00",
    "도약 자금 네이버 허브 글로벌 눈앞 투자 브룩필드"
+  ],
+  [
+   "2026-08-20T10:42:14.960518+09:00",
+   "청구될까 반려견에게 통신사에게 떨어져 케이블 손해배상"
   ]
  ],
- "last_run": "2026-08-20T10:40:38.798907+09:00",
+ "last_run": "2026-08-20T10:42:36.045661+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
