@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573834805804",
-  "https://www.bntnews.co.kr/article/view/bnt202608190214",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168173",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720832",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257457",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692763",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692341",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692308",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691902",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691883",
   "https://www.businesspost.co.kr/BP?command=article_view&num=444649",
   "https://www.greened.kr/news/articleView.html?idxno=347534",
   "https://www.it-b.co.kr/news/articleView.html?idxno=89541",
@@ -2999,19 +2989,19 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=115674",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=206804",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694207",
-  "https://www.g-enews.com/view.php?ud=2026082010101354769a1f309431_1"
+  "https://www.g-enews.com/view.php?ud=2026082010101354769a1f309431_1",
+  "https://www.techm.kr/news/articleView.html?idxno=154447",
+  "https://www.inthenews.co.kr/news/article.html?no=90708",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553471438",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694223",
+  "https://zdnet.co.kr/view/?no=20260813084929",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3669205",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101684",
+  "https://www.theguru.co.kr/news/article.html?no=106009",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694232",
+  "http://www.boannews.com/media/view.asp?idx=145219&kind=4"
  ],
  "seen_titles": [
-  "[메가이슈토픽]'이변은없었다'독파모3강압축…SKT·LG·업스테이지...",
-  "‘홈런선두’김도영,시즌36호포폭발",
-  "\"명의도용vs명의대여\"…신분증맡긴고객·이통사법정공방전",
-  "유통업계,추석선물사전예약돌입…로봇·금등이색상품앞세워",
-  "[분석]\"한국메모리사줄테니中칩·모델쓰지마\"···트럼프식AI...",
-  "살아있는샘알트먼이사망?…구글검색에황당한오표기",
-  "영상시대에수천단어…AICEO들이장문선언에빠진이유",
-  "오픈AI,상장추진속핵심임원이탈이어져…前CFO·COO브래드라이...",
-  "샌더스美상원의원\"통제못할AI개발멈춰라\"…오픈AI·앤트로픽·메...",
-  "메타CTO\"AI덕에시간벌었으니더일해라\"…휴가요구에는'발끈'",
   "상장준비하는오픈AI와엔트로픽온실가스배출에는침묵,탄소중립목...",
   "[AI규제]AI챗봇이써준문서,함부로썼다간‚AI산'표시영원히못...",
   "LG유플러스,연세대와5G·AI-RAN망전환서비스연속성검증",
@@ -6001,7 +5991,17 @@
   "SK브로드밴드,서울국제여성영화제4년째후원…상영작34편공개",
   "KT,AX파트너스타트업16곳선정…AI사업화협력",
   "기네스팰트로,샘알트먼에식사대접?…AI에꽂힌할리우드스타",
-  "中AI,가격·사용량서美추월…기술격차도급속축소"
+  "中AI,가격·사용량서美추월…기술격차도급속축소",
+  "앤트로픽,한국컴퓨트전략총괄찾는다",
+  "SKB,서울국제여성영화제‘Btv특집관’운영…4년연속후원",
+  "가장필요할때구세주가등장했다...!6월부터부진했던톨허스트,1위...",
+  "종일영업전화거는AI…편해진기업,피곤해진소비자",
+  "오픈AI,COO출신브래드라이트캡퇴사...IPO앞두고고위임원연쇄이...",
+  "보이스피싱의'마지막순간'을막다,(주)남다안동연대표",
+  "'모두의AI'6파전…SKT·KT·카카오경쟁본격화",
+  "[단독]SK,중국서'바닷속AI센터협력'비밀회동…전력·냉각난제해...",
+  "엔비디아,이번엔AI데이터까지품는다…머코어200억달러가치투자검...",
+  "다크웹AI기반해킹도구거래활발...초보도APT급공격가능"
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,21 @@
   [
    "2026-08-20T10:16:15.840427+09:00",
    "축소 추월 급속 기술격차도 사용량서 가격"
+  ],
+  [
+   "2026-08-20T10:18:13.824373+09:00",
+   "SK 비밀 회동 난제 냉각 센터 중국서 바닷속 전력 협력"
+  ],
+  [
+   "2026-08-20T10:18:13.824373+09:00",
+   "이번엔 가치 품는다 머코어 200억달러 데이터까지 투자"
+  ],
+  [
+   "2026-08-20T10:18:13.824373+09:00",
+   "도구 초보도 다크웹 기반 가능 활발 거래 공격 APT급"
   ]
  ],
- "last_run": "2026-08-20T10:16:36.076989+09:00",
+ "last_run": "2026-08-20T10:18:40.350481+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
