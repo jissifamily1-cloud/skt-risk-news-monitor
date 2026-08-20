@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04149206645546992",
-  "https://www.mt.co.kr/tech/2026/08/13/2026081309263337133",
-  "https://www.newsis.com/view/NISX20260812_0003746806",
-  "https://www.news1.kr/it-science/cc-newmedia/6257585",
-  "https://www.hankyung.com/article/202608116217g",
-  "http://www.thebigdata.co.kr/view.php?ud=2026081110225430470a47484cf8_23",
-  "https://www.the-stock.kr/news/articleView.html?idxno=33185",
-  "http://www.metroseoul.co.kr/article/20260819500155",
-  "https://zdnet.co.kr/view/?no=20260813084929",
-  "https://www.mk.co.kr/article/12130977",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573834805804",
   "https://www.bntnews.co.kr/article/view/bnt202608190214",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168173",
@@ -2999,19 +2989,19 @@
   "http://www.newsprime.co.kr/news/article.html?no=744430",
   "https://www.khan.co.kr/article/202608201011001",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445141",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=5841"
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5841",
+  "https://idsn.co.kr/news/view/1065577341053195",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458971",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3669344",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694202",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694200",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1720990",
+  "https://www.businessplus.kr/news/articleView.html?idxno=115674",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=206804",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694207",
+  "https://www.g-enews.com/view.php?ud=2026082010101354769a1f309431_1"
  ],
  "seen_titles": [
-  "청년AI창업가에GPU·투자지원…정부,경진대회확대추진",
-  "류제명과기정통부2차관,청년AI스타트업만났다…\"성장지원확대\"",
-  "류제명과기2차관\"청년AI스타트업은미래경쟁력…맞춤형지원\"",
-  "과기정통부,내년상반기'청년AI스타트업경진대회'개최",
-  "SKT'세계1위'깜짝성적표…데이터센터확장이통사'선두'",
-  "GPU부터AICC·스마트물류까지…SI기업·이통사AI인프라구축확대",
-  "지오스토리,AI·공간지능융합기술로산업혁신선도",
-  "카카오벤처스,1인창업가몰입공간'템프서울'9월개관",
-  "오픈AI,COO출신브래드라이트캡퇴사...IPO앞두고고위임원연쇄이...",
-  "“AI메모리없어서못판다더니왜?”…美‘지금사야할10대주식’...",
   "[메가이슈토픽]'이변은없었다'독파모3강압축…SKT·LG·업스테이지...",
   "‘홈런선두’김도영,시즌36호포폭발",
   "\"명의도용vs명의대여\"…신분증맡긴고객·이통사법정공방전",
@@ -6001,7 +5991,17 @@
   "SKT,23년만에3G종료수순밟는다",
   "SKT,3G신규가입중단…3G20여년만에역사속으로",
   "LG유플러스AI기반건물관리플랫폼출시,시니어케어·오피스로확대",
-  "LG유플러스,'AI빌딩넷'으로건강모니터링...시니어케어부터적용"
+  "LG유플러스,'AI빌딩넷'으로건강모니터링...시니어케어부터적용",
+  "과기정통부,청년AI스타트업지원확대…내년상반기경진대회추진",
+  "주파수재할당대가산정방식손본다···연구반13일발족",
+  "대구광역시,대구마스터즈육상대회로드레이스...신천동로등4일간교...",
+  "中해커막으려가위들었다…T모바일,케이블직접절단",
+  "비트코인,기술주에설욕했다…60일수익률나스닥추월",
+  "SKT,오늘부터3G신규가입중단…\"내년말서비스종료목표\"",
+  "SK브로드밴드,서울국제여성영화제4년째후원…상영작34편공개",
+  "KT,AX파트너스타트업16곳선정…AI사업화협력",
+  "기네스팰트로,샘알트먼에식사대접?…AI에꽂힌할리우드스타",
+  "中AI,가격·사용량서美추월…기술격차도급속축소"
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,17 @@
   [
    "2026-08-20T10:10:21.668901+09:00",
    "해킹도 시간 시대 공격 공개 싸움 취약점 24시간도"
+  ],
+  [
+   "2026-08-20T10:16:15.840427+09:00",
+   "스타 팰트로 AI에 할리우드 알트먼에 대접 식사 꽂힌 기네스"
+  ],
+  [
+   "2026-08-20T10:16:15.840427+09:00",
+   "축소 추월 급속 기술격차도 사용량서 가격"
   ]
  ],
- "last_run": "2026-08-20T10:14:35.140343+09:00",
+ "last_run": "2026-08-20T10:16:36.076989+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
