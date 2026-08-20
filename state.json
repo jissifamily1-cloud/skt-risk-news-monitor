@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/world/2026/08/20/2026081913470126329",
-  "https://biz.sbs.co.kr/article_hub/20000329265?division=NAVER",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=315809",
-  "http://www.newskr.kr/news/articleView.html?idxno=105687",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191071",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=86845",
-  "http://www.marketnews.co.kr/news/articleView.html?idxno=74232",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608181456204760104656",
   "https://www.etnews.com/20260818000327",
   "https://www.wikitree.co.kr/articles/1153078",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=271924",
@@ -2999,17 +2991,17 @@
   "https://www.sedaily.com/article/20081505",
   "https://www.dailian.co.kr/news/view/1680480/?sc=Naver",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213704",
-  "http://www.finomy.com/news/articleView.html?idxno=259595"
+  "http://www.finomy.com/news/articleView.html?idxno=259595",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=740776",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3670050",
+  "https://www.m-economynews.com/news/article.html?no=69975",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=740778",
+  "https://www.m-economynews.com/news/article.html?no=69976",
+  "https://www.kado.net/news/articleView.html?idxno=2067723",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260820010006575",
+  "https://www.mk.co.kr/article/12132498"
  ],
  "seen_titles": [
-  "[경제단신]‘탱크데이’논란스벅2분기적자전환외",
-  "'제5기인천일보경기본사시민편집위원회'위촉…'보도비평'새진용",
-  "\"한국,수십억달러벌고도들어오는돈거의없다\"외신쓴소리",
-  "[증시인사이트]6900선내준코스피…삼전·닉스주주환원이반등의키...",
-  "솔리다임상장가능성에SK하이닉스'알짜쪼개기'비판",
-  "젠슨황장녀는왜넉달만에한국을세번찾았나",
-  "[WIKIENERGY]깊어지는SK-테라파워협력…아시아SMR시장정조준",
-  "[오늘의운세](2026년8월19일띠별운세)용띠,여행을",
   "빌게이츠의테라파워·SK·HD현대·두산,SMR사업협력구체화",
   "[더벨][영상|thebell'sview]로봇팔고실트론풀매수…두산,2.3조베...",
   "노태문12만4280주·곽노정1만4312주…'삼전닉스임원자사주보유'추...",
@@ -6001,7 +5993,15 @@
   "언론사·병원등102곳뚫렸다…北해킹조직라자루스소행가능성",
   "방미통위\"개정정보통신망법,美기업겨냥차별규제아냐\"",
   "'개정정통망법'우려한미의원에…방미통위\"차별없다\"회신",
-  "[CAPEX기업진단]LG유플러스,AIDC베팅에도곳간'두둑'한비결"
+  "[CAPEX기업진단]LG유플러스,AIDC베팅에도곳간'두둑'한비결",
+  "대기업생성형AI활용확대…자체구축부터외부솔루션까지다양화",
+  "대전중구,을지연습'생존체험장'…주민비상대응력높인다",
+  "한국배터리,ESS·방산으로새성장축오픈...북미에서생산전략대전...",
+  "대기업-스타트업,협력패러다임전환…아이디어사업화에서기술검증...",
+  "유료방송민관협의체출범...유료방송산업위기극복활성화방안나오...",
+  "전두환·노태우비자금환수되나…'독립몰수제'내년도입",
+  "[이영환의AI에이전틱이코노미]다음좌판은어디에깔것인가-HBM이알...",
+  "국민연금,오픈AI·앤트로픽IPO참여"
  ],
  "recent_sigs": [
   [
@@ -6611,9 +6611,21 @@
   [
    "2026-08-20T17:52:16.723382+09:00",
    "비결 AIDC ~LGU LG유플러스 곳간 베팅에도 두둑"
+  ],
+  [
+   "2026-08-20T17:54:16.442063+09:00",
+   "외부 자체 다양화 솔루션까지 대기업 생성형 활용 구축부터 확대"
+  ],
+  [
+   "2026-08-20T17:54:16.442063+09:00",
+   "좌판은 어디에 다음 HBM이 것인가"
+  ],
+  [
+   "2026-08-20T17:54:16.442063+09:00",
+   "앤트로픽 참여 IPO 국민연금"
   ]
  ],
- "last_run": "2026-08-20T17:52:40.857112+09:00",
+ "last_run": "2026-08-20T17:54:39.678556+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
