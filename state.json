@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112860133",
-  "https://biz.chosun.com/it-science/ict/2026/08/19/D5CTO5V7MJF4LKDBZJ2MYAC5FU/",
-  "https://www.inven.co.kr/webzine/news/?news=319690",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=441809",
-  "http://www.osen.co.kr/article/G1112860143",
-  "http://www.osen.co.kr/article/G1112860142",
-  "http://www.osen.co.kr/article/G1112860144",
   "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155229",
   "http://www.osen.co.kr/article/G1112860153",
   "http://www.osen.co.kr/article/G1112860157",
@@ -2999,16 +2992,16 @@
   "https://www.mt.co.kr/industry/2026/08/20/2026082014210237419",
   "https://www.m-economynews.com/news/article.html?no=69964",
   "https://www.wikitree.co.kr/articles/1153717",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546143"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546143",
+  "http://www.breaknews.com/1230347",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3669834",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275179",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71144",
+  "https://www.aitimes.com/news/articleView.html?idxno=214173",
+  "https://www.edaily.co.kr/News/Read?newsId=04975766645549288&mediaCodeNo=257",
+  "https://www.newspim.com/news/view/20260820000858"
  ],
  "seen_titles": [
-  "[오!쎈종로]5연패수렁‘스코어’고동빈,“레전드그룹에서많이...",
-  "[사진]문보경,괴롭다",
-  "[사진]파울타구에맞고괴로운문보경",
-  "TSMC빈자리파고든삼성…파운드리가격최대15%올렸다",
-  "[LCK]승리했음에도아쉬움삼킨'기인',\"3세트스킬미스로흔들려\"",
-  "대전유성구,'테러에화재까지'...복합위기실전훈련전개",
-  "[사진]공민정,잠실마운드올라힘차게",
   "[사진]공민정,내볼을받아라",
   "[사진]시구하는공민정",
   "[LCK]젠지유상욱감독,\"2세트밴픽은내실수다\"",
@@ -6001,7 +5994,14 @@
   "위즈노트에이아이,교육사업본부신설..심리학기반보안교육",
   "박균택주도‘독립몰수제’통과…전·노비자금끝까지추적해환수한...",
   "김문수\"전과4범김민석이멀쩡한조희대두고...이래서야되겠나\"",
-  "방미통위,비상방송대응체계점검…“비상상황에도방송은신속·정확..."
+  "방미통위,비상방송대응체계점검…“비상상황에도방송은신속·정확...",
+  "거창군,2026을지연습실제훈련실시…드론·오물풍선복합테러대응...",
+  "전북도,현대차새만금투자상황점검…17개부서협업논의",
+  "[인터뷰]주성엔지니어링,Only1ALG혁신기술로\"세계반도체태양광...",
+  "[런던에서읽는생성형AI시대의경제]〈8〉왜삼성은아이폰을만들...",
+  "엔비디아,AI데이터전문'머코어'에투자논의...몸값28조달성전망",
+  "\"엔비디아독주깨자\"…韓AI기업들'개방형이기종동맹'으로뭉친다",
+  "깊이가다른글로벌투자정보GAM-맛보기편(8/20)"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,21 @@
   [
    "2026-08-20T16:58:16.100669+09:00",
    "방송은 점검 비상상황에도 대응체계 정확 신속 비상방송"
+  ],
+  [
+   "2026-08-20T17:00:33.466300+09:00",
+   "28조 투자 논의 데이터 달성 전망 전문 머코어 몸값"
+  ],
+  [
+   "2026-08-20T17:00:33.466300+09:00",
+   "독주 동맹 개방형 깨자 이기종 뭉친다 AI기업들"
+  ],
+  [
+   "2026-08-20T17:00:33.466300+09:00",
+   "글로벌 투자 GAM 맛보기편 다른 정보 깊이가"
   ]
  ],
- "last_run": "2026-08-20T16:58:42.000587+09:00",
+ "last_run": "2026-08-20T17:01:02.845850+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
