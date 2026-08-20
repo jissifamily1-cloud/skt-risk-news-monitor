@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112860284",
-  "http://www.osen.co.kr/article/G1112860279",
-  "http://www.osen.co.kr/article/G1112860285",
-  "http://www.osen.co.kr/article/G1112860277",
-  "http://www.osen.co.kr/article/G1112860276",
-  "https://www.sportsseoul.com/news/read/1629570",
   "https://www.sportsseoul.com/news/read/1629567",
   "https://www.sportsseoul.com/news/read/1629568",
   "https://www.sportschosun.com/baseball/2026-08-19/202608190100115270007325",
@@ -2999,15 +2993,15 @@
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0500&key=20260821.22013005851",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008712364&plink=ORI&cooper=NAVER",
   "https://www.newsis.com/view/NISX20260820_0003756637",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=858344"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=858344",
+  "https://www.mt.co.kr/tech/2026/08/20/2026082018225916179",
+  "https://www.nongmin.com/article/20260819500614",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=810302",
+  "https://www.ytn.co.kr/_ln/0103_202608201858124351",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241120",
+  "https://zdnet.co.kr/view/?no=20260820135210"
  ],
  "seen_titles": [
-  "[사진]톨허스트-손주영,승리합작",
-  "[사진]손주영,'톨허스트,시즌11승축하해'",
-  "[사진]톨허스트,시즌11승미소",
-  "[사진]LG,48일만에2연승",
-  "[사진]손주영,'이겼다'",
-  "[사진]LG,1위KT상대위닝시리즈예약",
   "[사진]오스틴,'손주영,마무리좋았어'",
   "[포토]KT에전날패배설욕한LG염경엽감독",
   "[포토]KT에1-0승리거둔LG염경엽감독",
@@ -6001,7 +5995,13 @@
   "[박현주의신간돋보기]깁스를하자세상이달라졌다外",
   "[권영인의문제적유럽]이민청·교육부·국세청까지싹털렸다!…해킹...",
   "이현중·안영준복귀…농구대표팀,월드컵예선최종명단발표",
-  "모비데이즈,생성형AI광고채널확대"
+  "모비데이즈,생성형AI광고채널확대",
+  "\"AI보안은생존문제\"…KTOA,프론티어AI시대대응논의",
+  "“나이속였지?미성년자인거다알아”…‘청소년용챗GPT’출시",
+  "[포커스]스타트업씨앗,금융서비스로활짝...KB'육성의선순환'",
+  "인증기관해킹으로청와대인사개인정보유출...경찰수사",
+  "클라우데라,엔비디아와협력해'아파치스파크'가속…클라우드비용...",
+  "\"코드수정없이최대4배\"…클라우데라,엔비디아손잡고AI데이터비..."
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,17 @@
   [
    "2026-08-20T18:58:15.079014+09:00",
    "이민청 국세청까지 털렸다 교육부"
+  ],
+  [
+   "2026-08-20T19:02:16.175265+09:00",
+   "가속 아파치 엔비디아와 클라우드 클라우데라 협력해 스파크 비용"
+  ],
+  [
+   "2026-08-20T19:02:16.175265+09:00",
+   "없이 손잡고 수정 데이터 클라우데라 4배 코드"
   ]
  ],
- "last_run": "2026-08-20T19:00:54.633530+09:00",
+ "last_run": "2026-08-20T19:02:37.203996+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
