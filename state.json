@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3426523",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43144",
-  "https://www.newsis.com/view/NISX20260820_0003755269",
-  "https://www.m-i.kr/news/articleView.html?idxno=1404156",
-  "https://www.aitimes.com/news/articleView.html?idxno=214106",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43145",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3669627",
   "https://www.cstimes.com/news/articleView.html?idxno=717411",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/20/2026082000137.html",
   "https://www.ddaily.co.kr/page/view/2026082013211917887",
@@ -2999,16 +2992,16 @@
   "https://www.mediawatch.kr/news/article.html?no=260734",
   "https://www.wikitree.co.kr/articles/1153855",
   "https://www.ngonews.kr/news/articleView.html?idxno=235987",
-  "https://www.g-enews.com/view.php?ud=202608210825147344fda4f5ab74_1"
+  "https://www.g-enews.com/view.php?ud=202608210825147344fda4f5ab74_1",
+  "http://www.osen.co.kr/article/G1112861120",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3670636",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53674",
+  "http://www.segyebiz.com/newsView/20260821505367?OutUrl=naver",
+  "https://biz.heraldcorp.com/article/10847901",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4101961",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008715455&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "[AI프리뷰]20일창원NC-두산전,'토종에이스'구창모에달린NC의3연...",
-  "성장률3.2%상향에도고용은6만명감소…‘고용없는성장’",
-  "\"24시간사냥하고길드호출\"…컴투스'제우스'AI시스템공개",
-  "40조원으로2407만주'삭제'…SK하이닉스,HBM으로키운현금을'주당가...",
-  "다시오르는삼전닉스…\"메모리반도체주가는美국채금리에달려\"",
-  "화성특례시,취약계층위한'찾아가는그냥드림'순회운영",
-  "\"누구나쉽게vs생활밀착연합\"...SKT·카카오,'모두의AI'전략공개",
   "1%도안남은3G에'최대70만원'건다…SKT23년망정리뒤남는'주파...",
   "고려아연온산제련소,'제2회KZ안전포스터공모전'시상식개최",
   "아이스크림에듀홈런,초등'교과서실생활문해력'콘텐츠오픈",
@@ -6001,7 +5994,14 @@
   "檢,‘노태우비자금의혹’강제수사돌입...김옥숙여사자택등압...",
   "'노태우비자금의혹'김옥숙여사연희동자택압수수색",
   "'세기의이혼소송'불똥튀었다…노소영'비자금메모'에친정압수수...",
-  "엔비디아,중국용AI칩출시설부인…현지시장불확실성지속"
+  "엔비디아,중국용AI칩출시설부인…현지시장불확실성지속",
+  "360도폴더인사→친정스윕울린결정타...'복덩이'하주석트레이드,...",
+  "한국산림복지진흥원,교정공무원'마음회복'숲프로그램개발",
+  "모델싸움끝났다…AI판도뒤흔드는'금융공학'의습격",
+  "카카오,AI중심인적분할…‘카카오AI·카카오X’로재편",
+  "SK하이닉스,성과급난맥‘위기분담’극복",
+  "검찰,'노태우비자금은닉의혹'강제수사...김옥숙여사자택압수수...",
+  "검찰,'노태우비자금의혹'김옥숙자택등압수수색"
  ],
  "recent_sigs": [
   [
@@ -6597,7 +6597,7 @@
    "비자금 친정 이혼 세기의 불똥 메모 소송 튀었다 압수수"
   ]
  ],
- "last_run": "2026-08-21T11:16:33.457698+09:00",
+ "last_run": "2026-08-21T11:18:33.145393+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
