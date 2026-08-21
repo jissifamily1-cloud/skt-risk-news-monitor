@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailypop.kr/news/articleView.html?idxno=101684",
-  "https://www.theguru.co.kr/news/article.html?no=106009",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694232",
-  "http://www.boannews.com/media/view.asp?idx=145219&kind=4",
-  "https://zdnet.co.kr/view/?no=20260820094042",
-  "https://zdnet.co.kr/view/?no=20260820100349",
-  "https://kpenews.com/View.aspx?No=4192453",
   "https://www.ddaily.co.kr/page/view/2026082010162308534",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168173",
   "https://www.gukjenews.com/news/articleView.html?idxno=3669352",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20081656",
   "https://www.etoday.co.kr/news/view/2616675",
   "https://www.itooza.com/common/iview.php?no=2026082109012013248",
-  "https://biz.chosun.com/stock/stock_general/2026/08/21/NOZIDJY5ZNDJLJFXWLZHHHFUOY/"
+  "https://biz.chosun.com/stock/stock_general/2026/08/21/NOZIDJY5ZNDJLJFXWLZHHHFUOY/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3670407",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694207",
+  "https://www.g-enews.com/view.php?ud=2026082010101354769a1f309431_1",
+  "https://www.thepublic.kr/news/articleView.html?idxno=315637",
+  "https://biz.heraldcorp.com/article/10847578",
+  "http://www.hellodd.com/news/articleView.html?idxno=112887",
+  "https://www.tokenpost.kr/news/breaking/394555"
  ],
  "seen_titles": [
-  "오픈AI,COO출신브래드라이트캡퇴사...IPO앞두고고위임원연쇄이...",
-  "보이스피싱의'마지막순간'을막다,(주)남다안동연대표",
-  "'모두의AI'6파전…SKT·KT·카카오경쟁본격화",
-  "[단독]SK,중국서'바닷속AI센터협력'비밀회동…전력·냉각난제해...",
-  "엔비디아,이번엔AI데이터까지품는다…머코어200억달러가치투자검...",
-  "다크웹AI기반해킹도구거래활발...초보도APT급공격가능",
-  "SKB,서울국제여성영화제특집관운영...상영작34편선봬",
   "LGU+,AI기반공간관리솔루션출시",
   "[스마트컨슈머]여름할인프로모션설빙·해피스낵확대운영맥도날...",
   "LGU+,AI건물관리솔루션출시…첫적용은‘시니어케어’",
@@ -6001,7 +5994,14 @@
   "유안타證,SK목표가83만원‘유지’…“내년부터주주환원본격화”...",
   "LG유플러스‘Simply.U+’리브랜딩,레드닷디자인어워드수상",
   "“KT나스미디어,목표가↑…이익개선지속”-DB",
-  "현대차證“오픈AI2분기부진만보면안돼…美프런티어AI,3분기부터..."
+  "현대차證“오픈AI2분기부진만보면안돼…美프런티어AI,3분기부터...",
+  "민형배시장,여수세계섬박람회D-16전시설·교통점검",
+  "기네스팰트로,샘알트먼에식사대접?…AI에꽂힌할리우드스타",
+  "中AI,가격·사용량서美추월…기술격차도급속축소",
+  "SKT,3G서비스종료추진…20일부터신규가입중단",
+  "“스마트폰이어의료기기까지”…수면AI에이슬립,전통제약사품고...",
+  "[조간브리핑]세계휴머노이드경쟁불붙었지만···로봇'두뇌'는美가...",
+  "브로드컴,AI칩자금600억달러이상조달추진"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,17 @@
   [
    "2026-08-21T09:04:17.294274+09:00",
    "보면 3분기부터 부진만 2분기 현대차 프런티어"
+  ],
+  [
+   "2026-08-21T09:06:16.696747+09:00",
+   "스마트폰 이어 제약사 의료기기까지 전통 에이슬립 품고 수면"
+  ],
+  [
+   "2026-08-21T09:06:16.696747+09:00",
+   "두뇌 휴머노이드 로봇 경쟁 세계 불붙었지만"
   ]
  ],
- "last_run": "2026-08-21T09:04:38.375498+09:00",
+ "last_run": "2026-08-21T09:06:36.759631+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
