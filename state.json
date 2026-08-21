@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60377",
-  "https://www.newscj.com/news/articleView.html?idxno=3426477",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2435108",
-  "https://www.sportschosun.com/baseball/2026-08-20/202608200100118240007508",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37504",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191138",
-  "https://www.venturesquare.net/1107163/",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168466",
-  "http://www.fnnews.com/news/202608201019233590",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191134",
   "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=180&CONTENTS_NO=1&bbsGbn=243&bbsSn=243&pNttSn=243423",
   "https://www.datanet.co.kr/news/articleView.html?idxno=213913",
   "https://www.joongangenews.com/news/articleView.html?idxno=541225",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/photos/8065758",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000058418",
   "https://www.news1.kr/it-science/cc-newmedia/6265215",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83582"
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83582",
+  "http://www.popcornnews.net/news/articleView.html?idxno=130374",
+  "https://www.public25.com/news/articleView.html?idxno=52834",
+  "https://theviewers.co.kr/View.aspx?No=4193885",
+  "https://news.tf.co.kr/read/economy/2356355.htm",
+  "https://www.ibabynews.com/news/articleView.html?idxno=153849",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608210289&t=NN",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443129",
+  "http://www.newstomato.com/ReadNews.aspx?no=1310945&inflow=N",
+  "https://www.ddaily.co.kr/page/view/2026082109452401716",
+  "https://www.ddaily.co.kr/page/view/2026082109380840798"
  ],
  "seen_titles": [
-  "클라우데라,엔비디아와협력해아파치스파크가속…클라우드비용절...",
-  "\"외화계좌타고번진보이스피싱\"...금융당국,전금융권'대포통장'전...",
-  "SKT,3G서비스신규가입중단계획발표",
-  "서울YMCA\"KT·LGU+해킹은폐…위약금면제등강력제재해야\"",
-  "[통신View]3G세대교체·AI동맹·공간DX…미래먹거리승부수",
-  "괴산군,문화체육센터서드론테러대응실제훈련",
-  "'단돈2억'삼성뜻밖의우승승부수탄생인가…\"1등만했으면좋겠어요...",
-  "마벨,구글과AI칩파트너십확대…주가9.85%급등",
-  "카카오,카나나키워카톡으로…자체AI서비스확장속도",
-  "수백TB현장데이터로로봇손을가르친다…리얼월드,AWS피지컬AI1기...",
   "AI는어떻게일터를바꾸나…HP가그린'일의미래'[르포]",
   "\"40조소각은예고편,'360만닉스'간다\"…\"삼성전자,AI투자3년내회수...",
   "KT,산업별AX동맹넓힌다…플랫폼사업화속도",
@@ -6001,7 +5991,17 @@
   "KT,Z세대소비키워드공개…'알고리즘이구매결정'",
   "'스크롤픽'이뭐길래…Z세대가뽑은트렌드키워드5",
   "\"취향·경험으로관계형성…알고리즘따른소비행태\"…Z세대트렌드",
-  "KT,Z세대가뽑은2026년5대트렌드키워드발표"
+  "KT,Z세대가뽑은2026년5대트렌드키워드발표",
+  "홈앤쇼핑권진미대표,'청소년불법도박근절'릴레이캠페인동참",
+  "[코스피·코스닥,삼성전자SK하이닉스㈜코오롱롯데카드현대해상이랜...",
+  "[유통갤러리]삼양식품,문체부와손잡고K-푸드알린다…태국'LoveKore...",
+  "CJ제일제당PHA소재,석유계플라스틱대체재로美언론주목",
+  "[가전트렌드]코웨이,용기제약없앤'S인덕션'출시外",
+  "하루만에사라진‘긴급바이백’약발...美증시일제히하락-[글로벌...",
+  "우리은행,2026년을지연습참여…비상시금융서비스연속성점검",
+  "이대통령,최태원과비공개만찬…‘호남반도체’실행점검했나",
+  "엔비디아의존줄인다…웨이모,로보택시전용AI반도체첫개발",
+  "美규제피해LPU로中재진입노렸나…엔비디아사실무근"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,17 @@
   [
    "2026-08-21T09:44:17.235768+09:00",
    "컨퍼런스 ~KT 개최 Y트렌드"
+  ],
+  [
+   "2026-08-21T09:48:14.891897+09:00",
+   "줄인다 웨이모 개발 의존 로보택시 반도체 전용"
+  ],
+  [
+   "2026-08-21T09:48:14.891897+09:00",
+   "노렸나 사실무근 LPU로 규제 피해 재진입"
   ]
  ],
- "last_run": "2026-08-21T09:46:38.045068+09:00",
+ "last_run": "2026-08-21T09:48:42.287268+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
