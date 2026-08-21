@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000329886?division=NAVER",
-  "https://www.donga.com/news/Inter/article/all/20260821/134516190/2",
   "https://biz.sbs.co.kr/article_hub/20000329884?division=NAVER",
   "https://www.hankookilbo.com/news/article/A2026082009480003686?did=NA",
   "https://www.wikitree.co.kr/articles/1153771",
@@ -2999,11 +2997,11 @@
   "https://www.tokenpost.kr/news/cryptocurrency/395398",
   "https://www.wikitree.co.kr/articles/1153768",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694776",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170279"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170279",
+  "https://www.yna.co.kr/view/AKR20260822006251072?input=1195m",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694777"
  ],
  "seen_titles": [
-  "스트라이프,AI모델플랫폼오픈라우터11조원에인수",
-  "[글로벌비즈브리핑]비트코인'깜짝폭등'…10만달러파격전망까지...",
   "‘AI데이터센터’찬반논란,美중간선거뜨거운감자로",
   "中AI,압도적가성비로美삼켰다…보급률·실무성능역전",
   "민주주의기술동맹의위기와한국[AI가바꾸는세상]",
@@ -6001,7 +5999,9 @@
   "온도34.9%로토큰화주식선두",
   "유아이패스“마에스트로플로우”,화요일프로토타입을금요일운영환...",
   "브로드컴,AI칩금융위해700억~800억달러차입협의",
-  "美국채금리상승세에도...미국증시'반등',다우1%'껑충'"
+  "美국채금리상승세에도...미국증시'반등',다우1%'껑충'",
+  "뉴욕증시,美국채금리상승에도저가매수세에반등…다우1%↑(종합)",
+  "젠슨황서명두번담긴블랙웰GPU,경매서5만7450달러낙찰"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,13 @@
   [
    "2026-08-22T06:32:14.733980+09:00",
    "안본다 고객 30일 데이터 vs 보관"
+  ],
+  [
+   "2026-08-22T06:44:14.485131+09:00",
+   "경매서 담긴 GPU 서명 낙찰 블랙웰 젠슨 5만7450달러"
   ]
  ],
- "last_run": "2026-08-22T06:42:36.638155+09:00",
+ "last_run": "2026-08-22T06:44:39.226799+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
