@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000329797?division=NAVER",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=271255",
-  "http://www.iminju.net/news/articleView.html?idxno=168325",
   "http://www.kdfnews.com/news/articleView.html?idxno=186824",
   "https://www.mediapen.com/news/view/1117737",
   "https://www.ddaily.co.kr/page/view/2026082016482257655",
@@ -2999,12 +2996,12 @@
   "https://www.cwn.kr/news/articleView.html?idxno=53936",
   "https://ent.sbs.co.kr/news/article.do?article_id=E10010320958&plink=ORI&cooper=NAVER",
   "https://www.gukjenews.com/news/articleView.html?idxno=3671066",
-  "https://www.aitimes.com/news/articleView.html?idxno=214219"
+  "https://www.aitimes.com/news/articleView.html?idxno=214219",
+  "http://www.iminju.net/news/articleView.html?idxno=168402",
+  "https://biz.sbs.co.kr/article_hub/20000330084?division=NAVER",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170271"
  ],
  "seen_titles": [
-  "중국AI질주에긴장한미,클라우드수출통제도추진…한국등에동참...",
-  "[증시인사이트]하이닉스주주환원이이끈반등…코스피곧7천선도달...",
-  "\"전시에너지공급체계점검\"…SK이노베이션,해군첫해상급유훈련지...",
   "민간인증기관서버해킹…靑인사등개인정보털렸다",
   "AI,이제'잘만드는것'보다'잘쓰는것'…현장적용∙사업화속도",
   "보이스피싱정보공유플랫폼출범9개월…664억원피해차단",
@@ -6001,21 +5998,12 @@
   "'캐리어시신사건'실체밝힌대구지검,과학수사우수사례선정",
   "[꼬꼬무찐리뷰]탈레반굴복시킨'선글라스맨'20년만에최초등장…목...",
   "부여군의회,21일임시회개회…추경예산·기금계획등심의돌입",
-  "오픈AI,맥용챗GPT에'애플메시지'플러그인탑재...\"아이메시지읽고..."
+  "오픈AI,맥용챗GPT에'애플메시지'플러그인탑재...\"아이메시지읽고...",
+  "[금융계동향]흥국화재·교보생명·KB손해보험",
+  "[증시인사이트]반도체투톱삼전·닉스강세…코스피상승세이어질까",
+  "코스피'버티고',코스닥'폭락'...바이오&로봇주'출렁'"
  ],
  "recent_sigs": [
-  [
-   "2026-08-21T10:44:16.545669+09:00",
-   "YTN 놓고 파행 취소 청문 변경승인"
-  ],
-  [
-   "2026-08-21T10:46:16.684244+09:00",
-   "이유 생산공장 대형 소식 SK하이닉스와 관련해 일본에 전해진"
-  ],
-  [
-   "2026-08-21T10:46:16.684244+09:00",
-   "유출 알선 기술 이직 처벌 위한 받는다 법적"
-  ],
   [
    "2026-08-21T10:48:13.697884+09:00",
    "규모보다 인프라 ~KT 확장성이 중요 효율성과 경쟁력"
@@ -6427,9 +6415,13 @@
   [
    "2026-08-21T16:44:15.540467+09:00",
    "읽고 맥용 플러그인 아이메시지 챗GPT에 탑재 메시지 애플"
+  ],
+  [
+   "2026-08-21T16:46:17.172519+09:00",
+   "바이오 로봇주 출렁 버티고 코스닥 코스피 폭락"
   ]
  ],
- "last_run": "2026-08-21T16:44:33.271111+09:00",
+ "last_run": "2026-08-21T16:46:35.123901+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
