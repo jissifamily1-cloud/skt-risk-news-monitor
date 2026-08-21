@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/blockchain/394180",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=105447",
-  "https://www.hankookilbo.com/news/article/A2026082014160002413?did=NA",
-  "https://www.newspim.com/news/view/20260820001190",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694344",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=761899",
-  "https://www.sportsworldi.com/newsView/20260820520314",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37514",
   "https://www.gukjenews.com/news/articleView.html?idxno=3669969",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=53576",
   "https://www.news1.kr/it-science/internet-platform/6264696",
@@ -2999,17 +2991,17 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=858596",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=364012",
   "http://www.inews24.com/view/1997202",
-  "https://en.yna.co.kr/view/AEN20260821009100315?input=2106m"
+  "https://en.yna.co.kr/view/AEN20260821009100315?input=2106m",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=546782",
+  "https://view.asiae.co.kr/article/2026082108525509920",
+  "https://www.bloter.net/news/articleView.html?idxno=671091",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694637",
+  "http://www.4th.kr/news/articleView.html?idxno=2116702",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5213967",
+  "https://www.ytn.co.kr/_ln/0103_202608211659311213",
+  "https://www.tokenpost.kr/news/breaking/394957"
  ],
  "seen_titles": [
-  "래블업,'OCP코리아테크데이'서AI에이전트보안·이기종가속기테...",
-  "한국간편결제진흥원·라인넥스트·아이씨비글로벌결제활성화업무협...",
-  "제네시스,초대형럭셔리플래그십SUV'GV90네오룬·GV90'전격공개",
-  "'엔비디아의존벗어나자'...정부,AMD와국산NPU실증약속",
-  "민간인증기관해킹에청와대인사등개인정보유출...경찰수사착수",
-  "[데일리픽]비트코인,美정책겹호재에7만달러육박…통신3사'모두의...",
-  "현대엔지니어링,한국전기차충전서비스흡수합병…전기차충전사업자...",
-  "[토크박스]LG우타듀오문정빈-송찬의…사령탑의당부“부담없이,...",
   "코스피급등에도공매도2.3조원↑…SK하이닉스가1위",
   "추경호대구광역시장,세계마스터즈육상경기대회준비현장점검",
   "그노랜드,오픈소스'gnomcp'공개···AI코딩에서보안까지스마트컨...",
@@ -6001,7 +5993,15 @@
   "박윤영체제첫임단협…KT노조첫요구는?",
   "KT,Z세대가선정한5대키워드공개…\"고객경험개선\"",
   "[시승기]140년헤리티지위에디지털입힌'더뉴S클래스'…럭셔리의...",
-  "YonhapNewsSummary"
+  "YonhapNewsSummary",
+  "\"풀체인지같은파격적시도,한국고객에더가까이\"벤츠더뉴S-클래...",
+  "[타보니]140년헤리티지에'한국특화SW'더했다…더뉴S클래스",
+  "[AI광고열전]쿠키리스시대,데이터가답…CJ메조미디어'애들리'",
+  "[데일리픽]카카오지배구조바뀌나…비트와이즈가꼽은암호화폐3대...",
+  "화재대피부터전산복구까지…금융권,비상대응체계점검",
+  "8월21일미리보는MBN뉴스7",
+  "제주실종'골든타임'날려버린경찰의거짓말...왜?[이슈ON]",
+  "엔비디아,한국AI칩리벨리온인수협상보도"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,17 @@
   [
    "2026-08-21T17:02:16.442812+09:00",
    "투입 경제 산업계 삼성전자 광주사업장에 2400억원"
+  ],
+  [
+   "2026-08-21T17:08:14.828118+09:00",
+   "경찰의 날려버린 거짓말 실종 골든타임 제주"
+  ],
+  [
+   "2026-08-21T17:08:14.828118+09:00",
+   "리벨리온 한국 보도 협상 인수"
   ]
  ],
- "last_run": "2026-08-21T17:06:31.947812+09:00",
+ "last_run": "2026-08-21T17:08:38.938208+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
