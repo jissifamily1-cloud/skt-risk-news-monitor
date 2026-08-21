@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11610417",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03355446645549288",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=316094",
-  "https://dealsite.co.kr/articles/167531",
-  "https://thetracker.co.kr/View.aspx?No=4192494",
-  "https://news.unn.net/news/articleView.html?idxno=596130",
-  "https://www.cstimes.com/news/articleView.html?idxno=717397",
-  "https://www.dt.co.kr/article/12079173",
-  "https://www.newsgn.com/news/articleView.html?idxno=568741",
-  "https://www.etoday.co.kr/news/view/2616302",
-  "https://www.ceoscoredaily.com/page/view/2026082010392459346",
   "https://www.itbiznews.com/news/articleView.html?idxno=222269",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83509",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2461072",
@@ -2999,20 +2988,20 @@
   "https://www.ddaily.co.kr/page/view/2026082109193975205",
   "https://www.dailian.co.kr/news/view/1680609/?sc=Naver",
   "https://www.asiatime.co.kr/article/20260821500049",
-  "https://www.sisain.co.kr/news/articleView.html?idxno=58313"
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58313",
+  "http://www.wsobi.com/news/articleView.html?idxno=316789",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134645",
+  "http://www.inews24.com/view/1996956",
+  "https://zdnet.co.kr/view/?no=20260821084030",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694521",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694519",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405855",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134650",
+  "https://thetracker.co.kr/View.aspx?No=4193867",
+  "https://www.news1.kr/local/daejeon-chungnam/6265212",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694529"
  ],
  "seen_titles": [
-  "KT,AI스타트업16곳낙점…AX사업공동발굴",
-  "KT,AI스타트업16곳낙점…\"AX사업파트너로키운다\"",
-  "“회장님·사장님중연봉킹은누구?”두산박정원456억’1위…CEO중...",
-  "'금품수수관여'건진법사변호인,2심감형…法\"특검수사대상아냐\"",
-  "금융위\"대포통장뿌리뽑는다\"…전금융권실태조사착수",
-  "[오늘의게임·IT소식]강율빈넵튠대표,印‘미디어퀘스트서밋20...",
-  "SK하이닉스,차세대광인터커넥트'CPO'기술로드맵제시",
-  "경운대,SDT-모빌린트와'양자·AI드론'협약…글로벌무인이동체시장...",
-  "오픈AICFO\"내년상장할것…앤트로픽보다늦어도괜찮아\"",
-  "“이체막고대포폰잡고”…보이스피싱660억막아낸AI플랫폼",
-  "거창군,2026년을지연습실제훈련성료",
   "'노데스'유나라ㆍ케이틀린⋯젠지,'룰러'활약앞세워PO2R확보",
   "“새벽·신선배송돼~요”…롯데마트제타,이대호앞세워부산·영남권...",
   "스노우플레이크,AI모델선택권늘린다…\"오픈모델접근성확대\"",
@@ -6001,7 +5990,18 @@
   "[셀럽稅스토리]\"테슬라로번돈,세금으로토해낼라\"…서학개미가알...",
   "LG유플러스‘Simply.U+’,레드닷디자인어워드본상",
   "KT,Z세대5대트렌드키워드공개…\"고객경험개선에반영\"",
-  "글로벌AI격변,한국의중국의가는길이다르다"
+  "글로벌AI격변,한국의중국의가는길이다르다",
+  "LG전자·LGU+,IDEA2026서17개수상·'Simply.U+'레드닷디자인어워드...",
+  "목동윤슬자이,전호실발코니적용…중대형오피스텔공간활용도높여",
+  "AI가바꾼게임생태계지형…자동사냥에도우미까지[IT돋보기]",
+  "챗GPT,이제아이메시지도읽고보낸다…시리랑충돌하나",
+  "카페24,한국직업전문학교와AI인재양성협약",
+  "카카오톡떼어내나...카카오,오늘긴급타운홀·공시",
+  "다나와,그래픽카드가격상승에수요도'양극화'",
+  "KT,Z세대목소리듣는다…'스크롤픽'등5대트렌드공개",
+  "KT,‘네트왓킹·스크롤픽’…Z세대가뽑은트렌드5대키워드공개",
+  "기술유출브로커·해킹등'지능화된영업비밀침해'법으로처벌",
+  "웨이모,1000조연산자율주행칩직접만들었다…엔비디아·AMD여전히..."
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,13 @@
   [
    "2026-08-21T09:30:29.656774+09:00",
    "중국의 격변 다르다 글로벌 가는 길이 한국의"
+  ],
+  [
+   "2026-08-21T09:32:15.445923+09:00",
+   "웨이모 연산 자율주행 AMD 여전히 만들었다 1000조 직접"
   ]
  ],
- "last_run": "2026-08-21T09:30:47.045750+09:00",
+ "last_run": "2026-08-21T09:32:39.062581+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
