@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694359",
-  "https://www.dailian.co.kr/news/view/1680394/?sc=Naver",
-  "https://www.mt.co.kr/tech/2026/08/20/2026082014332529488",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=316175",
   "https://www.newsis.com/view/NISX20260820_0003756226",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271030",
@@ -2999,12 +2996,12 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=130289",
   "https://www.mk.co.kr/article/12133188",
   "https://kpenews.com/View.aspx?No=4194572",
-  "https://www.cnbizm.com/news/articleView.html?idxno=312309"
+  "https://www.cnbizm.com/news/articleView.html?idxno=312309",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3670895",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241133",
+  "http://www.inews24.com/view/1997082"
  ],
  "seen_titles": [
-  "SK이노베이션,을지연습참여…전시유류인수·분배훈련실시",
-  "공주시,박물관테러·화재대비합동훈련…문화유산보호체계점검",
-  "KTOA\"AI보안·안전성은생존의문제\"…민·관거버넌스강조",
   "방미통위,유료방송민관협의체출범…요금·약관·콘텐츠사용료논의",
   "AMD,연내아시아최초AIR&D센터韓설립…정부,엔비디아의존도낮...",
   "\"AI가인용하는정보,SNS가1위…기업마케팅의새전쟁터열렸다\"",
@@ -6001,13 +5998,12 @@
   "SK브로드밴드,서울국제여성영화제특집관운영…상영작34편선봬",
   "앤트로픽,스페이스X넘어‘역대최대’메가IPO전망",
   "앤트로픽,스페이스X기록깰수도..역대최대IPO상장검토",
-  "[리더&CEO]최태원SK회장의'AI풀스택'승부수"
+  "[리더&CEO]최태원SK회장의'AI풀스택'승부수",
+  "대전TP,이차전지소재·셀분석실무인재키운다",
+  "[위클리시그널]SKT·KT,'모두의AI'사업출사표…위성통신재난대응...",
+  "리테일한계드러낸업비트·빗썸…기관시장선점도'빨간불'"
  ],
  "recent_sigs": [
-  [
-   "2026-08-21T08:54:15.697877+09:00",
-   "유포 2천곳 워드프레스 탈취 악성코드 지갑"
-  ],
   [
    "2026-08-21T08:58:12.954476+09:00",
    "GPU 대규모 최신 IBM 배경은 공급키로 투게더AI에"
@@ -6503,9 +6499,17 @@
   [
    "2026-08-21T14:54:15.420768+09:00",
    "풀스택 SK 승부수 회장의"
+  ],
+  [
+   "2026-08-21T14:56:27.498502+09:00",
+   "재난 모두의 대응 사업 출사표 ~KT ~SKT 위성통신"
+  ],
+  [
+   "2026-08-21T14:56:27.498502+09:00",
+   "리테일 한계 기관시장 빨간불 업비트 드러낸 빗썸 선점도"
   ]
  ],
- "last_run": "2026-08-21T14:54:32.955740+09:00",
+ "last_run": "2026-08-21T14:56:50.315562+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
