@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260820010006608",
-  "http://www.newsworker.co.kr/news/articleView.html?idxno=442003",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479011",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3669658",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000004480&cp=nv",
-  "http://www.journalist.or.kr/news/article.html?no=61490",
-  "https://www.hankyung.com/article/202608202187i",
-  "https://imnews.imbc.com/news/2026/society/article/6846047_36918.html",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=04139366645549288",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=252770",
-  "https://www.yna.co.kr/view/AKR20260819118600009?input=1195m",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260820010006664",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336563",
   "http://www.4th.kr/news/articleView.html?idxno=2116630",
@@ -2999,20 +2988,20 @@
   "https://www.ddaily.co.kr/page/view/2026082111184482375",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=362039",
   "https://www.news1.kr/it-science/cc-newmedia/6265437",
-  "https://biz.sbs.co.kr/article_hub/20000329980?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000329980?division=NAVER",
+  "https://biz.heraldcorp.com/article/10847937",
+  "https://biz.heraldcorp.com/article/10847940",
+  "https://www.asiatime.co.kr/article/20260820500164",
+  "https://www.ddaily.co.kr/page/view/2026082111260637340",
+  "https://www.nocutnews.co.kr/news/6565995",
+  "https://www.sedaily.com/article/20081772",
+  "https://www.sedaily.com/article/20081771",
+  "https://game.donga.com/123908/",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=363972",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=224659",
+  "https://www.ddaily.co.kr/page/view/2026082111251860105"
  ],
  "seen_titles": [
-  "韓공연으로이어지는J-팝열풍…‘기무라타쿠야’부터‘후지이카제...",
-  "KBS편성위또파행조짐…\"사측,방미통위말안듣겠다해\"",
-  "서울YMCA\"해킹증거은폐KT·LGU+,강력한추가제재필요\"",
-  "추억의3G,역사속으로...SKT,23년만에신규가입중단,남은사용자...",
-  "차세대금융생태계확장모멘텀…블록체인테마상승랠리뚜렷",
-  "대구보건대학교,부산오스템임플란트서'디지털치과산업교원연수'개...",
-  "한양사이버대“AI에끌려가지않고AI를다루는대학으로”",
-  "미국지역·중소언론들,AI펠로우지원으로비즈니스창출",
-  "불법촬영물사이트6683곳여전히접속…정부'사이트자체무력화'나선...",
-  "성착취물삭제위한수사기관'합법적해킹'도입‥디지털성범죄통합대...",
-  "씨이랩,엔비디아AI제품28억공급계약",
   "국민연금·KIC,'미장'에서엔비디아비중줄이고스페이스X담았다",
   "WSJ\"오픈AI2분기매출18%↑…영업손실은확대\"",
   "불법촬영물유통'뿌리'뽑는다…사이트열기만해도'처벌'",
@@ -6001,7 +5990,18 @@
   "방미통위,YTN변경승인취소청문불발…위원2명심의거부",
   "카페24,직업전문학교와손잡고실무형AI인재양성",
   "고민수,방미통위부위원장선출…지상파13개방송국재허가(종합)",
-  "[다음주경제일정]美연준잭슨홀미팅·한은금통위주목…엔비디아..."
+  "[다음주경제일정]美연준잭슨홀미팅·한은금통위주목…엔비디아...",
+  "‘심플리U+’레드닷디자인어워드본상",
+  "Z세대가뽑은2026트렌드‘네트왓킹·스크롤픽’",
+  "AI로보이스피싱664억원예방성과…불법자금유통'원천차단'",
+  "[전문가기고]사람을위해만들어진브랜드,만약구매자가알고리즘이...",
+  "AI,우주선이기나?…앤트로픽,스페이스X넘는상장대박전망",
+  "제이엘티,67억규모글로벌팁스기술개발기업선정",
+  "주가99%폭락한트럼프주니어의‘마가쇼핑몰’…“상폐경고”",
+  "하루도안돼예약석매진…‘이환’,GGX·T1베이스캠프서‘PC방캉스...",
+  "우리은행,을지연습으로비상대응체계점검...사이버공격·뱅크런까지...",
+  "LG유플러스'Simply.U+',레드닷디자인어워드본상…리브랜딩경쟁력...",
+  "방미통위초대부위원장에고민수…“국민권익보호에최선”"
  ],
  "recent_sigs": [
   [
@@ -6605,7 +6605,7 @@
    "가상자산사업자 해외기업 비트고코리아"
   ]
  ],
- "last_run": "2026-08-21T11:28:34.911560+09:00",
+ "last_run": "2026-08-21T11:30:46.224205+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
