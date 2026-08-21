@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12314311?influxDiv=NAVER",
-  "https://www.goodkyung.com/news/articleView.html?idxno=290476",
-  "https://www.mk.co.kr/article/12132525",
-  "https://biz.heraldcorp.com/article/10846916",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714139&plink=ORI&cooper=NAVER",
   "https://www.mydaily.co.kr/page/view/2026082018010800220",
   "https://www.thelec.kr/news/articleView.html?idxno=61174",
   "https://www.ddaily.co.kr/page/view/2026082017530640926",
@@ -2999,14 +2994,14 @@
   "https://www.ajunews.com/view/20260821190245712",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642947",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190235.html",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=126275"
+  "http://www.rookie.co.kr/news/articleView.html?idxno=126275",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431288",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214014",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260821191624X85",
+  "https://news.jtbc.co.kr/article/NB12314477?influxDiv=NAVER",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=126274"
  ],
  "seen_titles": [
-  "방미통위,광주서비상방송제작·송출훈련진행",
-  "“미국기업차별하나”항의에방미통위“국적차별없어”",
-  "[심층진단]'OTT공룡'으로주목받던티빙·웨이브합병…진전있을까",
-  "靑고위직개인정보이어언론사·병원까지뚫렸다",
-  "“단순투자는아니지만…”삼성전자보유美마벨지분가치5년새7배...",
   "[D리포트]한국인관련영상만'215만'…\"합법적해킹\"차단넘어'삭제...",
   "“유니폼도좀찢어지고,심리적안정을위해서…”KIA김도영지명타...",
   "민간인증기관해킹에청와대인사정보유출…경찰수사중",
@@ -6001,7 +5996,12 @@
   "카카오노조,인적분할에'공동교섭'으로대응…\"경영실패·고용대책부...",
   "[단독]‘노태우비자금’압수수색…장남재단‘세탁통로’의심",
   "엔비디아,\"중국전용LPU없다\"…'연내출시설'부인",
-  "가스공사에성공적적응중인이적생...박준영향한강혁감독의칭찬..."
+  "가스공사에성공적적응중인이적생...박준영향한강혁감독의칭찬...",
+  "[亞증시-종합]中·臺·홍콩증시상승…日하락",
+  "'비자금은닉의혹'노태우전대통령부인김옥숙여사자택압수수색",
+  "검찰,'노태우비자금'첫강제수사…김옥숙여사자택압수수색",
+  "이혼소송이들춰낸'비자금'…'노태우일가'수사시작됐다",
+  "시원한외곽포로승리챙겼다!'람보슈터'의KT공격달라질까...문경은..."
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,13 @@
   [
    "2026-08-21T19:02:15.824404+09:00",
    "갈까 어디로 카카오X는"
+  ],
+  [
+   "2026-08-21T19:18:15.517869+09:00",
+   "챙겼다 ~KT 시원한 공격 승리 외곽포로 람보슈터 문경은 달라질까"
   ]
  ],
- "last_run": "2026-08-21T19:16:28.637500+09:00",
+ "last_run": "2026-08-21T19:18:33.768215+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
