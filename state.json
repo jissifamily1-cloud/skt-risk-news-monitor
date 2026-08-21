@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=186824",
-  "https://www.mediapen.com/news/view/1117737",
-  "https://www.ddaily.co.kr/page/view/2026082016482257655",
-  "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1779388",
-  "http://www.updownnews.co.kr/news/articleView.html?idxno=318457",
-  "https://www.donga.com/news/Society/article/all/20260820/134513128/1",
-  "https://www.asiatime.co.kr/article/20260820500341",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=131741",
-  "https://byline.network/?p=9004111222616034",
-  "https://www.news1.kr/society/incident-accident/6264646",
   "https://www.gukjenews.com/news/articleView.html?idxno=3669959",
   "https://www.fetv.co.kr/news/articleView.html?idxno=308774",
   "https://www.newsis.com/view/NISX20260820_0003756455",
@@ -2999,19 +2989,19 @@
   "https://www.aitimes.com/news/articleView.html?idxno=214219",
   "http://www.iminju.net/news/articleView.html?idxno=168402",
   "https://biz.sbs.co.kr/article_hub/20000330084?division=NAVER",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170271"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170271",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479477",
+  "http://www.osen.co.kr/article/G1112861177",
+  "http://www.wsobi.com/news/articleView.html?idxno=316846",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=252912",
+  "https://www.news1.kr/world/europe/6265868",
+  "http://www.inews24.com/view/1997204",
+  "https://www.the-today.com/news/articleView.html?idxno=88751",
+  "https://www.news1.kr/society/court-prosecution/6265916",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2273555",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405890"
  ],
  "seen_titles": [
-  "민간인증기관서버해킹…靑인사등개인정보털렸다",
-  "AI,이제'잘만드는것'보다'잘쓰는것'…현장적용∙사업화속도",
-  "보이스피싱정보공유플랫폼출범9개월…664억원피해차단",
-  "[FRC2026]김지영SC제일은행부장“초국경금융범죄조직까지AI무장...",
-  "팀스위니대표“에픽플랫폼개방,언리얼6로이어간다”",
-  "LG에너지솔루션,미시간랜싱공장본격가동…북미ESS시장공략강화",
-  "靑고위급인사개인정보유출…北정찰총국‘라자루스’소행가능성",
-  "독파모2차평가성적표공개…SKT·LG·모티프‘항목별1위’",
-  "'하나금융지분25%보유'비트고코리아,가상자산사업자신고수리",
-  "오픈AI,‘챗GPT워크’시연…AI에업무맡겨결과물까지생성",
   "언론사·병원등국가배후조직에해킹…北소행가능성(종합)",
   "대구광역시,대구·경북2차공공기관이전간담회개최...'공정·조속추...",
   "[오늘의게임소식]넥슨'메이플스토리',신규보스'벨로나'업데이트...",
@@ -6001,13 +5991,19 @@
   "오픈AI,맥용챗GPT에'애플메시지'플러그인탑재...\"아이메시지읽고...",
   "[금융계동향]흥국화재·교보생명·KB손해보험",
   "[증시인사이트]반도체투톱삼전·닉스강세…코스피상승세이어질까",
-  "코스피'버티고',코스닥'폭락'...바이오&로봇주'출렁'"
+  "코스피'버티고',코스닥'폭락'...바이오&로봇주'출렁'",
+  "[코스피지수선물옵션]삼성전자·SK하이닉스상승...삼성전기·한미반...",
+  "“요즘SSG가잘하더라”1위감독,천적까지복귀‘걱정태산’…타...",
+  "CJ제일제당·CJCGV,미국언론서PHA조명받아·2분기세전이익흑자전...",
+  "''아마존이하면쿠팡도한다''…김범석의장의끝없는벤치마킹전략",
+  "해리왕자6년만의귀향에…'의절'형윌리엄과'라이벌궁정'우려",
+  "[일문일답]카카오\"인적분할,주주가치제고위한결정⋯카카오X,지주...",
+  "[이슈]이혼재판서빠진'노태우300억'…최태원·SK로수사번지나(1부...",
+  "檢'노태우비자금의혹'강제수사…\"피의자에노소영없어\"(종합2보)",
+  "LG유플러스,'Simply.U+'로레드닷디자인어워드본상",
+  "LG유플러스,'레드닷디자인어워드2026'본상수상…고객경험확대노..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-21T10:48:13.697884+09:00",
-   "규모보다 인프라 ~KT 확장성이 중요 효율성과 경쟁력"
-  ],
   [
    "2026-08-21T10:50:21.833842+09:00",
    "오데 15억달러 보도 출범에 지원"
@@ -6419,9 +6415,21 @@
   [
    "2026-08-21T16:46:17.172519+09:00",
    "바이오 로봇주 출렁 버티고 코스닥 코스피 폭락"
+  ],
+  [
+   "2026-08-21T16:48:15.036851+09:00",
+   "SK하이닉스 삼성전자 한미반 삼성전기 상승"
+  ],
+  [
+   "2026-08-21T16:48:15.036851+09:00",
+   "수사 이혼재판서 빠진 노태우 300억 SK로 1부 번지나"
+  ],
+  [
+   "2026-08-21T16:48:15.036851+09:00",
+   "의혹 강제수사 비자금 노태우 피의자에 없어 종합2보"
   ]
  ],
- "last_run": "2026-08-21T16:46:35.123901+09:00",
+ "last_run": "2026-08-21T16:48:41.196436+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
