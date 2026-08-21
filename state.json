@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1680404/?sc=Naver",
-  "http://www.fnnews.com/news/202608201523232809",
-  "https://news.jtbc.co.kr/article/NB12314248?influxDiv=NAVER",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003260576&CMPT_CD=P0010",
   "https://www.wikitree.co.kr/articles/1152700",
   "https://www.newsis.com/view/NISX20260820_0003756302",
@@ -2999,12 +2996,12 @@
   "https://www.tfmedia.co.kr/news/article.html?no=206625",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642836",
   "https://www.thereport.co.kr/news/articleView.html?idxno=90654",
-  "https://www.newscj.com/news/articleView.html?idxno=3426805"
+  "https://www.newscj.com/news/articleView.html?idxno=3426805",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=37525",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=224690",
+  "https://www.socialvalue.kr/news/view/1065592340006667"
  ],
  "seen_titles": [
-  "정부,'독파모'2차평가투명성논란에세부지표공개",
-  "화성시'찾아가는그냥드림'첫발…복지사각지대해소",
-  "KT,AI스타트업16곳선정…‘K-PATH’사업협력본격화",
   "인증기관해킹에靑인사등개인정보유출…\"청와대서버해킹아냐\"",
   "'OTT에치이고수익성뚝'…유료방송,정부와살길찾는다",
   "\"AI를민주화하라\"빅테크독점과국가패권에맞선동아시아시민사회",
@@ -6001,13 +5998,12 @@
   "8월중순수출552억달러'호조'…절반이반도체였다",
   "정상어학원회원개인정보유출…이름·연락처·학교등포함",
   "최태원이혼이소환한'노태우비자금'",
-  "[일문일답]\"카카오X,지주사전환없다\"…김도영·정신아가밝힌'분할..."
+  "[일문일답]\"카카오X,지주사전환없다\"…김도영·정신아가밝힌'분할...",
+  "쿠콘,2분기매출액전년동기대비7.3%증가",
+  "SK텔레콤,장중10만원돌파…6%급등하며10만2400원",
+  "LG유플러스,리브랜딩전략‘심플리.U+’로레드닷어워드수상"
  ],
  "recent_sigs": [
-  [
-   "2026-08-21T09:18:14.945419+09:00",
-   "인프라 제시 3축 AIDC ~KT 효율성 네트워크 시설 높인다"
-  ],
   [
    "2026-08-21T09:22:14.602574+09:00",
    "뉴스까지 올린 음식 티오더가 주문하다 뉴스가 태블릿에 ~KT"
@@ -6495,9 +6491,17 @@
   [
    "2026-08-21T15:16:15.239125+09:00",
    "지주사 밝힌 분할 김도영 카카오X 정신아가 없다"
+  ],
+  [
+   "2026-08-21T15:18:16.093181+09:00",
+   "~SKT 10만원 10만2400원 장중 급등하며 돌파"
+  ],
+  [
+   "2026-08-21T15:18:16.093181+09:00",
+   "레드닷 심플리 어워드 ~LGU LG유플러스 수상 리브랜딩 전략"
   ]
  ],
- "last_run": "2026-08-21T15:16:32.406480+09:00",
+ "last_run": "2026-08-21T15:18:54.860960+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
