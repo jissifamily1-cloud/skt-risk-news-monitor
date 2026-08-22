@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691883",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691886",
   "https://zdnet.co.kr/view/?no=20260810093133",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691284",
   "https://zdnet.co.kr/view/?no=20260808063232",
@@ -2999,11 +2997,11 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3671411",
   "https://news.unn.net/news/articleView.html?idxno=596162",
   "https://www.sedaily.com/article/20082074",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=156345"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156345",
+  "https://www.thepublic.kr/news/articleView.html?idxno=315679",
+  "https://www.thepublic.kr/news/articleView.html?idxno=315672"
  ],
  "seen_titles": [
-  "샌더스美상원의원\"통제못할AI개발멈춰라\"…오픈AI·앤트로픽·메...",
-  "메타CTO\"AI덕에시간벌었으니더일해라\"…휴가요구에는'발끈'",
   "메타AI비전내세운마크저커버그,왜대중의경계심만키웠나",
   "오픈AI는왜‘루나’를무료로풀었을까",
   "월드체인,17일메인넷에EIP-7928BAL도입...초당최대1기가가스처리...",
@@ -6001,7 +5999,9 @@
   "대구보건대평생교육원,지역특성화프로그램성료...22명이수",
   "[앵커선도대학을가다/부산앵커센터]해양수도완성승부수…'부산형...",
   "메모리사소캠2양산에소부장업계도‘꿈틀’[빛이나는비즈]",
-  "AI는의식이있는가…인간본성을데이터로바꾸는기술의위험"
+  "AI는의식이있는가…인간본성을데이터로바꾸는기술의위험",
+  "\"왜이렇게아이폰이많아요?\"의반전…아이폰충성고객도,갤럭시Z폴...",
+  "휴머노이드,몸체경쟁은글로벌해도…두뇌경쟁은'美엔비디아독주'..."
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,17 @@
   [
    "2026-08-22T10:00:31.949722+09:00",
    "능력에 모델 탈옥 화들짝 훈련 차세대"
+  ],
+  [
+   "2026-08-22T10:04:15.198089+09:00",
+   "충성고객도 이렇게 아이폰 반전 많아요 갤럭시 아이폰이"
+  ],
+  [
+   "2026-08-22T10:04:15.198089+09:00",
+   "두뇌 글로벌해도 엔비디아독주 몸체 휴머노이드 경쟁은"
   ]
  ],
- "last_run": "2026-08-22T10:02:30.325852+09:00",
+ "last_run": "2026-08-22T10:04:35.035242+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
