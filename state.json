@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=106078",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208145",
   "https://www.ddaily.co.kr/page/view/2026082109204366560",
   "https://www.ajunews.com/view/20260821091901438",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=105466",
@@ -2999,11 +2997,11 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479647",
   "https://www.edaily.co.kr/News/Read?newsId=01118486645550272&mediaCodeNo=257",
   "https://www.kbmaeil.com/article/20260823500019",
-  "https://www.sedaily.com/article/20082033"
+  "https://www.sedaily.com/article/20082033",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694382",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694562"
  ],
  "seen_titles": [
-  "[단독]음식주문하다KT뉴스가?...티오더가태블릿에뉴스까지올린...",
-  "블룸버그“앤트로픽IPO규모,스페이스X와맞먹거나그이상될것\"",
   "[김승주교수칼럼]전작권전환에차질이없으려면사이버보안부터챙...",
   "전국고등학생대상'사이버가디언즈CMX대회'성료",
   "[로펌라운지]광장,'ALBAsiaTopCybersecurity&DataLawFirms2026'선...",
@@ -6001,7 +5999,9 @@
   "뉴욕증시최대고비맞았다…연준의장입과엔비디아실적에쏠린눈",
   "엔비디아,AI서버값15%인상…\"원인은한국메모리\"",
   "이번주뉴욕증시‘3대분수령’…엔비디아·PCE·워시잭슨홀",
-  "마이크론,첫메모리연구소설립...‘삼전닉스추격할것’"
+  "마이크론,첫메모리연구소설립...‘삼전닉스추격할것’",
+  "(1차)역사속으로사라지는3G...SKT신규가입중단에'완전퇴장'채비",
+  "AI컨트롤타워넉달째공석...AI미래기획수석인선언제쯤"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,17 @@
   [
    "2026-08-23T07:48:15.327131+09:00",
    "의장 맞았다 실적에 연준 쏠린 뉴욕증시 입과 고비"
+  ],
+  [
+   "2026-08-23T07:56:15.391421+09:00",
+   "3G 속으로 퇴장 ~SKT 완전 1차 역사 중단에 사라지는 신규가입 채비"
+  ],
+  [
+   "2026-08-23T07:56:15.391421+09:00",
+   "언제쯤 공석 인선 컨트롤타워 달째 AI미래기획수석"
   ]
  ],
- "last_run": "2026-08-23T07:54:34.842691+09:00",
+ "last_run": "2026-08-23T07:56:34.762152+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
