@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3670539",
-  "https://www.mk.co.kr/article/12132998",
   "https://view.asiae.co.kr/article/2026082108191832889",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445029",
   "http://www.queen.co.kr/news/articleView.html?idxno=462031",
@@ -2999,11 +2997,11 @@
   "https://news.tf.co.kr/read/economy/2355518.htm",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694005",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271586",
-  "https://www.seoulfn.com/news/articleView.html?idxno=636223"
+  "https://www.seoulfn.com/news/articleView.html?idxno=636223",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643598",
+  "https://www.aitimes.com/news/articleView.html?idxno=214256"
  ],
  "seen_titles": [
-  "CJ제일제당생분해성바이오소재'PHA',美주요언론서우수성조명",
-  "대구광역시,청년창작자공모전...7팀에최대200만원제작비지원",
   "운동부터수면까지…‘웰니스성지’노린다는이백화점",
   "[AI룰메이커]②이해민\"AI시대디스토피아막을법만들었다\"",
   "[8월19일자]비즈니스포스트아침의주요기사",
@@ -6001,7 +5999,9 @@
   "과기정통부,민·관·군합동훈련으로전파혼신상황대응역량점검",
   "스칼렛요한슨이듣고경악한AI목소리…오픈AI'스카이'결국퇴출",
   "두달간5000편접수…LG유플러스-유튜브'유쓰AI숏폼'공모전성료",
-  "엔비디아,메모리품귀현상에주요제품가격인상"
+  "엔비디아,메모리품귀현상에주요제품가격인상",
+  "AI서버값‘고공행진’…엔비디아,고객사에가격15%인상예고",
+  "\"LLM보다하네스가핵심\"…엔비디아AVO,장기자율AI에이전트가능성..."
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,13 @@
   [
    "2026-08-23T10:54:13.196659+09:00",
    "네이버 기대 임박 ~SKT LG 웃고 2조달러 앤트로픽 몸값 IPO CNS도"
+  ],
+  [
+   "2026-08-23T10:58:14.571118+09:00",
+   "자율 장기 핵심 LLM보다 에이전트 하네스가 가능성 AVO"
   ]
  ],
- "last_run": "2026-08-23T10:56:38.444345+09:00",
+ "last_run": "2026-08-23T10:58:32.728438+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
