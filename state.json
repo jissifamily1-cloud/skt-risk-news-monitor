@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.unn.net/news/articleView.html?idxno=596113",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191195",
-  "https://www.news2day.co.kr/article/20260821500256",
-  "https://zdnet.co.kr/view/?no=20260821141013",
   "https://news.dealsitetv.com/articles/175047",
   "https://www.yna.co.kr/view/AKR20260821134551017?input=1195m",
   "http://www.yonhapnewstv.co.kr/news/MYH20260821171934K5b",
@@ -2999,13 +2995,13 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608211643450880106493",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608211342148720102448",
   "https://www.newscj.com/news/articleView.html?idxno=3426772",
-  "http://sateconomy.co.kr/news/view/1065563637658191"
+  "http://sateconomy.co.kr/news/view/1065563637658191",
+  "https://www.newspim.com/news/view/20260821000809",
+  "https://zdnet.co.kr/view/?no=20260821162018",
+  "https://www.mk.co.kr/article/12133375",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94103"
  ],
  "seen_titles": [
-  "CJ제일제당PHA,미국언론서조명…\"생분해성·상용화사례주목\"",
-  "[앵커선도대학을가다/신라대학교]미래모빌리티글로벌인재육성으로...",
-  "[보험NOW]현대해상·흥국화재·교보생명·동양생명",
-  "하우스사라,AI·IoT기반‘친환경숙박’본격해외진출",
   "카카오인적분할결단...\"호재\"vs\"악재\"",
   "[은행TalkTalk]KB금융,글로벌ESG평가지수'FTSE4Good'16년연속편...",
   "로봇이춤배우고아이돌도전…'피지컬AI'로진화한엔터테크(종합)",
@@ -6001,7 +5997,11 @@
   "[더벨][현장줌인]갤럭시코퍼,로봇파크정식오픈…\"목표의1%일뿐\"",
   "[더벨]민병덕·이강일\"디지털자산2단계법,하반기반드시통과\"",
   "AIagentsarebecomingthetechindustry'snewobsession",
-  "KT,7월확정된과징금왜6월장부고쳤나"
+  "KT,7월확정된과징금왜6월장부고쳤나",
+  "엘리베이터·차량관제가변수…SKT3G종료'마지막관문'",
+  "'모두의AI'뛰어든통신3사강점은?...\"AIDC·가입자\"",
+  "세계적인석학들의명품강연,무료로만나세요",
+  "[초점]\"잘나갈때미래에베팅\"…산업계,AI·SW로'다음성장판'선점..."
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,13 @@
   [
    "2026-08-24T07:04:13.018453+09:00",
    "고쳤나 6월 7월 확정된 장부 ~KT 과징금"
+  ],
+  [
+   "2026-08-24T07:06:15.079280+09:00",
+   "산업계 잘나갈 성장판 미래에 다음 선점 SW로 베팅"
   ]
  ],
- "last_run": "2026-08-24T07:04:39.108684+09:00",
+ "last_run": "2026-08-24T07:06:32.170614+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
