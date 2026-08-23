@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20081969",
-  "https://www.sedaily.com/article/20081970",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310880&inflow=N",
-  "https://weekly.donga.com/3/all/11/6356287/1",
   "http://www.yonhapnewstv.co.kr/news/MYH20260821174834Gbh",
   "https://www.ytn.co.kr/_ln/0103_202608211746068750",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431277",
@@ -2999,13 +2995,13 @@
   "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3538011&seq_800=20530903",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008717789&plink=ORI&cooper=NAVER",
   "http://www.press9.kr/news/articleView.html?idxno=81523",
-  "http://www.fnnews.com/news/202608240751410747"
+  "http://www.fnnews.com/news/202608240751410747",
+  "https://www.etoday.co.kr/news/view/2617215",
+  "https://biz.sbs.co.kr/article_hub/20000330264?division=NAVER",
+  "https://www.slist.kr/news/articleView.html?idxno=760736",
+  "https://www.newsis.com/view/NISX20260824_0003759185"
  ],
  "seen_titles": [
-  "'노태우비자금의혹'첫강제수사...김옥숙자택도포함",
-  "[단독]서버해킹않고앱으로정보탈취…구멍난‘API보안’",
-  "“금융위,시장원격조정불가능…지방이전땐위기대응력약화”",
-  "AI개발때개인정보활용특례신설…개인정보보호법개정안본회의통...",
   "외국인,이번주삼성전자7000억사고삼성전기9000억팔아",
   "[앵커리포트]'노태우비자금'베일벗나…검찰,강제수사나서",
   "'세기의이혼'이소환한'노태우비자금'...904억메모진실밝혀지나",
@@ -6001,7 +5997,11 @@
   "서울시민대학AI마스터위크성료",
   "곽빈'무실점역투'…두산,롯데6연승저지",
   "\"국산AI모델만으론부족\"…소버린AI기준'보유'서'운용'으로",
-  "엔비디아,10조원베팅해'개방형AI'승부…중국모델에맞불"
+  "엔비디아,10조원베팅해'개방형AI'승부…중국모델에맞불",
+  "[오늘의투자전략]코스피7000재도전…삼성전자주주환원이하단받친...",
+  "엔비디아,첨단오픈소스AI개발사우회인수",
+  "엔비디아,풀사이드와60억달러제휴…오픈웨이트AI강화",
+  "[오늘의증시]엔비디아·PCE·잭슨홀줄줄이대기…코스피'숨고르기'전..."
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,13 @@
   [
    "2026-08-24T07:56:15.357033+09:00",
    "승부 개방형 모델에 10조원 베팅해 맞불 중국"
+  ],
+  [
+   "2026-08-24T07:58:13.375038+09:00",
+   "제휴 오픈웨이트 풀사이드와 60억달러 강화"
   ]
  ],
- "last_run": "2026-08-24T07:56:32.621515+09:00",
+ "last_run": "2026-08-24T07:58:38.008827+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
