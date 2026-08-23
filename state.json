@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.celuvmedia.com/article.php?aid=1787272551526129007",
-  "http://fpn119.co.kr/255500",
-  "https://www.news1.kr/it-science/security-hacking/6262943",
   "https://www.techm.kr/news/articleView.html?idxno=154489",
   "https://www.the-today.com/news/articleView.html?idxno=88718",
   "https://www.theguru.co.kr/news/article.html?no=106098",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/PYH20260823023100013?input=1196m",
   "https://www.yna.co.kr/view/PYH20260823023000013?input=1196m",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431351",
-  "http://www.inews24.com/view/1997373"
+  "http://www.inews24.com/view/1997373",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88270",
+  "https://www.hankyung.com/article/2026082366417",
+  "https://www.dt.co.kr/article/12079560"
  ],
  "seen_titles": [
-  "퍼펙트월드'이환',여름이벤트'이환PC방캉스'개최…T1베이스캠프...",
-  "BTS정국노린해킹조직,380억탈취…中총책1심서징역20년[셀럽이슈...",
-  "동대문소방서,‘2026년을지연습’실전훈련ㆍ소방통로확보훈련",
   "과기정통부,GPS전파혼신대응태세점검…민·관·군합동훈련",
   "카카오,AI·투자별도법인으로나눈다...카카오AI·카카오X인적분할",
   "광물19개·AI41%싹쓸이…'트럼프의미국'이버린세계,중국이묶고...",
@@ -6001,7 +5998,10 @@
   "B필러없애고강성은12%높였다…제네시스GV90에쏟아부은'모든것'",
   "KT-서울시,서울로봇인공지능과학관서'AI미래캠프'진행",
   "KT,'모두의AI'는K-AI로…NPU·플랫폼·클라우드총집결",
-  "KT,'모두의AI'에국산AI풀스택투입⋯서비스기반마련"
+  "KT,'모두의AI'에국산AI풀스택투입⋯서비스기반마련",
+  "\"국산AI모델확보만으론부족\"…AI주권기준'보유'에서'운용'으로",
+  "\"AI붐청구서도착\"…엔비디아서버값15%오른다",
+  "엔비디아도못버틴메모리값…삼성·SK하이닉스‘슈퍼을’굳힌다"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,17 @@
   [
    "2026-08-23T10:28:16.008383+09:00",
    "얼마나 결국 메모리값 백기 올랐길래"
+  ],
+  [
+   "2026-08-23T10:36:13.896923+09:00",
+   "청구서 오른다 서버값 도착"
+  ],
+  [
+   "2026-08-23T10:36:13.896923+09:00",
+   "메모리값 굳힌다 슈퍼 엔비디아도 버틴 삼성 SK하이닉스"
   ]
  ],
- "last_run": "2026-08-23T10:34:30.172490+09:00",
+ "last_run": "2026-08-23T10:36:37.343278+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
