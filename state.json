@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694261",
-  "https://www.newsis.com/view/NISX20260821_0003757137",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115096",
-  "http://www.fnnews.com/news/202608210953384498",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851079",
-  "https://www.yna.co.kr/view/AKR20260821050200007?input=1195m",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4937412",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3670491",
   "https://www.ajunews.com/view/20260821095301576",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=252884",
   "https://www.mt.co.kr/stock/2026/08/21/2026082109503889678",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260823000010",
   "http://www.popcornnews.net/news/articleView.html?idxno=130496",
   "https://www.newsis.com/view/NISI20260823_0021407447",
-  "https://www.edaily.co.kr/News/Read?newsId=01233286645550272&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01233286645550272&mediaCodeNo=257",
+  "https://www.yna.co.kr/view/AKR20260821079000017?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3671751",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170300",
+  "https://www.edaily.co.kr/News/Read?newsId=01236566645550272&mediaCodeNo=257",
+  "https://www.etnews.com/20260821000042",
+  "https://www.etnews.com/20260821000245",
+  "https://www.mt.co.kr/tech/2026/08/23/2026082309224561554",
+  "https://www.newsis.com/view/NISX20260823_0003758715"
  ],
  "seen_titles": [
-  "오픈AI의'감속선언'…AI개발,무엇이달라질까",
-  "\"공통인프라취약점공격\"…상반기글로벌랜섬웨어피해4744건",
-  "LG유플러스,'Simply.U+'리브랜딩으로레드닷디자인어워드본상쾌거",
-  "광장,ALB'아시아최고사이버보안·데이터로펌'선정[로펌소식]",
-  "SK하이닉스,'日미야기현에메모리팹건립추진'보도\"사실무근\"",
-  "역전이끈'결승타'kt김민혁\"야수미팅덕분에부담내려놔\"",
-  "키비츠,잠실구장점령...시구·시타부터깜짝공연까지",
-  "승진문좁아진제주도첫정기인사…실·국장급'연쇄이동'촉각",
   "CJ제일제당PHA,美주요언론서주목…생분해성·상용화사례조명",
   "구글도1위,네이버도1위라고?…진짜국내검색엔진1위누구일까",
   "카페24,한국직업전문학교와MOU…실무형AI인재양성",
@@ -6001,7 +5993,15 @@
   "KT·서울시,초등학생100명대상'AI미래캠프'",
   "\"국산AI모델확보만으론부족\"…AI주권기준'보유'에서'운용능력'...",
   "제네시스GV90테크브리프에서취재진질문에답하는발표자들",
-  "\"챗GPT써도됩니다”…금감원직원들도업무중생성형AI활용"
+  "\"챗GPT써도됩니다”…금감원직원들도업무중생성형AI활용",
+  "[AI위클리]국산NPU부터AI에이전트까지…경쟁판넓어진다",
+  "추경호대구광역시장,타코마시대표단접견...경제·문화협력강화논...",
+  "美中,동남아에자국AI진영참여강요...'양자택일'압박",
+  "제네시스GV90,'기술의재설계'로탄생…'테크브리프'개최",
+  "통신3사,CPO권한강화규정마련착수…개보법개정대응",
+  "KT,아태6G생태계협정합류...韓주도권확보가속화",
+  "KT,'모두의AI'에국산NPU부터클라우드까지…AI풀스택구축",
+  "'모두의AI'도전하는KT,'AI풀스택전략'선보인다"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,21 @@
   [
    "2026-08-23T09:30:27.236032+09:00",
    "금감원 챗GPT 생성형 활용 업무 됩니다 써도 직원들도"
+  ],
+  [
+   "2026-08-23T09:32:13.597592+09:00",
+   "3사 통신 대응 착수 CPO 개보법 개정 마련 권한 강화 규정"
+  ],
+  [
+   "2026-08-23T09:32:13.597592+09:00",
+   "국산 NPU부터 에이전트까지 넓어진다 경쟁판"
+  ],
+  [
+   "2026-08-23T09:32:13.597592+09:00",
+   "가속화 ~KT 확보 협정 아태 생태계 6G 주도권 합류"
   ]
  ],
- "last_run": "2026-08-23T09:30:52.576198+09:00",
+ "last_run": "2026-08-23T09:32:43.572050+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
