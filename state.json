@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12314416?influxDiv=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=03614566645549616&mediaCodeNo=257",
   "https://www.mt.co.kr/tech/2026/08/21/2026082110015420121",
   "https://www.epnc.co.kr/news/articleView.html?idxno=405866",
   "http://www.youngnong.co.kr/news/articleView.html?idxno=61754",
@@ -2999,11 +2997,11 @@
   "http://www.osen.co.kr/article/G1112862431",
   "https://news.tf.co.kr/read/world/2356934.htm",
   "https://www.irobotnews.com/news/articleView.html?idxno=48060",
-  "https://www.khan.co.kr/article/202608232012025"
+  "https://www.khan.co.kr/article/202608232012025",
+  "https://www.ytn.co.kr/_ln/0102_202608232016351415",
+  "https://www.donga.com/news/Economy/article/all/20260823/134525288/1"
  ],
  "seen_titles": [
-  "앤스로픽,데이터센터확보박차...텍사스시설자금조달마무리",
-  "초대방미통위부위원장에고민수상임위원호선",
   "AI로기후재난·사회문제푼다…과기정통부국민챌린지",
   "총상금2800만원…폭우·지역소멸,AI기반해결책찾는다",
   "AIDC몰리는강원,의료·웰니스중심'지역특화AX'속도",
@@ -6001,7 +5999,9 @@
   "‘역대급충격패’이의리가끝내기만루홈런맞자,LG는환호성을질...",
   "오픈AI,최상위AI모델가격3개월간20%인하",
   "[WRC2026]\"눈앞에펼쳐진로봇유토피아\"…베이징로봇몰을가다",
-  "1980년대드라마‘V’저항군역할마이클라이트별세"
+  "1980년대드라마‘V’저항군역할마이클라이트별세",
+  "\"엔비디아·잭슨홀주목\"...기준금리결정도관심",
+  "브랜드플래그십GV90“루프에어백세계최초개발했다”"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-08-23T20:18:14.697298+09:00",
    "별세 마이클 라이트 1980년대 드라마 저항군 역할"
+  ],
+  [
+   "2026-08-23T20:20:26.690575+09:00",
+   "플래그십 개발했다 세계 GV90 에어백 브랜드 루프"
   ]
  ],
- "last_run": "2026-08-23T20:18:34.076285+09:00",
+ "last_run": "2026-08-23T20:20:44.691829+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
