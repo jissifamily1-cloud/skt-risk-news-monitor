@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213884",
-  "http://www.newsprime.co.kr/news/article.html?no=744635",
   "https://www.newspim.com/news/view/20260821000533",
   "https://imnews.imbc.com/news/2026/world/article/6845813_36925.html",
   "https://www.newspim.com/news/view/20260821000516",
@@ -2999,11 +2997,11 @@
   "https://www.ajunews.com/view/20260823165733042",
   "https://www.mk.co.kr/article/12134176",
   "https://www.dt.co.kr/article/12079665",
-  "https://www.newsis.com/view/NISX20260823_0003759024"
+  "https://www.newsis.com/view/NISX20260823_0003759024",
+  "https://www.hankyung.com/article/2026082371381",
+  "https://www.sedaily.com/article/20082273"
  ],
  "seen_titles": [
-  "[단독]대우건설,하안주공6·7단지서발뺀다…IPARK현산'무혈입성'전...",
-  "SK하닉,'일본반도체공장설'에\"결정된바없어\"부인",
   "[숏폼]일본반도체부활,최태원이완성할까?",
   "[AI프리뷰]21일창원NC-삼성전,주춤하는삼성원태인8월첫승거둘...",
   "오픈AI성장둔화에앤트로픽약진‥2분기에매출첫역전",
@@ -6001,7 +5999,9 @@
   "이란연계해커,英전력시설뚫었다…발전소나흘간가동중간",
   "삼전닉스'2배레버리지'에다시뭉칫돈…고위험베팅주의보",
   "앤트로픽,스페이스X넘어사상최대IPO노린다",
-  "젠슨황,韓리벨리온대표와회동…기술협력·인수가능성거론"
+  "젠슨황,韓리벨리온대표와회동…기술협력·인수가능성거론",
+  "칩플레이션에항복…엔비디아AI서버값15%인상",
+  "엔비디아AI서버값17%오른다"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-08-23T17:32:15.658364+09:00",
    "물가지표 26일 실적발표 PCE 27일"
+  ],
+  [
+   "2026-08-23T17:46:15.571307+09:00",
+   "항복 칩플레이션에 인상 AI서버값"
+  ],
+  [
+   "2026-08-23T17:46:15.571307+09:00",
+   "서버값 오른다"
   ]
  ],
- "last_run": "2026-08-23T17:44:29.684179+09:00",
+ "last_run": "2026-08-23T17:46:35.617623+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
