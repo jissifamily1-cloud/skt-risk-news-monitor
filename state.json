@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1996994",
-  "https://www.khan.co.kr/article/202608220700011",
   "https://economist.co.kr/article/view/ecn202608180049",
   "https://www.hankookilbo.com/news/article/A2026082009480003686?did=NA",
   "https://weekly.donga.com/3/all/11/6356161/1",
@@ -2999,11 +2997,11 @@
   "https://www.ekn.kr/web/view.php?key=20260824027035676",
   "https://www.dailian.co.kr/news/view/1681488/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260824076500017?input=1195m",
-  "https://view.asiae.co.kr/article/2026082115392440008"
+  "https://view.asiae.co.kr/article/2026082115392440008",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89592",
+  "http://www.thebigdata.co.kr/view.php?ud=2026082411124061400a47484cf8_23"
  ],
  "seen_titles": [
-  "국채금리5%대부담에도뉴욕증시반등…저가매수몰렸다",
-  "뉴욕증시,美국채금리상승에도저가매수세에반등…다우1%↑",
   "저가매수세에뉴욕증시3대지수반등…테슬라5%↑·코인주급등",
   "[8월21일]오픈AI가'컴퓨터유즈'에보인자신감…9년간이어온'행동하...",
   "글로벌기대작'GTA6'뜻밖의해킹홍역...무슨일?",
@@ -6001,7 +5999,9 @@
   "[똑똑한소비]롯데온,컬리,KT알파쇼핑,이마트24,11번가,현대백화점",
   "젠지,한화생명제치고LCK정규1위…'3년연속'정상",
   "삼성,스마트폰시장급감에도올해세계1위탈환전망",
-  "[AI세계속으로]\"고객데이터안본다\"vs\"30일보관\"…오픈AI-앤스로픽엇..."
+  "[AI세계속으로]\"고객데이터안본다\"vs\"30일보관\"…오픈AI-앤스로픽엇...",
+  "LG유플러스,보안취약점검증체계해외로넓혔다…'글로벌버그바운티...",
+  "LG유플러스,해커활용해보안취약점찾는다…‘버그바운티’운영"
  ],
  "recent_sigs": [
   [
@@ -6733,7 +6733,7 @@
    "700조 거래 성공할 실험 선물 원유처럼 반도체도 금융 엔비디아의"
   ]
  ],
- "last_run": "2026-08-24T11:34:32.150695+09:00",
+ "last_run": "2026-08-24T11:36:36.318590+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
