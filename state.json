@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-today.com/news/articleView.html?idxno=88796",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694812",
-  "https://www.dt.co.kr/article/12079524",
-  "https://www.newspim.com/news/view/20260821000158",
-  "https://biz.sbs.co.kr/article_hub/20000329941?division=NAVER",
-  "https://www.mt.co.kr/tech/2026/08/23/2026082215431890793",
-  "https://economist.co.kr/article/view/ecn202608190040",
-  "https://www.dailian.co.kr/news/view/1680897/?sc=Naver",
-  "https://www.bloter.net/news/articleView.html?idxno=671546",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=810494",
-  "https://www.xportsnews.com/article/2186687",
   "https://www.nocutnews.co.kr/news/6566208",
   "https://www.hankookilbo.com/news/article/A2026082109060003964?did=NA",
   "https://view.asiae.co.kr/article/2026082111210364658",
@@ -2999,20 +2988,20 @@
   "https://www.the-today.com/news/articleView.html?idxno=88791",
   "https://www.mk.co.kr/article/12135020",
   "https://www.mk.co.kr/article/12135022",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168727"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168727",
+  "https://www.sisaweek.com/news/articleView.html?idxno=237448",
+  "https://www.the-today.com/news/articleView.html?idxno=88793",
+  "https://www.m-joongang.com/news/articleView.html?idxno=402954",
+  "http://www.samdailbo.com/news/articleView.html?idxno=269406",
+  "http://www.lkp.news/news/articleView.html?idxno=83247",
+  "https://www.mt.co.kr/stock/2026/08/24/2026082417102089135",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260824172308XHn",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721467",
+  "https://www.newspost.kr/news/articleView.html?idxno=225146",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443251",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260824010007904"
  ],
  "seen_titles": [
-  "[핌in인천]'43일만의복귀전서2안타1득점'SSG에레디아,반등이끄나",
-  "알리바바,AI클라우드매출45%급성장…3년내손익분기점달성자신",
-  "일라이어스테일러별세...드라마'브이'서흑인저항군맡아한국서도...",
-  "김지찬3안타·최형우3타점,삼성라이온즈연패탈출…원정강자김재윤...",
-  "SK성장의비밀?…최태원·노소영이혼→300억비자금잔혹사(1부)",
-  "스트라이프\"AI쇼핑시대엔결제페이지사라질수도\"",
-  "둘로나뉘는카카오…‘B2CAI선두’비전에도안팎으로냉담",
-  "\"플랜티넷,네이버에AI용잡지콘텐츠공급\"-CMIR",
-  "[글로벌경제지표]美연준잭슨홀미팅·한은금통위주목…엔비디아실...",
-  "나도모르게...내위치·주행기록,중국서보고듣는다?개인정보이전...",
-  "실적호조에도못웃는LGU+…‘위약금면제’정당성논란",
   "벤츠S-클래스는‘플래그십’,MINI는‘폴스미스감성’으로승부[車...",
   "\"7시리즈꺾는다\"…벤츠,'한국맞춤형S클래스'로반격시동",
   "[이슈]현대엔지니어링,전기차충전계열사흡수합병",
@@ -6001,7 +5990,18 @@
   "[이슈]\"9,440억은시작일뿐\"…최태원떨게할'지분1%'의역습과소보...",
   "SKT,서울대와AI공동과정개설…첫강의는정재헌대표가맡는다",
   "KT,핵심IT시스템현대화…“AI가업무전과정돕는다”",
-  "엔비디아,퍼플렉시티추가투자검토…기업가치300억弗될듯"
+  "엔비디아,퍼플렉시티추가투자검토…기업가치300억弗될듯",
+  "카카오게임즈,1조5,400억주주환원재원마련…활용방안은?",
+  "[백용재칼럼]최태원의진짜위기는9440억아닌'제2의소버린'사태",
+  "이건희의'1등주의'에서이재용의'실리경영'으로DNA전환",
+  "[종합]장미란씨실종3개월만에주검으로…범죄연루가능성은낮아",
+  "AI가속기대면적화·ABF병목…삼성전기FC-BGA수율개선여부에관심...",
+  "코스피흔들릴때코스닥은반등…AI·금리이벤트주목",
+  "[비즈&]롯데,월드타워파크서무료야외클래식콘서트外",
+  "\"모두일상서쓸수있는AI\"…SKT,1천만에이닷으로'모두의AI'공략",
+  "이대통령,4대그룹총수와연쇄회동…첨단산업경쟁력논의",
+  "대한상의,신임경제연구총괄에이시욱전KIEP원장내정",
+  "부동산도잘굴리는KT…AI·주주환원실탄으로활용할까"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,21 @@
   [
    "2026-08-24T17:24:14.079361+09:00",
    "300억 될듯 기업가치 추가투자 검토"
+  ],
+  [
+   "2026-08-24T17:26:14.661311+09:00",
+   "콘서트 클래식 파크서 롯데 월드타워 무료 야외"
+  ],
+  [
+   "2026-08-24T17:26:14.661311+09:00",
+   "일상서 ~SKT 모두의 모두 1천만 공략 에이닷으로 있는"
+  ],
+  [
+   "2026-08-24T17:26:14.661311+09:00",
+   "주주환원 활용할까 굴리는 실탄으로 부동산도 ~KT"
   ]
  ],
- "last_run": "2026-08-24T17:24:33.374069+09:00",
+ "last_run": "2026-08-24T17:26:44.382478+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
