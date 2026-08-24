@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168411",
-  "https://www.newsis.com/view/NISX20260819_0003754026",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003258835&CMPT_CD=P0010",
-  "https://www.sedaily.com/article/20080771",
-  "https://www.seoulfn.com/news/articleView.html?idxno=635947",
   "https://www.hankookilbo.com/news/article/A2026081809250003282?did=NA",
   "http://www.fnnews.com/news/202608181624117328",
   "https://www.econovill.com/news/articleView.html?idxno=748259",
@@ -2999,14 +2994,14 @@
   "https://en.yna.co.kr/view/AEN20260824007800320?input=2106m",
   "http://www.joseilbo.com/news/news_read.php?uid=574366&class=17",
   "https://www.donga.com/news/Economy/article/all/20260824/134532397/1",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859047"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859047",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=557402",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1095374",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=53660",
+  "https://www.hankyung.com/article/202608249059g",
+  "https://economist.co.kr/article/view/ecn202608240034"
  ],
  "seen_titles": [
-  "[모닝뉴스브리핑]암호화폐24시간1억2076만달러청산外",
-  "오픈AI아스트라,연내공개베팅에도개발속도늦췄다",
-  "OpenAIpresenta‘ChatGPTparaadolescentes’antelacrecientepreocu",
-  "숙제정답대신질문한다…오픈AI‘청소년용챗GPT’출시",
-  "챗GPT성장둔화오픈AI…앤트로픽에매출추월당해",
   "AI가통제선넘자…오픈AI,최신모델훈련멈추고안전장치다시짠다",
   "저는아직삼십대청년입니다만,명퇴자네요",
   "챗GPT성장둔화에…오픈AI손실17조원으로확대",
@@ -6001,7 +5996,12 @@
   "KOSPI200ClosingPriceList-3",
   "스마트폰시장14%급감에도삼성은성장…애플제치고1위탈환전망",
   "SKT,서울대와‘미래AI리더’육성…15주간특강운영",
-  "LG유플러스,글로벌해커와보안취약점찾는다"
+  "LG유플러스,글로벌해커와보안취약점찾는다",
+  "김천시,드론·사이버테러대응합동훈련실시",
+  "충남대'CNUJOBFESTA'9월1~5일개최…하반기취업전략한자리",
+  "\"잘파는K-뷰티넘어세계트렌드만든다\"···수출114억달러시대",
+  "AX전환속도현대차그룹,이번엔24시간사내'이색대회'",
+  "엔비디아의서버가격인상,‘삼전닉스’에약일까독일까"
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,13 @@
   [
    "2026-08-24T15:44:15.866225+09:00",
    "특강 리더 운영 15주간 미래 서울대와 육성 ~SKT"
+  ],
+  [
+   "2026-08-24T15:46:15.343231+09:00",
+   "독일까 엔비디아의 인상 삼전닉스 약일까 서버 가격"
   ]
  ],
- "last_run": "2026-08-24T15:44:34.258015+09:00",
+ "last_run": "2026-08-24T15:46:36.250521+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
