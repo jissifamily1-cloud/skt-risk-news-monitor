@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608220178&t=NN",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170280",
-  "https://www.mediapen.com/news/view/1118159",
-  "https://www.hankyung.com/article/202608225783i",
-  "https://www.wikitree.co.kr/articles/1154025",
-  "https://www.newspim.com/news/view/20260822000002",
-  "https://www.joongang.co.kr/article/25455201",
-  "https://www.mt.co.kr/world/2026/08/22/2026082205431489045",
-  "https://www.tokenpost.kr/news/breaking/395302",
-  "https://www.donga.com/news/Economy/article/all/20260821/134522694/2",
-  "http://www.samdailbo.com/news/articleView.html?idxno=269313",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274157",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000005069&cp=nv",
   "http://www.yonhapnewstv.co.kr/news/AKR20260819163810PYJ",
@@ -2999,20 +2988,20 @@
   "https://www.tokenpost.kr/news/cryptocurrency/396307",
   "https://www.idaegu.com/news/articleView.html?idxno=665185",
   "https://www.g-enews.com/view.php?ud=202608241105304000e250e8e188_1",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=271679"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=271679",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643294",
+  "https://www.donga.com/news/Society/article/all/20260821/134522499/2",
+  "https://www.chosun.com/national/court_law/2026/08/22/SX7NYVCHKZFG5LTK5LF5C7LBH4/",
+  "https://www.sentv.co.kr/article/view/sentv202608240085",
+  "https://www.sportsworldi.com/newsView/20260824506654",
+  "http://www.metroseoul.co.kr/article/20260824500149",
+  "http://www.metroseoul.co.kr/article/20260824500155",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=309514",
+  "http://www.metroseoul.co.kr/article/20260824500153",
+  "http://www.metroseoul.co.kr/article/20260824500147",
+  "https://dealsite.co.kr/articles/167682"
  ],
  "seen_titles": [
-  "100대기업69곳에법조인독립이사82명",
-  "AI안전지수최고C+,오픈AI는C로하락",
-  "엔비디아하네스실험,클로드점수30%서100%",
-  "오픈AI매출조직재편,라지치가지휘한다",
-  "뉴욕증시,강한지표에저가매수세반등…내주엔비디아실적'촉각'",
-  "내주엔비디아실적촉각...미국증시반도체주'약세'마감",
-  "[美증시특징주]메모리등반도체보합권혼조…엔비디아실적발표앞...",
-  "엔비디아,월가는실적보다'이것'에더관심[박신영의개장전요것만]",
-  "엔비디아,풀사이드“모델팩토리”에60억달러쏟아붓고직원109명영...",
-  "[미국특징주]\"엔비디아,한국반도체스타트업리벨리온과잠재적거...",
-  "‘늙지않는칩’705조원금융베팅…엔비디아‘양날의검’",
   "국채불안덮은경기지표호조…다음주엔비디아실적촉각[뉴욕마감]",
   "바운스빗,해킹뒤자체체인종료하고비엔비이전",
   "최태원만난李,내주이재용-정의선과도회동",
@@ -6001,7 +5990,18 @@
   "AI에이전트토큰사용량,2월이후14배늘었다",
   "삼성19조투자받쳐줄'K-로봇공급망'…구미,대한민국로봇산업심장...",
   "양자컴퓨팅'샛별'인플렉션,아이온큐·리게티아성흔드나",
-  "\"1등끼리만났다\"…SKT,서울대와손잡고미래인재길러낸다"
+  "\"1등끼리만났다\"…SKT,서울대와손잡고미래인재길러낸다",
+  "‘노태우비자금’압수수색…장남재단‘세탁통로’의심",
+  "檢,‘노태우비자금의혹’김옥숙여사자택등압수수색",
+  "최태원이혼이소환한‘노태우비자금’…검찰,강제수사착수",
+  "젠지,2026LCK정규시즌1위…3년연속정상",
+  "[SW인터뷰]“나만더분발하면돼”…베테랑김현수,KT에불어넣는‘...",
+  "SK텔레콤,서울대학교와AI공동교육과정개설",
+  "SK브로드밴드,'로컬히어로'시즌2시작…지역청년기업조명",
+  "삼전배당vs닉스자사주소각…유리한투자선택은?",
+  "LG유플러스,해커원과글로벌버그바운티운영…보안위협관리강화",
+  "KT,AX컴퍼니플랫폼전환속도…'넥스트IT'전략제시",
+  "젠슨황,박성현리벨리온대표만나…기술협력등논의"
  ],
  "recent_sigs": [
   [
@@ -6711,9 +6711,17 @@
   [
    "2026-08-24T11:10:22.836506+09:00",
    "LG전자 삼성SDS LG유플러스 ~LGU"
+  ],
+  [
+   "2026-08-24T11:14:14.863316+09:00",
+   "공동 교육과정 ~SKT 개설 서울대학교와"
+  ],
+  [
+   "2026-08-24T11:14:14.863316+09:00",
+   "유리한 선택은 닉스 vs 배당 투자 삼전 자사주 소각"
   ]
  ],
- "last_run": "2026-08-24T11:12:32.109475+09:00",
+ "last_run": "2026-08-24T11:14:41.931177+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
