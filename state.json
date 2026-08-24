@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716424&plink=ORI&cooper=NAVER",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3672102",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3672103",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3672101",
-  "https://www.m-i.kr/news/articleView.html?idxno=1404964",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3672100",
   "https://platum.kr/archives/293076",
   "https://www.gukjenews.com/news/articleView.html?idxno=3672115",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053948",
@@ -2999,15 +2993,15 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271877",
   "https://www.mt.co.kr/tech/2026/08/25/2026082508270069348",
   "https://www.gukjenews.com/news/articleView.html?idxno=3673516",
-  "https://news.mtn.co.kr/news-detail/2026082508301186780"
+  "https://news.mtn.co.kr/news-detail/2026082508301186780",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3673513",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=265923",
+  "https://www.mt.co.kr/world/2026/08/25/2026082508051763763",
+  "http://www.newsprime.co.kr/news/article.html?no=744954",
+  "https://www.ytn.co.kr/_ln/0104_202608250833259579",
+  "https://www.chosun.com/economy/stock-finance/2026/08/25/RG352S7ZRZEQJJC346B3UVLKEY/"
  ],
  "seen_titles": [
-  "LG유플러스,국내통신사최초글로벌버그바운티운영",
-  "다이나믹솔루션,엔비디아와'BCI'협력하나…젠슨황장녀베이징서깜...",
-  "KT,낡은IT체계걷어내고AI중심으로전면재편",
-  "이혼이소환한'비자금'…김옥숙자택압수수색",
-  "용인보정도서관·서농도서관,'2026년경기도어린이독서코칭'사업선...",
-  "용인농촌테마파크,야간행사'야놀자'에시민호응'가득'",
   "용인시,체납자압류명품가방등157점경기도합동공매출품",
   "전남광주공무원이직접AI로정책분석…데이터행정'속도'",
   "주차난겪던동천동…용인시,107면임시공영주차장조성",
@@ -6001,7 +5995,13 @@
   "[분석]엔비디아,2분기실적이달26일발표…관전포인트는",
   "스마트폰한파에도삼성은웃는다…애플제치고세계1위탈환전망",
   "울산동구,'6급이하125명인사'단행…승진34명·전보71명",
-  "SKT,AI폰'갤럭시퀀텀7'출시…출고가71만7200원"
+  "SKT,AI폰'갤럭시퀀텀7'출시…출고가71만7200원",
+  "울산동구,방어진활어센터화재피해상인지원본격화",
+  "삼성전자,청담에'원스톱혼수매장'열었다…가전·인테리어한번에...",
+  "AI반도체주하락에혼조세…나스닥0.76%↓[뉴욕마감]",
+  "[해외시황]뉴욕증시,반도체株약세·국채금리하락에'혼조'…다우0....",
+  "폭격대신경제제재나선미국...이란의선택지는?[앵커리포트]",
+  "8월코스피7000안착,6000붕괴분수령…엔비디아·잭슨홀·금통위에..."
  ],
  "recent_sigs": [
   [
@@ -6321,7 +6321,7 @@
    "퀀텀7 강화한 ~SKT 준플래그십 갤럭시 선봬 출시"
   ]
  ],
- "last_run": "2026-08-25T08:36:30.180923+09:00",
+ "last_run": "2026-08-25T08:38:33.395722+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
