@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://platum.kr/archives/293076",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3672115",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5053948",
   "https://www.kbsm.net/news/view.php?idx=531121",
   "https://www.newspim.com/news/view/20260824000136",
@@ -2999,11 +2997,11 @@
   "https://www.mt.co.kr/world/2026/08/25/2026082508051763763",
   "http://www.newsprime.co.kr/news/article.html?no=744954",
   "https://www.ytn.co.kr/_ln/0104_202608250833259579",
-  "https://www.chosun.com/economy/stock-finance/2026/08/25/RG352S7ZRZEQJJC346B3UVLKEY/"
+  "https://www.chosun.com/economy/stock-finance/2026/08/25/RG352S7ZRZEQJJC346B3UVLKEY/",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716424&plink=ORI&cooper=NAVER",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721498"
  ],
  "seen_titles": [
-  "용인시,체납자압류명품가방등157점경기도합동공매출품",
-  "전남광주공무원이직접AI로정책분석…데이터행정'속도'",
   "주차난겪던동천동…용인시,107면임시공영주차장조성",
   "서울바이오허브·한국아스트라제네카,글로벌오픈이노베이션참여기업...",
   "'트라이에브리싱2026'9월개막…AI글로벌전문가한자리에",
@@ -6001,7 +5999,9 @@
   "AI반도체주하락에혼조세…나스닥0.76%↓[뉴욕마감]",
   "[해외시황]뉴욕증시,반도체株약세·국채금리하락에'혼조'…다우0....",
   "폭격대신경제제재나선미국...이란의선택지는?[앵커리포트]",
-  "8월코스피7000안착,6000붕괴분수령…엔비디아·잭슨홀·금통위에..."
+  "8월코스피7000안착,6000붕괴분수령…엔비디아·잭슨홀·금통위에...",
+  "이혼이소환한'비자금'…김옥숙자택압수수색",
+  "[Tech&Now]플랜티엠,'모아진'KT요금제혜택출시…라온시큐어'시큐..."
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,13 @@
   [
    "2026-08-25T08:28:13.591971+09:00",
    "퀀텀7 강화한 ~SKT 준플래그십 갤럭시 선봬 출시"
+  ],
+  [
+   "2026-08-25T08:40:26.638055+09:00",
+   "혜택 라온시큐어 요금제 모아진 출시 ~KT 플랜티엠 시큐"
   ]
  ],
- "last_run": "2026-08-25T08:38:33.395722+09:00",
+ "last_run": "2026-08-25T08:40:44.557403+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
