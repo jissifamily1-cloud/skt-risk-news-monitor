@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260820094042",
-  "https://www.theguru.co.kr/news/article.html?no=106009",
-  "https://www.inthenews.co.kr/news/article.html?no=90708",
-  "https://www.businessplus.kr/news/articleView.html?idxno=115674",
-  "https://www.yna.co.kr/view/AKR20260820056900017?input=1195m",
-  "https://www.widedaily.com/news/articleView.html?idxno=299683",
-  "https://www.topdaily.kr/articles/111549",
-  "https://www.etnews.com/20260820000046",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=206792",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1397398",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241089",
   "https://www.mt.co.kr/tech/2026/08/20/2026082008300691104",
   "https://biz.heraldcorp.com/article/10846128",
   "https://www.news1.kr/it-science/cc-newmedia/6263780",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20260824_0003759402",
   "http://www.newscape.co.kr/news/articleView.html?idxno=124061",
   "https://biz.chosun.com/it-science/ict/2026/08/24/ZUGEBATHRFFQLABN7O2MMKYKRE/",
-  "https://www.news2day.co.kr/article/20260824500033"
+  "https://www.news2day.co.kr/article/20260824500033",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241144",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694876",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60401",
+  "https://www.dt.co.kr/article/12079704",
+  "http://www.popcornnews.net/news/articleView.html?idxno=130530",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694869",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694863",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694874",
+  "https://www.greened.kr/news/articleView.html?idxno=348222",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694867",
+  "https://www.newsis.com/view/NISX20260824_0003759409"
  ],
  "seen_titles": [
-  "'예술문턱낮춘다',미술관안팎서예술경험확장하는기업들",
-  "SKB,서울국제여성영화제4년연속후원...상영작34편공개",
-  "SKB,서울국제여성영화제특집관운영...상영작34편선봬",
-  "[단독]SK,중국서'바닷속AI센터협력'비밀회동…전력·냉각난제해...",
-  "SKB,서울국제여성영화제‘Btv특집관’운영…4년연속후원",
-  "SK브로드밴드,서울국제여성영화제4년째후원…상영작34편공개",
-  "[테크스냅]딜라이브TV,지역콘텐츠편성확대",
-  "SKB,'서울국제여성영화제상영작'Btv특집관운영",
-  "[TOP'sPick][통신]SK텔레콤,3G서비스신규가입중단外",
-  "SKB,21~26일'Btv서울국제여성영화제특집관'운영",
-  "SK브로드밴드,서울국제여성영화제상영작'Btv특집관'운영",
   "SK브로드밴드,서울국제여성영화제'Btv특집관'21일오픈",
   "SKB,서울국제여성영화제4년째후원…Btv서상영작34편공개",
   "\"다양한이야기담는다\"SKB,서울국제여성영화제상영작34편Btv선봬",
@@ -6001,7 +5990,18 @@
   "스틸리언,인니교수진에한국보안기술전수",
   "LG유플러스,국내최초글로벌버그바운티운영",
   "KT,전사IT현대화…“업무환경전반을AI기반으로”",
-  "\"국내증시루트형회복…하단은삼전·하이닉스,상단은엔비디아·美..."
+  "\"국내증시루트형회복…하단은삼전·하이닉스,상단은엔비디아·美...",
+  "[인터뷰]\"AI워크로드,클라우드가늘정답은아니다\"",
+  "앤트로픽AI워터마크발표에맞불…오픈소스제거도구확산",
+  "[디지털포스트모닝픽]갤S27카메라풀체인지?…'물방울X,가로형바...",
+  "코스피,6900선아래로…삼성전자‘셀온’에5%급락",
+  "한컴그룹,제2회한컴문학상후원…대상상금3000만원",
+  "이란연계해커에뚫렸다…영국소형발전소,나흘간가동중단",
+  "SKT,서울대와미래AI인재키운다…산학협력강좌운영",
+  "SKB,지역정착청년CEO조명…'위대한삼촌'시즌2방송",
+  "[데이터뉴스룸]정보통신업체쉽게무너지지않는다,이유는?…네이버...",
+  "KT,'넥스트IT'로전사시스템혁신…AI네이티브전환",
+  "KT,업무시스템부터AI에이전트까지싹바꾼다…전사IT대수술"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-08-24T09:16:13.603844+09:00",
    "상단은 루트형 국내 회복 삼전 하이닉스 하단은 증시"
+  ],
+  [
+   "2026-08-24T09:18:15.328157+09:00",
+   "이유는 쉽게 정보통신 무너지지 업체 네이버 않는다"
   ]
  ],
- "last_run": "2026-08-24T09:16:36.581519+09:00",
+ "last_run": "2026-08-24T09:18:33.948138+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
