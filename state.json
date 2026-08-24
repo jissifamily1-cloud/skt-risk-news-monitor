@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=743638",
-  "https://www.munhwa.com/article/11609053",
-  "https://www.munhwa.com/article/11609049",
-  "https://www.news1.kr/finance/general-finance/6256678",
-  "https://www.widedaily.com/news/articleView.html?idxno=299316",
   "http://www.inews24.com/view/1994022",
   "https://www.mt.co.kr/society/2026/08/12/2026081113094123140",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=02378006645546664",
@@ -2999,14 +2994,14 @@
   "https://sports.donga.com/sports/article/all/20260824/134532913/1",
   "https://www.gukjenews.com/news/articleView.html?idxno=3672917",
   "https://www.khan.co.kr/article/202608241632001",
-  "https://www.etnews.com/20260824000274"
+  "https://www.etnews.com/20260824000274",
+  "https://www.veritas-a.com/news/articleView.html?idxno=624231",
+  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155372",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=5941",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719226&plink=ORI&cooper=NAVER",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695080"
  ],
  "seen_titles": [
-  "[박나룡보안칼럼]위탁,재위탁,3자제공구분,지금도필요한가?",
-  "직업정보협회윤현준,'고용마이데이터'신중론…비용·역차별우려",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(8월13일목요일)",
-  "1조6000억쏟은공공AI데이터‘거기서거기’",
-  "스크래핑차단에금융권비상…비대면금융서비스차질우려",
   "좌표빠진도로정보·중복사진수천장…AI데이터‘황당한부실’",
   "1.6조쓴‘AI학습데이터’무용지물",
   "\"스크래핑차단되면증명서직접발급받아야\"…'비대면금융'차질우려",
@@ -6001,7 +5996,12 @@
   "‘윌리엄스계약해지’서울삼성,새외국인선수로KBL경력자크리스...",
   "전세불안에'장기거주'주목…유천동'서대전상떼빌시그니처'관심",
   "“가해자의길목차단하겠다”…정부,성착취물·불법촬영물유통망뿌...",
-  "IP카메라·공유기잇단보안구멍…끝나지않는IoT해킹위협"
+  "IP카메라·공유기잇단보안구멍…끝나지않는IoT해킹위협",
+  "[단독][2027대입]대기업계약학과2026정시입결..고대스마트모빌리...",
+  "T1아카데미,LCKCL정규시즌정상차지",
+  "[증시프리즘]역대최대라는데왜던졌을까…삼성전자'110조원주주환원...",
+  "[머니버스]소규모정비사업권한이양,숨은의도는?/'역대급주주환...",
+  "엔비디아,퍼플렉시티에지분투자논의중...회사가치300억달러산정"
  ],
  "recent_sigs": [
   [
@@ -6613,7 +6613,7 @@
    "끝나지 않는 위협 구멍 잇단 보안 IP카메라 공유기 IoT"
   ]
  ],
- "last_run": "2026-08-24T16:34:36.409873+09:00",
+ "last_run": "2026-08-24T16:36:29.377860+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
