@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://byline.network/?p=9004111222615276",
-  "http://www.inews24.com/view/1994628",
-  "https://kbench.com/?q=node%2F281108",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692807",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=84406",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41433",
-  "https://zdnet.co.kr/view/?no=20260813103254",
-  "https://www.newspim.com/news/view/20260813000043",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=252299",
-  "https://www.newsis.com/view/NISX20260812_0003746667",
   "https://www.mt.co.kr/industry/2026/08/12/2026081213313250230",
   "https://it.donga.com/109342/",
   "https://www.hankookilbo.com/news/article/A2026081209590000406?did=NA",
@@ -2999,19 +2989,19 @@
   "https://www.g-enews.com/view.php?ud=202608241044441336fbbec65dfb_1",
   "https://www.ziksir.com/news/articleView.html?idxno=144032",
   "https://www.job-post.co.kr/news/articleView.html?idxno=224728",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405933"
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405933",
+  "http://www.newsprime.co.kr/news/article.html?no=744817",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3672375",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3672366",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3672346",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3672378",
+  "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/08/24/20260824500063?wlog_tag3=naver",
+  "https://www.ilyosisa.co.kr/news/article.html?no=257476",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134719",
+  "https://www.dizzotv.com/site/data/html_dir/2026/08/24/2026082480030.html",
+  "https://www.donga.com/news/Economy/article/all/20260824/134521636/1"
  ],
  "seen_titles": [
-  "초안짜는AI옆에서기획자가해야할일",
-  "AI가추천은해주는데,출처엔뜨지않는다면",
-  "화웨이·SMIC3나노공정모바일CPU상용화,삼성전자초격차AI폰·1나...",
-  "리퍼블릭미디어,기업퍼스널브랜딩특화‘출판GEO마케팅’서비스...",
-  "가트너“섀도우AI확산에기업60%가통제도구도입”",
-  "빅밸류,AI데이터요청누적599만건'깜짝성과'⋯GEO전략'청신호'",
-  "클라우드넘어'로컬AI'로,나만의AI에이전트PC맞춤구성가이드",
-  "애플,시리AI에'최신뉴스'넣는다…언론사와다년계약추진",
-  "유통업계'쇼핑관문'쟁탈전…\"검색의시대가고'AI추천'뜬다\"",
-  "서초스마트유스센터,AI상시체험공간'AI-ZIT'개소…\"AI를배우는곳에...",
   "[유미's픽]\"챗GPT에회사띄워준다\"…AEO·GEO열풍에과장영업기승",
   "[AIMY뉴스]13일중국증시'美물가안도감+AI인프라+로봇'3대키워드...",
   "퍼플렉시티·퓨리오사AI…미래에셋이찜한넥스트'스페이스X'는?",
@@ -6001,7 +5991,17 @@
   "선단공정웨이퍼값10%추가인상,파운드리공급난속시장양극화심...",
   "KT,AI기반전사IT체계전환…플랫폼·인프라·업무방식재편",
   "코스피,또넘어야할고개...외인돌아왔지만엔비디아실적·잭슨홀변...",
-  "유플러스모바일,약정없이중고폰·알뜰유심요금제가입한번에!"
+  "유플러스모바일,약정없이중고폰·알뜰유심요금제가입한번에!",
+  "[카드]LGU+,글로벌버그바운티프로그램운영",
+  "밀양시,2026년상반기민원행정우수공무원시상식개최",
+  "밀양시,1조3,386억원추경안제출…미래성장·재난예방집중",
+  "창녕경찰서,남지시장사거리서교통문화캠페인실시",
+  "한국산림복지진흥원,전국11개시설서'에너지절약'실천",
+  "서울시의회더불어민주당“서울시민2명중1명정보유출인데,‘경징...",
+  "뻥뻥뚫리는개인정보딜레마",
+  "SKT,서울대와'AI공동과정'개설…정재헌CEO특강나선다",
+  "LG유플러스,화이트해커와손잡고‘글로벌버그바운티’가동",
+  "[단독]대한상의신임상근부회장에이시욱대외경제정책연구원원장"
  ],
  "recent_sigs": [
   [
@@ -6671,9 +6671,17 @@
   [
    "2026-08-24T10:54:14.799933+09:00",
    "~LGU 유심 유플러스모바일 번에 요금제 가입 약정 알뜰 중고폰 없이"
+  ],
+  [
+   "2026-08-24T10:56:15.222520+09:00",
+   "뚫리는 딜레마 뻥뻥 개인정보"
+  ],
+  [
+   "2026-08-24T10:56:15.222520+09:00",
+   "대외경제정책연구원 원장 신임 대한상의 이시욱 상근부회장에"
   ]
  ],
- "last_run": "2026-08-24T10:54:38.176833+09:00",
+ "last_run": "2026-08-24T10:56:35.347303+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
