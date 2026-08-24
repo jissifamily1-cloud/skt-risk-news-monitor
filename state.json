@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.unn.net/news/articleView.html?idxno=596162",
-  "https://www.sedaily.com/article/20082074",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=156345",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315679",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315672",
-  "https://www.thepublic.kr/news/articleView.html?idxno=315724",
   "https://www.newspim.com/news/view/20260822000021",
   "https://www.gukjenews.com/news/articleView.html?idxno=3671415",
   "https://news.mtn.co.kr/news-detail/2026082110012616927",
@@ -2999,15 +2993,15 @@
   "http://www.thebigdata.co.kr/view.php?ud=202608241114312090df3c2a17b7_23",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60412",
   "https://www.gukjenews.com/news/articleView.html?idxno=3672544",
-  "https://biz.chosun.com/it-science/ict/2026/08/24/YEMQUG2DWRA6TBDY4UDEDCBX3E/"
+  "https://biz.chosun.com/it-science/ict/2026/08/24/YEMQUG2DWRA6TBDY4UDEDCBX3E/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3672550",
+  "https://www.itbiznews.com/news/articleView.html?idxno=222574",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3672555",
+  "https://www.venturesquare.net/1107977/",
+  "http://www.fnnews.com/news/202608241234520797",
+  "https://www.lecturernews.com/news/articleView.html?idxno=209271"
  ],
  "seen_titles": [
-  "[서울데이터랩]미국증시상승마감…다우0.98%올라강세,반도체는차...",
-  "트럼프가띄운‘하이퍼리퀴드’…월가긴장하는이유는[도예리의디지...",
-  "[월드IT뷰]AI탈옥·해킹능력에오픈AI'화들짝'…차세대모델훈련중...",
-  "대구보건대평생교육원,지역특성화프로그램성료...22명이수",
-  "[앵커선도대학을가다/부산앵커센터]해양수도완성승부수…'부산형...",
-  "메모리사소캠2양산에소부장업계도‘꿈틀’[빛이나는비즈]",
   "AI는의식이있는가…인간본성을데이터로바꾸는기술의위험",
   "\"왜이렇게아이폰이많아요?\"의반전…아이폰충성고객도,갤럭시Z폴...",
   "휴머노이드,몸체경쟁은글로벌해도…두뇌경쟁은'美엔비디아독주'...",
@@ -6001,7 +5995,13 @@
   "SKT,서울대와'미래AI리더'육성나선다...AI관심도증가",
   "GS건설,데이터센터매출잡힌다…\"내년부터3년간5조\"",
   "김제시,외국인대상'아리랑미스터리투어'개최…1918년배경추리미...",
-  "엔비디아,AI스타트업우회인수…오픈소스모델개발속도전"
+  "엔비디아,AI스타트업우회인수…오픈소스모델개발속도전",
+  "세종관광,동남아시장공략…싱가포르NATAS서집중홍보",
+  "글로벌스마트폰시장도양극화…\"메모리부족에보급형모델직격탄\"",
+  "고창군,청년친화헌정대상3년연속수상…정책·창업지원성과",
+  "GPU더사기전에가동률부터…아크릴,국산NPU묶는‘소버린AX’공...",
+  "\"AI개발·활용할때인간중심·개인정보보호원칙지켜야\"",
+  "서울대학교·KAIST등6개기관,딥테크스타트업256명한자리에…'2026..."
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,13 @@
   [
    "2026-08-24T12:32:14.821528+09:00",
    "모인 흔든다 입지 진화 수학자들 수학자 서밋에"
+  ],
+  [
+   "2026-08-24T13:02:16.335463+09:00",
+   "KAIST 딥테크 한자리에 기관 스타트업 서울대학교 256명 6개"
   ]
  ],
- "last_run": "2026-08-24T13:00:49.721726+09:00",
+ "last_run": "2026-08-24T13:02:35.880697+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
