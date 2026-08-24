@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168456",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=200926",
-  "https://mhnse.com/news/articleView.html?idxno=1494518",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252305",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=272057",
-  "http://www.inews24.com/view/1996520",
-  "http://www.inews24.com/view/1996517",
   "https://www.m-i.kr/news/articleView.html?idxno=1403725",
   "https://www.kbsm.net/news/view.php?idx=530784",
   "https://www.koit.co.kr/news/articleView.html?idxno=208548",
@@ -2999,16 +2992,16 @@
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072989",
   "https://www.tokenpost.kr/news/cryptocurrency/395749",
   "https://www.wikitree.co.kr/articles/1154175",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721456"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721456",
+  "https://www.joongboo.com/news/articleView.html?idxno=363734593",
+  "https://www.businessplus.kr/news/articleView.html?idxno=115839",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1398632",
+  "https://www.hankyung.com/article/202608248318i",
+  "https://www.etnews.com/20260824000350",
+  "https://www.etoday.co.kr/news/view/2617573",
+  "https://www.newsis.com/view/NISX20260824_0003759621"
  ],
  "seen_titles": [
-  "금융위등이전내주국무회의심의가능성…공공기관반발고조",
-  "李대통령,최태원과만찬회동…대미투자논의여부주목",
-  "AI데이터센터붐에'숙련블루칼라'모시기경쟁",
-  "SK브로드밴드,서울국제여성영화제'Btv특집관'운영",
-  "\"현금화보다사업화\"SKT,앤트로픽투자AIDC로잇는다",
-  "SKT,3G서비스신규가입중단발표",
-  "\"발달장애골퍼의도전과성장\"..장애·비장애벽허무는골프축제SK텔...",
   "SKT,3G서비스단계적종료수순…오늘부터신규가입중단",
   "SKT,3G서비스점진적종료추진…신규가입중단결정",
   "SKT,23년만에3G종료수순…신규가입중단(상보)",
@@ -6001,7 +5994,14 @@
   "홀드백최장150일…\"티켓값폭리부터손봐야\"",
   "오픈AI,캘리포니아AI안전법강화요구했다",
   "오픈AI코덱스,2000만명돌파…8개월만에33배폭증했지만사용한도불...",
-  "[Telecom&Now]LGU+,글로벌화이트해커와보안'취약점'찾는다등"
+  "[Telecom&Now]LGU+,글로벌화이트해커와보안'취약점'찾는다등",
+  "경기도청,창원시장배사격여일반부10m공기소총정상",
+  "[금융권이모저모]Sh수협은행,양자컴퓨팅활용가능성점검外",
+  "\"삼성,올해애플제치고글로벌스마트폰1위탈환전망\"",
+  "\"새벽3시까지연구\"...中AI키운건‘칭화대사단’",
+  "경북도,24일경북로봇산업공급망대응TF발족및경북로봇산업전략...",
+  "아시아증시위험자산회피심리확산에하락⋯日닛케이0.7%↓",
+  "엔비디아도못꺾은메모리난…삼성전자·SK하이닉스'협상력우위'지..."
  ],
  "recent_sigs": [
   [
@@ -6581,7 +6581,7 @@
    "취약점 보안 찾는다 LGU 글로벌 ~LGU 화이트해커와"
   ]
  ],
- "last_run": "2026-08-24T16:56:34.844432+09:00",
+ "last_run": "2026-08-24T16:58:30.482674+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
