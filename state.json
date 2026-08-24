@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thelec.kr/news/articleView.html?idxno=60349",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273895",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240715",
-  "https://www.ajunews.com/view/20260730165043995",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422782",
-  "https://www.etnews.com/20260730000411",
-  "https://www.ceoscoredaily.com/page/view/2026073015501998845",
-  "https://news.mtn.co.kr/news-detail/2026073015201823278",
-  "https://zdnet.co.kr/view/?no=20260730152155",
-  "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
   "https://www.newsinside.kr/news/articleView.html?idxno=4878485",
   "https://dealsite.co.kr/articles/166261",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=203130",
@@ -2999,19 +2989,19 @@
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=316485",
   "https://www.yna.co.kr/view/AKR20260824047600017?input=1195m",
   "https://www.ddaily.co.kr/page/view/2026082410001170391",
-  "https://magazine.hankyung.com/business/article/202608200800b"
+  "https://magazine.hankyung.com/business/article/202608200800b",
+  "https://sports.khan.co.kr/article/202608241015003?pt=nv",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=259642",
+  "https://byline.network/?p=9004111222616267",
+  "https://www.sentv.co.kr/article/view/sentv202608240053",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208159",
+  "https://www.etoday.co.kr/news/view/2617346",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84850",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721361",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16171581",
+  "https://www.news1.kr/finance/blockchain-fintech/6267213"
  ],
  "seen_titles": [
-  "[컨콜종합]이준희삼성SDS대표\"AI풀스택으로미래성장기회선점\"",
-  "삼성SDS,2분기매출3조7,178억원...IT서비스와물류사업동반성장",
-  "삼성SDS,2분기실적\"클라우드·물류대외사업성장\"",
-  "삼성SDS2분기매출3.7조돌파...클라우드·AI가실적견인",
-  "[컨콜]삼성SDS,'AI풀스택'실행방안공개…'클라이언트제로'체계구...",
-  "삼성SDS,2분기매출3조7178억원…\"클라우드·물류성장견인\"",
-  "삼성SDS,2031년까지AI인프라800MW이상으로확대",
-  "“AI,해킹명령5317개실행…멕시코정부기관9곳피해”",
-  "삼성SDS,2분기영업익2318억원…클라우드·AI서비스성과확대",
-  "'키미K3'의출사표…시장은절반만읽었다[기고]",
   "[컨콜]삼성SDS\"AI인프라800MW장기구축…글로벌기업도고객으로확...",
   "삼성SDS,상반기영업익전년比37.8%감소",
   "삼성SDS,2분기매출3조7178억원…클라우드·물류동반성장",
@@ -6001,7 +5991,17 @@
   "KT,AI네이티브기반'넥스트IT'추진…AX플랫폼컴퍼니실행기반강...",
   "[AI픽]KT,전사IT에AI입힌다…'넥스트IT'본격추진",
   "1.6조‘카이로스-X’다시짠KT…멀티클라우드·AI전면에",
-  "‘2040레이스’막오른핵융합…K-조선·방산DNA로‘인공태양’만든..."
+  "‘2040레이스’막오른핵융합…K-조선·방산DNA로‘인공태양’만든...",
+  "‘100%’가‘100%’를만든다···롯데김진욱이실행하고결과로확인...",
+  "파두,'OCP코리아테크데이'참가...'파두2.0'비전가속화",
+  "스푼랩스,2028년IPO추진…주관사선정착수",
+  "코스피,1%대약세…삼성전자주주환원'기대이하'",
+  "스틸리언,인도네시아사이버보안교수진10명대상21주집중연수마쳐",
+  "SKT,서울대와'미래AI리더'육성맞손...현업전문가릴레이강의",
+  "SK텔레콤,서울대와AI산학협력10년…미래AI리더육성나선다",
+  "KT,IT시스템AI중심대전환…전사IT현대화프로젝트가동",
+  "SK텔레콤주가,8월24일장중102,700원0.49%상승",
+  "또디파이해킹…대출서비스텀파이낸스,118억원상당가상자산탈취"
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,17 @@
   [
    "2026-08-24T10:16:15.532105+09:00",
    "레이스 인공태양 핵융합 만든 방산 DNA로 조선 오른"
+  ],
+  [
+   "2026-08-24T10:18:15.533247+09:00",
+   "8월 24일 700원 ~SKT 장중 상승 주가"
+  ],
+  [
+   "2026-08-24T10:18:15.533247+09:00",
+   "파이낸스 가상자산 118억원 탈취 상당 대출 서비스 디파이"
   ]
  ],
- "last_run": "2026-08-24T10:16:42.098784+09:00",
+ "last_run": "2026-08-24T10:18:39.461157+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
