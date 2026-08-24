@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1151659",
-  "https://economist.co.kr/article/view/ecn202608120039",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1720578",
-  "https://www.inthenews.co.kr/news/article.html?no=90523",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423107",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=206604",
-  "https://news.tf.co.kr/read/entertain/2356759.htm",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260822.99099006127",
   "https://www.ajunews.com/view/20260820214135050",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8641944",
@@ -2999,16 +2992,16 @@
   "https://www.kyeongin.com/article/1769521",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168720",
   "https://view.asiae.co.kr/article/2026082415414214007",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203756"
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=203756",
+  "https://www.huffingtonpost.kr/article/259795",
+  "https://www.hellot.net/news/article.html?no=114510",
+  "http://www.dailypop.kr/news/articleView.html?idxno=101832",
+  "https://it.donga.com/109398/",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400292.html",
+  "https://www.nocutnews.co.kr/news/6567129",
+  "http://www.kdfnews.com/news/articleView.html?idxno=186985"
  ],
  "seen_titles": [
-  "[만나봤더니]\"발아하는에이전틱AI…ETF안만드는건직무유기\"",
-  "검색넘어AI로쇼핑한다···카페24,AI별매출성과분석",
-  "카페24,'AI유입도메인'분석기능출시…AI별유입등비교",
-  "[ET시론]검색하지않는소비자,유통의경쟁법칙이바뀐다",
-  "“컵라면추천해줘”AI에물었더니…챗GPT와제미나이가꼽은1위는",
-  "이용자는확보했지만,매출은아직…업스테이지‘다음’시험대",
-  "오픈AI·구글떠난'AI마피아'…혁신은대기업밖에서시작됐다",
   "[주간AI노트]네이버추월한구글…포털생태계의핵심도‘AI’",
   "\"한국이아시아진출교두보\"···한국공략속도내는글로벌AI기업...",
   "병원정보보안협회,'슬기로운병원보안생활'웹툰11편제작교육콘텐...",
@@ -6001,7 +5994,14 @@
   "SSG,갈길바쁜한화·KIA발목잡을까",
   "'삼전'주주환원실망에코스피3%하락…6700선깨져",
   "유경상SKTAICIC장\"AI경쟁미래는개선속도…빠른개선루프구축\"",
-  "가격내리고한도풀고…오픈AI,에이전트판흔든다"
+  "가격내리고한도풀고…오픈AI,에이전트판흔든다",
+  "우크라이나젤렌스키,대선요구에\"지금하면분열의쓰나미\":여론조...",
+  "삼성전자,올해글로벌스마트폰출하량1위탈환전망…애플앞설듯",
+  "[톺아보기]독자모델가졌어도'먹통'가능성…'소버린AI2.0'으로판바...",
+  "'AI기반음향센서개발'시그널크래프트,소리로설비고장잡는다[I...",
+  "코스피,7000선회복한달째무산…삼전8%대급락",
+  "주주환원기대무색…삼성전자8%급락에코스피하락",
+  "따릉이피해자들,1인당30만원청구…\"30일이용권으로는부족\""
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,13 @@
   [
    "2026-08-24T16:26:14.940218+09:00",
    "흔든다 한도 풀고 가격 에이전트 내리고"
+  ],
+  [
+   "2026-08-24T16:28:14.669567+09:00",
+   "독자 모델 가졌어도 가능성 먹통 소버린"
   ]
  ],
- "last_run": "2026-08-24T16:26:35.775924+09:00",
+ "last_run": "2026-08-24T16:28:32.351630+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
