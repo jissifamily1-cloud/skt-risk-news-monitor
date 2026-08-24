@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25455297",
-  "http://www.economytalk.kr/news/articleView.html?idxno=422787",
-  "https://www.youthdaily.co.kr/news/article.html?no=225492",
-  "https://economist.co.kr/article/view/ecn202608210026",
-  "https://www.chosun.com/economy/tech_it/2026/08/22/WDUKIMKTHNBJJKM5JEUDRROWCY/",
-  "https://www.segye.com/newsView/20260821503517?OutUrl=naver",
-  "https://www.news1.kr/diplomacy/unikorea/6266210",
-  "https://www.sentv.co.kr/article/view/sentv202608210179",
   "https://www.newspim.com/news/view/20260821000535",
   "https://www.newspim.com/news/view/20260821000534",
   "https://www.etoday.co.kr/news/view/2616954",
@@ -2999,17 +2991,17 @@
   "http://www.dailyesports.com/view.php?ud=20260824114021826174bcc1e038_27",
   "https://dealsite.co.kr/articles/167685",
   "https://biz.sbs.co.kr/article_hub/20000330326?division=NAVER",
-  "https://www.mt.co.kr/tech/2026/08/22/2026081908420078339"
+  "https://www.mt.co.kr/tech/2026/08/22/2026081908420078339",
+  "https://www.welfarenews.net/news/articleView.html?idxno=210090",
+  "https://www.welfarenews.net/news/articleView.html?idxno=210088",
+  "https://www.welfarenews.net/news/articleView.html?idxno=210087",
+  "https://www.hankyung.com/article/202608237352g",
+  "https://www.newsis.com/view/NISX20260824_0003759815",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88314",
+  "https://www.mediapen.com/news/view/1118384",
+  "https://www.munhwa.com/article/11611521"
  ],
  "seen_titles": [
-  "뉴욕증시,경제지표호조에반등…내주엔비디이살적주목",
-  "미국증시,금리부담에도순환매반등…다우0.98%↑엔비디아는약세",
-  "[위클리IT템]좋은소리만으론부족하다...'듣는경험'바꾸는오디오...",
-  "[기고]AI,'금융공학비즈니스'로변모",
-  "슈퍼카6개월컷,샴페인대신프리미엄생수…AI영앤리치의럭셔리소...",
-  "[창간27주년특집]젠슨황의지휘…한국AI생태계,먹느냐먹히느냐",
-  "\"투자집중vs임금인상\"…KT,본업둔화속노사교섭'진통'",
-  "AI가인용한내블로그,돈이된다…네이버‘메이트’가바꾼AI·콘텐...",
   "여행객e심사용급증…통신사알짜로밍매출에‘빨간불’",
   "스타처럼‘동맹’맺거나,혼자뛰거나…‘모두의AI’판에던진승부...",
   "北,日역대최대방위비추진맹비난…\"전쟁국가질주가속\"",
@@ -6001,7 +5993,15 @@
   "T1아카데미,2026LCKCL정규시즌1위",
   "[오늘의게임·IT소식]컴투스신작‘제우스:오만의신’,사전다운...",
   "통신3사담합대가더커진다…손배액300억대",
-  "[단독]개보위,中지커개인정보국외이전검토착수"
+  "[단독]개보위,中지커개인정보국외이전검토착수",
+  "장애인신문뉴스브리핑'(2026.8.21)",
+  "복지TV뉴스_나도말좀합시다_복지이슈포커스'(2026.8.19)",
+  "웰페어뉴스브리핑'(2026.8.19)",
+  "\"올해는삼성이1위\"전망나왔다…갤럭시,아이폰에역전[분석+]",
+  "대한상의,'신설'경제연구총괄에이시욱대외경제정책연구원장내정",
+  "KT,전사IT현대화…'AI네이티브'기반'NextIT'추진",
+  "엔비디아실적D-3…15%뛴서버값에쏠린눈,삼성·SK'메모리권력'부...",
+  "AI로직원위장해정보탈취…‘국가배후해킹’7.5%↑"
  ],
  "recent_sigs": [
   [
@@ -6751,9 +6751,13 @@
   [
    "2026-08-24T11:54:13.794011+09:00",
    "커진다 300억대 손배액 대가 담합 통신3사"
+  ],
+  [
+   "2026-08-24T11:56:14.744741+09:00",
+   "탈취 직원 정보 국가 위장해 AI로 배후"
   ]
  ],
- "last_run": "2026-08-24T11:54:38.355167+09:00",
+ "last_run": "2026-08-24T11:56:33.169563+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
