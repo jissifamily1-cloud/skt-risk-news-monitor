@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/166667",
-  "https://www.smartbizn.com/news/articleView.html?idxno=151411",
-  "https://www.mt.co.kr/stock/2026/08/18/2026081809584315862",
-  "https://www.etnews.com/20260817000066",
   "https://www.wikitree.co.kr/articles/1151659",
   "https://economist.co.kr/article/view/ecn202608120039",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1720578",
@@ -2999,13 +2995,13 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608241149204730056",
   "https://biz.chosun.com/it-science/ict/2026/08/24/3VNEU3SRD5GSPBZ6YKHN3C3FPQ/",
   "https://www.insight.co.kr/news/569788",
-  "https://www.todayeconomic.com/news/article.html?no=31844"
+  "https://www.todayeconomic.com/news/article.html?no=31844",
+  "https://www.kyeongin.com/article/1769521",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168720",
+  "https://view.asiae.co.kr/article/2026082415414214007",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=203756"
  ],
  "seen_titles": [
-  "AI토큰24배쏟아져도안심못해…2027년하반기공급폭탄이진짜분...",
-  "앤스로픽,IPO앞두고100억달러신용한도추진",
-  "앤스로픽연환산매출650억달러…오픈AI의1.6배",
-  "구글공동창업자'브린'경영일선복귀…제미나이수익화집중",
   "[만나봤더니]\"발아하는에이전틱AI…ETF안만드는건직무유기\"",
   "검색넘어AI로쇼핑한다···카페24,AI별매출성과분석",
   "카페24,'AI유입도메인'분석기능출시…AI별유입등비교",
@@ -6001,7 +5997,11 @@
   "제조ㆍ연구→피지컬AI인재잡아라…달라진현대차채용",
   "GPT에해킹된AI플랫폼허깅페이스,18조원에매각추진",
   "110조환원발표삼성전자,시총143조증발...40조'전량소각'SK하이닉...",
-  "KT,전사IT에AI입힌다…플랫폼·인프라·업무전면재편"
+  "KT,전사IT에AI입힌다…플랫폼·인프라·업무전면재편",
+  "SSG,갈길바쁜한화·KIA발목잡을까",
+  "'삼전'주주환원실망에코스피3%하락…6700선깨져",
+  "유경상SKTAICIC장\"AI경쟁미래는개선속도…빠른개선루프구축\"",
+  "가격내리고한도풀고…오픈AI,에이전트판흔든다"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-08-24T16:24:14.640149+09:00",
    "재편 전사 플랫폼 업무 ~KT 입힌다 전면 IT에 인프라"
+  ],
+  [
+   "2026-08-24T16:26:14.940218+09:00",
+   "흔든다 한도 풀고 가격 에이전트 내리고"
   ]
  ],
- "last_run": "2026-08-24T16:24:43.365100+09:00",
+ "last_run": "2026-08-24T16:26:35.775924+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
