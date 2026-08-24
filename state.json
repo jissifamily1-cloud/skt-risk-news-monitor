@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=671419",
-  "https://www.newstnt.com/news/articleView.html?idxno=714660",
-  "http://www.finomy.com/news/articleView.html?idxno=259606",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694344",
-  "https://www.dt.co.kr/article/12079306",
-  "http://www.newstomato.com/ReadNews.aspx?no=1310866&inflow=N",
-  "https://www.ddaily.co.kr/page/view/2026082015121169001",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405843",
-  "https://www.asiatime.co.kr/article/20260820500341",
-  "https://view.asiae.co.kr/article/2026082016410515621",
-  "http://www.thebigdata.co.kr/view.php?ud=2026082016342633430a47484cf8_23",
   "https://biz.chosun.com/it-science/ict/2026/08/20/BATH6JQYLBC7PNSOSKU3LHAOXM/",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=316182",
   "http://www.metroseoul.co.kr/article/20260820500558",
@@ -2999,19 +2988,20 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=85876",
   "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62312",
   "https://it.chosun.com/news/articleView.html?idxno=2023092168665",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3136349"
+  "http://www.ttlnews.com/news/articleView.html?idxno=3136349",
+  "https://thetracker.co.kr/View.aspx?No=4196083",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608200600129080101320",
+  "https://www.tokenpost.kr/news/cryptocurrency/395102",
+  "https://www.newspim.com/news/view/20260821000950",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405911",
+  "https://kpenews.com/View.aspx?No=4196066",
+  "http://www.newsdream.kr/news/articleView.html?idxno=116716",
+  "https://www.ajunews.com/view/20260824082222474",
+  "https://www.viva100.com/article/20260824500159",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3072876",
+  "https://www.news2day.co.kr/article/20260824500025"
  ],
  "seen_titles": [
-  "SKT,23년만에3G가입중단…서비스는당분간지속예정",
-  "'깜깜이'논란에…과기정통부,독파모2차평가항목별세부지표공개",
-  "SKT,3G서비스단계적종료추진…20일부터신규가입전격중단",
-  "SKT,3G신규가입중단···LTE·5G전환지원본격화",
-  "[데일리픽]비트코인,美정책겹호재에7만달러육박…통신3사'모두의...",
-  "영상통화시대열었던3G역사속으로…서비스종료수순",
-  "독파모세부성적공개…모티프·SKT·LG평가별1위",
-  "[DD퇴근길]“도메인내놔”VS“적법계약”…싸이월드부활,법정으로...",
-  "라이너-리벨리온,'K-AI풀스택'사업화…중동·글로벌시장공동공략",
-  "독파모2차평가성적표공개…SKT·LG·모티프‘항목별1위’",
   "과기부,독파모2차평가항목별성적표공개…LG·SKT,각2개씩1위",
   "SKT,3G서비스신규가입중단...LTE·5G전환지원추진",
   "투명성논란에독파모평가추가공개…모티프·SKT·LG항목별선두",
@@ -6001,7 +5991,17 @@
   "\"240만화이트해커집단지성활용\"…LG유플러스,사이버보안영토확장",
   "엔비디아,‘1조파라미터’오픈AI모델개발",
   "엔비디아,AI개발사와60억弗기술제휴…中경쟁대비",
-  "제네시스,샌프란시스코테크브리프서플래그십전동화SUV'GV90'신기술..."
+  "제네시스,샌프란시스코테크브리프서플래그십전동화SUV'GV90'신기술...",
+  "LGU+,버그바운티플랫폼'해커원'과맞손...\"보안환경강화\"",
+  "[더벨][한컴AI드라이브]오피스특화에이전트,문서파싱독보적지위...",
+  "엔비디아,전력인프라투자로AI공급망넓힌다",
+  "뉴욕증시개장전특징주...스트래티지·브로드컴↑VSOSI시스템즈·아...",
+  "엔키화이트햇,페루국립공과대교수·학생대상보안교육진행",
+  "LG유플러스,보안검증망세계로넓힌다..통신사첫글로벌화이트해커...",
+  "LG유플러스,통신사최초'글로벌버그바운티'도입…해커원과보안공...",
+  "LG유플러스,국내통신사최초글로벌버그바운티오픈",
+  "LG유플러스전세계화이트해커와보안망강화",
+  "“8,000돌파6,000지지갈림길…엔비디아·잭슨홀최대변수”<대신證..."
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,17 @@
   [
    "2026-08-24T09:02:15.768015+09:00",
    "대비 60억 경쟁 개발사와 기술제휴"
+  ],
+  [
+   "2026-08-24T09:04:14.243843+09:00",
+   "강화 화이트해커와 ~LGU 보안망 LG유플러스 세계"
+  ],
+  [
+   "2026-08-24T09:04:14.243843+09:00",
+   "변수 지지 잭슨홀 갈림길 대신 돌파"
   ]
  ],
- "last_run": "2026-08-24T09:02:42.266342+09:00",
+ "last_run": "2026-08-24T09:04:38.171692+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
