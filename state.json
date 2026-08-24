@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngetnews.com/news/articleView.html?idxno=551969",
-  "https://www.sentv.co.kr/article/view/sentv202607300053",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5046142",
-  "https://byline.network/?p=9004111222613620",
-  "http://www.newsdream.kr/news/articleView.html?idxno=115375",
-  "https://www.hankyung.com/article/202607292150r",
-  "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000107.html",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577812922483",
-  "https://www.businessplus.kr/news/articleView.html?idxno=114841",
-  "https://www.mt.co.kr/tech/2026/07/31/2026073010273395562",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=133641",
   "https://biz.heraldcorp.com/article/10825419",
   "https://www.viva100.com/article/20260730500505",
   "https://www.hani.co.kr/arti/economy/marketing/1270558.html",
@@ -2999,20 +2988,20 @@
   "https://www.news1.kr/photos/8068699",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400072.html",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400061.html",
-  "https://www.news1.kr/photos/8068702"
+  "https://www.news1.kr/photos/8068702",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462132",
+  "https://www.etoday.co.kr/news/view/2617348",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3672307",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608240901038350001",
+  "https://www.joongangenews.com/news/articleView.html?idxno=542073",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93244",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/24/2026082400079.html",
+  "https://www.yna.co.kr/view/AKR20260824051600017?input=1195m",
+  "https://view.asiae.co.kr/article/2026082410191126822",
+  "https://www.newspim.com/news/view/20260824000293",
+  "https://biz.heraldcorp.com/article/10849670"
  ],
  "seen_titles": [
-  "삼성SDS,2분기영업이익2318억원전…전년대비0.7%성장",
-  "삼성SDS,2분기영업익2318억원…전년比0.7%증가",
-  "삼성SDS,2분기매출3조7178억…클라우드·물류동반성장",
-  "삼성SDS,2분기영업이익2318억원…AI·클라우드성장지속",
-  "삼성SDS,클라우드·물류동반성장에2분기실적개선",
-  "삼성SDS,2Q영업익2318억·0.7%↑…IT서비스·AI사업호조",
-  "삼성SDS,2분기매출전년보다5.9%늘어",
-  "삼성SDS,2분기2분기매출3조7178억…클라우드·물류동반성장",
-  "삼전닉스올마이티?[정삼기의경영프리즘]",
-  "삼성SDS,2분기영업익소폭증가…클라우드성장에매출3조7178억원...",
-  "삼성SDS,2분기영업익2318억원…전년比0.7%↑",
   "[비즈+]삼성SDS,2분기매출3조7178억·영업익2318억…클라우드·물류...",
   "삼성SDS,2분기매출3.7조\"AI·클라우드가견인\"…전년비6%↑",
   "삼성SDS,2분기영업익2318억...전년比0.7%↑",
@@ -6001,7 +5990,18 @@
   "KT,AI기반업무혁신체계'AID-X'확대",
   "KT,'NextIT'로전사IT현대화추진",
   "'반도체랠리'최대고비…엔비디아·잭슨홀에코스피촉각",
-  "삼전6%급락에코스피6800선깨져…엔비디아·잭슨홀대기"
+  "삼전6%급락에코스피6800선깨져…엔비디아·잭슨홀대기",
+  "LGU+,240만화이트해커와'보안빈틈'찾는다",
+  "LCKCL정규시즌종료⋯PO향한플레이-인오늘개막",
+  "제주전역이거대한미술관…제주비엔날레,83일간세계와만난다",
+  "[증권가로수]키움증권/메리츠증권/한투운용/마스턴운용",
+  "K게임,역대최대규모'게임스컴'출격...글로벌신작경쟁본격화",
+  "코스피,1%대↓6,700선...삼전닉스150조주주환원에도썰렁",
+  "NHN,AIDC강자로자리매김…'소유'대신'실리'전략통했다",
+  "타조키우고K-펫푸드수출…지역청년CEO들의도전",
+  "KT,IT현대화·AI네이티브로업무생산성향상…AX비전가속",
+  "KT,전사IT'AI중심'으로싹바꾼다…AX사업기반강화",
+  "최태원만난李대통령,이번주이재용·정의선회장과도회동[비즈360..."
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,13 @@
   [
    "2026-08-24T10:20:21.461089+09:00",
    "혁신 업무 기반 ~KT AID 확대 체계"
+  ],
+  [
+   "2026-08-24T10:22:15.142440+09:00",
+   "만난 이재용 정의선 회장과도 회동 이번주 대통령 비즈360"
   ]
  ],
- "last_run": "2026-08-24T10:20:43.338405+09:00",
+ "last_run": "2026-08-24T10:22:39.293966+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
