@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/cryptocurrency/395312",
-  "https://www.tokenpost.kr/news/cryptocurrency/395201",
-  "https://www.tokenpost.kr/news/breaking/395101",
-  "https://www.tokenpost.kr/news/cryptocurrency/395089",
-  "https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html?partner=naver",
   "http://coinreaders.com/254042",
   "https://www.hani.co.kr/arti/economy/it/1273981.html",
   "https://www.newspim.com/news/view/20260821000158",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/industry/distribution/6269266",
   "https://www.econovill.com/news/articleView.html?idxno=748875",
   "https://www.techm.kr/news/articleView.html?idxno=154600",
-  "https://www.techm.kr/news/articleView.html?idxno=154601"
+  "https://www.techm.kr/news/articleView.html?idxno=154601",
+  "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html?partner=naver",
+  "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html?partner=naver",
+  "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html?partner=naver",
+  "https://www.thelec.kr/news/articleView.html?idxno=61338",
+  "https://www.techm.kr/news/articleView.html?idxno=154602"
  ],
  "seen_titles": [
-  "오픈AI매출조직재편,라지치가지휘한다",
-  "마하200명,석탄AI데이터센터반대서한",
-  "1억달러크레딧,앤트로픽AI보안실험확대",
-  "구글,빅쿼리AI에이전트로데이터준비자동화",
-  "엔비디아,오하이오AI데이터센터전력확보",
   "플롭네트워크,AI에이전트결제층구상제시",
   "OpenAI’sTwo-WeekPause+JillLeporeontheThreatofthe“Artificial.",
   "엔비디아(NVDA)\"중국AI칩개발은사실무근\"...월가강세론은'건재'",
@@ -6001,7 +5996,12 @@
   "쉴새없이돌아가는생산라인에…하이트진로공장찾은외국인들'탄성...",
   "[CEO파일]임동준한화운용대표,글로벌투자내공앞세워대체·해외투...",
   "[글로벌]베라루빈·그레이스블랙웰서버,메모리값급등에15%이상오...",
-  "[글로벌]오픈AI,캘리포니아AI안전법강화제안...기존반대서입장..."
+  "[글로벌]오픈AI,캘리포니아AI안전법강화제안...기존반대서입장...",
+  "S.E.C.InvestigatingNear-ImplosionofA.I.HedgeFund",
+  "AttackedbyA.I.Agents,ThisStart-UpEmbarkedonaCrusade",
+  "AnatomyofanAutonomousAttack:5AlarmingA.I.Capabilities",
+  "카카오AI초대이사회윤곽…전장관·국세청장·KTCTO까지",
+  "[글로벌]엔비디아,풀사이드와60억달러기술계약...네모트론개발인..."
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-08-25T18:38:16.737984+09:00",
    "입장 반대서 기존 제안 강화 캘리포니아 안전법"
+  ],
+  [
+   "2026-08-25T18:40:23.081145+09:00",
+   "네모트론 계약 기술 개발 60억달러 풀사이드와"
   ]
  ],
- "last_run": "2026-08-25T18:38:34.920184+09:00",
+ "last_run": "2026-08-25T18:40:45.034438+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
