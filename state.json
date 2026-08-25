@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12314936?influxDiv=NAVER",
-  "https://news.mtn.co.kr/news-detail/2026082510154017827",
-  "https://www.inthenews.co.kr/news/article.html?no=90842",
-  "https://www.sportschosun.com/baseball/2026-08-25/202608250100145390009273",
-  "https://www.fntimes.com/html/view.php?ud=202608251034585442048b718333_18",
   "https://www.gukjenews.com/news/articleView.html?idxno=3673730",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=86037",
   "https://biz.sbs.co.kr/article_hub/20000330528?division=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.newspim.com/news/view/20260826000068",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=87922",
   "https://www.edaily.co.kr/News/Read?newsId=02574806645551256&mediaCodeNo=257",
-  "https://www.ytn.co.kr/_ln/0102_202608260750583990"
+  "https://www.ytn.co.kr/_ln/0102_202608260750583990",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431779",
+  "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690033.html",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41597",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431780",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431777"
  ],
  "seen_titles": [
-  "SKT·KT·LGU+,AI·구독·인재경쟁…통신3사고객·사업경쟁력강화",
-  "SK텔레콤주가,8월25일장중101,000원1.27%하락",
-  "미국,호남반도체언급하며\"현지에공장지어달라\"압박",
-  "파도'SURF',GS인증1등급...해킹·방어실전훈련공략",
-  "SKB,지역사회청년CEO이야기담은‘위대한삼촌:로컬히어로의탄생...",
   "'속터지다가도미소가절로...'드디어우타거포키워냈다.그것도2명...",
   "포스코이앤씨,분당느티마을4단지리모델링…'더샵분당하이스트'9월...",
   "[GJ포토+]갤럭시로봇파크서공연하는휴머노이드로봇들",
@@ -6001,7 +5996,12 @@
   "이대통령,최태원이어정의선·이재용연쇄회동…'3대메가프로젝트...",
   "뉴욕증시3대지수동반상승,엔비디아반등·국채금리하락에투자심...",
   "美반도체반등에코스피힘받나…엔비디아실적분수령[뉴스새벽배송]",
-  "\"4연속어닝서프라이즈에도주가빠져\"엔비디아관건은'이것'?"
+  "\"4연속어닝서프라이즈에도주가빠져\"엔비디아관건은'이것'?",
+  "국채선물,유가이틀째급락에상승…10년물40틱↑",
+  "외신\"美-이란휴전에합의…호르무즈자유통항등포함합의문발표...",
+  "답변하는AI에서일하는AI로진화…유베이스,컨택센터운영혁신",
+  "[외환]증시호조·이란긴장완화조짐에1,380원대초반대로",
+  "[카카오인적분할②]투자사로남는카카오X…6.4조로성장동력찾기"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,13 @@
   [
    "2026-08-26T08:12:13.145861+09:00",
    "이것 관건은 어닝 빠져 서프라이즈에도 4연속 주가"
+  ],
+  [
+   "2026-08-26T08:14:18.992104+09:00",
+   "카카오X 4조로 성장동력 남는 투자사로 찾기"
   ]
  ],
- "last_run": "2026-08-26T08:12:37.064404+09:00",
+ "last_run": "2026-08-26T08:14:39.495717+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
