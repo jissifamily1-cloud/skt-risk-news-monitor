@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=213331",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=688189",
-  "https://zdnet.co.kr/view/?no=20260730094754",
-  "https://www.aitimes.com/news/articleView.html?idxno=213292",
   "https://zdnet.co.kr/view/?no=20260729143549",
   "https://zdnet.co.kr/view/?no=20260729100239",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=687843",
@@ -2999,13 +2995,13 @@
   "https://www.tokenpost.kr/news/market/397465",
   "https://www.sportschosun.com/baseball/2026-08-25/202608250100150070009583",
   "https://www.chosun.com/national/national_general/2026/08/25/SEYBLCWGYZHNJB6EXXL4DV3W3I/",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317931"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317931",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859540",
+  "https://www.sportschosun.com/baseball/2026-08-25/202608250100150080009584",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260825201249c54",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16173223"
  ],
  "seen_titles": [
-  "샘알트먼\"AI가생각대신하면인간인지능력약해질수있다\"",
-  "오픈AI첫하드웨어,화면달린스마트스피커가능성",
-  "알트먼,미의회·백악관연쇄방문...'통제벗어난AI에이전트'규제...",
-  "샘알트먼\"AI시대에도주4일제없다…우린더바빠질것\"",
   "[AI는지금]美의회간샘알트먼,'통제불능AI'규제방안찾을까",
   "[7월29일]'앙숙'오픈AI와앤트로픽,왜\"AI개발속도늦추자\"고입을...",
   "오픈AI에이전트,허깅페이스이어외부서비스까지침해",
@@ -6001,7 +5997,11 @@
   "엔비디아27%줄인브리지워터,에이엠디늘렸다",
   "[포토]역전솔로포양의지,개인통산300호홈런폭발",
   "연세대“AI로입법부·행정부의투명성높일것”",
-  "\"KBS사측,'제작자율성일괄삭제'편성규약안내밀어\""
+  "\"KBS사측,'제작자율성일괄삭제'편성규약안내밀어\"",
+  "김도영의KIA,2주연속KBO리그관심도1위",
+  "[포토]역전포양의지,통산300호홈런폭발",
+  "4%급락딛고반등…코스피6,700선회복",
+  "AI워터마크역설…표시없어도AI제작가능"
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,13 @@
   [
    "2026-08-25T20:14:14.775773+09:00",
    "내밀어 일괄삭제 편성규약안 사측 KBS 제작자율성"
+  ],
+  [
+   "2026-08-25T20:16:15.664071+09:00",
+   "워터마크 없어도 표시 제작 역설 가능"
   ]
  ],
- "last_run": "2026-08-25T20:14:35.810510+09:00",
+ "last_run": "2026-08-25T20:16:33.763974+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
