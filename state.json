@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260825_0003761409",
-  "https://www.segye.com/newsView/20260825507084?OutUrl=naver",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=207078",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445493",
-  "https://www.segye.com/newsView/20260825506606?OutUrl=naver",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851425",
   "https://www.edaily.co.kr/News/Read?newsId=03158646645550928&mediaCodeNo=257",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005907631",
   "https://www.aitimes.com/news/articleView.html?idxno=214276",
@@ -2999,15 +2993,15 @@
   "https://www.consumuch.com/news/articleView.html?idxno=78863",
   "https://www.sportschosun.com/baseball/2026-08-26/202608260100152080009730",
   "http://www.segyebiz.com/newsView/20260826503160?OutUrl=naver",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=741140"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=741140",
+  "https://www.sidae.com/article/2026082608282345569",
+  "https://www.m-i.kr/news/articleView.html?idxno=1406009",
+  "https://www.kbanker.co.kr/news/articleView.html?idxno=225749",
+  "https://biz.heraldcorp.com/article/10851163",
+  "https://www.etoday.co.kr/news/view/2618138",
+  "https://www.fnnews.com/news/202608260758065988"
  ],
  "seen_titles": [
-  "삼성전자,게임스컴서게이밍풀스택공개…기기경계허문다",
-  "‘중앙행정기관과지방이전’막바지조율…오늘국무회의안건에선빠...",
-  "카카오AI첫이사회에임혜숙전과기장관·김대지전국세청장합류",
-  "흥국화재,차세대청약시스템가동…상품개정10일→2일단축",
-  "KT,대졸신입채용실시…AI활용역량평가반영",
-  "KT대졸신입사원채용,현장직무채용2배확대하고AI활용역량평가",
   "KT와선두경쟁중인삼성에‘천군만마’후라도가돌아온다...후라도-...",
   "[게임스테이션]'열혈강호'업뎃·LCK'플레이오프돌입'·'에이지트위...",
   "\"불법아니죠?\"묻고한알바,보이스피싱피의자됐다[돈분쟁해결소]",
@@ -6001,7 +5995,13 @@
   "카카오페이,개인정보관련제재189억원…ESG보고서엔'0원'",
   "양의지는왜신발을벗어던졌나…300홈런의밤,두팔번쩍들어흠뻑...",
   "[뉴욕증시]반도체주강세·국채금리하락…나스닥0.66%↑",
-  "줄어드는시장,삼성의선방이유는?"
+  "줄어드는시장,삼성의선방이유는?",
+  "포스코인터,종이선하증권없앤다",
+  "중동긴장완화에반도체반등...나스닥0.66%↑[뉴욕증시]",
+  "[지출의기술]챗GPT에클로드까지…AI구독료,다내지마세요",
+  "‘중앙행정기관지방이전’막바지조율…오늘국무회의안건에선빠져",
+  "IBK투자증권\"티엘비,엔비디아베라수혜…쏘캠성장본격화\"",
+  "오픈AI\"자체개발칩,엔비디아칩대비작업량1.9배\"[글로벌AI브리핑]"
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,13 @@
   [
    "2026-08-26T08:42:13.343533+09:00",
    "제재 ESG 0원 보고서엔 개인정보 카카오페이 189억원"
+  ],
+  [
+   "2026-08-26T08:46:14.736950+09:00",
+   "작업량 자체개발 9배 대비"
   ]
  ],
- "last_run": "2026-08-26T08:44:30.023792+09:00",
+ "last_run": "2026-08-26T08:46:31.777636+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
