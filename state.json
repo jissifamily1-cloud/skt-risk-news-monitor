@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/market/397122",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=271927",
-  "http://www.breaknews.com/1231225",
-  "https://view.asiae.co.kr/article/2026082510270930298",
-  "https://www.greened.kr/news/articleView.html?idxno=348330",
   "https://www.moneystorm.kr/news/articleView.html?idxno=5957",
   "https://www.sportschosun.com/baseball/2026-08-25/202608250100145280009263",
   "http://www.osen.co.kr/article/G1112863190",
@@ -2999,14 +2994,14 @@
   "https://www.etnews.com/20260826000008",
   "https://www.yna.co.kr/view/AKR20260826019500008?input=1195m",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52343",
-  "https://www.smartbizn.com/news/articleView.html?idxno=152124"
+  "https://www.smartbizn.com/news/articleView.html?idxno=152124",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260826075239m71",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6847371_37012.html",
+  "https://www.etnews.com/20260826000009",
+  "https://biz.sbs.co.kr/article_hub/20000330753?division=NAVER",
+  "https://www.dt.co.kr/article/12080229"
  ],
  "seen_titles": [
-  "美반도체한파…장중6,500선무너진코스피",
-  "반도체AI시장,2035년2559억달러…고성능가속기·추론칩팽창",
-  "미주가지수선물0.05%상승,국채금리도올라",
-  "KT,'대졸신입채용'통해AX현장이해할미래인재키운다",
-  "KT,대졸신입채용진행..고객·사업현장직무확대",
   "KT,대졸신입사원공채…AI활용역량중점평가",
   "'AX플랫폼컴퍼니'KT,함께성장할'올라운더인재'찾는다",
   "[탐사경]미국은왜비트코인과스테이블코인에베팅하나…40조달러부...",
@@ -6001,7 +5996,12 @@
   "IPO앞둔오픈AI,데이터센터총괄도퇴사…임원이탈이어져",
   "[마켓뷰]美반도체반등에코스피탄력받나…D-1엔비디아실적주시",
   "하닉A와마이크론2%대상승…엔비디아반등",
-  "뉴욕증시,엔비디아앞두고반등···유가·금리하락에기술주웃었다"
+  "뉴욕증시,엔비디아앞두고반등···유가·금리하락에기술주웃었다",
+  "[3분증시]뉴욕증시,중동긴장완화에동반상승",
+  "중동긴장완화에뉴욕증시상승",
+  "다크판타지'타래'한국어트레일러로ONL데뷔...크래프톤신작5종...",
+  "[부자들의투자노트]美투자회사\"엔비디아,실적호조만으로는주가...",
+  "“엔비디아보다빠르고효율적”…오픈AI,자체칩‘할라피뇨’승부수"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,13 @@
   [
    "2026-08-26T07:42:13.404110+09:00",
    "콘텐츠 공룡에 밀린 벼랑 갈수록 PP"
+  ],
+  [
+   "2026-08-26T07:54:13.615721+09:00",
+   "빠르고 자체칩 엔비디아보다 효율적 할라피뇨 승부수"
   ]
  ],
- "last_run": "2026-08-26T07:52:30.005582+09:00",
+ "last_run": "2026-08-26T07:54:36.696633+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
