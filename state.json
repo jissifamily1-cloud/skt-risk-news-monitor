@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.nongaek.com/news/articleView.html?idxno=96514",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102396",
-  "https://www.joongangenews.com/news/articleView.html?idxno=542460",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673679",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673695",
-  "https://www.newsis.com/view/NISX20260825_0003761187",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577198055424",
   "http://www.metroseoul.co.kr/article/20260825500131",
   "https://www.yna.co.kr/view/AKR20260825076600008?input=1195m",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716459&plink=ORI&cooper=NAVER",
@@ -2999,16 +2992,16 @@
   "https://www.slist.kr/news/articleView.html?idxno=761359",
   "https://www.gukjenews.com/news/articleView.html?idxno=3674744",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690051.html",
-  "https://www.newspim.com/news/view/20260826000091"
+  "https://www.newspim.com/news/view/20260826000091",
+  "http://www.yonhapnewstv.co.kr/news/MYH202608260832585Kp",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41599",
+  "https://www.asiatime.co.kr/article/20260825500431",
+  "https://www.news1.kr/bio/healthcare/6269515",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695247",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=143543",
+  "https://www.tokenpost.kr/news/ai/397804"
  ],
  "seen_titles": [
-  "손실123억달러의일주일,오픈AI가흔들린다",
-  "앤스로픽미공개클로드2종포착보도",
-  "KT,'모두의AI'컨소시엄구축…국산NPU·AI기술연계",
-  "엔비디아추론칩양산본격화…삼성파운드리수혜기대",
-  "[LCK이모저모]포스트시즌돌입...KT·브리온등4개팀플레이-인격돌",
-  "거제포도농가침수피해…창녕군공무원40여명복구봉사",
-  "1,200명모인밀양국궁장…전국궁도대회성황리에마무리",
   "AI주하락에무너진24세의헤지펀드…美SEC조사착수",
   "AI·SDV로달리는자율주행기술한자리에…'AME2026'코엑스서개막",
   "SK텔레콤,초경량모델'갤럭시퀀텀7'출시",
@@ -6001,7 +5994,14 @@
   "'신병4'돌아오자마자터졌다…2회만에월화극2049시청률1위",
   "용인도시공사,세계마약퇴치의날맞아청소년예방캠페인동참",
   "[아이온의AI:온]AI혁명의숨겨진'물청구서'",
-  "[AIMY뉴스]26일중국증시'엔비디아실적발표앞두고기술주반등시..."
+  "[AIMY뉴스]26일중국증시'엔비디아실적발표앞두고기술주반등시...",
+  "이란,오만과호르무즈항로합의…\"미·이란휴전\"보도도",
+  "루닛,국가과제AI모델활용첫해커톤성료…개발자·임상의등70여...",
+  "[시승기]국민세단의진화…현대차아반떼,디자인·성능·기술로엔트...",
+  "루닛,국가과제AI활용첫해커톤성료…개발자·임상의70여명집결",
+  "너무빠른AI발전속도…쉬는순간뒤처질까불안한개발자들",
+  "[증시포인트]대외환경호전긍정적...상승출발전망",
+  "5000억달러AI금융,엔비디아설명요구커졌다"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-08-26T08:30:28.456947+09:00",
    "인공지문 빛으로 불가능 휴대폰 판별 즉각 위조여부"
+  ],
+  [
+   "2026-08-26T08:34:15.586200+09:00",
+   "설명 커졌다 요구 5000억달러 금융"
   ]
  ],
- "last_run": "2026-08-26T08:32:34.817279+09:00",
+ "last_run": "2026-08-26T08:34:33.335392+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
