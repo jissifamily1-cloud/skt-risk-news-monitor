@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2617812",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=810736",
-  "https://www.news1.kr/it-science/cc-newmedia/6268534",
-  "https://biz.heraldcorp.com/article/10849863",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274658",
-  "https://www.bntnews.co.kr/article/view/bnt202608250138",
-  "https://zdnet.co.kr/view/?no=20260825103531",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673701",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673712",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673743",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=128951",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=859269",
   "https://www.cnbizm.com/news/articleView.html?idxno=312586",
@@ -2999,19 +2989,19 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5214876",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695502",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695504",
-  "https://www.catchnews.kr/news/articleView.html?idxno=127706"
+  "https://www.catchnews.kr/news/articleView.html?idxno=127706",
+  "http://www.thebigdata.co.kr/view.php?ud=2026082515073985770ecbf9426b_23",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859578",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=272343",
+  "http://www.civicnews.com/news/articleView.html?idxno=40336",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=272344",
+  "https://www.ajunews.com/view/20260826082329358",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431784",
+  "https://kidd.co.kr/news/247157",
+  "http://www.newsprime.co.kr/news/article.html?no=745129",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674776"
  ],
  "seen_titles": [
-  "KT,대졸신입채용…NW인프라·B2B·B2C채용확대",
-  "연세대,오픈AI글로벌정책연구지원사업선정…국내대학유일",
-  "‘삼성생산’엔비디아그록3,양산돌입...고객사네비우스",
-  "[오늘증시]엔비디아실적앞'살얼음판'…코스피6500선·코스닥800선↓",
-  "\"크리에이터,팬모여라\"…방미통위,미디어축제연다",
-  "SKB,지방청년CEO조명‘위대한삼촌’시즌2첫방송",
-  "SK브로드밴드,지역정착청년조명'위대한삼촌'시즌2",
-  "‘신병4’2중대에무슨일이?",
-  "LCK,플레이오프진출권2장주인공가린다…26일플레이-인개막",
-  "'복지서비스개선모색'…밀양시의회,노인요양원·복지관현장점검",
   "밀양시청배드민턴팀,베트남국제시리즈서금2·은1·동1수확",
   "[GJ포토]휴머노이드로봇들과합동공연을한K타이거즈",
   "[마켓펄스]외인,'삼전닉스'연일매도에코스피3%대하락",
@@ -6001,7 +5991,17 @@
   "IPO앞둔오픈AI,임원줄줄이이탈…이번엔데이터센터총괄",
   "오픈AI또임원공백…데이터센터총괄퇴사",
   "샘알트먼\"AI,아직아이폰의순간못왔다\"…직접인정한충격적현실",
-  "\"실무AI활용능력이당락가른다\"KT,대졸신입채용큰폭늘려"
+  "\"실무AI활용능력이당락가른다\"KT,대졸신입채용큰폭늘려",
+  "삼성,스마트폰시장14%줄어도1위…‘메모리값3배’수익성은과제",
+  "루닛,의료AI해커톤성료…임상적용가능성검증",
+  "[굿모닝!글로벌뉴욕증시]국채금리하락과반도체저가매수세유입으...",
+  "[부산변호사한변의리얼상담실56]삼전닉스왕좌,결국누가가져가나",
+  "[박정식의국내주식시황]반도체섹터강세로대다수호실적섹터상승...",
+  "[마켓프리뷰]美증시반등에코스피도상승출발예고?…반도체주저가...",
+  "NDF,1,381.70/1,382.10원…3.80원↓",
+  "[비철금속시황]구리,낮은재고에3거래일연속상승…1주일만의최고...",
+  "[해외시황]뉴욕증시,금리·유가하락속반도체株반등에'상승'…나스...",
+  "나스닥다우지수상승마감...엔비디아등기술주반등"
  ],
  "recent_sigs": [
   [
@@ -6333,7 +6333,7 @@
    "아이폰의 순간 충격적 인정한 직접 현실 왔다 아직"
   ]
  ],
- "last_run": "2026-08-26T08:26:38.728108+09:00",
+ "last_run": "2026-08-26T08:28:32.207310+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
