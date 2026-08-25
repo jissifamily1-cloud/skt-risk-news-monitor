@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=542019",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608240853224240996",
-  "https://www.newsis.com/view/NISX20260824_0003759434",
-  "http://www.inews24.com/view/1997483",
-  "http://www.datanews.co.kr/news/article.html?no=146139",
-  "https://www.newspim.com/news/view/20260824000158",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275323",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=418402",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=308890",
-  "https://www.edaily.co.kr/News/Read?newsId=02361606645550600&mediaCodeNo=257",
-  "https://biz.heraldcorp.com/article/10849535",
   "https://www.sentv.co.kr/article/view/sentv202608240020",
   "https://www.mk.co.kr/article/12134391",
   "https://www.edaily.co.kr/News/Read?newsId=02371446645550600&mediaCodeNo=257",
@@ -2999,20 +2988,20 @@
   "https://www.viva100.com/article/20260825500139",
   "https://www.it-b.co.kr/news/articleView.html?idxno=89606",
   "https://www.dailian.co.kr/news/view/1681830/?sc=Naver",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480256"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480256",
+  "https://zdnet.co.kr/view/?no=20260825090545",
+  "https://www.ddaily.co.kr/page/view/2026082508213710001",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3673279",
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=905558",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571675195363",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170387",
+  "https://www.dt.co.kr/article/12079973",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443267",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=207039",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=418443",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500045.html"
  ],
  "seen_titles": [
-  "[뉴욕마켓브리핑](24일)",
-  "SKT,서울대와맞손…'미래AI리더'육성박차",
-  "정재헌SKT대표,서울대생300명에'AI미래'강의한다",
-  "KT,핵심IT시스템AI기반재편한다…보안·장애대응강화",
-  "엔비디아,中AI에'8조승부수'…풀사이드손잡고오픈웨이트최강노...",
-  "[유통딜리버리]CUㆍGS샵ㆍ이마트24ㆍSSG닷컴ㆍ무신사ㆍ롯데온ㆍKT알파...",
-  "엔키화이트햇,페루공대교수·학생에AI공격·웹해킹교육",
-  "라이너,모바일앱에'글쓰기'탭오픈",
-  "메가존클라우드-핑거,300억상호투자…금융AX맞손",
-  "핑거·메가존클라우드,'금융산업AX사업협력'파트너십체결",
-  "MemoryCrunchForcesNvidiatoRaiseServerPrices,BoostingSamsunga",
   "SKT,서울대와AI인재키운다",
   "KT·SKT,AI사업기반강화…내부혁신·인재양성확대",
   "아크릴,엔비디아GPU·국산NPU통합운용…‘소버린AX’전략공개",
@@ -6001,7 +5990,18 @@
   "SKT,‘갤럭시퀀텀7’출시⋯“두께는줄이고AI채운가성비스마트...",
   "SKT,'갤럭시퀀텀7'출시…실용적AI∙고성능기능탑재",
   "SKT,가장얇은'갤럭시퀀텀7'출시…70만원대에AI기능강화",
-  "SKT,역대시리즈중가장얇고가벼운'갤럭시퀀텀7'출시"
+  "SKT,역대시리즈중가장얇고가벼운'갤럭시퀀텀7'출시",
+  "LGU+,구독서비스'유독'에CGV·배민·구글AI프로추가",
+  "“AI도골라쓴다”…LGU+,‘유독Pick’라인업확대",
+  "단양군,2026년을지연습4일간성공마무리…\"협력체계강화\"",
+  "단양군,`2026년을지연습`성공적마무리",
+  "삼성전자,원스톱혼수특화매장'삼성스토어청담점'전면리뉴얼오...",
+  "美마이크론·AMD'급락'속...삼성전자·SK하이닉스'하락출발'",
+  "머스크“내년4분기첫AI위성발사”",
+  "SKT,전용단말'갤럭시퀀텀7'출시…두께6.9㎜·무게179g",
+  "SK텔레콤,전용단말'갤럭시퀀텀7'출시…70만원대준플래그십",
+  "LG유플러스,'유독Pick'판키운다",
+  "KT,‘모두의AI’총력전…국산NPUAI모델클라우드역량집결"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-08-25T09:08:16.321758+09:00",
    "머스크 내년 루빈 탑재 베라 발사 위성"
+  ],
+  [
+   "2026-08-25T09:12:13.187559+09:00",
+   "NPU ~KT 역량 모델 클라우드 모두의 집결 국산 총력전"
   ]
  ],
- "last_run": "2026-08-25T09:10:42.268881+09:00",
+ "last_run": "2026-08-25T09:12:37.443202+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
