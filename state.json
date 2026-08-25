@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2116750",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208158",
-  "https://www.sedaily.com/article/20082456",
-  "https://www.newscj.com/news/articleView.html?idxno=3427211",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443242",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2274640",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83701",
-  "https://www.nocutnews.co.kr/news/6566718",
-  "https://www.livebiz.today/news/articleView.html?idxno=204342",
-  "https://zdnet.co.kr/view/?no=20260824100122",
   "https://www.itworld.co.kr/article/4212670/챗gpt-맥-메시지-완전-접근-요구-프라이버시의-새로운.html",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=252406",
   "https://www.ngonews.kr/news/articleView.html?idxno=236113",
@@ -2999,19 +2989,19 @@
   "https://www.dailian.co.kr/news/view/1681902/?sc=Naver",
   "https://biz.sbs.co.kr/article_hub/20000330541?division=NAVER",
   "https://theviewers.co.kr/View.aspx?No=4197757",
-  "https://www.sedaily.com/article/20082872"
+  "https://www.sedaily.com/article/20082872",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1286693",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3673642",
+  "https://byline.network/?p=9004111222616392",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=663041",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=705487",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252443",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252442",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=207051",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=609498",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721511"
  ],
  "seen_titles": [
-  "KT알파쇼핑,스타셀러'쓰리백'과라오메뜨패치특집방송",
-  "[증시타임]AI·빅테크부터테슬라까지…하반기증시핵심변수는?",
-  "스푼랩스,2028년IPO추진…국내증권사대상주관사선정착수",
-  "현대차·기아,첫차량용앱해커톤성료…100명아이디어로'플레오스...",
-  "SKTAI전문가들서울대강단에…미래인재키운다",
-  "LG유플러스,국내통신사최초글로벌버그바운티운영…해커원과협력",
-  "LG유플러스,보안취약점발견한해외화이트해커에포상금준다",
-  "앤트로픽'페이블5'출시두달째수요지지부진",
-  "현대차·기아,차량용앱개발사내해커톤'24H코드레이스'마무리",
-  "SK텔레콤·서울대,AI인재양성공동과정개설",
   "KT,'NextIT'전략가동…사내시스템AI중심으로재편",
   "개인정보위,보호체계강화이끈직원들에'고래상'시상",
   "해커와손잡은LGU+...글로벌화이트해커활용보안취약점발굴",
@@ -6001,7 +5991,17 @@
   "KT,AI활용역량갖춘대졸신입채용…9월7일까지",
   "머스크\"내년4분기첫AI위성발사…엔비디아'베라루빈'탑재\"",
   "[애널픽]엔비디아,어닝서프도부족...\"젠슨황입주목\"",
-  "강력해지는삼성파운드리,‘엔비디아그록’세계최고속도로생산돌..."
+  "강력해지는삼성파운드리,‘엔비디아그록’세계최고속도로생산돌...",
+  "[오늘의일정]8월25일화요일스포츠경기",
+  "박은정의원,나주라온초·광주금호중앙여고방문…출입관리시스템점...",
+  "숨랩스,기업가치200억원대로프리시드투자유치완료",
+  "코스피,외인순매도에6480선급락",
+  "60개국철도기업총출동···현대로템·알스톰,'수소·AI'로맞붙는다",
+  "SKT,슬림디자인준플래그십단말'갤럭시퀀텀7'출시",
+  "LG유플러스,구독플랫폼'유독Pick'라인업대폭확대",
+  "LG유플러스,'유독Pick'라인업확대…특화AI구독8종추가",
+  "[분석]엔비디아실적발표,실적보다젠슨황발언이포인트",
+  "[1%초고수의개장선택]'두산에너빌리티'사고'셀리드'줄였다"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-08-25T09:50:22.844163+09:00",
    "그록 생산 속도로 삼성파운드리 강력해지는 세계 최고"
+  ],
+  [
+   "2026-08-25T09:52:14.017011+09:00",
+   "사고 두산에너빌리티 셀리드 줄였다"
   ]
  ],
- "last_run": "2026-08-25T09:50:46.399746+09:00",
+ "last_run": "2026-08-25T09:52:33.859959+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
