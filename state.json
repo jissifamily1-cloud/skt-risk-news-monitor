@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=106137",
-  "http://www.bizwnews.com/news/articleView.html?idxno=144140",
-  "https://www.ekn.kr/web/view.php?key=20260824022325655",
-  "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html?partner=naver",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208162",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3672548",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3672532",
   "https://www.gukjenews.com/news/articleView.html?idxno=3672498",
   "http://www.thebigdata.co.kr/view.php?ud=202608241114312090df3c2a17b7_23",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60412",
@@ -2999,16 +2992,16 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721561",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=143403",
   "https://www.chosun.com/economy/tech_it/2026/08/25/4AQQVUQ3JBGIXJRSEY27HBCTKY/",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317921"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317921",
+  "https://zdnet.co.kr/view/?no=20260825110446",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032526",
+  "https://biz.sbs.co.kr/article_hub/20000330599?division=NAVER",
+  "https://www.dt.co.kr/article/12080043",
+  "https://biz.heraldcorp.com/article/10851233",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423276",
+  "http://amenews.kr/news/view.php?idx=67782"
  ],
  "seen_titles": [
-  "[금융권스타트업협업③]은행앱에서정부지원금찾기가가능했던이...",
-  "바이오북,GC녹십자오픈이노베이션사업자문착수",
-  "[통신리뷰]SKT,'모두의AI'사업참여…풀스택역량총집결(8월3주차)",
-  "\"소프트웨어·가전이어AP도구독한다\"…세인엔에스,'기업용AP구독'...",
-  "경북,미래산업부터안전·교육에로봇·K-뷰티·관광경쟁력도제고",
-  "AnthropicCouldAimtoRaise$100BillioninBlockbusterI.P.O.",
-  "엔키화이트햇,페루국립공과대대상오펜시브보안교육성료",
   "고창군,대한민국명소발굴100×100서다채로운관광지선정",
   "김제시건축사사무소14곳대상'청렴캠페인'실시",
   "창원시'노사가함께하는가족동행야구DAY'열어",
@@ -6001,7 +5994,14 @@
   "삼성전자110조보따리에도실망?…\"방향성·우선주주목할때\"",
   "엔트로픽,구글출신반도체전문가영입",
   "엔비디아,추론용칩‘그록3′양산돌입...삼성파운드리생산",
-  "방미통위,류희림의MBC'뉴스외전'법정제재'취소'"
+  "방미통위,류희림의MBC'뉴스외전'법정제재'취소'",
+  "LGCNS,대기업SI중내부거래비중최저…외부매출이절반넘어",
+  "9위SSG,한화·KIA상대6연전…젊은선발진시험대",
+  "中해커들,공격에딥시크애용…악용방지허술·비용저렴",
+  "李대통령“눈앞재정수치에매몰될때아냐…생산적재정전환”",
+  "‘중앙행정기관2차이전’국무회의안건에선빠져",
+  "엔비디아,퍼플렉시티에투자검토···기업가치41조원으로껑충",
+  "코레일,임직원참여화이트해킹대회개최"
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,17 @@
   [
    "2026-08-25T11:24:16.773978+09:00",
    "법정제재 류희림의 취소 MBC 뉴스외전"
+  ],
+  [
+   "2026-08-25T11:26:14.936433+09:00",
+   "검토 투자 껑충 퍼플렉시티에 41조원으로 기업가치"
+  ],
+  [
+   "2026-08-25T11:26:14.936433+09:00",
+   "코레일 대회 화이트해킹 참여 개최 임직원"
   ]
  ],
- "last_run": "2026-08-25T11:24:41.800917+09:00",
+ "last_run": "2026-08-25T11:26:36.825027+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -6930,7 +6938,7 @@
   "impacton.net": "IMPACT ON(임팩트온)",
   "cctimes.kr": "충청타임즈",
   "lawtv.kr": "법률방송뉴스",
-  "amenews.kr": "amenews.kr",
+  "amenews.kr": "신소재경제신문",
   "bizhankook.com": "비즈한국",
   "jmbc.co.kr": "전주MBC",
   "koreastocknews.com": "증권경제신문",
