@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479986",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260824130722pVG",
-  "https://www.naeil.com/news/read/599810",
-  "https://www.naeil.com/news/read/599805",
-  "http://www.newstomato.com/ReadNews.aspx?no=1311150&inflow=N",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336586",
-  "https://www.naeil.com/news/read/599819",
   "https://www.newscj.com/news/articleView.html?idxno=3427278",
   "http://www.newstomato.com/ReadNews.aspx?no=1311155&inflow=N",
   "http://www.metroseoul.co.kr/article/20260824500192",
@@ -2999,16 +2992,16 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=170415",
   "https://biz.chosun.com/it-science/ict/2026/08/24/YEMQUG2DWRA6TBDY4UDEDCBX3E/",
   "https://www.dailian.co.kr/news/view/1682011/?sc=Naver",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462706"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462706",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553483669",
+  "https://biz.heraldcorp.com/article/10851269",
+  "https://www.newsis.com/view/NISX20260825_0003761540",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3136933",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431665",
+  "https://zdnet.co.kr/view/?no=20260825113049",
+  "https://www.yna.co.kr/view/AKR20260825084600008?input=1195m"
  ],
  "seen_titles": [
-  "해외보험사,우주에서기후위기대응…한국은‘검토중’",
-  "해커손잡고보안취약점찾는다",
-  "글로벌전자결제인프라확장모멘텀…PG및금융보안관련주휘파람",
-  "[경제읽기]사상최대주주환원에도삼전급락…코스피하락",
-  "SKT,서울대와‘인공지능리더’육성",
-  "KT,인공지능기반업무환경혁신나서",
-  "차세대HBM두고‘용쟁호투’…삼전·하닉‘핫칩스’대전",
   "방미통위,언제까지숙고만할건가",
   "이대통령,당접촉늘리며‘통합가속도’",
   "'모두의AI'잡아라…통신3사,풀스택·연합군으로주도권경쟁",
@@ -6001,7 +5994,14 @@
   "장중,상하이OIL값'폭등'...아시아증시'줄줄이하락'",
   "엔비디아,AI스타트업우회인수…오픈소스모델개발속도전",
   "11년전오늘46조…최태원이키운하이닉스,이젠1100조[백서원의나...",
-  "부산문화재단,'성신교린'정신미래로...부산-시모노세키,조선통신사..."
+  "부산문화재단,'성신교린'정신미래로...부산-시모노세키,조선통신사...",
+  "[공식발표]'강인권수석·박경수타격·최태원작전'아시안게임나서...",
+  "잠자는카드포인트‘지역화폐’전환첫발",
+  "\"AI시대,리스크대비하려면\"…에임인텔리전스,내달7일컨퍼런스개...",
+  "키움증권고액자산가분석…청년층은SK하이닉스·중장년은삼성전자...",
+  "日증시,美반도체투매여파에닛케이1%넘게하락",
+  "[이성엽의IT프리즘]국가대표AI,모두의AI그리고프런티어AI의구분",
+  "삼전닉스휘청에코스피하락지속…엔비디아실적이벤트주시"
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,13 @@
   [
    "2026-08-25T11:32:13.500966+09:00",
    "조선통신사 정신 성신교린 부산문화재단 미래로 부산 시모노세키"
+  ],
+  [
+   "2026-08-25T11:34:14.360380+09:00",
+   "구분 AI의 그리고 프런티어 국가대표 모두의"
   ]
  ],
- "last_run": "2026-08-25T11:32:40.724840+09:00",
+ "last_run": "2026-08-25T11:34:37.148760+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
