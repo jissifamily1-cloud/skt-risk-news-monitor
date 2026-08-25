@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/254456",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2435880",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275392",
-  "https://www.boannews.com/news/articleView.html?idxno=145360",
-  "https://www.newsis.com/view/NISX20260824_0003760482",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=905515",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535043",
   "https://www.aitimes.com/news/articleView.html?idxno=214251",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054330",
   "http://www.wsobi.com/news/articleView.html?idxno=316932",
@@ -2999,16 +2992,16 @@
   "https://www.electimes.com/news/articleView.html?idxno=371570",
   "https://www.g-enews.com/view.php?ud=202608251510554837139bf6e4b2_1",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317926",
-  "http://www.seouleconews.com/news/articleView.html?idxno=93293"
+  "http://www.seouleconews.com/news/articleView.html?idxno=93293",
+  "http://www.inews24.com/view/1998094",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674217",
+  "https://www.m-joongang.com/news/articleView.html?idxno=402941",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054736",
+  "https://biz.chosun.com/it-science/ict/2026/08/24/JKWFVVJSWZC4XKVOODNMW6CRJQ/",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=201027",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=281390"
  ],
  "seen_titles": [
-  "[증시인사이트]주주환원에도삼성전자급락…코스피약세지속될까",
-  "오픈AI,개발자행사'데브데이익스체인지'10월22일서울서연다",
-  "엔비디아(NVDA),실적발표앞6일연속하락...자사주매입카드'만지...",
-  "직원1만2000명참여코레일화이트해킹보안훈련",
-  "NH농협은행,AI와상담사협업하는'고객가치센터'혁신가속화",
-  "'美사이버안보거물'폴나카소네전NSA국장,전략자문사'나카소네...",
-  "英발전소나흘멈춘사이버공격…배후로'이란연계해커'지목",
   "코레일,'사내화이트해킹대회'에직원1만2000명동참",
   "[OBS뉴스오늘2]종합특검수사마무리…'제주실종'추정시신발견·경...",
   "[AI이슈트렌드]집중호우피해·민주당전당대회주목…증권가는'대형...",
@@ -6001,17 +5994,16 @@
   "배차호엔트리연구원AI·SW보안센터장\"AI·IoT기기사이버보안…시험...",
   "SKT,AI품은준플래그십'갤럭시퀀텀7'출시",
   "\"반납8개월지난업무용노트북파손배상하라는KT서비스\"",
-  "\"미국,반도체생산시설투자와안정적물량공급압박\""
+  "\"미국,반도체생산시설투자와안정적물량공급압박\"",
+  "카카오AI첫이사회에임혜숙전과기부장관·김대지전국세청장합류",
+  "주차장입구막으면과태료최대500만원…28일부터시행",
+  "삼성·SK·현대차그룹,빅테크와손잡고세계시장삼킨다",
+  "'EV트렌드코리아'볼보ES90,미디어픽EV선정",
+  "“엔비디아,퍼플렉시티추가지분투자검토중”",
+  "[LG유플러스포커스]‘유독Pick’혜택확대…글로벌버그바운티도입",
+  "[트렌드키워드]쇼핑도AI에게맡긴다…‘에이전틱커머스’"
  ],
  "recent_sigs": [
-  [
-   "2026-08-25T09:26:13.305656+09:00",
-   "AWS GPT 키로 코딩툴 얹었다"
-  ],
-  [
-   "2026-08-25T09:26:13.305656+09:00",
-   "서버값 통보 고객사 인상 넘는"
-  ],
   [
    "2026-08-25T09:28:16.364999+09:00",
    "사업 에이전트 체결 MOU SKT와 위버스브레인 ~SKT"
@@ -6467,9 +6459,17 @@
   [
    "2026-08-25T15:24:16.543737+09:00",
    "안정적 물량공급 미국 투자와 생산시설 압박 반도체"
+  ],
+  [
+   "2026-08-25T15:26:14.649731+09:00",
+   "~LGU 혜택 유독 확대 도입 버그바운티 글로벌 Pick"
+  ],
+  [
+   "2026-08-25T15:26:14.649731+09:00",
+   "쇼핑도 커머스 에이전틱 맡긴다 AI에게"
   ]
  ],
- "last_run": "2026-08-25T15:24:34.348508+09:00",
+ "last_run": "2026-08-25T15:26:36.075480+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
