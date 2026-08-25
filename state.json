@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.impacton.net/news/articleView.html?idxno=20030",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=88338",
-  "https://www.newsen.com/news_view.php?uid=202608241804585510",
-  "https://www.thepowernews.co.kr/view.php?ud=2026082418022559799aeda69934_7",
-  "https://www.mt.co.kr/world/2026/08/24/2026082410435928320",
-  "https://www.newsen.com/news_view.php?uid=202608241808265510",
-  "https://www.newsen.com/news_view.php?uid=202608241807065510",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673101",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673098",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=878728",
-  "https://biz.sbs.co.kr/article_hub/20000330462?division=NAVER",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=257755",
   "https://www.fnnews.com/news/202608241806308352",
   "https://www.fnnews.com/news/202608241806415650",
@@ -2999,20 +2988,20 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=542628",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695369",
   "https://www.irobotnews.com/news/articleView.html?idxno=48092",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695361"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695361",
+  "https://view.asiae.co.kr/article/2026082516141206290",
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=224565",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=253121",
+  "http://www.popcornnews.net/news/articleView.html?idxno=130732",
+  "https://www.mt.co.kr/living/2026/08/25/2026082514343875094",
+  "https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html?partner=naver",
+  "https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html?partner=naver",
+  "https://www.newspost.kr/news/articleView.html?idxno=225187",
+  "https://theviewers.co.kr/View.aspx?No=4198717",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168801",
+  "https://www.newspim.com/news/view/20260825000984"
  ],
  "seen_titles": [
-  "대구광역시,신행철(71)800m예선1위결선진출...M7010km도금메달",
-  "We’reinaNewEraofClassWarfare.IsChangeStillPossible?",
-  "AI가띄운SMR주식43조원증발...오클로·뉴스케일급락이던진경고는...",
-  "사회문제해결,'보고','듣고','즐긴다'…사회적가치페스타,9월코...",
-  "이원정,미소가득하트[포토엔HD]",
-  "림피드‘트러스티푸드’,마켓컬리브랜드관오픈...펫토핑6종판매",
-  "반도체주하락하자또3배레버리지베팅…메모리주비중확대[서학픽]",
-  "남태우,하사계급장선보이며미소[포토엔HD]",
-  "남태우,하사로복귀하며‘10kg감량’[포토엔HD]",
-  "대구광역시,박재명대구세계마스터즈육상M40창던지기57.09m금메달쾌...",
-  "세종시의회,아동돌봄현장목소리청취…인건비지원체계개선모색",
   "[금융zip]새마을금고,상반기정책자금2170억원공급外",
   "삼성전자8%대폭락쇼크…코스피6700선붕괴",
   "[김현우의핫스팟]제2의이순신,압도적대북억지력에달렸다",
@@ -6001,7 +5990,18 @@
   "[마감시황]\"건설주가이끌었다\"…코스피,반도체부진에도0.68%반등",
   "[데일리픽]양자내성암호화폐프로젝트공개…AI인프라병목가스터빈",
   "AI로진화하는자율주행의미래…'2026자율주행모빌리티산업전'개막",
-  "오픈AI,챗GPT플러스사용제한부활…코덱스·워크5시간한도다시적..."
+  "오픈AI,챗GPT플러스사용제한부활…코덱스·워크5시간한도다시적...",
+  "군산에8,720억원규모AI데이터센터…10월첫삽",
+  "2026LCK플레이-인및플레이오프예고...플레이오프행두자리주인공...",
+  "증권가MTS,AI달고무한변신...연금·해외주식·AI자산관리'통합'",
+  "게임업계,신작전시·채용·IP축제로하반기접점확대",
+  "'10조K뷰티'구다이글로벌,IPO앞두고얽힌실타래",
+  "IsThisaNewEraofClassWarfare?",
+  "AnthropicStoleThisFromMe",
+  "SK텔레콤,어댑티브오픈2026성료...스포츠로장애의벽허문다",
+  "[Tech뷰]美메트로폴리탄미술관명화,LGTV로본다",
+  "엔비디아'그록3'양산…삼성파운드리,수익성개선탄력",
+  "삼성파운드리,엔비디아'그록3'양산…흑자전환힘받는다"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,21 @@
   [
    "2026-08-25T16:22:14.380560+09:00",
    "워크 제한 한도 5시간 다시 챗GPT 플러스 코덱스 부활 사용"
+  ],
+  [
+   "2026-08-25T16:24:13.845300+09:00",
+   "스포츠로 장애의 어댑티브 허문다 ~SKT 성료 오픈"
+  ],
+  [
+   "2026-08-25T16:24:13.845300+09:00",
+   "미술관 본다 TV로 메트로폴리탄 LG 명화"
+  ],
+  [
+   "2026-08-25T16:24:13.845300+09:00",
+   "흑자전환 파운드리 받는다 그록3 삼성 양산"
   ]
  ],
- "last_run": "2026-08-25T16:22:35.670320+09:00",
+ "last_run": "2026-08-25T16:24:43.082563+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
