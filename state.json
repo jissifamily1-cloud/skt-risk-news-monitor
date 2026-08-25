@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tfmedia.co.kr/news/article.html?no=206699",
-  "https://www.etoday.co.kr/news/view/2614327",
-  "https://www.kdpress.co.kr/news/articleView.html?idxno=208027",
   "https://www.fnnews.com/news/202608250830510501",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431618",
   "http://www.breaknews.com/1231218",
@@ -2999,12 +2996,12 @@
   "https://news.mtn.co.kr/news-detail/2026082515393326975",
   "https://www.tokenpost.kr/news/breaking/397048",
   "https://www.munhwa.com/article/11612043",
-  "https://www.ddaily.co.kr/page/view/2026082606080772892"
+  "https://www.ddaily.co.kr/page/view/2026082606080772892",
+  "https://www.newspim.com/news/view/20260825001136",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695488",
+  "https://www.fnnews.com/news/202608251517255057"
  ],
  "seen_titles": [
-  "특별시의회AI기술활용'교육예산낭비신고센터'웹앱본격운영",
-  "외인1.3조던졌다…코스피6500선후퇴[시황]",
-  "머스크CEO\"내년4분기첫AI위성발사…2028년엔대규모\"",
   "티엘비,소캠공급확대…3분기도주문증가세",
   "그래파이,'VLDB2026'서논문4편발표…\"'엔터프라이즈에이전트메모...",
   "\"가장얇고가볍다\"SKT,70만원대'갤럭시퀀텀7'출시",
@@ -6001,7 +5998,10 @@
   "버그바운티커지자쌓이는'취약점지도'...정보관리도과제",
   "AI헤지펀드7월67%손실,SEC조사",
   "[속보]美증시반도체반등…마이크론·하닉2%대상승",
-  "오픈AI,\"자체개발칩'할라피뇨'엔비디아GB300앞질렀다\""
+  "오픈AI,\"자체개발칩'할라피뇨'엔비디아GB300앞질렀다\"",
+  "[프로야구]확대엔트리첫날38명1군등록…KT장성우·LG김윤식등복...",
+  "퍼플렉시티,'포터블컴퓨터'공개...로컬AI에이전트플랫폼대공세",
+  "4번연속'어닝서프'에도주가는빠졌다…삼전닉스떨게한엔비디아[증..."
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,17 @@
   [
    "2026-08-26T06:10:24.301897+09:00",
    "자체 할라피뇨 앞질렀다 GB300 개발"
+  ],
+  [
+   "2026-08-26T06:12:17.550039+09:00",
+   "AI에이전트 포터블 대공세 공개 로컬 컴퓨터 플랫폼"
+  ],
+  [
+   "2026-08-26T06:12:17.550039+09:00",
+   "어닝서프 주가는 연속 4번 떨게 삼전닉스 빠졌다 에도"
   ]
  ],
- "last_run": "2026-08-26T06:10:44.674327+09:00",
+ "last_run": "2026-08-26T06:12:42.739640+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
