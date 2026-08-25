@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newscape.co.kr/news/articleView.html?idxno=124067",
-  "http://www.beyondpost.co.kr/view.php?ud=2026082315303964072aaae0046f_30",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5214312",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=479914",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252401",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=83691",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405912",
   "https://www.mydaily.co.kr/page/view/2026082409101239045",
   "https://www.bntnews.co.kr/article/view/bnt202608240142",
   "https://view.asiae.co.kr/article/2026082409515805140",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/finance/general-stock/6268366",
   "https://www.lawtv.kr/news/articleView.html?idxno=60746",
   "https://www.etnews.com/20260825000061",
-  "https://biz.heraldcorp.com/article/10850880"
+  "https://biz.heraldcorp.com/article/10850880",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=316596",
+  "https://www.ajunews.com/view/20260825090403973",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89607",
+  "https://www.newspim.com/news/view/20260825000248",
+  "https://www.mk.co.kr/article/12135037",
+  "https://www.namdonews.com/news/articleView.html?idxno=921004",
+  "https://www.tokenpost.kr/news/cryptocurrency/397061"
  ],
  "seen_titles": [
-  "코스피,美국채금리부담1%밀려…6800선지지시험",
-  "SKB,지역상생청년들의정착스토리'위대한삼촌:로컬히어로의탄생...",
-  "KT,전사IT손질…노후시스템바꾸고기획부터AI쓴다",
-  "[진주소식]LH,하반기박물관대학수강생모집등",
-  "파두,차세대AI데이터센터특화비전공개",
-  "이번국내외증시,미-캐나다무역협상결렬로'먹구름'...美연준의장잭...",
-  "아크릴,'GPUBASE'로북미본격진출…글로벌시장공략시동",
   "싸게받아도안오던고객들,이젠15%올려도온다…달라진삼성파운...",
   "한컴그룹,'제2회한컴문학상'후원…대상3000만원",
   "SKT,서울대서10년째산학협력…정재헌대표,'AI리더육성'직접나선...",
@@ -6001,7 +5994,14 @@
   "삼전닉스급락에코스피4%하락출발…6400선으로밀려[개장시황]",
   "최태원만난李대통령,이번주이재용·정의선까지...재계총수연쇄...",
   "kt밀리의서재,'밀리작가의집'개관…창작활동지원",
-  "머스크“엔비디아AI위성,내년4분기첫발사…2028년엔본격확대”"
+  "머스크“엔비디아AI위성,내년4분기첫발사…2028년엔본격확대”",
+  "[AI시대,권력대이동-유통]소비판도변화는'데이터·AI에이전트·알...",
+  "[개장시황]美기술주약세에코스피3%대급락…6500선등락",
+  "그래파이,'VLDB2026'서연구논문4편발표…'에이전트메모리'기술프...",
+  "[특징주]美반도체약세영향에…대형반도체주'파란불'",
+  "에픽게임즈‘포트나이트’,챕터7시즌4‘오버라이드’개막",
+  "李대통령,재계총수릴레이회동…호남반도체투자드라이브",
+  "알트먼,AI전환속도예상보다늦었다고인정"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,13 @@
   [
    "2026-08-25T09:28:16.364999+09:00",
    "사업 에이전트 체결 MOU SKT와 위버스브레인 ~SKT"
+  ],
+  [
+   "2026-08-25T09:32:17.862555+09:00",
+   "늦었다고 인정 속도 예상보다"
   ]
  ],
- "last_run": "2026-08-25T09:30:42.731321+09:00",
+ "last_run": "2026-08-25T09:32:41.676437+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
