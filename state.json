@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/08/19/2026081915030844854",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423160",
-  "https://biz.sbs.co.kr/article_hub/20000329513?division=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8640512",
   "https://www.sportschosun.com/life/2026-08-19/202608190100112730007138",
   "https://www.yna.co.kr/view/AKR20260819118600009?input=1195m",
   "https://www.khan.co.kr/article/202608191523001",
@@ -2999,13 +2995,13 @@
   "https://www.mt.co.kr/future/2026/08/25/2026082509532345291",
   "https://www.thelec.kr/news/articleView.html?idxno=61341",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214011",
-  "https://www.segye.com/newsView/20260825515606?OutUrl=naver"
+  "https://www.segye.com/newsView/20260825515606?OutUrl=naver",
+  "https://www.news1.kr/industry/distribution/6269315",
+  "https://www.dt.co.kr/article/12080190",
+  "https://zdnet.co.kr/view/?no=20260825190348",
+  "https://www.fnnews.com/news/202608251903425048"
  ],
  "seen_titles": [
-  "오픈AI,최신모델‘아스트라’훈련중단…‘자율해킹’감시등안...",
-  "매출18%늘었지만…첫추월당한오픈AI",
-  "\"국대AI탈락,젠슨황패싱굴욕씻는다\"…자존심회복나선카카오",
-  "오픈AI,청소년전용챗GPT출시···위기신호포착기능",
   "WSJ\"오픈AI2분기매출18%↑…영업손실확대\"",
   "WSJ“오픈AI2분기매출18%증가…영업손실은확대”",
   "샘올트먼\"AI기술급속발전…대학과정2년정도면충분\"",
@@ -6001,7 +5997,11 @@
   "\"사람손닮는게목표아냐\"…엑스와이지,로봇핸드구조공개",
   "엔비디아,스페이스XAI에베라CPU등공급",
   "로이드케이,엔비디아'NPN솔루션어드바이저파트너'합류",
-  "군인대신드론…‘미래전쟁’선보인우크라열병식"
+  "군인대신드론…‘미래전쟁’선보인우크라열병식",
+  "\"K-패션하면마뗑킴생각나요\"…외국인들인증샷쏟아진하고하우스",
+  "KT,대졸신입사원채용…AI활용역량도검증",
+  "디에스앤지,네이버클라우드에엔비디아B300GPU서버389대공급",
+  "[강남視角]AI시대'호모콰렌스'"
  ],
  "recent_sigs": [
   [
@@ -6459,9 +6459,13 @@
   [
    "2026-08-25T19:02:17.747715+09:00",
    "어드바이저 로이드케이 솔루션 파트너 합류 NPN"
+  ],
+  [
+   "2026-08-25T19:06:14.930763+09:00",
+   "호모 콰렌스 시대"
   ]
  ],
- "last_run": "2026-08-25T19:04:36.457650+09:00",
+ "last_run": "2026-08-25T19:06:39.542734+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
