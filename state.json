@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6566371",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16172836",
-  "https://www.mk.co.kr/article/12135528",
-  "https://www.dailian.co.kr/news/view/1682013/?sc=Naver",
-  "https://www.peoplewatch.co.kr/article/view/ppw202608250003",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102398",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=209653",
   "https://www.thedailypost.kr/news/articleView.html?idxno=115139",
   "https://www.redian.org/news/articleView.html?idxno=257188",
   "http://www.metroseoul.co.kr/article/20260825500168",
@@ -2999,16 +2992,16 @@
   "https://www.etoday.co.kr/news/view/2618142",
   "https://www.tokenpost.kr/news/breaking/397815",
   "https://www.fnnews.com/news/202608260846505979",
-  "https://www.newspim.com/news/view/20260826000165"
+  "https://www.newspim.com/news/view/20260826000165",
+  "https://www.ddaily.co.kr/page/view/2026082608311081640",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721685",
+  "https://www.viva100.com/article/20260826500098",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721686",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170454",
+  "https://www.newspim.com/news/view/20260826000098",
+  "https://zdnet.co.kr/view/?no=20260826085104"
  ],
  "seen_titles": [
-  "2026아시안게임야구스태프명단·경기일정",
-  "[공식발표]AG류지현호코치진구성완료!수석코치엔강인권한화QC...",
-  "靑,'서면제청'조희대비판…\"초유의일방통보\"[오늘아침]",
-  "\"레바논원정첫판승부수\"한국남자농구,이현중합류로월드컵재도...",
-  "머신플로우,LG전자·블루포인트시드투자유치",
-  "“운전대잡는AI”…AME2026코엑스서개막[2026퓨처모빌리티위크...",
-  "정의선'AI대전환'vs.노조'고용보장'…현대차의남은숙제들",
   "금리내려도반도체급락…코스피6500선",
   "SKT'갤럭시퀀텀7'출시···AI기능에71만원대",
   "SKT,갤럭시퀀텀7출시…두께줄이고AI기능강화",
@@ -6001,7 +5994,14 @@
   "스카이월드와이드,LG유플러스실시간네트워크분석플랫폼고도화수...",
   "오픈AI,추론칩할라페뇨성능우위주장",
   "실적은이미합격점…엔비디아,시장은'황의입'만본다",
-  "[미국특징주]줌,제품군확대에도전망'미지근'…시간외4%추가하락"
+  "[미국특징주]줌,제품군확대에도전망'미지근'…시간외4%추가하락",
+  "'사이버보안특화AI모델'공모마감…K-미토스본격신호탄",
+  "포스코인터내셔널,무역서류디지털전환'e-B/L컨소시엄'출범",
+  "롯데마트,‘제타스마트센터부산’앞세워영남권온라인장보기시장...",
+  "[원자재시황]살아난투심…금·코인·증시상승",
+  "오픈AI,자체개발추론칩첫성능공개...엔비디아에도전장?",
+  "[모닝리포트]\"티엘비,엔비디아베라CPU수혜본격화\"",
+  "인도데이터센터회사,엔비디아루빈GPU9000개발주"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,17 @@
   [
    "2026-08-26T08:52:12.937578+09:00",
    "추가 확대에도 미지근 제품군 시간외 하락 전망"
+  ],
+  [
+   "2026-08-26T08:54:13.974590+09:00",
+   "사이버보안 모델 본격 공모 미토스 마감 특화 신호탄"
+  ],
+  [
+   "2026-08-26T08:54:13.974590+09:00",
+   "회사 GPU 데이터센터 9000개 발주 인도 루빈"
   ]
  ],
- "last_run": "2026-08-26T08:52:44.020272+09:00",
+ "last_run": "2026-08-26T08:54:40.803904+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
