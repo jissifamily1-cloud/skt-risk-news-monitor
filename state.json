@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000330310?division=NAVER",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=307618",
-  "https://www.g-enews.com/view.php?ud=202608241011169833fbbec65dfb_1",
-  "https://www.venturesquare.net/1107907/",
-  "https://www.yna.co.kr/view/AKR20260824056000017?input=1195m",
-  "https://www.joongangenews.com/news/articleView.html?idxno=542017",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=405928",
   "https://www.dt.co.kr/article/12079734",
   "https://www.irobotnews.com/news/articleView.html?idxno=48063",
   "https://www.newspim.com/news/view/20260824000359",
@@ -2999,16 +2992,16 @@
   "http://www.metroseoul.co.kr/article/20260825500057",
   "https://news.bizwatch.co.kr/article/mobile/2026/08/25/0012",
   "http://www.segyebiz.com/newsView/20260825505525?OutUrl=naver",
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=110907"
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=110907",
+  "http://www.wsobi.com/news/articleView.html?idxno=316948",
+  "https://www.sportsseoul.com/news/read/1630599",
+  "https://www.gpkorea.com/news/articleView.html?idxno=145990",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851396",
+  "https://www.ddaily.co.kr/page/view/2026082510021635219",
+  "https://www.newsis.com/view/NISX20260825_0003761049",
+  "https://imnews.imbc.com/news/2026/world/article/6847108_36925.html"
  ],
  "seen_titles": [
-  "거창농특산물,TV를넘어전국매장에서만난다",
-  "유성재즈&맥주페스타28일개막…재즈·수제맥주로채운여름밤",
-  "박상근서울시의원,무산위기‘신창초통학로지중화사업’해결이...",
-  "S&P500동일가중ETF수익률,S&P500웃돌아",
-  "[주간LCK]젠지,3년연속정규시즌1위등극",
-  "인도GRSE,서벵골조선소증설…군함32척동시건조추진",
-  "상용DB의벽,오픈소스와AI로넘는다…EDB,‘포스트그레스AI서밋’...",
   "[테크스냅]카카오,브런치공모전진행…심사방식재편",
   "현대차·기아,차량용앱해커톤...'플레오스'생태계키운다",
   "LG유플러스,해커원협업버그바운티프로그램운영시작",
@@ -6001,7 +5994,14 @@
   "KT,대졸신입채용…핵심직무2배확대",
   "KT,신입채용에AI활용능력본다",
   "KT,대졸신입사원채용…AI역량까지종합평가",
-  "토스행운퀴즈'엘지유플러스'정답…8월25일"
+  "토스행운퀴즈'엘지유플러스'정답…8월25일",
+  "LG전자·LGU+'LG갤러리플러스'서美메트로폴리탄미술관명화제공·...",
+  "빛잃었던‘문보물’,다시‘광’나기시작한다…‘위기의LG’구할...",
+  "자율주행모빌리티산업전AME2026,코엑스서사흘간일정돌입",
+  "[에듀픽]위버스-SKT'MOU'·테크빌'AI신간'·리얼아카데미'CNN영어글...",
+  "kt밀리의서재,'밀리작가의집'개관…\"창작자작품활동지원\"",
+  "美수출통제뚫고엔비디아AI칩中반출…대만,9명기소",
+  "머스크\"내년4분기AI데이터센터위성발사‥엔비디아칩사용\""
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-08-25T10:12:14.813184+09:00",
    "25일 8월 엘지유플러스 토스 정답 행운퀴즈 ~LGU"
+  ],
+  [
+   "2026-08-25T10:14:16.303362+09:00",
+   "CNN MOU 테크빌 AI신간 영어 리얼아카데미 ~SKT 위버스"
   ]
  ],
- "last_run": "2026-08-25T10:12:32.521974+09:00",
+ "last_run": "2026-08-25T10:14:34.515975+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
