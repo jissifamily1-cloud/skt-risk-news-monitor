@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260820500476",
-  "https://news.mtn.co.kr/news-detail/2026082009111610167",
-  "https://www.pressman.kr/news/articleView.html?idxno=103251",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=694212",
-  "https://zdnet.co.kr/view/?no=20260820094042",
-  "https://www.inthenews.co.kr/news/article.html?no=90708",
-  "https://www.theguru.co.kr/news/article.html?no=106009",
-  "https://www.businessplus.kr/news/articleView.html?idxno=115674",
-  "https://www.yna.co.kr/view/AKR20260820056900017?input=1195m",
   "https://www.widedaily.com/news/articleView.html?idxno=299683",
   "https://www.topdaily.kr/articles/111549",
   "https://www.mt.co.kr/industry/2026/08/25/2026082415344234551",
@@ -2999,18 +2990,18 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=636415",
   "http://www.osen.co.kr/article/G1112863333",
   "https://www.fnnews.com/news/202608251629419990",
-  "https://www.nocutnews.co.kr/news/6567896"
+  "https://www.nocutnews.co.kr/news/6567896",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000006036&cp=nv",
+  "http://www.spochoo.com/news/articleView.html?idxno=129227",
+  "https://www.yna.co.kr/view/AKR20260825156900007?input=1195m",
+  "http://www.breaknews.com/1231494",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120745",
+  "https://www.busan.com/view/busan/view.php?code=2026082517173383385",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462882",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000006035&cp=nv",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16173112"
  ],
  "seen_titles": [
-  "SK브로드밴드,서울국제여성영화제상영작'B티비특집관'서공개",
-  "유료방송업계'시청자접근성'높여콘텐츠경쟁력강화",
-  "SKB,서울국제여성영화제4년연속후원⋯“독립·예술영화접근성넓...",
-  "SKB,서울국제여성영화제특집관마련…상영작34편공개",
-  "'예술문턱낮춘다',미술관안팎서예술경험확장하는기업들",
-  "SKB,서울국제여성영화제4년연속후원...상영작34편공개",
-  "SKB,서울국제여성영화제특집관운영...상영작34편선봬",
-  "SKB,서울국제여성영화제‘Btv특집관’운영…4년연속후원",
-  "[단독]SK,중국서'바닷속AI센터협력'비밀회동…전력·냉각난제해...",
   "SK브로드밴드,서울국제여성영화제4년째후원…상영작34편공개",
   "[테크스냅]딜라이브TV,지역콘텐츠편성확대",
   "SKB,'서울국제여성영화제상영작'Btv특집관운영",
@@ -6001,7 +5992,16 @@
   "[이슈+]공공기관2차지방이전'속도조절'···10월로넘기긴했지만",
   "선발2+마무리차출도벅찬데,QC코치까지떠난다…AG대출혈,감독이밝...",
   "인천ICT콤플렉스개소…AI·SW인재양성거점구축",
-  "\"볼넷주느니차라리맞고진다\"…KT,박영현공백지울'집단마무리'..."
+  "\"볼넷주느니차라리맞고진다\"…KT,박영현공백지울'집단마무리'...",
+  "군산에8720억원AI데이터센터…10월착공",
+  "\"경기중병원갈수도\"둘째출산임박한KT힐리어드,4번지명타자선...",
+  "프로야구확대엔트리첫날10개구단38명추가등록",
+  "단양군,국가비상사태대비'26을지연습으로실전통합대응역량강화",
+  "코스피,6400까지밀렸다가0.68%올라...삼전·닉스도낙폭만회",
+  "KT대졸신입채용…AI활용역량반영",
+  "KT,대졸신입사원채용···현장핵심직무규모2배확대",
+  "젠슨황이“땡큐,삼성”외쳤던그AI칩,본격양산돌입",
+  "장혁,젖은머리셀카공개…'문무'앞두고강렬눈빛"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-08-25T17:20:21.039109+09:00",
    "맞고 진다 공백 볼넷 ~KT 주느니 박영현 마무리 차라리 지울 집단"
+  ],
+  [
+   "2026-08-25T17:22:14.799601+09:00",
+   "눈빛 셀카 강렬 머리 공개 문무 젖은 장혁 앞두고"
   ]
  ],
- "last_run": "2026-08-25T17:20:45.011007+09:00",
+ "last_run": "2026-08-25T17:22:39.276179+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
