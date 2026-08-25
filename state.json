@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12314503?influxDiv=NAVER",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357769",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214015",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546367",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260821191624X85",
-  "https://news.jtbc.co.kr/article/NB12314477?influxDiv=NAVER",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546333",
   "https://www.yna.co.kr/view/AKR20260821150800011?input=1195m",
   "https://biz.sbs.co.kr/article_hub/20000330134?division=NAVER",
   "https://www.sedaily.com/article/20081975",
@@ -2999,17 +2991,17 @@
   "https://www.smartbizn.com/news/articleView.html?idxno=152113",
   "https://www.gukjenews.com/news/articleView.html?idxno=3674394",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=859445",
-  "https://www.mk.co.kr/article/12135977"
+  "https://www.mk.co.kr/article/12135977",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316139",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=272029",
+  "https://news.dealsitetv.com/articles/175187",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=44386",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316106",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316130",
+  "https://www.ngonews.kr/news/articleView.html?idxno=236311",
+  "https://www.mt.co.kr/industry/2026/08/25/2026082516562658249"
  ],
  "seen_titles": [
-  "무성했던추가비자금의혹‥강제환수길열리나",
-  "이혼과정서실토된‘노태우비자금’수사착수…30여년만에봉인풀...",
-  "노소영이꺼낸'300억메모'부메랑…재산몰수가능성",
-  "노태우일가비자금·조세포탈의혹…검찰,연희동사저전격압수수색",
-  "이혼소송서낸'비자금메모'가단초…몰수까지이어질까",
-  "[아는기자]이혼이소환한‘비자금’…35년만에환수?",
-  "檢,‘노태우비자금의혹’압수수색…부메랑된‘904억메모’",
-  "검찰,'노태우비자금'첫강제수사…김옥숙여사자택압수수색",
   "이혼소송이들춰낸'비자금'…'노태우일가'수사시작됐다",
   "최태원·노소영이혼이소환한‘노태우비자금’",
   "[연합뉴스이시각헤드라인]-18:00",
@@ -6001,7 +5993,15 @@
   "카카오AI초대이사회에전직장관·국세청장합류",
   "대구공업대호텔외식조리계열,8월제빵기능사자격증특강실시",
   "'델테크놀로지스포럼2026'성황리개최",
-  "기술주흔들려도1조베팅…서학개미,반도체3배ETF에‘뭉칫돈’"
+  "기술주흔들려도1조베팅…서학개미,반도체3배ETF에‘뭉칫돈’",
+  "삼성전자,'삼성스토어청담점'혼수거점전면개편…\"신혼집쇼룸부터...",
+  "신세계면세점,영국럭셔리브랜드'멀버리'명동점오픈",
+  "[IT투데이]붉은사막,게임스컴어워드2026노미네이트外",
+  "골프로허무는장애의벽...SKT,스포츠ESG활동성료",
+  "SKT,두께줄이고AI더한'갤럭시퀀텀7'출시…출고가71만원대",
+  "LG유플러스,'유독Pick'라인업확대…영화·식음료·AI이용권등추가",
+  "\"노트북파손이왜노동자책임?\"…KT서비스노동자들,급여공제철회...",
+  "디에스앤지,네이버클라우드에엔비디아B300GPU서버공급"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-08-25T17:26:14.142985+09:00",
    "인정받은 협업 핑바 중기부 시장 글로벌 북미 전략으로"
+  ],
+  [
+   "2026-08-25T17:30:27.866309+09:00",
+   "B300 서버 공급 디에스앤지 GPU 네이버클라우드에"
   ]
  ],
- "last_run": "2026-08-25T17:28:40.407522+09:00",
+ "last_run": "2026-08-25T17:30:45.774839+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
