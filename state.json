@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202608240020",
-  "https://www.mk.co.kr/article/12134391",
-  "https://www.edaily.co.kr/News/Read?newsId=02371446645550600&mediaCodeNo=257",
-  "https://www.betanews.net/article/view/beta202608240020",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309487",
-  "https://theviewers.co.kr/View.aspx?No=4196179",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1398352",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572598391200",
   "https://www.slist.kr/news/articleView.html?idxno=760767",
   "https://www.newspim.com/news/view/20260824000163",
   "https://www.gukjenews.com/news/articleView.html?idxno=3672189",
@@ -2999,17 +2991,17 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=443267",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=207039",
   "https://www.bizwork.co.kr/news/articleView.html?idxno=418443",
-  "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500045.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/25/2026082500045.html",
+  "https://www.newsis.com/view/NISX20260825_0003761058",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=405977",
+  "https://www.news1.kr/industry/general-industry/6268329",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275323",
+  "https://zdnet.co.kr/view/?no=20260825090225",
+  "https://www.mk.co.kr/article/12135397",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260825091244PFZ",
+  "https://www.fnnews.com/news/202608250906212104"
  ],
  "seen_titles": [
-  "SKT,서울대와AI인재키운다",
-  "KT·SKT,AI사업기반강화…내부혁신·인재양성확대",
-  "아크릴,엔비디아GPU·국산NPU통합운용…‘소버린AX’전략공개",
-  "‘K-미토스’만든다…한국판‘보안특화AI개발’본격신호탄",
-  "“AI보안취약점선제차단”…LGU+,글로벌화이트해커와맞손",
-  "로봇과K팝이만나면생기는일…‘아이돌부캐’휴머노이드가월드투...",
-  "핑거·메가존클라우드,금융AX동맹…300억원상호투자",
-  "스푼랩스2028년IPO추진,주관사선정착수",
   "경북도,구미로봇산업공급망대응T/F출범",
   "[애널픽]AI칩커질수록'삼성전기'웃는다…\"ABF부족에몸값재평가\"",
   "SK브로드밴드,'위대한삼촌:로컬히어로의탄생'시즌2방영",
@@ -6001,7 +5993,15 @@
   "SKT,전용단말'갤럭시퀀텀7'출시…두께6.9㎜·무게179g",
   "SK텔레콤,전용단말'갤럭시퀀텀7'출시…70만원대준플래그십",
   "LG유플러스,'유독Pick'판키운다",
-  "KT,‘모두의AI’총력전…국산NPUAI모델클라우드역량집결"
+  "KT,‘모두의AI’총력전…국산NPUAI모델클라우드역량집결",
+  "LGU+,구독상품'유독픽'라인업확대…CGV·배민·특화AI추가",
+  "인텔,AI전장을'칩'에서'시스템'으로…18A기반차세대아키텍처공개",
+  "삼성전자,청담점에신혼집꾸몄다…혼수시장집중공략",
+  "MemoryCrunchForcesNvidiatoRaiseServerPrices,BoostingSamsunga",
+  "엔비디아,'그록3LPX'대량양산돌입…삼성전자·전기수혜",
+  "엔비디아7일연속하락…잘나가던AI제동걸리나[뉴욕증시]",
+  "머스크\"내년4분기첫AI위성발사…엔비디아칩탑재\"",
+  "머스크'우주AI데이터센터'내년뜬다…엔비디아칩싣고첫발사"
  ],
  "recent_sigs": [
   [
@@ -6401,7 +6401,7 @@
    "NPU ~KT 역량 모델 클라우드 모두의 집결 국산 총력전"
   ]
  ],
- "last_run": "2026-08-25T09:12:37.443202+09:00",
+ "last_run": "2026-08-25T09:14:32.811849+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
