@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213931",
-  "https://www.ytn.co.kr/_ln/0103_202608211659311213",
-  "https://imnews.imbc.com/replay/2026/nw1700/article/6846389_36981.html",
-  "http://www.gjdream.com/news/articleView.html?idxno=672034",
-  "https://www.the-today.com/news/articleView.html?idxno=88751",
-  "https://www.news1.kr/society/court-prosecution/6265916",
-  "https://www.insight.co.kr/news/569479",
-  "https://economist.co.kr/article/view/ecn202608210045",
-  "https://www.the-today.com/news/articleView.html?idxno=88749",
-  "https://www.hani.co.kr/arti/society/society_general/1274060.html",
-  "https://www.donga.com/news/Society/article/all/20260821/134519142/1",
   "https://hbnpress.com/news/view/1065594939109628",
   "https://www.gokorea.kr/news/articleView.html?idxno=875871",
   "https://www.segye.com/newsView/20260821510009?OutUrl=naver",
@@ -2999,20 +2988,20 @@
   "https://www.mydaily.co.kr/page/view/2026082517131100080",
   "https://www.sportschosun.com/baseball/2026-08-25/202608250100148640009463",
   "https://www.ajunews.com/view/20260825172630660",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375192"
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375192",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859478",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16173138",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674414",
+  "https://www.ajunews.com/view/20260825171807631",
+  "https://www.naeil.com/news/read/599872",
+  "https://www.econovill.com/news/articleView.html?idxno=748864",
+  "https://view.asiae.co.kr/article/2026082517350360659",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406034",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851412",
+  "https://www.ajunews.com/view/20260825172009634",
+  "https://www.aitimes.com/news/articleView.html?idxno=214350"
  ],
  "seen_titles": [
-  "검찰,'노태우비자금300억'추적본격화",
-  "8월21일미리보는MBN뉴스7",
-  "최태원·노소영소송나비효과…노태우일가'비자금의혹'압수수색[짤...",
-  "제주실종'골든타임'날려버린경찰의거짓말...왜?[이슈ON]",
-  "'이혼소송'후폭풍‥'노태우비자금'강제수사",
-  "오월단체\"5·18헌법전문수록·이진숙제명동참하라\"촉구",
-  "[이슈]이혼재판서빠진'노태우300억'…최태원·SK로수사번지나(1부...",
-  "檢'노태우비자금의혹'강제수사…\"피의자에노소영없어\"(종합2보)",
-  "노소영이법정서꺼낸'300억'메모...결국'노태우비자금'강제수사로",
-  "'노태우비자금'첫강제수사,최태원·노소영이혼재상고심에영향미...",
-  "검찰,김옥숙연희동사저전격압수수색…'노태우비자금904억'정조준",
   "노태우비자금수사,노소영·최태원재산분할에영향끼치나",
   "노소영이혼소송불똥…‘김옥숙152억기부금’수사착수",
   "독립몰수제통과·최태원-노소영이혼소송...검찰‘노태우비자금’뒤...",
@@ -6001,7 +5990,18 @@
   "생애첫20세이브→조심스레드러낸선발욕심,사령탑의생각은?\"저는...",
   "아니,선발없어죽겠는데\"타카다,필승조로놔둔다\"왜?그럼대체선...",
   "카카오AI이사회…임혜숙전장관·김대지전국세청장등합류",
-  "KBO리그,25일경기부터확대엔트리적용...34명등록ㆍ32명출전"
+  "KBO리그,25일경기부터확대엔트리적용...34명등록ㆍ32명출전",
+  "곽빈맑음,문보경흐림…AG앞둔류지현호기상도",
+  "\"확대엔트리가동\"KBO리그,첫날38명1군증원",
+  "대구행복진흥원,'FUNFUN메이커페스타'개최...꼼지락공원서체험·공...",
+  "인천시,AI·SW인재양성거점'ICT콤플렉스'개소...지역산업AX전환지...",
+  "[과학산책]세상에서가장순수한물질",
+  "델,커머셜PC에더강한'특이점'…기업에게사랑받는이유말하다",
+  "산업은행·에이티넘'넥스트라운드'개최…\"피지컬AI연결의장되길\"",
+  "SKT\"장애-비장애경계,스포츠통해허문다\"…'어댑티브오픈2026위드...",
+  "김용진\"반도체산업,장기호황국면전환…활황세10~20년지속\"",
+  "구현모전KT대표,'하청업체경영간섭'혐의1심무죄",
+  "스페이스X·엔비디아,우주용'베라루빈'개발…2027년궤도투입"
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,13 @@
   [
    "2026-08-25T17:32:15.619027+09:00",
    "투심 기댄 반도체에 코스피 이익률 가른다"
+  ],
+  [
+   "2026-08-25T17:38:16.637225+09:00",
+   "활황세 산업 20년 국면 장기 호황 지속 반도체 김용진"
   ]
  ],
- "last_run": "2026-08-25T17:36:39.560121+09:00",
+ "last_run": "2026-08-25T17:38:34.651699+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
