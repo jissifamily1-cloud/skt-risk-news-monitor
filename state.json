@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202608252002015",
-  "https://www.asiatime.co.kr/article/20260825500477",
-  "https://www.khan.co.kr/article/202608251958005",
-  "https://www.asiatime.co.kr/article/20260825500478",
-  "https://www.donga.com/news/Economy/article/all/20260825/134543153/2",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=272037",
-  "https://www.tokenpost.kr/news/market/397465",
-  "https://www.sportschosun.com/baseball/2026-08-25/202608250100150070009583",
-  "https://www.chosun.com/national/national_general/2026/08/25/SEYBLCWGYZHNJB6EXXL4DV3W3I/",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317931",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=859540",
   "https://www.sportschosun.com/baseball/2026-08-25/202608250100150080009584",
@@ -2999,18 +2990,18 @@
   "https://www.itbiznews.com/news/articleView.html?idxno=222837",
   "https://www.joongang.co.kr/article/25456334",
   "https://www.busan.com/view/busan/view.php?code=2026082614592454975",
-  "https://www.newstnt.com/news/articleView.html?idxno=715363"
+  "https://www.newstnt.com/news/articleView.html?idxno=715363",
+  "https://www.etoday.co.kr/news/view/2618423",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1399292",
+  "https://platum.kr/archives/293321",
+  "http://www.beyondpost.co.kr/view.php?ud=2026082614080512439aeda69934_30",
+  "https://www.hankyung.com/article/202608263629i",
+  "https://www.thepowernews.co.kr/view.php?ud=20260826145956641de3f0aa1be_7",
+  "https://www.etnews.com/20260826000283",
+  "https://www.dizzotv.com/site/data/html_dir/2026/08/26/2026082680121.html",
+  "http://journal.kobeta.com/?post_type=post&p=63631"
  ],
  "seen_titles": [
-  "[포토]정수빈동점솔로포",
-  "[김대호인물]존터너스(JohnTernus)애플후계자\"스티브잡스-팀쿡",
-  "[경제직필]주가에대한정치적책임",
-  "SKT,장애·비장애경계허문'어댑티브오픈2026'성료",
-  "[송두율칼럼]기술입국이데올로기",
-  "[AT현장]\"피지컬AI패권,향후5년에달렸다…규제완화해야\"",
-  "‘자율주행모빌리티산업전’코엑스서개막…“AI로진화하는자율주행...",
-  "금융위,마이데이터적용대상소상공인까지확대",
-  "엔비디아27%줄인브리지워터,에이엠디늘렸다",
   "[포토]역전솔로포양의지,개인통산300호홈런폭발",
   "연세대“AI로입법부·행정부의투명성높일것”",
   "\"KBS사측,'제작자율성일괄삭제'편성규약안내밀어\"",
@@ -6001,7 +5992,16 @@
   "LGCNS\"삼송데이터센터에DTC적용…AI팩토리거점으로구현\"",
   "‘모두의카드’부정수급막는다…3회적발시회원자격박탈",
   "동서대,‘정보보호특성화대학’선정…사이버보안전문인재양성한다",
-  "[특징주]씨이랩,38억원규모엔비디아H200NVL공급계약체결"
+  "[특징주]씨이랩,38억원규모엔비디아H200NVL공급계약체결",
+  "AG차출에갈리는KBO순위싸움⋯ktㆍ두산은'고비',KIAㆍ삼성은'기회...",
+  "[유통레이더]미닉스,농심,팔도,상미당홀딩스,LF헤지스,코오롱FnC...",
+  "[Startup'sStory#548]명함100장보다PoC두건",
+  "아이엘,제조현장기반PhysicalAI플랫폼구축추진",
+  "GC메디아이\"의사랑AI앞세워'종합메디컬플랫폼사업자'되겠다\"",
+  "현대차,2030년555만대판다…신차100종·영업이익률9%승부",
+  "신한투자증권,'어닝콜라이브'출시…美실적발표실시간통역",
+  "SKT,아시안게임‘팀SKT’출정...AI로국가대표경기력제고",
+  "SK텔레콤,펜싱‧역도‧수영‧육상등‘TeamSKT’출정식"
  ],
  "recent_sigs": [
   [
@@ -6639,9 +6639,13 @@
   [
    "2026-08-26T15:02:19.888542+09:00",
    "공급계약 38억원 H200 NVL 체결 규모 씨이랩"
+  ],
+  [
+   "2026-08-26T15:04:16.803878+09:00",
+   "수영 육상 Team ~SKT 출정식 역도 펜싱"
   ]
  ],
- "last_run": "2026-08-26T15:02:40.650051+09:00",
+ "last_run": "2026-08-26T15:04:36.313482+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
