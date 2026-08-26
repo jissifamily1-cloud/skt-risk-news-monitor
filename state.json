@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3674477",
-  "https://www.news1.kr/industry/distribution/6269266",
-  "https://www.econovill.com/news/articleView.html?idxno=748875",
-  "https://www.techm.kr/news/articleView.html?idxno=154600",
-  "https://www.techm.kr/news/articleView.html?idxno=154601",
-  "https://www.nytimes.com/2026/08/24/business/sec-situational-awareness-investigation.html?partner=naver",
-  "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html?partner=naver",
-  "https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html?partner=naver",
-  "https://www.thelec.kr/news/articleView.html?idxno=61338",
-  "https://www.techm.kr/news/articleView.html?idxno=154602",
-  "https://news.dealsitetv.com/articles/175171",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214007",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214008",
   "http://www.osen.co.kr/article/G1112863364",
@@ -2999,20 +2988,20 @@
   "https://www.hani.co.kr/arti/economy/marketing/1274710.html",
   "https://www.techm.kr/news/articleView.html?idxno=154632",
   "https://biz.sbs.co.kr/article_hub/20000330884?division=NAVER",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262062&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003262062&CMPT_CD=P0010",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16174013",
+  "https://zdnet.co.kr/view/?no=20260826140237",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695663",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311373",
+  "https://www.chosun.com/economy/tech_it/2026/08/25/QMWFKK7DRRC5PDGGEAZ5FJIXEQ/",
+  "https://www.dizzotv.com/site/data/html_dir/2026/08/26/2026082680102.html",
+  "https://www.newspim.com/news/view/20260826000760",
+  "https://www.news1.kr/politics/assembly/6270111",
+  "https://www.etnews.com/20260826000257",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=134171",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695644"
  ],
  "seen_titles": [
-  "팔란티어의저주가현실로?…위협받는앤트로픽[박신영의개장전요것...",
-  "\"AI쓸줄알아야뽑는다\"…주요기업,인재선점경쟁[뉴스더보기]",
-  "[포토]얀반자넨헤이그시장,대전방문…허태정시장과협력논의",
-  "쉴새없이돌아가는생산라인에…하이트진로공장찾은외국인들'탄성...",
-  "[CEO파일]임동준한화운용대표,글로벌투자내공앞세워대체·해외투...",
-  "[글로벌]베라루빈·그레이스블랙웰서버,메모리값급등에15%이상오...",
-  "[글로벌]오픈AI,캘리포니아AI안전법강화제안...기존반대서입장...",
-  "S.E.C.InvestigatingNear-ImplosionofA.I.HedgeFund",
-  "AttackedbyA.I.Agents,ThisStart-UpEmbarkedonaCrusade",
-  "AnatomyofanAutonomousAttack:5AlarmingA.I.Capabilities",
-  "카카오AI초대이사회윤곽…전장관·국세청장·KTCTO까지",
   "[글로벌]엔비디아,풀사이드와60억달러기술계약...네모트론개발인...",
   "[재계투데이]LG전자,메트로폴리탄명화100여점TV로제공外",
   "\"중앙부처개인정보보호전담인력2배증가\"",
@@ -6001,13 +5990,20 @@
   "이대통령,재계총수와연쇄회동…3대메가·대미통상현안조율할듯",
   "LG유플러스,통신·보안차별화B2C·B2B확대'잰걸음'",
   "메모리비용68%전망,엔비디아마저가격인상?",
-  "단0.5경기차…KT와삼성,정규시즌1위놓고운명의맞대결"
+  "단0.5경기차…KT와삼성,정규시즌1위놓고운명의맞대결",
+  "KBO프로야구,26일경기중계일정→선발투수?",
+  "[AI는지금]법률업무파고드는빅테크…리걸AI경쟁승부처는'업무...",
+  "앤트로픽'클로드페이블5'지출정체…기업들,최상위AI보다저가형선...",
+  "경제는어떻게종교가되나:신현송의묵언과유럽중앙은행장의종교예...",
+  "AI가육아조언까지…부모수고덜어줄까",
+  "LGCNS,네이버클라우드와삼송데이터센터에액체냉각도입",
+  "[종합]현대차,2030년555만대판매·영업이익률9%목표",
+  "여야,보완수사권·조희대거취충돌…중수청장청문회법의결(종합)",
+  "아티피셜어낼리시스“한국AI경쟁력,미·중이어세계3위”",
+  "상조에통신비까지결합…웅진프리드라이프,KT와'라이프케어'상품공...",
+  "엔비디아보다빠르고효율적?…오픈AI,자체AI칩'할라피뇨'성능공개"
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T08:30:28.456947+09:00",
-   "인공지문 빛으로 불가능 휴대폰 판별 즉각 위조여부"
-  ],
   [
    "2026-08-26T08:34:15.586200+09:00",
    "설명 커졌다 요구 5000억달러 금융"
@@ -6669,7 +6665,7 @@
    "맞대결 놓고 운명의 정규시즌 삼성 5경기 ~KT KT와 1위"
   ]
  ],
- "last_run": "2026-08-26T14:28:35.877173+09:00",
+ "last_run": "2026-08-26T14:30:53.887776+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
