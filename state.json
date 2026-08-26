@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.todayeconomic.com/news/article.html?no=31854",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608200752208720105331",
-  "https://www.ibabynews.com/news/articleView.html?idxno=153958",
-  "https://www.slist.kr/news/articleView.html?idxno=761210",
-  "https://sports.khan.co.kr/article/202608251509003?pt=nv",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309545",
-  "https://www.ibabynews.com/news/articleView.html?idxno=153947",
-  "https://www.bbc.com/korean/articles/cy9zey44p5lo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.aitimes.com/news/articleView.html?idxno=214345",
-  "https://www.viva100.com/article/20260825500953",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2462742",
   "https://www.socialvalue.kr/news/view/1065588560229872",
   "https://www.news1.kr/industry/general-industry/6268926",
@@ -2999,19 +2989,19 @@
   "https://isplus.com/article/view/isp202608260038",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=272357",
   "https://www.newsis.com/view/NISX20260826_0003762960",
-  "https://zdnet.co.kr/view/?no=20260826092303"
+  "https://zdnet.co.kr/view/?no=20260826092303",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16173763",
+  "https://www.etnews.com/20260826000114",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=309066",
+  "https://www.etnews.com/20260826000113",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695328",
+  "https://www.chosun.com/economy/tech_it/2026/08/26/XFEXDAQ6ZJGPNNIHMA4DKEEWNA/",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214027",
+  "https://theviewers.co.kr/View.aspx?No=4199614",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1287190",
+  "https://www.etoday.co.kr/news/view/2618266"
  ],
  "seen_titles": [
-  "AMD,기업AI비용따져주는계산기공개…손익분기점·하드웨어도제...",
-  "[비즈톡톡]“본업뛰어넘은AI투자성과”…SK텔레콤,앤트로픽13배...",
-  "LG유플러스‘유독Pick’혜택확대…CGV·배민·특화AI8종추가",
-  "[더벨][thebellnote]현대차그룹AX의다음단계",
-  "[나눔트렌드]유니세프한국위원회,PLAVE와전세계어린이위한사회...",
-  "KBO잔여경기일정확정…정규시즌10월7일종료·잠실마지막은두산...",
-  "애태우며기다린AG2주간의편성···‘선발공백’두산KT,4인로테...",
-  "비싼티켓에150일홀드백까지...'극장살리기'의역설",
-  "[청소년뉴스]개학철거리로내몰린위기청소년지원…'별이빛나는밤...",
-  "'인간닮은휴머노이드는빙산의일각일뿐'중국이진행중인로봇기술...",
   "우크라이나·러시아드론자율공격피해에서로'맞불주장'",
   "‘韓매체가인정’⋯볼보ES90,EV어워즈2026‘미디어픽EV’선정",
   "[EV트렌드코리아2026]볼보ES90'EV어워즈2026'미디어픽선정",
@@ -6001,7 +5991,17 @@
   "[IS포커스]\"지금부터매경기총력전\"선두싸움분수령28일KT전,삼성...",
   "컴투스,신작MMORPG'제우스'출시…30개서버동시오픈",
   "크래프톤,배틀그라운드후속작'PUBG:데드넷'공개[게임스컴2026]",
-  "통신사새먹거리는‘AI네트워크’...GPU·엣지·피지컬AI수익화기대"
+  "통신사새먹거리는‘AI네트워크’...GPU·엣지·피지컬AI수익화기대",
+  "KBO프로야구,25일경기결과→현재팀순위?",
+  "전자신문,2세경영인·청년기업가위한'멘토스쿨'참가자모집",
+  "미국-이란휴전합의소식에유가하락·금리안정",
+  "인젠트,“탈(脫)오라클,고객가치를실현하는맞춤형마이그레이션...",
+  "샘알트먼도이메일은직접정리…AI도입의심리적장벽",
+  "LGCNS,삼송데이터센터에‘차세대액체냉각’도입...베라루빈식힌...",
+  "마에스트로포렌식,맥·윈도우포렌식전문가자격증과정운영",
+  "엔씨·크래프톤,게임스컴서신작공개…펄어비스'붉은사막'확장",
+  "李대통령,이재용·최태원·정의선연쇄회동…'AI원팀'투자속도전",
+  "李대통령,재계총수연쇄회동⋯‘AI투자ㆍ美압박’머리맞댄다"
  ],
  "recent_sigs": [
   [
@@ -6621,7 +6621,7 @@
    "GPU 수익화 기대 엣지 네트워크 먹거리는 피지컬AI"
   ]
  ],
- "last_run": "2026-08-26T10:30:51.336623+09:00",
+ "last_run": "2026-08-26T10:32:37.156268+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
