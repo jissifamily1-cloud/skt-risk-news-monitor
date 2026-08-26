@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.welfarenews.net/news/articleView.html?idxno=209935",
-  "https://www.newspost.kr/news/articleView.html?idxno=225076",
-  "http://journal.kobeta.com/?post_type=post&p=63597",
-  "https://byline.network/?p=9004111222616013",
-  "https://www.edaily.co.kr/News/Read?newsId=02538726645549616&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=01685926645549616&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=01682646645549616&mediaCodeNo=257",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=357697",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=851044",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=271311",
@@ -2999,16 +2992,16 @@
   "https://www.mediapen.com/news/view/1118898",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431923",
   "https://www.g-enews.com/view.php?ud=202608261528104555923c501012_1",
-  "https://www.mk.co.kr/article/12136808"
+  "https://www.mk.co.kr/article/12136808",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3675477",
+  "https://www.edaily.co.kr/News/Read?newsId=04070486645551256&mediaCodeNo=257",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=31052",
+  "https://www.yna.co.kr/view/AKR20260826132000008?input=1195m",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134858",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008875",
+  "https://www.hankyung.com/article/2026082631791"
  ],
  "seen_titles": [
-  "\"독파모선적,모두의AI선동료\"…K-AI,판도변화에도여전히진화중",
-  "[기고]길잃은독파모평가기준,고쳐야할세가지",
-  "SK텔레콤,美앤트로픽투자'회수'보다'선용'…AIDC성장판키운다",
-  "장애와비장애의경계를넘어…복지TV'박마루의공감세상',따뜻한소...",
-  "SK브로드밴드,'서울국제여성영화제'상영작Btv특집관편성",
-  "방미통위,‘유료방송활성화’위한민관협의체구성",
-  "‘모두의AI’에뛰어든기업들",
   "AI데이터센터붐에'숙련블루칼라'모시기경쟁",
   "통신망에서전력·냉각까지…통신3사,‘AI인프라종합사업자’로변...",
   "1년새2배늘어난AIDC공사...전력·냉각숙련공없어급제동위기",
@@ -6001,17 +5994,16 @@
   "단일IP넘어다장르확장…K-게임사,'게임스컴2026'서글로벌공략",
   "[월가톡톡]\"AI가못넘보는자산\"…억만장자들,앞다퉈투자하는곳은",
   "\"엔비디아실적발표생중계\"...신한투자,'어닝콜라이브'출시",
-  "엔비디아,젯슨오린나노2공개..두산밥캣도입"
+  "엔비디아,젯슨오린나노2공개..두산밥캣도입",
+  "대구광역시,'053STREET'스트릿댄스대회참가자모집...상금600만원전...",
+  "“1GW70조드는데수혜기업은0곳”…AIDC세액공제,조특법손질시급",
+  "[마감시황]코스피,상승마감…기관매수세가상승세견인",
+  "코스피,또'전약후강'…0.97%상승마감",
+  "SKT,아시안게임출전선수응원나섰다…'국민응원태극기'전달",
+  "이재명·이재용회동…국내반도체투자·美투자압박대응",
+  "삼성전자,가전생활모든순간을AI로연결하다"
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T09:40:20.778581+09:00",
-   "~LGU ~KT 기지국 LGU 58억 면제 KT는 이통3사 담합"
-  ],
-  [
-   "2026-08-26T09:40:20.778581+09:00",
-   "웅진프리드라이프 ~KT 맞손 할인 KT와 가입 통신비 상조"
-  ],
   [
    "2026-08-26T09:42:59.246124+09:00",
    "능가 블랙웰 전력효율 응답속도 자체개발"
@@ -6623,9 +6615,13 @@
   [
    "2026-08-26T15:38:14.702265+09:00",
    "젯슨 두산밥캣 공개 도입 나노 오린"
+  ],
+  [
+   "2026-08-26T15:40:22.665634+09:00",
+   "연결하다 생활 가전 삼성전자 모든 AI로 순간을"
   ]
  ],
- "last_run": "2026-08-26T15:38:38.268402+09:00",
+ "last_run": "2026-08-26T15:40:41.225406+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
