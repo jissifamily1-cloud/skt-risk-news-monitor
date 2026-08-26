@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://byline.network/?p=9004111222616626",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336668",
-  "https://www.mk.co.kr/article/12136659",
-  "https://www.aitimes.com/news/articleView.html?idxno=214378",
-  "https://www.fnnews.com/news/202608261056156607",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695572",
-  "https://www.tokenpost.kr/news/market/397999",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102419",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=609696",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=609697",
   "https://www.dailian.co.kr/news/view/1682606/?sc=Naver",
@@ -2999,17 +2991,17 @@
   "https://www.mediafine.co.kr/news/articleView.html?idxno=88038",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4432013",
   "https://thetracker.co.kr/View.aspx?No=4201033",
-  "https://www.sedaily.com/article/20083802"
+  "https://www.sedaily.com/article/20083802",
+  "https://www.sportschosun.com/baseball/2026-08-27/202608270100161140010351",
+  "https://game.donga.com/123997/",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000059955",
+  "https://biz.sbs.co.kr/article_hub/20000331035?division=NAVER",
+  "https://www.edaily.co.kr/News/Read?newsId=02663366645551584&mediaCodeNo=257",
+  "https://www.edaily.co.kr/News/Read?newsId=02666646645551584&mediaCodeNo=257",
+  "https://www.kbmaeil.com/article/20260827500017",
+  "https://magazine.hankyung.com/business/article/202608275603b"
  ],
  "seen_titles": [
-  "LGCNS,DBO서AI팩토리로…데이터센터사업보폭넓힌다",
-  "[정보보안연재소설-로그아웃되지않는밤]제25화'인증서가만료됐다...",
-  "임형도의경제노트(49회)",
-  "‘K-게임총출동’…독일게임스컴전야제서신작쏟아내",
-  "한성숙,이진숙5·18폄훼포럼에\"참담…정부도대응방안만들어야\"",
-  "실적보다‘메시지’에쏠린눈...엔비디아실적발표‘D-1’",
-  "오픈AI데이터센터총괄사임...IPO앞두고경영진연쇄이탈또조명",
-  "李대통령-재계총수'AI원팀'재가동…투자현안머리맞댈듯",
   "방미통위,'2026한국다큐멘터리축제'개최",
   "S&P500선물0.24%하락,물가·엔비디아대기",
   "美반도체반등에코스피6800선회복",
@@ -6001,7 +5993,15 @@
   "엔비디아,아마존에GPU200만개추가공급···AI인프라협력확대",
   "美AI관련주,엔비디아실적발표후일제히상승",
   "엔비디아,AI투자논란에도매출2배성장…“AI변곡점도달”",
-  "엔비디아“메모리가핵심병목”…삼전·닉스프리마켓2~3%상승[코주..."
+  "엔비디아“메모리가핵심병목”…삼전·닉스프리마켓2~3%상승[코주...",
+  "\"언제올지모를기회\"우승몰이꾼최형우,KT끝내기역전승보고던진...",
+  "[게임스컴2026]크래프톤신작5종한자리에…개발자들이밝힌핵심은...",
+  "젠슨황\"AI변곡점도달…이제연산자원이곧매출\"",
+  "[어제장오늘장]엔비디아발훈풍기대…PCE·한은금통위에코스피변...",
+  "모티프테크놀로지스,‘독파모’2차탈락이의제기…“AAII47점인데최...",
+  "엔비디아2.2%↑…반도체저가매수세에미증시상승",
+  "엔비디아133조‘깜짝실적’…코스피6900선재도전",
+  "[속보]'엔비디아훈풍'에삼전·하닉프리마켓서3%·4%급등"
  ],
  "recent_sigs": [
   [
@@ -6427,9 +6427,25 @@
   [
    "2026-08-27T08:26:14.873098+09:00",
    "삼전 핵심 메모리가 코주 상승 닉스 병목 프리마켓"
+  ],
+  [
+   "2026-08-27T08:28:15.194479+09:00",
+   "탈락 2차 이의제기 독파모 모티프테크놀로지스 47점인데 AAII"
+  ],
+  [
+   "2026-08-27T08:28:15.194479+09:00",
+   "반도체 증시 매수세에 상승 저가"
+  ],
+  [
+   "2026-08-27T08:28:15.194479+09:00",
+   "코스피 깜짝실적 재도전 133조 6900선"
+  ],
+  [
+   "2026-08-27T08:28:15.194479+09:00",
+   "프리마켓서 급등 훈풍 하닉 삼전"
   ]
  ],
- "last_run": "2026-08-27T08:26:35.667491+09:00",
+ "last_run": "2026-08-27T08:28:41.555861+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
