@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692341",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=692308",
-  "https://www.wikitree.co.kr/articles/1151888",
-  "https://www.aitimes.com/news/articleView.html?idxno=213795",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691902",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691886",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691883",
-  "https://zdnet.co.kr/view/?no=20260810093133",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=691284",
   "https://zdnet.co.kr/view/?no=20260808063232",
   "https://www.radiokorea.com/news/article.php?uid=501129",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/it-science/security-hacking/6270476",
   "https://www.dt.co.kr/article/12080415",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=105646",
-  "https://www.yna.co.kr/view/AKR20260826161000017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260826161000017?input=1195m",
+  "https://www.imaeil.com/page/view/2026082617172343676",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512455",
+  "https://zdnet.co.kr/view/?no=20260826170724",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241224",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608261535464790440",
+  "https://www.boannews.com/news/articleView.html?idxno=145444",
+  "https://view.asiae.co.kr/article/2026082616460159577",
+  "http://www.jeollailbo.com/news/articleView.html?idxno=809258"
  ],
  "seen_titles": [
-  "오픈AI,COO출신브래드라이트캡퇴사...IPO앞두고고위임원연쇄이...",
-  "살아있는샘알트먼이사망?…구글검색에황당한오표기",
-  "오픈AI'사업핵심'라이트캡사임...IPO앞두고고위급이탈잇따라",
-  "영상시대에수천단어…AICEO들이장문선언에빠진이유",
-  "오픈AI,상장추진속핵심임원이탈이어져…前CFO·COO브래드라이...",
-  "오픈AI라이트캡퇴사,IPO앞두고임원이탈가속",
-  "미하원,오픈AI·앤트로픽청문회소환추진...\"AI통제이탈위험심각...",
-  "샌더스美상원의원\"통제못할AI개발멈춰라\"…오픈AI·앤트로픽·메...",
   "메타AI비전내세운마크저커버그,왜대중의경계심만키웠나",
   "메타CTO\"AI덕에시간벌었으니더일해라\"…휴가요구에는'발끈'",
   "오픈AI는왜‘루나’를무료로풀었을까",
@@ -6001,13 +5993,17 @@
   "'K-미토스'도전…SKT·네이버클라우드,보안특화AI사업지원",
   "LG유플러스,유선가입자망자율화수준글로벌평가체계주도",
   "KT알파쇼핑,국민김치'종가'신제품론칭",
-  "위믹스,지난달해킹피해전액보상…\"보상규모약16억원\""
+  "위믹스,지난달해킹피해전액보상…\"보상규모약16억원\"",
+  "[속보]\"경찰지인이전연인집찾아줘\"전연인에'오물테러'의뢰한...",
+  "오너리스크방패막이용?다시논란된카카오지주사‘쪼개기’",
+  "현대차\"SDV더는안미뤄…2028년초출시지연없다\"",
+  "[AI브리프]LGCNS,삼송데이터센터에'차세대액체냉각'도입",
+  "현대차,하이브리드ㆍ원가절감으로2030년이익률9%달성",
+  "북한해커'김수키',한·일겨냥해'AnyDesk'은닉침투…복구되더라도...",
+  "임원용시계가수억원?…오픈AI,맞춤명품시계7점제작",
+  "\"전북,피지컬AI1000년에한번올기회\""
  ],
  "recent_sigs": [
-  [
-   "2026-08-26T11:24:13.362286+09:00",
-   "LG유플러스 SK인텔릭스 ~LGU LG전자"
-  ],
   [
    "2026-08-26T11:26:14.048005+09:00",
    "중국에 서버 직원 밀수출 최신 대만서"
@@ -6611,9 +6607,13 @@
   [
    "2026-08-26T17:22:13.972250+09:00",
    "전액 규모 피해 지난달 보상 위믹스 16억원"
+  ],
+  [
+   "2026-08-26T17:24:17.005967+09:00",
+   "기회 1000년에 피지컬AI 전북"
   ]
  ],
- "last_run": "2026-08-26T17:22:38.430392+09:00",
+ "last_run": "2026-08-26T17:24:35.373432+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
