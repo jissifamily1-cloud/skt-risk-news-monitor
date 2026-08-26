@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=110953",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2235381",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=214034",
-  "https://www.ibabynews.com/news/articleView.html?idxno=153998",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241204",
-  "https://www.thelec.kr/news/articleView.html?idxno=61363",
   "https://www.newsis.com/view/NISX20260826_0003763145",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7176812",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2292005",
@@ -2999,15 +2993,15 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003259910&CMPT_CD=P0010",
   "https://www.newsis.com/view/NISX20260818_0003751772",
   "https://www.mediapen.com/news/view/1119132",
-  "https://www.edaily.co.kr/News/Read?newsId=02361606645551584&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02361606645551584&mediaCodeNo=257",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3042142",
+  "https://www.edaily.co.kr/news/newspath.asp?newsid=03663766645548632",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005898710",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=142891",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94300",
+  "https://biz.sbs.co.kr/article_hub/20000331024?division=NAVER"
  ],
  "seen_titles": [
-  "메타,첫AI코딩에이전트공개⋯오픈AIㆍ엔스로픽과본격경쟁",
-  "\"데이터센터매출2배급증\"…AMD,2분기115억달러사상최대실적",
-  "[게임스테이션]키키'LCK시즌송'·'솔'업뎃·신작명'라이크오어다이...",
-  "크래프톤,게임스컴2026ONL서신작5종공개하다",
-  "2차공공기관이전발표설에전국촉각…대전·충남또빠지면'후폭풍...",
-  "스카이월드와이드,LG유플러스NRAP고도화사업수주",
   "[단독]SK텔레콤100%자회사PS&M직장어린이집폐원앞둬…\"아이맡길...",
   "[르포]\"저궤도위성시대,핵심은운영역량\"…KT샛용인관제센터를...",
   "LGCNS,삼송DC에'베라루빈'맞춤액체냉각구축한다",
@@ -6001,7 +5995,13 @@
   "독자AI모델'3강'굳혔다...업스테이지·SKT·LGAI연구원다음단계로",
   "'초대형IPO'앞둔앤트로픽,연환산매출92조원…1년새700%",
   "젠슨황\"AI완전변곡점도달,이젠컴퓨팅투자가기업수익으로직결...",
-  "엔비디아내년에도70%성장한다…시간외서4%↑"
+  "엔비디아내년에도70%성장한다…시간외서4%↑",
+  "\"기록도구에서진료파트너로\"…'의사랑AI'가바꿀진료실풍경",
+  "'국가대표AI'2차평가,업스테이지·SKT·LG勝…정부\"AI전략대대적개...",
+  "인텔,AI투자위해유상증자…불확실성높은AI시대구글과애플은다른...",
+  "[AI쩐의전쟁]①현금떨어진빅테크들...자금조달에물불안가린다",
+  "뉴욕증시,엔비디아실적앞두고약보합…다우0.21%↓",
+  "씨포트\"엔비디아목표가180달러…갈수록경쟁어려워져\""
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-08-27T06:46:15.246622+09:00",
    "성장한다 내년에도 시간외서"
+  ],
+  [
+   "2026-08-27T06:48:16.120248+09:00",
+   "경쟁 목표가 갈수록 180달러 씨포트 어려워져"
   ]
  ],
- "last_run": "2026-08-27T06:46:32.718396+09:00",
+ "last_run": "2026-08-27T06:48:41.185280+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
