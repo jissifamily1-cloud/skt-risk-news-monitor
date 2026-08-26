@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://theviewers.co.kr/View.aspx?No=4198603",
-  "http://www.beyondpost.co.kr/view.php?ud=2026082515293788322aaae0046f_30",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2296566",
-  "https://www.donga.com/news/It/article/all/20260825/134539676/1",
-  "https://www.koit.co.kr/news/articleView.html?idxno=208548",
-  "https://biz.sbs.co.kr/article_hub/20000330650?division=NAVER",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445545",
-  "https://www.ajunews.com/view/20260824163725110",
   "https://www.ziksir.com/news/articleView.html?idxno=144247",
   "https://en.yna.co.kr/view/AEN20260825008400320?input=2106m",
   "https://zdnet.co.kr/view/?no=20260825153836",
@@ -2999,17 +2991,17 @@
   "https://www.wikitree.co.kr/articles/1154175",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=88413",
   "https://www.econovill.com/news/articleView.html?idxno=748935",
-  "https://www.thelec.kr/news/articleView.html?idxno=61346"
+  "https://www.thelec.kr/news/articleView.html?idxno=61346",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463126",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3675002",
+  "https://www.ziksir.com/news/articleView.html?idxno=144318",
+  "https://www.inthenews.co.kr/news/article.html?no=90957",
+  "https://biz.chosun.com/it-science/ict/2026/08/26/T57T7IMF25E5VLUB2FPM55KBBY/",
+  "https://www.newspim.com/news/view/20260826000471",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463162",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=810859"
  ],
  "seen_titles": [
-  "개인정보보호전담인력11년만에늘린다…31개중앙부처54명배치",
-  "금융위등이전내주국무회의심의가능성…공공기관반발고조",
-  "SKT,가성비AI폰'갤럭시퀀텀7'출격…\"두께줄이고AI채웠다\"",
-  "엔비디아실적발표,뭘봐야하나...2027년이후AI자본지출(CAPEX)수요...",
-  "한화강인권'류지현호'승선…2026AG야구대표팀코칭스태프확정",
-  "카카오AI첫이사진,전직장관등각분야전문가대거포진",
-  "GPS전파혼신대비민·관·군합동훈련시행",
-  "코스피하루만에반등…6700선회복",
   "삼성SDSAI데이터센터·클라우드확장'방점',이준희물류중심에서고...",
   "[김지윤의골든피그]\"매달빠져나가는챗GPT구독료부담인데\"…'할인카...",
   "SKT,발달장애골퍼와'어댑티브오픈'개최…김선영우승",
@@ -6001,7 +5993,15 @@
   "오픈AI코덱스,2000만명돌파…8개월만에33배폭증했지만사용한도불...",
   "LGCNS-네이버클라우드,삼송데이터센터에'액체냉각'도입한다",
   "LG유플러스,유선가입자망자율화평가기준만들었다",
-  "엔비디아,성능2배높인'젯슨오린나노2'공개"
+  "엔비디아,성능2배높인'젯슨오린나노2'공개",
+  "LGU+,유선가입자망자율화평가기준마련···\"글로벌표준화주도\"",
+  "대구광역시,고위험산모·신생아필수의료세미나개최...지역맞춤전...",
+  "[특징주]미·이란휴전보도에재건기대감…건설주장초반강세",
+  "LGCNS-네이버클라우드,삼송데이터센터에‘액체냉각’인프라구축",
+  "LGCNS,삼송데이터센터에‘액체냉각’인프라도입",
+  "\"시선AI,APC자동화선점…유온로보틱스성장축부상\"-CMIR",
+  "SKT,아시안게임국가대표지원에AI접목···오상욱·황선우등출사...",
+  "[오늘증시]'엔비디아성적표'기다리는코스피…외인매도에상승분'..."
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,13 @@
   [
    "2026-08-26T10:50:19.859302+09:00",
    "수해지역 일상회복 추가 거제 ~SKT 투입 인프라 통신 지원"
+  ],
+  [
+   "2026-08-26T10:54:14.987700+09:00",
+   "오상욱 황선우 출사 아시안게임 지원에 접목 국가대표 ~SKT"
   ]
  ],
- "last_run": "2026-08-26T10:52:36.714281+09:00",
+ "last_run": "2026-08-26T10:54:36.623575+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
