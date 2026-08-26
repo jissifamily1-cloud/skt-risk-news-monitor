@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1154175",
-  "https://www.newspim.com/news/view/20260825000851",
-  "https://www.insight.co.kr/news/570005",
-  "https://kpenews.com/View.aspx?No=4198599",
-  "http://www.joseilbo.com/news/news_read.php?uid=574442&class=10",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5214692",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3674233",
   "https://www.kpinews.kr/newsView/1065591302556277",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4431705",
   "https://www.newspim.com/news/view/20260825000884",
@@ -2999,16 +2992,16 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=281390",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=316893",
   "https://www.sedaily.com/article/20083412",
-  "https://www.yna.co.kr/view/AKR20260826064600017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260826064600017?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721456",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=87953",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695021",
+  "https://www.fnnews.com/news/202608251528245180",
+  "https://byline.network/?p=9004111222616613",
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=224580",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695585"
  ],
  "seen_titles": [
-  "대전시사회서비스원,재활치료마친아이들새출발응원",
-  "\"AI에이전트트래픽1700%급증\"...클라우드플레어,제로트러스트전략...",
-  "오픈AI코덱스,2000만명돌파…8개월만에33배폭증했지만사용한도불...",
-  "'하청업체경영간섭'구현모전KT대표,1심서무죄",
-  "AI로공격하고막았다...LIGD&A가'사이버공방전'으로진행한'AI공방...",
-  "삼성·LG로넘어간李-총수회동..투자보다‘실행해법’에시선",
-  "세무사회,재산제세컨설팅솔루션구축…내년3월오픈목표",
   "프로야구정규시즌10월7일끝난다…막판엔'최대9연전'가능",
   "학생줄었다고교육비도줄인다?…고의숙교육감,교부금개편반발",
   "러시아한국라면수입급증…왜?",
@@ -6001,7 +5994,14 @@
   "[트렌드키워드]쇼핑도AI에게맡긴다…‘에이전틱커머스’",
   "LG유플러스,유선망자율운영'글로벌평가기준'세웠다",
   "러국영통신사미·이란휴전보도에…재건株일제히상승[마켓시그널...",
-  "K-다큐축제개막…29편투자유치나선다"
+  "K-다큐축제개막…29편투자유치나선다",
+  "[Telecom&Now]LGU+,글로벌화이트해커와보안'취약점'찾는다등",
+  "포스코인터내셔널,종이선하증권디지털전환…'e-B/L컨소시엄'출범",
+  "시민단체\"150일홀드백신중해야…소비자참여도보장\"",
+  "AI가국회·정부정책감시한다…연세대,오픈AI정책연구파트너선정",
+  "금융보안원,보험사·GA정보보안협의체출범",
+  "[게임스컴2026]크래프톤'노로우',신규트레일러공개,전투·잠입자...",
+  "SKT,거제수해지역일상회복지원…통신인프라추가투입"
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,13 @@
   [
    "2026-08-26T10:46:14.306104+09:00",
    "학습 모델 10조 완료설 나왔다 파라미터"
+  ],
+  [
+   "2026-08-26T10:50:19.859302+09:00",
+   "수해지역 일상회복 추가 거제 ~SKT 투입 인프라 통신 지원"
   ]
  ],
- "last_run": "2026-08-26T10:48:34.728603+09:00",
+ "last_run": "2026-08-26T10:50:43.642576+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
