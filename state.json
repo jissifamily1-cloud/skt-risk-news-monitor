@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261340&CMPT_CD=P0010",
-  "https://www.newsis.com/view/NISX20260825_0003761405",
-  "http://www.e-platform.net/news/articleView.html?idxno=104758",
-  "https://www.mt.co.kr/society/2026/08/25/2026082509024073590",
-  "https://www.yna.co.kr/view/AKR20260825080700017?input=1195m",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443277",
-  "https://www.mt.co.kr/tech/2026/08/25/2026082510442031879",
-  "https://www.yna.co.kr/view/AKR20260825079800530?input=1195m",
-  "https://www.ytn.co.kr/_ln/0103_202608221202280700",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673876",
   "https://www.edaily.co.kr/News/Read?newsId=03329206645550928&mediaCodeNo=257",
   "https://www.mt.co.kr/tech/2026/08/25/2026082414212286383",
   "https://view.asiae.co.kr/article/2026082410202962870",
@@ -2999,19 +2989,19 @@
   "https://www.gosiweek.com/article/1065581434771114",
   "https://www.news1.kr/it-science/security-hacking/6267365",
   "https://www.m-i.kr/news/articleView.html?idxno=1406041",
-  "https://www.etoday.co.kr/news/view/2618181"
+  "https://www.etoday.co.kr/news/view/2618181",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674822",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674827",
+  "https://www.newsis.com/view/NISX20260826_0003762778",
+  "https://news.unn.net/news/articleView.html?idxno=596402",
+  "https://zdnet.co.kr/view/?no=20260825171912",
+  "https://www.namdonews.com/news/articleView.html?idxno=921160",
+  "https://www.dt.co.kr/article/12080252",
+  "https://zdnet.co.kr/view/?no=20260826083304",
+  "https://zdnet.co.kr/view/?no=20260826091902",
+  "https://www.g-enews.com/view.php?ud=202608260916292830e7e8286d56_1"
  ],
  "seen_titles": [
-  "정부,차세대AI글로벌표준선점위해AAIF와협력",
-  "4%급락뒤낙폭축소…코스피6,500선",
-  "카이스트총장\"기초는AI배제,응용은주도\"",
-  "공공개인정보유출잇따르자…정부,11년만에전담인력증원",
-  "대한상의'중소․중견기업재생e맞춤형컨설팅무료제공'",
-  "의심번호막고악성앱끊었더니…보이스피싱피해53%급감",
-  "[AI픽]ETRI,오픈AI·구글참여'AI에이전트재단'합류",
-  "대한상의,26일부터중소·중견기업재생에너지맞춤형컨설팅참여기업...",
-  "해킹잇따르자…정부부처개인정보전담인력1.1명→2.1명",
-  "잦은해킹·정보유출…중앙부처개인정보보호인력54명확충",
   "'노태우비자금'압수물분석착수...'152억기부금'주목",
   "대전경찰,휴가철끝나도'심야음주단속'계속…동승자까지엄정처벌",
   "AI가금리인하·대환신청까지…금융위,마이데이터서비스확늘린다",
@@ -6001,7 +5991,17 @@
   "미미미누·허팝·존박한자리에…‘2026크리에이터미디어대전’28일...",
   "\"사진만넣어도음란물이\"…AI음란물생성사이트64건차단",
   "[르포]ktsat컨트롤타워가보니…3.6만㎞떨어진위성과32년째교신중",
-  "[특징주]엔비디아실적앞두고숨고르기…삼전·SK하닉강보합"
+  "[특징주]엔비디아실적앞두고숨고르기…삼전·SK하닉강보합",
+  "[조간신문뉴스라인]대전∙충남∙세종26일(수)",
+  "전남광주특별시,경남호우피해복구에재해구호기금1억원기탁",
+  "\"문자유통단계부터선제차단\"…아톤,NICE계열사에악성문자플랫폼...",
+  "입학부터졸업까지AI맞춤형성장로드맵…숙명여대,학생성장통합시...",
+  "[AI는지금]GPU만빠르면끝?…AI에이전트시대,'추론SW'가판바꾼다",
+  "[증시]美반도체주일제히상승…삼성전자·SK하이닉스1%안팎↑",
+  "코스피,하락출발뒤6770선상승전환…삼전·SK하닉1%대강세",
+  "오픈AI첫AI추론칩,전력효율·응답속도서엔비디아앞섰다",
+  "KT,무신사·직방·EBS와'모두의AI'…생활속AI대중화",
+  "엔비디아결산앞둔日닛케이…7조엔거래급감속관망세전망"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,21 @@
   [
    "2026-08-26T09:16:15.951733+09:00",
    "삼성전자 개선 실적발표 투심 기대감 하나증권 SK하이닉스"
+  ],
+  [
+   "2026-08-26T09:20:21.502890+09:00",
+   "무신사 EBS와 ~KT 생활 직방 대중화 모두의AI"
+  ],
+  [
+   "2026-08-26T09:20:21.502890+09:00",
+   "응답 앞섰다 속도서 추론칩 전력 효율"
+  ],
+  [
+   "2026-08-26T09:20:21.502890+09:00",
+   "결산 닛케이 관망세 앞둔 7조엔 급감 전망 거래"
   ]
  ],
- "last_run": "2026-08-26T09:18:35.598085+09:00",
+ "last_run": "2026-08-26T09:20:52.302749+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
