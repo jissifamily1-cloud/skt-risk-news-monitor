@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://journal.kobeta.com/?post_type=post&p=63617",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16173112",
-  "https://isplus.com/article/view/isp202608260061",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3675264",
-  "https://www.inthenews.co.kr/news/article.html?no=90976",
-  "http://www.yonhapnewstv.co.kr/news/MYH202608261332240yp",
-  "https://www.newspim.com/news/view/20260826000508",
   "https://www.dailysecu.com/news/articleView.html?idxno=208205",
   "https://www.sidae.com/article/2026082611124181872",
   "https://www.seoultimes.news/news/article.html?no=2000099165",
@@ -2999,16 +2992,16 @@
   "https://www.smartbizn.com/news/articleView.html?idxno=152243",
   "https://biz.heraldcorp.com/article/10853585",
   "https://www.newsway.co.kr/news/view?ud=2026082708451627185",
-  "https://www.dailian.co.kr/news/view/1682798/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1682798/?sc=Naver",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266027",
+  "https://www.edaily.co.kr/News/Read?newsId=02768326645551584&mediaCodeNo=257",
+  "https://www.news1.kr/it-science/internet-platform/6270845",
+  "https://www.joongang.co.kr/article/25456629",
+  "https://www.edaily.co.kr/News/Read?newsId=02781446645551584&mediaCodeNo=257",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432025",
+  "https://zdnet.co.kr/view/?no=20260827083059"
  ],
  "seen_titles": [
-  "바이오혁신위정책실행속도…\"혁신성장전략발표임박\"",
-  "獨쾰른달군글로벌신작향연...한국어울려퍼진게임스컴ONL",
-  "[이슈+]공공기관2차지방이전'속도조절'···10월로넘기긴했지만",
-  "SK텔레콤,전용단말‘갤럭시퀀텀7’출시…두께줄이고,AI강화",
-  "장혁,젖은머리셀카공개…'문무'앞두고강렬눈빛",
-  "\"정말요?\"선발복귀에울컥한신인,삼성김백산\"1위싸움,또일내야...",
-  "금산군남일면따뜻한사랑을나누어요",
   "신한투자증권,슈퍼SOL에‘미국기업실적발표실시간한국어서비스’...",
   "[경제읽기]김윤덕·오세훈2차회동종료…코스피는숨고르기중",
   "[기술과쩐의전쟁]⑧빌리는대로짓는다...AI판매금융의과잉공식",
@@ -6001,7 +5994,14 @@
   "[게임스컴2026]세계최대게임축제개막···삼성·크래프톤앞세운...",
   "[르포]“AI가선수와칼끝을따라가분석한다”…‘아시안게임출격’...",
   "모티프테크놀로지스,독파모2차평가에이의제기…\"기준·결과공개해...",
-  "삼전·닉스주가,역대급주주환원에도'시큰둥'…엔비디아실적이관건..."
+  "삼전·닉스주가,역대급주주환원에도'시큰둥'…엔비디아실적이관건...",
+  "SKT,아시안게임앞두고'TeamSKT'출정식…국가대표훈련에AI입힌다",
+  "독파모2차탈락해이의제기한'모티프테크놀로지스입장문'전문",
+  "\"벤치마크1위인데왜탈락\"…모티프,독파모재심의요청",
+  "[속보]‘독파모탈락’모티프,재심의·평가점수상세공개요청",
+  "[마켓무버]PCE소폭상회에도엔비디아실적앞둔관망세…뉴욕증시약...",
+  "다가온엔비디아실적발표우린'이렇게'대응하겠습니다",
+  "아마존,엔비디아AI칩200만개더산다…생성형AI수요대응"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,21 @@
   [
    "2026-08-27T08:52:14.028102+09:00",
    "따라가 선수와 칼끝을 분석한다 AI가 아시안게임 출격"
+  ],
+  [
+   "2026-08-27T08:54:15.592132+09:00",
+   "Team 국가대표 아시안게임 출정식 훈련에 입힌다 앞두고 ~SKT"
+  ],
+  [
+   "2026-08-27T08:54:15.592132+09:00",
+   "이렇게 다가온 실적발표 대응하겠습니다 우린"
+  ],
+  [
+   "2026-08-27T08:54:15.592132+09:00",
+   "수요 산다 AI칩 200만개 아마존 생성형AI 대응"
   ]
  ],
- "last_run": "2026-08-27T08:52:38.925664+09:00",
+ "last_run": "2026-08-27T08:54:39.005103+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
