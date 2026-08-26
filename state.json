@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054682",
-  "https://www.korea.kr/news/policyNewsView.do?newsId=148970586&call_from=naver_news",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3673999",
-  "https://www.nocutnews.co.kr/news/6567704",
-  "https://www.newspim.com/news/view/20260825000792",
-  "http://www.newswatch.kr/news/articleView.html?idxno=80848",
-  "https://www.etoday.co.kr/news/view/2617874",
-  "https://www.etnews.com/20260825000312",
-  "https://www.newdaily.co.kr/site/data/html/2026/08/25/2026082500251.html",
-  "https://www.mk.co.kr/article/12134858",
-  "https://www.hankookilbo.com/news/article/A2026082514370003494?did=NA",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032549",
   "https://www.livebiz.today/news/articleView.html?idxno=204389",
   "https://www.news2day.co.kr/article/20260825500187",
@@ -2999,20 +2988,20 @@
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=128679",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=88407",
   "https://www.yna.co.kr/view/AKR20260826049700009?input=1195m",
-  "https://www.segye.com/newsView/20260826505439?OutUrl=naver"
+  "https://www.segye.com/newsView/20260826505439?OutUrl=naver",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851302",
+  "https://www.todayeconomic.com/news/article.html?no=31842",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1012525",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89627",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674858",
+  "https://zdnet.co.kr/view/?no=20260826094306",
+  "http://www.lawissue.co.kr/view.php?ud=2026082610165133459817d053b9_12",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=391305",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83820",
+  "https://www.ziksir.com/news/articleView.html?idxno=144317",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406065"
  ],
  "seen_titles": [
-  "신의진교수\"느린학습자,의지·태도문제아냐…성장단계별지원필...",
-  "[이슈포커스]中AI확산에일자리흔들…청년실업률전체의3배",
-  "'EV트렌드코리아-개막'기아·KGM·볼보·BMW·BYD,공략법달랐다",
-  "이대통령\"미래재원,생산적분야투입…수치관리에매몰안돼\"",
-  "대전유성구,9월골목상권에'온누리듬뿍쇼'…상품권환급혜택",
-  "완주군은왜인구가늘어날까?…\"아낀예산은주민에게\"",
-  "크리스탈신소재,충칭차이나유니콤과AI컴퓨팅네트워크구축협력",
-  "[초점]DB자산운용,첫해외ETF출격…'피지컬AI'승부수",
-  "델“韓기업72%AI인프라미흡…AI맞춰업무재설계해야”",
-  "정부,개인정보보호전담인력54명확충",
-  "'금메달도전'류지현호,아시안게임코치진확정",
   "SK브로드밴드,고객상담부터사내업무방식까지…'AI네이티브기업'대...",
   "카카오AI첫이사회에임혜숙전과기정통부장관합류",
   "보이스피싱",
@@ -6001,7 +5990,18 @@
   "LG유플러스,유선망자율운영'글로벌잣대'만들었다…TM포럼공식승인",
   "LG유플러스,유선망자율운영수준재는글로벌잣대만들었다",
   "오픈AI,자체칩연내투입…\"삼성HBM4탑재추정\"",
-  "엔비디아관망세에삼전·닉스반락…외인·기관‘팔자’에코스피6..."
+  "엔비디아관망세에삼전·닉스반락…외인·기관‘팔자’에코스피6...",
+  "[통신풍향계]SKT-서울대'AI공동과정'개설·KT'AX플랫폼컴퍼니'강...",
+  "SKT,서울대와AI인재육성…정재헌CEO직접강단선다",
+  "SK텔레콤,서울대와미래AI리더육성강좌개설",
+  "에이치아이모빌리티,전기빅스쿠터'수퍼렉스i6'출시…배달시장공...",
+  "울주군,InnoEx2026서2,660만달러수출상담...8건MOU체결",
+  "[AI고속도로]\"네트워크만으론부족\"…시스코,AI데이터센터풀스택으...",
+  "LGCNS,네이버클라우드와삼송데이터센터에차세대액체냉각기술도...",
+  "원전·반도체장비·가상자산·바이오테마강세",
+  "크래프톤,'게임스컴ONL'서신작5종공개…'에이지트위스터'어워드...",
+  "LGCNS,삼송데이터센터에'액체냉각'도입…엔비디아'베라루빈'지원",
+  "엔비디아,DGX스파크서퍼플렉시티AI에이전트쓴다"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,13 @@
   [
    "2026-08-26T10:18:13.858828+09:00",
    "기관 반락 코스피 외인 팔자 삼전 닉스 관망세에"
+  ],
+  [
+   "2026-08-26T10:20:19.752085+09:00",
+   "에이전트 쓴다 DGX 스파크서"
   ]
  ],
- "last_run": "2026-08-26T10:18:34.795742+09:00",
+ "last_run": "2026-08-26T10:20:45.150407+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
