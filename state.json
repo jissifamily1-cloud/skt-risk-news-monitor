@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3032549",
-  "https://www.livebiz.today/news/articleView.html?idxno=204389",
-  "https://www.news2day.co.kr/article/20260825500187",
-  "https://www.mk.co.kr/article/12135736",
-  "https://www.etnews.com/20260825000313",
-  "https://www.edaily.co.kr/News/Read?newsId=03676886645550928&mediaCodeNo=257",
-  "https://www.imaeil.com/page/view/2026082514384098464",
-  "https://www.ccreview.co.kr/news/articleView.html?idxno=355797",
-  "https://news.tf.co.kr/read/national/2357727.htm",
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1099572",
-  "https://www.ziksir.com/news/articleView.html?idxno=144230",
   "https://www.tjb.co.kr/news05/bodo/view/id/102807",
   "https://www.topstarnews.net/news/articleView.html?idxno=16172967",
   "https://www.ikbc.co.kr/article/view/kbc202608250047",
@@ -2999,20 +2988,20 @@
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391305",
   "https://www.pointe.co.kr/news/articleView.html?idxno=83820",
   "https://www.ziksir.com/news/articleView.html?idxno=144317",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=406065"
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406065",
+  "https://www.starnewskorea.com/sports/2026/08/26/2026082515375354346",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674945",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3674932",
+  "http://www.joseilbo.com/news/news_read.php?uid=574482&class=17",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5054790",
+  "http://www.wsobi.com/news/articleView.html?idxno=317022",
+  "https://www.boannews.com/news/articleView.html?idxno=145440",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=84990",
+  "https://www.news2day.co.kr/article/20260826500124",
+  "https://www.greened.kr/news/articleView.html?idxno=348438",
+  "https://zdnet.co.kr/view/?no=20260826102011"
  ],
  "seen_titles": [
-  "SK브로드밴드,고객상담부터사내업무방식까지…'AI네이티브기업'대...",
-  "카카오AI첫이사회에임혜숙전과기정통부장관합류",
-  "보이스피싱",
-  "소프트뱅크,일본서개인대상8.7조원채권발행계획...일본개인회사...",
-  "AI가공격하고방어한다…LIGD&A,‘방산에이전틱AI사이버보안해커...",
-  "SKT전용‘갤럭시퀀텀7’출시…AI기능강화했다",
-  "UST,신입생때부터'창업·AI·인문학'역량북돋아...200여명대상예비...",
-  "‘밀리작가의집’가보니…“창작위한저만의아지트,책임감도有”",
-  "프로야구정규시즌10월7일종료…라팍5일마지막경기",
-  "충주시,'2026충주다이브페스티벌'평가회개최",
-  "아산시의회,제267회정례회본회의개회…결산·예비비승인",
   "델테크놀로지스포럼2026,AI실전도입위한데이터센터전략제시",
   "SKT고객이바라는변화1순위는'요금부담완화'",
   "'류지현호'아시안게임출격준비끝!…강인권·최원호등코칭스태프...",
@@ -6001,7 +5990,18 @@
   "원전·반도체장비·가상자산·바이오테마강세",
   "크래프톤,'게임스컴ONL'서신작5종공개…'에이지트위스터'어워드...",
   "LGCNS,삼송데이터센터에'액체냉각'도입…엔비디아'베라루빈'지원",
-  "엔비디아,DGX스파크서퍼플렉시티AI에이전트쓴다"
+  "엔비디아,DGX스파크서퍼플렉시티AI에이전트쓴다",
+  "'펑펑울며'한국떠난외인,여전히LG만바라봤다...구단최초역사+...",
+  "대우건설·GS건설등건설대표株상승...美·이란휴전기대",
+  "세종시의회,교권보호전담기구신설등교육현장목소리청취",
+  "HBM값내년최대140%오른다는데…삼성·하닉은‘찔끔’[칩칩폭폭]",
+  "'게임스컴개막,TGSD-1개월'게임업계,지스타외면…'외연확장'쇄신",
+  "LG전자·LGCNS,울트라기어게이밍모니터출시·삼송데이터센터에'차...",
+  "글로벌사이버안보동향공유...국정원,'CSK2026'개최",
+  "李대통령,재계총수들과연쇄회동…'3대메가프로젝트'논의전망",
+  "코스피,엔비디아실적앞두고반도체주상승…6,750선강보합세",
+  "LGCNS,삼송데이터센터에'액체냉각'구축…엔비디아'베라루빈'대응",
+  "KT알파쇼핑,대상‘종가’신제품판매…포장김치수요공략"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-08-26T10:20:19.752085+09:00",
    "에이전트 쓴다 DGX 스파크서"
+  ],
+  [
+   "2026-08-26T10:22:14.031660+09:00",
+   "공략 포장김치 종가 ~KT 대상 KT알파 쇼핑 신제품 판매 수요"
   ]
  ],
- "last_run": "2026-08-26T10:20:45.150407+09:00",
+ "last_run": "2026-08-26T10:22:31.945740+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
