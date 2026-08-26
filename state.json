@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/distribution/6269315",
-  "https://www.dt.co.kr/article/12080190",
-  "https://zdnet.co.kr/view/?no=20260825190348",
-  "https://www.fnnews.com/news/202608251903425048",
-  "https://www.yna.co.kr/view/PYH20260825199600061?input=1196m",
-  "https://www.yna.co.kr/view/PYH20260825200500061?input=1196m",
-  "http://www.journalist.or.kr/news/article.html?no=61517",
   "https://www.sportschosun.com/baseball/2026-08-25/202608250100149340009519",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260826.22015007298",
   "https://www.sportschosun.com/baseball/2026-08-25/202608250100149310009516",
@@ -2999,16 +2992,16 @@
   "http://amenews.kr/news/view.php?idx=67807",
   "https://www.gukjenews.com/news/articleView.html?idxno=3675348",
   "https://www.news1.kr/it-science/cc-newmedia/6270069",
-  "https://www.dailian.co.kr/news/view/1682648/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1682648/?sc=Naver",
+  "https://www.sportschosun.com/baseball/2026-08-26/202608260100155550009948",
+  "https://www.news1.kr/it-science/internet-platform/6270043",
+  "https://www.etnews.com/20260826000268",
+  "https://zdnet.co.kr/view/?no=20260826143518",
+  "https://www.edaily.co.kr/News/Read?newsId=03890086645551256&mediaCodeNo=257",
+  "https://www.huffingtonpost.kr/article/259864",
+  "http://coinreaders.com/254902"
  ],
  "seen_titles": [
-  "로이드케이,엔비디아'NPN솔루션어드바이저파트너'합류",
-  "군인대신드론…‘미래전쟁’선보인우크라열병식",
-  "\"K-패션하면마뗑킴생각나요\"…외국인들인증샷쏟아진하고하우스",
-  "KT,대졸신입사원채용…AI활용역량도검증",
-  "디에스앤지,네이버클라우드에엔비디아B300GPU서버389대공급",
-  "[강남視角]AI시대'호모콰렌스'",
-  "역투하는KT선발투수소형준",
   "역투하는두산선발투수최민석",
   "KBS이사회'사장선임'논의속도…편성위도뒤늦게잰걸음",
   "[포토]김현수-정수빈,다정한한때",
@@ -6001,7 +5994,14 @@
   "포스코인터,종이선하증권디지털전환",
   "문정우금산군수현장행보...군추진주요11개사업장문제점점검",
   "오상욱스텝까지AI가읽는다…SKT,아시안게임실전에AI투입",
-  "AI서버값뛰어도더살까…엔비디아실적에삼성·SK촉각"
+  "AI서버값뛰어도더살까…엔비디아실적에삼성·SK촉각",
+  "\"선발시켜주세요\"52억몸값이영하와김원형감독의'밀당',이대로싱...",
+  "AI분석기관,韓AI3강평가…배경훈\"제대로세계와경쟁중\"",
+  "김진태GC메디아이대표“'의사랑AI'로EMR혁신…메디컬OS기업도약...",
+  "AI가상담부터결제·분실신고까지…유베이스,AI에이전트상용화속도",
+  "정문식아이엘CAIO,PhysicalAI전략공개",
+  "이재명대통령'재계1~3위총수'연쇄회동:SK최태원이미만났고,...",
+  "노키아(NOK),AI주문28억유로수주...중국철수·통신사업에'발목'"
  ],
  "recent_sigs": [
   [
@@ -6679,9 +6679,17 @@
   [
    "2026-08-26T14:36:13.935304+09:00",
    "뛰어도 실적에 촉각 삼성 SK 서버값 살까"
+  ],
+  [
+   "2026-08-26T14:38:14.535374+09:00",
+   "세계와 분석기관 3강 경쟁 배경훈 제대로 평가"
+  ],
+  [
+   "2026-08-26T14:38:14.535374+09:00",
+   "철수 통신사업에 28억 수주 발목 유로 NOK 노키아 주문 중국"
   ]
  ],
- "last_run": "2026-08-26T14:36:35.594421+09:00",
+ "last_run": "2026-08-26T14:38:37.973931+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
