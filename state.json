@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431957",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/26/20260826500282?wlog_tag3=naver",
-  "https://www.news2day.co.kr/article/20260826500267",
-  "http://www.newstomato.com/ReadNews.aspx?no=1311558&inflow=N",
-  "https://www.fnnews.com/news/202608261832510382",
   "https://zdnet.co.kr/view/?no=20260825230642",
   "https://www.hankyung.com/article/2026082648991",
   "http://www.econotelling.com/news/articleView.html?idxno=21188",
@@ -2999,14 +2994,14 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700184.html",
   "https://www.mk.co.kr/article/12137655",
   "https://sports.donga.com/sports/article/all/20260827/134555076/1",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432141"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432141",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87709",
+  "https://www.etnews.com/20260827000202",
+  "https://www.mk.co.kr/article/12137656",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63468",
+  "https://www.ajunews.com/view/20260827105759523"
  ],
  "seen_titles": [
-  "'미토스쇼크'에사이버보안AI2파전···SKT·네이버클라우드컨소시...",
-  "카카오,AI신설법인에'방패와창'이사진세우다",
-  "“변화구컨트롤이좋았어요”…정교한제구+빨라진구속,테일러반등...",
-  "[혁신제품특집인터뷰]모빌린트,엣지에특화된국산AI반도체...\"기술...",
-  "'32년만의기록'눈앞이었는데…\"3회부터고민\"사령탑이쉽지않은결...",
   "테슬라골목길,현대차2년뒤도고속도로…\"7년뒤데이터추월\"",
   "현대차,2030년까지신차100종출시…영업이익'9%이상'목표(종합)",
   "과기부공모‘보안특화AI’개발사업에SKT·네이버클라우드지원…...",
@@ -6001,13 +5996,14 @@
   "독파모AAII1위에도탈락한모티프'반발'…과기정통부\"평가점수공...",
   "네이버·LG보안동맹...사이버보안특화AI구축나서",
   "75경기33블론33역전…8월불펜집단난조,무엇이문제인가[SD베이스볼...",
-  "[외환]한은'백투백'금리인상에1,370원대로하락"
+  "[외환]한은'백투백'금리인상에1,370원대로하락",
+  "빌게이츠,'로봇세'도입주장왜?",
+  "뉴타닉스,VM·컨테이너전반에서AI동시운영'듀얼네이티브아키텍...",
+  "SKT,보안특화AI모델도전…업스테이지·안랩등총출동",
+  "해킹의심되면접속기록2년보관…기업,복구전에증거부터",
+  "[종합]엔비디아,AI투자에또최대실적…마진·中사업은변수"
  ],
  "recent_sigs": [
-  [
-   "2026-08-27T07:14:15.877002+09:00",
-   "재무 한파 에도 부담은 줄인 유료방송 덜었지만 LG헬로비전"
-  ],
   [
    "2026-08-27T07:18:14.569491+09:00",
    "실적에도 뉴욕증시 하락 물가압력도 소폭 가세"
@@ -6707,9 +6703,17 @@
   [
    "2026-08-27T13:10:22.004103+09:00",
    "분기매출 4조원"
+  ],
+  [
+   "2026-08-27T13:16:23.118246+09:00",
+   "복구 보관 2년 증거부터 접속기록 의심되면 전에 기업"
+  ],
+  [
+   "2026-08-27T13:16:23.118246+09:00",
+   "투자에 변수 마진 사업은 실적"
   ]
  ],
- "last_run": "2026-08-27T13:14:33.453217+09:00",
+ "last_run": "2026-08-27T13:16:48.672848+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
