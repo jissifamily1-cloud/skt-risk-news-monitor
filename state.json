@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202608061716001",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422904",
-  "https://www.nocutnews.co.kr/news/6559051",
-  "https://www.ajunews.com/view/20260713160252009",
-  "https://ditoday.com/%ec%95%84%eb%a7%88%ec%a1%b4-ai-%eb%8f%84%ea%b5%ac-%ec%93%b0%eb%8b%a4-180%eb%a7%8c-%eb%8b%ac%eb%9f%ac-%ed%8f%ad%ed%83%84-%ec%98%88%ec%82%b0-860-%ec%b4%88%ea%b3%bc/",
-  "https://biz.sbs.co.kr/article_hub/20000326755?division=NAVER",
-  "https://www.dt.co.kr/article/12076633",
-  "https://www.yna.co.kr/view/AKR20260805049400008?input=1195m",
   "https://theviewers.co.kr/View.aspx?No=4173811",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627008",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1532750",
@@ -2999,17 +2991,17 @@
   "https://www.ajunews.com/view/20260827160301317",
   "https://www.etoday.co.kr/news/view/2619028",
   "https://www.youthdaily.co.kr/news/article.html?no=225876",
-  "https://www.hidomin.com/news/articleView.html?idxno=718870"
+  "https://www.hidomin.com/news/articleView.html?idxno=718870",
+  "https://www.seoulfn.com/news/articleView.html?idxno=636648",
+  "https://www.newsway.co.kr/news/view?ud=2026082716365632599",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270592&t=NN",
+  "https://biz.sbs.co.kr/article_hub/20000329968?division=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008711896&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/news/2026/world/article/6845813_36925.html",
+  "http://www.inews24.com/view/1999089",
+  "https://www.hani.co.kr/arti/economy/marketing/1274961.html"
  ],
  "seen_titles": [
-  "정부피지컬AI표준화사업,시작부터'삐걱'",
-  "네이버,앤트로픽에간접투자…금액은'비공개'",
-  "네이버,앤트로픽에간접투자…\"투자금액은안밝혀져\"",
-  "오픈AI도“너무똑똑해서위험,차세대모델개발일부중단”…‘AI안...",
-  "구글공동창업자'브린'경영일선복귀…제미나이수익화집중",
-  "[만나봤더니]\"발아하는에이전틱AI…ETF안만드는건직무유기\"",
-  "가짜신분으로악성코드심으려한AI···실패하자은폐시도까지",
-  "메타,AI코딩에이전트베타공개···개발툴시장가격경쟁",
   "성기홍\"李,형소법개정안핵심내용당연히숙지\"",
   "[문송천의디지털산책]엔비디아선물보따리속의은밀한함정",
   "아마존,AI도구쓰다180만달러'폭탄'...예산860%초과",
@@ -6001,7 +5993,15 @@
   "[단독]오픈AI자체칩'할라페뇨'에삼성HBM4탑재된다…빅테크고객...",
   "“어닝서프라이즈는입장료”…엔비디아향한월가눈높이‘천정부지...",
   "엔비디아에웃고,금리인상엔'주춤'…코스피,1.53%상승마감",
-  "엔비디아훈풍에코스피6900선회복…금리인상에7000선은'다음기회..."
+  "엔비디아훈풍에코스피6900선회복…금리인상에7000선은'다음기회...",
+  "과기정통부,모티프이의신청에\"15일내검토\"···점수공개는유보",
+  "'경쟁우위'vs'절치부심'…통신3사,'모두의AI'로2차전",
+  "美보다덜벌어도더남긴다…'매출10배'中AI역습",
+  "'브로드컴,84조원부채조달협의중…엔트로픽수혜'",
+  "[자막뉴스]\"앤트로픽이오히려AI악재됐다\"…단숨에7배넘었지만'함...",
+  "오픈AI성장둔화에앤트로픽약진‥2분기에매출첫역전",
+  "'모두의AI'발표평가종료⋯이르면28일최종사업자공개[현장]",
+  "분기매출133조찍은엔비디아…“AI변곡점도달했다”"
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,13 @@
   [
    "2026-08-27T17:04:14.325833+09:00",
    "고객 자체 탑재된다 삼성 빅테크 HBM4 할라페뇨"
+  ],
+  [
+   "2026-08-27T17:06:14.894132+09:00",
+   "우위 2차전 모두의 통신3사 vs 경쟁 절치부심"
   ]
  ],
- "last_run": "2026-08-27T17:04:42.221691+09:00",
+ "last_run": "2026-08-27T17:06:40.069329+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
