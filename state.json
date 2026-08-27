@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026042409594210862",
-  "https://www.sedaily.com/article/20035823",
-  "https://www.hankyung.com/article/202604216505i",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013171",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=04063926645418088",
-  "https://www.mk.co.kr/article/12021205",
-  "https://www.sedaily.com/article/20034067",
-  "https://biz.sbs.co.kr/article_hub/20000304912?division=NAVER",
-  "https://www.munhwa.com/article/11582593",
   "https://www.etoday.co.kr/news/view/2575991",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=241816",
   "https://www.naeil.com/news/read/585102",
@@ -2999,18 +2990,18 @@
   "https://www.socialvalue.kr/news/view/1065599320982512",
   "https://thetracker.co.kr/View.aspx?No=4202101",
   "https://www.smartbizn.com/news/articleView.html?idxno=152350",
-  "https://m.skyedaily.com/news_view.html?ID=310606"
+  "https://m.skyedaily.com/news_view.html?ID=310606",
+  "http://www.popcornnews.net/news/articleView.html?idxno=130984",
+  "https://zdnet.co.kr/view/?no=20260827161513",
+  "http://www.osen.co.kr/article/G1112864628",
+  "https://www.newsis.com/view/NISX20260827_0003765917",
+  "https://www.edaily.co.kr/News/Read?newsId=04680566645551584&mediaCodeNo=257",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=391423",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=272405",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860152",
+  "https://www.ddaily.co.kr/page/view/2026082717182664568"
  ],
  "seen_titles": [
-  "감정따라움직이는AI…클로드,절망느끼면협박[엔스로픽發AI디스...",
-  "클로드쇼크...‘사스포칼립스’넘어‘화이트칼라대공황’까지[엔스...",
-  "앤스로픽,오픈AI몸값넘나…'기업가치9000억달러'투자유치검토",
-  "구글직원560여명“군사용AI제공중단해야”…피차이에공개서한",
-  "\"아일랜드는'유럽의실리콘밸리'…韓AI기업,EU진출발판될것\"",
-  "직원들피눈물에주주들환호하던메타…8000명해고하니벌어진일",
-  "오픈AI,새모델GPT-5.5출시…앤스로픽은보안논란구설수",
-  "AWS“에이전틱AI로파트너사생산성85%끌어올려”",
-  "AI동맹진화…아마존,앤스로픽에최대250억달러투자",
   "[인터뷰-하정우靑AI미래기획수석(上)]\"AI는국가인프라…GPU26만장에...",
   "‘쫓아낼땐언제고’…美국방부엔스로픽미토스버젓이사용",
   "\"에이전트수요잡아야살아남는다\"",
@@ -6001,7 +5992,16 @@
   "LG유플러스,표준협회'디지털고객경험지수'이동통신부문3년연속1위",
   "KT,‘모두의AI’공개…검색부터금융·쇼핑까지한곳에",
   "엔비디아가다시불붙인AI랠리···코스피6900선탈환,'반도체쏠림...",
-  "엔비디아,AI수요에2분기매출106%↑…내년매출70%성장자신감"
+  "엔비디아,AI수요에2분기매출106%↑…내년매출70%성장자신감",
+  "네이버클라우드·LGCNS,'소버린보안AI'만든다…사이버보안파운데이...",
+  "[ZDSW투데이]2026가비아시큐리티피벗서밋개최外",
+  "‘0.5G차’선두싸움초대형변수발생!1위팀30홈런외인거포경조휴...",
+  "[올댓차이나]中증시,혼조개장후반도체매수로상승마감…창업판...",
+  "\"엔비디아,오픈소스AI플랫폼'허깅페이스'인수합의…18조원베팅\"",
+  "엔비디아훈풍타고7,000육박한코스피…한은'금리인상'에1.5%마감",
+  "엔비디아·TSMC와현지밀착…SK하이닉스,美AI삼각밸류체인가시화",
+  "[마감시황]엔비디아호실적…코스피1.5%상승",
+  "코스피,엔비디아훈풍에1.5%상승…반도체강세에도7000선안착은실..."
  ],
  "recent_sigs": [
   [
@@ -6775,9 +6775,17 @@
   [
    "2026-08-27T17:20:27.898512+09:00",
    "반도체주로 확산 효과 강세 삼전닉스 동반 글로벌"
+  ],
+  [
+   "2026-08-27T17:24:16.908955+09:00",
+   "네이버클라우드 CNS 사이버보안 만든다 소버린 LG 파운데이 보안"
+  ],
+  [
+   "2026-08-27T17:24:16.908955+09:00",
+   "삼각 SK하이닉스 TSMC와 밸류체인 현지 밀착 가시화"
   ]
  ],
- "last_run": "2026-08-27T17:22:30.640954+09:00",
+ "last_run": "2026-08-27T17:24:44.765358+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
