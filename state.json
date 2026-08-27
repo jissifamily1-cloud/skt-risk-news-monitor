@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647723",
-  "http://www.4th.kr/news/articleView.html?idxno=2116959",
   "http://www.weeklytoday.com/news/articleView.html?idxno=791836",
   "https://biz.sbs.co.kr/article_hub/20000331113?division=NAVER",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4432121",
@@ -2999,11 +2997,11 @@
   "https://www.wikitree.co.kr/articles/1154673",
   "https://www.edaily.co.kr/News/Read?newsId=02578086645551912&mediaCodeNo=257",
   "http://www.yonhapnewstv.co.kr/news/MYH20260828075001Fq6",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432308"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432308",
+  "https://www.etoday.co.kr/news/view/2619125",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170592"
  ],
  "seen_titles": [
-  "네이버클라우드·LGCNS,33개산학연과'보안특파모'개발도전",
-  "[전격시사]박용진규제합리화위원회부위원장-“잘되라는것아니라...",
   "[산업소식]호반장학재단,누적장학금200억원돌파",
   "[위클리오늘]이동통신소식_LG유플러스,SK텔레콤,KT(8.27)",
   "李대통령,이재용회장과회동…반도체·대미투자논의했을듯",
@@ -6001,7 +5999,9 @@
   "KBS가잘하는'이장르'꺼내들었다…무려300억제작비투입한초대형...",
   "SKT,SK호라이즌신설로AIDC성장청사진구체화…‘매수’-삼성",
   "[3분증시]뉴욕증시,엔비디아급등에동반상승",
-  "[뉴욕마켓워치]AI논란날려버린엔비디아…주식↑채권↓달러보합"
+  "[뉴욕마켓워치]AI논란날려버린엔비디아…주식↑채권↓달러보합",
+  "KB證“삼성전자,중국AI데이터센터최대수혜주”",
+  "미국증시다우지수'상승'...CRM·엔비디아'치솟고',제약주'뚝'"
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,13 @@
   [
    "2026-08-28T07:54:15.649686+09:00",
    "날려버린 보합 주식 채권 논란 달러"
+  ],
+  [
+   "2026-08-28T07:56:13.986433+09:00",
+   "다우지수 제약주 상승 CRM 치솟고 미국증시"
   ]
  ],
- "last_run": "2026-08-28T07:54:36.460090+09:00",
+ "last_run": "2026-08-28T07:56:38.092359+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
