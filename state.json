@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12080456",
-  "https://www.newspim.com/news/view/20260826001178",
-  "https://www.g-enews.com/view.php?ud=202608261441177630c8c1c064d_1",
-  "https://www.news1.kr/world/international-economy/6270704",
-  "https://www.g-enews.com/view.php?ud=202608261916227280fbbec65dfb_1",
-  "https://www.newspim.com/news/view/20260827000019",
-  "https://www.tokenpost.kr/news/breaking/398440",
   "https://www.news1.kr/world/usa-canada/6270682",
   "https://www.donga.com/news/Economy/article/all/20260826/134551181/2",
   "https://www.yna.co.kr/view/AKR20260827006300071?input=1195m",
@@ -2999,16 +2992,16 @@
   "http://www.thebigdata.co.kr/view.php?ud=2026082717591274450a47484cf8_23",
   "http://www.finomy.com/news/articleView.html?idxno=260180",
   "https://www.aitimes.com/news/articleView.html?idxno=214502",
-  "https://www.joongboo.com/news/articleView.html?idxno=363735043"
+  "https://www.joongboo.com/news/articleView.html?idxno=363735043",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3677028",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94353",
+  "https://www.techm.kr/news/articleView.html?idxno=154698",
+  "https://it.donga.com/109424/",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120888",
+  "https://www.techm.kr/news/articleView.html?idxno=154701",
+  "https://www.mt.co.kr/world/2026/08/27/2026082714503245631"
  ],
  "seen_titles": [
-  "오픈AI자체칩성능,엔비디아GPU뛰어넘었다",
-  "엔비디아실적발표임박…월가매출920억달러전망,AI랠리시험대",
-  "[더페어돋보기]엔비디아실적발표후국내반도체소부장수혜예상...",
-  "반도체야심드러낸오픈AI…엔비디아고객에서경쟁사로[박신영의개장...",
-  "美증시이익,엔비디아·마이크론이3분의1장악...비트코인(BTC)으로...",
-  "‘삼전닉스’오늘운명의날…젠슨황입에달렸다",
-  "[AIMY뉴스]뉴욕반도체주프리뷰...엔비디아실적·PCE앞두고반도체...",
   "\"몸값100조원눈앞\"…딥시크,500억위안규모Pre-IPO투자유치'초...",
   "세일즈포스시간외주가13%폭등…AI매출240%폭증",
   "美성장사모펀드,상반기332억弗조달신기록…대형사쏠림심화",
@@ -6001,7 +5994,14 @@
   "KT,‘모두의AI’청사진공개...\"일상전반에AI서비스접목\"",
   "LG유플러스,DCXI3년연속정상⋯'U+one'AI혁신통했다",
   "엔비디아,오픈소스플랫폼허깅페이스18조에인수...AI생태계수직통...",
-  "[나는국가대표다]KT박영현\"5연패위해죽을각오로공던질것\""
+  "[나는국가대표다]KT박영현\"5연패위해죽을각오로공던질것\"",
+  "김해시,추석맞이농·축산물최대45%할인…온몰서9월특별행사",
+  "'영화오디세이같은몰입감'...삼성전자,1100Hz초고주사율앞세워차...",
+  "SKT,SKB인적분할...AIDC인프라기업'SK호라이즌'신설",
+  "[주간보안동향]보안전용AI모델나온다…SKT·네이버격돌外",
+  "SKT,AI데이터센터인프라전문회사'SK호라이즌'신설",
+  "[글로벌]오픈AI데이터센터총괄퇴사...합류1년5개월만",
+  "美,사실상中겨냥전력망'국가비상사태'선포…중국발해킹도지적"
  ],
  "recent_sigs": [
   [
@@ -6851,9 +6851,17 @@
   [
    "2026-08-27T18:08:14.248956+09:00",
    "박영현 죽을 던질 각오로 ~KT 5연패"
+  ],
+  [
+   "2026-08-27T18:10:22.907946+09:00",
+   "퇴사 총괄 합류 5개월 데이터센터 1년"
+  ],
+  [
+   "2026-08-27T18:10:22.907946+09:00",
+   "전력망 지적 겨냥 중국발 국가비상사태 선포 사실상 해킹도"
   ]
  ],
- "last_run": "2026-08-27T18:08:39.261194+09:00",
+ "last_run": "2026-08-27T18:10:49.693556+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
