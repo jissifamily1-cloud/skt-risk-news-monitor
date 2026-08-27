@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170508",
-  "https://game.donga.com/123989/",
-  "https://www.bntnews.co.kr/article/view/bnt202608270005",
   "http://www.fnnews.com/news/202608210835413891",
   "https://www.sedaily.com/article/20080987",
   "https://www.ytn.co.kr/_ln/0102_202608190734028220",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/it-science/internet-platform/6272022",
   "https://www.khan.co.kr/article/202608272017005",
   "https://www.khan.co.kr/article/202608272020025",
-  "https://www.yna.co.kr/view/AKR20260827190600017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260827190600017?input=1195m",
+  "https://news.mtn.co.kr/news-detail/2026082720102251703",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1400104",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270735&t=NN"
  ],
  "seen_titles": [
-  "어쩌다생존게임이효율을추구하게됐는가[콘텐츠의순간들]",
-  "뉴욕증시,엔비디아실적발표앞서약보합⋯다우0.21%↓[종합]",
-  "엔비디아,AI수요에사상최대실적…중국사업은'변수'",
   "엔비디아실적발표,EPS2.22달러…전망훌쩍넘어",
   "미국증시반도체주...메모리주'활짝',엔비디아는?",
   "[게임스컴2026]데브인리밋정규민대표“아케이드시장으로K-POP체험...",
@@ -6001,7 +5998,10 @@
   "정부,'독파모'2차평가논란에전체점수공개…총점1위SKT",
   "모티프,글로벌AI벤치마크1위하고도독파모탈락‘불복’",
   "엔비디아발훈풍식힌기준금리인상…7000못넘은코스피",
-  "과기정통부,독파모2차평가점수공개…SKT1위"
+  "과기정통부,독파모2차평가점수공개…SKT1위",
+  "독파모2차평가살펴보니…SKT1위·업스테이지2위",
+  "SKT,SK브로드밴드인적분할…AIDC인프라기업'SK호라이즌'설립",
+  "엔비디아칩,中암시장으로?…\"美,밀반출조사중\""
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,13 @@
   [
    "2026-08-27T20:10:24.480218+09:00",
    "상향 300달러대 잇단 목표가 실적"
+  ],
+  [
+   "2026-08-27T20:32:17.761820+09:00",
+   "조사 밀반출 암시장으로"
   ]
  ],
- "last_run": "2026-08-27T20:30:44.811650+09:00",
+ "last_run": "2026-08-27T20:32:35.955865+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
