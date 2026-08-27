@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260827054456711",
-  "https://www.aitimes.com/news/articleView.html?idxno=214145",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52367",
   "https://www.hankyung.com/article/202608201030i",
   "https://www.wikitree.co.kr/articles/1153502",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693880",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/News/Read?newsId=05280806645551584&mediaCodeNo=257",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271855173150667",
   "https://www.dailian.co.kr/news/view/1683427/?sc=Naver",
-  "https://biz.heraldcorp.com/article/10854684"
+  "https://biz.heraldcorp.com/article/10854684",
+  "https://www.hankyung.com/article/2026082779121",
+  "https://www.dailian.co.kr/news/view/1683430/?sc=Naver",
+  "https://www.tokenpost.kr/news/breaking/398961"
  ],
  "seen_titles": [
-  "◇오늘의경기(27일)",
-  "포스코인터내셔널,종이선하증권디지털전환…무역DX본격화",
-  "[서울데이터랩]미국증시혼조마감…다우·나스닥약세,반도체와대...",
   "엔비디아,공급약정2790억달러…AI메모리확보전본격화",
   "베트남김상식호'아세안현대컵'2연패,안방서사상첫동남아타이틀...",
   "[8월20일]데이터센터반발'달래기'에나선빅테크…결국필요한건AI...",
@@ -6001,7 +5998,10 @@
   "엔비디아메모리구입비2.3배확대…삼전닉스가격협상력더세진다",
   "SKT,SKB쪼개AIDC승부수…‘SK호라이즌’에3조외부자본수혈",
   "SKT,SK브로드밴드인적분할…AIDC전문회사‘SK호라이즌’출범",
-  "亞AI인프라허브박차…SKT,AIDC전담‘SK호라이즌’설립"
+  "亞AI인프라허브박차…SKT,AIDC전담‘SK호라이즌’설립",
+  "SK브로드밴드인적분할…데이터센터떼낸다",
+  "LG유플러스,‘U+one’으로고객경험잡았다…DCXI3년연속1위",
+  "샌드박스,브리지해킹피해1대1보상안발표"
  ],
  "recent_sigs": [
   [
@@ -6847,9 +6847,17 @@
   [
    "2026-08-27T19:08:17.443645+09:00",
    "순환금융 못해 자금지원 많이 후회 투자가 젠슨"
+  ],
+  [
+   "2026-08-27T19:46:17.652867+09:00",
+   "떼낸다 분할 데이터센터 인적"
+  ],
+  [
+   "2026-08-27T19:46:17.652867+09:00",
+   "보상안 1대1 샌드박스 발표 브리지 피해"
   ]
  ],
- "last_run": "2026-08-27T19:44:32.179238+09:00",
+ "last_run": "2026-08-27T19:46:38.282033+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
