@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.welfarenews.net/news/articleView.html?idxno=209940",
-  "https://www.ddaily.co.kr/page/view/2026082111251860105",
-  "https://www.news1.kr/it-science/cc-newmedia/6265437",
-  "https://www.ddaily.co.kr/page/view/2026082111184482375",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5213879",
-  "https://www.nocutnews.co.kr/news/6565987",
-  "https://www.kukinews.com/article/view/kuk202608210042",
-  "https://zdnet.co.kr/view/?no=20260821111013",
-  "https://www.newsis.com/view/NISX20260821_0003757310",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336607",
   "https://www.newsis.com/view/NISX20260821_0003757331",
   "https://www.news1.kr/politics/president/6266780",
   "https://www.kbsm.net/news/view.php?idx=531258",
@@ -2999,19 +2989,19 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=636660",
   "https://www.hankyung.com/article/202608277704g",
   "https://www.yna.co.kr/view/AKR20260827175000017?input=1195m",
-  "https://www.hankyung.com/article/2026082776671"
+  "https://www.hankyung.com/article/2026082776671",
+  "https://it.donga.com/109422/",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317064",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191367",
+  "https://www.sedaily.com/article/20084154",
+  "https://www.kizmom.com/news/articleView.html?idxno=112373",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463940",
+  "https://economist.co.kr/article/view/ecn202608270055",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445804",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000006819&cp=nv",
+  "https://www.tokenpost.kr/news/ai/398906"
  ],
  "seen_titles": [
-  "유진그룹청문결국의결보류…김종철회피,국힘추천위원들퇴장",
-  "방미통위,YTN변경승인취소청문무산…위원2명퇴장에표결불발",
-  "[인사]방미통위부위원장에고민수상임위원선출",
-  "초대방미통위부위원장에고민수상임위원선출…“국민권익보호에...",
-  "방미통위,YTN변경승인취소청문두고위원들간이견…논의무산",
-  "방미통위,‘YTN변경승인취소청문’상정보류…위원2명퇴장",
-  "방미통위,장애인복지채널신청받는다'공익·장애인채널선정'착수",
-  "방미통위초대부위원장에고민수…“국민권익보호에최선”",
-  "고민수,방미통위부위원장선출…지상파13개방송국재허가(종합)",
-  "방미통위,YTN변경승인취소청문불발…위원2명심의거부",
   "방미통위출범후첫'회의파행'…'YTN청문추진'놓고이견",
   "YTN승인취소청문무산…국힘추천위원2명퇴장",
   "방미통위부위원장에고민수선출…YTN최대주주청문회는보류",
@@ -6001,7 +5991,17 @@
   "SKT,AIDC전문자회사'SK호라이즌'출범···SKB인적분할",
   "플랜티넷,KT요금제에디지털매거진'모아진'제공",
   "'모두의AI'이르면28일윤곽…SKT·KT·카카오등6파전",
-  "美,미성년자페북·인스타'하루2시간'제한"
+  "美,미성년자페북·인스타'하루2시간'제한",
+  "[AI써봄]챗GPT품은카카오톡,이미지재생성기능어떤모습일까",
+  "삼성전자,게임스컴서2027년형오디세이공개…최대1100Hz지원",
+  "[WIKI현장]볼보코리아,ES90앞세워전기차플래그십확장",
+  "삼성·LG,게임용OLED서中압도한다",
+  "삼성전자또세계최초…1100Hz게이밍모니터'오디세이G6'공개",
+  "교통안전공단,자동차사이버보안강화위해KISA와맞손",
+  "SKT,SK브로드밴드인적분할…AI데이터센터전문‘SK호라이즌’신설",
+  "SK텔레콤,SK브로드밴드인적분할해AI데이터센터인프라전문회사'SK호...",
+  "엔비디아,13분기연속매출신기록…젠슨황“AI황금기맞았다”",
+  "엔비디아장전6%상승,AI주동반강세"
  ],
  "recent_sigs": [
   [
@@ -6811,9 +6811,13 @@
   [
    "2026-08-27T17:44:17.991739+09:00",
    "인스타 페북 2시간 하루 제한 미성년자"
+  ],
+  [
+   "2026-08-27T17:46:16.452483+09:00",
+   "전문회사 AI데이터센터 SK호 인적분할해 ~SKT 인프라"
   ]
  ],
- "last_run": "2026-08-27T17:44:41.723568+09:00",
+ "last_run": "2026-08-27T17:46:37.810170+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
