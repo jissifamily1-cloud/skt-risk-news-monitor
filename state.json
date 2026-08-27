@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260730152155",
-  "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4878485",
-  "https://dealsite.co.kr/articles/166261",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203130",
-  "https://www.busan.com/view/busan/view.php?code=2026073013595694397",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89317",
-  "https://www.dt.co.kr/article/12075673",
   "https://www.klnews.co.kr/news/articleView.html?idxno=322137",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=104847",
   "http://www.datanews.co.kr/news/article.html?no=145823",
@@ -2999,17 +2991,17 @@
   "https://www.ajunews.com/view/20260827154206168",
   "http://www.kdfnews.com/news/articleView.html?idxno=187162",
   "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90747",
-  "https://imnews.imbc.com/replay/2026/nw1700/article/6847821_36981.html"
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6847821_36981.html",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3676940",
+  "https://www.tokenpost.kr/news/ai/398888",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260827171015ufq",
+  "https://www.sisaweek.com/news/articleView.html?idxno=237531",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134935",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406170",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=120884",
+  "https://www.nocutnews.co.kr/news/6569333"
  ],
  "seen_titles": [
-  "[컨콜]삼성SDS,'AI풀스택'실행방안공개…'클라이언트제로'체계구...",
-  "삼성SDS,2분기매출3조7178억원…\"클라우드·물류성장견인\"",
-  "삼성SDS,2031년까지AI인프라800MW이상으로확대",
-  "“AI,해킹명령5317개실행…멕시코정부기관9곳피해”",
-  "삼성SDS,2분기영업익2318억원…클라우드·AI서비스성과확대",
-  "'키미K3'의출사표…시장은절반만읽었다[기고]",
-  "[컨콜]삼성SDS\"AI인프라800MW장기구축…글로벌기업도고객으로확...",
-  "삼성SDS,상반기영업익전년比37.8%감소",
   "삼성SDS,2분기매출3조7178억원…클라우드·물류동반성장",
   "삼성SDS,2분기영업익2318억…클라우드·AI가실적견인",
   "2분기웃은삼성SDS·LGCNS,하반기더달린다",
@@ -6001,7 +5993,15 @@
   "[조성준의스케치]엔비디아GPU사면서자체칩도만든다…빅테크의'투...",
   "[마감시황]코스피,엔비디아훈풍에도1%대상승마감…한은금리인상...",
   "[통신브리핑]SK텔레콤·KT·LG유플러스",
-  "엔비디아호실적·긍정적전망‥뉴욕증시강세전환"
+  "엔비디아호실적·긍정적전망‥뉴욕증시강세전환",
+  "대전신세계전망대'스카이193'새단장…9월말재개장",
+  "딥마인드채용비중18.6%,3년새30.4%p낮아져",
+  "금리인상에상승폭축소…코스피6,900선",
+  "전기넘어'빛'으로…삼성·SK하이닉스의'반도체빛'전쟁",
+  "임시주총앞두고'안건설명자료'충돌한고려아연·MBK·영풍…무슨내...",
+  "SKT-업스테이지,사이버보안특화AI개발'맞손'",
+  "'엔비디아호실적'에3%급등출발...'금리인상'에상승폭줄어1.53%↑",
+  "코스피,엔비디아發순항하다금리인상후'7천선'좌절"
  ],
  "recent_sigs": [
   [
@@ -6781,7 +6781,7 @@
    "전망 강세 긍정적 호실적 뉴욕증시"
   ]
  ],
- "last_run": "2026-08-27T17:10:59.605115+09:00",
+ "last_run": "2026-08-27T17:12:35.743373+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
