@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112864212",
-  "https://zdnet.co.kr/view/?no=20260826173249",
-  "https://www.cnbizm.com/news/articleView.html?idxno=312841",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=60318",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=60321",
   "http://coinreaders.com/254971",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317942",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6847555_37004.html",
@@ -2999,14 +2994,14 @@
   "https://www.hani.co.kr/arti/sports/basketball/1274903.html",
   "https://www.cstimes.com/news/articleView.html?idxno=718290",
   "https://news.mtn.co.kr/news-detail/2026082711190362840",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=601624"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=601624",
+  "https://www.apnews.kr/news/articleView.html?idxno=3050684",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3676604",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696015",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=244978",
+  "http://www.beyondpost.co.kr/view.php?ud=2026082713410357322aaae0046f_30"
  ],
  "seen_titles": [
-  "한소은,여유로운야외셀카로드라마활약이어간일상공개",
-  "완주군자원봉사센터,전북권통합재난모의훈련실시",
-  "박현주\"반도체는미국말고한국에지어야…공급과잉와도치킨게임\"",
-  "\"폴란드가체코영토요구\"허위정보퍼져…러시아공작가능성",
-  "2주째6500~7000갇힌코스피...이번주대내외주요일정'분수령'",
   "제2의'HBM칩'노린다…맥주만든타이어회사,아이스크림출시한자동...",
   "[LCK]한진브리온,미드-원딜터뜨리고플레이-인1R2-1역전",
   "\"랜섬웨어해킹,세계서폭주\"…4월부터매달역대최다경신",
@@ -6001,7 +5996,12 @@
   "이현중합류남자농구대표팀,명예회복할까…FIBA월드컵예선2라운드",
   "고흐'별이빛나는밤'모티브…한화불꽃축제9월5일여의도개최",
   "배경훈부총리\"AI기술3개월마다바뀌는데...독파모평가방식의문\"",
-  "엔비디아피지컬AI확장에로봇주들썩레인보우로보틱스두산로보틱스..."
+  "엔비디아피지컬AI확장에로봇주들썩레인보우로보틱스두산로보틱스...",
+  "SKT,71만원대'갤럭시퀀텀7'출시…AI·IP68에6.9㎜초슬림",
+  "김녕바다서펼치는피트니스도전…제주비치챌린지참가자모집",
+  "러시아,9월1일부터'디지털루블'도입…암호화폐결제제한은그대로",
+  "NICE펫핀,'반려견증명서'오픈…한국애견협회혈통서모바일연동",
+  "아마존웹서비스(AWS),엔비디아와GPU200만개공급계약체결...에이전틱..."
  ],
  "recent_sigs": [
   [
@@ -6711,9 +6711,13 @@
   [
    "2026-08-27T13:48:15.749239+09:00",
    "로봇주 들썩 확장에 두산로보틱스 피지컬 레인보우로보틱스"
+  ],
+  [
+   "2026-08-27T13:50:21.754859+09:00",
+   "아마존웹서비스 공급계약 엔비디아와 체결 200만개 GPU AWS 에이전틱"
   ]
  ],
- "last_run": "2026-08-27T13:48:33.592509+09:00",
+ "last_run": "2026-08-27T13:50:39.416897+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
