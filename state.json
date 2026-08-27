@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/society/2026/08/27/2026082708110599138",
-  "https://www.news1.kr/society/incident-accident/6271119",
-  "http://www.4th.kr/news/articleView.html?idxno=2116955",
-  "https://zdnet.co.kr/view/?no=20260827115905",
-  "http://www.popcornnews.net/news/articleView.html?idxno=130945",
   "https://www.businessplus.kr/news/articleView.html?idxno=115977",
   "https://www.seoultimes.news/news/article.html?no=2000099183",
   "https://www.ngonews.kr/news/articleView.html?idxno=236449",
@@ -2999,14 +2994,14 @@
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608241627516200104287",
   "https://www.ytn.co.kr/_ln/0104_202608280730126081",
   "https://www.yna.co.kr/view/AKR20260828012800009?input=1195m",
-  "https://www.greened.kr/news/articleView.html?idxno=348645"
+  "https://www.greened.kr/news/articleView.html?idxno=348645",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=31096",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005910070",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362339",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481328",
+  "http://tbs.seoul.kr/news/newsView.do?typ_800=1&idx_800=3538122&seq_800=20531014"
  ],
  "seen_titles": [
-  "경찰청치안감삼성물산행'불허'…퇴직공직자취업20건제동",
-  "Nvidia、韓国AI半導体スタートアップRebellionsと接触",
-  "갈수록교묘해지는사이버범죄…전세계전문가서울에모인다",
-  "국제사이버범죄전문가한자리에…경찰청국제심포지엄",
-  "박현주\"디지털엑스,디지털자산150조원으로키운다\"",
   "HD건설기계임직원개인정보9503건유출사고…7350만원과징금'철퇴'",
   "통신3사,사업접점넓힌다…SKT보안AI·KT중소벤처동남아진출·LGU...",
   "LG유플러스,DCXI이동통신3년연속1위…AI로디지털고객경험고도화",
@@ -6001,7 +5996,12 @@
   "[더벨]'미들웨어솔루션'인텔렉투스,40억프리A투자유치",
   "\"트럼프,반도체고율관세검토\"...SK하이닉스\"2029년미국산HBM생산...",
   "중국AI구동최적화한엔비디아…\"미규제리스크\"인정",
-  "이재명대통령,이재용·최태원회장잇단회동에국민의힘\"주52시간..."
+  "이재명대통령,이재용·최태원회장잇단회동에국민의힘\"주52시간...",
+  "임병택시흥시장,시화산단기업AI전환문턱낮춘다…280억제조AX실증...",
+  "증시오늘'핫이슈'…\"트럼프가이뤄낸K-변압기'부활',삼전·닉스함...",
+  "기술주랠리에뉴욕증시상승…나스닥1.6%↑",
+  "병원·정수장까지노린다…빅테크120곳,AI해킹공동대응나서",
+  "뉴욕증시,엔비디아호실적에환호…나스닥1.57％↑"
  ],
  "recent_sigs": [
   [
@@ -6313,7 +6313,7 @@
    "인정 리스크 규제 최적화한 중국 구동"
   ]
  ],
- "last_run": "2026-08-28T07:34:35.691472+09:00",
+ "last_run": "2026-08-28T07:36:33.055756+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
