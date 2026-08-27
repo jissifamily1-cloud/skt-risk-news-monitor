@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85029",
-  "https://www.yna.co.kr/view/AKR20260826042251008?input=1195m",
-  "https://www.dailian.co.kr/news/view/1682739/?sc=Naver",
-  "https://www.tvreport.co.kr/entertainment/article/1071342/",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3675488",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3675492",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=225179",
-  "https://www.aitimes.com/news/articleView.html?idxno=214384",
   "https://www.news1.kr/world/usa-canada/6270240",
   "https://www.hankookilbo.com/news/article/A2026082614520002100?did=NA",
   "https://www.esgeconomy.com/news/articleView.html?idxno=16511",
@@ -2999,17 +2991,17 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270345&t=NN",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391358",
   "https://biz.chosun.com/international/international_general/2026/08/27/U7S5P6FU6BF3LMTWMEYSUTAPQY/",
-  "https://www.hankyung.com/article/2026082631621"
+  "https://www.hankyung.com/article/2026082631621",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445642",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=47287",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3676272",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=316952",
+  "https://biz.chosun.com/it-science/ict/2026/08/26/QMR2TAQA5ZGE7OR3BIVJH4P6H4/",
+  "https://www.mt.co.kr/tech/2026/08/27/2026082709442634411",
+  "https://www.mk.co.kr/article/12137516",
+  "https://www.fnnews.com/news/202608271012109790"
  ],
  "seen_titles": [
-  "바이오헬스창업기업-투자자한자리에…진흥원,'케이-빅스타데이'개...",
-  "지상넘어우주로…우주데이터센터뜨는이유는",
-  "삼성전자·SK하이닉스자사주매입에코스피6800선회복[마감시황]",
-  "SKT,AI전력분석부터현장응원까지…'TeamSKT'아시안게임지원",
-  "[특징주]재건주,러통신사'미·이란휴전합의'보도에상승(종합)",
-  "'엔비디아실적발표실시간한글로'…신한증권,'어닝콜라이브'서비스",
-  "이런모습은처음…황재균,이혼후장발·18kg감량하더니→압박스타...",
-  "전북·강원·제주·세종,특별자치시도협의회개최…\"권한이양·...",
   "경남고성군·군의회,통영·거제호우피해에2,400만원고향사랑기부",
   "세계증시대체로상승…뉴욕3대지수동반강세,나스닥0.66%↑",
   "LGCNS,삼송데이터센터에'액체냉각'인프라도입",
@@ -6001,7 +5993,15 @@
   "\"성능1위인데탈락\"…모티프,독파모평가에이의제기",
   "[테오도르의시장분석]엔비디아호실적에2%대상승출발(8월27일)",
   "美법무부·연준·상원까지노렸다…中연계해킹조직공격에한국기...",
-  "LG유플러스,AI로심플해진'U+one',생활형플랫폼으로진화"
+  "LG유플러스,AI로심플해진'U+one',생활형플랫폼으로진화",
+  "SK텔레콤정부'보안특화AI모델'개발사업출사표,정재헌SK쉴더스·안...",
+  "SGA솔루션즈·시큐어포인트,CSP총판계약…AI인프라보안공략",
+  "논산시,민선9기공약이행평가단출범…시민의눈높이에서공약이행...",
+  "\"AI가반도체·전력까지집어삼킨다\"…'AI블랙홀'현실화",
+  "일론머스크CEO“그록,시장서뒤처져…앤트로픽이AI선두”",
+  "KT,중소벤처12개사와태국행…동남아AX시장진출지원",
+  "美WSJ,기고문에AI활용한억만장자투자자옹호…“AI는현대생활의...",
+  "엔비디아실적에'7천피'가나싶었는데…6880선으로'주춤'[fn오전시황..."
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,17 @@
   [
    "2026-08-27T10:14:15.003226+09:00",
    "심플해진 one ~LGU LG유플러스 생활형 진화 AI로 플랫폼으로"
+  ],
+  [
+   "2026-08-27T10:16:15.235673+09:00",
+   "생활의 기고문에 현대 억만장자 투자자 활용한 WSJ 옹호 AI는"
+  ],
+  [
+   "2026-08-27T10:16:15.235673+09:00",
+   "주춤 실적에 싶었는데 7천피 가나 6880선으로 fn오전시황"
   ]
  ],
- "last_run": "2026-08-27T10:14:32.291516+09:00",
+ "last_run": "2026-08-27T10:16:34.499322+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
