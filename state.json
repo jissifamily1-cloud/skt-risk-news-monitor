@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/world/2026/08/27/2026082705284365605",
-  "https://www.fnnews.com/news/202608270525434357",
-  "https://www.news1.kr/world/international-economy/6270705",
-  "https://www.ddaily.co.kr/page/view/2026082705295243442",
-  "https://www.yna.co.kr/view/AKR20260827007400091?input=1195m",
-  "https://www.newspim.com/news/view/20260827000032",
-  "https://www.yna.co.kr/view/AKR20260827006800072?input=1195m",
-  "https://www.newspim.com/news/view/20260827000030",
-  "https://www.edaily.co.kr/News/Read?newsId=01794166645551584&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4431987",
-  "https://www.newsis.com/view/NISX20260827_0003764329",
   "https://www.fnnews.com/news/202608270501120716",
   "https://www.news1.kr/world/international-economy/6270700",
   "https://www.donga.com/news/Economy/article/all/20260827/134552249/2",
@@ -2999,20 +2988,20 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=272357",
   "https://www.mk.co.kr/article/12138144",
   "https://www.ajunews.com/view/20260827143807907",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271122585760559"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271122585760559",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860172",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3677024",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
+  "https://www.mt.co.kr/world/2026/08/27/2026082710145189523",
+  "https://www.mk.co.kr/article/12138146",
+  "https://www.mk.co.kr/article/12138145",
+  "https://www.newscj.com/news/articleView.html?idxno=3428288",
+  "https://www.businessplus.kr/news/articleView.html?idxno=116044",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406178",
+  "https://www.econovill.com/news/articleView.html?idxno=749132",
+  "https://www.mt.co.kr/world/2026/08/27/2026082713383715947"
  ],
  "seen_titles": [
-  "[뉴욕증시]엔비디아실적앞두고방향성자제…약보합마감",
-  "엔비디아,2분기매출962억달러…전년比106%급증",
-  "엔비디아,분기매출962억달러'신기록'…주당순이익2.22달러",
-  "\"엔비디아실적기다린다\"일단관망…나스닥0.08%↓",
-  "엔비디아실적발표앞두고뉴욕증시약보합…나스닥0.08%↓",
-  "엔비디아,2분기매출962억달러'어닝서프라이즈'…AI칩수요건재...",
-  "엔비디아실적,시장예상상회…시간외주가는1.7%하락",
-  "[뉴욕증시]엔비디아실적발표앞두고하락…팔란티어,2.9%상승",
-  "엔비디아,매출2배폭증·예상상회에도시간외주가1%대하락",
-  "뉴욕증시,엔비디아실적대기속보합마감…국제유가3거래일하락",
-  "[속보]엔비디아,분기매출전망'시장전망상회'",
   "뉴욕증시,엔비디아실적앞두고약보합마감…나스닥0.08%↓",
   "뉴욕증시,물가지표예상상회에관망…엔비디아실적대기",
   "[속보]엔비디아실적앞두고뉴욕증시하락",
@@ -6001,7 +5990,18 @@
   "KT,태국서'글로벌영토'넓힌다…협력사12곳동남아진출지원",
   "젠슨황\"AI수요가속화…엔비디아내년매출70%늘것\"",
   "피크아웃우려지운엔비디아,삼성·SK하닉'HBM르네상스'지속기대",
-  "젠슨황“AI변곡점도달”…엔비디아발HBM4수요,삼성·SK정조준"
+  "젠슨황“AI변곡점도달”…엔비디아발HBM4수요,삼성·SK정조준",
+  "이숭용SSG감독\"아빌라,선발로모든걸갖춰\"",
+  "김해대성동고분박물관,9월입체퍼즐교육실시",
+  "[기업家]엔비디아⑤ㅣ기술·인프라·중국시장까지…AI생태계'광폭...",
+  "美전력난이흔드는삼전닉스주가?…병목이된'전력인프라'",
+  "삼전닉스에'훈풍'반도체소부장'들썩'",
+  "맞춤형HBM시장주도권에도'힘'메모리대역폭30%높인NVHBM",
+  "빌게이츠\"AI,평등도구될수도격차낳을수도\"",
+  "[비즈+]SKT,SKB데이터센터사업떼어낸다…'SK호라이즌'에3조800억원...",
+  "SKT,AI데이터센터전문기업'SK호라이즌'출범…3조투자유치",
+  "SKT가쪼개기에몰두하는이유는?\"AI데이터센터\"",
+  "AI고점론잠재운엔비디아,\"칩수요가속화\"…랠리시동거나[오미주]"
  ],
  "recent_sigs": [
   [
@@ -6839,9 +6839,17 @@
   [
    "2026-08-27T18:02:14.334600+09:00",
    "공개 맞춤형으로 신기술 HBM도"
+  ],
+  [
+   "2026-08-27T18:06:15.481947+09:00",
+   "SKT가 쪼개기에 이유는 데이터센터 몰두하는 ~SKT"
+  ],
+  [
+   "2026-08-27T18:06:15.481947+09:00",
+   "수요 잠재운 고점론 랠리 시동거나 가속화"
   ]
  ],
- "last_run": "2026-08-27T18:04:31.703516+09:00",
+ "last_run": "2026-08-27T18:06:36.621779+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
