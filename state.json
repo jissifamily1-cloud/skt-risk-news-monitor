@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/mobile/6259820",
-  "https://www.yna.co.kr/view/AKR20260814152600017?input=1195m",
-  "https://www.sentv.co.kr/article/view/sentv202608140087",
-  "https://www.bloter.net/news/articleView.html?idxno=671028",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705653&plink=ORI&cooper=NAVER",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11171",
-  "https://www.etnews.com/20260813000291",
-  "https://idsn.co.kr/news/view/1065577341053195",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2458971",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=04149206645546992",
   "https://www.newsis.com/view/NISX20260812_0003746806",
@@ -2999,17 +2991,17 @@
   "https://www.ikbc.co.kr/article/view/kbc202608270050",
   "https://economist.co.kr/article/view/ecn202608270037",
   "https://www.seoulfn.com/news/articleView.html?idxno=636625",
-  "https://www.fnnews.com/news/202608271317587061"
+  "https://www.fnnews.com/news/202608271317587061",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=105677",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647830",
+  "http://www.jeollailbo.com/news/articleView.html?idxno=809350",
+  "https://news.mtn.co.kr/news-detail/2026082714183613396",
+  "https://www.gameshot.net/common/con_view.php?code=GA6a8fcbd5bc8d0",
+  "http://www.iminju.net/news/articleView.html?idxno=168667",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432211",
+  "https://www.hankyung.com/article/2026082771506"
  ],
  "seen_titles": [
-  "싼요금만으론못잡는다…알뜰폰업계,특화상품경쟁",
-  "시민단체\"보안사고겪은이통사,공공사업재검토해야\"",
-  "[코스피·코스닥,삼성전자SK하이닉스㈜코오롱롯데카드현대해상이랜...",
-  "코스피·코스닥전거래일(14일)주요공시는...삼성전자,반도체호황에...",
-  "\"명의도용vs명의대여\"…신분증맡긴고객·이통사법정공방전",
-  "갤Z8사전판매70%가'폴드8'…삼성,추가생산·공급속도",
-  "'수요폭증'에갤Z폴드8배송서두른다…삼성전자,물량공급박차",
-  "이통사CEO상반기보수공개…정재헌17억·홍범식18억",
   "KT,2년만에MVNO1위…현대차차량관제수주효과",
   "라온시큐어,인비즈넷빠져매출감소…보안·인증은9%성장",
   "정부,불법스팸차단고삐…무효번호·해외발문자막는다",
@@ -6001,7 +5993,15 @@
   "\"엔비디아,AI모델공유플랫폼허깅페이스18조원에인수합의\"",
   "AI거품론과지속성우려잠재운젠슨황의진단\"내년성장속도2배빨...",
   "엔비디아\"원가부담↑\"···삼성·SK,공급부족장기화에호실적기...",
-  "시진핑방미앞두고…美정부\"中해킹작전적발·차단\""
+  "시진핑방미앞두고…美정부\"中해킹작전적발·차단\"",
+  "한화,여의도에'별이빛나는밤'펼친다...서울세계불꽃축제내달5일...",
+  "북,한미무기거래·인권사업에반발…“적대적관행지속”",
+  "전북TP,전북·광주·전남기업교류확대…'오픈이노베이션밋업'진행",
+  "“AI경쟁력핵심은데이터인데”…투자도선순환도없다",
+  "컴투스신작‘제우스:오만의신’양대마켓매출1위",
+  "금리인상에상승폭줄인코스피…1.53%오른6912.37마감",
+  "삼성전자,엔비디아'큐리쏘'로노광연산성능20배달성",
+  "\"땡큐,엔비디아\"…코스피,'백투백'금리인상에도1%대상승"
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,17 @@
   [
    "2026-08-27T15:44:16.623470+09:00",
    "적발 해킹작전 정부 방미 앞두고 시진핑 차단"
+  ],
+  [
+   "2026-08-27T15:46:14.823120+09:00",
+   "코스피 상승 땡큐 금리인상에도 백투백"
+  ],
+  [
+   "2026-08-27T15:46:14.823120+09:00",
+   "노광 큐리쏘 삼성전자 20배 달성 연산 성능"
   ]
  ],
- "last_run": "2026-08-27T15:44:40.426141+09:00",
+ "last_run": "2026-08-27T15:46:41.296071+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
