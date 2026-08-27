@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202608181624117328",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260818010005857",
-  "https://www.news1.kr/world/usa-canada/6261987",
-  "https://www.econovill.com/news/articleView.html?idxno=748259",
-  "https://www.newspim.com/news/view/20260818001071",
-  "https://www.wikitree.co.kr/articles/1153228",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693629",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=693564",
   "https://www.news1.kr/life-culture/book/6261152",
   "https://www.labortoday.co.kr/news/articleView.html?idxno=236275",
@@ -2999,16 +2992,16 @@
   "http://www.newsprime.co.kr/news/article.html?no=745463",
   "https://www.yna.co.kr/view/AKR20260827142951008?input=1195m",
   "https://www.mt.co.kr/politics/2026/08/27/2026082715134861142",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=317949"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317949",
+  "https://www.ceoscoredaily.com/page/view/2026082716204081088",
+  "https://www.joongangenews.com/news/articleView.html?idxno=543417",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317045",
+  "http://journal.kobeta.com/?post_type=post&p=63660",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=85094",
+  "https://www.mk.co.kr/article/12137859",
+  "https://www.newspim.com/news/view/20260827001098"
  ],
  "seen_titles": [
-  "\"챗GPT보다클로드\"…앤트로픽,오픈AI매출첫추월,AI판도변화",
-  "오픈AI,앤스로픽에매출첫추월당해…적자확대",
-  "앤스로픽매출2배뛰는동안오픈AI는18%증가에그쳐",
-  "글로벌AI생태계를향한담대한비전,'샌프란AI선언'[지식용어]",
-  "오픈AI,13~17세용챗GPT틴즈출시…자살·성적대화원천차단한다",
-  "엔비디아,오픈AI데이터센터에150조원보증...\"핵심인프라\"",
-  "美SMR급락에공매도3조원'잭팟'...AI전력株거품꺼지나",
   "엔비디아,오픈AI데이터센터에150조원보증…젠슨황,순환금융의혹...",
   "AI전력株거품꺼지나…美SMR급락에공매도3조원'잭팟'",
   "[공공클라우드블로킹전쟁⑤]샌프란시스코AI선언이위험하다",
@@ -6001,29 +5994,16 @@
   "코스피,엔비디아發반도체훈풍에'6900선안착'…코스닥1.30%↑",
   "코스피,엔비디아호실적에1%대상승…금리인상에상승폭축소(종합)",
   "노타이·이어셋마이크…김민석,PPT화면엔\"민생민생민생\"[현장+]",
-  "오세훈,'고사위기'TBS정상화에\"공정성공론화\"조건제시"
+  "오세훈,'고사위기'TBS정상화에\"공정성공론화\"조건제시",
+  "정부·통신3사,AI통신인프라투자확대…연내규제·세제개선안마...",
+  "[마감시황]'한은금리인상'악재에도코스피6900선회복",
+  "코스피,1%대상승마감…기준금리인상에상승폭축소",
+  "독파모5개팀AI학습데이터개방…1.56조토큰공개",
+  "KT,'모두의AI'로6000만생활접점공략…국산AI생태계확산",
+  "‘엔비디아vs금리인상’줄다리기…코스피,1.53%상승한6912.37마감",
+  "[중국증시마감]엔비디아로재점화된AI랠리…'반도체·PCB'폭발"
  ],
  "recent_sigs": [
-  [
-   "2026-08-27T10:22:16.657117+09:00",
-   "기술력 네이버클라우드 LG 풀스택 도전 독자보안 CNS 승부수"
-  ],
-  [
-   "2026-08-27T10:22:16.657117+09:00",
-   "바꿨다 우려 4대 주력 가이던스 문법도 진화에"
-  ],
-  [
-   "2026-08-27T10:24:14.115689+09:00",
-   "Upstage to develop join ~SKT and secure hands"
-  ],
-  [
-   "2026-08-27T10:24:14.115689+09:00",
-   "이문세 높은 배철수 손석희 읽는다 라디오로 문화의 만나 다시"
-  ],
-  [
-   "2026-08-27T10:24:14.115689+09:00",
-   "삼전닉스 돌린 깜짝실적에 한숨"
-  ],
   [
    "2026-08-27T10:26:16.030172+09:00",
    "자소서부터 하반기 내가 채용 쓰던 아니야 대기업 알던 공채가"
@@ -6719,9 +6699,13 @@
   [
    "2026-08-27T16:22:13.976097+09:00",
    "정상화에 TBS 위기 오세훈 제시 조건 고사 공정성 공론화"
+  ],
+  [
+   "2026-08-27T16:24:19.078986+09:00",
+   "폭발 랠리 반도체 엔비디아로 재점화된 PCB"
   ]
  ],
- "last_run": "2026-08-27T16:22:37.817159+09:00",
+ "last_run": "2026-08-27T16:24:37.269422+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
