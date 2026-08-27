@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/world/usa-canada/6270682",
-  "https://www.donga.com/news/Economy/article/all/20260826/134551181/2",
-  "https://www.yna.co.kr/view/AKR20260827006300071?input=1195m",
-  "https://www.newspim.com/news/view/20260826001209",
-  "https://www.newsis.com/view/NISX20260826_0003764084",
-  "https://www.dailian.co.kr/news/view/1682860/?sc=Naver",
-  "https://www.donga.com/news/Politics/article/all/20260827/134552744/2",
   "https://www.geconomy.co.kr/news/article.html?no=323105",
   "https://www.chosun.com/opinion/editorial/2026/08/27/QW3EXHKKIFAEJPDP2CMEWRUQPA/",
   "https://www.mk.co.kr/article/12137265",
@@ -2999,16 +2992,16 @@
   "https://it.donga.com/109424/",
   "https://www.delighti.co.kr/news/articleView.html?idxno=120888",
   "https://www.techm.kr/news/articleView.html?idxno=154701",
-  "https://www.mt.co.kr/world/2026/08/27/2026082714503245631"
+  "https://www.mt.co.kr/world/2026/08/27/2026082714503245631",
+  "https://www.ddaily.co.kr/page/view/2026082717584242463",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=120854",
+  "https://thetracker.co.kr/View.aspx?No=4202156",
+  "https://www.hankookilbo.com/news/article/A2026082714020003242?did=NA",
+  "https://www.betanews.net/article/view/beta202608270065",
+  "https://www.fnnews.com/news/202608271808500181",
+  "https://futurechosun.com/?p=158887"
  ],
  "seen_titles": [
-  "\"몸값100조원눈앞\"…딥시크,500억위안규모Pre-IPO투자유치'초...",
-  "세일즈포스시간외주가13%폭등…AI매출240%폭증",
-  "美성장사모펀드,상반기332억弗조달신기록…대형사쏠림심화",
-  "빌게이츠\"AI위험,기후변화보다시급…기술업계가위험축소\"",
-  "450억달러AI인프라계약보도",
-  "빌게이츠\"AI국제기구만들자\"…시진핑과11월회동추진",
-  "뤼튼,기업가치1조돌파…2년새5번째‘AI유니콘’",
   "시진핑방미앞두고…美정부\"中전방위해킹작전적발·차단\"",
   "美법무부·FBI,中해킹플랫폼차단…\"연준·나사·상원뚫렸다\"",
   "[오늘의주요일정]과기정통부·방미통위·개보위(8월27일목요일)",
@@ -6001,13 +5994,16 @@
   "[주간보안동향]보안전용AI모델나온다…SKT·네이버격돌外",
   "SKT,AI데이터센터인프라전문회사'SK호라이즌'신설",
   "[글로벌]오픈AI데이터센터총괄퇴사...합류1년5개월만",
-  "美,사실상中겨냥전력망'국가비상사태'선포…중국발해킹도지적"
+  "美,사실상中겨냥전력망'국가비상사태'선포…중국발해킹도지적",
+  "SKT,SKB인적분할…AIDC전담'SK호라이즌'3조원유치",
+  "SKT,AIDC전문기업'SK호라이즌'출범",
+  "SKT,AIDC전문기업‘SK호라이즌’설립...3조투자유치",
+  "모티프\"벤치마크1위인데최하위\"…독파모평가이의제기",
+  "KT엠모바일eSIM로밍'mobi',ICT어워드코리아최고상수상",
+  "AI붐식지않았다…엔비디아,또사상최대실적",
+  "[더나은미래경제브리핑]한국은행,기준금리3%로인상...엔비디아13분..."
  ],
  "recent_sigs": [
-  [
-   "2026-08-27T12:10:24.484432+09:00",
-   "생산성 만들어내 수익 젠슨황 정면돌파 AI가 피크아웃론"
-  ],
   [
    "2026-08-27T12:14:18.703825+09:00",
    "개인정보 관리부실로 9503명 HD건설기계 임직원 키웠다 위험"
@@ -6859,9 +6855,17 @@
   [
    "2026-08-27T18:10:22.907946+09:00",
    "전력망 지적 겨냥 중국발 국가비상사태 선포 사실상 해킹도"
+  ],
+  [
+   "2026-08-27T18:12:16.099944+09:00",
+   "기준금리 한국은행 인상 13분"
+  ],
+  [
+   "2026-08-27T18:12:16.099944+09:00",
+   "않았다 식지 실적 사상"
   ]
  ],
- "last_run": "2026-08-27T18:10:49.693556+09:00",
+ "last_run": "2026-08-27T18:12:36.604662+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
