@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=316350",
-  "https://zdnet.co.kr/view/?no=20260826171655",
-  "https://www.thepublic.kr/news/articleView.html?idxno=316357",
-  "https://www.aitimes.com/news/articleView.html?idxno=214382",
-  "https://www.busan.com/view/busan/view.php?code=2026082617494619094",
-  "https://www.mydaily.co.kr/page/view/2026082617514668454",
-  "https://www.mk.co.kr/article/12137012",
-  "https://www.hankyung.com/article/2026082648351",
-  "https://www.sedaily.com/article/20083677",
-  "https://www.thepublic.kr/news/articleView.html?idxno=316328",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480831",
   "https://www.todayeconomic.com/news/article.html?no=31879",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=859783",
   "https://www.newsway.co.kr/news/view?ud=2026082617331967901",
@@ -2999,20 +2988,20 @@
   "https://www.fnnews.com/news/202608271020432977",
   "https://www.mt.co.kr/future/2026/08/27/2026082709195099803",
   "https://www.newsis.com/view/NISX20260827_0003764870",
-  "https://zdnet.co.kr/view/?no=20260827120031"
+  "https://zdnet.co.kr/view/?no=20260827120031",
+  "https://www.etnews.com/20260827000179",
+  "https://www.sentv.co.kr/article/view/sentv202608270042",
+  "http://www.newsmp.com/news/articleView.html?idxno=257733",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93350",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6597",
+  "http://www.newstomato.com/ReadNews.aspx?no=1311613&inflow=N",
+  "https://www.etoday.co.kr/news/view/2618771",
+  "https://kpenews.com/View.aspx?No=4201352",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110845",
+  "https://www.viva100.com/article/20260827500313",
+  "https://www.yna.co.kr/view/AKR20260827024400004?input=1195m"
  ],
  "seen_titles": [
-  "‘보안특파모’네이버클라우드·LGvsSKT·업스테이지경쟁…쟁점은...",
-  "주엽고최예인,창원시장배전국사격대회'정상'",
-  "'부상회복'곽도규,한달만에복귀…KIA불펜운용숨통",
-  "HD현대,필리핀수빅몸집키운다…대규모채용이어생산확대",
-  "글루시스,스토리지운영체제'플렉사'TTAGDS성능시험완료",
-  "유가3%급락·미국채금리하락…뉴욕증시일제히반등",
-  "신한투자증권,美기업실적발표AI통역서비스출시...슈퍼SOL서'어닝...",
-  "\"1시간걸리던펜싱전력분석10분만에\"…SKTAI가돕는다",
-  "SK텔레콤,아이치·나고야아시안게임앞두고'TeamSKT'출정식",
-  "퍼플렉시티,엔비디아협력으로로컬에이전트'포터블컴퓨터'공개",
-  "벤츠S클래스신차급으로재탄생,차량절반이상변화",
   "'선발제외됐다'박준순대신오명진2루수로…김원형두산감독\"휴식...",
   "“몇번째쪼개기냐?국민연금표심잡자”…160만주주·3천노조‘분노...",
   "너도나도AI쓰더니…130%급등한'이회사'1조3000억잭팟",
@@ -6001,7 +5990,18 @@
   "경찰청,국제사이버범죄대응심포지엄개최...FBI·오픈AI등한자리에",
   "피지컬AI디든로보틱스,'2026포브스아시아주목할100대기업'선정",
   "경찰청,오픈AI·FBI와사이버범죄대응논의…국제심포지엄개최",
-  "개보위,금융220곳사전실태점검...\"불필요한주민번호처리관행개선..."
+  "개보위,금융220곳사전실태점검...\"불필요한주민번호처리관행개선...",
+  "KISTI,연구자AI·클라우드활용지원'NDeX클라우드전용네트워크서...",
+  "“AI검색·셀프서비스강화”…LGU+,디지털고객경험지수3년연속1위",
+  "대웅제약디지털혈당관리솔루션,공공영역으로확장",
+  "한화,여의도'서울세계불꽃축제'9월5일개최",
+  "[줌인]\"쿠팡은미니세종시?\"...공정위를바라보는또다른시각",
+  "엔비디아분기매출133조…13분기연속경신에K반도체도‘순풍’",
+  "LG유플러스,통합앱AI로심플화…디지털고객경험지수3년연속1위",
+  "AI로심플해진U+one..LG유플러스,DCXI3년연속1위",
+  "요금조회부터AI해결사까지…LG유플러스,디지털고객경험평가3년...",
+  "LG유플러스,DCXI3년연속수상⋯“U+one중심AI기반고객경험혁신...",
+  "경찰청,국제사이버범죄대응심포지엄…FBI·오픈AI등참석"
  ],
  "recent_sigs": [
   [
@@ -6813,7 +6813,7 @@
    "개선 실태점검 처리 관행 220곳 사전 불필요한 금융 주민번호"
   ]
  ],
- "last_run": "2026-08-27T12:02:42.085521+09:00",
+ "last_run": "2026-08-27T12:04:34.865263+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
