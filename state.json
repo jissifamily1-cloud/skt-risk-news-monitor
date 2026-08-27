@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/bank/6258642",
-  "https://www.ajunews.com/view/20260814135845224",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2294558",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051348",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=03060246645547320",
-  "https://www.news1.kr/economy/trend/6258619",
-  "https://www.newsis.com/view/NISX20260813_0003748432",
-  "https://www.chosun.com/politics/politics_general/2026/08/14/XX54S2LQCZGKFBTB4HNWC53YUU/",
-  "https://www.goodmorningcc.com/news/articleView.html?idxno=450647",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260814010004793",
   "https://www.news1.kr/economy/trend/6258033",
   "https://www.aitimes.com/news/articleView.html?idxno=214425",
   "https://www.mt.co.kr/tech/2026/08/27/2026082619562036077",
@@ -2999,19 +2989,19 @@
   "https://www.hankyung.com/article/2026082777431",
   "https://www.econovill.com/news/articleView.html?idxno=749131",
   "https://www.ceoscoredaily.com/page/view/2026082717375611636",
-  "https://www.tokenpost.kr/news/breaking/398909"
+  "https://www.tokenpost.kr/news/breaking/398909",
+  "https://www.ceoscoredaily.com/page/view/2026082716344529738",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260827010009503",
+  "https://www.news2day.co.kr/article/20260827500151",
+  "https://www.aitimes.com/news/articleView.html?idxno=214458",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008724639&plink=ORI&cooper=NAVER",
+  "https://www.asiatime.co.kr/article/20260827500377",
+  "https://www.newstree.kr/newsView/ntr202608270030",
+  "https://www.sedaily.com/article/20084174",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311397",
+  "https://www.mk.co.kr/article/12138109"
  ],
  "seen_titles": [
-  "서강대개인정보18만건유출…70학번박근혜前대통령도포함",
-  "박근혜도털린서강대개인정보해킹사건…경찰,입건전조사",
-  "기자개인정보도탈탈털렸다…대학·기업등전방위유출에'불안'",
-  "'금융위·개보위'때늦은세종이전설…행정수도남은퍼즐은",
-  "\"워싱턴온마을이쿠팡챙긴다\"…美서확인한심상찮은'쿠팡압박'",
-  "금융당국세종이전임박…산은·기은본점이전은법개정관건",
-  "대법원,가족관계증명서'스크래핑'차단일단유예…은행권급한불껐...",
-  "추석노린불법스팸막는다…정부·통신3사대응점검",
-  "금융위·금감원세종行무게…2차공공기관이르면이달말확정",
-  "금융위·금감원세종행가닥…금융노조,내달총파업",
   "“공공개인정보보호대수술”…전담인력수십명확충,예방중심으로...",
   "금융위·개보위세종행속도…국책은행이전엔'법개정·노조반발'변수",
   "[오늘의주요일정]과기정통부·방미통위·개보위(8월14일금요일)",
@@ -6001,7 +5991,17 @@
   "SKT,AI데이터센터전담'호라이즌'설립",
   "SK브로드밴드분할된다\"AI데이터센터역량강화\"",
   "SK,상반기110개종속사정리…“태양광등비핵심사업대거손절”",
-  "엔비디아장전7%대상승,기술주동반강세"
+  "엔비디아장전7%대상승,기술주동반강세",
+  "“단골묶고맛집선점한다”…배달앱,‘리뷰·맛집큐레이션’경쟁...",
+  "[이영환의AI에이전틱이코노미⑳]거대AI하나보다,작은여럿이나은...",
+  "[현장:2026인크루트채용설명회①]\"대기업채용문다시열렸다\"…삼...",
+  "알리바바,'큐원3.8플래시넥스트'공개...\"큐원4아키텍처미리보기...",
+  "[권영인의문제적유럽]\"AI가스스로공격\"금기깬러시아…DMZ도위험...",
+  "SKT,SK브로드밴드인적분할…AI데이터센터전문회사‘SK호라이즌’출...",
+  "SKT,AI데이터센터인프라전문'SK호라이즌'출범",
+  "젠슨황“엔비디아내년70%성장…메모리병목없었다면2배가능”",
+  "분기최고기록깬엔비디아가'장기매출가이던스'공개한까닭",
+  "시진핑방미한달앞두고美\"中대대적해킹적발\""
  ],
  "recent_sigs": [
   [
@@ -6827,9 +6827,13 @@
   [
    "2026-08-27T17:56:16.917289+09:00",
    "분할된다 데이터센터 강화 역량"
+  ],
+  [
+   "2026-08-27T17:58:15.362537+09:00",
+   "까닭 장기 분기 기록 가이던스 공개한 매출 최고 엔비디아가"
   ]
  ],
- "last_run": "2026-08-27T17:56:38.008315+09:00",
+ "last_run": "2026-08-27T17:58:37.286430+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
