@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1155237",
-  "https://www.newspim.com/news/view/20260827000004",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=600644",
-  "https://www.mediapen.com/news/view/1119126",
-  "https://biz.heraldcorp.com/article/10853403",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1721843",
-  "https://www.fnnews.com/news/202608270543444805",
-  "https://www.nocutnews.co.kr/news/6568812",
   "https://www.edaily.co.kr/News/Read?newsId=02013926645551584&mediaCodeNo=257",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647266",
   "https://www.newsis.com/view/NISX20260827_0003764330",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/world/usa-canada/6271905",
   "https://zdnet.co.kr/view/?no=20260827172930",
   "https://www.aitimes.kr/news/articleView.html?idxno=41635",
-  "http://www.finomy.com/news/articleView.html?idxno=260188"
+  "http://www.finomy.com/news/articleView.html?idxno=260188",
+  "https://www.aitimes.com/news/articleView.html?idxno=214425",
+  "https://www.hankyung.com/article/202608263671i",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092168984",
+  "https://www.chosun.com/economy/tech_it/2026/08/27/WBFOINAATBDM7AVAYQFHHNUK64/",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445772",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106172",
+  "https://www.mk.co.kr/article/12138129",
+  "https://www.hankyung.com/article/2026082776521"
  ],
  "seen_titles": [
-  "李,이재용회장과만찬...호남투자,대미현안논의한듯",
-  "李대통령,이재용과비공개만찬회동…반도체팹등현안논의한듯",
-  "이대통령,이재용과비공개만찬…반도체·대미투자논의한듯",
-  "고치겠다던상속세·근로소득세는왜개편안하나[전경하의집중]",
-  "LG유플러스,글로벌통신유선망자율화평가표주도…네트워크표준선...",
-  "엔비디아2분기또'어닝서프라이즈'…메모리계약386조원",
-  "앤트로픽,30조달러시장내걸며매출로오픈AI앞질러…IPO는9~10월노...",
-  "[중국특징주]'딥시크'1~7월매출,이미작년의10배수준도달",
   "[기업家]엔비디아⑤ㅣ기술·인프라·중국시장까지…AI생태계'광폭...",
   "[美증시특징주]엔비디아압도적실적,매출106%급증…시간외주가는...",
   "엔비디아,분기매출962억달러…13분기연속매출신기록경신",
@@ -6001,7 +5993,15 @@
   "美,엔비디아AI칩中밀반입연루싱가포르물류업체조사",
   "SK스토아노조\"라포랩스와매각계약파기해야\"",
   "\"인공지능서비스,불법·유해정보대응해야\"...방미통위,이용자보호위...",
-  "KT'모두의AI'일상속,검색부터행정·교육까지잇는다"
+  "KT'모두의AI'일상속,검색부터행정·교육까지잇는다",
+  "[게시판]SKAX,SAP와'AI엔터프라이즈'협력강화등단신",
+  "카이메라테라퓨틱스\"경구알약으로듀피젠트에도전장\"[김정현의바...",
+  "\"기업의AI실행력,데이터플랫폼이차별화만든다\"",
+  "국적공개않고美서돌풍일으킨‘옥스알파’...알고보니중국AI",
+  "삼성전자,세계최초1100Hz게이밍모니터등'오디세이'신제품4종공...",
+  "['클릭'증시]엔비디아發훈풍에코스피·코스닥동반상승",
+  "꺾이지않는엔비디아…13분기연속최대매출",
+  "HBM도맞춤형으로…엔비디아,신기술공개"
  ],
  "recent_sigs": [
   [
@@ -6835,9 +6835,21 @@
   [
    "2026-08-27T18:00:37.144761+09:00",
    "일상 행정 ~KT 검색부터 모두의 잇는다 교육까지"
+  ],
+  [
+   "2026-08-27T18:02:14.334600+09:00",
+   "공개 알고보니 국적 돌풍 중국 않고 알파 옥스 일으킨"
+  ],
+  [
+   "2026-08-27T18:02:14.334600+09:00",
+   "연속 꺾이지 13분기 최대매출 않는"
+  ],
+  [
+   "2026-08-27T18:02:14.334600+09:00",
+   "공개 맞춤형으로 신기술 HBM도"
   ]
  ],
- "last_run": "2026-08-27T18:00:55.175622+09:00",
+ "last_run": "2026-08-27T18:02:40.907758+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
