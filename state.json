@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260827.22018007733",
-  "https://news.tf.co.kr/read/economy/2358434.htm",
-  "https://www.yna.co.kr/view/AKR20260826171100082?input=1195m",
   "http://www.osen.co.kr/article/G1112864055",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721830",
   "https://www.sedaily.com/article/20083730",
@@ -2999,12 +2996,12 @@
   "https://zdnet.co.kr/view/?no=20260827123901",
   "http://www.spochoo.com/news/articleView.html?idxno=129327",
   "https://www.imaeil.com/page/view/2026082713201170756",
-  "http://www.metroseoul.co.kr/article/20260827500219"
+  "http://www.metroseoul.co.kr/article/20260827500219",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3676571",
+  "https://zdnet.co.kr/view/?no=20260825230642",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=47300"
  ],
  "seen_titles": [
-  "'오상욱·박혜정·황선우출격'…SKT,국가대표훈련에AI입혔다",
-  "개인투자자들\"내일새벽엔비디아실적발표에촉각\"",
-  "크래프톤,신작5종공개…'넥스트배그'찾는다",
   "광주칠석고싸움놀이활성화모색",
   "오픈AI,자체AI칩연내투입…삼성HBM4탑재추정",
   "장미란사건으로본'성인실종법'현주소",
@@ -6001,7 +5998,10 @@
   "과기정통부,독파모평가'공정성·기업보호'최우선…\"투명한절차로...",
   "유망주1군콜업은최다,엔트리활용률은꼴찌...키움의리빌딩,제대로...",
   "부동산플래닛,건물주위한통합관리센터오픈",
-  "SK텔레콤,'보안특화AI개발'과기부사업참여"
+  "SK텔레콤,'보안특화AI개발'과기부사업참여",
+  "국회지킨김봉현,대통령실있던이창흠에게\"그날무엇했나\"",
+  "31개중앙부처개인정보전담인력54명확충",
+  "\"두나무이어비트고까지…하나금융,가상자산인프라사업본격화"
  ],
  "recent_sigs": [
   [
@@ -6703,9 +6703,13 @@
   [
    "2026-08-27T13:16:23.118246+09:00",
    "투자에 변수 마진 사업은 실적"
+  ],
+  [
+   "2026-08-27T13:24:14.525641+09:00",
+   "사업 하나금융 비트고까지 이어 본격화 두나무 인프라 가상자산"
   ]
  ],
- "last_run": "2026-08-27T13:22:31.160466+09:00",
+ "last_run": "2026-08-27T13:24:37.948074+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
