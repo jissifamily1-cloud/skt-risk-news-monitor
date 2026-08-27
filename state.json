@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000330992?division=NAVER",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608270173&t=NN",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851648",
-  "http://www.beyondpost.co.kr/view.php?ud=2026082705483832792aaae0046f_30",
   "https://www.g-enews.com/view.php?ud=2026082705371865322bd56fbc3c_1",
   "https://www.viva100.com/article/20260827500065",
   "https://www.mediapen.com/news/view/1119128",
@@ -2999,13 +2995,13 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1311298&inflow=N",
   "https://biz.heraldcorp.com/article/10851233",
   "https://biz.heraldcorp.com/article/10851163",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245144"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245144",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004331",
+  "https://www.gokorea.kr/news/articleView.html?idxno=876483",
+  "https://www.gokorea.kr/news/articleView.html?idxno=876480",
+  "https://www.gokorea.kr/news/articleView.html?idxno=876481"
  ],
  "seen_titles": [
-  "엔비디아,13분기연속최대실적에도주가는하락…2분기매출962억달...",
-  "\"찰나의찌르기순간을읽는다\"…SKT펜싱국가대표팀의'비밀병기'[현장...",
-  "뉴욕증시,엔비디아실적발표전약보합마감…나스닥0.08%↓",
-  "오픈AI자체AI에이전트가내부망뚫었다…시험중통제이탈",
   "오픈AI,챗GPTfor교사55개학교새로합류…교육자무료이용자30만명...",
   "'AI수요'입증한엔비디아,'962억달러'랠리쐈는데…시간외주가는1...",
   "[출근길브리핑-8월27일]엔비디아실적발표·吳\"용산공원대신탄천...",
@@ -6001,7 +5997,11 @@
   "\"평균1.1명→2.1명\"…개인정보보호전담인력,11년만에확충",
   "‘중앙행정기관2차이전’국무회의안건에선빠져",
   "‘중앙행정기관지방이전’막바지조율…오늘국무회의안건에선빠져",
-  "[오늘의주요일정·25일]중기부,홈플러스협력입점업체간담회"
+  "[오늘의주요일정·25일]중기부,홈플러스협력입점업체간담회",
+  "\"삼진만먹지마라,하고있었는데\"박진만함박미소짓게만든만루포,...",
+  "시진핑방미앞두고미국,중국발사이버공격차단발표-한중기업도...",
+  "오픈AIAI에이전트들의협력해킹사건,계획적행동으로드러나면서...",
+  "엔비디아,삼성·SK하이닉스와메모리대규모계약…386조원규모의반..."
  ],
  "recent_sigs": [
   [
@@ -6883,9 +6883,17 @@
   [
    "2026-08-27T18:58:15.351922+09:00",
    "장전 8만달러선 비트코인 상승"
+  ],
+  [
+   "2026-08-27T19:04:15.380049+09:00",
+   "에이전트들의 행동으로 협력 사건 드러나면서 계획적"
+  ],
+  [
+   "2026-08-27T19:04:15.380049+09:00",
+   "계약 규모의 SK하이닉스와 386조 대규모 삼성 메모리"
   ]
  ],
- "last_run": "2026-08-27T19:02:30.567302+09:00",
+ "last_run": "2026-08-27T19:04:36.138159+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
