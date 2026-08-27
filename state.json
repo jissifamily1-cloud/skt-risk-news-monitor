@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3010874",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52366",
-  "https://biz.chosun.com/international/international_economy/2026/08/27/T2DZZOERUNCXFK6WSDH4QWJYLY/",
-  "https://www.wikitree.co.kr/articles/1155242",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/27/20260827030003?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/27/20260827024003?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/08/27/20260827031003?wlog_tag3=naver",
   "https://www.newsis.com/view/NISX20260826_0003764149",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=170503",
   "https://www.hankookilbo.com/news/article/A2026081022540002060?did=NA",
@@ -2999,16 +2992,16 @@
   "https://www.viva100.com/article/20260827501125",
   "https://www.joongang.co.kr/article/25456787",
   "https://www.fetv.co.kr/news/articleView.html?idxno=309181",
-  "https://biz.sbs.co.kr/article_hub/20000331195?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000331195?division=NAVER",
+  "https://www.m-i.kr/news/articleView.html?idxno=1406982",
+  "http://www.osen.co.kr/article/G1112864626",
+  "http://www.srtimes.kr/news/articleView.html?idxno=211022",
+  "https://www.newspim.com/news/view/20260827001114",
+  "https://biz.chosun.com/topics/topics_social/2026/08/27/IV4TKOOCTNHINIDTPRR4F75X64/",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721985",
+  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402457"
  ],
  "seen_titles": [
-  "[7월29일]'앙숙'오픈AI와앤트로픽,왜\"AI개발속도늦추자\"고입을...",
-  "오픈AI에이전트,허깅페이스이어외부서비스까지침해",
-  "\"AI속도조절장치마련시급\"…美빅테크직원들,국제공조요구",
-  "샘알트먼\"사람들은AICEO원하지않을것…책임주체필요\"",
-  "오픈AI·구글연구진1100명\"AI개발속도늦춰야\"…美정부에공개촉...",
-  "뉴욕증시,예상치웃돈PCE물가에약보합...유가,사흘연속하락[데...",
-  "\"외부LLM안쓴다…추가비용제로\"GC메디아이,베일벗은플랫폼수익...",
   "미국반도체소폭올라…물가에움찔금리상승",
   "뉴욕증시,혼조마감다우0.21%하락…물가지표불안감에관망세",
   "나비타스,적자에도3220억원들여클라로스인수…밸류에이션논쟁가...",
@@ -6001,7 +5994,14 @@
   "엔비디아질주에미소짓는K-메모리⋯삼성·SK,‘슈퍼갑’되나",
   "엔비디아의깜짝자신감…“내년에도70%성장”",
   "[카카오인적분할]②'AI떼는'카카오X,지주사형구조'M&A'로밸류업",
-  "[투자의날(刃)]젠슨황아니었으면상상하기싫은시장"
+  "[투자의날(刃)]젠슨황아니었으면상상하기싫은시장",
+  "네이버클라우드,LGCNS와맞손…보안특화AI구축",
+  "‘끝내기역전패’두산라인업공개,박준순복귀+정수빈-안재석테이...",
+  "에쓰오일,창립50주년맞이스폰서데이…KT위즈파크서시구행사",
+  "[일본증시]3일만에하락...잭슨홀앞두고포지션조정매물",
+  "CJ그룹여성임직원330명개인정보유출前직원검찰송치…“2차피해...",
+  "[1%초고수의선택]'삼성E&A'사고'LG에너지솔루션'팔았다",
+  "피라미드조직은AI시대에도살아남을수있을까"
  ],
  "recent_sigs": [
   [
@@ -6731,9 +6731,13 @@
   [
    "2026-08-27T16:38:14.232385+09:00",
    "아니었으면 시장 싫은 젠슨 상상하기"
+  ],
+  [
+   "2026-08-27T16:40:21.308615+09:00",
+   "살아남을 시대에도 조직은 있을까 피라미드"
   ]
  ],
- "last_run": "2026-08-27T16:38:44.175002+09:00",
+ "last_run": "2026-08-27T16:40:42.237659+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
