@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260826001034",
-  "https://www.ajunews.com/view/20260826083018401",
-  "http://www.ktnews.com/news/articleView.html?idxno=147966",
   "https://www.mk.co.kr/article/12136931",
   "https://www.newstnt.com/news/articleView.html?idxno=715385",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=207213",
@@ -2999,12 +2996,12 @@
   "https://www.kukinews.com/article/view/kuk202608270076",
   "https://www.munhwa.com/article/11612453",
   "https://www.it-b.co.kr/news/articleView.html?idxno=89645",
-  "https://www.sedaily.com/article/20083945"
+  "https://www.sedaily.com/article/20083945",
+  "https://www.inthenews.co.kr/news/article.html?no=91026",
+  "https://www.nocutnews.co.kr/news/6569009",
+  "https://www.donga.com/news/It/article/all/20260827/134553541/2"
  ],
  "seen_titles": [
-  "'사이버보안특화AI파운데이션모델'공모에'SKT·네이버클라우드'컨...",
-  "AI잘쓰는기업은'자동화'대신'증강'...채용·소득모두엇갈렸다",
-  "[오늘의브랜드]남양유업,한컴과'AI업무혁신'MOU…구매∙생산∙물...",
   "26일유니트리주가5일째하락,40조원증발개장가의근반토막",
   "[조현미의AI혁신중기]AI로글로벌음악플랫폼판바꾸는MPAG",
   "[권영설칼럼넥스트스타일]에이전트커머스와'AI레디'제조업",
@@ -6001,7 +5998,10 @@
   "금리인상에도반도체株‘강세’…엔비디아가키운‘메모리기대’",
   "가을야구막차타려는롯데…너무늦었나?",
   "SKT,'사이버보안특화AI모델개발'출사표…\"韓방패만들겠다\"",
-  "엔비디아“메모리병목2028년까지”…삼성·SK,3년연속최대실적"
+  "엔비디아“메모리병목2028년까지”…삼성·SK,3년연속최대실적",
+  "SKT,‘독파모’정예팀과사이버보안특화AI모델개발나서",
+  "KT엠모바일eSIM로밍'mobi'…ICT어워드코리아최고상",
+  "한국,미·중이어글로벌AI경쟁서‘명확한3위’평가"
  ],
  "recent_sigs": [
   [
@@ -6891,9 +6891,13 @@
   [
    "2026-08-27T11:20:21.523538+09:00",
    "7만번 대화하더니 집단 에이전트 전말 AI끼리"
+  ],
+  [
+   "2026-08-27T11:26:13.772289+09:00",
+   "글로벌 경쟁서 이어 평가 3위 명확한 한국"
   ]
  ],
- "last_run": "2026-08-27T11:24:35.209207+09:00",
+ "last_run": "2026-08-27T11:26:38.129116+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
