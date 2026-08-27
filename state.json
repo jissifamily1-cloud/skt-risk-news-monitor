@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://bizhankook.com/articles/google-funding-startups-ai-war.html",
-  "https://www.etnews.com/20260826000288",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=546883",
-  "https://www.newsis.com/view/NISX20260826_0003763642",
-  "https://www.hankyung.com/article/202608264137i",
-  "https://biz.chosun.com/it-science/ict/2026/08/26/2PYKQX4VQZFTJEYGMPE2JAJURY/",
-  "https://www.boannews.com/news/articleView.html?idxno=145441",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=272192",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=272386",
-  "http://www.finomy.com/news/articleView.html?idxno=260004",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406372",
   "https://www.greened.kr/news/articleView.html?idxno=348493",
   "https://www.newscj.com/news/articleView.html?idxno=3427924",
   "http://journal.kobeta.com/?post_type=post&p=63634",
@@ -2999,20 +2988,20 @@
   "https://www.sedaily.com/article/20083856",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215172",
   "https://imnews.imbc.com/news/2026/econo/article/6847674_36932.html",
-  "https://www.tokenpost.kr/news/breaking/398627"
+  "https://www.tokenpost.kr/news/breaking/398627",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3676239",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3676220",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3676227",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851681",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260827095237ooS",
+  "https://biz.sbs.co.kr/article_hub/20000331061?division=NAVER",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1177841",
+  "https://zdnet.co.kr/view/?no=20260827094840",
+  "https://www.cstimes.com/news/articleView.html?idxno=718242",
+  "https://www.slist.kr/news/articleView.html?idxno=761711",
+  "https://www.boannews.com/news/articleView.html?idxno=145449"
  ],
  "seen_titles": [
-  "호남반도체'속도전'본격화…정부·여당총력전,광주·전남도실행단...",
-  "엔비디아실적발표,'슈퍼SOL'에서실시간확인",
-  "대구광역시,부동산중개업과태료완화추진...행정형평성강화",
-  "에듀윌,'원격국비교육원'오픈…\"국비교육인프라구축\"",
-  "구글이스타트업에'5억원'주는이유…AI시대'쩐의전쟁'",
-  "비드래프트논문하나가만든삼단구조…연구·AX-RAY·국가보안AI",
-  "현대차,2030년555만대·영업이익률9%⋯신차100종·생산127만대확대",
-  "현대차,광주에자율주행'아트리아AI'투입…2029년새만금데이터센...",
-  "머스크,내년말AI위성배치시작...스페이스X2%대상승",
-  "[스마트클라우드쇼2026]톰스컬리팔로알토네트웍스디렉터“취약점...",
-  "금융권덮친제3자리스크...금융보안원,'보험사-GA정보보안협의체...",
   "아시안게임D-24…'TeamSKT'출정식개최",
   "'어닝서프라이즈'는기본…엔비디아주가향방가를3대관전포인트",
   "신한투자증권,슈퍼SOL'어닝콜라이브'서비스오픈",
@@ -6001,7 +5990,18 @@
   "엔비디아발훈풍에삼전·닉스3~5%대강세…코스피“7000회복겨냥”...",
   "'엔비디아훈풍'에코스피,6900선회복",
   "엔비디아역대급실적에반도체반등하며코스피상승출발",
-  "엔비디아,맞춤형고대역폭메모리공개"
+  "엔비디아,맞춤형고대역폭메모리공개",
+  "대전선화초증축완료…재개발학생수용·통학안전강화",
+  "김대중교육감,광주여상전국상업경진대회준비점검…\"학생안전강조...",
+  "세종문화관광재단,문화취약계층찾아간'한글한마당'성료",
+  "[IT라운지]'리디샵'오픈·모픽'매출9.3배'·잡코'천만의합격캠페...",
+  "[코인시세]비트코인7만8천달러선'숨고르기'…중장기상승모멘텀은...",
+  "코스피,장초반상승세에6900선회복",
+  "드림텍주가,급등세...이유는?",
+  "AI에이전트,해커공격'회사지시'로착각…90%뚫렸다",
+  "SKT,업스테이지손잡았다…사이버보안특화AI개발",
+  "코스피,엔비디아호실적에2%대상승…6,900선회복",
+  "美재무부,영국발전소해킹배후이란지목…핵심시설공격한해커..."
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-08-27T09:52:28.987576+09:00",
    "메모리 맞춤형 고대역폭 공개"
+  ],
+  [
+   "2026-08-27T09:54:13.641891+09:00",
+   "영국 핵심 시설 배후 공격한 지목 해커 발전소 이란 재무부"
   ]
  ],
- "last_run": "2026-08-27T09:52:47.010053+09:00",
+ "last_run": "2026-08-27T09:54:35.953128+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
