@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=480803",
-  "https://biz.sbs.co.kr/article_hub/20000330919?division=NAVER",
-  "https://www.m-economynews.com/news/article.html?no=70133",
-  "https://byline.network/?p=9004111222616759",
-  "https://www.xportsnews.com/article/2188335",
-  "https://www.kukinews.com/article/view/kuk202608260187",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309119",
-  "https://www.newspim.com/news/view/20260826001017",
-  "https://www.boannews.com/news/articleView.html?idxno=145474",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008891",
   "https://www.sidae.com/article/2026082615310460600",
   "https://www.newspim.com/news/view/20260826000990",
@@ -2999,18 +2990,18 @@
   "https://biz.heraldcorp.com/article/10853929",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=663268",
   "https://www.tokenpost.kr/news/breaking/398675",
-  "https://www.segye.com/newsView/20260827506969?OutUrl=naver"
+  "https://www.segye.com/newsView/20260827506969?OutUrl=naver",
+  "https://www.news1.kr/it-science/internet-platform/6271075",
+  "https://www.bloter.net/news/articleView.html?idxno=671684",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41624",
+  "https://www.fntimes.com/html/view.php?ud=202608271045518205094b7542a8_18",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93338",
+  "https://www.cwn.kr/news/articleView.html?idxno=54366",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102434",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102433",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102430"
  ],
  "seen_titles": [
-  "정부'보안특파모'공모에SKT·네이버클라우드2파전",
-  "[현장]팀SKT,아시안게임출격…\"얇고빠른펜싱,AI로전력↑\"",
-  "KTSAT,32년위성관제기술로‘K-저궤도위성’경쟁력키운다",
-  "포스코인터내셔널,종이선하증권디지털전환…\"무역DX속도\"",
-  "[증시인사이트]삼전·닉스오름세·코스피6800선회복…곧7천선?",
-  "현대차,SDV·자율주행·로보틱스·배터리로미래차청사진제시",
-  "[그게뭔가요]영상하나로로봇이배운다?스킬드AI의방법론",
-  "1위재탈환도전!이재현SS복귀+박세혁선발마스크…삼성,26일키움...",
-  "[전남광주단신]‘여수세계섬박람회개막식입장권31일예매’외",
   "신한투자증권,슈퍼SOL美상장기업어닝콜서비스",
   "[일본증시]닛케이0.62%상승...금융·반도체오름세주도",
   "[인터뷰]김정덕교수\"AI시대,신화와고전속에서찿은보안의본질\"",
@@ -6001,7 +5992,16 @@
   "“다른애찾았다!”자기들끼리공모해해킹벌인1200개AI‘충격’",
   "엔비디아,매출133조원역대최고…'AI피크아웃'깼다",
   "미PCE3.7%에증시눌리고엔비디아시간외4%상승",
-  "역대급실적쐈다…AI고점론잠재운엔비디아삼성전자,하이닉스도..."
+  "역대급실적쐈다…AI고점론잠재운엔비디아삼성전자,하이닉스도...",
+  "네이버클라우드·LGCNS손잡았다…사이버보안특화AI개발",
+  "[게임in쾰른]24명이만드는도시…오답없는크래프톤'NOLAW'",
+  "中지푸AI,차세대모델'GLM-5.3-Flash'오픈웨이트로공개…\"프런티어...",
+  "네이버클라우드,LGCNS와'사이버보완특화AI'개발도전…SKT와2파전",
+  "모티프,'벤치마크1위·종합평가최하위'탈락...독파모평가에이의제...",
+  "'보안AI'놓고SKTvs네이버클라우드맞붙었다…정부,9월한곳선정",
+  "李-이재용비공개회동…'메가투자'속도전",
+  "엔비디아70%성장신호…삼전닉스강세",
+  "현대차,엔비디아손잡고'피지컬AI'승부"
  ],
  "recent_sigs": [
   [
@@ -6839,9 +6839,21 @@
   [
    "2026-08-27T10:58:14.671347+09:00",
    "~SKT 소식 이동통신 KT엠모바일 ~KT"
+  ],
+  [
+   "2026-08-27T11:00:32.264654+09:00",
+   "놓고 맞붙었다 vs 정부 9월 네이버클라우드 보안 ~SKT 선정"
+  ],
+  [
+   "2026-08-27T11:00:32.264654+09:00",
+   "신호 성장 삼전닉스 강세"
+  ],
+  [
+   "2026-08-27T11:00:32.264654+09:00",
+   "손잡고 현대차 피지컬 승부"
   ]
  ],
- "last_run": "2026-08-27T10:58:32.813925+09:00",
+ "last_run": "2026-08-27T11:01:00.999803+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
