@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.public25.com/news/articleView.html?idxno=53429",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=86241",
   "https://www.getnews.co.kr/news/articleView.html?idxno=878977",
   "https://biz.sbs.co.kr/article_hub/20000331018?division=NAVER",
   "https://www.yna.co.kr/view/AKR20260827014100009?input=1195m",
@@ -2999,11 +2997,11 @@
   "https://www.khan.co.kr/article/202608272142001",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696207",
   "https://www.theguru.co.kr/news/article.html?no=106078",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3137872"
+  "http://www.ttlnews.com/news/articleView.html?idxno=3137872",
+  "https://www.tokenpost.kr/news/ai/399042",
+  "https://www.tokenpost.kr/news/breaking/399043"
  ],
  "seen_titles": [
-  "네팔덮친대홍수…160명숨지고한국인9명연락두절[오늘아침]",
-  "엔비디아분기매출133조원…베라루빈양산·AI수요자신",
   "엔비디아,2분기매출133조·순이익82조7300억원126%급증",
   "[뉴욕증시]엔비디아실적앞두고약보합…나스닥0.08%↓",
   "뉴욕증시,엔비디아실적앞두고약보합세나스닥0.08%↓...국제유가W...",
@@ -6001,7 +5999,9 @@
   "‘4위탈락’모티프이의제기에···과기부,독파모2차점수공개,SK...",
   "옥타,2분기실적호조에주가15%급등…\"AI위협속신원보안수요확...",
   "블룸버그“앤트로픽IPO규모,스페이스X와맞먹거나그이상될것\"",
-  "SKT,SK브로드밴드0.84대0.16인적분할…신설법인SK호라이즌출범"
+  "SKT,SK브로드밴드0.84대0.16인적분할…신설법인SK호라이즌출범",
+  "보안기업9곳,SK텔레콤보안AI컨소시엄합류",
+  "미,엔비디아서버중국반출의혹물류업체조사"
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,17 @@
   [
    "2026-08-27T21:38:19.653353+09:00",
    "몇층이 100점인데 올랐나 엔비디아는 삼성전자 SK하이닉스는"
+  ],
+  [
+   "2026-08-27T21:48:15.651438+09:00",
+   "~SKT 보안 9곳 합류 컨소시엄 보안기업"
+  ],
+  [
+   "2026-08-27T21:48:15.651438+09:00",
+   "의혹 서버 반출 조사 물류업체 중국"
   ]
  ],
- "last_run": "2026-08-27T21:46:36.365351+09:00",
+ "last_run": "2026-08-27T21:48:36.010935+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
