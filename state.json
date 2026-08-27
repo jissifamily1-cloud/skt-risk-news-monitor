@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=214406",
-  "https://www.mt.co.kr/stock/2026/08/26/2026082516470879828",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215003",
-  "https://www.ziksir.com/news/articleView.html?idxno=144396",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=362267",
-  "https://biz.sbs.co.kr/article_hub/20000330867?division=NAVER",
-  "https://www.viva100.com/article/20260826501141",
-  "https://www.g-enews.com/view.php?ud=202608261559093933d7a510102_1",
-  "https://biz.sbs.co.kr/article_hub/20000330866?division=NAVER",
-  "https://www.ftimes.kr/news/articleView.html?idxno=39218",
   "https://www.edaily.co.kr/News/Read?newsId=04227926645551256&mediaCodeNo=257",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260826010008978",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721807",
@@ -2999,19 +2989,19 @@
   "https://www.sisaon.co.kr/news/articleView.html?idxno=203870",
   "https://www.news1.kr/world/international-economy/6271018",
   "https://www.kbmaeil.com/article/20260827500172",
-  "https://biz.heraldcorp.com/article/10853846"
+  "https://biz.heraldcorp.com/article/10853846",
+  "http://www.osen.co.kr/article/G1112864524",
+  "https://www.yna.co.kr/view/AKR20260827065400007?input=1195m",
+  "https://www.newsis.com/view/NISX20260827_0003764784",
+  "https://www.smartbizn.com/news/articleView.html?idxno=152288",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=272307",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/27/2026082700087.html",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=316958",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53768",
+  "https://news.knn.co.kr/news/article_sns/1657",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1721899"
  ],
  "seen_titles": [
-  "'모두의AI'출격KT,일상전반'AI대중화'이끈다",
-  "\"10일치서류작업,단수시간만에\"포스코인터,종이선하증권없앤다",
-  "[中증시마감]이란협상진전설에상승...초전도체관련주급등",
-  "앤트로픽·구글지원하는AI보안스타트업,삼성등서1900억투자유치",
-  "\"AI경쟁끝났을때살아남는기업에투자해야…이기업들주목\"",
-  "코스피또'전약후강'...반도체힘에6,800선회복",
-  "코스피,반도체주반등에'전약후강'···6800선마감",
-  "기관'사자'코스피6800대로…삼성전자1.75%↑",
-  "[셀럽의한수]하반기국내증시전망\"9천선까지는오를겁니다\"",
-  "(종합)8000억자사주소각·신차100종폭격⋯현대차,‘555만대·영업...",
   "SKT,스포츠후원에AI접목…아시안게임서펜싱전력분석지원",
   "[오후장체크포인트]엔비디아,소부장상승이끈다?\"삼전닉스는기본...",
   "LG오스틴,KBO역대33번째사이클링히트폭발…극적역전승",
@@ -6001,7 +5991,17 @@
   "컴투스,'제우스:오만의신'양대마켓매출1위…엔씨,'리니지M'신서...",
   "日키옥시아,1조엔들여이와테현메모리공장증설…AI수요대응",
   "“다른AI찾았다”…1200개에이전트해킹공모",
-  "엔비디아“메모리병목2028년까지지속”…삼성·SK지배력굳건[비즈..."
+  "엔비디아“메모리병목2028년까지지속”…삼성·SK지배력굳건[비즈...",
+  "가을밤하늘‘한강랩소디’가울려퍼진다...9월5일‘한화와함께하...",
+  "빅이닝의시작만루홈런…kt는만루찬스와고비서모두강해",
+  "스패로우\"소프트웨어공급망보안,SBOM정확도·신뢰성확보해야\"",
+  "SKT·네이버,사이버보안특화AI개발사업'출사표'",
+  "SKT-업스테이지손잡았다…14개산학연뭉쳐'보안특화AI'개발",
+  "실적으로'AI질주'확인한엔비디아…삼전·SK하닉메모리호황더탄...",
+  "KT,중소벤처12개사와'테크소스글로벌서밋'참가",
+  "오픈AI사고보고서가던진섬뜩한질문",
+  "엔비디아매출133조원‘사상최대’…“2028년에도70%성장”",
+  "AI고점론잠재운엔비디아…반도체株깨운다"
  ],
  "recent_sigs": [
   [
@@ -6787,9 +6787,13 @@
   [
    "2026-08-27T10:34:14.810244+09:00",
    "타고 폭발 훈풍 외인 매수"
+  ],
+  [
+   "2026-08-27T10:38:13.311792+09:00",
+   "섬뜩한 보고서가 사고 던진 질문"
   ]
  ],
- "last_run": "2026-08-27T10:36:29.967279+09:00",
+ "last_run": "2026-08-27T10:38:37.233354+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
