@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/397576",
-  "https://www.seoul.co.kr/news/international/topic-global/2026/08/25/20260825500218?wlog_tag3=naver",
-  "https://www.g-enews.com/view.php?ud=2026082520450148109a1f309431_1",
-  "https://byline.network/?p=9004111222616713",
-  "https://www.wikitree.co.kr/articles/1154925",
-  "https://www.hani.co.kr/arti/politics/politics_general/1274832.html",
   "https://www.tokenpost.kr/news/cryptocurrency/398223",
   "https://www.stnsports.co.kr/news/articleView.html?idxno=321559",
   "https://www.segye.com/newsView/20260826515677?OutUrl=naver",
@@ -2999,15 +2993,15 @@
   "https://www.sedaily.com/article/20084003",
   "http://www.breaknews.com/1232022",
   "http://www.globalepic.co.kr/view.php?ud=20260827134820303848439a4874_29",
-  "https://www.aitimes.com/news/articleView.html?idxno=214455"
+  "https://www.aitimes.com/news/articleView.html?idxno=214455",
+  "https://www.starnewskorea.com/sports/2026/08/27/2026082616464668700",
+  "https://www.konas.net/article/article.asp?idx=64595",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2463760",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317942",
+  "https://www.m-i.kr/news/articleView.html?idxno=1406796",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63469"
  ],
  "seen_titles": [
-  "오픈AI할라페뇨공개,엔비디아병행쓴다",
-  "[미국특징주]오픈AI\"자사할라피뇨칩이테스트에서엔비디아프로세...",
-  "호세무뇨스“캐즘끝났다”…현대차,EV·EREV·자율주행총공세",
-  "국정원,사이버보안행사'CSK2026'다음달16~18일개최",
-  "30조달러TAM내세운앤스로픽,IPO서사키운다",
-  "오픈AI추론칩,지연시간최대3.6배낮췄다",
   "미공개AI2종,워싱턴보안심사논의",
   "16세연하女변호사와‘공원키스’한男변호사…연봉수백억날렸다...",
   "샘올트먼,'오픈AI시계'단7개제작…실리콘밸리새지위상징",
@@ -6001,7 +5995,13 @@
   "‘보안국가대표’는누가될까…SKTvs네이버,진검승부",
   "KT,테크소스글로벌서밋2026참가..협력중소벤처와동남아공략",
   "최태원회장,5조5000억원베팅AI반도체美현지생산",
-  "엔비디아,마진압박우려씻어낸역대급실적...\"장기전망도압도적\""
+  "엔비디아,마진압박우려씻어낸역대급실적...\"장기전망도압도적\"",
+  "'놀랍다'KIA이무슨운명의장난이다있나,KBO최초역사사나이의...",
+  "[안보칼럼]AI시대한국군의유무인복합전투체계구축방향",
+  "'범부처통합연구지원시스템',과기정보硏이맡는다",
+  "감사원,'YTN사영화'실지감사종료…보고서작성중",
+  "K-반도체,美'추가투자'압박속현지화전략가속",
+  "대항병원보안구멍...환자이름·전화번호·문의내역등해킹"
  ],
  "recent_sigs": [
   [
@@ -6699,9 +6699,17 @@
   [
    "2026-08-27T13:54:15.597473+09:00",
    "5조5000억원 회장 현지생산 베팅 AI반도체"
+  ],
+  [
+   "2026-08-27T13:56:14.459986+09:00",
+   "현지화 추가 반도체 압박 투자 전략 가속"
+  ],
+  [
+   "2026-08-27T13:56:14.459986+09:00",
+   "구멍 대항병원 문의내역 이름 환자 전화번호 보안"
   ]
  ],
- "last_run": "2026-08-27T13:54:39.602478+09:00",
+ "last_run": "2026-08-27T13:56:35.212023+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
