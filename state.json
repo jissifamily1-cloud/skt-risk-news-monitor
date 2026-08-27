@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/08/26/opinion/ai-norway-schools.html?partner=naver",
-  "https://www.newspim.com/news/view/20260827000695",
-  "http://www.newsbrite.net/news/articleView.html?idxno=200001",
-  "https://www.sportschosun.com/baseball/2026-08-27/202608270100163690010528",
-  "http://www.lawissue.co.kr/view.php?ud=2026082710184676539817d053b9_12",
-  "https://www.nytimes.com/es/2026/08/26/espanol/ciencia-y-tecnologia/alarma-ataque-inteligencia-artifical.html?partner=naver",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695991",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=88472",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/26/2026082690181.html",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12138442",
   "https://biz.newdaily.co.kr/site/data/html/2026/08/28/2026082800013.html",
   "http://www.issuenbiz.com/news/articleView.html?idxno=79196",
-  "https://www.newspim.com/news/view/20260828000062"
+  "https://www.newspim.com/news/view/20260828000062",
+  "https://view.asiae.co.kr/article/2026082716161319125",
+  "https://www.tokenpost.kr/news/ai/399339",
+  "https://www.tokenpost.kr/news/breaking/398761",
+  "https://www.newsis.com/view/NISX20260828_0003766222",
+  "http://www.newsprime.co.kr/news/article.html?no=745503",
+  "https://www.etoday.co.kr/news/view/2619136"
  ],
  "seen_titles": [
-  "스패로우,애플리케이션시큐리티서밋2026개최...C레벨대상SW공급망...",
-  "TheScandinavianSolutiontoA.I.inSchools",
-  "[미국특징주]엔비디아,AI플랫폼'허깅페이스'129억달러인수합의",
-  "이대통령,이재용과비공개회동...반도체투자·대미통상현안주목",
-  "'역대최초기세'KIA뜻밖의1번대체자등장했다…왜몸살변수에절망...",
-  "LG유플러스,디지털고객경험지수이동통신부문3년연속1위",
   "Anatomíadeunataqueautónomo:5capacidadesalarmantesdelaIA",
   "SBVA,벤처파트너2명신규영입",
   "LG유플러스,디지털고객경험지수이통부문3년연속1위",
@@ -6001,7 +5995,13 @@
   "엔비디아하루만에시총610조원증가…역대두번째기록",
   "엔비디아'깜짝실적'에도…美반도체관세후폭풍,삼전닉스프리장...",
   "뉴욕증시,엔비디아호실적에나스닥1.57상승마감",
-  "[미국특징주]'기대미달실적'워크데이,SW주반등에찬물"
+  "[미국특징주]'기대미달실적'워크데이,SW주반등에찬물",
+  "美·中빅테크'고래싸움'에등안터져…뒤에서웃는종목은",
+  "크라우드스트라이크CEO\"AI공격에기존보안한계\"",
+  "올트먼,아스트라비공개시연서AGI언급",
+  "삼성전자·SK하이닉스프리마켓서1%안팎약세",
+  "SK텔레콤,AIDC전문회사SK호라이즌설립…\"2028년실적전후주가본...",
+  "[증시키워드]엔비디아훈풍에반도체재시동…삼성SDI·LSELECTRIC도AI전..."
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,17 @@
   [
    "2026-08-28T08:08:14.355241+09:00",
    "SW주 워크데이 찬물 반등에 실적 미달 기대"
+  ],
+  [
+   "2026-08-28T08:10:25.829152+09:00",
+   "전문회사 ~SKT 주가 2028년 전후 설립 DC SK호라이즌 실적"
+  ],
+  [
+   "2026-08-28T08:10:25.829152+09:00",
+   "삼성SDI LS 반도체 훈풍에 재시동 ELECTRIC도"
   ]
  ],
- "last_run": "2026-08-28T08:08:31.607984+09:00",
+ "last_run": "2026-08-28T08:10:53.575999+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
