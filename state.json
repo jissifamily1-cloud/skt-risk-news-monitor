@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026082606030277331",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695504",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695247",
-  "https://www.tokenpost.kr/news/cryptocurrency/397061",
-  "https://zdnet.co.kr/view/?no=20260825083739",
-  "https://www.aitimes.com/news/articleView.html?idxno=214286",
-  "https://www.aitimes.com/news/articleView.html?idxno=214246",
-  "http://www.kgnews.co.kr/news/article.html?no=909038",
-  "http://coinreaders.com/255001",
   "https://www.hellot.net/news/article.html?no=114576",
   "https://www.newspim.com/news/view/20260827000022",
   "https://www.donga.com/news/Opinion/article/all/20260826/134551991/2",
@@ -2999,18 +2990,18 @@
   "https://www.smartbizn.com/news/articleView.html?idxno=152354",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=317070",
   "https://www.fnnews.com/news/202608271823599432",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=364309"
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=364309",
+  "http://www.newsprime.co.kr/news/article.html?no=745007",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=859023",
+  "http://www.inews24.com/view/1997684",
+  "https://www.newspim.com/news/view/20260824000818",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=87771",
+  "https://www.yna.co.kr/view/PYH20260824107400013?input=1196m",
+  "https://www.sedaily.com/article/20081930",
+  "http://www.hellodd.com/news/articleView.html?idxno=112973",
+  "http://www.hellodd.com/news/articleView.html?idxno=112965"
  ],
  "seen_titles": [
-  "오픈AI,추론칩할라페뇨성능우위주장",
-  "오픈AI,자체칩연내투입…\"삼성HBM4탑재추정\"",
-  "세계에서제일핫한기업...‘찐인싸’7명만손목에찼다는이시계",
-  "李대통령,삼성이재용·SK최태원·현대차정의선회장연쇄회동…'4...",
-  "[이하나의이것저것]미안하지만희망을노래할수있을까",
-  "'또C레벨퇴사'…오픈AI,상장앞두고핵심경영진이탈",
-  "샘알트먼\"AI,아직아이폰의순간못왔다\"…직접인정한충격적현실",
-  "너무빠른AI발전속도…쉬는순간뒤처질까불안한개발자들",
-  "알트먼,AI전환속도예상보다늦었다고인정",
   "앨라배마주법무장관,샘알트먼CEO소환장발부…허깅페이스해킹사...",
   "\"10년내암정복\"빅테크호언장담에과학계\"근거없는과장\"일침",
   "플로리다,챗GPT'공공위해요소'지정요구...알트먼·오픈AI전방위압...",
@@ -6001,7 +5992,16 @@
   "SK텔레콤,AIDC전문자회사'SK호라이즌'출범",
   "SKT,AIDC전문법인'SK호라이즌'출범…3.08조투자유치",
   "\"이번엔보안국대\"K-AI동맹재편…SKTvs네이버2파전",
-  "SK텔레콤,SK브로드밴드인적분할로SK호라이즌신설"
+  "SK텔레콤,SK브로드밴드인적분할로SK호라이즌신설",
+  "[기자수첩]\"이재명·민주당싫어요\"4050은잡은물고기가아닙니다",
+  "[스타링크상륙후폭풍]①'발톱'숨기고틈새공략",
+  "영화관개봉작,OTT는5개월뒤에?…\"소비자선택권보장돼야\"[현장]",
+  "영화개봉150일뒤OTT공개?…시민단체\"소비자선택권제한\"",
+  "LG유플러스,글로벌화이트해커와보안취약점찾는다-이통사최초버그...",
+  "'홀드백'논의중단촉구기자회견",
+  "머스크8조베팅하나…위성-스마트폰연결시대온다[김기혁의테슬라...",
+  "범부처통합연구지원시스템,KISTI로이관···4대시스템통합본격화",
+  "영상·음성·추론데이터까지···정부,'독자AI모델'데이터공개"
  ],
  "recent_sigs": [
   [
@@ -6871,9 +6871,13 @@
   [
    "2026-08-27T18:24:15.018750+09:00",
    "경찰 억대 없다 기소권 공수처는 민간인 뇌물"
+  ],
+  [
+   "2026-08-27T18:28:16.069175+09:00",
+   "공개 음성 모델 정부 독자 데이터 추론 데이터까지 영상"
   ]
  ],
- "last_run": "2026-08-27T18:26:29.555448+09:00",
+ "last_run": "2026-08-27T18:28:40.311735+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
