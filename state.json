@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026082712460214154",
-  "https://news.skbroadband.com/news/articleView.html?idxno=236185",
-  "https://www.asiatime.co.kr/article/20260827500266",
-  "https://www.edaily.co.kr/News/Read?newsId=03735926645551584&mediaCodeNo=257",
-  "https://www.seoul.co.kr/news/economy/2026/08/27/20260827500106?wlog_tag3=naver",
-  "https://www.newsis.com/view/NISX20260827_0003764747",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=851705",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695912",
   "https://www.fnnews.com/news/202608271201065196",
   "https://www.etnews.com/20260827000166",
   "https://www.newsis.com/view/NISX20260827_0003764805",
@@ -2999,17 +2991,17 @@
   "https://www.theguru.co.kr/news/article.html?no=106387",
   "https://www.goodkyung.com/news/articleView.html?idxno=290699",
   "https://www.tokenpost.kr/news/breaking/399361",
-  "http://www.inews24.com/view/1999254"
+  "http://www.inews24.com/view/1999254",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608271631326360103317",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3677516",
+  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1065622",
+  "http://www.economytalk.kr/news/articleView.html?idxno=423798",
+  "https://www.wikitree.co.kr/articles/1155554",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317093",
+  "http://coinreaders.com/255316",
+  "https://www.yna.co.kr/view/AKR20260828030200008?input=1195m"
  ],
  "seen_titles": [
-  "'아이디찾는데주민번호요구'....개인정보위,금융권주민번호수집에...",
-  "호실적에도요동친엔비디아주가…삼전·닉스반등동력'시험대'[stock&...",
-  "[이슈IN인천]석정규\"현장에서답찾는도시정책…균형발전이끌겠...",
-  "지지율고심깊어지는靑…민생·경제행보로활로모색",
-  "'금리인상'소식에엔비디아효과축소…코스피6900서등락",
-  "메인라인,통합AI플랫폼‘AIFuze’사용인증경품이벤트진행",
-  "국가대표AI5개팀,AI학습데이터방출…'1.5조토큰'데이터무료개...",
-  "과기부'독파모'학습데이터29종개방…1조5600만토큰규모",
   "'독파모'1차정예팀AI학습데이터푼다…AI허브공개",
   "LGU+,DCXI이동통신부문3년연속1위",
   "AI강국도약'통신인프라투자민관협의체'본격가동",
@@ -6001,7 +5993,15 @@
   "엔비디아주가급등...하루만에시총4420억달러늘어",
   "[뉴욕증시포커스]'어닝서프라이즈'엔비디아8.7%급등…나스닥1.57%...",
   "엔비디아,AI클라우드수익분배일부중단보도",
-  "엔비디아,실적발표하루만에시총611조원급증"
+  "엔비디아,실적발표하루만에시총611조원급증",
+  "[더벨][엔비티넥스트스텝]PSR0.3배저평가국면,대대적밸류업돌입",
+  "용인시,임대아파트서'찾아가는무한돌봄센터'운영마무리",
+  "LG전자베스트샵현대울산점,매장새단장기념오픈행사진행",
+  "[ESG경영분석]환경→AI인프라기업'sSK에코플랜트…\"비전·포트폴리...",
+  "SK하이닉스,미국에서한국반도체새역사쓴다",
+  "SK하이닉스,美인디애나HBM공장첫삽…2029년미국산제품양산",
+  "비트코인8만달러탈환…ETF8일연속유입에숏스퀴즈까지,8만3,000달...",
+  "메리츠\"두산,신소재우려에도AI핵심보드경쟁력부각전망\""
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,13 @@
   [
    "2026-08-28T08:54:13.886619+09:00",
    "AIDC 효과 기대 목표가 11만5000원 ~SKT 이원화"
+  ],
+  [
+   "2026-08-28T09:00:36.958125+09:00",
+   "반도체 쓴다 역사 한국 미국에서 SK하이닉스"
   ]
  ],
- "last_run": "2026-08-28T08:58:40.966983+09:00",
+ "last_run": "2026-08-28T09:01:01.267372+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
