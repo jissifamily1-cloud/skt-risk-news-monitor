@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260827118700017?input=1195m",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406766",
-  "https://www.edaily.co.kr/News/Read?newsId=03827766645551584&mediaCodeNo=257",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=512466",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=48521",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481093",
-  "https://www.yna.co.kr/view/AKR20260827097200009?input=1195m",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=134240",
-  "https://zdnet.co.kr/view/?no=20260827141907",
-  "https://www.seoul.co.kr/news/sport/baseball/2026/08/27/20260827500120?wlog_tag3=naver",
   "https://www.mt.co.kr/future/2026/08/27/2026082710453923887",
   "http://www.iminju.net/news/articleView.html?idxno=168665",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445749",
@@ -2999,19 +2989,19 @@
   "https://www.yna.co.kr/view/AKR20260826186251002?input=1195m",
   "https://www.youthdaily.co.kr/news/article.html?no=225903",
   "https://www.news2day.co.kr/article/20260828500059",
-  "https://www.tleaves.co.kr/news/articleView.html?idxno=9767"
+  "https://www.tleaves.co.kr/news/articleView.html?idxno=9767",
+  "http://www.dailyesports.com/view.php?ud=202608280920028238b91e133c1f_27",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316511",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=83928",
+  "https://www.newsis.com/view/NISX20260828_0003766432",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316569",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=134956",
+  "https://www.newspim.com/news/view/20260828000215",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316563",
+  "https://www.thepublic.kr/news/articleView.html?idxno=316576",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=726960"
  ],
  "seen_titles": [
-  "KT의'모두의AI'는어떻게동작할까…국산AI모델·생활서비스연결",
-  "방미통위,AI불법·유해정보대응강화…자율안전조치논의",
-  "코스피7000눈앞…엔비디아'70%성장'에삼전·하닉강세",
-  "엔비디아AI칩밀반출?…美,물류기업에이펙스조사착수",
-  "[일요칼럼]30년뒤다시질문앞에서다",
-  "한화,서울세계불꽃축제내달5일개최…한·미·영불꽃팀참가",
-  "정부·통신3사,AI통신망투자위해'맞손'…연내종합대책만든다",
-  "\"앤트로픽,데이터센터임차계약…62조원규모\"",
-  "KT,다음·EBS·직방잇는'모두의AI'…국산모델·NPU결합",
-  "올해ICT국감화두는AI·보안·가짜뉴스·미디어재편",
   "이것이‘힛포더팀’이다!만루홈런김영웅“삼성만우승하면됩니...",
   "액션파워,한컴오피스에음성AI기록솔루션'다글로'탑재",
   "AI시대통신망투자늘린다…정부·통신3사,규제·세제개선추진",
@@ -6001,7 +5991,17 @@
   "美비호에달라진쿠팡,당혹스런공정위…조사에수년걸릴수도(종합)",
   "엔비디아,호실적에장기성장전망까지...주가8.7%급등",
   "[8월28일고용24채용정보]KT·한화생명보험·한미정밀화학·현대캐터...",
-  "[기획]지스타얼굴된'크랙'…영토확장선언속'잡음'넘어설까"
+  "[기획]지스타얼굴된'크랙'…영토확장선언속'잡음'넘어설까",
+  "농심집으로보낸BNK,한진과PO진출맞대결",
+  "삼성전자,'게임스컴2026'서세계최초1100㎐게이밍모니터등신제품...",
+  "[오늘일본은]홋카이도에선상강수대…시간당90㎜폭우,곳곳침수·산...",
+  "원·달러환율,오전9시1380.9원",
+  "SKT,'보안올스타팀'결성…국산AI로사이버보안주권강화",
+  "KT·부산교육청·언론재단맞손…예술중학생AI윤리교육",
+  "[개장시황]'엔비디아훈풍'하루만에꺾이나…코스피0.7%하락출발",
+  "LG유플러스,디지털고객경험지수이동통신부문1위…3년연속",
+  "KT,협력중소벤처와'테크소스글로벌서밋2026'참가…동남아판로개...",
+  "엔비디아급등에도코스피는뒷걸음…반도체약세에6800선"
  ],
  "recent_sigs": [
   [
@@ -6611,9 +6611,21 @@
   [
    "2026-08-28T09:20:21.966994+09:00",
    "잡음 넘어설까 지스타 확장 선언 영토 크랙 얼굴"
+  ],
+  [
+   "2026-08-28T09:22:13.695576+09:00",
+   "이동통신 1위 디지털고객경험지수 3년 LG유플러스 연속 ~LGU 부문"
+  ],
+  [
+   "2026-08-28T09:22:13.695576+09:00",
+   "테크소스 판로개 참가 서밋 중소벤처와 동남아 협력 글로벌 ~KT"
+  ],
+  [
+   "2026-08-28T09:22:13.695576+09:00",
+   "뒷걸음 급등에도 약세에 6800선 반도체 코스피는"
   ]
  ],
- "last_run": "2026-08-28T09:20:45.486480+09:00",
+ "last_run": "2026-08-28T09:22:42.877304+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
