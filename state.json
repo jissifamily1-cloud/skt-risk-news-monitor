@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260827_0003766052",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275674",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432274",
-  "https://www.sentv.co.kr/article/view/sentv202608270224",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696071",
-  "https://www.sportsseoul.com/news/read/1631329",
-  "https://www.knnews.co.kr/news/articleView.php?idxno=1549541",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=741413",
   "https://www.polinews.co.kr/news/articleView.html?idxno=741404",
   "https://www.polinews.co.kr/news/articleView.html?idxno=741406",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52369",
@@ -2999,17 +2991,17 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3677710",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214093",
   "https://www.ytn.co.kr/_ln/0101_202608281339018765",
-  "https://www.tokenpost.kr/news/breaking/399546"
+  "https://www.tokenpost.kr/news/breaking/399546",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695328",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215485",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362353",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722100",
+  "https://www.g-enews.com/view.php?ud=202608281319022484923c501012_1",
+  "https://www.thelec.kr/news/articleView.html?idxno=61485",
+  "https://www.wikitree.co.kr/articles/1155630",
+  "https://www.mt.co.kr/world/2026/08/28/2026082810065082258"
  ],
  "seen_titles": [
-  "SKB,AIDC·해저케이블사업떼어낸다…‘SK호라이즌’신설",
-  "'독파모라이벌'SKT·업스테이지한배탔다⋯이번엔'보안AI'",
-  "네이버클라우드·LGCNS'소버린보안AI'맞손⋯33곳연합군꾸렸다",
-  "[위클리_피지컬AI]전세계인의영상데이터로로봇학습시도하는피규...",
-  "방미통위,AI불법·유해정보대응강화…민관협의회개최",
-  "SKT,AIDC전문'SK호라이즌'세운다",
-  "'ERA9.28'KIA인내심어디까지,국내1선발급이었는데…\"다음까지는던...",
-  "[올댓차이나]대만증시,엔비디아실적호조에사흘째상승마감…0.31%...",
   "ActivistFundOfferstoBuySamsung'sS-1Stakefor906.6BillionWon",
   "[亞증시-종합]반도체훈풍에도잭슨홀경계에혼조",
   "네이버음원플랫폼‘바이브’,연말서비스종료…8년만",
@@ -6001,13 +5993,17 @@
   "함안군,8월이장협의회개최…차석호군수첫참석,협력강화다짐",
   "서치독,중기부'팁스'선정···산업AI글로벌진출박차",
   "국회산자위,'메가특구'이재용·최태원청문회추진",
-  "미법원,앤스로픽공급망위험지정무효판결"
+  "미법원,앤스로픽공급망위험지정무효판결",
+  "샘알트먼도이메일은직접정리…AI도입의심리적장벽",
+  "이란전와중'방산주'사고판트럼프…6월에만1,051회거래",
+  "'MadeinUS'HBM만드는하이닉스韓반도체산업엔득일까실일까",
+  "\"46조더산다\"…삼성·하이닉스자사주가떠받치는코스피",
+  "코스피,美관세노이즈에1%대하락…6800선사수'안간힘'",
+  "SKT·카카오·KT,'모두의AI'사업자로선정...국민AI서비스시동",
+  "국민의힘,이재용·최태원회장증인으로불러청문회개최추진",
+  "엔비디아,AI클라우드수익공유파트너십잠정중단"
  ],
  "recent_sigs": [
-  [
-   "2026-08-28T07:42:13.881497+09:00",
-   "P500 다우존스 실적에 AI주 다시 뉴욕증시 달렸다 미국"
-  ],
   [
    "2026-08-28T07:44:16.470037+09:00",
    "코스피 시도 탈환 7000선 급등"
@@ -6899,9 +6895,13 @@
   [
    "2026-08-28T13:42:13.715381+09:00",
    "법원 판결 위험 공급망 지정 무효"
+  ],
+  [
+   "2026-08-28T13:44:15.004983+09:00",
+   "파트너십 중단 공유 잠정 수익 클라우드"
   ]
  ],
- "last_run": "2026-08-28T13:42:31.502529+09:00",
+ "last_run": "2026-08-28T13:44:39.095637+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
