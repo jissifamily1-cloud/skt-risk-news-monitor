@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260828052437uut",
-  "https://www.tokenpost.kr/news/ai/399274",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608271453089530607",
-  "https://www.mediapen.com/news/view/1119450",
-  "https://www.nocutnews.co.kr/news/6569481",
-  "https://www.yna.co.kr/view/AKR20260827025552071?input=1195m",
-  "https://biz.sbs.co.kr/article_hub/20000331254?division=NAVER",
-  "https://www.chosun.com/economy/startup_story/2026/08/28/PTGBJLBZNBFNPHJOIBDCVDMC4I/",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170584",
-  "https://www.donga.com/news/Economy/article/all/20260828/134560337/2",
   "https://www.yna.co.kr/view/AKR20260828004600071?input=1195m",
   "https://www.kbmaeil.com/article/20260828500016",
   "https://www.g-enews.com/view.php?ud=2026082719512222942bd56fbc3c_1",
@@ -2999,19 +2989,19 @@
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260826.99099007564",
   "https://www.donga.com/news/Economy/article/all/20260828/134564154/1",
   "https://www.news1.kr/politics/assembly/6272888",
-  "https://www.etoday.co.kr/news/view/2619450"
+  "https://www.etoday.co.kr/news/view/2619450",
+  "https://www.catchnews.kr/news/articleView.html?idxno=127875",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260828010009931",
+  "https://www.sportschosun.com/baseball/2026-08-28/202608280100171160011026",
+  "https://www.newsis.com/view/NISX20260828_0003767200",
+  "https://www.hankookilbo.com/news/article/A2026082815170000451?did=NA",
+  "https://www.seoulfn.com/news/articleView.html?idxno=636744",
+  "http://www.lawleader.co.kr/news/articleView.html?idxno=19822",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=207361",
+  "https://biz.sbs.co.kr/article_hub/20000331443?division=NAVER",
+  "https://www.edaily.co.kr/News/Read?newsId=04162326645551912&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "알트먼,미의회·백악관연쇄방문...'통제벗어난AI에이전트'규제...",
-  "샘알트먼\"AI시대에도주4일제없다…우린더바빠질것\"",
-  "[AI는지금]美의회간샘알트먼,'통제불능AI'규제방안찾을까",
-  "[여기는논설실]금리연속인상에도시장은웃었다…신현송의‘도비시...",
-  "\"TSMC보다먼저간다\"…대만파워텍,2027년'세계최초AI칩용패널레...",
-  "SK하이닉스,美HBM생산거점기공식…\"年수십만장만들것\"",
-  "[비즈인사이트]SK하이닉스,美인디애나에첫HBM생산기지착공…202...",
-  "뉴욕증시,기술주랠리에상승…나스닥1.57%↑",
-  "헤지펀드AI롱7월손실,반도체쏠림꺾였다",
-  "현대차‘데이터플라이휠’로자율주행기술격차넘는다",
   "[美증시]세일즈포스·크라우드스트라이크'어닝서프'에폭등…소프트웨...",
   "SK하이닉스,'메이드인USA'HBM연간수십만장씩생산한다",
   "SK하이닉스,美인디애나팹착공…年수십만장7세대HBM생산(종합2보)",
@@ -6001,7 +5991,17 @@
   "동서대,2026년과기정통부‘정보보호특성화대학’선정",
   "SK그룹,폭우피해남부지방에20억기탁…계열사구호물품·통신지원총...",
   "산자위野,'호남반도체투자'이재용·최태원청문회추진",
-  "카카오\"LG유플러스등14곳과‘모두의AI’서비스구현\""
+  "카카오\"LG유플러스등14곳과‘모두의AI’서비스구현\"",
+  "컴투스제우스:오만의신\"통신3사로결제시'최대10%'청구할인\"",
+  "황재균“박상원이만들어준‘일루황’”…유튜브초대예고",
+  "대구우천취소?'정상결전'앞둔국민유격수는더멀리본다\"상대외인...",
+  "[2026뉴시스한류엑스포]QWER서울관광재단상\"K-밴드매력알릴게요\"",
+  "'7000피'앞두고숨고르는코스피…자사주'안전판'에잭슨홀촉각",
+  "美반도체관세·잭슨홀미팅에코스피6800아래로",
+  "SK그룹사회적책임,집중호우피해복구성금20억지원",
+  "SK그룹,남부권집중호우피해복구에성금20억원지원",
+  "[증시인사이트]엔비디아효과없던코스피…7천선회복은아직멀었나",
+  "0SK그룹,반도체호조에신용위험완화…석화·배터리부담은여전"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,17 @@
   [
    "2026-08-28T16:46:15.865656+09:00",
    "통신 구호물품 지원총 계열사 20억 SK그룹 기탁 남부지방에 폭우피해"
+  ],
+  [
+   "2026-08-28T16:48:13.388540+09:00",
+   "완화 반도체 배터리 신용위험 0SK그룹 석화 여전 호조에 부담은"
+  ],
+  [
+   "2026-08-28T16:48:13.388540+09:00",
+   "코스피 회복은 효과 아직멀었나 없던 7천선"
   ]
  ],
- "last_run": "2026-08-28T16:46:36.963642+09:00",
+ "last_run": "2026-08-28T16:48:39.876095+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
