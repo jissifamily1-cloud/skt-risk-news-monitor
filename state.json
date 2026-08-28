@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=187159",
-  "https://www.mk.co.kr/article/12137832",
-  "https://www.etnews.com/20260827000348",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90746",
-  "https://www.mediapen.com/news/view/1119379",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008725267&plink=ORI&cooper=NAVER",
-  "https://www.newspim.com/news/view/20260827001052",
-  "https://www.newsis.com/view/NISX20260827_0003765709",
-  "https://economist.co.kr/article/view/ecn202608270043",
   "https://www.ajunews.com/view/20260827160419327",
   "https://kpenews.com/View.aspx?No=4202018",
   "http://www.newslock.co.kr/news/articleView.html?idxno=134914",
@@ -2999,18 +2990,18 @@
   "https://www.koit.co.kr/news/articleView.html?idxno=208711",
   "http://www.newsdream.kr/news/articleView.html?idxno=117064",
   "http://www.newsian.co.kr/news/articleView.html?idxno=94385",
-  "https://www.newspim.com/news/view/20260828000318"
+  "https://www.newspim.com/news/view/20260828000318",
+  "https://www.asiatime.co.kr/article/20260827500326",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94381",
+  "https://biz.chosun.com/it-science/ict/2026/08/28/RG7YAJC4RRC2RPLCXK4Y3RQV2U/",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860285",
+  "https://www.news2day.co.kr/article/20260828500079",
+  "https://www.mt.co.kr/tech/2026/08/28/2026082810035724621",
+  "https://www.imaeil.com/page/view/2026082810005335132",
+  "http://coinreaders.com/255329",
+  "http://enews.imbc.com/News/RetrieveNewsInfo/516189"
  ],
  "seen_titles": [
-  "독파모2차탈락한모티프이의신청…정부“규정에따라검토”",
-  "\"개발자만AI쓰나요\"…통신3사,신입채용도'AI능력'본다",
-  "[마감시황]코스피,엔비디아훈풍힘입어1%대상승",
-  "엔비디아,실적·인수·공급계약3중신호…수요확산과투자부담동시...",
-  "\"AI구독료결제,카드혜택빵빵\"요금최대절반할인에캐시백도",
-  "엔비디아매출뛰자,코스피도상승세…7000재돌파'코앞'",
-  "[산업브리핑]현대차그룹·한성자동차·KG모빌리티",
-  "코스피1.53%올라6900선회복…코스닥도상승",
-  "삼전·닉스,급등후상승폭축소…1∼2%대상승마감",
   "[ETF시황]AI전력·ESS투자기대…전력·2차전지ETF강세",
   "기준금리인상에도'뚝심'코스피…6900선탈환상승마감",
   "메인라인,‘AIFuze’사용인증이벤트…3주간이용자참여확대",
@@ -6001,7 +5992,16 @@
   "독파모2차평가상세점수공개…SKT1위",
   "SKT,정부'모두의AI'사업자선정…전국민AI비서만든다",
   "엔비디아날았는데반도체주뒷걸음…코스피하락출발",
-  "[미국특징주]앤스로픽,70억달러에MatX인수추진했다가철회…\"자체..."
+  "[미국특징주]앤스로픽,70억달러에MatX인수추진했다가철회…\"자체...",
+  "정부-이통3사,AI시대'차세대통신망'민관협의체발족",
+  "[2026프로야구삼진과홈런사이]kt-삼성0.5경기차초접전…'22세신...",
+  "세일즈포스,앤트로픽과CRM·클로드결합한‘클로드포스’발표",
+  "덱스터,AI자유시점미디어기술개발주관",
+  "SKT·카카오·KT,'모두의AI'맡는다…연내국민체감형서비스출격",
+  "AI로취업준비·가계관리까지…SKT,연내모두의AI선보인다",
+  "'모두의AI'누가만드나…SKT·카카오·KT3곳최종선정",
+  "엔비디아(NVDA),실적발표후4연속하락악몽탈출...성장우려어떻게...",
+  "젠슨황,세명의귀인누구?…'서프라이즈미스터리살롱'반전스토리..."
  ],
  "recent_sigs": [
   [
@@ -6763,9 +6763,13 @@
   [
    "2026-08-28T10:12:14.575564+09:00",
    "추진했다가 MatX 70억달러에 철회 자체 인수"
+  ],
+  [
+   "2026-08-28T10:14:13.363084+09:00",
+   "서프라이즈 반전 스토리 젠슨 미스터리 누구 살롱 귀인 명의"
   ]
  ],
- "last_run": "2026-08-28T10:12:35.339986+09:00",
+ "last_run": "2026-08-28T10:14:34.397655+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
