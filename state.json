@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2619247",
-  "https://www.viva100.com/article/20260828500164",
-  "https://www.kizmom.com/news/articleView.html?idxno=112387",
-  "https://www.sedaily.com/article/20084320",
-  "https://www.sedaily.com/article/20084314",
-  "https://byline.network/?p=9004111222617090",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260828.99099008255",
-  "https://www.slist.kr/news/articleView.html?idxno=762000",
-  "https://www.dailian.co.kr/news/view/1683472/?sc=Naver",
-  "https://www.socialvalue.kr/news/view/1065573790083301",
-  "https://www.ddaily.co.kr/page/view/2026082809524291570",
-  "https://www.sedaily.com/article/20084317",
   "https://www.monews.co.kr/news/articleView.html?idxno=413505",
   "https://www.news1.kr/it-science/cc-newmedia/6272346",
   "https://www.dailian.co.kr/news/view/1683254/?sc=Naver",
@@ -2999,21 +2987,21 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=272718",
   "https://www.lecturernews.com/news/articleView.html?idxno=209549",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34592",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169032"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169032",
+  "https://economist.co.kr/article/view/ecn202608260056",
+  "https://www.newsis.com/view/NISX20260828_0003767607",
+  "https://www.sedaily.com/article/20084646",
+  "https://www.electimes.com/news/articleView.html?idxno=371674",
+  "https://www.news1.kr/industry/general-industry/6273188",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290722",
+  "https://www.ekn.kr/web/view.php?key=20260828021186731",
+  "https://www.btnnews.tv/news/articleView.html?idxno=91420",
+  "https://www.aitimes.com/news/articleView.html?idxno=214542",
+  "https://www.sedaily.com/article/20084665",
+  "https://www.dailian.co.kr/news/view/1683859/?sc=Naver",
+  "https://www.mk.co.kr/article/12139096"
  ],
  "seen_titles": [
-  "[테크스냅]토스,우리금융저축은행과개인사업자신용대출",
-  "범죄악용번호24시간내막는다...이용중지시스템개편",
-  "중앙전파관리소,대포폰잡는속도'3일→1일'단축",
-  "보이스피싱악용전화번호,하루안에끊는다",
-  "AI가대출금리깎아준다…뱅크샐러드“연이자930만원절감”",
-  "SK하이닉스'ICE·TSMC협력'vs삼성'원스톱·빛'…패키징격돌",
-  "포스코창사58년만에파업?기로에선교섭",
-  "트래브픽클럽뷰티팝업'퓨리영',사전예약오픈3일만에전회차마...",
-  "쏘카·에이펙스모빌리티,자율주행3단계로드맵공개⋯레벨3수준카셰...",
-  "두나무·비자손잡았다…스테이블코인결제·글로벌송금추진",
-  "한은,기준금리3%로인상…성장률3.3%로대폭상향",
-  "한은,기준금리3%로인상…증시유동성압박본격화",
   "서치독,중기부팁스선정",
   "'모두의AI'수행기관에SKT·카카오·KT선정…베타거쳐연내정식서...",
   "SKT·카카오·KT,모두의AI구축사업자최종선정...B200GPU512장지원",
@@ -6001,7 +5989,19 @@
   "뉴욕증시,케빈워시'매파발언'에타격…나스닥0.52%↓",
   "미국뉴욕증시,케빈워시원준의장의'매파'발언에다우존스·S&P500·...",
   "[기고]보안사고는모두같은사고가아니다",
-  "통신사위협하는포털·쇼핑사OTT제휴상품"
+  "통신사위협하는포털·쇼핑사OTT제휴상품",
+  "정부표공짜AI…국민선택받으려면[AI주권의미래는]②",
+  "가장중요할때사라진송승기…'2년차징크스'가LG흔든다",
+  "삼전닉스자사주10兆매수,코스피하방떠받친다[코주부]",
+  "현대차,지역별맞춤전략으로2030년영업이익률목표9%위로…자율주...",
+  "'AI투자'지속확인…삼성전기2조·LG이노텍1조영업익순항",
+  "[다음주환율전망]1370원대까지내려온원·달러…美고용지표에방향...",
+  "[청년공감]“코딩하나도모르는데웹사이트를?”…문과생의‘노코드...",
+  "AI시대,불교의방향과역할은..〈불교평론〉창간27주년학술심포지...",
+  "[8월29일]엔비디아는왜허깅페이스를인수할까…\"오픈모델다운에서...",
+  "“딥시크·알리바바다우리고객”중국과밀착하는엔비디아",
+  "이재용,李대통령과한달만에또만찬...네팔총력구조박정원[재계...",
+  "매경이전하는세상의지식(매-세-지,8월29일)"
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,25 @@
   [
    "2026-08-29T07:00:34.719515+09:00",
    "상품 위협하는 OTT 쇼핑사 제휴 포털"
+  ],
+  [
+   "2026-08-29T07:02:15.873444+09:00",
+   "구조 만찬 총력 만에 박정원 이재용 네팔 대통령과 재계"
+  ],
+  [
+   "2026-08-29T07:02:15.873444+09:00",
+   "세상의 8월 매경이 29일 전하는 지식"
+  ],
+  [
+   "2026-08-29T07:02:15.873444+09:00",
+   "알리바바 고객 중국과 딥시크 밀착하는 우리"
+  ],
+  [
+   "2026-08-29T07:02:15.873444+09:00",
+   "인수할까 모델 엔비디아는 오픈 다운에서 허깅페이스를"
   ]
  ],
- "last_run": "2026-08-29T07:00:57.380828+09:00",
+ "last_run": "2026-08-29T07:02:42.001821+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
