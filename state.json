@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202608200711035284",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005904324",
-  "https://biz.heraldcorp.com/article/10845974",
-  "https://www.dt.co.kr/article/12079112",
-  "https://www.edaily.co.kr/news/newspath.asp?newsid=01610486645549288",
-  "https://www.khan.co.kr/article/202608192041005",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608190785&t=NN",
   "https://www.mt.co.kr/tech/2026/08/19/2026081915030844854",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423160",
   "https://biz.sbs.co.kr/article_hub/20000329513?division=NAVER",
@@ -2999,16 +2992,16 @@
   "https://www.nongmin.com/article/20260828500197",
   "https://www.thedailypost.kr/news/articleView.html?idxno=115204",
   "http://www.popcornnews.net/news/articleView.html?idxno=131132",
-  "https://biz.chosun.com/it-science/ict/2026/08/28/VSIVUNSXSRCZDAIDBUQYODXS4I/"
+  "https://biz.chosun.com/it-science/ict/2026/08/28/VSIVUNSXSRCZDAIDBUQYODXS4I/",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=309969",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275767",
+  "https://zdnet.co.kr/view/?no=20260828161934",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432424",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=364392",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=309976",
+  "https://www.newspim.com/news/view/20260828000897"
  ],
  "seen_titles": [
-  "오픈AI,상장내년으로늦추나?…CFO\"앤트로픽보다늦어도괜찮아\"",
-  "오픈AICFO\"내년에상장할것…앤트로픽보다늦어도괜찮아\"",
-  "오픈AI내년IPO추진…새러프라이어CFO\"상장회사가될것\"",
-  "오픈AICFO“내년IPO추진…앤트로픽보다늦어도문제없어”",
-  "세계적민폐,40조달러돌파한미국정부부채:슬로우레터8월20일.",
-  "오픈AICFO“상장서두르지않는다…앤트로픽보다늦어도괜찮아”",
-  "“내년에상장사된다”…오픈AICFO가밝힌IPO계획",
   "오픈AI\"내년에상장...앤트로픽보다늦어도괜찮아\"",
   "오픈AICFO\"내년에상장추진…앤트로픽보다늦어도괜찮아\"",
   "오픈AI,내년상장추진…“앤트로픽보다늦어도괜찮아”",
@@ -6001,7 +5994,14 @@
   "연내‘전국민무료AI시대’열린다…‘모두의AI’에카카오·SKT·KT...",
   "SKT,과기정통부'모두의AI'사업자선정…대국민AI비서선보인다",
   "KT,부산예술중학생대상체험형AI역량·윤리교육진행해",
-  "‘K-엔비디아’키운다며정책자금3000억넣었는데…리벨리온,엔비디..."
+  "‘K-엔비디아’키운다며정책자금3000억넣었는데…리벨리온,엔비디...",
+  "LG,남부지역집중호우피해복구에10억원기부",
+  "LG,남부지역수해복구에10억원기탁",
+  "[모두의AI]이스트소프트,선정불발…\"설치형AI에이전트개발지속\"",
+  "[증시-마감]삼전닉스에발목잡힌코스피…1.8%내린6,700마감",
+  "'모두의AI'사업에SKT·카카오·KT선정…연내서비스출시",
+  "SK그룹,남부집중호우피해복구에성금20억원…계열사도구호지원",
+  "[ETF특징주]엔비디아폭등에2배레버리지NVDL·NVDX'날개'"
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,17 @@
   [
    "2026-08-28T16:22:13.982946+09:00",
    "엔비디 넣었는데 리벨리온 키운다며 정책자금 3000억"
+  ],
+  [
+   "2026-08-28T16:24:15.221968+09:00",
+   "설치형 선정 불발 이스트소프트 지속 에이전트 개발"
+  ],
+  [
+   "2026-08-28T16:24:15.221968+09:00",
+   "레버리지 NVDX 폭등에 2배 날개 NVDL"
   ]
  ],
- "last_run": "2026-08-28T16:22:41.398656+09:00",
+ "last_run": "2026-08-28T16:24:35.701943+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
