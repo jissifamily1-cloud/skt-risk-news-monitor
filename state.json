@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/1999196",
-  "https://www.sedaily.com/article/20084316",
   "https://www.etoday.co.kr/news/view/2619247",
   "https://www.viva100.com/article/20260828500164",
   "https://www.kizmom.com/news/articleView.html?idxno=112387",
@@ -2999,11 +2997,11 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=94435",
   "https://www.abcn.kr/news/articleView.html?idxno=91062",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=272718",
-  "https://www.lecturernews.com/news/articleView.html?idxno=209549"
+  "https://www.lecturernews.com/news/articleView.html?idxno=209549",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34592",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169032"
  ],
  "seen_titles": [
-  "[신간]AI향미설계부터대체육까지…식품산업미래여는'미각해킹'",
-  "AI시대필수인프라'클라우드'…대형IT서비스부터보안주까지뭉칫...",
   "[테크스냅]토스,우리금융저축은행과개인사업자신용대출",
   "범죄악용번호24시간내막는다...이용중지시스템개편",
   "중앙전파관리소,대포폰잡는속도'3일→1일'단축",
@@ -6001,7 +5999,9 @@
   "뉴욕증시일제히약세…워시매파발언에반도체주'휘청'",
   "8명의PR전문가가말하는로컬의미래",
   "뉴욕증시,케빈워시'매파발언'에타격…나스닥0.52%↓",
-  "미국뉴욕증시,케빈워시원준의장의'매파'발언에다우존스·S&P500·..."
+  "미국뉴욕증시,케빈워시원준의장의'매파'발언에다우존스·S&P500·...",
+  "[기고]보안사고는모두같은사고가아니다",
+  "통신사위협하는포털·쇼핑사OTT제휴상품"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,13 @@
   [
    "2026-08-29T06:32:15.432907+09:00",
    "황대일 불문 불출석 질타 연합뉴스 사장 여야"
+  ],
+  [
+   "2026-08-29T07:00:34.719515+09:00",
+   "상품 위협하는 OTT 쇼핑사 제휴 포털"
   ]
  ],
- "last_run": "2026-08-29T06:58:34.255256+09:00",
+ "last_run": "2026-08-29T07:00:57.380828+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
