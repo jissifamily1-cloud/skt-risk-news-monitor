@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1683250/?sc=Naver",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5055640",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4952498",
-  "https://www.viva100.com/article/20260827501033",
-  "https://biz.sbs.co.kr/article_hub/20000331123?division=NAVER",
-  "https://www.todayeconomic.com/news/article.html?no=31893",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647809",
-  "https://biz.heraldcorp.com/article/10854434",
-  "https://www.hankookilbo.com/news/article/A2026082710030000849?did=NA",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1721962",
   "https://www.catchnews.kr/news/articleView.html?idxno=127820",
   "https://www.boannews.com/news/articleView.html?idxno=145499",
@@ -2999,17 +2990,18 @@
   "https://www.sentv.co.kr/article/view/sentv202608280043",
   "https://www.betanews.net/article/view/beta202608280019",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000060328",
-  "https://www.news1.kr/it-science/cc-newmedia/6272304"
+  "https://www.news1.kr/it-science/cc-newmedia/6272304",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=201091",
+  "https://www.boannews.com/news/articleView.html?idxno=145442",
+  "http://www.kdfnews.com/news/articleView.html?idxno=187187",
+  "https://www.hankyung.com/article/2026082887437",
+  "https://biz.chosun.com/it-science/ict/2026/08/28/CAXE3HLMPBCXXDSGONPDSA7DXY/",
+  "https://biz.newdaily.co.kr/site/data/html/2026/08/28/2026082800053.html",
+  "https://news.mtn.co.kr/news-detail/2026082809293287753",
+  "https://www.ddaily.co.kr/page/view/2026082809370597422",
+  "https://www.yna.co.kr/view/AKR20260828048300017?input=1195m"
  ],
  "seen_titles": [
-  "“사용성보다기반성능중심평가돼야”···모티프,‘독파모’탈락...",
-  "‘창립50주년’에쓰오일,주유소대표들과야구장찾아",
-  "한화,서울세계불꽃축제9월5일개최…한·미·영불꽃팀총출동",
-  "한화,9월5일'서울세계불꽃축제'개최",
-  "한화서울세계불꽃축제,내달5일여의도서개최",
-  "[셀럽의한수]원화강세어디로향하나'외인유입VS삼전닉스부진...",
-  "SKT·업스테이지손잡고'보안특화AI'개발…국내보안기업9곳총출동",
-  "독파모5개팀AI학습데이터공개…“누구나이용가능”",
   "엔비디아,오픈소스유통플랫폼‘허깅페이스’18조원에인수",
   "GPU도부족하고메모리도부족하다...엔비디아실적에메모리전망도초...",
   "엔비디아\"내년매출70%급증예상\"…마진율은소폭내려최대73%",
@@ -6001,7 +5993,15 @@
   "KT,부산교육청·언론재단과예술인대상AI활용·윤리교육실시",
   "매출1.5억달러회사에129억달러…엔비디아가허깅페이스를원하는이...",
   "엔비디아훈풍어디갔나…삼성전자·SK하이닉스동반약세",
-  "'모두의AI'올라탄KT…다음·지니TV로AI접점넓힌다"
+  "'모두의AI'올라탄KT…다음·지니TV로AI접점넓힌다",
+  "[통신레이더]LG유플러스·SK텔레콤,AI고도화로디지털고객경험·사...",
+  "[2026SOAR솔루션리포트]탐지에서대응으로,K-보안과만나성장하는...",
+  "두나무∙비자,스테이블코인결제∙송금협력…구체서비스는검토단계",
+  "[속보]정부'모두의AI'사업자로SKT·카카오·KT선정",
+  "SKT·카카오·KT,‘모두의AI’사업자로선정",
+  "정부,‘모두의AI’사업자SKT·카카오·KT3곳선정…연내국민서...",
+  "SKT·카카오·KT,'모두의AI'사업자로…연내전국민무료서비스",
+  "SKT·카카오·KT,‘모두의AI’사업자선정…연내대국민서비스"
  ],
  "recent_sigs": [
   [
@@ -6689,7 +6689,7 @@
    "129억달러 엔비디아가 허깅페이스를 원하는 회사에 5억달러 매출"
   ]
  ],
- "last_run": "2026-08-28T09:46:40.111305+09:00",
+ "last_run": "2026-08-28T09:48:36.358821+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
