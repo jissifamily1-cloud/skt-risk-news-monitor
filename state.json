@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20081970",
-  "https://www.sedaily.com/article/20081969",
-  "https://biz.sbs.co.kr/article_hub/20000330081?division=NAVER",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=858516",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=317892",
   "https://www.newsis.com/view/NISX20260820_0003756547",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000331386?division=NAVER",
   "http://www.yonhapnewstv.co.kr/news/MYH20260828183354YU7",
   "http://www.srtimes.kr/news/articleView.html?idxno=211125",
-  "https://www.news1.kr/it-science/cc-newmedia/6273171"
+  "https://www.news1.kr/it-science/cc-newmedia/6273171",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336758",
+  "https://www.koreajoongangdaily.com/business/sk-telecom-kakao-and-kt-chosen-for-public-ai-service-project/12849094",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=336757"
  ],
  "seen_titles": [
-  "금융위등행정기관지방이전안건,다음주국무회의상정전망",
-  "금융위등중앙행정기관2차이전안,25일국무회의오른다",
-  "공공기관이전다음주국무회의심의가능성…금융당국반발고조",
   "25일지방이전심의전망…공공기관노조반발고조",
   "금융위이전이르면25일국무회의심의..불붙는공공기관2차이전",
   "“해킹의혹만으로위약금면제?”…LGU+제재정당성논란",
@@ -6001,7 +5998,10 @@
   "쿠팡에6,246억과징금부과한개보위…\"행정소송제기시적응대응할...",
   "엔비디아훈풍무색…코스피1.79%하락",
   "SK그룹,거제·통영등남부수해지역에성금20억지원",
-  "사추위구성안한YTN·연합뉴스TV…승인기간3개월깎였다"
+  "사추위구성안한YTN·연합뉴스TV…승인기간3개월깎였다",
+  "방송법위반한YTN·연합뉴스TV,승인유효기간3개월단축",
+  "SKTelecom,KakaoandKTchosenforpublicAIserviceproject",
+  "사업보류논란지역신문발전위원회,회의록조차비공개"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,17 @@
   [
    "2026-08-28T18:34:14.877842+09:00",
    "대응할 쿠팡에 행정소송 부과한 적응 246억 과징금 제기"
+  ],
+  [
+   "2026-08-28T18:40:26.127406+09:00",
+   "and ~KT service Telecom project Kakao for public SK chosen"
+  ],
+  [
+   "2026-08-28T18:40:26.127406+09:00",
+   "지역신문발전위원회 비공개 회의록조차 논란 보류 사업"
   ]
  ],
- "last_run": "2026-08-28T18:38:32.951697+09:00",
+ "last_run": "2026-08-28T18:40:46.749176+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
