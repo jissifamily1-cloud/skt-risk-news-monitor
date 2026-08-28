@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/166261",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203130",
-  "https://www.busan.com/view/busan/view.php?code=2026073013595694397",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89317",
-  "https://www.dt.co.kr/article/12075673",
-  "https://www.klnews.co.kr/news/articleView.html?idxno=322137",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=104847",
   "http://www.datanews.co.kr/news/article.html?no=145823",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=85037",
@@ -2999,15 +2993,15 @@
   "https://www.donga.com/news/Economy/article/all/20260828/134562955/1",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391534",
   "https://www.tokenpost.kr/news/ai/399676",
-  "https://weekly.donga.com/3/all/11/6364930/1"
+  "https://weekly.donga.com/3/all/11/6364930/1",
+  "https://www.aitimes.com/news/articleView.html?idxno=214572",
+  "https://www.mk.co.kr/article/12139001",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=851939",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169077",
+  "https://www.ceoscoredaily.com/page/view/2026082816074074659",
+  "https://it.donga.com/109430/"
  ],
  "seen_titles": [
-  "삼성SDS,2031년까지AI인프라800MW이상으로확대",
-  "“AI,해킹명령5317개실행…멕시코정부기관9곳피해”",
-  "삼성SDS,2분기영업익2318억원…클라우드·AI서비스성과확대",
-  "'키미K3'의출사표…시장은절반만읽었다[기고]",
-  "[컨콜]삼성SDS\"AI인프라800MW장기구축…글로벌기업도고객으로확...",
-  "삼성SDS,상반기영업익전년比37.8%감소",
   "삼성SDS,2분기매출3조7178억원…클라우드·물류동반성장",
   "삼성SDS,2분기영업익2318억…클라우드·AI가실적견인",
   "2분기웃은삼성SDS·LGCNS,하반기더달린다",
@@ -6001,33 +5995,15 @@
   "문경사과케이크-제주녹차파운드…‘K푸드’잠재력엿본다",
   "'삼전·닉스'동반급락에발목…코스피1.79%하락마감",
   "포항20MW임차,NHN클라우드가확약했다",
-  "외국인,주주환원재료소멸SK하이닉스·삼성전자8조순매도"
+  "외국인,주주환원재료소멸SK하이닉스·삼성전자8조순매도",
+  "\"AI양자화정확하고안전하게\"...옵트에이아이,EMNLP논문2편채택",
+  "삼성·SK·LG…수해지역온정보탰다",
+  "LG,집중호우피해성금10억기부…긴급구호물품도지원",
+  "삼전닉스급락에코스피1.8%하락…다시6700선",
+  "전국민이AI활용‘3사3색’…SKT‘행동형’·KT‘플랫폼’·카카오...",
+  "[크립토퀵서치]글로벌기업최초로VASP신고수리,비트고란?"
  ],
  "recent_sigs": [
-  [
-   "2026-08-28T11:22:13.686943+09:00",
-   "외국인 5800억 던졌다 삼전닉스는 뛰었는데"
-  ],
-  [
-   "2026-08-28T11:22:13.686943+09:00",
-   "이주민돕기 공동캠페인 조계사 일일시호일"
-  ],
-  [
-   "2026-08-28T11:22:13.686943+09:00",
-   "회장 메모하는"
-  ],
-  [
-   "2026-08-28T11:22:13.686943+09:00",
-   "규제합리화 간담회서 박수치는 경제단체장들"
-  ],
-  [
-   "2026-08-28T11:22:13.686943+09:00",
-   "재현 연승 나란히 브레이커 쫄깃한 ~KT 5년 삼성 승부 타이 2위"
-  ],
-  [
-   "2026-08-28T11:22:13.686943+09:00",
-   "피크아웃 믿음의 삭제 우려"
-  ],
   [
    "2026-08-28T11:24:14.976495+09:00",
    "부산예술중 딥페이크 판별까지 ~KT 체험 학생들과"
@@ -6623,9 +6599,17 @@
   [
    "2026-08-28T17:16:14.283997+09:00",
    "식품 수해복구에 유통 5대 업계서도 경북 기부 100억 경남"
+  ],
+  [
+   "2026-08-28T17:22:17.654368+09:00",
+   "~KT 카카오 국민이 활용 3사3색 행동형 플랫폼 ~SKT"
+  ],
+  [
+   "2026-08-28T17:22:17.654368+09:00",
+   "비트고란 글로벌 VASP 수리 기업 최초로 신고"
   ]
  ],
- "last_run": "2026-08-28T17:20:42.879145+09:00",
+ "last_run": "2026-08-28T17:22:38.465081+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
