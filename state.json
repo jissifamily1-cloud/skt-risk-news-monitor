@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12314503?influxDiv=NAVER",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=357769",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214015",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546367",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260821191624X85",
-  "https://news.jtbc.co.kr/article/NB12314477?influxDiv=NAVER",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546333",
   "https://www.yna.co.kr/view/AKR20260821150800011?input=1195m",
   "https://biz.sbs.co.kr/article_hub/20000330134?division=NAVER",
@@ -2999,16 +2992,16 @@
   "https://www.tokenpost.kr/news/breaking/399587",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=317157",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=60394",
-  "https://www.asiatime.co.kr/article/20260828500281"
+  "https://www.asiatime.co.kr/article/20260828500281",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260828150824NDy",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=135001",
+  "https://www.news1.kr/economy/trend/6272689",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407301",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1400422",
+  "https://www.eroun.net/news/articleView.html?idxno=88663",
+  "https://www.chosun.com/economy/tech_it/2026/08/28/GDOFO6WHBNBYVNS4353GDEGYOI/"
  ],
  "seen_titles": [
-  "檢,'노태우비자금의혹'압수수색…'세기의이혼'여파",
-  "[단독]‘노태우비자금’압수수색…장남재단‘세탁통로’의심",
-  "부메랑된'300억'메모…이혼이소환한'비자금'",
-  "‘300억비자금’30년미스터리,검찰수사로풀리나",
-  "'노태우비자금'강제수사착수...실제환수가능할까?[뉴스퀘어8PM]",
-  "무성했던추가비자금의혹‥강제환수길열리나",
-  "이혼과정서실토된‘노태우비자금’수사착수…30여년만에봉인풀...",
   "노소영이꺼낸'300억메모'부메랑…재산몰수가능성",
   "노태우일가비자금·조세포탈의혹…검찰,연희동사저전격압수수색",
   "[아는기자]이혼이소환한‘비자금’…35년만에환수?",
@@ -6001,17 +5994,16 @@
   "더샌드박스,70만달러브리지피해보상추진",
   "'모두의AI'사업자SKT·카카오·KT3개컨소시엄최종선정",
   "레벨인피니트의외계행성협동슈팅,'엑스터미노츠'",
-  "AI시대교육,어디까지맡길까⋯박남기교수‘AI탈활용교수법’출..."
+  "AI시대교육,어디까지맡길까⋯박남기교수‘AI탈활용교수법’출...",
+  "LG,집중호우피해복구에10억원기부…침수가전수리지원",
+  "[함께가자우리ESG]LG그룹,남부집중호우피해복구에성금10억지원",
+  "소비자원광고감시단,AI악용등부당광고의심사례2214건발굴",
+  "인천남동구에'ICT콤플렉스'개소…AI·SW인재양성거점구축",
+  "SK텔레콤,하이퍼·호라이즌과AIDC삼각편대완성",
+  "SK그룹,남부지역집중호우피해복구에20억원지원",
+  "창되기전방패로…빅테크100곳“AI해킹방어에투입해야”"
  ],
  "recent_sigs": [
-  [
-   "2026-08-28T09:08:16.096769+09:00",
-   "~SKT 3조원 투자 유치 데이터센터 사업 분리"
-  ],
-  [
-   "2026-08-28T09:08:16.096769+09:00",
-   "하루만에 600조 시총 살렸다"
-  ],
   [
    "2026-08-28T09:10:22.544469+09:00",
    "부산교육청 예술인 ~KT 가이드 방안 교육 활용 기술 융합형 예술"
@@ -6843,9 +6835,21 @@
   [
    "2026-08-28T15:04:13.972046+09:00",
    "고개 14년 숙인 박근혜 연찬회 경찰 만에"
+  ],
+  [
+   "2026-08-28T15:10:22.145442+09:00",
+   "완성 삼각편대 호라이즌과 하이퍼 ~SKT DC"
+  ],
+  [
+   "2026-08-28T15:10:22.145442+09:00",
+   "피해 집중호우 20억원 남부지역 SK그룹 지원 복구에"
+  ],
+  [
+   "2026-08-28T15:10:22.145442+09:00",
+   "방어에 투입해야 100곳 빅테크 창되기 방패로"
   ]
  ],
- "last_run": "2026-08-28T15:08:32.960058+09:00",
+ "last_run": "2026-08-28T15:10:50.719409+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
