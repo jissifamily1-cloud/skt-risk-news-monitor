@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1119320",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406855",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=272448",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=105675",
-  "https://www.dailian.co.kr/news/view/1682948/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20260827122300009?input=1195m",
-  "https://www.etnews.com/20260827000328",
-  "https://www.sedaily.com/article/20084064",
-  "http://www.press9.kr/news/articleView.html?idxno=81729",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481153",
   "http://www.inews24.com/view/1998971",
   "https://www.mk.co.kr/article/12137781",
@@ -2999,18 +2990,18 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696271",
   "https://www.etnews.com/20260828000049",
   "https://www.yna.co.kr/view/AKR20260828044500007?input=1195m",
-  "https://www.boannews.com/news/articleView.html?idxno=145491"
+  "https://www.boannews.com/news/articleView.html?idxno=145491",
+  "https://www.newspost.kr/news/articleView.html?idxno=225270",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481421",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445823",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432346",
+  "https://imnews.imbc.com/news/2026/econo/article/6847978_36932.html",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=203865",
+  "https://www.etoday.co.kr/news/view/2619223",
+  "https://www.newsis.com/view/NISX20260828_0003766170",
+  "https://www.greened.kr/news/articleView.html?idxno=348656"
  ],
  "seen_titles": [
-  "앤트로픽,美데이터센터6년임차…62조원계약",
-  "엔비디아어닝서프라이즈,삼전닉스·코스피영향은?",
-  "'지지율경고등'李,국정속도전…협치카드꺼내들까",
-  "다음·무신사·직방묶은'AI슈퍼앱'나온다...KT,대국민플랫폼구축",
-  "LGU+,AI로더심플해진'U+one'으로DCXI3년연속1위달성",
-  "AG5연패도전한국야구…2할대초반-6점대ERA‘어쩌나’",
-  "\"트럼프행정부원조중단으로아프간서최소161명사망\"",
-  "스패로우,SW공급망보안강화로드맵대응위한C레벨세미나개최",
-  "KT,‘모두의AI’청사진공개...앱·다음·지니TV서도쓴다",
   "KB자산운용,'RISE네트워크인프라'6개월수익률1위…AI인프라성장...",
   "GPU제왕엔비디아의다음승부수…AI모델플랫폼18조원에샀다",
   "美,中정부연루해킹망차단…한국기업도공격대상",
@@ -6001,7 +5992,16 @@
   "'모두의AI'서비스연내출격…SKT·KT·카카오가맡는다",
   "KT,부산예술중학생대상AI교육…AI활용예술창작지원",
   "kt-삼성,2021년처럼끝까지간다…사실상'1위결정3연전'",
-  "美CISA레드팀모의해킹에주요조직2곳다뚫려…1곳은침투사실조..."
+  "美CISA레드팀모의해킹에주요조직2곳다뚫려…1곳은침투사실조...",
+  "AIDC인프라기업'SK호라이즌'설립추진…3조원투자유치",
+  "계좌기반결제독주…헥토파이낸셜,글로벌결제솔루션공급확대",
+  "NH투자\"다음주코스피6400~7500전망,반도체와2차전지·AI플랫폼주목...",
+  "S&P500선물,워시잭슨홀연설대기속약보합…美국채금리혼조",
+  "사흘째상승하던코스피,1%가까이하락출발‥코스닥도동반하락",
+  "카드사,'AI구독'결제경쟁불붙었다…할인은기본,캐시백도제공",
+  "통신3사,전국민AI서비스만든다…'모두의AI'SKT·카카오·KT컨소시...",
+  "\"엔비디아,AI클라우드기업과수익공유사업재검토…반독점우려?\"",
+  "코스피,엔비디아훈풍에도1%대하락...삼전·하이닉스동반약세"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-08-28T09:42:15.543192+09:00",
    "레드팀 사실조 주요 1곳은 침투 뚫려 2곳 CISA 모의 해킹에"
+  ],
+  [
+   "2026-08-28T09:44:13.825840+09:00",
+   "사업 반독점 우려 수익공유 기업과 AI클라우드 재검토"
   ]
  ],
- "last_run": "2026-08-28T09:42:41.716331+09:00",
+ "last_run": "2026-08-28T09:44:37.258423+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
