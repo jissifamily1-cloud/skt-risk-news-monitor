@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/08/25/opinion/ai-risks.html?partner=naver",
-  "https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html?partner=naver",
-  "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html?partner=naver",
-  "https://www.joongang.co.kr/article/25456056",
-  "https://it.donga.com/109406/",
-  "https://www.fnnews.com/news/202608251528245180",
-  "https://biz.heraldcorp.com/article/10851637",
-  "http://www.impacton.net/news/articleView.html?idxno=20088",
-  "https://www.tokenpost.kr/news/cryptocurrency/397256",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003261721&CMPT_CD=P0010",
-  "https://www.segye.com/newsView/20260825503181?OutUrl=naver",
   "https://www.venturesquare.net/1108258/",
   "https://edu.donga.com/news/articleView.html?idxno=111217",
   "https://www.tokenpost.kr/news/cryptocurrency/397089",
@@ -2999,20 +2988,20 @@
   "https://www.ajunews.com/view/20260828160204213",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=207354",
   "https://www.dailian.co.kr/news/view/1683808/?sc=Naver",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481610"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481610",
+  "https://www.cnbizm.com/news/articleView.html?idxno=313067",
+  "https://www.smarttoday.co.kr/ko-kr/articles/110921",
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=2666",
+  "https://news.dealsitetv.com/articles/175354",
+  "https://zdnet.co.kr/view/?no=20260828155222",
+  "https://www.cnbizm.com/news/articleView.html?idxno=313065",
+  "https://www.yna.co.kr/view/AKR20260828123351008?input=1195m",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362385",
+  "https://www.fnnews.com/news/202608281600326192",
+  "https://zdnet.co.kr/view/?no=20260828150619",
+  "https://www.mk.co.kr/article/12138889"
  ],
  "seen_titles": [
-  "오픈AI추론칩,지연시간최대3.6배낮췄다",
-  "미공개AI2종,워싱턴보안심사논의",
-  "오픈AI할라페뇨,GB300앞선테스트공개",
-  "넷도큐먼츠,구글제미나이리걸과MCP연동…문서원본은저장소밖으...",
-  "1,400만이용자에서사우디AX까지…라이너,500억원시리즈C유치",
-  "TheHeatonBessentGrows",
-  "[CEO파일]임동준한화운용대표,글로벌투자내공앞세워대체·해외투...",
-  "TheWarningLightsAreBlinkingAgain",
-  "ByOpeningaModel,aChineseA.I.LabMayTesttheWorld’sCybersecuri.",
-  "A.I.IsBecomingSoPowerful,It’sStumpingThoseTryingtoContainIt",
-  "연세대,AI로국회·지방의회책무성분석한다…오픈AI공모사업선정",
   "[위클리AI]\"자동화부터청소년보호까지\"스페이스XAI·오픈라우터·오...",
   "AI가국회·정부정책감시한다…연세대,오픈AI정책연구파트너선정",
   "AI열풍올라탄‘25세천재’의추락…美SEC,월가은행에자료요구",
@@ -6001,13 +5990,20 @@
   "[마감시황]코스피,美반도체추가관세검토에1.79%↓…외국인1.7조...",
   "[마감시황]코스피,123.49포인트내린6788.88마감",
   "SK그룹,집중호우피해복구에20억기부…구호활동진행도",
-  "[거래소외국인]삼성전기SK스퀘어SK이노베이션대한항공SK'왕성한식..."
+  "[거래소외국인]삼성전기SK스퀘어SK이노베이션대한항공SK'왕성한식...",
+  "컴투스'제우스:오만의신',이통3사청구할인프로모션진행",
+  "세계최고'클로드'대입해도3위…독파모배점산정방식논란",
+  "LG,집중호우피해성금10억원기부…구호물품도지원",
+  "[재계투데이]SK하이닉스,美인디애나HBM공장착공外",
+  "비자,코드취약점찾아스스로수정하는AI도구출시",
+  "두나무-비자,스테이블코인·AI기반차세대결제혁신MOU체결",
+  "삼전·닉스내리자코스피1.79%하락마감…코스닥은강보합(종합)",
+  "미국발악재에코스피6780선으로관세이슈재부각…삼성전자3%↓",
+  "하루만에1.7조단전외국인...코스피는4일만에하락[fn마감시황]",
+  "[AI고속도로]엔비디아,AI클라우드금융지원일부중단…고객사통제...",
+  "“엔비디아호재에도맥못췄다”…코스피,반도체주약세에6800선하회"
  ],
  "recent_sigs": [
-  [
-   "2026-08-28T10:08:12.798009+09:00",
-   "이동통신 ~SKT ~KT 소식"
-  ],
   [
    "2026-08-28T10:10:21.322618+09:00",
    "인공지능 메모리의 도전 생산기지 꿈꾸 SK하이닉스의 미국 완결형"
@@ -6783,9 +6779,13 @@
   [
    "2026-08-28T16:06:15.787097+09:00",
    "SK 대한항공 SK스퀘어 왕성한 삼성전기 SK이노베이션"
+  ],
+  [
+   "2026-08-28T16:08:16.757312+09:00",
+   "약세에 호재에도 코스피 6800선 반도체주 하회 맥못췄다"
   ]
  ],
- "last_run": "2026-08-28T16:06:40.338069+09:00",
+ "last_run": "2026-08-28T16:08:35.375580+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
