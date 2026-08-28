@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20260827160419327",
-  "https://kpenews.com/View.aspx?No=4202018",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=134914",
-  "https://view.asiae.co.kr/article/2026082716070901369",
-  "https://www.kbmaeil.com/article/20260827500628",
-  "https://www.etoday.co.kr/news/view/2618953",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4103193",
-  "https://www.news1.kr/industry/general-industry/6271581",
   "https://www.news1.kr/industry/general-industry/6271653",
   "https://www.bloter.net/news/articleView.html?idxno=671918",
   "https://www.gukjenews.com/news/articleView.html?idxno=3676823",
@@ -2999,17 +2991,17 @@
   "https://www.mt.co.kr/tech/2026/08/28/2026082810035724621",
   "https://www.imaeil.com/page/view/2026082810005335132",
   "http://coinreaders.com/255329",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/516189"
+  "http://enews.imbc.com/News/RetrieveNewsInfo/516189",
+  "https://www.mk.co.kr/article/12137832",
+  "https://www.g-enews.com/view.php?ud=202608281002317482fbbec65dfb_1",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432362",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94386",
+  "https://www.edaily.co.kr/News/Read?newsId=03106166645551912&mediaCodeNo=257",
+  "https://www.news1.kr/it-science/internet-platform/6272359",
+  "https://www.greened.kr/news/articleView.html?idxno=348661",
+  "https://www.newsis.com/view/NISX20260828_0003766269"
  ],
  "seen_titles": [
-  "[ETF시황]AI전력·ESS투자기대…전력·2차전지ETF강세",
-  "기준금리인상에도'뚝심'코스피…6900선탈환상승마감",
-  "메인라인,‘AIFuze’사용인증이벤트…3주간이용자참여확대",
-  "[中증시마감]겹호재에3일연속상승...엔비디아실적에CPO강세",
-  "\"구도일KT위즈파크떴다!\"..창립50주년에스오일,'스폰서데이'개최",
-  "\"야구팬과함께50돌축하\"…S-OIL,KT위즈파크서소통",
-  "벨톤,차세대AI보청기‘일루미네이트’프리런칭마스터클래스성료...",
-  "코스피,7000눈앞서밀렸다…금리인상에6912마감",
   "주식·부동산변곡점'투자전략어떻게'…와이즈포럼문전성시",
   "\"AI스님이현실로\"...불교새로운시대과제와가능성은?",
   "엔비디아'베라루빈'양산공식화…삼성·SK,HBM4수혜시작됐다",
@@ -6001,7 +5993,15 @@
   "AI로취업준비·가계관리까지…SKT,연내모두의AI선보인다",
   "'모두의AI'누가만드나…SKT·카카오·KT3곳최종선정",
   "엔비디아(NVDA),실적발표후4연속하락악몽탈출...성장우려어떻게...",
-  "젠슨황,세명의귀인누구?…'서프라이즈미스터리살롱'반전스토리..."
+  "젠슨황,세명의귀인누구?…'서프라이즈미스터리살롱'반전스토리...",
+  "\"AI구독료결제,카드혜택빵빵\"요금최대절반할인에캐시백도",
+  "독일기업87%털리고,美인프라마비…韓팹비상",
+  "'무료AI'사업자에SKT·카카오·KT선정…정부예산으로지원",
+  "SKT,SKB인적분할후3.1조유치…AIDC전문'SK호라이즌'띄운다",
+  "SKT,‘모두의AI’사업자선정…전국민에AI비서푼다",
+  "전국민무료AI,카카오·SKT·KT가만든다(종합)",
+  "\"딥페이크이렇게판별하세요\"KT,예술인꿈나무AI역량·윤리교육",
+  "'실적발표→하락'징크스깬엔비디아9%↑…\"AI수요,내년까지걱정..."
  ],
  "recent_sigs": [
   [
@@ -6767,9 +6767,13 @@
   [
    "2026-08-28T10:14:13.363084+09:00",
    "서프라이즈 반전 스토리 젠슨 미스터리 누구 살롱 귀인 명의"
+  ],
+  [
+   "2026-08-28T10:16:15.332969+09:00",
+   "무료 ~KT 만든다 KT가 ~SKT 전국민 카카오"
   ]
  ],
- "last_run": "2026-08-28T10:14:34.397655+09:00",
+ "last_run": "2026-08-28T10:16:35.308018+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
