@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=671609",
-  "https://slownews.kr/165343",
-  "https://www.hankyung.com/article/2026082370711",
-  "https://news.ifm.kr/news/articleView.html?idxno=477749",
-  "https://isplus.com/article/view/isp202608270072",
-  "https://www.news2day.co.kr/article/20260824500060",
-  "https://www.businessplus.kr/news/articleView.html?idxno=115797",
-  "http://www.segyebiz.com/newsView/20260823506274?OutUrl=naver",
-  "https://www.econovill.com/news/articleView.html?idxno=749052",
-  "https://www.m-i.kr/news/articleView.html?idxno=1406806",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589362276505",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=143644",
   "https://zdnet.co.kr/view/?no=20260821162018",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=858580",
   "https://www.mt.co.kr/tech/2026/08/21/2026082016554318224",
@@ -2999,21 +2987,21 @@
   "http://www.paxetv.com/news/articleView.html?idxno=280451",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60479",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445820",
-  "https://www.newsis.com/view/NISX20260828_0003766392"
+  "https://www.newsis.com/view/NISX20260828_0003766392",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3677489",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3677502",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3677490",
+  "https://www.thebilliards.kr/news/articleView.html?idxno=31773",
+  "https://www.news1.kr/finance/market-exr/6272182",
+  "https://www.asiatime.co.kr/article/20260828500042",
+  "https://www.etnews.com/20260827000241",
+  "https://www.tjb.co.kr/news05/bodo/view/id/102925",
+  "https://www.newsis.com/view/NISX20260828_0003766400",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=31105",
+  "https://biz.heraldcorp.com/article/10855015",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1400210"
  ],
  "seen_titles": [
-  "끝나지않은'세기의이혼',SK최태원회장재상고속사정",
-  "[박종면칼럼]최태원의시간·노소영의시간",
-  "빠른태세전환,지지율하락에부동산세제개편안뜯어고치나:슬로우...",
-  "담합으로빼돌린범죄수익,최초로동결한소정수부장검사",
-  "[영상]최태원-노소영이혼,재산분할9천440억원의전말",
-  "FIBA,월드컵아시아예선2라운드앞둔이현중집중조명\"리바운드밀...",
-  "[보안톺아보기]박스권갇힌K-보안...돌파구없나",
-  "LG유플러스,국내이통사첫'글로벌버그바운티'도입…해커원과맞손",
-  "모두의AI잡아라…이통사,풀스택역량앞세운다",
-  "SBVA벤처파트너영입노림수는?\"아시아·미국가교\"",
-  "SKT,업스테이지와맞손…사이버보안특화AI모델개발",
-  "LG유플러스,DCXI이동통신부문1위…3년연속수상",
   "엔비디아호실적에도월가의견분분\"강한수요vs순환금융우려\"",
   "'모두의AI'뛰어든통신3사강점은?...\"AIDC·가입자\"",
   "3G가고6G온다…통신망세대교체본격화",
@@ -6001,7 +5989,19 @@
   "SKT,AI데이터센터사업분리…3조원투자유치",
   "[디지털포스트모닝픽]엔비디아'AI'살렸다…하루만에시총+600조",
   "\"엔비디아AI반도체고객사에금융지원프로그램일부중단\",반독점규...",
-  "美엔비디아급등에도삼전·닉스장초반1%안팎약세[핫스탁]"
+  "美엔비디아급등에도삼전·닉스장초반1%안팎약세[핫스탁]",
+  "한국동서발전,27~28일동해서'청정수소인증기술교류회'개최",
+  "[포토]대구시서구청,어린이집150여명대상'아동학대예방교육'실...",
+  "용인시,반다비체육센터건립간담회…장애인의견수렴",
+  "LG전자베스트샵현대울산점,새단장GRANDOPEN…웨딩·입주고객혜택",
+  "NH證\"삼성重,조선업중장기성장의문…부유식데이터센터로반전기...",
+  "뉴욕증시,3대지수동반상승...WTI,1.6%↑",
+  "메인라인,'AIFuze'사용자대상이벤트실시",
+  "'모티프이의제기'에과기정통부,'독파모'2차평가세부점수전격공...",
+  "미래에셋證\"SKT,목표가25%↑…SK호라이즌신설,데이터센터확장가속...",
+  "[개장시황]코스피,하락출발…엔비디아랠리에도기관순매도압박",
+  "예술인AI활용방안가이드…KT-부산교육청,예술·기술융합형교육성...",
+  "KT,부산예술중학교학생대상AI역량·윤리교육진행"
  ],
  "recent_sigs": [
   [
@@ -6567,9 +6567,17 @@
   [
    "2026-08-28T09:08:16.096769+09:00",
    "하루만에 600조 시총 살렸다"
+  ],
+  [
+   "2026-08-28T09:10:22.544469+09:00",
+   "부산교육청 예술인 ~KT 가이드 방안 교육 활용 기술 융합형 예술"
+  ],
+  [
+   "2026-08-28T09:10:22.544469+09:00",
+   "~KT 진행 교육 부산예술중학교 윤리 역량 학생 대상"
   ]
  ],
- "last_run": "2026-08-28T09:08:37.116975+09:00",
+ "last_run": "2026-08-28T09:10:50.284134+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
