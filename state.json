@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=236171",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309545",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3677710",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=214093",
-  "https://www.ytn.co.kr/_ln/0101_202608281339018765",
-  "https://www.tokenpost.kr/news/breaking/399546",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695328",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215485",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=362353",
@@ -2999,15 +2993,15 @@
   "https://www.kukinews.com/article/view/kuk202608300006",
   "https://www.tokenpost.kr/news/breaking/399541",
   "https://www.itdaily.kr/news/articleView.html?idxno=241257",
-  "https://www.g-enews.com/view.php?ud=2026082810471275573d7a510102_1"
+  "https://www.g-enews.com/view.php?ud=2026082810471275573d7a510102_1",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535043",
+  "https://www.aitimes.com/news/articleView.html?idxno=214251",
+  "https://www.kyeongin.com/article/1769857",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695021",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=601940",
+  "https://www.cstimes.com/news/articleView.html?idxno=718211"
  ],
  "seen_titles": [
-  "\"트럼프,이란과'6월양해각서'복귀거부…호르무즈협상난항\"",
-  "데이터센터트래픽증가수혜…링네트·에스넷상승가속",
-  "SKT,모두의AI사업자선정…전국민AI비서구축",
-  "시민·소비자단체,문체부에홀드백추진중단촉구···\"소비자선택권...",
-  "비싼티켓에150일홀드백까지...'극장살리기'의역설",
-  "함안군,8월이장협의회개최…차석호군수첫참석,협력강화다짐",
   "서치독,중기부'팁스'선정···산업AI글로벌진출박차",
   "국회산자위,'메가특구'이재용·최태원청문회추진",
   "미법원,앤스로픽공급망위험지정무효판결",
@@ -6001,7 +5995,13 @@
   "‘차세대AI시대’콘텐츠산업미래는?…경콘진,글로벌콘텐츠컨퍼...",
   "오픈AI,4억달러로차세대AI기업투자보도",
   "\"망분리장벽넘은생성형AI\"…KB금융의실전모델",
-  "[AI스코프]AIDC는어떻게돈벌까…코로케이션넘어토큰까지"
+  "[AI스코프]AIDC는어떻게돈벌까…코로케이션넘어토큰까지",
+  "[OBS뉴스오늘2]종합특검수사마무리…'제주실종'추정시신발견·경...",
+  "[AI이슈트렌드]집중호우피해·민주당전당대회주목…증권가는'대형...",
+  "[굿모닝위즈·112]승부는1회에갈렸다",
+  "시민단체\"150일홀드백신중해야…소비자참여도보장\"",
+  "[서학!스타]IREN,AI클라우드전환가속…2026년용량대부분판매완...",
+  "美비호에달라진쿠팡,당혹스런공정위…조사에수년걸릴수도"
  ],
  "recent_sigs": [
   [
@@ -6153,7 +6153,7 @@
    "어떻게 코로케이션 AIDC는 넘어 토큰까지 벌까"
   ]
  ],
- "last_run": "2026-08-30T08:04:41.882682+09:00",
+ "last_run": "2026-08-30T08:06:34.696685+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
