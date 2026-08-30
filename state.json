@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260828_0003767085",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85153",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=317159",
-  "https://www.viva100.com/article/20260828500498",
-  "https://www.m-i.kr/news/articleView.html?idxno=1407327",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=207195",
   "https://www.nongmin.com/article/20260828500134",
   "https://www.gukjenews.com/news/articleView.html?idxno=3677894",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=50156",
@@ -2999,15 +2993,15 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=241289",
   "https://www.ddaily.co.kr/page/view/2026083011065247162",
   "https://www.cbci.co.kr/news/articleView.html?idxno=602251",
-  "https://www.m-i.kr/news/articleView.html?idxno=1407579"
+  "https://www.m-i.kr/news/articleView.html?idxno=1407579",
+  "https://www.m-i.kr/news/articleView.html?idxno=1406603",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407242",
+  "https://www.xportsnews.com/article/2189771",
+  "https://www.asiatime.co.kr/article/20260830500049",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208262",
+  "https://www.m-i.kr/news/articleView.html?idxno=1407224"
  ],
  "seen_titles": [
-  "SK그룹,거제·통영등집중호우피해복구성금20억원지원",
-  "'SK호라이즌'신설에3조자금유입…증권가\"AI데이터센터사업본격...",
-  "KT,에이블스쿨9기잡페어개최…17개기업채용연계",
-  "KT\"AX인재·중소기업,KT로오세요\"",
-  "엔비디아,AI칩번돈다시AI에…'순환금융'우려에도투자확대",
-  "LG,집중호우피해성금10억원기부...계열사도지원총력",
   "거액성금에구호물품까지...재계,수해복구'온정듬뿍'",
   "LG,집중호우피해지역에성금10억원기부⋯계열사총력지원",
   "재계,집중호우피해복구팔걷었다…성금·구호지원",
@@ -6001,13 +5995,15 @@
   "이해민은청와대·하정우는전략위…AI정책'투톱체제'",
   "KT·서울대·KAIST,AI산학연구성과공개…에이전틱AI협력확대",
   "건강보험환급금조회어떻게하나…226만명에3조760억원돌려준다",
-  "세종문화회관공연,청계광장대형전광판으로실시간송출"
+  "세종문화회관공연,청계광장대형전광판으로실시간송출",
+  "하나카드,SK스퀘어지분평가익1조…자본반년새8700억불었다",
+  "대기업,채용트렌드바뀐다…스펙보단'AI활용·직무경험'",
+  "김도영없는2주,KIA이선수활약필요한데…\"공격적인성향으로바뀌...",
+  "李대통령,6개부처개각…재경이형일·법무김승원·국방강신철",
+  "700개AI에이전트가허깅페이스공격…스스로역할나누고취약점공...",
+  "[기획]2000억달러어디에쓰나…K-기업,대미투자'첫단추'촉각"
  ],
  "recent_sigs": [
-  [
-   "2026-08-30T07:00:35.490731+09:00",
-   "모델 믿는다 코딩 커서에 중단 머스크 제공 에이전트"
-  ],
   [
    "2026-08-30T07:02:16.291923+09:00",
    "인디애나 SK하이닉스 이어진다 추가 투자도"
@@ -6247,9 +6243,13 @@
   [
    "2026-08-30T12:40:24.210108+09:00",
    "러시아 APT28 공격 외교기관 유럽 HOOKED 정부 백도어 신종"
+  ],
+  [
+   "2026-08-30T13:02:14.605092+09:00",
+   "어디에 대미 촉각 2000억달러 기업 투자 단추 쓰나"
   ]
  ],
- "last_run": "2026-08-30T13:00:53.842765+09:00",
+ "last_run": "2026-08-30T13:02:35.131595+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
