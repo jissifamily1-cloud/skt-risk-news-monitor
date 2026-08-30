@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85161",
-  "https://www.news1.kr/industry/general-industry/6272792",
   "https://www.sisaweek.com/news/articleView.html?idxno=237571",
   "https://www.gukjenews.com/news/articleView.html?idxno=3677888",
   "https://www.techm.kr/news/articleView.html?idxno=154718",
@@ -2999,11 +2997,11 @@
   "https://www.tokenpost.kr/news/breaking/400585",
   "https://www.namdonews.com/news/articleView.html?idxno=921578",
   "https://view.asiae.co.kr/article/2026083012330772660",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1400642"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1400642",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676567",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208260"
  ],
  "seen_titles": [
-  "제주실종신고허위종결사건현장찾은與“시스템문제찾아야”",
-  "더트레이드데스크,AI강화한'코카이주마'출시",
   "삼성전자zHBM,미·중데이터센터내데이터전송거리'단축'·전력소...",
   "'삼전·닉스'자사주매입,코스피떠받쳐…상승동력보다차익실현의...",
   "SKT,정부'모두의AI'사업맡는다…10월베타서비스출시",
@@ -6001,7 +5999,9 @@
   "포고,탈취자금추가이동막으려메인넷중단",
   "\"가볍게쓰고똑똑하게\"…SKT,71만원대'갤럭시퀀텀7'",
   "LGU+,해외대표통신사와글로벌멤버십혜택…일본시범서비스",
-  "李,'실력'앞세워내각·靑새판…기본소득당·조국혁신당까지"
+  "李,'실력'앞세워내각·靑새판…기본소득당·조국혁신당까지",
+  "이재명정부2기AI인사마무리...현장출신삼각편대로",
+  "러시아해킹조직APT28,유럽정부·외교기관공격…신종백도어'HOOKED..."
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,13 @@
   [
    "2026-08-30T12:36:13.945202+09:00",
    "똑똑하게 71만원대 가볍게 쓰고 ~SKT 갤럭시 퀀텀7"
+  ],
+  [
+   "2026-08-30T12:40:24.210108+09:00",
+   "러시아 APT28 공격 외교기관 유럽 HOOKED 정부 백도어 신종"
   ]
  ],
- "last_run": "2026-08-30T12:38:32.643130+09:00",
+ "last_run": "2026-08-30T12:40:44.474555+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
