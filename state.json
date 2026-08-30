@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1119678",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=317049",
   "https://www.polinews.co.kr/news/articleView.html?idxno=741564",
   "https://www.newsway.co.kr/news/view?ud=2026082814544048470",
   "https://www.job-post.co.kr/news/articleView.html?idxno=225440",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20084957",
   "https://www.newscj.com/news/articleView.html?idxno=3428775",
   "https://www.mk.co.kr/article/12139937",
-  "https://www.imaeil.com/page/view/2026083017412714550"
+  "https://www.imaeil.com/page/view/2026083017412714550",
+  "https://www.hankyung.com/article/2026083020251",
+  "https://www.vegannews.co.kr/news/article.html?no=385382"
  ],
  "seen_titles": [
-  "\"뉴스인용한AI답변51%틀렸다\"",
-  "[VISION인터뷰]'책통클럽구래센터학원'임은숙대표\"아이한명,부모...",
   "성금에구호물품까지…재계,남부지방수해복구팔걷었다",
   "카카오·LGAI동맹,정부와함께'전국민일상에AI심는다'",
   "남부지방장대비…프로야구부산·광주·대전·대구경기우천취소(종...",
@@ -6001,7 +5999,9 @@
   "자본시장불공정거래잡는‘AI조사역’뜬다",
   "[통일논단]앞으로도,뒤로도남지않는북한관광사업",
   "결혼안한다는청년들,이유는달라…韓\"돈없어포기\"日\"내삶이...",
-  "여당\"역량·젊은·연대강화담아\"vs야당\"민생살리기외면한국정테..."
+  "여당\"역량·젊은·연대강화담아\"vs야당\"민생살리기외면한국정테...",
+  "'구글출신'이해민,신임AI수석…하정우는4개월만에공직복귀",
+  "“해지한통신요금남았나”…미환급액확인순서"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,13 @@
   [
    "2026-08-30T17:54:13.847341+09:00",
    "국정 외면한 vs 젊은 민생 연대강화 담아 살리기 야당 역량 여당"
+  ],
+  [
+   "2026-08-30T17:56:18.167537+09:00",
+   "해지한 통신요금 미환급액 확인 남았나 순서"
   ]
  ],
- "last_run": "2026-08-30T17:54:34.401219+09:00",
+ "last_run": "2026-08-30T17:56:39.135074+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
