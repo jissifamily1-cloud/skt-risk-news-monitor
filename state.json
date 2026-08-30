@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/es/2026/08/26/espanol/opinion/nueva-lucha-de-clases.html?partner=naver",
-  "https://www.tokenpost.kr/news/breaking/398020",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275546",
-  "https://www.edaily.co.kr/News/Read?newsId=03457126645551256&mediaCodeNo=257",
-  "https://www.tokenpost.kr/news/breaking/397896",
-  "https://www.tokenpost.kr/news/ai/397882",
   "https://www.aitimes.kr/news/articleView.html?idxno=41603",
   "https://slownews.kr/165475",
   "https://www.rapportian.com/news/articleView.html?idxno=239720",
@@ -2999,15 +2993,15 @@
   "https://www.namdonews.com/news/articleView.html?idxno=921682",
   "http://www.econonews.co.kr/news/articleView.html?idxno=443562",
   "https://www.gpkorea.com/news/articleView.html?idxno=146181",
-  "https://www.m-i.kr/news/articleView.html?idxno=1407659"
+  "https://www.m-i.kr/news/articleView.html?idxno=1407659",
+  "http://www.newsdream.kr/news/articleView.html?idxno=117113",
+  "https://www.ajunews.com/view/20260831084429726",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696698",
+  "https://www.mt.co.kr/tech/2026/08/31/2026083108362828440",
+  "https://www.newsis.com/view/NISX20260831_0003768846",
+  "https://www.newspim.com/news/view/20260831000050"
  ],
  "seen_titles": [
-  "오픈AI,연세대선택했다…\"오픈AI최신모델로한국민주주의연구해달...",
-  "BillGatesWarnsA.I.IsMoreDangerousThanBigTechWillAdmit",
-  "우즈베키스탄,‘제38회국제정보올림피아드’개최…중앙아IT허브입...",
-  "LunitputsnewmedicalAImodeltothetestin48-hourhackathon",
-  "¿Estamosanteunanuevaeradelaluchadeclases?",
-  "오픈AI데이터센터총괄퇴사보도나왔다",
   "OpenAIEntersFinalStageofSecond-GenerationChipDesign",
   "우즈베키스탄,IOI2026성료…글로벌IT·스타트업허브로도약",
   "오픈AI10조파라미터모델학습완료설나왔다",
@@ -6001,7 +5995,13 @@
   "[오늘증시]\"반도체가또발목\"…美기술주급락에코스피긴장",
   "KT,우리은행'AI챗봇·상담봇재구축'사업착수",
   "BYD딜러DT네트웍스,ktwiz와브랜드데이…고객접점확대",
-  "배민,해킹취약점찾으면포상…보상금2배로확대"
+  "배민,해킹취약점찾으면포상…보상금2배로확대",
+  "[키-리포트]LS\"SK하이닉스,HBM성장세…수익성눈높이는낮춰야\"",
+  "SKT,AI로사진자동정리·태깅…'에이닷로그'선보여",
+  "SKT,AI글래스사진기록하는'에이닷로그'출시",
+  "SKT,AI글래스로찍은사진AI가알아서분리…'에이닷로그'선보인다",
+  "\"사진만찍으면AI가척척분류\"…SKT에이닷,메타스마트안경품었다",
+  "[모닝리포트]\"오텍,엔비디아검증체계진입·48MW공급\""
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,17 @@
   [
    "2026-08-31T08:50:59.396604+09:00",
    "찾으면 포상 보상금 2배로 배민 취약점 확대"
+  ],
+  [
+   "2026-08-31T08:52:13.058189+09:00",
+   "스마트안경 AI가 분류 찍으면 ~SKT 척척 에이닷 품었다 사진만 메타"
+  ],
+  [
+   "2026-08-31T08:52:13.058189+09:00",
+   "공급 48MW 검증체계 진입 오텍"
   ]
  ],
- "last_run": "2026-08-31T08:51:20.137125+09:00",
+ "last_run": "2026-08-31T08:52:40.946341+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
