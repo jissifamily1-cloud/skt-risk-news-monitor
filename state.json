@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20084722",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241263",
-  "http://www.yonhapnewstv.co.kr/news/AKR20260829104318k2X",
-  "https://www.sedaily.com/article/20084725",
-  "https://www.edaily.co.kr/News/Read?newsId=02020486645552240&mediaCodeNo=257",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116097",
   "https://www.tokenpost.kr/news/insights/400193",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52422",
   "https://www.wikitree.co.kr/articles/1155796",
@@ -2999,15 +2993,15 @@
   "https://www.youthdaily.co.kr/news/article.html?no=226046",
   "https://www.newsis.com/view/NISX20260831_0003769236",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=481686",
-  "https://zdnet.co.kr/view/?no=20260831114730"
+  "https://zdnet.co.kr/view/?no=20260831114730",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3679569",
+  "https://www.munhwa.com/article/11613309",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=102453",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41676",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252626",
+  "https://www.munhwa.com/article/11613310"
  ],
  "seen_titles": [
-  "“삼전닉스금요일팔았어야?”반도체공포엄습,월요일비상…1000만...",
-  "[해외시황]뉴욕증시,워시매파발언·금리인상우려에'하락'…나스닥...",
-  "지방중기취업하면2년간月100만원…청년일자리재정두배로",
-  "하주석트레이드초대박인가,이적후팀승률6할5푼...이범호웃음꽃...",
-  "워시연준“인플레여전히우려…지금금융여건긴축적이지않다”",
-  "'모두의AI'SKT·카카오·KT선정…이통3사모두참여",
   "보호관찰관지도에\"염산뿌린다\"협박…전자발찌찬미성년성추행범...",
   "공장증설인력재배치는쟁의제한…성과급기준도구체화",
   "불볕더위에멈추고,장대비에취소되고…KBO리그날씨수난",
@@ -6001,7 +5995,13 @@
   "\"글로벌확장가능성확인\"…넥슨,AI시대맞춰새단장한NYPC성료",
   "美빅테크,AI기업지분투자에220조원벌어…AI착시우려도",
   "SK텔레콤,SK호라이즌·SK하이퍼시너지기대…AI사업가치커진다",
-  "퀄컴,국내관계사대상'드래곤윙IoT데이'진행"
+  "퀄컴,국내관계사대상'드래곤윙IoT데이'진행",
+  "황인호동구청장,글로벌드림캠퍼스개인정보유출사과…\"끝까지책임...",
+  "삼성전자거래량‘반토막’…연평균의절반그쳐",
+  "美금리인상공포덮쳤다…코스피6600선후퇴",
+  "\"사진찍으면AI가알아서기록해준다\"...SKT,AI글래스촬영사진기록...",
+  "KT,우리은행'AI챗봇·상담봇재구축'사업자로선정",
+  "최태원“한·일경제연대,더큰생태계필요”"
  ],
  "recent_sigs": [
   [
@@ -6639,9 +6639,13 @@
   [
    "2026-08-31T11:46:13.303793+09:00",
    "KT스튜디오지니 아너 경쟁력 허수아비 콘텐츠 성과 잇단 ~KT"
+  ],
+  [
+   "2026-08-31T11:52:13.958975+09:00",
+   "경제연대 생태계 필요"
   ]
  ],
- "last_run": "2026-08-31T11:50:43.003356+09:00",
+ "last_run": "2026-08-31T11:52:38.999294+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
