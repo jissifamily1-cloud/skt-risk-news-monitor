@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.dealsitetv.com/articles/175334",
-  "https://news.dealsitetv.com/articles/175274",
-  "https://news.dealsitetv.com/articles/175279",
-  "https://www.mt.co.kr/future/2026/08/27/2026082709182661257",
-  "https://www.tokenpost.kr/news/breaking/400136",
-  "https://www.energydaily.co.kr/news/articleView.html?idxno=202657",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696483",
-  "https://mhnse.com/news/articleView.html?idxno=1510629",
-  "https://biz.sbs.co.kr/article_hub/20000331393?division=NAVER",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445760",
   "https://www.topstarnews.net/news/articleView.html?idxno=16176690",
   "https://www.viewsnnews.com/article?q=238215",
   "http://www.beyondpost.co.kr/view.php?ud=20260829081519525146a9e4dd7f_30",
@@ -2999,19 +2989,19 @@
   "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155544",
   "https://www.pointe.co.kr/news/articleView.html?idxno=84017",
   "https://www.smartbizn.com/news/articleView.html?idxno=152538",
-  "https://thedrive.co.kr/news/newsview.php?ncode=1065579591696844"
+  "https://thedrive.co.kr/news/newsview.php?ncode=1065579591696844",
+  "https://news.bizwatch.co.kr/article/consumer/2026/08/31/0011",
+  "https://www.tgdaily.co.kr/news/articleView.html?idxno=406661",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260831001124103",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245297",
+  "https://www.mt.co.kr/future/2026/08/31/2026082710154674973",
+  "http://www.4th.kr/news/articleView.html?idxno=2117138",
+  "https://view.asiae.co.kr/article/2026083109353723662",
+  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170456",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=105773",
+  "https://biz.heraldcorp.com/article/10857244"
  ],
  "seen_titles": [
-  "AI끼리비밀게시판파고해킹공조…오픈AI에이전트'초유의반란'사...",
-  "보이스피싱번호,24시간내로차단한다…시스템전면개편",
-  "\"러시아에더유리하게…\"챗GPT로꾸민가짜싱크탱크",
-  "[뉴욕마켓워치]결국항복선언한워시…주식·채권↓달러↑",
-  "[이재용美반도체메가플랜]세제혜택175조유력…호황에건설자금부...",
-  "[이재용美반도체메가플랜]삼성물산,후속팹‘더블견적’에삼성...",
-  "[이재용美반도체메가플랜]왜테일러인가…‘올인원’경쟁력앞세워...",
-  "SBVA,소프트뱅크비전펀드출신투자전문가2인벤처파트너영입",
-  "뉴트럴준비금일부묶여2700만달러유동자산",
-  "충전기만늘려선전기차시대못연다…'지속가능한충전산업'위한규...",
   "'5000만국민AI'맡은통신3사…대규모인프라역량부각",
   "'KIA의준PO드림'결국열쇠는김도영이쥐고있다…슈퍼스타의한방이...",
   "이란전고비마다'트럼프계좌'에너지·방산주거래",
@@ -6001,7 +5991,17 @@
   "2026LCK플레이오프,결승시리즈에합류할3팀은?",
   "GS리테일,개인정보대량유출로과징금128억...\"안전조치소홀\"",
   "\"혼자못만드는시장,함께만든다\"···한일상의,미래산업연대시동",
-  "“서울서부산찍고120㎞더”…볼보ES90,1회충전520㎞인증"
+  "“서울서부산찍고120㎞더”…볼보ES90,1회충전520㎞인증",
+  "해커반복공격에도'깜깜'…GS리테일,128억과징금",
+  "[LCK]KT,DK상대로누구도예상치못한3대0완승이끌다",
+  "YK미디어플러스,콘텐츠커머스넘어상품개발·유통까지확장",
+  "'국가대표AI'평가또잡음…두번뽑고두번시끄러웠다",
+  "챗GPT제친정확도…1400만연구자홀린K-AI에'500억뭉칫돈'",
+  "GS숍166만명개인정보유출...GS리테일과징금128억원",
+  "'보안AI'망분리빗장,저축은행·전금업자까지푼다",
+  "굿닥,SKT컨소시엄참여…병원정보·비대면진료'올인원'",
+  "KT·SKT·LGU+등통신3사,'PASS신분증QR검증'캠페인전개",
+  "“한일경제연대,실천과제부터”"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-08-31T11:22:14.297136+09:00",
    "경쟁 밖으로 옮겼다 GPU 거세졌는데 싸움터를"
+  ],
+  [
+   "2026-08-31T11:28:16.475373+09:00",
+   "잡음 국가대표 시끄러웠다 뽑고 평가"
   ]
  ],
- "last_run": "2026-08-31T11:26:35.058027+09:00",
+ "last_run": "2026-08-31T11:28:34.217734+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
