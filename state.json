@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ktnews.com/news/articleView.html?idxno=148053",
-  "https://www.theguru.co.kr/news/article.html?no=106434",
-  "https://www.bntnews.co.kr/article/view/bnt202608290120",
-  "https://www.wikitree.co.kr/articles/1155879",
-  "https://www.wikitree.co.kr/articles/1155878",
-  "https://www.wikitree.co.kr/articles/1155880",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1288153",
   "https://www.techm.kr/news/articleView.html?idxno=154752",
   "https://www.wikitree.co.kr/articles/1155874",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8650442",
   "https://zdnet.co.kr/view/?no=20260831141507",
   "https://www.betanews.net/article/view/beta202608310040",
-  "https://www.theguru.co.kr/news/article.html?no=106482"
+  "https://www.theguru.co.kr/news/article.html?no=106482",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43355",
+  "https://www.gokorea.kr/news/articleView.html?idxno=876700",
+  "https://www.thelec.kr/news/articleView.html?idxno=61535",
+  "http://www.breaknews.com/1232841",
+  "https://www.newspim.com/news/view/20260831000718",
+  "https://www.mk.co.kr/article/12140343"
  ],
  "seen_titles": [
-  "앤트로픽지출61%,기업AI사용법갈렸다",
-  "허깅페이스,399달러초소형로봇'마이크로덕'공개",
-  "애플iOS27,구글제미나이품은“시리AI”로9월중순전면개편",
-  "철도도닷컴도끝까지갔다…250년역사가말하는AI파티마감시점",
-  "앤트로픽클로드,인간안전연구자28명제치고시간당4달러로성과냈...",
-  "알리바바큐원3.8플래시,활성파라미터60억개로가격은딥시크의3분...",
   "E.B.M,롯데百본점입성…전국핵심상권유통망확장",
   "[로봇온사이트]휴머노이드'챗GPT모멘트',기준과필요조건은?",
   "대형마트휴무일?이마트·롯데마트·홈플러스·코스트코‘할인장보기...",
@@ -6001,7 +5995,13 @@
   "최태원“한일,상호시장넓혀주는파트너가능”",
   "\"업무60%까지AI가담당\"..KT,우리은행AI상담고도화사업수주",
   "오픈AI게임빌더스서울개막",
-  "SK하이닉스솔리다임,엔비디아와'하이퍼팟'비밀병기개발…기업용A..."
+  "SK하이닉스솔리다임,엔비디아와'하이퍼팟'비밀병기개발…기업용A...",
+  "'1000Hz벽'깨지자승부공식도갈렸다…삼성·LG,게이밍모니터서벌...",
+  "아스테로모프AI모델,콜롬비아IPhO2026서28.6점기록",
+  "GS리테일,GS25유출알고도GS샵40일더뚫렸다…과징금128억원",
+  "KT,우리은행과‘AI챗봇·상담봇재구축’본격착수",
+  "WSJ\"소프트뱅크데이터센터자회사,오픈AI유치하려55억달러특혜\"",
+  "개인정보유출사건1년간447건…유출원인1위는‘해킹’"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,17 @@
   [
    "2026-08-31T14:34:15.696245+09:00",
    "SK하이닉스 기업용 하이퍼팟 엔비디아와 솔리다임 비밀병기 개발"
+  ],
+  [
+   "2026-08-31T14:36:16.759635+09:00",
+   "WSJ 소프트뱅크 유치하려 달러 55억 자회사 특혜 데이터센터"
+  ],
+  [
+   "2026-08-31T14:36:16.759635+09:00",
+   "1위는 유출 개인정보유출 447건 1년간 사건 원인"
   ]
  ],
- "last_run": "2026-08-31T14:34:33.018668+09:00",
+ "last_run": "2026-08-31T14:36:40.745389+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
