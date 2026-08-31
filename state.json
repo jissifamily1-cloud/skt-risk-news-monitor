@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273895",
-  "https://www.itdaily.kr/news/articleView.html?idxno=240715",
-  "https://www.ajunews.com/view/20260730165043995",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=422782",
-  "https://www.etnews.com/20260730000411",
-  "https://www.ceoscoredaily.com/page/view/2026073015501998845",
   "https://news.mtn.co.kr/news-detail/2026073015201823278",
   "https://zdnet.co.kr/view/?no=20260730152155",
   "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
@@ -2999,15 +2993,15 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=94492",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=358140",
   "https://zdnet.co.kr/view/?no=20260831095658",
-  "https://www.newsis.com/view/NISX20260831_0003769067"
+  "https://www.newsis.com/view/NISX20260831_0003769067",
+  "http://www.snmnews.com/news/articleView.html?idxno=573977",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696758",
+  "https://www.etoday.co.kr/news/view/2619868",
+  "https://thetracker.co.kr/View.aspx?No=4205358",
+  "https://www.joongangenews.com/news/articleView.html?idxno=544003",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=602392"
  ],
  "seen_titles": [
-  "삼성SDS,2분기매출3조700억·영업이익2300억…AI풀스택으로경쟁력...",
-  "[컨콜종합]이준희삼성SDS대표\"AI풀스택으로미래성장기회선점\"",
-  "삼성SDS,2분기매출3조7,178억원...IT서비스와물류사업동반성장",
-  "삼성SDS,2분기실적\"클라우드·물류대외사업성장\"",
-  "삼성SDS2분기매출3.7조돌파...클라우드·AI가실적견인",
-  "[컨콜]삼성SDS,'AI풀스택'실행방안공개…'클라이언트제로'체계구...",
   "삼성SDS,2분기매출3조7178억원…\"클라우드·물류성장견인\"",
   "삼성SDS,2031년까지AI인프라800MW이상으로확대",
   "“AI,해킹명령5317개실행…멕시코정부기관9곳피해”",
@@ -6001,7 +5995,13 @@
   "코스피,'워시쇼크'에2.58%하락출발…6500선찍고낙폭축소",
   "\"두산,PTFE부상은CCL대체아닌세분화…경쟁력선명\"-메리츠증권",
   "\"보안실무자가막고대학생이공격\"…'실전형'AI기반모의해킹대회...",
-  "한난,LG유플러스와3대핵심기술공동개발…안전관리강화"
+  "한난,LG유플러스와3대핵심기술공동개발…안전관리강화",
+  "로봇융합硏,'제2회휴머노이드오픈랩투어'개최",
+  "메타,데이터센터에로봇투입…케이블교체·서버재시작맡긴다",
+  "SKT,‘에이닷로그’선보여…AI글래스사진알아서기록한다",
+  "LG유플러스,집단에너지시설에AIoT기반예지보전체계구축…한국지...",
+  "SK텔레콤주가,8월31일장중93,000원5.68%하락",
+  "씨이랩엔비디아GPU고집적화수혜가능성한국투자증권2027년실적전..."
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,17 @@
   [
    "2026-08-31T09:58:18.009890+09:00",
    "한난 3대 안전관리 공동 LG유플러스와 핵심기술 ~LGU 개발 강화"
+  ],
+  [
+   "2026-08-31T10:00:37.518905+09:00",
+   "000원 8월 ~SKT 주가 장중 31일 하락"
+  ],
+  [
+   "2026-08-31T10:00:37.518905+09:00",
+   "GPU 고집적화 2027년 실적 씨이랩 가능성 한국투자증권 수혜"
   ]
  ],
- "last_run": "2026-08-31T09:58:37.956433+09:00",
+ "last_run": "2026-08-31T10:01:01.423669+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
