@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/585102",
-  "https://www.etoday.co.kr/news/view/2574993",
-  "https://view.asiae.co.kr/article/2026041009290359126",
-  "https://www.hankyung.com/article/2026041030041",
-  "https://www.investchosun.com/site/data/html_dir/2026/04/07/2026040780158.html",
-  "https://magazine.hankyung.com/business/article/202604024983b",
-  "https://www.etoday.co.kr/news/view/2571805",
-  "https://www.dt.co.kr/article/12054961",
-  "https://it.donga.com/108653/",
-  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401722",
   "https://www.dt.co.kr/article/12054493",
   "https://www.donga.com/news/Economy/article/all/20260329/133630593/1",
   "https://www.g-enews.com/view.php?ud=202603261734225647fbbec65dfb_1",
@@ -2999,19 +2989,19 @@
   "https://www.eroun.net/news/articleView.html?idxno=88753",
   "https://www.eroun.net/news/articleView.html?idxno=88752",
   "https://www.smarttoday.co.kr/ko-kr/articles/110952",
-  "https://view.asiae.co.kr/article/2026083110122118593"
+  "https://view.asiae.co.kr/article/2026083110122118593",
+  "https://www.koreahealthlog.com/news/articleView.html?idxno=58710",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3679384",
+  "https://www.ddaily.co.kr/page/view/2026083109555247926",
+  "http://www.metroseoul.co.kr/article/20260831500070",
+  "https://view.asiae.co.kr/article/2026083110040670349",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=121008",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443577",
+  "https://www.sidae.com/article/2026083110094847626",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1013453",
+  "https://www.etoday.co.kr/news/view/2619883"
  ],
  "seen_titles": [
-  "[서학개미브리핑]반도체주랠리에반도체레버리지ETF상위석권",
-  "‘미토스충격’에정부연이은긴급회의…제로트러스트·공급망보안...",
-  "정부,미토스충격에통신사·네카오에이어정보보호기업긴급소집",
-  "엔스로픽AI'미토스'공개…美정부·기업경계수위높여",
-  "스페이스X·엔스로픽상장전ETF경쟁",
-  "규제해소시간부족…서류·절차벽못넘으면개미는'먼산'만[스페이...",
-  "[AI세계속으로]메타의'뮤즈스파크'…폐쇄형운영으로수익확보우선",
-  "인간몰래해킹후사라져…AI'미소스쇼크'",
-  "[Invest]스페이스X는시작일뿐...'텅텅빈'국내IPO에'헥토콘'해외공...",
-  "“몸값만2600조원”서학개미‘참전’기회왔다",
   "과기정통부,‘에이전틱AI얼라이언스’출범…발전·신뢰모두챙긴다",
   "“GPT가보고서쓰고,클로드가논평한다”…MS,연구에이전트AI신기...",
   "단종수순·생산중단까지···벼랑끝에선소비자용메모리,그이유...",
@@ -6001,7 +5991,17 @@
   "LG유플러스·한국지역난방공사,AI로싱크홀·열수송관부식위험미리...",
   "KT,우리은행'AI챗봇·상담봇'재구축맡는다…금융상담넘어업무처...",
   "LG유플러스-한국지역난방공사'AI관제'협력",
-  "KT,우리은행AI상담시스템고도화…\"에이전틱AICC확산\""
+  "KT,우리은행AI상담시스템고도화…\"에이전틱AICC확산\"",
+  "본인부담상한액초과금,3조원첫돌파…전년비10.2%증가",
+  "아이도부모도'손심엉'…제주도,함께즐기는양성평등주간",
+  "아이티센클로잇,당구브랜드'센큐'앞세워사업확대",
+  "통신3사,'QR한번,안심두배!'캠페인진행",
+  "AI안경으로찍은사진,에이닷이정리한다…SKT'에이닷로그'공개",
+  "통신3사,PASS신분증QR검증캠페인…\"위·변조방지\"",
+  "한일상의회장단,지역연계강화…미래산업협력확대",
+  "최태원\"더큰시장·산업생태계함께만드는게한일경제연대\"",
+  "한국지역난방공사,LG유플러스와AIoT기반집단에너지안전관리고도화...",
+  "최태원“한일은경쟁아닌보완…시장·산업생태계함께만드는경제연..."
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-08-31T10:14:14.098216+09:00",
    "고도화 에이전틱 확산 ~KT 우리은행 상담시스템 AICC"
+  ],
+  [
+   "2026-08-31T10:16:14.563699+09:00",
+   "산업생태계 경제연 시장 함께 보완 경쟁 만드는 한일은 아닌"
   ]
  ],
- "last_run": "2026-08-31T10:14:41.507665+09:00",
+ "last_run": "2026-08-31T10:16:37.637939+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
