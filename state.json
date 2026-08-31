@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thisisgame.com/articles/429465",
-  "https://biz.heraldcorp.com/article/10857265",
-  "https://biz.heraldcorp.com/article/10857263",
-  "https://biz.heraldcorp.com/article/10857262",
-  "https://www.kyeongin.com/article/1769932",
-  "https://www.elle.co.kr/article/1908847",
-  "https://www.gasnews.com/news/articleView.html?idxno=126567",
-  "https://www.dt.co.kr/article/12081123",
-  "https://www.dailian.co.kr/news/view/1683901/?sc=Naver",
-  "https://www.aitimes.com/news/articleView.html?idxno=214634",
-  "https://www.thelec.kr/news/articleView.html?idxno=61532",
-  "https://biz.heraldcorp.com/article/10857273",
   "https://www.nocutnews.co.kr/news/6570571",
   "https://www.thisisgame.com/articles/429469",
   "https://www.news1.kr/sports/baseball/6274626",
@@ -2999,21 +2987,21 @@
   "https://www.cstimes.com/news/articleView.html?idxno=718777",
   "https://www.segye.com/newsView/20260831520144?OutUrl=naver",
   "https://www.etoday.co.kr/news/view/2620235",
-  "https://www.news2day.co.kr/article/20260831500273"
+  "https://www.news2day.co.kr/article/20260831500273",
+  "https://www.slist.kr/news/articleView.html?idxno=762691",
+  "https://www.venturesquare.net/1109874/",
+  "https://www.etoday.co.kr/news/view/2620209",
+  "https://www.etoday.co.kr/news/view/2620238",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63651",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000061198",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362460",
+  "https://www.edaily.co.kr/News/Read?newsId=02587926645575856&mediaCodeNo=257",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=63650",
+  "https://www.ytn.co.kr/_ln/0102_202609010744332130",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=860814",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5056917"
  ],
  "seen_titles": [
-  "LG유플러스,한국난방과맞손…AIoT기술로안전사고줄인다",
-  "SKT,정부'모두의AI'사업자선정…전국민AI비서만든다",
-  "넥슨,'NYPC'파이널라운드성료…AI활용전략형대회개편",
-  "개보위,GS리테일에과징금128억",
-  "SK텔레콤,AI글래스사진자동정리한다",
-  "“한국이랑똑같네”日편의점서‘통신사할인’통했다",
-  "[굿모닝위즈·번외]문상철의기다림",
-  "카리나이너뷰티의비밀은삼겹살?",
-  "삼천리그룹SNS팔로워2만돌파∙∙∙고객∙팬접점확대",
-  "제이인츠바이오,유한양행·DGIST·연세-유일한폐암연구소바이오산업...",
-  "\"챗GPT구독료도아껴볼까\"…카드혜택'AI'로넓어진다",
-  "KT,우리은행'AI챗봇·상담봇'구축...\"에이전트로막힘없는금융상...",
   "KT,우리은행'인공지능챗봇·상담봇'구축사업자로선정",
   "KT,우리은행‘AI챗봇’고도화사업자선정",
   "LGU+,집단에너지시설에AIoT기반안전체계구축",
@@ -6001,7 +5989,19 @@
   "한국지역난방공사,LG유플러스와'AIoT기반집단에너지안전관리고도...",
   "제주실종사건이‘귤보디아’등괴담으로…‘선넘었다’",
   "iM證“SK이노베이션,SK온美ESS9GWh수주…연간목표절반채웠다”",
-  "대한항공도스타링크무료화...돈받던기내와이파이,왜공짜됐나"
+  "대한항공도스타링크무료화...돈받던기내와이파이,왜공짜됐나",
+  "한국농구,사우디꺾고3연패탈출…이현중\"많이반성해야\"",
+  "스테이블코인부터RWA까지…글로벌금융·웹3리더서울에모인다",
+  "AI의‘예측불가능성’은언제까지면책의이유가될수있을까[기고]",
+  "[오늘의투자전략]코스피,수출모멘텀에전약후강전망⋯반도체ㆍ유...",
+  "[증시전망대]중동충돌재개·유가급등직격탄…코스피,약세출발불...",
+  "미·이란무력공방재개에뉴욕증시'일제히하락'",
+  "미·이란재충돌에뉴욕증시하락…다우0.7%↓",
+  "\"삼전닉스내년이익치추가상향조정필요한시점\"",
+  "미·이란무력충돌재개에짓눌린뉴욕증시…\"지정학리스크·금리인...",
+  "환율13개월만에1360원대,외국인수급숨통트이나",
+  "인터넷은행,CSS고도화로'포용확대·건전성개선'",
+  "[CEOPICK]KT박윤영…'취임반년',에이전틱AICC영역확장"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,17 @@
   [
    "2026-09-01T07:56:16.780860+09:00",
    "목표 연간 채웠다 iM 9GWh SK온 ESS 수주 SK이노베이션 절반"
+  ],
+  [
+   "2026-09-01T08:00:39.970643+09:00",
+   "개선 건전성 인터넷은행 포용확대 고도화로 CSS"
+  ],
+  [
+   "2026-09-01T08:00:39.970643+09:00",
+   "박윤영 에이전틱AICC 반년 영역 취임 ~KT 확장"
   ]
  ],
- "last_run": "2026-09-01T07:58:31.228346+09:00",
+ "last_run": "2026-09-01T08:01:05.644490+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
