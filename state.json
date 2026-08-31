@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1119729",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170671",
-  "https://www.edaily.co.kr/News/Read?newsId=01505526645552240&mediaCodeNo=257",
-  "https://www.sedaily.com/article/20084706",
-  "https://www.g-enews.com/view.php?ud=202608290526268604e250e8e188_1",
-  "https://www.fnnews.com/news/202608290528098266",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432464",
-  "https://www.mediapen.com/news/view/1119727",
-  "https://www.newspim.com/news/view/20260829000007",
   "https://www.edaily.co.kr/News/Read?newsId=01397286645552240&mediaCodeNo=257",
   "https://www.segye.com/newsView/20260829500870?OutUrl=naver",
   "https://www.mediapen.com/news/view/1119723",
@@ -2999,18 +2990,18 @@
   "http://www.ddanzi.com/893042310",
   "https://www.g-enews.com/view.php?ud=202608310917065648923c501012_1",
   "https://www.etnews.com/20260831000045",
-  "https://biz.sbs.co.kr/article_hub/20000331650?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000331650?division=NAVER",
+  "http://www.popcornnews.net/news/articleView.html?idxno=131234",
+  "https://www.slist.kr/news/articleView.html?idxno=762477",
+  "https://www.ajunews.com/view/20260831092232958",
+  "https://www.jbnews.com/news/articleView.html?idxno=1510446",
+  "http://www.srtimes.kr/news/articleView.html?idxno=211185",
+  "https://www.seoultimes.news/news/article.html?no=2000099313",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52440",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406258",
+  "https://www.edaily.co.kr/News/Read?newsId=02430486645552896&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "클로드오푸스4.7,실제기업인프라침투알고도강행",
-  "오픈AI,저비용AI모델경쟁나서…\"GPT-5.6요금최대80%↓\"",
-  "오픈AI,GPT-5.6테라·루나가격인하…기업AI비용이슈겨냥",
-  "샘알트먼\"AI가생각대신하면인간인지능력약해질수있다\"",
-  "[美증시]케빈워시금리인상시사3대지수동반조정…반도체하락,빅...",
-  "\"매파워시\"...미국증시3대지수'하락'",
-  "'이정도면선방'…워시매파본색에나스닥0.5%↓[월스트리트in]",
-  "뉴욕증시,워시‘매파발언’에하락...반도체지수3.5%급락[데일리...",
-  "[뉴욕증시]워시연준의장긴축경고에나스닥141P↓",
   "[뉴욕증시]\"할일남았다\"워시발언에일제히하락…빅테크,대체로강...",
   "[뉴욕증시]'매파워시'에하락…30년물금리에울고웃고",
   "[美증시특징주]반도체팔고핵심하이퍼스케일러순환매…아마존닷컴...",
@@ -6001,7 +5992,16 @@
   "[뉴공아카이브]박시영경제평론가·12시에만나요진행자,이광수광수...",
   "코스피,美금리인상우려에2%대약세…장중6600선하회",
   "통신3사,PASS신분증QR검증캠페인…위변조우려없앤다",
-  "통신3사,PASS앱으로'가짜신분증'막는다"
+  "통신3사,PASS앱으로'가짜신분증'막는다",
+  "통신3사,'AI활용처'넓힌다…개인기록부터금융·에너지안전까지",
+  "공차,9월50%프로모션...국순당,횡성한우축제참여",
+  "SGA솔루션즈,AI공격고도화에통합보안으로대응…시장공략확대",
+  "SK하이닉스목표주가330만→240만원…HBM수익성눈높이낮춰",
+  "SKT,AI사진기록기능'에이닷로그'출시",
+  "LG유플러스·지역난방공사,AI로싱크홀징후찾는다…배관부식도감지",
+  "LGU+,아태통신사연합가입...해외서도멤버십혜택누린다",
+  "KISA,전남광주대학생대상생성형AI모의해킹대회개최",
+  "생성형AI로공공기관개인정보시스템모의해킹…실전형보안대회개최"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,17 @@
   [
    "2026-08-31T09:18:16.588969+09:00",
    "넘어 주행 승부 내비 프리미엄 디지털 성능 OTT 신차"
+  ],
+  [
+   "2026-08-31T09:28:14.638342+09:00",
+   "해외서도 누린다 가입 LG 연합 아태 멤버십 혜택"
+  ],
+  [
+   "2026-08-31T09:28:14.638342+09:00",
+   "실전형 개인정보 공공기관 시스템 보안대회 AI로 개최 생성형 모의해킹"
   ]
  ],
- "last_run": "2026-08-31T09:26:30.903543+09:00",
+ "last_run": "2026-08-31T09:28:39.288392+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
