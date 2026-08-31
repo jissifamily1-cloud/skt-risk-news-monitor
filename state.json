@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2117138",
   "https://view.asiae.co.kr/article/2026083109353723662",
   "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1170456",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=105773",
@@ -2999,10 +2998,10 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1722396",
   "https://www.mk.co.kr/article/12140223",
   "https://www.etoday.co.kr/news/view/2619931",
-  "https://news.bizwatch.co.kr/article/consumer/2026/08/31/0011"
+  "https://news.bizwatch.co.kr/article/consumer/2026/08/31/0011",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432740"
  ],
  "seen_titles": [
-  "'국가대표AI'평가또잡음…두번뽑고두번시끄러웠다",
   "챗GPT제친정확도…1400만연구자홀린K-AI에'500억뭉칫돈'",
   "GS숍166만명개인정보유출...GS리테일과징금128억원",
   "'보안AI'망분리빗장,저축은행·전금업자까지푼다",
@@ -6001,7 +6000,8 @@
   "[기자수첩]유출된건개인정보만이아니다",
   "개보위,‘166만명유출’GS리테일에128억과징금…“재발방지최선”",
   "GS리테일“개인정보유출사고에다시한번사과...정보보호강화”",
-  "해커반복공격에도'깜깜'…GS리테일,128억과징금"
+  "해커반복공격에도'깜깜'…GS리테일,128억과징금",
+  "[시사금융용어]모두의AI"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-09-01T07:28:16.998399+09:00",
    "경계 월가 vs 주목 애플"
+  ],
+  [
+   "2026-09-01T07:34:15.255269+09:00",
+   "모두의"
   ]
  ],
- "last_run": "2026-09-01T07:32:29.065932+09:00",
+ "last_run": "2026-09-01T07:34:40.195890+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
