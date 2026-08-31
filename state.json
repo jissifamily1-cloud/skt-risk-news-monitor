@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026073015201823278",
-  "https://zdnet.co.kr/view/?no=20260730152155",
-  "https://www.g-enews.com/view.php?ud=2026073010421770443d7a510102_1",
-  "https://www.newsinside.kr/news/articleView.html?idxno=4878485",
-  "https://dealsite.co.kr/articles/166261",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=203130",
-  "https://www.busan.com/view/busan/view.php?code=2026073013595694397",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89317",
   "https://www.dt.co.kr/article/12075673",
   "https://www.klnews.co.kr/news/articleView.html?idxno=322137",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=104847",
@@ -2999,17 +2991,17 @@
   "https://www.etoday.co.kr/news/view/2619868",
   "https://thetracker.co.kr/View.aspx?No=4205358",
   "https://www.joongangenews.com/news/articleView.html?idxno=544003",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=602392"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=602392",
+  "https://www.sedaily.com/article/20085116",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106216",
+  "https://www.sedaily.com/article/20085112",
+  "https://www.sedaily.com/article/20085110",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=80785",
+  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402482",
+  "https://www.sedaily.com/article/20085113",
+  "http://www.newsdream.kr/news/articleView.html?idxno=117139"
  ],
  "seen_titles": [
-  "삼성SDS,2분기매출3조7178억원…\"클라우드·물류성장견인\"",
-  "삼성SDS,2031년까지AI인프라800MW이상으로확대",
-  "“AI,해킹명령5317개실행…멕시코정부기관9곳피해”",
-  "삼성SDS,2분기영업익2318억원…클라우드·AI서비스성과확대",
-  "'키미K3'의출사표…시장은절반만읽었다[기고]",
-  "[컨콜]삼성SDS\"AI인프라800MW장기구축…글로벌기업도고객으로확...",
-  "삼성SDS,상반기영업익전년比37.8%감소",
-  "삼성SDS,2분기매출3조7178억원…클라우드·물류동반성장",
   "삼성SDS,2분기영업익2318억…클라우드·AI가실적견인",
   "2분기웃은삼성SDS·LGCNS,하반기더달린다",
   "삼성SDS2분기영업익2318억…클라우드·AI동반성장",
@@ -6001,7 +5993,15 @@
   "SKT,‘에이닷로그’선보여…AI글래스사진알아서기록한다",
   "LG유플러스,집단에너지시설에AIoT기반예지보전체계구축…한국지...",
   "SK텔레콤주가,8월31일장중93,000원5.68%하락",
-  "씨이랩엔비디아GPU고집적화수혜가능성한국투자증권2027년실적전..."
+  "씨이랩엔비디아GPU고집적화수혜가능성한국투자증권2027년실적전...",
+  "한도늘렸지만실탄은3000억…가계대출오픈런계속",
+  "대신증권,AI투자문턱낮춘다",
+  "“인력배치까지노조쟁의대상?”…숙련공투입발목잡는노봉법",
+  "“고용보다물가가문제”…워시발언에美금리인상확률57%",
+  "SK텔레콤,SK호라이즌과SK하이퍼이원화...AIDC구조재편",
+  "소셜미디어속CEO인사이트",
+  "美부채에AI회사채까지…“다음금융충격은선진국서터질것”",
+  "KISA,공공시스템모의해킹대회개최…사이버보안인재양성"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,21 @@
   [
    "2026-08-31T10:00:37.518905+09:00",
    "GPU 고집적화 2027년 실적 씨이랩 가능성 한국투자증권 수혜"
+  ],
+  [
+   "2026-08-31T10:02:14.293110+09:00",
+   "이원화 SK호라이즌과 재편 AIDC 구조 SK하이퍼 ~SKT"
+  ],
+  [
+   "2026-08-31T10:02:14.293110+09:00",
+   "CEO 소셜미디어 인사이트"
+  ],
+  [
+   "2026-08-31T10:02:14.293110+09:00",
+   "터질 회사채까지 선진국서 부채에 금융충격은 다음"
   ]
  ],
- "last_run": "2026-08-31T10:01:01.423669+09:00",
+ "last_run": "2026-08-31T10:02:43.906457+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
