@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260830152646m81",
-  "https://www.kado.net/news/articleView.html?idxno=2069340",
-  "https://www.imaeil.com/page/view/2026083014235569039",
-  "https://www.m-economynews.com/news/article.html?no=70239",
-  "https://www.sidae.com/article/2026083015043428052",
-  "https://www.dt.co.kr/article/12080954",
-  "https://www.ngonews.kr/news/articleView.html?idxno=236727",
-  "https://view.asiae.co.kr/article/2026083014444814866",
-  "https://www.viewsnnews.com/article?q=238230",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608300102&t=NN",
   "https://www.hankyung.com/article/2026083017017",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4432529",
   "https://www.news1.kr/politics/president/6273802",
@@ -2999,19 +2989,19 @@
   "https://zdnet.co.kr/view/?no=20260901174402",
   "https://news.tf.co.kr/read/economy/2360682.htm",
   "https://www.edaily.co.kr/News/Read?newsId=05103686645575856&mediaCodeNo=257",
-  "https://biz.sbs.co.kr/article_hub/20000332013?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000332013?division=NAVER",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169250",
+  "https://www.onews.tv/news/articleView.html?idxno=285954",
+  "https://biz.sbs.co.kr/article_hub/20000332014?division=NAVER",
+  "https://www.news1.kr/finance/market-exr/6276505",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307386",
+  "https://www.econovill.com/news/articleView.html?idxno=749556",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609010547&t=NNv",
+  "https://biz.chosun.com/it-science/ict/2026/09/01/HUYP34ZWDJERNBGESFTV4IGFQY/",
+  "https://www.seoul.co.kr/news/economy/car/2026/09/01/20260901500327?wlog_tag3=naver",
+  "https://it.donga.com/109445/"
  ],
  "seen_titles": [
-  "이대통령“부동산투기반드시타파…불공정조세시정”",
-  "이대통령“조세시정해투기폭탄돌리기제거…미친것처럼주택공급...",
-  "이대통령\"'공급못해미친'것처럼공급늘릴것…망국적부동산투기...",
-  "이대통령\"부동산투기무슨수써서라도타파…주택공급에국가역량...",
-  "李대통령\"공급못해미친것처럼늘리겠다\"…부동산투기와전면전",
-  "李대통령\"부동산투기근절,세제개혁·공급확대로타파\"",
-  "이대통령\"미친듯주택공급늘릴것…망국적부동산투기타파\"",
-  "李대통령“주택가격폭락대비,대량매입준비…금리유의하시라”",
-  "李대통령\"망국적부동산투기반드시타파...부동산투기관심가진분...",
-  "李대통령\"부동산투기무슨수써서라도타파\"…세제손보고공급'속...",
   "李대통령\"주택가격폭락대비지시했다\"",
   "李\"망국적부동산투기,무슨수를써서라도반드시타파\"",
   "李대통령\"부동산투기반드시잡는다…'공급못해미친듯'신속공급...",
@@ -6001,7 +5991,17 @@
   "SKT,달리는차량으로통신망점검…AI가이상징후찾는다",
   "최성환SK네트웍스사장,보유주식95.7%팔았다",
   "VC투자받은리걸테크,인수·국책사업으로판키운다[마켓인]",
-  "[투자전략따라잡기]외국인아직안떠났습니다\"여전히시장간보는..."
+  "[투자전략따라잡기]외국인아직안떠났습니다\"여전히시장간보는...",
+  "앤트로픽,람다와48조원규모클라우드계약",
+  "[현장]발열·소음낮추고성능은오래…레노버'씽크스테이션P4'공개",
+  "[셀럽의한수]美금리인상에한국도긴장“3.75%까지봐야합니다”",
+  "금리·유가부담이긴자사주매입…삼전닉스소폭상승[핫종목](종합)",
+  "\"9월엔여기주목\"···삼전·하닉'2배베팅'줄인개미들몰린곳",
+  "AI·SDV승부수던진일본車…\"현해탄완성차전쟁돌입\"",
+  "\"환율부담덜었다\"...미장가는개미들",
+  "엔비디아등에업은앤트로픽,48조원규모AI연산자원확보",
+  "중국BYD도가세…글로벌완성차‘피지컬AI’경쟁불붙었다",
+  "오픈AI의첫ASIC'할라페뇨'···'엔비디아를꺾는게아닌필요한칩..."
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,17 @@
   [
    "2026-09-01T18:00:35.984388+09:00",
    "시장 간보는 외국인 떠났습니다 아직 여전히"
+  ],
+  [
+   "2026-09-01T18:02:14.748865+09:00",
+   "가세 피지컬 글로벌 불붙었다 중국 BYD도 경쟁 완성차"
+  ],
+  [
+   "2026-09-01T18:02:14.748865+09:00",
+   "할라페뇨 엔비디아를 ASIC 아닌 오픈AI의 필요한 꺾는"
   ]
  ],
- "last_run": "2026-09-01T18:01:05.318311+09:00",
+ "last_run": "2026-09-01T18:02:41.173962+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
