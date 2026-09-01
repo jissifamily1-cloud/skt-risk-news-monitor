@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inven.co.kr/webzine/news/?news=320190",
-  "https://www.g-enews.com/view.php?ud=202608291713541983fbbec65dfb_1",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245305",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=63616",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208276",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=317355",
   "https://kpenews.com/View.aspx?No=4206019",
   "https://www.nocutnews.co.kr/news/6570670",
@@ -2999,14 +2994,14 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=116199",
   "https://www.news1.kr/it-science/cc-newmedia/6275761",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391692",
-  "https://www.yna.co.kr/view/AKR20260901057200091?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260901057200091?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722329",
+  "https://www.ddaily.co.kr/page/view/2026090109395325842",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214151",
+  "https://www.etnews.com/20260901000078",
+  "https://www.etnews.com/20260831000283"
  ],
  "seen_titles": [
-  "하정우·이해민·배경훈'AI삼각편대'완성…4개월공백끝정책속도낸...",
-  "[리뷰]성능과휴대성사이,괜찮은타협점-HPOMEN16",
-  "美연준,잭슨홀서AI거시충격질문…인프라가격양극화심화",
-  "SKT·카카오·KT'국민AI'맡는다…정부GPU512장지원",
-  "최태원\"한일,서로시장넓혀줄파트너\"…AI·공급망·에너지'동행'제...",
   "LG유플러스,한국지역난방공사와손잡고AIoT기반집단에너지안전관리...",
   "'오픈AI게임빌더스서울'개막",
   "‘필요하면세운다’재확인..SK하이닉스,대미투자더키우나",
@@ -6001,7 +5996,12 @@
   "KT,로밍데이터늘린다…'함께쓰는로밍'40GB상품신설",
   "KT,추석맞아멤버십혜택확대…외식할인·K팝공연초청",
   "오픈AI,스페이스X인수'커서'에AI모델공급중단예고…머스크와갈...",
-  "앤트로픽,AI의'통제이탈'자율해킹한달만에보안시험재개"
+  "앤트로픽,AI의'통제이탈'자율해킹한달만에보안시험재개",
+  "SK브로드밴드,AIDC사업분할…\"몸집줄이고재무건전성높인다\"",
+  "엔키화이트햇오딘,아시아'카스퍼스키CTF'우승…2년연속",
+  "엔키화이트햇오딘팀,카스퍼스키CTF아태지역2년연속우승",
+  "LG전자,실속형노트북'그램북AI2026'7일출시…“칩플레이션부담...",
+  "침해사고낸통신사,정부가매년이용자보호체계평가한다"
  ],
  "recent_sigs": [
   [
@@ -6397,7 +6397,7 @@
    "AI의 보안시험 자율해킹 한달만에 통제이탈 앤트로픽 재개"
   ]
  ],
- "last_run": "2026-09-01T10:01:02.263845+09:00",
+ "last_run": "2026-09-01T10:02:28.633136+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
