@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.geconomy.co.kr/news/article.html?no=323242",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000007809&cp=nv",
-  "https://www.voakorea.com/a/risk-of-dprk-hackers-penetrating-corporate-networks-083126/8192440.html",
   "https://www.mydaily.co.kr/page/view/2026083123291271795",
   "https://www.wikitree.co.kr/articles/1156321",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8650411",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/AKR20260901195700007?input=1195m",
   "https://isplus.com/article/view/isp202609010318",
   "https://www.news1.kr/sports/baseball/6276843",
-  "https://www.hankyung.com/article/2026090177317"
+  "https://www.hankyung.com/article/2026090177317",
+  "https://www.joongang.co.kr/article/25458198",
+  "https://byline.network/?p=9004111222617735",
+  "https://www.yna.co.kr/view/AKR20260901195800007?input=1195m"
  ],
  "seen_titles": [
-  "엔비디아,‘미국판딥시크’키운다…中개방형AI추격박차[미·중...",
-  "‘166만명개인정보유출’GS리테일128억과징금",
-  "GS25털린뒤에도같은공격못막았다…GS리테일166만명개인정보유출",
   "해커에166만명개인정보털린GS리테일과징금128억부과",
   "북한해커도노리는기업망‘관문’…“뚫리면내부시스템까지위험...",
   "166만명정보샜는데이상징후도몰랐다…GS리테일,128억과징금철퇴",
@@ -6001,7 +5998,10 @@
   "[프로야구수원전적]kt6-1한화",
   "한화무기력한7연패,KT에1-6패[IS수원]",
   "삼성,롯데꺾고6연승'1위수성'…'고별전'보스7이닝무실점",
-  "챗GPT광고시작200일만에…연매출1조3700억원돌파"
+  "챗GPT광고시작200일만에…연매출1조3700억원돌파",
+  "1위삼성·2위KT나란히승리,0.5경기차유지…KT대니엘KBO첫승",
+  "AI시대고성능조건은‘냉각’…레노버가내놓은해법은",
+  "선두삼성,보스역투로6연승…2위kt도한화꺾고맹추격"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-09-01T21:34:17.576959+09:00",
    "지금 믿었다면 주가 주식 사라 젠슨 성적표는"
+  ],
+  [
+   "2026-09-01T21:58:16.987824+09:00",
+   "보스 2위 한화 삼성 꺾고 역투로 맹추격 ~KT kt도 6연승 선두"
   ]
  ],
- "last_run": "2026-09-01T21:56:35.531910+09:00",
+ "last_run": "2026-09-01T21:58:37.980911+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
