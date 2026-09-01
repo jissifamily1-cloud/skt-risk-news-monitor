@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=131326",
-  "https://www.etoday.co.kr/news/view/2620091",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852127",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=364409",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=364410",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85260",
-  "https://www.meconomynews.com/news/articleView.html?idxno=201055",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482212",
-  "https://biz.chosun.com/international/international_general/2026/08/31/NGT56RDAX5CGPLYZD5FTWM5LGE/",
   "https://www.dt.co.kr/article/12081178",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=53906",
   "https://economist.co.kr/article/view/ecn202608310051",
@@ -2999,18 +2990,18 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245312",
   "https://www.mk.co.kr/article/12141088",
   "https://www.thepublic.kr/news/articleView.html?idxno=317017",
-  "https://www.mediapen.com/news/view/1120316"
+  "https://www.mediapen.com/news/view/1120316",
+  "https://www.dt.co.kr/article/12080857",
+  "https://www.aitimes.com/news/articleView.html?idxno=214610",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=811455",
+  "https://view.asiae.co.kr/article/2026090110514166774",
+  "https://www.cstimes.com/news/articleView.html?idxno=718877",
+  "https://www.newspim.com/news/view/20260831000859",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94558",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16179170",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94563"
  ],
  "seen_titles": [
-  "[마감시황]코스피,장중3.5%급락딛고6820선반등…\"반도체가살렸다...",
-  "'보는신분증'에서'검증하는신분증'으로…통신3사,PASS신분증QR검증...",
-  "최태원회장“SK하이닉스,일본반도체합작공장검토”",
-  "최태원\"日반도체합작공장검토…전력·용수풍부한곳어디든고려\"",
-  "한일상의,공급망·AI협력확대…최태원\"더큰시장만들자\"",
-  "해외진출하는원스토어,'글로벌'·'원샵'동시출격",
-  "송병준컴투스의장\"AI시대,게임창작대중화활짝…서비스혁신가...",
-  "롯데그룹상반기실적'온기'...유통·식품·화학모처럼함께웃었다",
-  "[거래소기관]삼성전기·SK이노베이션담고삼성전자·SK하이닉스팔았...",
   "최태원,외신인터뷰서“日에반도체합작공장설립검토”",
   "최태원“한일,닮은면많아…상호시장넓혀주는파트너가능”",
   "한난-LG유플러스,AIoT로집단에너지안전관리전환",
@@ -6001,7 +5992,16 @@
   "GS리테일개인정보166만명유출에과징금'128억원'",
   "청호그룹신임CEO에최진환전롯데렌탈대표",
   "AI오류·환각잡는다…LG유플러스,어라이즈AI와관리체계구축",
-  "‘내수기업’을‘글로벌초일류’로…최태원28년,SK지도를바꾸다"
+  "‘내수기업’을‘글로벌초일류’로…최태원28년,SK지도를바꾸다",
+  "올트먼,스페이스X로인수된‘커서’계약해지…머스크\"사기꾼\"맹비...",
+  "오픈AI,스페이스X인수'커서'에모델제공중단...머스크와갈등격화",
+  "[오늘증시]코스피,6800선공방…금리·중동불안속'반도체버티기'",
+  "“주식만사고팔던시대끝”…메리츠증권,AI·글로벌투자자묶은‘...",
+  "삼전닉스,미·이란충돌재개에도반도체주강세에'상승'",
+  "개보위,개인정보165만명유출GS리테일에128억과징금",
+  "[속보]삼성전기,엔비디아와'1조700억'규모MLCC공급계약…역대최...",
+  "SK텔레콤주가,9월1일장중92,800원1.49%하락",
+  "[2보]삼성전기,엔비디아와역대최대1.7兆'AI서버용MLCC'공급계약..."
  ],
  "recent_sigs": [
   [
@@ -6459,9 +6459,17 @@
   [
    "2026-09-01T10:56:13.467570+09:00",
    "코인 가격 띄워 주의 만에 20분 100배 가상자산 대출"
+  ],
+  [
+   "2026-09-01T11:00:35.992679+09:00",
+   "9월 주가 ~SKT 장중 1일 800원 하락"
+  ],
+  [
+   "2026-09-01T11:00:35.992679+09:00",
+   "서버용 역대 공급 계약 MLCC 엔비디아와 삼성전기"
   ]
  ],
- "last_run": "2026-09-01T10:58:33.410340+09:00",
+ "last_run": "2026-09-01T11:00:56.888515+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
