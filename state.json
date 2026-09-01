@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1330880",
-  "http://www.lawissue.co.kr/view.php?ud=202608312026453628204ead0791_12",
-  "http://www.cctimes.kr/news/articleView.html?idxno=924608",
-  "http://www.kjdaily.com/article.php?aid=1788175006685646005",
-  "https://www.khan.co.kr/article/202608312025005",
-  "http://www.lawissue.co.kr/view.php?ud=202608312032058182204ead0791_12",
-  "http://www.osen.co.kr/article/G1112866908",
-  "http://www.lawissue.co.kr/view.php?ud=20260831203448513204ead0791_12",
   "https://www.khan.co.kr/article/202608312033005",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=501740",
   "https://zdnet.co.kr/view/?no=20260831204531",
@@ -2999,17 +2991,17 @@
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609010524&t=NNv",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=63670",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5216182",
-  "https://www.ytn.co.kr/_ln/0102_202609011500022356"
+  "https://www.ytn.co.kr/_ln/0102_202609011500022356",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722507",
+  "https://www.thelec.kr/news/articleView.html?idxno=61600",
+  "https://www.newsis.com/view/NISX20260901_0003771642",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=663581",
+  "https://www.inthenews.co.kr/news/article.html?no=91260",
+  "https://www.socialvalue.kr/news/view/1065589561670138",
+  "https://kr.aving.net/news/articleView.html?idxno=1813884",
+  "https://zdnet.co.kr/view/?no=20260901145642"
  ],
  "seen_titles": [
-  "여준석'홈에서질수없지'[포토]",
-  "‘젊은피수혈’남농구대표…‘에이스’이현중“실패딛고더높은...",
-  "'공중협박손배소'첫판결서경찰관기본급제외",
-  "공차코리아,9월제휴·자체프로모션으로고객혜택확대",
-  "청주상의한일지방상의교류우수사례표창",
-  "법따로현장따로…단속비웃는온라인암표거래",
-  "‘166만명개인정보유출’GS리테일에과징금128억원",
-  "DT네트웍스,ktwiz와야구장서BYD브랜드접점확대",
   "[사진]에디다니엘,'가볍게올려놓는다'",
   "KT알파쇼핑,여행용품NPB‘로들리’로캐리어시장공략",
   "최태원“일본에하이닉스메모리공장설립검토”",
@@ -6001,21 +5993,17 @@
   "일본반도체공장'낸드'유력…최태원의노림수는HBF",
   "더투데이,민영뉴스통신사로새롭게도약",
   "HBM4존재감커졌다…목표가삼성전자40만→45만원·하이닉스330만→...",
-  "방송미디어통신위원회,2,977억원규모내년도예산안마련"
+  "방송미디어통신위원회,2,977억원규모내년도예산안마련",
+  "[현장]\"탐지보다판단·대응\"…LGU+가인수한파고,AI보안운영으로승...",
+  "퀄컴드래곤윙IoT데이개최,기반제품16개시연",
+  "청호그룹,경영진'새판'…지주사대표에최진환",
+  "칼라일품청호그룹,'ADT캡스사단'전면배치",
+  "LG유플러스,‘어라이즈AI’와AI에이전트안전관리체계구축",
+  "LG유플러스,AI에이전트관리체계구축…어라이즈AI와제휴",
+  "비큐에이아이,K-ICTWEEK2026서뉴스데이터파이프라인'RDPLINE'선보여...",
+  "[현장]이수정IBM사장\"AI경쟁,핵심은모델아닌운영\""
  ],
  "recent_sigs": [
-  [
-   "2026-09-01T09:06:16.928013+09:00",
-   "촉각 곤두 되나요 어떻게 일본기자들 투자"
-  ],
-  [
-   "2026-09-01T09:06:16.928013+09:00",
-   "대표 개편 데이터 로밍 늘린다 상품 이용기간 해외여행객 ~KT"
-  ],
-  [
-   "2026-09-01T09:06:16.928013+09:00",
-   "개인정보 보호 강화 KT엠모바일 가입신청서 전자문서로 ~KT 바꾼다"
-  ],
   [
    "2026-09-01T09:12:14.963345+09:00",
    "줄인 RAN ~SKT 투자 LGU 시동 ~KT 6조로 늘리나 6G ~LGU 다시 CAPEX"
@@ -6507,9 +6495,17 @@
   [
    "2026-09-01T15:04:24.420197+09:00",
    "예산안 내년도 규모 977억 방송미디어통신위원회 마련"
+  ],
+  [
+   "2026-09-01T15:08:15.706202+09:00",
+   "데이터 2026서 선보여 RDPLINE 비큐에이아이 WEEK 파이프라인 ICT"
+  ],
+  [
+   "2026-09-01T15:08:15.706202+09:00",
+   "IBM 모델 아닌 이수정 운영 경쟁 핵심은 사장"
   ]
  ],
- "last_run": "2026-09-01T15:06:31.704053+09:00",
+ "last_run": "2026-09-01T15:08:42.222462+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
