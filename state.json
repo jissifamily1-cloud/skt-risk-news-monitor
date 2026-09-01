@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=241314",
-  "https://byline.network/?p=9004111222617452",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=317133",
-  "https://www.mk.co.kr/article/12140476",
-  "http://www.paxetv.com/news/articleView.html?idxno=280631",
-  "https://www.hankyung.com/article/202608314302i",
-  "https://www.dongponews.net/news/articleView.html?idxno=60202",
   "https://www.khan.co.kr/article/202608311624001",
   "https://news.dealsitetv.com/articles/175426",
   "https://www.greened.kr/news/articleView.html?idxno=348848",
@@ -2999,16 +2992,16 @@
   "http://www.4th.kr/news/articleView.html?idxno=2117230",
   "https://biz.heraldcorp.com/article/10858602",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2437602",
-  "https://www.ccdailynews.com/news/articleView.html?idxno=2437596"
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2437596",
+  "https://www.mydaily.co.kr/page/view/2026090110194434162",
+  "https://www.boannews.com/news/articleView.html?idxno=145578",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41690",
+  "https://dealsite.co.kr/articles/168194",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156600",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=418732",
+  "https://www.news2day.co.kr/article/20260901500010"
  ],
  "seen_titles": [
-  "넥슨,'전면개편'통해AI활용전략형대회로첫발뗀NYPC…첫오프라...",
-  "넥슨,‘NYPC파이널라운드’성료⋯“AI활용전략형대회로첫발”",
-  "[인터뷰]\"AI에이전트보안,핵심은'의도'를읽어내는것\"",
-  "SKT,AI글래스촬영사진기록기능‘에이닷로그’공개",
-  "퀄컴,한국서산업용AI생태계확대…삼성·현대차등500명집결",
-  "퀄컴,드래곤윙IoT데이개최..주요협력사데모공개",
-  "마키나락스,창원에첫지역거점…영남제조업'피지컬AI'공략",
   "최태원“日에반도체합작공장검토\"",
   "한-일상의,미래산업손잡고'경제연대'본격화…AI·반도체협력확대",
   "최태원SK회장“일본내반도체합작공장설립검토”",
@@ -6001,7 +5994,14 @@
   "[하우스분석]테스투자,VC·PE투트랙인력풀…초고속'8주심사체계...",
   "기업용AI'오답'잡는다…LG유플러스,에이전트관리체계구축",
   "KT,로밍데이터·부가혜택늘린다",
-  "KT충남서부지사,보령시에이웃사랑후원물품전달"
+  "KT충남서부지사,보령시에이웃사랑후원물품전달",
+  "[재계빅4,지배구조2.0리포트①]이사회문턱넘는‘회사주인’…...",
+  "엔키화이트햇'오딘'팀,2026카스퍼스키CTF아시아·오세아니아2년...",
+  "[AI리뷰]\"AI가GPU를사람보다빠르게최적화\"…바이트댄스·칭화대'쿠...",
+  "[IT는지금]LG유플러스,어라이즈AI와AI에이전트관리체계구축外",
+  "SKT'에어'20만명돌파…유튜브프리미엄라이트1년무료",
+  "SKT'에어'회원20만돌파…유튜브프리미엄무료프로모션",
+  "[재계인사이드]삼전닉스가말하지않는수율(收率)의비밀과웨이퍼..."
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,13 @@
   [
    "2026-09-01T11:26:15.929916+09:00",
    "이웃사랑 후원물품 보령시에 충남서부지사 전달 ~KT"
+  ],
+  [
+   "2026-09-01T11:28:17.355588+09:00",
+   "비밀과 수율 말하지 웨이퍼 삼전닉스가 않는"
   ]
  ],
- "last_run": "2026-09-01T11:26:37.055115+09:00",
+ "last_run": "2026-09-01T11:28:36.291524+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
