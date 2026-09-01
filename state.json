@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=260539",
-  "https://www.dt.co.kr/article/12081154",
-  "https://www.mt.co.kr/stock/2026/08/31/2026083114295587618",
-  "https://www.mediapen.com/news/view/1120010",
   "https://it.donga.com/109437/",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260831010010449",
   "https://www.businesspost.co.kr/BP?command=article_view&num=445993",
@@ -2999,13 +2995,13 @@
   "https://www.dailian.co.kr/news/view/1684557/?sc=Naver",
   "https://www.kbsm.net/news/view.php?idx=532200",
   "https://www.yna.co.kr/view/AKR20260831112400011?input=1195m",
-  "https://www.mk.co.kr/article/12140343"
+  "https://www.mk.co.kr/article/12140343",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=53927",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=861042",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=391688",
+  "https://www.newspim.com/news/view/20260901000295"
  ],
  "seen_titles": [
-  "'5시간안에게임만들기'···AI게임개발대회이어지는이유",
-  "\"AI가코딩해도전략은사람몫\"넥슨,NYPC파이널라운드성료",
-  "[영상]챌린지도하는휴머노이드…에이티즈‘배드’완벽카피",
-  "한국투자증권,'오픈API활성화'캠페인...호출한도5배확대혜택",
   "피지컬AI,주도권은누구?...'뛰는'중국,'갈길바쁜'한국",
   "[리뷰]슬림하고조용한실속형올인원PC,레노버A105",
   "최태원,한일‘6조달러경제연대’제안…AI·첨단산업부터시장넓힌...",
@@ -6001,7 +5997,11 @@
   "방미통위,중소기업홈쇼핑판로넓힌다…‘도약마켓’전국확대",
   "개보위,개인정보166만명유출GS리테일에과징금128억원부과",
   "[연합뉴스이시각헤드라인]-14:30",
-  "개인정보유출사건1년간447건…유출원인1위는‘해킹’"
+  "개인정보유출사건1년간447건…유출원인1위는‘해킹’",
+  "166만명개인정보유출···전담조직없던GS리테일의구멍",
+  "노타,'모두의AI'사업참여…AI경량화기술제공",
+  "美AI데이터기업들,중국업체와거래논란…\"국방부계약과병행\"우...",
+  "[미국특징주]\"앤스로픽,엔비디아투자사람다와350억달러클라우드..."
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-09-01T09:50:24.272922+09:00",
    "운영 9월 추석 공연 확대 ~KT 문화 혜택 맞이"
+  ],
+  [
+   "2026-09-01T09:56:14.289049+09:00",
+   "기업들 데이터 논란 계약과 업체와 중국 거래 국방부 병행"
+  ],
+  [
+   "2026-09-01T09:56:14.289049+09:00",
+   "350억달러 클라우드 투자사 람다와"
   ]
  ],
- "last_run": "2026-09-01T09:54:34.272012+09:00",
+ "last_run": "2026-09-01T09:56:39.917831+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
