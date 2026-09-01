@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/company/6275820",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170785",
-  "https://www.news1.kr/local/jeju/6275005",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=317174",
-  "https://www.etnews.com/20260901000170",
-  "https://www.nspna.com/news/?newsid=826386",
-  "https://www.g-enews.com/view.php?ud=202609011057052994fbbec65dfb_1",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651342",
   "https://www.etoday.co.kr/news/view/2620378",
   "https://www.yna.co.kr/view/AKR20260901061100004?input=1195m",
   "https://www.news1.kr/local/moi/6275579",
@@ -2999,17 +2991,17 @@
   "https://economist.co.kr/article/view/ecn202609020003",
   "https://www.etoday.co.kr/news/view/2620809",
   "https://www.kukinews.com/article/view/kuk202609020012",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=260681"
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=260681",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482896",
+  "http://www.inews24.com/view/2000884",
+  "https://www.catchnews.kr/news/articleView.html?idxno=128015",
+  "https://www.segye.com/newsView/20260902503626?OutUrl=naver",
+  "https://www.slist.kr/news/articleView.html?idxno=763028",
+  "https://www.etoday.co.kr/news/view/2620811",
+  "https://www.hankyung.com/article/202609028358i",
+  "https://www.peoplewatch.co.kr/article/view/ppw202609010013"
  ],
  "seen_titles": [
-  "\"현금보상은받는순간유인효과소멸\"…경총,총보상패러다임재설...",
-  "\"연공형임금벗어나야…직무·성과기반총보상재설계필요\"",
-  "美루멘텀'상승'에도,한국증시광통신주'장중뚝'...왜?",
-  "\"근거없는'제주괴담'삭제를\"…민주제주도당,방미통위에공문",
-  "SKT'에어',20만회원돌파...유튜브프리미엄라이트1년무료",
-  "IPO앞둔메가존클라우드,네오위즈로파트너스투자유치",
-  "[기업경쟁력]KT,여행객맞춤상품재편…해외로밍상품경쟁력강화",
-  "美공군,앤스로픽9월1일퇴출시한…조달망검증본격화",
   "[무등의아침]KIA,천적NC·KT를넘어라…노동일광주FC대표,성적부...",
   "서울창업허브성수,Age-Tech창업거점으로⋯기업발굴·사업화까지한...",
   "서울시,서울창업허브성수서'에이지테크'기업육성",
@@ -6001,7 +5993,15 @@
   "[속보]소비자물가2달만에3%↑…작년SKT'통신비감면'기저효과결정...",
   "2개월만에물가3%복귀…\"SKT통신비할인기저효과\"",
   "8월물가3.1%로다시3%대…정부“통신비효과빼면2.5%”",
-  "AI가바꾼에너지의무게...SK그룹,'칩·데이터센터·전력'한축으로"
+  "AI가바꾼에너지의무게...SK그룹,'칩·데이터센터·전력'한축으로",
+  "NCAI,오디오생성AI'바르코사운드'출시…자연어로생성·편집가능",
+  "머스크·저커버그,G20에\"AI규제풀고데이터센터늘려야\"",
+  "9월1일주식시장주요공시",
+  "“가전2개샀더니수백만원빠졌다”…이사·혼수철‘묶음할인’전쟁",
+  "키스오브라이프,베리즈공식팬커뮤니티오픈...전세계'키씨'연결",
+  "오픈AI,자동화된사이버공격가능AI모델'아스트라'곧출시[마켓핫...",
+  "최태원\"日키옥시아와공동생산가능…합작공장도검토\"",
+  "해명·조회공시불러온최태원발언…실수혹은고도의전략?"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,17 @@
   [
    "2026-09-02T08:54:14.201552+09:00",
    "SK그룹 AI가 전력 에너지의 데이터센터 무게 바꾼 축으로"
+  ],
+  [
+   "2026-09-02T08:56:16.310835+09:00",
+   "공동생산 키옥시아와 합작공장도 검토 가능"
+  ],
+  [
+   "2026-09-02T08:56:16.310835+09:00",
+   "불러온 발언 해명 고도의 조회공시 전략 혹은 실수"
   ]
  ],
- "last_run": "2026-09-02T08:54:34.726296+09:00",
+ "last_run": "2026-09-02T08:56:43.204377+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
