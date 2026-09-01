@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://it.donga.com/109437/",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260831010010449",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=445993",
-  "http://www.inews24.com/view/2000081",
-  "http://www.newsdream.kr/news/articleView.html?idxno=117190",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191463",
   "https://news.tf.co.kr/read/world/2359902.htm",
   "https://www.ikbc.co.kr/article/view/kbc202608310039",
   "http://www.osen.co.kr/article/G1112866782",
@@ -2999,15 +2993,15 @@
   "https://www.enetnews.co.kr/news/articleView.html?idxno=53927",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=861042",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391688",
-  "https://www.newspim.com/news/view/20260901000295"
+  "https://www.newspim.com/news/view/20260901000295",
+  "https://www.ziksir.com/news/articleView.html?idxno=144913",
+  "https://biz.sbs.co.kr/article_hub/20000331927?division=NAVER",
+  "https://www.ytn.co.kr/_ln/0102_202609010945030445",
+  "http://www.inews24.com/view/2000402",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16179053",
+  "http://www.newsprime.co.kr/news/article.html?no=745887"
  ],
  "seen_titles": [
-  "피지컬AI,주도권은누구?...'뛰는'중국,'갈길바쁜'한국",
-  "[리뷰]슬림하고조용한실속형올인원PC,레노버A105",
-  "최태원,한일‘6조달러경제연대’제안…AI·첨단산업부터시장넓힌...",
-  "대한상의최태원\"한일경제공동체로가야\",청년·AI·미래산업협력제...",
-  "오픈AI,국내첫'게임빌더스서울'개최…AI게임개발논의",
-  "한국투자증권,'오픈API활성화캠페인'진행…호출한도최대5배확대",
   "[증권NOW]한국투자증권·NH투자증권·키움증권·신한투자증권",
   "AI기업투자로220조벌어…美빅테크실적'착시'우려",
   "GS25털리고도GSSHOP유출몰랐다…166만명정보유출GS리테일과징...",
@@ -6001,7 +5995,13 @@
   "166만명개인정보유출···전담조직없던GS리테일의구멍",
   "노타,'모두의AI'사업참여…AI경량화기술제공",
   "美AI데이터기업들,중국업체와거래논란…\"국방부계약과병행\"우...",
-  "[미국특징주]\"앤스로픽,엔비디아투자사람다와350억달러클라우드..."
+  "[미국특징주]\"앤스로픽,엔비디아투자사람다와350억달러클라우드...",
+  "11번가,가을맞이'월간십일절'…가전·먹거리최대55%할인",
+  "\"中CXMT,HBM3E소량생산중…韓과불과1세대격차\"",
+  "국제유가·금리불안에코스피약세...삼전닉스도하락출발",
+  "코스피,중동리스크에6700선하락출발…코스닥동반약세",
+  "엔비디아주가,220.78달러1.48%상승마감",
+  "[특징주]제주반도체,미디어텍'엔비디아5조투자'잭팟…'칩셋필수..."
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,17 @@
   [
    "2026-09-01T09:56:14.289049+09:00",
    "350억달러 클라우드 투자사 람다와"
+  ],
+  [
+   "2026-09-01T09:58:17.978866+09:00",
+   "상승 78달러 마감 주가"
+  ],
+  [
+   "2026-09-01T09:58:17.978866+09:00",
+   "잭팟 투자 미디어텍 필수 제주반도체 칩셋 5조"
   ]
  ],
- "last_run": "2026-09-01T09:56:39.917831+09:00",
+ "last_run": "2026-09-01T09:58:38.312984+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
