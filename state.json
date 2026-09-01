@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026083115462747011",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121080",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115269",
-  "https://www.dailian.co.kr/news/view/1684689/?sc=Naver",
-  "https://www.khan.co.kr/article/202608311822001",
-  "https://zdnet.co.kr/view/?no=20260831175920",
-  "https://www.dt.co.kr/article/12081254",
-  "https://www.kbsm.net/news/view.php?idx=532324",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116177",
-  "https://www.ekn.kr/web/view.php?key=20260831026318707",
   "http://www.koreastocknews.com/news/articleView.html?idxno=120916",
   "https://futurechosun.com/?p=159086",
   "https://www.koreaittimes.com/news/articleView.html?idxno=156575",
@@ -2999,19 +2989,19 @@
   "https://www.gamevu.co.kr/news/articleView.html?idxno=60482",
   "https://www.dt.co.kr/article/12081425",
   "https://www.ngonews.kr/news/articleView.html?idxno=236898",
-  "https://www.dt.co.kr/article/12081423"
+  "https://www.dt.co.kr/article/12081423",
+  "https://www.goodkyung.com/news/articleView.html?idxno=290803",
+  "https://www.itworld.co.kr/article/4216764/발열-관리가-성능-좌우-레노버-씽크스테이션-p4-워크.html",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3139078",
+  "https://www.edaily.co.kr/News/Read?newsId=04113126645575856&mediaCodeNo=257",
+  "https://www.hankyung.com/article/202609016533i",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245345",
+  "https://www.ddaily.co.kr/page/view/2026090113522230750",
+  "https://www.greened.kr/news/articleView.html?idxno=348912",
+  "https://economist.co.kr/article/view/ecn202609010026",
+  "https://www.irobotnews.com/news/articleView.html?idxno=48230"
  ],
  "seen_titles": [
-  "AI로벌었나?머스크덕에벌었나?빅테크AI수익'착시논란'",
-  "[마감시황]코스피,장중3.55%급락딛고6820선회복...'삼전·닉스'반...",
-  "[클릭e종목]\"삼성SDS,인프라증설상향가능성…목표가↑\"",
-  "개인정보위,고객166만명개인정보유출GS리테일에128억과징금",
-  "SKT,AI글래스촬영사진자동정리하는'에이닷로그'출시",
-  "하정우국가AI전략위부위원장\"독파모,근본목적맞춰잘가는지돌아...",
-  "민주당도당“제주허위정보삭제해야”···방미통위에요청",
-  "중국AI공세에기업용SW경쟁축도바뀐다…'모델'보다'활용'",
-  "이번엔실적착시우려…\"AI빅테크,다른기업지분평가이익220조원\"",
-  "아스테로모프멀티모달AI,IPhO이론부문서30점만점중28.6점수렴",
   "[비즈+]SK에코플랜트,해상풍력자회사SK오션플랜트지분전량매각…...",
   "[가스소식]경동나비엔환기청정기무덕트시공솔루션출시,가스안전...",
   "SK하이닉스,'日반도체합작공장설립검토'부인",
@@ -6001,7 +5991,17 @@
   "[게임뉴스]컴투스및플레이위드코리아소식외",
   "SKT자급제전용통신서비스‘에어’,20만회원돌파기념프로모션",
   "KT,해외여행고객로밍상품개편···\"데이터이용편의향상\"",
-  "KT멤버십,추석맞이멤버십혜택확대…외식·쇼핑최대50%할인"
+  "KT멤버십,추석맞이멤버십혜택확대…외식·쇼핑최대50%할인",
+  "[심층진단]SKT비장의무기'AIDC'…인적분할·전문회사신설로시장주...",
+  "“발열관리가성능좌우”레노버씽크스테이션P4,워크스테이션수랭...",
+  "메리츠증권,'MOUM'출사표...AI·커뮤니티결합해리테일시장정조준",
+  "美·이란충돌속코스피6800선보합권공방…기타법인‘자사주매입...",
+  "세미파이브“올해고성능3DIC칩개발…게임체인저될것”",
+  "앤트로픽,48조원규모AI연산인프라추가확보",
+  "\"144MBV-캐시로레노버씽크스테이션P4무장\"…AMD\"산업혁신,워크스...",
+  "메리츠증권,AI·글로벌커뮤니티결합금융플랫폼'MOUM'출시",
+  "“美개미와실시간종목토론”…이장욱메리츠證전무“‘모음’으로...",
+  "앤트로픽,'AI가로봇팔·실험장비직접조작하는'인터페이스규격공..."
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-09-01T13:48:13.284316+09:00",
    "2조6000억 신설 내년 신속 뒷받침 차원 정부 반도체특별회계 재정"
+  ],
+  [
+   "2026-09-01T13:59:29.753718+09:00",
+   "조작하는 인터페이스 로봇팔 실험장비 규격 앤트로픽 AI가 직접"
   ]
  ],
- "last_run": "2026-09-01T13:56:36.098143+09:00",
+ "last_run": "2026-09-01T13:59:46.763253+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
