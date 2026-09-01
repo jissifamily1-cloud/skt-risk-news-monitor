@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260901063851003?input=1195m",
-  "https://www.goodkyung.com/news/articleView.html?idxno=290832",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=272659",
-  "https://www.gokorea.kr/news/articleView.html?idxno=876778",
-  "https://www.hellot.net/news/article.html?no=114666",
   "https://www.pressman.kr/news/articleView.html?idxno=103444",
   "https://www.cnbizm.com/news/articleView.html?idxno=313410",
   "https://www.businesspost.co.kr/BP?command=article_view&num=446067",
@@ -2999,14 +2994,14 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020256&t=NN",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020237&t=NN",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=245367",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16179958"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16179958",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34625",
+  "https://www.aitimes.com/news/articleView.html?idxno=214477",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535849",
+  "https://www.g-enews.com/view.php?ud=202608270925544445906806b77b_1",
+  "https://www.youthdaily.co.kr/news/article.html?no=226071"
  ],
  "seen_titles": [
-  "[글로벌마켓리포트9월1일]",
-  "삼성전기,1조원대AI서버용MLCC수주…빅테크와잇달아계약(종합)",
-  "[뉴욕증시포커스]미·이란충돌재개에일제히하락…유가급등·금리...",
-  "美·이란재충돌덮친국장…코스피,반도체덕에6800선서상승전환",
-  "미국과이란긴장고조로뉴욕증시하락세,유가급등까지",
   "노타,‘모두의AI’합류…국가AI모델부터서비스까지최적화",
   "데이터더주고여행혜택까지…통신3사고객잡기나서",
   "SK텔레콤'에어',20만회원돌파…유튜브프리미엄라이트1년무료",
@@ -6001,7 +5996,12 @@
   "빅테크로보택시대전격화속반도체노사갈등·AI수혜주엇갈린행...",
   "국채금리·유가상승에반도체주약세…주택관련주도동반하락-[美증...",
   "[오늘의주요일정·2일]행안부,2026년대한민국안전산업박람회",
-  "미국증시,중동긴장에유가·금리급등…나스닥1%↓엔비디아·반도체..."
+  "미국증시,중동긴장에유가·금리급등…나스닥1%↓엔비디아·반도체...",
+  "[정지상의'METRIC']운영데이터는왜개발환경에남는가",
+  "오픈AI\"AGI임계점에도달…올해말내부구축완료할것\"",
+  "임형도의경제노트(50회)",
+  "[김대호인물]AI노스트라다무스...엔트로픽내부자거래?",
+  "개보위,개인정보유출GS리테일에과징금128억원부과"
  ],
  "recent_sigs": [
   [
@@ -6213,7 +6213,7 @@
    "급등 금리 나스닥 유가 반도체 중동 긴장에 미국증시"
   ]
  ],
- "last_run": "2026-09-02T07:16:40.353409+09:00",
+ "last_run": "2026-09-02T07:18:38.056658+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
