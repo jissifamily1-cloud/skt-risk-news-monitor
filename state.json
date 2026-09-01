@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12140659",
-  "https://www.sentv.co.kr/article/view/sentv202608310133",
-  "https://www.hankyung.com/article/2026083145611",
-  "https://www.hankyung.com/article/2026083146451",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106239",
-  "https://www.mt.co.kr/stock/2026/08/31/2026083117105657593",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5215996",
   "https://zdnet.co.kr/view/?no=20260831180126",
   "https://www.tokenpost.kr/news/ai/399178",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260901010010748",
@@ -2999,16 +2992,16 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=861201",
   "https://www.sentv.co.kr/article/view/sentv202608310196",
   "https://www.chosun.com/economy/tech_it/2026/08/30/UR6KWIZCP5CR3H2PXN4O72TSJM/",
-  "https://www.bloter.net/news/articleView.html?idxno=672336"
+  "https://www.bloter.net/news/articleView.html?idxno=672336",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3681077",
+  "https://www.donga.com/news/Economy/article/all/20260901/134581827/1",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697209",
+  "https://byline.network/?p=9004111222617568",
+  "https://www.fnnews.com/news/202609011319080930",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=317991",
+  "https://www.yna.co.kr/view/AKR20260901053200017?input=1195m"
  ],
  "seen_titles": [
-  "\"행정수도특별법연내제정\"범국민결의대회를개최",
-  "\"GPU0.001장으로쪼개활용률2배높여…이젠최적화기술이경쟁력\"",
-  "GPU수십만장확보해도…제대로못돌리면AI성능'반쪽'",
-  "“가전넘어피지컬AI로”…LG전자,美서인재영입전",
-  "[단독]TSMC처럼…주문형반도체위탁설계",
-  "삼성전자목표가상향…HBM4수율개선효과",
-  "['클릭'증시]삼전닉스자사주매입에잭슨홀'매파'연설딛고반등",
   "삼전닉스자사주매입이받친코스피…美실적·고용주목",
   "방미통위,'도약마켓'전국확대...지역기업홈쇼핑판로지원",
   "방미통위‘도약마켓’전국확대…12개홈쇼핑중기판로지원",
@@ -6001,13 +5994,16 @@
   "RE100외친추미애…문제는'디테일'에있다",
   "‘영상에담긴원주의매력’…원주시민영상공모전28개작품수상",
   "샘올트먼,‘앙숙’머스크가인수한코딩도구‘커서’와결별선언",
-  "[AI대전환리딩전략]LG전자,B2B공조로만매출20兆목표"
+  "[AI대전환리딩전략]LG전자,B2B공조로만매출20兆목표",
+  "하이백스,부산항진해신항에최첨단AI카메라공급",
+  "‘칩플레이션’에…삼성·LG실속형PC연달아출시",
+  "\"AI가금융시장무너뜨릴수도\"…영란은행총재,G20에경고",
+  "노타,‘모두의AI’SKT컨소시엄참여",
+  "'해킹사고'외교부사이버보안예산4배확대...ODA는2년연속삭감",
+  "방미통위,첫예산안편성…'허위조작정보대응투명성센터'예산신설",
+  "방미통위첫예산2천977억원…AI·미디어혁신에집중"
  ],
  "recent_sigs": [
-  [
-   "2026-09-01T07:42:17.255436+09:00",
-   "한국인터넷진흥원 기반 KISA 모의해킹 챌린 프라이버시 생성형"
-  ],
   [
    "2026-09-01T07:46:15.365802+09:00",
    "~SKT 고점 하나 돌파 호재 예상 9월 시도 구간 집중"
@@ -6449,7 +6445,7 @@
    "문제는 있다 추미애 RE100 외친 디테일"
   ]
  ],
- "last_run": "2026-09-01T13:40:43.515550+09:00",
+ "last_run": "2026-09-01T13:42:36.925721+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
