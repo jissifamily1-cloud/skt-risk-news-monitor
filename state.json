@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=876551",
-  "https://www.mt.co.kr/tech/2026/08/28/2026082810491742468",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53787",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=156502",
-  "https://www.news1.kr/finance/market-exr/6272182",
-  "https://www.etoday.co.kr/news/view/2619151",
-  "https://www.tokenpost.kr/news/ai/399350",
-  "https://www.newspim.com/news/view/20260828000065",
-  "https://www.hankyung.com/article/2026082882616",
-  "https://www.ddaily.co.kr/page/view/2026082805523543086",
-  "https://www.tokenpost.kr/news/ai/399211",
   "https://www.tokenpost.kr/news/ai/399197",
   "https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html?partner=naver",
   "https://magazine.hankyung.com/business/article/202608202190b",
@@ -2999,20 +2988,20 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=852206",
   "http://www.kjdaily.com/article.php?aid=1788249756685680227",
   "https://www.etoday.co.kr/news/view/2620668",
-  "https://www.ddaily.co.kr/page/view/2026083114581306584"
+  "https://www.ddaily.co.kr/page/view/2026083114581306584",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446133",
+  "https://www.bntnews.co.kr/article/view/bnt202609010272",
+  "https://www.starnewskorea.com/sports/2026/09/01/2026090117043316103",
+  "https://www.starnewskorea.com/sports/2026/09/01/2026090117025433575",
+  "https://www.starnewskorea.com/sports/2026/09/01/2026090117014496914",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005076",
+  "https://www.starnewskorea.com/sports/2026/09/01/2026090117005370717",
+  "https://www.hani.co.kr/arti/economy/property/1275719.html",
+  "https://www.news1.kr/politics/president/6276593",
+  "https://www.nocutnews.co.kr/news/6571598",
+  "https://www.news1.kr/industry/general-industry/6276623"
  ],
  "seen_titles": [
-  "GwynethPaltrow’sHamptonsDinnerforA.I.C.E.O.IsPostponed",
-  "MASGA보다부유식데이터센터...삼성중,연내본계약기대",
-  "우즈베키스탄,'제38회국제정보올림피아드'성료…청소년프로그래머...",
-  "크래프톤,'AI협업'평가솔루션'Cofa-Probe'현장검증",
-  "\"러시아에더유리하게…\"챗GPT로꾸민가짜싱크탱크",
-  "[Today'sSignal]Korea'sChipSupercycleIsRepricingCapital",
-  "NH證\"삼성重,조선업중장기성장의문…부유식데이터센터로반전기...",
-  "NH투자증권\"삼성중공업,LNG선성장한계…부유식데이터센터가새동...",
-  "메시엘엘엠,217피어공개망서분산추론",
-  "[미국특징주]마벨,매출전망서프라이즈불구시간외3%하락",
-  "\"삼성중공업,조선업성장성한계FDC로극복할까…목표가↓\"-NH",
   "\"AI발광범위사이버공격임박\"…오픈AI등116개기업,공동대응촉구",
   "오픈AI코덱스지속형모드시험,출시미정",
   "962억달러실적뒤AGI발언꺼낸엔비디아",
@@ -6001,7 +5990,18 @@
   "유럽최대가전전시회'IFA'4일개막…'AI홈·피지컬AI'핵심주제부...",
   "삼성전자·SK하이닉스반등…자사주매입이받쳤다",
   "아시아증시,금리악재와AI호재충돌⋯日닛케이0.15%↓",
-  "[취재수첩]칩은국산인데서버는외산…어디까지가'AI주권'인가"
+  "[취재수첩]칩은국산인데서버는외산…어디까지가'AI주권'인가",
+  "[현장]GS건설'목동윤슬자이'도시정비10조수주열쇠될까,자이브랜...",
+  "‘신병4’2중대수해복구대민지원에녹다운",
+  "[포토]'비만안오면야구하기좋은날씨죠!'한용덕KBO경기운영위원",
+  "[포토]'오늘야구하겠죠?'류현진",
+  "[포토]'우리함께야구할때가그립구나!'한용덕경기운영위원",
+  "수원비그쳤다!이강철\"날씨가아직우리편인듯\"…힐리어드복귀→...",
+  "[포토]'우린주황색피가흐르지!'류현진과이야기나누는한용덕경기...",
+  "재건축사업속도내는목동에초고층주거단지‘목동윤슬자이’선보...",
+  "'김용범사의'靑에쇄신바람…차기정책실장김정관하마평",
+  "질병부터사이버금융범죄까지…충북도,'소상공인상생보험'본격시행",
+  "SK이노·롯데케미칼잇따라해킹피해…정보유출여부조사(종합)"
  ],
  "recent_sigs": [
   [
@@ -6565,7 +6565,7 @@
    "수익률 35억달 미디어텍에 비트코인 3분기"
   ]
  ],
- "last_run": "2026-09-01T17:10:38.297992+09:00",
+ "last_run": "2026-09-01T17:12:36.755590+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
