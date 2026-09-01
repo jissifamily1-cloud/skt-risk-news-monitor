@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/money/article/202609015976c",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576596102380",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=418728",
-  "https://www.nocutnews.co.kr/news/6571209",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=225622",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=275916",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697138",
-  "https://www.fntimes.com/html/view.php?ud=202609011014553332094b7542a8_18",
-  "https://www.biospectator.com/view/news_view.php?varAtcId=29683",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=418727",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=281637",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697112",
   "https://www.dt.co.kr/article/12081367",
   "https://www.ddaily.co.kr/page/view/2026090110312142315",
@@ -2999,20 +2988,20 @@
   "https://www.mediafine.co.kr/news/articleView.html?idxno=88628",
   "https://www.slist.kr/news/articleView.html?idxno=763007",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000061670",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535043"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1535043",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202608302256092640105569",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5057468",
+  "https://www.newsis.com/view/NISX20260902_0003772411",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=300055",
+  "https://view.asiae.co.kr/article/2026090111481592245",
+  "https://www.etoday.co.kr/news/view/2620778",
+  "https://view.asiae.co.kr/article/2026090208082865770",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/02/2026090200021.html",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4104153",
+  "https://www.newstree.kr/newsView/ntr202608060026",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170830"
  ],
  "seen_titles": [
-  "메가존클라우드,네오위즈파트너스에서투자유치",
-  "에어빌리티,사제파트너스리드65억규모시리즈A투자유치",
-  "연내첫대드론상용화에나선에어빌리티,美실리콘밸리VC사제파트너...",
-  "삼성전자,실속형'New갤럭시북6'출시…119만원부터",
-  "전북·전남광주·충남스마트농업특구지정…새만금서무인기계실증",
-  "관악구,AI·딥테크스타트업키운다…관악S밸리최대20개사모집",
-  "인젠트,가트너에'eXperDB'소개…오픈소스DBMS전환경쟁력강조",
-  "팀쿡떠난애플,핵심임원이탈…앱스토어얼굴'필실러'도물러났다",
-  "삼성SDS,'리얼서밋'개최…AX성과·실행전략공개",
-  "[기고]독성학모임'TRT',\"지식흐르는韓비임상산업\"",
-  "LG전자,실속형'LG그램북AI2026'출시…145만원부터",
   "삼성전자,최대25시간동영상재생‘뉴갤럭시북6’출시…119만원부...",
   "데이터센터짓다소송·지연…금융권,AI인프라리스크관리강화",
   "르노코리아,가격낮춘그랑콜레오스2027년형출시",
@@ -6001,7 +5990,18 @@
   "엔비디아목표주가420달러로상향,미디어텍35억달러투자에AI확장...",
   "8월소비자물가다시3%대로…근원물가3년3개월만에최대상승",
   "8월소비자물가3.1%오르며반등…SKT통신비감면기저효과영향",
-  "[OBS뉴스오늘2]종합특검수사마무리…'제주실종'추정시신발견·경..."
+  "[OBS뉴스오늘2]종합특검수사마무리…'제주실종'추정시신발견·경...",
+  "[더벨]비핵심벗는SK오션플랜트,새주인아래'재도약'",
+  "[뉴욕증시]국제유가·국채금리충격에'휘청'…나스닥1.03%↓",
+  "중동전운다시고조…삼전·SK하닉프리마켓서3%약세",
+  "[굿모닝!글로벌뉴욕증시]국제유가상승,Fed금리인상우려,국채금리...",
+  "분기최대실적기록한이수페타시스…‘삼박자’들어맞으며성장예고...",
+  "뉴욕증시,중동불안에하락⋯WTI,90달러돌파[글로벌마켓모닝브리핑...",
+  "[굿모닝증시]美,이란과군사충돌로약세마감…韓도하락출발전망",
+  "[속보]미이란충돌재격화에美증시급락…삼전하닉프리장3~4%약세",
+  "8월물가3%대로다시올라…지난해'통신비감면'효과영향",
+  "[기후리더]시총20위'기후성적표'...현대차·현대모비스'공동1위'",
+  "미국,G20기술회의서'AI최소규제'촉구"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,17 @@
   [
    "2026-09-02T08:12:16.576177+09:00",
    "2개월 상승 만에 물가 8월 도로 소비자"
+  ],
+  [
+   "2026-09-02T08:22:12.715244+09:00",
+   "현대모비스 기후성적표 공동 1위 현대차 20위 시총"
+  ],
+  [
+   "2026-09-02T08:22:12.715244+09:00",
+   "G20 촉구 규제 미국 기술회의서 최소"
   ]
  ],
- "last_run": "2026-09-02T08:20:39.330275+09:00",
+ "last_run": "2026-09-02T08:22:40.480932+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
