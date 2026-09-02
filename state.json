@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=201235",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263515&CMPT_CD=P0010",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=861534",
-  "https://biz.heraldcorp.com/article/10860033",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/02/2026090200128.html",
   "http://www.efnews.co.kr/news/articleView.html?idxno=132062",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=483008",
   "https://zdnet.co.kr/view/?no=20260902111552",
@@ -2999,14 +2994,14 @@
   "https://www.g-enews.com/view.php?ud=2026090308180462880c8c1c064d_1",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/03/2026090390059.html",
   "https://www.slist.kr/news/articleView.html?idxno=763274",
-  "https://www.bntnews.co.kr/article/view/bnt202609030086"
+  "https://www.bntnews.co.kr/article/view/bnt202609030086",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=696673",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=940055",
+  "https://www.chosun.com/economy/tech_it/2026/09/03/KDN3AOVLKBG4JDGVQQVPW6STGE/",
+  "https://view.asiae.co.kr/article/2026090308282422697",
+  "https://www.dailian.co.kr/news/view/1685757/?sc=Naver"
  ],
  "seen_titles": [
-  "방미통위,방송미디어AX·투명성센터예산확보…내년2977억원투입",
-  "LGU+,‘프리즈서울’공식파트너첫참여…미디어아티스트에릭오...",
-  "'만년3등'LGU+의반전…주주환원은통신주'톱티어'",
-  "숏폼의시대,‘능동적청음’에열광하는2030[공간을듣다①]",
-  "기름값·휴대전화료오르고채솟값내려···대구·경북8월물가상승...",
   "정재헌SKTCEO\"AI전환,불편함넘어야생산성도약\"",
   "추석앞두고효자노릇…무려26.2%폭락하며장바구니부담낮춘'국민...",
   "물가다시3%대…통신료빼도기름값·추석밥상은올랐다",
@@ -6001,7 +5996,12 @@
   "\"식품생산현장빈틈없이지킨다\"…한화비전,佛식품기업고조키에A...",
   "이란해커,美인프라위협…군사충돌,사이버전으로번지나",
   "'유퀴즈'두리랜드지켜낸임채무,시청자도뭉클…최고5.3%",
-  "‘유퀴즈’하지원→임채무통했다…동시간1위"
+  "‘유퀴즈’하지원→임채무통했다…동시간1위",
+  "[TechInsight]오픈AI차세대모델'아스트라'실체공개됐다",
+  "SK바이오팜,엔비디아AI가속기'128장'도입",
+  "무제한이라더니사진도안열려…통신3사‘생색내기’통합요금제...",
+  "[클릭e종목]\"SK텔레콤,AIDC규모압도적…주가관건은사업속도\"",
+  "‘LA에인절스5.5조원매각’치솟는스포츠구단몸값,한국은?[머니..."
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,21 @@
   [
    "2026-09-03T08:30:26.696886+09:00",
    "임채무 하지원 1위 동시간 통했다 유퀴즈"
+  ],
+  [
+   "2026-09-03T08:32:14.293335+09:00",
+   "무제한이라더니 통합 사진도 요금제 생색내기 열려 통신 3사"
+  ],
+  [
+   "2026-09-03T08:32:14.293335+09:00",
+   "압도적 속도 사업 관건은 규모 AIDC 주가 ~SKT"
+  ],
+  [
+   "2026-09-03T08:32:14.293335+09:00",
+   "매각 에인절스 몸값 스포츠 치솟는 머니 한국은 LA 5조원 구단"
   ]
  ],
- "last_run": "2026-09-03T08:30:49.470407+09:00",
+ "last_run": "2026-09-03T08:32:43.798568+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
