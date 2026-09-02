@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191521",
-  "https://www.kukinews.com/article/view/kuk202609010154",
-  "https://www.ajunews.com/view/20260901142539114",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=321864",
-  "https://www.bntnews.co.kr/article/view/bnt202609010284",
-  "https://www.newsgn.com/news/articleView.html?idxno=570995",
-  "https://www.starnewskorea.com/sports/2026/09/01/2026090117405880390",
-  "https://www.ceoscoredaily.com/page/view/2026090115570530093",
-  "https://mhnse.com/news/articleView.html?idxno=1518372",
   "https://www.starnewskorea.com/sports/2026/09/01/2026090117390548933",
   "https://www.sportschosun.com/baseball/2026-09-01/202609010100009010000332",
   "https://www.topstarnews.net/news/articleView.html?idxno=16179659",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/News/Read?newsId=03939286645576184&mediaCodeNo=257",
   "https://www.smarttoday.co.kr/ko-kr/articles/111091",
   "https://www.ddaily.co.kr/page/view/2026090212060398870",
-  "https://www.kgnews.co.kr/news/article.html?no=910030"
+  "https://www.kgnews.co.kr/news/article.html?no=910030",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=861528",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=879609",
+  "https://www.mt.co.kr/world/2026/09/02/2026090211532357397",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362565",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609020469&t=NN",
+  "http://www.4th.kr/news/articleView.html?idxno=2117315",
+  "https://www.huffingtonpost.kr/article/260080",
+  "https://www.etoday.co.kr/news/view/2621046",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93488"
  ],
  "seen_titles": [
-  "현대차증권,IB양대본부개편…모태펀드재난안전운용사선정",
-  "레노버,라이젠프로9000탑재워크스테이션출시",
-  "'821조'메가예산안발표…\"담대한투자로잠재성장률제고\"",
-  "기업용SSD시장,3개월새2배성장…삼성전자점유율1위·마이크론...",
-  "메리츠증권,AI투자플랫폼'MOUM'선보여…리테일경쟁새국면",
-  "개인·외인·기관다팔았는데…삼전닉스'자사주수급'이또코스피살...",
-  "유가·금리충격딛은코스피…'삼전닉스'가받쳤다",
-  "오픈AI·컴투스,'게임빌더스서울'마무리…코덱스로5시간게임개발",
-  "[올댓차이나]엔비디아,대만미디어텍에35억＄투자…AI반도체협업...",
   "靑사이버안보비서관에해커출신김휘강교수발탁",
   "구멍뚫렸지만늑장은없었다…무신사,29CM개인정보유출에'신속대응...",
   "‘윤슬’빛담은목동윤슬자이…호텔급커뮤니티·차별화외관눈길",
@@ -6001,7 +5992,16 @@
   "정부,내일행정기관이전계획발표…금융위·개보위등거론",
   "행정기관이전계획3일발표..\"금감원장인데이전비10만원만\"피싱나돌...",
   "“AI투자는하고,서비스는못팔고”…통신사규제비용에연1조원부...",
-  "정부,내일‘지방이전’공개…금융위·개보위등대상거론"
+  "정부,내일‘지방이전’공개…금융위·개보위등대상거론",
+  "스픽,영어울렁증퇴마식성수동서개최",
+  "전남광주통합특별시'챔피언스시티1차',오는4일견본주택오픈",
+  "美,G20서\"AI규제신설말자\"…머스크가세\"EU,발전저해\"",
+  "LS증권,멀티LLM기반'사내업무형AI플랫폼'구축",
+  "카톡에택시·뮤직·쇼핑묶는다…카카오,멤버십출시임박",
+  "[산업소식]카카오,'리센느'와일상속AI경험소개",
+  "SK텔레콤대표정재헌서울대서'AI시대'강연,\"가치판단하고결정하...",
+  "오픈AI새모델,사이버위험첫‘중대’판정⋯AI불신확산[종합]",
+  "애플·오픈AI,회로설계도공방격화…AI하드웨어주도권충돌"
  ],
  "recent_sigs": [
   [
@@ -6661,7 +6661,7 @@
    "금융위 공개 지방 이전 정부 거론 대상"
   ]
  ],
- "last_run": "2026-09-02T14:22:38.736570+09:00",
+ "last_run": "2026-09-02T14:24:28.714363+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
