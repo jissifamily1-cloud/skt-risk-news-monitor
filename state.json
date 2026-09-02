@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16173112",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=253112",
-  "https://www.cwn.kr/news/articleView.html?idxno=54074",
-  "http://www.srtimes.kr/news/articleView.html?idxno=210806",
-  "https://www.betanews.net/article/view/beta202608250039",
-  "https://www.banronbodo.com/news/articleView.html?idxno=32889",
   "https://www.sedaily.com/article/20082856",
   "https://www.sedaily.com/article/20082855",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=252443",
@@ -2999,15 +2993,15 @@
   "http://www.thefirstmedia.net/news/articleView.html?idxno=207558",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=207572",
   "https://zdnet.co.kr/view/?no=20260902160019",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1722728"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722728",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3682456",
+  "https://www.etnews.com/20260902000120",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3682615",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3682584",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=207556",
+  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90803"
  ],
  "seen_titles": [
-  "\"사이버안보방패만든다\"…SKT·업스테이지등'국가대표AI·보안드...",
-  "SKT,업스테이지등과손잡고국가대표급사이버보안AI모델만든다",
-  "이통3사,AI비롯실적강세속희비갈려",
-  "\"탈모치료는장기전…모발이식후에도'프로페시아'관리필요\"",
-  "[게시판]SKAX,SAP와'AI엔터프라이즈'협력강화등단신",
-  "[8월27일자]비즈니스포스트아침의주요기사",
   "[SKT포커스]AI활용스포츠·교육확대…아시안게임선수지원·서울대...",
   "SK텔레콤정부'보안특화AI모델'개발사업출사표,정재헌SK쉴더스·안...",
   "TeamSKT출정식…아시안게임금빛도전",
@@ -6001,7 +5995,13 @@
   "KT,어린이통학차'아동방치'예방나선다...현대차등과안전솔루션...",
   "KT,불꽃축제인파대비통신망증설...5G로CCTV전송지원",
   "안동·의성호우특별재난지역수신료2개월면제",
-  "[Telecom&Now]KT,현대차와어린이통학차안심승·하차솔루션개발..."
+  "[Telecom&Now]KT,현대차와어린이통학차안심승·하차솔루션개발...",
+  "정읍시국제학술대회,동학농민혁명기록물세계적가치집중조명",
+  "[AX대전환초격차토론회]“AI수도권집중넘어지역AX로”…5극3특...",
+  "추경호대구광역시장,대형마트·백화점등292곳추석명절대비안전...",
+  "\"법률지원1분미리듣기\"…제주교권침해대응체계도마",
+  "SK브로드밴드'AI5셋톱박스',글로벌디자인상4관왕",
+  "[통신브리핑]SK텔레콤·KT·LG유플러스·SK브로드밴드"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-09-02T16:04:15.117666+09:00",
    "호우 특별재난지역 의성 수신료 2개월 면제 안동"
+  ],
+  [
+   "2026-09-02T16:06:17.012677+09:00",
+   "~SKT ~KT ~LGU LG유플러스"
   ]
  ],
- "last_run": "2026-09-02T16:04:36.314289+09:00",
+ "last_run": "2026-09-02T16:06:37.701411+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
