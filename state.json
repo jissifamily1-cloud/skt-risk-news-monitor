@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651060",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=300113",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697566",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=300102",
   "https://www.econovill.com/news/articleView.html?idxno=749631",
@@ -2999,11 +2997,11 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697551",
   "https://www.ceoscoredaily.com/page/view/2026090210583299813",
   "https://weekly.donga.com/3/all/11/6371296/1",
-  "https://www.ceoscoredaily.com/page/view/2026090211111312364"
+  "https://www.ceoscoredaily.com/page/view/2026090211111312364",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609030213&t=NN",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609030219&t=NN"
  ],
  "seen_titles": [
-  "SK바이오팜,대규모자체AI인프라확보",
-  "NCAI,생성형AI오디오플랫폼'바르코사운드'정식출시",
   "카카오도유료멤버십출시준비…그룹사·외부서비스묶는다",
   "삼성전자,IFA2026서일상혁신하는'AI리빙'경험공개",
   "인디게임발굴나선카카오게임즈,AI백엔드개발사투자",
@@ -6001,7 +5999,9 @@
   "\"AI규제만들지마라\"…美,G20에파격제안던져",
   "[이달의주식부호]코스피횡보에도주식부호자산14조껑충…GS·한화...",
   "최태원SK회장“일본에반도체합작공장검토”",
-  "[권혁빈이혼소송]③현금분할시,100%지배구조‘흔들’…“아직상..."
+  "[권혁빈이혼소송]③현금분할시,100%지배구조‘흔들’…“아직상...",
+  "AI수요에델·깃랩호실적…크레도는수익성우려에하락-[美증시특징...",
+  "美상무,반도체표적관세예고...\"삼성·SK하이닉스,美서생산해야\"-..."
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,13 @@
   [
    "2026-09-03T07:08:15.757447+09:00",
    "흔들 현금분할 아직 지배구조"
+  ],
+  [
+   "2026-09-03T07:10:23.840772+09:00",
+   "상무 반도체 생산해야 SK하이닉스 삼성 예고 표적 관세"
   ]
  ],
- "last_run": "2026-09-03T07:08:42.429888+09:00",
+ "last_run": "2026-09-03T07:10:48.868013+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
