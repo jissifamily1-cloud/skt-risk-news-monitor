@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202609010060",
-  "https://www.aitimes.com/news/articleView.html?idxno=214684",
-  "https://view.asiae.co.kr/article/2026090118115124864",
-  "https://www.sportsworldi.com/newsView/20260901519196",
   "https://www.sedaily.com/article/20085981",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2298171",
   "https://view.asiae.co.kr/article/2026090117415377718",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISI20260902_0021420199",
   "https://www.newsis.com/view/NISI20260902_0021420200",
   "https://www.dailian.co.kr/news/view/1685528/?sc=Naver",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=792587"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=792587",
+  "https://www.seoul.co.kr/news/economy/car/2026/09/02/20260902031006?wlog_tag3=naver",
+  "https://www.mt.co.kr/tech/2026/09/01/2026090117292868168",
+  "https://www.bloter.net/news/articleView.html?idxno=672351",
+  "https://www.theguru.co.kr/news/article.html?no=106588"
  ],
  "seen_titles": [
-  "'두아들아빠'2위팀30홈런거포컴백,6연패한화떨고있나…\"어제도...",
-  "렌터카1·2위결합불허했던공정위,TPG의롯데렌탈인수최종승인…...",
-  "딥시크·키미만이아니다…개인PC서돌아가는中‘작고강한AI’[고...",
-  "[ICT종합]컴투스및엔에이치엔페이코소식외",
   "[단독]네이버,정부평가앞서'보안AI'개발선착수…B2004000장투입",
   "AppleBeginsItsNextBalancingActasNewC.E.O.TakesOver",
   "올해주가3배급등한마이크론,밸류에이션은S&P500하위권",
@@ -6001,17 +5997,13 @@
   "현대차·KT,어린이통학차'안심승하차'솔루션개발",
   "현대차,KT와어린이통학차전용안심승하차솔루션개발",
   "日,TSMC에1.2조엔쐈는데…SK하이닉스는얼마나받을까",
-  "[위클리오늘]LG유플러스소식(9.2)"
+  "[위클리오늘]LG유플러스소식(9.2)",
+  "중국BYD도가세…글로벌완성차‘피지컬AI’경쟁불붙었다",
+  "\"AI로일자리가사라지나요?\"정재헌SKTCEO의대답은?",
+  "'딥리서치·노코드'무장…솔트룩스공공AI에이전트사업의기술원천",
+  "샘올트먼의SMR기업오클로,美최대전력망PJM계통연계심사탈락"
  ],
  "recent_sigs": [
-  [
-   "2026-09-02T08:50:21.099319+09:00",
-   "개선에 ~LGU 주주환원까지 2만원 LG유플러스 넘긴다 실적 데이터센터"
-  ],
-  [
-   "2026-09-02T08:50:21.099319+09:00",
-   "페이블 미토스 해결 포기 희귀 엔지니어도 난제"
-  ],
   [
    "2026-09-02T08:54:14.201552+09:00",
    "SK그룹 AI가 전력 에너지의 데이터센터 무게 바꾼 축으로"
@@ -6675,9 +6667,13 @@
   [
    "2026-09-02T14:48:14.119382+09:00",
    "소식 LG유플러스 ~LGU"
+  ],
+  [
+   "2026-09-02T14:50:21.234469+09:00",
+   "오클로 기업 올트먼의 PJM 전력망 계통연계 심사 탈락 SMR"
   ]
  ],
- "last_run": "2026-09-02T14:48:40.255176+09:00",
+ "last_run": "2026-09-02T14:50:42.091492+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
