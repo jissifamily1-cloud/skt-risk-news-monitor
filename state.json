@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245376",
-  "https://www.gokorea.kr/news/articleView.html?idxno=876918",
-  "https://www.chosun.com/economy/tech_it/2026/09/02/4Y32WU6DKRAYZBZRZ4ZGXI6IIU/",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446169",
   "http://www.queen.co.kr/news/articleView.html?idxno=462673",
   "https://view.asiae.co.kr/article/2026090210003726507",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=273278",
@@ -2999,13 +2995,13 @@
   "https://www.newsen.com/news_view.php?uid=202609021754312610",
   "https://www.yna.co.kr/view/AKR20260830046200001?input=1195m",
   "https://www.kbmaeil.com/article/20260901500568",
-  "https://www.newspim.com/news/view/20260902000384"
+  "https://www.newspim.com/news/view/20260902000384",
+  "https://biz.sbs.co.kr/article_hub/20000332441?division=NAVER",
+  "https://www.mt.co.kr/world/2026/09/03/2026090306185060237",
+  "https://www.seoul.co.kr/news/economy/2026/09/03/20260903500004?wlog_tag3=naver",
+  "https://www.ytn.co.kr/_ln/0104_202609030610316699"
  ],
  "seen_titles": [
-  "중동긴장속국제유가폭등,코스피2%이상급락시작",
-  "[마켓펄스]美국채금리4.8%돌파에얼어붙은투심...코스피2%대약세",
-  "코스피,유가·금리상승에급락…삼전·닉스'뚝'",
-  "\"HBM다음은eSSD\"…삼전닉스,AI메모리'쩐의전쟁'",
   "엔트로픽상장기대감···SKT주가다시달리나",
   "방미통위,2027년예산2977억편성…AI전환·미디어주권방점",
   "[시큐리티포커스]지란지교시큐'모바일보안MOU'·체이널리시스'한국...",
@@ -6001,7 +5997,11 @@
   "하이브·텐센트뮤직다모인다‘2026MWM’9월4일개최",
   "김민석,개각발표에\"진보개혁연대환영…민생실용기조에부합\"",
   "머스크가600억달러에품은‘커서’…오픈AI,모델공급중단추진",
-  "부동산중개법인코리아,서비스본격화"
+  "부동산중개법인코리아,서비스본격화",
+  "[외신헤드라인]브로드컴,실적호조에도가이던스'실망'",
+  "국채금리꺾이자저가매수세쏠렸다…사흘만에반등[뉴욕마감]",
+  "[서울데이터랩]미국증시,기술주강세속일제히상승마감",
+  "'엔비디아라이벌'브로드컴호실적발표...미고용증가세둔화,금리..."
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-09-03T06:24:17.686226+09:00",
    "지원 위약금 무료 믿었는데 통신 상품 할인"
+  ],
+  [
+   "2026-09-03T06:30:30.092898+09:00",
+   "브로드컴 라이벌 호실적 발표 금리 고용 증가세 둔화"
   ]
  ],
- "last_run": "2026-09-03T06:28:34.300901+09:00",
+ "last_run": "2026-09-03T06:30:50.440404+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
