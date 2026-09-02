@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=241330",
-  "https://zdnet.co.kr/view/?no=20260901172846",
-  "https://www.busan.com/view/busan/view.php?code=2026090117361188402",
-  "http://www.4th.kr/news/articleView.html?idxno=2117276",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=207476",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008732554&plink=ORI&cooper=NAVER",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3681482",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3681460",
-  "http://www.popcornnews.net/news/articleView.html?idxno=131501",
-  "https://www.techm.kr/news/articleView.html?idxno=154840",
   "https://www.edaily.co.kr/News/Read?newsId=05034806645575856&mediaCodeNo=257",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=191535",
   "https://www.g-enews.com/view.php?ud=2026090110025846263d7a510102_1",
@@ -2999,19 +2989,19 @@
   "https://www.newstree.kr/newsView/ntr202609020015",
   "https://view.asiae.co.kr/article/2026090213591973833",
   "https://daily.hankooki.com/news/articleView.html?idxno=1401896",
-  "https://www.ajunews.com/view/20260902133952508"
+  "https://www.ajunews.com/view/20260902133952508",
+  "http://www.osen.co.kr/article/G1112867852",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16180486",
+  "https://www.etoday.co.kr/news/view/2621054",
+  "https://sports.khan.co.kr/article/202609021406013?pt=nv",
+  "https://www.koreajoongangdaily.com/sports/texan-chris-paddack-spurs-samsung-lions-postseason-hopes-in-first-kbo-rodeo/12856180",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358300",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722701",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=43440",
+  "http://www.newsdream.kr/news/articleView.html?idxno=117339",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3033382"
  ],
  "seen_titles": [
-  "'2년차유격수'한화배승수1군콜업,\"소질이있는선수\"[IS수원]",
-  "농어촌공사,'대한민국인권경영대상'공급망부문대상",
-  "'1위싸움'KT,'30홈런'외인타자힐리어드복귀…한화전선발출전",
-  "\"아파트처럼넓네\"…하이엔드오피스텔의진화",
-  "에어빌리티,시리즈A65억유치…누적투자105억돌파",
-  "평당1억오피스텔통할까…20년만의신축,목동윤슬자이‘시험대’",
-  "[현장]\"가족형평면에스카이커뮤니티까지\"…'목동윤슬자이'가보니",
-  "'6연패탈출도전'한화라인업떴다!유민-문현빈-한지윤외야책임진...",
-  "목동옛KT부지에48층랜드마크…'목동윤슬자이'견본주택문열어",
-  "KT엠모바일,종이신청서없앤다…알뜰폰도'태블릿개통'시대",
   "방미통위내년예산2977억…방송영상AI학습데이터에100억",
   "반복되는대규모개인정보유출…역대최대는카드3사1억건",
   "SK텔레콤‘에어’가입자20만돌파",
@@ -6001,7 +5991,17 @@
   "AI가가상자산종목까지분석...'빗썸AI'서비스출시",
   "中세계첫'로봇유치원'개설…\"휴머노이드로봇자율학습\"",
   "정재헌SKTCEO,서울대특강서AI시대'AX의J커브'제시",
-  "中문샷·알리바바에밀리자..美의회'미국산AI확산'법안추진"
+  "中문샷·알리바바에밀리자..美의회'미국산AI확산'법안추진",
+  "2년연속전구단상대홈런에도“그냥골고루치고있구나”…이재현...",
+  "\"이현중·여준석·최준용총출동\"…남자농구,2026AG금메달재도전",
+  "'12년만의금메달도전'남자농구AG명단확정⋯10일첫경기",
+  "팀도루가선수한명도루보다적다···키움의‘안뛰는야구’",
+  "TexanChrisPaddackspursSamsungLions'postseasonhopesinfirstKBO",
+  "SK바이오팜,엔비디아GPU128장확보…AI신약개발강화",
+  "[Telecom&Now]kt밀리의서재,'제철독서챌린지'9월추천도서4종공...",
+  "'하차확인'에'자동감지'더한다…현대차·KT,스타리아EV를'통학안...",
+  "KT,대한민국안전산업박람회참가…AI·AX안전솔루션총출동",
+  "경기소비자물가3.2%·인천2.8%상승…서비스·석유류가끌어올려"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,13 @@
   [
    "2026-09-02T14:12:23.052487+09:00",
    "알리바바에 법안 밀리자 의회 미국산 확산 문샷"
+  ],
+  [
+   "2026-09-02T14:14:16.209188+09:00",
+   "소비자물가 끌어올려 인천 석유류가 상승 서비스 경기"
   ]
  ],
- "last_run": "2026-09-02T14:12:40.567635+09:00",
+ "last_run": "2026-09-02T14:14:37.189406+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
