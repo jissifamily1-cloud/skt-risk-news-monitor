@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20260901500437",
-  "http://www.popcornnews.net/news/articleView.html?idxno=131450",
-  "https://www.etnews.com/20260901000130",
-  "https://gamefocus.co.kr/detail.php?number=178736",
-  "http://www.beyondpost.co.kr/view.php?ud=202609011539504588be44c0aacd_30",
-  "https://www.etoday.co.kr/news/view/2620565",
-  "https://www.newspim.com/news/view/20260901001008",
-  "https://www.edaily.co.kr/News/Read?newsId=04595286645575856&mediaCodeNo=257",
   "https://www.etoday.co.kr/news/view/2620625",
   "https://biz.chosun.com/it-science/ict/2026/09/01/CZ6ORP2LCJABJHN3K2V3ECCFE4/",
   "https://www.kukinews.com/article/view/kuk202609010067",
@@ -2999,17 +2991,17 @@
   "https://www.news2day.co.kr/article/20260902500131",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2465358",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169239",
-  "https://www.viva100.com/article/20260902500699"
+  "https://www.viva100.com/article/20260902500699",
+  "https://biz.sbs.co.kr/article_hub/20000332262?division=NAVER",
+  "https://www.viva100.com/article/20260902500708",
+  "https://biz.heraldcorp.com/article/10860125",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60538",
+  "https://www.newsis.com/view/NISX20260902_0003773018",
+  "https://www.news1.kr/industry/general-industry/6277420",
+  "https://www.kizmom.com/news/articleView.html?idxno=112467",
+  "https://www.newspim.com/news/view/20260902000525"
  ],
  "seen_titles": [
-  "칼라일호(號)탄청호나이스,새선장은최진환전롯데렌탈대표",
-  "청호그룹,신임CEO에최진환前롯데렌탈대표선임…계열사대표인사...",
-  "[르포]\"빗속에서도포크레인·맨홀1초만에판별\"…SKT'AI눈'으로통신...",
-  "메가존클라우드,네오위즈파트너스서프리IPO투자유치…상장준비속...",
-  "'끝내기만루포'김재현·이호연,'사이클링히트'오스틴,'동료애'김...",
-  "“오피스텔의진화”…방4개-발코니5곳갖춘목동윤슬자이",
-  "[르포]이게오피스텔이야,호텔이야…'목동윤슬자이',하이페리온위...",
-  "안판석감독마지막연출작'연애박사',추영우김소현로맨스예고",
   "LG전자,'칩플레이션'부담낮춘다…실속형노트북'그램북'출시",
   "게임업계,신작·AI개발·IP협업으로하반기접점확대",
   "[유재수의특이점(Singularity)시대]〈13〉AI시대의금융,AI활용보다...",
@@ -6001,7 +5993,15 @@
   "라라스테이션,황경주신임부대표영입…‘엑스더리그’앞세워북미...",
   "방미통위,내년예산2977억원···방송·미디어'AI전환'에힘준다",
   "방미통위내년예산2977억원…AI전환지원",
-  "LG유플러스,서울세계불꽃축제대비특별소통대책마련"
+  "LG유플러스,서울세계불꽃축제대비특별소통대책마련",
+  "중동긴장고조에유가·금리상승공포…코스피장중3%내려",
+  "한미반도체,‘세미콘타이완’서2.5D패키징장비공개",
+  "SK하이닉스“AI시대메모리,저장에서연산으로역할확대”",
+  "커세어x형독x컴퓨존콜라보...'형독의커세어게이밍PC'공개",
+  "NHN클라우드,전남광주미래산업박람회참가…\"AI격차는인프라에서\"",
+  "한미반도체,대만서AI반도체'2.5D패키징'장비대거공개",
+  "GEO업체추천기준은…국내5개사비교",
+  "엔비디아가바꾼HBM룰…삼성'수직통합'·SK'개방연합'격돌"
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,13 @@
   [
    "2026-09-02T11:38:13.742001+09:00",
    "대비 ~LGU 특별 서울세계불꽃축제 소통 대책 마련 LG유플러스"
+  ],
+  [
+   "2026-09-02T11:40:19.239864+09:00",
+   "SK 개방연합 격돌 바꾼 엔비디아가 수직통합 삼성 HBM"
   ]
  ],
- "last_run": "2026-09-02T11:38:37.992043+09:00",
+ "last_run": "2026-09-02T11:40:42.876278+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
