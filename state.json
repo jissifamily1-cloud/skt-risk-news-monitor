@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643234",
-  "https://biz.chosun.com/topics/law_firm/2026/08/21/X35NP7KQLZERRO7FHINWBQWBKA/",
-  "http://weekly.chosun.com/news/articleView.html?idxno=54547",
-  "https://www.ytn.co.kr/_ln/0103_202608212233134705",
-  "https://www.ytn.co.kr/_ln/0103_202608212233593974",
-  "https://www.ytn.co.kr/_ln/0103_202608212151014478",
   "https://news.tvchosun.com/site/data/html_dir/2026/08/21/2026082190262.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643061",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716253&plink=ORI&cooper=NAVER",
@@ -2999,14 +2993,15 @@
   "https://www.fnnews.com/news/202609021530302511",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2287330",
   "https://www.newsis.com/view/NISX20260902_0003773604",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=446213"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446213",
+  "https://www.yna.co.kr/view/AKR20260902139500017?input=1195m",
+  "https://www.newsis.com/view/NISI20260902_0021420569",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4104351",
+  "https://www.boannews.com/news/articleView.html?idxno=145618",
+  "https://www.newsis.com/view/NISI20260902_0021420568",
+  "https://www.news1.kr/photos/8084942"
  ],
  "seen_titles": [
-  "\"동거인엔수백억펑펑,노동자엔꼼수\"…SK,또'오너리스크'에볼모...",
-  "검찰청폐지눈앞인데‥'노태우추가비자금'규명·환수는?",
-  "‘세기의이혼’이들춘노태우비자금",
-  "노태우일가강제수사...제주실종자2차가해피의자검거",
-  "노소영이혼서불거진'노태우비자금'檢강제수사",
   "'노태우비자금'압수물분석착수...'152억기부금'의심",
   "'노태우비자금'압수물분석착수...'152억기부금'주목",
   "[재계핫이슈]최태원회장,호남반도체와9440억원의틈바구니",
@@ -6001,7 +5996,12 @@
   "젠슨황,투자자들에게'AI붐끝나려면아직멀었다'",
   "SK텔레콤,불꽃축제맞아AI기반통신망특별대책가동",
   "집중호우피해경상도지역TV수신료면제…유료방송은50%감면",
-  "산업시설해킹확산에온오프통합보안서비스뜬다,SK쉴더스민기식..."
+  "산업시설해킹확산에온오프통합보안서비스뜬다,SK쉴더스민기식...",
+  "방미통위,수해주민TV수신료면제…유료방송료도50%감면",
+  "전체회의주재하는김종철방미통위위원장",
+  "호우피해주민,TV수신료2개월면제",
+  "보이스피싱범죄1년새40%줄었다",
+  "방미통위,제32차전체회의"
  ],
  "recent_sigs": [
   [
@@ -6647,9 +6647,21 @@
   [
    "2026-09-02T16:22:22.006927+09:00",
    "서비스 민기식 뜬다 SK쉴더스 온오프 확산에 통합보안 산업시설"
+  ],
+  [
+   "2026-09-02T16:24:13.557523+09:00",
+   "범죄 보이스피싱 1년 줄었다"
+  ],
+  [
+   "2026-09-02T16:24:13.557523+09:00",
+   "위원장 김종철 전체회의 주재하는"
+  ],
+  [
+   "2026-09-02T16:24:13.557523+09:00",
+   "제32차 전체회의"
   ]
  ],
- "last_run": "2026-09-02T16:22:56.279920+09:00",
+ "last_run": "2026-09-02T16:24:42.712621+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
