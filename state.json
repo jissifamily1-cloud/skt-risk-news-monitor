@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=574841&class=1",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4432856",
-  "https://www.news1.kr/it-science/internet-platform/6275242",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=129086",
-  "https://www.mt.co.kr/economy/2026/09/01/2026083116104860030",
-  "https://www.econovill.com/news/articleView.html?idxno=749493",
-  "https://www.econovill.com/news/articleView.html?idxno=749496",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=225645",
-  "https://www.hankyung.com/article/202609016053i",
-  "https://www.bloter.net/news/articleView.html?idxno=672236",
-  "https://www.thelec.kr/news/articleView.html?idxno=61557",
   "https://biz.sbs.co.kr/article_hub/20000331813?division=NAVER",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005010",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=391287",
@@ -2999,20 +2988,20 @@
   "https://kpenews.com/View.aspx?No=4208986",
   "https://www.edaily.co.kr/News/Read?newsId=02912646645576184&mediaCodeNo=257",
   "https://www.handmk.com/news/articleView.html?idxno=42735",
-  "https://www.widedaily.com/news/articleView.html?idxno=300447"
+  "https://www.widedaily.com/news/articleView.html?idxno=300447",
+  "https://www.mediajeju.com/news/articleView.html?idxno=365991",
+  "https://www.newspim.com/news/view/20260828000750",
+  "https://www.ytn.co.kr/_ln/0104_202608301034214752",
+  "https://www.g-enews.com/view.php?ud=202606131412537851fbbec65dfb_1",
+  "https://platum.kr/archives/293446",
+  "https://www.edaily.co.kr/News/Read?newsId=02929046645576184&mediaCodeNo=257",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572064279050",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=281701",
+  "https://www.nocutnews.co.kr/news/6571816",
+  "http://www.segyebiz.com/newsView/20260902504458?OutUrl=naver",
+  "https://www.mediapen.com/news/view/1120620"
  ],
  "seen_titles": [
-  "동아마이스터고정은환교장퇴임…38년교직마침표",
-  "계명대학교,2학기부터전재학생에'차세대AI플랫폼'도입...맞춤교...",
-  "서울관악구,창업공간신규입주기업모집…최대20개사선발",
-  "\"칩플레이션잡고육각형스펙담았다\"…LG전자,145만원대'그램북AI2...",
-  "구글·메타이어…EU,챗GPT에도최강규제",
-  "서남권에천문학적돈몰린다[2027예산안]",
-  "[2027예산]과기정통부29.6조들여3대AI·7대시드집중육성",
-  "과기정통부AI예산9.4조…최상위급AI확보'사활'",
-  "\"글로벌투자자와함께투자\"...메리츠증권이띄운승부수'MOUM'",
-  "정부,반도체·AI에19조원투자…GPU1만장사고전력망확충",
-  "SKT에어,데이터무제한에유튜브1년더한다",
   "\"AI에이전트품질관리나선다\"LG유플러스,어라이즈AI와협력",
   "\"싱크홀·배관부식AI가먼저잡는다\"…LG유플러스·한난,에너지안전...",
   "엔비디아,대만팹리스미디어텍CB에35억달러투자",
@@ -6001,7 +5990,18 @@
   "KT,AI·정밀측위로통학차안전높인다..현대차등과솔루션개발",
   "KT,현대차·키즈노트와손잡고'어린이통학차안심솔루션'개발",
   "LG유플러스,'프리즈서울'서기술과예술의접점넓힌다",
-  "현대차·KT·키즈노트·엠티알4자연합구축…스타리아EV기반'통학차..."
+  "현대차·KT·키즈노트·엠티알4자연합구축…스타리아EV기반'통학차...",
+  "미국인과반\"AI,기대보다우려\"…테크반발전방위확산",
+  "트럼프에'기부금쾌척'한미기업들,민주당하원탈환가능성에'줄대...",
+  "\"테일러스위프트노래로엔트로픽AI무단학습\"",
+  "\"HBM4수요둔화압력확산하나\"엔스로픽통제에삼성·SK긴장고조",
+  "구글유입은34%줄고,챗GPT는1%를채우지못했다",
+  "LGU+,'프리즈서울2026'파트너참여...국내통신사최초",
+  "비상교육-LG유플러스,외국인한국어교육공략",
+  "8월소비자물가3.1%상승...두달만에3%대",
+  "부산8월소비자물가2.7%상승…통신비급등이견인",
+  "8월소비자물가3.1%…휴대전화료기저효과에0.58%p상승",
+  "팔로알토CEO\"AI해킹위험고조,1조달러구식보안시스템시장열려있..."
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-09-02T09:20:19.974824+09:00",
    "연합 엠티알 구축 키즈노트 스타리아 기반 현대차 EV ~KT 통학차 4자"
+  ],
+  [
+   "2026-09-02T09:22:20.960326+09:00",
+   "구식 시장 팔로알토 위험 고조 열려있 보안시스템 CEO 1조달러"
   ]
  ],
- "last_run": "2026-09-02T09:20:41.711946+09:00",
+ "last_run": "2026-09-02T09:22:41.526555+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
