@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=610731",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=134664",
-  "https://biz.heraldcorp.com/article/10861524",
   "https://www.polinews.co.kr/news/articleView.html?idxno=742026",
   "https://www.epnc.co.kr/news/articleView.html?idxno=406467",
   "https://www.dt.co.kr/article/12081926",
@@ -2999,12 +2996,12 @@
   "https://www.donga.com/news/Economy/article/all/20260902/134591305/1",
   "https://www.mt.co.kr/tech/2026/09/02/2026090216292494140",
   "https://www.itdaily.kr/news/articleView.html?idxno=241376",
-  "https://www.segye.com/newsView/20260903515387?OutUrl=naver"
+  "https://www.segye.com/newsView/20260903515387?OutUrl=naver",
+  "https://www.segye.com/newsView/20260903515074?OutUrl=naver",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=309608",
+  "https://www.news1.kr/industry/sb-founded/6279286"
  ],
  "seen_titles": [
-  "염정아·박은빈,애증의엄마와딸된다…'남은정'캐스팅",
-  "네이버클라우드,국내보안특화AI개발…전력·금융7개분야실증",
-  "삼성전자‘일상동반자AI’체험공간선보여",
   "[재계포커스]정유다음은무엇인가…허태수회장의GS,'두번째성장...",
   "디노티시아'씨홀스스토리지',MLPerfStorage벡터DB성능1위",
   "오티콘보청기,‘2026올해의브랜드대상’보청기부문10년연속수상",
@@ -6001,7 +5998,10 @@
   "서울대강단선정재헌SKT대표…“한계맞닥뜨려야혁신이뤄”",
   "\"100만인파몰린다\"…이통사,여의도불꽃축제트래픽대응총력전[종합...",
   "보이스피싱10개월연속감소…정부,AI·통신활용예방강화",
-  "티빙,활성화계정2206만개비밀번호까지다털렸다"
+  "티빙,활성화계정2206만개비밀번호까지다털렸다",
+  "네이버클라우드,‘한국형보안AI모델’개발",
+  "한화손보,캐롯손보통합1년…車보험시장점유율6%",
+  "김진영엑시나대표\"AI인프라승부처,연산아닌메모리효율확장\"[K-..."
  ],
  "recent_sigs": [
   [
@@ -6083,9 +6083,21 @@
   [
    "2026-09-04T06:02:15.976304+09:00",
    "규모 아스트라 등급 모델 사이버보안 출시 10억달러 심각"
+  ],
+  [
+   "2026-09-04T06:10:22.525605+09:00",
+   "개발 네이버클라우드 보안 한국형 AI모델"
+  ],
+  [
+   "2026-09-04T06:10:22.525605+09:00",
+   "보험 1년 통합 시장점유율 캐롯손보 한화손보"
+  ],
+  [
+   "2026-09-04T06:10:22.525605+09:00",
+   "승부처 인프라 김진영 엑시나 아닌 연산 메모리 효율확장 대표"
   ]
  ],
- "last_run": "2026-09-04T06:08:36.664055+09:00",
+ "last_run": "2026-09-04T06:10:46.067016+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
