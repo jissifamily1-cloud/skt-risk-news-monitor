@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/environment/6278439",
-  "https://www.newsis.com/view/NISX20260903_0003774204",
-  "https://www.tokenpost.kr/news/briefing/401856",
   "https://zdnet.co.kr/view/?no=20260902165554",
   "https://www.busan.com/view/busan/view.php?code=2026090216352670494",
   "https://www.newsis.com/view/NISX20260903_0003774834",
@@ -2999,12 +2996,12 @@
   "https://www.kbsm.net/news/view.php?idx=532666",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=207726",
   "https://biz.sbs.co.kr/article_hub/20000332693?division=NAVER",
-  "https://www.aitimes.com/news/articleView.html?idxno=214783"
+  "https://www.aitimes.com/news/articleView.html?idxno=214783",
+  "http://www.segyebiz.com/newsView/20260903518650?OutUrl=naver",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169405",
+  "https://www.bloter.net/news/articleView.html?idxno=672514"
  ],
  "seen_titles": [
-  "재생에너지원격제어의무90→20㎾…설치비460만→200만원",
-  "내년부터20㎾이상태양광·풍력에원격제어설비의무",
-  "[저녁뉴스브리핑]암호화폐2억5861만달러청산外",
   "퍼플렉시티,맥에'하이브리드컴퓨트'도입…클라우드·로컬모델나눠...",
   "행정·공공기관‘지방이전’관련발표…방향과원칙제시될듯",
   "이대통령,전날정의선회장과비공개회동…새만금투자논의",
@@ -6001,7 +5998,10 @@
   "정부,3일행정기관이전계획발표…공공기관추후공개",
   "금융권,'망분리'장벽낮추고AI경쟁본격화…제2금융권도가세",
   "'3954만계정'해킹된티빙…현가입자에탈퇴계정까지털렸다",
-  "[9월3일]앤트로픽\"결과만평가하면AI가통제우회\"…보상해킹의위험..."
+  "[9월3일]앤트로픽\"결과만평가하면AI가통제우회\"…보상해킹의위험...",
+  "불꽃축제2026하루앞으로…'100만인파'대비책마련분주",
+  "\"아이폰17'차비폰'됐다\"…아이폰신작출시에통신사보조금경쟁시...",
+  "[벤처머니선순환]데스밸리건넌스타트업,LP로돌아오다I크래프톤·..."
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,21 @@
   [
    "2026-09-04T07:02:15.687264+09:00",
    "AI가 평가하면 우회 해킹의 위험 통제 보상 앤트로픽 결과만"
+  ],
+  [
+   "2026-09-04T07:04:13.936054+09:00",
+   "마련 불꽃축제 하루 인파 대비책 앞으로 분주 100만"
+  ],
+  [
+   "2026-09-04T07:04:13.936054+09:00",
+   "경쟁 아이폰17 신작 차비폰 출시에 됐다 보조금 아이폰"
+  ],
+  [
+   "2026-09-04T07:04:13.936054+09:00",
+   "건넌 LP로 데스밸리 돌아오다 크래프톤 스타트업"
   ]
  ],
- "last_run": "2026-09-04T07:02:33.204873+09:00",
+ "last_run": "2026-09-04T07:04:40.174209+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
