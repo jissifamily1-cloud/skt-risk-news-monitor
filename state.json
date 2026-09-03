@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546462",
-  "https://www.ytn.co.kr/_ln/0103_202608221808392697",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=858689",
-  "https://www.ytn.co.kr/_ln/0103_202608221558244112",
-  "https://www.ytn.co.kr/_ln/0103_202608221202280700",
-  "https://www.pennmike.com/news/articleView.html?idxno=126174",
-  "https://www.nocutnews.co.kr/news/6566371",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716424&plink=ORI&cooper=NAVER",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008716459&plink=ORI&cooper=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8643295",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3683853",
   "http://www.press9.kr/news/articleView.html?idxno=82116",
   "https://www.newstnt.com/news/articleView.html?idxno=716555",
-  "https://idsn.co.kr/news/view/1065593343786767"
+  "https://idsn.co.kr/news/view/1065593343786767",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=121282",
+  "https://www.ziksir.com/news/articleView.html?idxno=145296",
+  "https://www.tenasia.co.kr/article/2026090323444",
+  "https://www.dt.co.kr/article/12081972",
+  "https://www.khan.co.kr/article/202609031509001",
+  "https://www.joongang.co.kr/article/25458838",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446323"
  ],
  "seen_titles": [
-  "[AI이슈트렌드]집중호우피해·민주당전당대회주목…증권가는'대형...",
-  "검찰,'노태우비자금'압수물분석...'152억기부금'주목",
-  "\"동거인엔수백억펑펑,노동자엔꼼수\"…SK,또'오너리스크'에볼모...",
-  "검찰청폐지눈앞인데‥'노태우추가비자금'규명·환수는?",
-  "‘세기의이혼’이들춘노태우비자금",
-  "노태우일가강제수사...제주실종자2차가해피의자검거",
-  "노소영이혼서불거진'노태우비자금'檢강제수사",
   "'노태우비자금'압수물분석착수...'152억기부금'의심",
   "'노태우비자금'압수물분석착수...'152억기부금'주목",
   "[재계핫이슈]최태원회장,호남반도체와9440억원의틈바구니",
@@ -6001,7 +5994,14 @@
   "사천시,영·호남연대로'우주항공복합도시특별법조기제정'총력전",
   "SKT·LGU+,줄여온망투자다시늘리나…5GSA·주파수경매변수",
   "이통3사,고객접점확대…수능·청년·디지털취약계층공략",
-  "SK이노베이션울산CLX,WAVE2026서제조AI기술소개"
+  "SK이노베이션울산CLX,WAVE2026서제조AI기술소개",
+  "'총체적보안부실'티빙,계정3954만개·핵심기술자산유출",
+  "티빙,계정3954만개·소스코드361건유출…접속키관리'허술'",
+  "티빙,3954만계정털린이유밝혀졌다…접속키'평문방치'에늑장신고...",
+  "금융권‘AI혁신’족쇄푼다…망분리2차완화대상,자산2조로확대",
+  "저축은행도‘보안목적’AI도입가능해진다···‘망분리규제’완...",
+  "티빙,해킹에3954만개계정정보유출…휴면·탈퇴계정까지털렸다",
+  "과기정통부\"티빙해킹으로계정3954만개정보유출,접속키관리부실..."
  ],
  "recent_sigs": [
   [
@@ -6533,7 +6533,7 @@
    "기술 2026서 SK이노베이션 울산CLX WAVE 제조 소개"
   ]
  ],
- "last_run": "2026-09-03T15:20:44.232098+09:00",
+ "last_run": "2026-09-03T15:22:37.551843+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
