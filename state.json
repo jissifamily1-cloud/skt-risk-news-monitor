@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20260902500313",
-  "https://sjbnews.com/news/news.php?number=886597",
-  "http://www.breaknews.com/1233571",
-  "http://www.inews24.com/view/2001113",
-  "https://www.etoday.co.kr/news/view/2621095",
-  "http://www.sisacast.kr/news/articleView.html?idxno=99502",
-  "https://www.smarttoday.co.kr/ko-kr/articles/111096",
-  "https://www.newsis.com/view/NISX20260902_0003773370",
-  "https://www.onews.tv/news/articleView.html?idxno=286086",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=317265",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6165",
   "https://www.sportsworldi.com/newsView/20260902513703",
   "http://www.joynews24.com/view/2001199",
   "https://www.gameshot.net/common/con_view.php?code=GA6a97c0e0c54b7",
@@ -2999,20 +2988,20 @@
   "https://www.tokenpost.kr/news/breaking/401837",
   "https://www.epnc.co.kr/news/articleView.html?idxno=406460",
   "https://www.ddaily.co.kr/page/view/2026090310263378380",
-  "https://kpenews.com/View.aspx?No=4210955"
+  "https://kpenews.com/View.aspx?No=4210955",
+  "http://www.osen.co.kr/article/G1112868698",
+  "https://www.ddaily.co.kr/page/view/2026090310223760791",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=512542",
+  "https://economist.co.kr/article/view/ecn202609030007",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=362591",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266352",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214224",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94713",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93498",
+  "https://www.yna.co.kr/view/AKR20260903060700011?input=1195m",
+  "http://www.newskr.kr/news/articleView.html?idxno=106089"
  ],
  "seen_titles": [
-  "대구광역시,대구·경북봉제업체87.9%'5인미만'...소규모중심산업...",
-  "AI시대인프라투자해법은…\"통신망투자유인·AIDC지원확대\"",
-  "추경호대구광역시장,'첨단모빌리티부품'국가성장엔진선정...기업...",
-  "완제품넘어데이터·부품까지…대기업'피지컬AI'선점경쟁",
-  "한화세미텍·한미반도체,'세미콘타이완'서첨단패키징장비공개",
-  "[TOP'sPick][제약]알테오젠,노바티스와라이선스계약체결外",
-  "AI메모리공급난…HBM·서버D램가격·출하병목",
-  "[오늘과내일]전공따로,취업따로!자녀를실업자로만드는지름길이...",
-  "SKT,여의도불꽃축제대비AI기반특별소통대책가동",
-  "SK바이오팜,엔비디아'B200'128장도입…AI신약개발속도",
-  "바클레이즈\"8월물가사실상피크아웃⋯韓추가금리인상내년2월전망...",
   "SKB'AI5셋톱박스',세계4대디자인상석권...창의적브랜드전략가...",
   "최태원,日새메모리공장건설검토",
   "최태원\"日키옥시아와공동생산도하나의선택지\"",
@@ -6001,7 +5990,18 @@
   "오픈AI아스트라,인간도움없이공격구성",
   "에임인텔리전스,'모두의AI'사업참여…SKT컨소시엄AI보안강화",
   "에임인텔리전스,'모두의AI'SKT컨소시엄참여…\"대국민보안강화\"",
-  "SKT,AI인프라수익화속도..SK하이퍼·호라이즌‘투트랙’"
+  "SKT,AI인프라수익화속도..SK하이퍼·호라이즌‘투트랙’",
+  "젠슨황→앤해서웨이출연‘유퀴즈’저력...브랜드대상7년연속1위...",
+  "시큐리티스코어카드,금융권공급망보안강화할'타이탄AI'공개",
+  "“AI잘쓰는것만으론부족”…교육학자가꺼낸‘AI탈활용’이란",
+  "“내자산괜찮을까”AI가진단한다…해빗팩토리,‘모두의AI’컨소시...",
+  "반도체·데이터센터로축적SK의AI역량,SK이노울산CLX제조현장서...",
+  "네이버클라우드,'보안AI'국가사업따냈다…SK텔레콤제치고최종선...",
+  "에임인텔리전스,'모두의AI'참여…AI에이전트보안강화",
+  "\"AI가해킹하면AI로막는다\"…네이버클라우드,정부보안AI개발맡아",
+  "네이버'사이버보안특화AI모델'만든다…정부사업수주,영토확장",
+  "[연합뉴스이시각헤드라인]-10:30",
+  "미국서만들지않으면관세라는데,한국은안전할까"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,21 @@
   [
    "2026-09-03T10:36:16.928187+09:00",
    "투트랙 ~SKT 인프라 수익화 속도 호라이즌 SK하이퍼"
+  ],
+  [
+   "2026-09-03T10:40:22.289830+09:00",
+   "정부사업 사이버보안 특화 수주 만든다 영토확장 네이버 AI모델"
+  ],
+  [
+   "2026-09-03T10:40:22.289830+09:00",
+   ""
+  ],
+  [
+   "2026-09-03T10:40:22.289830+09:00",
+   "한국은 관세라는데 않으면 만들지 안전할까 미국서"
   ]
  ],
- "last_run": "2026-09-03T10:38:31.466099+09:00",
+ "last_run": "2026-09-03T10:40:46.685110+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
