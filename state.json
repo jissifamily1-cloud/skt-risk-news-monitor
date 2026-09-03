@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://byline.network/?p=9004111222617872",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5216453",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=792635",
-  "https://view.asiae.co.kr/article/2026090214184262527",
-  "https://www.mk.co.kr/article/12141630",
-  "https://www.edaily.co.kr/News/Read?newsId=05123366645575856&mediaCodeNo=257",
-  "https://www.etnews.com/20260902000343",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005913699",
-  "https://www.mt.co.kr/tech/2026/09/02/2026090212555844663",
   "https://mhnse.com/news/articleView.html?idxno=1519986",
   "https://biz.heraldcorp.com/article/10860439",
   "https://www.sportschosun.com/baseball/2026-09-02/202609020100015060000782",
@@ -2999,18 +2990,18 @@
   "https://www.lcnews.co.kr/news/articleView.html?idxno=207662",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=266346",
   "http://www.kjdaily.com/article.php?aid=1788396369685868227",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307395"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307395",
+  "https://www.m-i.kr/news/articleView.html?idxno=1409490",
+  "https://biz.heraldcorp.com/article/10860412",
+  "https://www.fnnews.com/news/202609030859061088",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=207666",
+  "https://www.cstimes.com/news/articleView.html?idxno=719239",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=792783",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=792778",
+  "https://www.catchnews.kr/news/articleView.html?idxno=128079",
+  "https://www.edaily.co.kr/News/Read?newsId=03247206645576512&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "스테이지파이브,통신·AI위치기술시너지모색..로플랫인수",
-  "카카오게임즈,AI기반백엔드개발및운영자동화서비스기업'백엔드...",
-  "머스크·저커버그“AI규제보다혁신”…유럽“속도보다안전”맞불",
-  "카카오,‘통합멤버십’준비…톡에쇼핑·택시·콘텐트묶는다[팩플...",
-  "전남광주옛전방부지‘챔피언스시티1차’4일견본주택오픈",
-  "삼성전자,IFA2026서‘AI리빙’선보여…TV·가전·모바일연결성강...",
-  "조선대,멀티LLM‘CSUAI’전면도입…교육·행정AI활용확대",
-  "오픈AI차기모델‘아스트라’,첫‘치명적’사이버역량…고급기능...",
-  "케이사인,OCA에EV충전기해킹시연",
   "\"어디어디포함?\"…정부,내일공공기관지방이전공개",
   "[위클리오늘]SK텔레콤소식(9.2)",
   "'550조투자'AI데이터센터,입주기업은어디에?",
@@ -6001,7 +5992,16 @@
   "KT,CU디지털사이니지광고운영한다…리테일미디어사업확장",
   "KT,편의점광고부터AI데이터센터까지…디지털인프라확장속도",
   "엔비디아·마이크론·퀄컴동반상승…뉴욕증시3일만에반등",
-  "\"회수냐합작이냐\"···최태원,일본서드러낸반도체복안"
+  "\"회수냐합작이냐\"···최태원,일본서드러낸반도체복안",
+  "네이버컨소,정부'사이버보안AI모델'개발사업자선정",
+  "오픈AI·앤트로픽도‘AI역량인증시험’…APEX는연말까지‘무제한재...",
+  "LG유플러스,다문화가족·1인가구디지털역량키운다",
+  "LG유플러스,제천국제음악영화제미디어파트너참여…U+tv특별관운영",
+  "LG유플러스,다문화가족·1인가구디지털교육전국확대",
+  "[위클리오늘]이동통신소식_SK텔레콤,KT(9.3)",
+  "[위클리오늘]이동통신소식_KT엠모바일,LG유플러스(9.3)",
+  "\"AI데이터센터시장공략,든든한파트너\"LS일렉트릭,KT클라우드와손...",
+  "70승·77.9%확률의착시효과…삼성·KT우승전쟁은이제부터"
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,21 @@
   [
    "2026-09-03T10:00:33.033897+09:00",
    "합작이냐 반도체 복안 회수냐 드러낸 일본서"
+  ],
+  [
+   "2026-09-03T10:02:15.213509+09:00",
+   "~LGU ~KT LG유플러스 소식 이동통신 KT엠모바일"
+  ],
+  [
+   "2026-09-03T10:02:15.213509+09:00",
+   "~KT 시장공략 든든한 파트너 KT클라우드와 AI데이터센터 LS일렉트릭"
+  ],
+  [
+   "2026-09-03T10:02:15.213509+09:00",
+   "~KT 착시효과 70승 확률의 우승 이제부터 전쟁은 삼성"
   ]
  ],
- "last_run": "2026-09-03T10:01:16.253819+09:00",
+ "last_run": "2026-09-03T10:02:38.261777+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
