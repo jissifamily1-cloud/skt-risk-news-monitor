@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsam.co.kr/news/article.html?no=43892",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=126544",
   "https://www.xportsnews.com/article/2191029",
   "http://kor.theasian.asia/archives/414551",
   "https://www.munhwa.com/article/11613953",
@@ -2999,11 +2997,11 @@
   "https://www.edaily.co.kr/News/Read?newsId=03027446645576512&mediaCodeNo=257",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34644",
   "https://www.news1.kr/it-science/cc-newmedia/6278354",
-  "https://www.newsis.com/view/NISX20260903_0003774247"
+  "https://www.newsis.com/view/NISX20260903_0003774247",
+  "https://www.kizmom.com/news/articleView.html?idxno=112467",
+  "https://www.taxtimes.co.kr/news/article.html?no=276686"
  ],
  "seen_titles": [
-  "\"AI시대,망중립성유연해야…서비스마다다른통신품질필요\"",
-  "SK브로드밴드‘AI5셋톱박스’,디자인상그랜드슬램",
   "현대모비스,아틀라스31개액추에이터전량수주…LG유플러스,배당・자...",
   "삼성전자,HBM매출3배다음은'NVHBM'…4나노품고커스텀AI메모리정...",
   "SKT,여의도불꽃축제앞두고AI기반통신대응나선다",
@@ -6001,7 +5999,9 @@
   "KT,CU편의점‘디지털사이니지’띄운다…리테일미디어사업가속",
   "[단독인터뷰]최혁진의원\"KT개인정보유출증거삭제지시·묵인여...",
   "KT클라우드,LS일렉트릭과AIDC전력공급체계구축맞손",
-  "KT,전국3000개CU매장디지털광고운영맡는다"
+  "KT,전국3000개CU매장디지털광고운영맡는다",
+  "GEO업체추천기준은…국내5개사비교",
+  "한국세무사회전산법인-SKT,자비스앤빌런즈-카카오"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,13 @@
   [
    "2026-09-03T09:06:17.791068+09:00",
    "3000개 광고 운영 디지털 전국 ~KT CU매장 맡는다"
+  ],
+  [
+   "2026-09-03T09:08:14.136824+09:00",
+   "한국세무사회전산법인 ~SKT 자비스앤빌런즈 카카오"
   ]
  ],
- "last_run": "2026-09-03T09:06:51.168826+09:00",
+ "last_run": "2026-09-03T09:08:33.196723+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
