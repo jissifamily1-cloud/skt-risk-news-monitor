@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1521318",
-  "https://www.koreatimes.co.kr/path/A2026090311020001843",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41740",
-  "http://www.iminju.net/news/articleView.html?idxno=169020",
-  "http://www.e2news.com/news/articleView.html?idxno=333863",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609030404&t=NN",
   "https://www.newspim.com/news/view/20260903000614",
   "https://www.kukinews.com/article/view/kuk202609030098",
   "https://www.newspim.com/news/view/20260903000593",
@@ -2999,15 +2993,15 @@
   "https://www.aitimes.com/news/articleView.html?idxno=214788",
   "https://kpenews.com/View.aspx?No=4210982",
   "https://www.aitimes.kr/news/articleView.html?idxno=41724",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466008"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466008",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005915117",
+  "https://biz.sbs.co.kr/article_hub/20000332695?division=NAVER",
+  "https://www.globale.co.kr/news/articleView.html?idxno=40205",
+  "https://www.etoday.co.kr/news/view/2621758",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=879796",
+  "https://biz.sbs.co.kr/article_hub/20000332694?division=NAVER"
  ],
  "seen_titles": [
-  "1점차승부는'감독의역량'이라는데…승률꼴찌는롯데자이언츠",
-  "LSElectric,KTCloudsignMOUtobuildAIdatacenterinfrastructure",
-  "룰루랩,'루스킨S'출시…AI피부데이터기반'병원AX'추진",
-  "李대통령,정의선과비공개회동…현대차투자·美통상현안논의",
-  "내년부터20kW이상재생e모니터링·제어장비의무화",
-  "밸류업공시기업756곳…밸류업지수올해80%↑",
   "[AI프리뷰]3일잠실두산-LG전,4일쉬고등판두산곽빈LG에스윕패막...",
   "양양도심주정차질서바뀐다…남문9길홀짝제확대·남문10길보행로...",
   "[AI프리뷰]3일대구삼성-롯데전,선두삼성의원태인롯데전부진극복...",
@@ -6001,7 +5995,13 @@
   "오픈AI,'텀블러리지총기난사'30건추가소송…방조·공모혐의적용",
   "AI유료구독자급증에카드사할인경쟁..'어떤카드'써야하나",
   "샘올트먼,\"강력한AI가가져올결과아무도완전히이해하지못해\"......",
-  "방미통위,호우특별재난지역방송요금지원···TV수신료2개월면제"
+  "방미통위,호우특별재난지역방송요금지원···TV수신료2개월면제",
+  "증시오늘'핫이슈'…\"코스피오후1시55분시작된'급락연습'\"",
+  "[마켓브리핑]국채매도세점점진정…뉴욕증시2거래일째상승",
+  "뉴욕증시,연준발언·금리안정에일제상승···코스피훈풍기대",
+  "뉴욕증시,금리인상베팅후퇴에기술주강세…나스닥1.40%↑[종합]",
+  "뉴욕증시,금리완화시사연준발언에1%이상상승",
+  "[증시전략]월러랠리에도불안한증시…고용·중동·엔화에달렸다"
  ],
  "recent_sigs": [
   [
@@ -6193,7 +6193,7 @@
    "데이터센터 기반시설 KT클라우드와 맞손 LS일렉트릭 공급 ~KT 구자균"
   ]
  ],
- "last_run": "2026-09-04T07:26:35.965242+09:00",
+ "last_run": "2026-09-04T07:28:35.618783+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
