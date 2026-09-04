@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6572821",
-  "https://www.news1.kr/it-science/security-hacking/6279294",
-  "https://sports.donga.com/ent/article/all/20260903/134600592/1",
-  "http://www.newskr.kr/news/articleView.html?idxno=106110",
-  "https://news.tf.co.kr/read/photomovie/2361726.htm",
-  "https://www.wikitree.co.kr/articles/1157100",
-  "https://www.namdonews.com/news/articleView.html?idxno=922225",
   "https://www.nongmin.com/article/20260903500482",
   "http://www.newsprime.co.kr/news/article.html?no=746396",
   "https://www.mk.co.kr/article/12143555",
@@ -2999,16 +2992,16 @@
   "https://www.bbc.com/korean/articles/cvgyq9ej434o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000062519",
   "http://www.kdfnews.com/news/articleView.html?idxno=187533",
-  "https://www.aitimes.com/news/articleView.html?idxno=214830"
+  "https://www.aitimes.com/news/articleView.html?idxno=214830",
+  "https://www.mt.co.kr/tech/2026/09/04/2026090411484065229",
+  "https://www.public25.com/news/articleView.html?idxno=54072",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=226198",
+  "http://www.newsprime.co.kr/news/article.html?no=746507",
+  "http://www.newstomato.com/ReadNews.aspx?no=1312554&inflow=N",
+  "https://www.itbiznews.com/news/articleView.html?idxno=223841",
+  "https://www.seoulfn.com/news/articleView.html?idxno=637242"
  ],
  "seen_titles": [
-  "OTT플랫폼티빙보안체계완전히뜯어고친다:보안조직신설,2030년...",
-  "정기국회첫본회의무난히통과…與野,본게임앞두고'숨고르기'",
-  "3954만계정털린티빙,구렁이담넘어가나했더니…3개월만에대표등...",
-  "대규모정보유출에고개숙인티빙…보상안은보험1년·포인트제공",
-  "해커에털린티빙…최대300만원피해보장약속(종합)",
-  "유출된티빙계정은3954만개…인지29시간뒤늑장신고",
-  "티빙,모든계정유출됐다…접속키하나에DB까지접근(종합)",
   "티빙3954만개인정보유출…‘KT해킹’보상가입자도또해킹‘역대...",
   "티빙,계정3954만개유출사과",
   "약4천만계정유출...'총체적부실'고개숙인티빙[TF사진관]",
@@ -6001,7 +5994,14 @@
   "'취업면접사기로모아둔돈을잃었습니다'",
   "'모두의AI'연내출격…카카오·KT·SKT실행형AI경쟁",
   "SKT,자원순환캠페인시행…폐IT기기재활용해취약계층아동지원",
-  "엔비디아,허깅페이스17.5조인수공식발표...오픈소스생태계주도권..."
+  "엔비디아,허깅페이스17.5조인수공식발표...오픈소스생태계주도권...",
+  "정신아카카오대표\"4900만카카오톡AI접점으로…'1인N에이전트'구...",
+  "신한라이프,보이스피싱'신고전차단'…실시간이상거래탐지강화",
+  "LG,AI전환속도높인다…엔비디아·구글·아마존·MS와'기술동맹'",
+  "싼이심,알고보니中통신사상품?…고객고지도없어",
+  "개보위내년예산996억원…예방·피해구제강화초점",
+  "ElasticBringsOpenAIGPTCyberModelsIntoElasticSecurity",
+  "[식음료브리핑]대상그룹,소아암환아에헌혈증서·존중박스기부외"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,21 @@
   [
    "2026-09-04T12:00:35.448648+09:00",
    "개입 인공지능이 없이 왔다 인간 공격한 취약점 치명적"
+  ],
+  [
+   "2026-09-04T12:08:21.690079+09:00",
+   "고객 없어 알고 고지도 보니 이심 상품"
+  ],
+  [
+   "2026-09-04T12:08:21.690079+09:00",
+   "Models Cyber Brings GPT Security Into Elastic"
+  ],
+  [
+   "2026-09-04T12:08:21.690079+09:00",
+   "대상그룹 환아에 헌혈증서 존중박스 소아암 기부"
   ]
  ],
- "last_run": "2026-09-04T12:06:29.654202+09:00",
+ "last_run": "2026-09-04T12:08:47.476440+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
