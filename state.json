@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20260903173130kEz",
-  "http://www.kwangju.co.kr/article.php?aid=1788424500802993005",
   "https://www.goodkyung.com/news/articleView.html?idxno=290975",
   "https://news.jtbc.co.kr/article/NB12316600?influxDiv=NAVER",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=558554",
@@ -2999,11 +2997,11 @@
   "https://www.naeil.com/news/read/601133",
   "http://www.newsprime.co.kr/news/article.html?no=746527",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=191649",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225888"
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225888",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609031500215840106022",
+  "https://www.m-i.kr/news/articleView.html?idxno=1410121"
  ],
  "seen_titles": [
-  "[GAMFF]\"3D데이터96.4%압축\"…그리네타,AI공간데이터기술공개",
-  "티에스이,대구에연구개발거점",
   "삼성전자,2QHBM점유율21%→33%'껑충'",
   "SK이노베이션울산CLX,'듀얼브레인'으로제조AI미래그린다",
   "SK사회적가치연구원,기후테크선금융메커니즘논의\"미래기후성과...",
@@ -6001,7 +5999,9 @@
   "서울우유,인공지능언급우유1위",
   "'모두의AI'연내개시…SKT·카카오·KT3色경쟁",
   "SKT,'모두의AI'구현본격화…31개사AI생태계가동",
-  "개인정보반복위반땐매출10%과징금,이사회보고도의무화"
+  "개인정보반복위반땐매출10%과징금,이사회보고도의무화",
+  "[더벨]태광산업,넥스플렉스인수포기…주력원매자이탈",
+  "SKT,폐IT기기회수해취약계층아동지원"
  ],
  "recent_sigs": [
   [
@@ -6525,7 +6525,7 @@
    "의무화 보고도 이사회 개인정보 반복 위반 매출 과징금"
   ]
  ],
- "last_run": "2026-09-04T13:18:37.329468+09:00",
+ "last_run": "2026-09-04T13:20:35.396651+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
