@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7182372",
-  "https://www.yna.co.kr/view/AKR20260903106051017?input=1195m",
-  "https://www.mk.co.kr/article/12143688",
-  "https://kidd.co.kr/news/247295",
-  "https://news.mtn.co.kr/news-detail/2026090317194388787",
-  "https://www.insight.co.kr/news/571837",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169458",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=336869",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=50242",
@@ -2999,15 +2993,15 @@
   "https://www.ajunews.com/view/20260904135442293",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=266427",
   "https://news.bizwatch.co.kr/article/mobile/2026/09/04/0003",
-  "https://www.donga.com/news/Economy/article/all/20260904/134605836/1"
+  "https://www.donga.com/news/Economy/article/all/20260904/134605836/1",
+  "https://www.newsis.com/view/NISX20260904_0003776403",
+  "http://www.newstomato.com/ReadNews.aspx?no=1312583&inflow=N",
+  "https://www.sedaily.com/article/20087220",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=134754",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=135546",
+  "https://www.laborplus.co.kr/news/articleView.html?idxno=41424"
  ],
  "seen_titles": [
-  "해외매출90%에이피알…성장속도못따라간'가품관리'",
-  "애경케미칼,AI로업무·R&D·생산혁신…전사AX전환속도",
-  "하반기모바일게임판흔들신작4종,뭐가다른가",
-  "김해의료·바이오기업8곳,부산헬스케어위크서판로개척",
-  "티빙,보안투자4배·인력3배확대…제로트러스트로전환",
-  "티빙계정3954만개유출…티빙\"보안체계재구축\"",
   "티빙대표공식사과…\"보안투자4배로늘리고고객보상\"(종합)",
   "티빙계정3954만개털렸다…개인정보일부해외로유출",
   "티빙,이용자정보3천954만개유출…보안관리‘허술’이화불러",
@@ -6001,7 +5995,13 @@
   "SKT·KT·카카오'모두의AI'출격…국산AI생태계키운다(종합)",
   "'모두의AI'개발착수…SKT·카카오·KT'챗봇·실행형AI'청사진공개",
   "배경훈부총리\"모두의AI,외산AI와차별점둬야\"",
-  "오픈AI,GPT-6아스트라공개…“AGI시대열렸다”"
+  "오픈AI,GPT-6아스트라공개…“AGI시대열렸다”",
+  "\"카톡·전화로서류떼고병원예약까지\"…카카오'모두의AI'이달뜬다",
+  "(디저트제국의두얼굴)⑦\"SPC가맹구조,불공정거래의압축본\"",
+  "신한라이프,보이스피싱신고접수전에잡는다…FDS고도화",
+  "서울우유,AI가선택한우유브랜드1위...\"89년신뢰통했다\"",
+  "서울우유,생성형AI브랜드경쟁력우유부문1위",
+  "LG유플러스노조제11대임원'김창훈-장원석'당선"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,13 @@
   [
    "2026-09-04T14:12:14.268944+09:00",
    "공개 열렸다 GPT AGI 시대 아스트라"
+  ],
+  [
+   "2026-09-04T14:14:13.278824+09:00",
+   "제11대 ~LGU 장원석 LG유플러스노조 임원 당선 김창훈"
   ]
  ],
- "last_run": "2026-09-04T14:12:33.113564+09:00",
+ "last_run": "2026-09-04T14:14:37.498503+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
