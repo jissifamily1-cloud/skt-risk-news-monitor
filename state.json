@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/bio/pharmaceutical-bio/6279823",
-  "https://www.etnews.com/20260904000040",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16609",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=600176",
-  "https://www.viva100.com/article/20260904500091",
-  "https://www.handmk.com/news/articleView.html?idxno=42833",
   "https://www.ggilbo.com/news/articleView.html?idxno=1179553",
   "https://zdnet.co.kr/view/?no=20260904084050",
   "https://www.irobotnews.com/news/articleView.html?idxno=48291",
@@ -2999,15 +2993,15 @@
   "https://www.sedaily.com/article/20087468",
   "https://isplus.com/article/view/isp202609050002",
   "https://www.yna.co.kr/view/AKR20260904060700007?input=1195m",
-  "https://www.koreadaily.com/article/20260904142344232"
+  "https://www.koreadaily.com/article/20260904142344232",
+  "https://www.news1.kr/sports/basketball/6280803",
+  "https://www.news2day.co.kr/article/20260904500264",
+  "https://www.g-enews.com/view.php?ud=202609050619576402bd56fbc3c_1",
+  "https://www.yna.co.kr/view/AKR20260904023000017?input=1195m",
+  "https://view.asiae.co.kr/article/2026090411543298879",
+  "https://www.tokenpost.kr/news/breaking/402785"
  ],
  "seen_titles": [
-  "엔비디아,허깅페이스17.5조원에인수…오픈AI·앤트로픽에도전",
-  "엔비디아,허깅페이스130억달러에인수…AI생태계영향력확장",
-  "신한라이프,보이스피싱대응FDS고도화…의심거래실시간차단",
-  "신한라이프,보이스피싱탐지시스템고도화…신고전이상거래잡는다",
-  "5G속도도‘돈낸만큼’…보다폰쓰리,슬라이싱요금제띄웠다",
-  "계명대동산미래과학포럼,'디지털의료와AI융합연구'주제로개최",
   "많은이에맞혀도못막는다…고령층독감백신,예방효과로전환",
   "신한라이프,신고접수전보이스피싱막는다…고객자산보호",
   "[정책브리핑]'원격출력제어'설치대상재생에너지발전기대폭확대",
@@ -6001,7 +5995,13 @@
   "美고용호조에금리인상확률재상승...뉴욕증시일제리하락[데일리...",
   "'담장직격'2루타에탄식나온챔필...김도영40홈런,5일KT전에서나올...",
   "◇오늘의경기(5일)",
-  "“4년제학위없어도연봉10만달러”…기술직뜬다"
+  "“4년제학위없어도연봉10만달러”…기술직뜬다",
+  "'NBA도전'이현중\"지금은대표팀에만집중하고싶다\"",
+  "[N2포커스]불꽃축제에AI·5G총출동…통신3사,'트래픽전쟁'대비",
+  "기업가치67조문샷AI,실리콘밸리거부한33세핫샷의반란",
+  "[AI돋보기]기지국이AI데이터센터로…통신사'변신'시작됐다",
+  "[AI세계속으로]오픈AI에뚫린허깅페이스17조원에산엔비디아,왜?",
+  "앨라배마주,허깅페이스침해두고오픈AI소환"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,21 @@
   [
    "2026-09-05T06:02:14.949721+09:00",
    "빅테크는 소송 테슬라 메타 구글"
+  ],
+  [
+   "2026-09-05T06:36:14.044031+09:00",
+   "변신 시작됐다 데이터센터로 기지국이"
+  ],
+  [
+   "2026-09-05T06:36:14.044031+09:00",
+   "통신 트래픽 총출동 전쟁 5G 대비 불꽃축제에 3사"
+  ],
+  [
+   "2026-09-05T06:36:14.044031+09:00",
+   "두고 침해 앨라배마주 허깅페이스 소환"
   ]
  ],
- "last_run": "2026-09-05T06:34:34.633831+09:00",
+ "last_run": "2026-09-05T06:36:41.638789+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
