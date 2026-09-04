@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/sb-founded/6279062",
-  "https://www.seoul.co.kr/news/economy/2026/09/03/20260903500174?wlog_tag3=naver",
-  "https://kpenews.com/View.aspx?No=4211633",
-  "https://www.gameshot.net/common/con_view.php?code=GA6a9908132ea4e",
-  "https://www.etnews.com/20260903000281",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1402399",
-  "https://www.greened.kr/news/articleView.html?idxno=349182",
-  "https://www.eroun.net/news/articleView.html?idxno=89164",
-  "https://www.newsis.com/view/NISX20260903_0003775148",
-  "https://www.mt.co.kr/tech/2026/09/03/2026090314460524281",
-  "https://www.dailian.co.kr/news/view/1686045/?sc=Naver",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169427",
   "https://www.fetv.co.kr/news/articleView.html?idxno=309576",
   "https://www.job-post.co.kr/news/articleView.html?idxno=226054",
@@ -2999,20 +2988,20 @@
   "https://www.ziksir.com/news/articleView.html?idxno=145375",
   "https://www.g-enews.com/view.php?ud=202609040910107575a6e8311f64_1",
   "https://www.thepowernews.co.kr/view.php?ud=202609040932449007de3f0aa1be_7",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41747"
+  "https://www.aitimes.kr/news/articleView.html?idxno=41747",
+  "https://zdnet.co.kr/view/?no=20260904094607",
+  "https://www.etnews.com/20260904000054",
+  "https://www.mk.co.kr/article/12144186",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=406532",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=443865",
+  "https://zdnet.co.kr/view/?no=20260904091541",
+  "https://www.dizzotv.com/site/data/html_dir/2026/09/04/2026090480020.html",
+  "https://www.news1.kr/life-culture/book/6279858",
+  "https://www.joongang.co.kr/article/25459059",
+  "https://www.ytn.co.kr/_ln/0104_202609040944521404",
+  "https://www.widedaily.com/news/articleView.html?idxno=300599"
  ],
  "seen_titles": [
-  "\"초기창업기업'실증·판로'연다\"…씨엔티테크·네이버클라우드'맞손...",
-  "약51조원규모용산프로젝트본궤도…전자상가특별계획구역복합단지...",
-  "구글,AI신모델출시주기단축..3주만에‘제미나이3.8플래시’공...",
-  "이정도면‘리니지라이크’장르의‘수작’",
-  "이노그리드,'오픈스택잇3.5'출시…“VM웨어대체넘어AI인프라고도...",
-  "이재용·최태원이어정의선…李,순방뒤재계총수연쇄회동",
-  "SK하이닉스,키옥시아와'메모리동맹'가능성…日생산거점연내윤곽",
-  "[이로운논의]기후테크,상용화전자금부족어떻게풀까...사회적가치...",
-  "[속보]정부\"KT보상티빙쿠폰수령자정보유출규모는52만7000건\"",
-  "[속보]티빙,모든가입자정보털렸다…KT보상쿠폰가입자52.7만건도유...",
-  "트럼프정부,저작권소송서오픈AI편들었다…NYT강력반발",
   "브로드컴\"2027년AI칩매출2배\"…엔비디아독주흔들까",
   "네이버클라우드,정부'보안특화AI모델'사업자최종선정…700B급2종...",
   "NAVER,이틀째약세…장중20만3500원까지밀려",
@@ -6001,7 +5990,18 @@
   "신한라이프,보이스피싱신고전차단강화…FDS고도화",
   "보이스피싱의심,그룹사함께대응…신한라이프,신규탐지시스템운영",
   "신한라이프,신고전보이스피싱막는다…이상거래잡히면즉시거래제...",
-  "G20혁신장관회의,AI지재권·표준·인재·공급망등6대분야공동원..."
+  "G20혁신장관회의,AI지재권·표준·인재·공급망등6대분야공동원...",
+  "[시론]보안특화AI,우리가만들려는것은'모델'인가'역량'인가",
+  "정용진신세계회장,美'파운드리스쿨'참석…AI동맹행보강화",
+  "‘기업가치2700조원’앤트로픽상장하면,대박날이들의정체",
+  "오픈형이어폰,글로벌이어폰판매량17%차지",
+  "정용진,美'파운드리스쿨'출범식참석…AI공급망협력논의",
+  "정용진,美‘AI공급망동맹’무대에…신세계협력확대",
+  "'팍스실리카'중심선정용진…美수뇌부와첨단공급망논의",
+  "AI시대,인간사유의주도권을묻다…박남기교수\"비사용이아니라탈...",
+  "엔비디아,허깅페이스17조원에인수…왜이렇게비싸게샀나",
+  "\"AGI시대개막\"...오픈AI,첫'위험등급'아스트라공개",
+  "\"기업늑장신고안기다린다\"…정부,내달부터해킹정황시직권조사..."
  ],
  "recent_sigs": [
   [
@@ -6401,7 +6401,7 @@
    "SK 삼성 총수들 엔비디아와 동맹 출격 강화 뉴욕"
   ]
  ],
- "last_run": "2026-09-04T09:46:29.409518+09:00",
+ "last_run": "2026-09-04T09:48:29.417944+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
