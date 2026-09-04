@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3429961",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41751",
-  "https://www.kado.net/news/articleView.html?idxno=2070466",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=406513",
-  "https://www.fnnews.com/news/202609031809177897",
-  "http://www.inews24.com/view/2001820",
   "https://www.hani.co.kr/arti/economy/it/1276127.html",
   "https://www.sidae.com/article/2026090317070279885",
   "https://www.techm.kr/news/articleView.html?idxno=154918",
@@ -2999,15 +2993,15 @@
   "https://www.nytimes.com/2026/09/03/technology/anthropic-ipo-investors-winners.html?partner=naver",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698272",
   "https://www.itdaily.kr/news/articleView.html?idxno=241413",
-  "https://www.newsis.com/view/NISX20260904_0003776422"
+  "https://www.newsis.com/view/NISX20260904_0003776422",
+  "https://www.aitimes.com/news/articleView.html?idxno=214782",
+  "https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html?partner=naver",
+  "https://www.m-economynews.com/news/article.html?no=70446",
+  "https://www.joongang.co.kr/article/25459144",
+  "https://www.thelec.kr/news/articleView.html?idxno=61834",
+  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1780052"
  ],
  "seen_titles": [
-  "이대통령,정의선과비공개회동…새만금투자등논의한듯",
-  "이대통령,SK·삼성이어정의선현대차회장과비공개회동",
-  "미토스쇼크대응할‘보안특화AI’,네이버연합군이만든다",
-  "정부보안AI개발사업자에네이버",
-  "대구광역시,2690억투입'달서천5구역하수관로정비BTL'우선협상대...",
-  "\"모델고르기전에데이터부터\"…EDB,AI전환순서바꾸다",
   "MIPS,피지컬AI용플랫폼3종출시…AI추론·실시간제어·안전기능별...",
   "티빙대표공식사과…\"보안투자4배로·피해고객최대300만원보상\"",
   "\"휴면·탈퇴모두보상\"…티빙,개인정보유출보상안공개",
@@ -6001,17 +5995,15 @@
   "WhichInvestorsWillGetRichFromAnthropic’sIPO?",
   "SKT·KT·카카오'모두의AI'출격채비…외산넘을대국민AI시동",
   "전국KT플라자서'갤럭시S26FE'체험·개통시작",
-  "\"집찾아주고연금신청까지척척\"…KT,대국민AI'이음'띄운다"
+  "\"집찾아주고연금신청까지척척\"…KT,대국민AI'이음'띄운다",
+  "오픈AI,'아스트라'에차세대'순환추론'적용으로성능대폭향상",
+  "WhytheCourtsStruggletoTameBigTech",
+  "AI수요폭증,DC공랭식한계드러나...액침냉각이데이터센터의새표...",
+  "“1000만원→23억된다”…2027년판뒤집을‘텐배거ETF’",
+  "정부,'모두의AI'에내년2500억편성…SKT·카카오·KT에100억씩",
+  "엔비디아IFA서로컬AI기술공개,RTX스파크10월출시"
  ],
  "recent_sigs": [
-  [
-   "2026-09-04T08:26:14.633016+09:00",
-   "만들어주십시오 웨이퍼에"
-  ],
-  [
-   "2026-09-04T08:26:14.633016+09:00",
-   "부문 우유 생성형 브랜드지수 서울우유 1위"
-  ],
   [
    "2026-09-04T08:28:17.477600+09:00",
    "함께 펼쳐 캠페인 ~SKT 구성원과 자원순환"
@@ -6525,7 +6517,7 @@
    "띄운다 찾아주고 신청까지 척척 대국민 연금 이음 ~KT"
   ]
  ],
- "last_run": "2026-09-04T14:26:36.722199+09:00",
+ "last_run": "2026-09-04T14:28:33.016052+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
