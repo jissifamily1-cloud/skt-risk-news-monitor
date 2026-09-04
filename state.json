@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115352",
-  "https://www.joongang.co.kr/article/25458618",
-  "https://www.thepublic.kr/news/articleView.html?idxno=317355",
-  "https://www.xportsnews.com/article/2191721",
-  "http://www.osen.co.kr/article/G1112868979",
-  "https://www.xportsnews.com/article/2191719",
-  "https://www.starnewskorea.com/sports/2026/09/03/2026090315031413479",
-  "http://www.osen.co.kr/article/G1112868978",
   "https://www.xportsnews.com/article/2191718",
   "http://www.osen.co.kr/article/G1112868976",
   "https://www.xportsnews.com/article/2191717",
@@ -2999,17 +2991,17 @@
   "https://www.industrynews.co.kr/news/articleView.html?idxno=85525",
   "http://www.sisacast.kr/news/articleView.html?idxno=99628",
   "https://www.newsis.com/view/NISX20260904_0003776747",
-  "https://biz.chosun.com/it-science/ict/2026/09/04/2DCJFSR5CBHIXI54BDKR64GMWE/"
+  "https://biz.chosun.com/it-science/ict/2026/09/04/2DCJFSR5CBHIXI54BDKR64GMWE/",
+  "https://www.mydaily.co.kr/page/view/2026090414550376905",
+  "https://m.sports.naver.com/basketball/article/065/0000301269",
+  "https://www.ikbc.co.kr/article/view/kbc202609040051",
+  "http://www.osen.co.kr/article/G1112869621",
+  "https://www.sedaily.com/article/20087247",
+  "https://www.etnews.com/20260904000277",
+  "https://zdnet.co.kr/view/?no=20260904142839",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433510"
  ],
  "seen_titles": [
-  "‘4000만명’계정털린티빙,보상안보니…“1만원상당포인트·쿠폰...",
-  "KT,에이전틱AI맞춤데이터체계구축…AX플랫폼전환가속",
-  "“불편함의골짜기견디면AI초생산성혁신”",
-  "“AI전환,과도기겪어야J자처럼생산성반등”",
-  "“AX불편함의골짜기견뎌야J커브로성장”",
-  "서울대강단선SKT정재헌대표\"AI시대핵심은인재의통찰과공감\"",
-  "정재헌“AI시대의인재,4가지근육키워야”",
-  "정재헌SKTCEO\"기술은AI가,통찰과공감이사람의경쟁력\"",
   "키오프하늘'시구파이팅!'[엑'sHD포토]",
   "[사진]시구하는인형키오프하늘",
   "키오프하늘'피니시까지완벽하게'[엑'sHD포토]",
@@ -6001,7 +5993,15 @@
   "서울우유,생성형AI브랜드경쟁력지수서우유부문'1위'",
   "서울우유,AI브랜드경쟁력지수'AIBIX(AIBrandIndex)'1위선정",
   "대법'주민번호암호화미흡'개보위서과태료…\"유출없다\"(종합)",
-  "오픈AI·앤트로픽은‘AGI’,구글·메타는‘효율’…하반기AI신모델..."
+  "오픈AI·앤트로픽은‘AGI’,구글·메타는‘효율’…하반기AI신모델...",
+  "동반'첫커리어20홈런'가능할까…가을야구멀어지고있지만롯데한...",
+  "‘분유버프’받은배스“내농구는여전히전성기,개인목표도결국...",
+  "'39홈런'KIA김도영에게남은기회는단3경기...27년묵은기록깰까",
+  "\"여기서끝나면억울해\"900경기뛰고도KS못밟았다…우완최초역사...",
+  "SKT·카카오·KT,모두의AI개발본격착수…“2030년MAU3000만명”",
+  "KT,'모두의AI'프로젝트이음본격화…멀티모델·토큰팩토리결집",
+  "엔비디아,허깅페이스인수…'AI독점'완성인가,오픈소스구원인가",
+  "캐시우드,AMD팔고엔비디아·브로드컴매수…포트폴리오재편"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,13 @@
   [
    "2026-09-04T14:58:16.725322+09:00",
    "로봇 CEO 오픈 개발하고 휴머노이드 있다"
+  ],
+  [
+   "2026-09-04T15:00:31.056867+09:00",
+   "브로드컴 매수 포트폴리오 팔고 재편 캐시 우드 AMD"
   ]
  ],
- "last_run": "2026-09-04T14:58:37.337176+09:00",
+ "last_run": "2026-09-04T15:00:54.315012+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
