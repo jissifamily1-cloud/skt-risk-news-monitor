@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=41747",
-  "https://zdnet.co.kr/view/?no=20260904094607",
-  "https://www.etnews.com/20260904000054",
-  "https://www.mk.co.kr/article/12144186",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=406532",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=443865",
-  "https://zdnet.co.kr/view/?no=20260904091541",
-  "https://www.dizzotv.com/site/data/html_dir/2026/09/04/2026090480020.html",
-  "https://www.news1.kr/life-culture/book/6279858",
   "https://www.joongang.co.kr/article/25459059",
   "https://www.ytn.co.kr/_ln/0104_202609040944521404",
   "https://www.widedaily.com/news/articleView.html?idxno=300599",
@@ -2999,18 +2990,18 @@
   "https://www.newdaily.co.kr/site/data/html/2026/09/05/2026090500002.html",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169470",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/04/2026090400057.html",
-  "https://www.news1.kr/realestate/general/6280189"
+  "https://www.news1.kr/realestate/general/6280189",
+  "https://www.newsway.co.kr/news/view?ud=2026090415254806612",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3685533",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3685548",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3685542",
+  "https://www.edaily.co.kr/News/Read?newsId=01804006645577168&mediaCodeNo=257",
+  "https://www.sedaily.com/article/20087060",
+  "https://www.newsis.com/view/NISX20260904_0003776681",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1402739",
+  "https://www.youthdaily.co.kr/news/article.html?no=226455"
  ],
  "seen_titles": [
-  "【데일리ESG정책브리핑】재생에너지제어장비의무확대·대기업지...",
-  "대구시수성구청,한국의호흡...세계마스터즈육상대회참가자전통문화...",
-  "신한라이프,신고전보이스피싱차단…AI아닌FDS로이상거래실시간...",
-  "신한라이프,보이스피싱신고전차단강화…FDS고도화",
-  "보이스피싱의심,그룹사함께대응…신한라이프,신규탐지시스템운영",
-  "신한라이프,신고전보이스피싱막는다…이상거래잡히면즉시거래제...",
-  "G20혁신장관회의,AI지재권·표준·인재·공급망등6대분야공동원...",
-  "[시론]보안특화AI,우리가만들려는것은'모델'인가'역량'인가",
-  "정용진신세계회장,美'파운드리스쿨'참석…AI동맹행보강화",
   "‘기업가치2700조원’앤트로픽상장하면,대박날이들의정체",
   "오픈형이어폰,글로벌이어폰판매량17%차지",
   "정용진,美'파운드리스쿨'출범식참석…AI공급망협력논의",
@@ -6001,7 +5992,16 @@
   "'이정현27점'폭발남자농구,필리핀에완승…AG기대감높였다",
   "오픈AI,보안논란'아스트라'공개…안전장치강화",
   "코스피,미금리인하기대에1%대강세…삼전닉스동반상승",
-  "[분양캘린더]7개단지2852가구분양…'브라운스톤월곡'청약"
+  "[분양캘린더]7개단지2852가구분양…'브라운스톤월곡'청약",
+  "정유사,데이터센터액침냉각유실증경쟁본격화",
+  "용인서대학생체전열려…5개대학참가해교류의장",
+  "하남시,5급이상공무원대상맞춤형폭력예방교육실시",
+  "용인시,부산박람회서재난안전정책홍보관운영",
+  "'시간은골라쓰는것'…맛집오픈런의심리학",
+  "“함께오르자,영화의山”…울산울주세계산악영화제,35개국114편5일...",
+  "왜다시하드웨어엔지니어인가…'터너스호'애플출범[애플50년새판...",
+  "통신3사,서울세계불꽃축제앞두고안정성확보'총력전'",
+  "AI신약개발'승부수'…SK바이오팜,최근엔비디아GPU에연170억투자"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,13 @@
   [
    "2026-09-05T07:58:12.936234+09:00",
    "3분만에 걸리던 AGI 시대에 검색 환영 5시간"
+  ],
+  [
+   "2026-09-05T08:06:15.046082+09:00",
+   "투자 SK바이오팜 최근 신약개발 170억 GPU에 승부수"
   ]
  ],
- "last_run": "2026-09-05T08:04:32.091547+09:00",
+ "last_run": "2026-09-05T08:06:33.779438+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
