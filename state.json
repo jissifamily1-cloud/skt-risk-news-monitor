@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=239347",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=273688",
-  "https://www.sportsseoul.com/news/read/1632756",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=91057",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=502431",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43486",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=364752",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852557",
-  "https://www.etnews.com/20260903000293",
   "https://www.news1.kr/industry/sb-founded/6279062",
   "https://www.seoul.co.kr/news/economy/2026/09/03/20260903500174?wlog_tag3=naver",
   "https://kpenews.com/View.aspx?No=4211633",
@@ -2999,18 +2990,18 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092169470",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/04/2026090400057.html",
   "https://www.sedaily.com/article/20087108",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862214"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862214",
+  "https://view.asiae.co.kr/article/2026090409414699190",
+  "https://www.seoultimes.news/news/article.html?no=2000099519",
+  "http://www.impacton.net/news/articleView.html?idxno=20211",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3684582",
+  "http://www.paxetv.com/news/articleView.html?idxno=281012",
+  "https://www.ziksir.com/news/articleView.html?idxno=145375",
+  "https://www.g-enews.com/view.php?ud=202609040910107575a6e8311f64_1",
+  "https://www.thepowernews.co.kr/view.php?ud=202609040932449007de3f0aa1be_7",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41747"
  ],
  "seen_titles": [
-  "KB국민은행,미래금융AI경진대회개최…5개팀수상",
-  "KB국민은행,제8회'FutureFinanceAIChallenge'성료",
-  "“잘나가네”…모디세이,10월컴백이어첫팬콘서트투어",
-  "KB국민은행,'퓨처파이낸스AI챌린지'대상에'풀스택선우'",
-  "유영찬-고우석갖춘엘지,내년이더무섭다?엠팍팬들은\"글쎄...\"",
-  "하나은행,백남준·가우디기념미디어아트특별전개최…예술과기술의...",
-  "KB국민은행,AI금융경진대회개최...우수팀에ICT서류·필기전형면제",
-  "[클라우드월드]삼성SDS'RXART'개최·이노그리드'가상화플랫폼'출...",
-  "EDB,DB넘어'데이터플랫폼'정조준…“토큰비용80%절감”",
   "\"초기창업기업'실증·판로'연다\"…씨엔티테크·네이버클라우드'맞손...",
   "약51조원규모용산프로젝트본궤도…전자상가특별계획구역복합단지...",
   "구글,AI신모델출시주기단축..3주만에‘제미나이3.8플래시’공...",
@@ -6001,7 +5992,16 @@
   "오픈AI,보안논란'아스트라'공개…안전장치강화",
   "코스피,미금리인하기대에1%대강세…삼전닉스동반상승",
   "삼성SK,엔비디아와동맹강화...총수들‘뉴욕출격’",
-  "클라우드밖AI…엔비디아의새승부수"
+  "클라우드밖AI…엔비디아의새승부수",
+  "신한라이프,신고접수전보이스피싱막는다",
+  "신한라이프,보이스피싱신고전의심거래탐지…새FDS가동",
+  "【데일리ESG정책브리핑】재생에너지제어장비의무확대·대기업지...",
+  "대구시수성구청,한국의호흡...세계마스터즈육상대회참가자전통문화...",
+  "신한라이프,신고전보이스피싱차단…AI아닌FDS로이상거래실시간...",
+  "신한라이프,보이스피싱신고전차단강화…FDS고도화",
+  "보이스피싱의심,그룹사함께대응…신한라이프,신규탐지시스템운영",
+  "신한라이프,신고전보이스피싱막는다…이상거래잡히면즉시거래제...",
+  "G20혁신장관회의,AI지재권·표준·인재·공급망등6대분야공동원..."
  ],
  "recent_sigs": [
   [
@@ -6401,7 +6401,7 @@
    "SK 삼성 총수들 엔비디아와 동맹 출격 강화 뉴욕"
   ]
  ],
- "last_run": "2026-09-04T09:42:44.641118+09:00",
+ "last_run": "2026-09-04T09:44:36.403219+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
