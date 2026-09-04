@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=406524",
-  "https://www.starnewskorea.com/sports/2026/09/04/2026090409025248875",
-  "https://www.dailian.co.kr/news/view/1686353/?sc=Naver",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=88824",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058445",
   "https://www.edaily.co.kr/News/Read?newsId=02896246645576840&mediaCodeNo=257",
   "https://zdnet.co.kr/view/?no=20260903190811",
   "https://www.yna.co.kr/view/AKR20260904039400008?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://www.etnews.com/20260904000311",
   "https://www.tokenpost.kr/news/ai/402743",
   "https://biz.chosun.com/it-science/ict/2026/09/05/CFREMVI2DNGINPSURUAJNFP7NA/",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225877"
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225877",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=861897",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41756",
+  "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html?partner=naver",
+  "https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html?partner=naver",
+  "https://www.chosun.com/economy/tech_it/2026/09/04/GYV2IPTVGFHPTGAVZAJWELZHDU/"
  ],
  "seen_titles": [
-  "[앵커선도대학을가다/광주여자대학교]교육·현장·지역을잇는인재...",
-  "정용진신세계회장,美국무부'파운드리스쿨'참석…밴스·루비오와...",
-  "[IFA2026]유튜버·인플루언서도가전체험…삼성전자,'크리에이터허...",
-  "[디지털포스트모닝픽]게임하나가SSD값까지…'GTA6'발가격상승오...",
-  "에버스핀,웹보안솔루션한국기술교육대에공급",
   "오픈AI,'GPT-6아스트라'공개…\"AGI시대진입\"",
   "오픈AI,'GPT-6아스트라'출시…에이전트·사이버보안성능강화",
   "'MLB도합144승'거물들의잠실벌대격돌!페덱vs카라스코,4일선발맞...",
@@ -6001,7 +5996,12 @@
   "[미리보는AINEX2026]〈상〉AI시대우주·지상·해저'초연결'네트워크...",
   "10월출하엔비디아AIPC,에이치피가격대기",
   "엔비디아직원99%가젠슨황에게열광하는7가지이유",
-  "구글·메타·테슬라…빅테크는소송중"
+  "구글·메타·테슬라…빅테크는소송중",
+  "[현장]​10년후에도지금처럼책을읽고있을까",
+  "세계최고AI모델'GPT-6아스트라'전격공개...오픈AI,\"AGI전환점에...",
+  "WhytheHuggingFaceHackShouldMakeYouWorryMoreAboutA.I.",
+  "AfterOpenAI’sBotsWentRogue,WatchdogsWereKeptonaShortLeash",
+  "회사서일하던AI,이젠장보고아이일정까지…가정에들어온‘AI집..."
  ],
  "recent_sigs": [
   [
@@ -6097,7 +6097,7 @@
    "빅테크는 소송 테슬라 메타 구글"
   ]
  ],
- "last_run": "2026-09-05T06:02:45.949244+09:00",
+ "last_run": "2026-09-05T06:04:33.904846+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
