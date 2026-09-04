@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112869374",
-  "http://www.osen.co.kr/article/G1112869372",
-  "https://www.joongang.co.kr/article/25458930",
-  "http://www.osen.co.kr/article/G1112869370",
-  "http://www.osen.co.kr/article/G1112869352",
-  "http://www.osen.co.kr/article/G1112869354",
-  "http://www.osen.co.kr/article/G1112869353",
   "http://www.osen.co.kr/article/G1112869351",
   "https://www.xportsnews.com/article/2191844",
   "https://www.xportsnews.com/article/2191843",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12144801",
   "https://it.donga.com/109475/",
   "http://www.newslock.co.kr/news/articleView.html?idxno=135553",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738540&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738540&plink=ORI&cooper=NAVER",
+  "http://www.finomy.com/news/articleView.html?idxno=260850",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723096",
+  "http://www.newstomato.com/ReadNews.aspx?no=1312638&inflow=N",
+  "https://www.ajunews.com/view/20260904140948350",
+  "https://byline.network/?p=9004111222618431",
+  "https://www.kpinews.kr/newsView/1065597556428458",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8655079"
  ],
  "seen_titles": [
-  "'안현민연타석홈런'KT,한화13-11꺾고선두탈환…한화9연패",
-  "우리도‘패패승승승’한다!…DK,천신만고끝에BNK에3-2대역전승,‘...",
-  "[사진]KT,한화상대스윕하며1위탈환",
-  "[사진]이강철감독,1위탈환안현민덕분이야",
-  "[사진]3연승KT,1위탈환",
-  "[사진]9연패한화",
-  "[사진]9연패한화,끝이보이지않는추락",
   "박시원5이닝무실점-오스틴36호홈런…LG,두산전싹쓸이하며4연승",
   "[사진]KT전스윕패한화,9연패의늪",
   "[사진]대타3점홈런박정현,화끈한타격감",
@@ -6001,7 +5994,14 @@
   "신한라이프,피싱차단강화…고도화된예방시스템도입",
   "[위클리크립토]업비트·빗썸,거래편의기능강화外",
   "KAI,AI출자회사6곳과기술교류...무인기·스마트제조협력",
-  "대법'주민번호암호화미흡'으로개인정보위서과태료처분"
+  "대법'주민번호암호화미흡'으로개인정보위서과태료처분",
+  "[GS건설①목동]'목동수주전'윤슬자이·12단지까지투트랙노린다",
+  "[현장]3사3색'모두의AI',10월베타서비스…AI가검색부터결제까지",
+  "네이버이해진,브룩필드회장과회동…'AI팩토리'사업논의",
+  "[박진영의비즈+]마이크론·中까지뛰어든'HBM전쟁'…SK하이닉스50%·...",
+  "레노버,IFA2026서신제품대거공개",
+  "최태원의HBM낙관론,삼성추격에시험대…SK하닉점유율50%로",
+  "젠슨황,네팔대홍수에135억기부하자재무장관한말[이런뉴스]"
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,13 @@
   [
    "2026-09-04T18:06:14.037006+09:00",
    "대법 암호화 처분 개인정보위서 주민번호 미흡 과태료"
+  ],
+  [
+   "2026-09-04T18:08:14.054374+09:00",
+   "기부하자 젠슨 네팔 대홍수에 재무장관 135억"
   ]
  ],
- "last_run": "2026-09-04T18:06:38.675490+09:00",
+ "last_run": "2026-09-04T18:08:37.023113+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
