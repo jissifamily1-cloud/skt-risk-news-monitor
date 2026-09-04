@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fetv.co.kr/news/articleView.html?idxno=309576",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=226054",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5216749",
-  "https://www.asiatime.co.kr/article/20260903500300",
-  "https://www.mt.co.kr/economy/2026/09/03/2026090314415353987",
-  "https://www.mk.co.kr/article/12143357",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=302434",
-  "https://www.socialvalue.kr/news/view/1065590668596746",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=603584",
-  "https://www.techm.kr/news/articleView.html?idxno=154901",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852571",
   "https://www.xportsnews.com/article/2191597",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=852578",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5216773",
@@ -2999,20 +2988,20 @@
   "https://www.joongang.co.kr/article/25459059",
   "https://www.ytn.co.kr/_ln/0104_202609040944521404",
   "https://www.widedaily.com/news/articleView.html?idxno=300599",
-  "http://www.thebigdata.co.kr/view.php?ud=202609040752028163d0a8833aad_23"
+  "http://www.thebigdata.co.kr/view.php?ud=202609040752028163d0a8833aad_23",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16182882",
+  "https://www.newsway.co.kr/news/view?ud=2026090409330414078",
+  "https://www.naeil.com/news/read/601090",
+  "https://www.etoday.co.kr/news/view/2621871",
+  "https://www.socialvalue.kr/news/view/1065572132549914",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252788",
+  "https://www.joongang.co.kr/article/25459060",
+  "https://www.g-enews.com/view.php?ud=2026090409411345199a1f309431_1",
+  "http://www.kdfnews.com/news/articleView.html?idxno=187498",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=727335",
+  "https://www.newspim.com/news/view/20260904000212"
  ],
  "seen_titles": [
-  "네이버클라우드,정부'보안특화AI모델'사업자최종선정…700B급2종...",
-  "NAVER,이틀째약세…장중20만3500원까지밀려",
-  "국채금리급등세진정에美증시반등…2022년폭락장과다른변수는?...",
-  "네이버클라우드,국가보안AI개발나선다…GPU4000장투입",
-  "17년기다린'말의도시'영천…국내4번째렛츠런파크문연다",
-  "‘마이팬캠’담은갤럭시S26FE…4일국내출시",
-  "재생E발전설비모니터링·제어의무대상90kW→20kW로축소",
-  "LG유플러스,다문화가족정보격차해소나선다…건강가정진흥원과MOU",
-  "티빙서3954만개계정정보유출…소스코드포함기술자산361건도피해",
-  "유출된티빙계정총3954만개,개발접속키털렸다...민관합동조사단...",
-  "[시큐리티포커스]오내피플'AI서비스'인증·시큐리티스코어카드'타...",
   "티빙해킹조사결과나왔다…3954만계정정보유출,휴대폰·이메일'...",
   "티빙계정3954만개유출…소스코드361건도털렸다",
   "티빙,약4천만계정털렸다…개발자'접속키'로무단접속",
@@ -6001,7 +5990,18 @@
   "엔비디아,허깅페이스17조원에인수…왜이렇게비싸게샀나",
   "\"AGI시대개막\"...오픈AI,첫'위험등급'아스트라공개",
   "\"기업늑장신고안기다린다\"…정부,내달부터해킹정황시직권조사...",
-  "이재용회장,CEO브랜드평판9월빅데이터분석1위...구광모·최태원..."
+  "이재용회장,CEO브랜드평판9월빅데이터분석1위...구광모·최태원...",
+  "KBO프로야구,3일경기결과→현재팀순위?",
+  "美비둘기파발언에국장온기…삼성전자·하이닉스상승세[특징주]",
+  "티에스이,대구인재찾아300억투자",
+  "AGONbyAOC,게이밍모니터‘AGP327KG’공개",
+  "SKT,폐IT기기되살려취약계층아동지원…‘리파인데이’시행",
+  "SK텔레콤,'자원순환의날'앞두고사내E-Waste캠페인'리파인데이'시...",
+  "엔비디아,허깅페이스17조원에인수…왜이렇게비싸게샀나[GMC]",
+  "오픈AI,GPT-6아스트라공개…“앤스로픽다시넘었다”",
+  "서울우유,AI브랜드지수우유부문1위…종합57.6점",
+  "eSIM에1위뺏긴통신사로밍…'여행서비스'로반격",
+  "[AIMY뉴스]4일중국증시'美증시훈풍영향속,성장주선별적장세..."
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,17 @@
   [
    "2026-09-04T09:42:14.828721+09:00",
    "SK 삼성 총수들 엔비디아와 동맹 출격 강화 뉴욕"
+  ],
+  [
+   "2026-09-04T09:52:15.629722+09:00",
+   "뺏긴 로밍 eSIM에 1위 여행 반격 서비스"
+  ],
+  [
+   "2026-09-04T09:52:15.629722+09:00",
+   "선별적 증시 성장주 4일 장세 영향 훈풍 중국증시"
   ]
  ],
- "last_run": "2026-09-04T09:50:36.496632+09:00",
+ "last_run": "2026-09-04T09:52:40.900234+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
