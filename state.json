@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20086938",
-  "https://www.econovill.com/news/articleView.html?idxno=749823",
-  "https://www.hankyung.com/article/2026090328151",
-  "https://www.aitimes.com/news/articleView.html?idxno=214805",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1067416",
-  "https://www.sentv.co.kr/article/view/sentv202609030099",
-  "https://www.sedaily.com/article/20086943",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260904010001569",
-  "https://www.mk.co.kr/article/12143720",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84271",
   "https://www.the-today.com/news/articleView.html?idxno=89428",
   "https://www.gukjenews.com/news/articleView.html?idxno=3684123",
   "https://www.gukjenews.com/news/articleView.html?idxno=3684116",
@@ -2999,19 +2989,19 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=406544",
   "https://www.banronbodo.com/news/articleView.html?idxno=32956",
   "https://www.epnc.co.kr/news/articleView.html?idxno=406538",
-  "https://www.ajunews.com/view/20260904135412292"
+  "https://www.ajunews.com/view/20260904135412292",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433502",
+  "https://www.maniareport.com/view.php?ud=2026090413254653396cf2d78c68_19",
+  "https://sports.khan.co.kr/article/202609041400003?pt=nv",
+  "https://zdnet.co.kr/view/?no=20260904135916",
+  "https://www.the-pr.co.kr/news/articleView.html?idxno=62529",
+  "https://news.mtn.co.kr/news-detail/2026090409292046310",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466812",
+  "https://www.tjb.co.kr/news05/bodo/view/id/103216",
+  "https://www.betanews.net/article/view/beta202609030025",
+  "https://www.news1.kr/local/daegu-gyeongbuk/6280198"
  ],
  "seen_titles": [
-  "티빙,‘고객보상계획’발표…정보보호투자도4배확대",
-  "\"유출책임통감\"…티빙,쿠팡과다른대국민사과\"보안투자4배확대...",
-  "LS일렉트릭·KT클라우드'인프라동맹'....데이터센터대형·고전력화대...",
-  "“美AI인프라에1조弗투자”…데이터센터확대힘실은젠슨황",
-  "\"연기금,신흥국·대체자산분산투자확대를\"",
-  "AI매출폭증에도…시장눈높이못미친브로드컴[마켓무버]",
-  "삼성전자엑시노스2700,'실사용숙제'속탑재비율늘려갈까",
-  "브로드컴,칩훈풍에도구글이탈우려에하락",
-  "[게시판]마인드로직,고교생대상챗GPT·제미나이무상제공등단신",
-  "SK이노울산CLX,WAVE2026서제조AI'듀얼브레인'공개",
   "네이버,SK텔레콤제쳤다…정부‘사이버보안AI’개발",
   "中물량공세에美·日은투자유치총력…“호남팹후순위밀릴판”",
   "SK하닉,日생산거점검토…美관세압박속글로벌확장고심",
@@ -6001,7 +5991,17 @@
   "정부,'모두의AI'연내출시속도…SKT·카카오·KT개발계획공개",
   "[축제찾는기업들上]국내행사현장나선기업들…전시·축제·통신...",
   "엔비디아,IFA2026서'로컬AI'생태계확장…'RTX스파크·페어'공개",
-  "대법,법원구성원주민번호암호화않고저장…개보위과태료처분"
+  "대법,법원구성원주민번호암호화않고저장…개보위과태료처분",
+  "AI가병원전화하고카톡서민원·결제까지…'모두의AI'연내출격(종합...",
+  "'39호뒤야속한우천취소'김도영최연소40홈런,사흘3경기만남았다",
+  "AG까지불펜전환→첫불펜등판한KT오원석“오랜만에불펜고충을느...",
+  "AI시대보안리스크는?...프라이빗AI,'테크서밋'개최",
+  "'보여주는집'에서'경험하는집'으로…GS건설목동윤슬자이견본주택...",
+  "정보싹털렸는데…'보상도티빙에서'실효있을까[엔터코노미]",
+  "\"질문만답하는AI는끝\"···카카오·SKT·KT,민원·예약·결제까지대...",
+  "\"단순묻고답하기는끝났다\"…SKT·카카오·KT,일상파고드는'실행형...",
+  "KTY10주년,유튜브와공동캠페인전개…\"최애와함께주인공이된다...",
+  "지문인증없이사용자확인…포스텍연구팀,해킹차단기술개발"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,21 @@
   [
    "2026-09-04T14:02:17.951509+09:00",
    "나선 기업들 통신 행사 전시 현장 축제 국내"
+  ],
+  [
+   "2026-09-04T14:06:14.546095+09:00",
+   "단순 실행형 ~SKT 답하기는 일상 ~KT 카카오 묻고 끝났다 파고드는"
+  ],
+  [
+   "2026-09-04T14:06:14.546095+09:00",
+   "10주년 주인공이 공동 함께 된다 ~KT 유튜브와 캠페인 전개 최애와"
+  ],
+  [
+   "2026-09-04T14:06:14.546095+09:00",
+   "포스텍 인증 지문 연구팀 기술 차단 개발 없이 사용자 확인"
   ]
  ],
- "last_run": "2026-09-04T14:04:30.653925+09:00",
+ "last_run": "2026-09-04T14:06:37.907151+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
