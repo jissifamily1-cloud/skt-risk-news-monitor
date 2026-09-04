@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083127",
-  "https://www.the-today.com/news/articleView.html?idxno=89427",
-  "https://www.dongascience.com/news/view/79759",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698049",
-  "https://www.livebiz.today/news/articleView.html?idxno=204606",
-  "http://www.4th.kr/news/articleView.html?idxno=2117450",
-  "https://www.dailian.co.kr/news/view/1686211/?sc=Naver",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=60563",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=714630",
-  "https://www.bloter.net/news/articleView.html?idxno=672663",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7182372",
   "https://www.yna.co.kr/view/AKR20260903106051017?input=1195m",
   "https://www.mk.co.kr/article/12143688",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/local/daegu-gyeongbuk/6280198",
   "https://www.iusm.co.kr/news/articleView.html?idxno=1067416",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=727362",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=170962"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=170962",
+  "https://www.mydaily.co.kr/page/view/2026090408350367035",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=663846",
+  "https://it.donga.com/109470/",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=44625",
+  "https://biz.chosun.com/international/international_general/2026/09/04/47KYS5GJMFCNNNOCJIXQCCWWSE/",
+  "https://www.etnews.com/20260904000231",
+  "https://www.ajunews.com/view/20260904135442293",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266427",
+  "https://news.bizwatch.co.kr/article/mobile/2026/09/04/0003",
+  "https://www.donga.com/news/Economy/article/all/20260904/134605836/1"
  ],
  "seen_titles": [
-  "보안특화AI모델개발…네이버클라우드선정",
-  "네이버클라우드컨소시엄,정부'사이버보안AI'모델개발사업최종...",
-  "'바이트'넘어'토큰'으로…中AI·데이터시장새가치기준부상",
-  "추경호대구광역시장,'대구시민생활체육대축전'5~6일개최...5500명참...",
-  "대구광역시,지역응급의료센터3곳지정...3년간응급진료맡는다",
-  "풍경너머숨은서사…경북이야기여행지8선",
-  "AI'통제이탈'논란속…中오픈웨이트모델존재감부상",
-  "[사이언스게시판]NST,딥테크기획창업투자·사업화위한'2026ITX'개최...",
-  "핀산협·XRPL코리아,디지털자산사업화지원협력…PoC·글로벌연계추...",
-  "AI토큰가격사상최저수준으로...100만토큰당1달러아래로",
   "해외매출90%에이피알…성장속도못따라간'가품관리'",
   "애경케미칼,AI로업무·R&D·생산혁신…전사AX전환속도",
   "하반기모바일게임판흔들신작4종,뭐가다른가",
@@ -6001,7 +5991,17 @@
   "지문인증없이사용자확인…포스텍연구팀,해킹차단기술개발",
   "SK이노울산CLX,WAVE2026서제조AI'듀얼브레인'공개",
   "'턱밑추격'삼성HBM점유율33%…하이닉스독주흔들",
-  "美윌러발언'훈풍'...일본증시'장중활짝',키옥시아'껑충'"
+  "美윌러발언'훈풍'...일본증시'장중활짝',키옥시아'껑충'",
+  "SKT영업익22%늘었는데현금은덜벌었다…영업현금흐름14%↓왜?",
+  "카카오컨소시엄,LG손잡고'모두의AI'구축",
+  "김철우더벤처스대표“창업,거룩하게생각하지말고일단도전하라”",
+  "89년신뢰축적한서울우유,AI브랜드경쟁력지수'1위'등극",
+  "中바이트댄스,40조빚낸다…AI투자‘쩐의전쟁’",
+  "“마통만20조”…IPO앞둔앤트로픽,스페이스X넘본다",
+  "SKT·KT·카카오'모두의AI'출격…국산AI생태계키운다(종합)",
+  "'모두의AI'개발착수…SKT·카카오·KT'챗봇·실행형AI'청사진공개",
+  "배경훈부총리\"모두의AI,외산AI와차별점둬야\"",
+  "오픈AI,GPT-6아스트라공개…“AGI시대열렸다”"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-09-04T14:06:14.546095+09:00",
    "포스텍 인증 지문 연구팀 기술 차단 개발 없이 사용자 확인"
+  ],
+  [
+   "2026-09-04T14:12:14.268944+09:00",
+   "공개 열렸다 GPT AGI 시대 아스트라"
   ]
  ],
- "last_run": "2026-09-04T14:10:44.371954+09:00",
+ "last_run": "2026-09-04T14:12:33.113564+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
