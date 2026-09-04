@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026082154801",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260821174834Gbh",
-  "https://www.mk.co.kr/article/12133454",
-  "https://www.mk.co.kr/article/12133436",
-  "https://www.newsis.com/view/NISX20260821_0003758081",
-  "https://www.newsis.com/view/NISX20260821_0003758079",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546347",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8642904",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225146",
-  "https://www.seoul.co.kr/news/economy/IT/2026/09/04/20260904030001?wlog_tag3=naver",
-  "https://www.donga.com/news/Society/article/all/20260903/134593519/2",
   "https://www.mt.co.kr/tech/2026/09/04/2026090313302443594",
   "https://www.cbci.co.kr/news/articleView.html?idxno=603637",
   "https://www.mydaily.co.kr/page/view/2026090401251479040",
@@ -2999,20 +2988,20 @@
   "https://www.mydaily.co.kr/page/view/2026090416463902303",
   "https://www.newstnt.com/news/articleView.html?idxno=716772",
   "https://biz.heraldcorp.com/article/10863187",
-  "https://www.kyeongin.com/article/1770252"
+  "https://www.kyeongin.com/article/1770252",
+  "http://www.kdfnews.com/news/articleView.html?idxno=187565",
+  "http://www.dailypop.kr/news/articleView.html?idxno=102255",
+  "https://zdnet.co.kr/view/?no=20260904171818",
+  "https://www.the-today.com/news/articleView.html?idxno=89498",
+  "https://www.the-today.com/news/articleView.html?idxno=89495",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3685216",
+  "https://srn.hcn.co.kr/user/news/BD_newsView.do?news_category=03&story_id=NS2026090300034&story_seq=0&soCode=114&socttSn=NS2026090300034&socttSeq=0",
+  "https://www.mk.co.kr/article/12144744",
+  "https://www.yonhapmidas.com/news/articleView.html?idxno=10592",
+  "https://dealsite.co.kr/articles/168439",
+  "https://economist.co.kr/article/view/ecn202609040045"
  ],
  "seen_titles": [
-  "이혼소송이들춰낸'비자금'…'노태우일가'수사시작됐다",
-  "최태원·노소영이혼이소환한‘노태우비자금’",
-  "[연합뉴스이시각헤드라인]-18:00",
-  "최태원-노소영이혼이불러온나비효과...'노태우비자금'국고환수되...",
-  "노태우비자금의혹…檢,김옥숙여사자택압수수색",
-  "이혼소송나비효과…檢'노태우비자금'캔다",
-  "[앵커리포트]'노태우비자금'베일벗나…검찰,강제수사나서",
-  "檢,'노태우비자금'김옥숙자택압수수색",
-  "세기의이혼이소환했다…'노태우비자금'",
-  "검찰,'노태우비자금의혹'압수수색…\"피의자에노소영없어\"(종합)",
-  "\"시내버스노선개편에고사위기,광주마을버스지원하라\"",
   "檢‘노태우비자금의혹’압수수색…“노소영은피의자포함안돼”",
   "[단독]‘노태우비자금의혹’연희동자택등압수수색…‘904억김옥...",
   "검찰,'노태우비자금300억'추적본격화",
@@ -6001,7 +5990,18 @@
   "“KT무섭더라,공격력도좋고고참들이…”KIA꽃범호의1위마법사군...",
   "끝까지모르는2026KBO…우승부터신인2순위까지경쟁",
   "[단독]“미토스허용해달라”韓요청에도美백악관‘묵묵부답’…...",
-  "ktwiz우규민,우완최초900경기출전금자탑…남은건우승반지"
+  "ktwiz우규민,우완최초900경기출전금자탑…남은건우승반지",
+  "카카오-LG,'모두의AI'구축…2027년이용자1000만명목표",
+  "[줌인]구광모의'AI승부수',속도낸다…LG,'SPARK2026'서미래기술...",
+  "현대차\"새만금에로봇부품사유치…특구지정으로실증까지\"",
+  "'단짠단짠'中윈난성햄월병,중추절맞아생산박차",
+  "中1~7월서비스수출입총액900조원육박...전년比8.3%증가",
+  "대전동구,개학기학교주변먹거리안전살핀다…103곳집중점검",
+  "상주박물관,제19기전통문화대학운영",
+  "9월은투자하기잔인한달?…브로드컴‘엄살’속에감춰진증시반등...",
+  "AI기업들,사적인대화까지사들여",
+  "[이주의모빌리티]현대차그룹,오만과비전2040탄소중립전환협력外",
+  "서울우유,생성형AI선택받았다"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,13 @@
   [
    "2026-09-04T17:42:15.398060+09:00",
    "우완 우규민 남은건 금자탑 우승반지 wiz 900경기 ~KT 출전"
+  ],
+  [
+   "2026-09-04T17:44:17.046638+09:00",
+   "생성형 서울우유 받았다 선택"
   ]
  ],
- "last_run": "2026-09-04T17:42:33.443281+09:00",
+ "last_run": "2026-09-04T17:44:39.103224+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
