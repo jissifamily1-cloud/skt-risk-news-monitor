@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbmaeil.com/article/20260821500206",
-  "https://www.ytn.co.kr/_ln/0103_202608211955365075",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6846435_37004.html",
-  "https://www.hani.co.kr/arti/society/society_general/1274104.html",
-  "https://news.jtbc.co.kr/article/NB12314503?influxDiv=NAVER",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=357769",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000546368",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5214015",
@@ -2999,14 +2994,14 @@
   "https://www.mt.co.kr/industry/2026/09/04/2026090320545129328",
   "http://www.thebigdata.co.kr/view.php?ud=2026090417273368030a47484cf8_23",
   "https://www.hellot.net/news/article.html?no=114781",
-  "https://newscham.net/articles/117158"
+  "https://newscham.net/articles/117158",
+  "https://www.mt.co.kr/tech/2026/09/04/2026090417230457802",
+  "http://www.kdfnews.com/news/articleView.html?idxno=187564",
+  "https://www.mydaily.co.kr/page/view/2026090417291982437",
+  "https://www.seoultimes.news/news/article.html?no=2000099541",
+  "https://www.aitimes.kr/news/articleView.html?idxno=41768"
  ],
  "seen_titles": [
-  "검찰,'노태우비자금'첫강제수사...김옥숙자택포함",
-  "'노태우비자금의혹'첫강제수사...김옥숙자택도포함",
-  "檢,'노태우비자금의혹'압수수색…'세기의이혼'여파",
-  "[단독]‘노태우비자금’압수수색…장남재단‘세탁통로’의심",
-  "부메랑된'300억'메모…이혼이소환한'비자금'",
   "‘300억비자금’30년미스터리,검찰수사로풀리나",
   "'노태우비자금'강제수사착수...실제환수가능할까?[뉴스퀘어8PM]",
   "무성했던추가비자금의혹‥강제환수길열리나",
@@ -6001,7 +5996,12 @@
   "서니티,개인화스포츠커뮤니티'서니티투데이'베타오픈",
   "LG유플러스,AI‘각자도생’대신계열사·외부사협업승부",
   "오픈AI,차세대프론티어모델'GPT-6아스트라'공개...프론티어AI새...",
-  "호르무즈파병검토,비극의역사반복되나"
+  "호르무즈파병검토,비극의역사반복되나",
+  "이해진찾은브룩필드회장…1GW급AI팩토리파트너십강화",
+  "'최대90억달러투자'브룩필드회장,네이버이해진의장만나AI팩토...",
+  "이해진네이버의장,브룩필드회장과회동…1GWAI팩토리후속논의",
+  "SKT,폐스마트폰·노트북수거해재활용…취약계층아동지원",
+  "사이버링크,포토디렉터365'AIPC모드'공개…엔비디아RTX스파크서..."
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-09-04T17:34:14.226112+09:00",
    "파병 역사 비극의 호르무즈 반복되나 검토"
+  ],
+  [
+   "2026-09-04T17:38:16.795605+09:00",
+   "PC 포토디렉터 스파크서 사이버링크 공개 RTX 모드"
   ]
  ],
- "last_run": "2026-09-04T17:36:31.482260+09:00",
+ "last_run": "2026-09-04T17:38:38.062405+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
