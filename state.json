@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260904_0003777164",
-  "https://www.mt.co.kr/tech/2026/09/04/2026090417441576215",
-  "https://www.hankyung.com/article/2026090451441",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=85545",
   "https://www.sedaily.com/article/20087360",
   "https://news.dealsitetv.com/articles/175653",
   "https://www.polinews.co.kr/news/articleView.html?idxno=742227",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20260904_0003776323",
   "https://shindonga.donga.com/3/all/13/6373639/1",
   "http://www.inews24.com/view/2000692",
-  "https://www.news1.kr/it-science/game-review/6280473"
+  "https://www.news1.kr/it-science/game-review/6280473",
+  "https://www.maniareport.com/view.php?ud=202609060116331634dad9f33a29_19",
+  "http://www.osen.co.kr/article/G1112870585",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698524",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698525"
  ],
  "seen_titles": [
-  "[IT소식]오픈AI,차세대모델'GPT-6아스트라'공개등",
-  "아시안게임중계,같은경기반복줄인다…비인기·e스포츠도적극편성...",
-  "방미통위\"2026아시안게임,인기종목집중중계그만\"…보편적시청권...",
-  "[책마을]룰을만드는워싱턴로비스트",
   "한국AI·로봇산업협회,서남권AI·로봇기업간담회개최…기술개발·실...",
   "로비의승패를가르는‘접근성’[북스&]",
   "[IT투데이]카카오,'카카오테크캠퍼스아이디어톤'개최外",
@@ -6001,7 +5997,11 @@
   "美CPI에쏠리는시선…코스피,7000선회복시험대[주간증시전망]",
   "한규범대표“반도체공세,아직끝났다고보기일러”",
   "\"로봇한대팔려는게아니다\"…로보티즈가노리는'휴머노이드표준'",
-  "AI에밀린클라우드게임…MS'무제한'없애고아마존도축소"
+  "AI에밀린클라우드게임…MS'무제한'없애고아마존도축소",
+  "'양현종시즌10승·나성범투런홈런'KIA,kt에6-3승리...이틀연속...",
+  "2차드래프트→팔꿈치수술→어깨부상…우완파이어볼러,4경기연속E...",
+  "AI發위협확산속CISO몸값치솟는다",
+  "클라우드플레어,오픈AI사이버보안모델로코드취약점탐지·차단"
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-09-06T07:08:13.387278+09:00",
    "개인정보 5년 과징금 입금은 110배 국고 6년"
+  ],
+  [
+   "2026-09-06T07:18:15.182041+09:00",
+   "모델로 탐지 취약점 차단 코드 사이버 클라우드플레어 보안"
   ]
  ],
- "last_run": "2026-09-06T07:16:33.347622+09:00",
+ "last_run": "2026-09-06T07:18:36.510166+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
