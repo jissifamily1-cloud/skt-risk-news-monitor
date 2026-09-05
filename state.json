@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433447",
-  "https://www.smarttoday.co.kr/ko-kr/articles/111179",
   "https://www.ppss.kr/news/articleView.html?idxno=308810",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575438343287",
   "https://news.tvchosun.com/site/data/html_dir/2026/09/04/2026090490083.html",
@@ -2999,11 +2997,11 @@
   "https://www.laborplus.co.kr/news/articleView.html?idxno=41431",
   "https://www.econovill.com/news/articleView.html?idxno=749782",
   "https://www.edaily.co.kr/News/Read?newsId=01977846645577168&mediaCodeNo=257",
-  "http://www.newsprime.co.kr/news/article.html?no=746607"
+  "http://www.newsprime.co.kr/news/article.html?no=746607",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=663915",
+  "https://biz.sbs.co.kr/article_hub/20000332941?division=NAVER"
  ],
  "seen_titles": [
-  "(데스크시선)반도체클러스터와LNG",
-  "삼성,HBM점유율33%로껑충…'메모리4파전'불붙었다",
   "AGONbyAOC,세계최초5KG-SYNCPulsar게이밍모니터‘AGP327KG’공개",
   "챗GPT·클로드·그록,새벽한때동시'먹통'…현재정상작동",
   "LG,글로벌빅테크·AI미래인재와'AI축제'연다…'LG스파크2026'개최",
@@ -6001,7 +5999,9 @@
   "[위클립]9월1주",
   "SK이노베이션울산CLX,WAVE2026서'제조AI'미래선보인다",
   "사직에서다시기리는최동원…롯데,11일15주기추모행사",
-  "[해외시황]뉴욕증시,美고용호조에'일제히하락'…나스닥0.29%↓"
+  "[해외시황]뉴욕증시,美고용호조에'일제히하락'…나스닥0.29%↓",
+  "[기획]통신3사,AIDC수조원대투자",
+  "앤트로픽,11월美중간선거직전상장전망"
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,13 @@
   [
    "2026-09-05T11:18:14.968922+09:00",
    "9월 1주"
+  ],
+  [
+   "2026-09-05T11:24:12.532863+09:00",
+   "AIDC 투자 통신3사 수조원대"
   ]
  ],
- "last_run": "2026-09-05T11:22:36.575020+09:00",
+ "last_run": "2026-09-05T11:24:36.329981+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
