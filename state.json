@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=187503",
-  "http://www.newsdream.kr/news/articleView.html?idxno=117506",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3684600",
-  "https://www.ajunews.com/view/20260904094613736",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697647",
-  "https://www.etoday.co.kr/news/view/2621598",
-  "https://news.mtn.co.kr/news-detail/2026090409404676985",
-  "https://view.asiae.co.kr/article/2026090408452992496",
-  "https://idsn.co.kr/news/view/1065593343786767",
-  "https://www.yna.co.kr/view/AKR20260904052000009?input=1195m",
   "https://news.bizwatch.co.kr/article/consumer/2026/09/04/0007",
   "https://zdnet.co.kr/view/?no=20260903173149",
   "https://www.peoplewatch.co.kr/article/view/ppw202609040002",
@@ -2999,19 +2989,19 @@
   "https://www.kukinews.com/article/view/kuk202609030233",
   "https://www.hankookilbo.com/news/article/A2026090111170004370?did=NA",
   "https://zdnet.co.kr/view/?no=20260904092845",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852634"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=852634",
+  "https://www.ajunews.com/view/20260904144626463",
+  "https://www.mt.co.kr/tech/2026/09/05/2026090418390136964",
+  "https://www.mt.co.kr/stock/2026/09/05/2026090423185916616",
+  "https://www.joongang.co.kr/article/25459328",
+  "https://www.slist.kr/news/articleView.html?idxno=763831",
+  "https://www.thepublic.kr/news/articleView.html?idxno=317668",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=88863",
+  "https://www.thepublic.kr/news/articleView.html?idxno=317638",
+  "https://www.thepublic.kr/news/articleView.html?idxno=317693",
+  "https://www.hankyung.com/article/202609044647i"
  ],
  "seen_titles": [
-  "LG그룹,AI혁신가속화…'LG스파크2026'개최",
-  "LG,마곡서‘LG스파크2026’개최…AI혁신성과총집결",
-  "[통신3사AI경량화]LGU+,AI줄여스마트폰으로…익시오승부",
-  "LG,글로벌빅테크·AI미래인재와'AI축제'연다",
-  "삼성·SK·현대차등10대그룹“청년채용확대”",
-  "LG,AI기술·현업혁신한자리에…'AX성과'전면에",
-  "신한라이프,보이스피싱FDS고도화…신고전이상거래탐지",
-  "신한라이프,\"보이스피싱선제차단\"고도화FDS가동…고객자산보호...",
-  "한글문화공연으로골목상권살린다…세종서17회거리공연",
-  "신고전보이스피싱잡는다…신한라이프,이상거래탐지고도화",
   "샘알트먼\"챗GPT질문수천번보다아몬드1개가물더많이쓴다\"",
   "“개인정보유출아냐”vs“판매까지”…카카오151억과징금2심시작",
   "SKT·카카오·KT'모두의AI'공개…각사전략은",
@@ -6001,7 +5991,17 @@
   "개인정보위,내년예산996억원‘역대최대’…정보유출소송대응2배...",
   "\"인간의양심으론도저히사용할수없는무기\"...지금러시아가실험...",
   "개보위내년신규사업3선...\"사전예방체계구축\"",
-  "[월드IT뷰]엔비디아,허깅페이스129억달러에인수…\"개방형플랫폼유..."
+  "[월드IT뷰]엔비디아,허깅페이스129억달러에인수…\"개방형플랫폼유...",
+  "iM금융,피움랩8기IR데이개최…14개스타트업투자연계",
+  "카카오vs네이버…월4900원멤버십대전에,혜택기대감↑",
+  "24시간365일생산되는무탄소전기…구글도반한스몰캡종목",
+  "LG전자“카톡으로집과대화”…IFA서밝힌AI전략은[IFA2026]",
+  "앤트로픽IPO,11월미국중간선거직전완료전망",
+  "中저가AI공습에'1달러벽'깨졌다…토큰값석달사이53%폭락",
+  "네이버·브룩필드,1GW급AI팩토리사업협력확대…글로벌AI인프라...",
+  "범용D램쫓아오는CXMT…삼성·SK,HBM4로중국추격따돌릴까",
+  "정용진,밴스초청으로美'AI공급망'행사참석…신세계존재감키웠...",
+  "엔비디아빅딜,오픈AI아스트라...고래싸움에반도체가웃었다[빈난새..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,13 @@
   [
    "2026-09-05T09:54:15.557349+09:00",
    "LG유플러스 나선다 ~LGU 역량 강화 1인 9월 가구 다문화가족"
+  ],
+  [
+   "2026-09-05T10:06:15.607162+09:00",
+   "아스트라 빈난새 반도체가 웃었다 빅딜 고래싸움에"
   ]
  ],
- "last_run": "2026-09-05T10:04:35.542890+09:00",
+ "last_run": "2026-09-05T10:06:33.228379+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
