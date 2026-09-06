@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=300211",
-  "https://www.techm.kr/news/articleView.html?idxno=154882",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=252745",
-  "https://www.inthenews.co.kr/news/article.html?no=91351",
   "https://www.aitimes.kr/news/articleView.html?idxno=41727",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=48639",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=88753",
@@ -2999,13 +2995,13 @@
   "https://biz.sbs.co.kr/article_hub/20000333013?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000333014?division=NAVER",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52655",
-  "https://www.betanews.net/article/view/beta202609070001"
+  "https://www.betanews.net/article/view/beta202609070001",
+  "https://www.starnewskorea.com/sports/2026/09/07/2026090512280528899",
+  "https://www.seoul.co.kr/news/sport/baseball/2026/09/07/20260907500003?wlog_tag3=naver",
+  "https://www.starnewskorea.com/sports/2026/09/07/2026090701525063237",
+  "https://www.yna.co.kr/view/AKR20260907007900091?input=1195m"
  ],
  "seen_titles": [
-  "과기부“모두의AI연내출시”…이통3사와협력방안논의",
-  "SK텔레콤,'자원순환의날'앞두고사내E-Waste캠페인'리파인데이'시...",
-  "[더벨]정재헌SKT대표\"AIDC5GW구축에최대500조\"",
-  "SKT,수능D-77맞아'수능응원백서'캠페인펼친다",
   "정재헌SKTCEO\"AI시대,통찰·공감갖춰야\"…기술넘어사람에초점",
   "[통신레이더]LG유플러스,가족센터244곳AI교육확대·제천음악영화...",
   "'수험생응원백서'캠페인…SK텔레콤,온라인프로그램3종선보여",
@@ -6001,7 +5997,11 @@
   "[마켓브리핑]강한경제지표,증시에악재작용…국채금리상승",
   "[서학개미브리핑]서학개미,글로벌국채금리상승세에초단기美국채...",
   "과기부,모두의AI사업착수간담회가져",
-  "클로드페이블5.1vsGPT-6아스트라…AI경쟁,‘지능’에서‘디지털..."
+  "클로드페이블5.1vsGPT-6아스트라…AI경쟁,‘지능’에서‘디지털...",
+  "불가능해보였던대투수'3003이닝'...\"이닝줄여보자\"사령탑조언받...",
+  "김도영거르고카스트로?KT에재앙됐다…4안타6타점공포의원맨쇼",
+  "후라도솔직고백\"2달공백마음고생컸지만...버텨준팀원에감사→...",
+  "오픈AI최고과학자\"AI속도조절해야\"…자사보고서와엇박자"
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,13 @@
   [
    "2026-09-07T07:28:17.367426+09:00",
    "vs 경쟁 아스트라 GPT 에서 페이블 디지털 클로드 지능"
+  ],
+  [
+   "2026-09-07T07:30:25.318930+09:00",
+   "엇박자 해야 최고과학자 속도조절 자사 보고서와"
   ]
  ],
- "last_run": "2026-09-07T07:28:34.945052+09:00",
+ "last_run": "2026-09-07T07:30:49.574710+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
