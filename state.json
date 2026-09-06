@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260904001066",
-  "http://www.stoo.com/article.php?aid=108720696507",
-  "https://www.newsis.com/view/NISX20260904_0003777221",
-  "https://www.sportsworldi.com/newsView/20260904514905",
-  "https://www.newsis.com/view/NISX20260904_0003777328",
-  "http://www.osen.co.kr/article/G1112870198",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553515001",
-  "https://www.hani.co.kr/arti/sports/baseball/1276348.html",
-  "https://www.yna.co.kr/view/AKR20260904179700007?input=1195m",
-  "http://www.inews24.com/view/1997684",
   "https://www.newspim.com/news/view/20260824000818",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=87771",
   "https://www.yna.co.kr/view/PYH20260824107900013?input=1196m",
@@ -2999,19 +2989,19 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008739970&plink=ORI&cooper=NAVER",
   "http://www.metroseoul.co.kr/article/20260906500236",
   "https://www.wikitree.co.kr/articles/1157593",
-  "https://www.seoultimes.news/news/article.html?no=2000099556"
+  "https://www.seoultimes.news/news/article.html?no=2000099556",
+  "https://www.nocutnews.co.kr/news/6573711",
+  "https://www.starnewskorea.com/sports/2026/09/06/2026090616163219035",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=126707",
+  "https://www.sportschosun.com/baseball/2026-09-06/202609060100041090002659",
+  "http://www.osen.co.kr/article/G1112871032",
+  "https://news.mtn.co.kr/news-detail/2026090417384553609",
+  "https://biz.chosun.com/it-science/ict/2026/09/06/I75IOXXGMJC2RNP7TZ77PSPNGQ/",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156824",
+  "https://www.pressian.com/pages/articles/2026090614323939848",
+  "https://www.mk.co.kr/article/12145415"
  ],
  "seen_titles": [
-  "'끝내기영웅'KIA백업요원의절절한고백→\"도태되는느낌도있었다...",
-  "변우혁,연장10회끝내기희생플라이...KIA,선두KT울렸다",
-  "[AI상보]'올러선발전원탈삼진'KIA,KT4-3연장10회끝내기승리",
-  "'변우혁끝내기'KIA,연장접전끝에KT격파",
-  "[KBO내일의선발투수]9월5일(토)",
-  "뒤집고,따라붙고,변우혁이끝냈다…호랑이가웃은연장혈투",
-  "'고우석1081일만세이브'LG,삼성꺾고5연승…한화9연패탈출(종합)",
-  "[사진]변우혁,'끝내기희생플라이환호'",
-  "'T1나와!'DK,kt격파하고월즈행마지막티켓확보…LCK우승타이틀...",
-  "‘최고구속154㎞’고우석,복귀전서1이닝세이브…LG,삼성꺾고5연...",
   "KIA,1위kt상대로연장끝내기승리…변우혁끝내기희생타(종합)",
   "영화관개봉작,OTT는5개월뒤에?…\"소비자선택권보장돼야\"[현장]",
   "영화개봉150일뒤OTT공개?…시민단체\"소비자선택권제한\"",
@@ -6001,7 +5991,17 @@
   "\"대학생과제대신써주다가…\"AI에일자리잃게된뜻밖의사람들,고...",
   "삼성·SKHBM4경쟁치열한데…마이크론추격에中도가세",
   "티빙유출사고보상신청7일시작…4000만계정피해어떻게갚나",
-  "KT,불꽃축제서5G안전망가동…CCTV25대실시간관제"
+  "KT,불꽃축제서5G안전망가동…CCTV25대실시간관제",
+  "'구속되찾은'좌승현선발고민,후라도100구예고까지…박진만감독...",
+  "울산웨일즈,13일KT전서2026시즌홈피날레→'파격1000원티켓'팬감...",
+  "'평가전마무리'니콜라스마줄스감독\"훈련하면서아쉬운부분극복할...",
+  "이강철감독,송진우보다양현종을왜더높이평가했나→\"우리땐구...",
+  "3연승후스윕패NO!5타수무안타→5타수무안타김현수5번이동,김민...",
+  "네이버이해진,브룩필드회장회동…GW급AI팩토리협력논의",
+  "오픈AIAI에이전트,독일위키서1만5000건무단편집논란",
+  "[투데이시그널]OpenAI에두개의추적표가붙었다,AI의활동기록과...",
+  "[기고]작가의시선",
+  "모의해킹경고도묵살…티빙4000만계정유출은'人災'[사설]"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,21 @@
   [
    "2026-09-06T16:12:13.031119+09:00",
    "관제 안전망 25대 실시간 ~KT 가동 CCTV 불꽃축제서 5G"
+  ],
+  [
+   "2026-09-06T16:22:15.010753+09:00",
+   "개의 추적표가 활동 기록과 붙었다 AI의 OpenAI에"
+  ],
+  [
+   "2026-09-06T16:22:15.010753+09:00",
+   "작가의 시선"
+  ],
+  [
+   "2026-09-06T16:22:15.010753+09:00",
+   "4000만 묵살 계정 티빙 유출은 경고도 모의해킹"
   ]
  ],
- "last_run": "2026-09-06T16:20:39.978710+09:00",
+ "last_run": "2026-09-06T16:22:40.769509+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
