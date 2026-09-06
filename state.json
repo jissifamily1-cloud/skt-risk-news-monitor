@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000009200&cp=nv",
-  "http://www.dailyesports.com/view.php?ud=20260904204628857174bcc1e038_27",
-  "https://www.sportschosun.com/baseball/2026-09-04/202609040100032660002052",
-  "https://www.sportschosun.com/baseball/2026-09-04/202609040100032650002051",
-  "http://www.dailyesports.com/view.php?ud=20260904204337564474bcc1e038_27",
-  "https://www.goodkyung.com/news/articleView.html?idxno=291031",
-  "https://www.dailian.co.kr/news/view/1686720/?sc=Naver",
-  "https://www.sedaily.com/article/20087445",
   "https://www.yna.co.kr/view/AKR20260904173500009?input=1195m",
   "https://www.tokenpost.kr/news/blockchain/402488",
   "http://www.yonhapnewstv.co.kr/news/AKR2026090421085955A",
@@ -2999,17 +2991,17 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1410182",
   "https://www.m-i.kr/news/articleView.html?idxno=1410173",
   "https://www.etnews.com/20260904000211",
-  "https://www.m-i.kr/news/articleView.html?idxno=1410079"
+  "https://www.m-i.kr/news/articleView.html?idxno=1410079",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=852751",
+  "https://www.insight.co.kr/news/572102",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433618",
+  "https://www.mydaily.co.kr/page/view/2026090521061745079",
+  "https://www.xportsnews.com/article/2192616",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1179729",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=274092",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4433619"
  ],
  "seen_titles": [
-  "'이정현27점'한국농구,필리핀잡고마줄스호체제첫연승",
-  "필리핀전승리한한국농구대표팀",
-  "고동빈“감독으로서부족했던시즌…죄송하다”",
-  "[포토]팬향해손흔드는'스매시'신금재",
-  "[포토]김정운격려하는김현수,잘막았어!",
-  "[포토]김정운격려하는김현수와김상수",
-  "[포토]승리기쁨나누는디플러스기아바텀듀오",
-  "[굿모닝!AI리포트]오픈AI,챗GPT광고연간환산매출10억달러넘어...",
   "신상열농심부사장,SKT평사원여성과결혼",
   "‘농심3세’신상열부사장,SK텔레콤평사원과13일결혼",
   "美진보대부샌더스,'초지능AI영구금지'법안추진",
@@ -6001,7 +5993,15 @@
   "[기획]또털린고객정보…유통·플랫폼보안리스크재점화",
   "[기획]GS리테일이어티빙까지…대형유출키운'보안관리부실'",
   "정책금융권,'IT복원력'강화…장애·해킹에도금융서비스잇는다",
-  "[기획]비밀번호대입부터API까지…유통플랫폼해킹수법도진화"
+  "[기획]비밀번호대입부터API까지…유통플랫폼해킹수법도진화",
+  "보이스피싱피해반토막났지만3276억…금융권공동대응나선다",
+  "김승연회장\"모두가누릴행복\"...한화,130억전액부담해전국에불꽃...",
+  "한화,서울세계불꽃축제개최…130억전액부담·100만명관람",
+  "'한화100억잘질렀다'강백호드디어달성직전인데,왜마음이무거울...",
+  "\"사방팔방튀는느낌NO\"…한화아픈손가락,日단기유학뒤첫KKK!→...",
+  "[오늘의시구]9월6일KBO경기별승요는?NCT재민·고경표등",
+  "\"통신대란막는다\"KT,서울세계불꽃축제에'5G슬라이싱'기술적용",
+  "엔비디아,허깅페이스인수…17조원으로개방형AI생태계삼켰다"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,13 @@
   [
    "2026-09-06T12:02:14.499121+09:00",
    "진화 API까지 비밀번호 수법도 대입부터 플랫폼 유통"
+  ],
+  [
+   "2026-09-06T12:06:14.603280+09:00",
+   "삼켰다 17조원으로 개방형 생태계 인수 허깅페이스"
   ]
  ],
- "last_run": "2026-09-06T12:04:30.078861+09:00",
+ "last_run": "2026-09-06T12:06:32.839323+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
