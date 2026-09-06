@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3685864",
-  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1780052",
-  "https://sports.khan.co.kr/article/202609052150003?pt=nv",
-  "https://www.newspim.com/news/view/20260905000118",
-  "https://idsn.co.kr/news/view/1065593343786767",
-  "https://www.joongangenews.com/news/articleView.html?idxno=545317",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466185",
   "https://www.ggilbo.com/news/articleView.html?idxno=1179553",
   "http://www.metroseoul.co.kr/article/20260903500166",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=273622",
@@ -2999,16 +2992,16 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=852676",
   "https://www.wikitree.co.kr/articles/1157478",
   "https://www.newsis.com/view/NISX20260906_0003778177",
-  "https://www.news1.kr/it-science/security-hacking/6280476"
+  "https://www.news1.kr/it-science/security-hacking/6280476",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169516",
+  "http://www.inews24.com/view/2002445",
+  "https://www.ddaily.co.kr/page/view/2026090417322813235",
+  "https://biz.chosun.com/it-science/ict/2026/09/07/V7UWTGBE45GZ5LCMWXD3C5RQAQ/",
+  "https://www.monews.co.kr/news/articleView.html?idxno=413606",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1723032",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722975"
  ],
  "seen_titles": [
-  "'강민호역전타'삼성,연장11회뒤집기…사흘만에선두탈환(종합)",
-  "[KBO내일의선발투수]9월6일(일)",
-  "[KBO오늘의경기결과]9월5일(토)",
-  "한화-롯데,오늘은호수비열전?",
-  "‘1위탈환’총력전보소,미리보는KS가따로없네!‘김재윤2이닝무...",
-  "삼성,연장혈투끝에LG6연승저지하고선두탈환…KIA,이틀연속KT...",
-  "이상일용인시장,조정대회서선수격려…지원의지밝혀",
   "엔비디아IFA서로컬AI기술공개,RTX스파크10월출시",
   "‘9회말무사2·3루,10회1사2루까지’3연패위기지운2이닝무실점...",
   "[AI상보]'양현종10승+나성범쐐기포'KIA,이틀연속KT제압...하주석...",
@@ -6001,7 +5994,14 @@
   "[시큐리티포커스]프라이빗AI'AI테크서밋'·에버스핀'에버세이프웹...",
   "구글포토,제미나이스파크도입…14만3206장사진도말한마디로정리...",
   "티빙개인정보유출보상오늘부터접수…이달놓치면못받는다",
-  "개인정보·규제·해킹전문가모은티빙…정보보호자문위꾸린다"
+  "개인정보·규제·해킹전문가모은티빙…정보보호자문위꾸린다",
+  "[데스크칼럼]침체된PC시장,AI워크스테이션에길을묻다",
+  "[정구민의톺아보기]AMD,IFA서개인용슈퍼컴퓨팅시대선도",
+  "[CPU대란주의보⑦]맥북에어200달러뛰었다…데이터센터독식에P...",
+  "SK하이닉스,최첨단D램비중확늘린다…내년초1c가주력공정",
+  "SK바이오팜신약개발'글로벌스텝'···엔비디아GPU도입",
+  "백성현대성네트웍대표\"4.5일제로숙련인력지키고젊은인재잡는다...",
+  "주2시간줄였을뿐인데…대성네트웍,\"'안전·워라밸'두마리토끼잡..."
  ],
  "recent_sigs": [
   [
@@ -6103,9 +6103,25 @@
   [
    "2026-09-07T06:08:15.414735+09:00",
    "모은 꾸린다 자문위 규제 개인정보 정보보호 전문가 티빙"
+  ],
+  [
+   "2026-09-07T06:10:20.264396+09:00",
+   "GPU 스텝 도입 글로벌 신약개발 SK바이오팜"
+  ],
+  [
+   "2026-09-07T06:10:20.264396+09:00",
+   "선도 개인용 시대 AMD 슈퍼컴퓨팅 IFA서"
+  ],
+  [
+   "2026-09-07T06:10:20.264396+09:00",
+   "대성네트웍 백성현 대표 5일제로 지키고 인재 잡는다 숙련인력 젊은"
+  ],
+  [
+   "2026-09-07T06:10:20.264396+09:00",
+   "2시간 안전 대성네트웍 뿐인데 줄였을 워라밸 마리 토끼"
   ]
  ],
- "last_run": "2026-09-07T06:08:33.315136+09:00",
+ "last_run": "2026-09-07T06:10:48.433906+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
