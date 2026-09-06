@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20260904_0021423401",
-  "https://www.newsis.com/view/NISI20260904_0021423392",
-  "https://www.yna.co.kr/view/PYH20260904070900013?input=1196m",
-  "https://www.mt.co.kr/tech/2026/09/04/2026090411000228459",
-  "https://www.news1.kr/photos/8088354",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=300298",
-  "https://www.pressman.kr/news/articleView.html?idxno=103516",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065575438343287",
-  "https://www.edaily.co.kr/News/Read?newsId=03079926645576840&mediaCodeNo=257",
   "https://www.ajunews.com/view/20260904094001699",
   "https://www.dailian.co.kr/news/view/1686334/?sc=Naver",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003264490&CMPT_CD=P0010",
@@ -2999,18 +2990,18 @@
   "https://view.asiae.co.kr/article/2026090314455679316",
   "https://view.asiae.co.kr/article/2026090315125313341",
   "https://view.asiae.co.kr/article/2026090315474201643",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=94865"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=94865",
+  "https://view.asiae.co.kr/article/2026090315225764364",
+  "https://biz.sbs.co.kr/article_hub/20000333010?division=NAVER",
+  "https://shindonga.donga.com/3/all/13/6373744/1",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=445686",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609050825002500105025",
+  "https://www.businessplus.kr/news/articleView.html?idxno=116443",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=134719",
+  "https://news.tf.co.kr/read/economy/2362470.htm",
+  "http://www.newskr.kr/news/articleView.html?idxno=106147"
  ],
  "seen_titles": [
-  "[포토]‘모두의AI’프로젝트...사업자간담회",
-  "SKT·KT·카카오,'모두의AI'개발착수…배경훈\"국민감탄할서비스...",
-  "[현장]\"외산AI로는안된다\"…SKT·KT·카카오,'모두의AI'로소버린...",
-  "정재헌SKTCEO\"한국어·문화최적화'모두의AI'로외산의존낮춰야\"",
-  "[AI프리즘]'모두의AI'출발…SKT·카카오·KT\"올해500만사용목표\"(...",
-  "SKT·KT·카카오“AI서비스로국민일상바꾼다”…‘모두의AI’출사...",
-  "배경훈부총리,'모두의AI프로젝트착수간담회'",
-  "발언하는정재헌SKT대표이사",
-  "모두의AI프로젝트사업자간담회",
   "정재헌SKTCEO\"모두의AI,우리언어·습관충분히학습해야\"",
   "'모두의AI프로젝트'관련발언하는정재헌SKT대표이사",
   "SK텔레콤,자원순환캠페인실시…E-Waste회수프로그램확대",
@@ -6001,7 +5992,16 @@
   "[2026양성평등지수]여성이임원까지크는회사…아모레퍼시픽,100대기...",
   "[2026양성평등지수]육휴·유연근무공시2년차…남성육휴'한자릿수...",
   "[2026양성평등지수]여성연봉,남성의72%…5년새3%P좁혔지만격차...",
-  "AI가키운'15조달러부호클럽'…억만장자자산'사상최대'"
+  "AI가키운'15조달러부호클럽'…억만장자자산'사상최대'",
+  "[2026양성평등지수]이사회문은열렸는데…승진해오르는미등기임원...",
+  "[증시전략]연준의금리결정,돌고돌아\"데이터기반\"…물가관건",
+  "평범한인간심리노리는‘팀미션’사기의함정",
+  "[WhoIs?]신창재교보생명대표이사회장",
+  "[더벨][IFA2026]AI홈선점LG전자,실행형에이전트'씽큐클로'출격",
+  "['함께더멀리'AI대전환과공존/①]업무나누는동료로…AI에이전트...",
+  "신한은행,AI브랜치1곳·디지털라운지78곳·학이재4곳…점포는어디...",
+  "SK그룹,11일울산포럼개최…제조AX·일상속AI논의",
+  "권혁빈이혼,국내최대4조원분할되나"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,13 @@
   [
    "2026-09-07T07:06:13.493177+09:00",
    "부호클럽 키운 15조달러 억만장자 사상 AI가 자산"
+  ],
+  [
+   "2026-09-07T07:08:13.205447+09:00",
+   "이혼 분할되나 4조원 권혁빈 국내"
   ]
  ],
- "last_run": "2026-09-07T07:06:48.577915+09:00",
+ "last_run": "2026-09-07T07:08:38.148466+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
