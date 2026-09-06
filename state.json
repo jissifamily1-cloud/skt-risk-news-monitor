@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2192160",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=322097",
-  "http://www.osen.co.kr/article/G1112869975",
-  "http://www.osen.co.kr/article/G1112869973",
-  "http://www.osen.co.kr/article/G1112869974",
-  "http://www.osen.co.kr/article/G1112869970",
-  "http://www.osen.co.kr/article/G1112869969",
-  "https://www.donga.com/news/Economy/article/all/20260904/134608804/1",
-  "https://www.livebiz.today/news/articleView.html?idxno=204664",
-  "https://www.kukinews.com/article/view/kuk202609040168",
-  "https://www.bosa.co.kr/news/articleView.html?idxno=3011530",
   "https://biz.sbs.co.kr/article_hub/20000332818?division=NAVER",
   "https://www.donga.com/news/Inter/article/all/20260904/134609492/2",
   "http://www.inews24.com/view/2002291",
@@ -2999,20 +2988,20 @@
   "https://www.mt.co.kr/tech/2026/09/06/2026090609275598030",
   "https://www.dailian.co.kr/news/view/1686909/?sc=Naver",
   "https://zdnet.co.kr/view/?no=20260906103855",
-  "https://www.newsis.com/view/NISX20260906_0003777934"
+  "https://www.newsis.com/view/NISX20260906_0003777934",
+  "https://sports.khan.co.kr/article/202609061041003?pt=nv",
+  "https://www.news1.kr/sports/baseball/6281230",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003264905&CMPT_CD=P0010",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577021887072",
+  "https://www.mydaily.co.kr/page/view/2026090519115243394",
+  "https://www.newsis.com/view/NISX20260906_0003777932",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484229",
+  "https://www.chosun.com/economy/money/2026/09/06/3RRMFZU6BVB6JFYFUTO24MKJYU/",
+  "https://magazine.hankyung.com/business/article/202609066468b",
+  "https://www.ziksir.com/news/articleView.html?idxno=145529",
+  "https://www.viva100.com/article/20260905500332"
  ],
  "seen_titles": [
-  "김도영‘배제성공략,어렵네’[포토]",
-  "하주석‘통증을참고날린안타’[포토]",
-  "김도영‘송구실책이나올뻔했어’[포토]",
-  "[LCK]'바텀한방에와르르'DK,KT에2-1역전...월즈까지딱1승",
-  "[사진]김도영,'40홈런날린다'",
-  "[사진]김도영,'아쉬운플라이'",
-  "[사진]김도영,'챔피언스필드담장넘긴다'",
-  "[사진]파울타구맞고고통스러워하는하주석",
-  "[사진]파울타구맞는하주석",
-  "‘농심3세’신상열부사장,13일결혼…상대는SKT회사원",
-  "농심오너家3세'신상열부사장,SK텔레콤평사원과13일'백년가약'",
   "‘농심3세’신상열부사장13일결혼…‘신라면’들고웨딩사진",
   "HIS넘어'MedicalOS'로…이지케어텍,병원AI실행체계만든다",
   "[이슈체크]노무라\"67만전자·470만닉스간다\"…지금주가안보이나?현...",
@@ -6001,7 +5990,18 @@
   "KT,100만명몰린'여의도불꽃놀이'서\"5GSA기반영상관제지원\"",
   "'간첩대행'까지판치는데…방첩사는사라졌다",
   "SK,'2026울산포럼'11일개최…제조AX가속화방안논의",
-  "\"제조업AI전환속도낸다\"…SK·울산상의,오는11일'울산포럼2026'개..."
+  "\"제조업AI전환속도낸다\"…SK·울산상의,오는11일'울산포럼2026'개...",
+  "현종이형의승리를위하여…‘통산12회’역대최다10승투수된KIA...",
+  "김도영,'최연소40홈런'마지막기회…'낯선투수'대니엘공략할까",
+  "7연승NC-5연패두산,5강경쟁승부처는?",
+  "한화,100만명몰린서울세계불꽃축제안전하게마무리…안전관리비만...",
+  "“(이)의리폼늦다,저거무조건살겠다”KIA158km클로저약점을간...",
+  "\"소음도,관중도문제없어\"…양궁대표팀,야구장찾은사연",
+  "[주간증시]코스피한주간1.50%↓...이번주는상승출발기대감↑",
+  "9월반도체대형주대거매도한서학개미…레버리지ETF는순매수",
+  "“전력효율·냉각이성능좌우”AI데이터센터‘액체냉각’각광",
+  "KT,서울세계불꽃축제에5G네트워크슬라이싱적용…안전관제지원",
+  "[주간증시전망]오픈AI훈풍탄코스피…반등지속열쇠는美CPI"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-09-06T10:32:13.651069+09:00",
    "G20 밖에서 비호감 시위 한창 행사장"
+  ],
+  [
+   "2026-09-06T10:50:22.207186+09:00",
+   "훈풍 코스피 반등 열쇠는 지속 CPI"
   ]
  ],
- "last_run": "2026-09-06T10:48:34.330131+09:00",
+ "last_run": "2026-09-06T10:50:40.006491+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
