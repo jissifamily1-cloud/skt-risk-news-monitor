@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1524293",
-  "https://mhnse.com/news/articleView.html?idxno=1524295",
-  "https://mhnse.com/news/articleView.html?idxno=1524282",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191588",
   "https://www.dailian.co.kr/news/view/1685848/?sc=Naver",
   "https://biz.heraldcorp.com/article/10861130",
   "http://www.newsian.co.kr/news/articleView.html?idxno=94703",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/photos/8090713",
   "https://www.yna.co.kr/view/PYH20260906048700061?input=1196m",
   "https://www.tokenpost.kr/news/breaking/402519",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41773"
+  "https://www.aitimes.kr/news/articleView.html?idxno=41773",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=274099",
+  "https://biz.sbs.co.kr/article_hub/20000332979?division=NAVER",
+  "http://www.lkp.news/news/articleView.html?idxno=83737",
+  "https://www.chosun.com/economy/tech_it/2026/09/06/4Y4CGQPEI5EWVIE3TU73GE7USE/"
  ],
  "seen_titles": [
-  "[mhn포토]김재희,컨디션좋은미소",
-  "[mhn포토]김재희,우승부스터먹고힘낸다",
-  "[mhn포토]김재희,오르막페어웨이향해날린다",
-  "[mhn포토]김재희,출발합니다",
   "[mhn포토]김재희-안지현,코스너무어려워요",
   "SK이노베이션울산CLX,'듀얼브레인'기반제조AI미래비전추진",
   "SK이노베이션울산CLX,제조AI전시…'듀얼브레인'선보인다",
@@ -6001,7 +5997,11 @@
   "리바운드시도하는이승현",
   "패스하는이현중",
   "오픈AI에이전트,독일위키점거정황보도",
-  "AIMB2B'로버트헬트'CEO,\"검색넘어,AI가기업을평가한다\"…B2B마케..."
+  "AIMB2B'로버트헬트'CEO,\"검색넘어,AI가기업을평가한다\"…B2B마케...",
+  "GS건설,모듈러AI데이터센터연합구축…PMDC표준모델개발",
+  "GS건설·LGU+등,모듈러데이터센터표준모델공동개발나선다",
+  "LG유플러스,PMDC얼라이언스출범…AI인프라적기공급및'OneLG'역량...",
+  "LG전자,글로벌빅테크에로봇‘관절’판다…“대형수주임박”"
  ],
  "recent_sigs": [
   [
@@ -6269,7 +6269,7 @@
    "사이트 보도 협업 장악 독일 에이전트"
   ]
  ],
- "last_run": "2026-09-06T14:20:37.482743+09:00",
+ "last_run": "2026-09-06T14:22:29.235282+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
