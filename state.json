@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisacast.kr/news/articleView.html?idxno=99482",
-  "https://news.tf.co.kr/read/economy/2361045.htm",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=273351",
-  "https://www.aitimes.kr/news/articleView.html?idxno=41717",
-  "https://www.tokenpost.kr/news/breaking/401790",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53843",
-  "http://www.bizwnews.com/news/articleView.html?idxno=145002",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=134567",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=697571",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=207606",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=482980",
   "https://www.mk.co.kr/article/12142081",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2465675",
   "https://en.asiatoday.co.kr/view.php?key=20260902000937461",
@@ -2999,20 +2988,20 @@
   "https://www.xportsnews.com/article/2192738",
   "https://www.xportsnews.com/article/2192744",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260906010002041",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=558736"
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=558736",
+  "https://www.mk.co.kr/article/12145482",
+  "https://www.hankyung.com/article/2026090668581",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1331329",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=558737",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609060089&t=NN",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225886",
+  "https://www.tokenpost.kr/news/ai/402673",
+  "https://www.tokenpost.kr/news/ai/402557",
+  "https://www.youngnong.co.kr/news/articleView.html?idxno=62147",
+  "https://www.newspim.com/news/view/20260906000075",
+  "https://www.dt.co.kr/article/12082338"
  ],
  "seen_titles": [
-  "오픈AI아스트라,인간도움없이공격구성",
-  "오픈AI·앤트로픽도‘AI역량인증시험’…APEX는연말까지‘무제한재...",
-  "LS증권,멀티LLM기반'사내업무형AI플랫폼'에서ChatGPT,Claude,Gemini...",
-  "LS증권,'사내업무형AI플랫폼'구축착수…업무생산성↑",
-  "LS증권,사내업무형AI플랫폼구축가속도...'착수식'진행",
-  "오픈AI,사이버보안'Critical'AI모델'아스트라'공개예고…\"인간개...",
-  "오픈AI,아스트라보안최고위임계점도달확인",
-  "해킹우려현실화하자…오픈AI,차세대AI기능제한",
-  "LS증권,사내업무형AI플랫폼구축착수",
-  "LS증권,ChatGPT·Claude·Gemini한곳에…멀티LLM업무플랫폼구축",
-  "크라우드스트라이크,엔비디아와보안특화AI개발…AI연구소도출범",
   "LS증권,전사AI업무환경구축…향후에이전트자동화로확대",
   "LS증권,멀티LLM기반사내AI플랫폼구축",
   "SamsungSDStounveilenterpriseAItransformationstrategy",
@@ -6001,7 +5990,18 @@
   "네일‘스윕으로가자’[포토]",
   "대니엘‘무조건이긴다’[포토]",
   "[기자의눈]보이스피싱보다한발빨라야한다",
-  "[AI시대,길을묻다]한국형AI혁명,행정구역넘어하나의'AI경제권'으..."
+  "[AI시대,길을묻다]한국형AI혁명,행정구역넘어하나의'AI경제권'으...",
+  "'GPT6효과'에불붙은美반도체주",
+  "AI토큰가격'사상최저'…5월최고점대비반토막",
+  "재정빠듯인천기초단체,지방채꺼낸다",
+  "[AI시대,길을묻다]실을잣던대구,데이터를잣는도시로",
+  "[속보]\"AI가해낼줄이야\"...'이나라'대졸자들졸지에일자리잃었다",
+  "[AI와사는법]AI학습,개인정보의딜레마",
+  "0.7%복제율든마이크로소프트,뉴욕타임스소송반박",
+  "AI전력망비용,색스기업부담론다시꺼냈다",
+  "서울우유,생성형AI브랜드경쟁력'우유부문1위'…\"89년품질신뢰가...",
+  "경기도교육청,제2회경기청소년사이버공격·방어대회개최",
+  "LG유플러스,AI데이터센터구축기간줄인다…PMDC표준모델개발"
  ],
  "recent_sigs": [
   [
@@ -6169,7 +6169,7 @@
    "잡리스냐 자비스냐 불러온 아스트라 AGI논쟁"
   ]
  ],
- "last_run": "2026-09-06T17:28:35.797961+09:00",
+ "last_run": "2026-09-06T17:30:40.100035+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
