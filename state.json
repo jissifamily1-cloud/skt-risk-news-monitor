@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1396608",
-  "https://www.public25.com/news/articleView.html?idxno=52834",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=478026",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168173",
-  "https://www.newsis.com/view/NISX20260814_0003750151",
-  "https://www.news1.kr/it-science/mobile/6259820",
   "https://www.yna.co.kr/view/AKR20260814152600017?input=1195m",
   "https://www.sentv.co.kr/article/view/sentv202608140087",
   "https://www.bloter.net/news/articleView.html?idxno=671028",
@@ -2999,15 +2993,15 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1005881",
   "https://www.sportsseoul.com/news/read/1633172",
   "https://www.slist.kr/news/articleView.html?idxno=763982",
-  "https://www.starnewskorea.com/sports/2026/09/06/2026090613304154733"
+  "https://www.starnewskorea.com/sports/2026/09/06/2026090613304154733",
+  "https://sports.donga.com/it/article/all/20260906/134612630/1",
+  "https://www.aitimes.com/news/articleView.html?idxno=214909",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609060087&t=NN",
+  "https://www.sportsworldi.com/newsView/20260906508592",
+  "https://www.dt.co.kr/article/12082324",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=156825"
  ],
  "seen_titles": [
-  "서울YMCA\"이통사해킹사고에우려…공공사업재검토해야\"",
-  "싼요금만으론못잡는다…알뜰폰업계,특화상품경쟁",
-  "시민단체\"보안사고겪은이통사,공공사업재검토해야\"",
-  "[코스피·코스닥,삼성전자SK하이닉스㈜코오롱롯데카드현대해상이랜...",
-  "코스피·코스닥전거래일(14일)주요공시는...삼성전자,반도체호황에...",
-  "\"명의도용vs명의대여\"…신분증맡긴고객·이통사법정공방전",
   "갤Z8사전판매70%가'폴드8'…삼성,추가생산·공급속도",
   "'수요폭증'에갤Z폴드8배송서두른다…삼성전자,물량공급박차",
   "이통사CEO상반기보수공개…정재헌17억·홍범식18억",
@@ -6001,7 +5995,13 @@
   "한화50억유격수,67세노장마음사로잡았다\"시위하는거같은데,계...",
   "“많은팬과첫시즌마침표찍고싶다”울산웨일즈,창단첫‘홈최...",
   "'유기상·여준석쌍포'한국농구,평가전서필리핀에27점차대승",
-  "\"이호연이1번타자라고?\"이강철감독이화들짝놀랐다,타율2할5푼옛..."
+  "\"이호연이1번타자라고?\"이강철감독이화들짝놀랐다,타율2할5푼옛...",
+  "SKT,자원순환캠페인진행",
+  "LGU+,PMDC얼라이언스출범…AI데이터센터건축기간줄인다",
+  "GS건설,사전제작형모듈러데이터센터표준모델개발착수",
+  "[SW포커스]‘태권도성지’의진화…그랑프리품은무주,미래까지준...",
+  "[박영서칼럼]‘AIG3’달성하려면‘한국형생태계’부터키워야",
+  "[Today'sSignal]OpenAIFacesTwoAuditTrails:DiscloseAIActivitya"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,13 @@
   [
    "2026-09-06T16:36:14.076157+09:00",
    "계획 사업 AI데이터센터 ~SKT 운영"
+  ],
+  [
+   "2026-09-06T16:46:14.124808+09:00",
+   "and Faces Trails Disclose Two Activity Audit"
   ]
  ],
- "last_run": "2026-09-06T16:44:32.099739+09:00",
+ "last_run": "2026-09-06T16:46:39.462420+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
