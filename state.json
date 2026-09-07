@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fntimes.com/html/view.php?ud=202609042115369497dd55077bc2_18",
-  "https://www.slist.kr/news/articleView.html?idxno=764057",
-  "https://www.sedaily.com/article/20087754",
-  "https://www.wikitree.co.kr/articles/1157642",
-  "https://biz.heraldcorp.com/article/10863377",
-  "https://www.wikitree.co.kr/articles/1157637",
   "https://www.wikitree.co.kr/articles/1157635",
   "https://www.tokenpost.kr/news/ai/402624",
   "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html?partner=naver",
@@ -2999,15 +2993,15 @@
   "https://www.mydaily.co.kr/page/view/2026090714094932216",
   "https://www.xportsnews.com/article/2193231",
   "http://www.lawissue.co.kr/view.php?ud=2026090720391251209817d053b9_12",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8656883"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8656883",
+  "https://www.todayeconomic.com/news/article.html?no=32024",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008741734&plink=ORI&cooper=NAVER",
+  "http://www.4th.kr/news/articleView.html?idxno=2117615",
+  "https://news.jtbc.co.kr/article/NB12317138?influxDiv=NAVER",
+  "https://www.segye.com/newsView/20260907515112?OutUrl=naver",
+  "http://www.lawissue.co.kr/view.php?ud=202609072037496241204ead0791_12"
  ],
  "seen_titles": [
-  "강원주웹케시대표,금융AI성장본격화이끈다[웹케시그룹삼각편대...",
-  "G마켓,ChatGPT플러그인오픈…시몬스,이머시브아트퍼포먼스선봬",
-  "앤트로픽11월중간선거직전상장하나",
-  "美대기업들오픈소스AI로대이동…AT&T비용80%줄이고사용률40%로...",
-  "상장만하면미시총6위라는앤트로픽,흥행할까?증권가전망은…[투...",
-  "마이크로소프트‘프로젝트제니스’,개발자용윈도우11에540만원짜리...",
   "메타‘무세보이스트랜스크라이브’오류율3.1%로1위…가격은경쟁...",
   "AI쇼핑61%,아마존·구글결제경쟁번졌다",
   "CorporateAmericaIsGettingHookedonOpen-SourceA.I.",
@@ -6001,13 +5995,15 @@
   "'군대보내기아깝네'ERA14.81→2.42대반전,쓴소리하던스승도반했...",
   "'9위추락'롯데초비상!손성빈'오른중지부상'이탈→'80억포수'복...",
   "ktRolsterUTA이지환,FC온라인정규리그우승",
-  "[스포츠7]KIA,KT에스윕승…3위LG와0.5경기차"
+  "[스포츠7]KIA,KT에스윕승…3위LG와0.5경기차",
+  "코스피7000문턱에서한은이꺼낸'영끌경고장'…반도체호황이가린...",
+  "갑자기쏟아진수상한글…AI게시판'비밀대화'걸렸다",
+  "'강남언니'22만명정보유출…성형사진·시술내역까지털렸다",
+  "선관위특검출범…투표용지부족등'12개의혹'수사",
+  "지문저장없이도사용자판별기술개발",
+  "도미노피자,13~34세SKT고객대상5일간행사운영"
  ],
  "recent_sigs": [
-  [
-   "2026-09-07T14:50:22.145543+09:00",
-   "고갈되나 데이터 불붙는 AI가 공부할 확보전"
-  ],
   [
    "2026-09-07T14:54:16.986412+09:00",
    "에이전트 만5천 무단 편집 외부 사이트서 공유"
@@ -6479,9 +6475,13 @@
   [
    "2026-09-07T20:46:14.486540+09:00",
    "KT에 KIA LG와 ~KT 3위 스윕승 경기"
+  ],
+  [
+   "2026-09-07T20:52:15.735964+09:00",
+   "영끌 꺼낸 가린 문턱에서 한은이 반도체 호황이 경고장 코스피"
   ]
  ],
- "last_run": "2026-09-07T20:50:36.163383+09:00",
+ "last_run": "2026-09-07T20:52:40.949214+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
