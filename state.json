@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/industry/2026/09/07/20260907032004?wlog_tag3=naver",
-  "https://www.segye.com/newsView/20260906508740?OutUrl=naver",
-  "https://www.news2day.co.kr/article/20260906500013",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=318177",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000009559&cp=nv",
-  "https://www.donga.com/news/Economy/article/all/20260906/134614964/2",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115420",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=318180",
-  "https://www.joongang.co.kr/article/25459493",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37657",
-  "https://www.livesnews.com/news/article.html?no=63916",
   "https://economychosun.com/site/data/html_dir/2026/08/30/2026083000016.html",
   "https://www.mydaily.co.kr/page/view/2026090620542484595",
   "https://www.xportsnews.com/article/2192940",
@@ -2999,20 +2988,20 @@
   "http://www.jndn.com/article.php?aid=1788771743439179014",
   "https://www.aitimes.com/news/articleView.html?idxno=214961",
   "https://www.mk.co.kr/article/12146465",
-  "https://www.yna.co.kr/view/AKR20260907141500011?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260907141500011?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008741640&plink=ORI&cooper=NAVER",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006222",
+  "https://www.sportsseoul.com/news/read/1633434",
+  "https://www.newspim.com/news/view/20260907001145",
+  "https://byline.network/?p=9004111222618672",
+  "https://www.aitimes.com/news/articleView.html?idxno=214933",
+  "https://zdnet.co.kr/view/?no=20260907180139",
+  "https://www.donga.com/news/Society/article/all/20260907/134621445/2",
+  "https://www.decenter.kr/article/20088151",
+  "https://www.munhwa.com/article/11615140",
+  "https://www.dailian.co.kr/news/view/1687430/?sc=Naver"
  ],
  "seen_titles": [
-  "GS건설‘사전제작형모듈러데이터센터’모델개발",
-  "[경제단신]GS건설,AIDC‘모듈러’표준모델개발외",
-  "[IPO워치]수요예측7곳몰린다…네오사피엔스청약",
-  "[출근길포인트]국가채무질악화되나...적자성채무2030년1300조·이자...",
-  "조립식AI데이터센터뜬다…“2년걸릴공사,6개월이면끝”",
-  "“AI데이터센터발열잡아라”…정유사‘액체냉각’새시장경쟁",
-  "GS건설,AI데이터센터도'모듈러'로…PMDC표준모델개발",
-  "GS건설,모듈러공법앞세워AI데이터센터구축기간줄인다",
-  "[Biz&Now]GS건설,사전제작형PMDC모델개발",
-  "\"LG,전자로옮겨간이익축…AI수혜와투자부담함께체크\"",
-  "베트남청년의한국유학,취업까지연결한다…자블리‘K-TAG’주목",
   "[Interview]페카라우릴라아이싸이공동창업자겸최고전략책임자|...",
   "영호남야구로하나됐다!LG에위닝삼성→KT싹쓸이한KIA,'달빛동맹...",
   "끝내이승엽넘지못했지만…'안타-안타-안타-볼넷-안타'김도영은마지...",
@@ -6001,7 +5990,18 @@
   "광주기독병원‘스마트케어병동’운영…환자실시간모니터링",
   "챗GPT,사용자맞춤'글쓰기스타일'기능테스트...개인문체학습해구...",
   "모처럼힘쓴코스피,7000턱밑",
-  "[연합뉴스이시각헤드라인]-18:00"
+  "[연합뉴스이시각헤드라인]-18:00",
+  "[자막뉴스]'김희영아들'T1경기장포착…\"팬심아냐\"'차세대신호탄...",
+  "'전설로페즈넘었다'KIA에서만30승수확하다니…구단1위역사를바꿀...",
+  "두산,‘리그최강’곽빈·최민석AG이탈에울상?‘상승세’잭로그...",
+  "[프로야구]안우진,휴식차원1군말소..부상손성빈도엔트리제외",
+  "텍스트한줄에뚫리는AI,“듀얼LLM격리가해법”",
+  "앤트로픽,'클로드'수요폭증에11개월간695조인프라확보",
+  "카카오모빌리티\"자율주행상용화,도시단위생태계설계필요\"",
+  "시술명·병원·등록사진까지털렸다…‘강남언니’21만명개인정보유...",
+  "보관하던비트코인95%털렸다…리퀴드4300억원해킹피해",
+  "김종인“오세훈당선1등공신은李대통령…부동산결정적”",
+  "증권사CEO14명유럽행…'제2의엔비디아'찾는다"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,21 @@
   [
    "2026-09-07T18:10:20.879472+09:00",
    "KT나스미디어 목표가 안정적 ~KT 지속 실적"
+  ],
+  [
+   "2026-09-07T18:20:27.346375+09:00",
+   "포착 경기장 김희영 차세대 아냐 아들 팬심 신호탄 T1"
+  ],
+  [
+   "2026-09-07T18:20:27.346375+09:00",
+   "김종인 공신은 1등 오세훈 부동산 당선 대통령 결정적"
+  ],
+  [
+   "2026-09-07T18:20:27.346375+09:00",
+   "14명 찾는다 증권사 유럽행 CEO 제2의"
   ]
  ],
- "last_run": "2026-09-07T18:18:32.187438+09:00",
+ "last_run": "2026-09-07T18:20:52.989117+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
