@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=187598",
-  "https://www.mt.co.kr/stock/2026/09/07/2026090709253749977",
-  "https://ditoday.com/%ec%9b%8d%ec%8a%a4%ed%94%bc%ec%96%b4-%eb%89%b4%ec%8a%a4%eb%a3%b8-%ec%98%a4%ed%94%88-%ec%9b%b0%ec%bb%b4%ed%82%a4%ed%8a%b8%eb%8f%84-%eb%a6%ac%eb%89%b4%ec%96%bc/",
-  "https://www.globale.co.kr/news/articleView.html?idxno=40220",
   "https://www.edaily.co.kr/News/Read?newsId=02335366645577824&mediaCodeNo=257",
   "https://www.econovill.com/news/articleView.html?idxno=750007",
   "https://biz.sbs.co.kr/article_hub/20000333047?division=NAVER",
@@ -2999,13 +2995,13 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008742125&plink=ORI&cooper=NAVER",
   "http://www.newskr.kr/news/articleView.html?idxno=106177",
   "http://coinreaders.com/256986",
-  "https://biz.sbs.co.kr/article_hub/20000333283?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000333283?division=NAVER",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7182411",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698698",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169374",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698703"
  ],
  "seen_titles": [
-  "웍스피어,공식뉴스룸열고웰컴키트개편…채용브랜딩강화",
-  "GPT6발반도체랠리…삼성전자·SK하이닉스강세",
-  "웍스피어,뉴스룸오픈...웰컴키트도리뉴얼",
-  "AI만넣고끝?…이광희서울시의원,서울시설공단에직무·인력재설계...",
   "한국투자증권,국내주식실전투자대회개최…\"20대루키부터오픈API리...",
   "한국에듀테크,세계은행무대에서다…\"소외된아이에게최고의교육을...",
   "[이시각시황]코스피3%대급등,6,900선돌파…반도체·AI데이터센터...",
@@ -6001,7 +5997,11 @@
   "'아스트라'훈풍에반도체급등…재시동거나?",
   "[오늘의이슈]코스피오르는데,GDP성장률도뛸까",
   "업비트서퇴출된봉크(BONK)7%급락…0.00000300달러마저무너지나?",
-  "[마켓프리뷰]코스피,7000선턱밑마감…오픈AI훈풍어디까지?"
+  "[마켓프리뷰]코스피,7000선턱밑마감…오픈AI훈풍어디까지?",
+  "'모두의AI'3색전략…정책실효성·국민활용도얼마나",
+  "아이폰18출격임박…이통시장가입자쟁탈전불붙나",
+  "[에이전틱AI맵2026]SK텔레콤,통화·문자에서다음행동까지연결…...",
+  "독파모시장성·GPU전력·챗봇안전…2026국감AI관전포인트는"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,21 @@
   [
    "2026-09-08T07:30:35.926150+09:00",
    "7000선 어디까지 마감 코스피 턱밑 훈풍"
+  ],
+  [
+   "2026-09-08T07:32:15.349647+09:00",
+   "다음 통화 행동까지 문자에서 ~SKT 연결"
+  ],
+  [
+   "2026-09-08T07:32:15.349647+09:00",
+   "안전 관전포인트는 독파모 국감 GPU 챗봇 전력 시장성"
+  ],
+  [
+   "2026-09-08T07:32:15.349647+09:00",
+   "불붙나 가입자 쟁탈전 아이폰18 시장 이통 임박 출격"
   ]
  ],
- "last_run": "2026-09-08T07:30:53.730643+09:00",
+ "last_run": "2026-09-08T07:32:44.866128+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
