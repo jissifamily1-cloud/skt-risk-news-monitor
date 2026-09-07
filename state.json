@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026090609203963382",
-  "https://www.sisaweek.com/news/articleView.html?idxno=237711",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=308050",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3685948",
-  "https://zdnet.co.kr/view/?no=20260905223908",
-  "https://www.mk.co.kr/article/12145211",
-  "https://www.busan.com/view/busan/view.php?code=2026090609112307973",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=88931",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=310491",
   "https://www.dailian.co.kr/news/view/1686899/?sc=Naver",
@@ -2999,16 +2992,16 @@
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258360",
   "https://www.seoul.co.kr/news/international/2026/09/07/20260907500084?wlog_tag3=naver",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=300375",
-  "https://isplus.com/article/view/isp202609070059"
+  "https://isplus.com/article/view/isp202609070059",
+  "https://www.the-today.com/news/articleView.html?idxno=89613",
+  "https://zdnet.co.kr/view/?no=20260907100942",
+  "https://www.etnews.com/20260907000151",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3686699",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3686715",
+  "https://www.yna.co.kr/view/AKR20260907059200054?input=1195m",
+  "http://www.newswell.co.kr/news/articleView.html?idxno=21637"
  ],
  "seen_titles": [
-  "G마켓'ChatGPT플러그인'오픈…AI기반초개인화쇼핑서비스선보여",
-  "[청년공감]SNS계정일부러지우는이유…“내과거가발목잡을까두...",
-  "'유부녀킬러'공효진,정준원에정체들켰다…순간최고시청룰12.6%",
-  "정준원비통한연기로레전드찍었다→자체최고12.6%터진'유부녀킬...",
-  "AIDC도조립식으로짓는다…LGU+,GS건설과표준모델개발",
-  "'잠깐만,두산과맞대결5경기나남았다니'역대급기적또한번?5위역...",
-  "[르포]수원KT위즈파크에녹아든AI…입장부터응원·진행까지뚝딱",
   "KT,수원야구장에'AI보이스'적용…장내아나운서'음성구현'생생",
   "[9월1주차]가상화폐시장정리",
   "전주시-더민주전주시갑,정책간담회개최…국가예산확보·전북혁신...",
@@ -6001,7 +5994,14 @@
   "[분석]2조달러IPO누가먹여살리나?···앤스로픽거품美채권시장...",
   "“독일,전쟁원한다…사실상선전포고”세계대전까지거론한상황[배...",
   "대학생해커109명,우리WON뱅킹취약점찾는다",
-  "‘4000만개인정보유출’티빙,오늘(7일)부터보상신청받는다…탈퇴..."
+  "‘4000만개인정보유출’티빙,오늘(7일)부터보상신청받는다…탈퇴...",
+  "김인새마을금고중앙회장,세번째국감서나…110억차명예금까지터졌...",
+  "CFO교체에T모바일주가3%↓...월가는여전히‘매수’의견",
+  "LGU+,'유플투쁠'혜택확대…화담숲장기고객5000명초청",
+  "창원대남해캠퍼스,남해군-하동군과정책발굴-평생교육'한마음한뜻'",
+  "대구시서구청,추석전은행(암)나무열매660주채취추진",
+  "켄텍,전력·에너지최적운영AI기술개발착수",
+  "'공정과경제민주화'하자더니재벌로도배된나라,'농심3세신상열..."
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,13 @@
   [
    "2026-09-07T10:34:14.152550+09:00",
    "빛으로 한국의 엔비디아가 순간 갈아타는"
+  ],
+  [
+   "2026-09-07T10:44:15.208767+09:00",
+   "신상열 공정과 민주화 재벌로 도배된 나라 하자더니 3세 농심 경제"
   ]
  ],
- "last_run": "2026-09-07T10:42:34.798939+09:00",
+ "last_run": "2026-09-07T10:44:33.334151+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7105,6 +7109,7 @@
   "ize.co.kr": "아이즈(ize)",
   "jejunews.com": "제주일보",
   "kenews.co.kr": "농촌경제신문",
-  "kbiznews.co.kr": "중소기업뉴스"
+  "kbiznews.co.kr": "중소기업뉴스",
+  "newswell.co.kr": "뉴스웰"
  }
 }
