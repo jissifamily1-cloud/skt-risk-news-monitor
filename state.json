@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260305000019",
-  "https://www.mk.co.kr/article/11977685",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=03968806645379712",
-  "https://www.joongboo.com/news/articleView.html?idxno=363718442",
-  "https://www.hankyung.com/article/2026030238731",
   "https://www.joongang.co.kr/article/25408390",
   "https://www.hankyung.com/article/2026030124721",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=44625",
@@ -2999,14 +2994,14 @@
   "https://www.bloter.net/news/articleView.html?idxno=672853",
   "http://www.bizwnews.com/news/articleView.html?idxno=145422",
   "https://www.ajunews.com/view/20260907084110772",
-  "https://www.edaily.co.kr/News/Read?newsId=02240246645577824&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02240246645577824&mediaCodeNo=257",
+  "https://www.ajunews.com/view/20260907090019828",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3686538",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3686520",
+  "https://www.ytn.co.kr/_ln/0104_202609070909580767",
+  "https://platum.kr/archives/294070"
  ],
  "seen_titles": [
-  "[산업의맥]AI의대답은무엇으로결정될까",
-  "페북은왜'AI들의커뮤니티'를인수할까",
-  "‘AI비서’앤스로픽에MS,결국적과의동침택했다",
-  "MS,기업용오피스툴에앤스로픽‘코워크’탑재",
-  "[데스크시각]국내사모대출은안전한가",
   "하메네이급습시점알려준앤스로픽…이란자폭드론에도AI있었다[美-...",
   "젠슨황\"오픈AI투자는300억달러가마지막일듯\"",
   "미국,AI로표적동선손안에…손쓸틈도없이제거한다",
@@ -6001,7 +5996,12 @@
   "[데스크시각]이름과금고가따로노는카카오분할",
   "SK텔레콤,'자원순환의날'맞아구성원과자원순환캠페인'RE:FINEDay'전...",
   "\"현대차,테슬라에밀렸다\"?…'기술격차'위기론확산→2030반응보니",
-  "'GPT-6훈풍'삼전·닉스,AI반도체랠리에동반5%급등[특징주]"
+  "'GPT-6훈풍'삼전·닉스,AI반도체랠리에동반5%급등[특징주]",
+  "베트남국회의장,방한첫날부터기술·경제협력전면에내세워",
+  "[단독]박문옥의원,국립의대선정절차반발'무기한단식'돌입",
+  "용인문화재단,무용감독에김시원선발…젊은감각기대",
+  "\"안전장치마련시급\"...오픈AI최고과학자,속도조절촉구",
+  "애니모프,AI검색화면에뜬답변과출처모아주는API내놨다"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-09-07T09:12:14.950412+09:00",
    "자원순환 RE ~SKT 자원순환의 캠페인 구성원과 Day FINE 맞아"
+  ],
+  [
+   "2026-09-07T09:16:14.520295+09:00",
+   "화면에 애니모프 답변과 API 내놨다 모아주는 검색 출처"
   ]
  ],
- "last_run": "2026-09-07T09:14:32.709581+09:00",
+ "last_run": "2026-09-07T09:16:36.615310+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
