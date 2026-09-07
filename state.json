@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=187498",
-  "https://www.newspim.com/news/view/20260904000212",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862214",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572491151882",
-  "http://www.bokuennews.com/news/article.html?no=283643",
-  "https://www.seoultimes.news/news/article.html?no=2000099513",
   "https://www.mt.co.kr/tech/2026/09/04/2026090408383832986",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=707484",
   "https://www.maxmovie.com/news/articleView.html?idxno=501687",
@@ -2999,15 +2993,15 @@
   "https://www.seoul.co.kr/news/economy/securities/2026/09/07/20260907500020?wlog_tag3=naver",
   "https://www.edaily.co.kr/News/Read?newsId=02214006645577824&mediaCodeNo=257",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=144054",
-  "https://www.veritas-a.com/news/articleView.html?idxno=626392"
+  "https://www.veritas-a.com/news/articleView.html?idxno=626392",
+  "https://www.etoday.co.kr/news/view/2622455",
+  "https://www.newsis.com/view/NISX20260907_0003778580",
+  "https://www.newspim.com/news/view/20260907000181",
+  "https://www.ajunews.com/view/20260907085737826",
+  "http://www.joseilbo.com/news/news_read.php?uid=575183&class=53",
+  "https://www.hankyung.com/article/2026090776866"
  ],
  "seen_titles": [
-  "서울우유,AI브랜드지수서우유부문1위기록",
-  "AI도인정…서울우유,생성형AI브랜드지수우유부문1위",
-  "서울우유,AI브랜드경쟁력우유부문1위",
-  "서울우유,'89년'브랜드파워AI도인정했다",
-  "서울우유,생성형AI브랜드분석서우유부문1위...종합57.6점",
-  "엔비디아'IFA2026'로컬AI접근성과성능높이는신기술과생태계공...",
   "서울우유,AI브랜드지수우유부문1위…종합57.6점",
   "[AIMY뉴스]4일중국증시'美증시훈풍영향속,성장주선별적장세...",
   "클라우드밖AI…엔비디아의새승부수",
@@ -6001,7 +5995,13 @@
   "[속보]“오픈AI땡큐”삼전4%·SK하이닉스5%↑…코스피3%상승출발",
   "[속보]오픈AI발호재에반도체株↑…코스피3%대올라6910선",
   "티빙,개인정보유출피해자대상보상신청개시...30일마감",
-  "한국에너지공대110억원AI최고급신진연구자사업지역주도형과제확..."
+  "한국에너지공대110억원AI최고급신진연구자사업지역주도형과제확...",
+  "[특징주]뉴욕반도체훈풍에…삼전·SK하닉장초반4%·6%대강세",
+  "미래에셋證,삼전40만원·SK하닉310만원으로목표가↑…\"HBM성장지속...",
+  "자율주행일상속으로…서울서미래모빌리티해법찾는다",
+  "[조용성의현실중국]시진핑방미동행할중국의기업인들",
+  "코스피,3%급등해6900선탈환...삼성전자·하이닉스동반강세",
+  "\"반도체는의심하지말라\"…젠슨황AGI선언삼전닉스'불기둥'"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,21 @@
   [
    "2026-09-07T09:22:14.907639+09:00",
    "한국에너지공대 최고급 사업 110억원 신진연구자 지역주도형 과제"
+  ],
+  [
+   "2026-09-07T09:24:13.232723+09:00",
+   "동행할 중국의 방미 시진핑 기업인들"
+  ],
+  [
+   "2026-09-07T09:24:13.232723+09:00",
+   "코스피 6900선 탈환 급등해 삼성전자 동반 강세 하이닉스"
+  ],
+  [
+   "2026-09-07T09:24:13.232723+09:00",
+   "선언 젠슨 삼전닉스 말라 불기둥 AGI 의심하지 반도체는"
   ]
  ],
- "last_run": "2026-09-07T09:22:39.930427+09:00",
+ "last_run": "2026-09-07T09:24:42.104612+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
