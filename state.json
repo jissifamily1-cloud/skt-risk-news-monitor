@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484656",
-  "http://www.joseilbo.com/news/news_read.php?uid=575219&class=53",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241448",
-  "https://www.boannews.com/news/articleView.html?idxno=145692",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484649",
-  "https://www.yna.co.kr/view/AKR20260907040051008?input=1195m",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3074537",
-  "https://www.etoday.co.kr/news/view/2622717",
-  "https://www.ajunews.com/view/20260907153902135",
-  "http://www.iminju.net/news/articleView.html?idxno=169154",
   "https://biz.heraldcorp.com/article/10865019",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/07/2026090700284.html",
   "http://okfashion.co.kr/detail.php?number=64079&thread=62r04",
@@ -2999,19 +2989,19 @@
   "https://www.ajunews.com/view/20260908131940495",
   "https://www.newscj.com/news/articleView.html?idxno=3430896",
   "https://www.asiatime.co.kr/article/20260907500336",
-  "https://www.etnews.com/20260908000212"
+  "https://www.etnews.com/20260908000212",
+  "https://www.sportsseoul.com/news/read/1633665",
+  "https://www.busan.com/view/busan/view.php?code=2026090811322644087",
+  "https://www.cwn.kr/news/articleView.html?idxno=55608",
+  "https://www.ize.co.kr/news/articleView.html?idxno=80571",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=300485",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=318449",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1014843",
+  "https://www.dizzotv.com/site/data/html_dir/2026/09/08/2026090880112.html",
+  "https://www.mk.co.kr/article/12146964",
+  "https://www.viva100.com/article/20260908500859"
  ],
  "seen_titles": [
-  "[칼럼]오솔길에서만난다산,오늘우리에게무엇을묻는가",
-  "코스피,돌아온외인·기관'사자'에4.61%상승…6990선마감",
-  "삼성전자·SK하이닉스뛰자소부장도폭등랠리…두산테스나는16%치솟았...",
-  "'삼전닉스강세'코스피,4.6%급등6900선마감...코스닥1%상승",
-  "AI스타트업젠스파크가제시하는'차세대AI'…\"모델에서서비스로\"",
-  "\"챗봇넘어직접행동하는AI시대왔다\"...에임인텔리전스,AI리스크...",
-  "[마감시황]코스피,외국인·기관동반매수에4.61%급등…7000선근접",
-  "[특징주]반도체훈풍에관련'소부장주'급등마감(종합)",
-  "IPARK현산미래건설신기술육성",
-  "\"구조대도착?\"…코스피6990선안착,개인8.2조'팔자'",
   "[마감시황]코스피7000선눈앞서마감…반도체질주에4.61%급등",
   "코스피,반도체주급등에4.61%↑…7000선턱밑",
   "‘이런주식창,얼마만이냐’8%이상급등…외국인돌아오니‘삼전닉...",
@@ -6001,7 +5991,17 @@
   "샘올트먼\"AI가창업문턱낮춰…아이디어형인재가치높아져\"",
   "\"AI켰다면이제맡겨라\"…오픈AI가제시한기업AX3단계",
   "[산업뉴스브리핑]소니코리아,상반기풀프레임미러리스시장1위…13...",
-  "S2W,범죄수사특화AI에이전트출시…자비스에탑재"
+  "S2W,범죄수사특화AI에이전트출시…자비스에탑재",
+  "LG,잔여경기일정‘스타트’…‘선발공백’극복할기회→최상위권...",
+  "인공지능스마트시티화려한등장…벡스코서‘월드스마트시티엑스포...",
+  "스마트시티다음은'AI도시'…부산벡스코에277개기업모인다",
+  "'신병4',김민호X김요한굳은얼굴...2중대에무슨일이?",
+  "\"웰컴투폴더블\"삼성전자,세계주요도시서갤럭시Z폴드8옥외광고",
+  "삼성전자,서울·도쿄·런던서'갤럭시Z폴드8'옥외광고",
+  "KT,KAIST·다임리서치와손잡고'피지컬AI'연구개발",
+  "KT,KAIST·다임리서치와피지컬AI로‘다크팩토리’구현",
+  "KT,KAIST와피지컬AI동맹…다크팩토리개발나선다",
+  "롯데,11일사직KT전서故최동원15주기추모"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-09-08T13:46:21.682739+09:00",
    "오픈AI가 기업 이제 제시한 AX 켰다면 3단계 맡겨라"
+  ],
+  [
+   "2026-09-08T13:50:24.954660+09:00",
+   "KT전서 사직 15주기 11일 롯데 추모 최동원 ~KT"
   ]
  ],
- "last_run": "2026-09-08T13:48:33.382360+09:00",
+ "last_run": "2026-09-08T13:50:42.448511+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
