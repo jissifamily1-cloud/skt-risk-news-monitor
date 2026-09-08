@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=201385",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=201387",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=358567",
-  "https://futurechosun.com/?p=159570",
-  "http://www.koreastocknews.com/news/articleView.html?idxno=121046",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=880068",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=261471",
   "https://www.kyosu.net/news/articleView.html?idxno=209900",
   "https://www.topdaily.kr/articles/111831",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160293690630930",
@@ -2999,16 +2992,16 @@
   "https://www.hellot.net/news/article.html?no=114695",
   "https://www.mt.co.kr/tech/2026/09/01/2026090117292868168",
   "https://www.lawtimes.co.kr/news/articleView.html?idxno=225877",
-  "https://biz.chosun.com/it-science/ict/2026/09/08/OMNDZWVEFNAPREU3VGOHUBLJAI/"
+  "https://biz.chosun.com/it-science/ict/2026/09/08/OMNDZWVEFNAPREU3VGOHUBLJAI/",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446621",
+  "http://www.finomy.com/news/articleView.html?idxno=261016",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=85687",
+  "https://www.newspim.com/news/view/20260908000663",
+  "https://www.todayenergy.kr/news/articleView.html?idxno=302687",
+  "https://www.m-i.kr/news/articleView.html?idxno=1411421",
+  "https://www.greened.kr/news/articleView.html?idxno=349307"
  ],
  "seen_titles": [
-  "[동정]추경호대구광역시장",
-  "대구교통공사,94개전역사에자동화기기...'공유우·양산무료대여...",
-  "\"'인다이렉트인젝션'해커공격,듀얼LLM으로방어가능\"",
-  "[더밸류브리핑]오늘의생명보험소식…생명보험협회·교보생명·교보...",
-  "[더밸류브리핑]오늘의생명보험소식…삼성생명·동양생명·KDB생명",
-  "신한은행,서초구·서울신보와양재'AI·ICT유니콘'떡잎키운다",
-  "AI시대,필란트로피전략은?…“단순기부넘어생태계가뭉쳐야”",
   "SK에코플랜트,'2026콘테크미트업데이'공모전개최",
   "삼전·닉스3분기실적기대치↑...주가반등세지속에관심집중",
   "[A증권가소식]하나증권,차세대MTS론칭...개인맞춤형AI서비스탑...",
@@ -6001,7 +5994,14 @@
   "[헬로스톡]9/1주목할종목:LG유플러스·SK텔레콤·SK이노베이션·현...",
   "\"AI로일자리가사라지나요?\"정재헌SKTCEO의대답은?",
   "구글·메타·테슬라…빅테크는소송중",
-  "출시4년된엔비디아H100몸값역주행…한달새대여료22%증"
+  "출시4년된엔비디아H100몸값역주행…한달새대여료22%증",
+  "[김재섭의뒤집어보기]6G상용화일정갈수록안갯속,'통신본업충실...",
+  "SKT,'T로밍데이터추가'연말까지연장⋯가족로밍505만명",
+  "최태원회장\"韓日뭉치면6조달러경제권…더강력한교섭력·발언권...",
+  "잇단개인정보유출에'집단소송제확대'움직임…법원은업무가중",
+  "원자력학회'AI시대전원믹스·시장제도심포지엄'개최",
+  "[기획]4대그룹상생금융7조시대…'상생돈줄'2·3차까지넓힌다",
+  "[AI비즈니스]엔비디아,AI개발자플랫폼‚허깅페이스'전격인수—..."
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,29 @@
   [
    "2026-09-08T15:26:16.558799+09:00",
    "사업화 무인공장 시동 ~KT 만든다 KAIST와 피지컬"
+  ],
+  [
+   "2026-09-08T15:34:14.233824+09:00",
+   "상용화 통신본업 충실 일정 안갯속 6G 갈수록"
+  ],
+  [
+   "2026-09-08T15:34:14.233824+09:00",
+   "업무 확대 집단소송제 잇단 법원은 개인정보 가중 유출에 움직임"
+  ],
+  [
+   "2026-09-08T15:34:14.233824+09:00",
+   "시장제도 원자력학회 심포지엄 전원믹스 개최 시대"
+  ],
+  [
+   "2026-09-08T15:34:14.233824+09:00",
+   "3차까지 돈줄 넓힌다 7조 상생 4대그룹 시대 상생금융"
+  ],
+  [
+   "2026-09-08T15:34:14.233824+09:00",
+   "전격 개발자 인수 플랫폼 허깅페이스"
   ]
  ],
- "last_run": "2026-09-08T15:32:31.379520+09:00",
+ "last_run": "2026-09-08T15:34:45.395210+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
