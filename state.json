@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wsobi.com/news/articleView.html?idxno=317716",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484692",
-  "http://www.4th.kr/news/articleView.html?idxno=2117596",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687334",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687338",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687370",
-  "https://www.etnews.com/20260907000375",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687367",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687363",
-  "https://zdnet.co.kr/view/?no=20260907161050",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201385",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201387",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=358567",
@@ -2999,19 +2989,19 @@
   "https://www.newspost.kr/news/articleView.html?idxno=225516",
   "https://www.mk.co.kr/article/12147107",
   "http://www.metroseoul.co.kr/article/20260908500287",
-  "http://www.finomy.com/news/articleView.html?idxno=261017"
+  "http://www.finomy.com/news/articleView.html?idxno=261017",
+  "https://zdnet.co.kr/view/?no=20260908144038",
+  "https://www.etnews.com/20260908000304",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260908010002731",
+  "https://www.ytn.co.kr/_ln/0102_202609030919127922",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1722673",
+  "https://www.segye.com/newsView/20260902508333?OutUrl=naver",
+  "https://www.hellot.net/news/article.html?no=114695",
+  "https://www.mt.co.kr/tech/2026/09/01/2026090117292868168",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=225877",
+  "https://biz.chosun.com/it-science/ict/2026/09/08/OMNDZWVEFNAPREU3VGOHUBLJAI/"
  ],
  "seen_titles": [
-  "[신상품]빕스'생무화과판나코타'외",
-  "SK텔레콤주가,9월7일93,800원1.41%상승마감",
-  "비트코인연계‘리퀴드네트워크’해킹…4300억원상당탈취",
-  "CJ푸드빌,빕스·제일제면소가을신메뉴출시",
-  "[100대기업]5%이상급등종목만14개...'KRX반도체지수'업종상승률...",
-  "KT'티오더기술탈취'의혹재점화",
-  "추경호대구광역시장,재난대응협력체계구축...육군50사단업무협약...",
-  "추경호대구광역시장,200여명참석한청렴실천결의대회개최",
-  "[동정]김정기대구광역시행정부시장",
-  "[사설]정보보안시장쓰나미,방책세워야",
   "[동정]추경호대구광역시장",
   "대구교통공사,94개전역사에자동화기기...'공유우·양산무료대여...",
   "\"'인다이렉트인젝션'해커공격,듀얼LLM으로방어가능\"",
@@ -6001,7 +5991,17 @@
   "김경훈오픈AI한국총괄\"AI산출량향상,'데이터연결'이핵심\"[리얼...",
   "일레븐랩스,오픈AI출신CRO영입…기업용AI사업키운다",
   "\"AGI시대\"선언한오픈AI…같은날美의회는\"핵무기처럼처벌\"법안...",
-  "KT,KAIST와'무인공장'만든다⋯피지컬AI사업화'시동'"
+  "KT,KAIST와'무인공장'만든다⋯피지컬AI사업화'시동'",
+  "시높시스,삼성2나노공정AI칩설계22%줄였다…\"韓생태계전방위협...",
+  "시높시스,'컨버지코리아2026'개최…AI기반엔지니어링혁신논의",
+  "[IFA2026]반도체·휴머노이드로'넓어진무대'…IFA,차별화는과제",
+  "외국인·기관..사라진매수주체에도,버티는'코스피6500선'의비밀",
+  "SKT'AIDC올인'에기업가치재평가…본업정체·투자는부담",
+  "“투자는대중이의심할때해야”…반도체외주목할분야는",
+  "[헬로스톡]9/1주목할종목:LG유플러스·SK텔레콤·SK이노베이션·현...",
+  "\"AI로일자리가사라지나요?\"정재헌SKTCEO의대답은?",
+  "구글·메타·테슬라…빅테크는소송중",
+  "출시4년된엔비디아H100몸값역주행…한달새대여료22%증"
  ],
  "recent_sigs": [
   [
@@ -6493,7 +6493,7 @@
    "사업화 무인공장 시동 ~KT 만든다 KAIST와 피지컬"
   ]
  ],
- "last_run": "2026-09-08T15:26:33.938268+09:00",
+ "last_run": "2026-09-08T15:28:34.198912+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
