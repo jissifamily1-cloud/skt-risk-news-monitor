@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12317100?influxDiv=NAVER",
-  "https://www.etnews.com/20260907000374",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687191",
-  "https://www.the-today.com/news/articleView.html?idxno=89659",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3687147",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467466",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862772",
-  "https://www.segye.com/newsView/20260907511301?OutUrl=naver",
-  "https://game.donga.com/124151/",
-  "https://www.segye.com/newsView/20260907507379?OutUrl=naver",
   "http://www.finomy.com/news/articleView.html?idxno=260918",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2467464",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5058760",
@@ -2999,19 +2989,19 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=742479",
   "https://www.tokenpost.kr/news/ai/404089",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=484941",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=742484"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=742484",
+  "https://www.hankyung.com/article/2026090669511",
+  "https://www.mt.co.kr/industry/2026/09/08/2026090715000976843",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=87960",
+  "https://www.econovill.com/news/articleView.html?idxno=750174",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241465",
+  "https://www.kpinews.kr/newsView/1065584323387451",
+  "https://www.onews.tv/news/articleView.html?idxno=286537",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8657621",
+  "https://www.aitimes.com/news/articleView.html?idxno=214976",
+  "https://byline.network/?p=9004111222618837"
  ],
  "seen_titles": [
-  "[전문]박용진\"한동훈,정치검찰때하던일그대로하는중\"",
-  "韓6G비전공개석달앞으로…AI인프라생태계중심선언",
-  "[동정]문정우금산군수",
-  "獨극우AfD,작센안할트주선거압승…43.8%로제1당",
-  "[포토]금산글로벌인삼,독일프랑크푸르트접수합니다.",
-  "알뜰폰가입자수4개월만에반등···정부지원책효과커질까",
-  "테팔,추석맞이최대58%할인전",
-  "목표가67만원·470만원제시…증권가,삼성전자·SK하이닉스‘강력매...",
-  "스위치2도60FPS로2K,'NBA2K27'정식출시",
-  "“‘지브리풍’AI그림,의미도재미도없다”…원조의쓴소리",
   "신한은행,서초구·서울신보와AI·ICT기업성장지원",
   "[남동구소식]\"소래포구가들썩인다외",
   "씨엔티테크,네이버클라우드와초기창업기업협업밋업모집",
@@ -6001,7 +5991,17 @@
   "삼성전자,세계주요도시서'갤럭시Z폴드8'옥외광고집행",
   "576GBAI워크스테이션,AMD2027년출시예정",
   "KT,KAIST·다임리서치와피지컬AI동맹…제조공정자율화기술개발",
-  "KT·KAIST·다임리서치,피지컬AI업무협약…자율제조플랫폼구축"
+  "KT·KAIST·다임리서치,피지컬AI업무협약…자율제조플랫폼구축",
+  "한화·신세계도쪼갠다…대기업사업재편핵심수단된인적분할",
+  "그래비티벤처스,AP시스템과딥테크·소부장스타트업위한오픈이노베...",
+  "코스피,7000선회복…골드만삭스는'1만2000'전망유지",
+  "[삼성SDS인사이트⑦]\"답을찾는AI에서일을하는AI로\"",
+  "[현장]삼성SDS,AI도입넘어'성과'로…다차원풀스택전략제시",
+  "반도체주강세에코스피7천선회복",
+  "증권사,신규서비스·이벤트로고객확보경쟁…파생상품부터MTS까지",
+  "미국이AGI로가는길을한국이앞당긴다고요?[뉴스in뉴스]",
+  "오픈AI,29일데브데이서인프라구축없는'관리형에이전트'공개유력",
+  "[그게뭔가요]오픈AI에이전트들이훔친‘비밀게시판’"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,17 @@
   [
    "2026-09-08T12:56:17.262642+09:00",
    "행보 나서나 SK 자본동맹 9년 고심 키옥시아 재정의 최태원의 독자"
+  ],
+  [
+   "2026-09-08T13:00:33.291276+09:00",
+   "게시판 에이전트들이 훔친 비밀"
+  ],
+  [
+   "2026-09-08T13:00:33.291276+09:00",
+   "구축 공개 관리형 29일 인프라 데브데이서 유력 에이전트 없는"
   ]
  ],
- "last_run": "2026-09-08T12:58:34.370532+09:00",
+ "last_run": "2026-09-08T13:00:52.935109+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
