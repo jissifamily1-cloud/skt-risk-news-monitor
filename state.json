@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstopkorea.com/news/articleView.html?idxno=47540",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=226841",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=226838",
-  "https://www.yna.co.kr/view/AKR20260909106200091?input=1195m",
-  "https://www.donga.com/news/Economy/article/all/20260909/134634646/1",
   "https://www.mediapen.com/news/view/1122344",
   "https://www.etnews.com/20260909000261",
   "https://www.etnews.com/20260909000263",
@@ -2999,14 +2994,14 @@
   "https://www.naeil.com/news/read/601588",
   "https://biz.sbs.co.kr/article_hub/20000333667?division=NAVER",
   "https://www.aitimes.com/news/articleView.html?idxno=214985",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169709"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092169709",
+  "http://www.newsprime.co.kr/news/article.html?no=747147",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=605251",
+  "https://zdnet.co.kr/view/?no=20260910083708",
+  "https://www.wikitree.co.kr/articles/1158501",
+  "http://coinreaders.com/257463"
  ],
  "seen_titles": [
-  "구글크롬,이제2주마다업데이트…AI가바꾼보안환경",
-  "김종철\"청소년SNS플랫폼책임이기본…허위조작정보입법보완필요...",
-  "방미통위,‘지상파UHD’재검토단계…“미디어환경급변”",
-  "최태원,재산분할2440억원만다툰다…7천억원은인정",
-  "스마게권혁빈이혼1심,2.5조원대재산분할…국내최대",
   "LG유플러스,석·박사과정인재초청현직기술전문가교류행사'유플...",
   "최태원,노소영재산분할금7000억은받아들인다…2440억은끝까지다툼",
   "'패패패패패승패'두산초대형소식떴다!KBO36승좌완컴백일확정,...",
@@ -6001,7 +5996,12 @@
   "고교생위한공학기술창업멘토링",
   "인간명령어긴괴물AI…아스트라\"AGI도래했다\"",
   "아이렌\"AI컴퓨팅수요무한확장...공급이수요못따라가\"",
-  "유효기간제폐지3년째…해외게임사개인정보보관'깜깜이'"
+  "유효기간제폐지3년째…해외게임사개인정보보관'깜깜이'",
+  "[해외시황]뉴욕증시,유가100달러돌파·국채금리급등에'하락'…나스...",
+  "반도체주장중강세…SK하이닉스3%대·장비주도상승,뉴욕증시와는다...",
+  "정재헌SKT,아시아AI협력넓힌다…GSMA와인프라·신뢰논의",
+  "반도체판도뒤집히나…엔비디아떨어지는데급등한'이곳'",
+  "월가거물들,XRP조용히'사재기'...\"엔비디아(NVDA)·애플(AAPL)비중도..."
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,21 @@
   [
    "2026-09-10T08:38:15.437282+09:00",
    "도래 선언에도 AGI 주가는 젠슨 하락"
+  ],
+  [
+   "2026-09-10T08:42:16.873917+09:00",
+   "GSMA와 신뢰 인프라 ~SKT 논의 넓힌다 협력 아시아"
+  ],
+  [
+   "2026-09-10T08:42:16.873917+09:00",
+   "판도 뒤집히나 반도체 급등한 이곳 떨어지는데"
+  ],
+  [
+   "2026-09-10T08:42:16.873917+09:00",
+   "비중도 조용히 XRP AAPL 애플 NVDA 사재기 월가 거물들"
   ]
  ],
- "last_run": "2026-09-10T08:40:43.252731+09:00",
+ "last_run": "2026-09-10T08:42:45.516495+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
