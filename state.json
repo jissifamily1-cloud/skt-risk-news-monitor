@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8096809",
-  "https://www.news1.kr/photos/8096811",
-  "https://www.news1.kr/photos/8096812",
-  "https://www.widedaily.com/news/articleView.html?idxno=300840",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6850187_37004.html",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318088",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245546",
   "https://www.mt.co.kr/tech/2026/09/08/2026090816125675722",
   "https://www.koreatimes.co.kr/path/A2026090912260005447",
   "https://www.cbci.co.kr/news/articleView.html?idxno=605223",
@@ -2999,16 +2992,16 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000009887&cp=nv",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8656709",
   "https://www.etoday.co.kr/news/view/2623653",
-  "https://www.sidae.com/article/2026090210173121856"
+  "https://www.sidae.com/article/2026090210173121856",
+  "https://www.mediapen.com/news/view/1122501",
+  "https://www.sedaily.com/article/20089047",
+  "https://www.g-enews.com/view.php?ud=202609100605213201e250e8e188_1",
+  "https://www.g-enews.com/view.php?ud=2026090922035542410c8c1c064d_1",
+  "https://www.segye.com/newsView/20260909517081?OutUrl=naver",
+  "https://www.news1.kr/life-culture/book/6285594",
+  "https://www.newspim.com/news/view/20260910000036"
  ],
  "seen_titles": [
-  "'최지만·고교최대어들향한시선'2027KBO신인드래프트21일개최",
-  "한국방송통신전파진흥원,5G특화망에AI·양자보안접목…4대R&D성과...",
-  "한·중앙아정상회의16일서울도심교통통제…소월로6~7차례막힌다",
-  "194억경찰보디캠사업에중국산납품의혹수사",
-  "빅테크손잡은삼성SDS,'AI전환'넘어'로봇전환'까지영역확장",
-  "데이터센터를컴퓨터한대처럼…KAIST,CXL연결구조제시",
-  "허깅페이스소형로봇'마이크로덕'⋯한달안돼15000대판매",
   "네이버,프랑스를기점으로유럽AI시장정조준",
   "\"전화안받아도감염\"...AI가개발한'클릭제로'모바일해킹도구등...",
   "SK텔레콤,연말까지'T로밍데이터추가'프로모션기간연장",
@@ -6001,7 +5994,14 @@
   "‘AI,막거나쓰거나’美학교딜레마",
   "정부,‘AI안경안전이용’가이드라인마련돌입",
   "토큰증권시행D-5개월...\"맞춤형판짠다\"vs\"비용아끼자\"[증권가코...",
-  "주요국은이미마련한AIDC지원방안"
+  "주요국은이미마련한AIDC지원방안",
+  "[美증시]유가100달러돌파에3대지수또하락…메모리는급등랠리",
+  "슈퍼컴6호기‘한강’12월가동…세계10위권성능기대",
+  "월가\"마이크론좋지만SK하이닉스는더강력…AI메모리승자하이닉...",
+  "\"몸값100조원정조준\"…中AI'딥시크',상하이스타마켓상장주관사...",
+  "‘경찰보디캠’보안이유중국산뺀다더니…우회납품의혹업체수사",
+  "엔비디아·샤넬백·소금빵으로본환율이야기",
+  "[미국특징주]앤스로픽,클로드관련네번째사이버보안사고공개"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,17 @@
   [
    "2026-09-10T06:08:15.582364+09:00",
    "방안 주요국은 이미 AIDC 마련한 지원"
+  ],
+  [
+   "2026-09-10T06:12:16.594704+09:00",
+   "샤넬백 소금빵으로 환율 이야기"
+  ],
+  [
+   "2026-09-10T06:12:16.594704+09:00",
+   "클로드 공개 번째 사고 사이버보안"
   ]
  ],
- "last_run": "2026-09-10T06:10:44.945056+09:00",
+ "last_run": "2026-09-10T06:12:37.311111+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
