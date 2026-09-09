@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852919",
-  "https://www.ceoscoredaily.com/page/view/2026090814265380491",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=204227",
-  "https://www.khan.co.kr/article/202609081707001",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7183115",
-  "https://www.news1.kr/it-science/internet-platform/6283868",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=44693",
-  "https://www.yna.co.kr/view/AKR20260908144900017?input=1195m",
-  "http://www.inews24.com/view/2003367",
   "https://www.jejumaeil.net/news/articleView.html?idxno=404502",
   "https://view.asiae.co.kr/article/2026090817090370434",
   "https://www.bloter.net/news/articleView.html?idxno=673089",
@@ -2999,18 +2990,18 @@
   "http://www.globalepic.co.kr/view.php?ud=20260909130958510348439a4874_29",
   "https://www.naeil.com/news/read/601689",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=44716",
-  "https://www.hankyung.com/article/202609093771i"
+  "https://www.hankyung.com/article/202609093771i",
+  "https://www.nocutnews.co.kr/news/6575451",
+  "https://www.etnews.com/20260909000205",
+  "https://www.kyeonggi.com/article/20260909580169",
+  "http://www.yonhapnewstv.co.kr/news/MYH2026090913143127G",
+  "https://www.nocutnews.co.kr/news/6574992",
+  "https://www.cstimes.com/news/articleView.html?idxno=719990",
+  "http://www.inews24.com/view/2003668",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=863558",
+  "https://www.aitimes.com/news/articleView.html?idxno=215039"
  ],
  "seen_titles": [
-  "'7천피'찍고밀린코스피…중동리스크에6954",
-  "⑨(디저트제국의두얼굴)SPC점주들이말하는매출·수익‘괴리’",
-  "AI데이터센터투자에전력기기수요확대…중소제조사,생산능력확보",
-  "이광재\"교산신도시,포스텍등유치해AI자족도시\"",
-  "'최연소40홈런무산'김도영오히려홀가분하게나올까,8일삼성전도...",
-  "젠지·한화생명‧T1…LCK왕좌놓고마지막승부[쿠키현장]",
-  "김도영최연소는실패,대신팀최다타이도전→40호홈런오늘은나올...",
-  "‘신병4’김민호·김동준살얼음분위기포착",
-  "SK텔레콤,연말까지'T로밍데이터추가'프로모션기간연장",
   "방미통위원장“허위정보감독권취약…입법보완필요”",
   "방미통위원장\"허위조작정보감독권법적근거취약…입법보완해야\"",
   "이강철KT감독\"정준재잘하면이기기어려워\"",
@@ -6001,7 +5992,16 @@
   "삼성오너일가주식가치첫100조돌파…이재용47조",
   "국회-경제계,‘국회경제대도약위원회’출범",
   "국회경제대도약위원회출범,조정식\"초당적국가전략플랫폼만들것...",
-  "[포토]경제대도약위원회출범"
+  "[포토]경제대도약위원회출범",
+  "'최지만·고교최대어들향한시선'2027KBO신인드래프트21일개최",
+  "한국방송통신전파진흥원,5G특화망에AI·양자보안접목…4대R&D성과...",
+  "한·중앙아정상회의16일서울도심교통통제…소월로6~7차례막힌다",
+  "194억경찰보디캠사업에중국산납품의혹수사",
+  "빅테크손잡은삼성SDS,'AI전환'넘어'로봇전환'까지영역확장",
+  "데이터센터를컴퓨터한대처럼…KAIST,CXL연결구조제시",
+  "허깅페이스소형로봇'마이크로덕'⋯한달안돼15000대판매",
+  "네이버,프랑스를기점으로유럽AI시장정조준",
+  "\"전화안받아도감염\"...AI가개발한'클릭제로'모바일해킹도구등..."
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,13 @@
   [
    "2026-09-09T13:18:16.399112+09:00",
    "출범 경제대도약위원회"
+  ],
+  [
+   "2026-09-09T13:20:23.898965+09:00",
+   "받아도 감염 제로 모바일 도구 전화 클릭 AI가 개발한"
   ]
  ],
- "last_run": "2026-09-09T13:18:37.448255+09:00",
+ "last_run": "2026-09-09T13:20:45.126517+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
