@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3688373",
-  "https://www.theguru.co.kr/news/article.html?no=106833",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3688382",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=908347",
-  "https://www.m-i.kr/news/articleView.html?idxno=1411294",
-  "http://www.newsbrite.net/news/articleView.html?idxno=200243",
-  "https://www.busan.com/view/busan/view.php?code=2026090814202886934",
-  "https://www.newsis.com/view/NISX20260908_0003780529",
-  "https://www.kukinews.com/article/view/kuk202609080126",
   "https://www.yna.co.kr/view/AKR20260908099000009?input=1195m",
   "https://economist.co.kr/article/view/ecn202609080024",
   "https://www.dizzotv.com/site/data/html_dir/2026/09/08/2026090880120.html",
@@ -2999,18 +2990,18 @@
   "https://www.econovill.com/news/articleView.html?idxno=750270",
   "http://www.iminju.net/news/articleView.html?idxno=169162",
   "https://www.etoday.co.kr/news/view/2623484",
-  "https://www.mk.co.kr/article/12147996"
+  "https://www.mk.co.kr/article/12147996",
+  "https://www.inews365.com/news/article.html?no=934967",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3689451",
+  "http://www.aptn.co.kr/news/articleView.html?idxno=112823",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3689445",
+  "https://www.etnews.com/20260909000139",
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=908487",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3689435",
+  "https://www.etoday.co.kr/news/view/2623488",
+  "https://zdnet.co.kr/view/?no=20260909095702"
  ],
  "seen_titles": [
-  "분산투자?집중투자?…통신3사,AI스타트업전략‘두갈래’",
-  "9~11일부산서'월드스마트시티엑스포'...김윤덕\"미래도시로서K-AI...",
-  "제주자치경찰단,치안안전망강화한다...민간안전활동연결",
-  "\"야구는전투다\"눈빛달라진NC김휘집,공수겸장내야수로",
-  "디지털익스트림즈,'워프레임''소울프레임'가을업데이트공개",
-  "AI최적화업체노타,LG전자와인간형로봇개발",
-  "[현장]TCM\"AI병목메모리·포토닉스·우주\"…인컴형ETF확대",
-  "HBM4출하본격화로시장요동…메모리3사경쟁격화",
-  "4년된엔비디아H100몸값이‘껑충’…AI열풍에구형칩역주행",
   "제주자살률전국최고…제주MBC,사회가놓친'마지막신호'추적",
   "현대차,인도성장판‘농촌’서찾았다…판매증가율도시의8배",
   "대전직업계고12곳한자리에…'DJ입시박람회'2000여명참여",
@@ -6001,7 +5992,16 @@
   "네이버,AI팩토리와소버린AI로한국과프랑스연결하다",
   "두산밥캣,작업보조AI상용화…소형장비지능화이끌까",
   "최수연네이버대표“프랑스와손잡고유럽AI팩토리구축”",
-  "“중국이미국AI기술대규모로빼갔다”…美,딥시크·알리바바지목"
+  "“중국이미국AI기술대규모로빼갔다”…美,딥시크·알리바바지목",
+  "40억들여구룡초앞'거미줄전선'땅속으로…영동군용산면1㎞지중화",
+  "강민국국회의원,진주시대곡면'상습침수해결'발벗고나서",
+  "[전문가기고]관리사무소폐쇄",
+  "대구시수성구,사회서비스전자바우처종사자100명대상부정수급예...",
+  "코닝,버라이즌과수십억달러규모광섬유공급계약",
+  "영동군,용산면구룡초통학로전선지중화사업추진",
+  "[포토]김대권수성구청장,모범다문화가정표창수여",
+  "SKB노조,DC분사관련구성원보호대책요구…\"대책없이분사동의못...",
+  "AI가100배빠르게통신망공격…통신사35%대응체계없다"
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,17 @@
   [
    "2026-09-09T10:40:20.943854+09:00",
    "빼갔다 대규모로 기술 알리바바 중국이 지목 딥시크 미국"
+  ],
+  [
+   "2026-09-09T10:42:16.029336+09:00",
+   "분사 DC 요구 SKB 보호대책 대책 노조 구성원 없이 동의"
+  ],
+  [
+   "2026-09-09T10:42:16.029336+09:00",
+   "대응체계 공격 빠르게 AI가 없다 통신망 100배"
   ]
  ],
- "last_run": "2026-09-09T10:40:45.994354+09:00",
+ "last_run": "2026-09-09T10:42:40.598411+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
