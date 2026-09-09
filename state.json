@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609080420&t=NN",
-  "https://www.mediawatch.kr/news/article.html?no=260948",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=207996",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=207994",
-  "https://www.m-i.kr/news/articleView.html?idxno=1411480",
-  "https://www.newspim.com/news/view/20260908000984",
-  "https://www.joongang.co.kr/article/25460120",
-  "https://www.tleaves.co.kr/news/articleView.html?idxno=9810",
-  "https://www.livesnews.com/news/article.html?no=63997",
-  "https://sports.donga.com/it/article/all/20260908/134626381/1",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006372",
   "https://www.dailian.co.kr/news/view/1687860/?sc=Naver",
   "https://www.xportsnews.com/article/2193473",
@@ -2999,19 +2989,19 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=605093",
   "https://www.kukinews.com/article/view/kuk202609090091",
   "http://www.yonhapnewstv.co.kr/news/AKR20260909115306cjz",
-  "https://www.econovill.com/news/articleView.html?idxno=750286"
+  "https://www.econovill.com/news/articleView.html?idxno=750286",
+  "https://www.yna.co.kr/view/AKR20260909096100009?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3689578",
+  "https://www.mt.co.kr/tech/2026/09/09/2026090911202986470",
+  "https://www.newscj.com/news/articleView.html?idxno=3431236",
+  "https://www.newscj.com/news/articleView.html?idxno=3431238",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=863546",
+  "https://www.newscj.com/news/articleView.html?idxno=3431235",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2468483",
+  "https://www.newscj.com/news/articleView.html?idxno=3431234",
+  "http://www.nongaek.com/news/articleView.html?idxno=96719"
  ],
  "seen_titles": [
-  "류제명과기2차관\"IITP개인정보유출잇따라송구…재발대책강구\"",
-  "강남언니,시술·상담내역까지뚫렸다..22만명개인정보유출",
-  "'유의종목지정'인젝티브,나흘째상승…11%'쑥'[특징코인]",
-  "오픈AI'GPT-6아스트라'가연업무위임시대",
-  "증권가도\"이유를모르겠다\"…악재없이15%내린NHN",
-  "지구24바퀴길이광케이블…\"인터넷끊겼어요\"신고한통에KT계열사...",
-  "\"AGI시대열었다\"…챗GPT아스트라,삼전닉스'HBM장기호황'새동력?",
-  "플랫폼이자료안내도속수무책…방미통위원장“감독권취약해입법...",
-  "대전중구,효문화뿌리축제막바지준비…'뿌리'정체성강화",
-  "국민의힘대전시당\"공무원사망에허태정시장침묵…책임있게설명해...",
   "이준희삼성SDS대표\"AX역량앞세워2027년로봇플랫폼사업본격화\"",
   "하나증권,새MTS'하나증권V'기념이벤트진행",
   "삼성SDS,‘다차원AI풀스택’으로기업AX혁신가속화",
@@ -6001,7 +5991,17 @@
   "LG유플러스,'2026U+TECHPLUS'개최…AI·네트워크등23개세션진행",
   "오픈AI코리아1년…韓기업챗GPT도입28배늘었다[현장+]",
   "[단독]최태원,재산분할재상고심서2,440억원만다툰다…법원에감축...",
-  "[한국,그리고오픈AI③]김경훈대표\"한국은AI하기좋은나라…가장..."
+  "[한국,그리고오픈AI③]김경훈대표\"한국은AI하기좋은나라…가장...",
+  "말레이보르네오섬에서닥터헬기추락…의료진등5명사망",
+  "경남도교육청,2027학년도유치원·초등·특수교사256명선발",
+  "AX·6G시대통신산업해법찾는다…정부·이통3사한자리",
+  "[포토]'국회경제대도약위원회출범'최태원대한상의회장발언",
+  "[포토]'국회경제대도약위원회출범'발언하는최태원대한상의회장",
+  "국회·재계손잡고'경제대도약위'미래성장이끈다",
+  "[포토]'국회경제대도약위원회출범'발언하는최태원",
+  "국회·경제계'경제대도약위'출범···기업현안상시입법통로만든...",
+  "[포토]발언하는최태원대한상의회장",
+  "[성명]'요금경감'서1천만알뜰폰가입자뺀이상한통신정책…제도..."
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,13 @@
   [
    "2026-09-09T11:56:14.727422+09:00",
    "한국은 대표 AI하기 가장 김경훈 나라 좋은"
+  ],
+  [
+   "2026-09-09T12:00:33.466523+09:00",
+   "1천만 가입자 통신정책 알뜰폰 제도 이상한 요금경감"
   ]
  ],
- "last_run": "2026-09-09T11:58:34.446658+09:00",
+ "last_run": "2026-09-09T12:00:52.694458+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
