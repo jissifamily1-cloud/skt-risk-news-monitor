@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6574992",
-  "https://www.cstimes.com/news/articleView.html?idxno=719990",
-  "http://www.inews24.com/view/2003668",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=863558",
-  "https://www.aitimes.com/news/articleView.html?idxno=215039",
-  "http://www.bizwnews.com/news/articleView.html?idxno=145647",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260909131803ozZ",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16187745",
   "https://www.boannews.com/news/articleView.html?idxno=145738",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8657786",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549480",
@@ -2999,17 +2991,17 @@
   "https://www.nytimes.com/2026/09/09/opinion/openai-ai-companies-safety-regulation.html?partner=naver",
   "https://www.tokenpost.kr/news/breaking/405436",
   "https://www.fnnews.com/news/202609100501061322",
-  "https://www.fnnews.com/news/202609100334516116"
+  "https://www.fnnews.com/news/202609100334516116",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=605191",
+  "https://sateconomy.co.kr/news/view/1065597320357413",
+  "https://www.ytn.co.kr/_ln/0102_202609090917215225",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4105112",
+  "https://www.thisisgame.com/articles/429681",
+  "https://www.fnnews.com/news/202609071832395451",
+  "https://www.mk.co.kr/article/12147202",
+  "https://www.dailian.co.kr/news/view/1687860/?sc=Naver"
  ],
  "seen_titles": [
-  "네이버계열사첫부분파업…임금동결에멈춰선네이버제트",
-  "그룹아이비\"랜섬웨어조직'독립화·경쟁조직흡수'로기존RaaS생태계...",
-  "레노버·모토로라,개인용AI‘Qira’PC·스마트폰·웨어러블로적용...",
-  "‘AI,막거나쓰거나’美학교딜레마",
-  "정부,‘AI안경안전이용’가이드라인마련돌입",
-  "한컴이노스트림,엔비디아와AI인재양성…에이전트·로보틱스실무교...",
-  "최태원·노소영,대법서2440억원만다툰다…崔,7000억원은인정",
-  "래브라도랩스,공급망노리는악성오픈소스패키지,도입전막는다",
   "경기남부청,경찰보디캠중국산납품의혹수사",
   "삼성오너일가주식가치첫100조돌파…이재용47조",
   "국회-경제계,‘국회경제대도약위원회’출범",
@@ -6001,7 +5993,15 @@
   "IWorkedonSafetyatOpenAI.ThisIsWhatItShouldDoNow.",
   "펌프펀,테슬라·엔비디아등토큰화주식페어링지원",
   "[속보][뉴욕증시]유가급등에사흘연속하락…엔비디아,0.9↓",
-  "구글,'유럽의텍사스'핀란드에130억유로AI인프라투자"
+  "구글,'유럽의텍사스'핀란드에130억유로AI인프라투자",
+  "[기업家]네이버⑰ㅣ보안AI부터디지털헬스케어까지…신사업가속",
+  "로밍혜택늘리고제조AI·홈캠확장…통신3사서비스다변화",
+  "\"오!아스트라,이번엔'실기'하지마세요!\"반도체9회중5회",
+  "[금융한입]다시뜨거워진반도체주…삼전닉스어디까지",
+  "디지털익스트림즈,'워프레임'및'소울프레임'신규업데이트공개",
+  "'최애'캐릭터와수다떨다시간훌쩍…'관계형AI'에빠진1020",
+  "[단독]3년동안개인정보310만건털렸는데…과징금부과하나도없었다",
+  "류제명“티빙에과태료처분…재발방지대책요구”"
  ],
  "recent_sigs": [
   [
@@ -6117,7 +6117,7 @@
    "유럽의 투자 텍사스 구글 인프라 130억유로 핀란드에"
   ]
  ],
- "last_run": "2026-09-10T06:02:58.860752+09:00",
+ "last_run": "2026-09-10T06:04:33.054741+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
