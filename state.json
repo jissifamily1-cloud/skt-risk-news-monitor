@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=187747",
-  "https://www.dt.co.kr/article/12082980",
   "http://www.newskr.kr/news/articleView.html?idxno=106227",
   "https://www.nytimes.com/es/2026/09/09/espanol/ciencia-y-tecnologia/problema-matematico-openai-que-es.html?partner=naver",
   "https://www.cstimes.com/news/articleView.html?idxno=719982",
@@ -2999,11 +2997,11 @@
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4024734",
   "https://biz.chosun.com/it-science/ict/2026/09/10/RPQZR5SFLBGK5KYQT73A3NUXUI/",
   "http://www.bizwnews.com/news/articleView.html?idxno=145647",
-  "https://www.aitimes.com/news/articleView.html?idxno=215039"
+  "https://www.aitimes.com/news/articleView.html?idxno=215039",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=191805",
+  "https://www.dt.co.kr/article/12083141"
  ],
  "seen_titles": [
-  "오픈AI코리아'GPT-6아스트라를소개합니다'",
-  "단순대화넘어실무파트너로…오픈AI코리아1년만에기업이용자2...",
   "'수능만점'아스트라의등장‥\"범용인공지능(AGI)도래했다\"",
   "김현\"방미통위,빠띠부당제재공무원조치안하고뭐하나\"",
   "방미통위,대형플랫폼감독한다지만강제권'미비'",
@@ -6001,7 +5999,9 @@
   "[이슈분석]'조단위'세기의이혼…스마일게이트vsSK,무엇이달랐나",
   "IPO분쟁이어오너이혼까지…스마일게이트덮친‘줄소송리스크’",
   "SK텔레콤,연말까지'T로밍데이터추가'프로모션기간연장",
-  "\"전화안받아도감염\"...AI가개발한'클릭제로'모바일해킹도구등..."
+  "\"전화안받아도감염\"...AI가개발한'클릭제로'모바일해킹도구등...",
+  "[AI프리즘]\"체르노빌급재앙\"…미영의회서'초지능AI금지법'잇따라...",
+  "앤트로픽연구원,회사관두며“AI가10년내인류멸망시킬수도”"
  ],
  "recent_sigs": [
   [
@@ -6137,7 +6137,7 @@
    "스마일게이트 덮친 오너 리스크 줄소송 IPO 분쟁 이어 이혼까지"
   ]
  ],
- "last_run": "2026-09-10T06:20:43.651270+09:00",
+ "last_run": "2026-09-10T06:22:36.106235+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
