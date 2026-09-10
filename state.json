@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2193913",
-  "http://www.inews24.com/view/2003863",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90897",
-  "https://www.newsis.com/view/NISX20260909_0003783046",
-  "https://isplus.com/article/view/isp202609090117",
-  "https://www.dt.co.kr/article/12083059",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434140",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3690027",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3690014",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3689986",
-  "https://www.edaily.co.kr/News/Read?newsId=04175446645578480&mediaCodeNo=257",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5218123",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8658990",
   "https://www.mt.co.kr/industry/2026/09/09/2026090910574671671",
@@ -2999,20 +2988,20 @@
   "https://www.cnbizm.com/news/articleView.html?idxno=314658",
   "https://zdnet.co.kr/view/?no=20260910111322",
   "https://www.pressman.kr/news/articleView.html?idxno=103598",
-  "https://view.asiae.co.kr/article/2026091011161422192"
+  "https://view.asiae.co.kr/article/2026091011161422192",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690788",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690804",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690789",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690799",
+  "https://www.ajunews.com/view/20260910104245430",
+  "https://www.boannews.com/news/articleView.html?idxno=145770",
+  "https://www.newspim.com/news/view/20260910000578",
+  "https://www.sedaily.com/article/20089322",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=121136",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214398",
+  "https://news.mtn.co.kr/news-detail/2026091010555557264"
  ],
  "seen_titles": [
-  "최태원,노소영재산분할9천440억중2천440억만재상고",
-  "LG유플러스,미래기술인재초청해'유플텍플'개최",
-  "오픈AI\"인류7대수학난제풀었다\"…'사람테스트'도가뿐히통과",
-  "88시간만에풀린90년수학난제?…오픈AI\"나비에-스토크스방정식풀...",
-  "[증시인사이트]기관·기타법인사자…코스피7000선안착성공?",
-  "AI가해킹도구100개자동실행…금융보안위협현실됐다",
-  "윤재옥“특정지역패싱이모두의대통령인가”",
-  "[CEOPICK]오픈AI김경훈…한국1년,'AI서비스·보안·광고'확장",
-  "\"단기차입금부담끝\"…소프트뱅크,오픈AI투자용브릿지론전액갚는...",
-  "조강원모레대표“엔비디아아니어도된다···AMD등경쟁자에도기...",
-  "해킹막으려설치했는데...해커의문이된보안프로그램",
   "'방미통위숙원'방미통진흥원신설법,법사위문턱넘어",
   "우상호지사\"AI데이터센터유치,대규모전력망확보가필수\"(종합)",
   "'한화10승투수'대표팀완전체합류미뤘다…\"9일등판이후한번더...",
@@ -6001,7 +5990,18 @@
   "SK텔레콤정재헌CEO,GSMAM360아세안참석",
   "축구대표팀손잡고그라운드입장…KT,어린이88명초청",
   "AI가고른화장품…K뷰티상위권장악",
-  "[포토]개보위,개인정보보호법시행령개정안발표"
+  "[포토]개보위,개인정보보호법시행령개정안발표",
+  "한국타이어'라우펜',유럽완성차공략확대…세아트'레온'까지품었...",
+  "권오상서구청장,원대동3가115필지지적재조사완료...19472.6㎡경계...",
+  "밀양시,자연재해위험개선지구12곳선정…사업비383억확보",
+  "안병구밀양시장,지역주요사업장4곳현장점검",
+  "또럼베트남서기장,푸틴과'새이정표'세웠다...모스크바국빈방문...",
+  "북한연계해커,새리눅스첩보도구로한국자동차·미디어노려",
+  "[정국진단]김태규\"김승원기소유예,檢이거대야당눈치본것\"",
+  "‘광주은행사장님만을위한웰컴패키지’…체검형우대서비스",
+  "SKT정재헌CEO,GSMAM360아세안참석",
+  "에스투더블유,오픈AI'데이브레이크'합류",
+  "中화웨이장비75%교체했는데도뚫렸다…美통신망해킹파장"
  ],
  "recent_sigs": [
   [
@@ -6679,9 +6679,13 @@
   [
    "2026-09-10T11:20:24.041717+09:00",
    "개인정보 시행령 개정안 발표 보호법"
+  ],
+  [
+   "2026-09-10T11:22:14.473533+09:00",
+   "뚫렸다 교체했는데도 통신망 장비 화웨이 파장"
   ]
  ],
- "last_run": "2026-09-10T11:20:47.440766+09:00",
+ "last_run": "2026-09-10T11:22:38.443057+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
