@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260909000088",
-  "https://news.tf.co.kr/read/life/2364098.htm",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/09/2026090990248.html",
-  "https://www.dt.co.kr/article/12083128",
-  "http://www.osen.co.kr/article/G1112872880",
-  "http://www.osen.co.kr/article/G1112872881",
-  "http://www.osen.co.kr/article/G1112872883",
-  "http://www.osen.co.kr/article/G1112872882",
-  "http://www.osen.co.kr/article/G1112872885",
-  "http://www.osen.co.kr/article/G1112872884",
-  "https://www.newsis.com/view/NISI20260909_0021430940",
   "https://www.sportschosun.com/baseball/2026-09-09/202609090100067540004355",
   "https://www.sportschosun.com/baseball/2026-09-09/202609090100067530004354",
   "https://www.yna.co.kr/view/AKR20260909185800007?input=1195m",
@@ -2999,20 +2988,20 @@
   "http://www.koreastocknews.com/news/articleView.html?idxno=121145",
   "https://www.fnnews.com/news/202609101533384918",
   "http://www.spochoo.com/news/articleView.html?idxno=129931",
-  "https://m.skyedaily.com/news_view.html?ID=311377"
+  "https://m.skyedaily.com/news_view.html?ID=311377",
+  "https://dealsite.co.kr/articles/168806",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=274995",
+  "https://www.tournews21.com/news/articleView.html?idxno=143172",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485785",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16188956",
+  "https://www.100ssd.co.kr/news/articleView.html?idxno=212699",
+  "https://www.ytn.co.kr/_ln/0134_202609101559070618",
+  "https://www.mk.co.kr/article/12149444",
+  "http://www.4th.kr/news/articleView.html?idxno=2117841",
+  "http://www.newskr.kr/news/articleView.html?idxno=106286",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=317615"
  ],
  "seen_titles": [
-  "한국기업챗GPT사용,1년새28배증가",
-  "MistralRaises3BillionEurosinSamsung-LedFundingRound",
-  "미리보는KS승자는KT였다!…‘고영표KKKKK완벽투+김현수결승포＆16...",
-  "(단독)SKB노조\"SKT구주매각1.88조일부성장재원으로\"",
-  "하나證\"SKT,2032년데이터센터영업익1조…목표가14만원\"",
-  "실속형AI홈서비스확대하는이통사…KT셋톱박스·LGU+홈캠신제품...",
-  "워프레임·소울프레임가을신규업데이트데브스트림생방송공개",
-  "[AIMY뉴스]9일중국증시'유가·美금리부담속기술주방향성주목...",
-  "100개AI에이전트에소통하며수학문제풀게했더니...\"부정행위에내...",
-  "[모닝리포트]\"SK텔레콤,데이터센터확대…배당재원확대기대\"",
-  "최태원측,재산분할7000억인정…2440억만다툰다",
   "권혁빈이혼1심재산분할액2조5500억…'역대최대'",
   "[9월9일부고종합]조인철(더불어민주당국회의원)씨모친상외",
   "[사진]승리기쁨나누는박영현과한승택",
@@ -6001,13 +5990,20 @@
   "LG유플러스,AI인프라투자부터멤버십개편까지···9월사업다각화",
   "KT,조선소에'AI용접로봇'투입...AI네트워크산업현장적용",
   "첫승부터599승까지오직KT한팀에서만...이강철감독,개인통산600...",
-  "이용자10명중6명이유료구독…AI구독료잡는‘특화카드’뜬다"
+  "이용자10명중6명이유료구독…AI구독료잡는‘특화카드’뜬다",
+  "[IT는지금]SK스퀘어,'AI네이티브'투자회사로본격부상外",
+  "\"IPTV구독하면야구티켓쏜디\"…SKB,'Btv+max페스티벌'로KBO팬공략",
+  "하나카드,정부'모두의AI'사업참여…'AgentPay'로AI서비스결합",
+  "최태원SK회장,울산데이터센터직접점검...AX현장경영'박차'",
+  "SK텔레콤주가,9월10일90,400원0.99%하락마감",
+  "하나카드,고객의일상중심'모두의AI'사업컨소시엄참여",
+  "재판부도배우자기여인정...권혁빈,35%분할판결에항소나서나[이...",
+  "홈쇼핑12곳모두방미통위재승인…현대홈쇼핑평가점수1위",
+  "과기부,해킹대응형평성논란…SKT는과징금1347억,LGU+는'수사중'",
+  "코스피,'네마녀의날'롤러코스터…7000선가까스로지켜",
+  "통신3사비교해도가입은아정당…다나와'가격비교'맞나"
  ],
  "recent_sigs": [
-  [
-   "2026-09-10T10:08:19.508493+09:00",
-   "반도체 수혜 차세대 기판 기대 위상 심텍 상향"
-  ],
   [
    "2026-09-10T10:12:16.152077+09:00",
    "참가 통신망 M360 논의 보안 거버넌스 ~SKT 아세안"
@@ -6603,9 +6599,25 @@
   [
    "2026-09-10T16:06:19.093985+09:00",
    "유료 구독료 뜬다 구독 카드 잡는 특화 6명이 10명 이용자"
+  ],
+  [
+   "2026-09-10T16:10:23.697731+09:00",
+   "수사중 SKT는 1347억 ~LGU 대응 과기부 논란 과징금 LGU ~SKT 형평성"
+  ],
+  [
+   "2026-09-10T16:10:23.697731+09:00",
+   "부상 투자회사로 네이티브 본격 SK스퀘어"
+  ],
+  [
+   "2026-09-10T16:10:23.697731+09:00",
+   "롤러코스터 지켜 가까스로 마녀의 코스피 7000선"
+  ],
+  [
+   "2026-09-10T16:10:23.697731+09:00",
+   "비교해도 통신 가격비교 가입은 3사 다나와 아정당 맞나"
   ]
  ],
- "last_run": "2026-09-10T16:08:31.570228+09:00",
+ "last_run": "2026-09-10T16:10:53.346608+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
