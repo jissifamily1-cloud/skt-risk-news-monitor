@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/world/2026/09/09/2026090913404025008",
-  "https://news.jtbc.co.kr/article/NB12317553?influxDiv=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000333708?division=NAVER",
-  "https://www.raonnews.com/news/article.html?no=60987",
-  "https://www.kbmaeil.com/article/20260909500683",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5060314",
-  "https://www.smarttoday.co.kr/ko-kr/articles/111395",
   "https://www.mk.co.kr/article/12148428",
   "https://www.chosun.com/economy/tech_it/2026/09/09/CFQ5BJLEMFG2VOG4OJTPIYP3R4/",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318098",
@@ -2999,16 +2992,16 @@
   "https://www.dizzotv.com/site/data/html_dir/2026/09/10/2026091080068.html",
   "https://www.lawtv.kr/news/articleView.html?idxno=60900",
   "https://www.donga.com/news/Inter/article/all/20260910/134641599/1",
-  "https://www.betanews.net/article/view/beta202609100060"
+  "https://www.betanews.net/article/view/beta202609100060",
+  "https://www.ytn.co.kr/_ln/0115_202609101101170694",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=52811",
+  "https://www.ajunews.com/view/20260910110502531",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=106095",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=446863",
+  "https://theopiniontimes.news/%ea%b2%80%ec%83%89-%eb%84%98%ec%96%b4-%ec%8b%a4%ed%96%89%ea%b9%8c%ec%a7%80-skt-%ec%a0%84-%ea%b5%ad%eb%af%bc-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%83%9d%ed%83%9c%ea%b3%84-%ed%8a%bc/",
+  "https://www.dt.co.kr/article/12083211"
  ],
  "seen_titles": [
-  "토스페이먼츠까지보안'논란'…PG결제생태계허점드러나",
-  "최태원회장,노소영재산분할'대승적차원'서7천억원수용…\"그이상...",
-  "권혁빈스마일게이트창업자이혼…2조5517억재산분할'역대최대'(종...",
-  "[판결]권혁빈스마일게이트창업자이혼…재산분할2조5500억원",
-  "최태원,재산분할상고범위축소…대법원서2440억원만다툰다",
-  "최태원SK회장,재산분할금9440억중2240억원만대법서다툰다",
-  "최태원“국내불확실성줄여달라”…기업혁신에필요한법·제도개...",
   "최태원,노소영재산분할금중7천억원수용⋯2440억원만재상고심서...",
   "최태원,재산분할7000억원수용..2440억원만대법서다툰다",
   "국내이혼재산분할최고액나와…법원,'스마일게이트'권혁빈에2.5조...",
@@ -6001,7 +5994,14 @@
   "최태원SK회장,AX현장점검…'AI풀스택프로바이더'속도↑",
   "이혼한부부에게주식을쪼갠판결...7조회사스마일게이트에남겨진...",
   "통제벗어난AI…“10년내AI가인류멸망시킬가능성10%”",
-  "엔비디아,배틀그라운드·워독스등신작6종에DLSS확대적용"
+  "엔비디아,배틀그라운드·워독스등신작6종에DLSS확대적용",
+  "중대·반복유출기업에'매출10%이내'징벌적과징금",
+  "정재헌SKTCEO,'GSMAM360'서글로벌리더와AI협력논의",
+  "정재헌SKTCEO,글로벌통신사와'AI인프라허브·디지털신뢰'협력논...",
+  "하나카드,'AgentPay'로AI금융혁신...SKT와함께정부'모두의AI'사...",
+  "SK최태원울산AI데이터센터·울산CLX현장방문,'AX'현황점검",
+  "\"검색넘어실행까지\"SKT,전국민'AI에이전트'생태계튼다",
+  "유니티,‘클로드코드’공식플러그인출시"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,17 @@
   [
    "2026-09-10T11:12:15.004378+09:00",
    "확대 DLSS 배틀그라운드 적용 워독스 6종에 신작"
+  ],
+  [
+   "2026-09-10T11:14:18.606009+09:00",
+   "국민 에이전트 튼다 검색 ~SKT 넘어 생태계 실행까지"
+  ],
+  [
+   "2026-09-10T11:14:18.606009+09:00",
+   "코드 유니티 플러그인 클로드 출시"
   ]
  ],
- "last_run": "2026-09-10T11:12:44.004941+09:00",
+ "last_run": "2026-09-10T11:14:38.787689+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
