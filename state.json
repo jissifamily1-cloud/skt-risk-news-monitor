@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026090914084279810",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208379",
-  "https://view.asiae.co.kr/article/2026090910033742374",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=135068",
-  "https://www.fnnews.com/news/202609091413591696",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102549",
-  "http://www.medisobizanews.com/news/articleView.html?idxno=142047",
-  "http://www.finomy.com/news/articleView.html?idxno=261050",
   "https://zdnet.co.kr/view/?no=20260909145417",
   "https://www.ddaily.co.kr/page/view/2026090910415151243",
   "https://www.hankyung.com/article/202609093649g",
@@ -2999,17 +2991,17 @@
   "http://www.press9.kr/news/articleView.html?idxno=82502",
   "http://www.lawissue.co.kr/view.php?ud=2026091009092383049817d053b9_12",
   "https://view.asiae.co.kr/article/2026091009064041224",
-  "http://www.srtimes.kr/news/articleView.html?idxno=212050"
+  "http://www.srtimes.kr/news/articleView.html?idxno=212050",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1404626",
+  "https://www.tokenpost.kr/news/market/405494",
+  "https://view.asiae.co.kr/article/2026091009143627497",
+  "https://www.boannews.com/news/articleView.html?idxno=144252",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=261883",
+  "https://hbnpress.com/news/view/1065572273352371",
+  "https://www.asiatime.co.kr/article/20260910500046",
+  "https://www.sedaily.com/article/20089238"
  ],
  "seen_titles": [
-  "'반도체호황'삼성오너가주식100조돌파…이재용47조",
-  "스마일게이트권혁빈이혼재산분할2조5500억원'역대최대'",
-  "[속보]법원,스마일게이트권혁빈아내이혼청구인용…\"아내에주식...",
-  "[속보]‘재산8조’권혁빈이혼소송1심…주식35%·현금650억재산분...",
-  "경제계‘상설통로’열린다…국회경제대도약위원회출범",
-  "[속보]키옥시아“SK하이닉스와공동생산논의없다”",
-  "스마일게이트창업자권혁빈,이혼재산분할2조4천억원넘을듯…역대...",
-  "KT,‘지니TV셋톱박스A2’출시…“AI기능탑재”",
   "KT,‘AX디자인클리닉’으로AI기반일하는방식전환속도",
   "122개아이디어쏟아졌다…KT,현업AX과제직접설계해전사확산",
   "한컴이노스트림,엔비디아AI캠퍼스가동…960시간실무형AI·로보틱스...",
@@ -6001,7 +5993,15 @@
   "하나카드,정부'모두의AI'참여…AI가상품탐색부터결제까지",
   "하나카드,SK텔레콤과'모두의AI'금융생태계구축",
   "'세기의이혼'권혁빈재산분할2조5500억…전처반응은",
-  "최태원,9년재산분할소송'출구'…7000억수용·2440억재상고"
+  "최태원,9년재산분할소송'출구'…7000억수용·2440억재상고",
+  "SK브로드밴드,KBO포스트시즌직관이벤트11일부터진행",
+  "연초이후181.65%…HANAROK-반도체ETF수익률1위",
+  "'PLUS글로벌HBM반도체'ETF,1개월수익률11.67%",
+  "[속담으로배우는100가지보안습관98]아는것이힘이다(8)-공공장소...",
+  "SKT,'M360아세안'서AI인프라청사진제시...\"AI시대경쟁력은신뢰\"",
+  "정재헌SKTCEO,글로벌통신·테크리더들과AI협력모색",
+  "정재헌SKTCEO,GSMA서‘AI풀스택’청사진공유",
+  "만져보지않고도원단특성비교…대구스타트업,엔비디아로부터‘눈..."
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,21 @@
   [
    "2026-09-10T09:18:13.945651+09:00",
    "88명 장기고객 ~KT 자녀 입장 국가대표팀과 그라운드"
+  ],
+  [
+   "2026-09-10T09:24:13.913530+09:00",
+   "CEO 통신 글로벌 협력 테크 리더들과 모색 ~SKT"
+  ],
+  [
+   "2026-09-10T09:24:13.913530+09:00",
+   "CEO 청사진 GSMA서 풀스택 ~SKT 공유"
+  ],
+  [
+   "2026-09-10T09:24:13.913530+09:00",
+   "만져보지 비교 엔비디아로부터 스타트업 원단 특성 않고도 대구"
   ]
  ],
- "last_run": "2026-09-10T09:22:31.812798+09:00",
+ "last_run": "2026-09-10T09:24:44.306582+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
