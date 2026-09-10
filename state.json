@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://byline.network/?p=9004111222619232",
-  "https://www.aitimes.com/news/articleView.html?idxno=215062",
-  "http://www.beyondpost.co.kr/view.php?ud=202609091518442856be44c0aacd_30",
   "https://www.ceoscoredaily.com/page/view/2026090915445717045",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609090605&t=NN",
   "https://www.womennews.co.kr/news/articleView.html?idxno=282035",
@@ -2999,12 +2996,12 @@
   "https://www.dt.co.kr/article/12083231",
   "https://www.ngetnews.com/news/articleView.html?idxno=553232",
   "https://newscham.net/articles/117178",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121618"
+  "https://www.delighti.co.kr/news/articleView.html?idxno=121618",
+  "https://www.xportsnews.com/article/2194219",
+  "https://www.news1.kr/it-science/security-hacking/6286249",
+  "https://www.munhwa.com/article/11616055"
  ],
  "seen_titles": [
-  "KT,WSCE2026서'AI당직봇'·'5G정부망'소개해…\"공공업무의AI전환...",
-  "대구광역시,21개지역주택조합전수점검돌입...조합원피해예방강화",
-  "iM뱅크,추석맞아1억1천만원온누리상품권기부...대구·경북취약계층...",
   "대만-파나마의회교류에中반발…\"중국내정에간섭\"",
   "김제시,300여명참석한'양성평등주간'기념행사'성료'",
   "[이슈]고영철號신협,조기경보도깜깜이…연체율10%넘는조합51곳...",
@@ -6001,7 +5998,10 @@
   "LGCNS“데이터·검증·서비스로‘독자보안모델’차별화",
   "바디프랜드,신세계백화점강남점서'건강수명충전소'연다",
   "데이터센터에맞선저항,AI경제를누가통제할것인가",
-  "최태원,울산서'AI풀스택'점검…데이터센터·제조AX속도낸다"
+  "최태원,울산서'AI풀스택'점검…데이터센터·제조AX속도낸다",
+  "40홈런허용한삼성도경탄\"김도영,KBO대표하는타자구나다시느껴\"...",
+  "개인정보중대침해시'매출10%'철퇴…예방·신속대응엔감경(종합)",
+  "KT·아산병원‘AI의료서비스’개발맞손"
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,13 @@
   [
    "2026-09-10T12:14:16.505745+09:00",
    "데이터 튜닝한다 바이오해킹하는 대신 몸을"
+  ],
+  [
+   "2026-09-10T12:26:14.905285+09:00",
+   "AI의료 맞손 서비스 개발 아산병원 ~KT"
   ]
  ],
- "last_run": "2026-09-10T12:24:31.238507+09:00",
+ "last_run": "2026-09-10T12:26:39.242407+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
