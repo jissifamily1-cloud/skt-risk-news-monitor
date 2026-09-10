@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169832",
-  "https://www.businessplus.kr/news/articleView.html?idxno=116642",
-  "https://www.hg-times.com/news/articleView.html?idxno=305169",
-  "https://www.munhwa.com/article/11615942",
-  "https://biz.sbs.co.kr/article_hub/20000333823?division=NAVER",
-  "https://www.etnews.com/20260910000053",
   "https://kbench.com/?q=node%2F281790",
   "https://zdnet.co.kr/view/?no=20260909163018",
   "http://www.metroseoul.co.kr/article/20260910500045",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8660724",
   "http://www.segyebiz.com/newsView/20260910516732?OutUrl=naver",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609091302199800106331",
-  "https://www.g-enews.com/view.php?ud=2026091021510897880c8c1c064d_1"
+  "https://www.g-enews.com/view.php?ud=2026091021510897880c8c1c064d_1",
+  "https://www.nytimes.com/2026/09/10/science/ai-humanity-risk.html?partner=naver",
+  "https://www.hankyung.com/article/2026090819861",
+  "https://www.viva100.com/article/20260909501054",
+  "https://www.newsis.com/view/NISX20260910_0003783655",
+  "https://www.g-enews.com/view.php?ud=202609110701279722bd56fbc3c_1",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95176"
  ],
  "seen_titles": [
-  "“DC떼고뭘로성장하나”…SK브로드밴드노조,분사대책요구",
-  "세종시의회도시환경위,의정모니터단과소통…\"현장목소리의정에반...",
-  "계명대학교,120여편드라마·영화촬영성지로...걸그룹·RIIZE도MV제작",
-  "대구교통공사,거제수해복구지원...성금300만원·현장봉사동참",
-  "유인호세종시의회부의장,자치경찰제실태점검…\"이원화대비제도...",
-  "정재헌SKTCEO,'GSMAM360아세안'서AI성장전략논의",
   "SKT정재헌CEO,글로벌통신업계와'AI시대디지털신뢰'협력논의",
   "정재헌SK텔레콤CEO,아시아통신리더들과사업협력모색",
   "[AI는지금]\"10년내인류멸망\"경고한앤트로픽연구원퇴사vs오픈A...",
@@ -6001,7 +5995,13 @@
   "“반도체같이하자”최태원제안에…일본키옥시아가거절한이유는?...",
   "신한·하나카드'AI결제'구축나서…결제·보안인프라확대",
   "[더벨]오픈AI,국내클라우드사업자와'인프라협력'가능성시사",
-  "\"홍콩만으론부족하다\"…'키미'문샷AI,홍콩·상하이커촹반'이중상..."
+  "\"홍콩만으론부족하다\"…'키미'문샷AI,홍콩·상하이커촹반'이중상...",
+  "A.I.CouldPossiblyEndHumanity.HowAreHumansSupposedtoProcessTh",
+  "\"딸시력만돌아온다면…\"5300억거액쏟아부은억만장자",
+  "카드고릴라조사서‘62.6%’가생성형AI유료구독…카드사‘AI구독...",
+  "[단독]방미통위,법정처리기한넘긴통신분쟁조정사건5년간1600건…전...",
+  "“통제선넘었다”…격리환경뚫고탈출한AI에이전트들이해킹공모...",
+  "[AI프리즘]中·러해커들의섬뜩한'AI무기화'…\"AI로킬러드론·생..."
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,17 @@
   [
    "2026-09-11T07:06:15.544872+09:00",
    "상하이 키미 부족하다 커촹반 홍콩 문샷 홍콩만으론 이중"
+  ],
+  [
+   "2026-09-11T07:08:14.595950+09:00",
+   "에이전트들이 격리 환경 넘었다 탈출한 뚫고 공모 통제선"
+  ],
+  [
+   "2026-09-11T07:08:14.595950+09:00",
+   "AI로 드론 킬러 섬뜩한 무기화 해커들의"
   ]
  ],
- "last_run": "2026-09-11T07:07:00.298655+09:00",
+ "last_run": "2026-09-11T07:08:39.829368+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
