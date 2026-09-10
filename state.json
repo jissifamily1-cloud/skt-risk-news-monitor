@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20089254",
-  "https://www.sedaily.com/article/20089253",
-  "https://www.sedaily.com/article/20089259",
-  "https://www.itbiznews.com/news/articleView.html?idxno=224251",
-  "https://www.newsis.com/view/NISX20260908_0003779955",
-  "https://www.news1.kr/industry/general-industry/6285784",
-  "http://www.newsdream.kr/news/articleView.html?idxno=117864",
-  "https://www.nongmin.com/article/20260909500583",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=95122",
-  "http://www.impacton.net/news/articleView.html?idxno=20276",
   "https://idsn.co.kr/news/view/1065589402310674",
   "https://www.abcn.kr/news/articleView.html?idxno=91596",
   "https://news.dealsitetv.com/articles/175829",
@@ -2999,19 +2989,19 @@
   "https://www.kizmom.com/news/articleView.html?idxno=112659",
   "https://www.hankyung.com/article/2026091178787",
   "https://www.etnews.com/20260911000015",
-  "https://www.news1.kr/world/usa-canada/6287055"
+  "https://www.news1.kr/world/usa-canada/6287055",
+  "http://www.osen.co.kr/article/G1112873679",
+  "https://www.sportschosun.com/baseball/2026-09-11/202609110100076750004966",
+  "https://sports.donga.com/ent/article/all/20260911/134648356/1",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171165",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318299",
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/11/2026091190050.html",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318295",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318336",
+  "https://www.g-enews.com/view.php?ud=2026091108184934909a1f309431_1",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318360"
  ],
  "seen_titles": [
-  "[핫이슈]\"10년내인류절멸확률10%넘어\"…오픈AI·앤스로픽핵심연...",
-  "GPT-5.6,뭐가그렇게달라졌을까?[성능vs효율,AI공룡들의엇갈린생...",
-  "KISTI,국가과학기술연구망기존대비4배확대구축...대전-시카고백본...",
-  "‘대전~시카고100TB연구데이터,33분컷’…KISTI,400G국제회선구축",
-  "AI가인류멸종시킨다?...커지는통제불안",
-  "대우건설,혁신기술스타트업과협업강화",
-  "베선트“시장열식히기”…바이백2배확대앞두고10년물4.79%",
-  "코스피7000재탈환…반도체LTA확산변수",
-  "중동전쟁에유가100달러돌파…확전땐150달러경고",
-  "공정위,‘인수대신인재영입’도기업결합심사한다",
   "반도체호황장기화vsAI거품경고…엇갈린전망나온한국증시",
   "청년실업률4년래최고…고용한파언제끝나나",
   "미스트랄AI,1년만에기업가치2배로…30억유로조달성공",
@@ -6001,7 +5991,17 @@
   "엔비디아젠슨황이주목한'AI다음먹거리'…사이버보안이었다",
   "젠슨황\"사이버보안,AI의다음주요적용분야될가능성높아\"",
   "오픈AI,美정부에'반값AI'공급…지방정부까지확대",
-  "오픈AI,규제로기조전환…\"강력한AI,의무적안전규제필요\""
+  "오픈AI,규제로기조전환…\"강력한AI,의무적안전규제필요\"",
+  "'스쿨리그상위팀합류’LCKAS하반기아카데미리그,오는12일개막...",
+  "'시즌+2경기vsAG-2경기'절묘한균형추,또또또뒤집어졌다,최후의...",
+  "추영우♥김소현,이거리심상치않네…초밀착눈맞춤→손잡기(연애박...",
+  "골드만삭스행사서'AI논쟁'재점화...빅테크수장들'재앙론'반박",
+  "AI챗봇대화창서바로결제…신한카드'에이전트페이'표준만든다",
+  "\"AI,인류멸망\"경고후폭풍…美정부·의회서도엇갈린반응",
+  "KT·서울아산병원과'맞손'…영상판독돕는'AI병원'구축본격착수",
+  "구광모회장은AI·로봇챙기는데…선대회장유족은연일법정행",
+  "앤스로픽,클로드‘생물무기악용우려’5건차단",
+  "해킹정황뒤서버폐기·OS재설치…LG유플러스'증거인멸'경찰수사"
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,29 @@
   [
    "2026-09-11T08:20:23.880736+09:00",
    "의무적 규제로 안전규제 필요 기조 강력한"
+  ],
+  [
+   "2026-09-11T08:24:13.528979+09:00",
+   "표준 페이 대화창서 결제 챗봇 바로 신한카드 만든다 에이전트"
+  ],
+  [
+   "2026-09-11T08:24:13.528979+09:00",
+   "재점화 골드만삭스 논쟁 재앙론 수장들 행사서 빅테크 반박"
+  ],
+  [
+   "2026-09-11T08:24:13.528979+09:00",
+   "유족은 로봇 선대회장 법정행 회장은 연일 구광모 챙기는데"
+  ],
+  [
+   "2026-09-11T08:24:13.528979+09:00",
+   "생물무기 클로드 5건 차단 악용 우려"
+  ],
+  [
+   "2026-09-11T08:24:13.528979+09:00",
+   "LG유플러스 수사 서버 재설치 폐기 증거인멸 OS 경찰 정황 ~LGU"
   ]
  ],
- "last_run": "2026-09-11T08:22:32.228989+09:00",
+ "last_run": "2026-09-11T08:24:46.278046+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
