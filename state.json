@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202609091545034152",
-  "https://www.news1.kr/world/usa-canada/6285154",
-  "https://www.edaily.co.kr/News/Read?newsId=03919606645578480&mediaCodeNo=257",
-  "https://www.ytn.co.kr/_ln/0104_202609091545187589",
-  "http://coinreaders.com/257302",
-  "https://www.starnewskorea.com/business-life/2026/09/09/2026090915441397801",
-  "https://biz.heraldcorp.com/article/10867973",
-  "https://www.newsis.com/view/NISX20260909_0003782776",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=52780",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1180707",
   "http://www.jeollailbo.com/news/articleView.html?idxno=810589",
   "https://biz.chosun.com/topics/law_firm/2026/09/09/NDAZUMS6K5GDFCHQT6YFRFOFFU/",
   "https://www.newsis.com/view/NISX20260909_0003782893",
@@ -2999,19 +2989,19 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008745758&plink=ORI&cooper=NAVER",
   "https://biz.chosun.com/industry/company/2026/09/10/YNPUNMXBTZAMVEUQF6SS7LD724/",
   "https://www.edaily.co.kr/News/Read?newsId=03083206645578808&mediaCodeNo=257",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81037"
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81037",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1180829",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690664",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690663",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3688590",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690651",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3690648",
+  "https://www.yna.co.kr/view/AKR20260910051100104?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260909147800007?input=1195m",
+  "http://www.newsdream.kr/news/articleView.html?idxno=117869",
+  "https://www.meconomynews.com/news/articleView.html?idxno=201457"
  ],
  "seen_titles": [
-  "[도쿄증시-마감]중동불안에하락…일부반도체·전선관련주강세",
-  "구글클라우드-액센츄어,현장파견AI엔지니어전담조직신설",
-  "삼성,반도체AI새동맹,왜미스트랄AI인가",
-  "현대차아틀라스에도전장던진삼성전자...휴머노이드전쟁승부처는...",
-  "토스페이먼츠가맹점인증정보노출···2,671명결제내역제3자조회",
-  "해커가알린PG사정보유출…금감원,코엠·토스페이먼츠정식검사로...",
-  "“AI통제불능,내년말올수도”…앤트로픽연구원,안전우려에사임",
-  "[부산소식]부산시민체육대축전생활체육으로하나된다외",
-  "토스페이먼츠가맹점,고객2671명정보유출…\"자체시스템해킹아냐...",
-  "토스페이먼츠\"시스템해킹아냐\"…가맹점1곳결제내역4131건조회",
   "엔비디아의그래픽혁명‘DLSS5’,GPU·메모리가격더끌어올린다",
   "AI스타트업엑시스트,'엔비디아인셉션'선정",
   "엔비디아기술로AI·로봇실무교육…한컴이노스트림,첫교육생모집...",
@@ -6001,7 +5991,17 @@
   "방송미디어공공기관재편본격화…진흥원설립법법사위통과",
   "최태원,AI전환현장점검…‘AI데이터센터울산’방문",
   "AI가상품추천부터결제까지…신한·하나카드'에이전트페이'개발참여",
-  "심텍,차세대반도체기판'엔비디아위상상향'수혜기대"
+  "심텍,차세대반도체기판'엔비디아위상상향'수혜기대",
+  "던킨도너츠,오늘(10일)카카오페이결제시최대50%할인",
+  "합천군,민선9기공약사업실천보고회개최…71개이행계획점검",
+  "세종시사회서비스원,돌봄품질우수기관시상…\"신뢰받는돌봄환경구축...",
+  "공무원사망놓고공방…국민의힘\"허태정침묵\"vs허태정측\"정치적...",
+  "안신일세종시의장,국회서\"지방의회법연내제정\"강력촉구",
+  "거창군,한국승강기대학과외국인유학생유치확대협력논의",
+  "인니화산분화취재하던사진기자5명등8명해상서실종",
+  "[社告]연합뉴스아이치·나고야아시안게임특별취재단가동",
+  "정재헌SKT대표\"AI시대본질은신뢰\"…아시아테크기업과협력강화",
+  "SKT,M360아세안참가...통신망AI전환·보안거버넌스논의"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-09-10T10:08:19.508493+09:00",
    "반도체 수혜 차세대 기판 기대 위상 심텍 상향"
+  ],
+  [
+   "2026-09-10T10:12:16.152077+09:00",
+   "참가 통신망 M360 논의 보안 거버넌스 ~SKT 아세안"
   ]
  ],
- "last_run": "2026-09-10T10:10:41.116170+09:00",
+ "last_run": "2026-09-10T10:12:36.947427+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
