@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260909500275",
-  "https://zdnet.co.kr/view/?no=20260909163330",
-  "https://www.dailian.co.kr/news/view/1688430/?sc=Naver",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1006569",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245573",
   "http://www.popcornnews.net/news/articleView.html?idxno=132391",
   "https://www.gukjenews.com/news/articleView.html?idxno=3689860",
   "https://www.gukjenews.com/news/articleView.html?idxno=3690037",
@@ -2999,14 +2994,14 @@
   "http://www.sisacast.kr/news/articleView.html?idxno=99860",
   "https://www.newsis.com/view/NISX20260910_0003784007",
   "https://biz.heraldcorp.com/article/10869054",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1331642"
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1331642",
+  "http://www.press9.kr/news/articleView.html?idxno=82523",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=135156",
+  "https://biz.heraldcorp.com/article/10869057",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=135161",
+  "https://news.mtn.co.kr/news-detail/2026090912195747724"
  ],
  "seen_titles": [
-  "[N컷]\"죽은줄알았던아들이돌아왔다\"...'얼굴'연장선상,연상호감...",
-  "코스피,AI모멘텀·기관매수에33거래일만에'7천피'회복",
-  "그룹아이비,2026년랜섬웨어보고서발표...조직독립화와AI활용가속...",
-  "반도체만으론배가고픈삼성,'다음수'를뒀다",
-  "충남콘텐츠진흥원,게임·메타버스아카데미운영",
   "법원,권혁빈스마일게이트창업자이혼판결…재산분할금2.5조원'역대...",
   "최태원,노소영재산분할7000억원수용…2440억원만대법원행",
   "최태원,재산분할2440억만다툰다…7000억은인정",
@@ -6001,7 +5996,12 @@
   "최태원,SK그룹AX현장경영...울산AI데이터센터·울산CLX방문",
   "\"AI통제잃으면대부분사망\"경고한美전문가,오픈AI이사회합류",
   "SKB,KBO포스트시즌직관이벤트",
-  "[썰물밀물]글로벌AI허브,인천의미래를말하자"
+  "[썰물밀물]글로벌AI허브,인천의미래를말하자",
+  "SK,영업이익14배전망…순차입금은6.6조↓",
+  "하나카드,정부'모두의AI'참여…상품탐색부터결제까지'AgentPay'개...",
+  "정재헌SK텔레콤CEO,글로벌통신업계와AI전략논의",
+  "신한카드,AI오구매·해킹막는결제안전체계만든다…FDS로부정결제...",
+  "팬플랫폼커진만큼...반드시필요한'개인정보잠금'[엔터그알]"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,17 @@
   [
    "2026-09-10T11:34:14.937500+09:00",
    "향방은 지배구조 스마일게이트"
+  ],
+  [
+   "2026-09-10T11:40:22.271169+09:00",
+   "FDS로 오구매 신한카드 결제안전 막는 부정결제 만든다 체계"
+  ],
+  [
+   "2026-09-10T11:40:22.271169+09:00",
+   "플랫폼 필요한 잠금 반드시 개인정보 만큼 커진"
   ]
  ],
- "last_run": "2026-09-10T11:38:35.505237+09:00",
+ "last_run": "2026-09-10T11:40:47.743361+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
