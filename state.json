@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wsobi.com/news/articleView.html?idxno=317954",
-  "https://www.etnews.com/20260910000300",
-  "https://www.etoday.co.kr/news/view/2624096",
-  "http://www.datanews.co.kr/news/article.html?no=146425",
-  "https://www.aitimes.com/news/articleView.html?idxno=215091",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699643",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3690924",
-  "https://www.fntimes.com/html/view.php?ud=202609101440549682b5b890e35c_18",
   "https://www.newscj.com/news/articleView.html?idxno=3431585",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=129563",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89090",
@@ -2999,17 +2991,17 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=317625",
   "https://www.aitimes.com/news/articleView.html?idxno=215138",
   "https://www.g-enews.com/view.php?ud=202609111240023852fbbec65dfb_1",
-  "https://economychosun.com/site/data/html_dir/2026/09/07/2026090700021.html"
+  "https://economychosun.com/site/data/html_dir/2026/09/07/2026090700021.html",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1405183",
+  "http://www.queen.co.kr/news/articleView.html?idxno=463208",
+  "https://www.naeil.com/news/read/601930",
+  "https://economychosun.com/site/data/html_dir/2026/09/07/2026090700020.html",
+  "https://www.naeil.com/news/read/601974",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1405142",
+  "https://economychosun.com/site/data/html_dir/2026/09/07/2026090700036.html",
+  "https://www.naeil.com/news/read/601932"
  ],
  "seen_titles": [
-  "제주,민간경비3사출동망야간치안에연결…골목·숙소까지순찰",
-  "한국의경계1순위가되어버린‘대만대표팀합류예정’한화왕옌청...",
-  "라젠카에이아이,헬스케어핀테크'메디바로'AI심사모델고도화",
-  "10년내인류멸망?…현실이된'AI통제한계'",
-  "AWS,대학생에'키로'1년간무료제공",
-  "네이버아시안게임특집페이지로스포츠팬잡는다",
-  "이노그리드-델타시스템,프라이빗클라우드전환분야'맞손'",
-  "[오피니언]AI투자는늘리고SW는줄였다",
   "카카오,NGO활동가100여명에AI업무활용법전수",
   "삼성전자우주가20만원돌파…장중20만1000원'고가'",
   "한섬·W컨셉'리던'플리마켓·K-패션팝업스토어오픈",
@@ -6001,7 +5993,15 @@
   "[이슈포커스]GS25서잡고도GSSHOP놓쳤다…GS리테일보안대응도마...",
   "앤트로픽,중국기업'무단증류'폭로…\"프록시타고클로드우회복제...",
   "닷컴버블공포맞선AI현금흐름…美증시실적장세굳힌다",
-  "[재계이슈]K-방산4사,2년연속'글로벌톱100'|한화6계단뛰어세..."
+  "[재계이슈]K-방산4사,2년연속'글로벌톱100'|한화6계단뛰어세...",
+  "[유통레이터]귀뚜라미그룹,제니퍼룸,힐러비리엔케이,매일유업,롯데...",
+  "대형주거형오피스텔'아파텔'주목...분양가30억원대에도청약열풍",
+  "오라클AI수주결실…인프라매출121%급증",
+  "[르포]세계1위여행사이트부킹닷컴네덜란드본사|지역사회와동...",
+  "AI패권,반도체생태계가가른다",
+  "[신상브리핑]교원투어,롱테이크,에이피알,뉴발란스,대교,롯데웰푸...",
+  "[해외칼럼]'게이트형경기침체'의시대…기술발전이익공유해야",
+  "AI증시호황막바지…버블경고음"
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,13 @@
   [
    "2026-09-11T13:00:33.061760+09:00",
    "연속 방산 6계단 4사 한화 뛰어 톱100 2년 글로벌"
+  ],
+  [
+   "2026-09-11T13:06:14.227030+09:00",
+   "증시 버블 호황 경고음 막바지"
   ]
  ],
- "last_run": "2026-09-11T13:04:34.273980+09:00",
+ "last_run": "2026-09-11T13:06:32.491668+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
