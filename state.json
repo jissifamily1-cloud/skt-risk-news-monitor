@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202609080813b",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637672",
-  "https://www.xportsnews.com/article/2194266",
-  "https://wemakenews.co.kr/news/view.php?no=26278",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=310840",
-  "https://www.mk.co.kr/article/12149367",
-  "https://www.yna.co.kr/view/AKR20260910115400009?input=1195m",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60651",
   "https://zdnet.co.kr/view/?no=20260910151653",
   "https://www.etoday.co.kr/news/view/2624122",
@@ -2999,16 +2992,16 @@
   "https://biz.chosun.com/it-science/ict/2026/09/11/73AJ3K2UUBBFZP5WQMW3H5R3EA/",
   "http://www.yonhapnewstv.co.kr/news/MYH20260911134231MRa",
   "https://www.edaily.co.kr/News/Read?newsId=03863846645579136&mediaCodeNo=257",
-  "https://view.asiae.co.kr/article/2026091113402983195"
+  "https://view.asiae.co.kr/article/2026091113402983195",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8661162",
+  "https://www.newspim.com/news/view/20260911000692",
+  "https://www.newspim.com/news/view/20260911000703",
+  "https://www.newspim.com/news/view/20260911000673",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699966",
+  "https://www.chosun.com/economy/weeklybiz/2026/09/04/N2VS3VNRBRAPRJB6MI5NZ6C6WY/",
+  "https://www.newspim.com/news/view/20260911000678"
  ],
  "seen_titles": [
-  "대구광역시,경북과'4극3특과학기술혁신'출범...131억투입·미래산업...",
-  "[Game&Now]크래프톤'디어센트'스위치2로…스마일게이트'이클립스...",
-  "스마일게이트,MMORPG'이클립스:더어웨이크닝'정식출시",
-  "쿠팡,아이폰18프로등애플신제품사전예약…트레이드인추가보상",
-  "추경호대구광역시장,추석앞두고1천억원대구로페이발행·5천억원금...",
-  "쿠팡,‘아이폰듀오·18프로’사전예약실시…트레이드인혜택강화",
-  "스마트폰값올해15%뛰었다…메모리공급난에소비자부담↑",
   "알트먼\"AI혜택홍보미흡했다\"자성…대중설득나선빅테크",
   "[허무호의근본경제]영원한1등은없다···S&P100에서퇴출된나이키",
   "TSMC8월매출53%껑충...\"설비확대에도AI칩수요못따라잡아\"",
@@ -6001,7 +5994,14 @@
   "젠슨황“AI다음격전지는사이버보안”",
   "[경제읽기]유가·국채금리급등에코스피하락…삼전닉스급락",
   "아버지와의약속지킨이상희,일본우승이어한국서도‘트로피사냥...",
-  "한성숙총리\"국적따른기업차별없어…AI로얽힌규제풀고글로벌H..."
+  "한성숙총리\"국적따른기업차별없어…AI로얽힌규제풀고글로벌H...",
+  "[영상]허무하게무너진롯데…사직에서16실점",
+  "[AI프리뷰]11일대구삼성-키움전,'우승청부사'페덱삼성1위탈환이...",
+  "[AI프리뷰]11일대전한화-NC전,'790일만에승리도전'이재학NC5강...",
+  "[AI프리뷰]11일광주KIA-SSG전,팀연패탈출과11승노리는KIA양현종",
+  "언제든끼어들기OK…오픈AI,동시청취·발화가능한음성AI'GPT-라이브...",
+  "“AI덕분에창업문턱낮아져…더빨리,많이시도하라”",
+  "[AI프리뷰]11일부산롯데-KT전,AG소집직전선두KT상대하는롯데에..."
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,17 @@
   [
    "2026-09-11T13:50:20.220279+09:00",
    "풀고 없어 얽힌 글로벌 국적 한성숙 따른 AI로 차별 총리 규제 기업"
+  ],
+  [
+   "2026-09-11T13:52:16.275940+09:00",
+   "직전 11일 AG ~KT 선두 상대하는 롯데 KT전 소집 부산"
+  ],
+  [
+   "2026-09-11T13:52:16.275940+09:00",
+   "많이 덕분에 시도하라 문턱 빨리 창업 낮아져"
   ]
  ],
- "last_run": "2026-09-11T13:50:43.350579+09:00",
+ "last_run": "2026-09-11T13:52:40.091575+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
