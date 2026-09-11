@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://kr.aving.net/news/articleView.html?idxno=1814293",
-  "https://www.newspim.com/news/view/20260910000891",
-  "http://www.inews24.com/view/2004301",
-  "https://www.news1.kr/world/northeast-asia/6286549",
-  "https://www.asiatime.co.kr/article/20260910500322",
-  "https://gg.newdaily.co.kr/site/data/html/2026/09/10/2026091000302.html",
-  "https://www.mediapen.com/news/view/1122751",
   "https://www.kbsm.net/news/view.php?idx=533711",
   "https://www.the-today.com/news/articleView.html?idxno=89906",
   "https://www.gukjenews.com/news/articleView.html?idxno=3691188",
@@ -2999,16 +2992,16 @@
   "https://www.ezyeconomy.com/news/articleView.html?idxno=239683",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=300764",
   "https://www.mk.co.kr/article/12150416",
-  "https://www.donga.com/news/Economy/article/all/20260911/134650167/1"
+  "https://www.donga.com/news/Economy/article/all/20260911/134650167/1",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=419109",
+  "https://www.mk.co.kr/article/12144902",
+  "https://www.asiatime.co.kr/article/20260911500238",
+  "https://www.viva100.com/article/20260911500592",
+  "http://www.newskr.kr/news/articleView.html?idxno=106313",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=89543",
+  "https://imnews.imbc.com/news/2026/econo/article/6851195_36932.html"
  ],
  "seen_titles": [
-  "인천시,前직원개인정보해킹확인…유출경위조사착수",
-  "최태원,울산서AI현장경영…SK‘풀스택프로바이더’전략직접챙긴...",
-  "카드고릴라,AI구독료줄이는카드혜택소개…해외결제할인도활용",
-  "스마일게이트,신작MMORPG'이클립스:더어웨이크닝'출시",
-  "중국,‘증류로미국AI훔쳤다’비판에“미국도한다”",
-  "[데스크라인]AI시대국경선긋기",
-  "한은\"글로벌AI투자올해정점…외부자금의존은리스크\"",
   "AWS‘키로스튜던트’한국상륙…서울대·연세대·국민대재학생1년...",
   "신한카드,SKT와AI결제표준구축...대화창서결제까지한번에",
   "개인정보또털리면매출10%…'유출전력'기업긴장",
@@ -6001,33 +5994,16 @@
   "이통3사,아이폰18프로사전예약시작…할인·AI·교체혜택경쟁",
   "애플첫폴더블'아이폰듀오'온다…KT,10월23일출시",
   "‘젠슨황막걸리’미국서통했다…“한국스타트업,美진출은이렇게...",
-  "“오픈AI잇따른난제풀이,수학자아이디어AI가도용한것”"
+  "“오픈AI잇따른난제풀이,수학자아이디어AI가도용한것”",
+  "LGU+,아이폰18프로12일예약시작…최대20만원할인",
+  "곧100만명바글바글몰려든다는‘이곳’…불꽃축제대란에맞서는이...",
+  "최태원,울산서AX현장경영…“AI데이터센터·제조현장하나로이어져...",
+  "LG유플러스,‘아이폰18프로’·아이폰18프로맥스‘사전예약개시",
+  "LG유플러스,아이폰18프로사전예약개시...최대20만원할인",
+  "젠슨황\"AI다음격전지는사이버보안\",엔비디아투자논란도반박",
+  "개인정보위,구글'디지털성범죄'피해자정보유출조사착수"
  ],
  "recent_sigs": [
-  [
-   "2026-09-11T08:24:13.528979+09:00",
-   "표준 페이 대화창서 결제 챗봇 바로 신한카드 만든다 에이전트"
-  ],
-  [
-   "2026-09-11T08:24:13.528979+09:00",
-   "재점화 골드만삭스 논쟁 재앙론 수장들 행사서 빅테크 반박"
-  ],
-  [
-   "2026-09-11T08:24:13.528979+09:00",
-   "유족은 로봇 선대회장 법정행 회장은 연일 구광모 챙기는데"
-  ],
-  [
-   "2026-09-11T08:24:13.528979+09:00",
-   "생물무기 클로드 5건 차단 악용 우려"
-  ],
-  [
-   "2026-09-11T08:24:13.528979+09:00",
-   "LG유플러스 수사 서버 재설치 폐기 증거인멸 OS 경찰 정황 ~LGU"
-  ],
-  [
-   "2026-09-11T08:26:14.295391+09:00",
-   "인프라 씨메스로보틱스 차세대 주목 탑재 피지컬 B300"
-  ],
   [
    "2026-09-11T08:34:15.478881+09:00",
    "이유 나온 30여 들고 거리로 번쩍 로봇이 시위"
@@ -6593,7 +6569,7 @@
    "풀이 AI가 아이디어 수학자 잇따른 도용한 난제"
   ]
  ],
- "last_run": "2026-09-11T14:24:42.176569+09:00",
+ "last_run": "2026-09-11T14:26:35.898693+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
