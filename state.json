@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswatch.kr/news/articleView.html?idxno=81048",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708332",
-  "http://www.joseilbo.com/news/news_read.php?uid=575341&class=18",
-  "https://www.mt.co.kr/economy/2026/09/11/2026091019561439179",
-  "https://www.newsis.com/view/NISX20260909_0003783227",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169709",
   "http://www.inews24.com/view/2003367",
   "https://www.mk.co.kr/article/12147202",
   "https://www.dailian.co.kr/news/view/1687860/?sc=Naver",
@@ -2999,15 +2993,15 @@
   "https://www.newsis.com/view/NISX20260908_0003780384",
   "https://www.huffingtonpost.kr/article/260250",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6850187_37004.html",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4105112"
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4105112",
+  "http://www.kwangju.co.kr/article.php?aid=1789165800803274367",
+  "https://www.theguru.co.kr/news/article.html?no=106988",
+  "https://www.thisisgame.com/articles/429681",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423561",
+  "https://www.imaeil.com/page/view/2026091207214324056",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700146"
  ],
  "seen_titles": [
-  "엔스로픽\"6개월걸리던개발,직원5명이이틀로단축\"",
-  "AI에게화장품물었더니…메디힐독주·스킨케어2.9점초접전",
-  "RAG·로컬LLM·MCP…생성형AI의핵심흐름정리",
-  "구글크롬,이제2주마다업데이트…AI가바꾼보안환경",
-  "인공지능(AI)시대,브레이크뉴스언론사사주(오너)의‘신세타령’",
-  "인사커뮤니케이션,의료콘텐츠의미보존특허등록…‘병원GEO마케팅...",
   "[초점]현대이어삼성도참전…개인사업자카드'AI구독'혜택경쟁",
   "삼성전자,미스트랄AI와'반도체특화AI'개발···지분투자로유럽...",
   "챗GPT·클로드·제미나이결제늘자…카드사‘AI할인’경쟁심화",
@@ -6001,7 +5995,13 @@
   "\"AGI시대열었다\"…챗GPT아스트라,삼전닉스'HBM장기호황'새동력?",
   "삼성SDS대표이준희\"AI는업무,AX는비즈니스바꾼다\":오픈AI엔트로...",
   "'수능만점'아스트라의등장‥\"범용인공지능(AGI)도래했다\"",
-  "[금융한입]다시뜨거워진반도체주…삼전닉스어디까지"
+  "[금융한입]다시뜨거워진반도체주…삼전닉스어디까지",
+  "[광클]주말,전남광주즐길거리",
+  "엔화6개월만에최고…일본완성차수익성'빨간불'",
+  "디지털익스트림즈,'워프레임'및'소울프레임'신규업데이트공개",
+  "AI모델가격인상···반도체가격부담에상장까지",
+  "앤스로픽\"클로드,생물무기연구에악용시도…8개월간수십건차단\"",
+  "오픈AI,투자은행용'챗GPT포파이낸셜서비스'출시"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,17 @@
   [
    "2026-09-12T07:22:19.595608+09:00",
    "챗GPT 오픈AI와 GSA 토큰요금 이용자 2300만명으로 계약 할인"
+  ],
+  [
+   "2026-09-12T07:42:13.983891+09:00",
+   "챗GPT 투자은행용 파이낸셜 출시 서비스"
+  ],
+  [
+   "2026-09-12T07:42:13.983891+09:00",
+   "악용 클로드 차단 생물무기 수십 8개월간 연구에 시도"
   ]
  ],
- "last_run": "2026-09-12T07:40:44.517088+09:00",
+ "last_run": "2026-09-12T07:42:41.048515+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
