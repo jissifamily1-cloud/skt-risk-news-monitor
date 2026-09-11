@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112873415",
-  "http://www.osen.co.kr/article/G1112873403",
-  "http://www.osen.co.kr/article/G1112873398",
-  "http://www.osen.co.kr/article/G1112873399",
-  "http://www.osen.co.kr/article/G1112873401",
-  "http://www.osen.co.kr/article/G1112873397",
   "http://www.osen.co.kr/article/G1112873406",
   "http://www.osen.co.kr/article/G1112873404",
   "http://www.newstown.co.kr/news/articleView.html?idxno=715438",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=1413032",
   "https://sports.hankooki.com/news/articleView.html?idxno=6939565",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=311565",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260911184156Aqn"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260911184156Aqn",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=60736",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260911185106c4y",
+  "https://it.donga.com/109522/",
+  "https://www.betanews.net/article/view/beta202609110057",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=358856",
+  "https://www.mt.co.kr/industry/2026/09/11/2026091111014946592"
  ],
  "seen_titles": [
-  "울산찾은최태원\"SK그룹멤버사간시너지로AI시대선도하자\"",
-  "SK최태원울산AI데이터센터·CLX현장점검,\"AI시대선도하자\"",
-  "[사진]힐리어드,위풍당당솔로홈런",
-  "[사진]힐리어드,솔로홈런",
-  "[사진]힐리어드,터졌다솔로홈런",
-  "[사진]고개숙인비슬리,힐리어드에게홈런도맞았다.",
   "[사진]힐리어드,솔로홈런세리머니",
   "[사진]비슬리와박재엽,아쉬운5실점",
   "[사진]솔로포치고이강철감독축하받는힐리어드",
@@ -6001,7 +5995,13 @@
   "라포랩스,SK스토아최다액출자자변경승인재신청",
   "[건설소식]부영그룹·KCC건설·삼환기업·IPARK현대산업개발",
   "AI연구원\"AI에인류멸종\"美국방부\"공포몰이\"…누구말이맞나[IT...",
-  "겹악재에출렁인코스피…7,000선반납"
+  "겹악재에출렁인코스피…7,000선반납",
+  "[ICT종합]네이버페이및SOOP소식외",
+  "中AI,클로드몰래베꼈나…기술복제수법은?",
+  "AI열풍에'금값'된그래픽카드,반값매물의함정",
+  "LG유플러스,아이폰18Pro·ProMax사전예약개시",
+  "KT,서울아산병원과'AI병원'공동구축…영상판독·기록통합부터임...",
+  "[칼럼]AI모델딜레마,AI가할업무부터정하라"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,17 @@
   [
    "2026-09-11T18:32:18.819450+09:00",
    "주파수 따로 세워야 대역마다 다르나 산정 원칙 재할당"
+  ],
+  [
+   "2026-09-11T18:56:52.898421+09:00",
+   "서울아산병원과 구축 통합부터 AI병원 영상 기록 공동 판독 ~KT"
+  ],
+  [
+   "2026-09-11T18:56:52.898421+09:00",
+   "정하라 딜레마 모델 AI가 업무부터"
   ]
  ],
- "last_run": "2026-09-11T18:54:30.413546+09:00",
+ "last_run": "2026-09-11T18:57:16.546195+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
