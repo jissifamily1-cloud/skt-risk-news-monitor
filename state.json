@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202609101433013?pt=nv",
-  "https://www.mt.co.kr/industry/2026/09/10/2026090917410384377",
   "https://dealsite.co.kr/articles/168796",
   "https://www.itdaily.kr/news/articleView.html?idxno=241525",
   "https://www.econovill.com/news/articleView.html?idxno=750438",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20260907_0003779790",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000064538",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699957",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609110756261700106832"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609110756261700106832",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=852826",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=64165"
  ],
  "seen_titles": [
-  "오픈AI에이전트끼리독일위키서'비밀대화'…사고공개기준만든다",
-  "구글크롬,보안환경변화에따라업데이트주기2주로단축",
   "[이슈포커스]GS25서잡고도GSSHOP놓쳤다…GS리테일보안대응도마...",
   "11일부터개보법강화…반복·중대개인정보유출땐매출10%과징금",
   "[사건현장]가둔직후AI에질문도…드러나는계획범죄정황",
@@ -6001,7 +5999,9 @@
   "[오늘의주요일정]과기정통부·방미통위·개보위(9월8일화요일)",
   "전남광주시금고평가에지역별영업망반영…시의회본회의통과",
   "엔비디아,팔란티어와협력...핵심공급망에소버린AI도입",
-  "[더벨]MBK김병주·김광일,홈플러스빚300억사재로갚았다"
+  "[더벨]MBK김병주·김광일,홈플러스빚300억사재로갚았다",
+  "이통3사'5G단독모드전환'속도전…앞선KT에SKT·LGU+\"연내상용화...",
+  "옴니사,AI를API밖으로꺼냈다…GPU보다중요한'세션통제권'"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-09-11T12:44:50.501526+09:00",
    "팔란티어와 소버린AI 도입 협력 핵심 공급망에"
+  ],
+  [
+   "2026-09-11T12:50:21.754778+09:00",
+   "밖으로 AI를 옴니사 통제권 꺼냈다 중요한 세션 GPU보다 API"
   ]
  ],
- "last_run": "2026-09-11T12:48:29.605743+09:00",
+ "last_run": "2026-09-11T12:50:45.477509+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
