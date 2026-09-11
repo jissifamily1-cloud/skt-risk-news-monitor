@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607071021529227",
-  "http://www.fnnews.com/news/202607021827006060",
-  "https://view.asiae.co.kr/article/2026062616565302401",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86671",
-  "https://www.ajunews.com/view/20260619161716262",
-  "https://www.chosun.com/economy/money/2026/06/23/ATM2INJMURFLDHQOK53RQ6KCK4/",
-  "http://www.newstomato.com/ReadNews.aspx?no=1313243&inflow=N",
   "https://zdnet.co.kr/view/?no=20260910135738",
   "https://www.mt.co.kr/tech/2026/09/10/2026091011464873359",
   "https://www.mt.co.kr/tech/2026/09/10/2026091011170835388",
@@ -2999,16 +2992,16 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=142891",
   "https://www.ddaily.co.kr/page/view/2026081009172588187",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=204328",
-  "https://www.munhwa.com/article/11616376"
+  "https://www.munhwa.com/article/11616376",
+  "https://www.etoday.co.kr/news/view/2611582",
+  "https://www.ddaily.co.kr/page/view/2026080509453173722",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7176812",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2292005",
+  "https://newscham.net/articles/117005",
+  "https://www.g-enews.com/view.php?ud=202607252218095193906806b77b_1",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7175935"
  ],
  "seen_titles": [
-  "[허프생각]노배우들의회한에AI인프라구축난제해결방안있다:...",
-  "IPO추진AI기업들,연말앤트로픽상장에시기맞춰",
-  "바디프랜드\"신세계백화점강남점에서헬스케어로봇체험하세요\"",
-  "[건설브리핑]포스코이앤씨·대우건설·대보건설·현대엔지니어링",
-  "페이스메이커스·동국대MBA,스타트업멘토최고위‘GSMP’7기개강",
-  "셀트리온,유럽서옴리클로판매순항…\"26개국진출,스페인90%점유...",
-  "레드햇,'레드햇AI3.5'출시…엔터프라이즈AI안전성·관측성강화",
   "[AI전쟁]삼성전자의대규모프랑스미스트랄AI투자,한국'소버린A...",
   "삼성,프랑스AI기업미스트랄에수억유로투자할수도",
   "중국산AI,가성비앞세워'진격'...에어비앤비·지멘스·AWS도쓴다",
@@ -6001,7 +5994,14 @@
   "[AI쩐의전쟁]①현금떨어진빅테크들...자금조달에물불안가린다",
   "전력·환경논란에뿔난주민들…美데이터센터건설금지구역500곳돌...",
   "최태원SK회장,울산서AX현장경영…카카오,카카오툴즈에7개서비스...",
-  "유출된내정보찾아삭제…‘AI로흔적지우기’확산"
+  "유출된내정보찾아삭제…‘AI로흔적지우기’확산",
+  "메타,첫AI코딩에이전트공개⋯오픈AIㆍ엔스로픽과본격경쟁",
+  "\"데이터센터매출2배급증\"…AMD,2분기115억달러사상최대실적",
+  "\"AI거품이라더니\"…삼성전자·SK하이닉스,사상최대실적으로답했다",
+  "[세상보기]AI와인문역량",
+  "AI와군비경쟁에치솟는광물수요",
+  "[김대호진단]반도체열전(22)엔스로픽...인공지능AI남매의반란",
+  "\"'AI거품론'무엇?\"…삼성·SK,美빅테크와9500억달러협력"
  ],
  "recent_sigs": [
   [
@@ -6557,7 +6557,7 @@
    "정보 삭제 확산 유출된 AI로 지우기 흔적 찾아"
   ]
  ],
- "last_run": "2026-09-11T12:16:33.790292+09:00",
+ "last_run": "2026-09-11T12:18:30.405426+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
