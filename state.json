@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12317834?influxDiv=NAVER",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=53960",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=864293",
-  "https://www.insight.co.kr/news/572962",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5218498",
   "https://www.m-i.kr/news/articleView.html?idxno=1412702",
   "https://www.gukjenews.com/news/articleView.html?idxno=3691652",
@@ -2999,13 +2995,13 @@
   "https://www.nytimes.com/es/2026/09/12/espanol/ciencia-y-tecnologia/tristan-buckmaster-openai-anthropic-nyu.html?partner=naver",
   "https://www.sportschosun.com/baseball/2026-09-12/202609120100082960005397",
   "https://sports.khan.co.kr/article/202609121606003?pt=nv",
-  "https://www.hani.co.kr/arti/international/international_general/1277473.html"
+  "https://www.hani.co.kr/arti/international/international_general/1277473.html",
+  "https://www.sportsseoul.com/news/read/1634562",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6939571",
+  "https://view.asiae.co.kr/article/2026091216154554169",
+  "https://www.insight.co.kr/news/573173"
  ],
  "seen_titles": [
-  "[원자재시황]전망치웃돈물가에위축된시장",
-  "[뉴욕마켓워치]발작을일으켜도답이없다는게문제…주식·채권↓달...",
-  "[AIMY증시전망]뉴욕증시4거래일연속하락…외인수급·유가·美CPI...",
-  "[모닝리포트]\"씨메스로보틱스,로봇넘어피지컬AISW로…내년흑자전...",
   "삼성증권도발행어음인가···모험자본경쟁인가레버리지경쟁인가",
   "젠슨황\"AI분야다음거대시장은사이버보안\"",
   "손번쩍들고시위…30여대로봇이거리로나온이유[소셜픽]",
@@ -6001,7 +5997,11 @@
   "ElmatemáticoatrapadoentreOpenAIyAnthropicporunproblemamatemá",
   "'부상쇼크'KIA,이선수까지다쳤으면어쩔뻔했나…\"DH땀식어서수...",
   "이강철KT감독“1위로올라가는게중요하다···여기도,대구도빅매...",
-  "“인공지능수학풀이,인간지적활동위협”최고수학상‘필즈상’..."
+  "“인공지능수학풀이,인간지적활동위협”최고수학상‘필즈상’...",
+  "라인업변경부른수비실책…‘나승엽선발제외’김태형감독은왜...",
+  "\"김도영내일(13일)나올수있을것\"…이범호감독이밝힌김도영의현...",
+  "오라클창업자앨리슨,주식5000만주처분한다",
+  "'월26만원'에도가입자폭증...오픈AI,'아스트라'신규가입일시중단"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-09-12T16:12:15.869792+09:00",
    "entre atrapado Anthropic problema por un matem El tico"
+  ],
+  [
+   "2026-09-12T16:24:18.107637+09:00",
+   "신규가입 아스트라 폭증 26만원 에도 가입자 일시중단"
   ]
  ],
- "last_run": "2026-09-12T16:22:31.580429+09:00",
+ "last_run": "2026-09-12T16:24:35.843811+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
