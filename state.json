@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=853449",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723910",
   "https://gamefocus.co.kr/detail.php?number=178991",
   "https://www.newsinside.kr/news/articleView.html?idxno=4996156",
   "http://www.newslock.co.kr/news/articleView.html?idxno=136080",
@@ -2999,11 +2997,11 @@
   "https://www.sedaily.com/article/20090161",
   "https://www.newsis.com/view/NISX20260911_0003786213",
   "https://www.yna.co.kr/view/AKR20260911118800008?input=1195m",
-  "https://www.hankookilbo.com/news/article/A2026091300050000941?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026091300050000941?did=NA",
+  "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1428735",
+  "https://www.edaily.co.kr/News/Read?newsId=01134886645579792&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "12일부터아이폰18프로사전예약…이통3사혜택경쟁'불꽃튄다'",
-  "고유가·고금리에…코스피6,800선후퇴",
   "스페이스X,AI데이터센터'속도전'멈춘다…전력·냉각부터보강",
   "교원투어,미서부명문대·실리콘밸리탐방패키지출시",
   "네오사피엔스,\"말하는AI넘어대화하는AI로\"…상장자금절반이상연...",
@@ -6001,7 +5999,9 @@
   "유가100달러·美금리5%눈앞…FOMC가‘7000피’안착시험대[선데이머...",
   "\"유가·금리경계vsAI모멘텀지속\"…FOMC주목[주간증시전망]",
   "[마켓스토리]'전쟁·유가·금리'삼중고…외인셀코리아어쩌나",
-  "\"한번더\"집요하게통제하는지휘자…베를린필단원들'의외의반응'"
+  "\"한번더\"집요하게통제하는지휘자…베를린필단원들'의외의반응'",
+  "\"AI가인류멸망시킬것\"…오픈AI·엔트로픽거친연구원의'경고'[포크...",
+  "‘농심3세’신상열부사장오늘결혼…SKT평사원과백년가약"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-09-13T07:12:23.084014+09:00",
    "베를린 단원들 통제하는 집요하게 한번 반응 의외의 지휘자"
+  ],
+  [
+   "2026-09-13T07:14:13.837440+09:00",
+   "결혼 평사원과 농심 백년가약 ~SKT 부사장 신상열 3세"
   ]
  ],
- "last_run": "2026-09-13T07:12:46.207801+09:00",
+ "last_run": "2026-09-13T07:14:36.697789+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
