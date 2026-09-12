@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000334023?division=NAVER",
-  "http://kor.theasian.asia/archives/415151",
-  "https://www.sidae.com/article/2026091107032492879",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699835",
   "https://slownews.kr/166251",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6851103_37012.html",
   "https://kstar.kbs.co.kr/list_view.html?idx=409627",
@@ -2999,13 +2995,13 @@
   "http://www.osen.co.kr/article/G1112874196",
   "https://www.mydaily.co.kr/page/view/2026091120181384841",
   "https://www.xportsnews.com/article/2194918",
-  "https://www.etnews.com/20260912000009"
+  "https://www.etnews.com/20260912000009",
+  "https://www.newswhoplus.com/news/articleView.html?idxno=69557",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318520",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318476",
+  "https://www.news1.kr/world/usa-canada/6288312"
  ],
  "seen_titles": [
-  "[에이전틱AI맵2026]마크노바,이상징후먼저살피는AI돌봄…'노바...",
-  "오픈AI,'AI안전전문가'재단이사로선임",
-  "[AI는지금]\"10년내인류멸망\"경고한앤트로픽연구원퇴사vs오픈A...",
-  "뉴욕증시,유가100달러·美국채금리급등에나흘째하락",
   "유가100달러돌파·국채금리급등…뉴욕증시나흘째미끄러졌다",
   "뉴욕증시,중동불안·유가급등에하락…나스닥나흘째약세",
   "[마켓브리핑]뜨거운美8월PPI에9월금리인상가능성급등",
@@ -6001,7 +5997,11 @@
   "5강싸움종결아니었어?9G차→17일만에3G차실화인가…잠실벌초대...",
   "김도영없는데카스트로까지절뚝절뚝…박재현도곧나가는데,KIA타선...",
   "\"KIA10월3연전3위결정전될수도\"염갈량준PO직행사수할까…1위...",
-  "[부음]서민우(전KT상무)씨모친상"
+  "[부음]서민우(전KT상무)씨모친상",
+  "GPT-6아스트라가키운메모리수요…삼성·SK기회확대",
+  "[집중분석]대미투자압박의역설,그리고'GPT-6아스트라'",
+  "\"이런수요처음\"오픈AI결국신규가입막았다…'아스트라'에무슨일...",
+  "오픈AIAI에이전트,허깅페이스해킹두달전'루비젬스'도공격"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,13 @@
   [
    "2026-09-12T10:38:16.023422+09:00",
    "동맹 혁명 속도 소버린 붙는다 팔란티어와"
+  ],
+  [
+   "2026-09-12T10:48:15.523633+09:00",
+   "허깅페이스 에이전트 루비젬스 공격"
   ]
  ],
- "last_run": "2026-09-12T10:46:32.607074+09:00",
+ "last_run": "2026-09-12T10:48:36.416502+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
