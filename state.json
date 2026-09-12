@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6851112_37012.html",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363020",
   "https://www.gokorea.kr/news/articleView.html?idxno=878005",
   "https://www.aitimes.com/news/articleView.html?idxno=215118",
   "http://www.inews24.com/view/2004474",
@@ -2999,11 +2997,11 @@
   "https://www.tokenpost.kr/news/breaking/406820",
   "https://www.news1.kr/world/usa-canada/6288333",
   "https://www.aitimes.kr/news/articleView.html?idxno=41885",
-  "https://www.wikitree.co.kr/articles/1159027"
+  "https://www.wikitree.co.kr/articles/1159027",
+  "http://www.metroseoul.co.kr/article/20260912500006",
+  "https://www.tokenpost.kr/news/briefing/406828"
  ],
  "seen_titles": [
-  "티빙,개인정보유출민사부담커진다...한소송서만420억원청구",
-  "SK그룹회장법적분쟁,노소영관장변호사'명예훼손불기소'결정의...",
   "[K-INVESTORS]M&A자문최고수의노하우는…\"믿을맨이되자\"",
   "수없이나온AI종말론,이번엔왜세계뒤흔들었나",
   "국제유가,100달러뚫자뉴욕증시나흘째추락···기술주도흔들",
@@ -6001,7 +5999,9 @@
   "앤스로픽프리IPO토큰출시뒤밈코인시총424만달러",
   "\"예멘무기조직,AI'클로드'로탄도미사일개발…시험발사까지\"",
   "\"AI가공격도구넘어공격자체를조율한다\"...앤트로픽,실제AI악용...",
-  "‘연애박사’故안판석감독유작베일벗다…추영우·김소현로맨스..."
+  "‘연애박사’故안판석감독유작베일벗다…추영우·김소현로맨스...",
+  "美CPI예상치부합·유가진정...뉴욕증시,5거래일만에반등",
+  "[오후뉴스브리핑]BTC고래,4일간1075.6개매수外"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-09-12T11:54:15.726623+09:00",
    "시험발사까지 클로드 탄도미사일 개발 무기조직 예멘"
+  ],
+  [
+   "2026-09-12T12:04:17.486671+09:00",
+   "매수 4일간 고래 BTC 6개"
   ]
  ],
- "last_run": "2026-09-12T12:02:36.791775+09:00",
+ "last_run": "2026-09-12T12:04:38.270398+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
