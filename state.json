@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2624567",
-  "https://www.tokenpost.kr/news/breaking/406306",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594239975185",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3692354",
-  "http://www.newstomato.com/ReadNews.aspx?no=1313408&inflow=N",
-  "https://www.mediapen.com/news/view/1122980",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3692337",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3692339",
-  "https://www.newspim.com/news/view/20260911000504",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=358829",
-  "https://www.edaily.co.kr/News/Read?newsId=04316486645579136&mediaCodeNo=257",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1292567",
   "https://www.hankyung.com/article/2026091192797",
   "https://www.yna.co.kr/view/AKR20260911118900017?input=1195m",
@@ -2999,20 +2988,20 @@
   "https://www.ddaily.co.kr/page/view/2026091309363895145",
   "https://www.ddaily.co.kr/page/view/2026091217444935706",
   "http://www.metroseoul.co.kr/article/20260913500098",
-  "http://coinreaders.com/257926"
+  "http://coinreaders.com/257926",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89162",
+  "http://www.metroseoul.co.kr/article/20260913500107",
+  "https://www.edaily.co.kr/News/Read?newsId=01374326645579792&mediaCodeNo=257",
+  "https://www.edaily.co.kr/News/Read?newsId=01384166645579792&mediaCodeNo=257",
+  "https://www.newspim.com/news/view/20260913000019",
+  "https://www.ajunews.com/view/20260913100608710",
+  "https://www.dongascience.com/news/view/79887",
+  "https://news.mtn.co.kr/news-detail/2026091310181120265",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170025",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363096",
+  "https://www.chosun.com/economy/int_economy/2026/09/13/FNMQLES4XZGQVECHJES57EKVZU/"
  ],
  "seen_titles": [
-  "아이폰18고객잡아라⋯통신3사'혜택전쟁'돌입",
-  "트럼프\"AI,美우위우선\"vs올트먼\"속도조절해야\"시각차",
-  "\"이러다다죽어\"…美의회·업계,AI개발속도조절나서나",
-  "아스트라인기에⋯오픈AI,최고가요금제신규가입중단",
-  "마이클버리,엔비디아·팔란티어풋옵션청산",
-  "KT알파박정민대표,청소년불법도박근절릴레이캠페인동참",
-  "국가철도공단,전국철도역·건널목서안전캠페인…140여명참여",
-  "'3954만계정유출'티빙콕집은이대통령\"엄정한책임물어야\"",
-  "이대통령,티빙개인정보유출에\"법에따라엄정책임물어야\"",
-  "이정수중구의원\"미분양해제에안도할때아니다…주택공급만으론사...",
-  "울산IT경진대회,8명울산시장상수상...본선진출권확보",
   "[종합]AI·에너지안보해법머리맞댄'아시아포럼'…아시아협력·공...",
   "아이폰18프로사전예약시작…통신3사,할인·AI로고객잡기",
   "티빙4000만건개인정보유출에…李대통령“엄정한책임을물어야”",
@@ -6001,7 +5990,18 @@
   "SKT,경남고령지역서통신밀착지원…지자체와‘찾아가는서비스’",
   "<취재>“GPT처럼답만하지않는다”…KT‘모두의AI’,생활속실행...",
   "추석연휴사칭문자조심하세요…LG유플러스,보이스피싱대응체계가동",
-  "OpenAI·Anthropic·Meta등,AI안전성강조와제품고도화가속"
+  "OpenAI·Anthropic·Meta등,AI안전성강조와제품고도화가속",
+  "[게임이모저모]스마일게이트희망스튜디오,전국12개지역아동센터서...",
+  "[단독]코레일,명절기차표매크로차단늘었지만,암표거래단속후...",
+  "“일본서통할까”…KOSA·메가존클라우드,AI·SW10개사수출길뚫는다",
+  "최태원\"SK이노,AIDC전기화솔루션·에너지컨설팅으로확대\"",
+  "조정식의장취임100일...민생입법·국익외교·경제계협력등전방위...",
+  "최태원\"울산,제조AI전초기지로구축\"…'AI시티'청사진제시",
+  "앤트로픽CEO\"AI개발속도늦춰야\"…울트먼·머스크도동의",
+  "\"AI개발속도늦추자\"는앤트로픽CEO제안에…올트먼·머스크도동참",
+  "올트먼\"오픈AI,연내IPO안한다…AI안전문제해결우선\"",
+  "최태원\"AI,돈버는구조만들어야지속가능\"",
+  "“IPO도미루고,AI개발도천천히”…속도전에브레이크건올트먼·머..."
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,17 @@
   [
    "2026-09-13T10:24:17.186682+09:00",
    "제품 안전성 가속 Anthropic Meta 고도화 강조와"
+  ],
+  [
+   "2026-09-13T10:26:14.788663+09:00",
+   "만들어야 버는 지속가능 구조"
+  ],
+  [
+   "2026-09-13T10:26:14.788663+09:00",
+   "천천히 속도전에 미루고 브레이크 IPO도 개발도"
   ]
  ],
- "last_run": "2026-09-13T10:24:35.525715+09:00",
+ "last_run": "2026-09-13T10:26:38.756653+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
