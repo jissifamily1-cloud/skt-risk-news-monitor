@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2195040",
-  "https://www.xportsnews.com/article/2195039",
-  "http://www.osen.co.kr/article/G1112874524",
   "https://www.mk.co.kr/article/12151132",
   "http://www.osen.co.kr/article/G1112874522",
   "http://www.osen.co.kr/article/G1112874523",
@@ -2999,12 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=485720",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609110912308760108479",
   "http://www.inews24.com/view/2004953",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=245669"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245669",
+  "https://www.etoday.co.kr/news/view/2624917",
+  "https://biz.sbs.co.kr/article_hub/20000334340?division=NAVER",
+  "https://www.edaily.co.kr/News/Read?newsId=01833526645580120&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "유준규'공격적인도루'[포토]",
-  "[포토]안현민,1타점적시타쾅",
-  "[포토]적시타안현민,한점더!",
   "중·러,AI를‘무기개발자’삼았다…미사일설계하고바이러스개량",
   "[발행인칼럼]재외동포청,1300억원으로뭘할것인가",
   "[포토]한승택다독이는변우혁",
@@ -6001,7 +5998,10 @@
   "챗GPT는코스알엑스,제미나이는토리든…AI마다'뷰티1위'달랐다",
   "[더벨][동상이목(同想異目)]'세기의'이혼경제캠프",
   "삼성전자,日패키징R&D거점문열어…TSMC도택한'소부장강국'",
-  "[오늘의주요일정·14일]김성수대법관후보자인사청문회"
+  "[오늘의주요일정·14일]김성수대법관후보자인사청문회",
+  "트럼프,AI속도조절론에‘中견제’앞세워⋯“제패하는자가승리”",
+  "[증시전략]美연준금리결정임박·AI속도조절론부상…증시는?",
+  "[MUSTKNOW5]2조달러IPO·삼성HBM40%까지...투자자가알아야할5가지..."
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,17 @@
   [
    "2026-09-14T07:08:14.682052+09:00",
    "인사청문회 대법관 김성수 후보자"
+  ],
+  [
+   "2026-09-14T07:10:23.075415+09:00",
+   "연준 증시는 금리 임박 속도조절론 결정 부상"
+  ],
+  [
+   "2026-09-14T07:10:23.075415+09:00",
+   "5가지 알아야 HBM IPO 투자자가 삼성 2조달러 까지"
   ]
  ],
- "last_run": "2026-09-14T07:08:43.243956+09:00",
+ "last_run": "2026-09-14T07:10:46.556316+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
