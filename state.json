@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20260911500679",
-  "https://news.jtbc.co.kr/article/NB12317918?influxDiv=NAVER",
-  "https://www.hani.co.kr/arti/society/women/1277380.html",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171194",
   "http://www.yonhapnewstv.co.kr/news/AKR20260911150122VIY",
   "https://ilyo.co.kr/?ac=article_view&entry_id=512680",
   "http://www.newsprime.co.kr/news/article.html?no=747420",
@@ -2999,13 +2995,13 @@
   "https://www.greened.kr/news/articleView.html?idxno=349931",
   "http://www.yonhapnewstv.co.kr/news/AKR202609081056030Q1",
   "https://www.greened.kr/news/articleView.html?idxno=349933",
-  "https://www.mk.co.kr/article/12151245"
+  "https://www.mk.co.kr/article/12151245",
+  "https://www.newsis.com/view/NISX20260913_0003787110",
+  "https://www.mediapen.com/news/view/1123135",
+  "https://news.mtn.co.kr/news-detail/2026090713080149759",
+  "https://www.thepublic.kr/news/articleView.html?idxno=318536"
  ],
  "seen_titles": [
-  "[CEO풍향계]'치폴레승부수'허희수…'세번째사과'최주희",
-  "\"미국방부,AI클라우드스타트업에6.7조원대출제공검토\"",
-  "중국'GPU4소룡'엔플레임상장첫날188%폭등",
-  "경기회복흐름속중동전쟁·관세영향불확실성확대",
   "한성숙총리\"AI로규제분석해합리화,한미첨단산업협력확대\"…암...",
   "정부,구글‘불법촬영신상유출’과거피해도점검하겠다",
   "신한카드의'AI고도화'속...카카오AI는신한카드품었다",
@@ -6001,7 +5997,11 @@
   "현대차그룹,데이터플라이휠공개…아트리아AI양산은2029년으로",
   "삼성SDS,AI기업손잡고로봇까지…AX혁신영역확장",
   "울산포럼역대최대…최태원\"울산을AI시티로\"",
-  "“억만장자가산주식만따라담았더니”...8개월만에탄생한ETF의비..."
+  "“억만장자가산주식만따라담았더니”...8개월만에탄생한ETF의비...",
+  "\"택배주소확인\"사칭문자주의…LGU+,AI로좀비폰감염차단",
+  "美금리·유가급등에7000선무너진코스피…증권가\"6500선지지대형...",
+  "신발끈동여맨코스피,반도체러닝메이트업종은",
+  "LG유플러스,아이폰18프로·프로맥스사전예약개시…최대20만원할..."
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,13 @@
   [
    "2026-09-13T09:36:14.328661+09:00",
    "ETF의 탄생한 따라 8개월 주식만 억만장자가 담았더니 만에"
+  ],
+  [
+   "2026-09-13T09:38:16.041678+09:00",
+   "~LGU 개시 20만원 사전예약 아이폰 LG유플러스 프로 맥스"
   ]
  ],
- "last_run": "2026-09-13T09:36:32.919772+09:00",
+ "last_run": "2026-09-13T09:38:33.851937+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
