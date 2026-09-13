@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20260911201748i8z",
-  "http://www.osen.co.kr/article/G1112874109",
-  "https://www.newsis.com/view/NISX20260911_0003786547",
-  "https://www.tokenpost.kr/news/breaking/406465",
-  "http://andongmbc.co.kr/adboard/NewsView84728",
-  "https://www.the-today.com/news/articleView.html?idxno=89988",
-  "http://www.osen.co.kr/article/G1112874111",
-  "https://sports.khan.co.kr/article/202609111949003?pt=nv",
   "https://www.ytn.co.kr/_ln/0103_202609112040018953",
   "https://www.dailian.co.kr/news/view/1689532/?sc=Naver",
   "https://www.abcn.kr/news/articleView.html?idxno=91704",
@@ -2999,17 +2991,17 @@
   "https://www.kbmaeil.com/article/20260911500147",
   "https://www.ytn.co.kr/_ln/0134_202609131550153891",
   "https://www.sidae.com/article/2026091316012021622",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8662061"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8662061",
+  "https://www.edaily.co.kr/News/Read?newsId=05392326645579136&mediaCodeNo=257",
+  "https://www.xportsnews.com/article/2195233",
+  "https://sports.khan.co.kr/article/202609131637003?pt=nv",
+  "https://www.newsq.co.kr/news/articleView.html?idxno=500082",
+  "https://www.starnewskorea.com/sports/2026/09/13/2026091315231847306",
+  "https://www.cctoday.co.kr/news/articleView.html?idxno=2236655",
+  "https://sports.donga.com/sports/article/all/20260913/134658190/1",
+  "http://www.lawissue.co.kr/view.php?ud=202609131638122922f4ab64559d_12"
  ],
  "seen_titles": [
-  "한밭대수시1만7169명몰렸다…6년연속경쟁률상승",
-  "'코뼈골절'김도영,AG정상출전한다…14일대표팀합류",
-  "중동불안에'기름값·국채금리'급등…코스피7,000반납",
-  "이대통령\"개인정보유출엄정책임\"",
-  "음악플랫폼뮤팟해킹…성명·이메일등정보유출",
-  "[사진]김원중,베이스커버실책",
-  "'코뼈수술'KIA김도영,퇴원후선수단합류…AG정상출전확정(종합...",
-  "엔스케일,미국상장앞두고오픈AI피지시모선임",
   "의성,국내처음'제트스키국가대표선발전'개최",
   "美언론\"트럼프대통령,사우디왕세자의후티반군공격요청거절\"",
   "[사진]환호하는로건,김상수호수비에깜놀",
@@ -6001,7 +5993,15 @@
   "AI도속는다…눈에안보이는‘나쁜명령’을막아라!",
   "앤트로픽CEO\"AI발전속도늦춰야\"...개발급제동[자막뉴스]",
   "'25조전남광주금고'평가기준돌연변경에시끌",
-  "“10년안에다죽어”…AI대표들“개발늦춰야”[이런뉴스]"
+  "“10년안에다죽어”…AI대표들“개발늦춰야”[이런뉴스]",
+  "‘노태우비자금은닉’수사…검찰,노소영에참고인소환통보",
+  "'20년프로생활마감→은퇴식거행'황재균,1시간은퇴사예고?\"지금...",
+  "“도영아,어서와”…모두가기다린김도영컴백의날,챔피언스필드의...",
+  "꾸준함으로버틴20년,황재균의마지막인사[프로야구]",
+  "\"처음에엔트리넣었다빼는것보단...\"이강철감독,'11개월쉰'황재...",
+  "염홍철\"충청4개시·도힘모아세계인이기억할U대회만들것\"",
+  "수원서시작된KT황재균의야구,수원서마침표…“난참운좋은선수...",
+  "조정식국회의장취임100일…민생법안177건처리"
  ],
  "recent_sigs": [
   [
@@ -6233,7 +6233,7 @@
    "개발 대표들 늦춰야 죽어 10년 안에"
   ]
  ],
- "last_run": "2026-09-13T16:40:45.631865+09:00",
+ "last_run": "2026-09-13T16:42:30.719804+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
