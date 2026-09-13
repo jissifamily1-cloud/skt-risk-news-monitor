@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/international/international_general/1277401.html",
-  "https://www.hankyung.com/article/2026091193787",
-  "https://www.topdaily.kr/articles/111912",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=124496",
-  "https://www.mk.co.kr/article/12150538",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723971",
-  "https://www.edaily.co.kr/News/Read?newsId=04756006645578808&mediaCodeNo=257",
-  "https://www.wikitree.co.kr/articles/1158912",
   "https://www.wikitree.co.kr/articles/1158426",
   "https://www.sedaily.com/article/20089914",
   "https://www.joongangenews.com/news/articleView.html?idxno=547576",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/News/Read?newsId=01482566645579792&mediaCodeNo=257",
   "http://www.4th.kr/news/articleView.html?idxno=2117942",
   "https://www.seoultimes.news/news/article.html?no=2000099809",
-  "https://view.asiae.co.kr/article/2026091311130010217"
+  "https://view.asiae.co.kr/article/2026091311130010217",
+  "https://www.dailian.co.kr/news/view/1689695/?sc=Naver",
+  "https://www.edaily.co.kr/News/Read?newsId=01489126645579792&mediaCodeNo=257",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171222",
+  "https://www.dt.co.kr/article/12083575",
+  "https://www.edaily.co.kr/News/Read?newsId=01469446645579792&mediaCodeNo=257",
+  "https://www.g-enews.com/view.php?ud=202609131022565337fbbec65dfb_1",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4106224",
+  "https://www.aitimes.com/news/articleView.html?idxno=215202"
  ],
  "seen_titles": [
-  "코스피,외인·기관'팔자'에1%대하락…6900선후퇴",
-  "[퇴근길7분뉴스]홍해·애프터마켓·사이버보안·오픈AI",
-  "DGIST,AI최고급신진연구자육성···110억확보",
-  "“괜찮다고하네요”김도영이코에보호대를착용하고돌아왔다…복귀...",
-  "삼성이어애플도‘폴더블폰’…한때‘핸드폰강국’일본은어쩌다...",
-  "한성숙총리\"대미투자,상업적합리성지키며양국에이익돼야\"",
-  "[TOP'sPick][제약]GC녹십자,코로나19mRNA백신임상2상IND승인外",
-  "과기정통부,'해킹증거인멸의혹'LG유플러스대책내놓을까",
   "디지털자산기본법이달말분수령...지연되면내년상반기까지밀린다[...",
   "[1%초고수의선택]'한국콜마'사고'KT'팔았다",
   "홈쇼핑12개사재승인통과…현대홈쇼핑784.98점'1위'",
@@ -6001,7 +5993,15 @@
   "“우리가만들지만두렵다”…AI기업내부서‘개발감속론’확산",
   "SKT,경남고령층찾아간다…\"통신격차해소\"",
   "SK최태원“울산미래는AI시티”…제조AI키우고도시에예술더한다",
-  "SKT,경남4개군찾아간다…보이스피싱예방·스마트폰점검지원"
+  "SKT,경남4개군찾아간다…보이스피싱예방·스마트폰점검지원",
+  "환율급락에삼전닉스영업익전망21조증발",
+  "‘칠천피’찍고밀린코스피…반도체주도력시험대[주간증시전망]",
+  "NASA,IBM손잡고'달탐사'새AI개발..이유는?",
+  "환율1340원대급락여파…‘삼전닉스’영업익전망21조감소",
+  "GPT아스트라에AI랠리재점화…ETF‘다음수혜주’찾는다",
+  "수율25%갇힌中HBM의비명…알리바바'가짜96GB5090'낳았다",
+  "[이슈하이킥]현대차그룹,데이터플라이휠로자율주행기술고도화",
+  "\"지침줄이고완료기준명확히\"...오픈AI가밝힌'아스트라'활용법"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,13 @@
   [
    "2026-09-13T11:16:13.866948+09:00",
    "찾아간다 점검 ~SKT 예방 지원 경남 4개군 스마트폰 보이스피싱"
+  ],
+  [
+   "2026-09-13T11:22:13.358898+09:00",
+   "기준 오픈AI가 밝힌 완료 아스트라 활용법 명확히 지침 줄이고"
   ]
  ],
- "last_run": "2026-09-13T11:20:40.983982+09:00",
+ "last_run": "2026-09-13T11:22:39.166201+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
