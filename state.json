@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25461342",
-  "https://www.kukinews.com/article/view/kuk202609110171",
-  "https://dealsite.co.kr/articles/168907",
-  "http://www.inews24.com/view/2004894",
-  "https://www.hankyung.com/article/202609119251g",
   "https://www.ddaily.co.kr/page/view/2026091112034773952",
   "https://www.edaily.co.kr/News/Read?newsId=01243126645579792&mediaCodeNo=257",
   "https://www.itdaily.kr/news/articleView.html?idxno=241563",
@@ -2999,14 +2994,14 @@
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=253063",
   "https://biz.heraldcorp.com/article/10872522",
   "https://www.insight.co.kr/news/573353",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1724112"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724112",
+  "https://www.newsis.com/view/NISX20260914_0003788264",
+  "https://www.mt.co.kr/tech/2026/09/14/2026091411175162534",
+  "https://www.kukinews.com/article/view/kuk202609140093",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=129105",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000065134"
  ],
  "seen_titles": [
-  "AI학습→검증→車적용…돌발상황모아고도화[현대차그룹자율주행...",
-  "박민우현대차사장\"어정쩡한자율주행레벨2++안돼\"",
-  "현대차그룹,2년뒤'레벨2+'자율주행차양산…박민우\"자율주행없는...",
-  "현대차박민우\"자율주행개발,속도보다완성도…5년내데이터따라잡...",
-  "현대차그룹자율주행10문10답…2028년은엔비디아,2029년은아트리아로...",
   "현대차그룹자율주행'투트랙'가동…엔비디아로시간벌고아트리아에...",
   "2028년엔비디아,2029년자체'아트리아AI'…현대차그룹,자율주행'투...",
   "“엔비디아모델로시장진입후자체개발완성”…현대차자율주행...",
@@ -6001,7 +5996,12 @@
   "SKT,롯데월드어드벤처심야대관'어드벤처데이'…장기고객3000명초...",
   "SK텔레콤,장기고객3000명초청‘어드벤처데이’",
   "농심3세신상열부사장13일결혼...신부는'부장판사'출신문유석작...",
-  "[르포]\"SKT만33년썼어요\"…한밤중롯데월드에3천명이모였다"
+  "[르포]\"SKT만33년썼어요\"…한밤중롯데월드에3천명이모였다",
+  "항우硏,3000억파라미터AI직접돌린다…'KARIBRAIN'구축",
+  "'누리호주역'항우연,AX속도…대형모델직접구축해유출우려'불...",
+  "‘연구자료분석부터설계까지’…항우연,‘KARIBRAIN’구축추진",
+  "삼성파운드리,테슬라안고엔비디아로난다",
+  "앤트로픽,기업공개최대135조원조달추진…엔비디아13조원'앵커투..."
  ],
  "recent_sigs": [
   [
@@ -6787,9 +6787,17 @@
   [
    "2026-09-14T11:30:28.512320+09:00",
    "3천명이 한밤중 썼어요 SKT만 롯데월드에 ~SKT 33년 모였다"
+  ],
+  [
+   "2026-09-14T11:32:15.632588+09:00",
+   "안고 난다 테슬라 파운드리 엔비디아로 삼성"
+  ],
+  [
+   "2026-09-14T11:32:15.632588+09:00",
+   "13조원 135조원 앤트로픽 기업공개 조달 앵커"
   ]
  ],
- "last_run": "2026-09-14T11:30:52.771014+09:00",
+ "last_run": "2026-09-14T11:32:34.965003+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
