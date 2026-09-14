@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549990",
-  "https://www.mk.co.kr/article/12151308",
-  "https://www.techm.kr/news/articleView.html?idxno=155182",
-  "https://www.xportsnews.com/article/2195169",
-  "https://www.khan.co.kr/article/202609131248001",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637829",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208416",
-  "https://www.dt.co.kr/article/12083595",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=69567",
   "https://www.mydaily.co.kr/page/view/2026091303275866101",
   "https://economist.co.kr/article/view/ecn202609080047",
   "http://www.rookie.co.kr/news/articleView.html?idxno=126851",
@@ -2999,18 +2990,18 @@
   "https://www.news1.kr/sports/baseball/6289838",
   "http://www.inews24.com/view/2005345",
   "https://www.ddaily.co.kr/page/view/2026091412555818253",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591468494723"
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591468494723",
+  "https://www.news1.kr/world/northeast-asia/6289808",
+  "https://www.stardailynews.co.kr/news/articleView.html?idxno=550033",
+  "https://www.seoultimes.news/news/article.html?no=2000099858",
+  "https://www.newspim.com/news/view/20260914000793",
+  "https://www.newspim.com/news/view/20260908000761",
+  "https://www.boannews.com/news/articleView.html?idxno=145831",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7183419",
+  "https://www.g-enews.com/view.php?ud=202609141444524625153ddfb15a_1",
+  "https://www.viva100.com/article/20260914500840"
  ],
  "seen_titles": [
-  "두달새21조원'증발'…잘나가던삼전·닉스에'복병'",
-  "충남창업,NEXTSTAGE로도약한다···천안서'모두의창업페스티벌...",
-  "KT,앰로직과칩셋공급망협력…협력사8곳해외진출지원",
-  "LG유플러스,추석앞두고보이스피싱긴급대응체계가동",
-  "SKT,‘따뜻한디지털’로격차줄인다…AI교육부터지역밀착서비스...",
-  "사이버침해10건중8건中企…올해상반기997건발생",
-  "[DD퇴근길]아이폰200만원시대…이통3사‘체감가격’경쟁",
-  "\"쿠팡보다못하다\"…티빙'5천원'보상에10만명소송[참견하는기자]",
-  "[단독]검찰,‘김옥숙메모’노소영소환통보",
   "“신라면들고백년가약”…농심3세,SK텔레콤회사원과오늘결혼",
   "ICT업계,AI교육·찾아가는서비스·해외봉사'눈길'",
   "\"약해보이지않겠나\"꽃감독경고했는데…KIA또디테일서'흔들',3위...",
@@ -6001,7 +5992,16 @@
   "10월4일KT-롯데전오후5시로변경…정조대왕능행차영향",
   "TSMC,AI수요에첨단반도체증산⋯美·日생산도확대",
   "KT,금융·공공‘AX인사이트리포트’발간",
-  "기업명절선물도모바일로…KT알파,‘기프티쇼비즈’배송상품판매..."
+  "기업명절선물도모바일로…KT알파,‘기프티쇼비즈’배송상품판매...",
+  "中정보수장\"AI발달로對中인지전·정보인프라위협증대\"美겨냥",
+  "글램포지,APAP8미디어아트공모에2개작품선정",
+  "컴투스플랫폼,AI게임백엔드‘하이브액실’공개…30일출시",
+  "컴투스플랫폼,AI게임백엔드'하이브액실'공개…30일출시",
+  "\"실질적변화있어야AX\"…삼성SDS,성과중심전환속도",
+  "SGA솔루션즈,CSK2026서N2SF대응통합보안공개...공공·금융AI보안...",
+  "[정인호객원기자칼럼]피지컬AI전략,데이터공유가필수적",
+  "매크로악재에AI속도조절론까지…'6000피'갇히나",
+  "빅테크거물들‘AI속도조절’합창⋯삼성닉스에불똥튀나"
  ],
  "recent_sigs": [
   [
@@ -6763,9 +6763,17 @@
   [
    "2026-09-14T14:52:14.551364+09:00",
    "명절 KT알파 비즈 ~KT 기업 기프티쇼 모바일로 판매 선물도 배송상품"
+  ],
+  [
+   "2026-09-14T14:54:16.068109+09:00",
+   "갇히나 매크로 속도조절론까지 6000피 악재에"
+  ],
+  [
+   "2026-09-14T14:54:16.068109+09:00",
+   "불똥 튀나 거물들 합창 속도조절 삼성닉스에 빅테크"
   ]
  ],
- "last_run": "2026-09-14T14:52:32.594120+09:00",
+ "last_run": "2026-09-14T14:54:39.455048+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
