@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84544",
-  "http://www.joseilbo.com/news/news_read.php?uid=575443&class=32",
-  "https://www.joongangenews.com/news/articleView.html?idxno=547221",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43629",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260910144019Odh",
-  "https://www.ytn.co.kr/_ln/0103_202609101428171051",
-  "https://www.seoulfn.com/news/articleView.html?idxno=637673",
   "https://www.naeil.com/news/read/601864",
   "https://www.naeil.com/news/read/601865",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=254299",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3694896",
   "https://www.thepublic.kr/news/articleView.html?idxno=318694",
   "https://www.betanews.net/article/view/beta202609140035",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241598"
+  "https://www.itdaily.kr/news/articleView.html?idxno=241598",
+  "https://www.sedaily.com/article/20090833",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=60806",
+  "https://www.hankyung.com/article/202609144058i",
+  "https://www.newspim.com/news/view/20260914001106",
+  "https://www.tokenpost.kr/news/breaking/407570",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106578",
+  "https://www.yna.co.kr/view/AKR20260914164100009?input=1195m"
  ],
  "seen_titles": [
-  "'이혼하면경영권까지?'…오너가이혼,최후의보루흔들린다",
-  "\"최태원,동거인에860억원이상썼다\"발언…검찰불기소",
-  "[영상]천문학적이혼재산분할…비슷한듯다른최태원·권혁빈판결",
-  "[삼촌설]이혼변호사전성시대",
-  "재판부도배우자기여인정...권혁빈,35%분할판결에항소나서나[이...",
-  "[단독]검찰,\"최태원,동거인에860억넘게썼다\"발언한노소영변호인...",
-  "권혁빈스마일게이트1인체제'흔들'…법원\"배우자에지분35%분할\"",
   "권혁빈2.5조'역대최대'재산분할...기업지배구조영향은",
   "노태우비자금배제에도33.3%...최태원·노소영재산분할소송남은쟁...",
   "최태원,재산분할재상고범위2440억으로압축이유는?…'분할비율·S...",
@@ -6001,7 +5994,14 @@
   "대구시보건환경연구원,추석연휴감염병·미세먼지·가축전염병비상...",
   "\"인간통제벗어날라\"AI속도조절론확산…GPU·메모리발주도밀린다...",
   "SKT,‘어드벤처데이’로장기고객과한밤의축제즐겼다",
-  "[AI브리프]코난테크놀로지,국방부OSINT분석플랫폼구축"
+  "[AI브리프]코난테크놀로지,국방부OSINT분석플랫폼구축",
+  "[만화경]고대AI‘골렘’의반란",
+  "[게임뉴스]반다이남코및스마일게이트소식외",
+  "\"AI위험통제필요\"거물들경고에…美·中정부동시비난",
+  "서울시의회,청년AI지원정책재정비…디지털사회권보장논의",
+  "AINVDA,후오비HTX서14일오후9시거래시작",
+  "['클릭'증시]'AI속도조절론'에반도체업황우려",
+  "AI인류위협론에도트럼프·시진핑은'기술패권올인'"
  ],
  "recent_sigs": [
   [
@@ -6731,9 +6731,17 @@
   [
    "2026-09-14T19:20:25.765609+09:00",
    "분석 코난테크놀로지 구축 플랫폼 국방부 OSINT"
+  ],
+  [
+   "2026-09-14T19:24:17.174850+09:00",
+   "우려 반도체 업황 속도조절론"
+  ],
+  [
+   "2026-09-14T19:24:17.174850+09:00",
+   "인류 위협론에도 기술패권 올인 시진핑은 트럼프"
   ]
  ],
- "last_run": "2026-09-14T19:22:31.235256+09:00",
+ "last_run": "2026-09-14T19:24:37.296066+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
