@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3693970",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3694014",
-  "http://www.gndomin.com/news/articleView.html?idxno=489236",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3693921",
   "https://www.gukjenews.com/news/articleView.html?idxno=3693986",
   "https://www.gukjenews.com/news/articleView.html?idxno=3693977",
   "https://www.gukjenews.com/news/articleView.html?idxno=3694003",
@@ -2999,13 +2995,13 @@
   "https://www.dt.co.kr/article/12083910",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609150150&t=NN",
   "https://www.tokenpost.kr/news/breaking/407882",
-  "https://www.sedaily.com/article/20090762"
+  "https://www.sedaily.com/article/20090762",
+  "https://dealsite.co.kr/articles/168820",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3691906",
+  "https://www.pressman.kr/news/articleView.html?idxno=103598",
+  "https://www.newsis.com/view/NISX20260914_0003788884"
  ],
  "seen_titles": [
-  "용인시장애인가족한마음운동회개최…450여명참여",
-  "아동학대전담의료기관2곳추가…용인시,의료안전망강화",
-  "함안곶감구장서'제8회경상남도협회장기게이트볼대회'개최",
-  "스크린골프장음식판매'위생사각'…대전시특사경3곳적발",
   "대전시설관리공단홈페이지,15년째'웹접근성'인증",
   "서부경남4개군디지털정보격차해소공동대응",
   "한국에너지공단-한국식품산업협회,식품업계탄소중립지원MOU체결",
@@ -6001,7 +5997,11 @@
   "국채ㆍ유가ㆍAI‘3중지뢰밭’…SK하닉7%·마이크론6%,엔비디아3%폭...",
   "[속보]엔비디아·하이닉스ADR·마이크론등'와르르'…급제동걸린반도...",
   "코어위브,엔비디아2조7000억원투자뒤10.73%상승",
-  "미국NSA,‘해킹특수조직’부활“AI·중국대처”"
+  "미국NSA,‘해킹특수조직’부활“AI·중국대처”",
+  "[SKB분할명암]'차떼고포뗀'SKB,선명해진'미디어사업부진'",
+  "대구광역시,'AI행정자문협의체'첫회의개최...혁신방향·과제논의",
+  "AI가고른화장품…K뷰티상위권장악",
+  "\"AI가다음AI만드는시대?개발감속하자\"…K-AI'양날의검'"
  ],
  "recent_sigs": [
   [
@@ -6115,9 +6115,13 @@
   [
    "2026-09-15T06:02:15.114038+09:00",
    "중국 미국 부활 NSA 특수조직 대처"
+  ],
+  [
+   "2026-09-15T06:04:14.696594+09:00",
+   "AI가 개발 감속하자 다음 만드는 시대 양날의"
   ]
  ],
- "last_run": "2026-09-15T06:02:54.237764+09:00",
+ "last_run": "2026-09-15T06:04:32.930715+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
