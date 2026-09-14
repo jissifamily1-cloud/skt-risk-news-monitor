@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1634704",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3693472",
   "http://www.inews24.com/view/2004986",
   "https://www.newsis.com/view/NISX20260913_0003787232",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7183419",
@@ -2999,11 +2997,11 @@
   "https://www.techm.kr/news/articleView.html?idxno=155164",
   "https://www.joongangenews.com/news/articleView.html?idxno=548013",
   "https://www.etnews.com/20260914000315",
-  "https://zdnet.co.kr/view/?no=20260914143226"
+  "https://zdnet.co.kr/view/?no=20260914143226",
+  "https://sateconomy.co.kr/news/view/1065591531168225",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423681"
  ],
  "seen_titles": [
-  "[투데이시그널]미국,중국에GPU막았더니AI지식은API로빠져나갔다",
-  "현대차그룹,자율주행데이터선순환구축…\"2029년레벨2++양산\"",
   "'농심3세'신상열부사장오늘결혼…재계인사참석주목",
   "신동원농심회장장남신상열부사장,오늘결혼..범롯데가인사참석...",
   "신한카드,카카오와'ChatGPTforKakao'서금융서비스제공",
@@ -6001,7 +5999,9 @@
   "李대통령,'3954만계정유출'티빙질타...\"엄정한책임물어야\"",
   "SK텔레콤주가,9월14일장중90,700원0.22%하락",
   "주파수연구반'같은대역다른대가'재할당셈법손본다",
-  "비트코인혁명은실패했나…국가에흡수된암호화폐"
+  "비트코인혁명은실패했나…국가에흡수된암호화폐",
+  "SK최태원,AI센터'규모'다음은회수…5GW350조자본규율",
+  "카카오T도알고리즘규제받나···방미통위\"대형플랫폼도고민\""
  ],
  "recent_sigs": [
   [
@@ -6755,9 +6755,17 @@
   [
    "2026-09-14T14:46:15.059228+09:00",
    "비트코인 국가에 혁명은 실패했나 암호화폐 흡수된"
+  ],
+  [
+   "2026-09-14T14:48:15.211532+09:00",
+   "350조 AI센터 회수 다음은 SK 5GW 자본규율 규모"
+  ],
+  [
+   "2026-09-14T14:48:15.211532+09:00",
+   "고민 플랫폼도 카카오T도 규제 대형 받나 알고리즘"
   ]
  ],
- "last_run": "2026-09-14T14:46:36.091973+09:00",
+ "last_run": "2026-09-14T14:48:40.270536+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
