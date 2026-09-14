@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dongponews.net/news/articleView.html?idxno=60468",
-  "http://www.kdfnews.com/news/articleView.html?idxno=187924",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2301578",
   "https://www.sportsseoul.com/news/read/1634704",
   "https://www.gukjenews.com/news/articleView.html?idxno=3693472",
   "http://www.inews24.com/view/2004986",
@@ -2999,12 +2996,12 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609140186&t=NN",
   "https://www.edaily.co.kr/News/Read?newsId=03230806645580120&mediaCodeNo=257",
   "https://bizhankook.com/articles/telecom-membership-privilege-reduction.html",
-  "https://www.techm.kr/news/articleView.html?idxno=155164"
+  "https://www.techm.kr/news/articleView.html?idxno=155164",
+  "https://www.joongangenews.com/news/articleView.html?idxno=548013",
+  "https://www.etnews.com/20260914000315",
+  "https://zdnet.co.kr/view/?no=20260914143226"
  ],
  "seen_titles": [
-  "알트먼\"첨단AI개발속도조절검토…타회사동참제안\"",
-  "사천정수장정전사고복구...진주시동부5개면급수공급재개",
-  "롯데,카이스트와R&D거점구축…초경계산학협력열다",
   "[투데이시그널]미국,중국에GPU막았더니AI지식은API로빠져나갔다",
   "현대차그룹,자율주행데이터선순환구축…\"2029년레벨2++양산\"",
   "'농심3세'신상열부사장오늘결혼…재계인사참석주목",
@@ -6001,13 +5998,12 @@
   "한아전“정보보안대학지원수험생,2027학년도신입생선발”",
   "SKT,롯데월드통째로대여…장기고객3000명‘심야어드벤처데이’즐...",
   "전고객대상이었는데어느새'VIP'만…이통사멤버십도허리띠졸라매...",
-  "李대통령,'3954만계정유출'티빙질타...\"엄정한책임물어야\""
+  "李대통령,'3954만계정유출'티빙질타...\"엄정한책임물어야\"",
+  "SK텔레콤주가,9월14일장중90,700원0.22%하락",
+  "주파수연구반'같은대역다른대가'재할당셈법손본다",
+  "비트코인혁명은실패했나…국가에흡수된암호화폐"
  ],
  "recent_sigs": [
-  [
-   "2026-09-14T08:46:13.504505+09:00",
-   "KT알파 수요 모바일로 ~KT 명절선물도 척척 기업용 배송상품"
-  ],
   [
    "2026-09-14T08:50:21.814305+09:00",
    "대규모 정부 인증 무신사 ISMS 있으나 만에 마나 정보"
@@ -6751,9 +6747,17 @@
   [
    "2026-09-14T14:38:16.388273+09:00",
    "거물들의 제안 이러다 죽는다 군축"
+  ],
+  [
+   "2026-09-14T14:46:15.059228+09:00",
+   "재할당 대역 같은 손본다 대가 다른 셈법 주파수 연구반"
+  ],
+  [
+   "2026-09-14T14:46:15.059228+09:00",
+   "비트코인 국가에 혁명은 실패했나 암호화폐 흡수된"
   ]
  ],
- "last_run": "2026-09-14T14:44:33.595447+09:00",
+ "last_run": "2026-09-14T14:46:36.091973+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
