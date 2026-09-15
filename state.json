@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1236626",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463360",
-  "https://biz.sbs.co.kr/article_hub/20000334143?division=NAVER",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=275301",
-  "https://www.fnnews.com/news/202609111409513994",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700643",
   "https://www.etnews.com/20260915000157",
   "https://www.newsinside.kr/news/articleView.html?idxno=5000810",
   "https://www.newspost.kr/news/articleView.html?idxno=225669",
@@ -2999,15 +2993,15 @@
   "https://www.hankookilbo.com/news/article/A2026091608070002439?did=NA",
   "https://www.mt.co.kr/tech/2026/09/16/2026091607083089679",
   "https://www.g-enews.com/view.php?ud=2026091608083585349a1f309431_1",
-  "https://www.sentv.co.kr/article/view/sentv202609160002"
+  "https://www.sentv.co.kr/article/view/sentv202609160002",
+  "https://www.newsis.com/view/NISX20260916_0003791130",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=79801",
+  "https://www.sportsworldi.com/newsView/20260916502785",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260916081110g3W",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435072",
+  "https://www.newspim.com/news/view/20260916000080"
  ],
  "seen_titles": [
-  "SKT·KT,콜센터품질최우수…AI로상담서비스고도화",
-  "김봉균KT클라우드대표\"5년내AI데이터센터1GW추가공급\"",
-  "김봉균KT클라우드대표\"실수요기반,2031년AIDC1GW공급\"",
-  "트럼프미국대통령\"AI가인류지배?사기”..젠슨황\"근거없어\"",
-  "정의선-젠슨황'깐부동맹'시동...현대차,자율주행생태계주도권겨...",
-  "[집중진단]美10년물국채금리끝내5%돌파…마지노선결국뚫었다,증...",
   "최태원,속도·규모·안전넘어'수익모델구축과지속가능성'새화두...",
   "'모두의AI'보안·속도잡는다…KT,민관TF·자체GPU구축",
   "인포시즈,SKT부사장출신박준CBO영입…온톨로지기반기업AI사업...",
@@ -6001,7 +5995,13 @@
   "오픈AI\"앤트로픽·구글과이미협력시작\"...AI표준기구추진",
   "젠슨황\"AI최대한빨리달려야…새로운법·규제필요없다\"",
   "오픈AI,1.2조달러몸값추가투자논의…IPO전자금조달검토",
-  "롯데카드,382억규모첫중간배당"
+  "롯데카드,382억규모첫중간배당",
+  "삼성전자·SK하이닉스,프리마켓서강보합…美반도체주반등",
+  "뉴욕증시,국채금리·유가상승이틀째하락",
+  "OTT광고시장5258억시대…이훈기“방미통위,가입자규모도몰라…심...",
+  "[3분증시]뉴욕증시,국채금리·유가급등에이틀째동반하락",
+  "[뉴욕마켓워치]폭주하는금리와유가에속수무책…주식·채권↓달러↑",
+  "[미국특징주]JP모간,3분기IB·트레이딩호실적전망...BofA와대조"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,17 @@
   [
    "2026-09-16T08:16:14.444925+09:00",
    "투자 논의 검토 IPO 자금조달 2조달러 몸값 추가"
+  ],
+  [
+   "2026-09-16T08:20:22.454916+09:00",
+   "폭주하는 속수무책 달러 유가에 금리와 채권 주식"
+  ],
+  [
+   "2026-09-16T08:20:22.454916+09:00",
+   "호실적 JP모간 트레이딩 대조 IB BofA와 전망 3분기"
   ]
  ],
- "last_run": "2026-09-16T08:18:31.660953+09:00",
+ "last_run": "2026-09-16T08:20:42.752598+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
