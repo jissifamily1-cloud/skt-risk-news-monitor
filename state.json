@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=211636",
-  "http://www.newstomato.com/ReadNews.aspx?no=1312554&inflow=N",
-  "https://www.topdaily.kr/articles/111800",
-  "https://www.kukinews.com/article/view/kuk202609030233",
-  "https://zdnet.co.kr/view/?no=20260904092845",
   "http://www.inews24.com/view/2001724",
   "https://zdnet.co.kr/view/?no=20260903233600",
   "https://www.newsis.com/view/NISX20260903_0003774021",
@@ -2999,14 +2994,14 @@
   "https://www.sisaon.co.kr/news/articleView.html?idxno=204430",
   "https://www.donga.com/news/It/article/all/20260915/134674802/1",
   "https://www.fnnews.com/news/202609151803318092",
-  "https://www.viva100.com/article/20260915501383"
+  "https://www.viva100.com/article/20260915501383",
+  "http://www.e2news.com/news/articleView.html?idxno=334284",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3695113",
+  "https://byline.network/?p=9004111222620180",
+  "https://www.ddaily.co.kr/page/view/2026091517511381552",
+  "https://biz.sbs.co.kr/article_hub/20000334815?division=NAVER"
  ],
  "seen_titles": [
-  "[시큐리티포커스]프라이빗AI'AI테크서밋'·에버스핀'에버세이프웹...",
-  "개인정보반복위반땐매출10%과징금,이사회보고도의무화",
-  "티빙,3954만개계정털렸는데포인트·쿠폰'1만원'…경실련\"소비자기...",
-  "개보위내년예산996억원…예방·피해구제강화초점",
-  "티빙,'2만원보상'내놨지만과징금·소송부담남았다",
   "개인정보위,내년예산996억원‘역대최대’…정보유출소송대응2배...",
   "개보위내년신규사업3선...\"사전예방체계구축\"",
   "[2027예산안]개보위,내년예산996억…사전예방·피해회복강화",
@@ -6001,7 +5996,12 @@
   "현대ENG,카자흐스탄가스처리시설사업이행합의서체결[건설·분양오늘...",
   "AI가결제하면승인은문자로…SKT,글로벌표준제안",
   "SKB·SKT,사회보장정보디지털화앞장",
-  "[영상]젠슨황토론중걸려온트럼프의전화?"
+  "[영상]젠슨황토론중걸려온트럼프의전화?",
+  "자담치킨,당근포장주문할인행사…6천원할인혜택제공",
+  "제주음악의오늘과내일한무대에…'세대를잇다INFLUENCE'",
+  "SKT,GSMARCS표준화회의개최",
+  "“통신요금25%더깎아준다”사실아냐…방미통위주의당부",
+  "AI감속론삼전닉스에날벼락…'거품아니다'반론도"
  ],
  "recent_sigs": [
   [
@@ -6827,9 +6827,21 @@
   [
    "2026-09-15T18:12:16.945189+09:00",
    "정보 ~SKT 앞장 SKB 디지털화 사회보장"
+  ],
+  [
+   "2026-09-15T18:14:15.892789+09:00",
+   "개최 RCS 회의 GSMA 표준화 ~SKT"
+  ],
+  [
+   "2026-09-15T18:14:15.892789+09:00",
+   "주의 통신요금 아냐 깎아준다 사실 당부"
+  ],
+  [
+   "2026-09-15T18:14:15.892789+09:00",
+   "반론도 아니다 거품 감속론 날벼락 삼전닉스에"
   ]
  ],
- "last_run": "2026-09-15T18:12:35.053520+09:00",
+ "last_run": "2026-09-15T18:14:42.190321+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
