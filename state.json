@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hani.co.kr/arti/international/international_general/1277715.html",
-  "https://kbench.com/?q=node%2F281890",
-  "https://www.dt.co.kr/article/12083842",
-  "https://www.dailian.co.kr/news/view/1690190/?sc=Naver",
-  "https://www.aitimes.com/news/articleView.html?idxno=215240",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102602",
-  "https://www.etoday.co.kr/news/view/2625318",
   "https://www.newsis.com/view/NISX20260914_0003788849",
   "https://www.ppss.kr/news/articleView.html?idxno=310537",
   "http://www.4th.kr/news/articleView.html?idxno=2117920",
@@ -2999,16 +2992,16 @@
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43757",
   "https://www.viva100.com/article/20260915500662",
   "https://news.jtbc.co.kr/article/NB12318394?influxDiv=NAVER",
-  "https://theopiniontimes.news/%eb%82%98-%ed%98%bc1000%ec%96%b5-%ec%82%ac%ec%9a%a9-%eb%b0%9c%ec%96%b8%ec%9d%80-50%eb%b0%b0-%eb%b6%80%ed%92%80%eb%a6%b0-%ed%97%88%ec%9c%84-%ec%b5%9c%ed%83%9c/"
+  "https://theopiniontimes.news/%eb%82%98-%ed%98%bc1000%ec%96%b5-%ec%82%ac%ec%9a%a9-%eb%b0%9c%ec%96%b8%ec%9d%80-50%eb%b0%b0-%eb%b6%80%ed%92%80%eb%a6%b0-%ed%97%88%ec%9c%84-%ec%b5%9c%ed%83%9c/",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663679",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=135484",
+  "https://zdnet.co.kr/view/?no=20260915113843",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=135486",
+  "https://www.cnbizm.com/news/articleView.html?idxno=315153",
+  "https://www.kukinews.com/article/view/kuk202609150088",
+  "https://zdnet.co.kr/view/?no=20260915114452"
  ],
  "seen_titles": [
-  "\"결국은단한가지,감독님주문사항잘따를것\"2순위빅맨의굳은의...",
-  "[엠빅뉴스]3점차리드중에깜짝등장!!!황재균눈물의은퇴식",
-  "AI개발우려목소리커지자…영국국왕,AI기업대표들과이번주회담",
-  "QHD성능은박빙,가격은25만원차이?라데온RX9070GREvs지포스RTX...",
-  "AI속도조절론에‘삼전닉스’와르르…코스피3%대급락",
-  "과기정통부,AI스타트업31곳실리콘밸리진출지원",
-  "KT,'AX인사이트리포트'발간…\"금융기관60%가AX실행단계진입\"",
   "엔비디아로먼저달린다…현대차,2029년'독자자율주행'승부",
   "AI스타트업31곳,美실리콘밸리서구글·엔비디아와협력논의",
   "AI스타트업31곳실리콘밸리출격…엔비디아'GTC한국개최'도논의",
@@ -6001,7 +5994,14 @@
   "최태원회장측,검찰불기소에항고…\"노소영관장측변호사허위사...",
   "KT스카이라이프,‘sky인터넷토탈케어’출시",
   "\"동거인에1천억?50배부풀려\"…최태원측,노소영변호사불기소에항...",
-  "‘나혼“1000억사용발언은50배부풀린허위”…최태원,불기소처분..."
+  "‘나혼“1000억사용발언은50배부풀린허위”…최태원,불기소처분...",
+  "[무등의아침]김도영·박재현·성영탁,AG출전…KIA,7경기버텨야3위...",
+  "SKT,콜센터품질지수5년연속'최우수'…AI는분석하고상담사는공감...",
+  "SKB,AI로복지위기가구찾는다...양자보안도적용",
+  "KT,콜센터품질지수2개부문'최우수'…AI가장애조치까지끝낸다",
+  "KT고객센터,콜센터품질지수2개부문최우수…'3관왕'달성",
+  "KT클라우드,2031년까지AIDC1GW공급…AX인프라승부수",
+  "AI가결제직전까지알아서,마지막승인은문자메시지로"
  ],
  "recent_sigs": [
   [
@@ -6959,9 +6959,13 @@
   [
    "2026-09-15T11:38:14.003035+09:00",
    "쇼크 장악했다 실적 나이키가 뇌를"
+  ],
+  [
+   "2026-09-15T11:46:15.884034+09:00",
+   "마지막 직전까지 알아서 승인은 문자메시지로 결제 AI가"
   ]
  ],
- "last_run": "2026-09-15T11:44:36.569650+09:00",
+ "last_run": "2026-09-15T11:46:40.961398+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
