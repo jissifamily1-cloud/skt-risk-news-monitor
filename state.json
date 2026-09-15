@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260915000157",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5000810",
-  "https://www.newspost.kr/news/articleView.html?idxno=225669",
-  "https://www.chosun.com/economy/tech_it/2026/09/15/4KNVG45WZRD2RHQX2YTW3L6JSY/",
-  "https://www.asiatime.co.kr/article/20260915500040",
-  "https://www.dizzotv.com/site/data/html_dir/2026/09/15/2026091580054.html",
-  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=90984",
   "https://www.nocutnews.co.kr/news/6578183",
   "https://edu.donga.com/news/articleView.html?idxno=111924",
   "https://www.news1.kr/local/jeju/6290813",
@@ -2999,16 +2992,16 @@
   "https://www.sportsworldi.com/newsView/20260916502785",
   "http://www.yonhapnewstv.co.kr/news/MYH20260916081110g3W",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4435072",
-  "https://www.newspim.com/news/view/20260916000080"
+  "https://www.newspim.com/news/view/20260916000080",
+  "https://www.etoday.co.kr/news/view/2626005",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754965&plink=ORI&cooper=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000334909?division=NAVER",
+  "https://www.globale.co.kr/news/articleView.html?idxno=40421",
+  "https://www.yna.co.kr/view/AKR20260916021200009?input=1195m",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609101549596400105682",
+  "https://www.dt.co.kr/article/12084188"
  ],
  "seen_titles": [
-  "최태원,속도·규모·안전넘어'수익모델구축과지속가능성'새화두...",
-  "'모두의AI'보안·속도잡는다…KT,민관TF·자체GPU구축",
-  "인포시즈,SKT부사장출신박준CBO영입…온톨로지기반기업AI사업...",
-  "사보원·SKT·SKB,AI·양자보안으로복지혁신'맞손'",
-  "SKT,AI결제·예약전'문자승인'표준제안…글로벌16개사논의",
-  "SK브로드밴드·SK텔레콤,한국사회보장정보원복지서비스디지털전환",
-  "SKT“AI결제,문자로승인받자”…GSMA에표준안건제안",
   "\"AI결제전'문자'로승인\"…SKT,GSMA회의주도",
   "SKT,RCS로AI통제권강화...“에이전트의실행,문자로승인”",
   "[산업브리핑]CJ·삼성전자·LG",
@@ -6001,7 +5994,14 @@
   "OTT광고시장5258억시대…이훈기“방미통위,가입자규모도몰라…심...",
   "[3분증시]뉴욕증시,국채금리·유가급등에이틀째동반하락",
   "[뉴욕마켓워치]폭주하는금리와유가에속수무책…주식·채권↓달러↑",
-  "[미국특징주]JP모간,3분기IB·트레이딩호실적전망...BofA와대조"
+  "[미국특징주]JP모간,3분기IB·트레이딩호실적전망...BofA와대조",
+  "[증시키워드]SK하닉임단협재투표오늘결론⋯골드만삭스가꼽은AI수...",
+  "\"왜못고쳐\"철탑에밧줄로…점검왔다가날벼락",
+  "FT\"오픈AI,추가자금조달검토…기업가치1.2조달러목표\"",
+  "앤트로픽\"AI속도늦춰야\"vs엔비디아\"공학적해결가능\"정면충돌",
+  "\"오픈AI,자금조달검토중…기업가치1.2조달러목표\"",
+  "[더벨][BoardMatchup|SKTvsKTvsLG유플러스]3인3색대표이사,이사...",
+  "“美가AI늦추면우리가앞선다”…중국인터넷달군‘AI속도조절론..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,17 @@
   [
    "2026-09-16T08:20:22.454916+09:00",
    "호실적 JP모간 트레이딩 대조 IB BofA와 전망 3분기"
+  ],
+  [
+   "2026-09-16T08:22:49.274997+09:00",
+   "대표이사 ~SKT 3인 이사 3색 ~LGU ~KT"
+  ],
+  [
+   "2026-09-16T08:22:49.274997+09:00",
+   "우리가 인터넷 앞선다 달군 늦추면 중국 속도조절론"
   ]
  ],
- "last_run": "2026-09-16T08:20:42.752598+09:00",
+ "last_run": "2026-09-16T08:23:17.389770+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
