@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20260914001156",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000011974&cp=nv",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700529",
   "https://www.tokenpost.kr/news/ai/407816",
   "https://www.aitimes.com/news/articleView.html?idxno=215255",
@@ -2999,11 +2997,11 @@
   "http://www.koreastocknews.com/news/articleView.html?idxno=121258",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=853864",
   "https://www.aitimes.com/news/articleView.html?idxno=215285",
-  "https://it.donga.com/109534/"
+  "https://it.donga.com/109534/",
+  "https://www.venturesquare.net/1113863/",
+  "https://news.jtbc.co.kr/article/NB12318466?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "뉴욕증시개장전특징주...팔로알토·크라우드스트라이크·마라톤페트...",
-  "[속보]트럼프“AI에대한역겨운음모…中만기뻐할것”",
   "마이크로소프트,AI행동강령공개…해킹·핵무기·딥페이크금지",
   "마이크로소프트AI모델,해킹·기만금지규범공개",
   "[게시판]아크릴,국제컨퍼런스서'풀스택헬스케어AX'제시등단신",
@@ -6001,7 +5999,9 @@
   "삼성물산,입주민건강위한AI솔루션'웰피'출시",
   "[통신풍향계]SKT'RCS표준화회의'·LGU+'홈미디어신제품'공개-'선...",
   "오픈AI,'아이폰카메라기술'개발한스타트업인수…AI하드웨어개발...",
-  "[위클리AI]메타·오픈AI,신규모델출시···브레이크밟은마이크로..."
+  "[위클리AI]메타·오픈AI,신규모델출시···브레이크밟은마이크로...",
+  "[문지은의미래산업리포트①]머스크와젠슨황은무엇을소유하는가...",
+  "[뉴스룸오프닝]시작하자마자큰소리/\"AI속도조절론,사기\"/'마취..."
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,17 @@
   [
    "2026-09-15T18:44:15.961197+09:00",
    "모델 마이크로 브레이크 신규 밟은 출시 메타"
+  ],
+  [
+   "2026-09-15T18:46:17.201570+09:00",
+   "소유하는가 황은 무엇을 머스크와 젠슨"
+  ],
+  [
+   "2026-09-15T18:46:17.201570+09:00",
+   "시작하자마자 소리 속도조절론 사기 마취"
   ]
  ],
- "last_run": "2026-09-15T18:44:37.034045+09:00",
+ "last_run": "2026-09-15T18:46:38.064887+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
