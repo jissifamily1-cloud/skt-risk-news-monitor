@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12083892",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=743112",
-  "https://www.ajunews.com/view/20260914193358333",
-  "https://www.dt.co.kr/article/12083891",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337104",
-  "https://www.dt.co.kr/article/12083894",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3694918",
-  "https://www.slist.kr/news/articleView.html?idxno=766111",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486942",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008752754&plink=ORI&cooper=NAVER",
   "http://www.inews24.com/view/2005523",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260915000347",
   "https://www.edaily.co.kr/News/Read?newsId=03981926645580448&mediaCodeNo=257",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4106712",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005922184"
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005922184",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700674",
+  "https://news.jtbc.co.kr/article/NB12318424?influxDiv=NAVER",
+  "https://biz.chosun.com/industry/car/2026/09/15/ATASDIN6ANFYLAKFAYA3TN2S4U/",
+  "https://kpenews.com/View.aspx?No=4227902",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209076",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209075",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075443",
+  "http://coinreaders.com/258285"
  ],
  "seen_titles": [
-  "중진공,딥테크기업판로·협업지원",
-  "정보통신산업진흥원,美아티피셜애널리시스와협업체계구축",
-  "[AI포럼]“피지컬AI는새성장동력…규제샌드박스로성장뒷받침”",
-  "[마감시황]AI속도조절론에반도체급락...코스피6684선후퇴",
-  "트럼프·시진핑,AI안전우려에도'기술패권경쟁'속도전",
-  "[AI포럼]“정부정책역량집중…실데이터·파운데이션모델확보”",
-  "윤호중장관\"TBS,3~4개월내재지정가능…서울시,지연핑계아니길\"",
-  "[AI포럼]\"디지털타임스AI포럼은늘인사이트를깨우는지식플랫폼\"",
   "[포토]허태정대전시장,추석앞두고복지시설위문",
   "SKT,고객초청롯데월드심야대관...LGU+,군자녀대상AI교육·체험",
   "[코스피지수선물옵션]반도체·배터리줄줄이하락…금융·방산·조선...",
@@ -6001,7 +5993,15 @@
   "삼전닉스오를만큼올랐다?…'반토막전망'나온이유",
   "과방위국감10월6일시작…87개기관18일간감사",
   "방미통위,추석앞두고이웃나눔실천",
-  "젠슨황,'AI위험론은사기'트럼프에동의"
+  "젠슨황,'AI위험론은사기'트럼프에동의",
+  "에퀴닉스,AI인프라연결판키운다…퓨리오사AI글로벌공략지원",
+  "하이닉스하락맞췄던BNK…이번엔삼성전자에'제동'",
+  "볼보차세대전기차‘ES90′사전계약3000대돌파…10분충전으로300...",
+  "티맵오토,지커'7X'개인정보국외이전검토..\"차량제조사는접근불...",
+  "SKB,사회보장정보원과디지털복지서비스혁신",
+  "SKT,AI시대'문자'역할재정의…RCS로AI에이전트승인",
+  "[포토]SKTAI고객센터품질5년연속1위",
+  "애플(AAPL),AI투자덜하고45%'질주'...\"엔비디아(NVDA)만볼때아니..."
  ],
  "recent_sigs": [
   [
@@ -6807,9 +6807,17 @@
   [
    "2026-09-15T15:16:15.350334+09:00",
    "사기 트럼프에 동의 젠슨 위험론은"
+  ],
+  [
+   "2026-09-15T15:18:14.142398+09:00",
+   "연속 5년 ~SKT 품질 1위 고객센터"
+  ],
+  [
+   "2026-09-15T15:18:14.142398+09:00",
+   "AAPL 투자 질주 애플 하고 NVDA 아니"
   ]
  ],
- "last_run": "2026-09-15T15:16:39.254357+09:00",
+ "last_run": "2026-09-15T15:18:40.996000+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
