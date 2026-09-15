@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=743071",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1007376",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=486846",
-  "https://www.etoday.co.kr/news/view/2625328",
-  "https://www.topdaily.kr/articles/111937",
-  "https://www.bloter.net/news/articleView.html?idxno=673580",
-  "https://www.kado.net/news/articleView.html?idxno=2072468",
-  "https://zdnet.co.kr/view/?no=20260914155959",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008752503&plink=ORI&cooper=NAVER",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434759",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=121820",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=254529",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700429",
   "https://www.asiatime.co.kr/article/20260914500336",
@@ -2999,20 +2988,20 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=275635",
   "https://www.news1.kr/finance/financial-policy/6290761",
   "https://www.boannews.com/news/articleView.html?idxno=145850",
-  "https://zdnet.co.kr/view/?no=20260915120118"
+  "https://zdnet.co.kr/view/?no=20260915120118",
+  "https://www.econovill.com/news/articleView.html?idxno=750810",
+  "https://www.sportsseoul.com/news/read/1635194",
+  "https://www.yna.co.kr/view/AKR20260914133100002?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260914129200017?input=1195m",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=135490",
+  "https://www.yna.co.kr/view/AKR20260915095300017?input=1195m",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95398",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=612060",
+  "https://www.munhwa.com/article/11617133",
+  "https://www.mt.co.kr/stock/2026/09/15/2026091511434533009",
+  "https://www.econovill.com/news/articleView.html?idxno=750727"
  ],
  "seen_titles": [
-  "검찰,'노태우비자금'의혹노소영참고인신분소환통보",
-  "수원에서새로운도전나서는'불꽃슈터'전성현\"부상없는마무리에...",
-  "AI투자늘지만…산업현장전파'미지수'",
-  "못해서2군보냈다던박진만…‘김영웅도돌이표’언제까지인내할까...",
-  "KT,금융·공공분야AX현황담은'인사이트리포트'발간",
-  "롯데-kt전경기시간변경⋯10월4일오후5시시작",
-  "[TOP'sPick][통신]KT,산업별'AX인사이트리포트'발간外",
-  "'사전계약3000대'볼보ES90,520㎞주행거리승부",
-  "\"의료AI에서피지컬AI로\"원주시,글로벌기업과미래의료산업분야...",
-  "KISIA회장\"한국,보안잘하는나라...정부가좋은고객돼야\"",
-  "\"AI속도조절\"·\"양의탈을쓴늑대\"…AI속도놓고공방가열",
   "과기정통부,미국서구글·엔비디아방문·협력논의",
   "\"엔비디아,앤트로픽IPO에앵커투자자로참여,최대13.5조원투자예정...",
   "통신사CEO,보안리스크부담커졌다...매출10%과징금시대개막",
@@ -6001,7 +5990,18 @@
   "카드로상품권구매유도보이스피싱…결제단계서먼저막는다",
   "\"카드매출취소후재결제하면환급\"…알고보니보이스피싱",
   "[배종찬의보안빅데이터]내가만든AI코드가악성코드로변해버린...",
-  "사기·해킹에주민번호까지바꾼다...변경신청3년새2배"
+  "사기·해킹에주민번호까지바꾼다...변경신청3년새2배",
+  "\"셀카찍으면AI가피부진단\"CJ올리브영,'스킨스캔'모바일로확장",
+  "800V초고속충전에AI탑재…기아,맞춤형상용전기차‘PV7’베일벗...",
+  "원/달러환율1,347.3원…美FOMC앞두고박스권등락",
+  "카카오톡'필수동의'줄인다…친구·콘텐츠추천약관에명시",
+  "SKT,AI결제직전'문자로최종확인'…RCS승인국제표준제안",
+  "[테크스냅]SKT·KT,2026콜센터품질지수최우수기업선정",
+  "최태원SK그룹회장\"노소영관장대리인,실제지출50배부풀려허위...",
+  "﻿최태원,'동거인1000억지출'발언노소영대리인불기소에불복…검...",
+  "최태원측,‘노소영변호사명예훼손불기소’에항고",
+  "갈팡질팡코스피…미국발금리한파속FOMC관망",
+  "[드림포스2026]세일즈포스가그리는AI샌프란시스코\"여러분,참쉽죠..."
  ],
  "recent_sigs": [
   [
@@ -6863,9 +6863,21 @@
   [
    "2026-09-15T11:58:16.238889+09:00",
    "복지서비스 DX 사회보장정보원과 맞손"
+  ],
+  [
+   "2026-09-15T12:06:16.121465+09:00",
+   "~KT 콜센터품질지수 ~SKT 최우수기업 선정"
+  ],
+  [
+   "2026-09-15T12:06:16.121465+09:00",
+   "갈팡질팡 관망 미국발 금리한파 FOMC 코스피"
+  ],
+  [
+   "2026-09-15T12:06:16.121465+09:00",
+   "세일즈포스가 여러분 쉽죠 샌프란시스코 그리는"
   ]
  ],
- "last_run": "2026-09-15T12:04:32.666946+09:00",
+ "last_run": "2026-09-15T12:06:40.242582+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
