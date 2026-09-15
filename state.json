@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260915003900091?input=1195m",
-  "https://www.news1.kr/world/usa-canada/6290370",
-  "https://www.newspim.com/news/view/20260915000005",
-  "https://www.seoul.co.kr/news/international/2026/09/15/20260915500001?wlog_tag3=naver",
-  "https://www.hankyung.com/article/202609144296i",
-  "https://www.news1.kr/world/usa-canada/6290336",
-  "https://www.tokenpost.kr/news/ai/407871",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434809",
   "https://www.mediapen.com/news/view/1123484",
   "https://www.yna.co.kr/view/AKR20260915002251071?input=1195m",
   "https://biz.sbs.co.kr/article_hub/20000334593?division=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.hankyung.com/article/2026091566051",
   "http://www.yonhapnewstv.co.kr/news/AKR202609151809566xJ",
   "https://www.sedaily.com/article/20091285",
-  "https://www.fnnews.com/news/202609151816009731"
+  "https://www.fnnews.com/news/202609151816009731",
+  "http://www.sisacast.kr/news/articleView.html?idxno=100098",
+  "https://www.imaeil.com/page/view/2026091516275479525",
+  "https://www.fnnews.com/news/202609151815599956",
+  "https://www.edaily.co.kr/News/Read?newsId=04805206645580448&mediaCodeNo=257",
+  "https://www.stnsports.co.kr/news/articleView.html?idxno=322698",
+  "https://www.ddaily.co.kr/page/view/2026091518000267059",
+  "https://www.sedaily.com/article/20091289",
+  "https://www.dt.co.kr/article/12084127"
  ],
  "seen_titles": [
-  "뉴욕증시,AI감속론에반도체주급락…3대지수동반하락",
-  "트럼프,AI속도조절론연일반박…\"음모이자사기극\"(종합)",
-  "MS\"인간이중요,AI는권리없다\"…'AI통제'행동강령공개",
-  "트럼프,'AI속도조절론'연이어맹폭…\"사기극·병적음모\"(종합)",
-  "[미국특징주]\"팔란티어·엔비디아,데이터우려에AI모델사용제한...",
-  "‘AI속도조절론’에트럼프“역겨운음모…中만기뻐할것”",
-  "트럼프,\"AI속도조절불필요.똑똑한대통령이안전장치\"주장",
-  "트럼프'AI속도조절론'또비판…\"AI겨냥한병적음모,중국만기뻐해...",
   "AI킬스위치논의…美민주당,16일AI안전대응논의",
   "[뉴욕증시]AI속도조절론에'화들짝'…필리지수6%급락",
   "[美증시특징주]AI감속론에AI테마전반에'매도폭풍'…코닝·코히런...",
@@ -6001,13 +5993,17 @@
   "트럼프가비판,젠슨황이맞장구…'AI종말론'막으려뭉친두거물",
   "이소영후보자\"한국서엔비디아나오려면'혁신수용적'사회돼야\"",
   "후발주자추격사다리뺏고…AI표준주도권선점경쟁",
-  "AI속도조절은계산된빌드업?...앤스로픽\"예정대로연내IPO\""
+  "AI속도조절은계산된빌드업?...앤스로픽\"예정대로연내IPO\"",
+  "CJ올리브영,피부고민솔루션…'모바일피부진단서비스'오픈",
+  "재난대응에'AI행정'입히는지자체…대구시,이제야기반구축나서",
+  "트럼프\"AI인류파괴론은음모…중국만기뻐할일\"",
+  "“中베이징AI산업200조목표…로봇이새동력”[EAFF2026]",
+  "추석선물도건강이대세...'헬스케어로봇·마사지체어'받고싶다1위",
+  "[오픈테크넷2026]“AI시대신뢰,보안만으론부족…운영신뢰성까지...",
+  "“AI속도조절은잘못된전략”…트럼프주장에힘실은젠슨황",
+  "[사설]‘AI감속론’논쟁확산…안전장치필요하지만개발은계속돼..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-15T12:22:14.062649+09:00",
-   "campaign iPhone group fronts ~KT Tuide rookie HYBE"
-  ],
   [
    "2026-09-15T12:32:14.189354+09:00",
    "앤트로픽 창업자 필요할 수도 BBC 인터뷰 의무화 공동 스위치"
@@ -6849,7 +6845,7 @@
    "IPO 빌드업 속도조절은 연내 예정대로 계산된"
   ]
  ],
- "last_run": "2026-09-15T18:20:43.640686+09:00",
+ "last_run": "2026-09-15T18:22:38.078652+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
