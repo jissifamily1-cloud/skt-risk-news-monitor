@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=2026091417514241480c8c1c064d_1",
-  "https://www.joongang.co.kr/article/25461879",
-  "https://www.edaily.co.kr/News/Read?newsId=01843366645580448&mediaCodeNo=257",
-  "https://www.mediapen.com/news/view/1123482",
-  "https://www.imaeil.com/page/view/2026091416585429583",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=308382",
-  "https://www.tokenpost.kr/news/ai/407842",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208469",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208463",
-  "https://www.chosun.com/national/education/2026/09/15/X3W5UHCCZFCH5ONG3NIMNG4TNQ/",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208457",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663296",
   "https://www.hani.co.kr/arti/international/international_general/1277828.html",
   "https://www.ilemonde.com/news/articleView.html?idxno=30626",
@@ -2999,20 +2988,20 @@
   "https://www.apnews.kr/news/articleView.html?idxno=3051291",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2441002",
   "https://www.topstarnews.net/news/articleView.html?idxno=16194735",
-  "https://www.mt.co.kr/policy/2026/09/15/2026091517195979271"
+  "https://www.mt.co.kr/policy/2026/09/15/2026091517195979271",
+  "https://news.mtn.co.kr/news-detail/2026091516153370689",
+  "https://news.mtn.co.kr/news-detail/2026091516152870323",
+  "https://www.tokenpost.kr/news/ai/408231",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260915010005729",
+  "https://www.mk.co.kr/article/12153435",
+  "https://www.khan.co.kr/article/202609151736001",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663979",
+  "https://www.ajunews.com/view/20260915144112935",
+  "https://www.aitimes.com/news/articleView.html?idxno=215294",
+  "https://www.donga.com/news/Inter/article/all/20260915/134674224/2",
+  "https://www.imaeil.com/page/view/2026091517380665163"
  ],
  "seen_titles": [
-  "레노버개인AI'키라',PC넘어스마트폰·워치로확장",
-  "애니모프,GEOAPI쿼링에이아이공개...AI검색화면실제답변·출처제...",
-  "\"AI는전략적경쟁의새로운전장\"…中국가안보부장,초거대AI안보...",
-  "[대한민국의중심충청]교육부터취업·정주까지…지역인재키운다",
-  "우리회사는안전한가…경영진이물어야할8가지",
-  "[美증시특징주]AI속도조절론에소프트웨어'활활'…보안테마주불기...",
-  "[야고부-김수용]인공지능에방울달기",
-  "양자컴퓨터로비트코인공격하는데필요한자원86%줄어",
-  "AI킬스위치,분산형시스템에선작동한계가능성거론",
-  "78리서치랩,KCSCON2026서AI기반BAS공개…최신취약점·악성코드공...",
-  "타이거팀,SOC오탐줄이는'에이전틱AI'VARO-AX공개…\"분석가는진짜...",
   "대입원서접수업체,연160억벌고도먹통사태",
   "엔키화이트햇,KCSCON2026서'OFFen·AIDAST'공개…AI로침투테스트자...",
   "[W언박싱]“이러다다죽어”AI속도조절론…못마땅한트럼프“중국...",
@@ -6001,7 +5990,18 @@
   "[데스크칼럼]노소영측'최태원1000억증여'…불기소가남긴여론재판...",
   "KT서부고객본부-크레이지카츠,외식매장디지털전환'맞손'",
   "KT클라우드,2031년까지AIDC1GW공급계획발표",
-  "동의과학대-KT,외국인유학생통신지원'맞손'…지역정착돕는다"
+  "동의과학대-KT,외국인유학생통신지원'맞손'…지역정착돕는다",
+  "대기업·스타트업손잡은국산NPU…경쟁력시험대[AIG3빅뱅⑧]",
+  "[빅테크거버넌스①]네이버의확장,카카오의분할…AI패권다툼속빅...",
+  "유에스디에이아이,B300GPU192대기반1000만달러대출",
+  "연구소·투자에서AI팩토리까지…최수연,프랑스서네이버‘유럽승부...",
+  "트럼프\"AI속도조절?역겨운음모\"…AI기업CEO에맹비난",
+  "이소영중기부장관후보자“한국의엔비디아바라지만아직타다도수...",
+  "“오늘부터휴대전화요금25%추가할인”거짓광고주의보",
+  "말과행동다른美빅테크수장들...말로는\"위기\"뒤로는신모델개발",
+  "\"독점정보유출막아라\"...엔비디아·팔란티어,첨단AI모델도입축소",
+  "“결혼하려60억원줬다”…중국코인거물,톱배우상대소송",
+  "\"오늘부터휴대폰요금25%할인\"온라인서퍼진소식…사실은"
  ],
  "recent_sigs": [
   [
@@ -6819,9 +6819,25 @@
   [
    "2026-09-15T17:44:17.389266+09:00",
    "돕는다 외국인 정착 맞손 지역 ~KT 유학생 동의과학대 통신 지원"
+  ],
+  [
+   "2026-09-15T17:46:14.876231+09:00",
+   "신모델 말과 개발 위기 행동 빅테크 다른 뒤로는 수장들 말로는"
+  ],
+  [
+   "2026-09-15T17:46:14.876231+09:00",
+   "독점 정보 막아라 도입 축소 첨단 모델 유출 팔란티어"
+  ],
+  [
+   "2026-09-15T17:46:14.876231+09:00",
+   "상대 소송 60억원 중국 결혼하려 코인 줬다 톱배우 거물"
+  ],
+  [
+   "2026-09-15T17:46:14.876231+09:00",
+   "요금 퍼진 소식 사실은 온라인서 휴대폰 할인 오늘부터"
   ]
  ],
- "last_run": "2026-09-15T17:44:43.239529+09:00",
+ "last_run": "2026-09-15T17:46:47.002142+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
