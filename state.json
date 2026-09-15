@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447212",
-  "https://www.etnews.com/20260915000167",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434905",
-  "http://www.datanews.co.kr/news/article.html?no=146481",
-  "https://www.hellot.net/news/article.html?no=114968",
-  "https://view.asiae.co.kr/article/2026091509540526319",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700647",
-  "https://www.betanews.net/article/view/beta202609150031",
   "https://news.tf.co.kr/read/economy/2365863.htm",
   "https://biz.heraldcorp.com/article/10873466",
   "https://www.mt.co.kr/estate/2026/09/15/2026091510310773143",
@@ -2999,17 +2991,17 @@
   "https://www.koreajoongangdaily.com/opinion/living-with-ai-doomsday-predictions/12876688",
   "https://www.etoday.co.kr/news/view/2626038",
   "https://www.newspim.com/news/view/20260916000094",
-  "https://www.huffingtonpost.kr/article/260527"
+  "https://www.huffingtonpost.kr/article/260527",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594357977538",
+  "https://www.edaily.co.kr/News/Read?newsId=02761766645580776&mediaCodeNo=257",
+  "https://zdnet.co.kr/view/?no=20260916085339",
+  "https://www.m-i.kr/news/articleView.html?idxno=1414531",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700644",
+  "https://www.mt.co.kr/industry/2026/09/16/2026091608331265731",
+  "https://www.news1.kr/industry/distribution/6291929",
+  "https://biz.heraldcorp.com/article/10874932"
  ],
  "seen_titles": [
-  "추영우-김소현'연애박사',서툰사랑이시작된다",
-  "105억투자·거점통합·인재확보'삼각편대'…에어빌리티,글로벌대드...",
-  "햇빛으로전기이륜차충전,침수는AI로예측…광명시,스마트도시전환...",
-  "'AI개발감속'메모리반도체에경고아닌잡음그치나,투자위축가능...",
-  "이소영“배달앱수수료에소상공인고통…공공배달앱경쟁력키울것”",
-  "'먼저맞은매'+하드웨어투자지속…아시아증시가버티는까닭",
-  "삼성물산,AI웰니스솔루션‘웰피’출시…주거·건설현장적용",
-  "[산업AIEXPO프리뷰]AItoMotion⑦|현실을3D로옮기고AI로내다본...",
   "[사설]AI속도조절론,한국의답은'안전한가속'",
   "구글,전사엔지니어에클로드허용…제미나이고집서한발물러서",
   "삼성물산,공간결합형AI웰니스솔루션'웰피'출시",
@@ -6001,7 +5993,15 @@
   "LivingwithAIdoomsdaypredictions",
   "오픈AI,IPO앞두고1.2조달러몸값으로추가자금조달검토[마켓핫]",
   "[모닝리포트]\"에치에프알,내년내수·수출동반회복전망\"",
-  "트럼프에겐빅테크CEO와정치인들의'AI규제론'이한심해보인다:\"IQ..."
+  "트럼프에겐빅테크CEO와정치인들의'AI규제론'이한심해보인다:\"IQ...",
+  "SKT,'T장기고객프로그램어드벤처데이'성료",
+  "네오사피엔스,상장첫날유통물량23.21%로축소…21일코스닥입성",
+  "\"핑크퐁·아기상어와추석보내세요\"…유튜브부터IPTV까지콘텐츠확대",
+  "기정원,'스마트제조혁신기술개발사업기술교류회'실시",
+  "트럼프·젠슨황공개통화\"데이터센터,미래의석유…반대는사기\"",
+  "SK,WCE서'통합에너지설루션'공개…에너지·AI기술집결",
+  "KT알파쇼핑,KS-CQI11년연속최고점…AI로고객상담혁신",
+  "KT-KISTI,국내첫한·미400G국가과학기술연구망개통"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-09-16T08:56:15.203005+09:00",
    "빅테크 한심해 트럼프에겐 정치인들의 CEO와 보인다 규제론 IQ"
+  ],
+  [
+   "2026-09-16T08:58:13.333838+09:00",
+   "KISTI ~KT 400G 국가과학기술연구망 개통 국내"
   ]
  ],
- "last_run": "2026-09-16T08:56:38.499087+09:00",
+ "last_run": "2026-09-16T08:58:34.921671+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
