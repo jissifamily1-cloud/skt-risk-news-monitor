@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260914_0003788266",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115591",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=227343",
-  "https://www.munhwa.com/article/11616817",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4434709",
-  "https://biz.sbs.co.kr/article_hub/20000334464?division=NAVER",
-  "https://www.hankookilbo.com/news/article/A2026091410400004289?did=NA",
-  "https://www.newsis.com/view/NISX20260912_0003786698",
   "https://www.newspim.com/news/view/20260913000175",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=337090",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=207957",
@@ -2999,17 +2991,17 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008753326&plink=ORI&cooper=NAVER",
   "https://imnews.imbc.com/news/2026/world/article/6851877_36925.html",
   "https://www.moneystorm.kr/news/articleView.html?idxno=6484",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700288"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700288",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075379",
+  "https://view.asiae.co.kr/article/2026091509374394025",
+  "https://www.sedaily.com/article/20090954",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444344",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700573",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=865226",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=208286",
+  "https://www.widedaily.com/news/articleView.html?idxno=301052"
  ],
  "seen_titles": [
-  "AI시대보안은실전이다대구정보보호실전교육",
-  "AI수장만나는찰스3세…트럼프는“중국과경쟁도바빠”",
-  "감사원\"前방통위원장·산자부2차관YTN지분매각개입…공공기관자율...",
-  "LG유플러스,국방부와'아이드림챌린지AIPlus캠프'개최…군자녀1...",
-  "LG유플러스·국방부,군장병자녀AI교육나선다…303명가족캠프",
-  "“중국앞서야”vs“브레이크”…美정치권까지번진‘AI속도조절론...",
-  "업계가신뢰보여준적있나…핵군축닮은AI속도조절회의론",
-  "\"엔비디아,앤트로픽IPO에서최대13.5조원투자논의\"[로이터]",
   "'AI노브레이크'트럼프-시진핑,정상회담서안전망논의할까",
   "황무지가AI·로봇거점으로…35년표류새만금개발'착착'[르포]",
   "[AG개막특집①]숫자로보는2026아시안게임...16일간469개金다퉈",
@@ -6001,7 +5993,15 @@
   "젠슨황,'AI위험성은사기'트럼프에공개동의",
   "트럼프·젠슨황\"AI개발늦추려는움직임경계\"",
   "[인사이트뉴스]키옥시아,왜미국으로가나…AI메모리몸값키우기이...",
-  "데이비드색스,앤트로픽·오픈AI감속론비판…\"두회사가안만들면된..."
+  "데이비드색스,앤트로픽·오픈AI감속론비판…\"두회사가안만들면된...",
+  "SKTAI고객센터품질5년연속1위",
+  "SKT,GSMARCS표준화회의…\"AI시대'문자'역할재정의\"",
+  "AI가주문하고이용자가승인…SKT,RCS활용국제표준제안",
+  "SKT,문자메시지역할재정의…AI주문·결제'이용자가최종승인'추진",
+  "SKT,콜센터품질지수5년연속1위…\"AI로상담품질높여\"",
+  "인포시즈,박준전SKT부사장CBO영입",
+  "'AI에이전트결제문자로승인'…SK텔레콤,AI시대RCS활용표준제안",
+  "SK텔레콤·SK브로드밴드,복지서비스에AI·양자보안입힌다"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-09-15T09:36:14.714959+09:00",
    "~LGU 소식 LG유플러스"
+  ],
+  [
+   "2026-09-15T09:40:23.299127+09:00",
+   "양자보안 ~SKT 입힌다 서비스에 복지"
   ]
  ],
- "last_run": "2026-09-15T09:38:33.629954+09:00",
+ "last_run": "2026-09-15T09:40:40.179637+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
