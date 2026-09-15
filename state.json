@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609141628327490987",
-  "https://www.tournews21.com/news/articleView.html?idxno=143379",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=95353",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307448",
   "https://www.businesspost.co.kr/BP?command=article_view&num=447153",
   "https://www.mt.co.kr/industry/2026/09/14/2026091416023649704",
   "http://www.inews24.com/view/2005477",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12153013",
   "https://zdnet.co.kr/view/?no=20260915131003",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88126",
-  "https://www.mk.co.kr/article/12153010"
+  "https://www.mk.co.kr/article/12153010",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=880820",
+  "https://www.veritas-a.com/news/articleView.html?idxno=627994",
+  "https://www.newspim.com/news/view/20260915000768",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267437&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "[뉴욕증시전략]나흘만에반등…주간기준은3대지수하락",
-  "한전·SKT·LG·현대제철'아일랜드빅픽처'그리나…노바UCD전격에너지...",
-  "한달새시총275兆날아간국내증시…고점대비2000조가까이↓",
-  "최태원SK회장\"울산,AI로제조·복지·문화아우르는도시돼야\"",
   "코스피,AI속도조절론에3%대급락…6680선마감",
   "현대차자율주행'아트리아AI'공개···위기상황피해'안전운전'",
   "6개월만에자율주행차개발분위기확바꾼현대차그룹박민우,'더디되...",
@@ -6001,7 +5997,11 @@
   "AI가예약·주문해도최종승인은문자로…SK텔레콤,글로벌표준제안",
   "클라우드넘어AI까지통합…KT클라우드,'컴포지트AI'승부수",
   "자동차가테러무기로?정부·업계,합동대응훈련",
-  "“몇푼벌어보려다6300만원날렸다”…20대여성울린변종‘보이스..."
+  "“몇푼벌어보려다6300만원날렸다”…20대여성울린변종‘보이스...",
+  "삼성물산,입주민건강우선챙긴다...AI웰니스솔루션'웰피'출시",
+  "이화여대AI/로봇신소재연구자동화'자율실험실'구축..'국내대학최...",
+  "[미국특징주]웨이모,내년도쿄진출…日로보택시시장정조준",
+  "미국과중국의위험한AI질주...빅테크들은속도조절"
  ],
  "recent_sigs": [
   [
@@ -6797,7 +6797,7 @@
    "~KT KT클라우드 승부수 컴포지트 AI까지 통합 넘어 클라우드"
   ]
  ],
- "last_run": "2026-09-15T13:20:43.472774+09:00",
+ "last_run": "2026-09-15T13:22:34.817927+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
