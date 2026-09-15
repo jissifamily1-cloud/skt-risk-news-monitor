@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12317972?influxDiv=NAVER",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000549990",
-  "https://www.seoultimes.news/news/article.html?no=2000099784",
-  "http://www.kwangju.co.kr/article.php?aid=1789099907803270373",
-  "http://www.kwangju.co.kr/article.php?aid=1789099454803269373",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003266550&CMPT_CD=P0010",
-  "https://news.mtn.co.kr/news-detail/2026091112422541317",
-  "https://www.nocutnews.co.kr/news/6576766",
-  "https://www.cfnews.kr/news/article.html?no=111955",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000064538",
   "https://view.asiae.co.kr/article/2026091111194511630",
   "https://www.yna.co.kr/view/AKR20260911063800054?input=1195m",
   "https://www.news1.kr/local/gwangju-jeonnam/6287384",
@@ -2999,19 +2989,19 @@
   "https://www.sportsworldi.com/newsView/20260915514526",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724374",
   "https://www.huffingtonpost.kr/article/260521",
-  "http://www.inews24.com/view/2005902"
+  "http://www.inews24.com/view/2005902",
+  "https://sports.khan.co.kr/article/202609151617003?pt=nv",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260915161422dVi",
+  "https://biz.heraldcorp.com/article/10874414",
+  "https://zdnet.co.kr/view/?no=20260915160836",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=144472",
+  "https://www.econovill.com/news/articleView.html?idxno=750826",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16194545",
+  "https://www.businessplus.kr/news/articleView.html?idxno=116883",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88143",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700761"
  ],
  "seen_titles": [
-  "檢,'김옥숙메모'노소영참고인소환통보…일정조율중",
-  "검찰,'김옥숙메모'노소영참고인소환일정조율",
-  "검찰,노소영관장소환통보…'노태우비자금메모'수사",
-  "[단독]검찰,‘김옥숙메모’노소영소환통보",
-  "최태원‘1000억지출’발언고소…노소영측변호사불기소",
-  "전남광주시의회114건처리…조직개편안빠지고금고조례는표결",
-  "금고선정앞두고평가기준변경…논란속조례안원안가결",
-  "전남광주'25조슈퍼금고'조례안통과…역차별논란",
-  "전남광주25조원'금고전쟁'새기준논란…지역별영업망분포반영'...",
-  "\"지역금융지켜야\"…노소영특별시의원,25조원금고조례에소신반...",
   "[법정24]2조5500억원대9440억원…SK·스마일게이트‘세기의이혼’...",
   "전남광주시금고평가에지역별영업망반영…시의회본회의통과",
   "검찰,\"최태원,동거인에1000억썼다\"발언노소영변호사불기소",
@@ -6001,7 +5991,17 @@
   "‘신병4’육군2중대vs해병대…15일호국훈련대결본격화",
   "\"20억원이1000억원으로?\"…최태원측,노소영대리인정면반박",
   "KT클라우드김봉균2031년까지AI데이터센터1GW공급로드맵내놨다:...",
-  "방미통위\"휴대전화요금25%추가할인,거짓광고주의해야\""
+  "방미통위\"휴대전화요금25%추가할인,거짓광고주의해야\"",
+  "‘MZ무당’노슬비,홍대마비시켰다",
+  "겹악재에밀린코스피…6,600선마감",
+  "“바이오신소재기술사업화속도”노루홀딩스,대덕특구혁신기업3곳...",
+  "스마일게이트'이클립스',구글·애플양대앱마켓최고매출1위석권",
+  "트럼프가비판한'AI속도조절론'…월가부터삼성·하이닉스까지덮친...",
+  "ABB·BCG\"AI시대전력망,AC·DC하이브리드로간다\"",
+  "AI속도조절론두얼굴…증권가는'사다리걷어차기',연구자는\"죽일수...",
+  "[금융권이모저모]신한은행,콜센터품질지수12년연속수상外",
+  "AI속도조절론확산에반도체주급락…\"저가매수기회\"vs\"관망\"",
+  "오픈AI사장\"최첨단AI개발이미늦추고있다\""
  ],
  "recent_sigs": [
   [
@@ -6763,9 +6763,13 @@
   [
    "2026-09-15T16:18:20.690090+09:00",
    "정면 20억원이 대리인 1000억원으로 반박"
+  ],
+  [
+   "2026-09-15T16:20:23.202725+09:00",
+   "최첨단 늦추고 개발 이미 사장 있다"
   ]
  ],
- "last_run": "2026-09-15T16:18:42.031235+09:00",
+ "last_run": "2026-09-15T16:20:45.557952+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
