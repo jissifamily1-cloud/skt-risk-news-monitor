@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=275848",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=129800",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=419232",
-  "http://www.newswell.co.kr/news/articleView.html?idxno=21961",
-  "https://imnews.imbc.com/news/2026/world/article/6852172_36925.html",
-  "https://zdnet.co.kr/view/?no=20260916105926",
-  "https://www.slist.kr/news/articleView.html?idxno=766555",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=763970",
   "https://view.asiae.co.kr/article/2026091609290708461",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=311556",
   "http://www.inews24.com/view/2005523",
@@ -2999,17 +2991,17 @@
   "https://weekly.donga.com/3/all/11/6389041/1",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609141817141240105732",
   "https://www.aitimes.com/news/articleView.html?idxno=215331",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260917065139JRI"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260917065139JRI",
+  "https://www.lecturernews.com/news/articleView.html?idxno=210593",
+  "https://www.segye.com/newsView/20260917500672?OutUrl=naver",
+  "https://www.newspim.com/news/view/20260916000383",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6939813",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=310311",
+  "https://www.newscj.com/news/articleView.html?idxno=3433257",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609161105231760109664",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609151328506120107685"
  ],
  "seen_titles": [
-  "‘민간기업27년’김도영,제주개발공사사장취임",
-  "LG전자,‘LGAI데브콘2026’개최…AI활용개발혁신가속화",
-  "체험행사부터글로벌전시까지…기업들브랜드접점넓힌다",
-  "국립순천대지원받은㈜이음아이씨티,AI스마트팜진단시스템으로매...",
-  "[2026AI이노베이션포럼]송기헌과방위원장“AI는우리삶의흐름…...",
-  "AI속도조절론,안전인가패권인가…미중규제충돌속한국역할론(김...",
-  "웅진씽크빅,‘웅진스마트올중학’시험대비모드오픈…AI로내신학습...",
-  "中딥시크개발자\"앤트로픽AI장악,히틀러가핵무기갖는꼴\"",
   "메타,자체개발저비용칩내년에순차투입",
   "日유고,바퀴형세미휴머노이드로봇'유고노바'공개",
   "정재헌SKTCEO“스타트업과함께성공스토리만들것”",
@@ -6001,7 +5993,15 @@
   "트럼프-시진핑‘반도체빅딜’가능성…경보음켜진K-반도체",
   "[더벨]네이버벤처스,첫AI반도체투자'포트폴리오외연확장'",
   "[9월16일]'AI속도조절'은투자의후퇴인가…월가의엇갈린셈법",
-  "[글로벌증시]뉴욕증시,금리인상충격에일제히하락마감"
+  "[글로벌증시]뉴욕증시,금리인상충격에일제히하락마감",
+  "[이용호의손에잡히는인공지능]AI운영비는사용량보다일하는방식...",
+  "든자리는몰라도난자리는안다?김지찬AG차출공백속에박승규의...",
+  "[장욱희의중장년취업에세이]숲에서사람을살리는중장년의경험",
+  "대표팀에떨어진특명…'유일우타외야수'윤동희를살려라",
+  "[SKTAIDC재편]⑤김성수SKBCEO,호라이즌대표겸임배경은",
+  "[기자수첩]2500억AI띄우기전'전국민지킬보안'부터",
+  "[더벨]일본뚫은리벨리온,신제품'리벨100'공급",
+  "[더벨]KT클라우드,현대오토에버와협업'보은투자논란4년만'"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,25 @@
   [
    "2026-09-17T06:52:14.712790+09:00",
    "인류 경고 파멸 충돌 속내는 공룡"
+  ],
+  [
+   "2026-09-17T07:06:33.976430+09:00",
+   "김성수 호라이즌 대표 배경은 겸임 ~SKT SKB CEO"
+  ],
+  [
+   "2026-09-17T07:06:33.976430+09:00",
+   "지킬 2500억 국민 부터 보안 띄우기"
+  ],
+  [
+   "2026-09-17T07:06:33.976430+09:00",
+   "리벨100 신제품 일본 리벨리온 공급 뚫은"
+  ],
+  [
+   "2026-09-17T07:06:33.976430+09:00",
+   "논란 현대오토에버와 보은투자 ~KT 협업 KT클라우드 4년만"
   ]
  ],
- "last_run": "2026-09-17T07:04:33.851367+09:00",
+ "last_run": "2026-09-17T07:07:07.976455+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
