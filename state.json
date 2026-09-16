@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266882",
-  "https://www.joongang.co.kr/article/25462304",
-  "https://kbench.com/?q=node%2F281944",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8664838",
-  "https://www.yna.co.kr/view/AKR20260916092800009?input=1195m",
-  "https://www.yna.co.kr/view/AKR20260916091800009?input=1195m",
-  "https://www.yna.co.kr/view/AKR20260916092500017?input=1195m",
   "https://www.xportsnews.com/article/2196116",
   "http://www.osen.co.kr/article/G1112876453",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2301642",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/industry/general-industry/6293304",
   "https://www.joongangenews.com/news/articleView.html?idxno=548704",
   "https://www.wikitree.co.kr/articles/1160110",
-  "https://www.the-today.com/news/articleView.html?idxno=90277"
+  "https://www.the-today.com/news/articleView.html?idxno=90277",
+  "https://www.g-enews.com/view.php?ud=202609170837386578153ddfb15a_1",
+  "https://kpenews.com/View.aspx?No=4230840",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88309",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1407080",
+  "https://www.viva100.com/article/20260917500122",
+  "https://biz.heraldcorp.com/article/10876375",
+  "https://kpenews.com/View.aspx?No=4230833"
  ],
  "seen_titles": [
-  "[SV유통단신]현대홈쇼핑,목동에뷰티편집숍‘코아시스’5호점外",
-  "강남구,주택가뒤엉킨공중선정비…역삼2동3.2km집중개선",
-  "LG유플러스,190만명찾은강남‘틈’아트플랫폼으로새단장",
-  "'HBM최강자'굳히는SK하이닉스…압도적기술력에실적도'신기록'행진",
-  "AI가신진작가작품해설…임직원기부한폰439대상설전시",
-  "위성곤지사,김도영제주개발공사사장임명",
-  "전세계피싱메일80%‘AI가생성’…인간보다성공률54%높아",
   "SGA솔루션즈,N2SF전환전략핵심'제로트러스트솔루션'",
   "김현곤경기도경제과학진흥원원장\"대외불확실성높을수록미래성장...",
   "AI속도조절론에엇갈린‘삼전닉스’전망…BNK는목표가낮추고KB는...",
@@ -6001,7 +5994,14 @@
   "바디프랜드,용인에새라운지…전국150여개직영망운영",
   "오픈AI·인텔\"CXL,HBM대체어렵다\"…삼성전자·SK하이닉스주도권이...",
   "금리인상단행한연준…나스닥만-0.01%선방하며버틴'비밀'",
-  "[한국반도체,두총수의대전략(3)]이재용의미등기,삼성의병목베팅"
+  "[한국반도체,두총수의대전략(3)]이재용의미등기,삼성의병목베팅",
+  "[개장전주요공시]고려아연·STX·올릭스·레뷰코퍼레이션·가비아등",
+  "[스마트컨슈머]제조음료쿠폰증정스타벅스·E쿠폰핫딜프로모션11...",
+  "\"PC에서도스마트폰번호그대로\"…SKT·삼성전자,'채팅+PC버전'편의성...",
+  "SK텔레콤,'채팅+PC버전'고객이벤트내달16일까지진행",
+  "SKT,‘채팅+PC버전’고객이벤트⋯2천만원상당경품",
+  "SKT,‘채팅+PC버전’추천·설치이벤트…2000만원상당경품제공",
+  "LG유플러스,AI로승강기긴급대응강화..현대엘리베이터와협력"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,17 @@
   [
    "2026-09-17T08:50:21.330213+09:00",
    "베팅 삼성의 미등기 이재용의 병목"
+  ],
+  [
+   "2026-09-17T08:52:16.798997+09:00",
+   "채팅 PC버전 상당 추천 제공 ~SKT 설치 경품 2000만원 이벤트"
+  ],
+  [
+   "2026-09-17T08:52:16.798997+09:00",
+   "LG유플러스 강화 협력 AI로 대응 ~LGU 현대엘리베이터와 긴급 승강기"
   ]
  ],
- "last_run": "2026-09-17T08:50:42.280979+09:00",
+ "last_run": "2026-09-17T08:52:38.661121+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
