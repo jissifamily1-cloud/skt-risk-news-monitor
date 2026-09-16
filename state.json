@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03276726645580448&mediaCodeNo=257",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8662757",
-  "https://biz.heraldcorp.com/article/10873860",
-  "https://dealsite.co.kr/articles/169033",
-  "https://economist.co.kr/article/view/ecn202609150023",
-  "https://www.sedaily.com/article/20091027",
   "http://www.joseilbo.com/news/news_read.php?uid=575696&class=17",
   "https://www.mt.co.kr/tech/2026/09/15/2026091511044329040",
   "https://www.ddaily.co.kr/page/view/2026091510543278446",
@@ -2999,15 +2993,15 @@
   "https://www.bloter.net/news/articleView.html?idxno=673532",
   "https://www.mt.co.kr/tech/2026/09/16/2026091418092279281",
   "https://www.news1.kr/it-science/internet-platform/6291635",
-  "https://www.ekn.kr/web/view.php?key=20260916028585302"
+  "https://www.ekn.kr/web/view.php?key=20260916028585302",
+  "https://www.yna.co.kr/view/AKR20260916029100009?input=1195m",
+  "https://news.mtn.co.kr/news-detail/2026091608564388484",
+  "https://www.newspim.com/news/view/20260916000125",
+  "https://www.wikitree.co.kr/articles/1159814",
+  "https://www.hankookilbo.com/news/article/A2026091608450003287?did=NA",
+  "https://www.newspim.com/news/view/20260916000119"
  ],
  "seen_titles": [
-  "국토부·경찰청·현대차,자동차해킹대응체계점검",
-  "\"핸들이멋대로움직여요\"…민·관자동차해킹합동대응훈련",
-  "[더벨][SKAX는지금]SK㈜삼킨C&C,지주사내사업부로변모",
-  "車해킹이사고로번지면…정부·현대차실전대응훈련",
-  "[월드이슈]“AI개발속도늦춰야”…AICEO들의잇따른경고",
-  "SKT·SKB·사회보장정보원,복지서비스디지털혁신협약",
   "[IT는지금]삼성SDS,국내최초앤트로픽‘클로드파트너네트워크’...",
   "전시장서가장작았다…LGU+,IBC2026서차세대홈미디어공개",
   "“엄마,SKY보다하닉직행이낫지?”우르르몰리더니…경쟁률‘297대...",
@@ -6001,7 +5995,13 @@
   "\"검색넘어직접행동한다\"…SKT,실행형'모두의AI'전략시동",
   "\"40년SKT쓴시니어고객이소외되지않도록\"…'모두의AI'SKT가진심인...",
   "SKT\"AIDC·모델만으론안돼…'모두의AI'로수요도키운다\"",
-  "[똑똑한한끼]버거킹,매드포갈릭,육수당,엔제리너스,맥도날드,스타..."
+  "[똑똑한한끼]버거킹,매드포갈릭,육수당,엔제리너스,맥도날드,스타...",
+  "삼성,네덜란드AI반도체스타트업에투자",
+  "삼성대규모투자단행[여의도Pick!]",
+  "[특징주]'삼전닉스'반도체대형株…프리마켓보합권등락",
+  "나스닥주저앉을때…AMD솟구친'이유'",
+  "올트먼도'AI속도조절론'에한표\"무단해킹사건이경종…안전이기술...",
+  "트럼프\"AI위협은사기\"반발속…美당국자들,앤스로픽과화상회의"
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-09-16T09:02:15.202158+09:00",
    "버거킹 엔제리너스 육수당 스타 맥도날드 매드포갈릭"
+  ],
+  [
+   "2026-09-16T09:04:14.773965+09:00",
+   "트럼프 회의 위협은 화상 사기 앤스로픽과 당국자들 반발"
   ]
  ],
- "last_run": "2026-09-16T09:02:51.660101+09:00",
+ "last_run": "2026-09-16T09:04:36.639473+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
