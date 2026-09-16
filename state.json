@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2006121",
-  "https://www.boannews.com/news/articleView.html?idxno=145881",
-  "https://www.nocutnews.co.kr/news/6579000",
-  "https://www.khan.co.kr/article/202609161130018",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000066025",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=700970",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463443",
   "https://news.jtbc.co.kr/article/NB12318596?influxDiv=NAVER",
   "https://www.businesspost.co.kr/BP?command=article_view&num=447341",
   "http://www.efnews.co.kr/news/articleView.html?idxno=132462",
@@ -2999,16 +2992,16 @@
   "http://kor.theasian.asia/archives/415800",
   "https://www.datasom.co.kr/news/articleView.html?idxno=209982",
   "https://www.slist.kr/news/articleView.html?idxno=766758",
-  "http://www.newsdream.kr/news/articleView.html?idxno=118306"
+  "http://www.newsdream.kr/news/articleView.html?idxno=118306",
+  "https://www.slist.kr/news/articleView.html?idxno=766762",
+  "https://www.pennmike.com/news/articleView.html?idxno=127918",
+  "http://www.osen.co.kr/article/G1112876502",
+  "https://www.khan.co.kr/article/202609142048015",
+  "https://www.etoday.co.kr/news/view/2626517",
+  "https://news.dealsitetv.com/articles/175929",
+  "https://www.banronbodo.com/news/articleView.html?idxno=33035"
  ],
  "seen_titles": [
-  "최태원회장강조한'AI전환'…SK구성원672명해커톤서AX실전경쟁",
-  "﻿투자금으로사채·도박…김일두전카카오브레인대표,고소18건피...",
-  "포항TP,첨단바이오연구장비개방…지역기업과공동R&D협력모색",
-  "리벨리온,일본데이터센터에서버랙100대이상공급한다",
-  "GS,AI데이터센터생태계까지넓힌다",
-  "더넓게쓰고더길게탄다…베일벗은‘PV7’",
-  "이화여대,AI·로봇기반500평자율실험실구축…1000억투입NRL2.0핵...",
   "허태수GS회장,\"스타트업과국내AI데이터센터기술생태계추진하겠...",
   "비트플래닛'리서치랩'홈페이지오픈...매주리포트무료공개",
   "김현곤경과원장,경기AI기업중동시장진출길넓힌다…UAE프리사이트...",
@@ -6001,7 +5994,14 @@
   "[오늘의신문]AI고용충격청년층집중우려…대미투자진통·LNG72%급...",
   "[분석]AI데이터센터경쟁력은'전력'···선택지는'PPA'",
   "11번가,추석선물·외식수요겨냥'E쿠폰핫딜'프로모션",
-  "[드림&CEO]KT박윤영의승부수…실용적AI모델로미래영토넓힌다"
+  "[드림&CEO]KT박윤영의승부수…실용적AI모델로미래영토넓힌다",
+  "'연애박사'추영우·김소현메인포스터\"맵고,쓰고,달콤한로맨스\"",
+  "[김용삼칼럼]육영수여사암살까지왜곡하는좌파영화인들",
+  "“다시다칠까무서웠다”돌아온하윤기,배스와재회에“이번엔우승...",
+  "개인정보위“국내판매로봇청소기,보안위험발견안돼”",
+  "대신證\"KT,AIDC전략본격화…잔여자사주5000억조기집행기대\"",
+  "[핀포인트][KT]문어발확장뒤'땜질식'구조조정",
+  "[주간미디어동향]KBS,차기사장공모17일시작…10월21일최종후보..."
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,21 @@
   [
    "2026-09-17T08:10:23.364116+09:00",
    "모델로 넓힌다 실용적 미래 영토 박윤영의 ~KT 승부수"
+  ],
+  [
+   "2026-09-17T08:12:14.990641+09:00",
+   "자사주 ~KT 5000억 조기 대신 집행 AIDC 기대 잔여 전략 본격화"
+  ],
+  [
+   "2026-09-17T08:12:14.990641+09:00",
+   "~KT 구조조정 땜질식 문어발 확장"
+  ],
+  [
+   "2026-09-17T08:12:14.990641+09:00",
+   "KBS 10월 후보 최종 차기 사장 공모 17일 21일 시작"
   ]
  ],
- "last_run": "2026-09-17T08:10:46.018208+09:00",
+ "last_run": "2026-09-17T08:12:43.535648+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
