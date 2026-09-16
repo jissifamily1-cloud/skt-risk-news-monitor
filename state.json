@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6578989",
-  "https://www.mk.co.kr/article/12154092",
-  "https://www.greened.kr/news/articleView.html?idxno=350207",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463436",
-  "https://www.tokenpost.kr/news/cryptocurrency/408694",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8664825",
-  "https://www.huffingtonpost.kr/article/260544",
-  "https://www.sedaily.com/article/20091548",
-  "https://biz.heraldcorp.com/article/10875457",
   "https://www.khan.co.kr/article/202609142048015",
   "http://www.metroseoul.co.kr/article/20260916500150",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=612658",
@@ -2999,18 +2990,18 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=865977",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268008&CMPT_CD=P0010",
   "https://www.ajunews.com/view/20260916083334313",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363275"
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363275",
+  "https://www.betanews.net/article/view/beta202609160061",
+  "https://magazine.hankyung.com/business/article/202609179917b",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170318",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609170356&t=NN",
+  "https://www.venturesquare.net/1114142/",
+  "https://www.ajunews.com/view/20260917074641828",
+  "https://www.slist.kr/news/articleView.html?idxno=766745",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=311404",
+  "https://view.asiae.co.kr/article/2026091622191504105"
  ],
  "seen_titles": [
-  "SKB,복지서비스에AI·양자보안접목…‘디지털복지’고도화",
-  "SK브로드밴드,복지서비스DX전환나서…사회보장정보원과맞손",
-  "경계대상1호왕옌청조기강판...볼넷5개남발,한국전앞두고흔들",
-  "핵심선수들‘AG차출’…‘버텨야산다’막판순위싸움",
-  "해긴'2026프로야구GO!',신규레전드선수추가등정기업데이트진행",
-  "\"이번추석도아기상어와함께\"…'핑크퐁'페스타",
-  "‘쪼개기후원’KT황창규…법원“4.5억배상해야”",
-  "\"한·미간4배빠른속도로초대용량데이터전송\"KT,400Gbps급국제전...",
-  "KT·KISTI,한미과학기술연구망용량4배확대",
   "트럼프는“AI위험은사기”…참모들은앤스로픽과안전논의",
   "엔비디아'포터블컴퓨터'윈도우(Windows)RTXPC지원확대",
   "'택배확인'·'명절인사'…경찰\"추석앞사이버사기주의\"",
@@ -6001,7 +5992,16 @@
   "KIA,한화제치고5주연속KBO리그관심도1위",
   "'AI위협론',미국과중국의입장은어떻게다른가",
   "[경제일보]KT,AI인프라에5년간6조…AIDC1GW확장의계산[KT,1GWAI인...",
-  "AI우려무색한반도체주문폭주"
+  "AI우려무색한반도체주문폭주",
+  "데이터센터에사활건기업들…스타트업과손잡고AI생태계키운다",
+  "'AI대부'경고…\"AI,인류멸망초래할수도···통제력잃고있다\"",
+  "바이브에이아이,도시경쟁력을데이터로읽고실행방안까지제시[서...",
+  "AI대부\"인류멸망,현실될수도...핵무기만큼규제해야\"",
+  "[국내첫인터뷰]힉스필드(Higgsfield),아시아첫거점으로‘서울’...",
+  "\"90억투자금어디에\"…김일두전카카오브레인대표,배임·사기혐의...",
+  "'운명전쟁49'노슬비,키오스크로만난다…즉석운세확인",
+  "[AI속도논란]①\"AI늦춰도HBM은바로안줄어든다\"…K반도체가봐야할...",
+  "\"개발늦추자\"vs\"규제필요없어\"AI수장들격돌[1분브리프]"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-09-17T08:00:35.602818+09:00",
    "입장은 위협론 다른가 미국과 중국의 어떻게"
+  ],
+  [
+   "2026-09-17T08:04:15.057145+09:00",
+   "K반도체가 줄어든다 HBM은 바로 봐야 늦춰도"
+  ],
+  [
+   "2026-09-17T08:04:15.057145+09:00",
+   "격돌 늦추자 개발 규제 vs 수장들 필요없어"
   ]
  ],
- "last_run": "2026-09-17T08:02:34.851991+09:00",
+ "last_run": "2026-09-17T08:04:39.321184+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
