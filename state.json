@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=865303",
-  "https://www.edaily.co.kr/News/Read?newsId=05251286645580448&mediaCodeNo=257",
-  "https://news.jtbc.co.kr/article/NB12318465?influxDiv=NAVER",
-  "https://www.news1.kr/photos/8107991",
-  "https://www.news1.kr/photos/8107992",
-  "https://www.news1.kr/photos/8107989",
-  "https://www.news1.kr/photos/8107987",
-  "https://www.news1.kr/photos/8107990",
-  "http://www.osen.co.kr/article/G1112876123",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260916.22004005199",
   "https://www.sportschosun.com/baseball/2026-09-15/202609150100106030006881",
   "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=155941",
@@ -2999,18 +2990,18 @@
   "http://www.srtimes.kr/news/articleView.html?idxno=212398",
   "http://www.metroseoul.co.kr/article/20260916500267",
   "https://www.fnnews.com/news/202609161210573276",
-  "https://www.gokorea.kr/news/articleView.html?idxno=878669"
+  "https://www.gokorea.kr/news/articleView.html?idxno=878669",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3697341",
+  "https://www.fnnews.com/news/202609161221524447",
+  "https://www.newstnt.com/news/articleView.html?idxno=718648",
+  "https://www.kukinews.com/article/view/kuk202609140245",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701036",
+  "https://sateconomy.co.kr/news/view/1065593127843545",
+  "http://www.metroseoul.co.kr/article/20260916500260",
+  "https://www.imaeil.com/page/view/2026091614322181969",
+  "https://www.dt.co.kr/article/12084306"
  ],
  "seen_titles": [
-  "SKT,AI시대문자역할재정의",
-  "게이츠재단,2년간AI접근성에10억달러이상투입",
-  "롯데카드,영업재개하루전382억첫중간배당…MBK배당확대논란",
-  "롯데카드,영업재개전날382억원배당…첫중간배당",
-  "LG유플러스,IBC서차세대홈미디어기기공개",
-  "앞에선빅테크들속도조절한목소리…속내는'AI주도권잡기'",
-  "젠슨황깜짝스피커폰통화…트럼프\"AI멸망론은사기\"",
-  "연타석맹타휘두르는안현민",
-  "오늘저어때요감독님?",
   "이강철감독칭찬(?)받는안현민",
   "이강철감독과대화나누는고영표",
   "홈런-2루타,안현민",
@@ -6001,17 +5992,18 @@
   "[미리보는국감]2300만명개인정보털리고'증거인멸'의혹까지…통신...",
   "정재헌SK텔레콤CEO,스타트업현장목소리경청",
   "SKT,스타트업과'윈윈'강화…2030년까지500개혁신기업육성",
-  "SKT,스타트업과손잡고AI혁신미래그린다–드론부터투자까지"
+  "SKT,스타트업과손잡고AI혁신미래그린다–드론부터투자까지",
+  "대구광역시-정부,복류수실증실험2단계성능공동검증...TOC최대23%↑...",
+  "'K아트'키운다…AI만난LGU+'일상비일상의틈'의변신",
+  "은행권,금융소비자맞춤형서비스강화…보이스피싱예방부터연금·여...",
+  "‘칠천피’곧바로내준코스피,美금리인상가능성에‘안갯속’",
+  "리나칸전FTC위원장\"AI규제,새법없어도현행법으로가능\"",
+  "금융당국,PG업계보안관리강화주문…“가맹점우회공격까지대비”",
+  "SK텔레콤-5F,분산형클라우드서비스MPS파트너십…보안수요대응",
+  "PG해킹사고,대규모정보유출직결…금융당국,소비자피해차단체계...",
+  "“보안은은행급으로,데이터는최소로”…해킹표적된PG사에칼빼든..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-16T09:18:14.059193+09:00",
-   "빨라졌다 연구망 100TB 33분 2시간13분 KISTI ~KT 전송 4배 한미"
-  ],
-  [
-   "2026-09-16T09:18:14.059193+09:00",
-   "뚫었다 미국까지 연구데이터 ~KT 400Gbps로 한미 직통망"
-  ],
   [
    "2026-09-16T09:20:21.437180+09:00",
    "해커톤 SK 현장 가속 구성원 전사 참여로 성료 AX"
@@ -6791,9 +6783,13 @@
   [
    "2026-09-16T15:16:17.091110+09:00",
    "스타트업과 혁신 투자까지 드론부터 ~SKT 미래 손잡고 그린다"
+  ],
+  [
+   "2026-09-16T15:18:16.151633+09:00",
+   "표적 PG사에 최소로 빼든 은행급으로 보안은 데이터는"
   ]
  ],
- "last_run": "2026-09-16T15:16:34.934988+09:00",
+ "last_run": "2026-09-16T15:18:34.675248+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
