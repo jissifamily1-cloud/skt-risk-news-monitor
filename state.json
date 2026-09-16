@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/blockchain/408637",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=31567",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075583",
   "http://www.inews24.com/view/2006121",
   "https://www.boannews.com/news/articleView.html?idxno=145881",
   "https://www.nocutnews.co.kr/news/6579000",
@@ -2999,12 +2996,12 @@
   "http://www.consumernews.co.kr/news/articleView.html?idxno=763678",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=317913",
   "https://gamefocus.co.kr/detail.php?number=179082",
-  "http://kor.theasian.asia/archives/415800"
+  "http://kor.theasian.asia/archives/415800",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=209982",
+  "https://www.slist.kr/news/articleView.html?idxno=766758",
+  "http://www.newsdream.kr/news/articleView.html?idxno=118306"
  ],
  "seen_titles": [
-  "오픈AI,대규모투자유치추진…‘AI속도조절론’왜얘기했나",
-  "AI감속론이면엔‘빅테크IPO’있다",
-  "개인정보위“국내판매로봇청소기,보안위험발견안돼”",
   "최태원회장강조한'AI전환'…SK구성원672명해커톤서AX실전경쟁",
   "﻿투자금으로사채·도박…김일두전카카오브레인대표,고소18건피...",
   "포항TP,첨단바이오연구장비개방…지역기업과공동R&D협력모색",
@@ -6001,7 +5998,10 @@
   "10월인도앞둔볼보ES90,사전계약대수3000대...주행거리·충전성능...",
   "美연준금리인상·추가긴축우려에뉴욕증시일제히하락",
   "엔비디아'포터블컴퓨터'윈도우(Windows)RTXPC지원확대",
-  "[오늘의신문]AI고용충격청년층집중우려…대미투자진통·LNG72%급..."
+  "[오늘의신문]AI고용충격청년층집중우려…대미투자진통·LNG72%급...",
+  "[분석]AI데이터센터경쟁력은'전력'···선택지는'PPA'",
+  "11번가,추석선물·외식수요겨냥'E쿠폰핫딜'프로모션",
+  "[드림&CEO]KT박윤영의승부수…실용적AI모델로미래영토넓힌다"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,17 @@
   [
    "2026-09-17T08:08:14.763547+09:00",
    "집중 대미투자 진통 청년층 고용충격 LNG 우려"
+  ],
+  [
+   "2026-09-17T08:10:23.364116+09:00",
+   "11번가 핫딜 E쿠폰 외식수요 추석선물 프로모션 겨냥"
+  ],
+  [
+   "2026-09-17T08:10:23.364116+09:00",
+   "모델로 넓힌다 실용적 미래 영토 박윤영의 ~KT 승부수"
   ]
  ],
- "last_run": "2026-09-17T08:08:32.622335+09:00",
+ "last_run": "2026-09-17T08:10:46.018208+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
