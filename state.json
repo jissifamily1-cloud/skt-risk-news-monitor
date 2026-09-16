@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8663928",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005922307",
-  "https://www.khan.co.kr/article/202609151644001",
-  "https://www.kpinews.kr/newsView/1065598084721820",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609151422317280140",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487218",
   "https://www.topstarnews.net/news/articleView.html?idxno=16194571",
   "https://biz.sbs.co.kr/article_hub/20000334794?division=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.newspim.com/news/view/20260915001190",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=89969",
   "https://www.news1.kr/society/incident-accident/6292410",
-  "https://dealsite.co.kr/articles/168989"
+  "https://dealsite.co.kr/articles/168989",
+  "https://www.sportsseoul.com/news/read/1635589",
+  "https://www.dt.co.kr/article/12084275",
+  "https://www.kukinews.com/article/view/kuk202609160110",
+  "https://www.seoul.co.kr/news/international/2026/09/16/20260916500128?wlog_tag3=naver",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=407021"
  ],
  "seen_titles": [
-  "세계경제는어디로…9월FOMC금리인상초읽기,장기금리22년만에최고",
-  "게이츠재단,\"AI불평등심화,접근성확대10억달러\"지원",
-  "[NewsToday]AIposesreal-worldsecuritythreat",
-  "AI인프라서밋휩쓴'속도전'…글로벌기업출격속관전포인트는?",
-  "매출취소위해‘직접’재결제?보이스피싱입니다",
   "美'AI속도조절론'에흔들리는반도체株…\"저가매수기회\"",
   "롯데카드,16일신규영업재개…채널넓히고신상품으로고객확대",
   "SK브로드밴드,사회보장정보원과맞손...복지서비스DX확대",
@@ -6001,7 +5996,12 @@
   "[ETF특징주]머스크·올트먼·아모데이AI3인방경고에SOXL폭락",
   "정재헌SKTCEO,스타트업대표들과협력논의…\"AI사업기회함께만든...",
   "\"법위반매출580조인데과징금1.94%뿐\"…경실련,집단소송제도입촉...",
-  "[SKB분할명암]엔터프라이즈2분기째역성장…부러진성장축"
+  "[SKB분할명암]엔터프라이즈2분기째역성장…부러진성장축",
+  "LG전자,‘LGAI데브콘2026’개최…AI기반소프트웨어개발혁신가...",
+  "세일즈포스,라이브인터페이스‘AI포스’및CRM추론모델‘코아’...",
+  "‘길잘못찾으면다시탐색’…ETRI-KAIST,로봇길찾기대회‘우승...",
+  "젠슨황찡그린中음료…‘대변흘리며우승’여성도맛봤다",
+  "엔비디아,AI데이터센터전력망까지직접제어한다"
  ],
  "recent_sigs": [
   [
@@ -6787,9 +6787,13 @@
   [
    "2026-09-16T13:20:22.278040+09:00",
    "성장축 2분기째 역성장 부러진 엔터프라이즈"
+  ],
+  [
+   "2026-09-16T13:22:15.730886+09:00",
+   "직접 전력망까지 데이터센터 제어한다"
   ]
  ],
- "last_run": "2026-09-16T13:20:44.327609+09:00",
+ "last_run": "2026-09-16T13:22:37.017510+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
