@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092168173",
-  "https://www.newsis.com/view/NISX20260814_0003750151",
-  "https://www.news1.kr/it-science/mobile/6259820",
-  "https://www.yna.co.kr/view/AKR20260814152600017?input=1195m",
-  "https://www.sentv.co.kr/article/view/sentv202608140087",
-  "https://www.bloter.net/news/articleView.html?idxno=671028",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008705653&plink=ORI&cooper=NAVER",
-  "https://www.mt.co.kr/finance/2026/09/16/2026091516533820771",
   "http://www.srtimes.kr/news/articleView.html?idxno=212085",
   "https://www.donga.com/news/Economy/article/all/20260915/134675357/2",
   "https://www.segye.com/newsView/20260915517260?OutUrl=naver",
@@ -2999,17 +2991,17 @@
   "https://www.munhwa.com/article/11617536",
   "http://www.impacton.net/news/articleView.html?idxno=20350",
   "https://thetracker.co.kr/View.aspx?No=4230026",
-  "http://journal.kobeta.com/?post_type=post&p=63858"
+  "http://journal.kobeta.com/?post_type=post&p=63858",
+  "http://www.kdfnews.com/news/articleView.html?idxno=188138",
+  "https://www.dongascience.com/news/view/79942",
+  "https://www.newsis.com/view/NISX20260916_0003792434",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487698",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=359121",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=419244",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154063",
+  "https://www.newsis.com/view/NISX20260916_0003792447"
  ],
  "seen_titles": [
-  "이통3사가입자판도,해킹에'흔들'…LG유플러스만웃었다",
-  "과기정통부,GPS전파혼신대응훈련…민·관·군합동점검",
-  "과기정통부,GPS전파혼신대응태세점검…민·관·군합동훈련",
-  "과기정통부,민·관·군합동훈련으로전파혼신상황대응역량점검",
-  "과기정통부,'GPS전파혼신'대비…민·관·군합동실시",
-  "'풀MVNO'정책암초…설비보유알뜰폰줄이탈",
-  "서울YMCA\"이통사해킹사고에우려…공공사업재검토해야\"",
-  "싼요금만으론못잡는다…알뜰폰업계,특화상품경쟁",
   "시민단체\"보안사고겪은이통사,공공사업재검토해야\"",
   "[코스피·코스닥,삼성전자SK하이닉스㈜코오롱롯데카드현대해상이랜...",
   "코스피·코스닥전거래일(14일)주요공시는...삼성전자,반도체호황에...",
@@ -6001,7 +5993,15 @@
   "경기중용변보고우승호주女…현지음료‘이것’때문?",
   "텍사스데이터센터규제폭탄…엔비디아,구글출신에너지총괄영입",
   "[기업을바꾼선택①]구광모8년LG,포트폴리오재편서계열사결합으...",
-  "이훈기“방미통위,OTT시장규모파악못해”…법개정추진"
+  "이훈기“방미통위,OTT시장규모파악못해”…법개정추진",
+  "회선공급에서'통합운영'으로…통신B2B역할달라졌다",
+  "AI마을만들자사람은모르는'AI방언'등장했다",
+  "국힘교육위원들\"대입수시원서접수먹통,정부무책임에수험생12년...",
+  "한전KDN,'에너지정보공유분석센터'가동...사이버위협대응",
+  "SKT,스타트업협업'사업화'로넓힌다…AI·인프라역량결합",
+  "SKT서iPhone18Pro개통하면아웃백'베이비백립'쿠폰",
+  "SK텔레콤,스타트업협업사업확대",
+  "흩어진에너지해킹정보한곳에…'에너지ISAC'공동대응시동"
  ],
  "recent_sigs": [
   [
@@ -6867,9 +6867,17 @@
   [
    "2026-09-16T16:20:23.532260+09:00",
    "시장 OTT 규모 개정 이훈기 못해 파악"
+  ],
+  [
+   "2026-09-16T16:22:15.690976+09:00",
+   "~SKT 스타트업 확대 협업사업"
+  ],
+  [
+   "2026-09-16T16:22:15.690976+09:00",
+   "시동 흩어진 한곳에 정보 공동대응 에너지ISAC 에너지"
   ]
  ],
- "last_run": "2026-09-16T16:21:07.681167+09:00",
+ "last_run": "2026-09-16T16:22:39.684985+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
