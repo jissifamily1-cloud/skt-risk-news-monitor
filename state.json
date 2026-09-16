@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=606884",
-  "https://www.tokenpost.kr/news/breaking/408413",
-  "https://www.wikitree.co.kr/articles/1159762",
-  "http://coinreaders.com/258407",
-  "https://www.ytn.co.kr/_ln/0104_202609160557391141",
-  "https://www.seoul.co.kr/news/economy/IT/2026/09/16/20260916001007?wlog_tag3=naver",
-  "https://www.newsis.com/view/NISX20260915_0003790545",
-  "https://www.ddaily.co.kr/page/view/2026091517152005032",
-  "https://www.fnnews.com/news/202609160435195599",
   "https://www.econovill.com/news/articleView.html?idxno=750906",
   "https://www.donga.com/news/Economy/article/all/20260916/134676459/2",
   "https://www.g-enews.com/view.php?ud=2026091519374259609a1f309431_1",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/News/Read?newsId=04877366645580776&mediaCodeNo=257",
   "http://www.newstomato.com/ReadNews.aspx?no=1313961&inflow=N",
   "https://www.edaily.co.kr/News/Read?newsId=04844566645580776&mediaCodeNo=257",
-  "https://www.abcn.kr/news/articleView.html?idxno=91914"
+  "https://www.abcn.kr/news/articleView.html?idxno=91914",
+  "https://www.donga.com/news/Society/article/all/20260916/134677019/2",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000012407&cp=nv",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260916183035AxH",
+  "https://www.ajunews.com/view/20260916181212456",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701132",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701133",
+  "https://www.news1.kr/it-science/cc-newmedia/6293013",
+  "https://zdnet.co.kr/view/?no=20260916182147",
+  "https://www.news1.kr/it-science/cc-newmedia/6293014"
  ],
  "seen_titles": [
-  "AI속도조절론속…오픈AI“앤트로픽·구글과AI안전대응협력중”",
-  "앤트로픽CEO\"AI,자동차처럼'안전'관리해야\"…속도조절론재강조",
-  "앤트로픽CEO\"자동차처럼모두를위한AI안전표준세워야\"",
-  "오픈AI\"앤트로픽·구글과AI안전협력중…반독점면제불필요\"",
-  "오픈AI“앤트로픽·구글과AI안전대응협력중”",
-  "오픈AI\"앤스로픽·구글딥마인드와AI안전협력중\"",
-  "美MS,사내AI행동규범공개…\"인간의통제아래있어야\"[KDFWorld]",
-  "오픈AI,스마트폰카메라스타트업'글래스이미징'인수…기업가치4천...",
-  "유가폭등·美금리상승여파…원/달러환율1,360원뚫은트리플악재",
   "트럼프\"데이터센터규제불가,AI질주유지\"…젠슨황\"본질꿰뚫어...",
   "오픈AI,앤트로픽·구글과AI안전협력나서",
   "세일즈포스·엔비디아합작추론모델‘코아’등장,고객데이터없이...",
@@ -6001,7 +5992,16 @@
   "AI격차가생산성가른다…‘토큰복지’가국가·기업경쟁력좌우",
   "LG개발자1500명한자리에…LG전자,‘AI데브콘’개최",
   "엔비디아,전력당토큰처리량최대35배…‘AI팩토리’경쟁본격화",
-  "\"문전박대가취미입니다만\"…600명을인터뷰한김호이의별난생존법"
+  "\"문전박대가취미입니다만\"…600명을인터뷰한김호이의별난생존법",
+  "“동거인에1000억”발언불기소에최태원측항고",
+  "[재계뒷담]“실제는20억”…최태원,‘동거인1000억발언’변호사...",
+  "방미통위\"이통사,요금제유지기간지나면알림문자\"",
+  "방송평가기준개선한다…오보방지·비정규직개선노력신설",
+  "방미통위,불법위치추적서비스3개사업자경찰수사의뢰",
+  "방미통위,방송평가에'오보방지·비정규직개선노력'신설",
+  "방미통위,불법위치추적서비스제공3개업체경찰수사의뢰",
+  "방송사‘팩트체크’도평가...오보방지노력에가점",
+  "방송사팩트체크·오보대응도평가한다…공정성평가강화"
  ],
  "recent_sigs": [
   [
@@ -6919,9 +6919,13 @@
   [
    "2026-09-16T18:30:29.278870+09:00",
    "문전박대가 김호이의 별난 취미입니다만 생존법 600명을 인터뷰한"
+  ],
+  [
+   "2026-09-16T18:32:15.723697+09:00",
+   "오보 평가 강화 팩트체크 방송사 공정성 평가한다 대응도"
   ]
  ],
- "last_run": "2026-09-16T18:30:50.463406+09:00",
+ "last_run": "2026-09-16T18:32:37.087708+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
