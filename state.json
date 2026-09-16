@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202609061052525436",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=862762",
-  "http://www.metroseoul.co.kr/article/20260907500474",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=406631",
-  "https://www.asiatime.co.kr/article/20260907500336",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1723256",
   "https://www.mt.co.kr/tech/2026/09/07/2026090713434025958",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=698690",
   "https://www.insidevina.com/news/articleView.html?idxno=43983",
@@ -2999,15 +2993,15 @@
   "https://www.asiatoday.co.kr/kn/view.php?key=20260916010006250",
   "https://www.yna.co.kr/view/AKR20260916167800089?input=1195m",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=600502",
-  "https://www.mk.co.kr/article/12154535"
+  "https://www.mk.co.kr/article/12154535",
+  "https://www.goodkyung.com/news/articleView.html?idxno=291492",
+  "https://www.joongang.co.kr/article/25462409",
+  "https://news.mtn.co.kr/news-detail/2026091615555480062",
+  "https://www.sedaily.com/article/20091788",
+  "https://www.dt.co.kr/article/12084383",
+  "https://www.mk.co.kr/article/12154263"
  ],
  "seen_titles": [
-  "아이렌\"AI컴퓨팅수요무한확장...공급이수요못따라가\"",
-  "애니모프,실제화면기준AI검색노출데이터수집서비스'querying.ai'...",
-  "회의록넘어실시간통역까지…AI음성서비스,'회의중'경쟁붙었다",
-  "[AIMY뉴스]8일중국증시'유가급등·美금리조정경계속,AI·반도체...",
-  "[오늘의DT인]“AI칩과데이터센터공급부족은상당기간지속될것”",
-  "AIPC다음은손목까지…레노버·모토로라,개인용AI'Qira'생태계넓...",
   "레노버·모토로라,개인용AI‘Qira’PC·스마트폰·웨어러블로적용...",
   "‘AI,막거나쓰거나’美학교딜레마",
   "'최애'캐릭터와수다떨다시간훌쩍…'관계형AI'에빠진1020",
@@ -6001,7 +5995,13 @@
   "[기자의눈]AI는정말인간몰래움직였나",
   "中화웨이\"AI전략은엔비디아처럼되는것…고객사LLM지원\"",
   "엔비디아,같은전력으로GPU용량40%확대⋯토큰처리량최대35%↑",
-  "“상때문에연기하나”유해진,남우주연상놓치고‘대상’받은반전..."
+  "“상때문에연기하나”유해진,남우주연상놓치고‘대상’받은반전...",
+  "MBK,실적악화에영업정지엎친롯데카드서'수백억배당잔치'논란",
+  "“미·중전략경쟁속비대칭적실용외교필요”…서울국제포럼창립...",
+  "AI로판커진보안시장...안랩,매출1조목표",
+  "AI토큰값‘다이어트경쟁’…쏟아지는기업용솔루션[스타트업스트...",
+  "젠슨황·올트먼에저커버그까지…빅테크거물격전장된‘AI감속론’",
+  "[단독]불법투기잡는다며금융정보까지?...부동산감독원“목적위해..."
  ],
  "recent_sigs": [
   [
@@ -6863,9 +6863,17 @@
   [
    "2026-09-16T17:56:15.242817+09:00",
    "남우주연상 받은 놓치고 반전 연기하나 때문에 유해진 대상"
+  ],
+  [
+   "2026-09-16T17:58:14.241672+09:00",
+   "젠슨황 거물 저커버그까지 격전장된 빅테크 감속론 올트먼에"
+  ],
+  [
+   "2026-09-16T17:58:14.241672+09:00",
+   "목적 부동산감독원 불법투기 금융정보까지 잡는다며"
   ]
  ],
- "last_run": "2026-09-16T17:56:46.612393+09:00",
+ "last_run": "2026-09-16T17:58:37.651456+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
