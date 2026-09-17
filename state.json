@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84755",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81148",
-  "https://www.cwn.kr/news/articleView.html?idxno=56346",
-  "https://www.mediawatch.kr/news/article.html?no=261040",
-  "https://www.huffingtonpost.kr/article/260491",
-  "https://www.donga.com/news/Economy/article/all/20260915/134670195/1",
-  "https://www.techm.kr/news/articleView.html?idxno=155230",
-  "https://www.meconomynews.com/news/articleView.html?idxno=201632",
-  "https://www.redian.org/news/articleView.html?idxno=257313",
-  "https://www.lawtimes.co.kr/news/articleView.html?idxno=226369",
-  "https://www.seoul.co.kr/news/economy/industry/2026/09/17/20260917030004?wlog_tag3=naver",
   "https://www.joongang.co.kr/article/25462543",
   "https://www.donga.com/news/Economy/article/all/20260916/134674652/2",
   "https://www.apnews.kr/news/articleView.html?idxno=3051334",
@@ -2999,20 +2988,20 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=854112",
   "https://www.thepowernews.co.kr/view.php?ud=202609171558139594de3f0aa1be_7",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307479",
-  "https://www.etoday.co.kr/news/view/2626928"
+  "https://www.etoday.co.kr/news/view/2626928",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209141",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=208481",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=310410",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=208981",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=208940",
+  "https://www.newsis.com/view/NISX20260917_0003794304",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=208930",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=208941",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=208926",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=208908",
+  "https://news.skbroadband.com/news/articleView.html?idxno=238227"
  ],
  "seen_titles": [
-  "최태원측,‘1000억발언’불기소불복…“50배부풀려”항고",
-  "최태원측\"노소영측,거짓알고도50배부풀려\"…검찰불기소에항고",
-  "최태원,'동거인1000억원발언'불기소처분불복해항고",
-  "최태원SK그룹회장,\"김희영에1000억\"주장한노소영측변호사불기소...",
-  "최태원회장,검찰불기소에항고…\"노관장측,사실관계알고도'1000억...",
-  "최태원,'동거인에1천억원발언'노소영대리인불기소에항고",
-  "최태원,'생활비50배부풀려'반박...검찰불기소결정에항고",
-  "최태원측,노소영측변호사불기소처분에항고…“50배이상부풀려...",
-  "SK회장최태원,노소영측의'동거인에1천억썼다발언'명예훼손혐의...",
-  "최태원회장“노소영·변호사,거짓알고도50배부풀려”…검찰불기...",
-  "최태원SK회장'동거인에1000억원지출'불기소불복",
   "SK최태원,'김희영에1000원억'명예훼손불기소항고...\"실제론20억원...",
   "최태원측,'동거인에1000억지출'주장반박...노소영측변호사명예...",
   "최태원회장,\"동거인에1,000억원썼다\"발언변호사불기소에항고",
@@ -6001,7 +5990,18 @@
   "[통신풍향계]SKT'채팅+이벤트'·KT'5G업무망임대에그'-'전북다크...",
   "사무실밖에서도사내망접속…KT,5G전용단말‘에그’임대서비스선...",
   "반도체넘어한일산업권으로···이재용·최태원,日전략재편",
-  "‘1300억과징금’SKT,첫재판서“복제유심실험,실제이용환경과..."
+  "‘1300억과징금’SKT,첫재판서“복제유심실험,실제이용환경과...",
+  "AX·6G시대,통신망이국가AI인프라로…투자·규제전환시급",
+  "[금융게시판]KB국민은행,생성형AI로조회·이체까지…신한·농협·기...",
+  "신한은행,카카오'모두의AI'참여…금융특화서비스발굴",
+  "신한은행,카카오와금융AI만든다…'모두의AI'참여",
+  "SKT,PC문자'채팅+'기능확대…예약메시지추가",
+  "SKT,'유심정보유출'1300억원과징금불복소송시작…내년초선고",
+  "SKB'Btv에이닷'2년…장기이용자VOD시청시간1.6배",
+  "LG유플러스배주혁책임,클라우드국가대표팀세번째이끈다",
+  "LG유플러스·현대엘리베이터,승강기비상통화AI가먼저듣는다",
+  "11번가,추석'e쿠폰'공략…선물부터외식·여행까지",
+  "2026서울안전한마당…체험프로그램'가득'"
  ],
  "recent_sigs": [
   [
@@ -6751,9 +6751,25 @@
   [
    "2026-09-17T17:00:34.124011+09:00",
    "산업권으로 넘어 이재용 한일 전략 반도체 재편"
+  ],
+  [
+   "2026-09-17T17:04:19.144428+09:00",
+   "소송 과징금 선고 불복 유심정보 내년 시작 유출 ~SKT 1300억원"
+  ],
+  [
+   "2026-09-17T17:04:19.144428+09:00",
+   "시대 통신망이 국가 투자 규제 AX 6G 시급 인프라로"
+  ],
+  [
+   "2026-09-17T17:04:19.144428+09:00",
+   "여행까지 선물부터 추석 11번가 공략 e쿠폰 외식"
+  ],
+  [
+   "2026-09-17T17:04:19.144428+09:00",
+   "체험 가득 프로그램 서울안전한마당"
   ]
  ],
- "last_run": "2026-09-17T17:02:36.534493+09:00",
+ "last_run": "2026-09-17T17:04:48.391407+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
