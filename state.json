@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202609161612001",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=208807",
-  "https://www.joongangenews.com/news/articleView.html?idxno=548595",
   "https://daily.hankooki.com/news/articleView.html?idxno=1406876",
   "https://www.news1.kr/world/usa-canada/6292782",
   "https://www.etoday.co.kr/news/view/2626374",
@@ -2999,12 +2996,12 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701028",
   "https://www.hankyung.com/article/202609171010i",
   "https://www.pointe.co.kr/news/articleView.html?idxno=84885",
-  "https://www.tokenpost.kr/news/breaking/409468"
+  "https://www.tokenpost.kr/news/breaking/409468",
+  "https://economist.co.kr/article/view/ecn202609170030",
+  "https://www.aitimes.com/news/articleView.html?idxno=215376",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260917123339Duv"
  ],
  "seen_titles": [
-  "허태정대전시,정무라인보강…수석보좌관에안중기전시의원",
-  "\"외인팔고기관샀다\"…삼전닉스,저가매수세에동반상승",
-  "‘AI상식추론’개척한최예진교수,인촌상과학·기술수상",
   "[IT소식]모레,‘AI인프라서밋’서‘토큰팩토리OS’공개外",
   "토큰화주식,스테이블코인보다더커진다...\"美주식이다음글로벌수...",
   "코스피,FOMC경계감속1%대상승…닷새만에반등(종합)",
@@ -6001,7 +5998,10 @@
   "샘알트먼\"AI공포정당하다…악용막을장치마련돼야\"",
   "스냅,엔비디아·AWS·세일즈포스와AR안경시장진출",
   "코인원,'데이터독게임데이'우승…실전장애대응역량입증",
-  "2375만USDC해킹오스티움,뉴욕법원심리"
+  "2375만USDC해킹오스티움,뉴욕법원심리",
+  "에임인텔리전스,글로벌컨소시엄‘PASC’출범…“피지컬AI안전기준...",
+  "에임인텔리전스,피지컬AI안전컨소시엄출범...\"구글·MS·오라클도모...",
+  "미중정상회담D-7…AI안전접점찾을까"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,13 @@
   [
    "2026-09-17T12:32:13.541323+09:00",
    "USDC 뉴욕 2375만 심리 오스티움 법원"
+  ],
+  [
+   "2026-09-17T12:38:14.108786+09:00",
+   "안전 정상회담 접점 미중 찾을까"
   ]
  ],
- "last_run": "2026-09-17T12:36:29.129601+09:00",
+ "last_run": "2026-09-17T12:38:31.926305+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
