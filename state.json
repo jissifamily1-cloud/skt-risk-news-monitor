@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mhns.co.kr/news/articleView.html?idxno=760661",
-  "https://biz.heraldcorp.com/article/10876050",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471424",
-  "https://www.korea.kr/news/policyNewsView.do?newsId=148972031&call_from=naver_news",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003267925&CMPT_CD=P0010",
-  "https://www.sportsworldi.com/newsView/20260916519781",
-  "https://www.news1.kr/photos/8110526",
-  "https://www.news1.kr/photos/8110525",
   "https://www.news1.kr/photos/8110523",
   "https://www.ftimes.kr/news/articleView.html?idxno=39771",
   "https://www.khan.co.kr/article/202609162032035",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/it-science/cc-newmedia/6293479",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609171058273050475",
   "https://www.boannews.com/news/articleView.html?idxno=145923",
-  "https://www.fnnews.com/news/202609170938430712"
+  "https://www.fnnews.com/news/202609170938430712",
+  "https://www.mk.co.kr/article/12153828",
+  "https://www.asiatime.co.kr/article/20260916500423",
+  "http://www.popcornnews.net/news/articleView.html?idxno=133345",
+  "http://www.popcornnews.net/news/articleView.html?idxno=133349",
+  "https://biz.chosun.com/topics/law_firm/2026/09/17/KIHZDDOLJFH7FB6VD6IJPULBXA/",
+  "https://www.newsway.co.kr/news/view?ud=2026091714573141549",
+  "https://news.dealsitetv.com/articles/176120",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=204501"
  ],
  "seen_titles": [
-  "SK하이닉스,인텔과美메모리협력설에\"확정된바없다\"",
-  "배경훈\"韓,AI속도늦출여유없어\"",
-  "'유퀴즈'오놀라워라",
-  "'AI속도조절'은어떻게…\"핵무기처럼합의\"\"중국차단\"",
-  "KAI노동조합·LIGD&A지회,한화의KAI인수반대공동성명발표",
-  "[경향의눈]AI의질주,누가멈출것인가",
-  "민관,자동차사이버공격합동훈련",
-  "“SK하닉-인텔,미국서메모리생산협상중”",
   "이대통령,중앙아와'新실크로드'…핵심광물·인프라협력",
   "한-중앙아,'비즈니스서밋공동선언'채택…협력MOU19건체결",
   "오픈AI난제풀이두고'데이터무단학습'의혹",
@@ -6001,7 +5993,15 @@
   "과기정통부·방미통위,AI·OTT정책공조…'진흥원설립'에도협력",
   "현대엘리베이터ㆍLG유플러스,승강기원격관제에AIㆍ보안역량결합",
   "AI로엘리베이터안전지킨다...LGU유플러스-현대엘리베이터,AI기반원...",
-  "애플부터BYD까지,24일美中정상회담에양국기업인총출동"
+  "애플부터BYD까지,24일美中정상회담에양국기업인총출동",
+  "“AI가샀어요,반품할게요”일상되기전에…SKT가전세계에제안했다",
+  "“전력한계넘는다”…엔비디아,베라루빈·DSX풀스택공개",
+  "[분석]AIDC기업으로쪼개고붙이고...통신과SI,한지붕아래다른셈...",
+  "SK브로드밴드,'Btv에이닷'이용고객콘텐츠시청·구매로이어져",
+  "SKT“정상폰켜져있으면복제유심접속불가”…1300억과징금첫재판...",
+  "STO플랫폼선점한대형증권사…중소형사는'상품'으로승부수",
+  "[퇴근길7분뉴스]금리인상·오아시스·중국산짝퉁·종로3가",
+  "효성중공업,HVDC핵심기술국산화속도…LSMnM,어린이생활공간개선..."
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,29 @@
   [
    "2026-09-17T16:08:15.019674+09:00",
    "정상회담에 애플부터 총출동 24일 BYD까지 양국 기업인"
+  ],
+  [
+   "2026-09-17T16:10:23.847216+09:00",
+   "정상폰 접속 과징금 재판 ~SKT 켜져 있으면 복제유심 1300억 불가"
+  ],
+  [
+   "2026-09-17T16:10:23.847216+09:00",
+   "통신과 다른 AIDC기업으로 아래 지붕 SI 쪼개고 붙이고"
+  ],
+  [
+   "2026-09-17T16:10:23.847216+09:00",
+   "증권사 STO 대형 플랫폼 선점한 상품 승부수 중소형사는"
+  ],
+  [
+   "2026-09-17T16:10:23.847216+09:00",
+   "오아시스 금리인상 종로3가 중국산짝퉁"
+  ],
+  [
+   "2026-09-17T16:10:23.847216+09:00",
+   "어린이 LS 생활공간 핵심기술 MnM HVDC 속도 효성중공업 국산화 개선"
   ]
  ],
- "last_run": "2026-09-17T16:08:46.418255+09:00",
+ "last_run": "2026-09-17T16:10:55.200929+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
