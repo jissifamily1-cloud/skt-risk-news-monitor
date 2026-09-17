@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ddanzi.com/894457543",
-  "https://www.dailian.co.kr/news/view/1691442/?sc=Naver",
-  "https://www.dailian.co.kr/news/view/1691439/?sc=Naver",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075684",
-  "https://www.dailian.co.kr/news/view/1691434/?sc=Naver",
-  "https://www.ajunews.com/view/20260917071501802",
-  "https://www.ajunews.com/view/20260917080928864",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701200",
-  "https://www.etoday.co.kr/news/view/2626541",
-  "https://hbnpress.com/news/view/1065571464418503",
-  "https://www.edaily.co.kr/News/Read?newsId=02745366645581104&mediaCodeNo=257",
   "https://www.topstarnews.net/news/articleView.html?idxno=16196553",
   "https://www.gpkorea.com/news/articleView.html?idxno=146783",
   "http://www.osen.co.kr/article/G1112877049",
@@ -2999,20 +2988,20 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=319240",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488232",
   "https://dgmbc.com/NewsArticle/863005",
-  "https://www.starnewskorea.com/sports/2026/09/18/2026091807315738136"
+  "https://www.starnewskorea.com/sports/2026/09/18/2026091807315738136",
+  "https://www.newspim.com/news/view/20260918000036",
+  "https://www.segye.com/newsView/20260918502573?OutUrl=naver",
+  "https://biz.sbs.co.kr/article_hub/20000335426?division=NAVER",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=393390",
+  "http://kor.theasian.asia/archives/415874",
+  "https://www.chosun.com/economy/tech_it/2026/09/18/YP2ZSXW5LFDNXBWALCJ7KXKP4Q/",
+  "https://www.tjb.co.kr/news05/bodo/view/id/103787",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363440",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008759369&plink=ORI&cooper=NAVER",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154226",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171454"
  ],
  "seen_titles": [
-  "구글딥마인드연구원도사직후'AI위험'경고...\"시간얼마안남아\"",
-  "[뉴스in뉴스]“AI개발속도늦춰야”…AICEO들의잇따른경고",
-  "[20260915]요약은더힘들다뉴스공장",
-  "추석귀경길25일가장붐빈다…부산→서울8시간전망",
-  "SKT,PC에서도문자쓴다…‘채팅+PC버전’이용자확대",
-  "LG유플러스승강기비상통화AI가받는다",
-  "LG유플러스,클라우드인재세계무대에…국제기능올림픽대표팀이끈다",
-  "카카오·LG유플러스\"모두의AI,카톡·전화로접속…핵심은웹기반플...",
-  "LG유플러스,현대엘리베이터와AI기반원격관제시스템고도화",
-  "LG유플러스구성원,국제기능올림픽클라우드대표팀이끈다",
-  "LG유플러스,현대엘리베이터와승강기안전성높인다…AI기반원격관제...",
   "LG유플러스배주혁기술책임,국제기능올림픽IT종목국가대표팀감독...",
   "LG유플러스·현대엘리베이터,AI비상통화응대실증한다",
   "'딥워터'아론에크하트·벤킹슬리,도파민서바이벌스릴러중심에...",
@@ -6001,7 +5990,18 @@
   "\"직접체험하고산다\"…바디프랜드,용인신규라운지오픈",
   "사상최악의지갑보안뚫렸다…200만XRP현금화에떨고있는시장",
   "마지막대전원정나서는삼성라이온즈···승리로분위기반전노린다",
-  "'박영현-조병현아니었다'ERA4.19최준용승부치기투입→'무사1·2루..."
+  "'박영현-조병현아니었다'ERA4.19최준용승부치기투입→'무사1·2루...",
+  "中5년간국내관광18억명확대,여행으로경제부양",
+  "애플‘아이폰18프로’18일한국공식출시…기본형없이199만원출...",
+  "[비즈나우]편가르는AI속도조절…옅어진충격파",
+  "화웨이\"중국AI개발더빨라져야\"…미국과'속도조절'놓고시각차",
+  "[오늘의신문]대미투자원전협상막판진통…美금리인상·유가120달...",
+  "메신저슬랙,AI직원까지한데모은‘AI업무허브’변신",
+  "뉴욕증시,금리인상충격털고하루만에반등…나스닥1.7%↑",
+  "금리인상소화한뉴욕증시상승…나스닥1.7%↑",
+  "[뉴욕증시]금리인상에불확실성해소…일제히반등",
+  "월가,하루만에'안도랠리'···국채금리·유가동반하락에나스닥...",
+  "미국증시다우지수'상승'..엔비디아·빅테크주'활짝',CRM'뚝'"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,13 @@
   [
    "2026-09-18T07:44:50.819280+09:00",
    "오른 기준금리 마켓무버의 이유는 올라갔는데도 기술주 미국 진짜"
+  ],
+  [
+   "2026-09-18T07:56:15.692162+09:00",
+   "상승 CRM 활짝 빅테크주 미국증시 다우지수"
   ]
  ],
- "last_run": "2026-09-18T07:54:35.309079+09:00",
+ "last_run": "2026-09-18T07:56:38.294084+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
