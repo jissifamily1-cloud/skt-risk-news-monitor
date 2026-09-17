@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6578020",
-  "https://www.ytn.co.kr/_ln/0102_202609150707214669",
-  "https://www.ytn.co.kr/_ln/0102_202609150600477030",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170320",
-  "https://news.mtn.co.kr/news-detail/2026091619024367625",
-  "https://www.fnnews.com/news/202609150925341503",
-  "https://www.hankyung.com/article/2026091546186",
-  "https://www.g-enews.com/view.php?ud=202609121907047757fda4f5ab74_1",
-  "https://www.donga.com/news/It/article/all/20260910/134642935/1",
   "http://www.fnnews.com/news/202608201335100050",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03663766645548632",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005898710",
@@ -2999,18 +2990,18 @@
   "https://www.hankyung.com/article/202609171483H",
   "https://www.gukjenews.com/news/articleView.html?idxno=3698623",
   "https://m.skyedaily.com/news_view.html?ID=311749",
-  "https://biz.chosun.com/stock/stock_general/2026/09/15/XLT43ZZXRZDL5NRB7RU4VWQNZU/"
+  "https://biz.chosun.com/stock/stock_general/2026/09/15/XLT43ZZXRZDL5NRB7RU4VWQNZU/",
+  "http://www.metroseoul.co.kr/article/20260917500463",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724694",
+  "http://www.4th.kr/news/articleView.html?idxno=2118265",
+  "https://www.dt.co.kr/article/12084573",
+  "https://zdnet.co.kr/view/?no=20260917151935",
+  "https://biz.chosun.com/stock/stock_general/2026/09/15/CYO5RGCUYBBARHVLUTLQ5YDNFM/",
+  "https://www.newsway.co.kr/news/view?ud=2026091715412872266",
+  "https://news.mtn.co.kr/news-detail/2026091714330670542",
+  "https://www.kwnews.co.kr/article/20260917501361"
  ],
  "seen_titles": [
-  "[게임뉴스]드림에이지및해긴외주요소식",
-  "\"수분크림추천해줘\"…GS샵,AI가쇼핑도와준다",
-  "인간앞서는지능,행동시작했다",
-  "특구재단,기술창업투자경진대회성료…㈜앤빅스랩'대상'",
-  "손정의회장과엔트로픽의제이콥콕슨이던진질문",
-  "머스크도경고한'AI과속'...트럼프\"더빨리\"외치는이유[굿모닝경제...",
-  "정주용\"아스트라,웬만한과장·대리보다낫다\"[한판승부]",
-  "빅테크\"AI속도조절론\"...한국증시까지'휘청'[스타트경제]",
-  "\"터미네이터현실로?\"여의도증권가까지번진AI인류멸망시나리오...",
   "방미통위,고가요금제유도대처강화",
   "지원금앞세운'고가요금제'유도…불공정행위손본다",
   "삼성전자27만원·SK하이닉스148만원…\"메모리비용한계도달\"진단한...",
@@ -6001,7 +5992,16 @@
   "李\"암표끝까지추격\"…조응천\"디테일에강한대통령\"",
   "고창군,2년연속'국민공감대상체류형관광도시'수상…머무는여행정...",
   "출격앞둔‘아이폰18’프로",
-  "고유가·고금리·AI신중론‘3연타’에…코스피,약보합출발해6600선"
+  "고유가·고금리·AI신중론‘3연타’에…코스피,약보합출발해6600선",
+  "美레버리지ETF운용사들,잇달아한국찾는다",
+  "[서학개미안테나]아마존'11조몰빵'에제너락34%폭등",
+  "SK하이닉스,AI추론메모리다변화..HBF·PIM·SALT-KV첫선",
+  "“운용자산10%가서학개미”…美트레이더ETF,韓시장정조준",
+  "두산전자BG,9700억투자해CCL증설...AIDC수요대응",
+  "‘하닉하락’맞췄던BNK證…삼성전자,투자의견‘보유’로하향",
+  "애플,엔비디아손잡나?…18년만에서버시장복귀검토",
+  "애플,AI수요증가에서버시장재진출검토…엔비디아협력거론",
+  "강원자치도·원주시,엔비디아GPU‘우선확보’길열었다"
  ],
  "recent_sigs": [
   [
@@ -6747,9 +6747,13 @@
   [
    "2026-09-17T15:48:15.729986+09:00",
    "해법 늘어도 EU 찾나 트래픽 수익은 DNA"
+  ],
+  [
+   "2026-09-17T15:54:15.005256+09:00",
+   "원주시 GPU 열었다 우선 강원자치도 확보"
   ]
  ],
- "last_run": "2026-09-17T15:52:34.121856+09:00",
+ "last_run": "2026-09-17T15:54:35.658282+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
