@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inews365.com/news/article.html?no=936160",
-  "https://www.edaily.co.kr/News/Read?newsId=02820806645581104&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435337",
-  "https://www.news1.kr/world/usa-canada/6293292",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598599195363",
-  "https://www.hankyung.com/article/202609169062i",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3698099",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3698106",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701232",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3698102",
   "http://www.globalepic.co.kr/view.php?ud=2026091709285180648439a4874_29",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=854009",
   "https://www.epnc.co.kr/news/articleView.html?idxno=407051",
@@ -2999,19 +2989,19 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008072",
   "https://www.newsen.com/news_view.php?uid=202609180812250310",
   "https://www.g-enews.com/view.php?ud=2026091808142336709a1f309431_1",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84926"
+  "https://www.pointe.co.kr/news/articleView.html?idxno=84926",
+  "https://www.newsis.com/view/NISX20260918_0003794871",
+  "https://www.newsis.com/view/NISX20260918_0003794865",
+  "https://www.etoday.co.kr/news/view/2627051",
+  "https://www.tokenpost.kr/news/ai/409974",
+  "https://www.m-i.kr/news/articleView.html?idxno=1415735",
+  "http://autotimes.co.kr/detail.php?number=689210&thread=27",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5063732",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435526",
+  "https://www.news1.kr/finance/general-stock/6294633",
+  "https://www.g-enews.com/view.php?ud=202609180821285719fbbec65dfb_1"
  ],
  "seen_titles": [
-  "현대엘리베이터,LG유플러스와맞손…승강기에AI·통신·보안결합",
-  "KTENA,카자흐스탄과K-콘텐츠공동제작나선다",
-  "오픈AI\"앤트로픽·구글과AI안전대책논의\"공식확인",
-  "비트코인ETF,6월이후최대유출…클래리티법부결여파",
-  "한전KDN,에너지사이버보안의‘컨트롤타워’,에너지ISAC설명회개최",
-  "금융보안원,2027년도신입사원채용",
-  "세일즈포스,2030년매출630억달러목표…월가컨센서스보다높아",
-  "\"AI로언젠가인류멸망\"…미국인3명중2명위험성우려",
-  "“나이키·롤렉스·루이비통AI가먼저불렀다”…시장평가뒤집은‘...",
-  "방산성장에통신회복기대까지...RFHIC7%상승",
   "[포토]HD현대중공업직장선교회울산동구청에사랑의'쌀'기탁",
   "김대권수성구청장,'청렴토크콘서트'개최...직원-구청장즉문즉답소...",
   "사기수법알았는데…日2030절반이'의심전화'속았다",
@@ -6001,7 +5991,17 @@
   "KIA내년에는3루FA사야하나…선택아닌필수?하나해결하니또고...",
   "故안판석유작출연하는김소현“감독님여정에함께하고싶어출연”...",
   "AI'멸종위험론'확산에‘기업책임론’도떠올라",
-  "신한카드,민간데이터댐연합과공공AI혁신이끈다"
+  "신한카드,민간데이터댐연합과공공AI혁신이끈다",
+  "美반도체훈풍에프리마켓서삼전·닉스3%대강세",
+  "케이웨더,AI기상예보10종출시…날씨AI팩토리첫상품",
+  "루시드,로보택시계약체결ㆍ구조조정완료에6%상승[뉴욕증시무버...",
+  "일주일실제매매한에이수스·포에시스,AI책임규제쟁점",
+  "FOMC불확실성걷히고유가·금리진정...나스닥1.69%↑[뉴욕증시]",
+  "[시승]“가격은거들뿐”,뛰어난상품경쟁력갖춘볼보차ES90",
+  "[뉴욕증시]금리인상불확실성해소에반등…나스닥1.69%↑",
+  "[뉴욕마켓워치]생각해보니불확실성해소같다…주식·채권↑달러↓",
+  "美반도체훈풍…삼성전자·SK하이닉스프리마켓3%상승",
+  "'앙숙'엔비디아에손내민애플…독자AI서버띄우려2029년동맹저울..."
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-09-18T08:22:14.175087+09:00",
    "확산에 떠올라 멸종위험론 책임론 기업"
+  ],
+  [
+   "2026-09-18T08:26:14.972806+09:00",
+   "엔비디아에 띄우려 저울 독자 2029년 앙숙 서버 내민 애플 동맹"
   ]
  ],
- "last_run": "2026-09-18T08:24:35.016709+09:00",
+ "last_run": "2026-09-18T08:26:32.699788+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
