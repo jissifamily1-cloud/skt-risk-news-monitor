@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20091836",
-  "https://www.dt.co.kr/article/12084437",
-  "https://www.mediapen.com/news/view/1124109",
   "https://biz.sbs.co.kr/article_hub/20000335107?division=NAVER",
   "https://www.donga.com/news/Society/article/all/20260917/134684716/2",
   "https://www.edaily.co.kr/News/Read?newsId=01508806645581104&mediaCodeNo=257",
@@ -2999,12 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488178",
   "https://news.jtbc.co.kr/article/NB12318891?influxDiv=NAVER",
   "https://www.dynews.co.kr/news/articleView.html?idxno=866530",
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067632"
+  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067632",
+  "https://www.cwn.kr/news/articleView.html?idxno=56722",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=866534",
+  "http://www.journalist.or.kr/news/article.html?no=61692"
  ],
  "seen_titles": [
-  "오픈AI의피지시모,IPO앞둔엔스케일이사회합류",
-  "[속보]美기준금리인상…다우1.21%↓“인플레5년넘게목표치웃돌고...",
-  "美반도체주.뉴욕증시약세에도선방…인텔4%급등·AMD1.7%↑",
   "뉴욕증시,‘추가금리인상’예고에일제히하락...단기채금리급등...",
   "필기구‘샤프’의변신…폭스콘등에업고AI서버판다",
   "연준‘금리추가인상’에다우‘쇼크’…‘SK하닉합작’인텔‘급...",
@@ -6001,7 +5998,10 @@
   "화웨이AI칩일정돌연앞당겼다…중국의'엔비디아추격전'본격화",
   "[단독]선관위'12개의혹'정조준…'해킹전문가'특검보투입",
   "광역시·도주요행사/18일(금)",
-  "서부노인복지관·KT울산지사,취약노인에추석선물"
+  "서부노인복지관·KT울산지사,취약노인에추석선물",
+  "신한은행,'모두의AI'선도컨소시엄합류…금융혁신서비스도전",
+  "현대엘리베이터·LG유플러스,AI·보안승강기협력",
+  "방미통위,김종철위원장'회피'해도YTN심의가능하다"
  ],
  "recent_sigs": [
   [
@@ -6755,9 +6755,13 @@
   [
    "2026-09-17T19:38:14.408064+09:00",
    "의혹 선관위 특검보 투입 12개 전문가 정조준"
+  ],
+  [
+   "2026-09-17T19:42:14.383559+09:00",
+   "가능하다 회피 해도 심의 위원장 김종철 YTN"
   ]
  ],
- "last_run": "2026-09-17T19:40:37.128855+09:00",
+ "last_run": "2026-09-17T19:42:37.736339+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
