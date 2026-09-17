@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1159867",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160277275350374",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=607302",
-  "https://www.newspim.com/news/view/20260916000598",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=89907",
-  "http://www.4th.kr/news/articleView.html?idxno=2118169",
-  "http://www.globalepic.co.kr/view.php?ud=20260916121523607748439a4874_29",
-  "https://www.dailian.co.kr/news/view/1691140/?sc=Naver",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=52979",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=208669",
   "https://www.mt.co.kr/industry/2026/09/16/2026091114461513937",
@@ -2999,17 +2991,17 @@
   "https://www.businessplus.kr/news/articleView.html?idxno=116973",
   "https://daily.hankooki.com/news/articleView.html?idxno=1407084",
   "https://www.newspim.com/news/view/20260917000059",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54048"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54048",
+  "https://www.aitimes.com/news/articleView.html?idxno=215324",
+  "https://www.etnews.com/20260916000184",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=89892",
+  "https://www.newsis.com/view/NISX20260917_0003793103",
+  "https://www.edaily.co.kr/News/Read?newsId=02728966645581104&mediaCodeNo=257",
+  "https://biz.heraldcorp.com/article/10876379",
+  "https://www.ekn.kr/web/view.php?key=20260917026545765",
+  "https://biz.newdaily.co.kr/site/data/html/2026/09/17/2026091700050.html"
  ],
  "seen_titles": [
-  "제주도,김도영제주개발공사제13대사장임명",
-  "김도영제주개발공사제13대사장취임...\"경영위기극복\"",
-  "한국남자농구,요르단34점차완파…8년만에아시안게임4강",
-  "[G-브리핑]‘제우스:오만의신’,‘잿빛비늘의은신처’추가",
-  "T1이스포츠아카데미,5년만에LCKCL우승…MVP는'페인터'김은후",
-  "비주얼바이브,글로벌IT대기업에'촬영자동화솔루션'납품및구축...",
-  "'고영표가잠그고힐리어드가넘겼다'...KT,한화13-3대파'파죽의7연...",
-  "한국항공대,전국대학생AI파일럿최강자가린다,17일'TopGunChallenge...",
   "BC카드,AI실무활용본격화…소비자관심도증가",
   "[최상현의세상보기]인공지능(AI)속도조절론과강행론,실현가능성은...",
   "한국수력원자력,공군미사일방어사령부와원전방호…드론·순항미사일...",
@@ -6001,7 +5993,15 @@
   "LG유플러스-현대엘리베이터,AI로승강기원격관제고도화",
   "LG유플러스,현대엘리베이터와협력…승강기원격관제에AI적용",
   "[모닝리포트]KT,실수요기반AIDC구축…2031년AI매출4.8조원목표",
-  "AI혁신이끄는올트먼도자기전숏폼본다"
+  "AI혁신이끄는올트먼도자기전숏폼본다",
+  "오픈AI,'몸값40%뛴'1.2조달러가치로추가투자유치추진",
+  "AI가추천하는브랜드는어떻게만들어지는가...56만건인용데이터기...",
+  "엔비디아,윈도우RTXPC서'퍼플렉시티포터블컴퓨터'지원",
+  "폰문자PC에서도쓴다…SKT,채팅+PC지원확대",
+  "추석교통‘혼잡정점’은…귀성25일·귀경25일정오",
+  "SKB‘Btv에이닷’월간대화건수2100만건돌파…“AI로찾고시청까...",
+  "[똑똑한소비]롯데하이마트,NS홈쇼핑,쿠팡,SSG닷컴,11번가,G마켓",
+  "티맵데이터가예측한추석연휴교통상황은?…“귀성은분산,귀경은..."
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,17 @@
   [
    "2026-09-17T09:02:16.339657+09:00",
    "자기 본다 이끄는 혁신 숏폼 올트먼도"
+  ],
+  [
+   "2026-09-17T09:04:13.883705+09:00",
+   "쿠팡 G마켓 롯데하이마트 NS홈쇼핑 11번가 SSG닷컴"
+  ],
+  [
+   "2026-09-17T09:04:13.883705+09:00",
+   "데이터가 추석연휴 교통 티맵 분산 귀성은 예측한 귀경은 상황은"
   ]
  ],
- "last_run": "2026-09-17T09:02:38.363352+09:00",
+ "last_run": "2026-09-17T09:04:41.821382+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
