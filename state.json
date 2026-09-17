@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0102_202609160912357167",
-  "https://www.sedaily.com/article/20091930",
-  "https://biz.heraldcorp.com/article/10876368",
-  "https://www.chosun.com/economy/tech_it/2026/09/17/EX6FN4EW6VFJHKC7HAUXYS4MMU/",
   "https://zdnet.co.kr/view/?no=20260917075619",
   "https://biz.heraldcorp.com/article/10876247",
   "https://biz.heraldcorp.com/article/10876325",
@@ -2999,13 +2995,13 @@
   "https://www.nytimes.com/2026/09/17/briefing/republicans-midterms-yemen-fighting-gene-editing.html?partner=naver",
   "https://www.greened.kr/news/articleView.html?idxno=350383",
   "https://www.g-enews.com/view.php?ud=2026091806553517589a1f309431_1",
-  "https://www.etnews.com/20260918000001"
+  "https://www.etnews.com/20260918000001",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1407434",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170326",
+  "http://www.economytalk.kr/news/articleView.html?idxno=424174",
+  "http://www.inews24.com/view/2006430"
  ],
  "seen_titles": [
-  "\"AI로엘리베이터비상통화1차응대\"…LG유플러스·현대엘리베이터,스...",
-  "연준금리인상후폭풍속인텔·애플·아마존'주목'[美증시특징주]",
-  "배경훈\"韓,AI속도늦출여유없다\"···감속론에선그어",
-  "SK하이닉스美·日저울질속…호남470조투자유인책은",
   "비만약다음신약찾는노보,'클로드'연구원으로채용",
   "스마일게이트권혁빈CVO,'세기의이혼'이가능했던이유",
   "“없으면불편한AI만들것”…카카오컨소,‘완결형AI’로승부",
@@ -6001,7 +5997,11 @@
   "RepublicansFaceaToughPathAhead",
   "구광모LG회장\"AI는선택대응영역이아닌미래경쟁력좌우하는핵심...",
   "오픈AI,AI‘우려행동’6건공개…상시공시체계도입",
-  "英찰스3세'AI위험성'경고…젠슨황“SNS같은규제안돼”"
+  "英찰스3세'AI위험성'경고…젠슨황“SNS같은규제안돼”",
+  "롯데카드,한달반만에영업재개…매각작업도속도붙나",
+  "[에이전틱AI맵2026]셀렉트스타,AI에이전트임무수행전과정검증...",
+  "SKT,스타트업과AI협업확대…현장에서본점검드론은'시에라베이스...",
+  "완성차대신협력사부터뚫는다…車해킹,공급망타고확산"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,21 @@
   [
    "2026-09-18T06:56:16.436337+09:00",
    "FOMC 충격 마감 반등 하루 뉴욕증시 진정 만에"
+  ],
+  [
+   "2026-09-18T07:02:17.148785+09:00",
+   "과정 에이전트 셀렉트스타 임무 수행 검증"
+  ],
+  [
+   "2026-09-18T07:02:17.148785+09:00",
+   "점검 협업 스타트업과 드론은 확대 현장에서 시에라베이스 ~SKT"
+  ],
+  [
+   "2026-09-18T07:02:17.148785+09:00",
+   "협력사부터 타고 뚫는다 확산 완성차 대신 공급망"
   ]
  ],
- "last_run": "2026-09-18T07:00:57.352727+09:00",
+ "last_run": "2026-09-18T07:02:40.017497+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
