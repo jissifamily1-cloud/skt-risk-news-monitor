@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260916170900003?input=1195m",
-  "https://www.dailian.co.kr/news/view/1691311/?sc=Naver",
-  "http://www.gndomin.com/news/articleView.html?idxno=489724",
   "https://www.hani.co.kr/arti/international/international_general/1278136.html",
   "http://www.beyondpost.co.kr/view.php?ud=2026091413481477799aeda69934_30",
   "https://www.sedaily.com/article/20091807",
@@ -2999,12 +2996,12 @@
   "http://www.biztribune.co.kr/news/articleView.html?idxno=359175",
   "http://www.ddanzi.com/894656431",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171437",
-  "https://www.ddaily.co.kr/page/view/2026091714555339102"
+  "https://www.ddaily.co.kr/page/view/2026091714555339102",
+  "https://www.mk.co.kr/article/12154263",
+  "https://www.etnews.com/20260917000392",
+  "https://www.joongangenews.com/news/articleView.html?idxno=548715"
  ],
  "seen_titles": [
-  "\"미국생산만관세면제\"트럼프압박에…하이닉스'현지팹'속도",
-  "이대통령\"중앙아와새실크로드\"…핵심광물전주기협력제안",
-  "李“한-중앙아새로운실크로드열자”…교역·핵심광물·인프라협력...",
   "KT-KISTI,국내첫한미400G국가연구망개통…전송용량4배로",
   "\"중앙亞와새30년을실크로드정신절실\"",
   "SMR부터수소환원제철까지…SK·포스코·한화·한난,기후산업박람회서...",
@@ -6001,7 +5998,10 @@
   "바디프랜드,용인리빙파워센터라운지오픈…AI헬스케어로봇체험확...",
   "[20260917]요약은더힘들다뉴스공장",
   "신한은행,'모두의AI'카카오컨소시엄합류…LG유플러스역할도주목",
-  "“추석선물문자,스팸인지확인하세요”"
+  "“추석선물문자,스팸인지확인하세요”",
+  "[단독]불법투기잡는다며금융정보까지?...부동산감독원법에“목적위...",
+  "하나금융그룹,SKT·삼성손잡고금융권첫'5G특화망'구축",
+  "SK텔레콤,PC에서도휴대폰번호그대로문자…'채팅+'이용자확대나선..."
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,17 @@
   [
    "2026-09-17T15:04:24.727343+09:00",
    "문자 추석선물 확인하세요 스팸인지"
+  ],
+  [
+   "2026-09-17T15:06:15.132545+09:00",
+   "5G 하나금융그룹 구축 특화망 ~SKT 금융권 잡고 삼성"
+  ],
+  [
+   "2026-09-17T15:06:15.132545+09:00",
+   "번호 ~SKT 채팅 문자 확대 PC에서도 나선 휴대폰 그대로 이용자"
   ]
  ],
- "last_run": "2026-09-17T15:04:46.869324+09:00",
+ "last_run": "2026-09-17T15:06:36.451547+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
