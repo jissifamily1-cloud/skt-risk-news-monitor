@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260917_0003794157",
-  "https://biz.heraldcorp.com/article/10877351",
-  "https://www.edaily.co.kr/News/Read?newsId=04506726645581104&mediaCodeNo=257",
-  "https://www.donga.com/news/Economy/article/all/20260917/134689032/1",
-  "https://www.goodkyung.com/news/articleView.html?idxno=291529",
   "https://biz.chosun.com/it-science/ict/2026/09/17/ZU2GIOGFNJFBVD62C7MSHXOXTA/",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=709931",
   "https://www.topdaily.kr/articles/112007",
@@ -2999,14 +2994,14 @@
   "http://www.seouleconews.com/news/articleView.html?idxno=93864",
   "https://www.newsis.com/view/NISX20260918_0003795906",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4435673",
-  "https://www.viva100.com/article/20260918500682"
+  "https://www.viva100.com/article/20260918500682",
+  "https://zdnet.co.kr/view/?no=20260918150700",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724887",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488511",
+  "https://www.news2day.co.kr/article/20260918500184",
+  "https://www.chosun.com/economy/tech_it/2026/09/18/V5XXARZWDBCXFCYRC56OOFAREQ/"
  ],
  "seen_titles": [
-  "방미통위,고가요금제유도대처강화",
-  "삼성전자27만원·SK하이닉스148만원…\"메모리비용한계도달\"진단한...",
-  "\"삼전닉스오를만큼올랐다\"…증권가'싸늘한전망'[분석+]",
-  "앤스로픽,전방위클로드악용사례공개...기업자율규제한계드러내",
-  "“4년뒤,임금희비갈린다…인지직업군0.3%뒷걸음질”[김현지의wi...",
   "앤스로픽,데이터센터확보박차...텍사스시설자금조달마무리",
   "'국가대표AI'2차평가,업스테이지·SKT·LG勝…정부\"AI전략대대적개...",
   "인텔,AI투자위해유상증자…불확실성높은AI시대구글과애플은다른...",
@@ -6001,7 +5996,12 @@
   "SK하이닉스자회사솔리다임,美생산진출검토…현지투자확대",
   "'KT무단소액결제'가담중국인들2심서도실형",
   "SK하이닉스美자회사솔리다임,미국에첫낸드공장검토",
-  "인천TP자동차부품도‘해킹방어’없으면수출못한다…기업대응력..."
+  "인천TP자동차부품도‘해킹방어’없으면수출못한다…기업대응력...",
+  "스토리지,'데이터저장소'넘어AI핵심인프라로부상",
+  "IPARK현대산업개발,광명1.15조재건축단독입찰…'원메가블록'승부",
+  "IPARK현대산업개발,광명하안주공6·7단지단독입찰…'겐슬러'설계...",
+  "[자산운용데일리]ETF경쟁더뜨겁게…AI·보수·분배금‘승부’",
+  "속내는제각각...복잡해지는실리콘밸리의‘AI속도조절론’논쟁"
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,17 @@
   [
    "2026-09-18T15:38:16.877803+09:00",
    "방어 없으면 대응력 기업 수출 부품도 인천TP 자동차 한다"
+  ],
+  [
+   "2026-09-18T15:40:24.129360+09:00",
+   "승부 경쟁 뜨겁게 ETF 보수 분배금"
+  ],
+  [
+   "2026-09-18T15:40:24.129360+09:00",
+   "실리콘밸리의 논쟁 속내는 속도조절론 제각각 복잡해지는"
   ]
  ],
- "last_run": "2026-09-18T15:38:43.051163+09:00",
+ "last_run": "2026-09-18T15:40:47.194770+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
