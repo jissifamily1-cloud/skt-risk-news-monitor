@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=350296",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276166",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701326",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701028",
-  "https://www.hankyung.com/article/202609171010i",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=84885",
-  "https://www.tokenpost.kr/news/breaking/409468",
-  "https://economist.co.kr/article/view/ecn202609170030",
-  "https://www.aitimes.com/news/articleView.html?idxno=215376",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260917123339Duv",
   "https://www.khan.co.kr/article/202609161612001",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=406219",
   "https://www.ytn.co.kr/_ln/0102_202609171218100624",
@@ -2999,19 +2989,19 @@
   "https://www.ddaily.co.kr/page/view/2026091810591187811",
   "https://www.kukinews.com/article/view/kuk202609170078",
   "https://daily.hankooki.com/news/articleView.html?idxno=1407755",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=106331"
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=106331",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7184931",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214571",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=854188",
+  "https://dealsite.co.kr/articles/169218",
+  "https://www.hg-times.com/news/articleView.html?idxno=305426",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=311643",
+  "https://www.sedaily.com/article/20092568",
+  "https://www.yna.co.kr/view/AKR20260918073900004?input=1195m",
+  "https://www.khan.co.kr/article/202609181105001",
+  "https://biz.sbs.co.kr/article_hub/20000335496?division=NAVER"
  ],
  "seen_titles": [
-  "코인원,장애대응경진대회'데이터독게임데이'우승",
-  "\"美금리인상은예상대로였다\"흔들리지않는코스피?",
-  "방미통위\"추석선물·지원금문자주의…URL클릭전확인\"",
-  "[CSK26]'분단위'로줄어든AI공격...아르헨사이버정보청장\"팀으로...",
-  "스패로우,두바이‘GISEC2026’서SW공급망보안기술공개",
-  "경기창조경제혁신센터·재단법인밴드,초기기술기업에최대2억원투...",
-  "로켓툴즈,‘브랜드AX컨설팅’출시…이커머스AI전환지원",
-  "오픈AI,몸값'2000조원'노린다…코덱스·GPT-6흥행강조",
-  "'사직스쿠발'김진욱,AG에서는필승조변신…류지현감독“왼손투수...",
-  "인핸스,512억원규모시리즈C투자유치…누적810억원,사업적신뢰...",
   "\"어르신,AI로그림그려보세요\"…한국농어촌공사전북본부,'찾아가는...",
   "장비수백대사지않고빌려쓴다…KT,기업용'5G에그'렌털출시",
   "\"5G의새로운활용\"…KT,'슬라이싱'으로기업·공공네트워크고도화",
@@ -6001,7 +5991,17 @@
   "앤트로픽“연구개발업무AI가26%자율수행”",
   "재산분할대상집값도관련지출?…최태원‘1000억’공방",
   "신한카드,공공AI·빅데이터혁신세미나'그랜데이터퍼블릭데이202...",
-  "SKT,애플신제품'iPhone18Pro&ProMax'공식출시"
+  "SKT,애플신제품'iPhone18Pro&ProMax'공식출시",
+  "고대안암병원,'꿈씨버스'에화상협진…아태첫메디버스출범",
+  "북한,공격인프라로블록체인활용해탐지피해",
+  "[게임스테이션]'블룸워커'신규트레일러·'메이플M'시스템개편·'퍼...",
+  "[2026블록체인간담회]강형구교수\"원화코인보다플랫폼먼저…관문...",
+  "강남구,민원창구투명가림막대신'AI자막·번역시스템'도입",
+  "개인정보털렸는데개인정보재입력?티빙의'역설적보상책'[추적+]",
+  "AI가모는마리오카트대결승자는…KAIST·포항공대‘과학카포전’...",
+  "대법,최태원-노소영재산분할재상고접수…인지대8억원납부",
+  "“젠슨황·저커버그·머스크,트럼프설득해AI규제기구무산”",
+  "AI감속이냐가속이냐그것이문제로다…월가의해석은?"
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,13 @@
   [
    "2026-09-18T11:10:30.363419+09:00",
    "출시 애플 Max iPhone 신제품 ~SKT Pro"
+  ],
+  [
+   "2026-09-18T11:12:15.019572+09:00",
+   "그것이 문제로다 해석은 가속이냐 감속이냐 월가의"
   ]
  ],
- "last_run": "2026-09-18T11:10:47.065966+09:00",
+ "last_run": "2026-09-18T11:12:41.932604+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
