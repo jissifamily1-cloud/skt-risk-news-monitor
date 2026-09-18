@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000335287?division=NAVER",
-  "https://www.abcn.kr/news/articleView.html?idxno=92001",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=764061",
-  "https://www.thelec.kr/news/articleView.html?idxno=62456",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701347",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=764084",
-  "https://www.inthenews.co.kr/news/article.html?no=92039",
   "https://www.nspna.com/news/?newsid=828756",
   "https://zdnet.co.kr/view/?no=20260917135314",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701341",
@@ -2999,16 +2992,16 @@
   "http://www.biztribune.co.kr/news/articleView.html?idxno=359256",
   "https://www.greened.kr/news/articleView.html?idxno=350436",
   "https://hbnpress.com/news/view/1065586548875203",
-  "http://www.dailypop.kr/news/articleView.html?idxno=102692"
+  "http://www.dailypop.kr/news/articleView.html?idxno=102692",
+  "https://zdnet.co.kr/view/?no=20260918132902",
+  "https://www.tokenpost.kr/news/ai/410134",
+  "https://www.yna.co.kr/view/AKR20260918086000009?input=1195m",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16784",
+  "https://www.tokenpost.kr/news/ai/410132",
+  "https://www.newsis.com/view/NISX20260917_0003794550",
+  "https://byline.network/?p=9004111222620725"
  ],
  "seen_titles": [
-  "\"AI시대성공스토리함께쓰자\"…SKT,스타트업500곳키운다",
-  "정재헌SKT대표,스타트업과'윈윈'강화…2030년까지500곳동반성장",
-  "계명대클루랩-대구경찰청,비다공성표면지문현출신기법연구등재",
-  "[부산]부산지역해수욕장올해방문객2천2백만명",
-  "계명문화대학교,고교생취업자신감↑...자소서경진·면접코칭운영",
-  "선양소주,예산사과증류원액담은'선양추사'출시",
-  "SKT,‘채팅+PC버전’추천·설치이벤트진행",
   "'추석고속도로정체'25일가장혼잡...서울~부산7시간소요",
   "신한은행,카카오와‘모두의AI’개발…금융정보탐색에AI접목",
   "구광모“AI승부처에서이기려면집요한실행력필요”",
@@ -6001,7 +5994,14 @@
   "SK무게추,반도체로더기운다…부회장3명하이닉스이동",
   "LG유플러스,상생공헌동참…중소협력사250억선지급",
   "LG유플러스,추석트래픽급증대비...AI기반네트워크운영",
-  "AI규제반대는트럼프뿐?…좌우연대까지나온워싱턴위기감"
+  "AI규제반대는트럼프뿐?…좌우연대까지나온워싱턴위기감",
+  "클루커스,중소기업AI·클라우드문턱낮춘다…MS애저·코파일럿지원...",
+  "워터마크적용뒤AI모델유해응답·도구호출달라져",
+  "\"구글검색지배력,AI시대에되레강화됐다\"",
+  "AI심장부실리콘밸리의역설…데이터센터갈등격화",
+  "AI모델상품화가능성…하드웨어·앱으로가치이동전망",
+  "AI시대잘나가는자사몰성공법…카페24\"데이터가성패가른다\"",
+  "오픈AI,‘에이전트API’출시…에이전트경쟁2막"
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,13 @@
   [
    "2026-09-18T13:30:30.816972+09:00",
    "나온 좌우 위기감 반대는 트럼프뿐 연대까지 워싱턴 규제"
+  ],
+  [
+   "2026-09-18T13:32:16.129059+09:00",
+   "API 출시 에이전트 2막 경쟁"
   ]
  ],
- "last_run": "2026-09-18T13:30:49.937812+09:00",
+ "last_run": "2026-09-18T13:32:36.578244+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
