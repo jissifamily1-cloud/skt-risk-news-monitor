@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701502",
-  "https://www.globale.co.kr/news/articleView.html?idxno=40465",
   "https://www.hankyung.com/article/2026091825586",
   "https://www.jasm.co.kr/news/articleView.html?idxno=316235",
   "https://news.tf.co.kr/read/world/2367371.htm",
@@ -2999,11 +2997,11 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488627",
   "https://www.g-enews.com/view.php?ud=2026091907020779592bd56fbc3c_1",
   "https://www.wikitree.co.kr/articles/1160608",
-  "https://www.aitimes.com/news/articleView.html?idxno=215372"
+  "https://www.aitimes.com/news/articleView.html?idxno=215372",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=90184",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16199207"
  ],
  "seen_titles": [
-  "'고졸신인10승도전'SSG김민준,신인왕판도흔드나",
-  "젠슨황·저커버그·머스크,트럼프설득…AI규제기구저",
   "[마켓뷰]5%재돌파한美금리…코스피,6600선겨우방어",
   "고객은검색창을떠났다",
   "[오늘의주요일정·18일]이재명대통령10시청와대영빈관서기자회견",
@@ -6001,7 +5999,9 @@
   "\"5년격차\"라던중국,2년만에따라왔다고정말?…삼성·SK에거센추격",
   "토요타,2028년공장자동화'연1조엔'투입",
   "무서운일발생...미군,AI거짓보고믿고실제로전쟁벌일뻔",
-  "[9월17일]초지능경고에서에이전트통제까지...'p(doom)'이다시주목..."
+  "[9월17일]초지능경고에서에이전트통제까지...'p(doom)'이다시주목...",
+  "앤트로픽'클로드'활용해오픈AI내부망침투,72시간도안걸렸다",
+  "AI거짓정보에미중충돌직전…72시간해킹까지현실이됐다"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-09-19T07:18:14.143644+09:00",
    "미군 무서운 믿고 발생 벌일 실제로 전쟁 거짓보고"
+  ],
+  [
+   "2026-09-19T07:24:16.142093+09:00",
+   "현실이 직전 미중 충돌 해킹까지 거짓정보에 72시간 됐다"
   ]
  ],
- "last_run": "2026-09-19T07:22:31.488750+09:00",
+ "last_run": "2026-09-19T07:24:33.695937+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
