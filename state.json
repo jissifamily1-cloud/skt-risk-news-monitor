@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363360",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=209985",
-  "https://www.newsis.com/view/NISX20260917_0003793656",
-  "https://news.unn.net/news/articleView.html?idxno=597615",
-  "https://www.mt.co.kr/industry/2026/09/17/2026091615535957700",
-  "https://www.joongangenews.com/news/articleView.html?idxno=548701",
-  "https://www.tokenpost.kr/news/ai/409452",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276158",
   "https://www.viva100.com/article/20260917500487",
   "https://www.sejungilbo.com/news/articleView.html?idxno=60142",
   "https://www.edaily.co.kr/News/Read?newsId=03663766645581104&mediaCodeNo=257",
@@ -2999,17 +2991,17 @@
   "http://www.finomy.com/news/articleView.html?idxno=261927",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=728045",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=866442",
-  "https://www.chosun.com/economy/tech_it/2026/09/18/OSEVW2HPTVFZTOWB2CJOE7C6BE/"
+  "https://www.chosun.com/economy/tech_it/2026/09/18/OSEVW2HPTVFZTOWB2CJOE7C6BE/",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=407127",
+  "http://www.breaknews.com/1237703",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577612689399",
+  "http://www.4th.kr/news/articleView.html?idxno=2118310",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=201719",
+  "https://www.segye.com/newsView/20260918506487?OutUrl=naver",
+  "https://www.insight.co.kr/news/574141",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=276404"
  ],
  "seen_titles": [
-  "AG결승전마지막위기?던져서막으면영웅되는것아닌가...강심장최...",
-  "中딥시크개발자\"엔트로픽AI장악은히틀러가원폭선점하는격\"",
-  "KT'5G업무망임대에그'로기업·공공무선인프라혁신",
-  "\"앱슬라이싱부터PQC까지\"…KT,기업·공공용5G업무망및차세대보...",
-  "KT만가능한5G단독모드…기업·공공특화5G업무망출시한다",
-  "“추석선물배송정보입력하세요”문자왔다면…주소·계좌번호요구...",
-  "LG유플러스,현대엘베와AI승강기원격관제고도화…안전·편의성↑",
-  "추석연휴앞두고'이런문자'받았다면절대클릭하지마세요",
   "\"출처도스스로만들어\"…오픈AI,인간통제벗어난AI사례공개",
   "LG유플러스·현대엘리,AI기반원격관제시스템고도화",
   "美금리인상…글로벌긴축시대오나",
@@ -6001,7 +5993,15 @@
   "코스피,美증시훈풍에2%대상승···6800선회복",
   "두산,CCL증설로몸값높인다…2028년까지9684억원투자",
   "케이웨더,엔비디아AI기상예보10종출시",
-  "AI가AI개발주도비율,2월1%미만에서8월26%로껑충"
+  "AI가AI개발주도비율,2월1%미만에서8월26%로껑충",
+  "[테크리포트]말한대로작동하는'티맵',AI가AI를개선하는방법",
+  "SKT,아이폰18프로·프로맥스출시…구글AI구독권등제공",
+  "통신3사,추석앞두고협력사에대금조기지급",
+  "SKT·LGU+,추석통신망24시간관제..AI로트래픽대응",
+  "[더밸류브리핑]오늘의카드사소식…신한카드,롯데카드,BC카드",
+  "“추석연휴,정체피하려면23일늦은밤부터24일새벽사이에출발하...",
+  "\"반도체가미래다\"...SK부회장3명,하이닉스로전격이동",
+  "향과색으로보는'감정'…SKT'이모션랩'개막"
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,17 @@
   [
    "2026-09-18T10:56:15.293261+09:00",
    "8월 미만에서 비율 AI가 껑충 2월 주도 개발"
+  ],
+  [
+   "2026-09-18T10:58:16.276162+09:00",
+   "롯데카드 오늘의 BC카드 카드사 소식 신한카드"
+  ],
+  [
+   "2026-09-18T10:58:16.276162+09:00",
+   "이모션 보는 개막 감정 ~SKT 향과 색으로"
   ]
  ],
- "last_run": "2026-09-18T10:56:33.111943+09:00",
+ "last_run": "2026-09-18T10:58:36.452492+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
