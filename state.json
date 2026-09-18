@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665351",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3698576",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3698573",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3698562",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3698566",
   "https://www.mt.co.kr/living/2026/09/17/2026091415075593335",
   "https://www.boannews.com/news/articleView.html?idxno=145915",
   "https://www.techm.kr/news/articleView.html?idxno=155355",
@@ -2999,14 +2994,14 @@
   "https://www.news1.kr/finance/general-stock/6295337",
   "https://www.sidae.com/article/2026091813224519656",
   "https://www.job-post.co.kr/news/articleView.html?idxno=228229",
-  "https://www.yna.co.kr/view/AKR20260918109400011?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260918109400011?input=1195m",
+  "https://www.news1.kr/world/usa-canada/6295328",
+  "https://kpenews.com/View.aspx?No=4233471",
+  "https://www.tokenpost.kr/news/ai/410160",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1724863",
+  "https://www.newspim.com/news/view/20260918000776"
  ],
  "seen_titles": [
-  "SK바이오팜,퍼스트바이오파킨슨병신약후보도입…최대4308억원규모",
-  "생성형AI열풍속존재감…크라우드웍스,데이터솔루션사업탄력",
-  "[더밸류브리핑]오늘의은행소식…KB국민은행,카카오뱅크",
-  "금융보안원,AI보안인재중심2027년도신입직원채용",
-  "[AI프리즘]국정원,AI에이전트안전성평가한다(종합)",
   "SK브로드밴드'Btv에이닷'2주년…MAU170만명",
   "LG유플러스-현대엘리베이터,승강기원격관제에통신·AI·보안역량결...",
   "방미통위\"추석선물·이벤트미끼문자주의\"",
@@ -6001,21 +5996,14 @@
   "7000바라보는코스피…금리·유가'진정'외인·기관순매수[장중시황...",
   "두산·LG화학,AI핵심소재CCL증설총력",
   "현대차36만7000원,1.10%상승…피지컬AI기대속반등",
-  "[연합뉴스이시각헤드라인]-14:30"
+  "[연합뉴스이시각헤드라인]-14:30",
+  "앤트로픽\"클로드,새모델R&D26%주도\"…AI자기개선가시화",
+  "AI시대에도검색엔진강세..마켓워치\"구글검색지배력강화\"",
+  "유엔·구글,AI통계플랫폼공개…26개기구참여",
+  "[카드&Now]롯데카드,3억달러해외ABS발행…조달비용절감등",
+  "[미국특징주]펜실베이니아주지사\"AI안전장치강화해야\""
  ],
  "recent_sigs": [
-  [
-   "2026-09-18T08:36:14.636970+09:00",
-   "3세까지 생명까지 찰스 하면 위협 통제 나섰다"
-  ],
-  [
-   "2026-09-18T08:36:14.636970+09:00",
-   "반도체주 특징주 강세 프리마켓 삼성전자 여파 SK하이닉스"
-  ],
-  [
-   "2026-09-18T08:36:14.636970+09:00",
-   "vs 설득전 막힌다 백악관 벌어진 혁신 트럼프 규제해야"
-  ],
   [
    "2026-09-18T08:40:21.512193+09:00",
    "방송법 시정명령 KBS 위반 사전통지"
@@ -6711,9 +6699,13 @@
   [
    "2026-09-18T14:34:15.249791+09:00",
    ""
+  ],
+  [
+   "2026-09-18T14:36:15.195310+09:00",
+   "주지사 펜실베이니아 강화해야 안전장치"
   ]
  ],
- "last_run": "2026-09-18T14:34:39.234964+09:00",
+ "last_run": "2026-09-18T14:36:32.500803+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
