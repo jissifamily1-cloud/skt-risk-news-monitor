@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/world/2026/09/17/2026091714464686764",
-  "https://www.dailypharm.com/user/news/342605?REFERER=NP",
-  "https://zdnet.co.kr/view/?no=20260917145859",
-  "https://byline.network/?p=9004111222620550",
-  "https://www.chosun.com/economy/tech_it/2026/09/17/FPJAJZA6ARCEJNBT6ZR6WHPPM4/",
   "https://www.businessplus.kr/news/articleView.html?idxno=117023",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=262889",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=276200",
@@ -2999,14 +2994,14 @@
   "http://www.inews24.com/view/2007214",
   "http://www.inews24.com/view/2007209",
   "https://www.the-pr.co.kr/news/articleView.html?idxno=62667",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447546"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=447546",
+  "https://www.gpkorea.com/news/articleView.html?idxno=146849",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609161124110920103618",
+  "https://www.hani.co.kr/arti/economy/it/1278485.html",
+  "https://www.edaily.co.kr/News/Read?newsId=03706406645581432&mediaCodeNo=257",
+  "https://www.newsis.com/view/NISX20260918_0003795472"
  ],
  "seen_titles": [
-  "[중화학ON]두산,CCL에사상최대9700억시설투자外",
-  "\"AI로쉬워지는금융\"…신한은행,과기정통부'모두의AI'카카오컨소시...",
-  "신한은행,'모두의AI'카카오컨소시엄금융파트너로참여",
-  "신한은행,카카오와금융AI서비스발굴…일상속금융정보안내추진",
-  "구광모LG대표,사장단과8시간논의…AI투자전략고도화",
   "LGU+·현대엘리베이터,AI승강기원격관제업무협약…MIRI에M2M·보안확...",
   "신한은행,과기정통부'모두의AI'카카오컨소시엄참여…금융AI서비...",
   "[금융권소식]신한은행ㆍNH농협은행ㆍ새마을금고중앙회(9.17)",
@@ -6001,7 +5996,12 @@
   "[포토]아이폰18프로·프로맥스,신규색상글레이셔·버건디",
   "[포토]아이폰18프로·프로맥스출시",
   "KT\"사람몰려도통신은원활하게\"…추석네트워크점검",
-  "[김재섭의뒤집어보기]LG유플러스'익시오'통화전문MS·구글등해외..."
+  "[김재섭의뒤집어보기]LG유플러스'익시오'통화전문MS·구글등해외...",
+  "루시드·볼트,유럽에로보택시2만5000대배치추진",
+  "[더벨]1QK소버린AIETF,'앤트로픽수혜'SKT최대비중편입",
+  "젠슨황·머스크·저커버그,트럼프설득해AI규제기구제동",
+  "日증시,장중1300포인트급등…\"BOJ뒷북우려걷혔다\"",
+  "\"굴뚝기업의AX반격\"…재계,포트폴리오·조직DNA'전면재편'"
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,25 @@
   [
    "2026-09-18T14:10:23.308842+09:00",
    "~LGU LG유플러스 구글 MS 통화전문 해외 익시오"
+  ],
+  [
+   "2026-09-18T14:12:15.973808+09:00",
+   "1Q 수혜 K소버린AI 최대비중 앤트로픽 ~SKT ETF 편입"
+  ],
+  [
+   "2026-09-18T14:12:15.973808+09:00",
+   "트럼프 설득해 규제기구 젠슨 저커버그 제동 머스크"
+  ],
+  [
+   "2026-09-18T14:12:15.973808+09:00",
+   "급등 걷혔다 1300포인트 우려 증시 BOJ 뒷북 장중"
+  ],
+  [
+   "2026-09-18T14:12:15.973808+09:00",
+   "굴뚝 전면 재편 포트폴리오 재계 AX DNA 기업의 반격"
   ]
  ],
- "last_run": "2026-09-18T14:10:45.688565+09:00",
+ "last_run": "2026-09-18T14:12:42.218303+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
