@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026091720501",
-  "https://www.sedaily.com/article/20092266",
-  "https://www.mk.co.kr/article/12155676",
-  "https://www.mk.co.kr/article/12155668",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=365690",
-  "https://www.asiatime.co.kr/article/20260917500450",
-  "https://www.venturesquare.net/1114787/",
-  "https://news.mtn.co.kr/news-detail/2026091716073941249",
-  "https://www.dt.co.kr/article/12084635",
   "https://www.dt.co.kr/article/12084637",
   "https://www.ceoscoredaily.com/page/view/2026091714381210106",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003268240&CMPT_CD=P0010",
@@ -2999,18 +2990,18 @@
   "https://zdnet.co.kr/view/?no=20260918174723",
   "https://news.dealsitetv.com/articles/176180",
   "https://www.edaily.co.kr/News/Read?newsId=04998726645581432&mediaCodeNo=257",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=95621"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95621",
+  "http://www.hellodd.com/news/articleView.html?idxno=113234",
+  "https://www.maniareport.com/view.php?ud=202609181619185336dad9f33a29_19",
+  "https://www.ddaily.co.kr/page/view/2026091813205831448",
+  "https://www.stnsports.co.kr/news/articleView.html?idxno=322959",
+  "https://www.edaily.co.kr/News/Read?newsId=04956086645581104&mediaCodeNo=257",
+  "https://news.tf.co.kr/read/life/2367291.htm",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=226613",
+  "https://www.bloter.net/news/articleView.html?idxno=674056",
+  "https://www.dailian.co.kr/news/view/1692377/?sc=Naver"
  ],
  "seen_titles": [
-  "하이닉스전체임원,그룹수뇌부가독대",
-  "KT·NC가주도하는피지컬AI제조혁신",
-  "시진핑방미사절단에'美블랙리스트'BYD회장포함검토",
-  "귀성길은분산·귀경길은추석당일정오'최악'…부산→서울8시간걸...",
-  "추석귀경길25일가장정체…부산→서울8시간예상",
-  "신한은행,카카오컨소시엄과'모두의AI'사업참여",
-  "LG유플러스·현대엘리베이터,AI로승강기원격관제고도화",
-  "LG사장단8시간쉼없이'AI끝장토론'",
-  "[분석]에어컨넘어에너지솔루션기업으로···오텍캐리어,새성장...",
   "네이버'배민'인수철회공시,시장엔어떤영향미치나",
   "경남첫공공형AI데이터센터문열었다",
   "“AIDC전기료인상빅테크가부담해야”美하원서통과",
@@ -6001,7 +5992,16 @@
   "\"클로드로오픈AI뚫었다\"…직원계정넘어내부코드저장소까지접근",
   "[재계투데이]삼성전자,'갤럭시클래스룸'출시外",
   "“추석에통신끊길라”…통신3사비상체계가동,협력사엔3175억조기...",
-  "[금융픽]KB금융,'KB착한푸드트럭'도전이성장으로이어지도록지원外"
+  "[금융픽]KB금융,'KB착한푸드트럭'도전이성장으로이어지도록지원外",
+  "국가R&D평가·연구비제도대수술···개편안내년부터시행",
+  "한국하키남녀,아시안게임조별리그1차전동반승리",
+  "BNK금융그룹'생성형AI플랫폼구축사업',삼성SDS가잡았다",
+  "한국남녀하키,AG메달향해나란히첫승…국민의례때북한국가소...",
+  "SKT'유심유출'1300억과징금취소소송시작…내년1월선고",
+  "'유심해킹'SKT\"정상단말기켜지면복제유심접속불가\"",
+  "추의정전KT감사실장,법무법인LX합류",
+  "카카오'모두의AI',카뱅·카페대신신한은행…외부전문성택했다",
+  "KT·오케스트로클라우드,AI사업손잡았다…데이터센터·GPU까지협력"
  ],
  "recent_sigs": [
   [
@@ -6599,9 +6599,21 @@
   [
    "2026-09-18T18:04:16.590070+09:00",
    "지원 도전이 KB금융 KB착한푸드트럭 성장으로 이어지도록"
+  ],
+  [
+   "2026-09-18T18:06:16.119910+09:00",
+   "추의정 합류 감사실장 LX ~KT 법무법인"
+  ],
+  [
+   "2026-09-18T18:06:16.119910+09:00",
+   "모두의 카카오 카뱅 전문성 외부 신한은행 카페 대신 택했다"
+  ],
+  [
+   "2026-09-18T18:06:16.119910+09:00",
+   "사업 협력 클라우드 ~KT 오케스트로 데이터센터 손잡았다 GPU까지"
   ]
  ],
- "last_run": "2026-09-18T18:04:39.943846+09:00",
+ "last_run": "2026-09-18T18:06:38.927757+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
