@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=86164",
-  "http://www.seouleconews.com/news/articleView.html?idxno=93825",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=319658",
   "https://www.etnews.com/20260917000356",
   "https://www.onews.tv/news/articleView.html?idxno=287418",
@@ -2999,11 +2997,11 @@
   "https://www.tokenpost.kr/news/ai/410118",
   "https://www.mediafine.co.kr/news/articleView.html?idxno=90135",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89458",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=44968"
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=44968",
+  "https://www.tfmedia.co.kr/news/article.html?no=207318",
+  "https://www.naeil.com/news/read/602823"
  ],
  "seen_titles": [
-  "KT,전북혁신도시에‘다크팩토리’구축…피지컬AI제조혁신나선다",
-  "KT,AI다크팩토리구축과제참여…무인공장기술개발",
   "“애플,18년만에서버시장복귀검토”…엔비디아와‘AI동맹’논의",
   "KT,월드스마트시티엑스포서AICT기술선보여",
   "원주‘AI융합혁신교육원’개소…엔비디아교육프로그램적용",
@@ -6001,7 +5999,9 @@
   "AI안전논쟁,개발속도보다평가권한이핵심",
   "신한카드,공공AI·빅데이터활용확대…'그랜데이터퍼블릭데이2026'...",
   "KT,추석연휴통신망집중관리…5G·LTE24시간모니터링",
-  "오케스트로,KT와AI인프라공동개발...공공·금융시장공략"
+  "오케스트로,KT와AI인프라공동개발...공공·금융시장공략",
+  "최태원회장,재산분할재상고접수위해인지대8.5억원납부",
+  "AI규제놓고백악관내주도권다툼"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,13 @@
   [
    "2026-09-18T13:04:15.958770+09:00",
    "오케스트로 금융 ~KT 시장 공공 인프라 공동개발 공략 KT와"
+  ],
+  [
+   "2026-09-18T13:06:14.958525+09:00",
+   "놓고 규제 다툼 백악관 주도권"
   ]
  ],
- "last_run": "2026-09-18T13:04:36.045975+09:00",
+ "last_run": "2026-09-18T13:06:36.383146+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
