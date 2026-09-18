@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1724725",
-  "https://www.greened.kr/news/articleView.html?idxno=350133",
-  "https://www.news1.kr/finance/general-stock/6294501",
-  "https://www.news1.kr/industry/general-industry/6294386",
-  "https://www.bigtanews.co.kr/article/view/big202609150016",
-  "https://www.segye.com/newsView/20260917516700?OutUrl=naver",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609171306550130491",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=282323",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1294638",
-  "https://www.seoulfn.com/news/articleView.html?idxno=638241",
-  "https://www.edaily.co.kr/News/Read?newsId=02072966645581432&mediaCodeNo=257",
   "https://www.yna.co.kr/view/AKR20260917185000017?input=1195m",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375762",
   "https://www.newspim.com/news/view/20260917001276",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISX20260918_0003795352",
   "https://www.sedaily.com/article/20092851",
   "https://www.edaily.co.kr/News/Read?newsId=01315286645581760&mediaCodeNo=257",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609190009&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609190009&t=NN",
+  "https://news.dealsitetv.com/articles/175816",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363275",
+  "https://gamefocus.co.kr/detail.php?number=179082",
+  "https://www.ziksir.com/news/articleView.html?idxno=146451",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2471822",
+  "https://www.news1.kr/society/court-prosecution/6293016",
+  "https://www.newsis.com/view/NISX20260916_0003792713",
+  "http://www.newstomato.com/ReadNews.aspx?no=1313834&inflow=N",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4106852",
+  "https://www.edaily.co.kr/News/Read?newsId=02981526645580776&mediaCodeNo=257",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=121923"
  ],
  "seen_titles": [
-  "\"AI패권다투지만세계는쪼개지말자\"…美中'불편한공존'모색",
-  "\"1년새AI앱지출2배껑충\"…구글,개발부터유통·수익화까지'풀스...",
-  "﻿기억의청구서와노래하는오픈소스AI﻿[정원훈의AI트렌드]",
-  "8개월만에증시에돌아온외국인…지난달코스피1.9조순매수",
-  "\"삼성重,'바다위데이터센터'구조적성장기대\"SK證",
-  "\"초기수익률350%,차익실현폭탄터지나\"…中메타X,'67억위안'락...",
-  "병목따라도는돈…AIETF투자지도",
-  "美반도체주일제히급등…인텔7.7%·마이크론5.5%↑",
-  "지멘스CEO“AI수익화열쇠는산업현장”",
-  "\"전기세단안팔린다\"는데3000대사전계약...볼보ES90흥행이유는",
-  "자본잠식아토리서치,GPU발주위한자금유치속'中자본유입설'…美...",
   "[코인품는증권사]③주식부터한우까지한앱에…증권사'금융백화점...",
   "잡힐듯안잡히는TSMC…삼성파운드리,빅테크로추격",
   "[쇼츠뉴스]현금없는버스의역설",
@@ -6001,7 +5990,18 @@
   "현실이된'스카이넷공포'…AI브레이크걸리나[AI감속론①]",
   "BOJ금리31년최고로올렸지만...엔화약세못막았다[글로벌모닝브...",
   "\"AI위험\"경고한앤스로픽,생물학실험실구축…로봇자동화까지",
-  "[단독]'카톡광고'스팸신고10만건육박…과태료는0건?"
+  "[단독]'카톡광고'스팸신고10만건육박…과태료는0건?",
+  "[핀포인트][KT]박윤영체제,더짙어진'순혈주의'",
+  "AI우려무색한반도체주문폭주",
+  "엔비디아'포터블컴퓨터'윈도우(Windows)RTXPC지원확대",
+  "나이키,AI가꼽은러닝화·골프웨어1위…패션브랜드유일'2관왕'",
+  "[박현갑의시선]22쪽결정,3쪽으로퇴짜",
+  "'유심해킹'SKT1300억대과징금불복소송오늘시작",
+  "[오늘의주요일정]과기정통부·방미통위·개보위(9월17일목요일)",
+  "개인정보문의에외국어회신…개보위,뤼튼·오픈AI등개선권고",
+  "개보위,ISMS-P인증심사현장성강화",
+  "개보위,뤼튼·테슬라·딥시크등5개사에개선권고",
+  "[AX혁신대한민국,2026]AI공격을AI로막는다…보안·개인정보·거버..."
  ],
  "recent_sigs": [
   [
@@ -6101,7 +6101,7 @@
    "신고 육박 스팸 카톡 과태료는 10만건 0건 광고"
   ]
  ],
- "last_run": "2026-09-19T06:02:43.860988+09:00",
+ "last_run": "2026-09-19T06:04:31.447310+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
