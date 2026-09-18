@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12155330",
-  "https://www.aitimes.com/news/articleView.html?idxno=215394",
-  "https://news.jtbc.co.kr/article/NB12318827?influxDiv=NAVER",
-  "http://www.dailyesports.com/view.php?ud=20260917140620433274bcc1e038_27",
   "https://economist.co.kr/article/view/ecn202609170035",
   "https://www.mk.co.kr/article/12155343",
   "https://www.sportsseoul.com/news/read/1635966",
@@ -2999,13 +2995,13 @@
   "http://www.breaknews.com/1237752",
   "https://www.tokenpost.kr/news/blockchain/410113",
   "https://kbench.com/?q=node%2F282022",
-  "https://www.m-i.kr/news/articleView.html?idxno=1415976"
+  "https://www.m-i.kr/news/articleView.html?idxno=1415976",
+  "https://www.etnews.com/20260918000171",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267015",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89456",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=728086"
  ],
  "seen_titles": [
-  "대기업계약학과수시지원자8994명‘역대최고’…전년보다18.2%증가",
-  "[허프사람&말]LG구광모사장단과8시간AI투자전략토론,\"빠른속도...",
-  "GS,'AI데이터센터밸류체인'승부수",
-  "[이영환의AI에이전틱이코노미㉓]슈퍼에이전트의필요성",
   "과제먼저받고스타트업골랐다,경기혁신센터오픈이노베이션서밋",
   "JB금융,국내대표AI기업업스테이지와'금융특화AI'만든다",
   "에임인텔리전스,'피지컬AI안전컨소시엄'출범",
@@ -6001,7 +5997,11 @@
   "KT,아이폰18프로·프로맥스출시..최대144만원혜택제공",
   "[로빈후드온체인]메타토큰이118만달러어치새로발행돼...원라이프...",
   "MS판DLSS'AutoSR'지원확대…인텔코어울트라시리즈3지원",
-  "LG유플러스,추석연휴AI로통신망관리한다"
+  "LG유플러스,추석연휴AI로통신망관리한다",
+  "카카오벤처스,창업자몰입공간'템프서울'공식개관",
+  "최태원·노소영재산분할재상고대법원접수…인지대8억납부",
+  "KAIST-POSTECH,AI자율주행부터해킹까지…'카포전'서과학기술경쟁",
+  "가맹점부터PG까지…늘어나는해킹사고에보안기준손보나"
  ],
  "recent_sigs": [
   [
@@ -6715,9 +6715,13 @@
   [
    "2026-09-18T12:36:16.045694+09:00",
    "접은 ~SKT LGU 보관 꺼냈다 성수서 ~LGU"
+  ],
+  [
+   "2026-09-18T12:52:15.528967+09:00",
+   "PG까지 늘어나는 손보나 기준 가맹점부터 사고에 보안"
   ]
  ],
- "last_run": "2026-09-18T12:50:41.765170+09:00",
+ "last_run": "2026-09-18T12:52:33.635765+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
