@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=54490",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7184648",
-  "https://www.segye.com/newsView/20260917507754?OutUrl=naver",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701292",
-  "https://zdnet.co.kr/view/?no=20260916151351",
-  "https://www.yna.co.kr/view/AKR20260917079500009?input=1195m",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407043",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43780",
-  "https://www.newsis.com/view/NISX20260916_0003792243",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701027",
-  "https://www.nocutnews.co.kr/news/6579648",
   "https://zdnet.co.kr/view/?no=20260917100942",
   "https://view.asiae.co.kr/article/2026091516531599652",
   "https://www.bntnews.co.kr/article/view/bnt202609170183",
@@ -2999,20 +2988,20 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=319246",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701572",
   "https://www.newsis.com/view/NISX20260918_0003794971",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117049"
+  "https://www.businessplus.kr/news/articleView.html?idxno=117049",
+  "http://www.osen.co.kr/article/G1112877618",
+  "https://www.mydaily.co.kr/page/view/2026091810045799231",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6939899",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3699531",
+  "https://www.kpinews.kr/newsView/1065577156765715",
+  "https://www.ziksir.com/news/articleView.html?idxno=146864",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=132531",
+  "https://www.yna.co.kr/view/AKR20260918057300017?input=1195m",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=266994",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=301247",
+  "https://www.hyunbulnews.com/news/articleView.html?idxno=505387"
  ],
  "seen_titles": [
-  "\"1000억이라더니생활비는20억\"…최태원측,'기부금까지증여'주장에...",
-  "[헬스케어레이더]세라젬·바디프랜드,체험라운지및방송연계…'고...",
-  "플로우,AI업무호출100만건돌파…ChatGPT·Claude연동확대",
-  "슈피겐코리아·오픈노트·엠이티,인재육성최우수…95개기업인증",
-  "동작구,추석연휴청사개방…주차장무료·전통놀이체험제공",
-  "저커버그“AI안전은기업별책임”…공동감속론에선그어",
-  "슈피겐코리아·오픈노트·엠이티,인적자원개발최우수기업",
-  "틱톡자회사가치가2조원…AI신약개발상업화가속",
-  "[기술용어]프론티어AI(FrontierAI)",
-  "올해인적자원개발우수기관95곳선정",
-  "\"같은수학문제도풀이는다르게\"중등인강밀크티,학습단계별맞춤...",
   "연세대신촌캠퍼스,AI융합대학·심장뇌혈관센터·의과대학신축",
   "“美금리인상선반영”…코스피,악재딛고상승세",
   "\"AI發위협대응,글로벌연대가핵심...보안특화AI모델로해외도공...",
@@ -6001,7 +5990,18 @@
   "LG유플러스배주혁기술책임,국제기능올림픽서클라우드대표팀이끈다",
   "中AI몸값,폭등했는데…매출오픈AI·앤트로픽의10%에그쳐",
   "\"AI가언론존립위협…오픈AI·MS,위험알면서기사수백만건학습\"",
-  "[금융권이모저모]KB자산운용,밸류업커버드콜ETF순자산3000억원돌파..."
+  "[금융권이모저모]KB자산운용,밸류업커버드콜ETF순자산3000억원돌파...",
+  "정우주1군에서못본다…일본단기유학추진,김경문감독\"내년을생...",
+  "SSG,22일홈KT전서'2026치매극복의날'행사개최",
+  "몸풀린고우석,선두kt맞이해주간1위오를까[웰컴톱랭킹초점]",
+  "대구광역시,산격청사서비점오염저감전문가간담회개최",
+  "[노성열의AI경제]AI속도조절가로막는미·중패권전쟁",
+  "KT,추석앞두고협력사에1607억원납품대금조기지급",
+  "KT,추석명절앞두고협력사납품대금1천607억원조기지급",
+  "감정을데이터로…SKT,성수서'이모션랩'전시",
+  "젠슨황\"내년칩판매량2배\"…AI기대에반도체주도반등",
+  "SK텔레콤,아이폰18Pro개통고객에구글AI구독권제공",
+  "[붓다,AI윤리에답하다]18.AGI,인간의자리를다시묻다"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,17 @@
   [
    "2026-09-18T10:20:20.968618+09:00",
    "대법 재상고 재산분할 접수 8억 인지대"
+  ],
+  [
+   "2026-09-18T10:22:15.081202+09:00",
+   "고객에 아이폰 Pro 제공 구글 구독권 개통 ~SKT"
+  ],
+  [
+   "2026-09-18T10:22:15.081202+09:00",
+   "다시 인간의 자리를 AGI 묻다"
   ]
  ],
- "last_run": "2026-09-18T10:20:44.510709+09:00",
+ "last_run": "2026-09-18T10:22:38.431859+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
