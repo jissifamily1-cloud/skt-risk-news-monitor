@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20092297",
-  "https://www.yna.co.kr/view/AKR20260918004751072?input=1195m",
-  "https://www.mt.co.kr/world/2026/09/18/2026091805404463232",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701500",
-  "https://www.mediapen.com/news/view/1124449",
-  "https://www.dailian.co.kr/news/view/1691783/?sc=Naver",
-  "https://www.newdaily.co.kr/site/data/html/2026/09/18/2026091800016.html",
   "https://www.yna.co.kr/view/AKR20260917172200001?input=1195m",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171449",
   "https://www.mk.co.kr/article/12156031",
@@ -2999,16 +2992,16 @@
   "https://www.kbmaeil.com/article/20260919500007",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375774",
   "https://www.yna.co.kr/view/AKR20260918033400007?input=1195m",
-  "https://www.newspim.com/news/view/20260918001100"
+  "https://www.newspim.com/news/view/20260918001100",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192225",
+  "https://www.tokenpost.kr/news/ai/410571",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363304",
+  "https://www.aitimes.com/news/articleView.html?idxno=215477",
+  "https://www.etoday.co.kr/news/view/2627450",
+  "https://view.asiae.co.kr/article/2026091816520247228",
+  "https://www.christiantoday.co.kr/news/377484"
  ],
  "seen_titles": [
-  "뉴욕증시,기술주강세등에상승...나스닥1.7%↑",
-  "[서울데이터랩]미국증시,기술주강세에일제히상승마감…나스닥1...",
-  "“금광말고삽투자해야돈벌죠”…신약개발소모품으로주가날았다",
-  "뉴욕증시나흘만에반등…다우316P·나스닥1.69%↑",
-  "정부만좋은'해킹과징금10%'피해자는'빈손'",
-  "전국광역단체장9월18일일정",
-  "미국내산업협력네트워크입증…효성,두산퓨얼셀각각3800억,3200억...",
   "[외신헤드라인]젠슨황\"내년엔비디아칩판매두배\"",
   "젠슨황\"내년칩판매두배\"…AI수요폭발자신감",
   "한투파·키움PE,레뷰리캡돌입…투자금일부회수[시그널]",
@@ -6001,7 +5994,14 @@
   "美국채금리5%근접에다우하락…AI반도체주는강세",
   "[게임노트]2026년9월18일ㆍ'오지환멀티홈런맹활약'LG,선두kt에1...",
   "◇오늘의경기(19일)",
-  "[핌in잠실]'곽빈·최민석AG차출'두산,대체선발로박신지합류...4명..."
+  "[핌in잠실]'곽빈·최민석AG차출'두산,대체선발로박신지합류...4명...",
+  "[AI프리즘]\"인공지능증오,공포콘텐츠로번광고수익으로AI개발비...",
+  "오라클,AI데이터센터에180억달러회사채발행",
+  "장경덕의정글노믹스(228)AI안전과이익,두마리토끼모는아모데이",
+  "오픈AI,앤트로픽'클로드'에뚫렸다...핵심코드저장소까지노출",
+  "뉴욕증시,美국채금리상승속혼조마감⋯다우0.18%↓[상보]",
+  "[AI세계속으로]\"함께늦추자면서누가먼저멈추나\"…속도조절론에도달...",
+  "샘올트먼·일론머스크는왜‘AI개발속도조절론’펼치나"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,17 @@
   [
    "2026-09-19T06:20:21.973308+09:00",
    "국채금리 하락 강세 근접에 다우 반도체주는"
+  ],
+  [
+   "2026-09-19T06:24:15.938464+09:00",
+   "먼저 멈추나 누가 속도조절론에도 늦추자면서 함께"
+  ],
+  [
+   "2026-09-19T06:24:15.938464+09:00",
+   "개발 일론 속도 조절론 머스크는 펼치나"
   ]
  ],
- "last_run": "2026-09-19T06:22:32.698991+09:00",
+ "last_run": "2026-09-19T06:24:36.255585+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
