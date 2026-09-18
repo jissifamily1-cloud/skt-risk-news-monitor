@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5220008",
-  "https://www.dailian.co.kr/news/view/1691910/?sc=Naver",
-  "https://news.jtbc.co.kr/article/NB12318954?influxDiv=NAVER",
-  "https://www.namdonews.com/news/articleView.html?idxno=923841",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005923839",
   "https://biz.sbs.co.kr/article_hub/20000335423?division=NAVER",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488223",
   "http://www.newsmaker.or.kr/news/articleView.html?idxno=182784",
@@ -2999,14 +2994,14 @@
   "https://news.mtn.co.kr/news-detail/2026091907241875537",
   "https://www.segye.com/newsView/20260918506677?OutUrl=naver",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701860",
-  "https://www.etnews.com/20260916000184"
+  "https://www.etnews.com/20260916000184",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282385",
+  "https://www.ytn.co.kr/_ln/0104_202609190731076848",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=90186",
+  "https://www.munhwa.com/article/11618185",
+  "https://www.wikitree.co.kr/articles/1160611"
  ],
  "seen_titles": [
-  "\"내년엔칩2배판다\"…젠슨황,엔비디아AI반도체자신감왜?",
-  "미국증시,금리·유가하락에기술주반등…엔비디아·SK하이닉스동반...",
-  "아이온큐·엔비디아협력호재폭발…양자컴퓨팅주일제히급등",
-  "[증시전략]美금리올리자국채금리하락반전…불안감잦아드나?",
-  "엔비디아,윈도우RTXPC서'퍼플렉시티포터블컴퓨터'지원",
   "젠슨황\"내년엔비디아칩판매량2배\"…AI투자확대기대",
   "젠슨황\"내년엔비디아칩판매2배\"…AI수요자신감",
   "추석'주소불일치'배송문자링크누르면좀비폰…즉시118신고",
@@ -6001,7 +5996,12 @@
   "뉴욕증시,10년물장중5%재돌파에도반도체강세…혼조마감[뉴욕마감...",
   "민주당참모들,후보들에게“AI를너무세게공격하지말라”경고[美...",
   "오픈AI·마이크로소프트내부문건공개…'웹해치면서AI키운다'",
-  "AI가추천하는브랜드는어떻게만들어지는가...56만건인용데이터기..."
+  "AI가추천하는브랜드는어떻게만들어지는가...56만건인용데이터기...",
+  "뉴욕증시,반도체강세등에혼조마감…나스닥0.4%↑",
+  "뉴욕증시,국채금리상승·반도체주강세에혼조마감",
+  "미뉴욕증시혼조마감,반도체주강세에도국채금리상승부담",
+  "앤트로픽클로드의판정승?오픈AI뚫었다",
+  "오픈AI(챗GPT회사)가뚫리는일이벌어졌다,뚫은정체가다름아니라...."
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,13 @@
   [
    "2026-09-19T07:30:28.167732+09:00",
    "해치면서 내부 키운다 문건 마이크로소프트 공개"
+  ],
+  [
+   "2026-09-19T07:36:26.779579+09:00",
+   "정체가 뚫은 뚫리는 벌어졌다 챗GPT 아니라 회사 다름 일이"
   ]
  ],
- "last_run": "2026-09-19T07:34:29.582998+09:00",
+ "last_run": "2026-09-19T07:36:43.980711+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
