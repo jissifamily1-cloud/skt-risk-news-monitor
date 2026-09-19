@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=82994",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170460",
-  "https://biz.heraldcorp.com/article/10878360",
   "http://www.economytalk.kr/news/articleView.html?idxno=424211",
   "https://biz.sbs.co.kr/article_hub/20000335505?division=NAVER",
   "https://www.news1.kr/finance/general-stock/6295151",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3701062",
   "https://www.dailian.co.kr/news/view/1692538/?sc=Naver",
   "https://www.fnnews.com/news/202609200812229704",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171054589000102589"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171054589000102589",
+  "https://www.g-enews.com/view.php?ud=202609200812446112fbbec65dfb_1",
+  "https://biz.heraldcorp.com/article/10879385",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488765"
  ],
  "seen_titles": [
-  "[테크스냅]SKB,정부주관인적자원개발우수기관선정",
-  "최태원SK회장,재산분할재상고심인지대8억원납부",
-  "SK부회장4명중3명,하이닉스로…250명임원면담돌입",
   "아이폰18프로쏠림…256GB·실버인기",
   "통신사,추석비상체계가동",
   "통신3사,추석앞두고협력사'자금숨통'…3175억원조기지급",
@@ -6001,7 +5998,10 @@
   "최현덕시장,주말맞이해관내9개현장소화…\"주민과함께숨쉬는...",
   "\"16년전행방불명된페리어디에\"''그알'제보요청…美서매년50만명...",
   "\"연휴전팔까,담을까\"...돌아온외국인·불기둥반도체,7000선넘보는...",
-  "[더벨]'SK그룹출신'현은아,노종원의테크브릿지합류"
+  "[더벨]'SK그룹출신'현은아,노종원의테크브릿지합류",
+  "\"상장믿고빚냈는데\"…오픈AIIPO멈추자손정의AI빚더미뇌관",
+  "AI패권·관세담판부터중동해법까지…이번주워싱턴흔들‘외교슈...",
+  "\"AI통제잃을위험있다\"…세계정상모이는유엔에AI안전뜬다"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,21 @@
   [
    "2026-09-20T08:20:21.344501+09:00",
    "SK그룹 출신 테크브릿지 현은아 합류 노종원의"
+  ],
+  [
+   "2026-09-20T08:22:49.395048+09:00",
+   "빚냈는데 IPO 빚더미 손정의 믿고 상장 뇌관 멈추자"
+  ],
+  [
+   "2026-09-20T08:22:49.395048+09:00",
+   "해법까지 중동 관세 담판부터 이번주 흔들 패권 외교 워싱턴"
+  ],
+  [
+   "2026-09-20T08:22:49.395048+09:00",
+   "모이는 세계 있다 정상 유엔에 통제 잃을 뜬다 안전 위험"
   ]
  ],
- "last_run": "2026-09-20T08:20:46.598234+09:00",
+ "last_run": "2026-09-20T08:23:18.230246+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
