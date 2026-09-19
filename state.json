@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koit.co.kr/news/articleView.html?idxno=209146",
-  "https://dealsite.co.kr/articles/169181",
   "https://www.fnnews.com/news/202609180735386949",
   "https://www.tokenpost.kr/news/breaking/409994",
   "https://www.mediapen.com/news/view/1124463",
@@ -2999,11 +2997,11 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=866748",
   "https://imnews.imbc.com/news/2026/world/article/6852970_36925.html",
   "https://www.sidae.com/article/2026091911201761101",
-  "https://www.aitimes.com/news/articleView.html?idxno=215486"
+  "https://www.aitimes.com/news/articleView.html?idxno=215486",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=129540",
+  "https://www.thelec.kr/news/articleView.html?idxno=62531"
  ],
  "seen_titles": [
-  "신한카드,공공분야데이터생태계구축박차",
-  "라포랩스“SK스토아경영관여사실없어…방송법위반도없다”",
   "SKT,추석앞두고협력사에1318억원조기지급",
   "[SKB분할명암]재무여력1조,'빚좋은개살구'…인프라빼면신성장...",
   "사람지시안따르는AI어쩌나...오픈AI,통제이탈실제사례공개[글로벌...",
@@ -6001,7 +5999,9 @@
   "[현장]카페24,온라인몰'시작부터끝까지'책임진다",
   "구글AI제미나이도통제벗어나외부해킹‥\"3개기업침투\"",
   "미·중정상회담'AI안전'접점찾을까",
-  "술레이만\"오픈AI의'셀프프롬프트인젝션'은매우심각한상황\""
+  "술레이만\"오픈AI의'셀프프롬프트인젝션'은매우심각한상황\"",
+  "[마켓펄스]뉴욕증시,美국채금리급등속혼조...반도체주가하방지...",
+  "\"개보위가한번막아보라\"…김창훈교수,보안담당자면책제도요구"
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,13 @@
   [
    "2026-09-19T11:30:29.045144+09:00",
    "오픈AI의 상황 매우 셀프 프롬프트 인젝션 술레이만 심각한"
+  ],
+  [
+   "2026-09-19T11:34:14.145194+09:00",
+   "보안 제도 개보위가 김창훈 면책 담당자 교수 막아보라 한번 요구"
   ]
  ],
- "last_run": "2026-09-19T11:32:33.902977+09:00",
+ "last_run": "2026-09-19T11:34:34.842155+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
