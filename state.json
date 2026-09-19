@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=767055",
-  "http://www.osen.co.kr/article/G1112876503",
-  "https://www.starnewskorea.com/broadcast-show/2026/09/18/2026091807532235545",
-  "https://www.news1.kr/world/usa-canada/6294620",
-  "https://biz.newdaily.co.kr/site/data/html/2026/09/18/2026091800036.html",
-  "https://www.edaily.co.kr/News/Read?newsId=02578086645581432&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=02587926645581432&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=02584646645581432&mediaCodeNo=257",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724762",
@@ -2999,15 +2993,15 @@
   "https://zdnet.co.kr/view/?no=20260919084948",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54074",
   "https://biz.sbs.co.kr/article_hub/20000334457?division=NAVER",
-  "https://www.segye.com/newsView/20260918506080?OutUrl=naver"
+  "https://www.segye.com/newsView/20260918506080?OutUrl=naver",
+  "https://www.fnnews.com/news/202609190851581262",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667790",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=423778",
+  "https://www.tjb.co.kr/news05/bodo/view/id/103845",
+  "https://www.mk.co.kr/article/12156517",
+  "https://www.newsis.com/view/NISX20260918_0003796165"
  ],
  "seen_titles": [
-  "[K-지능열전]⑥통신3사에담기엔너무커졌다···SKT15GW'AI공장'...",
-  "'호남400조'발묶인SK하이닉스,美·日로눈돌리는속사정은",
-  "[주간기업동향]이재용삼성전자회장,日참의원대표단과반도체·AI...",
-  "[핫이슈]화웨이,AI칩11종공개…엔비디아아성에정면승부",
-  "넷록스,AI추론인프라로보폭넓힌다[서울AI허브2027]",
-  "美정부웹사이트검색에中알리바바AI채택…논란일자삭제",
   "스트라이프AI표준에XRP전격전격기용...리플,글로벌결제판도뒤...",
   "‘2012년생김서연’과살아갈어른들의숙제",
   "한국첨단소재,최대주주사토시홀딩스'자금줄'로전락",
@@ -6001,7 +5995,13 @@
   "\"농촌에인터넷깔아야하나”...스타링크가던진보편서비스논쟁",
   "골드만삭스\"AI실적버블증명할수있다\"",
   "수단안가리는AI…눈앞에다가온'팀킬'위협",
-  "‘AI속도조절론’에도…증권가“코스피7500까지간다”긍정평가"
+  "‘AI속도조절론’에도…증권가“코스피7500까지간다”긍정평가",
+  "뉴욕증시혼조세…美국채금리부담에도반도체주강세",
+  "“미중정상회담의제는AI·관세”…만찬에美AICEO들대거참석",
+  "티빙해킹보상나섰지만정부는피해구제실태도몰라",
+  "[T나는AI]인공지능으로경쟁사뚫었다…72시간만에오픈AI침투",
+  "“엔비디아사도될까”...증권사추천글로벌투자종목보니",
+  "눈뜨니카드빚2400만원\"해킹당했다\"…갚아야할까?[법대로]"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,21 @@
   [
    "2026-09-19T09:00:39.469078+09:00",
    "7500까지 코스피 평가 간다 긍정 AI속도 증권가 에도 조절론"
+  ],
+  [
+   "2026-09-19T09:02:16.800949+09:00",
+   "정부는 티빙 실태도 피해구제 보상 나섰지만 몰라"
+  ],
+  [
+   "2026-09-19T09:02:16.800949+09:00",
+   "증권사 사도 투자 종목 추천 될까 글로벌 보니"
+  ],
+  [
+   "2026-09-19T09:02:16.800949+09:00",
+   "2400만원 갚아야 당했다 뜨니 할까 카드빚"
   ]
  ],
- "last_run": "2026-09-19T09:01:06.490312+09:00",
+ "last_run": "2026-09-19T09:02:44.369314+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
