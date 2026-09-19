@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newslock.co.kr/news/articleView.html?idxno=136543",
-  "https://www.eroun.net/news/articleView.html?idxno=90432",
-  "https://www.sidae.com/article/2026091811024326228",
-  "https://www.seoulfn.com/news/articleView.html?idxno=638300",
-  "https://www.dt.co.kr/article/12084715",
-  "https://news.appstory.co.kr/daily19595",
-  "http://www.iminju.net/news/articleView.html?idxno=169731",
-  "http://www.lawissue.co.kr/view.php?ud=202609181115043050204ead0791_12",
   "https://dealsite.co.kr/articles/169223",
   "https://www.venturesquare.net/1115005/",
   "https://www.news1.kr/it-science/cc-newmedia/6295043",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/it-science/general-science/6295537",
   "https://www.dailian.co.kr/news/view/1692407/?sc=Naver",
   "https://biz.heraldcorp.com/article/10878657",
-  "https://www.khan.co.kr/article/202609161612001"
+  "https://www.khan.co.kr/article/202609161612001",
+  "https://m.sports.naver.com/basketball/article/065/0000301734",
+  "https://www.sportsworldi.com/newsView/20260920500126",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=276475",
+  "https://www.sportschosun.com/baseball/2026-09-18/202609190100128100008302",
+  "https://www.maniareport.com/view.php?ud=20260920065441890191b55a0d56_19",
+  "https://www.yna.co.kr/view/AKR20260920002100072?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8667913",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609171408333320108589"
  ],
  "seen_titles": [
-  "로빈후드부터케이웨더·트리아까지…'XRP서울2026'연사진에",
-  "SKT,'아이폰18Pro&ProMax'개통프로모션진행",
-  "교보악사운용,'파워SK그룹ETF'22일유가증권시장상장",
-  "SKT,'아이폰18프로·프로맥스'출시...사전예약대상18일부터개통",
-  "[알림]'AI대전환의시대,AI풀스택대한민국의도약'시대포럼",
-  "[은행브리핑]하나은행,시니어특화'하나더넥스트대전라운지'개점...",
-  "체이널리시스“북한·이란해커,블록체인에공격명령숨긴다”",
-  "미연방관보검색에알리바바큐원사용…논란커지자삭제",
   "[민주게임방]넥슨·스마일게이트·넷마블",
   "보스,개방형음향신제품2종공개",
   "[2026블록체인간담회][종합]법보다기술이먼저준비…원화코인'시...",
@@ -6001,7 +5993,15 @@
   "최첨단GPU막히자100만개묶는다…中의'엔비디아추격법'",
   "애플도삼성앞에선못깎았다?…D램몸값어디까지",
   "오픈AI반도체개발수장,삼성서강연…HBM넘어파운드리협력주목[...",
-  "[단독]똑같은국내결제대행인데이동통신사만‘부가세율0%’?···‘..."
+  "[단독]똑같은국내결제대행인데이동통신사만‘부가세율0%’?···‘...",
+  "[부상]김선형,급성맹장염수술로휴식…오픈매치데이결장",
+  "‘신병4’,흥행뒤숨은노력…AI활용·체력훈련까지‘디테일끝판...",
+  "'AIDC'뭐길래…통신3사수조원쏟아붓는이유",
+  "\"내사랑윤진,만나고싶어요\"성덕이될수있을까?홀드왕→한국시리...",
+  "\"고우석100명와도상관없다\"이강철KT감독말정말현실되나?...LG복...",
+  "'AI통제불능'경고,유엔총회무대로…국제안전장치마련논의",
+  "앤트로픽·오픈AI‘상장시험대’…성장지속성·막대한투자비‘부담...",
+  "[더벨]KT,기업전용5G확장'B2BG수익화속도'"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-09-20T07:02:17.797621+09:00",
    "개발 주목 HBM 삼성서 파운드리 강연 협력 반도체 수장 넘어"
+  ],
+  [
+   "2026-09-20T07:06:14.547120+09:00",
+   "기업전용 속도 ~KT 수익화 B2BG 5G 확장"
   ]
  ],
- "last_run": "2026-09-20T07:04:32.597849+09:00",
+ "last_run": "2026-09-20T07:06:36.069798+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
