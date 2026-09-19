@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/general-stock/6295151",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1182609",
-  "https://economist.co.kr/article/view/ecn202609180010",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407130",
   "https://www.cnbizm.com/news/articleView.html?idxno=315620",
   "https://weekly.donga.com/3/all/11/6391738/1",
   "https://www.newsis.com/view/NISX20260918_0003795182",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10879385",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488765",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95687",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=600586"
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600586",
+  "https://isplus.com/article/view/isp202609200008",
+  "https://www.hankyung.com/article/202609184314i",
+  "https://www.g-enews.com/view.php?ud=2026092008260144510c8c1c064d_1",
+  "http://www.inews24.com/view/2007327"
  ],
  "seen_titles": [
-  "통신3사,추석앞두고협력사'자금숨통'…3175억원조기지급",
-  "FOMC충격하루만에이겨냈다…코스피2%대상승",
-  "외국인순매수전환…'반도체강세'코스피2%대상승[장중시황]",
-  "파미셀주가,급등세...왜?",
   "[오늘의삼전닉스]세계최대운영사'비중확대'에외국인전환으로상...",
   "LG유플러스,추석전중소협력사납품대금조기지급",
   "LG유플러스,추석연휴'특별소통대책'가동…AI로트래픽대응",
@@ -6001,7 +5997,11 @@
   "AI패권·관세담판부터중동해법까지…이번주워싱턴흔들‘외교슈...",
   "\"AI통제잃을위험있다\"…세계정상모이는유엔에AI안전뜬다",
   "전쟁부터AI까지…이번주유엔·백악관달구는'세계외교슈퍼위크'",
-  "[이사람]'제품도아직없는데'3100억원몰렸다⋯삼성이찍은'철학자..."
+  "[이사람]'제품도아직없는데'3100억원몰렸다⋯삼성이찍은'철학자...",
+  "[나고야2026]'국대에이스'곽빈\"왕옌청,AG에선반드시설욕한다\"",
+  "AI가스스로를고치기시작했다...현실다가온21년전예측[허진의테크...",
+  "\"외투·로컬금융과디지털화가속\"…신한베트남은행,'글로벌전략통...",
+  "AI데이터센터,전력더끌어오기보다'덜쓰기'로⋯구글·엔비디아20여..."
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-09-20T08:22:49.395048+09:00",
    "모이는 세계 있다 정상 유엔에 통제 잃을 뜬다 안전 위험"
+  ],
+  [
+   "2026-09-20T08:34:16.532392+09:00",
+   "20여 쓰기 데이터센터 끌어오기보다 전력 구글"
   ]
  ],
- "last_run": "2026-09-20T08:32:35.334490+09:00",
+ "last_run": "2026-09-20T08:34:34.026726+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
