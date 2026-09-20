@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12156359",
-  "https://www.hani.co.kr/arti/economy/finance/1278462.html",
-  "https://www.yna.co.kr/view/AKR20260918070600017?input=1195m",
-  "https://kidd.co.kr/news/247468",
-  "https://www.news1.kr/local/gyeonggi/6295159",
-  "https://view.asiae.co.kr/article/2026091811420941398",
-  "https://magazine.hankyung.com/business/article/202609183578b",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000066811",
-  "https://www.munhwa.com/article/11618063",
-  "https://www.fntimes.com/html/view.php?ud=202609181131375986fa6b69a559_18",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=614072",
   "https://bizhankook.com/articles/sk-vice-chairmen-move-to-hynix.html",
   "https://www.dailian.co.kr/news/view/1692120/?sc=Naver",
   "https://www.yna.co.kr/view/AKR20260918073951004?input=1195m",
@@ -2999,20 +2988,20 @@
   "https://www.joongang.co.kr/article/25463317",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701889",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076012",
-  "https://www.thepublic.kr/news/articleView.html?idxno=319372"
+  "https://www.thepublic.kr/news/articleView.html?idxno=319372",
+  "https://www.aitimes.com/news/articleView.html?idxno=215476",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444583",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241738",
+  "https://www.dailian.co.kr/news/view/1692380/?sc=Naver",
+  "https://www.newsis.com/view/NISX20260919_0003796842",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701875",
+  "https://www.etnews.com/20260920000006",
+  "https://www.etnews.com/20260920000003",
+  "https://zdnet.co.kr/view/?no=20260920082219",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89484",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=122175"
  ],
  "seen_titles": [
-  "군전력강화나선네이버,소버린AI로국방AX박차",
-  "\"다음엔경고가아닐수도\"AI내부자가보낸신호간과했다간…",
-  "MS내부문서“AI학습은역사상최대의인간노동절도”",
-  "삼전닉스수요열쇠쥔미하이퍼스케일러…“2028년까진투자여력충...",
-  "[AI프리즘]\"킬스위치는우리손에\"…국방AI주권론",
-  "AI속도조절론,‘안전’넘어‘수익화전략’",
-  "송옥주,선박사이버공격막는다…'해사안전기본법'개정안발의",
-  "美하원사법위원장\"쿠팡탄압한韓공정위'그사람'입국불허해야\"",
-  "최태원,재산분할금2440억원만재상고…인지대8억5000만원납부",
-  "'재산분할'불복재상고한최태원회장…\"8억여원내고대법원행\"",
-  "테크거물들불러모은찰스3세…“너무늦기전에AI통제”",
   "LS마린솔루션,창사이래최대사업따냈다…1569억규모신안우이해상...",
   "﻿SK스토아노조\"라포랩스,승인전경영간섭\"조사촉구",
   "SK부회장3명한꺼번에하이닉스로…그룹무게중심완전히옮겨갔나",
@@ -6001,7 +5990,18 @@
   "美“미·중정상,일부비전략물자관세인하가능”...20일뉴욕서고...",
   "[테크인사이드]봇vs봇탐지기술...AI시대물고물리는싸움의세계",
   "SOVAC2026,21일개최…'지역의미래'해법과AI기반사회적가치조명",
-  "신한카드,공공AI·빅데이터세미나개최…지역축제분석솔루션공개"
+  "신한카드,공공AI·빅데이터세미나개최…지역축제분석솔루션공개",
+  "SKT,선한AI로지속가능미래연결한다...21·22일'사회적가치페스타...",
+  "SKT,'대한민국사회적가치페스타'참가…AI기술·서비스등소개",
+  "SKT'선한AI'구체화…보이스피싱·돌봄등11개사례공개",
+  "SKT,AI로사회문제해법찾는다…‘사회적가치페스타’참가",
+  "보이스피싱막고취약계층안부확인…SKT,AI사회가치사례11종공개",
+  "\"선한AI로지속가능미래연결\"…SKT,사회적가치페스타참가",
+  "SKT,'나만의러닝도전'런메이트프로모션",
+  "SKT,'제3회대한민국사회적가치페스타'참가…지속가능경영비전공...",
+  "\"보이스피싱잡고취약계층살피고\"...SKT가선보이는생활속AI",
+  "SKT,코엑스서'AI사회공헌'11종공개…\"기술로안전·돌봄챙긴다\"",
+  "SKT,'선한AI'로사회적가치창출…지속가능미래제시"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,25 @@
   [
    "2026-09-20T08:58:22.356562+09:00",
    "신한카드 솔루션 분석 개최 공개 빅데이터 공공 세미나 지역축제"
+  ],
+  [
+   "2026-09-20T09:02:14.479048+09:00",
+   "비전 참가 사회적가치 ~SKT 지속가능경영 페스타 제3회 대한민국"
+  ],
+  [
+   "2026-09-20T09:02:14.479048+09:00",
+   "잡고 살피고 보이스피싱 선보이는 ~SKT 취약계층 SKT가 생활"
+  ],
+  [
+   "2026-09-20T09:02:14.479048+09:00",
+   "기술로 공개 11종 돌봄 ~SKT 코엑스서 사회공헌 챙긴다 안전"
+  ],
+  [
+   "2026-09-20T09:02:14.479048+09:00",
+   "창출 ~SKT 선한 미래 지속가능 제시 가치 사회적"
   ]
  ],
- "last_run": "2026-09-20T09:00:57.155269+09:00",
+ "last_run": "2026-09-20T09:02:43.086788+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
