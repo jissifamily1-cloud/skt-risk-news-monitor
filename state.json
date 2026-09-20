@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3538309&seq_800=20531203",
-  "https://www.mk.co.kr/article/12156726",
   "https://www.dailian.co.kr/news/view/1692371/?sc=Naver",
   "https://www.ddaily.co.kr/page/view/2026091817523859099",
   "https://www.woodkorea.co.kr/news/articleView.html?idxno=91460",
@@ -2999,11 +2997,11 @@
   "http://www.osen.co.kr/article/G1112878944",
   "https://www.yna.co.kr/view/AKR20260920045800007?input=1195m",
   "https://www.newsis.com/view/NISX20260920_0003797223",
-  "https://www.fnnews.com/news/202609201828338492"
+  "https://www.fnnews.com/news/202609201828338492",
+  "http://www.newstomato.com/ReadNews.aspx?no=1314109&inflow=N",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260921.22016006750"
  ],
  "seen_titles": [
-  "SKT·티맵,빅데이터로본추석교통…\"귀경길,25일하루에몰린다\"",
-  "주민번호-연계정보(CI)분리보관,내년1월로조기시행…방미통위고시...",
   "TBS정상화협의체구성완료…서울시·시의회·방미통위참여",
   "악재버티고호재엔'점프'…삼전닉스發랠리재개되나",
   "1월부터주민번호와CI분리…정보유출차단한다",
@@ -6001,7 +5999,9 @@
   "이무슨운명의장난인가,韓인터뷰도중‘적이된’왕옌청등장→취...",
   "[아시안게임]불펜대들보박영현\"어떤상황에서든막겠다\"",
   "[KBO오늘의경기결과]9월20일(일)",
-  "앤스로픽IPO11월로미뤄…기업가치2조弗전망"
+  "앤스로픽IPO11월로미뤄…기업가치2조弗전망",
+  "AI시대개인정보국외이전…\"'동의'넘어이전수단넓혀야\"",
+  "‘추석선물도착했어요’미끼문자클릭했다간개인정보싹털린다"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,13 @@
   [
    "2026-09-20T18:22:15.357664+09:00",
    "~KT 실천이 따뜻한 임직원 ESG 잇다 나눔으로"
+  ],
+  [
+   "2026-09-20T18:36:15.374468+09:00",
+   "털린다 도착했어요 개인정보 추석 클릭했다간 선물 미끼문자"
   ]
  ],
- "last_run": "2026-09-20T18:34:34.885248+09:00",
+ "last_run": "2026-09-20T18:36:33.353247+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
