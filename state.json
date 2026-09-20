@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363030",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258613",
-  "https://www.khan.co.kr/article/202609110814001",
   "https://www.hankookilbo.com/news/article/A2026091014500003592?did=NA",
   "https://news.jtbc.co.kr/article/NB12317803?influxDiv=NAVER",
   "https://m.skyedaily.com/news_view.html?ID=311377",
@@ -2999,12 +2996,12 @@
   "https://www.newspim.com/news/view/20260921000086",
   "https://www.betanews.net/article/view/beta202609210004",
   "https://biz.sbs.co.kr/article_hub/20000335792?division=NAVER",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54086"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54086",
+  "http://www.wsobi.com/news/articleView.html?idxno=318511",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725008",
+  "https://www.ajunews.com/view/20260921082227581"
  ],
  "seen_titles": [
-  "악마의게임앞에AI도별수없다...'3승20패'굴욕,왜?",
-  "세계지식포럼3賢者의AI외침...\"인류의두번째불AI는축복알끼재앙...",
-  "넥스트AI시장은'사이버보안'",
   "\"이제AI답변도전략자산되나\"···美·中AI경쟁이'증류전쟁'으로...",
   "“AI가인류멸망시킬수있어”경고에···미의회는“규제”·국방...",
   "[사설]AI통제불능경고커지는데...누구도밟지않는브레이크",
@@ -6001,7 +5998,10 @@
   "[모닝리포트]\"클래리티법지연에도디지털자산시장견조\"",
   "에이블런,제조AX웨비나현장고민공개",
   "[굿모닝마켓]산업재·헬스케어·금융주등금리인상에타격",
-  "AI는일사불란하게해킹했는데…인간의'감속합의'는왜제자리일까"
+  "AI는일사불란하게해킹했는데…인간의'감속합의'는왜제자리일까",
+  "SKT-LGU+-KT,제3회대한민국사회적가치페스타참가...장기고객위한...",
+  "[Tech&Now]리벨리온,SKT주요AI서비스4개에NPU확대적용등",
+  "\"하루40억토큰처리\"…리벨리온,SKTAI서비스에NPU확대적용"
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,13 @@
   [
    "2026-09-21T08:30:26.858539+09:00",
    "감속 인간의 AI는 일사불란하게 합의 제자리일까 해킹했는데"
+  ],
+  [
+   "2026-09-21T08:34:12.998998+09:00",
+   "하루 40억 NPU 처리 확대 토큰 서비스에 ~SKT 적용 리벨리온"
   ]
  ],
- "last_run": "2026-09-21T08:32:31.656354+09:00",
+ "last_run": "2026-09-21T08:34:37.483761+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
