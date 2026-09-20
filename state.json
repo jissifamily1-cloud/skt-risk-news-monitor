@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.datanet.co.kr/news/articleView.html?idxno=214584",
-  "https://www.aitimes.com/news/articleView.html?idxno=215465",
-  "https://www.seoulfn.com/news/articleView.html?idxno=638343",
-  "https://www.thelec.kr/news/articleView.html?idxno=62510",
-  "https://www.sedaily.com/article/20092815",
   "https://www.mediawatch.kr/news/article.html?no=261099",
   "https://www.news1.kr/realestate/general/6295752",
   "https://www.newsis.com/view/NISX20260918_0003796228",
@@ -2999,14 +2994,14 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000013836&cp=nv",
   "https://www.tvreport.co.kr/breaking/article/1077025/",
   "https://www.edaily.co.kr/News/Read?newsId=02732246645582088&mediaCodeNo=257",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=393491"
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=393491",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=393476",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=393469",
+  "https://www.edaily.co.kr/News/Read?newsId=02748646645582088&mediaCodeNo=257",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=393490",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=393489"
  ],
  "seen_titles": [
-  "[연합뉴스이시각헤드라인]-18:00",
-  "SK브로드밴드,‘인재중심경영’인정…인적자원개발우수기관인증",
-  "제논,AI모델'훈민VLM397B'오픈소스로공개",
-  "스탠포드,논문을'대화형에이전트'로만드는프레임워크공개",
-  "코스피,금리·유가부담덜며2%대상승···반도체株강세에6890선마...",
   "[기자수첩]혁신기업키우겠다더니,시총으로자르나",
   "“오픈AI,챗GPT개발에기사1000만건도둑질”",
   "SK텔레콤,1300억과징금소송첫변론…“KISA실험조건모순,재검토...",
@@ -6001,7 +5996,12 @@
   "평범한미국인위장반공화의견유포…중국·이란,AI활용온라인여...",
   "노소영관장,안문숙유튜브서포착..털털하게김치맛보고구매까지...",
   "트럼프·시진핑,24일관세·AI·대만‘담판’",
-  "소셜앤비즈·한국AI융합비즈연구소,대전신용보증재단소상공인대상'..."
+  "소셜앤비즈·한국AI융합비즈연구소,대전신용보증재단소상공인대상'...",
+  "한국디지털융합진흥원·동북아공동체ICT포럼,'제7기생성형AI실전마...",
+  "시진핑백악관국빈만찬에베이조스·머스크·올트먼…美빅테크총출동",
+  "희토류필요한美,기술통제풀어야할中…‘불안한’휴전연장무게",
+  "가스파리노\"AI위험있지만중국에기술주도권넘기는것이더큰위험...",
+  "구글제미나이,보안테스트중실제기업3곳시스템침입…접근확인..."
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,21 @@
   [
    "2026-09-20T19:18:15.066831+09:00",
    "털털하게 유튜브서 보고 김치 구매까지 포착 안문숙 관장"
+  ],
+  [
+   "2026-09-20T19:30:30.698471+09:00",
+   "연장 무게 기술 희토류 필요한 풀어야 불안한 휴전 통제"
+  ],
+  [
+   "2026-09-20T19:30:30.698471+09:00",
+   "주도권 가스파리노 있지만 기술 것이 넘기는 중국에 위험"
+  ],
+  [
+   "2026-09-20T19:30:30.698471+09:00",
+   "보안 테스트 시스템 제미나이 확인 기업 접근 구글 침입 실제 3곳"
   ]
  ],
- "last_run": "2026-09-20T19:28:35.017040+09:00",
+ "last_run": "2026-09-20T19:30:53.900049+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
