@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20260910000377",
-  "https://www.slist.kr/news/articleView.html?idxno=767777",
-  "https://isplus.com/article/view/isp202609210064",
-  "https://www.newspim.com/news/view/20260921000602",
-  "https://www.kukinews.com/article/view/kuk202609210083",
-  "https://www.fnnews.com/news/202609211153378435",
-  "https://www.fnnews.com/news/202609211037433000",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3701964",
-  "https://www.ibuan.com/news/articleView.html?idxno=56498",
-  "https://www.etnews.com/20260910000394",
   "https://www.etnews.com/20260911000013",
   "https://www.etnews.com/20260910000396",
   "https://www.tokenpost.kr/news/briefing/411326",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2628239",
   "https://biz.sbs.co.kr/article_hub/20000336080?division=NAVER",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702102",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170599"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170599",
+  "https://www.gokorea.kr/news/articleView.html?idxno=879340",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=363603",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154561",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=258958",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702216",
+  "https://www.fntimes.com/html/view.php?ud=202609220714294731141825007d_18",
+  "https://biz.heraldcorp.com/article/10881349",
+  "https://www.fnnews.com/news/202609220704583808",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=881480",
+  "http://www.kwangju.co.kr/article.php?aid=1790029800803592067"
  ],
  "seen_titles": [
-  "윌로그·KTNET,국제운송화물온도·충격IoT로추적…uLogisHub연계실...",
-  "SK하이닉스,총상금1억해커톤개최…'스펙대신AI역량'",
-  "래블업,AI추론엔진에서토큰과금까지…첫글로벌웨비나서인프라...",
-  "[금주의쟁점]에피드,27일'트릭컬'3주년컬래버카페오픈",
-  "SK하이닉스,'AI해커톤'개최…학력대신문제해결역량본다",
-  "호반그룹,2027년도신입사원공개채용…세자릿수선발",
-  "LG유플러스,크리에이터와日도쿄방문…글로벌콘텐츠제작환경체험",
-  "LG유플러스,1인크리에이터해외연수파견…日메타도쿄오피스방...",
-  "금융에예능·드라마·다큐에도…KT그룹,AI적용범위확대",
-  "KT,ITU-T서'AI기반사이버보안'글로벌표준선점…英·印지지확보",
   "“AI속도늦추자”던앤스로픽,일주일만에신모델출시검토…오픈A...",
   "美·이란·우크라등각국정상한자리에…유엔총회22일개막",
   "산자중기위전체회의결국취소…국감증인협상결렬",
@@ -6001,7 +5991,17 @@
   "트럼프“AI통제수단이미있어⋯안전성논의는사기극”",
   "[마켓프리뷰]추석앞두고관망심리이겨낸코스피…'7천피'재탈환",
   "통신3사,'피지컬AI'선점경쟁...로봇·제조대공세",
-  "통화요약더쓰려면에이닷방문…SKT의'이용자묶기'"
+  "통화요약더쓰려면에이닷방문…SKT의'이용자묶기'",
+  "뉴욕증시,AI주식급등으로사상최고치경신...유가하락이상승세뒷...",
+  "AI투심개선에뉴욕증시상승…나스닥2.3%↑",
+  "AI주뛰고유가는꺾였다…나스닥,사상최고치새로썼다",
+  "[넥스트-샷]\"AI천천히\"라더니일주일만에풀액셀···나스닥사상최...",
+  "스타트업'자체AI모델'개발확산...코딩넘어핀테크도들썩",
+  "[KFT모닝브리프]2026.09.22—오늘꼭알아야할국내외경제뉴스",
+  "AI날고유가·금리내렸다…나스닥2.3%급등에사상최고치[투자360]",
+  "메타11%폭등에'매그니피센트7'화려한부활",
+  "엔비디아'라이벌'AMD,시총1조달러첫돌파...美반도체기업으론4번째",
+  "미국내AI속도조절론과중국의대응"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,13 @@
   [
    "2026-09-22T07:34:24.981989+09:00",
    "이용자 ~SKT 에이닷 쓰려면 묶기 통화요약 방문 SKT의"
+  ],
+  [
+   "2026-09-22T07:36:18.215989+09:00",
+   "대응 중국의 미국 속도조절론과"
   ]
  ],
- "last_run": "2026-09-22T07:34:45.506621+09:00",
+ "last_run": "2026-09-22T07:36:46.925032+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
