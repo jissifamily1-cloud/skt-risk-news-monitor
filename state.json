@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008393",
-  "https://www.econovill.com/news/articleView.html?idxno=751330",
-  "https://www.edaily.co.kr/News/Read?newsId=01285766645582088&mediaCodeNo=257",
-  "https://www.slist.kr/news/articleView.html?idxno=767509",
   "https://www.dt.co.kr/article/12084886",
   "https://www.ajunews.com/view/20260920095707243",
   "https://www.news1.kr/industry/electronics/6296354",
@@ -2999,13 +2995,13 @@
   "https://www.namdonews.com/news/articleView.html?idxno=924077",
   "https://www.pennmike.com/news/articleView.html?idxno=128192",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609211348093680101813",
-  "https://view.asiae.co.kr/article/2026092114241617693"
+  "https://view.asiae.co.kr/article/2026092114241617693",
+  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1067896",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88742",
+  "https://www.nc.press/news/articleView.html?idxno=626962",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93897"
  ],
  "seen_titles": [
-  "조선소작업장효율높일해법겨뤘다…LGCNS,글로벌최적화경연성료",
-  "LGCNS,'최적화그랜드챌린지'성료…55개국958개팀참가",
-  "1448명몰린'수학적최적화경연대회'일본팀우승",
-  "LGCNS,수학적최적화경진대회'그랜드챌린지2026'성료",
   "\"러시아최전선에서드론전익힌北\"…AI가바꾼전쟁,한국은대비됐나",
   "렌탈앤캐시,통합플랫폼오픈“렌탈고민,AI가풀고전문가가돕는다...",
   "LGCNS'최적화그랜드챌린지2026'성료",
@@ -6001,7 +5997,11 @@
   "국회산자위,'호남반도체'증인놓고충돌…전체회의무산",
   "[재계핫이슈]AI(인공지능)속도조절론과삼전닉스,이재명정부",
   "[더벨]퇴임앞둔최태원대한상의회장의키워드'사회적가치'",
-  "불법사이트운영자32명·66개사이트검거…\"해외서버도무력화\""
+  "불법사이트운영자32명·66개사이트검거…\"해외서버도무력화\"",
+  "에이아이웍스,제3회대한민국사회적가치페스타참가",
+  "\"빅데이터와AI로스마트행정구현\"…SKT,'그랜데이터퍼블릭데이'성...",
+  "[박동선의머니&엔터]무대차린금융권,K팝'데이터'를읽다…가치평...",
+  "글로벌AI기업,로봇생태계길목선점한다…'몸·두뇌·연결'삼파전"
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,17 @@
   [
    "2026-09-21T15:11:00.382257+09:00",
    "66개 해외 서버도 사이트 무력화 검거 운영자 32명 불법사이트"
+  ],
+  [
+   "2026-09-21T15:12:16.133483+09:00",
+   "무대 데이터 가치평 K팝 차린 금융권 읽다"
+  ],
+  [
+   "2026-09-21T15:12:16.133483+09:00",
+   "길목 글로벌 AI기업 로봇 두뇌 생태계 선점한다 삼파전 연결"
   ]
  ],
- "last_run": "2026-09-21T15:11:24.454014+09:00",
+ "last_run": "2026-09-21T15:12:36.419922+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
