@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/security-hacking/6295772",
-  "https://www.dailian.co.kr/news/view/1692371/?sc=Naver",
   "https://www.ddaily.co.kr/page/view/2026091817523859099",
   "https://www.edaily.co.kr/News/Read?newsId=04992166645581432&mediaCodeNo=257",
   "http://tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3538309&seq_800=20531203",
@@ -2999,11 +2997,11 @@
   "https://www.khan.co.kr/article/202609212008005",
   "http://digitalchosun.dizzo.com/site/data/html_dir/2026/09/21/2026092180189.html",
   "https://www.tokenpost.kr/news/ai/411581",
-  "http://coinreaders.com/259417"
+  "http://coinreaders.com/259417",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=444677",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473144"
  ],
  "seen_titles": [
-  "AI투자과잉론에도...젠슨황“내년엔비디아칩판매량2배”",
-  "AI가AI개발주도비율,2월1%미만에서8월26%로껑충",
   "클로드에뚫린오픈AI…클로드활용한내부코드망침투확인",
   "‘AI대부’제프리힌턴“1년안에AI통제장치만들어야”",
   "앤스로픽\"연구개발26%클로드에의존\"…'AI의AI개발'가속",
@@ -6001,7 +5999,9 @@
   "[박형주의세나수세상에나쁜수학은없다]인간없는과학이온다",
   "‘2026에듀테크코리아페어’종이상장사라진다…엔에프타임'써티...",
   "엔스케일,상반기1조4140억원순손실에도IPO추진",
-  "엔비디아(NVDA),최고가번번이'좌절'...209달러까지다시밀리나"
+  "엔비디아(NVDA),최고가번번이'좌절'...209달러까지다시밀리나",
+  "최태원\"사회문제해결위한자본키워야…기업·정부·금융연결필요...",
+  "[포토]최태원대한상의회장\"더뎌지는경제성장의해결자는AI\""
  ],
  "recent_sigs": [
   [
@@ -6691,9 +6691,13 @@
   [
    "2026-09-21T20:26:17.188377+09:00",
    "좌절 최고가 209달러까지 밀리나 번번이 다시 NVDA"
+  ],
+  [
+   "2026-09-21T20:32:16.110623+09:00",
+   "해결자는 경제성장의 대한상의 회장 더뎌지는"
   ]
  ],
- "last_run": "2026-09-21T20:30:50.034225+09:00",
+ "last_run": "2026-09-21T20:32:33.979968+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
