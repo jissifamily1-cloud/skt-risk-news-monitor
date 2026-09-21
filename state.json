@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435741",
-  "https://www.slist.kr/news/articleView.html?idxno=767363",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000067068",
   "https://www.radiokorea.com/news/article.php?uid=504658",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724936",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171492",
@@ -2999,12 +2996,12 @@
   "https://www.ytn.co.kr/_ln/0102_202609170900151698",
   "https://www.segye.com/newsView/20260921505764?OutUrl=naver",
   "https://www.cstimes.com/news/articleView.html?idxno=721432",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=201751"
+  "http://www.thevaluenews.co.kr/news/view.php?idx=201751",
+  "https://www.news1.kr/local/gwangju-jeonnam/6297122",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701985",
+  "https://magazine.hankyung.com/business/article/202609217527b"
  ],
  "seen_titles": [
-  "[창간24/한국의AI③]챗GPT이후'AIG3'로···韓,AI국가경쟁에...",
-  "\"AI인프라병목,GPU에서'메모리'로이동…내년공급부족심화\"",
-  "앤트로픽,이르면11월상장추진…기업가치최대2조달러거론",
   "클로드로오픈AI뚫었다…AI가AI기업해킹,72시간만에내부시스템...",
   "OpenAI보안뚫렸다...해커들,직원ChatGPT계정까지접근",
   "美증시혼조마감…반도체강세에나스닥·S&P500상승",
@@ -6001,7 +5998,10 @@
   "미기준금리,3년만에인상...한은,내달금리올릴까?[뉴스UP]",
   "AI가꼽은가전강자는…삼성·LG와전문브랜드가시장양분",
   "AI가추천한가전브랜드…삼성·LG4개부문,정수기는코웨이·로봇청...",
-  "[통신레이더]LGU+·SKT·SKB,데이터·콘텐츠생태계확장으로서비스..."
+  "[통신레이더]LGU+·SKT·SKB,데이터·콘텐츠생태계확장으로서비스...",
+  "'보안취약설연휴'신용카드정보알아내3.5억편취…5명구속",
+  "LGU+해킹은폐의혹수사장기화...박정현\"영구미제막아야\"",
+  "“코스피,연휴전흔들릴때가기회”"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,13 @@
   [
    "2026-09-21T10:16:13.813299+09:00",
    "LGU 서비스 콘텐츠 ~LGU 데이터 생태계 ~SKT 확장으로 SKB"
+  ],
+  [
+   "2026-09-21T10:22:13.272966+09:00",
+   "코스피 연휴 흔들릴 기회 때가"
   ]
  ],
- "last_run": "2026-09-21T10:20:37.612099+09:00",
+ "last_run": "2026-09-21T10:22:33.950407+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
