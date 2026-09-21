@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/259169",
-  "https://www.mk.co.kr/article/12157043",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=881288",
-  "https://www.g-enews.com/view.php?ud=2026091910364515031a5c2dd38_1",
-  "https://www.the-today.com/news/articleView.html?idxno=90406",
-  "https://www.the-today.com/news/articleView.html?idxno=90409",
-  "https://www.yna.co.kr/view/AKR20260919026900091?input=1195m",
   "http://wemakenews.co.kr/news/view.php?no=26344",
   "https://www.m-economynews.com/news/article.html?no=70880",
   "https://www.tokenpost.kr/news/breaking/410658",
@@ -2999,16 +2992,16 @@
   "https://www.etnews.com/20260921000151",
   "https://biz.newdaily.co.kr/site/data/html/2026/09/21/2026092100116.html",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4435885",
-  "http://www.kbiznews.co.kr/news/articleView.html?idxno=114865"
+  "http://www.kbiznews.co.kr/news/articleView.html?idxno=114865",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154440",
+  "https://www.sportsseoul.com/news/read/1636620",
+  "https://www.the-today.com/news/articleView.html?idxno=90485",
+  "https://www.yna.co.kr/view/AKR20260915143000002?input=1195m",
+  "https://www.ziksir.com/news/articleView.html?idxno=147062",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=208623",
+  "http://robotzine.co.kr/entry/279119"
  ],
  "seen_titles": [
-  "“홈런맞으면아들한테혼난다”2G6실점에정신번쩍…2차드래프트...",
-  "같은'위험'등급,다른온도차…아스트라를보는해외와국내의시선차",
-  "“中선박에핵관련물건”AI잘못된답변에…美-中전쟁날뻔했다",
-  "미중정상회담서AI·관세의제부상...만찬에美AICEO들참석",
-  "샘올트먼,23일유엔안보리출격...\"글로벌AI안전표준시급\"",
-  "中영상산업뒤흔든AI…숏드라마넘어장편까지넘본다",
-  "中광시류바오차,CAEXPO서인기",
   "제미나이도외부기관해킹드러났는데…구글\"공개할사안아냐\"",
   "류희림방심위법정제재30건모두취소…방미통위항소·상고포기",
   "中CXMT·美마이크론협공...삼성·SK‘메모리왕좌’위협",
@@ -6001,7 +5994,14 @@
   "GICON,내달6~7일'2026호남지역정보보호해커톤대회'개최…총상금...",
   "잇따른개인정보유출에대안제시…조경태의원“CI(연계정보)1년...",
   "AI가인류전멸시킨다면어떻게…인프라마비부터생물무기까지",
-  "[인사이트]AI개발경쟁에제동건아모데이,계속달리자는젠슨황⋯..."
+  "[인사이트]AI개발경쟁에제동건아모데이,계속달리자는젠슨황⋯...",
+  "8호선단대오거리역바로앞···법조타운배후수요품은'힐스테이트...",
+  "‘승승승승승승승’LG에‘6G무실점’고우석있지!“좋은수비속등...",
+  "현대건설,포항AI데이터센터16.5개월완공추진…시공속도로승부",
+  "원/달러환율1,360원터치…유가·美국채금리상승에12.1원↑",
+  "KT,ITU국제표준회의서AI사이버보안·디지털신뢰표준화주도",
+  "LG유플러스,크리에이터12명과도쿄탐방…글로벌콘텐츠제작환경체...",
+  "에티나,협동로봇·휴머노이드로봇용플래그십엣지AI시스템‘AIE-KT..."
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,13 @@
   [
    "2026-09-21T10:54:17.499319+09:00",
    "젠슨 경쟁에 개발 계속 아모데이 제동 달리자는"
+  ],
+  [
+   "2026-09-21T10:56:14.253442+09:00",
+   "에티나 플래그십 시스템 협동로봇 ~KT 엣지 AIE 휴머노이드 로봇용"
   ]
  ],
- "last_run": "2026-09-21T10:54:35.005520+09:00",
+ "last_run": "2026-09-21T10:56:35.394613+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7123,6 +7127,7 @@
   "cio.com": "cio.com",
   "koreatimes.com": "koreatimes.com",
   "thegolftimes.co.kr": "골프타임즈",
-  "mediagunpo.co.kr": "군포시민신문"
+  "mediagunpo.co.kr": "군포시민신문",
+  "robotzine.co.kr": "robotzine.co.kr"
  }
 }
