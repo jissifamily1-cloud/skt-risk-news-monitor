@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/410650",
-  "https://www.the-today.com/news/articleView.html?idxno=90410",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3700623",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3700619",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3700613",
-  "https://view.asiae.co.kr/article/2026091809581553860",
-  "https://isplus.com/article/view/isp202609190036",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=881287",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337220",
-  "https://www.boannews.com/news/articleView.html?idxno=145888",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=866742",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4107550",
   "https://www.yna.co.kr/view/AKR20260915143000002?input=1195m",
@@ -2999,19 +2989,19 @@
   "https://www.lcnews.co.kr/news/articleView.html?idxno=208620",
   "https://www.mk.co.kr/article/12157952",
   "https://www.tokenpost.kr/news/ai/411293",
-  "https://www.itooza.com/common/iview.php?no=2026092110395137356"
+  "https://www.itooza.com/common/iview.php?no=2026092110395137356",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3075840",
+  "https://www.bbc.com/korean/articles/cx4gq6p0421do?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701520",
+  "https://www.m-joongang.com/news/articleView.html?idxno=403054",
+  "https://www.newspim.com/news/view/20260918000080",
+  "http://www.newswatch.kr/news/articleView.html?idxno=81218",
+  "http://www.srtimes.kr/news/articleView.html?idxno=212769",
+  "https://kpenews.com/View.aspx?No=4235711",
+  "https://news.skbroadband.com/news/articleView.html?idxno=238416",
+  "https://www.yna.co.kr/view/AKR20260917132600017?input=1195m"
  ],
  "seen_titles": [
-  "\"오픈AI올트먼,유엔안보리출석…AI안보관련브리핑예정\"",
-  "앤트로픽·오픈AI등4곳,AI개발담합혐의로피소",
-  "더투데이가전한'효성기사삭제'…한국일보,3주만에복구·사과",
-  "[동정]김정기대구광역시행정부시장",
-  "[동정]추경호대구광역시장",
-  "추경호대구광역시장,제15회대구스웨덴영화제서안데르손주한스웨덴...",
-  "AI개발속도조절에도메모리반도체걱정안해도되는이유는[주末머...",
-  "[단독]‘은퇴’장동주,엑셀라이브방송판도바꾼다…“선정성배제...",
-  "'K-메모리,'美ㆍ中포위망에협공...D램은中에,HBM은美에추적",
-  "MBC사장,유력후보아니던이성주가선출된이유는?",
   "스틸리언,인도네시아1위이통사텔콤셀에모바일앱보안'앱수트'공...",
   "서학개미,나흘간1.8조순매수…SOXL에집중",
   "뉴욕증시,미국채금리상승에도반도체주강세…혼조마감",
@@ -6001,7 +5991,17 @@
   "KT,ITU회의서AI보안모델개발기준제안…디지털신뢰표준화참여",
   "“빅테크돈떨어졌다고?괜한걱정하지마”…2028년까지삼전닉스메...",
   "샘알트먼,23일유엔안보리AI회의참석",
-  "[美주간탑]엔비디아,거래대금35.9조원1위...거래대금상위20선"
+  "[美주간탑]엔비디아,거래대금35.9조원1위...거래대금상위20선",
+  "SK텔레콤T팩토리감정데이터전시회개최",
+  "AI가인류를위협할수있다는우려,근거는무엇이고얼마나현실적일...",
+  "\"AI에핵무기맡기지마라\"…전문가들'인간통제'촉구",
+  "싸늘해져가는바닥민심,시험대선이재명정부'국정동력'",
+  "[AIMY뉴스]18일중국증시'뉴욕증시반등효과이어질까…美금리·미...",
+  "[초점]'2300만명정보유출'SK텔레콤과징금소송시작",
+  "SKT,과징금취소소송1차변론서\"납득불가\"주장…판결영향은",
+  "SKT,공공AI·빅데이터혁신..‘그랜데이터퍼블릭데이’성료",
+  "조경태의원,'CI1년유효기간제'촉구",
+  "지상파UHD10년,전국망은아직…차세대방송정책재검토"
  ],
  "recent_sigs": [
   [
@@ -6551,9 +6551,13 @@
   [
    "2026-09-21T10:46:15.429243+09:00",
    "상위 거래대금 20선 9조원 1위"
+  ],
+  [
+   "2026-09-21T10:48:13.798406+09:00",
+   "방송정책 UHD 아직 지상파 10년 차세대 재검토 전국망은"
   ]
  ],
- "last_run": "2026-09-21T10:46:38.523947+09:00",
+ "last_run": "2026-09-21T10:48:32.072485+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
