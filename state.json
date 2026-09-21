@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=106291",
-  "https://www.aitimes.com/news/articleView.html?idxno=215369",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701322",
   "https://zdnet.co.kr/view/?no=20260917112518",
   "https://www.kpinews.kr/newsView/1065577156765715",
@@ -2999,11 +2997,11 @@
   "https://wemakenews.co.kr/news/view.php?no=26359",
   "http://www.jndn.com/article.php?aid=1789984970440080093",
   "http://www.jndn.com/article.php?aid=1789985045440081005",
-  "http://www.sisacast.kr/news/articleView.html?idxno=100313"
+  "http://www.sisacast.kr/news/articleView.html?idxno=100313",
+  "https://www.fnnews.com/news/202609211914144902",
+  "http://coinreaders.com/259408"
  ],
  "seen_titles": [
-  "HumanityHasAvoidedApocalypseBefore.Let’sDoItAgain.",
-  "AsBigTechTakesOverHollywood,thePictureOnscreenGetsDarker",
   "AI에이전트'블랙박스'없앤다…알리바바,코드수정없이실행과정추...",
   "[더나은미래주간브리핑]투자도CSR도‘임팩트’로…사회문제푸는자...",
   "오픈AI,'법률용아스트라'발표...빅로펌·기술기업맞춤AI지원",
@@ -6001,13 +5999,11 @@
   "CI한번유출되면바꿀수없다…조경태,‘1년유효기간제’도입촉구",
   "산자위,‘호남반도체’국감증인이견전체회의취소",
   "‘신용카드’결제대행사서버해킹8명검거",
-  "[트렌드포커스]AI가일자리뺏는다?…두려워하기보단'활용법'고민할..."
+  "[트렌드포커스]AI가일자리뺏는다?…두려워하기보단'활용법'고민할...",
+  "국민들든든한금융지키미…보이스피싱수법알리고신용회복동행",
+  "\"테슬라·엔비디아도제쳤다\"...스트래티지(MSRT),美증시거래종목16..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-21T13:24:15.073401+09:00",
-   "통신사만의 이유 끝났다 6G 뛰어든 AWS까지"
-  ],
   [
    "2026-09-21T13:28:13.566661+09:00",
    "바보야 오픈 웨이트야 문제는"
@@ -6787,9 +6783,13 @@
   [
    "2026-09-21T19:16:15.424688+09:00",
    "두려워하기보단 활용법 AI가 일자리 고민할 뺏는다"
+  ],
+  [
+   "2026-09-21T19:24:20.704193+09:00",
+   "스트래티지 엔비디아도 제쳤다 거래 테슬라 증시 MSRT 종목"
   ]
  ],
- "last_run": "2026-09-21T19:22:36.469565+09:00",
+ "last_run": "2026-09-21T19:24:40.160129+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
