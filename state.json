@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekn.kr/web/view.php?key=20260914020504297",
-  "http://www.segyebiz.com/newsView/20260914511299?OutUrl=naver",
-  "https://www.irobotnews.com/news/articleView.html?idxno=48482",
-  "https://www.ktv.go.kr/content/view?content_id=760944",
-  "https://www.fnnews.com/news/202609111409513994",
-  "https://www.cwn.kr/news/articleView.html?idxno=56890",
-  "https://www.tenasia.co.kr/article/2026091953784",
-  "https://news.tf.co.kr/read/economy/2367929.htm",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3700836",
-  "https://www.fnnews.com/news/202609200318550749",
   "https://www.newscj.com/news/articleView.html?idxno=3434123",
   "http://www.joseilbo.com/news/news_read.php?uid=576043&class=78",
   "https://www.yna.co.kr/view/AKR20260919059000072?input=1195m",
@@ -2999,19 +2989,19 @@
   "https://www.edaily.co.kr/News/Read?newsId=03125846645582416&mediaCodeNo=257",
   "https://www.dt.co.kr/article/12085140",
   "http://www.segyebiz.com/newsView/20260921510760?OutUrl=naver",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=276746"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=276746",
+  "https://www.ziksir.com/news/articleView.html?idxno=147075",
+  "https://www.ibabynews.com/news/articleView.html?idxno=154704",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4435922",
+  "http://www.niceeconomy.co.kr/news/articleView.html?idxno=91069",
+  "https://www.ppss.kr/news/articleView.html?idxno=311798",
+  "https://www.g-enews.com/view.php?ud=20260921135038340727fa31d75c_1",
+  "https://www.sedaily.com/article/20093432",
+  "https://biz.heraldcorp.com/article/10880731",
+  "https://www.newsis.com/view/NISX20260921_0003798020",
+  "https://www.etoday.co.kr/news/view/2627614"
  ],
  "seen_titles": [
-  "정의선회장의피지컬AI승부수,보스턴다이내믹스IPO속도",
-  "이파피루스,'2026VIP초청행사'개최",
-  "엔비디아,윈도우RTXPC서퍼플렉시티'포터블컴퓨터'지원확대",
-  "'실적쇼크'나이키가AI뇌를장악했다?",
-  "러닝열풍속의외의결과…챗GPT가꼽은러닝화1위브랜드는?",
-  "AI에러닝화물었더니'나이키'...시장순위와다른브랜드경쟁력",
-  "[AIMY뉴스]15일중국증시'금리·中경기지표촉각…AI공급망은기회...",
-  "[이미루의트렌드세일즈]2026년B2B마케터가반드시알아야할5가지...",
-  "[이봉교]AI에질문하는시대,패션이커머스의접근법",
-  "연합뉴스,검색AI가가장많이인용한언론",
   "삼성,5년된냉장고·세탁기에도최신AI접목",
   "9월19일모닝뉴스헤드라인",
   "[인터뷰]패리는있어도회피는없다,왜?주인공이좀비니까'스투피드...",
@@ -6001,7 +5991,17 @@
   "[포토]전시장설명듣는한성숙총리-최태원회장",
   "[포토]리더스서밋참석해인사말하는최태원회장",
   "AI속도조절론?…재계총수들,“AI가미래”한목소리",
-  "[현장]최태원회장\"각영역자본연결해야…협력으로돌파구찾을때..."
+  "[현장]최태원회장\"각영역자본연결해야…협력으로돌파구찾을때...",
+  "[추석예비기사]K뷰티호황뒤덮은'위조습격'···2년만에오픈마켓...",
+  "[가전트렌드]LG전자,'구독이득'캠페인전개…전문케어서비스알린다...",
+  "[차이나칩]벌어진미·중금리차…AI쩐의전쟁서유리해진中",
+  "[건설브리핑]GS건설·삼성물산·현대건설·우미건설",
+  "현대건설,포항AI데이터센터착공...골조공사1년→2개월단축",
+  "HBM시장1위굳히기?...끊이지않는SK하이닉스미일투자설",
+  "美반도체훈풍번진‘소부장株’…하나마이크론14%대‘급등’[마켓시...",
+  "‘40억빚·배우은퇴’장동주,엑셀방송+기업상장도전…광폭행보",
+  "\"AI개발속도늦추자\"한목소리냈다가…오픈AI·구글등美서피소",
+  "AI속도조절론의역설…‘학습’줄어도‘추론·소버린AI’가메모리삼..."
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-09-21T14:04:16.369793+09:00",
    "연결해야 협력으로 영역 찾을 돌파구 회장 자본"
+  ],
+  [
+   "2026-09-21T14:06:14.539802+09:00",
+   "줄어도 학습 소버린AI 추론 메모리 역설 속도조절론의"
   ]
  ],
- "last_run": "2026-09-21T14:04:36.790863+09:00",
+ "last_run": "2026-09-21T14:06:33.285401+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
