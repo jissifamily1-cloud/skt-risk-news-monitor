@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3701864",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3701938",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3701934",
-  "https://newscham.net/articles/117217",
-  "https://biz.heraldcorp.com/article/10880495",
-  "https://biz.heraldcorp.com/article/10880497",
-  "https://zdnet.co.kr/view/?no=20260921112243",
-  "https://zdnet.co.kr/view/?no=20260921112409",
   "https://www.koreaittimes.com/news/articleView.html?idxno=157374",
   "https://www.goodmorningcc.com/news/articleView.html?idxno=452718",
   "https://zdnet.co.kr/view/?no=20260921104108",
@@ -2999,17 +2991,17 @@
   "https://biz.sbs.co.kr/article_hub/20000336074?division=NAVER",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489316",
   "https://www.yna.co.kr/view/AKR20260922006551075?input=1195m",
-  "https://www.g-enews.com/view.php?ud=202609220549544379fbbec65dfb_1"
+  "https://www.g-enews.com/view.php?ud=202609220549544379fbbec65dfb_1",
+  "https://www.nocutnews.co.kr/news/6581681",
+  "https://isplus.com/article/view/isp202609220001",
+  "https://www.etnews.com/20260922000071",
+  "https://www.newspim.com/news/view/20260922000021",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192335",
+  "https://www.etoday.co.kr/news/view/2628230",
+  "https://www.joongang.co.kr/article/25463957",
+  "https://www.news1.kr/it-science/internet-platform/6297245"
  ],
  "seen_titles": [
-  "매출10배전망에도…오픈AI,386조원현금소진예고",
-  "키움운용,美모멘텀ETF리벨런싱…엔비디아빼고애플담았다",
-  "젠슨황\"AI가세상끝낼가능성0%…AI종말론과장됐다\"",
-  "MSAI수장“중국핑계로AI안전장치외면해선안돼”",
-  "에이아이빅스랩,가전AI브랜드경쟁력분석",
-  "\"미토스위협선제대응\"…국가정보자원관리원,내부웹750개긴급점검",
-  "ICTK,PUF기반HW신뢰점결합차세대양자내성암호보안선도",
-  "GICON,'총상금550만원'...2026호남정보보호해커톤개막",
   "LGU+해킹은폐의혹,경찰수사10개월째…\"영구미제될수도\"",
   "[N2포커스]미래에셋운용“피지컬AI병목은‘몸’…현대차·LG전자,양...",
   "[특징주]네오사피엔스,코스닥상장첫날급등…AI음성플랫폼주목",
@@ -6001,7 +5993,15 @@
   "[외신헤드라인]AMD,시총1조달러클럽진입…美반도체사네번째",
   "AMD시총1조달러돌파…AI열풍에뉴욕증시또사상최고",
   "뉴욕증시,'AI낙관론'에메타·인텔급등…나스닥사상최고치(종합)",
-  "엔비디아루빈품는삼성,HBM4유리기판캐리어조달2.5배늘려AI반도..."
+  "엔비디아루빈품는삼성,HBM4유리기판캐리어조달2.5배늘려AI반도...",
+  "'곽빈완벽투'에가려진숙제…대만'반쪽마운드'에고전한아쉬운방...",
+  "[나고야2026]ABS없고,불펜에서안좋았지만...대표팀1선발자격증...",
+  "미·중'AI위험방지'대화시동…美재무부장관공식화",
+  "[미국특징주]메타새AI앱'뮤즈'美앱차트1위…출시6일간90만회...",
+  "[AI프리즘]AI종말경고속미-중정상회담…트럼프-시진핑AI합의가...",
+  "뉴욕증시,AI주급등에상승⋯나스닥최고치경신[종합]",
+  "미·중,‘AI위험핫라인’합의했는데…트럼프“속도조절은사기극”",
+  "구글제재앞둔韓…김종철·주병기도美'입국제한법'영향받나"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,17 @@
   [
    "2026-09-22T06:32:14.597125+09:00",
    "삼성 반도 5배 늘려 유리기판 캐리어 품는 조달 HBM4 루빈"
+  ],
+  [
+   "2026-09-22T06:34:13.592616+09:00",
+   "핫라인 합의했는데 트럼프 속도조절은 위험 사기극"
+  ],
+  [
+   "2026-09-22T06:34:13.592616+09:00",
+   "주병기도 구글 김종철 입국제한법 앞둔 제재 영향받나"
   ]
  ],
- "last_run": "2026-09-22T06:32:39.431359+09:00",
+ "last_run": "2026-09-22T06:34:40.072684+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
