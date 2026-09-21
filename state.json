@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thelec.kr/news/articleView.html?idxno=62024",
-  "https://www.viva100.com/article/20260909501054",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=699297",
-  "http://www.breaknews.com/1235274",
-  "https://www.seoul.co.kr/news/economy/2026/09/09/20260909500131?wlog_tag3=naver",
-  "http://www.newswatch.kr/news/articleView.html?idxno=81048",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=708332",
-  "http://www.joseilbo.com/news/news_read.php?uid=575341&class=18",
   "https://www.newspim.com/news/view/20260909000131",
   "https://www.slist.kr/news/articleView.html?idxno=764683",
   "https://www.wikitree.co.kr/articles/1158206",
@@ -2999,17 +2991,17 @@
   "https://www.newscj.com/news/articleView.html?idxno=3434321",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53095",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076039",
-  "https://www.yna.co.kr/view/AKR20260921016100009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260921016100009?input=1195m",
+  "https://www.fnnews.com/news/202609210903015027",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=319991",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=488951",
+  "https://www.edaily.co.kr/News/Read?newsId=02158246645582416&mediaCodeNo=257",
+  "https://www.ytn.co.kr/_ln/0102_202609210849590830",
+  "https://www.ajunews.com/view/20260921084516709",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=276659",
+  "https://www.smarttoday.co.kr/ko-kr/articles/111818"
  ],
  "seen_titles": [
-  "구글크롬,보안환경변화에따라업데이트주기2주로단축",
-  "탈모케어랩,전국모발이식비용데이터베이스구축",
-  "메타,이메일·예약·결제까지맡는'AI개인비서'출시",
-  "카드고릴라조사서‘62.6%’가생성형AI유료구독…카드사‘AI구독...",
-  "구글크롬,이제2주마다업데이트…AI가바꾼보안환경",
-  "인공지능(AI)시대,브레이크뉴스언론사사주(오너)의‘신세타령’",
-  "인사커뮤니케이션,의료콘텐츠의미보존특허등록…‘병원GEO마케팅...",
-  "[초점]현대이어삼성도참전…개인사업자카드'AI구독'혜택경쟁",
   "삼성전자,미스트랄AI와'반도체특화AI'개발···지분투자로유럽...",
   "챗GPT·클로드·제미나이결제늘자…카드사‘AI할인’경쟁심화",
   "[AIMY뉴스]9일중국증시'유가·美금리부담속기술주방향성주목...",
@@ -6001,7 +5993,15 @@
   "세계정상들,뉴욕집결…전쟁해법·유엔개혁논의",
   "AI가꼽은가전강자도삼성·LG…8개부문서과반차지",
   "SK텔레콤공공행정AI혁신장열어",
-  "오픈AI,2030년까지컴퓨팅확보에386조원현금소진"
+  "오픈AI,2030년까지컴퓨팅확보에386조원현금소진",
+  "삼성운용'KODEX미국반도체',SK하이닉스ADR담았다",
+  "현대건설,포항에국내첫AI전용데이터센터…공기16.5개월로단축",
+  "현대건설,포항AI데이터센터초단기시공본격화",
+  "[마켓무버]고금리뚫은AI…나스닥상승,이번주미중정상회담주목",
+  "\"시진핑건강이상설·트럼프급거귀국\"미중,빅이벤트직전수상한...",
+  "SKT,그랜데이터퍼블릭데이개최…공공AI·빅데이터사례공유",
+  "SKT,공공기관실무자와AI·빅데이터활용사례공유",
+  "엔비디아GPU쌓아두고도전기없어발동동…K-전력기기43조잭팟터졌..."
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-09-21T09:08:14.322216+09:00",
    "2030년까지 컴퓨팅 386조원 현금 확보에 소진"
+  ],
+  [
+   "2026-09-21T09:12:33.911735+09:00",
+   "쌓아두고도 터졌 전기 GPU 발동동 43조 전력기기 없어 잭팟"
   ]
  ],
- "last_run": "2026-09-21T09:10:38.701065+09:00",
+ "last_run": "2026-09-21T09:12:58.934795+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
