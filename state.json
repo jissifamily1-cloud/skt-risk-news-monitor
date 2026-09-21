@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/410626",
-  "https://www.newspim.com/news/view/20260918000080",
   "https://daily.hankooki.com/news/articleView.html?idxno=1407930",
   "https://www.lecturernews.com/news/articleView.html?idxno=210768",
   "https://www.bbc.com/korean/articles/cx4gq6p0421do?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -2999,11 +2997,11 @@
   "https://kbench.com/?q=node%2F282048",
   "https://www.aitimes.com/news/articleView.html?idxno=215480",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701518",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867004"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867004",
+  "https://www.hinews.co.kr/view.php?ud=202609211033357176cd8b879b3c_48",
+  "https://www.chosun.com/economy/tech_it/2026/09/21/67WKDU7DZVFBLFG6T7T2NCWKIE/"
  ],
  "seen_titles": [
-  "'엔비디아투자'英AI인프라기업엔스케일,美증시상장신청",
-  "가짜AI거래봇에224명피해…274.6ETH유출",
   "[AIMY뉴스]18일중국증시'뉴욕증시반등효과이어질까…美금리·미...",
   "기술도입확대하는SK바이오팜,'확장형R&D'드라이브",
   "이슈픽쌤과함께,서울대김상배교수와'차이나쇼크2.0,격화하는A...",
@@ -6001,7 +5999,9 @@
   "엔비디아DLSS5,이제는맥도가능하다?M5Max로구동성공",
   "앤트로픽,AI안전평가기관으로액센추어선정…독립성논란확대",
   "英찰스3세까지나섰다…\"AI,통제못하면생명까지위협\"",
-  "리벨리온,SKTAI서비스4개에NPU확대적용"
+  "리벨리온,SKTAI서비스4개에NPU확대적용",
+  "LGU+해킹의혹,제보받고서버폐기·OS재설치…경찰수사10개월째",
+  "“어떤생활용품살까”…질문조건에따라달라진AI추천"
  ],
  "recent_sigs": [
   [
@@ -6535,9 +6535,13 @@
   [
    "2026-09-21T10:36:15.067179+09:00",
    "이제는 M5 맥도 구동 Max로 DLSS 가능하다 성공"
+  ],
+  [
+   "2026-09-21T10:40:20.721109+09:00",
+   "생활용품 달라진 조건에 따라 살까 추천 어떤 질문"
   ]
  ],
- "last_run": "2026-09-21T10:38:30.901975+09:00",
+ "last_run": "2026-09-21T10:40:38.012371+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
