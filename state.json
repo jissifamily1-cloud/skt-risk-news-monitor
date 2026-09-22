@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://kbench.com/?q=node%2F282089",
-  "https://biz.heraldcorp.com/article/10881743",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=301444",
-  "https://www.ekn.kr/web/view.php?key=20260922023497773",
-  "http://www.e2news.com/news/articleView.html?idxno=334482",
-  "https://www.yna.co.kr/view/AKR20260922073100017?input=1195m",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5220801",
   "https://www.mt.co.kr/politics/2026/09/22/2026092210115142058",
   "https://zdnet.co.kr/view/?no=20260922103453",
@@ -2999,15 +2993,15 @@
   "http://www.inews24.com/view/2007237",
   "https://view.asiae.co.kr/article/2026092308290558123",
   "http://www.newsbrite.net/news/articleView.html?idxno=200573",
-  "https://www.sidae.com/article/2026092308120537719"
+  "https://www.sidae.com/article/2026092308120537719",
+  "https://www.theguru.co.kr/news/article.html?no=107500",
+  "http://www.joseilbo.com/news/news_read.php?uid=576262&class=18",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000068246",
+  "https://www.sedaily.com/article/20094296",
+  "https://biz.sbs.co.kr/article_hub/20000336395?division=NAVER",
+  "https://platum.kr/archives/295122"
  ],
  "seen_titles": [
-  "AI데이터센터뛰어드는건설업계…시공·모듈러경쟁본격화",
-  "'서피스랩탑울트라'32GB·1TB가격유출…맥북프로보다싸다?",
-  "구광모·나델라美서회동…LG·MS‘AI동맹’",
-  "[신간소개]다섯손가락'이두헌이쓴독창적인비틀즈경영학",
-  "LG전자,냉각설비풀라인업왜?…AI데이터센터사업속도내나",
-  "LG에너지솔루션,국내배터리사첫엔디비아데이터센터BESS합류",
   "카카오게임즈개인정보추가유출…피해총243명",
   "이소영청문보고서여야합의채택…'부적격'도병기",
   "산자위,이소영중기부장관인사청문보고서채택...野\"부적격\"",
@@ -6001,7 +5995,13 @@
   "과기정통부,이통사·플랫폼과추석연휴지원…영상통화무료·통신망...",
   "앤스로픽·오픈AI저가AI모델나란히출시…가격경쟁격화",
   "[노태우'안방비자금'의수상한흐름③]공익사업엔3억,금융자산엔1...",
-  "노소영전남광주시의원,으뜸발달장애인센터위문"
+  "노소영전남광주시의원,으뜸발달장애인센터위문",
+  "신한베트남은행,싱가포르AI기업과맞손…기업신용분석고도화추진",
+  "AI랠리에나스닥또사상최고…다우는이란리스크에하락",
+  "코스피'7천피'지킬까…추석연휴앞두고시험대",
+  "프리마켓서삼성전자28만선탈환…간밤美반도체강세훈풍[마켓시그...",
+  "[기업이슈]미CPU주급등에'기판주'불붙었다",
+  "에임인텔리전스,엔비디아인셉션그랜드챌린지아태상위10곳에"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-09-23T08:38:17.746099+09:00",
    "위문 전남광주시의원 으뜸발달장애인센터"
+  ],
+  [
+   "2026-09-23T08:40:21.860377+09:00",
+   "에임인텔리전스 그랜드 10곳에 아태 챌린지 상위 인셉션"
   ]
  ],
- "last_run": "2026-09-23T08:38:37.988785+09:00",
+ "last_run": "2026-09-23T08:40:40.314210+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
