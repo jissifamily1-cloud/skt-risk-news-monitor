@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20093779",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1183175",
-  "https://www.newsis.com/view/NISX20260922_0003799745",
-  "http://www.beyondpost.co.kr/view.php?ud=202609220948442063be44c0aacd_30",
   "https://view.asiae.co.kr/article/2026092209130467902",
   "https://www.edaily.co.kr/News/Read?newsId=03043846645582744&mediaCodeNo=257",
   "https://www.itdaily.kr/news/articleView.html?idxno=241772",
@@ -2999,13 +2995,13 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=866547",
   "https://www.pennmike.com/news/articleView.html?idxno=128192",
   "https://www.sedaily.com/article/20093763",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157401"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=157401",
+  "https://www.seoul.co.kr/news/economy/securities/2026/09/23/20260923500007?wlog_tag3=naver",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192289",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318238",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=6727"
  ],
  "seen_titles": [
-  "빈집10채가창업가마을로…스타트업다자요,제주조수리재생나선다",
-  "美연준,다시긴축가나…금리4.1%전망에월가‘긴장’",
-  "노타주가,상한가...이유는?",
-  "SK하이닉스,장초반193만원대…삼성전자도2%대강세[핫스탁]",
   "코스피,美반도체훈풍에장초반2%대급등…7100선돌파",
   "AMD,시총1조달러첫돌파…美반도체기업중4번째",
   "“양자컴퓨터만든다”…SDT,아이온큐와손잡고구미에제조거점",
@@ -6001,7 +5997,11 @@
   "LGU+가접은'짐보관'…SKT성수서꺼냈다",
   "[재계핫이슈]AI(인공지능)속도조절론과삼전닉스,이재명정부",
   "반도체,부가가치율12%p뛸때고용은제자리",
-  "풀무원,공식몰에GEO적용…AI쇼핑대응강화"
+  "풀무원,공식몰에GEO적용…AI쇼핑대응강화",
+  "[서울데이터랩]미국증시혼조마감…반도체강세에나스닥상승,다우...",
+  "[인공지능줌인]트럼프옆젠슨황…엔비디아의AI정치",
+  "AI속도조절론,안전이라는이름의디지털인클로저",
+  "[뉴욕증시마감시황]나스닥이틀째최고치…연준매파발언에도샌디스..."
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,21 @@
   [
    "2026-09-23T06:12:17.318838+09:00",
    "실무 공략 GPT 루나 API 내린 가성비 반값 공개 중심"
+  ],
+  [
+   "2026-09-23T06:20:58.509120+09:00",
+   "트럼프 정치 젠슨 엔비디아의"
+  ],
+  [
+   "2026-09-23T06:20:58.509120+09:00",
+   "속도조절론 인클로저 이름의 디지털 안전이라는"
+  ],
+  [
+   "2026-09-23T06:20:58.509120+09:00",
+   "발언에도 나스닥 연준 이틀째 샌디스 매파 최고치"
   ]
  ],
- "last_run": "2026-09-23T06:18:34.095363+09:00",
+ "last_run": "2026-09-23T06:21:21.851661+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
