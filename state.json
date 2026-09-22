@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489464",
-  "https://www.smartbizn.com/news/articleView.html?idxno=154587",
-  "https://vn.asiatoday.co.kr/view.php?key=20260922000909195",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867428",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170652",
-  "https://www.joongangenews.com/news/articleView.html?idxno=549980",
-  "https://www.hellot.net/news/article.html?no=115069",
-  "https://www.thepublic.kr/news/articleView.html?idxno=319644",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=795518",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=102678",
-  "http://www.osen.co.kr/article/G1112879914",
   "https://biz.chosun.com/policy/politics/assembly/2026/09/22/SE7ZQKT7DNAJ5KK5ZCTZIHO7YQ/",
   "https://www.mt.co.kr/tech/2026/09/22/2026092209580777772",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170641",
@@ -2999,20 +2988,20 @@
   "https://www.tokenpost.kr/news/ai/412461",
   "https://www.koreajoongangdaily.com/korea/koreas-first-lady-calls-to-empower-children-through-digital-education-at-melania-trumps-event/12888814",
   "https://www.dailian.co.kr/news/view/1693859/?sc=Naver",
-  "https://www.newspim.com/news/view/20260923000075"
+  "https://www.newspim.com/news/view/20260923000075",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008765444&plink=ORI&cooper=NAVER",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=80053",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867560",
+  "https://www.etoday.co.kr/news/view/2628850",
+  "https://www.etoday.co.kr/news/view/2628852",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550229",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550227",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=85106",
+  "https://www.yna.co.kr/view/AKR20260922155400005?input=1195m",
+  "https://www.tokenpost.kr/news/ai/412473",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=210079"
  ],
  "seen_titles": [
-  "오석진대전교육감,교권침해신고부터회복까지'원스톱보호체계'가...",
-  "차세대전력망·IoT보안핵심…아이씨티케이,독보적기술력에'눈길...",
-  "20개국\"AI는인간통제아래둬야\"···美·中빠진'글로벌AI감독체...",
-  "ChủtịchnướcTrungQuốcTậpCậnBìnhthămMỹ,hộiđ",
-  "서치독,오토데스크AU2026참가",
-  "AMD시총1조달러돌파…美기술주나란히급등",
-  "AI데이터센터투자,기판공급망까지번졌다…대덕전자LTA·두산1조증...",
-  "엑스와이지‘듀스’,3개손가락과7자유도로생활공간공략‘신호탄...",
-  "메타11%·인텔12%↑...'AI낙관론'에나스닥사상최고치",
-  "[위클리오늘]산업일반소식_LG에너지솔루션,한화솔루션(9.22)",
-  "AMD1조달러돌파…AI경쟁,GPU넘어'시스템전쟁'",
   "LG전자와LG에너지솔루션이‘엔비디아AI팩토리’파트너로낙점",
   "[단독]티빙·듀오·강남언니,개인정보유출기업CEO국감장선다",
   "[단독]'4000만계정유출'티빙대표,올해국감증인요구받는다",
@@ -6001,7 +5990,18 @@
   "AI사고통보논의…군사오판우려·보안연구사례주목",
   "Korea’sfirstladycallstoempowerchildrenthroughdigitaleducatio",
   "中딥시크,유엔안보리로…오픈AI와‘AI위험’놓고격돌",
-  "[뮤즈돌풍]AI에이전트가대신갈아탄다…금융·보험·통신'와르르'"
+  "[뮤즈돌풍]AI에이전트가대신갈아탄다…금융·보험·통신'와르르'",
+  "\"오픈AI-앤트로픽,'서로AI모델검증'협약추진\"",
+  "뉴욕증시,반도체주강세에나스닥신기록",
+  "씨이랩AIDC인프라데이2026개최",
+  "다올투자증권“AI신약개발,승부처는데이터…국내제약사협업기회...",
+  "[증시키워드]'음주해고'SK하이닉스·신약허가눈앞HLB...현대차,美...",
+  "AI투자'빚의가격'뛰기시작했다…하이퍼스케일러내년회사채4200억...",
+  "애플,맥4대로'1조파라미터AI'돌렸다…클라우드비용줄여MS·엔비...",
+  "LG그룹,글로벌AI동맹넓힌다…냉각·전력부터피지컬AI까지",
+  "비틀스에게배우는'위대한팀'이되는법",
+  "레고라,85억달러가치로3억달러조달논의",
+  "[분석]LG전자냉각장치엔비디아승인의의미"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,13 @@
   [
    "2026-09-23T08:04:16.174346+09:00",
    "보험 대신 갈아탄다 통신 와르르 에이전트가 금융"
+  ],
+  [
+   "2026-09-23T08:06:50.033473+09:00",
+   "승인의 의미 LG전자 냉각장치"
   ]
  ],
- "last_run": "2026-09-23T08:04:34.429092+09:00",
+ "last_run": "2026-09-23T08:07:13.870905+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
