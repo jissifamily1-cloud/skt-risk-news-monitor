@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=241616",
-  "https://www.thisisgame.com/articles/429959",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3143668",
-  "https://www.pressman.kr/news/articleView.html?idxno=103661",
-  "https://www.greened.kr/news/articleView.html?idxno=350090",
-  "https://www.wikitree.co.kr/articles/1159551",
-  "https://www.joongangenews.com/news/articleView.html?idxno=548129",
   "https://www.newspim.com/news/view/20260915000063",
   "https://www.lecturernews.com/news/articleView.html?idxno=207043",
   "http://www.apparelnews.co.kr/news/news_view/?idx=227634",
@@ -2999,16 +2992,16 @@
   "https://www.datanet.co.kr/news/articleView.html?idxno=214664",
   "https://www.joongangenews.com/news/articleView.html?idxno=550218",
   "https://www.m-i.kr/news/articleView.html?idxno=1417618",
-  "https://swtvnews.com/news/newsview.php?ncode=1065594780077429"
+  "https://swtvnews.com/news/newsview.php?ncode=1065594780077429",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3703834",
+  "https://www.econovill.com/news/articleView.html?idxno=751613",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8669626",
+  "http://www.jndn.com/article.php?aid=1790068458440165005",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3703832",
+  "https://www.nocutnews.co.kr/news/6582333",
+  "https://www.seoul.co.kr/news/economy/industry/2026/09/22/20260922500286?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "시장과딴판?AI에런닝화추천해달라했더니'나이키입니다'",
-  "엔비디아·퍼플렉시티,윈도우RTXPC서'로컬AI에이전트'지원",
-  "“나이키·롤렉스·루이비통AI가먼저불렀다”…시장평가뒤집은‘...",
-  "엔비디아,윈도우RTXPC서'퍼플렉시티포터블컴퓨터'지원",
-  "엔비디아'포터블컴퓨터'윈도우(Windows)RTXPC지원확대",
-  "브랜딥,AI아기화장품추천브랜드순위발표",
-  "나이키,AI가꼽은러닝화·골프웨어1위…패션브랜드유일'2관왕'",
   "이파피루스,'2026VIP초청행사'개최",
   "엔비디아,윈도우RTXPC서퍼플렉시티'포터블컴퓨터'지원확대",
   "'실적쇼크'나이키가AI뇌를장악했다?",
@@ -6001,7 +5994,14 @@
   "덱스터·이엠텍아이엔씨,IT인프라사업맞손",
   "대만,8월수출주문사상첫1000억달러돌파…AI반도체·서버수요폭...",
   "KT·NIA,베트남등3개국서AI교육·인증시범운영",
-  "LG에너지솔루션,엔비디아AI팩토리생태계합류…국내배터리기업‘..."
+  "LG에너지솔루션,엔비디아AI팩토리생태계합류…국내배터리기업‘...",
+  "권오상서구청장,민선9기57개공약확정...미래성장동력·삶의질향...",
+  "KF-21공군첫인도…'전투기국산화'다음행보는?",
+  "[시사플랫폼]“반도체호황으로명목경제성장률급성장…하지만실질...",
+  "“택배주소틀려요”피싱범죄주의보",
+  "[동정]권오상대구광역시서구청장",
+  "충북도,23~27일추석연휴특별교통대책추진",
+  "‘AI책임론’으로번진속도조절론…베선트美장관·오픈AI·나라별엇..."
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,13 @@
   [
    "2026-09-22T18:22:18.106800+09:00",
    "맡기니 아이 교육 안심하고"
+  ],
+  [
+   "2026-09-22T18:28:15.234715+09:00",
+   "속도조절론 번진 책임론 나라별 장관 베선트"
   ]
  ],
- "last_run": "2026-09-22T18:26:35.626714+09:00",
+ "last_run": "2026-09-22T18:28:33.516572+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
