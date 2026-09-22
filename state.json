@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.busan.com/view/busan/view.php?code=2026092210305197326",
-  "https://www.sidae.com/article/2026092209064726407",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=208712",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=135926",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=276973",
   "https://www.insight.co.kr/news/574730",
   "https://www.meconomynews.com/news/articleView.html?idxno=201869",
@@ -2999,13 +2995,13 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171635",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702595",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473768",
-  "https://zdnet.co.kr/view/?no=20260922103453"
+  "https://zdnet.co.kr/view/?no=20260922103453",
+  "https://www.newsway.co.kr/news/view?ud=2026092308453318249",
+  "https://www.medicopharma.co.kr/news/articleView.html?idxno=69626",
+  "https://www.newsis.com/view/NISX20260923_0003801376",
+  "https://www.etoday.co.kr/news/view/2628890"
  ],
  "seen_titles": [
-  "SKT·KISTI,양자암호통신망구축전가상검증하는'디지털트윈'개발",
-  "LG그룹,빅테크와전방위제휴…AI생태계확장추진",
-  "LG·마이크로소프트,AI생태계가속위해맞손",
-  "구광모LG회장,나델라MSCEO만나AI동맹가속화",
   "LG·마이크로소프트,AI동맹확대…AIDC·피지컬AI·AX공동추진",
   "구광모LG회장-사티아나델라MSCEO,전략적파트너십강화",
   "구광모-나델라회동...LG,MS글로벌AIDC에냉각·전력공급협력",
@@ -6001,7 +5997,11 @@
   "트럼프유엔연설\"AI규제안돼\"거듭강조",
   "인핸스·GS칼텍스,제조암묵지기반AI모델개발정부과제수행",
   "울산지역하도급률38.06%…3분기연간목표37%첫돌파",
-  "[AI는지금]'속도조절'앞세운오픈AI·앤트로픽,소송불똥…\"서로AI도..."
+  "[AI는지금]'속도조절'앞세운오픈AI·앤트로픽,소송불똥…\"서로AI도...",
+  "삼성전자·SK하이닉스,美반도체주강세에프리마켓서이틀째상승[특...",
+  "빅파마AI신약개발경쟁확산…승부처는'실험데이터'",
+  "메리츠證\"삼성전기,가파른이익성장…목표가220만원\"",
+  "팀스파르타AI솔루션,엔비디아챌린지TOP20진출"
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,13 @@
   [
    "2026-09-23T08:44:18.013017+09:00",
    "지역 3분기 돌파 하도급률 연간 목표 울산"
+  ],
+  [
+   "2026-09-23T08:50:22.946595+09:00",
+   "팀스파르타 솔루션 챌린지 TOP 진출"
   ]
  ],
- "last_run": "2026-09-23T08:48:35.026293+09:00",
+ "last_run": "2026-09-23T08:50:44.020126+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
