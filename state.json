@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.polinews.co.kr/news/articleView.html?idxno=743683",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=240039",
-  "https://www.g-enews.com/view.php?ud=202609211332077925139bf6e4b2_1",
-  "https://www.dt.co.kr/article/12085136",
-  "https://www.edaily.co.kr/News/Read?newsId=03102886645582416&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03093046645582416&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03086486645582416&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03089766645582416&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03076646645582416&mediaCodeNo=257",
-  "https://www.hankyung.com/article/202609218100i",
-  "https://www.edaily.co.kr/News/Read?newsId=03073366645582416&mediaCodeNo=257",
   "https://www.eroun.net/news/articleView.html?idxno=90610",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=337255",
   "https://www.newscj.com/news/articleView.html?idxno=3434423",
@@ -2999,20 +2988,20 @@
   "https://www.newsis.com/view/NISI20260922_0021450197",
   "https://www.edaily.co.kr/News/Read?newsId=02784726645582744&mediaCodeNo=257",
   "https://www.dailian.co.kr/news/view/1693296/?sc=Naver",
-  "https://www.newsis.com/view/NISI20260922_0021450225"
+  "https://www.newsis.com/view/NISI20260922_0021450225",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3702940",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3702933",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3702915",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260922090543CSh",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3702944",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3702946",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3702923",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3702939",
+  "https://www.ddaily.co.kr/page/view/2026092112174046204",
+  "https://www.yna.co.kr/view/AKR20260922030800091?input=1195m",
+  "https://www.newspim.com/news/view/20260922000173"
  ],
  "seen_titles": [
-  "SK하이닉스,해커톤개최…\"AI실전역량겨룬다\"",
-  "넥슨,한·일주가동반상승…쇠더룬드혁신통하나",
-  "다음,2026아이치·나고야아시안게임특집페이지오픈",
-  "하안주공6·7단지,시공자선정재공고…IPARK현산눈독",
-  "美,클라우드원격접근까지조이나…中AI학습인프라비상",
-  "북한가짜채용조직,기기3만대감염…암호화폐150억원탈취",
-  "리벨리온NPU,SKTAI서비스4종적용…하루1400만건처리",
-  "SKT,공공데이터결합세미나개최…지자체행정적용현황공개",
-  "SKT,'그랜데이터퍼블릭데이'개최…공공행정에AI·빅데이터접목",
-  "사회적가치페스타개막…최태원회장\"AI,강력한사회문제해결사\"",
-  "최태원“AI가사회적가치해결사…어떻게쓰느냐가숙제”",
   "[포토]사회적가치페스타찾은한성숙총리-최태원회장",
   "[포토]리유저블백에대해설명듣는한성숙총리-최태원회장",
   "[포토]전시장관람하는한성숙총리-최태원회장",
@@ -6001,7 +5990,18 @@
   "KT,'모두의AI'컨소시엄출범식…국민체험형AI서비스협력",
   "국무회의참석한김종철방미통위위원장",
   "국내AI대표기업들'한데뭉쳤다'…KT,'모두의AI'컨소출범식",
-  "KT,개도국에AI교육확산…AICE로글로벌인재키운다"
+  "KT,개도국에AI교육확산…AICE로글로벌인재키운다",
+  "대구광역시,추석연휴노인3만2천명안부·안전집중점검...비상체계...",
+  "대구광역시·고용노동부,\"산업재해막는다\"...공사현장합동점검실시",
+  "대구행복진흥원,'청소년소통FESTA'대명동서개최...\"공공형소통공간...",
+  "[사건사고]안성돌진운전자구속…\"피해자많고혐의중대\"外",
+  "대구광역시,추석앞두고336개성수식품업체위생점검...15곳적발",
+  "대구행복진흥원,'추석맞이전통시장장보기행사'...온누리상품권으로...",
+  "대구광역시,추석연휴문화행사다채...정선특별전·앤디워홀·샤갈...",
+  "전남광주통합소방본부,추석앞두고전통시장등29곳화재안전점검",
+  "트럼프일가,AI속도조절론틈타거액투자…반도체·데이터센터베팅",
+  "캐나다주정부,'총격사건위험방관'오픈AI상대로美서소송",
+  "[글로벌마켓리포트9월22일]"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-09-22T09:06:14.388486+09:00",
    "참석한 위원장 국무회의 김종철"
+  ],
+  [
+   "2026-09-22T09:08:16.026086+09:00",
+   ""
   ]
  ],
- "last_run": "2026-09-22T09:06:40.052749+09:00",
+ "last_run": "2026-09-22T09:08:41.026805+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
