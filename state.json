@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsdream.kr/news/articleView.html?idxno=118694",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=208698",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241771",
-  "https://www.kukinews.com/article/view/kuk202609220038",
   "https://www.fetv.co.kr/news/articleView.html?idxno=310625",
   "https://www.yna.co.kr/view/AKR20260922030751003?input=1195m",
   "https://www.chosun.com/economy/tech_it/2026/09/22/DFSURHI2Z5DF3CDESKQE2X2IWU/",
@@ -2999,13 +2995,13 @@
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=375868",
   "https://www.maniareport.com/view.php?ud=20260923054221876691b55a0d56_19",
   "https://www.yna.co.kr/view/AKR20260922016300007?input=1195m",
-  "https://www.yna.co.kr/view/AKR20260922016600007?input=1195m"
+  "https://www.yna.co.kr/view/AKR20260922016600007?input=1195m",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609220942438020076",
+  "https://www.mk.co.kr/article/12159926",
+  "https://biz.sbs.co.kr/article_hub/20000336370?division=NAVER",
+  "https://www.newspim.com/news/view/20260922000993"
  ],
  "seen_titles": [
-  "SKT,KISTI와'디지털트윈'양자암호통신망기술개발",
-  "가상에서망깔아본다…SKT-KISTI,양자암호통신'디지털트윈'개발",
-  "SKT,고객과함께기업신뢰지표만든다…경험기반관리체계마련",
-  "KT,'모두의AI'컨소시엄한자리에…모델보다'연결'먼저푼다",
   "LG엔솔,엔비디아AI팩토리합류…국내배터리사중유일",
   "LG엔솔,엔비디아차세대AI팩토리생태계합류",
   "LG,엔비디아AI팩토리·MS데이터센터등빅테크와글로벌협력(종합)",
@@ -6001,7 +5997,11 @@
   "[게임노트]2026년9월22일ㆍ'힐리어드38호홈런'kt,3연승미소…홈...",
   "이강철감독,타점능력공개디스한힐리어드MVP되면어쩔거요?…오...",
   "◇오늘의경기(23일)",
-  "◇내일의경기(24·25·26·27일)"
+  "◇내일의경기(24·25·26·27일)",
+  "[타보니]7000만원대플래그십전기세단…승차감으로승부",
+  "“맨날안좋단이야기만들었는데”…하반기주요자산수익률‘슬쩍’...",
+  "[외신헤드라인]트럼프·시진핑만찬에거물CEO들집결",
+  "플랙트앞세운삼성,엔비디아뚫은LG…AI냉각경쟁본격화"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,17 @@
   [
    "2026-09-23T06:20:58.509120+09:00",
    "발언에도 나스닥 연준 이틀째 샌디스 매파 최고치"
+  ],
+  [
+   "2026-09-23T06:30:28.888062+09:00",
+   "트럼프 CEO들 거물 시진핑 집결 만찬에"
+  ],
+  [
+   "2026-09-23T06:30:28.888062+09:00",
+   "뚫은 LG 본격화 냉각 앞세운 경쟁 삼성 플랙트"
   ]
  ],
- "last_run": "2026-09-23T06:28:35.655031+09:00",
+ "last_run": "2026-09-23T06:30:49.914782+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
