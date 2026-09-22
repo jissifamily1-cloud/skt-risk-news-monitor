@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.dealsitetv.com/articles/176067",
-  "https://kpenews.com/View.aspx?No=4230022",
-  "http://www.metroseoul.co.kr/article/20260916500267",
-  "https://www.fnnews.com/news/202609161210573276",
-  "https://www.gokorea.kr/news/articleView.html?idxno=878669",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=6530",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=124600",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=487623",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609161032134610272",
   "https://www.seoultimes.news/news/article.html?no=2000099954",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724492",
@@ -2999,17 +2991,17 @@
   "http://www.finomy.com/news/articleView.html?idxno=262115",
   "https://www.ajunews.com/view/20260922150836387",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4436144",
-  "https://www.mt.co.kr/world/2026/09/22/2026092214590922876"
+  "https://www.mt.co.kr/world/2026/09/22/2026092214590922876",
+  "https://zdnet.co.kr/view/?no=20260922142034",
+  "http://www.finomy.com/news/articleView.html?idxno=262149",
+  "https://www.etnews.com/20260922000402",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=95845",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3076300",
+  "https://www.mt.co.kr/tech/2026/09/22/2026092215155422017",
+  "https://www.m-i.kr/news/articleView.html?idxno=1417513",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867583"
  ],
  "seen_titles": [
-  "정재헌SKTCEO,스타트업과AI협업넓힌다···2030년까지500곳육성",
-  "SKT,스타트업협력부터AI클라우드보안까지…AI사업외연넓힌다",
-  "SK텔레콤,2030년까지스타트업500곳키운다···AI협업확대",
-  "'IPO대어'앤트로픽지분쥔SKT,미래에셋證주가흐름재현가능성",
-  "[위클리오늘]이동통신소식_SK텔레콤,KT(9.16)",
-  "SK이노베이션·SKT'WCE2026'서AI시대'통합에너지솔루션'공개·스타...",
-  "정재헌SKTCEO,스타트업대표8명과회동...\"현장고충·협력논의\"",
-  "[재계투데이]SK하이닉스,2026년임단협타결​外",
   "SKT,스타트업기술에AI·인프라접목..정재헌대표협업확대논의",
   "정재헌SK텔레콤CEO,스타트업현장목소리경청",
   "SKT,스타트업과'윈윈'강화…2030년까지500개혁신기업육성",
@@ -6001,7 +5993,15 @@
   "LG유플러스,AI로소상공인장사지원⋯상품수요까지예측",
   "알리바바\"中최강AI칩\"공개…엔비디아에도전장",
   "[정선영의마켓산책]비관론자가필요하다",
-  "美베선트\"AI기업면책No,직접책임\"…中과'AI핫라인'협의"
+  "美베선트\"AI기업면책No,직접책임\"…中과'AI핫라인'협의",
+  "김병수로보티즈대표\"휴머노이드,스마트폰같은만능플랫폼될것\"",
+  "통신3사,CISO급나란히국감행···해킹1년'보안쇄신'검증",
+  "SK텔레콤,고객경험기반으로'신뢰지표'만든다",
+  "구광모號LG,'글로벌AI동맹'광폭행보…엔비디아이어MS맞손[Biz포...",
+  "[포토]LG전자대용량CDU엔비디아AI규격승인",
+  "KISTI·SKT,양자암호통신망구축전디지털트윈기술선보여",
+  "고객이기업신뢰도측정한다…SKT,'2026인사이트데이'개최",
+  "로보틱스,엔비디아옷입은휴머노이드눈길"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,25 @@
   [
    "2026-09-22T15:32:15.315911+09:00",
    "핫라인 AI기업 협의 책임 베선트 직접 면책 No"
+  ],
+  [
+   "2026-09-22T15:34:13.944779+09:00",
+   "양자암호통신망 KISTI 기술 ~SKT 선보여 트윈 구축 디지털"
+  ],
+  [
+   "2026-09-22T15:34:13.944779+09:00",
+   "신뢰 ~SKT 지표 만든다 경험 고객 기반으로"
+  ],
+  [
+   "2026-09-22T15:34:13.944779+09:00",
+   "데이 ~SKT 개최 고객이 기업 신뢰도 측정한다 인사이트"
+  ],
+  [
+   "2026-09-22T15:34:13.944779+09:00",
+   "로보틱스 휴머노이드 입은 눈길"
   ]
  ],
- "last_run": "2026-09-22T15:32:40.494633+09:00",
+ "last_run": "2026-09-22T15:34:46.354380+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
