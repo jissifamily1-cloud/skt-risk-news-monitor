@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20260921/134706429/2",
-  "https://www.g-enews.com/view.php?ud=2026092018092133319a1f309431_1",
   "https://www.g-enews.com/view.php?ud=2026092021391841959a1f309431_1",
   "https://www.chosun.com/economy/tech_it/2026/09/21/VSBVNCISBNDQFCG4BECPPUA25M/",
   "https://www.chosun.com/economy/tech_it/2026/09/21/MXPWKHL25BFQPOGVS7UF2CJA2U/",
@@ -2999,11 +2997,11 @@
   "https://www.chosun.com/economy/tech_it/2026/09/22/3NRWE3YTA5DFXEWZJ5XHMD2KTQ/",
   "https://www.etnews.com/20260914000005",
   "http://www.joseilbo.com/news/news_read.php?uid=576233&class=17",
-  "https://www.munhwa.com/article/11619010"
+  "https://www.munhwa.com/article/11619010",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192372",
+  "https://www.danbinews.com/news/articleView.html?idxno=33752"
  ],
  "seen_titles": [
-  "삼성전자·SK하이닉스,HBM이어SSD도뜬다…북미CSP주문전망상향",
-  "[AIMY뉴스]뉴욕반도체주프리뷰...유가·美국채금리동반하락에...",
   "'KODEX미국반도체ETF'SK하이닉스ADR신규편입",
   "[데스크시각]AI속도조절론뒤,기술패권전쟁론",
   "[홍기빈의미래완료]‘개방’이소유물이되다",
@@ -6001,13 +5999,11 @@
   "메타‘생활밀착AI비서’돌풍...AI위기론도날렸다",
   "[창간기획]미래세대AI생존법은'교육'…73%“개인간격차커질것”",
   "뷰티업계최초…에이피알,AI관리·제품신뢰성국제인증",
-  "오픈AI이어제미나이도외부기관해킹…구글“공개할사안아냐”"
+  "오픈AI이어제미나이도외부기관해킹…구글“공개할사안아냐”",
+  "[WIKI현장]SK하이닉스\"기술로사회문제풀고포용적미래만든다\"…일...",
+  "국회경제대도약위원회"
  ],
  "recent_sigs": [
-  [
-   "2026-09-22T11:14:16.420236+09:00",
-   "출연금의 경로 152억원"
-  ],
   [
    "2026-09-22T11:18:17.570383+09:00",
    "데이터센터 에너지 확대 카카오 효율화"
@@ -6583,9 +6579,17 @@
   [
    "2026-09-22T17:12:15.046644+09:00",
    "외부기관 구글 사안 공개할 이어 아냐 제미나이도"
+  ],
+  [
+   "2026-09-22T17:16:14.893524+09:00",
+   "풀고 포용적 만든다 미래 사회문제 기술로 SK하이닉스"
+  ],
+  [
+   "2026-09-22T17:16:14.893524+09:00",
+   "경제대도약위원회 국회"
   ]
  ],
- "last_run": "2026-09-22T17:14:35.828586+09:00",
+ "last_run": "2026-09-22T17:16:40.597089+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
