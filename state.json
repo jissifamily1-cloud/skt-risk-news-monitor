@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3703704",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3703699",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3703700",
-  "http://www.newstomato.com/ReadNews.aspx?no=1314577&inflow=N",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3703696",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3703678",
-  "https://www.joongdo.co.kr/web/view.php?key=20260922010007291",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277113",
   "https://www.mt.co.kr/industry/2026/09/22/2026092213161695154",
   "https://www.getnews.co.kr/news/articleView.html?idxno=881590",
   "https://www.newsis.com/view/NISX20260922_0003800763",
@@ -2999,17 +2991,17 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215625",
   "https://www.newsway.co.kr/news/view?ud=2026092311112015774",
   "https://www.newsis.com/view/NISX20260923_0003802546",
-  "https://www.dailian.co.kr/news/view/1694262/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1694262/?sc=Naver",
+  "https://www.newspim.com/news/view/20260923001041",
+  "https://www.busan.com/view/busan/view.php?code=2026092316492304185",
+  "https://www.seoul.co.kr/news/society/2026/09/23/20260923500273?wlog_tag3=naver",
+  "https://www.tvreport.co.kr/breaking/article/1077851/",
+  "https://www.newscj.com/news/articleView.html?idxno=3435229",
+  "https://www.donga.com/news/Society/article/all/20260923/134728407/1",
+  "http://www.tvdaily.co.kr/read.php3?aid=17901508801803347002",
+  "https://it.donga.com/109591/"
  ],
  "seen_titles": [
-  "고용노동부진주지청,추석전임금체불청산총력대응",
-  "김제시,네팔대홍수구호에8200만원전달…공무원·시민·지역사...",
-  "[동정]추경호대구광역시장",
-  "AI시대에도통신망규제여전…망중립성·비용분담재설계필요",
-  "대구광역시,23일동대구역서민관합동교통안전캠페인실시",
-  "김제시,새만금신항관할군산결정불복…대법원소송제기",
-  "KT충남지사,예산노인종합복지관찾아쌀기부하고급식봉사활동",
-  "CJ올리브네트웍스기프트카드,역대최대반기실적",
   "AI투자늘자eSSD도'불티'…삼성·SK하이닉스주도권경쟁가속",
   "'전강후약'코스피,2%대까지상승후강보합마감…'7천피'는사수",
   "해킹대응2000배빨라진다…네이버컨소'오퍼스급'보안AI만든다(종...",
@@ -6001,7 +5993,15 @@
   "에임인텔리전스·파일러,엔비디아인셉션'아태톱10'선정",
   "그룹전산실서AI·RX까지…달라진LGCNS의위상",
   "IPTV단독가입막은통신3사…방미통위,4900만원과징금",
-  "KT·SKB·LGU+,IPTV단독상품가입거부…총4900만원과징금"
+  "KT·SKB·LGU+,IPTV단독상품가입거부…총4900만원과징금",
+  "[핌in잠실]\"8경기차도2주만에좁혀졌다\"…6.5G앞서도두산이안심...",
+  "'사망설'쇼트트랙김건우,SNS에새입장문…\"혼란·심려끼쳐죄송\"(종...",
+  "쇼트트랙김건우‘사망설’오보였다…“나도모르는새부고올라와”",
+  "쇼트트랙김건우,사망설직접부인…본인등판→해킹가능성확인중",
+  "가비아고객3000명정보유출…\"검증미흡이원인\"",
+  "부고글가짜였다,쇼트트랙김건우생존신고…휴대폰해킹가능성",
+  "김건우사망설,거짓이었다…가짜뉴스이은'신종해킹'의혹[이슈&톡]",
+  "[생활속IT]\"이문자스미싱일까\"카카오톡보호나라채널사용법"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,17 @@
   [
    "2026-09-23T17:14:15.620137+09:00",
    "파일러 아태 선정 인셉션 에임인텔리전스"
+  ],
+  [
+   "2026-09-23T17:20:25.037146+09:00",
+   "거짓이었다 김건우 신종 사망설 이은 가짜뉴스 의혹"
+  ],
+  [
+   "2026-09-23T17:20:25.037146+09:00",
+   "사용법 문자 채널 스미싱일까 보호나라 카카오톡"
   ]
  ],
- "last_run": "2026-09-23T17:18:31.128170+09:00",
+ "last_run": "2026-09-23T17:20:50.905954+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
