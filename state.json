@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://it.donga.com/109577/",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=320177",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=365996",
-  "https://www.thelec.kr/news/articleView.html?idxno=62657",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=129615",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=505627",
-  "https://biz.sbs.co.kr/article_hub/20000336294?division=NAVER",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267164",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=365998",
   "https://theviewers.co.kr/View.aspx?No=4238663",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=45050",
@@ -2999,17 +2991,17 @@
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318246",
   "https://www.aitimes.com/news/articleView.html?idxno=215596",
   "https://biz.sbs.co.kr/article_hub/20000336560?division=NAVER",
-  "https://www.fnnews.com/news/202609231654017737"
+  "https://www.fnnews.com/news/202609231654017737",
+  "https://kr.aving.net/news/articleView.html?idxno=1814720",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3704864",
+  "https://www.thelec.kr/news/articleView.html?idxno=62736",
+  "https://www.tokenpost.kr/news/breaking/412731",
+  "https://economist.co.kr/article/view/ecn202609220076",
+  "https://www.tfmedia.co.kr/news/article.html?no=207461",
+  "https://www.pressman.kr/news/articleView.html?idxno=103787",
+  "https://www.mk.co.kr/article/12160550"
  ],
  "seen_titles": [
-  "사람과모빌리티,앤시스ASK로V2X검증고도화···'자율주행안전성...",
-  "LG는'투자'ㆍLS는'현장'···AI실용주의구현",
-  "CJ올리브네트웍스,기프트카드상반기취급고전년비33%증가",
-  "메타'뮤즈',챗GPT보다빠른성장세…에이전틱AI비서주효",
-  "[마켓펄스]7000선지켰지만...개인대규모매도에'전강후약'",
-  "[뉴스워커_LG전자]AI서버고집적화에냉각도대용량으로…2.5MWCDU엔비...",
-  "[뉴욕증시전략]메타AI에이전트흥행…나스닥사상최고치",
-  "SKT,양자암호망'구축전'성능검증…디지털트윈기술개발",
   "LG유플러스,소상공인AX솔루션개발…소도몰과협력",
   "[Tech뷰]LG전자액체냉각솔루션,엔비디아규격승인",
   "LG에너지솔루션,엔비디아AI팩토리파트너합류...韓기업유일",
@@ -6001,7 +5993,15 @@
   "'회장님외손자보도'안부끄러운민방…무슨얘기?",
   "앤드리슨호로위츠,대학대안'AI아카데미'출범...젊은창업가육성",
   "[투자노하우]뉴욕증시혼조마감…나스닥또사상최고치경신",
-  "[이동규의언프레임]최고의스펙은인성이다"
+  "[이동규의언프레임]최고의스펙은인성이다",
+  "AI가데이터센터밖으로…딥엑스,CES2027앞두고피지컬AI화두전면...",
+  "여고·등산로돌며여성앞음란행위…50대남성검거",
+  "ABB,AI데이터센터용통합DC솔루션출시",
+  "호주AI기업퍼머스,100억달러부채금융확보",
+  "[CEOAtoZ]신동빈,롯데의멈춰버린'성장시계'다시돌릴승부수는",
+  "[이슈체크]SK텔레콤‘가짜일감’탈세사건,심판청구‘패’…이재명...",
+  "AI시대통신망의재발견…SKT,전화·문자에'실행'붙인다",
+  "“SKTAI가직접전화한다”…SKT,모두의AI통화에이전트개발속도"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,25 @@
   [
    "2026-09-23T17:00:35.501936+09:00",
    "최고의 인성이다 스펙은"
+  ],
+  [
+   "2026-09-23T17:04:16.749283+09:00",
+   "롯데의 돌릴 멈춰버린 성장 신동빈 시계 다시 승부수는"
+  ],
+  [
+   "2026-09-23T17:04:16.749283+09:00",
+   "탈세사건 가짜일감 이재명 심판청구 ~SKT"
+  ],
+  [
+   "2026-09-23T17:04:16.749283+09:00",
+   "붙인다 재발견 전화 통신망의 실행 시대 ~SKT 문자에"
+  ],
+  [
+   "2026-09-23T17:04:16.749283+09:00",
+   "통화 모두의 에이전트 속도 ~SKT 전화한다 직접 AI가 개발"
   ]
  ],
- "last_run": "2026-09-23T17:02:34.565346+09:00",
+ "last_run": "2026-09-23T17:04:43.113559+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
