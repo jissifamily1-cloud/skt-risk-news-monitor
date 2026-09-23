@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000336313?division=NAVER",
-  "https://www.sportsseoul.com/news/read/1637091",
-  "https://www.imaeil.com/page/view/2026092217043694391",
-  "https://www.aitimes.com/news/articleView.html?idxno=215572",
-  "https://www.sedaily.com/article/20094022",
-  "https://www.khan.co.kr/article/202609221714001",
-  "https://www.hankookilbo.com/news/article/A2026092216350002389?did=NA",
-  "https://www.nytimes.com/es/2026/09/22/espanol/negocios/peligros-ia-anthropic-openai.html?partner=naver",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260922010008506",
   "https://kbench.com/?q=node%2F281587",
   "https://www.cnbizm.com/news/articleView.html?idxno=316022",
@@ -2999,17 +2991,17 @@
   "http://www.kjdaily.com/article.php?aid=1790154092687587276",
   "http://www.newsian.co.kr/news/articleView.html?idxno=95935",
   "https://www.starnewskorea.com/business-life/2026/09/23/2026092318124758037",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3704994"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3704994",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553565280",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20260924.22012008293",
+  "https://www.tokenpost.kr/news/ai/412775",
+  "https://mhnse.com/news/articleView.html?idxno=1558719",
+  "https://imnews.imbc.com/news/2026/world/article/6853816_36925.html",
+  "https://zdnet.co.kr/view/?no=20260923161839",
+  "http://www.sisacast.kr/news/articleView.html?idxno=100415",
+  "https://www.ytn.co.kr/_ln/0102_202609231820018585"
  ],
  "seen_titles": [
-  "카카오게임즈개인정보유출243명으로확대",
-  "국세청사이버공격폭증…올해8개월만에5만5천건,작년의5.8",
-  "OpenAI,캐나다총기난사막을수있었다…브리티시컬럼비아주미국법...",
-  "캐나다BC주,오픈AI고소...\"총격사건전위험신호무시\"",
-  "고금리에…회사채5건중1건‘오버발행’[시그널]",
-  "“내가만든AI가세상해칠까”···번아웃·불안호소하는AI개발자...",
-  "\"미국서학습한AI로한국해킹못막는다\"…'보안특화AI'필요한이유",
-  "ElmundoestáhablandodelospeligrosdelaIA.Esmomentodeactuar",
   "\"보안체계도소버린전환\"…정부·네이버,보안특화AI개발'착수'",
   "성능MAX해진업그레이드사이보그노트북,MSI사이보그15MAXC2WF-C7",
   "현대건설,포항AI데이터센터시공본격착수",
@@ -6001,17 +5993,17 @@
   "삼성전자3.25%·SK하이닉스1.20%↑…주식강세마감",
   "추석연휴증시관전포인트는...미·중정상회담·마이크론실적'촉각...",
   "KT·SKT·LG유플이통3사,추석연휴로밍등각종혜택제공",
-  "한국동서발전,폐현수막이도화지로…울산'초등생환경그림대회'개최"
+  "한국동서발전,폐현수막이도화지로…울산'초등생환경그림대회'개최",
+  "김도영없는KIA,6일만에변우혁카드다시꺼냈다…'5G연속득점지...",
+  "3경기1실점철벽마운드韓,조1위슈퍼라운드행",
+  "GPT-6루나,입력100만토큰0.10달러로인하",
+  "김진,'AI사칭'에법적대응나섰다…\"조직적이고의도적\"[MHN:피드]",
+  "유엔총회서AI목소리내는버넘·마크롱‥트럼프와온도차",
+  "추석연휴D-1…조심해야할사이버위협은",
+  "\"익시오로밍콜부터홈캠Lite까지\"LG유플러스,추석연휴생활밀착형...",
+  "KT,추석맞아영상통화무료...영화·공연할인도"
  ],
  "recent_sigs": [
-  [
-   "2026-09-23T12:24:19.732395+09:00",
-   "서비스 ~KT 경쟁력 잡고 주도권 강화 비즈니스 대국민"
-  ],
-  [
-   "2026-09-23T12:24:19.732395+09:00",
-   "투자 110억달러 발행 채권 소프트뱅크"
-  ],
   [
    "2026-09-23T12:36:17.373605+09:00",
    "실증 ~KT 심었다 유비쿼스 KT와 광통신 장비에 상용망"
@@ -6455,9 +6447,13 @@
   [
    "2026-09-23T18:14:15.214512+09:00",
    "외식 로밍부터 듬뿍 집콕까지 ~LGU 혜택 LGU 추석맞아 ~SKT"
+  ],
+  [
+   "2026-09-23T18:26:51.172782+09:00",
+   "공연 영상통화 추석 무료 할인도 영화 ~KT 맞아"
   ]
  ],
- "last_run": "2026-09-23T18:24:32.728818+09:00",
+ "last_run": "2026-09-23T18:27:14.593641+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
