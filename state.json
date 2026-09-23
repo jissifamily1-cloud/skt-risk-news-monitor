@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://kbench.com/?q=node%2F281587",
-  "https://www.cnbizm.com/news/articleView.html?idxno=316022",
   "https://www.ajunews.com/view/20260922141726138",
   "http://www.kdfnews.com/news/articleView.html?idxno=188398",
   "https://www.mt.co.kr/industry/2026/09/22/2026092120213538009",
@@ -2999,11 +2997,11 @@
   "https://zdnet.co.kr/view/?no=20260923161839",
   "http://www.sisacast.kr/news/articleView.html?idxno=100415",
   "https://www.ytn.co.kr/_ln/0102_202609231820018585",
-  "https://www.aitimes.com/news/articleView.html?idxno=215572"
+  "https://www.aitimes.com/news/articleView.html?idxno=215572",
+  "http://www.newstomato.com/ReadNews.aspx?no=1314718&inflow=N",
+  "https://news.mtn.co.kr/news-detail/2026092318213194426"
  ],
  "seen_titles": [
-  "성능MAX해진업그레이드사이보그노트북,MSI사이보그15MAXC2WF-C7",
-  "현대건설,포항AI데이터센터시공본격착수",
   "[현장]서울모인피지컬AI…\"휴머노이드,산업빈자리채운다\"",
   "AI,실제현장으로들어간다…로봇작업∙매장운영∙교육에적용",
   "씨라이프사이언스랩,한국오라클과수산물구매AI개발·실증",
@@ -6001,7 +5999,9 @@
   "추석연휴D-1…조심해야할사이버위협은",
   "\"익시오로밍콜부터홈캠Lite까지\"LG유플러스,추석연휴생활밀착형...",
   "KT,추석맞아영상통화무료...영화·공연할인도",
-  "캐나다BC주,오픈AI고소...\"총격사건전위험신호무시\""
+  "캐나다BC주,오픈AI고소...\"총격사건전위험신호무시\"",
+  "IPTV단독상품가입막은통신3사제재…방미통위,4900만원과징금",
+  "IPTV만가입하려했더니제한…SKB·KT·LGU+과징금"
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,13 @@
   [
    "2026-09-23T18:26:51.172782+09:00",
    "공연 영상통화 추석 무료 할인도 영화 ~KT 맞아"
+  ],
+  [
+   "2026-09-23T18:36:13.723767+09:00",
+   "했더니 LGU ~LGU SKB IPTV만 가입하려 ~KT 과징금 제한"
   ]
  ],
- "last_run": "2026-09-23T18:34:31.438520+09:00",
+ "last_run": "2026-09-23T18:36:37.667585+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
