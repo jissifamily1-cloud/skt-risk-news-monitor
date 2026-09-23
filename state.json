@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mtnews.net/news/articleView.html?idxno=26035",
-  "https://www.munhwa.com/article/11618872",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=447779",
-  "https://www.insight.co.kr/news/574753",
-  "https://www.woodkorea.co.kr/news/articleView.html?idxno=91509",
-  "https://www.bloter.net/news/articleView.html?idxno=673823",
-  "http://www.segyebiz.com/newsView/20260916520183?OutUrl=naver",
   "https://www.medipana.com/news/articleView.html?idxno=418122",
   "http://www.dailypop.kr/news/articleView.html?idxno=102099",
   "https://www.newsis.com/view/NISX20260922_0003799990",
@@ -2999,16 +2992,16 @@
   "https://magazine.hankyung.com/business/article/202609232930b",
   "https://www.ajunews.com/view/20260923095505134",
   "https://www.fnnews.com/news/202609230921289062",
-  "https://www.etnews.com/20260923000065"
+  "https://www.etnews.com/20260923000065",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3704314",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489874",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3704316",
+  "https://www.sentv.co.kr/article/view/sentv202609230017",
+  "https://www.yna.co.kr/view/AKR20260923061800009?input=1195m",
+  "http://www.breaknews.com/1238801",
+  "https://view.asiae.co.kr/article/2026091517380138687"
  ],
  "seen_titles": [
-  "개인정보위,통신3사CEO만난다…'개인정보보호'논의",
-  "LG에너지솔루션,엔비디아'DSX레디'파트너합류…북미AI데이터센터...",
-  "하늘선F-22,땅에선‘은둔’영부인이…트럼프,시진핑특급환대",
-  "LG전자주가장중6%대강세,대용량'냉각수분배장치'엔비디아승인...",
-  "\"부가서비스해지하고다음달청구서또보시나요?\"...SKT가측정하는...",
-  "보그헤어,SK텔레콤'10월Tday'참여",
-  "\"약정끝나면문자로안내\"…방미통위,단통법폐지후속시책마련",
   "이통사,요금제유지기간끝나면알림문자…추가지원금도공개",
   "SK케미칼,치매예방캠페인확대…'영식스티'상영관오픈",
   "혼삶,AI에게물어봤다①'3~4끼냉동'하라면서냉장고는미니로…AI의...",
@@ -6001,7 +5994,14 @@
   "“3500만달러베팅”실리콘밸리파격실험",
   "\"젠슨황·나델라가가르친다\"…美거물벤처투자사,'고교졸업생대상...",
   "3개대형IT기업상장가치,지난45년간IPO총합보다클것",
-  "엔코아,오픈AI셀렉트파트너선정...“레디데이터환경구축지원”"
+  "엔코아,오픈AI셀렉트파트너선정...“레디데이터환경구축지원”",
+  "거창아시아영화제-울란바토르시,영화·문화예술교류업무협약체결",
+  "AI데이터센터가통신장비까지흔든다…빛샘전자·우리넷주가'불기등...",
+  "세종시의회,전통시장부터국회까지…'민생·정책'동시행보",
+  "코스피,美기술주랠리에나흘째상승…7100선돌파",
+  "시진핑방미단에中AI기업수장들빠진듯…보호조치가능성",
+  "‘엇갈린대기업명암’..‘무적자’행진VS5년째적자수렁어디?",
+  "'인도진출1세대'어피닛,10년노하우로후배스타트업인도행이끈다"
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,21 @@
   [
    "2026-09-23T10:14:16.301780+09:00",
    "데이터 엔코아 레디 셀렉트 파트너 구축 선정 환경 지원"
+  ],
+  [
+   "2026-09-23T10:16:16.507228+09:00",
+   "5년째 엇갈린 수렁 명암 적자 행진 대기업 어디 VS 무적자"
+  ],
+  [
+   "2026-09-23T10:16:16.507228+09:00",
+   "인도 어피닛 1세대 진출 스타트업 노하우로 후배 10년 인도행 이끈다"
+  ],
+  [
+   "2026-09-23T10:16:16.507228+09:00",
+   "조치 가능성 방미단에 수장들 보호 AI기업 빠진 시진핑"
   ]
  ],
- "last_run": "2026-09-23T10:14:52.775042+09:00",
+ "last_run": "2026-09-23T10:16:39.529794+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
