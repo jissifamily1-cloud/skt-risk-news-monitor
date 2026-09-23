@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=721732",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2303057",
-  "https://view.asiae.co.kr/article/2026092214585653536",
-  "https://view.asiae.co.kr/article/2026092211480450812",
   "https://www.kgnews.co.kr/news/article.html?no=912704",
   "https://www.cstimes.com/news/articleView.html?idxno=721722",
   "https://www.newspim.com/news/view/20260922000936",
@@ -2999,13 +2995,13 @@
   "https://www.datanet.co.kr/news/articleView.html?idxno=214690",
   "https://www.mk.co.kr/article/12160297",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490037",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473856"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2473856",
+  "https://www.tokenpost.kr/news/ai/412667",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366052",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702762",
+  "https://www.irobotnews.com/news/articleView.html?idxno=48655"
  ],
  "seen_titles": [
-  "KT·NIA,AI역량강화맞손…'AICE'글로벌확산나선다",
-  "KT충남지사,예산군노인복지관에쌀600㎏기부",
-  "\"총격범계정위험알고도신고안해\"…캐나다주정부,오픈AI제소",
-  "불법사이트운영자32명·66개사이트검거…\"해외서버도무력화\"",
   "LG유플러스·소도몰,유통데이터로소상공인맞춤형솔루션개발",
   "KT,'모두의AI'컨소시엄출범…내달개방형베타서비스선보인다",
   "회의참석하는김종철방미통위위원장과홍석기경찰철국가수사본부...",
@@ -6001,7 +5997,11 @@
   "ABB,직류솔루션'인피니투스'출시···AIDC전력수요대응",
   "바쁜트럼프자산운용가들…7월한달간1152건거래해",
   "티빙,'제로트러스트'기반보안체계재구축…AI관제시스템도입",
-  "행복나래,사회적가치페스타서'10년동행'조명"
+  "행복나래,사회적가치페스타서'10년동행'조명",
+  "영국기업19%초급채용줄였다…AI가바꾸는신입훈련",
+  "와디즈,AI모니터링으로펀딩공개속도단축...\"하루만에출시\"",
+  "세일즈포스CEO\"오픈AI대신앤트로픽투자?…수백억달러수익낼것\"",
+  "엔비디아,'아이작ROS5.0'공개…AI에이전트가로봇개발에직접참여"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,17 @@
   [
    "2026-09-23T14:26:16.330851+09:00",
    "직접 젠슨 황이 등록금 실리콘밸리가 0원 만든 작정하고 수업은"
+  ],
+  [
+   "2026-09-23T14:34:14.328061+09:00",
+   "투자 CEO 대신 수익 수백억달러 세일즈포스 앤트로픽"
+  ],
+  [
+   "2026-09-23T14:34:14.328061+09:00",
+   "공개 에이전트가 아이작 직접 참여 ROS 로봇 개발에"
   ]
  ],
- "last_run": "2026-09-23T14:32:31.091971+09:00",
+ "last_run": "2026-09-23T14:34:40.752934+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
