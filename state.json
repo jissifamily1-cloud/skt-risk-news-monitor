@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6295639",
-  "https://www.venturesquare.net/1115306/",
-  "https://biz.sbs.co.kr/article_hub/20000335770?division=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=01603926645582416&mediaCodeNo=257",
-  "https://www.seoul.co.kr/news/editOpinion/column/journalist-viewpoint/2026/09/21/20260921027004?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/editOpinion/opinion/hongkibin/2026/09/21/20260921026002?wlog_tag3=naver",
-  "https://www.etoday.co.kr/news/view/2627626",
   "https://www.etoday.co.kr/news/view/2627624",
   "https://www.donga.com/news/Economy/article/all/20260921/134706429/2",
   "https://www.g-enews.com/view.php?ud=2026092018092133319a1f309431_1",
@@ -2999,16 +2992,16 @@
   "https://dealsite.co.kr/articles/169345",
   "https://www.newsis.com/view/NISX20260923_0003802530",
   "https://www.chosun.com/national/welfare-medical/2026/09/24/5EYLVFI6IRH2LEV7VLMJ3T7TJ4/",
-  "http://www.srtimes.kr/news/articleView.html?idxno=213134"
+  "http://www.srtimes.kr/news/articleView.html?idxno=213134",
+  "https://www.bntnews.co.kr/article/view/bnt202609240043",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=311874",
+  "https://www.newspim.com/news/view/20260923000555",
+  "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html?partner=naver",
+  "https://www.thebigdata.co.kr/view.php?ud=2026092215455035140a47484cf8_23",
+  "http://www.inews24.com/view/2008844",
+  "https://www.edaily.co.kr/News/Read?newsId=01784326645583400&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "빅테크'현금고갈?'28년까지투자'실탄'충분…삼전닉스'미소'",
-  "“속도늦추자”면서데이터센터는확대…AI기업들의엇갈린셈법",
-  "[증시전략]미·중정상회담,시진핑건강이변수…AI모멘텀은?",
-  "생성형AI다음전장은로봇…오픈AI·구글·앤스로픽각축",
-  "[데스크시각]AI속도조절론뒤,기술패권전쟁론",
-  "[홍기빈의미래완료]‘개방’이소유물이되다",
-  "증거없는경고인가,무시못할재앙인가…AI종말론의진실[AI아포칼...",
   "총든로봇없어도⋯인류위협할AI의세가지얼굴[AI아포칼립스대...",
   "[단독]‘엔비디아천하’AI칩,국산상용화첫발…“의존낮출선택지...",
   "AI發‘인류멸망론’에업계내부반론…“당장위험부터봐야”",
@@ -6001,7 +5994,14 @@
   "KT,5년간5G단독모드선점…소비자용상품개발해야",
   "다시'구천피'갈수있나…증권가\"빅이벤트후랠리기대\"[추석이후...",
   "[단독]환자병명·CT영상까지…의료기관해킹,5년새6배로급증",
-  "[추석기획]AI로쇄신나선이통3사…'승부'어디서갈리나"
+  "[추석기획]AI로쇄신나선이통3사…'승부'어디서갈리나",
+  "이븐이정현,‘탑스타견우와직녀’로연기데뷔",
+  "[추석없는미국주식(중)]M7?,우주·보안·양자도있다",
+  "'배송불가''과태료미납'문자조심…은행권,추석'금융사기주의보...",
+  "America’sA.I.LeadersWarnU.N.ofPossiblePerilAbsentaGlobalResp",
+  "\"추석안부는무료영상통화로\"통신3사,명절대응체계가동",
+  "챗GPT광고,배너넘어'대화형'으로⋯오픈AI,후원에이전트시험",
+  "YTN안건서불거진방미통위정족수논란…회피위원도의사정족수포함"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-09-24T08:12:15.125831+09:00",
    "나선 어디서 이통3사 AI로 쇄신 갈리나 승부"
+  ],
+  [
+   "2026-09-24T08:14:16.074188+09:00",
+   "통신 영상통화로 3사 안부는 추석 대응체계 무료 가동 명절"
   ]
  ],
- "last_run": "2026-09-24T08:12:36.326327+09:00",
+ "last_run": "2026-09-24T08:14:33.930922+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
