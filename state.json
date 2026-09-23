@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260917112518",
-  "https://www.kpinews.kr/newsView/1065577156765715",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701223",
-  "https://zdnet.co.kr/view/?no=20260917092340",
-  "https://www.newspim.com/news/view/20260917000105",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701183",
   "https://www.tokenpost.kr/news/ai/409326",
   "https://www.tokenpost.kr/news/ai/409320",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20260924009500071?input=1195m",
   "https://www.moneystorm.kr/news/articleView.html?idxno=6762",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171679",
-  "https://biz.heraldcorp.com/article/10883586"
+  "https://biz.heraldcorp.com/article/10883586",
+  "https://www.news1.kr/sports/general-sport/6300756",
+  "https://www.newspim.com/news/view/20260923001129",
+  "https://www.newspim.com/news/view/20260923001134",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8670853",
+  "https://www.ytn.co.kr/_ln/0104_202609240629226563"
  ],
  "seen_titles": [
-  "[AI는지금]속도조절론꺼낸샘알트먼,곧바로신제품예고…GPT-5.5는...",
-  "[노성열의AI경제]AI속도조절가로막는미·중패권전쟁",
-  "앤트로픽과오픈AI,안전평가자사내상주추진…그런데개발중단권...",
-  "[AI는지금]미군AI활용전방위확대…美의회,통제·의존위험경고",
-  "[개장시황]코스피1%대상승…미FOMC소화하며6780선회복",
   "오픈AI·엔비디아수장집결…미·중정상만찬서AI화두오를까",
   "세일즈포스,2030년매출85조원목표제시",
   "AI사고도제조물책임?베니오프,기업자율안전촉구",
@@ -6001,7 +5996,12 @@
   "해커조직\"FBI요원수천명신상정보해킹\"…FBI\"철저수사중\"",
   "[글로벌마켓뷰]뉴욕증시,금리5.1%돌파에일제히하락…반도체주도...",
   "나스닥100'하락'...엔비디아·AMD·마이크론·인텔'뚝'",
-  "“바보야,문제는토큰이야”…엔비디아가찾은‘토크노믹스’시대해..."
+  "“바보야,문제는토큰이야”…엔비디아가찾은‘토크노믹스’시대해...",
+  "모레노호데뷔전부터프로야구순위싸움까지…한가위스포츠도'풍성'",
+  "[핌in수원]이틀연속홈런포NC천재환,연패탈출공신'우뚝'…주전까...",
+  "[현장포커스]뜨거운공격,차가운수비…두산이풀어야할'안재석딜...",
+  "올트먼“위험0.1%도용납안돼…통제증명못한AI훈련말아야”",
+  "오픈AI·앤트로픽등AI리더,유엔안보리회의총출동"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,13 @@
   [
    "2026-09-24T06:42:15.600561+09:00",
    "토큰이야 토크노믹스 시대 찾은 바보야 문제는 엔비디아가"
+  ],
+  [
+   "2026-09-24T06:46:16.962480+09:00",
+   "유엔 안보리 총출동 리더 회의 앤트로픽"
   ]
  ],
- "last_run": "2026-09-24T06:44:28.543991+09:00",
+ "last_run": "2026-09-24T06:46:34.338987+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
