@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026092209495074417",
-  "https://www.sentv.co.kr/article/view/sentv202609220086",
-  "http://www.newsprime.co.kr/news/article.html?no=748681",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=122287",
-  "https://hbnpress.com/news/view/1065577285781331",
-  "http://www.queen.co.kr/news/articleView.html?idxno=463777",
-  "https://www.smartbizn.com/news/articleView.html?idxno=154594",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253281",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407268",
   "http://www.newslock.co.kr/news/articleView.html?idxno=136764",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267124",
   "https://www.yna.co.kr/view/AKR20260922069200009?input=1195m",
@@ -2999,18 +2990,18 @@
   "https://www.newspost.kr/news/articleView.html?idxno=225874",
   "https://www.ajunews.com/view/20260923084351885",
   "https://biz.heraldcorp.com/article/10882907",
-  "https://view.asiae.co.kr/article/2026092211014955223"
+  "https://view.asiae.co.kr/article/2026092211014955223",
+  "https://www.sentv.co.kr/article/view/sentv202609230022",
+  "http://www.ibulgyo.com/news/articleView.html?idxno=442562",
+  "http://www.economytalk.kr/news/articleView.html?idxno=424276",
+  "https://view.asiae.co.kr/article/2026092309073849694",
+  "https://www.newsis.com/view/NISX20260923_0003801413",
+  "https://www.sportsworldi.com/newsView/20260923503874",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=157460",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277579",
+  "https://news.mtn.co.kr/news-detail/2026092308593362162"
  ],
  "seen_titles": [
-  "스튜디오수려'아이돌고등학교',숏폼이어국내OTT·IPTV로유통확대",
-  "아이디스파워텔,자율방범대행사에LTE무전기지원…\"음영지역없이...",
-  "“신뢰기준고객이정한다”…SKT,고객행동기반지표만든다",
-  "SKT,양자암호통신망'디지털트윈'기술개발",
-  "SKT-KISTI,양자암호통신망디지털트윈기술개발",
-  "양자암호망구축전에성능검증...SKT·KISTI,디지털트윈기술개발",
-  "LG,MS와파트너십·엔비디아승인'호재'...글로벌빅테크와AI생태계...",
-  "LG유플러스,소상공인AX에수요예측추가",
-  "KT-NIA,개도국AI교육확산위해'맞손'",
   "KT,16개기업과'모두의AI'본격화…10월베타서비스공개",
   "KT,'모두의AI'컨소시엄출범...16개사와서비스개발협력",
   "KT,'모두의AI'띄우고해외교육까지…AI생태계확장",
@@ -6001,7 +5992,16 @@
   "[노태우家재단자금추적]숫자도주소도엇갈렸다…동아시아문화센터...",
   "코트라,북미수출·투자다변화…AI·공급망·K컬처공략",
   "“서울대·엔비디아,피지컬AI공동과제구체화…조만간공모”[미리...",
-  "카카오페이4000만명정보알리페이로…“단순위탁”주장깨고과징금..."
+  "카카오페이4000만명정보알리페이로…“단순위탁”주장깨고과징금...",
+  "티빙,‘제로트러스트’기반보안강화…AI위협탐지확대",
+  "사랑에빠지면내가'나같지않아서'좋아",
+  "[추석특집]추석앞둔금융권,나눔부터103조자금지원까지…상생행...",
+  "기보,주금공과개인정보보호체계강화'맞손'",
+  "3954만계정유출티빙,'제로트러스트'로보안체계재구축",
+  "티빙,고객정보보호총력…‘제로트러스트’기반보안체계재구축",
+  "\"떠나거나,머물거나\"…LG유플러스,추석연휴맞춤형서비스총정리",
+  "행복나래,사회적가치페스타참가'10년협력'성과공유",
+  "호주서해킹..갑자기차가'제멋대로'[여의도Pick!]"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,17 @@
   [
    "2026-09-23T09:12:16.586825+09:00",
    "알리페이로 정보 카카오페이 위탁 단순 깨고 주장 과징금 4000만명"
+  ],
+  [
+   "2026-09-23T09:14:15.488878+09:00",
+   "협력 10년 행복나래 참가 페스타 공유 성과 사회적가치"
+  ],
+  [
+   "2026-09-23T09:14:15.488878+09:00",
+   "호주서 제멋대로 갑자기 차가"
   ]
  ],
- "last_run": "2026-09-23T09:12:39.237205+09:00",
+ "last_run": "2026-09-23T09:14:36.205231+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
