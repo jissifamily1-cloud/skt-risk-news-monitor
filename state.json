@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.cpbc.co.kr/article/1175787?division=NAVER",
-  "https://www.newsis.com/view/NISX20260915_0003790295",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=607071",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260915010005803",
   "https://www.mk.co.kr/article/12153332",
   "https://www.youthdaily.co.kr/news/article.html?no=227133",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/News/Read?newsId=01784326645583400&mediaCodeNo=257",
   "https://www.dailysecu.com/news/articleView.html?idxno=208595",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702909",
-  "https://zdnet.co.kr/view/?no=20260924075238"
+  "https://zdnet.co.kr/view/?no=20260924075238",
+  "https://www.hankookilbo.com/news/article/A2026092407550004932?did=NA",
+  "https://www.seoulfn.com/news/articleView.html?idxno=638702",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53232"
  ],
  "seen_titles": [
-  "[시사천국]허준영\"환율·유가·미국채금리변수…반도체꺾이면세수...",
-  "\"코스피내년하반기에1만2000포인트\"…전문가의자신있는전망,근거는...",
-  "유가폭등·美금리상승여파…원/달러환율1,360원뚫은트리플악재",
   "“재도약만들겠다”던전영현…2년뒤삼성반도체의현주소",
   "8000선도힘들어보이는데…박스권갇힌코스피,증권가는“그래도더...",
   "\"금리·유가에투심위축\"…코스피4거래일연속'하락'·환율1천360원선...",
@@ -6001,7 +5998,10 @@
   "YTN안건서불거진방미통위정족수논란…회피위원도의사정족수포함",
   "F5BIG-IPAPM제로데이실제공격…인증없이원격코드실행",
   "마이크로소프트,디펜더에SOC통합...\"AI에이전트시대,보호·운영함...",
-  "美통신사,AI교육에1000억원쏜다...구글·MS·오픈AI도참여"
+  "美통신사,AI교육에1000억원쏜다...구글·MS·오픈AI도참여",
+  "트럼프,파격적공항영접...시진핑어깨툭치며친근감",
+  "[뉴욕증시]금리발작·유가껑충'곤두박질',반도체꺾여···아이온큐...",
+  "미국국채금리급등…SK하이닉스ADR3.1%↓"
  ],
  "recent_sigs": [
   [
@@ -6289,7 +6289,7 @@
    "오픈AI도 MS 참여 쏜다 1000억원 교육에 구글"
   ]
  ],
- "last_run": "2026-09-24T08:20:41.978843+09:00",
+ "last_run": "2026-09-24T08:22:35.784929+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
