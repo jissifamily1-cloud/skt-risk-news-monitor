@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=879384",
-  "http://journal.kobeta.com/?post_type=post&p=63929",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=702331",
-  "https://www.fnnews.com/news/202609221044550832",
-  "https://www.ddaily.co.kr/page/view/2026092210443029628",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1183240",
-  "https://www.newspim.com/news/view/20260922000482",
-  "https://www.ddaily.co.kr/page/view/2026092210420257717",
   "http://www.intn.co.kr/news/articleView.html?idxno=2053570",
   "https://www.fnnews.com/news/202609221026346320",
   "https://www.m-i.kr/news/articleView.html?idxno=1417259",
@@ -2999,17 +2991,17 @@
   "https://www.straightnews.co.kr/news/articleView.html?idxno=311864",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=311752",
   "https://www.wikitree.co.kr/articles/1161529",
-  "https://www.etoday.co.kr/news/view/2628895"
+  "https://www.etoday.co.kr/news/view/2628895",
+  "https://biz.heraldcorp.com/article/10882826",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725467",
+  "https://www.ngonews.kr/news/articleView.html?idxno=239091",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117268",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=489819",
+  "https://www.youthdaily.co.kr/news/article.html?no=227542",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=88899",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=245964"
  ],
  "seen_titles": [
-  "[더벨][신규ETF리뷰|RISE삼성SK그룹]KB운용,'같은듯다른'삼성-...",
-  "국내체류외국인늘자취업·통신·금융서비스확대...정착지원플랫...",
-  "[기고]IBC2026참관기…포노사피엔스시대,지상파방송기술이나아갈...",
-  "유선이무선보다무조건빠르다?…가정용인터넷선택법",
-  "ETRI,AI교통영상분석국제대회1·2위쾌거",
-  "알리아가필드AICEO“블랙박스AI아닌설명하는휴머노이드필요”",
-  "LG전자주가,웃음꽃...전망은?",
-  "덱스터,이엠텍아이엔씨와AI인프라시장진출업무협약체결",
   "아이티센피엔에스,PQC전환사업본격화…암호모듈KCMVP인증확보",
   "GA11개사금융보안원신규가입",
   "카카오게임즈개인정보유출103명추가확인…누적243명",
@@ -6001,7 +5993,15 @@
   "코스피,추석명절앞두고관망세전망",
   "[종목이보영]네이버,AI·금융신사업시험대올라",
   "나스닥또역사적최고가터졌는데…내종목만파란불켜진진짜'이유...",
-  "AI가추천한추석선물2위는‘정관장’…1위는?"
+  "AI가추천한추석선물2위는‘정관장’…1위는?",
+  "LGU+,추석연휴고객혜택확대…로밍·홈캠·구독할인",
+  "[Telecom&Now]LGU+,추석연휴'맞춤형혜택'총출동…여행부터집콕까...",
+  "LG유플러스,추석연휴맞아여행·빈집·집콕서비스·혜택운영",
+  "LG유플러스,추석연휴맞춤형서비스강화…로밍부터홈보안까지",
+  "LG유플러스,추석연휴로밍·홈캠·구독혜택확대",
+  "고려아연·KT&G등7곳,106분기\"연속흑자\"…LG엔솔은20분기째'적자'",
+  "LG유플러스,한가위연휴맞춤형서비스·스마트솔루션총집결",
+  "출연연해킹73%폭증…서버10대중9대'백신미설치'"
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,17 @@
   [
    "2026-09-23T09:00:39.241072+09:00",
    "AI가 추석선물 정관장 2위는 1위는 추천한"
+  ],
+  [
+   "2026-09-23T09:02:14.517167+09:00",
+   "연휴 솔루션 맞춤형 서비스 LG유플러스 총집결 ~LGU 한가위 스마트"
+  ],
+  [
+   "2026-09-23T09:02:14.517167+09:00",
+   "백신 9대 서버 미설치 10대 출연연 폭증"
   ]
  ],
- "last_run": "2026-09-23T09:01:00.639794+09:00",
+ "last_run": "2026-09-23T09:02:40.674245+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
