@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000336357?division=NAVER",
-  "https://www.yna.co.kr/view/AKR20260923004300091?input=1195m",
-  "https://www.dailian.co.kr/news/view/1693628/?sc=Naver",
-  "https://www.newspim.com/news/view/20260923000005",
-  "https://www.edaily.co.kr/News/Read?newsId=02017206645583072&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=01797446645583072&mediaCodeNo=257",
-  "https://www.seoul.co.kr/news/economy/industry/2026/09/23/20260923008001?wlog_tag3=naver",
   "https://biz.sbs.co.kr/article_hub/20000336359?division=NAVER",
   "https://www.donga.com/news/Inter/article/all/20260923/134723302/2",
   "https://www.mt.co.kr/world/2026/09/23/2026092219522185130",
@@ -2999,16 +2992,16 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000017129&cp=nv",
   "https://view.asiae.co.kr/article/2026092413530385836",
   "https://www.nytimes.com/2026/09/24/opinion/us-china-summit-ai.html?partner=naver",
-  "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html?partner=naver"
+  "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html?partner=naver",
+  "http://www.00news.co.kr/news/articleView.html?idxno=106777",
+  "https://www.tokenpost.kr/news/tech/413331",
+  "https://www.edaily.co.kr/News/Read?newsId=02109046645583400&mediaCodeNo=257",
+  "https://www.newsis.com/view/NISI20260924_0002248407",
+  "https://www.newsis.com/view/NISX20260924_0003802979",
+  "https://www.hani.co.kr/arti/international/international_general/1279391.html",
+  "https://www.tokenpost.kr/news/ai/413329"
  ],
  "seen_titles": [
-  "트럼프·시진핑만찬에누가오나…거물CEO들집결",
-  "유엔패널\"AI해킹,통제상실경보…국제가드레일시급\"",
-  "오픈AI“美가AI국제질서이끌어야”…트럼프에‘10개국연합’제안",
-  "[미국특징주]애플,신형맥으로MS·엔비디아에도전장…\"AI비용낮춘...",
-  "美·이란대화재개에나스닥이틀연속사상최고[월스트리트in]",
-  "美하원의원“AI·로봇에도세금매겨야…인간대체유인없애야”",
-  "“美가표준주도”“기업이감당해야”…이번엔AI책임론충돌",
   "오픈AI\"美AI국제질서이끌어야\"…‘10개국연합’제안",
   "시진핑맞는트럼프,공항영접에B-2,F-22전략무기도띄운다",
   "트럼프,스텔스기띄워환대…시진핑과'AI·무역담판'주목",
@@ -6001,13 +5994,16 @@
   "한숨돌린삼전닉스투자자들…9월ETF수익률‘반도체싹쓸이’",
   "\"과학자가말했다고다과학인가\"…젠슨황,'AI종말론'정면비판",
   "WhatChinaReallyWantsonA.I.Safety",
-  "DecodingTrump-Xi"
+  "DecodingTrump-Xi",
+  "재계개정상법실현과국가역할론",
+  "앤두릴공급망에대만기업30곳…TSMC식방산수출제안",
+  "“토큰증권멈춰있는자산안되려면,원장간연결·결제허용해야\"",
+  "앨버니즈濠총리\"오픈AI,호주정부웹사이트무단침해…濠,우려스럽...",
+  "앨버니즈濠총리\"오픈AI,濠정부웹사이트무단침해…매우우려스럽고...",
+  "오픈AIAI에이전트,오스트레일리아보건통계시스템해킹…“정부해...",
+  "오픈AI9750억달러도달확률,폴리마켓서63%"
  ],
  "recent_sigs": [
-  [
-   "2026-09-24T08:14:16.074188+09:00",
-   "통신 영상통화로 3사 안부는 추석 대응체계 무료 가동 명절"
-  ],
   [
    "2026-09-24T08:18:15.137027+09:00",
    "오픈AI도 MS 참여 쏜다 1000억원 교육에 구글"
@@ -6215,9 +6211,17 @@
   [
    "2026-09-24T13:52:13.478474+09:00",
    "인간 상실 규제 UN서 통제 경고 앤트로픽 반대"
+  ],
+  [
+   "2026-09-24T14:14:16.527520+09:00",
+   "정부 오스트레일리아 통계 AI에이전트 시스템 보건"
+  ],
+  [
+   "2026-09-24T14:14:16.527520+09:00",
+   "폴리마켓서 확률 도달 9750억달러"
   ]
  ],
- "last_run": "2026-09-24T14:12:30.125914+09:00",
+ "last_run": "2026-09-24T14:14:40.611160+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
