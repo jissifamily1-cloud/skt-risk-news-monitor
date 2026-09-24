@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000336361?division=NAVER",
-  "https://www.yna.co.kr/view/AKR20260923007400091?input=1195m",
   "https://biz.sbs.co.kr/article_hub/20000336357?division=NAVER",
   "https://www.yna.co.kr/view/AKR20260923004300091?input=1195m",
   "https://www.dailian.co.kr/news/view/1693628/?sc=Naver",
@@ -2999,11 +2997,11 @@
   "https://www.itbiznews.com/news/articleView.html?idxno=226002",
   "https://www.aitimes.com/news/articleView.html?idxno=215639",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000017129&cp=nv",
-  "https://view.asiae.co.kr/article/2026092413530385836"
+  "https://view.asiae.co.kr/article/2026092413530385836",
+  "https://www.nytimes.com/2026/09/24/opinion/us-china-summit-ai.html?partner=naver",
+  "https://www.nytimes.com/2026/09/23/world/trump-xi-ai-meeting-iran-un.html?partner=naver"
  ],
  "seen_titles": [
-  "속도늦추자더니…오픈AI-앤트로픽,저가모델맞불",
-  "속도조절외치던앤트로픽·오픈AI,새AI모델로가성비속도전",
   "트럼프·시진핑만찬에누가오나…거물CEO들집결",
   "유엔패널\"AI해킹,통제상실경보…국제가드레일시급\"",
   "오픈AI“美가AI국제질서이끌어야”…트럼프에‘10개국연합’제안",
@@ -6001,7 +5999,9 @@
   "AWS,오픈소스AI에이전트'스트랜즈하네스'발표",
   "알리바바,'큐원-오디오-3.1'공개...최대95%가격파괴",
   "한숨돌린삼전닉스투자자들…9월ETF수익률‘반도체싹쓸이’",
-  "\"과학자가말했다고다과학인가\"…젠슨황,'AI종말론'정면비판"
+  "\"과학자가말했다고다과학인가\"…젠슨황,'AI종말론'정면비판",
+  "WhatChinaReallyWantsonA.I.Safety",
+  "DecodingTrump-Xi"
  ],
  "recent_sigs": [
   [
@@ -6233,7 +6233,7 @@
    "인간 상실 규제 UN서 통제 경고 앤트로픽 반대"
   ]
  ],
- "last_run": "2026-09-24T14:06:32.669738+09:00",
+ "last_run": "2026-09-24T14:08:37.051951+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
