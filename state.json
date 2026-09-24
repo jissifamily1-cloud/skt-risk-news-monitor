@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/world/2026/09/23/2026092219522185130",
-  "https://www.g-enews.com/view.php?ud=2026092220022430659a1f309431_1",
   "https://www.ytn.co.kr/_ln/0104_202609230350049164",
   "https://www.cbci.co.kr/news/articleView.html?idxno=609124",
   "https://www.hankyung.com/article/202609222132i",
@@ -2999,11 +2997,11 @@
   "https://www.hani.co.kr/arti/international/international_general/1279391.html",
   "https://www.tokenpost.kr/news/ai/413329",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490171",
-  "https://www.mt.co.kr/world/2026/09/24/2026092413520770400"
+  "https://www.mt.co.kr/world/2026/09/24/2026092413520770400",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744055",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744048"
  ],
  "seen_titles": [
-  "트럼프,스텔스기띄워환대…시진핑과'AI·무역담판'주목",
-  "AI최전선연구자들번아웃확산…“통제잃었다는불안”",
   "유엔패널\"AI해킹,통제상실경보...국제가드레일시급\"",
   "[기업家]오픈AI②ㅣ안전은더촘촘하게,투자는더거대하게",
   "글로벌자금은美·中가리지않았다[박신영의개장전요것만]",
@@ -6001,7 +5999,9 @@
   "오픈AIAI에이전트,오스트레일리아보건통계시스템해킹…“정부해...",
   "오픈AI9750억달러도달확률,폴리마켓서63%",
   "\"GPU빌려주니1000억매출\"…NHN,AI데이터센터로기업가치재평가",
-  "\"중국발메모리공급확대온다\"…마이클버리,AI·반도체공매도확대"
+  "\"중국발메모리공급확대온다\"…마이클버리,AI·반도체공매도확대",
+  "삼성전자,산업현장통신망구축…로봇운용위한5G기술시험",
+  "기업AI비용낮추기경쟁…오픈AI·앤트로픽'실속형'승부수"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-09-24T14:14:16.527520+09:00",
    "폴리마켓서 확률 도달 9750억달러"
+  ],
+  [
+   "2026-09-24T14:24:15.514239+09:00",
+   "삼성전자 산업현장 5G 운용 로봇 통신망 위한 기술 시험 구축"
+  ],
+  [
+   "2026-09-24T14:24:15.514239+09:00",
+   "실속형 경쟁 승부수 낮추기 비용 앤트로픽 기업"
   ]
  ],
- "last_run": "2026-09-24T14:22:37.061834+09:00",
+ "last_run": "2026-09-24T14:24:43.076960+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
