@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://it.donga.com/108653/",
-  "https://www.forbeskorea.co.kr/news/articleView.html?idxno=401722",
-  "https://www.dt.co.kr/article/12054493",
   "https://www.donga.com/news/Economy/article/all/20260329/133630593/1",
   "https://www.g-enews.com/view.php?ud=202603261734225647fbbec65dfb_1",
   "http://www.jeollailbo.com/news/articleView.html?idxno=795765",
@@ -2999,12 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490146",
   "https://kpenews.com/View.aspx?No=4240889",
   "https://biz.sbs.co.kr/article_hub/20000336631?division=NAVER",
-  "https://n.news.naver.com/mnews/article/077/0007174802"
+  "https://n.news.naver.com/mnews/article/077/0007174802",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3705360",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3705356",
+  "http://www.yonhapnewstv.co.kr/news/MYH20260924102727p0F"
  ],
  "seen_titles": [
-  "단종수순·생산중단까지···벼랑끝에선소비자용메모리,그이유...",
-  "칭기즈칸의역참에서펜타곤의AI까지:전쟁을바꾼정보의속도",
-  "상승세탄앤스로픽,10년복수이룰까",
   "앤스로픽내부문건유출…차세대AI‘클로드미토스’실체드러났다",
   "삼성·SK하이닉스최대고객이백악관입성…HBM·자율주행표준설계권...",
   "AI의전쟁설계",
@@ -6001,7 +5998,10 @@
   "FBI,초청전용가상자산범죄포럼개최…TRM랩스등50여개기관비...",
   "추석에도해외로..재계총수,멕시코·뉴욕·런던서글로벌경영",
   "가상자산'해킹비상'…디센트사고로리플1천만개탈취추정도",
-  "AustraliaOpenAIBreach"
+  "AustraliaOpenAIBreach",
+  "추경호대구광역시장,금호강·낙동강명품하천2800억투입해수변공간...",
+  "대전둔산경찰서,민간경비업체와추석앞두고야간합동순찰",
+  "빅테크수장한자리에…'국빈만찬'에쏠리는눈"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,13 @@
   [
    "2026-09-24T10:28:15.744497+09:00",
    "Breach Australia"
+  ],
+  [
+   "2026-09-24T10:30:27.088965+09:00",
+   "빅테크 한자리에 수장 국빈만찬 쏠리는"
   ]
  ],
- "last_run": "2026-09-24T10:28:33.461300+09:00",
+ "last_run": "2026-09-24T10:30:48.654843+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
