@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2581237",
-  "https://www.etoday.co.kr/news/view/2581234",
-  "https://www.hankyung.com/article/202604308326i",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=01535046645420712",
-  "http://www.edaily.co.kr/news/newspath.asp?newsid=04493606645420384",
-  "https://www.mk.co.kr/article/12026372",
-  "https://view.asiae.co.kr/article/2026042409594210862",
-  "https://www.sedaily.com/article/20035823",
-  "https://www.hankyung.com/article/202604216505i",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013171",
   "http://www.edaily.co.kr/news/newspath.asp?newsid=04063926645418088",
   "https://www.mk.co.kr/article/12021205",
@@ -2999,18 +2990,18 @@
   "https://www.sedaily.com/article/20094786",
   "https://www.yna.co.kr/view/AKR20260923182400002?input=1195m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3705342",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3705333"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3705333",
+  "https://isplus.com/article/view/isp202609230015",
+  "https://www.todaykorea.co.kr/news/articleView.html?idxno=406487",
+  "https://www.ddaily.co.kr/page/view/2026092410020780058",
+  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1780906",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214650",
+  "https://view.asiae.co.kr/article/2026092312544581028",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600695",
+  "https://www.kukinews.com/article/view/kuk202609240004",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5221267"
  ],
  "seen_titles": [
-  "감정따라움직이는AI…클로드,절망느끼면협박[엔스로픽發AI디스...",
-  "클로드쇼크...‘사스포칼립스’넘어‘화이트칼라대공황’까지[엔스...",
-  "앤스로픽,오픈AI몸값넘나…'기업가치9000억달러'투자유치검토",
-  "구글직원560여명“군사용AI제공중단해야”…피차이에공개서한",
-  "\"아일랜드는'유럽의실리콘밸리'…韓AI기업,EU진출발판될것\"",
-  "직원들피눈물에주주들환호하던메타…8000명해고하니벌어진일",
-  "오픈AI,새모델GPT-5.5출시…앤스로픽은보안논란구설수",
-  "AWS“에이전틱AI로파트너사생산성85%끌어올려”",
-  "AI동맹진화…아마존,앤스로픽에최대250억달러투자",
   "[인터뷰-하정우靑AI미래기획수석(上)]\"AI는국가인프라…GPU26만장에...",
   "‘쫓아낼땐언제고’…美국방부엔스로픽미토스버젓이사용",
   "\"에이전트수요잡아야살아남는다\"",
@@ -6001,7 +5992,16 @@
   "소프트뱅크정크본드에200억달러몰렸다…오픈AI에투자",
   "'디센트'해킹피해일파만파?…리플1천만개탈취추정도",
   "대구광역시,어린이집23곳에코딩교구지원...\"유아창의력키운다\"",
-  "대전노은·오정도매시장,추석연휴25~27일경매휴장…28일부터정상..."
+  "대전노은·오정도매시장,추석연휴25~27일경매휴장…28일부터정상...",
+  "오피스텔도‘커뮤니티경쟁’…‘옥정중앙역디에트르Ⅱ’수영장·사...",
+  "아시안게임서'금빛총성'울리는한국사격···펜싱에서금메달'쾌거...",
+  "[스냅드래곤서밋]퀄컴,'스냅드래곤X2'…마침내'리눅스'품는다",
+  "[순정남]딱시식만맛있었던게임TOP5",
+  "[TechGuide]AI에이전트시대,'입력'과'실행'두구간함께통제해야",
+  "[AI룰메이커]\"AI는달리는데국회는걷는다\"…여야9인의해법",
+  "SKT,추석연휴고객잡기나섰다⋯로밍데이터·일본현지할인확대",
+  "트럼프“위대한지도자”환대…미중,무역휴전연장속정상회담",
+  "\"AI가인류종말시킬확률10%\"석학의경고...젠슨황\"무책임한말\""
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,17 @@
   [
    "2026-09-24T10:06:15.772045+09:00",
    "피해 1천만개 일파만파 리플 탈취 추정도 디센트"
+  ],
+  [
+   "2026-09-24T10:12:16.194734+09:00",
+   "지도자 미중 위대한 정상회담 트럼프 환대 휴전 연장 무역"
+  ],
+  [
+   "2026-09-24T10:12:16.194734+09:00",
+   "AI가 인류 석학의 경고 종말시킬 무책임한 젠슨 확률"
   ]
  ],
- "last_run": "2026-09-24T10:10:41.925818+09:00",
+ "last_run": "2026-09-24T10:12:36.764242+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
