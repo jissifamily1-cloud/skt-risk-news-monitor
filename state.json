@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=674119",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318218",
   "https://www.edaily.co.kr/News/Read?newsId=02824086645582416&mediaCodeNo=257",
   "https://biz.chosun.com/it-science/ict/2026/09/21/4UMMPB77PBGKBGNRNQKFHMK5Z4/",
@@ -2999,10 +2998,10 @@
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270160&CMPT_CD=P0010",
   "https://www.newsis.com/view/NISX20260921_0003799072",
   "https://www.etnews.com/20260924000029",
-  "https://www.aitimes.com/news/articleView.html?idxno=215544"
+  "https://www.aitimes.com/news/articleView.html?idxno=215544",
+  "https://www.nytimes.com/2026/09/23/technology/openai-ai-breach-australia.html?partner=naver"
  ],
  "seen_titles": [
-  "연이은개인정보유출에…조경태\"본인확인정보1년유효기간도입해야...",
   "'구글불법촬영물피해자정보유출',기관마다기준달라피해규모제...",
   "[인터뷰]\"한국,개발자세계1위…자선아닌구글의'핵심비즈니스'\"",
   "윌슨화이트구글부사장“플레이수수료개편조기시행,방미통위와...",
@@ -6001,7 +6000,8 @@
   "한일전앞둔야구대표팀,'도하참사'재현막으려면",
   "[오늘의주요일정]과기정통부·방미통위·개보위(9월22일화요일)",
   "[스냅드래곤서밋]퀄컴AIPC용스냅드래곤생태계확장…“리눅스공식...",
-  "AI시대에맞는리서치란…오픈서베이,'합성소비자'로데이터장벽허..."
+  "AI시대에맞는리서치란…오픈서베이,'합성소비자'로데이터장벽허...",
+  "OpenAI’sA.I.TriedBreaching4OtherTargets,WithoutPrompting"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,13 @@
   [
    "2026-09-24T11:20:23.035210+09:00",
    "게시 나노랩스 프로젝트 가짜 창업자 계정"
+  ],
+  [
+   "2026-09-24T11:34:16.321289+09:00",
+   "Without Other Prompting Breaching Targets Tried"
   ]
  ],
- "last_run": "2026-09-24T11:32:29.807860+09:00",
+ "last_run": "2026-09-24T11:34:33.733470+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
