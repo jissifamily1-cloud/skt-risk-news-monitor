@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20260923510555?OutUrl=naver",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=867941",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3705111",
   "https://www.newspim.com/news/view/20260923001111",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=867947",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065615734880841",
@@ -2999,12 +2996,12 @@
   "https://www.g-enews.com/view.php?ud=20260926065341645e250e8e188_1",
   "http://www.joseilbo.com/news/news_read.php?uid=576349&class=53",
   "https://www.newscj.com/news/articleView.html?idxno=3435631",
-  "https://www.donga.com/news/Economy/article/all/20260923/134726638/1"
+  "https://www.donga.com/news/Economy/article/all/20260923/134726638/1",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214707",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241839",
+  "https://www.seoul.co.kr/news/economy/2026/09/23/20260923500313?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "[MD포토]김휘집'도망가는솔로포야'",
-  "[포토]김휘집,연패탈출원하는솔로포",
-  "[MD포토]김휘집'홈런이야.오늘은연패끊자'",
   "[포토]김휘집,기분좋은솔로홈런포",
   "[MD포토]박민우'김휘집홈런축하해'",
   "[포토]김휘집솔로포,오늘은우리가이긴다",
@@ -6001,7 +5998,10 @@
   "오픈AI'악성에이전트'연쇄탈출…보안통제불능인가'발칵'",
   "뉴욕증시,국채금리부담뚫고상승…SOXL3.5%↑·피플11%↑",
   "[미중정상회담]화려했던시진핑방미마무리…미중빅딜은없었다",
-  "‘감속’외치던앤스로픽의역설…2조달러IPO등AI‘쩐의전쟁’격..."
+  "‘감속’외치던앤스로픽의역설…2조달러IPO등AI‘쩐의전쟁’격...",
+  "[NOW2027AI계정·권한관리및통제①]제로트러스트원칙필수",
+  "선박도사이버공격표적…바다위보안공백메우는기업들",
+  "[단독]‘해킹후24시간내신고’의무에도…264건‘늑장신고’"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,13 @@
   [
    "2026-09-26T07:04:16.921565+09:00",
    "달러 외치던 전쟁 감속 역설 2조 IPO 앤스로픽의 쩐의"
+  ],
+  [
+   "2026-09-26T07:08:16.664888+09:00",
+   "24시간 의무에도 늑장 264건 신고"
   ]
  ],
- "last_run": "2026-09-26T07:06:30.507639+09:00",
+ "last_run": "2026-09-26T07:08:33.535034+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
