@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026092309090004253?did=NA",
-  "https://biz.heraldcorp.com/article/10883635",
   "https://www.hankookilbo.com/news/article/A2026092309090003277?did=NA",
   "https://www.dongascience.com/news/view/80055",
   "https://www.newspost.kr/news/articleView.html?idxno=225864",
@@ -2999,11 +2997,11 @@
   "https://www.fnnews.com/news/202609251438350320",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54164",
   "https://www.edaily.co.kr/News/Read?newsId=01977846645583728&mediaCodeNo=257",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260923185727yqQ"
+  "http://www.yonhapnewstv.co.kr/news/MYH20260923185727yqQ",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725661",
+  "https://www.kbmaeil.com/article/20260925500081"
  ],
  "seen_titles": [
-  "[데일리픽]XRP1000달러초강세론확산…오픈AI·앤트로픽·xAI신모델출...",
-  "문샷·딥시크,유엔서오픈AI·앤트로픽만난다",
   "시진핑11년만美국빈방문…'AI수장'들동행자명단에없어",
   "트럼프의시진핑역대급환대,그치밀한연출…하늘엔스텔스전략전투...",
   "유엔서\"AI통제\"요구한각국정상들...트럼프,완강한거부",
@@ -6001,7 +5999,9 @@
   "韓기업인들'플랜멕시코'동참…SK백신·LG전장투자확대",
   "오픈AI,'GPT-6Cyber'곧사전공개",
   "靑“FTA가우리선호지만멕시코준비안돼”…USMCA협상에달렸다",
-  "[CEO풍향계]'반도체역량강화'최태원…'AI속도전'구자은"
+  "[CEO풍향계]'반도체역량강화'최태원…'AI속도전'구자은",
+  "클로드,국내AI앱사용자·신규설치모두2위…챗GPT추격",
+  "폭격기까지띄웠는데…미중,‘두달휴전’만남겼다"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,13 @@
   [
    "2026-09-25T15:04:34.173278+09:00",
    "Cyber 사전 공개 GPT"
+  ],
+  [
+   "2026-09-25T15:12:15.095749+09:00",
+   "띄웠는데 미중 남겼다 폭격기까지 휴전"
   ]
  ],
- "last_run": "2026-09-25T15:10:41.574230+09:00",
+ "last_run": "2026-09-25T15:12:38.649264+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
