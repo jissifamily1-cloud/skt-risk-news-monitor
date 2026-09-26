@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8669543",
-  "https://www.edaily.co.kr/News/Read?newsId=03601446645582744&mediaCodeNo=257",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363640",
-  "https://www.ajunews.com/view/20260922102807304",
-  "https://biz.heraldcorp.com/article/10881853",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1725276",
   "http://www.metroseoul.co.kr/article/20260922500169",
   "https://www.newsis.com/view/NISX20260922_0003799924",
@@ -2999,14 +2994,14 @@
   "https://www.mediapen.com/news/view/1126107",
   "http://www.dispatch.co.kr/2348427",
   "https://view.asiae.co.kr/article/2026092609290197223",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320087"
+  "https://www.thepublic.kr/news/articleView.html?idxno=320087",
+  "https://biz.sbs.co.kr/article_hub/20000336750?division=NAVER",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4108685",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277405",
+  "https://www.news2day.co.kr/article/20260926500005",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54167"
  ],
  "seen_titles": [
-  "\"예산넘어실제변화잰다\"…SK사회적가치연구원,AI기반CSR평가플...",
-  "사회적가치연구원,AI결합CSR성과평가플랫폼'SEESV'공개",
-  "[현장]최태원\"사회문제직접해결해비용낮춰야\"···스타트업이SK...",
-  "SK사회적가치연구원,AI기반CSR측정플랫폼'SEESV'공개",
-  "美AI거점넓히는SK,日까지보폭…최태원의글로벌AI구상",
   "\"현장경영·미래구상·李순방동행\"…총수들,추석연휴'광폭행보'",
   "‘서학개미최애’SOXL에도SK하닉담겼다…美ETF줄줄이편입",
   "산자위,이소영청문보고서채택…국감증인엔이재용·최태원불발",
@@ -6001,7 +5996,12 @@
   "[2026AG야구]'일본전참패'류지현호,중국전최민석선발카드로분...",
   "튜이드,KT승리요정출격…세아·사키,첫시구·시타",
   "챗GPT에올린이미지새나갔다…오픈AI에이전트,53장무단유출",
-  "트럼프·시진핑국빈만찬에美AI거물총출동…젠슨황·머스크·올트먼..."
+  "트럼프·시진핑국빈만찬에美AI거물총출동…젠슨황·머스크·올트먼...",
+  "AI콘텐츠피로감…SNS이용자10명중8명\"표기필요\"",
+  "李대통령\"한·멕무역협정논의조속재개해야...경제협력더고도화시...",
+  "靑\"한-멕시코무역협정논의조속재개해야…기업도전뒷받침\"",
+  "[N2포커스]李대통령“한·멕시코무역협정,경제협력고도화기반”...",
+  "\"AI너무빨리간다\"유럽기술업계도제동요구"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,13 @@
   [
    "2026-09-26T09:30:27.544803+09:00",
    "튜이드 출격 시타 사키 시구 승리요정 세아 ~KT"
+  ],
+  [
+   "2026-09-26T09:36:14.630901+09:00",
+   "기술업계도 너무 요구 빨리 간다 제동 유럽"
   ]
  ],
- "last_run": "2026-09-26T09:34:33.578542+09:00",
+ "last_run": "2026-09-26T09:36:39.664675+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
