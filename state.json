@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-joongang.com/news/articleView.html?idxno=403054",
-  "https://www.viva100.com/article/20260921500277",
-  "https://www.mt.co.kr/stock/2026/09/21/2026092110483584533",
-  "https://biz.heraldcorp.com/article/10880431",
-  "https://www.kukinews.com/article/view/kuk202609210035",
-  "https://www.yna.co.kr/view/AKR20260918189100008?input=1195m",
   "https://biz.heraldcorp.com/article/10878802",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=423755",
   "https://www.ytn.co.kr/_ln/0134_202609171101306516",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20260926021000008?input=1195m",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609270003&t=NN",
   "https://www.asiatime.co.kr/article/20260910500426",
-  "https://www.newsis.com/view/NISX20260923_0003802169"
+  "https://www.newsis.com/view/NISX20260923_0003802169",
+  "https://www.edaily.co.kr/News/Read?newsId=01115206645584384&mediaCodeNo=257",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170833",
+  "https://biz.heraldcorp.com/article/10885018",
+  "https://www.donga.com/news/Economy/article/all/20260923/134720416/1",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703030",
+  "https://www.yna.co.kr/view/AKR20260921157400001?input=1195m"
  ],
  "seen_titles": [
-  "사격장국희-이종준,스키트혼성단체전은메달획득",
-  "'가을영웅이돌아왔다'1할대+부상여파김영웅1군콜업,\"가을이됐으...",
-  "이종준·장국희,사격스키트혼성단체전서값진은메달",
-  "\"AI에이전트결코신뢰못해\"…딥시크,AI훈련인프라안전성경종",
-  "대구시서구비원건강증진센터,10월1일정상운영...어린이건강체험관...",
-  "[포토]전통시장활성화에세종시교육청이함께합니다.",
   "대구시서구청,신평리시장서화재예방안전점검캠페인...초기대응능...",
   "대구시서구청,추석앞두고서대구역서40인교통안전캠페인",
   "[스냅드래곤서밋]퀄컴이이어버드에카메라와1비트AI를넣는이유는...",
@@ -6001,7 +5995,13 @@
   "[마켓인사이트]추석연휴서돌아온韓증시,상승흐름이어갈까",
   "\"3개월만에106조남겼다?\"…삼전,'3분기영업익'예상치무려",
   "정의선회장6대륙행보따라가보니…현대차그룹‘글로벌경영지도’...",
-  "\"AI거품론에도2800조눈앞\"…반도체호황언제까지갈까"
+  "\"AI거품론에도2800조눈앞\"…반도체호황언제까지갈까",
+  "“해커는비밀번호부터안훔친다”…당신회사가털리는의외의첫단...",
+  "대표님,보안은IT가아니라경영입니다[새책]",
+  "AI는성선설?성악설?…우리가그들을두려워하기시작한진짜이유[홍...",
+  "‘AI개발함께늦추자’던빅테크들담합피소…“후발주자경쟁막을...",
+  "\"오픈AI에이전트,테스트중美정부웹사이트에도접근\"...통제이탈",
+  "\"잇단보안사고에…6년간확인된개인정보유출만1억4천만건\""
  ],
  "recent_sigs": [
   [
@@ -6127,9 +6127,17 @@
   [
    "2026-09-27T07:04:17.354948+09:00",
    "2800조 호황 갈까 반도체 눈앞 언제까지 거품론에도"
+  ],
+  [
+   "2026-09-27T07:06:16.352707+09:00",
+   "담합 경쟁 후발주자 막을 늦추자 빅테크들 개발 함께 피소"
+  ],
+  [
+   "2026-09-27T07:06:16.352707+09:00",
+   "보안사고에 유출만 개인정보 잇단 확인된 6년간 1억4천만건"
   ]
  ],
- "last_run": "2026-09-27T07:04:37.643302+09:00",
+ "last_run": "2026-09-27T07:06:39.705006+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
