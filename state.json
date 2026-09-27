@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260923138100017?input=1195m",
-  "http://www.newsprime.co.kr/news/article.html?no=748974",
-  "https://biz.heraldcorp.com/article/10884824",
-  "https://m.sports.naver.com/basketball/article/065/0000302009",
-  "https://www.tjb.co.kr/news05/bodo/view/id/104077",
-  "https://www.inews365.com/news/article.html?no=937088",
-  "https://www.bbc.com/korean/articles/ckz6zzd1g54go?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192468",
   "https://www.news2day.co.kr/article/20260926500012",
   "https://www.hani.co.kr/arti/international/international_general/1279507.html",
@@ -2999,15 +2992,16 @@
   "https://www.edaily.co.kr/News/Read?newsId=02050006645584712&mediaCodeNo=257",
   "https://www.ajunews.com/view/20260928081637771",
   "https://www.mt.co.kr/tech/2026/09/28/2026092808150343707",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725725"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1725725",
+  "https://www.gosiweek.com/article/1065568708021839",
+  "https://www.edaily.co.kr/News/Read?newsId=02066406645584712&mediaCodeNo=257",
+  "https://www.g-enews.com/view.php?ud=2026092808235311739a1f309431_1",
+  "https://www.edaily.co.kr/News/Read?newsId=02082806645584712&mediaCodeNo=257",
+  "https://www.newspim.com/news/view/20260928000082",
+  "https://www.etoday.co.kr/news/view/2629641",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609280004&t=NN"
  ],
  "seen_titles": [
-  "[게임위드인]AI가고전게임도최신작처럼…DLSS5,게임체인저될까",
-  "[해외시황]뉴욕증시,국제유가하락·AI기술주강세에'상승'…나스닥...",
-  "음악처럼듣다보면집…귀경길동반자‘오디오북’",
-  "[D-7개막특집]포워드+포워드부터빅맨+가드까지,달라진외국선수조...",
-  "\"AI로만들었으면밝혀라\"...SNS이용자85.6%\"표시필요\"",
-  "\"글로벌이차전지산업허브로도약하자\"충북도,중장기육성전략추...",
   "'변태안경'이라불렸던이것,카메라없는버전으로이미지쇄신에성...",
   "CNN\"알맹이없이형식만화려했던美·中정상회담…중국은만족한듯...",
   "北포로송환‘비공개논란’확산…與“음모론”野“합의실체밝혀...",
@@ -6001,7 +5995,13 @@
   "한국펜싱전종목메달…SKT'24년지원·AI전력분석'빛났다",
   "한국펜싱전종목메달…SKT,AI전력분석으로지원",
   "AI전력분석까지더했다…SKT24년펜싱후원'금빛결실'",
-  "필터뚫고가짜신분으로침투…유엔까지휘저은오픈AI'통제불능봇'"
+  "필터뚫고가짜신분으로침투…유엔까지휘저은오픈AI'통제불능봇'",
+  "아시안게임야구장에‘욱일기반입금지’안내판등장…하루만에철...",
+  "서울대기술지주,AI소프트웨어스타트업‘바이스트라타’투자",
+  "中,알리바바·바이트댄스엔비디아신형칩구매허용검토",
+  "[미국특징주]\"中,바이트댄스·알리바바에엔비디아신형구매허용검...",
+  "중국,자국빅테크의엔비디아칩구매허용검토⋯자체개발한계",
+  "엔비디아·AMD강세…애플은배상리스크직면[美증시특징주]"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,13 @@
   [
    "2026-09-28T08:28:14.596756+09:00",
    "신분으로 가짜 통제 유엔까지 뚫고 침투 불능 필터 휘저은"
+  ],
+  [
+   "2026-09-28T08:30:28.339449+09:00",
+   "애플은 AMD 리스크 강세 직면 배상"
   ]
  ],
- "last_run": "2026-09-28T08:28:43.875490+09:00",
+ "last_run": "2026-09-28T08:30:52.264578+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
