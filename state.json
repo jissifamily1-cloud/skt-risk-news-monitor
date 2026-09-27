@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/585102",
-  "https://www.etoday.co.kr/news/view/2574993",
-  "https://view.asiae.co.kr/article/2026041009290359126",
-  "https://www.hankyung.com/article/2026041030041",
-  "https://www.investchosun.com/site/data/html_dir/2026/04/07/2026040780158.html",
-  "https://magazine.hankyung.com/business/article/202604024983b",
   "https://www.etoday.co.kr/news/view/2571805",
   "https://www.dt.co.kr/article/12054961",
   "https://it.donga.com/108653/",
@@ -2999,15 +2993,15 @@
   "https://www.sidae.com/article/2026092712381466154",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5221621",
   "http://www.metroseoul.co.kr/article/20260927500171",
-  "https://www.newscj.com/news/articleView.html?idxno=3435811"
+  "https://www.newscj.com/news/articleView.html?idxno=3435811",
+  "https://www.news1.kr/industry/general-industry/6302263",
+  "https://www.etoday.co.kr/news/view/2629523",
+  "https://www.huffingtonpost.kr/article/260783",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000552383",
+  "https://www.mk.co.kr/article/12161889",
+  "https://www.khan.co.kr/article/202609271437001"
  ],
  "seen_titles": [
-  "구글직원560여명“군사용AI제공중단해야”…피차이에공개서한",
-  "\"아일랜드는'유럽의실리콘밸리'…韓AI기업,EU진출발판될것\"",
-  "직원들피눈물에주주들환호하던메타…8000명해고하니벌어진일",
-  "오픈AI,새모델GPT-5.5출시…앤스로픽은보안논란구설수",
-  "AWS“에이전틱AI로파트너사생산성85%끌어올려”",
-  "AI동맹진화…아마존,앤스로픽에최대250억달러투자",
   "[인터뷰-하정우靑AI미래기획수석(上)]\"AI는국가인프라…GPU26만장에...",
   "‘쫓아낼땐언제고’…美국방부엔스로픽미토스버젓이사용",
   "\"에이전트수요잡아야살아남는다\"",
@@ -6001,7 +5995,13 @@
   "\"이재용·최태원부르자\"…올해국감도기업인호출논란",
   "랜섬웨어표적된한국,상반기피해36건…1년새3.3배증가",
   "통신3사해킹사고'보안후속조치'잘했나…국감서점검",
-  "\"서울통신비,세계6개주요도시중1~2위…뉴욕도넘어\""
+  "\"서울통신비,세계6개주요도시중1~2위…뉴욕도넘어\"",
+  "28일뉴욕서만나는젠슨황·이재용·최태원…HBM·AI협력주목",
+  "젠슨황뉴욕에뜬다…이재용·최태원,‘AI동맹’다음수주목",
+  "대한상의회장최태원,멕시코서경제협력확대제안:\"글로벌접근성...",
+  "최태원동거인김희영,‘허위사실’유튜버에또승소…법원“1000만...",
+  "대기업총수국감증인채택힘겨루기···“매년수십명채택했다철회...",
+  "미·러,‘킬러AI’규제장치잇따라삭제···“인간통제없는살상..."
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,21 @@
   [
    "2026-09-27T14:40:58.956900+09:00",
    "해킹사고 했나 통신 3사 후속조치 점검 국감서 보안"
+  ],
+  [
+   "2026-09-27T14:46:14.177019+09:00",
+   "1000만 법원 유튜버에 승소 동거인 김희영 허위 사실"
+  ],
+  [
+   "2026-09-27T14:46:14.177019+09:00",
+   "총수 국감증인 수십명 채택했다 힘겨루기 철회 매년 채택 대기업"
+  ],
+  [
+   "2026-09-27T14:46:14.177019+09:00",
+   "삭제 없는 살상 인간 규제장치 통제 잇따라 킬러"
   ]
  ],
- "last_run": "2026-09-27T14:44:34.243020+09:00",
+ "last_run": "2026-09-27T14:46:43.176086+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
