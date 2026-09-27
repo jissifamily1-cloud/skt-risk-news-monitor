@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/2026/09/24/20260924500008?wlog_tag3=naver",
-  "https://www.segye.com/newsView/20260924506019?OutUrl=naver",
-  "https://www.mt.co.kr/future/2026/09/25/2026090214430972997",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008756277&plink=ORI&cooper=NAVER",
-  "https://www.betanews.net/article/view/beta202609250004",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671590",
-  "https://www.fnnews.com/news/202609251035214900",
-  "https://www.econovill.com/news/articleView.html?idxno=751894",
   "https://www.wikitree.co.kr/articles/1161965",
   "https://www.mt.co.kr/world/2026/09/25/2026092510395232620",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=854824",
@@ -2999,17 +2991,17 @@
   "https://www.irobotnews.com/news/articleView.html?idxno=48677",
   "https://www.irobotnews.com/news/articleView.html?idxno=48679",
   "https://www.tokenpost.kr/news/ai/414754",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277456"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277456",
+  "https://www.mydaily.co.kr/page/view/2026092720025397197",
+  "http://www.osen.co.kr/article/G1112883036",
+  "http://www.osen.co.kr/article/G1112883037",
+  "http://www.osen.co.kr/article/G1112883035",
+  "https://www.mydaily.co.kr/page/view/2026092719570762611",
+  "http://www.tvdaily.co.kr/read.php3?aid=17905029121803542010",
+  "https://www.mydaily.co.kr/page/view/2026092719515932308",
+  "https://www.newspim.com/news/view/20260927000138"
  ],
  "seen_titles": [
-  "이재명대통령,멕시코와경제협력강화논의...'플랜멕시코'합류선...",
-  "80승에선착한KT,중심에는선발대니엘",
-  "KT지니뮤직,추석맞춤플레이리스트공개…\"귀성길·휴식등반영\"",
-  "코인거래소비트겟,3억5,000만달러이상해킹피해",
-  "서비스해지신청부터마지막청구까지확인하는법",
-  "퀄컴,AI소프트웨어판키운다…데이터센터·디바이스'하나의스택'으...",
-  "트럼프·시진핑'우호'건배…美빅테크한자리에,中기업인은없었다",
-  "[미중정상회담]만찬에美AI·빅테크거물총출동…中기업인들은빠져",
   "[미중정상회담]美AI·빅테크거물만찬총출동…中기업뺀'반쪽초청...",
   "트럼프\"미중,첫무역선이후지금처럼잘지낸적없어\"",
   "트럼프“미중어느때보다잘지내”…시진핑“새공감대형성”",
@@ -6001,7 +5993,15 @@
   "퀄컴,오픈소스로봇소프트웨어기업'피크닉로보틱스'인수",
   "美오픈마인드\"피지컬AI준비도지수,중국이세계1위…한국은4위\"",
   "오픈AIIPO연기…AI버블자금줄시험대올라",
-  "\"자연보전직접\"…LG유플러스,국내최고화담숲을'환경플랫폼'으로"
+  "\"자연보전직접\"…LG유플러스,국내최고화담숲을'환경플랫폼'으로",
+  "[MD포토]9회초구원등판해역투펼치는김택연",
+  "[사진]전력질주하는오명진",
+  "[사진]오명진,'적시2루타'",
+  "[사진]오명진,'포기는없다'",
+  "[MD포토]적시타오명진'추격이다!'",
+  "\"모태KIA\"씨엔블루강민혁,시구자로마운드선다",
+  "[MD포토]KT주권'위기는내가막는다'",
+  "[프로농구]'이정현18점'소노,KT114-96제압...정관장,가스공사도나..."
  ],
  "recent_sigs": [
   [
@@ -6361,7 +6361,7 @@
    "자금줄 IPO 시험대 버블 올라 연기"
   ]
  ],
- "last_run": "2026-09-27T20:02:35.916008+09:00",
+ "last_run": "2026-09-27T20:04:33.848485+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
