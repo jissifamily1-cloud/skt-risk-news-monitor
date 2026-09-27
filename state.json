@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192468",
-  "https://www.news2day.co.kr/article/20260926500012",
-  "https://www.hani.co.kr/arti/international/international_general/1279507.html",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=490365",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703012",
   "http://www.jeollailbo.com/news/articleView.html?idxno=812044",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/News/Read?newsId=02082806645584712&mediaCodeNo=257",
   "https://www.newspim.com/news/view/20260928000082",
   "https://www.etoday.co.kr/news/view/2629641",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609280004&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609280004&t=NN",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=610059",
+  "https://www.sejungilbo.com/news/articleView.html?idxno=60290",
+  "https://www.raonnews.com/news/article.html?no=61417"
  ],
  "seen_titles": [
-  "'변태안경'이라불렸던이것,카메라없는버전으로이미지쇄신에성...",
-  "CNN\"알맹이없이형식만화려했던美·中정상회담…중국은만족한듯...",
-  "北포로송환‘비공개논란’확산…與“음모론”野“합의실체밝혀...",
   "오픈AI도전모모르는챗GPT유출…사용자이미지53장밖으로",
   "클라우드·AI인프라확충에NI테마'꿈틀'…오파스넷·인성정보웃었...",
   "호주,메디케어정보보관정부망우회공개…유엔서AI규제강화촉구",
@@ -6001,7 +5998,10 @@
   "中,알리바바·바이트댄스엔비디아신형칩구매허용검토",
   "[미국특징주]\"中,바이트댄스·알리바바에엔비디아신형구매허용검...",
   "중국,자국빅테크의엔비디아칩구매허용검토⋯자체개발한계",
-  "엔비디아·AMD강세…애플은배상리스크직면[美증시특징주]"
+  "엔비디아·AMD강세…애플은배상리스크직면[美증시특징주]",
+  "주담대금리2년8개월만에최고치찍나…다음주8월대출금리성적표...",
+  "[세리포트]'인사·정보유출·체납'까지…올해국세청국감에서물어야...",
+  "[숫자로읽는금융①]예금금리연3.4%,1년뒤손에쥐는돈은얼마인..."
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,17 @@
   [
    "2026-09-28T08:30:28.339449+09:00",
    "애플은 AMD 리스크 강세 직면 배상"
+  ],
+  [
+   "2026-09-28T08:32:15.894131+09:00",
+   "국세청 인사 정보유출 올해 물어야 국감에서 까지 체납"
+  ],
+  [
+   "2026-09-28T08:32:15.894131+09:00",
+   "예금금리 돈은 얼마인 쥐는 손에 1년"
   ]
  ],
- "last_run": "2026-09-28T08:30:52.264578+09:00",
+ "last_run": "2026-09-28T08:32:36.640192+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
