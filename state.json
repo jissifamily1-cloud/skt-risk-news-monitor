@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202609250001",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=854822",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5221358",
   "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html?partner=naver",
   "https://biz.chosun.com/it-science/ict/2026/09/22/FOPAJKISYJFP7K3YX4FCNPBKXQ/",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20260927508468?OutUrl=naver",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=43989",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000017194&cp=nv",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320047"
+  "https://www.thepublic.kr/news/articleView.html?idxno=320047",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000017526&cp=nv",
+  "https://www.tokenpost.kr/news/breaking/414745"
  ],
  "seen_titles": [
-  "[뉴욕마켓]오라클,데이터센터사업에‘불가항력’통보",
-  "위메이드,위메이드맥스앞세워IP확장·신작다각화‘투트랙’성장...",
   "이란전쟁은최초의AI전쟁이다…“전장의분석관참모”",
   "‘뮤즈’로분위기바꾼메타,AI에이전트열풍,CPU까지번졌다",
   "포낙,글로벌주요보청기브랜드평가서종합1위",
@@ -6001,7 +5999,9 @@
   "習에마린원보여주며스킨십‘이례적환대’[막내린美·中정상회담...",
   "[최태원-노소영이혼소송재상고]기여도서빠진'선경300억원'…재상...",
   "[뉴욕마켓]오라클,블루아울자회사에‘불가항력’통보",
-  "675건신고에조치'0'…허위조작정보자율규제,제대로작동하나"
+  "675건신고에조치'0'…허위조작정보자율규제,제대로작동하나",
+  "다크웹·텔레그램·오픈웹두달걸쳐집중모니터링",
+  "비트겟해킹자금5천만달러토르체인서이동논란"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-09-27T18:48:16.129298+09:00",
    "스킨십 환대 정상회담 내린 이례적 보여주며 마린원"
+  ],
+  [
+   "2026-09-27T18:52:14.328719+09:00",
+   "자금 논란 이동 토르체인서 5천만달러 비트겟"
   ]
  ],
- "last_run": "2026-09-27T18:50:43.368296+09:00",
+ "last_run": "2026-09-27T18:52:37.786679+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
