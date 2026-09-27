@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8662734",
-  "https://biz.sbs.co.kr/article_hub/20000334497?division=NAVER",
-  "https://www.cwn.kr/news/articleView.html?idxno=56257",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363108",
-  "http://www.metroseoul.co.kr/article/20260914500142",
-  "https://www.yna.co.kr/view/AKR20260914063600008?input=1195m",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609140080&t=NN",
   "https://www.ytn.co.kr/_ln/0102_202609140850129790",
   "https://www.ytn.co.kr/_ln/0102_202609140850231532",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20260927000081",
   "https://www.edaily.co.kr/News/Read?newsId=01548166645584384&mediaCodeNo=257",
   "https://news.mtn.co.kr/news-detail/2026092713245314670",
-  "https://www.kbsm.net/news/view.php?idx=535623"
+  "https://www.kbsm.net/news/view.php?idx=535623",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=127350",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=127348",
+  "https://www.techm.kr/news/articleView.html?idxno=155591",
+  "https://view.asiae.co.kr/article/2026092713443708803",
+  "https://www.globale.co.kr/news/articleView.html?idxno=40643",
+  "https://www.khan.co.kr/article/202609271343001"
  ],
  "seen_titles": [
-  "AI속도조절론·중동불안겹악재···삼전닉스동반급락",
-  "[증시프리즘]AI속도조절론,코스피3%대폭락장에개인은3조원순매...",
-  "'AI속도조절론'韓증시에악재로…코스피3%대급락6,600대",
-  "삼전·닉스급락…AI속도조절론에외인‘반도체투매’",
-  "삼전·닉스동반큰폭하락…'AI속도조절론'에반도체투톱휘청",
-  "원/달러환율1,347.3원…美FOMC앞두고박스권등락",
   "[증시-마감]중동긴장속'AI속도조절론'찬물…코스피3%대하락",
   "삼성전자4%·SK하이닉스6%급락…외국인·기관'팔자'",
   "'7천피'무너진코스피…유가급등·AI속도조절론에3.26%↓",
@@ -6001,7 +5995,13 @@
   "최태원\"멕시코는글로벌경제거점\"...제조넘어AI·공급망협력넓힌...",
   "한·멕시코,제조넘어항공우주·문화로협력확대…비즈니스포럼성...",
   "최태원대한상의회장\"한-멕시코경제협력범위넓혀야\"",
-  "칠곡군종합자원봉사센터,대한민국사회적가치페스타참여"
+  "칠곡군종합자원봉사센터,대한민국사회적가치페스타참여",
+  "수비스페셜리스트로거듭난문정현,그이면에는문경은감독의조언이...",
+  "'이정현출전+NEW스타팅멤버'예고한소노손창환감독,\"초반에실험...",
+  "'분기영업익100조'시대연다…삼성전자,HBM4타고사상최대실적눈...",
+  "[AI세계속으로]인기몰이메타'뮤즈'B2C시장전환점…보안취약점경고...",
+  "LG전자,엔비디아NPN파트너선정···AI데이터센터냉각시장공략",
+  "LG전자,엔비디아AI데이터센터냉각공식파트너합류"
  ],
  "recent_sigs": [
   [
@@ -6337,7 +6337,7 @@
    "칠곡군종합자원봉사센터 대한민국 사회적가치 페스타 참여"
   ]
  ],
- "last_run": "2026-09-27T13:52:37.645767+09:00",
+ "last_run": "2026-09-27T13:54:32.225680+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
