@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1313378&inflow=N",
-  "https://www.ekn.kr/web/view.php?key=20260911029063558",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=853446",
-  "https://kidd.co.kr/news/247393",
   "https://kpenews.com/View.aspx?No=4223221",
   "https://it.chosun.com/news/articleView.html?idxno=2023092169944",
   "https://www.etoday.co.kr/news/view/2629222",
@@ -2999,13 +2995,13 @@
   "http://www.rookie.co.kr/news/articleView.html?idxno=127377",
   "https://www.koreaittimes.com/news/articleView.html?idxno=157524",
   "https://www.hankyung.com/article/202609168754g",
-  "https://www.tokenpost.kr/news/breaking/414708"
+  "https://www.tokenpost.kr/news/breaking/414708",
+  "http://www.seouleconews.com/news/articleView.html?idxno=93963",
+  "https://www.joongang.co.kr/article/25464999",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277431",
+  "https://www.joongangenews.com/news/articleView.html?idxno=550672"
  ],
  "seen_titles": [
-  "개보위\"로청개인정보관리대체로안전\"…일부만'미흡'",
-  "개보위“로봇청소기,영상등개인정보침해확인못해”",
-  "개보위\"주요로봇청소기개인정보관리전반적으로안전\"",
-  "개보위“로봇청소기개인정보침해위험확인안돼”",
   "개보위\"로봇청소기개인정보관리대체로안전…이용자안내는미흡\"",
   "개보위\"로봇청소기영상·음성개인정보침해위험확인안돼\"",
   "[오늘의주요일정]과기정통부·방미통위·개보위(9월14일월요일)",
@@ -6001,7 +5997,11 @@
   "패배에도상대에게찬사보낸KT문경은감독\"소노경기력에깜짝놀랐...",
   "KTAIRouterRanksNo.2inGlobalBenchmark",
   "\"엔비디아에운명안맡긴다\"…현대차의자율주행승부수[최수진의모...",
-  "앤스로픽클로드,미항소법원서공급망위험지정유지"
+  "앤스로픽클로드,미항소법원서공급망위험지정유지",
+  "젠슨황·이재용·최태원,28일뉴욕서회동…HBM·AI협력주목",
+  "최태원동거인김희영유튜버상대손배소승소",
+  "최태원대한상의회장\"한·멕시코,제조업넘어AI·에너지협력확대해...",
+  "\"오픈AI·앤트로픽,AI보안사고수만건조사...안전장치우회정황\""
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,13 @@
   [
    "2026-09-27T16:16:14.396259+09:00",
    "클로드 지정 유지 공급망 항소법원서 위험"
+  ],
+  [
+   "2026-09-27T16:18:17.201950+09:00",
+   "보안사고 조사 우회 정황 앤트로픽 안전장치 수만건"
   ]
  ],
- "last_run": "2026-09-27T16:16:37.646904+09:00",
+ "last_run": "2026-09-27T16:18:34.696452+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
