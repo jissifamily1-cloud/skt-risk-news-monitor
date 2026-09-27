@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=301253",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=301247",
   "http://www.efnews.co.kr/news/articleView.html?idxno=132533",
   "https://www.greened.kr/news/articleView.html?idxno=350715",
   "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068097",
@@ -2999,11 +2997,11 @@
   "https://www.hg-times.com/news/articleView.html?idxno=305586",
   "https://zdnet.co.kr/view/?no=20260927092826",
   "https://www.newsis.com/view/NISX20260927_0003804043",
-  "https://biz.chosun.com/it-science/ict/2026/09/27/EHAF2IQQ5FGQZF3KMVIOQJ2LTQ/"
+  "https://biz.chosun.com/it-science/ict/2026/09/27/EHAF2IQQ5FGQZF3KMVIOQJ2LTQ/",
+  "https://www.imaeil.com/page/view/2026092709532236207",
+  "https://www.tokenpost.kr/news/breaking/414644"
  ],
  "seen_titles": [
-  "KISTI-SKT,국제표준기반양자암호통신연동기술세계첫개발",
-  "[더벨][thebellnote]SKT는투자회사가아니다",
   "[SKT]'감정을향·색'구현/'채팅+PC버전'이벤트/혁신기업500곳육...",
   "대한민국사회적가치페스타21일개막…400여기관한자리에",
   "거창군-SKT,어르신대상'찾아가는서비스'운영",
@@ -6001,7 +5999,9 @@
   "[KBO]'4위'KIA,'3위'LG꺾고2경기차추격..한화11연패",
   "과외선생님vsAI튜터,누가더나을까비교했더니",
   "\"번역엔가성비,분석엔고성능\"…KTAI모델선택기술글로벌2위",
-  "KT,AI요청별최적모델연결기술‘오토모델라우터’…공개벤치마..."
+  "KT,AI요청별최적모델연결기술‘오토모델라우터’…공개벤치마...",
+  "빌게이츠\"AI,10억명사망초래할수있어\"…연방규제법촉구",
+  "토르체인,비트겟해킹자금세탁의혹반박"
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,13 @@
   [
    "2026-09-27T09:58:14.674903+09:00",
    "모델 공개 오토모델라우터 요청별 벤치마 최적 연결 기술 ~KT"
+  ],
+  [
+   "2026-09-27T10:00:37.259672+09:00",
+   "비트겟 토르체인 자금 의혹 반박 세탁"
   ]
  ],
- "last_run": "2026-09-27T09:58:33.087368+09:00",
+ "last_run": "2026-09-27T10:00:58.407240+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
