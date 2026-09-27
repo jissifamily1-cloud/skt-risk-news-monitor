@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=43989",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320047",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320051",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868051",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=609655",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=129620",
-  "http://www.segyebiz.com/newsView/20260923512777?OutUrl=naver",
-  "https://www.donga.com/news/Sports/article/all/20260925/134732299/1",
   "https://www.g-enews.com/view.php?ud=20260925042304349720990b2dc5_1",
   "https://www.thelec.kr/news/articleView.html?idxno=62770",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201871",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20260927037951007?input=1195m",
   "https://www.mydaily.co.kr/page/view/2026092718253254453",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000017520&cp=nv",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=37894"
+  "https://www.junggi.co.kr/news/articleView.html?idxno=37894",
+  "https://www.sedaily.com/article/20095276",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000017523&cp=nv",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000017522&cp=nv",
+  "https://www.dkilbo.com/news/articleView.html?idxno=555466",
+  "https://www.dkilbo.com/news/articleView.html?idxno=555512",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000017525&cp=nv",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260928.22001008709",
+  "https://biz.heraldcorp.com/article/10885366"
  ],
  "seen_titles": [
-  "\"화면밖으로나온AI\"산업계·정부,'피지컬AI'시장선점속도낸다",
-  "연휴에도주식창여는서학개미…작년추석픽은'TSLL'",
-  "AI서버발MLCC수요급증…삼성전기·무라타고부가제품확대[반도체...",
-  "SKT,추석에도AI개발속도…‘A.XK3’·‘모두의AI’고도화",
-  "재계총수올해명절연휴엔어디로…‘글로벌경영’나선다",
-  "추석에도해외로향한총수들…멕시코·美·英서'글로벌경영'",
-  "\"목소리도못믿는다\"…AI보이스피싱에통신사도'진땀'",
-  "[오늘의딜PICK][영상]엔비디아탑재량감축정황에반도체주긴장…...",
   "퀄컴,모듈러품고‘탈엔비디아’생태계구상…40억달러베팅한이유",
   "'AI반도체제왕'엔비디아가리벨리온을만난이유[비하인드칩스]",
   "말바꾼트럼프…미·중,물밑에선AI안전장치논의",
@@ -6001,7 +5993,15 @@
   "'이정현18점'프로농구소노,kt와시범경기완승(종합)",
   "[MD포토]경기지켜보는두산김원형감독",
   "中,관세전쟁휴전연장등8개합의공개…영부인외교엔찬사…판다...",
-  "메타AI에이전트'뮤즈'…출시2주만에챗GPT기록넘었다"
+  "메타AI에이전트'뮤즈'…출시2주만에챗GPT기록넘었다",
+  "“어쩐지너무비싸더라”…세계최고수준이라는서울통신비,얼마길...",
+  "“한국데이터있나”묻자…창고서물건꺼내듯기업·기관DB내놔",
+  "다크웹진열된韓DB…단골줄잇는인기상품",
+  "대구시자가통신망,누적절감액1000억원돌파",
+  "대구시,'FIX2026'이노베이션어워즈수상31개사확정",
+  "성형수술전·후아내사진이다크웹에올라왔다",
+  "안보·사법·與내홍…추석이어국감정국달군다(종합)",
+  "‘국내유일TSMC파트너’에이직랜드…주문형반도체업계의엔비디아..."
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,17 @@
   [
    "2026-09-27T18:38:15.175990+09:00",
    "휴전 연장 공개 영부인 찬사 관세전쟁 8개 합의 판다 외교엔"
+  ],
+  [
+   "2026-09-27T18:42:51.308568+09:00",
+   "내홍 추석 국감정국 사법 이어 안보 달군다"
+  ],
+  [
+   "2026-09-27T18:42:51.308568+09:00",
+   "TSMC 유일 주문형 업계의 파트너 에이직랜드 국내 반도체"
   ]
  ],
- "last_run": "2026-09-27T18:40:38.498203+09:00",
+ "last_run": "2026-09-27T18:43:11.650453+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
