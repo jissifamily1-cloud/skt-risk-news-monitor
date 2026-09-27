@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769501&plink=ORI&cooper=NAVER",
-  "https://www.khan.co.kr/article/202609250103001",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=609667",
   "https://www.hankyung.com/article/202609245320i",
   "https://www.newscj.com/news/articleView.html?idxno=3435468",
   "https://www.tokenpost.kr/news/ai/413757",
@@ -2999,12 +2996,12 @@
   "https://basketkorea.com/news/newsview.php?ncode=1065597587700648",
   "https://www.dt.co.kr/article/12085975",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170895",
-  "https://www.hani.co.kr/arti/international/international_general/1279612.html"
+  "https://www.hani.co.kr/arti/international/international_general/1279612.html",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2443088",
+  "https://www.apnews.kr/news/articleView.html?idxno=3051536",
+  "https://www.aitimes.com/news/articleView.html?idxno=215681"
  ],
  "seen_titles": [
-  "개인정보유출과징금매출10%…감경기준은‘없다’",
-  "[시큐리티포커스]위드네트웍스'위드VTM'제시·한컴위드'스피키'기...",
-  "구글,성범죄피해자정보외부사이트로유출…정부법위반검토",
   "불법촬영피해자신상유출에..개보위,구글조사착수",
   "개보위,'불법촬영피해자신상유출'구글조사착수",
   "해외여행은SKT,집콕은KT,쇼핑은LG유플러스…통신3사추석혜택",
@@ -6001,7 +5998,10 @@
   "[OPENMATCH]96점넣어도진다고?문경은KT감독,“소득이있는경기”",
   "LG유플러스AI해커톤우승팀“현업고민에서답찾아”",
   "'메디케어무단침입'파문…호주의회,샘올트먼청문회소환추진",
-  "빌게이츠“불순한세력이AI쓰면10억명사망할수있어”경고"
+  "빌게이츠“불순한세력이AI쓰면10억명사망할수있어”경고",
+  "서울통신비세계주요도시최고수준…4G20GB가장비싸",
+  "김희영,'허위사실유튜버'상대잇단승소…법원도'엄격판단'",
+  "오픈AI,500달러'프로맥스'요금제출시하나…'워크·코덱스'고속처..."
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,13 @@
   [
    "2026-09-27T16:24:16.449899+09:00",
    "호주 소환 메디케어 의회 침입 청문회 파문 무단"
+  ],
+  [
+   "2026-09-27T16:30:27.909169+09:00",
+   "출시하나 코덱스 500달러 맥스 고속 워크 프로 요금제"
   ]
  ],
- "last_run": "2026-09-27T16:28:30.544804+09:00",
+ "last_run": "2026-09-27T16:30:48.872177+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
