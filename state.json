@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260926142303",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/26/2026092690065.html",
-  "https://www.segye.com/newsView/20260926505422?OutUrl=naver",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3706081",
-  "https://www.aitimes.com/news/articleView.html?idxno=215674",
   "https://www.yna.co.kr/view/AKR20260926032000084?input=1195m",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8671865",
   "http://www.ttlnews.com/news/articleView.html?idxno=3146820",
@@ -2999,14 +2994,14 @@
   "https://www.dailian.co.kr/news/view/1694833/?sc=Naver",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=320477",
   "https://www.newsis.com/view/NISX20260928_0003804664",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=419435"
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=419435",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277479",
+  "https://www.seoulfn.com/news/articleView.html?idxno=638738",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711127",
+  "https://hbnpress.com/news/view/1065570182425674",
+  "https://www.youthdaily.co.kr/news/article.html?no=227629"
  ],
  "seen_titles": [
-  "‘북한군포로송환공개’논란에…靑“일관된원칙에따라대응”",
-  "[안광섭AI진테제]메타'뮤즈'가한국기업에시사하는것",
-  "오픈AI에이전트,챗GPT개인이용자이미지53장'무단유출'",
-  "‘세계5위코인거래소’비트겟5000억원규모해킹…배후로北지목...",
-  "​[속보]극동방송후원자시스템해킹정황…성명·연락처등유출가...",
   "머스크\"연말까지콜로서스2GPU두배증설\"...최대121만개달성",
   "\"오픈AI에이전트,다른호주정부웹사이트에도침투시도\"",
   "“오픈AI에이전트,다른호주정부웹사이트에도침투시도”",
@@ -6001,7 +5996,12 @@
   "KT,NATO국방통신표준화회의참여…5G·6G논의주도",
   "KT,NATO국방통신표준화회의참여…\"민·군협력강화\"",
   "\"AI가찌르기각도분석했다\"…韓펜싱신화뒤엔SKT있었네",
-  "SKT,펜싱에AI심었다…'SKT-FAN'아시안게임첫실전투입"
+  "SKT,펜싱에AI심었다…'SKT-FAN'아시안게임첫실전투입",
+  "외주망뚫린한국은행…직원186명비밀번호·세부직무유출됐다",
+  "\"수탁업체노렸다\"···한은,직원180여명개인정보유출",
+  "한은직원186명정보유출···보안약한고리는외부수탁사",
+  "한국은행,외부해킹으로5~6월180여직원·회원사개인정보대규모유출",
+  "한은직원186명개인정보유출...5년간해킹시도2천63건"
  ],
  "recent_sigs": [
   [
@@ -6305,7 +6305,7 @@
    "표준화 회의 강화 참여 국방통신 협력 NATO ~KT"
   ]
  ],
- "last_run": "2026-09-28T08:54:43.889070+09:00",
+ "last_run": "2026-09-28T08:56:34.949295+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
