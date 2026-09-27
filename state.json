@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1694090/?sc=Naver",
-  "https://www.news1.kr/politics/president/6301456",
-  "https://www.edaily.co.kr/News/Read?newsId=01344806645583728&mediaCodeNo=257",
-  "https://www.fnnews.com/news/202609250440578760",
-  "https://www.vegannews.co.kr/news/article.html?no=387378",
-  "https://www.yna.co.kr/view/AKR20260925006500083?input=1195m",
-  "https://www.edaily.co.kr/News/Read?newsId=03312806645583400&mediaCodeNo=257",
   "https://www.newsis.com/view/NISX20260924_0003803180",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008769501&plink=ORI&cooper=NAVER",
   "https://www.khan.co.kr/article/202609250103001",
@@ -2999,16 +2992,16 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=550672",
   "https://www.viva100.com/article/20260927500397",
   "https://www.mt.co.kr/world/2026/09/27/2026092714441820815",
-  "https://www.viva100.com/article/20260927500315"
+  "https://www.viva100.com/article/20260927500315",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16218995",
+  "https://www.mk.co.kr/article/12161943",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3706483",
+  "https://www.the-today.com/news/articleView.html?idxno=90802",
+  "https://basketkorea.com/news/newsview.php?ncode=1065597587700648",
+  "https://www.dt.co.kr/article/12085975",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092170895"
  ],
  "seen_titles": [
-  "'모두의AI'보안·속도잡는다…KT,민관TF·자체GPU구축",
-  "‘6000만’이용자‘초연결’시대연다…KT,‘모두의AI’전략공개",
-  "[금주재판일정]尹'재판위증'항소심선고…SKT과징금1300억취소소...",
-  "[권가림의금만세]롯데카드다음주영업재개…우리카드제재절차속...",
-  "李대통령,'3954만계정유출'티빙질타...\"엄정한책임물어야\"",
-  "개인정보유출반복발생시과징금,최대매출액10%까지상향",
-  "개인정보위,구글'디지털성범죄'피해자정보유출조사착수",
   "개보위,구글'디지털성범죄피해정보유출'조사착수",
   "개인정보유출과징금매출10%…감경기준은‘없다’",
   "[시큐리티포커스]위드네트웍스'위드VTM'제시·한컴위드'스피키'기...",
@@ -6001,7 +5994,14 @@
   "\"오픈AI·앤트로픽,AI보안사고수만건조사...안전장치우회정황\"",
   "반도체‘훨훨’나네⋯美반도체기업‘시총1조클럽’줄줄이",
   "메타뮤즈다운로드1위돌풍에…美AI·반도체주강세",
-  "삼성,광주라인가동vsLG,엔비디아승인⋯AIDCCDU경쟁불붙었다"
+  "삼성,광주라인가동vsLG,엔비디아승인⋯AIDCCDU경쟁불붙었다",
+  "3점포20개폭발…소노,kt제압하며시범경기2연승",
+  "‘NewKing’이정현,금메달과함께돌아왔다!소노,KT와난타전서18점...",
+  "대전추석112신고18.6%감소…가정폭력·스토킹은증가",
+  "송편과월병이한자리에…中옌타이서한·중이웃함께추석맞이",
+  "[OPENMATCH]96점넣어도진다고?문경은KT감독,“소득이있는경기”",
+  "LG유플러스AI해커톤우승팀“현업고민에서답찾아”",
+  "'메디케어무단침입'파문…호주의회,샘올트먼청문회소환추진"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,17 @@
   [
    "2026-09-27T16:22:15.250137+09:00",
    "vs 라인 광주 LG 불붙었다 승인 가동 경쟁 AIDC 삼성 CDU"
+  ],
+  [
+   "2026-09-27T16:24:16.449899+09:00",
+   "~LGU LG유플러스 우승팀 현업 고민에서 찾아 해커톤"
+  ],
+  [
+   "2026-09-27T16:24:16.449899+09:00",
+   "호주 소환 메디케어 의회 침입 청문회 파문 무단"
   ]
  ],
- "last_run": "2026-09-27T16:22:35.570743+09:00",
+ "last_run": "2026-09-27T16:24:43.470225+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
