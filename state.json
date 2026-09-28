@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277704",
-  "https://www.thepublic.kr/news/articleView.html?idxno=320178",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=320514",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277481",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=761863",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3706808",
-  "https://biz.sbs.co.kr/article_hub/20000336939?division=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=02355046645584712&mediaCodeNo=257",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3706798",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448015",
   "https://www.smartbizn.com/news/articleView.html?idxno=154908",
   "https://zdnet.co.kr/view/?no=20260928100821",
@@ -2999,18 +2990,18 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4436779",
   "https://biz.heraldcorp.com/article/10886786",
   "http://www.yonhapnewstv.co.kr/news/AKR20260929061630CsK",
-  "https://biz.heraldcorp.com/article/10886785"
+  "https://biz.heraldcorp.com/article/10886785",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764755",
+  "https://www.yna.co.kr/view/AKR20260928112500007?input=1195m",
+  "https://www.yna.co.kr/view/AKR20260928112000007?input=1195m",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260929062054tSI",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192495",
+  "https://www.joongang.co.kr/article/25465518",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764283",
+  "https://www.voakorea.com/a/us-nvidia-ai-092826/8205447.html",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=764384"
  ],
  "seen_titles": [
-  "하나금융,삼성전자·SKT와금융권첫5G특화망…청라업무망적용",
-  "[위클리오늘]이동통신소식_LG유플러스,SK텔레콤,KT(9.28)",
-  "[인포맥스POLL]9월물가2.94%↑…\"최고가격동결에유가영향제한\"",
-  "하나금융,청라사옥에5G특화망구축…금융권첫업무망적용",
-  "LG유플러스,IBCT와유럽공급망데이터규제대응지원협력",
-  "LG유플러스·IBCT,제조기업대상‘카테나-X’진입지원",
-  "개보위,오늘부터'개인정보보호주간'운영",
-  "‘신병4’정이랑·공민정,신화부대에찾아온수상한인물들",
-  "나토5G·6G국방통신표준화회의서울서개최",
   "'박정현9호포·김서현2⅓이닝세이브'…한화11연패탈출,선두KT는삼...",
   "한국야구AG5연속금메달...이겼는데부끄러운까닭",
   "KT클라우드,군산60MWAI데이터센터구축착수…300MW까지확장",
@@ -6001,7 +5992,16 @@
   "靑참모재산공개…박지영92억'최다'·한찬식58억",
   "엔비디아,204조원자사주매입추가…美기업사상최대규모",
   "트럼프,'AI회동'예고…\"앤트로픽·오픈AI수장등참석\"",
-  "엔비디아,개방형안전플랫폼공개…AI돌발행동막는다"
+  "엔비디아,개방형안전플랫폼공개…AI돌발행동막는다",
+  "명절상술인가?…품질딴판인추석선물상품둘러싸고분쟁다발",
+  "◇내일의경기(30일)",
+  "◇오늘의경기(29일)",
+  "\"네타냐후,UAE에'하마스기습사전경고'부인요청\"",
+  "[인공지능줌인]금리폭등에도자금조달을멈출수없는AI기업들",
+  "“AI지능폭발임박,통제못하면인류멸망”…연구원들섬뜩경고",
+  "[디지털난민보고서③]\"말씀을이해하지못했습니다\"…'저지능'AI챗...",
+  "엔비디아,통제벗어난AI에이전트차단보안플랫폼공개",
+  "[민원평가탑티어-삼성전자]소비자목소리에전사적협력체제...선제적..."
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,17 @@
   [
    "2026-09-29T06:20:25.457527+09:00",
    "공개 막는다 돌발행동 안전플랫폼 개방형"
+  ],
+  [
+   "2026-09-29T06:26:17.987032+09:00",
+   "저지능 이해하지 못했습니다 말씀을"
+  ],
+  [
+   "2026-09-29T06:26:17.987032+09:00",
+   "협력 전사적 목소리에 소비자 선제적 체제"
   ]
  ],
- "last_run": "2026-09-29T06:24:33.393354+09:00",
+ "last_run": "2026-09-29T06:26:40.680063+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
