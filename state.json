@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260926_0003803886",
-  "http://www.newstomato.com/ReadNews.aspx?no=1313987&inflow=N",
-  "https://www.dailian.co.kr/news/view/1691336/?sc=Naver",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701134",
-  "https://www.tokenpost.kr/news/briefing/414593",
-  "https://www.etoday.co.kr/news/view/2628747",
-  "https://www.tokenpost.kr/news/ai/414577",
-  "https://www.newsis.com/view/NISX20260923_0003801338",
-  "https://www.theguru.co.kr/news/article.html?no=107566",
-  "https://www.radiokorea.com/news/article.php?uid=505180",
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=111788",
   "https://www.mk.co.kr/article/12161718",
   "https://www.betanews.net/article/view/beta202609260017",
   "https://www.wikitree.co.kr/articles/1162159",
@@ -2999,20 +2988,20 @@
   "https://www.ziksir.com/news/articleView.html?idxno=147537",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366169",
   "https://www.dizzotv.com/site/data/html_dir/2026/09/28/2026092880014.html",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4108797"
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4108797",
+  "https://www.mk.co.kr/article/12162424",
+  "https://www.widedaily.com/news/articleView.html?idxno=301490",
+  "https://mhnse.com/news/articleView.html?idxno=1561243",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003270793&CMPT_CD=P0010",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=407397",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214716",
+  "https://view.asiae.co.kr/article/2026092810034607941",
+  "http://www.metroseoul.co.kr/article/20260928500067",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89765",
+  "https://www.cstimes.com/news/articleView.html?idxno=722030",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=277704"
  ],
  "seen_titles": [
-  "네일6이닝호투한KIA,LG격파…가을야구가능성살렸다",
-  "KIA,준PO직행희망살렸다…LG에5-1승",
-  "'차세대에이스'최민석,운명가를중국전서7이닝9K1실점'위력투'[...",
-  "단통법폐지후고가요금제지원금쏠림…방미통위,불공정행위조인다",
-  "방미통위,단말기시장‘지원금차별·끼워팔기’들여다본다",
-  "방미통위,이통사장려금집중점검…'고가요금제유도'막는다",
-  "[모닝뉴스브리핑]비트코인ETF주간24억달러유입外",
-  "“안마의자도AI시대”…명절피로잡는‘맞춤형헬스케어’",
-  "힌턴'AI,인간제거·자기보존목표삼을가능성'",
-  "\"나스닥신고가인데신저가종목속출…확실한주도주로좁혀야\"",
-  "[크립토리뷰]원체인밸리데이터에'해시키클라우드'합류…글로벌노...",
   "9월26일모닝뉴스헤드라인",
   "한국의민속놀이를지배하는AI",
   "AI도아프다…고통심해지자“인간보다AI우선”",
@@ -6001,7 +5990,18 @@
   "하나금융,청라사옥에5G특화망구축…금융권첫업무망적용",
   "LG유플러스,IBCT와유럽공급망데이터규제대응지원협력",
   "LG유플러스·IBCT,제조기업대상‘카테나-X’진입지원",
-  "개보위,오늘부터'개인정보보호주간'운영"
+  "개보위,오늘부터'개인정보보호주간'운영",
+  "‘신병4’정이랑·공민정,신화부대에찾아온수상한인물들",
+  "나토5G·6G국방통신표준화회의서울서개최",
+  "'박정현9호포·김서현2⅓이닝세이브'…한화11연패탈출,선두KT는삼...",
+  "한국야구AG5연속금메달...이겼는데부끄러운까닭",
+  "KT클라우드,군산60MWAI데이터센터구축착수…300MW까지확장",
+  "kt클라우드·SGC에너지,군산AI데이터센터구축맞손",
+  "KT,국내통신사최초나토국방통신표준화논의참여",
+  "5G·6G기술,국방에활용된다…KT,나토국방통신표준화회의참여",
+  "KT,NATO국방통신표준화회의에국내통신사최초참여…5G·6G국방...",
+  "KT오토모델라우터,美라이스대라우터평가2위",
+  "KTRanksSecondInRouterArena"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,17 @@
   [
    "2026-09-28T10:08:15.665276+09:00",
    "운영 오늘부터 개인정보 보호주간"
+  ],
+  [
+   "2026-09-28T10:10:25.645894+09:00",
+   "~KT 오토모델라우터 라이스대 라우터 2위 평가"
+  ],
+  [
+   "2026-09-28T10:10:25.645894+09:00",
+   "Ranks Second In RouterArena ~KT"
   ]
  ],
- "last_run": "2026-09-28T10:08:41.832176+09:00",
+ "last_run": "2026-09-28T10:10:46.149775+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
