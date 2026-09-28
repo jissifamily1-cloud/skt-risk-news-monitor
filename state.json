@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260914036451008?input=1195m",
-  "https://www.yna.co.kr/view/AKR20260914063651008?input=1195m",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008752377&plink=ORI&cooper=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8662734",
   "https://biz.sbs.co.kr/article_hub/20000334497?division=NAVER",
@@ -2999,11 +2997,11 @@
   "https://www.newspim.com/news/view/20260928001079",
   "https://www.the-today.com/news/articleView.html?idxno=90891",
   "https://www.hankyung.com/article/202609280312i",
-  "https://www.mt.co.kr/tech/2026/09/28/2026092818272512306"
+  "https://www.mt.co.kr/tech/2026/09/28/2026092818272512306",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436757",
+  "http://coinreaders.com/260434"
  ],
  "seen_titles": [
-  "반도체주힘못쓰자코스피'와르르'",
-  "외국인매도에반도체주'휘청'...삼성전자4%·하이닉스6%↓",
   "코스피,3.26%급락6,684선…AI속도조절론·중동긴장에외국인4거래...",
   "코스피6700선밑돌아...금리인상에AI속도조절론겹악재",
   "원·달러환율1347.3원…미금리결정앞두고1340원대등락",
@@ -6001,7 +5999,9 @@
   "악수나누는송경희위원장",
   "스위스'중립원칙강화'발의안,국민투표부결…70%이상'반대'",
   "“거긴가면안돼”…엔비디아,AI에이전트보안플랫폼전격공개",
-  "엔비디아,AI'일탈'하드웨어서막는다…젠슨황\"신뢰계층구축\""
+  "엔비디아,AI'일탈'하드웨어서막는다…젠슨황\"신뢰계층구축\"",
+  "[亞증시-종합]금리상승속日·中하락…臺휴장",
+  "마이크론(MU),순이익938%폭증타고증시견인...엔비디아왕좌뺏나?"
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,13 @@
   [
    "2026-09-28T19:26:16.665353+09:00",
    "계층 구축 일탈 하드웨어서 젠슨 막는다 신뢰"
+  ],
+  [
+   "2026-09-28T19:28:16.241178+09:00",
+   "뺏나 증시 MU 폭증 순이익 견인 마이크론 왕좌 타고"
   ]
  ],
- "last_run": "2026-09-28T19:26:36.824992+09:00",
+ "last_run": "2026-09-28T19:28:33.809311+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
