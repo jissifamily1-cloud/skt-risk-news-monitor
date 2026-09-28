@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/thebio/2026/09/27/2026092315004534235",
-  "https://www.newsis.com/view/NISX20260927_0003804046",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1725702",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253358",
   "https://www.etnews.com/20260927000073",
   "https://www.sportsseoul.com/news/read/1637712",
   "https://www.sentv.co.kr/article/view/sentv202609270007",
@@ -2999,13 +2995,13 @@
   "https://www.aitimes.kr/news/articleView.html?idxno=42087",
   "https://www.xportsnews.com/article/2201427",
   "https://www.ngonews.kr/news/articleView.html?idxno=239364",
-  "https://www.tokenpost.kr/news/breaking/414952"
+  "https://www.tokenpost.kr/news/breaking/414952",
+  "https://www.sentv.co.kr/article/view/sentv202609280094",
+  "https://www.apnews.kr/news/articleView.html?idxno=3051547",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260928010009626",
+  "http://www.journalist.or.kr/news/article.html?no=61734"
  ],
  "seen_titles": [
-  "\"AI악용,10억명사망사건촉발할수도\"…빌게이츠의경고",
-  "LG전자,AI데이터센터냉각솔루션분야엔비디아공식파트너됐다",
-  "입원기간·합병증가능성'뚝'…\"미·중게섰거라\"K로봇수술세계로",
-  "‘5주년’소피텔서울,‘콜렉티브’캠페인…팝업·미디어아트·미식...",
   "[Telecom&Now]KTAI모델라우팅기술,글로벌벤치마크종합2위",
   "KT'오토모델라우터',글로벌LLM라우터평가서종합2위",
   "KT,AI모델라우팅기술력입증…토큰팩토리에활용",
@@ -6001,7 +5997,11 @@
   "\"민원신청은쉽게,답변은신속하게\"...국민권익위,'국민신문고'인공...",
   "'푸른거탑'故이용주떠올린민진기감독\"'또연기하고싶다'던말기...",
   "KT,NATO국방통신표준화프로젝트참여···\"민·군기술협력체계강...",
-  "호주상원AI조사위,샘올트먼·다리오아모데이출석요청"
+  "호주상원AI조사위,샘올트먼·다리오아모데이출석요청",
+  "신세계I&C,메타AI글래스9개모델국내유통…웨어러블사업확대",
+  "고정좌석·유선망벗어난다…하나금융,3000명업무망5G전환",
+  "미국채금리20년만의최고에도버티는증시,AI자금줄언제까지열려...",
+  "방미통위,'YTN최대주주'유진이엔티청문회내달개최"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-09-28T12:34:14.778457+09:00",
    "출석 다리오 아모데이 요청 호주 조사위 상원"
+  ],
+  [
+   "2026-09-28T12:38:14.396949+09:00",
+   "20년 만의 증시 열려 언제까지 버티는 최고에도 자금줄 국채금리"
   ]
  ],
- "last_run": "2026-09-28T12:36:34.850603+09:00",
+ "last_run": "2026-09-28T12:38:38.124686+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
