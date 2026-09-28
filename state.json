@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/general-finance/6302948",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=363769",
   "https://www.ziksir.com/news/articleView.html?idxno=147548",
   "https://www.fetv.co.kr/news/articleView.html?idxno=310842",
   "https://www.etnews.com/20260928000143",
@@ -2999,11 +2997,11 @@
   "https://www.globale.co.kr/news/articleView.html?idxno=40681",
   "https://www.tokenpost.kr/news/ai/415424",
   "https://biz.sbs.co.kr/article_hub/20000337134?division=NAVER",
-  "https://www.newsis.com/view/NISX20260929_0003806159"
+  "https://www.newsis.com/view/NISX20260929_0003806159",
+  "https://www.tokenpost.kr/news/ai/415426",
+  "https://www.econovill.com/news/articleView.html?idxno=752072"
  ],
  "seen_titles": [
-  "방미심위차단비웃는불법웹툰·스트리밍'대체사이트'",
-  "하나금융,금융권첫5G특화망업무망구축...청라스마트오피스가동",
   "하나금융,금융권첫5G특화망업무망구축…청라3000명'무선오피스...",
   "하나금융,청라헤드쿼터에5G특화망…3000명업무환경바꾼다",
   "하나금융,금융권첫5G특화망기반업무망구축…청라스마트오피스...",
@@ -6001,7 +5999,9 @@
   "앤트로픽'클로드소네트5.5'공개,코딩강화로IPO채비가속",
   "로칸나,재귀적AI자기개선금지안발의예고",
   "젠슨황,'한미관계기여'밴플리트상받아…이재용·최태원도한자리",
-  "미FBI직원정보해킹은최악의정보유출사건-NYT"
+  "미FBI직원정보해킹은최악의정보유출사건-NYT",
+  "AI학습공정이용논란…언론사들법무부반박",
+  "[IT큐레이션]AI연구자22명이공포에질린이유"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,13 @@
   [
    "2026-09-29T07:18:18.933415+09:00",
    "사건 정보 직원 해킹은 최악의 유출 FBI NYT"
+  ],
+  [
+   "2026-09-29T07:22:15.225921+09:00",
+   "공포에 이유 22명이 질린 연구자"
   ]
  ],
- "last_run": "2026-09-29T07:20:38.135921+09:00",
+ "last_run": "2026-09-29T07:22:32.681224+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
