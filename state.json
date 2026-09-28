@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/260267",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=91756",
   "https://www.mk.co.kr/article/12161830",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=277420",
   "https://www.goodkyung.com/news/articleView.html?idxno=291759",
@@ -2999,11 +2997,11 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215706",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=277567",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=277570",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744164"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744164",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88291",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744180"
  ],
  "seen_titles": [
-  "'SK'후광벗으니…SK증권,수익성개선속도",
-  "연휴끝예산전쟁시작…눈여겨볼만한AI예산은",
   "AI가이제사람없이도해킹을결정한다",
   "AI,너무빠르다ㆍ악의적사용시10억명사망가능",
   "로봇의‘공간감각’깨운다...‘포켓몬고’개발사,한국피지컬AI시...",
@@ -6001,7 +5999,9 @@
   "오픈AI에이전트,유엔웹사이트API무차별스캔...\"단순스크래핑아...",
   "SKT,16층규모'5G스마트오피스'구축…금융권최초",
   "하나금융,금융권최초5G특화망기반업무망구축",
-  "SK텔레콤,하나금융청라사옥에5G전용망구축…무선업무환경전환"
+  "SK텔레콤,하나금융청라사옥에5G전용망구축…무선업무환경전환",
+  "빌게이츠도경고한AI위험...'브레이크'못밟는이유",
+  "미디어소비형태변화…기업광고예산집행구조변경"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,17 @@
   [
    "2026-09-28T13:18:14.301185+09:00",
    "스크래핑 에이전트 웹사이트 무차별 유엔 스캔 API 단순"
+  ],
+  [
+   "2026-09-28T13:22:14.643515+09:00",
+   "게이츠도 밟는 브레이크 이유 경고한 위험"
+  ],
+  [
+   "2026-09-28T13:22:14.643515+09:00",
+   "소비 구조 예산 기업 변화 광고 집행 변경 형태 미디어"
   ]
  ],
- "last_run": "2026-09-28T13:20:44.827989+09:00",
+ "last_run": "2026-09-28T13:22:41.506964+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
