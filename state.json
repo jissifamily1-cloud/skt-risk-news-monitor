@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html?partner=naver",
-  "https://www.g-enews.com/view.php?ud=2026092407452119622bd56fbc3c_1",
-  "https://www.nytimes.com/live/2026/09/23/us/trump-xi/heres-the-latest?partner=naver",
-  "https://www.segye.com/newsView/20260923511204?OutUrl=naver",
-  "https://www.ddaily.co.kr/page/view/2026092405515830978",
-  "https://www.news2day.co.kr/article/20260923500037",
-  "https://n.news.naver.com/mnews/article/091/0010319633",
-  "https://n.news.naver.com/mnews/article/077/0007174287",
-  "https://www.g-enews.com/view.php?ud=202609201554436085fbbec65dfb_1",
   "https://www.tokenpost.kr/news/ai/411180",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701880",
   "https://www.aitimes.com/news/articleView.html?idxno=215494",
@@ -2999,18 +2990,18 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=277704",
   "https://www.thepublic.kr/news/articleView.html?idxno=320178",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=320514",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=277481"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277481",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=761863",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3706808",
+  "https://biz.sbs.co.kr/article_hub/20000336939?division=NAVER",
+  "https://www.edaily.co.kr/News/Read?newsId=02355046645584712&mediaCodeNo=257",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3706798",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448015",
+  "https://www.smartbizn.com/news/articleView.html?idxno=154908",
+  "https://zdnet.co.kr/view/?no=20260928100821",
+  "https://www.g-enews.com/view.php?ud=202609281004072974fbbec65dfb_1"
  ],
  "seen_titles": [
-  "지금가장강한AI는누구?GPT-6아스트라·클로드5.1·제미나이3.8비...",
-  "엘레븐랩스연매출6억달러돌파…4개월만에20%늘며기업고객이절반...",
-  "America’sA.I.LeadersWarnU.N.ofPossiblePerilAbsentaGlobalResp",
-  "엔비디아젠슨황,10월카자흐첫방문…100억불AI협력가속",
-  "Here’sthelatest.",
-  "빅테크AI경쟁가속…개발‘속도조절’무색",
-  "트럼프에맞선올트먼·아모데이…유엔안보리서\"AI국제협력\"촉구",
-  "[김동헌의AI패러다임(53)]국가별AI리터러시교육⑧미국–하나의정...",
-  "USAUNGA",
   "UNGeneralAssemblyAI",
   "오픈AI추격에카드뽑은앤트로픽,신모델검토하며상장시계도조율...",
   "AI에이전트,격리우회…개발속도조절엇갈려",
@@ -6001,7 +5992,16 @@
   "KTRanksSecondInRouterArena",
   "한은도해킹사각지대?...직원186명정보유출에해킹시도2000건",
   "한은,직원정보무더기유출…해킹시도도2000건육박",
-  "한은직원186명개인정보유출...해킹시도올해다시급증"
+  "한은직원186명개인정보유출...해킹시도올해다시급증",
+  "숨겨둔'상담원연결'찾느라20분대기…통화료폭탄은소비자몫",
+  "대구광역시,510개등산로위험요소전면정비완료",
+  "비용때문에…실리콘밸리,개방형AI모델로돌아서",
+  "금융·통신영장,앞으로는온라인으로집행한다",
+  "대전교육청·5개자치구,학교밖배움터까지교육과정넓힌다",
+  "KT북대서양조약기구국방통신표준화참여,5G·6G기술협력확대",
+  "추석반납한이재용·최태원,뉴욕서젠슨황과'AI반도체삼각동맹'다...",
+  "日최대통신사NTT도코모,12월부터전가입자요금인상",
+  "\"구상단계부터통보하라\"美조선노조배수진…AI교실은빗장과수..."
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,17 @@
   [
    "2026-09-28T10:10:25.645894+09:00",
    "Ranks Second In RouterArena ~KT"
+  ],
+  [
+   "2026-09-28T10:14:14.309092+09:00",
+   "인상 NTT도코모 12월부터 요금 전가입자"
+  ],
+  [
+   "2026-09-28T10:14:14.309092+09:00",
+   "배수진 구상 노조 단계부터 조선 통보하라 교실은 빗장과"
   ]
  ],
- "last_run": "2026-09-28T10:12:36.008770+09:00",
+ "last_run": "2026-09-28T10:14:42.140594+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
