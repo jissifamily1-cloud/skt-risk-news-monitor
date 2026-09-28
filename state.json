@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.dealsitetv.com/articles/176050",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=866342",
   "https://www.boannews.com/news/articleView.html?idxno=145915",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1724663",
   "https://zdnet.co.kr/view/?no=20260917100942",
@@ -2999,11 +2997,11 @@
   "https://www.fntimes.com/html/view.php?ud=20260928212212786b372994c95_18",
   "https://www.thedailypost.kr/news/articleView.html?idxno=115875",
   "https://www.fnnews.com/news/202609282130270794",
-  "https://www.khan.co.kr/article/202609282131005"
+  "https://www.khan.co.kr/article/202609282131005",
+  "https://biz.heraldcorp.com/article/10886546",
+  "https://zdnet.co.kr/view/?no=20260928213609"
  ],
  "seen_titles": [
-  "풀무원,자사몰에'생성형AI최적화'…방문2.3배·구매7.4배",
-  "풀무원,공식몰‘AI엔진최적화’적용…시스템구축후구매7.4배급...",
   "아마존,'AI에이전트'뮤즈온라인몰서접근차단",
   "풀무원,공식몰생성형엔진최적화완료…AI커머스정조준",
   "풀무원,자사몰에'AI검색최적화'…상품탐색부터구매까지겨냥",
@@ -6001,13 +5999,11 @@
   "한국지역정보개발원,신임원장에우정민전KT부사장선임",
   "LG유플러스-IBCT,국내제조기업유럽공급망규제대응지원'맞손'",
   "‘K-AI’독파모,프론티어AI개발로통합",
-  "AI의결제실수…책임은누구의몫인가"
+  "AI의결제실수…책임은누구의몫인가",
+  "애플,‘긴급구조’자체기술자랑하더니…‘갤럭시2초,아이폰18초’...",
+  "\"개인정보보호법제정6년\"...개보위,다양한행사개최"
  ],
  "recent_sigs": [
-  [
-   "2026-09-28T15:44:16.831673+09:00",
-   "중국 증시 가능 최저치로 하락 구매 반도체 허가 1년만에"
-  ],
   [
    "2026-09-28T15:50:24.629658+09:00",
    "중소기업 기준 후퇴 이훈기 TV홈쇼핑 보호 의원"
@@ -6543,9 +6539,17 @@
   [
    "2026-09-28T21:38:14.337013+09:00",
    "~LGU 국내 규제 제조기업 LG유플러스 유럽 IBCT 대응 공급망 지원 맞손"
+  ],
+  [
+   "2026-09-28T21:46:14.323418+09:00",
+   "갤럭시 기술 긴급구조 아이폰 18초 자체 2초 애플 자랑하더니"
+  ],
+  [
+   "2026-09-28T21:46:14.323418+09:00",
+   "6년 다양한 제정 행사 개최 개인정보보호법"
   ]
  ],
- "last_run": "2026-09-28T21:44:31.146232+09:00",
+ "last_run": "2026-09-28T21:46:35.296623+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
