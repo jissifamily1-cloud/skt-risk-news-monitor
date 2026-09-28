@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260928102209",
-  "https://www.inthenews.co.kr/news/article.html?no=92382",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448041",
   "https://zdnet.co.kr/view/?no=20260928100142",
   "https://www.junggi.co.kr/news/articleView.html?idxno=37901",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=240167",
@@ -2999,12 +2996,12 @@
   "https://www.vegannews.co.kr/news/article.html?no=389342",
   "https://www.gukjenews.com/news/articleView.html?idxno=3707700",
   "http://www.hellodd.com/news/articleView.html?idxno=113321",
-  "https://www.mt.co.kr/world/2026/09/29/2026092908145338126"
+  "https://www.mt.co.kr/world/2026/09/29/2026092908145338126",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271122&CMPT_CD=P0010",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609220812424980103777",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703415"
  ],
  "seen_titles": [
-  "한투PE,'AI인프라선점'에그룹자본1조실탄장전...브룩필드·KKR과맞...",
-  "KT클라우드,군산에60MWAI데이터센터구축…300MW까지확대",
-  "\"中,엔비디아신형칩구매허용방침\"...엔비디아中AI시장복귀하나",
   "KT클라우드·SGC에너지,군산에최대300㎿AI데이터센터(종합)",
   "[인터뷰]델\"韓도베라루빈벌써찾는다…엔드투엔드지원앞장설것...",
   "\"통신요금은세계최고수준인데\"…투자는뒷걸음질치는한국이통사",
@@ -6001,7 +5998,10 @@
   "쓴만큼내는종량제,정해진금액내는정액제",
   "부산·인천·울산·여수광양항만공사노조,정부통합안반발'총궐기대...",
   "[조간브리핑]AI가자신을업그레이드한다···석학들이주목한'폭발의...",
-  "젤렌스키뺨때리는이대통령?…한·우크라갈등부추기는러시아"
+  "젤렌스키뺨때리는이대통령?…한·우크라갈등부추기는러시아",
+  "2차투자유치막바지,딥시크매출이뒤집은계산",
+  "[더벨][thebellinterview|AI스타트업in실리콘밸리]류인태베슬AI부...",
+  "또?테슬라로드스터공개…10월15일로연기"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,17 @@
   [
    "2026-09-29T08:38:17.610113+09:00",
    "기업에 삼성전자 투자 6개사 10억 데이터센터 달러"
+  ],
+  [
+   "2026-09-29T08:44:19.110843+09:00",
+   "베슬AI 류인태"
+  ],
+  [
+   "2026-09-29T08:44:19.110843+09:00",
+   "로드스터 공개 15일로 10월 연기 테슬라"
   ]
  ],
- "last_run": "2026-09-29T08:42:37.695788+09:00",
+ "last_run": "2026-09-29T08:44:40.130846+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
