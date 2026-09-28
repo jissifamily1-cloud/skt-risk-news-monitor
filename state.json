@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=319509",
-  "https://news.cpbc.co.kr/article/1175787?division=NAVER",
-  "https://www.newsis.com/view/NISX20260915_0003790295",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=607071",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260915010005803",
-  "https://www.mk.co.kr/article/12153332",
-  "https://www.youthdaily.co.kr/news/article.html?no=227133",
-  "https://www.yna.co.kr/view/AKR20260915143000002?input=1195m",
   "http://www.ddanzi.com/894457543",
   "https://biz.chosun.com/stock/stock_general/2026/09/15/WHGB2VRXJNFPBPJIKQSBG4VYZQ/",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754120&plink=ORI&cooper=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.ajunews.com/view/20260928150948131",
   "https://www.thedailypost.kr/news/articleView.html?idxno=115866",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=854973",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3707440"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3707440",
+  "http://www.inews24.com/view/2009644",
+  "https://www.mydaily.co.kr/page/view/2026092818471223327",
+  "http://www.osen.co.kr/article/G1112883538",
+  "https://www.hankyung.com/article/2026092802261",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=854970",
+  "https://www.catchnews.kr/news/articleView.html?idxno=128876",
+  "https://www.thedailypost.kr/news/articleView.html?idxno=115869",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=854972"
  ],
  "seen_titles": [
-  "[핫이슈]美첨단칩vs中전력·인재…'AI패권'반도체너머로번졌다",
-  "\"사스포칼립스끝이보인다\"…월가,소프트웨어주다시담는이유[딥씨...",
-  "AI수장들,유엔안보리에\"AI안전장치마련\"촉구",
-  "앨버니지호주총리\"오픈AI에이전트,정부웹사이트해킹\"",
-  "‘추석맞이’휴장대기한코스피…미·중정상회담앞두고“수급공...",
-  "'AI군대'도만들겠다는트럼프…\"미국의우위계속유지할것\"",
-  "[마켓인사이트]미중회담빅이벤트·추석연휴…韓증시어디로",
-  "젠슨황이점찍은‘이것’…AI개발늦춘다는데15%뛰었다[투자360]",
   "[기자수첩]혁신기업키우겠다더니,시총으로자르나",
   "[AIF2026]\"피지컬AI엔절대강자없다···향후3년이글로벌패권골든...",
   "AI속도조절하자는미국...'삼전닉스'가왕인코스피에끼칠영향?[이...",
@@ -6001,7 +5993,15 @@
   "[GPU發서브프라임위기]판매도,보증도엔비디아가…빨간불들어온순...",
   "'사랑해요LG'잇는새캠페인…LG,이번엔'미소'",
   "[통신풍향계]SKT'펜싱AI전력분석'지원·KT'오토모델라우터'호평...",
-  "계명대앵커추진단,AI캡스톤디자인전시회205개팀참여...1만2천명에..."
+  "계명대앵커추진단,AI캡스톤디자인전시회205개팀참여...1만2천명에...",
+  "\"폭발물설치했다\"협박한10대들,감형…\"나이어려\"",
+  "'이제는자책안하겠습니다'금메달획득김도영\"소속팀경기바로나...",
+  "AG金멤버들컴백한다!1군엔트리대지진…KIA윤도현-한승연-김현수...",
+  "\"대학합창단서만나음성인식AI회사창업했죠\"",
+  "[클라우드월드]강진모아이티센그룹회장'대한당구연맹회장'출마·...",
+  "\"240㎿급후속사업기대\"현대엔지니어링,8700억대'군산AI데이터센터...",
+  "KT지니뮤직,벤츠더뉴S-클래스에'돌비애트모스'음원공급",
+  "[시큐리티포커스]개보위'개인정보보호주간'운영-'AI프라이버시포..."
  ],
  "recent_sigs": [
   [
@@ -6715,9 +6715,13 @@
   [
    "2026-09-28T18:46:16.799311+09:00",
    "들어온 엔비디아가 빨간불 판매도 보증도"
+  ],
+  [
+   "2026-09-28T18:56:15.710673+09:00",
+   "보호주간 운영 개인정보 프라이버시"
   ]
  ],
- "last_run": "2026-09-28T18:54:31.671184+09:00",
+ "last_run": "2026-09-28T18:56:37.663806+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
