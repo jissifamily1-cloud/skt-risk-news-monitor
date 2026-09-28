@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=05513686645550928&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03542406645550928&mediaCodeNo=257",
-  "http://www.newsprime.co.kr/news/article.html?no=745007",
-  "https://www.news2day.co.kr/article/20260824500060",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=695021",
-  "https://www.ngonews.kr/news/articleView.html?idxno=236171",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=309545",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609230815190200250",
   "https://www.edaily.co.kr/News/Read?newsId=01371046645584712&mediaCodeNo=257",
   "https://news.tf.co.kr/read/economy/2369502.htm",
@@ -2999,16 +2992,16 @@
   "https://www.klnews.co.kr/news/articleView.html?idxno=322879",
   "https://www.mk.co.kr/article/12162916",
   "https://www.maxmovie.com/news/articleView.html?idxno=502107",
-  "https://www.hankookilbo.com/news/article/A2026092813570002644?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026092813570002644?did=NA",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50596",
+  "http://www.spochoo.com/news/articleView.html?idxno=130492",
+  "https://www.veritas-a.com/news/articleView.html?idxno=629725",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90040",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20260928010009764",
+  "https://www.itdaily.kr/news/articleView.html?idxno=241858",
+  "https://www.joongangenews.com/news/articleView.html?idxno=551031"
  ],
  "seen_titles": [
-  "\"100만인파몰린다\"…이통사,여의도불꽃축제트래픽대응총력전[종합...",
-  "보이스피싱종합대책효과…피해발생40%·피해액43%줄었다",
-  "[6G격전]③보안에사활...양자내성암호로'리셋'",
-  "AI3대강국도약,인프라부터…\"망·AIDC민간투자끌어내야\"[현장]",
-  "KT,서울세계불꽃축제'통신안전망'가동",
-  "“데이터다썼지만카톡하고싶어”…알뜰폰도‘안심옵션’적용시작",
-  "[단독]스타링크위성망으로LTE백홀가능…“관건은이통사망통제”",
   "[르포]이통사에부는脫로밍바람…LGU+,도쿄서체험행사진행",
   "벽에부딪힌안면인증시행···'패스앱'신분증폐지논란에정부'난...",
   "LG유플,日돈키호테서도멤버십할인",
@@ -6001,7 +5994,14 @@
   "KOMSA,AI예측'72시간'해상혼잡도데이터개방",
   "금융권첫5G특화망스마트오피스…SKT·하나금융·삼성전자맞손",
   "LG생활건강,멕시코K-엑스포성공적마무리…닥터그루트·더페이스샵...",
-  "솔리다임IPO에SK하이닉스급락…\"이러니국장떠나지\"반발도"
+  "솔리다임IPO에SK하이닉스급락…\"이러니국장떠나지\"반발도",
+  "김재겸롯데홈쇼핑대표국감증인채택…중소기업보호'역행'도마",
+  "2주간대표팀다녀왔는데,팀순위도개인타이틀도그대로네?상위5팀...",
+  "전남대'서남권반도체/에너지/AI메가프로젝트'를선도할인재2만3천...",
+  "개인정보위,통신3사와간담회…\"개인정보보호가최우선가치\"",
+  "개인정보위원장만난통신3사CEO…\"개인정보보호최우선경영가치로\"",
+  "개보위-이통3사,'신뢰가능한AI·디지털사회'협력나선다",
+  "한화11연패마침표,kt매직넘버는8로줄어"
  ],
  "recent_sigs": [
   [
@@ -6703,9 +6703,17 @@
   [
    "2026-09-28T17:38:15.978536+09:00",
    "급락 국장 반발도 이러니 SK하이닉스 솔리다임 떠나지 IPO에"
+  ],
+  [
+   "2026-09-28T17:40:28.190138+09:00",
+   "이통3사 협력 디지털 사회 가능한 나선다 신뢰"
+  ],
+  [
+   "2026-09-28T17:40:28.190138+09:00",
+   "한화 8로 매직넘버는 11연패 줄어 마침표 ~KT"
   ]
  ],
- "last_run": "2026-09-28T17:38:43.329409+09:00",
+ "last_run": "2026-09-28T17:40:48.092982+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
