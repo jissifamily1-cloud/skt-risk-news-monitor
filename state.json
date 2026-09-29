@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112883289",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092170905",
   "https://www.etnews.com/20260928000207",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267242",
   "https://www.tokenpost.kr/news/blockchain/414910",
@@ -2999,11 +2997,11 @@
   "https://www.sentv.co.kr/article/view/sentv202609290036",
   "https://www.mk.co.kr/article/12163397",
   "https://zdnet.co.kr/view/?no=20260929092721",
-  "https://economist.co.kr/article/view/ecn202609290005"
+  "https://economist.co.kr/article/view/ecn202609290005",
+  "https://zdnet.co.kr/view/?no=20260924101749",
+  "https://www.newspim.com/news/view/20260929000197"
  ],
  "seen_titles": [
-  "하나금융,SKT·삼성전자와5G특화망기반스마트오피스구축",
-  "﻿SK최태원회장동거인김희영,악성유튜버상대로1000만원승소",
   "LG유플러스,카테나-X로국내제조기업유럽공급망규제대응지원",
   "AI전쟁·통상압박속연말인사…4대그룹,‘실전형인재’전면세...",
   "개보위,내일'글로벌AI프라이버시포럼'개최",
@@ -6001,7 +5999,9 @@
   "KT,‘고객경청포럼’확대…소상공인현장목소리듣는다",
   "대흥역·공덕역더블역세권…KT에스테이트,프리미엄청년안심주택‘...",
   "KT,23개국참여국제사이버훈련서방어역량점검",
-  "삼성,엔비디아와함께미국AI인프라기업창립투자자로나서"
+  "삼성,엔비디아와함께미국AI인프라기업창립투자자로나서",
+  "앨버니지호주총리\"오픈AI에이전트가호주정부웹사이트해킹\"",
+  "[AIMY뉴스]29일중국증시'美금리·중동리스크겹악재…中연휴전..."
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-09-29T09:32:15.670503+09:00",
    "창립 미국 투자자로 함께 엔비디아와 인프라 기업 나서 삼성"
+  ],
+  [
+   "2026-09-29T09:34:14.830142+09:00",
+   "금리 29일 중국증시 겹악재 연휴 리스크 중동"
   ]
  ],
- "last_run": "2026-09-29T09:32:38.906690+09:00",
+ "last_run": "2026-09-29T09:34:38.670625+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
