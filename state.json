@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5066550",
-  "https://www.mk.co.kr/article/12162819",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=310880",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192529",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192521",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609280163&t=NN",
@@ -2999,12 +2996,12 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=277640",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89809",
   "https://sports.khan.co.kr/article/202609291221003?pt=nv",
-  "https://biz.chosun.com/industry/company/2026/09/29/7ZHSREMLEVA3BJEIDNVVVMA7WI/"
+  "https://biz.chosun.com/industry/company/2026/09/29/7ZHSREMLEVA3BJEIDNVVVMA7WI/",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=157608",
+  "https://www.hankyung.com/article/202609291760i",
+  "https://www.betanews.net/article/view/beta202609290057"
  ],
  "seen_titles": [
-  "현대엔지니어링,AI데이터센터새먹거리로…\"연내1.9조수주정조준...",
-  "SK하이닉스,TSMC와HBM5검증…‘올해의파트너’2년연속수상",
-  "[증시인사이트]삼전·닉스약세에7천선내준코스피…마이크론실적...",
   "TSMC,AI수요에첨단패키징공장5곳추가추진…대만자이에세계최...",
   "빅파마는AI에수조원베팅…국내제약사신약개발성과는",
   "\"서버메모리도공유한다\"…삼성전자,차세대AI메모리전략은",
@@ -6001,7 +5998,10 @@
   "1887억과징금·수사의뢰딛고…통신3사CEO\"개인정보최우선\"",
   "이재용·최태원회장,젠슨황CEO'밴플리트상'수상직접축하…\"한...",
   "5강모두몰입할,최후구도정리매치‘KIA-KT광주3연전’",
-  "최태원,밴플리트賞받은젠슨황에축하…“당신의파트너가돼기쁘..."
+  "최태원,밴플리트賞받은젠슨황에축하…“당신의파트너가돼기쁘...",
+  "하이트진로가투자한스타트업,잇달아팁스선정…신사업투자성과...",
+  "AI대모페이페이리교수,AMD에합류",
+  "슈퍼마이크로,엔비디아베라루빈NVL72랙출하개시"
  ],
  "recent_sigs": [
   [
@@ -6717,7 +6717,7 @@
    "신제품 기만하는 철회 인간"
   ]
  ],
- "last_run": "2026-09-29T12:30:50.882428+09:00",
+ "last_run": "2026-09-29T12:32:32.550084+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
