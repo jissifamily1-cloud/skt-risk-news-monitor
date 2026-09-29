@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=638818",
-  "https://www.viva100.com/article/20260928501207",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=881965",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318258",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1017285",
-  "https://www.hani.co.kr/arti/international/china/1279821.html",
-  "https://theviewers.co.kr/View.aspx?No=4243547",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281657536700619",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703180",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609281618372460612",
   "https://it.chosun.com/news/articleView.html?idxno=2023092170931",
@@ -2999,17 +2991,17 @@
   "https://zdnet.co.kr/view/?no=20260929130221",
   "https://www.tokenpost.kr/news/ai/415578",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=363869",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=610699"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=610699",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=201931",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89814",
+  "http://www.osen.co.kr/article/G1112884015",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1102795",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96189",
+  "https://www.busan.com/view/busan/view.php?code=2026092911493035202",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673613",
+  "https://www.tokenpost.kr/news/ai/415584"
  ],
  "seen_titles": [
-  "소프트프릭“API보안의핵심은거버넌스”",
-  "SK하이닉스'파운드리공룡'대만TSMC와밀월강화,HBM5협업인정받아...",
-  "컴투스플랫폼,AI게임백엔드'하이브액실'30일공개",
-  "SK하이닉스,TSMC와HBM5검증…차세대메모리로드맵공개",
-  "이준호의인공지능이야기<61>메타의뮤즈가깨운비서전쟁,AI는왜멈...",
-  "美국방부-앤트로픽,AI사용조건충돌…법원\"앤트로픽배제적법\"",
-  "LG생활건강,멕시코K-엑스포서K-뷰티브랜드선보여",
-  "AI‘쩐의전쟁’덮친고금리⋯인프라투자부담시험대",
   "서산시청권협준,아시안게임사격동메달2개획득",
   "[유통브리핑]쿠팡,'하반기주방와우리빙쇼'진행외",
   "한경협“스타트업100팀,혁신기업으로육성대장정돌입”",
@@ -6001,7 +5993,15 @@
   "AI대모의오디세이…페이페이리가그릴‘새로운세계’",
   "AI못하면사람부른다…와조'포'인간비서결합",
   "LG전자,블록형AI데이터센터냉각솔루션첫선",
-  "[총수家]이재용삼성전자회장⑩ㅣ글로벌네트워크총동원…AI반도..."
+  "[총수家]이재용삼성전자회장⑩ㅣ글로벌네트워크총동원…AI반도...",
+  "[전자·IT레이더]카카오,AI안전성평가체계구축...'카나나상담매...",
+  "카카오,AI안전성검증체계만든다…언어모델넘어에이전트까지평...",
+  "1+1롱맨도자청,연패스토퍼에승률높은데2주넘게개점휴업...197승...",
+  "뉴욕타임스스퀘어에뜬젠슨황...삼성전자,수상축하영상",
+  "[K-빅샷룩업]젠슨황축하나선이재용…\"우리공통점은'AI올인'과'...",
+  "최태원,젠슨황에건배사…“SK는기억,엔비디아는두뇌”",
+  "[무등의아침]KIA,준P.O직행걸린‘운명의6연전’…KT·LG를넘어라",
+  "엔비디아5000억달러AI금융…오하이오프로젝트조건부지급의무상한..."
  ],
  "recent_sigs": [
   [
@@ -6715,9 +6715,17 @@
   [
    "2026-09-29T13:24:16.991440+09:00",
    "네트워크 회장 총동원 삼성전자 반도 이재용 글로벌"
+  ],
+  [
+   "2026-09-29T13:26:16.666267+09:00",
+   "운명의 ~KT 준P 6연전 KIA 넘어라 걸린 직행 LG를"
+  ],
+  [
+   "2026-09-29T13:26:16.666267+09:00",
+   "5000억달러 오하이오 의무 조건부 프로젝트 금융 상한 지급"
   ]
  ],
- "last_run": "2026-09-29T13:24:37.699816+09:00",
+ "last_run": "2026-09-29T13:26:38.848824+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
