@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=86636",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436747",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=89798",
   "https://www.newspim.com/news/view/20260928001049",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=192532",
   "https://www.hankyung.com/article/2026092800881",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/PYH20260929124600072?input=1196m",
   "https://www.yna.co.kr/view/PYH20260929124800072?input=1196m",
   "http://www.newsprime.co.kr/news/article.html?no=749238",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315070&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1315070&inflow=N",
+  "https://www.ziksir.com/news/articleView.html?idxno=147656",
+  "http://www.gndomin.com/news/articleView.html?idxno=491006",
+  "https://biz.sbs.co.kr/article_hub/20000337265?division=NAVER"
  ],
  "seen_titles": [
-  "개인정보위-통신3사CEO첫회동…\"개인정보보호,최우선가치로\"(종합...",
-  "베라루빈용‘전층냉각’적용…군산AIDC2028년문연다",
-  "\"최고의파트너\"…TSMC가극찬한‘메모리강자’SK하이닉스",
   "한화자산운용,자체AI'오딘'전사업무에적용",
   "오퍼스5.5,자기개선평가서1위…'완전한RSI도달'2027년7월로앞당...",
   "SKT정재헌“AI서비스개인정보처리기준,정부가명확히해야”",
@@ -6001,7 +5998,10 @@
   "밴플리트상들고기념촬영하는젠슨황엔비디아최고경영자",
   "수상소감밝히는젠슨황엔비디아최고경영자",
   "젠슨황,밴플리트상수상…이재용·최태원도축하",
-  "중,엔비디아AI칩구매재개움직임…삼전·하닉‘반사이익’"
+  "중,엔비디아AI칩구매재개움직임…삼전·하닉‘반사이익’",
+  "이통3사,'개인정보보호'최우선경영선언…CEO중심거버넌스확립",
+  "거제시케이블카(주),거제시호우피해3000만원지원",
+  "엔트로픽투자설명서,AI'위험'이사업두배분량"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,13 @@
   [
    "2026-09-29T14:10:24.643975+09:00",
    "AI칩 삼전 하닉 재개 움직임 반사이익 구매"
+  ],
+  [
+   "2026-09-29T14:12:14.729757+09:00",
+   "두배 분량 사업 투자설명서 위험"
   ]
  ],
- "last_run": "2026-09-29T14:10:45.486443+09:00",
+ "last_run": "2026-09-29T14:12:35.491022+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
