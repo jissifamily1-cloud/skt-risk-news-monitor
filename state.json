@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://wemakenews.co.kr/news/view.php?no=26428",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=665393",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=246797",
-  "https://www.dailian.co.kr/news/view/1695594/?sc=Naver",
-  "https://www.joongangenews.com/news/articleView.html?idxno=551091",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855019",
-  "https://www.newscj.com/news/articleView.html?idxno=3436363",
-  "https://www.seoul.co.kr/news/sport/baseball/2026/09/29/20260929500103?wlog_tag3=naver",
-  "https://www.starnewskorea.com/sports/2026/09/29/2026092911261251061",
   "https://www.nongmin.com/article/20260929500085",
   "https://www.munhwa.com/article/11620189",
   "http://www.4th.kr/news/articleView.html?idxno=2118817",
@@ -2999,18 +2990,18 @@
   "https://www.sportschosun.com/baseball/2026-09-30/202609300100202180013376",
   "https://www.mk.co.kr/article/12164349",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010450",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16228573"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16228573",
+  "https://biz.sbs.co.kr/article_hub/20000337221?division=NAVER",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=44056",
+  "https://biz.sbs.co.kr/article_hub/20000337423?division=NAVER",
+  "https://www.fntimes.com/html/view.php?ud=202609300720359118141825007d_18",
+  "https://www.etoday.co.kr/news/view/2630616",
+  "https://www.public25.com/news/articleView.html?idxno=55572",
+  "https://www.edaily.co.kr/News/Read?newsId=02528886645585368&mediaCodeNo=257",
+  "https://www.dt.co.kr/article/12086553",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491228"
  ],
  "seen_titles": [
-  "대신증권\"LG전자,외부매출시작\"...엔비디아협력구체화,액추에이터...",
-  "\"10년넘은조치원제2청사논의,이제실행할때\"…정연희의원촉구",
-  "중진공부산경남연수원,AI전환전략세미나개최…참가자모집",
-  "유인호세종시의원\"글로벌진로탐험대,필요성·교육효과철저히검증...",
-  "김창연세종시의원\"보도는오토바이지름길아냐…보행안전대책필요...",
-  "보이스피싱피해액첫1조원돌파…전화·문자접근94%",
-  "[기자수첩]AI시대,통신사는왜감정을팔까",
-  "한미관계기여인정…AI혁신가,명예의'밴플리트상'받았다",
-  "이재용·최태원,뉴욕서젠슨황축하…\"AI동맹최전선에서있다\"(종합...",
   "삼성전자,美뉴욕타임스스퀘어에젠슨황띄웠다…밴플리트상수상...",
   "최태원\"엔비디아는두뇌,SK는기억\"…젠슨황'밴플리트상'수상에건...",
   "\"젠슨이깜빡하면최태원에게전화\"…SK·엔비디아'두뇌와기억'동맹",
@@ -6001,7 +5992,16 @@
   "'충격붕괴'KIA,이선수부터꼬였다…\"10구단불펜왼손중제일강한...",
   "‘마이케이티’에AI에이전트심었더니…놓쳤던혜택이‘와르르’",
   "'1위전쟁'삼성,국가대표에이스피할수있나?곽빈베일에싸인등판...",
-  "KBO프로야구,30일경기중계일정→선발투수?"
+  "KBO프로야구,30일경기중계일정→선발투수?",
+  "SKT‘독파모’주역엔비디아로…AI인재빨아들인다",
+  "SK기여입증하려꺼낸'김옥숙메모'…노소영,검찰서자금경위설명...",
+  "[마켓프리뷰]美국채금리에코스피이틀째후퇴…삼전닉스보합권",
+  "[KFT모닝브리프]2026.09.30—오늘꼭알아야할국내외경제뉴스",
+  "뉴욕증시,국채금리고공행진에약보합마감⋯다우0.26%↓[종합]",
+  "뉴욕증시,국채금리상승속약보합세다우0.26%↓...국제유가WTI3.5%↓",
+  "삼전닉스도영향?…마이크론초강세전망나와",
+  "올트먼“AI안전확신없인IPO서두르지않겠다”…“월가성과압박...",
+  "오픈AI몸값1900조원넘본다…보름만에기업가치2000억달러'껑충'"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,13 @@
   [
    "2026-09-30T07:22:15.396457+09:00",
    "떠안을까 구형도 가격 통신사가 아이폰18 애플 나왔는데 부담"
+  ],
+  [
+   "2026-09-30T07:30:33.848350+09:00",
+   "2000억달러 껑충 몸값 1900조원 넘본다 만에 기업가치 보름"
   ]
  ],
- "last_run": "2026-09-30T07:28:31.606894+09:00",
+ "last_run": "2026-09-30T07:30:52.249721+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
