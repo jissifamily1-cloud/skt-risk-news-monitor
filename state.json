@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701531",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701520",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=701518",
-  "https://www.aitimes.com/news/articleView.html?idxno=215372",
-  "https://www.tokenpost.kr/news/ai/409940",
-  "https://www.tokenpost.kr/news/ai/409642",
-  "https://www.tokenpost.kr/news/ai/409630",
-  "https://www.tokenpost.kr/news/cryptocurrency/409605",
   "https://www.aitimes.com/news/articleView.html?idxno=215386",
   "https://zdnet.co.kr/view/?no=20260917111717",
   "https://www.aitimes.com/news/articleView.html?idxno=215392",
@@ -2999,17 +2991,17 @@
   "https://www.etnews.com/20260929000306",
   "https://www.m-i.kr/news/articleView.html?idxno=2000712",
   "https://biz.sbs.co.kr/article_hub/20000337266?division=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=04460806645585040&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=04460806645585040&mediaCodeNo=257",
+  "https://www.fnnews.com/news/202609282151066697",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491134",
+  "http://www.metroseoul.co.kr/article/20260929500474",
+  "https://www.sedaily.com/article/20096143",
+  "http://coinreaders.com/260650",
+  "http://www.yonhapnewstv.co.kr/news/AKR20260929162018Rco",
+  "https://www.vegannews.co.kr/news/article.html?no=389573",
+  "https://www.khan.co.kr/article/202609291619001"
  ],
  "seen_titles": [
-  "앤트로픽,AI안전평가기관으로액센추어선정…독립성논란확대",
-  "‘AI속도조절론’에도…증권가“코스피7500까지간다”긍정평가",
-  "[주간증시전망]다음주코스피6400~7500⋯美中정상회담에쏠린시선",
-  "AI평가자,접근권넘어편집권·보복방지요구",
-  "AI속도조절론에머스크·올트먼동조…트럼프·황은반대",
-  "칩로이“AI규제반대”…의회감독역할은인정",
-  "앤드류응\"AI인류멸종위협은SF\"...'공포마케팅'일침",
-  "AI뇌절파티3:AI종말론과속도조절론",
   "오픈AI,'대형신제품'출시일주일연기…'GPT-6솔'기대감고조",
   "AI속도조절론,기업가의'숨은계산'을의심해야하는까닭",
   "앤드류응\"AI멸종론은공상과학...업계가공포부추겨\"",
@@ -6001,7 +5993,15 @@
   "티빙,개인정보유출보상신청기간10월30일까지연장",
   "이재용·최태원·젠슨황뉴욕서한자리…'AI동맹'재확인",
   "[영상]삼성,뉴욕한복판에젠슨황띄웠다…이재용\"오랜친구,축하해...",
-  "티빙,해킹피해보상신청기간연장…\"고객불편해소노력\""
+  "티빙,해킹피해보상신청기간연장…\"고객불편해소노력\"",
+  "'10조네이버GPU'얼마까지담보로쳐줄까…금융권새셈법에'복잡'[f...",
+  "코스피,美금리부담에0.27%내려6870선...코스닥은반도체소부장강...",
+  "AI칩공급난에빨라지는증산시계…삼성·SK·TSMC투자가속",
+  "코스피,이틀연속하락세…삼성전자,배당락딛고상승마감[마켓시그...",
+  "前CFTC위원장\"2036년이면모든가치자산토큰화된다\"",
+  "미국플로리다주,법원에\"오픈AI감시없이개발금지\"요청",
+  "큰변화뒤평균으로돌아오는이유",
+  "엔비디아,통제벗어난AI에이전트‘밀리초단위’로격리하는플랫폼..."
  ],
  "recent_sigs": [
   [
@@ -6827,9 +6827,17 @@
   [
    "2026-09-29T16:20:22.969438+09:00",
    "불편 노력 해소 신청기간 고객 피해 보상 연장 티빙"
+  ],
+  [
+   "2026-09-29T16:22:16.739471+09:00",
+   "이유 변화 평균으로 돌아오는"
+  ],
+  [
+   "2026-09-29T16:22:16.739471+09:00",
+   "통제 격리하는 밀리초 플랫폼 벗어난 에이전트 단위"
   ]
  ],
- "last_run": "2026-09-29T16:20:43.874102+09:00",
+ "last_run": "2026-09-29T16:22:43.867827+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
