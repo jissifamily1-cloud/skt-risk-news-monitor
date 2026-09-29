@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.datanet.co.kr/news/articleView.html?idxno=214740",
-  "https://www.yna.co.kr/view/AKR20260928104700003?input=1195m",
-  "https://www.mediapen.com/news/view/1126380",
-  "https://www.viva100.com/article/20260928500714",
-  "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900019.html",
-  "https://economychosun.com/site/data/html_dir/2026/09/19/2026091900017.html",
-  "https://www.sportsseoul.com/news/read/1637984",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=320339",
   "https://www.news2day.co.kr/article/20260923500110",
   "https://biz.chosun.com/topics/law_firm/2026/09/23/A64WFLUUYZGA3AYKF2PEJWMS5M/",
@@ -2999,16 +2992,16 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=301674",
   "https://www.greened.kr/news/articleView.html?idxno=350951",
   "https://www.newsis.com/view/NISX20260929_0003806423",
-  "https://www.smarttoday.co.kr/ko-kr/articles/112052"
+  "https://www.smarttoday.co.kr/ko-kr/articles/112052",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117404",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=137070",
+  "https://biz.heraldcorp.com/article/10887221",
+  "https://www.newspim.com/news/view/20260929000275",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253418",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=855003",
+  "https://biz.heraldcorp.com/article/10887279"
  ],
  "seen_titles": [
-  "국내기업유럽공급망규제지원…LGU+,IBCT와'맞손'",
-  "LG이노텍부터코세스까지…AI·XR수혜메타버스주매수세유입'촉각'",
-  "[프로야구전망대]'1위탈환?'삼성라이온즈,운명의6연전",
-  "현대엔지니어링\"올해데이터센터일감1.9조…군산서시작\"",
-  "현대엔지니어링,데이터센터정조준…올해1.9조수주'눈앞'",
-  "20안타쏟아낸KT,두산에12-6승리...삼성과3경기차",
-  "“야구장에서핀가족웃음꽃”…세마동체육회,주민과함께한특별한...",
   "'남행열차'김수희,10년만에챔피언스필드찾는다...KIA,KT와홈3연전...",
   "신세계I&C,메타신규AI안경국내유통…‘리사안경’은64만원",
   "KT클라우드,SGC에너지군산AI데이터센터구축착수...액체냉각기술...",
@@ -6001,7 +5994,14 @@
   "\"찾지않아도AI가먼저\"…KT,마이케이티를'AX앱'으로전면개편",
   "박윤영의'실사구시리더십'…KT,'고객경청포럼'통해서비스·제도업...",
   "10경기남기고매직넘버8…'금의환향'지원군합류한KT,선두수성박...",
-  "\"스마트폰교육해달라\"는한마디에매장수업개설…KT,현장목소리로..."
+  "\"스마트폰교육해달라\"는한마디에매장수업개설…KT,현장목소리로...",
+  "최태원,젠슨황에\"엔비디아는두뇌,SK는기억\"...AI동맹강조",
+  "최태원,젠슨황밴플리트상축하…\"AI시대한미협력이끌어\"",
+  "최태원“젠슨황수상축하…GPU수요보다우리의파트너십이더빨리...",
+  "뉴욕서만난젠슨황·이재용·최태원…\"오랜친구·파트너\"",
+  "삼성전자,뉴욕타임스스퀘어에젠슨황밴플리트상축하영상",
+  "삼성전자,뉴욕한복판서젠슨황'밴플리트상'축하…\"개척자이자친...",
+  "“전남광주,반도체로中선전처럼될수있어…공급거점으로육성”[..."
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-09-29T10:40:24.709286+09:00",
    "개설 스마트폰 현장 ~KT 목소리로 매장 한마디에 수업 달라 교육해"
+  ],
+  [
+   "2026-09-29T10:42:15.880677+09:00",
+   "전남광주 반도체로 있어 거점으로 선전처럼 공급 육성"
   ]
  ],
- "last_run": "2026-09-29T10:41:03.638466+09:00",
+ "last_run": "2026-09-29T10:42:33.805342+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
