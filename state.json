@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1315002&inflow=N",
-  "https://news.appstory.co.kr/daily19605",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315000&inflow=N",
-  "https://www.aitimes.com/news/articleView.html?idxno=215723",
-  "https://news.jtbc.co.kr/article/NB12320355?influxDiv=NAVER",
   "https://www.hankookilbo.com/news/article/A2026092816240000138?did=NA",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601319497254",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448077",
@@ -2999,14 +2994,14 @@
   "http://www.weeklytoday.com/news/articleView.html?idxno=796135",
   "https://www.dailian.co.kr/news/view/1695212/?sc=Naver",
   "https://www.mydaily.co.kr/page/view/2026092913371939054",
-  "https://www.thelec.kr/news/articleView.html?idxno=62911"
+  "https://www.thelec.kr/news/articleView.html?idxno=62911",
+  "https://www.newsis.com/view/NISX20260929_0003807009",
+  "https://www.insight.co.kr/news/575728",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3708008",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436915",
+  "http://www.metroseoul.co.kr/article/20260929500246"
  ],
  "seen_titles": [
-  "통신3사,AI사업확대발맞춰개인정보보호도강화…\"사고전위험부...",
-  "현대엔지니어링,총사업규모8700억규모'군산AI데이터센터신축사...",
-  "TTA,NATO5G·6G국방통신표준회의서울서개최",
-  "\"잠시기다려주시면...\"상담사연결까지1시간,'요금폭탄'터진다?",
-  "개인정보위,통신3사보호체계실태점검검토…\"개선수준확인\"",
   "[마켓펄스]금리·인플레우려에다시깨진7000피...'삼전닉스'5%대↓",
   "[특파원칼럼]거침없이진격하던'AI심장부'가멈칫한이유",
   "RWA제도권진입본격화…결제·표준인프라는과제",
@@ -6001,17 +5996,14 @@
   "[위클리오늘]KT소식(9.29)",
   "\"머릿속절반은개인정보보호\"…통신3사CEO,보안강화약속(종합)",
   "젠슨황뜨자삼성·SK총출동…딸·동거인동반하고뉴욕서‘축하전’",
-  "삼성·SK,젠슨황'밴플리트상'수상축하"
+  "삼성·SK,젠슨황'밴플리트상'수상축하",
+  "신용한지사휴대폰압수…'불법선거운동의혹'수사속도",
+  "러국영매체\"젤렌스키포로공개,한국무기지원거부에대한보복?\"",
+  "세종에서1박2일...꿩먹고알먹고'세종의찐10경'을즐겨라!",
+  "[인터뷰]\"아예AI골격을바꿨다\"…모티프임정환대표",
+  "메타AI안경韓공략확대…대중화열쇠는'카메라신뢰'"
  ],
  "recent_sigs": [
-  [
-   "2026-09-29T07:40:24.711200+09:00",
-   "KPGA 하면 다르다 최경주가 인비테이셔널 최경주 1일 현대해상 10월"
-  ],
-  [
-   "2026-09-29T07:42:15.946573+09:00",
-   "주장과 출시 Astra 달라 취소 GPT"
-  ],
   [
    "2026-09-29T07:46:51.329235+09:00",
    "한미 젠슨 공로 인정 밴플리트상 기술협력 수상"
@@ -6723,9 +6715,17 @@
   [
    "2026-09-29T13:36:16.298227+09:00",
    "신제품 데브데이서 작동 에이전트 주목 상시 20개 예고"
+  ],
+  [
+   "2026-09-29T13:42:17.738869+09:00",
+   "임정환 대표 골격을 아예 바꿨다 모티프"
+  ],
+  [
+   "2026-09-29T13:42:17.738869+09:00",
+   "열쇠는 공략 안경 카메라 신뢰 대중화 메타 확대"
   ]
  ],
- "last_run": "2026-09-29T13:40:39.373319+09:00",
+ "last_run": "2026-09-29T13:42:41.453171+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
