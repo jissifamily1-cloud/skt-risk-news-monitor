@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1239622",
-  "https://www.newscj.com/news/articleView.html?idxno=3436394",
-  "https://www.huffingtonpost.kr/article/260832",
   "https://sports.khan.co.kr/article/202609291313003?pt=nv",
   "https://www.ggilbo.com/news/articleView.html?idxno=1184133",
   "https://www.naeil.com/news/read/603689",
@@ -2999,12 +2996,12 @@
   "https://www.dt.co.kr/article/12086564",
   "https://www.hankyung.com/article/202609303421i",
   "https://www.seoulfn.com/news/articleView.html?idxno=638936",
-  "https://www.edaily.co.kr/News/Read?newsId=02732246645585368&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02732246645585368&mediaCodeNo=257",
+  "https://www.naeil.com/news/read/603686",
+  "https://www.tokenpost.kr/news/breaking/416103",
+  "https://biz.heraldcorp.com/article/10888289"
  ],
  "seen_titles": [
-  "아우토크립트,미디어텍칩셋보안취약점발견…CVE등록",
-  "삼성전자포함삼성6개사미국AI인프라기업헬릭스에10억달러투자...",
-  "AI모델성능만으론부족…CTO들이꼽은경쟁력은최적화",
   "삼성,인공지능생태계영토확장나서",
   "장비업계,삼성전기6.8조AI기판증설수혜입을까",
   "‘팀삼성’6개사,미국헬릭스에10억달러투자..AI인프라영토확장",
@@ -6001,7 +5998,10 @@
   "트럼프,AI규제대신업계자율통제…‘슈퍼지능협약’체결",
   "통제벗어난AI즉시격리…엔비디아,'AI감시플랫폼'출시",
   "\"책임은이사회가지는데\"···통신3사,개인정보전문이사는1人뿐",
-  "미중정상회담국빈만찬서'배제'된中기업인들왜?"
+  "미중정상회담국빈만찬서'배제'된中기업인들왜?",
+  "통신3사CEO“개인정보최우선”공동선언",
+  "로빈후드,AI자동매매·주말주식거래도입",
+  "SKT,3대고객만족도조사‘싹쓸이’…KCSI1년만에1위탈환"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-09-30T08:26:20.522386+09:00",
    "배제 국빈만찬서 미중정상회담 기업인들"
+  ],
+  [
+   "2026-09-30T08:28:17.471401+09:00",
+   "3대 싹쓸이 KCSI 고객만족도 1위 탈환 1년 만에 조사 ~SKT"
   ]
  ],
- "last_run": "2026-09-30T08:26:44.256474+09:00",
+ "last_run": "2026-09-30T08:28:38.932431+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
