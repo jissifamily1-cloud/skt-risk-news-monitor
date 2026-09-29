@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/414289",
-  "https://www.tokenpost.kr/news/breaking/414283",
-  "https://www.nytimes.com/2026/09/25/technology/openai-hugging-face-hack.html?partner=naver",
-  "https://www.tokenpost.kr/news/ai/414265",
-  "https://www.ddaily.co.kr/page/view/2026092604512923640",
-  "https://www.ddaily.co.kr/page/view/2026092604420099327",
-  "https://www.g-enews.com/view.php?ud=202609220845018510906806b77b_1",
-  "https://www.nytimes.com/2026/09/25/science/china-ai-distillation-copying.html?partner=naver",
-  "https://www.aitimes.com/news/articleView.html?idxno=215652",
   "https://www.nytimes.com/2026/09/25/business/dealbook/trump-xi-tech-ceos-state-dinner.html?partner=naver",
   "https://www.nytimes.com/2026/09/25/podcasts/hardfork-ezra-klein-jensen-huang.html?partner=naver",
   "https://www.nytimes.com/2026/09/25/business/trump-xi-jinping-chinese-executives.html?partner=naver",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/News/Read?newsId=04372246645585040&mediaCodeNo=257",
   "https://www.yna.co.kr/view/AKR20260929137900017?input=1195m",
   "https://news.cpbc.co.kr/article/1175984?division=NAVER",
-  "https://www.thebilliards.kr/news/articleView.html?idxno=32030"
+  "https://www.thebilliards.kr/news/articleView.html?idxno=32030",
+  "http://www.lkp.news/news/articleView.html?idxno=84465",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=717156",
+  "https://www.kpinews.kr/newsView/1065590307557575",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=318440",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7186459",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=312146",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60786",
+  "https://www.joongangenews.com/news/articleView.html?idxno=551323",
+  "https://www.hankyung.com/article/202609292332i"
  ],
  "seen_titles": [
-  "AI취약점방어능력비교지표공개…발견부터패치까지평가",
-  "인형두고\"빵아니면찔러라\"…AI로봇팔선택'충격'",
-  "[ChrisMcKinney&HenryHaggard]WhyAIneedsmoretime",
-  "AI가웹의지형을바꾼다…검색·클릭·원문방문의공식이무너진다",
-  "DidAnthropic’sA.I.ReallyMakeaScientificDiscoveryonItsOwn?",
-  "안전하다'는의료AI,증거를대라(하)",
-  "TheId,theEgoandtheSuperintelligence",
-  "[위클리오늘]구자근의원,\"제조암묵지AI사업,집행액60%가인건비…...",
-  "JobTitlesAreOut.NowWe’reAll‘MembersoftheTechnicalStaff.’",
   "AsA.I.Accelerates,GovernmentsAreIncreasinglyBeingLeftBehind",
   "[아침을열며]\"무료로는안된다니까\"",
   "[김대호인물]MS나델라(MS)...빌게이츠후계자승계의비밀",
@@ -6001,7 +5992,16 @@
   "'유로7'두달앞으로…아우토크립트,보안영토유럽확장기대",
   "티빙,개인정보유출보상신청10월30일까지연장",
   "[시사천국]맹성현\"인본주의적AI만들어야…AI속도조절,지금이적기...",
-  "펜싱에불어온AI바람,당구에도가능할까…'기호2번'강진모후보,'..."
+  "펜싱에불어온AI바람,당구에도가능할까…'기호2번'강진모후보,'...",
+  "현대차그룹,실리콘밸리서'테크탤런트포럼'개최…피지컬AI·SDV생...",
+  "삼성전자,AI인프라기업헬릭스에10억달러투자",
+  "삼성핵심계열사6곳,美AI기업'헬릭스'에1.4조원투자",
+  "MSCI,AI도'한바구니'에서쪼갠다...칩·전력·모델·SW별투자시대",
+  "LG전자아시아최대데이터센터전시회서첨단냉각솔루션공개",
+  "삼성전자,타임스스퀘어서젠슨황'밴플리트상'수상축하영상송출",
+  "[디지털포스트모닝픽]엔비디아자사주매입,1500억달러'더'…젠슨...",
+  "젠슨황엔비디아CEO\"AI안전때문에속도늦추자는건잘못된서사…...",
+  "엔비디아2배대신S&P5004배…레버리지개미,지수로몰린다"
  ],
  "recent_sigs": [
   [
@@ -6791,9 +6791,13 @@
   [
    "2026-09-29T16:00:39.661945+09:00",
    "후보 불어온 펜싱에 바람 기호 당구에도 강진모 2번 가능할까"
+  ],
+  [
+   "2026-09-29T16:02:19.317635+09:00",
+   "대신 P500 2배 지수로 레버리지 몰린다 개미 4배"
   ]
  ],
- "last_run": "2026-09-29T16:01:03.531080+09:00",
+ "last_run": "2026-09-29T16:02:41.107051+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
