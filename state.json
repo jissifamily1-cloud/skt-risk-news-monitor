@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53276",
-  "https://www.edaily.co.kr/News/Read?newsId=02482966645585040&mediaCodeNo=257",
-  "https://www.etnews.com/20260929000005",
-  "https://www.yna.co.kr/view/AKR20260928166851072?input=1195m",
   "https://biz.sbs.co.kr/article_hub/20000337129?division=NAVER",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703389",
   "https://www.g-enews.com/view.php?ud=202609290706401367e250e8e188_1",
@@ -2999,13 +2995,13 @@
   "https://www.segye.com/newsView/20260929515868?OutUrl=naver",
   "https://www.globale.co.kr/news/articleView.html?idxno=40680",
   "https://www.kizmom.com/news/articleView.html?idxno=113012",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5012548"
+  "https://www.newsinside.kr/news/articleView.html?idxno=5012548",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=64975",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260930.22018008677",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000018328&cp=nv",
+  "https://www.edaily.co.kr/News/Read?newsId=05133206645585040&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "“토요타중국체제흔들린다”…광저우차,FAW토요타지분인수전격...",
-  "'중국산스칸듐우회'피소블룸에너지…'한국경로'파장우려",
-  "젠슨황,'한미관계기여'밴플리트상…이재용·최태원도참석",
-  "[Invest]인사청문회에묻힌국감…MBK·ETF등시장현안은'대기중'",
   "미·이란긴장에국채금리급등…나스닥0.92%↓[뉴욕마감]",
   "[초점]휴머노이드로봇,공장으로간다…K-산업'실전경쟁'막올랐다",
   "美국채금리'쇼크'...뉴욕증시'하락',AI반도체주'출렁'",
@@ -6001,7 +5997,11 @@
   "“AI지능폭발통제못하면인류멸망”vs“AI는폭주안한다”",
   "컴투스플랫폼,도쿄AI해커톤서오픈AI연동'하이브액실'첫선",
   "LG전자,AI데이터센터냉각솔루션공개…'모듈형설비'로구축시간줄...",
-  "[뉴스인사이드뉴스톡톡]삼성6개사,美AI기업헬릭스에1.3조투자外"
+  "[뉴스인사이드뉴스톡톡]삼성6개사,美AI기업헬릭스에1.3조투자外",
+  "\"개인정보는CEO책임\"통신3사,첫간담회서'프라이버시퍼스트'선언",
+  "[세상읽기]인공지능(AI)과인류멸종",
+  "“종료거부에협박도”…위험에도가속페달못떼는AI개발사",
+  "\"엔비디아,삼성·SK와AI팩토리올인…韓보다공장잘짓는나라없다\""
  ],
  "recent_sigs": [
   [
@@ -6823,9 +6823,13 @@
   [
    "2026-09-29T18:56:27.641737+09:00",
    "폭발 멸망 폭주 통제 vs 인류 안한다 AI는 지능 못하면"
+  ],
+  [
+   "2026-09-29T19:00:38.602828+09:00",
+   "공장 AI팩토리 올인 삼성 없다 SK와 보다 나라 잘짓는"
   ]
  ],
- "last_run": "2026-09-29T18:58:32.005198+09:00",
+ "last_run": "2026-09-29T19:01:02.208168+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
