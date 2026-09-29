@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12086192",
-  "https://www.newsis.com/view/NISX20260928_0003805563",
-  "https://www.newspim.com/news/view/20260928000921",
   "http://www.newswatch.kr/news/articleView.html?idxno=81311",
   "https://www.newsis.com/view/NISI20260928_0021463149",
   "https://www.newsis.com/view/NISI20260928_0021463155",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3707996",
   "https://www.fnnews.com/news/202609291041301229",
   "https://www.chosun.com/economy/tech_it/2026/09/29/4ET6ZACTG5AJ7BYCG5DFOJH6FE/",
-  "https://www.etnews.com/20260929000153"
+  "https://www.etnews.com/20260929000153",
+  "https://www.livebiz.today/news/articleView.html?idxno=205159",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155081",
+  "https://www.dailian.co.kr/news/view/1695563/?sc=Naver"
  ],
  "seen_titles": [
-  "LG전자,엔비디아공식파트너등재...\"AI데이터센터최적솔루션\"",
-  "화웨이론부족했나…中,엔비디아칩구매허용검토[글로벌WHAT]",
-  "“AI풀스택경쟁심화,韓AX확산넘어공급부문키워야”",
   "방미통위,YTN변경승인다시들여다본다…내달청문",
   "방미통위,유진이엔티청문실시결정…YTN최대주주승인다시심사",
   "[속보]\"엔비디아짝꿍은못참지\"…약세장서LG그룹주날았다",
@@ -6001,7 +5998,10 @@
   "보이스피싱피해액첫1조원돌파…1인당평균5,384만원",
   "'휴대폰구입'발품전견적부터보세요!…숨고·SKT협력",
   "젠슨황,AI증류논란에“도둑질아닌경쟁”",
-  "김남국의원“CI1년유효기간제신속도입해야”"
+  "김남국의원“CI1년유효기간제신속도입해야”",
+  "이통사CEO와첫공식대면한개보위원장\"정보유출사고,모두무겁게...",
+  "56세최경주후배들과경쟁,여전히통할까…현대해상최경주인비테이...",
+  "경북의일상은이미'광역'…대구서하루24만명오간다"
  ],
  "recent_sigs": [
   [
@@ -6771,9 +6771,13 @@
   [
    "2026-09-29T11:38:15.204945+09:00",
    "아직 배상안은 피해자 보름째 디센트 월렛"
+  ],
+  [
+   "2026-09-29T11:44:15.747149+09:00",
+   "일상은 24만명 오간다 대구서 경북의 하루 광역 이미"
   ]
  ],
- "last_run": "2026-09-29T11:42:35.260163+09:00",
+ "last_run": "2026-09-29T11:44:37.175893+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
