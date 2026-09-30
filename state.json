@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260930051109",
-  "https://zdnet.co.kr/view/?no=20260930044132",
-  "https://www.yna.co.kr/view/AKR20260930004700071?input=1195m",
-  "http://www.yonhapnewstv.co.kr/news/MYH20260930051956eZR",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=320706",
   "https://www.newsis.com/view/NISX20260930_0003807896",
   "https://www.mediapen.com/news/view/1126747",
@@ -2999,13 +2995,13 @@
   "https://www.ddaily.co.kr/page/view/2026093018331144735",
   "http://www.economytalk.kr/news/articleView.html?idxno=424422",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5222323",
-  "https://www.dt.co.kr/article/12086797"
+  "https://www.dt.co.kr/article/12086797",
+  "https://www.thepublic.kr/news/articleView.html?idxno=320696",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=89907",
+  "https://www.thepublic.kr/news/articleView.html?idxno=320693",
+  "https://www.segye.com/newsView/20260930516665?OutUrl=naver"
  ],
  "seen_titles": [
-  "AI발전론을두고충돌한트럼프vs머스크..견해차이점은?",
-  "\"아스트라급지능을5분의1가격에\"…오픈AI,'GPT-6.1솔'공개",
-  "챗GPT,외부서비스까지품는다…오픈AI생태계확장",
-  "AI안전망넓히는오픈AI…에이전트보안강화",
   "오픈AI,AI에이전트행동범위확대…컴퓨터도직접조작",
   "AICEO들소집한트럼프,정부새규제선긋고자율규제에맡겨",
   "젠슨황'밴플리트상'수상…이재용·최태원축하",
@@ -6001,7 +5997,11 @@
   "“아무도TV안본다”로끝낼일인가…‘유료방송붕괴’의진짜문제",
   "잇따라선넘은AI…오픈AI·메타에켜진'안전경고등'",
   "[단독]\"범행3시간뒤출국\"…경찰,대학에서흉기휘두른외국인추적",
-  "반복침해사고에매출최대3%과징금…망법10월1일시행"
+  "반복침해사고에매출최대3%과징금…망법10월1일시행",
+  "2000억'국대AI'는평가판다시짜고…2500억'모두의AI'는비용부터물...",
+  "LGCNS,모듈형AI데이터센터공개…GPU·전력·냉각'풀스택'공략",
+  "SKT,3대고객만족도조사서1위…신뢰회복행보결실",
+  "트럼프“AI안전,정부규제아닌업계자율규제에맡긴다”"
  ],
  "recent_sigs": [
   [
@@ -6807,9 +6807,13 @@
   [
    "2026-09-30T19:28:15.195925+09:00",
    "메타에 넘은 켜진 경고등 잇따라 안전"
+  ],
+  [
+   "2026-09-30T19:36:19.074291+09:00",
+   "안전 규제 맡긴다 자율규제에 트럼프 아닌 정부 업계"
   ]
  ],
- "last_run": "2026-09-30T19:34:32.025060+09:00",
+ "last_run": "2026-09-30T19:36:37.095321+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
