@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20260929500318",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=115919",
-  "https://www.donga.com/news/Opinion/article/all/20260929/134756168/2",
-  "https://www.mk.co.kr/article/12164247",
-  "https://www.news1.kr/world/usa-canada/6305247",
   "https://www.topstarnews.net/news/articleView.html?idxno=16228169",
   "https://www.newspim.com/news/view/20260929001191",
   "https://www.hankyung.com/article/2026092921426",
@@ -2999,14 +2994,14 @@
   "https://platum.kr/archives/295489",
   "https://www.news1.kr/it-science/internet-platform/6306270",
   "https://www.yna.co.kr/view/AKR20260930148500530?input=1195m",
-  "https://www.newsis.com/view/NISX20260930_0003809320"
+  "https://www.newsis.com/view/NISX20260930_0003809320",
+  "https://www.ajunews.com/view/20260930170004262",
+  "https://www.newsis.com/view/NISX20260930_0003809119",
+  "https://www.newsis.com/view/NISX20260930_0003809072",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155257",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315277&inflow=N"
  ],
  "seen_titles": [
-  "미국숙련기술직수십만개공석…구글30만명양성지원",
-  "“美AI인프라기업에1조3600억원투자”삼성,데이터센터전반으로...",
-  "빠른AI만들되위험하면막는다",
-  "칩넘어냉각까지…삼성그룹,美AI인프라기업에10억달러베팅",
-  "“美중간선거기다리지마라…100년통계상7주전부터증시랠리”",
   "[마켓인사이드]글로벌금리어디까지올라가나…5%국채시대,6%가새...",
   "삼성6개사,美AI인프라기업'헬릭스'에10억달러투자결정",
   "[광화문에서/박재명]떨어지며낙하산만드는한국소버린AI의절박함",
@@ -6001,17 +5996,14 @@
   "AI에이전트의판단을실행직전에검증,티냅스엔비디아인셉션챌린...",
   "AI콘텐츠표시의무화추진한다…포털·플랫폼도관리책임",
   "\"고속도로잘못나갔다재진입땐요금면제\"…가명정보대회대상",
-  "가명처리한개인정보로통행료부담줄인도로공사,개보위원장상수상"
+  "가명처리한개인정보로통행료부담줄인도로공사,개보위원장상수상",
+  "李대통령,개인정보유출기업에경고…\"감당어려운과징금\"",
+  "\"모델하나론부족하다\"…반도체·전력아우르는'AI풀스택'역량절실",
+  "홍선근시대회장\"AI대전환시대,국가적집중과산업생태계협력절...",
+  "펜싱4연패만든SKT의AI기술력",
+  "'모두의AI'시범운영초읽기…대중성·신뢰성'시험대'"
  ],
  "recent_sigs": [
-  [
-   "2026-09-30T11:08:16.735041+09:00",
-   "정치의 시간 기업의"
-  ],
-  [
-   "2026-09-30T11:08:16.735041+09:00",
-   "공개 고객용 적격 프라이빗 API 인텔리전스"
-  ],
   [
    "2026-09-30T11:14:14.388848+09:00",
    "먼저 글로벌 이재용과 이원주 제치고 4세 오빠 삼성 첫선 무대"
@@ -6811,9 +6803,17 @@
   [
    "2026-09-30T17:06:15.719447+09:00",
    "개인정보로 개보위원장상 통행료 줄인 가명처리한 수상 부담 도로공사"
+  ],
+  [
+   "2026-09-30T17:10:22.188902+09:00",
+   "4연패 SKT의 만든 기술력 ~SKT 펜싱"
+  ],
+  [
+   "2026-09-30T17:10:22.188902+09:00",
+   "초읽기 시험대 시범운영 대중성 신뢰성 모두의"
   ]
  ],
- "last_run": "2026-09-30T17:08:31.335360+09:00",
+ "last_run": "2026-09-30T17:10:49.642354+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
