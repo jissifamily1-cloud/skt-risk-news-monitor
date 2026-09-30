@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/09/29/world/asia/openai-australia-government-hack-apology.html?partner=naver",
-  "https://www.wikitree.co.kr/articles/1162748",
-  "https://www.tokenpost.kr/news/ai/415610",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60795",
-  "https://www.aitimes.com/news/articleView.html?idxno=215753",
-  "https://www.m-i.kr/news/articleView.html?idxno=2000332",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145008",
-  "https://www.fnnews.com/news/202609291122180990",
   "https://www.ddaily.co.kr/page/view/2026092914223059818",
   "https://view.asiae.co.kr/article/2026092914285499207",
   "https://www.mt.co.kr/future/2026/09/29/2026092911092941125",
@@ -2999,17 +2991,17 @@
   "https://www.mt.co.kr/tech/2026/09/30/2026093008542939235",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703778",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202609300034&t=NN",
-  "https://www.yna.co.kr/view/PYH20260930009200091?input=1196m"
+  "https://www.yna.co.kr/view/PYH20260930009200091?input=1196m",
+  "https://www.mediapen.com/news/view/1126815",
+  "https://www.meconomynews.com/news/articleView.html?idxno=202046",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366271",
+  "https://slownews.kr/167172",
+  "https://www.kukinews.com/article/view/kuk202609280224",
+  "https://www.naeil.com/news/read/603728",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703771",
+  "http://www.bizwnews.com/news/articleView.html?idxno=147659"
  ],
  "seen_titles": [
-  "KT에스테이트,'리마크빌마포'청년안심주택499세대청약…내달1~4일...",
-  "옛성남KT부지에34층오피스텔…'힐스테이트성남메트로블'",
-  "[미국특징주]빅테크내주뉴욕'AI청문회'안전장치해법나올까",
-  "[시큐리티포커스]개보위'개인정보보호주간'운영-'AI프라이버시포...",
-  "최태원,젠슨황‘밴플리트상’축하건배사…“엔비디아는두뇌,SK는...",
-  "‘ANewKindofCyberIncident’:OpenAIApologizesforAustraliaMedica",
-  "막혔던중국AI칩수출재개…'엔비디아'주가더오를까?",
-  "안드로이드11개기능개방…EU·구글,AI권한충돌",
   "알뜰폰멍석깔았더니…이통3사,좋은일만시켰다",
   "삼성6개사,미국AI인프라기업헬릭스에1.4조투자",
   "네이버,멕시코공공AI·디지털트윈협력모색",
@@ -6001,7 +5993,15 @@
   "\"시키지않아도일한다\"…오픈AI,AI에이전트'닷'출시",
   "엔비디아AI안전연합에오픈AI가없다?…알고보니기술협력중",
   "IPO늦춘오픈AI,투자유치는'박차'...앤트로픽넘어섰다",
-  "기자들질문에답하는샘올트먼오픈AI최고경영자"
+  "기자들질문에답하는샘올트먼오픈AI최고경영자",
+  "[미르의알기쉬운비즈니스]AI가메모리빨아들이자갤럭시도비싸졌다...",
+  "볼보,라이다없는안전설명했나[시경Pick!]",
+  "LG전자,AIDC냉각솔루션시장존재감확대…기술·수주확대본격화",
+  "SlowLetter:September30,2026.",
+  "“정보보호는신뢰의인프라”…통신3사CEO·개보위첫회동",
+  "LG유플러스,대기시간없는고객센터구현",
+  "AI보안스타트업티냅스,'엔비디아인셉션챌린지'아태톱10",
+  "[단독]구글,TPU로엔비디아GPU독주에도전…플루이드스택이'총대'"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,17 @@
   [
    "2026-09-30T09:30:31.797806+09:00",
    "답하는 최고경영자 질문에 기자들"
+  ],
+  [
+   "2026-09-30T09:32:14.647075+09:00",
+   "톱10 티냅스 보안 스타트업 아태 챌린지 인셉션"
+  ],
+  [
+   "2026-09-30T09:32:14.647075+09:00",
+   "GPU 플루이드스택이 총대 구글 도전 독주에 TPU로"
   ]
  ],
- "last_run": "2026-09-30T09:30:54.983268+09:00",
+ "last_run": "2026-09-30T09:32:41.528346+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
