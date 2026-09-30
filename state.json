@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/29/2026092990130.html",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703550",
-  "https://magazine.hankyung.com/business/article/202609292053b",
-  "https://www.kukinews.com/article/view/kuk202609290112",
   "https://www.topstarnews.net/news/articleView.html?idxno=16226942",
   "https://www.ekn.kr/web/view.php?key=20260928023489623",
   "https://www.hankookilbo.com/news/article/A2026092912500002437?did=NA",
@@ -2999,13 +2995,13 @@
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60801",
   "https://www.edaily.co.kr/News/Read?newsId=02932326645585368&mediaCodeNo=257",
   "https://zdnet.co.kr/view/?no=20260929183002",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=70718"
+  "https://www.newswhoplus.com/news/articleView.html?idxno=70718",
+  "https://biz.sbs.co.kr/article_hub/20000337265?division=NAVER",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=85349",
+  "https://news.bizwatch.co.kr/article/market/2026/09/30/0001",
+  "https://www.dt.co.kr/article/12086575"
  ],
  "seen_titles": [
-  "삼성6개사,美AI인프라에10억달러…'부품공급'넘어생태계투자",
-  "LG전자,AI데이터센터'냉각'넘어인프라잡는다…모듈형솔루션공개",
-  "LG전자,AI데이터센터냉각사업확대…모듈형솔루션첫공개",
-  "[뉴욕증시]치솟는국채금리에달러강세·금값급락…'트리플약세'공...",
   "TSMC,美애리조나이어텍사스에도공장추진…‘실리콘초원’뜬다",
   "\"AI데이터센터냉각도레고처럼뚝딱\"…LG전자,냉각설비'모듈형'승부...",
   "GPT-6.1아스트라출시접은오픈AI…규제가속도",
@@ -6001,7 +5997,11 @@
   "[디지털포스트모닝픽]배경훈\"독파모계속,프론티어AI도도전\"",
   "KT-OAG코리아,TV광고‘안보는고객’찾는다…AI기반‘도달률2배...",
   "SMR·CJENM·KT스튜디오지니,LA서K-FAST행사연다",
-  "[KBW2026]금융'장마감'을묻다…24시간온체인거래·AI결제부상"
+  "[KBW2026]금융'장마감'을묻다…24시간온체인거래·AI결제부상",
+  "엔트로픽투자설명서,AI'위험'이사업두배분량",
+  "SKT,국내3대고객만족도석권…1년만에KCSI정상복귀",
+  "반도체주반등에코스피상승출발...외국인수급은변수",
+  "코스피,1%대상승출발…외인·기관‘사자’에삼전·하닉강세"
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,13 @@
   [
    "2026-09-30T09:16:17.807408+09:00",
    "24시간 묻다 마감 거래 온체인 부상 결제 금융"
+  ],
+  [
+   "2026-09-30T09:18:17.156246+09:00",
+   "하닉 코스피 출발 상승 강세 사자 기관 삼전 외인"
   ]
  ],
- "last_run": "2026-09-30T09:16:47.174809+09:00",
+ "last_run": "2026-09-30T09:18:37.772871+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
