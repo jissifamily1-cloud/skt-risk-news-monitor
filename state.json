@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=155186",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157650",
-  "https://www.econovill.com/news/articleView.html?idxno=752206",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868923",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=303649",
-  "https://www.sidae.com/article/2026093010391284224",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315095&inflow=N",
   "https://www.newsis.com/view/NISX20260930_0003808336",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=868915",
   "https://game.donga.com/124493/",
@@ -2999,16 +2992,16 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=301843",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437249",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=278157",
-  "https://www.the-today.com/news/articleView.html?idxno=91027"
+  "https://www.the-today.com/news/articleView.html?idxno=91027",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1017705",
+  "https://www.newspim.com/news/view/20261001000056",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067617",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437251",
+  "https://www.dailian.co.kr/news/view/1696543/?sc=Naver",
+  "http://www.beyondpost.co.kr/view.php?ud=202610010821543292e75d13a3_30",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437253"
  ],
  "seen_titles": [
-  "오텍캐리어,글로벌캐리어와AI데이터센터냉각솔루션국내공급협...",
-  "LGCNS,데이터센터·GPU묶어AI팩토리사업확대",
-  "LGCNS,AI데이터센터'속도전'정조준…모듈형인프라로글로벌시장...",
-  "LGCNS,짓지않고조립하는AI데이터센터로글로벌공략나선다",
-  "오텍캐리어,글로벌캐리어와사업협력",
-  "오텍캐리어,1.2MW급CDU앞세워AI냉각영토확장",
-  "'빅쇼트'투자자,AI거품붕괴경고…\"1년안에현실화된다\"",
   "AI혁신·개인정보보호'균형추'…\"신뢰기반함께살펴야\"",
   "대신쇼핑하는메타'뮤즈'VS대신일하는오픈AI'닷'…AI에이전트대...",
   "티냅스,엔비디아인셉션톱10선정",
@@ -6001,7 +5994,14 @@
   "[굿모닝!글로벌뉴욕증시]장기국채금리상승에따른차익매물출회...",
   "마이크론도어김없이어닝서프라이즈…증시이끌월가선호주는",
   "'모두의AI'10월첫선…SKT·카카오·KT,이용자1500만노린다",
-  "[서울약속,백악관협약(1)]CEO급6명이서명한백악관AI4중통제협..."
+  "[서울약속,백악관협약(1)]CEO급6명이서명한백악관AI4중통제협...",
+  "KAI,창립27주년…\"2040년항공우주플랫폼글로벌빅4도약\"",
+  "[장욱희의중장년취업에세이]100세시대,나는몇살까지일해야할까...",
+  "[뉴욕증시]물가둔화속장기금리부담에혼조세…다우0.86%↓",
+  "[뉴욕마켓워치]10월금리인상베팅은약해졌지만…달러↑주식·채권혼...",
+  "업스테이지,‘솔라미니4’공개…알리바바·엔비디아동급모델제쳐",
+  "국악방송'구술프로젝트',김종기류가야금유일전수자'김진애명인...",
+  "도이체방크,폼팩터'매수'추천…\"엔비디아·HBM수혜\""
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,21 @@
   [
    "2026-10-01T08:22:17.798324+09:00",
    "6명이 백악관 서명한 CEO급 4중 통제"
+  ],
+  [
+   "2026-10-01T08:30:29.818981+09:00",
+   "프로젝트 국악방송 구술 전수자 가야금 김종기류 김진애 유일 명인"
+  ],
+  [
+   "2026-10-01T08:30:29.818981+09:00",
+   "솔라 업스테이지 알리바바 공개 동급 미니 모델 제쳐"
+  ],
+  [
+   "2026-10-01T08:30:29.818981+09:00",
+   "HBM 매수 폼팩터 수혜 추천 도이체방크"
   ]
  ],
- "last_run": "2026-10-01T08:28:31.828391+09:00",
+ "last_run": "2026-10-01T08:30:52.306368+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
