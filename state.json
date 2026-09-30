@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20260928_0003805074",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1538775",
-  "https://www.yna.co.kr/view/AKR20260928063700017?input=1195m",
-  "https://www.mt.co.kr/tech/2026/09/28/2026092810351213096",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337388",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318252",
   "https://www.pennmike.com/news/articleView.html?idxno=128472",
   "https://www.topdaily.kr/articles/112089",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=246021",
@@ -2999,15 +2993,15 @@
   "https://zdnet.co.kr/view/?no=20260930182610",
   "https://www.koreadaily.com/article/20260930023156420",
   "https://www.thepublic.kr/news/articleView.html?idxno=320679",
-  "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090206.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090206.html",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214813",
+  "https://www.joongang.co.kr/article/25466097",
+  "https://www.thelec.kr/news/articleView.html?idxno=63046",
+  "https://www.ekn.kr/web/view.php?key=20260930028030643",
+  "https://www.thelec.kr/news/articleView.html?idxno=63050",
+  "https://www.boannews.com/news/articleView.html?idxno=146124"
  ],
  "seen_titles": [
-  "방미통위,YTN최다액출자자유진이엔티청문의결",
-  "[오정환의미디어비평]불공정방송하는TBS에왜매년수백억원을줘...",
-  "방미통위,유진이엔티YTN최대주주자격청문…'취소'판단착수",
-  "한차례무산된YTN변경승인취소청문…방미통위,실시결정",
-  "방미통위,YTN최다액출자자유진이엔티청문실시",
-  "내달중유진이엔티'YTN변경승인취소'청문…방미통위안건가결",
   "방미통위,'유진이엔티YTN인수'다음달청문회",
   "YTN최대주주변경승인취소되나…방미통위,청문의결",
   "방미통위,YTN최대주주유진청문결정…변경승인취소절차재개",
@@ -6001,13 +5995,15 @@
   "KT,도미노피자·롯데월드반값할인...10월'달달혜택'공개",
   "ArtuePresents“GPTCurator”atOpenAI,ConnectingArtDiscoveryandC",
   "안전문제로출시미룬다음날…오픈AI,'퇴근이후일하는AI'공개",
-  "'출범1주년'방미통위,'1기비전'공개…\"국민과함께하는미디어기본..."
+  "'출범1주년'방미통위,'1기비전'공개…\"국민과함께하는미디어기본...",
+  "LGCNS,'사전제작모듈형데이터센터'로AI팩토리시장강공",
+  "독파모중단설에갈팡질팡혼란에빠진‘국대AI’개발사",
+  "리사수AMDCEO내달방한…국내NPU업체와회동",
+  "“호텔같은회사,옆엔금융의심장”…하나금융청라HQ[현장+]",
+  "엔비디아,11월서울서'AI데이'개최",
+  "맑은소프트해킹일파만파...최소22개사이트개인정보유출"
  ],
  "recent_sigs": [
-  [
-   "2026-09-30T12:40:24.091280+09:00",
-   "ENA 청소년 ~KT 불법도박 릴레이 근절 동참"
-  ],
   [
    "2026-09-30T12:42:17.287434+09:00",
    "국빈만찬 기업인들 받은 초대 중국 미국까지 갔지만"
@@ -6847,9 +6843,21 @@
   [
    "2026-09-30T18:36:15.583862+09:00",
    "퇴근 공개 다음 미룬 출시 안전 이후 문제로"
+  ],
+  [
+   "2026-09-30T18:42:16.693127+09:00",
+   "혼란에 중단설에 개발사 독파모 갈팡질팡 국대 빠진"
+  ],
+  [
+   "2026-09-30T18:42:16.693127+09:00",
+   "개최 데이 11월 서울서"
+  ],
+  [
+   "2026-09-30T18:42:16.693127+09:00",
+   "일파만파 사이트 최소 맑은소프트 개인정보 22개 유출"
   ]
  ],
- "last_run": "2026-09-30T18:40:37.559936+09:00",
+ "last_run": "2026-09-30T18:42:39.350530+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
