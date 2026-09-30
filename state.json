@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202609291346537376",
-  "https://www.insight.co.kr/news/575749",
-  "https://www.ytn.co.kr/_ln/0104_202609291347443629",
-  "https://platum.kr/archives/295341",
-  "http://www.stoo.com/article.php?aid=109121490838",
-  "http://www.osen.co.kr/article/G1112884094",
   "http://www.osen.co.kr/article/G1112884089",
   "https://www.newsis.com/view/NISI20260929_0021465014",
   "https://www.newsis.com/view/NISI20260929_0021465044",
@@ -2999,15 +2993,15 @@
   "https://www.kpinews.kr/newsView/1065600688854322",
   "https://www.greened.kr/news/articleView.html?idxno=350880",
   "https://www.news1.kr/it-science/cc-newmedia/6305392",
-  "http://www.paxetv.com/news/articleView.html?idxno=282962"
+  "http://www.paxetv.com/news/articleView.html?idxno=282962",
+  "http://www.sisunnews.co.kr/news/articleView.html?idxno=246837",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448236",
+  "https://www.seoultimes.news/news/article.html?no=2000100368",
+  "https://www.news1.kr/it-science/cc-newmedia/6305419",
+  "https://www.hankyung.com/article/202609303602g",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=277938"
  ],
  "seen_titles": [
-  "애리조나에360조쏟은TSMC,이번엔텍사스…美‘반도체듀얼코어’띄...",
-  "‘이재용회장딸’이원주,父와첫비즈니스무대…뉴욕서젠슨황딸...",
-  "개보위-이통3사,'신뢰가능한AI·디지털사회'협력나선다",
-  "\"10억명사망부를수도\"…'지능폭발'경고에오픈AI,차세대AI공개보...",
-  "젠슨황\"AI폭주안해‥기술발전멈추지말아야\"",
-  "슈퍼마이크로,엔비디아베라루빈NVL72랙출하시작",
   "젠슨황\"SK·삼성의존은공급망리스크아냐...한국에확신있어\"",
   "\"축하해친구!\"이재용,젠슨황'밴플리트상'수상에타임스퀘어전광...",
   "젠슨황\"AI발전속도지시할어른은필요없어\"",
@@ -6001,7 +5995,13 @@
   "[노성열의AI경제]범용인공지능의등장…시험대오른인간의지혜",
   "'AI에이전트'가내계좌읽는다…머스크'그록봇'금융연동에책임기...",
   "SKB'Btv핫딜'판매액100억돌파…TV숏폼커머스통했다",
-  "SK브로드밴드'Btv핫딜',10개월만에판매액100억원"
+  "SK브로드밴드'Btv핫딜',10개월만에판매액100억원",
+  "[정책브리핑]2026년09월30일수요일주요정책",
+  "하나증권\"AI·클라우드확산에광통신망투자확대,관련주대한광통신...",
+  "SK텔레콤,KCSI이동전화1위되찾아…고객만족도3대조사모두1위",
+  "'고객중심통했다'…SKT,1년만에KCSI이동전화1위탈환",
+  "27년지킨1위놓쳤던SKT…1년만에되찾고'3관왕'",
+  "오픈AI,가성비모델'GPT-6.1솔'공개…\"아스트라급성능에비용은1/..."
  ],
  "recent_sigs": [
   [
@@ -6413,7 +6413,7 @@
    "없이 GPT 행동 신모델 허락 거짓말 늘고"
   ]
  ],
- "last_run": "2026-09-30T09:00:56.887315+09:00",
+ "last_run": "2026-09-30T09:02:37.998587+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
