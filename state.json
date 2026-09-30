@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/416167",
-  "http://www.datanews.co.kr/news/article.html?no=146703",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407548",
-  "http://www.4th.kr/news/articleView.html?idxno=2118891",
-  "https://www.ziksir.com/news/articleView.html?idxno=147836",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157642",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880015",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=209011",
   "https://www.fnnews.com/news/202609300909258178",
   "http://www.thevaluenews.co.kr/news/view.php?idx=201960",
@@ -2999,16 +2992,16 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215821",
   "https://www.dt.co.kr/article/12086801",
   "https://www.sedaily.com/article/20096800",
-  "http://www.dailypop.kr/news/articleView.html?idxno=102952"
+  "http://www.dailypop.kr/news/articleView.html?idxno=102952",
+  "https://dgmbc.com/NewsArticle/865038",
+  "https://www.news2day.co.kr/article/20260930500137",
+  "https://www.sedaily.com/article/20096806",
+  "https://www.mt.co.kr/world/2026/10/01/2026100106183896026",
+  "https://www.mediapen.com/news/view/1127080",
+  "https://www.edaily.co.kr/News/Read?newsId=02318966645608656&mediaCodeNo=257",
+  "https://www.tokenpost.kr/news/breaking/416748"
  ],
  "seen_titles": [
-  "[유통딜리버리]쿠팡ㆍGS25ㆍ세븐일레븐ㆍCJ올리브영ㆍ컬리ㆍ롯데마트...",
-  "[직격인터뷰]'신병4',ENA역대7위종영…민진기감독\"시청자사랑덕...",
-  "GPT-6.1Sol,출시일주일만에Astra성능근접",
-  "SK브로드밴드‘Btv핫딜’,10개월만에누적판매액100억돌파",
-  "SKT,\"신뢰회복노력결실맺었다\"…NCSI·KS-SQI·KCSI1위달성",
-  "SKT정재헌\"개인정보보호,고객신뢰출발점..모두가지켜야\"",
-  "[CEO직썰]정재헌SKTCEO\"AI통한고객경험고도화로더큰신뢰이어...",
   "SKT,3대고객만족도조사'그랜드슬램'…고객신뢰회복속도",
   "SKT,3대고객만족도조사서이동통신1위싹쓸이",
   "KT,TV시청데이터로광고미도달고객찾는다…OAG와협업",
@@ -6001,7 +5994,14 @@
   "구글,'제미나이4아르곤'공개…성능1위탈환에도\"일반사용제한\"",
   "‘세계최초’기술선보인中…AI데이터센터냉각도넘본다",
   "딥시크,화웨이와AI칩협력…엔비디아의존도낮춘다",
-  "이통사가변한다…CEO가보안챙기고요금은반년마다최적화알려준다"
+  "이통사가변한다…CEO가보안챙기고요금은반년마다최적화알려준다",
+  "4연승질주삼성라이온즈···후라도역투·최형우+이재현홈런포",
+  "[IPO돋보기]조단위시총노리는'엘리스그룹'...밸류인정받을까",
+  "‘2조弗’앤트로픽…아마존·구글서매출절반쏠렸다[마켓무버]",
+  "물가지표둔화에도미국채금리또상승...다우0.86%↓[뉴욕마감]",
+  "[美증시]예상외인플레안정에도3대지수혼조…빅테크강세나스닥만...",
+  "“대형유출사고,화려한해킹아닌기본수칙위반서시작”",
+  "5500만달러가상자산해킹재판뉴욕서시작"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,17 @@
   [
    "2026-10-01T06:34:16.983823+09:00",
    "의존도 딥시크 협력 낮춘다 화웨이와"
+  ],
+  [
+   "2026-10-01T06:44:15.504927+09:00",
+   "대형 사고 유출 아닌 기본수칙 시작 화려한 위반서"
+  ],
+  [
+   "2026-10-01T06:44:15.504927+09:00",
+   "뉴욕서 가상자산 재판 시작 5500만달러"
   ]
  ],
- "last_run": "2026-10-01T06:42:31.059743+09:00",
+ "last_run": "2026-10-01T06:44:39.805103+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
