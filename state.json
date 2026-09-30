@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20260918189100008?input=1195m",
-  "https://biz.heraldcorp.com/article/10878802",
-  "https://www.thelec.kr/news/articleView.html?idxno=62510",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=423755",
-  "https://www.ytn.co.kr/_ln/0134_202609171101306516",
-  "https://www.ytn.co.kr/_ln/0102_202609170926427460",
-  "https://www.ytn.co.kr/_ln/0102_202609170900151698",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4106799",
   "https://www.ytn.co.kr/_ln/0102_202609161657362586",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8665075",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1696422/?sc=Naver",
   "https://www.dt.co.kr/article/12086753",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=89895",
-  "http://www.segyebiz.com/newsView/20260930517561?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20260930517561?OutUrl=naver",
+  "https://www.sisajournal.com/news/articleView.html?idxno=388784",
+  "https://mhnse.com/news/articleView.html?idxno=1564962",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491595",
+  "http://www.osen.co.kr/article/G1112885062",
+  "https://www.dt.co.kr/article/12086752",
+  "https://www.thepowernews.co.kr/view.php?ud=202609301321064905de3f0aa1be_7",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=301837"
  ],
  "seen_titles": [
-  "[브릿지칼럼]연공서열형임금과정년연장",
-  "어차피주도주는반도체?…美반도체주훈풍에코스피,7000선회복",
-  "환율오르자美주식으로…개인,일주일새1.5조순매수",
-  "‘추석맞이’휴장대기한코스피…미·중정상회담앞두고“수급공...",
-  "'AI군대'도만들겠다는트럼프…\"미국의우위계속유지할것\"",
-  "[마켓인사이트]미중회담빅이벤트·추석연휴…韓증시어디로",
-  "젠슨황이점찍은‘이것’…AI개발늦춘다는데15%뛰었다[투자360]",
   "[기자수첩]혁신기업키우겠다더니,시총으로자르나",
   "[AIF2026]\"피지컬AI엔절대강자없다···향후3년이글로벌패권골든...",
   "AI속도조절하자는미국...'삼전닉스'가왕인코스피에끼칠영향?[이...",
@@ -6001,25 +5994,16 @@
   "방미통위\"OTT해외진출지원\"…방발기금재원확충방안\"기부금\"",
   "SKT,‘개인정보보호의날맞아’사내캠페인진행",
   "SKT,AI시대개인정보보호강화…'프라이버시퍼스트'조직문화확산",
-  "알체라,‘AIFESTA26’IITP월드모델특별관참여"
+  "알체라,‘AIFESTA26’IITP월드모델특별관참여",
+  "한화생명,애큐온캐피탈인수'눈앞'…센트로이드PE와맞손",
+  "[오피셜]“주자만나가면무너졌다”158㎞도못지킨9회…이의리결국...",
+  "래블업,AI추론·에이전트인프라운영전략공유",
+  "'선두경쟁'KT는'롯추가루'무섭지않을까…개천절3연전비슬리-나균...",
+  "외식·테마파크부터문화할인까지…KT,10월멤버십혜택공개",
+  "테마파크3곳각각할인받는다…KT,10월'달.달.혜택'공개",
+  "\"더떨어질곳도없다?…KT배당600원동결?오히려좋아,지금이바닥..."
  ],
  "recent_sigs": [
-  [
-   "2026-09-30T11:20:26.904620+09:00",
-   "국민께 선다 JYP 문체위 박진영 충분히 국감에 설명하겠"
-  ],
-  [
-   "2026-09-30T11:20:26.904620+09:00",
-   "4배 높여 칩도 부사장 리처드 에이전틱 효율 업무 추론"
-  ],
-  [
-   "2026-09-30T11:22:16.205640+09:00",
-   "과방위 증인대 올해도 통신3사 보안 CISO 국감 대신 CEO"
-  ],
-  [
-   "2026-09-30T11:22:16.205640+09:00",
-   "안해 때까지 IPO 안전 확신"
-  ],
   [
    "2026-09-30T11:26:18.022371+09:00",
    "집단소송법 논란 독소조항에 재점화 구제인가 기업 피해 잡기인가"
@@ -6823,9 +6807,13 @@
   [
    "2026-09-30T17:18:15.604669+09:00",
    "재원 지원 방안 기부금 방발기금 해외진출 OTT 확충"
+  ],
+  [
+   "2026-09-30T17:22:16.684054+09:00",
+   "지금이 ~KT 좋아 떨어질 없다 배당 600원 곳도 바닥 오히려 동결"
   ]
  ],
- "last_run": "2026-09-30T17:20:45.049205+09:00",
+ "last_run": "2026-09-30T17:22:35.109292+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
