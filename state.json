@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/09/30/2026092919565291223",
-  "https://www.mk.co.kr/article/12163825",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3708760",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3708040",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3708747",
-  "https://www.laborplus.co.kr/news/articleView.html?idxno=41564",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3708650",
-  "https://www.xportsnews.com/article/2202202",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4436987",
-  "https://www.edaily.co.kr/News/Read?newsId=02013926645585368&mediaCodeNo=257",
-  "https://www.mt.co.kr/world/2026/09/30/2026093005353246812",
   "https://www.asiatoday.co.kr/kn/view.php?key=20260930010010430",
   "http://www.inews24.com/view/2010173",
   "https://www.seoul.co.kr/news/economy/estate/2026/09/30/20260930032001?wlog_tag3=naver",
@@ -2999,20 +2988,20 @@
   "https://www.pressian.com/pages/articles/2026093016264418547",
   "https://hbnpress.com/news/view/1065597567715520",
   "https://www.newsway.co.kr/news/view?ud=2026093015385483662",
-  "https://www.news1.kr/world/usa-canada/6306354"
+  "https://www.news1.kr/world/usa-canada/6306354",
+  "https://www.fnnews.com/news/202609301342229452",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61126",
+  "https://biz.chosun.com/it-science/ict/2026/09/30/UHVV4VZ3JBHH5AK2F4O2KMIHPQ/",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491538",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=312245",
+  "http://www.metroseoul.co.kr/article/20260930500460",
+  "https://byline.network/?p=9004111222621728",
+  "https://www.ajunews.com/view/20260930161252104",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208654",
+  "https://www.mt.co.kr/future/2026/09/30/2026093014570789894",
+  "https://www.cwn.kr/news/articleView.html?idxno=57898"
  ],
  "seen_titles": [
-  "‘차비폰’이라더니“재고없어요”…갤S25+몸값뛴이유[정길준의...",
-  "[게임Pick]컴투스,'제우스:오만의신'이통사할인…넷마블,'나혼렙...",
-  "'모두의AI'SKT·카카오·KT선정…이통3사모두참여",
-  "멕시코간네이버,북중미AI시장'노크'",
-  "삼성월렛,카드부터자동차키까지'지갑없는일상'넓힌다",
-  "사랑의집보호자,\"자립명분으로거주장애인이용하지말라\"",
-  "\"피해교사가직접유포물찾아야하나\"…전교조제주,딥페이크대응...",
-  "제주도교육청,교육활동침해신고부터피해회복까지통합지원",
-  "9월5주주요제조업전망",
-  "드림타워카지노파업첫날정상영업…회사는'80분근무'고수",
-  "\"한국에이스잡았어!\"축제분위기…'올림픽金3'김제덕잡은인도신...",
   "[뉴욕증시]美국채금리눈치언제까지봐야되나…약보합마감",
   "美30년물24년래최고…뉴욕증시이틀째하락[월스트리트in]",
   "\"AI가인류위협\"경고에…'빅5'불러모은트럼프,감독위도검토",
@@ -6001,7 +5990,18 @@
   "포항시,복잡하게얽힌공중케이블정비…“설치부터철거까지관리”",
   "LG유플러스,'AI네이티브컨택센터'전략공개...AICC매출연50%성장...",
   "입사대신글로벌인맥…달라진오너家경영수업[재계IN&OUT]",
-  "중간선거쟁점된AI데이터센터논란…美빅테크도'지역지원'발표"
+  "중간선거쟁점된AI데이터센터논란…美빅테크도'지역지원'발표",
+  "AI가예약·결제하는시대…정부,'에이전트데이터룰'만든다",
+  "원넷북,\"인텔SoC탑재신제품으로UMPC시장선도할것\"",
+  "[비즈톡톡]리사수,7개월만의방한의미는…“삼성등韓반도체와...",
+  "코스피,외국인2조매도에6830선후퇴...코스닥은4거래일연속상승한...",
+  "공간열고기술연결…하나금융청라헤드쿼터가보니",
+  "[CEO와칭]‘커머스해결사’서ENM총괄로…윤상현,성장·수익성두마...",
+  "이상근고려대교수“공격도방어도사람손떠났다…AI통제체계필수...",
+  "딥시크·화웨이,엔비디아맞설'중국판쿠다'생태계키운다",
+  "오픈AI,데브데이2026서AI에이전트'닷'공개",
+  "'산업의사결정AI'오믈렛,엔비디아인셉션챌린지'아태톱10'선정",
+  "리사수또한국온다…AMD·엔비디아,AI반도체'한국쟁탈전'본격화"
  ],
  "recent_sigs": [
   [
@@ -6795,9 +6795,13 @@
   [
    "2026-09-30T16:30:34.598080+09:00",
    "지역 빅테크도 데이터센터 중간선거 발표 쟁점된 지원 논란"
+  ],
+  [
+   "2026-09-30T16:32:15.428732+09:00",
+   "리사 한국 온다 AMD 반도체 쟁탈전 본격화"
   ]
  ],
- "last_run": "2026-09-30T16:30:55.781902+09:00",
+ "last_run": "2026-09-30T16:32:39.914019+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
