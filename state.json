@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261001018800530?input=1195m",
-  "https://www.newsis.com/view/NISX20261001_0003809831",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=394266",
-  "https://www.kukinews.com/article/view/kuk202609290193",
-  "https://www.peoplewatch.co.kr/article/view/ppw202610010003",
-  "https://thetracker.co.kr/View.aspx?No=4248034",
-  "https://www.news1.kr/local/moi/6306969",
   "https://www.ddaily.co.kr/page/view/2026100109295144975",
   "https://www.topstarnews.net/news/articleView.html?idxno=16231454",
   "http://autotimes.co.kr/detail.php?number=689342&thread=27",
@@ -2999,16 +2992,16 @@
   "https://www.cstimes.com/news/articleView.html?idxno=722735",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261002.99099000401",
   "http://www.newskr.kr/news/articleView.html?idxno=106847",
-  "https://www.wikitree.co.kr/articles/1163426"
+  "https://www.wikitree.co.kr/articles/1163426",
+  "https://sports.donga.com/sports/article/all/20261002/134773225/1",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476418",
+  "https://www.g-enews.com/view.php?ud=2026100208181640162bd56fbc3c_1",
+  "https://www.mt.co.kr/world/2026/10/02/2026100207341320577",
+  "https://www.newspim.com/news/view/20261002000091",
+  "https://www.thepublic.kr/news/articleView.html?idxno=320930",
+  "https://www.tvreport.co.kr/breaking/article/1079998/"
  ],
  "seen_titles": [
-  "공공기관정보유출땐기관장도책임…초기비번미변경도징계",
-  "공공부문정보유출시기관장도책임…징계기준대폭강화",
-  "美국방부인사정보유출…군·민간인276만명사회보장번호노출",
-  "AI가대신결정·행동하는시대…“개인정보보호방식도달라져야”",
-  "'모두의AI'10월에첫선..SKT·카카오·KT차별화전략은",
-  "SKT,AI로읽어낸고객취향T멤버십혜택에담았다",
-  "[속보]공공기관해킹,중대한사고는기관장책임…징계기준강화",
   "AI가고른10월혜택은?…SKTT멤버십에첫반영",
   "SMC&C,'우리들의발라드2'로음원IP사업확장나선다",
   "'가성비가내린다'..르노하이브리드SUV의경쟁력",
@@ -6001,7 +5994,14 @@
   "'AI에이전트'에당했다…신한은행보안허점노출",
   "전국9월소비자물가2.9%올라…석유류다시14.8%급등",
   "[오늘의이슈]근원물가3.4%·일자리10만개…금리분수령",
-  "삼성이이런이어폰을출시한것은최초...어떻게착용하나했더니(사..."
+  "삼성이이런이어폰을출시한것은최초...어떻게착용하나했더니(사...",
+  "‘역대급흥행’KBO리그,2년연속1200만관중→역대최다확실",
+  "서울경제진흥원,'파운더스라운드'개최,성장기업CEO협력기반넓혔...",
+  "유럽정유산업,국방비급증속'안보자산'으로재평가",
+  "홍해충돌격화…사우디측\"후티,이슬람성지공격\"vs후티\"거짓\"",
+  "[미국특징주]월가,엔비디아에'GPU금융'보증확대요구...칩담보가...",
+  "'5300억'독파모흔들,AIDC18.4GW짓는다는데수요확인은2.5GW",
+  "'스탠포드석사'타블로,내년1월'빨간불'주식종목예언…\"제가장담..."
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,21 @@
   [
    "2026-10-02T08:20:22.373097+09:00",
    "일자리 금리 분수령 10만개 근원물가"
+  ],
+  [
+   "2026-10-02T08:26:13.820152+09:00",
+   "4GW 수요 독파모 짓는다는데 AIDC 확인은 흔들 5300억 5GW"
+  ],
+  [
+   "2026-10-02T08:26:13.820152+09:00",
+   "월가 엔비디아에 금융 보증 확대 담보가 요구 GPU"
+  ],
+  [
+   "2026-10-02T08:26:13.820152+09:00",
+   "예언 내년 스탠포드 타블로 1월 석사 장담 종목 주식 빨간불 제가"
   ]
  ],
- "last_run": "2026-10-02T08:24:34.137437+09:00",
+ "last_run": "2026-10-02T08:26:39.818668+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
