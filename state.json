@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=852826",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2466907",
-  "https://economist.co.kr/article/view/ecn202609010025",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092169521",
-  "https://www.mk.co.kr/article/12144902",
-  "https://zdnet.co.kr/view/?no=20260904164703",
   "http://www.newsprime.co.kr/news/article.html?no=746507",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=317930",
   "https://www.cwn.kr/news/articleView.html?idxno=55173",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491991",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610010169&t=NN",
   "https://www.the-today.com/news/articleView.html?idxno=91073",
-  "https://www.nytimes.com/2026/10/01/briefing/president-trumps-kennedy-center.html?partner=naver"
+  "https://www.nytimes.com/2026/10/01/briefing/president-trumps-kennedy-center.html?partner=naver",
+  "https://zdnet.co.kr/view/?no=20261001100820",
+  "https://www.ibabynews.com/news/articleView.html?idxno=154893",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171269",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675804",
+  "https://www.etnews.com/20261001000492",
+  "https://www.ibabynews.com/news/articleView.html?idxno=154900"
  ],
  "seen_titles": [
-  "AI부터보안·가짜뉴스까지···2026국정감사'ICT부문'쟁점",
-  "AI비서는무료인데…이통3사는어디서돈버나",
-  "갤Z효과에번호이동68만명…폴더블아이폰이열기잇나",
-  "곧100만명바글바글몰려든다는‘이곳’…불꽃축제대란에맞서는이...",
-  "알뜰폰'400Kbps'데이터안심옵션통할까",
-  "싼이심,알고보니中통신사상품?…고객고지도없어",
   "[통신맥락읽기]끊기지만않으면기본권?…요금제손질'동상이몽'",
   "티빙개인정보유출3954만계정…CJONE·SNS간편가입도포함",
   "이통3사,AI에사활···'통신망'넘어수익모델혁신나서",
@@ -6001,13 +5995,15 @@
   "[코스피지수선물옵션]SK이노베이션·S-Oil하락했는데…삼성전자·SK...",
   "국회정무위,폴싱어엘리엇회장국감증인채택",
   "중동發에너지가격급등에독일·프랑스물가'비상'",
-  "PresidentTrump’sKennedyCenter"
+  "PresidentTrump’sKennedyCenter",
+  "[카드뉴스]AI가골라준답하나만믿어도될까요",
+  "[오늘의브랜드]경동나비엔,'한국산업의고객만족도(KCSI)'보일러부문...",
+  "김종민의원\"대형개인정보유출90%는안전조치의무위반\"",
+  "신한은행뚫렸다…2만5천명정보유출,연소득까지",
+  "'모두의AI실험실'경진대회390개아이디어모여…12팀본선행",
+  "[금융경제트렌드]신혼부부보금자리론소득기준완화…부부중1인..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-01T13:24:14.888742+09:00",
-   "24만건 늑장 올해만 10억원 시도 발주 보안예산 법원"
-  ],
   [
    "2026-10-01T13:28:15.358894+09:00",
    "최적요금제 아직 기준 고지 의무 시행인데 통신사도 지침은"
@@ -6575,9 +6571,13 @@
   [
    "2026-10-01T19:14:15.599571+09:00",
    "SK SK이노베이션 삼성전자 Oil 하락했는데"
+  ],
+  [
+   "2026-10-01T19:24:15.435614+09:00",
+   "완화 기준 부부 보금자리론 소득 신혼부부 1인"
   ]
  ],
- "last_run": "2026-10-01T19:22:34.535565+09:00",
+ "last_run": "2026-10-01T19:24:36.372098+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
