@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1315282&inflow=N",
-  "https://www.hankyung.com/article/2026093054007",
-  "https://www.news1.kr/it-science/cc-newmedia/6306494",
-  "https://www.dailian.co.kr/news/view/1696422/?sc=Naver",
-  "https://www.dt.co.kr/article/12086753",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=89895",
-  "http://www.segyebiz.com/newsView/20260930517561?OutUrl=naver",
-  "https://www.sisajournal.com/news/articleView.html?idxno=388784",
-  "https://mhnse.com/news/articleView.html?idxno=1564962",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491595",
   "http://www.osen.co.kr/article/G1112885062",
   "https://www.dt.co.kr/article/12086752",
   "https://www.thepowernews.co.kr/view.php?ud=202609301321064905de3f0aa1be_7",
@@ -2999,19 +2989,19 @@
   "https://gamefocus.co.kr/detail.php?number=179514",
   "https://www.techm.kr/news/articleView.html?idxno=155779",
   "https://biz.heraldcorp.com/article/10890615",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744576"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744576",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16232051",
+  "https://gamefocus.co.kr/detail.php?number=179518",
+  "https://news.jtbc.co.kr/article/NB12320901?influxDiv=NAVER",
+  "https://zdnet.co.kr/view/?no=20261001140850",
+  "https://www.thepowernews.co.kr/view.php?ud=202610011401387429de3f0aa1be_7",
+  "https://www.newspim.com/news/view/20261001000741",
+  "https://www.econovill.com/news/articleView.html?idxno=752394",
+  "https://zdnet.co.kr/view/?no=20261001143020",
+  "https://zdnet.co.kr/view/?no=20261001113126",
+  "https://www.ngonews.kr/news/articleView.html?idxno=239632"
  ],
  "seen_titles": [
-  "\"이젠안통해\"李대통령'엄중경고'…기업에'충고'무슨일?",
-  "고령층·장애인에'유료AI'이용권…방미통위\"예산협의\"",
-  "방미통위\"OTT해외진출지원\"…방발기금재원확충방안\"기부금\"",
-  "SKT,‘개인정보보호의날맞아’사내캠페인진행",
-  "SKT,AI시대개인정보보호강화…'프라이버시퍼스트'조직문화확산",
-  "알체라,‘AIFESTA26’IITP월드모델특별관참여",
-  "한화생명,애큐온캐피탈인수'눈앞'…센트로이드PE와맞손",
-  "[오피셜]“주자만나가면무너졌다”158㎞도못지킨9회…이의리결국...",
-  "래블업,AI추론·에이전트인프라운영전략공유",
-  "'선두경쟁'KT는'롯추가루'무섭지않을까…개천절3연전비슬리-나균...",
   "외식·테마파크부터문화할인까지…KT,10월멤버십혜택공개",
   "테마파크3곳각각할인받는다…KT,10월'달.달.혜택'공개",
   "\"더떨어질곳도없다?…KT배당600원동결?오히려좋아,지금이바닥...",
@@ -6001,7 +5991,17 @@
   "에스티컴퓨터,지마켓'월첫세일'에서조립PC제품할인행사진행",
   "[KBW26]은행권웹3선점나선하나금융…송금부터STO·커스터디까지...",
   "AI글로벌특허경쟁,민·관원팀으로맞힘",
-  "[재계포커스]SK,AI에그룹미래걸었다…반도체호황이'리밸런싱'까..."
+  "[재계포커스]SK,AI에그룹미래걸었다…반도체호황이'리밸런싱'까...",
+  "'연애박사'추영우·김소현,방송전부터OST화제…해외유명아티스트...",
+  "SOOP롤로파'2026데마시아컵글로벌인비테이셔널'한국어공식생중계...",
+  "허재냐이현중이냐…KBL감독들이꼽은한국농구'GOAT'는?\"마이클조...",
+  "SOOP,LoL초청전'2026데마시아컵'한국어중계맡는다",
+  "하이오더25만테이블로확대…KT,고객·점주잇는'하하하캠페인'",
+  "KT,병원용'의료표준모델'공개…인프라·데이터·AI통합",
+  "KT,하하하캠페인시작…고객도소상공인도웃는다",
+  "쏠리드,KTSAT과무궁화위성서5GNTN통신성공",
+  "kt밀리의서재\"3년내오리지널콘텐츠·신인작가중심플랫폼될것\"",
+  "KT\"고객혜택확대하고소상공인지원강화한다\""
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,21 @@
   [
    "2026-10-01T14:34:15.886437+09:00",
    "SK 걸었다 미래 AI에 호황이 리밸런싱 반도체"
+  ],
+  [
+   "2026-10-01T14:38:14.206906+09:00",
+   "5G 쏠리드 NTN 통신 ~KT 성공 SAT과 무궁화위성서"
+  ],
+  [
+   "2026-10-01T14:38:14.206906+09:00",
+   "작가 콘텐츠 밀리의서재 오리지널 3년 중심 ~KT 신인 플랫폼될"
+  ],
+  [
+   "2026-10-01T14:38:14.206906+09:00",
+   "확대하고 고객 혜택 강화한다 ~KT 소상공인 지원"
   ]
  ],
- "last_run": "2026-10-01T14:36:29.728030+09:00",
+ "last_run": "2026-10-01T14:38:40.844703+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
