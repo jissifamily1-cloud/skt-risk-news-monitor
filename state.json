@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610010904201884",
-  "https://biz.heraldcorp.com/article/10889872",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445090",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=129735",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171853",
   "https://www.thelec.kr/news/articleView.html?idxno=63062",
@@ -2999,12 +2996,12 @@
   "https://www.viva100.com/article/20261001500857",
   "https://biz.sbs.co.kr/article_hub/20000337962?division=NAVER",
   "https://www.the-today.com/news/articleView.html?idxno=91082",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192700"
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192700",
+  "https://www.yna.co.kr/view/AKR20261002010000091?input=1195m",
+  "https://www.newsis.com/view/NISX20261002_0003811639",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171003"
  ],
  "seen_titles": [
-  "NHN두레이,개인정보보호·활용기술대상수상",
-  "휴게소는충전테스트베드,도로엔피지컬AI…현대차그룹실증확대",
-  "현대차그룹,한국도로공사와고속도로서차세대충전·피지컬AI실증",
   "기술협력앞세운DL이앤씨,상생발전·미래동력잡는다",
   "\"로봇도세금내라\"…빌게이츠,로봇세다시꺼낸이유는",
   "티오리,美DARPA메신저뜯어본다",
@@ -6001,7 +5998,10 @@
   "[피지컬AI현장을가다]⑧‘美두뇌vs中육체’⋯세계공장삼키는...",
   "[외신헤드라인]美주식-채권5년만에반대흐름...'포트폴리오방어...",
   "[핫이슈]브로드컴,삼성메모리'엔비디아급할인가'확보…앤스로픽엔...",
-  "[인공지능줌인]빅테크수장들불러모은트럼프'AI명칭변경'추진하..."
+  "[인공지능줌인]빅테크수장들불러모은트럼프'AI명칭변경'추진하...",
+  "\"中해커들,美AI정책당국자·앤트로픽간부사칭스파이공작\"",
+  "오픈AI,안전팀연구원3명해고…외부기관에기밀정보공유",
+  "올해도해킹국감…티빙보안부실·보상안쟁점[미리보는국감①]"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-10-02T06:30:29.663783+09:00",
    "트럼프 수장들 변경 추진하 빅테크 불러모은 명칭"
+  ],
+  [
+   "2026-10-02T06:32:15.860798+09:00",
+   "티빙 보안 보상안 부실 쟁점 올해도 국감"
   ]
  ],
- "last_run": "2026-10-02T06:30:58.116872+09:00",
+ "last_run": "2026-10-02T06:32:36.295791+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
