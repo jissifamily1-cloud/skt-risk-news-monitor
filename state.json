@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatoday.co.kr/kn/view.php?key=20260930010010719",
-  "https://www.yna.co.kr/view/AKR20260930129400009?input=1195m",
   "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259200",
   "https://www.gukjenews.com/news/articleView.html?idxno=3709523",
   "https://zdnet.co.kr/view/?no=20260930150516",
@@ -2999,11 +2997,11 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20261001110116z6J",
   "https://www.sisajournal.com/news/articleView.html?idxno=388860",
   "https://www.newsis.com/view/NISX20261001_0003810160",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726372"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1726372",
+  "https://www.cnbizm.com/news/articleView.html?idxno=316805",
+  "https://www.nspna.com/news/?newsid=830216"
  ],
  "seen_titles": [
-  "LGCNS,'DCWA2026'출격…PMDC앞세워글로벌AI팩토리시장공략",
-  "AI속도논쟁에'개발지속'재확인…삼성·SK,HBM수요한숨놓나",
   "엔비디아의존축소…딥시크,화웨이AI칩용개발도구공개",
   "전장의밴플리트서젠슨황까지···한-미'지능생산동맹'으로",
   "추경호대구광역시장,\"청년의열정이모인다\"...'2026청년주간'개최",
@@ -6001,7 +5999,9 @@
   "금감원,신한은행긴급현장조사…대출자정보일부유출",
   "신한은행서정보유출사고…금감원,긴급현장조사",
   "메타·오픈AI'AI비서'쏟아내는데…에이전트에계좌이체맡기겠다7%...",
-  "해킹감사되는국감…빅테크한국대표도줄소환"
+  "해킹감사되는국감…빅테크한국대표도줄소환",
+  "SK텔레콤'에어',출시1주년…\"통신미니멀리즘통했다\"",
+  "한투증권,카카오그룹과디지털자산동맹…전자지갑공동구축"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-10-01T11:14:15.917886+09:00",
    "감사 국감 빅테크 줄소환 되는 한국 대표도"
+  ],
+  [
+   "2026-10-01T11:16:14.983198+09:00",
+   "출시 통했다 통신 ~SKT 1주년 에어 미니멀리즘"
+  ],
+  [
+   "2026-10-01T11:16:14.983198+09:00",
+   "전자지갑 구축 한투증권 공동 카카오그룹과 디지털자산 동맹"
   ]
  ],
- "last_run": "2026-10-01T11:14:37.738340+09:00",
+ "last_run": "2026-10-01T11:16:36.079539+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
