@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171853",
-  "https://www.thelec.kr/news/articleView.html?idxno=63062",
   "https://www.yna.co.kr/view/AKR20261001033300003?input=1195m",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704161",
   "https://www.segye.com/newsView/20261001504022?OutUrl=naver",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20261002010000091?input=1195m",
   "https://www.newsis.com/view/NISX20261002_0003811639",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171003",
-  "https://www.fnnews.com/news/202610010904201884"
+  "https://www.fnnews.com/news/202610010904201884",
+  "https://www.news2day.co.kr/article/20261001500253",
+  "https://view.asiae.co.kr/article/2026100114003310833"
  ],
  "seen_titles": [
-  "\"로봇도세금내라\"…빌게이츠,로봇세다시꺼낸이유는",
-  "티오리,美DARPA메신저뜯어본다",
   "전국고속도로서피지컬AI실증…현대차그룹,도로공사와맞손",
   "업스테이지,350억파라미터sLLM'솔라미니4'공개",
   "골프장경영협회,재산세인상대응…우천취소기준개선추진",
@@ -6001,7 +5999,9 @@
   "\"中해커들,美AI정책당국자·앤트로픽간부사칭스파이공작\"",
   "오픈AI,안전팀연구원3명해고…외부기관에기밀정보공유",
   "올해도해킹국감…티빙보안부실·보상안쟁점[미리보는국감①]",
-  "NHN두레이,개인정보보호·활용기술대상수상"
+  "NHN두레이,개인정보보호·활용기술대상수상",
+  "[N2포커스]갤럭시·아이폰,하반기또오른다…삼성·애플가격인상",
+  "[써보니]\"지니야미드추천해줘\"…디자인·편의다잡은KT'AI셋톱박스'"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,13 @@
   [
    "2026-10-02T06:32:15.860798+09:00",
    "티빙 보안 보상안 부실 쟁점 올해도 국감"
+  ],
+  [
+   "2026-10-02T06:36:14.893333+09:00",
+   "다잡은 미드 ~KT 편의 디자인 지니야 추천해줘 셋톱박스"
   ]
  ],
- "last_run": "2026-10-02T06:34:29.809441+09:00",
+ "last_run": "2026-10-02T06:36:39.272518+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
