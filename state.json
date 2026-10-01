@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html?partner=naver",
-  "https://www.nytimes.com/2026/09/30/business/ai-epic-health-records-privacy.html?partner=naver",
-  "https://n.news.naver.com/mnews/article/077/0007183769",
-  "https://www.nytimes.com/2026/09/29/opinion/trump-mideast-diplomacy-iran-ai.html?partner=naver",
-  "https://www.nytimes.com/2026/09/29/world/latin-america-brazil-election-trump-openai.html?partner=naver",
-  "https://www.nytimes.com/es/2026/09/29/espanol/negocios/openai-modelo-agentes-peligros-trabajadores.html?partner=naver",
   "https://www.tokenpost.kr/news/briefing/416051",
   "https://www.tokenpost.kr/news/ai/416045",
   "https://n.news.naver.com/mnews/article/077/0007183569",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12166516",
   "https://www.wikitree.co.kr/articles/1163135",
   "https://www.businessplus.kr/news/articleView.html?idxno=117613",
-  "https://www.mk.co.kr/article/12158024"
+  "https://www.mk.co.kr/article/12158024",
+  "https://biz.heraldcorp.com/article/10890963",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008779535&plink=ORI&cooper=NAVER",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448481",
+  "https://www.pressian.com/pages/articles/2026100111553703365",
+  "https://www.mk.co.kr/article/12158027",
+  "https://www.khan.co.kr/article/202610012057035"
  ],
  "seen_titles": [
-  "MajorMedicalRecordsFirmUsesA.I.ToolandFindsFlawsThatThreaten",
-  "OpenAIConference",
-  "TrumpIsGoingViralintheWorstWays",
-  "TheLatinAmericanRight’sBigBet",
-  "OpenAIignorólasadvertenciasdeseguridaddesusempleados",
-  "[모닝뉴스브리핑]연준,스테이블코인1대1준비금제안外",
   "오라클,AI에이전트앱25개추가…실행런타임공개",
   "TrumpAI",
   "트럼프,앤스로픽CEO와백악관만찬…AI안전논쟁",
@@ -6001,7 +5995,13 @@
   "“데이터센터짓다가버스떠납니다”…44→3개월줄일비법있다는데",
   "월200달러요금제는절반으로줄이고,새로월500달러상품을내놓은...",
   "[금융권이모저모]한국거래소,건전증시포럼서AI·시장경보체계논의...",
-  "어느새현실로‘AI디스토피아’"
+  "어느새현실로‘AI디스토피아’",
+  "中텐센트,AI경쟁위해오라클데이터센터임대…70억달러‘역대최...",
+  "대출모집인페이지뚫렸다…신한은행고객정보유출",
+  "[10월2일자]비즈니스포스트아침의주요기사",
+  "신한은행서고객2.5만명정보유출…은행장\"손해전액보상\"",
+  "자의식없어도기만…AI가AI개선할까",
+  "말로만속도조절…구글‘제미나이4’공개"
  ],
  "recent_sigs": [
   [
@@ -6429,7 +6429,7 @@
    "추출시도 문샷이 탈취VS수성 전쟁 추론정보"
   ]
  ],
- "last_run": "2026-10-01T21:10:44.857504+09:00",
+ "last_run": "2026-10-01T21:12:36.632817+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
