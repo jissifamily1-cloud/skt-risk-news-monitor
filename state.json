@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=722438",
-  "https://www.bloter.net/news/articleView.html?idxno=674668",
-  "https://www.inthenews.co.kr/news/article.html?no=92519",
   "https://dealsite.co.kr/articles/169857",
   "https://www.fnnews.com/news/202609301411141531",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703715",
@@ -2999,12 +2996,12 @@
   "https://zdnet.co.kr/view/?no=20261001095814",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260930.99099009792",
   "https://www.fnnews.com/news/202610011032510573",
-  "https://view.asiae.co.kr/article/2026100109261632271"
+  "https://view.asiae.co.kr/article/2026100109261632271",
+  "https://www.news1.kr/it-science/cc-newmedia/6307242",
+  "https://www.yna.co.kr/view/AKR20261001071200017?input=1195m",
+  "https://www.news1.kr/it-science/internet-platform/6307269"
  ],
  "seen_titles": [
-  "[단독]\"中공식홈페이지링크까지심었다\"…'DHL수입픽'사칭메일기...",
-  "과기정통부,알뜰폰활성화후속조치…설비갖춘사업자진입제도화",
-  "LS마린,해저광통신사업제2전성기…빅테크AI인프라투자수혜",
   "LGCNS,‘프리패브모듈형데이터센터’로글로벌AI팩토리시장공략",
   "앤트로픽,AI인프라700조원베팅…삼성·하이닉스에기회",
   "中저가공세에밀린日로봇업체들,美투자확대",
@@ -6001,7 +5998,10 @@
   "오픈AI'디시전스API',AI에이전트안전장치로주목",
   "독파모논란…배경훈“독파모와프론티어AI병행추진”",
   "구글,최신프론티어AI'제미나이4아곤'공개…AI가격경쟁점화",
-  "빌게이츠\"AI업계자율규제미친짓\"…백악관에선AI총수들설전"
+  "빌게이츠\"AI업계자율규제미친짓\"…백악관에선AI총수들설전",
+  "예산에발목잡혔던허위조작정보'투명성센터'…3개월만에출범",
+  "정보통신서비스투명성센터출범…허위조작정보사실확인지원",
+  "\"AI로만든정보,진짜맞나\"…방미통위,'확인템'장착캠페인"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-10-01T10:42:15.770472+09:00",
    "에이전트 API 안전장치로 주목 디시전스"
+  ],
+  [
+   "2026-10-01T10:46:18.141244+09:00",
+   "AI로 정보 캠페인 확인템 만든 진짜 맞나 장착"
   ]
  ],
- "last_run": "2026-10-01T10:44:29.819284+09:00",
+ "last_run": "2026-10-01T10:46:35.358002+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
