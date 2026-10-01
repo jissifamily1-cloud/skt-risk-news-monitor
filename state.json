@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12165013",
-  "https://ditoday.com/%ec%95%8c%eb%b0%94%ed%8a%b8%eb%a1%9c%ec%8a%a4-mysc-%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85%c2%b7%ec%98%88%eb%b9%84%ec%b0%bd%ec%97%85%ea%b0%80-%ec%9c%84%ed%95%9c-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%97%b0/",
-  "https://www.khan.co.kr/article/202609301635001",
-  "https://zdnet.co.kr/view/?no=20260930163927",
-  "https://www.wikitree.co.kr/articles/1163048",
-  "https://www.viva100.com/article/20260930501402",
   "https://www.viva100.com/article/20260930501377",
   "https://it.donga.com/109620/",
   "https://www.fnnews.com/news/202609301015144636",
@@ -2999,15 +2993,15 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437376",
   "https://www.g-enews.com/view.php?ud=202610011333471989112616b072_1",
   "https://www.aitimes.com/news/articleView.html?idxno=215830",
-  "https://www.donga.com/news/Economy/article/all/20261001/134766728/1"
+  "https://www.donga.com/news/Economy/article/all/20261001/134766728/1",
+  "https://www.hankyung.com/article/202609305327g",
+  "https://www.thelec.kr/news/articleView.html?idxno=63093",
+  "http://www.joseilbo.com/news/news_read.php?uid=576687&class=18",
+  "https://zdnet.co.kr/view/?no=20261001133642",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553096",
+  "https://www.kgnews.co.kr/news/article.html?no=913715"
  ],
  "seen_titles": [
-  "알바트로스-MYSC,스타트업·예비창업가위한컨설팅연다",
-  "LG유플,AI로상담대기47초→4초…2030년제로구현",
-  "앤트로픽,10년간AI인프라에700조원쓴다",
-  "자녀가집에와도방으로만들어간다면…부모가고쳐야할'대화습관...",
-  "[게임업데이트]이클립스-카제나-몬길:스타다이브-신의탑-오딘-제우...",
-  "독파모,중단은없다…활용확산과지원확대에방점",
   "[인터뷰]“검색넘어여행전과정연결”…부킹닷컴이그리는AI여행...",
   "\"사무실벽허물고계열사연결\"...하나금융,청라에미래를짓다[르포...",
   "\"K-바이오랩허브,기술이전10건·M&A2건성과낼것\"(종합)",
@@ -6001,7 +5995,13 @@
   "KB인베스트,美GMI클라우드시리즈B참여…엔비디아도투자",
   "타이어뱅크,ktwiz팬대상'빅또리'삼행시이벤트",
   "'불량AI에이전트'논란에…미FTC조사착수·오픈AI첫피소",
-  "“AI개발속도늦추자”더니…구글,최상위모델‘제미나이4아르곤’..."
+  "“AI개발속도늦추자”더니…구글,최상위모델‘제미나이4아르곤’...",
+  "\"불법감청하란소리냐\"…통신사들'집단반발'무슨일?",
+  "구글,제미나이4'아르곤'드디어발표…100만출력토큰지원",
+  "신한은행고객정보2만5000건샜다…금감원긴급현장조사",
+  "정부,공공보안사고'메스'...기관장징계하고담당자사기'업'",
+  "‘암살자(들)’혹평공감수137만→5만무슨일이?",
+  "신한은행해킹에고객정보2만5000명유출…금융당국긴급조사착수"
  ],
  "recent_sigs": [
   [
@@ -6605,7 +6605,7 @@
    "~SKT 부족 배출권 35만t 늘리는데 데이터센터"
   ]
  ],
- "last_run": "2026-10-01T13:44:36.264068+09:00",
+ "last_run": "2026-10-01T13:46:36.578325+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
