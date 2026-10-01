@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3709628",
-  "https://byline.network/?p=9004111222621683",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337437",
-  "https://www.dt.co.kr/article/12086717",
-  "https://zdnet.co.kr/view/?no=20260930161942",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036284",
-  "https://www.bloter.net/news/articleView.html?idxno=674734",
-  "https://www.hani.co.kr/arti/economy/it/1280189.html",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214799",
   "https://www.econovill.com/news/articleView.html?idxno=752320",
   "https://www.donga.com/news/Economy/article/all/20260930/134760807/1",
@@ -2999,17 +2991,17 @@
   "https://www.naeil.com/news/read/603922",
   "http://www.queen.co.kr/news/articleView.html?idxno=464171",
   "https://www.naeil.com/news/read/603925",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475755"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475755",
+  "https://www.yna.co.kr/view/PYH20261001134200013?input=1196m",
+  "https://isplus.com/article/view/isp202610010142",
+  "https://www.sportsseoul.com/news/read/1638834",
+  "https://news.dealsitetv.com/articles/176552",
+  "https://www.imaeil.com/page/view/2026093021200109511",
+  "https://www.yna.co.kr/view/PYH20261001134000013?input=1196m",
+  "https://www.the-today.com/news/articleView.html?idxno=91040",
+  "https://biz.sbs.co.kr/article_hub/20000337810?division=NAVER"
  ],
  "seen_titles": [
-  "밀입국선박에뚫린제주해상감시…감시장비보강절실",
-  "대구시,대구문화예술아카이브...공연예술성장사조명하는전시개최",
-  "정삼용시큐아이대표“AI초연결보안플랫폼기업으로도약”",
-  "[속보]추경호내란중요임무징역20년구형\"헌법배신죗값치러야\"",
-  "유라클,KT스카이라이프에‘아테나코드어시스턴트’공급",
-  "[AI는지금]국민AI,10월예고편나온다…'모두의AI'베타첫선",
-  "'2026경기스타트업서밋'10월14~15일수원서열려",
-  "플리토,AI통번역통합한'보글'…개인화·글로벌강화[현장+]",
   "정부,‘GPT-6아스트라’수준프런티어모델개발나선다",
   "기아,MS애저·GPT기반인카AI고도화···韓이용량4배증가",
   "빅테크불러낸트럼프\"AI고삐풀었다\"",
@@ -6001,7 +5993,15 @@
   "AI메모리특수…마이크론분기매출73.5조원",
   "에픽하이,'깐부회동'패러디로콘서트홍보…싱크로율에폭소",
   "엔비디아‘베라루빈’첫상용가동시작",
-  "아이폰연1회출시공식깨졌다···애플분산판매전략에통신3사..."
+  "아이폰연1회출시공식깨졌다···애플분산판매전략에통신3사...",
+  "구혁채차관,에스토니아교육연구부장관과면담",
+  "가을야구초대장배부완료,우승-3위싸움'끝까지간다'",
+  "죽이는가족여행‘경주기행’,오늘(1일)부터안방극장에서만난다",
+  "KAI,2040년항공우주플랫폼'빅4'",
+  "'다시감잡은맏형'최형우,삼성라이온즈상승세의밑거름되나",
+  "에스토니아교육연구부장관만난구혁채차관",
+  "中택배처리량1500억건돌파…지난해보다12일빨라",
+  "'딱걸렸다中문샷'오픈AI,'증류'학인"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-10-01T13:18:14.443902+09:00",
    "상용 루빈 가동 시작 베라"
+  ],
+  [
+   "2026-10-01T13:22:15.196692+09:00",
+   "학인 증류 문샷 걸렸다"
   ]
  ],
- "last_run": "2026-10-01T13:20:45.994720+09:00",
+ "last_run": "2026-10-01T13:22:32.762085+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
