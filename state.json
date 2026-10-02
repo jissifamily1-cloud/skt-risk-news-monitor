@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000070421",
-  "https://view.asiae.co.kr/article/2026100210011869058",
-  "https://www.ddaily.co.kr/page/view/2026100210413132940",
-  "https://www.huffingtonpost.kr/article/260943",
-  "https://zdnet.co.kr/view/?no=20261002104418",
-  "https://www.newscj.com/news/articleView.html?idxno=3437343",
   "https://www.suwonilbo.kr/view.html?id=L2610021040165396",
   "https://www.gukjenews.com/news/articleView.html?idxno=3711463",
   "https://www.nocutnews.co.kr/news/6586373",
@@ -2999,15 +2993,15 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492415",
   "https://www.sedaily.com/article/20097857",
   "http://www.joseilbo.com/news/news_read.php?uid=576600&class=78",
-  "https://www.aitimes.com/news/articleView.html?idxno=215882"
+  "https://www.aitimes.com/news/articleView.html?idxno=215882",
+  "https://www.segye.com/newsView/20261003501586?OutUrl=naver",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171297",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068240",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6855529_37012.html",
+  "https://www.ddaily.co.kr/page/view/2026100222552894427",
+  "https://www.ddaily.co.kr/page/view/2026100307100671259"
  ],
  "seen_titles": [
-  "실전금융교육플랫폼‘마루랩’",
-  "앤스로픽,11월IPO승부…추수감사절전상장추진",
-  "오픈AI,AI에이전트이상활동정황100여개기관에통보",
-  "\"AI에이전트,캐나다정부사이트해킹시도\"",
-  "오픈AI,AI무단활동100곳넘게통보…'행동하는AI'가드러낸새보안...",
-  "50만달러로95분영화뚝딱…할리우드삼킨AI",
   "[디투피플]캡차·기존KYC한계,홍채기반'월드'ID가AI시대진정한...",
   "신한,'AI에이전트'에당했다…\"은행권보안체계질적전환필요\"",
   "신한은행해킹에AI동원됐나···서버서자율형침투도구흔적",
@@ -6001,7 +5995,13 @@
   "[주간거래소외국인]SK하이닉스·삼성전자폭풍매도…우리금융지주S...",
   "9월물가2.9%만올랐다는데…‘진짜물가’는더뛰었다[Pick코노미]",
   "AI두강자의장부열어보니…적자보다무서운'미래지출'[마켓프리즘...",
-  "[10월2일]\"뜻밖의주인공은로그인과플러그인\"…알트먼이보여준챗GP..."
+  "[10월2일]\"뜻밖의주인공은로그인과플러그인\"…알트먼이보여준챗GP...",
+  "검색창대신AI에묻는다…풀무원·월마트가상품정보바꾼이유",
+  "\"스마트폰꺼낼필요없어\"AI기기늘리는빅테크",
+  "[2026국감-IT]티빙최주희,6일·13일연달아증인대…윤상현철회",
+  "1부오늘의주요뉴스",
+  "“AI쓰지않는해킹없다”…금융권연쇄유출,‘공격자동화시대’...",
+  "오픈AI,AI에이전트무단활동가능성100여개기관에통보…美FTC조사..."
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,13 @@
   [
    "2026-10-03T07:10:45.127942+09:00",
    "뜻밖의 알트먼이 주인공은 보여준 로그인과 플러그인 챗GP"
+  ],
+  [
+   "2026-10-03T07:12:13.874166+09:00",
+   "가능성 무단 FTC 통보 100여개 에이전트 기관에 조사 활동"
   ]
  ],
- "last_run": "2026-10-03T07:11:04.085921+09:00",
+ "last_run": "2026-10-03T07:12:37.716823+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
