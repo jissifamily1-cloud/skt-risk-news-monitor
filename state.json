@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026100210372930782",
-  "https://www.nocutnews.co.kr/news/6586368",
-  "https://www.ppss.kr/news/articleView.html?idxno=313644",
-  "http://www.queen.co.kr/news/articleView.html?idxno=464214",
-  "https://www.hangyo.com/news/article.html?no=109507",
-  "https://www.g-enews.com/view.php?ud=2026100210394019109a1f309431_1",
-  "https://imnews.imbc.com/news/2026/world/article/6855376_36925.html",
-  "https://www.yna.co.kr/view/AKR20261002057400009?input=1195m",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241976",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54248",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704568",
   "http://www.seouleconews.com/news/articleView.html?idxno=94088",
   "https://www.smartbizn.com/news/articleView.html?idxno=155431",
   "https://www.news1.kr/it-science/security-hacking/6308692",
@@ -2999,20 +2988,20 @@
   "https://www.g-enews.com/view.php?ud=202610030646309624fbbec65dfb_1",
   "https://dgmbc.com/NewsArticle/865292",
   "https://www.ddaily.co.kr/page/view/2026100219394114273",
-  "https://www.ddaily.co.kr/page/view/2026100212415811781"
+  "https://www.ddaily.co.kr/page/view/2026100212415811781",
+  "https://www.mt.co.kr/future/2026/10/03/2026100216214274767",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282899",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492412",
+  "http://www.joseilbo.com/news/news_read.php?uid=576798&class=53",
+  "https://www.ddaily.co.kr/page/view/2026100214454586087",
+  "https://www.mk.co.kr/article/12167459",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65258",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068408",
+  "https://www.dailian.co.kr/news/view/1697469/?sc=Naver",
+  "http://www.beyondpost.co.kr/view.php?ud=2026100306503956792aaae0046f_30",
+  "https://www.newscj.com/news/articleView.html?idxno=3437576"
  ],
  "seen_titles": [
-  "대주전자재료주가,급등세...왜?",
-  "구글,우주에AI칩쏘아올렸다…'우주데이터센터'궤도시험착수",
-  "LG유플러스,AI운영비낮춘다…GPU토큰처리량최대4배확대",
-  "LG유플러스-옵트에이아이,AI모델경량화협력…GPU토큰처리량4배↑",
-  "LG유플러스-옵트에이아이토큰최적화기술고도화,AI운영효율강화",
-  "LG유플러스,옵트에이아이와'토큰최적화'공동연구",
-  "LG유플러스·옵트에이아이,AI운영효율높이는'토큰최적화'기술확...",
-  "KT소상공인AX플랫폼키운다,'사장이지'에AI면접·마케팅기능추가",
-  "KT,'사장이지'에AI면접부터마케팅까지…소상공인경영부담줄인다",
-  "\"면접도마케팅도AI로\"…KT'사장이지',소상공인경영지원",
-  "시높시스,반도체설계·검증AI에이전트공개…삼성전자·엔비디아·인...",
   "AI두강자의장부열어보니…적자보다무서운'미래지출'[마켓프리즘...",
   "송경희개보위원장\"AI시대개인정보보호체계중요\"",
   "포티투닷,글로벌IT리더3명영입…\"SDV경쟁력강화\"",
@@ -6001,7 +5990,18 @@
   "디램값폭등에메모리쪼갠엔비디아의고육책",
   "가까워진PO직행,좁혀지지않는KS행···5연승삼성라이온즈,두산과...",
   "연이은해킹에금융권'속수무책'…보안취약한외곽시스템노려",
-  "\"품질좋은침대추천해줘\"했더니…10번중8번이'시몬스'"
+  "\"품질좋은침대추천해줘\"했더니…10번중8번이'시몬스'",
+  "인력중심'조선소'들어간피지컬AI에투자자들지갑열었다",
+  "뉴욕증시,고용부진·금리인상우려완화상승...나스닥1.2%↑",
+  "美고용예상밖부진에금리인상우려완화…나스닥1.2%폭등랠리",
+  "금리인상우려꺾이자뉴욕증시일제히상승...브로드컴3%·테슬라4.6%↑",
+  "KB국민·신한은행잇단고객정보유출…은행권내부통제‘구멍’",
+  "매경이전하는세상의지식(매-세-지,10월3일)",
+  "금융위\"국민불안하지않도록\"…은행·카드사에전산시스템전수점검...",
+  "[카드뉴스]은행권잇단해킹사고",
+  "젠슨황만난이재용·최태원,日양궁장찾은정의선,이지스함띄운...",
+  "엔비디아,대만TSMC,사상최고가경신...엔비디아,1.34%오르며시총...",
+  "[천지일보이슈종합]은행권해킹·한·우크라외교갈등·오세훈징역1..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,21 @@
   [
    "2026-10-03T07:00:38.063065+09:00",
    "했더니 품질 침대 10번중 시몬스 8번이 추천해줘 좋은"
+  ],
+  [
+   "2026-10-03T07:02:15.726097+09:00",
+   "정의선 띄운 이지스함 양궁장 만난 젠슨 찾은 이재용"
+  ],
+  [
+   "2026-10-03T07:02:15.726097+09:00",
+   "대만 시총 TSMC 사상 경신 최고가 오르며"
+  ],
+  [
+   "2026-10-03T07:02:15.726097+09:00",
+   "은행권 오세훈 징역 외교갈등 우크라"
   ]
  ],
- "last_run": "2026-10-03T07:00:58.103707+09:00",
+ "last_run": "2026-10-03T07:02:43.882776+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
