@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=215828",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407628",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=89532",
-  "https://www.betanews.net/article/view/beta202609300076",
-  "http://www.popcornnews.net/news/articleView.html?idxno=134633",
-  "https://www.newsis.com/view/NISX20261001_0003810434",
   "https://biz.chosun.com/stock/finance/2026/10/01/CYWA7IA5CNF5HAQ6JBP2RGF6Y4/",
   "https://www.sedaily.com/article/20097011",
   "https://www.joongangenews.com/news/articleView.html?idxno=551872",
@@ -2999,15 +2993,15 @@
   "https://biz.chosun.com/it-science/ict/2026/10/02/C42SHMDMIBBCRHJ2THQHJYRSMM/",
   "https://www.etoday.co.kr/news/view/2631919",
   "https://www.dailian.co.kr/news/view/1697268/?sc=Naver",
-  "https://www.edaily.co.kr/News/Read?newsId=03014326645608984&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=03014326645608984&mediaCodeNo=257",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=311145",
+  "https://www.goodkyung.com/news/articleView.html?idxno=291968",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261002101632GLa",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94085",
+  "https://www.ngonews.kr/news/articleView.html?idxno=239736",
+  "https://www.yna.co.kr/view/AKR20261002055400009?input=1195m"
  ],
  "seen_titles": [
-  "\"앤트로픽몸값1.5조달러로하향해야\"…월가의AIIPO'거품'경고",
-  "노르딕nRF54LM20A품은'샤오'…차세대무선개발보드공개",
-  "\"기술전수부터창업지원까지\"…카카오,부산서남부권AI생태계구축...",
-  "삼성전자전영현\"에이전틱AI,업무·조직근본적으로바꿀것\"",
-  "이해욱회장이끄는DL그룹,중소·글로벌기업과맞손...'발굴서사업화...",
-  "디지털엑스,'서브어카운트'출시…한계정서최대10개전략운용",
   "국감증인나서는토스,‘결제정보유출’3주만에인증강화",
   "사이버보안기본수칙안지키면기관장도징계…실태평가2000곳으로확...",
   "신한은행정보유출사고...금감원,긴급현장조사",
@@ -6001,7 +5995,13 @@
   "Arm,엔비디아AI에이전트보안플랫폼에‘감시기술’적용",
   "면접부터마케팅까지AI가척척…KT,‘사장이지’AI서비스로소상공...",
   "[2026국감]잇따르는정보유출사고…5년간보험금지급13억뿐",
-  "9월물가,'통신비착시'로낮아져…한은\"이번달3%안팎으로오를것\""
+  "9월물가,'통신비착시'로낮아져…한은\"이번달3%안팎으로오를것\"",
+  "[정보보안-신한은행]①'제로트러스트'구축불구방어벽뚫렸다",
+  "황인호대전동구청장100일…'신야간경제'·'드림캠퍼스재설계'두축...",
+  "신한은행해킹서버서'중국어AI침투도구'흔적발견",
+  "9월소비자물가2.9%상승…석유최고가격제가0.6%p낮춰",
+  "신한은행해킹에'중국어기반AI공격툴'정황…당국,해외유포경로...",
+  "오픈AI,'통제벗어난AI에이전트'정황100여개기관에통보"
  ],
  "recent_sigs": [
   [
@@ -6475,9 +6475,13 @@
   [
    "2026-10-02T10:08:16.561317+09:00",
    "하늘 회색"
+  ],
+  [
+   "2026-10-02T10:18:16.204910+09:00",
+   "정황 통보 통제 벗어난 에이전트 기관에 100여개"
   ]
  ],
- "last_run": "2026-10-02T10:16:30.787826+09:00",
+ "last_run": "2026-10-02T10:18:34.499043+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
