@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675560",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491465",
-  "https://www.donga.com/news/Economy/article/all/20261001/134766750/2",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434055",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1010764",
-  "https://www.xportsnews.com/article/2202819",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253518",
-  "https://www.econovill.com/news/articleView.html?idxno=752433",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=278248",
   "https://www.topstarnews.net/news/articleView.html?idxno=16231816",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=301827",
   "https://www.yna.co.kr/view/AKR20261001065851002?input=1195m",
@@ -2999,18 +2990,18 @@
   "http://coinreaders.com/261298",
   "https://biz.sbs.co.kr/article_hub/20000337788?division=NAVER",
   "https://www.chosun.com/international/europe/2026/09/30/4HXVRTWGVFEMRIPFVO2KFCBPW4/",
-  "https://www.beopbo.com/news/articleView.html?idxno=338087"
+  "https://www.beopbo.com/news/articleView.html?idxno=338087",
+  "https://biz.sbs.co.kr/article_hub/20000338054?division=NAVER",
+  "https://www.techm.kr/news/articleView.html?idxno=155796",
+  "https://www.cwn.kr/news/articleView.html?idxno=58126",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780451&plink=ORI&cooper=NAVER",
+  "https://www.theguru.co.kr/news/article.html?no=107831",
+  "http://www.kdfnews.com/news/articleView.html?idxno=188790",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553276",
+  "https://www.econovill.com/news/articleView.html?idxno=752590",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4109996"
  ],
  "seen_titles": [
-  "“AI가만든가짜,이렇게판별”…방미통위,숏폼공개",
-  "SK브로드밴드'Btv핫딜',출시10개월만에누적판매액100억원돌파",
-  "“왜쓰면답답하지”…구글,신형‘제미나이4’놓고내부회의론에...",
-  "KBO,2차잔여11경기일정확정…정규시즌최종전10월12일",
-  "\"짜증많이난다\"최형우솔직고백,오죽했으면…\"너무잘해,맨날이긴...",
-  "'배우도전'트와이스정연,간호장교된다…'신병더무비'합류",
-  "삼성전자,갤럭시버즈최초클립형이어폰'갤럭시버즈온'10월27일...",
-  "삼성전자,첫클립형이어폰'갤럭시버즈온'출시…귀안막고9.5시간...",
-  "매매전략말로쓰면AI가코드로…LS증권자동매매한결편해진다",
   "호주,AI가언론돈줄끊는다경고…빅테크보상제가동",
   "\"조단위엔트로픽평가차익에비과세배당까지…SK텔레콤'꽃길'열렸...",
   "신한은행서2만5천명고객정보유출…금융당국긴급현장조사(종합)",
@@ -6001,7 +5992,16 @@
   "월가거물,엔비디아(NVDA)52%랠리예측...\"아직도저평가상태\"",
   "보이스피싱배상누가내나…은행vs통신사떠넘기기'공방'",
   "트럼프“수퍼지능”한마디에…슬로베니아‘뜻밖의횡재’",
-  "조계사·일일시호일이주민돕기공동캠페인"
+  "조계사·일일시호일이주민돕기공동캠페인",
+  "AI시대변화하는'돈의공식'…'금리는조연'",
+  "하나금융,인천청라헤드쿼터개소...15년만에'하나금융타운'완성",
+  "포티투닷,글로벌IT리더3명영입하며SDV원천기술'업그레이드'",
+  "사고치는AI들,법적책임은누가?…\"기존법적용까다롭다\"",
+  "조원태회장,美USC최첨단R&D단지중심에'KOREANAIR'새겼다…LA올...",
+  "하나금융,청라헤드쿼터오픈…금융∙IT인력4000명집결",
+  "“신한은행해킹,中AI침투도구흔적”주장",
+  "신한은행,해킹서버서'中AI침투도구'흔적포착",
+  "개인정보유출사고조사,중요사건1년내처리"
  ],
  "recent_sigs": [
   [
@@ -6597,7 +6597,7 @@
    "조계사 공동캠페인 이주민돕기 일일시호일"
   ]
  ],
- "last_run": "2026-10-02T11:18:34.439953+09:00",
+ "last_run": "2026-10-02T11:20:44.622292+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
