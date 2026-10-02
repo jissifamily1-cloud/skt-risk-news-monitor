@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703012",
-  "https://www.aitimes.com/news/articleView.html?idxno=215667",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703002",
-  "https://www.aitimes.com/news/articleView.html?idxno=215663",
-  "http://www.beyondpost.co.kr/view.php?ud=2026100205294387062aaae0046f_30",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609301509528190972",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=321067",
   "https://www.mediapen.com/news/view/1127409",
@@ -2999,14 +2994,14 @@
   "https://www.ajunews.com/view/20261002212620003",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=869879",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90014",
-  "https://www.hankookilbo.com/news/article/A2026100220530004347?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026100220530004347?did=NA",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261002214635ZN9",
+  "https://www.donga.com/news/Society/article/all/20261002/134779301/1",
+  "https://www.hani.co.kr/arti/society/society_general/1280711.html",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434096",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476898"
  ],
  "seen_titles": [
-  "트럼프·시진핑,AI대신\"초지능\"…美中,사고대응채널까지만든다",
-  "트럼프·아모데이,백악관서비공개만찬…갈등속첫단독회동",
-  "트럼프,앤트로픽CEO아모데이와백악관첫단독만찬",
-  "트럼프,앤트로픽CEO와백악관비공개만찬추진",
-  "AI속도조절,속내는달라도채널은열었다",
   "\"오픈AI·앤트로픽AI모델일탈사례수만건...공개된건빙산의일각...",
   "빌게이츠\"AI악용하면10억명죽을수도\"...규제론재부각",
   "앨버니지호주총리\"오픈AI에이전트가호주정부웹사이트해킹\"",
@@ -6001,13 +5996,14 @@
   "[아주경제오늘의뉴스종합]은행권전방위해킹공격…고객정보유출...",
   "예가람저축은행도해킹…고객개인정보유출",
   "최태원,SK㈜지분2.3%매각…9440억원확보",
-  "\"대통령도놀랐다\"...고령층속여3500억끌어모은일당기소"
+  "\"대통령도놀랐다\"...고령층속여3500억끌어모은일당기소",
+  "[이시각헤드라인]10월2일뉴스투나잇",
+  "경찰,은행권‘AI해킹사건’내사착수…檢폐지후첫대형사이버사...",
+  "경찰,은행권동시다발해킹공격에내사착수",
+  "은행권잇단해킹…업무지원시스템도공격표면됐다",
+  "은행해킹잇따르자금융당국'비상'···은행·카드사전수점검"
  ],
  "recent_sigs": [
-  [
-   "2026-10-02T15:58:15.672421+09:00",
-   "불용 올해 시도 24만 원은 10억 보안 전액 법원 예산"
-  ],
   [
    "2026-10-02T16:02:17.970776+09:00",
    "자금조달 나선다 자산 경량화 아마존 AI칩으로"
@@ -6387,9 +6383,13 @@
   [
    "2026-10-02T21:56:16.346785+09:00",
    "3500억 대통령도 기소 놀랐다 속여 일당 끌어모은 고령층"
+  ],
+  [
+   "2026-10-02T21:58:17.283334+09:00",
+   "금융당국 잇따르자 점검 카드사 전수 비상 은행"
   ]
  ],
- "last_run": "2026-10-02T21:56:37.343811+09:00",
+ "last_run": "2026-10-02T21:58:35.403162+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
