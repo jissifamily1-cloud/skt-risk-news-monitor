@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16231816",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=301827",
-  "https://www.yna.co.kr/view/AKR20261001065851002?input=1195m",
-  "https://www.mydaily.co.kr/page/view/2026100111570269034",
-  "https://www.newspim.com/news/view/20261001000665",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241958",
-  "https://www.donga.com/news/Economy/article/all/20261001/134766821/2",
-  "https://www.news1.kr/finance/general-finance/6307478",
-  "https://www.munhwa.com/article/11620844",
   "https://www.econovill.com/news/articleView.html?idxno=752430",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=301898",
   "https://www.newsis.com/view/NISX20261001_0003810139",
@@ -2999,18 +2990,18 @@
   "http://www.kdfnews.com/news/articleView.html?idxno=188790",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553276",
   "https://www.econovill.com/news/articleView.html?idxno=752590",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4109996"
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4109996",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491465",
+  "https://dealsite.co.kr/articles/170051",
+  "https://www.joongang.co.kr/article/25466638",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578550803426",
+  "https://www.huffingtonpost.kr/article/260945",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=318583",
+  "https://www.segye.com/newsView/20261002504278?OutUrl=naver",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298440",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437581"
  ],
  "seen_titles": [
-  "호주,AI가언론돈줄끊는다경고…빅테크보상제가동",
-  "\"조단위엔트로픽평가차익에비과세배당까지…SK텔레콤'꽃길'열렸...",
-  "신한은행서2만5천명고객정보유출…금융당국긴급현장조사(종합)",
-  "[종합]“고객명·연소득까지…”신한은행2.5만명대출정보유출…정상...",
-  "신한은행,2.5만명고객정보유출…\"피해발생시전액보상\"",
-  "신한은행,2만5000명대출정보유출…금감원긴급현장조사",
-  "신한은행2만5000명고객정보유출…“전액보상약속”",
-  "신한은행2.5만명개인정보유출…정상혁\"전액피해보상\"(종합2보)",
-  "[속보]신한은행2만5000명정보유출…금감원,긴급현장조사착수",
   "신한은행대출자정보2만5천건유출…금감원긴급현장조사",
   "SK텔레콤'에어',포인트사용률96%기록…요금할인·일상소비등실...",
   "\"양자컴해킹막아라\"…정부,'양자내성암호(PQC)전환'첫해커톤·경진...",
@@ -6001,7 +5992,16 @@
   "하나금융,청라헤드쿼터오픈…금융∙IT인력4000명집결",
   "“신한은행해킹,中AI침투도구흔적”주장",
   "신한은행,해킹서버서'中AI침투도구'흔적포착",
-  "개인정보유출사고조사,중요사건1년내처리"
+  "개인정보유출사고조사,중요사건1년내처리",
+  "SK브로드밴드'Btv핫딜',출시10개월만에누적판매액100억원돌파",
+  "[재계는지금]네이버,해외여행정보탐색경험강화外",
+  "개인정보유출신고반년만에432건…100만명이상유출‘1년내조사...",
+  "강남언니홍승일대표,대규모개인정보유출로국감행…과기위·복지위...",
+  "5년간개인정보유출과징금7천억원인데개인보상은13억원,혁신당김...",
+  "신한은행고객정보2만5000명유출,공격인지부터신고까지",
+  "개인정보위,‘100만명이상개인정보유출’사건집중관리…1년내처...",
+  "9월소비자물가2.9%상승···두달만에2%대복귀",
+  "[외환]달러강세에1,360원위로…4.10원↑"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-10-02T11:18:15.973162+09:00",
    "조계사 공동캠페인 이주민돕기 일일시호일"
+  ],
+  [
+   "2026-10-02T11:22:16.950672+09:00",
+   "위로 10원 달러 강세에 360원"
   ]
  ],
- "last_run": "2026-10-02T11:20:44.622292+09:00",
+ "last_run": "2026-10-02T11:22:35.436231+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
