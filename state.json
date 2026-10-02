@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=552026",
-  "https://www.imaeil.com/page/view/2026100114535229325",
-  "https://www.yna.co.kr/view/AKR20261001127800062?input=1195m",
-  "https://www.xportsnews.com/article/2202813",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726376",
-  "https://www.ddaily.co.kr/page/view/2026100114292760584",
-  "https://www.etnews.com/20261001000367",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553122",
-  "https://www.goodkyung.com/news/articleView.html?idxno=291941",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=506816",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2304620",
   "http://www.niceeconomy.co.kr/news/articleView.html?idxno=91186",
   "https://www.sisaweek.com/news/articleView.html?idxno=238171",
@@ -2999,19 +2989,19 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3711656",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=49424",
   "http://www.popcornnews.net/news/articleView.html?idxno=134526",
-  "https://www.cnbizm.com/news/articleView.html?idxno=316962"
+  "https://www.cnbizm.com/news/articleView.html?idxno=316962",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81517",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3148974",
+  "https://www.ppss.kr/news/articleView.html?idxno=313674",
+  "https://www.cwn.kr/news/articleView.html?idxno=58160",
+  "https://www.edaily.co.kr/News/Read?newsId=04011446645608984&mediaCodeNo=257",
+  "https://biz.heraldcorp.com/article/10891878",
+  "https://www.yna.co.kr/view/AKR20261002086351002?input=1195m",
+  "https://www.ytn.co.kr/_ln/0102_202610021415039893",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=85526",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=130595"
  ],
  "seen_titles": [
-  "[ESG]생각을넘어행동으로,제3회대한민국사회적가치페스타",
-  "가스공사,첫상대부터어렵다…소노와개막전",
-  "[부고]박종현(G1방송영상팀부국장)씨빙모상",
-  "'전롯데좌완'0이닝4출루2실점붕괴→'2023MVP'2이닝무실점쾌투...",
-  "[현장]\"3년뒤엔넷플릭스처럼\"…밀리의서재,웹툰·웹소설IP승부수",
-  "쏠리드·KTSAT,정지궤도위성서3GPP기반NTN통신구현",
-  "쏠리드·KTSAT,무궁화위성서5GNTN실증…최대100Mbps전송",
-  "최태원,김희영과미국공식석상에등장[현장영상]",
-  "김병주,올해도국감증인대서나…정무위·산자위서MBK책임론",
-  "국립순천대,'사이버위기대응5년연속A등급'...정보보호역량입증",
   "신한은행서2만5000명고객정보유출…금융당국긴급현장조사",
   "[정책브리핑]\"PW장기방치도징계…공공기관정보유출시고위직문책\"",
   "이번엔신한은행…끊임없는고객정보유출사고",
@@ -6001,13 +5991,19 @@
   "권순기경남교육감,\"정부지방교육재정개편안재검토하라\"",
   "9월소비자물가2.9%상승…기름값·먹거리부담여전",
   "SK브로드밴드'Btv핫딜',출시10개월만에누적판매액100억",
-  "LG유플러스,옵트에이아이와'토큰최적화'기술고도화"
+  "LG유플러스,옵트에이아이와'토큰최적화'기술고도화",
+  "신한이어KB국민은행도고객150여명정보유출",
+  "허재영세종대교수,공격적테크와리스크방어융합한핀테크해법제...",
+  "신한은행정보유출에AI동원됐나…中기반'ARTEXAI'흔적",
+  "개인정보위,100만명대유출사건전담'신속조사'돌입...경미사건3개월...",
+  "신한은행이어KB국민은행도보안사고…고객119명정보유출(종합)",
+  "KB국민은행119명개인정보유출피해시전액보상",
+  "신한이어KB국민은행도해킹당해…119명고객정보유출(종합)",
+  "국민은행119명정보유출...\"업무시스템해킹\"",
+  "신한이어KB국민은행도해킹…시중은행고객정보유출비상",
+  "\"금융거래먹통은막았지만\"…KB국민은행,직원앱해킹으로119명정보..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-02T08:20:22.373097+09:00",
-   "일자리 금리 분수령 10만개 근원물가"
-  ],
   [
    "2026-10-02T08:26:13.820152+09:00",
    "4GW 수요 독파모 짓는다는데 AIDC 확인은 흔들 5300억 5GW"
@@ -6511,9 +6507,13 @@
   [
    "2026-10-02T14:16:15.528255+09:00",
    "단위 수주 LG전자 띄운 채비 냉각 공장까지"
+  ],
+  [
+   "2026-10-02T14:22:15.491697+09:00",
+   "막았지만 먹통은 해킹으로 KB국민은행 정보 금융거래 직원 119명"
   ]
  ],
- "last_run": "2026-10-02T14:20:37.607654+09:00",
+ "last_run": "2026-10-02T14:22:33.644152+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
