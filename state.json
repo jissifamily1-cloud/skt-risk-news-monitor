@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sctoday.co.kr/news/articleView.html?idxno=48711",
-  "https://www.news1.kr/it-science/security-hacking/6308051",
-  "https://www.news1.kr/it-science/security-hacking/6308629",
-  "https://newscham.net/articles/117264",
-  "https://www.news1.kr/economy/trend/6308735",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780382&plink=ORI&cooper=NAVER",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171262",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437572",
   "https://biz.sbs.co.kr/article_hub/20000338053?division=NAVER",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448502",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20261002000836",
   "https://www.mt.co.kr/opinion/2026/10/03/2026100214462960232",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=406732",
-  "https://www.khan.co.kr/article/202610030800011"
+  "https://www.khan.co.kr/article/202610030800011",
+  "https://www.goodkyung.com/news/articleView.html?idxno=291910",
+  "https://zdnet.co.kr/view/?no=20261002193734",
+  "https://www.chosun.com/economy/tech_it/2026/10/02/BYYORDDN6JCLPF4ACBGBNJQXDA/",
+  "https://biz.sbs.co.kr/article_hub/20000337537?division=NAVER",
+  "https://www.mk.co.kr/article/12165875",
+  "http://coinreaders.com/261449",
+  "https://magazine.hankyung.com/business/article/202609305812b"
  ],
  "seen_titles": [
-  "[유통갤러리]식봄,신선식자재품질보장서비스‘싱싱보장제’확대...",
-  "셀카올리면옷입혀준다…챗GPT,가상피팅기능추가",
-  "하나금융,15년만에청라하나금융타운완성…4000명금융·IT인력집결",
-  "AWS클라우드워치옴니,장애조사맥락한곳에모았다",
-  "[굿모닝!2일식품업계소식]CJ제일제당·동원F&B·롯데칠성음료·오뚜...",
-  "연상호감독'실낙원',제31회BIFF4회차전석매진",
-  "신한은행고객정보유출서버서'중국산AI'침투도구흔적",
   "하나금융,청라헤드쿼터에금융·IT인력집결…'새로운100년'시동",
   "K-뷰티유럽진출전초기지열렸다…파리중심가에플래그십허브‘mmm...",
   "포티투닷구글·엔비디아출신IT전문가3명영입,SDV·자율주행경쟁...",
@@ -6001,7 +5994,14 @@
   "[뮤즈돌풍]④AI에이전트격전지전자상거래…판이바뀐다,어떻게",
   "자율주행은배출가스를줄일수있을까?",
   "엔비디아,퍼플렉시티추가지분투자검토···미래에셋'선제투자'재...",
-  "챗GPT만든샘올트먼에게물었다…“AI가세상을끝낼까요”[오마주]"
+  "챗GPT만든샘올트먼에게물었다…“AI가세상을끝낼까요”[오마주]",
+  "[심층분석]메리츠증권,16.7조조달길열렸다…부동산강자넘어'종합...",
+  "美통신3사‘위성동맹’출범...지상에선경쟁,우주에선협력",
+  "“돈빌려줄테니우리AI칩써”엔비디아700조이어브로드컴도59조대...",
+  "[셀럽의한수]고공행진美장기국채금리\"더오른다고볼수없다\"",
+  "챗GPT68만원내라고?…앤트로픽도딥시크도줄줄이‘인상’",
+  "비트코인보다낫다?…체인링크(LINK)가자산토큰화시대의핵심인이유",
+  "탈탈털리는유통국감…정보유출부터책임회피까지"
  ],
  "recent_sigs": [
   [
@@ -6197,7 +6197,7 @@
    "올트먼에게 AI가 세상을 물었다 만든 끝낼까요 챗GPT"
   ]
  ],
- "last_run": "2026-10-03T08:06:32.677084+09:00",
+ "last_run": "2026-10-03T08:08:30.802806+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
