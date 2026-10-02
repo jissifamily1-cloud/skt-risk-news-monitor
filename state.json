@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868956",
-  "http://www.globalepic.co.kr/view.php?ud=20260930135522229148439a4874_29",
-  "https://www.pressian.com/pages/articles/2026093009274545503",
-  "https://www.tokenpost.kr/news/ai/416254",
-  "https://www.nytimes.com/2026/09/30/pageoneplus/quote-of-the-day-openai-failed-to-heed-alerts-about-security.html?partner=naver",
-  "https://www.tokenpost.kr/news/briefing/416226",
-  "https://www.betanews.net/article/view/beta202609300027",
-  "https://www.tokenpost.kr/news/breaking/416197",
-  "https://www.upkoreanews.kr/news/articleView.html?idxno=100424",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214763",
   "https://www.tokenpost.kr/news/breaking/416167",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=394146",
@@ -2999,18 +2990,18 @@
   "https://www.hankyung.com/article/2026100212011",
   "https://www.betanews.net/article/view/beta202610020094",
   "http://sateconomy.co.kr/news/view/1065609844109401",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6855470_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6855470_37004.html",
+  "https://biz.heraldcorp.com/article/10892302",
+  "https://www.seoultimes.news/news/article.html?no=2000100519",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6855468_37004.html",
+  "https://www.yna.co.kr/view/AKR20261002176000004?input=1195m",
+  "https://www.mk.co.kr/article/12167516",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448587",
+  "https://news.jtbc.co.kr/article/NB12321137?influxDiv=NAVER",
+  "https://www.livebiz.today/news/articleView.html?idxno=205322",
+  "https://www.mk.co.kr/article/12167519"
  ],
  "seen_titles": [
-  "ArtueShowcases\"GPTCurator,\"ConnectingArtDiscoveryandCommerce",
-  "AWayOutoftheA.I.ArmsRace?",
-  "HedgeFund’sNearCollapseLaysBareRisksofBorrowingtoBetonA.I.",
-  "WhatWouldJohnMaynardKeynesSayAboutA.I.?TheKeynesBotToldUs.",
-  "트럼프·AI빅테크손잡았다…\"스스로규제한다\"",
-  "SK하이닉스자사주소각·실적견조…SK스퀘어주주환원확대기대감고...",
-  "HBM우려에도꺾이지않은낙관론…삼성전자·하이닉스증권가전망은?...",
-  "[KBW2026]0G\"AI가지능이라면블록체인은신뢰…에이전트경제더커진...",
-  "Korea’snationalAImodelprojectadriftasgovernmentquestionsownb",
   "“AI는복잡해져도쓰는건단순해야”…신정규래블업대표가그리는...",
   "SamsunghostsforumfocusedonagenticAI",
   "빅테크뭉친엔비디아'AI보안동맹'...오픈AI만빠진이유",
@@ -6001,7 +5992,16 @@
   "'AI해킹'에은행들뚫렸다",
   "최태원회장,SK㈜지분9440억원매각…지분율15.5%로낮아져도최대주...",
   "최태원,SK㈜지분9440억매각…현금화해도경영권은유지",
-  "누구나손쉬운접근‥대규모해킹에'AI도구'활용?"
+  "누구나손쉬운접근‥대규모해킹에'AI도구'활용?",
+  "금융당국,은행·카드사에긴급보안점검지시…“외부노출시스템점...",
+  "[종합2]우리·신한·KB국민이어하나·부산은행도개인정보유출",
+  "시중은행줄줄이뚫렸다‥국민·하나도개인정보유출",
+  "경찰,'은행권전방위AI해킹사건'즉각내사착수",
+  "국민·하나·부산銀도털려…AI해킹에떠는금융사들",
+  "해킹공격에시중은행전산망줄줄이뚫려,신한·국민이어하나·BNK서...",
+  "신한·국민·하나…'안뚫린데가어디야?'은행권해킹초비상",
+  "BNK부산은행도털렸다...해킹으로외주개발직원정보11건유출",
+  "[속보]경찰,‘은행권전방위AI해킹사건’즉각내사착수"
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,13 @@
   [
    "2026-10-02T19:56:16.415948+09:00",
    "접근 대규모 누구나 손쉬운 활용 해킹에 도구"
+  ],
+  [
+   "2026-10-02T19:58:19.651139+09:00",
+   "착수 전방위 해킹사건 은행권 즉각 경찰 내사"
   ]
  ],
- "last_run": "2026-10-02T19:56:34.662835+09:00",
+ "last_run": "2026-10-02T19:58:44.343082+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
