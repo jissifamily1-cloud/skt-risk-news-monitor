@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://sateconomy.co.kr/news/view/1065595561104717",
-  "https://www.sidae.com/article/2026093013491489198",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261001125756P7c",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=882346",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=85428",
-  "https://swtvnews.com/news/newsview.php?ncode=1065584605146867",
-  "https://www.etnews.com/20261001000272",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065585236872687",
-  "https://platum.kr/archives/295552",
   "https://www.naeil.com/news/read/603914",
   "https://www.khan.co.kr/article/202610011304001",
   "https://www.naeil.com/news/read/603900",
@@ -2999,18 +2990,18 @@
   "https://biz.sbs.co.kr/article_hub/20000338067?division=NAVER",
   "https://www.yna.co.kr/view/AKR20261002083100062?input=1195m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3711529",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3711523"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3711523",
+  "https://www.mt.co.kr/economy/2026/10/02/2026100210164793390",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16233894",
+  "https://www.itworld.co.kr/article/4229879/프론티어-모델의-그늘에서-벗어나는-로컬-llm-올라마.html",
+  "https://www.nocutnews.co.kr/news/6586426",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3711537",
+  "https://www.joongang.co.kr/article/25466645",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005930690",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261002114816143",
+  "https://www.yna.co.kr/view/AKR20261002086300002?input=1195m"
  ],
  "seen_titles": [
-  "SKT,앤트로픽지분가치5조원추정…하나증권,평가차익3~7조원전망",
-  "최태원·권혁빈이혼이던진화두…경영권꼼꼼히살피는법원",
-  "신한은행2만5천명정보유출…\"손해전액보상\"",
-  "신한은행고객2만5000명대출정보샜다…정상혁행장\"손해전액보상...",
-  "신한은행,고객2만5000명정보유출…전액보상약속",
-  "신한은행“2만5000명정보유출확인…손해전액보상”…전담상담센...",
-  "화학사고·폭발현장에휴머노이드투입…싱가포르,2028년실전배치",
-  "두산‘황금알’된전자BG…AI타고영업이익률30%시대",
-  "세븐미닛'AI시청에이전트',웨이브골프로첫상용화",
   "“모든변화의기준은고객”",
   "미국빅테크수장들,‘AI위험론’두고백악관서충돌",
   "“2040년항공우주플랫폼세계빅4도약”",
@@ -6001,7 +5992,16 @@
   "새로나온것도아닌데…갤럭시S26도가격급등",
   "80대부터초등학생까지…강촌달릴준비끝낸춘천연합마라톤",
   "창원시평생학습관'누리배움터'개관…시민3500명참여성황",
-  "이상률신임국민의힘김해을조직위원장\"시민들에게열린당협만들겠..."
+  "이상률신임국민의힘김해을조직위원장\"시민들에게열린당협만들겠...",
+  "추석'1900억'쏟아도들썩이는물가…10월3%대복귀하나",
+  "국내외사로잡은연상호'실낙원',영화제전회차매진기록",
+  "프론티어모델의그늘에서벗어나는로컬LLM…올라마완전정복",
+  "中\"미중은AI에특별한책임…안전·제동장치필요\"",
+  "[속보]신한이어국민은행서도고객정보유출…100여명규모",
+  "[속보]KB국민은행서도고객정보유출…100여명규모",
+  "신한은행해킹'중국어AI침투도구'흔적발견",
+  "신한이어KB국민은행도해킹…100여명고객정보유출",
+  "신한이어KB국민은행도해킹당해…100여명고객정보유출"
  ],
  "recent_sigs": [
   [
@@ -6621,7 +6621,7 @@
    "뒷걸음질쳤나 뛰었는데 SK증권 IB는 실적"
   ]
  ],
- "last_run": "2026-10-02T11:50:38.775994+09:00",
+ "last_run": "2026-10-02T11:52:34.079366+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
