@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.arirang.com/news/view?id=301431",
-  "https://www.nytimes.com/2026/09/30/briefing/cornells-sexual-assault-case.html?partner=naver",
   "http://coinreaders.com/260925",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855224",
   "https://www.nytimes.com/2026/09/30/podcasts/the-headlines/us-iraq-trump-ai.html?partner=naver",
@@ -2999,11 +2997,11 @@
   "https://www.ajunews.com/view/20261002192747924",
   "https://www.newscj.com/news/articleView.html?idxno=3437537",
   "https://www.newsinside.kr/news/articleView.html?idxno=5015031",
-  "http://www.finomy.com/news/articleView.html?idxno=262819"
+  "http://www.finomy.com/news/articleView.html?idxno=262819",
+  "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html?partner=naver",
+  "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html?partner=naver"
  ],
  "seen_titles": [
-  "디지털헬스M&A다시활기…규모·수익성확보경쟁본격화",
-  "Trump’sVoluntaryA.I.PolicingEchoesWhatBidenDid.ButIsItEnough",
   "GoogleReleasesNewGeminiModelWithGuardrailsAmidA.I.SafetyDeba",
   "미상원,자율형AI에이전트국가안보청문회등록",
   "30만건요청·5380개계정…문샷AI키미K3증류의혹",
@@ -6001,7 +5999,9 @@
   "은행권전방위해킹공격…고객정보유출잇따라",
   "은행전방위해킹피해…금융당국,금융권'비상소집'(종합)",
   "﻿우리·농협은행도해킹공격당해…\"정보유출없어\"",
-  "랜섬웨어조직유로즈,하이즈항공해킹주장···진위여부'논란'"
+  "랜섬웨어조직유로즈,하이즈항공해킹주장···진위여부'논란'",
+  "A.I.IsGoingRogue.WhoShouldBeHeldResponsible?",
+  "AHackingCompetitionShowsthePowerofChina’sApproachtoA.I."
  ],
  "recent_sigs": [
   [
@@ -6561,7 +6561,7 @@
    "진위 유로즈 주장 논란 하이즈항공 랜섬웨어 여부"
   ]
  ],
- "last_run": "2026-10-02T19:36:41.110777+09:00",
+ "last_run": "2026-10-02T19:38:37.163745+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
