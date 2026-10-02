@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261001_0003810270",
-  "https://imnews.imbc.com/news/2026/econo/article/6855166_36932.html",
-  "https://www.edaily.co.kr/News/Read?newsId=03463686645608656&mediaCodeNo=257",
-  "https://sateconomy.co.kr/news/view/1065578565503978",
-  "https://www.news1.kr/finance/general-finance/6307371",
-  "https://www.mk.co.kr/article/12165829",
-  "https://www.ytn.co.kr/_ln/0102_202610011115202761",
-  "https://www.ajunews.com/view/20261001111925987",
   "https://www.kbsm.net/news/view.php?idx=536147",
   "https://www.hidomin.com/news/articleView.html?idxno=723133",
   "https://www.m-i.kr/news/articleView.html?idxno=2001320",
@@ -2999,17 +2991,17 @@
   "https://imnews.imbc.com/news/2026/world/article/6855376_36925.html",
   "https://www.yna.co.kr/view/AKR20261002057400009?input=1195m",
   "https://www.itdaily.kr/news/articleView.html?idxno=241976",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54248"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54248",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704568",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94088",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155431",
+  "https://www.news1.kr/it-science/security-hacking/6308692",
+  "https://www.mk.co.kr/article/12166969",
+  "http://www.4th.kr/news/articleView.html?idxno=2119099",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/66073?feed=na",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000070421"
  ],
  "seen_titles": [
-  "공공부문정보유출기관장도책임…최소'감봉'징계상향(종합)",
-  "금감원,'대출정보유출'신한은행긴급현장조사‥해커소행으로추...",
-  "신한은행고객정보유출사고…'대출모집인조회서비스'뚫려",
-  "신한은행,정보일부유출…금감원긴급현장조사",
-  "신한은행서2.5만명고객정보유출…금감원긴급현장조사(종합)",
-  "금감원,신한은행‘정보유출’긴급현장조사",
-  "신한은행,정보유출사고...금융당국긴급현장조사",
-  "반복된공공부문사이버보안사고…해킹·유출시기관장도징계",
   "포항시,공중케이블설치부터철거까지통합관리",
   "포항시,방치된공중케이블'설치부터철거까지'관리체계구축",
   "SK브로드밴드'Btv핫딜',누적판매액100억원…론칭10개월만",
@@ -6001,7 +5993,15 @@
   "오픈AI,AI에이전트이상활동정황100여개기관에통보",
   "\"AI에이전트,캐나다정부사이트해킹시도\"",
   "오픈AI,AI무단활동100곳넘게통보…'행동하는AI'가드러낸새보안...",
-  "50만달러로95분영화뚝딱…할리우드삼킨AI"
+  "50만달러로95분영화뚝딱…할리우드삼킨AI",
+  "[디투피플]캡차·기존KYC한계,홍채기반'월드'ID가AI시대진정한...",
+  "신한,'AI에이전트'에당했다…\"은행권보안체계질적전환필요\"",
+  "신한은행해킹에AI동원됐나···서버서자율형침투도구흔적",
+  "\"신한은행해킹서버서중국어AI침투시스템발견\"주장나와",
+  "신한은행고객정보,중국AI가다털어갔나…해킹서버서‘中AI침투도...",
+  "신한은행해킹범인은중국AI?..中오픈소스AI흔적",
+  "물가2.9%로내려왔지만…정부“석유최고가격제없었다면3.5%”",
+  "'AI가일으킨해킹·사고'빅테크에법적책임물을수있나…미법학계..."
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,17 @@
   [
    "2026-10-02T10:46:16.784806+09:00",
    "보안 넘게 통보 활동 드러낸 행동하는 100곳 무단"
+  ],
+  [
+   "2026-10-02T10:50:23.759669+09:00",
+   "물가 없었다면 석유 정부 최고가격제 내려왔지만"
+  ],
+  [
+   "2026-10-02T10:50:23.759669+09:00",
+   "빅테크에 물을 사고 법적 책임 법학계 일으킨 AI가 있나"
   ]
  ],
- "last_run": "2026-10-02T10:48:34.208959+09:00",
+ "last_run": "2026-10-02T10:50:51.415157+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
