@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=880141",
-  "https://www.hankyung.com/article/202609304982r",
-  "https://www.hankyung.com/article/202609304757r",
-  "https://zdnet.co.kr/view/?no=20261001095814",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260930.99099009792",
-  "https://www.fnnews.com/news/202610011032510573",
-  "https://view.asiae.co.kr/article/2026100109261632271",
-  "https://www.news1.kr/it-science/cc-newmedia/6307242",
   "https://www.yna.co.kr/view/AKR20261001071200017?input=1195m",
   "https://www.news1.kr/it-science/internet-platform/6307269",
   "https://www.mhns.co.kr/news/articleView.html?idxno=762207",
@@ -2999,17 +2991,17 @@
   "http://www.paxetv.com/news/articleView.html?idxno=283225",
   "https://imnews.imbc.com/news/2026/world/article/6855371_36925.html",
   "https://zdnet.co.kr/view/?no=20261002094151",
-  "https://www.viva100.com/article/20261002500166"
+  "https://www.viva100.com/article/20261002500166",
+  "https://www.munhwa.com/article/11621030",
+  "https://www.g-enews.com/view.php?ud=20261002094124709344093b5d4e_1",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=394395",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=47976",
+  "https://www.news1.kr/finance/general-stock/6308405",
+  "https://www.namdonews.com/news/articleView.html?idxno=925066",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/02/2026100200077.html",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16233676"
  ],
  "seen_titles": [
-  "SK텔레콤,고객신뢰로이동통신1위달성한비결은?",
-  "회계자문삼일6분기연속1위…안진,삼정과초접전끝2위[2026년3분기...",
-  "김앤장독주속'광·태'급부상…대기업·해외딜이판갈랐다[2026년3...",
-  "오픈AI'디시전스API',AI에이전트안전장치로주목",
-  "독파모논란…배경훈“독파모와프론티어AI병행추진”",
-  "구글,최신프론티어AI'제미나이4아곤'공개…AI가격경쟁점화",
-  "빌게이츠\"AI업계자율규제미친짓\"…백악관에선AI총수들설전",
-  "예산에발목잡혔던허위조작정보'투명성센터'…3개월만에출범",
   "정보통신서비스투명성센터출범…허위조작정보사실확인지원",
   "\"AI로만든정보,진짜맞나\"…방미통위,'확인템'장착캠페인",
   "부산문화재단,타이베이·시즈오카에서'국제협업'무대선보인다…예...",
@@ -6001,7 +5993,15 @@
   "하나금융,청라헤드쿼터문열었다…금융·IT·디지털역량한곳에",
   "오픈AI,외부AI안전기구에사내정보공유한직원3명해고",
   "Arm,엔비디아에이전틱AI보안플랫폼에반도체IP지원",
-  "KT‘사장이지’,‘AI면접’·소마AI‘공개⋯“소상공인경영지원서..."
+  "KT‘사장이지’,‘AI면접’·소마AI‘공개⋯“소상공인경영지원서...",
+  "업스테이지,소형언어모델‘솔라미니4’선보여",
+  "[특징주]삼성전자·SK하이닉스,하락출발후낙폭좁히며'보합권'",
+  "[미국주식]테오도르의월스트리트분석",
+  "뉴욕증시,국채금리반락에소폭상승",
+  "하나證\"네이버,우려는주가에이미반영…신사업이반등기회\"",
+  "[특징주]네이버,AI신사업기대감에상승세",
+  "포티투닷,엔비디아·딥마인드출신등핵심인재영입…SDV기술강화",
+  "엔비디아주가,230.86달러1.09%상승마감"
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,13 @@
   [
    "2026-10-02T09:46:16.027362+09:00",
    "~KT 대학 인재 충남대 KT와 13개 손잡았다 양성에"
+  ],
+  [
+   "2026-10-02T09:56:14.289322+09:00",
+   "마감 상승 86달러 주가"
   ]
  ],
- "last_run": "2026-10-02T09:54:32.310862+09:00",
+ "last_run": "2026-10-02T09:56:38.551715+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
