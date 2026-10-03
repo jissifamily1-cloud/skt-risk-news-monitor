@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=869361",
-  "https://www.hankyung.com/article/2026100184921",
-  "https://www.segye.com/newsView/20261002511992?OutUrl=naver",
   "https://www.newsis.com/view/NISX20261002_0003812884",
   "https://www.fnnews.com/news/202610021624186789",
   "https://www.seoulfn.com/news/articleView.html?idxno=639298",
@@ -2999,12 +2996,12 @@
   "https://www.g-enews.com/view.php?ud=2026100318085693400c8c1c064d_1",
   "https://www.kbmaeil.com/article/20261004500010",
   "https://www.news1.kr/industry/general-industry/6309563",
-  "https://www.news2day.co.kr/article/20261003500006"
+  "https://www.news2day.co.kr/article/20261003500006",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/03/2026100300085.html",
+  "https://www.newspim.com/news/view/20261003000127",
+  "https://economist.co.kr/article/view/ecn202609280039"
  ],
  "seen_titles": [
-  "경희대규제과학과,서울성모병원과'AI신약개발'논의",
-  "[더밸류브리핑]오늘의금융계소식…하나금융그룹·IBK기업은행",
-  "대전혁신센터,딥테크투자부터EXIT까지잇는다…건국대와앵커펀드결...",
   "[사이언스칼럼]구름위에서내손안으로내려온AI",
   "지역방송지원새판짠다...방미통위,지역방송발전위회의개최",
   "KT,소상공인'채용·마케팅지원'…AI가면접·광고돕는다",
@@ -6001,7 +5998,10 @@
   "中,ASML'액침DUV'340대싹쓸이비축에美'전면금수'압박고조",
   "삼성전자실적앞둔코스피…반도체훈풍에‘7000피’지킬까",
   "삼성전자,분기영입이익100조시대'예약'…이번주3Q실적발표",
-  "[재계인사이드]최태원회장의재상고심,사실상‘SK실트론재판’"
+  "[재계인사이드]최태원회장의재상고심,사실상‘SK실트론재판’",
+  "고영표의완봉쇼,kt매직넘버'4'",
+  "[현장포커스]찬바람불면식어버리는오스틴…LG가걱정하는'가을징...",
+  "AI로뚫고AI로막는다…해킹도‘AI전쟁’"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-10-04T06:55:35.919354+09:00",
    "재상고심 재판 회장의 SK실트론 사실상"
+  ],
+  [
+   "2026-10-04T07:04:46.086068+09:00",
+   "뚫고 AI로 해킹도 전쟁 막는다"
   ]
  ],
- "last_run": "2026-10-04T07:00:58.845281+09:00",
+ "last_run": "2026-10-04T07:05:07.693725+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
