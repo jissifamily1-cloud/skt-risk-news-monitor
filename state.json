@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.datanet.co.kr/news/articleView.html?idxno=214799",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=127565",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16233968",
-  "https://www.sedaily.com/article/20097543",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=136641",
-  "https://www.sedaily.com/article/20097537",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=136643",
-  "https://www.cwn.kr/news/articleView.html?idxno=58137",
   "https://www.newstnt.com/news/articleView.html?idxno=721262",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171292",
   "https://www.cbci.co.kr/news/articleView.html?idxno=611921",
@@ -2999,17 +2991,17 @@
   "https://www.newspim.com/news/view/20261003000068",
   "http://www.osen.co.kr/article/G1112886745",
   "https://www.aitimes.com/news/articleView.html?idxno=215933",
-  "https://www.etnews.com/20261003000032"
+  "https://www.etnews.com/20261003000032",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192752",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5222868",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/03/2026100390049.html",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=882562",
+  "http://www.lawissue.co.kr/view.php?ud=202610031351384499817d053b9_12",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192682",
+  "https://www.ytn.co.kr/_ln/0103_202610031357333634",
+  "https://biz.heraldcorp.com/article/10892519"
  ],
  "seen_titles": [
-  "KB국민은행도100여명고객정보유출",
-  "우리은행·신한은행이어KB국민은행까지…고객100여명정보유출(종합...",
-  "신한이어KB까지고객정보샜다…100여명노출",
-  "오픈AIAI에이전트에무슨일이…100곳넘는조직에활동사실통보",
-  "'신한이어KB도뚫렸다'금융권,AI해킹으로고객정보또유출",
-  "[속보]신한이어KB국민은행도해킹…고객100여명정보유출",
-  "‘통신비착시’효과에9월물가상승률2%대로하락…한은,“10월3%내...",
-  "KB국민은행도해킹당했다…100여명고객정보유출",
   "[속보]신한은행이어국민은행도고객정보해킹‥150여건유출",
   "포항시,복잡하게얽힌공중케이블정비…“설치부터철거까지관리”",
   "[영상]최태원·김희영,뉴욕서나란히포착…재산분할판결후첫동반...",
@@ -6001,7 +5993,15 @@
   "[핌in잠실]김도영2번전면배치,박재현은리드오프…KIA,3위향한LG3...",
   "“컨디션안좋아도1실점”이게에이스의품격!원태인반등투에박진...",
   "딥시크,슈퍼앱형태데스크톱앱'딥시크하네스'출시...\"챗·코딩·문...",
-  "AI가금융권취약점훑었다…은행해킹피해'속출'"
+  "AI가금융권취약점훑었다…은행해킹피해'속출'",
+  "[인공지능줌인]'AI아바타'의습격…메타의뮤즈가가져올SNS와는또...",
+  "2금융권도뚫렸다…예가람저축은행4만명이름·전화번호등유출",
+  "제2금융권까지뚫렸다…예가람저축은행고객개인정보유출",
+  "[내주경제]경제부처국정감사개막...은행권해킹·세제개편등주요...",
+  "국힘\"은행AI해킹,금융당국도책임\"…국정감사서감독부실추궁예고",
+  "[AI프리즘]'AI'대신'SI'?…트럼프의'초지능'사용행정명령,업계가...",
+  "시중은행해킹공격에...\"모든가능성열어두고조사\"",
+  "“같은비밀번호쓰면위험”…AI해킹에내계정지키려면"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,21 @@
   [
    "2026-10-03T13:52:16.719256+09:00",
    "당국 원인 피해 밝혀야 대응 반복 국민의힘 낱낱이 금융권"
+  ],
+  [
+   "2026-10-03T14:02:15.924088+09:00",
+   "대신 사용 트럼프의 업계가 행정명령 초지능 SI"
+  ],
+  [
+   "2026-10-03T14:02:15.924088+09:00",
+   "모든 열어두고 공격에 조사 시중은행 가능성"
+  ],
+  [
+   "2026-10-03T14:02:15.924088+09:00",
+   "해킹에 위험 지키려면 쓰면 같은 계정 비밀번호"
   ]
  ],
- "last_run": "2026-10-03T14:01:02.984783+09:00",
+ "last_run": "2026-10-03T14:02:44.155619+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
