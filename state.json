@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780520&plink=ORI&cooper=NAVER",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744690",
-  "https://www.sisajournal.com/news/articleView.html?idxno=389077",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067487",
   "https://zdnet.co.kr/view/?no=20261001130541",
   "https://www.aitimes.com/news/articleView.html?idxno=215835",
@@ -2999,12 +2996,12 @@
   "https://www.newspim.com/news/view/20261003000049",
   "https://www.dt.co.kr/article/12087237",
   "https://www.ekn.kr/web/view.php?key=20261003021131911",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000019541&cp=nv"
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000019541&cp=nv",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011169",
+  "http://www.osen.co.kr/article/G1112886742",
+  "https://www.aitimes.com/news/articleView.html?idxno=215938"
  ],
  "seen_titles": [
-  "교회서'앱장례식'까지연AI스타트업…450만달러투자유치",
-  "금융위,오후시중은행긴급소집…KB·신한정보유출여파",
-  "개인정보유출급증에조사체계손질…개인정보위,대형사건전담조사...",
   "KB국민은행서도100여명고객정보유출",
   "개인정보침해사건처리기간기준마련…중요12개월·일반6개월·경미...",
   "신한이어KB국민은행도고객정보유출…100여건확인",
@@ -6001,17 +5998,12 @@
   "[공자의고향산둥성을걷다]③'제조·바이어글로벌교량'린이한중...",
   "[속보]은행이어저축은행까지...예가람저축은행도고객정보유출",
   "“국감코앞서터졌다”...은행권정보유출,CEO들불려가나",
-  "野“은행해킹사태에금융당국도책임,국감서따질것”"
+  "野“은행해킹사태에금융당국도책임,국감서따질것”",
+  "'타율0.232'외인기다려준보람있네,1위팀위해홈런쾅쾅!…\"40호...",
+  "AG金효과벌써미쳤다!25살병역면제→좌완특급필승조변신,1위팀...",
+  "애플,맥OS'전체디스크접근'제어강화...AI에이전트무단접근막는..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-03T06:52:16.763673+09:00",
-   "증시 고용 오르고 HDD주 상승 급락 둔화에 테슬라"
-  ],
-  [
-   "2026-10-03T06:52:16.763673+09:00",
-   "고육책 메모리 디램값 쪼갠 폭등에 엔비디아의"
-  ],
   [
    "2026-10-03T07:00:38.063065+09:00",
    "시스템 취약한 외곽 노려 보안 해킹에 연이은 금융권 속수무책"
@@ -6213,7 +6205,7 @@
    "아르텍스 연쇄 도구는 사용했다 은행 중국 해커가"
   ]
  ],
- "last_run": "2026-10-03T12:50:37.828409+09:00",
+ "last_run": "2026-10-03T12:52:32.394794+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
