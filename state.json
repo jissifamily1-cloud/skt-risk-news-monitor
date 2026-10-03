@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03421046645608984&mediaCodeNo=257",
-  "https://www.nocutnews.co.kr/news/6586367",
-  "http://www.inews24.com/view/2011296",
-  "https://view.asiae.co.kr/article/2026100208402119765",
-  "https://news.bizwatch.co.kr/article/mobile/2026/10/01/0050",
-  "https://view.asiae.co.kr/article/2026100209344714700",
   "https://www.newsis.com/view/NISX20261002_0003811648",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8676519",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/02/2026100200132.html",
@@ -2999,15 +2993,15 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610020043&t=NN",
   "https://www.newsis.com/view/NISX20260930_0003809106",
   "https://www.ddaily.co.kr/page/view/2026100309142339868",
-  "https://zdnet.co.kr/view/?no=20261002172531"
+  "https://zdnet.co.kr/view/?no=20261002172531",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53413",
+  "https://www.seoul.co.kr/news/economy/securities/2026/10/03/20261003500008?wlog_tag3=naver",
+  "https://biz.sbs.co.kr/article_hub/20000338205?division=NAVER",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65260",
+  "https://www.jemin.com/news/articleView.html?idxno=843782",
+  "https://www.yna.co.kr/view/AKR20261003015700002?input=1195m"
  ],
  "seen_titles": [
-  "[오늘트럼프는]중간선거에'내란법'발동언급\"배제하지않아\"",
-  "개보위,100만명이상유출집중조사…경미사건은3개월내처리",
-  "개보위,앞으론100만명이상유출사건에전담조사단꾸린다",
-  "[AI시대일의재편]SKB직원들의AI활용…프로세스가달라졌다",
-  "포항시,방치된공중케이블'설치부터철거까지'관리체계구축",
-  "샘알트먼\"오픈AI,모델안정성확보전엔상장안한다\"",
   "오픈AI,IPO미루고300억달러조달…몸값1.4조달러목표",
   "신한은행개인정보유출에AI에이전트활용가능성…금융권보안우려...",
   "신한금융,카드이어은행까지개인정보유출…내부통제도마",
@@ -6001,7 +5995,13 @@
   "9월물가2.9%상승...기저효과빼면오름세확대",
   "\"글로벌빅테크·국내AI기업한자리에\"…AI페스타,내달6일부터열린...",
   "\"또터졌다\"…애플,'아이폰18프로맥스'통신먹통결함인정",
-  "'모두의AI'가바꾸는일상…AI페스타26에서확인한다"
+  "'모두의AI'가바꾸는일상…AI페스타26에서확인한다",
+  "뉴욕증시,고용둔화에일제히상승…나스닥1.2%↑",
+  "[서울데이터랩]미국증시,기술주강세에일제히상승마감…나스닥1%...",
+  "美고용부진에낮아진금리인상우려…뉴욕증시일제히상승",
+  "'적당히부진한'美고용,연준긴축불안식히자…나스닥1.2%뛰었다",
+  "엔비디아최고가새기록…AI열풍에기업가치7,600조원돌파",
+  "[다음주경제]경제부처국정감사개막…은행권해킹·세제개편등쟁..."
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,17 @@
   [
    "2026-10-03T09:18:15.402012+09:00",
    "모두의 AI페스타26에서 바꾸는 확인한다 일상"
+  ],
+  [
+   "2026-10-03T09:22:15.029763+09:00",
+   "열풍에 최고가 600조원 기록 돌파 기업가치"
+  ],
+  [
+   "2026-10-03T09:22:15.029763+09:00",
+   "경제부처 은행권 개편 세제 개막 국정감사"
   ]
  ],
- "last_run": "2026-10-03T09:20:36.816915+09:00",
+ "last_run": "2026-10-03T09:22:38.849438+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
