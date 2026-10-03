@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cwn.kr/news/articleView.html?idxno=58126",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780451&plink=ORI&cooper=NAVER",
-  "https://www.theguru.co.kr/news/article.html?no=107831",
-  "http://www.kdfnews.com/news/articleView.html?idxno=188790",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553276",
-  "https://www.econovill.com/news/articleView.html?idxno=752590",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4109996",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491465",
   "https://dealsite.co.kr/articles/170051",
@@ -2999,15 +2993,15 @@
   "https://www.sidae.com/article/2026100309285310957",
   "https://www.aitimes.com/news/articleView.html?idxno=215796",
   "https://www.newsis.com/view/NISX20261002_0003812872",
-  "https://biz.heraldcorp.com/article/10892431"
+  "https://biz.heraldcorp.com/article/10892431",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011143",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677140",
+  "https://www.sedaily.com/article/20097699",
+  "https://www.donga.com/news/Economy/article/all/20261002/134774330/1",
+  "https://www.aitimes.com/news/articleView.html?idxno=215934",
+  "http://www.inews24.com/view/2011564"
  ],
  "seen_titles": [
-  "LG유플러스,AI'토큰처리량'최대4배높였다…GPU·전력효율화속도",
-  "LG유플러스옵트에이아이토큰최적화손잡았다\"같은GPU로네배더처...",
-  "LG유플러스,옵트에이아이손잡고GPU·전력잡는AI토큰최적화기술...",
-  "미래에셋,퍼플렉시티선제투자…엔비디아베팅에'잭팟'기대",
-  "KT,소상공인업무에AI활용",
-  "KT,의료AI'표준모델'공개…환자응대부터진료행정까지",
   "고금리에도신고가쓰는나스닥…AI가금리를이길수있을까",
   "월가거물,엔비디아(NVDA)52%랠리예측...\"아직도저평가상태\"",
   "보이스피싱배상누가내나…은행vs통신사떠넘기기'공방'",
@@ -6001,7 +5995,13 @@
   "현실로다가온'AI해킹',신한은행서버서중국어AI흔적",
   "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
   "거세지는中범용칩공세…삼전·닉스,'차세대HBM'으로격차벌린다[초...",
-  "美고용이식으니금리인상공포도‘멈춤’…연휴이후코스피7000선..."
+  "美고용이식으니금리인상공포도‘멈춤’…연휴이후코스피7000선...",
+  "'투타괴물'하현승,키움팬들과첫인사나눈다…신인선수환영행사...",
+  "메타,AI안전전문가들3개월만에해고…“업무스타일안맞아”",
+  "업스테이지는왜GPU1장으로돌리는미니AI모델을만들까[빛이나는비...",
+  "“가장싼걸로갈아타줘”…AI에이전트와‘귀찮음경제’의종말[딥...",
+  "AI'생각의사슬'무력화되나…'순환깊이'기술이부른불투명성우려",
+  "KT'AX인사이트리포트'2주만에1만조회…기업컨설팅문의도"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,13 @@
   [
    "2026-10-03T10:04:14.450970+09:00",
    "서버서 신한은행 현실로 흔적 다가온 중국어AI"
+  ],
+  [
+   "2026-10-03T10:08:15.294983+09:00",
+   "만에 기업 AX 인사이트 문의도 ~KT 리포트 조회 컨설팅 1만 2주"
   ]
  ],
- "last_run": "2026-10-03T10:06:31.102251+09:00",
+ "last_run": "2026-10-03T10:08:37.073288+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
