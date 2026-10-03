@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ttlnews.com/news/articleView.html?idxno=3148837",
-  "https://www.newspost.kr/news/articleView.html?idxno=226082",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=665735",
-  "http://www.nongaek.com/news/articleView.html?idxno=96992",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728719",
-  "http://coinreaders.com/261298",
-  "https://biz.sbs.co.kr/article_hub/20000337788?division=NAVER",
-  "https://www.chosun.com/international/europe/2026/09/30/4HXVRTWGVFEMRIPFVO2KFCBPW4/",
   "https://www.beopbo.com/news/articleView.html?idxno=338087",
   "https://biz.sbs.co.kr/article_hub/20000338054?division=NAVER",
   "https://www.techm.kr/news/articleView.html?idxno=155796",
@@ -2999,17 +2991,17 @@
   "https://www.mt.co.kr/world/2026/10/03/2026100309480574452",
   "https://biz.heraldcorp.com/article/10892425",
   "https://www.jemin.com/news/articleView.html?idxno=843783",
-  "https://biz.heraldcorp.com/article/10890407"
+  "https://biz.heraldcorp.com/article/10890407",
+  "https://www.yna.co.kr/view/AKR20261003019100011?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261003019000011?input=1195m",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424120",
+  "https://www.ytn.co.kr/_ln/0103_202610030957362375",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880355",
+  "https://www.ytn.co.kr/_ln/0102_202610030949457690",
+  "https://kstar.kbs.co.kr/list_view.html?idx=411161",
+  "https://www.sidae.com/article/2026100309285310957"
  ],
  "seen_titles": [
-  "교육감협,김민석대표에'지방교육재정개편우려'전달…미래대응기...",
-  "양안해상무력시위이어선전전·심리·스파이전가열",
-  "충남도,2027논산딸기엑스포·섬비엔날레성공개최본격준비",
-  "금산세계인삼축제,인삼캐기체험참가자모집",
-  "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
-  "[오늘증시]코스피7000선앞'밀당'…코스닥은900선턱밑",
-  "현대차그룹포티투닷,글로벌핵심인재3명영입..\"SDV·자율주행선도...",
-  "시높시스,AI에이전트기반'자율엔지니어링'본격화…설계·검증전...",
   "구글TPU,스페이스X로켓에실어발사…‘우주데이터센터’첫궤도...",
   "마이크론호실적에코스피반등…7000선재진입'재도전'",
   "TSMC,美텍사스에수십조규모신공장증설저울질",
@@ -6001,7 +5993,15 @@
   "오픈AI,자사에이전트무단활동가능성100여개기관통보",
   "‘고용쇼크?오히려좋아’美금리인상우려완화…나스닥·엔비디아장...",
   "엔비디아다시월가주목…모건스탠리,차세대AI칩성장성에무게",
-  "Btv핫딜,출시10개월판매액100억원돌파"
+  "Btv핫딜,출시10개월판매액100억원돌파",
+  "[주요신문사설](3일조간)",
+  "[전국주요신문톱뉴스](3일조간)",
+  "은행은정보유출,증권사는전산장애···금융권IT사고잇따라",
+  "시중은행잇단해킹피해...경찰,입건전조사착수",
+  "AI가뚫는해킹방어법,내계정안전하게지키는법은?",
+  "금융권해킹피해확산...저축은행서도정보유출",
+  "EBS'위대한수업,그레이트마인즈'시즌6...최태원회장강연으로10월...",
+  "현실로다가온'AI해킹',신한은행서버서중국어AI흔적"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-10-03T09:56:14.937272+09:00",
    "월가 차세대 모건스탠리 다시 주목 성장성에 무게 AI칩"
+  ],
+  [
+   "2026-10-03T10:04:14.450970+09:00",
+   "회장 EBS 강연으로 마인즈 10월 수업 그레이트 위대한 시즌6"
+  ],
+  [
+   "2026-10-03T10:04:14.450970+09:00",
+   "서버서 신한은행 현실로 흔적 다가온 중국어AI"
   ]
  ],
- "last_run": "2026-10-03T10:02:32.206554+09:00",
+ "last_run": "2026-10-03T10:04:42.149813+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
