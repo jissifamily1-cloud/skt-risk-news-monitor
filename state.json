@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=551179",
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=551180",
-  "https://www.stardailynews.co.kr/news/articleView.html?idxno=551178",
   "https://www.stardailynews.co.kr/news/articleView.html?idxno=551177",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077233",
   "http://www.press9.kr/news/articleView.html?idxno=83654",
@@ -2999,12 +2996,12 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/10/03/2026100390118.html",
   "https://www.ytn.co.kr/_ln/0107_202610031858021202",
   "https://www.newsis.com/view/NISX20261003_0003813646",
-  "https://www.ytn.co.kr/_ln/0102_202610031849256876"
+  "https://www.ytn.co.kr/_ln/0102_202610031849256876",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337478",
+  "https://imnews.imbc.com/news/2026/econo/article/6855594_36932.html",
+  "https://www.ddaily.co.kr/page/view/2026100318384955049"
  ],
  "seen_titles": [
-  "\"금융거래먹통은막았지만\"…KB국민은행,직원앱해킹으로119명정보...",
-  "포티투닷,실리콘밸리핵심인재영입으로SDV기술력강화",
-  "잇단정보유출에···KB국민·신한은행장'연임기상도'먹구름",
   "“SDV기술경쟁력강화”..포티투닷,안젤로코르사로·김재영·차오팡...",
   "[종합]“30일밤무슨일이”신한이어국민은행도뚫렸다…고객명·...",
   "포티투닷,구글딥마인드ㆍ엔비디아출신등글로벌IT리더3인영입",
@@ -6001,7 +5998,10 @@
   "금융권덮친'초유의해킹'…은행에이어제2금융권도털렸다",
   "고영표완봉승앞세운KT,롯데에완승...매직넘버4",
   "'고영표완봉승'KT,롯데꺾고매직넘버'4'…KIA,LG꺾고'3위희망가...",
-  "트럼프,알래스카투자압박...서울아파트값최장기간상승"
+  "트럼프,알래스카투자압박...서울아파트값최장기간상승",
+  "\"대통령이북한=주적말못한다\"는국힘에한겨레\"정쟁화멈춰야\"",
+  "[단독]예가람저축은행,열흘공격받고이틀털릴동안몰랐다",
+  "금융권해킹비상에긴급권고…\"웹·API취약점즉각점검하라\""
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-10-03T19:04:16.717834+09:00",
    "트럼프 아파트값 알래스카 투자 상승 압박 서울 최장기간"
+  ],
+  [
+   "2026-10-03T19:08:14.052987+09:00",
+   "비상에 취약점 API 권고 즉각 금융권 긴급 점검하라"
   ]
  ],
- "last_run": "2026-10-03T19:06:32.986933+09:00",
+ "last_run": "2026-10-03T19:08:39.666844+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
