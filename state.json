@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.khan.co.kr/article/202610021454001",
-  "https://zdnet.co.kr/view/?no=20261002145027",
-  "https://www.aitimes.com/news/articleView.html?idxno=215897",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=130600",
-  "https://www.ziksir.com/news/articleView.html?idxno=148212",
   "https://www.dailian.co.kr/news/view/1697423/?sc=Naver",
   "https://www.munhwa.com/article/11620887",
   "http://www.stoo.com/article.php?aid=109205012400",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20261003_0003813711",
   "https://www.ngonews.kr/news/articleView.html?idxno=239811",
   "https://zdnet.co.kr/view/?no=20261001151648",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=717434"
+  "http://www.newstown.co.kr/news/articleView.html?idxno=717434",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612219",
+  "http://www.yonhapnewstv.co.kr/news/AKR202610032125413yQ",
+  "https://www.hankookilbo.com/news/article/A2026100321020005638?did=NA",
+  "https://www.sidae.com/article/2026100321084859664",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261003211806tOI"
  ],
  "seen_titles": [
-  "전지환베슬AICTO“MLOps넘어네오클라우드로사업강화···목표는...",
-  "美금리24년래최고…코스피는7000선'턱밑'",
-  "퍼플렉시티몸값300억달러…미래에셋,선제투자로AI투자성과부각",
-  "트럼프'AI규제'선긋기…빅테크수장불러'자율통제'합의",
-  "수백억보안투자에도열린'뒷문'…신한·KB정보유출이드러낸은행...",
   "AI개발늦추자더니…구글,최상위'제미나이4'공개",
   "국민은행고객119명정보유출···전액보상방침",
   "신한이어국민은행도...1·2위시중은행연이은해킹사고에정보유출...",
@@ -6001,7 +5996,12 @@
   "은행·2금융권줄줄이'AI해킹'에…당국,내일全금융사CEO긴급대응회...",
   "'해킹피해'2금융권까지확산에…금융당국,4일긴급비상점검회의",
   "[SW키트]구글·오픈AI·앤트로픽,신모델안전확보제각각…\"검증한계...",
-  "노동력로봇으로대체기업,사회보장세(FICA)납부해야:빌게이츠"
+  "노동력로봇으로대체기업,사회보장세(FICA)납부해야:빌게이츠",
+  "[금융보안비상]\"2금융권까지뚫렸다\"…금융위,4일오늘,전금융업권...",
+  "금융당국,해킹피해확산에내일금융권긴급소집",
+  "2금융권까지번진해킹피해...금융당국,내일전금융권긴급소집",
+  "은행이어저축은행·캐피탈도해킹…금융위,전금융권긴급소집",
+  "금융위,해킹확산에내일금융사긴급소집"
  ],
  "recent_sigs": [
   [
@@ -6125,7 +6125,7 @@
    "신임 낙점하나 차르에 제이 트럼프 클레이턴"
   ]
  ],
- "last_run": "2026-10-03T21:26:32.806316+09:00",
+ "last_run": "2026-10-03T21:28:34.090764+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
