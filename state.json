@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610021739262937",
-  "https://www.mt.co.kr/finance/2026/10/02/2026100217372479577",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553334",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242001",
-  "https://www.news1.kr/it-science/security-hacking/6309381",
-  "https://www.yna.co.kr/view/AKR20261002160200002?input=1195m",
-  "https://www.betanews.net/article/view/beta202610020086",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315588&inflow=N",
-  "https://news.bizwatch.co.kr/article/industry/2026/10/02/0045",
   "https://www.mt.co.kr/industry/2026/10/02/2026100217360923442",
   "https://www.seoul.co.kr/news/society/2026/10/02/20261002500253?wlog_tag3=naver",
   "https://www.gukjenews.com/news/articleView.html?idxno=3712039",
@@ -2999,18 +2990,18 @@
   "https://www.sportsworldi.com/newsView/20261004503898",
   "https://www.topstarnews.net/news/articleView.html?idxno=16237764",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90035",
-  "https://www.mediapen.com/news/view/1127833"
+  "https://www.mediapen.com/news/view/1127833",
+  "https://www.chosun.com/politics/politics_general/2026/10/04/7A5PHDNEXBGHPMWFEYFHHZE3BE/",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96500",
+  "https://www.munhwa.com/article/11621312",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677351",
+  "https://news.jtbc.co.kr/article/NB12321278?influxDiv=NAVER",
+  "https://www.ytn.co.kr/_ln/0103_202610041158330663",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6855668_36967.html",
+  "https://www.ytn.co.kr/_ln/0103_202610041155179131",
+  "https://www.newsis.com/view/NISX20261004_0003813888"
  ],
  "seen_titles": [
-  "LG유플러스,옵트에이아이와AI최적화…AI토큰생산비낮춘다",
-  "[속보]하나은행서도AI해킹정보유출발생…피해고객89명",
-  "신한·KB국민이어하나까지…해킹으로89명고객정보유출",
-  "[속보]하나은행도AI해킹…고객정보89명유출",
-  "[속보]하나은행서도AI해킹정보유출...89명규모",
-  "[속보]하나은행서도AI해킹공격으로정보유출…89명규모",
-  "[속보]하나은행도해킹으로89명고객정보유출",
-  "[속보]신한·국민이어하나은행도AI해킹…89명고객정보유출",
-  "[속보]하나은행서도AI해킹…89명규모정보유출",
   "[속보]하나은행서도AI해킹정보유출⋯89명규모",
   "대형은행잇따른해킹공격에…금융위“외부노출시스템점검”",
   "[속보]하나은행,AI해킹정보유출…89명규모",
@@ -6001,7 +5992,16 @@
   "최원준vs레이예스…누가먼저시즌200안타고지밟을까",
   "195안타동률선두…최원준·레이예스,프로야구첫'동시200안타'도전",
   "SOOP,'2026데마시아컵글로벌인비테이셔널'한국어중계",
-  "롯데레이예스-KT최원준나란히'195안타',최초2명한시즌200안타동..."
+  "롯데레이예스-KT최원준나란히'195안타',최초2명한시즌200안타동...",
+  "정점식,폭풍SNS李대통령에“‘좌매한’SNS정치우려…당분간중...",
+  "금융권침해사고2년8개월간14건…iM뱅크·바로저축銀도악성코드감염",
+  "iM뱅크·바로저축은행,올해악성코드감염피해",
+  "웰컴저축은행도해킹확인…법인고객담당자정보유출",
+  "2금융권서도해킹…금융당국,전금융권긴급소집",
+  "\"올해들어법원해킹시도24만건...지난해1.7배\"",
+  "금융권해킹피해확산‥오늘긴급점검회의",
+  "'금융권해킹피해'확산에...경찰,수사범위확대",
+  "1·2금융권무차별AI해킹에…금융당국보안대책주목"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-10-04T11:56:14.519222+09:00",
    "종료 모색 생존 일정 모델 조치 알아채고 내부"
+  ],
+  [
+   "2026-10-04T12:04:16.030935+09:00",
+   "해킹에 2금융권 주목 대책 금융당국 무차별 보안"
   ]
  ],
- "last_run": "2026-10-04T12:02:36.337888+09:00",
+ "last_run": "2026-10-04T12:04:34.227545+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
