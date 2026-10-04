@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53392",
   "https://www.huffingtonpost.kr/article/260979",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=360024",
   "https://www.aitimes.com/news/articleView.html?idxno=215920",
@@ -2999,10 +2998,10 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000019608&cp=nv",
   "https://www.newsis.com/view/NISI20261004_0021475344",
   "https://www.news2day.co.kr/article/20261004500014",
-  "https://www.newsis.com/view/NISI20261004_0021475343"
+  "https://www.newsis.com/view/NISI20261004_0021475343",
+  "https://www.m-economynews.com/news/article.html?no=71323"
  ],
  "seen_titles": [
-  "당국,은행·카드에자체보안점검지시…\"조속보고받을것\"",
   "아마존·엔비디아인재빨아들이는현대차그룹",
   "[속보]하나은행서도AI해킹정보유출…89명규모",
   "국민銀도119명정보유출…AI해킹에떠는금융사들",
@@ -6001,7 +6000,8 @@
   "은행·2금융권'AI해킹'고객개인정보유출",
   "올해법원해킹시도24만건...보안예산은늑장발주로불용처리",
   "[단독]하나은행,해킹발생했는데42시간동안몰랐다",
-  "\"AI해킹공포금융권덮쳤다\"…은행·저축은행·캐피탈잇따라정보유..."
+  "\"AI해킹공포금융권덮쳤다\"…은행·저축은행·캐피탈잇따라정보유...",
+  "전오픈AI안전담당자경고...“AI개발속도만집중,원전처럼관리해..."
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-10-04T11:20:22.761380+09:00",
    "고객 유출 개인정보 2금융권 은행"
+  ],
+  [
+   "2026-10-04T11:22:15.857147+09:00",
+   "속도만 개발 경고 집중 담당자 원전처럼 관리해 안전"
   ]
  ],
- "last_run": "2026-10-04T11:20:49.219663+09:00",
+ "last_run": "2026-10-04T11:22:39.549590+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
