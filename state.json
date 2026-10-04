@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/consumer/2026/10/02/0022",
   "https://www.yna.co.kr/view/AKR20261002142100005?input=1195m",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=240459",
   "https://www.hankyung.com/article/2026100208801",
@@ -2999,10 +2998,10 @@
   "http://www.srtimes.kr/news/articleView.html?idxno=213910",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855516",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=81537",
-  "https://www.newscj.com/news/articleView.html?idxno=3437726"
+  "https://www.newscj.com/news/articleView.html?idxno=3437726",
+  "https://zdnet.co.kr/view/?no=20261003235013"
  ],
  "seen_titles": [
-  "[HD포토]김소현,'수줍게파이팅!'(연애박사제작발표회)",
   "[HD포토]김소현,'러블리!'(연애박사제작발표회)",
   "'괴물'하현승,키움팬들앞에서첫인사한다...6일KT전신인환영회...",
   "[HD포토]김소현,'성숙해진분위기'(연애박사제작발표회)",
@@ -6001,7 +6000,8 @@
   "사보원,한국장애인개발원과장애인복지서비스강화위한MOU체결",
   "5대은행넘어2금융권까지…금융권해킹,당국·경찰총력대응",
   "iM뱅크·바로저축銀등금융권해킹사고최근3년간14건",
-  "금융위,잇단해킹공격에오늘금융사소집"
+  "금융위,잇단해킹공격에오늘금융사소집",
+  "엔비디아,메모리64GB탑재'DGX스파크'이달출시"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-10-04T10:02:40.428403+09:00",
    "공격에 금융사 소집 금융위 잇단"
+  ],
+  [
+   "2026-10-04T10:04:15.987226+09:00",
+   "출시 64GB 탑재 메모리 스파크 DGX 이달"
   ]
  ],
- "last_run": "2026-10-04T10:03:00.602739+09:00",
+ "last_run": "2026-10-04T10:04:37.193989+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
