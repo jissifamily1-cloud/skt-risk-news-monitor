@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12321212?influxDiv=NAVER",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=611920",
-  "https://zdnet.co.kr/view/?no=20261003004306",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781762&plink=ORI&cooper=NAVER",
-  "http://www.newsprime.co.kr/news/article.html?no=749880",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103067",
-  "https://www.sedaily.com/article/20097877",
-  "https://www.sedaily.com/article/20097879",
   "https://basketkorea.com/news/newsview.php?ncode=1065575949435622",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4109996",
   "https://www.sedaily.com/article/20097884",
@@ -2999,17 +2991,17 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215796",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=278611",
   "https://www.sedaily.com/article/20098059",
-  "http://coinreaders.com/261526"
+  "http://coinreaders.com/261526",
+  "https://www.nocutnews.co.kr/news/6587021",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6855751_37012.html",
+  "http://www.segyebiz.com/newsView/20261004506802?OutUrl=naver",
+  "https://www.newscj.com/news/articleView.html?idxno=3437855",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6855752_37012.html",
+  "https://www.segye.com/newsView/20261004507497?OutUrl=naver",
+  "https://www.news2day.co.kr/article/20261004500050",
+  "https://www.segye.com/newsView/20261004508146?OutUrl=naver"
  ],
  "seen_titles": [
-  "업스테이지는왜GPU1장으로돌리는미니AI모델을만들까[빛이나는비...",
-  "“가장싼걸로갈아타줘”…AI에이전트와‘귀찮음경제’의종말[딥...",
-  "AI'생각의사슬'무력화되나…'순환깊이'기술이부른불투명성우려",
-  "KT'AX인사이트리포트'2주만에1만조회…기업컨설팅문의도",
-  "미래에셋,퍼플렉시티선제투자…엔비디아베팅에'잭팟'기대",
-  "거래소다음은금융인프라…두나무·LGCNS도뛰어들었다[도예리의디...",
-  "북한강가을바람가르며힘찬질주…제2회춘천연합마라톤개막",
-  "[이슈]LG유플러스·옵트에이아이,같은GPU로토큰최대4배처리",
   "보이스피싱배상누가내나…은행vs통신사떠넘기기'공방'",
   "트럼프“수퍼지능”한마디에…슬로베니아‘뜻밖의횡재’",
   "조계사·일일시호일이주민돕기공동캠페인",
@@ -6001,7 +5993,15 @@
   "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
   "냉각이왜중요한데?…LG전자가'AI시대'를맞이하는방식",
   "젠슨황“모든나라AI시스템갖춰야”AI주권뭐길래[김창영의실리...",
-  "엔비디아(NVDA),사상최고가돌파...월가목표가'515달러'까지상승"
+  "엔비디아(NVDA),사상최고가돌파...월가목표가'515달러'까지상승",
+  "트럼프의선거개입우려…美민주당,150개시나리오점검",
+  "1부오늘의주요뉴스",
+  "은행권정보유출,정무위국감쟁점으로…정보유출책임공방",
+  "연간수백억보안투자무색…대형은행,'업무용우회로'해킹에뚫렸...",
+  "빈틈노린금융권AI해킹비상‥\"AI로방어\"",
+  "[오늘아침짚어볼4가지]AI해킹에금융사7곳뚫리고,공소청출범첫...",
+  "[이태희의JOB채(99)]해커가잠든사이,AI에이전트가은행을해킹했나",
+  "‘AI발해킹’제2금융권도털렸다外[한강로경제브리핑]"
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,17 @@
   [
    "2026-10-05T07:10:24.063707+09:00",
    "상승 NVDA 목표가 최고가 월가 까지 사상 돌파 515달러"
+  ],
+  [
+   "2026-10-05T07:12:14.538413+09:00",
+   "AI에이전트가 해킹했나 잠든 해커가 사이 은행을"
+  ],
+  [
+   "2026-10-05T07:12:14.538413+09:00",
+   "제2금융권도 AI발 털렸다"
   ]
  ],
- "last_run": "2026-10-05T07:10:43.989319+09:00",
+ "last_run": "2026-10-05T07:12:37.502891+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
