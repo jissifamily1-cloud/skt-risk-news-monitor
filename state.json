@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=213918",
-  "https://www.ytn.co.kr/_ln/0102_202610021744249665",
-  "http://www.inews24.com/view/2011593",
   "https://www.newsis.com/view/NISX20261002_0003813125",
   "https://www.etoday.co.kr/news/view/2632199",
   "https://www.hani.co.kr/arti/economy/finance/1280689.html",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/photos/8142027",
   "https://www.news1.kr/photos/8142020",
   "https://www.news1.kr/photos/8142024",
-  "https://www.news1.kr/photos/8142022"
+  "https://www.news1.kr/photos/8142022",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612298",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208719",
+  "https://www.aitimes.com/news/articleView.html?idxno=215950"
  ],
  "seen_titles": [
-  "하나금융,청라헤드쿼터개소…15년하나금융타운대장정마무리",
-  "도쿄법원,AI복제사건\"인간목소리법적보호\"조치인정",
-  "제5차인공지능책임관협의회개최…\"부처간이음매잇는일\"",
   "주민번호에연소득까지줄줄샌고객정보…은행권'보안구멍'도마위",
   "“개인정보유출반년만에작년치”…개인정보위,유출100만명넘으면...",
   "100만명유출땐전담조사단뜬다…개인정보위,대형사건집중체제전...",
@@ -6001,7 +5998,10 @@
   "확산하는금융권해킹피해",
   "금융권해킹피해확산",
   "'금융권해킹비상'",
-  "금융권해킹피해전방위확산"
+  "금융권해킹피해전방위확산",
+  "파이코인,OUSD협력에시세50일선돌파'주목'",
+  "자마드제로데이2종실제공격악용…RCE에서루트권한까지장악",
+  "오픈AI내부모델,종료일정알아채고'생존조치'모색"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,13 @@
   [
    "2026-10-04T11:50:24.486436+09:00",
    "달성하면 200안타 시즌 도전 나란히 ~KT 레이예스 롯데 최원준"
+  ],
+  [
+   "2026-10-04T11:56:14.519222+09:00",
+   "종료 모색 생존 일정 모델 조치 알아채고 내부"
   ]
  ],
- "last_run": "2026-10-04T11:54:34.718635+09:00",
+ "last_run": "2026-10-04T11:56:38.256310+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
