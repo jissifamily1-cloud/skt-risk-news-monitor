@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.beopbo.com/news/articleView.html?idxno=338087",
-  "https://www.ytn.co.kr/_ln/0102_202610031007487195",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553587737",
-  "https://www.mydaily.co.kr/page/view/2026100308584909676",
   "https://news.jtbc.co.kr/article/NB12321212?influxDiv=NAVER",
   "https://www.cbci.co.kr/news/articleView.html?idxno=611920",
   "https://zdnet.co.kr/view/?no=20261003004306",
@@ -2999,13 +2995,13 @@
   "https://www.newsis.com/view/NISX20261002_0003813107",
   "https://slownews.kr/167337",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068366",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96511"
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96511",
+  "https://www.aitimes.com/news/articleView.html?idxno=215796",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=278611",
+  "https://www.sedaily.com/article/20098059",
+  "http://coinreaders.com/261526"
  ],
  "seen_titles": [
-  "거세지는中범용칩공세…삼전·닉스,'차세대HBM'으로격차벌린다[초...",
-  "美고용이식으니금리인상공포도‘멈춤’…연휴이후코스피7000선...",
-  "'투타괴물'하현승,키움팬들과첫인사나눈다…신인선수환영행사...",
-  "메타,AI안전전문가들3개월만에해고…“업무스타일안맞아”",
   "업스테이지는왜GPU1장으로돌리는미니AI모델을만들까[빛이나는비...",
   "“가장싼걸로갈아타줘”…AI에이전트와‘귀찮음경제’의종말[딥...",
   "AI'생각의사슬'무력화되나…'순환깊이'기술이부른불투명성우려",
@@ -6001,7 +5997,11 @@
   "판커지는'AI데이터센터'…삼성·SK·LG도투자확대나서",
   "영화‘암살자(들)’이누른버튼,이참에다꺼내놓고이야기해볼까:...",
   "상권분석하고가게알리고…소상공인장사돕는금융권",
-  "[2026국정감사D-1]부동산·레버리지ETF·인사·DMZ지뢰까지…여야전..."
+  "[2026국정감사D-1]부동산·레버리지ETF·인사·DMZ지뢰까지…여야전...",
+  "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
+  "냉각이왜중요한데?…LG전자가'AI시대'를맞이하는방식",
+  "젠슨황“모든나라AI시스템갖춰야”AI주권뭐길래[김창영의실리...",
+  "엔비디아(NVDA),사상최고가돌파...월가목표가'515달러'까지상승"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,17 @@
   [
    "2026-10-05T07:08:15.251108+09:00",
    "부동산 인사 여야 DMZ 지뢰까지 레버리지ETF"
+  ],
+  [
+   "2026-10-05T07:10:24.063707+09:00",
+   "김창영의 모든 젠슨 뭐길래 주권 시스템 나라 실리 갖춰야"
+  ],
+  [
+   "2026-10-05T07:10:24.063707+09:00",
+   "상승 NVDA 목표가 최고가 월가 까지 사상 돌파 515달러"
   ]
  ],
- "last_run": "2026-10-05T07:08:46.412347+09:00",
+ "last_run": "2026-10-05T07:10:43.989319+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
