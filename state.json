@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10892496",
-  "https://sateconomy.co.kr/news/view/1065595561104717",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/519980",
   "https://www.xportsnews.com/article/2203786",
   "http://www.osen.co.kr/article/G1112886746",
   "https://www.pressian.com/pages/articles/2026100211175342708",
@@ -2999,12 +2996,12 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261005083807FXn",
   "https://www.news2day.co.kr/article/20261005500009",
   "https://www.edaily.co.kr/News/Read?newsId=01574406645609968&mediaCodeNo=257",
-  "https://www.smartbizn.com/news/articleView.html?idxno=155363"
+  "https://www.smartbizn.com/news/articleView.html?idxno=155363",
+  "https://www.g-enews.com/view.php?ud=20261005084926781906806b77b_1",
+  "https://www.g-enews.com/view.php?ud=2026100508451190599a1f309431_1",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171936"
  ],
  "seen_titles": [
-  "\"부캉이감독님!상어왜안나가요?\"김태형감독보자마자함박웃음,...",
-  "[포토]이강철감독,끝까지방심은금물",
-  "[포토]이강철감독,마지막에웃겠습니다",
   "추석'1900억'쏟아도들썩이는물가…10월3%대복귀하나",
   "최태원동거인김희영,뉴욕기업무대등장…재산분할후첫동행",
   "이정아성남시의원,고등부·실버푸드조리경연대회시상식참석…참가...",
@@ -6001,7 +5998,10 @@
   "[이시각헤드라인]10월5일뉴스와이드(08시)",
   "[N2포커스]우리·농협은막았다…연쇄해킹,무엇을어느단계에서차...",
   "침해사고4년새2배인데…KISA인력증원은84명요구에7명뿐",
-  "실적886%뛰었는데···SK증권IB는왜뒷걸음질쳤나"
+  "실적886%뛰었는데···SK증권IB는왜뒷걸음질쳤나",
+  "[긴급진단]메모리반도체주가돌연폭락\"도시바HDD쇼크\"...뉴욕증시...",
+  "머스크,스페이스XAI또개명방침…트럼프의‘SI’채택",
+  "'스페이스XSI'로개명하겠다는머스크...트럼프에항복?"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,17 @@
   [
    "2026-10-05T08:52:19.677334+09:00",
    "7명뿐 4년 KISA 증원은 2배인데 요구에 84명 침해사고 인력"
+  ],
+  [
+   "2026-10-05T08:56:14.519847+09:00",
+   "SI 머스크 개명 방침 채택 스페이스XAI 트럼프의"
+  ],
+  [
+   "2026-10-05T08:56:14.519847+09:00",
+   "스페이스XSI 트럼프에 항복 개명하겠다는 머스크"
   ]
  ],
- "last_run": "2026-10-05T08:54:31.469039+09:00",
+ "last_run": "2026-10-05T08:56:35.158755+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
