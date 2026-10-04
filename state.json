@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726427",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267413",
-  "http://www.breaknews.com/1240414",
-  "https://www.inthenews.co.kr/news/article.html?no=92593",
-  "https://www.news1.kr/it-science/general-science/6307528",
-  "https://www.etnews.com/20261001000351",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=278250",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590214411870",
   "https://dealsite.co.kr/articles/169977",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=278270",
   "http://www.metroseoul.co.kr/article/20261001500267",
@@ -2999,17 +2991,17 @@
   "https://www.mt.co.kr/finance/2026/10/04/2026100416035928940",
   "https://www.starnewskorea.com/sports/2026/10/04/2026100414545852971",
   "https://www.wikitree.co.kr/articles/1163890",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3712912"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3712912",
+  "https://www.ytn.co.kr/_ln/0101_202610041636319081",
+  "https://www.yna.co.kr/view/AKR20261004027951002?input=1195m",
+  "https://www.joongang.co.kr/article/25467042",
+  "https://www.mt.co.kr/stock/2026/10/04/2026100416082465987",
+  "https://news.mtn.co.kr/news-detail/2026100416365681836",
+  "https://www.ytn.co.kr/_ln/0101_202610041644313386",
+  "https://news.jtbc.co.kr/article/NB12321305?influxDiv=NAVER",
+  "https://www.joongang.co.kr/article/25467039"
  ],
  "seen_titles": [
-  "최태원,SK㈜지분2.3%매각…9440억원확보",
-  "\"대통령도놀랐다\"...고령층속여3500억끌어모은일당기소",
-  "[이시각헤드라인]10월2일뉴스투나잇",
-  "경찰,은행권‘AI해킹사건’내사착수…檢폐지후첫대형사이버사...",
-  "경찰,은행권동시다발해킹공격에내사착수",
-  "은행권잇단해킹…업무지원시스템도공격표면됐다",
-  "은행해킹잇따르자금융당국'비상'···은행·카드사전수점검",
-  "[데일리픽]XRP2030년전망제각각…구글'제미나이4아르곤'등장",
   "국민아이디어로AI서비스만든다…'모두의AI실험실'본격가동",
   "SKT,T멤버십혜택도AI가제안한다…고객취향·트렌드분석",
   "SKT,10월T멤버십혜택선보여·'에어'1주년기념프로모션진행",
@@ -6001,7 +5993,15 @@
   "AI로고객정보'조회해긁는'해킹…다중인증갖춘금융사는막았다",
   "\"김선형단순맹장수술아냐...복귀더늦어질것\"시즌극초반터진...",
   "‘연애박사’추영우의족연기,실제사용자가촬영장지켰다…박민재...",
-  "[포토]백제의왕도사비...고산제"
+  "[포토]백제의왕도사비...고산제",
+  "공소청·중수청시대개막...여야,국감전기싸움",
+  "\"금융사해킹사고,동일공격IP여러곳발견…AI활용추정\"(종합)",
+  "금융권해킹비상,동일공격자IP정황여러곳에서포착",
+  "가상자산·증권업계,잇단금융권AI해킹사고에보안점검나서",
+  "웰컴저축은행도해킹으로법인고객정보유출",
+  "이대통령,금융권해킹사건에\"엄중한인식갖고철저한조사\"",
+  "이억원\"AI활용해킹가능성배제못해…금융권최고수준경각심\"",
+  "AI빗장풀려는데터진연쇄해킹…금융권‘망분리완화’시험대"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-10-04T16:46:13.576445+09:00",
    "막았다 고객정보 AI로 조회해 갖춘 금융사는 다중인증 긁는"
+  ],
+  [
+   "2026-10-04T16:50:22.785513+09:00",
+   "터진 시험대 빗장 풀려는데 연쇄 완화 망분리 금융권"
   ]
  ],
- "last_run": "2026-10-04T16:48:34.830280+09:00",
+ "last_run": "2026-10-04T16:50:43.013398+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
