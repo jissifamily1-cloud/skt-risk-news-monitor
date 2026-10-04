@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/416254",
-  "https://www.nytimes.com/2026/09/30/pageoneplus/quote-of-the-day-openai-failed-to-heed-alerts-about-security.html?partner=naver",
-  "https://www.tokenpost.kr/news/briefing/416226",
-  "https://www.betanews.net/article/view/beta202609300027",
-  "https://www.tokenpost.kr/news/breaking/416197",
   "https://www.upkoreanews.kr/news/articleView.html?idxno=100424",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214763",
   "https://www.tokenpost.kr/news/breaking/416167",
@@ -2999,14 +2994,14 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223034",
   "http://www.newstomato.com/ReadNews.aspx?no=1315636&inflow=N",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223023",
-  "https://m.sports.naver.com/basketball/article/065/0000302386"
+  "https://m.sports.naver.com/basketball/article/065/0000302386",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/04/2026100490102.html",
+  "https://www.kukinews.com/article/view/kuk202610040029",
+  "https://news.mtn.co.kr/news-detail/2026100419420839724",
+  "https://www.newscj.com/news/articleView.html?idxno=3437813",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/04/2026100490104.html"
  ],
  "seen_titles": [
-  "ArtueShowcases\"GPTCurator,\"ConnectingArtDiscoveryandCommerce",
-  "AWayOutoftheA.I.ArmsRace?",
-  "HedgeFund’sNearCollapseLaysBareRisksofBorrowingtoBetonA.I.",
-  "WhatWouldJohnMaynardKeynesSayAboutA.I.?TheKeynesBotToldUs.",
-  "트럼프·AI빅테크손잡았다…\"스스로규제한다\"",
   "SK하이닉스자사주소각·실적견조…SK스퀘어주주환원확대기대감고...",
   "HBM우려에도꺾이지않은낙관론…삼성전자·하이닉스증권가전망은?...",
   "[KBW2026]0G\"AI가지능이라면블록체인은신뢰…에이전트경제더커진...",
@@ -6001,13 +5996,14 @@
   "저축은행·상호금융까지전방위해킹…당국,금융권긴급소집",
   "금융권잇단해킹에정부비상대응…2만8000개기업에보안점검권고",
   "해킹공격에내계좌는괜찮나…AI가어디까지뚫나",
-  "“내가이렇게소리를많이질렀나싶더라”김상식감독의뜨거웠던4..."
+  "“내가이렇게소리를많이질렀나싶더라”김상식감독의뜨거웠던4...",
+  "제2금융권까지털렸다…금융당국,긴급회의소집",
+  "李대통령금융권해킹에“철저조사”지시…긴급대응나선정부",
+  "금융권연쇄해킹에정부'24시간비상대응'…2만8000개기업긴급점검",
+  "금융권해킹에민간기업도보안점검…정부긴급대응",
+  "'금융권해킹'경찰조사속도…\"은행도뚫리면뭘믿나\"번지는불안"
  ],
  "recent_sigs": [
-  [
-   "2026-10-04T13:52:15.202100+09:00",
-   "전방위 피해 은행권"
-  ],
   [
    "2026-10-04T14:00:39.361358+09:00",
    "젠슨 슈퍼 황금시대의 CEO 지분가치 280조원"
@@ -6375,9 +6371,13 @@
   [
    "2026-10-04T19:44:16.564846+09:00",
    "공격에 괜찮나 어디까지 뚫나 계좌는 AI가"
+  ],
+  [
+   "2026-10-04T19:54:14.933947+09:00",
+   "은행도 금융권 속도 번지는 경찰 뚫리면 믿나 조사 불안"
   ]
  ],
- "last_run": "2026-10-04T19:52:33.092271+09:00",
+ "last_run": "2026-10-04T19:54:38.531846+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
