@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4110155",
-  "https://www.newsway.co.kr/news/view?ud=2026100218374343241",
-  "https://www.newsis.com/view/NISX20261002_0003813193",
-  "https://www.newsinside.kr/news/articleView.html?idxno=5015030",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171383",
   "https://www.kyeonggi.com/article/20261002580410",
   "https://www.etnews.com/20261002000232",
   "https://www.newscj.com/news/articleView.html?idxno=3437534",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20261004_0003813941",
   "https://www.insight.co.kr/news/576405",
   "https://biz.heraldcorp.com/article/10892111",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855525"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=855525",
+  "https://www.edaily.co.kr/News/Read?newsId=01600646645609640&mediaCodeNo=257",
+  "https://www.seoulfn.com/news/articleView.html?idxno=639329",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612262",
+  "https://www.jemin.com/news/articleView.html?idxno=843814",
+  "https://www.dailian.co.kr/news/view/1697777/?sc=Naver"
  ],
  "seen_titles": [
-  "은행권강타해킹공격‘동일IP’소행추정",
-  "지난해방송시청점유율1위KBS…'새로운산정방식필요'지적도",
-  "IMF\"미·이란전쟁,저소득국·취약국경제악영향우려\"",
-  "\"얼굴합잘맞아\"추영우·김소현이자신한동갑내기케미(연애박사)",
-  "[오피셜]'슈퍼루키'하현승,키움선수로첫발내딛는다...역대최고...",
   "'연애박사'추영우,故안판석도인정한해석력…\"편집중감탄할정도\"",
   "\"공공DaaS제도화속도내야\"…N2SF·보안·조달쟁점국회로",
   "한국女하키,동메달결정전서슛아웃끝에일본에분패,AG2회연속메...",
@@ -6001,7 +5996,12 @@
   "[속보]이억원\"소비자해킹피해최소화…보이스피싱가능성도대비\"",
   "취임1주년앞둔정재헌...SKT,놓쳤던고객만족도1위되찾았다",
   "“성형전사진까지털렸는데,보상은겨우5만포인트?”22만명‘날벼...",
-  "[시큐리티포커스]안랩'계정정보보안수칙'·아우토'국가PnCPKI시스..."
+  "[시큐리티포커스]안랩'계정정보보안수칙'·아우토'국가PnCPKI시스...",
+  "금융위원장\"금융권최고수준경각심필요\"…전금융권긴급회의",
+  "제2금융권까지AI해킹…금융당국,긴급점검회의",
+  "크라우드스트라이크,OpenAI마켓플레이스합류…AI에이전트보안시장...",
+  "모건스탠리,젠슨황만난뒤엔비디아'최선호주'재확인…AI성장기대...",
+  "이억원\"보안은비용아닌투자…AI공격,AI로방어해야\""
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,21 @@
   [
    "2026-10-04T14:34:14.892896+09:00",
    "이억원 대비 최소화 보이스피싱 소비자 가능성도 피해"
+  ],
+  [
+   "2026-10-04T14:42:14.070118+09:00",
+   "에이전트 보안 마켓플레이스 크라우드스트라이크 합류 시장"
+  ],
+  [
+   "2026-10-04T14:42:14.070118+09:00",
+   "성장 기대 젠슨 모건스탠리 재확인 만난 최선호주"
+  ],
+  [
+   "2026-10-04T14:42:14.070118+09:00",
+   "투자 비용 AI로 공격 아닌 보안은 이억원 방어해야"
   ]
  ],
- "last_run": "2026-10-04T14:40:38.406043+09:00",
+ "last_run": "2026-10-04T14:42:40.008542+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
