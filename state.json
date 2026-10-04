@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2011564",
-  "https://www.newspost.kr/news/articleView.html?idxno=226082",
-  "https://www.sedaily.com/article/20097553",
-  "https://www.yna.co.kr/view/AKR20261003021100062?input=1195m",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=814904",
-  "https://biz.sbs.co.kr/article_hub/20000337788?division=NAVER",
-  "https://www.chosun.com/international/europe/2026/09/30/4HXVRTWGVFEMRIPFVO2KFCBPW4/",
   "https://www.beopbo.com/news/articleView.html?idxno=338087",
   "https://www.ytn.co.kr/_ln/0102_202610031007487195",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553587737",
@@ -2999,16 +2992,16 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=65281",
   "https://www.mt.co.kr/tech/2026/10/05/2026100110475539537",
   "https://www.ytn.co.kr/_ln/0101_202610050650121610",
-  "https://biz.heraldcorp.com/article/10890407"
+  "https://biz.heraldcorp.com/article/10890407",
+  "https://m.sports.naver.com/basketball/article/065/0000302400",
+  "https://www.yna.co.kr/view/AKR20261002142900062?input=1195m",
+  "https://zdnet.co.kr/view/?no=20261004151505",
+  "https://www.newsis.com/view/NISX20261002_0003813107",
+  "https://slownews.kr/167337",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068366",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96511"
  ],
  "seen_titles": [
-  "은행은정보유출,증권사는전산장애···금융권IT사고잇따라",
-  "시중은행잇단해킹피해...경찰,입건전조사착수",
-  "AI가뚫는해킹방어법,내계정안전하게지키는법은?",
-  "금융권해킹피해확산...저축은행서도정보유출",
-  "EBS'위대한수업,그레이트마인즈'시즌6...최태원회장강연으로10월...",
-  "현실로다가온'AI해킹',신한은행서버서중국어AI흔적",
-  "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
   "거세지는中범용칩공세…삼전·닉스,'차세대HBM'으로격차벌린다[초...",
   "美고용이식으니금리인상공포도‘멈춤’…연휴이후코스피7000선...",
   "'투타괴물'하현승,키움팬들과첫인사나눈다…신인선수환영행사...",
@@ -6001,7 +5994,14 @@
   "\"금융권해킹,민간번지기전에막는다\"…정부24시간비상가동",
   "[단독]AI해킹'깜깜이'정부통계,AI공격'파악불가'",
   "[YTN실시간뉴스]'AI해킹'에금융권줄줄이피해...긴급회의",
-  "Btv핫딜,출시10개월판매액100억원돌파"
+  "Btv핫딜,출시10개월판매액100억원돌파",
+  "“이것만딱하자”간절했던6분47초…1449일기다린삼성의개막전승...",
+  "[인터뷰]우상호\"AI데이터센터집중…정부메가프로젝트강원이이끈...",
+  "6G코어망에AI어떻게넣나...표준설계부터갑론을박",
+  "판커지는'AI데이터센터'…삼성·SK·LG도투자확대나서",
+  "영화‘암살자(들)’이누른버튼,이참에다꺼내놓고이야기해볼까:...",
+  "상권분석하고가게알리고…소상공인장사돕는금융권",
+  "[2026국정감사D-1]부동산·레버리지ETF·인사·DMZ지뢰까지…여야전..."
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,25 @@
   [
    "2026-10-05T07:02:17.647956+09:00",
    "줄줄이 긴급회의 금융권 피해"
+  ],
+  [
+   "2026-10-05T07:08:15.251108+09:00",
+   "상권 분석하고 알리고 장사 가게 소상공인 금융권 돕는"
+  ],
+  [
+   "2026-10-05T07:08:15.251108+09:00",
+   "투자 데이터센터 삼성 LG도 SK 커지는 확대 나서"
+  ],
+  [
+   "2026-10-05T07:08:15.251108+09:00",
+   "암살자 영화 버튼 누른 이야기해볼까 꺼내놓고 이참에"
+  ],
+  [
+   "2026-10-05T07:08:15.251108+09:00",
+   "부동산 인사 여야 DMZ 지뢰까지 레버리지ETF"
   ]
  ],
- "last_run": "2026-10-05T07:06:30.167112+09:00",
+ "last_run": "2026-10-05T07:08:46.412347+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
