@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.starnewskorea.com/star/2026/10/03/2026100309181783428",
-  "https://mhnse.com/news/articleView.html?idxno=1572031",
-  "https://www.slist.kr/news/articleView.html?idxno=770762",
   "https://www.stardailynews.co.kr/news/articleView.html?idxno=551228",
   "https://www.news1.kr/world/usa-canada/6308778",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703957",
@@ -2999,12 +2996,12 @@
   "https://www.ddaily.co.kr/page/view/2026100309050512686",
   "http://www.beyondpost.co.kr/view.php?ud=2026100506064524172aaae0046f_30",
   "https://www.fnnews.com/news/202610050603302408",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=612359"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=612359",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782935&plink=ORI&cooper=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782913&plink=ORI&cooper=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782912&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "은행권AI해킹에경찰내사착수…금융당국긴급점검",
-  "\"엔비디아도어쩔수가없다\"…'DGX스파크'용량반토막내고가격인상",
-  "[속보]예가람저축은행도해킹피해...\"이름·전화번호등유출\"",
   "9월물가2.9%상승…석유류물가14.8%뛰어(종합)",
   "9월물가2.9%상승...기저효과빼면오름세확대",
   "\"글로벌빅테크·국내AI기업한자리에\"…AI페스타,내달6일부터열린...",
@@ -6001,7 +5998,10 @@
   "애플,AI에이전트사생활침해우려에맥OS디스크전체접근통제강화",
   "삼성전자,국내기업최초로분기영업이익'100조원시대'여나...8일3분...",
   "트럼프″초지능TF창설…수장에클레이턴DNI국장″",
-  "[기업家]LG전자⑭ㅣ엔비디아손잡고AI데이터센터공략…냉각솔루..."
+  "[기업家]LG전자⑭ㅣ엔비디아손잡고AI데이터센터공략…냉각솔루...",
+  "[모닝와이드]오늘의주요뉴스",
+  "취약점찾아빠르게공격…'AI해킹'어떻게막나",
+  "'AI해킹'에금융사7곳털렸다…긴급회의"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,17 @@
   [
    "2026-10-05T06:16:16.605809+09:00",
    "데이터센터 손잡고 LG전자 냉각 솔루 공략"
+  ],
+  [
+   "2026-10-05T06:18:14.768771+09:00",
+   "찾아 공격 빠르게 취약점 어떻게 막나"
+  ],
+  [
+   "2026-10-05T06:18:14.768771+09:00",
+   "긴급 금융사 7곳 털렸다 회의"
   ]
  ],
- "last_run": "2026-10-05T06:16:34.656026+09:00",
+ "last_run": "2026-10-05T06:18:42.127924+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
