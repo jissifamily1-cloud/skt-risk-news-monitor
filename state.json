@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=351361",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=869836",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1726629",
   "https://www.etoday.co.kr/news/view/2632201",
@@ -2999,10 +2998,10 @@
   "https://www.newsis.com/view/NISX20261004_0003813902",
   "https://www.the-today.com/news/articleView.html?idxno=91175",
   "https://www.jibs.co.kr/news/articles/articlesDetail/66135?feed=na",
-  "https://www.newspim.com/news/view/20261003000067"
+  "https://www.newspim.com/news/view/20261003000067",
+  "https://www.tokenpost.kr/news/blockchain/418060"
  ],
  "seen_titles": [
-  "신한·국민은행정보유출에금융당국긴급회의",
   "하나은행서도해킹사고발생…고객89명정보유출",
   "[속보]BNK금융도해킹당해…\"외주직원개인정보11건유출\"",
   "하나은행도AI에이전트해킹에고객정보유출…89명규모",
@@ -6001,7 +6000,8 @@
   "국힘,금융권해킹속출에\"범정부합동조사단가동해야\"",
   "고객주민번호털려도몰랐다…이호성의하나은행,해킹인지에42시간...",
   "은행만뚫린게아니었다…금융권해킹확산에휴일긴급소집",
-  "[핌in잠실]\"모두3연투준비\"…마무리무너진KIA,3위향해불펜총력..."
+  "[핌in잠실]\"모두3연투준비\"…마무리무너진KIA,3위향해불펜총력...",
+  "[로빈후드온체인]쿠폰스보유지갑이하루새664개늘어...엔비디아..."
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,13 @@
   [
    "2026-10-04T12:38:16.153346+09:00",
    "확산에 금융권 휴일 은행만 아니었다 뚫린 긴급소집"
+  ],
+  [
+   "2026-10-04T12:46:13.679732+09:00",
+   "하루 664개 늘어 지갑이 쿠폰스 보유"
   ]
  ],
- "last_run": "2026-10-04T12:44:35.803658+09:00",
+ "last_run": "2026-10-04T12:46:37.753206+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
