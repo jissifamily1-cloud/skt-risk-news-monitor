@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2119003",
-  "https://biz.heraldcorp.com/article/10890318",
-  "https://news.mtn.co.kr/news-detail/2026100110114034660",
-  "https://www.smarttoday.co.kr/ko-kr/articles/112176",
   "https://www.cnbizm.com/news/articleView.html?idxno=316805",
   "http://www.metroseoul.co.kr/article/20261001500152",
   "https://www.segye.com/newsView/20261001507432?OutUrl=naver",
@@ -2999,13 +2995,13 @@
   "https://www.newsverse.kr/news/articleView.html?idxno=11585",
   "https://www.ajunews.com/view/20261004164633032",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/04/2026100490076.html",
-  "https://www.ddaily.co.kr/page/view/2026100216373083681"
+  "https://www.ddaily.co.kr/page/view/2026100216373083681",
+  "https://www.mk.co.kr/article/12168116",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000019683&cp=nv",
+  "https://zdnet.co.kr/view/?no=20261004170058",
+  "https://www.dt.co.kr/article/12087295"
  ],
  "seen_titles": [
-  "[IT는지금]카카오,카카오멤버십출시…월구독료4900원外",
-  "SKT'에어'포인트사용률96%…'통신미니멀리즘'통했다",
-  "SKT,AI에이전트제안반영한10월T멤버십혜택공개…12~16일'AI위크...",
-  "SKT자급제전용'에어',포인트사용률96%돌파…출시1주년요금특가",
   "멤버십이용패턴부터검색트렌드까지…SKT,AI로10월혜택짰다",
   "AI데이터센터늘리는데…SKT배출권'35만t'부족",
   "무제한요금제월1만원대…SKT에어,자급제고객공략",
@@ -6001,7 +5997,11 @@
   "AI활용자동해킹공격있었나...금융권연쇄해킹피해확산",
   "신한·국민등7개금융사해킹'동일범'정황…AI활용대량공격추정",
   "금융위\"AI활용해킹가능성…보이스피싱등2차피해우려도\"",
-  "[이호연의D톡스]국내은행,AI해킹에‘속수무책’…보안투자오히려..."
+  "[이호연의D톡스]국내은행,AI해킹에‘속수무책’…보안투자오히려...",
+  "\"개발자역할은AI지휘하고결과검증하는것\"",
+  "“개발진도속인다…원전처럼다뤄야”오픈AI전안전담당의경고",
+  "\"신한공격추정AI해킹도구아르텍스,한국서4개발견\"",
+  "금융권해킹,동일한공격자…AI활용‘자동화해킹’정황"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-10-04T17:00:41.250348+09:00",
    "국내 오히려 해킹에 은행 보안투자 속수무책"
+  ],
+  [
+   "2026-10-04T17:08:16.707024+09:00",
+   "자동화 공격자 활용 정황 금융권 동일한"
   ]
  ],
- "last_run": "2026-10-04T17:06:30.682139+09:00",
+ "last_run": "2026-10-04T17:08:34.242219+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
