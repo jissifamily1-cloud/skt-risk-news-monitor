@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6855468_37004.html",
-  "https://www.yna.co.kr/view/AKR20261002176000004?input=1195m",
   "https://www.mk.co.kr/article/12167516",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448587",
   "https://news.jtbc.co.kr/article/NB12321137?influxDiv=NAVER",
@@ -2999,11 +2997,11 @@
   "http://www.joseilbo.com/news/news_read.php?uid=576825&class=18",
   "https://www.newsis.com/view/NISX20261004_0003813958",
   "https://www.sentv.co.kr/article/view/sentv202610040017",
-  "https://news.bizwatch.co.kr/article/finance/2026/10/04/0003"
+  "https://news.bizwatch.co.kr/article/finance/2026/10/04/0003",
+  "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html?partner=naver",
+  "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html?partner=naver"
  ],
  "seen_titles": [
-  "에이건,FHD서최대1,050Hz지원게이밍모니터‘AGP257FT’공개",
-  "신한은행에'중국어AI침투'흔적…해킹패닉금융권확산",
   "금융위,은행·카드에자체보안점검지시…\"조속보고받을것\"",
   "\"AI에털렸다\"…은행권,고객정보유출에'초비상'",
   "금융위\"국민불안하지않게신속파악\"…은행·카드에점검지시(종합)",
@@ -6001,7 +5999,9 @@
   "“AI공격은AI로방어”…이억원,AI해킹에금융권전면재점검",
   "금융권노린AI해킹툴?…'아르텍스'관련IP전세계359개포착",
   "이억원\"AI활용해킹가능성배제못해…최고수준경각심“",
-  "이억원\"금융권연쇄정보유출,AI활용해킹공격가능성\""
+  "이억원\"금융권연쇄정보유출,AI활용해킹공격가능성\"",
+  "A.I.IsGoingRogue.WhoShouldBeHeldResponsible?",
+  "AHackingCompetitionShowsthePowerofChina’sApproachtoA.I."
  ],
  "recent_sigs": [
   [
@@ -6317,7 +6317,7 @@
    "하락이 ~LGU 늘어난다 핵심 금리 LG유플러스 변수 주주환원"
   ]
  ],
- "last_run": "2026-10-04T15:22:33.440019+09:00",
+ "last_run": "2026-10-04T15:25:12.324525+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
