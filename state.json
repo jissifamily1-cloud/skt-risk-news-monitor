@@ -1,19 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2632160",
-  "https://www.yna.co.kr/view/AKR20261002154500002?input=1195m",
-  "https://www.hankyung.com/article/2026100209491",
-  "https://www.yna.co.kr/view/AKR20261002158300002?input=1195m",
-  "https://www.mk.co.kr/article/12167439",
-  "https://www.newsis.com/view/NISX20261002_0003813087",
-  "https://www.cwn.kr/news/articleView.html?idxno=58217",
-  "https://www.fnnews.com/news/202610021717348883",
-  "https://www.newsway.co.kr/news/view?ud=2026100214453759895",
-  "https://www.viva100.com/article/20261002500832",
-  "https://www.seoul.co.kr/news/economy/finance/2026/10/02/20261002500245?wlog_tag3=naver",
-  "https://www.mydaily.co.kr/page/view/2026100217320098744",
-  "https://www.ekn.kr/web/view.php?key=20261002020491851",
-  "https://www.edaily.co.kr/News/Read?newsId=05185686645608984&mediaCodeNo=257",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53392",
   "https://www.huffingtonpost.kr/article/260979",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=360024",
@@ -2999,19 +2985,23 @@
   "https://www.geconomy.co.kr/news/article.html?no=324117",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7033",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424124",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261004110715fGG"
+  "http://www.yonhapnewstv.co.kr/news/AKR20261004110715fGG",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261004111748BNB",
+  "https://mhnse.com/news/articleView.html?idxno=1573616",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90032",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000070783",
+  "https://www.ajunews.com/view/20261004110353816",
+  "https://www.newsis.com/view/NISI20261004_0021475342",
+  "https://www.newsis.com/view/NISI20261004_0021475345",
+  "https://www.newsis.com/view/NISI20261004_0021475347",
+  "https://www.newsis.com/view/NISI20261004_0021475346",
+  "https://www.kyeonggi.com/article/20261004580061",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000019608&cp=nv",
+  "https://www.newsis.com/view/NISI20261004_0021475344",
+  "https://www.news2day.co.kr/article/20261004500014",
+  "https://www.newsis.com/view/NISI20261004_0021475343"
  ],
  "seen_titles": [
-  "“AI인류멸망론,당장의현실문제가려”…구글내부고발자팀닛게...",
-  "삼성,내년HBM가격3배로높인다",
-  "AI수요확대·D램공급부족…메모리3사주목해야[ETF브리핑]",
-  "삼성\"최고성능HBM4자신감,협상력확대\"…가격프리미엄강공",
-  "현대차\"2030년까지신차100종\"",
-  "고객정보유출에발목잡힌정상혁…신한은행장3연임변수되나",
-  "日사이버보안비상…대학전산망도뚫려",
-  "[단독]28일저녁부터밤새도록계속된신한은행해커공격‥다음날에야...",
-  "\"KB국민은행너마저\"…해커놀이터된내부업무용앱",
-  "이해민AI수석,CAIO협의회첫주재…“부처간AI정책이음매잇겠다...",
   "당국,은행·카드에자체보안점검지시…\"조속보고받을것\"",
   "아마존·엔비디아인재빨아들이는현대차그룹",
   "[속보]하나은행서도AI해킹정보유출…89명규모",
@@ -6001,7 +5991,17 @@
   "영상기획부터편집까지AI활용…LG유플러스,구글과크리에이터교육",
   "[증시프리즘]삼전실적앞둔코스피,'7천피'안착시험대…외인돌아...",
   "마이크론이확인한'메모리호황'···삼전·하닉합산영업익전년比...",
-  "美,4천억원'상당엔비디아AI서버中밀수혐의기업인체포"
+  "美,4천억원'상당엔비디아AI서버中밀수혐의기업인체포",
+  "[이시각헤드라인]10월4일일요와이드(11시)",
+  "\"젊어지려아들피까지…\"브라이언존슨,역노화에매년30억쓴이유...",
+  "은행넘어저축은행·캐피털·상호금융까지....광범위한금융권AI해...",
+  "은행넘어저축은행·캐피털까지…AI해커금융권전방위공격",
+  "금융권해킹피해잇따라…iM뱅크·바로저축은행도악성코드감염",
+  "해킹에줄줄이뚫린은행권",
+  "은행·2금융권'AI해킹'고객개인정보유출",
+  "올해법원해킹시도24만건...보안예산은늑장발주로불용처리",
+  "[단독]하나은행,해킹발생했는데42시간동안몰랐다",
+  "\"AI해킹공포금융권덮쳤다\"…은행·저축은행·캐피탈잇따라정보유..."
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,25 @@
   [
    "2026-10-04T11:18:15.106481+09:00",
    "혐의 밀수 서버 4천억 기업인 상당 체포"
+  ],
+  [
+   "2026-10-04T11:20:22.761380+09:00",
+   "발생했는데 하나은행 동안 몰랐다 42시간"
+  ],
+  [
+   "2026-10-04T11:20:22.761380+09:00",
+   "줄줄이 뚫린 은행권 해킹에"
+  ],
+  [
+   "2026-10-04T11:20:22.761380+09:00",
+   "잇따라 공포 정보유 캐피탈 은행 금융권 덮쳤다 저축은행"
+  ],
+  [
+   "2026-10-04T11:20:22.761380+09:00",
+   "고객 유출 개인정보 2금융권 은행"
   ]
  ],
- "last_run": "2026-10-04T11:18:36.459644+09:00",
+ "last_run": "2026-10-04T11:20:49.219663+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
