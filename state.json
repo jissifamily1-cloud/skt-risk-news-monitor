@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781371&plink=ORI&cooper=NAVER",
-  "https://www.the-today.com/news/articleView.html?idxno=91133",
-  "https://www.techm.kr/news/articleView.html?idxno=155830",
-  "https://www.wikitree.co.kr/articles/1163652",
-  "https://m.skyedaily.com/news_view.html?ID=312435",
-  "https://www.segye.com/newsView/20261002515147?OutUrl=naver",
-  "https://www.ytn.co.kr/_ln/0102_202610022110160417",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=869876",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53411",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90013",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=869878",
   "https://www.ytn.co.kr/_ln/0102_202610022131037855",
@@ -2999,18 +2990,18 @@
   "https://www.nytimes.com/2026/10/02/business/dealbook/data-center-ai-bonds.html?partner=naver",
   "https://www.hankyung.com/article/2026100425197",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261004010000900",
-  "https://m.sports.naver.com/basketball/article/065/0000302361"
+  "https://m.sports.naver.com/basketball/article/065/0000302361",
+  "https://biz.sbs.co.kr/article_hub/20000338253?division=NAVER",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155555",
+  "https://www.ekn.kr/web/view.php?key=20261004029012155",
+  "https://www.imaeil.com/page/view/2026100416204254011",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2053824",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171403",
+  "https://view.asiae.co.kr/article/2026100416194501506",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704980",
+  "https://www.hankookilbo.com/news/article/A2026100415580005631?did=NA"
  ],
  "seen_titles": [
-  "신한이어국민·하나·부산은행까지…은행권해킹'비상등'",
-  "경찰,'은행권전방위AI해킹사건'즉각내사착수…중수청은아직수...",
-  "AI디스토피아의역설살펴보니",
-  "뉴욕증시프리뷰,美고용보고서앞두고주가선물상승…금리·유가동...",
-  "역시KCC,또공식개막전관중6000명넘었다",
-  "신한·국민·하나은행정보유출…금융권보안비상",
-  "신한·KB·하나은행이어부산은행까지뚫렸다…iM뱅크는‘아직안전’",
-  "은행들사고나도몰랐다…길게는2년반‘깜깜’",
-  "5대은행모두노렸다···신한2만5000명털리고국민·하나까지'해...",
   "AI도구로취약지점노렸다…금융권보안비상",
   "핵심망대신‘우회로’뚫렸다…은행권동시다발해킹에경찰내사",
   "경찰,은행권해킹내사착수…신한·국민·하나·부산4곳조사",
@@ -6001,7 +5992,16 @@
   "TheLatestChallengetoDataCenters?RestiveInvestors.",
   "머스크의'비서실장'그녀와돌연결별…AI사업파트너였는데",
   "한전직원2만4000여명개인정보외부노출…원인·경로조사중",
-  "[웜업터뷰]KT·삼성‘패리스배스’가화두…김선형은“빨라도12월..."
+  "[웜업터뷰]KT·삼성‘패리스배스’가화두…김선형은“빨라도12월...",
+  "웰컴저축은행도정보유출…법인고객정보2천200건추정",
+  "금융위,금융권연쇄정보유출에긴급회의···\"최고수준경각심가져...",
+  "“금융사노린해커,IP바꿔가며‘AI자동화공격’정황”",
+  "금융권덮친연쇄해킹공격…당국,'AI공격가능성'염두해대응방침",
+  "금융권해킹확산에정부긴급대응…이억원\"유사사고땐엄정책임\"",
+  "이억원금융위원장\"금융권해킹,AI활용공격가능성배제못해\"",
+  "\"금융권해킹,동일공격자IP여러곳서발견…AI활용해대량공격\"",
+  "금융권해킹사태확산…\"7개사서동일공격자정황\"",
+  "한전직원2만4000명정보외부웹페이지노출…\"해킹시도파악안돼..."
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,13 @@
   [
    "2026-10-04T16:18:14.612498+09:00",
    "개인정보 해킹에 보험업계도 골치"
+  ],
+  [
+   "2026-10-04T16:28:16.420355+09:00",
+   "노출 시도 직원 파악 한전 정보 웹페이지 외부 2만4000명"
   ]
  ],
- "last_run": "2026-10-04T16:26:37.635006+09:00",
+ "last_run": "2026-10-04T16:28:37.591282+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
