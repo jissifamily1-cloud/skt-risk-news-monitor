@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12321137?influxDiv=NAVER",
-  "https://www.livebiz.today/news/articleView.html?idxno=205322",
-  "https://www.mk.co.kr/article/12167519",
-  "https://www.nytimes.com/2026/10/02/podcasts/hardfork-regulation-agents-muse.html?partner=naver",
-  "https://biz.chosun.com/stock/finance/2026/10/02/OVVMPOVTUZFHLMTGQVOFY7JKAA/",
-  "https://www.dailian.co.kr/news/view/1697599/?sc=Naver",
-  "https://www.ajunews.com/view/20261002195525952",
-  "http://www.inews24.com/view/2011620",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6855469_37004.html",
-  "https://magazine.hankyung.com/business/article/202610021229b",
   "https://biz.chosun.com/topics/topics_social/2026/10/02/VMNN3Y3UMRDDJKTGIAYWMMQMFY/",
   "http://www.yonhapnewstv.co.kr/news/AKR20261002200515fen",
   "https://www.namdonews.com/news/articleView.html?idxno=925101",
@@ -2999,19 +2989,19 @@
   "https://www.nytimes.com/2026/10/01/technology/ai-rogue-agents-liability.html?partner=naver",
   "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html?partner=naver",
   "https://www.chosun.com/economy/tech_it/2026/10/04/ZROYGHOE55CVPHMNXTAAFVAH24/",
-  "https://www.jemin.com/news/articleView.html?idxno=843815"
+  "https://www.jemin.com/news/articleView.html?idxno=843815",
+  "https://www.sportsseoul.com/news/read/1639295",
+  "https://www.starnewskorea.com/sports/2026/10/04/2026100414231250244",
+  "https://www.xportsnews.com/article/2204104",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492579",
+  "https://www.kado.net/news/articleView.html?idxno=2076319",
+  "https://www.ddaily.co.kr/page/view/2026100415253006051",
+  "https://www.mediapen.com/news/view/1127850",
+  "https://www.fnnews.com/news/202610041510525820",
+  "https://www.newsis.com/view/NISX20261004_0003813970",
+  "https://www.yna.co.kr/view/AKR20261004027900002?input=1195m"
  ],
  "seen_titles": [
-  "금융위\"국민불안하지않게신속파악\"…은행·카드에점검지시(종합)",
-  "NH농협은행도해킹표적…5대은행모두공격,농협·우리는유출없어",
-  "하나은행도해킹뚫렸다…89명개인정보유출에\"긴급차단·피해전액...",
-  "BNK부산은행도'해킹'…외주개발직원11명개인정보유출정황",
-  "니어프로토콜(NEAR),핵심생태계서400만달러해킹...결국5달러선붕...",
-  "'AI해킹'에은행들뚫렸다",
-  "최태원회장,SK㈜지분9440억원매각…지분율15.5%로낮아져도최대주...",
-  "최태원,SK㈜지분9440억매각…현금화해도경영권은유지",
-  "누구나손쉬운접근‥대규모해킹에'AI도구'활용?",
-  "금융당국,은행·카드사에긴급보안점검지시…“외부노출시스템점...",
   "[종합2]우리·신한·KB국민이어하나·부산은행도개인정보유출",
   "시중은행줄줄이뚫렸다‥국민·하나도개인정보유출",
   "경찰,'은행권전방위AI해킹사건'즉각내사착수",
@@ -6001,7 +5991,17 @@
   "A.I.IsGoingRogue.WhoShouldBeHeldResponsible?",
   "AHackingCompetitionShowsthePowerofChina’sApproachtoA.I.",
   "머스크,메모리부족에테슬라AI칩용량줄였다",
-  "메타,AI경쟁새승부수'뮤즈'…성능넘어'친밀한AI'노린다"
+  "메타,AI경쟁새승부수'뮤즈'…성능넘어'친밀한AI'노린다",
+  "“우리도신인!함께성장할게요”…앳하트서현·나현,6일고척마운드...",
+  "\"3일쉬고대기는당연하지\"102구완봉에이스투혼에아강철감독은너...",
+  "잔여시즌대충치를수없는롯데,'팔꿈치타박'전민재스타팅복귀→...",
+  "5G요금제개편·AI요금제기대…KT주가재평가가능성",
+  "이억원\"AI해킹가능성도\"…금융권에최고수준경각심주문",
+  "이억원“AI활용해킹가능성배제못해…금융권최고수준경각심가...",
+  "이억원“AI활용해킹가능성…금융권보안원점점검”",
+  "웰컴저축은행도해킹'확인'...법인고객정보최대2200건유출",
+  "웰컴저축은행도해킹으로정보유출…법인고객정보2200건추정",
+  "\"금융사해킹사고,동일공격자IP여러곳서발견…AI활용추정\""
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,17 @@
   [
    "2026-10-04T15:26:14.862859+09:00",
    "노린다 성능 뮤즈 친밀한 경쟁 승부수 메타 넘어"
+  ],
+  [
+   "2026-10-04T15:32:16.341244+09:00",
+   "요금제 개편 기대 주가 5G 가능성 재평가 ~KT"
+  ],
+  [
+   "2026-10-04T15:32:16.341244+09:00",
+   "공격자 IP 동일 금융사 발견 추정 곳서 여러 AI활용 해킹사고"
   ]
  ],
- "last_run": "2026-10-04T15:30:47.430940+09:00",
+ "last_run": "2026-10-04T15:32:37.250038+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
