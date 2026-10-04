@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855528",
-  "http://www.paxetv.com/news/articleView.html?idxno=283319",
   "https://www.ngetnews.com/news/articleView.html?idxno=554061",
   "https://www.joongang.co.kr/article/25466748",
   "http://www.seouleconews.com/news/articleView.html?idxno=94124",
@@ -2999,11 +2997,11 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=882580",
   "https://www.yna.co.kr/view/AKR20261004024900002?input=1195m",
   "https://www.mk.co.kr/article/12168024",
-  "https://www.mk.co.kr/article/12168021"
+  "https://www.mk.co.kr/article/12168021",
+  "https://www.joongang.co.kr/article/25467010",
+  "https://zdnet.co.kr/view/?no=20261004123027"
  ],
  "seen_titles": [
-  "MBN뉴스7주요뉴스",
-  "신한ㆍ국민이어하나은행도고객89명정보유출…주민번호포함",
   "하나은행도해커에당했다…89명개인정보유출",
   "우리·NH농협은행도공격의심정황…\"고객정보유출없어\"",
   "신한·KB·하나이어지역은행까지정보유출...은행권'비상'[종합]",
@@ -6001,7 +5999,9 @@
   "국민의힘\"금융권해킹,북한소행가능성포함해조사해야\"",
   "이젠AI로상호금융까지해킹...\"해킹시도훨씬많을수도\"",
   "이억원\"AI활용해킹가능성…금융권최고수준경각심가져야\"",
-  "AI가은행해킹했다고?...“AI로막아라”"
+  "AI가은행해킹했다고?...“AI로막아라”",
+  "“수사해도공격주체파악어렵다…‘AI해킹’보안점검기준필요”",
+  "원재호앵커노드대표\"코딩대신안목,절감대신모험…AI시대,K-게임..."
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,17 @@
   [
    "2026-10-04T14:46:15.024093+09:00",
    "시중은행 해킹사고"
+  ],
+  [
+   "2026-10-04T14:52:15.186913+09:00",
+   "파악 보안점검 어렵다 AI해킹 공격 기준 수사해도 주체 필요"
+  ],
+  [
+   "2026-10-04T14:52:15.186913+09:00",
+   "앵커노드 시대 절감 게임 원재호 대신 코딩 대표 모험 안목"
   ]
  ],
- "last_run": "2026-10-04T14:50:38.429504+09:00",
+ "last_run": "2026-10-04T14:52:42.603160+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
