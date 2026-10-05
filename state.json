@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261001_0003810146",
-  "https://www.cstimes.com/news/articleView.html?idxno=722554",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437241",
   "https://www.cbci.co.kr/news/articleView.html?idxno=611106",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703743",
   "https://zdnet.co.kr/view/?no=20260930072733",
@@ -2999,12 +2996,12 @@
   "https://www.news1.kr/photos/8142791",
   "http://www.yonhapnewstv.co.kr/news/MYH20261005140219ewG",
   "https://www.news1.kr/economy/trend/6310475",
-  "https://www.ytn.co.kr/_ln/0103_202610051357344958"
+  "https://www.ytn.co.kr/_ln/0103_202610051357344958",
+  "https://www.segye.com/newsView/20261004500646?OutUrl=naver",
+  "https://www.sedaily.com/article/20098112",
+  "http://www.metroseoul.co.kr/article/20261005500127"
  ],
  "seen_titles": [
-  "이더리움재단zkAPI메인넷배포,AI결제는익명이지만프롬프트는제...",
-  "\"수익성불투명한10조달러투자\"...월가,AI거품붕괴경고",
-  "태재대'태재미래교육포럼2026'21~22일개최..'AI시대교육이지켜야...",
   "53점동점제미나이4아르곤,GPT-6Astra보다테스트비용낮아",
   "사카나AI\"AI의미래는오케스트레이터것\"…프런티어모델경쟁끝나나",
   "LGCNS,AI'빌려쓰기'넘어SW직접품는다…美제너럴애틀랜틱과공...",
@@ -6001,7 +5998,10 @@
   "시중은행서시작된해킹,2금융권까지번졌다",
   "금융사해킹사고에산업계도긴장…긴급점검착수",
   "[이번주경제]경제부처국정감사…세제·은행해킹·대미투자쟁점",
-  "알리해킹수사도중국계좌에막혀...또'국제공조'변수되나"
+  "알리해킹수사도중국계좌에막혀...또'국제공조'변수되나",
+  "13만원무제한믿었는데…1588고객센터1시간에7128원샌다[숫자뒤의...",
+  "[단독]피해보상신청직접하는거였어?…티빙정보유출1900만명중14%만...",
+  "美신규고용둔화에도韓물가압력…한은의10월금리셈법은?"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,17 @@
   [
    "2026-10-05T14:08:14.493856+09:00",
    "막혀 알리 공조 계좌에 수사도 국제 중국 되나 변수"
+  ],
+  [
+   "2026-10-05T14:10:25.433488+09:00",
+   "정보유출 티빙 직접 신청 1900만명 하는거였어 피해보상"
+  ],
+  [
+   "2026-10-05T14:10:25.433488+09:00",
+   "압력 신규고용 금리 10월 둔화에도 물가 셈법은 한은의"
   ]
  ],
- "last_run": "2026-10-05T14:08:46.327639+09:00",
+ "last_run": "2026-10-05T14:10:51.323812+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
