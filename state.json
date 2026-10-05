@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=599905",
-  "https://www.segye.com/newsView/20261002507748?OutUrl=naver",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448524",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=665740",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437581",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298440",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3713253",
   "http://www.osen.co.kr/article/G1112887688",
   "https://www.topstarnews.net/news/articleView.html?idxno=16238452",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011376"
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011376",
+  "https://www.kyeonggi.com/article/20261005580087",
+  "https://biz.sbs.co.kr/article_hub/20000338276?division=NAVER",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036626"
  ],
  "seen_titles": [
-  "[로펌소식]태평양·고려대로스쿨,7일'최근데이터,AI법이슈의분석...",
-  "가비아해킹,열흘지나도'오리무중'...유출지점·규모도모른다",
-  "SK텔레콤주가,10월2일장중87,700원1.62%상승",
   "한국통신비,세계서제일비싸다?…비교기준따라'극과극'",
   "국감증·참고인277명중기업인102명…포스코·MBK·배민·약손명가까...",
   "9월물가2.9%상승…과일값떨어져도기름값14%대고공행진",
@@ -6001,7 +5998,10 @@
   "제주차귀도해상제7성진호전복…해경,실종자2명수색",
   "“金따니까대충하냐?”이말듣기싫어이악물었다…병역혜택에도...",
   "김소현,'연애박사'첫방송앞두고대본리딩컷공개…故안판석향한...",
-  "KT더그아웃등장한김태형\"걔공좋던데?\"→이강철도\"어제숨은영웅..."
+  "KT더그아웃등장한김태형\"걔공좋던데?\"→이강철도\"어제숨은영웅...",
+  "국회출석피해온MBK김병주…2년연속국감장설까",
+  "[단독]해킹터지자책임자뺀쿠팡…8년만에돌연삭제",
+  "이대통령,금융권해킹사건에\"엄중인식갖고철저조사와대책마련..."
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,17 @@
   [
    "2026-10-05T12:34:16.958181+09:00",
    "한국이 OLED 노트북 독점"
+  ],
+  [
+   "2026-10-05T12:50:21.187714+09:00",
+   "만에 삭제 8년 터지자 돌연 쿠팡 책임자"
+  ],
+  [
+   "2026-10-05T12:50:21.187714+09:00",
+   "대통령 엄중 대책마련 금융권 인식 조사와 사건에 갖고 철저"
   ]
  ],
- "last_run": "2026-10-05T12:48:31.709990+09:00",
+ "last_run": "2026-10-05T12:50:48.543752+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
