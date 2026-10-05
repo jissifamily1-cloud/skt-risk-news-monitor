@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8142025",
   "https://www.hani.co.kr/arti/economy/finance/1280795.html",
   "https://kpenews.com/View.aspx?No=4251624",
   "https://www.news1.kr/photos/8142023",
@@ -2999,10 +2998,10 @@
   "https://www.ekn.kr/web/view.php?key=20261005020542277",
   "https://www.seoul.co.kr/news/economy/2026/10/05/20261005500105?wlog_tag3=naver",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610051707344000459",
-  "https://www.mk.co.kr/article/12168559"
+  "https://www.mk.co.kr/article/12168559",
+  "http://www.sisacast.kr/news/articleView.html?idxno=100690"
  ],
  "seen_titles": [
-  "전오픈AI안전담당자경고...“AI개발속도만집중,원전처럼관리해...",
   "'승승승승승승'삼성,이재현3번투입→김헌곤6번조정…선발라인업...",
   "[굿모닝위즈·138]최고의경기",
   "레이예스·최원준,나란히200안타정조준…사상최초동반대기록나올...",
@@ -6001,7 +6000,8 @@
   "“은행이촘촘히연결될수록”...AI시대,넓어진금융권해킹[뚫려버린...",
   "“내정보털렸나”어디서확인?…금융권‘AI해킹’3대궁금증짚어...",
   "[데스크칼럼]‘AI멸망’을파는사람들",
-  "[MBN]추성훈·김종국·지코의무계획대만행"
+  "[MBN]추성훈·김종국·지코의무계획대만행",
+  "[정책포커스]금융위,사이버공격대응위한'전금융권긴급점검회의'..."
  ],
  "recent_sigs": [
   [
@@ -6483,9 +6483,13 @@
   [
    "2026-10-05T17:26:15.519369+09:00",
    "지코의 무계획 추성훈 대만행 김종국"
+  ],
+  [
+   "2026-10-05T17:28:16.315743+09:00",
+   "점검회의 사이버공격 위한 전금융권 대응 긴급 금융위"
   ]
  ],
- "last_run": "2026-10-05T17:26:39.873668+09:00",
+ "last_run": "2026-10-05T17:28:34.764372+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
