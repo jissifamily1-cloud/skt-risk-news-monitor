@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782604&plink=ORI&cooper=NAVER",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=882579",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=255861",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448600",
   "https://www.sidae.com/article/2026100413263897206",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=81539",
@@ -2999,12 +2996,12 @@
   "https://www.dt.co.kr/article/12087469",
   "https://zdnet.co.kr/view/?no=20261004141857",
   "https://www.tjb.co.kr/news05/bodo/view/id/104397",
-  "https://www.hankyung.com/article/2026100537101"
+  "https://www.hankyung.com/article/2026100537101",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3713416",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3713279",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000019944&cp=nv"
  ],
  "seen_titles": [
-  "李대통령,금융권해킹에\"엄중한인식갖고철저한조사\"",
-  "웰컴저축은행도해킹...법인고객정보유출추정",
-  "[속보]이억원\"금융권침해사고,AI활용해킹공격가능성배제못해...",
   "[속보]이억원“금융권침해사고,AI활용해킹공격가능성배제못해...",
   "웰컴저축은행,해킹공격으로법인고객정보유출",
   "AI해킹사태일파만파…금융당국,전금융권긴급소집",
@@ -6001,17 +5998,12 @@
   "[논설실의서가]뉴스속에숨겨진돈의흐름과투자법",
   "개보위,영국과개인정보보호동등성인정검토착수",
   "[속보]'마법사군단'KT,5년만에정규리그우승…KS직행",
-  "\"독파모,예정대로두팀선발\"…투트랙으로AI생태계구축"
+  "\"독파모,예정대로두팀선발\"…투트랙으로AI생태계구축",
+  "서귀포시,안전성D등급색달동사방댐보강",
+  "제주도,도지사서귀포집무실개방…'서귀포소통마루'운영",
+  "머스크“AI는끝났다,이젠SI”…트럼프한마디에빅테크발맞추기"
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T12:34:16.958181+09:00",
-   "CEO 위험 감수해야 앤트로픽과 혜택"
-  ],
-  [
-   "2026-10-05T12:34:16.958181+09:00",
-   "한국이 OLED 노트북 독점"
-  ],
   [
    "2026-10-05T12:50:21.187714+09:00",
    "만에 삭제 8년 터지자 돌연 쿠팡 책임자"
@@ -6561,7 +6553,7 @@
    "투트랙으로 예정대로 구축 독파모 선발 생태계"
   ]
  ],
- "last_run": "2026-10-05T18:32:35.753436+09:00",
+ "last_run": "2026-10-05T18:34:34.584603+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
