@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434098",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106968",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=7027",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065618330802080",
-  "https://www.yna.co.kr/view/AKR20261003035600530?input=1195m",
-  "https://www.khan.co.kr/article/202610050600091",
-  "https://www.starnewskorea.com/sports/2026/10/05/2026100414553462299",
-  "https://www.abcn.kr/news/articleView.html?idxno=92630",
-  "https://www.xportsnews.com/article/2204204",
   "https://www.joongang.co.kr/article/25467140",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4437505",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100309.html",
@@ -2999,18 +2990,18 @@
   "https://www.yna.co.kr/view/AKR20261005033300546?input=1195m",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=65290",
   "https://biz.sbs.co.kr/article_hub/20000338325?division=NAVER",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=132863"
+  "http://www.efnews.co.kr/news/articleView.html?idxno=132863",
+  "https://www.dt.co.kr/article/12087505",
+  "https://www.greened.kr/news/articleView.html?idxno=351419",
+  "https://www.imaeil.com/page/view/2026100607174634854",
+  "https://www.imaeil.com/page/view/2026100607182687221",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000071032",
+  "https://www.imaeil.com/page/view/2026100607183442882",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=882642",
+  "https://www.etnews.com/20261006000002",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54297"
  ],
  "seen_titles": [
-  "[KLPGA]'메이저퀸'유해란,하이트진로챔피언십제패..한·미메이저...",
-  "\"잠시만요\"대신AI가찾는다···LG유플러스상담사의일하는법이바...",
-  "'알바노더블더블'우승후보DB,소노에95-86승리…삼성도kt누르고...",
-  "KT,의료현장AX로기업AI확장…\"최적AI자동선택기술도경쟁력입증\"",
-  "KT,기업부터소상공인까지'현장AX'확대…채용·마케팅에도AI적용",
-  "KT선수18명아시안게임출전…금3·은2·동2획득",
-  "“일단내놓고고친다?AI재앙부를것”…오픈AI안전총괄사임",
-  "2030년데이터센터4047조원쏟아붓는다…엔비디아협력망올라탄K메모...",
-  "통신3사,10월멤버십혜택경쟁…AI맞춤형부터테마파크할인까지",
   "9월소비자물가상승률다시2%대로...\"추석대책·석유최고가격제영...",
   "하나금융청라헤드쿼터개관…함영주회장“새로운금융의길열겠다”",
   "9월소비자물가2%대회복…\"SKT요금할인효과종료영향\"",
@@ -6001,7 +5992,16 @@
   "[글로컬]'예상된해킹'못막아…금융권다음타깃은",
   "리사수AMD회장,7개월만에방한…한국서'AI동맹'본격확대예고",
   "[마켓브리핑]국채금리상승세에도뉴욕증시일제히상승마감",
-  "이억원\"AI활용해킹가능성...全금융권비상한경각심가져야\""
+  "이억원\"AI활용해킹가능성...全금융권비상한경각심가져야\"",
+  "美리플렉션AI,오픈모델‘빔’공개…“中모델보다가성비앞서”",
+  "최태원회장의9440억원SK지분매각및SK하이닉스솔리다임IPO는\"주...",
+  "오픈AI,EU서챗GPT에AI식별워터마크도입…수주내적용",
+  "오픈AI불량에이전트,위키백과수백만건무단긁어…5월서비스장애...",
+  "오픈AI,챗GPT글에'텍스트워터마크'적용…EUAI법규제대응",
+  "엔비디아주가이틀째사상최고…시총5.76조달러,6조달러3.8%남았다",
+  "엔비디아시총6조달러눈앞에...주가이틀째사상최고치경신",
+  "오픈AI에이전트,또통제벗어나…'위키백과'무단침해",
+  "엔비디아지원리플렉션AI,첫오픈웨이트모델공개"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,17 @@
   [
    "2026-10-06T07:16:15.420076+09:00",
    "막아 금융권 예상된 다음 타깃은"
+  ],
+  [
+   "2026-10-06T07:26:17.593416+09:00",
+   "통제 무단 벗어나 위키백과 침해 에이전트"
+  ],
+  [
+   "2026-10-06T07:26:17.593416+09:00",
+   "오픈웨이트 리플렉션AI 모델 공개 지원"
   ]
  ],
- "last_run": "2026-10-06T07:24:36.714856+09:00",
+ "last_run": "2026-10-06T07:26:39.217113+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
