@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026100321072388678",
-  "https://www.sportschosun.com/baseball/2026-10-04/202610040100024860001487",
-  "https://www.mydaily.co.kr/page/view/2026100323023957249",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3712670",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3712502",
-  "https://www.starnewskorea.com/sports/2026/10/04/2026100320145629477",
-  "https://www.xportsnews.com/article/2203966",
-  "https://www.dailian.co.kr/news/view/1697718/?sc=Naver",
   "https://www.mydaily.co.kr/page/view/2026100320333553175",
   "https://www.inven.co.kr/webzine/news/?news=321763",
   "https://www.xportsnews.com/article/2203859",
@@ -2999,17 +2991,17 @@
   "https://sports.khan.co.kr/article/202610051330003?pt=nv",
   "https://sports.donga.com/sports/article/all/20261005/134786126/1",
   "https://www.sportsworldi.com/newsView/20261005505828",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315669&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1315669&inflow=N",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1412013",
+  "https://www.etnews.com/20261005000110",
+  "https://www.etnews.com/20261005000112",
+  "https://kpenews.com/View.aspx?No=4252052",
+  "https://www.fnnews.com/news/202610051319256516",
+  "https://www.viva100.com/article/20261004500317",
+  "https://www.etnews.com/20261005000111",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2305123"
  ],
  "seen_titles": [
-  "LG유플러스-옵트에이아이,AI모델경량화협력…GPU토큰처리량4배↑",
-  "LGU+,옵트에이아이와AI‘토큰최적화’맞손…토큰량4배향상",
-  "LG유플러스-옵트에이아이토큰최적화기술고도화추진,AI운영효율강...",
-  "LG유플러스,옵트에이아이와'토큰최적화'공동연구",
-  "LG유플러스·옵트에이아이,AI운영효율높이는'토큰최적화'기술확...",
-  "LGU+,옵트에이아이와'토큰최적화'기술공동연구맞손",
-  "LG유플러스,토큰최적화로전기덜먹고응답빠른AI만든다",
-  "\"軍해결해서마음편해졌나\"이강철감독의진단...'ERA6.25→0.90'불펜...",
   "‘롯데→넥센→LG→롯데’왜38살돌연은퇴선언했나…김태형감독,...",
   "레이예스넌안돼,안타안돼!봉쇄작전대성공…최원준195안타→'안...",
   "김태군아크로바틱베이스태그미쳤다…KIA테토남포수가온몸으로...",
@@ -6001,7 +5993,15 @@
   "“편하게하라”고했는데“안됩니다!”…이강철KT감독이소형준바...",
   "“할수있으면해야지”롯데레이예스1번타자기용,최다안타왕도전...",
   "[SW현장]빈관중석걱정하던막내도마침내100만…끝까지뜨거운KBO...",
-  "보험·증권도AI활용침투흔적…금융권해킹위협확산"
+  "보험·증권도AI활용침투흔적…금융권해킹위협확산",
+  "LG유플러스,뱅고와글로벌AI구독확대…'유독'상품강화",
+  "[단독]금융권덮친AI해킹…'1달러'면가능했다",
+  "[이슈플러스]금융권서현실화한AI해킹…전산업보안'비상'",
+  "재계,연휴에도보안긴장..금융권해킹'불똥'튈라",
+  "금융권해킹에증권사도'비상'연휴에도보안점검강화",
+  "시중은행이어제2금융권도뚫렸다…금융권덮친AI해킹‘초비상’",
+  "오픈AI안전담당사임…“AI통제력상실,원전사고보다위험”",
+  "금융권뚫은AI해킹…경제전반확산우려"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,21 @@
   [
    "2026-10-05T13:32:15.480931+09:00",
    "이상 확산에 없다 현재까지 증권업계 금융권 긴장"
+  ],
+  [
+   "2026-10-05T13:44:13.906403+09:00",
+   "보안 산업 금융권서 비상 현실화한"
+  ],
+  [
+   "2026-10-05T13:44:13.906403+09:00",
+   "원전 상실 안전 담당 통제력 사임 사고보다 위험"
+  ],
+  [
+   "2026-10-05T13:44:13.906403+09:00",
+   "확산 뚫은 경제 전반 우려 금융권"
   ]
  ],
- "last_run": "2026-10-05T13:42:31.378220+09:00",
+ "last_run": "2026-10-05T13:44:42.836004+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
