@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610041822264209fbbec65dfb_1",
   "https://www.dailian.co.kr/news/view/1697471/?sc=Naver",
   "https://www.hankookilbo.com/news/article/A2026100207500000412?did=NA",
   "https://biz.heraldcorp.com/article/10891283",
@@ -2999,10 +2998,10 @@
   "https://www.etoday.co.kr/news/view/2632519",
   "https://m.sports.naver.com/basketball/article/065/0000302477",
   "https://www.businesspost.co.kr/BP?command=article_view&num=447882",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678167"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678167",
+  "http://www.inews24.com/view/2011855"
  ],
  "seen_titles": [
-  "금융권해킹‘개별사고’아니다…7개사서동일공격흔적,대통령도...",
   "[사설]AI해킹서막일수도…국가차원의방어막대응해야",
   "'2만5000명대0명'해킹피해왜달랐나…은행별보안격차주목",
   "금융권해킹추정서버서발견된AI도구‘ARTEX’는무엇인가",
@@ -6001,7 +6000,8 @@
   "2026프로야구정규시즌1위확정…가을야구남은순위는?",
   "[26박신자컵]“AG金,계속취해있으면안된다”김성철코치가WKBL현...",
   "[WhoIs?]김영우BC카드대표이사사장",
-  "KT,5년만에정규시즌1위확정…KS직행"
+  "KT,5년만에정규시즌1위확정…KS직행",
+  "티빙·통신3사CISO국감출석…과방위,개인정보유출·보안체계집중..."
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,13 @@
   [
    "2026-10-06T07:06:17.306510+09:00",
    "해킹에 갈랐다 승패 기본기 막아낸 보안 뚫린 좌우"
+  ],
+  [
+   "2026-10-06T07:14:17.293486+09:00",
+   "유출 통신3사 집중 보안체계 개인정보 CISO 국감 티빙 출석 과방위"
   ]
  ],
- "last_run": "2026-10-06T07:12:31.380108+09:00",
+ "last_run": "2026-10-06T07:14:35.548807+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
