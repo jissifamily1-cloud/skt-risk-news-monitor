@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/It/article/all/20261002/134774185/1",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=137347",
-  "https://view.asiae.co.kr/article/2026100210011869058",
-  "https://www.ddaily.co.kr/page/view/2026100210413132940",
-  "https://www.chosun.com/economy/tech_it/2026/10/02/Z3YZYOAZK5EAXGF3D2HC3JVM5A/",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=130568",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=611796",
-  "https://economist.co.kr/article/view/ecn202610020008",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448484",
   "https://www.news2day.co.kr/article/20261002500109",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=253550",
@@ -2999,17 +2991,17 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3713255",
   "https://www.xportsnews.com/article/2204244",
   "https://isplus.com/article/view/isp202610050077",
-  "https://biz.chosun.com/it-science/ict/2026/10/05/PC7CYBWPJNGL5PTY3E4ORNNSDY/"
+  "https://biz.chosun.com/it-science/ict/2026/10/05/PC7CYBWPJNGL5PTY3E4ORNNSDY/",
+  "https://www.kado.net/news/articleView.html?idxno=2076355",
+  "https://www.kwnews.co.kr/article/20261005500336",
+  "https://www.viva100.com/article/20261005500350",
+  "https://www.asiatime.co.kr/article/20261005500047",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677916",
+  "https://www.newsway.co.kr/news/view?ud=2026100513141067004",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315666&inflow=N",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492688"
  ],
  "seen_titles": [
-  "인공지능운영효율높이는기술찾는다",
-  "LG유플러스,옵트에이아이와AI모델최적화…GPU효율높인다",
-  "LGU+,옵트에이아이와토큰최적화기술고도화···AI운영효율강...",
-  "LGU+,AI토큰처리량4배높였다...GPU·전력효율화",
-  "LGU+,AI토큰처리량최대4배…GPU비용절감기술개발",
-  "LG유플러스,같은GPU로AI처리량최대4배높인다…'토큰최적화'승...",
-  "산단공,데이터활용산단정책·사업개선성과이끌어",
-  "LG유플러스,옵트AI와'토큰최적화'기술협력",
   "LG유플러스,옵트에이아이와토큰최적화속도…AI처리량4배로",
   "LGU+·옵트에이아이,AI토큰최적화기술협력",
   "[재계는지금]네이버,해외여행정보탐색경험강화外",
@@ -6001,17 +5993,17 @@
   "'명불허전'진주남강유등축제,'구름인파'몰리며글로벌명품확인",
   "생애첫도루왕눈앞다가왔는데,황성빈갑작스런선발제외'왜?'…전...",
   "[IS수원]안타왕3연패노리는레이예스,리드오프전진배치...'어깨통...",
-  "“출국전에번호받자”…KT재팬,日모바일가입서비스출시"
+  "“출국전에번호받자”…KT재팬,日모바일가입서비스출시",
+  "'온라인주민번호'까지털렸다…6년간주민번호505만건·CI·DI278만건유...",
+  "李대통령,금융기관개인정보유출에“엄중인식,철저조사”",
+  "투자시계빨라진삼성⋯이재용,글로벌네트워크강화AI주도권정조준",
+  "금융권해킹에과기정통부긴급대응…KISC인력보강·24시간가동",
+  "금융권해킹추가피해없어…증권·산업계도긴급점검",
+  "금융권해킹확산에증권사도촉각…보안체계재점검",
+  "AI해킹공격에속수무책금융권…보안전면재검토해야",
+  "금융권해킹확산에증권업계긴장…\"현재까지이상없다\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T07:32:15.372134+09:00",
-   "나선 필요 시대 대응책 대응 맞는"
-  ],
-  [
-   "2026-10-05T07:32:15.372134+09:00",
-   "올해 8개월 만에 7배 지난해 대비 24만건 법원 폭증 전산망 전체"
-  ],
   [
    "2026-10-05T07:40:22.248369+09:00",
    "시민 본선 아이디어 추천부터 돌입 공공주택 12팀 찾기까지 주유소"
@@ -6403,9 +6395,17 @@
   [
    "2026-10-05T13:22:15.201498+09:00",
    "은행권 전방위 해킹당해"
+  ],
+  [
+   "2026-10-05T13:32:15.480931+09:00",
+   "속수무책 보안 AI해킹공격에 재검토해야 금융권 전면"
+  ],
+  [
+   "2026-10-05T13:32:15.480931+09:00",
+   "이상 확산에 없다 현재까지 증권업계 금융권 긴장"
   ]
  ],
- "last_run": "2026-10-05T13:30:54.153734+09:00",
+ "last_run": "2026-10-05T13:32:42.907892+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
