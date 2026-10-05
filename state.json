@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/news-detail/2026100416365681836",
-  "https://www.ytn.co.kr/_ln/0101_202610041644313386",
-  "https://news.jtbc.co.kr/article/NB12321305?influxDiv=NAVER",
-  "https://www.joongang.co.kr/article/25467039",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90014",
   "https://www.econovill.com/news/articleView.html?idxno=752695",
   "https://www.g-enews.com/view.php?ud=2026100416560999463084322ec9_1",
@@ -2999,13 +2995,13 @@
   "https://www.edaily.co.kr/News/Read?newsId=04178726645609968&mediaCodeNo=257",
   "http://www.spochoo.com/news/articleView.html?idxno=130757",
   "https://www.news2day.co.kr/article/20261005500099",
-  "https://www.newspim.com/news/view/20261005000136"
+  "https://www.newspim.com/news/view/20261005000136",
+  "https://www.sportsseoul.com/news/read/1639484",
+  "https://www.khan.co.kr/article/202610052134015",
+  "https://www.idaegu.co.kr/news/articleView.html?idxno=561470",
+  "https://www.yeongnam.com/web/view.php?key=20261005020542570"
  ],
  "seen_titles": [
-  "'이규태선발'개막전나서는김상식감독\"배스는돌아가면서막는다\"",
-  "'195vs195'레이예스결국따라잡혔다,또3번출전→왜타순당기기...",
-  "제72회백제문화제(사비/부여)개막...'아름다운백제,빛나는사비'",
-  "LG유플러스,U+BOOSTUS우수크리에이터에생성형AI교육",
   "KT소속선수18명,아시안게임서선전…금3·은2·동2획득",
   "KT,아시안게임국가대표18명출전…금3·은2·동2획득",
   "LG유플러스,콘텐츠파트너'부스터스'교육지원…구글제미나이실습",
@@ -6001,21 +5997,13 @@
   "[포토]김재희,핀방향확인",
   "창단첫100만관중달성한날정규시즌우승까지…KT위즈,5년만에한...",
   "[마켓인사이드]스타링크가바꾸는하늘위인터넷…항공여행의틀을깨...",
-  "[대만특징주]폭스콘,3분기매출47%급증…AI인프라투자열기여전"
+  "[대만특징주]폭스콘,3분기매출47%급증…AI인프라투자열기여전",
+  "금융권해킹IP,올해1월에도접속시도…토스뱅크1년치점검서확인",
+  "군,DMZ지뢰지대폭파로첫군사적대응",
+  "금융권덮친'AI해킹'…증권가·산업계도비상",
+  "“보안에수백억투입했는데도뚫리면…”금융권AI해킹에고객불안..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T15:56:16.658487+09:00",
-   "핵심망 파고든 옆문 철통 AI가 대신 노렸다 약한고리"
-  ],
-  [
-   "2026-10-05T15:56:16.658487+09:00",
-   "저주 카산드라의"
-  ],
-  [
-   "2026-10-05T15:56:16.658487+09:00",
-   "터졌다 드디어 엔씨 스팀에서"
-  ],
   [
    "2026-10-05T15:58:18.094628+09:00",
    "개인정보 피해 금융권 안전한가"
@@ -6429,7 +6417,7 @@
    "매출 인프라 3분기 열기 여전 투자 급증 폭스콘"
   ]
  ],
- "last_run": "2026-10-05T21:54:34.597546+09:00",
+ "last_run": "2026-10-05T21:56:36.278135+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
