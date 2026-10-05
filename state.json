@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855516",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81537",
-  "https://www.newscj.com/news/articleView.html?idxno=3437726",
-  "https://zdnet.co.kr/view/?no=20261003235013",
-  "https://www.mk.co.kr/article/12167921",
-  "http://www.yonhapnewstv.co.kr/news/MYH202610041001459aI",
-  "https://sports.khan.co.kr/article/202610040958003?pt=nv",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261004100120LPA",
-  "https://www.ddaily.co.kr/page/view/2026100301265253111",
   "https://www.businessplus.kr/news/articleView.html?idxno=117690",
   "https://www.yna.co.kr/view/AKR20261004011700075?input=1195m",
   "https://www.nocutnews.co.kr/news/6586919",
@@ -2999,16 +2990,18 @@
   "https://www.mk.co.kr/article/12168499",
   "https://www.aitimes.com/news/articleView.html?idxno=215966",
   "https://www.munhwa.com/article/11620927",
-  "http://www.inews24.com/view/2011367"
+  "http://www.inews24.com/view/2011367",
+  "https://www.newsgn.com/news/articleView.html?idxno=577545",
+  "https://www.hellot.net/news/article.html?no=115291",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677952",
+  "https://www.mt.co.kr/finance/2026/10/05/2026100515231383866",
+  "https://www.etnews.com/20261005000124",
+  "https://www.etnews.com/20261005000123",
+  "https://www.ytn.co.kr/_ln/0103_202610051644575218",
+  "https://www.etnews.com/20261005000120",
+  "https://www.etnews.com/20261005000122"
  ],
  "seen_titles": [
-  "금융권동시다발해킹…핵심금융망보다'주변부'노렸다",
-  "법원해킹시도올해1∼8월에만24만건…지난해전체1.7배",
-  "계속되는해킹사고에...금융당국,오늘긴급회의한다",
-  "KT,42년간꾸준히이어온스포츠육성'2026아시안게임'서'결실'",
-  "KT,아시안게임5개종목출전···금3·은2·동2획득",
-  "엔비디아,AI안전논의전면에…미국정부와'자율규범'시험대",
-  "[AI위클리]AI경쟁기준달라졌다…'성능'넘어'실행'으로",
   "‘연애박사’된추영우,김소현과맵싹로맨스…연애세포깨울까[MK★...",
   "[테크포커스]\"모셔올땐언제고석달만에방출\"…메타,AI안전전문...",
   "AI에이전트사고치자...'조사에만하루50만달러'",
@@ -6001,7 +5994,14 @@
   "매일매일투자고민중인당신에게…경제를읽고富늘리는비법풉니다",
   "아마존,11조규모AI칩투자자에매각후리스…재무부담낮춘다",
   "엔트로픽창업자,‘인형’을자문위원으로뒀다…AI기업창업자의‘...",
-  "\"침대뭐살까\"AI에물었더니…시몬스1위"
+  "\"침대뭐살까\"AI에물었더니…시몬스1위",
+  "AI해커의습격…5대시중은행이어2금융권까지'뚫렸다'",
+  "[산업AIEXPO프리뷰]제조AI⑯|케이에스텍,생산계획AI로공장일...",
+  "‘북한지뢰대응’NSC서논의…사이버분야독자제재등검토",
+  "고객2차피해가능성적지만…금융권덮친해킹'예고편'일수도",
+  "[포토]연휴기간은행권해킹으로금융보안비상",
+  "경찰,'금융권해킹'연휴내내내사...중수청통보는아직",
+  "[포토]연휴기간은행권해킹"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-10-05T16:46:16.768652+09:00",
    "출시 안전 재점화 논쟁 우선 속도전 연구보다 모델"
+  ],
+  [
+   "2026-10-05T16:52:16.055513+09:00",
+   "은행권 연휴기간"
   ]
  ],
- "last_run": "2026-10-05T16:50:45.518608+09:00",
+ "last_run": "2026-10-05T16:52:34.121670+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
