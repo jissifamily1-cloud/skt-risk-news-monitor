@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://weekly.donga.com/3/all/11/6404836/1",
-  "https://www.yna.co.kr/view/AKR20261003045000001?input=1195m",
-  "https://www.g-enews.com/view.php?ud=202610040630482231fbbec65dfb_1",
-  "https://www.sportsworldi.com/newsView/20261004500110",
-  "https://www.ddaily.co.kr/page/view/2026100214295481205",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008782231&plink=ORI&cooper=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6855642_37012.html",
-  "https://www.yna.co.kr/view/AKR20261002071200073?input=1195m",
-  "http://www.osen.co.kr/article/G1112887169",
-  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376194",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000070759",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011247",
   "https://www.vegannews.co.kr/news/article.html?no=391226",
@@ -2999,19 +2989,19 @@
   "https://www.medigatenews.com/news/3188312930",
   "https://www.gametoc.co.kr/news/articleView.html?idxno=111981",
   "https://www.news1.kr/finance/general-finance/6310497",
-  "https://www.jbnews.com/news/articleView.html?idxno=1512839"
+  "https://www.jbnews.com/news/articleView.html?idxno=1512839",
+  "https://www.bigtanews.co.kr/article/view/big202610050003",
+  "https://www.newscj.com/news/articleView.html?idxno=3437939",
+  "https://www.newscj.com/news/articleView.html?idxno=3437940",
+  "https://www.pennmike.com/news/articleView.html?idxno=128977",
+  "https://www.newscj.com/news/articleView.html?idxno=3437937",
+  "https://www.donga.com/news/Economy/article/all/20261005/134786576/1",
+  "https://www.munhwa.com/article/11621430",
+  "https://www.newscj.com/news/articleView.html?idxno=3437936",
+  "https://www.newscj.com/news/articleView.html?idxno=3437938",
+  "https://www.segye.com/newsView/20261005507852?OutUrl=naver"
  ],
  "seen_titles": [
-  "머스크\"스페이스X9월AI매출,우주·통신넘는다\"호언장담...실현은...",
-  "[주간보안동향]해킹반복시매출3%과징금…정보통신망법10월1일시...",
-  "정재헌SKT대표\"무너졌던고객믿음1년만에되찾아\"",
-  "中,ASML'액침DUV'340대싹쓸이비축에美'전면금수'압박고조",
-  "삼성전자실적앞둔코스피…반도체훈풍에‘7000피’지킬까",
-  "삼성전자,분기영입이익100조시대'예약'…이번주3Q실적발표",
-  "[재계인사이드]최태원회장의재상고심,사실상‘SK실트론재판’",
-  "고영표의완봉쇼,kt매직넘버'4'",
-  "[현장포커스]찬바람불면식어버리는오스틴…LG가걱정하는'가을징...",
-  "AI로뚫고AI로막는다…해킹도‘AI전쟁’",
   "\"가짜느낌지우고패권잡는다\"…트럼프가AI를'SI'로재정의한이유",
   "中,AI최고급인재빨아들이는블랙홀?[김규환의핸디차이나]",
   "엔씨'아이온2글로벌'스팀서대박…김택진표글로벌전략통했다",
@@ -6001,7 +5991,17 @@
   "[미래헬스케어트렌드]의사가직접AI만드는시대…황성일교수\"병원...",
   "엔씨드디어스팀에서터졌다",
   "철통핵심망대신'옆문'노렸다…AI가파고든'약한고리'[AI해킹쇼크]...",
-  "[세상의눈]카산드라의저주"
+  "[세상의눈]카산드라의저주",
+  "“영업시간단축,보안은엉망”",
+  "[포토]잇따른해킹공격에금융권'비상'",
+  "[포토]잇따른해킹공격에줄줄이뚫린금융권",
+  "[막전막후]박지원,\"금융권AI해킹,북한개입가능성배제못해\"…조현...",
+  "[포토]잇따른금융권해킹'개인정보안전한가?'",
+  "“사이트별비번다르게”…은행권해킹에시민들비번변경자구책",
+  "“금융사해킹사고,동일IP사용확인…AI활용추정”",
+  "[포토]잇따른금융권해킹피해",
+  "[포토]금융권해킹피해'개인정보안전한가?'",
+  "박지원“국정원에AI해킹대비‘○○○프로젝트’,적극활용해야”"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,17 @@
   [
    "2026-10-05T15:56:16.658487+09:00",
    "터졌다 드디어 엔씨 스팀에서"
+  ],
+  [
+   "2026-10-05T15:58:18.094628+09:00",
+   "개인정보 피해 금융권 안전한가"
+  ],
+  [
+   "2026-10-05T15:58:18.094628+09:00",
+   "프로젝트 박지원 적극 대비 AI해킹 국정원에 활용해야"
   ]
  ],
- "last_run": "2026-10-05T15:56:39.723964+09:00",
+ "last_run": "2026-10-05T15:58:42.305360+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
