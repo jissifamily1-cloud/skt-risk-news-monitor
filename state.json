@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855557",
-  "https://www.kado.net/news/articleView.html?idxno=2076316",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077400",
-  "https://www.yna.co.kr/view/AKR20261004022400002?input=1195m",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437723",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337502",
-  "https://www.smarttoday.co.kr/ko-kr/articles/112268",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610040030&t=NN",
   "https://www.kbmaeil.com/article/20261004500092",
   "https://kpenews.com/View.aspx?No=4251670",
@@ -2999,16 +2992,16 @@
   "https://economist.co.kr/article/view/ecn202610040011",
   "https://www.nytimes.com/es/2026/10/04/espanol/opinion/ai-no-humana.html?partner=naver",
   "https://www.sedaily.com/article/20098212",
-  "https://biz.heraldcorp.com/article/10893398"
+  "https://biz.heraldcorp.com/article/10893398",
+  "https://www.aitimes.com/news/articleView.html?idxno=215961",
+  "https://www.mt.co.kr/future/2026/10/05/2026100515052465813",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1726717",
+  "https://www.pennmike.com/news/articleView.html?idxno=128978",
+  "https://www.hankyung.com/article/2026100537111",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744890",
+  "https://www.sidae.com/article/2026100513453887273"
  ],
  "seen_titles": [
-  "李대통령,금융·공공기관개인정보유출사고에철저한조사지시",
-  "李대통령,금융기관개인정보유출에\"철저조사·대책마련\"지시",
-  "법원전산망해킹시도급증…8개월만에작년전체1.7배",
-  "이대통령,은행권AI해킹에\"엄중한인식갖고철저한조사…대책마...",
-  "이대통령,금융기관해킹사고에“철저히조사하고대책마련하라”",
-  "시중은행·저축은행이어여신사도해킹...李대통령\"철저조사·대책...",
-  "李대통령,금융권해킹사건에\"엄중한인식…철저조사·대책마련\"지...",
   "캐피달·저축은행까지번졌다...금융권덮친‘해킹도미노’",
   "루멘텀,OCP글로벌서밋서AI광네트워크기술전면에…CPO·VCSEL·OCS집...",
   "국내금융권공격서포착된'AI해킹도구'…\"글로벌인프라만359개\"",
@@ -6001,7 +5994,14 @@
   "'최태원과나란히'김희영,한복차림으로뉴욕공식석상올라…파기환...",
   "Soncomputadoras:dejemosdehablardelaIAcomosifuerahumana",
   "美규제허점틈타액침DUV343대비축…“中,7나노AI칩생산기반확...",
-  "리사수한국다시찾는다…AMD,韓AI협력확대기대감"
+  "리사수한국다시찾는다…AMD,韓AI협력확대기대감",
+  "GPT-6아스트라,217년된나폴레옹암호6시간만에해독",
+  "프롭테크·방산에'뭉칫돈'…이번주스타트업투자도'훈풍'",
+  "AMD리사수CEO방한…'게이머데이'참석",
+  "경북도,미유타주·유타대와AI·반도체협력…글로벌시장진출교두...",
+  "한컴AI'노마디안'에美액티브펀드러브콜",
+  "[AI리포트]한국AGI의골든타임···'AI속도조절론'이규제장벽되기...",
+  "[사설]금융권에한전까지…'AI해킹사태'국가시스템위기다"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-10-05T17:58:16.725288+09:00",
    "은행장 3분기도 인선 금융지주 변수로 호실적 연쇄"
+  ],
+  [
+   "2026-10-05T18:04:16.785768+09:00",
+   "위기다 한전까지 금융권에 국가시스템 사태"
   ]
  ],
- "last_run": "2026-10-05T18:02:35.191590+09:00",
+ "last_run": "2026-10-05T18:04:40.521546+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
