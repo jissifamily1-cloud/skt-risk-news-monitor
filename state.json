@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3712607",
-  "https://www.dkilbo.com/news/articleView.html?idxno=556138",
-  "https://imnews.imbc.com/news/2026/econo/article/6855591_36932.html",
-  "https://www.slist.kr/news/articleView.html?idxno=770824",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726669",
-  "https://www.ytn.co.kr/_ln/0102_202610031805291900",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171396",
-  "https://www.ytn.co.kr/_ln/0103_202610031821265460",
   "https://sports.khan.co.kr/article/202610031836003?pt=nv",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011207",
   "https://www.news1.kr/sports/general-sport/6309912",
@@ -2999,17 +2991,17 @@
   "https://www.aitimes.com/news/articleView.html?idxno=215968",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000070910",
   "https://www.cbci.co.kr/news/articleView.html?idxno=612202",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=762756"
+  "https://www.mhns.co.kr/news/articleView.html?idxno=762756",
+  "https://www.dailian.co.kr/news/view/1697865/?sc=Naver",
+  "https://www.newsis.com/view/NISX20261005_0003814311",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=365790",
+  "https://www.socialvalue.kr/news/view/1065579837995727",
+  "https://www.m-i.kr/news/articleView.html?idxno=2002630",
+  "https://www.dt.co.kr/article/12087377",
+  "https://www.dt.co.kr/article/12087375",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=744875"
  ],
  "seen_titles": [
-  "5대은행이어저축은행·캐피탈도뚫렸다⋯금융권덮친'해킹공포'",
-  "“이번엔현대캐피탈?”AI활용해킹추정…주택대출모집인개인정보...",
-  "울산동구,'제30회노인의날'노인복지관합동기념식개최",
-  "AI로무장한해커금융권공격…‘자동화·동시다발’위협현실로",
-  "현대캐피탈서주택대출받을랬더니…146명개인정보털렸다",
-  "금융권해킹비상…현대캐피탈·예가람저축은행도정보유출",
-  "사이버해킹동시다발터지는데…“KISA조사인력,대형사고에중복투...",
-  "'고영표완봉쇼'kt매직넘버'4'…6연승삼성,최소2위확보(종합)",
   "시중은행이어저축은행·캐피탈도뚫렸다…AI해킹공포,2금융권확산",
   "6대은행이어저축은행·캐피탈까지…AI추정해킹전방위확산",
   "현대캐피탈도해킹피해…대출모집인정보유출",
@@ -6001,7 +5993,15 @@
   "오픈AI'에이전트폭주'에사면초가...전세계서법적·규제경고폭풍",
   "수천만명정보해외로털리는데…개보위'유출차단'명령은0건",
   "[테크포커스]인형탈쓴닷츠·졸리·클로드…아이들빠져들게만드는...",
-  "[박근종칼럼]국가안보위협하는금융권AI해킹,범국가적민·관합..."
+  "[박근종칼럼]국가안보위협하는금융권AI해킹,범국가적민·관합...",
+  "\"AI시대에도사람잇는건목소리\"…LGU+대표가밝힌'인간중심AI'",
+  "LGU+,구독플랫폼'유독'에해외AI서비스순차확대",
+  "LG유플러스-뱅고,'유독'에AI·콘텐츠서비스도입확대협력",
+  "해외AI도‘유독’에서한번에…LG유플러스,구독상품확대",
+  "LG유플러스,'유독'해외AI유통창구로…신규서비스도입속도",
+  "한국서日알뜰폰미리가입한다…KT재팬,‘tt모바일’출시",
+  "KT,가을산불철앞두고통신재난대응체계점검",
+  "엔비디아최고가·테슬라깜짝인도량,믿고가도되나"
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,13 @@
   [
    "2026-10-05T11:24:14.885207+09:00",
    "수천만 명령은 털리는데 0건 차단 유출 해외로 정보"
+  ],
+  [
+   "2026-10-05T11:30:29.690463+09:00",
+   "믿고 가도 테슬라 깜짝 최고가 인도량 되나"
   ]
  ],
- "last_run": "2026-10-05T11:28:35.649174+09:00",
+ "last_run": "2026-10-05T11:30:51.088669+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
