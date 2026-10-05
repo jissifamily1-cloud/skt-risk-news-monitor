@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12087247",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261003.99099000615",
-  "https://www.mt.co.kr/finance/2026/10/03/2026100316234333532",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000070715",
-  "https://www.yna.co.kr/view/AKR20261003038100002?input=1195m",
-  "https://www.fnnews.com/news/202610031609525119",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261003.99099000614",
-  "https://biz.sbs.co.kr/article_hub/20000338224?division=NAVER",
   "https://vop.co.kr/A00001696952.html",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008780621&plink=ORI&cooper=NAVER",
   "http://www.osen.co.kr/article/G1112886928",
@@ -2999,17 +2991,17 @@
   "http://www.metroseoul.co.kr/article/20261005500038",
   "https://www.thepublic.kr/news/articleView.html?idxno=321093",
   "https://www.eroun.net/news/articleView.html?idxno=91281",
-  "https://www.dailian.co.kr/news/view/1697347/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1697347/?sc=Naver",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223057",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6905",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6904",
+  "https://view.asiae.co.kr/article/2026100510274067991",
+  "https://view.asiae.co.kr/article/2026100510271857593",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4110300",
+  "http://www.inews24.com/view/2011744",
+  "https://www.news1.kr/it-science/security-hacking/6310376"
  ],
  "seen_titles": [
-  "AI해킹에은행웹페이지뚫려…외주직원11명개인정보유출",
-  "은행권연이어해킹...예가람저축은행도고객정보유출",
-  "예가람저축은행해킹당했다…고객4만명개인정보유출",
-  "예가람저축은행도해킹…이름·연락처등개인정보유출",
-  "[웜업터뷰]'현대모비스상대7연승중'유도훈감독\"토마스무릎에통...",
-  "[포토]고영표,승리향한무실점행진",
-  "[포토]고영표,완벽한무실점행진",
-  "이스라엘총리\"플라이두바이여객기내공격자,급진사상영향받아\"",
   "영화보러칠성통가던시절…제주옛극장추억만나다",
   "[스타트업모닝커피1409회]글로벌알파미디어,지보로해외환자의의료...",
   "예가람저축은행도고객정보유출…성명·생년월일·연락처샜다",
@@ -6001,7 +5993,15 @@
   "KT재팬,'티티모바일'출시…日장기체류고객편의성높여",
   "KT,충청권기업대상AX세미나개최…AI·클라우드활용전략공유",
   "거미줄공중케이블싹치운다…포항시,한전·통신사와정비협의체구...",
-  "[현장]인당11만원손실에도페이백공세…이통3사자회사,알뜰폰말..."
+  "[현장]인당11만원손실에도페이백공세…이통3사자회사,알뜰폰말...",
+  "2026년10월5일매일경제1면…'AI해커'1인에초토화된韓금융[아침...",
+  "이억원,금융권에\"AI기반보안체계전환속도내달라\"[전문]",
+  "신한·국민·하나등은행7곳연쇄정보유출...\"AI로공격\"",
+  "'철통보안'내세웠지만…은행'보안사각지대'뚫렸다",
+  "금융사고3년가까이몰랐다…91건은한달지나서인지",
+  "금융권해킹피해전방위확산...긴급보안전검",
+  "과기정통부,금융권연이은해킹에24시간비상대응체계가동",
+  "금융권덮친'AI해킹'…'독파모'중단설·AGLoL2연패[뉴스잇(IT)쥬]"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-10-05T10:30:27.537850+09:00",
    "트럼프 SIF 전격 패권 전쟁의 출범 포스 슈퍼 인텔리전스 2기"
+  ],
+  [
+   "2026-10-05T10:40:22.247426+09:00",
+   "중단설 AG LoL 덮친 2연패 금융권 독파모"
   ]
  ],
- "last_run": "2026-10-05T10:38:30.318890+09:00",
+ "last_run": "2026-10-05T10:40:46.747375+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
