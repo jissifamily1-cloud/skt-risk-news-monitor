@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=765205",
-  "https://zdnet.co.kr/view/?no=20261003230207",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492506",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318635",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726632",
-  "https://www.dailian.co.kr/news/view/1697711/?sc=Naver",
-  "https://www.news1.kr/it-science/cc-newmedia/6310005",
   "https://www.aitimes.com/news/articleView.html?idxno=215847",
   "https://www.globale.co.kr/news/articleView.html?idxno=40770",
   "https://www.businessplus.kr/news/articleView.html?idxno=117678",
@@ -2999,16 +2992,16 @@
   "https://www.joongang.co.kr/article/25467208",
   "https://www.ajunews.com/view/20261005160404868",
   "http://www.metroseoul.co.kr/article/20261005500227",
-  "https://www.aitimes.com/news/articleView.html?idxno=215969"
+  "https://www.aitimes.com/news/articleView.html?idxno=215969",
+  "https://www.kado.net/news/articleView.html?idxno=2076409",
+  "https://biz.heraldcorp.com/article/10893357",
+  "https://www.joongang.co.kr/article/25467210",
+  "http://www.lawissue.co.kr/view.php?ud=20261005160854764307f28b58b8_12",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=366644",
+  "https://view.asiae.co.kr/article/2026100516113158601",
+  "https://www.newsis.com/view/NISX20261005_0003814488"
  ],
  "seen_titles": [
-  "AI투자폭발한시대…엔비디아에쏠린기대,이제는'성과'가관건",
-  "정재헌SKT대표“고객신뢰에더나은서비스로보답”",
-  "고객만족도1위되찾은SKT\"더높은기준세울것\"",
-  "BeholdtheParagonsofRankIncompetence",
-  "유엔총회끝났는데…이란대표단쫓겨났나자진출국했나신경전",
-  "‘개인정보유출’금융권전방위확산...당국\"공동대응\"",
-  "“정책방패든與,실정창꺼낸野”...막오르는李정부2년차국감",
   "[AI해킹]현대캐피탈도AI추정해킹에뚫렸다…주택대출모집인146명...",
   "\"배송일지정믿었는데감감무소식\"...9월소비자민원,명절상품품질...",
   "인공지능에지배당하는월가…10월5일컴퓨트선물상장과몰려오는대...",
@@ -6001,7 +5994,14 @@
   "“현금만써야하나”대규모유출사건범인못찾고이젠은행까지…...",
   "AI서버붐탄솔리다임,대만SSD위탁생산거점확대",
   "오픈AI·앤트로픽·구글직원잇단퇴사…AI개발속도·안전문제경고",
-  "챗GPT서옷입어보고쇼핑한다...오픈AI,'가상착용'도입"
+  "챗GPT서옷입어보고쇼핑한다...오픈AI,'가상착용'도입",
+  "NSC서'북한사이버독자제재'제시…DMZ지뢰폭발대응놓고이견",
+  "‘北지뢰대응’NSC서격론…조현·정동영의견충돌",
+  "국제표준도AI해킹엔무용…“보안책임자개인기로는못막는다”",
+  "금융권잇단해킹사태에증권업계도'긴장'\"휴일도없다\"",
+  "금융권덮친AI해킹…산업계까지보안점검2만8000곳확대",
+  "AI해킹고도화되는데…5년간금융사고2189건,금융권'속수무책'",
+  "재계,해킹'불똥'차단분주…\"외부노출자산·취약점긴급점검\""
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-10-05T16:18:17.369075+09:00",
    "도입 챗GPT서 가상 쇼핑한다 착용 입어보고"
+  ],
+  [
+   "2026-10-05T16:20:23.357461+09:00",
+   "차단 긴급 점검 노출 자산 취약점 외부 재계 분주 불똥"
   ]
  ],
- "last_run": "2026-10-05T16:18:38.629303+09:00",
+ "last_run": "2026-10-05T16:20:41.230615+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
