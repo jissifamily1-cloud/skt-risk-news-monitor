@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/10/01/science/hackerone-tenzai-china-open-weights.html?partner=naver",
-  "https://www.chosun.com/economy/tech_it/2026/10/04/ZROYGHOE55CVPHMNXTAAFVAH24/",
-  "https://www.jemin.com/news/articleView.html?idxno=843815",
   "https://www.sportsseoul.com/news/read/1639295",
   "https://www.starnewskorea.com/sports/2026/10/04/2026100414231250244",
   "https://www.xportsnews.com/article/2204104",
@@ -2999,12 +2996,12 @@
   "https://www.kyeongin.com/article/1772006",
   "https://www.kyeonggi.com/article/20261005580130",
   "https://tk.newdaily.co.kr/site/data/html/2026/10/05/2026100500095.html",
-  "https://www.ytn.co.kr/_ln/0102_202610041502117248"
+  "https://www.ytn.co.kr/_ln/0102_202610041502117248",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6855842_37004.html",
+  "https://news.jtbc.co.kr/article/NB12321466?influxDiv=NAVER",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553680"
  ],
  "seen_titles": [
-  "[속보]이억원금융위원장\"'AI해킹'최고경각심…대처소홀또털리면...",
-  "배당부터AI·데이터센터까지…SK텔레콤주가오를재료쏟아진다",
-  "[영상]AI반도체주식,지금사도될까?…ETF국내최고전문가의조언",
   "정부'AI해킹'휴일긴급대응:대통령'철저조사'당부했고,이억원...",
   "\"삼전닉스얼마나받길래…\"엔비디아직원들술렁인이유[시선'칩'중(...",
   "주주환원늘어난다…LG유플러스,금리하락이핵심변수",
@@ -6001,13 +5998,12 @@
   "아시안게임이남긴것들[백효은기자의백점만점나고야]",
   "고양시,항공우주·의료바이오·AI삼각축으로자족도시도약",
   "경북도,미국유타와AI·반도체협력…지역기업글로벌진출지원",
-  "잇따른해킹사고에오늘긴급회의소집...\"최고수준경각심가져야\"[..."
+  "잇따른해킹사고에오늘긴급회의소집...\"최고수준경각심가져야\"[...",
+  "\"북한,사과하고지뢰제거해야\"‥후속제재도검토",
+  "신한은행해킹범토스뱅크도노렸다…토스뱅크\"시도차단\"",
+  "[단독]“지금도유사해킹공격”…대비방법은?"
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T14:06:15.055940+09:00",
-   "최소 역대 맹추격 딥시크 격차"
-  ],
   [
    "2026-10-05T14:08:14.493856+09:00",
    "번졌다 2금융권까지 시작된 시중은행서"
@@ -6515,9 +6511,17 @@
   [
    "2026-10-05T19:26:18.462491+09:00",
    "값진 안방서 ~KT 챔피언 팬들과 축배"
+  ],
+  [
+   "2026-10-05T20:06:16.673568+09:00",
+   "토스뱅크 차단 신한은행 시도 해킹범 토스뱅크도 노렸다"
+  ],
+  [
+   "2026-10-05T20:06:16.673568+09:00",
+   "공격 방법은 유사 지금도 대비"
   ]
  ],
- "last_run": "2026-10-05T20:04:38.715166+09:00",
+ "last_run": "2026-10-05T20:06:43.447575+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
