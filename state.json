@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026100413310000038?did=NA",
-  "https://www.g-enews.com/view.php?ud=20261004135610274724debea800_1",
-  "https://biz.chosun.com/stock/finance/2026/10/04/BZ6MREVR2FEQRE6WTOZAZEWGW4/",
-  "https://weekly.khan.co.kr/article/202610041402001",
-  "http://www.globalepic.co.kr/view.php?ud=2026100413561447077cc35ccc5c_29",
-  "https://www.dt.co.kr/article/12087279",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360057",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011291",
   "https://www.ytn.co.kr/_ln/0134_202610041403186976",
   "https://www.segye.com/newsView/20261004504800?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3713403",
   "https://www.ajunews.com/view/20261002161218412",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=360086",
-  "https://www.sedaily.com/article/20098229"
+  "https://www.sedaily.com/article/20098229",
+  "https://www.joongang.co.kr/article/25467239",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/05/2026100590098.html",
+  "https://www.busan.com/view/busan/view.php?code=2026100518093804233",
+  "https://www.segye.com/newsView/20261005508905?OutUrl=naver",
+  "https://www.yna.co.kr/view/AKR20261004042751002?input=1195m",
+  "https://www.sedaily.com/article/20098230",
+  "https://www.hankookilbo.com/news/article/A2026100511170001069?did=NA"
  ],
  "seen_titles": [
-  "이재명대통령,금융·공공기관개인정보유출에“철저조사·대책마련...",
-  "이재명\"금융기관개인정보유출,엄중하게인식하고철저하게조사해야...",
-  "李대통령\"금융·공공기관개인정보유출철저조사\"지시",
-  "이대통령,금융사AI통한개인정보유출에\"엄중인식,철저조사\"",
-  "[뉴스클레임사설]은행보안뚫리면다뚫린다",
-  "웰컴저축은행도정보유출확인…법인고객정보2천200건추정",
-  "李대통령,금융·공공기관개인정보유출에\"철저한조사·대책마련\"",
   "쉴새없는李대통령'X',추석이후특유의'공격형'으로돌아왔다",
   "李대통령,금융기관전방위AI해킹공격에\"엄중인식,대책마련만전...",
   "李대통령,금융권해킹사고에\"엄중인식,철저조사\"",
@@ -6001,7 +5994,14 @@
   "2026트랜스제주,역대최대참가…고민철148㎞2연패",
   "[단독]국민성장펀드집행내역살펴보니…AI·반도체에32.7%'집중',미래...",
   "LG유플러스,구글코리아서크리에이터AI제작교육",
-  "‘FAIL’떠도알아서해킹루트개척…“공항·발전소도이미사정권”"
+  "‘FAIL’떠도알아서해킹루트개척…“공항·발전소도이미사정권”",
+  "메일한통에정보뚫렸다…“AI비서는사생활재앙”보안구루의경...",
+  "금융권잇단해킹에증권업계도연휴비상근무",
+  "‘정보보호100점’자랑하던은행들,AI해킹에‘머쓱’",
+  "2만5000건대0건…해킹피해가른건‘망분리·AI방어체계’[AI發...",
+  "온투업까지손뻗은해킹…'보안기본기'가피해여부갈랐다(종합)",
+  "‘작계5015’털어간지10년…北‘AI가짜보고서’로해킹고도화",
+  "보안취약점파고든'해킹비즈니스'등장...구독형피싱서비스까지..."
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,25 @@
   [
    "2026-10-05T18:14:51.443568+09:00",
    "개척 발전소도 사정권 이미 루트 알아서 떠도 FAIL 공항"
+  ],
+  [
+   "2026-10-05T18:18:16.966546+09:00",
+   "가른 체계 분리 2만5000건 0건 피해 방어"
+  ],
+  [
+   "2026-10-05T18:18:16.966546+09:00",
+   "갈랐다 온투업까지 여부 보안 뻗은 피해 기본기"
+  ],
+  [
+   "2026-10-05T18:18:16.966546+09:00",
+   "고도화 작계 가짜보고서 털어간 10년"
+  ],
+  [
+   "2026-10-05T18:18:16.966546+09:00",
+   "취약점 비즈니스 등장 피싱 보안 파고든 서비스까지 구독형"
   ]
  ],
- "last_run": "2026-10-05T18:16:34.053121+09:00",
+ "last_run": "2026-10-05T18:18:48.014615+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
