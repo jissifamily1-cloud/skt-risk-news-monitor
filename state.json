@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1240973",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705004",
-  "https://www.newsis.com/view/NISX20261005_0003814176",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90051",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445272",
-  "https://www.dailian.co.kr/news/view/1697840/?sc=Naver",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705005",
   "https://www.viva100.com/article/20261005500123",
   "https://www.ziksir.com/news/articleView.html?idxno=148297",
   "https://www.boannews.com/news/articleView.html?idxno=146193",
@@ -2999,16 +2992,16 @@
   "http://www.joynews24.com/view/2011880",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/06/2026100690040.html",
   "https://www.dailian.co.kr/news/view/1697986/?sc=Naver",
-  "https://www.dailian.co.kr/news/view/1697980/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1697980/?sc=Naver",
+  "https://www.pressian.com/pages/articles/2026100608360037771",
+  "http://www.segyebiz.com/newsView/20261006502945?OutUrl=naver",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315711&inflow=N",
+  "https://biz.heraldcorp.com/article/10893610",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145277",
+  "https://www.dt.co.kr/article/12087515",
+  "https://biz.heraldcorp.com/article/10893604"
  ],
  "seen_titles": [
-  "한전직원2만4000명개인정보노출…삭제까지32시간",
-  "금융권연쇄해킹에한은경고재조명…“회사별훈련넘어시스템전체...",
-  "새마을금고중앙회,금융권해킹공격막았다…동일공격IP에도정보유...",
-  "추석'1900억'쏟아도들썩이는물가…10월3%대복귀하나",
-  "최태원동거인김희영,뉴욕기업무대등장…재산분할후첫동행",
-  "GPU수천장있어도논다…AIDC성능가르는‘데이터길'",
-  "토큰증권,투자대상'무궁무진'…미술품·한우넘어IP까지확대",
   "AI데이터센터식혀라...삼성은'글로벌사냥',LG는'내실고도화'",
   "AI열풍재점화에엔비디아질주…실적시즌이분수령",
   "'거미줄전선'끊어낸진안군…20억투입해시가지미관·안전잡는다",
@@ -6001,7 +5994,14 @@
   "'연애박사'김소현,무심한듯다정한추영우에눈길⋯1.8%첫출발",
   "kt위즈,5년만에정규시즌정상탈환…한국시리즈직행",
   "SKT,전장에'AI참모'띄운다…“흩어진데이터한눈에”",
-  "\"세션이만료됐습니다\"대신\"로그인시간이지났습니다\"…SKT,쉬운말..."
+  "\"세션이만료됐습니다\"대신\"로그인시간이지났습니다\"…SKT,쉬운말...",
+  "[속보]美나스닥사상최고치갈아치워…AI급등에삼전·하닉도강보합",
+  "[뉴욕증시]국채금리상승에도나스닥사상최고치",
+  "LG전자,AI데이터센터용칠러수주…북미냉각시장공략가속",
+  "연휴끝낸코스피,나스닥최고치에기대감↑…‘칠천피’굳히나[투자...",
+  "[증시포인트]美나스닥신고가경신속상승출발전망",
+  "나스닥·AI훈풍에도프리마켓‘찔끔’강세…삼전오르고하닉은숨...",
+  "엔비디아,사상첫시총6조달러목전…이면엔‘그록우회인수’암초..."
  ],
  "recent_sigs": [
   [
@@ -6405,7 +6405,7 @@
    "~SKT 지났습니다 로그인 세션이 대신 만료됐습니다 시간이 쉬운"
   ]
  ],
- "last_run": "2026-10-06T08:38:42.534364+09:00",
+ "last_run": "2026-10-06T08:40:42.506725+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
