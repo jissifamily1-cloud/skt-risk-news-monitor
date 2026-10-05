@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171922",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000019588&cp=nv",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318638",
   "https://www.gokorea.kr/news/articleView.html?idxno=880389",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1726677",
   "https://www.yna.co.kr/view/AKR20261004010100004?input=1195m",
@@ -2999,12 +2996,12 @@
   "https://www.idaegu.com/news/articleView.html?idxno=666074",
   "https://www.munhwa.com/article/11621434",
   "https://www.sedaily.com/article/20098156",
-  "https://www.hankookilbo.com/news/article/A2026100515560003962?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026100515560003962?did=NA",
+  "https://www.hankyung.com/article/202610053515i",
+  "https://www.mk.co.kr/article/12168491",
+  "https://www.edaily.co.kr/News/Read?newsId=02624006645609968&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "영화'매트릭스'속AI와인류의미래[편집국장칼럼]",
-  "전금융권덮친'해킹공포'…당국투톱,내일전업권CEO긴급소집",
-  "'AI에이전트'해킹에노출된금융권…정보유출확산'공포'",
   "KT,휴머노이드로봇사업본격화⋯'두뇌연결'통합관제플랫폼승부",
   "시중은행부터캐피탈까지…금융권해킹,왜한번에터졌나",
   "정재헌SKT대표“고객신뢰에감사…더나은서비스로보답”",
@@ -6001,13 +5998,12 @@
   "6일국감첫날부터정면충돌…조희대대법원장'불출석'에여야공방격...",
   "“출국전에편하게번호받자”…KT재팬,日모바일가입서비스출시",
   "‘독파모’3R예정대로…“3월께프론티어AI개발”",
-  "아이온2,초기흥행세확인…엔씨'해외승부수'통하나"
+  "아이온2,초기흥행세확인…엔씨'해외승부수'통하나",
+  "‘AI전도사’손정의,이번엔“초지능,잘못들어가면위험”",
+  "[특파원칼럼]젠슨황·리사수,헤드테이블에앉은이유",
+  "욕먹더라도‘소버린AI’가필요한이유[김현아의IT세상읽기]"
  ],
  "recent_sigs": [
-  [
-   "2026-10-05T10:40:22.247426+09:00",
-   "중단설 AG LoL 덮친 2연패 금융권 독파모"
-  ],
   [
    "2026-10-05T10:52:18.241860+09:00",
    "크립토카드 숨은 인프라 수수료 전쟁 뒤에"
@@ -6447,9 +6443,13 @@
   [
    "2026-10-05T16:36:52.868741+09:00",
    "흥행세 해외 승부수 엔씨 확인 통하나 초기 아이온2"
+  ],
+  [
+   "2026-10-05T16:40:27.537077+09:00",
+   "이유 욕먹더라도 필요한 소버린"
   ]
  ],
- "last_run": "2026-10-05T16:38:31.574933+09:00",
+ "last_run": "2026-10-05T16:40:51.406965+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
