@@ -1,19 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260927100103",
-  "https://www.aitimes.com/news/articleView.html?idxno=215680",
-  "https://www.aitimes.com/news/articleView.html?idxno=215679",
-  "https://zdnet.co.kr/view/?no=20260926091953",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703012",
-  "https://www.aitimes.com/news/articleView.html?idxno=215667",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703002",
-  "https://www.aitimes.com/news/articleView.html?idxno=215663",
-  "https://www.g-enews.com/view.php?ud=202610032259137779a1f309431_1",
-  "https://www.joongangenews.com/news/articleView.html?idxno=552555",
-  "https://www.joongangenews.com/news/articleView.html?idxno=552557",
-  "http://www.kjdaily.com/article.php?aid=1791039602688189276",
-  "https://www.theguru.co.kr/news/article.html?no=107784",
-  "https://www.theguru.co.kr/news/article.html?no=107840",
   "https://www.cbci.co.kr/news/articleView.html?idxno=612157",
   "https://www.newspim.com/news/view/20261002000811",
   "http://www.inews24.com/view/2011396",
@@ -2999,16 +2985,23 @@
   "https://www.fnnews.com/news/202610051359290937",
   "https://www.womentimes.co.kr/news/articleView.html?idxno=106771",
   "https://www.dt.co.kr/article/12087404",
-  "https://www.chosun.com/economy/tech_it/2026/10/05/3SGDVIUV7JGLXANDU54NQ6B5IA/"
+  "https://www.chosun.com/economy/tech_it/2026/10/05/3SGDVIUV7JGLXANDU54NQ6B5IA/",
+  "https://www.yna.co.kr/view/PYH20261005054500013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005054600013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005054400013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005055000013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005054900013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005054800013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005054700013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005055100013?input=1196m",
+  "https://www.ajunews.com/view/20261005135946635",
+  "https://www.yna.co.kr/view/PYH20261005055300013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261005055200013?input=1196m",
+  "https://www.sedaily.com/article/20098115",
+  "http://www.yonhapnewstv.co.kr/news/MYH202610051410085PQ",
+  "https://www.khan.co.kr/article/202610051409001"
  ],
  "seen_titles": [
-  "자잘한일‘이렇게’해결,AI에게맡기면잘하는일6",
-  "[핫이슈]美FTC,오픈AI·앤스로픽전격조사…'통제이탈·소비자위해...",
-  "회사에AI해커를풀었다…팔로알토네트웍스의섬뜩한실험",
-  "챗GPT,200달러사용량상한'반토막'냈다",
-  "답하던AI,이제일까지한다…메타·오픈AI·구글'AI비서'선점다툰...",
-  "오픈AI,AI에이전트해킹사건으로피소…FTC조사착수",
-  "'빅쇼트'버리\"증시폭락해오픈AI·앤트로픽IPO막는게인류에도움...",
   "[글로벌테크]\"몸값만1,900조원\"…오픈AI,40조원규모매머드급신규...",
   "샘알트먼,오픈AI장악력키울3단계구상공개…'모델·구축·유통'제...",
   "'배6척'띄운샘알트먼…오픈AI가데브데이서꺼낸6가지카드는",
@@ -6001,7 +5994,14 @@
   "바꿀수도없는주민번호…6년간유출505만건넘었다",
   "LG유플러스,뱅고와글로벌AI구독확대...11월영상편집AI출시",
   "올트먼의위험한발상?…“AI혜택위해위험감수해야”",
-  "머스크,트럼프비위맞추려스페이스X사명또변경추진"
+  "머스크,트럼프비위맞추려스페이스X사명또변경추진",
+  "은행권전방위해킹사건",
+  "은행줄줄이해킹사고",
+  "은행권덮친해킹사고",
+  "금융권해킹에증권업계도'긴장'…연휴에도보안상태점검",
+  "은행권해킹에증권사도연휴비상근무…“침투흔적없어”",
+  "곳곳파고든AI해킹…금융권방어망재정비",
+  "“보안100점”이라더니…고객정보해킹못막은은행들"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,29 @@
   [
    "2026-10-05T14:16:15.580370+09:00",
    "변경 스페이스X 비위 머스크 트럼프 사명 맞추려"
+  ],
+  [
+   "2026-10-05T14:18:15.563944+09:00",
+   "사고 줄줄이 은행"
+  ],
+  [
+   "2026-10-05T14:18:15.563944+09:00",
+   "사고 은행권 덮친"
+  ],
+  [
+   "2026-10-05T14:18:15.563944+09:00",
+   "비상근무 흔적 해킹에 연휴 침투 은행권 없어 증권사도"
+  ],
+  [
+   "2026-10-05T14:18:15.563944+09:00",
+   "재정비 곳곳 방어망 파고든 금융권"
+  ],
+  [
+   "2026-10-05T14:18:15.563944+09:00",
+   "은행들 보안 고객정보 이라더니 100점 못막은"
   ]
  ],
- "last_run": "2026-10-05T14:16:39.608743+09:00",
+ "last_run": "2026-10-05T14:18:45.081175+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
