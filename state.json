@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/tech_it/2026/10/05/7PQP3B4PRZF5FO3PEI35ZF4YDQ/",
-  "https://www.g-enews.com/view.php?ud=2026100505374151272bd56fbc3c_1",
-  "https://www.yna.co.kr/view/AKR20261004037700002?input=1195m",
-  "https://www.yna.co.kr/view/AKR20261004042700002?input=1195m",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=278702",
-  "https://www.busan.com/view/busan/view.php?code=2026100418084802758",
-  "https://www.seoul.co.kr/news/economy/finance/2026/10/05/20261005032003?wlog_tag3=naver",
-  "https://www.news1.kr/finance/general-finance/6310062",
-  "https://www.hankookilbo.com/news/article/A2026100421330003727?did=NA",
-  "https://www.edaily.co.kr/News/Read?newsId=03014326645608984&mediaCodeNo=257",
   "http://news.lghellovision.net/news/articleView.html?idxno=556033",
   "https://www.the-today.com/news/articleView.html?idxno=91137",
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=246944",
@@ -2999,19 +2989,19 @@
   "https://www.tokenpost.kr/news/ai/416707",
   "https://www.mediawatch.kr/news/article.html?no=261231",
   "https://www.yna.co.kr/view/AKR20261006012400011?input=1195m",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705017"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705017",
+  "https://www.newscj.com/news/articleView.html?idxno=3436903",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703916",
+  "https://www.aitimes.com/news/articleView.html?idxno=215787",
+  "https://www.aitimes.com/news/articleView.html?idxno=215788",
+  "https://www.mediajeju.com/news/articleView.html?idxno=366545",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260930.99099009792",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=359781",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94031",
+  "https://biz.sbs.co.kr/article_hub/20000337468?division=NAVER",
+  "http://www.inews24.com/view/2010227"
  ],
  "seen_titles": [
-  "AICEO부른트럼프…새규제선긋고업계자율규제협약",
-  "[모닝리포트]\"SK텔레콤,4분기배당1050원전망…주가상승시도지속...",
-  "트럼프,AICEO소집...정부새규제선긋고업계자율규제협약",
-  "[뉴욕증시]연준매파발언·장기금리상승에하락…다우지수0.26%↓",
-  "트럼프,AI기업CEO들초청오찬…\"AI자율규제맡겨야\"",
-  "“통신주맏형,하반기호재가득”…SKT,연말전고점14만원돌파할까",
-  "[클릭e종목]\"SKT,3개월내다보고사라...연말전고점상승시도\"",
-  "63만원vs27만원…‘대장주’삼성전자주가향방은",
-  "AI거물20여명불러모은트럼프⋯규제대신‘자율통제’",
-  "국빈만찬빠진아모데이백악관독대…트럼프,AI가드레일풀까",
   "국가도기업도‘AI감속’딜레마…“통제필요하지만뒤처지면끝장...",
   "\"63만원간다\"VS\"27만원하락\"…삼성전자목표주가온도차",
   "[야고부-석민]AI(인공지능)의반란",
@@ -6001,7 +5991,17 @@
   "오픈AI,제브유사결정형API공개…에이전트행동분류",
   "오픈AI,‘상시근무AI’닷츠공개…시키지않아도업무찾아처리",
   "[연합뉴스이시각헤드라인]-07:30",
-  "[핀테크핫이슈]금융권덮친해킹…보안취약점전방위노출"
+  "[핀테크핫이슈]금융권덮친해킹…보안취약점전방위노출",
+  "\"아스트라성능,1/5가격\"…오픈AI,일주일만에후속작",
+  "[데일리픽]XRP강세론재점화…테슬라·스페이스X합병변수등장",
+  "알트먼\"기업공개압박없이AI안전확보가우선\"",
+  "오픈AI추가투자유치목표는'1900조가치'...연매출은95조육박",
+  "AICEO소집한트럼프,정부새규제선긋고업계자율규제협약(종합)",
+  "독파모논란…배경훈“독파모와프론티어AI병행추진”",
+  "통신3사,3분기이후어디로…AI키우는SKT·KT,내실다지는LGU+",
+  "AICEO소집한트럼프,정부새규제선그어...업계4개자율규제협약",
+  "'인공지능,슈퍼지능으로바꿔불러라'트럼프,AICEO소집'자율규제'",
+  "트럼프,AI기업수장과오찬...'백악관SI협약'서명"
  ],
  "recent_sigs": [
   [
@@ -6297,7 +6297,7 @@
    "주주 우회 스타트업 권리 논란 그록 인수 소송 침해"
   ]
  ],
- "last_run": "2026-10-06T07:38:35.616886+09:00",
+ "last_run": "2026-10-06T07:40:41.726346+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
