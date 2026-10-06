@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678424",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298935",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=122842",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1298930",
-  "https://www.segye.com/newsView/20261006506153?OutUrl=naver",
-  "https://news.tf.co.kr/read/economy/2373151.htm",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4437853",
-  "https://www.khan.co.kr/article/202610061031001",
-  "https://news.tf.co.kr/read/ptoday/2373163.htm",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157824",
-  "https://www.ddaily.co.kr/page/view/2026100610323667125",
   "https://view.asiae.co.kr/article/2026100609522541198",
   "https://biz.sbs.co.kr/article_hub/20000337539?division=NAVER",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000020125&cp=nv",
@@ -2999,20 +2988,20 @@
   "https://www.tokenpost.kr/news/ai/416445",
   "https://www.chosun.com/opinion/manmulsang/2026/09/30/OVDZ5E2GDJFI3HAED53UKTAB6Q/",
   "https://www.hankyung.com/article/202609229388i",
-  "https://www.etoday.co.kr/news/view/2628239"
+  "https://www.etoday.co.kr/news/view/2628239",
+  "https://www.hellot.net/news/article.html?no=115316",
+  "https://www.chosun.com/economy/tech_it/2026/09/17/PPS7LRQ3N5EH5PVOUKUY74BMMU/",
+  "https://www.donga.com/news/Economy/article/all/20260916/134676459/2",
+  "https://biz.heraldcorp.com/article/10894762",
+  "https://www.khan.co.kr/article/202610062116025",
+  "https://www.newspim.com/news/view/20261006001466",
+  "https://www.khan.co.kr/article/202610062122015",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=665887",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2305460",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600372.html",
+  "https://www.khan.co.kr/article/202610062122005"
  ],
  "seen_titles": [
-  "SKT,'지상군페스티벌'참가…AI참모·저궤도위성등국방AX기술선봬",
-  "SKT,지상군페스티벌서‘AI참모’공개…전장데이터연결·분석",
-  "869개보안항목쌓아도뚫렸다…AI가바꾼금융권해킹'공격지도'[신...",
-  "금융권AI해킹확산속민간취약점523건…점검예산은'0원'",
-  "해킹대응'정보보호강화'관련법,국회처리서둘러야",
-  "[속보]李대통령\"금융권AI해킹경위신속히파악…국가보안체계점...",
-  "[이슈]금융권해킹비상···AI활용공격에보안망시험대",
-  "민주당,금융권해킹에“금융디지털안전,국가과제로격상하겠다”",
-  "[특징주]지니언스,금융권AI해킹사태속+22%대급등",
-  "경찰,금융기관해킹정식수사전환…전담수사팀구성",
-  "[특징주]안랩,금융권AI해킹사태영향+13%대상승",
   "李대통령“속도가생명”…AI활용해킹에신속대응·보안조치지시",
   "금융권'AI해킹'쇼크에보안株불붙었다…지니언스·샌즈랩장중상한...",
   "李대통령,잇단금융·공공기관해킹사태에\"AI시대보안체계전면혁...",
@@ -6001,7 +5990,18 @@
   "2억달러AI펀드,댄아이브스비상장투자추진",
   "[만물상]헌책방의‘AI퇴직금’?",
   "MS부회장의경고\"AI가무섭다면기업세금부터줄여야\"",
-  "트럼프“AI통제수단이미있어⋯안전성논의는사기극”"
+  "트럼프“AI통제수단이미있어⋯안전성논의는사기극”",
+  "[산업AIEXPO프리뷰]제조AI⑰|카메라가놓친체결음,소리가잡는...",
+  "AI끼리살게했더니...인간이해독할수없는비밀언어를만들어냈다",
+  "[단독]“AI개발감속”외쳤지만,새모델공개주기1년새210→47일‘가...",
+  "이재용주식재산‘13조증발’했는데…석달간1조넘게불린‘이사람...",
+  "‘검사의수사’마지막90일…노태우비자금의혹,공소청서마저캐나",
+  "엔비디아추격AMD,AI칩공급확늘린다…\"2027년대폭확대\"",
+  "당국,해킹사용된IP28개특정…금융사들에전달",
+  "국회도서관토론회,고성·항의로얼룩",
+  "권익위도뚫렸다…청렴교육플랫폼해킹,10만여명정보유출",
+  "119시간해킹에도'깜깜'…웰컴저축은행'보안경보'먹통",
+  "금보원“해킹대비전사적훈련을”권고…은행들흘려들었나"
  ],
  "recent_sigs": [
   [
@@ -6951,9 +6951,25 @@
   [
    "2026-10-06T21:22:16.100380+09:00",
    "시도 공격은 인뱅 28개 특정 올해 초부터 IP"
+  ],
+  [
+   "2026-10-06T21:26:16.307903+09:00",
+   "얼룩 토론회 항의로 국회도서관 고성"
+  ],
+  [
+   "2026-10-06T21:26:16.307903+09:00",
+   "청렴교육 플랫폼 유출 뚫렸다 정보 권익위도 10만여명"
+  ],
+  [
+   "2026-10-06T21:26:16.307903+09:00",
+   "먹통 보안 119시간 웰컴저축은행 경보 깜깜 해킹에도"
+  ],
+  [
+   "2026-10-06T21:26:16.307903+09:00",
+   "금보원 훈련을 대비 은행들 흘려들었나 권고 전사적"
   ]
  ],
- "last_run": "2026-10-06T21:24:36.595569+09:00",
+ "last_run": "2026-10-06T21:26:43.550289+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
