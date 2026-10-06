@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=351502",
-  "https://www.m-i.kr/news/articleView.html?idxno=2003093",
-  "https://www.dailian.co.kr/news/view/1698295/?sc=Naver",
-  "https://www.ajunews.com/view/20261006151018164",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315777&inflow=N",
-  "https://www.mediapen.com/news/view/1128134",
-  "https://www.newsis.com/view/NISX20261006_0003815848",
-  "https://www.newsis.com/view/NISX20261006_0003815808",
-  "https://www.yna.co.kr/view/AKR20261006131000002?input=1195m",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=815094",
   "https://www.khan.co.kr/article/202610061532001",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=210183",
@@ -2999,18 +2990,18 @@
   "https://www.sportschosun.com/baseball/2026-10-07/202610070100045100002911",
   "https://www.public25.com/news/articleView.html?idxno=56007",
   "https://www.maniareport.com/view.php?ud=20261007072555765291b55a0d56_19",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246271"
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246271",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=204949",
+  "https://www.joongang.co.kr/article/25467756",
+  "https://www.yna.co.kr/view/AKR20261007014400011?input=1195m",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705397",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259405",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7187097",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261007073004qtp",
+  "https://www.viva100.com/article/20261007500045",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65340"
  ],
  "seen_titles": [
-  "4대은행,'AI공격'대응시험대…은행장국감출석압박도",
-  "\"내게맞는요금제뭐지?\"…KT,ChatGPT에공식상품정보연결",
-  "KT,'신뢰·효율·실행'바탕AX로드맵…산업환경대전환나선다",
-  "KT,챗GPT와연동…'KT플러그인'서비스출시",
-  "늘어난공격IP개수…금융당국,금융권해킹진원지파악주력",
-  "美국방부,앤트로픽AI사용전면중단…오픈AI등으로전환",
-  "교보생명등생명보험사도해킹IP접근시도",
-  "은행이어2금융권까지번진해킹…AI악용우려커진다",
-  "금융권해킹따른2차피해우려에…당국,비대면대출·고액이체확인...",
   "AI해킹기승부리는데예산은27%삭감…과기부보안예산삭감지적",
   "금융위,해킹사태에2차망분리규제완화기관선정보류",
   "[포커스]금융권훑은28개해킹공격IP…인뱅까지번진'취약점탐색'",
@@ -6001,7 +5992,16 @@
   "'충격'기세오른KIA,삼성1.5군에지다니…이대로면3위사수힘들다...",
   "뉴욕증시,기업실적발표앞두고S&P500·나스닥사상최고치...국제유가...",
   "'나는왜빼는데?'두산곽빈도MVP자격충분...ERA,탈삼진,WHIP,WAR1위",
-  "[데스크칼럼]IT강국의착시,은행보안은이익만큼컸나"
+  "[데스크칼럼]IT강국의착시,은행보안은이익만큼컸나",
+  "'꿈의이동통신'3G,23년만에역사속으로[옛날신문보기]",
+  "도루왕들이보낸리스펙트…500도루등정한LG박해민",
+  "[연합뉴스이시각헤드라인]-07:30",
+  "AI통제우려확산...추론과정해독도어려워진다",
+  "[넥스트-샷]국채숨돌리니실적이보입니다···S&P·나스닥나란히신...",
+  "韓-멕시코광물·AI·방산·우주협력확대…기업들시동",
+  "[이시각헤드라인]10월7일라이브투데이",
+  "대기업오너4·5세93.9%유학파⋯해외컬럼비아대•국내고려대‘최다...",
+  "금감원,AI해킹공격IP28개금융권에긴급전파…\"국가특정해석주..."
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-10-07T07:20:24.953082+09:00",
    "수백억씩 보안예산 뚫리는데 은행은 해킹에 썼다"
+  ],
+  [
+   "2026-10-07T07:32:18.098414+09:00",
+   "방산 광물 우주 기업들 확대 협력 멕시코 시동"
   ]
  ],
- "last_run": "2026-10-07T07:30:47.585909+09:00",
+ "last_run": "2026-10-07T07:32:42.341711+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
