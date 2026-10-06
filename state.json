@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=321231",
-  "https://biz.sbs.co.kr/article_hub/20000338490?division=NAVER",
-  "https://imnews.imbc.com/news/2026/world/article/6856045_36925.html",
-  "https://www.etnews.com/20261006000356",
-  "https://www.joongang.co.kr/article/25467480",
-  "https://www.yna.co.kr/view/AKR20261006130700009?input=1195m",
-  "https://www.the-today.com/news/articleView.html?idxno=91252",
   "https://www.thepublic.kr/news/articleView.html?idxno=321250",
   "http://www.newstomato.com/ReadNews.aspx?no=1315751&inflow=N",
   "https://www.mediapen.com/news/view/1128114",
@@ -2999,16 +2992,16 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16240130",
   "https://www.jemin.com/news/articleView.html?idxno=843988",
   "https://www.yna.co.kr/view/AKR20261007012800007?input=1195m",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=282996"
+  "https://www.womennews.co.kr/news/articleView.html?idxno=282996",
+  "https://www.maniareport.com/view.php?ud=20261007065350356291b55a0d56_19",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493143",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65341",
+  "https://www.news2day.co.kr/article/20261007500002",
+  "https://www.ceoscoredaily.com/page/view/2026100614532807384",
+  "https://www.newsis.com/view/NISX20261006_0003816280",
+  "https://www.aitimes.com/news/articleView.html?idxno=215995"
  ],
  "seen_titles": [
-  "“中AI굴기또온다”…문샷,기업가치68조원찍고홍콩상장추진",
-  "\"중국문샷,내년1분기홍콩상장추진\"[블룸버그]",
-  "정부AI플랫폼탑재모델과반'외국산'…김장겸의원\"국산모델우선...",
-  "금융위,금융업권긴급소집…개인정보유출피해주의보발령",
-  "미국방부,'블랙리스트'앤트로픽AI사용중단",
-  "금융권정보유출에'맞춤형피싱'주의보…한달간특별대응",
-  "한국공학대,‘산학연협력EXPO’우수상…지역문제해결성과",
   "\"중국문샷,내년1분기홍콩상장추진\"",
   "뚫린문윤석의예가람저축은행…보안개선공고무색한'4만명정보유출...",
   "보안에1200억썼는데…허술한은행'쪽문'뚫렸다",
@@ -6001,7 +5994,14 @@
   "미국증시사상최고…금리하락에AI인프라강세,메모리는약세",
   "엔비디아,AI열풍타고시총6조달러'초읽기'…주가새역사쓰나",
   "◇오늘의경기(7일)",
-  "뉴욕증시,실적기대감에일제히상승...나스닥·S&P최고치"
+  "뉴욕증시,실적기대감에일제히상승...나스닥·S&P최고치",
+  "\"할만큼했다\"?박진만감독,책임도반성도없다…삼성전력,KT에결코...",
+  "CEO브랜드평판10월순위공개…이재용·정의선·박정원웃었다",
+  "\"증권사보안사고,최대15일뒤에야인지…투자자자산'무방비'우려...",
+  "[보안톺아보기]탈탈털린금융권...AI보안체계도입절실",
+  "신한·국민·하나등금융권연쇄해킹…‘과징금리스크’실적변수는",
+  "몸집커진GA,보안은'약한고리'…금융권해킹에취약우려",
+  "[10월6일]\"아모데이와같은방향이라더니\"…알트먼,\"앤트로픽과근본..."
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,17 @@
   [
    "2026-10-07T06:56:15.079671+09:00",
    "6조 타고 쓰나 초읽기 열풍 역사 달러 시총 주가"
+  ],
+  [
+   "2026-10-07T07:00:43.450554+09:00",
+   "금융권 취약 보안은 커진 약한 몸집 고리 GA 해킹에 우려"
+  ],
+  [
+   "2026-10-07T07:00:43.450554+09:00",
+   "아모데이와 근본 앤트로픽과 같은 방향이라더니"
   ]
  ],
- "last_run": "2026-10-07T06:58:34.001489+09:00",
+ "last_run": "2026-10-07T07:01:03.647874+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
