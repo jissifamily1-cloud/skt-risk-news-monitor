@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.bokuennews.com/news/article.html?no=285107",
-  "https://www.yna.co.kr/view/AKR20261006069400007?input=1195m",
-  "https://www.mydaily.co.kr/page/view/2026100609334321094",
-  "http://www.wsobi.com/news/articleView.html?idxno=319226",
   "https://view.asiae.co.kr/article/2026100610482940773",
   "https://www.mydaily.co.kr/page/view/2026100610384203480",
   "https://www.gukjenews.com/news/articleView.html?idxno=3713728",
@@ -2999,13 +2995,13 @@
   "https://m.sports.naver.com/general/article/065/0000302513",
   "https://www.joongangenews.com/news/articleView.html?idxno=553010",
   "https://www.newspim.com/news/view/20261006001499",
-  "https://biz.chosun.com/international/international_general/2026/10/06/5GZN7P66KNFYNPQJIONCXR72RE/"
+  "https://biz.chosun.com/international/international_general/2026/10/06/5GZN7P66KNFYNPQJIONCXR72RE/",
+  "https://www.ddaily.co.kr/page/view/2026100117205854794",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=869361",
+  "https://www.ajunews.com/view/20261006210249122",
+  "https://www.dailyt.co.kr/newsView/dlt202610060022"
  ],
  "seen_titles": [
-  "SKT,고객만족도1위탈환…\"마부작침자세로신뢰회복\"",
-  "통신3사,보안투자'약속경쟁'에서실행경쟁으로···SKT첫해'선두...",
-  "[은행브리핑]하나은행,서울지역골목상권활성화'앞장'외",
-  "싸이버로지텍,디지털트윈기반항만안전관제시스템운영",
   "우리은행,LGU+와보이스피싱실시간탐지체계가동",
   "[2026국감]금융권전자금융사고5년간2,189건…82%가'내부오류'",
   "'정규시즌우승'KT,5순위신인충암고좌완이승원2억5000만원계약…...",
@@ -6001,7 +5997,11 @@
   "[오늘의농구장여신]KT치어리더,소닉걸스특별공연",
   "한국사회공헌협회,'10월사회공헌프렌즈데이'성황리개최…'버터플라...",
   "[AI상보]'오스틴41호포'LG,NC6-1로꺾고8연패탈출...박해민통산...",
-  "“국내금융권해킹사건,中AI활용…AI금융침입첫시도”"
+  "“국내금융권해킹사건,中AI활용…AI금융침입첫시도”",
+  "SKT정재헌\"무너진믿음1년만에되찾아\"…3대고객만족도1위",
+  "\"고객에게묻는다\"…SKT·KT,'집토끼'잡기총력",
+  "[아주경제오늘의뉴스종합]北,지뢰제거작전에\"영토1㎜침범땐...",
+  "“서버밀고입닫으면그만인가”…LGU+해킹은폐의혹국감서난타"
  ],
  "recent_sigs": [
   [
@@ -6873,7 +6873,7 @@
    "금융 금융권 국내 활용 침입 사건 시도"
   ]
  ],
- "last_run": "2026-10-06T21:52:38.153110+09:00",
+ "last_run": "2026-10-06T21:54:32.541193+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
