@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inven.co.kr/webzine/news/?news=321796",
-  "https://biz.heraldcorp.com/article/10893903",
-  "https://www.donga.com/news/Politics/article/all/20261006/134791461/2",
-  "http://www.queen.co.kr/news/articleView.html?idxno=464293",
-  "https://www.ziksir.com/news/articleView.html?idxno=148353",
-  "https://www.news1.kr/politics/president/6311129",
-  "https://www.sedaily.com/article/20098361",
   "https://www.ytn.co.kr/_ln/0101_202610061023191932",
   "https://www.ytn.co.kr/_ln/0101_202610061020137317",
   "https://www.nspna.com/news/?newsid=830608",
@@ -2999,16 +2992,16 @@
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318347",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=61236",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223341",
-  "https://www.news1.kr/sports/baseball/6312089"
+  "https://www.news1.kr/sports/baseball/6312089",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=202105",
+  "https://www.mt.co.kr/living/2026/10/06/2026100620051693058",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785521&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6856118_37004.html",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539628",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539642",
+  "http://www.jmbc.co.kr/news/view/68548"
  ],
  "seen_titles": [
-  "[AI네이티브교육10월일정]지식설계부터에이전틱엔터프라이즈까지...",
-  "SKT,'2026지상군페스티벌'유일민간기업참가…국방AX기술공개",
-  "SKT,'UX라이팅가이드'개발...쉬운우리말사용초점",
-  "SKT,한글날맞아'UX라이팅가이드'개발·지상군페스티벌서국방AX기...",
-  "SKT,한글날앞두고'UX라이팅가이드'개발",
-  "이모션글로벌,SKT협력사ESG평가서‘RM-2’획득…사회·지배구조평...",
-  "SKT,고객안내문도AI로다듬는다…'UX라이팅가이드'도입",
   "2026LoL월드챔피언십16일개막",
   "망분리완화참여금융사뚫리자2차규제완화대상발표전격보류",
   "[속보]李“AI공격,사전탐지보안역량갖춰야…속도가생명“",
@@ -6001,7 +5994,14 @@
   "KBS구성원\"국힘,공영방송파괴가담자를이사추천\"",
   "[ICT종합]한국레노버및HP코리아소식외",
   "'최다관중'속KT정규리그우승확정…남은건3~5위'준플레이오프'...",
-  "KT최원준·롯데레이예스,나란히시즌200안타달성"
+  "KT최원준·롯데레이예스,나란히시즌200안타달성",
+  "[통신레이더]LG유플러스·SKT,AI활용처넓히는통신사들",
+  "이틀연속역전쓰리런김도영,43호홈런\"홈런왕은나야나\"",
+  "카뱅·케뱅서버도접근시도했다…'공격자IP'28개확인",
+  "보안'사각지대'뚫리자속수무책‥올초인터넷은행들도노렸다",
+  "'해킹사고'2차피해소비자경보…한달간특별대응",
+  "해킹IP28개특정…\"보안체계개편서둘러야\"",
+  "국힘\"반도체,팔비틀었나?\"..전북분산투자촉구도"
  ],
  "recent_sigs": [
   [
@@ -7123,9 +7123,13 @@
   [
    "2026-10-06T20:08:15.959614+09:00",
    "최다 남은 5위 ~KT 확정 준플레이오프 우승 정규리그 관중"
+  ],
+  [
+   "2026-10-06T20:12:16.732006+09:00",
+   "국힘 촉구도 전북 분산 투자 반도체 비틀었나"
   ]
  ],
- "last_run": "2026-10-06T20:10:45.246040+09:00",
+ "last_run": "2026-10-06T20:12:41.392856+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
