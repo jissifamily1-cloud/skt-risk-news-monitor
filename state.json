@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492812",
-  "https://www.youthdaily.co.kr/news/article.html?no=227937",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=278759",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208734",
-  "https://www.etoday.co.kr/news/view/2632605",
-  "https://www.hankyung.com/article/202610053514i",
-  "https://www.dt.co.kr/article/12087520",
   "https://www.newdaily.co.kr/site/data/html/2026/10/06/2026100600037.html",
   "https://hbnpress.com/news/view/1065570660568487",
   "http://www.segyebiz.com/newsView/20261006503271?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=255936",
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=60876",
   "https://www.mk.co.kr/article/12169456",
-  "https://www.aitimes.com/news/articleView.html?idxno=216009"
+  "https://www.aitimes.com/news/articleView.html?idxno=216009",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=364078",
+  "https://www.busan.com/view/busan/view.php?code=2026100616435224088",
+  "https://www.newspim.com/news/view/20261006001241",
+  "https://www.newsis.com/view/NISX20261006_0003816121",
+  "https://www.kukinews.com/article/view/kuk202610060192",
+  "https://www.meconomynews.com/news/articleView.html?idxno=202272",
+  "https://www.peoplewatch.co.kr/article/view/ppw202610060019"
  ],
  "seen_titles": [
-  "대북제재두고외교·통일장관충돌..야권\"정동영사퇴해야\"",
-  "[오늘의사설]\"공감안되는병역특례,이제손봐야\"",
-  "에버스핀,전북대에'에버세이프웹'공급…AI기반웹보호강화",
-  "AI성능6조vs안전274억…과기정통부예산격차224배",
-  "SKT,지상군페스티벌서'AI참모'선봬…국방AX공략",
-  "SKT,2026지상군페스티벌서'AI참모'선보였다",
-  "LG유플러스,구글과손잡고AI영상제작교육…크리에이터역량강화",
   "LG유플러스,해외AI서비스'유독'에도입…11월영상편집AI첫선",
   "\"20대대학생요금제추천해줘\"...KT,챗GPT에상품정보플러그인출시",
   "보안인력늘렸는데또해킹...금융권‘AI방패’확보전",
@@ -6001,17 +5994,16 @@
   "[AI해킹긴급점검③]은행ODS보안뚫리자삼성·교보증권도긴장",
   "[民감國감]티빙'보안불감증'거센질타…\"2년전모의해킹서이미뚫...",
   "오일머니줄선오픈AI…42조원투자유치추진",
-  "엔비디아-그로크27조계약파장…소외된엔지니어들\"거래불공정\"소..."
+  "엔비디아-그로크27조계약파장…소외된엔지니어들\"거래불공정\"소...",
+  "전국민무료'모두의AI'3사3色",
+  "시의회,부산교통공사·시설공단인사청문회…첫부적격나올까",
+  "[기고]해양영역인식개발전략,컨트롤타워·예산도없다",
+  "NHN클라우드,'AI페스타'서국내1위슈퍼컴역량공개",
+  "“AI데이터센터는SKT임대사업…기후부,기업말만듣고전력수요부풀...",
+  "금감원,금융권해킹공격IP28개전파...\"국가특정은유의\"",
+  "[AI해킹비상]③연말은행장인선에'디지털내부통제'변수"
  ],
  "recent_sigs": [
-  [
-   "2026-10-06T11:14:16.882175+09:00",
-   "인사 변수로 종료 5대 은행장 급부상 임기 금융권 연말"
-  ],
-  [
-   "2026-10-06T11:14:16.882175+09:00",
-   "주소 12개국 공격 19개 특정 금감원 IP로 금융권"
-  ],
   [
    "2026-10-06T11:22:16.975439+09:00",
    "AI부터 바이오 전방위 SK그룹 친환경까지 먹거리 미래"
@@ -7091,9 +7083,17 @@
   [
    "2026-10-06T17:14:16.550764+09:00",
    "티빙 2년전 질타 모의해킹서 불감증 이미 보안 거센"
+  ],
+  [
+   "2026-10-06T17:16:14.892495+09:00",
+   "임대사업 AI데이터센터는 ~SKT 말만 기업 듣고 부풀 전력수요 기후부"
+  ],
+  [
+   "2026-10-06T17:16:14.892495+09:00",
+   "내부통제 인선에 연말 변수 디지털 은행장"
   ]
  ],
- "last_run": "2026-10-06T17:14:49.410425+09:00",
+ "last_run": "2026-10-06T17:16:42.026194+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
