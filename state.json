@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261005_0003814564",
-  "https://biz.sbs.co.kr/article_hub/20000338494?division=NAVER",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94168",
-  "https://www.chosun.com/economy/tech_it/2026/10/06/34XT7EGXBFFKTJTAKQNFK5VDB4/",
-  "https://www.ddaily.co.kr/page/view/2026100615545572104",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96593",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3714113",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=132904",
   "http://www.srtimes.kr/news/articleView.html?idxno=214071",
   "https://www.chosun.com/economy/tech_it/2026/10/06/F4QIXEOAUJGLJDDW3ULIBT2BMQ/",
   "https://www.sidae.com/article/2026100615451059128",
@@ -2999,17 +2991,17 @@
   "https://www.bntnews.co.kr/article/view/bnt202610070084",
   "https://www.koreaittimes.com/news/articleView.html?idxno=157856",
   "https://www.gokorea.kr/news/articleView.html?idxno=880636",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880637"
+  "https://www.gokorea.kr/news/articleView.html?idxno=880637",
+  "https://www.yna.co.kr/view/AKR20261007024900009?input=1195m",
+  "https://www.kado.net/news/articleView.html?idxno=2076815",
+  "https://www.news1.kr/politics/president/6311697",
+  "https://www.econovill.com/news/articleView.html?idxno=752882",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=600968",
+  "https://www.edaily.co.kr/News/Read?newsId=02771606645610624&mediaCodeNo=257",
+  "https://www.kukinews.com/article/view/kuk202610070010",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65355"
  ],
  "seen_titles": [
-  "[기고]통신시장,이용자중심의새판을짜다",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(10월6일화요일)",
-  "김정관\"알래스카LNG전략적가치\"…투자확정엔선그어",
-  "삼성·SK·현대차총수주식17.5조감소...이재용,3개월새13.1조줄어",
-  "[단독]국내인터넷트래픽증가분99%가글로벌CP몫...정부는추가망...",
-  "“내정보알고접근해도믿지마세요”…금융당국,개인정보유출2차...",
-  "개인정보유출2차피해막는다…금융당국,한달간'특별대응기간'운...",
-  "조규일,발전공기업통합본사진주유치13만서명부청와대전달",
   "[생활경제캠페인-229]개인정보유출틈탄맞춤형'대출빙자사기'주의",
   "[2026국감]LG유플,취약IMSI체계에…정부,\"위약금면제적극검토\"",
   "화웨이,퀄컴과특허교차계약…25년만에‘특허료역전’눈앞",
@@ -6001,7 +5993,15 @@
   "‘연애박사’김민,연구실막내변신",
   "WhoBearstheCostandRiskofAI?",
   "해외유학파가대세,대기업오너가문의세대별학력변화는?",
-  "중국AI도구ARTEX,한국금융기관해킹에악용된충격적인실태"
+  "중국AI도구ARTEX,한국금융기관해킹에악용된충격적인실태",
+  "다이먼\"앤트로픽미토스출시후AI위험10배치솟아\"",
+  "산부인과·성형외과CCTV털렸다…진료·환복영상해외유출",
+  "韓총리,금융·공공정보유출에\"방치웹사이트정리·보안체계개편\"(종...",
+  "SKT가말모이원고를AI로읽어글꼴을만들었다",
+  "[칼럼]최태원·김희영동반등장,씁쓸한이유",
+  "교인정보100만건에헌금내역까지…대형교회2곳해킹피해",
+  "韓금융사해킹서포착된‘中ARTEX’…“GPT·딥시크불러쓴다”",
+  "웰컴저축은행해킹119시간당했는데…알고보니'사고닷새후인지'"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,21 @@
   [
    "2026-10-07T08:12:17.642556+09:00",
    "국내 순위 재편 사용자 2위로 클로드"
+  ],
+  [
+   "2026-10-07T08:16:16.818744+09:00",
+   "읽어 SKT가 만들었다 ~SKT 글꼴을 원고를 AI로 말모이"
+  ],
+  [
+   "2026-10-07T08:16:16.818744+09:00",
+   "등장 씁쓸한 동반 이유 김희영"
+  ],
+  [
+   "2026-10-07T08:16:16.818744+09:00",
+   "해킹서 딥시크 포착된 ARTEX 금융사 쓴다 불러 GPT"
   ]
  ],
- "last_run": "2026-10-07T08:14:32.886840+09:00",
+ "last_run": "2026-10-07T08:16:44.380241+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
