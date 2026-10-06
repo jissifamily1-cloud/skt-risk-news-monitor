@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223004",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=210199",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=278901",
-  "https://www.sportsseoul.com/news/read/1639675",
-  "https://www.sportsseoul.com/news/read/1639676",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=394670",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171465",
   "https://www.joongdo.co.kr/web/view.php?key=20261006010001290",
   "http://www.osen.co.kr/article/G1112888166",
@@ -2999,15 +2993,15 @@
   "https://platum.kr/archives/295793",
   "https://www.etoday.co.kr/news/view/2633124",
   "https://www.joongang.co.kr/article/25467762",
-  "https://www.donga.com/news/Inter/article/all/20261007/134798617/1"
+  "https://www.donga.com/news/Inter/article/all/20261007/134798617/1",
+  "https://www.starnewskorea.com/broadcast-drama/2026/10/07/2026100708232394757",
+  "https://www.mydaily.co.kr/page/view/2026100619135914692",
+  "https://www.the-today.com/news/articleView.html?idxno=91292",
+  "https://www.kbmaeil.com/article/20261007500031",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223441",
+  "https://dealsite.co.kr/articles/170118"
  ],
  "seen_titles": [
-  "[박종면칼럼]SK지분매각으로막내리는최태원의개인史이슈",
-  "[영상]최태원옆한복입은김희영…뉴욕공식행사참석",
-  "우리은행,'수상한통화'까지잡는다…LGU+정보FDS에실시간연동",
-  "딥엑스·두산로보틱스,'AI용접'개발…원전인력난해결",
-  "‘끝내2위마무리’삼성,뼈아픈‘구자욱공백’…2년전악몽되풀...",
-  "‘42-41-40’숨막히는홈런왕전쟁…김도영‘토종왕좌’도전,1개차...",
   "수원KT위즈파크,'식품안심구역'지정…야구장식품안전강화",
   "\"공공DaaS,비용절감·보안관리·AI활용에이점\"…업계,제도정비촉...",
   "민선9기이현재하남시장,취임100일기자회견",
@@ -6001,7 +5995,13 @@
   "서틱\"보안·자금세탁방지AI,보조도구에서'AI직원'으로…감독·책...",
   "SKT,자체AI모델로100년전우리말되살렸다…'말모이체'제작",
   "“취약점찾으라고만들었는데”…中AI도구,韓금융사해킹에악용",
-  "“140원이면챗GPT계정산다”…다크웹파고든‘AI해킹장터’"
+  "“140원이면챗GPT계정산다”…다크웹파고든‘AI해킹장터’",
+  "김소현,추영우향해직진..시청률끌어올린'키스엔딩'[연애박사][종합...",
+  "'데뷔1주년'치어리더양효주,사랑스러운여고생미소[치얼UP영상]",
+  "뉴욕증시,美증시또최고치인데…코스피는'반도체부담'에긴장",
+  "美증시최고치에도코스피‘긴장’…하이닉스ADR6.39%급락",
+  "음란물사이트에'한국산부인과진료영상'…경찰수사착수",
+  "[데스크칼럼]금융권수백억보안투자,그래서해커는막았나"
  ],
  "recent_sigs": [
   [
@@ -6457,7 +6457,7 @@
    "파고든 챗GPT 장터 다크웹 계정 산다 140원이면"
   ]
  ],
- "last_run": "2026-10-07T08:26:40.881018+09:00",
+ "last_run": "2026-10-07T08:28:31.346860+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
