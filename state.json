@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.joseilbo.com/news/news_read.php?uid=576906&class=53",
-  "https://www.edaily.co.kr/News/Read?newsId=04175446645610296&mediaCodeNo=257",
-  "https://www.etoday.co.kr/news/view/2632903",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=265133",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591265934678",
   "https://www.ddaily.co.kr/page/view/2026100615164593724",
@@ -2999,12 +2996,12 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=882793",
   "https://www.smarttoday.co.kr/ko-kr/articles/112319",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318350",
-  "https://www.ngetnews.com/news/articleView.html?idxno=554163"
+  "https://www.ngetnews.com/news/articleView.html?idxno=554163",
+  "https://news.tf.co.kr/read/economy/2373603.htm",
+  "https://www.hankyung.com/article/2026100768816",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712581"
  ],
  "seen_titles": [
-  "배경훈,독파모진행중16조AI꺼냈다…추진경위도마",
-  "롯데百,'외국인매출1조'터치…신세계·현대도연내달성눈앞",
-  "스페이스X주가이틀새약16%↑…공모가135달러대비24%상승[마켓프...",
   "‘통제벗어난AI’사고땐CEO책임?보험업계촉각",
   "中,한달새AI모델16개출시⋯속도조절대신‘가속페달’",
   "[A오늘의유통]롯데마트·코웨이·CJONE·바디프랜드·교촌外",
@@ -6001,7 +5998,10 @@
   "WSJ\"韓은행해킹악용정황'ARTEX'는中서개발된개방형AI보안기구\"",
   "LG유플러스,챗GPT서‘너겟’요금제탐색지원",
   "AI가해킹하고AI가막는시대",
-  "금융권해킹피해가른'다중인증'…유니온바이오메트릭스농협은행구..."
+  "금융권해킹피해가른'다중인증'…유니온바이오메트릭스농협은행구...",
+  "뉴욕증시,기업실적발표앞두고상승…S&P500·나스닥사상최고치",
+  "AI반도체株에다시돈몰렸다…AMD·브로드컴·마벨등강세[뉴욕증시...",
+  "[2026국감]은행은해킹에뚫리는데…보안예산수백억씩안썼다"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-10-07T07:18:17.690450+09:00",
    "다중인증 가른 농협은행 금융권 피해 유니온바이오메트릭스"
+  ],
+  [
+   "2026-10-07T07:20:24.953082+09:00",
+   "수백억씩 보안예산 뚫리는데 은행은 해킹에 썼다"
   ]
  ],
- "last_run": "2026-10-07T07:18:46.161953+09:00",
+ "last_run": "2026-10-07T07:20:46.535430+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
