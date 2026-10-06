@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728803",
-  "https://www.newsis.com/view/NISX20261006_0003815408",
-  "https://www.korea.kr/news/policyNewsView.do?newsId=148973069&call_from=naver_news",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6941265",
   "https://www.gukjenews.com/news/articleView.html?idxno=3714051",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=210167",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=210174",
@@ -2999,13 +2995,13 @@
   "http://www.thefirstmedia.net/news/articleView.html?idxno=210182",
   "https://www.jasm.co.kr/news/articleView.html?idxno=320220",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171979",
-  "https://www.edaily.co.kr/News/Read?newsId=02614166645610624&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02614166645610624&mediaCodeNo=257",
+  "https://www.khan.co.kr/article/202610061532001",
+  "https://biz.sbs.co.kr/article_hub/20000338615?division=NAVER",
+  "https://www.segye.com/newsView/20261007502467?OutUrl=naver",
+  "https://www.dt.co.kr/article/12087799"
  ],
  "seen_titles": [
-  "KT,답변하는AI넘어'일하는AI'로…기업용'AgenticOn'첫공개",
-  "KT\"AI경쟁,성능아닌성과로…'잘쓰는AX'가중요\"",
-  "금융권해킹여파…건설업계분양개인정보관리도주목",
-  "\"잇단AI해킹에긴장\"…병원도'보안문단속'강화",
   "과기정통부,금융권해킹사고'24시간비상대응체계'가동",
   "이스타항공,두자리수규모수습부기장공채실시",
   "세종시,한글날제정100주년기념...'2026세종한글축제'개막카운트",
@@ -6001,7 +5997,11 @@
   "\"내게맞는요금제뭐지?\"…KT,ChatGPT에공식상품정보연결",
   "초유의금융권해킹수사는주가하나?...경찰?중수청?시작도전에'유...",
   "미국증시다우지수'상승'..CSCO'급등',빅테크주'강세'",
-  "[마켓무버]뉴욕증시,금리부담완화에일제상승…AI·반도체가랠리..."
+  "[마켓무버]뉴욕증시,금리부담완화에일제상승…AI·반도체가랠리...",
+  "사건넘기기시작한공소청…검사의마지막수사90일,어떤사건남았...",
+  "[마켓프리뷰]코스피'뉴욕훈풍'실종에약세…코스닥900선탈환",
+  "서울서혼자사는60대,이외지역사는60대보다자산더많다",
+  "재벌가유학어디로?…컬럼비아대·뉴욕대·코넬대몰렸다"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,17 @@
   [
    "2026-10-07T07:32:18.098414+09:00",
    "방산 광물 우주 기업들 확대 협력 멕시코 시동"
+  ],
+  [
+   "2026-10-07T07:38:16.581401+09:00",
+   "많다 60대 사는 보다 자산 서울서 혼자 이외 지역"
+  ],
+  [
+   "2026-10-07T07:38:16.581401+09:00",
+   "코넬대 뉴욕대 유학 재벌가 컬럼비아대 어디로 몰렸다"
   ]
  ],
- "last_run": "2026-10-07T07:36:36.294376+09:00",
+ "last_run": "2026-10-07T07:38:40.167800+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
