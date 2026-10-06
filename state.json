@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=278745",
-  "https://biz.sbs.co.kr/article_hub/20000338303?division=NAVER",
-  "https://www.donga.com/news/Economy/article/all/20261006/134789582/2",
-  "https://www.news2day.co.kr/article/20261004500054",
-  "https://www.g-enews.com/view.php?ud=202610051902017895fbbec65dfb_1",
-  "https://www.g-enews.com/view.php?ud=202610051856531921fbbec65dfb_1",
-  "https://www.chosun.com/economy/tech_it/2026/10/06/7CFZX5HVYBCDZPVQFNT3T4DQIM/",
-  "https://www.g-enews.com/view.php?ud=202610050837482496906806b77b_1",
-  "https://www.hankyung.com/article/202610053986i",
-  "https://www.newspim.com/news/view/20261005000153",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=209218",
   "https://www.newspim.com/news/view/20261005000146",
   "https://www.hankyung.com/article/2026100539141",
@@ -2999,19 +2989,19 @@
   "http://www.newstomato.com/ReadNews.aspx?no=1315737&inflow=N",
   "https://www.etnews.com/20261006000254",
   "https://magazine.hankyung.com/business/article/202610065580b",
-  "https://www.hani.co.kr/arti/economy/marketing/1281092.html"
+  "https://www.hani.co.kr/arti/economy/marketing/1281092.html",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=364214",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/06/2026100680141.html",
+  "https://www.dailian.co.kr/news/view/1698236/?sc=Naver",
+  "https://biz.heraldcorp.com/article/10894292",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261006141436BZj",
+  "https://www.dt.co.kr/article/12087619",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94161",
+  "https://zdnet.co.kr/view/?no=20261006135400",
+  "https://www.newspim.com/news/view/20261006000922",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=728805"
  ],
  "seen_titles": [
-  "美국채금리상승에도뉴욕증시상승…나스닥사상최고치(종합)",
-  "[뉴욕증시]고금리우려도못꺾는성장기대감…강세마감",
-  "24년來최고금리도AI기세못막아…나스닥사상최고[월스트리트in]",
-  "금리공포누른AI…나스닥사상최고치[뉴욕마감]",
-  "미국채금리급등에도기술주강세…나스닥사상최고[뉴욕마감]",
-  "美국채금리상승에도기술주강세…나스닥사상최고치",
-  "나스닥사상최고마감…미국채금리최고치경신에도AI기술주강세",
-  "[뉴욕증시]AI랠리가'고금리장벽'허물었다…나스닥286P상승",
-  "\"25년만의대역전\"…美퀄컴,5G·AI특허사용료中화웨이에첫'순지...",
-  "‘AI믿음’에나스닥신기록…삼전·SK하닉도올라탈까",
   "[뉴욕마감]美국채금리24년래최고에도기술주랠리…나스닥사상최고",
   "삼성·네이버만났던리사수,7개월만에재방한…이번엔누굴만날까",
   "車부품보던AI,로봇관절'가상검증'나선다",
@@ -6001,7 +5991,17 @@
   "LG전자,AIDC용칠러수조원대‘잭팟’…미냉각시장경쟁가속",
   "[ICT시사용어]월드모델(WorldModel)",
   "\"최태원9440억SK지분매각,3%룰회피목적아닌지밝혀야\"",
-  "“왜호남반도체냐”…국힘의원들넉달째발목잡기[산자위국감]"
+  "“왜호남반도체냐”…국힘의원들넉달째발목잡기[산자위국감]",
+  "배경훈\"독파모계속\"…예산서엔'통합·개편'",
+  "AI스페라,싱가포르‘GovWare2026’참가…AI보안플랫폼AITEM소개",
+  "[2026국감]공공데이터개방·활용점수2년연속하락…AI친화데이터...",
+  "미국방부,앤트로픽AI퇴출…‘블랙리스트’지정8개월만",
+  "미국방부,앤트로픽AI사용중단…블랙리스트등재8개월만",
+  "AI스페라,AI기반위협노출관리‘AITEM’싱가포르서선보인다…‘...",
+  "SK텔레콤,軍데이터연결하는'AI참모'공개…국방AX확대",
+  "AI페스타26개막…에이전틱·피지컬AI앞세워'역대최대'규모",
+  "\"中AI스타트업문샷AI,내년1분기홍콩IPO추진\"",
+  "챗GPT1700만명선점…'모두의AI'는생활서비스로파고든다"
  ],
  "recent_sigs": [
   [
@@ -7027,9 +7027,17 @@
   [
    "2026-10-06T14:24:17.641890+09:00",
    "반도체냐 달째 의원들 국힘 호남 발목잡기"
+  ],
+  [
+   "2026-10-06T14:26:18.466687+09:00",
+   "생활서비스로 모두의 선점 파고든다 1700만명 챗GPT"
+  ],
+  [
+   "2026-10-06T14:26:18.466687+09:00",
+   "개막 에이전틱 앞세워 규모 AI페스타26 역대 피지컬"
   ]
  ],
- "last_run": "2026-10-06T14:24:35.245681+09:00",
+ "last_run": "2026-10-06T14:26:42.223407+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
