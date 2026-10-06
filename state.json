@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.livebiz.today/news/articleView.html?idxno=205372",
-  "https://www.edaily.co.kr/News/Read?newsId=04060646645610296&mediaCodeNo=257",
-  "https://www.newspim.com/news/view/20261006000938",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008784679&plink=ORI&cooper=NAVER",
   "https://www.asiatime.co.kr/article/20261006500329",
   "https://www.etoday.co.kr/news/view/2632892",
   "http://www.newsian.co.kr/news/articleView.html?idxno=96582",
@@ -2999,13 +2995,13 @@
   "http://www.consumernews.co.kr/news/articleView.html?idxno=765377",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021737548750370",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785892&plink=ORI&cooper=NAVER",
-  "https://www.dt.co.kr/article/12087793"
+  "https://www.dt.co.kr/article/12087793",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=89944",
+  "https://www.news1.kr/world/international-economy/6312178",
+  "https://biz.chosun.com/international/international_general/2026/10/07/CD64LLY2CREVDL6KAVU4FEUW74/",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11598"
  ],
  "seen_titles": [
-  "'경영권분쟁'가비아,임시주총연기",
-  "이대통령,중수청향해\"네편내편,여야없이엄정수사\"[뉴시스Pic]",
-  "배경훈\"프론티어AI로사이버안보대응...사이버침해사고,과기정통부...",
-  "유니온바이오메트릭스,농협에얼굴인증기반생체인증구축…인증시장...",
   "건보공단,AI사이버공격긴급점검…'자율방어체계'구축",
   "SDF2026,11월5일개최…'초지능'위험경고해온유드코스키첫방한",
   "[2026국감]배경훈“LGU+해킹은폐밝혀지면가입자위약금면제요...",
@@ -6001,7 +5997,11 @@
   "[창간20주년]홈쇼핑'뻥'광고민원에서AI알고리즘으로...'소비자의소...",
   "[구조설계AI시대](2)소프트웨어성능·편의성고도화…엔지니어들...",
   "[단독]대형교회2곳도해킹정황…헌금내역까지'줄줄'",
-  "해킹불똥…서초동로펌,신한은행집단소송추진"
+  "해킹불똥…서초동로펌,신한은행집단소송추진",
+  "미기업실적기대뉴욕증시사상최고…S&P5000.6%상승",
+  "AI반도체랠리계속…AMD·브로드컴급등,메모리는약세",
+  "외신“韓금융사해킹에쓰인ARTEX,中서보안점검용으로개발”",
+  "[오늘의경제뉴스]삼전·닉스HBM전략새변수...AI데이터센터는지었..."
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-10-07T06:24:18.116355+09:00",
    "로펌 신한은행 서초동 불똥 집단소송"
+  ],
+  [
+   "2026-10-07T06:28:34.666110+09:00",
+   "데이터센터는 닉스 지었 변수 삼전 HBM 전략"
   ]
  ],
- "last_run": "2026-10-07T06:26:37.921859+09:00",
+ "last_run": "2026-10-07T06:28:59.834679+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
