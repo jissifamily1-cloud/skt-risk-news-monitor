@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2632694",
-  "https://dealsite.co.kr/articles/170138",
-  "https://www.fashionbiz.co.kr/article/230035",
-  "http://www.newsprime.co.kr/news/article.html?no=749954",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492850",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445298",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=419625",
-  "https://www.etoday.co.kr/news/view/2632695",
   "http://www.joseilbo.com/news/news_read.php?uid=576866&class=51",
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=130630",
   "https://www.it-b.co.kr/news/articleView.html?idxno=90120",
@@ -2999,17 +2991,17 @@
   "https://www.kmib.co.kr/article/view.asp?arcid=9000020339&cp=nv",
   "https://isplus.com/article/view/isp202610060179",
   "https://www.mk.co.kr/article/12169683",
-  "https://www.yna.co.kr/view/AKR20261006184400002?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261006184400002?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261006144251017?input=1195m",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3149625",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16239854",
+  "https://www.idomin.com/news/articleView.html?idxno=2016401",
+  "https://www.edaily.co.kr/News/Read?newsId=05369366645610296&mediaCodeNo=257",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261006190631g4d",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=855736",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077582"
  ],
  "seen_titles": [
-  "앤트로픽前연구원“AI통제법몰라…인류멸종될수도”",
-  "삼현,'2026로보월드'서휴머노이드·자율주행로봇공개",
-  "전직앤트로픽연구원“빠른AI개발문화극도로무모”…AI‘입법전...",
-  "머스크,자녀4명낳은파트너와결별…일주일전엔“사랑해”",
-  "삼성전자·LG전자'갤럭시탭S12시리즈-스마트태그3'국내출시·유럽...",
-  "하나금융,청라헤드쿼터개관···함영주\"지역금융파트너로함께할...",
-  "국립창원대손진혁학생,항공산업아이디어공모전장관상",
-  "타불라,‘리얼라이즈ID’출시...“흩어진고객여정연결해새로운...",
   "한컴,‘돈버는AI’앞세워미국행…글로벌재평가기대",
   "마르디메크르디,세븐틴정한과‘프라이빗아틀리에’팝업오픈",
   "DL이앤씨,기술협력생태계확대'공동개발·사업화속도'",
@@ -6001,7 +5993,15 @@
   "[단독]권익위해킹피해…공공기관수십만명개인정보털렸다",
   "[IS잠실]1회부터쾅쾅LG홈런포폭발…오스틴41호→문보경47일만의...",
   "“AI성능좋으면뭐해?자주써야지”…KT의AX청사진봤더니",
-  "웰컴저축은행해킹120분가까이지속…사고닷새후인지"
+  "웰컴저축은행해킹120분가까이지속…사고닷새후인지",
+  "배경훈\"AI드라이브가속\"…국감서신뢰과제재확인(종합2보)",
+  "[영상]\"왜반려동물과함께사는가\"…수의사서상혁벳아너스대표,사...",
+  "\"41호3점포\"LG오스틴,홈런·타점타이틀추격",
+  "정부,농어촌상생기금7000억채운다…이대통령\"희생에상응하는보...",
+  "'결혼한달'엔비디아사위,부사장고속승진'실세급부상'",
+  "시중은행해킹IP,카뱅·케뱅도서버접근시도",
+  "[시큐리티포커스]스틸리언'AI에이전트공격차단'·S2W'한영고위급...",
+  "은행돈이없어서해킹못막은게아니다"
  ],
  "recent_sigs": [
   [
@@ -7207,9 +7207,13 @@
   [
    "2026-10-06T19:06:22.233242+09:00",
    "웰컴저축은행 인지 지속 사고 닷새 120분 가까이"
+  ],
+  [
+   "2026-10-06T19:08:31.900400+09:00",
+   "은행 없어서 아니다 돈이 막은"
   ]
  ],
- "last_run": "2026-10-06T19:06:43.908325+09:00",
+ "last_run": "2026-10-06T19:08:53.797522+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
