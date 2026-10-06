@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/05/2026100590020.html",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=612289",
-  "https://www.newsway.co.kr/news/view?ud=2026100510361157657",
-  "https://www.dt.co.kr/article/12087364",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157803",
-  "https://www.nocutnews.co.kr/news/6587047",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=157802",
-  "https://platum.kr/archives/295666",
-  "https://zdnet.co.kr/view/?no=20261005102243",
-  "https://www.yeongnam.com/web/view.php?key=20261003022382057",
-  "https://www.mediapen.com/news/view/1127889",
-  "https://isplus.com/article/view/isp202610050037",
   "https://sports.khan.co.kr/article/202610051035003?pt=nv",
   "https://www.kwnews.co.kr/article/20261005500041",
   "http://www.kdfnews.com/news/articleView.html?idxno=188837",
@@ -2999,21 +2987,21 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366663",
   "https://www.etoday.co.kr/news/view/2632607",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705050",
-  "https://www.mt.co.kr/tech/2026/10/06/2026100608550980837"
+  "https://www.mt.co.kr/tech/2026/10/06/2026100608550980837",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=32013",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=407782",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492814",
+  "https://theviewers.co.kr/View.aspx?No=4252586",
+  "https://www.newsis.com/view/NISX20261006_0003814922",
+  "https://www.chosun.com/economy/money/2026/10/06/DVWVE4TBH5FDNNZK4TIWF5V2FQ/",
+  "https://www.mediapen.com/news/view/1127973",
+  "http://www.joseilbo.com/news/news_read.php?uid=576857&class=53",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214883",
+  "https://www.sentv.co.kr/article/view/sentv202610060019",
+  "https://www.kado.net/news/articleView.html?idxno=2076575",
+  "https://www.theguru.co.kr/news/article.html?no=107859"
  ],
  "seen_titles": [
-  "올트먼\"AI혜택위해위험감수\"강조…\"나쁜일을일부받아들여야\"",
-  "올트먼“AI혜택위해위험감수해야”…앤트로픽규제론과차별화",
-  "재계,금융권해킹'불똥'튈라…연휴에도보안'긴장'",
-  "[포커스]'AI해킹'우려가현실로...은행취약점109건아직미보완",
-  "금융보안전문가들\"AI해킹막을수있는건AI방어체계\"",
-  "LGU+,뱅고손잡고글로벌AI서비스확대",
-  "[AI픽]LGU+'유독',글로벌AI서비스품는다",
-  "대구광역시,방천리매립가스자원화로21만9432톤탄소배출권확보...6...",
-  "대구광역시,인플루엔자유행확산에예방접종·수칙준수당부",
-  "학생·학부모·교사국회서교육정책논의…고교학점제·교원업무쟁점",
-  "경북도,美유타주정부·유타대와맞손…AI·반도체협력확대",
-  "손정의\"초지능,잘못된손에들어가면극도로위험\"…AI안전성에이례...",
   "윤리적행위자로서AI는가능한가",
   "KT,대형산불통신망복구훈련…이동기지국차량투입",
   "샘올트먼“AI일부위험감수해야”…앤트로픽과‘안전철학’선긋...",
@@ -6001,7 +5989,19 @@
   "KT,챗GPT에상품정보플러그인출시...\"요금제탐색·추천\"",
   "KT,챗GPT에상품정보플러그인출시…AI가상품안내맞춤형으로",
   "KT,챗GPT에상품정보플러그인선봬",
-  "\"어떤요금제가좋을까?\"…챗GPT가KT상품찾아준다"
+  "\"어떤요금제가좋을까?\"…챗GPT가KT상품찾아준다",
+  "[개장시황]코스피,소폭하락출발…미국채금리강세유지",
+  "리플렉션AI,첫오픈웨이트모델'빔'공개…중국모델과경쟁",
+  "코스피,AI기술주훈풍에장초반0.39%올라7030선...코스닥900선돌파",
+  "\"핵심은자사주최대소각\"...삼성전자에공넘긴라이프운용",
+  "美기술주강세에삼성전자강보합…SK하이닉스는1%↓[핫스탁]",
+  "美달러18개월만에최고…‘킹달러’만든다섯가지이유",
+  "[미르의알기쉬운비즈니스]AI칩검사하는‘한국소켓’…ISC,실리콘소...",
+  "연휴서돌아온코스피...'美기술주훈풍'타고'7000선'안착할까",
+  "[AI데이터플랫폼②]저장넘어'데이터공급망'으로···플랫폼경쟁...",
+  "엔비디아,이틀연속사상최고가…시총6조달러가시권",
+  "엔비디아이틀째사상최고가…'시총6조달러'까지3.8%남았다",
+  "대만폭스콘,AI열풍에3분기매출47%급증…엔비디아서버수요지속"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-10-06T09:10:28.784171+09:00",
    "상품 ~KT 챗GPT가 요금제가 어떤 좋을까 찾아준다"
+  ],
+  [
+   "2026-10-06T09:12:17.935238+09:00",
+   "대만 급증 지속 매출 수요 서버 폭스콘 3분기 열풍에"
   ]
  ],
- "last_run": "2026-10-06T09:10:49.305184+09:00",
+ "last_run": "2026-10-06T09:12:35.616036+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
