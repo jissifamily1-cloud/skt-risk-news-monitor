@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261006000022",
-  "https://www.sedaily.com/article/20098240",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610060001&t=NN",
-  "https://www.dt.co.kr/article/12087499",
-  "https://www.edaily.co.kr/News/Read?newsId=01699046645610296&mediaCodeNo=257",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=278745",
   "https://biz.sbs.co.kr/article_hub/20000338303?division=NAVER",
   "https://www.donga.com/news/Economy/article/all/20261006/134789582/2",
@@ -2999,14 +2994,14 @@
   "https://www.kyeonggi.com/article/20261006580150",
   "https://www.etnews.com/20261006000262",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=870187",
-  "https://www.ajunews.com/view/20261006114157416"
+  "https://www.ajunews.com/view/20261006114157416",
+  "http://www.4th.kr/news/articleView.html?idxno=2119255",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315737&inflow=N",
+  "https://www.etnews.com/20261006000254",
+  "https://magazine.hankyung.com/business/article/202610065580b",
+  "https://www.hani.co.kr/arti/economy/marketing/1281092.html"
  ],
  "seen_titles": [
-  "세일즈포스CEO\"오픈AI대신앤트로픽투자?…수백억달러수익낼것\"",
-  "알트먼·아모데이·딥시크총출동…유엔안보리서'AI안전'논의",
-  "커버드CA‘보험절벽’선제대응…22일건강보험지원서밋개최",
-  "\"AI안전성평가,개발사에만맡겨선안돼\"…페이페이리,외부검증...",
-  "“보험료지원끊기나?”…CA보험가입자,체류신분부터확인하세요",
   "美국채금리상승에도뉴욕증시상승…나스닥사상최고치(종합)",
   "[뉴욕증시]고금리우려도못꺾는성장기대감…강세마감",
   "24년來최고금리도AI기세못막아…나스닥사상최고[월스트리트in]",
@@ -6001,7 +5996,12 @@
   "시즌전엔물음표,끝나니우승…KT의반전은어떻게시작됐나",
   "[2026국감]은행장'줄소환'될까…정무위,해킹책임부터레버리지ET...",
   "카드이어은행해킹...정무위,금융당국감독책임정조준",
-  "AI해킹위협커졌지만AI안전평가예산은제자리"
+  "AI해킹위협커졌지만AI안전평가예산은제자리",
+  "두산로보틱스피지컬AI국책과제2건수주…989억원규모",
+  "LG전자,AIDC용칠러수조원대‘잭팟’…미냉각시장경쟁가속",
+  "[ICT시사용어]월드모델(WorldModel)",
+  "\"최태원9440억SK지분매각,3%룰회피목적아닌지밝혀야\"",
+  "“왜호남반도체냐”…국힘의원들넉달째발목잡기[산자위국감]"
  ],
  "recent_sigs": [
   [
@@ -7023,9 +7023,13 @@
   [
    "2026-10-06T14:18:16.974971+09:00",
    "커졌지만 제자리 위협 AI안전 평가예산은"
+  ],
+  [
+   "2026-10-06T14:24:17.641890+09:00",
+   "반도체냐 달째 의원들 국힘 호남 발목잡기"
   ]
  ],
- "last_run": "2026-10-06T14:22:37.214576+09:00",
+ "last_run": "2026-10-06T14:24:35.245681+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
