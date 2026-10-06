@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.eroun.net/news/articleView.html?idxno=91322",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=311059",
-  "https://www.gqkorea.co.kr/2026/10/01/%ec%9e%90%ec%9e%98%ed%95%9c-%ec%9d%bc-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%95%b4%ea%b2%b0-ai%ec%97%90%ea%b2%8c-%eb%a7%a1%ea%b8%b0%eb%a9%b4-%ec%9e%98%ed%95%98%eb%8a%94-%ec%9d%bc-6/",
-  "https://www.the-today.com/news/articleView.html?idxno=91021",
   "https://www.mk.co.kr/article/12168011",
   "https://www.newsis.com/view/NISX20261004_0003813883",
   "http://www.yonhapnewstv.co.kr/news/MYH202610041001459aI",
@@ -2999,13 +2995,13 @@
   "https://www.kwnews.co.kr/article/20261006500588",
   "https://it.donga.com/109647/",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005932719",
-  "https://www.fnnews.com/news/202610061338022832"
+  "https://www.fnnews.com/news/202610061338022832",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315748&inflow=N",
+  "https://www.sentv.co.kr/article/view/sentv202610060117",
+  "https://www.cstimes.com/news/articleView.html?idxno=722981",
+  "https://www.irobotnews.com/news/articleView.html?idxno=48852"
  ],
  "seen_titles": [
-  "TheseThingsAreComputers.StopTalkingAboutThemasifThey’reHuman",
-  "[사이언스칼럼]구름위에서내손안으로내려온AI",
-  "정지성에스오에스랩대표,‘카카오AI돛서밋26’서지역창업의글...",
-  "LosacadémicosreligiosossereunieronconAnthropic.Loqueescuchar",
   "\"증시폭락해서라도AI기업IPO막아야\"…마이클버리의강력경고",
   "태재대'태재미래교육포럼2026'21~22일개최..'AI시대교육이지켜야...",
   "53점동점제미나이4아르곤,GPT-6Astra보다테스트비용낮아",
@@ -6001,7 +5997,11 @@
   "“AI해킹막아라”…건보공단긴급비상회의",
   "'DPU로시작해AI인프라전반으로사업확장'···권동업망고부스트...",
   "48개그룹총수주식재산14%감소…18조원줄어",
-  "與\"대기업,당초부터호남염두\"vs野\"기업은그런적없다\"...'호남..."
+  "與\"대기업,당초부터호남염두\"vs野\"기업은그런적없다\"...'호남...",
+  "\"LGU+해킹은폐땐위약금면제\"…AI구독료·스타링크일본게이트웨이...",
+  "SK텔레콤,한글날맞아쉬운우리말담은‘UX라이팅가이드’선봬",
+  "SKT,한글날맞아우리말담은'UX라이팅가이드'개발",
+  "'양자보안순찰로봇관제'국내첫선…플로리젠로보틱스·IDQ공동개발"
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,13 @@
   [
    "2026-10-06T14:00:42.439209+09:00",
    "호남 그런 기업은 염두 없다 당초부터 대기업 vs"
+  ],
+  [
+   "2026-10-06T14:04:17.223423+09:00",
+   "관제 공동 첫선 플로리젠로보틱스 국내 개발 순찰로봇 IDQ 양자보안"
   ]
  ],
- "last_run": "2026-10-06T14:02:39.983874+09:00",
+ "last_run": "2026-10-06T14:04:37.762506+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
