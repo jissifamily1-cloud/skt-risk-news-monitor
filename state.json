@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20261006501024",
-  "https://www.nspna.com/news/?newsid=830722",
-  "https://www.mk.co.kr/article/12169344",
-  "https://www.ddaily.co.kr/page/view/2026100615520321837",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267523",
-  "https://www.hani.co.kr/arti/economy/finance/1281127.html",
-  "https://www.mk.co.kr/article/12169339",
   "https://www.hani.co.kr/arti/society/society_general/1281125.html",
   "https://news.bizwatch.co.kr/article/finance/2026/10/06/0023",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005932882",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20098583",
   "https://www.chosun.com/economy/economy_general/2026/10/07/IO62AAK5PFE53KMXGORBKE44GA/",
   "http://www.srtimes.kr/news/articleView.html?idxno=214071",
-  "https://biz.sbs.co.kr/article_hub/20000338626?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000338626?division=NAVER",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=32031",
+  "https://www.bntnews.co.kr/article/view/bnt202610070095",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061537270950618",
+  "https://www.newsis.com/view/NISX20261007_0003816531",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=302153",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=34922",
+  "https://www.dailian.co.kr/news/view/1698566/?sc=Naver"
  ],
  "seen_titles": [
-  "엔비디아6조달러눈앞…리사수방한,AI반도체전선한국으로",
-  "한성숙총리“금융권해킹확산우려⋯보안체계전면개편서둘러야”",
-  "금감원,AI에이전트추정해킹공격IP28개특정…“8일까지점검끝내...",
-  "금감원“금융권해킹공격주소28개전파…국가정보도공유”",
-  "“금융권해킹의심IP28개특정”…금감원,전금융권에긴급전파",
-  "금감원,금융권해킹공격IP28개전금융권에배포…8일까지자체점검...",
-  "카카오뱅크·케이뱅크도공격당했다…금감원,‘해킹IP’28개특정",
   "금융권해킹에보안주‘불기둥’…라온시큐어·샌즈랩상한가[오늘,이...",
   "경찰,‘금융권해킹’정식수사…새형사사법체계협업‘시험대’",
   "[금융AI해킹위협]신한·KB·하나털릴때…우리·농협왜안털렸나",
@@ -6001,7 +5994,14 @@
   "문샷AI67조·딥시크100조…中AI양대산맥내년초상장",
   "해커는AI로뚫는데…금융권방어용AI는‘망분리’에발묶여",
   "[2026국감]LG유플,취약IMSI체계에…정부,\"위약금면제적극검토\"",
-  "[기업이슈]금융권AI해킹사태에보안주급등"
+  "[기업이슈]금융권AI해킹사태에보안주급등",
+  "두산,전자사업1조증설'승부수'…SK실트론최태원회장지분인수는...",
+  "‘고스트인더셀’오늘VOD공개",
+  "[부산ㆍ경남대학브리핑모음(10월7일)]국립부경대생,북항상어‘부...",
+  "JP모건부터HSBC까지…글로벌금융사,AI로사이버방어·자금세탁탐지...",
+  "[박정식의국내주식시황]코스닥박스권역탈출로반도체소부장,2차...",
+  "해킹서버폐기수사10개월째…가입자위약금면제쟁점",
+  "韓금융사7곳턴해킹도구정체는中개발AI…6만8000명정보유출"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,13 @@
   [
    "2026-10-07T08:20:26.703830+09:00",
    "급등 금융권 보안주 사태에"
+  ],
+  [
+   "2026-10-07T08:22:18.625570+09:00",
+   "해킹도구 금융사 정체는 유출 6만8000명 7곳 정보 개발"
   ]
  ],
- "last_run": "2026-10-07T08:20:47.659126+09:00",
+ "last_run": "2026-10-07T08:22:36.711877+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
