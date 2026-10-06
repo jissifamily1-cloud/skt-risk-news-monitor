@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2628447",
-  "https://www.etoday.co.kr/news/view/2630389",
-  "https://www.ppss.kr/news/articleView.html?idxno=314015",
-  "https://www.khan.co.kr/article/202610052249025",
-  "http://www.newsprime.co.kr/news/article.html?no=750029",
-  "https://www.etoday.co.kr/news/view/2632940",
-  "https://www.goodkyung.com/news/articleView.html?idxno=292070",
-  "https://www.boannews.com/news/articleView.html?idxno=146216",
   "https://www.edaily.co.kr/News/Read?newsId=04300086645610296&mediaCodeNo=257",
   "https://www.yna.co.kr/view/AKR20261006144200017?input=1195m",
   "https://www.etnews.com/20261006000183",
@@ -2999,17 +2991,17 @@
   "http://www.newsdream.kr/news/articleView.html?idxno=119472",
   "https://daily.hankooki.com/news/articleView.html?idxno=1412551",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069292",
-  "https://www.newsq.co.kr/news/articleView.html?idxno=500325"
+  "https://www.newsq.co.kr/news/articleView.html?idxno=500325",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16240202",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16240201",
+  "https://www.slist.kr/news/articleView.html?idxno=771567",
+  "https://www.dt.co.kr/article/12087808",
+  "https://www.cstimes.com/news/articleView.html?idxno=723122",
+  "https://www.sentv.co.kr/article/view/sentv202610070011",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679492",
+  "http://www.journalist.or.kr/news/article.html?no=61800"
  ],
  "seen_titles": [
-  "[사설]‘피지컬AI챌린지2026’대구개최가던지는의미",
-  "[단독]대학따라‘AI접근권’갈렸다…전면지원부터미지원까지'천...",
-  "저숙련노동자ㆍ신입사원,AI로대체전망[AI新계급사회]",
-  "[뉴미디어민심]'노무현신화'·영화암살자(들)역사왜곡논란...'국민...",
-  "개인정보유출3분의1‘외국기업’…국내대리인없어책임못묻는다",
-  "[2026국감]배경훈\"LGU+해킹은폐확인되면위약금면제요청\"",
-  "국감오른LGU+IMSI·해킹은폐논란…정부“위약금조치검토”",
-  "금감원,금융권연쇄해킹추정IP19개…미국·일본등12개국에분산",
   "API경로바꾸고요청암호화...스틸리언,최신AI해킹방어청사진제...",
   "한준호\"침해사고통보받고도서버OS재설치\"…LGU+\"포렌식자료제출...",
   "배경훈\"AI드라이브가속\"…안전·보안·R&D는숙제(종합)",
@@ -6001,7 +5993,15 @@
   "한투운용\"ACE미국빅테크TOP7PlusETF순자산1조2000억돌파\"",
   "SKT,'2026말모이'캠페인전개\"우리말기록일상에서다시쓰기\"",
   "대기업오너4·5세94%가유학파…미국컬럼비아대출신'최다'",
-  "LG생활건강'북미성공방정식'중남미로[뉴스큐]"
+  "LG생활건강'북미성공방정식'중남미로[뉴스큐]",
+  "강태주,남지현두고김재영과뜻밖의라이벌구도",
+  "이규성,\"게임좀하느라\"…연애박사속현실공대생변신",
+  "강태주·박소진·정인지·우미화,'내가떨릴수있게'로맨스판도뒤흔...",
+  "佛미스트랄,1조파라미터‘라지4’공개…“美·中외최고성능”",
+  "신한은행개인정보유출에집단소송추진…1인당최대30만원청구",
+  "‘3%룰회피’의혹최태원SK지분매각…“공동보유공시하라”",
+  "“주유엔북한대표부전화해킹…음성사서함에조롱메시지”",
+  "방미통위재촉에도…11개방송사편성규약개정못해"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,13 @@
   [
    "2026-10-07T08:42:17.320424+09:00",
    "LG생활건강 성공 중남미로 방정식 북미"
+  ],
+  [
+   "2026-10-07T08:44:15.241678+09:00",
+   "11개 재촉에도 개정 방송사 편성규약"
   ]
  ],
- "last_run": "2026-10-07T08:42:37.903514+09:00",
+ "last_run": "2026-10-07T08:44:36.635913+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
