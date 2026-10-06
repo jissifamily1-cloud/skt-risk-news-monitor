@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.youthdaily.co.kr/news/article.html?no=227988",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448695",
-  "https://m.skyedaily.com/news_view.html?ID=312548",
-  "https://www.viva100.com/article/20261006500921",
-  "http://www.iminju.net/news/articleView.html?idxno=170424",
-  "https://www.dt.co.kr/article/12087643",
-  "https://www.kgnews.co.kr/news/article.html?no=914094",
-  "https://www.etoday.co.kr/news/view/2632886",
   "https://www.ddaily.co.kr/page/view/2026100614522934638",
   "https://www.mt.co.kr/stock/2026/10/06/2026100612441998575",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85645",
@@ -2999,17 +2991,17 @@
   "https://www.kyeonggi.com/article/20261007580003",
   "https://www.mk.co.kr/article/12169881",
   "https://www.greened.kr/news/articleView.html?idxno=351541",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171464"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171464",
+  "https://sports.donga.com/sports/article/all/20261006/134796041/1",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005933386",
+  "https://www.etoday.co.kr/news/view/2632892",
+  "https://www.etnews.com/20261006000344",
+  "https://www.goodkyung.com/news/articleView.html?idxno=292078",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=214929",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005933385",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117772"
  ],
  "seen_titles": [
-  "‘AI해킹’에韓총리“방치된정부웹사이트폐쇄하라”",
-  "금융감독원,12개국19개해킹IP추적...\"금융권비상점검\"요청",
-  "금감원,금융권해킹공격IP28개특정...전금융권긴급점검",
-  "'AI해킹'위협에엔비디아'AI보안'으로맞불,삼성전자와SK하이닉스...",
-  "금융권서공공기관까지뚫렸다…잇단해킹에정부24시간비상",
-  "금융권해킹IP19개포착…당국,전금융사에긴급점검지시",
-  "금융권,망분리완화일정연기…해킹사고여파",
-  "李대통령“금융기관해킹에국민불안…국가안보체계점검하라”",
   "[신간]KT에이스고영표,첫자전에세이‘수원에서의나날’출간",
   "월가,역대최대600억달러AI칩대출자산매각착수⋯투자수요시험대...",
   "[2026국감]이메일로주고받는해킹조사자료?\"추적검증체계필요\"",
@@ -6001,7 +5993,15 @@
   "“어릴때부터해외로”…대기업오너4~5세94%가‘유학파’",
   "“中서개발된개방형AI보안도구,韓은행해킹악용정황”",
   "이재용·최태원·정의선,3분기주식재산17조5천억원감소...허창수·서...",
-  "비상걸린여의도…증권사보안투자'제각각'[해킹에뚫린금융②]"
+  "비상걸린여의도…증권사보안투자'제각각'[해킹에뚫린금융②]",
+  "‘고척돔입성’하현승“진짜키움선수된기분,ABS공략할커맨드...",
+  "리사수AMDCEO7개월만에방한…국내NPU기업만나협력확대모색",
+  "오픈AI,IPO미루고몸값높이나⋯“300억달러조달추진”[금리넘어선...",
+  "[보안,대한민국의기회]〈1〉AIvs.AI-보안없이는AI도없다",
+  "LG전자,신성장사업성과가시화…사업확대드라이브",
+  "[OT보안①]사이버위협,물리적피해로이어져",
+  "대기업오너4·5세대94%유학파…컬럼비아대출신가장많아",
+  "[AI냉각전쟁/①]가전,통신,정유사까지…AI데이터센터가연냉각시..."
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-10-07T06:30:32.750540+09:00",
    "비상걸린 보안투자 증권사 제각각 여의도"
+  ],
+  [
+   "2026-10-07T06:32:19.094353+09:00",
+   "가전 냉각 통신 데이터센터가 정유사까지"
   ]
  ],
- "last_run": "2026-10-07T06:30:56.172602+09:00",
+ "last_run": "2026-10-07T06:32:37.777701+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
