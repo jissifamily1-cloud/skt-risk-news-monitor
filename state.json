@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610061518247460",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=32031",
-  "https://www.mt.co.kr/world/2026/10/06/2026100613282481244",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242026",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005932881",
   "https://www.viva100.com/article/20261006501024",
   "https://www.nspna.com/news/?newsid=830722",
   "https://www.mk.co.kr/article/12169344",
@@ -2999,14 +2994,14 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=89949",
   "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62750",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493174",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679487"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679487",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678687",
+  "https://www.sedaily.com/article/20098583",
+  "https://www.chosun.com/economy/economy_general/2026/10/07/IO62AAK5PFE53KMXGORBKE44GA/",
+  "http://www.srtimes.kr/news/articleView.html?idxno=214071",
+  "https://biz.sbs.co.kr/article_hub/20000338626?division=NAVER"
  ],
  "seen_titles": [
-  "해커는AI로무장했는데…금융권뚫은건'기본의빈틈'[기자수첩-금융...",
-  "\"호남전기·물부족\"vs\"산업이없었을뿐\"…국감서맞붙은반도체클...",
-  "두산,전자사업1조증설'승부수'…SK실트론최태원회장지분인수는...",
-  "엔비디아고속승진부사장,알고보니'젠슨황사위'[글로벌키맨]",
-  "엔비디아,소형AI컴퓨터'DGX스파크64GB'공개",
   "엔비디아6조달러눈앞…리사수방한,AI반도체전선한국으로",
   "한성숙총리“금융권해킹확산우려⋯보안체계전면개편서둘러야”",
   "금감원,AI에이전트추정해킹공격IP28개특정…“8일까지점검끝내...",
@@ -6001,7 +5996,12 @@
   "\"100년전손글씨,AI타고글꼴로\"…SKT·국립국어원·한글박물관한글날...",
   "엔비디아,앤스로픽에대규모투자한배경은...AI동맹강화",
   "앤트로픽·오픈AI까지시스템침해…다이먼\"AI위험10배커졌다\"",
-  "신한해킹IP,8개월전같은날토스·카뱅접근…사전정찰했나"
+  "신한해킹IP,8개월전같은날토스·카뱅접근…사전정찰했나",
+  "AI피해,개발사경영진에책임물을수있을까…보험업계검토착수",
+  "문샷AI67조·딥시크100조…中AI양대산맥내년초상장",
+  "해커는AI로뚫는데…금융권방어용AI는‘망분리’에발묶여",
+  "[2026국감]LG유플,취약IMSI체계에…정부,\"위약금면제적극검토\"",
+  "[기업이슈]금융권AI해킹사태에보안주급등"
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,13 @@
   [
    "2026-10-07T08:18:52.094541+09:00",
    "신한 IP 같은 8개월 사전 카뱅 접근 토스 정찰했나"
+  ],
+  [
+   "2026-10-07T08:20:26.703830+09:00",
+   "급등 금융권 보안주 사태에"
   ]
  ],
- "last_run": "2026-10-07T08:19:23.796181+09:00",
+ "last_run": "2026-10-07T08:20:47.659126+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
