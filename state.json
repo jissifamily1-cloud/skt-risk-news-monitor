@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportschosun.com/baseball/2026-10-06/202610060100039320002526",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011597",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/06/2026100690129.html",
-  "https://www.etnews.com/20261006000354",
-  "https://www.etnews.com/20261006000352",
-  "https://www.dt.co.kr/article/12087650",
   "http://www.seouleconews.com/news/articleView.html?idxno=94163",
   "http://www.inews24.com/view/2012190",
   "http://www.metroseoul.co.kr/article/20261006500295",
@@ -2999,15 +2993,15 @@
   "https://www.fnnews.com/news/202610070549488919",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=79670",
   "https://www.seoul.co.kr/news/economy/2026/10/07/20261007500004?wlog_tag3=naver",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=171976"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171976",
+  "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376291",
+  "https://www.mk.co.kr/article/12169877",
+  "https://www.etoday.co.kr/news/view/2633060",
+  "https://www.news1.kr/it-science/security-hacking/6311686",
+  "https://www.sedaily.com/article/20098762",
+  "http://www.fins.co.kr/news/articleView.html?idxno=110162"
  ],
  "seen_titles": [
-  "이재용·최태원·정의선주식재산'뚝'…총수들18조증발",
-  "데이터센터서보이스피싱·난방까지…AI,산업·일상속으로",
-  "천하의'QS머신'1회부터초멘붕,6실점대참사...전진수비비웃어버린...",
-  "'연애박사'김소현,차세대로맨스퀸노린다…추영우와'풋풋한설렘'",
-  "프로야구kt,신인선수계약완료…최지만은계약금0원",
-  "리플렉션AI,첫오픈웨이트AI모델'빔'공개…코딩·추론최적화",
   "앤트로픽전연구원“AI통제권잃을가능성…인류멸종될수도”",
   "에이에쓰아이,필요한AI만골라쓰는AI에이전트비교플랫폼출시",
   "'ARTEXAI',600여IP서확인…금융권은공격IP19개긴급점검",
@@ -6001,7 +5995,13 @@
   "국내주요은행해킹에中개발보안용AI에이전트악용-WSJ",
   "\"신약AI의마이너업그레이드아냐,K-폴드는완전히새롭습니다\"",
   "[서울데이터랩]미국증시,주요지수동반상승마감…반도체는종목별...",
-  "미국증시반도체주...메모리&장비주'뚝',MRVL·AMD'급등'"
+  "미국증시반도체주...메모리&장비주'뚝',MRVL·AMD'급등'",
+  "[게임노트]2026년10월6일ㆍLG8연패탈출하며KIA와3위싸움지속......",
+  "AI에이전트뜨자CPU도부활…AMD시총1조달러돌파",
+  "뉴욕증시,기술주강세ㆍ국채금리하락에상승⋯나스닥ㆍS&P500사상최고...",
+  "[흔들린보안시간표]해킹까지단몇분…AI가없앤'골든타임'",
+  "AI발해킹시간285분→72분...금융공기업보호인력은제자리",
+  "금융권해킹'쪽문'노렸다…보험사외부망보안강화"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,21 @@
   [
    "2026-10-07T06:10:26.262025+09:00",
    "0원 5천 계약금 ~KT 최지만 2억 신인 이승원"
+  ],
+  [
+   "2026-10-07T06:18:16.750413+09:00",
+   "AI가 골든타임 해킹까지 없앤"
+  ],
+  [
+   "2026-10-07T06:18:16.750413+09:00",
+   "72분 해킹시간 금융공기업 285분 보호인력은 제자리 AI발"
+  ],
+  [
+   "2026-10-07T06:18:16.750413+09:00",
+   "금융권 보안 강화 쪽문 외부망 보험사 노렸다"
   ]
  ],
- "last_run": "2026-10-07T06:16:34.049001+09:00",
+ "last_run": "2026-10-07T06:18:39.668080+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
