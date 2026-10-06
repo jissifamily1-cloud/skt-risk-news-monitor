@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20261006500329",
-  "https://www.etoday.co.kr/news/view/2632892",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96582",
-  "https://www.etnews.com/20261006000344",
-  "https://www.chosun.com/politics/goverment/2026/10/06/HKB5WPPM2NETDG6NCL2FJYQGHI/",
-  "https://www.cwn.kr/news/articleView.html?idxno=58431",
   "https://www.youthdaily.co.kr/news/article.html?no=227988",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448695",
   "https://m.skyedaily.com/news_view.html?ID=312548",
@@ -2999,15 +2993,15 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=89944",
   "https://www.news1.kr/world/international-economy/6312178",
   "https://biz.chosun.com/international/international_general/2026/10/07/CD64LLY2CREVDL6KAVU4FEUW74/",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11598"
+  "https://www.newsverse.kr/news/articleView.html?idxno=11598",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7078",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005933383",
+  "https://www.kyeonggi.com/article/20261007580003",
+  "https://www.mk.co.kr/article/12169881",
+  "https://www.greened.kr/news/articleView.html?idxno=351541",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171464"
  ],
  "seen_titles": [
-  "건보공단,AI사이버공격긴급점검…'자율방어체계'구축",
-  "SDF2026,11월5일개최…'초지능'위험경고해온유드코스키첫방한",
-  "[2026국감]배경훈“LGU+해킹은폐밝혀지면가입자위약금면제요...",
-  "오픈AI,IPO미루고몸값높이나⋯“300억달러조달추진”[금리넘어선...",
-  "금감원,금융권해킹'공격자IP'19개특정…국내포함12개국분포",
-  "[보안,대한민국의기회]〈1〉AIvs.AI-보안없이는AI도없다",
   "‘AI해킹’에韓총리“방치된정부웹사이트폐쇄하라”",
   "금융감독원,12개국19개해킹IP추적...\"금융권비상점검\"요청",
   "금감원,금융권해킹공격IP28개특정...전금융권긴급점검",
@@ -6001,7 +5995,13 @@
   "미기업실적기대뉴욕증시사상최고…S&P5000.6%상승",
   "AI반도체랠리계속…AMD·브로드컴급등,메모리는약세",
   "외신“韓금융사해킹에쓰인ARTEX,中서보안점검용으로개발”",
-  "[오늘의경제뉴스]삼전·닉스HBM전략새변수...AI데이터센터는지었..."
+  "[오늘의경제뉴스]삼전·닉스HBM전략새변수...AI데이터센터는지었...",
+  "[뉴욕증시마감시황]美증시는사상최고인데코스피는왜살얼음판인...",
+  "1인가구자산격차뚜렷…60대주택보유자,무주택자의3.5배",
+  "“어릴때부터해외로”…대기업오너4~5세94%가‘유학파’",
+  "“中서개발된개방형AI보안도구,韓은행해킹악용정황”",
+  "이재용·최태원·정의선,3분기주식재산17조5천억원감소...허창수·서...",
+  "비상걸린여의도…증권사보안투자'제각각'[해킹에뚫린금융②]"
  ],
  "recent_sigs": [
   [
@@ -6223,9 +6223,17 @@
   [
    "2026-10-07T06:28:34.666110+09:00",
    "데이터센터는 닉스 지었 변수 삼전 HBM 전략"
+  ],
+  [
+   "2026-10-07T06:30:32.750540+09:00",
+   "이재용 허창수 감소 주식재산 정의선 17조5천억원 3분기"
+  ],
+  [
+   "2026-10-07T06:30:32.750540+09:00",
+   "비상걸린 보안투자 증권사 제각각 여의도"
   ]
  ],
- "last_run": "2026-10-07T06:28:59.834679+09:00",
+ "last_run": "2026-10-07T06:30:56.172602+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
