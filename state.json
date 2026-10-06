@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsian.co.kr/news/articleView.html?idxno=96559",
-  "http://www.newsprime.co.kr/news/article.html?no=749953",
-  "https://biz.heraldcorp.com/article/10893821",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=321305",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=309024",
-  "https://www.edaily.co.kr/News/Read?newsId=02942166645610296&mediaCodeNo=257",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171441",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610010850529400105719",
   "http://www.kbiznews.co.kr/news/articleView.html?idxno=114909",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026100618253094692",
   "https://www.yna.co.kr/view/AKR20261006183600017?input=1195m",
   "https://www.mt.co.kr/living/2026/10/06/2026100618330229805",
-  "https://www.starnewskorea.com/star/2026/10/06/2026100617354591418"
+  "https://www.starnewskorea.com/star/2026/10/06/2026100617354591418",
+  "https://www.edaily.co.kr/News/Read?newsId=05248006645610296&mediaCodeNo=257",
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=226048",
+  "http://www.hellodd.com/news/articleView.html?idxno=113408",
+  "https://www.mt.co.kr/tech/2026/10/06/2026100618292532418",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000020311&cp=nv",
+  "https://www.dt.co.kr/article/12087769"
  ],
  "seen_titles": [
-  "KT,'AI로성장하는대한민국'선보인다…B2B·일상혁신총망라",
-  "AI반도체·독자모델한자리에…코엑스서3일간‘AI페스타’",
-  "테슬라저가매수몰렸다…'3배레버리지'털고서학개미돌아와",
-  "“지금사라”외치는월가…국고채공포에도나스닥‘불기둥’,왜[...",
-  "LG전자,5GW장기계약으로美냉각물량확보…1500억증설‘매출연결...",
-  "코스피,美증시훈풍에도강보합출발…7000선공방",
   "美국채금리급등에코스피7000선보합…코스닥2%상승",
   "코스피,장초반7000선공방…코스닥2%대급등",
   "LG전자,美AIDC에5GW냉각솔루션공급…兆단위잭팟",
@@ -6001,7 +5995,13 @@
   "\"AI통제권잃고인류멸종될수도\"…앤트로픽떠난연구원경고",
   "배경훈\"범정부AI공통기반,독파모2차모델로교체\"",
   "오텍캐리어,글로벌캐리어와협력...\"대용량냉각수라인업확대\"",
-  "[단독]'은퇴'장동주,기업인변신후IPO준비하더니..'미회수채권'회..."
+  "[단독]'은퇴'장동주,기업인변신후IPO준비하더니..'미회수채권'회...",
+  "공무원AI에중국산모델썼다…배경훈“독파모모델로바꾸겠다”",
+  "펑크와순애의결합,네오팝펑크사운드작렬…세가‘스튜피드네버...",
+  "[국감]中로봇독주속韓투자걸음마···\"피지컬AI·과학인재키워...",
+  "\"중기1만곳,AI보안솔루션구독료500억지원\"…정부,내년보안예산...",
+  "“전장분석부터판단까지돕는다”…SKT,軍지휘관돕는‘AI참모’...",
+  "[기획]수조원대‘이익잔치’벌이더니…보안엔1%도안쓰는은행"
  ],
  "recent_sigs": [
   [
@@ -7199,9 +7199,13 @@
   [
    "2026-10-06T18:32:18.500906+09:00",
    "국방 본격 5기 방산혁신기업 방위사업청 에이로봇 확장 분야 선정"
+  ],
+  [
+   "2026-10-06T18:40:27.608671+09:00",
+   "이익잔치 쓰는 수조원대 은행 벌이더니 보안엔"
   ]
  ],
- "last_run": "2026-10-06T18:38:37.079802+09:00",
+ "last_run": "2026-10-06T18:40:53.030513+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
