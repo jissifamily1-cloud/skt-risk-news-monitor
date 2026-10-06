@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://star.ytn.co.kr/_sn/0117_202610061033036613",
-  "http://www.foodnews.co.kr/news/articleView.html?idxno=120426",
-  "https://www.farmnmarket.com/news/article.html?no=28058",
-  "https://mhnse.com/news/articleView.html?idxno=1575865",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3713742",
   "https://lawtalknews.co.kr/article/D1HUVYZ9BLSE",
   "https://biz.chosun.com/industry/company/2026/10/06/POIYN4YSOJE3LCGRM3F3G3XVKM/",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/06/2026100690069.html",
@@ -2999,14 +2994,14 @@
   "https://www.cstimes.com/news/articleView.html?idxno=723067",
   "https://www.sportschosun.com/basketball/2026-10-06/202610060100043050002769",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785523&plink=ORI&cooper=NAVER",
-  "https://www.ppss.kr/news/articleView.html?idxno=314169"
+  "https://www.ppss.kr/news/articleView.html?idxno=314169",
+  "http://www.kwangju.co.kr/article.php?aid=1791286200804016372",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005933243",
+  "https://www.ytn.co.kr/_ln/0102_202610062007332969",
+  "https://www.kyeongin.com/article/1772093",
+  "https://www.fnnews.com/news/202610061949172353"
  ],
  "seen_titles": [
-  "잇단해킹에은행권긴급보안점검",
-  "1.02TB털린뒤13개월…웰컴금융,또해킹에뚫렸다",
-  "(단독)개보위,유출신고몰리는데조사관은정원미달…강남언니조사...",
-  "[금융단신]국민은행·우리은행·카카오뱅크·케이뱅크",
-  "[금융권소식]KB국민은행ㆍ하나은행ㆍ우리은행(10.6)",
   "모디세이,6개월성장결실'팬콘서트투어오사카·요코하마포문'",
   "1위‘욕심부린’LG와1위‘내려놓은’kt의상반된결과…\"야구몰라...",
   "이보영,'이혼조사관홍말금'타이틀롤…휴먼법정극으로안방컴백",
@@ -6001,7 +5996,12 @@
   "\"AI공격엔AI자율방어로맞선다\"건보공단,AI기반해킹비상체제가...",
   "[현장분석]삼성에충격패KT.충격적전반결과.LG에53-39,전반14점...",
   "[단독]대형교회2곳까지…민감정보'100만개'털렸다",
-  "이란전에도쓴'클로드'결국퇴출…미국방부,앤트로픽과결별"
+  "이란전에도쓴'클로드'결국퇴출…미국방부,앤트로픽과결별",
+  "국민의힘‘호남반도체’또딴지…삼성·SK투자배경집중추궁",
+  "웰컴저축은행해킹두시간가까이지속…사고발생닷새후인지",
+  "'해킹시도'IP28개특정...금융권전방위공격정황",
+  "팀일으킨끝에…KTwiz,WIN이됐다",
+  "해킹당하고닷새간몰랐다…웰컴저축銀119시간공격노출"
  ],
  "recent_sigs": [
   [
@@ -7083,9 +7083,17 @@
   [
    "2026-10-06T20:28:17.640018+09:00",
    "비상체제 건보공단 공격엔 기반 자율방어로 맞선다"
+  ],
+  [
+   "2026-10-06T20:34:58.839360+09:00",
+   "WIN이 ~KT 끝에 wiz 됐다 일으킨"
+  ],
+  [
+   "2026-10-06T20:34:58.839360+09:00",
+   "해킹당하고 닷새간 몰랐다 웰컴저축 노출 공격 119시간"
   ]
  ],
- "last_run": "2026-10-06T20:32:39.077138+09:00",
+ "last_run": "2026-10-06T20:35:26.479773+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
