@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newdaily.co.kr/site/data/html/2026/10/06/2026100600319.html",
-  "https://www.ppss.kr/news/articleView.html?idxno=314216",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726881",
-  "https://www.cstimes.com/news/articleView.html?idxno=723044",
-  "https://www.sidae.com/article/2026100613234626371",
-  "https://www.ekn.kr/web/view.php?key=20261006022142849",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610021603366840106367",
-  "https://www.edaily.co.kr/News/Read?newsId=04624806645610296&mediaCodeNo=257",
-  "https://www.xportsnews.com/article/2204491",
-  "https://news.mtn.co.kr/news-detail/2026100615071569586",
   "https://www.dailian.co.kr/news/view/1698341/?sc=Naver",
   "http://www.metroseoul.co.kr/article/20261006500411",
   "https://www.ekn.kr/web/view.php?key=20261006020592844",
@@ -2999,19 +2989,19 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=870602",
   "https://www.newsis.com/view/NISX20261007_0003816704",
   "https://www.etnews.com/20261006000425",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7187712"
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7187712",
+  "https://www.sctoday.co.kr/news/articleView.html?idxno=48711",
+  "https://biz.heraldcorp.com/article/10895091",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65364",
+  "https://news.mtn.co.kr/news-detail/2026100318300591608",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424075",
+  "https://www.ajunews.com/view/20261007092203679",
+  "https://www.newspim.com/news/view/20261007000260",
+  "http://www.segyebiz.com/newsView/20261007504397?OutUrl=naver",
+  "https://www.newspim.com/news/view/20261007000222",
+  "https://www.widedaily.com/news/articleView.html?idxno=301769"
  ],
  "seen_titles": [
-  "SKT,한글날앞두고'UX라이팅가이드'개발…고객감정까지살핀문구...",
-  "티빙,2년전경고에도보안구멍···LG유플러스는침해서버폐기의...",
-  "[뉴스워커_우리은행]LG유플러스'익시오'와실시간연동…보이스피싱...",
-  "[포토]과방위증인으로출석한이상운KTCISO",
-  "금융당국,소비자경보'주의'발령...금융권해킹에보이스피싱·스미싱...",
-  "금융권해킹전방위확산…인터넷은행까지공격",
-  "해킹IP,인뱅3사도노렸다…카카오·케이·토스피해없어",
-  "[기자노트/염윤경]금융권AI해킹,증권가는안전한가",
-  "신세계그룹,워너브라더스인수에1조4000억원베팅…‘콘텐츠영토’...",
-  "[더벨][최태원-노소영이혼소송]최태원,SK㈜지분일부매각…'재산분...",
   "배경훈\"핵심의무위반시위약금면제\"…LGU+,국감서\"최대한검토\"",
   "'KBO전체1순위픽'하현승고척에떴다!설종진감독첫인상은…\"생각...",
   "한-사우디투자포럼에'K방산'등판…'현지생산'카드로공략",
@@ -6001,7 +5991,17 @@
   "트웰브랩스,페가수스1.6출시",
   "글로벌금융권해킹비상…\"EY통해골드만삭스·맨그룹고객정보유출...",
   "플로리젠로보틱스-IDQ,국내최초'양자보안순찰로봇관제시스템'공동...",
-  "건보공단,AI활용해킹위협대비긴급비상대책회의"
+  "건보공단,AI활용해킹위협대비긴급비상대책회의",
+  "김종기류가야금산조맥지킨김진애명인의50여년…국악방송〈구술...",
+  "국내AI기업‘14곳’만난리사수AMD회장“韓,중요한파트너…새...",
+  "한컴이노스트림,피지컬AI인재키울'HANCOMAXLAB'출범",
+  "'뮤즈'돌풍에산업계양분…편승하거나자체생태계키우거나",
+  "과방위국감D-3···통신보안·빅테크·AI정책줄줄이검증대",
+  "'韓은행해킹악용'중국AI'ARTEX'가드러낸에이전트보안위험",
+  "[미국특징주]씨티의메타강세론...\"뮤즈,AI시대인터넷진입창구\"",
+  "은행‘AI해킹’사태에피해자들‘집단소송’움직임",
+  "\"SGA솔루션즈,금융권해킹대응수혜…제로트러스트사업주목\"-CMIR",
+  "\"다음타깃은병원?\"금융권턴AI해킹포화…민감정보쥔의료계도초..."
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,17 @@
   [
    "2026-10-07T09:34:16.517442+09:00",
    "건보공단 비상대책회의 긴급 활용 해킹위협 대비"
+  ],
+  [
+   "2026-10-07T09:36:15.815731+09:00",
+   "뮤즈 인터넷 시대 메타 창구 씨티의 진입 강세론"
+  ],
+  [
+   "2026-10-07T09:36:15.815731+09:00",
+   "금융권 민감정보 의료계도 병원 타깃은 다음 해킹포화"
   ]
  ],
- "last_run": "2026-10-07T09:34:40.662693+09:00",
+ "last_run": "2026-10-07T09:36:39.591951+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
