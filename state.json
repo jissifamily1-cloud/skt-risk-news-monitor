@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=366775",
   "https://www.ggilbo.com/news/articleView.html?idxno=1185629",
   "http://www.joseilbo.com/news/news_read.php?uid=576968&class=18",
   "https://www.newstnt.com/news/articleView.html?idxno=721810",
@@ -2999,10 +2998,10 @@
   "https://www.kukinews.com/article/view/kuk202610070216",
   "https://www.medipana.com/news/articleView.html?idxno=418919",
   "https://news.mtn.co.kr/news-detail/2026100715032714401",
-  "https://www.edaily.co.kr/News/Read?newsId=02069686645610952&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02069686645610952&mediaCodeNo=257",
+  "https://www.pressian.com/pages/articles/2026100711333909575"
  ],
  "seen_titles": [
-  "인터넷은행정보보호투자비중비슷한데…인력은2.6배",
   "중수청본격업무돌입에도수기로사건접수·배당…\"준비된게없어\"",
   "2026아이치-나고야아시안게임메달리스트세리머니",
   "\"여행검색하면숙소예약부터일정알림까지\"⋯KT'모두의AI','실행형...",
@@ -6001,7 +6000,8 @@
   "보험사도해킹시도흔적…GA까지보안점검확대",
   "배우던한국병원,이젠세계가배우러온다…달라진19년",
   "지난해유출된한독고객정보,다크웹서노출…실명부터주소·번호까지...",
-  "공소청남은수사속도,중수청은새사건배당…\"기관간공조관건\""
+  "공소청남은수사속도,중수청은새사건배당…\"기관간공조관건\"",
+  "여의도순복음교회서해킹의심공격…성도85만명정보유출"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,13 @@
   [
    "2026-10-08T06:08:18.570995+09:00",
    "속도 남은 수사 기관 공조 배당 사건 중수청은 관건 공소청"
+  ],
+  [
+   "2026-10-08T06:10:26.101727+09:00",
+   "의심 유출 85만명 여의도순복음교회서 공격 정보 성도"
   ]
  ],
- "last_run": "2026-10-08T06:08:39.410453+09:00",
+ "last_run": "2026-10-08T06:10:44.255236+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
