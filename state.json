@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553594868",
-  "http://www.ikld.kr/news/articleView.html?idxno=341847",
-  "https://www.ddaily.co.kr/page/view/2026100621134228359",
-  "https://www.mt.co.kr/stock/2026/10/07/2026100709050286824",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=265163",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=132923",
   "https://www.ddaily.co.kr/page/view/2026100708583398844",
   "https://www.mk.co.kr/article/12170009",
   "https://www.energy-news.co.kr/news/articleView.html?idxno=228801",
@@ -2999,15 +2993,15 @@
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=617714",
   "http://www.osen.co.kr/article/G1112889204",
   "https://www.hankyung.com/article/2026100792121",
-  "https://news.jtbc.co.kr/article/NB12321810?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12321810?influxDiv=NAVER",
+  "https://www.newspim.com/news/view/20261007001535",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315742&inflow=N",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493497",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477942",
+  "https://www.donga.com/news/It/article/all/20261007/134801498/1",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870921"
  ],
  "seen_titles": [
-  "[뉴욕증시포커스]실적기대·국채금리하락에주요3대지수상승…S&P5...",
-  "SK텔레콤,100년전'말모이'AI로되살렸다…윤슬·숫눈다시일상으로",
-  "[뉴스앤데이터]대기업오너4·5세10명중9명유학파…학부부터해...",
-  "장스푸드스텔라떡볶이,‘무뼈닭발떡볶이’출시기념리뷰이벤트",
-  "[비즈인사이트]KT계열사10곳상반기매출성적표…코스피‘흐림’...",
-  "AMD리사수,韓반도체기업과회동…“글로벌진출지원”",
   "리사수만난류제명차관…AMD·국산AI반도체협력모색",
   "리사수,韓AI반도체14개사만났다…AMD생태계연결추진",
   "로그프레소,챗GPT엔터프라이즈사용기록보안분석앱출시",
@@ -6001,17 +5995,15 @@
   "신한은행해킹피해자들,손해배상소송준비",
   "‘우승해야하는데’구자욱진짜가을야구못뛰나,삼성초긴장상태...",
   "[단독]현대차그룹,이달남양서'미래차10년'비전발표",
-  "[더in터뷰]금융권덮친'AI해킹',원인은?\"기업들,해킹예방관심부..."
+  "[더in터뷰]금융권덮친'AI해킹',원인은?\"기업들,해킹예방관심부...",
+  "[핌in잠실]20세최민석어깨에달린'다승왕·두산순위싸움'",
+  "(AI의위협)③멈추자vs.늦추자…인류운명가를‘AI논쟁’",
+  "[코스피지수선물옵션]삼성전자·SK하이닉스급락…개별주식선물시장...",
+  "KT'모두의AI'12월출격···국산AI·NPU묶어'원팀'승부",
+  "한국사회전체가표적됐다…AI해킹에은행·교회·기업무차별노출",
+  "기아노조원5000명개인정보'줄줄'…위탁업체해킹'불똥'"
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T12:48:15.552965+09:00",
-   "아시안게임 후원 값진 ~SKT 나눴다 결실 선수와"
-  ],
-  [
-   "2026-10-07T12:48:15.552965+09:00",
-   "과거 필요 EBS구성원들 추천 검증 반발 이사 행적 국힘"
-  ],
   [
    "2026-10-07T12:50:26.678893+09:00",
    "B2G 확대에 보안시장 정부 보안평가 주목 막아라 전면"
@@ -7003,9 +6995,21 @@
   [
    "2026-10-07T18:46:18.134134+09:00",
    "기업들 예방 관심 원인은 덮친 금융권"
+  ],
+  [
+   "2026-10-07T18:48:16.818972+09:00",
+   "SK하이닉스 삼성전자 급락 시장 개별주식선물"
+  ],
+  [
+   "2026-10-07T18:48:16.818972+09:00",
+   "기업 은행 전체가 노출 해킹에 교회 사회 무차별 한국 표적됐다"
+  ],
+  [
+   "2026-10-07T18:48:16.818972+09:00",
+   "개인정보 불똥 위탁업체 줄줄 노조원 기아 5000명"
   ]
  ],
- "last_run": "2026-10-07T18:46:37.283571+09:00",
+ "last_run": "2026-10-07T18:48:40.432055+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
