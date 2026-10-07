@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202610051134509408",
-  "https://www.newsway.co.kr/news/view?ud=2026100510520739367",
-  "https://news.jtbc.co.kr/article/NB12321363?influxDiv=NAVER",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171423",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005931972",
-  "https://biz.sbs.co.kr/article_hub/20000338277?division=NAVER",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4110301",
   "https://www.khan.co.kr/article/202610051028001",
   "https://www.fnnews.com/news/202610051008112185",
@@ -2999,15 +2993,15 @@
   "https://www.g-enews.com/view.php?ud=2026100714210135003d7a510102_1",
   "https://www.kmaeil.com/news/articleView.html?idxno=653727",
   "https://www.greened.kr/news/articleView.html?idxno=351586",
-  "https://www.newstnt.com/news/articleView.html?idxno=721828"
+  "https://www.newstnt.com/news/articleView.html?idxno=721828",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94199",
+  "https://www.viva100.com/article/20261007500930",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493368",
+  "https://www.cnbizm.com/news/articleView.html?idxno=317335",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1726995",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259413"
  ],
  "seen_titles": [
-  "50만달러로95분영화뚝딱…할리우드삼킨AI",
-  "SpaceXAI,Grok·X구독4단계로개편검토…월8달러~100달러",
-  "\"AI는없다,이제SI다\"…트럼프의'슈퍼지능'선언,통제인가과속인가",
-  "LGCNS,제너럴애틀랜틱과SW·AI기업공동투자",
-  "자잘한일‘이렇게’해결,AI에게맡기면잘하는일6",
-  "SlowLetter:October01,2026.",
   "TheAIfolksdon'tseemtounderstandintelligence",
   "AI’sdangerousrush(KOR)",
   "[뉴욕증시]물가둔화속장기금리부담에혼조세…다우0.86%↓",
@@ -6001,17 +5995,15 @@
   "LGU+,도서산간고객찾아간다…이동형매장운영",
   "인천시,글로벌한인생명과학자와바이오협력...인천바이오과학기술...",
   "금감원,증권사내부통제정조준...\"기본조차안지키는위법반복\"",
-  "SK텔레콤,아시안게임메달리스트초청'메달리스트세리머니'개최"
+  "SK텔레콤,아시안게임메달리스트초청'메달리스트세리머니'개최",
+  "ARTEX,여러AI를'두뇌'로침투테스트자동화…실행권한관리과제",
+  "인천시1만6000명글로벌한인바이오인재와손잡는다",
+  "한화자산운용,사내AI해커톤경진대회'2026AIPLUSthon'성료",
+  "SK텔레콤,아시안게임메달리스트8명과'값진결실'자축",
+  "[Telecom&Now]SKT,자체개발AI로100년전우리말·글되살렸다등",
+  "[기자수첩]은행옆문뚫리는데개보위는'익명·가명정보'로눈가리고..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T08:42:17.320424+09:00",
-   "전개 쓰기 우리말 ~SKT 기록 일상에서 다시 말모이 캠페인"
-  ],
-  [
-   "2026-10-07T08:42:17.320424+09:00",
-   "LG생활건강 성공 중남미로 방정식 북미"
-  ],
   [
    "2026-10-07T08:44:15.241678+09:00",
    "11개 재촉에도 개정 방송사 편성규약"
@@ -6911,9 +6903,17 @@
   [
    "2026-10-07T14:36:52.760119+09:00",
    "AWS 중국 서비스 미국 플랫폼 문샷 올라탄 진입 즈푸"
+  ],
+  [
+   "2026-10-07T14:42:17.741533+09:00",
+   "AI로 우리말 개발 ~SKT 자체 100년 되살렸다"
+  ],
+  [
+   "2026-10-07T14:42:17.741533+09:00",
+   "옆문 가명 개보위는 뚫리는데 익명 정보 눈가리고 은행"
   ]
  ],
- "last_run": "2026-10-07T14:40:47.368282+09:00",
+ "last_run": "2026-10-07T14:42:38.627136+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
