@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.boannews.com/news/articleView.html?idxno=146227",
-  "https://sports.khan.co.kr/article/202610071339003?pt=nv",
-  "https://www.energydaily.co.kr/news/articleView.html?idxno=203878",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366775",
   "https://www.ggilbo.com/news/articleView.html?idxno=1185629",
   "http://www.joseilbo.com/news/news_read.php?uid=576968&class=18",
@@ -2999,12 +2996,12 @@
   "https://www.sidae.com/article/2026100711413929161",
   "https://isplus.com/article/view/isp202610070253",
   "https://www.segye.com/newsView/20261007520200?OutUrl=naver",
-  "https://www.kukinews.com/article/view/kuk202610070216"
+  "https://www.kukinews.com/article/view/kuk202610070216",
+  "https://www.medipana.com/news/articleView.html?idxno=418919",
+  "https://news.mtn.co.kr/news-detail/2026100715032714401",
+  "https://www.edaily.co.kr/News/Read?newsId=02069686645610952&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[AI프리뷰]7일부산롯데-KIA전,3위수성노리는KIA와유종의미바라...",
-  "아티젠스페이스,한국마사회와AI·AR전시콘텐츠현장실증",
-  "한국HBM수출200배뛴말레이시아…어떻게‘후공정허브’됐나",
   "인터넷은행정보보호투자비중비슷한데…인력은2.6배",
   "중수청본격업무돌입에도수기로사건접수·배당…\"준비된게없어\"",
   "2026아이치-나고야아시안게임메달리스트세리머니",
@@ -6001,7 +5998,10 @@
   "금융보안원,모의해킹점검팀신설'유명무실'",
   "MVP곽빈·김도영?\"KBO신기록인데,우리도봐줘요\"",
   "서울1인가구,나이들수록자산격차심화",
-  "보험사도해킹시도흔적…GA까지보안점검확대"
+  "보험사도해킹시도흔적…GA까지보안점검확대",
+  "배우던한국병원,이젠세계가배우러온다…달라진19년",
+  "지난해유출된한독고객정보,다크웹서노출…실명부터주소·번호까지...",
+  "공소청남은수사속도,중수청은새사건배당…\"기관간공조관건\""
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,13 @@
   [
    "2026-10-08T06:06:21.979569+09:00",
    "확대 보안 보험사도 흔적 시도 점검 GA까지"
+  ],
+  [
+   "2026-10-08T06:08:18.570995+09:00",
+   "속도 남은 수사 기관 공조 배당 사건 중수청은 관건 공소청"
   ]
  ],
- "last_run": "2026-10-08T06:06:48.970604+09:00",
+ "last_run": "2026-10-08T06:08:39.410453+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
