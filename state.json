@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12152947",
-  "https://www.fnnews.com/news/202609150925341503",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116036",
-  "http://www.gnmaeil.com/news/articleView.html?idxno=596043",
-  "https://www.yna.co.kr/view/AKR20261006196100007?input=1195m",
-  "https://www.hankyung.com/article/2026091546186",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=300880",
-  "https://www.g-enews.com/view.php?ud=202609121907047757fda4f5ab74_1",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7183419",
-  "https://www.donga.com/news/It/article/all/20260910/134642935/1",
-  "https://www.mk.co.kr/article/12147933",
   "https://www.edaily.co.kr/News/Read?newsId=03168486645578152&mediaCodeNo=257",
   "http://www.fnnews.com/news/202608201335100050",
   "https://www.edaily.co.kr/news/newspath.asp?newsid=03663766645548632",
@@ -2999,20 +2988,20 @@
   "https://www.sedaily.com/article/20098957",
   "https://www.thepublic.kr/news/articleView.html?idxno=321359",
   "https://www.munhwa.com/article/11621892",
-  "https://www.newspim.com/news/view/20261007000670"
+  "https://www.newspim.com/news/view/20261007000670",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=665887",
+  "https://www.khan.co.kr/article/202610062116025",
+  "https://www.chosun.com/opinion/manmulsang/2026/09/30/OVDZ5E2GDJFI3HAED53UKTAB6Q/",
+  "https://www.hankyung.com/article/202609229388i",
+  "https://www.etoday.co.kr/news/view/2628239",
+  "https://www.chosun.com/economy/tech_it/2026/09/17/PPS7LRQ3N5EH5PVOUKUY74BMMU/",
+  "https://www.donga.com/news/Economy/article/all/20260916/134676459/2",
+  "http://www.inews24.com/view/2012591",
+  "https://www.ppss.kr/news/articleView.html?idxno=314270",
+  "https://www.news1.kr/society/incident-accident/6312781",
+  "https://view.asiae.co.kr/article/2026100710324699226"
  ],
  "seen_titles": [
-  "'최고령KS데뷔확정'우규민,\"3번더우승하고싶어요\"",
-  "[IS고척]역시정규시즌1위...'최원준201안타'KT위즈,주전빼고치...",
-  "[IS잠실]'드디어이겼다'홈런3방쾅쾅쾅…LG,NC6-1꺾고8연패탈출",
-  "오스틴홈런+박시원호투+박해민2도루=LG8연패탈출",
-  "\"3점폭발11점질주\"수원kt,LG에25점차대승",
-  "‘삼성에뺨맞은’KT,LG에분풀이···‘23점배스’등4명두자릿수...",
-  "최원준201안타'레이예스기다려!'→류현인4안타폭발…KT,정규1위자...",
-  "'12년만의토종200안타'최원준새역사썼다!…정규시즌챔피언KT는...",
-  "48억진짜헐값이네,'2루타-안타'최원준韓2호200안타고지점령→대...",
-  "HEY레이예스,끝까지가보자고!‘최원준201안타→승승승승승승승’...",
-  "1위확정하고도KT는계속이긴다···최원준시즌201안타폭발[스경X...",
   "두산,롯데꺾고3연승질주…레이예스,최초200안타2번달성",
   "'우승'KT다음날,최원준'역대3번째200안타'쐈다!키움10-1대파→7...",
   "샌즈랩·아티스트스튜디오30%↑…급등주속출",
@@ -6001,7 +5990,18 @@
   "트럼프도당했다…트럼프모바일,고객3615명정보유출",
   "전방위로확대되는北해킹설…금융권겨냥한'AI공격'배후설부상",
   "단29분…AI,내부망해킹시간",
-  "순복음교회·사랑의교회도해킹당해…수십만명개인정보유출"
+  "순복음교회·사랑의교회도해킹당해…수십만명개인정보유출",
+  "국회도서관토론회,고성·항의로얼룩",
+  "‘검사의수사’마지막90일…노태우비자금의혹,공소청서마저캐나",
+  "[만물상]헌책방의‘AI퇴직금’?",
+  "MS부회장의경고\"AI가무섭다면기업세금부터줄여야\"",
+  "트럼프“AI통제수단이미있어⋯안전성논의는사기극”",
+  "AI끼리살게했더니...인간이해독할수없는비밀언어를만들어냈다",
+  "[단독]“AI개발감속”외쳤지만,새모델공개주기1년새210→47일‘가...",
+  "이형일\"3대메가프로젝트로미래투자\"⋯기업투자걸림돌해소",
+  "中오픈소스ARTEXAI,금융권해킹악용...보안업계초긴장",
+  "경찰\"금융기관해킹IP다수'세탁용'\"…경로추적중",
+  "신한은행대출모집시스템,'전자금융기반시설'인정되나…해킹사고제..."
  ],
  "recent_sigs": [
   [
@@ -7079,9 +7079,13 @@
   [
    "2026-10-07T11:54:17.641616+09:00",
    "당해 순복음교회 수십만명 사랑의교회도 유출 개인정보"
+  ],
+  [
+   "2026-10-07T11:56:17.907727+09:00",
+   "전자금융기반시설 시스템 인정되나 대출모집 사고 신한은행"
   ]
  ],
- "last_run": "2026-10-07T11:54:42.177700+09:00",
+ "last_run": "2026-10-07T11:56:36.420889+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
