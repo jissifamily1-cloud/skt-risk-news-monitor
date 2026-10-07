@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=213299",
   "https://www.mk.co.kr/article/12161924",
   "http://www.metroseoul.co.kr/article/20260927500171",
   "https://www.hankyung.com/article/202610018253g",
@@ -2999,10 +2998,10 @@
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318357",
   "https://www.yna.co.kr/view/AKR20261007096000504?input=1195m",
   "https://dealsite.co.kr/articles/170227",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88498"
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88498",
+  "https://www.ytn.co.kr/_ln/0102_202610070925041560"
  ],
  "seen_titles": [
-  "SK브로드밴드'Btv핫딜',10개월누적판매액100억기록",
   "SKB'Btv핫딜'10개월만에100억…TV도숏폼커머스뜬다",
   "KT,AI로'광고안닿은고객'찾는설루션개발",
   "SKB‘Btv핫딜’,론칭10개월만에누적판매액100억원돌파",
@@ -6001,17 +6000,10 @@
   "EBS구성원들,국힘이사추천반발…\"과거행적검증필요\"",
   "北지뢰대응공방…\"책임추궁해야\"vs\"근본대책중요\"",
   "“해킹막아라”…정부보안평가전면확대에B2G보안시장주목",
-  "금융권개인정보유출비상…금융당국\"2차피해주의해야\""
+  "금융권개인정보유출비상…금융당국\"2차피해주의해야\"",
+  "반도체'구루'의진단\"CPU황금기가다시왔다,GPU병목→CPU병목으로..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T06:54:15.993169+09:00",
-   "후보 ~KT 패배 우승 선사하며 LG에 반전"
-  ],
-  [
-   "2026-10-07T06:56:15.079671+09:00",
-   "6조 타고 쓰나 초읽기 열풍 역사 달러 시총 주가"
-  ],
   [
    "2026-10-07T07:00:43.450554+09:00",
    "금융권 취약 보안은 커진 약한 몸집 고리 GA 해킹에 우려"
@@ -6873,7 +6865,7 @@
    "B2G 확대에 보안시장 정부 보안평가 주목 막아라 전면"
   ]
  ],
- "last_run": "2026-10-07T12:54:34.931719+09:00",
+ "last_run": "2026-10-07T12:56:39.155983+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
