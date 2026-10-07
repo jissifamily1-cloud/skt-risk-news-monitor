@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202610062100006?pt=nv",
-  "https://www.kukinews.com/article/view/kuk202610060223",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=16923",
-  "https://www.news2day.co.kr/article/20261006500239",
-  "https://m.sports.naver.com/basketball/article/065/0000302509",
-  "https://www.mediawatch.kr/news/article.html?no=261281",
-  "http://www.kjdaily.com/article.php?aid=1791288186688423276",
-  "https://www.edaily.co.kr/News/Read?newsId=05949926645610296&mediaCodeNo=257",
-  "https://www.mydaily.co.kr/page/view/2026100619013428219",
-  "https://www.nytimes.com/2026/10/06/business/dealbook/anthropic-reflection-open-weight-ai.html?partner=naver",
   "https://basketkorea.com/news/newsview.php?ncode=1065614052720936",
   "https://biz.heraldcorp.com/article/10894753",
   "https://www.yna.co.kr/view/AKR20261006194000007?input=1195m",
@@ -2999,19 +2989,19 @@
   "https://biz.heraldcorp.com/article/10895525",
   "https://www.seoul.co.kr/news/publicnews/2026/10/07/20261007500086?wlog_tag3=naver",
   "https://www.newscj.com/news/articleView.html?idxno=3438482",
-  "https://biz.heraldcorp.com/article/10895533"
+  "https://biz.heraldcorp.com/article/10895533",
+  "http://www.metroseoul.co.kr/article/20261007500210",
+  "https://biz.sbs.co.kr/article_hub/20000338684?division=NAVER",
+  "https://www.seoulfn.com/news/articleView.html?idxno=639517",
+  "https://www.khan.co.kr/article/202610071133001",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=230967",
+  "https://www.boannews.com/news/articleView.html?idxno=146220",
+  "https://biz.heraldcorp.com/article/10895535",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223492",
+  "https://view.asiae.co.kr/article/2026100710130675312",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493327"
  ],
  "seen_titles": [
-  "[국감2026]AI정책검증집중…배경훈\"국가AI사업책임지고추진\"",
-  "[월드e-브리핑]유로화,17개월만에최저…프랑스재정불안에'흔들'",
-  "BNK등금융권해킹,경찰수사착수",
-  "美코넬대집단성폭행의혹…교수진,대학불신임결의안",
-  "앤트로픽이불붙인‘AI의인화’…교황“인간과존재론적차이”",
-  "200안타최원준",
-  "[산업AIEXPO프리뷰]에이전틱AI④|‘컴퍼니브레인’에조직의판...",
-  "문샷AI·딥시크,내년IPO앞두고대규모자금조달진",
-  "정부AI플랫폼외산논란에···과기부,독파모2차모델로교체추진",
-  "일본도피해속출...증권사·식당·언론사도털렸다",
   "KT최원준·롯데레이예스,나란히200안타…프로야구역대첫동시달...",
   "200안타2루타로장식한최원준",
   "울산동구방어동,제30회노인의날기념행사성황리개최",
@@ -6001,7 +5991,17 @@
   "정보보호‘기본인증’조차없었다[H-EXCLUSIVE]",
   "집있으면자산3.6배…서울노년자산집이갈랐다",
   "대기업오너4·5세94%가유학파…학부부터해외진학늘었다",
-  "현실이된딥시크發해킹쇼크…아르텍스와‘AI연동’에뚫렸나"
+  "현실이된딥시크發해킹쇼크…아르텍스와‘AI연동’에뚫렸나",
+  "ACE미국빅테크TOP7PlusETF,순자산1조2408억원돌파",
+  "이시각주요뉴스",
+  "금감원,증권사에'IT보안전면재점검'주문···신용융자관리도강화",
+  "1인가구자산격차나이들수록심화···60대후반은3.6배차이",
+  "LG유플러스,도서산간직접찾아간다…이동형'찾아가는매장'운영",
+  "[은행이뚫린다]\"해킹툴아닌AI도구\"...'아르텍스'가한글판으로공...",
+  "디지털자산거래소도해킹긴급점검",
+  "금융권해킹공격IP28개분석했더니…상당수는'세탁용'",
+  "\"AI해킹빙산의일각…SW이력관리·파편화된소통채널통합해야\"",
+  "웰컴저축은행·현대캐피탈,해킹공격받고도닷새간몰랐다"
  ],
  "recent_sigs": [
   [
@@ -7047,9 +7047,13 @@
   [
    "2026-10-07T11:34:15.454296+09:00",
    "현실이 딥시크 아르텍스와 쇼크 뚫렸나 연동"
+  ],
+  [
+   "2026-10-07T11:36:16.415560+09:00",
+   "AI해킹 빙산의 통합해야 소통 SW이력관리 파편화된 일각 채널"
   ]
  ],
- "last_run": "2026-10-07T11:34:36.542814+09:00",
+ "last_run": "2026-10-07T11:36:35.217025+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
