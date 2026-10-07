@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1240995",
-  "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086412",
-  "https://www.sedaily.com/article/20098703",
-  "https://www.dailian.co.kr/news/view/1698378/?sc=Naver",
-  "https://www.newsis.com/view/NISX20261006_0003816222",
-  "https://zdnet.co.kr/view/?no=20261006173042",
-  "https://www.stnsports.co.kr/news/articleView.html?idxno=323664",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273156&CMPT_CD=P0010",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870488",
-  "https://www.newscj.com/news/articleView.html?idxno=3438308",
-  "https://www.ajunews.com/view/20261006172108744",
   "https://www.getnews.co.kr/news/articleView.html?idxno=882768",
   "https://www.pointe.co.kr/news/articleView.html?idxno=85660",
   "https://www.ajunews.com/view/20261006175243881",
@@ -2999,20 +2988,20 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=122916",
   "https://www.sedaily.com/article/20098911",
   "http://www.snmnews.com/news/articleView.html?idxno=575581",
-  "https://www.viva100.com/article/20261007500532"
+  "https://www.viva100.com/article/20261007500532",
+  "https://www.ajunews.com/view/20261007102103987",
+  "https://dhnews.co.kr/news/view/1065577179668501",
+  "https://game.donga.com/124572/",
+  "https://www.tokenpost.kr/news/cryptocurrency/419115",
+  "https://www.newsis.com/view/NISX20261007_0003816510",
+  "https://www.nytimes.com/2026/10/06/books/review/the-agi-chronicles-kevin-roose.html?partner=naver",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=394754",
+  "https://www.g-enews.com/view.php?ud=202610061446485356bb91c46fcd_1",
+  "https://www.joongang.co.kr/article/25467782",
+  "https://www.newsis.com/view/NISX20261007_0003816840",
+  "https://www.ppss.kr/news/articleView.html?idxno=314341"
  ],
  "seen_titles": [
-  "[AI해킹일파만파]2금융,보안투자늘렸지만못막아…\"실질적방어...",
-  "개인정보유출에고개숙인플랫폼사업자들…LGU+는'은폐의혹'재점화",
-  "[IS피플]유느님과토크...'전체1순위'하현승\"유퀴즈,한번더출연...",
-  "막오르는'2026산업AIEXPO'…시즐,AI솔루션공개에쏠린눈",
-  "InRaceWithU.S.,ChinaStrugglestoRecruitForeignA.I.Researchers",
-  "美국방부,앤스로픽AI도구사용중단",
-  "금감원,신한은행정보유출현장검사전환…법위반집중점검",
-  "김선민조국혁신당의원“클라우드장애,292곳데이터소실…법,책임...",
-  "은행·캐피탈7곳정보유출…AI해킹에금융보안체계시험대",
-  "코인거래소도해킹위험지대…고팍스개인보호인증미취득",
-  "[2026국감]독파모공정성부터LG유플위약금까지…과방위도마위(종합...",
   "\"내정보가이렇게허술하게?\"…국감서뭇매맞은IT플랫폼(종합)",
   "[현장]\"우리AI,잘쓰게만들어야\"…이해민·하정우,산업활용성‘집...",
   "KT,내년도신인드래프트지명선수들과계약완료",
@@ -6001,7 +5990,18 @@
   "LG유플러스,도서산간찾아가는이동형매장운영",
   "“이러다한국다털리면어떡하나”…中해킹대회우승한AI,韓은행공...",
   "이렘,오는21일이사선임단일안건주주총회개최예정",
-  "고향사랑기부민간플랫폼‘위기브’,누적모금액400억원돌파…지정..."
+  "고향사랑기부민간플랫폼‘위기브’,누적모금액400억원돌파…지정...",
+  "더빨라진中AI모델개발속도\"한달새16개출시\"",
+  "이퓨월드,지역특화'관광콘텐츠'공개",
+  "1300만원으로동접120만...대만엔지니어,‘타이베이판GTA’만들어...",
+  "조콘소르티\"비트코인,10만달러회복가까워졌다\"",
+  "AI에이전트뜨자CPU도재부상…AMD·인텔한달새32%·21%↑",
+  "Sure,RobotsMightKillUsAll.ButDoTheyHaveSouls?",
+  "[미국주식]테오도르의월스트리트분석10월6일~10월7일(미국시간)",
+  "[AI해킹일파만파]한은前총재도반년전우려했지만…은행권‘보안...",
+  "여의도순복음교회,“성도85만명이름·생년월일유출의심”",
+  "\"스페이스X,엔비디아칩구매위해400억달러자금조달추진\"",
+  "은행·저축은행·캐피탈까지7곳뚫렸다…AI해킹에금융권보안체계'비..."
  ],
  "recent_sigs": [
   [
@@ -6853,7 +6853,7 @@
    "우승한 은행 어떡하나 해킹대회 털리면 이러다 한국"
   ]
  ],
- "last_run": "2026-10-07T10:42:43.619926+09:00",
+ "last_run": "2026-10-07T10:44:32.531178+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
