@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jbnews.com/news/articleView.html?idxno=1513001",
-  "https://www.ytn.co.kr/_ln/0101_202610071500429958",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4110843",
-  "https://www.hankookilbo.com/news/article/A2026100711500000761?did=NA",
-  "https://www.dt.co.kr/article/12087928",
-  "https://www.newsis.com/view/NISX20261007_0003816976",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071446539710791",
-  "https://www.viva100.com/article/20261007500959",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192939",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726999",
   "https://hbnpress.com/news/view/1065592863949556",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523438",
   "https://www.tgdaily.co.kr/news/articleView.html?idxno=407295",
@@ -2999,19 +2989,19 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=745180",
   "https://daily.hankooki.com/news/articleView.html?idxno=1413000",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172027",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261008084857ns0"
+  "http://www.yonhapnewstv.co.kr/news/AKR20261008084857ns0",
+  "https://sports.khan.co.kr/article/202610080850003?pt=nv",
+  "https://www.newsis.com/view/NISX20261008_0003818444",
+  "https://www.asiatime.co.kr/article/20261008500034",
+  "https://kpenews.com/View.aspx?No=4256004",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438255",
+  "https://www.newscj.com/news/articleView.html?idxno=3438732",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493585",
+  "https://www.yna.co.kr/view/PYH20261008016500013?input=1196m",
+  "https://www.ekn.kr/web/view.php?key=20261008023153615",
+  "https://www.chosun.com/economy/economy_general/2026/10/08/QR3IIJVTDBA2DD6ZOBADSBJ6IE/"
  ],
  "seen_titles": [
-  "대전학교구글계정7만5000개비번무단변경…최교진“전수조사나...",
-  "이재명대통령\"녹색대전환은첨단산업초격차유지위한필수전제\"",
-  "이대통령\"기후위기,생존위협현실...'녹색시장'설계자돼야\"",
-  "금융권해킹도구'아르텍스',딥시크연동확인",
-  "이번해킹은피했지만…금감원,증권사에\"경각심갖고보안체계점검...",
-  "개인정보유출,집단소송가나…‘해킹사고’후폭풍에금융권‘긴장’",
-  "[단독]나라살림전산망운영재정정보원에해킹시도급증…2년째500건...",
-  "[K-GX]①탈탄소를성장엔진으로…10년간1000조붓는다",
-  "신한은행해킹피해자들집단소송…타시중은행‘줄소송’가늠자되나",
-  "\"투자끊기고생존위기\"…집단소송법추진에벤처·스타트업계머리맞...",
   "[Telecom&Now]밀리의서재,10월'제철독서챌린지'도서공개",
   "현대엔지니어링,8700억규모인천데이터센터공사수주",
   "[국정감사]글로벌플랫폼이트래픽증가99%차지…망비용은누가내...",
@@ -6001,7 +5991,17 @@
   "삼성전자,3분기영업익107.4조…글로벌빅테크최초100조돌파",
   "SKT,업스테이지·보안기업·대학과AI정보보호기술협력",
   "스페이스X,엔비디아칩사려54조원조달?...AI'빚투'우려",
-  "머스크,트럼프가주는과학훈장받는다…\"관계완전회복\""
+  "머스크,트럼프가주는과학훈장받는다…\"관계완전회복\"",
+  "‘닥터X’김우석,시구→시투→라디오종횡무진홍보요정",
+  "\"식자재20만개가격한눈에\"…마켓보로'식봄',AI가격비교확대",
+  "파마리서치,'리쥬란'유사상표소송승소…브랜드보호체계가동",
+  "삼성전자,사상첫분기영업익100조돌파..증권가\"저평가\"분석",
+  "아마존,AI붐에도상장이후최저수준의PER기록",
+  "삼성전자3분기영업익107조4000억원…韓기업첫'분기100조'돌파",
+  "SKT·업스테이지,11개기업·대학과맞손...'독자AI사이버보안협의체...",
+  "SKT·업스테이지,국내대표보안기업·대학과'독자AI사이버보안협의...",
+  "‘분기영업익100조’새역사쓴삼성…엔비디아추월도눈앞",
+  "한국금융권해킹,중국광둥성거주자소행가능성…美보안업체분석"
  ],
  "recent_sigs": [
   [
@@ -6465,7 +6465,7 @@
    "관계 완전 받는다 과학훈장 머스크 주는 회복 트럼프가"
   ]
  ],
- "last_run": "2026-10-08T08:50:47.207944+09:00",
+ "last_run": "2026-10-08T08:52:33.673047+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
