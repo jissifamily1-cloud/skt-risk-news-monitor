@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/money/2026/10/07/XATWENAGG5FWJL3GTJ3Y2GDZDA/",
-  "https://www.mediajeju.com/news/articleView.html?idxno=366545",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260930.99099009792",
   "http://www.hellodd.com/news/articleView.html?idxno=113413",
   "http://weekly.chosun.com/news/articleView.html?idxno=55928",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20261007096052504?input=1195m",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261008.22005001879",
   "https://news.jtbc.co.kr/article/NB12321830?influxDiv=NAVER",
-  "https://www.ajunews.com/view/20261007194718082"
+  "https://www.ajunews.com/view/20261007194718082",
+  "https://www.newsis.com/view/NISX20261006_0003815878",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=183706"
  ],
  "seen_titles": [
-  "정보유출2만5천건vs1억건···주가는왜금세잊나",
-  "에버스핀,고객사대상ARTEX공격시도탐지…에버세이프웹대응력확...",
   "SKT,한글날100주년맞아AI로'말모이'복원…디지털글꼴공개",
   "다이먼\"앤스로픽'미토스'이후AI사이버위험10배증가\"",
   "여의도순복음교회·사랑의교회해킹당해...정보변경이력유출의심",
@@ -6001,17 +5999,11 @@
   "北지뢰대응공방…\"책임추궁해야\"vs\"근본대책중요\"(종합2보)",
   "금융기관해킹IP상당수‘세탁용’",
   "[단독]15년전듀오탈퇴했는데…군미필사유까지털렸다",
-  "금융권해킹IP,서금원까지접근…정보유출피해는없어"
+  "금융권해킹IP,서금원까지접근…정보유출피해는없어",
+  "美서도카드정보49만건털렸다…중국어사용해커,AI로100곳공격",
+  "9월마지막주ETF시장,코스닥·반도체·전고체배터리강세"
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T13:54:17.753859+09:00",
-   "매장으로 ~LGU 접점 고객 확대 이동형 LG유플러스"
-  ],
-  [
-   "2026-10-07T13:54:17.753859+09:00",
-   "공격 강화했다 ARTEX 악성 가능성 차단장치"
-  ],
   [
    "2026-10-07T13:56:16.846213+09:00",
    "전문가 데이터 포진 개인정보위 진용 이성엽 김광수"
@@ -6925,7 +6917,7 @@
    "세탁용 금융기관 상당수 IP"
   ]
  ],
- "last_run": "2026-10-07T19:54:35.243420+09:00",
+ "last_run": "2026-10-07T19:56:30.646582+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
