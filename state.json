@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202610060096",
-  "http://www.metroseoul.co.kr/article/20261006500018",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=65300",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678321",
-  "https://www.edaily.co.kr/News/Read?newsId=02522326645610296&mediaCodeNo=257",
-  "https://www.munhwa.com/article/11621510",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145274",
-  "https://www.kbmaeil.com/article/20261006500024",
-  "https://www.ikbc.co.kr/article/view/kbc202610060007",
   "https://www.imaeil.com/page/view/2026100607183442882",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=65290",
   "https://www.getnews.co.kr/news/articleView.html?idxno=882642",
@@ -2999,18 +2990,18 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=407890",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610071446106600109448",
   "https://www.newspim.com/news/view/20261007001068",
-  "https://www.etnews.com/20261007000360"
+  "https://www.etnews.com/20261007000360",
+  "http://www.wsobi.com/news/articleView.html?idxno=319337",
+  "https://www.kyeongin.com/article/1772129",
+  "https://www.hellot.net/news/article.html?no=115329",
+  "http://www.newstomato.com/ReadNews.aspx?no=1315933&inflow=N",
+  "https://www.starnewskorea.com/broadcast-show/2026/10/07/2026100622200545272",
+  "https://www.g-enews.com/view.php?ud=202610061956594499fbbec65dfb_1",
+  "https://www.pressian.com/pages/articles/2026100715062377953",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94203",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000553999"
  ],
  "seen_titles": [
-  "OKX,서클·리플자금받고도기업가치250억달러제자리…3월ICE투자...",
-  "뉴욕증시,유가·국채금리하락에상승출발",
-  "[속보]스페이스X(SPACX)·AMD등반도체주동반상승…미·이란전쟁속...",
-  "미국증시장초반상승…금리·유가숨고르자AI주재점화,메모리는엇...",
-  "아모데이앤트로픽CEO지난해보수246억원…대부분주식·옵션",
-  "中딥시크,최대20조원조달추진…몸값100조원노린다",
-  "뉴욕증시개장전특징주...콘스텔레이션에너지·옵션케어헬스·AMD↑VS...",
-  "中이앞선'오픈AI'에유럽반격…미스트랄,1조매개변수모델공개",
-  "뉴욕증시프리뷰,美국채금리·유가동반하락에주가선물일제상승...",
   "엔비디아,이틀연속사상최고가…시총6조달러까지주가3.8%남았다",
   "[집중진단]AI해킹먹잇감된은행권…오픈AI가우려한일터졌다",
   "\"입사2년만에부사장\"…엔비디아서초고속승진한35세男정체",
@@ -6001,13 +5992,18 @@
   "KT클라우드,50MW급'청라AI데이터센터'구축참여",
   "[더벨][영상|현장+]고동진\"삼성성과급부터호남반도체까지,문제는...",
   "해킹에금융사CISO책임가중됐지만…시스템주도권한부족우려",
-  "[2026국감]진료영상유출에北해킹까지…구멍뚫린'보건안보'"
+  "[2026국감]진료영상유출에北해킹까지…구멍뚫린'보건안보'",
+  "LG전자·LGU+,3분기누적영업이익4조달성·도서산간'찾아가는매장...",
+  "[굿모닝위즈·141]우승팀의뎁스야구",
+  "[산업AIEXPO프리뷰]AI업무지능화⑭|수천장플랜트도면,AI가객...",
+  "삼성전자,AI로임직원역량분석…AI커리어플랫폼‘마이스킬스’...",
+  "추성훈,상의벗고몸에불붙였다..\"탄냄새나\"[상남자][★밤TView]",
+  "AI청구서4조달러못메우면메모리단가깎인다…빅테크장부외금융...",
+  "'개인정보유출'금융기관사칭피싱'요주의'…전북경찰\"URL클릭주의...",
+  "李대통령\"녹색대전환은확실한미래전략…설계자·선도자돼야\"",
+  "이제교회까지해킹…순복음교회,85만명성도정보유출"
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T09:14:18.656378+09:00",
-   "죽을 급증 소소한 소송 충원 송무인력 없어 복도통"
-  ],
   [
    "2026-10-07T09:20:27.128467+09:00",
    "금융권 당국 총력 연기 사고 일단 망분리 수습 완화도"
@@ -6917,7 +6913,7 @@
    "유출에 뚫린 보건안보 구멍 해킹까지 진료 영상"
   ]
  ],
- "last_run": "2026-10-07T15:14:43.571655+09:00",
+ "last_run": "2026-10-07T15:16:38.775186+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
