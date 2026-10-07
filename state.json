@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261006001238",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208755",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=230884",
-  "http://www.inews24.com/view/2012192",
-  "https://www.ajunews.com/view/20261006151359187",
-  "http://www.inews24.com/view/2012228",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=744957",
   "https://www.sisajournal.com/news/articleView.html?idxno=389257",
   "https://www.mt.co.kr/stock/2026/10/06/2026100613205797423",
   "https://www.g-enews.com/view.php?ud=202610061525009262bb91c46fcd_1",
@@ -2999,16 +2992,16 @@
   "https://www.asiaa.co.kr/news/articleView.html?idxno=265163",
   "http://www.efnews.co.kr/news/articleView.html?idxno=132923",
   "https://www.ddaily.co.kr/page/view/2026100708583398844",
-  "https://www.mk.co.kr/article/12170009"
+  "https://www.mk.co.kr/article/12170009",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=228801",
+  "https://www.sidae.com/article/2026100708553040294",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477594",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=407850",
+  "https://www.medigatenews.com/news/719747008",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60878",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077601"
  ],
  "seen_titles": [
-  "프로야구,올시즌'역대최다관중'돌파",
-  "경남중기청-남동발전,11월'생성형AI마케팅교육'…35개사선착순모...",
-  "타불라,새광고솔루션출시",
-  "[일본증시]닛케이,AI·반도체훈풍에3개월만에'7만선'돌파",
-  "루카스메타,'PQCSAFE'구글클라우드마켓플레이스출시",
-  "한국IT직업전문학교사이버보안학과,2027학년도신입생선발...보안전문...",
-  "[금융보안비상②]핵심망대신'옆문'노렸다⋯공격표면커진금융시...",
   "잇따른개인정보유출...배경훈부총리\"정보보호예산늘려대응\"",
   "[금융보안비상①-전문가진단]AI파고든금융권'약한고리'⋯\"보안=...",
   "SKT,군전장데이터활용한AI기술공개",
@@ -6001,7 +5994,14 @@
   "[최기일의방산보국㊽]\"안티드론수준높여K-대드론체계육성해야\"",
   "대기업오너4·5세94%는유학파…美컬럼비아대'최다'",
   "[AI해킹전쟁㊥]정부보안특화모델은이제야첫발…\"AI대응가속화필...",
-  "‘해킹’여의도순복음교회“과거헌금자료개인정보없어”"
+  "‘해킹’여의도순복음교회“과거헌금자료개인정보없어”",
+  "대기업집단2026년10월브랜드평판...삼성,SK,현대자동차順",
+  "[군산소식]8일군산대서'굿잡잡페스티벌'",
+  "보이스피싱대응체계,송금전차단으로바꿔야",
+  "로그프레소,'챗GPT엔터프라이즈'연동앱으로AI사용활동까지관리",
+  "대한민국소아의료에미래가없다",
+  "[디지털포스트모닝픽]삼성전자,내년HBM4공급가2~3배인상?…\"이달...",
+  "SK텔레콤AI기술적용한글날100주년캠페인"
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,13 @@
   [
    "2026-10-07T09:08:16.409174+09:00",
    "개인정보 과거 여의도순복음교회 없어 자료 헌금"
+  ],
+  [
+   "2026-10-07T09:10:26.901752+09:00",
+   "기술 캠페인 ~SKT 한글날 100주년 적용"
   ]
  ],
- "last_run": "2026-10-07T09:08:44.608905+09:00",
+ "last_run": "2026-10-07T09:10:45.097165+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
