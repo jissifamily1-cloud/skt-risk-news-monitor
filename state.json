@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260930.99099009792",
-  "http://www.hellodd.com/news/articleView.html?idxno=113413",
   "http://weekly.chosun.com/news/articleView.html?idxno=55928",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610061830148350657",
   "https://www.goodnews1.com/news/articleView.html?idxno=464903",
@@ -2999,11 +2997,11 @@
   "https://news.jtbc.co.kr/article/NB12321830?influxDiv=NAVER",
   "https://www.ajunews.com/view/20261007194718082",
   "https://www.newsis.com/view/NISX20261006_0003815878",
-  "http://www.newsmaker.or.kr/news/articleView.html?idxno=183706"
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=183706",
+  "https://www.rcast.co.kr/news/articleView.html?idxno=31778",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071959157600835"
  ],
  "seen_titles": [
-  "SKT,한글날100주년맞아AI로'말모이'복원…디지털글꼴공개",
-  "다이먼\"앤스로픽'미토스'이후AI사이버위험10배증가\"",
   "여의도순복음교회·사랑의교회해킹당해...정보변경이력유출의심",
   "‘윤슬·숫눈·볼우물’…AI가100년전우리말되살린다",
   "같은평형도집집마다다른옵션…호반건설,AI가3D설계에자동반영",
@@ -6001,17 +5999,11 @@
   "[단독]15년전듀오탈퇴했는데…군미필사유까지털렸다",
   "금융권해킹IP,서금원까지접근…정보유출피해는없어",
   "美서도카드정보49만건털렸다…중국어사용해커,AI로100곳공격",
-  "9월마지막주ETF시장,코스닥·반도체·전고체배터리강세"
+  "9월마지막주ETF시장,코스닥·반도체·전고체배터리강세",
+  "신한투자증권,'SOLLINK'시즌2이벤트실시外",
+  "AI에전기차추천물었더니…아이오닉51위,상위5개현대차ㆍ기아"
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T13:58:16.687411+09:00",
-   "폐지 폭증 검찰청 직전 사건 미제 18만"
-  ],
-  [
-   "2026-10-07T13:58:16.687411+09:00",
-   "노린 은행 비교해 뱅킹망이 해커가 아니었다"
-  ],
   [
    "2026-10-07T14:00:43.523446+09:00",
    "지난 기업 피해 9개월 낮아진 만에 지자체 AI로 문턱 사이버"
@@ -6905,7 +6897,7 @@
    "세탁용 금융기관 상당수 IP"
   ]
  ],
- "last_run": "2026-10-07T19:58:31.948211+09:00",
+ "last_run": "2026-10-07T20:00:59.135476+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
