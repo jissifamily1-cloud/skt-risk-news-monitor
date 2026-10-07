@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20261002/134779062/2",
-  "https://www.chosun.com/economy/industry-company/2026/10/03/QKI2NR4GJBHJXKAPGI736JD7FY/",
-  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434098",
-  "http://www.00news.co.kr/news/articleView.html?idxno=106968",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=7027",
-  "https://www.ytn.co.kr/_ln/0102_202610022238378662",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065618330802080",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90014",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008781371&plink=ORI&cooper=NAVER",
   "http://www.yonhapnewstv.co.kr/news/MYH202610022010226ui",
   "https://www.ppss.kr/news/articleView.html?idxno=313811",
   "https://magazine.hankyung.com/business/article/202610021229b",
@@ -2999,18 +2990,18 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705567",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610070853128260679",
   "https://www.greened.kr/news/articleView.html?idxno=351535",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=797105"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=797105",
+  "https://www.starnewskorea.com/sports/2026/10/07/2026100712315871962",
+  "https://www.newspim.com/news/view/20261007000832",
+  "https://www.newspim.com/news/view/20261007000725",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278376",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=132940",
+  "https://www.edaily.co.kr/News/Read?newsId=03840886645610624&mediaCodeNo=257",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4110792",
+  "https://www.mediapen.com/news/view/1128375",
+  "https://www.newspim.com/news/view/20261007000771"
  ],
  "seen_titles": [
-  "SKT,3대고객만족도조사'그랜드슬램'…KCSI1위탈환",
-  "SKT,'개인정보보호주간'맞아사내캠페인시행",
-  "SKT,사이버침해로내준KCSI1위1년만에되찾았다",
-  "SK텔레콤,AI시대개인정보보호강화…'프라이버시퍼스트'전사확산",
-  "오래제로아이즈,중고키오스크매입·재판매프로그램운영",
-  "SKT,KCSI1위1년만에탈환⋯고객만족도3대조사모두석권",
-  "[재계투데이]LG전자,'마이컵'B2B사업확대外",
-  "[포토]SKT3대고객만족도그랜드슬램달성",
-  "SKT,3대고객만족도조사모두1위…KCSI1년만에정상복귀",
   "SK텔레콤,3대고객만족도조사석권…KCSI1위탈환",
   "SKT,KCSI이동전화부문1위복귀…3대고객만족도조사석권",
   "정재헌SKT대표\"고객신뢰출발점은개인정보보호\"",
@@ -6001,7 +5992,16 @@
   "아서헤이즈\"AI인프라과열됐다…결국승자는암호화폐\"",
   "[증권가로수]iM증권/메리츠증권/하나증권/한투운용/이지스운용/닥사",
   "은행해킹,디지털원화실증과는'별개'…유출경로는모두외부접속...",
-  "[위클리오늘]SK텔레콤소식(10.7)"
+  "[위클리오늘]SK텔레콤소식(10.7)",
+  "'1R이승원2억5000만원'KT,'계약금0원'최지만포함2027신인11명...",
+  "[AI프리뷰]7일고척키움-한화전,한달만에복귀한화정우주유종의...",
+  "[AI프리뷰]7일잠실LG-두산전,4~5위순위싸움에다승왕타이틀까지...",
+  "인천시-글로벌한인생명과학자협회MOU체결",
+  "금감원\"증권업계,기본도안지키는위법행위반복…투자자보호총력...",
+  "SKT선수들,아시안게임서메달20개…펜싱10개는‘AI’가도왔다",
+  "경찰,금융해킹IP추적",
+  "LG박해민,9월CGV씬-스틸러상수상…빗속환상캐치로KT최원준등경...",
+  "[AI프리뷰]7일수원KT-삼성전,1위KT와2위삼성의'미리보는한국시..."
  ],
  "recent_sigs": [
   [
@@ -6863,9 +6863,17 @@
   [
    "2026-10-07T13:24:16.913346+09:00",
    "소식 ~SKT"
+  ],
+  [
+   "2026-10-07T13:26:17.451921+09:00",
+   "CGV 스틸러상 빗속 ~KT 환상 LG 캐치로 9월 최원준 수상 박해민"
+  ],
+  [
+   "2026-10-07T13:26:17.451921+09:00",
+   "한국시 2위 KT와 미리 ~KT 7일 1위 보는 삼성의 삼성전 수원"
   ]
  ],
- "last_run": "2026-10-07T13:24:44.208016+09:00",
+ "last_run": "2026-10-07T13:26:38.448735+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
