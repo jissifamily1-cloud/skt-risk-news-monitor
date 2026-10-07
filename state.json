@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1697347/?sc=Naver",
-  "https://www.naeil.com/news/read/604132",
-  "https://n.news.naver.com/mnews/article/091/0010330806",
-  "https://www.yeongnam.com/web/view.php?key=20261003022382057",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315185&inflow=N",
-  "https://www.sedaily.com/article/20098649",
-  "https://www.thebigdata.co.kr/view.php?ud=2026100617243423000a47484cf8_23",
-  "https://www.news1.kr/local/gyeonggi/6311933",
-  "http://www.4th.kr/news/articleView.html?idxno=2119284",
-  "https://www.kado.net/news/articleView.html?idxno=2076683",
-  "https://www.hankyung.com/article/2026100662721",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261006010001558",
   "https://www.asiatime.co.kr/article/20261006500388",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477381",
@@ -2999,20 +2988,20 @@
   "https://www.hidomin.com/news/articleView.html?idxno=723921",
   "https://www.yna.co.kr/view/AKR20261007059100009?input=1195m",
   "https://www.news1.kr/politics/pm-bai-comm/6312517",
-  "https://news.mtn.co.kr/news-detail/2026100709485539513"
+  "https://news.mtn.co.kr/news-detail/2026100709485539513",
+  "https://www.mt.co.kr/estate/2026/10/07/2026100709112564197",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299327",
+  "https://www.newsis.com/view/NISX20261007_0003816513",
+  "https://www.dailian.co.kr/news/view/1698389/?sc=Naver",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477451",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1299285",
+  "https://www.kado.net/news/articleView.html?idxno=2076829",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679557",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117794",
+  "https://biz.chosun.com/stock/finance/2026/10/07/ZKEG5D62KVAZJJDNASNGW2P3CM/",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424155"
  ],
  "seen_titles": [
-  "\"엔비디아도물량못구해\"..소비자용저전력D램더부족해진다",
-  "금융위,'망분리완화'2차대상선정연기…해킹수습부터",
-  "[스타트업모닝커피1409회]글로벌알파미디어,지보로해외환자의의료...",
-  "\"홍보영상이젠직접\"...AI가삼킨외주일감",
-  "[현장]인당11만원손실에도페이백공세…이통3사자회사,알뜰폰말...",
-  "이통3사,알뜰폰‘부당지원’도마",
-  "AUSTRALIAAIPUBLICHEARING",
-  "대구시,제조혁신이끌‘피지컬AI챌린지2026’개최…특화단지지...",
-  "(AI의위협)①‘인간동물원’부터절멸까지…초지능디스토피아",
-  "국감장선플랫폼대표들…정보유출사태에잇단사과",
-  "SKT,지상군페스티벌서AI참모·위성등국방AX기술시연",
   "이현재하남시장\"2030년까지10조투자유치\"…기업·일자리확대",
   "[국감]LGU+해킹은폐의혹도마…여야\"위약금면제해야\"",
   "금융권해킹에'2차피해'비상…금융당국한달간특별대응",
@@ -6001,7 +5990,18 @@
   "\"한국금융사해킹에중국개발AI보안도구'ARTEX'사용\"",
   "\"스페이스X,엔비디아칩구매용54조원조달추진\"",
   "권익위교육사이트10만여명개인정보유출…위탁업체해킹",
-  "디지털성범죄피해받은15명정보노출…구글\"피해자통지검토중\""
+  "디지털성범죄피해받은15명정보노출…구글\"피해자통지검토중\"",
+  "현대엔지니어링,인천데이터센터공사수주…총8700억원규모",
+  "[오늘의일정]10월7일수요일스포츠경기",
+  "中이앞선'내서버에깔아쓰는AI'…유럽미스트랄,1조매개변수로도...",
+  "[2026국감]정부,엔비디아‘GTC코리아’유치타진…2027년말개최...",
+  "韓로봇산업세계3강되려면···\"우리강점살린'데이터'확보해야\"",
+  "용산구일자리사업수료생,AI콘텐츠해커톤대상수상",
+  "[속보]여의도순복음교회,성도85만명개인정보유출의심",
+  "“증권사IT보안재점검”…투자자보호강화주문",
+  "LG유플러스,쏠라티개조한'찾아가는매장'가동…도서산간통신사각...",
+  "커지는해킹위협…금융위,금융사CISO전담체제검토",
+  "\"금융권해킹도구아르텍스,中기술자가만든에이전트\""
  ],
  "recent_sigs": [
   [
@@ -6771,9 +6771,17 @@
   [
    "2026-10-07T10:20:27.199863+09:00",
    "피해받은 정보 구글 통지 검토 디지털성범죄 피해자 15명 노출"
+  ],
+  [
+   "2026-10-07T10:22:16.376723+09:00",
+   "전담 CISO 금융사 커지는 위협 금융위 검토 체제"
+  ],
+  [
+   "2026-10-07T10:22:16.376723+09:00",
+   "아르텍스 에이전트 만든 금융권 기술자가 도구"
   ]
  ],
- "last_run": "2026-10-07T10:20:50.521533+09:00",
+ "last_run": "2026-10-07T10:22:42.384658+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
