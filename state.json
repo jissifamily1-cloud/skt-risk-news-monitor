@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12320616?influxDiv=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703743",
-  "https://zdnet.co.kr/view/?no=20260930072733",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703722",
-  "https://www.aitimes.com/news/articleView.html?idxno=215779",
-  "https://zdnet.co.kr/view/?no=20260930064128",
   "https://www.aitimes.com/news/articleView.html?idxno=215778",
   "https://zdnet.co.kr/view/?no=20260930054225",
   "https://zdnet.co.kr/view/?no=20260930051109",
@@ -2999,15 +2993,15 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=855835",
   "https://www.mk.co.kr/article/12170408",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=210267",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=210271"
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=210271",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=106851",
+  "https://www.fnnews.com/news/202610071421599330",
+  "http://www.joseilbo.com/news/news_read.php?uid=576978&class=18",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870578",
+  "https://www.newspim.com/news/view/20261007000920",
+  "https://www.topdaily.kr/articles/112247"
  ],
  "seen_titles": [
-  "'속도조절'로충분?\"AI정렬이미불가능\"섬뜩한경고",
-  "젠슨황이AI종말론을믿지않는이유",
-  "“AI혜택누리려면일부위험감수해야”...톤조절한올트먼오픈AI...",
-  "AI에이전트해킹에소송봇물…올트먼'사면초가'",
-  "올트먼“AI혜택위해일부위험감수해야”…앤트로픽규제론과차별...",
-  "올트먼의위험한발상?…\"AI혜택위해위험감수해야\"",
   "샘올트먼오픈AICEO“AI혜택위해위험감수해야”…앤트로픽과차...",
   "올트먼\"AI혜택위해위험감수필요...좋은일더많을것\"",
   "올트먼\"AI부작용보다혜택훨씬커…일부위험감수해야\"",
@@ -6001,33 +5995,15 @@
   "李대통령\"추격자관행벗어나녹색시장설계자·선도자돼야\"",
   "통신매장없는산골까지찾아간다…LG유플러스,이동형매장운영",
   "웰컴저축은행,해킹116시간55분뒤에야인지...자체탐지'도마'",
-  "현대캐피탈,24분해킹공격닷새뒤에야알았다...주민번호까지유출"
+  "현대캐피탈,24분해킹공격닷새뒤에야알았다...주민번호까지유출",
+  "AI데이터센터'액체냉각·전력'시장선점경쟁'후끈'",
+  "AI빅테크집중투자통했다…3년새153%오른美빅테크ETF",
+  "“기본조차안지켰다”…금감원,증권사‘구호뿐인투자자보호’질...",
+  "[금고뒷문해부]②KB국민은행,순이익30%늘때보안투자는'퇴보'",
+  "금융당국,해킹우려확대에보안강화책'조속발표'...'망분리규제완...",
+  "KT,'이음인사이드'로AX플랫폼컴퍼니정체성강화"
  ],
  "recent_sigs": [
-  [
-   "2026-10-07T08:48:15.236700+09:00",
-   "소셜 달러 잭팟 1억 슈퍼볼도 TV 바꾼 회사의 광고판 대신"
-  ],
-  [
-   "2026-10-07T08:48:15.236700+09:00",
-   "사고 법인 보안에 150억 겪은 투자 인니 KB국민"
-  ],
-  [
-   "2026-10-07T08:50:25.450329+09:00",
-   "이유는 휴대폰 가입자 ~SKT 줄어든 5만"
-  ],
-  [
-   "2026-10-07T08:50:25.450329+09:00",
-   "업데이트하세요 지금 핸드폰 금융 피해자 나도 전문가 당장"
-  ],
-  [
-   "2026-10-07T08:50:25.450329+09:00",
-   "범정부 사각지대 전수조사했다더니 관리부실로 금융권 연쇄해킹"
-  ],
-  [
-   "2026-10-07T08:50:25.450329+09:00",
-   "Roiling Releases on Problems Field Findings Math Further"
-  ],
   [
    "2026-10-07T08:54:14.780421+09:00",
    "보안망 취약점 금융사 금융당국 회사별 찾아낸다 전수점검"
@@ -6919,9 +6895,13 @@
   [
    "2026-10-07T14:48:15.169500+09:00",
    "현대캐피탈 알았다 주민번호까지 뒤에야 유출 공격 24분 닷새"
+  ],
+  [
+   "2026-10-07T14:50:27.054278+09:00",
+   "AX 정체성 ~KT 플랫폼 컴퍼니 인사이드 이음 강화"
   ]
  ],
- "last_run": "2026-10-07T14:48:37.018296+09:00",
+ "last_run": "2026-10-07T14:50:46.652173+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
