@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493368",
-  "https://www.cnbizm.com/news/articleView.html?idxno=317335",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726995",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259413",
-  "http://www.stoo.com/article.php?aid=109270665488",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279163",
   "https://www.fnnews.com/news/202610071426329120",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145346",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=617655",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/202610089860g",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788341&plink=ORI&cooper=NAVER",
   "https://www.ddaily.co.kr/page/view/2026100808260536403",
-  "https://www.newsis.com/view/NISX20261008_0003818315"
+  "https://www.newsis.com/view/NISX20261008_0003818315",
+  "http://www.joynews24.com/view/2012971",
+  "https://www.businessplus.kr/news/articleView.html?idxno=117856",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=122944",
+  "https://www.newscj.com/news/articleView.html?idxno=3438730",
+  "https://www.sedaily.com/article/20099344",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000020878&cp=nv"
  ],
  "seen_titles": [
-  "인천시1만6000명글로벌한인바이오인재와손잡는다",
-  "한화자산운용,사내AI해커톤경진대회'2026AIPLUSthon'성료",
-  "SK텔레콤,아시안게임메달리스트8명과'값진결실'자축",
-  "[Telecom&Now]SKT,자체개발AI로100년전우리말·글되살렸다등",
-  "[기자수첩]은행옆문뚫리는데개보위는'익명·가명정보'로눈가리고...",
-  "배우들울린'가능한사랑',전도연·설경구·조인성·조여정\"시선에대...",
   "리사수AMD회장\"K-반도체기업들과적극협력...글로벌AI생태계구축...",
   "신입사원3명이만든AI가대상…한화운용,사내해커톤성료",
   "LG전자,역대급외형에도'이익눈높이'못미친이유…AI·로봇투자에...",
@@ -6001,7 +5995,13 @@
   "\"전인미답\"분기영업익100조…삼성전자'韓기업최초'기록세웠다[...",
   "삼성전자3분기영업익107조4천억원…국내첫100조시대개막",
   "윈도우서AI에이전트실행…엔비디아·MS,RTX스파크맞손",
-  "금융권연쇄해킹,20대中해커소행정황…유출정보팔곳도AI에물..."
+  "금융권연쇄해킹,20대中해커소행정황…유출정보팔곳도AI에물...",
+  "노스페이스갓,페이커AI무단사용후MV삭제\"100%무지\"",
+  "[뉴스+]삼성전자3분기영업익107조4000억원...글로벌테크사상최대",
+  "다이먼JP모건회장\"앤스로픽'미토스'이후사이버위험10배커져\"",
+  "'금융권해킹'공격자,AI에이력서맡겼다가신원흘려",
+  "[속보]삼성,분기영업익107조…엔비디아넘어‘빅테크1위’탈환",
+  "‘메모리슈퍼사이클’삼성,엔비디아영업이익제치나"
  ],
  "recent_sigs": [
   [
@@ -6415,9 +6415,13 @@
   [
    "2026-10-08T08:28:14.157702+09:00",
    "MS 맞손 에이전트 윈도우서 스파크 실행 RTX"
+  ],
+  [
+   "2026-10-08T08:30:33.201093+09:00",
+   "영업이익 삼성 메모리 슈퍼사이클 제치나"
   ]
  ],
- "last_run": "2026-10-08T08:28:38.588970+09:00",
+ "last_run": "2026-10-08T08:30:51.034659+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
