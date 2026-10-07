@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=04077046645610624&mediaCodeNo=257",
-  "https://www.ekn.kr/web/view.php?key=20261007021043267",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60861",
-  "https://www.mt.co.kr/industry/2026/10/07/2026100712395346206",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364313",
-  "https://www.yna.co.kr/view/AKR20261007122900011?input=1195m",
-  "https://view.asiae.co.kr/article/2026100714223960383",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223513",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790154.html",
-  "https://www.yna.co.kr/view/AKR20261007124800061?input=1195m",
-  "https://www.fnnews.com/news/202610071424066227",
   "http://www.bizwnews.com/news/articleView.html?idxno=148268",
   "https://www.nytimes.com/2026/10/06/world/france-student-protests-kenya-robots.html?partner=naver",
   "https://biz.chosun.com/it-science/ict/2026/10/07/VDLKDEZROJDFBMETG5FIZ4KEP4/",
@@ -2999,20 +2988,20 @@
   "https://biz.heraldcorp.com/article/10896351",
   "https://www.koreaittimes.com/news/articleView.html?idxno=157888",
   "https://www.mk.co.kr/article/12171085",
-  "https://www.yna.co.kr/view/AKR20261008025800075?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261008025800075?input=1195m",
+  "https://www.g-enews.com/view.php?ud=2026100808180368930c8c1c064d_1",
+  "https://biz.sbs.co.kr/article_hub/20000338875?division=NAVER",
+  "https://www.dailian.co.kr/news/view/1699185/?sc=Naver",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712834",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493557",
+  "https://www.smarttoday.co.kr/ko-kr/articles/112394",
+  "https://www.slist.kr/news/articleView.html?idxno=771876",
+  "https://news.bizwatch.co.kr/article/finance/2026/10/07/0036",
+  "https://www.news1.kr/it-science/internet-platform/6313722",
+  "https://www.dailian.co.kr/news/view/1699183/?sc=Naver",
+  "https://www.pennmike.com/news/articleView.html?idxno=129146"
  ],
  "seen_titles": [
-  "UAE전선및케이블시장동향",
-  "“국산NPU풀스택실증…AMD와피지컬AI협력도논의”",
-  "韓다시찾은리사수…이번엔韓NPU·삼성파운드리동맹넓히나",
-  "[디지털포스트모닝픽]구독료는그대로,이용량은제한…'AI비용'커진...",
-  "삼성전자'영업익100조'시대연다…메모리반도체만110조전망",
-  "한투운용'ACE美빅테크TOP7PlusETF'순자산1.2조돌파",
-  "[연합뉴스이시각헤드라인]-14:30",
-  "李대통령\"녹색시장추격자아닌설계자돼야\"…최태원\"기업220조투자...",
-  "검찰문닫기직전미제사건4만6천건급증",
-  "李대통령,'한국형녹색대전환'보고회주재…추진의지강조",
-  "기아노조원5천명개인정보유출…'교육위탁업체해킹여파'",
   "李대통령\"탄소무역장벽날로높아져…녹색시장선도자돼야\"",
   "한화자산운용,사내AI해커톤'2026AI플러스톤'성료",
   "UnderstandingFrance’sPolycrisis",
@@ -6001,7 +5990,18 @@
   "현대차정몽구재단,싱가포르서테마섹숍하우스서스타트업해외진출...",
   "JungYeon-tae'sProfessionalGPTRevolution6|CanAIDetectFinancia",
   "삼성전자분기영업이익100조원첫돌파..사상최고치또경신",
-  "머스크·젠슨황,트럼프가주는美과학기술최고훈장받는다"
+  "머스크·젠슨황,트럼프가주는美과학기술최고훈장받는다",
+  "\"2027년부품60%현지화\"…현대차인도네시아,'배터리수직계열화'로...",
+  "[굿모닝마켓]뉴욕증시,국채금리오름세에최고치서숨고르기",
+  "韓금융권턴해커,AI에이력서쓰다신원노출…中26세추정",
+  "AI가예금을갈아탄다···은행새핵심성과지표는'체류시간'",
+  "SK최태원,EBS'위대한수업'뜬다…청년들과AI시대생존전략논의",
+  "금융권전방위해킹범,중국광둥성26살추정..AI에이력서흘려",
+  "한국금융권해킹범,중국광둥성거주추정...금전적동기'중간'",
+  "AI해킹에멈칫한금융권망분리…완화론vs신중론",
+  "SK브로드밴드Btv+보고한국시리즈직관가자",
+  "최태원,EBS'위대한수업'강단에…\"AI시대새로운자본주의필요\"",
+  "국민의힘공영방송이사추천에KBS·MBC·EBS노조일제히반발"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,21 @@
   [
    "2026-10-08T08:14:17.612369+09:00",
    "테크 애플도 삼성 기업 영업익 글로벌 못했다 분기"
+  ],
+  [
+   "2026-10-08T08:22:16.971670+09:00",
+   "보고 직관 tv 가자 한국시리즈"
+  ],
+  [
+   "2026-10-08T08:22:16.971670+09:00",
+   "자본주의 시대 새로운 수업 EBS 위대한 강단에 필요"
+  ],
+  [
+   "2026-10-08T08:22:16.971670+09:00",
+   "노조 KBS 이사 공영방송 EBS 일제히 반발 MBC 국민의힘 추천에"
   ]
  ],
- "last_run": "2026-10-08T08:20:41.030379+09:00",
+ "last_run": "2026-10-08T08:22:40.204147+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
