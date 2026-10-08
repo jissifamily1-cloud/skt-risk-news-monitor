@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20261008112858254",
-  "https://hbnpress.com/news/view/1065580084191480",
-  "https://news.dealsitetv.com/articles/176650",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16241630",
-  "https://www.youthdaily.co.kr/news/article.html?no=228120",
   "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html?partner=naver",
   "https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html?partner=naver",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90189",
@@ -2999,14 +2994,14 @@
   "https://www.fetv.co.kr/news/articleView.html?idxno=311491",
   "https://www.dongascience.com/news/view/80240",
   "https://zdnet.co.kr/view/?no=20261008174405",
-  "https://www.newsis.com/view/NISX20261008_0003819403"
+  "https://www.newsis.com/view/NISX20261008_0003819403",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706160",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/04/2026100490106.html",
+  "https://www.dt.co.kr/article/12088177",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706146",
+  "https://www.pressian.com/pages/articles/2026100811311671683"
  ],
  "seen_titles": [
-  "한국금융권겨냥해킹...중국어흔적에'광둥성거주26세'단서?[이슈...",
-  "5대은행장국감증인채택…해킹사태책임추궁",
-  "국정원,北해킹대응한미일회의서제외…\"일부오해있었다\"",
-  "토스뱅크,해킹막았지만내부오류또...늑장인지'금융사최다'",
-  "[최태원-노소영재산분할]SK㈜지분매도세금만2000억↑…재상고‘...",
   "\"3위직행티켓쟁탈전\"KIA-LG,12일광주최종전운명건다",
   "운명의12일광주대첩…KIA·LG준PO직행총력전",
   "WhyMyConversationsWith‘ChatGPTforTeens’MadeMeVeryWorried",
@@ -6001,7 +5996,12 @@
   "KT,서울광장서한글날맞이어린이그림책문화행사개최",
   "오픈AI,AI의수학난제풀이722편동시공개…\"철저한검증있었나\"비...",
   "\"엔비디아루빈HBM4,12단이대세\"",
-  "\"8분만에취약점6개\"…'자율형AI해킹'현실로[해킹에이전트②]"
+  "\"8분만에취약점6개\"…'자율형AI해킹'현실로[해킹에이전트②]",
+  "비트코인개발자\"AI가비트코인암호체계곧깨진다는공포는과장\"",
+  "예견됐던AI해킹…막을방법없나?",
+  "쿠팡한밤2.5시간접속오류…“서비스업그레이드과정오류”",
+  "[시큐리티핫이슈]잇단AI해킹속'오펜시브보안'뜬다",
+  "\"일론머스크는장사꾼,빅테크CEO말을과학처럼믿으면안돼\"[불온(..."
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,17 @@
   [
    "2026-10-09T08:02:15.506207+09:00",
    "6개 현실로 자율형 취약점 만에 8분"
+  ],
+  [
+   "2026-10-09T08:04:19.489810+09:00",
+   "보안 잇단 뜬다 오펜시브"
+  ],
+  [
+   "2026-10-09T08:04:19.489810+09:00",
+   "장사꾼 일론 머스크는 말을 불온 믿으면 CEO 빅테크 과학처럼"
   ]
  ],
- "last_run": "2026-10-09T08:02:51.800008+09:00",
+ "last_run": "2026-10-09T08:04:47.149880+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
