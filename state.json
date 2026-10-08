@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261008000679",
-  "https://www.news1.kr/society/incident-accident/6314244",
-  "https://www.mediapen.com/news/view/1128152",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259478",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=765512",
-  "https://zdnet.co.kr/view/?no=20261008114508",
   "https://www.fnnews.com/news/202610071820584232",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871074",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=765496",
@@ -2999,15 +2993,15 @@
   "https://www.fnnews.com/news/202610090835517924",
   "https://www.etoday.co.kr/news/view/2634141",
   "http://www.osen.co.kr/article/G1112890302",
-  "https://www.insight.co.kr/news/577121"
+  "https://www.insight.co.kr/news/577121",
+  "https://www.g-enews.com/view.php?ud=20261009032552381620990b2dc5_1",
+  "https://biz.heraldcorp.com/article/10897655",
+  "https://www.yna.co.kr/view/AKR20261009017500009?input=1195m",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871396",
+  "https://www.etnews.com/20261009000009",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000072047"
  ],
  "seen_titles": [
-  "[2026국감]이억원금융위원장\"금리인상기,취약계층지원·가계부채관...",
-  "오픈AI“청소년챗GPT이용제한적”…안전장치논란은여전",
-  "크라우드스트라이크,韓은행해킹에中거주용의자AI활용정황포착",
-  "금융권해킹범'中광둥성26세'지목에…경찰,수사단서활용",
-  "잘키운기업,‘이혼·상속’에흔들…재계“경영안정성우려”",
-  "'반의아들'랜슬롯출격···넷마블'일곱개의대죄:Origin'콘텐츠확...",
   "삼성전자,역대급실적질주언제까지?...4분기이어내년1분기매출·...",
   "로보티즈,AI페스타서세미휴머노이드'AI워커'선봬",
   "금융권공격한'아르텍스',中AI'딥시크'연동기능갖췄다",
@@ -6001,7 +5995,13 @@
   "삼성전자,분기영업익107조찍었는데주가는주춤?...\"극단적저평가...",
   "금융권해외발해킹10건중9건‘범인못찾았다’…AI공격에추적망...",
   "“곽빈나오면이길자신있나,4위머리아플듯”5년만에KS직행,우...",
-  "한글날100돌기념'한글로와글와글'뒤덮인광화문광장"
+  "한글날100돌기념'한글로와글와글'뒤덮인광화문광장",
+  "美국방부의중국산텅스텐퇴출…2만t공급부족에글로벌조달망재편...",
+  "“AI기대너무컸나”…반도체주줄하락에나스닥1.25%↓[투자360]",
+  "트럼프노벨평화상욕심줄였다지만…노르웨이는여전히'눈치'",
+  "금융권,해외發해킹대비'미흡'…89%는공격자불명",
+  "해외발금융해킹18건중16건'공격자미상'…추적한계드러나",
+  "잇따른금융권해외해킹…\"18건중단2건공격주체확인\""
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-10-09T08:42:16.834690+09:00",
    "찾았다 10건 금융권 공격에 해외발 9건 추적망 범인"
+  ],
+  [
+   "2026-10-09T08:46:51.470907+09:00",
+   "트럼프 욕심 눈치 노벨평화상 노르웨이는 줄였다지만 여전히"
   ]
  ],
- "last_run": "2026-10-09T08:44:30.273836+09:00",
+ "last_run": "2026-10-09T08:47:15.617360+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
