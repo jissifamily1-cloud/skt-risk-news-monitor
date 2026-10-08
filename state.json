@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=71450",
-  "http://www.journalist.or.kr/news/article.html?no=61810",
-  "https://www.joongboo.com/news/articleView.html?idxno=363738738",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318648",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116072",
-  "https://www.ajunews.com/view/20261007152213208",
-  "https://www.sedaily.com/article/20099246",
   "https://www.newsis.com/view/NISX20261007_0003818020",
   "https://www.thelec.kr/news/articleView.html?idxno=63429",
   "https://www.g-enews.com/view.php?ud=202610071527305437a6e8311f64_1",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20261008020052017?input=1195m",
   "http://www.yonhapnewstv.co.kr/news/AKR20261008113307Zcu",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4111032",
-  "https://www.viewsnnews.com/article?q=238937"
+  "https://www.viewsnnews.com/article?q=238937",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790046.html",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438335",
+  "https://www.ddaily.co.kr/page/view/2026100717154561397",
+  "https://www.techm.kr/news/articleView.html?idxno=155941",
+  "https://www.edaily.co.kr/News/Read?newsId=03476806645610952&mediaCodeNo=257",
+  "https://www.yna.co.kr/view/AKR20261008089600009?input=1195m",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223740"
  ],
  "seen_titles": [
-  "한컴이노스트림,AI·AX교육브랜드'HANCOMAXLAB'공개…피지컬AI...",
-  "\"서울대아니었네\"…대기업오너일가가장많이다닌대학은'이곳'",
-  "李대통령“녹색시장추격자아닌설계자로”...K-GX에1000조투자",
-  "방미통위,멈춰있던JTBC재승인심사절차진행",
-  "화성시청임하나,실업연맹회장배전국사격여일반부50m복사개인전·...",
-  "KT·LGU+계열알뜰폰'0원·마이너스요금'도마...\"공정경쟁훼손우려...",
-  "에어캡,'단군의땅'개발한김지호대표CTO선임…'아가타'프로젝트...",
   "\"하늘위에서즐기는무료와이파이\"…아시아나항공스타링크써보니",
   "“서버열잡는수랭식냉각으로승부…AI인프라치고나갈것”",
   "KISA,나주본원신관준공…\"협업속도·현장대응력높일것\"",
@@ -6001,7 +5994,14 @@
   "[AI프리즘]AI가해킹속도높였다…금융권연쇄공격의실체",
   "국회정무위,'해킹사고'5대은행장국감증인소환",
   "정무위,해킹·정보유출관련5대은행장국감증인채택",
-  "北해킹대응한미일회의서美요구로'국정원배제'"
+  "北해킹대응한미일회의서美요구로'국정원배제'",
+  "[아이온의AI:온]말로는'브레이크'…발로는'풀액셀'",
+  "바클레이즈\"美증시실적상향75%가반도체·하드웨어…쏠림심화\"",
+  "JTBC재승인심사재개…달라진경영여건다시본다",
+  "무료이용자도GPT-6쓴다...오픈AI,답변형식최적화'신규UI'도입도",
+  "국회정무위,'해킹사고'관련5대은행장국감증인채택",
+  "오픈AI\"청소년챗GPT이용제한적\"…안전장치논란은여전",
+  "\"이니셜YY,화남이공대\"…AI에남은해킹범흔적보니"
  ],
  "recent_sigs": [
   [
@@ -6831,9 +6831,17 @@
   [
    "2026-10-08T11:32:15.893139+09:00",
    "기본을 다시 공포 금융권에 자율해킹 묻다 닥친"
+  ],
+  [
+   "2026-10-08T11:36:15.521949+09:00",
+   "여전 제한적 안전장치 논란은 청소년 이용 챗GPT"
+  ],
+  [
+   "2026-10-08T11:36:15.521949+09:00",
+   "흔적 남은 화남이공대 AI에 해킹범 이니셜 보니 YY"
   ]
  ],
- "last_run": "2026-10-08T11:34:37.046273+09:00",
+ "last_run": "2026-10-08T11:36:41.753314+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
