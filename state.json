@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202610080763i",
-  "https://www.sisajournal.com/news/articleView.html?idxno=389510",
   "https://www.mk.co.kr/article/12171347",
   "https://www.ddaily.co.kr/page/view/2026100811395627355",
   "https://www.yeongnam.com/web/view.php?key=20261005023162448",
@@ -2999,11 +2997,11 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466",
   "https://www.jasm.co.kr/news/articleView.html?idxno=320906",
   "https://www.pressian.com/pages/articles/2026100816262781811",
-  "https://slownews.kr/167649"
+  "https://slownews.kr/167649",
+  "https://www.globale.co.kr/news/articleView.html?idxno=40884",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000021238&cp=nv"
  ],
  "seen_titles": [
-  "구미산업,이제'연결'로승부한다",
-  "“美,北사이버대응한미일회의서국정원배제”…국정원,“현재는...",
   "갤럭시·구글픽셀도뚫리는해킹구멍,서울대연구진이발견했다",
   "해킹사고에5대은행장'줄소환'…국감서책임추궁하나",
   "‘정규리그우승’KT,마지막홈경기성료…한국시리즈출정식까지",
@@ -6001,7 +5999,9 @@
   "엔비디아는사는데삼전닉스는판다…외국인의'AI차별화'",
   "[뉴욕증시]오픈AI기술주약세에혼조마감…나스닥1.25%↓",
   "사천KAI\"미래항공플랫폼구축에앞장\"",
-  "농지조사와레버리지ETF,불안한데자뷔:슬로우레터10월9일."
+  "농지조사와레버리지ETF,불안한데자뷔:슬로우레터10월9일.",
+  "오픈AI매출논란에반도체급락,뉴욕증시혼조마감",
+  "[단독]캠코해킹시도9개월간37만건…지난해3.7배"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-10-09T08:14:15.553190+09:00",
    "판다 외국인의 엔비디아는 차별화 사는데 삼전닉스는"
+  ],
+  [
+   "2026-10-09T08:26:15.698635+09:00",
+   "7배 시도 지난해 9개월간 37만건 캠코"
   ]
  ],
- "last_run": "2026-10-09T08:24:35.920703+09:00",
+ "last_run": "2026-10-09T08:26:36.731304+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
