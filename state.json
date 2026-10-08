@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20098059",
-  "https://www.koreajoongangdaily.com/opinion/ai-hacking-spree-exposes-cracks-in-financial-sector-security/12904304",
-  "https://www.newspim.com/news/view/20261004000098",
-  "https://www.nytimes.com/2026/10/04/briefing/70-up-series.html?partner=naver",
-  "https://bizhankook.com/articles/bits-and-pretzels-startup-festival.html",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492583",
   "https://www.cbci.co.kr/news/articleView.html?idxno=612262",
   "https://www.nytimes.com/es/2026/10/04/espanol/opinion/ai-no-humana.html?partner=naver",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=171924",
@@ -2999,15 +2993,15 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727203",
   "https://www.fnnews.com/news/202610081452408589",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=279471",
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91257"
+  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91257",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3716461",
+  "https://www.apnews.kr/news/articleView.html?idxno=3051872",
+  "https://www.pennmike.com/news/articleView.html?idxno=129185",
+  "https://www.hani.co.kr/arti/economy/finance/1281497.html",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171679",
+  "https://www.khan.co.kr/article/202610081524001"
  ],
  "seen_titles": [
-  "이준호의인공지능이야기<62>나를너무잘아는AI를떠날수있을까",
-  "OpenAIGPT-6,스타크래프트대회서인간봇몰래내려받아대리출전",
-  "美도HBM은韓에의존…완전한소버린AI는환상[김창영의실리콘밸리...",
-  "AIhackingspreeexposescracksinfinancialsectorsecurity",
-  "[중국증시주간포인트]中9월외환보유액,美9월비제조업지수,G7비...",
-  "The‘MostProfoundDocumentarySeriesintheHistoryofCinema’IsOve.",
   "[유럽스타트업열전]비츠앤프레츨,옥토버페스트한가운데서스타트업...",
   "빅테크넘어OpenAI·앤트로픽까지…SK하이닉스메모리수요더커진다",
   "크라우드스트라이크,OpenAI마켓플레이스합류…AI에이전트보안시장...",
@@ -6001,7 +5995,13 @@
   "LG그룹,현대차제치고그룹시총3위탈환…325일만에'역전'",
   "금융권해킹연루AI도구,수백대서버서포착…해커신원추적(종합...",
   "[국감2026]이억원\"보이스피싱피해배상,통신사책임도따져야\"",
-  "[나이스뷰]엔비디아도아직인데…삼전,분기영업익100조돌파"
+  "[나이스뷰]엔비디아도아직인데…삼전,분기영업익100조돌파",
+  "경남도,'제26회경남도푸른경남상'수상자3명선정",
+  "\"글로벌빅테크첫100조분기영업이익\"…삼성전자,메모리특수로신...",
+  "한국금융권해킹범,중국광둥성거주26세추정",
+  "“취약점공개도전에해킹”…‘프론티어AI’에주요국금융권부산한...",
+  "오픈AI수학성과에학계술렁…\"필즈상수상할만\"",
+  "[단독]금융권해킹지목된‘광둥성26세’“난허난성편의점직원…..."
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,21 @@
   [
    "2026-10-08T15:24:15.437701+09:00",
    "영업익 아직인데 돌파 100조 엔비디아도 분기 삼전"
+  ],
+  [
+   "2026-10-08T15:26:15.602994+09:00",
+   "공개도 취약점 프론티어 금융권 주요국 전에 부산한"
+  ],
+  [
+   "2026-10-08T15:26:15.602994+09:00",
+   "술렁 학계 필즈상 수학 수상할만 성과에"
+  ],
+  [
+   "2026-10-08T15:26:15.602994+09:00",
+   "26세 광둥성 지목된 허난성 직원 편의점 금융권"
   ]
  ],
- "last_run": "2026-10-08T15:24:39.006146+09:00",
+ "last_run": "2026-10-08T15:26:39.090763+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
