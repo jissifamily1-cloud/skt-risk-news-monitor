@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8677763",
-  "https://view.asiae.co.kr/article/2026100510163942407",
-  "https://www.ikbc.co.kr/article/view/kbc202610050016",
-  "https://www.aitimes.com/news/articleView.html?idxno=215796",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703957",
-  "https://zdnet.co.kr/view/?no=20260930152554",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703916",
-  "https://www.aitimes.com/news/articleView.html?idxno=215787",
   "https://www.aitimes.com/news/articleView.html?idxno=215788",
   "https://www.aitimes.com/news/articleView.html?idxno=215791",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703837",
@@ -2999,17 +2991,17 @@
   "http://www.seouleconews.com/news/articleView.html?idxno=94231",
   "https://www.imaeil.com/page/view/2026100815204120459",
   "https://www.news2day.co.kr/article/20261008500212",
-  "https://www.youthdaily.co.kr/news/article.html?no=228139"
+  "https://www.youthdaily.co.kr/news/article.html?no=228139",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223785",
+  "https://zdnet.co.kr/view/?no=20261008153921",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448941",
+  "https://www.kpinews.kr/newsView/1065587208839584",
+  "https://www.cnet.co.kr/view/?no=20261008153333",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705979",
+  "https://hbnpress.com/news/view/1065594972610893",
+  "https://www.newspim.com/news/view/20261008001060"
  ],
  "seen_titles": [
-  "샘올트먼“AI일부위험감수해야”…앤트로픽과‘안전철학’선긋...",
-  "올트먼\"AI혜택위해위험감수\"강조…\"나쁜일을일부받아들여야\"",
-  "올트먼“AI혜택위해위험감수해야”…앤트로픽규제론과차별화",
-  "샘올트먼\"AI혜택위해일부위험감수해야\"",
-  "샘올트먼\"AI혜택얻으려면일부위험감수해야…'과도한규제'반대",
-  "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
-  "샘알트먼\"오픈AI,모델안정성확보전엔상장안한다\"",
-  "오픈AI,IPO미루고300억달러조달…몸값1.4조달러목표",
   "[데일리픽]XRP강세론재점화…테슬라·스페이스X합병변수등장",
   "알트먼\"기업공개압박없이AI안전확보가우선\"",
   "오픈AI추가투자유치목표는'1900조가치'...연매출은95조육박",
@@ -6001,7 +5993,15 @@
   "갑자기꺼지는아이폰18프로'눈총'…1500건교환에도원인비공개",
   "삼성전자,분기영업이익100조원신기록에도증시는'시큰둥'",
   "삼성전자,분기영업익100조시대…이제시작일뿐(종합)",
-  "이억원금융위원장“AI해킹대응,기본적인부분부터미흡”"
+  "이억원금융위원장“AI해킹대응,기본적인부분부터미흡”",
+  "\"아이폰18프로갑자기꺼진다\"1,500건넘었는데…원인은'기밀'",
+  "위앤유텍,엘라스틱에이전틱AI플랫폼전시",
+  "LG유플러스22일부터유심자동업데이트,가입자식별번호보안강화",
+  "최태원,EBS'위대한수업'서AI시대생존전략제시",
+  "오픈AI,GPT-6챗GPT전반으로확대…‘인텔리전트UI’도입한다",
+  "[국감2026]\"3개월만보고이상없다?\"…금융권해킹부실점검도마위",
+  "KT,어린이창작·AI콘텐츠로사회적가치확대",
+  "권익위도해킹피해…\"2차피해없도록대응\""
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,17 @@
   [
    "2026-10-08T15:40:26.787580+09:00",
    "카카오가 유통망 노리는 카톡 에이전트 안에 모은다"
+  ],
+  [
+   "2026-10-08T15:42:16.963415+09:00",
+   "콘텐츠로 확대 창작 사회적 어린이 ~KT 가치"
+  ],
+  [
+   "2026-10-08T15:42:16.963415+09:00",
+   "대응 없도록 권익위도 2차 피해"
   ]
  ],
- "last_run": "2026-10-08T15:40:51.165555+09:00",
+ "last_run": "2026-10-08T15:42:43.285722+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
