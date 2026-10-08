@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02309126645610952&mediaCodeNo=257",
-  "http://www.osen.co.kr/article/G1112889669",
   "https://www.cbci.co.kr/news/articleView.html?idxno=613166",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438225",
   "https://biz.sbs.co.kr/article_hub/20000338866?division=NAVER",
@@ -2999,11 +2997,11 @@
   "https://www.betanews.net/article/view/beta202610080125",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706037",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223859",
-  "https://www.the-today.com/news/articleView.html?idxno=91430"
+  "https://www.the-today.com/news/articleView.html?idxno=91430",
+  "http://www.kwangju.co.kr/article.php?aid=1791454920804104004",
+  "https://news.jtbc.co.kr/article/NB12322056?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "[이슈분석]한국금융사공격서버서'ARTEX·AI대화기록'발견…해커...",
-  "[오늘의주요일정·8일]노동부,일자리전담반(TF)개최",
   "美장기국채금리반등...뉴욕증시'하락',은행주'위축'",
   "최태원SK회장,'위대한수업'시즌6첫강연…AI시대'新자본주의'...",
   "트럼프,머스크·젠슨황등에과학훈장…실리콘밸리와밀착",
@@ -6001,7 +5999,9 @@
   "이화영대표‘한-몽사이버보안협력프로그램’에서'사이버회복력'...",
   "[국감2026]보안허점·ETF손실집중추궁…대출·디지털자산규제도도...",
   "해킹범,AI에'판매처'까지물었다…5대은행장국감증인채택",
-  "러시아,'차이나프렌들리'로中관광객잡는다…2030년550만명목표"
+  "러시아,'차이나프렌들리'로中관광객잡는다…2030년550만명목표",
+  "최태원SK회장,광주반도체팹예정지첫방문",
+  "엔비디아도못한\"107조\"삼성이했다…심상찮은추세"
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,17 @@
   [
    "2026-10-08T19:16:19.803149+09:00",
    "투자 발표는 수십억 달러 마이크로소프트"
+  ],
+  [
+   "2026-10-08T19:28:17.865981+09:00",
+   "반도체 광주 SK 회장 예정지 방문"
+  ],
+  [
+   "2026-10-08T19:28:17.865981+09:00",
+   "추세 심상찮은 못한 했다 엔비디아도 삼성이 107조"
   ]
  ],
- "last_run": "2026-10-08T19:26:38.339720+09:00",
+ "last_run": "2026-10-08T19:28:47.698958+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
