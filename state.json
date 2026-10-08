@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbizm.com/news/articleView.html?idxno=317346",
-  "https://www.techm.kr/news/articleView.html?idxno=155910",
-  "https://view.asiae.co.kr/article/2026100715462417960",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=745117",
-  "http://www.osen.co.kr/article/G1112889104",
-  "https://www.huffingtonpost.kr/article/261051",
-  "https://www.mydaily.co.kr/page/view/2026100715450744261",
-  "https://www.yna.co.kr/view/AKR20261007146600017?input=1195m",
-  "https://www.newsis.com/view/NISX20261007_0003817689",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360214",
-  "https://www.mediawatch.kr/news/article.html?no=261292",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554004",
   "https://www.thepublic.kr/news/articleView.html?idxno=321429",
   "https://www.gukjenews.com/news/articleView.html?idxno=3715305",
@@ -2999,20 +2988,20 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=302265",
   "https://www.news1.kr/it-science/cc-newmedia/6313848",
   "https://www.youthdaily.co.kr/news/article.html?no=228101",
-  "http://www.mjmedi.com/news/articleView.html?idxno=63234"
+  "http://www.mjmedi.com/news/articleView.html?idxno=63234",
+  "https://www.ekn.kr/web/view.php?key=20261007020133369",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=91993",
+  "https://www.g-enews.com/view.php?ud=202610060825441880906806b77b_1",
+  "https://www.m-i.kr/news/articleView.html?idxno=2003753",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253665",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267586",
+  "https://www.dailian.co.kr/news/view/1699246/?sc=Naver",
+  "https://www.smartbizn.com/news/articleView.html?idxno=155873",
+  "https://www.smarttoday.co.kr/ko-kr/articles/112393",
+  "http://www.finomy.com/news/articleView.html?idxno=263104",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4110996"
  ],
  "seen_titles": [
-  "KOSPI200ClosingPriceList-3",
-  "\"내가가진능력,AI가찾아준다\"…삼성전자DX'마이스킬스'공개",
-  "용산구,민관협력일자리사업교육수료생들'2026창작선수단:theNext...",
-  "[국감26]최주희티빙대표,'2만원보상안'질타에\"적자법인으로서...",
-  "여의도순복음교회해킹…성도85만명이름·생년월일유출의심",
-  "현대엔지니어링,8700억규모인천원창동데이터센터공사수주",
-  "‘201안타’레이예스,오늘(7일)최다안타신기록‘디데이’일까…1번...",
-  "두산테스나내년역대첫'영업이익1천억'바라본다:두산박정원'반...",
-  "[종합]기업은행사이버공격시도85만건…3년연속증가‘국책은행도...",
-  "아시안게임메달20개합작한'팀SKT'한자리에",
-  "이대통령\"에너지,정치영향많이받아…메가투자성공위해녹색시장...",
   "이어지는금융권해킹…현대캐피탈등,침해닷새뒤에야사태확인",
   "국책은행해킹시도급증…IBK기업은행,올해100만건돌파하나",
   "韓금융사해킹도구된中AI‘ARTEX’…작년경진대회우승",
@@ -6001,7 +5990,18 @@
   "SK브로드밴드,Btv구독자에한국시리즈관람권제공",
   "\"AI동화상영회열린다\"…KT,어린이참여문화행사개최",
   "오픈AI·앤트로픽,차세대AI'정면승부'…GPT-6·클로드하이쿠5.5'맞불...",
-  "한의협,방미통위에양의사커뮤니티'메디스태프'폐쇄요청"
+  "한의협,방미통위에양의사커뮤니티'메디스태프'폐쇄요청",
+  "[현장]온도계읽는로봇,계약서검토하는AI…코엑스에펼쳐진미래",
+  "추영우,암완치뒤에도끝나지않은공포섬세하게그려",
+  "[김대호인물]AMD리사수(蘇姿丰)\"한국에온진짜이유\"",
+  "구미,대·중견기업-중소·창업기업기술연결했다…'커넥트서밋'개최",
+  "삼성전자,3분기영업이익107조원돌파…국내기업최초'분기100조'...",
+  "삼성전자,'분기첫100조돌파'새역사섰다…3분기영업익107.4조,전...",
+  "“AI데이터센터경쟁,GPU·전력넘어메모리·수익성이좌우”",
+  "SK텔레콤·업스테이지,국산AI보안실증나선다",
+  "SK브로드밴드,'Btv+'가입자한국시리즈직관티켓증정",
+  "금융권망분리완화신청대상큰폭'확대'···잇단해킹에보안검증시...",
+  "방미통위,편성위·편성규약미이행11개사시정명령"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,13 @@
   [
    "2026-10-08T09:28:15.705216+09:00",
    "방미통위에 요청 폐쇄 양의사 커뮤니티 한의협 메디스태프"
+  ],
+  [
+   "2026-10-08T09:30:31.232003+09:00",
+   "11개사 편성규약 시정명령 편성위 미이행"
   ]
  ],
- "last_run": "2026-10-08T09:28:46.497656+09:00",
+ "last_run": "2026-10-08T09:30:52.846154+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
