@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://futurechosun.com/?p=162387",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6313365",
-  "https://www.techm.kr/news/articleView.html?idxno=155908",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337552",
-  "https://www.news1.kr/it-science/internet-platform/6311821",
-  "http://www.inews24.com/view/2012180",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785001&plink=ORI&cooper=NAVER",
-  "https://www.ajunews.com/view/20261007154838332",
-  "https://www.joongdo.co.kr/web/view.php?key=20261007010001834",
-  "https://www.kado.net/news/articleView.html?idxno=2076916",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880731",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=870883",
   "https://www.aitimes.com/news/articleView.html?idxno=216039",
   "https://www.etoday.co.kr/news/view/2633524",
@@ -2999,20 +2988,20 @@
   "https://www.viva100.com/article/20261008500302",
   "http://www.srtimes.kr/news/articleView.html?idxno=214272",
   "https://www.newsis.com/view/NISX20261008_0003818538",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=745194"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745194",
+  "http://www.finomy.com/news/articleView.html?idxno=263175",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=130797",
+  "https://www.mk.co.kr/article/12171254",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=87214",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705756",
+  "https://www.mhj21.com/news/articleView.html?idxno=254195",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871009",
+  "https://www.inthenews.co.kr/news/article.html?no=92855",
+  "https://www.sentv.co.kr/article/view/sentv202610080052",
+  "https://zdnet.co.kr/view/?no=20261008103433",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871015"
  ],
  "seen_titles": [
-  "레드햇-IBM,자바라이브러리취약점400여건수정...'라이트웰클리어...",
-  "AI가노린오픈소스빈틈…레드햇·IBM,400건넘게막았다",
-  "구미시,기업간파트너십구축...‘구미커넥트서밋2026’개최",
-  "\"대·중견기업과스타트업연결\"…'GUMIConnectSummit2026'개최",
-  "[글로벌]구글,AI데이터센터전력3.6GW확보..원전까지키운다",
-  "김선민의원\"AI로뇌출혈진단?부총리부모님이라면안심하겠나\"",
-  "[단독]끝내방미통위에소송건케이블TV…\"방발기금에다죽어\"",
-  "'모두의창업'유출겪은韓총리,\"방치된정부웹사이트부터닫아라\"",
-  "한총리\"개인정보해킹신속수사…피해보상철저이행감독\"",
-  "檢폐지직전미제사건급증…18만건넘어",
-  "체육중·고없는'세종시',국립체육영재학교유치절실",
   "이대통령\"지역산단적극활용해녹색대전환을지역성장동력으로\"",
   "금융기관위협하는AI해킹도구'아르텍스'의비밀이드러나다",
   "[종합]5대은행장국감증인채택추진…해킹책임묻는다",
@@ -6001,7 +5990,18 @@
   "최태원,EBS‘위대한수업’강연자로⋯“AI시대자본주의·생존전략...",
   "금융권해킹공격자,中광둥성20대추정…AI대화서신원단서포착",
   "오픈AI,AI수학원고722편공개…리만가설관련결과에\"사람이면필...",
-  "[이슈]李\"메가투자성공위해녹색시장선점필수\"…정부,'한국형녹..."
+  "[이슈]李\"메가투자성공위해녹색시장선점필수\"…정부,'한국형녹...",
+  "카카오,국제학회서AI학습최적화성과공개···모델크기최대40%...",
+  "CJ프레시웨이,식봄AI가격비교상품20만개로확대",
+  "“산불나면로봇이출동”…185개국청소년들,송도서로봇대결",
+  "삼성전자,3분기영업익100조원돌파…글로벌빅테크최초",
+  "[TechInsight]\"AI해커는코드아닌논리허점노린다\"",
+  "정무위국감에기업인20명줄소환,쿠팡·네이버·KT·구글등도마",
+  "SKT·업스테이지'AI보안동맹'결성…국내보안강자총출동",
+  "SKT-업스테이지,‘독자AI사이버보안협의체’출범…사이버보안영역...",
+  "오픈AI,GPT-6전면확대…질문따라구성하는‘인텔리전트UI’도입",
+  "오픈AI,챗GPT답변방식바꾼다…GPT-6로화면까지생성",
+  "금융권뚫은AI해킹…SK쉴더스가지목한'보안구멍'은?"
  ],
  "recent_sigs": [
   [
@@ -6711,9 +6711,13 @@
   [
    "2026-10-08T10:36:16.895292+09:00",
    "필수 선점 성공 정부 메가투자 한국형 녹색시장"
+  ],
+  [
+   "2026-10-08T10:38:16.339309+09:00",
+   "보안 뚫은 SK쉴더스가 지목한 금융권 구멍"
   ]
  ],
- "last_run": "2026-10-08T10:36:36.863632+09:00",
+ "last_run": "2026-10-08T10:38:39.064802+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
