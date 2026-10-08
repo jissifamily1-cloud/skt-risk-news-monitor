@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=202610080620291402aaae0046f_30",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680442",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171446",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011949",
-  "https://www.bntnews.co.kr/article/view/bnt202610080004",
-  "https://www.hankyung.com/article/2026100789456",
   "https://www.ddaily.co.kr/page/view/2026100806294667462",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171579",
   "https://www.news1.kr/it-science/cc-newmedia/6313265",
@@ -2999,15 +2993,15 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=613656",
   "https://www.munhwa.com/article/11622320",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=61317",
-  "https://www.hankookilbo.com/news/article/A2026100815250000945?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026100815250000945?did=NA",
+  "https://www.news1.kr/local/busan-gyeongnam/6314935",
+  "https://www.the-today.com/news/articleView.html?idxno=91424",
+  "https://www.ngetnews.com/news/articleView.html?idxno=554311",
+  "https://www.sedaily.com/article/20099787",
+  "http://www.inews24.com/view/2013343",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871355"
  ],
  "seen_titles": [
-  "순복음교회\"85만명정보유출\"…수사의뢰검토",
-  "'아프리카스마트폰왕'中트랜시온,홍콩2차상장돌입…최대5억달...",
-  "[외신헤드라인]스페이스X,엔비디아칩구매에54조원조달추진",
-  "마이크로소프트,애플맥북프로대항마'서피스랩톱울트라'공개...엔...",
-  "“취약표면침해시도증가”17번경고무시한시중은행",
-  "가상자산범죄,범인절반은AI…거래소대응은[해킹에뚫린금융③]",
   "KIA숙소에서비명소리가…이범호경기보며뭉클했나,힘들수록팀으...",
   "최원준,204안타신기록…KBO새역사",
   "칠천피'통곡의벽'…美·대만최고치인데25%밀린韓[분석+]",
@@ -6001,7 +5995,13 @@
   "장한별,첫단독콘서트추가회차도1분내매진…총3회공연",
   "KAI,해병대상륙기동헬기PBL사업5년간1145억계약…“항공우주플랫...",
   "[게임뉴스]슈퍼셀및플레이위드코리아소식외",
-  "\"한국금융권공격해커는중국광둥성26세...홍콩서버·딥시크활용..."
+  "\"한국금융권공격해커는중국광둥성26세...홍콩서버·딥시크활용...",
+  "부산교통공사·시설공단수장후보모두'부적격'…부산시의회보고서...",
+  "13일황금연휴에중국인나가고외국인들어오고…'양방향관광'활기",
+  "ETF도입공방에상록수책임론까지…금융위국감난타전[현장]",
+  "TSMC,3분기매출51%급증…시장예상치웃돌아",
+  "엔비디아HBM4'8단축소설'에반론…삼성·SK하이닉스호황지속전망",
+  "빗겟5500억해킹···개인키아닌'내부망'뚫렸다"
  ],
  "recent_sigs": [
   [
@@ -6791,9 +6791,17 @@
   [
    "2026-10-08T18:32:16.389629+09:00",
    "까지 미래를 교육 부터 대구교육의 묻다 질문하는 교실"
+  ],
+  [
+   "2026-10-08T18:42:15.705921+09:00",
+   "8단 축소설 삼성 반론 HBM4 호황 SK하이닉스 전망 지속"
+  ],
+  [
+   "2026-10-08T18:42:15.705921+09:00",
+   "개인키 5500억 빗겟 아닌 내부망 뚫렸다"
   ]
  ],
- "last_run": "2026-10-08T18:40:44.603560+09:00",
+ "last_run": "2026-10-08T18:42:42.729124+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
