@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH20261007172532W3m",
-  "https://sports.khan.co.kr/article/202610071726003?pt=nv",
-  "https://www.mk.co.kr/article/12170651",
-  "https://www.joongangenews.com/news/articleView.html?idxno=553332",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790216.html",
-  "http://kor.theasian.asia/archives/417443",
-  "https://www.etoday.co.kr/news/view/2632903",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679886",
   "https://www.hankyung.com/article/2026100790701",
   "https://zdnet.co.kr/view/?no=20261007171138",
@@ -2999,16 +2992,16 @@
   "https://www.aitimes.kr/news/articleView.html?idxno=42224",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=815334",
   "https://www.thisisgame.com/articles/430702",
-  "https://www.ddaily.co.kr/page/view/2026100810490503876"
+  "https://www.ddaily.co.kr/page/view/2026100810490503876",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438325",
+  "https://www.fnnews.com/news/202610081042126886",
+  "https://www.sportsworldi.com/newsView/20261008506937",
+  "https://www.fnnews.com/news/202610080910387305",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=394852",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=87217",
+  "http://www.iminju.net/news/articleView.html?idxno=170552"
  ],
  "seen_titles": [
-  "[기자수첩]AI금융외치던은행들,보안은따라왔나",
-  "수협,금융권해킹공격에긴급대책회의…노동진\"고객정보보호총력...",
-  "[비즈&]현대모비스다큐,글로벌어워드잇달아수상外",
-  "삼성마무리김재윤복귀···페덱은회복세좋으면정규시즌최종전...",
-  "현대ENG,인천데이터센터공사수주",
-  "가을야구,14일와일드카드결정전개막…한국시리즈11월2일",
-  "가을야구막오른다…14일와일드카드,11월2일한국시리즈",
   "[오늘의신문]경찰,유해진자택앞집회\"불법행위없어\"...알래스카...",
   "中,한달새AI모델16개출시⋯속도조절대신‘가속페달’",
   "“산부인과등병원수술·환복실CCTV영상100여건유출”…경찰수사",
@@ -6001,7 +5994,14 @@
   "LG전자,세계185개국청소년들에게로봇기술과혁신비전전한다",
   "[오늘증시]외인'팔자'에발목잡힌코스피…삼성전자역대급실적도...",
   "[인터뷰]한국을담은‘워프레임’,13년의여정에새로운도전을더하...",
-  "“금융권초유의연쇄해킹사태”…5대은행장,국감증언대선다[202..."
+  "“금융권초유의연쇄해킹사태”…5대은행장,국감증언대선다[202...",
+  "홈플러스·쿠팡·정유사대표급…공정위국감증인줄소환",
+  "한글날서울광장에어린이창작그림책·AI동화나온다",
+  "마법사표‘빅이닝’가을에도계속된다…KT,팬들과함께‘V2’출정...",
+  "브로드컴·스페이스X'메가딜'추진…AI칩사려고수십조빚낸다",
+  "타불라,소비자데이터파편화대응'리얼라이즈ID'출시",
+  "금융권해킹배후단서포착…중국광둥성26세인물추정",
+  "권익위,교육시스템해킹에자체감사…위탁사업실태조사"
  ],
  "recent_sigs": [
   [
@@ -6767,9 +6767,13 @@
   [
    "2026-10-08T11:04:16.685704+09:00",
    "한미일 원장 회의서 해킹대응 방미 사실 불발설엔 아냐 국정원 빠져"
+  ],
+  [
+   "2026-10-08T11:08:16.085673+09:00",
+   "위탁사업 교육시스템 감사 권익위 실태조사 해킹에 자체"
   ]
  ],
- "last_run": "2026-10-08T11:06:35.039929+09:00",
+ "last_run": "2026-10-08T11:08:40.990906+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
