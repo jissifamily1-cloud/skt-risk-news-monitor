@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/security-hacking/6313606",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=561713",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790276.html",
-  "http://www.sisacast.kr/news/articleView.html?idxno=100543",
-  "https://www.sportschosun.com/baseball/2026-10-07/202610070100051750003341",
-  "https://www.sportschosun.com/baseball/2026-10-07/202610070100051760003342",
-  "https://www.sportschosun.com/baseball/2026-10-07/202610070100051740003340",
   "https://www.joongang.co.kr/article/25467955",
   "https://h21.hani.co.kr/arti/society/society_general/59982.html",
   "https://www.yna.co.kr/view/PYH20261007295900061?input=1196m",
@@ -2999,16 +2992,16 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871080",
   "https://www.dailysecu.com/news/articleView.html?idxno=208795",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171655",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077827"
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077827",
+  "https://www.seoul.co.kr/news/sport/baseball/2026/10/08/20261008500127?wlog_tag3=naver",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448918",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90144",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=49563",
+  "https://www.mk.co.kr/article/12171443",
+  "https://dealsite.co.kr/articles/170346",
+  "https://www.dailian.co.kr/news/view/1699437/?sc=Naver"
  ],
  "seen_titles": [
-  "[포토]힐리어드,시즌42호홈런은만루포!",
-  "진천군청년센터,생성형AI구독료최대10만원지원",
-  "금융권해킹도구'아르텍스'한국어판등장…\"공격아닌방어목적\"",
-  "[특별기고]AI는유토피아인가디스토피아인가…관건은'제도의선택'",
-  "명령한줄넣었더니개인정보'줄줄'…금융권해킹추정도구,딥시크...",
-  "[生기업TALK]신한금융그룹,디지털자산시장주도권선점위한노력경주",
-  "[포토]힐리어드,만루포폭발!",
   "[포토]만루포힐리어드,시즌42호홈런포",
   "[포토]만루포폭발힐리어드,시즌42호홈런포",
   "‘굿바이잠실’마지막한지붕라이벌전승자는LG…임찬규15승으로...",
@@ -6001,7 +5994,14 @@
   "[금고뒷문해부]③신한369억쓰고15시간몰라…2만5천명유출왜",
   "국가도메인운영인프라뚫렸다…구글등주요기업인증서무단발급...",
   "금융권해킹에,\"방어에도AI써야…망분리규제개선\"[국감2026]",
-  "권익위해킹\"사건자체감사및위탁사업전체조사실시예정\""
+  "권익위해킹\"사건자체감사및위탁사업전체조사실시예정\"",
+  "빛나는‘강철매직’,흐려진달그림자...엇갈린두베테랑감독의명...",
+  "카카오게임즈,한국풍MMORPG신작'도깨비의세계'출시",
+  "\"생성형AI로코딩없이자동매매\"…한국투자증권,국내주식실전투자...",
+  "최태원회장,EBS'위대한수업'출연…AI시대새자본주의제안",
+  "KT,한글날맞아서울광장서어린이그림책행사",
+  "[2026국감]해킹사고에5대은행장전원소환…신한·국민·하나'초긴...",
+  "\"지역맞춤채널도마음대로못짜\"…LG헬로비전,CJENM과갈등속규제..."
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,13 @@
   [
    "2026-10-08T13:46:14.548370+09:00",
    "징수율 법정으로 벼랑 케이블TV 결국 멈춘 2017년에"
+  ],
+  [
+   "2026-10-08T13:50:27.767801+09:00",
+   "CJ ENM과 마음대로 규제 맞춤 채널도 LG헬로비전 갈등 지역"
   ]
  ],
- "last_run": "2026-10-08T13:48:35.018536+09:00",
+ "last_run": "2026-10-08T13:50:49.944273+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
