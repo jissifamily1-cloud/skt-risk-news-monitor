@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12170525",
-  "http://www.areyou.co.kr/news/articleView.html?idxno=95709",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3149627",
-  "https://gamefocus.co.kr/detail.php?number=179628",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870831",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208776",
-  "https://news.tf.co.kr/read/economy/2373967.htm",
-  "https://www.bloter.net/news/articleView.html?idxno=675179",
-  "https://www.smarttoday.co.kr/ko-kr/articles/112379",
-  "https://zdnet.co.kr/view/?no=20261007154719",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448825",
   "https://www.newspim.com/news/view/20261007001127",
   "https://www.ytn.co.kr/_ln/0102_202610071603196785",
@@ -2999,19 +2989,19 @@
   "https://news.tf.co.kr/read/economy/2374157.htm",
   "https://www.etoday.co.kr/news/view/2633760",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705805",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705810"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705810",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=210315",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=311386",
+  "https://www.sedaily.com/article/20099415",
+  "http://www.queen.co.kr/news/articleView.html?idxno=464416",
+  "https://www.g-enews.com/view.php?ud=2026100809333857063084322ec9_1",
+  "https://www.kbsm.net/news/view.php?idx=536754",
+  "https://www.socialvalue.kr/news/view/1065573792917790",
+  "https://www.news1.kr/industry/distribution/6313961",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261008094618Cl6",
+  "https://biz.sbs.co.kr/article_hub/20000338895?division=NAVER"
  ],
  "seen_titles": [
-  "해킹터지면'반짝'관심⋯사이버보험실제수요는제자리걸음",
-  "[단독]상급종합병원4곳중1곳,해킹실시간감시안해",
-  "전투기·함정·발사체·AI…'K방산생태계'의무한진화",
-  "[아유경제_부동산]현대엔지니어링,8700억원규모인천데이터센터신...",
-  "[영상]미용실에서조향교육까지12년…현나영쎄리하우스대표\"소통...",
-  "엔비디아'기어스오브워:E-데이''스타워즈:은하계레이서'등에그...",
-  "리사수,삼성과7개월만에재회…HBM넘어파운드리'촉각'",
-  "한국인터넷진흥원,나주본원신관준공...업무공간확충으로대응력...",
-  "최태원회장\"AI·녹색전환,함께추진할국가쌍둥이전략\"",
-  "9440억'이혼비용'마련한최태원…SK㈜소액주주셈법은",
   "AI앱키운KT·LGU+,챗GPT에도요금제띄운이유",
   "\"검색만으론부족\"…퍼플렉시티,'AI컴퓨터'로업무까지맡는다",
   "은행해킹'약한고리'된외부채널,보험권도영업채널·GA보안관리시...",
@@ -6001,7 +5991,17 @@
   "금융권해킹범,중국광둥성26세추정…AI로유출정보판매처까지물어",
   "정석근SK하이퍼대표\"AI인프라산업병목변화하고있다\"",
   "오픈AI,GPT-6무료이용자에도공개…'인텔리전트UI'도입",
-  "월드\"AI에이전트가실제사람대신하는지확인에도인간증명활용가..."
+  "월드\"AI에이전트가실제사람대신하는지확인에도인간증명활용가...",
+  "SKT후원선수들아시안게임서메달20개…펜싱엔'AI분석'지원",
+  "한국투자증권,SK와파트너십방향전환'정기성에서대형딜'",
+  "SK쉴더스“AI자동화공격,관리사각지대‘쉐도우IT’노려”",
+  "삼성전자,분기영업익100조시대열었다…하루에1.2조\"한국기업새...",
+  "SK하이닉스,AI로반도체탄소배출줄인다…협력사1700곳도지원",
+  "대기업오너4·5세94%는유학파…미국컬럼비아·뉴욕·코넬대최다",
+  "KT,한글날맞아서울광장서‘함께그린책AI친구놀이터’개최…그...",
+  "KT알파쇼핑,2026FW패션위크…패션방송120%확대",
+  "\"한국금융권해킹범,중국광둥성26세추정\"",
+  "韓금융권해킹中'딥시크'활용,클로드코드에포착"
  ],
  "recent_sigs": [
   [
@@ -6633,7 +6633,7 @@
    "사람 인간 확인에도 실제 증명 월드 에이전트가 활용 대신하는지"
   ]
  ],
- "last_run": "2026-10-08T09:46:44.938686+09:00",
+ "last_run": "2026-10-08T09:48:33.490265+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
