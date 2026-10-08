@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thereport.co.kr/news/articleView.html?idxno=92079",
-  "https://www.energy-news.co.kr/news/articleView.html?idxno=228826",
-  "https://www.ktv.go.kr/content/view?content_id=762090",
-  "https://zdnet.co.kr/view/?no=20261007175109",
-  "https://biz.sbs.co.kr/article_hub/20000338818?division=NAVER",
-  "https://www.newspim.com/news/view/20261007001542",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610070104&t=NNv",
-  "https://www.joongboo.com/news/articleView.html?idxno=363738743",
-  "https://biz.sbs.co.kr/article_hub/20000338817?division=NAVER",
-  "https://byline.network/?p=9004111222622572",
   "https://www.news1.kr/industry/sb-founded/6313496",
   "https://www.fnnews.com/news/202610071814372344",
   "https://www.yeongnam.com/web/view.php?key=20261005023162448",
@@ -2999,19 +2989,19 @@
   "https://www.ytn.co.kr/_ln/0134_202610081136072105",
   "http://www.newstomato.com/ReadNews.aspx?no=1316087&inflow=N",
   "https://www.ajunews.com/view/20261008112858254",
-  "https://hbnpress.com/news/view/1065580084191480"
+  "https://hbnpress.com/news/view/1065580084191480",
+  "https://news.dealsitetv.com/articles/176650",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16241630",
+  "https://www.youthdaily.co.kr/news/article.html?no=228120",
+  "https://www.nytimes.com/2026/10/07/technology/personaltech/chatgpt-teens-openai.html?partner=naver",
+  "https://www.nytimes.com/2026/10/07/opinion/ezra-klein-podcast-david-robinson.html?partner=naver",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90189",
+  "https://biz.heraldcorp.com/article/10896777",
+  "https://biz.heraldcorp.com/article/10896880",
+  "https://sateconomy.co.kr/news/view/1065580141983890",
+  "http://www.newstomato.com/ReadNews.aspx?no=1316069&inflow=N"
  ],
  "seen_titles": [
-  "'삶의질'·'제값찾기'…취임100일시도지사들'청사진'제시",
-  "\"코어뱅킹밖을노려라\"…해커먹잇감된모집인·영업지원시스템",
-  "한동훈\"불의의사고라니\",박충권\"북동영장관\"",
-  "가스안전공사,관리자권한오남용차단나선다",
-  "이대통령\"녹색대전환···한국이세계녹색시장선도자로\"",
-  "AWS,데이터베이스전환에AI투입…코드변환·검증까지자동화",
-  "물들어올때노젓자?…우리銀,'피싱피해자'이자깎아준다",
-  "[종합]복지위,의료현장사고대책촉구…정은경장관\"환자안전·보...",
-  "녹색전환에1천조...포스코홀딩스·한화큐셀수혜",
-  "KT이강철감독\"정규시즌남은경기총력전으로임할것\"",
   "서울대형교회2곳도해킹정황…피해자소송움직임",
   "AI해킹시대,수도서울의사이버보안은어떻게지키나",
   "이소영\"'모두의창업'새플랫폼구축…코스닥상폐기준기준우려\"(종...",
@@ -6001,7 +5991,17 @@
   "한국금융권겨냥해킹...중국어흔적에'광둥성거주26세'단서?[이슈...",
   "5대은행장국감증인채택…해킹사태책임추궁",
   "국정원,北해킹대응한미일회의서제외…\"일부오해있었다\"",
-  "토스뱅크,해킹막았지만내부오류또...늑장인지'금융사최다'"
+  "토스뱅크,해킹막았지만내부오류또...늑장인지'금융사최다'",
+  "[최태원-노소영재산분할]SK㈜지분매도세금만2000억↑…재상고‘...",
+  "\"3위직행티켓쟁탈전\"KIA-LG,12일광주최종전운명건다",
+  "운명의12일광주대첩…KIA·LG준PO직행총력전",
+  "WhyMyConversationsWith‘ChatGPTforTeens’MadeMeVeryWorried",
+  "‘ThisIsNuts.’AnOpenAIInsiderExplainsWhyHeQuit.",
+  "LG전자,세계185개국청소년로봇대회후원…미래세대와로보틱스비...",
+  "법사위,초반부터고성충돌…정무위는5대은행장증인채택[이런정치...",
+  "‘검찰개혁’맞붙은법사위…여야,날선신경전",
+  "iM뱅크·SBI저축은행도공격…금감원8월부터금융권에경고",
+  "SK하이닉스,반도체환경난제선제대응…AI환경연구소설립추진"
  ],
  "recent_sigs": [
   [
@@ -6849,7 +6849,7 @@
    "늑장 최다 내부 인지 토스뱅크 금융사 오류 막았지만"
   ]
  ],
- "last_run": "2026-10-08T11:40:48.051122+09:00",
+ "last_run": "2026-10-08T11:42:33.169645+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
