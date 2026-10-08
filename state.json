@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3715288",
-  "https://www.sentv.co.kr/article/view/sentv202610070139",
-  "http://www.newsprime.co.kr/news/article.html?no=750178",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315925&inflow=N",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321437",
-  "https://view.asiae.co.kr/article/2026100715221524667",
-  "https://kjmbc.co.kr/NewsArticle/1539972",
-  "https://www.ziksir.com/news/articleView.html?idxno=148627",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438149",
   "https://www.kukinews.com/article/view/kuk202610070184",
   "https://www.dailian.co.kr/news/view/1698901/?sc=Naver",
@@ -2999,17 +2991,17 @@
   "https://www.socialvalue.kr/news/view/1065571702726367",
   "https://www.ddaily.co.kr/page/view/2026100809140513263",
   "https://www.biotimes.co.kr/news/articleView.html?idxno=35045",
-  "https://www.ddaily.co.kr/page/view/2026100809124404287"
+  "https://www.ddaily.co.kr/page/view/2026100809124404287",
+  "https://www.nocutnews.co.kr/news/6588632",
+  "https://mhnse.com/news/articleView.html?idxno=1579302",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3715894",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279338",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438268",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880773",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5019310",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880775"
  ],
  "seen_titles": [
-  "삼성,유럽통신사채널서애플에1위내줘…메모리값에저가폰위축",
-  "‘퇴출위기에서최고외인으로’기다림이빚어낸KT힐리어드-스기모...",
-  "경남고성군,송학동고분군서'2026송학의밤'개최",
-  "한컴이노스트림,AI·AX교육브랜드‘한컴AX랩’론칭",
-  "LG전자,3분기누적영업익첫'4조'돌파",
-  "\"금융사유출개인정보,보이스피싱2차피해우려\"",
-  "[국정감사]CGV암표관리·티빙개인정보유출…문체부국감서집중질...",
-  "'국내최대'여의도순복음교회85만명성도정보유출의심…주민·전화...",
   "한국인터넷진흥원(KISA)나주신관준공",
   "李대통령\"녹색시장의설계자이자선도자돼야\"…1000조'K-GX'엔진켰다",
   "[월가톡톡]'노숙자에내집써라'…美진보층사유재산포기",
@@ -6001,7 +5993,15 @@
   "LG전자,국제청소년로봇대회서미래혁신인재후원…\"로봇비전공유...",
   "오픈AI,GPT-6챗GPT전면적용",
   "DHP2026,OpenAI∙삼성전자키노트…K-디지털헬스케어글로벌진출전...",
-  "[AI해킹전쟁㊦]뚫는AIvs막는AI…보안업계'추론경쟁'막올랐다"
+  "[AI해킹전쟁㊦]뚫는AIvs막는AI…보안업계'추론경쟁'막올랐다",
+  "페이커AI이미지무단사용한래퍼노스페이스갓,비판받자사과",
+  "김우석,신입'인턴의사'로돌아온다…9일첫방송앞둔韓드라마('닥...",
+  "HD현대중공업,누리호5차발사대시스템안정운용…발사성공견인",
+  "씨이랩,'한국건설·안전박람회'활약주가영향은...자사기술대거선...",
+  "SKT·업스테이지,'독자AI사이버보안협의체'로해킹대응한다",
+  "중국광둥성20대,한국금융권해킹의배후로지목되다—AI와디지털흔...",
+  "[뉴스인사이드국감톡톡]금융권해킹확산…금융위감독책임쟁점外",
+  "삼성전자,엔비디아제치고세계1위영업이익기록할까?"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,13 @@
   [
    "2026-10-08T09:18:16.043018+09:00",
    "올랐다 뚫는 막는 경쟁 보안업계 vs 추론"
+  ],
+  [
+   "2026-10-08T09:20:28.170286+09:00",
+   "1위 삼성전자 영업이익 제치고 기록할까 세계"
   ]
  ],
- "last_run": "2026-10-08T09:18:39.331602+09:00",
+ "last_run": "2026-10-08T09:20:46.553751+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
