@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705604",
-  "https://www.dt.co.kr/article/12087939",
-  "https://www.mediapen.com/news/view/1128451",
-  "https://zdnet.co.kr/view/?no=20261007145315",
-  "https://www.edaily.co.kr/News/Read?newsId=04309926645610624&mediaCodeNo=257",
-  "https://www.viewsnnews.com/article?q=238917",
-  "https://www.cwn.kr/news/articleView.html?idxno=58620",
-  "https://www.etoday.co.kr/news/view/2633464",
-  "https://www.g-enews.com/view.php?ud=202610071512283195e30fcb1ba8_1",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261007153132NkH",
-  "http://www.newsbrite.net/news/articleView.html?idxno=200785",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700273.html",
   "https://www.greened.kr/news/articleView.html?idxno=351608",
   "https://www.pharmnews.com/news/articleView.html?idxno=306743",
@@ -2999,20 +2988,20 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800053.html",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=279321",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523463",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337585"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337585",
+  "https://www.newspost.kr/news/articleView.html?idxno=226182",
+  "https://theviewers.co.kr/View.aspx?No=4256019",
+  "https://www.dailian.co.kr/news/view/1699227/?sc=Naver",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2305749",
+  "https://www.hankyung.com/article/202610078956O",
+  "https://www.ngonews.kr/news/articleView.html?idxno=240097",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800060.html",
+  "https://www.g-enews.com/view.php?ud=202610080858062619139bf6e4b2_1",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172024",
+  "https://www.mk.co.kr/article/12171128",
+  "https://www.viva100.com/article/20261008500174"
  ],
  "seen_titles": [
-  "한화자산운용,사내AI경진대회성료…신입사원3인대상",
-  "1만'스킬'로인재키운다…삼성,AI플랫폼'마이스킬스'오픈",
-  "제프리힌턴,AI출시전FDA식안전검증촉구…\"신약처럼검사받아야\"",
-  "신생아보온장비부터휠체어지도까지…DDP서세상을바꾸는디자인각...",
-  "美증시연일사상최고치…'지지부진'한국은왜?",
-  "과기정통부\"AI가찾는취약점급증…독자보안모델로대응\"",
-  "대표정보도털린티빙…\"2만원보상\"질타에\"형편맞는최선\"",
-  "李대통령\"녹색대전환,첨단산업초격차유지에필수적\"",
-  "\"AI가침투경로까지스스로찾는다\"…금융권해킹에등장한'아르텍스...",
-  "스페이스X,엔비디아칩사려고400억달러조달추진",
-  "수출입은행올해해킹시도8배급증…한은도작년의4.5배",
   "경찰\"'금융권해킹'IP상당수는'세탁용'\"",
   "3분기48개그룹총수주식자산18조증발...이재용·최태원·정의선'직...",
   "케이블TV13개사,방발기금관련방미통위에소송건다…\"분담금산정...",
@@ -6001,7 +5990,18 @@
   "SKT·업스테이지,'독자AI사이버보안협의체'출범…안랩등11개기...",
   "최태원회장\"SK하이닉스,반도체친환경전환에앞장\"",
   "EBS'위대한수업',최태원SK회장특별강연…AI시대청년생존전략제...",
-  "[단독]'프리랜서'딱지떼자방송사들'기간제'로…정규직전환은극히..."
+  "[단독]'프리랜서'딱지떼자방송사들'기간제'로…정규직전환은극히...",
+  "SKT,아시안게임후원선수초청'메달리스트세레머니'개최",
+  "[애널픽]AI에이전트타격가시화...네이버·카카오목표가↓",
+  "SK쉴더스“AI공격,보안사각지대‘ShadowIT’가원인”",
+  "韓금융권해커,中광둥성26세추정…'딥시크'주로활용",
+  "알바트로스,네트워킹행사'2026마케터의밤'개최…150여명참석",
+  "SKT·업스테이지,11개기관과'AI사이버보안협의체'출범",
+  "최태원,AI시대'새로운자본주의'제안…\"사회문제해결성과에보...",
+  "최태원,EBS'위대한수업'출연…AI시대‘새로운자본주의’제시",
+  "최태원SK회장의'AI,새자본주의그리고청년'...어떤울림줄까",
+  "“한국금융해킹공격자,중국광둥성거주26세추정”…AI에넣은이력...",
+  "오픈AI,‘챗GPT’전반으로‘GPT-6’확대⋯“질문에맞는UI실시간..."
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-10-08T09:14:17.985246+09:00",
    "프리랜서 기간제 방송사들 극히 정규직 딱지 전환은 떼자"
+  ],
+  [
+   "2026-10-08T09:16:15.843222+09:00",
+   "청년 울림 자본주의 그리고 회장의 줄까 SK 어떤"
   ]
  ],
- "last_run": "2026-10-08T09:14:36.374623+09:00",
+ "last_run": "2026-10-08T09:16:38.328117+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
