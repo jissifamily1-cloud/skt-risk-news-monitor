@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216040",
-  "https://www.kpinews.kr/newsView/1065599218725578",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318374",
-  "https://www.kgnews.co.kr/news/article.html?no=914410",
-  "https://www.hankyung.com/article/2026100791131",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2305699",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=192950",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242065",
-  "https://www.etoday.co.kr/news/view/2633088",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679897",
-  "https://www.ceoscoredaily.com/page/view/2026100715555094544",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171577",
   "https://www.xportsnews.com/article/2205137",
   "https://www.the-today.com/news/articleView.html?idxno=91345",
@@ -2999,20 +2988,20 @@
   "https://news.jtbc.co.kr/article/NB12321958?influxDiv=NAVER",
   "https://www.seoultimes.news/news/article.html?no=2000100674",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267598",
-  "https://biz.chosun.com/it-science/ict/2026/10/08/YI5IMFLDPVH77OFJ473JRCN6DE/"
+  "https://biz.chosun.com/it-science/ict/2026/10/08/YI5IMFLDPVH77OFJ473JRCN6DE/",
+  "https://www.khan.co.kr/article/202610061532001",
+  "http://www.4th.kr/news/articleView.html?idxno=2119399",
+  "http://coinreaders.com/262182",
+  "https://wemakenews.co.kr/news/view.php?no=26473",
+  "https://view.asiae.co.kr/article/2026100806492772864",
+  "https://www.ppss.kr/news/articleView.html?idxno=314593",
+  "http://www.newstomato.com/ReadNews.aspx?no=1316006&inflow=N",
+  "https://www.sentv.co.kr/article/view/sentv202610080059",
+  "http://www.press9.kr/news/articleView.html?idxno=83915",
+  "https://www.ktv.go.kr/content/view?content_id=762142",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1539870"
  ],
  "seen_titles": [
-  "\"구매보다경험\"…中상하이,'체험형소비'열기확산",
-  "[히든스테이지]윤준·심각한개구리·채비·윤태경…감성·폭발력으로...",
-  "앤트로픽,구글워크스페이스연동확장...문서안에서'클로드'직접호...",
-  "고금리에갈리는AI주식…\"이젠소부장병목에주목할때\"",
-  "방미통위,편성규약제정·개정안한KBS'시정명령'",
-  "화성시청임하나,실업사격연맹회장배전국사격대회女50m복사개인·단...",
-  "한화에어로직원이비행통제…'상업발사플랫폼'시대열린다",
-  "\"노시환이왜여기서?\"…AG축구논란에난데없이애꿎은야구'불똥'",
-  "신협,3500억차세대시스템구축...정보보호체계도전면점검",
-  "레드햇-IBM,'라이트웰'통해오픈소스취약점400건해소",
-  "하나證“AI속도조절론은마케팅⋯피지컬AI확산땐통신장비수혜”",
   "‘북지뢰대응’공방…“책임추궁해야”·“근본대책중요”",
   "1차규제완화대상신한·하나銀해킹피해…‘망분리’정책새국면으...",
   "KT,홈페이지에'개인정보보호법위반'공표",
@@ -6001,7 +5990,18 @@
   "권익위교육사이트10만명개인정보유출…\"자체감사·위탁업체전수...",
   "SKT,11개기관과‘독자AI사이버보안협의체’출범",
   "최태원,EBS'위대한수업'서강연한다'AI시대자본주의'해법제시",
-  "오픈AI,‘GPT-6’무료이용자에게도개방…앤트로픽은소형AI출시"
+  "오픈AI,‘GPT-6’무료이용자에게도개방…앤트로픽은소형AI출시",
+  "사건넘기기시작한공소청…검사의마지막수사90일,어떤사건남았...",
+  "금융권해커,AI이력서에신원단서..중국광둥성거주추정",
+  "S&P500,사상최고치찍었는데...13개공룡중4개만웃었다",
+  "AI가추천한자동차강자는…쏘렌토·아이오닉5·BMW",
+  "[구멍난금융보안]⑦\"AI공격엔AI로방어해야\"…해외금융권,어떻게...",
+  "이억원,정책서민금융부터국민성장펀드까지…금융지원전방위확대",
+  "편성위미구성·규약미개정방송사에시정명령…KBS·YTN등11곳",
+  "SKT·업스테이지,보안AI협의체출범…기업·대학11곳참여",
+  "최태원SK회장,AI·한일경제연대로'위대한수업'시즌6포문",
+  "MS·엔비디아,AI전용노트북공개[월드투데이]",
+  "정무위,5대은행장증인채택…해킹사고관련"
  ],
  "recent_sigs": [
   [
@@ -6779,9 +6779,13 @@
   [
    "2026-10-08T11:10:26.017961+09:00",
    "구현 기본사회 우리 이야기 동네 잇는다 케이블TV 최적 미디어"
+  ],
+  [
+   "2026-10-08T11:14:15.969289+09:00",
+   "방어해야 해외 공격엔 AI로 어떻게 금융권"
   ]
  ],
- "last_run": "2026-10-08T11:12:31.893195+09:00",
+ "last_run": "2026-10-08T11:14:37.380527+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
