@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10896880",
-  "https://sateconomy.co.kr/news/view/1065580141983890",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316069&inflow=N",
   "https://www.gukjenews.com/news/articleView.html?idxno=3716110",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610080859379430859",
   "https://www.segye.com/newsView/20261008507618?OutUrl=naver",
@@ -2999,12 +2996,12 @@
   "https://news.dealsitetv.com/articles/176650",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727258",
   "https://basketkorea.com/news/newsview.php?ncode=1065548135773255",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117951"
+  "https://www.businessplus.kr/news/articleView.html?idxno=117951",
+  "https://dealsite.co.kr/articles/170375",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610090009&t=NN",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438466"
  ],
  "seen_titles": [
-  "LG전자,세계185개국청소년로봇대회후원…미래세대와로보틱스비...",
-  "법사위,초반부터고성충돌…정무위는5대은행장증인채택[이런정치...",
-  "‘검찰개혁’맞붙은법사위…여야,날선신경전",
   "iM뱅크·SBI저축은행도공격…금감원8월부터금융권에경고",
   "SK하이닉스,반도체환경난제선제대응…AI환경연구소설립추진",
   "정용래유성구청장\"필수사업에예산집중…불필요한사업과감히정리...",
@@ -6001,7 +5998,10 @@
   "[최태원-노소영재산분할]SK㈜지분매도세금만2000억↑…재상고‘...",
   "AI투자대규모차입에…기술주휘청'오라클·스페이스X'부도위험급...",
   "[BK프리뷰]달라진KTvs114점기억하는소노,12일만의리턴매치",
-  "기술주'초강세론자',2027년앞서'톱5'선정"
+  "기술주'초강세론자',2027년앞서'톱5'선정",
+  "해킹에멈칫한망분리완화…금융권\"늦춰야\"vs\"서둘러야\"",
+  "'매출겨우이정도라니'...오픈AI쇼크에낙관론'와장창'",
+  "엔비디아는사는데삼전닉스는판다…외국인의'AI차별화'"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,17 @@
   [
    "2026-10-09T08:08:15.757586+09:00",
    "달라진 매치 ~KT 12일 소노 114점 리턴 기억하는 vs 만의"
+  ],
+  [
+   "2026-10-09T08:14:15.553190+09:00",
+   "쇼크에 정도라니 와장창 매출 낙관론 겨우"
+  ],
+  [
+   "2026-10-09T08:14:15.553190+09:00",
+   "판다 외국인의 엔비디아는 차별화 사는데 삼전닉스는"
   ]
  ],
- "last_run": "2026-10-09T08:12:34.660144+09:00",
+ "last_run": "2026-10-09T08:14:38.124347+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
