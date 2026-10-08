@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3715436",
-  "https://www.joongdo.co.kr/web/view.php?key=20261007010001837",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3715433",
-  "http://www.4th.kr/news/articleView.html?idxno=2119362",
-  "https://www.dt.co.kr/article/12087992",
   "https://www.dt.co.kr/article/12087993",
   "https://www.mhj21.com/news/articleView.html?idxno=254199",
   "https://www.kukinews.com/article/view/kuk202610070212",
@@ -2999,14 +2994,14 @@
   "http://www.inews24.com/view/2013049",
   "https://www.techm.kr/news/articleView.html?idxno=155935",
   "https://www.ajunews.com/view/20261008103848013",
-  "https://www.g-enews.com/view.php?ud=202610081033554790bb91c46fcd_1"
+  "https://www.g-enews.com/view.php?ud=202610081033554790bb91c46fcd_1",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88518",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448886",
+  "https://www.news2day.co.kr/article/20261008500118",
+  "https://www.inthenews.co.kr/news/article.html?no=92860",
+  "https://news.tf.co.kr/read/economy/2374193.htm"
  ],
  "seen_titles": [
-  "은행권해킹사태,법정공방으로?...피해자집단소송추진",
-  "방미통위,딜라이브에시정명령…3개월내부채비율감축안마련",
-  "홍종완부지사주재,충남도사회재난대비불시훈련—현장대응·피해지...",
-  "[기고]AI시대개인정보유출,'방어형AI'와생활속보안습관으로막...",
-  "강정훈iM뱅크은행장,창립59주년기념식개최...임직원아이디어공유",
   "한화,AI데이터센터전력난공략…발전·저장·소비통합관리",
   "SKT,AI로100년전‘말모이’정신잇는다",
   "SKT,아시안게임후원선수초청행사개최",
@@ -6001,7 +5996,12 @@
   "SK하이닉스,AI환경연구소설립…최태원\"반도체친환경전환앞장\"",
   "[국감26]'해킹비상'에주요은행장전원국감행…보안책임집중추궁",
   "5대은행장,금융권해킹사태로국감증인채택…19일정무위출석요...",
-  "국회5대은행장국감증인채택…AI해킹·정보유출사고질의"
+  "국회5대은행장국감증인채택…AI해킹·정보유출사고질의",
+  "SKT,아시안게임후원선수초청...메달리스트8명참석",
+  "LG전자,국제청소년로봇경진대회'2026퍼스트글로벌챌린지'후원",
+  "[2026국감]이억원금융위원장\"가계부채관리엄격관리…실수요자는...",
+  "내가쓴동화가AI로…KT,‘함께그린책AI친구놀이터’개최",
+  "[2026국감]이억원\"보안전제로망분리규제해제추진\"…AI해킹대응..."
  ],
  "recent_sigs": [
   [
@@ -6731,9 +6731,13 @@
   [
    "2026-10-08T10:46:18.022934+09:00",
    "집중 전원 은행장 책임 추궁 국감행 보안 주요 비상"
+  ],
+  [
+   "2026-10-08T10:48:16.476705+09:00",
+   "해제 대응 보안 이억원 규제 전제로 망분리"
   ]
  ],
- "last_run": "2026-10-08T10:46:36.266753+09:00",
+ "last_run": "2026-10-08T10:48:37.523427+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
