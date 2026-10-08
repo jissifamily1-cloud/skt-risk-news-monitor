@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261007000901",
-  "https://www.dailysecu.com/news/articleView.html?idxno=208773",
-  "https://www.etnews.com/20261007000383",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3036903",
-  "https://www.newsis.com/view/NISX20261007_0003817654",
-  "https://www.ajunews.com/view/20261007144637979",
-  "https://www.newspim.com/news/view/20261007000927",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202171",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=302224",
-  "https://www.koscaj.com/news/articleView.html?idxno=326867",
   "https://www.thepowernews.co.kr/view.php?ud=202610071537465687de3f0aa1be_7",
   "https://www.chosun.com/economy/tech_it/2026/10/07/UJAXC6QOGJDPJOSPAGWDZGJASM/",
   "https://www.businesspost.co.kr/BP?command=article_view&num=448817",
@@ -2999,19 +2989,19 @@
   "https://www.news1.kr/it-science/cc-newmedia/6313822",
   "https://www.smartbizn.com/news/articleView.html?idxno=155872",
   "https://www.datanet.co.kr/news/articleView.html?idxno=214966",
-  "https://www.newsis.com/view/NISX20261008_0003818345"
+  "https://www.newsis.com/view/NISX20261008_0003818345",
+  "https://www.mk.co.kr/article/12171141",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071753501170828",
+  "https://www.yna.co.kr/view/AKR20261008045200007?input=1195m",
+  "https://www.theguru.co.kr/news/article.html?no=108024",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=200095",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438149",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788364&plink=ORI&cooper=NAVER",
+  "https://www.sedaily.com/article/20099387",
+  "https://hbnpress.com/news/view/1065572298209074",
+  "https://www.news2day.co.kr/article/20261008500057"
  ],
  "seen_titles": [
-  "[건설Pick]중흥토건,검암복합개발협약外",
-  "미리만나보는제25회연산대추문화축제",
-  "[히든스테이지]결선오른오아·박희수·김은찬밴드…각기다른색깔로...",
-  "[금융권연쇄침해사고종합분석]\"코어뱅킹아닌주변시스템·인증·인...",
-  "한전KDN,공공전력망암호기술민간태양광으로확대",
-  "이대통령\"추격자관행벗어나녹색시장의설계자·선도자가돼야\"",
-  "최태원대한상의회장\"인공지능·녹색전환,함께추진하는'쌍둥이전...",
-  "금융권해킹,국감서대응자료요구…신한銀피해자손배소준비",
-  "[히든스테이지]신직선·채수빈·혼즈,자작곡열창…개성담은무대",
-  "[더밸류브리핑]오늘의운용사소식...미래에셋자산운용·한화자산운용...",
   "서학개미美주식보관액2000억달러재돌파…4개월만의반등",
   "국토부산하기관,AI공격파악도못해···보안망'구멍'",
   "청라에‘AI존·클라우드존’나눈다…KT클라우드,50MW데이터센터조...",
@@ -6001,7 +5991,17 @@
   "SKT,업스테이지·안랩등과'독자AI사이버보안협의체'출범",
   "최태원,EBS출연\"AI효과얻으려면사회비용낮추고난제풀어야\"",
   "SK쉴더스\"금융권해킹,AI가기존공격자동화·고도화\"",
-  "금감원\"AI해킹,IP차단만으론한계\"…금융권에탐지강화주문"
+  "금감원\"AI해킹,IP차단만으론한계\"…금융권에탐지강화주문",
+  "HyundaiEngineeringwinsIncheondatacentercontract",
+  "[부산ㆍ경남대학브리핑모음(10월8일)]인제대,비엔나서한국전통차...",
+  "'행복·웃자'모자에새겼던최원준,1년만에최다안타새역사",
+  "앤트로픽,비용최대90%↓·추론속도2.5배↑'클로드하이쿠5.5'공개",
+  "구글,'나노바나나2.1'공개…화질높이고생성비용은절반으로",
+  "[월가톡톡]'노숙자에내집써라'…美진보층사유재산포기",
+  "[정치쇼]나경원\"한미관계이보다더나쁠수없어…국방부장관?낭만...",
+  "SKT·업스테이지,사이버보안협의체출범...안랩등참여",
+  "SKT,국내보안기업·대학과AI사이버보안협력...공동실증추진",
+  "[2026국감]금융위국감,AI해킹·ETF·국책은행내부통제정조준"
  ],
  "recent_sigs": [
   [
@@ -6545,7 +6545,7 @@
    "차단만으론 금융권에 주문 강화 IP 탐지 한계 금감원"
   ]
  ],
- "last_run": "2026-10-08T09:22:42.517226+09:00",
+ "last_run": "2026-10-08T09:24:34.323255+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
