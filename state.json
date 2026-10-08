@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12087993",
-  "https://www.mhj21.com/news/articleView.html?idxno=254199",
-  "https://www.kukinews.com/article/view/kuk202610070212",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=665975",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069705",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3715431",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3715307",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103166",
-  "http://www.lawissue.co.kr/view.php?ud=202610071708123172204ead0791_12",
-  "http://www.popcornnews.net/news/articleView.html?idxno=135260",
-  "http://www.iminju.net/news/articleView.html?idxno=170528",
   "https://www.kyeonggi.com/article/20261007580513",
   "https://www.yna.co.kr/view/AKR20261007170100005?input=1195m",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=366835",
@@ -2999,20 +2988,20 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=448886",
   "https://www.news2day.co.kr/article/20261008500118",
   "https://www.inthenews.co.kr/news/article.html?no=92860",
-  "https://news.tf.co.kr/read/economy/2374193.htm"
+  "https://news.tf.co.kr/read/economy/2374193.htm",
+  "https://view.asiae.co.kr/article/2026100809513561027",
+  "https://www.ftimes.kr/news/articleView.html?idxno=40212",
+  "https://www.edaily.co.kr/News/Read?newsId=03083206645610952&mediaCodeNo=257",
+  "https://www.newsis.com/view/NISX20261008_0003818789",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=712886",
+  "https://www.newscj.com/news/articleView.html?idxno=3438761",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705677",
+  "http://www.sisacast.kr/news/articleView.html?idxno=100801",
+  "https://news.jtbc.co.kr/article/NB12321950?influxDiv=NAVER",
+  "https://news.tf.co.kr/read/economy/2374214.htm",
+  "https://www.nocutnews.co.kr/news/6588735"
  ],
  "seen_titles": [
-  "한화,AI데이터센터전력난공략…발전·저장·소비통합관리",
-  "SKT,AI로100년전‘말모이’정신잇는다",
-  "SKT,아시안게임후원선수초청행사개최",
-  "개인정보유출논란에티빙·KT·강남언니국감소환",
-  "엔비디아·AMD,韓서AI칩쟁탈전…K반도체,‘메모리공급자’넘어설...",
-  "[기획]해킹피해없지만…당국,GA보안점검확대",
-  "KT클라우드,'청라AIDC'구축참여…수도권AIDC공급기반확대",
-  "김해인제대,'글로벌물류특강'개최",
-  "조상호세종시장취임100일시민보고회...향후4년의성과로이어간...",
-  "한컴이노스트림,'HANCOMAXLAB'으로AI교육영역넓힌다…에이전트·로...",
-  "한컴이노스트림,AI·AX교육브랜드‘HANCOMAXLAB’선보여",
   "SKT,AI로되살린우리말'2026말모이'…LG유플러스,도서산간'찾아가...",
   "최태원\"AX·GX는국가쌍둥이전략…함께설계·추진해야\"",
   "KT,11월2일수원서한국시리즈출격…‘통합우승’마지막승부",
@@ -6001,7 +5990,18 @@
   "LG전자,국제청소년로봇경진대회'2026퍼스트글로벌챌린지'후원",
   "[2026국감]이억원금융위원장\"가계부채관리엄격관리…실수요자는...",
   "내가쓴동화가AI로…KT,‘함께그린책AI친구놀이터’개최",
-  "[2026국감]이억원\"보안전제로망분리규제해제추진\"…AI해킹대응..."
+  "[2026국감]이억원\"보안전제로망분리규제해제추진\"…AI해킹대응...",
+  "갤S26가격인상소식에서둘렀는데…10만원돌려주는휴대폰성지들",
+  "이범호감독의안타까움속결실,롯데전대승으로잡은가을야구유리...",
+  "합참,내년전자기전전담조직신설…핵잠,‘킬체인’전력명시",
+  "'리쥬란'유사상표소송승소…\"브랜드보호강화\"",
+  "'3900억분산투자'엔진켠LGCNS···'연말영업이익'이가른다",
+  "[2026국감]이억원\"어려운대외여건속리스크관리중요…서민금융공...",
+  "방미통위,딜라이브에시정명령…3개월내부채비율감축안마련",
+  "최태원SK회장,EBS'위대한수업'서AI시대자본주의제시",
+  "엔비디아도못한걸삼성전자가…3분기영업익'100조돌파'",
+  "[2026국감]5대은행장,금감원국감증인채택…해킹사고책임추궁...",
+  "'정규리그1위'kt,화려한피날레…KS출정식까지"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,17 @@
   [
    "2026-10-08T10:48:16.476705+09:00",
    "해제 대응 보안 이억원 규제 전제로 망분리"
+  ],
+  [
+   "2026-10-08T10:50:30.235086+09:00",
+   "돌려주는 가격 갤S26 성지들 서둘렀는데 휴대폰 소식에 인상 10만원"
+  ],
+  [
+   "2026-10-08T10:50:30.235086+09:00",
+   "화려한 피날레 리그 KS 출정식까지 정규 ~KT 1위"
   ]
  ],
- "last_run": "2026-10-08T10:48:37.523427+09:00",
+ "last_run": "2026-10-08T10:50:54.090935+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
