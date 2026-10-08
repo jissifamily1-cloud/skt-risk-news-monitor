@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610080733143573",
-  "https://news.mtn.co.kr/news-detail/2026100807381562131",
-  "https://byline.network/?p=9004111222622549",
-  "https://www.wikitree.co.kr/articles/1164691",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=279313",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6856502_37012.html",
   "http://www.kjdaily.com/article.php?aid=1791413240688537276",
@@ -2999,13 +2995,13 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554270",
   "https://www.sedaily.com/article/20099817",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6856654_37004.html",
-  "https://www.hankyung.com/article/202610081723i"
+  "https://www.hankyung.com/article/202610081723i",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5223857",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000554274",
+  "https://www.dailian.co.kr/news/view/1699680/?sc=Naver",
+  "https://news.jtbc.co.kr/article/NB12322047?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "KBO역대최다안타'신기록'등장,아직끝나지않은최다안타'전쟁'",
-  "[뮤즈돌풍]⑤결제목록쥔AI에이전트...핀테크줄서기경쟁나선다",
-  "조선일보\"'불법대북송금'이화영,왜대통령에화가났을까\"",
-  "[인터뷰]0G랩스“AI신뢰문제,블록체인으로해결”",
   "오픈AI300여개난제풀이에수학계긴장....대표난제인5개가운데3개...",
   "엘디티'Safemate',광주첨단산단무인시간대화재감지…관제센터119신...",
   "잘된게임한번더,플랫폼확장나선게임사들",
@@ -6001,7 +5997,11 @@
   "1분30초에12억원…삼성전자역대급실적",
   "최태원회장,‘호남반도체부지’광주군공항찾는다",
   "금융권해킹,보안사각지대노렸다‥AI로AI해킹막는보완책찾아야",
-  "엔비디아·애플도못한801억달러벌고주가내린삼전…월가분석은"
+  "엔비디아·애플도못한801억달러벌고주가내린삼전…월가분석은",
+  "'204안타'신기록쓴최원준,1개차레이예스와'최다안타'진검승부",
+  "은행해커정체는?…“26세중국인추정”",
+  "최태원SK그룹회장,광주반도체부지직접챙긴다…9일군공항첫방문",
+  "'1초에781회'해킹공격…이걸?싶은것도\"AI는무작위로\""
  ],
  "recent_sigs": [
   [
@@ -6731,9 +6731,13 @@
   [
    "2026-10-08T20:02:18.938236+09:00",
    "애플도 801억달러 못한 내린 월가 주가 삼전 분석은 벌고"
+  ],
+  [
+   "2026-10-08T20:04:16.932531+09:00",
+   "공격 AI는 이걸 781회 것도 싶은 1초에 무작위로"
   ]
  ],
- "last_run": "2026-10-08T20:02:37.712973+09:00",
+ "last_run": "2026-10-08T20:04:40.986252+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
