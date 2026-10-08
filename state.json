@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026100810330003917?did=NA",
-  "https://www.news2day.co.kr/article/20261008500137",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705865",
   "https://www.munhwa.com/article/11622162",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=318784",
@@ -2999,11 +2997,11 @@
   "http://www.iminju.net/news/articleView.html?idxno=170552",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680812",
   "https://www.segye.com/newsView/20261008519864?OutUrl=naver",
-  "https://www.etoday.co.kr/news/view/2633088"
+  "https://www.etoday.co.kr/news/view/2633088",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=613553",
+  "https://www.sedaily.com/article/20099879"
  ],
  "seen_titles": [
-  "\"애플·엔비디아도못했다\"...삼성,'메모리·AI'초호황에분기영업이...",
-  "금융권연쇄해킹에…5대은행장,국감증인대선다",
   "'연쇄해킹'5대은행장국감줄소환…\"보안투자소홀책임묻겠다\"",
   "5대시중은행장,해킹사고로국감증인채택…19일금감원국감출석요...",
   "스페이스X,엔비디아AI칩확보위해53조원빚낸다",
@@ -6001,7 +5999,9 @@
   "권익위,교육시스템해킹에자체감사…위탁사업실태조사",
   "개인정보보호위출범후6년간주민등록번호288만건유출",
   "[법조브리핑]법무부장관대행“이화영,가석방요건못채워”外",
-  "하나證“AI속도조절론은마케팅⋯피지컬AI확산땐통신장비수혜”"
+  "하나證“AI속도조절론은마케팅⋯피지컬AI확산땐통신장비수혜”",
+  "\"AI칩사려고55조빚낸다?\"…400억달러차입설에스페이스X신용위험...",
+  "오픈AI매출부진에반도체주급락...美대이란공격가능성에유가4%..."
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,13 @@
   [
    "2026-10-09T06:04:18.063802+09:00",
    "채워 법무부 이화영 요건 가석방 장관대행"
+  ],
+  [
+   "2026-10-09T06:08:18.816432+09:00",
+   "공격 대이란 가능성에 유가 반도체주 급락 매출 부진에"
   ]
  ],
- "last_run": "2026-10-09T06:06:37.816894+09:00",
+ "last_run": "2026-10-09T06:08:37.274638+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
