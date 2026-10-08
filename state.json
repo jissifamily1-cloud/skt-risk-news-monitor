@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=210321",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=210318",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3715319",
-  "https://www.joongangenews.com/news/articleView.html?idxno=553311",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=210315",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=210293",
   "http://www.econonews.co.kr/news/articleView.html?idxno=445405",
   "https://www.joongang.co.kr/article/25467878",
@@ -2999,14 +2994,14 @@
   "https://www.gokorea.kr/news/articleView.html?idxno=880785",
   "https://www.etoday.co.kr/news/view/2633758",
   "https://www.seoulfn.com/news/articleView.html?idxno=639629",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407922"
+  "https://www.epnc.co.kr/news/articleView.html?idxno=407922",
+  "http://www.dispatch.co.kr/2348975",
+  "https://www.joongang.co.kr/article/25468094",
+  "http://www.iminju.net/news/articleView.html?idxno=170537",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000020891&cp=nv",
+  "https://www.newsis.com/view/NISX20261008_0003818524"
  ],
  "seen_titles": [
-  "'빗장풀려다해킹폭탄'…금융망분리완화왜멈춰섰나",
-  "[긴급진단]금융권겨눈해킹IP28개…시중은행피해뒤인터넷은행접...",
-  "교촌치킨,야구장서고객만났다…KIA전'브랜드데이'",
-  "현대엔지니어링,8700억규모인천데이터센터수주…군산이어연속성...",
-  "국립창원대-창원성주사,'템플스테이힐링프로그램'업무협약",
   "[종합]리사수AMD회장,삼성전자·SK하이닉스수장연쇄회동…HBM4동...",
   "SKT후원선수들아시안게임서메달20개…펜싱엔'AI분석'지원",
   "\"'윤슬·숫눈·볼우물'아시나요\"…SKT,AI로100년전'말모이'되살렸다",
@@ -6001,7 +5996,12 @@
   "KT,한글날서울광장서어린이참여형'AI친구놀이터'개최",
   "챗GPT,질문따라답변화면도바뀐다…오픈AI‘인텔리전트UI’도입",
   "오픈AI·앤트로픽'AI2차대전'···성능넘어'속도·가격'전쟁",
-  "\"물가오르는데2%인상?\"…KT새노조,무성의협상안에공분"
+  "\"물가오르는데2%인상?\"…KT새노조,무성의협상안에공분",
+  "\"뮤직비디오등장한페이커?\"…韓래퍼,AI무단이용사과",
+  "홍콩서버로韓금융권턴해커…“중국광둥성26세추정,딥시크까지...",
+  "금융권해킹범,20대중국인추정…AI에\"한국유출정보어디서파나\"문...",
+  "소아과만들고유기견에새보금자리…고향사랑기부400억원모은위기...",
+  "금융권해킹흔적'아르텍스',여러AI분업하는구조로진화"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-10-08T09:42:52.104151+09:00",
    "물가 협상안에 인상 공분 오르는데 ~KT 무성의 KT새노조"
+  ],
+  [
+   "2026-10-08T09:44:16.464089+09:00",
+   "소아과 유기견에 고향사랑기부 400억원 위기 보금자리 만들고 모은"
+  ],
+  [
+   "2026-10-08T09:44:16.464089+09:00",
+   "구조로 진화 흔적 금융권 여러 분업하는 아르텍스"
   ]
  ],
- "last_run": "2026-10-08T09:43:15.915443+09:00",
+ "last_run": "2026-10-08T09:44:44.090993+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
