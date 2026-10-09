@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.press9.kr/news/articleView.html?idxno=83910",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261008151226Wwi",
-  "https://www.tokenpost.kr/news/ai/419574",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680951",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88540",
   "http://www.inews24.com/view/2013201",
@@ -2999,12 +2996,12 @@
   "https://www.kbmaeil.com/article/20261009500111",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871222",
   "https://www.newsway.co.kr/news/view?ud=2026100915564612067",
-  "https://www.chosun.com/economy/tech_it/2026/10/09/L7RG2HB7JBF3PITWGPLYCW3E3Y/"
+  "https://www.chosun.com/economy/tech_it/2026/10/09/L7RG2HB7JBF3PITWGPLYCW3E3Y/",
+  "https://www.sedaily.com/article/20099906",
+  "https://www.newsis.com/view/NISX20261009_0003820200",
+  "https://www.nongmin.com/article/20261007500347"
  ],
  "seen_titles": [
-  "엔비디아,MS와RTX스파크·AI에이전트를위한하드웨어·소프트웨어...",
-  "삼성전자,한국기업첫분기영업이익100조돌파…3분기107조4000억원",
-  "[2026국정감사]금융권긴급보안점검'허점'…3개월만살펴도'이상없...",
   "KB국민·신한등5대은행장,19일금감원국감출석",
   "[국감2026]\"은행'보안감사기간'통일필요…금융회사사고발견에최...",
   "SK브로드밴드,Btv+가입자에한국시리즈직관티켓최대60매쏜다",
@@ -6001,7 +5998,10 @@
   "호남엔반도체팹건설속도…구미의허탈한물음표",
   "[이슈국감]개보위출범6년의민낯…주민번호288만건유출",
   "최태원\"전력·용수늦어도먼저착공\"…호남반도체투자속도낸다",
-  "수학계,오픈AI난제풀이에의문…원고3편은오류로철회"
+  "수학계,오픈AI난제풀이에의문…원고3편은오류로철회",
+  "사건못넘기고누가맡을지도몰라…출범부터꼬인새수사체계",
+  "'호남반도체'부지둘러본최태원SK회장\"빠르게착공\"(종합)",
+  "간통죄폐지됐는데상간자위자료는그대로…이혼시‘위자료’산정..."
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-10-09T16:00:40.450227+09:00",
    "의문 원고 철회 3편은 난제 수학계 풀이에 오류로"
+  ],
+  [
+   "2026-10-09T16:02:16.585271+09:00",
+   "산정 간통죄 그대로 위자료는 위자료 상간자 이혼 폐지됐는데"
   ]
  ],
- "last_run": "2026-10-09T16:01:03.479031+09:00",
+ "last_run": "2026-10-09T16:02:35.473511+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
