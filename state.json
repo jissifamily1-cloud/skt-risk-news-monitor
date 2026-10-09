@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261008099151002?input=1195m",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448945",
-  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6942",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493843",
-  "https://kookbang.dema.mil.kr/newsWeb/20261012/2/ATCE_CTGR_0050010000/view.do",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727201",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871241",
   "https://www.newspim.com/news/view/20261008001081",
   "https://biz.chosun.com/it-science/ict/2026/10/08/6ZBZS7QZ6FFTTOEESYLDZ45OGQ/",
@@ -2999,15 +2993,15 @@
   "https://www.starnewskorea.com/sports/2026/10/09/2026100912274779921",
   "https://www.aitimes.com/news/articleView.html?idxno=216101",
   "http://www.rookie.co.kr/news/articleView.html?idxno=128092",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=265532"
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=265532",
+  "https://www.bloter.net/news/articleView.html?idxno=675377",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=507895",
+  "https://news.jtbc.co.kr/article/NB12322245?influxDiv=NAVER",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=394911",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=394906",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=394908"
  ],
  "seen_titles": [
-  "美벤처투자'5158억달러'역대최대…IPO부진에유동성경색",
-  "한국투자증권,AI로매매전략짠다…'한투배틀'개최",
-  "\"GPU와경쟁아닌공존\"…딥엑스,'피지컬AI'K-NPU로글로벌정조준",
-  "TSMC3분기매출51%급증…AI인프라수요지속입증",
-  "실적발표앞둔美S&P500기업들…\"3분기이익,27%증가할듯\"",
-  "정보공개포털44분간접속장애…행안부“원인파악중”",
   "SKT,업스테이지·보안기업과'AI사이버보안'협의체출범",
   "해킹막는국산AI키운다…SKT·업스테이지,실전보안역량검증",
   "SKT-업스테이지,보안기업6곳과'AI보안동맹'…독자모델상용화속...",
@@ -6001,17 +5995,15 @@
   "'KT화력폭발'문경은감독\"국내선수진득점력만족...수비도훌륭했...",
   "\"오픈소스취약점AI가잡는다\"...앤트로픽,무료보안검사도구공개",
   "문경은감독의전술적중한KT,소노상대로연승질주...\"배스득점력...",
-  "[A주간서머리]경제·산업계\"금융권,AI해킹사태일파만파...삼성전..."
+  "[A주간서머리]경제·산업계\"금융권,AI해킹사태일파만파...삼성전...",
+  "최태원SK회장\"광주공장최대한빨리짓겠다\"…용인과병행검토",
+  "최태원SK그룹회장,전남광주군공항찾아반도체공장조기착공추진",
+  "호남반도체부지간최태원\"전력·용수늦어도먼저짓겠다\"",
+  "트럼프,머스크·젠슨황등美기술거물에국가훈장…AI연구에60억달...",
+  "앤스로픽,전력망·수도등핵심인프라보호위한'사이버미션'출범",
+  "트럼프,머스크에국가과학훈장수여…\"현대판토머스에디슨\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-09T11:02:15.985350+09:00",
-   "미래 넘어 친환경까지 반도체 성장 우주 SK하이닉스"
-  ],
-  [
-   "2026-10-09T11:02:15.985350+09:00",
-   "소통 이유로 주장 해고됐다 직원 METR"
-  ],
   [
    "2026-10-09T11:12:15.825233+09:00",
    "실망했지만 열기 논란에 뜨거울 IPO 거품 매출 전문가"
@@ -6343,9 +6335,13 @@
   [
    "2026-10-09T17:01:14.501623+09:00",
    "사태 일파만파 산업계 경제 금융권 삼성전"
+  ],
+  [
+   "2026-10-09T17:02:16.206265+09:00",
+   "현대판 트럼프 수여 국가과학훈장 에디슨 머스크에 토머스"
   ]
  ],
- "last_run": "2026-10-09T17:01:38.303957+09:00",
+ "last_run": "2026-10-09T17:02:41.815710+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
