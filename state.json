@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12171706",
-  "https://www.hani.co.kr/arti/economy/finance/1281526.html",
-  "https://www.bbc.com/korean/articles/cm1dw3nzgzqwo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
   "https://www.gukjenews.com/news/articleView.html?idxno=3716636",
   "https://www.aitimes.com/news/articleView.html?idxno=216087",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=311854",
@@ -2999,12 +2996,12 @@
   "https://www.newspim.com/news/view/20261008001234",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364422",
   "https://www.hankyung.com/article/202610093047i",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682025"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682025",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706184",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=434278",
+  "https://www.dizzotv.com/site/data/html_dir/2026/10/09/2026100980054.html"
  ],
  "seen_titles": [
-  "[철강업계9월동향]현대제철,글로벌생산시설확대·규범준수경영인...",
-  "이억원\"해킹대응,기본미흡…주담대위험가중치상향검토\"",
-  "[신아일보tv]금융권공격한AI해킹도구의정체",
   "쿠팡,'개인정보유출'6000억대과징금불복소송…집행정지신청도",
   "10년만의PGA출전이상희,전반은흔들렸으나후반은달랐다",
   "보험업계로번지는'해킹'공포...\"해킹시도훨씬많았다\"",
@@ -6001,7 +5998,10 @@
   "쿠팡,'6200억대개보위과징금'행정소송제기",
   "호남권반도체부지찾은최태원회장용인3분의2크기로…최대한빠...",
   "블룸버그,\"오픈AI연말엔연환산매출700억달러전망\"",
-  "국내보안기업“금융권해킹용의계정,중국계해킹조직연관정황”"
+  "국내보안기업“금융권해킹용의계정,중국계해킹조직연관정황”",
+  "리누스토발즈\"AI는프로그래밍의입문도구…중요한작업엔신중해야...",
+  "SK최태원,광주반도체클러스터현장첫방문…\"수요폭증대응위해...",
+  "최태원SK회장“호남권반도체클러스터속도전”"
  ],
  "recent_sigs": [
   [
@@ -6325,7 +6325,7 @@
    "금융권 계정 정황 보안기업 국내 용의 연관 중국계"
   ]
  ],
- "last_run": "2026-10-09T20:40:47.264555+09:00",
+ "last_run": "2026-10-09T20:42:32.209758+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
