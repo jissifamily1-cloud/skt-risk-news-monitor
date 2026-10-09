@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsway.co.kr/news/view?ud=2026100814504227173",
-  "https://www.mediapen.com/news/view/1128786",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202210",
-  "https://www.mediapen.com/news/view/1128788",
-  "https://www.newsway.co.kr/news/view?ud=2026100815022027416",
   "https://dhnews.co.kr/news/view/1065592793761634",
   "https://www.news1.kr/it-science/security-hacking/6314504",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438371",
@@ -2999,14 +2994,14 @@
   "https://www.edaily.co.kr/News/Read?newsId=02430486645611280&mediaCodeNo=257",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005935458",
   "http://www.newsian.co.kr/news/articleView.html?idxno=96795",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790521&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790521&plink=ORI&cooper=NAVER",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3717262",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261009154200dWt",
+  "https://www.ikbc.co.kr/article/view/kbc202610090037",
+  "https://www.joongang.co.kr/article/25468447",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261009154141YwL"
  ],
  "seen_titles": [
-  "지역대학생직접찾아간다…SKT‘찾아가는캠퍼스’,충청지역청년...",
-  "EBS에최태원등판...12일'위대한수업'시즌6첫강연",
-  "넥슨'FC온라인',글로벌대회'FC프로챔피언스컵2026'한국대표팀...",
-  "넥슨'FC프로챔피언스컵2026'한국4팀출전",
-  "[포토]아시안게임참가선수들과단체사진찍는추경호대구광역시장",
   "한국공학대,지역산업AX·DX전환지원…앵커위원회역할확대",
   "[단독]‘금융권연쇄공격’해커지목자“나는무관…내정보도용...",
   "한전KDN,태양광발전원격감시·관제시스템에KCMVP암호모듈공급",
@@ -6001,7 +5996,12 @@
   "[포토]김재희,첫홀퍼트준비",
   "최태원\"호남반도체가장빠른속도로짓겠다…규모는용인의3분의2\"",
   "최태원,호남반도체클러스터속도전…\"건설비아끼지않겠다\"",
-  "[바로이뉴스]\"백마디말보다눈으로봐야\"…\"용인의3분의2사이즈계..."
+  "[바로이뉴스]\"백마디말보다눈으로봐야\"…\"용인의3분의2사이즈계...",
+  "박동식사천시장,국회과방위원만나우주항공복합도시조성초당적협...",
+  "[현장연결]최태원SK회장,호남권반도체부지첫방문",
+  "[속보]최태원\"광주반도체공장가장빨리짓겠다\"",
+  "예상보다27조원적은오픈AI연매출…낙관론제동에AI주하락",
+  "경찰,'금융기관해킹'수사팀43명으로확대…전문인력확충"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,13 @@
   [
    "2026-10-09T15:42:20.011162+09:00",
    "3분의 봐야 마디 사이즈 눈으로 용인의 말보다"
+  ],
+  [
+   "2026-10-09T15:44:20.344663+09:00",
+   "낙관론 예상보다 제동에 27조원 연매출 AI주 하락 적은"
   ]
  ],
- "last_run": "2026-10-09T15:42:41.924239+09:00",
+ "last_run": "2026-10-09T15:44:39.375880+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
