@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=753082",
-  "https://www.hankookilbo.com/news/article/A2026100810420000937?did=NA",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3716130",
-  "https://www.newstnt.com/news/articleView.html?idxno=722024",
-  "https://www.newsis.com/view/NISX20261008_0003818961",
-  "https://www.thepowernews.co.kr/view.php?ud=202610081100029536de3f0aa1be_7",
-  "https://www.korea.kr/briefing/actuallyView.do?newsId=148973169&call_from=naver_news",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=765504",
   "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=156479",
   "https://www.newsen.com/news_view.php?uid=202610081136530410",
   "https://www.mk.co.kr/article/12171367",
@@ -2999,17 +2991,17 @@
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20261009.99099002524",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=728972",
   "https://daily.hankooki.com/news/articleView.html?idxno=1413242",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259504"
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259504",
+  "https://www.yna.co.kr/view/AKR20261008179100003?input=1195m",
+  "https://view.asiae.co.kr/article/2026100808435070227",
+  "https://www.news1.kr/finance/general-finance/6314844",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080040&t=NNv",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=171985",
+  "https://economist.co.kr/article/view/ecn202610080027",
+  "https://www.sedaily.com/article/20099790",
+  "https://www.newsis.com/view/NISX20261008_0003819947"
  ],
  "seen_titles": [
-  "개인정보유출잇따르는데…시민사회\"건강정보까지민간에넘길셈인가...",
-  "대형은행보안인력92명vs저축은행6명…\"공동AI방어체계필요\"",
-  "젠슨황·사티아나델라'윈도우에이전틱PC'시대선언…RTX스파크노...",
-  "\"우리도삼성전처럼\"…마이크론대만노조,영업이익15%성과급요구",
-  "대전중구,'2026년중구문해어울림한마당'개최…배움의성과공유",
-  "김종민의원,반도체와맞먹는거브테크산업중소벤처기업부의사업화...",
-  "챗GPT무료이용자도GPT-6쓴다…질문에맞춤화면까지제공",
-  "LG전자,3분기영업익기대치하회…하나증권\"AI냉각시스템이다음성...",
   "[사실은이렇습니다][보도설명자료]「공소·중수·경찰청장은국무회...",
   "SK브로드밴드,KBO한국시리즈직관티켓제공이벤트진행",
   "넥써쓰,과천으로이전...원스토어자회사편입이어사옥합쳐",
@@ -6001,7 +5993,15 @@
   "[속보]트럼프노벨평화상욕심줄였다지만…노르웨이는시상중단론까...",
   "[위클리뱅크이슈]초유의금융권해킹사고…전말과남겨진과제",
   "금융권,해킹에보안인력·예산확대…고숙련인재확보전",
-  "[AI해킹]㊦3개월만봐도'이상없음'?···망분리넘어금융보안판..."
+  "[AI해킹]㊦3개월만봐도'이상없음'?···망분리넘어금융보안판...",
+  "[시승기]강인하지만부드럽다…현대차'디올뉴투싼'",
+  "[타보니]공간·정숙성·안전다잡았다…패밀리SUV로돌아온'올뉴투...",
+  "'내정보다아는'대출사기꾼…7만건유출,2차피해막으려면?",
+  "아빠차입문용은옛말…'대담해진'신형투싼타보니[호모모투스]",
+  "AI가대신쇼핑·예약·결제...美기업들,공통규칙만든다",
+  "“AI탓만할수있나”…은행보안관리에경영진책임도마위",
+  "금융권해킹‘ARTEX’,여러AI지휘하는플랫폼으로진화",
+  "[단독]국가재정망해킹시도650건…대미전략투자공사출범1개월만에..."
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,17 @@
   [
    "2026-10-09T09:01:19.768419+09:00",
    "봐도 3개월만 넘어 이상 없음 금융보안 망분리"
+  ],
+  [
+   "2026-10-09T09:02:18.777742+09:00",
+   "플랫폼으로 진화 지휘하는 여러 ARTEX 금융권"
+  ],
+  [
+   "2026-10-09T09:02:18.777742+09:00",
+   "650건 출범 1개월 국가재정망 만에 대미전략투자공사 시도"
   ]
  ],
- "last_run": "2026-10-09T09:01:39.980748+09:00",
+ "last_run": "2026-10-09T09:02:41.322299+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
