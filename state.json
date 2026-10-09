@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/internet-platform/6314453",
-  "https://www.mk.co.kr/article/12171477",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004061",
-  "https://www.koit.co.kr/news/articleView.html?idxno=209410",
-  "https://view.asiae.co.kr/article/2026100814405539083",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7188075",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3716376",
-  "http://www.metroseoul.co.kr/article/20261008500140",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8680946",
   "https://www.hankyung.com/article/202610081114i",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/08/2026100890123.html",
   "https://it.donga.com/109665/",
@@ -2999,16 +2990,18 @@
   "https://www.newsis.com/view/NISI20261009_0021482638",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/09/2026100990129.html",
   "https://www.ytn.co.kr/_ln/0115_202610091503213387",
-  "https://www.newsis.com/view/NISI20261009_0021482648"
+  "https://www.newsis.com/view/NISI20261009_0021482648",
+  "https://www.asiatime.co.kr/article/20261008500235",
+  "https://www.ytn.co.kr/_ln/0102_202610091508398379",
+  "https://biz.sbs.co.kr/article_hub/20000339126?division=NAVER",
+  "https://www.newsis.com/view/NISI20261009_0021482658",
+  "https://www.newsis.com/view/NISI20261009_0021482659",
+  "https://www.newsis.com/view/NISI20261009_0021482661",
+  "https://www.dt.co.kr/article/12088191",
+  "https://www.ytn.co.kr/_ln/0103_202610091510100347",
+  "https://www.newsis.com/view/NISI20261009_0021482618"
  ],
  "seen_titles": [
-  "금융권해킹이노린'옆문',SK쉴더스의대처안은?",
-  "AI도구,금융권해킹에전세계서버수백대운영",
-  "해킹시도하면'펑'…아주대,그래핀활용'복제무력화'보안소재개발",
-  "대동모빌리티,대구서'태양광으로달리는'공유스쿠터실증…312억원...",
-  "\"AI침투도구,전세계수백대가동\"…국내금융보안망뚫렸다",
-  "\"AI로질병예방\"...미정부·구글,저커버그의바이오허브에합류",
-  "\"파일정리부터코딩까지알아서\"…MS,윈도우11에AI일꾼심는다",
   "정부보안AI사업탈락했지만…SKT,11개기관과‘원팀’유지",
   "SK하이닉스,AI로전력·용수관리…반도체친환경공정연구확대",
   "파이오링크,AI해킹대응'선제방어'강화",
@@ -6001,17 +5994,16 @@
   "호남반도체팹예정지방문최태원SK회장·민형배전남광주시장",
   "호남권반도체산단부지찾은최태원SK회장",
   "최태원,광주반도체산단부지첫방문…투자계획밝힌다",
-  "최태원\"건설할수있으면가장빠른속도로할것\"[현장영상+]"
+  "최태원\"건설할수있으면가장빠른속도로할것\"[현장영상+]",
+  "'ARPU하락·성장정체'…AI인프라·혁신이통신사'생존'전략",
+  "\"중국광둥성26세추정\"...해외발공격18건중16건공격자불명",
+  "[속보]최태원\"반도체수요빨리늘어…용수·전력늦어도팹착공부터...",
+  "호남반도체팹부지방문최태원SK회장·민형배전남광주시장",
+  "최태원회장“반도체수요계속빠르게늘것…호남반도체는용인의...",
+  "경찰,'금융권해킹'수사팀규모확대...전문인력확충",
+  "대화하는최태원SK회장·민형배전남광주특별시장"
  ],
  "recent_sigs": [
-  [
-   "2026-10-09T09:12:16.599875+09:00",
-   "질문 분석해 GPT 이용자까지 무료 화면 구성하는 확대"
-  ],
-  [
-   "2026-10-09T09:12:16.599875+09:00",
-   "시험대 AI로 진화한 사이버수사 오른 경찰"
-  ],
   [
    "2026-10-09T09:16:15.387955+09:00",
    "이전부지 숙원 밀린 마륵동 점검지 탄약고 20년"
@@ -6283,9 +6275,13 @@
   [
    "2026-10-09T15:12:15.408541+09:00",
    "밝히는 SK회장 반도체팹 예정지 호남 입장"
+  ],
+  [
+   "2026-10-09T15:14:14.977947+09:00",
+   "대화하는 전남광주특별시장 민형배 최태원SK회장"
   ]
  ],
- "last_run": "2026-10-09T15:12:34.890012+09:00",
+ "last_run": "2026-10-09T15:14:39.784842+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
