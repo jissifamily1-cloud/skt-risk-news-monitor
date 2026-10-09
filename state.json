@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3716115",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3716200",
-  "https://www.news1.kr/it-science/general-it/6314299",
-  "https://www.etnews.com/20261008000197",
-  "https://platum.kr/archives/295915",
-  "https://www.public25.com/news/articleView.html?idxno=56128",
   "https://www.bloter.net/news/articleView.html?idxno=675276",
   "https://www.etnews.com/20261008000195",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=507656",
@@ -2999,15 +2993,15 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=321587",
   "https://www.khan.co.kr/article/202610091007001",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790290&plink=ORI&cooper=NAVER",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321585"
+  "https://www.thepublic.kr/news/articleView.html?idxno=321585",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209407",
+  "https://www.joongang.co.kr/article/25466789",
+  "https://www.sciencetimes.co.kr/news/sn/262469",
+  "https://www.mediapen.com/news/view/1128958",
+  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1781401",
+  "https://www.edaily.co.kr/News/Read?newsId=01804006645611280&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "누리호5차성공'700여명'의땀과헌신\"연구실·제조·발사대로이어진...",
-  "박정현의원\"금감원출신로펌행43건전원통과…전관심사기준점검...",
-  "대전교육청,위기학생지원에행정·특수교육협력강화",
-  "장철민의원,청년창업사관학교존속촉구…중기부\"동문네트워크지키...",
-  "앤트로픽,소형AI모델'클로드하이쿠5.5'출시…반복업무비용낮춘...",
-  "“미디어기본사회세이프가드되겠다”…케이블TV,AI·지역성강화제...",
   "디지털헬스케어해외진출다루는'DHP2026',오픈AI·삼성전자기조연...",
   "[2026국감]국회정무위,해킹사고관련5대은행장국감증인채택",
   "KB국민433억·신한은행70%집행에도…해킹방어력'기대이하'",
@@ -6001,7 +5995,13 @@
   "SKT-업스테이지,안랩등11곳과'맞손'…'독자AI보안협의체'출범",
   "금융권외국발해킹18건중16건,누가했는지모른다",
   "[정치쇼]이해민\"누리호,재사용가능발사체구축할것…AI해킹?AI로...",
-  "AI로재탄생한아이들창작물…KT,9일서울광장서'AI친구놀이터'운..."
+  "AI로재탄생한아이들창작물…KT,9일서울광장서'AI친구놀이터'운...",
+  "방발기금징수율8년째1.5%…업계\"경영악화반영해야\"",
+  "내편엔관대,네편은검열…진영의무기된표현의자유",
+  "‘육아+러닝’유아차런이대세…몸에는괜찮을까",
+  "해외발금융권해킹,3년간18건...16건공격주체파악못해",
+  "한국의혹한을널리알리는갓쓴워프레임‘나린’",
+  "국가재정망해킹600건돌파…이재명정부나라곳간경고등"
  ],
  "recent_sigs": [
   [
@@ -6423,9 +6423,17 @@
   [
    "2026-10-09T10:04:16.152730+09:00",
    "배후는 정부 오리무중 늘지만 공격 비상 금융권"
+  ],
+  [
+   "2026-10-09T10:12:15.826242+09:00",
+   "알리는 널리 혹한을 나린 한국의 워프레임"
+  ],
+  [
+   "2026-10-09T10:12:15.826242+09:00",
+   "이재명정부 나라곳간 경고등 600건 돌파 국가재정망"
   ]
  ],
- "last_run": "2026-10-09T10:10:49.535722+09:00",
+ "last_run": "2026-10-09T10:12:42.460379+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
