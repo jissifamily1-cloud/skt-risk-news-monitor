@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704506",
-  "https://zdnet.co.kr/view/?no=20261001095814",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704237",
-  "https://byline.network/?p=9004111222622692",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800169.html",
   "https://dealsite.co.kr/articles/170286",
   "https://www.naeil.com/news/read/604531",
   "https://zdnet.co.kr/view/?no=20261001085516",
@@ -2999,14 +2994,14 @@
   "https://www.the-today.com/news/articleView.html?idxno=91442",
   "https://www.the-today.com/news/articleView.html?idxno=91443",
   "https://www.hankookilbo.com/news/article/A2026100910050001890?did=NA",
-  "https://www.ytn.co.kr/_ln/0115_202610091014281625"
+  "https://www.ytn.co.kr/_ln/0115_202610091014281625",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=507656",
+  "https://www.jibs.co.kr/news/articles/articlesDetail/66330?feed=na",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5223902",
+  "https://biz.heraldcorp.com/article/10897700",
+  "https://www.boannews.com/news/articleView.html?idxno=146282"
  ],
  "seen_titles": [
-  "\"우회로대신최단경로뚫는다\"…국립부경대,AI페스타서자율주행로...",
-  "타불라,오픈웹행동데이터연결하는'리얼라이즈ID'출시",
-  "소프트뱅크,오픈AI에100억달러추가출자…지분13%",
-  "오픈AI'디시전스API',AI에이전트안전장치로주목",
-  "AI기기줄줄이실패했는데…메타·오픈AI가택한'반대전략'",
   "오픈AI,챗GPT전반에GPT-6확대",
   "은행이어PG·온투업까지뚫렸다…핀테크업계해킹확산에공동대응",
   "독파모는계속,프런티어AI도추진…관건은기업참여유인",
@@ -6001,7 +5996,12 @@
   "英·이스라엘외교갈등격화…예루살렘영사관운영중단,외교관20명...",
   "中·라오스전력망연결효과본격화…청정에너지송전10억㎾h돌파",
   "삼성전자분기영업익100조원이어...SK하이닉스,영업이익률80%달성...",
-  "최태원SK회장,오늘'반도체부지'광주군공항첫방문"
+  "최태원SK회장,오늘'반도체부지'광주군공항첫방문",
+  "전남광주통합특별시의회,'석유화학·철강체질개선'...주력산업혁신...",
+  "“보안100점”신한은행서정보유출…은행장성과급4억원까지도마",
+  "쿠팡2시간접속오류…\"서비스업그레이드서발생\"",
+  "삼성‘100조’역사쓴날…오픈AI매출대폭축소‘쇼크’[투자360]",
+  "[카드뉴스]스크립트해킹끝났다…AIAPI로실시간방어망우회하는자..."
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,17 @@
   [
    "2026-10-09T10:12:15.826242+09:00",
    "이재명정부 나라곳간 경고등 600건 돌파 국가재정망"
+  ],
+  [
+   "2026-10-09T10:20:22.464360+09:00",
+   "역사 축소 100조 매출 쇼크 대폭 삼성"
+  ],
+  [
+   "2026-10-09T10:20:22.464360+09:00",
+   "끝났다 방어망 API로 실시간 우회하는 스크립트"
   ]
  ],
- "last_run": "2026-10-09T10:18:31.888480+09:00",
+ "last_run": "2026-10-09T10:20:49.445708+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
