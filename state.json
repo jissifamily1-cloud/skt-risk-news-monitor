@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610081319089637",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=855963",
-  "https://www.dailian.co.kr/news/view/1699421/?sc=Naver",
-  "https://news.unn.net/news/articleView.html?idxno=598440",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1413190",
-  "https://biz.heraldcorp.com/article/10896979",
-  "https://wemakenews.co.kr/news/view.php?no=26481",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/08/2026100800199.html",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871080",
   "https://www.dailysecu.com/news/articleView.html?idxno=208795",
@@ -2999,16 +2992,16 @@
   "https://www.sedaily.com/article/20099891",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000021259&cp=nv",
   "https://www.chosun.com/economy/stock-finance/2026/10/09/4MACZXPYVNF3HPQM3STZMWKCVA/",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=666069"
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=666069",
+  "https://www.sedaily.com/article/20099897",
+  "https://www.sedaily.com/article/20099896",
+  "https://www.sedaily.com/article/20099898",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3149758",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=32053",
+  "https://www.seoul.co.kr/news/economy/finance/2026/10/09/20261009500072?wlog_tag3=naver",
+  "https://www.seoul.co.kr/news/society/2026/10/09/20261009500073?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "[직설]삼성전자3분기실적발표,시장기대치충족했나?",
-  "금융위원장,레버리지ETF도입사과…AI보안강화시사[국감2026]",
-  "안철수\"최태원,주주통수칠생각말라…솔리다임IPO,합니까맙니까...",
-  "[2026국감]이억원,금융권AI해킹에\"기본대응도미흡\"…감독강화...",
-  "[현장]\"2017년에멈춘징수율\"...벼랑끝케이블TV,결국법정으로",
-  "\"교육끝나자바로기업면접\"한국취업센터,대·중소기업상생일자리...",
-  "분기이익100조시대연삼성전자…연간370조원'가시권'",
   "법사위충돌…“쇼츠후원금구걸”vs“6인분혼자드셔”",
   "[단독]신한은행,중학생에‘말랑이’로앱가입유도의혹",
   "7곳털리고서야\"기본도미흡\"…이억원,금융보안'관리공백'인정",
@@ -6001,7 +5994,14 @@
   "크래프톤,서울대와AI연구…“인턴십·채용문넓힌다”",
   "오픈AI연매출예상보다27조원적었다…AI낙관론에‘찬물’",
   "금융권해외발해킹90%는공격자못밝혀...IP추적한계",
-  "AI로빨라진해킹…방어속도가관건"
+  "AI로빨라진해킹…방어속도가관건",
+  "삼성전자3분기영업익100조돌파…주주환원‘110조’시대",
+  "AI기업들빚내서칩산다…스페이스X·브로드컴대규모자금조달",
+  "삼성전자영업익107조인데코스피2.62%하락…왜?",
+  "챗GPT·제미나이가꼽은차...질문조건따라1위도천차만별",
+  "AI가고른자동차강자는'쏘렌토·아이오닉5·BMW'",
+  "금융권해외발해킹,18건중16건공격자누군지도몰라",
+  "해킹에진료멈출수도…대형병원43%사이버공격감시체계없다"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-10-09T11:38:16.801011+09:00",
    "관건 AI로 방어 속도가 빨라진"
+  ],
+  [
+   "2026-10-09T11:40:24.589064+09:00",
+   "해킹에 사이버 감시체계 공격 대형병원 수도 멈출 진료 없다"
   ]
  ],
- "last_run": "2026-10-09T11:38:35.680137+09:00",
+ "last_run": "2026-10-09T11:40:48.403987+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
