@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.munhwa.com/article/11622254",
-  "https://kr.aving.net/news/articleView.html?idxno=1815203",
-  "https://www.munhwa.com/article/11622253",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788896&plink=ORI&cooper=NAVER",
-  "https://www.techm.kr/news/articleView.html?idxno=155945",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1333745",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008788897&plink=ORI&cooper=NAVER",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90190",
@@ -2999,14 +2994,14 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=871196",
   "https://www.newsis.com/view/NISX20261009_0003820077",
   "http://www.yonhapnewstv.co.kr/news/MYH20261009091226AZn",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261009091248C5q"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261009091248C5q",
+  "https://www.tokenpost.kr/news/briefing/419724",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90187",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880924",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=856040",
+  "https://www.gokorea.kr/news/articleView.html?idxno=880923"
  ],
  "seen_titles": [
-  "5대은행장,19일국감증인채택···해킹사고추궁",
-  "'홈71경기'올출'소년팬과함께'진짜가을은지금부터!'5년만의KS우...",
-  "美빅테크,빚내서AI투자…삼성전자,세계5대데이터센터와5년계약",
-  "FIX2026이노베이션어워즈,최고혁신기술상9개사포함31개혁신기업...",
-  "‘하루1.2조’초격차실적…세계빅테크史새로썼다",
   "[12뉴스]오늘의주요뉴스",
   "델,엔비디아RTX스파크탑재'XPS16'공개...노트북서AI모델직접구...",
   "인천노인돌봄지원주택'0호'…퇴원후일상복귀도울집없다",
@@ -6001,7 +5996,12 @@
   "델,새프리미엄노트북'델XPS16크리에이터에디션'공개",
   "[올댓차이나]TSMC3분기매출62.8조원·50.9%↑…AI수요에사상최고",
   "쿠팡·쿠팡이츠한밤중먹통…\"접속전부멈춰\"",
-  "중국외교부,'한국금융권해커'의혹에\"구체적상황몰라\""
+  "중국외교부,'한국금융권해커'의혹에\"구체적상황몰라\"",
+  "[오후뉴스브리핑]토스·광주은행,스테이블코인QR결제검증外",
+  "국제유가급등·기술주약세뉴욕증시혼조…나스닥1.3%하락",
+  "최태원,광주군공항반도체클러스터첫방문...SK하이닉스미래전략...",
+  "최태원첫점검지'탄약고이전부지'…20년밀린마륵동숙원",
+  "중국인의해킹혐의부인,휴대전화도용주장에수사초점!"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,17 @@
   [
    "2026-10-09T09:12:16.599875+09:00",
    "시험대 AI로 진화한 사이버수사 오른 경찰"
+  ],
+  [
+   "2026-10-09T09:16:15.387955+09:00",
+   "이전부지 숙원 밀린 마륵동 점검지 탄약고 20년"
+  ],
+  [
+   "2026-10-09T09:16:15.387955+09:00",
+   "도용 초점 혐의 부인 수사 휴대전화 주장에 중국인의"
   ]
  ],
- "last_run": "2026-10-09T09:14:37.573924+09:00",
+ "last_run": "2026-10-09T09:16:36.975185+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
