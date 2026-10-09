@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91261",
-  "https://www.nbntv.kr/news/articleView.html?idxno=340928",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3716464",
-  "http://www.segyebiz.com/newsView/20261008513150?OutUrl=naver",
-  "https://www.ekn.kr/web/view.php?key=20261008029523908",
-  "https://www.boannews.com/news/articleView.html?idxno=146276",
-  "https://biz.sbs.co.kr/article_hub/20000338965?division=NAVER",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171682",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=513080",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=193012",
   "https://www.newsis.com/view/NISX20261008_0003819421",
   "https://www.newsis.com/view/NISX20261008_0003819331",
@@ -2999,18 +2990,18 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3716489",
   "https://www.ytn.co.kr/_ln/0101_202610091613520152",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438493",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/09/2026100990148.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/09/2026100990148.html",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=128089",
+  "https://www.maniareport.com/view.php?ud=202610091627211190dad9f33a29_19",
+  "https://www.xportsnews.com/article/2205995",
+  "https://www.yna.co.kr/view/AKR20261009048100007?input=1195m",
+  "https://www.newsis.com/view/NISX20261009_0003820250",
+  "https://www.ajunews.com/view/20261009163837756",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4111275",
+  "https://www.mediapen.com/news/view/1129003",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727284"
  ],
  "seen_titles": [
-  "AI해킹서버전세계수백대...차원이달라진사이버위협",
-  "잇따르는금융권해킹…핀테크산업협회,침해사고대응사례공유회",
-  "[똑똑한교육]웅진씽크빅,EBS,미래엔,빙그레-메가스터디교육,에누마...",
-  "[국감초점]금융사보안점검'제각각'…체크리스트감시체계'구멍'",
-  "백억커피,LG유플러스·배민·SKT프로모션진행",
-  "[국감이슈]이억원금융위원장\"AI해킹,AI로방어해야…망분리규제살...",
-  "해킹공격자동화시대,KISA'2026인공지능해킹방어대회'참가자모...",
-  "[AI해킹비상]⑤5대은행장국감줄소환..해커추적도본격화",
-  "카카오게임즈,신작‘도깨비의세계’출시…‘K-판타지’승부수",
   "'멸귀수도전'게임으로만난다…카카오게임즈'도깨비의세계'정식출시",
   "[게임브리핑]컴투스·스마일게이트·넷마블·넥슨",
   "대동모빌리티,대구성서산단서국내첫에너지자급형전기스쿠터실...",
@@ -6001,7 +5992,16 @@
   "[동정]추경호대구광역시장",
   "국감의시간...연휴에도멈춤없는여야공방전",
   "광주찾은최태원\"용인·전남광주공장,병행해야할수도\"",
-  "SKT,통신·AI융합해'토큰경제'선점나선다"
+  "SKT,통신·AI융합해'토큰경제'선점나선다",
+  "\"졸전이었다\"아쉬운경기력에손창환감독역시반성했다",
+  "'승부처3점3방'문정현이해결했다...kt,소노에88-79승리",
+  "'최원준보고있나?'롯데레이예스,LG전시즌204호안타폭발…KBO최...",
+  "롯데레이예스,LG전서204번째안타…최다안타타이",
+  "'204안타'롯데레이예스,최원준이세운단일시즌최다안타에타이",
+  "[종합]최태원\"전력·용수늦어도공사부터\"…호남반도체속도전",
+  "최태원SK그룹회장,\"호남반도체공장최대한빠르게건설\"",
+  "최태원회장,광주군공항부지방문…\"용인12년당겨도부족,병행건...",
+  "\"12년앞당겨도부족\"…최태원,광주찾아'용인과병행건설'시사"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-10-09T16:46:18.598845+09:00",
    "나선다 융합해 통신 ~SKT 경제 선점 토큰"
+  ],
+  [
+   "2026-10-09T16:48:16.467900+09:00",
+   "12년 앞당겨도 건설 부족 시사 병행 광주 찾아 용인과"
   ]
  ],
- "last_run": "2026-10-09T16:46:41.102745+09:00",
+ "last_run": "2026-10-09T16:48:40.695815+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
