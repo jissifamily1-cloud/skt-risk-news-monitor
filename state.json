@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789120&plink=ORI&cooper=NAVER",
-  "https://www.yna.co.kr/view/AKR20261008093051530?input=1195m",
-  "https://news.mtn.co.kr/news-detail/2026100813251011567",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069944",
   "https://www.dailian.co.kr/news/view/1699423/?sc=Naver",
   "https://www.gukjenews.com/news/articleView.html?idxno=3716343",
   "https://www.thedailypost.kr/news/articleView.html?idxno=116089",
@@ -2999,13 +2995,13 @@
   "https://news.jtbc.co.kr/article/NB12322179?influxDiv=NAVER",
   "https://www.xportsnews.com/article/2205935",
   "https://economist.co.kr/article/view/ecn202610090005",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448983"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=448983",
+  "https://www.starnewskorea.com/sports/2026/10/09/2026100912273689954",
+  "https://www.donga.com/news/Economy/article/all/20261008/134807647/1",
+  "https://kpenews.com/View.aspx?No=4257685",
+  "https://www.edaily.co.kr/News/Read?newsId=02158246645611280&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "삼성전자,사상첫분기영업이익100조돌파...증권계평가는?",
-  "AI로은행뚫은해커,AI에흔적남겼다",
-  "일소프트뱅크자회사에랜섬웨어공격…495개기업·지자체피해",
-  "정보공개포털한때접속장애…45분만에복구(종합)",
   "고사위기케이블TV,대통령에SOS…규제완화호소",
   "[2026국감]AI해킹에이억원\"기본대응도미흡\"…5대은행장증인채...",
   "'배그'AI전우부터현실로봇까지…크래프톤AI실험어디까지왔나",
@@ -6001,7 +5997,11 @@
   "700억달러라던오픈AI매출…\"산출과정에서와전\"",
   "'이제안아프다!'페덱,SSG전깜짝불펜등판…\"선수가던지려는의지...",
   "[속보]'금융권해킹잡는다'경찰,포렌식인력등수사팀43명확대",
-  "오픈AI매출당초알려진것보다적다,'고의아닐것'해명에도관련주..."
+  "오픈AI매출당초알려진것보다적다,'고의아닐것'해명에도관련주...",
+  "알고도못막는'생태계교란종',손창환소노감독\"배스봉쇄방법은...",
+  "AI로은행뚫은해커,AI에남긴흔적이추적실마리",
+  "해킹흔적은남았는데범인은없다..공격자추적,10건중9건실패",
+  "경찰,금융권해킹전담수사팀인력확충…\"수사공백없도록철저히수..."
  ],
  "recent_sigs": [
   [
@@ -6365,7 +6365,7 @@
    "고의 알려진 관련주 적다 것보다 당초 매출 해명에도 아닐"
   ]
  ],
- "last_run": "2026-10-09T13:38:33.770461+09:00",
+ "last_run": "2026-10-09T13:41:18.114287+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
