@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193012",
-  "https://www.newsis.com/view/NISX20261008_0003819421",
-  "https://www.newsis.com/view/NISX20261008_0003819331",
-  "https://www.etnews.com/20261008000284",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448895",
-  "https://mhnse.com/news/articleView.html?idxno=1579972",
-  "https://gamefocus.co.kr/detail.php?number=179668",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61107",
-  "https://dealsite.co.kr/articles/170334",
   "https://www.mt.co.kr/politics/2026/10/08/2026100815221940561",
   "https://www.mt.co.kr/world/2026/10/08/2026100815185487898",
   "http://www.kdfnews.com/news/articleView.html?idxno=189059",
@@ -2999,17 +2990,18 @@
   "https://www.ajunews.com/view/20261009163837756",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4111275",
   "https://www.mediapen.com/news/view/1129003",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727284"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727284",
+  "https://mhnse.com/news/articleView.html?idxno=1583007",
+  "https://www.yna.co.kr/view/PYH20261009066800054?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261009066700054?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261009066600054?input=1196m",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=311530",
+  "https://dealsite.co.kr/articles/170412",
+  "https://www.yna.co.kr/view/PYH20261009066400054?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261009066500054?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261009066100054?input=1196m"
  ],
  "seen_titles": [
-  "'멸귀수도전'게임으로만난다…카카오게임즈'도깨비의세계'정식출시",
-  "[게임브리핑]컴투스·스마일게이트·넷마블·넥슨",
-  "대동모빌리티,대구성서산단서국내첫에너지자급형전기스쿠터실...",
-  "황운하의원,전기차100만대시대'정비공백'지적…정부종합대책요...",
-  "11일만에1500대반품…아이폰18‘패닉풀’쇄도,애플은“업데이트...",
-  "해커가며칠씩찾던‘약한고리’…AI는순식간에훑는다",
-  "[은행이뚫린다]'中26세'범인신원흔적,시사점은?\"초보적행적들....",
-  "[ETF따라잡기]삼성전자3분기107.4조원매출“소부장ETF방망이짧게...",
   "금융사사고인지에최장902일…\"보안점검기준강화해야\"[국감2026]",
   "고객정보유출에엇갈린연임기상도…국감앞둔5대은행장연말인사...",
   "박성훈\"6년간주민번호유출288만건…지난해부터갑자기급증\"",
@@ -6001,7 +5993,15 @@
   "[종합]최태원\"전력·용수늦어도공사부터\"…호남반도체속도전",
   "최태원SK그룹회장,\"호남반도체공장최대한빠르게건설\"",
   "최태원회장,광주군공항부지방문…\"용인12년당겨도부족,병행건...",
-  "\"12년앞당겨도부족\"…최태원,광주찾아'용인과병행건설'시사"
+  "\"12년앞당겨도부족\"…최태원,광주찾아'용인과병행건설'시사",
+  "[오피셜]'막내'KT에100만관중추월당한NC,증가율1위로명예회복…...",
+  "반도체부지현장점검나선최태원·민형배",
+  "취재진질문에답변하는최태원회장",
+  "최태원SK그룹회장,광주반도체공장부지방문…\"용인과병행건설가...",
+  "최태원“호남권반도체클러스터속도감있게추진”",
+  "반도체산단예정부지찾은최태원·민형배",
+  "질문에답하는최태원SK그룹회장",
+  "반도체산업단지예정지찾은최태원·민형배"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-10-09T16:48:16.467900+09:00",
    "12년 앞당겨도 건설 부족 시사 병행 광주 찾아 용인과"
+  ],
+  [
+   "2026-10-09T16:50:26.175120+09:00",
+   "찾은 예정지 민형배 반도체 산업단지"
   ]
  ],
- "last_run": "2026-10-09T16:48:40.695815+09:00",
+ "last_run": "2026-10-09T16:50:44.627417+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
