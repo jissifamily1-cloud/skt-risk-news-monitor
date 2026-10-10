@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610090743103672e250e8e188_1",
-  "https://biz.sbs.co.kr/article_hub/20000338998?division=NAVER",
-  "https://www.khan.co.kr/article/202610090750001",
   "https://www.yna.co.kr/view/AKR20261009003000002?input=1195m",
   "https://www.mediapen.com/news/view/1128940",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727257",
@@ -2999,12 +2996,12 @@
   "http://www.newsbrite.net/news/articleView.html?idxno=200839",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172093",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=312873",
-  "https://www.etoday.co.kr/news/view/2634263"
+  "https://www.etoday.co.kr/news/view/2634263",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=601070",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706229",
+  "https://www.dt.co.kr/article/12088262"
  ],
  "seen_titles": [
-  "[속보]쿠팡한밤‘먹통’사태,주문·배송한때올스톱…2시간반만에...",
-  "[뉴욕마켓워치]되살아난AI의구심에반도체주급락…채권↑달러↓",
-  "트럼프,엔비디아주식최대160만달러어치매입공개…젠슨황국가과...",
   "오픈AI연환산매출,700억아닌500억달러...AI관련주일제히하락",
   "최태원회장,'2030년첫양산목표'...800조원호남팹탄약고실사예...",
   "엔비디아,미국과학연구에1조4천억원투입…양자컴퓨팅까지투자확...",
@@ -6001,7 +5998,10 @@
   "SK최태원회장\"호남권반도체클러스터가장빠르게추진할것\"",
   "AI공포속…美할리우드,빅테크거물영화쏟아낸다",
   "SK하이닉스,호남권반도체투자가속…최태원\"최대한빨리건설\"",
-  "李“해외불법사이트차단불가능하면‘물리적폐쇄’단행명령”"
+  "李“해외불법사이트차단불가능하면‘물리적폐쇄’단행명령”",
+  "우리·신한은행,고객정보보호예산대폭삭감⋯\"나몰라라\"비판",
+  "[TechInsigt]\"AI해킹,보안문제로만보는건위험한착각\"",
+  "한은·국책은행해킹시도올100만건돌파…‘역대최대’"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-10-11T08:48:16.279674+09:00",
    "할리우드 거물 공포 영화 빅테크 쏟아낸다"
+  ],
+  [
+   "2026-10-11T08:52:14.765272+09:00",
+   "보는 착각 위험한 문제로만 보안"
   ]
  ],
- "last_run": "2026-10-11T08:50:40.309422+09:00",
+ "last_run": "2026-10-11T08:52:39.623881+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
