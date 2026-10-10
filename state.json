@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20261008110457159",
-  "https://www.munhwa.com/article/11622360",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438459",
-  "https://www.g-enews.com/view.php?ud=2026100907291495842bd56fbc3c_1",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145471",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=507875",
   "https://www.jemin.com/news/articleView.html?idxno=844085",
@@ -2999,13 +2995,13 @@
   "https://www.g-enews.com/view.php?ud=202610101151381386fda4f5ab74_1",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=765542",
   "https://www.dailyt.co.kr/newsView/dlt202610110007",
-  "https://www.jemin.com/news/articleView.html?idxno=844130"
+  "https://www.jemin.com/news/articleView.html?idxno=844130",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881001",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881002",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881003",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881004"
  ],
  "seen_titles": [
-  "세쿼이아주도메카AI투자에삼성·엔비디아합류",
-  "[오늘의글로벌마켓]뉴욕증시,AI관련주나란히약세...나스닥1.3%↓",
-  "미국정부압수비트코인1만2267개또이동…비트파이넥스해킹회수분...",
-  "은행ㆍ플랫폼이어병원CCTV까지,의료현장에도해킹공포확산",
   "쿠팡한밤2시간여접속오류…\"서비스업그레이드과정서발생\"(종합)",
   "뉴욕증시,오픈AI실적우려에기술주흔들⋯나스닥1.4%↓[종합]",
   "AI기대꺾이자뉴욕증시휘청…나스닥1.25%급락,다우는소폭상승",
@@ -6001,7 +5997,11 @@
   "아마존,10년적자알렉사수장전격교체...AI유료화배수진",
   "[소비자민원백서]\"쓰지도않았는데500만원결제\"...신용카드부정사...",
   "최태원“광주반도체공장최대한빨리”…착공은전력·용수와맞물려",
-  "엔비디아,인공지능투자불안속주가선방…실적성장기대가버팀목"
+  "엔비디아,인공지능투자불안속주가선방…실적성장기대가버팀목",
+  "AI활용한정보유출,금융사와교회까지100만건위험처했다",
+  "금융권AI해킹경고무시,피해키운이유는?",
+  "국책은행겨냥해킹급증,올해만100만건돌파—금융보안비상",
+  "AI활용한보안혁신,은행들이해킹위협에맞서는방법"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,13 @@
   [
    "2026-10-11T08:34:13.852623+09:00",
    "실적 주가 버팀목 불안 인공지능 기대가 성장 선방 투자"
+  ],
+  [
+   "2026-10-11T08:36:14.707508+09:00",
+   "혁신 활용한 방법 보안 맞서는 위협에 은행들이"
   ]
  ],
- "last_run": "2026-10-11T08:34:37.396885+09:00",
+ "last_run": "2026-10-11T08:36:35.236929+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
