@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3716997",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008789932&plink=ORI&cooper=NAVER",
-  "https://www.hankyung.com/article/2026100817711",
-  "https://www.joongang.co.kr/article/25468325",
-  "https://www.hankyung.com/article/202610082202i",
   "http://www.rightknow.co.kr/news/articleView.html?idxno=34934",
   "https://biz.heraldcorp.com/article/10897264",
   "https://www.donga.com/news/Opinion/article/all/20261008/134812704/2",
@@ -2999,14 +2994,14 @@
   "https://www.tokenpost.kr/news/ai/420873",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90264",
   "https://www.yna.co.kr/view/AKR20261010039851007?input=1195m",
-  "https://www.joongang.co.kr/article/25468616"
+  "https://www.joongang.co.kr/article/25468616",
+  "https://www.dailian.co.kr/news/view/1699924/?sc=Naver",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6856992_37004.html",
+  "https://www.yna.co.kr/view/AKR20261010044200083?input=1195m",
+  "https://news.jtbc.co.kr/article/NB12322322?influxDiv=NAVER",
+  "https://www.aitimes.com/news/articleView.html?idxno=216122"
  ],
  "seen_titles": [
-  "[박진영의비즈+]삼성전자분기영업익100조돌파…삼전닉스반도체...",
-  "비틀스와넷플릭스의성공법칙[.txt]비틀스와넷플릭스의성공법칙...",
-  "‘메이드인삼성’빅테크첫영업익107조",
-  "삼전,AI빅테크업계'실적최강자'됐다…하이닉스도질주",
-  "삼전살까,SK하닉살까…여의도전설은‘이종목’찍었다",
   "고금리에기술주몸값도흔들…AI대형주만버틴다",
   "D램도HBM도가격뛴다…삼성,年영업이익세계1위꿰차나",
   "Firmus,IPO공모가A$8~A$8.25인하논의보도",
@@ -6001,7 +5996,12 @@
   "GPU클라우드323곳집계…8개월새209곳서늘어",
   "[게임이모저모]데브시스터즈'쿠키런그랜드페스티벌',24일개막外",
   "김도영,44호홈런폭발…KIA,준PO매직넘버'1'(종합)",
-  "김도영홈런왕굳히기…KIA,3위확정까지매직넘버1"
+  "김도영홈런왕굳히기…KIA,3위확정까지매직넘버1",
+  "44호포!MVP시즌보다더때린김도영,생애첫홈런왕등극눈앞…KIA1...",
+  "숨막히는3위싸움‥'준플레이오프티켓의주인은?'",
+  "대만총통\"종속용납않을것\"…中\"독립추구본색드러나\"",
+  "한국금융권덮친중국AI해킹…'아르텍스'업데이트멈춘다",
+  "엔비디아,AI추론칩d-매트릭스에투자계획…GPU중심생태계확장"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-10-10T20:16:14.997922+09:00",
    "공급 CTEM 금융권 대응 웹방화벽 파이오링크"
+  ],
+  [
+   "2026-10-10T20:38:16.430004+09:00",
+   "생태계 확장 계획 매트릭스에 GPU 중심 추론 투자"
   ]
  ],
- "last_run": "2026-10-10T20:36:31.992736+09:00",
+ "last_run": "2026-10-10T20:38:42.358192+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
