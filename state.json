@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.xportsnews.com/article/2205792",
-  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=156491",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681507",
   "https://www.mydaily.co.kr/page/view/2026100821530072832",
   "https://www.sidae.com/article/2026100822204081536",
   "https://sports.khan.co.kr/article/202610082248003?pt=nv",
@@ -2999,12 +2996,12 @@
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077874",
   "https://www.tokenpost.kr/news/ai/420757",
   "https://www.aitimes.com/news/articleView.html?idxno=216112",
-  "https://biz.sbs.co.kr/article_hub/20000339165?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000339165?division=NAVER",
+  "https://basketkorea.com/news/newsview.php?ncode=1065607697693935",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=815387",
+  "https://biz.heraldcorp.com/article/10898146"
  ],
  "seen_titles": [
-  "'KIA와LG의3위전쟁'정규리그마지막관전포인트…12일광주최종전에...",
-  "빛나는‘강철매직’…잭팟터진다,흐려진‘달그림자’…고개숙...",
-  "KAI,해병대상륙헬기1145억군수지원계약수주",
   "한국팀의'FC프로챔피언스컵2026'우승도전시작된다",
   "최원준,KT옷입고훨훨…최다안타204개신기록행진",
   "'2위확정'삼성힘제대로뺐구나?최원태대체자누군지봤더니…생애...",
@@ -6001,7 +5998,10 @@
   "통화에서거래까지…보이스피싱대응확대",
   "제프리스우드,중국AI확산에투자회수우려",
   "\"6~12개월내터진다\"…주요AI기업,최악의AI재난시나리오가동",
-  "금융권해킹사태에등장한'아르텍스'결국공개개발중단"
+  "금융권해킹사태에등장한'아르텍스'결국공개개발중단",
+  "[게임리포트]‘10년만의개막후2연승’삼성,삼성에도봄이올까?",
+  "[이슈]SK쉴더스\"AI가새해킹법만들진않아\"…먼저뚫리는건'Shadow...",
+  "국내금융권연쇄해킹도구개발자“비공개소스전환”"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,17 @@
   [
    "2026-10-10T11:04:18.077724+09:00",
    "금융산업에 산업 달렸다 차세대 경쟁력"
+  ],
+  [
+   "2026-10-10T11:12:16.346403+09:00",
+   "AI가 해킹법 SK쉴더스 않아 만들진 먼저 Shadow 뚫리는"
+  ],
+  [
+   "2026-10-10T11:12:16.346403+09:00",
+   "개발자 비공개 금융권 소스 연쇄해킹 국내 도구"
   ]
  ],
- "last_run": "2026-10-10T11:10:41.872343+09:00",
+ "last_run": "2026-10-10T11:12:37.148703+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
