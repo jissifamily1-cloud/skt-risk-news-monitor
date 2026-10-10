@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261008001270",
-  "https://www.newspim.com/news/view/20261009000022",
   "https://www.wikitree.co.kr/articles/1164957",
   "https://www.news1.kr/society/court-prosecution/6314686",
   "https://www.hitnews.co.kr/news/articleView.html?idxno=79777",
@@ -2999,11 +2997,11 @@
   "https://www.tokenpost.kr/news/insights/419688",
   "https://www.xportsnews.com/article/2206337",
   "https://www.mt.co.kr/finance/2026/10/11/2026100715385445892",
-  "https://www.thisisgame.com/articles/430702"
+  "https://www.thisisgame.com/articles/430702",
+  "https://zdnet.co.kr/view/?no=20261007171138",
+  "https://www.yna.co.kr/view/AKR20261008114100008?input=1195m"
  ],
  "seen_titles": [
-  "AI가추천한자동차강자는…쏘렌토·아이오닉5·BMW",
-  "\"케이블TV'미디어기본사회'구현최적…우리동네이야기잇는다\"",
   "권익위,교육시스템해킹에자체감사…위탁사업실태조사",
   "개인정보보호위출범후6년간주민등록번호288만건유출",
   "[법조브리핑]법무부장관대행“이화영,가석방요건못채워”外",
@@ -6001,7 +5999,9 @@
   "[신근영칼럼]AI폭풍과닷컴버블의추억",
   "황재균,20년야구인생마침표…은퇴식서결국눈물\"최선다한선수로...",
   "5대은행,정보보호2000억쏟았지만…AI보안비중은10%밑",
-  "[인터뷰]한국을담은‘워프레임’,13년의여정에새로운도전을더하..."
+  "[인터뷰]한국을담은‘워프레임’,13년의여정에새로운도전을더하...",
+  "[포토]류제명차관·주한외국대사한자리에…AI페스타둘째날이모저...",
+  "이번주크레딧2.3조발행…LG유플러스·GS등수요예측"
  ],
  "recent_sigs": [
   [
@@ -6095,9 +6095,13 @@
   [
    "2026-10-11T06:18:15.469885+09:00",
    "해킹툴 아르텍스 유출본엔 금융 퍼진 폐쇄"
+  ],
+  [
+   "2026-10-11T06:26:14.333006+09:00",
+   "GS 크레딧 이번주 3조 ~LGU 발행 LG유플러스 수요예측"
   ]
  ],
- "last_run": "2026-10-11T06:24:30.499122+09:00",
+ "last_run": "2026-10-11T06:26:36.293134+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
