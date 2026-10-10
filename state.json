@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itbiznews.com/news/articleView.html?idxno=227225",
-  "https://www.yna.co.kr/view/AKR20261008085600017?input=1195m",
-  "https://www.ytn.co.kr/_ln/0102_202610090633166797",
-  "https://www.etoday.co.kr/news/view/2634133",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493924",
   "https://www.etoday.co.kr/news/view/2633832",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493923",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=600968",
@@ -2999,14 +2994,14 @@
   "https://www.ddaily.co.kr/page/view/2026101018045660798",
   "https://www.ddaily.co.kr/page/view/2026101018120348416",
   "https://www.dt.co.kr/article/12088255",
-  "https://www.ddaily.co.kr/page/view/2026100817315832875"
+  "https://www.ddaily.co.kr/page/view/2026100817315832875",
+  "https://www.mt.co.kr/stock/2026/10/11/2026101103175478840",
+  "https://www.newscj.com/news/articleView.html?idxno=3439261",
+  "https://www.yna.co.kr/view/AKR20261008195000004?input=1195m",
+  "https://www.newsis.com/view/NISX20261008_0003819366",
+  "https://theviewers.co.kr/View.aspx?No=4256264"
  ],
  "seen_titles": [
-  "뉴욕증시,오픈AI'실적쇼크'에기술주하락...나스닥1.25%↓",
-  "[AI세계속으로]\"AI로쓴글입니다\"…챗GPT·클로드·제미나이로쓴글에...",
-  "뉴욕증시,혼조마감…국제유가는4%급등",
-  "'꿈의영업익'달성한K-메모리…SK하이닉스로바통이을까",
-  "쿠팡새벽'먹통'…주문·배송한때올스톱",
   "[AI냉각전쟁/③]서버식히는정유사,검증하는통신사…냉각생태계...",
   "금융권해킹범지목된中26세\"난편의점직원,누명썼다\"반박",
   "공격가리지않는데…보안격차커지는2금융권[해킹에뚫린금융④]",
@@ -6001,7 +5996,12 @@
   "[위클리반도체]분기영업익107조새역사쓴삼성전자…최태원SK회장...",
   "\"청첩장·돌잔치정보유출가능성\"…바른손M카드,10개월만DB해킹확...",
   "살인사건허위제보에비자신청까지…앤트로픽AI또‘탈선’",
-  "'금융권AI해킹'후폭풍지속될까…한전·대형교회등비금융도비상"
+  "'금융권AI해킹'후폭풍지속될까…한전·대형교회등비금융도비상",
+  "1달러주식이143달러로…AI광통신인화인듐기판이뭐길래",
+  "[천지일보이슈종합]이화영가석방요구·대구상가건물천장붕괴·잠...",
+  "검찰청폐지후경찰분위기'폭풍전고요'…대형수사경쟁전망도",
+  "이통3사3분기합산영업익1.3조…해킹·퇴직금털고정상화궤도",
+  "[통신3사경제학③]AI시대새진입장벽은'전력'…3사의'선점경쟁'"
  ],
  "recent_sigs": [
   [
@@ -6123,9 +6123,17 @@
   [
    "2026-10-11T07:00:39.834922+09:00",
    "교회 지속될까 비상 비금융도 한전 후폭풍 금융권 대형"
+  ],
+  [
+   "2026-10-11T07:02:16.510996+09:00",
+   "이통3사 3분기 합산 털고 퇴직금 영업익 정상화 궤도 3조"
+  ],
+  [
+   "2026-10-11T07:02:16.510996+09:00",
+   "전력 선점 진입장벽은 3사의 AI시대 경쟁"
   ]
  ],
- "last_run": "2026-10-11T07:01:00.854666+09:00",
+ "last_run": "2026-10-11T07:02:36.757788+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
