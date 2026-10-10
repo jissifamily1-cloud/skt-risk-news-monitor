@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1315742&inflow=N",
-  "https://www.khan.co.kr/article/202610061603011",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678687",
   "https://www.edaily.co.kr/News/Read?newsId=04175446645610296&mediaCodeNo=257",
   "https://www.etoday.co.kr/news/view/2632892",
   "https://www.etnews.com/20261006000344",
@@ -2999,12 +2996,12 @@
   "https://www.xportsnews.com/article/2206222",
   "https://www.tokenpost.kr/news/breaking/420829",
   "https://www.segye.com/newsView/20261009505613?OutUrl=naver",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494068"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494068",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012336",
+  "http://www.osen.co.kr/article/G1112890872",
+  "https://www.pressian.com/pages/articles/2026101016260304249"
  ],
  "seen_titles": [
-  "WhattoknowaboutrecentA.I.hacks.",
-  "AIhackingspreeexposescracksinfinancialsectorsecurity(KOR)",
-  "OpenAISaysItChangedSystemsAfterAustraliaHacking",
   "A.I.hackinginAustraliapromptsaconcern:Canthelawkeepup?",
   "A.I.OfficialsStonewallonQuestionsAboutTechnology’sRisks",
   "[투자노하우]현지시간5일뉴욕증시3대지수일제히상승",
@@ -6001,7 +5998,10 @@
   "[속보]'KBO역사새로썼다!'롯데레이예스,마침내205안타신기록폭...",
   "엔비디아지원Firmus,50억달러IPO철회",
   "‘100조영업익’에도삼성전자주가발목잡은AI거품론",
-  "마스터키줘도안전하다더니…XRPL권한위임개편뒤에그어진사형..."
+  "마스터키줘도안전하다더니…XRPL권한위임개편뒤에그어진사형...",
+  "[속보]레이예스또쳤다!최원준제치고최다안타단독1위등극→205안...",
+  "최원준다시넘어섰다!레이예스,205안타최다안타신기록달성!...대역...",
+  "류희림방심위제재소송에3억8422만원들어…방송사소송비용도1억..."
  ],
  "recent_sigs": [
   [
@@ -6221,7 +6221,7 @@
    "Firmus 지원 50억달러 철회 IPO"
   ]
  ],
- "last_run": "2026-10-10T16:32:32.839584+09:00",
+ "last_run": "2026-10-10T16:34:31.347701+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
