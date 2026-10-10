@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260929172653",
-  "https://www.mt.co.kr/world/2026/09/29/2026092916214889638",
   "https://www.bbc.com/korean/articles/c3wyz05v7xrlo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
   "https://www.aitimes.com/news/articleView.html?idxno=215747",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703550",
@@ -2999,11 +2997,11 @@
   "https://www.newswhoplus.com/news/articleView.html?idxno=71389",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=376387",
   "https://www.newscj.com/news/articleView.html?idxno=3439202",
-  "https://www.mydaily.co.kr/page/view/2026101018514635273"
+  "https://www.mydaily.co.kr/page/view/2026101018514635273",
+  "https://www.ytn.co.kr/_ln/0103_202610101812593460",
+  "https://www.aitimes.com/news/articleView.html?idxno=216107"
  ],
  "seen_titles": [
-  "\"아스트라급지능을5분의1가격에\"…오픈AI,'GPT-6.1솔'공개",
-  "챗GPT,외부서비스까지품는다…오픈AI생태계확장",
   "AI안전망넓히는오픈AI,에이전트보안강화",
   "오픈AI,AI에이전트행동범위확대…컴퓨터도직접조작",
   "오픈AI,'GPT-6.1솔'공개…아스트라급성능에5분의1가격",
@@ -6001,7 +5999,9 @@
   "광주반도체팹은속도전…SK'동부권100조투자'는어디로갔나",
   "'시즌44호홈런폭발'김도영,홈런왕예약하는결정적인한방",
   "한국금융권해킹에쓰인AI도구'아르텍스'공개중단",
-  "'와세다대'미스코리아선오수민,미모와지성다가졌네[MD영상]"
+  "'와세다대'미스코리아선오수민,미모와지성다가졌네[MD영상]",
+  "[옴부즈맨]이번주모니터링프로그램:굿모닝경제매거진해봅시다",
+  "MS,에이전트의사결정특화모델'디시전-1'공개…오픈AI도API정식출..."
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,13 @@
   [
    "2026-10-10T18:42:16.551241+09:00",
    "100조 실적 하락 주가는 시대 삼성전자"
+  ],
+  [
+   "2026-10-10T18:56:14.175694+09:00",
+   "에이전트 오픈AI도 디시전 API 모델 특화 의사결정 공개 정식 MS"
   ]
  ],
- "last_run": "2026-10-10T18:54:37.701881+09:00",
+ "last_run": "2026-10-10T18:56:38.753931+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
