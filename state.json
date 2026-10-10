@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fieldnews.kr/news/articleView.html?idxno=32031",
-  "https://www.ziksir.com/news/articleView.html?idxno=148850",
-  "https://zdnet.co.kr/view/?no=20261009070934",
-  "https://www.news2day.co.kr/article/20261008500314",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=283129",
-  "https://www.g-enews.com/view.php?ud=2026100907094538442bd56fbc3c_1",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8681600",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493933",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6856753_37012.html",
   "https://www.mk.co.kr/article/12172149",
   "https://www.newspim.com/news/view/20261009000025",
@@ -2999,17 +2991,17 @@
   "https://economist.co.kr/article/view/ecn202610080006",
   "https://biz.heraldcorp.com/article/10897580",
   "https://www.busan.com/view/busan/view.php?code=2026100817212771887",
-  "http://www.inews24.com/view/2013561"
+  "http://www.inews24.com/view/2013561",
+  "https://www.newscj.com/news/articleView.html?idxno=3438900",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438546",
+  "https://www.newspim.com/news/view/20261008001320",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679845",
+  "https://www.sentv.co.kr/article/view/sentv202610080133",
+  "https://www.taxtimes.co.kr/news/article.html?no=277212",
+  "https://www.sentv.co.kr/article/view/sentv202610080181",
+  "https://www.nocutnews.co.kr/news/6589485"
  ],
  "seen_titles": [
-  "쿠팡·쿠팡이츠,심야'접속장애'…\"이용자불편\"",
-  "[2026국감]5대은행장,19일정무위증인줄소환…AI해킹사태·가계대...",
-  "금융권해킹사고에김형연의원\"전금융사1년치재점검해야\"",
-  "홈쇼핑중기지원기준완화…업황악화속‘판로보호’시험대",
-  "‘홈런왕경쟁’가장유리한건김도영?…힐리어드·오스틴추격,마지...",
-  "뉴욕증시,AI기술주약세에혼조마감…나스닥1.25%↓",
-  "AI오디오기능'착착'…편의성극대화나선웨이브",
-  "오라클헬스해킹피해자2000만명육박…구형서너서버서의료정보유...",
   "[뉴욕채권]불플래트닝…트럼프이란공격유보속美반도체주급락",
   "데이터센터가전쟁표적으로…러시아얀덱스사소보데이터센터드론피...",
   "두산,전자사업1조증설'승부수'…SK실트론최태원회장지분인수는...",
@@ -6001,7 +5993,15 @@
   "AI경쟁뒤처진KT의역발상…‘연결·비용’으로승부건다",
   "EV부터로봇까지…정의선‘유연한리더십’이빚어낸혁신[정의선회...",
   "환각·아부·기만·해킹…AI기술의역습[비즈앤피플]",
-  "[2026국감]방미통위국감하루앞으로⋯YTN민영화·방송공정성쟁점..."
+  "[2026국감]방미통위국감하루앞으로⋯YTN민영화·방송공정성쟁점...",
+  "한글날제정100주년…AI동화·캠페인등'우리말가치'빛낸다",
+  "네이버,3분기영업익15%↓전망…AI·커머스투자에수익성둔화",
+  "정의선취임6년…'글로벌3위'현대차그룹,다음승부는피지컬AI",
+  "[사사건건]AI에해킹당한은행…내돈은?내개인정보는?",
+  "증권사보안인력IT의9%대…10대사4곳은정보보호공시안해",
+  "박성훈\"불과1년5개월동안주민번호219만건유출\"",
+  "금융권덮친AI해킹……피해자집단소송움직임",
+  "\"진빠졌지만사극매력적\"손예진이본'스캔들'억눌린욕망[왓더OTT]"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,17 @@
   [
    "2026-10-11T08:02:15.898176+09:00",
    "리더십 혁신 빚어낸 로봇까지 EV부터 유연한 정의선"
+  ],
+  [
+   "2026-10-11T08:04:16.699636+09:00",
+   "움직임 금융권 집단소송 피해자 덮친"
+  ],
+  [
+   "2026-10-11T08:04:16.699636+09:00",
+   "빠졌지만 억눌린 사극 욕망 스캔들 매력적 손예진이"
   ]
  ],
- "last_run": "2026-10-11T08:02:44.494283+09:00",
+ "last_run": "2026-10-11T08:04:37.252791+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
