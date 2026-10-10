@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8147227",
-  "https://www.news2day.co.kr/article/20261007500205",
-  "https://www.etnews.com/20261007000275",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=136883",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=122910",
   "http://www.kdfnews.com/news/articleView.html?idxno=188969",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=507124",
   "https://www.chosun.com/economy/stock-finance/2026/10/06/FWLX6ORLBNCTXAHCRGNXRVO3HQ/",
@@ -2999,14 +2994,14 @@
   "http://www.nongup.net/news/articleView.html?idxno=33821",
   "https://www.sedaily.com/article/20099795",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=253718",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478636"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478636",
+  "https://www.sportsworldi.com/newsView/20261010500296",
+  "https://www.thebigdata.co.kr/view.php?ud=202610081400595290a47484cf8_23",
+  "https://www.segye.com/newsView/20261009506574?OutUrl=naver",
+  "https://www.newscj.com/news/articleView.html?idxno=3439131",
+  "https://www.etnews.com/20261010000008"
  ],
  "seen_titles": [
-  "[Telecom&Now]SKT,자체개발AI로100년전우리말·글되살렸다등",
-  "SK텔레콤,아시안게임메달리스트초청'메달리스트세리머니'개최",
-  "SKT,‘TeamSKT’선수들과메달리스트세리머니개최",
-  "SKT후원선수들,아시안게임메달20개…정재헌CEO성과축하",
-  "'TeamSKT',아시안게임메달20개수확…\"AI전력분석한몫\"",
   "SKT,아시안게임메달리스트8명초청행사…20개메달합작",
   "[IT는지금]KT클라우드,50MW급‘청라AI데이터센터’구축참여外",
   "SKT,아시안게임후원선수들과기쁨나눴다",
@@ -6001,7 +5996,12 @@
   "웨이브히어링대전점,유럽3사보청기가을기획전…신제품비교상담...",
   "해커보다빠르게위협찾는다…차세대AI보안전략은[빛이나는비즈]",
   "최태원SK회장,전남광주반도체특화단지예정지방문…\"서남권클러...",
-  "[이뉴스Live]\"용인2/3규모계획중\"···광주군공항찾은최태원SK회..."
+  "[이뉴스Live]\"용인2/3규모계획중\"···광주군공항찾은최태원SK회...",
+  "[SW포커스]걱정많던KT안방대변신…‘무실책’포수한승택의힘",
+  "베일벗은'도깨비의세계'청신호...카카오게임즈,실적반등시동",
+  "저커버그가직접뛰었다…애플·오픈AI핵심인재끌어모은메타[이귀...",
+  "금융권'연쇄해킹'…전산장애잦은20곳,보안예산집행률70%↓",
+  "민형배“SK그룹과긴밀히협력,호남권반도체클러스터확실히뒷받침..."
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-10-10T09:00:43.091796+09:00",
    "절반 시장 통신3사 이상은 계열 알뜰폰 후불"
+  ],
+  [
+   "2026-10-10T09:04:14.494286+09:00",
+   "확실히 협력 민형배 뒷받침 반도체클러스터 SK그룹과 긴밀히 호남권"
+  ],
+  [
+   "2026-10-10T09:04:14.494286+09:00",
+   "메타 저커버그가 이귀 핵심인재 끌어모은 직접 뛰었다 애플"
   ]
  ],
- "last_run": "2026-10-10T09:02:32.711048+09:00",
+ "last_run": "2026-10-10T09:04:41.993462+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
