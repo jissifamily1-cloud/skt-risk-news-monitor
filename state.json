@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/420047",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90227",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60918",
-  "https://www.newspim.com/news/view/20261008001406",
   "https://www.cbci.co.kr/news/articleView.html?idxno=613673",
   "https://www.wikitree.co.kr/articles/1164944",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=90183",
@@ -2999,13 +2995,13 @@
   "https://www.sidae.com/article/2026101014071548706",
   "https://www.news1.kr/entertain/broadcast-tv/6315568",
   "https://www.newspim.com/news/view/20261010000046",
-  "https://www.seoul.co.kr/news/society/accident/2026/10/09/20261009006004?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/society/accident/2026/10/09/20261009006004?wlog_tag3=naver",
+  "https://www.newsis.com/view/NISX20261010_0003820555",
+  "https://www.segye.com/newsView/20261010504472?OutUrl=naver",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/10/2026101090040.html",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871512"
  ],
  "seen_titles": [
-  "[美증시특징주]삼전압도적실적전망무용지물…반도체조정속메모...",
-  "'AI속도담합'깨진실리콘밸리...백악관에무릎꿇다",
-  "하우건“AI개발멈추기보다독립안전감사의무화해야”",
-  "트럼프“‘인공지능(AI)’이란용어쓰는사람적으로간주할것”",
   "금융사턴해커는중국어사용자?…개인서버에남긴단서들",
   "소송와중에도Suno는공연으로확장…Songkick콘서트추천을AI플랫폼...",
   "AI자금조달붐균열…퍼머스IPO흔들",
@@ -6001,7 +5997,11 @@
   "트럼프,러시아경유임시허용…우크라\"전쟁장기화투자\"비판",
   "황재균,345일만에마지막경기…은퇴식서부모님편지에끝내눈물",
   "[APEC도시선전미리가보니]①하늘엔배달드론땅엔로보택시,세계...",
-  "금융권해커,중국광둥성사는26세추정…AI에‘단서’남겼다"
+  "금융권해커,중국광둥성사는26세추정…AI에‘단서’남겼다",
+  "美,AI사고신고의무화…\"중대국가안보의무\"",
+  "한국금융권노린中AI해킹툴개발전면중단…원천차단은역부족",
+  "금융권해킹에쓰인'아르텍스',공개중단…中개발자\"악용우려\"",
+  "韓금융권해킹배후···中디도스조직연루정황"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,13 @@
   [
    "2026-10-10T14:22:16.263526+09:00",
    "해킹에 강등 검토 평가 강화 해외선 기준 신용등급 한기평"
+  ],
+  [
+   "2026-10-10T14:32:15.595840+09:00",
+   "연루 배후 정황 디도스 금융권"
   ]
  ],
- "last_run": "2026-10-10T14:30:48.198351+09:00",
+ "last_run": "2026-10-10T14:32:34.310731+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
