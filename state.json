@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nspna.com/news/?newsid=831036",
-  "https://www.mk.co.kr/article/12172290",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000021288&cp=nv",
   "https://www.mt.co.kr/industry/2026/10/09/2026100914542956741",
   "https://www.nspna.com/news/?newsid=830978",
   "https://www.newsis.com/view/NISX20261009_0003820224",
@@ -2999,12 +2996,12 @@
   "https://www.edaily.co.kr/News/Read?newsId=01879446645611936&mediaCodeNo=257",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012444",
   "https://www.kbmaeil.com/article/20261011500503",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261011140859A87"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261011140859A87",
+  "https://www.fnnews.com/news/202610111402580723",
+  "https://www.ppss.kr/news/articleView.html?idxno=314843",
+  "https://www.ytn.co.kr/_ln/0102_202610111408289155"
  ],
  "seen_titles": [
-  "[속보]최태원회장\"광주팹,용인3분의2규모…땅·수요있으면커질...",
-  "외로워서AI찾은청소년,더외로워졌다…“용납불가위험”[팩플]",
-  "[속보]최태원\"호남반도체,상황되면가장빠른속도로지을것\"",
   "금융·보험업계,차별화된맞춤형상품·이벤트로고객접점넓힌다",
   "[속보]최태원회장\"호남반도체부지,용인3분의2규모\"",
   "오픈AI매출전망흔들리자기술주전반우수수…AI산업‘순환구조’...",
@@ -6001,7 +5998,10 @@
   "AI해킹사례경고받고도'속수무책'금융권…뒤늦게보안강화허둥지둥",
   "[속보]레이예스시작부터'역대신기록경신'안타폭발…\"뭐라도건져...",
   "중수청출범9일째도수사준비지지부진…PC·시스템부족",
-  "올해한은·국책은행해킹시도100만건상회"
+  "올해한은·국책은행해킹시도100만건상회",
+  "한은·3개국책은행해킹시도,올들어이미100만건돌파",
+  "스트레이트,'납중독숨겼던비타민주사'충격실태추적…AI해킹실...",
+  "AI해킹피해확산...지금까지개인정보'100만건'유출"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,13 @@
   [
    "2026-10-11T14:10:25.595609+09:00",
    "한은 100만건 올해 국책은행 상회 시도"
+  ],
+  [
+   "2026-10-11T14:12:15.061173+09:00",
+   "스트레이트 비타민 주사 충격 추적 실태 중독 숨겼던"
   ]
  ],
- "last_run": "2026-10-11T14:10:43.675041+09:00",
+ "last_run": "2026-10-11T14:12:38.954848+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
