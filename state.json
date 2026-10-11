@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261009050000007?input=1195m",
-  "https://www.maniareport.com/view.php?ud=202610091645382023dad9f33a29_19",
-  "https://www.seoul.co.kr/news/sport/baseball/2026/10/09/20261009500139?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/economy/industry/2026/10/09/20261009500140?wlog_tag3=naver",
   "https://imnews.imbc.com/news/2026/econo/article/6856831_36932.html",
   "https://www.thelec.kr/news/articleView.html?idxno=63511",
   "https://www.joongang.co.kr/article/25468460",
@@ -2999,13 +2995,13 @@
   "http://www.thefirstmedia.net/news/articleView.html?idxno=210420",
   "https://www.hankyung.com/article/2026101140041",
   "https://www.hankyung.com/article/2026101140011",
-  "https://www.hankyung.com/article/2026101140031"
+  "https://www.hankyung.com/article/2026101140031",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16243819",
+  "https://www.news1.kr/photos/8152770",
+  "http://www.inews24.com/view/2013631",
+  "https://www.hankyung.com/article/2026101139971"
  ],
  "seen_titles": [
-  "최태원SK그룹회장,광주반도체부지점검…\"용인과공장병행건설할...",
-  "警'금융권해킹'수사고삐…전담수사팀43명으로확대",
-  "LG전자,보쉬와차량용'칩렛반도체'개발",
-  "최태원\"호남반도체팹규모,용인3분의2수준검토\"",
   "SK하이닉스주가168만원대…최태원회장이휴일'광주'찾은이유",
   "최태원회장“호남반도체공장최대한빨리착공…시점곧발표”",
   "도요타,中자동차합작사업재편…FAW·GAC와전기차경쟁력강화",
@@ -6001,7 +5997,11 @@
   "SK브로드밴드,Btv구독자에한국시리즈직관기회…최대60매",
   "삼성SDS,AI동맹늘리고제조로봇전환이끌어",
   "LGCNS,모듈형데이터센터기반AI팩토리로승부",
-  "KT,실행비서가손안에…AI중심으로앱개편"
+  "KT,실행비서가손안에…AI중심으로앱개편",
+  "\"칸터20점11리바운드\"…삼성,소노꺾고23년만에개막3연승",
+  "최원준,1루에서아웃",
+  "로봇용D램수요4년새20배…삼성·SK,새시장공략",
+  "SK텔레콤,데이터센터짓고,모델개발…'풀스택AI'가속"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-10-11T16:30:33.228160+09:00",
    "비서가 안에 실행 개편 중심으로 ~KT"
+  ],
+  [
+   "2026-10-11T16:32:13.840905+09:00",
+   "데이터센터 개발 모델 짓고 풀스택 ~SKT 가속"
   ]
  ],
- "last_run": "2026-10-11T16:30:51.423039+09:00",
+ "last_run": "2026-10-11T16:32:35.154764+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
