@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6856992_37004.html",
-  "https://www.yna.co.kr/view/AKR20261010044200083?input=1195m",
   "https://news.jtbc.co.kr/article/NB12322322?influxDiv=NAVER",
   "https://www.aitimes.com/news/articleView.html?idxno=216122",
   "https://www.newsis.com/view/NISX20261010_0003820608",
@@ -2999,11 +2997,11 @@
   "https://www.dt.co.kr/article/12088432",
   "https://biz.sbs.co.kr/article_hub/20000339261?division=NAVER",
   "https://www.etoday.co.kr/news/view/2634383",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494251"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494251",
+  "https://www.etoday.co.kr/news/view/2634387",
+  "http://www.snmnews.com/news/articleView.html?idxno=575685"
  ],
  "seen_titles": [
-  "HoldA.I.CompaniesLiable",
-  "금융권해킹'아르텍스'공개중단…기존용제한한계",
   "\"1866조원기금지킨다\"국민연금공단,금융권해킹대비긴급점검",
   "JosephGordon-LevittHasSomeThingstoSayAboutA.I.",
   "美,AI사고신고·시정의무화…앤트로픽모델오작동에규제강화",
@@ -6001,7 +5999,9 @@
   "美AI기업데이터센터확보속도전…앤트로픽,아이렌과클라우드계약",
   "'1만피가나?결국꿈이었네'...미장으로유턴한개미들",
   "“아마존,데카트70억달러에인수협상중”",
-  "믿었던하드웨어지갑의배신?...1200억규모암호화폐도난사건내막"
+  "믿었던하드웨어지갑의배신?...1200억규모암호화폐도난사건내막",
+  "KB證“삼성전자,영업익세계1위…HBM4·주주환원재평가기대”",
+  "[황병성칼럼]'밴플리트상'수상소감"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-10-12T07:42:14.499245+09:00",
    "기대 급성장하는 ~SKT 데이터센터 매수 NH 주도권 확보"
+  ],
+  [
+   "2026-10-12T07:46:16.212441+09:00",
+   "소감 플리트상 수상"
   ]
  ],
- "last_run": "2026-10-12T07:44:34.091709+09:00",
+ "last_run": "2026-10-12T07:46:36.636784+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
