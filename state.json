@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1413242",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259504",
-  "https://www.yna.co.kr/view/AKR20261008179100003?input=1195m",
   "https://view.asiae.co.kr/article/2026100808435070227",
   "https://www.news1.kr/finance/general-finance/6314844",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610080040&t=NNv",
@@ -2999,12 +2996,12 @@
   "https://zdnet.co.kr/view/?no=20261011084533",
   "https://www.mediapen.com/news/view/1128152",
   "https://www.ppss.kr/news/articleView.html?idxno=314835",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312875"
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=312875",
+  "https://www.newsen.com/news_view.php?uid=202610110811512110",
+  "https://www.fnnews.com/news/202610110921550136",
+  "https://biz.heraldcorp.com/article/10898415"
  ],
  "seen_titles": [
-  "멕시코9월자동차수출12%급감…미국관세압박에생산도15%줄어",
-  "금융권해외해킹18건중16건추적난항…\"역량강화해야\"",
-  "우크라,한국대사소환에“외교가감정보다우선해야”",
   "금융권해외발해킹에'깜깜이'…18건중16건공격자불명",
   "뉴욕증시,AI매출·차입우려에혼조…나스닥1.3%하락",
   "넥써쓰장현국의원스토어승부수,이젠실적으로답할때[오늘의리더...",
@@ -6001,7 +5998,10 @@
   "엔비디아,美리플렉션AI에추가투자·인수협상중",
   "잘키운기업,‘이혼·상속’에흔들…재계“경영안정성우려”",
   "KB국민은행,'내년보안예산1천억원시대'선언…AI방패로금융권해...",
-  "해킹공격은AI로빨라졌는데기업보안·정부감독은제자리"
+  "해킹공격은AI로빨라졌는데기업보안·정부감독은제자리",
+  "“넌나의자부심”야구선수황재균진짜끝났다,파이널경기→눈물...",
+  "국책은행해킹시도올해100만건넘어'최다'",
+  "핀테크해킹대응나섰지만…“보안비용부담에망분리문턱높아”"
  ],
  "recent_sigs": [
   [
@@ -6267,9 +6267,13 @@
   [
    "2026-10-11T09:14:16.021598+09:00",
    "배후 노린 금융권 추적하니 대행 디도스 한국 연루"
+  ],
+  [
+   "2026-10-11T09:26:14.134309+09:00",
+   "망분리 대응 보안 부담에 높아 문턱 나섰지만 비용 핀테크"
   ]
  ],
- "last_run": "2026-10-11T09:24:33.106272+09:00",
+ "last_run": "2026-10-11T09:26:31.976850+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
