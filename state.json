@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/briefing/419724",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90187",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880924",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856040",
-  "https://www.gokorea.kr/news/articleView.html?idxno=880923",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103206",
-  "https://www.fnnews.com/news/202610090907350657",
-  "https://www.maniareport.com/view.php?ud=2026100909100959076cf2d78c68_19",
-  "https://www.g-enews.com/view.php?ud=202610090906456859cd0bfacc1c_1",
-  "https://www.lawleader.co.kr/news/articleView.html?idxno=20122",
   "http://www.newsprime.co.kr/news/article.html?no=750430",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610082341167670974",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493964",
@@ -2999,19 +2989,19 @@
   "https://news.jtbc.co.kr/article/NB12322365?influxDiv=NAVER",
   "https://biz.chosun.com/policy/politics/president_office/2026/10/11/WFO4ANOCDRCULO7ACRP5RKKGEE/",
   "https://biz.heraldcorp.com/article/10897661",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261011095804xUB"
+  "http://www.yonhapnewstv.co.kr/news/AKR20261011095804xUB",
+  "https://www.xportsnews.com/article/2206333",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3717790",
+  "https://www.ddaily.co.kr/page/view/2026100910143199140",
+  "https://www.m-i.kr/news/articleView.html?idxno=2003864",
+  "https://www.news1.kr/bio/welfare-medical/6315803",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65554",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261011095926Fzw",
+  "https://www.ytn.co.kr/_ln/0102_202610110959042364",
+  "https://www.sedaily.com/article/20099974",
+  "https://www.m-i.kr/news/articleView.html?idxno=2003889"
  ],
  "seen_titles": [
-  "쿠팡한밤중2시간여‘먹통’…업그레이드과정서오류",
-  "쿠팡·쿠팡이츠·쿠팡플레이등한밤중접속장애…주문·배송차질",
-  "오픈AI,GPT-6무료이용자까지확대…질문분석해화면구성하는‘인...",
-  "AI로진화한해킹…‘시험대’에오른경찰사이버수사",
-  "한국금융권공격한중국26세해커…'어설픈신원노출'로덜미",
-  "\"말레이청정에너지타고AI허브구축\"…소프트뱅크·그랩,사라왁진...",
-  "美'AI황금시대'선언하면서외국인인재차단",
-  "델,새프리미엄노트북'델XPS16크리에이터에디션'공개",
-  "[올댓차이나]TSMC3분기매출62.8조원·50.9%↑…AI수요에사상최고",
-  "쿠팡·쿠팡이츠한밤중먹통…\"접속전부멈춰\"",
   "중국외교부,'한국금융권해커'의혹에\"구체적상황몰라\"",
   "[오후뉴스브리핑]토스·광주은행,스테이블코인QR결제검증外",
   "국제유가급등·기술주약세뉴욕증시혼조…나스닥1.3%하락",
@@ -6001,7 +5991,17 @@
   "이대통령\"해외불법사이트차단안되면'물리적파괴·폐쇄'명령\"",
   "李“해외소재범죄사이트,물리적폐쇄조치명령”",
   "靑“AI해킹일상화…금융·국방이가장위험”",
-  "한은·국책은행해킹시도급증…올해9월까지100만건돌파"
+  "한은·국책은행해킹시도급증…올해9월까지100만건돌파",
+  "\"골든글러브꼭받아야죠\"감독도힘실어준이선수…'PS무산'SSG의최...",
+  "김용판달서구청장,한글날맞아'다문화한글백일장'개최...100여명...",
+  "[DD주간브리핑]국감,정유4사대표부터애플·텔레그램까지…KES·SEDE...",
+  "예가람뚫렸지만67곳묶인중앙회전산망은버텼다",
+  "의료기관사이버침해114건…환자정보유출에다크웹노출까지",
+  "한국겨냥한중국발해킹도구'아르텍스'결국문닫는다",
+  "AI해킹경고있었는데…금융권,2주뒤연쇄침해사고",
+  "\"금융보안원,해킹2주전AI에이전트공격경고\"",
+  "해킹위협커지는데…금융사7곳,올해보안예산삭감",
+  "해킹도미노비껴간카드업계…'카드대란'이남긴보안체력"
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,21 @@
   [
    "2026-10-11T09:58:14.854435+09:00",
    "AI쇼핑으로 새판짜기 간편지급 카드사 핀테크 시동 시대"
+  ],
+  [
+   "2026-10-11T10:02:17.144562+09:00",
+   "겨냥한 아르텍스 중국발 닫는다 결국 한국 도구"
+  ],
+  [
+   "2026-10-11T10:02:17.144562+09:00",
+   "위협 금융사 7곳 보안예산 커지는데 올해 삭감"
+  ],
+  [
+   "2026-10-11T10:02:17.144562+09:00",
+   "카드대란 남긴 카드업계 도미노 비껴간 체력 보안"
   ]
  ],
- "last_run": "2026-10-11T10:00:55.241823+09:00",
+ "last_run": "2026-10-11T10:02:43.682165+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
