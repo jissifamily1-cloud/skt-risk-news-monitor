@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790645&plink=ORI&cooper=NAVER",
-  "https://www.donga.com/news/Sports/article/all/20261009/134815599/1",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790646&plink=ORI&cooper=NAVER",
-  "http://www.stoo.com/article.php?aid=109293180120",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6856846_37004.html",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6856847_37004.html",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6856849_37004.html",
@@ -2999,13 +2995,13 @@
   "https://www.ytn.co.kr/_ln/0107_202610111825005840",
   "https://www.fnnews.com/news/202610111824115160",
   "https://www.busan.com/view/busan/view.php?code=2026101118241025865",
-  "https://www.dt.co.kr/article/12088407"
+  "https://www.dt.co.kr/article/12088407",
+  "https://www.bigtanews.co.kr/article/view/big202610090005",
+  "http://www.gndomin.com/news/articleView.html?idxno=492235",
+  "https://www.hani.co.kr/arti/international/international_general/1281828.html",
+  "https://www.ajunews.com/view/20261011182401001"
  ],
  "seen_titles": [
-  "'명가재건'삼성,정관장꺾고10년만에개막2연승…kt는소노제압",
-  "최태원,광주반도체부지전격방문…AI팹'속도전'",
-  "[기업이슈]\"비슷한제품이면친환경\"…친환경소비늘자재생소재도...",
-  "최태원회장\"광주반도체공장최대한빨리짓겠다\"…호남권반도체클러...",
   "우크라이나공격에러시아벨고로드2명사망·4명부상",
   "닛케이0.8%·나스닥1.3%하락…트럼프이란발언에유가급락",
   "BBC스튜디오스,스페인·포르투갈에마드리드거점신설…시청자1600만...",
@@ -6001,7 +5997,11 @@
   "롯데에덜미잡힌KIA,마지막날LG와3위놓고'끝장승부'",
   "최태원,호남반도체에힘실었지만…\"부지누가골랐나\"진실공방'시끌...",
   "한은·국책은행도해킹위험…경고듣고도당한금융권",
-  "수술실CCTV해킹없다지만…‘다크웹’자료유출등의·병원사이버공..."
+  "수술실CCTV해킹없다지만…‘다크웹’자료유출등의·병원사이버공...",
+  "미래에셋증권,10월둘째주LG이노텍등8종목매수추천",
+  "KAI·방사청,해병대상륙기동헬기1145억규모계약",
+  "라이칭더“평화소중하지만자유포기안해”…미·중대화엔“환영...",
+  "잇단해킹에놀란은행권…보안투자·인력확충속도"
  ],
  "recent_sigs": [
   [
@@ -6401,7 +6401,7 @@
    "사이버공 없다지만 자료유출 병원 수술실 다크웹 CCTV"
   ]
  ],
- "last_run": "2026-10-11T18:28:38.753574+09:00",
+ "last_run": "2026-10-11T18:30:48.449272+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
