@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202610090005",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=448983",
-  "https://www.starnewskorea.com/sports/2026/10/09/2026100912273689954",
-  "https://www.donga.com/news/Economy/article/all/20261008/134807647/1",
   "https://kpenews.com/View.aspx?No=4257685",
   "https://www.edaily.co.kr/News/Read?newsId=02158246645611280&mediaCodeNo=257",
   "https://www.koreadaily.com/article/20261008214012607",
@@ -2999,13 +2995,13 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3717887",
   "https://www.imaeil.com/page/view/2026101113101186496",
   "http://www.metroseoul.co.kr/article/20261011500142",
-  "https://www.etoday.co.kr/news/view/2634304"
+  "https://www.etoday.co.kr/news/view/2634304",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279587",
+  "https://www.sportsseoul.com/news/read/1640592",
+  "http://www.kdfnews.com/news/articleView.html?idxno=189102",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=16956"
  ],
  "seen_titles": [
-  "삼성임시선발사토시는3이닝,페덱은1이닝깜짝등판한다…“본인이...",
-  "[HOT마켓트렌드]LG유플러스,매장없는지역고객위한'찾아가는매장...",
-  "KT롤스터,비디디·퍼펙트와2028년까지동행",
-  "한국금융권연쇄겨냥한해외발해킹에비상등켜져,시중은행도뚫렸...",
   "‘전세계해커맛집’된한국금융권…누가어디서공격했는지모른다",
   "오픈AI매출500억달러…기존700억보도와격차에AI주동반하락",
   "\"팔면80%남는다\"…HBM날개단SK하이닉스,역대급수익성예고",
@@ -6001,7 +5997,11 @@
   "연산대추문화축제의특별한초대...'빛의화가:베르메르레플리카展",
   "휴머노이드로봇D램수요,2030년20배…삼성·SK새수요처부상",
   "[대체불가K-에너지]AI가삼킨전력…메가프로젝트시대,전력망은버틸...",
-  "엔비디아,리플렉션AI인수ㆍ추가투자저울질⋯‘개방형AI’로중국견..."
+  "엔비디아,리플렉션AI인수ㆍ추가투자저울질⋯‘개방형AI’로중국견...",
+  "SKT,2300만고객·AI·인프라기반'토큰게이트웨이'사업화추진",
+  "‘이겨야하는’KIA,전상현3연투대기…‘쳐야하는’레이예스,1번...",
+  "지식재산처,연말온라인위조상품집중차단…생활용품·해외직구겨냥",
+  "하나은행에서는왜하필89명의개인정보만해킹했을까"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-10-11T13:14:16.401518+09:00",
    "추적 알려진 크라우드스트라이크 빙산 에이전트 일각 6개 AI해킹"
+  ],
+  [
+   "2026-10-11T13:20:25.383596+09:00",
+   "개인정보만 하필 해킹했을까 89명의 하나은행에서는"
   ]
  ],
- "last_run": "2026-10-11T13:18:34.797743+09:00",
+ "last_run": "2026-10-11T13:20:47.743905+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
