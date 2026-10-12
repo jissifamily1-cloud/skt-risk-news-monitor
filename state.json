@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026100662721",
-  "https://biz.sbs.co.kr/article_hub/20000338516?division=NAVER",
-  "http://www.economytalk.kr/news/articleView.html?idxno=424503",
-  "https://www.dt.co.kr/article/12087712",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785264&plink=ORI&cooper=NAVER",
-  "http://www.newstomato.com/ReadNews.aspx?no=1315742&inflow=N",
-  "https://www.khan.co.kr/article/202610061603011",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8678687",
-  "https://www.edaily.co.kr/News/Read?newsId=04175446645610296&mediaCodeNo=257",
-  "https://www.etoday.co.kr/news/view/2632892",
-  "https://www.etnews.com/20261006000344",
   "https://www.thelec.kr/news/articleView.html?idxno=63284",
   "http://www.dailypop.kr/news/articleView.html?idxno=103073",
   "https://www.newsis.com/view/NISX20261006_0003815525",
@@ -2999,20 +2988,20 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706286",
   "https://www.mt.co.kr/stock/2026/10/12/2026101209170764569",
   "https://www.fnnews.com/news/202610120857342997",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279742"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279742",
+  "https://mhnse.com/news/articleView.html?idxno=1588270",
+  "https://www.bntnews.co.kr/article/view/bnt202610120154",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3718227",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3718230",
+  "https://www.news1.kr/finance/general-finance/6316386",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706290",
+  "https://biz.sbs.co.kr/article_hub/20000339285?division=NAVER",
+  "https://www.etoday.co.kr/news/view/2634469",
+  "https://www.news1.kr/it-science/cc-newmedia/6316352",
+  "https://www.news1.kr/finance/general-stock/6316383",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610120912464010099"
  ],
  "seen_titles": [
-  "[더벨]MBK·VIG이어ADR까지…TPG의카모엑시트,또카카오가변수",
-  "새CEO가애플의디자인마법을되살릴수있을까",
-  "OpenAIpublicahallazgossobre377problemasmatemáticosyagitaaúnm",
-  "한화자산운용,사내AI해커톤'2026AI플러스톤'성료",
-  "JungYeon-tae'sProfessionalGPTRevolution6|CanAIDetectFinancia",
-  "[칼럼]수학올림피아드는왜AI의시험대가됐을까?",
-  "신생아보온기부터휠체어길찾기까지…DDP서91개국디자인경쟁",
-  "한화운용,사내AI해커톤경진대회'2026AI플러스톤'개최",
-  "한화운용,사내AI해커톤성료…‘AINative운용사’전환속도",
-  "[生기업TALK]한화자산운용,사내AI해커톤경진대회성료...아이디어...",
-  "[생명평화칼럼]AI자본주의의축적위기와생명평화문명전환",
   "산호초복원부터신생아보호까지,세계바꾸는'디자인해법'서울에모...",
   "U.S.DepartmentofDefensecompletelyhaltsuseofblacklistedAnthro",
   "한화자산운용,사내AI해커톤개최…신입사원만든‘펀드대시보드’...",
@@ -6001,7 +5990,18 @@
   "KT,'모두의AI'서밋개최…17개기업과서비스준비점검",
   "오픈AI매출논란에또불거진AI거품론…삼전닉스동반하락",
   "불법스팸과태료464억원못받았다…10년넘은체납이77%",
-  "SK그룹정체성담긴'아이젠',1기참가자모집"
+  "SK그룹정체성담긴'아이젠',1기참가자모집",
+  "‘힐리어드쾅쾅!’KT,9연승질주…롯데는한동희만루포로승리,'안...",
+  "KBO프로야구중계일정…순위결과",
+  "전남광주통합특별시,햇빛소득마을2차공모105곳선정…총125개로확...",
+  "'2026울산공업축제',시민참여확대…남구둔치서성황리막내려",
+  "일반신용정보차세대시스템개편완료…대출·카드·계좌개설활용",
+  "SKT,T팩토리성수에'K-보물길'선봬…지역박물관관광연계",
+  "SKT,국립중앙박물관과손잡고'K-보물길'조성",
+  "KT,‘모두의AI’12월정식출시…17개기업과서비스고도화논의",
+  "KT,17개기업과'모두의AI'출격채비…12월정식출시",
+  "삼전-1%SK하닉-2%'동반하락'…오픈AI논란美반도체약세[핫종목]",
+  "[텔코NOW]SKTㆍKTㆍLGU+"
  ],
  "recent_sigs": [
   [
@@ -6487,9 +6487,33 @@
   [
    "2026-10-12T09:20:24.353536+09:00",
    "아이젠 1기 SK그룹 정체성 담긴 모집 참가자"
+  ],
+  [
+   "2026-10-12T09:22:14.557486+09:00",
+   "국립중앙박물관과 손잡고 조성 ~SKT 보물길"
+  ],
+  [
+   "2026-10-12T09:22:14.557486+09:00",
+   "~LGU ~SKT LGU ~KT"
+  ],
+  [
+   "2026-10-12T09:22:14.557486+09:00",
+   "~LGU ~SKT LGU ~KT"
+  ],
+  [
+   "2026-10-12T09:22:14.557486+09:00",
+   "~LGU ~SKT LGU ~KT"
+  ],
+  [
+   "2026-10-12T09:22:14.557486+09:00",
+   "~LGU ~SKT LGU ~KT"
+  ],
+  [
+   "2026-10-12T09:22:14.557486+09:00",
+   "하락 삼전 반도체 약세 SK하닉 동반 논란"
   ]
  ],
- "last_run": "2026-10-12T09:20:48.084636+09:00",
+ "last_run": "2026-10-12T09:22:49.417486+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
