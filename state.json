@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.fnnews.com/news/202607221503516582",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=250405",
-  "http://www.fnnews.com/news/202607071021529227",
-  "http://www.fnnews.com/news/202607021827006060",
-  "https://view.asiae.co.kr/article/2026062616565302401",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=86671",
-  "https://www.ajunews.com/view/20260619161716262",
-  "https://www.chosun.com/economy/money/2026/06/23/ATM2INJMURFLDHQOK53RQ6KCK4/",
-  "https://www.etoday.co.kr/news/view/2595746",
-  "http://www.popcornnews.net/news/articleView.html?idxno=124364",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6935056",
   "https://view.asiae.co.kr/article/2026061709240454428",
   "http://www.fnnews.com/news/202606160756181324",
   "https://www.chosun.com/economy/tech_it/2026/06/15/HEOE2O5KVBABPIVNZB7PBQY73M/",
@@ -2999,20 +2988,20 @@
   "http://www.metroseoul.co.kr/article/20261012500508",
   "http://www.lkp.news/news/articleView.html?idxno=84819",
   "https://www.mk.co.kr/article/12173698",
-  "https://www.mk.co.kr/article/12173697"
+  "https://www.mk.co.kr/article/12173697",
+  "https://mhnse.com/news/articleView.html?idxno=1588841",
+  "https://biz.chosun.com/it-science/ict/2026/10/12/6IREPF3XYFF7PJJ2WUJDF3TCBQ/",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259577",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=321967",
+  "https://www.koreatimes.co.kr/path/A2026101215490003912",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=367085",
+  "https://www.cstimes.com/news/articleView.html?idxno=723625",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267681",
+  "https://www.ddaily.co.kr/page/view/2026101215581539041",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3718911",
+  "https://www.khan.co.kr/article/202610121610001"
  ],
  "seen_titles": [
-  "인텔,AI투자위해유상증자…불확실성높은AI시대구글과애플은다른...",
-  "[AI쩐의전쟁]①현금떨어진빅테크들...자금조달에물불안가린다",
-  "전력·환경논란에뿔난주민들…美데이터센터건설금지구역500곳돌...",
-  "메타,첫AI코딩에이전트공개⋯오픈AIㆍ엔스로픽과본격경쟁",
-  "\"데이터센터매출2배급증\"…AMD,2분기115억달러사상최대실적",
-  "\"AI거품이라더니\"…삼성전자·SK하이닉스,사상최대실적으로답했다",
-  "[세상보기]AI와인문역량",
-  "AI와군비경쟁에치솟는광물수요",
-  "[김대호진단]반도체열전(22)엔스로픽...인공지능AI남매의반란",
-  "\"'AI거품론'무엇?\"…삼성·SK,美빅테크와9500억달러협력",
-  "[AI전쟁]삼성전자의대규모프랑스미스트랄AI투자,한국'소버린A...",
   "삼성,프랑스AI기업미스트랄에수억유로투자할수도",
   "중국산AI,가성비앞세워'진격'...에어비앤비·지멘스·AWS도쓴다",
   "NHN전사클로드도입...'에이전틱데이'개최",
@@ -6001,7 +5990,18 @@
   "김종철방미통위원장\"AI악용범죄근절,이용자보호법령마련하겠다...",
   "무선성장둔화된LG유플러스...문화예술마케팅으로락인효과·파주A...",
   "\"여러AI끼리보안업무분담…30분걸리던해킹방어12초로\"",
-  "\"사후약방문보안은그만…AX판짤때부터해킹방패심어야\""
+  "\"사후약방문보안은그만…AX판짤때부터해킹방패심어야\"",
+  "방망이추태부린뒤눈물보인최원준...최종전안타기록앞두고평정...",
+  "‘AI대부’얀르쿤“피지컬AI혁명,韓에기회”…AI리더들“제조...",
+  "[현장]외국인'전용'아닌한국인과'동일한'서비스···카카오뱅크의...",
+  "가전라인줄이고AI냉각공장짓는다…삼성·LG'백색가전이후'승부",
+  "KOSPIplunges3.65%despiteSamsung'srecordearnings",
+  "네이버클라우드,베트남FPT과협력...AI팩토리사업공동추진",
+  "\"녹음파일자동첨부\"SKT에이닷,음성스팸신고탑재",
+  "최태원\"사회적가치창출에보상받는새자본주의앞당겨야\"",
+  "'WOW'부터8800GTX까지…엔비디아,'지포스데이2026'개최",
+  "국감에서답변하는김종철방송미디어통신위원회위원장",
+  "D램수요폭증속에“CXMT,연내차세대D램출시예고”…거세지는중..."
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,13 @@
   [
    "2026-10-12T16:10:27.420814+09:00",
    "때부터 보안은 그만 해킹방패 사후약방문 AX판 심어야"
+  ],
+  [
+   "2026-10-12T16:12:15.188156+09:00",
+   "출시 예고 CXMT 수요 D램 연내 속에 차세대 폭증 거세지는"
   ]
  ],
- "last_run": "2026-10-12T16:10:51.773821+09:00",
+ "last_run": "2026-10-12T16:12:37.799709+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
