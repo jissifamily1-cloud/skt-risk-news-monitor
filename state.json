@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://idsn.co.kr/news/view/1065592766659397",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=45429",
-  "https://www.khan.co.kr/article/202610121506001",
-  "https://www.etnews.com/20261012000283",
-  "https://www.dt.co.kr/article/12088538",
-  "https://www.segye.com/newsView/20261012514914?OutUrl=naver",
-  "https://www.news2day.co.kr/article/20261012500210",
   "https://www.betanews.net/article/view/beta202610120127",
   "http://www.inews24.com/view/2013971",
   "https://www.nspna.com/news/?newsid=831257",
@@ -2999,16 +2992,16 @@
   "https://www.g-enews.com/view.php?ud=20261013040537731620990b2dc5_1",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727507",
   "https://www.edaily.co.kr/News/Read?newsId=01918806645612592&mediaCodeNo=257",
-  "https://www.news1.kr/it-science/security-hacking/6313082"
+  "https://www.news1.kr/it-science/security-hacking/6313082",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=360461",
+  "https://www.g-enews.com/view.php?ud=2026101222500075180c8c1c064d_1",
+  "https://biz.heraldcorp.com/article/10900274",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96912",
+  "http://www.beyondpost.co.kr/view.php?ud=2026101306385741552aaae0046f_30",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41006",
+  "https://www.sedaily.com/article/20100675"
  ],
  "seen_titles": [
-  "‘가을야구예매전쟁시작’KBO,13일와일드카드결정전예매개시…...",
-  "한동대파랑뜰,하루만에'내회사'운영하는경영체험마련",
-  "김정관,5극3특현장행보…서남권800조반도체'속도전'",
-  "최태원\"사회적가치보상받는'새자본주의'전환필요\"",
-  "SK,2년제청년프로그램'아이젠'신설…AI시대인재육성",
-  "[정해균의Zoom-人]병역특례논의속재조명…경영무대누비는장교출...",
-  "[LCK]“롤드컵5연패노린다!”롤드컵출격하는LCK주요포인트는?",
   "세종시문화관광재단,한글문화산업전성료…관람객3만명돌파",
   "삼성물산,'반포푸르지오아파트리모델링'입찰제안서제출…'N.캔버스...",
   "AI버블,언제꺼질까…\"수요보다AI가격이결정할것\"WSJ",
@@ -6001,7 +5994,14 @@
   "말레이시아야당,261조원희토류관리전담기구'리나스'설립제안",
   "유가뛰고반도체밀렸다…뉴욕증시혼조,다우만상승",
   "반도체가연투자물꼬...글로벌큰손,전력인프라부터국채까지눈독",
-  "[흔들린보안시계]AI가해킹찾아도대응은사람몫…'완전자동화'한계"
+  "[흔들린보안시계]AI가해킹찾아도대응은사람몫…'완전자동화'한계",
+  "통신3사,AIDC로성장돌파구…같은목표,다른전략",
+  "\"AI전력난·오일쇼크뚫는다\"…中권력핵심으로부상한'에너지기술...",
+  "중국發악재·유가상승에뉴욕증시혼조…다우홀로상승",
+  "국제유가급등에반도체주급락…뉴욕증시혼조마감",
+  "필라델피아반도체지수2.67%,마이크론3.88%↓...반도체주,투심급랭",
+  "맑은소프트해킹에237만명'비번·CI·DI'몽땅유출파장",
+  "엔비디아,CPU도AMD·인텔추월하나…미즈호“내년매출1위”[마켓무..."
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-10-13T06:46:15.144259+09:00",
    "AI가 한계 찾아도 자동화 완전 대응은 사람"
+  ],
+  [
+   "2026-10-13T06:48:15.422621+09:00",
+   "인텔 미즈호 추월하나 1위 매출 CPU도 내년 AMD 마켓무"
   ]
  ],
- "last_run": "2026-10-13T06:46:38.994861+09:00",
+ "last_run": "2026-10-13T06:48:36.483460+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
