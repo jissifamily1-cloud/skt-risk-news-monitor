@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2014002",
-  "https://www.mydaily.co.kr/page/view/2026101215513383749",
-  "http://www.osen.co.kr/article/G1112891544",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=395064",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729107",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202272",
   "https://www.yna.co.kr/view/AKR20261012038751008?input=1195m",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=302428",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2331094",
@@ -2999,15 +2993,15 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4438856",
   "https://www.joongangenews.com/news/articleView.html?idxno=554328",
   "https://www.kado.net/news/articleView.html?idxno=2077703",
-  "https://biz.heraldcorp.com/article/10900350"
+  "https://biz.heraldcorp.com/article/10900350",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408066",
+  "https://www.ngonews.kr/news/articleView.html?idxno=240393",
+  "https://thetracker.co.kr/View.aspx?No=4260726",
+  "https://www.jasm.co.kr/news/view/321215/?sc=Naver",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215022",
+  "https://biz.sbs.co.kr/article_hub/20000339550?division=NAVER"
  ],
  "seen_titles": [
-  "토스뱅크,'입금오류닷새만에정정안내'...고객들혼선이어져",
-  "집앞CCTV가적군의눈으로…웹캠12억대,AI만나전쟁의새무기로변...",
-  "[속보]국회방미통위국감,이진숙제척안가결…민주당\"이해충돌\"",
-  "최태원,‘이타심의경제’에시장의법칙더했다",
-  "[단독]인터넷기사불렀더니하이오더영업…與\"공정거래법위반소지...",
-  "'구자욱의공백을메워줘!'최형우,134일만에좌익수선발출장...디아...",
   "장동혁\"용인갑조직위원장결선재투표…투표권침해바로잡아야\"",
   "[칼럼]AMD리사수방한이남긴화두.더이상'소문난잔치'에그쳐선...",
   "[종합]한국증시만'왕따'지속왜그렇나?...코스피3.6%급락반면일...",
@@ -6001,7 +5995,13 @@
   "[뉴욕마켓워치]CXMT굴기에경계심고조…달러↑주식혼조",
   "델테크놀로지스,IBK기업은행백업시스템구축…금융데이터3중보호...",
   "최태원,'노소영몫재산분할33%'불복…상고이유서제출",
-  "금감원,‘해킹피해’예가람저축은행현장점검…검사전환검토"
+  "금감원,‘해킹피해’예가람저축은행현장점검…검사전환검토",
+  "경북,돌봄·제조현장AI적용확대…로봇보급·AX실증병행",
+  "삼성전자,'라리스트2027'서AI기반혁신적주방경험선보여",
+  "삼성전자,‘라리스트2027’서AI주방가전선봬",
+  "금감원,'5만건개인정보유출'예가람저축은행현장점검",
+  "델,IBK기업은행하남데이터센터백업인프라구축···사이버복원력...",
+  "[기업이슈]호르무즈통항75%급감에해운주강세"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-10-13T08:18:13.594484+09:00",
    "추론은 GPU 이원화 시동 MS 자체 학습은"
+  ],
+  [
+   "2026-10-13T08:22:14.139575+09:00",
+   "통항 해운주 급감에 호르무즈 강세"
   ]
  ],
- "last_run": "2026-10-13T08:20:42.435667+09:00",
+ "last_run": "2026-10-13T08:22:34.226053+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
