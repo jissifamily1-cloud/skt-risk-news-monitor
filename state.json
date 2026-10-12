@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438770",
-  "https://www.hankyung.com/article/2026101253721",
-  "https://biz.chosun.com/it-science/ict/2026/10/12/P7WWRMAIJRDTZAUNH2KILAHKWY/",
-  "https://www.newspim.com/news/view/20261012001244",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215015",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171823",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3718901",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=407022",
   "https://www.mk.co.kr/article/12173689",
   "https://www.hankyung.com/article/202610126608i",
   "https://www.slist.kr/news/articleView.html?idxno=772777",
@@ -2999,17 +2991,17 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610130010&t=NN",
   "http://www.newsdream.kr/news/articleView.html?idxno=119808",
   "https://www.youthdaily.co.kr/news/article.html?no=228245",
-  "https://www.medigatenews.com/news/2477567267"
+  "https://www.medigatenews.com/news/2477567267",
+  "https://edu.chosun.com/site/data/html_dir/2026/10/12/2026101280155.html",
+  "http://www.newsprime.co.kr/news/article.html?no=750652",
+  "https://www.dt.co.kr/article/12088559",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706605",
+  "https://www.youthdaily.co.kr/news/article.html?no=228244",
+  "https://www.edaily.co.kr/News/Read?newsId=02246806645612592&mediaCodeNo=257",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706596",
+  "https://biz.heraldcorp.com/article/10900403"
  ],
  "seen_titles": [
-  "[저녁뉴스브리핑]유조선2척공격…선원2명실종外",
-  "불닭볶음면·비비고·CJ올리브영,'해외짝퉁'에몸살",
-  "글로벌'톱3'키운정의선현대차회장,다음과제는'SDV·로봇'",
-  "삼성전자호실적바통잇는ASML·TSMC…이번주실적발표'관전포인트...",
-  "이억원금융위원장,SC그룹과AI금융리스크·금융허브논의",
-  "토스뱅크,입금오류사고닷새지나서야정정·취소안내'뒷북'",
-  "KT,'모두의AIConnectSummit2026'개최…12월출시wn비",
-  "KT컨소시엄,‘모두의AI서밋’개최...17개사회동",
   "김종철방송미디어통신위원회위원장인사말",
   "[오늘의통신]SKT·KT·LG유플러스",
   "'1兆과징금시대'여는개인정보위…법리·AI전문가대거합류",
@@ -6001,7 +5993,15 @@
   "\"中창신메모리기술추격우려재부상\"...美메모리주부진-[굿모닝글...",
   "삼성전자,'라리스트2027'참가…정상급셰프들에'AI주방'공개",
   "고객정보5만건유출추정...금감원,예가람저축은행현장점검",
-  "해킹에진료멈출수있는데…종합병원급이상43%보안관제없어"
+  "해킹에진료멈출수있는데…종합병원급이상43%보안관제없어",
+  "[김성윤의AI시대K-리더스]AI가인류를망친다면,핵전쟁이아닌일요...",
+  "[해외시황]뉴욕증시,中메모리경쟁우려·유가급등에'혼조'…나스닥...",
+  "[오늘의DT인]“AI가세상장악?그런건공상과학이자제임스본드식...",
+  "엔비디아탈출하던구글·메타,결국다시손잡았다…AI반도체와다른...",
+  "'금융권해킹'빌미사기기승…경찰,보이스피싱예·경보발령",
+  "엔비디아주관피지컬AI교육에900명지원…15대1경쟁률",
+  "7년된엔비디아제품50%인상…메모리비용급등영향",
+  "與이훈기“방미통위,‘쿠팡납치광고근절대책’마련해야…법안추..."
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,25 @@
   [
    "2026-10-13T08:44:15.763575+09:00",
    "진료 없어 이상 해킹에 보안관제 종합병원급 있는데 멈출"
+  ],
+  [
+   "2026-10-13T08:46:14.241647+09:00",
+   "다른 메타 탈출하던 다시 결국 손잡았다 반도체와 구글"
+  ],
+  [
+   "2026-10-13T08:46:14.241647+09:00",
+   "주관 지원 교육에 피지컬 경쟁률 900명 15대"
+  ],
+  [
+   "2026-10-13T08:46:14.241647+09:00",
+   "7년 영향 메모리 인상 급등 제품 비용"
+  ],
+  [
+   "2026-10-13T08:46:14.241647+09:00",
+   "이훈기 근절대책 마련해야 쿠팡 납치광고 법안"
   ]
  ],
- "last_run": "2026-10-13T08:44:38.217409+09:00",
+ "last_run": "2026-10-13T08:46:42.628508+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
