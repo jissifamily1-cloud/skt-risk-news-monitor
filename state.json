@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=149013",
-  "https://www.etnews.com/20261012000294",
-  "https://news.jtbc.co.kr/article/NB12322540?influxDiv=NAVER",
   "https://www.tleaves.co.kr/news/articleView.html?idxno=9955",
   "https://www.newspost.kr/news/articleView.html?idxno=226286",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424251",
@@ -2999,12 +2996,12 @@
   "https://www.etoday.co.kr/news/view/2634887",
   "https://www.dailian.co.kr/news/view/1700488/?sc=Naver",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=193093",
-  "https://biz.sbs.co.kr/article_hub/20000339535?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000339535?division=NAVER",
+  "https://www.mk.co.kr/article/12174065",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90436",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65641"
  ],
  "seen_titles": [
-  "굳갱랩스,국립공원공단과AI탐방안내서비스개발",
-  "방문객116만7000여명을기록한제44회금산세계인삼축제폐막",
-  "NH투자증권,'연금솔루션Lab화성캠퍼스'오픈",
   "미국정부AI규제공백속제3자평가기관급부상...'자금난·독립성'...",
   "[추승호의이슈in]통일부는헌법위에존재하는독립기구가아니다",
   "토스뱅크,입금오류정정안내..사고발생닷새지나",
@@ -6001,7 +5998,10 @@
   "뉴욕증시,반도체약세ㆍ사우디피격속혼조마감⋯나스닥0.44%↓[종합...",
   "실적은'최대'보안은'불안'…5대은행장,국감출석에리더십시험대",
   "SKT,AI보안사업확장본격화…기술개발넘어수익화모색",
-  "[마켓브리핑]中창신차세대메모리기술진전…반도체주'휘청'"
+  "[마켓브리핑]中창신차세대메모리기술진전…반도체주'휘청'",
+  "삼성,AI추론메모리‘풀스택’승부수",
+  "뉴욕증시혼조마감…유가급등·기술주약세S&P500하락",
+  "구글·애플인앱결제과징금,\"10월안에의결\"…3년만에결론임박"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-10-13T07:08:18.530970+09:00",
    "급등 시간외 차세대 전력 개발 손잡은 보드 나비타스"
+  ],
+  [
+   "2026-10-13T07:18:17.419656+09:00",
+   "만에 3년 구글 결론 과징금 애플 10월 인앱결제 임박 안에 의결"
   ]
  ],
- "last_run": "2026-10-13T07:16:34.944653+09:00",
+ "last_run": "2026-10-13T07:18:36.890898+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
