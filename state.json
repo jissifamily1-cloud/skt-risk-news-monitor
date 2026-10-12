@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791648&plink=ORI&cooper=NAVER",
-  "http://www.segyebiz.com/newsView/20261011505201?OutUrl=naver",
-  "https://zdnet.co.kr/view/?no=20261010221851",
-  "https://www.fnnews.com/news/202610110916193570",
-  "https://zdnet.co.kr/view/?no=20261011084533",
-  "https://www.mediapen.com/news/view/1128152",
-  "https://www.ppss.kr/news/articleView.html?idxno=314835",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312875",
-  "https://www.newsen.com/news_view.php?uid=202610110811512110",
-  "https://www.fnnews.com/news/202610110921550136",
   "https://biz.heraldcorp.com/article/10898415",
   "https://www.sportschosun.com/baseball/2026-10-11/202610110100066680004320",
   "https://www.aitimes.com/news/articleView.html?idxno=216124",
@@ -2999,19 +2989,19 @@
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713247",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90291",
   "https://www.newsis.com/view/NISX20261012_0003821535",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214440"
+  "http://www.srtimes.kr/news/articleView.html?idxno=214440",
+  "https://www.mt.co.kr/stock/2026/10/09/2026100817445057794",
+  "https://zdnet.co.kr/view/?no=20261012102616",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3718338",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274444&CMPT_CD=P0010",
+  "https://zdnet.co.kr/view/?no=20261012102154",
+  "https://www.segye.com/newsView/20261012507962?OutUrl=naver",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706230",
+  "https://www.imaeil.com/page/view/2026101210092051484",
+  "https://www.pressman.kr/news/articleView.html?idxno=103947",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274166&CMPT_CD=P0010"
  ],
  "seen_titles": [
-  "AI해킹2주전금융보안원'경고'했다…수법·대응도설명",
-  "새마을금고58곳,해남솔라시도개발사업에돈몰았다…국가AI센터부...",
-  "삼성전자,내년메모리80%'장기계약완판'…AI부품시장,공급자우위...",
-  "[사설]‘피지컬AI챌린지2026’대구개최가던지는의미",
-  "소잃고외양간고치기…은행·통신·OTT투자확대총력",
-  "최태원회장,호남권반도체클러스터과감한속도전시사…전력·용수...",
-  "휴대전화꺼져도'마지막흔적'찾는다…LG유플러스,산악수색범위99...",
-  "금융권해킹불똥,공공·대학·교회로전방위확산…100만명정보유출",
-  "국책은행ㆍ한은해킹시도매년급증⋯올해100만건돌파",
-  "AI가해킹하는시대…SK쉴더스\"ShadowIT·API부터잡아라\"",
   "[국감]기업은행해킹시도458만건…올해도작년전체넘어",
   "한국금융권노린해킹배후추적하니…中디도스대행조직연루정...",
   "LGU+,기지국·접속기록활용해산악지역수색범위99%좁힌다",
@@ -6001,7 +5991,17 @@
   "하이닉스가키운솔리다임떼내는SK···최태원,AI사업움켜쥘까",
   "SK,AI시대청년인재키운다…2년간월300만원지원'아이젠'출범",
   "볼넷에배트내동댕이…KT최원준사과\"감정조절못한명백한잘못\"",
-  "[2026국감]한은·국책은행해킹시도100만건돌파…공격빈도매년늘..."
+  "[2026국감]한은·국책은행해킹시도100만건돌파…공격빈도매년늘...",
+  "\"이혼재산분할9440억주식매각\"...최태원,주가오르면돈번다",
+  "AI음성에이전트수요폭증…일레븐랩스,기업가치220억달러",
+  "대구시달서구청,달서하프마라톤에다회용컵1만3000개지원...\"일회...",
+  "주병기\"경제약자단체행동,담합서제외...전속고발제개편\"",
+  "주병기공정위원장\"배달앱·앱마켓독과점남용엄정대응\"",
+  "TSMC,美서AI칩핵심부품까지조달…‘반도체생산·패키징미국서완결...",
+  "엔비디아,오픈웨이트AI에점점과감한베팅...리플렉션AI인수까지검...",
+  "최태원'호남반도체클러스터'속도전강조…관련株급등",
+  "팝업부터문화관광·고객혜택까지…기업들,소비자접점확대",
+  "해킹피해반복,소비자에겐더많은'무기'가필요하다"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,17 @@
   [
    "2026-10-12T10:26:15.105746+09:00",
    "키운 움켜쥘까 솔리다임 SK 떼내는 사업 하이닉스가"
+  ],
+  [
+   "2026-10-12T10:28:14.694454+09:00",
+   "문화관광 소비자 접점 혜택까지 기업들 확대 팝업부터 고객"
+  ],
+  [
+   "2026-10-12T10:28:14.694454+09:00",
+   "소비자에겐 필요하다 무기 많은 피해 반복"
   ]
  ],
- "last_run": "2026-10-12T10:26:36.636785+09:00",
+ "last_run": "2026-10-12T10:28:40.175397+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
