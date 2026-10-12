@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20261012500342",
-  "https://www.m-economynews.com/news/article.html?no=71566",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=209507",
-  "https://www.widedaily.com/news/articleView.html?idxno=301878",
-  "http://www.breaknews.com/1242320",
   "https://www.kado.net/news/articleView.html?idxno=2077510",
   "https://www.joongangenews.com/news/articleView.html?idxno=553970",
   "https://www.itdaily.kr/news/articleView.html?idxno=242124",
@@ -2999,14 +2994,14 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2005011",
   "https://dealsite.co.kr/articles/170446",
   "https://view.asiae.co.kr/article/2026101308170927924",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=797746"
+  "http://www.weeklytoday.com/news/articleView.html?idxno=797746",
+  "http://www.datanews.co.kr/news/article.html?no=146895",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215023",
+  "https://www.cstimes.com/news/articleView.html?idxno=723703",
+  "https://www.dt.co.kr/article/12088678",
+  "https://www.thebigdata.co.kr/view.php?ud=2026101216284955860a47484cf8_23"
  ],
  "seen_titles": [
-  "[더밸류브리핑]오늘의금융계소식…NH농협은행·NH투자증권·카카오...",
-  "삼성전자,외인매도에4.4%급락마감…하이닉스도4.5%↓(종합)",
-  "신현송한은총재\"단일레버리지ETF늑장대응송구…사내대출도재...",
-  "최태원SK회장,사회적가치보상체계확산추진…글로벌경제의제로...",
-  "AI해킹현실화에신한·NH투자증권,정보보호투자대폭늘렸다",
   "최태원“호남반도체클러스터최대한빨리”…삼성도속도내나",
   "오픈AI매출논란에코스피6380대로반도체투심악화…삼성전자4.4%↓",
   "[2026국감]여야'이진숙이해충돌'공방에방미통위국감은뒷전…제...",
@@ -6001,7 +5996,12 @@
   "中반도체기술추격에뉴욕증시혼조...나스닥0.44%↓[뉴욕증시]",
   "[전자는지금]삼성전자,美포브스'2026스마트홈어워드'수상外",
   "해커가냉장고온도'50도'로…佛슈퍼마켓수백곳초토화",
-  "[전혜은시선]중국메모리추격에반도체주급락…오픈AI부담겹친뉴..."
+  "[전혜은시선]중국메모리추격에반도체주급락…오픈AI부담겹친뉴...",
+  "베스핀글로벌,제조기업이AI를손익으로연결하는전략제시",
+  "현대차·기아,바스트데이터에투자···피지컬AI데이터인프라강...",
+  "뉴욕증시,국제유가급등·반도체주하락혼조세",
+  "“해킹사고악용보이스피싱”…경찰,4800만명에경보발송한다",
+  "LG유플러스호실적기대속LG헬로비전,사업재편으로활로"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,17 @@
   [
    "2026-10-13T08:30:32.497646+09:00",
    "반도체주 겹친 부담 중국 추격에 메모리 급락"
+  ],
+  [
+   "2026-10-13T08:32:15.043555+09:00",
+   "기대 재편으로 ~LGU 활로 호실적 LG유플러스 사업 LG헬로비전"
+  ],
+  [
+   "2026-10-13T08:32:15.043555+09:00",
+   "경찰 4800만명에 경보 악용 보이스피싱 발송한다 사고"
   ]
  ],
- "last_run": "2026-10-13T08:30:50.231644+09:00",
+ "last_run": "2026-10-13T08:32:41.640559+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
