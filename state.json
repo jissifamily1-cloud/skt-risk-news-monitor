@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://byline.network/?p=9004111222622901",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=871919",
-  "http://www.wsobi.com/news/articleView.html?idxno=319501",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90202",
-  "https://www.imaeil.com/page/view/2026101215381254738",
   "https://www.imaeil.com/page/view/2026101215390686308",
   "https://www.m-economynews.com/news/article.html?no=71565",
   "https://www.edaily.co.kr/News/Read?newsId=03555526645612264&mediaCodeNo=257",
@@ -2999,14 +2994,14 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000072792",
   "https://www.chosun.com/economy/tech_it/2026/10/12/MS5WH4CGMZANNAQOPBTVKDORVA/",
   "https://biz.chosun.com/topics/topics_social/2026/10/13/YALKEOQ3KBGHVHTSFSFYLTULP4/",
-  "https://www.khan.co.kr/article/202610130803001"
+  "https://www.khan.co.kr/article/202610130803001",
+  "https://www.mediapen.com/news/view/1129411",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261013080557sPK",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90443",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65647",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445591"
  ],
  "seen_titles": [
-  "신현송“범용CBDC절대추진안한다…원화스테이블코인은찬성”[2...",
-  "[특징주]\"가장빠른속도\"최태원언급에…호남반도체관련주급등(종...",
-  "주인잃은주식,결제액'뚝'…아랫목그리운K-증시[뉴스톡웰스톡]",
-  "저축은행중앙회에도해킹시도…67개사이용통합전산망보안'비상'",
-  "수술실CCTV해킹피해,엉뚱하게산부인과가직격탄을맞고있다",
   "코스피,두달만에6400선아래로…코스닥도4%넘게'급락'",
   "수이,데이터재단에3000만달러투자…AI보안·금융인프라선점",
   "최태원회장의경고\"늦어지면점유율다뺏긴다\"K-메모리의'속도전'...",
@@ -6001,7 +5996,12 @@
   "유가상승·반도체약세속뉴욕증시혼조…다우만나홀로상승",
   "[단독]개보위,카카오현장조사착수...‘브랜드메시지’위법성조...",
   "금융권해킹사고에…경찰,대국민주의문자발송키로",
-  "국세청해킹시도9개월간7만건…최근5년합계의2.8배"
+  "국세청해킹시도9개월간7만건…최근5년합계의2.8배",
+  "[美증시]뉴욕증시황소장4주년…향후상승장관건은'AI투자성과입증...",
+  "삼성전자,새메모리전략공개…AMD와용량한계보완방안도",
+  "미식축제서빛난AI기술력…삼성전자,'라리스트2027'서차세대주방...",
+  "유가3거래일째급등·中CXMT변수…뉴욕증시혼조,다우만올랐다",
+  "뉴욕증시,국제유가급등과반도체주약세속혼조세마감⋯엔비디아1..."
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-10-13T08:04:16.911486+09:00",
    "참여 문턱 이용층 day 밀리의서재 넓힌다 낮춰 구독"
+  ],
+  [
+   "2026-10-13T08:08:15.408290+09:00",
+   "뉴욕증시 약세 혼조세 국제유가 급등과 반도체주 마감"
   ]
  ],
- "last_run": "2026-10-13T08:06:35.096539+09:00",
+ "last_run": "2026-10-13T08:08:39.444432+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
