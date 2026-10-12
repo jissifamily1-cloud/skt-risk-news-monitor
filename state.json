@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5224141",
-  "https://www.newscj.com/news/articleView.html?idxno=3439328",
-  "https://www.hidomin.com/news/articleView.html?idxno=724323",
-  "https://sports.khan.co.kr/article/202610111452003?pt=nv",
-  "https://www.namdonews.com/news/articleView.html?idxno=925733",
-  "https://www.news1.kr/photos/8152635",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000072323",
-  "https://www.joongang.co.kr/article/25468708",
   "https://biz.chosun.com/it-science/ict/2026/10/11/P47P5AEIB5CPFGUOMYVNBOPXLI/",
   "https://www.ggilbo.com/news/articleView.html?idxno=1186036",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705948",
@@ -2999,17 +2991,17 @@
   "https://www.kyeongin.com/article/1772348",
   "https://www.epnc.co.kr/news/articleView.html?idxno=408020",
   "https://www.yna.co.kr/view/AKR20261012083100001?input=1195m",
-  "https://news.jtbc.co.kr/article/NB12322494?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12322494?influxDiv=NAVER",
+  "https://dealsite.co.kr/articles/170447",
+  "https://gamefocus.co.kr/detail.php?number=179714",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137089",
+  "https://www.starnewskorea.com/star/2026/10/12/2026101210302355522",
+  "https://www.ziksir.com/news/articleView.html?idxno=148937",
+  "https://www.newsis.com/view/NISI20261012_0021485041",
+  "https://www.newsis.com/view/NISI20261012_0021485127",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=279790"
  ],
  "seen_titles": [
-  "김지찬,홈으로",
-  "이재현,희생플라이선취점",
-  "\"몸짓커진경찰,준비됐나\"…12일국감서역량·신뢰도마",
-  "이재명대통령\"해외불법사이트,차단안되면물리적파괴·폐쇄\"",
-  "의료기관도사이버보안‘경고등’…6년간사고114건,랜섬웨어에취...",
-  "최태원,호남반도체부지찾아\"최대한빨리착공부터\"",
-  "‘연애박사’1-2회미공개&비하인드컷공개",
-  "'ARPU하락·성장정체'…AI인프라·혁신이통신사'생존'전략",
   "커지는사이버침해사고불안…복지기관,대응력확보에'분주'",
   "KT힐리어드,시즌43호솔로포…홈런선두김도영과1개차",
   "와인셀러에와인대신GPU...내집안AI데이터센터유행",
@@ -6001,7 +5993,15 @@
   "국민의힘,용인갑조직위원장확정보류",
   "HP코리아,쿠팡'쿠가세'서AIPC부터게이밍노트북까지선보인다",
   "산자위,최태원광주방문공방…\"崔국감불러야\"·\"기업협박\"",
-  "혁신가에서사이코패스로?…할리우드'신상빌런'된AI거물들"
+  "혁신가에서사이코패스로?…할리우드'신상빌런'된AI거물들",
+  "닷컴고점웃돈투자강도…빅테크자금조달,반도체수요변수",
+  "엔비디아,총10억달러규모대규모투자지원계획공개...초지능연...",
+  "네이버클라우드,베트남FPT와'AI팩토리'협력…GPU부터AI에이전트까...",
+  "[단독]은퇴후엔터사대표로복귀..장동주,스타배우J씨영입조율",
+  "SK,청년AI인재육성프로그램'아이젠'출범…2년간매월300만원지원",
+  "증인선서하는김종철방미통위위원장",
+  "답하는김종철방미통위위원장",
+  "금융권해킹'비상'…금융보안원,AI로앱취약점잡는다"
  ],
  "recent_sigs": [
   [
@@ -6959,9 +6959,13 @@
   [
    "2026-10-12T11:50:25.450088+09:00",
    "금융사기 대응 활용 확대 우리은행 정보도"
+  ],
+  [
+   "2026-10-12T11:54:15.696366+09:00",
+   "취약점 AI로 금융권 비상 잡는다 금융보안원"
   ]
  ],
- "last_run": "2026-10-12T11:52:31.029539+09:00",
+ "last_run": "2026-10-12T11:54:33.809927+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
