@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.maniareport.com/view.php?ud=20261011155050563dad9f33a29_19",
-  "https://m.sports.naver.com/basketball/article/065/0000302774",
-  "https://basketkorea.com/news/newsview.php?ncode=1065597060830268",
-  "https://www.mk.co.kr/article/12172982",
-  "https://www.mk.co.kr/article/12172980",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360383",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092171760",
-  "https://www.tjb.co.kr/news05/bodo/view/id/104628",
-  "https://www.starnewskorea.com/sports/2026/10/11/2026101115281022517",
-  "http://www.osen.co.kr/article/G1112891265",
   "https://www.segye.com/newsView/20261011512059?OutUrl=naver",
   "https://www.namdonews.com/news/articleView.html?idxno=925757",
   "https://www.ytn.co.kr/_ln/0102_202610111612155091",
@@ -2999,19 +2989,19 @@
   "https://www.hankyung.com/article/2026101260206",
   "https://www.newstnt.com/news/articleView.html?idxno=722338",
   "https://www.aitimes.com/news/articleView.html?idxno=216137",
-  "http://www.segyebiz.com/newsView/20261012512185?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20261012512185?OutUrl=naver",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50764",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478947",
+  "https://dealsite.co.kr/articles/170450",
+  "https://www.dailian.co.kr/news/view/1700263/?sc=Naver",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208834",
+  "https://www.boannews.com/news/articleView.html?idxno=146313",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445565",
+  "https://www.yna.co.kr/view/AKR20261012065051017?input=1195m",
+  "https://www.ytn.co.kr/_ln/0101_202610121313595682",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318412"
  ],
  "seen_titles": [
-  "삼성전자실적100조의명과암…내년HBM1위가능성속DX적자우려",
-  "정보보호종합대책1년만에정보유출…\"보안불감증\"",
-  "'이틀동안3연타석홈런몰아쳤다'kt힐리어드,44호포까지쏘아올리...",
-  "고영표,완벽투구",
-  "AI·로봇이여행길돕는다…中연휴풍경도'스마트관광'",
-  "지식재산처,연말까지민·관합동위조상품모니터링실시",
-  "연내결론앞둔전북금융중심지…이제필요한건‘정치력’",
-  "AI해킹대비책수개월간쏟아냈는데⋯잇따라뚫린보안망",
-  "나갈길열고버틸힘보태야…케이블TV구조개편골든타임",
-  "방미통위,퍼스트모바일1년4개월째조사만…'늑장행정'논란",
   "LGU+,통신데이터기반'수색지원기술'실증",
   "'허웅결장악재'이상민감독\"치료받기위해서울로보냈다\"",
   "[사진]최원준,투수포구실책진루",
@@ -6001,7 +5991,17 @@
   "코스피,장중6400선간당간당…코스닥도4%넘게하락",
   "성균관대,연산비절감·안전성강화한차세대AI기술2건개발…NeurIP...",
   "한전KDN,태양광원격제어에국정원검증암호모듈도입…사이버안보...",
-  "[2026국감]신현송한은총재“해외크립토카드규제우회우려…면밀..."
+  "[2026국감]신현송한은총재“해외크립토카드규제우회우려…면밀...",
+  "[현장+]정진완우리은행장\"피해발생하면늦어\"…금융사기선제차단...",
+  "[현장]\"한국인과똑같이\"···카카오뱅크,외국인금융차별없앤다",
+  "아마존,AI칩에9조원베팅…복잡해진삼성·하이닉스셈법",
+  "[2026국감]신현송“크립토카드위험”…규모는몰라",
+  "인스피언,SAP보안진단솔루션'비즈인사이더엑스스캔'공개",
+  "KISA-SKT,에이닷앱에스팸간편신고탑재...\"사각지대없앤다\"",
+  "SKT,T팩토리성수서문화관광프로젝트'K-보물길'추진",
+  "방미통위원장\"불법스팸부당이익환수과징금신설\"(종합)",
+  "\"이진숙제척해야\"vs\"이해충돌아냐\"...방미통위국감여야격돌",
+  "과방위원장\"'방미통위국감'이진숙발언제한할수있다\"…무슨얘기..."
  ],
  "recent_sigs": [
   [
@@ -6907,9 +6907,13 @@
   [
    "2026-10-12T13:08:15.325141+09:00",
    "위원장 서면답변도 김우영 숙지"
+  ],
+  [
+   "2026-10-12T13:16:14.372137+09:00",
+   "무슨 얘기 제한할 이진숙 발언 과방위원장 있다 국감"
   ]
  ],
- "last_run": "2026-10-12T13:14:34.639870+09:00",
+ "last_run": "2026-10-12T13:16:39.622274+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
