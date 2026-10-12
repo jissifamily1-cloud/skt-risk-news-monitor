@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=90307",
-  "https://kpenews.com/View.aspx?No=4258925",
-  "https://www.ajunews.com/view/20261012084129379",
-  "http://www.segyebiz.com/newsView/20261008516055?OutUrl=naver",
-  "https://www.fnnews.com/news/202610120858043681",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3718105",
-  "https://biz.heraldcorp.com/article/10898942",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=367026",
   "https://news.jtbc.co.kr/article/NB12322460?influxDiv=NAVER",
   "http://www.weeklytoday.com/news/articleView.html?idxno=797485",
@@ -2999,16 +2992,16 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=242131",
   "https://www.newspim.com/news/view/20261012001470",
   "https://www.thelec.kr/news/articleView.html?idxno=63545",
-  "https://www.nocutnews.co.kr/news/6590234"
+  "https://www.nocutnews.co.kr/news/6590234",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61375",
+  "https://www.nocutnews.co.kr/news/6590237",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745517",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261012184048BRI",
+  "https://view.asiae.co.kr/article/2026101218391640039",
+  "https://www.edaily.co.kr/News/Read?newsId=04408326645612264&mediaCodeNo=257",
+  "https://www.edaily.co.kr/News/Read?newsId=04405046645612264&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "이웃닷컴'e알리미',운영환경KT공공클라우드로이전",
-  "레이예스와최다안타경쟁하다배트던진KT최원준,울음뒤사과",
-  "이웃닷컴,e알리미KT공공클라우드이전완료",
-  "이웃닷컴,‘e알리미’운영환경KT공공클라우드로이전",
-  "2년만에KT구단승률왕...소형준이뤄낼까",
-  "엔비디아반등해도돈잃는다…美증시마감후'청산함정'",
-  "'금융위기수준'외국인매도폭탄,삼전닉스말고TSMC가답이다?",
   "LGU+,화담숲장기고객초청행사에4만6000명몰려",
   "DT네트웍스,BYD국내딜러첫누적출고1만대돌파",
   "AMD코리아,‘인프라베테랑’장정희총괄영입…리사수방한發‘韓...",
@@ -6001,7 +5994,14 @@
   "[국감]유료부가서비스개선기준내놓고점검은없었다",
   "귀주모태,A주'주가왕'탈환…주당1288위안",
   "지슨,무선백도어매출7배성장...5대은행공급",
-  "과방위,與주도로이진숙제척…국힘\"권한쟁의심판청구\""
+  "과방위,與주도로이진숙제척…국힘\"권한쟁의심판청구\"",
+  "'PS의아버지'쿠타라기켄이내다본AI시대의게임",
+  "토스뱅크'입금오류'연휴지나정정안내…규모는확인중",
+  "[이슈]美\"韓,정보·방첩분야동맹기준준수하라\"…정부\"이상없다\"지...",
+  "\"패륜정치\"vs\"대통령이왕?\"…이진숙,국감서제척",
+  "최태원\"비자금기여뺐는데분할비율비슷\"…재상고이유서제출",
+  "“허위조작정보,사회분열부추겨”…최형두,방미통위실효적대책...",
+  "구글·애플인앱결제과징금3년만에결론…김종철\"10월가기전의결..."
  ],
  "recent_sigs": [
   [
@@ -7011,9 +7011,21 @@
   [
    "2026-10-12T18:40:26.825560+09:00",
    "유료 점검은 부가서비스 기준 없었다 개선 내놓고"
+  ],
+  [
+   "2026-10-12T18:42:18.679805+09:00",
+   "기여 비슷 뺐는데 이유서 재상고 비자금 제출 분할비율"
+  ],
+  [
+   "2026-10-12T18:42:18.679805+09:00",
+   "실효적 대책 부추겨 분열 최형두 사회 허위조작정보"
+  ],
+  [
+   "2026-10-12T18:42:18.679805+09:00",
+   "인앱결제 김종철 결론 가기 과징금 애플 만에 10월 구글 의결 3년"
   ]
  ],
- "last_run": "2026-10-12T18:40:44.166913+09:00",
+ "last_run": "2026-10-12T18:42:45.419991+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
