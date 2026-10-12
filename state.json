@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikitree.co.kr/articles/1165307",
-  "http://www.osen.co.kr/article/G1112891208",
-  "http://www.osen.co.kr/article/G1112891211",
-  "https://www.newspim.com/news/view/20261011000093",
-  "https://www.ytn.co.kr/_ln/0134_202610111505502320",
-  "http://www.segyebiz.com/newsView/20261011510359?OutUrl=naver",
-  "https://www.newspim.com/news/view/20261008000797",
-  "http://www.osen.co.kr/article/G1112891224",
   "http://www.osen.co.kr/article/G1112891225",
   "http://www.osen.co.kr/article/G1112891222",
   "http://www.osen.co.kr/article/G1112891226",
@@ -2999,17 +2991,17 @@
   "https://news.tf.co.kr/read/photomovie/2375067.htm",
   "https://www.ajunews.com/view/20261012120856378",
   "https://www.aitimes.com/news/articleView.html?idxno=216156",
-  "https://www.etnews.com/20261012000179"
+  "https://www.etnews.com/20261012000179",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=718207",
+  "https://www.jemin.com/news/articleView.html?idxno=844244",
+  "http://www.press9.kr/news/articleView.html?idxno=83957",
+  "https://www.nspna.com/news/?newsid=831191",
+  "https://www.nspna.com/news/?newsid=831210",
+  "https://www.news1.kr/politics/assembly/6316782",
+  "https://www.sejungilbo.com/news/articleView.html?idxno=60542",
+  "https://www.newscj.com/news/articleView.html?idxno=3439533"
  ],
  "seen_titles": [
-  "5대은행장,4년만에국감장에…‘AI해킹’연임변수‘촉각’",
-  "[사진]힐리어드,위풍당당연타석홈런",
-  "일끝내려다예상밖행동한AI…오픈AI·앤트로픽서잇따라확인돼",
-  "LG유플러스,통신데이터로산악조난자찾는다…수색범위99%축소",
-  "\"GPS끊겨도찾는다\"…LGU+,산악조난자수색범위99%줄여",
-  "[사진]최원준,연이은견제구에당혹",
-  "[사진]고영표,다승선두올라선다",
-  "[사진]최원준,홈에서아웃",
   "[사진]고영표,승리의피칭",
   "[사진]힐리어드,44호홈런",
   "[사진]최원준,홈에늦었다.",
@@ -6001,7 +5993,15 @@
   "국정감사출석한김종철방미통위-고광헌방미심위위원장[TF사진관]",
   "한국프로야구3위누가될까...KIA-LG오늘결정전",
   "네이버클라우드,베트남FPT와아태지역AI팩토리사업확대",
-  "김민석“외교·안보에여야없다…국익기준선지켜야”"
+  "김민석“외교·안보에여야없다…국익기준선지켜야”",
+  "MS사장,\"인공지능이우유와세탁기보다규제덜해\"",
+  "TSMC실적발표앞두고반도체시장긴장…AI매출·첨단공정·연간전...",
+  "삼성생명·한화생명등주요생명보험사,해외IP접속전면차단",
+  "금융권,책무구조도도입후금융사고203건...제재0건",
+  "최태원SK회장,광주반도체부지점검…“최대한빠른속도로건설하...",
+  "2주차국감시작…여야,조희대·경찰개혁·암살자(들)곳곳공방",
+  "국민·신한·하나·부산은행등금융사7곳잇단해킹…정보보호예산도...",
+  "[2026국감]\"알고리즘폐해,왜아무부서도책임안지나\""
  ],
  "recent_sigs": [
   [
@@ -6851,9 +6851,17 @@
   [
    "2026-10-12T12:20:26.218210+09:00",
    "철저한 사고에 사이버 금융권 김민석 대응체 공격기술 발전"
+  ],
+  [
+   "2026-10-12T12:26:16.808186+09:00",
+   "잇단 신한 예산도 정보보호 하나 부산은행 7곳 국민 금융사"
+  ],
+  [
+   "2026-10-12T12:26:16.808186+09:00",
+   "책임 부서도 알고리즘 폐해 아무 지나"
   ]
  ],
- "last_run": "2026-10-12T12:24:31.945428+09:00",
+ "last_run": "2026-10-12T12:26:44.918390+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
