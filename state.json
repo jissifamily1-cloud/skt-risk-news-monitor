@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5070493",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53554",
-  "http://www.inews24.com/view/2013685",
-  "https://www.taxtimes.co.kr/news/article.html?no=277233",
-  "http://www.newsdream.kr/news/articleView.html?idxno=119719",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610120005&t=NN",
   "https://www.ziksir.com/news/articleView.html?idxno=148904",
   "https://medicalworldnews.co.kr/news/view.php?idx=1510977783",
   "https://www.getnews.co.kr/news/articleView.html?idxno=883184",
@@ -2999,15 +2993,15 @@
   "https://dealsite.co.kr/articles/170476",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261012010003371",
   "http://fpn119.co.kr/257810",
-  "https://www.edaily.co.kr/News/Read?newsId=04283686645612264&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=04283686645612264&mediaCodeNo=257",
+  "https://www.donga.com/news/Economy/article/all/20261012/134828338/2",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261012180907ZPP",
+  "https://www.hankyung.com/article/2026101269881",
+  "https://www.fnnews.com/news/202610121809428213",
+  "https://www.news1.kr/politics/assembly/6317156",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438806"
  ],
  "seen_titles": [
-  "일주일새20조'줄줄'...AI불안확산에은행권초긴장[앵커리포트]",
-  "오픈AI실적논란에국내반도체株'흔들'…프리마켓서SK하닉2%↓",
-  "[게임리포트]옥존의클러치+문정현의헌신,KT3연승동력",
-  "“공개했더니해킹에악용…‘아르텍스’결국빗장”",
-  "삼성물산,반포푸르지오에'넥스트리모델링'제안",
-  "[기고]AI시대연구자의기본자세",
   "[아이온의AI:온]침대옆에AI서버…20대창업가들의'한지붕생활'",
   "6년항해한정의선號…이룬성과와다음과제는",
   "KT,무선사업부진에도3분기실적선방…클라우드성장기대",
@@ -6001,7 +5995,13 @@
   "[2026국감]KT,하이오더전환권유의혹에“지적이해”…국감서시정...",
   "주요증권사정보보안에550억원…해킹‘선제차단’강화",
   "“GPS끊긴산속조난자수색범위99%좁혀”…LG유플러스,기술실증",
-  "불법사이트차단3건중2건이‘복제판’…방미통위“우회차단한계..."
+  "불법사이트차단3건중2건이‘복제판’…방미통위“우회차단한계...",
+  "DT네트웍스,BYD누적출고1만대달성",
+  "준PO직행·홈런왕주인공은?…프로야구정규시즌종료",
+  "젊은대기업안보이는한국…유니콘넘쳐나는미국",
+  "\"AI의기억책임지는메모리…사이클벗어나산업핵심축\"[AI월드2026]",
+  "[국감초점]과방위,與주도이진숙제척…與\"공정국감\"野\"헌법침해...",
+  "김동철사장\"한전채한도줄면전기요금인상필요\"(종합)"
  ],
  "recent_sigs": [
   [
@@ -7003,9 +7003,13 @@
   [
    "2026-10-12T18:10:29.790119+09:00",
    "차단 불법사이트 3건 2건이 한계 복제판 우회"
+  ],
+  [
+   "2026-10-12T18:12:16.673228+09:00",
+   "전기요금 인상 줄면 한도 김동철 사장 필요 한전채"
   ]
  ],
- "last_run": "2026-10-12T18:10:55.764859+09:00",
+ "last_run": "2026-10-12T18:12:41.080879+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
