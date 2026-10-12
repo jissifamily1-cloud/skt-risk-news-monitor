@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112891225",
-  "http://www.osen.co.kr/article/G1112891222",
-  "http://www.osen.co.kr/article/G1112891226",
-  "http://www.osen.co.kr/article/G1112891223",
   "http://www.bizwnews.com/news/articleView.html?idxno=148560",
   "https://www.news1.kr/photos/8152368",
   "https://www.kbmaeil.com/article/20261011500383",
@@ -2999,13 +2995,13 @@
   "https://www.nspna.com/news/?newsid=831210",
   "https://www.news1.kr/politics/assembly/6316782",
   "https://www.sejungilbo.com/news/articleView.html?idxno=60542",
-  "https://www.newscj.com/news/articleView.html?idxno=3439533"
+  "https://www.newscj.com/news/articleView.html?idxno=3439533",
+  "https://www.fomos.kr/redirect/news_view?news_cate_id=2&entry_id=156530",
+  "https://zdnet.co.kr/view/?no=20261012121450",
+  "https://zdnet.co.kr/view/?no=20261012115240",
+  "https://zdnet.co.kr/view/?no=20261012120423"
  ],
  "seen_titles": [
-  "[사진]고영표,승리의피칭",
-  "[사진]힐리어드,44호홈런",
-  "[사진]최원준,홈에늦었다.",
-  "[사진]고영표,깔끔한피칭",
   "[사진]고영표,다승공동선두가자",
   "[사진]힐리어드,김도영과홈런공동선두",
   "[사진]힐리어드,44호홈런환호",
@@ -6001,7 +5997,11 @@
   "최태원SK회장,광주반도체부지점검…“최대한빠른속도로건설하...",
   "2주차국감시작…여야,조희대·경찰개혁·암살자(들)곳곳공방",
   "국민·신한·하나·부산은행등금융사7곳잇단해킹…정보보호예산도...",
-  "[2026국감]\"알고리즘폐해,왜아무부서도책임안지나\""
+  "[2026국감]\"알고리즘폐해,왜아무부서도책임안지나\"",
+  "유니티,부산벡스코서'유니티AI게임잼'연다…20일까지참가자모집",
+  "이진숙국감제척공방...과방위원장\"재직당시업무는발언제한가능\"",
+  "\"방미통위가AI알고리즘폐해대응나서야\"",
+  "반복된연계정보유출...\"CI갱신요구보장돼야\""
  ],
  "recent_sigs": [
   [
@@ -6859,9 +6859,13 @@
   [
    "2026-10-12T12:26:16.808186+09:00",
    "책임 부서도 알고리즘 폐해 아무 지나"
+  ],
+  [
+   "2026-10-12T12:28:14.540294+09:00",
+   "반복된 갱신 연계정보 유출 요구 CI 보장돼야"
   ]
  ],
- "last_run": "2026-10-12T12:26:44.918390+09:00",
+ "last_run": "2026-10-12T12:28:39.261131+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
