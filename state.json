@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261012038751008?input=1195m",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=302428",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2331094",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256293",
-  "https://www.mk.co.kr/article/12173664",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364528",
   "https://www.dailian.co.kr/news/view/1700471/?sc=Naver",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494511",
   "https://byline.network/?p=9004111222622916",
@@ -2999,15 +2993,15 @@
   "https://thetracker.co.kr/View.aspx?No=4260726",
   "https://www.jasm.co.kr/news/view/321215/?sc=Naver",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215022",
-  "https://biz.sbs.co.kr/article_hub/20000339550?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000339550?division=NAVER",
+  "https://www.slist.kr/news/articleView.html?idxno=772910",
+  "http://www.press9.kr/news/articleView.html?idxno=84086",
+  "https://www.yna.co.kr/view/AKR20261013025200003?input=1195m",
+  "https://www.chosun.com/economy/int_economy/2026/10/13/X7T75TEQLFGJRPIVBY2HO5EJ6A/",
+  "https://www.thebigdata.co.kr/view.php?ud=202610130751342305d0a8833aad_23",
+  "https://dealsite.co.kr/articles/170483"
  ],
  "seen_titles": [
-  "장동혁\"용인갑조직위원장결선재투표…투표권침해바로잡아야\"",
-  "[칼럼]AMD리사수방한이남긴화두.더이상'소문난잔치'에그쳐선...",
-  "[종합]한국증시만'왕따'지속왜그렇나?...코스피3.6%급락반면일...",
-  "KISA,SKT'에이닷전화'에음성스팸신고기능탑재",
-  "SK그룹인사시계빨라진다,하이닉스곽노정·이노베이션장용호부회...",
-  "[속보]과방위,방미통위국감서이진숙제척안상정키로…이해충돌",
   "\"정치적부관참시·패륜행위\"…이진숙'파묘정치'에과방위국감정면...",
   "CI유출·AI챗봇과몰입…방미통위국감서이용자보호사각지대도마...",
   "오라클이사,48억원규모자사주매입…AI사업성장성에관심",
@@ -6001,7 +5995,13 @@
   "삼성전자,‘라리스트2027’서AI주방가전선봬",
   "금감원,'5만건개인정보유출'예가람저축은행현장점검",
   "델,IBK기업은행하남데이터센터백업인프라구축···사이버복원력...",
-  "[기업이슈]호르무즈통항75%급감에해운주강세"
+  "[기업이슈]호르무즈통항75%급감에해운주강세",
+  "이민기·곽선영·허성태→NCT지성,'크래시2'대본리딩현장공개",
+  "삼성전자,미식행사서AI주방가전선보여",
+  "삼성전자,글로벌미식행사서AI주방가전소개",
+  "유가상승·반도체약세에뉴욕증시혼조…다우만0.38%상승",
+  "KT,통신상장기업브랜드평판10월빅데이터1위...SK텔레콤·LG유플러스...",
+  "[2026국감]통신3사,부가서비스해지불편논란…KT해킹은폐의혹재..."
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-10-13T08:22:14.139575+09:00",
    "통항 해운주 급감에 호르무즈 강세"
+  ],
+  [
+   "2026-10-13T08:24:15.692624+09:00",
+   "~KT 은폐 통신3사 부가서비스 해지 불편 의혹 논란"
   ]
  ],
- "last_run": "2026-10-13T08:22:34.226053+09:00",
+ "last_run": "2026-10-13T08:24:34.093525+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
