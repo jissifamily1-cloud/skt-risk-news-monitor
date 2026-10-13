@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261013071625",
-  "https://www.newsis.com/view/NISX20261013_0003823249",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000072797",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684036",
   "https://www.itdaily.kr/news/articleView.html?idxno=242132",
@@ -2999,11 +2997,11 @@
   "https://www.datanet.co.kr/news/articleView.html?idxno=215053",
   "http://www.gndomin.com/news/articleView.html?idxno=492656",
   "https://www.munhwa.com/article/11623238",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6857677_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6857677_37004.html",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3720409",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5224685"
  ],
  "seen_titles": [
-  "프랑스수백곳슈퍼마켓냉장시스템해킹",
-  "금융권해킹에여의도도비상..증권사보안인력확충은제각각",
   "금감원,예가람저축은행해킹현장점검착수...개인정보최대5만건유출...",
   "중후장대기업이왜영화제에?...이노션,한화손잡고영화신사업시동",
   "출판업종,미디어실적호조에방긋…아시아경제·예림당강세",
@@ -6001,13 +5999,11 @@
   "엔비디아·시스코,차세대플러그형광모듈폼팩터'USFP'개발추진",
   "서천호의원,눈감은통신사수익소비자만'눈뜬뒤'결제",
   "[속보]새마을금고도뚫렸다…400명대유출확인돼금융당국에신고",
-  "中창신발반도체쇼크?‥\"공정율·양산품질은입증안돼\""
+  "中창신발반도체쇼크?‥\"공정율·양산품질은입증안돼\"",
+  "OK저축은행,개인정보유출183명확인…금융당국에신고",
+  "\"비밀번호는다양하게\"…정보유출막는보안수칙"
  ],
  "recent_sigs": [
-  [
-   "2026-10-13T13:58:14.410610+09:00",
-   "축소 매출 가입자 감소 영업익 올해 전망 ~KT 이탈에 이동전화"
-  ],
   [
    "2026-10-13T14:00:40.590498+09:00",
    "지원 아이폰17 18서 5G 상용화 SA ~SKT 시작 연내 초읽기"
@@ -6833,7 +6829,7 @@
    "눈감은 결제 의원 눈뜬 서천호 수익 소비자만"
   ]
  ],
- "last_run": "2026-10-13T19:56:32.325285+09:00",
+ "last_run": "2026-10-13T19:58:33.859268+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
