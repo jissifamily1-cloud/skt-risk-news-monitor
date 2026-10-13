@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=130938",
-  "https://www.dailian.co.kr/news/view/1700440/?sc=Naver",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=158027",
-  "http://www.queen.co.kr/news/articleView.html?idxno=464563",
-  "http://www.joseilbo.com/news/news_read.php?uid=577210&class=32",
-  "https://www.dailian.co.kr/news/view/1700563/?sc=Naver",
-  "https://zdnet.co.kr/view/?no=20261012171218",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=366075",
-  "https://www.newsis.com/view/NISX20261012_0003822694",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000072750",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610120129&t=NNv",
   "https://www.decenter.kr/article/20100631",
@@ -2999,18 +2990,18 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=408099",
   "https://zdnet.co.kr/view/?no=20261013101440",
   "https://www.khan.co.kr/article/202610131014001",
-  "https://zdnet.co.kr/view/?no=20261013092249"
+  "https://zdnet.co.kr/view/?no=20261013092249",
+  "https://www.edaily.co.kr/News/Read?newsId=01974566645612264&mediaCodeNo=257",
+  "https://www.kyeonggi.com/article/20261013580096",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=240689",
+  "https://www.wikitree.co.kr/articles/1165774",
+  "https://www.thepublic.kr/news/articleView.html?idxno=321968",
+  "https://www.newscj.com/news/articleView.html?idxno=3439771",
+  "https://www.joongang.co.kr/article/25469223",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171839",
+  "https://www.thepublic.kr/news/articleView.html?idxno=321973"
  ],
  "seen_titles": [
-  "원슈타인·폴블랑코·유성은·케이시까지…'내가떨릴수있게'OST라인...",
-  "'계약만료'김태형감독\"성적은내책임…거취는아직몰라\"",
-  "건설업,중동리스크부상…데이터센터·원전은새수주축[KDFIndustry]",
-  "'3위·홈런왕·MVP'노리는김도영,세토끼다잡을까?",
-  "中수학계,AI연구서美와격차인정…1000명규모연구연맹출범",
-  "크리에이터선정,어디까지AI에맡길까?[팬덤미디어시대③]",
-  "차세대AI반도체총출동…역대최대반도체대전14일개막",
-  "'데이터센터=수익'…IPO앞둔앤트로픽이대규모인프라에사활건이유",
-  "KT,‘모두의AI커넥트서밋2026’개최…12월정식출시준비",
   "[게시판]KT'모두의AI'연내출시앞두고중간점검등단신",
   "AI의두얼굴…해킹악용에'기만행동'까지",
   "[2026국감]과방위,국힘이진숙'제척안'의결…16·22일국감배제",
@@ -6001,7 +5992,16 @@
   "현대차·기아,'바스트데이터'에전략적투자…피지컬AI데이터인프라...",
   "현대차·기아,美바스트데이터에전략적투자…자율주행·로보틱스AI...",
   "5%급락한코스피,6000선위협…매도사이드카발동",
-  "냉장고가50도까지폭주했다…사이버공격에초토화된대형마트"
+  "냉장고가50도까지폭주했다…사이버공격에초토화된대형마트",
+  "SK텔레콤,급성장하는데이터센터주도권확보기대…'매수'-NH",
+  "들뜨지않고,서두르지않고…KT위즈,‘통합우승’향한3주",
+  "삼성전자,'라리스트'서AI주방가전선봬…미식시장공략",
+  "코스피5%대급락…두달만에'매도사이드카'발동한이유는?",
+  "금감원,'5만건개인정보유출'예가람저축은행현장점검착수",
+  "금감원'정보유출'예가람저축은행현장점검",
+  "교육업체한곳뚫리자237만건‘와르르’…권익위·국방부개인정보까...",
+  "개보위,카카오'브랜드메시지'현장조사…개인정보오남용검증",
+  "성형외과환자개인정보400만원에거래…AI악용한2차해킹우려"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,13 @@
   [
    "2026-10-13T10:16:14.210305+09:00",
    "시도 국방과학기술 포함 63건 방산자료 넘어 방사청 유출 3만건"
+  ],
+  [
+   "2026-10-13T10:20:23.949082+09:00",
+   "400만원에 개인정보 성형외과 악용한 거래 2차 우려 환자"
   ]
  ],
- "last_run": "2026-10-13T10:18:32.242494+09:00",
+ "last_run": "2026-10-13T10:20:45.484134+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
