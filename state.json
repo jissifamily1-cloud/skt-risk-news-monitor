@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610122116483260",
-  "https://www.news1.kr/photos/8155067",
-  "https://www.mk.co.kr/article/12172149",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679845",
-  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=156539",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16245055",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6941503",
   "http://www.osen.co.kr/article/G1112891844",
   "http://www.osen.co.kr/article/G1112891845",
   "http://www.4th.kr/news/articleView.html?idxno=2119607",
@@ -2999,16 +2992,16 @@
   "https://www.womentimes.co.kr/news/articleView.html?idxno=106959",
   "https://zdnet.co.kr/view/?no=20261013125305",
   "http://www.newsbrite.net/news/articleView.html?idxno=200882",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=130013"
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130013",
+  "http://www.bizwnews.com/news/articleView.html?idxno=148727",
+  "https://www.maniareport.com/view.php?ud=2026101311040264836cf2d78c68_19",
+  "https://www.kgnews.co.kr/news/article.html?no=914854",
+  "https://www.newspim.com/news/view/20261013000573",
+  "https://www.etoday.co.kr/news/view/2635130",
+  "https://www.naeil.com/news/read/604933",
+  "https://www.edaily.co.kr/News/Read?newsId=03106166645612592&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "SKT,국립중앙박물관과'K-보물길'추진",
-  "김정관장관\"2029년첫팹완공목표…지역힘모아야\"",
-  "프로야구,최다관중‘1277만명’돌파…1년만에또신기록",
-  "배트던지며'볼넷'화풀이…최원준,결국고개숙였다",
-  "프로야구역대최다관중'1277만551명'…3년연속최다관중경신",
-  "카카오뱅크,외국인금융시장공략…5분만에통장개설부터해외송금까...",
-  "KT힐리어드'아쉬움가득'",
   "광주군공항서현장국감…이전윤곽나오나?",
   "적중률77%월가1위전문가의선택…2027년엔비디아300달러·마이크론...",
   "텔레그램'성착취물악용'지적에…담당임원\"韓요청시2시간만에정...",
@@ -6001,17 +5994,16 @@
   "국립공원무인카메라영상,AI판별로분석시간'99%단축'",
   "\"말하는중에도맞장구척척\"…카카오,사람처럼대화하는AI개발",
   "LG유플러스,AI기반'U+one'으로고객서비스강화",
-  "국감서사상첫의원제척나왔다...이진숙둘러싸고여야정면충돌"
+  "국감서사상첫의원제척나왔다...이진숙둘러싸고여야정면충돌",
+  "[현장에서]하이브리드대명사렉서스ES,전기차옷입고8세대로…\"한...",
+  "'가을엔두산,정규시즌엔LG'한지붕라이벌5년만의PS격돌...누가...",
+  "비스포크AI로주방新경험…삼성전자,셰프들앞‘AI주방’시연",
+  "인텔\"피지컬AI확산에개방형생태계필수...기업간협력중요\"",
+  "‘검은화요일’코스피6000선무너졌다…반도체투톱8~9%대급락",
+  "개인정보유출신고현장조사5.7%",
+  "\"금융권해킹,AI탓만할일아니다\"…시스코의'경고장'"
  ],
  "recent_sigs": [
-  [
-   "2026-10-13T07:08:18.530970+09:00",
-   "사진 게티이미지 신청 상장폐지 파산보호 부채에 경쟁"
-  ],
-  [
-   "2026-10-13T07:08:18.530970+09:00",
-   "급등 시간외 차세대 전력 개발 손잡은 보드 나비타스"
-  ],
   [
    "2026-10-13T07:18:17.419656+09:00",
    "만에 3년 구글 결론 과징금 애플 10월 인앱결제 임박 안에 의결"
@@ -6727,9 +6719,13 @@
   [
    "2026-10-13T13:06:15.605522+09:00",
    "다툰다 재산 노소영씨와 분할비율"
+  ],
+  [
+   "2026-10-13T13:10:24.669179+09:00",
+   "경고장 금융권 아니다 탓만 시스코의"
   ]
  ],
- "last_run": "2026-10-13T13:08:32.980851+09:00",
+ "last_run": "2026-10-13T13:10:46.937308+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
