@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03434166645612592&mediaCodeNo=257",
-  "https://www.yeongnam.com/web/view.php?key=20261013028183256",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=283252",
-  "https://www.edaily.co.kr/News/Read?newsId=03437446645612592&mediaCodeNo=257",
   "https://byline.network/?p=9004111222623054",
   "https://www.thepowernews.co.kr/view.php?ud=202610131307508279de3f0aa1be_7",
   "https://www.hankyung.com/article/202610138832i",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10901778",
   "https://news.mtn.co.kr/news-detail/2026101315380346090",
   "https://www.dailysecu.com/news/articleView.html?idxno=208862",
-  "https://www.etnews.com/20261014000009"
+  "https://www.etnews.com/20261014000009",
+  "https://www.edaily.co.kr/News/Read?newsId=02702726645612920&mediaCodeNo=257",
+  "https://kpenews.com/View.aspx?No=4262507",
+  "https://www.ziksir.com/news/articleView.html?idxno=149262",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408136"
  ],
  "seen_titles": [
-  "반도체세척·車부품안착도로봇이…휴머노이드20대현장투입",
-  "공장안으로들어온두발로봇⋯산업부,규제빗장해제",
-  "LG유플러스,'U+one'AI고도화···요금납부·로밍가입까지",
-  "금융권해킹'도미노'…금감원,저축은행까지조사망넓혔다",
   "\"생수주문해줘\"한마디면결제까지…카톡,'AI실행창'으로진화",
   "앤트로픽\"새보안시스템으로'증류'90∼99%방어\"",
   "지멘스,AI에이전트로조선·배터리등국내제조업공략",
@@ -6001,7 +5997,11 @@
   "KT,초고속·초저지연‘AI전용회선’출시…데이터센터연결속도높인...",
   "메가박스회생후폭풍…영화산업곳곳에번진'돈맥경화'[엔터코노미]",
   "[김승주교수칼럼]반복되는사이버보안종합대책,이제는이행성적표...",
-  "금융당국,해킹2금융권확산에긴급점검"
+  "금융당국,해킹2금융권확산에긴급점검",
+  "SBI인베스트먼트,AI검증시장주목…투자사셀렉트스타상장도전",
+  "기존대비8배대역폭..KT,AI데이터센터잇는‘AI전용회선’출시",
+  "금융위,금융권해킹대응체계종합점검…보안강화책논의",
+  "메타,새AI모델'뮤즈원더'공개…오픈AI·앤트로픽추격"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-10-14T08:48:14.423598+09:00",
    "초고속 높인 속도 초저지연 ~KT 전용회선 연결 데이터센터 출시"
+  ],
+  [
+   "2026-10-14T08:52:16.542250+09:00",
+   "모델 뮤즈 앤트로픽 원더 추격 공개 메타"
   ]
  ],
- "last_run": "2026-10-14T08:50:45.736381+09:00",
+ "last_run": "2026-10-14T08:52:35.597667+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
