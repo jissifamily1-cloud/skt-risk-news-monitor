@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=20261009235510628fda4f5ab74_1",
-  "https://www.imaeil.com/page/view/2026101006245317789",
-  "https://www.mt.co.kr/tech/2026/10/06/2026100616494840042",
-  "http://www.nongaek.com/news/articleView.html?idxno=97004",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117701",
-  "https://economist.co.kr/article/view/ecn202609220073",
-  "https://www.ziksir.com/news/articleView.html?idxno=147866",
-  "https://www.econovill.com/news/articleView.html?idxno=752627",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1411839",
-  "http://www.inews24.com/view/2011503",
-  "https://zdnet.co.kr/view/?no=20261002120050",
   "https://www.ddaily.co.kr/page/view/2026100214251271345",
   "https://www.sedaily.com/article/20100578",
   "https://biz.sbs.co.kr/article_hub/20000339440?division=NAVER",
@@ -2999,20 +2988,20 @@
   "http://www.inews24.com/view/2014252",
   "https://www.fnnews.com/news/202610130903554918",
   "https://www.news1.kr/society/incident-accident/6317853",
-  "https://www.dt.co.kr/article/12088697"
+  "https://www.dt.co.kr/article/12088697",
+  "https://www.etnews.com/20261013000052",
+  "https://www.kado.net/news/articleView.html?idxno=2077709",
+  "https://www.newstnt.com/news/articleView.html?idxno=722520",
+  "https://www.yna.co.kr/view/AKR20261013046300009?input=1195m",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208848",
+  "https://www.fnnews.com/news/202610130910146508",
+  "https://www.newsis.com/view/NISX20261013_0003823299",
+  "http://www.segyebiz.com/newsView/20261013506766?OutUrl=naver",
+  "https://www.handmk.com/news/articleView.html?idxno=44015",
+  "https://www.bntnews.co.kr/article/view/bnt202610130171",
+  "https://www.tokenpost.kr/news/breaking/421693"
  ],
  "seen_titles": [
-  "공소청남은수사속도,중수청은새사건배당…\"기관간공조관건\"",
-  "\"개미피해막고빚갚았다\"…최태원,SK지분블록딜의‘숨은배려’",
-  "\"최태원SK지분9440억원매각,'3%룰'회피목적있나\"",
-  "기업거버넌스포럼\"최회장,SK지분9440억원매각,3%룰회피의혹\"",
-  "[티조챗]김희영,뉴욕서최태원'한복내조'…젠슨황·이재용과도'당...",
-  "국회도서관토론회,고성·항의로얼룩",
-  "[산업AIEXPO프리뷰]제조AI⑲|산업AI포트폴리오한데묶었다...하...",
-  "얀르쿤“다음AI혁명은피지컬AI와로봇…기회는한국에있다”",
-  "반도체공사앞당기자건설사도'하이테크'인력쟁탈전…\"10년치일감...",
-  "주형철경기도경제부지사,탄도호수상태양광·시화산단제조AI사업...",
-  "연휴보낸코스피,3.7%내리며6300대후퇴...코스닥도4.8%하락",
   "[민주게임방]NC·넥슨·넥써쓰",
   "[현장]외국인220만명겨냥…카카오뱅크,금융격차줄인다",
   "안랩,한국연구재단N2SF구축지원…생성형AI이용환경구현",
@@ -6001,7 +5990,18 @@
   "MS,엔비디아의존줄인다⋯자체AI칩'마이아300'공개",
   "\"해킹유출사고\"...금융감독원,예가람저축은행현장점검",
   "금융권해킹에보이스피싱등2차피해우려…경찰,대국민경보문자",
-  "금감원,‘해킹유출’예가람저축은행현장점검착수"
+  "금감원,‘해킹유출’예가람저축은행현장점검착수",
+  "LGU+,요금·로밍이어매장안내까지AI에이전트이식",
+  "LG·두산,잠실야구장마지막가을야구…5년만에'한지붕'격돌",
+  "삼성전자,'라리스트2027'서비스포크AI주방솔루션선보여",
+  "美증시강세장4주년도달…역대6번째장기",
+  "엠클라우드브리지,공공·교육·연구기관용'Ai365통합AI플랫폼'발표",
+  "델,IBK기업은행백업인프라구축…사이버복원력강화",
+  "\"제미나이쓰고커피마시고\"…KT,'구글AI구독'상품8종출시",
+  "금감원,‘해킹고객정보유출’예가람저축은행현장점검착수",
+  "에이아이웍스,15개국사회혁신리더에'AI시대일자리모델'제안",
+  "‘큽털기’수원KT·서울삼성새시즌전략해부",
+  "앤스로픽,클로드대화1600만건·계정2만4000개적발주장"
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,21 @@
   [
    "2026-10-13T09:36:14.226303+09:00",
    "인핸스 업무 2026서 AgentOS KES 맥락 선보여 기업 운영체계"
+  ],
+  [
+   "2026-10-13T09:40:27.970204+09:00",
+   "시대 에이아이웍스 일자리 제안 리더에 모델 15개국 사회혁신"
+  ],
+  [
+   "2026-10-13T09:40:27.970204+09:00",
+   "전략 서울 큽털기 ~KT 삼성 해부 수원 시즌"
+  ],
+  [
+   "2026-10-13T09:40:27.970204+09:00",
+   "계정 2만4000개 1600만건 대화 클로드 적발 주장"
   ]
  ],
- "last_run": "2026-10-13T09:38:32.917544+09:00",
+ "last_run": "2026-10-13T09:40:51.034414+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
