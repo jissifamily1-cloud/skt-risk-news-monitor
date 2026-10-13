@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026101271787",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449123",
-  "https://biz.sbs.co.kr/article_hub/20000339499?division=NAVER",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3719196",
-  "http://www.kjdaily.com/article.php?aid=1791802781688877002",
-  "http://www.kwangju.co.kr/article.php?aid=1791802800804197277",
-  "https://www.jasm.co.kr/news/view/321196/?sc=Naver",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=868973",
   "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/12/2026101280211.html",
   "https://www.dynews.co.kr/news/articleView.html?idxno=868981",
   "https://www.dynews.co.kr/news/articleView.html?idxno=868968",
@@ -2999,17 +2991,17 @@
   "https://platum.kr/archives/296101",
   "https://www.munhwa.com/article/11623096",
   "https://news.tf.co.kr/read/economy/2375554.htm",
-  "https://www.tokenpost.kr/news/ai/421769"
+  "https://www.tokenpost.kr/news/ai/421769",
+  "https://m.skyedaily.com/news_view.html?ID=312856",
+  "https://news.unn.net/news/articleView.html?idxno=598567",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713541",
+  "https://news.appstory.co.kr/daily19636",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300187.html",
+  "https://www.newscj.com/news/articleView.html?idxno=3439810",
+  "https://www.yna.co.kr/view/AKR20261012175251002?input=1195m",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/13/2026101390126.html"
  ],
  "seen_titles": [
-  "시즌207안타,KT최원준",
-  "끝까지뜨겁다…프로야구홈런왕·최다안타누구?",
-  "[단독]S등급받고도줄줄이뚫렸다…개인정보보호평가'유명무실'",
-  "카카오'브랜드메시지'개인정보논란…개보위현장조사",
-  "[단독]처벌약했나···LG유플러스·네이버발신번호변작방지의무재...",
-  "역투하는삼성배찬승",
-  "삼성배찬승'역투'",
-  "[현장]해가지면여행이시작된다…서울서만난일본‘야경관광’",
   "美나스닥,사상최고가에도'아직저렴하다'는이유[B급기자의B급리...",
   "최태원,'노소영몫33%'에이의…재산분할다시대법으로",
   "kt힐리어드,삼진",
@@ -6001,7 +5993,15 @@
   "시스코\"보안대응늦추는건기술보다조직내칸막이\"",
   "프랑스전역마트냉장고해킹,50도이상올려‘대란’",
   "[2026국감]송경희개보위원장\"개인정보유출에무거운책임감느껴\"",
-  "NTT데이터그룹,앤스로픽오사카데이터센터협의보도"
+  "NTT데이터그룹,앤스로픽오사카데이터센터협의보도",
+  "삼성전자,속도·확장성·영속성3대전략발표",
+  "서울사이버대김환교수,AI합성페르소나연구로국제학술지동시게...",
+  "HBM수요폭증속삼성전자·SK하이닉스는왜추락하나",
+  "아마존,AI스타트업디카트인수협상…기업가치약9조원",
+  "올해개인정보유출신고579건…현장조사는33건그쳐",
+  "[2026국감]\"다크웹떠도는한국인개인정보4억건,도대체누구책임인...",
+  "금융감독원,'해킹유출'예가람·웰컴저축은행현장점검(종합)",
+  "與한준호\"체납된불법스팸과태료464억원…징수대책필요\""
  ],
  "recent_sigs": [
   [
@@ -6915,9 +6915,13 @@
   [
    "2026-10-13T11:56:19.286633+09:00",
    "협의 보도 NTT데이터그룹 오사카 데이터센터"
+  ],
+  [
+   "2026-10-13T11:58:14.203993+09:00",
+   "불법스팸 464억 체납된 필요 징수대책 한준호 과태료"
   ]
  ],
- "last_run": "2026-10-13T11:56:37.802234+09:00",
+ "last_run": "2026-10-13T11:58:34.440780+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
