@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872113",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321640",
-  "https://magazine.hankyung.com/business/article/202610137758b",
-  "https://www.wikitree.co.kr/articles/1165703",
   "https://mhnse.com/news/articleView.html?idxno=1589534",
   "https://www.ddaily.co.kr/page/view/2026101308433329805",
   "https://zdnet.co.kr/view/?no=20261013085143",
@@ -2999,13 +2995,13 @@
   "https://www.joongang.co.kr/article/25469416",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=313080",
   "https://www.edaily.co.kr/News/Read?newsId=04444406645612592&mediaCodeNo=257",
-  "https://www.sentv.co.kr/article/view/sentv202610130142"
+  "https://www.sentv.co.kr/article/view/sentv202610130142",
+  "https://www.news1.kr/politics/general-politics/6318429",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727689",
+  "https://www.dt.co.kr/article/12088903",
+  "https://news.tf.co.kr/read/economy/2375904.htm"
  ],
  "seen_titles": [
-  "'사진통신사'게티이미지파산보호신청...AI경쟁·부채에상장폐지",
-  "한국광고주협회,'2026한국광고주대회'오는22일개최",
-  "AI·데이터로재편되는방송·미디어산업…IBC2026이던진시사점",
-  "세종시의회도시환경위,도시주택국행정사무감사서현안집중점검",
   "세종교사노조,손글씨대회성료…학생2,100여명참여",
   "“속도·확장성·영속성에초점”…삼성전자,새메모리전략공개",
   "래블업,한국어LLM추론가속모델공개…한글날맞춰오픈소스배포",
@@ -6001,7 +5997,11 @@
   "“부모욕해서”…여친목졸라죽인20대,알고보니‘이것’노렸다",
   "[2026국감]티빙·KT·강남언니정보유출도마…보안부실·보상논란폭...",
   "OK저축은행도해킹시도탐지…고객정보유출가능성조사",
-  "5대은행장국감줄소환…해킹사고,연임변수되나"
+  "5대은행장국감줄소환…해킹사고,연임변수되나",
+  "[인터뷰]양향자\"당협위원장경선전수조사해야…신뢰회복차원\"",
+  "에어트렁크,15억달러싱가포르리츠상장내년으로연기",
+  "장덕현\"1인1AI에이전트시작\"…삼성전기,첫사내해커톤개최",
+  "[2026국감]구글,성범죄피해자정보유출'꼬리자르기'논란"
  ],
  "recent_sigs": [
   [
@@ -6863,9 +6863,13 @@
   [
    "2026-10-13T18:50:25.401269+09:00",
    "줄소환 되나 연임 변수 국감 5대 은행장 사고"
+  ],
+  [
+   "2026-10-13T18:52:14.360144+09:00",
+   "전수조사해야 양향자 신뢰회복 당협위원장 경선 차원"
   ]
  ],
- "last_run": "2026-10-13T18:50:47.713296+09:00",
+ "last_run": "2026-10-13T18:52:36.020669+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
