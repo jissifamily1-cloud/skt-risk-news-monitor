@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=170756",
-  "https://www.ddaily.co.kr/page/view/2026101314481542882",
-  "https://biz.chosun.com/it-science/ict/2026/10/13/NUOIKMYDHFFWHATNDNES4D5KCU/",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=364584",
-  "https://www.mk.co.kr/article/12174454",
-  "https://www.kukinews.com/article/view/kuk202610130152",
   "https://www.gukjenews.com/news/articleView.html?idxno=3720001",
   "https://www.dt.co.kr/article/12088790",
   "https://www.koit.co.kr/news/articleView.html?idxno=209467",
@@ -2999,15 +2993,15 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2005516",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7241",
   "https://www.newspim.com/news/view/20261014000173",
-  "https://www.thelec.kr/news/articleView.html?idxno=63657"
+  "https://www.thelec.kr/news/articleView.html?idxno=63657",
+  "https://sports.khan.co.kr/article/202610140837013?pt=nv",
+  "https://www.edaily.co.kr/News/Read?newsId=02673206645612920&mediaCodeNo=257",
+  "https://www.etoday.co.kr/news/view/2635458",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727715",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=280254",
+  "https://www.dt.co.kr/article/12088943"
  ],
  "seen_titles": [
-  "[특징주]금호전기,코스피급락에도7%대상승…호남클러스터기대감...",
-  "샌더스,올트먼'사고감수'발언비난…\"초인공지능영구금지해야\"",
-  "LGU+,요금납부·로밍가입까지돕는AI에이전트도입",
-  "삼성전자·AMD'AI메모리동맹'…CXL확장기술공동시연",
-  "“전세대출연장하고가족계획세웠는데”첫지방근무에금융위직원...",
-  "코난테크,국방AI플랫폼'아르고스'공개…정보분석고도화",
   "해커가냉장고를50도로…프랑스마트냉장고해킹에식품대량폐기",
   "정부,금융위·국방부·개보위등44개기관세종이전확정",
   "개보위,내년상반기세종으로이전한다…임차청사활용해6개기관'우...",
@@ -6001,7 +5995,13 @@
   "평택시,전문가간담회에서평택형방위산업육성전략논의",
   "[프리마켓]삼성전자·SK하이닉스2%안팎반등시도…미반도체주급락...",
   "오픈AI사우디계직원,임원회의실도청혐의로기소",
-  "엔비디아,에이전틱AI용'베라CPU랙'규격첫공개"
+  "엔비디아,에이전틱AI용'베라CPU랙'규격첫공개",
+  "‘연애박사’공대생삼킨추영우,서툴러서더설렌다",
+  "현대차그룹제로원'2026제로원데모데이'개최",
+  "SBI인베스트먼트,AI검증기업셀렉트스타상장추진에투자성과주목",
+  "'203조순매도'외국인돌아올까?…현대차證\"10월말부터반전기회\"",
+  "금융당국,잇단해킹사고에보안점검결과점검…추가대응책논의",
+  "오픈AI임원회의실도청한사우디국적직원체포돼"
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-10-14T08:38:15.510259+09:00",
    "베라 에이전틱 공개 규격 CPU AI용"
+  ],
+  [
+   "2026-10-14T08:40:23.965790+09:00",
+   "국적 사우디 임원회의실 도청한 직원 체포돼"
   ]
  ],
- "last_run": "2026-10-14T08:38:34.225905+09:00",
+ "last_run": "2026-10-14T08:40:45.445757+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
