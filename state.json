@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://platum.kr/archives/295995",
-  "https://www.g-enews.com/view.php?ud=202610112211431808fda4f5ab74_1",
-  "https://kidd.co.kr/news/247687",
-  "https://www.boannews.com/news/articleView.html?idxno=146326",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261012175932dRV",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=408059",
-  "https://www.ddaily.co.kr/page/view/2026101217030722725",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3719082",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000021848&cp=nv",
-  "http://www.inews24.com/view/2014128",
   "https://www.meconomynews.com/news/articleView.html?idxno=202451",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610120125&t=NNv",
   "https://www.theguru.co.kr/news/article.html?no=108139",
@@ -2999,19 +2989,19 @@
   "https://www.ajunews.com/view/20261013101722758",
   "https://biz.heraldcorp.com/article/10900656",
   "https://www.smarttoday.co.kr/ko-kr/articles/112560",
-  "https://www.dt.co.kr/article/12088713"
+  "https://www.dt.co.kr/article/12088713",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881177",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3719631",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479372",
+  "https://www.khan.co.kr/article/202610131023001",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3151271",
+  "https://www.boannews.com/news/articleView.html?idxno=146329",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=158042",
+  "https://www.lawissue.co.kr/view.php?ud=2026101310215375739817d053b9_12",
+  "https://www.khan.co.kr/article/202610131023021",
+  "https://www.newspim.com/news/view/20261013000230"
  ],
  "seen_titles": [
-  "일본도AI해킹에당했다…아르텍스막혀도공포는여전",
-  "대형은행해킹이주는교훈[디센터기고]",
-  "메리츠證“SK텔레콤,해킹영향벗어나2024년이익체력회복”",
-  "SK에너지-SKT'석유시장가격구조개편내부통제강화'...'성장기어전...",
-  "[현장인터뷰]\"볼보이,최형우·강민호선배께사과,기록보다사람되는...",
-  "카뱅,외국인비대면계좌5분내개설",
-  "카카오뱅크,외국인종합금융서비스선보인다",
-  "버넥트,수자원공사와손잡고스마트글라스기반‘AI댐정밀점검’기...",
-  "[AI브리프]네이버클라우드,베트남FPT와AI팩토리사업추진",
-  "네이버클라우드,FPT손잡고아태AI인프라구축사업추진",
   "'물들어왔다'엔트로픽,클라우드다년계약",
   "[AP미디어동향10월1주]국제신문직원들목숨건총력투쟁",
   "'모두의AI'출시앞둔KT,컨소시엄17개사협력강화",
@@ -6001,7 +5991,17 @@
   "[종합]코스피,5%대급락에6000선도불안…8월이후두달만에사이드...",
   "미신고가상자산업자웹사이트막는다…27곳국내접속차단",
   "“요금왜올랐지?”묻고납부까지…LG유플러스,AI에이전트확대",
-  "메타,‘뮤즈원더풀’로AI모델최상위권도약…오픈AI·구글제쳤다"
+  "메타,‘뮤즈원더풀’로AI모델최상위권도약…오픈AI·구글제쳤다",
+  "에이아이웍스,10년포용고용모델및AI사업사례공유",
+  "iM금융그룹iM캐피탈,금융·캐피탈부문6년연속대상...디지털전환...",
+  "\"냉장고가식재료관리하고문도연다\"···삼성전자,AI주방가전기술...",
+  "천안스타트업,우주까지뚫었다···C-STAR‘산업대전환’시동",
+  "현대차·기아,바스트데이터에전략투자…모빌리티AI개발파이프라인...",
+  "[은행이뚫린다-진단③]보안업계제안은?\"IP차단은임시...자산식별...",
+  "LG유플러스,U+oneAI상담넘어업무처리까지…통신플랫폼혁신가속",
+  "LG유플러스,U+oneAI상담넘어요금납부·상품가입까지지원",
+  "LG유플러스,‘U+one’AI에이전트로본격전환",
+  "거세지는후티공격에사우디진퇴양난...대규모지상전부담"
  ],
  "recent_sigs": [
   [
@@ -6739,9 +6739,13 @@
   [
    "2026-10-13T10:20:23.949082+09:00",
    "400만원에 개인정보 성형외과 악용한 거래 2차 우려 환자"
+  ],
+  [
+   "2026-10-13T10:26:15.522799+09:00",
+   "부담 진퇴양난 거세지는 지상전 대규모 공격에 사우디 후티"
   ]
  ],
- "last_run": "2026-10-13T10:24:35.364806+09:00",
+ "last_run": "2026-10-13T10:26:33.414892+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
