@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://weekly.chosun.com/news/articleView.html?idxno=56114",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=364576",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=280099",
   "http://www.4th.kr/news/articleView.html?idxno=2119636",
@@ -2999,10 +2998,10 @@
   "https://www.sedaily.com/article/20101196",
   "https://www.goodkyung.com/news/articleView.html?idxno=292303",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171680",
-  "https://view.asiae.co.kr/article/2026101215162326623"
+  "https://view.asiae.co.kr/article/2026101215162326623",
+  "https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html?partner=naver"
  ],
  "seen_titles": [
-  "프랑스국채금리4.8%…25년만에최고,유럽재정위기우려",
   "[미국특징주]앤스로픽,호주에재생에너지기반데이터센터투자모색",
   "더밀크,22일'트렌드쇼2027'개최...기업AI도입·투자전략논의",
   "코스피6400선무너졌다…외국인누적순매도199조",
@@ -6001,7 +6000,8 @@
   "‘MIT중퇴’29세청년…7개월만에뮤즈개발로대성공",
   "\"통신품고AIDC로날개\"…SKT,성장속도밟는다",
   "\"보안담당임원,경영진제동걸정도힘실려야\"[해킹에뚫린금융⑦...",
-  "[금융현미경]AI·해킹위협에금융권내부통제경고등…커지는'임원책..."
+  "[금융현미경]AI·해킹위협에금융권내부통제경고등…커지는'임원책...",
+  "F.B.I.ArrestsOpenAIEmployeeAccusedofPlantingBuginOffice"
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,13 @@
   [
    "2026-10-14T06:32:15.460812+09:00",
    "커지는 내부통제 위협에 임원 경고등 금융권"
+  ],
+  [
+   "2026-10-14T06:34:15.651246+09:00",
+   "Accused Arrests of in Employee Bug Planting Office"
   ]
  ],
- "last_run": "2026-10-14T06:32:39.509256+09:00",
+ "last_run": "2026-10-14T06:34:34.340455+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
