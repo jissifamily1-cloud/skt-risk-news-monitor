@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202610130075",
-  "http://www.celuvmedia.com/article.php?aid=1791845344529096006",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=7187",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438856",
-  "https://www.joongangenews.com/news/articleView.html?idxno=554328",
-  "https://www.kado.net/news/articleView.html?idxno=2077703",
-  "https://biz.heraldcorp.com/article/10900350",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=408066",
   "https://www.ngonews.kr/news/articleView.html?idxno=240393",
   "https://thetracker.co.kr/View.aspx?No=4260726",
   "https://www.jasm.co.kr/news/view/321215/?sc=Naver",
@@ -2999,17 +2991,17 @@
   "https://biz.heraldcorp.com/article/10901461",
   "http://www.inews24.com/view/2014520",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449243",
-  "https://www.news1.kr/it-science/security-hacking/6318815"
+  "https://www.news1.kr/it-science/security-hacking/6318815",
+  "https://www.kyeonggi.com/article/20261013580550",
+  "https://www.sedaily.com/article/20101179",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=210766",
+  "https://www.chosun.com/economy/economy_general/2026/10/13/GA5LTTQYPRH7LHXXCJL256FTNU/",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=96988",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50789",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=883427",
+  "https://www.ajunews.com/view/20261013174834536"
  ],
  "seen_titles": [
-  "[마켓뷰]美반도체약세에추가하락?반발매수?…코스피향배는",
-  "심장박동감지센서기업아이리듬,6월공격으로최소36만명유출신고",
-  "LG유플러스,회사채발행‘복붙’공시?…중대한악재는반영안돼",
-  "KT'모두의AIConnectSummit2026'개최...'AIFesta2026'참가",
-  "[2026프로야구삼진과홈런사이]기아김도영,마지막날LG전결승투런...",
-  "[선박왕권혁,다시세계로]①15년세금갈등매듭지은권혁…세계해...",
-  "류경완남해군수\"정원의섬·에너지자립으로인구5만자립도시도약...",
-  "[경제일보]메이플·던파다음은마비노기…넥슨,20년IP다시성장축으...",
   "[가을산행·골프와척추건강]단풍에취해무리하다간‘요통’",
   "삼성전자,글로벌미식무대서AI주방솔루션공개..'라리스트'서비스...",
   "\"AI,인류를지배할만큼똑똑하지않다\"AI종말론일축한얀르쿤\"한...",
@@ -6001,13 +5993,17 @@
   "국감소환된티빙·구글코리아…“정보유출추가보상없으면최고수위...",
   "SKT·LGU+,갤럭시·아이폰에'진짜5G'도입…연내상용화추진",
   "SK네트웍스업스테이지에200억추가투자,누적투자금1420억으로확대",
-  "AI發'모두의해킹'시대…\"기업에만책임부과안돼\""
+  "AI發'모두의해킹'시대…\"기업에만책임부과안돼\"",
+  "동거녀살해한20대남성,퇴직금노린‘계획적강도살인’이었다",
+  "삼전닉스추월주장한CXMT…메모리3社주가동반하락",
+  "병원정보보안협회,환자정보유출막을내부자위협대응가이드라인발...",
+  "임광현“李대통령아파트거래,과세대상아냐”",
+  "새마을금고고객정보400여명유출…\"피해발생시전액보상\"",
+  "[2026국감]증인부실채택했나…KT해킹진상규명헛바퀴",
+  "금융권연쇄해킹에새마을금고서도400여명정보유출…\"피해전액보...",
+  "與독주어디까지…野\"민주당,막가는것아닌가\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-13T12:08:14.847412+09:00",
-   "현장 금감원 점검 실시 예가람저축은행 사태"
-  ],
   [
    "2026-10-13T12:14:14.214566+09:00",
    "3사 이동통신사 통신 안방 빼앗길라 SPCX 스페이스X 된다"
@@ -6851,9 +6847,17 @@
   [
    "2026-10-13T18:06:14.715940+09:00",
    "부과 모두의 기업에만 시대 책임"
+  ],
+  [
+   "2026-10-13T18:08:16.094007+09:00",
+   "증인 규명 헛바퀴 채택했나 ~KT 부실 진상"
+  ],
+  [
+   "2026-10-13T18:08:16.094007+09:00",
+   "아닌가 막가는 민주당 독주 어디까지"
   ]
  ],
- "last_run": "2026-10-13T18:06:39.608157+09:00",
+ "last_run": "2026-10-13T18:08:42.874995+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
