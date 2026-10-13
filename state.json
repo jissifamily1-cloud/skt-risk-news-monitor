@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193113",
-  "https://www.yna.co.kr/view/PYH20261012185500013?input=1196m",
-  "https://www.news1.kr/politics/assembly/6317241",
-  "https://www.yna.co.kr/view/PYH20261012181500013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261012181400013?input=1196m",
-  "https://kr.aving.net/news/articleView.html?idxno=1815334",
-  "http://www.mdilbo.com/detail/DDAuq0/759508",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321633",
-  "https://www.theguru.co.kr/news/article.html?no=108075",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3718999",
-  "https://www.seoulfn.com/news/articleView.html?idxno=639861",
   "https://www.viva100.com/article/20261012501129",
   "https://www.newsis.com/view/NISX20261011_0003820980",
   "http://www.yonhapnewstv.co.kr/news/MYH202610121653481Nh",
@@ -2999,20 +2988,20 @@
   "https://www.fnnews.com/news/202610130901016686",
   "https://www.tokenpost.kr/news/ai/421690",
   "https://www.m-economynews.com/news/article.html?no=71583",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103243"
+  "http://www.dailypop.kr/news/articleView.html?idxno=103243",
+  "https://www.hellot.net/news/article.html?no=115397",
+  "https://www.widedaily.com/news/articleView.html?idxno=301879",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479363",
+  "https://www.viva100.com/article/20261013500220",
+  "https://www.ajunews.com/view/20261013092147456",
+  "https://www.rapportian.com/news/articleView.html?idxno=241177",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706603",
+  "https://www.businessplus.kr/news/articleView.html?idxno=118059",
+  "https://www.seoultimes.news/news/article.html?no=2000100801",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479155",
+  "https://www.fnnews.com/news/202610130906437071"
  ],
  "seen_titles": [
-  "통장개설부터송금까지앱하나로...카카오뱅크,외국인금융확대",
-  "최태원\"사회적가치도보상받아야\"...'새로운자본주의'로의전환강조",
-  "AI로문제찾고직접푼다…SK,청년대상2년제‘아이젠’출범",
-  "KT'모두의AI'12월출격…17개사모여서비스준비점검",
-  "[속보]이진숙,방미통위국감서'제척'…국힘불참속찬성12표",
-  "최고경영진하이닉스집결…‘AI·반도체’쏠리는SK[2027인사풍향계...",
-  "‘최원준과2개차’최다안타1위굳힌다!롯데라인업공개,레이예스...",
-  "'최원준?따라올테면따라와봐'207안타레이예스,연이틀1번타자출격...",
-  "\"준PO계산하며WC치를순없잖아요\"잭로그도불펜대기,'내일이없는...",
-  "2026국정감사출석한'정유4사·쿠팡·배민·홈플러스'",
-  "글로벌출시‘아이온2’,게임스트리밍지표는?",
   "\"AI데이터센터투자열풍,토큰가격급락에꺾일수도\"",
   "인트레피드컨트롤씨스템즈코리아,DIFA2026서차량네트워크분석솔루...",
   "SK하이닉스,3Q최대실적예고···HBM4에D램까지'효자'",
@@ -6001,7 +5990,18 @@
   "'뮤즈'로이용자잡은메타...고성능AI모델로기술경쟁력강화[1일IT템...",
   "앤스로픽,알리바바연관클로드증류시도서교환1억5100만건관측",
   "호남반도체팹4기,전기는어떻게...재생에너지논쟁의핵심은‘공급...",
-  "삭제요청넘어직접차단…경찰'합법적해킹'추진"
+  "삭제요청넘어직접차단…경찰'합법적해킹'추진",
+  "에이아이웍스,매출62%성장...15개국에AI고용모델공유",
+  "답변에서실행까지…LGU+,앱하나로다해주는'액셔너블AI'본격화",
+  "\"요금납부부터로밍가입까지AI가처리\"···LGU+,고객앱전면개편",
+  "삼성전자,‘라리스트2027’서AI기반주방가전선보여",
+  "[개장시황]코스피4%대하락…中반도체추격에외국인대량매도",
+  "병원정보보안협,의료기관내부자위협관리가이드라인발간",
+  "코난테크놀로지,11월'국방AI서밋'개최…정보분석플랫폼첫공개",
+  "LG유플러스,U+oneAI검색고도화…요금납부·로밍가입까지처리",
+  "LG유플러스,U+oneAI로요금납부·로밍가입까지처리",
+  "KT'모두의AI'12월출격···17개기업뭉쳐AI서비스경쟁본격화",
+  "AI가요금내고로밍가입…LG유플러스,가입자앱AI고도화"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,13 @@
   [
    "2026-10-13T09:28:14.386427+09:00",
    "차단 삭제 넘어 경찰 요청 직접 합법적"
+  ],
+  [
+   "2026-10-13T09:30:31.512337+09:00",
+   "요금내고 ~LGU AI가 로밍가입 LG유플러스 가입자앱 고도화"
   ]
  ],
- "last_run": "2026-10-13T09:28:45.045462+09:00",
+ "last_run": "2026-10-13T09:30:49.576160+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
