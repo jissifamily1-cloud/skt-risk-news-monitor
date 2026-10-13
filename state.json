@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202610122147003?pt=nv",
-  "https://imnews.imbc.com/news/2026/sports/article/6857396_36946.html",
-  "https://www.venturesquare.net/1119123/",
   "https://www.dailian.co.kr/news/view/1700615/?sc=Naver",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1012698",
   "http://www.stoo.com/article.php?aid=109322884410",
@@ -2999,12 +2996,12 @@
   "https://www.wolyo.co.kr/news/articleView.html?idxno=318648",
   "https://www.ajunews.com/view/20261013111236070",
   "https://www.ppss.kr/news/articleView.html?idxno=315270",
-  "https://www.newsis.com/view/NISX20261013_0003823865"
+  "https://www.newsis.com/view/NISX20261013_0003823865",
+  "https://kr.aving.net/news/articleView.html?idxno=1815408",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=318979",
+  "http://www.inews24.com/view/2014351"
  ],
  "seen_titles": [
-  "KT위즈'한국시리즈에서만나요'",
-  "김도영100호홈런승부갈랐다…기아,엘지꺾고준PO직행",
-  "최태원,노소영몫재산분할33%불복…상고이유서제출",
   "KT'승리의기쁨'",
   "\"구글·애플인앱결제제재10월내결정\"",
   "김건희페이스북,해킹3개월방치",
@@ -6001,7 +5998,10 @@
   "KT·LGU+계열알뜰폰'0원·마이너스요금'도마...\"공정경쟁훼손우려...",
   "개인정보유출신고급증하는데…현장조사는5.7%그쳐",
   "﻿백억커피,LG유플러스'유플투쁠'참여...마케팅비용전액본사부담",
-  "日야마하발동기1600명개인정보유출우려…외부업체해킹"
+  "日야마하발동기1600명개인정보유출우려…외부업체해킹",
+  "'KES2026'코엑스서개막…28개국500여개사'AIinMotion'혁신기술...",
+  "[2026국감]방산자료유출63건...유용원\"보안관리체계점검시급\"",
+  "[2026국감]개보위원장\"개인신용정보유출에무거운책임감⋯금융·공..."
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,13 @@
   [
    "2026-10-13T13:40:24.570947+09:00",
    "전액 ~LGU 비용 백억커피 LG유플러스 참여 부담 유플투쁠 마케팅 본사"
+  ],
+  [
+   "2026-10-13T13:42:14.979142+09:00",
+   "책임감 개보위원장 금융 개인신용정보 무거운 유출에"
   ]
  ],
- "last_run": "2026-10-13T13:40:42.691775+09:00",
+ "last_run": "2026-10-13T13:42:37.211648+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
