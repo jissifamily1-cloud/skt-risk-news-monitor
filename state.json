@@ -1,18 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16245110",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259612",
-  "https://www.tokenpost.kr/news/breaking/421497",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42269",
-  "http://coinreaders.com/262721",
-  "https://www.jemin.com/news/articleView.html?idxno=844235",
-  "http://www.snmnews.com/news/articleView.html?idxno=575685",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438587",
-  "http://www.inews24.com/view/2013436",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=728696",
-  "https://www.hankookilbo.com/news/article/A2026100908490000859?did=NA",
-  "https://www.news2day.co.kr/article/20261011500021",
-  "https://www.joongang.co.kr/article/25468778",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=561983",
   "http://www.inews24.com/view/2013643",
   "https://www.ajunews.com/view/20261011200616079",
@@ -2999,20 +2986,22 @@
   "https://www.edaily.co.kr/News/Read?newsId=03611286645612592&mediaCodeNo=257",
   "https://www.etnews.com/20261013000342",
   "https://www.news1.kr/finance/blockchain-fintech/6318520",
-  "https://www.sedaily.com/article/20101028"
+  "https://www.sedaily.com/article/20101028",
+  "https://www.news1.kr/sports/baseball/6318523",
+  "https://theviewers.co.kr/View.aspx?No=4261376",
+  "https://www.irobotnews.com/news/articleView.html?idxno=48967",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593958273066",
+  "https://www.boannews.com/news/articleView.html?idxno=146359",
+  "https://www.theguru.co.kr/news/article.html?no=108177",
+  "https://www.etnews.com/20261013000343",
+  "https://www.etnews.com/20261013000345",
+  "https://www.newsis.com/view/NISX20261013_0003824070",
+  "https://zdnet.co.kr/view/?no=20261013153224",
+  "https://kr.aving.net/news/articleView.html?idxno=1815396",
+  "https://www.etnews.com/20261013000346",
+  "https://www.nocutnews.co.kr/news/6590752"
  ],
  "seen_titles": [
-  "[한국전자전개막]삼성·LG부터CES주관사까지…'AI혁신집결'한국전...",
-  "빅테크‘연산효율화기업’인수전쟁",
-  "“GPU는있는데전기가없다”⋯美AIDC32GW전력난,HBM새변수[AI호...",
-  "팔아도못팔아도비명…주가반토막난현대차·기아딜레마",
-  "네돌맞은美주식강세장…\"쉽게버는구간은끝\"",
-  "아마존'월드모델'데카르트품는다…9조원에인수논의",
-  "바이빗,USDC로미국주식·ETF1,000종산다…수수료0원에주5일24시간",
-  "EUV한계40배뚫는AI기판…삼성·하이닉스방열신기술로판가름",
-  "[출근길포인트]청년주택드림청약통장가입소득기준5,000만→7,000만원...",
-  "스마트폰소매가20%오르자3분기출하량20%급감…메모리부품값직격...",
-  "비트코인변동성낮아졌으나극단적움직임은심화",
   "\"S&P500최고치인데내계좌는왜이래\"…답은'국채금리5%'",
   "마이크로소프트,AI반도체'마이아300'공개…삼성전자·SK하이닉스HB...",
   "르노,2028년韓전기차에‘레벨2++’적용추진…“AI결합한스마트카...",
@@ -6001,7 +5990,18 @@
   "[속보]코스피,中반도체쇼크에6000선턱걸이…외국인4.5조팔자",
   "카스퍼스키,글로벌보안전문가서밋'SAS2026'개최",
   "앱이어웹사이트까지…FIU,미신고코인업체27곳국내접속차단",
-  "저축은행,내년사업계획에보안강화담는다…해킹배상도준비"
+  "저축은행,내년사업계획에보안강화담는다…해킹배상도준비",
+  "'1277만관중'프로야구,올해도기록풍년…강민호2500경기출전",
+  "카카오톡에AI비서심는다…카카오,'에이전틱AI'청사진공개",
+  "미시간경제개발공사-한국AI·로봇산업협회,회원사방문북미로봇생태...",
+  "[칼럼]코스피급등락시대,수익률보다중요한것은‘투자원칙’",
+  "금융보안원,'FISCON2026'콘퍼런스개최...AI로재편될미래금융대비",
+  "'K-통신기술력과시'SKT·KT,유럽최대무대'네트워크X'서AI네트워...",
+  "[포토]키노트강연하는정소영엔비디아코리아엔터프라이즈사업부문...",
+  "미·중·러정상회담기대속…美기업인들,中선전APEC에시큰둥",
+  "개인정보보호위원회이름변경을?...박민규의원\"보호떼라\"고제안",
+  "코스모스,AIoT국제전시회서LoRa자가망센서3종공개...\"통신사망...",
+  "중소방송지원할길열린다…내년4월시행"
  ],
  "recent_sigs": [
   [
@@ -6691,9 +6691,29 @@
   [
    "2026-10-13T15:46:15.369842+09:00",
    "사업계획에 내년 배상도 강화 저축은행 보안 준비 담는다"
+  ],
+  [
+   "2026-10-13T15:48:16.138470+09:00",
+   "무대 네트워크 ~SKT ~KT 유럽 기술력 네트워 통신 과시"
+  ],
+  [
+   "2026-10-13T15:48:16.138470+09:00",
+   "센서 공개 국제전시회서 AIoT LoRa 3종 코스모스 자가망"
+  ],
+  [
+   "2026-10-13T15:48:16.138470+09:00",
+   "것은 시대 원칙 중요한 투자 수익률보다 코스피 급등락"
+  ],
+  [
+   "2026-10-13T15:48:16.138470+09:00",
+   "정소영 부문 엔비디아코리아 키노트 사업 엔터프라이즈 강연하는"
+  ],
+  [
+   "2026-10-13T15:48:16.138470+09:00",
+   "시행 지원할 열린다 중소방송 내년 4월"
   ]
  ],
- "last_run": "2026-10-13T15:46:37.806895+09:00",
+ "last_run": "2026-10-13T15:48:45.431954+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
