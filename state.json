@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026101218243118476",
-  "https://www.ajunews.com/view/20261012163624341",
-  "https://www.kukinews.com/article/view/kuk202610120242",
-  "https://www.edaily.co.kr/News/Read?newsId=02214006645612264&mediaCodeNo=257",
-  "https://www.mediapen.com/news/view/1129381",
-  "https://www.starnewskorea.com/sports/2026/10/12/2026101215285472592",
-  "https://www.dt.co.kr/article/12088624",
   "http://www.inews24.com/view/2014132",
   "https://www.mk.co.kr/article/12173980",
   "http://www.ikld.kr/news/articleView.html?idxno=342091",
@@ -2999,16 +2992,16 @@
   "https://www.smarttoday.co.kr/ko-kr/articles/112566",
   "https://www.news1.kr/it-science/security-hacking/6317968",
   "https://www.cbci.co.kr/news/articleView.html?idxno=614816",
-  "https://www.newstnt.com/news/articleView.html?idxno=722569"
+  "https://www.newstnt.com/news/articleView.html?idxno=722569",
+  "https://www.mt.co.kr/tech/2026/10/12/2026101218064494370",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=322056",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94282",
+  "https://www.news1.kr/finance/general-stock/6318019",
+  "https://www.newsis.com/view/NISX20261013_0003823528",
+  "http://www.inews24.com/view/2014327",
+  "https://www.ppss.kr/news/articleView.html?idxno=315187"
  ],
  "seen_titles": [
-  "[손재권칼럼]‘암달의법칙’과AI도입의역설",
-  "머스크·저커버그·올트먼'악역'그린영화잇따라개봉",
-  "S&P500동일가중5%하락…대형주가지수낙폭완충",
-  "[기고]두광중스물두명,오늘의통신사",
-  "\"후라도,감정적으로흔들렸다\"박진만감독쓴소리,이강철감독도\"총...",
-  "최원준,태도논란에사과…\"감정조절못한명백한잘못\"",
-  "리프부탄“중국AI모델충분히우수”…오픈소스효율강조",
   "[기고]국가R&D,‘창조적파괴’지향해야",
   "최태원,노소영과67:33재산분할비율다툰다…상고이유서제출",
   "이진숙,방미통위국감서제척…\"다수횡포이자폭력\"",
@@ -6001,7 +5994,14 @@
   "삼성전자,라리스트2027서비스포크AI주방가전공개",
   "송경희\"조사비협조엔이행강제금…증거은닉엔과징금추진\"",
   "통신상장기업브랜드평판10월빅데이터분석결과…1위KT·2위SK텔레콤...",
-  "춘천공단오거리~한림성심병원전선지중화…19일착공"
+  "춘천공단오거리~한림성심병원전선지중화…19일착공",
+  "SKT,'제타'운영사스캐터랩지분처분하나…\"확정된것없어\"",
+  "BC카드,'그랜드민트페스티벌'10%할인제공",
+  "삼성전자,HBM넘어CXL·SSD까지…AI메모리병목해소전략공개",
+  "'반도체쇼크'코스피6%급락…장중6000선붕괴(상보)",
+  "송경희개인정보위원장\"유출사고무거운책임…징벌적과징금엄정집...",
+  "[정구민의톺아보기]파리모터쇼,중국자동차사들의'인유럽,포유럽...",
+  "[오늘의특징주]예선테크·바이오인프라·서산상한가...상장폐지유예..."
  ],
  "recent_sigs": [
   [
@@ -6783,9 +6783,17 @@
   [
    "2026-10-13T10:42:14.696801+09:00",
    "400곳 마트 해킹으로 유럽 식품 식탁 덮친 폐기 냉장고 전량"
+  ],
+  [
+   "2026-10-13T10:46:15.237820+09:00",
+   "중국 자동차사들의 유럽 파리모터쇼"
+  ],
+  [
+   "2026-10-13T10:46:15.237820+09:00",
+   "예선테크 서산 유예 상한가 상장폐지 바이오인프라"
   ]
  ],
- "last_run": "2026-10-13T10:44:29.885115+09:00",
+ "last_run": "2026-10-13T10:46:36.192505+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
