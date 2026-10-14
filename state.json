@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspost.kr/news/articleView.html?idxno=226336",
-  "https://www.khan.co.kr/article/202610131637001",
-  "https://www.thelec.kr/news/articleView.html?idxno=63638",
-  "http://www.breaknews.com/1242667",
-  "https://www.boannews.com/news/articleView.html?idxno=146361",
-  "https://www.econovill.com/news/articleView.html?idxno=753450",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071306",
-  "https://www.yna.co.kr/view/AKR20261013155900002?input=1195m",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494968",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/13/2026101300175.html",
   "http://www.finomy.com/news/articleView.html?idxno=263456",
   "https://www.fnnews.com/news/202610131634571822",
@@ -2999,18 +2990,18 @@
   "https://www.delighti.co.kr/news/articleView.html?idxno=123216",
   "http://www.yonhapnewstv.co.kr/news/AKR20261014103304W5L",
   "https://www.edaily.co.kr/News/Read?newsId=03135686645612920&mediaCodeNo=257",
-  "http://www.metroseoul.co.kr/article/20261014500127"
+  "http://www.metroseoul.co.kr/article/20261014500127",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3720987",
+  "http://www.iminju.net/news/articleView.html?idxno=170803",
+  "https://www.fnnews.com/news/202610141011514997",
+  "https://www.dailian.co.kr/news/view/1701306/?sc=Naver",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242173",
+  "http://www.beyondpost.co.kr/view.php?ud=202610141030085698be44c0aacd_30",
+  "https://www.asiatime.co.kr/article/20261014500058",
+  "https://www.seoultimes.news/news/article.html?no=2000100860",
+  "https://www.smartbizn.com/news/articleView.html?idxno=156355"
  ],
  "seen_titles": [
-  "[포토]증인선서하는이상운KTCISO",
-  "佛슈퍼마켓덮친해킹…냉장고50도치솟고화재까지",
-  "법무·성평등부등44곳세종이전…내년부터공무원1만명이동",
-  "AI가표적찾고해킹공격까지…정부대응체계는'미흡'",
-  "\"대기록포기선택\"…박재현·박승규,팀승리를택했다",
-  "'연애박사'추영우·김소현,달라진분위기속어색한대면…관계변화...",
-  "박지원국회의원,교육부에서김제·부안교육환경개선에26억특별교...",
-  "코스피,6000선위에서턱걸이마감...외국인‘팔자’언제까지이어지...",
-  "정의선의6년,글로벌'빅3'도약…자동차넘어미래기술로[재계PICK]",
   "‘정의선6년’의현대차그룹,미국선‘역대최대’인데안방선흔들린...",
   "IBK기업은행,델데이터백업복제솔루션도입",
   "김현정민주당의원“개인정보3년간316만건...탈퇴회원정보방치'...",
@@ -6001,7 +5992,16 @@
   "KT그룹희망나눔재단,대전서어르신320명에삼계탕나눔",
   "금융위,오늘'은행권해킹'점검회의…새마을금고정보유출도주시",
   "정규시즌우승이끈KT3인방,마지막월간MVP도노린다",
-  "[해킹에뚫린금융보안]<中>취약점찾고도…은행권해킹방어망'허점..."
+  "[해킹에뚫린금융보안]<中>취약점찾고도…은행권해킹방어망'허점...",
+  "[조간신문뉴스라인]대전∙충남∙세종14일(수)",
+  "LGCNS,日KDDI와아태지역정조준…AI·DX·RX아우른다",
+  "LS증권,국내선물옵션수수료최대90%할인…연말까지진행",
+  "AI부터로보틱스까지…현대차그룹,'2026데모데이'개최",
+  "\"AI-RAN학습데이터,'무선디지털트윈'으로확보\"",
+  "LG전자,애플과차세대IoT7종공동개발…AI홈생태계확장",
+  "KT,AIDC인프라혁신…초고속·초저지연‘AI전용회선’선봬",
+  "KT,최대800Gbps‘AI전용회선’출시…데이터센터간대용량전송지...",
+  "금융위,금융권해킹대응점검···추가보안대책논의"
  ],
  "recent_sigs": [
   [
@@ -6661,7 +6661,7 @@
    "은행권 취약점 찾고도 방어망 허점"
   ]
  ],
- "last_run": "2026-10-14T10:34:40.417826+09:00",
+ "last_run": "2026-10-14T10:36:29.003815+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
