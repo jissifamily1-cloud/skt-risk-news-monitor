@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=408015",
-  "https://www.thisisgame.com/articles/430821",
-  "https://www.jemin.com/news/articleView.html?idxno=844235",
-  "https://www.g-enews.com/view.php?ud=202610112211431808fda4f5ab74_1",
-  "http://www.snmnews.com/news/articleView.html?idxno=575685",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4438587",
-  "https://zdnet.co.kr/view/?no=20261013085154",
   "https://www.newspim.com/news/view/20261013000220",
   "https://www.etoday.co.kr/news/view/2634904",
   "https://www.chosun.com/economy/tech_it/2026/10/13/CR6XIZUFBZCQ3FXPOVG6PQ3DR4/",
@@ -2999,16 +2992,16 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707106",
   "https://www.kyeonggi.com/article/20261013580046",
   "https://www.sisajournal.com/news/articleView.html?idxno=390230",
-  "https://www.sedaily.com/article/20101607"
+  "https://www.sedaily.com/article/20101607",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3721612",
+  "https://www.aitimes.com/news/articleView.html?idxno=216258",
+  "https://www.bloter.net/news/articleView.html?idxno=675710",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400356.html",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640078",
+  "https://www.ppss.kr/news/articleView.html?idxno=315524",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=125097"
  ],
  "seen_titles": [
-  "엔비디아,美과학기술에10억달러투자",
-  "트럼프\"AI대신슈퍼지능용어써야\"주장에미국빅테크동조,엔비디...",
-  "엔비디아,양자컴퓨팅등에5년간10억달러투자",
-  "애플팀쿡,7개월만에또방중…광둥서사업확대등논의",
-  "베이조스\"AI쓰면주3일근무·외벌이로수입충분…구인난올것\"",
-  "직원12명에서4명으로…'PD수첩',AI시대고용변화추적",
-  "엔비디아,美과학·양자컴퓨팅에5년간10억달러투자···초지능연...",
   "EV부터로봇까지…‘유연한리더십’이만든현대차혁신",
   "\"AI쓰면백악관적\"…트럼프강경발언에빅테크움직였다",
   "[정인교의트레이드오프]美·中관세휴전두달연장…트럼프는무엇...",
@@ -6001,7 +5994,14 @@
   "[데일리픽]애플,스마트홈제품군공개…XRP레저반등할까",
   "[송용진의세상읽는방정식]AI의수학침공",
   "금융권AI해킹에10만건유출…은행·가상자산등16곳",
-  "긴급보안점검에도2금융권해킹잇따라…취약점전방위공격"
+  "긴급보안점검에도2금융권해킹잇따라…취약점전방위공격",
+  "[포토]추경호대구광역시장,'맛과산업의만남'대구국제식품산업전...",
+  "스페이스XSI,X·그록·커서통합한월구독패키지출시",
+  "고팍스\"외부유출계정정보이용한접근시도포착…피해는없어\"",
+  "[르포]HBM4E·TC본더·MSVP한자리에…AI반도체경쟁무대된세덱스...",
+  "[현장]삼성은'통합',SK는'확장'…HBM이후반도체승부갈린다",
+  "금융권해킹대란,총16개사개인정보10만건유출...130곳보안관리...",
+  "인터넷진흥원,LG유플러스해킹사실은폐빌미줬다"
  ],
  "recent_sigs": [
   [
@@ -6779,9 +6779,13 @@
   [
    "2026-10-14T17:08:17.420697+09:00",
    "긴급 잇따라 전방위 2금융권 취약점 보안점검에도 공격"
+  ],
+  [
+   "2026-10-14T17:10:25.668331+09:00",
+   "빌미 인터넷진흥원 ~LGU 은폐 LG유플러스 줬다 사실"
   ]
  ],
- "last_run": "2026-10-14T17:08:35.184810+09:00",
+ "last_run": "2026-10-14T17:10:49.397847+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
