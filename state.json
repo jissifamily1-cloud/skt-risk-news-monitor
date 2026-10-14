@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202610140042387219",
-  "https://www.fnnews.com/news/202610140003036212",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796109&plink=ORI&cooper=NAVER",
-  "https://news.tf.co.kr/read/ptoday/2375921.htm",
-  "https://www.yna.co.kr/view/AKR20261013159051082?input=1195m",
-  "https://www.mk.co.kr/article/12175076",
-  "https://www.mk.co.kr/article/12175072",
-  "https://www.tokenpost.kr/news/ai/422214",
-  "https://www.tokenpost.kr/news/policy/422215",
   "https://www.seoul.co.kr/news/economy/industry/2026/10/14/20261014032002?wlog_tag3=naver",
   "https://www.seoul.co.kr/news/economy/distribution/2026/10/14/20261014032003?wlog_tag3=naver",
   "https://www.aitimes.com/news/articleView.html?idxno=216220",
@@ -2999,18 +2990,18 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=242188",
   "https://www.slist.kr/news/articleView.html?idxno=773405",
   "https://www.ggilbo.com/news/articleView.html?idxno=1186917",
-  "https://www.hankookilbo.com/news/article/A2026101413590002916?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026101413590002916?did=NA",
+  "https://www.etnews.com/20261014000365",
+  "https://www.ekn.kr/web/view.php?key=20261014025196145",
+  "https://www.sedaily.com/article/20101564",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408194",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004433",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=883517",
+  "https://basketkorea.com/news/newsview.php?ncode=1065596137876606",
+  "https://www.econovill.com/news/articleView.html?idxno=753595",
+  "https://www.mt.co.kr/finance/2026/10/14/2026101415210579063"
  ],
  "seen_titles": [
-  "이통사DCB세금0원,형평성논란",
-  "현대차그룹,인도에155억달러투자…글로벌생산거점도약",
-  "EU,유가급등에석유·가스기업초과이익세재도입검토착수",
-  "ARS못받은44명에국힘발칵…“부정선거”외친장동혁‘부메랑’",
-  "피싱범죄책임금융사에전가…무과실배상책임논란",
-  "유럽완성차,레트로전기차로중국기업의유럽시장진출대응",
-  "에너지엑스,트라피구라와20억달러리튬공급계약체결",
-  "폴란드통신시설방화범들붙잡혔다…당국\"러시아배후확실\"",
-  "[GAM]AST스페이스모바일①스페이스X주파수공세에월가\"오히려매수...",
   "[GAM]AST스페이스모바일②\"스페이스X가통신3사를AST품으로밀어낸...",
   "폴란드스타링크통신시설방화공작...러시아의심",
   "우크라'통신생명줄'뻗친방화공작…폴란드\"스타링크공격배후는...",
@@ -6001,7 +5992,16 @@
   "금융권침해사고16개사·정보유출약10만건…동일공격자·AI활용여...",
   "금융권AI해킹피해16곳으로확대…개인정보10만건유출확인",
   "금융권연쇄해킹,제2금융권까지…보안허점노출",
-  "냉장고·TV·세탁기AI로연결되는데…가전제품이해킹통로될라"
+  "냉장고·TV·세탁기AI로연결되는데…가전제품이해킹통로될라",
+  "중소알뜰폰,이통자회사가입자앞섰지만…질적성장은과제",
+  "[현장]“김대중정부가만든KAI,한화에넘길텐가”…노조,청와대결...",
+  "8년만의재도전…애플‘홈뷰’의승부수는프라이버시",
+  "\"개인용AIPC부터기업용에이전틱AI까지\"…에이수스,'에이전트컴퓨...",
+  "[포토]댄아이브스,AI시대유망기술주투자전략제시",
+  "국가중요시설부산항감시망에'중국산장비'수백개…백도어검증은...",
+  "수원KT,2026-2027시즌정조대왕스페셜유니폼출시",
+  "[SEDEX·KES2026]젠슨황친필부터베라루빈까지…SK하이닉스,여전한...",
+  "해킹사고16개금융사서전방위적으로터졌다..10만건정보유출"
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,13 @@
   [
    "2026-10-14T15:56:17.278979+09:00",
    "세탁기 가전제품이 연결되는데 될라 TV 냉장고 AI로 통로"
+  ],
+  [
+   "2026-10-14T15:58:15.149879+09:00",
+   "친필부터 SK하이닉스 루빈까지 여전한 젠슨 베라"
   ]
  ],
- "last_run": "2026-10-14T15:56:35.410000+09:00",
+ "last_run": "2026-10-14T15:58:36.211728+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
