@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/gyeonggi/6319710",
-  "https://www.g-enews.com/view.php?ud=202610141330428102fbbec65dfb_1",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90240",
-  "https://news.tf.co.kr/read/economy/2376148.htm",
-  "https://www.m-i.kr/news/articleView.html?idxno=2005751",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141329178560530",
-  "https://www.newspim.com/news/view/20261014000851",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=32239",
-  "https://www.todayenergy.kr/news/articleView.html?idxno=304161",
-  "https://www.mt.co.kr/world/2026/10/14/2026101412450439480",
   "https://www.sedaily.com/article/20101469",
   "http://www.journalist.or.kr/news/article.html?no=61846",
   "https://dealsite.co.kr/articles/170584",
@@ -2999,19 +2989,19 @@
   "https://biz.sbs.co.kr/article_hub/20000340059?division=NAVER",
   "https://www.newsway.co.kr/news/view?ud=2026101508290186141",
   "https://www.newspim.com/news/view/20261015000125",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590050.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590050.html",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7187",
+  "https://news.tf.co.kr/read/economy/2376440.htm",
+  "https://www.newsway.co.kr/news/view?ud=2026101508411705420",
+  "https://www.ytn.co.kr/_ln/0102_202610150813177730",
+  "https://www.viva100.com/article/20261015500098",
+  "https://www.fnnews.com/news/202610150829444191",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172059",
+  "https://kpenews.com/View.aspx?No=4264296",
+  "https://www.sedaily.com/article/20101783",
+  "https://news.jtbc.co.kr/article/NB12323059?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "KT최원준·힐리어드·대니엘,SSG아빌라·조병현등6명9~10월MVP후보...",
-  "[더벨][다시뛰는부동산운용사]\"LB운용2기출발선…그룹문화기반...",
-  "경기스타트업서밋개막…'그레이트이노베이션'주제",
-  "미국빗장피하려게임용칩100만개싹쓸이한중국,전세계게이머발...",
-  "KT,'AI전용회선'출시…최대800Gbps대역폭지원",
-  "GS건설,LG전자·美GRC와AI데이터센터냉각기술개발협력",
-  "의왕시,공동주택화재·산불대비재난대응훈련실시",
-  "'K-뷰티'화장품넘어서비스로…정부,AI진단ㆍ메디컬뷰티전방위지...",
-  "안산시,민선9기출범100일비전선포...\"'이음의시정'으로체감성과...",
-  "이민근안산시장\"말보다실행\"…민선9기100일맞아안산미래전략공...",
   "2026년세계표준의날기념식\"제조AI대전환,K-표준이완성한다\"",
   "조정없는고요함,이달말변동성폭풍오나…옵션시장의경고[오미주...",
   "“뉴욕택시기사도코스피안다…中삼전닉스추격은‘소설’불과”",
@@ -6001,7 +5991,17 @@
   "SKT,'네트워크X어워드'수상…\"AI기반기술력인정\"",
   "KT,고객보상비용에실적부진…6조원AI인프라투자주목[애널리스트...",
   "\"앤스로픽,3분기매출168억달러로급증...2분기연속흑자\"",
-  "[아이온의AI:온]해킹에냉장고가80도로…현실파고든사이버공격"
+  "[아이온의AI:온]해킹에냉장고가80도로…현실파고든사이버공격",
+  "SK텔레콤,에이닷전화에'음성스팸신고'기능탑재…\"이통사최초적...",
+  "현대모비스,中상하이서오픈이노베이션확대",
+  "\"사과가5조달러라고?\"…시총신기록쓴애플",
+  "6거래일연속하락,저가매수기회?금통위·삼전닉스실적...\"두들겨...",
+  "삼성전자,美실리콘밸리서글로벌통신업계와6G협력논의",
+  "최태원\"한·일경제공동체구축해야…에너지·AI공동대응\"",
+  "애플시총5조달러첫돌파…엔비디아이어세계두번째",
+  "삼성전자·SK하이닉스,차세대AI반도체주도권노린다..첨단솔루션공...",
+  "최태원지분사는마이클델…엔비디아로이어진파트너십관계확대",
+  "오픈AI회의실에몰래…휴지로가린도청장치발각[소셜픽]"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,17 @@
   [
    "2026-10-15T08:44:14.073168+09:00",
    "야시장 만드는 음식 과일을 반도체와 대만 예찬 젠슨"
+  ],
+  [
+   "2026-10-15T08:48:14.433741+09:00",
+   "이어진 파트너십 관계 엔비디아로 지분 사는 확대 마이클"
+  ],
+  [
+   "2026-10-15T08:48:14.433741+09:00",
+   "가린 휴지로 발각 회의실에 도청장치 몰래"
   ]
  ],
- "last_run": "2026-10-15T08:46:33.817838+09:00",
+ "last_run": "2026-10-15T08:48:40.531690+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
