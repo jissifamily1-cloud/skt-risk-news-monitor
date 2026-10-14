@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12322928?influxDiv=NAVER",
-  "http://www.breaknews.com/1242855",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278769",
-  "https://www.naeil.com/news/read/605099",
-  "https://sports.khan.co.kr/article/202610141308003?pt=nv",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3721207",
   "https://www.ddaily.co.kr/page/view/2026101412565132692",
   "https://www.naeil.com/news/read/605087",
   "https://www.naeil.com/news/read/605105",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/tech/2026/10/12/2026101110502935778",
   "https://www.edaily.co.kr/News/Read?newsId=02627286645613248&mediaCodeNo=257",
   "https://www.newspim.com/news/view/20261015000080",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5225041"
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5225041",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=366214",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439308",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=302674",
+  "https://www.news1.kr/finance/market-exr/6320548",
+  "https://www.slist.kr/news/articleView.html?idxno=773572",
+  "https://www.g-enews.com/view.php?ud=202610140814554082fda4f5ab74_1"
  ],
  "seen_titles": [
-  "의사결정모델'제브'표절논란...\"1년전연구베꼈다\"",
-  "연말금융권대거‘인사도미노’온다…판흔들변수는",
-  "노소영,9440억재산분할맞상고포기…최태원재상고로대법원행",
-  "KT,AI데이터폭증대응..최대800Gbps‘AI전용회선’출시",
-  "안현SK하이닉스사장\"2030년AI인프라20배성장...메모리계층최적...",
-  "코스콤,클라우드기반차세대원장시스템오픈",
   "서울조합‘내근처렌터카’,IPTV지역광고본격화…회원사공동브랜...",
   "\"'발로뛰는의정성과'이양수의원,신남고숙원사업73억원대형국...",
   "가족도감쪽같이속이는AI딥페이크…구글\"아날로그로돌아가라\"",
@@ -6001,7 +5995,13 @@
   "[단독]\"갤Z폴드8이90만원?\"…단통법폐지후'성지낚시질'74%폭증",
   "델\"AI병목은모델아닌데이터\"…에이전트용데이터플랫폼강화",
   "[모닝리포트]\"코스피,美AI주급락에하락출발…낙폭축소전망\"",
-  "애플,'시총5조달러'돌파…엔비디아이어역대두번째"
+  "애플,'시총5조달러'돌파…엔비디아이어역대두번째",
+  "[이슈]한화'KAI인수설'확산…방산경쟁구도재편에기대·우려",
+  "[뉴욕마켓워치]부실징후가나타나기시작한다…주식↓달러↑채권혼...",
+  "[굿모닝!글로벌뉴욕증시]예상치를넘어선CPI및코어위브채권부실...",
+  "美AI주투매에프리마켓서SK하닉7%급락…\"AI불확실성높아져\"",
+  "kt밀리의서재,여의도한강공원서'무제한독서대회'개최",
+  "앤스로픽\"AI자가복제수개월내현실화\"경고…사이버보안업계논쟁..."
  ],
  "recent_sigs": [
   [
@@ -6323,9 +6323,17 @@
   [
    "2026-10-15T08:22:15.356185+09:00",
    "있다 같은 경고에 젠슨 응수한 위험 바티칸 우린 걱정하고"
+  ],
+  [
+   "2026-10-15T08:26:14.448769+09:00",
+   "여의도 ~KT 밀리의서재 한강공원서 개최 독서대회 무제한"
+  ],
+  [
+   "2026-10-15T08:26:14.448769+09:00",
+   "사이버보안 자가복제 경고 수개월 업계 현실화 논쟁"
   ]
  ],
- "last_run": "2026-10-15T08:24:30.545390+09:00",
+ "last_run": "2026-10-15T08:26:38.765440+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
