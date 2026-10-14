@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703790",
-  "https://news.jtbc.co.kr/article/NB12320616?influxDiv=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703743",
-  "https://zdnet.co.kr/view/?no=20260930072733",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703722",
-  "https://www.aitimes.com/news/articleView.html?idxno=215779",
   "https://zdnet.co.kr/view/?no=20260930064128",
   "https://www.aitimes.com/news/articleView.html?idxno=215778",
   "https://zdnet.co.kr/view/?no=20260930054225",
@@ -2999,15 +2993,15 @@
   "http://www.srtimes.kr/news/articleView.html?idxno=214593",
   "https://www.cnbnews.com/news/articleView.html?idxno=1019263",
   "https://www.goodmorningcc.com/news/articleView.html?idxno=453978",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=205135"
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=205135",
+  "https://www.segye.com/newsView/20261014519784?OutUrl=naver",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707158",
+  "https://www.m-i.kr/news/articleView.html?idxno=2005942",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=210829",
+  "https://www.donga.com/news/Economy/article/all/20261014/134841183/1",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=6991"
  ],
  "seen_titles": [
-  "오픈AI,'허깅페이스해킹'으로피소...\"AI에이전트행동책임은개발...",
-  "NYT\"오픈AI,직원·외부연구원AI보안경고묵살\"",
-  "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
-  "샘알트먼\"오픈AI,모델안정성확보전엔상장안한다\"",
-  "오픈AI,IPO미루고300억달러조달…몸값1.4조달러목표",
-  "[데일리픽]XRP강세론재점화…테슬라·스페이스X합병변수등장",
   "알트먼\"기업공개압박없이AI안전확보가우선\"",
   "오픈AI추가투자유치목표는'1900조가치'...연매출은95조육박",
   "트럼프,빅테크대거소집해'규제불가'재확인…업계자발적서약에...",
@@ -6001,7 +5995,13 @@
   "앞서가는KT,뒤쫓는SKT·LG유플…5GSA경쟁치열",
   "LG유플러스,한국광고주협회마케터상받아",
   "중원대-KT,외국인유학생통신편의지원협약",
-  "금융권해킹10만건…금융당국,고강도대응착수"
+  "금융권해킹10만건…금융당국,고강도대응착수",
+  "“조금늦게오고싶었는데...”라며아쉬움삼킨LG‘염갈량’“손주...",
+  "전국민'모두의AI'누가잘만드나…SKT·KT·카카오16일첫시험대",
+  "LG유플러스'심플랩',KAA어워즈수상…\"통신사유일\"",
+  "KT,AI데이터센터전용회선선봬…대역폭최대8배확대",
+  "AI해킹에피해금융사16곳…개인정보10만건유출",
+  "신한은행등16곳해킹..금융위\"CEO책임강화하겠다\"[전문]"
  ],
  "recent_sigs": [
   [
@@ -6779,9 +6779,13 @@
   [
    "2026-10-14T16:34:16.802292+09:00",
    "소비자 잡아라 가을 예약 장바구니 할인 공략 이커머스"
+  ],
+  [
+   "2026-10-14T16:38:16.460599+09:00",
+   "신한은행 CEO 16곳 책임 금융위 강화하겠다"
   ]
  ],
- "last_run": "2026-10-14T16:36:33.465021+09:00",
+ "last_run": "2026-10-14T16:38:39.289091+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
