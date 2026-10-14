@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610130312380135",
-  "https://www.newsis.com/view/NISX20261013_0003823001",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=614641",
-  "https://www.donga.com/news/Opinion/article/all/20261012/134829557/2",
-  "https://www.dt.co.kr/article/12088852",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=92235",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1414367",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=322139",
-  "https://www.edaily.co.kr/News/Read?newsId=04004886645612592&mediaCodeNo=257",
-  "https://www.g-enews.com/view.php?ud=202610131650361455e30fcb1ba8_1",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856351",
   "https://www.smarttoday.co.kr/ko-kr/articles/112615",
   "https://www.mediapen.com/news/view/1129667",
   "https://www.viva100.com/article/20261013501141",
@@ -2999,20 +2988,20 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=449288",
   "https://www.newsis.com/view/NISX20261014_0003825035",
   "http://www.seouleconews.com/news/articleView.html?idxno=94320",
-  "https://thetracker.co.kr/View.aspx?No=4262659"
+  "https://thetracker.co.kr/View.aspx?No=4262659",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=615268",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445651",
+  "https://www.yna.co.kr/view/AKR20261014056500091?input=1195m",
+  "https://byline.network/?p=9004111222623178",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7251",
+  "https://www.ziksir.com/news/articleView.html?idxno=149312",
+  "http://www.newswell.co.kr/news/articleView.html?idxno=22672",
+  "http://www.yonhapnewstv.co.kr/news/AKR202610141058472N5",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208866",
+  "https://www.newsis.com/view/NISX20261014_0003825172",
+  "https://www.ngetnews.com/news/articleView.html?idxno=554474"
  ],
  "seen_titles": [
-  "새마을금고,해킹공격당했다...고객400명대정보유출확인",
-  "지방성장키워드'AI데이터센터'관심집중",
-  "새마을금고,해킹공격에잔액정보까지유출",
-  "평택시‘평택형방위산업’육성본격시동.",
-  "LG카라스코vs두산곽빈,와일드카드1차전선발대결",
-  "국힘,'ARS오류'용인갑조직위원장경선결선재투표실시",
-  "암호화폐시장,1년전대폭락되풀이조짐...해킹공포까지'적신호'",
-  "머스크“코딩훈련데이터충분한곳은오픈AI·앤스로픽·커서”…구...",
-  "영웅아니라‘할리우드빌런’된빅테크수장들",
-  "저커버그\"메타,AI개발속도안늦춘다\"…뮤즈원더AI모델공개",
-  "저커버그\"메타AI,오픈AI·앤트로픽따라잡았다\"",
   "[빅테크악당전락]머스크·저커버그·올트먼…혁신의영웅서할리우드...",
   "[오늘과내일/김현수]올트먼-아모데이의혈투,AI통제론의모순",
   "中반도체충격에아시아증시휘청…韓낙폭가장컸다",
@@ -6001,7 +5990,18 @@
   "메모리반도체투자심리회복난망,삼성전자SK하이닉스주가하락미국...",
   "이민근시장,민선9기청사진은?…안산선지하화·산단AX",
   "국세청장\"李대통령아파트거래,과세대상아냐\"",
-  "LG유플러스,한국광고주협회'마케터상'수상…통신사유일2년연속"
+  "LG유플러스,한국광고주협회'마케터상'수상…통신사유일2년연속",
+  "[대학家]서울대학교ㅣAI연구·산학협력성과잇따라…동문들의나눔...",
+  "파리바게뜨,네이버페이결제시'파란라벨'전제품할인프로모션",
+  "구글\"AI로AI데이터센터짓는다\"…지능형인프라비전공개",
+  "구글,제미나이4아르곤정식출시",
+  "현대차그룹,'제로원데모데이'서미래기술프로젝트11건공개",
+  "LG유플러스,'심플랩'으로KAA마케터상…고객의견반영성과",
+  "KT희망나눔재단'빨간밥차'300회돌파…10년째따뜻한나눔",
+  "AI에딱걸린도청범인…'임원회의실녹음'오픈AI직원덜미",
+  "AI해킹·공급망공격시대…오에스비씨,외부'반입파일검증체계'구...",
+  "호남반도체산단1단계63만평내년첫삽…성토계획'윤곽'",
+  "쿠팡,개보위과징금'6247억원'2년간분할납부"
  ],
  "recent_sigs": [
   [
@@ -6691,9 +6691,21 @@
   [
    "2026-10-14T10:54:16.280680+09:00",
    "대역폭 400Gbps 800Gbps로 확대 ~KT"
+  ],
+  [
+   "2026-10-14T11:00:39.472429+09:00",
+   "윤곽 성토 내년 첫삽 63만평 1단계 반도체산단 호남 계획"
+  ],
+  [
+   "2026-10-14T11:00:39.472429+09:00",
+   "반입 시대 오에스비씨 검증 외부 체계 파일 공급망 공격"
+  ],
+  [
+   "2026-10-14T11:00:39.472429+09:00",
+   "쿠팡 6247억원 분할 2년간 납부 과징금"
   ]
  ],
- "last_run": "2026-10-14T10:58:37.813089+09:00",
+ "last_run": "2026-10-14T11:01:07.250267+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
