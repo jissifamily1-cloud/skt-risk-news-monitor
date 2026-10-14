@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.paxetv.com/news/articleView.html?idxno=282723",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000017194&cp=nv",
-  "https://www.newsis.com/view/NISX20260921_0003797793",
-  "https://www.gamechosun.co.kr/webzine/article/view.php?no=225714",
-  "https://www.newsis.com/view/NISX20260924_0003803008",
-  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1781008",
-  "https://www.newsis.com/view/NISX20260923_0003802530",
   "https://www.nocutnews.co.kr/news/6582911",
   "https://daily.hankooki.com/news/articleView.html?idxno=1409150",
   "https://www.mk.co.kr/article/12159783",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1701557/?sc=Naver",
   "https://www.joongangenews.com/news/articleView.html?idxno=554718",
   "https://byline.network/?p=9004111222623304",
-  "https://www.gosiweek.com/article/1065601603834046"
+  "https://www.gosiweek.com/article/1065601603834046",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193250",
+  "https://www.edupress.kr/news/articleView.html?idxno=30530",
+  "https://www.mk.co.kr/article/12175911",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037624",
+  "https://www.sedaily.com/article/20101638",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872823",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610140128&t=NNv"
  ],
  "seen_titles": [
-  "66번째워프레임'나린'등장…'워프레임'대규모업데이트'나린의얼...",
-  "디지털익스트림즈,'워프레임'대규모업데이트'나린의얼음검'전플...",
-  "'민주당우세'라는미중간선거…\"태양광·전기차수혜\"전망",
-  "연휴후반등노리는증시...반도체실적에쏠리는눈",
-  "中엔비디아구매허용보도·솔리다임200조상장설...삼전·하이닉스에...",
-  "빌게이츠\"AI악용땐10억명사망가능\"…정부규제촉구",
-  "삼국지로읽는AI패권전쟁...앤트로픽은제갈량,오픈AI는조조,구글은...",
   "21세기판문명휴거?삐딱하게따져본미국빅테크發'AI인류멸망론'[...",
   "AI개발자들이AI발전속도를두려워하기시작했다",
   "\"AI속도조절론속에숨은의도있다\"…서울대교수가본빅테크의셈...",
@@ -6001,13 +5994,16 @@
   "\"李,국민사경헤매는데'부캉이'구경?\"…국민의힘,'인천칼부림'책...",
   "KT,AI데이터센터연결속도최대8배높인다…800Gbps전용회선출시·...",
   "엘리펀트컴퍼니,AI검색대응마케팅세미나개최…아정당·SK브로드밴...",
-  "엑스온“생성형AI5종인용웹페이지조사…상호중복비율18.6%불과..."
+  "엑스온“생성형AI5종인용웹페이지조사…상호중복비율18.6%불과...",
+  "AI데이터센터확대하는GS건설,발열잡을냉각기술개발나선다",
+  "[교육위국감]하이러닝특혜의혹도마..\"학교칼부림교육청뭐했나...",
+  "반도체넘어美무기도'메이드인타이완'",
+  "최재붕성균관대기계공학부교수,\"AI대전환시대...스타트업살아남...",
+  "[단독]데이터손상돼도보상불가…보험사각지대AIDC",
+  "KT,AI데이터전송망8배키웠다…800G전용회선출시",
+  "금융사16곳해킹…이름포함정보10만건뚫려"
  ],
  "recent_sigs": [
-  [
-   "2026-10-14T11:34:15.110699+09:00",
-   "보안 과태료만 허점에 금융권 범람하는데 수억원 증권사"
-  ],
   [
    "2026-10-14T11:42:18.095238+09:00",
    "털렸다 2금융권으로 새마을금고도 사태 번지는"
@@ -6801,7 +6797,7 @@
    "생성형 웹페이지 엑스온 중복 5종 조사 불과 비율 상호 인용"
   ]
  ],
- "last_run": "2026-10-14T17:32:43.268767+09:00",
+ "last_run": "2026-10-14T17:34:35.551412+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
