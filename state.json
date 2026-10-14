@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12175479",
-  "https://www.mk.co.kr/article/12175480",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=883492",
-  "https://www.sportsworldi.com/newsView/20261014512502",
-  "http://www.4th.kr/news/articleView.html?idxno=2119717",
-  "http://www.kdfnews.com/news/articleView.html?idxno=189259",
-  "https://www.newspim.com/news/view/20261013000028",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=618654",
   "https://www.etnews.com/20261014000205",
   "http://www.osen.co.kr/article/G1112892415",
@@ -2999,16 +2992,16 @@
   "https://www.dt.co.kr/article/12089216",
   "https://www.datasom.co.kr/news/articleView.html?idxno=210343",
   "https://kids.donga.com/news/articleView.html?idxno=170044",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215091"
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215091",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16245795",
+  "https://www.venturesquare.net/1119634/",
+  "https://www.youthdaily.co.kr/news/article.html?no=228323",
+  "https://www.segye.com/newsView/20261014521968?OutUrl=naver",
+  "https://view.asiae.co.kr/article/2026101507580005291",
+  "https://www.jasm.co.kr/news/view/321562/?sc=Naver",
+  "https://www.edaily.co.kr/News/Read?newsId=02512486645613248&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "올해코스피200조판외국인,다음달엔돌아온다?",
-  "GS건설,LG전자·GRC와AI데이터센터냉각기술개발",
-  "‘컴투스프로야구’시리즈유저‘KT위즈’포스트시즌우승‘예측...",
-  "“섹스토이?밖에서시청가능”…남매→연인된남지현·김재영의‘내...",
-  "김성제의왕시장\"실전같은,민관합동훈련에재난대응크게강화할것...",
-  "마무리찾아돌고돈KIA…가을앞두고‘철벽’전상현반갑다",
-  "현대차그룹제로원,AI·로보틱스협업프로젝트11건공개",
   "현대차그룹제로원,양재사옥서협업프로젝트11건전시...\"아이디어의...",
   "[AIMY뉴스]13일중국증시'美기술주약세·유가상승에中증시부담...",
   "﻿노소영,'재산분할'부대상고포기…최태원'2440억'법리다툼집중",
@@ -6001,7 +5994,14 @@
   "애플시총5조달러돌파…엔비디아이어두번째",
   "[데이터인사이트]물가상승률은꺾였는데생활비부담은왜그대로일...",
   "AI,냉장고·TV해킹한뒤다른기기에스스로복제할수도",
-  "[SolutionReview]쿼리시스템즈'QTIEAINDR'···\"AI해킹,AI로대응한..."
+  "[SolutionReview]쿼리시스템즈'QTIEAINDR'···\"AI해킹,AI로대응한...",
+  "장혁,'문무'연개소문포스터공개…대하사극귀환예고",
+  "“같은질문에도답은달라야한다”…배수정크디랩대표가설계한AI...",
+  "\"공급망안정이어AI제조혁신\"…GC녹십자그룹,사업고도화에신사업...",
+  "브로드컴CEO“AI투자가카지노도박?”…주식시장은요동",
+  "[굿모닝증시]美AI불확실성에부진…韓도하락출발전망",
+  "美8개주,오픈AI에줄소송…\"청소년자해·폭력부추겨\"",
+  "젠슨황\"위험한AI개발사엔칩공급중단\"…'AI거품론'은일축"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,13 @@
   [
    "2026-10-15T08:02:16.482796+09:00",
    "AI로 NDR QTIE 대응한 쿼리시스템즈"
+  ],
+  [
+   "2026-10-15T08:04:16.983579+09:00",
+   "공급 개발사엔 일축 중단 젠슨 AI거품론 위험한"
   ]
  ],
- "last_run": "2026-10-15T08:02:39.711178+09:00",
+ "last_run": "2026-10-15T08:04:35.616085+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
