@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2634631",
-  "https://www.kukinews.com/article/view/kuk202610130006",
-  "https://www.thebigdata.co.kr/view.php?ud=202610130751342305d0a8833aad_23",
-  "https://www.cstimes.com/news/articleView.html?idxno=723611",
-  "https://www.econovill.com/news/articleView.html?idxno=753346",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706436",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214545",
   "https://www.kyeongin.com/article/1772280",
   "https://www.public25.com/news/articleView.html?idxno=56232",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037173",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/it-science/internet-platform/6319818",
   "https://www.mk.co.kr/article/12175603",
   "http://www.efnews.co.kr/news/articleView.html?idxno=133123",
-  "https://www.asiatime.co.kr/article/20261014500317"
+  "https://www.asiatime.co.kr/article/20261014500317",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727809",
+  "https://www.mt.co.kr/policy/2026/10/14/2026101414423778283",
+  "https://www.edaily.co.kr/News/Read?newsId=04067206645612920&mediaCodeNo=257",
+  "https://www.gokorea.kr/news/articleView.html?idxno=881395",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307688",
+  "https://www.ziksir.com/news/articleView.html?idxno=149337",
+  "https://www.dongascience.com/news/view/80336"
  ],
  "seen_titles": [
-  "SKT,T팩토리성수서민관협력‘K-보물길’프로젝트추진",
-  "SK텔레콤,성수서지역박물관잇는'K-보물길'만든다",
-  "'모두의AI'연말출격…SKT·KT·카카오'3사3색'",
-  "KB금융·현대차·신한금융·우리금융·삼성전자...ESG최고'S등급'",
-  "코난테크놀로지,'팔란티어형'국방AI플랫폼최초공개…11월서밋개...",
-  "메타,차세대AI'뮤즈원더'공개…성능최대8점향상에오픈AI·앤스로...",
-  "스타링크美이동통신진출소식에K-통신주날벼락…증권가\"걱정과도...",
   "금융권해킹이사기미끼로…경찰,통신3사가입자4800만명에경보",
   "신한금융,정보유출에ESG등급또하락할까",
   "스타링크공습에통신주급락…증권가“과도한우려”",
@@ -6001,13 +5994,16 @@
   "전국민무료'모두의AI'16일첫선…카카오·SKT·KT출격(종합)",
   "KT,대역폭8배키운‘AI전용회선’출시…“데이터센터연결병목뚫...",
   "SK하이닉스,\"AI메모리계층최적화추진…HBM넘어HBF로확장\"",
-  "엔비디아‘유럽AI영토확장’…K-반도체,HBM새활로열린다"
+  "엔비디아‘유럽AI영토확장’…K-반도체,HBM새활로열린다",
+  "[Digital&Now]카카오'모두의AI'연내출시…월이용자500만명목표",
+  "수강신청부터스펙진단까지AI로…대구가톨릭대,데이터교육가동",
+  "“AI혁명아직15%도안왔다…코스피1년내전고점돌파”",
+  "삼성전자와SK하이닉스주가반등,반도체시장의새로운기회?",
+  "안현SK하이닉스사장\"HBM단일전끝났다···시스템최적화전면제...",
+  "[현장직썰]HBM넘어차세대메모리로…삼성·SK,'AI반도체패권'격돌",
+  "건강방송보다채널돌리면홈쇼핑서관련상품판매…'연계편성'월128..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-14T08:56:17.456035+09:00",
-   "주요공시 13일 주식시장 10월"
-  ],
   [
    "2026-10-14T08:58:14.581139+09:00",
    "폭증 800Gbps 데이터 잡는다 AIDC 8배 ~KT 전용회선 늘린 대역폭"
@@ -6707,9 +6703,13 @@
   [
    "2026-10-14T14:56:14.786399+09:00",
    "유럽 확장 활로 열린다 영토 HBM 반도체"
+  ],
+  [
+   "2026-10-14T14:58:14.121708+09:00",
+   "관련상품 판매 돌리면 연계편성 보다 건강방송 채널 홈쇼핑서"
   ]
  ],
- "last_run": "2026-10-14T14:56:38.084169+09:00",
+ "last_run": "2026-10-14T14:58:39.305708+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
