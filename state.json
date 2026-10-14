@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407972",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1018791",
-  "https://news.ifm.kr/news/articleView.html?idxno=481231",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=366959",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90221",
-  "https://view.asiae.co.kr/article/2026100823483544280",
-  "https://www.fnnews.com/news/202610082117322203",
   "http://www.metroseoul.co.kr/article/20261008500265",
   "https://www.thedailypost.kr/news/articleView.html?idxno=116107",
   "https://www.segye.com/newsView/20261008517518?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.khgames.co.kr/news/articleView.html?idxno=309303",
   "https://www.dkilbo.com/news/articleView.html?idxno=557111",
   "https://zdnet.co.kr/view/?no=20261014150631",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054037"
+  "http://www.intn.co.kr/news/articleView.html?idxno=2054037",
+  "https://www.mydaily.co.kr/page/view/2026101415093230016",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1186897",
+  "https://www.donga.com/news/Economy/article/all/20261014/134840739/2",
+  "https://zdnet.co.kr/view/?no=20261014150525",
+  "https://www.hankyung.com/article/202610141649g",
+  "https://www.news1.kr/finance/general-finance/6319929",
+  "https://www.ddaily.co.kr/page/view/2026101414550651365"
  ],
  "seen_titles": [
-  "위즈코어,AI-RAN기반피지컬AI실증선봬…주요실증시나리오소개",
-  "SK브로드밴드,KBO후원연계…구독서비스오프라인경험확대",
-  "야구장갈까,집에서볼까…SKB,한국시리즈응원선택권넓힌다",
-  "[Telecom&Now]SKB,가입자대상한국시리즈2~7차전직관티켓60매제공...",
-  "SK브로드밴드,KBO한국시리즈직관티켓쏜다…최대60매증정",
-  "SKT정재헌\"통신·AI하나로\"…2300만기반'토큰경제'선점한다",
-  "정재헌SKTCEO,통신·AI엮은'성장기어'전략제시…'토큰게이트웨...",
   "SKT,통신·AI융합해'토큰경제'선점나선다",
   "[ESG경영]나눔·소통행보잇따라…다한증인식캠페인부터악기기부...",
   "SKT,2300만고객·AI·인프라기반'토큰게이트웨이'사업화추진",
@@ -6001,13 +5994,16 @@
   "'보이스피싱'콜센터운영게임'콜카타콜링',16일스팀출시예고",
   "안동시,자가정보통신망구축본격화…2029년연11억원절감기대",
   "\"군대에서도내AI비서쓴다\"…'모두의AI'3사,장병AI제안",
-  "열람·삭제도못하는국민가명정보2124만건,어디서처리되는지도깜..."
+  "열람·삭제도못하는국민가명정보2124만건,어디서처리되는지도깜...",
+  "'충분히쉬었다'곽빈,정규시즌LG상대호투가을야구서도기대",
+  "'한국시리즈직행'KT위즈,3주간실전감각끌어올린다...훈련일정공...",
+  "IPARK현대산업개발,광명하안주공6·7단지단독입찰",
+  "비드래프트,GPU없이NPU만으로AI사전학습성공",
+  "\"AI인프라20배커진다\"…SK하이닉스가꺼내든'신무기'정체",
+  "[속보]금융권해킹피해16개사로확대…은행·저축銀·가상자산업계까...",
+  "\"AI해킹,이미도사린다\"…팔로알토,VPN해지·L7방화벽교체권고"
  ],
  "recent_sigs": [
-  [
-   "2026-10-14T09:12:16.782830+09:00",
-   "검증 통과할까 이사 논란 국힘추천 공영방송"
-  ],
   [
    "2026-10-14T09:18:15.675099+09:00",
    "아르곤 최상위 출시 제미나이 구글 글로벌 앤트로픽과"
@@ -6727,9 +6723,13 @@
   [
    "2026-10-14T15:12:15.909043+09:00",
    "열람 삭제도 처리되는지도 못하는 2124만건 어디서 국민 가명정보"
+  ],
+  [
+   "2026-10-14T15:14:15.534660+09:00",
+   "이미 팔로알토 해지 도사린다 L7 방화벽 VPN 교체 권고"
   ]
  ],
- "last_run": "2026-10-14T15:12:36.915311+09:00",
+ "last_run": "2026-10-14T15:14:37.853030+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
