@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20101103",
-  "https://www.nongmin.com/article/20261013500287",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727670",
-  "https://www.edaily.co.kr/News/Read?newsId=04136086645612592&mediaCodeNo=257",
-  "https://www.dailian.co.kr/news/view/1701083/?sc=Naver",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256398",
-  "http://www.finomy.com/news/articleView.html?idxno=263482",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42278",
-  "https://www.edaily.co.kr/News/Read?newsId=04139366645612592&mediaCodeNo=257",
-  "http://www.segyebiz.com/newsView/20261013521032?OutUrl=naver",
-  "https://www.newscj.com/news/articleView.html?idxno=3439985",
   "https://www.kukinews.com/article/view/kuk202610130003",
   "https://www.greened.kr/news/articleView.html?idxno=351888",
   "https://www.etoday.co.kr/news/view/2635343",
@@ -2999,20 +2988,20 @@
   "https://www.hani.co.kr/arti/international/international_general/1282308.html",
   "https://biz.sbs.co.kr/article_hub/20000339855?division=NAVER",
   "https://www.boannews.com/news/articleView.html?idxno=146384",
-  "https://www.munhwa.com/article/11623380"
+  "https://www.munhwa.com/article/11623380",
+  "https://www.mk.co.kr/article/12175438",
+  "http://www.osen.co.kr/article/G1112892434",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=302626",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=32231",
+  "https://www.newsis.com/view/NISX20261014_0003825357",
+  "https://www.segye.com/newsView/20261013503565?OutUrl=naver",
+  "http://www.joseilbo.com/news/news_read.php?uid=577369&class=32",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145642",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1540446",
+  "https://www.bbc.com/korean/articles/c6d092my88ddo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://biz.sbs.co.kr/article_hub/20000339856?division=NAVER"
  ],
  "seen_titles": [
-  "수학난제푼오픈AI?진짜난제는외면",
-  "AX가속화시대,사이버리스크는‘기술’이아닌‘경영’의언어",
-  "새마을금고도해킹사고…400명대고객정보유출",
-  "취임100일최동민동대문구청장…GTX-C변전소엔\"원안수용불가\"",
-  "8세대렉서스ES,HEV·전기차동시출격…동급최고효율주목",
-  "[한눈에보는그래픽스]2026프로야구포스트시즌내일개막…한국시리...",
-  "2026APBC한국야구엔트리명단·일정은",
-  "중국선4000원인데한국선7000원…中차브랜드,가격차이나는이유",
-  "반도체패권전쟁…‘국가인내자본’이핵심열쇠[시그널]",
-  "파랗게질린‘삼전닉스’…“AI붐가장큰문제는자금조달”",
-  "반도체·자동차공장에휴머노이드투입...제조현장AI실증본격화",
   "티빙·강남언니또국감장…\"보상책,피해회복아닌마케팅\"질타",
   "새마을금고고객400명정보털려…주민번호·계좌번호등유출",
   "'혼인파탄후취득'SK실트론지분…최태원-노소영재산분할결과바뀔...",
@@ -6001,7 +5990,18 @@
   "오픈에이아이직원,임원회의실에녹음장치설치혐의로FBI에체포",
   "어제급락딛고코스피1%강세…'삼전닉스'2%대반등하며상승견인",
   "김동기핀텔대표이사\"도시데이터를'판단과실행'으로연결하는AI시...",
-  "창간52주년대한민국최초국방잡지‘국방저널’,3년만에계간지로..."
+  "창간52주년대한민국최초국방잡지‘국방저널’,3년만에계간지로...",
+  "아빌라·최원준·힐리어드등6명,KBO리그9~10월월간MVP후보선정",
+  "'타율0.413괴물폭주'208안타최원준도장담못한다…14홈런40타점...",
+  "컴투스,2026KBO포스트시즌우승팀설문결과발표…KT위즈1위",
+  "김성제의왕시장\"실전같은합동훈련지속\"…드론·헬기투입재난대응...",
+  "AI기업들앞다퉈상장추진하더니…투자심리위축에급제동",
+  "AI가요약해줘도기사직접누른다…한국AI뉴스이용자56%원문확인",
+  "노소영'맞상고'포기…대법서최태원재상고2440억원만다툰다",
+  "'9440억재산분할'최태원의백기사...델창업주마이클델",
+  "노소영,맞상고포기…최태원재상고로대법곧심리",
+  "사우디국적직원,오픈AI사무실에'정교한'녹음장치설치혐의로기...",
+  "새마을금고도털렸다…2금융권으로번지는해킹사태"
  ],
  "recent_sigs": [
   [
@@ -6767,9 +6767,13 @@
   [
    "2026-10-14T11:34:15.110699+09:00",
    "보안 과태료만 허점에 금융권 범람하는데 수억원 증권사"
+  ],
+  [
+   "2026-10-14T11:42:18.095238+09:00",
+   "털렸다 2금융권으로 새마을금고도 사태 번지는"
   ]
  ],
- "last_run": "2026-10-14T11:40:40.471102+09:00",
+ "last_run": "2026-10-14T11:42:36.308703+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
