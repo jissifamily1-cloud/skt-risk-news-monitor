@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.venturesquare.net/1119549/",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215054",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=815751",
-  "https://www.khan.co.kr/article/202610132158005",
-  "https://www.mk.co.kr/article/12174380",
-  "https://www.dt.co.kr/article/12088773",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261014052809UXo",
   "https://www.joongangenews.com/news/articleView.html?idxno=554691",
   "https://www.ytn.co.kr/_ln/0103_202610140042310097",
   "https://biz.chosun.com/topics/law_firm/2026/10/14/EJLRBRNEZNATVC5KY5FJKMUML4/",
@@ -2999,16 +2992,16 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=449364",
   "https://www.fnnews.com/news/202610141302221096",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261014010004393",
-  "https://www.fnnews.com/news/202610141808183125"
+  "https://www.fnnews.com/news/202610141808183125",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3721702",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3721670",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3721705",
+  "https://www.fnnews.com/news/202610141808586536",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449363",
+  "http://www.bizwnews.com/news/articleView.html?idxno=148892",
+  "https://www.fnnews.com/news/202610141810477909"
  ],
  "seen_titles": [
-  "AutheoTHEO,베이스서담보없이1,900만개찍혀하루92%폭락",
-  "10월13일모닝뉴스헤드라인",
-  "Payy,보상신청에지갑복구구문요구…잔액확인용해명",
-  "[W언박싱]“앗뜨거”냉장고가50℃?…‘기괴한테러’에佛마트초...",
-  "송경희\"中전기차'지커'현장조사착수…커넥티드카7개사조사\"(종합...",
-  "쿼드4개국,싱가포르서사이버고위급회의…“사이버위협방어·억지...",
-  "BK기업은행,델솔루션으로테이프리스하남데이터센터백업,사이버복...",
   "[2026국정감사]\"방산보안체계가뚫리고있다\"...국가안보비상",
   "델테크놀로지스,IBK기업은행백업인프라구축…랜섬웨어대응·데이...",
   "델테크놀로지스,IBK기업은행에정보보호기반강화위한사이버복원...",
@@ -6001,7 +5994,14 @@
   "금융위원회\"개인사고침해사고발생금융사16곳,약10만건유출\"",
   "[단독]\"쪽문막아라\"..은행권,외부접속'2차인증'확산",
   "SKT,SK호라이즌출범앞두고AIDC실적에주목",
-  "내가쓴전기·가스정보한눈에"
+  "내가쓴전기·가스정보한눈에",
+  "울산항만공사,고위험작업대응VR교육실시…근로자안전강화",
+  "단감의고장서'풍성한맛'…김해진영단감축제오는30일개막",
+  "전북특별자치도,2027년예산확보총력…국회심의대응본격화",
+  "스스로일하는로봇,무인공장솔루션…제조AX기술한눈에",
+  "티빙정보보호책임자에국태호선임,요기요·오늘의집거친보안전문...",
+  "[금융HOT뉴스]금융권보안구멍막는다…CEO책임강화추진",
+  "'AI해킹홍역'앓는은행권\"로그인깐깐하게,해외IP접속차단\""
  ],
  "recent_sigs": [
   [
@@ -6843,9 +6843,13 @@
   [
    "2026-10-14T18:10:22.628583+09:00",
    "내가 전기 가스 한눈에 정보"
+  ],
+  [
+   "2026-10-14T18:12:18.124082+09:00",
+   "은행권 로그인 해외IP AI해킹 접속 차단 홍역 앓는 깐깐하게"
   ]
  ],
- "last_run": "2026-10-14T18:10:46.565755+09:00",
+ "last_run": "2026-10-14T18:12:42.119071+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
