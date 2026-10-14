@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.discoverynews.kr/news/articleView.html?idxno=1103829",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1018889",
-  "http://www.breaknews.com/1242244",
-  "https://www.straightnews.co.kr/news/articleView.html?idxno=312945",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004707",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=133076",
-  "https://www.edaily.co.kr/News/Read?newsId=02397686645612592&mediaCodeNo=257",
-  "https://www.joongangenews.com/news/articleView.html?idxno=554354",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=279988",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872118",
   "https://www.etoday.co.kr/news/view/2634631",
   "https://www.kukinews.com/article/view/kuk202610130006",
   "https://www.thebigdata.co.kr/view.php?ud=202610130751342305d0a8833aad_23",
@@ -2999,19 +2989,19 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=322221",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592030675224",
   "https://www.thepublic.kr/news/articleView.html?idxno=322225",
-  "https://www.m-i.kr/news/articleView.html?idxno=2005818"
+  "https://www.m-i.kr/news/articleView.html?idxno=2005818",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037588",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=618744",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=815855",
+  "https://www.etnews.com/20261014000318",
+  "https://sports.donga.com/ent/article/all/20261014/134840609/1",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400257.html",
+  "https://www.news1.kr/it-science/internet-platform/6319818",
+  "https://www.mk.co.kr/article/12175603",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=133123",
+  "https://www.asiatime.co.kr/article/20261014500317"
  ],
  "seen_titles": [
-  "더싼요금추천받아도끝아니다…실제절감액따져봐야",
-  "[국감]SKT와영화관람권계약관련질의답하는고재수CJCGV사업본부...",
-  "SKT,성수서'K-보물길'전시...문화유물·지역관광연계",
-  "SKT·KT주가급락,스타링크탓?…통신사\"영향없다\"",
-  "팝업성지에박물관유물이?…성수동에펼쳐지는'K-보물길'",
-  "SKT,국립중앙박물관과'K-보물길'추진…T팩토리성수서문화유물체험",
-  "SKT,문화유물전시로지역여행이끈다…‘K-보물길’추진",
-  "스페이스X이슈?...장중,SKT·KT'뚝'vsLG유플러스'활짝'",
-  "방문위-SKT-국립중앙박물관-국립박물관문화재단,민관협력'K-보물길'프...",
-  "SKT,민관협력문화관광프로젝트'K-보물길'추진",
   "SKT,T팩토리성수서민관협력‘K-보물길’프로젝트추진",
   "SK텔레콤,성수서지역박물관잇는'K-보물길'만든다",
   "'모두의AI'연말출격…SKT·KT·카카오'3사3색'",
@@ -6001,7 +5991,17 @@
   "\"용인반도체클러스터폐수방류철회하라\"…안성주민들,최태원에결...",
   "퇴직연금절반맡은은행,AI추천에선밀렸다…미래에셋증권1위",
   "새마을금고해킹뚫렸다,주민·계좌번호등고객정보유출...중앙회\"전...",
-  "온라인피해상담1만3000건넘었는데…실제해결률은'깜깜이'"
+  "온라인피해상담1만3000건넘었는데…실제해결률은'깜깜이'",
+  "[2026국감현장]'하이러닝'특혜의혹에…안민석교육감\"위법확인시...",
+  "파로스아이바이오'라스모티닙',기존백혈병치료제내성극복가능성...",
+  "[현장]이민근안산시장,'이음의시정'제시…산업·도시개발실행계획...",
+  "[기고]AI의속도에화이트해커의경험을더하라",
+  "‘해킹사태최악’티빙,‘로또1등’으로웃었다…시청률도대박",
+  "농진청,개인정보57만건유출업체와계약유지…\"관리·감독문제\"",
+  "전국민무료'모두의AI'16일첫선…카카오·SKT·KT출격(종합)",
+  "KT,대역폭8배키운‘AI전용회선’출시…“데이터센터연결병목뚫...",
+  "SK하이닉스,\"AI메모리계층최적화추진…HBM넘어HBF로확장\"",
+  "엔비디아‘유럽AI영토확장’…K-반도체,HBM새활로열린다"
  ],
  "recent_sigs": [
   [
@@ -6699,9 +6699,17 @@
   [
    "2026-10-14T14:54:14.934702+09:00",
    "깜깜이 실제 온라인 1만3000건 넘었는데 피해상담 해결률은"
+  ],
+  [
+   "2026-10-14T14:56:14.786399+09:00",
+   "무료 ~SKT 전국민 16일 ~KT 카카오 모두의AI 출격"
+  ],
+  [
+   "2026-10-14T14:56:14.786399+09:00",
+   "유럽 확장 활로 열린다 영토 HBM 반도체"
   ]
  ],
- "last_run": "2026-10-14T14:54:47.127199+09:00",
+ "last_run": "2026-10-14T14:56:38.084169+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
