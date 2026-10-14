@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/industry/2026/10/13/20261013030002?wlog_tag3=naver",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=137804",
-  "https://www.edaily.co.kr/News/Read?newsId=03667046645612592&mediaCodeNo=257",
-  "https://www.mt.co.kr/policy/2026/10/13/2026101315281471512",
-  "https://www.dizzotv.com/site/data/html_dir/2026/10/13/2026101380140.html",
-  "https://www.dizzotv.com/site/data/html_dir/2026/10/13/2026101380136.html",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439018",
-  "https://www.ddaily.co.kr/page/view/2026101315215691195",
-  "https://www.viva100.com/article/20261013500941",
-  "https://www.joongboo.com/news/articleView.html?idxno=363739160",
-  "https://economist.co.kr/article/view/ecn202610130035",
   "https://news.bizwatch.co.kr/article/industry/2026/10/13/0026",
   "https://biz.chosun.com/it-science/ict/2026/10/13/B7DVR7B5Z5BQTLVBMQN4NTHKSI/",
   "https://www.itdaily.kr/news/articleView.html?idxno=242152",
@@ -2999,20 +2988,20 @@
   "https://www.news1.kr/photos/8157518",
   "https://www.news1.kr/photos/8157520",
   "http://www.ttlnews.com/news/articleView.html?idxno=3151718",
-  "https://www.news1.kr/photos/8157616"
+  "https://www.news1.kr/photos/8157616",
+  "https://www.theguru.co.kr/news/article.html?no=108177",
+  "http://www.newsdream.kr/news/articleView.html?idxno=119921",
+  "https://www.viva100.com/article/20261014500326",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3720871",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727740",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3151716",
+  "https://www.mt.co.kr/industry/2026/10/14/2026101408444039940",
+  "https://magazine.hankyung.com/business/article/202610140479b",
+  "https://www.newsis.com/view/NISX20261013_0003824070",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065593958273066",
+  "https://www.dailian.co.kr/news/view/1701269/?sc=Naver"
  ],
  "seen_titles": [
-  "울산동구,방어진활어센터인근상권활성화위한캠페인펼쳐",
-  "카카오,‘이프카카오26’개막...에이전틱AI플랫폼으로확장",
-  "S&P500CAPE지수역대3위과열…\"AI거품·조정경고\"",
-  "[게임게시판]펄어비스·컴투스·엔씨·크래프톤·넷마블",
-  "유일로보틱스,CES2027서'세미휴머노이드'실물첫선",
-  "“가상화부터AI까지한번에”…뉴타닉스,라이액스품고GPU최적화사...",
-  "뉴타닉스\"AI사일로·비용폭증,단일플랫폼으로잡는다\"",
-  "SC캐피탈파트너스,국내AI데이터센터개발사업투자확대",
-  "빅테크‘연산효율화기업’인수전쟁",
-  "예가람저축은행,정보유출5만건추정…금감원현장점검착수",
-  "野\"국감에이재용·최태원불러야\"…호남반도체'팔비틀기'주장",
   "호남반도체투자놓고'기업팔비틀기'vs'호남비틀기'공방",
   "LG유플러스,U+원AI검색고도화...요금납부·로밍가입수행",
   "KT,구글AI구독8종출시...커피·쇼핑등생활혜택도결합",
@@ -6001,7 +5990,18 @@
   "잇따른해킹사고에금융위,해킹대응점검회의",
   "잇따른해킹사고에금융위,점검회의",
   "잇따른금융권해킹사고,불안해소방법은?",
-  "AI는은행대신증권사간판먼저불렀다...적립금51%쥔은행권AI추..."
+  "AI는은행대신증권사간판먼저불렀다...적립금51%쥔은행권AI추...",
+  "'K-통신기술력과시'SKT·KT,유럽최대무대'네트워크X'서AI네트워...",
+  "LG유플러스,잠실야구장가을야구앞두고네트워크특별점검",
+  "“잠실마지막가을야구,통신끊김없게”⋯LGU+,네트워크점검",
+  "대구시서구청,비산네거리서어르신보행안전강조...7개기관·단체참...",
+  "구글,최상위AI'제미나이4아르곤'출시…AI주도권반격",
+  "실용적인법적연구와교육으로더나은사회를만든다",
+  "현대차그룹미래기술집결…양재사옥서'제로원데모데이'",
+  "美캘리포니아,기업탄소배출의무공시확정[ESG뉴스5]",
+  "미·중·러정상회담기대속…美기업인들,中선전APEC에시큰둥",
+  "[칼럼]코스피급등락시대,수익률보다중요한것은‘투자원칙’",
+  "금융위,오늘금융권해킹점검회의…추가유출사고도살핀다"
  ],
  "recent_sigs": [
   [
@@ -6505,7 +6505,7 @@
    "사고 금융권 해소 방법은 잇따른 불안"
   ]
  ],
- "last_run": "2026-10-14T09:40:50.544890+09:00",
+ "last_run": "2026-10-14T09:42:33.848164+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
