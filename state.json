@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jemin.com/news/articleView.html?idxno=844438",
-  "https://www.fnnews.com/news/202610140519034813",
-  "https://www.greened.kr/news/articleView.html?idxno=351991",
   "https://biz.sbs.co.kr/article_hub/20000339762?division=NAVER",
   "https://www.mt.co.kr/tech/2026/10/14/2026101314511925969",
   "https://www.tokenpost.kr/news/ai/422165",
@@ -2999,12 +2996,12 @@
   "http://www.apparelnews.co.kr/news/news_view/?idx=228237",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7188942",
   "http://www.newstomato.com/ReadNews.aspx?no=1316700&inflow=N",
-  "https://byline.network/?p=9004111222623278"
+  "https://byline.network/?p=9004111222623278",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1186946",
+  "https://www.topdaily.kr/articles/112338",
+  "https://www.tjb.co.kr/news05/bodo/view/id/104803"
  ],
  "seen_titles": [
-  "오픈AI에이전트,미국정부사이트뒤졌다…'에이전트스팸'도확인",
-  "정보찾던오픈AI에이전트,정부·대학침투시도",
-  "호주,메디케어정보보관정부망우회공개…유엔서AI규제강화촉구",
   "[속보]마이크론3.6%급락…뉴욕증시일제하락",
   "[N2모닝경제브리핑-10월14일]美증시,3대지수나란히하락…반도...",
   "[뉴욕증시]출발이살짝불안한어닝시즌…하락마감",
@@ -6001,7 +5998,10 @@
   "AB180,크리테오와함께마케팅리더초청디너개최",
   "IPARK현산,광명하안주공6·7단지단독응찰…오는11월시공사선정",
   "[뉴스토마토프라임]금융사해킹16곳…'전액보상'어디까지",
-  "KT,800기가비트급‘AI전용회선’출시"
+  "KT,800기가비트급‘AI전용회선’출시",
+  "보급된학생태블릿관리부실…교육청9곳통계공백",
+  "[TOP'sPick][전자·IT]삼성전자,고효율·저탄소주거솔루션제시外",
+  "[자막뉴스]출연연서버백신설치율8.7%…해킹시도73%급증"
  ],
  "recent_sigs": [
   [
@@ -6779,9 +6779,13 @@
   [
    "2026-10-14T16:46:17.977585+09:00",
    "메모리 엔비디아와 마이크론의 주가 연산 엇갈려"
+  ],
+  [
+   "2026-10-14T16:50:26.852655+09:00",
+   "서버 설치율 출연연 급증 시도 백신"
   ]
  ],
- "last_run": "2026-10-14T16:48:36.342374+09:00",
+ "last_run": "2026-10-14T16:50:48.360716+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
