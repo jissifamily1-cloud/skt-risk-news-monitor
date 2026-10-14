@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215008",
-  "https://biz.heraldcorp.com/article/10899368",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706310",
-  "https://view.asiae.co.kr/article/2026100814402935861",
   "https://www.epnc.co.kr/news/articleView.html?idxno=408015",
   "https://www.thisisgame.com/articles/430821",
   "https://www.jemin.com/news/articleView.html?idxno=844235",
@@ -2999,13 +2995,13 @@
   "https://www.livesnews.com/news/article.html?no=64962",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005938809",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=337723",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337729"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337729",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707106",
+  "https://www.kyeonggi.com/article/20261013580046",
+  "https://www.sisajournal.com/news/articleView.html?idxno=390230",
+  "https://www.sedaily.com/article/20101607"
  ],
  "seen_titles": [
-  "AI는달리고,안전은뒤쫓는다…누가브레이크를걸것인가",
-  "엔비디아,美양자·에너지발전돕는다…5년간10억달러투자",
-  "엔비디아,총10억달러규모대규모투자지원계획공개...초지능연...",
-  "엔비디아,美양자·에너지에10억달러투자",
   "엔비디아,美과학기술에10억달러투자",
   "트럼프\"AI대신슈퍼지능용어써야\"주장에미국빅테크동조,엔비디...",
   "엔비디아,양자컴퓨팅등에5년간10억달러투자",
@@ -6001,13 +5997,13 @@
   "이훈기,KISA해킹대응지연질타…“23일간무엇했나”",
   "금융권AI해킹피해16곳…정보유출약10만건",
   "대법원인정한경인방송비밀계약서,이훈기\"재허가취소해당하는심...",
-  "오세훈,'PD수첩'인터뷰한교수까지고소…'이진숙이해충돌없다'사..."
+  "오세훈,'PD수첩'인터뷰한교수까지고소…'이진숙이해충돌없다'사...",
+  "[데일리픽]애플,스마트홈제품군공개…XRP레저반등할까",
+  "[송용진의세상읽는방정식]AI의수학침공",
+  "금융권AI해킹에10만건유출…은행·가상자산등16곳",
+  "긴급보안점검에도2금융권해킹잇따라…취약점전방위공격"
  ],
  "recent_sigs": [
-  [
-   "2026-10-14T11:06:19.904664+09:00",
-   "사업 SPOTV 에이클라 가종현 확대 아시아 대표에"
-  ],
   [
    "2026-10-14T11:10:27.929592+09:00",
    "노트북농장 텍사스서 IT일꾼 압수 해킹조직 위장취업 대거"
@@ -6779,9 +6775,13 @@
   [
    "2026-10-14T17:06:15.992545+09:00",
    "고소 없다 오세훈 인터뷰한 이해충돌 교수까지 이진숙 PD수첩"
+  ],
+  [
+   "2026-10-14T17:08:17.420697+09:00",
+   "긴급 잇따라 전방위 2금융권 취약점 보안점검에도 공격"
   ]
  ],
- "last_run": "2026-10-14T17:06:42.386848+09:00",
+ "last_run": "2026-10-14T17:08:35.184810+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
