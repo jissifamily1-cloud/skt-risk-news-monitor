@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/170252",
-  "https://dealsite.co.kr/articles/170246",
-  "https://weekly.donga.com/3/all/11/6410551/1",
-  "https://www.edaily.co.kr/News/Read?newsId=02069686645610952&mediaCodeNo=257",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=507656",
-  "https://www.sidae.com/article/2026100710362336236",
-  "https://www.pressian.com/pages/articles/2026100716280671952",
-  "https://www.nocutnews.co.kr/news/6588355",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=204975",
-  "https://www.donga.com/news/Economy/article/all/20261014/134836822/2",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610140211415970457",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90378",
   "https://www.mk.co.kr/article/12174801",
@@ -2999,19 +2989,19 @@
   "https://www.gamemeca.com/mv.php?inflow=naver&gid=1781761",
   "https://www.kyeonggi.com/article/20261014580357",
   "https://www.dailian.co.kr/news/view/1701491/?sc=Naver",
-  "https://www.ppss.kr/news/articleView.html?idxno=315405"
+  "https://www.ppss.kr/news/articleView.html?idxno=315405",
+  "https://www.fnnews.com/news/202610141428079326",
+  "https://www.kgnews.co.kr/news/article.html?no=915060",
+  "https://www.news1.kr/industry/general-industry/6319976",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3721436",
+  "https://www.dt.co.kr/article/12089086",
+  "http://www.metroseoul.co.kr/article/20261014500413",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=618753",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594706191769",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727804",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439230"
  ],
  "seen_titles": [
-  "[재계핫이슈]최태원회장의'호남반도체행보'배경은?",
-  "최태원재상고이유서13일제출시한…노소영부대상고여부주목",
-  "최태원,이틀뒤상고이유서시한…노소영,부대상고포기하나",
-  "간통죄폐지됐는데상간자위자료는그대로…이혼시‘위자료’산정...",
-  "[CEO풍향계]'자원집념결실'장인화…'국대격려'정의선",
-  "[최태원재산분할]일단7000억마련했지만…SK㈜지분어떻게재인수",
-  "\"이혼재산분할9440억주식매각\"...최태원,주가오르면돈번다",
-  "솔리다임,누구를위한상장인가?…‘국민주식’SK하이닉스주주의걱...",
-  "안철수,하닉'솔리다임IPO설'에\"최태원회장,주주통수칠생각말라...",
-  "'25조'통합시첫금고쟁탈전본격화…광주은행vs농협",
   "[최태원재산분할]2440억원만남긴재상고…실트론·분할비율쟁점",
   "[최태원재산분할]SK지분판이유…재상고가바꾼9440억셈법",
   "최태원SK회장,9440억원규모SK㈜지분매각",
@@ -6001,7 +5991,17 @@
   "호그와트레거시·연운등,DLSS5순차적용된다",
   "[속보]금융사침해사고총16곳발생…약10만건정보유출",
   "금융권해킹피해16개사로확대…개인정보10만건유출",
-  "몇주걸리던보안패치하루만에...오픈AI,이기업품나"
+  "몇주걸리던보안패치하루만에...오픈AI,이기업품나",
+  "\"타이밍한번기가막히네\"이승엽코치는야인되고,대표팀은감독...",
+  "[도교육청국감]안민석“하이러닝감사서위법드러나면수사의뢰”",
+  "[부고]박기준씨(SK하이닉스통관팀장)부친상",
+  "대구광역시,대구여성새로일하기센터...16일무태조야동서'잡담카페'운...",
+  "김종혁“張측근챙기기컷오프”…정점식“문제없다”일축",
+  "반도체바통받을2·3번주자육성나선다...정부,화장품도AI연계시...",
+  "애플과손잡은LG전자…AI홈생태계확장",
+  "LG유플러스,한국광고주협회'마케터상'수상…\"국내통신사유일\"",
+  "[현장]\"AI반도체주도권잡아라\"…삼전닉스,SEDEX서미래전략공개",
+  "금융당국\"AI해킹피해16개금융사서10만건정보유출\""
  ],
  "recent_sigs": [
   [
@@ -6749,7 +6749,7 @@
    "하루 패치 품나 걸리던 만에 보안 기업"
   ]
  ],
- "last_run": "2026-10-14T15:34:36.608824+09:00",
+ "last_run": "2026-10-14T15:36:37.295451+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
