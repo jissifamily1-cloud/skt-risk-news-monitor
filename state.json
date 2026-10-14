@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261013000417",
-  "https://www.thisisgame.com/articles/430931",
-  "https://www.yna.co.kr/view/AKR20261014083500091?input=1195m",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193093",
   "https://www.techm.kr/news/articleView.html?idxno=156087",
   "http://www.segyebiz.com/newsView/20261014512109?OutUrl=naver",
   "https://www.news1.kr/photos/8154347",
@@ -2999,13 +2995,13 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=445725",
   "https://www.epnc.co.kr/news/articleView.html?idxno=408209",
   "https://kidd.co.kr/news/247728",
-  "https://www.newsis.com/view/NISX20261015_0003826485"
+  "https://www.newsis.com/view/NISX20261015_0003826485",
+  "https://biz.sbs.co.kr/article_hub/20000340034?division=NAVER",
+  "https://www.businessplus.kr/news/articleView.html?idxno=118198",
+  "https://www.yna.co.kr/view/AKR20261015017700091?input=1195m",
+  "https://www.edaily.co.kr/News/Read?newsId=02453446645613248&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[IS포커스]롯데이어한화도'직장인신화'...대세였던'야구인'단장...",
-  "신규서버부터팬덤서비스까지…게임·콘텐츠기업들,이용자접점확...",
-  "엠클라우드브리지,로컬·퍼블릭LLM통합AI플랫폼'Ai365'선보여",
-  "2026KEL'이터널리턴'서킷4,'슈퍼위크경남'서챔피언십진출권놓고...",
   "美법원,'애플소송전'오픈AI에\"증거신속제출\"명령",
   "SKT,AI보안사업확장본격화…기술개발넘어수익화모색",
   "[이프카카오]\"5000만카톡앞세워\"...카카오,'모두의AI'로국민AI플...",
@@ -6001,7 +5997,11 @@
   "대한상의,제55차물류위원회개최…물류산업AI전환논의",
   "삼성전자,실리콘밸리서6G주도권확보나선다…AI·위성통신기술공...",
   "[구리가격]미국CPI발표후0.3%하락…LME구리1만4,532달러",
-  "미국압박에국가생존위기커진우크라이나"
+  "미국압박에국가생존위기커진우크라이나",
+  "[부자들의투자노트]美자산운용사\"9월CPI,연준10월금리인상가능...",
+  "[요즘테크+/⑧]'모두의AI'본격화…사업자준비속정책일관성시험대",
+  "美8개주,오픈AI에한꺼번에소송…\"청소년자해·폭력부추겨\"",
+  "KT,데이터센터성장기대…목표가7.3만원유지-유진"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,21 @@
   [
    "2026-10-15T07:46:19.685348+09:00",
    "흑자 달성 168억달러 앞두고 매출 3분기 11월 상장"
+  ],
+  [
+   "2026-10-15T07:50:24.602462+09:00",
+   "사업자 준비 본격화 정책 시험대 모두의 일관성"
+  ],
+  [
+   "2026-10-15T07:50:24.602462+09:00",
+   "데이터센터 기대 유지 3만원 성장 유진 목표가 ~KT"
+  ],
+  [
+   "2026-10-15T07:50:24.602462+09:00",
+   "부추겨 청소년 자해 폭력 소송 8개주 한꺼번에 오픈AI에"
   ]
  ],
- "last_run": "2026-10-15T07:48:34.608816+09:00",
+ "last_run": "2026-10-15T07:50:51.277159+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
