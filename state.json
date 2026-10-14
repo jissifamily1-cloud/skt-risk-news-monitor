@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026101379071",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=765764",
-  "https://www.mk.co.kr/article/12174563",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3720113",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3720115",
-  "https://www.smartbizn.com/news/articleView.html?idxno=156304",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596751830967",
-  "https://www.mt.co.kr/stock/2026/10/13/2026101315573629643",
-  "https://www.ddaily.co.kr/page/view/2026101316044280518",
-  "https://www.jasm.co.kr/news/view/321304/?sc=Naver",
-  "https://www.news1.kr/politics/assembly/6318489",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=280176",
   "https://www.mediapen.com/news/view/1129614",
   "https://news.skbroadband.com/news/articleView.html?idxno=240097",
@@ -2999,20 +2988,20 @@
   "https://news.mtn.co.kr/article/2026101409011426689",
   "https://www.etnews.com/20261014000069",
   "https://www.thebigdata.co.kr/view.php?ud=202610140944373860a47484cf8_23",
-  "https://www.ytn.co.kr/_ln/0104_202610140959406985"
+  "https://www.ytn.co.kr/_ln/0104_202610140959406985",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1414290",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3720912",
+  "https://www.ajunews.com/view/20261014094913528",
+  "https://www.insight.co.kr/news/577666",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479856",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=280282",
+  "https://biz.heraldcorp.com/article/10901972",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242171",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408160",
+  "https://www.ngonews.kr/news/articleView.html?idxno=240486",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=123214"
  ],
  "seen_titles": [
-  "\"초당200만IOPS에복원력까지\"…시놀로지,기업스토리지·보안신제품...",
-  "[2026국감]방산자료유출63건…방사청사이버공격및시스템접속시...",
-  "[단독]버튼하나로웹툰화면캡처…네이버·카카오복제방지허점",
-  "50도로달궈진냉동고…프랑스마트뚫린날\"AI,곧가전제품점거\"",
-  "최형두의원\"국가전산망해킹시도2배급증…공공기관보안책임은...",
-  "속도내는호남반도체인프라비용분담기준은안갯속",
-  "현판도못단방미통위,내년세종청사이전…정책연속성우려",
-  "법무·성평등부등27개기관내년에세종이전…옮겨가는공무원만'1만...",
-  "금융사해킹…보이스피싱주의보",
-  "렉서스,전기차더한8세대ES출시...4년연속판매기록다시쓸까",
-  "국방인프라·첨단산업갖춘평택시,‘K-방산거점’으로",
   "화정동주민자치위원회,'사계절김치나눔프로젝트'...따뜻한정나눠",
   "대구교통공사,서재운·정연진본부장임명...3년임기시작",
   "카카오,카카오톡에메시지·일정처리하는AI에이전트도입",
@@ -6001,7 +5990,18 @@
   "KT,AI전용회선출시…데이터전송용량8배확대",
   "KT,최대800Gbps'AI전용회선'출시…기존대비대역폭8배확대",
   "LGCNS,日3대통신사KDDI와맞손...아태지역AX확대",
-  "오픈AI직원,임원회의실에도청장치...FBI에체포"
+  "오픈AI직원,임원회의실에도청장치...FBI에체포",
+  "\"해킹후폭풍끝?\"SKT·KT·LGU+,3Q영업익1조3000억돌파전망",
+  "세종시사회서비스원,한글축제서시민참여형돌봄캠페인",
+  "\"AI국제기구설립촉구\"…'AI대부'힌턴등과학자400명공개서한",
+  "현대차그룹,차량·로봇넘나드는맞춤형AI공개...미래기술11건선보...",
+  "NH-아문디운용,\"에이전틱AI시대주목\"",
+  "[CEO리더십]\"단순1등넘어초일류\"…글로벌AI전장누비는곽노정의...",
+  "안창국금융위상임위원“한국,가상자산시장감시에AI활용해이상거...",
+  "병원정보보안협회,'의료기관내부자위협관리가이드라인'발간",
+  "KT,최대800Gbps'AI전용회선'출시…AIDC간데이터안정적으로연결",
+  "KT그룹임직원30명,대전어르신320명에'따뜻한한끼'",
+  "KT,최대800GbpsAI전용회선출시…초고속·초저지연구현"
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,13 @@
   [
    "2026-10-14T10:02:15.143349+09:00",
    "냉장고부터 급증 뚫려 전세계 해킹피해 프랑스 노래방까지"
+  ],
+  [
+   "2026-10-14T10:06:15.664525+09:00",
+   "글로벌 초일류 전장 곽노정의 단순 1등 넘어 누비는"
   ]
  ],
- "last_run": "2026-10-14T10:04:32.334497+09:00",
+ "last_run": "2026-10-14T10:06:36.675184+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
