@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20101071",
-  "https://www.asiatime.co.kr/article/20261013500401",
-  "https://www.news1.kr/it-science/cc-newmedia/6318521",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16245736",
-  "https://star.ytn.co.kr/_sn/0117_202610131637092404",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3720185",
-  "https://www.chosun.com/economy/money/2026/10/13/T6OMWR3BNZBU3APG2IM7T2FP74/",
   "https://www.newspost.kr/news/articleView.html?idxno=226336",
   "https://www.khan.co.kr/article/202610131637001",
   "https://www.thelec.kr/news/articleView.html?idxno=63638",
@@ -2999,16 +2992,16 @@
   "https://zdnet.co.kr/view/?no=20261014101550",
   "https://www.khgames.co.kr/news/articleView.html?idxno=309286",
   "https://www.ekn.kr/web/view.php?key=20261014023525959",
-  "https://www.newsis.com/view/NISX20261014_0003825236"
+  "https://www.newsis.com/view/NISX20261014_0003825236",
+  "http://www.wsobi.com/news/articleView.html?idxno=319634",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=367231",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=883478",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=123216",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261014103304W5L",
+  "https://www.edaily.co.kr/News/Read?newsId=03135686645612920&mediaCodeNo=257",
+  "http://www.metroseoul.co.kr/article/20261014500127"
  ],
  "seen_titles": [
-  "피자·아이스크림가격줄인상…쿠폰적용해도무거워진영수증",
-  "[오피셜]MVP김도영-레이예스-곽빈3파전가나?후보14명공개…신인왕...",
-  "'이번엔정말다르다'에이스곽빈,WC악몽지우고업셋이끌까",
-  "[카드NOW]KB국민카드·신한카드",
-  "중국추격·수급공백에코스피968P빠졌다…추세적반등언제?",
-  "시스코“韓기업사이버방어58점…세계평균밑돌아”",
-  "AI가요금납부에로밍가입까지…LG유플'U+one'에이전트전환,KT는구...",
   "[포토]증인선서하는이상운KTCISO",
   "佛슈퍼마켓덮친해킹…냉장고50도치솟고화재까지",
   "법무·성평등부등44곳세종이전…내년부터공무원1만명이동",
@@ -6001,7 +5994,14 @@
   "KT,최대800Gbps대역폭지원‘AI전용회선’출시",
   "엔비디아OCP개방형표준발표…AI팩토리비용절감과속도혁신선...",
   "[똑똑한쇼핑]이마트,롯데마트,홈플러스,쿠팡,11번가,신세계백화점",
-  "국내가전업계\"가정용냉장고보안수준,해킹당한佛마트냉장시설과..."
+  "국내가전업계\"가정용냉장고보안수준,해킹당한佛마트냉장시설과...",
+  "LGCNS·LGU+,日KDDI와아태지역AX사업공동추진·한국광고주협회'...",
+  "NH아문디,에이전틱AI시대투자방법보고서발간",
+  "현대차그룹,제로원데모데이서AI·모빌리티기술등11건공개",
+  "KT그룹희망나눔재단,대전서어르신320명에삼계탕나눔",
+  "금융위,오늘'은행권해킹'점검회의…새마을금고정보유출도주시",
+  "정규시즌우승이끈KT3인방,마지막월간MVP도노린다",
+  "[해킹에뚫린금융보안]<中>취약점찾고도…은행권해킹방어망'허점..."
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,17 @@
   [
    "2026-10-14T10:32:15.218542+09:00",
    "보안 해킹당한 국내 수준 마트 냉장고 냉장시설과 가전업계 가정용"
+  ],
+  [
+   "2026-10-14T10:34:15.681154+09:00",
+   "정규시즌 월간 노린다 마지막 이끈 ~KT MVP도 3인방 우승"
+  ],
+  [
+   "2026-10-14T10:34:15.681154+09:00",
+   "은행권 취약점 찾고도 방어망 허점"
   ]
  ],
- "last_run": "2026-10-14T10:32:38.505822+09:00",
+ "last_run": "2026-10-14T10:34:40.417826+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
