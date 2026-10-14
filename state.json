@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20261013174834536",
-  "http://www.press9.kr/news/articleView.html?idxno=84210",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=158123",
-  "https://news.ifm.kr/news/articleView.html?idxno=481625",
-  "https://www.etnews.com/20261014000243",
-  "https://www.ddaily.co.kr/page/view/2026101412133988061",
   "https://www.mk.co.kr/article/12175492",
   "https://www.ajunews.com/view/20261012003154136",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707044",
@@ -2999,15 +2993,15 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1415001",
   "https://www.kbmaeil.com/article/20261015500047",
   "http://www.newsprime.co.kr/news/article.html?no=751026",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172232"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172232",
+  "https://www.sedaily.com/article/20101780",
+  "https://www.chosun.com/economy/stock-finance/2026/10/15/HD64A6QLZNEMZEMYGUC2DFYRZA/",
+  "https://www.sentv.co.kr/article/view/sentv202610150015",
+  "https://www.mk.co.kr/article/12176378",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=280539",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798198&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "칠러이어액침냉각까지…LG전자,AIDC냉각사업전방위확대",
-  "은행앱,오늘부터모바일신분증발급…4개은행서비스시작",
-  "與독주어디까지…野\"민주당,막가는것아닌가\"",
-  "최태원,SK㈜주식9440억원어치매각…델일가펀드에일부매도",
-  "SK하이닉스,AI메모리병목해법제시…HBM넘어차세대시장공략",
-  "SK하이닉스,'메모리반도체판'다시짠다…AI추론병목겨냥한차세대...",
   "[포토]엔비디아의'베라루빈'",
   "“돈맡겨도되나”…2금융권까지번진해킹공포",
   "“금융거래중단,해킹아니니놀라지마세요”…카뱅18일새벽서비스...",
@@ -6001,7 +5995,13 @@
   "파두,OCP글로벌서밋서'파일시맨틱SSD'첫선",
   "‘AI에7조달러투자,수익은?’…6000선턱걸이코스피에또악재",
   "[해외시황]뉴욕증시,물가쇼크·반도체株급락에'하락'…나스닥1.88%...",
-  "미국8개주,오픈AI상대무더기제소"
+  "미국8개주,오픈AI상대무더기제소",
+  "상장앞둔앤트로픽,3분기매출23조원...전분기보다46%↑",
+  "코스피‘죽음의십자가’오나…美금리·유가변수가갈림길",
+  "뉴욕증시,9월CPI예상상회에일제히하락…나스닥1.88%↓",
+  "삼성전자,美실리콘밸리서6G기술공개…AI·위성통신으로미래시장선...",
+  "KT,3분기실적기대치하회전망…4분기반등기대",
+  "TV,세탁기다편하게썼는데…'AI홈'커지는해킹위험"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-10-15T08:36:15.944610+09:00",
    "이해진의 글로벌 웹툰 수출 기술 네이버 넘어 라인 승부수"
+  ],
+  [
+   "2026-10-15T08:40:27.518657+09:00",
+   "커지는 위험 세탁기 썼는데 편하게 TV"
   ]
  ],
- "last_run": "2026-10-15T08:38:33.990662+09:00",
+ "last_run": "2026-10-15T08:40:46.480553+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
