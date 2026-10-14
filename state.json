@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2633088",
-  "https://www.thisisgame.com/articles/430702",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337552",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321175",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492577",
-  "https://www.tokenpost.kr/news/insights/419688",
   "https://www.itbiznews.com/news/articleView.html?idxno=227225",
   "https://www.donga.com/news/Economy/article/all/20261005/134787364/1",
   "https://www.ziksir.com/news/articleView.html?idxno=148285",
@@ -2999,15 +2993,15 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5224973",
   "https://www.mk.co.kr/article/12172149",
   "http://www.technoa.co.kr/news/articleView.html?idxno=101510",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261015.22004004116"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261015.22004004116",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61447",
+  "https://www.aitimes.com/news/articleView.html?idxno=216034",
+  "https://www.aitimes.com/news/articleView.html?idxno=215995",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705217",
+  "https://www.edaily.co.kr/News/Read?newsId=05238166645612920&mediaCodeNo=257",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337740"
  ],
  "seen_titles": [
-  "샘알트먼\"AI로인한부작용불가피…일부는사회가감내해야\"",
-  "안전연구보다모델출시우선…오픈AI속도전논쟁재점화",
-  "'제브'뜨니판단·결정AI모델단숨에격전지로..유력기업들대거가...",
-  "엔비디아,중국AI반도체독주흔들…화웨이28%·알리바바7%로추격",
-  "메타“AI최첨단도달”…추격전서정면승부",
-  "AI호황의역설…실적문턱높아져",
   "LGCNS,앤스로픽‘프리퍼드’파트너선정…국내기업최초",
   "[사사건건]AI에해킹당한은행…내돈은?내개인정보는?",
   "하나證“AI속도조절론은마케팅⋯피지컬AI확산땐통신장비수혜”",
@@ -6001,17 +5995,15 @@
   "노소영맞상고포기…대법원,마지막2440억향방가른다",
   "“이통사정신좀들어?”…머스크‘美전역주파수인수’에주가우수...",
   "OPSWAT,소프트웨어공급망통합보안플랫폼공개",
-  "금융사AI해킹16곳으로늘어나…130곳은‘보안미흡’"
+  "금융사AI해킹16곳으로늘어나…130곳은‘보안미흡’",
+  "[ICT종합]위믹스및레노버소식외",
+  "아모데이지난해보수240억...'대형기술기업CEO중중간수준'",
+  "[10월6일]\"아모데이와같은방향이라더니\"…알트먼,\"앤트로픽과근본...",
+  "\"AI개발늦추자\"는데1070조원베팅…美경제까지흔들릴까",
+  "[美특징주]오픈AI녹음장치설치직원FBI체포…메모리株는하락",
+  "JTBC\"10월중매각공고낼것\"…매각주관사한영회계법인으로확정"
  ],
  "recent_sigs": [
-  [
-   "2026-10-14T13:36:14.450870+09:00",
-   "RF 5G 밸류체인 해저케이블부터 확산 온기 매수 부품까지"
-  ],
-  [
-   "2026-10-14T13:36:14.450870+09:00",
-   "랜섬웨어 해운 터미널 HMM 38곳 주장 항만업체"
-  ],
   [
    "2026-10-14T13:38:13.778636+09:00",
    "지역사업 민간플랫폼으로 넘어 1은 4분의 접수 기획까지 고향사랑기부"
@@ -6819,9 +6811,13 @@
   [
    "2026-10-14T19:32:17.621585+09:00",
    "포기 2440억 맞상고 향방 가른다 대법원 마지막"
+  ],
+  [
+   "2026-10-14T19:36:18.011359+09:00",
+   "한영회계법인으로 JTBC 확정 공고 10월 매각 매각주관사"
   ]
  ],
- "last_run": "2026-10-14T19:34:50.226209+09:00",
+ "last_run": "2026-10-14T19:36:35.774176+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
