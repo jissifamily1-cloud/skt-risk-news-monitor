@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3721234",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872686",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=65764",
-  "http://www.gndomin.com/news/articleView.html?idxno=492589",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588477135129",
-  "https://www.topdaily.kr/articles/112325",
-  "https://news.bizwatch.co.kr/article/mobile/2026/10/14/0010",
-  "https://www.ytn.co.kr/_ln/0134_202610141349071192",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316168&inflow=N",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60966",
-  "https://www.newspim.com/news/view/20261014000876",
   "https://www.thepublic.kr/news/articleView.html?idxno=322207",
   "http://www.metroseoul.co.kr/article/20261014500261",
   "https://www.ccdn.co.kr/news/articleView.html?idxno=1104667",
@@ -2999,20 +2988,20 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=242179",
   "https://daily.hankooki.com/news/articleView.html?idxno=1415013",
   "https://www.hankyung.com/article/202610153018i",
-  "https://www.newspim.com/news/view/20261015000116"
+  "https://www.newspim.com/news/view/20261015000116",
+  "https://www.kbmaeil.com/article/20261015500084",
+  "https://www.theguru.co.kr/news/article.html?no=108268",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727896",
+  "https://www.mk.co.kr/article/12176394",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727889",
+  "https://www.meconomynews.com/news/articleView.html?idxno=202548",
+  "https://www.ytn.co.kr/_ln/0104_202610150854347191",
+  "https://www.ajunews.com/view/20261015082006968",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172234",
+  "https://www.yna.co.kr/view/AKR20261015027900064?input=1195m",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35057"
  ],
  "seen_titles": [
-  "정재헌SKT대표,'AI유통'승부수...'토큰게이트웨이'로영토확장",
-  "GS건설,LG전자·GRC와맞손…AI데이터센터‘액침냉각’기술개발",
-  "계룡시,민선9기공약실천계획확정…61개사업에1조2,478억투입",
-  "댄아이브스\"AI강세장아직초기…코스피·미국기술주더오른다\"",
-  "SK하이닉스,HBM이어HBF개발…AI추론메모리병목대응",
-  "서천호\"법인명의대포폰195배급증\"…정부대책실효성지적",
-  "안현SK하이닉스사장\"전체메모리계층최적화로AI생태계지속성장...",
-  "[TOP'sPick][유통]에이피알,\"아마존프라임빅딜데이즈서역대최대...",
-  "오텍캐리어,구미AI데이터센터에냉각설비공급",
-  "전국에발생한'이상현상'...프랑스발칵뒤집혔다[자막뉴스]",
-  "데이터트래픽3년새46%늘었는데…통신3사설비투자올해도감소",
   "엔비디아RTX스파크탑재한AI크리에이터노트북'에이수스프로아트...",
   "엔비디아‘베라루빈’슈퍼칩살펴보는관람객",
   "신한·국민이어새마을금고까지…금융당국,해킹잇따르자보안대응책...",
@@ -6001,7 +5990,18 @@
   "넷플릭스,국내매출1조넘겼지만81%미국본사로지급",
   "SKT,네트워크엑스어워드수상…AX경쟁력인정",
   "[기고]AI추론의시대,한국시스템반도체도약의골든타임",
-  "[특징주]美반도체주급락여파…프리마켓서삼성전자6%·SK하이닉스7..."
+  "[특징주]美반도체주급락여파…프리마켓서삼성전자6%·SK하이닉스7...",
+  "AI·위성으로넓히는6G…삼성전자,실리콘밸리서차세대통신논의",
+  "삼성전자,日서네이버웹툰과협업…'애플첫폴더블'선제대응",
+  "[서학개미안테나]앤트로픽,3분기매출168억달러…IPO앞두고수익성...",
+  "한국‘반도체횡재’의남은시간[김세형칼럼]",
+  "[서학개미안테나]코어위브회사채수익률15%…AI투자'돈줄경색'오...",
+  "IPARK현산,'1.2조'광명하안주공6·7단지단독입찰...수의계약수순",
+  "AI차입우려에'AI클라우드업체'코어위브주가·회사채가격급락.....",
+  "SKT,'네트워크X어워드'수상…AI기반기술력인정받아",
+  "엔비디아,英에2.5억달러'기부'…젠슨황의노림수는",
+  "국내외공예전문가한자리…23일'청주국제공예포럼'개최",
+  "[포토]국감출석한송경희개보위원장"
  ],
  "recent_sigs": [
   [
@@ -6387,9 +6387,21 @@
   [
    "2026-10-15T08:50:24.665107+09:00",
    "~SKT 이송 국제상 기술로 공장 RAN 실증 완성차 2027년 무인"
+  ],
+  [
+   "2026-10-15T08:58:15.371344+09:00",
+   "공예 23일 한자리 청주 개최 전문가 국내외 국제공예포럼"
+  ],
+  [
+   "2026-10-15T08:58:15.371344+09:00",
+   "노림수는 5억달러 젠슨 기부 황의"
+  ],
+  [
+   "2026-10-15T08:58:15.371344+09:00",
+   "개보위원장 출석한 국감 송경희"
   ]
  ],
- "last_run": "2026-10-15T08:56:30.432670+09:00",
+ "last_run": "2026-10-15T08:58:38.205493+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
