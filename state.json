@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872384",
-  "https://www.mk.co.kr/article/12174489",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16245658",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008795463&plink=ORI&cooper=NAVER",
-  "https://zdnet.co.kr/view/?no=20261013143358",
-  "https://www.mk.co.kr/article/12174490",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=266018",
-  "https://biz.sbs.co.kr/article_hub/20000339646?division=NAVER",
   "https://it.chosun.com/news/articleView.html?idxno=2023092171922",
   "https://www.kbsm.net/news/view.php?idx=537457",
   "http://www.seouleconews.com/news/articleView.html?idxno=94304",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20261014041200008?input=1195m",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706956",
   "https://www.smartbizn.com/news/articleView.html?idxno=156340",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103355"
+  "http://www.dailypop.kr/news/articleView.html?idxno=103355",
+  "http://www.newsdream.kr/news/articleView.html?idxno=119916",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4112032",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3720853",
+  "https://www.ytn.co.kr/_ln/0104_202610140921410549",
+  "https://biz.heraldcorp.com/article/10901852",
+  "https://www.nspna.com/news/?newsid=831544",
+  "http://www.newswatch.kr/news/articleView.html?idxno=81515",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408145"
  ],
  "seen_titles": [
-  "AI와대화로납부·로밍까지…LG유플러스'U+one'액셔너블AI에이전트전...",
-  "[기획]구글부터넷플릭스까지…안방주도권뺏긴K-플랫폼,생존위협",
-  "해킹으로고객개인정보유출된예가람‧웰컴저축은행…금감원,현장점...",
-  "엑스와이지·엔비디아,휴머노이드실무인재키운다…900명몰린로보틱...",
-  "삼성전자,AI데이터병목해소3대축구축..美서HBM5모형첫공개",
-  "카이스트,피지컬AI3대지능체계제시…제조·의료·국방으로확장",
-  "제조업·일상'M.AX'가속화…휴머노이드·순찰로봇규제빗장푼다",
-  "시스코\"AI로빨라진사이버공격…기술보다조직협업이과제\"",
   "[이슈국감]개보위\"금융권·공공기관정보유출조사강화\"",
   "철거앞둔잠실야구장…LG·두산마지막가을혈투",
   "\"홈런·ERA타이틀격돌\"김도영·곽빈,프로야구MVP정조준",
@@ -6001,7 +5993,15 @@
   "[특징주]삼전·닉스,전날급락딛고장초반2∼3%대상승",
   "비트코인양자방어비용59달러로뚝…'공개키노출'604만BTC지킬까",
   "KT,데이터센터간800Gbps'AI전용회선'출시",
-  "금융위·방미통위·인권위2027년세종行…외교·국방부는2031년까지"
+  "금융위·방미통위·인권위2027년세종行…외교·국방부는2031년까지",
+  "파리바게뜨,네이버페이손잡고\"파란라벨전제품40%할인\"",
+  "안동시,도심자가정보통신망구축본격착수...2029년부터연간11억원...",
+  "[포토]KCC울산공장,울산동구청에성금1.000만원전달",
+  "구글,최상위AI모델7개월만에새로공개...'제미나이4아르곤'출시",
+  "“수술중내시경위치정밀파악”…DGIST,국제의료영상AI대회세계...",
+  "금융위,해킹대응재점검…새마을금고·OK저축은행도‘뚫려’",
+  "[국감]KT,'티오더기술탈취의혹'도마…공정위살핀다",
+  "박윤영사장체제첫임단협에KT새노조반발…\"전면재교섭해야\""
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,17 @@
   [
    "2026-10-14T09:20:23.648979+09:00",
    "LG 넘어 정보통신 50곳 2억 임원 상반기 보수 업체"
+  ],
+  [
+   "2026-10-14T09:24:15.464653+09:00",
+   "~KT 공정위 기술 도마 의혹 탈취 살핀다 티오더"
+  ],
+  [
+   "2026-10-14T09:24:15.464653+09:00",
+   "~KT 체제 박윤영 전면 반발 재교섭해야 KT새노조 사장 임단협에"
   ]
  ],
- "last_run": "2026-10-14T09:22:31.643500+09:00",
+ "last_run": "2026-10-14T09:24:38.071090+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
