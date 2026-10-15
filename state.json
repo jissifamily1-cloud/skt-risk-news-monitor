@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=42300",
-  "https://biz.heraldcorp.com/article/10902398",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729236",
-  "https://www.dt.co.kr/article/12089061",
-  "https://www.newsis.com/view/NISX20261013_0003824612",
-  "https://www.joongangenews.com/news/articleView.html?idxno=554948",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=128402",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3721273",
-  "https://platum.kr/archives/296181",
-  "https://it.donga.com/109691/",
-  "https://www.g-enews.com/view.php?ud=2026101308550960379a1f309431_1",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145655",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=65767",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=322252",
@@ -2999,20 +2988,20 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=158154",
   "https://www.mt.co.kr/tech/2026/10/15/2026101509064951149",
   "https://hbnpress.com/news/view/1065571131076682",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872977"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872977",
+  "https://www.dailian.co.kr/news/view/1701679/?sc=Naver",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209511",
+  "https://www.sejungilbo.com/news/articleView.html?idxno=60634",
+  "https://www.news1.kr/bio/general/6320680",
+  "https://www.news1.kr/bio/pharmaceutical-bio/6320683",
+  "https://www.newsis.com/view/NISX20261015_0003826707",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136048",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439326",
+  "https://www.dt.co.kr/article/12089232",
+  "https://www.edaily.co.kr/News/Read?newsId=03837606645612920&mediaCodeNo=257",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16247625"
  ],
  "seen_titles": [
-  "KT,정조대왕스페셜유니폼출시",
-  "사진넣자로봇가상훈련장'뚝딱'…카네기멜론·칭화대연구팀,3D공간...",
-  "[AI이슈]\"AI자기복제,수개월내가능\"…앤트로픽,스마트가전이사...",
-  "오텍캐리어,구미AI데이터센터냉각설비공급추진",
-  "댄아이브스\"코스피1년내전고점회복…AI강세장이제시작\"",
-  "‘월가전설’댄아이브스“메모리공급,2029년까지부족…삼전·SK하...",
-  "최형두\"사회갈등조직적댓글행태…검증체계구축필요”",
-  "[국감]MBK김병주,홈플러스국감증인재채택…또불출석땐동행명령...",
-  "KT소닉붐,2026-2027시즌정조대왕스페셜유니폼출시",
-  "대전콘텐츠페어,기능성게임첫공모전연다…시니어·장애인도직접평...",
-  "광주·전남딥테크12곳,한전·포스코앞에서투자·협력기회찾았다",
   "[위클리AI]앤트로픽·오픈AI·구글,모델성능넘어선경쟁시작",
   "저커버그\"메타AI최첨단도달\"…유료화·추가투자승부수",
   "'또불출석땐동행명령'…MBK김병주,23일국감재소환'주목'",
@@ -6001,7 +5990,18 @@
   "SK텔레콤,AI-RAN기반무인차량이송기술로글로벌통신혁신상수상",
   "SKT,장애청소년디지털격차해소기여…'행복AI챌린지'개최",
   "LG유플러스,장기치료척수장애인가정지원...의료·생계비후원",
-  "애플,시총5조달러시대오픈…엔비디아이어美증시두번째"
+  "애플,시총5조달러시대오픈…엔비디아이어美증시두번째",
+  "삼성전자,실리콘밸리서6G청사진…'AI내재형네트워크'기술공개",
+  "KISA,불법스팸이용제한35만건요청하고도이행여부확인안해",
+  "한세회,세무사랑Pro에AI신고검증시스템구축…내년1월전면오픈",
+  "'해외직구식품'사진으로위해성분확인…AI서비스시험운영",
+  "하이닥,영어·일본어·인도네시아어글로벌사이트오픈",
+  "파이오링크,AI로오픈소스보안취약점28건발견",
+  "\"글로벌석학·기업모여최신기술조명한다\"...고려대,'AITechDay2026...",
+  "[뉴욕마켓브리핑](15일)",
+  "AI신용위험덮친코스피,5600선추락…삼전·하닉5~6%대급락",
+  "카카오사내AI,회의잡고예약까지…승인하면자동실행",
+  "헝거게임50번째추첨의날,메인포스터·예고편으로판엠대격돌예고"
  ],
  "recent_sigs": [
   [
@@ -6461,7 +6461,7 @@
    "디지털 ~SKT 기여 행복 격차 장애청소년 해소 챌린지 개최"
   ]
  ],
- "last_run": "2026-10-15T09:12:39.209770+09:00",
+ "last_run": "2026-10-15T09:14:32.860441+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
