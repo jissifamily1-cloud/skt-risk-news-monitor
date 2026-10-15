@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://platum.kr/archives/296205",
-  "https://www.seoulfn.com/news/articleView.html?idxno=640063",
-  "https://kpenews.com/View.aspx?No=4263510",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=92597",
-  "https://www.koreaherald.com/article/10901402",
-  "https://www.nytimes.com/2026/10/13/technology/apple-homeview-tablet.html?partner=naver",
-  "https://www.yna.co.kr/view/AKR20261014041251008?input=1195m",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62906",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400312.html",
   "https://www.hankyung.com/article/2026101405271",
   "https://www.mk.co.kr/article/12175725",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20261015068900017?input=1195m",
   "https://www.etoday.co.kr/news/view/2636076",
   "https://www.newsis.com/view/NISX20261013_0003824531",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707332"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707332",
+  "https://www.newsgn.com/news/articleView.html?idxno=579224",
+  "https://news.mtn.co.kr/article/2026101510210568398",
+  "https://www.m-i.kr/news/articleView.html?idxno=2006197",
+  "https://www.newsis.com/view/NISX20261014_0003825878",
+  "https://biz.sbs.co.kr/article_hub/20000340104?division=NAVER",
+  "https://zdnet.co.kr/view/?no=20261015104304",
+  "https://www.cstimes.com/news/articleView.html?idxno=724053",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686390"
  ],
  "seen_titles": [
-  "AI스타트업16곳,투자자앞에서IR…오픈AI·하이퍼엑셀강연도",
-  "'연쇄해킹'책임론정조준···국감행5대은행장,묘책내놓을까",
-  "34개기업·기관손잡고MAU500만겨냥..카카오,‘모두의AI’연내출...",
-  "구글,AI로데이터센터설계·운영혁신…'지능형인프라'비전제시",
-  "[AgustinoFontevecchia]Journalists'revoltagainstAI",
-  "AppleIntroducesHomeView,a$299TabletfortheHome",
-  "SK하이닉스,반등실패후1.7%하락마감…6거래일연속내려(종합)",
-  "SK하이닉스안현사장\"AI시대,메모리계층간데이터이동이새병목...",
   "中CXMT차세대메모리쇼크에…송재혁삼성전자사장\"4F스퀘어준비...",
   "AI소프트웨어ETF,美웃고韓·中울었다",
   "상승세의수원KT,연승탈출노리는가스공사원정길출격[프로농구]",
@@ -6001,7 +5993,15 @@
   "오픈AI,22일서울서개발자행사…에이전트·코덱스기술공유",
   "애플은‘독야청청’⋯엔비디아이어시총5조달러클럽합류",
   "호남반도체산단유관부처장관3인방,잇단부지점검",
-  "엔비디아\"AI데이터센터전력최대40%낭비\"…칩보다급한건'전기'"
+  "엔비디아\"AI데이터센터전력최대40%낭비\"…칩보다급한건'전기'",
+  "'거제야호~'한마디가바꾼거제의이미지",
+  "\"해커보다먼저보안허점찾는다...파이오링크,미공개취약점28건발...",
+  "[기자수첩]원팀대응이필요한금융권사이버보안",
+  "공무원노조\"세종이전일방적희생안돼…특공등대책필요\"",
+  "KT,AX혁신성과공유...'2026AID-XDay'개최",
+  "KT,AI로고객분석8시간→10분...업무혁신성과공유",
+  "'해킹논란'5대은행장국감출석…레버리지ETF핵심인사제외",
+  "[뉴스레터K]중산층부담키우는‘스텔스’증세얼마나?"
  ],
  "recent_sigs": [
   [
@@ -6663,9 +6663,13 @@
   [
    "2026-10-15T10:44:13.682295+09:00",
    "전기 전력 급한 데이터센터 낭비 칩보다"
+  ],
+  [
+   "2026-10-15T10:46:15.387053+09:00",
+   "스텔스 부담 얼마나 키우는 증세 중산층"
   ]
  ],
- "last_run": "2026-10-15T10:44:40.732306+09:00",
+ "last_run": "2026-10-15T10:46:38.267599+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
