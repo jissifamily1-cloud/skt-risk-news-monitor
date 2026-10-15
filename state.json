@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.appstory.co.kr/daily19613",
-  "https://www.aitimes.com/news/articleView.html?idxno=215761",
-  "https://www.aitimes.com/news/articleView.html?idxno=215771",
-  "https://zdnet.co.kr/view/?no=20260929172653",
-  "https://www.mt.co.kr/world/2026/09/29/2026092916214889638",
-  "https://www.bbc.com/korean/articles/c3wyz05v7xrlo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.aitimes.com/news/articleView.html?idxno=215747",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703550",
   "https://www.aitimes.com/news/articleView.html?idxno=215750",
   "https://www.aitimes.com/news/articleView.html?idxno=215741",
@@ -2999,16 +2992,16 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=883679",
   "https://www.pressman.kr/news/articleView.html?idxno=104016",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590176.html",
-  "https://www.ddaily.co.kr/page/view/2026100116124605420"
+  "https://www.ddaily.co.kr/page/view/2026100116124605420",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242224",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=869626",
+  "https://economist.co.kr/article/view/ecn202610150046",
+  "https://www.huffingtonpost.kr/article/261252",
+  "https://www.dt.co.kr/article/12089367",
+  "https://www.dynews.co.kr/news/articleView.html?idxno=869625",
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914975"
  ],
  "seen_titles": [
-  "플로리다주,오픈AIAI모델개발제동거나…독립안전감독요구",
-  "\"한도차면할인끝\"앤트로픽…오픈AI는'파격할인'으로고객빼앗기",
-  "알트먼·아모데이,호주의회AI청문회불참...오픈AI는CSO파견",
-  "[AI는지금]모델넘어플랫폼노리는오픈AI…'데브데이'서개발자잡는...",
-  "\"AI막연한공포감에발목잡혀서야\"…젠슨황,속도조절론일축",
-  "오픈AI,'안전성우려'…최신AI모델GPT-6.1아스트라출시취소",
-  "저커버그·아모데이·젠슨황,29일트럼프와백악관서AI정책논의",
   "GPT-6.1아스트라출시접은오픈AI…규제가속도",
   "오픈AI,데브데이서신제품20개예고...'상시작동에이전트'주목",
   "\"RSI통제력잃기전에규제해야\"...세계최고AI연구자20인공동경고",
@@ -6001,21 +5994,16 @@
   "하이닉스11%폭락,삼성전자9%↓…7월말이후낙폭최대",
   "하나카드,AI구독결제선점...대출규제·회원감소대응",
   "\"최태원회장도물렸다\"삼전닉스폭락…코스피7%대급락'검은목요일...",
-  "유출된CI바꾸려면'디지털대공사'…정부,테스트베드구축검토"
+  "유출된CI바꾸려면'디지털대공사'…정부,테스트베드구축검토",
+  "'아이폰듀오'사전예약D-1…이통3사고객확보경쟁",
+  "한국유선인터넷속도동남아보다느려",
+  "파두,세계최초'파일시맨틱SSD'공개…AI병목현상정조준",
+  "5대은행장들의임박한'연임심사'가우스꽝스러워졌다:전원국감호...",
+  "SKT,AI로장애청소년디지털격차줄인다",
+  "꽃동네학교,2026행복AI챌린지서최우수상·우수상수상",
+  "세종시사회서비스-·SK텔레콤-세종창경센터,'AI·디지털건강케어'업무..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-15T10:26:16.835589+09:00",
-   "확대 기아 교육부터 장애청소년 해결까지 사회공헌 기업들"
-  ],
-  [
-   "2026-10-15T10:26:16.835589+09:00",
-   "개인 계정으로 애플로 미공개 100여 파일 직원이 보낸"
-  ],
-  [
-   "2026-10-15T10:26:16.835589+09:00",
-   "달래기 수석도 서울이라 행시 직원 왔는데"
-  ],
   [
    "2026-10-15T10:28:14.988594+09:00",
    "~KT 꺾고 선착 BFX 3대1로 결승"
@@ -6703,9 +6691,13 @@
   [
    "2026-10-15T16:26:15.672656+09:00",
    "유출된 대공사 구축 CI 디지털 검토 정부 테스트베드 바꾸려면"
+  ],
+  [
+   "2026-10-15T16:28:14.923178+09:00",
+   "~SKT 디지털 세종시사회서비스 건강케어 업무 세종창경센터"
   ]
  ],
- "last_run": "2026-10-15T16:26:38.053481+09:00",
+ "last_run": "2026-10-15T16:28:37.554684+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
