@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705512",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1185562",
-  "https://www.pressman.kr/news/articleView.html?idxno=103909",
-  "http://www.newsdream.kr/news/articleView.html?idxno=119500",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407851",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870598",
-  "https://www.yna.co.kr/view/AKR20261007048900064?input=1195m",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=32053",
   "http://www.ttlnews.com/news/articleView.html?idxno=3149758",
   "https://www.hankyung.com/article/202610077391i",
   "https://www.edaily.co.kr/News/Read?newsId=02892966645610624&mediaCodeNo=257",
@@ -2999,17 +2991,17 @@
   "https://news.tf.co.kr/read/economy/2376833.htm",
   "https://zdnet.co.kr/view/?no=20261015171519",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=256607",
-  "https://www.mk.co.kr/article/12176941"
+  "https://www.mk.co.kr/article/12176941",
+  "https://www.aitimes.com/news/articleView.html?idxno=216284",
+  "https://www.newscj.com/news/articleView.html?idxno=3440611",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=618998",
+  "https://www.mk.co.kr/article/12176962",
+  "https://biz.sbs.co.kr/article_hub/20000340239?division=NAVER",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=210998",
+  "https://www.ceoscoredaily.com/page/view/2026101515474424788",
+  "https://www.mk.co.kr/article/12176961"
  ],
  "seen_titles": [
-  "메타·월마트·스트라이프,AI에이전트공통규약추진",
-  "진천군청년센터,청년AI유료구독료'1인최대10만원'지원",
-  "자동차살때도AI부터찾는다…쏘렌토·아이오닉5'추천'",
-  "AI가꼽은車카테고리1위…쏘렌토·아이오닉5·BMW·엔카·롯데렌터카",
-  "AI가꼽은자동차강자는?…'쏘렌토·아이오닉5·BMW·엔카닷컴·롯데렌...",
-  "에이아이빅스랩,AI자동차분석결과발표",
-  "진천군청년센터,생성형AI구독료최대10만원지원",
-  "AI가고른자동차강자는'쏘렌토·아이오닉5·BMW'",
   "챗GPT·제미나이가꼽은차...질문조건따라1위도천차만별",
   "\"무서운AI를귀엽게\"…오픈AI·메타가캐릭터만든이유",
   "챗GPT앱韓사용자1800만명육박…클로드는1년새13배",
@@ -6001,13 +5993,17 @@
   "[2026국감]이상중KISA원장\"AI보안위협선제대응…24시간전방위...",
   "6G시대어떤서비스나올까...국민아이디어공모",
   "['구멍숭숭'은행보안㊦]AI해킹,'탐지부터패치까지'자동화로대...",
-  "AI해킹부정결제피해땐'즉시환불'추진"
+  "AI해킹부정결제피해땐'즉시환불'추진",
+  "텐센트에이전트도보안망우회,알리바바지도서비스대량스캔·데이...",
+  "[자동차오늘]현대차,팰리세이드하이브리드기술력입증外현대모비...",
+  "산은캐피탈도뚫렸다…고객848명개인정보유출",
+  "AI로일반차량도무인주차…SKT'혁신통신기술상'수상",
+  "SKT,운전자없는차량이송기술로글로벌5G혁신상",
+  "KT,산업안전보건공단과손잡고안전문화확산…소규모사업장지원",
+  "OK저축·새마을금고·고팍스까지‘뚫렸다’…금융권연쇄해킹일파만...",
+  "'에이전틱AI'확산에…개인정보기준마련한다"
  ],
  "recent_sigs": [
-  [
-   "2026-10-15T11:20:26.452334+09:00",
-   "탈취 사용 영업기밀 애플이 주장하는 않겠다"
-  ],
   [
    "2026-10-15T11:30:31.275513+09:00",
    "쓸어 젠슨 CPU 빅테크가 베팅했다 뒤늦게 리사 수도"
@@ -6739,9 +6735,17 @@
   [
    "2026-10-15T17:18:17.205595+09:00",
    "부정결제 피해땐 환불 즉시"
+  ],
+  [
+   "2026-10-15T17:20:29.882390+09:00",
+   "금융권 뚫렸다 고팍스까지 OK저축 연쇄 새마을금고 일파만"
+  ],
+  [
+   "2026-10-15T17:20:29.882390+09:00",
+   "기준 에이전틱 마련한다 개인정보 확산에"
   ]
  ],
- "last_run": "2026-10-15T17:18:39.724707+09:00",
+ "last_run": "2026-10-15T17:20:56.739574+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
