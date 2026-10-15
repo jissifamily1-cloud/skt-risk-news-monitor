@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/10/14/technology/22-people-got-together-for-a-dinner-party-so-did-their-ai-agents.html?partner=naver",
-  "https://www.nytimes.com/2026/10/14/opinion/ezra-klein-podcast-sherry-turkle.html?partner=naver",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1104801",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=311771",
-  "https://www.sedaily.com/article/20101678",
-  "https://www.sedaily.com/article/20101683",
   "https://www.sisaweek.com/news/articleView.html?idxno=238370",
   "https://www.goodkyung.com/news/articleView.html?idxno=292391",
   "https://www.news2day.co.kr/article/20261014500368",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/News/Read?newsId=03716246645613248&mediaCodeNo=257",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=278876",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145691",
-  "https://www.hankyung.com/article/202610153352i"
+  "https://www.hankyung.com/article/202610153352i",
+  "http://www.metroseoul.co.kr/article/20261014500595",
+  "https://www.news1.kr/world/international-economy/6321049",
+  "https://www.newscj.com/news/articleView.html?idxno=3440481",
+  "https://www.nocutnews.co.kr/news/6591939",
+  "https://www.aitimes.com/news/articleView.html?idxno=216277",
+  "https://www.tokenpost.kr/news/breaking/422640"
  ],
  "seen_titles": [
-  "22PeopleGotTogetherforaDinnerParty.SoDidTheirA.I.Agents.",
-  "IsItWrongtoLoveaChatbot?",
-  "중원대,KT와외국인유학생통신편의지원위한업무협약체결",
-  "[포토]kt그룹희망나눔재단,대전서'빨간밥차'급식봉사",
-  "데이터쌓아‘두뇌’구축…“세계최고RFM목표”[스케일업]",
-  "통신업계,협력사‘보안구멍’까지막는다",
   "'개인정보유출사고'넷마블,보안투자의지의문'왜'",
   "'먹튀'PEF떠난저축은행업계,장기자산운용으로체질전환하나",
   "[SEDEX2026]SK하이닉스,HBM넘어HBF까지…AI메모리경쟁력강화",
@@ -6001,7 +5995,13 @@
   "\"AI숫자,믿어도되나\"…'깜깜이실적'에출렁이는증시",
   "NvidiaPledgesAdditional$2BillionforEuropeanAIEcosystem",
   "'AI,생각보다돈이안된다'...코스피5500수직낙하,키옥시아등아시...",
-  "“AI투자할돈,계속빌릴수있나”…증시덮친‘15%의경고’[빈난..."
+  "“AI투자할돈,계속빌릴수있나”…증시덮친‘15%의경고’[빈난...",
+  "계명대이종원교수,과기정통부‘나의연구도전기’최우수상수상",
+  "월가AI투자에'부채경고등'…코어위브회사채수익률15%돌파",
+  "남부발전,생성형AI로만든명함관리앱깃허브공개",
+  "전남광주특별시,반도체산단단계적착공추진…2030년첫양산목표",
+  "오픈AI도청혐의엔지니어,사우디행편도티켓확보...\"도주우려있었...",
+  "엔비디아투자AI신약사아이앰빅,IPO로2010억원조달"
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,13 @@
   [
    "2026-10-15T12:08:14.761123+09:00",
    "투자할 계속 증시 빌릴 있나 경고 덮친 빈난"
+  ],
+  [
+   "2026-10-15T12:10:24.217768+09:00",
+   "IPO로 조달 투자 신약사 2010억원 아이앰빅"
   ]
  ],
- "last_run": "2026-10-15T12:08:37.733400+09:00",
+ "last_run": "2026-10-15T12:10:45.985240+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
