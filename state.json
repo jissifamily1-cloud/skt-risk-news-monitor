@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fetv.co.kr/news/articleView.html?idxno=311811",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727944",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214863",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=395350",
   "https://www.sentv.co.kr/article/view/sentv202610150110",
   "https://www.ytn.co.kr/_ln/0104_202610151133302815",
   "https://biz.heraldcorp.com/article/10903627",
@@ -2999,13 +2995,13 @@
   "https://www.globale.co.kr/news/articleView.html?idxno=41064",
   "https://www.dailian.co.kr/news/view/1701984/?sc=Naver",
   "http://www.wikileaks-kr.org/news/articleView.html?idxno=193247",
-  "https://www.edaily.co.kr/News/Read?newsId=02407526645613576&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02407526645613576&mediaCodeNo=257",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6858361_37012.html",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=616063",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160008&t=NN",
+  "https://biz.sbs.co.kr/article_hub/20000340311?division=NAVER"
  ],
  "seen_titles": [
-  "현대모비스,중국상하이서첫오픈이노베이션행사…로보틱스협력확...",
-  "[Tech&Now]한컴,발란사협업패키지…제논,AI포털'제나'정식출시",
-  "셀러맞춤형지원강화…G마켓,'2026셀러컨퍼런스'개최",
-  "AI거품론재발에'검은목요일'…코스피5600선무더기추락",
   "토스증권\"대만이AI반도체공급망허브\"…현지탐방리포트발간",
   "일,해킹확산...지자체이어경찰·소방도정보유출",
   "웨스팅하우스에‘조단위’지분투자…SMR넘어대형원전으로확장",
@@ -6001,7 +5997,11 @@
   "뉴욕증시,PPI충격·AI신용불안딛고젠슨황발언에반등",
   "금융권“AI공격온다”경고에도…‘예견된위험’못막았다",
   "김형연\"공공기관10곳,국민가명정보2124만개위탁사실숨겨\"",
-  "KT·쿠팡과징금감경률높인개인정보위…속기록엔이유無"
+  "KT·쿠팡과징금감경률높인개인정보위…속기록엔이유無",
+  "부실경선파문에발칵‥장동혁\"정도껏해\"",
+  "[뉴욕증시혼조]코어위브급락·FTCAI조사충격…나스닥1.2%하락속...",
+  "\"기름값만문제가아니다\"...美생산자물가뜯어보니[굿모닝글로벌...",
+  "신한,정보보호예산'꼴찌'…우리는최대감소율"
  ],
  "recent_sigs": [
   [
@@ -6213,7 +6213,7 @@
    "과징금 개인정보위 ~KT 이유 속기록엔 쿠팡 높인 감경률"
   ]
  ],
- "last_run": "2026-10-16T07:06:39.830521+09:00",
+ "last_run": "2026-10-16T07:08:31.553767+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
