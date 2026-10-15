@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=615746",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1019401",
-  "https://www.edaily.co.kr/News/Read?newsId=03624406645613248&mediaCodeNo=257",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3722327",
   "https://www.fetv.co.kr/news/articleView.html?idxno=311811",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727944",
   "http://www.srtimes.kr/news/articleView.html?idxno=214863",
@@ -2999,13 +2995,13 @@
   "https://news.tf.co.kr/read/economy/2376557.htm",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449354",
   "http://www.segyebiz.com/newsView/20261015523206?OutUrl=naver",
-  "https://www.newscj.com/news/articleView.html?idxno=3440640"
+  "https://www.newscj.com/news/articleView.html?idxno=3440640",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41064",
+  "https://www.dailian.co.kr/news/view/1701984/?sc=Naver",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193247",
+  "https://www.edaily.co.kr/News/Read?newsId=02407526645613576&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[기업家]LS그룹⑫ㅣAI데이터센터·해저케이블수주확대…글로벌전...",
-  "국립부산과학관,학교밖과학교육이끌전문강사키운다",
-  "베슬AI\"정부'독파모'가성장촉진제…GPU수요3만장넘어\"",
-  "창원시,제26회마산가고파국화축제분장대회참가자모집",
   "현대모비스,중국상하이서첫오픈이노베이션행사…로보틱스협력확...",
   "[Tech&Now]한컴,발란사협업패키지…제논,AI포털'제나'정식출시",
   "셀러맞춤형지원강화…G마켓,'2026셀러컨퍼런스'개최",
@@ -6001,7 +5997,11 @@
   "게임업계신입공채문턱바뀐다…코딩테스트대신AI평가",
   "[WhoIs?]김성수SK브로드밴드대표이사사장",
   "‘AI해킹’악재만난정상혁신한은행장…첫3연임향방은",
-  "[인터뷰]민예인이브리즈대표\"AI로해킹분석빨라져…일주일걸리..."
+  "[인터뷰]민예인이브리즈대표\"AI로해킹분석빨라져…일주일걸리...",
+  "뉴욕증시,PPI충격·AI신용불안딛고젠슨황발언에반등",
+  "금융권“AI공격온다”경고에도…‘예견된위험’못막았다",
+  "김형연\"공공기관10곳,국민가명정보2124만개위탁사실숨겨\"",
+  "KT·쿠팡과징금감경률높인개인정보위…속기록엔이유無"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,13 @@
   [
    "2026-10-16T07:04:16.316385+09:00",
    "AI로 민예인 빨라져 분석 대표 일주일 걸리 이브리즈"
+  ],
+  [
+   "2026-10-16T07:06:15.978180+09:00",
+   "과징금 개인정보위 ~KT 이유 속기록엔 쿠팡 높인 감경률"
   ]
  ],
- "last_run": "2026-10-16T07:04:42.619376+09:00",
+ "last_run": "2026-10-16T07:06:39.830521+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
