@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112892566",
-  "https://www.sedaily.com/article/20101599",
-  "https://www.kukinews.com/article/view/kuk202610140189",
-  "https://biz.chosun.com/stock/finance/2026/10/14/AOWNUPIK6ZG67IITUME26BFHFE/",
-  "http://www.segyebiz.com/newsView/20261014520478?OutUrl=naver",
-  "https://www.kgnews.co.kr/news/article.html?no=915176",
-  "https://www.gamechosun.co.kr/webzine/article/view.php?no=226352",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90248",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=872559",
   "https://www.sedaily.com/article/20101602",
   "https://biz.chosun.com/it-science/ict/2026/10/14/JGM3EMWJNZHLHJKVQCZIVEOFLY/",
@@ -2999,17 +2991,17 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071976",
   "https://www.sentv.co.kr/article/view/sentv202610150097",
   "https://www.tjb.co.kr/news05/bodo/view/id/104829",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000073612"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000073612",
+  "https://zdnet.co.kr/view/?no=20261015111144",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=798168",
+  "https://www.etoday.co.kr/news/view/2636067",
+  "http://www.inews24.com/view/2015267",
+  "https://zdnet.co.kr/view/?no=20261015110647",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7188770",
+  "https://www.ytn.co.kr/_ln/0102_202610151110205334",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267803"
  ],
  "seen_titles": [
-  "KIA도관심폭발!LG-두산와카라인업떴다,홍창기-박찬호리드오프격...",
-  "코인거래소고팍스도뚫렸다...16개금융사서개인정보10만건유출",
-  "금융사4곳중1곳‘기본보안’구멍…“수차례주문했는데뼈아파”",
-  "DB저축은행·산은캐피탈도개인정보유출…5개사피해추가확인",
-  "KT,대역폭8배늘린AI전용회선출시…데이터센터연결강화",
-  "금융사16곳해킹피해…555곳중23.4%보안미흡",
-  "넷이즈‘연운’,11월말엔비디아DLSS5지원예고",
-  "팔로알토네트웍스\"AI해킹시대…사이버보안트랜스포메이션전략필수...",
   "\"잠실마지막가을야구,통신끊김막아라\"…LGU+특별점검",
   "“요즘누가할인안받고영화를봐요?”…정가내고보는관객은단...",
   "AI로다시기회잡은인텔,다음승부처는‘로봇·공장’…“CPU·제어...",
@@ -6001,7 +5993,15 @@
   "SKT,'네트워크X어워드'수상…네트워크기술력인정",
   "“AI로8시간업무10분만에”…KT,사내AI전환성과한자리에",
   "애플사상첫시총5조달러돌파마감…엔비디아이어두번째",
-  "日경찰5700명정보유출우려…소방신고망까지해킹"
+  "日경찰5700명정보유출우려…소방신고망까지해킹",
+  "장애청소년110명,AI로창의력겨뤘다",
+  "[위클리오늘]현대모비스,美실리콘밸리이어中상하이서오픈이노베...",
+  "'거장항준'장항준,감독품격어디에⋯김풍\"3.5%넘기면상의탈의시킬...",
+  "실리콘밸리넘어상하이로…현대모비스,로봇'기술우군'찾는다",
+  "배달대행사이트서라이더개인정보노출…우형\"배민과무관\"",
+  "OK저축銀,고객정보유출250명확인…70여명늘었다",
+  "OK저축은행,정보유출250명으로확대...\"깊은사과\"",
+  "KT,AI에이전트·피지컬AI등그룹전반AX혁신성과공개"
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,13 @@
   [
    "2026-10-15T11:12:14.343028+09:00",
    "신고망까지 우려 소방 경찰 5700명 정보 유출"
+  ],
+  [
+   "2026-10-15T11:14:17.649595+09:00",
+   "창의력 AI로 110명 겨뤘다 장애청소년"
   ]
  ],
- "last_run": "2026-10-15T11:12:36.709258+09:00",
+ "last_run": "2026-10-15T11:14:35.921399+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
