@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202610142045015",
-  "https://www.ekn.kr/web/view.php?key=20261014026086314",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872913",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449373",
   "https://www.mhns.co.kr/news/articleView.html?idxno=764292",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=246504",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1540538",
@@ -2999,13 +2995,13 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16247900",
   "https://www.ziksir.com/news/articleView.html?idxno=149468",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151336260420735",
-  "https://www.hankyung.com/article/202610153952i"
+  "https://www.hankyung.com/article/202610153952i",
+  "http://www.joseilbo.com/news/news_read.php?uid=577474&class=32",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209516",
+  "https://www.etoday.co.kr/news/view/2636204",
+  "https://www.fnnews.com/news/202610151325551103"
  ],
  "seen_titles": [
-  "대역폭8배넓힌KT‘초고속AI전용회선’",
-  "[패트롤]광명시-부천시-시흥시-안산시-안양시",
-  "프랑스\"냉장고해킹피해슈퍼700곳...식량안보휘청",
-  "[10월15일자]비즈니스포스트아침의주요기사",
   "LG유플러스,구례용방면주민에500만원후원",
   "금융권AI해킹침해16곳확인…당국,전금융사보안점검",
   "프랑스\"냉장고해킹피해마트700곳달해\"",
@@ -6001,7 +5997,11 @@
   "코스피폭락왜?삼성전자·SK하이닉스급락뒤엔AI회사채경고…반등...",
   "SKT,글로벌무대서AI-RAN기술력입증…'혁신적5G서비스'수상",
   "SKT,‘NetworkX어워드’수상…‘가장혁신적인5G통신서비스’부...",
-  "\"접속만해도감염됩니다\"…흔적없는해킹에한국비상"
+  "\"접속만해도감염됩니다\"…흔적없는해킹에한국비상",
+  "국힘지도부,'용인갑조직위원장'경선결과에공개충돌",
+  "삼성전자,미국실리콘밸리서차세대네트워크기술조명",
+  "시선AI,문서AI엔진구글ㆍ오픈AIㆍ엔비디아제쳤다…OCRBenchv2세계1...",
+  "최태원도물렸다…SK하이닉스폭락에회장님매입가밑으로[종목NOW]"
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,13 @@
   [
    "2026-10-15T14:04:17.508969+09:00",
    "흔적 해도 없는 감염됩니다 해킹에 한국 비상 접속만"
+  ],
+  [
+   "2026-10-15T14:06:15.293139+09:00",
+   "최태원도 매입가 회장님 밑으로 SK하이닉스 폭락에 물렸다"
   ]
  ],
- "last_run": "2026-10-15T14:04:42.092693+09:00",
+ "last_run": "2026-10-15T14:06:32.585983+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
