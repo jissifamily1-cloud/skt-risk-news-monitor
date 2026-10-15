@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediawatch.kr/news/article.html?no=261231",
-  "https://www.newscj.com/news/articleView.html?idxno=3436903",
-  "https://www.tokenpost.kr/news/ai/416445",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704012",
   "https://www.aitimes.com/news/articleView.html?idxno=215814",
   "https://www.aitimes.com/news/articleView.html?idxno=215796",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703957",
@@ -2999,13 +2995,13 @@
   "https://www.widedaily.com/news/articleView.html?idxno=302005",
   "https://thetracker.co.kr/View.aspx?No=4265332",
   "https://www.techm.kr/news/articleView.html?idxno=156149",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480649"
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480649",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=360727",
+  "https://zdnet.co.kr/view/?no=20261015155635",
+  "https://www.thelec.kr/news/articleView.html?idxno=63783",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172255"
  ],
  "seen_titles": [
-  "오픈AI,‘상시근무AI’닷츠공개…시키지않아도업무찾아처리",
-  "\"아스트라성능,1/5가격\"…오픈AI,일주일만에후속작",
-  "2억달러AI펀드,댄아이브스비상장투자추진",
-  "오픈AI,'허깅페이스해킹'으로피소...\"AI에이전트행동책임은개발...",
   "NYT\"오픈AI,직원·외부연구원AI보안경고묵살\"",
   "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
   "샘알트먼\"오픈AI,모델안정성확보전엔상장안한다\"",
@@ -6001,7 +5997,11 @@
   "'AI전력대란'구원투수로뜬ESS…K배터리3사,북미서새판짠다",
   "[SEDEX2026르포]삼성은쌓고SK는늘린다…차세대메모리대전",
   "[국감26]과기정통부,모의해킹규제완화...'시범사업→제도화'수순",
-  "[2026국감]해킹막으려다범법자될라···정부,화이트해커활동합법..."
+  "[2026국감]해킹막으려다범법자될라···정부,화이트해커활동합법...",
+  "LGU+,20년봉사한척수장애인에온정…임직원기부금올해누적3억300...",
+  "[기고]오픈웨이트AI,무료보다먼저따져야할것",
+  "배달의민족라이더201명개인정보노출",
+  "양대악재,코스피'곤두박질'...에스원·코웨이는'활짝'"
  ],
  "recent_sigs": [
   [
@@ -6679,9 +6679,13 @@
   [
    "2026-10-15T16:18:18.521803+09:00",
    "활동 범법자 화이트해커 막으려다 정부 될라 합법"
+  ],
+  [
+   "2026-10-15T16:20:24.165671+09:00",
+   "코스피 활짝 에스원 곤두박질 코웨이는 악재 양대"
   ]
  ],
- "last_run": "2026-10-15T16:18:39.556762+09:00",
+ "last_run": "2026-10-15T16:20:45.577454+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
