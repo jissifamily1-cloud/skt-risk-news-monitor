@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/419501",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071959157600835",
-  "https://zdnet.co.kr/view/?no=20261007171138",
-  "https://wemakenews.co.kr/news/view.php?no=26473",
-  "https://zdnet.co.kr/view/?no=20261007154719",
-  "http://www.newsprime.co.kr/news/article.html?no=750165",
-  "http://www.newskr.kr/news/articleView.html?idxno=106956",
-  "https://www.ibabynews.com/news/articleView.html?idxno=155030",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705512",
   "https://www.ggilbo.com/news/articleView.html?idxno=1185562",
   "https://www.pressman.kr/news/articleView.html?idxno=103909",
@@ -2999,17 +2991,17 @@
   "https://www.seoulfn.com/news/articleView.html?idxno=640192",
   "https://www.newsis.com/view/NISX20261015_0003827934",
   "https://imnews.imbc.com/news/2026/econo/article/6858243_36932.html",
-  "https://news.tf.co.kr/read/national/2376882.htm"
+  "https://news.tf.co.kr/read/national/2376882.htm",
+  "https://www.news1.kr/sports/baseball/6321568",
+  "https://view.asiae.co.kr/article/2026101513454480689",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=123330",
+  "https://www.mk.co.kr/article/12176944",
+  "https://news.tf.co.kr/read/economy/2376833.htm",
+  "https://zdnet.co.kr/view/?no=20261015171519",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256607",
+  "https://www.mk.co.kr/article/12176941"
  ],
  "seen_titles": [
-  "퍼플렉시티,검색임베딩0.6B·9B모델공개",
-  "AI에전기차추천물었더니…아이오닉51위,상위5개현대차ㆍ기아",
-  "[포토]류제명차관·주한외국대사한자리에…AI페스타둘째날이모저...",
-  "AI가추천한자동차강자는…쏘렌토·아이오닉5·BMW",
-  "\"검색만으론부족\"…퍼플렉시티,'AI컴퓨터'로업무까지맡는다",
-  "수입차1위테슬라→AI순위7위…엇갈린'추천서열'",
-  "AI가꼽은자동차강자는…쏘렌토·아이오닉5·BMW·엔카·롯데렌터카",
-  "AI가꼽은자동차강자는…쏘렌토·아이오닉5·BMW·엔카닷컴·롯데렌터...",
   "메타·월마트·스트라이프,AI에이전트공통규약추진",
   "진천군청년센터,청년AI유료구독료'1인최대10만원'지원",
   "자동차살때도AI부터찾는다…쏘렌토·아이오닉5'추천'",
@@ -6001,7 +5993,15 @@
   "[유통브리핑]CJ온스타일,글로벌몰출시외",
   "홍지선국토장관,호남반도체부지점검…\"기업수요반영\"",
   "동시다발AI해킹에비상‥정부,화이트해커제도화추진",
-  "호남반도체산단후보지둘러본홍지선장관\"산단적기제공…교통망·..."
+  "호남반도체산단후보지둘러본홍지선장관\"산단적기제공…교통망·...",
+  "'KS직행'KT의고민은실전감각…이강철\"연습경기최대한뒤로\"",
+  "[2026국감]이상중KISA원장\"허위경력전혀없어…감사지적하나씩설...",
+  "코스피·코스닥7%넘게폭락...사이드카·서킷브레이커연이어발동",
+  "금감원도전산보안강화",
+  "[2026국감]이상중KISA원장\"AI보안위협선제대응…24시간전방위...",
+  "6G시대어떤서비스나올까...국민아이디어공모",
+  "['구멍숭숭'은행보안㊦]AI해킹,'탐지부터패치까지'자동화로대...",
+  "AI해킹부정결제피해땐'즉시환불'추진"
  ],
  "recent_sigs": [
   [
@@ -6731,9 +6731,17 @@
   [
    "2026-10-15T17:16:16.798645+09:00",
    "장관 둘러본 산단 반도체산단 호남 후보지 교통망 제공 적기 홍지선"
+  ],
+  [
+   "2026-10-15T17:18:17.205595+09:00",
+   "패치까지 탐지부터 자동화로"
+  ],
+  [
+   "2026-10-15T17:18:17.205595+09:00",
+   "부정결제 피해땐 환불 즉시"
   ]
  ],
- "last_run": "2026-10-15T17:16:34.292073+09:00",
+ "last_run": "2026-10-15T17:18:39.724707+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
