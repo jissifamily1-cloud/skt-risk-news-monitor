@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25469953",
-  "http://coinreaders.com/263300",
-  "https://www.peoplewatch.co.kr/article/view/ppw202610150008",
-  "https://www.apnews.kr/news/articleView.html?idxno=3052107",
-  "https://www.ppss.kr/news/articleView.html?idxno=315396",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000073646",
   "https://news.tf.co.kr/read/economy/2376634.htm",
   "https://www.ibabynews.com/news/articleView.html?idxno=155248",
   "https://www.eroun.net/news/articleView.html?idxno=92505",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/News/Read?newsId=02587926645613576&mediaCodeNo=257",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687298",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6858386_37012.html",
-  "https://www.mt.co.kr/world/2026/10/16/2026101607231042016"
+  "https://www.mt.co.kr/world/2026/10/16/2026101607231042016",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092171962",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151534525610780",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424341",
+  "https://www.banronbodo.com/news/articleView.html?idxno=33184",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137459",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495773"
  ],
  "seen_titles": [
-  "“정도껏하라”“소설쓰네”장동혁의샤우팅…‘ARS누락’에국힘발...",
-  "JP모건(JPM)CEO,AI에이전트폭주경고...시장충격대비",
-  "하락할수록더사는개미들..반도체株괴리에속탄다",
-  "토스증권\"AI반도체경쟁력,칩넘어공급망에서결정\"",
-  "'AI공포누가키웠나',엔비디아대항마CEO의작심비판",
-  "\"AI회의론에물가쇼크까지\"…코스피7.3%폭락·양시장사이드카발동",
   "삼성전자·SK하이닉스,호실적무색한동반폭락세…연저점수준",
   "[장애인뉴스]대교에듀캠프,부산경계선지능청년사회진입돕는다…...",
   "KT,한국산업안전보건공단과'산업현장안전문화확산'위해맞손",
@@ -6001,7 +5995,13 @@
   "美증시반등에도반도체7일째하락…코스피운명은[뉴스새벽배송]",
   "금리인상·중국메모리업체추격우려…“AI·반도체주시총4일간1조...",
   "[비즈&플러스]삼성·LG'AI홈'각축전‥SK는'차세대메모리'",
-  "코어위브신용위험'역대최고'…AI부채우려,신용시장번졌다"
+  "코어위브신용위험'역대최고'…AI부채우려,신용시장번졌다",
+  "퍼슬리,병원기록학습한AI로개인맞춤건강상담제공[서울AI허브202...",
+  "[부산ㆍ경남대학브리핑모음(10월16일)]동아대대학원재난관리학과...",
+  "[현장]블루포인트,데모데이'유토피아'개최···수질개선부터고등...",
+  "[주간기업동향]정의선현대차회장,모디총리만나인도에21조투자...",
+  "[ES진단]금융권해킹,문제는투자액보다방어역량…국가금융보안체...",
+  "철통보안이라더니뚫렸네...레저지갑해킹에1억2200만달러공중분..."
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,21 @@
   [
    "2026-10-16T07:58:15.696936+09:00",
    "LG 메모리 삼성 각축전 SK는 차세대"
+  ],
+  [
+   "2026-10-16T08:00:41.190717+09:00",
+   "인도에 모디 정의선 21조 회장 투자 총리 현대차 만나"
+  ],
+  [
+   "2026-10-16T08:00:41.190717+09:00",
+   "문제는 금융권 역량 방어 금융보안체 국가 투자액보다"
+  ],
+  [
+   "2026-10-16T08:00:41.190717+09:00",
+   "해킹에 달러 보안이라더니 뚫렸네 공중분 2200만 1억 철통 지갑 레저"
   ]
  ],
- "last_run": "2026-10-16T07:58:39.878741+09:00",
+ "last_run": "2026-10-16T08:01:06.772495+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
