@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=04011446645612920&mediaCodeNo=257",
-  "https://www.fnnews.com/news/202610141144071893",
-  "https://www.donga.com/news/Economy/article/all/20261014/134840210/2",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610141328399640102427",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439218",
-  "https://www.hankyung.com/article/2026101395491",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=615195",
-  "https://www.aitimes.com/news/articleView.html?idxno=216231",
   "https://zdnet.co.kr/view/?no=20261014144253",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90400",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449307",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261015_0003826665",
   "https://www.fetv.co.kr/news/articleView.html?idxno=311778",
   "http://www.newsian.co.kr/news/articleView.html?idxno=97112",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856541"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=856541",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16247604",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=200155",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=419906",
+  "https://www.yna.co.kr/view/AKR20261015045300008?input=1195m",
+  "https://www.news1.kr/finance/general-stock/6320743",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=209664",
+  "https://www.etoday.co.kr/news/view/2636046",
+  "https://www.mt.co.kr/world/2026/10/15/2026101508523452051"
  ],
  "seen_titles": [
-  "스트리밍넘어'덕질'까지…음원플랫폼팬덤대전",
-  "LX판토스'TDL랩'오픈···RX·AX혁신본격추진",
-  "파로스아이바이오‘라스모티닙’비임상성과…연구결과게재",
-  "댄아이브스\"삼성·SK하이닉스과도한조정…中메모리3년뒤처져\"[fn...",
-  "“안전하다던코인지갑에‘스파이칩’”…9000만달러털렸다",
-  "[더벨][i-point]아이티센피엔에스,보안패러다임전환위한MOU체결",
-  "'레버리지ETF'그렇게시끌벅적하더니…아무도국감장안선다",
-  "\"당장내년상반기라니\"…빨라진세종행에공무원들'뒤숭숭'",
   "LG유플러스,KAA어워즈2년연속마케터상…심플랩고객참여성과",
   "KT,최대800Gbps대역폭지원초고속·초저지연'AI전용회선'선봬",
   "에이닷전화서버튼하나로KISA에스팸신고",
@@ -6001,7 +5993,15 @@
   "KISA사이버침해대응시스템절반이교체대상…유지보수예산25%줄어",
   "SKT,AI-RAN자율이송기술로'NetworkX'수상…내년현장실증",
   "\"8시간걸릴일,10분안에\"…KT,현장맞춤형AI기술·에이전트대거...",
-  "[IT라운지]마인드로직'베이즈'·팀스파르타'AX경쟁력'·이스트'블루..."
+  "[IT라운지]마인드로직'베이즈'·팀스파르타'AX경쟁력'·이스트'블루...",
+  "CGV,KBO포스트시즌극장단독생중계…오늘(15일)LG-기아준플레이오...",
+  "\"챗GPT가아이들해친다\"…美8개주소송",
+  "삼성자산운용,'KODEX미국나스닥100'순자산10조원돌파",
+  "[특징주]삼성전자·SK하이닉스,장초반7∼8%하락세",
+  "美AI주투매…삼성전자6%·SK하이닉스8%급락[핫종목]",
+  "SKT,AI-RAN기반무인차량이송으로국제5G서비스상수상",
+  "티오리,금융권해킹'아르텍스'실체분석백서발간…대응체계무료...",
+  "애플'시총5조달러'돌파…엔비디아이어세계두번째"
  ],
  "recent_sigs": [
   [
@@ -6521,7 +6521,7 @@
    "베이즈 이스트 마인드로직 팀스파르타 경쟁력 블루 AX"
   ]
  ],
- "last_run": "2026-10-15T09:34:34.861446+09:00",
+ "last_run": "2026-10-15T09:36:36.062424+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
