@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dkilbo.com/news/articleView.html?idxno=557235",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008798176&plink=ORI&cooper=NAVER",
-  "https://www.yna.co.kr/view/AKR20261015001800091?input=1195m",
-  "https://www.voakorea.com/a/korea-now/8211215.html",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000022684&cp=nv",
   "https://www.kmib.co.kr/article/view.asp?arcid=9000022687&cp=nv",
   "https://www.donga.com/news/Economy/article/all/20261014/134842999/2",
   "https://www.hankyung.com/article/2026101421671",
@@ -2999,14 +2994,14 @@
   "http://www.newsprime.co.kr/news/article.html?no=751164",
   "https://www.mt.co.kr/industry/2026/10/15/2026101514104825515",
   "https://www.mt.co.kr/policy/2026/10/15/2026101517160576974",
-  "https://www.donga.com/news/Economy/article/all/20261015/134849147/2"
+  "https://www.donga.com/news/Economy/article/all/20261015/134849147/2",
+  "http://www.inews24.com/view/2015551",
+  "https://www.econovill.com/news/articleView.html?idxno=753762",
+  "http://weekly.chosun.com/news/articleView.html?idxno=56027",
+  "https://www.econovill.com/news/articleView.html?idxno=753756",
+  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256597"
  ],
  "seen_titles": [
-  "구글딥마인드의장\"AI안전확보못하면2년내위험확대\"",
-  "허사비스\"AI보안사고,조기경고…안전조치미흡시2년내대형사고...",
-  "허사비스\"안전조치미흡하면2년내대형AI보안사고\"",
-  "[한국은지금]중수청장청문서여당내갈등노출…새비서실장에임광...",
-  "[내일을열며]기술이삶을위협한다면",
   "은행부터코인거래소까지…금융사16곳개인정보10만건유출",
   "애플워치차고집가까워지면,AI가난방켜준다",
   "[천자칼럼]일상위협하는'AI웜'",
@@ -6001,13 +5996,14 @@
   "[현장]입맛에'훅',매콤한'펀치'…노브랜드버거의승부수",
   "메모리가격4분기에더오른다…거침없는K메모리호실적",
   "홍지선국토부장관\"광주군공항산단적기제공\"입장밝혀",
-  "韓금융권해킹,블룸버그‘AI보안경고’사례로…“공격문턱낮췄..."
+  "韓금융권해킹,블룸버그‘AI보안경고’사례로…“공격문턱낮췄...",
+  "[2026국감]LGU+,침해조사중서버OS재설치⋯KISA\"원본미확보로조...",
+  "TSMC,3Q순이익69%급증…웨이저자회장\"남의식탁에음식남기지않...",
+  "0%10%AI로인한종말의확률가능성[IT로그인]",
+  "[SEDEX·KES2026]CXMT4F²·TSMC…韓반도체,미래기술로기세꺾는다",
+  "윤승식타이거리서치센터장\"금융사·코인거래소경쟁시작됐다\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-15T11:34:14.694323+09:00",
-   "산안공 통신현장 강화 ~KT 맞손 안전관리"
-  ],
   [
    "2026-10-15T11:36:13.427807+09:00",
    "웨스팅하우스에 지분투자 확장 SMR 단위 넘어 대형원전으로"
@@ -6761,7 +6757,7 @@
    "주역은 AI해킹 잡은 금보원 화이트해커"
   ]
  ],
- "last_run": "2026-10-15T17:32:32.498398+09:00",
+ "last_run": "2026-10-15T17:34:35.626505+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
