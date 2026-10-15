@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kado.net/news/articleView.html?idxno=2077949",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071412",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071408",
-  "https://www.yna.co.kr/view/AKR20261013168600001?input=1195m",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071401",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316530&inflow=N",
-  "https://www.news1.kr/politics/assembly/6318670",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872420",
   "https://www.news1.kr/it-science/security-hacking/6318614",
   "https://news.tf.co.kr/read/economy/2375833.htm",
   "https://www.newsis.com/view/NISX20261013_0003824390",
@@ -2999,17 +2991,17 @@
   "https://www.artinsight.co.kr/news/view.php?no=82856",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261015010004854",
   "https://www.gokorea.kr/news/articleView.html?idxno=881546",
-  "https://www.ziksir.com/news/articleView.html?idxno=149489"
+  "https://www.ziksir.com/news/articleView.html?idxno=149489",
+  "http://www.gndomin.com/news/articleView.html?idxno=492925",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150090&t=NN",
+  "http://www.gndomin.com/news/articleView.html?idxno=492847",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61462",
+  "https://www.hankyung.com/article/202610154297i",
+  "https://www.sedaily.com/article/20102175",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480737",
+  "https://www.joongang.co.kr/article/25470078"
  ],
  "seen_titles": [
-  "수도권중앙행정기관44곳1만명세종간다",
-  "[2026국감-개보위]KT,'38개서버해킹'축소·은폐의혹뭇매",
-  "[2026국감-개보위]\"개인정보유출,직원실수\"…구글'꼬리자르기'지...",
-  "\"당장영업정지때려야\"…여야,'정보유출'기업한목소리질타",
-  "[2026국감-개보위]'동네북'티빙,3번째국감행…여야'보상안강화'...",
-  "개인정보유출급증에AI해킹까지…송경희\"보호체계바꿔나갈것\"",
-  "[국감초점]개인정보유출비판…野,수사기관국무회의불참요구(종합...",
-  "[이슈국감]개보위황당'안전'결론…로봇청소기핵심검증빠졌다",
   "해킹초동대응급한데기관마다중복신고…원스톱체계협의",
   "[2026국감]AI해킹·개인정보유출에데이터활용까지…개보위과제부...",
   "금융권유출사고신고어디에?'우왕좌왕'…원스톱신고체계구축목소...",
@@ -6001,7 +5993,15 @@
   "[Opinion]예술의경계에서,AI를마주하다[미술/전시]",
   "[이영환의AI에이전틱이코노미㉗]아무도틀리지않았는데돈이사라...",
   "KT,산업안전보건공단과안전문화확산맞손",
-  "KT,'2026AID-XDay'개최…사업·기술전반의AI전환성과집결"
+  "KT,'2026AID-XDay'개최…사업·기술전반의AI전환성과집결",
+  "최형두의원\"정부GPU26만장확보는'허수'\"",
+  "넥사다이내믹스,311억원AI서버공급계약체결",
+  "연암공대AI산업혁신산업체전문가특강개최",
+  "[ICT종합]네이버페이및스카이월드와이드소식외",
+  "오늘의프리미엄9콘텐츠다이제스트(10월15일)",
+  "美휴머노이드대어‘어질리티로보틱스’온다…로봇주볕들까",
+  "피지컬AI예산3조원시대···SKAI계열2개사,국가협력체계참여",
+  "[팩플]1인당40억원주는오픈AI영국지사,AI일자리임금격차키운다"
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,21 @@
   [
    "2026-10-15T17:54:17.526108+09:00",
    "AI스마트톨링까지 참가 자율주행 세계총회 ITS 롯데이노베이트 셔틀"
+  ],
+  [
+   "2026-10-15T17:58:16.910025+09:00",
+   "다이제스트 15일 10월 콘텐츠 프리미엄9 오늘의"
+  ],
+  [
+   "2026-10-15T17:58:16.910025+09:00",
+   "체결 공급계약 서버 311억원 넥사다이내믹스"
+  ],
+  [
+   "2026-10-15T17:58:16.910025+09:00",
+   "40억원 키운다 영국지사 일자리 주는 격차 1인당 임금"
   ]
  ],
- "last_run": "2026-10-15T17:56:38.249464+09:00",
+ "last_run": "2026-10-15T17:58:40.827604+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
