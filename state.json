@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/market-exr/6321054",
-  "https://www.ngetnews.com/news/articleView.html?idxno=554511",
-  "https://www.newspim.com/news/view/20261015000380",
-  "https://m.sports.naver.com/basketball/article/065/0000302939",
-  "https://www.edaily.co.kr/News/Read?newsId=03696566645613248&mediaCodeNo=257",
-  "https://www.etoday.co.kr/news/view/2636039",
-  "https://www.kyeonggi.com/article/20261015580164",
   "https://www.yna.co.kr/view/AKR20261014126200030?input=1195m",
   "https://www.aitimes.com/news/articleView.html?idxno=216244",
   "https://www.sedaily.com/article/20101927",
@@ -2999,16 +2992,16 @@
   "https://www.edaily.co.kr/News/Read?newsId=02617446645613576&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=02620726645613576&mediaCodeNo=257",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072446",
-  "https://www.fnnews.com/news/202610160740023711"
+  "https://www.fnnews.com/news/202610160740023711",
+  "https://view.asiae.co.kr/article/2026101417210177524",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714211",
+  "https://www.hankyung.com/article/202610165354i",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160018&t=NN",
+  "https://biz.heraldcorp.com/article/10904442",
+  "https://www.econovill.com/news/articleView.html?idxno=753799",
+  "https://hbnpress.com/news/view/1065567527302686"
  ],
  "seen_titles": [
-  "코스피7%대폭락해5500선…외인,8거래일연속'팔자'[장중시황]",
-  "노소영맞상고포기…최태원,재산분할2440억원끝까지다툰다",
-  "순직소방관이름달고2500명달린다…17일세종서'119메모리얼데이'",
-  "‘쑥쑥자라는가스공사미래’김민규-양우혁,나란히2번째두자리득...",
-  "“'참치듬뿍'이라더니얼마나?”…편의점김밥속뜯어보니",
-  "편의점김밥한줄에나트륨하루치최대70%…컵라면곁들일땐주의",
-  "편의점김밥12종비교해보니…속재료·영양분제각각",
   "소비자원\"편의점김밥나트륨함량,하루기준치최대70%\"",
   "오픈AI,추론감시어려운'루프트랜스포머'적용모델안전확보에전...",
   "‘검은목요일’고수는삼성전자·전기던지고삼전우·배터리‘줍줍...",
@@ -6001,7 +5994,14 @@
   "애플CEO\"메모리위기속모든선택지고려\"…中제품도사용시사?",
   "코스피7일간21%폭락…“5100선이저점,기술적반등기대”",
   "[뉴욕증시]AI신용위험에도국채금리하락·순환매…다우1.08%↑",
-  "스웨덴TV,신작방영되기전AI로프로그램전체삭제피해"
+  "스웨덴TV,신작방영되기전AI로프로그램전체삭제피해",
+  "로봇과인간은'우리'가될수있을까…한중일예술가들이던진질문",
+  "NH농협카드,AI비서가쇼핑·결제까지···'에이전틱페이먼트'실증",
+  "AI에이전트시대에도삼성메모리…AMD와협업보려인파몰렸다",
+  "4일간1340조원'증발'...AI·반도체쇼크에\"韓기업더위험\"",
+  "“4일만에1조달러증발”…AI·반도체주美금리·中추격우려에투매",
+  "빗썸\"내정보아는연락도사기일수있다\"2차피해예방캠페인",
+  "금융권AI해킹충격...시중은행올해정보보호예산국민·하나·농협..."
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,13 @@
   [
    "2026-10-16T08:10:26.081598+09:00",
    "신작 방영되기전 프로그램 전체 삭제 피해 AI로 TV 스웨덴"
+  ],
+  [
+   "2026-10-16T08:12:15.427548+09:00",
+   "올해 농협 시중은행 금융권 하나 정보보호예산 국민 충격"
   ]
  ],
- "last_run": "2026-10-16T08:10:50.713345+09:00",
+ "last_run": "2026-10-16T08:12:40.346896+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
