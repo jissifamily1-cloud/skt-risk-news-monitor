@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20100463",
-  "http://www.inews24.com/view/2013867",
-  "https://www.newsis.com/view/NISX20261012_0003821573",
-  "https://www.g-enews.com/view.php?ud=2026101505561268082bd56fbc3c_1",
   "https://www.aitimes.com/news/articleView.html?idxno=216160",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706357",
   "https://www.aitimes.com/news/articleView.html?idxno=216132",
@@ -2999,13 +2995,13 @@
   "https://www.ngetnews.com/news/articleView.html?idxno=554606",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215131",
   "https://www.joongang.co.kr/article/25470100",
-  "https://www.tokenpost.kr/news/breaking/422854"
+  "https://www.tokenpost.kr/news/breaking/422854",
+  "https://www.segye.com/newsView/20261015519707?OutUrl=naver",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48220",
+  "https://www.etnews.com/20261015000452",
+  "https://www.ytn.co.kr/_ln/0104_202610151901277851"
  ],
  "seen_titles": [
-  "이통사전화앱서도스팸신고가능…KISA-SKT협력",
-  "[2026국감]통신사부가서비스'해지7단계'?⋯방미통위\"심기일전해살...",
-  "통화녹음만누르면스팸신고끝…KISA,에이닷에신고버튼탑재",
-  "EU,중국의존도낮추려베트남핵심광물공급망확보추진",
   "\"클로드가의식을가졌다고?\"…앤트로픽'AI신비주의'에맹비난",
   "실리콘밸리거물들은악역?…할리우드,빅테크'정조준'",
   "할리우드,AI불안속저커버그·머스크·알트먼영화잇따라선보여",
@@ -6001,7 +5997,11 @@
   "예가람저축은행해킹사고…외부솔루션로그유출가능성·공동보험적...",
   "제논,AI에이전트통합포털'제나'출시",
   "대만은올랐는데코스피는하반기34%하락…韓만유독‘AI빚잔치’에...",
-  "FTC,오픈AI·앤스로픽에소비자안전자료소환장"
+  "FTC,오픈AI·앤스로픽에소비자안전자료소환장",
+  "양향자“전면재선거”정희용“해당행위”…국힘지도부공개충돌",
+  "\"AI반도체공급부족지속…고점아직멀었다\"",
+  "[2026국감]KISA사이버보안대응체계부실지적…여야한목소리",
+  "일본버거킹해킹피해...회원정보1,118만건유출"
  ],
  "recent_sigs": [
   [
@@ -6767,9 +6767,13 @@
   [
    "2026-10-15T19:02:18.134414+09:00",
    "소환장 앤스로픽에 소비자 자료 안전 FTC"
+  ],
+  [
+   "2026-10-15T19:04:17.899340+09:00",
+   "일본 118만 버거킹 정보 회원 피해 유출"
   ]
  ],
- "last_run": "2026-10-15T19:02:43.027469+09:00",
+ "last_run": "2026-10-15T19:04:36.663532+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
