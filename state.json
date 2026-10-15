@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=149342",
-  "https://www.dailian.co.kr/news/view/1701448/?sc=Naver",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707090",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3721274",
-  "https://byline.network/?p=9004111222623207",
-  "https://www.fntimes.com/html/view.php?ud=2026101413441378497492587736_18",
-  "https://www.tokenpost.kr/news/ai/421992",
-  "https://www.chosun.com/economy/2026/10/13/JRDLL4XJA5C3THECX6XG7ITBRY/",
-  "https://www.sidae.com/article/2026101413422729398",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5224745",
-  "https://www.nocutnews.co.kr/news/6591363",
   "https://www.100ssd.co.kr/news/articleView.html?idxno=213490",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=322257",
   "https://www.xportsnews.com/article/2207337",
@@ -2999,20 +2988,20 @@
   "https://platum.kr/archives/296267",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495449",
   "https://www.cstimes.com/news/articleView.html?idxno=724028",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000073521"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000073521",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65767",
+  "https://dealsite.co.kr/articles/170716",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90431",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65809",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215104",
+  "https://zdnet.co.kr/view/?no=20261015091424",
+  "http://www.inews24.com/view/2015203",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=60978",
+  "https://www.dailian.co.kr/news/view/1701718/?sc=Naver",
+  "https://dealsite.co.kr/articles/170712",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590067.html"
  ],
  "seen_titles": [
-  "금융위등44곳,세종간다…수도권집중완화는'과제'(종합2보)",
-  "엔비디아,중국AI반도체시장점유율34%…화웨이와격차6%P로축소",
-  "KT희망나눔재단,대전서'사랑,해빨간밥차'급식봉사…취약계층어르...",
-  "엔비디아칩살펴보는시민들",
-  "카카오,'모두의AI'연내출시…MAU500만목표",
-  "추경호대구광역시장,미래혁신기술박람회개최...588개기업·14개국전...",
-  "엑스보우,AI로크롬취약점3개로공격체인구현…구글서25만달러보...",
-  "‘취임6주년’정의선,‘글로벌빅3’넘어미래사업수익화시험대",
-  "GLM-5.3,모의시험서유해요청응답률64~100%",
-  "중후장대기업이왜영화제에?...이노션,한화손잡고영화신사업시...",
-  "가전제품침투해스스로복제하는AI?섬뜩한전망",
   "44개정부부처2031년까지세종으로…내년금융위·방미통위이전",
   "LGU+,한국광고주협회'마케터상'수상…국내통신사유일",
   "LG유플러스,심플랩에고객아이디어1만4000건기반성과…'마케터상'...",
@@ -6001,7 +5990,18 @@
   "양자컴퓨팅기업오큐티,140억원프리A투자유치",
   "코스피,장초반5700선까지후퇴...SK하이닉스시총1000조원하회",
   "\"운전자없는차움직여\"…SKT,'네트워크X어워드'수상",
-  "\"유럽도AI경쟁뛰어들어야\"…젠슨황,유럽에20억달러추가투자"
+  "\"유럽도AI경쟁뛰어들어야\"…젠슨황,유럽에20억달러추가투자",
+  "\"내근처렌터카,특정업체아닌'조합전체브랜드'로키운다\"",
+  "넥사다이내믹스,311억규모AI서버공급계약…턴어라운드'신호탄'",
+  "삼성전자,'실리콘밸리미래통신서밋2026'개최…6G청사진제시",
+  "美중간선거,AI규제놓고'쩐의전쟁'…안전론진영4800만달러투입",
+  "파이오링크,오픈소스취약점28건발굴···2건은CVE할당",
+  "Arm,에이전틱AI환경최적화CPU벤치마크방법론공개",
+  "[특징주]美CPI쇼크⋯삼성전자5%·SK하이닉스6%'급락'",
+  "[디지털포스트모닝픽]이정도야?…LCK시청률분당70만명돌파",
+  "\"로봇에도디지털신분증\"…라온시큐어,피지컬AI보안주도",
+  "라온시큐어,‘피지컬AI안전망’구축...정부연구개발주관사선정",
+  "엔비디아,유럽인공지능에2조7천억원투자…\"경쟁시작해야\""
  ],
  "recent_sigs": [
   [
@@ -6461,7 +6461,7 @@
    "디지털 ~SKT 기여 행복 격차 장애청소년 해소 챌린지 개최"
   ]
  ],
- "last_run": "2026-10-15T09:16:31.573343+09:00",
+ "last_run": "2026-10-15T09:18:36.959182+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
