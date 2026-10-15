@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3721410",
-  "https://www.etnews.com/20261014000345",
-  "https://biz.chosun.com/international/international_economy/2026/10/14/6S764GDUAFEPHP35LFW2YYHXLM/",
-  "https://www.imaeil.com/page/view/2026101321343228719",
-  "https://www.jasm.co.kr/news/view/321497/?sc=Naver",
-  "https://www.tvreport.co.kr/entertainment/article/1082996/",
-  "https://www.joongang.co.kr/article/25469662",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727813",
   "http://www.metroseoul.co.kr/article/20261014500403",
   "https://www.gukjenews.com/news/articleView.html?idxno=3721423",
   "http://www.weeklytoday.com/news/articleView.html?idxno=798043",
@@ -2999,17 +2991,17 @@
   "https://www.ziksir.com/news/articleView.html?idxno=149460",
   "https://www.ngetnews.com/news/articleView.html?idxno=554547",
   "https://www.sedaily.com/article/20101841",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54404"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54404",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=121759",
+  "https://www.fashionbiz.co.kr/article/230303",
+  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193264",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278842",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445750",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000073559",
+  "https://www.sisaweek.com/news/articleView.html?idxno=238363",
+  "https://www.businessplus.kr/news/articleView.html?idxno=118204"
  ],
  "seen_titles": [
-  "대구광역시,'스마트반사경·고보조명'...\"어린이교통사고예방나선...",
-  "[보안,대한민국의기회]〈4〉세계는연합대응-혼자지킬수없어",
-  "이란,원유길목이어데이터길목노린다…걸프해저케이블·데이터센...",
-  "LG이노텍,'꿈의기판'심장으로구미낙점…2028년양산정조준",
-  "'로보월드'내달4~7일킨텍스개막…17개국390곳기업참여",
-  "15기정숙,결혼5개월만사기이어→계정'탈탈'털렸다…\"받을돈못...",
-  "[속보]당국“금융사침해사고발생총16곳…약10만건유출”",
-  "[현장]삼성·SK는체험,소부장은상담…SEDEX서엇갈린부스풍경",
   "카카오,'모두의AI'연내출시…34개기업협력·이용자500만명목표",
   "금산군,독거노인·취약가구118가구에수도요금지원…케이-워터·복지...",
   "[위클리오늘]추미애\"경기도기업의성공을위해밖에서함께껍질두...",
@@ -6001,7 +5993,15 @@
   "美8개주정부,오픈AI제소…\"챗GPT,청소년에위험행동조장\"",
   "K저축은행,대출신청페이지해킹으로고객250명정보유출",
   "與,성장률반등에민생경제드라이브…지역투자확대·불법사금융척...",
-  "\"사우디행편도표끊었다\"회의실녹음장치심은오픈AI직원의정체"
+  "\"사우디행편도표끊었다\"회의실녹음장치심은오픈AI직원의정체",
+  "현대엔지니어링,'힐스테이트성남메트로블'10월분양예정",
+  "가방올리면5분만에매입가…트렌비,노원에'AI매입센터'오픈",
+  "G마켓,셀러1000명과동반성장논의…AI기반쇼핑혁신추진",
+  "MicrosoftUnveilsMaia300,ChallengingNvidia'sAIChipDominance",
+  "OK저축은행,대출신청고객250명개인정보유출확인",
+  "배민라이더200여명개인정보무인증노출…배달대행협력사사이트'...",
+  "예가람저축은행,해킹사고후폭풍에'뒤숭숭'",
+  "LG유플러스,'천원의사랑'기부금으로척수장애인가정후원"
  ],
  "recent_sigs": [
   [
@@ -6593,7 +6593,7 @@
    "녹음장치 심은 정체 편도표 끊었다 사우디행 회의실 직원의"
   ]
  ],
- "last_run": "2026-10-15T10:08:39.922059+09:00",
+ "last_run": "2026-10-15T10:10:43.437913+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
