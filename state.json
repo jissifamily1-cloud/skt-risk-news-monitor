@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145691",
-  "https://www.hankyung.com/article/202610153352i",
-  "http://www.metroseoul.co.kr/article/20261014500595",
-  "https://www.news1.kr/world/international-economy/6321049",
   "https://www.newscj.com/news/articleView.html?idxno=3440481",
   "https://www.nocutnews.co.kr/news/6591939",
   "https://www.aitimes.com/news/articleView.html?idxno=216277",
@@ -2999,13 +2995,13 @@
   "https://www.aitimes.com/news/articleView.html?idxno=216244",
   "http://www.issuenbiz.com/news/articleView.html?idxno=80676",
   "https://www.yna.co.kr/view/AKR20261016020900008?input=1195m",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729364"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729364",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=278876",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=616060",
+  "http://www.kjdaily.com/article.php?aid=1792105962689338276",
+  "https://www.newspim.com/news/view/20261016000063"
  ],
  "seen_titles": [
-  "'AI,생각보다돈이안된다'...코스피5500수직낙하,키옥시아등아시...",
-  "“AI투자할돈,계속빌릴수있나”…증시덮친‘15%의경고’[빈난...",
-  "계명대이종원교수,과기정통부‘나의연구도전기’최우수상수상",
-  "월가AI투자에'부채경고등'…코어위브회사채수익률15%돌파",
   "남부발전,생성형AI로만든명함관리앱깃허브공개",
   "전남광주특별시,반도체산단단계적착공추진…2030년첫양산목표",
   "오픈AI도청혐의엔지니어,사우디행편도티켓확보...\"도주우려있었...",
@@ -6001,7 +5997,11 @@
   "오픈AI,추론감시어려운'루프트랜스포머'적용모델안전확보에전...",
   "뉴욕증시,국채금리하락에3대지수상승",
   "[마켓뷰]휘청했던코스피,변동성이어지나반등시도하나",
-  "[프리마켓포커스]급락하루만에반전…반도체투톱뛰자시총2.65%↑"
+  "[프리마켓포커스]급락하루만에반전…반도체투톱뛰자시총2.65%↑",
+  "NvidiaPledgesAdditional$2BillionforEuropeanAIEcosystem",
+  "[美FTCAI조사]\"해킹에허위제보까지\"…美FTC,오픈AI·앤트로픽경영...",
+  "뉴욕증시3대지수상승마감…다우1.08%↑",
+  "[모닝리포트]\"코스피폭락뒤반등시도전망…美반도체주낙폭축소..."
  ],
  "recent_sigs": [
   [
@@ -6357,7 +6357,7 @@
    "뛰자 급락 만에 반전 하루 반도체 시총 투톱"
   ]
  ],
- "last_run": "2026-10-16T08:16:35.559165+09:00",
+ "last_run": "2026-10-16T08:18:34.645174+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
