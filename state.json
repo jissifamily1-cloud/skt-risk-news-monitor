@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307697",
-  "http://www.osen.co.kr/article/G1112893180",
-  "https://www.donga.com/news/Economy/article/all/20261015/134845967/1",
-  "https://www.mediapen.com/news/view/1130128",
   "https://www.ajunews.com/view/20261015112303916",
   "https://biz.heraldcorp.com/article/10903634",
   "https://www.joongangenews.com/news/articleView.html?idxno=555119",
@@ -2999,13 +2995,13 @@
   "https://biz.sbs.co.kr/article_hub/20000340311?division=NAVER",
   "https://www.seoulfn.com/news/articleView.html?idxno=640206",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5225258",
-  "https://www.etoday.co.kr/news/view/2636444"
+  "https://www.etoday.co.kr/news/view/2636444",
+  "https://news.bizwatch.co.kr/article/industry/2026/10/15/0029",
+  "https://www.newsway.co.kr/news/view?ud=2026101515080970946",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=616116",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439522"
  ],
  "seen_titles": [
-  "노소영,재산분할배수진···대법원2440억감액승부",
-  "'호프',개봉3개월만에안방극장서본다[공식]",
-  "페르소나AI,서버연결없이기기에서처리하는산업현장용AI공개",
-  "\"전면재선거\"vs\"시스템무력화\"...국힘'용인갑재선거'두고공개충...",
   "국힘최고위공개충돌…\"경선전수조사\"·\"당체계무력화시도\"",
   "상장앞둔앤트로픽,3Q매출45%‘깜짝성장’",
   "현대모비스,中상하이서첫모빌리티데이개최...오픈이노베이션전략...",
@@ -6001,7 +5997,11 @@
   "신한,정보보호예산'꼴찌'…우리는최대감소율",
   "[뉴욕증시]국채·주식'반등',\"반도체대신나이키\"···코어위브,황...",
   "코스피'검은목요일'…밤사이뉴욕증시반도체종목약세",
-  "뉴욕시감사원장“앤스로픽,AI위험해소전까지IPO중단해야”[마켓..."
+  "뉴욕시감사원장“앤스로픽,AI위험해소전까지IPO중단해야”[마켓...",
+  "K배터리3사,실적방어전…보상금·ESS가갈랐다",
+  "SKT·KT·카카오'모두의AI'베타돌입…전화·검색·카톡으로승부수",
+  "[속보]뉴욕증시기술주희비엇갈려…마이크론상승,엔비디아·인텔·...",
+  "[뉴욕채권]장기물랠리속불플랫…반도체發위험회피에묻힌PPI쇼크"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-10-16T07:10:30.253159+09:00",
    "해소 전까지 중단해야 감사원장 위험 마켓 IPO 뉴욕시"
+  ],
+  [
+   "2026-10-16T07:12:16.022439+09:00",
+   "카톡으로 검색 카카오 ~KT 승부수 모두의 돌입 ~SKT 베타 전화"
+  ],
+  [
+   "2026-10-16T07:12:16.022439+09:00",
+   "반도체 플랫 장기물 PPI 위험회피에 묻힌 쇼크 랠리"
   ]
  ],
- "last_run": "2026-10-16T07:10:48.244962+09:00",
+ "last_run": "2026-10-16T07:12:39.991069+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
