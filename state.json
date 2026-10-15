@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yakup.com/news/index.html?cat=12&nid=333750",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=615269",
-  "http://www.yonhapnewstv.co.kr/news/AKR202610141058472N5",
-  "https://www.ytn.co.kr/_ln/0104_202610140959406985",
-  "https://www.joongang.co.kr/article/25469568",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008796491&plink=ORI&cooper=NAVER",
-  "https://www.mk.co.kr/article/12175135",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172192",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000073120",
   "https://www.newspim.com/news/view/20261014000086",
   "https://www.joongangenews.com/news/articleView.html?idxno=554702",
@@ -2999,17 +2991,17 @@
   "https://www.hani.co.kr/arti/politics/politics_general/1282618.html",
   "https://www.gpkorea.com/news/articleView.html?idxno=147624",
   "https://www.namdonews.com/news/articleView.html?idxno=926298",
-  "https://www.fnnews.com/news/202610151827259077"
+  "https://www.fnnews.com/news/202610151827259077",
+  "https://www.sportschosun.com/baseball/2026-10-15/202610150100100590006478",
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1069199",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215125",
+  "https://www.khan.co.kr/article/202610151829001",
+  "http://www.yonhapnewstv.co.kr/news/MYH202610151830520Jd",
+  "https://biz.chosun.com/it-science/ict/2026/10/15/JEAU2BD4JBCKXDADEPUGAC5YTE/",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136163",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000073857"
  ],
  "seen_titles": [
-  "獨심라이즈,아시아서성장촉진핵심기지오픈",
-  "[기업家]오픈AI④ㅣGPT-6대중화·수학난제해결로AI혁신가속",
-  "AI에딱걸린도청범인…'임원회의실녹음'오픈AI직원덜미",
-  "오픈AI직원,임원회의실에도청장치...FBI에체포",
-  "사우디국적오픈AI엔지니어,임원회의실도청혐의로체포",
-  "임원회의실TV뒤'수상한휴지뭉치'…설치한직원결국",
-  "임원들이용하는회의실TV에왜이런게…범인은오픈AI엔지니어였다",
-  "스스로복제'AI웜'수개월내등장?...스마트기기노리나",
   "임원회의실에몰래녹음기꽂은오픈AI직원…FBI에체포",
   "[미국특징주]바이오업계도AI규제론...모더나창업자\"에이전트안전...",
   "오픈AI직원,임원회의실에몰래녹음장치설치혐의…FBI체포·기소'...",
@@ -6001,7 +5993,15 @@
   "조직위원장투표전화누락사태…장동혁·양향자충돌",
   "정의선회장취임6년,글로벌車3위·영업익2위…\"다음승부처는피지...",
   "광주군공항에장관·기업회장·국회의원줄줄이…호남팹'가속'",
-  "레버리지사태에연쇄해킹까지…금융당국감독체계도마위"
+  "레버리지사태에연쇄해킹까지…금융당국감독체계도마위",
+  "\"올해점수를매긴다면95점,성숙함부족했다\"지난아픔훌훌털고,다...",
+  "울산야음동흐린수돗물원인은수압변동?…긴급공사마치고정밀진단",
+  "베슬AI,글로벌네오클라우드도약시동···2030년GPU20만장확보...",
+  "[사설중]중국약진,AI수익성논란에다시‘5000피’,반도체축포에...",
+  "로그인없이도훤히…배달라이더200여명개인정보노출",
+  "KISA경영평가15년만에D등급…이상중원장“작년사건사고때문”",
+  "SKT,'AI-RAN무인차량이송'으로네트워크엑스어워드수상",
+  "홍지선장관\"호남권반도체산단전례없는속도로제공할것\""
  ],
  "recent_sigs": [
   [
@@ -6765,7 +6765,7 @@
    "감독체계 금융당국 해킹까지 사태에 도마 레버리지 연쇄"
   ]
  ],
- "last_run": "2026-10-15T18:30:58.933438+09:00",
+ "last_run": "2026-10-15T18:32:36.948079+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
