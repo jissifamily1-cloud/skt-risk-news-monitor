@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703837",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703790",
-  "https://news.jtbc.co.kr/article/NB12320616?influxDiv=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703743",
-  "https://zdnet.co.kr/view/?no=20260930072733",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703722",
   "https://www.aitimes.com/news/articleView.html?idxno=215779",
   "https://zdnet.co.kr/view/?no=20260930064128",
   "https://www.aitimes.com/news/articleView.html?idxno=215778",
@@ -2999,15 +2993,15 @@
   "https://www.hankookilbo.com/news/article/A2026101509490000583?did=NA",
   "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91341",
   "http://www.newstomato.com/ReadNews.aspx?no=1316844&inflow=N",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=367384"
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=367384",
+  "https://www.etoday.co.kr/news/view/2636316",
+  "https://www.kukinews.com/article/view/kuk202610150155",
+  "https://www.yna.co.kr/view/AKR20261015142400017?input=1195m",
+  "http://www.srtimes.kr/news/articleView.html?idxno=214886",
+  "https://www.todayeconomic.com/news/article.html?no=32459",
+  "https://zdnet.co.kr/view/?no=20261015162115"
  ],
  "seen_titles": [
-  "교황레오14세,AI규제반대하는엔비디아젠슨황직격…\"AI위험외면...",
-  "오픈AI,IPO미루더니40조원조달?…몸값1900조원눈앞",
-  "내가시키기전에움직인다…오픈AI'닷츠'공개[소셜픽]",
-  "샘알트먼,오픈AI장악력키울3단계구상공개…'모델·구축·유통'제...",
-  "'배6척'띄운샘알트먼…오픈AI가데브데이서꺼낸6가지카드는",
-  "오픈AI,챗GPT에협업공간·문서·슬라이드기능추가",
   "오픈AI,24시간자율에이전트'닷츠'공개…소비자용아닌B2B승부수",
   "게임하고로봇움직이고…오픈AI가보여준'행동하는AI'",
   "\"아스트라급지능을5분의1가격에\"…오픈AI,'GPT-6.1솔'공개",
@@ -6001,7 +5995,13 @@
   "AI반도체주문몰린TSMC,역대최대매출…순이익도69%급증",
   "[나이스뷰]증시초토화잔불이된AI투자수익성논란",
   "AI로낮아진보안장벽…콘솔게임도사정권",
-  "SKT,'행복AI챌린지'개최...장애청소년디지털격차해소기여"
+  "SKT,'행복AI챌린지'개최...장애청소년디지털격차해소기여",
+  "TSMC,AI훈풍에3분기순익68.7%급증…역대최대",
+  "웹주소만바꿨는데라이더정보줄줄…배달대행사보안‘구멍’",
+  "[AI프리즘]동시다발AI해킹에비상…정부,화이트해커제도화추진",
+  "삼성·SK,반도체대전서HBM4E맞대결…기술경쟁가열",
+  "KT,판교서'AID-XDay'…임직원이직접만든AI에이전트전사확산",
+  "FBI,북한연계해킹·IT조직40여곳급습해체"
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,21 @@
   [
    "2026-10-15T16:22:15.804447+09:00",
    "챌린지 디지털 행복 해소 격차 개최 ~SKT 기여 장애청소년"
+  ],
+  [
+   "2026-10-15T16:24:15.656620+09:00",
+   "판교서 AID Day 에이전트 ~KT 임직원이 만든 직접 전사 확산"
+  ],
+  [
+   "2026-10-15T16:24:15.656620+09:00",
+   "맞대결 경쟁 HBM4E SK 가열 삼성 반도체대전서 기술"
+  ],
+  [
+   "2026-10-15T16:24:15.656620+09:00",
+   "FBI 연계 급습 북한 해체 40여곳 IT"
   ]
  ],
- "last_run": "2026-10-15T16:22:37.336135+09:00",
+ "last_run": "2026-10-15T16:24:43.036335+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
