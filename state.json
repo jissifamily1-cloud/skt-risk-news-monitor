@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3721324",
-  "https://zdnet.co.kr/view/?no=20261014134514",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=55276",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202325",
-  "https://www.edaily.co.kr/News/Read?newsId=02394406645612592&mediaCodeNo=257",
-  "https://www.koit.co.kr/news/articleView.html?idxno=209500",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4026025",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337710",
-  "https://www.khan.co.kr/article/202610132147005",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202332",
   "https://www.gukjenews.com/news/articleView.html?idxno=3721246",
   "https://www.sedaily.com/article/20101510",
   "https://www.newsis.com/view/NISX20261014_0003825419",
@@ -2999,19 +2989,19 @@
   "http://www.press9.kr/news/articleView.html?idxno=84289",
   "https://www.etnews.com/20261015000075",
   "https://www.livebiz.today/news/articleView.html?idxno=205603",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=745773"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=745773",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3722116",
+  "https://www.inthenews.co.kr/news/article.html?no=93083",
+  "https://www.viva100.com/article/20261015500283",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1727797",
+  "https://www.wikitree.co.kr/articles/1166166",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480394",
+  "https://www.smartbizn.com/news/articleView.html?idxno=156466",
+  "http://www.dispatch.co.kr/2349299",
+  "https://www.seoultimes.news/news/article.html?no=2000100908",
+  "https://www.newsis.com/view/NISX20261015_0003826803"
  ],
  "seen_titles": [
-  "[게임레이더]컴투스·엔씨,업데이트·이벤트잇따라가을이용자공...",
-  "KT위즈안현민,APBC대표팀승선…김도영·최민석과우승도전한다",
-  "김동성서구의원\"마을공동체,단기지원넘어주민참여권보장해야\"",
-  "삼성첫스마트안경'갤럭시글래스',이렇게나온다",
-  "에스티엘,10월日·美물류거점동시확대···직영인프라1만5000평",
-  "[더밸류브리핑]오늘의NH금융소식...NH투자증권·NH-아문디자산운용",
-  "저커버그\"메타,오픈AI·앤스로픽따라잡아\"…투자지속예고",
-  "KISA침해대응시스템절반노후화…유지보수예산은25%감소",
-  "기업·신한·우리·하나등4대은행앱서'모바일신분증'발급개시",
-  "尹방통위사무처장,YTN매각'부당개입'감사결과에\"모르는것많았다...",
   "이전설돌던금융위‘올게왔다’…노조는“비효율”",
   "[통신레이더]LG유플러스·KT,현장수요읽고통신망·서비스정비속...",
   "청년창업·실험공간출범…세종금남대평시장,홍익대와리빙랩본격...",
@@ -6001,7 +5991,17 @@
   "SKT,AI-RAN기반무인차량이송기술로국제통신상수상",
   "SKT,'가장혁신적인5G서비스'기업선정",
   "애플몸값5조달러넘었다...엔비디아이어역대두번째'시총5조달러'...",
-  "KT·산업안전보건공단,산업현장안전문화확산맞손"
+  "KT·산업안전보건공단,산업현장안전문화확산맞손",
+  "윤성규의원\"야구협회10년간원천징수미이행…체육회감독강화해야...",
+  "G마켓,66만셀러와함께성장한다…‘2026셀러컨퍼런스’개최",
+  "파두,고성능·고효율구현한차세대스토리지‘FS-SSD’공개",
+  "[서학개미안테나]AI투자,이제는자본이병목…외국인은왜코스피를...",
+  "연말정산앞두고AI에연금상품물었더니…뜻밖의결과나왔다",
+  "OK저축은행,고객250명정보유출···\"접속경로차단·보안강화\"",
+  "SK텔레콤,AI-RAN차량이송기술로'NetworkX'수상",
+  "'호프',21일유료VOD오픈…\"4K로만나는,바미기르\"",
+  "KT,‘2026AID-XDay’개최…고객분석·개발업무에AI적용",
+  "\"수십억쓰고모의해킹통과했다더니\"…무신사29CM기본취약점뚫렸다"
  ],
  "recent_sigs": [
   [
@@ -6527,9 +6527,13 @@
   [
    "2026-10-15T09:44:14.541520+09:00",
    "~KT 산업안전보건공단 안전문화 확산 맞손 산업현장"
+  ],
+  [
+   "2026-10-15T09:46:14.656847+09:00",
+   "기본 수십억 무신사 뚫렸다 쓰고 취약점 모의해킹 통과했다더니 29CM"
   ]
  ],
- "last_run": "2026-10-15T09:44:35.172950+09:00",
+ "last_run": "2026-10-15T09:46:32.626634+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
