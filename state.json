@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mhns.co.kr/news/articleView.html?idxno=764292",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246504",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1540538",
-  "https://n.news.naver.com/mnews/article/214/0001529075",
-  "https://www.tfmedia.co.kr/news/article.html?no=208029",
   "https://www.dailian.co.kr/news/view/1701626/?sc=Naver",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008797936&plink=ORI&cooper=NAVER",
   "https://news.bizwatch.co.kr/article/finance/2026/10/14/0028",
@@ -2999,14 +2994,14 @@
   "http://www.joseilbo.com/news/news_read.php?uid=577474&class=32",
   "https://www.koit.co.kr/news/articleView.html?idxno=209516",
   "https://www.etoday.co.kr/news/view/2636204",
-  "https://www.fnnews.com/news/202610151325551103"
+  "https://www.fnnews.com/news/202610151325551103",
+  "https://news.dealsitetv.com/articles/177018",
+  "https://www.ddaily.co.kr/page/view/2026101509253854789",
+  "http://www.metroseoul.co.kr/article/20261015500278",
+  "https://www.m-i.kr/news/articleView.html?idxno=2006295",
+  "https://www.news1.kr/local/kangwon/6321183"
  ],
  "seen_titles": [
-  "LG유플러스,구례용방면주민에500만원후원",
-  "금융권AI해킹침해16곳확인…당국,전금융사보안점검",
-  "프랑스\"냉장고해킹피해마트700곳달해\"",
-  "[뉴스하이킥]장예찬“한동훈딸의혹,국힘이먼저재수사요구해야…...",
-  "금융위·금감원\"금융사침해사고총16곳10만건유출...130곳보안미흡...",
   "\"사이버보안중요하다더니\"…KISA인력증원요청반영률고작5%",
   "\"가정집냉장고도위험\"…슈퍼마켓700곳당했다",
   "16개금융회사10만건정보유출…금융위,보안관리전수점검",
@@ -6001,7 +5996,12 @@
   "국힘지도부,'용인갑조직위원장'경선결과에공개충돌",
   "삼성전자,미국실리콘밸리서차세대네트워크기술조명",
   "시선AI,문서AI엔진구글ㆍ오픈AIㆍ엔비디아제쳤다…OCRBenchv2세계1...",
-  "최태원도물렸다…SK하이닉스폭락에회장님매입가밑으로[종목NOW]"
+  "최태원도물렸다…SK하이닉스폭락에회장님매입가밑으로[종목NOW]",
+  "[건설플러스]BS한양,현장지원AI‘B-ON’도입外",
+  "현대모비스,로봇사업확대…中상하이서협력사발굴",
+  "\"자율주행기능없어도기존차량무인이송가능\"…SKT,국제무대서기...",
+  "AI로업무시간대폭단축…KT,그룹AX성과한자리에",
+  "강원수영연맹-KT,AI기반수영대회운영·에너지효율화맞손"
  ],
  "recent_sigs": [
   [
@@ -6655,9 +6655,13 @@
   [
    "2026-10-15T14:06:15.293139+09:00",
    "최태원도 매입가 회장님 밑으로 SK하이닉스 폭락에 물렸다"
+  ],
+  [
+   "2026-10-15T14:08:15.892529+09:00",
+   "없어도 ~SKT 무인이송 차량 무대서 기능 가능 국제 기존 자율주행"
   ]
  ],
- "last_run": "2026-10-15T14:06:32.585983+09:00",
+ "last_run": "2026-10-15T14:08:34.549732+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
