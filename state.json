@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705926",
-  "https://www.ziksir.com/news/articleView.html?idxno=148719",
-  "https://www.newspim.com/news/view/20261008000082",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=870946",
-  "http://www.4th.kr/news/articleView.html?idxno=2119365",
   "https://www.tokenpost.kr/news/ai/419501",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610071959157600835",
   "https://zdnet.co.kr/view/?no=20261007171138",
@@ -2999,14 +2994,14 @@
   "https://www.boannews.com/news/articleView.html?idxno=146417",
   "http://www.newskr.kr/news/articleView.html?idxno=107198",
   "https://www.viva100.com/article/20261015501246",
-  "https://zdnet.co.kr/view/?no=20261015165946"
+  "https://zdnet.co.kr/view/?no=20261015165946",
+  "https://www.newspim.com/news/view/20261015001215",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640192",
+  "https://www.newsis.com/view/NISX20261015_0003827934",
+  "https://imnews.imbc.com/news/2026/econo/article/6858243_36932.html",
+  "https://news.tf.co.kr/read/national/2376882.htm"
  ],
  "seen_titles": [
-  "마이크로소프트\"윈도를하이브리드인텔리전스전진기지로\"...AI비용절...",
-  "생성형AI자동차추천서현대차·기아상위권…BMW·엔카·롯데렌터카도...",
-  "[AIMY뉴스]8일중국증시'골든위크후첫거래,AI·부양책이반등이...",
-  "[현장]'답변'넘어'행동'···AI가현장에들어왔다",
-  "[유통소식]이마트,'가을의맛'신선식품할인",
   "퍼플렉시티,검색임베딩0.6B·9B모델공개",
   "AI에전기차추천물었더니…아이오닉51위,상위5개현대차ㆍ기아",
   "[포토]류제명차관·주한외국대사한자리에…AI페스타둘째날이모저...",
@@ -6001,17 +5996,14 @@
   "파이오링크,자체개발CTEM'블루헌터'로미공개오픈소스취약점28건...",
   "6G미래서비스국민아이디어모은다...IITP,3개공모프로그램운영",
   "국토부장관도광주행…호남권반도체클러스터조성속도",
-  "오픈AI,애플영업비밀소송에반격…\"우리기밀도유출됐다\""
+  "오픈AI,애플영업비밀소송에반격…\"우리기밀도유출됐다\"",
+  "[APEC도시선전미리가보니]⑤'터미네이터'택시기사AI안내원,선전...",
+  "[유통브리핑]CJ온스타일,글로벌몰출시외",
+  "홍지선국토장관,호남반도체부지점검…\"기업수요반영\"",
+  "동시다발AI해킹에비상‥정부,화이트해커제도화추진",
+  "호남반도체산단후보지둘러본홍지선장관\"산단적기제공…교통망·..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-15T11:16:14.639601+09:00",
-   "반도체 산업 잇단 국방 광주행 장관들 투자 국토부 800조 이어"
-  ],
-  [
-   "2026-10-15T11:16:14.639601+09:00",
-   "against back Apple secret lawsuit fires trade"
-  ],
   [
    "2026-10-15T11:20:26.452334+09:00",
    "탈취 사용 영업기밀 애플이 주장하는 않겠다"
@@ -6735,9 +6727,13 @@
   [
    "2026-10-15T17:14:20.022467+09:00",
    "소송에 우리 기밀도 애플 반격 영업비밀 유출됐다"
+  ],
+  [
+   "2026-10-15T17:16:16.798645+09:00",
+   "장관 둘러본 산단 반도체산단 호남 후보지 교통망 제공 적기 홍지선"
   ]
  ],
- "last_run": "2026-10-15T17:14:38.241221+09:00",
+ "last_run": "2026-10-15T17:16:34.292073+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
