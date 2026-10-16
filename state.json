@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisaweek.com/news/articleView.html?idxno=238387",
-  "https://zdnet.co.kr/view/?no=20261015170858",
-  "https://it.donga.com/109705/",
-  "https://zdnet.co.kr/view/?no=20261015165631",
   "https://www.boannews.com/news/articleView.html?idxno=146419",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=49768",
   "https://www.businessplus.kr/news/articleView.html?idxno=118257",
@@ -2999,13 +2995,13 @@
   "https://www.munhwa.com/article/11624036",
   "https://www.news1.kr/finance/general-finance/6322233",
   "http://www.dailypop.kr/news/articleView.html?idxno=103458",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=137516"
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137516",
+  "http://www.iminju.net/news/articleView.html?idxno=170960",
+  "https://ditoday.com/%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%ec%b1%97gpt-%ea%b4%91%ea%b3%a0%ec%9d%98-%ea%b3%b5%ed%86%b5%ec%a0%90-%ec%b6%9c%ec%82%b0%ea%b3%bc-%ea%b2%b0%ed%98%bc/",
+  "https://www.dailian.co.kr/news/view/1702092/?sc=Naver",
+  "https://dealsite.co.kr/articles/170806"
  ],
  "seen_titles": [
-  "재도약시급한데…해킹공격까지받은고팍스",
-  "KBS·방문진·EBS이사진6명인선...국민의힘추천몫채웠다",
-  "베슬AI,MLOps기반의'베슬클라우드'공개···\"2030년GPU20만장확...",
-  "로보티즈\"누구나휴머노이드만드는시대연다\"…SW·HW'전면개방'",
   "\"오픈랜,망운용개방성높였지만기존신뢰경계무너졌다\"",
   "현대차그룹,인도에21조투자…생산시설확충·AI신사업'두축'",
   "[금융권이모저모]삼성자산운용,나스닥100ETF순자산10조원돌파外",
@@ -6001,7 +5997,11 @@
   "국회타깃해킹시도1만건돌파…역대최대치",
   "[단독]\"신청도안했는데대출조회\"…DB저축銀,개인정보142명유출추...",
   "SKT,AI-RAN무인차량이송으로'NetworkX어워드'수상…장애청소년'...",
-  "빗썸,금융권해킹이후'2차피싱'경고…개인정보가사기수단으로"
+  "빗썸,금융권해킹이후'2차피싱'경고…개인정보가사기수단으로",
+  "[민주라이프]이랜드파크·서울신라호텔·트리니티항공",
+  "제미나이와챗GPT광고의공통점:출산과결혼",
+  "방미통위,KBS·방문진·EBS이사6명인사의결",
+  "코어위브發위기론에월가반론…\"시장과잉반응\""
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,13 @@
   [
    "2026-10-16T12:02:16.067609+09:00",
    "피싱 2차 이후 금융권 경고 개인정보가 사기 수단으로 빗썸"
+  ],
+  [
+   "2026-10-16T12:04:17.092401+09:00",
+   "월가 코어위브 위기론에 시장 반론 과잉반응"
   ]
  ],
- "last_run": "2026-10-16T12:02:43.038638+09:00",
+ "last_run": "2026-10-16T12:04:40.530536+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
