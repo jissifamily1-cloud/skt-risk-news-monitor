@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=242229",
-  "https://www.mt.co.kr/stock/2026/10/15/2026101516425940656",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172113",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=666366",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214904",
-  "https://www.aitimes.com/news/articleView.html?idxno=216306",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449468",
-  "https://www.hidomin.com/news/articleView.html?idxno=725074",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078725",
-  "https://www.hellot.net/news/article.html?no=115506",
   "https://www.joongang.co.kr/article/25470062",
   "http://www.kdfnews.com/news/articleView.html?idxno=189359",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728013",
@@ -2999,19 +2989,19 @@
   "https://biz.heraldcorp.com/article/10904962",
   "https://dealsite.co.kr/articles/170804",
   "https://www.econovill.com/news/articleView.html?idxno=753867",
-  "https://www.newsis.com/view/NISX20261016_0003828869"
+  "https://www.newsis.com/view/NISX20261016_0003828869",
+  "https://www.econovill.com/news/articleView.html?idxno=753868",
+  "https://www.g-enews.com/view.php?ud=2026101611303990892bd56fbc3c_1",
+  "https://www.cwn.kr/news/articleView.html?idxno=59546",
+  "https://it.donga.com/109710/",
+  "https://www.greened.kr/news/articleView.html?idxno=352260",
+  "https://biz.sbs.co.kr/article_hub/20000340378?division=NAVER",
+  "https://www.mediapen.com/news/view/1130455",
+  "https://sateconomy.co.kr/news/view/1065577903744215",
+  "https://www.huffingtonpost.kr/article/261271",
+  "https://www.fnnews.com/news/202610161106527840"
  ],
  "seen_titles": [
-  "오픈베이스,'TechSharingDay2026'개최…AI기술역량강화",
-  "\"코스피5000이1차지지선\"…증권가\"버티되빚투는금물\"",
-  "TSMC,3분기순익69%급증…AI수요에6분기연속사상최대",
-  "KODEX미국나스닥100,개인순매수앞세워'순자산10조'",
-  "[생생경제]SK온CB에SK주식PRS까지…한투투자금,어떻게회수하나",
-  "미국8개주,오픈AI상대집단소송...\"챗GPT가자해·폭력부추겨\"",
-  "과기정통부\"AI해킹대응에한계,보안특화AI내년활용추진\"",
-  "칠곡군,낙동강평화축제앞두고합동환경정화",
-  "김남국의원불법스팸\"반복적발256곳…사후관리강화해야\"",
-  "제논,AI에이전트통합포털‘제나’정식출시...모바일서비스확대",
   "“만피”외쳤는데5500선추락…“거품붕괴”vs“6개월내전고점돌...",
   "현대모비스,중국서첫오픈이노베이션…로보틱스∙AI협력확대",
   "[운용&Now]KODEX미국나스닥100,순자산10조원돌파등",
@@ -6001,7 +5991,17 @@
   "LGU+,AI로와이파이장애사전차단",
   "앤트로픽‘2조달러'흔들…K반도체·전력망에경고등",
   "카카오인적분할\"고용·근로조건포괄승계\"크루소통세번째오픈톡",
-  "中보안기업,韓금융권해킹에악용된AI'아르텍스'상용화"
+  "中보안기업,韓금융권해킹에악용된AI'아르텍스'상용화",
+  "인스파이어서한일음악과패션한무대에ACFKOREA2026티켓링크단독...",
+  "화웨이·장화이공동개발맥스트로V800브레이크결함의혹…중국3개...",
+  "애플아이폰듀오사전예약출격...이통3사,혜택대결본격화",
+  "'2026경기스타트업서밋'성료...경기도혁신스타트업,투자-산업-글...",
+  "신한라이프,내실성장위한새로운고객가치창출'가속화'...영업현장에...",
+  "'AI슈퍼사이클'벌써끝?…나흘만에시총1조달러증발",
+  "갈길잃은유동자금…보름새37조은행금고행",
+  "KB국민은행정보보호예산최대…신한·우리은행은두자릿수감액",
+  "LG유플러스의AI는인터넷속도불만생기기전에미리알아챈다:유럽...",
+  "\"엔비디아수익률300%찍고팔았다\"남보라고백에탄식나온이유"
  ],
  "recent_sigs": [
   [
@@ -6771,9 +6771,13 @@
   [
    "2026-10-16T11:34:18.051346+09:00",
    "제주항공 유출 여권정보 지지부진 조사 해킹범도 못잡아 지적"
+  ],
+  [
+   "2026-10-16T11:42:16.008177+09:00",
+   "미리 속도 전에 인터넷 생기기 LG유플러스의 알아챈다 ~LGU AI는 유럽 불만"
   ]
  ],
- "last_run": "2026-10-16T11:40:41.044232+09:00",
+ "last_run": "2026-10-16T11:42:40.583002+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
