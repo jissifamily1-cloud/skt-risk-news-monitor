@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=723738",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90213",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42273",
-  "https://www.hellot.net/news/article.html?no=115400",
-  "https://www.ddaily.co.kr/page/view/2026101309113393243",
-  "https://www.yna.co.kr/view/AKR20261014019100009?input=1195m",
-  "https://www.jbnews.com/news/articleView.html?idxno=1513398",
-  "https://newscham.net/130038/",
   "https://www.edaily.co.kr/News/Read?newsId=04139366645612592&mediaCodeNo=257",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4439010",
   "https://www.news1.kr/world/usa-canada/6318339",
@@ -2999,17 +2991,17 @@
   "https://sateconomy.co.kr/news/view/1065591873480377",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690198.html",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160130&t=NN",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=666458"
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=666458",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766118",
+  "https://www.etnews.com/20261016000309",
+  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069795",
+  "https://www.mt.co.kr/industry/2026/10/16/2026101616583989524",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136303",
+  "https://www.newspim.com/news/view/20261016001330",
+  "https://biz.heraldcorp.com/article/10905427",
+  "http://www.kjdaily.com/article.php?aid=1792138561689352276"
  ],
  "seen_titles": [
-  "美AI투자,'제2의서브프라임'경고…中저가모델의역습",
-  "엠클라우드브리지,Ai365통합AI플랫폼제공",
-  "엠클라우드브리지,공공·교육·연구기관용로컬·퍼블릭LLM통합지원...",
-  "마이크로소프트,자체AI칩'마이아'멀티기가와트급확대…2027년추론...",
-  "엠클라우드브리지,로컬·퍼블릭AI통합...공공·교육시장공략",
-  "\"AI에이전트시대개막\"…AMD리사수,개방형랙청사진'헬리온'제시",
-  "오픈AI사우디국적직원,임원회의실에도청장치",
-  "[열린세상]AI시대도시의지향점은'인간다운공간'",
   "사과도재발방지도없는6년,그사이쿠팡에서36명이숨졌다",
   "\"그냥쏴버려\"…美AI데이터센터반대론자들,찬성측에살해협박",
   "[월가톡톡]AI가점점귀여워지는이유",
@@ -6001,13 +5993,17 @@
   "[카드업계동향]롯데카드,육아특화카드출시…삼성카드쇼핑·신한카...",
   "KT,AI가매장음악자동선곡…월9900원'래디오비즈'출시",
   "코스피,8거래일만에2%대반등…코스닥도4%대상승",
-  "OK저축은행,해킹조사중추가유출발견…긴급보안조치"
+  "OK저축은행,해킹조사중추가유출발견…긴급보안조치",
+  "현대엘리베이터,1160억규모현대무벡스지분매각...\"주주환원정책이...",
+  "[기고]AI를탑재한디지털트윈,물리세계를통제한다",
+  "신동컴퍼니,웹에이전시'빌드신동'오픈…홈페이지·랜딩페이지제작...",
+  "아이비다,스타트업부문'20264IRAwards'수상",
+  "OK저축은행,정밀조사중모바일수신서비스정보유출추가확인",
+  "OK저축은행서또털렸다…고객정보268명추가유출,잔액·이율까지",
+  "신진창신임금융위부위원장의첫일성은?…“금융안정위해긴밀한...",
+  "삼성전자·SK하이닉스반등…주식상승마감"
  ],
  "recent_sigs": [
-  [
-   "2026-10-16T11:20:24.292459+09:00",
-   "통신 장비주 우려 수혜 피지컬 스페이스X AIDC 털어낸"
-  ],
   [
    "2026-10-16T11:24:14.825610+09:00",
    "~LGU 빈손 갈등 노사 교섭 LG유플러스 장기화 임단협 12차"
@@ -6571,9 +6567,13 @@
   [
    "2026-10-16T17:18:16.337113+09:00",
    "쇼핑 신한카 특화카드 육아 삼성카드 출시 롯데카드"
+  ],
+  [
+   "2026-10-16T17:20:27.673705+09:00",
+   "반등 주식 마감 상승 삼성전자 SK하이닉스"
   ]
  ],
- "last_run": "2026-10-16T17:18:42.590727+09:00",
+ "last_run": "2026-10-16T17:20:45.985787+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
