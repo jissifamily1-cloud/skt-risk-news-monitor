@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000023043&cp=nv",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=615975",
-  "https://www.tokenpost.kr/news/ai/422974",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=90849",
   "https://www.g-enews.com/view.php?ud=202610151919142324906806b77b_1",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=873319",
@@ -2999,12 +2996,12 @@
   "https://www.segye.com/newsView/20261016517280?OutUrl=naver",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687774",
   "https://www.aitimes.com/news/articleView.html?idxno=216337",
-  "https://www.mk.co.kr/article/12178131"
+  "https://www.mk.co.kr/article/12178131",
+  "http://www.newsbrite.net/news/articleView.html?idxno=200969",
+  "https://www.dailian.co.kr/news/view/1702611/?sc=Naver",
+  "https://www.yna.co.kr/view/AKR20261016160100073?input=1195m"
  ],
  "seen_titles": [
-  "7천피에서5천피로…코스피7거래일만에21%폭락",
-  "반도체기업역대급실적,그밑단인프라업체들은부채위기",
-  "[반도체투톱급락]\"외인만2.5조던졌다\"…삼성전자·SK하이닉스10%안...",
   "블랙스톤,구글AI합작법인에50억달러약정",
   "뉴욕증시,AI관련주급락나스닥1%대하락…반도체시총2조달러증발...",
   "[김대호진단]반도체연쇄대폭락\"코어위브사태의전말\"",
@@ -6001,7 +5998,10 @@
   "300%대박터졌는데계좌엔‘1주’…남보라가털어놓은개미투자자의...",
   "OK저축은행3일만에또뚫려…268명고객정보추가유출",
   "MS,정식출시앞서2.8조매개변수모델공개…'오픈AI의존줄일독자...",
-  "3분기168억달러벌어도AI불안해소에역부족…앤트로픽실적에서읽..."
+  "3분기168억달러벌어도AI불안해소에역부족…앤트로픽실적에서읽...",
+  "신한라이프'리코2.0'오픈...영업현장AX혁신가속화",
+  "OK저축은행,해킹피해'또'확인…고객268명정보추가유출",
+  "日언론,'한일경제공동체'구상조명…\"긍정적이지만과제도\""
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,13 @@
   [
    "2026-10-16T18:12:16.761560+09:00",
    "8조 앞서 MS 출시 독자 공개 줄일 정식 매개변수 모델 의존"
+  ],
+  [
+   "2026-10-16T18:14:16.741491+09:00",
+   "한일 언론 조명 과제도 구상 긍정적이지만 경제공동체"
   ]
  ],
- "last_run": "2026-10-16T18:12:38.322196+09:00",
+ "last_run": "2026-10-16T18:14:34.225396+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
