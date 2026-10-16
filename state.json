@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3052122",
-  "https://www.econovill.com/news/articleView.html?idxno=753754",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000022904&cp=nv",
-  "https://zdnet.co.kr/view/?no=20261015164815",
-  "http://www.iminju.net/news/articleView.html?idxno=170929",
-  "http://www.iminju.net/news/articleView.html?idxno=170931",
-  "https://www.aitimes.com/news/articleView.html?idxno=216295",
   "https://www.gukjenews.com/news/articleView.html?idxno=3722724",
   "https://www.mediapen.com/news/view/1130147",
   "https://news.dealsitetv.com/articles/177035",
@@ -2999,16 +2992,16 @@
   "https://www.catchnews.kr/news/articleView.html?idxno=129378",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=856704",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=81778",
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91351"
+  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91351",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=87688",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=856705",
+  "https://imnews.imbc.com/news/2026/politics/article/6858448_36911.html",
+  "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261015507&PRO_CODE=99",
+  "https://www.dailian.co.kr/news/view/1702377/?sc=Naver",
+  "https://www.ddaily.co.kr/page/view/2026101611293110989",
+  "https://economist.co.kr/article/view/ecn202610160018"
  ],
  "seen_titles": [
-  "수도권주거시장,보행접근성따라실거래가격격차엇갈려",
-  "밀리의서재여의도한강서독서대회연다",
-  "“산속조난자위치2분만에찾는다”…산악지도기반위치확인시스템...",
-  "\"피지컬AI도인증\"...라온시큐어,개발과제주관기관선정",
-  "더존비즈온자격시험사이트서개인정보유출…관리책임논란",
-  "중반접어든국감,올해도'정쟁'만부각",
-  "오픈AI·앤트로픽\"통제어려운중국오픈모델,사이버보안에구멍\"경...",
   "대전시,빵축제·유성국화축제앞두고행사장안전점검",
   "인디넘어소셜까지…스마일게이트스토브,'장르다변화'승부수",
   "산은캐피탈도뚫렸다…848명정보유출",
@@ -6001,7 +5994,14 @@
   "\"미래트렌드맞춰AI업무혁신방향설정\"현대차증권'전미영의트렌드...",
   "[2026국감]은행보안예산2배差…국민861억·신한406억,집행·통제가...",
   "금융권해킹에악용된'아르텍스',중국서유료출시예고",
-  "[통신브리핑]SK텔레콤·KT·LG유플러스"
+  "[통신브리핑]SK텔레콤·KT·LG유플러스",
+  "기아,판교서'운전자없는'카셰어링실증…2027년상용화추진",
+  "약속뒤집고재투표도걷어찬양향자…\"해당행위징계해야\"",
+  "李정부출범500일‥여\"민생경제살려\"야\"끔찍한시간\"",
+  "국힘,'이진숙방미통위국감제척'권한쟁의심판청구...\"말할권리박...",
+  "KT,AI가매장음악골라준다…월9900원소상공인서비스출시",
+  "챗GPT,한국어목소리더자연스럽게…오픈AI,음성기능업데이트",
+  "[오늘의삼전닉스]'땡큐젠슨황',대외적재료주목해야하는시점"
  ],
  "recent_sigs": [
   [
@@ -6763,9 +6763,13 @@
   [
    "2026-10-16T11:30:35.074316+09:00",
    "LG유플러스 ~LGU ~SKT ~KT"
+  ],
+  [
+   "2026-10-16T11:32:15.399275+09:00",
+   "하는 대외적 젠슨 재료 시점 주목해야 땡큐"
   ]
  ],
- "last_run": "2026-10-16T11:30:58.477312+09:00",
+ "last_run": "2026-10-16T11:32:36.410278+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
