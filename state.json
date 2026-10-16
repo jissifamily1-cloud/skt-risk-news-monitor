@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202610152134001",
-  "https://www.ddaily.co.kr/page/view/2026101517435315552",
-  "https://www.mt.co.kr/world/2026/10/15/2026101521323619352",
-  "https://platum.kr/archives/296378",
-  "http://www.cctimes.kr/news/articleView.html?idxno=932362",
-  "https://www.newspim.com/news/view/20261015001316",
-  "https://www.edaily.co.kr/News/Read?newsId=06317286645613248&mediaCodeNo=257",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=873321",
   "https://www.ajunews.com/view/20261015214440580",
   "https://www.businessplus.kr/news/articleView.html?idxno=118198",
@@ -2999,16 +2992,16 @@
   "https://sports.khan.co.kr/article/202610161504003?pt=nv",
   "https://zdnet.co.kr/view/?no=20261016150017",
   "https://www.nytimes.com/2026/10/15/business/dealbook/ai-neoclouds-coreweave-stocks.html?partner=naver",
-  "https://www.ddaily.co.kr/page/view/2026101614332283543"
+  "https://www.ddaily.co.kr/page/view/2026101614332283543",
+  "http://www.kdfnews.com/news/articleView.html?idxno=189420",
+  "https://www.donga.com/news/Society/article/all/20261016/134854636/2",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495814",
+  "https://www.mt.co.kr/tech/2026/10/16/2026101614342391550",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94392",
+  "http://www.finomy.com/news/articleView.html?idxno=263815",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495966"
  ],
  "seen_titles": [
-  "미FTC오픈AI·앤트로픽조사착수…경영진조만간소환",
-  "방미통위,국힘추천공영방송이사6명인선의결",
-  "美FTC,'해킹논란'오픈AI·앤트로픽자료제출요구…경영진소환예...",
-  "배포된앱의작동원리를AI가읽어낸다,깃허브휩쓴리버스엔지니어...",
-  "세종시,AI맞춤형돌봄실증나선다",
-  "[프로농구]'칸터42점'삼성,LG93-86제압…23시즌만에개막4연승",
-  "[미리보는이데일리신문]삼닉쏠림부메랑…美더블펀치,韓가장세게...",
   "'개막4연승'김상식삼성감독\"선수들자신감붙었다\"",
   "[아주경제오늘의뉴스종합]미국9월생산자물가1.3%급등…물가상...",
   "[요즘테크+/⑧]'모두의AI'본격화…사업자준비속정책일관성시험대",
@@ -6001,7 +5994,14 @@
   "남보라,하이닉스19만원매수·엔비디아300%수익인데…“헛똑똑이”",
   "AI로빨라지는사이버공격…오픈AI,국내기업에대응전략제시",
   "TheFalloutFromthe‘Neocloud’Wipeout",
-  "젠슨황\"AI칩주문매일쏟아져…증산해도공급이수요못따라가\""
+  "젠슨황\"AI칩주문매일쏟아져…증산해도공급이수요못따라가\"",
+  "여행서비스,숙박∙항공에체험콘텐츠결합…상품구성차별화",
+  "챗GPT로‘비공개임상자료’접근…식약처,1195명개인정보유출사과",
+  "KT,'아이폰듀오'사전예약시작…요금제·디바이스·폰케어혜택마련",
+  "오픈AI,국내기업경영진불러모아'AI시대사이버방어전략'공유",
+  "아르텍스AI,국내금융권해킹논란딛고기업용보안플랫폼으로재출...",
+  "[기자수첩]금융권해킹에드러난보안구멍···점검보다'실효성'따져...",
+  "잇단해킹에은행권보안투자확대…KB1000억원·우리20%증액추진"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-10-16T15:08:16.231027+09:00",
    "따라가 수요 증산해도 젠슨 쏟아져 공급이 매일 주문"
+  ],
+  [
+   "2026-10-16T15:10:27.876925+09:00",
+   "KB 증액 해킹에 은행권 확대 잇단 1000억원 보안투자 우리"
   ]
  ],
- "last_run": "2026-10-16T15:08:40.546599+09:00",
+ "last_run": "2026-10-16T15:10:45.760091+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
