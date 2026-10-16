@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/economy/tech_it/2026/10/15/Z36JGHQ74ZE3DLTEIWO7CTNTPI/",
-  "https://www.etnews.com/20261015000298",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495636",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261015010004976",
-  "https://www.hani.co.kr/arti/economy/economy_general/1282560.html",
-  "https://sateconomy.co.kr/news/view/1065595598309540",
-  "https://www.yna.co.kr/view/AKR20261015145000017?input=1195m",
-  "https://www.mt.co.kr/future/2026/10/15/2026101514410519454",
   "https://www.mk.co.kr/article/12176864",
   "https://www.gukjenews.com/news/articleView.html?idxno=3722712",
   "https://www.donga.com/news/Economy/article/all/20261015/134848867/1",
@@ -2999,17 +2991,17 @@
   "https://www.newspim.com/news/view/20261016000535",
   "https://www.mk.co.kr/article/12177648",
   "https://www.natv.go.kr/natv/news/newsView.do?newsId=514408",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=619109"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=619109",
+  "https://news.tf.co.kr/read/economy/2377076.htm",
+  "https://www.kyeonggi.com/article/20261016580103",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449523",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1415607",
+  "https://www.biotimes.co.kr/news/articleView.html?idxno=35293",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729384",
+  "https://www.newsis.com/view/NISX20261016_0003828812",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707689"
  ],
  "seen_titles": [
-  "TSMC,3분기순이익31조…6분기연속사상최대",
-  "LG전자양재데이터팩토리,산-학-연에개방한다",
-  "삼성자산운용,'KODEX미국나스닥100ETF'순자산10조돌파",
-  "현대차,소형SUV‘바이욘’26일인도출시…印최초생성형AI탑재",
-  "’검은목요일’...코스피·코스닥,7%대폭락",
-  "금융사555곳보안점검서130곳'미흡'…5곳중1곳취약점",
-  "[AI픽]SKT,운전자없이자동차옮기는AI기술로글로벌수상",
-  "\"GPU로달러벌어온다\"…베슬AI,'AI연산수출기업'선언한이유",
   "국감지적에도보안문제빼고‘안전’만강조…LGU+사장결국증인채...",
   "진주교대김성규총장,모교경상국립대에발전기금1000만원기부",
   "SKT,장애청소년AI활용경연대회개최…디지털격차해소기여",
@@ -6001,7 +5993,15 @@
   "[로펌이슈]세종,온라인쇼핑기업개인정보보호·사이버보안대응전...",
   "한층더자연스러워진한국어대화...오픈AI,챗GPT보이스업데이트",
   "과방위,허위경력의혹·AI해킹대응쟁점",
-  "금융당국,증시급락에긴급점검...\"불확실성확대에도기초여건은견..."
+  "금융당국,증시급락에긴급점검...\"불확실성확대에도기초여건은견...",
+  "[2026국감]올해빠지나했는데…증인추가채택움직임에재계긴장",
+  "국민의힘,용인갑조직위원장재경선안한다…양향자불참에윤재복확...",
+  "카카오인적분할관련임직원과오프톡,\"전직원고용·근로조건포괄...",
+  "[테크안테나]LG전자엑시나딥엑스",
+  "엔젤로보틱스,창업자공경철대표이사선임…피지컬AI기업도약가속...",
+  "고객정보쥐고도보안은사각지대…금융당국,GA·대부업손본다",
+  "장동혁,李정부출범500일에\"끔찍한시간…국민결단시간멀지않아...",
+  "일론머스크·샘알트먼정조준…할리우드가실리콘밸리에칼겨눈이유"
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,17 @@
   [
    "2026-10-16T11:14:15.265973+09:00",
    "긴급 불확실성 증시 급락에 금융당국 점검 확대에도 기초여건은"
+  ],
+  [
+   "2026-10-16T11:16:15.481504+09:00",
+   "재계 움직임에 채택 긴장 올해 했는데 빠지나 증인 추가"
+  ],
+  [
+   "2026-10-16T11:16:15.481504+09:00",
+   "이유 실리콘밸리에 겨눈 샘알트먼 할리우드가 일론 정조준 머스크"
   ]
  ],
- "last_run": "2026-10-16T11:14:35.732234+09:00",
+ "last_run": "2026-10-16T11:16:38.686230+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
