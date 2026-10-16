@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261015001327",
-  "https://www.newspim.com/news/view/20261015001321",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687075",
-  "https://www.yna.co.kr/view/AKR20261015124352089?input=1195m",
-  "https://mhnse.com/news/articleView.html?idxno=1594160",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610141537051120106787",
   "https://www.ajunews.com/view/20261013100504686",
   "https://www.g-enews.com/view.php?ud=2026101422170116202bd56fbc3c_1",
@@ -2999,14 +2994,14 @@
   "https://www.laborplus.co.kr/news/articleView.html?idxno=41661",
   "https://www.gukjenews.com/news/articleView.html?idxno=3723978",
   "https://www.news1.kr/world/northeast-asia/6322958",
-  "https://www.news1.kr/politics/assembly/6322955"
+  "https://www.news1.kr/politics/assembly/6322955",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=184250",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=184266",
+  "https://www.betanews.net/article/view/beta202610160134",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=184221",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=184219"
  ],
  "seen_titles": [
-  "스카이월드와이드와스카이인텔리전스정부주도로확장예정인피지컬...",
-  "[AIMY뉴스]뉴욕반도체주프리뷰...TSMC호실적도못막은AI주매도세",
-  "삼성·SK하이닉스주가폭락…中반도체추격에'2029년공급과잉'경고...",
-  "TSMC,6분기연속순이익신기록…애리조나이어텍사스투자도검토중",
-  "TSMC,6분기연속순이익신기록…美텍사스투자검토(종합2보)",
   "'곤충자판기→들쥐먹방'까지…상식파괴여행으로넷플릭스TOP10찍은...",
   "[더벨][SEDEX2026]송재혁삼성전자사장\"4F²D램개발하고있다\"",
   "[김경진칼럼]기계의시대가열렸다..그래도미래의첫문장은인간이...",
@@ -6001,7 +5996,12 @@
   "[2026노동국감]잇단추가증인요청,'청문회'언급도",
   "제24기함안박물관대학수강생,독립운동기념관·이태준기념관답사",
   "中,AI·바이오·태양광핵심기술40개'수출통제'추진",
-  "\"박물관관람·뮤직뱅크가국감보다중요합니까\"[국감말말말]"
+  "\"박물관관람·뮤직뱅크가국감보다중요합니까\"[국감말말말]",
+  "전남테크노파크개최통합채용박람회성료…532명면접·15명현장채용",
+  "경남테크노파크,'2026TheNEXTAI'서제조혁신이끌AI·SW인재양성...",
+  "[현장]시놀로지솔루션데이2026개최...오피스스위트부터에이전틱...",
+  "전남광주통합특별시반도체산단예정지현장점검…국토부장관'적기...",
+  "전남광주통합특별시,반도체클러스터조성속도…정부·기업현장점검..."
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-10-16T18:18:16.898233+09:00",
    "뮤직뱅크가 국감보다 중요합니까 관람 박물관"
+  ],
+  [
+   "2026-10-16T18:20:27.494296+09:00",
+   "전남광주통합특별시 기업 정부 현장 반도체 클러스터 속도 점검 조성"
   ]
  ],
- "last_run": "2026-10-16T18:18:35.392611+09:00",
+ "last_run": "2026-10-16T18:20:48.517853+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
