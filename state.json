@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439448",
-  "https://www.hani.co.kr/arti/economy/finance/1282542.html",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1415231",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=280672",
-  "https://www.sedaily.com/article/20102045",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590147.html",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44491",
-  "https://www.ppss.kr/news/articleView.html?idxno=315631",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439452",
-  "http://www.metroseoul.co.kr/article/20261015500393",
-  "https://www.donga.com/news/It/article/all/20261015/134847568/2",
   "http://www.epj.co.kr/news/articleView.html?idxno=39581",
   "https://www.dailysecu.com/news/articleView.html?idxno=208880",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1727998",
@@ -2999,20 +2988,20 @@
   "https://www.ggilbo.com/news/articleView.html?idxno=1187284",
   "https://www.seoultimes.news/news/article.html?no=2000100964",
   "https://www.koreaittimes.com/news/articleView.html?idxno=158203",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=158205"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=158205",
+  "https://www.businessplus.kr/news/articleView.html?idxno=118280",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072492",
+  "https://www.meconomynews.com/news/articleView.html?idxno=202604",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495857",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261016102328V78",
+  "https://www.cnbizm.com/news/articleView.html?idxno=318218",
+  "https://www.pressman.kr/news/articleView.html?idxno=104037",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137497",
+  "https://www.newsis.com/view/NISX20261016_0003828551",
+  "http://www.4th.kr/news/articleView.html?idxno=2119872",
+  "https://www.newsis.com/view/NISX20261015_0003826976"
  ],
  "seen_titles": [
-  "[월가톡톡]中보다'트럼프의美'가더무서운日2040",
-  "또시장덮친‘AI수익화속도’논란…금융비용·GPU감가상각비도‘...",
-  "LGCNS,DBO역량+신기술…AI데이터센터차별화전략",
-  "TSMC3분기실적축포…SK웃었지만삼성은셈법'복잡'",
-  "“12월부터전국민무료”…SKT·KT·카카오가만든‘모두의AI’",
-  "KT,AX혁신성과공유…'2026AID-XDay'개최",
-  "[2026국감]19일금감원국감…5대은행장출석,해킹·ETF·대출관리'...",
-  "OK저축은행대출신청고객해킹피해250명으로확대...개인정보유출...",
-  "국힘,이진숙국정감사제척에헌재권한쟁의심판청구",
-  "野,용인갑경선두고고성충돌…양향자\"전면재선거\"vs지도부\"해당...",
-  "8만7000명다녀간서울AI로봇쇼…투자상담85건,기업후속투자검토",
   "남부발전,비개발자주도'AI명함관리앱'바이브코딩으로개발",
   "파이오링크,자체개발CTEM블루헌터로오픈소스신규취약점28건발굴",
   "\"비밀번호도필요없었다\"…배민라이더201명개인정보노출정황",
@@ -6001,7 +5990,18 @@
   "애플'아이폰듀오'16일(오늘)사전예약...통신사별혜택은?",
   "LG유플러스,유럽서AI와이파이기술공개…자동복구기술개발추진",
   "LG유플러스,네트워크X서AI와이파이기술공개…차세대통신경쟁력...",
-  "KT,AI매장음악서비스'래디오비즈'출시…소상공인운영지원"
+  "KT,AI매장음악서비스'래디오비즈'출시…소상공인운영지원",
+  "트리니티항공,웨이브·밀리의서재와손잡고기내엔터테인먼트강화",
+  "카카오정신아,'오픈톡'통해임직원소통…\"새로운출발준비\"",
+  "카카오,내년1월인적분할앞두고임직원과오픈톡\"전직원고용·복지...",
+  "엔젤로보틱스,창업자공경철대표복귀…피지컬AI집중",
+  "코스피,급락딛고2%대반등…코스닥3%강세",
+  "고려대,경영학과교우로부터20억원기부받아…장학·창업지원",
+  "카페음악부터집안와이파이까지…통신사AI서비스확장",
+  "KT,애플첫폴더블'아이폰듀오'사전예약…대화면·AI경험에구매혜...",
+  "앤트로픽,AI안전성외부검증확대…직원수준접근권부여",
+  "[국감]은행권해킹비상속보안투자온도차…신한·우리는예산삭감",
+  "AI해킹에뚫린저축은행…알고보니내부통제이미'구멍'"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,21 @@
   [
    "2026-10-16T10:22:14.153193+09:00",
    "선택권 ~KT 트리니티항공 웨이브 기내 콘텐츠 kt밀리의서재와 확대 제휴"
+  ],
+  [
+   "2026-10-16T10:26:15.167502+09:00",
+   "와이파이까지 카페 서비스 음악부터 확장"
+  ],
+  [
+   "2026-10-16T10:26:15.167502+09:00",
+   "직원 외부 안전성 검증 확대 접근권 수준 부여 앤트로픽"
+  ],
+  [
+   "2026-10-16T10:26:15.167502+09:00",
+   "뚫린 저축은행 내부통제 이미 보니 구멍 해킹에 알고"
   ]
  ],
- "last_run": "2026-10-16T10:24:36.949461+09:00",
+ "last_run": "2026-10-16T10:26:43.678327+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
