@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=208886",
-  "https://m.skyedaily.com/news_view.html?ID=313044",
-  "https://www.widedaily.com/news/articleView.html?idxno=302005",
-  "https://thetracker.co.kr/View.aspx?No=4265332",
-  "https://www.techm.kr/news/articleView.html?idxno=156149",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480649",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360727",
   "https://zdnet.co.kr/view/?no=20261015155635",
   "https://www.thelec.kr/news/articleView.html?idxno=63783",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172255",
@@ -2999,16 +2992,16 @@
   "https://www.news2day.co.kr/article/20261015500027",
   "https://zdnet.co.kr/view/?no=20261016095617",
   "http://www.newswell.co.kr/news/articleView.html?idxno=22760",
-  "https://www.newspim.com/news/view/20261016000506"
+  "https://www.newspim.com/news/view/20261016000506",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172147",
+  "https://www.dailian.co.kr/news/view/1702341/?sc=Naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3723454",
+  "https://www.joongang.co.kr/article/25470278",
+  "https://www.mk.co.kr/article/12177639",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90516",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62842"
  ],
  "seen_titles": [
-  "오픈베이스,'테크샤링데이2026'개최",
-  "사진만찍으면해외직구위해식품판별…‘쿠팡조회는아직’",
-  "'AI전력대란'구원투수로뜬ESS…K배터리3사,북미서새판짠다",
-  "[SEDEX2026르포]삼성은쌓고SK는늘린다…차세대메모리대전",
-  "[국감26]과기정통부,모의해킹규제완화...'시범사업→제도화'수순",
-  "[2026국감]해킹막으려다범법자될라···정부,화이트해커활동합법...",
-  "LGU+,20년봉사한척수장애인에온정…임직원기부금올해누적3억300...",
   "[기고]오픈웨이트AI,무료보다먼저따져야할것",
   "배달의민족라이더201명개인정보노출",
   "양대악재,코스피'곤두박질'...에스원·코웨이는'활짝'",
@@ -6001,7 +5994,14 @@
   "[김동헌의AI패러다임(56)]난제를푸는AI,이해를묻는수학자들–필...",
   "300만원넘는아이폰듀오,사전예약부터품귀예고",
   "KT,AI매장음악서비스'래디오비즈'출시…소상공인지원확대",
-  "[뉴스핌이시각글로벌PICK]앤스로픽투자자,IPO눈높이낮춰外"
+  "[뉴스핌이시각글로벌PICK]앤스로픽투자자,IPO눈높이낮춰外",
+  "아이폰듀오혜택최대221만원…통신3사따져보니",
+  "양향자,설명회불참에탈락?…국민의힘,'윤재복'용인갑조직위원장...",
+  "세종시의회도시환경위,행정사무감사마무리…공기업운영개선촉구",
+  "‘아,이래서삼성임원됐구나’AI교육장서본충격장면",
+  "베슬AI,한국투자증권과GPU인프라확충위한금융협력추진",
+  "LG유플러스,글로벌전시서AI와이파이기술공개…자율네트워크구...",
+  "美기업들,오픈AI·앤트로픽대신저가모델로돌아선이유“AI너무..."
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,13 @@
   [
    "2026-10-16T11:04:16.321676+09:00",
    "눈높이 낮춰 투자자 IPO"
+  ],
+  [
+   "2026-10-16T11:06:14.736110+09:00",
+   "기업들 이유 대신 저가 돌아선 모델로 너무 앤트로픽"
   ]
  ],
- "last_run": "2026-10-16T11:04:36.411112+09:00",
+ "last_run": "2026-10-16T11:06:35.063370+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
