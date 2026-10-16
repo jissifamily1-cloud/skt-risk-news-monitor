@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2006538",
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000022926&cp=nv",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242231",
-  "https://www.hankyung.com/article/2026101547451",
-  "https://www.ceoscoredaily.com/page/view/2026101512444846679",
-  "http://www.inews24.com/view/2015552",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553616903",
   "http://www.newsprime.co.kr/news/article.html?no=751164",
   "https://www.mt.co.kr/industry/2026/10/15/2026101514104825515",
@@ -2999,15 +2993,15 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3723605",
   "https://www.gukjenews.com/news/articleView.html?idxno=3723621",
   "https://www.gukjenews.com/news/articleView.html?idxno=3723607",
-  "https://www.naeil.com/news/read/605326"
+  "https://www.naeil.com/news/read/605326",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3723601",
+  "https://www.edaily.co.kr/News/Read?newsId=03591606645613576&mediaCodeNo=257",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3723596",
+  "https://www.itbiznews.com/news/articleView.html?idxno=228157",
+  "https://news.tf.co.kr/read/economy/2377097.htm",
+  "https://www.news1.kr/politics/assembly/6322411"
  ],
  "seen_titles": [
-  "전남광주,반도체클러스터63만평우선개발로조기착공지원",
-  "안전보건공단·KT,원하청안전격차해소맞손",
-  "오픈AI공동창업자\"AI능력체감격차확대…사용경험따라평가갈려...",
-  "AI해킹잡은금보원,주역은'2030화이트해커'",
-  "통신넘어공장·물류까지…통신3사,‘피지컬AI’영토확장",
-  "스타링크,국내상륙1년도안돼해상요금53%인상",
   "두산희망날린루킹삼진,이선수대타카드는어땠을까…'PS통산타율...",
   "[현장]입맛에'훅',매콤한'펀치'…노브랜드버거의승부수",
   "메모리가격4분기에더오른다…거침없는K메모리호실적",
@@ -6001,7 +5995,13 @@
   "김용판달서구청장,지역·외국인주민함께하는'와룡민속한마당'17일...",
   "윤종덕대전중부경찰서장취임\"주민안전최우선,현장중심치안\"",
   "김용판달서구청장,골목상권13곳새로지정...온누리상품권등편의성...",
-  "AI빚경고…기업부도보험료최고"
+  "AI빚경고…기업부도보험료최고",
+  "[포토]대구시달서구청,\"통합돌봄이제걱정마세요\"",
+  "국힘\"양향자불참…재투표않기로\"…용인갑조직위원장에윤재복",
+  "[포토]김용판달서구청장,탄소중립실천확산목표...전문가강의진...",
+  "엑시나,'OCP글로벌서밋'서CXL기반AI메모리성능시연",
+  "금융권해킹에소비자긴장…잠자는휴면카드1767만장괜찮나",
+  "[국감초점]野,기노위국감서'이재용·최태원'증인요구…與\"송구\""
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,13 @@
   [
    "2026-10-16T13:00:45.529588+09:00",
    "최고 부도보험료 기업 경고"
+  ],
+  [
+   "2026-10-16T13:02:15.630588+09:00",
+   "기노위 요구 이재용 증인 국감서 송구"
   ]
  ],
- "last_run": "2026-10-16T13:01:02.693810+09:00",
+ "last_run": "2026-10-16T13:02:35.001233+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
