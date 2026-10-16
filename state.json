@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.koreastocknews.com/news/articleView.html?idxno=121702",
-  "https://www.newstnt.com/news/articleView.html?idxno=722441",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449083",
-  "https://www.m-i.kr/news/articleView.html?idxno=2004823",
-  "https://www.hankyung.com/article/2026101253981",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360461",
-  "https://news.skbroadband.com/news/articleView.html?idxno=239925",
   "http://www.weeklytoday.com/news/articleView.html?idxno=797652",
   "https://news.skbroadband.com/news/articleView.html?idxno=239918",
   "https://news.dealsitetv.com/articles/176815",
@@ -2999,15 +2992,16 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=873552",
   "https://www.dailysecu.com/news/articleView.html?idxno=208912",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=816154",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=280919"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=280919",
+  "https://byline.network/?p=9004111222623571",
+  "https://www.sentv.co.kr/article/view/sentv202610160171",
+  "https://www.edaily.co.kr/News/Read?newsId=04191846645613576&mediaCodeNo=257",
+  "https://www.newsis.com/view/NISX20261016_0003829263",
+  "https://www.decenter.kr/article/20102545",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610141433335760101577",
+  "https://www.sedaily.com/article/20102545"
  ],
  "seen_titles": [
-  "김우영,방발기금징수율재검토촉구",
-  "평택시의회,8300여명참가한평택항마라톤대회참석...생활체육확대...",
-  "SK그룹인사시계빨라진다,하이닉스곽노정·이노베이션장용호부회...",
-  "'2026평택항마라톤대회'참가자·봉사자9000여명참여",
-  "AITV에\"뭐볼까\"…습관처럼묻는시청자늘었다",
-  "통신3사,AIDC로성장돌파구…같은목표,다른전략",
   "취임100일최동민동대문구청장…GTX-C변전소엔\"원안수용불가\"",
   "[위클리오늘]평택시,감사부서주관'지방보조금담당공무원실무교육...",
   "평택항마라톤1만여명참가…가을바다달려",
@@ -6001,7 +5995,13 @@
   "KT,소상공인매장운영에AI접목…월9900원'래디오비즈'출시",
   "오픈AI,국내CISO대상사이버방어전략공유…\"실제위험감소가핵심...",
   "[데스크칼럼]갑질과거짓말로얼룩진'국민의KT'",
-  "LG유플러스,에지AI로'와이파이이상'징후분석한다…불편사전대응"
+  "LG유플러스,에지AI로'와이파이이상'징후분석한다…불편사전대응",
+  "제논,AI에이전트통합포털‘제나(GenA)’정식출시",
+  "오픈AI,국내기업보안임원60명초청…AI사이버방어전략공유",
+  "\"AI가해킹도막는다\"…오픈AI,韓기업에사이버방어전략제시",
+  "젠슨황낙관론에코어위브6%반등…채권시장불안은여전",
+  "코인업계도비상...글로벌해킹피해55%급증",
+  "[더벨][신규ETF리뷰|1Q엔비디아고정미국AI반도체]하나운용,AI반도..."
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,25 @@
   [
    "2026-10-16T15:18:16.917887+09:00",
    "사전 대응 LG유플러스 불편 에지 징후 분석한다 ~LGU 이상 AI로 와이파이"
+  ],
+  [
+   "2026-10-16T15:20:28.844952+09:00",
+   "AI가 전략 사이버방어 해킹도 기업에 제시 막는다"
+  ],
+  [
+   "2026-10-16T15:20:28.844952+09:00",
+   "AI반도 하나운용"
+  ],
+  [
+   "2026-10-16T15:20:28.844952+09:00",
+   "코어위브 채권시장 낙관론에 불안은 여전 반등 젠슨"
+  ],
+  [
+   "2026-10-16T15:20:28.844952+09:00",
+   "피해 급증 글로벌 코인 업계도 비상"
   ]
  ],
- "last_run": "2026-10-16T15:18:37.559100+09:00",
+ "last_run": "2026-10-16T15:20:59.099625+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
