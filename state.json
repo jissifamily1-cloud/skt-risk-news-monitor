@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267808",
-  "https://www.aitimes.com/news/articleView.html?idxno=216300",
-  "https://www.mt.co.kr/tech/2026/10/15/2026101514232292372",
-  "https://www.sentv.co.kr/article/view/sentv202610150169",
-  "https://www.newsway.co.kr/news/view?ud=2026101511203586281",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1415235",
-  "http://www.nongaek.com/news/articleView.html?idxno=97138",
-  "https://www.ddaily.co.kr/page/view/2026101512100802445",
-  "https://www.news1.kr/bio/pharmaceutical-bio/6321334",
-  "https://www.news1.kr/world/international-economy/6321332",
-  "https://sateconomy.co.kr/news/view/1065592439414700",
   "https://www.boannews.com/news/articleView.html?idxno=146376",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=256538",
   "https://www.fnnews.com/news/202610151417174719",
@@ -2999,20 +2988,20 @@
   "http://www.dailysmart.co.kr/news/articleView.html?idxno=131093",
   "https://www.news1.kr/it-science/cc-newmedia/6322089",
   "http://www.inews24.com/view/2015695",
-  "https://www.thepublic.kr/news/articleView.html?idxno=322473"
+  "https://www.thepublic.kr/news/articleView.html?idxno=322473",
+  "https://www.itbiznews.com/news/articleView.html?idxno=228144",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480901",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54416",
+  "https://www.etoday.co.kr/news/view/2636306",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81773",
+  "http://www.press9.kr/news/articleView.html?idxno=84375",
+  "https://thetracker.co.kr/View.aspx?No=4266127",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=302817",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439579",
+  "https://www.sedaily.com/article/20102341",
+  "https://www.sedaily.com/article/20102337"
  ],
  "seen_titles": [
-  "현대모비스,중국서'피지컬AI·로보틱스'협력파트너발굴나선다",
-  "30만달러사후학습으로'페이블5'넘었다…'울트라마린1플래시'공개",
-  "\"번호판인식하니차량이상징후한눈에\"…KTAX혁신성과보니",
-  "오픈AI,22일서울서개발자행사개최…AI기술·활용사례공유",
-  "美50%비싼SK하이닉스…ADR프리미엄언제까지[stock&톡]",
-  "[데스크칼럼]SK하이닉스의솔리다임상장,최태원회장의비전",
-  "다시불붙은솔리다임'중복상장'논란…이해관계자득실은?",
-  "국감으로번진'韓인터넷속도22위'논란…노후화실태전수조사촉구",
-  "기관데이터공유없이AI로신약개발…K-멜로디1단계성과공개",
-  "TSMC,6개분기연속순익신기록…AI거품우려에도69%급증",
-  "LG유플러스홍범식,23일국감증인채택…KISA조사지연도쟁점",
   "직원계정하나로...메타,깃허브해킹으로약1500명개인정보유출",
   "\"하이닉스가뭐길래\"…호남기업주가는웃고SK그룹은운다",
   "\"보안감독실효성도마위\"…19일금감원국감,해킹사태집중질타전...",
@@ -6001,7 +5990,18 @@
   "LG유플러스,유럽통신전시회서AI기반와이파이기술공개",
   "KT,AI가매장음악자동선곡...소상공인전용'래디오비즈'선봬",
   "코스피,美물가악재딛고'강세'반등⋯'5680선'회복",
-  "AI투자우려속국채금리급락에반등한뉴욕증시...다우1.08%↑"
+  "AI투자우려속국채금리급락에반등한뉴욕증시...다우1.08%↑",
+  "기아,판교서원격운전카셰어링시범서비스…연말까지실증",
+  "트리니티항공,기내콘텐츠강화···웨이브·밀리의서재와제휴",
+  "JP모건,외부AI의계좌접근차단…\"통제벗어난AI에이전트는안돼\"",
+  "핑바,중기부‘팁스(TIPS)’최종선정…창작생산성혁신할딥테크A...",
+  "은행권정보보안투자'온도차'...KB최다,신한·우리감소",
+  "SKT,아이폰듀오사전예약시작…구독권·중고폰보상혜택",
+  "LG유플러스,AI로와이파이장애잡는다…공유기자체복구기술개발",
+  "매장음악고르고안내방송까지…KT,월9900원AI서비스출시",
+  "[신윤우의외환분석]남아있는부담감과약간의기대감",
+  "KT,마이케이티AI앱으로개편…일주일만에이용자대화수6배",
+  "국내주식비중29.1%한도초과…국민연금,추가매수여력막혔다"
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,21 @@
   [
    "2026-10-16T09:58:18.957255+09:00",
    "신화까지 젠슨 황의 청소부에서 드라 역전 황제 화장실 사기꾼들"
+  ],
+  [
+   "2026-10-16T10:02:18.698836+09:00",
+   "이용자 마이케이티 개편 6배 일주일 만에 ~KT 대화수 앱으로"
+  ],
+  [
+   "2026-10-16T10:02:18.698836+09:00",
+   "있는 기대감 약간의 부담감과 남아"
+  ],
+  [
+   "2026-10-16T10:02:18.698836+09:00",
+   "한도 국민연금 추가 국내 초과 여력 막혔다 매수 비중 주식"
   ]
  ],
- "last_run": "2026-10-16T10:00:55.466516+09:00",
+ "last_run": "2026-10-16T10:02:41.180157+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
