@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/421769",
-  "https://www.edaily.co.kr/News/Read?newsId=02820806645612592&mediaCodeNo=257",
-  "https://www.nocutnews.co.kr/news/6587326",
-  "https://www.segye.com/newsView/20261006502980?OutUrl=naver",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145276",
   "https://www.ytn.co.kr/_ln/0103_202610060719542617",
   "https://www.yeongnam.com/web/view.php?key=20261005023162448",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/04/2026100490106.html",
@@ -2999,14 +2994,14 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=279033",
   "https://www.nytimes.com/2026/10/16/briefing/handcuffs-in-schools.html?partner=naver",
   "https://it.donga.com/109718/",
-  "https://www.newsway.co.kr/news/view?ud=2026101619381857013"
+  "https://www.newsway.co.kr/news/view?ud=2026101619381857013",
+  "https://www.donga.com/news/Economy/article/all/20261016/134857325/2",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172207",
+  "http://www.technoa.co.kr/news/articleView.html?idxno=101522",
+  "http://www.4th.kr/news/articleView.html?idxno=2119919",
+  "https://news.jtbc.co.kr/article/NB12323392?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "앤스로픽,호주1.44GW데이터센터1단계임대계약",
-  "NTT데이터그룹,앤스로픽오사카데이터센터협의보도",
-  "우리집TV·냉장고·로봇청소기가혹시?…\"AI해킹거점될수도\"",
-  "김승주\"AI은행해킹,본격공격아닌맛보기일수도\"[금융치료]",
-  "11월‘엔트로픽’IPO…‘코스피·삼전닉스’반등계기될까",
   "前앤트로픽연구원\"인류가AI통제권잃을가능성커\"",
   "5대은행뚫렸다...금융권서현실화한AI해킹[스타트경제]",
   "[사설]‘피지컬AI챌린지2026’대구개최가던지는의미",
@@ -6001,7 +5996,12 @@
   "최태원회장\"한일3000억달러에너지시장통합해비용10%절감하자\"",
   "HandcuffsinSchools",
   "글로벌AI인프라시장의중심지로떠오른OCP,자리를빛낸한국기업들...",
-  "OK저축은행,고객268명금융정보추가유출확인"
+  "OK저축은행,고객268명금융정보추가유출확인",
+  "기아,판교서PV5원격운전카셰어링실증",
+  "문샷·딥시크글로벌진출발목잡히나…中,AI기술통제강화",
+  "스마일샤크,AWS데이터컴피턴시애널리틱스획득",
+  "[연쇄해킹]OK저축은행,고객정보268명추가유출…대출이어예금정보...",
+  "[단독]\"5초만에서울→중국으로\"…해킹범'한국직장근무'흔적"
  ],
  "recent_sigs": [
   [
@@ -6531,9 +6531,13 @@
   [
    "2026-10-16T19:42:16.131238+09:00",
    "언제 떨어질 개인들 피눈물 폭락 본전은 찾나요"
+  ],
+  [
+   "2026-10-16T19:48:15.051392+09:00",
+   "중국으로 흔적 해킹범 한국 5초 직장 서울 근무 만에"
   ]
  ],
- "last_run": "2026-10-16T19:46:36.992473+09:00",
+ "last_run": "2026-10-16T19:48:36.289170+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
