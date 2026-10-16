@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20261011500045",
-  "https://www.etnews.com/20261008000117",
-  "https://www.etnews.com/20261011000070",
-  "https://www.joongang.co.kr/article/25466789",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704805",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704568",
-  "https://www.sciencetimes.co.kr/news/sn/262469",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704506",
   "https://zdnet.co.kr/view/?no=20261001151648",
   "http://www.newstown.co.kr/news/articleView.html?idxno=717434",
@@ -2999,16 +2992,16 @@
   "https://www.hidomin.com/news/articleView.html?idxno=725186",
   "https://news.tf.co.kr/read/economy/2377367.htm",
   "https://www.yna.co.kr/view/AKR20261016153800002?input=1195m",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072678"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072678",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61490",
+  "https://www.tokenpost.kr/news/ai/423317",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65912",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449580",
+  "https://www.meconomynews.com/news/articleView.html?idxno=202613",
+  "https://www.aitimes.com/news/articleView.html?idxno=216349",
+  "https://star.ytn.co.kr/_sn/0117_202610161732507361"
  ],
  "seen_titles": [
-  "AI불안커지는미국…저커버그·머스크·올트먼다룬영화잇따라개...",
-  "[힘내라K산업]④동분서주이재용…발로뛰는'글로벌세일즈맨'",
-  "“회의참석부터계약승인까지”…월드,인간증명쓰임넓힌다",
-  "앤트로픽,AI모욕하면대화종료한다…이용정책개정",
-  "내편엔관대,네편은검열…진영의무기된표현의자유",
-  "'제브'뜨니판단·결정AI모델단숨에격전지로..유력기업들대거가...",
-  "[디투피플]캡차·기존KYC한계,홍채기반'월드'ID가AI시대진정한...",
   "‘육아+러닝’유아차런이대세…몸에는괜찮을까",
   "소프트뱅크,오픈AI에100억달러추가출자…지분13%",
   "[SW키트]구글·오픈AI·앤트로픽,신모델안전확보제각각…\"검증한계...",
@@ -6001,13 +5994,16 @@
   "7거래일폭락끝에코스피반등…외국인돌아오고코스닥매수사이드카",
   "OK저축은행,해킹추가피해확인…수신고객268명정보유출",
   "OK저축은행서'또해킹'고객268명정보추가유출",
-  "[2026국감]과방위,'이진숙제척'공방에결국정회"
+  "[2026국감]과방위,'이진숙제척'공방에결국정회",
+  "[ICT종합]네이버페이및소니코리아소식외",
+  "스페이스XAI책임자,뉴욕시의회청문회증언한다",
+  "레드포스PC방,대구칠곡2호점문열었다…\"프리미엄PC방창업의진수...",
+  "대만경제부장관\"중국에AI반도체수출통제강화,미국과동일하게...",
+  "은행장'성과급환수'법제화?...명분제공한신한은행정보유출",
+  "[게시판]KT,AI기반매장음악서비스'래디오비즈'출시등단신",
+  "'돈쭐청문회'남보라,엔비디아300%수익내고도아쉬운이유?"
  ],
  "recent_sigs": [
-  [
-   "2026-10-16T11:34:18.051346+09:00",
-   "제주항공 유출 여권정보 지지부진 조사 해킹범도 못잡아 지적"
-  ],
   [
    "2026-10-16T11:42:16.008177+09:00",
    "미리 속도 전에 인터넷 생기기 LG유플러스의 알아챈다 ~LGU AI는 유럽 불만"
@@ -6571,9 +6567,13 @@
   [
    "2026-10-16T17:30:34.180806+09:00",
    "승진 부회장 두산 에너빌리티 나란히 전면에 지주 CFO 재무통"
+  ],
+  [
+   "2026-10-16T17:36:16.828332+09:00",
+   "남보라 돈쭐청문회 내고도 수익 이유 아쉬운"
   ]
  ],
- "last_run": "2026-10-16T17:34:35.571005+09:00",
+ "last_run": "2026-10-16T17:36:34.584507+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
