@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02768326645613576&mediaCodeNo=257",
-  "https://www.news1.kr/industry/general-industry/6322028",
-  "http://www.econonews.co.kr/news/articleView.html?idxno=445804",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078801",
-  "https://www.aitimes.com/news/articleView.html?idxno=216112",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705934",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705810",
   "https://www.aitimes.com/news/articleView.html?idxno=216035",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705525",
@@ -2999,15 +2993,15 @@
   "https://www.pressian.com/pages/articles/2026101617111694963",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193346",
   "https://www.tokenpost.kr/news/cryptocurrency/423560",
-  "https://www.newsverse.kr/news/articleView.html?idxno=11695"
+  "https://www.newsverse.kr/news/articleView.html?idxno=11695",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6941627",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172151",
+  "https://www.news1.kr/industry/sb-founded/6321593",
+  "https://view.asiae.co.kr/article/2026101615393950141",
+  "https://www.etoday.co.kr/news/view/2636883",
+  "https://www.goodkyung.com/news/articleView.html?idxno=292481"
  ],
  "seen_titles": [
-  "기아,판교서PV5원격운전카셰어링시범서비스",
-  "교육감협,지방교육재정개편·교원보호·'야차룰'대응논의",
-  "빗썸,개인정보유출악용2차사기예방캠페인전개",
-  "KB국민은행,정보보호예산1위...신한·우리전년대비대폭감소",
-  "아이폰첫폴더블'듀오'사전예약시작…이통사중혜택이가장좋은...",
-  "홍지선국토장관,광주군공항방문…“호남권반도체산단,유례없는...",
   "전남광주특별시,‘서남권반도체메가클러스터’조성속도전…2030년...",
   "KT,아이폰듀오사전예약시작…제휴혜택·출시일배송지원",
   "접는아이폰예약시작…KT,에어팟할인·출시일배송내건다",
@@ -6001,7 +5995,13 @@
   "보이스피싱예방앱'시티즌코난',개발사\"자체비용개발\"해명에국비...",
   "[AI프리즘]AI반도체수요폭증…기업들인맥활용등TSMC생산능력확...",
   "프랑스가상자산범죄90건…내무부올해첫집계",
-  "[오늘의경제뉴스]\"AI서버열을식혀라\"…삼성·LG,데이터센터냉각시..."
+  "[오늘의경제뉴스]\"AI서버열을식혀라\"…삼성·LG,데이터센터냉각시...",
+  "122타석의악몽딛고45홈런…김도영,다시쓴역사[스한위클리]",
+  "통신비는비싸고망투자는줄고…정부통신정책비판확산",
+  "\"각살리고군더더기뺐다\"…쿠쿠,주방선반가전삼총사[강추아이템...",
+  "[AI세계속으로]매출늘어도불안한AI…상장앞둔두거인,수익성시험...",
+  "뉴욕증시,AI주매도세ㆍ유가급등에하락⋯나스닥2.15%↓[상보]",
+  "오픈AI,'챗GPT보이스'업데이트…구글,'제미나이4아르곤'일반공개"
  ],
  "recent_sigs": [
   [
@@ -6111,9 +6111,21 @@
   [
    "2026-10-17T06:16:15.908824+09:00",
    "찬사 머스크 잘했어 앙숙 올트먼도"
+  ],
+  [
+   "2026-10-17T06:32:14.220678+09:00",
+   "통신정책 비싸고 통신비는 비판 정부 투자는 줄고 확산"
+  ],
+  [
+   "2026-10-17T06:32:14.220678+09:00",
+   "일반 챗GPT 아르곤 제미나이 구글 공개 업데이트 보이스"
+  ],
+  [
+   "2026-10-17T06:32:14.220678+09:00",
+   "상장 거인 늘어도 수익성 매출 불안한 시험 앞둔"
   ]
  ],
- "last_run": "2026-10-17T06:30:49.657708+09:00",
+ "last_run": "2026-10-17T06:32:40.646646+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
