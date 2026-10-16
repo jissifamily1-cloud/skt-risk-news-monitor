@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3722751",
-  "http://www.srtimes.kr/news/articleView.html?idxno=214906",
-  "https://zdnet.co.kr/view/?no=20261015170836",
-  "https://www.hankookilbo.com/news/article/A2026101516180001691?did=NA",
-  "http://www.press9.kr/news/articleView.html?idxno=84336",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1415352",
-  "https://www.fnnews.com/news/202610151550548769",
-  "http://www.inews24.com/view/2015521",
-  "https://www.m-i.kr/news/articleView.html?idxno=2006534",
   "https://www.newspim.com/news/view/20261015001211",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495687",
   "https://www.dailian.co.kr/news/view/1702092/?sc=Naver",
@@ -2999,18 +2990,18 @@
   "https://www.etnews.com/20261016000151",
   "https://www.yna.co.kr/view/AKR20261016059451091?input=1195m",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=360757",
-  "https://www.newsis.com/view/NISX20261016_0003828888"
+  "https://www.newsis.com/view/NISX20261016_0003828888",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=267853",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3723564",
+  "https://www.pressman.kr/news/articleView.html?idxno=104039",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261016115825v4p",
+  "https://www.mt.co.kr/tech/2026/10/15/2026101516350692770",
+  "https://www.news2day.co.kr/article/20261016500143",
+  "https://www.ajunews.com/view/20261016115416605",
+  "https://www.fnnews.com/news/202610161036491108",
+  "https://www.munhwa.com/article/11624036"
  ],
  "seen_titles": [
-  "[인사]세종특별자치시교육청,신임감사관에유강재서기관임용",
-  "[2026국감]\"인터넷강국이라더니\"…韓,IPv6이용률고작29%",
-  "\"AI방어체계상시구축해야\"...티오리,'아르텍스’심층분석백서...",
-  "이소영중기부장관\"2030년까지국가대표기업1500개육성\"",
-  "삼성자산운용,'KODEX미국나스닥100'ETF…순자산10조원돌파",
-  "'검은목요일'7%대급락...코스피,6개월만에종가5500선",
-  "\"올것이왔다\"...5500까지떨어진코스피[fn마감시황]",
-  "[2026국감]이연희“사이버안보패스트트랙추진해야”",
-  "광주군공항반도체국가산단조성속도…국토부장관현장점검",
   "홍지선국토부장관,광주군공항방문\"반도체산단적기제공\"",
   "KT,산업안전보건공단과맞손…통신업종사자·협력사안전관리강화",
   "방미통위,KBS·방문진·EBS이사6명인사의결",
@@ -6001,7 +5992,16 @@
   "업종따라AI가매장음악선곡,KT'래디오비즈'부가서비스출시",
   "차량5대뛰어넘어착지…테슬라,하늘나는스포츠카시연성공(종합)",
   "[뉴욕증시]국채금리하락에3대지수일제히상승마감",
-  "금융권연쇄해킹에CEO보안책임강화추진…국회입법논의주목"
+  "금융권연쇄해킹에CEO보안책임강화추진…국회입법논의주목",
+  "LGU+,AI기반'차세대와이파이'기술글로벌전시회서공개",
+  "창원시,위기상황에맞는복지서비스로시민일상지킨다",
+  "타임·레드닷·서울디자인어워드…국내기업제품의수상소식",
+  "코스피,저가매수에3%대반등…코스닥도강세",
+  "KBS·방문진·EBS이사임명제청·임명및EBS감사임명의결",
+  "[재계인사이드]“어쩌면마지막...”SK하이닉스의‘특별한가을’",
+  "[食전食후]코스피5730선회복…삼전·닉스반등에3%대급등",
+  "\"여권없이오간다\"최태원'한일경제공동체'日도주목",
+  "국회타깃해킹시도1만건돌파…역대최대치"
  ],
  "recent_sigs": [
   [
@@ -6783,9 +6783,21 @@
   [
    "2026-10-16T11:58:15.234489+09:00",
    "차량 성공 하늘 5대 테슬라 시연 나는 스포츠카 착지 뛰어넘어"
+  ],
+  [
+   "2026-10-16T12:00:43.432905+09:00",
+   "SK하이닉스의 마지막 가을 어쩌면 특별한"
+  ],
+  [
+   "2026-10-16T12:00:43.432905+09:00",
+   "없이 주목 여권 오간다 경제공동체 한일"
+  ],
+  [
+   "2026-10-16T12:00:43.432905+09:00",
+   "해킹시도 역대 타깃 최대치 돌파 1만건 국회"
   ]
  ],
- "last_run": "2026-10-16T11:58:37.836843+09:00",
+ "last_run": "2026-10-16T12:01:09.527550+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
