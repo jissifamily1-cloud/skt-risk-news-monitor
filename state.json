@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261015_0003826976",
-  "https://www.lawissue.co.kr/view.php?ud=20261016102343607467191f6c6e_12",
   "https://www.jasm.co.kr/news/view/321786/?sc=Naver",
   "https://www.gukjenews.com/news/articleView.html?idxno=3723350",
   "https://zdnet.co.kr/view/?no=20261016084716",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/sports/baseball/6323331",
   "https://www.gametoc.co.kr/news/articleView.html?idxno=112296",
   "https://www.wikitree.co.kr/articles/1166281",
-  "https://biz.heraldcorp.com/article/10905544"
+  "https://biz.heraldcorp.com/article/10905544",
+  "https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html?partner=naver",
+  "http://wemakenews.co.kr/news/view.php?no=26576"
  ],
  "seen_titles": [
-  "카카오정신아,'오픈톡'통해임직원소통…\"새로운출발준비\"",
-  "카카오,내년1월인적분할앞두고임직원과오픈톡\"전직원고용·복지...",
   "엔젤로보틱스,창업자공경철대표복귀…피지컬AI집중",
   "코스피,급락딛고2%대반등…코스닥3%강세",
   "고려대,경영학과교우로부터20억원기부받아…장학·창업지원",
@@ -6001,7 +5999,9 @@
   "'ERA2위'KIA올러vs'다승왕'LG임찬규,준PO2차전선발대결",
   "엔비디아,서울코엑스서'RTX스파크'출시",
   "한국이어쩌다가...9년만에1위→22위로추락한'이순위'",
-  "AI해킹도구‘아르텍스’돌아오는데…금융권보안‘경고등’"
+  "AI해킹도구‘아르텍스’돌아오는데…금융권보안‘경고등’",
+  "WeakLinksStarttoShowinA.I.Borrowing",
+  "OK저축은행보안망구멍…해킹알고도또뚫렸다"
  ],
  "recent_sigs": [
   [
@@ -6107,9 +6107,13 @@
   [
    "2026-10-17T18:02:14.068601+09:00",
    "보안 해킹도구 경고등 돌아오는데 금융권 아르텍스"
+  ],
+  [
+   "2026-10-17T18:04:13.890123+09:00",
+   "알고도 구멍 보안망 뚫렸다 OK저축은행"
   ]
  ],
- "last_run": "2026-10-17T18:02:37.618332+09:00",
+ "last_run": "2026-10-17T18:04:35.598092+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
