@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisacast.kr/news/articleView.html?idxno=101034",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728095",
   "https://www.newsis.com/view/NISX20261016_0003828497",
   "https://www.delighti.co.kr/news/articleView.html?idxno=123343",
@@ -2999,10 +2998,10 @@
   "https://www.segye.com/newsView/20261017505140?OutUrl=naver",
   "https://www.kbsm.net/news/view.php?idx=537923",
   "https://www.news1.kr/sports/baseball/6323382",
-  "http://coinreaders.com/263730"
+  "http://coinreaders.com/263730",
+  "https://news.jtbc.co.kr/article/NB12323485?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "코스피저가매수세유입장중1%대올라5640선회복,코스닥도2%대상...",
   "LG유플러스,네트워크X서AI와이파이공개...장애예측·자동복구",
   "\"2030년매출1조\"…LG유플러스,파주AIDC'착착'",
   "애플아이폰듀오사전예약·출시일·가격정리",
@@ -6001,7 +6000,8 @@
   "호남반도체부지장관들잇단방문…의구심잠재우기?[이슈플러스]",
   "경산시,AI시대청년정착해법모색…‘NEXTDIALOGUE’개최",
   "LG임찬규,장모상아픔딛고18일준PO2차전선발등판강행",
-  "리플(XRP)2달러회복정말어려워졌나?AI가제시한10월말도달확률..."
+  "리플(XRP)2달러회복정말어려워졌나?AI가제시한10월말도달확률...",
+  "[단독]단속비웃듯버티던'패륜사이트'…JTBC보도뒤운영진잠적"
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-10-17T19:48:13.730074+09:00",
    "잇단 방문 의구심 부지 반도체 호남 재우기 장관들"
+  ],
+  [
+   "2026-10-17T20:08:16.383476+09:00",
+   "비웃듯 버티던 패륜사이트 잠적 운영진 단속 보도 JTBC"
   ]
  ],
- "last_run": "2026-10-17T20:06:30.332936+09:00",
+ "last_run": "2026-10-17T20:08:38.021676+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
