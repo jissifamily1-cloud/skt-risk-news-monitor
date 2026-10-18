@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261015001327",
-  "https://www.edaily.co.kr/News/Read?newsId=06317286645613248&mediaCodeNo=257",
-  "https://www.hankyung.com/article/202610154978i",
-  "https://www.tokenpost.kr/news/breaking/422854",
-  "https://view.asiae.co.kr/article/2026101518362867694",
-  "https://www.fnnews.com/news/202610151818169515",
-  "https://www.joongdo.co.kr/web/view.php?key=20261015010004088",
-  "https://www.edaily.co.kr/News/Read?newsId=04227926645613248&mediaCodeNo=257",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150084&t=NNv",
-  "https://www.naeil.com/news/read/605194",
   "https://www.tokenpost.kr/news/ai/422660",
   "https://www.tokenpost.kr/news/ai/422647",
   "https://www.hankyung.com/article/202610153352i",
@@ -2999,19 +2989,19 @@
   "http://www.newsian.co.kr/news/articleView.html?idxno=97288",
   "http://www.newsprime.co.kr/news/article.html?no=751376",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496322",
-  "https://www.insight.co.kr/news/578198"
+  "https://www.insight.co.kr/news/578198",
+  "https://www.xportsnews.com/article/2208910",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=65981",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1415915",
+  "https://view.asiae.co.kr/article/2026101908371838178",
+  "http://www.paxetv.com/news/articleView.html?idxno=284426",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073049",
+  "https://www.etoday.co.kr/news/view/2637137",
+  "https://www.edaily.co.kr/News/Read?newsId=02240246645614560&mediaCodeNo=257",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1415924",
+  "https://www.klnews.co.kr/news/articleView.html?idxno=323118"
  ],
  "seen_titles": [
-  "“中시장선CXMT신기술특별할게없다고봐”",
-  "[마켓인사이드]SK하이닉스늪에빠진글로벌반도체시장",
-  "[AIMY뉴스]뉴욕반도체주프리뷰...TSMC호실적도못막은AI주매도세",
-  "[미리보는이데일리신문]삼닉쏠림부메랑…美더블펀치,韓가장세게...",
-  "앤스로픽3분기매출45%성장에첫흑자…월가는시큰둥",
-  "FTC,오픈AI·앤스로픽에소비자안전자료소환장",
-  "블루포인트,데모데이개최…\"기술이남긴문제,기술이해결해야\"",
-  "‘검은목요일’…코스피7%이상빠졌다[바닥없는코스피]",
-  "[사설]AI에서대전경제성장전략찾았다",
-  "“여기가바닥?”삼전닉스물탄개미들…먼저탈출한외국인은30%대박",
   "머스크도경악한재무부실…AI회의론겹친기술주탈출[딥시그널]",
   "앤스로픽,매출45%급증…2분기연속흑자",
   "앤스로픽,클로드작업추적기능공개베타",
@@ -6001,7 +5991,17 @@
   "유통업임원1명당직원320명…100대기업평균의2.7배",
   "제이엘케이,의료특화멀티모달LLM'핵심특허'확보…\"차세대의료A...",
   "SK브로드밴드,가을맞아여행·미식·시니어예능3편선봬",
-  "최태원\"20대로돌아가면무조건창업...반도체는아닐것\"왜?"
+  "최태원\"20대로돌아가면무조건창업...반도체는아닐것\"왜?",
+  "'연애박사'추영우x김소현,키스두번에도연애는아직인가…김민석까...",
+  "국내100大기업임원109명증가…SK하이닉스늘고현대차·LG전자줄어",
+  "경산시,'NEXTDIALOGUE'로청년유치·정착해법모색",
+  "배달도AI시대…배차부터도착시간까지'정확도'경쟁",
+  "씨이랩,건설현장안전관리사업에디지털트윈접목…\"XAIVA적용확대\"",
+  "오늘수도권공소청·경기도등국감…추미애'소방빨대'여진계속",
+  "할리스,멤버십개인정보유출…“비밀번호즉시변경해야”",
+  "SK브로드밴드,여행·음식·시니어예능3편선보인다",
+  "최태원SK회장\"실패두려워하지않는자세중요해질것\"",
+  "뷰런테크놀로지-KT,3D라이다·정밀측위연계'스마트도로관리'MOU"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-10-19T08:32:15.938124+09:00",
    "기반 기업 금융 대응 유출 10만 보안 강화 정부와 정보"
+  ],
+  [
+   "2026-10-19T08:40:24.269823+09:00",
+   "MOU ~KT 도로 정밀측위 뷰런테크놀로지 연계 스마트 관리 라이다 3D"
   ]
  ],
- "last_run": "2026-10-19T08:38:36.030491+09:00",
+ "last_run": "2026-10-19T08:40:42.999076+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
