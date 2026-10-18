@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/112782",
-  "https://www.lawissue.co.kr/view.php?ud=202610161457519388f4ab64559d_12",
-  "https://www.ajunews.com/view/20261016145752016",
-  "https://www.thelec.kr/news/articleView.html?idxno=63820",
-  "https://www.tokenpost.kr/news/ai/422895",
-  "https://www.mydaily.co.kr/page/view/2026101614134851996",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707491",
   "https://www.busan.com/view/busan/view.php?code=2026101520352909134",
   "https://www.yna.co.kr/view/AKR20261016112400017?input=1195m",
   "https://biz.heraldcorp.com/article/10905023",
@@ -2999,16 +2992,16 @@
   "https://www.kukinews.com/article/view/kuk202610180009",
   "https://www.newsway.co.kr/news/view?ud=2026101810284456553",
   "http://www.newstomato.com/ReadNews.aspx?no=1316966&inflow=N",
-  "https://www.imaeil.com/page/view/2026101220411090074"
+  "https://www.imaeil.com/page/view/2026101220411090074",
+  "https://news.jtbc.co.kr/article/NB12323534?influxDiv=NAVER",
+  "http://www.press9.kr/news/articleView.html?idxno=84427",
+  "https://www.mt.co.kr/industry/2026/10/18/2026101809502713033",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/18/2026101890011.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/18/2026101890013.html",
+  "https://www.ajunews.com/view/20261018100249297",
+  "https://zdnet.co.kr/view/?no=20261018103626"
  ],
  "seen_titles": [
-  "신한라이프보험영업현장'AI에이전트'고도화,\"설계사업무돕는파...",
-  "탄자니아팀,기후위기대응AI국제공모전우승",
-  "\"AI비서가고객대신쇼핑\"…NH농협카드,'차세대쇼핑·결제기술PoC'...",
-  "美FTC,오픈AI·앤트로픽보안사고조사착수…경영진소환도추진",
-  "미국FTC,오픈AI·앤트로픽에보안사고관련자료제출요구…경영진...",
-  "美FTC'해킹논란'오픈AI·앤트로픽조사…경영진소환",
-  "신진창신임금융위부위원장…가계부채·금융산업두루거친정책통",
   "[무사고의착각]④보안교육내부는늘고,외부는줄고IBK기업銀엇박자",
   "해킹엔조사,상장엔경고…AI질주잇단제동",
   "엔비디아TSMC독점확인…삼성파운드리활로는",
@@ -6001,7 +5994,14 @@
   "‘정태순호’흔드는한국기원의무능[데스크창]",
   "금감원,'2차해킹'OK저축은행현장점검…업권간담회도추진",
   "미8개주무더기소송에상장중단요구…AI질주잇단제동",
-  "[매일탑리더스아카데미]최태용씨투렙기술위원\"사이버보안,이제..."
+  "[매일탑리더스아카데미]최태용씨투렙기술위원\"사이버보안,이제...",
+  "최태원\"AI시대엔대학졸업장보다문제해결경험중요\"",
+  "최태원\"20대라면사회문제해결에창업도전\"…AI시대청년역량강조",
+  "최태원\"20대돌아가면무조건창업..대학보다문제해결능력중요\"",
+  "최태원\"20대로돌아가면무조건창업…AI가못하는일찾아야\"",
+  "순직소방관이름달고달렸다…LG유플러스,119추모행사개최",
+  "짧은명령어하나에내부망침투까지...AI자율해킹현실화",
+  "최태원이청년에게…\"AI가할수없는일해야\""
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,17 @@
   [
    "2026-10-18T10:38:14.089959+09:00",
    "코스피 모색 방향성 당분간 6000선 무너진"
+  ],
+  [
+   "2026-10-18T10:52:15.059614+09:00",
+   "AI가 해야 최태원이 청년에게 없는"
+  ],
+  [
+   "2026-10-18T10:52:15.059614+09:00",
+   "명령어 하나에 자율 침투까지 짧은 현실화 내부망"
   ]
  ],
- "last_run": "2026-10-18T10:50:40.437956+09:00",
+ "last_run": "2026-10-18T10:52:37.437453+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
