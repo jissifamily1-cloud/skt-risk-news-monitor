@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610140815337109a1f309431_1",
-  "https://www.edaily.co.kr/News/Read?newsId=02594486645612920&mediaCodeNo=257",
-  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1781401",
-  "https://www.nocutnews.co.kr/news/6589172",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679845",
-  "https://www.news1.kr/world/usa-canada/6312505",
-  "https://www.etoday.co.kr/news/view/2633088",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785275&plink=ORI&cooper=NAVER",
-  "https://www.thisisgame.com/articles/430702",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337552",
   "https://www.thepublic.kr/news/articleView.html?idxno=321175",
   "https://www.nocutnews.co.kr/news/6587326",
   "https://www.segye.com/newsView/20261006502980?OutUrl=naver",
@@ -2999,19 +2989,19 @@
   "https://www.peoplewatch.co.kr/article/view/ppw202610190003",
   "https://www.ajunews.com/view/20261019083951544",
   "https://www.ziksir.com/news/articleView.html?idxno=149790",
-  "http://amenews.kr/news/view.php?idx=68338"
+  "http://amenews.kr/news/view.php?idx=68338",
+  "https://www.newspim.com/news/view/20261019000112",
+  "https://www.etnews.com/20261019000010",
+  "https://www.news1.kr/industry/general-industry/6323991",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=319226",
+  "https://biz.heraldcorp.com/article/10906537",
+  "https://www.newspim.com/news/view/20261019000107",
+  "https://www.techm.kr/news/articleView.html?idxno=156215",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1415942",
+  "https://www.busan.com/view/busan/view.php?code=2026101908511748013",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=91078"
  ],
  "seen_titles": [
-  "“뉴욕택시기사도코스피안다…中삼전닉스추격은‘소설’불과”",
-  "구글,'제미나이4아르곤'출시…프론티어AI경쟁재점화하나",
-  "美FBI,오픈AI사무실에몰래녹음장치설치한사우디직원체포",
-  "앤스로픽“AI,'봇넷'구축해자가복제\"경고에…보안업계'갑론을박'",
-  "한국의혹한을널리알리는갓쓴워프레임‘나린’",
-  "AI해킹어디까지왔나…'자율성얻은AI'제멋대로침해",
-  "[사사건건]AI에해킹당한은행…내돈은?내개인정보는?",
-  "JP모건다이먼\"앤트로픽'미토스'이후사이버위험10배커져\"",
-  "하나證“AI속도조절론은마케팅⋯피지컬AI확산땐통신장비수혜”",
-  "[글로벌D리포트]뉴욕시의회AI청문회개최…기업임원들증언대에",
   "[인터뷰]한국을담은‘워프레임’,13년의여정에새로운도전을더하...",
   "김선민의원\"AI로뇌출혈진단?부총리부모님이라면안심하겠나\"",
   "중간선거앞두고미워도다시한번?'결별설'일축한머스크…트럼프'...",
@@ -6001,7 +5991,17 @@
   "5대은행장오늘국감출석…연쇄해킹·보안투자책임추궁",
   "LG,전계열사사업보고회돌입…구광모,'AI승부처'직접챙긴다",
   "LG,전계열사사업보고회시작…내년AI사업전략집중점검",
-  "앰코,3조규모광주첨단패키징공장증축착공"
+  "앰코,3조규모광주첨단패키징공장증축착공",
+  "[모닝리포트]SK바이오팜,3분기실적견조전망…오파칼림임상재개...",
+  "LG사업보고회돌입…구광모회장'AI승부수'",
+  "LG,오늘부터한달간사업보고회…내년사업계획집중점검",
+  "순직소방관을기억하며,LGU+'119메모리얼런'성료",
+  "앰코광주공장3조원증축…서남권반도체프로젝트신호탄",
+  "[모닝리포트]\"LGCNS,클라우드·금융차세대사업확대\"",
+  "[국감26]보안구멍에예산까지미집행…주요은행장,국감서책임론...",
+  "SK브로드밴드,가을맞아신규프로그램3종편성",
+  "\"비밀번호즉시변경해달라\"…할리스도멤버십시스템해킹",
+  "\"엔비디아25%고정\"…하나운용,'1Q엔비디아고정미국AI반도체'상장"
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,13 @@
   [
    "2026-10-19T08:48:15.555483+09:00",
    "직격탄 원인 맞은 신용위험 반도체 급락 쏠림이 코스피"
+  ],
+  [
+   "2026-10-19T08:54:15.893835+09:00",
+   "1Q 하나운용 고정 엔비디아고정미국AI반도체 상장"
   ]
  ],
- "last_run": "2026-10-19T08:52:35.654198+09:00",
+ "last_run": "2026-10-19T08:54:35.771790+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
