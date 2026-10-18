@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newslock.co.kr/news/articleView.html?idxno=138086",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360789",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=322616",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449556",
-  "https://www.namdonews.com/news/articleView.html?idxno=926360",
-  "https://www.imaeil.com/page/view/2026101600103343298",
-  "https://www.100ssd.co.kr/news/articleView.html?idxno=213590",
   "https://www.etoday.co.kr/news/view/2636777",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=45570",
   "http://www.djtimes.co.kr/news/articleView.html?idxno=113810",
@@ -2999,16 +2992,16 @@
   "https://www.kado.net/news/articleView.html?idxno=2078715",
   "https://www.busan.com/view/busan/view.php?code=2026101814391499539",
   "https://www.etoday.co.kr/news/view/2637021",
-  "https://www.segye.com/newsView/20261018511937?OutUrl=naver"
+  "https://www.segye.com/newsView/20261018511937?OutUrl=naver",
+  "https://www.starnewskorea.com/sports/2026/10/18/2026101813411219195",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=128611",
+  "https://www.dt.co.kr/article/12089679",
+  "https://www.kmib.co.kr/article/view.asp?arcid=9000023481&cp=nv",
+  "https://biz.sbs.co.kr/article_hub/20000340603?division=NAVER",
+  "https://basketkorea.com/news/newsview.php?ncode=1065594712072444",
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35150"
  ],
  "seen_titles": [
-  "코스피,8거래일만에2%반등…코스닥에서는매수사이드카",
-  "[증시인사이트]급락딛고상승한코스피…유의미한반등이었나",
-  "[뉴욕증시전략]9월PPI도예상크게상회…휘발유가절반이상",
-  "사내업무부터인프라까지…통신3사,'AI도입'전방위로",
-  "한성숙총리,대전서구통합돌봄점검…퇴원환자일상복귀지원살펴",
-  "[전자·IT레이더]카카오,AI중심인적분할가속…카페24,K-브랜드일...",
-  "빚으로쌓아올린인공지능탑흔들리자반도체시장서1343조원날아갔...",
   "폭락장딛고반등…코스피2%·코스닥4%↑",
   "日증시,AI실적주강세에상승마감…닛케이1.39%↑",
   "가천대,생성형AI활용한기업분석특강운영",
@@ -6001,7 +5994,14 @@
   "최태원\"AI시대,졸업장보다문제해결능력…나라면창업\"",
   "해킹피해89%병의원에…보안관제가입률은0.006%",
   "GPU확보넘어‘최적화’로⋯AI추론시대의인프라경쟁공식",
-  "2연속금리올린한은,22일은‘동결’택할듯…물가·집값은불안요..."
+  "2연속금리올린한은,22일은‘동결’택할듯…물가·집값은불안요...",
+  "[수원현장리뷰]드디어끝났다!현대모비스,지긋지긋한원정15연패탈...",
+  "서명진부활→베즐리고공폭격...이우석-프림까지펄펄현대모비스,...",
+  "돈있어도못사는‘아이폰듀오’…높은수요와공급제약겹쳐‘품...",
+  "“공격하라”말한줄에내부망까지뚫었다…섬뜩한‘AI해커’",
+  "[다음주경제]한은22일금리결정…금융권해킹·ETF국감도주목",
+  "[BK리뷰]서명진도살아났다!‘전반59점폭격’현대모비스,KT수비...",
+  "[2026국감]통합회원정보유출,운영사·지주사책임은…개보위추가..."
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,17 @@
   [
    "2026-10-18T15:50:24.428408+09:00",
    "물가 불안요 금리 한은 동결 택할 올린 2연속 22일은 집값은"
+  ],
+  [
+   "2026-10-18T15:52:14.361914+09:00",
+   "수비 현대모비스 ~KT 서명진도 살아났다 전반 59점 폭격"
+  ],
+  [
+   "2026-10-18T15:52:14.361914+09:00",
+   "유출 통합회원 정보 운영사 책임은 지주사 추가"
   ]
  ],
- "last_run": "2026-10-18T15:50:42.486660+09:00",
+ "last_run": "2026-10-18T15:52:38.344335+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
