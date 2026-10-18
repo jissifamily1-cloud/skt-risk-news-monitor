@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=2026101422571882769a1f309431_1",
-  "https://www.donga.com/news/Economy/article/all/20261014/134843004/2",
-  "https://www.donga.com/news/Opinion/article/all/20261014/134843876/2",
-  "https://www.etoday.co.kr/news/view/2635792",
-  "https://www.edaily.co.kr/News/Read?newsId=04316486645612920&mediaCodeNo=257",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1727797",
   "https://www.edaily.co.kr/News/Read?newsId=03837606645612920&mediaCodeNo=257",
   "https://www.sedaily.com/article/20101469",
   "https://www.edaily.co.kr/News/Read?newsId=03047126645612920&mediaCodeNo=257",
@@ -2999,15 +2993,15 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=555947",
   "http://www.newsprime.co.kr/news/article.html?no=751378",
   "https://www.kado.net/news/articleView.html?idxno=2078925",
-  "https://biz.chosun.com/stock/stock_general/2026/10/19/BTLOL3HNRZCIBMKCVJ7DBALFXQ/"
+  "https://biz.chosun.com/stock/stock_general/2026/10/19/BTLOL3HNRZCIBMKCVJ7DBALFXQ/",
+  "http://www.press9.kr/news/articleView.html?idxno=84442",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728253",
+  "https://www.smarttoday.co.kr/ko-kr/articles/112838",
+  "https://www.ytn.co.kr/_ln/0103_202610190843307461",
+  "https://biz.heraldcorp.com/article/10906526",
+  "https://www.peoplewatch.co.kr/article/view/ppw202610190003"
  ],
  "seen_titles": [
-  "앤스로픽3분기매출168억달러…11월상장앞두고흑자달성",
-  "과학자406명“해킹가능AI,인터넷격리시험을”",
-  "美제너럴애틀랜틱,내년상반기IPO추진…몸값최대100억달러",
-  "구글,최상위AI‘제미나이4아르곤’출시",
-  "[횡설수설/김재영]佛슈퍼700곳냉장고해킹",
-  "AI가냉장고·TV타고‘자가증식’…앤스로픽“디지털점균류될수도...",
   "AI가우리집TV·로청침투?…커지는스마트홈리스크",
   "[서학개미안테나]AI투자,이제는자본이병목…외국인은왜코스피를...",
   "카카오사내AI,회의잡고예약까지…승인하면자동실행",
@@ -6001,7 +5995,13 @@
   "SK그룹,최창원수펙스의장연임유력…부채줄이고AI·반도체성장전...",
   "LG유플러스,3분기영업익95%상승전망…AIDC성장'본격화'",
   "할리스멤버십해킹고객개인정보유출…아이디·비밀번호·주소까지",
-  "“美신용위험직격탄맞은코스피…반도체쏠림이급락원인\""
+  "“美신용위험직격탄맞은코스피…반도체쏠림이급락원인\"",
+  "LG,전계열사사업보고회돌입…AI신사업·투자전략점검",
+  "LG,전계열사사업보고회돌입…AI미래성장전략집중점검",
+  "공원인접단지청약성적눈길…성남·안산등10월공급",
+  "[뉴욕증시]실적앞둔머스크의노림수?하늘나는테슬라공개,스페이...",
+  "“외국인이한국인에게소개하는지역여행”…SKB,신규로컬예능3편...",
+  "5대은행장오늘국감출석…연쇄해킹·보안투자책임추궁"
  ],
  "recent_sigs": [
   [
@@ -6349,7 +6349,7 @@
    "직격탄 원인 맞은 신용위험 반도체 급락 쏠림이 코스피"
   ]
  ],
- "last_run": "2026-10-19T08:48:39.842043+09:00",
+ "last_run": "2026-10-19T08:50:43.842318+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
