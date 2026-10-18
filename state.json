@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=04139366645612592&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439010",
-  "https://www.news1.kr/world/usa-canada/6318339",
-  "https://www.econovill.com/news/articleView.html?idxno=753417",
-  "https://www.donga.com/news/Economy/article/all/20261013/134831634/1",
   "https://www.edaily.co.kr/News/Read?newsId=02394406645612592&mediaCodeNo=257",
   "https://www.g-enews.com/view.php?ud=2026101308550960379a1f309431_1",
   "http://www.datanews.co.kr/news/article.html?no=146856",
@@ -2999,14 +2994,14 @@
   "https://view.asiae.co.kr/article/2026101907401476008",
   "https://www.the-today.com/news/articleView.html?idxno=91964",
   "https://www.tokenpost.kr/news/briefing/424068",
-  "https://www.ikbc.co.kr/article/view/kbc202610190014"
+  "https://www.ikbc.co.kr/article/view/kbc202610190014",
+  "https://www.tokenpost.kr/news/ai/424069",
+  "https://www.gpkorea.com/news/articleView.html?idxno=147672",
+  "https://www.etoday.co.kr/news/view/2637106",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803260&plink=ORI&cooper=NAVER",
+  "https://www.dt.co.kr/article/12089750"
  ],
  "seen_titles": [
-  "[열린세상]AI시대도시의지향점은'인간다운공간'",
-  "사과도재발방지도없는6년,그사이쿠팡에서36명이숨졌다",
-  "\"그냥쏴버려\"…美AI데이터센터반대론자들,찬성측에살해협박",
-  "[월가톡톡]AI가점점귀여워지는이유",
-  "샌더스,올트먼'사고감수'발언비난…\"초인공지능영구금지해야\"",
   "[IT큐레이션]어느수학자의슬픔,그리고AI도장깨기의경제학혹은심...",
   "AI지각생메타,‘뮤즈원더’공개…앤스로픽턱밑추격",
   "저커버그\"메타,오픈AI·앤스로픽따라잡아\"…투자지속예고",
@@ -6001,7 +5996,12 @@
   "\"전화번호·집주소도털렸다\"…할리스멤버십개인정보유출",
   "\"20대돌아가면창업\"최태원의역설…기업물려받은총수,청년의실패...",
   "메타·테슬라3분기실적21일발표…엔비디아GTC도개막",
-  "권고·지침내리고도해킹취약점점검안했다…과기부관리허점"
+  "권고·지침내리고도해킹취약점점검안했다…과기부관리허점",
+  "테네프,AI기업소유기회와개인투자자접근성논의",
+  "\"BMW·벤츠만해냈는데\"…볼보차,8년연속'1만대클럽'",
+  "DS투자증권“반도체,2028년불황우려과도…HBM수익성개선에비중확...",
+  "[글로벌마켓시황]'블랙아웃'기간진입…기업실적발표주목",
+  "“할리스도털렸다”…멤버십시스템해킹,개인정보유출"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,13 @@
   [
    "2026-10-19T07:48:15.174163+09:00",
    "투자사 타격 데이터센터서 영국 뺐다 MS"
+  ],
+  [
+   "2026-10-19T07:52:16.008164+09:00",
+   "개인정보 할리스도 유출 멤버십 시스템 털렸다"
   ]
  ],
- "last_run": "2026-10-19T07:50:42.255945+09:00",
+ "last_run": "2026-10-19T07:52:35.939618+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
