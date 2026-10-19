@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261018057100530?input=1195m",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3724989",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3724992",
-  "https://www.edaily.co.kr/News/Read?newsId=02860166645614232&mediaCodeNo=257",
-  "https://www.maniareport.com/view.php?ud=20261018192017200dad9f33a29_19",
-  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=156707",
-  "https://www.ikbc.co.kr/article/view/kbc202610180038",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2338521",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803206&plink=ORI&cooper=NAVER",
   "https://www.khan.co.kr/article/202610182116005",
@@ -2999,16 +2992,16 @@
   "https://slownews.kr/168126",
   "https://www.techm.kr/news/articleView.html?idxno=156257",
   "https://news.dealsitetv.com/articles/177184",
-  "https://www.news2day.co.kr/article/20261019500315"
+  "https://www.news2day.co.kr/article/20261019500315",
+  "https://www.the-today.com/news/articleView.html?idxno=92008",
+  "https://www.hankyung.com/article/202610191284g",
+  "https://www.sidae.com/article/2026101917105074360",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=92443",
+  "https://www.donga.com/news/Economy/article/all/20261019/134867766/2",
+  "https://thetracker.co.kr/View.aspx?No=4269824",
+  "https://www.g-enews.com/view.php?ud=202610191710439780a6e8311f64_1"
  ],
  "seen_titles": [
-  "'북향민개인정보'대북풍선담아날린단체에과태료720만원",
-  "제주여성경제인,미국북가주한인사회와글로벌교류확대모색",
-  "제주여성기업비온,혁신성장유형벤처기업확인획득",
-  "[미리보는이데일리신문]전기차막자하이브리드…中수출15배폭증",
-  "‘3점포16방'소노,뒤늦게시즌연SK홈개막전에찬물...87-81로꺾고...",
-  "T1,혈투끝'FC프로챔피언스컵'우승...베트남NK4:3제압",
-  "여수산단,반도체소재로'활력'찾을까",
   "LG유플러스·소방청,순직소방관추모달리기…참가비전액유가족지...",
   "중국'천재소년',문샷AI퇴사…미앤트로픽행은부인",
   "1시간걸리던불량품선별,16초만에…지역중기지원‘톡톡’",
@@ -6001,13 +5994,16 @@
   "AI제국,번영이든멸망이든그전에수탈이온다",
   "[국감26]이찬진\"금융권해킹,CEO내부통제책임첫적용가능\"…은행...",
   "[국감2026]4만명'해킹피해'예가람저축은행,전산태광이담당",
-  "[포토]시중5대은행장,국회정무위출석…'해킹사태'질타쏟아져"
+  "[포토]시중5대은행장,국회정무위출석…'해킹사태'질타쏟아져",
+  "성장둔화·감원속대안…中취업문의2년만에두배급증",
+  "영화'빅쇼트'주인공도\"위험\"경고…AI거품론'확산'",
+  "\"과잉투자역사되풀이될수도\"…AI투자거품'경고등'켜져",
+  "할리스해킹···고객개인정보276만건유출",
+  "5대은행장4년만에국감증인석…해킹사태책임·내부통제질의쏟아...",
+  "5대은행장국감서줄줄이사과…AI해킹에보안책임도마",
+  "[정무위국감]‘5만건해킹’예가람저축銀사각지대…박상원금보원장..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-19T11:26:16.578595+09:00",
-   "재개 시큐어드파이낸스 만에 대출"
-  ],
   [
    "2026-10-19T11:28:14.881028+09:00",
    "맡고 5대 이사회 누가 있나 의장"
@@ -6735,9 +6731,13 @@
   [
    "2026-10-19T17:24:16.079524+09:00",
    "국회 쏟아져 질타 5대은행장 출석 시중 사태 정무위"
+  ],
+  [
+   "2026-10-19T17:26:18.671987+09:00",
+   "금보원장 예가람저축 박상원 5만건 사각지대"
   ]
  ],
- "last_run": "2026-10-19T17:24:38.103253+09:00",
+ "last_run": "2026-10-19T17:26:37.600867+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
