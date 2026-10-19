@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261016_0003828885",
-  "https://www.slist.kr/news/articleView.html?idxno=774143",
-  "https://news.bizwatch.co.kr/article/market/2026/10/16/0018",
-  "https://www.hankyung.com/article/202610166229g",
-  "https://view.asiae.co.kr/article/2026101708203827285",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3724139",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90283",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90284",
-  "https://www.segye.com/newsView/20261011516013?OutUrl=naver",
   "https://www.ajunews.com/view/20261016165206396",
   "https://www.sentv.co.kr/article/view/sentv202610150102",
   "https://www.seoulfn.com/news/articleView.html?idxno=640165",
@@ -2999,18 +2990,18 @@
   "https://www.tgdaily.co.kr/news/articleView.html?idxno=407488",
   "https://www.news1.kr/finance/blockchain-fintech/6324159",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480896",
-  "https://www.newscj.com/news/articleView.html?idxno=3441288"
+  "https://www.newscj.com/news/articleView.html?idxno=3441288",
+  "https://www.nocutnews.co.kr/news/6593219",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408365",
+  "https://www.sedaily.com/article/20103153",
+  "https://www.the-today.com/news/articleView.html?idxno=91977",
+  "https://www.tvreport.co.kr/entertainment/article/1084104/",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172270",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=7016",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209541",
+  "https://www.cwn.kr/news/articleView.html?idxno=59639"
  ],
  "seen_titles": [
-  "AI활용에고민도커진기자들…“최종책임은사람에게”",
-  "\"폭락장에또박살난내주식...ETF로갈아타려는데괜찮을까요?\"[인치...",
-  "한국번호그대로,가족5명이4만원대…SKT'바로로밍'직접써보니",
-  "젠슨황,AI관련주급락에\"펀더멘털변하지않아...모두지나갈것\"",
-  "[ETF워치]삼전·닉스부진에도반도체ETF사들이는개인",
-  "AI거품?'없어서못판다'…삼전닉스에벌어지는일[홍민성의테토남...",
-  "프랑스서터진유례없는대규모냉장고해킹…배후가누구일까[시사쇼...",
-  "[포토]세종한글축제,드론·불꽃으로한글의아름다움수놓다",
-  "부커스,차세대독서플랫폼'부커스2.0'공개…독자뷰어엔진내재화",
   "우애스크·SKY,실시간동시통역이어폰'익스펜션스카이에디션3종'...",
   "연봉보다먼저묻는‘GPU사용권’…연산자원이인재행선지가른다...",
   "[김준환의교육&시선]스스로의지식을책으로엮지못하는대학…'학술...",
@@ -6001,7 +5992,16 @@
   "레노버,노트북'요가프로9n'출시",
   "비트코인,8만2000달러대상승…연내10만달러돌파전망엇갈려[코인브...",
   "과천이사온공무원,1년만에다시세종갈판",
-  "5대은행장,오늘정무위국감출석…AI해킹사태질의전망"
+  "5대은행장,오늘정무위국감출석…AI해킹사태질의전망",
+  "구광모,LG전계열사사업보고회돌입…내년사업점검",
+  "시큐리티스코어카드,기업AI도입전위험관리검증'필요'…체크리스...",
+  "中CXMT매출최대7배폭증예고…삼성,‘차세대HBM’TSMC와함께만...",
+  "[이승우칼럼]AI,혁신과버블은함께온다",
+  "공형진,차지연노래도중\"컷,컷\"→반말무례논란속…'가세연광팬...",
+  "IPO앞둔앤트로픽,지분5%공익기금출연…AI일자리감소대응",
+  "5대은행장모두국감출석...정상혁신한은행장에쏠리는불편한시선",
+  "뷰런테크놀로지-KT,라이다기반스마트도로관리협력",
+  "과학기술정보통신부,'최고위험해킹취약점'점검도누락...보안관리..."
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,13 @@
   [
    "2026-10-19T10:08:15.235418+09:00",
    "개발 삼성 대역폭 HBM 넓힌다 TSMC와 맞춤형"
+  ],
+  [
+   "2026-10-19T10:12:14.906916+09:00",
+   "누락 점검도 최고 보안관리 취약점 위험 과학기술정보통신부"
   ]
  ],
- "last_run": "2026-10-19T10:10:43.440303+09:00",
+ "last_run": "2026-10-19T10:12:48.622549+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
