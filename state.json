@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-i.kr/news/articleView.html?idxno=2007517",
-  "https://www.mk.co.kr/article/12176961",
-  "https://www.mt.co.kr/estate/2026/10/16/2026101415133912192",
-  "https://www.etnews.com/20261015000353",
-  "https://www.cnbizm.com/news/articleView.html?idxno=318439",
-  "https://www.mk.co.kr/article/12179525",
-  "https://www.hankyung.com/article/202610190508i",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3725622",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3725625",
   "https://www.etnews.com/20261019000245",
   "https://www.gosiweek.com/article/1065589601435246",
   "http://www.popcornnews.net/news/articleView.html?idxno=136451",
@@ -2999,18 +2990,18 @@
   "https://biz.heraldcorp.com/article/10908006",
   "https://www.newstnt.com/news/articleView.html?idxno=723325",
   "https://www.welfarenews.net/news/articleView.html?idxno=212179",
-  "https://view.asiae.co.kr/article/2026102008335813997"
+  "https://view.asiae.co.kr/article/2026102008335813997",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729494",
+  "https://biz.sbs.co.kr/article_hub/20000340217?division=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496726",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1104420",
+  "https://www.yna.co.kr/view/AKR20261020028900030?input=1195m",
+  "https://news.dealsitetv.com/articles/177198",
+  "https://www.edaily.co.kr/News/Read?newsId=05038086645613248&mediaCodeNo=257",
+  "http://www.srtimes.kr/news/articleView.html?idxno=214914",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136528"
  ],
  "seen_titles": [
-  "보안취약사고,GA는괜찮나…\"유출땐보험사도책임\"",
-  "'에이전틱AI'확산에…개인정보기준마련한다",
-  "속도내는지방이전…\"국토균형발전,평가체계정교화해야\"",
-  "보안인증없는구글폼…개보위사업에쓰였다",
-  "최태원SK회장,청년들에\"AI가못하는일찾아야\"…'생각의힘'강조",
-  "“계속해서우승경쟁하는강팀될수있도록”KS앞둔KT,이강철감독...",
-  "‘엔비디아투자’엔스케일,IPO앞두고기업가치책정난항",
-  "박완수경남도지사\"10년뒤경남비전구체화\"강조",
-  "충남교육청교육과정평가정보원,개념·탐구기반수업역량강화연수...",
   "네이버클라우드,'보안자가진단'사이트오픈…“AI시대기업보안전...",
   "영단어학습보카트레인,AI학습관리기능·퀴즈학습모드오픈…\"전국...",
   "미래에셋자산운용,\"AI병목,HBM넘어MLCC·기판주목…한·일·대만기...",
@@ -6001,7 +5992,16 @@
   "9일만에살아난美반도체지수…‘5700선극적탈환’코스피,추가반등...",
   "[특징주]스페이스X우려털어낸통신·장비주…AIDC·피지컬AI수혜기...",
   "\"2026SK텔레콤장애청소년행복AI챌린지대회성료\"",
-  "\"이재용·최태원도제쳤다\"AI타고자산8배폭증…단숨에아시아최고..."
+  "\"이재용·최태원도제쳤다\"AI타고자산8배폭증…단숨에아시아최고...",
+  "이통3사영업익1.4조눈앞…'80%급증'이유보니",
+  "노소영의'지키기'vs최태원의'뒤집기'[CEO업&다운]",
+  "NCAI,'바르코3D·사운드'첫달구독료50%할인",
+  "한국관광공사,전국주요전통시장6곳에'AI관광집사'도입",
+  "전통시장서길잃어도…'AI관광집사'가길찾고통역까지",
+  "[만나보니][하나자산운용]김승현본부장\"AI플랫폼,새로운승자등장...",
+  "올해코스피서200조던진외국인,'엑소더스'멈출4대반전트리거는",
+  "제주항공여권정보유출조사'지지부진'지적…\"해킹범도못잡아\"",
+  "한화證\"솔리다임'상장조건'중요…SK하이닉스주주가치좌우\""
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,13 @@
   [
    "2026-10-20T08:38:14.239933+09:00",
    "아시아 폭증 자산 타고 제쳤다 최고 8배 단숨에 최태원도 이재용"
+  ],
+  [
+   "2026-10-20T08:40:24.612953+09:00",
+   "조건 주주가치 좌우 SK하이닉스 솔리다임 한화 중요 상장"
   ]
  ],
- "last_run": "2026-10-20T08:38:40.108173+09:00",
+ "last_run": "2026-10-20T08:40:41.950489+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
