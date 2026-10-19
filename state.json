@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1702779/?sc=Naver",
-  "https://www.huffingtonpost.kr/article/261309",
-  "https://www.meconomynews.com/news/articleView.html?idxno=202665",
-  "https://www.seoultimes.news/news/article.html?no=2000101026",
-  "https://www.nocutnews.co.kr/news/6592995",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172225",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261018113736Nab",
   "https://view.asiae.co.kr/article/2026101811392102818",
   "https://biz.sbs.co.kr/article_hub/20000340586?division=NAVER",
   "https://www.mediapen.com/news/view/1130723",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/photos/8167155",
   "https://www.techm.kr/news/articleView.html?idxno=156250",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=856920",
-  "https://www.news1.kr/finance/general-finance/6324715"
+  "https://www.news1.kr/finance/general-finance/6324715",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874170",
+  "http://www.breaknews.com/1243958",
+  "https://www.edaily.co.kr/News/Read?newsId=03686726645614560&mediaCodeNo=257",
+  "https://www.ibabynews.com/news/articleView.html?idxno=155308",
+  "https://www.imaeil.com/page/view/2026101915295103121",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874167",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=884006"
  ],
  "seen_titles": [
-  "SK최태원이AI시대'대학졸업장'보다중요하다고강조한것:AI가할...",
-  "LG유플러스,순직소방관추도'메모리얼런'2300명함께달렸다",
-  "LG유플러스,순직소방관추모달리기…2300여명참여",
-  "개인정보과징금93%재량감경…제한규정뒤에도깎았다",
-  "최태원\"20대로돌아가면창업…AI가못하는일찾아야\"",
-  "LG유플러스,순직소방관추모러닝행사…2,300명모여",
-  "LGU+순직소방관추모러닝행사성료…현직소방관119명참가",
   "순직소방관이름가슴에달고…2300명'추모의질주'",
   "“20대돌아가면무조건창업”…최태원회장,AI시대청년역할강조",
   "웨딩102개카테고리AI인용순위공개…예식장은더채플,예물은까르...",
@@ -6001,7 +5994,14 @@
   "평생따라다니는주민번호,'유출된개인정보도용2차피해막기위해...",
   "할리스,해킹으로고객정보276만건유출…비밀번호·주소까지포함",
   "할리스개인정보276만건유출…\"가상화폐채굴목적해킹\"",
-  "해킹에뚫린예가람저축은행전산…\"태광그룹계열사에의존\""
+  "해킹에뚫린예가람저축은행전산…\"태광그룹계열사에의존\"",
+  "프로야구KT,이강철감독과3년34억재계약'역대최고대우'",
+  "광명시,세계와평생학습길찾다",
+  "휴머노이드양산시대…공장문턱은‘성공률99%’",
+  "반려동물119개카테고리AI인용순위공개…사료는로얄캐닌,간식은...",
+  "우리·농협은행'해킹'제로…금감원,선제적방어등패러다임전환",
+  "[이슈국감]이찬진\"ETF,매우무거운마음\"…해킹전수조사지시",
+  "뷰런테크놀로지-KT,'라이다기반스마트도로관리'실증MOU체결"
  ],
  "recent_sigs": [
   [
@@ -6667,9 +6667,13 @@
   [
    "2026-10-19T15:30:34.816299+09:00",
    "예가람저축은행 뚫린 의존 해킹에 전산 태광그룹 계열사에"
+  ],
+  [
+   "2026-10-19T15:32:14.954711+09:00",
+   "도로관리 실증 스마트 체결 라이다 뷰런테크놀로지 기반 MOU ~KT"
   ]
  ],
- "last_run": "2026-10-19T15:31:00.255380+09:00",
+ "last_run": "2026-10-19T15:32:33.136668+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
