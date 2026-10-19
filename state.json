@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2575991",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=241816",
-  "https://www.naeil.com/news/read/585102",
-  "https://www.kbmaeil.com/article/20261015500525",
-  "https://www.widedaily.com/news/articleView.html?idxno=301989",
-  "https://www.newsis.com/view/NISX20261015_0003827154",
-  "https://www.meconomynews.com/news/articleView.html?idxno=202542",
-  "https://www.gosiweek.com/article/1065601603834046",
-  "https://gamefocus.co.kr/detail.php?number=179770",
   "https://www.pressman.kr/news/articleView.html?idxno=104009",
   "http://www.paxetv.com/news/articleView.html?idxno=284128",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610140064&t=NNv",
@@ -2999,18 +2990,18 @@
   "https://www.mydaily.co.kr/page/view/2026101913012552360",
   "https://dealsite.co.kr/articles/170850",
   "https://www.inthenews.co.kr/news/article.html?no=93214",
-  "http://fpn119.co.kr/258048"
+  "http://fpn119.co.kr/258048",
+  "https://www.naeil.com/news/read/605584",
+  "http://fpn119.co.kr/258046",
+  "https://www.naeil.com/news/read/605592",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3725459",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3725473",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3725498",
+  "https://www.hellot.net/news/article.html?no=115587",
+  "https://www.naeil.com/news/read/605568",
+  "https://www.asiatime.co.kr/article/20261019500230"
  ],
  "seen_titles": [
-  "[서학개미브리핑]반도체주랠리에반도체레버리지ETF상위석권",
-  "‘미토스충격’에정부연이은긴급회의…제로트러스트·공급망보안...",
-  "정부,미토스충격에통신사·네카오에이어정보보호기업긴급소집",
-  "엔스로픽AI'미토스'공개…美정부·기업경계수위높여",
-  "스페이스X·엔스로픽상장전ETF경쟁",
-  "“외부외주안쓴다”…세화고,독자개발AI입시솔루션전면가동",
-  "발품팔던영업사원일자리위협?…잠재고객알아서찾는'AI에이전트...",
-  "영업사원도AI에밀려나나…고객찾고정보갱신하는AI에이전트등장",
-  "팝업부터AI검색까지...K뷰티,내수소비자잡는다",
   "GEO에이전시엑스온“생성형AI5종인용웹페이지조사…상호중복...",
   "엔비디아,RTX스파크노트북출시앞두고소프트웨어업데이트진행",
   "AI가고른금융브랜드는따로있었다",
@@ -6001,7 +5992,16 @@
   "“AI쓰는데보안은?”네이버클라우드,무료자가진단",
   "SKT·LGU+,5GSA'후발주자'…수익모델확보'숙제'",
   "SK브로드밴드,여행부터미식까지신작프로그램3편순차공개",
-  "동작소방서-KT대방지사,밀폐공간사고구조교육"
+  "동작소방서-KT대방지사,밀폐공간사고구조교육",
+  "통신3사,인터넷사은품미사용수익420억원",
+  "대구강서소방서,복합재난대비긴급구조종합훈련",
+  "‘상품이냐노하우냐’…에릭슨148억법인세공방",
+  "홍성글로벌바비큐페스티벌성공개최위해민·관'맞손'",
+  "광천토굴새우젓·광천조미김대축제'성황'…특산물할인·체험행사풍...",
+  "[동정]권오상대구광역시서구청장",
+  "[산업AIEXPO프리뷰]AI업무지능화⑳|“영업매출‘100’,물류출...",
+  "[이번주증시전망]주요경제지표에따른금리흐름…한국금통위주...",
+  "[2026국감]'ETF졸속도입논란'재점화…금감원도집중포화"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-10-19T13:04:15.471597+09:00",
    "사고 교육 동작소방서 밀폐공간 ~KT KT대방지사 구조"
+  ],
+  [
+   "2026-10-19T13:06:15.947570+09:00",
+   "법인세 148억 상품이냐 에릭슨 공방 노하우냐"
   ]
  ],
- "last_run": "2026-10-19T13:04:42.829034+09:00",
+ "last_run": "2026-10-19T13:06:36.148493+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
