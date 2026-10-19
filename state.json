@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.osen.co.kr/article/G1112895016",
-  "https://www.sportsworldi.com/newsView/20261019513989",
-  "https://platum.kr/archives/296547",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35135",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88713",
-  "https://www.kyeonggi.com/article/20261019580096",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708170",
   "https://www.ytn.co.kr/_ln/0102_202610180541381068",
   "https://www.hankookilbo.com/news/article/A2026101911240001116?did=NA",
   "https://www.dailian.co.kr/news/view/1703090/?sc=Naver",
@@ -2999,16 +2992,16 @@
   "https://www.ddaily.co.kr/page/view/2026102008504038668",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4113313",
   "https://www.thepublic.kr/news/articleView.html?idxno=322408",
-  "https://www.jemin.com/news/articleView.html?idxno=844863"
+  "https://www.jemin.com/news/articleView.html?idxno=844863",
+  "http://www.press9.kr/news/articleView.html?idxno=84545",
+  "https://www.mt.co.kr/tech/2026/10/20/2026102008345937241",
+  "https://www.etnews.com/20261020000022",
+  "https://www.m-economynews.com/news/article.html?no=71869",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728419",
+  "https://www.etnews.com/20261020000020",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874333"
  ],
  "seen_titles": [
-  "[공식발표]‘34억’韓최고대우미쳤다!‘600승명장’이강철감독...",
-  "8년의믿음,마법은3년더!이강철감독,역대최고대우로KT와재계약",
-  "셀트리온·SK바이오팜·글로벌제약사·VC가한자리에,서울바이오허브...",
-  "[2026국감]메신저광고차단은'업체별로'…일괄수신거부요구",
-  "최태원회장의닷새수업…AI시대기업과청년의길을묻다",
-  "안쓰는계정이‘AI해킹통로’로…“2단계인증켜세요”",
-  "[국감2026]은행권'금리·해킹·전산오류'집중질타…지배구조의혹도",
   "IMF외환위기이후가장술안마신다...\"사소한취향공략\"",
   "LG사업보고회돌입…SK는이달,삼성은다음달사장단인사전망",
   "“테슬라비켜”…‘일상의불편’겨눈현대차·기아연구원들[현장]",
@@ -6001,7 +5994,14 @@
   "화웨이,딥시크협력으로차세대AI칩최적화…엔비디아아성정조준",
   "[아침저널]양향자\"용인갑경선논란업무방해고발고려...문제해결...",
   "노소영맞상고포기…최태원,재산분할금2440억놓고대법다툼",
-  "마이크론,급락딛고반등성공…인공지능메모리수요가주가회복이..."
+  "마이크론,급락딛고반등성공…인공지능메모리수요가주가회복이...",
+  "구광모,AI투자성과점검…'원LG'사업화속도낸다",
+  "NCAI,바르코3D·사운드첫달50%할인프로모션",
+  "NH농협은행,'대고객AI에이전트'구축…12월NH올원뱅크오픈",
+  "전통시장길찾기부터통역까지AI가척척...전국6곳에'AI관광집사'도...",
+  "로봇AI개발장벽낮춘다…빅웨이브로보틱스,'하이퍼파운드리'출시",
+  "MS,AI에이전트내부자위협대응강화…실시간감시·권한통제",
+  "금융·공공까지해킹확산···위협IP21만개탐지"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-10-20T08:52:16.228796+09:00",
    "앞섰다 2개 글로벌 평가 턴벤치 네오사피엔스 음성"
+  ],
+  [
+   "2026-10-20T08:58:14.750861+09:00",
+   "탐지 IP 위협 금융 21만개 확산 공공까지"
   ]
  ],
- "last_run": "2026-10-20T08:56:32.685508+09:00",
+ "last_run": "2026-10-20T08:58:39.182947+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
