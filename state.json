@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/politics/2026/10/13/2026101316540213322",
-  "https://www.yna.co.kr/view/AKR20261013168600001?input=1195m",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5071401",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316530&inflow=N",
-  "https://www.news1.kr/politics/assembly/6318670",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=872420",
-  "https://www.news1.kr/it-science/security-hacking/6318614",
-  "https://news.tf.co.kr/read/economy/2375833.htm",
-  "https://www.munhwa.com/article/11623213",
   "https://www.newsis.com/view/NISX20261013_0003824390",
   "https://www.newsis.com/view/NISX20261013_0003824140",
   "http://www.breaknews.com/1242667",
@@ -2999,18 +2990,18 @@
   "http://www.ikld.kr/news/articleView.html?idxno=342482",
   "https://www.yna.co.kr/view/AKR20261019092100546?input=1195m",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=407327",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439939"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439939",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=138170",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=138168",
+  "http://www.metroseoul.co.kr/article/20261019500264",
+  "https://www.mk.co.kr/article/12179509",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136448",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874112",
+  "https://news.dealsitetv.com/articles/177142",
+  "https://www.m-i.kr/news/articleView.html?idxno=2007337",
+  "https://www.asiatime.co.kr/article/20261019500240"
  ],
  "seen_titles": [
-  "티빙대표“AI해킹으로개인정보유출추정”…개보위“연내처분”",
-  "[2026국감]증거인멸사전인멸시처벌추진…KT·LGU+등도마",
-  "\"한성숙국감불러야\"정무위與野신경전속'정보유출'합심질타",
-  "\"당장영업정지때려야\"…여야,'정보유출'기업한목소리질타",
-  "[2026국감-개보위]'동네북'티빙,3번째국감행…여야'보상안강화'...",
-  "개인정보유출급증에AI해킹까지…송경희\"보호체계바꿔나갈것\"",
-  "[국감초점]개인정보유출비판…野,수사기관국무회의불참요구(종합...",
-  "[이슈국감]개보위황당'안전'결론…로봇청소기핵심검증빠졌다",
-  "해킹초동대응급한데기관마다중복신고…원스톱체계협의",
   "[2026국감]AI해킹·개인정보유출에데이터활용까지…개보위과제부...",
   "법무·금융위등44개중앙행정기관‘세종’으로…공무원1만명대이동",
   "금융권유출사고신고어디에?'우왕좌왕'…원스톱신고체계구축목소...",
@@ -6001,13 +5992,18 @@
   "아이에스동서,정보보호대응역량강화…사이버위기대응모의훈련참...",
   "[머니톡스]기형적쪼개기상장,태평양건너월가로가나",
   "다시고개든'AI고점론'에무너진국내증시···반등시점에시장'촉...",
-  "할리스멤버십해킹…아이디·비밀번호·주소까지"
+  "할리스멤버십해킹…아이디·비밀번호·주소까지",
+  "LG,전계열사사업보고회돌입...구광모,AI성장전략점검",
+  "현대차·기아,2026아이디어페스티벌개최...6개팀본선경쟁",
+  "[오늘AI]中AI기술빗장걸었다…韓'중국산모델의존'경고등`",
+  "“코딩비용美경쟁사의10분의1”…딥시크,저가공세무섭네",
+  "[2026국감]한전,정보보호예산2배넘게늘었지만...단독기획훈련은...",
+  "[이슈국감]5대은행탐지·보고제각각…최대81시간",
+  "[국감2026]이찬진\"우리·농협은행보안체계직접살펴볼것\"",
+  "금융위세종행확정에…금감원·국책은행연쇄이전촉각",
+  "[2026국감]삼성·SK총수증인채택공방…기후노동위국감'평행선'"
  ],
  "recent_sigs": [
-  [
-   "2026-10-19T07:48:15.174163+09:00",
-   "투자사 타격 데이터센터서 영국 뺐다 MS"
-  ],
   [
    "2026-10-19T07:52:16.008164+09:00",
    "개인정보 할리스도 유출 멤버십 시스템 털렸다"
@@ -6565,7 +6561,7 @@
    "아이디 비밀번호 멤버십 할리스 주소까지"
   ]
  ],
- "last_run": "2026-10-19T13:48:43.092071+09:00",
+ "last_run": "2026-10-19T13:50:42.523838+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
