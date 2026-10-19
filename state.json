@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailypop.kr/news/articleView.html?idxno=103385",
-  "https://www.mk.co.kr/article/12177771",
-  "https://www.naeil.com/news/read/605330",
   "https://www.naeil.com/news/read/605326",
   "https://www.mstoday.co.kr/news/articleView.html?idxno=200179",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=619077",
@@ -2999,12 +2996,12 @@
   "https://www.mt.co.kr/tech/2026/10/19/2026101917485667485",
   "https://www.edaily.co.kr/News/Read?newsId=04496886645614560&mediaCodeNo=257",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=816382",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=766235"
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766235",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283478",
+  "https://www.asiatime.co.kr/article/20261019500422",
+  "https://www.fnnews.com/news/202610191811327017"
  ],
  "seen_titles": [
-  "쇼핑부터예약·업무까지…'AI하나로'연결하는기업들",
-  "코스피7일새20%급락…키움證“5100선이단기하단”",
-  "IPO한파에도앤스로픽‘11월상장’강행",
   "AI빚경고…기업부도보험료최고",
   "매출45%급증에도몸값부담…앤스로픽IPO기대흔들",
   "[분석]코스피,바닥론에반등성공...\"11월추세반등기대\"",
@@ -6001,7 +5998,10 @@
   "SK브로드밴드,여행·미식·시니어예능3편선보인다",
   "정상혁신한은행장“해킹검사결과따라경영진배상책임이사회검토...",
   "[국감]4년만에국감장선5대은행장…\"해킹사과,점포운영재검토\"",
-  "'해킹사고'에고개숙인5대은행장들\"재발방지하겠다\"한목소리"
+  "'해킹사고'에고개숙인5대은행장들\"재발방지하겠다\"한목소리",
+  "할리스고객정보276만건털렸다…“가상화폐채굴해킹추정”",
+  "[2026국감]해킹대응부실에셀프연임까지…금융권국감서뭇매",
+  "\"비트코인,양자컴해킹에노출...3분의1규모650만개무방비\""
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,13 @@
   [
    "2026-10-19T18:10:28.590044+09:00",
    "규정에 통신사기피해환급법 비추어 채무부존재확인"
+  ],
+  [
+   "2026-10-19T18:14:15.482599+09:00",
+   "비트코인 650만개 노출 무방비 양자컴 규모 해킹에 3분의"
   ]
  ],
- "last_run": "2026-10-19T18:12:39.398003+09:00",
+ "last_run": "2026-10-19T18:14:36.978656+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
