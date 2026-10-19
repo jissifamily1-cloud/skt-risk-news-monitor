@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3725015",
-  "https://www.techm.kr/news/articleView.html?idxno=156196",
-  "https://www.ajunews.com/view/20261016152320106",
-  "https://www.ddaily.co.kr/page/view/2026101617555167109",
-  "https://www.yna.co.kr/view/AKR20261016163000017?input=1195m",
-  "https://www.news1.kr/it-science/mobile/6322781",
-  "https://www.econovill.com/news/articleView.html?idxno=753927",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215160",
-  "https://www.techm.kr/news/articleView.html?idxno=156210",
-  "https://www.etnews.com/20261016000313",
   "https://biz.chosun.com/it-science/ict/2026/10/16/D5UCTIHRVVBLZCKO3C7SIYHHNA/",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601232",
   "https://sateconomy.co.kr/news/view/1065591873480377",
@@ -2999,19 +2989,19 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=367629",
   "https://kbench.com/?q=node%2F282595",
   "http://www.yonhapnewstv.co.kr/news/AKR20261019172907mTR",
-  "https://imnews.imbc.com/news/2026/econo/article/6859069_36932.html"
+  "https://imnews.imbc.com/news/2026/econo/article/6859069_36932.html",
+  "https://www.kgnews.co.kr/news/article.html?no=915814",
+  "https://www.ilemonde.com/news/articleView.html?idxno=30801",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48290",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707798",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=86265",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610190129&t=NNv",
+  "https://www.sisaweek.com/news/articleView.html?idxno=238455",
+  "https://www.mk.co.kr/article/12179837",
+  "https://www.yna.co.kr/view/AKR20261019140651002?input=1195m",
+  "https://www.mk.co.kr/article/12179835"
  ],
  "seen_titles": [
-  "제주어노래에담은예술가의꿈…영화'삼춘,어디감수광?",
-  "젠슨황이강남서뿌린'그컴퓨터',이제판다...엔비디아'RTX스파크'...",
-  "엔비디아'RTX스파크'출시…윈도우AIPC시장본격공략",
-  "젠슨황\"개인용AI에이전트까지고려했다\"…엔비디아,블랙웰기반'R...",
-  "[AI픽]클라우드없이AI돌린다…엔비디아'RTX스파크'출시",
-  "엔비디아,AI모델직접구동하는'RTX스파크'노트북출시",
-  "엔비디아'RTX스파크'노트북전세계출시…2599달러부터",
-  "'엔비디아RTX스파크'출시···1페타플롭AI성능으로윈도우PC새...",
-  "[FCC통신]마스터스이어챔피언스컵까지...T1,글로벌왕좌굳건히지...",
-  "엔비디아,RTX스파크노트북공식출시…'개인용에이전틱AI시대'연다",
   "엔비디아,AI노트북플랫폼‘RTX스파크’출시…그레이스CPU·블랙웰...",
   "엔비디아RTX스파크출격⋯블랙웰·그레이스한칩에담았다",
   "[카드업계동향]롯데카드,육아특화카드출시…삼성카드쇼핑·신한카...",
@@ -6001,7 +5991,17 @@
   "하나자산운용,1Q엔비디아고정미국AI반도체20일상장...AI반도체기업...",
   "엔비디아,RTX5090단종설부인…앞으로도계속공급",
   "5대은행장‘해킹국감’줄사과…“보안예산·인력확충”",
-  "할리스고객개인정보276만건유출‥\"가상자산채굴목적해킹\""
+  "할리스고객개인정보276만건유출‥\"가상자산채굴목적해킹\"",
+  "경복대학교,경기도지정형창업혁신공간우수운영사례발표",
+  "[이용약관]동의하고출근하다",
+  "美기술주반등시도…나스닥100선물1.3%상승",
+  "엔비디아,윈도우노트북시장진출...'RTX스파크'출시",
+  "이찬진금감원장\"법개정전이라도은행장인선절차전반점검\"",
+  "이찬진\"솔리다임,중복상장규정저촉\"…SK하이닉스에주의",
+  "솔리다임상장설에소환된'호남반도체'",
+  "5대은행장'해킹국감'출석…\"추가피해땐전액보상\"",
+  "5대은행장'해킹국감'서줄사과…\"피해재발막겠다\"(종합)",
+  "AI금융해킹,AI로막는다더니…금보원,10개사보안점검"
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,13 @@
   [
    "2026-10-19T17:28:17.556441+09:00",
    "피지컬 얹어 센서 알테라 브리지에 FPGA 공략"
+  ],
+  [
+   "2026-10-19T17:34:15.220853+09:00",
+   "막는다더니 보안점검 AI로 금보원 금융해킹 10개사"
   ]
  ],
- "last_run": "2026-10-19T17:32:35.535599+09:00",
+ "last_run": "2026-10-19T17:34:36.346380+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
