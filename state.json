@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kgnews.co.kr/news/article.html?no=915577",
-  "https://www.viva100.com/article/20261018500484",
-  "https://biz.chosun.com/it-science/ict/2026/10/18/QSU22HKG5REYPGDFZFTXMQXGMU/",
-  "https://www.newswhoplus.com/news/articleView.html?idxno=72002",
-  "https://www.xportsnews.com/article/2208651",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=856801",
-  "https://www.newsis.com/view/NISX20261018_0003830235",
   "https://www.gukjenews.com/news/articleView.html?idxno=3724828",
   "http://www.newslock.co.kr/news/articleView.html?idxno=138135",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=619342",
@@ -2999,16 +2992,16 @@
   "https://news.tf.co.kr/read/national/2378032.htm",
   "https://www.tokenpost.kr/news/ai/424248",
   "https://www.donga.com/news/Economy/article/all/20261019/134867675/1",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215202"
+  "http://www.srtimes.kr/news/articleView.html?idxno=215202",
+  "https://view.asiae.co.kr/article/2026101611134231186",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766194",
+  "https://www.munhwa.com/article/11624585",
+  "https://www.nocutnews.co.kr/news/6593600",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=313452",
+  "https://www.dailian.co.kr/news/view/1703260/?sc=Naver",
+  "https://news.tf.co.kr/read/economy/2377982.htm"
  ],
  "seen_titles": [
-  "중소병·의원‘해킹무방비’…의료보안양극화에환자안전위협",
-  "LG유플러스,순직소방관추모달리기행사성료…2300명참여",
-  "KB국민·신한·하나·우리·농협은행장4년만애국감대…'해킹책임'...",
-  "'다저스4연패'NL이미끝났는데,ALCS'2G더'…탬파베이4차전승리→...",
-  "LG유플러스'순직소방관추모'러닝성료…2300명동참",
-  "'비예보에도구름관중'KIA-LG2차전도만원…PS40경기연속매진[준...",
-  "추경호대구광역시장,\"AI첨단로봇수도비전공개\"...대구국제로봇산...",
   "LG유플러스,순직소방관추모러닝개최…2300여명희생기려",
   "의료기관해킹피해89%가병·의원…보안관제가입률은0.006%",
   "KIAvsLG준PO2차전도만원관중…PS40경기연속매진",
@@ -6001,17 +5994,16 @@
   "호남반도체기업인국감증인채택공방…서왕진\"기업흔들기우려\"",
   "엔비디아GTC베를린,20일워크숍열고21일본행사시작",
   "비밀번호·집주소까지해킹…할리스도고객정보276만건유출",
-  "[2026국감]4년만에증인석선5대은행장…해킹사과·보안투자확대..."
+  "[2026국감]4년만에증인석선5대은행장…해킹사과·보안투자확대...",
+  "엇갈리는통신3사주가…AI데이터센터투자법이갈랐다[주末머니]",
+  "\"높이1m넘는화분도적재거뜬\"...현대차·기아,실용성빛난'3단접이...",
+  "두산,‘통산최다안타3위’손아섭방출…총11명재계약불가통보",
+  "내금융정보가8천원에거래?…이찬진\"전수조사다시실시\"",
+  "[AI시티포럼]도시가스스로판단하는시대…AI시티의미래는'사람'",
+  "[2026국감]\"신뢰가생명인데\"…5대은행장'해킹사태'머리숙였다",
+  "할리스,해킹으로개인정보276만건유출…\"가상화폐채굴목적\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-19T10:20:24.757082+09:00",
-   "데이센터 흔들리나 차질 AI투자 47곳 3경원"
-  ],
-  [
-   "2026-10-19T10:20:24.757082+09:00",
-   "사이버 금감원 공유 20건 전파 위협 금융권에 올해 213건"
-  ],
   [
    "2026-10-19T10:22:15.070427+09:00",
    "자산 관리 IT 이찬진 식별 훈련 확대 모의해킹 의무화"
@@ -6711,9 +6703,13 @@
   [
    "2026-10-19T16:18:17.240676+09:00",
    "21일 20일 GTC 베를린 시작 워크숍 본행사 열고"
+  ],
+  [
+   "2026-10-19T16:20:25.980681+09:00",
+   "시대 도시가 스스로 미래는 판단하는 사람 시티의"
   ]
  ],
- "last_run": "2026-10-19T16:18:35.883422+09:00",
+ "last_run": "2026-10-19T16:20:44.051141+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
