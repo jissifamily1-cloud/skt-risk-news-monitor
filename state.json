@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160136&t=NN",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3724518",
-  "https://www.munhwa.com/article/11624207",
-  "https://www.mk.co.kr/article/12178590",
-  "https://basketkorea.com/news/newsview.php?ncode=1065616209892951",
-  "https://www.tokenpost.kr/news/ai/423708",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3724524",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601237",
-  "https://www.newspim.com/news/view/20261017000176",
   "http://www.ttlnews.com/news/articleView.html?idxno=3152568",
   "https://www.gamechosun.co.kr/webzine/article/view.php?no=226491",
   "https://news.unn.net/news/articleView.html?idxno=598779",
@@ -2999,18 +2990,18 @@
   "https://www.redian.org/news/articleView.html?idxno=257491",
   "https://www.topstarnews.net/news/articleView.html?idxno=16251277",
   "https://www.techm.kr/news/articleView.html?idxno=156231",
-  "https://www.tokenpost.kr/news/blockchain/424145"
+  "https://www.tokenpost.kr/news/blockchain/424145",
+  "https://www.meconomynews.com/news/articleView.html?idxno=202673",
+  "https://www.livebiz.today/news/articleView.html?idxno=205656",
+  "https://www.munhwa.com/article/11624442",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=366372",
+  "https://biz.heraldcorp.com/article/10907071",
+  "https://www.ajunews.com/view/20261019111801292",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5027793",
+  "https://www.news1.kr/finance/general-finance/6324347",
+  "https://news.tf.co.kr/read/economy/2377751.htm"
  ],
  "seen_titles": [
-  "중국,파라미터2조개이상AI모델가중치수출허가제추진…오픈소...",
-  "엔비디아300달러목표가기록…토큰가격은별도지표",
-  "\"몸값100조라며\"…현대차개미들이주목하는美상장",
-  "손정자시의원'지역공동체위해의정활동지속'약속",
-  "“난1년전부터주장”‘삼전7만,닉스20만’주장한애널리스트",
-  "‘히비키’가서‘광화문’한잔해볼까…노을과함께즐기는위스키...",
-  "[게임리포트]‘AG金형제맞대결’문유현,친형문정현앞에서먼저...",
-  "AI투자수익성논쟁…알파벳클라우드매출82%늘어",
-  "서울서'외국인주민대표간담회'개최…36명의견모아55건정책제안",
   "엔비디아'RTX스파크'한국출시⋯128GB메모리로로컬AI공략",
   "[준PO]광주KIA-LG1차전1만8900석매진…PS39경기연속만원관중",
   "4대생성형AI보험선호도분석…어린이현대해상·실손삼성화재선...",
@@ -6001,7 +5992,16 @@
   "최태원\"다시20대로돌아간다면창업\"...AI시대청년도전강조",
   "\"11월15일오후4시30분tip-off\"…창원LG-수원kt,KBL경기시간조정",
   "[국감26]'AI해킹엔AI로맞선다'…이찬진금감원장,금융권보안강화...",
-  "시큐어드파이낸스,해킹한달반만에대출재개"
+  "시큐어드파이낸스,해킹한달반만에대출재개",
+  "LG구광모,그룹사업계획점검...AI투자·빅테크협력논의",
+  "애플첫폴더블폰'아이폰듀오'사전예약16일밤9시개시...이통사마...",
+  "[속보]유홍준국중박관장“‘친일파글씨’착오,개인소장품임을밝...",
+  "국힘사무처노조,양향자에\"경선불신조장\"",
+  "앰코테크놀로지,광주에3조투자“서남권반도체프로젝트신호탄”",
+  "[2026국정감사]김동철한전사장,개인정보유출사과…\"정보보안전반...",
+  "[정해균의Zoom-人]5대그룹이사회의장누가맡고있나",
+  "이찬진\"해킹'노출표면'전수조사다시하라조치\"…'기본기'강조",
+  "할리스회원비번까지털렸다…금융권이어유통가번지는'해킹공포'"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,21 @@
   [
    "2026-10-19T11:26:16.578595+09:00",
    "재개 시큐어드파이낸스 만에 대출"
+  ],
+  [
+   "2026-10-19T11:28:14.881028+09:00",
+   "맡고 5대 이사회 누가 있나 의장"
+  ],
+  [
+   "2026-10-19T11:28:14.881028+09:00",
+   "노출 표면 이찬진 기본기 강조 다시 하라 조치 전수조사"
+  ],
+  [
+   "2026-10-19T11:28:14.881028+09:00",
+   "금융권 회원 할리스 번지는 공포 비번까지 이어 유통가 털렸다"
   ]
  ],
- "last_run": "2026-10-19T11:26:35.189472+09:00",
+ "last_run": "2026-10-19T11:28:39.432363+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
