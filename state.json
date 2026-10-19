@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44512",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276485&CMPT_CD=P0010",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588893054153",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=93003",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256700",
-  "https://www.xportsnews.com/article/2209004",
   "https://www.newsway.co.kr/news/view?ud=2026101913302262303",
   "https://www.news1.kr/sports/basketball/6324490",
   "https://www.gukjenews.com/news/articleView.html?idxno=3725609",
@@ -2999,15 +2993,15 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=556358",
   "https://www.tokenpost.kr/news/breaking/424578",
   "https://www.hankyung.com/article/202610202125i",
-  "https://www.jemin.com/news/articleView.html?idxno=844864"
+  "https://www.jemin.com/news/articleView.html?idxno=844864",
+  "https://www.m-i.kr/news/articleView.html?idxno=2007812",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=93077",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281313",
+  "http://www.beyondpost.co.kr/view.php?ud=20261020082348980246a9e4dd7f_30",
+  "https://dealsite.co.kr/articles/170851",
+  "https://www.news1.kr/it-science/internet-platform/6325238"
  ],
  "seen_titles": [
-  "[TheCeo-Verse]정재헌SK텔레콤대표취임1년,실적회복넘어AI데이...",
-  "\"그들의이름을기억합니다\"'제3회119메모리얼데이'성료",
-  "[CEO열전]구광모,LG전계열사'경영성적표'점검…AI미래승부처정...",
-  "LG그룹,전계열사사업보고회돌입…구광모회장,AI투자성과·내년...",
-  "구광모LG회장,한달간사업보고회...AI실행계획직접챙긴다",
-  "'무려16년만에'日투수,韓PS선발마운드에선다…2년만에KBO돌아...",
   "래블업,반복매출앞세워코스닥도전…\"2029년매출579억목표\"[IPO레이...",
   "프로농구11월15일LG-KT전,오후4시30분으로시작시간변경",
   "박완수경남도지사\"통도사개산대재,통합·화합의계기되길\"",
@@ -6001,7 +5995,13 @@
   "노태우'보통사람'무색한550평초호화묘역…수억원대유지비출처는...",
   "소프트뱅크·MGX,오픈AI투자참여협상보도",
   "미국어린이들좋겠네…19만원치스페이스X주식공짜로뿌린다",
-  "엔비디아,104큐비트양자컴퓨팅시뮬레이션성공…슈퍼컴퓨터로차세대..."
+  "엔비디아,104큐비트양자컴퓨팅시뮬레이션성공…슈퍼컴퓨터로차세대...",
+  "AI반도체반등에나스닥1.11%↑...신용불안속뉴욕증시혼조[뉴욕증...",
+  "뉴욕증시혼조마감,반도체·AI주반등에나스닥1.11%상승",
+  "S2W,스페인에서보안연구자겨냥공급망공격분석…AI탐지기술소개",
+  "kt밀리의서재,검색부터독서까지연결하는'AI브리핑'도입",
+  "[기자수첩]해킹에뚫린금융권,사이버보험활성화해야",
+  "방미통위,YTN최대주주유진이엔티'청문진행자교체'수용"
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,17 @@
   [
    "2026-10-20T08:26:14.556083+09:00",
    "어린이들 스페이스X 뿌린다 미국 19만원치 주식 좋겠네 공짜로"
+  ],
+  [
+   "2026-10-20T08:28:15.410679+09:00",
+   "금융권 활성화해야 뚫린 해킹에 사이버보험"
+  ],
+  [
+   "2026-10-20T08:28:15.410679+09:00",
+   "유진이엔티 수용 교체 청문 최대주주 진행자 YTN"
   ]
  ],
- "last_run": "2026-10-20T08:26:35.431821+09:00",
+ "last_run": "2026-10-20T08:28:39.888653+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
