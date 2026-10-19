@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=322708",
-  "https://www.jasm.co.kr/news/view/322094/?sc=Naver",
   "https://www.hellot.net/news/article.html?no=115585",
   "https://www.globale.co.kr/news/articleView.html?idxno=41101",
   "https://www.thelec.kr/news/articleView.html?idxno=63865",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20261020006051072?input=1195m",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200012&t=NN",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200010&t=NN",
-  "https://www.edaily.co.kr/News/Read?newsId=01928646645614888&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01928646645614888&mediaCodeNo=257",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172350",
+  "https://www.jemin.com/news/articleView.html?idxno=844857"
  ],
  "seen_titles": [
-  "안철수\"솔리다임상장,SK총수와계열사가편취하도록설계된'슈킹컴...",
-  "구광모,LG전계열사사업보고회주재…AI미래전략집중점검",
   "[산업AIEXPO프리뷰]AItoMotion⑩|“박스찾아줘”텍스트로지정...",
   "AGF20261차라인업공개,넥슨·스마게대격돌예고",
   "[AI핀옵스①]복잡성·가변성·역동성...기존핀옵스로는해결불가",
@@ -6001,7 +5999,9 @@
   "뉴욕증시,반도체·AI주반등속혼조…나스닥1.11%↑(종합)",
   "\"AI수요예상보다훨씬강하다\"…월가가목표가48%올린종목[美증시...",
   "\"주식매수준비하라\"…반도체주반등에월가강세론속속등장[굿모닝...",
-  "[마켓톡스]가트너“AI투자과잉우려…네오클라우드80%재편가능성”"
+  "[마켓톡스]가트너“AI투자과잉우려…네오클라우드80%재편가능성”",
+  "아마존,자체AI칩생태계확장…5%급등",
+  "엔비디아,베라칩으로중앙처리장치시장도전…모달공급계약주목"
  ],
  "recent_sigs": [
   [
@@ -6159,9 +6159,13 @@
   [
    "2026-10-20T06:34:20.846697+09:00",
    "관여 화웨이 의존도 설계까지 딥시크 AI칩"
+  ],
+  [
+   "2026-10-20T06:52:15.682527+09:00",
+   "계약 공급 칩으로 도전 시장 중앙처리장치 주목 베라 모달"
   ]
  ],
- "last_run": "2026-10-20T06:50:41.052158+09:00",
+ "last_run": "2026-10-20T06:52:40.664331+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
