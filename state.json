@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newswatch.kr/news/articleView.html?idxno=81526",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16245795",
-  "https://www.newsway.co.kr/news/view?ud=2026101216323400683",
-  "https://www.ajunews.com/view/20261012003154136",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610121046244520142",
-  "https://www.hankyung.com/article/2026101253911",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=256296",
-  "http://www.wikileaks-kr.org/news/articleView.html?idxno=193093",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592464526942",
   "https://news.tf.co.kr/read/economy/2375147.htm",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=302411",
@@ -2999,17 +2991,17 @@
   "http://www.inews24.com/view/2017018",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193500",
   "https://www.topstarnews.net/news/articleView.html?idxno=16252512",
-  "https://biz.sbs.co.kr/article_hub/20000341072?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000341072?division=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496991",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3727067",
+  "https://biz.chosun.com/stock/stock_general/2026/10/20/MPOQOMSI25AWDPDQE6QOYXGLRM/",
+  "https://www.dizzotv.com/site/data/html_dir/2026/10/20/2026102080140.html",
+  "https://www.aitimes.com/news/articleView.html?idxno=216445",
+  "https://kidd.co.kr/news/247791",
+  "http://www.newsprime.co.kr/news/article.html?no=751707",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482354"
  ],
  "seen_titles": [
-  "[초점]'리밸런싱완수'최창원가고…새SK수펙스수장올까",
-  "장혁,'문무'연개소문포스터공개…대하사극귀환예고",
-  "SNS부터타운홀까지…통신3사CEO의소통법'눈길'",
-  "[경제일보]SKT,통신요금다음은AI요금…'토큰게이트웨이'의진짜계...",
-  "[SK인사·인재기상도]①실적너머‘AI체질개선’본게임…SK사장단...",
-  "통신3사,정보보호투자확대…CEO가직접보안챙긴다",
-  "정재헌SKT대표,'AI유통'승부수...'토큰게이트웨이'로영토확장",
-  "SKT,AI보안사업확장본격화…기술개발넘어수익화모색",
   "SKT,T팩토리성수서'K-보물길'추진",
   "SK사장단인사,이달말나오나…CEO세미나전조기단행관측",
   "SK텔레콤,민관협력문화관광프로젝트추진…지역박물관연계확대",
@@ -6001,13 +5993,17 @@
   "이찬진,해킹사고'CEO책임론'파장…은행연말인사최대변수로",
   "4년만에5대은행장모아놓고…'해킹국감'에묻힌금융현안들",
   "SK텔레콤주가,10월20일애프터마켓76,900원2.04%하락",
-  "[뉴욕증시전략]치솟는프랑스국채수익률…시위격화에재정불안"
+  "[뉴욕증시전략]치솟는프랑스국채수익률…시위격화에재정불안",
+  "[코스피지수선물옵션]방산·조선·배터리주선물하락뚜렷…상승종...",
+  "충남문화관광재단,10월24일'2026공상페스티벌'천안서개최",
+  "67만전자·470만닉스제시한노무라證…“메모리공급부족2028년까지”",
+  "귀막는이어폰은옛말?삼성첫클립형‘갤럭시버즈온’출격",
+  "미국방차관\"AI기업협조안하면수출통제직접가할것\"",
+  "RFM핵심‘범용성’…승부처는결국데이터",
+  "금융권,해킹대비훈련했지만…다른시스템서정보유출",
+  "[이뉴스Live]해킹정보유출피해사과하는이환주KB국민은행장"
  ],
  "recent_sigs": [
-  [
-   "2026-10-20T10:42:13.698253+09:00",
-   "앤트로픽은 기부 논쟁 책임 AI기업 오픈AI는 피소 주에 8개 지분"
-  ],
   [
    "2026-10-20T10:44:15.336728+09:00",
    "~KT LG유플러스 ~LGU"
@@ -6575,9 +6571,21 @@
   [
    "2026-10-20T16:40:23.751098+09:00",
    "프랑스 국채수익률 치솟는 시위 격화에 재정불안"
+  ],
+  [
+   "2026-10-20T16:42:14.901090+09:00",
+   "배터리주 조선 선물 상승 하락 방산 뚜렷"
+  ],
+  [
+   "2026-10-20T16:42:14.901090+09:00",
+   "정보유출 다른 대비 시스템서 훈련했지만 금융권"
+  ],
+  [
+   "2026-10-20T16:42:14.901090+09:00",
+   "정보 이환주 유출 KB국민은행장 사과하는 피해"
   ]
  ],
- "last_run": "2026-10-20T16:40:46.697228+09:00",
+ "last_run": "2026-10-20T16:42:41.469689+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
