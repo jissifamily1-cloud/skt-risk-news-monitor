@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=205255",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900336.html",
-  "https://www.nongmin.com/article/20261019500146",
-  "https://www.thepowernews.co.kr/view.php?ud=202610191615158422de3f0aa1be_7",
-  "https://www.insight.co.kr/news/578290",
-  "https://www.xportsnews.com/article/2209036",
-  "http://coinreaders.com/263776",
-  "http://www.kdfnews.com/news/articleView.html?idxno=189527",
   "https://www.yna.co.kr/view/AKR20261019012453030?input=1195m",
   "https://hbnpress.com/news/view/1065596623762626",
   "https://news.tf.co.kr/read/national/2378032.htm",
@@ -2999,17 +2991,17 @@
   "https://view.asiae.co.kr/article/2026101316231650824",
   "https://www.fnnews.com/news/202610191602135334",
   "https://www.eroun.net/news/articleView.html?idxno=92918",
-  "http://www.inews24.com/view/2016676"
+  "http://www.inews24.com/view/2016676",
+  "https://www.slist.kr/news/articleView.html?idxno=774835",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728447",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640422",
+  "https://biz.heraldcorp.com/article/10908382",
+  "http://www.metroseoul.co.kr/article/20261020500161",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137708",
+  "http://www.newswell.co.kr/news/articleView.html?idxno=22837",
+  "https://www.yna.co.kr/view/AKR20261020072400009?input=1195m"
  ],
  "seen_titles": [
-  "은행권해킹發고객정보거래정황…보이스피싱등2차피해우려",
-  "해킹에고개숙인은행장들…“보안투자확대,피해땐전액배상”...",
-  "하루가멀다하고‘AI해킹’…개인정보지키는생활수칙",
-  "현대차·기아,아이디어페스티벌개최…‘트라이폴드러기지보드’대...",
-  "구광모회장앞에선류재철·현신균...LG전자최대실적,CNS수익성후...",
-  "한화3일만에새감독→KT도이강철최고대우재계약,롯데만일주일째...",
-  "아서헤이즈\"비트코인(BTC),AI거품클수록오른다\"...오픈AI·앤트로픽...",
-  "할리스개인정보유출규모276만건…사측\"2차피해가능성지속점검...",
   "할리스,개인정보276만건유출…\"가상화폐채굴목적접근\"(종합3보)",
   "LG전자베스트샵,iPhoneDuo사전예약혜택공개…통신사별구성달라",
   "호남반도체기업인국감증인채택공방…서왕진\"기업흔들기우려\"",
@@ -6001,7 +5993,15 @@
   "[AI전력난,직류로해결]③데이터센터가바꾸는전력의길…왜'DC배전...",
   "코스피·코스닥1%대반등…외국인·기관'쌍끌이매수'[fn마감시황]",
   "KT,K-패스2026개최...AI스타트업과AX협업성과공개",
-  "[아이포럼2026]AI패권전쟁,새로운질서…대한민국의승부처는"
+  "[아이포럼2026]AI패권전쟁,새로운질서…대한민국의승부처는",
+  "'피가낭자한'코스피,美AI·반도체주반등에도장초반2%대급락",
+  "냉각·로봇·반도체기판·OLED…구광모號,LG전자3사미래전략점검",
+  "[재계인사③]현대차·기아의'불확실성대응'···내년에더구체화...",
+  "[사설]기술유출막으려면예방·처벌실효성높여야",
+  "오래쓰면특별대우…LG유플러스,내년장기고객행사3배늘린다",
+  "KT,공장로봇부터통신망장애분석까지…피지컬·에이전틱AI사업화...",
+  "KT,아크릴과데이터·AI결합'의료AX'공동추진",
+  "올트먼,AI안전개발세갈래제시…\"IAEA형기구선호\""
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,13 @@
   [
    "2026-10-20T11:02:15.276407+09:00",
    "패권 전쟁 질서 대한민국의 승부처는 새로운"
+  ],
+  [
+   "2026-10-20T11:04:18.442892+09:00",
+   "제시 세갈래 선호 기구 안전개발 IAEA형"
   ]
  ],
- "last_run": "2026-10-20T11:02:33.481689+09:00",
+ "last_run": "2026-10-20T11:04:36.869143+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
