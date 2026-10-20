@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1316943&inflow=N",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1728345",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3726470",
-  "https://www.newsis.com/view/NISX20261020_0003832810",
-  "https://www.theguru.co.kr/news/article.html?no=108474",
-  "https://www.smartbizn.com/news/articleView.html?idxno=156907",
-  "https://www.newspim.com/news/view/20261020000284",
-  "https://byline.network/?p=9004111222623875",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708383",
   "https://www.seoultimes.news/news/article.html?no=2000101109",
   "https://www.newsis.com/view/NISX20261019_0003832262",
@@ -2999,17 +2991,17 @@
   "https://www.g-enews.com/view.php?ud=2026102107484645662bd56fbc3c_1",
   "https://www.newspim.com/news/view/20261021000031",
   "https://www.newsis.com/view/NISX20261021_0003834216",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145945"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145945",
+  "https://www.news1.kr/world/middleeast-africa/6326575",
+  "https://www.hankyung.com/article/2026102146806",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065566695382852",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706357",
+  "https://www.aitimes.com/news/articleView.html?idxno=216132",
+  "https://biz.sbs.co.kr/article_hub/20000341172?division=NAVER",
+  "https://www.newspim.com/news/view/20261021000032",
+  "https://view.asiae.co.kr/article/2026102107535283695"
  ],
  "seen_titles": [
-  "코스피,중동긴장·美금리상승에2%대하락...5640선",
-  "연이은금융사개인정보유출…과징금·징계수위주목",
-  "[Telecom&Now]SKB,가을신작3편공개…여행·미식·시니어예능",
-  "세종중앙공원서스포츠축제…마라톤·생활체육체험풍성",
-  "aT,농식품수출정보AI로과학기술혁신대상금상수상",
-  "캐나다AI반도체스타트업텐스토렌트,15억달러조달…기업가치62억...",
-  "美반도체주반등은남의일···코스피5630선밀리고코스닥도'털썩...",
-  "MDS테크,휴머노이드홈로봇프로젝트40억원수주",
   "에버스핀,금융·공공등7곳서위협IP21만여개탐지",
   "KT,AI스타트업과AX협력성과공개…K-PATH2026'개최",
   "KT,아크릴과의료AI사업추진…병원데이터활용확대",
@@ -6001,7 +5993,15 @@
   "독일,2030년까지AI연산역량4배확대…베를린정상회의서2250억유로...",
   "[미국특징주]슈퍼마이크로,AI서버호황에실적전망상향…시간외...",
   "[오늘의증시]코스피,급락딛고반등할까…야간선물1.8%↑",
-  "앤트로픽,상반기매출15배늘었으나...100조원이상손실"
+  "앤트로픽,상반기매출15배늘었으나...100조원이상손실",
+  "이란지도부\"美에제시한7대조건이행전까지협상없다\"",
+  "\"오늘도내계좌녹겠네\"…美반도체주하루만에또약세전환",
+  "신한은행,개방형금융지식플랫폼‘솔깃’오픈…AI검색대응·웹접...",
+  "실리콘밸리거물들은악역?…할리우드,빅테크'정조준'",
+  "할리우드,AI불안속저커버그·머스크·알트먼영화잇따라선보여",
+  "[비즈나우]빅테크'부도보험료'사상최고…AI거품꺼지나",
+  "스페이스X,테슬라와합병논의공식화...AI발설비투자2배전망",
+  "[2026국감]국민민원은'뺑뺑이'?…과기정통부·방미통위'핑퐁민원'12배"
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,13 @@
   [
    "2026-10-21T07:54:14.833762+09:00",
    "상반기 100조원 늘었으나 이상 매출 손실 앤트로픽 15배"
+  ],
+  [
+   "2026-10-21T07:56:15.644504+09:00",
+   "민원은 국민 과기정통부 핑퐁민원 12배 뺑뺑이"
   ]
  ],
- "last_run": "2026-10-21T07:54:39.178652+09:00",
+ "last_run": "2026-10-21T07:56:35.495437+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
