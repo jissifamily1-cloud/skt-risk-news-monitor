@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=215995",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705217",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705153",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1726747",
-  "https://www.g-enews.com/view.php?ud=202610041022135027fda4f5ab74_1",
   "https://www.aitimes.com/news/articleView.html?idxno=215968",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704951",
   "https://www.aitimes.com/news/articleView.html?idxno=215882",
@@ -2999,14 +2994,14 @@
   "https://www.joongang.co.kr/article/25471333",
   "https://www.ajunews.com/view/20261020183902701",
   "https://it.donga.com/109735/",
-  "https://www.kukinews.com/article/view/kuk202610200226"
+  "https://www.kukinews.com/article/view/kuk202610200226",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874515",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3727193",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3727197",
+  "https://www.thelec.kr/news/articleView.html?idxno=64002",
+  "https://byline.network/?p=9004111222624063"
  ],
  "seen_titles": [
-  "\"내가나를자동화하고있었다\"…내부고발자제이컵콕슨이밝힌AI다음...",
-  "[10월6일]\"아모데이와같은방향이라더니\"…알트먼,\"앤트로픽과근본...",
-  "\"AI개발늦추자\"는데1070조원베팅…美경제까지흔들릴까",
-  "샘알트먼\"AI로인한부작용불가피…일부는사회가감내해야\"",
-  "[서학개미안테나]세레브라스9%↑…샘알트먼\"긴밀한파트너\"한마디...",
   "안전연구보다모델출시우선…오픈AI속도전논쟁재점화",
   "오픈AI'에이전트폭주'에사면초가...전세계서법적·규제경고폭풍",
   "트럼프,신임AI차르에제이클레이턴낙점하나",
@@ -6001,7 +5996,12 @@
   "취임식전국무회의참석한중수청장…‘정치적중립’논란에도청와대...",
   "금융위,해킹피해시스템'전자금융기반시설'해석…경찰,중수청통보",
   "[주간보안동향]할리스,276만건개인정보유출…비밀번호까지털려外",
-  "AI해킹기술탓하더니…대형정보유출부른건‘보안부실’"
+  "AI해킹기술탓하더니…대형정보유출부른건‘보안부실’",
+  "'안타기계'손아섭방출이보여준프로야구트렌드변화",
+  "청양군,드론조종경진대회2위…2년연속도지사표창받아",
+  "청양고추구기자축제'성과점검'…11만명방문·14억판매",
+  "AMD\"피지컬AI,실시간제어와안정성이중요\"",
+  "레드햇,오라클OCI에하이브리드클라우드플랫폼제공확대"
  ],
  "recent_sigs": [
   [
@@ -6621,7 +6621,7 @@
    "부른 대형 정보유출 부실 기술 보안 탓하더니"
   ]
  ],
- "last_run": "2026-10-20T18:46:39.602755+09:00",
+ "last_run": "2026-10-20T18:48:38.869870+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
