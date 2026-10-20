@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.techm.kr/news/articleView.html?idxno=156261",
-  "http://www.ikld.kr/news/articleView.html?idxno=342502",
-  "https://www.sedaily.com/article/20103469",
-  "http://www.gndomin.com/news/articleView.html?idxno=493313",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006189",
-  "https://www.tfmedia.co.kr/news/article.html?no=208158",
-  "https://www.mt.co.kr/industry/2026/10/19/2026101913085019462",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193441",
   "http://www.segyebiz.com/newsView/20261019521515?OutUrl=naver",
   "https://www.lawissue.co.kr/view.php?ud=20261019155932223b50722e900_12",
   "https://www.hankyung.com/article/2026101915121",
@@ -2999,17 +2991,17 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2008139",
   "https://www.viva100.com/article/20261020500599",
   "https://vop.co.kr/A00001697229.html",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/20/2026102090149.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/20/2026102090149.html",
+  "https://www.joongang.co.kr/article/25471239",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1104402",
+  "https://www.yna.co.kr/view/AKR20261020111800008?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728485",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1416575",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193473",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482144",
+  "https://www.tokenpost.kr/news/breaking/424720"
  ],
  "seen_titles": [
-  "[국감26]정상혁신한은행장,2만5000명정보유출에집중포화…\"과실여...",
-  "[2026국감]전력공급책임놓고여야충돌",
-  "3년34억…이강철KT감독,역대최고액재계약",
-  "창원시의회,일본구레시'제24회조선통신사재현행렬'참가",
-  "해킹사태에고개숙인5대은행장…정상혁·이환주,연임시계불투명",
-  "[2026국감]해킹엔사과,금리엔말문막힌5대은행장",
-  "잇다,코리아핀테크위크서AI음성주문·결제시연",
-  "[뱅크NOW]IBK기업은행·Sh수협은행·케이뱅크",
   "[2026국감]이찬진금감원장“레버리지ETF심사서둘렀다…AI공격엔...",
   "[서울중앙지법판결]통신사기피해환급법규정에비추어채무부존재확인...",
   "구광모,전계열사전략점검…AI분야신사업기회찾는다",
@@ -6001,7 +5993,15 @@
   "부동산리스크대응…李\"중요한것은실제착공과입주\"[종합]",
   "‘해킹·희망퇴직’악재턴이통3사,합산영업이익5조봤다",
   "금융당국도지적한솔리다임중복상장최태원은왜개미와싸우려하나",
-  "KT,'K-PATH2026'개최…AI스타트업과협업성과공개"
+  "KT,'K-PATH2026'개최…AI스타트업과협업성과공개",
+  "“탓하지말라”5년연속꼴찌삼성을바꾼김상식의‘상식’",
+  "광명시,유네스코글로벌아카데미서평생학습정책공유",
+  "노무라증권\"메모리공급부족2028년까지…삼전닉스'매수'\"",
+  "네이버AI투자본격화·카카오톡비즈수익화…엇갈린3Q전략차",
+  "'안쓰는신용카드1767만장'…휴면회원개인정보관리사각지대우려",
+  "이방수전LG엔솔사장\"김동명사장,어떤연유로고발했는지배경모...",
+  "자동화로봇에통신망분석까지···KT,AI스타트업기술사업화추진",
+  "엔비디아1261만달러공매도새로연고래,행사앞두고포착"
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,21 @@
   [
    "2026-10-20T14:38:15.917409+09:00",
    "이통 합산 5조 악재 영업이익 3사 희망퇴직 봤다"
+  ],
+  [
+   "2026-10-20T14:40:24.235421+09:00",
+   "어떤 LG엔솔 고발했는지 연유로 이방수 사장 배경 김동명"
+  ],
+  [
+   "2026-10-20T14:40:24.235421+09:00",
+   "스타트업 ~KT 자동화 로봇에 분석까지 사업화 통신망 기술"
+  ],
+  [
+   "2026-10-20T14:40:24.235421+09:00",
+   "공매도 행사 1261만달러 새로 포착 앞두고 고래"
   ]
  ],
- "last_run": "2026-10-20T14:38:37.246663+09:00",
+ "last_run": "2026-10-20T14:40:54.264013+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
