@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=319268",
-  "https://www.newspim.com/news/view/20261019001342",
-  "https://www.dt.co.kr/article/12089710",
-  "https://www.sedaily.com/article/20103404",
   "https://news.tf.co.kr/read/economy/2378068.htm",
   "https://www.hankookilbo.com/news/article/A2026101916560000043?did=NA",
   "https://view.asiae.co.kr/article/2026101916302234665",
@@ -2999,13 +2995,13 @@
   "https://www.tokenpost.kr/news/blockchain/424685",
   "https://www.venturesquare.net/1121307/",
   "https://www.newsis.com/view/NISX20261020_0003832732",
-  "https://www.gpkorea.com/news/articleView.html?idxno=147765"
+  "https://www.gpkorea.com/news/articleView.html?idxno=147765",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208939",
+  "https://www.newspim.com/news/view/20261020000624",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261019010006061",
+  "https://www.tokenpost.kr/news/breaking/424688"
  ],
  "seen_titles": [
-  "할리스,276만명개인정보유출…\"가상화폐채굴위한접근파악\"",
-  "[2026국감]\"국민은행,첫침입놓치고2차공격에81명유출\"",
-  "[홍성철의까칠하게세상읽기]YTN의절차하자와배임딜레마",
-  "5대은행장,“AI해킹사태진심으로사과”",
   "\"中경쟁심화,임직원아이디어가희망\"…현대차·기아'아이디어페스...",
   "이강철KT감독'3년34억원'재계약…프로야구사령탑역대최고",
   "의성군,산불의교훈을실전대응력으로바꾼다",
@@ -6001,7 +5997,11 @@
   "호스킨슨\"이더리움'월드컴퓨터'구상잘못됐다\"…미드나이트대안제...",
   "에스투더블유,글로벌보안학술행사‘VB2026’서공급망공격탐지기...",
   "학교장이악성민원인퇴거·신고…점자교과서적시보급법제화",
-  "LG전자잘나가는데유플러스는국감도마…엇갈린LG계열사"
+  "LG전자잘나가는데유플러스는국감도마…엇갈린LG계열사",
+  "스틸리언,인도네시아국영·지방은행에모바일보안솔루션'앱수트'공...",
+  "中전방위내수부양,소비진작·민간투자확대총력",
+  "경제안보로영역넓히는국정원…기술유출·공급망위협대응강화",
+  "오픈AI,판단·선택·채점API테스트화면추가…100만토큰당0.10달러"
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,13 @@
   [
    "2026-10-20T12:56:17.548117+09:00",
    "LG전자 계열사 LG 국감 ~LGU 도마 엇갈린 잘나가는데 유플러스는"
+  ],
+  [
+   "2026-10-20T12:58:15.287344+09:00",
+   "채점 10달러 판단 선택 추가 API 토큰당 테스트 화면 100만"
   ]
  ],
- "last_run": "2026-10-20T12:56:39.417412+09:00",
+ "last_run": "2026-10-20T12:58:32.867789+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
