@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20103605",
-  "https://biz.heraldcorp.com/article/10908212",
-  "https://bizhankook.com/articles/big-5-bank-heads-criticized-audit.html",
-  "https://www.edaily.co.kr/News/Read?newsId=03063526645614888&mediaCodeNo=257",
-  "https://www.cnbizm.com/news/articleView.html?idxno=318553",
-  "https://www.sedaily.com/article/20103602",
-  "https://www.kmaeil.com/news/articleView.html?idxno=654867",
   "https://www.etnews.com/20261019000326",
   "http://www.phmbc.co.kr/www/news/desk_news?idx=204981",
   "https://www.widedaily.com/news/articleView.html?idxno=302109",
@@ -2999,16 +2992,16 @@
   "https://www.thelec.kr/news/articleView.html?idxno=64005",
   "https://www.thelec.kr/news/articleView.html?idxno=64004",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=66138",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215363"
+  "http://www.srtimes.kr/news/articleView.html?idxno=215363",
+  "https://www.dailian.co.kr/news/view/1703471/?sc=Naver",
+  "https://www.yna.co.kr/view/AKR20261021024100065?input=1195m",
+  "https://www.xportsnews.com/article/2209854",
+  "http://www.beyondpost.co.kr/view.php?ud=2026102009544773702aaae0046f_30",
+  "https://biz.sbs.co.kr/article_hub/20000341182?division=NAVER",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440262",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215341"
  ],
  "seen_titles": [
-  "EU,중국차‘유럽산포장’막는다…현지생산·R&D까지요구",
-  "일반개발자보다50%더번다…AI시대‘귀하신몸’된보안개발자",
-  "‘그야말로날개없는추락’…美반도체반등에도코스피2%대급락[투...",
-  "4년만에국감장선5대은행장,쏟아진질타에'진땀'",
-  "“SK하이닉스,솔리다임상장멈춰라…고승범의장결단촉구”",
-  "'550평'노태우묘역유지비논란…막대한비용출처는?",
-  "LG,美GPU중개시장진출…엔비디아GPU임대가격한눈에비교",
   "인천검단구,골목형상점가2곳서주민참여축제개최",
   "뱀부스컨소시엄,강릉ITS세계총회서AI교통관제솔루션공개",
   "기본소득에달라진청송..봉화\"군비로라도추진\"",
@@ -6001,7 +5994,14 @@
   "스틸리언,인도네시아BTN에앱보안공급",
   "금융외공공·민간에서도위협IP21만개탐지",
   "[로드픽]오픈AI,바이오스타트업인수…AI신약개발주도권경쟁",
-  "[2026국감]잇따른해킹사고…김현의원\"사이버보안연구기관간협력..."
+  "[2026국감]잇따른해킹사고…김현의원\"사이버보안연구기관간협력...",
+  "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?",
+  "인천시,영종도∼덕적도구간서도심항공교통실증성공",
+  "'韓야구자존심세웠다!'KIA슈퍼스타김도영,2026시즌전세계WAR2위...",
+  "빅테크기업들,소형모듈원자로(SMR)건설에잇따라나서...데이터센터전...",
+  "[굿모닝마켓]뉴욕증시혼조마감…기술주반등제약에나스닥하락",
+  "[뉴욕마켓워치]중동에서들려온반가운소식…달러↓주식·채권혼조",
+  "삼성·LG전자,로봇전쟁'맞불'…승자누가되나"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,13 @@
   [
    "2026-10-21T08:30:29.189238+09:00",
    "사이버보안 협력 잇따른 김현 의원 사고 연구기관"
+  ],
+  [
+   "2026-10-21T08:32:15.743516+09:00",
+   "전쟁 맞불 로봇 되나 승자 삼성 LG전자 누가"
   ]
  ],
- "last_run": "2026-10-21T08:30:51.093339+09:00",
+ "last_run": "2026-10-21T08:32:39.703262+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
