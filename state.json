@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20261009500016",
-  "https://zdnet.co.kr/view/?no=20261009073816",
-  "https://www.aitimes.com/news/articleView.html?idxno=216093",
-  "https://www.fnnews.com/news/202610200929103213",
-  "https://www.news1.kr/world/international-economy/6325455",
-  "https://www.fnnews.com/news/202610081452408589",
-  "https://zdnet.co.kr/view/?no=20261020094721",
-  "http://www.inews24.com/view/2016796",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=210415",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=253987",
   "https://www.yna.co.kr/view/AKR20261020049700017?input=1195m",
   "http://www.weeklytoday.com/news/articleView.html?idxno=798700",
@@ -2999,18 +2990,18 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092172246",
   "https://www.ziksir.com/news/articleView.html?idxno=150104",
   "https://biz.heraldcorp.com/article/10909321",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54454"
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54454",
+  "https://www.apnews.kr/news/articleView.html?idxno=3052290",
+  "https://sports.khan.co.kr/article/202610210800006?pt=nv",
+  "https://www.xportsnews.com/article/2209838",
+  "https://www.banronbodo.com/news/articleView.html?idxno=33213",
+  "https://isplus.com/article/view/isp202610210015",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=210430",
+  "https://www.esquirekorea.co.kr/article/1911567",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408451",
+  "https://www.cstimes.com/news/articleView.html?idxno=724585"
  ],
  "seen_titles": [
-  "저커버그의이미지는추락하는데,메타는왜잘나갈까?",
-  "오픈AI매출500억달러…기존700억보도와격차에AI주동반하락",
-  "오픈AI,수학난제해결주장…학계,신뢰성에의문드러내",
-  "오픈AI해고연구원3인\"AI추론감시기능보존해야\"",
-  "스피커상자없이외장패널로소리내는휴머노이드…아우모비오,강릉...",
-  "트럼프투자계좌,마이크론·AMD팔고메타최대2500만달러매수",
-  "금융권해킹연루AI도구,수백대서버서포착…해커신원추적(종합...",
-  "KT,아크릴과의료AX협력...병원맞춤AI서비스확산",
-  "한병도\"5대은행해킹,AI탓으로만돌릴수없어\"",
   "[이슈]금융권해킹후폭풍···은행보안투자성과로증명해야",
   "LGU+,내년장기고객초청프로그램3배로늘린다",
   "[AI픽]업스테이지·앵커노드,게임에셋검수AI평가체계개발",
@@ -6001,7 +5992,16 @@
   "어텐션랩,변전소신호의미복원해설비데이터해석하는AI개발[서울...",
   "\"AI거품론·중국추격과도\"…노무라\"삼성전자67만·SK하이닉스470만...",
   "외신,韓엘리스상장첫날폭락집중조명…“AI투자우려자극”",
-  "\"부유세낼수있는건특권\"젠슨황은왜캘리포니아에남나"
+  "\"부유세낼수있는건특권\"젠슨황은왜캘리포니아에남나",
+  "허윤홍'7년모듈러승부수'…AI시대'DC매출'1.2조바라본다",
+  "11년‘강철제국’왕조시대연다",
+  "[오피셜]'기자단2위→팬투표서역전극'KT힐리어드,KBO최초업적해...",
+  "[상생의현장,기업과지역①]쿠팡·코카콜라등,골목상권·지역기업...",
+  "추영우♥김소현연애시작했는데변수…여사친한소이에분노(연애박사...",
+  "[분석]AI가키우는동박적층판시장···소재·원료까지뜬다",
+  "볼보ES90과폴스타3의평행이론",
+  "[TECH한주]엔비디아의벽을넘는K-반도체,'리벨리온'의저력",
+  "[소비자의선택]SKT,29년연속고객만족도1위비결은"
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,17 @@
   [
    "2026-10-21T08:00:40.955855+09:00",
    "황은 남나 젠슨 특권 캘리포니아에 부유세 있는"
+  ],
+  [
+   "2026-10-21T08:02:16.451882+09:00",
+   "넘는 저력 엔비디아의 반도체 벽을 리벨리온"
+  ],
+  [
+   "2026-10-21T08:02:16.451882+09:00",
+   "비결은 1위 연속 ~SKT 29년 고객만족도"
   ]
  ],
- "last_run": "2026-10-21T08:01:05.564232+09:00",
+ "last_run": "2026-10-21T08:02:37.215910+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
