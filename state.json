@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/19/2026101990176.html",
-  "https://www.hankookilbo.com/news/article/A2026101915060000189?did=NA",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874201",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307744",
-  "https://www.yna.co.kr/view/AKR20261019139100001?input=1195m",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35150",
-  "https://www.ajunews.com/view/20261019133726590",
-  "https://www.onews.tv/news/articleView.html?idxno=289468",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496613",
   "https://www.newsis.com/view/NISI20261019_0021495549",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=302952",
@@ -2999,17 +2991,17 @@
   "https://www.cnbnews.com/news/articleView.html?idxno=1019693",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=267911",
   "https://www.ytn.co.kr/_ln/0104_202610201111237896",
-  "http://journal.kobeta.com/?post_type=post&p=64220"
+  "http://journal.kobeta.com/?post_type=post&p=64220",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90317",
+  "https://www.edaily.co.kr/News/Read?newsId=03417766645614888&mediaCodeNo=257",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708411",
+  "https://www.g-enews.com/view.php?ud=202610201112218645e7e8286d56_1",
+  "https://www.esgeconomy.com/news/articleView.html?idxno=17060",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640499",
+  "https://www.hg-times.com/news/articleView.html?idxno=306219",
+  "http://www.inews24.com/view/2016874"
  ],
  "seen_titles": [
-  "프로야구두산,'통산최다안타3위'손아섭등11명방출",
-  "비판의식했나...공익기금만들고노동자·중기돕겠다는빅테크들",
-  "[이슈국감]신한은행2만5000여명정보유출에정상혁\"송구하게생각\"",
-  "대출정보100원·은행정보8000원···금융권개인정보,포털서버젓이...",
-  "국힘,정무위서'단일종목ETF'맹공…與는정책질의에집중",
-  "[2026국감]통합회원정보유출,운영사·지주사책임은…개보위추가...",
-  "회원비번·주소까지털렸다…유통업계해킹경고등",
-  "할리스,가상화폐채굴용해킹에뚫렸다…고객정보276만건유출",
   "[국감]'은행권AI해킹'유출피해입증은고객몫?…책임전가논란",
   "해킹관련질의듣는신한은행장-이찬진금감원장",
   "\"'경쟁사부작용'악재가호재로?…SK바이오팜'오파칼림'반전카드되...",
@@ -6001,7 +5993,15 @@
   "AI로찾고공시로검증…가천대,실전기업분석교육",
   "증권사1~8월매담대63조원취급…이찬진\"문제확인돼점검\"",
   "단한명이AI로기업100곳해킹...건당비용단돈'50달러'",
-  "YTN최다액출자자변경승인취소청문연기될듯"
+  "YTN최다액출자자변경승인취소청문연기될듯",
+  "넥스비아,'2026산업AIEXPO'참가…산업별AI기술·적용사례소개",
+  "앵커노드,업스테이지와‘AI게임에셋벤치마크’공동개발",
+  "빅웨이브로보틱스,피지컬AI통합개발플랫폼'하이퍼파운드리'출시",
+  "日금융사외주망털렸다…정부\"위탁사보안즉각쇄신\"",
+  "\"솔리다임중복상장의본질,최태원회장과일반주주간이해상충\"",
+  "오픈AI,앤트로픽IPO앞두고300억달러투자유치···자금확보속도...",
+  "[국감]전현희의원,\"AI해킹위협,금융권공동방어체계구축해야\"",
+  "[단독]개보위,BNK부산은행·현대캐피탈개인정보유출'중요사건'지정"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,17 @@
   [
    "2026-10-20T11:12:15.547950+09:00",
    "시민 전남광주통합특별시의회 정책 참여 대안 맞춤형 해소 격차"
+  ],
+  [
+   "2026-10-20T11:16:15.253537+09:00",
+   "위협 금융권 방어체계 공동 구축해야 의원 전현희"
+  ],
+  [
+   "2026-10-20T11:16:15.253537+09:00",
+   "BNK부산은행 중요사건 유출 개인정보 지정 현대캐피탈"
   ]
  ],
- "last_run": "2026-10-20T11:14:34.253771+09:00",
+ "last_run": "2026-10-20T11:16:43.788283+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7206,6 +7214,7 @@
   "taxwatch.co.kr": "택스워치",
   "dailylog.co.kr": "데일리로그",
   "ccn.hcn.co.kr": "ccn.hcn.co.kr",
-  "andongmbc.co.kr": "안동MBC"
+  "andongmbc.co.kr": "안동MBC",
+  "hg-times.com": "한강타임즈"
  }
 }
