@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=774795",
-  "https://www.ajunews.com/view/20261020091111461",
-  "http://www.efnews.co.kr/news/articleView.html?idxno=133261",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90647",
-  "https://www.news1.kr/it-science/internet-platform/6325385",
-  "https://www.news1.kr/bio/general/6324760",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708371",
-  "http://www.newsdream.kr/news/articleView.html?idxno=120356",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440071",
   "https://www.sentv.co.kr/article/view/sentv202610200031",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=313503",
@@ -2999,17 +2991,17 @@
   "https://news.ifm.kr/news/articleView.html?idxno=482185",
   "https://www.itooza.com/common/iview.php?no=2026102010231554177",
   "https://www.hankyung.com/article/202610190357i",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=209969"
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=209969",
+  "https://www.insight.co.kr/news/578276",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202609111549269560108965",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610201639410680103770",
+  "https://woman.donga.com/3/all/12/6425893/1",
+  "https://view.asiae.co.kr/article/2026102017201533376",
+  "https://www.segye.com/newsView/20261020519971?OutUrl=naver",
+  "https://www.newscj.com/news/articleView.html?idxno=3441884",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690890"
  ],
  "seen_titles": [
-  "해킹정보건당100원에거래…이찬진\"2차피해차단체계마련\"",
-  "LG유플러스,장기고객초청프로그램3배확대",
-  "KT,'K-PATH2026'행사서AI스타트업협업사례공개",
-  "에버스핀\"금융·공공·민간등AI해킹위협IP21만개탐지\"",
-  "NCAI,'바르코3D·사운드'첫달구독료50%할인...AI창작지원",
-  "NCAI,3D모델·사운드생성AI첫달반값…\"AI창작지원\"",
-  "[알립니다]K-바이오,글로벌시장을담다…신약·의료기기·재생의료미...",
-  "레드햇,오라클클라우드서하이브리드클라우드플랫폼제공확장",
   "NH농협은행,'대고객AI에이전트'착수…손안의맞춤형금융비서구현",
   "日증시,美기술주반등에도이틀연속하락개장",
   "MDS테크,휴머노이드홈로봇에40억규모젯슨패키지공급",
@@ -6001,7 +5993,15 @@
   "구광모LG회장,전계열사사업보고회돌입…AI미래승부처'정조준'",
   "[미국주식]2026년10월마법공식30선",
   "AI가AI를해킹하는시대,우리의할일은?[태평양의미래금융]",
-  "신한·국민·하나은행,해킹피해보상한다…은행별보상기준은"
+  "신한·국민·하나은행,해킹피해보상한다…은행별보상기준은",
+  "사업재편이끈최창원,AI현장에도발걸음...수펙스의장유임관측",
+  "[더벨][벤처리움IN실리콘밸리]김형진메타크라우드대표\"딥보이스탐...",
+  "[더벨][현장줌인]AI스타트업16곳집결,매출·고객사앞세워초기투...",
+  "더똑똑해진다이어트앱",
+  "\"애플,8조에이자까지물어내\"…소송리스크에주가향방은[클릭e종목...",
+  "李대통령“2030년까지3기신도시물량90%착공”[청와대24시]",
+  "[천지일보이슈종합]주택공급속도전·역삼동방화·주우크라공관원...",
+  "국감나온5대시중은행장…‘정보유출피해보상안’에질타쏟아진..."
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,13 @@
   [
    "2026-10-21T07:02:16.217420+09:00",
    "보상한다 보상 은행별 기준은 하나은행 국민 신한 피해"
+  ],
+  [
+   "2026-10-21T07:04:16.941048+09:00",
+   "메타크라우드 딥보이스 대표 김형진"
   ]
  ],
- "last_run": "2026-10-21T07:02:42.486154+09:00",
+ "last_run": "2026-10-21T07:04:38.890351+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
