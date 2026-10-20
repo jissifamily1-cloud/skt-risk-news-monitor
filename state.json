@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=869025",
-  "https://www.dailian.co.kr/news/view/1696130/?sc=Naver",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868688",
-  "https://www.itdaily.kr/news/articleView.html?idxno=241887",
-  "http://www.dailypop.kr/news/articleView.html?idxno=102952",
-  "https://www.newsis.com/view/NISX20260928_0003805836",
-  "https://www.mk.co.kr/article/12163136",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=868537",
-  "http://www.inews24.com/view/2009551",
-  "https://www.livebiz.today/news/articleView.html?idxno=205159",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62745",
   "https://www.sedaily.com/article/20095416",
   "http://www.newsdream.kr/news/articleView.html?idxno=118896",
   "https://www.edaily.co.kr/News/Read?newsId=02099206645584712&mediaCodeNo=257",
@@ -2999,20 +2988,20 @@
   "http://www.economytalk.kr/news/articleView.html?idxno=424744",
   "https://www.the-today.com/news/articleView.html?idxno=92082",
   "https://www.inthenews.co.kr/news/article.html?no=93304",
-  "https://www.etnews.com/20261020000377"
+  "https://www.etnews.com/20261020000377",
+  "https://www.the-today.com/news/articleView.html?idxno=92083",
+  "https://www.chosun.com/national/2026/10/20/XOZYKKP34VGLLEXZK3I2OHEJFI/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3727142",
+  "https://www.ajunews.com/view/20261020173155499",
+  "https://www.aitimes.com/news/articleView.html?idxno=216450",
+  "https://www.viva100.com/article/20261020501145",
+  "https://www.joongangenews.com/news/articleView.html?idxno=556786",
+  "https://www.ytn.co.kr/_ln/0102_202610201743479460",
+  "https://www.hankookilbo.com/news/article/A2026102010220004801?did=NA",
+  "https://www.sisaweek.com/news/articleView.html?idxno=238480",
+  "https://zdnet.co.kr/view/?no=20261020174529"
  ],
  "seen_titles": [
-  "통신비인하에설곳좁아지는알뜰폰",
-  "알뜰폰업계한자리에…정부,설비투자·전파사용료감면등지원책논...",
-  "해킹국감2년째…AI·플랫폼정책은뒷전?",
-  "[피싱①]목표는'좀비폰'…전화‧URL로악성앱설치유도",
-  "이통사가변한다…CEO가보안챙기고요금은반년마다최적화알려준다",
-  "AI안경韓공략넓힌메타…시장커질수록커지는'카메라딜레마'",
-  "“수습만말고예방도잘하자”이여성한마디에…통신사사장들집합",
-  "송경희\"이통3사CEO가개인정보직접챙겨야\"",
-  "\"개인정보보호,CEO가직접챙긴다\"…개보위,이통3사실태점검추진(종...",
-  "이통사CEO와첫공식대면한개보위원장\"정보유출사고,모두무겁게...",
-  "KT,국내이통사최초NATO무선통신표준화논의참여",
   "30분째“잠시만기다려주시면~”듣는중…공짜인줄알았는데돈빠...",
   "KT,국내이통사첫NATO5G·6G표준화합류…차세대국방망선도",
   "알뜰폰1000만명넘었는데…이주희·경실련“이제는질적성장”",
@@ -6001,7 +5990,18 @@
   "LG전자'AI홈'해킹되면어쩌나…우리집'보안'괜찮을까",
   "中9월도시실업률5.2%…전월比0.1%p하락",
   "NH농협은행,자산관리에전세대출·사기예방AI에이전트개발",
-  "옵스왓,AI모델속숨은위협잡는다…'메타디펜더이더'에LLM스캐닝..."
+  "옵스왓,AI모델속숨은위협잡는다…'메타디펜더이더'에LLM스캐닝...",
+  "'감자의고장'中우란차부,베이징잇는'AI토큰거점'으로변신",
+  "물살가르는제트스키국가대표선발전…경북의성서국내첫개최",
+  "홍성군의회행정복지위,홍성문화원운영개선·활성화방안논의",
+  "박찬대인천시장,청라영상문화복합단지개발계획변경...2031년준공추...",
+  "스카이폴AI,CAD·BIM3D설계자동화월드모델'스카이-001'공개",
+  "인천경제청청라SOMCITY사업기간4년연장…K-콘텐츠클러스터재시동",
+  "kt힐리어드,9~10월월간MVP…외국인선수최초2회수상",
+  "[기업]KT,의료AI전문기관과협력...병원맞춤AI서비스",
+  "아마존주가왜올랐나...엔비디아AI소프트웨어생태계에도전장",
+  "솔리다임중복상장논란확산…얽히고설킨이해관계",
+  "MS\"해킹안당한AI도위험\"…내부에이전트통제강조"
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,17 @@
   [
    "2026-10-20T17:44:16.868186+09:00",
    "우리 어쩌나 AI홈 해킹되면 LG전자 보안 괜찮을까"
+  ],
+  [
+   "2026-10-20T17:48:16.441637+09:00",
+   "확산 얽히고 이해관계 솔리다임 설킨 중복상장 논란"
+  ],
+  [
+   "2026-10-20T17:48:16.441637+09:00",
+   "위험 에이전트 내부 강조 당한 AI도 통제 MS"
   ]
  ],
- "last_run": "2026-10-20T17:46:36.621459+09:00",
+ "last_run": "2026-10-20T17:48:37.399495+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
