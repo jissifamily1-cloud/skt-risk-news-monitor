@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=205257",
-  "http://www.segyebiz.com/newsView/20261019518144?OutUrl=naver",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439977",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=49843",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689124",
-  "http://www.metroseoul.co.kr/article/20261019500528",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496618",
-  "https://www.newsis.com/view/NISX20261019_0003832051",
-  "https://biz.heraldcorp.com/article/10907535",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=205255",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/19/2026101900336.html",
   "https://www.nongmin.com/article/20261019500146",
@@ -2999,18 +2990,18 @@
   "http://www.techholic.co.kr/news/articleView.html?idxno=223309",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000142.html",
   "https://www.jemin.com/news/articleView.html?idxno=844872",
-  "https://www.khan.co.kr/article/202610201059011"
+  "https://www.khan.co.kr/article/202610201059011",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073654",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=312084",
+  "https://view.asiae.co.kr/article/2026092815222024065",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408343",
+  "https://www.mk.co.kr/article/12180392",
+  "https://view.asiae.co.kr/article/2026101316231650824",
+  "https://www.fnnews.com/news/202610191602135334",
+  "https://www.eroun.net/news/articleView.html?idxno=92918",
+  "http://www.inews24.com/view/2016676"
  ],
  "seen_titles": [
-  "은행장들\"AI해킹대응강화\"…국감서피해입증책임·보상책질타",
-  "[2026국감]신한·국민·하나은행장‘AI해킹피해’일제히사과…우...",
-  "해킹정보유출에고개숙인은행장\"진심으로송구…충실히보상\"",
-  "구광모,LG전계열사사업전략점검…AI·빅테크협력성과에초점",
-  "미국“EU,위성인터넷주파수미국기업제한땐파괴적보복”",
-  "앤트로픽,공익펀드에지분5%배정추진…기업가치50%오를때마다2%...",
-  "반도체주급락은과도한우려탓?...DS투자증권\"비중확대할때\"",
-  "식약처\"식의약공공데이터·AI활용우수작선정\"",
-  "5대은행장국감출석…해킹사고에사과·재발방지약속",
   "은행권해킹發고객정보거래정황…보이스피싱등2차피해우려",
   "해킹에고개숙인은행장들…“보안투자확대,피해땐전액배상”...",
   "하루가멀다하고‘AI해킹’…개인정보지키는생활수칙",
@@ -6001,7 +5992,16 @@
   "KT,의료AI전문기업아크릴과병원맞춤AI서비스협력",
   "방미통위,유진의YTN청문주재자기피신청수용…21일청문회연기...",
   "오픈AI,39조원규모투자유치추진…앤트로픽상장앞두고자금확보...",
-  "[단독]해킹고도화되는데···농협·신협·산림조합은정보보호예산줄..."
+  "[단독]해킹고도화되는데···농협·신협·산림조합은정보보호예산줄...",
+  "[포토]U+와화담숲단풍놀이",
+  "삼성증권,가을야구시즌맞이연금가입이벤트시작",
+  "[논단]통신산업으로되짚어보는'버블경고'",
+  "글로벌AI,상시에이전트경쟁격화…안전·저작권도시험대",
+  "[단독]中AI,실리콘밸리이어판교개발현장도파고들었다",
+  "[AI전력난,직류로해결]③데이터센터가바꾸는전력의길…왜'DC배전...",
+  "코스피·코스닥1%대반등…외국인·기관'쌍끌이매수'[fn마감시황]",
+  "KT,K-패스2026개최...AI스타트업과AX협업성과공개",
+  "[아이포럼2026]AI패권전쟁,새로운질서…대한민국의승부처는"
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,13 @@
   [
    "2026-10-20T11:00:38.987262+09:00",
    "정보보호 예산 농협 고도화되는데 산림조합은 신협"
+  ],
+  [
+   "2026-10-20T11:02:15.276407+09:00",
+   "패권 전쟁 질서 대한민국의 승부처는 새로운"
   ]
  ],
- "last_run": "2026-10-20T11:01:05.272410+09:00",
+ "last_run": "2026-10-20T11:02:33.481689+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
