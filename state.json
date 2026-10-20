@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8687727",
-  "http://www.newstomato.com/ReadNews.aspx?no=1316966&inflow=N",
-  "https://www.newsis.com/view/NISX20261016_0003829065",
-  "https://www.gokorea.kr/news/articleView.html?idxno=881697",
-  "https://www.joongang.co.kr/article/25470327",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008801005&plink=ORI&cooper=NAVER",
   "http://www.beyondpost.co.kr/view.php?ud=2026101613122349952aaae0046f_30",
   "https://www.ppss.kr/news/articleView.html?idxno=315829",
   "https://www.newsis.com/view/NISX20261016_0003828551",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690349",
   "http://www.inews24.com/view/2017114",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556001",
-  "https://view.asiae.co.kr/article/2026102018174009111"
+  "https://view.asiae.co.kr/article/2026102018174009111",
+  "https://www.sportsworldi.com/newsView/20261020521407",
+  "https://www.kmaeil.com/news/articleView.html?idxno=655044",
+  "https://www.newsis.com/view/NISX20261020_0003833454",
+  "http://www.inews24.com/view/2017104",
+  "https://www.slist.kr/news/articleView.html?idxno=774942",
+  "https://www.hidomin.com/news/articleView.html?idxno=725748"
  ],
  "seen_titles": [
-  "\"'광고싫어한다'던올트먼광고사업확장에열중\"",
-  "벽타고공중제비도는테슬라로드스터…“직접안봤으면AI라했을것...",
-  "미8개주무더기소송에상장중단요구…AI질주잇단제동",
-  "올트먼은\"규제강화\",젠슨황은\"중국과협력\"…AI안전해법놓고이...",
-  "앤트로픽,외부기관에AI안전평가접근권부여",
-  "‘하늘나는테슬라’환호터졌다…흰가스뿜으며車5대넘어착지",
   "차량5대뛰어넘어착지…테슬라,하늘나는스포츠카시연성공",
   "테슬라,날아다니는스포츠카'로드스터'선보여...차량5대훌쩍뛰어넘...",
   "\"직원처럼내부시스템접근\"...앤트로픽,AI감시빗장풀었다",
@@ -6001,7 +5995,13 @@
   "경찰,금융권해킹‘중대범죄’로판단…중수청에통보키로",
   "경찰,연쇄금융기관해킹'중대범죄'로판단…중수청에이첩예상",
   "경찰,금융권해킹전자금융거래법위반추가인지…중수청통보예정",
-  "[2026국감]연구비부정의혹에근무중게임·해킹까지…과학기술계기..."
+  "[2026국감]연구비부정의혹에근무중게임·해킹까지…과학기술계기...",
+  "[SW포커스]‘사령탑컴백’최원호의그라운드복귀…APBC대표팀11월...",
+  "인천경제청,청라영상문화복합단지개발계획변경안통과...2031년준공...",
+  "전통시장에‘AI관광집사’떴다…길안내·혼잡도확인·통역",
+  "\"6G핵심은7GHz주파수확보⋯이통3사주파수공동활용고려해야\"",
+  "'kp'도메인北웹사이트,무더기접속장애...해킹공격?",
+  "금융권해킹사건'중대범죄'로판단…경찰,중수청에통보결정"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,13 @@
   [
    "2026-10-20T18:20:25.577296+09:00",
    "근무 부정 게임 의혹에 과학기술계 해킹까지 연구비"
+  ],
+  [
+   "2026-10-20T18:22:14.920295+09:00",
+   "7GHz 공동 확보 주파수 핵심은 활용 고려해야 6G 이통3사"
   ]
  ],
- "last_run": "2026-10-20T18:20:49.275016+09:00",
+ "last_run": "2026-10-20T18:22:37.494721+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
