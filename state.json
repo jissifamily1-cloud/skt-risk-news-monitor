@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261019172400001?input=1195m",
-  "https://www.g-enews.com/view.php?ud=20261019155235627139bf6e4b2_1",
-  "https://www.edaily.co.kr/News/Read?newsId=04910166645614560&mediaCodeNo=257",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261020.22005005413",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116292",
-  "http://coinreaders.com/263948",
-  "https://www.ngetnews.com/news/articleView.html?idxno=554780",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=746222",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=765968",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107253",
   "https://www.rcast.co.kr/news/articleView.html?idxno=31842",
   "https://daily.hankooki.com/news/articleView.html?idxno=1416307",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440011",
@@ -2999,19 +2989,19 @@
   "https://www.edaily.co.kr/News/Read?newsId=04093446645614888&mediaCodeNo=257",
   "https://www.dailian.co.kr/news/view/1703734/?sc=Naver",
   "https://www.fnnews.com/news/202610200817332002",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000256.html"
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000256.html",
+  "https://www.starnewskorea.com/sports/2026/10/20/2026102014422093504",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874431",
+  "https://www.widedaily.com/news/articleView.html?idxno=302130",
+  "https://www.mydaily.co.kr/page/view/2026102014505474852",
+  "https://www.ajunews.com/view/20261020151126823",
+  "https://www.econovill.com/news/articleView.html?idxno=754273",
+  "https://m.skyedaily.com/news_view.html?ID=313266",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728502",
+  "https://www.dailian.co.kr/news/view/1703717/?sc=Naver",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137734"
  ],
  "seen_titles": [
-  "지역난방공사사장인선공방…\"낙하산인사\"·\"망신주기그만\"",
-  "LG,엔비디아·MS협력후속점검…전계열사사업보고회서실행계획논...",
-  "빚으로키운美AI데이터센터…美3곳중1곳'무산위기'",
-  "여도야도시중은행연쇄해킹사태집중질타",
-  "델,산업현장특화'델프로러기드'신제품출시…\"AI가속및보안강...",
-  "비트코인(BTC)지갑,13년잠들다순식간에대규모이체...매도준비하나...",
-  "투자자보호부터고객정보유출도마…금감원·은행장국감서집중질타...",
-  "[2026국감-정무위]5대은행장'해킹국감'서거듭사과...\"AI보안시스...",
-  "이재용삼성전자회장,올해지구4.3바퀴돌았다...글로벌네트워크다...",
-  "'AI승부처'선구광모의다음수",
   "하나증권,신MTS'하나증권V'출시기념특판발행어음판매外",
   "국감장서연임기준묻자…정상혁'실적',이호성·정진완'내부관리'",
   "5대은행장,해킹·지배구조·이자장사질타에\"거듭송구\"…진땀'뻘뻘...",
@@ -6001,7 +5991,17 @@
   "KT,‘K-PATH2026’서AI스타트업과AX협업결실공개",
   "KT·아크릴,의료데이터와AI잇는다…병원AX공동공략",
   "젠슨황의비판에독일,엔비디아와AI협약체결한다",
-  "금융사40곳모의해킹에도사고시스템'0건'…금융당국보안점검도..."
+  "금융사40곳모의해킹에도사고시스템'0건'…금융당국보안점검도...",
+  "[공식발표]'퇴출위기→KBO새역사'힐리어드,KT우승+외인최초월간...",
+  "[마켓H]외국인28조팔았다…AI헤지펀드청산설에코스피'흔들'",
+  "[특징주]빅웨이브로보틱스,'하이퍼파운드리'공개…휴머노이드연계...",
+  "[MD포커스]“실적이가장중요”손든정상혁신한은행장…‘연임갈림...",
+  "학부모악성민원에'통화·면담종료·퇴거조치'가능해진다…불응땐...",
+  "[IT큐레이션]마이크로소프트는사내AI에이전트도믿지못한다",
+  "\"주주몫덜어총수몫늘리는꼴\"…'SK,솔리다임상장추진'비판여론...",
+  "[Telecom&Now]KT,아크릴과의료AX'맞손'…병원별맞춤모델발굴등",
+  "\"韓금융권뚫은中해킹AI,日까지노렸다…기업80곳공격표적\"",
+  "카카오톡무료대화백업용량비공개…방미통위법위반여부검토"
  ],
  "recent_sigs": [
   [
@@ -6585,7 +6585,7 @@
    "보안 모의해킹에도 금융당국 금융사 시스템 40곳 사고 0건 점검"
   ]
  ],
- "last_run": "2026-10-20T15:22:38.292830+09:00",
+ "last_run": "2026-10-20T15:24:33.402786+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
