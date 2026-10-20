@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253987",
-  "https://www.yna.co.kr/view/AKR20261020049700017?input=1195m",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=798700",
-  "https://edu.donga.com/news/articleView.html?idxno=112951",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440078",
-  "https://biz.sbs.co.kr/article_hub/20000340929?division=NAVER",
-  "http://www.ddanzi.com/897278711",
-  "http://www.ikoreanspirit.com/news/articleView.html?idxno=87598",
-  "http://www.newsmaker.or.kr/news/articleView.html?idxno=183706",
-  "https://www.segye.com/newsView/20260930508627?OutUrl=naver",
   "https://www.etoday.co.kr/news/view/2630635",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=302993",
   "https://www.businessplus.kr/news/articleView.html?idxno=118422",
@@ -2999,19 +2989,19 @@
   "https://www.datasom.co.kr/news/articleView.html?idxno=210430",
   "https://www.esquirekorea.co.kr/article/1911567",
   "https://www.epnc.co.kr/news/articleView.html?idxno=408451",
-  "https://www.cstimes.com/news/articleView.html?idxno=724585"
+  "https://www.cstimes.com/news/articleView.html?idxno=724585",
+  "https://www.dailysecu.com/news/articleView.html?idxno=208967",
+  "https://www.bbc.com/korean/articles/c6z98g8wjwj7o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://www.news2day.co.kr/article/20261009500016",
+  "https://zdnet.co.kr/view/?no=20261009073816",
+  "https://www.ajunews.com/view/20261020152112853",
+  "https://www.news1.kr/world/international-economy/6325455",
+  "https://www.fnnews.com/news/202610081452408589",
+  "https://www.seoultimes.news/news/article.html?no=2000101043",
+  "https://www.vegannews.co.kr/news/article.html?no=394976",
+  "https://dealsite.co.kr/articles/170960"
  ],
  "seen_titles": [
-  "[이슈]금융권해킹후폭풍···은행보안투자성과로증명해야",
-  "LGU+,내년장기고객초청프로그램3배로늘린다",
-  "[AI픽]업스테이지·앵커노드,게임에셋검수AI평가체계개발",
-  "[금융권소식]KB국민은행ㆍ하나은행ㆍNH농협은행(10.20)",
-  "알바몬,AI로적합한지원자연결하는채용솔루션'스마트픽'출시",
-  "제프리스,고객들美기술주순매도5년만최대…QQQPER6년최저",
-  "[증시타임]AI버블경고등…닷컴버블재현되나",
-  "[뉴공아카이브]주식아가방:박시동경제평론가·12시에만나요진행자...",
-  "인공지능(AI)으로펼쳐지는일상경험하세요",
-  "9월마지막주ETF시장,코스닥·반도체·전고체배터리강세",
   "63만원vs27만원…‘대장주’삼성전자주가향방은",
   "AI거물20여명불러모은트럼프⋯규제대신‘자율통제’",
   "병원에잠든데이터,AI로깨운다…KT·아크릴의료AX맞손",
@@ -6001,7 +5991,17 @@
   "[분석]AI가키우는동박적층판시장···소재·원료까지뜬다",
   "볼보ES90과폴스타3의평행이론",
   "[TECH한주]엔비디아의벽을넘는K-반도체,'리벨리온'의저력",
-  "[소비자의선택]SKT,29년연속고객만족도1위비결은"
+  "[소비자의선택]SKT,29년연속고객만족도1위비결은",
+  "[이혁중CISO칼럼]레아(REA)를아시나요?AI가바뀌놓을보안대응방...",
+  "저커버그의이미지는추락하는데,메타는왜잘나갈까?",
+  "오픈AI매출500억달러…기존700억보도와격차에AI주동반하락",
+  "오픈AI,수학난제해결주장…학계,신뢰성에의문드러내",
+  "韓美中피지컬AI3파전...최종목표는'범용AI뇌'",
+  "트럼프,마이크론·AMD주식팔고메타최대2500만달러샀다",
+  "금융권해킹연루AI도구,수백대서버서포착…해커신원추적(종합...",
+  "[뉴스앤데이터]<2>통신3사독립이사16명,위원회57건겸직…KT1인...",
+  "SK텔레콤거래량13.6%감소…20일65만2578주",
+  "해킹위험커지는데사이버보험'걸음마'…수요도공급도'소극적'"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,21 @@
   [
    "2026-10-21T08:02:16.451882+09:00",
    "비결은 1위 연속 ~SKT 29년 고객만족도"
+  ],
+  [
+   "2026-10-21T08:04:14.736266+09:00",
+   "65만2578주 ~SKT 거래량 감소 20일"
+  ],
+  [
+   "2026-10-21T08:04:14.736266+09:00",
+   "통신 겸직 1인 3사 위원회 57건 독립이사 16명 ~KT"
+  ],
+  [
+   "2026-10-21T08:04:14.736266+09:00",
+   "커지는데 소극적 수요도 위험 걸음마 사이버보험 공급도"
   ]
  ],
- "last_run": "2026-10-21T08:02:37.215910+09:00",
+ "last_run": "2026-10-21T08:04:44.301852+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
