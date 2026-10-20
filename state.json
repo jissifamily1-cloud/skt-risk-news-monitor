@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261019000326",
-  "http://www.phmbc.co.kr/www/news/desk_news?idx=204981",
-  "https://www.widedaily.com/news/articleView.html?idxno=302109",
-  "http://kor.theasian.asia/archives/419149",
-  "https://www.sportsseoul.com/news/read/1642596",
-  "https://sports.donga.com/economy/article/all/20261018/134859717/1",
-  "https://thetracker.co.kr/View.aspx?No=4270402",
-  "https://www.sedaily.com/article/20103606",
-  "https://www.mt.co.kr/tech/2026/10/20/2026102009032843740",
   "https://www.segye.com/newsView/20261020507381?OutUrl=naver",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449495",
   "http://www.kdfnews.com/news/articleView.html?idxno=189571",
@@ -2999,18 +2990,18 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026102009544773702aaae0046f_30",
   "https://biz.sbs.co.kr/article_hub/20000341182?division=NAVER",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440262",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215341"
+  "http://www.srtimes.kr/news/articleView.html?idxno=215341",
+  "https://www.cnbizm.com/news/articleView.html?idxno=318553",
+  "http://www.osen.co.kr/article/G1112896062",
+  "http://www.stoo.com/article.php?aid=109449243715",
+  "http://www.newsprime.co.kr/news/article.html?no=751742",
+  "https://biz.sbs.co.kr/article_hub/20000341184?division=NAVER",
+  "https://www.newspim.com/news/view/20261021000046",
+  "https://www.newspim.com/news/view/20261021000047",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66140",
+  "https://www.newspim.com/news/view/20261021000069"
  ],
  "seen_titles": [
-  "인천검단구,골목형상점가2곳서주민참여축제개최",
-  "뱀부스컨소시엄,강릉ITS세계총회서AI교통관제솔루션공개",
-  "기본소득에달라진청송..봉화\"군비로라도추진\"",
-  "스틸리언,인도네시아은행권공략가속…국영·지방은행에'앱수트'공...",
-  "경복대학교,경기도창업혁신공간운영사례공유…경기북동부창업지...",
-  "관광공사,망원·해운대등6곳에‘AI관광집사’도입…“전통시장여...",
-  "공중날아오른테슬라‘로드스터’…모빌리티한계깼다",
-  "다이나믹솔루션,中매직랩로보틱스와휴머노이드로봇사업MOU체결…...",
-  "중기부‘1242억’투입해48개과제추진…제조업‘AX혁신’",
   "KT,아크릴과의료AI사업확대…병원데이터활용부터진료지원까지",
   "[단독]탈북민131명정보유출한단체에통일사업보조금준통일부",
   "[10월16일자]비즈니스포스트아침의주요기사",
@@ -6001,7 +5992,16 @@
   "빅테크기업들,소형모듈원자로(SMR)건설에잇따라나서...데이터센터전...",
   "[굿모닝마켓]뉴욕증시혼조마감…기술주반등제약에나스닥하락",
   "[뉴욕마켓워치]중동에서들려온반가운소식…달러↓주식·채권혼조",
-  "삼성·LG전자,로봇전쟁'맞불'…승자누가되나"
+  "삼성·LG전자,로봇전쟁'맞불'…승자누가되나",
+  "'550평'노태우묘역유지비논란…막대한비용출처는?",
+  "[단독]'SM결별'유리,송은이제작시트콤첫도전..'오늘도재부팅'...",
+  "기적일까,악몽일까…김현주의처절한모성'실낙원'[무비뷰]",
+  "[해외시황]뉴욕증시,기업호실적·유가하락속'혼조'…나스닥0.02%↓",
+  "[어제장오늘장]여리박빙국내증시…코스피5550선후퇴",
+  "[월가콜]투자의견·목표가상향...블랙록·MS·아메리칸일렉트릭(10/20...",
+  "[월가콜]투자의견·목표가하향...애플·조에티스·웨스턴디지털(10/20...",
+  "[증시전망대]메타실적앞둔뉴욕증시'눈치장세'…폭락뒤코스피반...",
+  "[AIMY뉴스]21일중국증시'경기회복시험대…추가부양책에쏠린눈..."
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,17 @@
   [
    "2026-10-21T08:32:15.743516+09:00",
    "전쟁 맞불 로봇 되나 승자 삼성 LG전자 누가"
+  ],
+  [
+   "2026-10-21T08:34:14.477371+09:00",
+   "뉴욕증시 장세 폭락 눈치 코스피 메타 앞둔 실적"
+  ],
+  [
+   "2026-10-21T08:34:14.477371+09:00",
+   "부양책에 쏠린 회복 경기 시험대 중국증시 21일 추가"
   ]
  ],
- "last_run": "2026-10-21T08:32:39.703262+09:00",
+ "last_run": "2026-10-21T08:34:42.198332+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
