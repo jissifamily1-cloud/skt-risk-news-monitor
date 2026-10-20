@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ibabynews.com/news/articleView.html?idxno=155308",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714852",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874167",
-  "https://www.kbmaeil.com/article/20261020500124",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=253993",
-  "https://zdnet.co.kr/view/?no=20261020101424",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172361",
-  "https://monthly.chosun.com/news/articleView.html?idxno=71694",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215202",
   "https://view.asiae.co.kr/article/2026102010165592451",
   "https://www.etoday.co.kr/news/view/2637783",
@@ -2999,17 +2991,17 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=86327",
   "http://www.issuenbiz.com/news/articleView.html?idxno=80812",
   "https://daily.hankooki.com/news/articleView.html?idxno=1416842",
-  "https://www.theguru.co.kr/news/article.html?no=108559"
+  "https://www.theguru.co.kr/news/article.html?no=108559",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874638",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708670",
+  "https://biz.sbs.co.kr/article_hub/20000340961?division=NAVER",
+  "https://www.aitimes.com/news/articleView.html?idxno=216150",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708663",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570269571674",
+  "https://www.etoday.co.kr/news/view/2638137",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708654"
  ],
  "seen_titles": [
-  "이찬진금감원장,해킹사고첫CEO제재언급왜했나…타깃누구",
-  "반려동물119개카테고리AI인용순위공개…사료는로얄캐닌,간식은...",
-  "5대은행장,국감서보안투자·피해배상약속…대출금리도도마에",
-  "[이슈국감]이찬진\"ETF,매우무거운마음\"…해킹전수조사지시",
-  "머스크,미국어린이7200만명에14조원어치주식쏜다…한국에선어떨...",
-  "KT·아크릴,의료AX공동추진…병원맞춤형사업모델발굴나선다",
-  "에버스핀,‘에버세이프웹’으로금융·공공등AI해킹위협IP21만여...",
-  "\"앤트로픽IPO보다먼저\"…오픈AI,11월중순펀딩매듭속도",
   "[한일경제연대]\"정치가앞바퀴라면경제는뒷바퀴…결코후퇴없는'한...",
   "레드햇,오라클클라우드지원확대···RHEL·오픈시프트접근성강...",
   "전통시장길찾고메뉴번역까지…관광공사,6개시장에'AI관광집사'도...",
@@ -6001,7 +5993,15 @@
   "DB손보·SK쉴더스·이노비즈,중소기업사이버보안맞손",
   "DB손해보험,이노비즈협회·SK쉴더스와중소기업사이버위험대응지원",
   "SK텔레콤,금감원과보이스피싱예방캠페인시작",
-  "엔비디아가투자한피그먼트,MS에맞서3300억원조달"
+  "엔비디아가투자한피그먼트,MS에맞서3300억원조달",
+  "[이슈국감]같은요금제경품37만원차이…알뜰폰'차별장사'논란",
+  "스타링크,가입자증가기대못미쳤지만…기업·정부매출91%급증",
+  "美빅테크,SMR직접짓는다",
+  "[10월12일]AI가암을치료해도원리를알아야할까…수학자타오의질문...",
+  "10년넘게잠든비트코인지갑깨어났다…550억원코인베이스로이동",
+  "현대차정의선-한화김승연‘동반상승’…K-브랜드지수CEO부문판도...",
+  "잘나가는앤스로픽의반전성적표⋯상반기순손실100조원넘어",
+  "수조원엔비디아서버가창고에…전력부족에발목잡힌아마존"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-10-21T08:50:23.771357+09:00",
    "엔비디아가 3300억원 투자한 조달 피그먼트 MS에 맞서"
+  ],
+  [
+   "2026-10-21T08:52:16.341014+09:00",
+   "발목 서버가 잡힌 전력 부족에 아마존 수조원 창고에"
   ]
  ],
- "last_run": "2026-10-21T08:50:47.952127+09:00",
+ "last_run": "2026-10-21T08:52:37.430193+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
