@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708383",
-  "https://www.seoultimes.news/news/article.html?no=2000101109",
-  "https://www.newsis.com/view/NISX20261019_0003832262",
-  "https://www.g-enews.com/view.php?ud=202610200937021083fbbec65dfb_1",
   "http://www.efnews.co.kr/news/articleView.html?idxno=133263",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440076",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=253986",
@@ -2999,13 +2995,13 @@
   "https://www.aitimes.com/news/articleView.html?idxno=216132",
   "https://biz.sbs.co.kr/article_hub/20000341172?division=NAVER",
   "https://www.newspim.com/news/view/20261021000032",
-  "https://view.asiae.co.kr/article/2026102107535283695"
+  "https://view.asiae.co.kr/article/2026102107535283695",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728345",
+  "https://biz.heraldcorp.com/article/10909319",
+  "https://www.tokenpost.kr/news/ai/425208",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000075250"
  ],
  "seen_titles": [
-  "에버스핀,금융·공공등7곳서위협IP21만여개탐지",
-  "KT,AI스타트업과AX협력성과공개…K-PATH2026'개최",
-  "KT,아크릴과의료AI사업추진…병원데이터활용확대",
-  "\"오픈런해도못산다\"…3개월대기필수된'아이폰듀오'",
   "AI데이터센터가삼킨광섬유…2년걸리는증설에몸값5배뛴다",
   "농협은행,애자일소다와고객맞춤형AI에이전트협력구축",
   "\"앤트로픽IPO,투기될것…AI승자는모델업체아닌인프라\"",
@@ -6001,7 +5997,11 @@
   "할리우드,AI불안속저커버그·머스크·알트먼영화잇따라선보여",
   "[비즈나우]빅테크'부도보험료'사상최고…AI거품꺼지나",
   "스페이스X,테슬라와합병논의공식화...AI발설비투자2배전망",
-  "[2026국감]국민민원은'뺑뺑이'?…과기정통부·방미통위'핑퐁민원'12배"
+  "[2026국감]국민민원은'뺑뺑이'?…과기정통부·방미통위'핑퐁민원'12배",
+  "[Telecom&Now]SKB,가을신작3편공개…여행·미식·시니어예능",
+  "뉴욕증시,실적호조·유가하락에반등했지만…AI수익성우려는여전[투...",
+  "AI칩수출규제법안3건에엔비디아등로비",
+  "공공기관해킹시도2년새40%폭증…전산장비3대중1대는'노후'"
  ],
  "recent_sigs": [
   [
@@ -6243,9 +6243,17 @@
   [
    "2026-10-21T07:56:15.644504+09:00",
    "민원은 국민 과기정통부 핑퐁민원 12배 뺑뺑이"
+  ],
+  [
+   "2026-10-21T07:58:15.239655+09:00",
+   "로비 수출 AI칩 3건에 규제 법안"
+  ],
+  [
+   "2026-10-21T07:58:15.239655+09:00",
+   "2년새 공공기관 전산장비 3대 노후 1대는 시도 폭증"
   ]
  ],
- "last_run": "2026-10-21T07:56:35.495437+09:00",
+ "last_run": "2026-10-21T07:58:40.169117+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
