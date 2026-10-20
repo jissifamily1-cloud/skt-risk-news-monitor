@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=215814",
-  "https://www.aitimes.com/news/articleView.html?idxno=215796",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703957",
   "https://zdnet.co.kr/view/?no=20260930152554",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703916",
@@ -2999,11 +2997,11 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610200139&t=NN",
   "http://www.rookie.co.kr/news/articleView.html?idxno=128748",
   "https://www.ikbc.co.kr/article/view/kbc202610200053",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116322"
+  "https://www.thedailypost.kr/news/articleView.html?idxno=116322",
+  "https://www.tokenpost.kr/news/breaking/424846",
+  "https://www.jemin.com/news/articleView.html?idxno=844947"
  ],
  "seen_titles": [
-  "오픈AI,'허깅페이스해킹'으로피소...\"AI에이전트행동책임은개발...",
-  "NYT\"오픈AI,직원·외부연구원AI보안경고묵살\"",
   "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
   "샘알트먼\"오픈AI,모델안정성확보전엔상장안한다\"",
   "오픈AI,IPO미루고300억달러조달…몸값1.4조달러목표",
@@ -6001,7 +5999,9 @@
   "\"매출부풀렸다\"비난하더니…공시앞두고오픈AI'40조'비상",
   "박정웅향한정관장유도훈감독의애정과기대\"대표팀에가는게내꿈...",
   "\"물·전력공급하고군공항도이전하는데...반도체혜택함께누려야\"[...",
-  "밀리의서재,'AI브리핑'출시…책검색부터바로읽기까지절차단축"
+  "밀리의서재,'AI브리핑'출시…책검색부터바로읽기까지절차단축",
+  "올트먼의월드,은행권딥페이크·AI사기대응도구공개보도",
+  "중국빅테크,엔비디아AI칩확보경쟁…주문규모46조원넘어"
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,17 @@
   [
    "2026-10-20T19:04:15.393074+09:00",
    "혜택 누려야 함께 공급하고 반도체 전력 군공항도 이전하는데"
+  ],
+  [
+   "2026-10-20T19:10:26.209296+09:00",
+   "대응 보도 공개 올트먼의 사기 은행권 도구 월드 딥페이크"
+  ],
+  [
+   "2026-10-20T19:10:26.209296+09:00",
+   "주문 확보 빅테크 46조 중국 규모 경쟁 넘어"
   ]
  ],
- "last_run": "2026-10-20T19:08:34.687211+09:00",
+ "last_run": "2026-10-20T19:10:50.471636+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
