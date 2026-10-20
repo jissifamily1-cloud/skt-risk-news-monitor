@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itbiznews.com/news/articleView.html?idxno=228428",
-  "https://www.itworld.co.kr/article/4237372/섀도-ai에-4중-방어선을-쳐라-기업-보안을-뚫는-것은-미.html",
-  "https://www.yna.co.kr/view/AKR20261020046800008?input=1195m",
-  "https://www.cstimes.com/news/articleView.html?idxno=724540",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=281340",
   "http://www.metroseoul.co.kr/article/20261020500086",
   "https://www.edaily.co.kr/News/Read?newsId=02984806645614888&mediaCodeNo=257",
@@ -2999,13 +2995,13 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172406",
   "https://www.newspim.com/news/view/20261021000019",
   "https://www.topstarnews.net/news/articleView.html?idxno=16253041",
-  "https://www.ajunews.com/view/20261021072144900"
+  "https://www.ajunews.com/view/20261021072144900",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=617515",
+  "https://biz.sbs.co.kr/article_hub/20000341178?division=NAVER",
+  "https://www.cstimes.com/news/articleView.html?idxno=724671",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728548"
  ],
  "seen_titles": [
-  "NCAI,'바르코'첫달구독료50%할인…AI콘텐츠제작문턱낮춘다",
-  "부커스,차세대독서플랫폼'부커스2.0'출시…자체뷰어엔진기반...",
-  "섀도AI에4중방어선을쳐라…기업보안을뚫는것은‘미승인AI’",
-  "코스피,장초반낙폭키우며2%대급락…외인·기관매도(종합)",
   "코스피,2%하락...5640선기록",
   "KT-아크릴,의료AX공동추진…\"병원맞춤형모델발굴\"",
   "KT,의료분야AX박차…아크릴과공동사업추진",
@@ -6001,7 +5997,11 @@
   "뉴욕증시다우지수'활짝'..3M·제약주'급등',빅테크주'부진'",
   "中선전APEC앞두고영어학습열풍,자원봉사자420만명동원",
   "미국증시,다우1%대상승·나스닥약보합…중동긴장완화기대에낙폭...",
-  "[아주증시포커스]개인주식거래액57%급감…빠르게식는개미'투심'"
+  "[아주증시포커스]개인주식거래액57%급감…빠르게식는개미'투심'",
+  "[갤럭시버즈온]\"귀안막고주변소리도쏙\"…삼성첫클립형'갤럭시...",
+  "'SK하닉470만,삼전67만간다;...노무라파격전망왜?",
+  "한국교통안전공단,국회국토위와미래모빌리티안전검증현장점검",
+  "[차이나풍향계]中빅테크,엔비디아신형GPU300만개주문…실제공급..."
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,13 @@
   [
    "2026-10-21T07:26:17.513888+09:00",
    "주식 개인 식는 빠르게 급감 개미 투심 거래액"
+  ],
+  [
+   "2026-10-21T07:28:15.241069+09:00",
+   "GPU 빅테크 실제 공급 신형 주문 300만개"
   ]
  ],
- "last_run": "2026-10-21T07:26:38.939427+09:00",
+ "last_run": "2026-10-21T07:28:33.443712+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
