@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1703230/?sc=Naver",
-  "https://news.tf.co.kr/read/economy/2377972.htm",
-  "https://news.tf.co.kr/read/economy/2377882.htm",
-  "https://www.goodkyung.com/news/articleView.html?idxno=292535",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4439965",
-  "https://www.mt.co.kr/tech/2026/10/19/2026101915181788047",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193419",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54438",
   "https://www.fnnews.com/news/202610191547194257",
   "https://www.hani.co.kr/arti/economy/finance/1283053.html",
   "https://www.topstarnews.net/news/articleView.html?idxno=16251582",
@@ -2999,17 +2991,17 @@
   "https://www.sentv.co.kr/article/view/sentv202610200059",
   "https://www.etoday.co.kr/news/view/2637801",
   "https://www.m-i.kr/news/articleView.html?idxno=2007961",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276794&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276794&CMPT_CD=P0010",
+  "https://www.cstimes.com/news/articleView.html?idxno=724553",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66075",
+  "https://www.public25.com/news/articleView.html?idxno=56814",
+  "https://www.yna.co.kr/view/AKR20261020064600001?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689984",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449739",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000060.html",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449740"
  ],
  "seen_titles": [
-  "[2026국감]금융정보건당100원부터…이찬진\"해킹피해대응강화\"",
-  "JP모건\"한국증시,PER역사적저점…매력적구간진입\"",
-  "[2026국감]5대은행장,4년만에국감장나란히…'AI해킹'책임론시험...",
-  "kt이강철감독,3년34억원에재계약…KBO역대최고대우",
-  "할리스,개인정보276만건유출에사과…\"피해최소화노력\"(종합)",
-  "아이디·비번·주소276만건털린할리스…\"즉시비밀번호변경\"",
-  "SKT,'모두의AI'앞세워실행형AI대중화속도",
-  "줌화면에'사람인증'배지가뜬다",
   "엔비디아비중25%고정…하나운용,美AI반도체ETF상장",
   "엔비디아GPU감가상각빨라져‘잔존가치위험’…AI수익성우려증폭",
   "\"통산2655안타\"손아섭,두산방출로거취불투명",
@@ -6001,7 +5993,15 @@
   "전통시장길찾기부터통역까지…관광공사,AI서비스6곳도입",
   "李대통령“수사권커진경찰,공정성·책임성높여야…강력한내부자...",
   "KT,아크릴과맞손…의료기관AX사업확대",
-  "머스크파격기부\"미모든어린이에게스페이스X1주증여\""
+  "머스크파격기부\"미모든어린이에게스페이스X1주증여\"",
+  "현대엔지니어링,'힐스테이트성남메트로블'20일청약…역세권·법조타...",
+  "세계은행,첫디지털전략…통신망·AI로고용확대",
+  "준성특허·NH벤처투자,딥테크기업상장·해외진출전략공유",
+  "李대통령\"중수청,성역없이수사력총동원해중대범죄엄단\"",
+  "이대통령“경찰권한커져도국민신뢰없다면사상누각에불과”",
+  "LG유플러스멤버십전략'할인'에서'체험'으로,장기고객초청행사3배...",
+  "KT,아크릴과의료AI사업확대…병원맞춤형AX모델공동개발",
+  "KT의료AI전문기업아크릴과맞손,의료기관맞춤형AI전환사업확대"
  ],
  "recent_sigs": [
   [
@@ -6529,7 +6529,7 @@
    "메시지 한국소비자단체연합 실태조 통신사도 개인정보 기업 처리"
   ]
  ],
- "last_run": "2026-10-20T10:38:31.826136+09:00",
+ "last_run": "2026-10-20T10:40:40.489921+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
