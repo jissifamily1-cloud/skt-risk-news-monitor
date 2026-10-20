@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.youthdaily.co.kr/news/article.html?no=228539",
-  "https://kidd.co.kr/news/247775",
-  "https://www.techm.kr/news/articleView.html?idxno=156260",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=746202",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601282",
   "http://www.metroseoul.co.kr/article/20261019500584",
   "https://www.edaily.co.kr/News/Read?newsId=04355846645614560&mediaCodeNo=257",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261019.99099005411",
@@ -2999,14 +2994,14 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806165&plink=ORI&cooper=NAVER",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=360920",
   "https://www.hangyo.com/news/article.html?no=109725",
-  "https://zdnet.co.kr/view/?no=20261020135852"
+  "https://zdnet.co.kr/view/?no=20261020135852",
+  "https://sports.khan.co.kr/article/202610201359003?pt=nv",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874371",
+  "http://www.inews24.com/view/2016575",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708467",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440162"
  ],
  "seen_titles": [
-  "5대은행장국감서보안강화한목소리...예산확충·AI대응고도화",
-  "파고드는‘섀도우AI’와우회공격…“공급망보안,생태계‘백신’...",
-  "나홀로실적자신한신한정상혁,연임은'가시밭길'…이찬진\"내부통제...",
-  "[유통국감리포트⑧]할리스고객정보276만건,6년방치된임시파일서...",
-  "할리스,고객정보276만건유출⋯가상화폐채굴노린클라우드해킹에...",
   "[2026국감]해킹인지에최대42시간…5대은행장국감서보안부실질...",
   "노봉법첫파업사례나오나…부산교통공사,22일파업예고",
   "‘통산최다안타3위’손아섭,두산에서방출…선수생명이어갈까",
@@ -6001,7 +5996,12 @@
   "백악관SIF공동의장\"정부비협조AI기업제어할것\"",
   "삼성전자,첫클립형이어폰출격…'듣는방식'변화에주목",
   "학교장,교권침해우려민원중지요청가능",
-  "노이즈앤피치,‘창창프로젝트’3개월간크리에이터심화컨설팅완료"
+  "노이즈앤피치,‘창창프로젝트’3개월간크리에이터심화컨설팅완료",
+  "다가졌지만롤드컵우승만없다…젠지쵸비·기인의‘염원’,이번에...",
+  "고위험정신건강AI한계…위험대응책임은누구?",
+  "[아이포럼2026]\"2035년까지15GW\"⋯SKT가그리는AIDC미래는",
+  "인터넷뱅킹로그인한채다른작업해도될까…AI브라우저4종서취약조...",
+  "'금융권해킹'중수청이관할하나…금융위,유권해석회신"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,21 @@
   [
    "2026-10-20T13:58:15.719601+09:00",
    "Vueron detection automate to ~KT pothole partner"
+  ],
+  [
+   "2026-10-20T14:02:15.332110+09:00",
+   "미래는 SKT가 15GW AIDC 그리는 2035년까지 ~SKT"
+  ],
+  [
+   "2026-10-20T14:02:15.332110+09:00",
+   "로그인한 다른 브라우저 될까 4종서 인터넷뱅킹 작업해도 취약"
+  ],
+  [
+   "2026-10-20T14:02:15.332110+09:00",
+   "유권해석 중수청이 금융권 관할하나 회신 금융위"
   ]
  ],
- "last_run": "2026-10-20T14:00:59.586092+09:00",
+ "last_run": "2026-10-20T14:02:39.480316+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
