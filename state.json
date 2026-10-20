@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/112918",
-  "https://www.segye.com/newsView/20261020507165?OutUrl=naver",
-  "https://www.dailian.co.kr/news/view/1703471/?sc=Naver",
-  "http://www.beyondpost.co.kr/view.php?ud=2026102009544773702aaae0046f_30",
-  "https://www.newscj.com/news/articleView.html?idxno=3441618",
-  "https://www.jasm.co.kr/news/view/322238/?sc=Naver",
-  "https://www.sedaily.com/article/20103599",
   "https://www.sedaily.com/article/20103605",
   "https://biz.heraldcorp.com/article/10908212",
   "https://bizhankook.com/articles/big-5-bank-heads-criticized-audit.html",
@@ -2999,16 +2992,16 @@
   "http://autotimes.co.kr/detail.php?number=689612&thread=27",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=91367",
   "https://dealsite.co.kr/articles/170976",
-  "https://www.g-enews.com/view.php?ud=2026102108240152539a1f309431_1"
+  "https://www.g-enews.com/view.php?ud=2026102108240152539a1f309431_1",
+  "https://www.slist.kr/news/articleView.html?idxno=775071",
+  "https://www.medigatenews.com/news/2029502325",
+  "https://www.bbc.com/korean/articles/c6d092my88ddo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://www.thelec.kr/news/articleView.html?idxno=64005",
+  "https://www.thelec.kr/news/articleView.html?idxno=64004",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66138",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215363"
  ],
  "seen_titles": [
-  "다이나믹솔루션,中매직랩로보틱스와전략적제휴…휴머노이드국내...",
-  "ETF7종쏟아졌다",
-  "거버넌스포럼,고승범SK하이닉스의장에“솔리다임상장중단하라”...",
-  "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?",
-  "빅테크기업들,소형모듈원자로(SMR)건설에잇따라나서...데이터센터전...",
-  "한국기술교육대,전국5개지역직업훈련기관…'AI역량'강화지원",
-  "농협은행,고객이직접이용하는AI에이전트개발나서",
   "EU,중국차‘유럽산포장’막는다…현지생산·R&D까지요구",
   "일반개발자보다50%더번다…AI시대‘귀하신몸’된보안개발자",
   "‘그야말로날개없는추락’…美반도체반등에도코스피2%대급락[투...",
@@ -6001,7 +5994,14 @@
   "\"파리의밤하늘담았다\"..르노코리아,그랑콜레오스‘에뚜알’주목",
   "\"체험형부스부터AI필터링까지\"…SKT·금감원,보이스피싱차단총력전",
   "[충정로에서]LG오너家소송전의본질",
-  "스페이스X·테슬라합병공식검토…3조달러초대형기업탄생하나"
+  "스페이스X·테슬라합병공식검토…3조달러초대형기업탄생하나",
+  "영진위,'2026AI영화쇼케이스'개최…AI영화제작·교육성과공유",
+  "바비톡,영어·중국어간체·번체추가해지원언어4개로확대",
+  "사우디국적직원,오픈AI사무실에'정교한'녹음장치설치혐의로기...",
+  "스틸리언,인도네시아BTN에앱보안공급",
+  "금융외공공·민간에서도위협IP21만개탐지",
+  "[로드픽]오픈AI,바이오스타트업인수…AI신약개발주도권경쟁",
+  "[2026국감]잇따른해킹사고…김현의원\"사이버보안연구기관간협력..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-10-21T08:28:15.696548+09:00",
    "LG 오너 소송전의 본질"
+  ],
+  [
+   "2026-10-21T08:30:29.189238+09:00",
+   "사이버보안 협력 잇따른 김현 의원 사고 연구기관"
   ]
  ],
- "last_run": "2026-10-21T08:28:36.854480+09:00",
+ "last_run": "2026-10-21T08:30:51.093339+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
