@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itdaily.kr/news/articleView.html?idxno=242250",
-  "https://biz.heraldcorp.com/article/10904865",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424331",
-  "https://www.topdaily.kr/articles/112348",
-  "http://www.queen.co.kr/news/articleView.html?idxno=464777",
-  "http://www.celuvmedia.com/article.php?aid=1792025544529257011",
   "http://enews.imbc.com/News/RetrieveNewsInfo/521347",
   "http://www.dispatch.co.kr/2349299",
   "https://sports.donga.com/ent/article/all/20261015/134844997/1",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20261020133400008?input=1195m",
   "https://www.ajunews.com/view/20261020161936158",
   "https://www.donga.com/news/Economy/article/all/20261020/134875224/2",
-  "https://www.smartbizn.com/news/articleView.html?idxno=156991"
+  "https://www.smartbizn.com/news/articleView.html?idxno=156991",
+  "https://www.aitimes.com/news/articleView.html?idxno=216439",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=445972",
+  "https://www.boannews.com/news/articleView.html?idxno=146549",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130209",
+  "https://www.newspost.kr/news/articleView.html?idxno=226535",
+  "https://www.mk.co.kr/article/12180691"
  ],
  "seen_titles": [
-  "[국감]한국IPv6이용률29%…통신사대응미진·KISA역할도마",
-  "법무법인광장,이달28일에‘제12회M&A포럼’개최",
-  "'반도체넘어전력까지'···SK,원전투자로AI밸류체인확장모색",
-  "통신3사,유선인터넷품질논란속CAPEX'주목'",
-  "나홍진감독'호프',21일VOD공개…한국영화최초급4K서비스",
-  "‘459만흥행’나홍진감독‘호프’,안방극장行",
   "나홍진'호프'안방서본다…극장동시VOD서비스시작",
   "'호프',21일유료VOD오픈…\"4K로만나는,바미기르\"",
   "‘호프’,21일VOD·IPTV서비스시작…OTT공개일정은아직",
@@ -6001,7 +5995,13 @@
   "코스피,3.7%급락한5,552마감…최근이틀반등분모두반납(종합)",
   "온투업체2곳서고객정보1만9000명유출…국민은행보다먼저공격받아",
   "한국은행뚫은중국산AI해킹도구…이번엔일본기업20곳노렸다",
-  "해킹사고에고개숙인5대은행장···보안부실·금리논란에'진땀'"
+  "해킹사고에고개숙인5대은행장···보안부실·금리논란에'진땀'",
+  "딥시크,플래그십모델사전학습에화웨이칩본격투입...국산AI자립...",
+  "미국,중국딥시크AI재무부·국무부·법무부등에서전면금지…딥시...",
+  "국내해운·철강사12곳공격했던해커,탈취데이터공개",
+  "\"최태원도'물린'SK하이닉스\"...AI돈줄불안·솔리다임IPO에SK그룹株...",
+  "KT,'K-PATH2026'개최…AI스타트업협업사례발표",
+  "신한·하나은행,해킹피해고객에VIP혜택…현금보상은없다"
  ],
  "recent_sigs": [
   [
@@ -6569,7 +6569,7 @@
    "국감서 대응 도마 출연연 보안관리 부실 질타 역량도 과방위"
   ]
  ],
- "last_run": "2026-10-20T16:26:36.068262+09:00",
+ "last_run": "2026-10-20T16:28:37.310150+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
