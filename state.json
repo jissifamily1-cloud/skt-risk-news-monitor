@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226236",
-  "https://www.edaily.co.kr/News/Read?newsId=03102886645615216&mediaCodeNo=257",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482577",
-  "https://news.bizwatch.co.kr/article/mobile/2026/10/21/0010",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=281635",
   "https://www.thelec.kr/news/articleView.html?idxno=64040",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482622",
@@ -2999,13 +2995,13 @@
   "https://slownews.kr/168350",
   "https://www.fnnews.com/news/202610220644563951",
   "http://www.inews24.com/view/2017187",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=158404"
+  "https://www.koreaittimes.com/news/articleView.html?idxno=158404",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220005&t=NN",
+  "https://www.greened.kr/news/articleView.html?idxno=352688",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6859792_37012.html",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=617996"
  ],
  "seen_titles": [
-  "네이버D2SF,온디바이스AI스타트업‘트레이스위브’에신규투자",
-  "카카오,자체개발비전인코더오픈소스공개…“동급모델중최고성...",
-  "카카오,AI가한글문서읽는'눈'개발…구글·메타와성능경쟁",
-  "\"반갑다상승장\"…코스피,5700선에삼전닉스도5~6%반등",
   "올해문닫은가상자산프로젝트만82개…디파이·인프라로확산",
   "달리기자세도AI로분석···SKT,성수동서러닝체험프로그램운영",
   "LG유플러스,유심교체율38%…22일부터자동업데이트",
@@ -6001,7 +5997,11 @@
   "“제미나이에게물어봤더니”,대통령X아슬아슬하다:슬로우레터10월...",
   "PHP웹해킹비상속일부배포업체,패치유출논란…공조깨고6시간앞서...",
   "SKT,T팩토리성수서'런메이트캠프'운영",
-  "[논평]주식토큰,투자자가갖는권리부터명확히밝혀야"
+  "[논평]주식토큰,투자자가갖는권리부터명확히밝혀야",
+  "\"전세계웹사이트70%비상\"…AI가찾아낸치명적결함[굿모닝글로벌...",
+  "美반도체2%반등·메타AI투자확대…삼성·하이닉스55조자사주매입...",
+  "\"차량반도체부족더는안돼\"‥국산화시동",
+  "[삼성전기엔비디아]\"젠슨황이공식발표\"…삼성전기,엔비디아와손..."
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,13 @@
   [
    "2026-10-22T06:50:25.791040+09:00",
    "앞서 웹해킹 배포업체 공조 패치유출 일부 깨고 6시간 비상속 PHP 논란"
+  ],
+  [
+   "2026-10-22T06:54:15.352235+09:00",
+   "젠슨 엔비디아와 황이 발표 삼성전기"
   ]
  ],
- "last_run": "2026-10-22T06:52:33.089163+09:00",
+ "last_run": "2026-10-22T06:54:38.187880+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
