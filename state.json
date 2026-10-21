@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/industry/company/2026/10/21/YY4UWLUY6BA7FC6ZB5TX5IIR3M/",
-  "https://www.sedaily.com/article/20104197",
-  "https://www.widedaily.com/news/articleView.html?idxno=302153",
-  "http://www.bizwnews.com/news/articleView.html?idxno=149481",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=125235",
-  "https://www.pennmike.com/news/articleView.html?idxno=129959",
   "https://www.cstimes.com/news/articleView.html?idxno=724740",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610210809238760109122",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303094",
@@ -2999,15 +2993,15 @@
   "https://www.dt.co.kr/article/12090534",
   "http://www.newsian.co.kr/news/articleView.html?idxno=97477",
   "https://www.edaily.co.kr/News/Read?newsId=02315686645615544&mediaCodeNo=257",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729656"
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729656",
+  "https://www.nocutnews.co.kr/news/6595192",
+  "https://biz.sbs.co.kr/article_hub/20000341406?division=NAVER",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728641",
+  "https://biz.sbs.co.kr/article_hub/20000341413?division=NAVER",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172483",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691996"
  ],
  "seen_titles": [
-  "LG유플러스,IMSI체계보안강화...22일부터유심자동업데이트개시",
-  "KT,인천앞바다서UAM·AI항공교통관리실증…5G·위성통신성공률100...",
-  "[이채정의엮어읽기]북한이먼저한국을때릴가능성이없다고?",
-  "대한항공,인천도서지역UAM실증성공…지자체연계국내최초",
-  "데이터센터전국구혐오까지떠안은‘AI신용’[트럼프스톡커]",
-  "구글·애플제쳤다…카카오,눈달린AI'카나나2비전인코더'무료로...",
   "AI최고세계학술대회'NeurIPS'에한국공학대학부생논문채택'화제...",
   "SK텔레콤,러닝크루위한'런메이트캠프'운영",
   "SK는호남반도체,李정부는솔리다임상장?…수상한이해관계",
@@ -6001,7 +5995,13 @@
   "웹프로그래밍언어php에보안취약점…전세계비상",
   "뉴욕증시,AI실적에되살아난매수세…다우360p↑·나스닥1.05%반등",
   "중국산칩도가능...딥시크,엔비디아·화웨이칩지원하는AI추론기술...",
-  "[금융보안경고등③]증권가,은행권AI해킹에내부통제'속도'…보안..."
+  "[금융보안경고등③]증권가,은행권AI해킹에내부통제'속도'…보안...",
+  "AI가'보안구멍'찾았다…전세계공용프로그래밍언어약점보완",
+  "[외신헤드라인]메타,3분기매출기대치상회",
+  "코어위브發AI투심롤러코스터…새내기주변동성주의보",
+  "전세계웹사이트70%가쓰는데…PHP보안결함'비상'",
+  "아이폰듀오'석달대기'…자급제족도통신사로",
+  "웹사이트해킹비상에핀란드등유럽주요공공기관접속차단"
  ],
  "recent_sigs": [
   [
@@ -6161,7 +6161,7 @@
    "증권가 은행권 내부통제 해킹에 보안 속도"
   ]
  ],
- "last_run": "2026-10-22T06:30:57.496814+09:00",
+ "last_run": "2026-10-22T06:32:34.031662+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
