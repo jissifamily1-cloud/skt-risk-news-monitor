@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261021_0003834698",
-  "https://view.asiae.co.kr/article/2026102011313806583",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=91315",
-  "https://view.asiae.co.kr/article/2026102110225970472",
-  "https://www.news1.kr/industry/general-industry/6326998",
-  "https://www.mydaily.co.kr/page/view/2026102110055190686",
-  "https://platum.kr/archives/296722",
   "http://www.breaknews.com/1244507",
   "https://www.hankyung.com/article/202610215482i",
   "https://www.bloter.net/news/articleView.html?idxno=676231",
@@ -2999,16 +2992,16 @@
   "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62901",
   "https://view.asiae.co.kr/article/2026102207574606415",
   "https://www.tokenpost.kr/news/ai/425614",
-  "https://www.tokenpost.kr/news/market/425616"
+  "https://www.tokenpost.kr/news/market/425616",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497439",
+  "https://www.econovill.com/news/articleView.html?idxno=754473",
+  "https://www.tokenpost.kr/news/cryptocurrency/425619",
+  "https://www.tokenpost.kr/news/tech/425618",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66208",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497437",
+  "https://www.yna.co.kr/view/AKR20261022021900091?input=1195m"
  ],
  "seen_titles": [
-  "‘엘더스크롤4리마스터’최적화기다리다직접고쳤다…이용자가AI...",
-  "\"로봇판챗GPT아직멀었다\"…피지컬AI의현주소",
-  "KT,인천도서지역서UAM실증…AI교통관리·항공망시험",
-  "방미통위,G7장관회의참석…미성년자온라인보호국제공조착수",
-  "[현장너머]실기(失期)의정치,서둘러끝내자",
-  "이북도민도파주시민도아닌데…故노태우1810㎡파주호화묘역논란",
-  "LGU+,22일부터유심자동업데이트…보안강화조치",
   "대한항공,국내첫지자체연계UAM실증…통합관제'어크로스'운용",
   "“아이폰첫추월”…삼성전자,美소비자평가서애플꺾었다",
   "AI가메뉴판·문서읽는'눈',카카오자체비전인코더오픈소스로공...",
@@ -6001,7 +5994,14 @@
   "TSMC,내년1월반도체가격3~6%인상한다..그배경은?",
   "[굿모닝증시]AI불안속반도체반등…\"낙폭과대업종되돌림가능\"",
   "엔비디아,유럽에100억달러근접투입…파트너사1만2000곳넘어",
-  "엔비디아장전1.5%이상상승,AMD·인텔도올랐다"
+  "엔비디아장전1.5%이상상승,AMD·인텔도올랐다",
+  "무선통신주희비엇갈렸다…스페이스X강세속AT&T·T모바일US하락",
+  "에이블런\"기업교육에서AX컨설팅으로\"삼양그룹부터한전KPS까지현장...",
+  "비트겟,토큰화주식유동성체계'슈퍼매치'발표",
+  "엔비디아AI기지국,T모바일상용망서첫통화완료",
+  "오픈AI,구글클라우드에도AI모델공급…기업시장공략확대",
+  "삼성전기,엔비디아에AI반도체기판장기공급…세종·부산에전용팹...",
+  "부자세피해캘리포니아떠나려던저커버그,8년더거주약속"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,17 @@
   [
    "2026-10-22T08:12:14.450216+09:00",
    "올랐다 상승 이상 AMD 인텔도 장전"
+  ],
+  [
+   "2026-10-22T08:14:14.736332+09:00",
+   "상용망서 통화 기지국 완료 T모바일"
+  ],
+  [
+   "2026-10-22T08:14:14.736332+09:00",
+   "거주 부자세 약속 피해 캘리포니아 8년 저커버그 떠나려던"
   ]
  ],
- "last_run": "2026-10-22T08:12:38.447965+09:00",
+ "last_run": "2026-10-22T08:14:38.897736+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
