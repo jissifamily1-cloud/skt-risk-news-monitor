@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496950",
-  "https://www.segye.com/newsView/20261020513909?OutUrl=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=04106566645614888&mediaCodeNo=257",
-  "http://www.newskr.kr/news/articleView.html?idxno=107309",
-  "http://www.metroseoul.co.kr/article/20261020500408",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1728508",
-  "https://biz.heraldcorp.com/article/10908824",
-  "https://zdnet.co.kr/view/?no=20261020152101",
-  "https://www.kmib.co.kr/article/20261020500992",
-  "http://www.spochoo.com/news/articleView.html?idxno=131259",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=874464",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728491",
   "https://www.g-enews.com/view.php?ud=202610201520037500cd0bfacc1c_1",
@@ -2999,19 +2989,19 @@
   "https://www.seoul.co.kr/news/economy/securities/2026/10/21/20261021500121?wlog_tag3=naver",
   "http://www.4th.kr/news/articleView.html?idxno=2120100",
   "https://www.thebigdata.co.kr/view.php?ud=20261021112246521df3c2a17b7_23",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210062&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210062&t=NN",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=719088",
+  "https://www.news1.kr/photos/8170644",
+  "https://www.news1.kr/photos/8170756",
+  "https://www.news1.kr/photos/8170757",
+  "https://www.newspim.com/news/view/20261021000558",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137734",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137801",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=319371",
+  "https://www.newsis.com/view/NISI20261021_0021498296",
+  "https://www.newsis.com/view/NISI20261021_0021498294"
  ],
  "seen_titles": [
-  "AI데이터센터냉각·히트펌프변화논의...냉동공조중장기비전모색",
-  "'14홈런40타점'힐리어드,9·10월MVP선정...외국인최초단일시즌2회...",
-  "제주해외사무소14명인건비10억육박…강명균의원\"성과는?\"",
-  "노무라증권,“삼전67만원·하닉470만원간다”…‘주목할종목’에...",
-  "레드햇,오라클클라우드서RHEL판매확대…사용량따라과금",
-  "\"귀가솔깃해지는알짜배기금융상식\"…신한은행,오픈형금융콘텐츠...",
-  "정보보호공시,내년상장사전체로확대…금융사·공공기관예외폐지...",
-  "TS,국회국토위에자율주행시험시설·보안대응현장공개",
-  "[속보]李대통령“성역없이중대범죄엄단하라”",
-  "KT힐리어드,외국인선수최초‘한시즌두번’월간MVP",
   "KT,'K-PATH2026'서AI스타트업협업성과공개",
   "[통신의진화③]지상망너머우주로,'AI네트워크'대전환",
   "삼전닉스,AI투자우려에도메모리호황전망…\"2028년까지수요우위\"",
@@ -6001,7 +5991,17 @@
   "110만닉스에‘화들짝’600억던졌는데8%↑‘불기둥’,하이닉스에무...",
   "[산업소식]SKT,러너체험'런메이트캠프'운영",
   "SKT-금융감독원,금융의날앞두고보이스피싱피해예방나서...소비자...",
-  "7만원짜리중국AI해킹…95%는안전성평가도없었다"
+  "7만원짜리중국AI해킹…95%는안전성평가도없었다",
+  "검단구,골목상권에활력…검단중앙·청마로주민축제성료",
+  "이승우유진투자증권리서치센터장,'한국자본시장의레벨업을위한제...",
+  "박희찬미래에셋증권상품지원부문대표,'한국자본시장퀄리티업을위...",
+  "뉴스1투자포럼,박희찬미래에셋증권상품지원부문대표주제발표",
+  "LG,韓첫해외AI데이터센터준공눈앞…'원LG'결실",
+  "카카오톡무료대화백업용량비공개…방미통위법위반여부검토",
+  "SK텔레콤·금융감독원,보이스피싱대응협력…AI스팸차단정확도개...",
+  "AI로'에어택시'이착륙시점분석…KT,인천'UAM'실증참여",
+  "종합국감질의답하는송경희개보위원장",
+  "질의답하는송경희개보위원장"
  ],
  "recent_sigs": [
   [
@@ -6767,9 +6767,13 @@
   [
    "2026-10-21T11:40:22.727191+09:00",
    "없었다 7만원짜리 평가도 안전성 중국"
+  ],
+  [
+   "2026-10-21T11:42:14.712382+09:00",
+   "송경희 개보위원장 답하는 질의"
   ]
  ],
- "last_run": "2026-10-21T11:40:44.121756+09:00",
+ "last_run": "2026-10-21T11:42:36.273714+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
