@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepowernews.co.kr/view.php?ud=202610211027269028de3f0aa1be_7",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=131288",
-  "https://view.asiae.co.kr/article/2026102109022346237",
-  "https://view.asiae.co.kr/article/2026101915461359145",
-  "http://www.srtimes.kr/news/articleView.html?idxno=215353",
-  "https://www.newsis.com/view/NISX20261019_0003832169",
-  "https://www.cnbizm.com/news/articleView.html?idxno=318687",
   "https://www.gokorea.kr/news/articleView.html?idxno=882231",
   "https://www.gokorea.kr/news/articleView.html?idxno=882232",
   "https://www.e-science.co.kr/news/articleView.html?idxno=137796",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261021_0003834636",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=766334",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=766305",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=766374"
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766374",
+  "https://econotimes.com/Simons-Foundation-Announces-15-Million-in-Funding-and-Resources-for-Math-and-AI-1759463",
+  "https://www.ddaily.co.kr/page/view/2026102110232935266",
+  "https://www.seoul.co.kr/news/economy/securities/2026/10/22/20261022500003?wlog_tag3=naver",
+  "https://view.asiae.co.kr/article/2026102204235008020",
+  "http://www.inews24.com/view/2017629",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6859770_37012.html",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172444"
  ],
  "seen_titles": [
-  "KT在仁川岛屿地区首次开展公共型UAM实证",
-  "스카이인텔리전스,엔비디아발간글로벌백서에참여",
-  "OTT에차이고홈쇼핑에끌려가고정부외면까지'3중고'[케이블TV몰락...",
-  "신한라이프,상담내용AI로분석…민원발생전고객불편잡는다",
-  "\"고객이말하기전에AI가먼저움직인다\"…신한라이프,'민원예방AI...",
-  "'AI지각생'애플,시리한국어지원OS업데이트",
-  "[블룸버그칼럼]앤스로픽상장꿈에드리운클라우드공룡의그림자",
   "'전국민무료AI'의청구서…2500억원은어떤사용량을가정했나",
   "국립암센터임상연구참여67명정보유출…\"관리체계점검해야\"",
   "LG유플러스,22일부터유심자동업데이트…보안강화조치조기시행",
@@ -6001,7 +5994,14 @@
   "인공지능기업들,막대한부분배방식스스로결정",
   "[기자수첩]구호만'사전예방',실태는'뒷북점검'…\"금감원존재이유...",
   "SK그룹CEO경영성적희비…곽노정·정재헌·장용호'웃고',강영규·이...",
-  "금융권흔드는'AI해킹'공포…국민·신한·기업은행,보안인력·인프..."
+  "금융권흔드는'AI해킹'공포…국민·신한·기업은행,보안인력·인프...",
+  "SimonsFoundationAnnounces$15MillioninFundingandResourcesforM",
+  "샘올트먼\"AI안전,국제기구냐개발사통합이냐\"…3대시나리오제시",
+  "[서울데이터랩]미국증시,기술주강세에일제히상승마감…나스닥1%...",
+  "[뉴욕증시]스페이스X타고반등한기술주…일제히상승마감",
+  "세계웹사이트해킹경계령⋯10년묵은PHP보안결함발견",
+  "웹사이트'해킹비상'‥AI가보안결함발견",
+  "뉴욕증시반도체주'활짝'...AMD·엔비디아·마이크론·SKHY'급등'"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,17 @@
   [
    "2026-10-22T06:12:15.621528+09:00",
    "흔드는 인력 인프 금융권 기업은행 신한 보안 국민 공포"
+  ],
+  [
+   "2026-10-22T06:14:15.316027+09:00",
+   "발견 보안결함 비상 AI가 웹사이트"
+  ],
+  [
+   "2026-10-22T06:14:15.316027+09:00",
+   "활짝 마이크론 SKHY 뉴욕증시 급등 반도체주 AMD"
   ]
  ],
- "last_run": "2026-10-22T06:12:36.544041+09:00",
+ "last_run": "2026-10-22T06:14:39.111804+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
