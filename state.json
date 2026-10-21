@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610190108&t=NN",
-  "https://www.chosun.com/economy/tech_it/2026/10/19/YDI6BOLLDBAGXCMNB4L7A7B4QM/",
-  "https://www.edaily.co.kr/News/Read?newsId=03591606645614560&mediaCodeNo=257",
-  "https://www.newspim.com/news/view/20261019001095",
-  "https://www.hankyung.com/article/202610190703i",
   "https://www.edaily.co.kr/News/Read?newsId=03519446645614560&mediaCodeNo=257",
   "https://www.chosun.com/economy/tech_it/2026/10/19/RPSAIQ2JA5EGPMABUUIU6XWYUY/",
   "https://www.etoday.co.kr/news/view/2637303",
@@ -2999,14 +2994,14 @@
   "https://www.joongang.co.kr/article/25471701",
   "http://www.yonhapnewstv.co.kr/news/MYH20261021204936182",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261021.99099006394",
-  "https://www.konas.net/article/article.asp?idx=64741"
+  "https://www.konas.net/article/article.asp?idx=64741",
+  "https://sports.khan.co.kr/article/202610212052003?pt=nv",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449966",
+  "https://www.edaily.co.kr/News/Read?newsId=05871206645615216&mediaCodeNo=257",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=449965",
+  "https://www.thepublic.kr/news/articleView.html?idxno=323228"
  ],
  "seen_titles": [
-  "글로벌AI기업'IPO몸값'하락...국내AI기업복잡해진상장셈법",
-  "앤스로픽“AI가4년만에美경제50%키운다”",
-  "AI로열린'해킹의시대'…SW무허가복제는왜환호받나",
-  "딥시크,더빠르고더싼경량AI모델출시…\"GPT-5.6솔넘어\"",
-  "AI면몸값뛰던시대끝나나…韓AI기업상장셈법'복잡'",
   "NH아문디운용\"AI투자사이클지속…반도체소부장으로투자확대\"",
   "삼전닉스휘청이더니…코스피수익률,주요국중‘꼴찌’",
   "“이번기술주폭락,7월과다르다”…매수실종·신용경색에갇힌AI...",
@@ -6001,7 +5996,12 @@
   "삼성전기도엔비디아와‘깐부’맺었다…반도체기판공장증설공동...",
   "헌재,'이진숙국정감사배제'가처분일부인용…국감참석가능",
   "삼성전기부산사업장에엔비디아-삼성전기공동팹설치",
-  "北겨냥해킹공격?…'kp'도메인사이트한나절무더기접속장애(종합)"
+  "北겨냥해킹공격?…'kp'도메인사이트한나절무더기접속장애(종합)",
+  "삼성의개막6연승신바람…KBL신기록까지2G남았다",
+  "[10월22일자]비즈니스포스트아침의주요기사",
+  "AI가제멋대로행동하면?…엔비디아,강제차단기술공개",
+  "엔비디아삼성전기와패키지기판전략협력발표,국내전용생산라인...",
+  "가입자떠나고빚은쌓이고…케이블TV산업에켜진생존경고등"
  ],
  "recent_sigs": [
   [
@@ -6535,9 +6535,17 @@
   [
    "2026-10-21T20:52:17.145744+09:00",
    "kp 한나절 해킹공격 무더기 접속장애 겨냥 도메인사이트"
+  ],
+  [
+   "2026-10-21T20:54:14.855001+09:00",
+   "차단 제멋대로 공개 AI가 행동하면 기술 강제"
+  ],
+  [
+   "2026-10-21T20:54:14.855001+09:00",
+   "산업에 쌓이고 켜진 생존 빚은 경고등 떠나고 케이블TV 가입자"
   ]
  ],
- "last_run": "2026-10-21T20:52:40.521223+09:00",
+ "last_run": "2026-10-21T20:54:38.451808+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
