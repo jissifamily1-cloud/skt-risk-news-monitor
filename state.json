@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thepublic.kr/news/articleView.html?idxno=322960",
-  "https://www.smartbizn.com/news/articleView.html?idxno=157019",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202515",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714981",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303044",
   "https://dhnews.co.kr/news/view/1065599291001474",
   "https://www.cnbizm.com/news/articleView.html?idxno=318592",
   "https://www.ceoscoredaily.com/page/view/2026102016350171372",
@@ -2999,14 +2994,14 @@
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=619946",
   "https://www.m-i.kr/news/articleView.html?idxno=2008591",
   "https://www.ajunews.com/view/20261021113135909",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90738"
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90738",
+  "https://www.fnnews.com/news/202610211108557061",
+  "https://wemakenews.co.kr/news/view.php?no=26607",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4113751",
+  "https://www.newstnt.com/news/articleView.html?idxno=724160",
+  "https://www.besteleven.com/news/articleView.html?idxno=313282"
  ],
  "seen_titles": [
-  "[산업AIEXPO프리뷰]AI구동인프라⑬|AI모델최대90%경량화·추...",
-  "휴리엇로보틱스,에스이아이엘과60억원스마트물류통합자동창고구축...",
-  "암호화폐슈퍼사이클온다?...\"비트코인(BTC),중국WTO가입때와같다...",
-  "신한은행,금융정보플랫폼'솔깃'오픈…저축부터세금까지한눈에",
-  "“韓금융사노렸던중국산AI도구,日기업도공격해”",
   "시원스쿨,일본취업부터실무까지대비하는'비즈니스일본어패키지'...",
   "신한은행·우리은행,금융콘텐츠플랫폼'솔깃'오픈·'우리369정기예...",
   "[산업AIEXPO프리뷰]AI사업화|아크헬스케어“직접요양센터운영하...",
@@ -6001,7 +5996,12 @@
   "롯데케미칼정보유출60%가퇴직자·협력사직원",
   "KT,의료AX세미나개최…현장맞춤형모델선봬",
   "과기정통부,양자기술산업확산추진…실증거점다각화",
-  "KT,병원맞춤형AI전환지원…의료데이터부터수술일정까지자동..."
+  "KT,병원맞춤형AI전환지원…의료데이터부터수술일정까지자동...",
+  "대한항공,UAM으로섬까지하늘길넓힌다…인천서실증성공",
+  "코스맥스그룹,하버드의대와맞손잡고글로벌바이오시장진출",
+  "카카오,자체개발비전인코더오픈소스공개",
+  "SK텔레콤,금감원손잡고보이스피싱예방…러너지원프로그램도동시...",
+  "FIFA가처음여는U-15월드컵&페스티벌참가한다…韓U-15대표팀,21일..."
  ],
  "recent_sigs": [
   [
@@ -6679,9 +6679,13 @@
   [
    "2026-10-21T14:04:15.089745+09:00",
    "수술 자동 맞춤형 ~KT 데이터부터 의료 지원 병원 일정까지"
+  ],
+  [
+   "2026-10-21T14:06:17.014024+09:00",
+   "21일 FIFA가 대표팀 참가한다 처음 월드컵 여는 페스티벌"
   ]
  ],
- "last_run": "2026-10-21T14:04:42.032998+09:00",
+ "last_run": "2026-10-21T14:06:38.453298+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7264,6 +7268,7 @@
   "ccn.hcn.co.kr": "ccn.hcn.co.kr",
   "andongmbc.co.kr": "안동MBC",
   "hg-times.com": "한강타임즈",
-  "goal.com": "goal.com"
+  "goal.com": "goal.com",
+  "besteleven.com": "Best Eleven"
  }
 }
