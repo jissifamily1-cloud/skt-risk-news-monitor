@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216366",
-  "https://www.nytimes.com/2026/10/17/business/ai-debt-coreweave-oracle-softbank.html?partner=naver",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54424",
-  "https://www.joongang.co.kr/article/25470518",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54423",
-  "https://www.hellot.net/news/article.html?no=115493",
-  "https://www.tokenpost.kr/news/ai/423562",
   "https://www.tokenpost.kr/news/ai/423480",
   "https://www.nytimes.com/2026/10/16/podcasts/hardfork-elizabeth-holmes.html?partner=naver",
   "https://www.nytimes.com/2026/10/16/briefing/handcuffs-in-schools.html?partner=naver",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026102168121",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=666659",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=323153",
-  "https://www.sedaily.com/article/20104502"
+  "https://www.sedaily.com/article/20104502",
+  "http://www.incheonin.com/news/articleView.html?idxno=121659",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3728442",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53838",
+  "https://www.dt.co.kr/article/12090479",
+  "https://www.fnnews.com/news/202610211807219318",
+  "https://www.fnnews.com/news/202610211808175078",
+  "https://www.m-i.kr/news/articleView.html?idxno=2008780"
  ],
  "seen_titles": [
-  "매출폭증하는데왜불안할까…AI거품론가를두회사의숫자.오픈AI...",
-  "Trump",
-  "마이크로소프트,코파일럿용앤트로픽모델연20억달러지출보도",
-  "[모닝뉴스브리핑]미국부채40조2500억달러外",
-  "OpenCode콘솔이용자1.4%보안침해영향",
-  "비탈릭,AI에이전트에Tor·zkAPI적용…응답지연감수",
-  "StatesAreSteppingUpastheNewAntitrustEnforcers",
   "오픈AI도청사건에드러난AI첩보전…기업들은이미'스파이경계'",
   "WeakLinksStarttoShowinA.I.Borrowing",
   "코어위브는빚더미에서빠져나올수있을까",
@@ -6001,13 +5994,16 @@
   "월가\"AI빚투리스크대비\"…빅테크CDS거래급증",
   "SKT,보이스피싱피해예방나서",
   "SKT·금감원,금융의날앞두고예방캠페인진행",
-  "KT,모두의AI에소상공인플랫폼심는다"
+  "KT,모두의AI에소상공인플랫폼심는다",
+  "인천도시철도1·2호선와이파이5G로교체,통신속도3배빨라져",
+  "충청광역연합발전전략논의…구형서의장'권한확대·재정확보'강조",
+  "세라젬,데이터브릭스와손잡고'AI웰니스홈'속도",
+  "AI세계적학술대회‘NeurIPS’에한국공학대학부생논문채택",
+  "AI비서덕분…상담시간절반줄고,보험금심사까지'척척'[보험도AI에...",
+  "中빅테크,엔비디아‘규제우회칩’350억弗주문",
+  "두산,엔비디아와AI파트너십가속…반도체생태계입지다진다"
  ],
  "recent_sigs": [
-  [
-   "2026-10-21T12:08:16.853262+09:00",
-   "주식리딩 만공스승 싸이클 코스피 하락과 시장 10강"
-  ],
   [
    "2026-10-21T12:14:16.976898+09:00",
    "1천 인프라 상반기 투자 손순실 커졌지만"
@@ -6653,7 +6649,7 @@
    "플랫폼 모두의 AI에 ~KT 소상공인 심는다"
   ]
  ],
- "last_run": "2026-10-21T18:08:41.764967+09:00",
+ "last_run": "2026-10-21T18:10:48.652902+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
