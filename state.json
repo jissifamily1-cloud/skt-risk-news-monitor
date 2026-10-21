@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3727764",
-  "http://www.ifs.or.kr/bbs/board.php?bo_table=globalnewsfocus&wr_id=503",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807721&plink=ORI&cooper=NAVER",
-  "https://www.mk.co.kr/article/12181515",
-  "https://www.newspost.kr/news/articleView.html?idxno=226552",
-  "https://www.dizzotv.com/site/data/html_dir/2026/10/21/2026102180035.html",
   "https://www.munhwa.com/article/11625054",
   "https://www.mydaily.co.kr/page/view/2026102110503661058",
   "https://www.dizzotv.com/site/data/html_dir/2026/10/21/2026102180040.html",
@@ -2999,15 +2993,15 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440446",
   "https://www.topstarnews.net/news/articleView.html?idxno=16254395",
   "https://news.tf.co.kr/read/economy/2379228.htm",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1728694"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728694",
+  "http://www.newsprime.co.kr/news/article.html?no=751911",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283603",
+  "https://www.chosun.com/economy/science/2026/10/21/W4QIWLMLOJD35MCJEGCLPPNJHI/",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497418",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728698",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692032"
  ],
  "seen_titles": [
-  "대사협·SK텔레콤,대학생과함께시니어디지털교육…AI로세대잇는다",
-  "[인터뷰]\"수작업라벨링절반이상AI로\"…KT,병원AX표준화제시",
-  "최태원“대학졸업장필요없다”…시민단체들‘환영’",
-  "충남도,2년연속최우수지자체선정…\"인센티브596억확보\"",
-  "경제뉴스브리프(기준일시:2026년10월21일수요일10:00)",
-  "퇴사한중국천재소년…\"이직한회사포착\"SNS들썩",
   "ForeigninvestorsdumpKoreanstocksamidhedgefundliquidationfear",
   "SKT,T팩토리성수에'런메이트캠프'오픈",
   "SKT,금감원과보이스피싱예방강화...AI필터링·현장교육확대",
@@ -6001,7 +5995,13 @@
   "삼성전기·엔비디아,반도체기판파트너십맺었다",
   "미국증시나스닥1.05%상승…스페이스X실적에AI주반등,엔비디아·테...",
   "뉴욕증시,AI투자심리회복에상승…엔비디아2.5%↑",
-  "[서학개미안테나]엔비디아,AI데이터센터구축14일로단축…'DSX포드..."
+  "[서학개미안테나]엔비디아,AI데이터센터구축14일로단축…'DSX포드...",
+  "쿠콘,금융AI에이전트'수혜'…글로벌페이·MCP신사업순항에\"내년...",
+  "뉴욕증시,스페이스X호실적·기술주강세에상승...나스닥1%↑",
+  "클로드는‘안전주의자’,GPT는‘모험가’…AI도성향제각각",
+  "젠슨황\"모든산업이AI기업돼야\"…엔비디아,데이터센터구축14일로...",
+  "[서학개미안테나]AI에이전트가은행해킹까지자동화…클로드·그록...",
+  "전세계웹사이트해킹비상…“업데이트못하면오프라인”"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,13 @@
   [
    "2026-10-22T07:22:16.222418+09:00",
    "데이터센터 DSX 단축 포드 14일로 구축"
+  ],
+  [
+   "2026-10-22T07:24:14.454713+09:00",
+   "클로드 해킹까지 은행 에이전트가 자동화 그록"
   ]
  ],
- "last_run": "2026-10-22T07:22:39.720101+09:00",
+ "last_run": "2026-10-22T07:24:35.964331+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
