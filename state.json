@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172414",
-  "https://www.gamechosun.co.kr/webzine/article/view.php?no=226617",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261020180745Y0c",
-  "https://www.chosun.com/national/incident/2026/10/20/ONMUL56ITFHOZHLIPHVKFSNL4A/",
-  "https://www.newsis.com/view/NISX20261020_0003833978",
-  "https://www.mk.co.kr/article/12180908",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=746264",
-  "https://www.busan.com/view/busan/view.php?code=2026102011120040829",
-  "https://news.cpbc.co.kr/article/1176456?division=NAVER",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1334612",
-  "https://www.kmib.co.kr/article/20261020501465",
   "https://www.ikbc.co.kr/article/view/kbc202610200065",
   "https://www.mt.co.kr/society/2026/10/20/2026102017502170437",
   "https://www.khan.co.kr/article/202610201809001",
@@ -2999,20 +2988,20 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=556872",
   "https://view.asiae.co.kr/article/2026102018045163804",
   "https://www.itbiznews.com/news/articleView.html?idxno=228596",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=205343"
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=205343",
+  "http://www.metroseoul.co.kr/article/20261021500169",
+  "http://www.metroseoul.co.kr/article/20261021500333",
+  "https://www.newstree.kr/newsView/ntr202610210011",
+  "https://zdnet.co.kr/view/?no=20261021144345",
+  "https://zdnet.co.kr/view/?no=20261021150124",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261021010006738",
+  "http://www.finomy.com/news/articleView.html?idxno=264215",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=44669",
+  "https://www.ngonews.kr/news/articleView.html?idxno=241116",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246691",
+  "https://www.yna.co.kr/view/AKR20261021114100001?input=1195m"
  ],
  "seen_titles": [
-  "[속보]경찰,금융기관해킹사건'중대범죄'로판단…중수청에통보키로",
-  "[단독]리멤버개인정보유출피해발생…개보위·KISA해킹여부조사",
-  "코스피3.7%급락…이틀반등분반납하며'5500선턱걸이'",
-  "KBS,신임사장에'OTT전문가'이태현전웨이브대표낙점",
-  "김해인제대오진아교수,라오스국립보건과학대명예교수로추대",
-  "딥시크,웹개발성능오픈소스1위…키미K3·GPT-6아스트라제쳐",
-  "일본은웃고,한국은울고…韓日게임산업격차커지는이유",
-  "SAP,중소·중견기업ERP도입문턱낮춘다",
-  "계급으로나뉜디스토피아의진실…2D픽셀어드벤처신작‘노르마’...",
-  "北'kp'도메인사이트,대거접속장애…오전부터불안정",
-  "국수본,‘금융기관AI해킹’중수청통보...“금융위유권해석고려...",
   "경찰,금융권해킹사건'중대범죄'판단…중수청통보예정",
   "[단독]“무료백업했는데이전대화날려”…카톡,폰바꾸는순간‘...",
   "[베스트단체장인터뷰]박수현충남지사,\"산업과사람이균형이루는...",
@@ -6001,7 +5990,18 @@
   "美슈퍼마이크로,월가예상뛰어넘는깜짝전망…AI반도체공급망동...",
   "[단독]'국내최대'명함앱리멤버개인정보유출피해발생…개보위해...",
   "KT\"국내첫도서지역공공형UAM운용가능성확인\"",
-  "임기만료앞둔5대은행장,연임전망은?…해킹에희비엇갈려"
+  "임기만료앞둔5대은행장,연임전망은?…해킹에희비엇갈려",
+  "화성특례시,우주항공산업추진단출범…'SPACEAI포럼'개최",
+  "통신3사AIDC투자속도…전력정책·외산장비의존부담",
+  "도서지역첫UAM실증'성공'…섬주민교통개선'기대'",
+  "세라젬,데이터·AI기업데이터브릭스와맞손…'AI웰니스홈'가속",
+  "크래프톤,자체개발LLM‘라온-1미니’프리뷰공개",
+  "19만㎞글로벌광폭행보…AI·반도체탄탄한'네트워크동맹'",
+  "SK쉴더스,중소기업7800곳에보안·보험통합지원",
+  "[S-이슈]최태원\"AI시대인재,대학졸업장필요없다\"…학력문턱낮춘...",
+  "KT,'KTAXis:의료2026'세미나개최···의료분야AI·DX혁신선도",
+  "오픈AI회의실에몰래녹음기…사우디직원'구속'",
+  "김장겸\"방미통위,유진이엔티청문통지서변경위원공람안해\""
  ],
  "recent_sigs": [
   [
@@ -6687,9 +6687,17 @@
   [
    "2026-10-21T15:00:41.078102+09:00",
    "주가 제고 기대에도 밸류업주 엇갈린 어디로 기업가치"
+  ],
+  [
+   "2026-10-21T15:04:14.608505+09:00",
+   "녹음기 구속 직원 몰래 사우디 회의실에"
+  ],
+  [
+   "2026-10-21T15:04:14.608505+09:00",
+   "유진이엔티 공람 청문통지서 김장겸 안해 변경 위원"
   ]
  ],
- "last_run": "2026-10-21T15:02:38.212511+09:00",
+ "last_run": "2026-10-21T15:04:41.368465+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
