@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsian.co.kr/news/articleView.html?idxno=97398",
-  "http://www.journalist.or.kr/news/article.html?no=61897",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3727218",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1188111",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690525",
-  "https://www.khan.co.kr/article/202610202000015",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3726072",
   "http://www.newstomato.com/ReadNews.aspx?no=1317427&inflow=N",
   "https://www.newspim.com/news/view/20261020001200",
   "http://www.yonhapnewstv.co.kr/news/MYH20261020200311uMN",
@@ -2999,16 +2992,16 @@
   "https://www.newspim.com/news/view/20261021000586",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497327",
   "https://www.chosun.com/economy/tech_it/2026/10/21/QZIFOAIPBBDTHHMJZSY36Q5BVQ/",
-  "https://www.tokenpost.kr/news/ai/425463"
+  "https://www.tokenpost.kr/news/ai/425463",
+  "https://www.inthenews.co.kr/news/article.html?no=93360",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261021.99099006190",
+  "https://www.newsway.co.kr/news/view?ud=2026102115421581810",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226292",
+  "https://www.mediapen.com/news/view/1131553",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254064",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210112&t=NN"
  ],
  "seen_titles": [
-  "앤커브랜드,하나로묶는다···충전넘어일상전반커버하는신제품...",
-  "온도,OpenAI연동토큰화채권24시간거래시작",
-  "'잠실구장고별전'보러만원관중운집…PS41경기연속매진[준PO3]",
-  "금융권해킹사건,중수청에통보…수사여부결정",
-  "‘청문부적격’기관장들임명기류…田시장-시의회협치두번째뇌관",
-  "[증권가H]주식매매규정위반제재97명/KIC수익률'반토막'등",
-  "오픈AI연계OPAIPon,온도퍼프스서USDC로24시간거래",
   "경찰,금융권연쇄해킹'중대범죄'판단…중수청통보한다",
   "이진숙밖에안보이는과방위국감",
   "KAI노동조합,'한화의KAI인수시도저지'2차상경투쟁",
@@ -6001,13 +5994,16 @@
   "아이폰듀오내년1월배송…흥행뒤에가려진\"수율60%\"",
   "유안타증권\"SK텔레콤·KT,통신넘어AI데이터센터로…기업가치재평...",
   "미국·유럽통신업계는‘스타링크맞불’…국내통신사는‘강건너...",
-  "아마존,엔비디아랙50억달러앞당겨수령…전력부족에창고대기보..."
+  "아마존,엔비디아랙50억달러앞당겨수령…전력부족에창고대기보...",
+  "대한항공,인천도서지역UAM실증…‘ACROSS’로통합관제",
+  "부산교통공사사장임명,시설공단은보류…협치여지남긴전재수",
+  "크래프톤,자체LLM'라온-1미니'공개…30B급오픈소스모델",
+  "'사망설'돌았던김정은,이번엔'대역설'...북매체는먹통",
+  "KT,병원별맞춤형AI도입지원…의료AX표준화모델공개",
+  "KT,병원관계자초청'KTAXis:의료2026'세미나개최…'의료표준화...",
+  "오픈AI·앤트로픽,AI모델넘어돈전쟁도시작"
  ],
  "recent_sigs": [
-  [
-   "2026-10-21T09:48:14.115612+09:00",
-   "쿠팡풀필먼트 아울렛 GS25 프리미엄 슈퍼새터데이 신세계사이먼"
-  ],
   [
    "2026-10-21T09:50:27.356141+09:00",
    "만에 반도체주 출발 하루 코스피 반등 강세에"
@@ -6695,9 +6691,13 @@
   [
    "2026-10-21T15:46:15.383426+09:00",
    "50억달러 수령 앞당겨 대기 전력 창고 아마존 부족에"
+  ],
+  [
+   "2026-10-21T15:48:16.985988+09:00",
+   "시작 전쟁도 넘어 모델 앤트로픽"
   ]
  ],
- "last_run": "2026-10-21T15:46:42.742031+09:00",
+ "last_run": "2026-10-21T15:48:35.410311+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
