@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=136747",
-  "http://www.4th.kr/news/articleView.html?idxno=2120109",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=107186",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=137798",
-  "https://www.pennmike.com/news/articleView.html?idxno=129949",
   "https://biz.chosun.com/industry/company/2026/10/21/YY4UWLUY6BA7FC6ZB5TX5IIR3M/",
   "https://www.sedaily.com/article/20104197",
   "https://www.widedaily.com/news/articleView.html?idxno=302153",
@@ -2999,14 +2994,14 @@
   "https://www.g-enews.com/view.php?ud=2026102120033550220c8c1c064d_1",
   "https://www.cstimes.com/news/articleView.html?idxno=724837",
   "https://www.kyeonggi.com/article/20261022580001",
-  "https://www.aitimes.com/news/articleView.html?idxno=216500"
+  "https://www.aitimes.com/news/articleView.html?idxno=216500",
+  "https://www.cstimes.com/news/articleView.html?idxno=724836",
+  "https://www.dt.co.kr/article/12090534",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97477",
+  "https://www.edaily.co.kr/News/Read?newsId=02315686645615544&mediaCodeNo=257",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=729656"
  ],
  "seen_titles": [
-  "상담속'작은불편'까지먼저찾는다…신한라이프의AI소비자보호",
-  "카카오,구글ㆍ애플ㆍ메타보다앞선비전인코더'카나나-2'2종오픈소...",
-  "[미국주식]MarketBrief(10월20일미국장마감기준/한국시간10월...",
-  "SKT,보이스피싱예방부터러닝체험까지…생활속고객접점확대",
-  "SKT·금감원,보이스피싱차단공조강화…AI탐지고도화",
   "LG유플러스,IMSI체계보안강화...22일부터유심자동업데이트개시",
   "KT,인천앞바다서UAM·AI항공교통관리실증…5G·위성통신성공률100...",
   "[이채정의엮어읽기]북한이먼저한국을때릴가능성이없다고?",
@@ -6001,7 +5996,12 @@
   "\"中저가공세에발목\"…대형IPO앞둔앤트로픽,'기업가치1.5조달러...",
   "경기문화재단경기상상캠퍼스,개관10주년기념'상상이피는숲'24일...",
   "전세계웹사이트‘해킹비상’…AI가찾아낸10년묵은보안결함",
-  "오픈AI,구글클라우드서최신모델판매…3대클라우드모두진출"
+  "오픈AI,구글클라우드서최신모델판매…3대클라우드모두진출",
+  "한국공학대학부생연구논문,세계최고AI학술대회'NeurIPS'정식발표...",
+  "웹프로그래밍언어php에보안취약점…전세계비상",
+  "뉴욕증시,AI실적에되살아난매수세…다우360p↑·나스닥1.05%반등",
+  "중국산칩도가능...딥시크,엔비디아·화웨이칩지원하는AI추론기술...",
+  "[금융보안경고등③]증권가,은행권AI해킹에내부통제'속도'…보안..."
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,17 @@
   [
    "2026-10-22T06:28:16.575028+09:00",
    "클라우드 모두 판매 구글 최신 진출 클라우드서 3대 모델"
+  ],
+  [
+   "2026-10-22T06:30:34.149010+09:00",
+   "딥시크 추론 지원하는 칩도 화웨이 기술 가능 중국산"
+  ],
+  [
+   "2026-10-22T06:30:34.149010+09:00",
+   "증권가 은행권 내부통제 해킹에 보안 속도"
   ]
  ],
- "last_run": "2026-10-22T06:28:34.944633+09:00",
+ "last_run": "2026-10-22T06:30:57.496814+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
