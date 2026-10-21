@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=211278",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=138286",
   "https://www.aitimes.com/news/articleView.html?idxno=216434",
   "https://www.thepublic.kr/news/articleView.html?idxno=322926",
   "https://www.epnc.co.kr/news/articleView.html?idxno=408468",
@@ -2999,11 +2997,11 @@
   "https://www.naeil.com/news/read/605860",
   "https://www.mediapen.com/news/view/1131311",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=281685",
-  "https://www.naeil.com/news/read/605859"
+  "https://www.naeil.com/news/read/605859",
+  "https://www.mt.co.kr/tech/2026/10/21/2026102109562241281",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90733"
  ],
  "seen_titles": [
-  "[국감]신한·하나은행,정보유출고객에실질보상빠진VIP혜택?실효...",
-  "OK저축은행\"긴급대응완료\"뒤추가유출,고객정보피해...사흘뒤수...",
   "금융당국\"솔리다임美상장도중복상장\"…주주보호가관건",
   "바코드스캐너가해킹통로로…물류망공격가능성발견",
   "화웨이이어군까지번진'中포비아'…보안논란",
@@ -6001,7 +5999,9 @@
   "중국빅테크3사,엔비디아칩350억달러주문",
   "남자U-15축구대표팀,FIFAU-15월드컵&페스티벌참가…14명구성,21일...",
   "네이버웍스,9개월연속국내협업툴1위…공공18개부처도입",
-  "스페이스X,AI매출830%늘어…투자도폭증"
+  "스페이스X,AI매출830%늘어…투자도폭증",
+  "크래프톤,자체LLM'라온-1미니'공개…한국어·에이전트성능에비용...",
+  "오픈AI,신약개발AI'OrchestraBio'인수…'Rosalind'에통합"
  ],
  "recent_sigs": [
   [
@@ -6681,7 +6681,7 @@
    "1명이 기업 뚫었다 AI로 100여곳 해커"
   ]
  ],
- "last_run": "2026-10-21T13:08:33.027199+09:00",
+ "last_run": "2026-10-21T13:10:40.834316+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
