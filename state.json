@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261016_0003829797",
-  "https://www.news1.kr/politics/assembly/6323059",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/16/2026101690259.html",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1540805",
   "https://www.newsis.com/view/NISX20261016_0003829688",
   "https://www.edaily.co.kr/News/Read?newsId=04942966645613576&mediaCodeNo=257",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20261021_0003835825",
   "https://www.mk.co.kr/article/12182208",
   "https://www.ekn.kr/web/view.php?key=20261021021409496",
-  "http://www.osen.co.kr/article/G1112896477"
+  "http://www.osen.co.kr/article/G1112896477",
+  "https://www.busan.com/view/busan/view.php?code=2026102121103585829",
+  "https://biz.heraldcorp.com/article/10910533",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215259"
  ],
  "seen_titles": [
-  "딥페이크성범죄물심의8월누적1만7378건…작년연간실적추월",
-  "[ABC기획시리즈-케이블TV의갈림길③]전국방송이놓친우리동네…...",
-  "구글'프로젝트허그'조세·회계의혹으로번졌다…국세청·금감원신...",
   "과천이사온공무원,1년만에다시세종갈판",
   "경실련\"광고성스팸문자,카톡의339배⋯개인정보처리실태전수조사...",
   "“금융사본점91%가수도권에…금융위가세종가면서로업무비효율...",
@@ -6001,7 +5998,10 @@
   "방치한홈페이지가해킹통로될라…PHP취약점에보안업계긴급경고",
   "이진숙,과방위제척가처분일부인용에“당연한판결…국감참여”",
   "대한항공,‘ACROSS’로섬잇는하늘길관제…인천UAM실증성공",
-  "OSEN지형준기자,한국사진기자협회'이달의보도사진상'최우수상수상"
+  "OSEN지형준기자,한국사진기자협회'이달의보도사진상'최우수상수상",
+  "경찰,특허등록불만으로연쇄방화한70대에구속영장신청",
+  "삼성전기,엔비디아전용반도체기판라인만든다",
+  "[브라우저보안③]\"AI사이드바마저가짜\"…브라우저해킹대응시급"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,13 @@
   [
    "2026-10-21T21:48:17.111641+09:00",
    "취약점에 홈페이지가 경고 될라 보안업계 긴급 방치한 PHP 통로"
+  ],
+  [
+   "2026-10-21T21:58:17.272091+09:00",
+   "가짜 사이드바마저 시급 대응 브라우저"
   ]
  ],
- "last_run": "2026-10-21T21:56:36.741692+09:00",
+ "last_run": "2026-10-21T21:58:35.031831+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
