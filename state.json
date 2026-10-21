@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=42364",
-  "https://www.tokenpost.kr/news/breaking/424831",
-  "https://www.dt.co.kr/article/12090219",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/20/2026102090215.html",
-  "https://www.thelec.kr/news/articleView.html?idxno=64001",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/20/2026102000352.html",
-  "https://www.sedaily.com/article/20103999",
-  "https://www.thelec.kr/news/articleView.html?idxno=63997",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201740097690385",
-  "https://biz.sbs.co.kr/article_hub/20000339885?division=NAVER",
   "https://www.hani.co.kr/arti/society/society_general/1283328.html",
   "https://www.dt.co.kr/article/12090220",
   "https://www.sedaily.com/article/20104003",
@@ -2999,19 +2989,19 @@
   "https://hbnpress.com/news/view/1065593771636068",
   "https://www.newstnt.com/news/articleView.html?idxno=724225",
   "http://www.yonhapnewstv.co.kr/news/AKR202610211518542Vw",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708816"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708816",
+  "http://www.popcornnews.net/news/articleView.html?idxno=136811",
+  "https://www.cstimes.com/news/articleView.html?idxno=724790",
+  "https://www.mt.co.kr/world/2026/10/21/2026102112232598315",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708851",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281745",
+  "https://imnews.imbc.com/replay/2026/nw1400/article/6859620_36974.html",
+  "https://www.ziksir.com/news/articleView.html?idxno=150207",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94492",
+  "http://www.dailypop.kr/news/articleView.html?idxno=103553",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16253710"
  ],
  "seen_titles": [
-  "공공재난관리'인포덱스AI'기업리스크도막는다",
-  "[ITS]다리소프트,90%이상정확도의AI도로모니터링솔루션공개…...",
-  "美서1200억원유치한20대韓창업가",
-  "신한·하나銀,해킹피해고객에VIP혜택…국민銀도보상안검토",
-  "경찰,금융기관해킹에전자금융거래법추가적용…중수청통보",
-  "신한·하나은행,해킹고객보상책내놨다…VIP우대·보험지원",
-  "충남도의회예결특위,2027년본예산심사역량강화나서",
-  "마이크로소프트,AI에이전트를'내부자위협'으로규정…프로젝트퍼셉...",
-  "바이트댄스·알리바바·텐센트,엔비디아칩350억달러주문보도",
-  "‘미국주식’대신ETF·삼성전자…우리금융,달라진투자수요공략...",
   "北사이트종일'먹통'…한미훈련비난논평도'확인불가'",
   "레노버-로민,AI기반개인정보비식별화어플라이언스출시",
   "경찰,금융기관해킹사건중수청통보…전자금융거래법위반추가",
@@ -6001,7 +5991,17 @@
   "LG유플러스,22일부터유심자동업데이트...보안강화조치앞당겨",
   "KT,'의료AX표준화모델'공개…전국병원에맞춤형AI·데이터솔루션...",
   "\"중국빅테크3사,48조원규모엔비디아칩주문\"",
-  "해킹한건에고작50달러…AI에이전트가바꾼사이버범죄실상"
+  "해킹한건에고작50달러…AI에이전트가바꾼사이버범죄실상",
+  "게임업계,AI·클라우드로영역확장…IP협업·기존작콘텐츠강화도",
+  "크래프톤,30B급LLM'라온-1미니'공개…상업용무료배포",
+  "中\"딥시크후미등도못보면서\"美에반격…한중AI협력셈법복잡",
+  "매출15배뛰었는데807억달러적자…앤트로픽,상장앞두고드러난민...",
+  "DB손보,이노비즈협회·SK쉴더스맞손…중기사이버위험대응",
+  "[맞수다]오세훈항소심생중계한다‥\"보통유죄판결때생중계?\"",
+  "LG유플러스,22일부터유심자동업데이트…통신보안강화박차",
+  "삼성·SK하이닉스,美엔비디아HBM공정표준화요청에대처…승부처는...",
+  "서울1인가구의돈⑤서울1인가구대출잔액지수1위는영등포…대출많...",
+  "CJ대한통운,KT클라우드안산AIDC신축공사수주"
  ],
  "recent_sigs": [
   [
@@ -6703,9 +6703,21 @@
   [
    "2026-10-21T15:20:25.815050+09:00",
    "사이버 50달러 바꾼 실상 고작 에이전트가 건에 범죄"
+  ],
+  [
+   "2026-10-21T15:22:14.800734+09:00",
+   "대출 1인가구의 대출잔액지수 서울 1인가구 1위는 영등포"
+  ],
+  [
+   "2026-10-21T15:22:14.800734+09:00",
+   "AIDC 공사 KT클라우드 안산 CJ대한통운 신축 수주 ~KT"
+  ],
+  [
+   "2026-10-21T15:22:14.800734+09:00",
+   "15배 매출 뛰었는데 807억달러 앤트로픽 상장 드러난 적자 앞두고"
   ]
  ],
- "last_run": "2026-10-21T15:20:43.837960+09:00",
+ "last_run": "2026-10-21T15:22:44.173962+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
