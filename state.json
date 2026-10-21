@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261021105613",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807786&plink=ORI&cooper=NAVER",
-  "https://www.newspim.com/news/view/20261021000317",
-  "https://view.asiae.co.kr/article/2026102110131984454",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497184",
-  "https://www.onews.tv/news/articleView.html?idxno=289666",
-  "https://www.smartbizn.com/news/articleView.html?idxno=157077",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=746373",
   "https://www.cstimes.com/news/articleView.html?idxno=724752",
   "https://www.ekn.kr/web/view.php?key=20261021023188943",
   "https://www.thebigdata.co.kr/view.php?ud=2026102111084471390a47484cf8_23",
@@ -2999,17 +2991,17 @@
   "https://view.asiae.co.kr/article/2026102208173072951",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1541307",
   "http://www.wsobi.com/news/articleView.html?idxno=320127",
-  "https://www.tokenpost.kr/news/ai/425622"
+  "https://www.tokenpost.kr/news/ai/425622",
+  "https://www.m-i.kr/news/articleView.html?idxno=2008831",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90767",
+  "https://www.khan.co.kr/article/202610220819001",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440462",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41155",
+  "https://www.newspim.com/news/view/20261022000063",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215475",
+  "https://www.mk.co.kr/article/12182421"
  ],
  "seen_titles": [
-  "野김장겸\"이통사사은품미사용규모420억원…재발급·기간연장보장...",
-  "[권변의法대로]76,'비밀번호알려줬잖아'면죄부될까?",
-  "친일파유묵일파만파…유홍준관장15개월만에사의표명",
-  "인텔·AMD\"x86CPU파이토치최적화협력\"",
-  "\"중국문샷AI출신'17세천재',미국AI스타트업합류\"",
-  "삼현,'KConnectAI'산업통상부장관표창",
-  "[흔들리는데이터주권]리멤버,잇단개인정보유출…해외매각기업사...",
-  "[국감]조정훈의원\"개인정보유출위험분담위해사이버보험가입의...",
   "SKT,T팩토리성수서'런메이트캠프'운영…AI기반러닝자세분석",
   "대한항공,인천도서지역UAM실증···자체관제시스템적용",
   "정동영의원,정부안에없던229억을1조2000억펀드로⋯전북피지컬AI...",
@@ -6001,7 +5993,15 @@
   "젠슨황,조립해서가져오는AI데이터센터공개…“설치14일이면끝”",
   "전세계웹사이트해킹비상…PHP치명적보안결함발견",
   "KT'KTAXis:의료2026'세미나개최...인천도서지역UAM실증성공",
-  "엔비디아,아이작플랫폼업그레이드…휴머노이드참조설계공개"
+  "엔비디아,아이작플랫폼업그레이드…휴머노이드참조설계공개",
+  "화성특례시,'MARS2026'에서우주항공산업추진단출범",
+  "크래프톤,자체개발AI모델'라온-1미니'공개...30B급LLM무료개방",
+  "AI가찾아낸역대급취약점···PHP보안비상에유럽정부도사이트폐...",
+  "[뉴욕마켓워치]美국무부걸프전역대피명령해프닝…주식↑채권·달...",
+  "뉴욕증시,AI실적호조에반등···중동돌발변수에출렁",
+  "[AIMY증시전망]AI투자심리회복에반도체훈풍…코스피상승세이어...",
+  "삼성전기,엔비디아와비즈니스파트너십…AI반도체공급망강화",
+  "“즉각해결못하겠으면케이블빼”…‘PHP해킹’초비상미국,발칵"
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,13 @@
   [
    "2026-10-22T08:20:26.893094+09:00",
    "설치 14일이면 젠슨 공개 데이터센터 가져오는 조립해서"
+  ],
+  [
+   "2026-10-22T08:22:16.570226+09:00",
+   "발칵 케이블 즉각 초비상 못하겠으면 PHP 미국 해결"
   ]
  ],
- "last_run": "2026-10-22T08:20:57.679188+09:00",
+ "last_run": "2026-10-22T08:22:34.051279+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
