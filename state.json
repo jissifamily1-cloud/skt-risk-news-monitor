@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000341128?division=NAVER",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172403",
-  "https://www.ytn.co.kr/_ln/0104_202610210437494837",
-  "https://www.mediapen.com/news/view/1131368",
   "https://www.hankookilbo.com/news/article/A2026102007530002719?did=NA",
   "https://biz.sbs.co.kr/article_hub/20000341126?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000341125?division=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.ajunews.com/view/20261021194300554",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449962",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7512",
-  "https://www.tokenpost.kr/news/breaking/425578"
+  "https://www.tokenpost.kr/news/breaking/425578",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=61053",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226345",
+  "https://www.m-i.kr/news/articleView.html?idxno=2008792",
+  "https://www.m-i.kr/news/articleView.html?idxno=2008793"
  ],
  "seen_titles": [
-  "\"전력없인AI혁명도없다\"…소프트뱅크,'SB에너지'앞세워데이터센...",
-  "“한국AI기업,참담한증시데뷔”…‘엘리스폭락’외신조명",
-  "MS발뺀데이터센터,앤트로픽잡다",
-  "반도체투자할곳넘치는데⋯SK하닉,美자본시장활용론고개[AI반도...",
   "날아오른테슬라‘로드스터’⋯‘하늘나는차’로기술혁신증명",
   "[美증시특징주]클라우드주,엘리스폭락후폭풍…코어위브급락딛고...",
   "[글로벌비즈브리핑]AI거품터질라…빅테크CDS거래급증外",
@@ -6001,7 +5997,11 @@
   "헌재,'이진숙제척'효력일부정지…野\"결정엄중히받아들여야\"",
   "헌재이진숙국감제척효력정지가처분일부인용,22일방미통위국감...",
   "[인사이트뉴스]엔비디아의'HBM표준화'가호재라고?…삼성턴키전략...",
-  "드리프트해킹연루지갑,이틀간이더리움1억900만달러토네이도캐시..."
+  "드리프트해킹연루지갑,이틀간이더리움1억900만달러토네이도캐시...",
+  "80주년역사담은특별전시...'JBL플레이백갤러리'[테크핫플레이스...",
+  "'김정은사망설'속노동신문홈페이지먹통…김여정은DMZ일대시찰",
+  "과기정통부,양자통신상용화시동…KT·SK브로드밴드컨소시엄선정",
+  "LG유플러스,유심자동업데이트돌입…IMSI체계보안강화"
  ],
  "recent_sigs": [
   [
@@ -6581,7 +6581,7 @@
    "이더리움 연루 지갑 토네이도캐시 드리프트 1억900만달러 이틀간"
   ]
  ],
- "last_run": "2026-10-21T19:48:41.183245+09:00",
+ "last_run": "2026-10-21T19:50:45.296140+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
