@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000341051?division=NAVER",
-  "https://www.hankyung.com/article/202610203414g",
-  "https://news.mtn.co.kr/article/2026102014094840852",
-  "http://www.4th.kr/news/articleView.html?idxno=2120070",
-  "https://www.etoday.co.kr/news/view/2637575",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553629163",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3726893",
-  "https://www.newspim.com/news/view/20261020000856",
-  "https://www.etoday.co.kr/news/view/2637939",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806303&plink=ORI&cooper=NAVER",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54447",
   "https://www.itbiznews.com/news/articleView.html?idxno=228430",
   "https://www.etnews.com/20261020000103",
@@ -2999,19 +2989,19 @@
   "https://www.busan.com/view/busan/view.php?code=2026102111112223571",
   "https://www.ddaily.co.kr/page/view/2026102110122940970",
   "https://www.dailian.co.kr/news/view/1704064/?sc=Naver",
-  "https://kbench.com/?q=node%2F282645"
+  "https://kbench.com/?q=node%2F282645",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=93219",
+  "https://www.mt.co.kr/politics/2026/10/19/2026101917451444230",
+  "https://www.starnewskorea.com/business-life/2026/10/21/2026102111053053503",
+  "https://biz.heraldcorp.com/article/10909792",
+  "https://zdnet.co.kr/view/?no=20261021105613",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807786&plink=ORI&cooper=NAVER",
+  "https://www.newspim.com/news/view/20261021000317",
+  "https://view.asiae.co.kr/article/2026102110131984454",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497184",
+  "https://www.onews.tv/news/articleView.html?idxno=289666"
  ],
  "seen_titles": [
-  "솔리다임상장논란확산에SK그룹주동반약세…SK하닉5%↓[핫종목]",
-  "사천시농업기술센터,농업인의오늘지키고사천농업의내일을키운다",
-  "추경호대구광역시장,청년고용률하락'실효대책'강조...내년예산시...",
-  "레드햇,오라클클라우드서직접구매·배포…기업용리눅스도입간소...",
-  "GIST,자율주행AI오류짚어내는신기술개발",
-  "인도네시아은행앱지키는한국보안솔루션,스틸리언'앱수트'국영·...",
-  "삼전닉스속절없이떨어졌는데…그래도\"사라\"는증권가,왜?",
-  "노무라,'사자'목표가삼성전자67만원,SK하이닉스470만원",
-  "\"전통시장관광도똑똑하게\"…AI지도에혼잡도·다국어통역까지",
-  "코어위브자금난에中메모리추격까지…K반도체'이중압박'[기술,다...",
   "[국감]삭제안된개인정보결국유출…우리은행·권익위외주관리'허...",
   "박철우서울공소청장“노태우비자금,새범죄사실입증하면몰수가능...",
   "'정규시즌42홈런→PS0홈런'침묵깼다!'김도영·안현민과동갑'23세...",
@@ -6001,7 +5991,17 @@
   "부산대,AI전환시대인권·안전연구거점만든다",
   "[캐치트래블]미식부터쇼핑·웰니스까지…호텔에서가을제대로즐기는...",
   "AI투심바로미터?…엘리스,급락하루만에30%상승세[특징주]",
-  "엔비디아DLSS5성능문제,VR기술에서해법찾았다?최대2배향상"
+  "엔비디아DLSS5성능문제,VR기술에서해법찾았다?최대2배향상",
+  "대한항공,인천도서지역UAM실증성공…통합관제기술력입증",
+  "野김장겸\"이통사사은품미사용규모420억원…재발급·기간연장보장...",
+  "[권변의法대로]76,'비밀번호알려줬잖아'면죄부될까?",
+  "친일파유묵일파만파…유홍준관장15개월만에사의표명",
+  "인텔·AMD\"x86CPU파이토치최적화협력\"",
+  "\"중국문샷AI출신'17세천재',미국AI스타트업합류\"",
+  "삼현,'KConnectAI'산업통상부장관표창",
+  "[흔들리는데이터주권]리멤버,잇단개인정보유출…해외매각기업사...",
+  "[국감]조정훈의원\"개인정보유출위험분담위해사이버보험가입의...",
+  "SKT,T팩토리성수서'런메이트캠프'운영…AI기반러닝자세분석"
  ],
  "recent_sigs": [
   [
@@ -6737,7 +6737,7 @@
    "2배 문제 VR 찾았다 DLSS 성능 향상 기술에서 해법"
   ]
  ],
- "last_run": "2026-10-21T11:14:38.040421+09:00",
+ "last_run": "2026-10-21T11:16:33.505602+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
