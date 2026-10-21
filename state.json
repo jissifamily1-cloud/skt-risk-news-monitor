@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576526762737",
-  "https://www.naeil.com/news/read/605746",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690149",
-  "https://www.g-enews.com/view.php?ud=2026102008444331703d7a510102_1",
-  "https://www.thebigdata.co.kr/view.php?ud=202610201123167643df3c2a17b7_23",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4026280",
-  "https://thetracker.co.kr/View.aspx?No=4271106",
-  "http://www.dailypop.kr/news/articleView.html?idxno=103517",
-  "https://www.etnews.com/20261020000199",
   "http://www.nongaek.com/news/articleView.html?idxno=97178",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201314533100310",
   "https://www.ddaily.co.kr/page/view/2026102013193337620",
@@ -2999,18 +2990,18 @@
   "https://www.tokenpost.kr/news/breaking/425284",
   "https://www.joongangenews.com/news/articleView.html?idxno=556902",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=874677",
-  "https://www.newspim.com/news/view/20261021000278"
+  "https://www.newspim.com/news/view/20261021000278",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=137793",
+  "http://www.4th.kr/news/articleView.html?idxno=2120106",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610201744457500387",
+  "https://www.ajunews.com/view/20261021101947560",
+  "https://www.tokenpost.kr/news/breaking/425286",
+  "https://www.mk.co.kr/article/12178131",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=873680",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=209998",
+  "https://www.fnnews.com/news/202610210949451823"
  ],
  "seen_titles": [
-  "금융사,AI투자·구축에조달·상품확대병행",
-  "얼굴정보서버에안남기는출입인증,대법원청사서시범운영",
-  "[국감]솔리다임중복상장,주주가치훼손우려…금감원대응촉구",
-  "두산서방출‘현역최다안타3위’손아섭,시작될‘새팀찾기’…‘...",
-  "[현장:서울시중장년일자리박람회2026①]현장서1차면접,합격자는...",
-  "삼성·미래에셋·KB자산운용등ETF7종출격…AI·반도체'집중형'경쟁",
-  "에버스핀,고객사7곳서위협IP21만개탐지…금융넘어공공·민간도...",
-  "삼성전자,'버즈온'으로클립형이어폰시장공략…\"착용감·통화품질...",
-  "할리스,개인정보276만건유출",
   "[영상]이제롯데만남았다…김태형감독,반전재계약?",
   "알바몬,AI채용솔루션‘스마트픽’출시",
   "NH농협은행,'대고객AIAgent구축'사업착수보고회개최...소비자관심...",
@@ -6001,7 +5992,16 @@
   "오픈AI출신맥그루의제조AI스타트업,2억3000만달러유치",
   "엔비디아,AI데이터센터보증·약정221조원…자금조달까지떠받친다",
   "LG유플러스,회사채3000억원발행…수요예측흥행에증액",
-  "국회국토위,자율차타고차량해킹체험…미래차안전점검"
+  "국회국토위,자율차타고차량해킹체험…미래차안전점검",
+  "신한라이프,고객이민원넣기전에AI가먼저찾는다…상담기록분석...",
+  "카카오,구글·메타·애플앞선이미지AI공개…상업적활용허용",
+  "[부산브리핑모음(10월21일)]부산남구,‘비전2040장기발전계획’...",
+  "신한라이프,'민원예방AI에이전트'시스템개설",
+  "스페이스X,AI연산절반외부임대목표…44만대훈련클러스터추진",
+  "3분기168억달러벌어도AI불안해소에역부족…앤트로픽실적에서읽...",
+  "[마켓H]코스피8거래일만에반등…증권가\"지금은버틸때\"",
+  "KT,병원관계자에의료AX표준모델공개…수술실·환자안내AI시연",
+  "\"과기정통부·방미통위,민원떠넘기기작년보다12배폭증\""
  ],
  "recent_sigs": [
   [
@@ -6565,7 +6565,7 @@
    "점검 타고 미래차 국회 체험 자율차 국토위 차량 안전"
   ]
  ],
- "last_run": "2026-10-21T10:22:36.173632+09:00",
+ "last_run": "2026-10-21T10:24:34.512017+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
