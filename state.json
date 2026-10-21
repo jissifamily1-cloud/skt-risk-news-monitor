@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88730",
-  "https://www.mk.co.kr/article/12180502",
-  "https://www.ajunews.com/view/20261019145913957",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729555",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4113469",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008806165&plink=ORI&cooper=NAVER",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360920",
-  "https://www.hangyo.com/news/article.html?no=109725",
-  "https://zdnet.co.kr/view/?no=20261020135852",
-  "https://sports.khan.co.kr/article/202610201359003?pt=nv",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=874371",
   "http://www.inews24.com/view/2016575",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708467",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440162",
@@ -2999,20 +2988,20 @@
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482622",
   "https://www.news1.kr/photos/8170719",
   "https://www.widedaily.com/news/articleView.html?idxno=302155",
-  "https://www.news1.kr/photos/8170720"
+  "https://www.news1.kr/photos/8170720",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440161",
+  "https://news.ifm.kr/news/articleView.html?idxno=482219",
+  "https://www.viva100.com/article/20261021500467",
+  "https://news.bizwatch.co.kr/article/mobile/2026/10/20/0001",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261021103815Ovy",
+  "https://www.ddaily.co.kr/page/view/2026102109411298468",
+  "https://www.sentv.co.kr/article/view/sentv202610210060",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482582",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=617673",
+  "https://www.smartbizn.com/news/articleView.html?idxno=157067",
+  "https://www.khan.co.kr/article/202610211038011"
  ],
  "seen_titles": [
-  "할리스,고객정보'탈탈'털렸다?...비밀번호까지뚫린멤버십보안망",
-  "[기자수첩]개인정보유출,피해는이제시작",
-  "엔비디아,유럽AI생태계에약100억달러투자…독일스타트업4곳지...",
-  "“엔비디아안사망신당했는데”…4년고전한월가투자자들의반격",
-  "카카오,카나나로AI비서시장정조준…네이버·SKT넘을까",
-  "머스크제친코덱스총괄'티보'…'리셋잘해주는고마운남자'",
-  "앤커이노베이션코리아,네오리튬이온배터리·온디바이스AI등독자...",
-  "머스크\"모든어린이에스페이스X주식\"주면생길일...AI수익배분논...",
-  "Vueron,KTpartnertoautomatepotholedetection",
-  "카카오톡스팸신고는전체건수중0.3%…경실련\"광고메시지전수조...",
-  "범용외부AI엔닫힌네카오…네이버는자체,카카오는제휴",
   "NH농협은행,대고객AI에이전트구축착수",
   "백악관SIF공동의장\"정부비협조AI기업제어할것\"",
   "삼성전자,첫클립형이어폰출격…'듣는방식'변화에주목",
@@ -6001,7 +5990,18 @@
   "\"배대신하늘길로섬간다\"···KT,인천앞바다서UAM운항실증",
   "KT,인천도서지역UAM실증성공",
   "\"AI해킹꼼짝마\"…SK쉴더스·DB손보,중기사이버보안·보상'원스톱...",
-  "KT,인천서도심항공교통실증"
+  "KT,인천서도심항공교통실증",
+  "증권가\"SKT,해킹사고기저효과속이익정상화\"",
+  "영종~덕적UAM실증성공...섬교통혁신첫발",
+  "인천공항공사,영종도-덕적도UAM실증완료…공항연계상용화속도",
+  "[크립토에열광한美핀테크]①달러패권굳히는스테이블코인전략",
+  "코스피,장초반3%반등…삼전·닉스급등",
+  "금융권,뚫린곳부터막는다…웰컴저축은행'탐지'·부산은행'외주통...",
+  "“AI가달리기자세봐준다”…SKT,성수서‘런메이트캠프’개최",
+  "\"AI로가족목소리까지위조\"···SKT·금감원,보이스피싱대응강화",
+  "LG유플러스,10월22일부터유심자동업데이트…알뜰폰·eSIM포함",
+  "LG유플러스,유심자동업데이트한달앞당겨",
+  "[단독]10만명개인정보해킹당한권익위···수탁사는‘정상파기’허..."
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,13 @@
   [
    "2026-10-21T10:38:13.668206+09:00",
    "도심항공교통 ~KT 실증 인천서"
+  ],
+  [
+   "2026-10-21T10:40:24.274916+09:00",
+   "해킹당한 정상 10만명 개인정보 수탁사는 권익위 파기"
   ]
  ],
- "last_run": "2026-10-21T10:38:35.992092+09:00",
+ "last_run": "2026-10-21T10:40:45.983645+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
