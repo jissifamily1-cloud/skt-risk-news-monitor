@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fetv.co.kr/news/articleView.html?idxno=312140",
-  "https://www.mediapen.com/news/view/1131463",
-  "http://www.4th.kr/news/articleView.html?idxno=2120119",
-  "https://www.asiatime.co.kr/article/20261021500134",
-  "http://www.newsdream.kr/news/articleView.html?idxno=120478",
   "https://www.cbci.co.kr/news/articleView.html?idxno=617733",
   "https://www.newscj.com/news/articleView.html?idxno=3441924",
   "https://www.kukinews.com/article/view/kuk202610200162",
@@ -2999,14 +2994,14 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6859819_37012.html",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524001",
   "https://www.smartbizn.com/news/articleView.html?idxno=157180",
-  "https://www.dt.co.kr/article/12090547"
+  "https://www.dt.co.kr/article/12090547",
+  "https://www.m-economynews.com/news/article.html?no=71956",
+  "https://biz.sbs.co.kr/article_hub/20000341424?division=NAVER",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53861",
+  "https://www.tokenpost.kr/news/ai/425601",
+  "https://www.tokenpost.kr/news/breaking/425606"
  ],
  "seen_titles": [
-  "상장첫날폭락한엘리스그룹은어떤회사",
-  "美반도체3배ETF(SOXL)순매수…나스닥ETF·테슬라도상위권",
-  "[AI인재]㊥전담팀만으론부족하다···지방은행도현업에눈돌리기",
-  "KB금융,부문장'은행장출신'전례이어지나…이환주에쏠린시선",
-  "\"현금보상없다\"…신한·하나은행,VIP혜택으로생색내기?",
   "DB손보,사이버보험中企시장공략확대…SK쉴더스-이노비즈협회와'맞...",
   "공공기관사이버공격2년새40%증가…전산장비30%노후",
   "KT,'의료AX세미나'개최…\"진료현장맞춤형표준화모델로혁신선도...",
@@ -6001,7 +5996,12 @@
   "뉴욕증시,스페이스X실적에기술주강세",
   "\"외부인침입·화재비상\"…에스원,AI·IoT품은학교맞춤형안전솔...",
   "SK하이닉스,솔리다임나스닥상장에주주반발···금감원제동에도규...",
-  "오픈AIGPT,구글클라우드에도탑재…최상위모델‘GPT아스트라’이..."
+  "오픈AIGPT,구글클라우드에도탑재…최상위모델‘GPT아스트라’이...",
+  "젠슨황“모든산업이AI기업돼야”...인프라·공급망투자확대",
+  "[비즈나우]엔비디아GTC…데이터센터부터로봇까지",
+  "테슬라이익개선…반도체이틀째상승",
+  "엔비디아토큰당전력최대30%절감제시…황,에이전트안전구조공개",
+  "드리프트해킹ETH5만개이상,이틀간토네이도캐시로이동보도"
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,25 @@
   [
    "2026-10-22T07:48:17.803510+09:00",
    "Expansion ChatGPT Countries Reach After Ads Now Says"
+  ],
+  [
+   "2026-10-22T07:54:15.113462+09:00",
+   "데이터센터부터 GTC 로봇까지"
+  ],
+  [
+   "2026-10-22T07:54:15.113462+09:00",
+   "이익 개선 상승 테슬라 반도체 이틀째"
+  ],
+  [
+   "2026-10-22T07:54:15.113462+09:00",
+   "에이전트 제시 전력 공개 절감 토큰당 구조 안전"
+  ],
+  [
+   "2026-10-22T07:54:15.113462+09:00",
+   "이동 토네이도 보도 5만개 이상 캐시로 ETH 드리프트 이틀간"
   ]
  ],
- "last_run": "2026-10-22T07:52:38.181021+09:00",
+ "last_run": "2026-10-22T07:54:44.445682+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
