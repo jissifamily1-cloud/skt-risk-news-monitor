@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-today.com/news/articleView.html?idxno=92082",
-  "https://www.inthenews.co.kr/news/article.html?no=93304",
-  "https://www.etnews.com/20261020000377",
-  "https://www.the-today.com/news/articleView.html?idxno=92083",
   "https://www.chosun.com/national/2026/10/20/XOZYKKP34VGLLEXZK3I2OHEJFI/",
   "https://www.gukjenews.com/news/articleView.html?idxno=3727142",
   "https://www.ajunews.com/view/20261020173155499",
@@ -2999,13 +2995,13 @@
   "https://www.kukinews.com/article/view/kuk202610210130",
   "https://www.pointe.co.kr/news/articleView.html?idxno=86366",
   "https://www.fnnews.com/news/202610211417474443",
-  "https://www.cwn.kr/news/articleView.html?idxno=59870"
+  "https://www.cwn.kr/news/articleView.html?idxno=59870",
+  "https://www.etnews.com/20261021000317",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497252",
+  "https://www.thepowernews.co.kr/view.php?ud=202610211435481364de3f0aa1be_7",
+  "https://zdnet.co.kr/view/?no=20261021135437"
  ],
  "seen_titles": [
-  "[단독]할리스,해킹인지하루넘겨신고…법정기한6시간초과",
-  "[이슈분석]코스피5550선급락…미반도체반등에도'국장'만털렸다",
-  "대한변협위원\"한중법률협력심화로경제·무역교류촉진\"",
-  "LG전자,AI데이터센터냉각효율높인다…류재철\"연산전력확보가핵...",
   "\"기술차단부터거버넌스직속관리까지\"...생·손보사특성별맞춤보...",
   "KT,AI스타트업56곳과AX협업…피지컬·에이전틱AI사업화확대",
   "금융지주역대급실적에도…\"해킹책임,연임자격없어\"",
@@ -6001,7 +5997,11 @@
   "화성시,내달3일코엑스서‘MARS2026’개최…우주항공산업추진단출...",
   "크래프톤,독자개발LLM'라온-1미니'공개…AI인재확보도속도",
   "모르는사람에게내명함정보가…'리멤버'회원정보또유출",
-  "엔비디아HBM공정표준화추진…삼성전자·SK하이닉스경쟁변수부상"
+  "엔비디아HBM공정표준화추진…삼성전자·SK하이닉스경쟁변수부상",
+  "다우존스,AI도입전위험먼저확인…“통제·관리우선”",
+  "카카오,AI눈역할하는자체개발'비전인코더'공개",
+  "카카오,멀티모달AI‘눈’공개…비전인코더2종오픈소스",
+  "KT,의료데이터처리업무절반이상AI로대체추진"
  ],
  "recent_sigs": [
   [
@@ -6703,9 +6703,13 @@
   [
    "2026-10-21T14:34:15.962711+09:00",
    "밸류업 급등 코미코 지수 관련주 주가는 혼조 명신산업 코리아"
+  ],
+  [
+   "2026-10-21T14:40:23.418154+09:00",
+   "AI로 의료 절반 ~KT 대체 업무 데이터 이상 처리"
   ]
  ],
- "last_run": "2026-10-21T14:38:32.894433+09:00",
+ "last_run": "2026-10-21T14:40:44.554542+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
