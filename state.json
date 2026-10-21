@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202610201031398228",
-  "http://www.queen.co.kr/news/articleView.html?idxno=464951",
-  "https://www.sentv.co.kr/article/view/sentv202610200059",
-  "https://www.etoday.co.kr/news/view/2637801",
-  "https://www.m-i.kr/news/articleView.html?idxno=2007961",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276794&CMPT_CD=P0010",
   "https://www.cstimes.com/news/articleView.html?idxno=724553",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=66075",
   "https://www.public25.com/news/articleView.html?idxno=56814",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/PYH20261021018900013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261021018600013?input=1196m",
   "https://hbnpress.com/news/view/1065570412011732",
-  "https://view.asiae.co.kr/article/2026102109062161902"
+  "https://view.asiae.co.kr/article/2026102109062161902",
+  "https://biz.heraldcorp.com/article/10908315",
+  "http://www.yonhapnewstv.co.kr/news/AKR202610210907473RH",
+  "https://www.joongangenews.com/news/articleView.html?idxno=556829",
+  "https://www.tokenpost.kr/news/breaking/425233",
+  "https://www.etoday.co.kr/news/view/2638175",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/21/2026102100038.html"
  ],
  "seen_titles": [
-  "\"해킹CEO책임묻겠다\"...이찬진원장이겨냥한1순위은행어디일까?",
-  "[오늘상장했어요]미래에셋·삼성·KB·한투·하나운용,AI반도체·배당...",
-  "[법률돋보기]㉑AI공격에뚫린금융사들…은행의주의의무는어디까지...",
-  "'소방빨대'발언후폭풍...민주,수습책'고심'[뉴스퀘어10]",
-  "에버스핀,금융권AI해킹여파속위협IP21만개탐지...공개된위협...",
-  "전통시장길찾기부터통역까지…관광공사,AI서비스6곳도입",
   "李대통령“수사권커진경찰,공정성·책임성높여야…강력한내부자...",
   "KT,아크릴과맞손…의료기관AX사업확대",
   "머스크파격기부\"미모든어린이에게스페이스X1주증여\"",
@@ -6001,7 +5995,13 @@
   "SKT,T팩토리성수서'런메이트캠프'...AI로러닝자세분석",
   "SKT,러너위한체험공간'런메이트캠프'운영",
   "LG구광모,K-브랜드지수CEO부문4위로...CJ이재현-신세계정용진신...",
-  "스카이인텔리전스,ABB·엔비디아피지컬AI백서주요기여…'인재'중..."
+  "스카이인텔리전스,ABB·엔비디아피지컬AI백서주요기여…'인재'중...",
+  "한국소비자단체연합“통신사도‘기업메시지’개인정보처리실태조...",
+  "\"AI거품한가운데서있다\"…시타델CEO경고",
+  "카카오,자체AI시각기술공개…구글·메타·애플주요모델성능앞서",
+  "워처구루\"오픈AI,안전모니터링끈AI에이전트포착\"",
+  "스카이인텔리전스,ABB·엔비디아산업용피지컬AI백서주요기여자참...",
+  "이진숙\"스컹크라모욕하더니국감서도빼…여권이일제히공격\"[뉴데..."
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,17 @@
   [
    "2026-10-21T09:08:15.774987+09:00",
    "기여 백서 피지컬 ABB 스카이인텔리전스 인재 주요"
+  ],
+  [
+   "2026-10-21T09:10:23.665036+09:00",
+   "포착 안전 에이전트 모니터링 워처구루"
+  ],
+  [
+   "2026-10-21T09:10:23.665036+09:00",
+   "일제히 스컹크라 뉴데 국감서도 공격 이진숙 여권이 모욕하더니"
   ]
  ],
- "last_run": "2026-10-21T09:08:37.882945+09:00",
+ "last_run": "2026-10-21T09:10:43.711361+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
