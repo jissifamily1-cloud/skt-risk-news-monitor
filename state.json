@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1334364",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3726534",
-  "https://sports.khan.co.kr/article/202610201043003?pt=nv",
-  "https://www.ytn.co.kr/_ln/0104_202610201041541381",
-  "https://www.chosun.com/economy/tech_it/2026/10/20/TOQY5HNONVC63M6L6I47KKZGNI/",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000082.html",
-  "https://www.jasm.co.kr/news/view/322202/?sc=Naver",
-  "https://www.newsis.com/view/NISX20261020_0003832970",
-  "https://www.cwn.kr/news/articleView.html?idxno=59736",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005942708",
   "https://www.thelec.kr/news/articleView.html?idxno=63867",
   "https://www.asiaa.co.kr/news/articleView.html?idxno=267019",
   "https://www.yna.co.kr/view/AKR20261020062300091?input=1195m",
@@ -2999,19 +2989,19 @@
   "https://kpenews.com/View.aspx?No=4272379",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=281608",
   "https://www.tokenpost.kr/news/breaking/425238",
-  "https://view.asiae.co.kr/article/2026102109161408349"
+  "https://view.asiae.co.kr/article/2026102109161408349",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497103",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728573",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=86330",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408500",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=138323",
+  "https://www.ngonews.kr/news/articleView.html?idxno=241070",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281613",
+  "https://www.edaily.co.kr/News/Read?newsId=02814246645615216&mediaCodeNo=257",
+  "https://www.ajunews.com/view/20261021091537251",
+  "https://www.eroun.net/news/articleView.html?idxno=93002"
  ],
  "seen_titles": [
-  "[통신브리핑]KT·LG유플러스·SK브로드밴드",
-  "지난해미사용인터넷가입상품권420억'증발'…통신3사절차손질",
-  "[재계투데이]SK하이닉스,2조원규모‘수출공급망강화보증’출범...",
-  "[인천일보경기본사시민편집위원회]\"노인의달기획보도,복지현장...",
-  "박완수도지사·나동연시장,양산에서도민체감형민생행보",
-  "전현희의원,“AI해킹위협,지금보다앞으로가더큰문제”",
-  "한국금융사노렸던중국산AI...일기업도80곳연쇄공격",
-  "젠슨황에게배운투자법…엔비디아출신VC“창업자평가,실패극복...",
-  "케이블TV,쌓여가는적자…딜라이브시작으로불붙은‘시한폭탄’...",
-  "지난해보이스피싱피해사상첫1조원넘어'역대최대'",
   "\"제트스키최강누구냐\"의성서'태국월드컵'국가대표선발전",
   "한국관광공사,전통시장에'AI관광집사'도입...길찾기·실시간통역...",
   "NH농협은행,고객용AI에이전트구축…개발본격착수",
@@ -6001,7 +5991,17 @@
   "SKT·금감원,금융의날앞두고맞손..보이스피싱예방교육·기술협력",
   "러닝붐타고성수동으로…SKT,'런메이트캠프'개장",
   "오픈AI에이전트2건,감시장치약화…한건은사용자에거짓답변",
-  "앤스로픽,AI인프라에최대1000조원베팅…IPO앞두고우려확대"
+  "앤스로픽,AI인프라에최대1000조원베팅…IPO앞두고우려확대",
+  "'차세대메모리인터페이스'CXL테마방긋…빅테크데이터센터확장수...",
+  "\"플래그십거품뺐다\"…르노코리아,고급사양품은'필랑트테크노'출...",
+  "SKT,금융감독원과보이스피싱예방나선다…고객정보보호강화",
+  "SKT-금감원,보이스피싱피해예방나선다…체험부스부터기술협력까지",
+  "SKT,금감원과보이스피싱예방나서...체험·교육강화",
+  "SKT·금감원,금융의날앞두고보이스피싱피해예방나서",
+  "이재용회장,K-브랜드지수CEO1위복귀…최태원회장은2위",
+  "앤스로픽,매출15배뛰었지만…AI인프라비용'1000조원'육박",
+  "중국빅테크,엔비디아저사양칩350억달러주문…반도체자립아직멀...",
+  "［2026년국감］윤준병의원,금융권해킹비상인데…농·수·산림조합..."
  ],
  "recent_sigs": [
   [
@@ -6399,9 +6399,13 @@
   [
    "2026-10-21T09:20:25.006423+09:00",
    "건은 거짓 장치 감시 답변 에이전트 2건 사용자에 약화"
+  ],
+  [
+   "2026-10-21T09:22:14.960335+09:00",
+   "금융권 2026년 비상인데 국감 산림조합 윤준병 의원"
   ]
  ],
- "last_run": "2026-10-21T09:20:42.452636+09:00",
+ "last_run": "2026-10-21T09:22:33.137093+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
