@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449767",
-  "https://view.asiae.co.kr/article/2026102010414315684",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=309469",
-  "https://www.econovill.com/news/articleView.html?idxno=754223",
-  "https://www.news1.kr/politics/president/6325575",
-  "https://www.econovill.com/news/articleView.html?idxno=754205",
-  "https://zdnet.co.kr/view/?no=20261020103507",
-  "https://news.tf.co.kr/read/economy/2378206.htm",
-  "https://news.mtn.co.kr/article/2026102010414594952",
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91403",
-  "https://www.thepublic.kr/news/articleView.html?idxno=322732",
-  "https://news.dealsitetv.com/articles/177165",
   "https://www.incheonilbo.com/news/articleView.html?idxno=1334364",
   "https://www.gukjenews.com/news/articleView.html?idxno=3726534",
   "https://sports.khan.co.kr/article/202610201043003?pt=nv",
@@ -2999,21 +2987,21 @@
   "https://sports.donga.com/sports/article/all/20261021/134879928/1",
   "https://isplus.com/article/view/isp202610210024",
   "https://www.delighti.co.kr/news/articleView.html?idxno=123564",
-  "http://www.journalist.or.kr/news/article.html?no=61898"
+  "http://www.journalist.or.kr/news/article.html?no=61898",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279267",
+  "https://www.ppss.kr/news/articleView.html?idxno=316526",
+  "https://www.ddaily.co.kr/page/view/2026102109112762737",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=91377",
+  "https://www.edaily.co.kr/News/Read?newsId=02807686645615216&mediaCodeNo=257",
+  "https://www.sedaily.com/article/20104131",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=746355",
+  "https://www.cstimes.com/news/articleView.html?idxno=724710",
+  "https://kpenews.com/View.aspx?No=4272379",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281608",
+  "https://www.tokenpost.kr/news/breaking/425238",
+  "https://view.asiae.co.kr/article/2026102109161408349"
  ],
  "seen_titles": [
-  "한국관광공사,전통시장여행에‘AI집사’붙였다[PS]",
-  "이건희52년전'한국반도체인수'승부수…K-반도체글로벌1위만들...",
-  "기술주반등에S&P500상승…반도체주18년만의최장하락행진마감",
-  "중국CXMT성장이메모리반도체업황에엇갈린신호,삼성전자SK하이닉...",
-  "MHS,냉각수60%아끼는'AIGPU냉각판'개발",
-  "람다256,AI로블록체인넘나드는범죄자금추적",
-  "연임앞둔5대은행장…국감서지배구조·내부통제도마",
-  "李대통령\"성역없이중대범죄엄단하라\"…중수청장\"최선다할것\"(종합...",
-  "이찬진\"금감원현장감독필요성,적극고려될것…정부판단기다려\"",
-  "KT,K-패스2026열고AI스타트업과AX협업성과공개",
-  "KT,아크릴과의료기관AI전환사업추진…맞춤형사업모델발굴",
-  "나루씨큐리티,웹로그로해킹흔적찾는AI보안서비스출시",
   "[통신브리핑]KT·LG유플러스·SK브로드밴드",
   "지난해미사용인터넷가입상품권420억'증발'…통신3사절차손질",
   "[재계투데이]SK하이닉스,2조원규모‘수출공급망강화보증’출범...",
@@ -6001,7 +5989,19 @@
   "‘호랑이VS사자’플레이오프입장권예매‘21일(오늘)오후2시’시작",
   "7월9일탄식,10월5일충격...LG2024년보다더허무한엔딩",
   "SKT,금감원과보이스피싱예방캠페인…AI기술고도화",
-  "방미통위,'YTN대주주유진청문'이틀전연기"
+  "방미통위,'YTN대주주유진청문'이틀전연기",
+  "인천시,영종~덕적도도서지역UAM실증성공",
+  "인천영종~덕적도UAM실증성공…섬지역교통혁신기반마련",
+  "세라젬,데이터브릭스플랫폼도입…'AI웰니스홈'경쟁력강화",
+  "\"한국어문서·OCR기술로빅테크눌렀다\"…카카오,'카나나-2비전인코...",
+  "카카오,멀티모달AI'눈'오픈소스로…경량모델도글로벌비전인코더...",
+  "美AI서버실적호조에삼성전자4%·SK하이닉스5%대반등[이런국장...",
+  "폴리뉴스모닝브리핑10월21일수요일",
+  "SKT,금감원과보이스피싱피해예방맞손…스팸필터링정확도개선",
+  "SKT·금감원,금융의날앞두고맞손..보이스피싱예방교육·기술협력",
+  "러닝붐타고성수동으로…SKT,'런메이트캠프'개장",
+  "오픈AI에이전트2건,감시장치약화…한건은사용자에거짓답변",
+  "앤스로픽,AI인프라에최대1000조원베팅…IPO앞두고우려확대"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-10-21T09:18:15.260554+09:00",
    "연기 유진 YTN 대주주 청문 이틀"
+  ],
+  [
+   "2026-10-21T09:20:25.006423+09:00",
+   "건은 거짓 장치 감시 답변 에이전트 2건 사용자에 약화"
   ]
  ],
- "last_run": "2026-10-21T09:18:40.226122+09:00",
+ "last_run": "2026-10-21T09:20:42.452636+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
