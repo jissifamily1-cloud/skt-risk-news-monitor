@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03772006645614560&mediaCodeNo=257",
-  "https://bizhankook.com/articles/megabox-terminates-14-lease-contracts.html",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=38141",
-  "https://weeklytrade.co.kr/news/view.html?no=101774",
-  "https://econotimes.com/Canadian-Publishers-Sue-Anthropic-Over-Alleged-Use-of-News-in-Claude-1757188",
-  "https://www.ajunews.com/view/20261020101447752",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=312072",
-  "https://www.newspim.com/news/view/20261020000372",
   "https://www.news1.kr/it-science/internet-platform/6325547",
   "https://www.edaily.co.kr/News/Read?newsId=03227526645614888&mediaCodeNo=257",
   "https://www.the-today.com/news/articleView.html?idxno=92059",
@@ -2999,17 +2991,17 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708662",
   "http://www.newsdream.kr/news/articleView.html?idxno=120437",
   "https://www.sentv.co.kr/article/view/sentv202610210003",
-  "https://www.public25.com/news/articleView.html?idxno=56885"
+  "https://www.public25.com/news/articleView.html?idxno=56885",
+  "https://www.dt.co.kr/article/12089888",
+  "https://www.gpkorea.com/news/articleView.html?idxno=147789",
+  "https://www.slist.kr/news/articleView.html?idxno=775102",
+  "https://www.sisajournal.com/news/articleView.html?idxno=390979",
+  "https://www.m-i.kr/news/articleView.html?idxno=2008300",
+  "http://www.kjdaily.com/article.php?aid=1792540600689795276",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172220",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079414"
  ],
  "seen_titles": [
-  "앤트로픽IPO전에선점…\"오픈AI,40조원투자유치에속도\"",
-  "박철우서울공소청장\"노태우비자금,새범죄사실입증시몰수가능\"",
-  "[단독]메가박스임대차계약14건해지추진…폐점본격화되나",
-  "애플첫폴더블아이폰듀오,사전주문30분만에배송일석달밀려",
-  "농식품수출정보AI서비스'채티',과학기술혁신대상금상수상",
-  "CanadianPublishersSueAnthropicOverAllegedUseofNewsinClaude",
-  "코스피,장중5%대하락에5500선도'위태'…SK하닉6%급락",
-  "현대엔지니어링,성남옛KT부지오피스텔189실청약돌입",
   "코스피,10월주요국증시하락률1위…연간수익률선두권서밀려",
   "\"편견조장콘텐츠무관용대응\"…방미통위,SNS고강도모니터링",
   "레드햇,OCI서RHEL공급확대…하이브리드클라우드협력강화",
@@ -6001,7 +5993,15 @@
   "SKT,금감원과보이스피싱예방캠페인…AI탐지기술고도화",
   "SKT,금융감독원과보이스피싱대응공조…통신·금융데이터결합",
   "더크림유니언,오픈AI‘셀렉트파트너’선정…차세대AI검색최적화...",
-  "[이슈진단]대출사고·외부인사기·해킹까지…은행권내부통제'총체적..."
+  "[이슈진단]대출사고·외부인사기·해킹까지…은행권내부통제'총체적...",
+  "통신3사,3분기실적희비…본업성장둔화속AIDC에승부수",
+  "\"최애함께키운다\"…지니뮤직'팬트리',21일만에1500만스트리밍",
+  "'크래시2'지성,천러와첫OST'SmashIt'발매",
+  "[인터뷰]양향자\"해당행위는장동혁이…절차적정당성·시스템오류짚...",
+  "인천경제청,청라영상문화복합단지개발계획변경안원안가결",
+  "삼성전자·SK하이닉스반등할까…21일주식시장주목",
+  "난생처음AIx부동산with클로드,제미나이,챗GPT,퍼플렉시티[새책...",
+  "SKT·금감원보이스피싱예방위해맞손"
  ],
  "recent_sigs": [
   [
@@ -6377,7 +6377,7 @@
    "내부통제 해킹까지 대출사고 총체적 은행권 외부인 사기"
   ]
  ],
- "last_run": "2026-10-21T09:04:41.046777+09:00",
+ "last_run": "2026-10-21T09:06:35.777700+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
