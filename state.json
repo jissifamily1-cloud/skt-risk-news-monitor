@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1704074/?sc=Naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691228",
-  "https://biz.heraldcorp.com/article/10909863",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53829",
-  "http://fpn119.co.kr/258175",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=617750",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/21/2026102100159.html",
-  "https://www.jemin.com/news/articleView.html?idxno=844962",
-  "http://www.tvdaily.co.kr/read.php3?aid=17925484831806296002",
-  "https://www.mt.co.kr/policy/2026/10/21/2026102111001175656",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261021113657kto",
   "https://www.boannews.com/news/articleView.html?idxno=146449",
   "https://news.tf.co.kr/read/economy/2378801.htm",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=874686",
@@ -2999,20 +2988,20 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=146011",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728710",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497459",
-  "http://www.breaknews.com/1244812"
+  "http://www.breaknews.com/1244812",
+  "https://zdnet.co.kr/view/?no=20261022084110",
+  "https://biz.heraldcorp.com/article/10909856",
+  "https://www.mt.co.kr/tech/2026/10/22/2026102208350740482",
+  "https://biz.heraldcorp.com/article/10910721",
+  "http://www.newsprime.co.kr/news/article.html?no=751931",
+  "https://www.newspim.com/news/view/20261022000065",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074593",
+  "https://www.news1.kr/photos/8172615",
+  "https://www.news1.kr/photos/8172616",
+  "https://biz.chosun.com/it-science/ict/2026/10/22/SXIDDQBIWZDNTG6ZH7CVSGJYB4/",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261022084219oWF"
  ],
  "seen_titles": [
-  "SK텔레콤,러너위한‘런메이트캠프’운영",
-  "\"국내외2030몰린다\"...T팩토리성수,관광·러닝거점'눈길'",
-  "LG유플러스,내일부터유심자동업데이트시작…정보보호목적",
-  "[현장]\"월말수작업집계그만\"…KT,데이터통합으로병원AX속도낸다",
-  "통일부,‘탈북민주민번호무더기유출’민간단체사무검사",
-  "3년연속적자에도증시입성…중국‘반도체굴기’의자신감[칩칩팹...",
-  "한화·앤스로픽,AI연구를예술로...퐁피두센터한화서아트커미션공...",
-  "서울중부소방서,2026년중구긴급구조종합훈련",
-  "로보티즈주가24만원대올라서…다이나믹셀출하확대와휴머노이드사...",
-  "\"AI가회사기밀빼돌리면?\"…기업용AI에이전트'보안사각지대'될...",
-  "엔비디아,인공지능기업지원확대…클라우드투자열기속재무부담...",
   "'연애박사'추영우·김소현,본격연애→갈등시작",
   "\"화성(MARS)가자\"이름값하는화성시…'우주항공추진단'출범",
   "\"문샷AI떠난중국AI천재소년,미국스타트업으로\"",
@@ -6001,7 +5990,18 @@
   "젠슨황\"유럽모든산업이AI기업돼야\"",
   "LG이노텍,엔비디아손잡고로봇센싱사업확대속도",
   "엔비디아시가총액5조3495억달러…SK하이닉스ADR·마이크론도'껑충'",
-  "악천후주행부터해킹대응까지…국토위,미래차안전현장점검"
+  "악천후주행부터해킹대응까지…국토위,미래차안전현장점검",
+  "\"통신3사유심보안조치에도보호사각지대\"",
+  "‘아이폰듀오’韓초기물량3만대뿐",
+  "한국도PHP보안업데이트권고…유럽·캐나다정부사이트중단",
+  "美기술주훈풍에비트코인도‘껑충’…8만4000달러돌파[크립토360]",
+  "[해외시황]뉴욕증시,빅테크호실적속AI투심회복에'상승'…나스닥...",
+  "[모닝리포트]\"국내증시,전날급반등에도오늘변동성전망\"",
+  "오늘법사위·과방위등10개상임위국감…'공소취소''이진숙'쟁점",
+  "SKT,원치않는해외로밍막는다",
+  "SKT,로밍이용범위직접관리하는‘T로밍안심국가’출시",
+  "전세계웹사이트‘해킹비상’…AI가치명적PHP보안결함발견",
+  "프랑스서24일또시위예고…세계웹사이트'해킹비상'"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-10-22T08:42:17.405117+09:00",
    "안전 대응까지 점검 악천후 현장 주행부터 미래차 국토위"
+  ],
+  [
+   "2026-10-22T08:44:16.294292+09:00",
+   "유심 통신3사 사각지대 보안조치에도 보호"
   ]
  ],
- "last_run": "2026-10-22T08:42:40.391402+09:00",
+ "last_run": "2026-10-22T08:44:33.981486+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
