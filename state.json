@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172400",
-  "https://www.joongangenews.com/news/articleView.html?idxno=556700",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62967",
   "https://www.gukjenews.com/news/articleView.html?idxno=3726996",
   "https://www.boannews.com/news/articleView.html?idxno=146545",
   "https://www.getnews.co.kr/news/articleView.html?idxno=884159",
@@ -2999,12 +2996,12 @@
   "https://www.cstimes.com/news/articleView.html?idxno=724764",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440365",
   "https://econotimes.com/Microsoft-Details-Controls-to-Restrict-AI-Agents-During-Tasks-1758477",
-  "https://www.munhwa.com/article/11625150"
+  "https://www.munhwa.com/article/11625150",
+  "https://www.yna.co.kr/view/AKR20261021090000083?input=1195m",
+  "https://www.imaeil.com/page/view/2026102111111430223",
+  "https://zdnet.co.kr/view/?no=20261021114658"
  ],
  "seen_titles": [
-  "\"지역강소기업시선\"...'2026지역AX브릿지@KOREA'서기술력뽐내",
-  "국회국토위,TS자동차안전연구원방문…자율차·사이버보안점검",
-  "아마존,엔비디아아성에도전장…AI칩전환돕는‘토치뉴런’공개",
   "자율차타고해킹시연체험…국회국토위,TS미래차안전점검",
   "김병희교수,'AI와광고창의성'출간...뭘다뤘나",
   "‘한번으로안되지!’KT힐리어드,9·10월월간MVP…외국인최초단...",
@@ -6001,7 +5998,10 @@
   "대한항공참여'K-UAM원팀'인천서UAM실증비행완료",
   "아폴로\"AI컴퓨팅수요무한하다는실리콘밸리믿음붕괴중\"",
   "MicrosoftDetailsControlstoRestrictAIAgentsDuringTasks",
-  "북한사이트이틀째접속장애해킹가능성…배후있나?"
+  "북한사이트이틀째접속장애해킹가능성…배후있나?",
+  "대만,AI호황에수출주문급증…9개월만에작년연간치추월",
+  "'김정은사망설'번지던날北매체줄줄이먹통…직접접속해보니'정상...",
+  "항공사해킹위협에AI로맞선다…한진정보통신,보안사업확대"
  ],
  "recent_sigs": [
   [
@@ -6671,9 +6671,13 @@
   [
    "2026-10-21T12:24:14.451790+09:00",
    "배후 접속장애 가능성 북한 사이트 이틀째 있나"
+  ],
+  [
+   "2026-10-21T12:26:14.470346+09:00",
+   "한진정보통신 보안 항공사 AI로 위협에 사업 맞선다 확대"
   ]
  ],
- "last_run": "2026-10-21T12:24:38.777008+09:00",
+ "last_run": "2026-10-21T12:26:32.277865+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
