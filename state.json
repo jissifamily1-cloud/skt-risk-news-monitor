@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202610203686O",
-  "https://www.munhwa.com/article/11624888",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=87848",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88738",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000075144",
   "https://www.fnnews.com/news/202610201526227532",
   "https://www.hankyung.com/article/202610203545i",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261020010006479",
@@ -2999,14 +2994,14 @@
   "https://www.swtvnews.com/news/newsview.php?ncode=1065570471959786",
   "http://www.weeklytoday.com/news/articleView.html?idxno=798942",
   "https://www.fntoday.co.kr/news/articleView.html?idxno=395872",
-  "https://platum.kr/archives/296780"
+  "https://platum.kr/archives/296780",
+  "https://www.bosa.co.kr/news/articleView.html?idxno=3014480",
+  "http://www.e2news.com/news/articleView.html?idxno=335316",
+  "https://www.econovill.com/news/articleView.html?idxno=754383",
+  "https://www.thelec.kr/news/articleView.html?idxno=64051",
+  "https://www.ddaily.co.kr/page/view/2026102111263171592"
  ],
  "seen_titles": [
-  "아마존,파이토치연동'토치뉴런'공개...엔비디아SW독점에도전",
-  "해킹·부정결제늘었는데,보상률은뚝…전금사11곳피해보상안전장치...",
-  "NCAI,'바르코3D·사운드'개편…생성형AI콘텐츠제작지원확대",
-  "\"하나의이어폰만쓰는시대아니다\"…삼성이클립형에뛰어든이유",
-  "신한은행,금융플랫폼'솔깃'오픈…AI시대맞춤형정보제공",
   "마이크로소프트\"내부자위협'AI에이전트',지속적감독·통제필요\"",
   "에버스핀'에버세이프웹',공개된위협IP대비7800배많은공격시도...",
   "마케팅저자8인한자리에…북토크콘서트'무기서회'개최",
@@ -6001,7 +5996,12 @@
   "‘이재용부터박정원까지’...‘K-브랜드지수’CEO부문빅데이터분석",
   "[위클리오늘]화성시,베트남'하노이기계전시회'서수출상담74건·MOU...",
   "노틸러스인베스트먼트,NVIDIA협력통해국내AI스타트업해외진출지...",
-  "게임사가처음부터직접만든언어모델,크래프톤'라온-1미니'무료공..."
+  "게임사가처음부터직접만든언어모델,크래프톤'라온-1미니'무료공...",
+  "화순전남대병원,AI의무기록자동화시스템구축",
+  "'AI시대냉난방공조미래'한자리에…'HARFKO2026'막올랐다",
+  "LG유플러스유심자동업데이트22일시작…38.4%완료,시행한달앞당...",
+  "스페이스X,3분기실적호조에주가8%급등",
+  "은행해킹CEO겨냥한금감원장…행장중징계‘촉각’"
  ],
  "recent_sigs": [
   [
@@ -6671,9 +6671,13 @@
   [
    "2026-10-21T13:04:14.683274+09:00",
    "1명이 기업 뚫었다 AI로 100여곳 해커"
+  ],
+  [
+   "2026-10-21T13:16:14.708091+09:00",
+   "겨냥한 금감원장 CEO 은행 중징계 촉각 행장"
   ]
  ],
- "last_run": "2026-10-21T13:14:37.525356+09:00",
+ "last_run": "2026-10-21T13:16:35.509664+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
