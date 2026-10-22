@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thelec.kr/news/articleView.html?idxno=64072",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=138358",
-  "https://www.dt.co.kr/article/12090466",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=49922",
   "https://www.aitimes.com/news/articleView.html?idxno=216493",
   "https://www.etnews.com/20261021000440",
   "https://edu.donga.com/news/articleView.html?idxno=113042",
@@ -2999,13 +2995,13 @@
   "https://www.wikitree.co.kr/articles/1168238",
   "https://www.tokenpost.kr/news/tech/425719",
   "https://www.etnews.com/20261022000182",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261022001116405"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261022001116405",
+  "https://www.dongascience.com/news/view/80475",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=618066",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365038",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42388"
  ],
  "seen_titles": [
-  "솔리다임,SK하이닉스주가더흔들었다",
-  "“지하철서끊김없이본다”…인천1·2호선5G",
-  "한국남동발전백상원상임감사,발전현장찾아안전·청렴소통경영실...",
-  "키사이트\"데이터센터수익성지키려면전계층검증필수\"",
   "카카오뱅크,내부통제도마위...직원테더수수·정보유출의혹수사",
   "SKT,성수에러너위한체험공간운영",
   "현대차,6년만에완전변경한'디올뉴투싼'출시…가격3,140만원부터",
@@ -6001,7 +5997,11 @@
   "LG이노텍,엔비디아와로봇용센싱개발…'피지컬AI'시장공략속도",
   "엔비디아통신망컴퓨팅,슈퍼마이크로·노키아가엣지에배치한다",
   "연세대포털해킹에졸업·재학생1만여명개인정보유출",
-  "[이영환의AI에이전틱이코노미㉘]멈추라고가르친적이없다"
+  "[이영환의AI에이전틱이코노미㉘]멈추라고가르친적이없다",
+  "[사이언스게시판]과기정통부,양자통신상용화실증할3대거점구축추...",
+  "[행정家]한국소비자원⑦ㅣ먹거리부터생활용품까지품질·가격점검...",
+  "조경태\"여전히집합건물인터넷단체계약허용돼\"",
+  "AI해킹도뚫지못했다…탈레스,소프트웨어취약점탐지차단'센티넬..."
  ],
  "recent_sigs": [
   [
@@ -6847,9 +6847,13 @@
   [
    "2026-10-22T11:22:18.216498+09:00",
    "없다 멈추라고 가르친 적이"
+  ],
+  [
+   "2026-10-22T11:24:15.205723+09:00",
+   "취약점 해킹도 뚫지 탐지 센티넬 소프트웨어 차단 못했다 탈레스"
   ]
  ],
- "last_run": "2026-10-22T11:22:47.785370+09:00",
+ "last_run": "2026-10-22T11:24:36.728909+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
