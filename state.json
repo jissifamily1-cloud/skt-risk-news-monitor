@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20261020500599",
-  "https://www.etoday.co.kr/news/view/2638637",
-  "https://www.yna.co.kr/view/AKR20261022022400008?input=1195m",
-  "https://www.newspim.com/news/view/20261021000746",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172447",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200028.html",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=66209",
-  "https://www.donga.com/news/Inter/article/all/20261021/134880964/1",
   "https://www.m-i.kr/news/articleView.html?idxno=2008808",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/22/2026102290023.html",
   "http://www.issuenbiz.com/news/articleView.html?idxno=80844",
@@ -2999,17 +2991,17 @@
   "https://www.seoul.co.kr/news/society/2026/10/22/20261022500320?wlog_tag3=naver",
   "https://www.yna.co.kr/view/AKR20261022187400004?input=1195m",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193473",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261023.22008006709"
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261023.22008006709",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3729777",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3729803",
+  "https://www.hankyung.com/article/202610228890H",
+  "https://www.sedaily.com/article/20105059",
+  "https://www.sedaily.com/article/20104763",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=617733",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692739",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810962&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "PHP보안패치사전유출파장…일부유럽국가들시스템오프라인전환",
-  "가상자산지갑1300만명시대...생각없는정부,통계도의지도없다",
-  "[분석]젠슨황의야심···AI산업금융·제조질서장악시도",
-  "엔비디아,이탈한AI에이전트밀리초단위로격리하는구조공개",
-  "\"같은알뜰폰요금제인데경품최대37만원차이\"…이통3사알뜰폰자...",
-  "‘해킹·희망퇴직’악재턴이통3사,합산영업이익5조봤다",
-  "[오늘의투자전략]\"차익실현소화속변동성장세...비반도체업종으로...",
-  "[마켓뷰]AI투심개선vs차익실현…코스피향방은",
   "[금리리셋]⑧코어위브쇼크속에AI회사채만담는ETF등장-㊦",
   "미국증시다우지수'상승'..IBM·엔비디아·GS·3M·애플'활짝'",
   "[속보]삼전닉스프리장1~2%하락…美3대지수는상승",
@@ -6001,7 +5993,15 @@
   "전국법원전산망장애로업무차질…“PHP와는무관”",
   "전국법원전산망2시간마비풀려…\"해킹무관,원인파악중\"(종합)",
   "이방수전LG엔솔사장\"LG계열사들,어떤연유로고발했는지배경모르...",
-  "부산에엔비디아전용생산라인선다(종합)"
+  "부산에엔비디아전용생산라인선다(종합)",
+  "청양경찰서,사고잦은구간에구간단속카메라추가설치",
+  "충남경제진흥원,2026희망드림판매전사전설명회개최",
+  "국내강타한日치이카와…IP전문가가본K애니생존법은?[인터뷰+]",
+  "韓‘공격무방비’서버만11만대…정보유출·서비스마비경고음",
+  "전세계웹70%떠받친PHP뚫렸다…“긴급패치적용안되면사이트중단...",
+  "[총수家]샘올트먼오픈AICEO②ㅣAI안전과수익화사이줄타기…규...",
+  "연세대해킹에1만5천명개인정보유출…대학가도비상",
+  "이훈기\"과감한규제폐지로방송사부담줄여OTT와경쟁할수있게해..."
  ],
  "recent_sigs": [
   [
@@ -6911,9 +6911,13 @@
   [
    "2026-10-22T19:30:35.756211+09:00",
    "생산라인 부산에 선다 전용"
+  ],
+  [
+   "2026-10-22T19:32:15.975687+09:00",
+   "부담 방송사 과감한 이훈기 규제 폐지로 줄여 OTT와 경쟁할 있게"
   ]
  ],
- "last_run": "2026-10-22T19:30:53.643942+09:00",
+ "last_run": "2026-10-22T19:32:34.370060+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
