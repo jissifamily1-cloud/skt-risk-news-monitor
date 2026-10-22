@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.e-science.co.kr/news/articleView.html?idxno=137875",
-  "https://www.techm.kr/news/articleView.html?idxno=156345",
-  "https://www.boannews.com/news/articleView.html?idxno=146600",
-  "https://www.techm.kr/news/articleView.html?idxno=156350",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497357",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=319388",
-  "https://www.fnnews.com/news/202610210954281750",
   "https://www.geconomy.co.kr/news/article.html?no=324662",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691410",
   "http://www.segyebiz.com/newsView/20261021519824?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.jibs.co.kr/news/articles/articlesDetail/66804?feed=na",
   "https://www.nspna.com/news/?newsid=832719",
   "https://www.tokenpost.kr/news/ai/425699",
-  "https://www.fnnews.com/news/202610220958383365"
+  "https://www.fnnews.com/news/202610220958383365",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3729125",
+  "https://biz.heraldcorp.com/article/10911084",
+  "https://www.newsis.com/view/NISX20261022_0003836442",
+  "https://www.fnnews.com/news/202610221035525200",
+  "https://www.widedaily.com/news/articleView.html?idxno=302207",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=900326",
+  "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99634"
  ],
  "seen_titles": [
-  "해킹조사전증거인멸해도직접제재한계…“법개정필요”",
-  "“中테크기업3곳,엔비디아칩350억달러주문…최대10%만인도가능”",
-  "삼성의홈이점이냐KIA의상승세냐…플레이오프1차전,한국시리즈행...",
-  "크래프톤,게임넘어AI모델개발...'라온-1미니'프리뷰공개",
-  "3Q실적발표앞둔삼성SDS·LGCNS...증권가,영업익성장격차전망",
-  "키즈플랫폼'놀이의발견',관리시스템해킹으로회원개인정보유출",
-  "[국감26]\"조사전자료없애도제재공백\"...유출증거인멸처벌강화...",
   "인천지하철1·2호선전객차,358량에5G기반와이파이구축을완...",
   "속도높이고운영비낮추고...크래프톤,자체개발AI언어모델공개",
   "삼성반도체,'원팀'넘어'코어팀'…미래기술도'정예팀'승부수던진다",
@@ -6001,7 +5994,14 @@
   "장동혁\"北이숨겨둔최후무기,핵·지뢰아닌바로李대통령\"",
   "KT텔레캅·플레이태그,AI영상분석기반케어서비스확대",
   "엔비디아,랙7대담은AI컨테이너공개…가동6개월→14일주장",
-  "'온라인그루밍안심앱'제역할못한다...올전문상담1건뿐"
+  "'온라인그루밍안심앱'제역할못한다...올전문상담1건뿐",
+  "김대권수성구청장,수성못상화동산서국제비엔날레...도시와자연의...",
+  "‘43개월→30개월’현대차그룹,AI로신차개발기간줄인다",
+  "국힘\"북한의최후방어무기는李대통령…北확성기는로맨스고우린불...",
+  "젠슨황,컨테이너로만든데이터센터로시간·비용절감한다",
+  "연세대포털사이트해킹뚫렸다…1만여명학번·연락처유출피해",
+  "해킹에뚫린연세대포털사이트…1만여명정보유출",
+  "'일본축구협회공식앱이해킹당했다!'…무려15시간넘게무단접근허..."
  ],
  "recent_sigs": [
   [
@@ -6739,9 +6739,17 @@
   [
    "2026-10-22T10:46:17.529090+09:00",
    "가동 14일 공개 주장 7대 6개월 담은 컨테이너"
+  ],
+  [
+   "2026-10-22T10:48:16.476138+09:00",
+   "컨테이너로 시간 데이터센터로 절감한다 비용 젠슨 만든"
+  ],
+  [
+   "2026-10-22T10:48:16.476138+09:00",
+   "15시간 접근 무려 넘게 앱이 일본축구협회 해킹당했다 무단"
   ]
  ],
- "last_run": "2026-10-22T10:46:35.706130+09:00",
+ "last_run": "2026-10-22T10:48:38.619645+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
