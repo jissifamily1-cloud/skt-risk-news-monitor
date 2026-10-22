@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261022000009",
-  "https://www.edaily.co.kr/News/Read?newsId=01367766645615544&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440435",
-  "https://www.medipana.com/news/articleView.html?idxno=419804",
-  "https://www.newspim.com/news/view/20261022000006",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=416606",
-  "https://www.donga.com/news/Economy/article/all/20261021/134884482/2",
-  "https://www.tokenpost.kr/news/briefing/425584",
   "https://news.tf.co.kr/read/economy/2379083.htm",
   "https://www.cbci.co.kr/news/articleView.html?idxno=617946",
   "https://www.newspim.com/news/view/20261021001341",
@@ -2999,17 +2991,17 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3729581",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038471",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215284",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323243"
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323243",
+  "https://news.skbroadband.com/news/articleView.html?idxno=241035",
+  "https://www.news1.kr/world/international-economy/6328748",
+  "https://www.etnews.com/20261022000351",
+  "https://www.etnews.com/20261022000353",
+  "https://www.ekn.kr/web/view.php?key=20261022028089894",
+  "https://www.ziksir.com/news/articleView.html?idxno=150398",
+  "https://www.yna.co.kr/view/AKR20261022133900017?input=1195m",
+  "https://biz.chosun.com/it-science/ict/2026/10/22/UEHA6Q3IBBAHBNIW6LMU4C3VHQ/"
  ],
  "seen_titles": [
-  "\"2년새7%→49%\"韓개발자파고든中AI…보안우려커져",
-  "[글로벌5Q]AI가찾아낸인터넷의‘뒷문’…전세계웹사이트보안비...",
-  "[단독]한강·황석영책도둑질,화웨이등中AI기업도가세했다",
-  "정반대의견도한지도에놓으면달리보인다...정치공론장개선나선...",
-  "'헤지펀드큰손'켄그리핀\"AI버블한가운데있어\"",
-  "美정부,PHP취약점대응착수…\"연방기관·기반시설영향점검\"",
-  "AI가찾아낸치명적결함…유럽정부웹사이트줄줄이셧다운",
-  "AI가찾아낸보안구멍에'발칵'…유럽정부웹사이트줄줄이폐쇄",
   "전세계웹사이트70%사용하는PHP서보안구멍…각국비상",
   "한국BMS제약,국내바이오스타트업10개사발굴…혁신생태계지원",
   "[GAM]'M7수익률1위'애플②10년만의최고몸값,메모리'대홍수'에...",
@@ -6001,21 +5993,17 @@
   "경남고성군,농어촌기본소득시범사업공모총력",
   "[청춘어람]나의마지막글",
   "아정당,ISMS인증획득…통신중개서비스정보보호체계공인",
-  "SKT,서울대·KAIST와'A.XK2'추론성능고도화"
+  "SKT,서울대·KAIST와'A.XK2'추론성능고도화",
+  "부산교통공사김태호신임사장,22일부터비상운영체계돌입",
+  "스마트폰몰락노키아,AI데이터센터로부활…3분기순익2배",
+  "PHP보안취약점발견에세계가비상…“韓,위험호스트세계6위규모...",
+  "고스트패스,대법원청사'얼굴정보서버저장없는'탈중앙인증시범...",
+  "PHP보안취약점에사이버위기‘주의’격상…정부긴급대응",
+  "부울경중소기업40곳에방화벽·24시간보안관제무료지원",
+  "전세계PHP보안비상…정부,사이버위기경보'주의'상향",
+  "MS“中연계해킹조직,AI보안도구악용해수백곳공격”"
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T09:14:15.620995+09:00",
-   "하이닉스 과실은 AI컴퍼니 5조 누구 견딘 적자"
-  ],
-  [
-   "2026-10-22T09:14:15.620995+09:00",
-   "AI로 발견 기대 질병 수년 후보 치료 주요"
-  ],
-  [
-   "2026-10-22T09:14:15.620995+09:00",
-   "주목 22일 실적주 CATL발 변동성 중국증시"
-  ],
   [
    "2026-10-22T09:16:14.905636+09:00",
    "추가대책 유출 마련해야 개인정보 이주희 의원"
@@ -6755,9 +6743,13 @@
   [
    "2026-10-22T15:12:15.178243+09:00",
    "KAIST와 성능 서울대 고도화 ~SKT K2 추론"
+  ],
+  [
+   "2026-10-22T15:14:15.822472+09:00",
+   "MS 공격 악용해 보안 해킹조직 도구 연계 수백"
   ]
  ],
- "last_run": "2026-10-22T15:12:36.274647+09:00",
+ "last_run": "2026-10-22T15:14:39.717619+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
