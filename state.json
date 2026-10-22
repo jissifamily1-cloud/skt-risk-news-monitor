@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=87916",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=61636",
-  "https://econotimes.com/Personal-AI-Agents-Draw-Scrutiny-Over-User-Data-and-Spending-1758807",
-  "https://www.hankyung.com/article/2026102167791",
-  "http://www.gndomin.com/news/articleView.html?idxno=493664",
-  "http://www.withinnews.co.kr/news/view.html?no=40751",
-  "https://www.g-enews.com/view.php?ud=2026102118053868122bd56fbc3c_1",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/21/2026102190209.html",
-  "https://www.kmib.co.kr/article/20261021501969",
-  "https://byline.network/?p=9004111222623965",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=323158",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=666657",
   "https://bizhankook.com/articles/8-us-states-sue-openai.html",
@@ -2999,19 +2989,19 @@
   "http://www.yonhapnewstv.co.kr/news/AKR20261022114301GTw",
   "https://www.nocutnews.co.kr/news/6595412",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=620267",
-  "http://www.inews24.com/view/2017819"
+  "http://www.inews24.com/view/2017819",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3729259",
+  "https://www.dongascience.com/news/view/80483",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=666745",
+  "https://www.seoultimes.news/news/article.html?no=2000101229",
+  "http://www.inews24.com/view/2017623",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440556",
+  "https://www.ytn.co.kr/_ln/0102_202610221143392264",
+  "https://biz.chosun.com/it-science/ict/2026/10/22/G7CPY4DC3NGSPFFYJMFUYRRZVA/",
+  "https://www.mediawatch.kr/news/article.html?no=261443",
+  "https://www.newsis.com/view/NISX20261022_0003836486"
  ],
  "seen_titles": [
-  "일본중고차사이트해킹…371만건개인정보유출가능성",
-  "인천지하철에‘전국첫5G와이파이’서비스시작",
-  "LGU+,유심자동업데이트시행",
-  "[현장]진공관부터스튜디오모니터까지…삼성과함께한JBL·B&W,'소리...",
-  "[네이버종합]네이버웍스및해피빈소식외",
-  "PersonalAIAgentsDrawScrutinyOverUserDataandSpending",
-  "코스닥새내기주엘리스월가서도주목하는까닭",
-  "서천호의원\"국가안보직결연구보안'구멍'\"",
-  "책한권가격에담기지않은권리,AI데이터학습",
-  "EU,5년만에북극전략전면개정…위성감시와해저케이블보호체계...",
   "野이진숙\"구글,최대11조매출올리면서'망사용료'지불전무\"",
   "[단독]6년간대학서유출된개인정보만최소297만개",
   "금융권‘보안구멍’으로지목된외부업무시스템,보안업계진단은?",
@@ -6001,7 +5991,17 @@
   "\"테슬라·스페이스X합병,내년상반기발표움직임\"",
   "소주즐긴최태원'힙지로회식'목격담…밝은표정에\"주가기대\"[뉴스...",
   "KT알파쇼핑,초등학생20여명초청방송제작체험진행",
-  "[2026국감]\"은행보안프로그램이해킹통로\"…이찬진\"관계부처와개..."
+  "[2026국감]\"은행보안프로그램이해킹통로\"…이찬진\"관계부처와개...",
+  "세종보람수영장,11월1일부터두달간임시휴관",
+  "AI가찾은보안취약점에전세계'비상'…각국정부·기업웹사이트긴...",
+  "정부,PHP보안결함긴급대응",
+  "현대홈쇼핑,스타트업5곳과협업성과공유…정규서비스도입검토",
+  "[DNA혁신상]NHN클라우드\"10년넘게쌓은기술력…국내기업AI활용돕...",
+  "\"국채매도사태오면차라리AI버블이나았다고생각할것\"",
+  "코스피·코스닥2%하락...5,600선도위태",
+  "KT,양자암호통신망전국으로확대…2028년까지구축",
+  "엔비디아,삼성전기·LG이노텍과협력...기판공급망·피지컬AI협력확...",
+  "경남에서도학교구글계정해킹피해…6개지역11만개털렸다"
  ],
  "recent_sigs": [
   [
@@ -6907,9 +6907,13 @@
   [
    "2026-10-22T11:46:15.069969+09:00",
    "관계부처와 통로 프로그램이 보안 이찬진 은행"
+  ],
+  [
+   "2026-10-22T11:48:17.446226+09:00",
+   "피해 구글 11만개 털렸다 학교 경남에서도 6개 계정 지역"
   ]
  ],
- "last_run": "2026-10-22T11:46:38.261337+09:00",
+ "last_run": "2026-10-22T11:48:38.912360+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
