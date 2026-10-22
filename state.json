@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12182179",
-  "https://www.dailian.co.kr/news/view/1704365/?sc=Naver",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008808936&plink=ORI&cooper=NAVER",
-  "https://www.segye.com/newsView/20261021524618?OutUrl=naver",
-  "https://www.mk.co.kr/article/12177759",
   "https://www.mk.co.kr/article/12177673",
   "https://biz.heraldcorp.com/article/10910483",
   "https://www.mt.co.kr/future/2026/10/21/2026102110304697858",
@@ -2999,14 +2994,14 @@
   "https://www.widedaily.com/news/articleView.html?idxno=302236",
   "https://www.yna.co.kr/view/PYH20261022138000013?input=1196m",
   "https://www.ngonews.kr/news/articleView.html?idxno=241155",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=48391"
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48391",
+  "https://www.dt.co.kr/article/12090645",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875121",
+  "http://www.breaknews.com/1244892",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=44705",
+  "https://www.techm.kr/news/articleView.html?idxno=156388"
  ],
  "seen_titles": [
-  "\"AI규제필요하다더니…\"오픈AI사장,'반대'단체기부논란",
-  "“찬스는1명아닌5명이만든다”진격의삼성,구단역대최다개막6...",
-  "경찰,'역삼연쇄방화'70대구속영장신청…살인미수혐의도검토",
-  "복지정보보안관제,야간·휴일자체인력없어…대응지연논란",
-  "삼성전기-엔비디아,세종·부산전용반도체기판공장구축",
   "삼성전기,엔비디아와AI반도체깐부됐다…AI기판장기공급",
   "與과방위원들\"국감제척유지된사안에'이진숙참여제한'지킬것\"",
   "헌재,이진숙가처분일부인용…내일방미통위국감참석",
@@ -6001,13 +5996,14 @@
   "빅테크도비상걸린'PHP해킹위협'…구글·오픈AI패치검증,아마존은...",
   "국회과방위,방미통위등에대한종합감사",
   "\"대학간판보다실력\"…SK최태원발언이던진채용시장의과제",
-  "[팩트체크]AI해킹때문에은행예금이줄었다고?"
+  "[팩트체크]AI해킹때문에은행예금이줄었다고?",
+  "“자금얼어붙었다”…연이은AIETF출시에도투자자는‘관망’",
+  "항공·은행웹서비스줄중단…PHP보안결함에전세계'비상'",
+  "언차일드,11월5일신보발표..7개월만가요계컴백‘시선집중’",
+  "[KT인사이드]KT,전국양자보안망구축나선다…기술실증넘어수익화...",
+  "\"AX·양자·UAM\"...KT차기먹거리는무엇?"
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T07:20:26.929840+09:00",
-   "피해 기술 협력까지 금융감독원과 교육부터 예방 ~SKT 현장 보이스피싱"
-  ],
   [
    "2026-10-22T07:22:16.222418+09:00",
    "반등 스페이스X 나스닥 상승 실적에 AI주 미국증시"
@@ -6787,9 +6783,13 @@
   [
    "2026-10-22T13:18:15.893067+09:00",
    "때문에 예금이 줄었다고 은행"
+  ],
+  [
+   "2026-10-22T13:20:27.440085+09:00",
+   "UAM 양자 AX 먹거리는 무엇 차기 ~KT"
   ]
  ],
- "last_run": "2026-10-22T13:18:44.551591+09:00",
+ "last_run": "2026-10-22T13:20:45.107852+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
