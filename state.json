@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Economy/article/all/20261022/134887343/2",
-  "https://www.newsis.com/view/NISX20261022_0003836661",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261022115359Bua",
   "https://www.gukjenews.com/news/articleView.html?idxno=3729281",
   "https://www.gukjenews.com/news/articleView.html?idxno=3729285",
   "https://www.ddaily.co.kr/page/view/2026102211355796975",
@@ -2999,12 +2996,12 @@
   "https://www.womennews.co.kr/news/articleView.html?idxno=283634",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=193625",
   "http://www.inews24.com/view/2018131",
-  "https://www.vegannews.co.kr/news/article.html?no=395767"
+  "https://www.vegannews.co.kr/news/article.html?no=395767",
+  "https://www.newsis.com/view/NISX20261022_0003836424",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=446116",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172586"
  ],
  "seen_titles": [
-  "창원주남저수지겨울철새선발대도착'재두루미·고니'첫관찰",
-  "[AI트렌드]SKT,수학자들과'A.XK2'두뇌바꾼다",
-  "젠슨황,유럽누비며엔비디아AI영토확장…'소버린AI'공략",
   "LG이노텍,엔비디아와로봇센싱솔루션개발…피지컬AI시장공략",
   "삼성전기,엔비디아와AI기판공동투자···세종·부산전용팹증설",
   "연세대포털해킹으로학생1만여명개인정보유출",
@@ -6001,7 +5998,10 @@
   "뉴욕증시,AI불안·국제유가급등에혼조...나스닥2.6%↓",
   "[AI프리즘]노벨상수상'AI대부'힌턴교수\"AI와친구가돼야한다....",
   "젠슨황\"메모리공급과잉우려?그렇게생각하지않아\"",
-  "LG이노텍,엔비디아기술적용로봇센싱공개"
+  "LG이노텍,엔비디아기술적용로봇센싱공개",
+  "아이폰듀오화면깨지면수리비165만원…갤럭시폴드8두배",
+  "뉴욕증시,기술주약세등영향혼조세⋯엔비디아4%대,메타6%대급락...",
+  "금융권해킹피해보상어디까지…집단소송땐수년"
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,17 @@
   [
    "2026-10-23T06:30:35.127259+09:00",
    "공급과잉 그렇게 메모리 젠슨 우려 않아 생각하지"
+  ],
+  [
+   "2026-10-23T06:32:17.059991+09:00",
+   "메타 영향 혼조세 뉴욕증시 기술주 급락 약세"
+  ],
+  [
+   "2026-10-23T06:32:17.059991+09:00",
+   "금융권 수년 피해 어디까지 집단소송 보상"
   ]
  ],
- "last_run": "2026-10-23T06:30:58.823856+09:00",
+ "last_run": "2026-10-23T06:32:37.324154+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
