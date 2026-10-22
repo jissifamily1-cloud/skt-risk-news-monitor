@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202609305327g",
-  "https://www.mk.co.kr/article/12182356",
-  "https://zdnet.co.kr/view/?no=20261022055558",
-  "https://www.g-enews.com/view.php?ud=2026102119480626080c8c1c064d_1",
-  "https://www.aitimes.com/news/articleView.html?idxno=216499",
-  "https://zdnet.co.kr/view/?no=20261022054620",
   "https://www.g-enews.com/view.php?ud=2026102205285023872bd56fbc3c_1",
   "https://biz.chosun.com/international/international_economy/2026/10/22/FVC3HPJINFG5LK45RUE3SQPGFU/",
   "https://www.hani.co.kr/arti/economy/it/1283566.html",
@@ -2999,15 +2993,15 @@
   "https://www.ajunews.com/view/20261022141341249",
   "https://www.mt.co.kr/tech/2026/10/22/2026102214465199785",
   "https://www.peoplewatch.co.kr/article/view/ppw202610220007",
-  "https://www.ddaily.co.kr/page/view/2026102214583680527"
+  "https://www.ddaily.co.kr/page/view/2026102214583680527",
+  "https://byline.network/?p=9004111222624298",
+  "https://news.dealsitetv.com/articles/177352",
+  "https://www.topdaily.kr/articles/112456",
+  "https://www.newsis.com/view/NISX20261022_0003836993",
+  "https://www.newspim.com/news/view/20261022000995",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709211"
  ],
  "seen_titles": [
-  "국감앞둔통신3사…보안점검에투자평가·알뜰폰구조도쟁점",
-  "보이스피싱배상누가내나…은행vs통신사떠넘기기'공방'",
-  "[2026국감]1만원대알뜰폰에경품54만원…대기업'출혈경쟁'논란",
-  "[피싱②]보이스피싱전쟁…정부‧이통사'AI방어선'구축",
-  "이대통령,개인정보취급기업에'엄중경고'무슨일?",
-  "\"이젠안통해\"…李대통령,기업에'경고장'날린이유",
   "\"불법감청하란소리냐\"…통신사들'집단반발'무슨일?",
   "“김과장,혼자AI로업무하면배신이야”…노사협상의제올리는노조...",
   "인도통신공룡지오플랫폼,4.5조원IPO100분만에완판",
@@ -6001,7 +5995,13 @@
   "SK최태원,직원들과'힙지로야장'…패딩조끼입고소맥한잔",
   "방미통위위원장\"해킹사건,사후이용자보호조치담당…보충할것\"",
   "솔리다임상장,SK스퀘어까지엮였다..최태원의'진퇴양난'",
-  "[PHP비상]보안취약점에해킹우려↑…KISA\"최신버전업데이트,로그..."
+  "[PHP비상]보안취약점에해킹우려↑…KISA\"최신버전업데이트,로그...",
+  "AI에이전트,긴여행의시작…출발선은어디인가",
+  "한화자산운용,美우주기업'임펄스스페이스'공동투자",
+  "[TOP'sPick][전자·IT]LG전자,K-water와세계최대규모조력발전소A...",
+  "\"우리홈페이지괜찮을까\"…스틸리언,'PHP취약점'무료점검서비스시...",
+  "[중국특징주]\"내년IPO추진딥시크,약20조원자금조달성공\"",
+  "엔비디아RTX6060,2029년으로출시지연전망…PS6보다성능낮을수도"
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,17 @@
   [
    "2026-10-22T15:04:16.656118+09:00",
    "KISA 우려 버전 보안 취약점에 업데이트 최신 로그"
+  ],
+  [
+   "2026-10-22T15:06:14.363442+09:00",
+   "20조 성공 IPO 내년 자금조달 딥시크"
+  ],
+  [
+   "2026-10-22T15:06:14.363442+09:00",
+   "수도 PS6보다 지연 출시 성능 낮을 2029년으로 전망 RTX"
   ]
  ],
- "last_run": "2026-10-22T15:04:45.334762+09:00",
+ "last_run": "2026-10-22T15:06:36.750889+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
