@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202610228502b",
-  "https://zdnet.co.kr/view/?no=20261021195057",
-  "https://www.aitimes.com/news/articleView.html?idxno=216508",
-  "https://www.newscj.com/news/articleView.html?idxno=3442292",
-  "https://mhnse.com/news/articleView.html?idxno=1607205",
-  "https://kr.aving.net/news/articleView.html?idxno=1815940",
-  "http://www.kjdaily.com/article.php?aid=1792640832689933276",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=319427",
-  "https://www.tokenpost.kr/news/ai/425759",
   "https://www.mt.co.kr/world/2026/10/21/2026102019572713579",
   "https://www.ajunews.com/view/20261022124306975",
   "https://www.hg-times.com/news/articleView.html?idxno=306304",
@@ -2999,18 +2990,18 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440726",
   "https://www.newsway.co.kr/news/view?ud=2026102307244498474",
   "https://www.ajunews.com/view/20261023073617923",
-  "https://www.etnews.com/20261023000004"
+  "https://www.etnews.com/20261023000004",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=138412",
+  "http://www.osen.co.kr/article/G1112897023",
+  "https://www.g-enews.com/view.php?ud=20261023014907592720990b2dc5_1",
+  "http://www.joseilbo.com/news/news_read.php?uid=577991&class=53",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5226634",
+  "https://www.bigtanews.co.kr/article/view/big202610230002",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875190",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172483",
+  "https://www.segye.com/newsView/20261023502801?OutUrl=naver"
  ],
  "seen_titles": [
-  "MS도AI도입했다가직원들외면…AI혁신의조건은",
-  "해킹피해입은연세대학교",
-  "과기정통부,양자통신상용화시동…KT·SK브로드밴드컨소시엄선정",
-  "더벤처스,AI추론인프라'애니브릿지'시드투자·팁스추천",
-  "전세계웹사이트뒤흔든'PHP쇼크'",
-  "PHP보안비상…정부,기업에긴급패치요청",
-  "함샤우트글로벌,'퍼시스'대상생성형AI검색최적화컨설팅수행",
-  "SKT,오픈AI이어'수학난제'도전...독파모수학추론역량키운다",
-  "AI가10년만에PHP보안구멍발견…전세계해킹'비상'",
   "[오피셜]LG,FA박동원잡을수있다는자신감의표현일까...베테랑포수...",
   "원에이아이,'2026뉴욕현지진출지원프로그램'참가...\"CPU기반으로...",
   "SK하이닉스·삼성전자거래대금반토막…비중40%대로",
@@ -6001,7 +5992,16 @@
   "오픈AI,1.25조달러몸값에300억달러유치임박…UAE주도",
   "뉴욕증시,AI투자부담에나스닥2.6%급락…다우강보합",
   "[재산공개]김태원靑청년미래비서관재산161억",
-  "AI투자우려에나스닥2.6%급락…반도체지수6.7%↓"
+  "AI투자우려에나스닥2.6%급락…반도체지수6.7%↓",
+  "SK브로드밴드,'트립인코리아'시즌8공개...미식·시니어예능도편성",
+  "800일만에이런일이!김영웅,홈런포함4안타대폭발...지난해PO타율...",
+  "러시아와이란,프랑스시위악용허위정보선전전의혹…새로운하이브...",
+  "뉴욕증시,'AI투자불안'반도체지수6.7%급락...나스닥2.6%↓",
+  "김태원청와대청년비서관,161억재산신고…주식만119억",
+  "[데일리머니마켓]나스닥2.6%급락",
+  "델,엔비디아협력AI혁신가속",
+  "양대'악재'...미국증시나스닥·S&P500'뚝',AI주'출렁'",
+  "“美,적국무기개발방해할비밀조직신설…해킹·공급망교란”[美..."
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,21 @@
   [
    "2026-10-23T07:38:17.762264+09:00",
    "주도 25조달러 UAE 300억달러 유치 임박 몸값에"
+  ],
+  [
+   "2026-10-23T07:42:21.450770+09:00",
+   "혁신 협력 가속"
+  ],
+  [
+   "2026-10-23T07:42:21.450770+09:00",
+   "AI주 P500 미국증시 출렁 악재 나스닥 양대"
+  ],
+  [
+   "2026-10-23T07:42:21.450770+09:00",
+   "공급망 적국 신설 개발 방해할 비밀조직 무기 교란"
   ]
  ],
- "last_run": "2026-10-23T07:40:41.610867+09:00",
+ "last_run": "2026-10-23T07:42:44.937653+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
