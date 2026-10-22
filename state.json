@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/425622",
-  "https://www.m-i.kr/news/articleView.html?idxno=2008831",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90767",
   "https://www.khan.co.kr/article/202610220819001",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4440462",
   "https://www.globale.co.kr/news/articleView.html?idxno=41155",
@@ -2999,12 +2996,12 @@
   "https://www.ajunews.com/view/20261022194655647",
   "https://www.ajunews.com/view/20261022173858330",
   "https://www.polinews.co.kr/news/articleView.html?idxno=746624",
-  "https://zdnet.co.kr/view/?no=20261022195109"
+  "https://zdnet.co.kr/view/?no=20261022195109",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3729922",
+  "https://econotimes.com/Chinese-Reports-Link-Hugging-Face-Breach-to-AI-Agent-Security-Risks-1760123",
+  "https://www.newscj.com/news/articleView.html?idxno=3442480"
  ],
  "seen_titles": [
-  "[더벨]콘칩,AI광고영상플랫폼'판도라AI'베타공개",
-  "젠슨황\"유럽모든산업이AI기업돼야\"...자동차,금융,헬스케어거...",
-  "젠슨황,조립해서가져오는AI데이터센터공개…“설치14일이면끝”",
   "전세계웹사이트해킹비상…PHP치명적보안결함발견",
   "KT'KTAXis:의료2026'세미나개최...인천도서지역UAM실증성공",
   "엔비디아,아이작플랫폼업그레이드…휴머노이드참조설계공개",
@@ -6001,7 +5998,10 @@
   "전국법원전산망장애2시간여만에복구…\"PHP해킹과무관\"",
   "방미통위종합감사…구글·X등온라인플랫폼불법정보도마위에",
   "대구FIX·ROBEX2026,해외성과2,100만달러…실제계약이행이관건",
-  "KT알파쇼핑,초등학생20여명초청…쇼핑호스트·촬영감독체험"
+  "KT알파쇼핑,초등학생20여명초청…쇼핑호스트·촬영감독체험",
+  "충남경찰청,\"배우이선빈과교통안전알린다\"",
+  "ChineseReportsLinkHuggingFaceBreachtoAI-AgentSecurityRisks",
+  "기업4곳중3곳\"내년IT보안조직키운다\""
  ],
  "recent_sigs": [
   [
@@ -6885,7 +6885,7 @@
    "온라인 불법정보 위에 구글 플랫폼 도마 종합감사"
   ]
  ],
- "last_run": "2026-10-22T19:54:32.908320+09:00",
+ "last_run": "2026-10-22T19:56:31.489803+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
