@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12180721",
-  "https://www.peoplewatch.co.kr/article/view/ppw202610200012",
-  "https://www.kmib.co.kr/article/20261020501463",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=130209",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601315",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729592",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172396",
   "https://www.todayeconomic.com/news/article.html?no=32508",
   "http://www.newstomato.com/ReadNews.aspx?no=1317351&inflow=N",
   "https://www.newscj.com/news/articleView.html?idxno=3441732",
@@ -2999,15 +2992,16 @@
   "https://www.donga.com/news/Economy/article/all/20261022/134889758/1",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277693&CMPT_CD=P0010",
   "https://sateconomy.co.kr/news/view/1065589351657205",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875115"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875115",
+  "https://magazine.hankyung.com/business/article/202610228680b",
+  "https://sports.khan.co.kr/article/202610221411003?pt=nv",
+  "https://zdnet.co.kr/view/?no=20261022115659",
+  "https://www.kbmaeil.com/article/20261022500353",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014754",
+  "https://www.yna.co.kr/view/PYH20261022152900013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261022153300013?input=1196m"
  ],
  "seen_titles": [
-  "거버넌스포럼\"솔리다임상장,중단해야…SK하닉주주만손해\"",
-  "솔리다임중복상장논란확산…얽히고설킨이해관계",
-  "[이슈체크]SK하이닉스,28일IR서'솔리다임중복상장'이슈설명하나?",
-  "[기업인사이드]대기업총수일가주담대살펴보니…이재용,1조9350억원...",
-  "SK가낸드상장하면HBM도할인될까?···'코리아디스카운트'만드는...",
-  "“솔리다임상장중단하라”…거버넌스포럼,SK하닉에요구",
   "솔리다임논란은이사회책임?최태원아닌고승범지목한이유",
   "“솔리다임상장은주주이익침해”…거버넌스포럼,중단촉구",
   "\"최태원도'물린'SK하이닉스\"...AI돈줄불안·솔리다임IPO에SK그룹株...",
@@ -6001,17 +5995,15 @@
   "판사가채점한법률AI성능…상위3개모델‘1점차‘접전",
   "PHP보안구멍...정부,사이버위기'주의'발령",
   "[재계동향]SK텔레콤,서울대·KAIST와AI수학연구…로밍국가선택서...",
-  "레드햇·엔비디아,AI에이전트에'보안울타리'…클라우드협력확대"
+  "레드햇·엔비디아,AI에이전트에'보안울타리'…클라우드협력확대",
+  "라라스테이션,콘진원'2026케이녹스페셜라운드x콘텐츠가치평가'대상...",
+  "현대출신마지막현역선수장시환,은퇴한다…LG,선수단대거정리",
+  "로봇·자율주행차확산,인명피해우려…QNX\"피지컬AI불확실성,OS로...",
+  "대구북구청년스타트업5곳,실리콘밸리서글로벌시장두드렸다",
+  "'돌연컴백연기'언차일드,11월5일돌아온다…\"신보막바지준비\"",
+  "SKT,서울대·KAIST연구진과기술교류회"
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T08:14:14.736332+09:00",
-   "상용망서 통화 기지국 완료 T모바일"
-  ],
-  [
-   "2026-10-22T08:14:14.736332+09:00",
-   "거주 부자세 약속 피해 캘리포니아 8년 저커버그 떠나려던"
-  ],
   [
    "2026-10-22T08:16:16.535819+09:00",
    "서비스 만들 플레이태그 ~KT AI가 CCTV를 KT텔레캅과 영상보안 읽는다"
@@ -6787,9 +6779,13 @@
   [
    "2026-10-22T14:10:25.291655+09:00",
    "메일시스템 침해 정황 한국국제교류재단 신고"
+  ],
+  [
+   "2026-10-22T14:14:15.420490+09:00",
+   "KAIST 교류회 기술 ~SKT 서울대 연구진과"
   ]
  ],
- "last_run": "2026-10-22T14:12:35.257366+09:00",
+ "last_run": "2026-10-22T14:14:36.346114+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
