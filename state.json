@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/world/2026/10/22/2026102205102296506",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691955",
-  "https://www.news1.kr/finance/general-finance/6327538",
-  "https://imnews.imbc.com/news/2026/world/article/6859755_36925.html",
-  "https://biz.sbs.co.kr/article_hub/20000341380?division=NAVER",
-  "https://www.dkilbo.com/news/articleView.html?idxno=558059",
-  "https://imnews.imbc.com/news/2026/world/article/6859752_36925.html",
-  "https://www.yna.co.kr/view/AKR20261021154651098?input=1195m",
   "https://www.ytn.co.kr/_ln/0104_202610220041192148",
   "https://www.cbci.co.kr/news/articleView.html?idxno=617942",
   "https://www.yna.co.kr/view/AKR20261021178600072?input=1195m",
@@ -2999,17 +2991,17 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=875188",
   "https://www.yna.co.kr/view/AKR20261022167400017?input=1195m",
   "https://www.tokenpost.kr/news/ai/425826",
-  "https://dealsite.co.kr/articles/171164"
+  "https://dealsite.co.kr/articles/171164",
+  "https://magazine.hankyung.com/job-joy/article/202610229347d",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1334856",
+  "https://www.asiatime.co.kr/article/20261022500384",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=81936",
+  "https://www.joongangenews.com/news/articleView.html?idxno=557554",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61650",
+  "http://www.segyebiz.com/newsView/20261022521171?OutUrl=naver",
+  "https://www.ddaily.co.kr/page/view/2026102217123856457"
  ],
  "seen_titles": [
-  "\"젠슨황이찜했다\"…엔비디아핵심공급사된삼성전기",
-  "[미국특징주]메타,3분기매출예상상회…AI투자확대속비의결권주...",
-  "'뮤즈'대박에도돈이말라간다…메타실적에월가긴장하는이유",
-  "PHP보안결함에전세계해킹비상…美도\"업데이트못하면오프라인전...",
-  "미,PHP해킹비상에\"즉각업데이트못하면오프라인전환하라\"",
-  "전세계웹사이트해킹'비상'…AI가보안취약점발견",
-  "전세계웹70%'치명적버그'발견…美·유럽해킹초비상",
-  "미국가안보국,PHP해킹비상에“즉각업데이트못하면오프라인전환...",
   "'금융권해킹·레버리지ETF'공방안끝났다…오늘정무위종합감사",
   "웹사이트해킹비상에유럽주요공공기관접속차단",
   "PHP보안해킹위험터진유럽…현지공공기관웹사이트줄줄이선제차...",
@@ -6001,25 +5993,17 @@
   "한국딥러닝,SKT와커머스AI실증",
   "[AI프리즘]한국개발자사로잡은오픈AI…코덱스사용세계3위",
   "엔비디아에이전트툴킷,지식·보안·최적화도구추가",
-  "[2026국감]해킹막으랬더니되레'보안구멍'…은행보안프로그램'도..."
+  "[2026국감]해킹막으랬더니되레'보안구멍'…은행보안프로그램'도...",
+  "삼양·SH·한전KPS도AX전환…에이블런\"AI문의400%급증\"",
+  "[시간을건너온사랑-3화]그가오랜시간을건너뛰어전화를걸어온...",
+  "[산업뉴스브리핑]'삼성월렛머니·포인트'서비스출시1주년…가입자...",
+  "한국증시,외국인이좌우...美반도체는날아도삼전-닉스급락",
+  "금융지주사2027년경영키워드는'내실'과'리스크관리'",
+  "세가'스튜피드네버다이즈',개발진이밝힌펑크좀비의탄생비화",
+  "SKT,수학난제연구로독파모고도화…서울대·KAIST와맞손",
+  "[PHP비상]통신3사\"특이사항없어\"…차단룰·긴급패치로선제대응"
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T11:22:18.216498+09:00",
-   "금손 ChatGPT부터 숨은 대상 올해 PR은 빛난 GEO까지"
-  ],
-  [
-   "2026-10-22T11:22:18.216498+09:00",
-   "출구 수도 없는데 절실해진 버틸 전략"
-  ],
-  [
-   "2026-10-22T11:22:18.216498+09:00",
-   "노키아가 엣지에 배치한다 슈퍼마이크로 컴퓨팅 통신망"
-  ],
-  [
-   "2026-10-22T11:22:18.216498+09:00",
-   "없다 멈추라고 가르친 적이"
-  ],
   [
    "2026-10-22T11:24:15.205723+09:00",
    "취약점 해킹도 뚫지 탐지 센티넬 소프트웨어 차단 못했다 탈레스"
@@ -6883,9 +6867,13 @@
   [
    "2026-10-22T17:18:17.809851+09:00",
    "차원 고광헌 시정 수용률 정부 필요 요구 낮아 대응"
+  ],
+  [
+   "2026-10-22T17:22:26.513664+09:00",
+   "없어 차단룰 대응 선제 특이사항 통신3사 긴급패치로"
   ]
  ],
- "last_run": "2026-10-22T17:20:45.019615+09:00",
+ "last_run": "2026-10-22T17:22:47.567324+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
