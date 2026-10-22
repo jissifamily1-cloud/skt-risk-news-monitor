@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://econotimes.com/Judge-Keeps-Former-OpenAI-Engineer-Alfozan-in-Custody-in-Recorder-Case-1757041",
-  "https://econotimes.com/AI-Developers-Could-Face-Closer-Scrutiny-if-Democrats-Win-a-Chamber-1757011",
-  "https://theviewers.co.kr/View.aspx?No=4270204",
-  "https://www.ddaily.co.kr/page/view/2026102004153638101",
-  "https://www.tokenpost.kr/news/breaking/424497",
-  "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html?partner=naver",
-  "https://econotimes.com/Google-s-AI-Overviews-Exceed-2-5-Billion-Monthly-Search-Users-1756546",
-  "https://www.nytimes.com/2026/10/19/business/dealbook/anthropic-ipo-charity.html?partner=naver",
   "https://econotimes.com/World-Offers-Banks-Human-Verification-Tools-as-AI-Fraud-Risks-Rise-1756362",
   "http://coinreaders.com/263916",
   "https://www.tokenpost.kr/news/breaking/424201",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/PYH20261022191100013?input=1196m",
   "https://www.danbinews.com/news/articleView.html?idxno=33913",
   "https://www.yna.co.kr/view/PYH20261022189800013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261022191300013?input=1196m"
+  "https://www.yna.co.kr/view/PYH20261022191300013?input=1196m",
+  "https://sports.khan.co.kr/article/202610221528013?pt=nv",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3729601",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483338",
+  "https://www.newspim.com/news/view/20261022001043",
+  "https://www.yna.co.kr/view/PYH20261022193300013?input=1196m",
+  "https://news.mtn.co.kr/article/2026102214581526898",
+  "https://www.dt.co.kr/article/12090680",
+  "https://www.mt.co.kr/tech/2026/10/22/2026102214461994494"
  ],
  "seen_titles": [
-  "AI모델도배포전보안검사시대…옵스왓,LLM스캐닝더한'메타디펜...",
-  "인섹시큐리티,AI모델파일·응답과정보안위협분석강화",
-  "CanadianPublishersSueAnthropicOverAllegedUseofNewsinClaude",
-  "GPT-6Astra연구회,강남에서임원임명장수여식개최…김진수부회장...",
-  "KalshiTradersPutAnthropic's2026IPOAnnouncementOddsat75%",
-  "[김대호인물]앤스로픽아모데이\"북극성프로젝트\"",
-  "\"가격은5%,성능은GPT-5.6능가\"…中딥시크,개선형저비용모델공...",
-  "JudgeKeepsFormerOpenAIEngineerAlfozaninCustodyinRecorderCase",
   "AIDevelopersCouldFaceCloserScrutinyifDemocratsWinaChamber",
   "[정대영의AI시대]딥시크만큼충격적인제브의출현",
   "오픈AI도청혐의사우디직원,왕실·군부지원정황…검찰\"도주우려...",
@@ -6001,7 +5993,15 @@
   "한국에서의챗GPT성과밝히는김경훈오픈AI코리아총괄대표",
   "환영사하는김경훈오픈AI코리아총괄대표",
   "모두의AI",
-  "오픈AI데브데이익스체인지서울"
+  "오픈AI데브데이익스체인지서울",
+  "‘만년꼴찌’삼성개막6연승반란,속공보강으로8연승까지도전",
+  "경남진로교육원,'AI미래여는진로교육콘퍼런스'개막",
+  "한화자산운용,미국우주기업에투자",
+  "'따릉이개인정보유출'서울시설공단상대손배소,오는11월첫변론",
+  "오픈AI데브데이익스체인지서울미디어사전브리핑",
+  "모호한세계의숨은질서[신간]",
+  "“힙지로에최태원이떴다”…직원들과술자리,패딩조끼도화제",
+  "[단독]'해킹구멍'PHP…국내서버10대중9대,'업데이트불가'"
  ],
  "recent_sigs": [
   [
@@ -6739,9 +6739,21 @@
   [
    "2026-10-22T15:28:15.613524+09:00",
    "데브데이 서울 익스체인지"
+  ],
+  [
+   "2026-10-22T15:30:34.214074+09:00",
+   "질서 숨은 모호한 세계의"
+  ],
+  [
+   "2026-10-22T15:30:34.214074+09:00",
+   "떴다 최태원이 직원들과 패딩조끼도 술자리 화제 힙지로에"
+  ],
+  [
+   "2026-10-22T15:30:34.214074+09:00",
+   "업데이트 국내 PHP 9대 구멍 서버 10대 불가"
   ]
  ],
- "last_run": "2026-10-22T15:28:58.190847+09:00",
+ "last_run": "2026-10-22T15:30:57.727534+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
