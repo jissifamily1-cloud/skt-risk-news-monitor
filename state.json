@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/425769",
-  "https://www.news1.kr/it-science/cc-newmedia/6328517",
   "http://www.inews24.com/view/2017884",
   "https://www.sisaweek.com/news/articleView.html?idxno=238518",
   "https://www.ziksir.com/news/articleView.html?idxno=150332",
@@ -2999,11 +2997,11 @@
   "https://www.newsis.com/view/NISX20261021_0003835804",
   "https://news.dealsitetv.com/articles/177304",
   "https://www.seoultimes.news/news/article.html?no=2000101045",
-  "https://dealsite.co.kr/articles/171011"
+  "https://dealsite.co.kr/articles/171011",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715601",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=620388"
  ],
  "seen_titles": [
-  "[서울&]관악S밸리입주2개사,AX부문수상",
-  "LG이노텍,엔비디아와로봇센싱'맞손'…내년차세대솔루션공개",
   "국회국감종합감사돌입…공소취소·레버리지ETF·대미투자놓고여야...",
   "SK텔레콤,서울대·KAIST등과수학난제공동연구…AI추론능력강화",
   "이탈리아통신사TIM,엔비디아와AI앱개발·배포협력",
@@ -6001,7 +5999,9 @@
   "CJ,티빙유출보상포함그룹지원검토…개보위원장\"후속대응면밀...",
   "[삼성家상속]이재용,1.5조증여세납부…연부연납·배당전략유력",
   "[뉴스앤데이터]<종합>통신3사독립이사16명중여성4명…이사회의...",
-  "금융권해킹'일벌백계'예고…롯데카드제재심'바로미터'되나"
+  "금융권해킹'일벌백계'예고…롯데카드제재심'바로미터'되나",
+  "김태원靑비서관161억원신고…이세웅전평북지사2759억원",
+  "美퀘스트다이아그노스틱스해킹…일부환자의료기록무단접근"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-10-23T08:04:17.172067+09:00",
    "되나 바로미터 금융권 롯데카드 예고 제재심 일벌백계"
+  ],
+  [
+   "2026-10-23T08:06:15.139886+09:00",
+   "의료기록 환자 접근 다이아그노스틱스 퀘스트 무단 일부"
   ]
  ],
- "last_run": "2026-10-23T08:04:42.706244+09:00",
+ "last_run": "2026-10-23T08:06:32.644973+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
