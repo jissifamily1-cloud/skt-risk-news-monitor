@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://ilyo.co.kr/?ac=article_view&entry_id=513248",
-  "https://www.newsq.co.kr/news/articleView.html?idxno=500552",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728385",
-  "https://www.fnnews.com/news/202610211705293082",
-  "http://www.newsian.co.kr/news/articleView.html?idxno=97427",
-  "https://www.ytn.co.kr/_ln/0104_202610211740226077",
   "https://www.hankyung.com/article/2026102167861",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449945",
   "https://www.itdaily.kr/news/articleView.html?idxno=242354",
@@ -2999,15 +2993,15 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092172559",
   "https://biz.heraldcorp.com/article/10911221",
   "https://www.newsis.com/view/NISX20261022_0003836507",
-  "https://www.etnews.com/20261022000184"
+  "https://www.etnews.com/20261022000184",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014736",
+  "https://www.mk.co.kr/article/12182688",
+  "https://www.mk.co.kr/article/12182686",
+  "https://biz.heraldcorp.com/article/10911223",
+  "https://www.tokenpost.kr/news/market/425720",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261022112511SIQ"
  ],
  "seen_titles": [
-  "[단독]무료로바꿔준다는데…SKT157만·KT4719명유심그대로",
-  "[2026국감]조경태의원,알뜰폰경품차별지적⋯최대37만원격차",
-  "'굿바이잠실구장'198승대투수,왜마운드흙담아갔을까...“돔구장...",
-  "정규리그우승KT가‘가성비’도1위…KBO10개구단‘1승당몸값’",
-  "장도연스크린이어시트콤물망,연기도전본격화?",
-  "김해인제대여자하키부,10년만에전국체전동메달쾌거",
   "그리스신화부터'설국'까지…교보문고,전문가와떠나는'오디세이:K'...",
   "[금융픽]하나은행,유로머니誌선정'대한민국최우수수탁은행'선정...",
   "오픈AI,\"AI에이전트가모니터링시스템약화시켜\"",
@@ -6001,7 +5995,13 @@
   "오픈AIGPT,구글클라우드서제공…구글과협력확대",
   "삼성전기·LG이노텍,엔비디아와전방위협력",
   "피해아동이먼저손내밀어야작동…정부그루밍안심앱무용지물인이...",
-  "[데스크가만났습니다]김호상KTENA대표“AI혁신,콘텐츠·IP사업..."
+  "[데스크가만났습니다]김호상KTENA대표“AI혁신,콘텐츠·IP사업...",
+  "[오피셜]KT문상철현역은퇴,12년커리어마침표\"뜨거운응원과함성...",
+  "쇼핑몰이미지보고AI가광고만든다...한국딥러닝,SKT와실증",
+  "구글클라우드오픈AI모델탑재...대표LLM3종모두지원",
+  "“모듈형팩토리AI인프라구축빨리”",
+  "엔비디아프리마켓2.27%상승,GTC베를린발표잇따라",
+  "[뉴스포커스]'소방재정빨대'후폭풍…장동혁'녹취'파문"
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,21 @@
   [
    "2026-10-22T11:26:16.251056+09:00",
    "대표 IP 혁신 김호상 사업 ~KT ENA 콘텐츠"
+  ],
+  [
+   "2026-10-22T11:28:15.447549+09:00",
+   "프리마켓 GTC 상승 잇따라 베를린 발표"
+  ],
+  [
+   "2026-10-22T11:28:15.447549+09:00",
+   "구축 모듈형 AI인프라 빨리 팩토리"
+  ],
+  [
+   "2026-10-22T11:28:15.447549+09:00",
+   "소방 후폭풍 재정 빨대 녹취 파문 장동혁"
   ]
  ],
- "last_run": "2026-10-22T11:26:37.669628+09:00",
+ "last_run": "2026-10-22T11:28:46.074007+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
