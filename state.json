@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.naeil.com/news/read/606033",
-  "https://www.naeil.com/news/read/606040",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875114",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318597",
-  "https://www.naeil.com/news/read/606005",
   "https://www.cnbnews.com/news/articleView.html?idxno=1020531",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709138",
   "https://it.donga.com/109750/",
@@ -2999,14 +2994,14 @@
   "https://biz.sbs.co.kr/article_hub/20000341685?division=NAVER",
   "https://biz.heraldcorp.com/article/10912060",
   "https://biz.sbs.co.kr/article_hub/20000341686?division=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6860140_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6860140_37012.html",
+  "http://www.jbsori.com/news/articleView.html?idxno=18084",
+  "https://www.yna.co.kr/view/AKR20261023019500009?input=1195m",
+  "https://www.hankyung.com/article/202610230012g",
+  "https://www.news1.kr/world/international-economy/6329347",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226618"
  ],
  "seen_titles": [
-  "[유통레이더]G마켓,홈앤쇼핑,롯데온,SSG닷컴,SK스토아,오뚜기,올리...",
-  "[THEFINANCE]거품론에도쏟아지는AIETF…뭘골라야할까",
-  "KT클라우드,50MW안산AIDC착공…수도권AI인프라확대",
-  "레드햇,엔비디아와에이전틱AI보안역량강화협력",
-  "고민수'YTN청문절차위증'고발예고…김종철\"의결절차문제없어\"",
   "인공지능이PHP보안취약점찾았다",
   "LG이노텍,로봇용센서사업속도낸다",
   "\"비밀번호없이서버장악\"…PHP취약점에사이버'주의'발령",
@@ -6001,7 +5996,12 @@
   "[비즈나우]'빚잔치'여전…AI트레이드'휘청'",
   "‘AI에돈얼마나쏟아부어야하나’…메타發투자공포에나스닥2.6%급...",
   "[애프터마켓리뷰]비나텍,연이은대규모공급계약수주",
-  "AI투자과도불안에기술주반도체주하락"
+  "AI투자과도불안에기술주반도체주하락",
+  "\"인간이'AI통제력'잃고있는지,'AI인류종말론'실체가있는지밝히...",
+  "램리서치,눈높이미달에급락…반도체매도촉발",
+  "\"나도못돌려받았나?\"…이동통신사에쌓인미환급금30억원",
+  "\"AI투자비감당못해신주발행까지\"…월가기술주매도확산",
+  "PHP'보안취약'이틀째비상…해킹될까전세계초긴장"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,17 @@
   [
    "2026-10-23T07:54:15.840531+09:00",
    "서초동 갖춘 사람 지혜 사계절의 흉내낼"
+  ],
+  [
+   "2026-10-23T07:58:15.770734+09:00",
+   "돌려받았나 미환급금 나도 이동통신사에 쌓인 30억원"
+  ],
+  [
+   "2026-10-23T07:58:15.770734+09:00",
+   "발행까지 감당 월가 확산 신주 투자비 못해 기술주 매도"
   ]
  ],
- "last_run": "2026-10-23T07:56:37.634638+09:00",
+ "last_run": "2026-10-23T07:58:39.526690+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
