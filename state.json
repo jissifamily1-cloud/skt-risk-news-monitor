@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/10/21/2026102116250938933",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728409",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728413",
-  "https://www.sedaily.com/article/20104463",
-  "https://www.busan.com/view/busan/view.php?code=2026102117494532263",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172491",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728417",
-  "https://www.newsis.com/view/NISX20261021_0003835681",
   "https://www.tokenpost.kr/news/market/425528",
   "https://biz.chosun.com/it-science/ict/2026/10/21/SYXU5L45D5EN3NHP7QZ7IECCCU/",
   "https://www.aitimes.com/news/articleView.html?idxno=216483",
@@ -2999,17 +2991,17 @@
   "https://www.boannews.com/news/articleView.html?idxno=146635",
   "https://news.jtbc.co.kr/article/NB12324298?influxDiv=NAVER",
   "https://www.sentv.co.kr/article/view/sentv202610220056",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261022112816Afp"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261022112816Afp",
+  "https://biz.heraldcorp.com/article/10911248",
+  "https://www.hankyung.com/article/202610228063g",
+  "http://www.4th.kr/news/articleView.html?idxno=2120217",
+  "https://www.kmib.co.kr/article/20261022500364",
+  "https://biz.heraldcorp.com/article/10911249",
+  "https://www.cstimes.com/news/articleView.html?idxno=724923",
+  "https://biz.heraldcorp.com/article/10911247",
+  "https://www.edaily.co.kr/News/Read?newsId=03765446645615544&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "\"호남반도체산단인력양성차질없게\"…전남대에주문봇물(종합)",
-  "[2026국감]조사전자료은닉·폐기'제재공백'⋯송경희\"법개정필요...",
-  "[도쿄증시-마감]AI·반도체주매수세힘입어상승…닛케이한때65,000선...",
-  "'CPU라이벌'AMD·인텔,AI개발손잡았다…최적화기술통합",
-  "계명대여성학연구소,10월23일추계학술대회개최...'삶의생산'조명",
-  "충남도,발전3사노조와통합본사유치논의…고용·상생해법모색",
-  "불량예측넘어공정제어까지…진화속도내는‘자율제조AI’[테크언...",
-  "북한주요웹사이트무더기접속장애이틀째지속",
   "통신유통업계\"종사자등록제중단하라\"",
   "충남도,도시재생주민참여경진대회개최…5개단체수상",
   "'10주년'경기상상캠퍼스,전시·공연·체험'상상이피는숲'개최",
@@ -6001,7 +5993,15 @@
   "델테크놀로지스,'엔비디아기반델AI팩토리'강화...에이전틱AI실...",
   "젠슨황,삼성전기와손잡았다…\"AI반도체기판공급확대\"",
   "KT,양자암호통신테스트베드전국확장…대구·광주·부산·춘천연결",
-  "여\"'曺탄핵'요구높아져\"…야\"李,나홀로정신승리\""
+  "여\"'曺탄핵'요구높아져\"…야\"李,나홀로정신승리\"",
+  "LGU+,에릭슨과기지국연결3배확장",
+  "\"630조시장\"…크리에이터커머스주도권잡아라",
+  "세계웹사이트75%사용하는PHP치명적취약점…정부긴급보안대응",
+  "한국대중골프장협회,10월전문경영인회개최…사이버보안·AI활용등...",
+  "SK텔레콤‘T로밍안심국가’출시",
+  "KT,2028년까지양자암호통신망전국확대…위성기술도실증",
+  "전세계웹사이트‘해킹비상’…PHP치명적보안결함",
+  "KT‘원클럽맨’문상철은퇴…“팬들의함성,평생잊지못할것”"
  ],
  "recent_sigs": [
   [
@@ -6875,9 +6875,13 @@
   [
    "2026-10-22T11:30:33.042426+09:00",
    "탄핵 높아져 승리 나홀로 정신 요구"
+  ],
+  [
+   "2026-10-22T11:32:16.385471+09:00",
+   "원클럽맨 문상철 ~KT 팬들의 못할 함성 평생 잊지 은퇴"
   ]
  ],
- "last_run": "2026-10-22T11:31:00.224187+09:00",
+ "last_run": "2026-10-22T11:32:36.524589+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
