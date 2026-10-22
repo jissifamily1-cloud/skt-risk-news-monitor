@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202610220041192148",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=617942",
-  "https://www.yna.co.kr/view/AKR20261021178600072?input=1195m",
-  "https://www.news2day.co.kr/article/20261021500352",
-  "https://www.newsis.com/view/NISX20261021_0003835693",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261021224135Bnh",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556234",
-  "https://www.newsis.com/view/NISX20261021_0003835696",
-  "https://www.edaily.co.kr/News/Read?newsId=06169686645615216&mediaCodeNo=257",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1187597",
-  "http://www.inews24.com/view/2017622",
   "https://www.hankyung.com/article/202610217132i",
   "https://www.seoul.co.kr/news/economy/industry/2026/10/22/20261022037001?wlog_tag3=naver",
   "https://www.kmib.co.kr/article/20261021502205",
@@ -2999,20 +2988,20 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=557554",
   "https://www.gamevu.co.kr/news/articleView.html?idxno=61650",
   "http://www.segyebiz.com/newsView/20261022521171?OutUrl=naver",
-  "https://www.ddaily.co.kr/page/view/2026102217123856457"
+  "https://www.ddaily.co.kr/page/view/2026102217123856457",
+  "https://isplus.com/article/view/isp202610220197",
+  "https://www.ajunews.com/view/20261022165842133",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42396",
+  "https://www.hellot.net/news/article.html?no=115736",
+  "https://www.newspim.com/news/view/20261022000016",
+  "https://www.hankyung.com/article/202610217168i",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193603",
+  "http://www.newstomato.com/ReadNews.aspx?no=1317718&inflow=N",
+  "https://www.newsis.com/view/NISX20261022_0003837431",
+  "https://www.newsis.com/view/NISX20261022_0003837350",
+  "https://www.ajunews.com/view/20261022170347160"
  ],
  "seen_titles": [
-  "'금융권해킹·레버리지ETF'공방안끝났다…오늘정무위종합감사",
-  "웹사이트해킹비상에유럽주요공공기관접속차단",
-  "PHP보안해킹위험터진유럽…현지공공기관웹사이트줄줄이선제차...",
-  "전세계웹사이트에해킹비상‥AI가치명적보안결함발견",
-  "웹사이트해킹비상에유럽주요공공기관접속차단(종합)",
-  "'세계웹사이트70%사용'PHP에서보안결함...각국해킹비상",
-  "[AI안전의역설]\"해킹잡으랬더니악성코드라고거부\"…방어팀발등...",
-  "\"세계웹사이트70%사용\"PHP서보안결함…각국해킹비상",
-  "[지금일본에선(947)]속수무책으로뚫리는해킹공격에일본기업들멘...",
-  "오늘공소청·금융위·방미통위국감…여야,李공소취소·레버리지ETF...",
-  "'이진숙제척'제동걸리자…與\"전면해제아냐\"·野\"엄중히수용하라\"",
   "[김종석의리포트]헌재,이진숙‘국감제척’가처분일부인용",
   "[오늘의주요일정]과기정통부·방미통위·개보위(10월22일목요일)",
   "\"작은기업인수해키우는게낫다\"…중소형거래로버틴M&A시장",
@@ -6001,13 +5990,20 @@
   "금융지주사2027년경영키워드는'내실'과'리스크관리'",
   "세가'스튜피드네버다이즈',개발진이밝힌펑크좀비의탄생비화",
   "SKT,수학난제연구로독파모고도화…서울대·KAIST와맞손",
-  "[PHP비상]통신3사\"특이사항없어\"…차단룰·긴급패치로선제대응"
+  "[PHP비상]통신3사\"특이사항없어\"…차단룰·긴급패치로선제대응",
+  "“제이름불러주셔서감사했다”KT문상철의마지막인사,“2군후배...",
+  "AI열풍속미래고등교육의새로운표준모색…\"AI는보조자일뿐,인간...",
+  "엣지AI연산최대180TOPS구현…게택,군사·재난·산업현장용러기드...",
+  "마우저,일렉트로니카2026서휴머노이드로보틱스시연과체험프로그...",
+  "[미국특징주]메타,3분기매출예상상회…AI투자확대속비의결권주...",
+  "'뮤즈'대박에도돈이말라간다…메타실적에월가긴장하는이유",
+  "KT,'모두의AI'앞세워생활플랫폼연결확대",
+  "구글인앱결제·개인정보삭제논란…방미통위종감서이용자보호도마",
+  "막아도다시뜨는누누티비·뉴토끼…구글\"본사에차단대책요청\"",
+  "\"48시간내삭제했다더니\"…구글,성범죄피해정보유출해명논란",
+  "X에서유해게시물반복…고광헌방미심위원장\"X,시정요구매우적어..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T11:24:15.205723+09:00",
-   "취약점 해킹도 뚫지 탐지 센티넬 소프트웨어 차단 못했다 탈레스"
-  ],
   [
    "2026-10-22T11:26:16.251056+09:00",
    "대표 IP 혁신 김호상 사업 ~KT ENA 콘텐츠"
@@ -6871,9 +6867,13 @@
   [
    "2026-10-22T17:22:26.513664+09:00",
    "없어 차단룰 대응 선제 특이사항 통신3사 긴급패치로"
+  ],
+  [
+   "2026-10-22T17:24:17.625665+09:00",
+   "매우 적어 고광헌 유해 게시물 X에서 방미심위원장 시정요구 반복"
   ]
  ],
- "last_run": "2026-10-22T17:22:47.567324+09:00",
+ "last_run": "2026-10-22T17:24:35.726126+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
