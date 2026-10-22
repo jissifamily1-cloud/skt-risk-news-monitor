@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.econovill.com/news/articleView.html?idxno=754332",
-  "https://www.kgnews.co.kr/news/article.html?no=916150",
-  "https://www.ccreview.co.kr/news/articleView.html?idxno=360538",
-  "https://www.etnews.com/20261021000430",
-  "https://www.abcn.kr/news/articleView.html?idxno=93403",
-  "https://www.cwn.kr/news/articleView.html?idxno=59894",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116345",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=202548",
-  "https://sports.donga.com/it/article/all/20261021/134881775/1",
   "https://www.gukjenews.com/news/articleView.html?idxno=3728341",
   "https://zdnet.co.kr/view/?no=20261021165240",
   "https://www.geconomy.co.kr/news/article.html?no=324665",
@@ -2999,18 +2990,18 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=281933",
   "https://www.joongang.co.kr/article/25471877",
   "https://www.jemin.com/news/articleView.html?idxno=845048",
-  "https://www.news1.kr/politics/assembly/6328344"
+  "https://www.news1.kr/politics/assembly/6328344",
+  "https://www.newsis.com/view/NISX20261022_0003836383",
+  "https://www.boannews.com/news/articleView.html?idxno=146632",
+  "http://www.beyondpost.co.kr/view.php?ud=20261022110136226937600e7ec7_30",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=395950",
+  "https://view.asiae.co.kr/article/2026102209100582595",
+  "http://www.inews24.com/view/2017657",
+  "https://view.asiae.co.kr/article/2026102211064594541",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=281922",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130257"
  ],
  "seen_titles": [
-  "김종석디에스엠대표“제조·피지컬AI기술역량으로새로운경험과...",
-  "어제는'폭락',오늘은'매수사이드카'…코스피3.29%올라",
-  "SKT-금감원,보이스피싱피해예방활동…스팸필터링시스템도개선",
-  "SKT,금감원과보이스피싱예방나선다…농구장체험부스부터스팸필...",
-  "인천섬하늘길에UAM…영종도~덕적도실증",
-  "제복이지킨하루,신뢰가지킬내일",
-  "인터엑스,삼성전자음성인식특허확보…독자AI언어모델기반Enterpr...",
-  "비엔엠컴퍼니,2년연속최다오픈데이터바탕PC방'2026하반기PC방...",
-  "비엔엠컴퍼니,2년연속최다오픈실적바탕으로'2026하반기PC방트...",
   "크래프톤,가성비갖춘AI언어모델'라온-1미니'오픈소스로풀어",
   "[게임레이더]넷마블·스마일게이트퓨처랩·크래프톤,서비스개편과...",
   "SKT·금감원,보이스피싱예방맞손",
@@ -6001,7 +5992,16 @@
   "테라뷰,AI반도체검사시장판도바꿀'테라헤르츠기술'…첨단패키징...",
   "러시아,미국중간선거개입의혹…우크라지지정치인표적",
   "엔비디아,반도체공급망대대적확장…삼성전기합류로AI생산기반강...",
-  "이진숙가처분인용에과방위또충돌…\"입틀막사과해야\"vs\"면죄부아..."
+  "이진숙가처분인용에과방위또충돌…\"입틀막사과해야\"vs\"면죄부아...",
+  "[교육소식]배재대,무료이용온라인평생교육플랫폼등",
+  "[PHP2Shell파장]키오스크화면눌렀더니시스템털렸다...웹의본체P...",
+  "엠에스벤터,‘2026IFS하반기창업산업박람회'참가...G95부스서고...",
+  "[미국주식]테오도르의월스트리트분석(10월22일)",
+  "[단독]국방부사이버공격5년간7.5만건…올해악성코드시도6배↑",
+  "LG이노텍,엔비디아와로봇용센싱솔루션개발…내년차세대기술공개",
+  "[포토]굳은표정의이진숙의원",
+  "발목잡기아닌'정교한셈법'…KT,신중론속K-OTT합병돌파구찾을까",
+  "5대은행장연말인사'해킹변수'...피해큰신한정상혁에쏠린눈"
  ],
  "recent_sigs": [
   [
@@ -6799,9 +6799,17 @@
   [
    "2026-10-22T11:06:15.226141+09:00",
    "이진숙 과방위 vs 충돌 가처분 입틀막 인용에 면죄부 사과해야"
+  ],
+  [
+   "2026-10-22T11:08:16.439412+09:00",
+   "잡기 아닌 셈법 발목 신중론 찾을까 정교한 돌파구 OTT ~KT 합병"
+  ],
+  [
+   "2026-10-22T11:08:16.439412+09:00",
+   "5대 은행장 정상혁에 연말 신한 피해 쏠린 변수 인사"
   ]
  ],
- "last_run": "2026-10-22T11:06:39.353111+09:00",
+ "last_run": "2026-10-22T11:08:37.906851+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
