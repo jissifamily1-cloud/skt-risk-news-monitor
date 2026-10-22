@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/internet-platform/6328513",
-  "https://www.edaily.co.kr/News/Read?newsId=03939286645615544&mediaCodeNo=257",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709135",
   "https://www.news2day.co.kr/article/20261022500110",
   "https://imnews.imbc.com/replay/2026/nw1200/article/6859901_36967.html",
@@ -2999,11 +2997,11 @@
   "https://www.safetimes.co.kr/news/articleView.html?idxno=246756",
   "https://www.ajunews.com/view/20261023065900904",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226624",
-  "https://www.etoday.co.kr/news/view/2639161"
+  "https://www.etoday.co.kr/news/view/2639161",
+  "https://www.g-enews.com/view.php?ud=2026102307014618612bd56fbc3c_1",
+  "https://biz.sbs.co.kr/article_hub/20000341690?division=NAVER"
  ],
  "seen_titles": [
-  "PHP보안비상···취약점2건패치공개,정부기업에조치요청",
-  "\"美정치판바뀔라\"…테슬라·스페이스X합병속도전",
   "LG이노텍,엔비디아와피지컬AI협력확대…차세대센싱솔루션개발",
   "연세대포털해킹…재학생·졸업생1만여명정보유출",
   "을지로맛집에뜬최태원…일행과맥주회동",
@@ -6001,7 +5999,9 @@
   "[오늘의주요일정·23일]오세훈'명태균여론조사대납의혹'사건2심...",
   "[뉴욕증시마감]AI투자부담우려에기술주급락…나스닥2.6%↓",
   "10월23일굿모닝MBN주요뉴스",
-  "미국10년물국채금리,한달만에5%밑으로⋯AIㆍ중동불안에국채로..."
+  "미국10년물국채금리,한달만에5%밑으로⋯AIㆍ중동불안에국채로...",
+  "AI데이터센터확장발목잡는케이블병목…신규생산라인증설에3년...",
+  "금융위원장\"솔리다임중복상장규제대상\"…단일종목레버리지ETF사..."
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,13 @@
   [
    "2026-10-23T07:04:17.996382+09:00",
    "보안 이어질까 과징금 확대 투자 당국 금융권"
+  ],
+  [
+   "2026-10-23T07:08:16.837298+09:00",
+   "대상 단일종목 상장 ETF 중복 솔리다임 규제 레버리지 금융위원장"
   ]
  ],
- "last_run": "2026-10-23T07:06:34.230481+09:00",
+ "last_run": "2026-10-23T07:08:38.088392+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
