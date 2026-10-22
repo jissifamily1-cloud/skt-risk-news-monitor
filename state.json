@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541307",
-  "http://www.wsobi.com/news/articleView.html?idxno=320127",
   "https://www.tokenpost.kr/news/ai/425622",
   "https://www.m-i.kr/news/articleView.html?idxno=2008831",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90767",
@@ -2999,11 +2997,11 @@
   "https://www.the-today.com/news/articleView.html?idxno=92230",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2308906",
   "https://www.ajunews.com/view/20261022194655647",
-  "https://www.ajunews.com/view/20261022173858330"
+  "https://www.ajunews.com/view/20261022173858330",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=746624",
+  "https://zdnet.co.kr/view/?no=20261022195109"
  ],
  "seen_titles": [
-  "쇼핑호스트·촬영감독돼볼까…KT알파쇼핑,초등생미디어투어",
-  "LG이노텍,엔비디아와손잡고로봇용센싱솔루션개발",
   "[더벨]콘칩,AI광고영상플랫폼'판도라AI'베타공개",
   "젠슨황\"유럽모든산업이AI기업돼야\"...자동차,금융,헬스케어거...",
   "젠슨황,조립해서가져오는AI데이터센터공개…“설치14일이면끝”",
@@ -6001,13 +5999,11 @@
   "中쉬안청구취안변환소,연례정전점검및정비작업개시",
   "전국법원전산망2시간장애풀려…\"해킹과무관\"",
   "전국법원전산망장애2시간여만에복구…\"PHP해킹과무관\"",
-  "방미통위종합감사…구글·X등온라인플랫폼불법정보도마위에"
+  "방미통위종합감사…구글·X등온라인플랫폼불법정보도마위에",
+  "대구FIX·ROBEX2026,해외성과2,100만달러…실제계약이행이관건",
+  "KT알파쇼핑,초등학생20여명초청…쇼핑호스트·촬영감독체험"
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T13:54:15.501884+09:00",
-   "출시 다음은 ETF 블랙록 테슬라 로봇 담은"
-  ],
   [
    "2026-10-22T13:56:17.760695+09:00",
    "클라우드서 손잡았다 GPT 구글과도 3대 제공"
@@ -6889,7 +6885,7 @@
    "온라인 불법정보 위에 구글 플랫폼 도마 종합감사"
   ]
  ],
- "last_run": "2026-10-22T19:52:36.821606+09:00",
+ "last_run": "2026-10-22T19:54:32.908320+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
