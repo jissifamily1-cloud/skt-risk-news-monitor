@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=281940",
-  "https://www.newspim.com/news/view/20261022000716",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=408597",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268022",
-  "https://www.yna.co.kr/view/PYH20261022109700013?input=1196m",
   "https://www.donga.com/news/Economy/article/all/20261022/134887343/2",
   "https://www.newsis.com/view/NISX20261022_0003836661",
   "http://www.yonhapnewstv.co.kr/news/MYH20261022115359Bua",
@@ -2999,14 +2994,14 @@
   "https://www.sportschosun.com/baseball/2026-10-23/202610230100146530009507",
   "https://www.news1.kr/it-science/security-hacking/6329034",
   "https://biz.sbs.co.kr/article_hub/20000341672?division=NAVER",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=48399"
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48399",
+  "https://biz.sbs.co.kr/article_hub/20000341673?division=NAVER",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283634",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193625",
+  "http://www.inews24.com/view/2018131",
+  "https://www.vegannews.co.kr/news/article.html?no=395767"
  ],
  "seen_titles": [
-  "SK텔레콤,AI에수학적사고력더한다…에이전트추론고도화",
-  "LG유플러스,'차세대통신고속도로'3배확장성공",
-  "여\"曺국조등차근차근\"…야\"李,나홀로정신승리\"",
-  "초등생3명중1명'낯선사람과채팅'…70%가사진·만남요구",
-  "세종금벽정서즐기는가을풍류…공연·체험·먹거리풍성",
   "창원주남저수지겨울철새선발대도착'재두루미·고니'첫관찰",
   "[AI트렌드]SKT,수학자들과'A.XK2'두뇌바꾼다",
   "젠슨황,유럽누비며엔비디아AI영토확장…'소버린AI'공략",
@@ -6001,7 +5996,12 @@
   "'이럴수가'KBO홀드왕내년에는못볼수도있다…日구단전격육성...",
   "로그인없이서버공격…'위험도9.2'PHP취약점,구형웹비상",
   "젠슨황\"2029년메모리공급과잉없다\"",
-  "엔비디아깐부된삼성전기,AI반도체기판시장공략가속"
+  "엔비디아깐부된삼성전기,AI반도체기판시장공략가속",
+  "앤트로픽,AI에이전트'클로드듀엣'공개…유료구독자대상",
+  "뉴욕증시,AI불안·국제유가급등에혼조...나스닥2.6%↓",
+  "[AI프리즘]노벨상수상'AI대부'힌턴교수\"AI와친구가돼야한다....",
+  "젠슨황\"메모리공급과잉우려?그렇게생각하지않아\"",
+  "LG이노텍,엔비디아기술적용로봇센싱공개"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,21 @@
   [
    "2026-10-23T06:28:16.745355+09:00",
    "기판 삼성전기 깐부된 공략 가속 반도체 시장"
+  ],
+  [
+   "2026-10-23T06:30:35.127259+09:00",
+   "친구가 교수 노벨상 대부 돼야 힌턴 수상 한다 AI와"
+  ],
+  [
+   "2026-10-23T06:30:35.127259+09:00",
+   "기술 LG이노텍 로봇 적용 센싱 공개"
+  ],
+  [
+   "2026-10-23T06:30:35.127259+09:00",
+   "공급과잉 그렇게 메모리 젠슨 우려 않아 생각하지"
   ]
  ],
- "last_run": "2026-10-23T06:28:34.631231+09:00",
+ "last_run": "2026-10-23T06:30:58.823856+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
