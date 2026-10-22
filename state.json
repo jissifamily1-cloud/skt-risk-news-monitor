@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3441871",
-  "https://www.hidomin.com/news/articleView.html?idxno=725912",
-  "https://www.aitimes.com/news/articleView.html?idxno=216476",
-  "https://news.tf.co.kr/read/national/2379143.htm",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=416587",
-  "https://www.nc.press/news/articleView.html?idxno=629139",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=93272",
   "https://www.thepublic.kr/news/articleView.html?idxno=323171",
   "https://www.gukjenews.com/news/articleView.html?idxno=3728373",
   "https://news.bizwatch.co.kr/article/mobile/2026/10/21/0036",
@@ -2999,16 +2992,16 @@
   "https://www.dizzotv.com/site/data/html_dir/2026/10/22/2026102280070.html",
   "https://www.dt.co.kr/article/12090600",
   "https://www.seoul.co.kr/news/economy/IT/2026/10/22/20261022500080?wlog_tag3=naver",
-  "https://news.tf.co.kr/read/life/2379377.htm"
+  "https://news.tf.co.kr/read/life/2379377.htm",
+  "https://www.huffingtonpost.kr/article/261427",
+  "https://www.segye.com/newsView/20261022510120?OutUrl=naver",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94508",
+  "https://www.dizzotv.com/site/data/html_dir/2026/10/22/2026102280072.html",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1304126",
+  "https://www.catchnews.kr/news/articleView.html?idxno=129634",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261022111740CVU"
  ],
  "seen_titles": [
-  "SK텔레콤정재헌'해킹전실적'회복전망,배당복원과1조9천억매각...",
-  "비엔엠컴퍼니,하반기PC방트렌드발표…프리미엄좌석·개인룸확대",
-  "AI데이터센터육성속도전…산업계\"규제완화·세액공제필요\"",
-  "\"6G통신망,3사공동구축해야\"…중대역광대역폭확보제안",
-  "영덕야성초,6학년대상어린이전파올원데이개최",
-  "아마존이어구글도자체칩생태계확장...'토치TPU'오픈소스공개",
-  "이지성전북도행정부지사,국가예산신규사업발굴진두지휘",
   "대전정보문화산업진흥원-유성구,AI·콘텐츠지역혁신'맞손'",
   "뮤직카우,5년연속정보보호국제표준인증…신뢰인프라'탄탄'",
   "SK텔레콤·금감원,보이스피싱예방캠페인-AI음성사기대응강화",
@@ -6001,7 +5994,14 @@
   "KT,양자테스트베드고도화착수...무선·위성기술검증",
   "KT텔레캅-플레이태그,CCTV로영유아행동분석하는서비스추진",
   "전세계웹사이트‘PHP보안비상’…‘AI초고속해킹’현실화됐다",
-  "연세대포털해킹…학생·직원1만명개인정보유출"
+  "연세대포털해킹…학생·직원1만명개인정보유출",
+  "SK텔레콤3분기'해킹전실적'회복전망,정재헌배당복원과1조9천억...",
+  "전세계웹사이트노린PHP취약점…정부,주요기업에긴급보안조치...",
+  "정부,PHP보안위협에기업3만곳대응요청…긴급패치지원",
+  "SKT,독자AI모델‘A.XK2’수학추론강화...난제해결도전",
+  "[특징주]삼성전기,엔비디아와파트너십구축소식에도'하락'",
+  "\"엔비디아를파트너로\"LG이노텍,로봇'눈·손'개발성큼",
+  "돈많아도세금은무서워…저커버그,이사계획무산된사연"
  ],
  "recent_sigs": [
   [
@@ -6827,9 +6827,13 @@
   [
    "2026-10-22T11:16:15.705472+09:00",
    "짚은 집은 열린 선구자가 도둑 보안 집과 다르다"
+  ],
+  [
+   "2026-10-22T11:20:27.020506+09:00",
+   "저커버그 세금은 무서워 사연 이사 무산된 많아도 계획"
   ]
  ],
- "last_run": "2026-10-22T11:18:34.090644+09:00",
+ "last_run": "2026-10-22T11:20:46.695177+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
