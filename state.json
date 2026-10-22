@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074535",
-  "https://www.ajunews.com/view/20261021194300554",
   "https://www.businesspost.co.kr/BP?command=article_view&num=449962",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7512",
   "https://www.tokenpost.kr/news/breaking/425578",
@@ -2999,11 +2997,11 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708839",
   "https://www.news1.kr/photos/8173460",
   "http://www.inews24.com/view/2017862",
-  "https://www.khgames.co.kr/news/articleView.html?idxno=309584"
+  "https://www.khgames.co.kr/news/articleView.html?idxno=309584",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54462",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107365"
  ],
  "seen_titles": [
-  "OpenAISaysCodingAgentsWeakenedInternalSafetyMonitoring",
-  "AnthropicLeavesGovernanceOpenin5%ShareFundPlanAheadofIPO",
   "헌재,이진숙국감제척효력일부정지…“포괄적제한안돼”",
   "헌재,이진숙국감제척제동…22일방미통위국감참석가능",
   "헌재,'이진숙제척'효력일부정지…野\"결정엄중히받아들여야\"",
@@ -6001,7 +5999,9 @@
   "샘알트먼이보는AI경쟁종착지…국제감시냐,선도기업독주냐",
   "[국감]국회과방위,방미통위종합감사",
   "[국감2026]\"휴대폰부숴버리고싶다\"…쿠팡'납치광고'에방미통위\"제...",
-  "엔비디아,신작게임에DLSS4.5지원확대"
+  "엔비디아,신작게임에DLSS4.5지원확대",
+  "어닝서프라이즈메타,잉여현금흐름은왜마이너스?",
+  "을지로에뜬'토니'최태원,벽허문소통법"
  ],
  "recent_sigs": [
   [
@@ -6803,9 +6803,13 @@
   [
    "2026-10-22T12:36:15.180740+09:00",
    "게임에 DLSS 지원 확대 신작"
+  ],
+  [
+   "2026-10-22T12:38:15.505000+09:00",
+   "을지로에 토니 소통법 허문"
   ]
  ],
- "last_run": "2026-10-22T12:36:37.315434+09:00",
+ "last_run": "2026-10-22T12:38:34.106574+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
