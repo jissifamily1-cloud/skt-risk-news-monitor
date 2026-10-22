@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=06484566645615216&mediaCodeNo=257",
-  "https://www.newspim.com/news/view/20261021001342",
-  "https://www.yeongnam.com/web/view.php?key=20261021022556054",
-  "https://www.hankyung.com/article/202610217181i",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=360999",
-  "https://www.segye.com/newsView/20261021518368?OutUrl=naver",
-  "https://www.cnet.co.kr/view/?no=20261021212727",
-  "https://www.cstimes.com/news/articleView.html?idxno=724825",
-  "https://www.inven.co.kr/webzine/news/?news=322404",
-  "https://zdnet.co.kr/view/?no=20261021223552",
-  "https://byline.network/?p=9004111222624211",
   "https://www.meconomynews.com/news/articleView.html?idxno=202798",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=53853",
   "https://www.nytimes.com/2026/10/21/technology/anthropic-ai-agent-claude-duet.html?partner=naver",
@@ -2999,20 +2988,20 @@
   "https://biz.chosun.com/it-science/ict/2026/10/22/UEHA6Q3IBBAHBNIW6LMU4C3VHQ/",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=875249",
   "https://www.m-i.kr/news/articleView.html?idxno=2009141",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209001"
+  "https://www.dailysecu.com/news/articleView.html?idxno=209001",
+  "https://www.xportsnews.com/article/2210271",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014765",
+  "https://isplus.com/article/view/isp202610220147",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3729591",
+  "http://www.dailypop.kr/news/articleView.html?idxno=103558",
+  "https://www.aitimes.com/news/articleView.html?idxno=216536",
+  "https://www.sedaily.com/article/20104873",
+  "https://www.etnews.com/20261022000358",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5030808",
+  "https://biz.chosun.com/it-science/ict/2026/10/22/65KMYHN3MZBSDERDCSUE3NRVVM/",
+  "https://www.hankyung.com/article/202610228608i"
  ],
  "seen_titles": [
-  "대전·세종·충청여성경제인들의연대와통찰,'여성CEO세바시'성황",
-  "삼성,첫클립형이어폰‘갤럭시버즈온’…착용편하고저음도잘...",
-  "[자정뉴스브리핑]이더리움ETF,10월올해최대순유출外",
-  "증시급락에AI거품론까지…IPO시장'빨간불',상장대기기업들초긴...",
-  "[문샷천재소년]\"중국떠나미국으로\"…문샷AI17세'천재소년',구글...",
-  "[GAM]데이터독①번스타인한분기만에매수로'유턴'",
-  "AI가찾아낸치명적보안구멍…전세계웹사이트70%'위협'",
-  "[GAM]데이터독②월가3분기실적앞두고목표가줄상향",
-  "“스스로생각하고판단하는공장”…대구경북제조업판바뀌나",
-  "\"AI버블터지든아니든,단기반등기회잡아야\"[박신영의개장전요것...",
-  "신한라이프,AI로고객불편사전파악…민원예방시스템도입",
   "[사이언스프리즘]인공지능시대의보안",
   "[리뷰]에디파이어콤포베이스프로:오픈형인데저음이이렇게강해도...",
   "인천시,공직자정책연구모임'혜윰8기'최종선정…실제시정반영착...",
@@ -6001,7 +5990,18 @@
   "MS“中연계해킹조직,AI보안도구악용해수백곳공격”",
   "딥엑스,ITS총회서NPU기술선봬",
   "[기획]삼성은3D적층·SK는대용량HBF…차세대AI반도체경쟁",
-  "오픈AI,구글클라우드와손잡고AI모델공급채널다변화"
+  "오픈AI,구글클라우드와손잡고AI모델공급채널다변화",
+  "[오피셜]'현역마지막타석이홈런'2군통산HR1위문상철,13년프로...",
+  "SSG방출생도,LG에방출요청투수도,KT서칼바람맞았다…선수10명재...",
+  "정규시즌우승팀도칼바람…KT,최동환·조이현등10명과결별",
+  "대전시청화재가정해2천명대피…옥상·승강기고립자구조훈련",
+  "쿠팡으로쏠리는장바구니…이커머스,'여기서만살이유'만든다",
+  "세계최대월마트도AI에이전트쇼핑본격화…전용플랫폼까지공개",
+  "테슬라·스페이스X합병추진에서학개미양도세비상[마켓무버]",
+  "“中딥시크,20조원투자유치막바지…CATL·텐센트'큰손'참여”",
+  "언차일드,11월5일컴백...대세입지굳힌다",
+  "SK텔레콤,서울대·KAIST연구진과수학난제도전…독자AI추론강화",
+  "[단독]\"파는데로다사겠다\"미국의수상한책주문이지방까지밀려..."
  ],
  "recent_sigs": [
   [
@@ -6739,9 +6739,13 @@
   [
    "2026-10-22T15:14:15.822472+09:00",
    "MS 공격 악용해 보안 해킹조직 도구 연계 수백"
+  ],
+  [
+   "2026-10-22T15:18:14.958641+09:00",
+   "데로 주문이 밀려 사겠다 수상한 미국의 파는 지방까지"
   ]
  ],
- "last_run": "2026-10-22T15:16:30.702688+09:00",
+ "last_run": "2026-10-22T15:18:34.145794+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
