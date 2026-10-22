@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728776",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728785",
-  "http://www.incheonnews.com/news/articleView.html?idxno=442048",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556237",
-  "http://www.osen.co.kr/article/G1112896478",
-  "https://www.mt.co.kr/industry/2026/10/22/2026102114553022762",
-  "https://www.news1.kr/it-science/internet-platform/6327659",
   "https://www.chosun.com/international/international_general/2026/10/22/Q4P3OSCO6BDBLEO7VYKYOHFVC4/",
   "https://www.joongang.co.kr/article/25471800",
   "https://www.hankookilbo.com/news/article/A2026101822540005458?did=NA",
@@ -2999,16 +2992,16 @@
   "http://www.newslock.co.kr/news/articleView.html?idxno=138453",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592867158030",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=323242",
-  "https://www.dailian.co.kr/news/view/1704817/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1704817/?sc=Naver",
+  "http://www.osen.co.kr/article/G1112896727",
+  "https://www.newsis.com/view/NISX20261022_0003836409",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209000",
+  "https://www.etnews.com/20261022000344",
+  "https://www.etoday.co.kr/news/view/2638998",
+  "https://www.newspim.com/news/view/20261022000926",
+  "https://www.boannews.com/news/articleView.html?idxno=146645"
  ],
  "seen_titles": [
-  "[단독]베트남서국내항공사여행기록2480만건노출…정부,유출여부...",
-  "EU의회,스페이스X유럽통신시장장악경고…규제강화추진",
-  "체리자동차,미국완성차업체와파트너십가능성열어놓아",
-  "프랑스국채스프레드150bp돌파…재정적자GDP6.4%가능성",
-  "[GAM]'M7수익률1위'애플①\"이제쉬어갈때\"…월가,신고가랠리에...",
-  "강남빌딩2곳방화70대,범행전특정인찾아…19명부상",
-  "최민희의원,국감서체육현장부당행위·피해자억울함지적",
   "이연복\"눈물없이볼수없는영화\"…김혜자연기에극찬",
   "인천지하철,5G무료와이파이구축…통신속도3배빨라졌다",
   "[김종석의리포트]“사람죽인다”일주일전섬뜩한예고",
@@ -6001,13 +5994,16 @@
   "[2026국감이슈]금융권보안인력수년째9%대…우리은행·케이뱅크는...",
   "KT텔레캅,플레이태그와AI영상분석기반케어서비스개발",
   "대전서대구·광주·부산·춘천까지…KT,개방형양자테스트베드전국...",
-  "[2026국감]김종철“해킹피해보상미흡하면방미통위개입”"
+  "[2026국감]김종철“해킹피해보상미흡하면방미통위개입”",
+  "'연애박사'추영우,냉철한공학도뒤에숨겨진뜨거움…서툴러서더...",
+  "\"다른인터넷쓰려면돈두번내라니\"…원룸세입자의비애",
+  "위드네트웍스,서비스·SBOM·API연계한'취약점조합상관분석'제시",
+  "AICA,'AITECH세미나'개최…광주국가AI데이터센터고도화모색",
+  "AI가짚어낸‘웹의아킬레스건’⋯세계곳곳,사이트긴급셧다운[PHP...",
+  "\"기받으러가자\"\"SK최태원,'힙지로야장'에서직원들과회동",
+  "KT텔레캅,플레이태그와AI안심·케어서비스확대...어린이집부터반..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T09:10:24.530194+09:00",
-   "광고주 광고 확대 10만곳 사업 챗GPT 돌파"
-  ],
   [
    "2026-10-22T09:14:15.620995+09:00",
    "하이닉스 과실은 AI컴퍼니 5조 누구 견딘 적자"
@@ -6757,7 +6753,7 @@
    "김종철 보상 개입 미흡하면 피해"
   ]
  ],
- "last_run": "2026-10-22T15:08:34.032770+09:00",
+ "last_run": "2026-10-22T15:10:44.961604+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
