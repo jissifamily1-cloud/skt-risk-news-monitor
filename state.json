@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kyeonggi.com/article/20261021580606",
-  "https://www.viva100.com/article/20261021501484",
-  "https://www.chosun.com/economy/tech_it/2026/10/22/KZO2MDWKCVCBLL2BVZOMI2UL2I/",
-  "https://www.dailian.co.kr/news/view/1704362/?sc=Naver",
   "https://www.gukjenews.com/news/articleView.html?idxno=3728631",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=55561",
   "https://www.etnews.com/20261021000453",
@@ -2999,13 +2995,13 @@
   "https://www.dt.co.kr/article/12090644",
   "https://www.bloter.net/news/articleView.html?idxno=676402",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709139",
-  "https://www.news1.kr/it-science/cc-newmedia/6328441"
+  "https://www.news1.kr/it-science/cc-newmedia/6328441",
+  "https://www.naeil.com/news/read/606033",
+  "https://www.naeil.com/news/read/606040",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875114",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318597"
  ],
  "seen_titles": [
-  "삼성전기,엔비디아와반도체기판파트너십…내년부터장기공급",
-  "박수현지사,상급종합병원추가지정촉구서명운동동참",
-  "CJ,티빙유출보상포함그룹지원검토…개보위원장\"후속대응면밀...",
-  "세계적재즈거장들제주함덕고찾는다…마스터클래스·공연",
   "삼성전기,엔비디아에손잡았다...AI반도체기판공급확대",
   "삼성전기,엔비디아와반도체패키지기판생산협력",
   "삼성전기,엔비디아와반도체기판파트너십...세종·부산에전용라인...",
@@ -6001,7 +5997,11 @@
   "[THEFINANCE]거품론에도쏟아지는AIETF…뭘골라야할까",
   "KT클라우드,50MW안산AIDC착공…수도권AI인프라확대",
   "레드햇,엔비디아와에이전틱AI보안역량강화협력",
-  "고민수'YTN청문절차위증'고발예고…김종철\"의결절차문제없어\""
+  "고민수'YTN청문절차위증'고발예고…김종철\"의결절차문제없어\"",
+  "인공지능이PHP보안취약점찾았다",
+  "LG이노텍,로봇용센서사업속도낸다",
+  "\"비밀번호없이서버장악\"…PHP취약점에사이버'주의'발령",
+  "\"발언끼어들거면나가라\"위원장경고까지나온과방위"
  ],
  "recent_sigs": [
   [
@@ -6783,9 +6783,13 @@
   [
    "2026-10-22T12:58:14.446965+09:00",
    "역량 수학자들 최고 AI독파모 추론 국내 손잡고 ~SKT"
+  ],
+  [
+   "2026-10-22T13:06:15.716756+09:00",
+   "경고까지 위원장 나온 나가라 과방위 발언 끼어들거면"
   ]
  ],
- "last_run": "2026-10-22T13:04:36.122657+09:00",
+ "last_run": "2026-10-22T13:06:39.351535+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
