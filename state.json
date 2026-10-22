@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kgnews.co.kr/news/article.html?no=916235",
-  "https://www.youthdaily.co.kr/news/article.html?no=228708",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3729357",
-  "http://www.seouland.com/arti/society/society_general/24625.html",
-  "https://www.widedaily.com/news/articleView.html?idxno=302231",
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44702",
-  "https://www.seoultimes.news/news/article.html?no=2000101237",
   "https://www.tokenpost.kr/news/ai/425769",
   "https://www.news1.kr/it-science/cc-newmedia/6328517",
   "http://www.inews24.com/view/2017884",
@@ -2999,16 +2992,16 @@
   "https://www.yna.co.kr/view/AKR20261023017400011?input=1195m",
   "https://www.yna.co.kr/view/AKR20261023017200011?input=1195m",
   "https://zdnet.co.kr/view/?no=20261022155356",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811153&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008811153&plink=ORI&cooper=NAVER",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/23/2026102300029.html",
+  "https://www.kbmaeil.com/article/20261023500044",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075070",
+  "https://www.newsis.com/view/NISX20261021_0003835804",
+  "https://news.dealsitetv.com/articles/177304",
+  "https://www.seoultimes.news/news/article.html?no=2000101045",
+  "https://dealsite.co.kr/articles/171011"
  ],
  "seen_titles": [
-  "[경제읽기]코스피,차익실현매물에하락출발…기준금리동결",
-  "[속보]“김정은사망했다”소문에北인터넷,대규모접속장애…무슨...",
-  "이서연경기남부청연구사\"수사현장어려움,AI로덜어드립니다\"",
-  "못쓰는국비도이름바꾸면OK?…산단공의황당한예산관리",
-  "경기상상캠퍼스10년,예술로생태를다시쓰다",
-  "국내서버11만대'PHP2Shell'경보…원격명령실행'빨간불'",
-  "전북특별자치도,성장전략세미나개최…전문가제언청취",
   "[서울&]관악S밸리입주2개사,AX부문수상",
   "LG이노텍,엔비디아와로봇센싱'맞손'…내년차세대솔루션공개",
   "국회국감종합감사돌입…공소취소·레버리지ETF·대미투자놓고여야...",
@@ -6001,7 +5994,14 @@
   "[전국주요신문사설](23일조간)",
   "[전국주요신문톱뉴스](23일조간)",
   "퀄컴이닦은길에엔비디아진입...Arm윈도PC경쟁본격화",
-  "[글로벌마켓시황]투자심리위축…미국채금리큰폭↓"
+  "[글로벌마켓시황]투자심리위축…미국채금리큰폭↓",
+  "[속보]'메타韓쇼크'에韓'검은금요일'…나스닥2.6%급락,삼전닉...",
+  "청와대김태원비서관161억…퇴직자1위는2759억이세웅",
+  "[뉴욕증시]AI투자부담커지자반도체주급락…나스닥2.6%↓·다우강...",
+  "CJ,티빙유출보상포함그룹지원검토…개보위원장\"후속대응면밀...",
+  "[삼성家상속]이재용,1.5조증여세납부…연부연납·배당전략유력",
+  "[뉴스앤데이터]<종합>통신3사독립이사16명중여성4명…이사회의...",
+  "금융권해킹'일벌백계'예고…롯데카드제재심'바로미터'되나"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,21 @@
   [
    "2026-10-23T08:00:43.153216+09:00",
    "1개월 급증 아래 국채 금리 수요 안전자산 만에"
+  ],
+  [
+   "2026-10-23T08:04:17.172067+09:00",
+   "독립이사 16명 통신 4명 3사 이사회 여성"
+  ],
+  [
+   "2026-10-23T08:04:17.172067+09:00",
+   "배당 전략 유력 이재용 증여세 납부 5조 연부연납"
+  ],
+  [
+   "2026-10-23T08:04:17.172067+09:00",
+   "되나 바로미터 금융권 롯데카드 예고 제재심 일벌백계"
   ]
  ],
- "last_run": "2026-10-23T08:02:34.193241+09:00",
+ "last_run": "2026-10-23T08:04:42.706244+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
