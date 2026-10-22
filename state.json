@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=42385",
-  "https://zdnet.co.kr/view/?no=20261022084054",
-  "http://www.press9.kr/news/articleView.html?idxno=84661",
   "https://www.koit.co.kr/news/articleView.html?idxno=209588",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54461",
   "http://www.kjdaily.com/article.php?aid=1792626888689920276",
@@ -2999,12 +2996,12 @@
   "http://www.joseilbo.com/news/news_read.php?uid=577982&class=33",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90826",
   "https://www.munhwa.com/article/11625557",
-  "https://www.mydaily.co.kr/page/view/2026102221500272036"
+  "https://www.mydaily.co.kr/page/view/2026102221500272036",
+  "https://www.betanews.net/article/view/beta202610210083",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16255367",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556432"
  ],
  "seen_titles": [
-  "SKT국가별로밍직접차단기술공개",
-  "오픈AI·구글클라우드,맞손…기업용AI모델선택지확대",
-  "오픈AI모델이구글클라우드모델가든에입점…코덱스에이전트기능...",
   "구글클라우드가오픈AI모델을품어\"주요폐쇄형LLM3종한곳에서쓴...",
   "엔비디아AI로성능8배증가…LG전자베어로보틱스'키노-2'공개",
   "델테크놀로지스·엔비디아,데스크톱부터데이터센터까지에이전틱AI...",
@@ -6001,21 +5998,12 @@
   "전국법원전산망2시간장애후복구…원인조사중",
   "구글-오픈AI제휴,구글클라우드에서'GPT-6Astra'등오픈AIAI모델제...",
   "‘박찬호가격려하고,KT와실전점검’…U-23야구대표팀,세계선수권...",
-  "'홀드왕다음시즌일본에서?'한국시리즈준비중KT스키모토,NPB소프..."
+  "'홀드왕다음시즌일본에서?'한국시리즈준비중KT스키모토,NPB소프...",
+  "SKT,러너체험공간‘런메이트캠프’열어",
+  "미국증시전망,나스닥선물급락…AI투자불안·유가급등",
+  "[김종석의샷]‘힙지로야장’간최태원…“여기계실때냐”"
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T15:56:16.594254+09:00",
-   "생활 한국 시리 경쟁 밀착 본격화 국내 상륙에 모두의 애플"
-  ],
-  [
-   "2026-10-22T15:56:16.594254+09:00",
-   "메타 공개 클로드 듀엣 알아서 앤트로픽"
-  ],
-  [
-   "2026-10-22T15:56:16.594254+09:00",
-   "따로 빅테크 코스피 호재에도 노는 증시와 시큰둥"
-  ],
   [
    "2026-10-22T16:00:41.731915+09:00",
    "행보 지속 소통 직원들과 힙지로 회식"
@@ -6653,7 +6641,7 @@
    "구글 AI모델 Astra GPT 클라우드에서 제휴"
   ]
  ],
- "last_run": "2026-10-22T21:54:34.334728+09:00",
+ "last_run": "2026-10-22T21:56:33.354604+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
