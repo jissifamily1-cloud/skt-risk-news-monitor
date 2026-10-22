@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220022&t=NN",
-  "https://www.betanews.net/article/view/beta202610210083",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079639",
   "https://www.ajunews.com/view/20261022084434911",
   "https://www.econovill.com/news/articleView.html?idxno=754484",
@@ -2999,11 +2997,11 @@
   "https://www.dongponews.net/news/articleView.html?idxno=61226",
   "https://www.yna.co.kr/view/AKR20261022194051007?input=1195m",
   "https://biz.heraldcorp.com/article/10911805",
-  "https://www.woodkorea.co.kr/news/articleView.html?idxno=92060"
+  "https://www.woodkorea.co.kr/news/articleView.html?idxno=92060",
+  "https://www.ulsanpress.net/news/articleView.html?idxno=585272",
+  "https://www.yna.co.kr/view/AKR20261022195200017?input=1195m"
  ],
  "seen_titles": [
-  "KT,개방형양자테스트베드본격화…전국단위양자인프라확대",
-  "FIX2026개막…AI·로봇기술,시민일상속으로",
   "살던아파트에서노후돌봄까지…삼성물산·삼성노블라이프맞손",
   "SKT,원치않는국가서로밍차단하는'T로밍안심국가'출시",
   "오픈AI,신약개발AI플랫폼인수",
@@ -6001,17 +5999,11 @@
   "이용자동의없이강제이동하는'납치광고'...정부,쿠팡에칼빼들다",
   "마레이34리바운드로KBL새역사…프로농구LG,3연패탈출(종합)",
   "“나오자마자뜻밖의‘대박’터졌다”전국민‘우르르’난리더니...",
-  "\"점자키링부터자개공예까지\"…대구서펼쳐지는장애청소년'미술점..."
+  "\"점자키링부터자개공예까지\"…대구서펼쳐지는장애청소년'미술점...",
+  "울산,전국체전마지막날축구종합우승'유종의미'",
+  "시미재이사장\"미디어진흥원,너무다른기관통합…우려\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T15:44:15.935607+09:00",
-   "대통령이 지목한 부족 투명성 주가하락 원인 끝판왕은"
-  ],
-  [
-   "2026-10-22T15:44:15.935607+09:00",
-   "참여 심의에 적절한가 YTN 김종철 이진숙 책임질"
-  ],
   [
    "2026-10-22T15:46:16.671299+09:00",
    "Microsoft 엔데버 Deloitte ~KT 올해 기업행사 수행 Zoom 잇따라"
@@ -6683,9 +6675,13 @@
   [
    "2026-10-22T21:40:27.627036+09:00",
    "이용자 납치광고 빼들다 이동하는 강제 동의없이 정부 쿠팡에"
+  ],
+  [
+   "2026-10-22T21:44:17.029997+09:00",
+   "기관 너무 우려 시미재 미디어진흥원 통합 다른 이사장"
   ]
  ],
- "last_run": "2026-10-22T21:42:33.707127+09:00",
+ "last_run": "2026-10-22T21:44:35.865117+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
