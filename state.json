@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3728498",
-  "https://www.fnnews.com/news/202610211704478965",
-  "https://www.kbmaeil.com/article/20261021500749",
-  "https://www.insight.co.kr/news/578670",
-  "https://www.newspim.com/news/view/20261021001282",
-  "https://www.donga.com/news/Society/article/all/20261021/134885524/2",
   "https://www.pressian.com/pages/articles/2026102117080178834",
   "https://www.gukjenews.com/news/articleView.html?idxno=3728503",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=319398",
@@ -2999,15 +2993,15 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16254720",
   "https://www.munhwa.com/article/11625447",
   "https://zdnet.co.kr/view/?no=20261022121041",
-  "https://mhnse.com/news/articleView.html?idxno=1607107"
+  "https://mhnse.com/news/articleView.html?idxno=1607107",
+  "https://www.donga.com/news/Economy/article/all/20261022/134888635/1",
+  "https://www.dkilbo.com/news/articleView.html?idxno=558067",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610220080&t=NN",
+  "http://www.iminju.net/news/articleView.html?idxno=171247",
+  "https://www.vegannews.co.kr/news/article.html?no=395523",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4440569"
  ],
  "seen_titles": [
-  "[칼럼]한국은AI3대강국인가,해커들의3대놀이터인가",
-  "'김도영최다홈런피해자'삼성은떨고있다,'한국시리즈선착'KT는?\"...",
-  "인천지하철국내첫‘5G와이파이’…고화질영상도끊김없어[영상...",
-  "충남교육청,위기학교지원정례회…'창구단일화'추진",
-  "'저신용자대출'서금원,하루63.5만건해킹공격받아...\"불법대부업...",
-  "이진숙국감참석길열렸다…헌재“본인관련사안은발언제한”",
   "내러닝자세,AI로점검...SKT,성수에'런메이트캠프'",
   "헌재,이진숙'방미통위국감제척'효력일부정지",
   "[속보]이진숙,22일부터국감참여한다…헌재,가처분일부인용",
@@ -6001,7 +5995,13 @@
   "연세대학교,학생개인정보유출피해발생…1만~1만5천명규모",
   "AI,인간이놓친웹사이트결함발견…전세계해킹비상",
   "쿠팡‘납치광고’제재임박…방미통위\"심의·의결단계”",
-  "[오피셜]9회가끝나면더생각날이름…KT문상철,‘10회의한방’을..."
+  "[오피셜]9회가끝나면더생각날이름…KT문상철,‘10회의한방’을...",
+  "“삼전닉스처럼‘영업익N%’성과급달라”…마이크론대만공장24시...",
+  "PHP보안비상···취약점2건패치공개,정부기업에조치요청",
+  "\"美정치판바뀔라\"…테슬라·스페이스X합병속도전",
+  "LG이노텍,엔비디아와피지컬AI협력확대…차세대센싱솔루션개발",
+  "연세대포털해킹…재학생·졸업생1만여명정보유출",
+  "을지로맛집에뜬최태원…일행과맥주회동"
  ],
  "recent_sigs": [
   [
@@ -6795,9 +6795,13 @@
   [
    "2026-10-22T12:12:16.440984+09:00",
    "의결 단계 심의 쿠팡 제재 임박 납치광고"
+  ],
+  [
+   "2026-10-22T12:16:15.748358+09:00",
+   "맥주 회동 을지로 일행과 맛집에"
   ]
  ],
- "last_run": "2026-10-22T12:14:31.215402+09:00",
+ "last_run": "2026-10-22T12:16:38.091963+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
