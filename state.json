@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=189644",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=916028",
-  "https://vop.co.kr/A00001697247.html",
-  "http://news.lghellovision.net/news/articleView.html?idxno=559159",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=49905",
-  "https://www.tokenpost.kr/news/breaking/425385",
-  "https://www.hellot.net/news/article.html?no=115676",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88755",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065585102375802",
-  "https://www.wikitree.co.kr/articles/1167994",
   "https://www.sedaily.com/article/20104264",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8691309",
   "https://www.sedaily.com/article/20104266",
@@ -2999,19 +2989,19 @@
   "https://www.koit.co.kr/news/articleView.html?idxno=209603",
   "https://www.ziksir.com/news/articleView.html?idxno=150300",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=666726",
-  "https://www.youthdaily.co.kr/news/article.html?no=228689"
+  "https://www.youthdaily.co.kr/news/article.html?no=228689",
+  "https://www.sedaily.com/article/20103531",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3728916",
+  "https://www.edaily.co.kr/News/Read?newsId=02915926645615544&mediaCodeNo=257",
+  "https://www.news1.kr/photos/8171124",
+  "https://hbnpress.com/news/view/1065570600379196",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1417285",
+  "https://www.m-economynews.com/news/article.html?no=71963",
+  "https://www.newsis.com/view/NISX20261022_0003836087",
+  "https://www.edaily.co.kr/News/Read?newsId=02906086645615544&mediaCodeNo=257",
+  "https://www.newsis.com/view/NISX20261022_0003836081"
  ],
  "seen_titles": [
-  "[로빈후드온체인]스페이스X온체인가격이정규장종가보다9.5%높게...",
-  "﻿해킹피해보상,신한·하나,피해고객전원VIP우대…현금보상은...",
-  "'의성제트스키선발전'개최…태국월드컵출전권다퉈",
-  "SKT,성수동에러닝체험공간'런메이트캠프'운영",
-  "KT충남지사-못생긴뚱돼지,'소상공인디지털전환'업무협약체결",
-  "급성장‘다크팩토리’시장공략나선KT로봇에‘AI두뇌’제공",
-  "인천시\"영종~덕적도심항공교통실증성공\"",
-  "[Series–TheRestructuringoftheInternet]WhyAreSearchEnginesSho",
-  "엔비디아GTC앞두고고래2곳,대형포지션축소",
-  "[산업AIEXPO프리뷰]제조AI㉙|8시간걸리던설계도면,2분만에?.....",
   "AI경쟁,조선소와제철소로...한국기회와과제는",
   "대한항공,인천섬하늘길서UAM실증성공…‘하늘택시’상용화속도",
   "‘크래시2’지성·천러‘천지콤비’첫듀엣OST,방송3주전먼저나...",
@@ -6001,7 +5991,17 @@
   "통신사유출유심886만명여전히사용…157만명은보호조치도없어",
   "LG이노텍·엔비디아,피지컬AI센싱솔루션개발맞손",
   "韓銀,'매파적동결'무게…11월인상신호주목",
-  "금융권해킹위협커지는데…CISO4명중1명은'겸임'"
+  "금융권해킹위협커지는데…CISO4명중1명은'겸임'",
+  "“그걸누가사”했는데359만원→450만원...“비싸다”혹평받던아이...",
+  "순천만야생조류분변서고병원성AI검출…방역강화",
+  "한화자산운용,국내기관4곳과美우주기업'임펄스스페이스'투자",
+  "[국감]송경희개보위원장,종합감사답변",
+  "LG유플러스·에릭슨,장거리프론트홀검증...\"기지국연결거리최대3배...",
+  "KT,양자암호통신테스트베드전국규모확대…미래기술본격실증",
+  "PHP서치명적보안취약점발견...전세계해킹비상·유럽정부사이트...",
+  "AI에수학자전문지식심는다…SKT,서울대·카이스트와'A.XK2'고도화",
+  "구글클라우드,오픈AI모델품는다…기업용AI선택지확대",
+  "오픈AI'GPT',구글클라우드에입점…코덱스도제공"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-10-22T09:06:16.214623+09:00",
    "4명 위협 1명은 금융권 겸임 커지는데 CISO"
+  ],
+  [
+   "2026-10-22T09:08:15.761893+09:00",
+   "전문지식 카이스트와 서울대 ~SKT K2 AI에 심는다 수학자 고도화"
   ]
  ],
- "last_run": "2026-10-22T09:06:45.937390+09:00",
+ "last_run": "2026-10-22T09:08:33.525206+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
