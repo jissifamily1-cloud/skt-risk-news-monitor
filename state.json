@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2378905.htm",
-  "https://www.mediawatch.kr/news/article.html?no=261429",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=798894",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=798882",
-  "https://www.sedaily.com/article/20103531",
-  "https://www.tokenpost.kr/news/blockchain/425379",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=619979",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=366527",
   "http://www.kdfnews.com/news/articleView.html?idxno=189644",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=916028",
   "https://vop.co.kr/A00001697247.html",
@@ -2999,17 +2991,17 @@
   "https://www.fnnews.com/news/202610201518001826",
   "https://view.asiae.co.kr/article/2026102112124146935",
   "https://www.newsis.com/view/NISX20261022_0003836038",
-  "https://www.ajunews.com/view/20261022082219805"
+  "https://www.ajunews.com/view/20261022082219805",
+  "https://www.newsis.com/view/NISX20261022_0003836047",
+  "http://www.aptn.co.kr/news/articleView.html?idxno=113071",
+  "https://www.joongangenews.com/news/articleView.html?idxno=557222",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3728920",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209603",
+  "https://www.ziksir.com/news/articleView.html?idxno=150300",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=666726",
+  "https://www.youthdaily.co.kr/news/article.html?no=228689"
  ],
  "seen_titles": [
-  "[국감]송경희개보위원장,종합감사답변",
-  "“네가정말잘돼서내자랑이됐으면좋겠다”방출된친구의한마디에...",
-  "인천,영종~덕적UAM실증성공…도서지역공공교통활용가능성확인",
-  "대한항공,국내최초지자체연계UAM실증비행성공",
-  "삼전67만·닉스470만전망…노무라“AI회의론과도,메모리수급난...",
-  "[위클리오늘]이동통신소식_KT,LG유플러스(10.21)",
-  "[위클리오늘]SK텔레콤소식(10.21)",
-  "“그걸누가사”했는데359만원→450만원...“비싸다”혹평받던아이...",
   "[로빈후드온체인]스페이스X온체인가격이정규장종가보다9.5%높게...",
   "﻿해킹피해보상,신한·하나,피해고객전원VIP우대…현금보상은...",
   "'의성제트스키선발전'개최…태국월드컵출전권다퉈",
@@ -6001,7 +5993,15 @@
   "올트먼오픈AICEO,'IAEA식AI감독기구만들자'",
   "올상반기손순실커졌지만…앤스로픽1천兆인프라투자(종합)",
   "\"원치않는국가로밍이용사전차단\"…SKT,'T로밍안심국가'출시",
-  "LG유플러스,에릭슨과기지국장비간연결거리3배늘린다"
+  "LG유플러스,에릭슨과기지국장비간연결거리3배늘린다",
+  "9시//\"기지국3배멀어져도통신된다\"…LGU+,에릭슨과차세대기술검...",
+  "\"우리아파트에불이난다면?\"의왕시,재난대응합동훈련",
+  "전세계웹사이트보안비상…AI가발견한PHP치명적취약점에긴급대...",
+  "\"스페이스X·테슬라주가폭등\"…뉴욕증시실적호조에나스닥1.1%상승",
+  "통신사유출유심886만명여전히사용…157만명은보호조치도없어",
+  "LG이노텍·엔비디아,피지컬AI센싱솔루션개발맞손",
+  "韓銀,'매파적동결'무게…11월인상신호주목",
+  "금융권해킹위협커지는데…CISO4명중1명은'겸임'"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,21 @@
   [
    "2026-10-22T09:02:15.558392+09:00",
    "제공 구글클라우드에 안티그래비티 가능 등에서 사용 모델"
+  ],
+  [
+   "2026-10-22T09:06:16.214623+09:00",
+   "인상 11월 주목 동결 신호 매파적 무게"
+  ],
+  [
+   "2026-10-22T09:06:16.214623+09:00",
+   "886만명 157만명은 유심 여전히 사용 없어 보호조치도 유출"
+  ],
+  [
+   "2026-10-22T09:06:16.214623+09:00",
+   "4명 위협 1명은 금융권 겸임 커지는데 CISO"
   ]
  ],
- "last_run": "2026-10-22T09:04:32.074455+09:00",
+ "last_run": "2026-10-22T09:06:45.937390+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
