@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25471770",
-  "https://biz.sbs.co.kr/article_hub/20000341396?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000341393?division=NAVER",
-  "https://www.kmib.co.kr/article/20261021502199",
-  "https://www.kmib.co.kr/article/20261021502503",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2343572",
-  "https://www.newscj.com/news/articleView.html?idxno=3442177",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601377",
-  "http://www.newsprime.co.kr/news/article.html?no=751907",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601375",
   "https://www.imaeil.com/page/view/2026102122341147476",
   "http://www.4th.kr/news/articleView.html?idxno=2120182",
@@ -2999,18 +2990,18 @@
   "https://www.mk.co.kr/article/12183084",
   "https://www.yna.co.kr/view/PYH20261022227800013?input=1196m",
   "https://www.news1.kr/it-science/internet-platform/6328985",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307798"
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307798",
+  "https://www.seoulfn.com/news/articleView.html?idxno=640775",
+  "https://www.news2day.co.kr/article/20261021500243",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90368",
+  "https://www.mt.co.kr/society/2026/10/22/2026102216494643670",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=799081",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=282063",
+  "https://www.newsis.com/view/NISX20261022_0003837339",
+  "https://www.ppss.kr/news/articleView.html?idxno=316888",
+  "https://www.sedaily.com/article/20104871"
  ],
  "seen_titles": [
-  "AI로찾은PHP취약점,해킹에악용될라…전세계웹사이트보안비상",
-  "전세계웹사이트‘해킹비상’…AI가치명적보안결함찾았다",
-  "전세계웹사이트에해킹비상…AI가치명적보안결함발견(종합)",
-  "구글클라우드,오픈AI모델도제공…\"제미나이·클로드·GPT한곳에\"",
-  "[박래혁의테크오딧세이]AI속도조절론의역설…앤트로픽,최대7500억달...",
-  "암호화폐,AI해킹공포확산...\"비트코인(BTC)3분의1이노출상태\"",
-  "[취재일기]책마구가져가는AI빅테크,한국은호구로남을건가",
-  "[글로벌비즈브리핑]엔비디아,데이터센터건설혁신…구축기간6개월...",
-  "엔비디아,데이터센터건설혁신…구축기간6개월에서14일로",
   "美수출통제피해…中빅테크,엔비디아GPU46조원어치주문",
   "삼성전기,엔비디아파트너십합류…AI반도체기판장기공급",
   "삼성전기·엔비디아,AI반도체기판공동투자…올해부터장기공급",
@@ -6001,13 +5992,18 @@
   "칩값폭등·AI해킹에…무너지는콘솔시장",
   "과방위종합감사나온윤구구글코리아사장-허욱메타코리아부사장",
   "'인앱결제수수료과도'지적에…구글\"97%개발사수수료안내\"",
-  "AI반도체전력·병목잡는다···엔비디아,삼성전기카드꺼낸이유"
+  "AI반도체전력·병목잡는다···엔비디아,삼성전기카드꺼낸이유",
+  "[유통브리핑]G마켓,'빅스마일데이'진행외",
+  "[삼성SDS체질개선②]클라우드넘어AI로…기업업무혁신시장공략...",
+  "마우저,獨'일렉트로니카2026'서휴머노이드로보틱스선보인다",
+  "경찰,'연세대1만5000명개인정보유출사건'내사착수",
+  "[위클리오늘]이동통신소식_KT,SK텔레콤(10.22)",
+  "'힙지로야장'나타난최태원SK회장…직원들과술잔기울였다고?",
+  "6개지역서학교구글계정11만개해킹…\"비번360만개변경완료\"(종합...",
+  "국내PHP서버82%가보안지원종료구버전,2.4만대해킹위험노출",
+  "이창환“SK,충격적저평가…전세계AI기업중가장싸”[시그널]"
  ],
  "recent_sigs": [
-  [
-   "2026-10-22T11:16:15.705472+09:00",
-   "짚은 집은 열린 선구자가 도둑 보안 집과 다르다"
-  ],
   [
    "2026-10-22T11:20:27.020506+09:00",
    "저커버그 세금은 무서워 사연 이사 무산된 많아도 계획"
@@ -6875,9 +6871,17 @@
   [
    "2026-10-22T17:14:16.186724+09:00",
    "해킹에 칩값 폭등 무너지는 콘솔시장"
+  ],
+  [
+   "2026-10-22T17:16:16.280441+09:00",
+   "~KT 소식 이동통신 ~SKT"
+  ],
+  [
+   "2026-10-22T17:16:16.280441+09:00",
+   "이창환 충격적 SK 가장 전세계 기업중 저평가"
   ]
  ],
- "last_run": "2026-10-22T17:14:40.917319+09:00",
+ "last_run": "2026-10-22T17:16:40.254766+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
