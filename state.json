@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=2026102221032113732bd56fbc3c_1",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875430",
-  "https://basketkorea.com/news/newsview.php?ncode=1065614999617066",
-  "https://www.yna.co.kr/view/AKR20261022194000007?input=1195m",
-  "https://www.betanews.net/article/view/beta202610220151",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=563136",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=563176",
   "https://www.idaegu.co.kr/news/articleView.html?idxno=563151",
@@ -2999,14 +2994,14 @@
   "https://zdnet.co.kr/view/?no=20261023151045",
   "https://www.jemin.com/news/articleView.html?idxno=845153",
   "https://www.newsis.com/view/NISX20261023_0003838448",
-  "https://www.newsis.com/view/NISI20261023_0021501824"
+  "https://www.newsis.com/view/NISI20261023_0021501824",
+  "https://www.newsis.com/view/NISX20261023_0003838851",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709570",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215454",
+  "https://biz.chosun.com/it-science/ict/2026/10/23/N7YWSEWK4ZBVXBGBVZUN6VTONY/",
+  "https://www.dailian.co.kr/news/view/1705454/?sc=Naver"
  ],
  "seen_titles": [
-  "충남도노인복지관대축제,700여명어르신한자리에",
-  "PHP취약점발견에비상대응가동…정부전산망엔이상없어",
-  "PHP취약점2건심각도9.2,오픈AI코덱스시큐리티가발견기여",
-  "‘아이폰듀오’韓초기물량3만대뿐",
-  "AI가공격도하고방어까지…‘양날의검’됐다",
   "법원전산망한때장애…대법\"2시간만에복구\"",
   "PHP서버중73%‘구버전’사용…긴급패치적용못한다",
   "솔리다임IPO딜레마빠진SK하이닉스",
@@ -6001,7 +5996,12 @@
   "나스닥흔든AI투자비…오픈AI도몸값눈높이낮췄다",
   "젠슨황\"AI클라우드수요급증\"…막대한투자비용은업계의과제",
   "오픈AI,'AI안전'목소리낸연구원3명해고…기밀유출의혹공방",
-  "국정감사출석한LG유플러스대표이사"
+  "국정감사출석한LG유플러스대표이사",
+  "[전남광주소식]산이농협박준홍,베스트캠페인전국2위등",
+  "[국감2026]한은보안허점도마위…디지털화폐안전성도쟁점",
+  "홍범식LG유플러스대표,두번째국감출석…서버폐기의혹풀까",
+  "홍범식LG유플러스사장“해킹은폐사실로확인되면합당한책임지겠...",
+  "[2026국감]홍범식\"LG유플해킹은폐확인되면합당한책임\""
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,13 @@
   [
    "2026-10-23T15:34:15.426577+09:00",
    "3명 기밀 연구원 목소리 해고 유출 안전 공방 의혹"
+  ],
+  [
+   "2026-10-23T15:36:15.798303+09:00",
+   "합당한 책임 LG유플 확인되면 은폐 홍범식"
   ]
  ],
- "last_run": "2026-10-23T15:34:42.257255+09:00",
+ "last_run": "2026-10-23T15:36:39.198672+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
