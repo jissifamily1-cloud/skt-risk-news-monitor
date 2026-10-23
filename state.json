@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5226574",
-  "https://www.tokenpost.kr/news/ai/425871",
-  "http://www.inews24.com/view/2018083",
-  "https://www.newsis.com/view/NISX20261022_0003837553",
-  "https://www.the-today.com/news/articleView.html?idxno=92228",
-  "https://www.dt.co.kr/article/12090787",
-  "https://www.dt.co.kr/article/12090788",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601412",
-  "https://news.tf.co.kr/read/economy/2379762.htm",
   "http://www.inews24.com/view/2018094",
   "https://www.edaily.co.kr/News/Read?newsId=05707206645615544&mediaCodeNo=257",
   "https://us.aving.net/news/articleView.html?idxno=54983",
@@ -2999,18 +2990,18 @@
   "https://zdnet.co.kr/view/?no=20261023143323",
   "https://sports.hankooki.com/news/articleView.html?idxno=6942163",
   "https://www.seoul.co.kr/news/society/2026/10/23/20261023500165?wlog_tag3=naver",
-  "https://www.mk.co.kr/article/12184127"
+  "https://www.mk.co.kr/article/12184127",
+  "https://www.edaily.co.kr/News/Read?newsId=04204966645615872&mediaCodeNo=257",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3730763",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3730760",
+  "https://www.news1.kr/world/usa-canada/6329953",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215684",
+  "https://www.nspna.com/news/?newsid=833012",
+  "https://www.nspna.com/news/?newsid=833010",
+  "https://www.etnews.com/20261023000254",
+  "https://www.asiatime.co.kr/article/20261023500202"
  ],
  "seen_titles": [
-  "AI공룡삼성전기에兆단위투자…전용기판라인공동구축",
-  "MBN뉴스7주요뉴스",
-  "오픈AI,방어인력에10억달러지원…'PHP취약점AI가먼저찾아'",
-  "[2026국감]은행가산금리공개강화추진⋯레버리지ETF사태사과[종...",
-  "'PHP비상'에도정부전산망이상無…행안부,지자체엔긴급공문",
-  "쿠바외무장관,美강력규탄…\"유엔총회對쿠바봉쇄종식표결개입\"",
-  "MS\"中해커,韓공격한아르텍스로국제적침해\"",
-  "해킹그룹사이버카르텔…AI로금융사400곳공격",
-  "엔비디아,유럽AI에100억달러투자⋯AI팩토리구축6개월→14일",
   "[2026국감]구글,개인정보유출대응·불법사이트노출도마",
   "[2026국감]구글·X등플랫폼질타…'이진숙제척'여야공방(종합)",
   "전국법원전산망일시장애…2시간만에복구",
@@ -6001,7 +5992,16 @@
   "슈나이더일렉트릭,AI데이터센터전력인프라구축기간6개월로단축",
   "[2026국감]'해킹안전지대'자신한한국은행…국회는\"과신말라\"경고",
   "중앙공소청,‘노태우비자금의혹’이병기전청와대의전비서관참고...",
-  "“이제성과내야할시기”…AWS,내년AI키워드로‘거버넌스·성과’..."
+  "“이제성과내야할시기”…AWS,내년AI키워드로‘거버넌스·성과’...",
+  "고종욱·이창진·홍건희·김대유,KIA타이거즈유니폼벗는다",
+  "NH농협은행충남본부,대오'희망농업우리농가동행기업'선정·현판식...",
+  "유성구청레슬링팀,전국체전메달4개…김성권두종목서금·은",
+  "\"스페이스X,기지국8만곳확보추진…美이동통신3사에도전장\"",
+  "SK하이닉스,솔리다임IPO중단에2%대반등…중복상장우려완화",
+  "통신3사‘아이폰듀오’개통시작…KT·SKT일부사전예약물량1분만...",
+  "KT‘아이폰듀오’국내판매시작…다이렉트샵1·2차전용량소진",
+  "KT스튜디오지니'연애박사'·'내가떨릴수있게'국내외OTT흥행",
+  "신정법개정…해킹금융사과징금부담더나"
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,13 @@
   [
    "2026-10-23T14:28:15.088640+09:00",
    "YTN 추가제재 구성 사추위 연합TV 안한"
+  ],
+  [
+   "2026-10-23T14:38:15.414771+09:00",
+   "개정 더나 부담 과징금 신정법 금융사"
   ]
  ],
- "last_run": "2026-10-23T14:36:36.193270+09:00",
+ "last_run": "2026-10-23T14:38:36.894842+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
