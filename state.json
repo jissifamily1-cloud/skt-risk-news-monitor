@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172610",
-  "https://www.fnnews.com/news/202610221840444826",
-  "https://www.sedaily.com/article/20105060",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90818",
-  "https://www.fnnews.com/news/202610221840502947",
-  "https://www.newsis.com/view/NISX20261022_0003837562",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692633",
   "https://www.mk.co.kr/article/12183298",
   "https://www.mt.co.kr/industry/2026/10/22/2026102213550671106",
@@ -2999,15 +2993,15 @@
   "http://www.breaknews.com/1245238",
   "http://www.newstomato.com/ReadNews.aspx?no=1317807&inflow=N",
   "https://www.g-enews.com/view.php?ud=202610231404323361fbbec65dfb_1",
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230065&t=NNv"
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230065&t=NNv",
+  "https://news.dealsitetv.com/articles/177419",
+  "https://www.itbiznews.com/news/articleView.html?idxno=228943",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=229208",
+  "http://www.srtimes.kr/news/articleView.html?idxno=215595",
+  "https://www.cwn.kr/news/articleView.html?idxno=60038",
+  "https://www.tokenpost.kr/news/tech/426261"
  ],
  "seen_titles": [
-  "국정감사",
-  "금융국감달군'당국책임론'…ETF·해킹·조각투자쟁점[국감2026]",
-  "국민70%\"모두의AI,무료라면써볼것\"[모두의AI,기대와현실]",
-  "해외선이미공격시도확인…정부“침해흔적발견시즉시신고를”",
-  "SKT,원치않는해외로밍차단서비스출시…국가별이용통제",
-  "'보안구멍'뚫린PHP…전세계웹사이트해킹노출[전세계웹사이트해...",
   "삼성·SK·포스코,PHP해킹사태에보안패치등긴급선제대응나서",
   "전세계웹사이트해킹비상…“업데이트못하면오프라인”",
   "댄스신동된이재용·최태원…10초만에얼굴바꾸는‘환술’있다는데...",
@@ -6001,7 +5995,13 @@
   "KT,실무형교육프로그램‘K-뉴딜아카데미’1기성료",
   "통신3사,'아이폰듀오'출시…사전예약1분만에마감",
   "인공지능에이전트가쏘아올린서버랙의반란…중앙처리장치가다시...",
-  "호재도못살린반도체…“더하락”vs“바닥근접”"
+  "호재도못살린반도체…“더하락”vs“바닥근접”",
+  "[은행TalkTalk]우리銀,사회적경제기업에1억3000만원지원​外",
+  "슈나이더,AIDC향모듈형전력포트폴리오확장",
+  "AI데이터센터전력설비도모듈화...구축기간단축되나",
+  "[2026국감]김종철방미통위위원장\"해킹피해보상,미흡시관여하겠...",
+  "SK하이퍼,'AI데이터센터15GW청사진'...글로벌투자유치본격시동",
+  "엔비디아예제서GPU읽기256건모두가속경로탔다"
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,13 @@
   [
    "2026-10-23T14:16:15.449246+09:00",
    "살린 vs 반도체 하락 바닥 호재도 근접"
+  ],
+  [
+   "2026-10-23T14:18:15.424182+09:00",
+   "탔다 256건 가속 예제서 모두 읽기 GPU 경로"
   ]
  ],
- "last_run": "2026-10-23T14:16:39.688161+09:00",
+ "last_run": "2026-10-23T14:18:36.565636+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
