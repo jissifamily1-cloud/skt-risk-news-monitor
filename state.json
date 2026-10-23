@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1728546",
-  "https://www.news1.kr/world/usa-canada/6326552",
-  "https://www.yna.co.kr/view/AKR20261021004500091?input=1195m",
-  "https://www.edaily.co.kr/News/Read?newsId=06130326645614888&mediaCodeNo=257",
-  "https://www.tokenpost.kr/news/ai/424607",
-  "https://www.tokenpost.kr/news/market/424461",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708001",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707981",
   "https://www.aitimes.com/news/articleView.html?idxno=216364",
@@ -2999,15 +2993,15 @@
   "https://www.greened.kr/news/articleView.html?idxno=352861",
   "https://www.tokenpost.kr/news/breaking/426215",
   "https://www.yakup.com/news/index.html?cat=12&nid=334186",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875672"
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875672",
+  "https://www.donga.com/news/Inter/article/all/20261023/134895572/2",
+  "https://view.asiae.co.kr/article/2026102312350896528",
+  "https://www.wolyo.co.kr/news/articleView.html?idxno=319491",
+  "https://www.tokenpost.kr/news/breaking/426224",
+  "https://www.dailymedi.com/news/news_view.php?wr_id=941805",
+  "https://platum.kr/archives/296909"
  ],
  "seen_titles": [
-  "'여동생성학대'소송당한오픈AI샘올트먼...법원판단은",
-  "[서학개미안테나]올트먼이그린AI의세가지미래…\"경쟁사GPU녹여...",
-  "美법원,샘올트먼여동생의성폭행소송기각",
-  "美법원,샘올트먼여동생성학대의혹소송기각",
-  "AI속도조절론에흔들리지마라…허성욱前원장이짚은韓기업생존전략",
-  "알트먼,AI경쟁종착점세가지제시…한기업독주는'끔찍'",
   "앤트로픽IPO연내발표가능성75%,칼시23개사중유일",
   "\"AI생태계자체는문제없다\"…벤치마크가지목한주가급등락의원인",
   "오픈AI,휴머노이드로봇개발선언…샘알트먼이밝힌'2027년'의의미",
@@ -6001,7 +5995,13 @@
   "[CES2027프리뷰]대기업로봇대전점화…삼성·LG·현대차'휴머노이드...",
   "엔비디아,시간당수십억건분석하는AI공장운영플랫폼미네르바공...",
   "\"인천바이오메가클러스터,생산이어신약개발허브로\"일라이릴리·삼...",
-  "[이슈국감]기업용AI쓰면기술유출?…산업부,수출기준도못정했다"
+  "[이슈국감]기업용AI쓰면기술유출?…산업부,수출기준도못정했다",
+  "스타링크가AT&T와붙는다…머스크,美기지국8만곳노린다",
+  "국감장생중계한AI스마트글래스…배경훈\"대응방안조속히마련\"[202...",
+  "3조원구리선18만톤,KT매각내역전수공개촉구",
+  "오픈AI모니터링시스템취약점발견보도…올트먼,외부평가단에직원...",
+  "美빅테크MS·엔비디아\"의료AI공략확대\"",
+  "국내스타트업AI모델'코실로',젠슨황GTC베를린기조연설에소개"
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,17 @@
   [
    "2026-10-23T12:34:15.566331+09:00",
    "공장 시간당 미네르바 수십억 분석하는 운영 플랫폼"
+  ],
+  [
+   "2026-10-23T12:38:16.144220+09:00",
+   "코실로 베를린 젠슨 소개 GTC 모델 국내 스타트업 기조연설에"
+  ],
+  [
+   "2026-10-23T12:38:16.144220+09:00",
+   "확대 빅테크 공략 의료AI MS"
   ]
  ],
- "last_run": "2026-10-23T12:36:30.568496+09:00",
+ "last_run": "2026-10-23T12:38:38.617003+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
