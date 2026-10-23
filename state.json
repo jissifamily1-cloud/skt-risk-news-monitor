@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610220002395419",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200305.html",
-  "http://www.fieldnews.kr/news/articleView.html?idxno=32464",
-  "https://www.todayeconomic.com/news/article.html?no=32555",
-  "https://www.news1.kr/it-science/internet-platform/6328769",
-  "http://www.metroseoul.co.kr/article/20261022500505",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005944962",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074995",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497725",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005944961",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246738",
   "https://www.mt.co.kr/policy/2026/10/22/2026102216281679650",
   "https://www.mt.co.kr/stock/2026/10/22/2026102216205166155",
   "https://www.ajunews.com/view/20261022132231058",
@@ -2999,20 +2988,20 @@
   "http://amenews.kr/news/view.php?idx=68396",
   "https://www.mt.co.kr/tech/2026/10/23/2026102210394164018",
   "https://www.venturesquare.net/1122269/",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=618548"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=618548",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3730445",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=45766",
+  "https://kr.aving.net/news/articleView.html?idxno=1815941",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709485",
+  "https://www.segye.com/newsView/20261023504280?OutUrl=naver",
+  "https://news.tf.co.kr/read/economy/2379630.htm",
+  "https://www.yna.co.kr/view/AKR20261022157000530?input=1195m",
+  "https://www.m-i.kr/news/articleView.html?idxno=2009506",
+  "https://www.greened.kr/news/articleView.html?idxno=352826",
+  "https://www.inthenews.co.kr/news/article.html?no=93447",
+  "https://www.news1.kr/it-science/cc-newmedia/6329574"
  ],
  "seen_titles": [
-  "[단독]SK텔레콤,하이닉스AI협력전담'Hy-TF'신설...TF장에유경상C...",
-  "구글클라우드에GPT입점…코덱스도",
-  "연기나던'산업단지'스타트업만나AI·디지털기술품는다",
-  "'美AI수익성경계감'코스피5500선하락마감…삼전닉스4~5%↓",
-  "글로벌PHP보안비상…과기부,사이버위기경보'주의'로상향",
-  "주가는6개월최저,상장준비는착착…SK하이닉스주주가묻는'누구를...",
-  "청소년SNS일괄규제에선그은방미통위…\"획일적제한부적절\"",
-  "앤트로픽'클로드시큐리티',사람요청없이도코드검사…취약점고쳤...",
-  "MS\"중국연계해커,AI도구로전세계조직공격\"",
-  "동대문구,24일교육박람회개최…AI·로봇등미래기술체험",
-  "\"엔비디아와손잡았다\"환호했는데…삼성전기주가에무슨일?",
   "GTC젠슨황'AI투심'살렸다…테슬라·메타도선방",
   "PHP로그인없이서버장악…한국도해킹'비상'",
   "6개교육청학습용구글계정'11만개해킹'…360만개비밀번호바꿨다",
@@ -6001,7 +5990,18 @@
   "마우저,‘일렉트로니카2026’휴머노이드로보틱스시연",
   "GPU직접안사도된다…삼성SDS,'다차원AI풀스택'전략",
   "래블업,신한DS에AI모델관리솔루션‘컨티넘엔터프라이즈’공급…...",
-  "[대학家]서울대학교②ㅣ차기총장선출'검증변수'에제동…AI교육..."
+  "[대학家]서울대학교②ㅣ차기총장선출'검증변수'에제동…AI교육...",
+  "예산군의회,거동불편노인보행기지원연령65세로확대",
+  "[오늘뭐했니?]카카오·카카오모빌리티·카카오엔터",
+  "'FIX2026이노베이션어워즈'22일엑스코서개최…미래이끌혁신기업...",
+  "슈나이더일렉트릭,AIDC용차세대모듈형전력솔루션공개...\"전력인...",
+  "유튜버‘길바닥’“지금호주다.잘살아있다”",
+  "[2026국감]김종철방미통위원장\"해킹피해보상미흡하면관여하겠다...",
+  "개보위\"PHP보안취약점주의…보안업데이트·접근통제필요\"",
+  "\"1분만에초기물량동났다\"…통신3사,'아이폰듀오'정식출시",
+  "SK하이닉스,'솔리다임IPO'전면중단…직접출자부담커졌다",
+  "KT,‘K-뉴딜아카데미’1기성료…직무경험제공으로청년사회진출...",
+  "KT,AWS공공부문우수파트너선정…내년AX사업확대"
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,13 @@
   [
    "2026-10-23T10:42:14.467799+09:00",
    "검증 선출 변수 제동 교육 총장 서울대학교 차기"
+  ],
+  [
+   "2026-10-23T10:44:15.048676+09:00",
+   "확대 AWS 내년 ~KT 공공 사업 우수 파트너 선정 AX 부문"
   ]
  ],
- "last_run": "2026-10-23T10:42:32.202220+09:00",
+ "last_run": "2026-10-23T10:44:34.039830+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
