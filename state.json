@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.starnewskorea.com/sports/2026/10/22/2026102212581848302",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3729941",
-  "https://www.dailymedi.com/news/news_view.php?wr_id=941763",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3729945",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875416",
-  "http://www.ujeil.com/news/articleView.html?idxno=394001",
-  "https://www.tokenpost.kr/news/ai/425909",
-  "https://www.tokenpost.kr/news/tech/425910",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6860033_37004.html",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6860032_37004.html",
   "https://www.mt.co.kr/politics/2026/10/22/2026102220221524301",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553636791",
@@ -2999,16 +2990,18 @@
   "http://www.fieldnews.kr/news/articleView.html?idxno=32491",
   "https://www.gokorea.kr/news/articleView.html?idxno=882457",
   "https://www.joongangenews.com/news/articleView.html?idxno=557808",
-  "https://www.gokorea.kr/news/articleView.html?idxno=882452"
+  "https://www.gokorea.kr/news/articleView.html?idxno=882452",
+  "https://www.ekn.kr/web/view.php?key=20261023027480416",
+  "https://www.tjb.co.kr/news05/bodo/view/id/105223",
+  "https://www.yna.co.kr/view/PYH20261023135300013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261023135500013?input=1196m",
+  "https://www.g-enews.com/view.php?ud=202610231024516594c3b051da3b_1",
+  "https://www.hankyung.com/article/2026102314017",
+  "https://www.yna.co.kr/view/AKR20261023126200004?input=1195m",
+  "https://www.news1.kr/photos/8176114",
+  "https://www.hani.co.kr/arti/society/society_general/1283866.html"
  ],
  "seen_titles": [
-  "법원전산망2시간장애후정상화…\"PHP·해킹과무관\"",
-  "한화158㎞파이어볼러태극마크달았다!LG지명대학포수까지뭉친韓...",
-  "충남교육청,초등돌봄·교육협의체중간성과보고회개최",
-  "KT,병원맞춤형의료AI제공…AX지원확대",
-  "충남도의회교육위원회,제주경기장찾아선수단지원독려",
-  "KT문상철,12년프로생활마무리…조이현등10명방출",
-  "전국체전폐막…울산,메달130개수확",
   "오픈에비던스기업가치150억달러…작년10월대비2.5배",
   "백악관,PHP취약점16일파악…패치발행앞당기려조율",
   "주인모르게주식매매‥AI상대로방어벽높여봤자",
@@ -6001,13 +5994,16 @@
   "박찬대인천시장,송도바이오생산넘어신약개발·창업으로…삼성바...",
   "코스피2%대급락…美AI·반도체충격",
   "TSMC,中희토류수출통제에공급망재편…핵심장비대체기술모색",
-  "금융기관해킹수사,서울중수청안맡는다"
+  "금융기관해킹수사,서울중수청안맡는다",
+  "“예약1분만에마감”…아이폰듀오출시,통신3사고객잡기경쟁",
+  "\"찍히는줄도모른다\"…국감장서AI스마트글래스규제목소리",
+  "과방위종합감사일반증인으로출석한홍범식LG유플러스대표",
+  "[사설]전세계인터넷PHP해킹비상",
+  "[속보]서울중수청\"금융기관AI해킹사건,경찰서계속수사해야\"",
+  "[국감]선서하는홍범식LG유플러스CEO",
+  "중수청,‘금융기관해킹’사건넘겨받지않기로…“경찰이상당부분..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-23T09:24:15.176387+09:00",
-   "넘는 아이폰 듀오에 명동 매장 밤샘 북적 300만원"
-  ],
   [
    "2026-10-23T09:26:16.749935+09:00",
    "막으려면 감염 설정 막는 보안 3가지 인스타 아이폰 광고"
@@ -6559,9 +6555,17 @@
   [
    "2026-10-23T15:24:14.393452+09:00",
    "금융기관 서울중수청 수사 맡는다"
+  ],
+  [
+   "2026-10-23T15:26:16.317312+09:00",
+   "LG유플러스 CEO ~LGU 홍범식 선서하는"
+  ],
+  [
+   "2026-10-23T15:26:16.317312+09:00",
+   "중수청 금융기관 사건 부분 상당 경찰이 않기로 넘겨받지"
   ]
  ],
- "last_run": "2026-10-23T15:24:35.801459+09:00",
+ "last_run": "2026-10-23T15:26:37.031700+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
