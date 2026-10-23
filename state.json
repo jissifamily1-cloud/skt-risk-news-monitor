@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/internet-platform/6329233",
-  "https://www.newspim.com/news/view/20261022001416",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541418",
-  "https://www.mk.co.kr/article/12183372",
-  "https://www.lawissue.co.kr/view.php?ud=202610222000443987204ead0791_12",
   "https://www.ytn.co.kr/_ln/0103_202610222000281116",
   "https://news.jtbc.co.kr/article/NB12324434?influxDiv=NAVER",
   "https://www.mt.co.kr/politics/2026/10/22/2026102219555452687",
@@ -2999,14 +2994,14 @@
   "https://cooknchefnews.com/news/view/1065576159763103",
   "https://www.edaily.co.kr/News/Read?newsId=04428006645615872&mediaCodeNo=257",
   "https://www.yakup.com/news/index.html?cat=12&nid=334193",
-  "https://www.mt.co.kr/tech/2026/10/23/2026102314491572677"
+  "https://www.mt.co.kr/tech/2026/10/23/2026102314491572677",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323423",
+  "https://www.jasm.co.kr/news/view/322723/?sc=Naver",
+  "https://www.newspim.com/news/view/20261023000867",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=513281",
+  "https://www.hankookilbo.com/news/article/A2026102313340000697?did=NA"
  ],
  "seen_titles": [
-  "‘힙지로야장’간최태원회장…“여기계실때냐”",
-  "오픈AI,韓개발자에AI기술·전략공유…\"한국AI활용뜨거워\"(종합)",
-  "전국법원전산망장애2시간만에복구…\"PHP해킹과는무관\"",
-  "전세계웹사이트해킹비상…PHP치명적보안결함발견",
-  "LG유플러스,AI기지국대비한다…에릭슨과프론트홀실증나서",
   "델테크놀로지스,엔비디아협력강화로기업용에이전틱AI솔루션발표",
   "전국법원전산망장애2시간만에복구...\"PHP해킹무관\"",
   "구글·메타·X,과방위서집중질타…\"X접속차단검토해야\"주장까지",
@@ -6001,7 +5996,12 @@
   "2030의'자발적고립(JOMO)'미식",
   "네이버페이\"AX시대,韓금융에기회…인증·위임한도규칙마련시급\"",
   "삼성바이오로직스“우리도처음엔벤처였다…이젠한국바이오텍과세...",
-  "정석근\"SKAI데이터센터464조필요…빅테크와투자유치논의\""
+  "정석근\"SKAI데이터센터464조필요…빅테크와투자유치논의\"",
+  "LGU+'폰교체패스'아시아고객경험혁신상받아",
+  "송도바이오클러스터글로벌신약허브로키운다",
+  "공소청,'노태우비자금의혹'이병기前의전비서관참고인조사",
+  "해킹막자니영업차질,놔두자니정보유출…‘PHP보안취약점’대응...",
+  "PHP해킹,스마트글래스도촬우려에...부총리\"범부처대응하겠다\""
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,13 @@
   [
    "2026-10-23T15:02:15.868656+09:00",
    "구광모 이환성 돌입 화제 사업보고 양자승계"
+  ],
+  [
+   "2026-10-23T15:10:26.446610+09:00",
+   "도촬 스마트글래스 대응하겠다 우려에 범부처 부총리 PHP"
   ]
  ],
- "last_run": "2026-10-23T15:08:37.557230+09:00",
+ "last_run": "2026-10-23T15:10:48.327996+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
