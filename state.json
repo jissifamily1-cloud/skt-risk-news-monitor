@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/10/22/technology/what-is-php-vulnerability-risks.html?partner=naver",
-  "https://econotimes.com/PHP-Flaws-Put-Dutch-Government-and-European-Patent-Office-Sites-Offline-1760303",
   "https://www.nytimes.com/2026/10/22/business/media/ai-disinfo-chatbots-elections.html?partner=naver",
   "https://www.venturesquare.net/1122200/",
   "https://econotimes.com/PHP-Security-Flaws-Put-Website-Uptime-at-Risk-After-Dutch-Shutdowns-1760268",
@@ -2999,11 +2997,11 @@
   "https://www.tokenpost.kr/news/tech/426003",
   "https://www.tokenpost.kr/news/tech/426000",
   "https://www.huffingtonpost.kr/article/261500",
-  "https://www.gokorea.kr/news/articleView.html?idxno=882558"
+  "https://www.gokorea.kr/news/articleView.html?idxno=882558",
+  "https://www.aitimes.com/news/articleView.html?idxno=216591",
+  "http://www.newswatch.kr/news/articleView.html?idxno=81654"
  ],
  "seen_titles": [
-  "[자정뉴스브리핑]솔라나알펜글로우메인넷가동…목표성능미달外",
-  "[보디가드로봇]\"4m뛰어내리고괴한엔돌려차기\"…中유니트리,'보디...",
   "로그인없이시스템장악…미국가안보국·FBI도“서버꺼라”",
   "[AI시대강원경제대도약]‘바이오+창업’전세계판로개척종합컨벤...",
   "[AI시대강원경제대도약]405개기업끈끈한경제네트워크⋯신성장의...",
@@ -6001,7 +5999,9 @@
   "PHP서버장악결함2건긴급패치…웹사이트3분의1은못받았다",
   "PHP5부터숨은결함2건…NSA,패치못하면사이트내리라권고",
   "미국AI투자늘어나는데삼성전자·SK하이닉스주가급락하는이유:빅...",
-  "기술주급락의충격파,나스닥2.6%하락...메타의AI투자향방은?"
+  "기술주급락의충격파,나스닥2.6%하락...메타의AI투자향방은?",
+  "AWS,GPU관리없이맞춤형AI학습하는새기능공개",
+  "[국감]홍범식LG유플러스대표,'해킹은폐·조사방해의혹'질타에…\"합..."
  ],
  "recent_sigs": [
   [
@@ -6505,7 +6505,7 @@
    "닷츠 관심 세계 높은 이용자 3위 AI에"
   ]
  ],
- "last_run": "2026-10-23T17:38:40.340978+09:00",
+ "last_run": "2026-10-23T17:40:40.291068+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
