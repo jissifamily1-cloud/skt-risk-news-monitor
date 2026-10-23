@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8174982",
   "https://www.news1.kr/photos/8174981",
   "http://www.weeklytoday.com/news/articleView.html?idxno=799237",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715617",
@@ -2999,10 +2998,10 @@
   "https://ditoday.com/ai-%ec%9d%b8%ec%9a%a9-%ed%8c%a8%ed%84%b4-%eb%b6%84%ec%84%9d%ed%96%88%eb%8d%94%eb%8b%88%ed%82%a4%ec%9b%8c%eb%93%9c-%ec%9d%bc%ec%b9%98%eb%b3%b4%eb%8b%a4-%ec%a0%95%eb%b3%b4-%eb%b0%80%eb%8f%84/",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498082",
   "https://www.jemin.com/news/articleView.html?idxno=845169",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172494"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172494",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=618833"
  ],
  "seen_titles": [
-  "LG유플러스,'폰교체패스'아시아고객경험혁신상수상",
   "알뜰폰순유입2년새94%급감…100명중98명통신3사로",
   "젠슨황“2029년메모리공급과잉없다”...HBM·저전력메모리수요확...",
   "PHP취약점공개전부터공격···전세계해킹시도수백만건확산",
@@ -6001,7 +6000,8 @@
   "AI인용패턴분석했더니…\"키워드일치보다정보밀도중요\"",
   "[주간거래소외국인]삼성전자순매수1위,SK하이닉스순매도1위",
   "엔비디아주가4.4%하락…인공지능투자부담에기술주흔들",
-  "미국중간선거,AI·빅테크가양당의공격표적으로"
+  "미국중간선거,AI·빅테크가양당의공격표적으로",
+  "[속보]뉴욕증시기술주혼조…마이크론·AMD상승,엔비디아·테슬라하..."
  ],
  "recent_sigs": [
   [
@@ -6147,9 +6147,13 @@
   [
    "2026-10-24T07:26:16.895241+09:00",
    "흔들 하락 인공지능 투자 부담에 주가 기술주"
+  ],
+  [
+   "2026-10-24T07:32:15.389808+09:00",
+   "마이크론 AMD 상승 혼조 뉴욕증시 기술주 테슬라"
   ]
  ],
- "last_run": "2026-10-24T07:30:50.987284+09:00",
+ "last_run": "2026-10-24T07:32:33.183927+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
