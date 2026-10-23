@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261016_0003828536",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610160035&t=NN",
-  "https://www.businessplus.kr/news/articleView.html?idxno=118276",
-  "https://www.mt.co.kr/tech/2026/10/16/2026101608424940345",
-  "http://www.4th.kr/news/articleView.html?idxno=2119845",
-  "https://biz.heraldcorp.com/article/10903639",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=87570",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037653",
   "https://www.dailian.co.kr/news/view/1701679/?sc=Naver",
   "https://www.busan.com/view/busan/view.php?code=2026101508555894154",
   "https://www.mt.co.kr/tech/2026/10/16/2026101411222429916",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261023_0003839057",
   "https://it.chosun.com/news/articleView.html?idxno=2023092172646",
   "https://www.news1.kr/politics/assembly/6330290",
-  "http://www.newstomato.com/ReadNews.aspx?no=1317851&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1317851&inflow=N",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553640229",
+  "https://www.mydaily.co.kr/page/view/2026102311000778543",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3730921",
+  "https://biz.chosun.com/it-science/ict/2026/10/23/GSBZPTKA5RDOZNMRE3M3DQIKRM/",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=267434",
+  "https://www.chosun.com/national/national_general/2026/10/23/A6TYDTIONVGQZA7HMJ5PLOKP6Y/",
+  "https://www.yna.co.kr/view/AKR20261023104651004?input=1195m",
+  "http://www.inews24.com/view/2018435"
  ],
  "seen_titles": [
-  "[프로야구]KBO'아쿼'첫타이틀홀더KT스기모토,日소프트뱅크지명...",
-  "'마레이34리바운드KBL신기록'창원LG,현대모비스꺾고3연패탈출…...",
-  "'유기상복귀포+마레이34R지배'LG,현대모비스꺾고3연패탈출…공동...",
-  "화성특례시,11월3일우주항공산업추진단출범",
-  "전쟁-폭력-차별맞선국제영화제23일개막",
-  "'고글투혼'마레이,KBL최다34리바운드신기록...LG,유기상복귀속...",
-  "공군,'호국훈련'연계공중항체침투대응훈련…F-15K등대구서출격",
-  "KAI·공군,6개국연대항공기기술협력",
   "오늘의경기(10월23일)",
   "KBO‘홀드왕’→2027년은NPB리거…NPB드래프트서소프트뱅크지명→일...",
   "마레이34리바운드로KBL새역사…프로농구LG,3연패탈출",
@@ -6001,7 +5993,15 @@
   "'홀드왕亞쿼터'KT스기모토,日소프트뱅크육성3순위지명(종합)",
   "'AI거품론'에…SK하이닉스,솔리다임IPO접은속내는",
   "국감막바지…여야,'해킹'엔한목소리질타·'미래기금'두곤충돌(종합...",
-  "금융권AI해킹,당국국제공조시험대"
+  "금융권AI해킹,당국국제공조시험대",
+  "'홀드왕→NPB지명'새역사쓴KT日우완,지금은앞만보고달린다\"...",
+  "태극마크기운덕분일까!'韓국대'유니폼입었던日독립리거,마침내...",
+  "산림복지진흥원,내년녹색자금360억투입…취약계층숲접근성높인다",
+  "다쏘시스템,버티브와AI팩토리설계·구축협력",
+  "[A주간서머리]경제·산업계\"여야,해킹피해은행질타...정용진신...",
+  "‘금융기관해킹사건’중수청수사불개시결정...국수본,계속수사",
+  "'금융권해킹'경찰→중수청→경찰?…'사건핑퐁'현실화하나(종합)",
+  "엔비디아,삼성전기기판에공동투자…LG이노텍과'로봇눈'개발"
  ],
  "recent_sigs": [
   [
@@ -6535,9 +6535,13 @@
   [
    "2026-10-23T17:00:43.525741+09:00",
    "국제공조 시험대 당국 금융권"
+  ],
+  [
+   "2026-10-23T17:02:16.300431+09:00",
+   "로봇 LG이노텍과 개발 기판에 삼성전기 공동투자"
   ]
  ],
- "last_run": "2026-10-23T17:01:01.536311+09:00",
+ "last_run": "2026-10-23T17:02:34.667567+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
