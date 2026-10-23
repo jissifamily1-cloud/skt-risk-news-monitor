@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3729595",
-  "https://www.newspim.com/news/view/20261021001341",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008810409&plink=ORI&cooper=NAVER",
-  "https://zdnet.co.kr/view/?no=20261022151732",
-  "https://www.munhwa.com/article/11625490",
-  "http://www.inews24.com/view/2017935",
-  "https://www.chosun.com/economy/tech_it/2026/10/22/YZU4JRWSWFEHRMOVYUHFHU3GQ4/",
-  "https://zdnet.co.kr/view/?no=20261021223552",
-  "https://www.slist.kr/news/articleView.html?idxno=775547",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1188561",
-  "https://imnews.imbc.com/replay/2026/nw1400/article/6859948_36974.html",
   "https://www.m-i.kr/news/articleView.html?idxno=2009164",
   "https://www.ajunews.com/view/20261022144957379",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610221357502070730",
@@ -2999,20 +2988,20 @@
   "https://www.kbsm.net/news/view.php?idx=538610",
   "https://www.smartbizn.com/news/articleView.html?idxno=157314",
   "https://www.newstopkorea.com/news/articleView.html?idxno=48421",
-  "https://www.ekn.kr/web/view.php?key=20261023027020174"
+  "https://www.ekn.kr/web/view.php?key=20261023027020174",
+  "https://www.viva100.com/article/20261023500076",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3730344",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3730342",
+  "https://www.vegannews.co.kr/news/article.html?no=395838",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323333",
+  "https://www.fnnews.com/news/202610230921489640",
+  "https://www.hankyung.com/article/202610228608i",
+  "https://www.boannews.com/news/articleView.html?idxno=146680",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242400",
+  "http://www.newsdream.kr/news/articleView.html?idxno=120669",
+  "https://www.joongangenews.com/news/articleView.html?idxno=557666"
  ],
  "seen_titles": [
-  "SK텔레콤,서울대·KAIST연구진과수학난제도전…독자AI추론강화",
-  "[단독]\"파는데로다사겠다\"미국의수상한책주문이지방까지밀려...",
-  "고배당주부터바이오·방산까지약세…밸류업테마도수급부담",
-  "'2026코리아그랜드페스티벌'경남고성군참여…5%환급제공",
-  "[GAM]데이터독①번스타인한분기만에매수로'유턴'",
-  "전세계PHP보안비상…정부,사이버위기경보'주의'상향발령",
-  "\"PHP2shell취약점무료점검\"...스틸리언,서비스출시",
-  "“AI로수학난제도전한다”…SKT,서울대·KAIST와협력",
-  "PHP보안구멍어떻게막나⋯\"업데이트만이유일한해법\"",
-  "네오클라우드명줄,엔비디아에달렸다...230조지원하며구원투수자처",
-  "[안광섭AI진테제]AI병목에대해...앤트로픽성장이정체?",
   "PHP치명적보안취약점발견…정부,사이버위기경보'주의'격상",
   "PHP뜻,뭐길래...웹사이트보안취약점에'비상'",
   "사이버위기경보'주의'격상‥'PHP결함'비상",
@@ -6001,7 +5990,18 @@
   "전세계웹사이트에해킹비상…AI가치명적보안결함발견",
   "젠슨황\"메모리는많을수록좋다\"···2029년공급과잉론에선그어",
   "AI투자부담·중동긴장에나스닥2.6%급락",
-  "최태원·이재용빠진국감…호남반도체투자계획검증‘미완’"
+  "최태원·이재용빠진국감…호남반도체투자계획검증‘미완’",
+  "[통신업계소식]이동통신3사,‘아이폰듀오’출시外",
+  "제주은행,'제주상생포용적금'출시…연7%금리",
+  "한글놀이터세종관,개관10개월만에관람객5만명돌파",
+  "부산UN평화축제23~25일평화공원서무료개최",
+  "보건산업진흥원,'K-의료AI'수출넘어글로벌의료혁신이끈다",
+  "파랗게질린증시...나스닥폭락에코스피한때-4%[fn오전시황]",
+  "[단독]\"파는대로다사겠다\"…美'수상한주문'에출판계긴장",
+  "\"3시간만에관리자권한탈취\"…중국해커,韓금융권공격AI도구로...",
+  "이통3사,아이폰듀오정식출시…사전예약1분만에종료",
+  "KT,애플'아이폰듀오'출시…\"다이렉트샵1·2차1분만에매진\"",
+  "LG유플러스,유심교체하러갔다가'공짜폰'36개월할부…불완전판매..."
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,13 @@
   [
    "2026-10-23T09:44:15.177585+09:00",
    "이재용 호남 미완 검증 빠진 국감 투자계획 반도체"
+  ],
+  [
+   "2026-10-23T09:46:13.727218+09:00",
+   "36개월 할부 교체하러 공짜폰 불완전판매 ~LGU 유심 LG유플러스 갔다가"
   ]
  ],
- "last_run": "2026-10-23T09:44:39.071563+09:00",
+ "last_run": "2026-10-23T09:46:37.740977+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
