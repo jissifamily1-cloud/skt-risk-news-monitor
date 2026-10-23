@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400382.html",
-  "https://www.ngetnews.com/news/articleView.html?idxno=554511",
-  "https://www.news1.kr/industry/general-industry/6320240",
-  "https://www.dailian.co.kr/news/view/1701557/?sc=Naver",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307697",
-  "https://www.donga.com/news/Society/article/all/20261014/134840844/1",
   "https://www.ddaily.co.kr/page/view/2026101415101592584",
   "https://www.m-i.kr/news/articleView.html?idxno=2005882",
   "http://www.newsian.co.kr/news/articleView.html?idxno=97060",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693682",
   "https://www.seoul.co.kr/news/economy/2026/10/23/20261023500241?wlog_tag3=naver",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8693684",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541463"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541463",
+  "https://www.newsis.com/view/NISX20261023_0003838959",
+  "https://www.g-enews.com/view.php?ud=202610231628597121fbbec65dfb_1",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193666",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=121901",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209030",
+  "https://www.natv.go.kr/natv/news/newsView.do?newsId=514428"
  ],
  "seen_titles": [
-  "로봇과인간은'우리'가될수있을까…한중일예술가들이던진질문",
-  "세계공예전문가청주집결···'2026청주국제공예포럼'23일개최",
-  "\"공예로세계잇다\"…청주,글로벌공예도시의미래를묻는다",
-  "\"SK주가사상최고가찍던날\"…최태원친족남매,67억현금화",
-  "노소영,최태원과재산분할맞상고포기",
-  "KOFICE·아트센터나비,한중일융합예술교류전",
   "'청주의지속가능한미래'2026국제공예포럼유네스코센터서열린다",
   "국내외공예전문가한자리…23일'청주국제공예포럼'개최",
   "노소영맞상고포기…대법원,마지막2440억향방가른다",
@@ -6001,7 +5995,13 @@
   "LGU+홍범식“해킹은폐사실로확인되면합당한책임다하겠다”",
   "AI신용불안에장중4%급락…코스피,하이닉스반등에5500선회복",
   "[잇슈#태그]“너희정말귀엽다”…젠슨황이‘아빠미소’보인이유...",
-  "[OBS뉴스오늘2]프랑스시위주말이고비…AI버블론·해킹우려여전"
+  "[OBS뉴스오늘2]프랑스시위주말이고비…AI버블론·해킹우려여전",
+  "모의진료서AI83%맞힐때일반진료의사36%…MS,'의료초지능'속도",
+  "빅테크장기계약묶어둔메모리빅3…주가반등열쇠는‘숫자로증명할...",
+  "우리금융,3분기누적순익2조6581억원…\"비과세배당이어가\"",
+  "통신3사미환급금30억원,'SKT14억최다'···\"미온적환급기준바꿔...",
+  "오픈AI,'데브데이익스체인지서울'진행...한국개발자들과AI서비스...",
+  "과방위,이진숙의원제척놓고충돌…납치광고·불법유해정보대책지..."
  ],
  "recent_sigs": [
   [
@@ -6555,9 +6555,21 @@
   [
    "2026-10-23T16:34:16.848231+09:00",
    "프랑스 우려 버블론 시위 고비 주말이 여전"
+  ],
+  [
+   "2026-10-23T16:36:15.250495+09:00",
+   "미환급금 통신3사 미온적 환급기준 바꿔 최다 ~SKT 30억원 14억"
+  ],
+  [
+   "2026-10-23T16:36:15.250495+09:00",
+   "익스체인지 한국 진행 데브데이 서울 개발자들과 서비스"
+  ],
+  [
+   "2026-10-23T16:36:15.250495+09:00",
+   "이진숙 납치광고 대책 제척 놓고 불법유해정보 의원 과방위 충돌"
   ]
  ],
- "last_run": "2026-10-23T16:34:37.079240+09:00",
+ "last_run": "2026-10-23T16:36:44.296008+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
