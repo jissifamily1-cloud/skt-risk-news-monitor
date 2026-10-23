@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.goodnews1.com/news/articleView.html?idxno=465404",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610200814013040109279",
-  "https://econotimes.com/OpenAI-Says-ChatGPT-Ads-Now-Reach-89-Countries-After-Expansion-1759574",
-  "https://econotimes.com/OpenAI-Rolls-Out-Locked-Chats-With-PIN-Access-Across-ChatGPT-Plans-1759523",
-  "https://econotimes.com/OpenAI-Frontier-Models-Join-Google-Cloud-s-Model-Garden-in-Limited-Preview-1759489",
-  "https://www.cstimes.com/news/articleView.html?idxno=724836",
   "https://econotimes.com/OpenCode-Co-Founder-Says-OpenAI-Access-Helped-During-Attack-Investigation-1759470",
   "https://econotimes.com/Simons-Foundation-Announces-15-Million-in-Funding-and-Resources-for-Math-and-AI-1759463",
   "https://econotimes.com/OpenAI-Prices-12-Hour-Minimum-Prompt-Cache-Writes-at-2-5-Times-Base-Rate-1759449",
@@ -2999,15 +2993,15 @@
   "https://news.mtn.co.kr/article/2026102316110634105",
   "https://www.edaily.co.kr/News/Read?newsId=05812166645615872&mediaCodeNo=257",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610231706386720927",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1418030"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1418030",
+  "http://www.newstomato.com/ReadNews.aspx?no=1317857&inflow=N",
+  "https://www.newspim.com/news/view/20261023001207",
+  "http://www.popcornnews.net/news/articleView.html?idxno=137156",
+  "http://coinreaders.com/264895",
+  "https://www.hankyung.com/article/2026102317991",
+  "https://www.hankyung.com/article/2026102318001"
  ],
  "seen_titles": [
-  "팔로알토네트웍스,PHP취약점에2200만인스턴스노출경고…AI시대...",
-  "신작물량공세쏟아진다,'스팀넥스트페스트'속한국게임들",
-  "한화자산운용,美우주기업임펄스스페이스시리즈D1투자",
-  "현대홈쇼핑,스타트업5곳과AI·신사업실증…유통혁신속도낸다",
-  "\"로그인없이뚫린다\"PHP결함에전세계비상",
-  "[미리보는이데일리신문]세액공제빠진전기차…年2조아끼다車생태...",
   "AI가‘PHP’치명적결함확인…정부사이버위기‘주의’경보",
   "PHPPatchesTwoCriticalFlawsFoundThroughAI-AssistedResearch",
   "AT&TLegalEdgeHandlesNearly100MattersinItsFirstSixMonths",
@@ -6001,7 +5995,13 @@
   "미국지수·기업ETF출시봇물…MLCC투자상품격돌[ETF브리핑]",
   "법무법인동인,이성범前차장검사영입…기술유출대응강화",
   "‘해킹은폐’의혹질의에홍범식LG유플러스대표“사실이라면합당...",
-  "KT알파기프티쇼,나눠쓰는'통합포인트상품권'출시…5대카테고리..."
+  "KT알파기프티쇼,나눠쓰는'통합포인트상품권'출시…5대카테고리...",
+  "과기정통부종감…사이버위협·부실대응반복'도마'",
+  "[2026국감]종일프런티어AI공방…배경훈\"국가적인전략자산차원,반...",
+  "[2026국감]해킹증거인멸의혹LG유플러스,'보존미흡'사과에도위...",
+  "SK하이닉스,솔리다임IPO중단...중복상장논란끝나자주가반등",
+  "[단독]LG그룹,현대차로봇사업수장품었다",
+  "SK하이퍼,국내에463조규모…초대형AI데이터센터짓는다"
  ],
  "recent_sigs": [
   [
@@ -6499,9 +6499,21 @@
   [
    "2026-10-23T17:34:15.843706+09:00",
    "닷츠 관심 세계 높은 이용자 3위 AI에"
+  ],
+  [
+   "2026-10-23T17:44:16.152360+09:00",
+   "데이터센터 SK하이퍼 짓는다 국내에 463조 규모 초대형"
+  ],
+  [
+   "2026-10-23T17:44:16.152360+09:00",
+   "차원 국가적인 배경훈 전략자산 공방 프런티어AI 종일"
+  ],
+  [
+   "2026-10-23T17:44:16.152360+09:00",
+   "로봇사업 수장 현대차 LG그룹 품었다"
   ]
  ],
- "last_run": "2026-10-23T17:42:30.868551+09:00",
+ "last_run": "2026-10-23T17:44:39.743765+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
