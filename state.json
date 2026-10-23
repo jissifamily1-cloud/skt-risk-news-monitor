@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dongponews.net/news/articleView.html?idxno=61226",
-  "https://www.yna.co.kr/view/AKR20261022194051007?input=1195m",
-  "https://biz.heraldcorp.com/article/10911805",
-  "https://www.woodkorea.co.kr/news/articleView.html?idxno=92060",
-  "https://www.ulsanpress.net/news/articleView.html?idxno=585272",
-  "https://www.yna.co.kr/view/AKR20261022195200017?input=1195m",
-  "https://www.ziksir.com/news/articleView.html?idxno=150460",
   "http://www.joseilbo.com/news/news_read.php?uid=577982&class=33",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=90826",
   "https://www.munhwa.com/article/11625557",
@@ -2999,16 +2992,16 @@
   "http://www.osen.co.kr/article/G1112897241",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498027",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7190473",
-  "https://www.thebigdata.co.kr/view.php?ud=2026102314053818260ecbf9426b_23"
+  "https://www.thebigdata.co.kr/view.php?ud=2026102314053818260ecbf9426b_23",
+  "https://www.banronbodo.com/news/articleView.html?idxno=33226",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5031495",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498030",
+  "https://www.m-i.kr/news/articleView.html?idxno=2009698",
+  "https://www.yna.co.kr/view/AKR20261023125700002?input=1195m",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524092",
+  "https://www.yna.co.kr/view/AKR20261023052351004?input=1195m"
  ],
  "seen_titles": [
-  "InsightJoinsOpenAIPartnerNetwork,PlansOpenAICenterofExcellen",
-  "PHP취약점2건,인증없이서버장악가능…텐센트클라우드점검권고",
-  "세라젬,데이터브릭스와손잡고'AI웰니스홈'가속…건강데이터통합",
-  "SK텔레콤,국가별로밍연결제한하는무료서비스출시",
-  "KT,전국개방형양자테스트베드확대…무선실증거리15km로늘린다",
-  "\"19점복귀전\"유기상,LG연패끊고현대모비스제압",
-  "SKT,국내수학·AI연구진과독자AI모델추론성능강화",
   "‘이진숙가처분인용’놓고여야또충돌…“제척필요성인정”·“...",
   "여행플랫폼'놀'운영사해킹뚫렸다…이용자·임직원개인정보유출",
   "日대기업몽골초원화재에현지공분…\"통신망조사\"vs\"불법낚시\"",
@@ -6001,17 +5994,16 @@
   "KT스튜디오지니,장르물도잘하는데로맨스도맛집이네",
   "하나증권\"AI가속기커질수록기판은부족해진다…FC-BGA증설경쟁본...",
   "[국감2026]미래대응기금재원'또'입길…한은신현송\"금융망분리\"·...",
-  "SK하이닉스,솔리다임IPO중단…美신규팹자금조달과제로"
+  "SK하이닉스,솔리다임IPO중단…美신규팹자금조달과제로",
+  "[현장포토]2026한국광고주대회...'반가운만남,빛나는순간'",
+  "애플첫폴더블'아이폰듀오'초반흥행…스타화이트에예약수요집...",
+  "하나증권\"무선통신장비주반등대비\"…RFHIC·KMW등매수추천",
+  "외국인1조원가까이팔았지만...코스피0.30%반등[마감시황]",
+  "우리금융3분기누적순이익2조6천581억원…4.9%감소",
+  "[최경환의AI빛과그림자]당신의지갑은안녕하십니까?통장잔액도결...",
+  "'금융권해킹사건'경찰이계속맡아라…서울중수청수사안하기로(종합..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-23T09:44:15.177585+09:00",
-   "Duo 사전 출시 iPhone 인기 스타 512GB 화이트 예약서 ~SKT"
-  ],
-  [
-   "2026-10-23T09:44:15.177585+09:00",
-   "이재용 호남 미완 검증 빠진 국감 투자계획 반도체"
-  ],
   [
    "2026-10-23T09:46:13.727218+09:00",
    "36개월 할부 교체하러 공짜폰 불완전판매 ~LGU 유심 LG유플러스 갔다가"
@@ -6559,9 +6551,13 @@
   [
    "2026-10-23T15:38:18.099325+09:00",
    "미래 질문에 이젠 일한다 그린 AWS가 답하던 직접"
+  ],
+  [
+   "2026-10-23T15:44:17.038751+09:00",
+   "하나증권 KMW 매수 RFHIC 무선 추천 반등 대비 통신장비주"
   ]
  ],
- "last_run": "2026-10-23T15:42:31.120732+09:00",
+ "last_run": "2026-10-23T15:44:35.387129+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
