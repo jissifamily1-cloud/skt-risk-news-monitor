@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jemin.com/news/articleView.html?idxno=845102",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53897",
-  "https://www.newscj.com/news/articleView.html?idxno=3442478",
-  "https://www.mk.co.kr/article/12183354",
-  "http://www.inews24.com/view/2018104",
-  "https://www.newspim.com/news/view/20261022001415",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=91315",
-  "https://www.the-today.com/news/articleView.html?idxno=92230",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2308906",
   "https://www.ajunews.com/view/20261022194655647",
   "https://www.ajunews.com/view/20261022173858330",
@@ -2999,17 +2991,17 @@
   "https://www.newspim.com/news/view/20261023000810",
   "https://www.boannews.com/news/articleView.html?idxno=146708",
   "https://www.ddaily.co.kr/page/view/2026102314453155143",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4114316"
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4114316",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1014951",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230086&t=NN",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709527",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075245",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1020768",
+  "https://www.sedaily.com/article/20105385",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610230104&t=NN",
+  "https://www.etoday.co.kr/news/view/2639439"
  ],
  "seen_titles": [
-  "이훈기\"쿠팡납치광고,카카오브랜드메시지소비자불만커\"",
-  "앤트로픽,AI가먼저움직이는시대연다…'클로드듀엣'으로업무자동...",
-  "한화자산운용,미국우주기업임펄스스페이스에추가투자",
-  "[2026국감]\"해킹보상미흡하면개입\"…방미통위,이용자구제강화",
-  "전국법원전산망2시간마비풀려…“해킹무관”",
-  "[아이TV]'아이포럼2026'AI패권전쟁,새로운질서:AI3대강국,대한...",
-  "[인도증시]유가발인플레우려에투심악화,하락...인증서해킹경고...",
-  "이북도민도파주시민도아닌데…故노태우1810㎡파주호화묘역논란",
   "中쉬안청구취안변환소,연례정전점검및정비작업개시",
   "전국법원전산망2시간장애풀려…\"해킹과무관\"",
   "전국법원전산망장애2시간여만에복구…\"PHP해킹과무관\"",
@@ -6001,7 +5993,15 @@
   "웅진프리드·삼성생명협력에상조업계'지각변동'가속화",
   "\"국가핵심기술방산,개발만큼보안도중요\"...'2026AI기반방산기...",
   "AIDC떼어내는SKB…방미통위,법인분할변경허가심사착수",
-  "방미통위,YTN·연합TV재승인기간3개월단축추진"
+  "방미통위,YTN·연합TV재승인기간3개월단축추진",
+  "키움어쩌나,'전체1순위'박준현무릎부상…\"스트레칭하다무릎불편...",
+  "롯데에너지머티,적자탈출승부수…AI회로박가격올렸다",
+  "[국감2026]PHP취약점에우려확산…과기정통부\"범부처대응책곧마련...",
+  "[2026국감-과기정통부종감]정보보호제도적취약점부상…배경훈\"범...",
+  "[포토뉴스]KT다이렉트샵아이폰듀오256·512GB1분만에소진",
+  "SK하이퍼,3500억弗조달추진…日·대만AI수요韓에끌어모은다",
+  "한국메모리,일본소부장…AI공급망전쟁에한·일'동맹'가속",
+  "블랙스톤COO“AI수요따라잡기바빠”⋯거품론반박"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,21 @@
   [
    "2026-10-23T14:48:15.170349+09:00",
    "청문 취소 변경승인 이르면 개최 YTN 11월 최대주주"
+  ],
+  [
+   "2026-10-23T15:00:40.573176+09:00",
+   "끌어모은다 대만 3500억 수요 조달 SK하이퍼"
+  ],
+  [
+   "2026-10-23T15:00:40.573176+09:00",
+   "한국 메모리 가속 일본 동맹 전쟁에 공급망 소부장"
+  ],
+  [
+   "2026-10-23T15:00:40.573176+09:00",
+   "COO 바빠 반박 거품론 블랙스톤 따라잡기 수요"
   ]
  ],
- "last_run": "2026-10-23T14:58:36.635801+09:00",
+ "last_run": "2026-10-23T15:01:07.323144+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
