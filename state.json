@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediapen.com/news/view/1131813",
-  "https://www.m-i.kr/news/articleView.html?idxno=2009262",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3729674",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3729679",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3729689",
-  "https://www.eroun.net/news/articleView.html?idxno=93192",
-  "https://www.newsis.com/view/NISX20261022_0003837256",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8692559",
-  "https://www.betanews.net/article/view/beta202610220032",
   "https://www.newscj.com/news/articleView.html?idxno=3442379",
   "http://www.yonhapnewstv.co.kr/news/AKR20261022161916sT6",
   "https://news.jtbc.co.kr/article/NB12324363?influxDiv=NAVER",
@@ -2999,18 +2990,18 @@
   "https://www.hellot.net/news/article.html?no=115742",
   "https://biz.sbs.co.kr/article_hub/20000341734?division=NAVER",
   "https://it.chosun.com/news/articleView.html?idxno=2023092172633",
-  "https://www.news1.kr/it-science/cc-newmedia/6329507"
+  "https://www.news1.kr/it-science/cc-newmedia/6329507",
+  "https://www.yna.co.kr/view/AKR20261023030100003?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261023054800065?input=1195m",
+  "https://zdnet.co.kr/view/?no=20261023094229",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709473",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61568",
+  "https://www.etnews.com/20261022000291",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254125",
+  "https://www.newsis.com/view/NISX20261023_0003838144",
+  "https://www.dailian.co.kr/news/view/1705025/?sc=Naver"
  ],
  "seen_titles": [
-  "[단독]경찰,'연세대1만5,000명개인정보유출'내사착수",
-  "PHP보안결함에정부사이버위기‘주의’발령…대응나선보안업계",
-  "SKT,원치않는국가서로밍연결차단…'T로밍안심국가'출시",
-  "靑안보실,'PHP해킹위험'에…\"민·관·군원팀으로신속조치\"",
-  "계룡시·논산경찰서,차량번호자동판독으로체납차량집중단속...징수...",
-  "양명환유성구의원\"신계룡~신천안송전선로전면재검토해야\"",
-  "[동정]이응우계룡시장",
-  "대구북구청년창업기업,미국실리콘밸리에서글로벌경쟁력입증",
-  "\"美반도체는날았는데\"…삼성전자·SK하이닉스급락,外人선택엇갈려...",
   "청와대국가안보실,‘PHP보안취약점’민관군긴급회의",
   "SKT개인정보유출사고1년반…157만명,보호조치없이'유출유심'그...",
   "[천지TV쇼츠]\"너희들너무귀엽잖아!\"젠슨황과AI오리로봇",
@@ -6001,7 +5992,16 @@
   "에임인텔리전스,오픈AI와사이버보안협력확대발표",
   "삼성전기,엔비디아이어테슬라와도'AI기판설비구축'협력",
   "프랑켄슈타인의공포그리고AI사다리걷어차기[데스크칼럼]",
-  "\"청년에AX노하우전수\"…KT,K-뉴딜아카데미교육생배출"
+  "\"청년에AX노하우전수\"…KT,K-뉴딜아카데미교육생배출",
+  "급격한시장변동성에솔리다임IPO내려놓은SK하이닉스",
+  "인천시,'글로벌신약허브'선포…\"세계1위바이오도시실현\"",
+  "마이크로소프트,'의료초지능'개발속도…\"AI끼리협업해진단\"",
+  "우버,전세계직원3만명에챗GPT워크전면도입…개발자넘어전사로",
+  "브라질게임쇼2026,남미게임시장의저력을보여주다",
+  "“AI가추천하는화장품돼라”…K뷰티,GEO경쟁시동",
+  "SKT,23일'아이폰듀오'출시…사전예약256GB·512GB가60%,30대가가장...",
+  "재계,PHP해킹\"현재까지피해없어\"…보안패치·긴급대응반등'선제...",
+  "“오픈AI감시망에구멍…AI에이전트,인간몰래수백건행동숨겨”"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-10-23T10:30:34.374804+09:00",
    "그리고 공포 사다리 프랑켄슈타인의 걷어차기"
+  ],
+  [
+   "2026-10-23T10:32:14.728867+09:00",
+   "행동 수백 인간 몰래 에이전트 숨겨 구멍 감시망에"
   ]
  ],
- "last_run": "2026-10-23T10:31:01.329112+09:00",
+ "last_run": "2026-10-23T10:32:36.662441+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
