@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=93252",
-  "https://www.nocutnews.co.kr/news/6593931",
-  "https://www.ajunews.com/view/20261022172833288",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900308",
-  "https://www.newsis.com/view/NISX20261022_0003837444",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41176",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209005",
-  "https://www.ddaily.co.kr/page/view/2026102217311948078",
   "https://www.hankyung.com/article/2026102293811",
   "https://news.mtn.co.kr/article/2026102217284317410",
   "https://www.ilyosisa.co.kr/news/article.html?no=258402",
@@ -2999,17 +2991,17 @@
   "https://www.joongang.co.kr/article/25472252",
   "https://www.econovill.com/news/articleView.html?idxno=754649",
   "https://www.m-economynews.com/news/article.html?no=72032",
-  "https://www.munhwa.com/article/11625826"
+  "https://www.munhwa.com/article/11625826",
+  "https://dealsite.co.kr/articles/170976",
+  "https://www.bloter.net/news/articleView.html?idxno=676188",
+  "https://www.dailian.co.kr/news/view/1705285/?sc=Naver",
+  "https://www.boannews.com/news/articleView.html?idxno=146598",
+  "https://www.nspna.com/news/?newsid=832953",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450139",
+  "https://www.edaily.co.kr/News/Read?newsId=03873686645615872&mediaCodeNo=257",
+  "https://www.tokenpost.kr/news/breaking/426202"
  ],
  "seen_titles": [
-  "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?",
-  "‘보통사람’노태우550평초호화묘역유지에수억원…비용출처는?",
-  "전남광주통합특별시의회시민주권자치행정연구회,시동",
-  "프로야구LG장시환은퇴…현대유니콘스출신현역모두역사속으로",
-  "32세이건희,2억에인수한'한국반도체'…'영업익100조도약'이끌다",
-  "PHP이어오라클·노드JS도치명적보안결함…기업·기관보안업데이트...",
-  "콘솔·PC콘솔신작3종일제출격···독창적게임성앞세워'대격돌'",
-  "[AI×RMF워크숍]김승주고려대교수\"RMF·제로트러스트·사이버복원력...",
   "“코인거래소먹통,90분안에복구하라”…코인원,모의장애대응대...",
   "AI가발견한웹취약점…전세계온라인해킹'초비상'",
   "단종레·부동산·해킹·이자장사…금융국감이남긴숙제",
@@ -6001,7 +5993,15 @@
   "패치나오기나흘전부터공격…PHP허점이일깨운것들",
   "LG유플러스유심교체민원에최혁진의원\"본사점검필요\"",
   "배경훈“AI스마트안경불법촬영범부처대응”...해킹·정보유출대책...",
-  "중수청‘금융기관해킹수사안맡는다’잠정결론"
+  "중수청‘금융기관해킹수사안맡는다’잠정결론",
+  "[충정로에서]LG오너家소송전의본질",
+  "[박종면의물음표]SK최태원과델일가의주식거래",
+  "[2026국감]배경훈“임대형AI데이터센터세제혜택,재정당국과협...",
+  "[GlobalSecurityTOP100]정동섭휴네시온대표\"N2SF현장구축본격화...",
+  "토스뱅크,타행이체입금오류325억원금융사고…회수율77.6%",
+  "SK텔레콤자회사SK하이퍼,AI데이터센터구축위해빅테크와자금조달...",
+  "\"AI성과내는기업6%뿐\"…AWS가밝힌2027년'AX승자'의조건",
+  "CZ\"100%안전한지갑없다\"…PHP취약점·Railway해킹잇따라"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,17 @@
   [
    "2026-10-23T12:04:16.455626+09:00",
    "법인분할 변경허가 착수 심사 SKB"
+  ],
+  [
+   "2026-10-23T12:10:24.872946+09:00",
+   "승자 기업 성과 2027년 AX 조건 AWS가 밝힌 내는"
+  ],
+  [
+   "2026-10-23T12:10:24.872946+09:00",
+   "지갑 CZ 없다 PHP 취약점 Railway 안전한 잇따라"
   ]
  ],
- "last_run": "2026-10-23T12:08:31.696563+09:00",
+ "last_run": "2026-10-23T12:10:45.303389+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
