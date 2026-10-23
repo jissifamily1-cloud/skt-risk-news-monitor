@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/article/2026102216264161575",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172604",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003277800&CMPT_CD=P0010",
   "https://www.mk.co.kr/article/12183183",
   "https://www.nocutnews.co.kr/news/6595796",
   "http://www.osen.co.kr/article/G1112896669",
@@ -2999,12 +2996,12 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=875676",
   "https://www.ajunews.com/view/20261023124520906",
   "https://www.tfmedia.co.kr/news/article.html?no=208202",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145945"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=145945",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1728933",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7190422",
+  "https://www.ekn.kr/web/view.php?key=20261023025180293"
  ],
  "seen_titles": [
-  "엔비디아,로봇데이터수집비용125배낮추는모델'플로라'공개",
-  "삼성전기·LG이노텍,엔비디아와협력확대…AI공급망입지강화",
-  "간판바꾼방미통위첫국감도'맹탕'[국감2026]",
   "'최후의현대맨'장시환,'KT원클럽맨'문상철,정든그라운드떠난다",
   "글로벌해킹공포다시엄습…美보안주ETF'반등날개'",
   "마약·성매매못막는엑스…국감서\"접속금지검토\"요구",
@@ -6001,7 +5998,10 @@
   "[이슈국감]침해사고은폐의혹LGU+에'매우우수'…정부평가논란",
   "중진공,스타트업10개사일본시장진출지원...현지서G캠프운영",
   "앤트로픽상반기매출21.6조원에도손실은100조원넘어",
-  "앤트로픽,상반기매출15배늘었으나...100조원이상손실"
+  "앤트로픽,상반기매출15배늘었으나...100조원이상손실",
+  "'몸값2조달러'앤트로픽IPO앞두고찬바람…AI투자열풍식나",
+  "키움증권\"주식은예측아닌대응의영역…韓30배美증시봐야\"",
+  "한은노리는해킹시도증가…“뚫리면국가적재난”[2026국감]"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,13 @@
   [
    "2026-10-23T12:52:15.938916+09:00",
    "은폐 의혹 침해사고 매우 LGU ~LGU 우수 정부 논란 평가"
+  ],
+  [
+   "2026-10-23T12:56:15.137071+09:00",
+   "증가 뚫리면 시도 노리는 한은 재난 국가적"
   ]
  ],
- "last_run": "2026-10-23T12:54:35.226889+09:00",
+ "last_run": "2026-10-23T12:56:33.141946+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
