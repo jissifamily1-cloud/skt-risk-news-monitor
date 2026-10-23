@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260930152554",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703916",
-  "https://www.aitimes.com/news/articleView.html?idxno=215787",
-  "https://www.aitimes.com/news/articleView.html?idxno=215788",
-  "https://www.aitimes.com/news/articleView.html?idxno=215791",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703837",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703790",
-  "https://news.jtbc.co.kr/article/NB12320616?influxDiv=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703743",
   "https://zdnet.co.kr/view/?no=20260930072733",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703722",
   "https://www.aitimes.com/news/articleView.html?idxno=215779",
@@ -2999,18 +2990,18 @@
   "https://www.starnewskorea.com/sports/2026/10/23/2026102319143841963",
   "https://www.news1.kr/it-science/security-hacking/6330461",
   "https://www.ddaily.co.kr/page/view/2026102318435278133",
-  "https://biz.sbs.co.kr/article_hub/20000341792?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000341792?division=NAVER",
+  "http://www.osen.co.kr/article/G1112897389",
+  "http://www.osen.co.kr/article/G1112897392",
+  "http://www.osen.co.kr/article/G1112897390",
+  "http://www.osen.co.kr/article/G1112897393",
+  "http://www.osen.co.kr/article/G1112897387",
+  "http://www.osen.co.kr/article/G1112897388",
+  "https://www.starnewskorea.com/sports/2026/10/23/2026102319163953925",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610231907448640936",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=205452"
  ],
  "seen_titles": [
-  "노동력로봇으로대체기업,사회보장세(FICA)납부해야:빌게이츠",
-  "오픈AI·앤트로픽,재무부담가중에\"연내상장계획백지화\"",
-  "오픈AI,자체에이전트에'디시전스API'적용...아키텍처판도바뀐다",
-  "오픈AI'디시전스API',AI에이전트안전장치로주목",
-  "AI기기줄줄이실패했는데…메타·오픈AI가택한'반대전략'",
-  "[AI는지금]오픈AI\"중국문샷,GPT추론정보빼내려했다\"",
-  "트럼프·빅테크'AI안전협약'맺었지만…법적구속력없어실효성논란",
-  "오픈AI,빠른판단지원하는'디시전스API'선봬…소프트웨어자동화겨...",
-  "오픈AI,제브유사결정형API공개…에이전트행동분류",
   "오픈AI,‘상시근무AI’닷츠공개…시키지않아도업무찾아처리",
   "\"아스트라성능,1/5가격\"…오픈AI,일주일만에후속작",
   "2억달러AI펀드,댄아이브스비상장투자추진",
@@ -6001,7 +5992,16 @@
   "[포토]하윤기,절묘한미들슛",
   "정부사이트닫고15년된게임도종료…'PHP취약점'전세계초비상",
   "KT,르완다정부와분쟁…중재중5124억원반소당해",
-  "[이슈체크]솔리다임악재걷혔다…“60%폭락도버텼다”SK하이닉스,..."
+  "[이슈체크]솔리다임악재걷혔다…“60%폭락도버텼다”SK하이닉스,...",
+  "[사진]3점슛성공강상재,파울아니야?",
+  "[사진]알바노,완벽한레이업슛",
+  "[사진]선수들독려하는문경은감독",
+  "[사진]이유진,침착한레이업슛",
+  "[사진]정효즌,반드시넣는다",
+  "[사진]해먼즈,저리비켜",
+  "[포토]강성욱'알바노제쳤다'",
+  "SK하이퍼,AI데이터센터에463조조달착수",
+  "LG유플러스,'폰교체패스'로혁신상받아…카카오모빌리티,ITS세계총회..."
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-10-23T18:58:15.084494+09:00",
    "27만톤 광전환 ~KT 구리선 남았는데 의미"
+  ],
+  [
+   "2026-10-23T19:22:17.647940+09:00",
+   "받아 LG유플러스 ~LGU 폰교체패스 세계총회 혁신상 ITS 카카오모빌리티"
   ]
  ],
- "last_run": "2026-10-23T19:20:44.881514+09:00",
+ "last_run": "2026-10-23T19:22:36.670681+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
