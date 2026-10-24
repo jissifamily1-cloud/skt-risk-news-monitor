@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=752101",
-  "https://www.eroun.net/news/articleView.html?idxno=93248",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709421",
   "https://www.tjb.co.kr/news05/bodo/view/id/105205",
   "https://www.welfarenews.net/news/articleView.html?idxno=212333",
@@ -2999,11 +2997,11 @@
   "https://www.insight.co.kr/news/579020",
   "https://www.munhwa.com/article/11625906",
   "https://www.pressian.com/pages/articles/2026102413195663497",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3731396"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3731396",
+  "http://www.spochoo.com/news/articleView.html?idxno=131399",
+  "https://zdnet.co.kr/view/?no=20261024125723"
  ],
  "seen_titles": [
-  "KT,청년취업역량강화'K-뉴딜아카데미'1기수료식개최",
-  "서울중수청,'금융기관해킹사건'수사개시않기로가닥",
   "[단독-2]네트워크·보안기업태광네트웍정보,해킹·정보유출공식인...",
   "캡콤,6년만에또해킹…회원정보1177만건유출",
   "100억넘게벌었는데..'이혼'서인영\"혼전계약서못써땅을쳤다\"[종...",
@@ -6001,7 +5999,9 @@
   "대한항공·아시아나,고객정보유출확인...\"1년간무단접근\"",
   "[속보]“북한해킹조직라자루스,PHP약점활용사이버공격준비정황...",
   "국립중앙도서관핵심DB기술지원내년종료…교체예산은‘0원’",
-  "경제부터AI까지일상속배움…대전서구'서람이자치대학'마무리"
+  "경제부터AI까지일상속배움…대전서구'서람이자치대학'마무리",
+  "그러게마음을곱게썼어야지…우승반지로코치·직원우롱한챔피언...",
+  "개보위,대구'개인정보이노베이션존'본격운영"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-10-24T13:38:14.479716+09:00",
    "기간 14일 단축 6개월 구축 공개 컨테이너형 데이터센터"
+  ],
+  [
+   "2026-10-24T13:52:15.995887+09:00",
+   "이노베이션 본격 운영 개인정보 대구"
   ]
  ],
- "last_run": "2026-10-24T13:50:44.818748+09:00",
+ "last_run": "2026-10-24T13:52:35.616589+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
