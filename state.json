@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3730639",
-  "https://www.mk.co.kr/article/12184067",
   "https://www.mk.co.kr/article/12184070",
   "https://www.sisajournal.com/news/articleView.html?idxno=391486",
   "https://www.mk.co.kr/article/12184068",
@@ -2999,11 +2997,11 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=557760",
   "https://www.sedaily.com/article/20105682",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=875508",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709759"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709759",
+  "https://www.hankyung.com/article/202610231410i",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=601460"
  ],
  "seen_titles": [
-  "중수청,'금융기관AI해킹사건'수사착수않기로결정",
-  "野\"PHP해킹대응늑장\"…과기부\"20분만에보안공지\"반박",
   "'탑건'톰크루즈교관역톰스커릿별세-향년93살",
   "전남광주국가AI데이터센터활용한AI모델개발성과공유",
   "빅웨이브로보틱스,기술포럼개최",
@@ -6001,7 +5999,9 @@
   "노태우비자금수사확대…공소청,'김옥숙메모'등장이병기前청와대...",
   "“AI주말고딴거사라”보고서내더니만…정작기술주‘매수’한월...",
   "NNT,AI인용패턴리포트발간",
-  "공격자동화·대용량데이터분석까지...'해커AX'도급물살"
+  "공격자동화·대용량데이터분석까지...'해커AX'도급물살",
+  "인간해커도못찾던결함…AI가뚫자전세계웹사이트‘셧다운’[허...",
+  "'솔리다임IPO포기'고민커지는SK⋯천문학적자금조달어떻게"
  ],
  "recent_sigs": [
   [
@@ -6135,9 +6135,13 @@
   [
    "2026-10-25T08:26:17.574334+09:00",
    "분석까지 급물살 해커 AX 데이터 공격 대용량 자동화"
+  ],
+  [
+   "2026-10-25T08:30:31.252992+09:00",
+   "IPO 어떻게 SK 커지는 포기 고민 솔리다임 자금 천문학적 조달"
   ]
  ],
- "last_run": "2026-10-25T08:28:30.317860+09:00",
+ "last_run": "2026-10-25T08:30:55.860282+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
