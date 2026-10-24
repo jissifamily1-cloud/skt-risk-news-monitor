@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172629",
   "https://www.100ssd.co.kr/news/articleView.html?idxno=213767",
   "https://www.delighti.co.kr/news/articleView.html?idxno=123727",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709466",
@@ -2999,10 +2998,10 @@
   "http://www.knpnews.com/news/articleView.html?idxno=34732",
   "https://www.cstimes.com/news/articleView.html?idxno=725173",
   "https://econotimes.com/UK-Sets-165-Million-AI-Biosecurity-Plan-Ahead-of-Budget-1762340",
-  "https://www.etoday.co.kr/news/view/2639673"
+  "https://www.etoday.co.kr/news/view/2639673",
+  "https://www.aitimes.com/news/articleView.html?idxno=216616"
  ],
  "seen_titles": [
-  "LG유플러스,'폰교체패스'아시아고객경험혁신상…단말수리·보상절...",
   "KT,‘K-뉴딜아카데미1기’100여명수료...ICT·AX실무교육진행",
   "오픈AI,투자유치몸값1500억달러낮춰…1조2500억달러로조정",
   "[Telecom&Now]LGU+단말케어상품'폰교체패스',아시아고객경험혁...",
@@ -6001,7 +6000,8 @@
   "LG유플러스,해킹통보뒤서버재설치·폐기…'증거인멸의혹·부실대응...",
   "한국공학대,'5타석5홈런'KAIST배현민창업원장초청…AI시대창업전...",
   "UKSets£165MillionAIBiosecurityPlanAheadofBudget",
-  "프로농구삼성,구단최다개막7연승⋯SKㆍ소노도역전승"
+  "프로농구삼성,구단최다개막7연승⋯SKㆍ소노도역전승",
+  "오픈AI연구원3명해고,'순환추론'유출조사서비롯…시그널대화쟁..."
  ],
  "recent_sigs": [
   [
@@ -6091,9 +6091,13 @@
   [
    "2026-10-24T19:24:16.652088+09:00",
    "대만 근거로 판단 ~LGU LG유플러스 분석 서버 동기화"
+  ],
+  [
+   "2026-10-24T19:56:16.334616+09:00",
+   "3명 유출 추론 조사서 비롯 대화 순환 연구원 시그널 해고"
   ]
  ],
- "last_run": "2026-10-24T19:54:34.549936+09:00",
+ "last_run": "2026-10-24T19:56:37.813941+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
