@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261023085922",
-  "https://zdnet.co.kr/view/?no=20261023093952",
   "https://dealsite.co.kr/articles/171083",
   "https://www.widedaily.com/news/articleView.html?idxno=302250",
   "https://dealsite.co.kr/articles/171123",
@@ -2999,11 +2997,11 @@
   "https://www.yna.co.kr/view/AKR20261024035800005?input=1195m",
   "http://www.osen.co.kr/article/G1112897664",
   "https://www.topstarnews.net/news/articleView.html?idxno=16256658",
-  "https://www.pennmike.com/news/articleView.html?idxno=130212"
+  "https://www.pennmike.com/news/articleView.html?idxno=130212",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729030",
+  "https://www.hankyung.com/article/202610242500i"
  ],
  "seen_titles": [
-  "[르포]아이폰듀오출시전날낮부터대기줄…사전예약은1분만에마감",
-  "“AI혁명중심인데PER1배”…얼라인이지목한SK충격적저평가",
   "미지명아픔딛고韓홀드왕으로…日이다시본스기모토",
   "KIA가PO유리하다고하는데…김도영이매일게임체인저가될순없다,...",
   "6G포럼,국내산학연전문가교류회'네트워킹데이'진행",
@@ -6001,7 +5999,9 @@
   "1천300명홀린이자람입담과노래…흥겨운소리판이된대극장",
   "\"사상최초의일벌어졌다!'역수입'처음\"KBO홀드왕소프트뱅크육성...",
   "삼성전자·SK하이닉스주가왜급등락하나…AI반도체호황속5가지변...",
-  "[재계핫이슈]최태원의호남반도체속도전,제동걸리나…솔리다임후폭..."
+  "[재계핫이슈]최태원의호남반도체속도전,제동걸리나…솔리다임후폭...",
+  "\"내년증시주도주바뀐다\"…삼성전자·SK하이닉스이을시총3위는?",
+  "중국계AI해킹도구확산…韓日금융기관도공격받았다"
  ],
  "recent_sigs": [
   [
@@ -6119,9 +6119,13 @@
   [
    "2026-10-24T16:06:14.387973+09:00",
    "걸리나 최태원의 후폭 솔리다임 제동 호남반도체 속도전"
+  ],
+  [
+   "2026-10-24T16:10:24.373892+09:00",
+   "도구 확산 금융기관도 중국계 공격받았다"
   ]
  ],
- "last_run": "2026-10-24T16:08:30.807654+09:00",
+ "last_run": "2026-10-24T16:10:42.350162+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
