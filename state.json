@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12183866",
-  "http://www.kjdaily.com/article.php?aid=1792717991690059227",
-  "https://www.hidomin.com/news/articleView.html?idxno=726178",
-  "https://www.yna.co.kr/view/AKR20261022149000530?input=1195m",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497872",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=210150",
-  "https://www.kmib.co.kr/article/20261023500072",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483699",
   "https://www.the-stock.kr/news/articleView.html?idxno=33627",
   "https://www.newdaily.co.kr/site/data/html/2026/10/23/2026102300062.html",
@@ -2999,16 +2992,16 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3731111",
   "https://www.aitimes.com/news/articleView.html?idxno=216608",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=875901",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/24/2026102490068.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/24/2026102490068.html",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079745",
+  "http://www.atstar1.com/news/articleView.html?idxno=6039867",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3731161",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3731127",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3731157",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3731160",
+  "https://econotimes.com/PHP-Patched-Two-Critical-Flaws-Amid-AI-Research-and-Exploit-Attempts-1762222"
  ],
  "seen_titles": [
-  "아세테크·오믈렛,PhysicalAI물류사업화위한업무협약체결",
-  "[특징주]모니터랩,PHP보안위협상승에장초반급등세",
-  "김종철방미통위원장\"해킹피해보상미흡할시방미통위관여\"",
-  "아마존보안책임자\"PHP취약점발견나흘전부터해킹시도흔적나와...",
-  "[JB프리뷰]5경기연속실점치솟은KT,DB의속공잠재울수있을까",
-  "한국에좌절안겼던일본투수,NPB입성…라쿠텐3라운드지명",
-  "\"달리는차에서레이저사격을\"…MINI코리아,영종도팬축제티켓오픈",
   "[붓다,AI윤리에답하다]20.AI에잔인해도되는가",
   "'탑건'톰크루즈스승男배우,93세로별세…\"깊은슬픔과비통함\"[MH...",
   "앤트로픽,매출45%폭풍상승...에릭슈미트\"AI는거품아니다\"",
@@ -6001,7 +5994,14 @@
   "\"국방기관유치부터고속도로까지\"…박수현지사,계룡발전논의",
   "구글클라우드,에이전트전용'컴퓨팅엔진'출시…마이크로VM으로보...",
   "\"자체AI가보안망뚫었다\"…오픈AI,몸값마저1500억달러하향",
-  "대한항공고객예약번호유출…\"협력사해킹피해\""
+  "대한항공고객예약번호유출…\"협력사해킹피해\"",
+  "[포토]SKT서울대KAIST손잡고수학난제도전",
+  "서인영,재혼할땐혼전계약서쓰나…\"초혼때못써,이혼위자료못받...",
+  "공주시-카카오,'곳곳산책공주'프로젝트시민호응속진행",
+  "충남서부보훈지청,서산서보훈가족맞춤형복지행사개최",
+  "예산군,26일농업기술원서청년농업인정책설명회개최",
+  "충남안면도소나무림,산림유전자원보호구역10선에선정",
+  "PHPPatchedTwoCriticalFlawsAmidAIResearchandExploitAttempts"
  ],
  "recent_sigs": [
   [
@@ -6121,7 +6121,7 @@
    "유출 고객 피해 예약번호 협력사 대한항공"
   ]
  ],
- "last_run": "2026-10-24T17:32:39.888041+09:00",
+ "last_run": "2026-10-24T17:34:33.770959+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
