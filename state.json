@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026102309134392785",
-  "https://biz.chosun.com/policy/politics/president_office/2026/10/23/BANUIXBUA5HSFPY6YKEYL7U7O4/",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=766611",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=86501",
   "https://www.yna.co.kr/view/AKR20261021146951530?input=1195m",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708969",
   "https://www.smartbizn.com/news/articleView.html?idxno=157309",
@@ -2999,13 +2995,13 @@
   "https://www.mediapen.com/news/view/1132079",
   "https://www.hankyung.com/article/202610242294i",
   "https://www.ikbc.co.kr/article/view/kbc202610240010",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=53933"
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=53933",
+  "https://www.inthenews.co.kr/news/article.html?no=93406",
+  "https://www.yna.co.kr/view/AKR20261024019600017?input=1195m",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54489",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=86564"
  ],
  "seen_titles": [
-  "대한항공'제1회K-FDM세미나'개최·지자체연계UAM실증성공",
-  "중진공,스타트업일본진출지원확대…G-캠프일본과정운영",
-  "美반도체주급락·유가상승에…코스피장초반5400선붕괴",
-  "래블업,신한DS에AI소프트웨어공급",
   "SKT,첫폴더블폰'아이폰듀오'출시…\"1차예약1분만에완판\"",
   "LG유플러스'폰교체패스',아시아혁신상수상…단말케어편의성인정",
   "LG유플러스,아이폰듀오정식출시…구매혜택·체험공간확대",
@@ -6001,7 +5997,11 @@
   "[AI자본전쟁⑤]돈줄막히면엔비디아·HBM도흔들리나",
   "AI해킹공격‘분당100만회’…“고치기도전에또뚫린다”",
   "'무인로보택시'2028년광주누빈다...정부,규제대폭해제",
-  "뉴욕증시,유가급등에일제히하락…다우1.2%↓"
+  "뉴욕증시,유가급등에일제히하락…다우1.2%↓",
+  "네이버-한국도로공사,교통안전데이터공유협의체구성업무협약체결",
+  "북한해킹조직라자루스,PHP취약점악용해공격준비정황",
+  "\"AI發본격적인감원,경기침체때나타날것\"",
+  "[오늘일본은]日대형택배회사해킹…고객개인정보최대5323만건유..."
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,17 @@
   [
    "2026-10-24T09:36:14.262260+09:00",
    "분당 고치기도 전에 공격 100만 뚫린다"
+  ],
+  [
+   "2026-10-24T09:48:16.806283+09:00",
+   "경기침체 본격적인 감원 나타날"
+  ],
+  [
+   "2026-10-24T09:48:16.806283+09:00",
+   "택배회사 개인정보 대형 고객 5323만"
   ]
  ],
- "last_run": "2026-10-24T09:46:31.782284+09:00",
+ "last_run": "2026-10-24T09:48:41.310866+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
