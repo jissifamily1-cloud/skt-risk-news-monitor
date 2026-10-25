@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3731154",
-  "https://www.wflower.info/news/article.html?no=12473",
-  "http://www.kjdaily.com/article.php?aid=1792640832689933276",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=312375",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390276.html",
   "https://m.sports.naver.com/general/article/065/0000303359",
   "https://www.kwnews.co.kr/article/20261023500337",
   "https://basketkorea.com/news/newsview.php?ncode=1065617757703583",
@@ -2999,14 +2994,14 @@
   "https://www.dailysecu.com/news/articleView.html?idxno=209040",
   "http://www.fieldnews.kr/news/articleView.html?idxno=32513",
   "https://www.g-enews.com/view.php?ud=20261026075929380c8c1c064d_1",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498294"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498294",
+  "https://www.kmib.co.kr/article/20261026500037",
+  "https://www.newspim.com/news/view/20261026000056",
+  "http://www.press9.kr/news/articleView.html?idxno=84853",
+  "https://platum.kr/archives/296795",
+  "https://www.the-today.com/news/articleView.html?idxno=92391"
  ],
  "seen_titles": [
-  "“부딪치는게무서웠다”김보배의고백,트라우마딛고쐐기덩크슛",
-  "대한항공·아시아나개인정보유출...\"협력사해킹피해\"",
-  "대한항공·아시아나항공,고객정보유출…협력사해킹피해",
-  "청양군,시민참여교육마무리…군민공동체역량키웠다",
-  "[교육돋보기]중부여성새일센터AX융합전문인력",
   "SK하이닉스·삼성전자거래반토막…비중40%대로",
   "대한항공,수탁사통보즉시'안전조치'…\"보호강화요구\"",
   "'세대관통한안목'74세이수만…신인걸그룹데뷔하자마자'돌풍'",
@@ -6001,7 +5996,12 @@
   "[CISO보안칼럼]해킹은첨단을달리고있는데,문서로대응하는금융권...",
   "정명근화성시장,반도체·AI이어우주항공육성…전문가60명추진단...",
   "\"AI모델만들어도돈안되면무용지물\"…中빅테크,'현장엔지니어...",
-  "AI가경제살린다더니…아폴로수석이코노미스트가짚은냉정한현실"
+  "AI가경제살린다더니…아폴로수석이코노미스트가짚은냉정한현실",
+  "“M7제외미국S&P493기업들,‘AI생산성’없다…無수익”",
+  "[미국특징주]머스크\"네오클라우드?도태수순...인수관심없다\"",
+  "삼성·SK하이닉스,2년간영업익1571조…슈퍼사이클기대-KB증권",
+  "AI버블론속에서이익내는학습데이터공급사,플리토의수익구조",
+  "[투데이온]삼성전자,튀르키예1위통신사와'5G동맹'연장…65만대공..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,21 @@
   [
    "2026-10-26T08:04:14.965018+09:00",
    "문서로 달리고 해킹은 첨단을 금융권 있는데 대응하는"
+  ],
+  [
+   "2026-10-26T08:08:16.107614+09:00",
+   "수익 학습 속에서 플리토의 버블론 내는 이익 데이터 구조 공급사"
+  ],
+  [
+   "2026-10-26T08:08:16.107614+09:00",
+   "연장 5G 통신사와 65만대 튀르키예 1위 삼성전자 동맹"
+  ],
+  [
+   "2026-10-26T08:08:16.107614+09:00",
+   "SK하이닉스 영업익 슈퍼사이클 기대 KB증권 1571조 2년간 삼성"
   ]
  ],
- "last_run": "2026-10-26T08:06:34.467945+09:00",
+ "last_run": "2026-10-26T08:08:39.809467+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
