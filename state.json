@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4114305",
   "https://www.gukjenews.com/news/articleView.html?idxno=3730771",
   "https://www.gukjenews.com/news/articleView.html?idxno=3730772",
   "https://www.hani.co.kr/arti/economy/it/1283850.html",
@@ -2999,10 +2998,10 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092172726",
   "https://www.seoul.co.kr/news/society/2026/10/23/20261023500165?wlog_tag3=naver",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261025010008323",
-  "https://www.mk.co.kr/article/12184127"
+  "https://www.mk.co.kr/article/12184127",
+  "https://www.sedaily.com/article/20105708"
  ],
  "seen_titles": [
-  "\"스페이스X,기지국8만곳확보추진…美이동통신3사에도전장\"",
   "SK하이닉스,솔리다임IPO중단에2%대반등…중복상장우려완화",
   "통신3사‘아이폰듀오’개통시작…KT·SKT일부사전예약물량1분만...",
   "KT‘아이폰듀오’국내판매시작…다이렉트샵1·2차전용량소진",
@@ -6001,7 +6000,8 @@
   "앤트로픽,50명이상사망위험시AI배포중단법안제시",
   "중앙공소청,‘노태우비자금의혹’이병기전청와대의전비서관참고...",
   "인천시,글로벌AI바이오신약허브비전선포",
-  "“이제성과내야할시기”…AWS,내년AI키워드로‘거버넌스·성과’..."
+  "“이제성과내야할시기”…AWS,내년AI키워드로‘거버넌스·성과’...",
+  "해킹피해확산에도범인못잡아…랜섬웨어수사절반이상중지"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,13 @@
   [
    "2026-10-25T10:30:31.143140+09:00",
    "데이터센터 인프라 시험대 경고 지연에 젠슨 엔스케일 확충"
+  ],
+  [
+   "2026-10-25T10:46:15.598856+09:00",
+   "범인 수사 이상 잡아 중지 피해 랜섬웨어 확산에도 절반"
   ]
  ],
- "last_run": "2026-10-25T10:44:36.558005+09:00",
+ "last_run": "2026-10-25T10:46:39.395339+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
