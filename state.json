@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspost.kr/news/articleView.html?idxno=226665",
-  "https://www.sisajournal.com/news/articleView.html?idxno=391160",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709610",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2483893",
-  "https://www.joongangenews.com/news/articleView.html?idxno=557650",
   "https://www.the-today.com/news/articleView.html?idxno=92310",
   "http://www.osen.co.kr/article/G1112897262",
   "https://www.mk.co.kr/article/12184232",
@@ -2999,14 +2994,14 @@
   "https://www.hani.co.kr/arti/international/china/1284040.html",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261025010008407",
   "http://www.tvdaily.co.kr/read.php3?aid=17929127301806843002",
-  "https://www.kbsm.net/news/view.php?idx=538963"
+  "https://www.kbsm.net/news/view.php?idx=538963",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875698",
+  "https://www.newscj.com/news/articleView.html?idxno=3442916",
+  "https://view.asiae.co.kr/article/2026102317135210904",
+  "https://www.dt.co.kr/article/12091105",
+  "http://www.metroseoul.co.kr/article/20261025500239"
  ],
  "seen_titles": [
-  "코스피장막판반등…5500선사수",
-  "우리금융,3분기누적순익2조7459억원…전년비4.9%↓",
-  "역대급실적삼킨'보안참사'…5대은행장연임에'적신호'",
-  "[국감2026]LGU+홍범식\"해킹은폐확인되면합당한책임\"…위약금면제...",
-  "[2026국감]범정부보안체계손본다···배경훈부총리\"해킹종합대책...",
   "KT,청년100명실무역량키웠다…'K-뉴딜아카데미'1기수료",
   "中1~3분기신규철도1625㎞개통…교통망한층촘촘",
   "'5년연구의결실'…크래프톤,자체개발LLM‘라온-1미니’공개",
@@ -6001,7 +5996,12 @@
   "중전문가들,김정은단둥방문은“북·중경제관계긴밀해지는흐름”",
   "삼성·SK하이닉스,3분기영업익184조전망…HBM4·메모리가견인",
   "\"연이자3911%요구하며협박\"...장동주,불법대부업자형사고소",
-  "개인정보유출사건175건,1년넘게'조사중'…대형사건쏠림원인"
+  "개인정보유출사건175건,1년넘게'조사중'…대형사건쏠림원인",
+  "슈나이더일렉트릭,모듈형전력솔루션공개",
+  "내년산업별희비교차…반도체웃고車·조선·석화는부담",
+  "[AI세계속으로]메타기대·우려공존…앤스로픽IPO에쏠린눈",
+  "中오픈웨이트AI의딜레마…문샷AI,키미해킹능력낮췄다",
+  "[2026에너지포럼]메가프로젝트전력·열공급과제…SK이노베이션역..."
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,21 @@
   [
    "2026-10-25T16:22:17.584209+09:00",
    "대형사건 175건 개인정보 1년 넘게 원인 쏠림 조사중 유출사건"
+  ],
+  [
+   "2026-10-25T16:24:15.272882+09:00",
+   "공급 SK이노베이션 과제 전력 메가프로젝트"
+  ],
+  [
+   "2026-10-25T16:24:15.272882+09:00",
+   "우려 쏠린 메타 IPO에 기대 공존"
+  ],
+  [
+   "2026-10-25T16:24:15.272882+09:00",
+   "키미 능력 문샷AI 오픈웨이트 낮췄다 AI의 딜레마"
   ]
  ],
- "last_run": "2026-10-25T16:22:34.845279+09:00",
+ "last_run": "2026-10-25T16:24:43.851422+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
