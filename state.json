@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/10/19/2026101917485667485",
-  "http://www.finomy.com/news/articleView.html?idxno=263957",
   "https://www.newsway.co.kr/news/view?ud=2026101915590191389",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=281238",
   "https://www.dailian.co.kr/news/view/1703278/?sc=Naver",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/it-science/mobile/6331314",
   "https://view.asiae.co.kr/article/2026102608243816003",
   "https://www.newsis.com/view/NISX20261026_0003840386",
-  "https://view.asiae.co.kr/article/2026102608291456520"
+  "https://view.asiae.co.kr/article/2026102608291456520",
+  "https://www.newspim.com/news/view/20261026000061",
+  "https://www.viva100.com/article/20261026500024"
  ],
  "seen_titles": [
-  "카카오만문제인가…시민단체,통신사광고문자도조사요구",
-  "SK브로드밴드,여행·미식·시니어예능3편순차편성",
   "[텔코NOW]SK브로드밴드",
   "SK브로드밴드,여행·미식·시니어예능3편선보인다",
   "SK브로드밴드,여행·미식·시니어예능3편가을안방공략",
@@ -6001,7 +5999,9 @@
   "삼성전자,첫클립형이어폰'갤럭시버즈온'출시…29만9000원",
   "플래티어,폐쇄망대응테스트관리솔루션출시",
   "귀안막고듣는삼성첫클립형이어폰…'갤럭시버즈온'27일출시",
-  "삼성화재,AI영업지원시스템'AI어드바이저'오픈"
+  "삼성화재,AI영업지원시스템'AI어드바이저'오픈",
+  "[월가콜]투자의견·목표가상향...골드만·P&G·얼리전(10/23~25)",
+  "롯데계열기프티엘해킹…고객정보유출에2차피해우려"
  ],
  "recent_sigs": [
   [
@@ -6247,9 +6247,17 @@
   [
    "2026-10-26T08:26:15.650198+09:00",
    "공급난 능력 제한 기술 경쟁 한계 반도체"
+  ],
+  [
+   "2026-10-26T08:34:15.308610+09:00",
+   "투자의견 골드만 얼리전 목표가 상향"
+  ],
+  [
+   "2026-10-26T08:34:15.308610+09:00",
+   "유출에 계열 피해 기프티엘 롯데 우려 고객정보 2차"
   ]
  ],
- "last_run": "2026-10-26T08:32:34.039590+09:00",
+ "last_run": "2026-10-26T08:34:39.531624+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
