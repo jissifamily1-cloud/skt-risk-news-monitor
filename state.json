@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261023_0003838448",
-  "https://www.newsis.com/view/NISI20261023_0021501824",
-  "https://www.newsis.com/view/NISX20261023_0003838851",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709570",
   "http://www.srtimes.kr/news/articleView.html?idxno=215454",
   "https://biz.chosun.com/it-science/ict/2026/10/23/N7YWSEWK4ZBVXBGBVZUN6VTONY/",
@@ -2999,12 +2996,12 @@
   "https://www.news2day.co.kr/article/20261025500028",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038737",
   "https://www.hankookilbo.com/news/article/A2026102514100003624?did=NA",
-  "https://econotimes.com/OpenAI-Review-Finds-Brotli-Flaw-With-CVSS-v4-0-Score-of-9-2-1762828"
+  "https://econotimes.com/OpenAI-Review-Finds-Brotli-Flaw-With-CVSS-v4-0-Score-of-9-2-1762828",
+  "https://www.etnews.com/20261023000244",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209046",
+  "https://www.busan.com/view/busan/view.php?code=2026102514112263748"
  ],
  "seen_titles": [
-  "젠슨황\"AI클라우드수요급증\"…막대한투자비용은업계의과제",
-  "오픈AI,'AI안전'목소리낸연구원3명해고…기밀유출의혹공방",
-  "국정감사출석한LG유플러스대표이사",
   "[전남광주소식]산이농협박준홍,베스트캠페인전국2위등",
   "[국감2026]한은보안허점도마위…디지털화폐안전성도쟁점",
   "홍범식LG유플러스대표,두번째국감출석…서버폐기의혹풀까",
@@ -6001,7 +5998,10 @@
   "中전자자료요구에K방산'보안경계령'…출장땐임대폰쓴다",
   "[인천아카데미등대]인공지능불복종",
   "'펜싱간판'구본길,25년선수생활은퇴선언...\"행복한시간이었다\"",
-  "OpenAIReviewFindsBrotliFlawWithCVSSv4.0Scoreof9.2"
+  "OpenAIReviewFindsBrotliFlawWithCVSSv4.0Scoreof9.2",
+  "네이블,산업용5G넘어'AI인프라'시장공략…반도체·철도·금융레...",
+  "최윤성경기대교수\"AI공급망보안,사람의문서검증에서기계기반...",
+  "PHP결함노린해킹모의…北라자루스연계의심"
  ],
  "recent_sigs": [
   [
@@ -6241,7 +6241,7 @@
    "Score of Flaw Brotli v4 With Finds CVSS Review"
   ]
  ],
- "last_run": "2026-10-25T14:22:37.852238+09:00",
+ "last_run": "2026-10-25T14:24:36.227337+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
