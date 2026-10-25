@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202610231533015045",
   "https://www.segye.com/newsView/20261023511568?OutUrl=naver",
   "https://www.ytn.co.kr/_ln/0103_202610231545235909",
   "https://www.khan.co.kr/article/202610231544001",
@@ -2999,10 +2998,10 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3731886",
   "http://www.metroseoul.co.kr/article/20261025500201",
   "http://www.newstomato.com/ReadNews.aspx?no=1317898&inflow=N",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16257370"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16257370",
+  "https://www.ajunews.com/view/20261022082151804"
  ],
  "seen_titles": [
-  "서울중수청,금융기관AI해킹사건수사안한다…“경찰서상당부분...",
   "서울중수청,금융기관AI해킹사건'수사불개시'...경찰에통보",
   "[속보]서울중수청“금융기관AI해킹사건,경찰서계속수사해야”",
   "서울중수청,'금융기관AI해킹'수사불개시통보",
@@ -6001,17 +6000,10 @@
   "국립창원대남해캠퍼스,'2026남해를품은정원Festival정원마실'개...",
   "英,AI바이오안보연구소설립…오픈AI·앤트로픽,모델·컴퓨팅제공",
   "이재용취임4년…삼성전자‘재도약’",
-  "PHP2Shell해킹비상…보안패치해도남는새취약점발견"
+  "PHP2Shell해킹비상…보안패치해도남는새취약점발견",
+  "日대기업몽골초원화재에현지공분…\"통신망조사\"vs\"불법낚시\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-25T09:18:15.456170+09:00",
-   "주52시간 시행령 입법 대신 개정 무산되나 반도체 법제화"
-  ],
-  [
-   "2026-10-25T09:18:15.456170+09:00",
-   "금리 10년물 밑으로 다시 만에 미국 3년 낙폭 7개월"
-  ],
   [
    "2026-10-25T09:22:13.951848+09:00",
    "은행권 PHP 막강 나선 방어막 구축 악재까지 사태에"
@@ -6209,7 +6201,7 @@
    "PHP2Shell 보안 비상 취약점 패치해도 발견 남는"
   ]
  ],
- "last_run": "2026-10-25T15:16:36.732942+09:00",
+ "last_run": "2026-10-25T15:18:32.352989+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
