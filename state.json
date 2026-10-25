@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1705488/?sc=Naver",
-  "https://www.donga.com/news/Economy/article/all/20261023/134897168/2",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=50951",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323439",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254148",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=715753",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=282281",
   "https://www.m-i.kr/news/articleView.html?idxno=2009715",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=323442",
   "https://www.tjb.co.kr/news05/bodo/view/id/105227",
@@ -2999,16 +2992,16 @@
   "https://www.khan.co.kr/article/202610251648001",
   "https://www.newsis.com/view/NISX20261025_0003840018",
   "https://www.yeongnam.com/web/view.php?key=20261025022216579",
-  "https://www.suwonilbo.kr/view.html?id=L261025164004c33c"
+  "https://www.suwonilbo.kr/view.html?id=L261025164004c33c",
+  "http://www.stoo.com/article.php?aid=109540612375",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=128977",
+  "https://basketkorea.com/news/newsview.php?ncode=1065599457595788",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16257407",
+  "https://www.aitimes.com/news/articleView.html?idxno=216625",
+  "https://news.tf.co.kr/read/economy/2380444.htm",
+  "https://www.sedaily.com/article/20105786"
  ],
  "seen_titles": [
-  "금융사해킹사건경찰이계속수사한다…\"수사상당부분진행\"",
-  "[2026국감]한준호“LG유플러스,해킹증거보존미흡…피해규명맹점...",
-  "주차장·물류·통신망운영AI전환가속화",
-  "홍범식LGU+대표,국감서도'위약금면제'말아껴…여야의원,한목소...",
-  "우리금융,3분기순익1조492억원…전년比15.7%↓",
-  "우리금융,3분기순이익1조492억원…그룹출범후처음두분기연속...",
-  "SKT·카카오·KT,국책사업속'AI생태계'선점수싸움",
   "[국감2026]홍범식LG유플대표\"해킹사고,정부지침에합당한책임...",
   "SK브로드밴드AIDC분할심사착수…방송사업재정기반점검",
   "\"막연했던진로가구체화\"…KT'K-뉴딜아카데미'1기수료",
@@ -6001,7 +5994,14 @@
   "AI가보안취약점찾아내지만무단이탈도…PHP사건은서막일뿐?",
   "프로농구SK·DB,나란히3연승질주…KT는5연패수렁",
   "PO1차전우천취소…삼성라이온즈,‘구자욱활약’희망속‘김재윤...",
-  "진범은구글압축기술이었다…Node.js구멍,웹전체'HTTP2Shell'로번져"
+  "진범은구글압축기술이었다…Node.js구멍,웹전체'HTTP2Shell'로번져",
+  "'워니25점'SK,KT5연패몰아넣고2위도약…DB는정관장꺾고3연승",
+  "\"슛버릴만큼내돌파가무섭구나?\"보법이다른에디다니엘의멘탈",
+  "[BK플레이어]‘에이스스토퍼’로성장하는에디다니엘,“다음에는...",
+  "\"알바노·해먼즈59점폭발\"원주DB,정관장원정서3연승질주",
+  "엔비디아,로컬에이전트·로봇겨냥4GB모델'네모트론3.5볼트'출시",
+  "롯데모바일쿠폰발행사'기프티엘'해킹…\"보안조치강화\"",
+  "‘금융권해킹’돌고돌아다시경찰로…“중수청,사건골라받나”..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,17 @@
   [
    "2026-10-25T16:46:16.399618+09:00",
    "빅테크도 능력 낮춰 두렵다 공격"
+  ],
+  [
+   "2026-10-25T16:54:15.487828+09:00",
+   "로컬 모델 네모트론 에이전트 4GB 볼트 로봇 겨냥 출시"
+  ],
+  [
+   "2026-10-25T16:54:15.487828+09:00",
+   "돌아 받나 골라 돌고 다시 경찰로 사건 금융권 중수청"
   ]
  ],
- "last_run": "2026-10-25T16:52:35.124687+09:00",
+ "last_run": "2026-10-25T16:54:42.186122+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
