@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=752216",
-  "https://www.kmib.co.kr/article/20261024500028",
-  "https://www.seoulfn.com/news/articleView.html?idxno=640630",
-  "https://view.asiae.co.kr/article/2026102410360735008",
-  "https://www.sedaily.com/article/20105609",
-  "https://www.g-enews.com/view.php?ud=202610241037061653fbbec65dfb_1",
   "https://www.news1.kr/world/usa-canada/6330607",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601456",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592304604892",
@@ -2999,15 +2993,15 @@
   "https://imnews.imbc.com/replay/2026/nw1200/article/6860723_36967.html",
   "https://www.mydaily.co.kr/page/view/2026102612160351880",
   "https://www.mydaily.co.kr/page/view/2026102611435042328",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107453"
+  "http://www.00news.co.kr/news/articleView.html?idxno=107453",
+  "https://www.newspim.com/news/view/20261026000535",
+  "https://www.sedaily.com/article/20106082",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814971&plink=ORI&cooper=NAVER",
+  "https://www.veritas-a.com/news/articleView.html?idxno=633452",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/26/2026102600150.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695131"
  ],
  "seen_titles": [
-  "청소기,건조기다아니었다...이사하면사고싶은가전1위는바로'이...",
-  "북한해킹조직라자루스,PHP악용'사이버공격'준비정황",
-  "AdityaBirlaRealEstateLimitedSees₹16.5BillioninTotalProjectRe",
-  "대한항공·아시아나고객정보유출…예약·발권맡긴아마데우스서비인...",
-  "최태원회장\"한일경제공동체구축하자\"…거대한청사진,넘어야할과...",
-  "[해외시황]뉴욕증시,중동긴장·국제유가급등에'하락'…나스닥0.21%...",
   "‘PHP취약점’악용…北라자루스,대규모공격준비정황",
   "[기자수첩]해킹부르는'보안불감증'",
   "北해킹조직라자루스,전세계사이버공격준비정황포착",
@@ -6001,7 +5995,13 @@
   "AI해킹820만건탈취‥잡고보니IT비전공자",
   "“AI에이전트도책임관리”…SKT,거버넌스체계공개",
   "'문동주·유희관등전현직선수총출동'김태균야구캠프,유소년52명...",
-  "선관위특검,올림픽공원투표지247만장검증"
+  "선관위특검,올림픽공원투표지247만장검증",
+  "글로벌투자기관,A주변동성에도中AI·반도체기술주낙관",
+  "전공자도아닌데AI로개인정보820만건유출…“우습게보지말라”기...",
+  "AI로개인정보820만건유출…3억6천요구일당검거",
+  "태재대학교'2026태재미래교육포럼'개최..'OpenAI/도쿄대/듀크대등참...",
+  "AI로업체90곳해킹해개인정보820만건탈취…32세총책구속송치",
+  "AI로업체90곳뚫어개인정보탈취·금품협박해킹일당검거"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-10-26T12:16:15.541351+09:00",
    "비전공자 IT 탈취 820만 잡고보니"
+  ],
+  [
+   "2026-10-26T12:20:23.743912+09:00",
+   "듀크대 개최 도쿄대 태재대학교 태재미래교육포럼"
   ]
  ],
- "last_run": "2026-10-26T12:18:32.167039+09:00",
+ "last_run": "2026-10-26T12:20:45.389530+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
