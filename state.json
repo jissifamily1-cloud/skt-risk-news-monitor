@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875855",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172524",
-  "https://www.kyeonggi.com/article/20261024580021",
-  "https://www.slist.kr/news/articleView.html?idxno=776012",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8694230",
   "https://www.segye.com/newsView/20261022514204?OutUrl=naver",
   "https://www.sedaily.com/article/20105506",
@@ -2999,13 +2995,13 @@
   "https://biz.heraldcorp.com/article/10914754",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=366717",
   "https://www.boannews.com/news/articleView.html?idxno=146742",
-  "https://biz.heraldcorp.com/article/10914756"
+  "https://biz.heraldcorp.com/article/10914756",
+  "https://www.bntnews.co.kr/article/view/bnt202610260238",
+  "http://www.kbiznews.co.kr/news/articleView.html?idxno=115051",
+  "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600128.html",
+  "https://www.munhwa.com/article/11626218"
  ],
  "seen_titles": [
-  "[박근필의직업인문학]직원이책을쓰면회사는무엇을얻는가",
-  "대한항공·아시아나,개인정보유출…사과안내메일발송",
-  "북한연계의심해킹조직,'PHP2Shell'공격준비정황포착…한국정부...",
-  "마이크론·AMD오르고엔비디아·테슬라내리고…엇갈린기술주",
   "인도지오,102조원빨아들였다…세계첫'청약천만건'",
   "‘아이폰듀오’글로벌출시첫날품귀…온라인배송만석달",
   "델테크놀로지스,'델XPS16크리에이터에디션'공개",
@@ -6001,7 +5997,11 @@
   "한투운용,홍콩ETF시장진출…CUAMHK협력1호ETF상장",
   "JB금융,300억원규모AI펀드결성…첫투자로AI보안",
   "\"'노드투셸'취약점,서버생태계위협\"...티오리무상점검사이트공...",
-  "잇단해킹공포에사이버보험패키지43%↑"
+  "잇단해킹공포에사이버보험패키지43%↑",
+  "‘연애박사’김소현,추영우두고신경전",
+  "[인사이트]취임6년정의선,GM떠난인도공장에서자동차'투자지도'...",
+  "더존비즈온해킹'중대사고'판단…정부,민관합동조사착수",
+  "獨+日보다많은경상흑자,美추가통상압박대비해야[사설]"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-10-26T11:40:24.902921+09:00",
    "공포에 사이버보험 잇단 패키지"
+  ],
+  [
+   "2026-10-26T11:42:14.320584+09:00",
+   "보다 압박 경상흑자 많은 추가 통상 대비해야"
   ]
  ],
- "last_run": "2026-10-26T11:40:43.342203+09:00",
+ "last_run": "2026-10-26T11:42:38.980160+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
