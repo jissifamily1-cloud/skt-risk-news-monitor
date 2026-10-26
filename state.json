@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202610264834b",
-  "https://www.etnews.com/20261026000010",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875192",
   "https://www.munhwa.com/article/11626186",
   "https://www.newsen.com/news_view.php?uid=202610261036256710",
   "https://www.asiatime.co.kr/article/20261026500128",
@@ -2999,12 +2996,12 @@
   "https://www.cstimes.com/news/articleView.html?idxno=725359",
   "https://www.cbci.co.kr/news/articleView.html?idxno=619390",
   "https://www.news1.kr/it-science/security-hacking/6332253",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700003.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700003.html",
+  "https://news.bizwatch.co.kr/article/real_estate/2026/10/21/0032",
+  "http://www.inews24.com/view/2019191",
+  "https://www.slist.kr/news/articleView.html?idxno=776550"
  ],
  "seen_titles": [
-  "\"기획부터폐기까지빈틈없이\"…SKT,신뢰경영담은'AI거버넌스리포...",
-  "과기정통부,'모두의AI'브랜드명·슬로건대국민공모",
-  "슈퍼마이크로,엔비디아베라CPU256개탑재수랭식랙공개",
   "대홍기획자회사스푼해킹…기프티엘고객1만8359명개인정보유출",
   "아이폰17·18서5G단독모드지원…SK텔레콤·LG유플러스,연내상용화...",
   "더핑크퐁컴퍼니,'아기상어크리스마스스페셜:산타선발대회'공개",
@@ -6001,7 +5998,10 @@
   "\"지역청소년미래인재육성\"한국공학대,시흥고교생120명AI·글로벌...",
   "[S&P실적쏠림]미S&P5003분기순익30%증가…엔비디아·마이크론이...",
   "AI로드러난'10년묵은'취약점…中企보안격차커진다",
-  "앤트로픽,상장서류4분의1이AI위험경고…\"인류에재앙초래할수..."
+  "앤트로픽,상장서류4분의1이AI위험경고…\"인류에재앙초래할수...",
+  "'AI서버아파트'데이터센터,건설새먹거리로떴다",
+  "앤트로픽상장기대에뉴욕증시상승⋯나스닥0.83%↑",
+  "뉴욕증시,앤트로픽IPO공식화에들썩…나스닥0.8%↑"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-10-27T06:42:16.950005+09:00",
    "순익 증가 3분기 P500 마이크론이"
+  ],
+  [
+   "2026-10-27T06:46:16.578433+09:00",
+   "데이터센터 떴다 먹거리로 서버 건설 아파트"
   ]
  ],
- "last_run": "2026-10-27T06:44:34.110831+09:00",
+ "last_run": "2026-10-27T06:46:33.493221+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
