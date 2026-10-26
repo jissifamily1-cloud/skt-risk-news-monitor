@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704951",
-  "https://www.aitimes.com/news/articleView.html?idxno=215882",
-  "https://www.joongang.co.kr/article/25466789",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704805",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704568",
-  "https://www.sciencetimes.co.kr/news/sn/262469",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704506",
   "http://www.newstown.co.kr/news/articleView.html?idxno=717434",
   "https://zdnet.co.kr/view/?no=20261001151648",
@@ -2999,15 +2993,15 @@
   "https://www.hankyung.com/article/202610264528i",
   "https://www.yna.co.kr/view/AKR20261026052700003?input=1195m",
   "http://www.4th.kr/news/articleView.html?idxno=2120381",
-  "https://www.fnnews.com/news/202610260914155720"
+  "https://www.fnnews.com/news/202610260914155720",
+  "https://www.jjan.kr/article/20261026500013",
+  "https://www.sentv.co.kr/article/view/sentv202610260052",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729104",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814639&plink=ORI&cooper=NAVER",
+  "https://www.kyeonggi.com/article/20261026580050",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814646&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "[서학개미안테나]세레브라스9%↑…샘알트먼\"긴밀한파트너\"한마디...",
-  "안전연구보다모델출시우선…오픈AI속도전논쟁재점화",
-  "오픈AI'에이전트폭주'에사면초가...전세계서법적·규제경고폭풍",
-  "트럼프,신임AI차르에제이클레이턴낙점하나",
-  "[10월2일]\"뜻밖의주인공은로그인과플러그인\"…알트먼이보여준챗GP...",
-  "내편엔관대,네편은검열…진영의무기된표현의자유",
   "'제브'뜨니판단·결정AI모델단숨에격전지로..유력기업들대거가...",
   "[디투피플]캡차·기존KYC한계,홍채기반'월드'ID가AI시대진정한...",
   "‘육아+러닝’유아차런이대세…몸에는괜찮을까",
@@ -6001,7 +5995,13 @@
   "JB금융300억풀었다…첫투자처낙점된'이곳'",
   "대홍기획\"스푼1만8천여명개인정보유출…금전적피해미확인\"",
   "SKT,AI에이전트위험관리기준제시…첫거버넌스보고서발간",
-  "LG유플러스,U+tv첫화면에날씨·뉴스·금융정보담았다"
+  "LG유플러스,U+tv첫화면에날씨·뉴스·금융정보담았다",
+  "[기획]‘역전의명수’옛명성어디로···군산야구의현주소",
+  "플래티어,폐쇄망서도쓰는AI테스트관리솔루션출시",
+  "'4년침체'깬G마켓…성수동서알리바바타고글로벌진격'고삐'",
+  "선관위특검,28일올림픽공원서투표지247만장·CCTV검증",
+  "선관위특검,28일올림픽공원서투표지247만장‘공개검증’",
+  "PHP이어Node.js도…연이은웹사이트해킹우려'비상'"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-10-26T10:00:39.640550+09:00",
    "넓혀 활용 세우고 업무도 자동화 관리기준 기업들 범위"
+  ],
+  [
+   "2026-10-26T10:04:15.003511+09:00",
+   "연이은 이어 우려 비상 Node js도 사이트 PHP"
   ]
  ],
- "last_run": "2026-10-26T10:02:31.531918+09:00",
+ "last_run": "2026-10-26T10:04:32.320024+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
