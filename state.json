@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1317714&inflow=N",
-  "https://biz.sbs.co.kr/article_hub/20000341598?division=NAVER",
-  "https://news.tf.co.kr/read/economy/2379630.htm",
-  "https://www.yna.co.kr/view/AKR20261022157000530?input=1195m",
   "https://biz.heraldcorp.com/article/10911725",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4114105",
   "https://www.newsis.com/view/NISX20261021_0003835696",
@@ -2999,13 +2995,13 @@
   "https://www.aitimes.com/news/articleView.html?idxno=216673",
   "https://www.mt.co.kr/world/2026/10/25/2026102210131041286",
   "https://www.seoulfn.com/news/articleView.html?idxno=641002",
-  "https://www.thepowernews.co.kr/view.php?ud=202610261355162552de3f0aa1be_7"
+  "https://www.thepowernews.co.kr/view.php?ud=202610261355162552de3f0aa1be_7",
+  "http://www.metroseoul.co.kr/article/20261026500389",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732999",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215311",
+  "https://www.sisajournal.com/news/articleView.html?idxno=391721"
  ],
  "seen_titles": [
-  "\"AI가인용하는글따로있었다\"",
-  "“AI가추천하는화장품돼라”…K뷰티,GEO경쟁시동",
-  "\"우리홈페이지도위험한가요?\"…PHP취약점에속수무책중소기업",
-  "[국감]이달희\"국가아동권리보장원,117만명개인정보담긴외장하드...",
   "개보위\"'PHP2Shell',개인정보대량유출우려\"…긴급보호조치당부",
   "개보위\"PHP보안취약점악용개인정보유출주의\"",
   "[2026국감]김종철방미통위원장\"해킹피해보상미흡하면관여하겠다...",
@@ -6001,7 +5997,11 @@
   "중국AI컴퓨팅내년두배로…65%는미국산칩에의존",
   "세계경제는AI에베팅했다…청구서는이제부터다",
   "[전국+]전북대포폰여론조작의혹일파만파···\"국수본직접수사해야...",
-  "KT‘보야지페스티벌’10주년…분당중앙공원에8500명모였다"
+  "KT‘보야지페스티벌’10주년…분당중앙공원에8500명모였다",
+  "화성특례시,우주항공산업추진단출범…전문가60명참여",
+  "전주시,AI전략국신설포함대대적'조직개편'추진…12월시행",
+  "NNT,AI인용패턴분석···\"키워드반복보다정보밀도중요\"",
+  "미래에셋생명고객개인정보유출…보험사첫피해사례"
  ],
  "recent_sigs": [
   [
@@ -6601,7 +6601,7 @@
    "모였다 8500명 ~KT 페스티벌 보야지 10주년 분당중앙공원에"
   ]
  ],
- "last_run": "2026-10-26T16:24:39.617865+09:00",
+ "last_run": "2026-10-26T16:26:37.522927+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
