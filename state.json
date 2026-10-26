@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/113032",
-  "https://www.hellot.net/news/article.html?no=115723",
-  "https://www.globalepic.co.kr/view.php?ud=2026102213342962477cc35ccc5c_29",
-  "https://econotimes.com/PHP-Flaws-Prompt-Dutch-Site-Shutdowns-as-Operators-Assess-Exposure-1759814",
-  "https://www.dailyt.co.kr/newsView/dlt202610220030",
-  "https://www.tokenpost.kr/news/ai/425743",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42390",
-  "https://www.arirang.com/news/view?id=302192",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=62996",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/22/2026102200177.html",
   "https://www.tokenpost.kr/news/ai/425706",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215266",
   "https://www.etnews.com/20261022000063",
@@ -2999,19 +2989,19 @@
   "https://www.newspim.com/news/view/20261026000232",
   "https://www.etoday.co.kr/news/view/2639951",
   "https://www.ajunews.com/view/20261026093850173",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105290"
+  "https://www.tjb.co.kr/news05/bodo/view/id/105290",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732248",
+  "https://www.g-enews.com/view.php?ud=2026102609070648659a1f309431_1",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=900704",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=900699",
+  "https://www.nocutnews.co.kr/news/6596792",
+  "https://www.fnnews.com/news/202610260909078207",
+  "https://www.newsis.com/view/NISX20261026_0003840640",
+  "https://www.nocutnews.co.kr/news/6596791",
+  "https://www.smartbizn.com/news/articleView.html?idxno=157440",
+  "https://view.asiae.co.kr/article/2026102609361993602"
  ],
  "seen_titles": [
-  "AnthropicOpensClaudeDuetPreviewforU.S.Subscribers",
-  "HanwhaAssetraisesbetonUSstartupImpulseSpace",
-  "베트남ICT대기업FPT,3분기역대최대실적…순익2.7조동",
-  "한화운용,美우주기업'임펄스스페이스'투자",
-  "구글클라우드,모델가든에오픈AI모델추가...고객선택권확대",
-  "한화자산운용,美‘임펄스스페이스’프로젝트펀드투자…국내기관...",
-  "PHPFlawsPromptDutchSiteShutdownsasOperatorsAssessExposure",
-  "수천개AI에이전트,수백만뇌세포분석…알츠하이머·파킨슨연구단...",
-  "AI에이전트수천개가생물실험데이터병렬분석…오픈AI참여프레임...",
-  "구글클라우드서'오픈AI'모델쓴다…AI플랫폼'모델개방경쟁'가속",
   "GovernmentwebsitesgodarkafterAI-discoveredflawsparkssecurity",
   "'숨은금손'이대상…ChatGPT부터GEO까지,올해빛난한국PR대상은",
   "한화자산운용,국내기관4곳모아美우주기업'임펄스스페이스'투자...",
@@ -6001,7 +5991,17 @@
   "스파크플러스,'선릉4호점'출점…1~6인기업및프리랜서타깃",
   "SKAI,스카이인텔리전스지분66.9%로확대…피지컬AI데이터경쟁력제...",
   "특검,모레올림픽공원현장검증…투표지수량·CCTV등확인",
-  "\"투표지247만장부터CCTV까지\"…선관위특검,모레올림픽공원투표지..."
+  "\"투표지247만장부터CCTV까지\"…선관위특검,모레올림픽공원투표지...",
+  "[포토]울산동구협회장배배드민턴대회개최",
+  "아이폰듀오,구매3시간만에화면파손…애플무상수리거부논란",
+  "[IT라운지]\"재택근무공고줄어\"·'넾다세일'진행·리멤버'디시전메...",
+  "'운동할때착용감최고'…삼성전자,첫클립형'갤럭시버즈온'출시",
+  "삼성전자,첫클립형이어폰'갤럭시버즈온'내일출시",
+  "삼성전자,첫클립형무선이어폰'갤럭시버즈온'국내출시",
+  "케이쓰리아이,'로보월드'참가…피지컬AI제조기술선보여",
+  "특검,28일올림픽공원투표지247만장등공개검증",
+  "\"AI관리어떻게해야할까?\"···SK텔레콤,'AI거버넌스리포트'발간",
+  "젠슨황이띄운53만원짜리'오리로봇'…공중제비한번에사전주문2..."
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-10-26T09:42:15.908422+09:00",
    "업무 내재화 발굴 사내 속도 107건 빗썸 공모전서 사례 혁신"
+  ],
+  [
+   "2026-10-26T09:48:14.125727+09:00",
+   "공고 재택근무 디시전 넾다세일 리멤버 진행 줄어"
   ]
  ],
- "last_run": "2026-10-26T09:46:35.229631+09:00",
+ "last_run": "2026-10-26T09:48:37.485113+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
