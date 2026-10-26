@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sentv.co.kr/article/view/sentv202610240010",
-  "https://www.imaeil.com/page/view/2026102411544431401",
-  "https://www.ajunews.com/view/20261024115326238",
-  "https://www.imaeil.com/page/view/2026102411503394984",
-  "https://www.imaeil.com/page/view/2026102411512407333",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900605",
-  "https://www.donga.com/news/Economy/article/all/20261023/134896035/2",
-  "https://www.the-today.com/news/articleView.html?idxno=92333",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=366687",
   "https://www.gukjenews.com/news/articleView.html?idxno=3731373",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=323333",
@@ -2999,17 +2991,17 @@
   "http://www.iminju.net/news/articleView.html?idxno=171287",
   "https://www.aitimes.com/news/articleView.html?idxno=216646",
   "https://www.gukjenews.com/news/articleView.html?idxno=3732551",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3732603"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732603",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242432",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732491",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732521",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732538",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732449",
+  "https://www.aitimes.com/news/articleView.html?idxno=216647",
+  "https://www.naeil.com/news/read/606302",
+  "https://www.jemin.com/news/articleView.html?idxno=845329"
  ],
  "seen_titles": [
-  "딥시크·미니맥스,중국정부AI모델해외수출승인획득",
-  "창녕군,2026재난대응안전한국훈련통해복합재난대응역량증명",
-  "앤트로픽'미소스5',실제피해경고에도해킹지속...정렬실패확인",
-  "인천시,릴리·삼성바이오손잡고신약개발판바꾼다…스타트업30곳키...",
-  "[이슈국감]김현\"AI디지털배움터예산·고용성과점검해야\"",
-  "北라자루스연계의심해커,PHP취약점이용한공격준비정황",
-  "라자루스연계의심세력,PHP취약점으로정부·금융기관공격준비",
-  "\"로그인없이서버침투\"…北라자루스연계세력,대규모해킹준비정...",
   "앤트로픽,유럽AI컨설팅합작사설립…5년내기업가치15조원목표",
   "JP모건등美대형은행,AI에이전트계좌접근전면차단",
   "[전창배의AI세상]은행해킹은시작…'AI통제'마지막골든타임",
@@ -6001,13 +5993,17 @@
   "'아이폰듀오',온라인주문시내년1월수령…현장구매도막혔다",
   "엔비디아,GPU당연간2000달러SW구독제구상...생태계'락인'가속",
   "대전둔산·송촌,연간5,500호정비추진…주민제안방식도입",
-  "대전문화재단,자운대서민관군화합축제…군체험부터솔지공연까지"
+  "대전문화재단,자운대서민관군화합축제…군체험부터솔지공연까지",
+  "[AI브리프]이스트소프트,AI아바타서비스'페르소인터랙티브'공공...",
+  "추경호대구광역시장,이상규대구시감사위원장임명...\"예방·컨설팅...",
+  "iM뱅크,을지연습평가1위...5회연속우수등급'최우수'유지",
+  "대전택시기본요금11월부터4,800원…기본거리줄고추가요금빨라진...",
+  "진주시,9개중점기관등40개기관유치로혁신도시완성올인",
+  "플래티어,사내폐쇄망대응AI테스트관리솔루션'XGENTMS'출시",
+  "JB금융,300억규모AI펀드조성…첫선택은보안기업사이퍼데이터",
+  "젠슨황,2030년AI인프라투자4조달러전망…엔비디아성장기대와..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-26T07:04:17.575342+09:00",
-   "LG이노텍 HSB 논의 파트너십"
-  ],
   [
    "2026-10-26T07:06:15.881466+09:00",
    "만난 ~KT 거짓말 동기부여가 힉스 친정팀에 됐다면"
@@ -6507,9 +6503,13 @@
   [
    "2026-10-26T13:00:40.852851+09:00",
    "GPU당 2000달러 가속 SW 락인 생태계 구독제 연간 구상"
+  ],
+  [
+   "2026-10-26T13:04:18.400202+09:00",
+   "기대와 투자 4조 젠슨 전망 성장 인프라 달러 2030년"
   ]
  ],
- "last_run": "2026-10-26T13:02:31.427123+09:00",
+ "last_run": "2026-10-26T13:04:36.745029+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
