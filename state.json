@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261024000009",
-  "http://www.iminju.net/news/articleView.html?idxno=171287",
-  "https://www.newscj.com/news/articleView.html?idxno=3442741",
   "https://www.sidae.com/article/2026102411102379338",
   "http://www.dailypop.kr/news/articleView.html?idxno=103709",
   "http://www.inews24.com/view/2018563",
@@ -2999,12 +2996,12 @@
   "https://www.cwn.kr/news/articleView.html?idxno=60131",
   "https://www.news1.kr/it-science/security-hacking/6331870",
   "https://www.greened.kr/news/articleView.html?idxno=352968",
-  "http://www.breaknews.com/1245443"
+  "http://www.breaknews.com/1245443",
+  "https://www.jasm.co.kr/news/view/322937/?sc=Naver",
+  "https://www.mt.co.kr/tech/2026/10/22/2026102214465199785",
+  "https://www.techm.kr/news/articleView.html?idxno=156495"
  ],
  "seen_titles": [
-  "북한해킹조직라자루스,PHP취약점악용공격준비정황",
-  "한국정부·은행노리나…북한해킹조직라자루스,사이버공격준비정...",
-  "오픈AI,'데브데이익스체인지서울'성료…한국개발자들과AI서비스...",
   "PHP취약점노린사이버공격준비정황…북해킹조직라자루스와연계...",
   "\"예전만못한투자열기\"…오픈AI,'AI거품론'에몸값10%낮췄다",
   "PHP취약점악용한공격계획포착…북한해킹조직연계여부주목",
@@ -6001,7 +5998,10 @@
   "과학기술정보통신부,'모두의AI'이름국민손으로...정책브랜드공모...",
   "국내1위ERP더존비즈온해킹…\"고객사개인정보유출가능성\"",
   "박찬대인천시장\"경제성장률5%달성\"…AI·바이오·에너지'리파워링...",
-  "국민의힘\"오세훈서울시장무죄는사필귀정…특검책임져야“"
+  "국민의힘\"오세훈서울시장무죄는사필귀정…특검책임져야“",
+  "코스피·코스닥하락세…신한투자증권\"주요이벤트앞두고관망\"",
+  "방미통위위원장\"해킹사건,사후이용자보호조치담당…보충할것\"",
+  "LG유플러스\"해킹'의혹'과'사실'은별개\"...고객·기술확보'총력'"
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,13 @@
   [
    "2026-10-26T12:42:15.367696+09:00",
    "하락 장중 ~SKT"
+  ],
+  [
+   "2026-10-26T12:54:15.076721+09:00",
+   "고객 LG유플러스 별개 ~LGU 기술 사실 확보 총력 의혹"
   ]
  ],
- "last_run": "2026-10-26T12:52:36.246313+09:00",
+ "last_run": "2026-10-26T12:54:35.285957+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
