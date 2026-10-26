@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02856886645616856&mediaCodeNo=257",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=81993",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261026120105GSh",
-  "https://www.nocutnews.co.kr/news/6596613",
-  "https://view.asiae.co.kr/article/2026102611180974952",
   "https://www.mk.co.kr/article/12185517",
   "https://www.fnnews.com/news/202610261023090858",
   "https://www.news1.kr/society/general-society/6331823",
@@ -2999,14 +2994,14 @@
   "https://www.kmib.co.kr/article/20261027500074",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303451",
   "https://www.ajunews.com/view/20261027081759606",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303450"
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=303450",
+  "https://www.mk.co.kr/article/12184750",
+  "https://www.news1.kr/finance/market-exr/6332647",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=62961",
+  "https://www.edaily.co.kr/News/Read?newsId=02817526645617184&mediaCodeNo=257",
+  "https://www.munhwa.com/article/11626453"
  ],
  "seen_titles": [
-  "\"AI發본격적인감원,경기침체때나타날것\"",
-  "블로그로배운AI해커,대기업·병원뚫었다",
-  "대홍기획스푼,1만8천여명개인정보유출…2차피해예방당부",
-  "역대급실적예고된삼전닉스…'주주환원'더주목",
-  "AI로기업90여곳해킹…개인정보820만건빼돌려협박",
   "IT비전공자가생성형AI로기업해킹…개인정보820만건빼내돈요구",
   "블로그로AI해킹방법공부한일당…개인정보820만건털었다",
   "AI로개인정보90곳해킹…820만건빼내고\"돈안주면유출\"협박까지",
@@ -6001,7 +5996,12 @@
   "프리마켓삼전3%·SK하닉4%강세…\"미국반도체훈풍\"",
   "[박정식의국내주식시황]필라델피아반도체지수반등에국내증시동...",
   "앤트로픽,나스닥상장신청서공개제출…오픈AI보다먼저공개시장선...",
-  "[굿모닝!글로벌뉴욕증시]엔트로픽기업공개소식에인공지능및반..."
+  "[굿모닝!글로벌뉴욕증시]엔트로픽기업공개소식에인공지능및반...",
+  "“이가격에누가사나했더니”…500만원짜리아이폰없어서못판다",
+  "'앤트로픽IPO'에美AI반도체훈풍…삼전닉스프리마켓서2~3%↑",
+  "앤스로픽·오픈AI·구글,자율규제기구논의..그배경은?",
+  "앤스로픽IPO효과?삼전·닉스,프리마켓서동반상승[특징주]",
+  "북한연계해킹조직,PHP취약점공격준비정황…재계긴급점검"
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,13 @@
   [
    "2026-10-27T08:22:16.529716+09:00",
    "공개 인공지능 소식에 기업"
+  ],
+  [
+   "2026-10-27T08:24:14.943415+09:00",
+   "기구 자율규제 배경은 논의 구글"
   ]
  ],
- "last_run": "2026-10-27T08:22:37.855867+09:00",
+ "last_run": "2026-10-27T08:24:37.974743+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
