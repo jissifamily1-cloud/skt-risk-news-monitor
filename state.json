@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.withinnews.co.kr/news/view.html?no=40751",
-  "https://www.edaily.co.kr/News/Read?newsId=05074166645615216&mediaCodeNo=257",
-  "https://www.donga.com/news/Economy/article/all/20261021/134883057/1",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900251",
-  "https://www.etoday.co.kr/news/view/2638434",
-  "https://www.chosun.com/economy/tech_it/2026/10/21/QXVXRQXDWNBF7PMA5VES6LL4Q4/",
-  "https://www.hankyung.com/article/202610215997i",
-  "https://www.chosun.com/economy/tech_it/2026/10/21/WQ2KYMUU5RCGZLZYU7Y6ATAABU/",
-  "https://www.thelec.kr/news/articleView.html?idxno=64051",
   "https://www.naeil.com/news/read/605859",
   "https://www.naeil.com/news/read/605788",
   "https://view.asiae.co.kr/article/2026102112124146935",
@@ -2999,18 +2990,18 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260029&t=NN",
   "https://www.moneystorm.kr/news/articleView.html?idxno=7644",
   "http://www.metroseoul.co.kr/article/20261026500097",
-  "http://www.paxetv.com/news/articleView.html?idxno=285150"
+  "http://www.paxetv.com/news/articleView.html?idxno=285150",
+  "https://sports.khan.co.kr/article/202610261019003?pt=nv",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261026010008640",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215343",
+  "http://www.yonhapnewstv.co.kr/news/AKR202610261019221Gs",
+  "https://www.techm.kr/news/articleView.html?idxno=156476",
+  "https://www.smartbizn.com/news/articleView.html?idxno=157449",
+  "https://www.ytn.co.kr/_ln/0104_202610261019188239",
+  "https://www.newsis.com/view/NISX20261026_0003840737",
+  "https://imnews.imbc.com/news/2026/econo/article/6860696_36932.html"
  ],
  "seen_titles": [
-  "'뮤즈'대박에도돈이말라간다…메타실적에월가긴장하는이유",
-  "[안광섭AI진테제]AI병목에대해...앤트로픽성장이정체?",
-  "[인도특징주]LTM,중동리스크에7~9월분기실적'주춤'...AI기반계약...",
-  "책한권가격에담기지않은권리,AI데이터학습",
-  "오픈AI\"AI에이전트,이상행동감시시스템약화\"",
-  "“물가”114번강조한신현송한은총재…“선제대응”언급도급증",
-  "일론머스크\"테슬라와스페이스X합병검토\"",
-  "AI레이스의명암⋯고속성장입증했지만부채·전력난곳곳‘암초’",
-  "AI혜택,가난한나라에도닿을까…게이츠재단의10억달러실험",
   "'헤지펀드큰손'켄그리핀\"시장,AI버블한가운데있어\"",
   "앤스로픽,올상반기순손실10조원넘어",
   "스페이스X,3분기실적호조에주가8%급등",
@@ -6001,7 +5992,16 @@
   "쓰지도않는지갑에코인쌓이더니…1600만달러털렸다",
   "SK텔레콤,AI신뢰경영강화…'AI거버넌스리포트'발간",
   "LG유플러스,IPTV첫화면새단장…'유플러스티비오늘일상'공개",
-  "[주말뉴스FULL]해킹사태에고개숙인5대은행장…보안부실·보상책..."
+  "[주말뉴스FULL]해킹사태에고개숙인5대은행장…보안부실·보상책...",
+  "LG유플러스,TV로보는생활정보‘U+tv오늘일상’출시",
+  "예술창업고민,선배기업·전문가에게묻는다",
+  "엔키화이트햇,일본IT전시회서AI기반침투테스트솔루션소개",
+  "대홍기획\"스푼고객1만8천여명개인정보유출…금전피해미확인\"",
+  "SKT,AI고도화·신뢰성'두마리토끼'잡는다",
+  "LG유플러스,U+tv첫화면에생활정보모은다",
+  "\"최대40%파격할인\"...오픈AI,출혈경쟁으로앤트로픽고객뺏어와",
+  "'반도체투톱'이번주3분기실적…'주주환원'투심가를분수령으로",
+  "정부,더존비즈온해킹'중대사고'‥민관합동조사착수"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,17 @@
   [
    "2026-10-26T10:20:26.219655+09:00",
    "은행장 보상 숙인 고개 보안 사태에 부실 5대"
+  ],
+  [
+   "2026-10-26T10:22:13.720366+09:00",
+   "신뢰성 ~SKT 잡는다 고도화 마리 토끼"
+  ],
+  [
+   "2026-10-26T10:22:13.720366+09:00",
+   "실적 투심 투톱 가를 반도체 이번주 분수령으로 3분기 주주환원"
   ]
  ],
- "last_run": "2026-10-26T10:20:44.902349+09:00",
+ "last_run": "2026-10-26T10:22:38.748919+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
