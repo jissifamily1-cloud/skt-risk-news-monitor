@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3732463",
-  "https://www.ekn.kr/web/view.php?key=20261026025111020",
-  "https://www.donga.com/news/It/article/all/20261026/134908421/2",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200265",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261117175920104662",
-  "https://www.hankyung.com/article/202610230813g",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261026.99099007355",
   "https://www.ytn.co.kr/_ln/0103_202610261145259983",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441093",
   "https://www.jemin.com/news/articleView.html?idxno=845327",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1706081/?sc=Naver",
   "https://www.munhwa.com/article/11626218",
   "https://www.newspim.com/news/view/20261027000034",
-  "http://www.joseilbo.com/news/news_read.php?uid=578204&class=53"
+  "http://www.joseilbo.com/news/news_read.php?uid=578204&class=53",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=93793",
+  "https://www.newsis.com/view/NISX20261026_0003840773",
+  "https://www.kpinews.kr/newsView/1065566699238249",
+  "https://www.edaily.co.kr/News/Read?newsId=02771606645617184&mediaCodeNo=257",
+  "https://www.newspim.com/news/view/20261027000030",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498682",
+  "https://www.econovill.com/news/articleView.html?idxno=754953"
  ],
  "seen_titles": [
-  "홍성군,제4회김태균야구캠프성료",
-  "AI주권경쟁에높아진규제장벽...SKT,국제공동검증강조",
-  "롯데쿠폰발행사'기프티엘',해킹으로고객개인정보유출",
-  "대전동구,5개동과위기이웃조기발굴…'생명안전망'강화",
-  "“호실적안통한다”…글로벌증시운명달린구글·MS·아마존[머니+...",
-  "스페이스X는400억달러조달…머스크“네오클라우드대부분도태될것...",
-  "머스크,GPU사려고53조조달...테슬라·스페이스X합병도검토",
   "[더벨][i-point]SKAI,스카이인텔리전스지분추가인수",
   "대통령도물어봤다는데…\"네말이맞아\"간신진화한AI경고[홍민성의...",
   "대홍기획“기프티엘발행하는스푼1만8000여명개인정보유출”",
@@ -6001,7 +5994,14 @@
   "통신3사연말인사키워드는안정·AI…LGU+수사변수",
   "獨+日보다많은경상흑자,美추가통상압박대비해야[사설]",
   "中5중전회,중앙위원대거퇴출주목,류젠차오강등설도",
-  "'앤트로픽IPO'기대감에뉴욕증시반등…테슬라5%↑"
+  "'앤트로픽IPO'기대감에뉴욕증시반등…테슬라5%↑",
+  "이효정,에이티즈춤추며인생2막-아들이유진결혼+식당대박",
+  "삼성이재용회장,내일취임4주년…위기딛고반도체재도약·미래사...",
+  "SK가투자한美펭귄솔루션스,인수설에주가급등",
+  "베일벗은앤스로픽IPO…'AI거품론'시험대[뉴스새벽배송]",
+  "[AIMY뉴스]27일중국증시'AI주조정속반등모색...공업기업이익지...",
+  "미국반도체주일제히환호성…엔비디아·마이크론오르고AXT8%'불기둥...",
+  "금감원사이버공격도두배로…금융권덮친해킹공포에보안예산급증"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,21 @@
   [
    "2026-10-27T08:04:16.015762+09:00",
    "~SKT 대표 담보 하회 지분율 김영섬 잡힌 반대매매 코난테크놀로지"
+  ],
+  [
+   "2026-10-27T08:08:22.024030+09:00",
+   "SK가 펭귄솔루션스 인수설에 주가 투자한 급등"
+  ],
+  [
+   "2026-10-27T08:08:22.024030+09:00",
+   "미국 AXT 반도체주 오르고 환호성 불기둥 마이크론 일제히"
+  ],
+  [
+   "2026-10-27T08:08:22.024030+09:00",
+   "덮친 공포에 금융권 예산 사이버공격도 보안 급증 금감원 두배로"
   ]
  ],
- "last_run": "2026-10-27T08:06:31.951855+09:00",
+ "last_run": "2026-10-27T08:08:45.930844+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
