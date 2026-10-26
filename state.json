@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12185264",
-  "https://www.hankyung.com/article/2026102534971",
-  "https://www.wikitree.co.kr/articles/1168984",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42423",
-  "http://www.gndomin.com/news/articleView.html?idxno=494067",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261025174419K8H",
-  "http://www.gndomin.com/news/articleView.html?idxno=494062",
-  "http://www.gndomin.com/news/articleView.html?idxno=494109",
-  "http://www.gndomin.com/news/articleView.html?idxno=494076",
-  "https://biz.sbs.co.kr/article_hub/20000341966?division=NAVER",
   "https://www.kado.net/news/articleView.html?idxno=2080249",
   "https://view.asiae.co.kr/article/2026102517482133660",
   "https://www.hankyung.com/article/2026102535297",
@@ -2999,19 +2989,19 @@
   "https://byline.network/?p=9004111222624668",
   "http://www.rookie.co.kr/news/articleView.html?idxno=129060",
   "https://www.kmib.co.kr/article/20261026502005",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815745&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815745&plink=ORI&cooper=NAVER",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/26/2026102680185.html",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337994",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/26/2026102680191.html",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323660",
+  "https://www.ytn.co.kr/_ln/0103_202610261857461447",
+  "https://news.tf.co.kr/read/economy/2381001.htm",
+  "http://www.inews24.com/view/2019143",
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/26/2026102680120.html",
+  "https://www.venturesquare.net/1122917/",
+  "https://www.etnews.com/20261026000437"
  ],
  "seen_titles": [
-  "롯데'기프티엘'해킹사고…이름·휴대전화·환불계좌유출",
-  "외부시스템'약한고리'타격…항공·물류전산망본체파고든다",
-  "국립부경대에서도5108명개인정보유출…등록금수납액·가상계좌등...",
-  "\"금융권해킹은재앙예고편…韓,국가차원'사이버돔'세워야\"",
-  "백악관·미의회,AI기업CEO에\"입다물고제품이나잘만들기를\"",
-  "한진이어롯데…외주사부터뚫렸다",
-  "'투어축소'찬바람에도…제네시스,韓골프와10년동행",
-  "엔비디아도스페이스X도아니다…서학개미싹쓸이한1위'이곳'",
-  "오픈AI,데이터분석도AI에맡긴다…보고서작성부터이상징후탐지까...",
-  "서천호의원,수사중인LGU+에'매우우수'판정논란",
   "롯데계열'기프티엘'도뚫렸다…해킹으로개인정보유출",
   "강민국의원,금융권'보안빈칸'인력·예산은제자리에,해킹은급증",
   "창녕군,2026년재난대응안전한국훈련성공적으로마무리",
@@ -6001,13 +5991,19 @@
   "AI에이전트의긴여정,안전벨트는준비됐나",
   "\"만족이란말은없어요\"4연승도전하는소노손창환감독",
   "선관위특검‘올림픽공원보관투표지’28일현장검증",
-  "'2천명'이상더털렸다…KB국민은행\"해킹피해추가확인…고객에송..."
+  "'2천명'이상더털렸다…KB국민은행\"해킹피해추가확인…고객에송...",
+  "플래티어,폐쇄망에서도AI품질관리시대연다…‘XGENTMS’출시",
+  "기사복붙에낚시성제목…뭉뚱그려불러온'뉴스어뷰징'분석해보니",
+  "FIX2026,5086억원규모비즈니스상담…글로벌기술교류의장으로성...",
+  "KB국민은행,정보유출2210명으로확대…당초발표18배↑",
+  "선관위특검,모레올림픽공원투표지임의검증...\"증감·위조확인\"",
+  "국민은행\"해킹정보유출2091명추가확인,총2210명…송구\"",
+  "놀유니버스,해킹으로고객·임직원정보유출",
+  "피지컬AI부터산업AX까지…'2026AIoT국제전시회·컨퍼런스'11월3일...",
+  "KAIA,서울AI허브서스타트업16개사투자IR개최…OpenAI·하이퍼엑셀...",
+  "금융권해킹보험사로확산…SW·여행업계도침해사고잇따라"
  ],
  "recent_sigs": [
-  [
-   "2026-10-26T13:00:40.852851+09:00",
-   "GPU당 2000달러 가속 SW 락인 생태계 구독제 연간 구상"
-  ],
   [
    "2026-10-26T13:04:18.400202+09:00",
    "기대와 투자 4조 젠슨 전망 성장 인프라 달러 2030년"
@@ -6611,9 +6607,21 @@
   [
    "2026-10-26T18:52:18.094267+09:00",
    "비전공자도 진입장벽 뚫었다 IT 낮아진 90여곳 AI로"
+  ],
+  [
+   "2026-10-26T19:00:43.316505+09:00",
+   "산업 국제전시회 컨퍼런스 3일 피지컬 11월 AX까지 AIoT AI부터"
+  ],
+  [
+   "2026-10-26T19:00:43.316505+09:00",
+   "16개사 서울 개최 하이퍼엑셀 IR KAIA 투자 허브서 스타트업"
+  ],
+  [
+   "2026-10-26T19:00:43.316505+09:00",
+   "SW 잇따라 확산 침해사고 보험사로 여행업계도 금융권"
   ]
  ],
- "last_run": "2026-10-26T18:58:38.544213+09:00",
+ "last_run": "2026-10-26T19:01:07.639404+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
