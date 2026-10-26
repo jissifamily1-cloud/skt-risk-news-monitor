@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=640957",
-  "http://www.newsprime.co.kr/news/article.html?no=752292",
-  "https://www.globalepic.co.kr/view.php?ud=2026102610503110387cc35ccc5c_29",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900720",
   "https://www.mt.co.kr/world/2026/10/26/2026102609580627388",
   "https://www.delighti.co.kr/news/articleView.html?idxno=123831",
   "https://www.edaily.co.kr/News/Read?newsId=02604326645616856&mediaCodeNo=257",
@@ -2999,13 +2995,13 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=619539",
   "https://www.cbci.co.kr/news/articleView.html?idxno=619252",
   "https://biz.chosun.com/topics/law_firm/2026/10/26/7PE7LRP2TJGDZFEFYL2HIDMAUQ/",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=7690"
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7690",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766762",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815965&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6860897_37012.html",
+  "https://www.news1.kr/it-science/security-hacking/6332394"
  ],
  "seen_titles": [
-  "PHP이어Node.js서도원격서버공격가능한보안결함발견",
-  "머스크\"스페이스X,AI반도체구매용400억달러차입조달\"",
-  "[여론조사]전작권환수지연시독자선언공감56.7%(여론조사꽃)",
-  "대한민국게임대상후보공개···'붉은사막'유력후보로",
   "[스타트업법률가이드]AI광고이미지활용방법",
   "메리츠증권,'대화형AI'주식매매출시…\"주문부터자동매매까지\"",
   "선관위특검,28일올림픽공원서투표지검증…\"재검표는아니다\"",
@@ -6001,7 +5997,11 @@
   "[추가유출]KB국민은행해킹피해자2천210명으로늘어…피해범위확대",
   "[기프티엘유출]기프티엘해킹피해규모1만8천여명…대홍기획공식...",
   "‘노태우비자금’노소영에출석요구한달넘겨…참고인조사아직",
-  "[뉴욕증시마감시황]앤트로픽IPO에AI투자심리되살아났다…나스닥..."
+  "[뉴욕증시마감시황]앤트로픽IPO에AI투자심리되살아났다…나스닥...",
+  "영업지원부터민원예방·보험금심사까지…삼성화재·신한라이프·DB손...",
+  "앤트로픽,나스닥상장신청…역대최대규모전망",
+  "미래에셋생명도뚫렸다‥보험사첫해킹피해",
+  "해킹보다무서운비밀번호'돌려쓰기'…2차피해부른다"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,13 @@
   [
    "2026-10-27T06:08:19.041558+09:00",
    "피해 대홍기획 기프티엘 규모 1만8천여명"
+  ],
+  [
+   "2026-10-27T06:12:17.020505+09:00",
+   "무서운 해킹보다 피해 2차 부른다 비밀번호 돌려쓰기"
   ]
  ],
- "last_run": "2026-10-27T06:10:45.013162+09:00",
+ "last_run": "2026-10-27T06:12:38.353309+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
