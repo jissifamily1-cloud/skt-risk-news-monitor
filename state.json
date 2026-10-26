@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=66384",
-  "https://www.segye.com/newsView/20261023511123?OutUrl=naver",
-  "https://www.joongangenews.com/news/articleView.html?idxno=557917",
-  "https://m.sports.naver.com/basketball/article/065/0000303371",
-  "https://zdnet.co.kr/view/?no=20261024111106",
-  "https://www.thereport.co.kr/news/articleView.html?idxno=92612",
   "https://www.venturesquare.net/1122596/",
   "https://www.m-economynews.com/news/article.html?no=72070",
   "http://www.digitalbizon.com/news/articleView.html?idxno=2343999",
@@ -2999,15 +2993,15 @@
   "https://www.kukinews.com/article/view/kuk202610260122",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=282480",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000556832",
-  "https://www.hankyung.com/article/2026102650847"
+  "https://www.hankyung.com/article/2026102650847",
+  "https://www.nspna.com/news/?newsid=833158",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90403",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=361239",
+  "https://www.edaily.co.kr/News/Read?newsId=02955286645616856&mediaCodeNo=257",
+  "https://www.boannews.com/news/articleView.html?idxno=146731",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732636"
  ],
  "seen_titles": [
-  "대한항공·아시아나,개인정보유출확인…IT협력사가'구멍'",
-  "AI서버뜨거워질수록커지는냉각시장…LG전자,기술·생산투자확대",
-  "할일을맡겼더니,잊은일까지찾아왔다…오픈AI‘닷츠’[잇:써봐]",
-  "中하이난,세제·정책혜택업고하이테크산업거점으로도약",
-  "전세계서버흔드는'PHP2Shell'…北배후세력,대규모사이버습격...",
-  "월가,AI대재앙이후까지대비…은행권'사후복구'시나리오짠다",
   "\"PHP보안패치발표4일전부터공격…이후에도시도계속\"",
   "SK텔레콤주가최근5거래일하락세두드러져",
   "[26슬램게임]\"제일잘하는선수가될겁니다\"금메달목에건구민교의...",
@@ -6001,7 +5995,13 @@
   "“어디에뒀더라?”기억찾아행동하는로봇…ETRI,스스로판단하는...",
   "현대모비스,'엠필즈페스타&발명의날'개최…R&D문화확산",
   "“AI로개인정보820만건탈탈”…해킹협박일당검거",
-  "\"거제야호!\"한마디에관광소비'쑥'…리센느,거제명예시민됐다"
+  "\"거제야호!\"한마디에관광소비'쑥'…리센느,거제명예시민됐다",
+  "[사업추진브리핑]화성시,전문가60명포진우주항공추진단뜬다",
+  "디티나우,사내구축형sLLMAI어플라이언스출시",
+  "[CEO뷰]미래성장판키우는정용진,이마트직접챙기고AI데이터센터...",
+  "비전공자AI해커,금융권턴'아르텍스'로820만건정보털었다(종합)",
+  "오픈AI,최상위AI모델훈련중인터넷접속전면차단...보안취약점...",
+  "학원·병원등90곳해킹…생성형AI활용해개인정보빼낸7명입건"
  ],
  "recent_sigs": [
   [
@@ -6499,9 +6499,17 @@
   [
    "2026-10-26T13:14:15.483897+09:00",
    "명예시민 됐다 마디에 리센느 관광 소비 야호 거제"
+  ],
+  [
+   "2026-10-26T13:16:14.895223+09:00",
+   "최상위 전면 훈련 취약점 차단 인터넷 보안 모델 접속"
+  ],
+  [
+   "2026-10-26T13:16:14.895223+09:00",
+   "빼낸 개인정보 생성형 학원 활용해 90곳 7명 병원 입건"
   ]
  ],
- "last_run": "2026-10-26T13:14:34.288973+09:00",
+ "last_run": "2026-10-26T13:16:42.206869+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
