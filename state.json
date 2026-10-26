@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000339271?division=NAVER",
-  "https://biz.chosun.com/stock/stock_general/2026/10/12/LCWHK4V4CJCNDDKZCI7TGELLTU/",
-  "https://www.ytn.co.kr/_ln/0102_202610120733168840",
-  "https://www.joongang.co.kr/article/25468830",
-  "https://www.g-enews.com/view.php?ud=202610101400053808fbbec65dfb_1",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682232",
-  "https://www.gamemeca.com/mv.php?inflow=naver&gid=1781401",
-  "https://www.nocutnews.co.kr/news/6589172",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679845",
   "https://www.news1.kr/world/usa-canada/6312505",
   "https://www.etoday.co.kr/news/view/2633088",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785275&plink=ORI&cooper=NAVER",
@@ -2999,18 +2990,18 @@
   "https://www.pressian.com/pages/articles/2026102610300745290",
   "https://zdnet.co.kr/view/?no=20261026102730",
   "https://www.newspim.com/news/view/20261026000225",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610211247132960107331"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610211247132960107331",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=454632",
+  "http://www.wsobi.com/news/articleView.html?idxno=320324",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1188973",
+  "https://news.tf.co.kr/read/economy/2380567.htm",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254167",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254166",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=619127",
+  "https://view.asiae.co.kr/article/2026102610143288607",
+  "https://www.widedaily.com/news/articleView.html?idxno=302297"
  ],
  "seen_titles": [
-  "\"진짜호황은지금부터\"…AI에이전트가키울반도체열풍",
-  "[포커스]1년걸리던금융기관해킹‥AI쓰면○○만에가능",
-  "오픈AI매출논란...\"AI성장성확인했지만,투심은여전히취약\"",
-  "'물들어왔다'엔트로픽,클라우드다년계약",
-  "메리츠證“SK텔레콤,해킹영향벗어나2024년이익체력회복”",
-  "'금융위기수준'외국인매도폭탄,삼전닉스말고TSMC가답이다?",
-  "[단독]“헌책컨테이너로삽니다”…한국에도날아온수상한메일",
-  "브로드컴이빚내서오픈AI칩구매돕는다…67조원차입추진파장",
-  "앤트로픽,‘AI모욕’이용자차단…“욕설반복하면대화종료”",
   "한국의혹한을널리알리는갓쓴워프레임‘나린’",
   "AI해킹어디까지왔나…'자율성얻은AI'제멋대로침해",
   "[사사건건]AI에해킹당한은행…내돈은?내개인정보는?",
@@ -6001,7 +5992,16 @@
   "선관위특검,올림픽공원투표지247만장·CCTV·투표장비살핀다",
   "'모두의AI'이름국민이짓는다…과기정통부,공모전개최",
   "[2026국감]AI데이터센터늘린다더니…전기요금·전력망기준정비시...",
-  "[더벨][PolicyRadar]AI해킹고도화흐름,라온시큐어신원관리기술주..."
+  "[더벨][PolicyRadar]AI해킹고도화흐름,라온시큐어신원관리기술주...",
+  "ETRI,로봇의'추측'줄이는AI개발",
+  "금융권,AI기반영업지원시스템오픈·'네이버×현대카드THESIX'티...",
+  "SKAI주가,급등세...무슨회사길래?",
+  "금융권이어항공사까지…잇단개인정보유출에보안'비상'",
+  "SKT,'AI거버넌스리포트'첫발간…AI트러스트경영강화",
+  "LG유플러스,U+tv첫화면개편…TV로날씨·뉴스·금융한눈에확인",
+  "LG유플러스,TV첫화면개편…'U+tv오늘일상'출시",
+  "오픈AI,스타트업AI개발돕는'모델마스터즈'첫개최",
+  "정부,더존비즈온연속해킹에'민관합동조사'전격착수…고객사확산..."
  ],
  "recent_sigs": [
   [
@@ -6469,7 +6469,7 @@
    "신원관리 고도화 흐름 AI해킹 기술 라온시큐어"
   ]
  ],
- "last_run": "2026-10-26T10:34:39.040528+09:00",
+ "last_run": "2026-10-26T10:36:30.479578+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
