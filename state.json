@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3732441",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42429",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=365159",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580300179322",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50028",
-  "https://www.kbmaeil.com/article/20261024500016",
   "https://biz.heraldcorp.com/article/10914745",
   "https://www.nocutnews.co.kr/news/6596945",
   "https://www.gukjenews.com/news/articleView.html?idxno=3732447",
@@ -2999,15 +2993,15 @@
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424587",
   "https://magazine.hankyung.com/business/article/202610215578b",
   "http://www.yonhapnewstv.co.kr/news/MYH20261027074343uo3",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6860935_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6860935_37012.html",
+  "https://news.mtn.co.kr/article/2026102309170775602",
+  "https://www.econovill.com/news/articleView.html?idxno=754952",
+  "https://www.mk.co.kr/article/12186552",
+  "https://www.bloter.net/news/articleView.html?idxno=676651",
+  "https://www.mediapen.com/news/view/1132660",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=619346"
  ],
  "seen_titles": [
-  "PHP이어Node.js에서도보안취약점발견…해킹우려'비상'",
-  "[AIMY뉴스]26일중국증시'정책모멘텀과글로벌변수...기대·불확실...",
-  "\"中,데이터국유기업으로…데이터-컴퓨팅-전력사슬완성\"",
-  "세종시의회김효숙의원\"방치된미디어큐브,문화명소로되살려야\"",
-  "챗GPT에기업기밀입력하면AI가사전차단…솔트웨어,민감정보유출...",
-  "'저작권침해'법정에서는AI",
   "아이스크림에듀,홈런중등이투스특별관오픈…스타강사전강좌무...",
   "한투운용,CUAMHK와홍콩에첫반도체ETF상장",
   "“1분에100만회공격”…PHP보안결함에전세계웹사이트비상",
@@ -6001,7 +5995,13 @@
   "앤트로픽,나스닥상장신청···역대최대IPO전망",
   "중국차쫓아오고환율'뚝뚝'자율주행도안갯속'어쩌나'",
   "[3분증시]뉴욕증시,AI·기술주강세에동반상승",
-  "820만건정보유출‥인터넷보고AI해킹'독학'"
+  "820만건정보유출‥인터넷보고AI해킹'독학'",
+  "SK브로드밴드,M&A검토…데이터센터분리후신사업찾는다",
+  "솔리다임상장접은SK하이닉스,중복상장규제가바꾼자회사공식",
+  "앤트로픽,2조달러몸값으로IPO도전…매출14배급증에첫영업흑자",
+  "[AI시대일의재편]\"기술보다방식\"…놀유니버스가찾은AX본질",
+  "[美증시특징주]반도체후공정앰코테크,시간외급등반전…\"실적최악...",
+  "[AI영토확장]오픈AI,파격할인무기로앤트로픽고객대거유인"
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,13 @@
   [
    "2026-10-27T07:46:17.012926+09:00",
    "820만 유출 독학 정보 인터넷 보고"
+  ],
+  [
+   "2026-10-27T07:48:16.185840+09:00",
+   "파격 대거 할인 무기로 고객 유인 앤트로픽"
   ]
  ],
- "last_run": "2026-10-27T07:46:38.174405+09:00",
+ "last_run": "2026-10-27T07:48:34.356554+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
