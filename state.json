@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=91315",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193473",
-  "https://www.yna.co.kr/view/AKR20261020108900054?input=1195m",
-  "http://www.newsbrite.net/news/articleView.html?idxno=201013",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=509500",
-  "https://www.newspost.kr/news/articleView.html?idxno=226520",
-  "https://www.cnbizm.com/news/articleView.html?idxno=318553",
-  "https://www.dailian.co.kr/news/view/1703471/?sc=Naver",
   "https://www.inthenews.co.kr/news/article.html?no=93252",
   "https://www.nocutnews.co.kr/news/6593931",
   "https://www.ilyosisa.co.kr/news/article.html?no=258402",
@@ -2999,17 +2991,17 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498293",
   "https://www.ngonews.kr/news/articleView.html?idxno=241422",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=91790",
-  "https://www.dailian.co.kr/news/view/1705905/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1705905/?sc=Naver",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242425",
+  "https://www.segye.com/newsView/20261025503898?OutUrl=naver",
+  "https://news.dealsitetv.com/articles/177464",
+  "https://www.news1.kr/world/international-economy/6331396",
+  "https://www.newsway.co.kr/news/view?ud=2026102608572843032",
+  "https://www.eroun.net/news/articleView.html?idxno=93396",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1418175",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=55660"
  ],
  "seen_titles": [
-  "최태원,'힙지로'서직원들과회식…소통행보지속",
-  "국힘,호남반도체·행정통합‘흠집내기’여전…민주·혁신당은방어...",
-  "[재계핫이슈]대통령이지목한주가하락원인,'투명성부족'끝판왕은...",
-  "이북도민도파주시민도아닌데…故노태우1810㎡파주호화묘역논란",
-  "이방수전LG엔솔사장\"LG계열사들,어떤연유로고발했는지배경모르...",
-  "2년째멈춘전남광주공영자전거'타랑께'…내년재운영추진",
-  "노태우550평묘역유지비추산만수억원...실제비용은베일속",
-  "전남광주통합특별시의회,'시민참여격차해소'...맞춤형정책대안발...",
   "550평'노태우호화묘역'유지수억원…비용출처는깜깜",
   "'550평'노태우묘역유지비논란…막대한비용출처는?",
   "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?",
@@ -6001,7 +5993,15 @@
   "\"날씨·뉴스·금융정보한눈에\"...LG유플러스,IPTV첫화면개편",
   "LG유플러스,TV로보는생활정보'U+tv오늘일상'출시",
   "\"콘텐츠탐색공간서생활플랫폼으로\"…LG유플러스,첫화면'U+tv오늘...",
-  "LG유플러스,TV첫화면을생활정보판으로…날씨·뉴스한눈에"
+  "LG유플러스,TV첫화면을생활정보판으로…날씨·뉴스한눈에",
+  "볼거리찾던IPTV첫화면에생활정보…LGU+,'오늘일상'출시",
+  "“AI부터붙이면된다?”…AI전환,흔히빠지는세가지함정[나인O'Cl...",
+  "[뉴욕브리핑]중동확전우려·유가급등…다우1.2%급락",
+  "아폴로수석경제학자\"AI투자,빅테크외기업엔수익효과제로\"",
+  "JB금융,300억AI펀드조성…첫투자처로'보안기업'낙점",
+  "SKT,AI거버넌스리포트발간…AI트러스트경영강화",
+  "SK텔레콤,'AI거버넌스리포트'발간…AI환경변화선제대응",
+  "아이티이지,'AI실전침투해킹'출시…인프라부터보안검증까지한곳..."
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,17 @@
   [
    "2026-10-26T09:02:16.621152+09:00",
    "TV 화면을 ~LGU 한눈에 생활정보판으로 LG유플러스 날씨"
+  ],
+  [
+   "2026-10-26T09:04:14.524805+09:00",
+   "가지 나인O 된다 붙이면 AI부터 빠지는 흔히 Cl 함정"
+  ],
+  [
+   "2026-10-26T09:04:14.524805+09:00",
+   "실전 아이티이지 보안 검증까지 한곳 인프라부터 출시 침투해킹"
   ]
  ],
- "last_run": "2026-10-26T09:02:40.084639+09:00",
+ "last_run": "2026-10-26T09:04:41.461226+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
