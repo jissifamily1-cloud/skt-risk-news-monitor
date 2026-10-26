@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610221017587427fbbec65dfb_1",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900305",
-  "https://www.edaily.co.kr/News/Read?newsId=02860166645615544&mediaCodeNo=257",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=359781",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94031",
-  "https://biz.sbs.co.kr/article_hub/20000337468?division=NAVER",
   "http://www.inews24.com/view/2010227",
   "https://www.g-enews.com/view.php?ud=202609121907047757fda4f5ab74_1",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7183419",
@@ -2999,15 +2993,15 @@
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592712113090",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=241201",
   "https://it.donga.com/109767/",
-  "https://www.thepowernews.co.kr/view.php?ud=202610261508482470de3f0aa1be_7"
+  "https://www.thepowernews.co.kr/view.php?ud=202610261508482470de3f0aa1be_7",
+  "https://www.kmaeil.com/news/articleView.html?idxno=655759",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732861",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=241204",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729187",
+  "http://www.popcornnews.net/news/articleView.html?idxno=137335",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88842"
  ],
  "seen_titles": [
-  "日기업약80곳겨냥한中AI'아르텍스'…모의실험서정보빼내기까...",
-  "딥시크,20조원투자유치…오픈AI·앤스로픽추격나선다",
-  "[이영환의AI에이전틱이코노미㉘]멈추라고가르친적이없다",
-  "[머니버스]철학과,AI때문이라면가지말라",
-  "“AI감속”외친아모데이“안전위해선기술경쟁도앞서야”",
-  "800억달러적자쓰고도1000조원베팅…앤스로픽이질주하는이유",
   "[통신풍항계]U+-에릭슨'장거리프론트홀검증'·KT클라우드'안산AID...",
   "SKT,수학난제풀어독파모추론성능높인다...서울대·KAIST와협업",
   "통신3사,3분기이후어디로…AI키우는SKT·KT,내실다지는LGU+",
@@ -6001,7 +5995,13 @@
   "킹비서,가족결합할인계산기개편…상품확대부터정확도개선까지",
   "컴투스플랫폼,ChatGPT에'하이브액실'플러그인제공",
   "서울과기대,초창패네트워킹데이개최···'일본·글로벌진출노하우...",
-  "SKT,사내AI에이전트까지관리한다…‘AI거버넌스리포트’첫발간"
+  "SKT,사내AI에이전트까지관리한다…‘AI거버넌스리포트’첫발간",
+  "화성특례시,우주항공산업육성본격화··4개전문분과·60명전문가가...",
+  "김제가족센터'온가족행복축제'개최…700명참여,다양한문화공연...",
+  "신한금융·서울시,'피노베이션챌린지'우수스타트업3곳선정",
+  "[증권&Now]하나증권,퇴직연금DC수익률증권업1위달성등",
+  "SKT,'AI거버넌스리포트'발간…사내AI에이전트관리체계도국제인증",
+  "장난감같은마이크로덕속에엄청난기술이…\"AI가만든로봇\""
  ],
  "recent_sigs": [
   [
@@ -6563,9 +6563,13 @@
   [
    "2026-10-26T15:12:16.472315+09:00",
    "상품 정확도 개선까지 가족결합할인계산기 개편 확대부터 킹비서"
+  ],
+  [
+   "2026-10-26T15:14:16.429987+09:00",
+   "같은 로봇 만든 장난감 속에 엄청난 기술이 마이크로덕 AI가"
   ]
  ],
- "last_run": "2026-10-26T15:12:43.373831+09:00",
+ "last_run": "2026-10-26T15:14:35.391243+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
