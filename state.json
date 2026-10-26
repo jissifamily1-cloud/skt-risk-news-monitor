@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=666924",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261026123508n3j",
-  "https://platum.kr/archives/296985",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424534",
-  "https://www.newsway.co.kr/news/view?ud=2026102611195720539",
-  "https://www.ngonews.kr/news/articleView.html?idxno=241478",
-  "https://www.newstnt.com/news/articleView.html?idxno=724881",
-  "https://www.news1.kr/world/northeast-asia/6328688",
   "https://www.epnc.co.kr/news/articleView.html?idxno=408745",
   "https://www.chosun.com/national/incident/2026/10/26/V25VRXX5NRBV3AP5KLTUMH2TDM/",
   "https://www.vegannews.co.kr/news/article.html?no=397194",
@@ -2999,17 +2991,17 @@
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716105",
   "https://www.youthdaily.co.kr/news/article.html?no=228884",
   "https://www.g-enews.com/view.php?ud=20261027081127574cd0bfacc1c_1",
-  "http://www.datanews.co.kr/news/article.html?no=147106"
+  "http://www.datanews.co.kr/news/article.html?no=147106",
+  "https://www.newsway.co.kr/news/view?ud=2026102611095211872",
+  "https://kstar.kbs.co.kr/list_view.html?idx=412943",
+  "http://www.press9.kr/news/articleView.html?idxno=84945",
+  "https://www.etoday.co.kr/news/view/2640347",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66505",
+  "https://www.kbmaeil.com/article/20261027500050",
+  "https://www.m-i.kr/news/articleView.html?idxno=2009436",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=619501"
  ],
  "seen_titles": [
-  "'그레이존워페어',대규모업데이트로알파단계전환",
-  "삼성화재,AI로고객별맞춤상담지원",
-  "AI로90곳해킹…'820만건'정보유출일당검거",
-  "AI스타트업16곳투자자앞에서다,서울AI허브IR데이",
-  "불법스팸과징금최대6%로높였지만···35만건이용제한이행여부는...",
-  "엔비디아·브로드컴손잡고美테일러증설…삼성파운드리반격",
-  "비전공자도AI로해킹…90여곳서개인정보820만건탈취한30대검거",
-  "\"개인별맞춤관리\"…삼성화재'AIAdvisor'로초개인화서비스강화",
   "中딥시크,20조원투자유치성공…앤트로픽등美AI추격",
   "오픈AI,국내첫'모델마스터즈'개최…스타트업AI서비스개발지원",
   "AI해킹으로기업정보820만건빼돌린일당검거",
@@ -6001,7 +5993,15 @@
   "AI거품논쟁,주가부터흔들고신용으로파급",
   "'몸값2천700조'앤트로픽IPO추진…美증시기술주반등견인",
   "해킹피해반복되는데보안투자는제자리…\"예방·공동대응강화해야...",
-  "KT클라우드재합병,쉽게결론못내리는이유는"
+  "KT클라우드재합병,쉽게결론못내리는이유는",
+  "군살뺀SK,이제AI로돈벌차례…새경영진시험대",
+  "\"더강하게더집요하게\"'크래시2:분노의도로'11월16일첫방송",
+  "롯데,AI에이전트개발경진대회개최…채용연계인재선발",
+  "롯데,AI인재채용문턱넓힌다…7개계열사참여경진대회개최",
+  "[로드픽]앤트로픽,2조달러상장도전…FTC조사·AI안전성'변수'",
+  "‘앤트로픽훈풍’탄코스피…5500선회복시도",
+  "생성형AI답변선택받는글,구체적수치·맥락이좌우",
+  "[상장예심]보안기업에버스핀·바이오티카로스,코스닥상장도전"
  ],
  "recent_sigs": [
   [
@@ -6401,7 +6401,7 @@
    "~KT 내리는 재합병 이유는 KT클라우드 쉽게 결론"
   ]
  ],
- "last_run": "2026-10-27T08:40:44.790719+09:00",
+ "last_run": "2026-10-27T08:42:34.794984+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
