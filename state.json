@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=05444806645615872&mediaCodeNo=257",
-  "https://byline.network/?p=9004111222624508",
-  "https://www.fnnews.com/news/202610251811493026",
-  "https://www.fnnews.com/news/202610251814106342",
-  "https://magazine.hankyung.com/job-joy/article/202610253638d",
   "https://magazine.hankyung.com/job-joy/article/202610253642d",
   "http://www.newstomato.com/ReadNews.aspx?no=1317952&inflow=N",
   "https://www.kukinews.com/article/view/kuk202610250036",
@@ -2999,14 +2994,14 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3733167",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695384",
   "http://www.inews24.com/view/2019131",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1418567"
+  "https://daily.hankooki.com/news/articleView.html?idxno=1418567",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695410",
+  "https://www.donga.com/news/Economy/article/all/20261026/134912683/1",
+  "http://www.newsian.co.kr/news/articleView.html?idxno=97773",
+  "https://www.khan.co.kr/article/202610261921001",
+  "https://www.khan.co.kr/article/202610261921011"
  ],
  "seen_titles": [
-  "“PHP보안에취약…코인거래소점검을”",
-  "롯데모바일상품권'기프티엘'해킹…고객개인정보유출",
-  "아이폰듀오'사전예약1분만에완판'…통신3사고객잡기총력전",
-  "AI주도주바뀌는데…삼전닉스'다음주자'없는韓증시",
-  "저가매수냐,관망이냐…증권가도'갑론을박'",
   "당근,AI에이전트로장애추적40분→2분…사내AI에이전트180개돌파",
   "우리금융,3분기순익1조492억…두분기연속1조원돌파",
   "\"해킹근절\"5대銀…내년정보보호예산4500억넘는다",
@@ -6001,13 +5996,14 @@
   "대전경찰청·법무부,전자장치부착자접근금지공동대응점검",
   "더존비즈온침해사고합동조사…고객사피해확산우려",
   "KB국민은행해킹2091명정보유출추가확인",
-  "국민은행,해킹피해자2091명추가확인…정보유출총2210명"
+  "국민은행,해킹피해자2091명추가확인…정보유출총2210명",
+  "시설공단자진사퇴에도…“교통공사까지철회”",
+  "KB국민은행해킹피해자119→2210명확대…미래에셋도고객정보유출",
+  "미래에셋생명,해킹으로고객정보유출…금감원긴급현장점검",
+  "국민은행,해킹정보유출2091명추가확인…총2210명",
+  "미래에셋생명서개인정보유출,보험사첫해킹…금감원긴급현장점검"
  ],
  "recent_sigs": [
-  [
-   "2026-10-26T13:24:15.475213+09:00",
-   "은행들 편성 보안업계 사태에 예산 1000억원대 큰손"
-  ],
   [
    "2026-10-26T13:26:15.049041+09:00",
    "유틸리티로 AIDC ~SKT 확장"
@@ -6625,7 +6621,7 @@
    "병원 학원 생성형 수억 정보 요구 AI로 개인 쥐고"
   ]
  ],
- "last_run": "2026-10-26T19:22:33.459635+09:00",
+ "last_run": "2026-10-26T19:24:37.265108+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
