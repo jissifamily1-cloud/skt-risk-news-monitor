@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nytimes.com/2026/10/22/business/dealbook/zuckerbergs-big-deal.html?partner=naver",
-  "https://www.tokenpost.kr/news/tech/425919",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42402",
-  "https://www.tokenpost.kr/news/tech/425910",
-  "https://econotimes.com/PHP-Flaws-Prompt-Precautionary-Shutdowns-Across-European-Public-Services-1760139",
-  "https://econotimes.com/Chinese-Reports-Link-Hugging-Face-Breach-to-AI-Agent-Security-Risks-1760123",
-  "https://econotimes.com/OpenAI-s-GPT-Rosalind-Finds-Mouse-Brain-Research-Leads-in-32-Minutes-1760088",
-  "https://www.tokenpost.kr/news/ai/425871",
-  "https://www.koreajoongangdaily.com/business/govts-scramble-to-patch-websites-after-ainbspuncovers-hidden-php-flawsnbsp/12934237",
   "https://www.dailysecu.com/news/articleView.html?idxno=209007",
   "https://www.nytimes.com/2026/10/22/technology/ai-data-centers-paint.html?partner=naver",
   "https://www.nytimes.com/2026/10/22/opinion/interesting-times-tyler-cowen-michael-kratsios.html?partner=naver",
@@ -2999,18 +2990,18 @@
   "https://www.etnews.com/20261026000046",
   "http://www.metroseoul.co.kr/article/20261026500073",
   "https://biz.chosun.com/it-science/ict/2026/10/26/6O5J46YDUFCKRI62O2CTEAWTRQ/",
-  "https://biz.heraldcorp.com/article/10914370"
+  "https://biz.heraldcorp.com/article/10914370",
+  "https://www.sportsseoul.com/news/read/1644037",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732235",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408721",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254158",
+  "http://www.kdfnews.com/news/articleView.html?idxno=189855",
+  "https://www.koreatimes.co.kr/path/A2026102209300005840",
+  "https://www.fnnews.com/news/202610260926502152",
+  "https://www.edaily.co.kr/News/Read?newsId=02368166645616856&mediaCodeNo=257",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=90942"
  ],
  "seen_titles": [
-  "PHP취약점2건,인증없이서버장악가능…텐센트클라우드점검권고",
-  "InsightJoinsOpenAIPartnerNetwork,PlansOpenAICenterofExcellen",
-  "'Originalreporting'criticaltodemocracy'sdefense,saysNewYorkT",
-  "Zuckerberg’sBigDeal",
-  "PHP취약점2건심각도9.2,오픈AI코덱스시큐리티가발견기여",
-  "\"AI가스스로더강력한AI를만드는세상\"…'재귀적자기개선',초지능...",
-  "백악관,PHP취약점16일파악…패치발행앞당기려조율",
-  "PHPFlawsPromptPrecautionaryShutdownsAcrossEuropeanPublicServ",
-  "ChineseReportsLinkHuggingFaceBreachtoAI-AgentSecurityRisks",
   "OpenAI'sGPT-RosalindFindsMouse-BrainResearchLeadsin32Minutes",
   "오픈AI,방어인력에10억달러지원…'PHP취약점AI가먼저찾아'",
   "Gov'tsscrambletopatchwebsitesafterAIuncovershiddenPHPflaws",
@@ -6001,7 +5992,16 @@
   "SKT·카카오·KT참여'모두의AI'브랜드국민공모전개시",
   "SK텔레콤,AI중심의사결정체계고도화박차",
   "오픈AI,韓스타트업AI서비스개발지원",
-  "기업용SW업체더존비즈온,해킹피해…과기부,조사‘착수’"
+  "기업용SW업체더존비즈온,해킹피해…과기부,조사‘착수’",
+  "삼성vsKIA,KS티켓놓고격돌…가을야구열기에연금복권도시간변경",
+  "HD현대일렉트릭,울산HDFC홈경기서'2026시즌브랜드데이'개최",
+  "이파피루스,'PyMuPDF'2.0버전업데이트…3개패키지하나로통합",
+  "삼성전자,갤럭시버즈첫클립형이어폰'갤럭시버즈온'27일국내출...",
+  "G마켓,3분기연속거래액성장…수출∙배송∙콘텐츠사업확대",
+  "WhichAImythwillweembrace?",
+  "'모두의AI'새이름국민이짓는다…과기정통부,브랜드명공모",
+  "케이쓰리아이,엔비디아옴니버스연동피지컬AI제조플랫폼공개예정",
+  "빗썸,사내AI공모전서업무혁신사례107건발굴…'AI내재화'속도"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-10-26T09:40:25.100577+09:00",
    "체계 의사결정 ~SKT 중심 고도화 박차"
+  ],
+  [
+   "2026-10-26T09:42:15.908422+09:00",
+   "케이쓰리아이 제조 연동 플랫폼 피지컬 공개예정 옴니버스"
+  ],
+  [
+   "2026-10-26T09:42:15.908422+09:00",
+   "업무 내재화 발굴 사내 속도 107건 빗썸 공모전서 사례 혁신"
   ]
  ],
- "last_run": "2026-10-26T09:40:43.066911+09:00",
+ "last_run": "2026-10-26T09:42:36.628572+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
