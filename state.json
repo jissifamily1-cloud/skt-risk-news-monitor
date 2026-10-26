@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261026_0003840896",
-  "https://thetracker.co.kr/View.aspx?No=4278663",
-  "https://biz.heraldcorp.com/article/10914754",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=366717",
   "https://www.boannews.com/news/articleView.html?idxno=146742",
   "https://biz.heraldcorp.com/article/10914756",
@@ -2999,12 +2996,12 @@
   "https://www.m-economynews.com/news/article.html?no=72149",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008815907&plink=ORI&cooper=NAVER",
   "https://www.mydaily.co.kr/page/view/2026102707512908897",
-  "https://biz.sbs.co.kr/article_hub/20000342255?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000342255?division=NAVER",
+  "https://www.etoday.co.kr/news/view/2640314",
+  "https://www.etoday.co.kr/news/view/2640309",
+  "https://www.etoday.co.kr/news/view/2640307"
  ],
  "seen_titles": [
-  "[동정]이응우계룡시장",
-  "[아시아라운드업20261026]\"총선접전네타냐후,트럼프에공개지지요...",
-  "세종시의회곽효정의원\"백화점유치·중심상권개발서둘러야\"",
   "클로드,美유권자정보무단접근…중간선거앞두고AI보안우려",
   "이재용취임4년,반도체실적회복발판삼아미래투자넓힌다",
   "한투운용,홍콩ETF시장진출…CUAMHK협력1호ETF상장",
@@ -6001,7 +5998,10 @@
   "메타,AI인프라투자위해950억달러조달...반도체·데이터센터투자...",
   "[글로벌마켓시황]'앤트로픽'IPO신청…상반기매출14배폭증",
   "KB국민은행해킹유출2210명으로…24일만에피해18.6배확대",
-  "[비즈나우]AI돈맥경화…업계는돈줄에'혈안'"
+  "[비즈나우]AI돈맥경화…업계는돈줄에'혈안'",
+  "[오늘의투자전략]코스피거래대금12월이후최저…美AI주반등에단...",
+  "[오늘의투자전략]“코스피반등전망”⋯앤스로픽IPO기대에美AI주...",
+  "고개든국제금값…국내금시세는?"
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,17 @@
   [
    "2026-10-27T07:54:15.234473+09:00",
    "돈줄에 돈맥경화 업계는 혈안"
+  ],
+  [
+   "2026-10-27T07:56:15.948799+09:00",
+   "전망 코스피 AI주 기대에 반등 IPO"
+  ],
+  [
+   "2026-10-27T07:56:15.948799+09:00",
+   "금시세는 고개 국제 금값 국내"
   ]
  ],
- "last_run": "2026-10-27T07:54:39.274673+09:00",
+ "last_run": "2026-10-27T07:56:39.456691+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
