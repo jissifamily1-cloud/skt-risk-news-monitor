@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20260930152554",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703916",
-  "https://www.aitimes.com/news/articleView.html?idxno=215787",
-  "https://www.aitimes.com/news/articleView.html?idxno=215788",
-  "https://www.aitimes.com/news/articleView.html?idxno=215791",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703837",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703790",
-  "https://news.jtbc.co.kr/article/NB12320616?influxDiv=NAVER",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703743",
   "https://zdnet.co.kr/view/?no=20260930072733",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703722",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/society/court-prosecution/6331598",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7190631",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709835",
-  "https://www.yna.co.kr/view/AKR20261026047700009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261026047700009?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732282",
+  "https://biz.heraldcorp.com/article/10914495",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1418180",
+  "https://www.mt.co.kr/world/2026/10/26/2026102608323016036",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5075810",
+  "https://view.asiae.co.kr/article/2026102610073217691",
+  "https://www.dizzotv.com/site/data/html_dir/2026/10/26/2026102680023.html",
+  "https://www.ddaily.co.kr/page/view/2026102610025438341"
  ],
  "seen_titles": [
-  "NYT\"오픈AI,직원·외부연구원AI보안경고묵살\"",
-  "\"인류멸종확률50%\"...AI연구원22인'경고인터뷰'공개",
-  "샘알트먼\"오픈AI,모델안정성확보전엔상장안한다\"",
-  "오픈AI,IPO미루고300억달러조달…몸값1.4조달러목표",
-  "[데일리픽]XRP강세론재점화…테슬라·스페이스X합병변수등장",
-  "알트먼\"기업공개압박없이AI안전확보가우선\"",
-  "오픈AI추가투자유치목표는'1900조가치'...연매출은95조육박",
-  "트럼프,빅테크대거소집해'규제불가'재확인…업계자발적서약에...",
   "교황레오14세,AI규제반대하는엔비디아젠슨황직격…\"AI위험외면...",
   "오픈AI,IPO미루더니40조원조달?…몸값1900조원눈앞",
   "내가시키기전에움직인다…오픈AI'닷츠'공개[소셜픽]",
@@ -6001,7 +5993,15 @@
   "특검,28일올림픽공원투표지247만장임의검증…참관인100명(종합)",
   "NH농협銀,금융사기예방·재생에너지전환",
   "\"국민이이해하기쉽게\"…과기정통부,'모두의AI'브랜드공모전",
-  "\"오픈AI,파격할인으로앤트로픽고객뺏어와\""
+  "\"오픈AI,파격할인으로앤트로픽고객뺏어와\"",
+  "[포토]강명수,전남광주통합특별시초대산업경제부시장취임",
+  "소프웨어실행환경‘Node.js’도보안취약점발견",
+  "경남진주강소특구,우주항공기술사업화·투자잇는협력플랫폼가동",
+  "AI칩확보나선스페이스X,머스크\"53조조달완료…우린달라\"",
+  "선관위특검,송파구투표지·CCTV검증…검사등110여명투입",
+  "'모두의AI'브랜드국민이직접만든다…과기정통부,대국민공모",
+  "LG유플러스,‘오늘일상’출시...한화면에생활정보담아",
+  "거세지는AI해킹…\"공격막을해답은기본보안체계에있다\""
  ],
  "recent_sigs": [
   [
@@ -6419,9 +6419,13 @@
   [
    "2026-10-26T10:08:14.063838+09:00",
    "파격 고객 뺏어와 앤트로픽 할인으로"
+  ],
+  [
+   "2026-10-26T10:10:23.370711+09:00",
+   "거세지는 보안체계에 공격 있다 막을 해답은 기본"
   ]
  ],
- "last_run": "2026-10-26T10:08:35.141634+09:00",
+ "last_run": "2026-10-26T10:10:46.725110+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
