@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337941",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3731291",
-  "https://www.jemin.com/news/articleView.html?idxno=845182",
-  "https://www.aitimes.com/news/articleView.html?idxno=216603",
-  "https://www.yna.co.kr/view/AKR20261024013000009?input=1195m",
-  "https://www.tokenpost.kr/news/breaking/426108",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172522",
   "https://www.yna.co.kr/view/AKR20261024015900009?input=1195m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3731318",
   "https://www.etnews.com/20261023000352",
@@ -2999,16 +2992,16 @@
   "https://news.mtn.co.kr/article/2026102309170775602",
   "http://www.spochoo.com/news/articleView.html?idxno=131435",
   "https://www.asiatime.co.kr/article/20261026500180",
-  "https://www.newspim.com/news/view/20261026000454"
+  "https://www.newspim.com/news/view/20261026000454",
+  "https://biz.sbs.co.kr/article_hub/20000342096?division=NAVER",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732441",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42429",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365159",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580300179322",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50028",
+  "https://www.kbmaeil.com/article/20261024500016"
  ],
  "seen_titles": [
-  "미국증시다우652포인트급락…유가급등에도반도체반등,SK하이닉스...",
-  "마이크론·AMD웃고엔비디아·애플울었다…뉴욕증시대형주혼조세",
-  "KT에서첫PS준비하는김현수,네번째KS우승조준“가을야구감사...",
-  "윤석열정부때급감한MBC광고,이재명정부에서복구?",
-  "고의숙제주교육청첫조직개편좌초…4·3교육과·교육활동보호담당관...",
-  "오픈AI,차세대인공지능훈련재개…인터넷차단·보안검증강화로안...",
-  "문샷'키미K3.1프로',AAII전체4위…오픈웨이트1위등극",
   "\"앤트로픽,유럽'AI컨설팅'진출…'기업고객'놓고경쟁\"",
   "구글프리마켓약2%하락…컴퓨팅부족·오픈AI경쟁작광고확대보도",
   "미국증시나스닥100'약보합'..반도체-에너지-AI보안주'활짝'",
@@ -6001,7 +5994,14 @@
   "SK브로드밴드,M&A검토…데이터센터분리후신사업찾는다",
   "\"야구처음시작한마음되새긴다\"김태균야구캠프에문동주·박성한...",
   "PHP이어Node.js에서도보안취약점발견…해킹우려'비상'",
-  "[AIMY뉴스]26일중국증시'정책모멘텀과글로벌변수...기대·불확실..."
+  "[AIMY뉴스]26일중국증시'정책모멘텀과글로벌변수...기대·불확실...",
+  "\"中,데이터국유기업으로…데이터-컴퓨팅-전력사슬완성\"",
+  "세종시의회김효숙의원\"방치된미디어큐브,문화명소로되살려야\"",
+  "챗GPT에기업기밀입력하면AI가사전차단…솔트웨어,민감정보유출...",
+  "'저작권침해'법정에서는AI",
+  "아이스크림에듀,홈런중등이투스특별관오픈…스타강사전강좌무...",
+  "한투운용,CUAMHK와홍콩에첫반도체ETF상장",
+  "“1분에100만회공격”…PHP보안결함에전세계웹사이트비상"
  ],
  "recent_sigs": [
   [
@@ -6613,7 +6613,7 @@
    "모멘텀과 정책 글로벌 변수 불확실 중국증시 26일 기대"
   ]
  ],
- "last_run": "2026-10-26T11:34:39.249424+09:00",
+ "last_run": "2026-10-26T11:36:34.623434+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
