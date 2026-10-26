@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202610240922216894",
-  "https://www.newsis.com/view/NISX20261024_0003839398",
-  "https://www.thepublic.kr/news/articleView.html?idxno=323497",
   "https://www.thepublic.kr/news/articleView.html?idxno=323498",
   "https://www.thepublic.kr/news/articleView.html?idxno=323483",
   "https://www.yna.co.kr/view/AKR20261023165300017?input=1195m",
@@ -2999,12 +2996,12 @@
   "https://www.ytn.co.kr/_ln/0103_202610261145259983",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441093",
   "https://www.jemin.com/news/articleView.html?idxno=845327",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450255"
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450255",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=446232",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193722",
+  "https://www.thepublic.kr/news/articleView.html?idxno=323679"
  ],
  "seen_titles": [
-  "LLM'명령'에두글자추가했더니…로봇이한섬뜩한행동",
-  "기술주한숨돌렸지만유가가덮쳤다…뉴욕증시일제히하락",
-  "[국감진단]162조기금부터개인정보유출까지…국감이드러낸국정의...",
   "미은행들\"AI멋대로금융거래우려\"...계좌접근차단",
   "달리기좋은선선한날씨…뉴시스바다마라톤레이스시작",
   "\"애플첫폴더블폰상륙\"…SKT,'아이폰듀오'공식출시및가입자혜택...",
@@ -6001,7 +5998,10 @@
   "선관위특검,모레'올림픽공원투표지'임의검증...\"증감·위조확인\"",
   "AI비관론자\"GPU희소성,젠슨황이만들어낸것일뿐\"",
   "빌게이츠\"AI풍요의시대오기전20년대격변\"…일자리·노동시장재...",
-  "과기정통부,'더존비즈온해킹사고'민관합동조사단구성해조사착수"
+  "과기정통부,'더존비즈온해킹사고'민관합동조사단구성해조사착수",
+  "일론머스크\"스페이스X,GPU구매위해400억달러부채조달…로켓등...",
+  "LG유플러스,IPTV활용범위넓힌다…영상넘어생활플랫폼으로",
+  "삼전닉스,26년간번돈의2배를단2년만에?…주가는극단적저평가"
  ],
  "recent_sigs": [
   [
@@ -6625,7 +6625,7 @@
    "경쟁에 ~SKT 주권 공동검증 강조 높아진 규제장벽 국제"
   ]
  ],
- "last_run": "2026-10-26T11:50:44.540384+09:00",
+ "last_run": "2026-10-26T11:52:31.945747+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
