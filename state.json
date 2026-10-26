@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://m.sports.naver.com/basketball/article/065/0000303454",
-  "https://www.hani.co.kr/arti/international/china/1284040.html",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261025010008407",
-  "http://www.tvdaily.co.kr/read.php3?aid=17929127301806843002",
-  "https://www.kbsm.net/news/view.php?idx=538963",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875698",
-  "https://www.newscj.com/news/articleView.html?idxno=3442916",
   "https://view.asiae.co.kr/article/2026102317135210904",
   "https://www.dt.co.kr/article/12091105",
   "http://www.metroseoul.co.kr/article/20261025500239",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1706382/?sc=Naver",
   "https://news.tf.co.kr/read/economy/2380998.htm",
   "https://www.newspim.com/news/view/20261026001216",
-  "https://www.dt.co.kr/article/12091365"
+  "https://www.dt.co.kr/article/12091365",
+  "https://www.daejonilbo.com/news/articleView.html?idxno=2309530",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641029",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88226",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=312457",
+  "https://news.mtn.co.kr/article/2026102616114328912",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766824",
+  "https://www.kyeonggi.com/article/20261026580694"
  ],
  "seen_titles": [
-  "'5연패수렁'KT문경은감독\"다음경기에서는어떻게든연패끊겠다\"",
-  "YBM넷,과정중시하는Z세대트렌드맞춰'전강의무한패스'운영",
-  "창녕군,안전한국훈련서복합재난대응체계점검",
-  "정보유출논란에도…티빙,3개월만에스트리밍앱1위복귀",
-  "[BK리뷰]엘런슨없는DB,무니없는정관장격파…시즌첫3연승",
-  "'엘런슨빠진DBvs무니없는정관장'DB가웃었다...정관장2연패",
-  "중전문가들,김정은단둥방문은“북·중경제관계긴밀해지는흐름”",
   "삼성·SK하이닉스,3분기영업익184조전망…HBM4·메모리가견인",
   "\"연이자3911%요구하며협박\"...장동주,불법대부업자형사고소",
   "개인정보유출사건175건,1년넘게'조사중'…대형사건쏠림원인",
@@ -6001,13 +5994,16 @@
   "국민은행,외부해킹정보유출2091명추가확인…\"고객에송구\"",
   "[속보]국민은행,해킹정보유출2091명추가확인…총2210명",
   "KB국민은행,해킹정보유출2210명으로…2091명추가확인",
-  "[사설]하루가멀다하고터지는해킹사고…정부는도대체뭐하나"
+  "[사설]하루가멀다하고터지는해킹사고…정부는도대체뭐하나",
+  "'모두의AI'이름을지어주세요",
+  "KB국민은행,정보유출추가확인···총2210명유출",
+  "KB국민은행정보유출2210명으로확대…고객1631명추가확인",
+  "KB국민은행,정보유출규모2210명으로확대…신규해킹은없어",
+  "금융권해킹수사불개시논란…중수청판단배경은",
+  "KB국민은행해킹피해2210명으로확대...전·현직임직원포함",
+  "KB국민은행해킹피해2천210명으로확대…미래에셋생명도뚫렸다"
  ],
  "recent_sigs": [
-  [
-   "2026-10-26T12:20:23.743912+09:00",
-   "듀크대 개최 도쿄대 태재대학교 태재미래교육포럼"
-  ],
   [
    "2026-10-26T12:26:15.065148+09:00",
    "선점 AI기판 추격 삼성전기 불붙인 엔비디아가 LG이노텍 쟁탈전"
@@ -6607,9 +6603,13 @@
   [
    "2026-10-26T18:18:17.004028+09:00",
    "하고 하루가 터지는 도대체 사고 정부는 멀다 뭐하나"
+  ],
+  [
+   "2026-10-26T18:20:26.310673+09:00",
+   "미래에셋생명도 뚫렸다 KB국민은행 확대 피해 2천210명으로"
   ]
  ],
- "last_run": "2026-10-26T18:18:44.340046+09:00",
+ "last_run": "2026-10-26T18:20:43.938500+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
