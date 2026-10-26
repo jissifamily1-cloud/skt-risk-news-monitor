@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261023_0003837935",
-  "http://www.press9.kr/news/articleView.html?idxno=84761",
-  "https://www.news1.kr/photos/8174883",
-  "https://www.news1.kr/photos/8174882",
-  "https://www.news1.kr/photos/8174881",
-  "https://www.edaily.co.kr/News/Read?newsId=02912646645615872&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=02915926645615872&mediaCodeNo=257",
   "https://www.eroun.net/news/articleView.html?idxno=93232",
   "https://www.mk.co.kr/article/12183769",
@@ -2999,15 +2993,15 @@
   "https://www.chosun.com/economy/tech_it/2026/10/26/TK54VL5SFRFTFNJFTXT3HLJVDU/",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000076756",
   "https://www.cstimes.com/news/articleView.html?idxno=725285",
-  "https://www.huffingtonpost.kr/article/261532"
+  "https://www.huffingtonpost.kr/article/261532",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732740",
+  "https://www.newsway.co.kr/news/view?ud=2026102614034161631",
+  "https://www.yna.co.kr/view/AKR20261026102200011?input=1195m",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=408760",
+  "https://www.ikbc.co.kr/article/view/kbc202610260029",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4114708"
  ],
  "seen_titles": [
-  "[위클리오늘]이동통신소식_SK텔레콤,KT(10.23)",
-  "329만원에도'1분컷'…아이폰듀오,통신3사예약완판",
-  "SK텔레콤,첫폴더블아이폰'듀오'출시…사전예약1분만에마감",
-  "[통신픽]아이폰듀오정식출시…어느통신사가유리할까?",
-  "'1분만에매진'아이폰듀오출시첫날…'스타화이트'선호많아",
-  "아이폰듀오'첫폴더블'통했다…통신사사전예약1분만에마감",
   "SKT,아이폰듀오출시…사전예약1분만에마감",
   "SKT,애플의첫폴더블스마트폰'아이폰듀오'출시",
   "SKT,폴더블'아이폰듀오'출시",
@@ -6001,7 +5995,13 @@
   "놀유니버스에서도이용자·임직원개인정보유출",
   "생성형AI로'820만건'털었다…비전공자독학해커일당첫검거",
   "에스엘즈,'BuildAR2.0'조달청혁신제품지정",
-  "13만기업거쳐간더존비즈온잇단해킹에정부'중대사고'판단,민관..."
+  "13만기업거쳐간더존비즈온잇단해킹에정부'중대사고'판단,민관...",
+  "[동정]권오상대구광역시서구청장",
+  "금감원\"AI보안역량갖춘금융사,망분리전면해제검토\"",
+  "[연합뉴스이시각헤드라인]-14:30",
+  "슈퍼마이크로,엔비디아베라CPU256개탑재100%수냉식랙공개",
+  "블로그로해킹독학IT비전공자…AI동원해개인정보820만건빼냈다",
+  "AI악용해개인정보대거탈취…90여곳해킹30대구속"
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-10-26T14:30:32.944225+09:00",
    "쇼크 6급 성능 공개에 키미 오나 비상 GPT"
+  ],
+  [
+   "2026-10-26T14:32:14.939275+09:00",
+   "개인정보 탈취 90여 대거 30대 악용해 구속"
   ]
  ],
- "last_run": "2026-10-26T14:30:51.187993+09:00",
+ "last_run": "2026-10-26T14:32:36.220758+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
