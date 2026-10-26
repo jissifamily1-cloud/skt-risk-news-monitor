@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215311",
-  "https://magazine.hankyung.com/business/article/202610230580b",
-  "https://www.etnews.com/20261022000291",
-  "https://www.news1.kr/it-science/security-hacking/6330361",
-  "https://www.wikitree.co.kr/articles/1168572",
   "http://www.newstomato.com/ReadNews.aspx?no=1317714&inflow=N",
   "https://biz.sbs.co.kr/article_hub/20000341598?division=NAVER",
   "https://news.tf.co.kr/read/economy/2379630.htm",
@@ -2999,14 +2994,14 @@
   "https://www.jejusori.net/news/articleView.html?idxno=507541",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2309465",
   "https://www.mt.co.kr/tech/2026/10/26/2026102615330840732",
-  "https://sateconomy.co.kr/news/view/1065596721870377"
+  "https://sateconomy.co.kr/news/view/1065596721870377",
+  "https://www.aitimes.com/news/articleView.html?idxno=216570",
+  "https://www.aitimes.com/news/articleView.html?idxno=216673",
+  "https://www.mt.co.kr/world/2026/10/25/2026102210131041286",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641002",
+  "https://www.thepowernews.co.kr/view.php?ud=202610261355162552de3f0aa1be_7"
  ],
  "seen_titles": [
-  "\"AI성과내는기업6%뿐\"…AWS가밝힌2027년'AX승자'의조건",
-  "中AI양대상장사시총198兆증발…딥시크위협까지",
-  "\"AI연산력은새로운석유\"…월가,'컴퓨트선물'선점경쟁",
-  "\"앤스로픽,다음달중순신규상장도전…IPO시장에혼자남아\"",
-  "NNT,AI인용패턴분석···\"키워드반복보다정보밀도중요\"",
   "\"AI가인용하는글따로있었다\"",
   "“AI가추천하는화장품돼라”…K뷰티,GEO경쟁시동",
   "\"우리홈페이지도위험한가요?\"…PHP취약점에속수무책중소기업",
@@ -6001,7 +5996,12 @@
   "[10월21일]제주도지사·도의장·도교육감·시장",
   "기억에서정보찾아명령수행",
   "매장700곳한꺼번에뚫렸다…AI시대커지는OT보안",
-  "미래에셋생명,해킹으로고객정보유출…보험권첫사례"
+  "미래에셋생명,해킹으로고객정보유출…보험권첫사례",
+  "오픈AI,투자열기주춤하자목표기업가치200조낮춰",
+  "중국AI컴퓨팅내년두배로…65%는미국산칩에의존",
+  "세계경제는AI에베팅했다…청구서는이제부터다",
+  "[전국+]전북대포폰여론조작의혹일파만파···\"국수본직접수사해야...",
+  "KT‘보야지페스티벌’10주년…분당중앙공원에8500명모였다"
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,17 @@
   [
    "2026-10-26T16:20:24.275869+09:00",
    "CJ LG헬로서 ENM 중단 송출 끊긴다 4개 투니버스 채널"
+  ],
+  [
+   "2026-10-26T16:24:15.607075+09:00",
+   "의혹 여론조작 대포폰 국수본 직접 수사해야 전북 일파만파"
+  ],
+  [
+   "2026-10-26T16:24:15.607075+09:00",
+   "모였다 8500명 ~KT 페스티벌 보야지 10주년 분당중앙공원에"
   ]
  ],
- "last_run": "2026-10-26T16:22:37.274088+09:00",
+ "last_run": "2026-10-26T16:24:39.617865+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
