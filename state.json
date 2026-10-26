@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2639654",
-  "https://www.starnewskorea.com/broadcast-show/2026/10/23/2026102309235396873",
   "https://www.seoultimes.news/news/article.html?no=2000101315",
   "https://www.sedaily.com/article/20105627",
   "https://www.gukjenews.com/news/articleView.html?idxno=3731418",
@@ -2999,11 +2997,11 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3732622",
   "https://www.inthenews.co.kr/news/article.html?no=93492",
   "https://www.fnnews.com/news/202610261319440499",
-  "https://www.goodkyung.com/news/articleView.html?idxno=292736"
+  "https://www.goodkyung.com/news/articleView.html?idxno=292736",
+  "http://www.popcornnews.net/news/articleView.html?idxno=137319",
+  "https://www.kado.net/news/articleView.html?idxno=2080449"
  ],
  "seen_titles": [
-  "개보위,대구'개인정보이노베이션존'본격운영",
-  "[안광섭AI진테제]대규모LLM이불평등증폭?",
   "\"당신잔고파괴됐다\"일본FX계좌해커에뚫렸는데고객위로금4만원",
   "전북대학교,세계기록유산활용한SDGs교육시범운영…역사속평화와...",
   "PHP보안비상어떤내용?…로그인없이웹사이트장악가능",
@@ -6001,7 +5999,9 @@
   "금산군,라스베이거스박람회·LA상담회로미국시장공략...금산인삼...",
   "G마켓,3분기연속거래액성장세…글로벌수출·콘텐츠로경쟁력강화",
   "SK텔레콤,AIDCAI유틸리티로확장",
-  "[기자수첩]해킹엔속수무책,보안책임자는'투잡'뛰는금융권"
+  "[기자수첩]해킹엔속수무책,보안책임자는'투잡'뛰는금융권",
+  "한국투자신탁운용,홍콩시장에본격진출…첫반도체ETF상장",
+  "지역숙원KBS원주송신소폐소가시화되나…박정하국회의원,방미통위..."
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,13 @@
   [
    "2026-10-26T13:26:15.049041+09:00",
    "보안 금융권 투잡 뛰는 해킹엔 책임자는 속수무책"
+  ],
+  [
+   "2026-10-26T13:28:15.883009+09:00",
+   "원주송신소 숙원 폐소 지역 국회의원 KBS 박정하 가시화되나"
   ]
  ],
- "last_run": "2026-10-26T13:26:36.124730+09:00",
+ "last_run": "2026-10-26T13:28:34.201760+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
