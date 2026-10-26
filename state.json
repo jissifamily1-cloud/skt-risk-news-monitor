@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704506",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=717434",
-  "https://zdnet.co.kr/view/?no=20261001151648",
-  "https://www.ajunews.com/view/20261001140416430",
-  "https://www.aitimes.com/news/articleView.html?idxno=215835",
-  "https://zdnet.co.kr/view/?no=20261001095814",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704237",
   "https://zdnet.co.kr/view/?no=20261001085516",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704174",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704133",
@@ -2999,16 +2992,16 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1729104",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814639&plink=ORI&cooper=NAVER",
   "https://www.kyeonggi.com/article/20261026580050",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814646&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008814646&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/it-science/general-it/6331551",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3732286",
+  "https://kpenews.com/View.aspx?No=4278500",
+  "https://biz.chosun.com/it-science/ict/2026/10/26/Y6SRXZUOSVFH3HNZH4VTBTO4EM/",
+  "https://www.theguru.co.kr/news/article.html?no=108772",
+  "https://www.dongascience.com/news/view/80471",
+  "https://www.sedaily.com/article/20106004"
  ],
  "seen_titles": [
-  "'제브'뜨니판단·결정AI모델단숨에격전지로..유력기업들대거가...",
-  "[디투피플]캡차·기존KYC한계,홍채기반'월드'ID가AI시대진정한...",
-  "‘육아+러닝’유아차런이대세…몸에는괜찮을까",
-  "소프트뱅크,오픈AI에100억달러추가출자…지분13%",
-  "노동력로봇으로대체기업,사회보장세(FICA)납부해야:빌게이츠",
-  "[SW키트]구글·오픈AI·앤트로픽,신모델안전확보제각각…\"검증한계...",
-  "오픈AI·앤트로픽,재무부담가중에\"연내상장계획백지화\"",
   "오픈AI,자체에이전트에'디시전스API'적용...아키텍처판도바뀐다",
   "오픈AI'디시전스API',AI에이전트안전장치로주목",
   "AI기기줄줄이실패했는데…메타·오픈AI가택한'반대전략'",
@@ -6001,7 +5994,14 @@
   "'4년침체'깬G마켓…성수동서알리바바타고글로벌진격'고삐'",
   "선관위특검,28일올림픽공원서투표지247만장·CCTV검증",
   "선관위특검,28일올림픽공원서투표지247만장‘공개검증’",
-  "PHP이어Node.js도…연이은웹사이트해킹우려'비상'"
+  "PHP이어Node.js도…연이은웹사이트해킹우려'비상'",
+  "'모두의AI'브랜드,국민이직접만든다…브랜드명·슬로건대국민공...",
+  "김대권수성구청장,'수성미술관을잇다'포럼...공립미술관등록앞...",
+  "삼성화재,AI로맞춤형보험상담강화..영업지원시스템'AIAdvisor'도입",
+  "티오리,Node.js취약점‘Node2Shell’긴급대응방안발표",
+  "카카오픽코마,일본서100만건이메일주소유출사고…외부위탁사해...",
+  "'불쾌한이웃'데이터센터…\"울산,최대4도상승할것\"",
+  "장르물강자KT스튜디오지니,K로맨스신흥강자로부상"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,13 @@
   [
    "2026-10-26T10:04:15.003511+09:00",
    "연이은 이어 우려 비상 Node js도 사이트 PHP"
+  ],
+  [
+   "2026-10-26T10:06:15.737253+09:00",
+   "K로맨스 강자로 ~KT 강자 부상 신흥 장르물 KT스튜디오지니"
   ]
  ],
- "last_run": "2026-10-26T10:04:32.320024+09:00",
+ "last_run": "2026-10-26T10:06:34.239632+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
