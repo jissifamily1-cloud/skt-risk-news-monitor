@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816925&plink=ORI&cooper=NAVER",
-  "https://www.g-enews.com/view.php?ud=202610271307553433923c501012_1",
-  "http://www.wsobi.com/news/articleView.html?idxno=320423",
-  "https://www.ajunews.com/view/20261027133701878",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172870",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=814916",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271332050800346",
-  "https://www.mt.co.kr/policy/2026/10/27/2026102713250596837",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498856",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=730025",
   "http://www.dailypop.kr/news/articleView.html?idxno=103756",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080217",
@@ -2999,18 +2990,18 @@
   "https://www.munhwa.com/article/11626805",
   "https://www.news2day.co.kr/article/20261028500021",
   "https://www.g-enews.com/view.php?ud=202610280848256164923c501012_1",
-  "https://www.mt.co.kr/stock/2026/10/28/2026102808523882595"
+  "https://www.mt.co.kr/stock/2026/10/28/2026102808523882595",
+  "https://www.hankookilbo.com/news/article/A2026102808520001670?did=NA",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485279",
+  "https://www.hankyung.com/article/202610289586i",
+  "https://www.ziksir.com/news/articleView.html?idxno=150999",
+  "https://www.seoultimes.news/news/article.html?no=2000101444",
+  "https://www.etnews.com/20261028000023",
+  "https://www.g-enews.com/view.php?ud=20261028084320591744093b5d4e_1",
+  "https://www.sentv.co.kr/article/view/sentv202610280026",
+  "https://view.asiae.co.kr/article/2026102808550970342"
  ],
  "seen_titles": [
-  "프랑스시위·통신장애에뜬비트챗…애플앱스토어1위등극",
-  "가로등‘불꽃폭발’몰랐다는한전울릉지사장...수익챙기기혈안,...",
-  "오세훈서울시장\"시의회'여소야대'로뜻대로되는일거의없어\"",
-  "앤트로픽,나스닥본격상장…133조자본흡수'관심'",
-  "LG전자·LGCNS'코리아그랜드페스티벌'맞아가전할인행사진행·준...",
-  "[특징주]엘리스,美기술주반등에12%대급등…상장후롤러코스터",
-  "KT,AI500개한곳에…비용최대25%절감",
-  "AI속도논쟁가열",
-  "[포토]오세훈시장,청년들과AI성장권오픈토크",
   "대전TP,위성통신·6G차세대통신부품시험장비구축·개방",
   "HBM생산확대기대…케이씨텍·에스티아이·예스티주가폭등쇼",
   "로봇메모리수요적다는분석에…머스크\"모든분야넘을것\"",
@@ -6001,7 +5992,16 @@
   "선간위특검,올림픽공원‘봉쇄개표소’진입…147일만",
   "금감원장\"금융그룹CEO승계투명·공정성강화\"재차당부",
   "대신증권,외부해킹피해…총3.8만명개인정보유출",
-  "\"지니언스,금융권해킹수혜…수주기회확대\"-한투"
+  "\"지니언스,금융권해킹수혜…수주기회확대\"-한투",
+  "북유럽단일대오에균열?노르웨이·핀란드푸틴통화에덴마크·스웨...",
+  "강남구청에AI안내원'오사랑'떴다,민원궁금증척척해결",
+  "선관위특검,핸드볼경기장내부진입…투표지검증착수",
+  "이찬진금감원장,은행지주이사회견제부실지적…CEO승계투명성도...",
+  "대기업오너일가주식취득7조원넘어…삼성이재용5조원육박",
+  "메타,AI인프라투자자금조달129조원으로확대",
+  "KB증권\"삼성전자,메모리계약10년으로늘면경쟁력강화\"",
+  "오픈AI,국내기업AI현장도입지원…‘빌더부트캠프’열어",
+  "한화운용,'PLUS글로벌HBM반도체'해외반도체ETF개인순매수1위"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,17 @@
   [
    "2026-10-28T08:56:16.805259+09:00",
    "지니언스 확대 금융권 수주기회 수혜 한투"
+  ],
+  [
+   "2026-10-28T08:58:14.810139+09:00",
+   "열어 기업 지원 현장 국내 부트캠프 빌더 도입"
+  ],
+  [
+   "2026-10-28T08:58:14.810139+09:00",
+   "글로벌HBM반도체 반도체 ETF 한화운용 PLUS 1위 개인 순매수 해외"
   ]
  ],
- "last_run": "2026-10-28T08:56:33.140902+09:00",
+ "last_run": "2026-10-28T08:58:38.758685+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
