@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026091546186",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=300880",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710210",
   "https://www.donga.com/news/Economy/article/all/20261027/134915308/2",
   "https://www.yna.co.kr/view/AKR20261023091700004?input=1195m",
   "http://www.whitepaper.co.kr/news/articleView.html?idxno=268153",
@@ -2999,12 +2996,12 @@
   "https://www.seoul.co.kr/news/economy/securities/2026/10/28/20261028500008?wlog_tag3=naver",
   "https://www.chosun.com/economy/tech_it/2026/09/17/PPS7LRQ3N5EH5PVOUKUY74BMMU/",
   "https://www.donga.com/news/Economy/article/all/20260916/134676459/2",
-  "http://www.fins.co.kr/news/articleView.html?idxno=110337"
+  "http://www.fins.co.kr/news/articleView.html?idxno=110337",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708174",
+  "https://news.mtn.co.kr/article/2026102806133360198",
+  "https://www.newspim.com/news/view/20261027001110"
  ],
  "seen_titles": [
-  "코스피3%급락에도개미는샀다…'삼전닉스'에2.4조베팅",
-  "하이닉스하락맞힌증권사…이번엔삼성전자목표가내렸다",
-  "삼성전자27만원·SK하이닉스148만원…\"메모리비용한계도달\"진단한...",
   "\"삼전닉스오를만큼올랐다\"…증권가'싸늘한전망'[분석+]",
   "삼성전자·SK하이닉스,AI속도조절론에'휘청'…외인·기관4조넘게던...",
   "엔비디아1.5조투자금들어온다…네이버'AI팩토리'시험대",
@@ -6001,7 +5998,10 @@
   "[서울데이터랩]미국증시,기술주·반도체강세에일제히상승마감…나...",
   "AI끼리살게했더니...인간이해독할수없는비밀언어를만들어냈다",
   "[단독]“AI개발감속”외쳤지만,새모델공개주기1년새210→47일‘가...",
-  "보험사도뚫은해킹,다방면화두로"
+  "보험사도뚫은해킹,다방면화두로",
+  "[데일리픽]美물가상승에도BTC8만달러방어…테슬라\"로드스터인도...",
+  "AI반도체주강세·유가하락에이틀연속상승…나스닥1.18%↑[뉴욕마감...",
+  "[앤스로픽,상장]SKT,지분가치4.5조~6조...\"지분매도없다.협력목적..."
  ],
  "recent_sigs": [
   [
@@ -6139,9 +6139,13 @@
   [
    "2026-10-28T06:14:15.636383+09:00",
    "보험사도 화두로 뚫은 다방면"
+  ],
+  [
+   "2026-10-28T06:16:16.029221+09:00",
+   "지분가치 ~SKT 협력 6조 매도 목적 5조 지분 없다"
   ]
  ],
- "last_run": "2026-10-28T06:14:39.461376+09:00",
+ "last_run": "2026-10-28T06:16:37.385430+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
