@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8181118",
-  "https://www.thepowernews.co.kr/view.php?ud=202610271019288696de3f0aa1be_7",
   "https://www.news1.kr/photos/8181108",
   "https://www.news1.kr/photos/8181111",
   "https://www.etnews.com/20261023000094",
@@ -2999,11 +2997,11 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303556",
   "https://www.edaily.co.kr/News/Read?newsId=02847046645617512&mediaCodeNo=257",
   "https://biz.chosun.com/it-science/ict/2026/10/28/742CFR3UP5G73KW2UZSUMHBSSI/",
-  "https://www.yna.co.kr/view/AKR20261028024700002?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261028024700002?input=1195m",
+  "https://www.ddaily.co.kr/page/view/2026102808174301094",
+  "https://www.yna.co.kr/view/AKR20261028025200017?input=1195m"
  ],
  "seen_titles": [
-  "오세훈서울시장,청년AI성장권오픈토크",
-  "오세훈서울시장,청년들과함께",
   "청년들과대화하는오세훈서울시장",
   "키디키디,아동복사이즈·브랜드까지AI가추천…‘키디AI’오픈",
   "청년들과인사하는오세훈시장",
@@ -6001,7 +5999,9 @@
   "[박정식의국내주식시황]엔트로픽IPO기대감에따른반도체투심개...",
   "AIDC구축속도가경쟁력…모듈형·클라우드결합확산",
   "LG유플러스,AI데이터센터액체냉각운영표준만든다",
-  "[속보]이찬진\"주요금투사서전반적인해킹사고발생\"…IT보안당부"
+  "[속보]이찬진\"주요금투사서전반적인해킹사고발생\"…IT보안당부",
+  "엔비디아,메타에30억달러투자단행…베라루빈기반AI모델최적화",
+  "금융·공공해킹에정부긴급점검…민간기반시설172곳대상"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-10-28T08:18:15.650899+09:00",
    "이찬진 IT보안 발생 전반적인 주요 금투사서 사고 당부"
+  ],
+  [
+   "2026-10-28T08:20:26.267992+09:00",
+   "베라 30억달러 루빈 메타에 단행 모델 기반 투자 최적화"
   ]
  ],
- "last_run": "2026-10-28T08:18:43.534455+09:00",
+ "last_run": "2026-10-28T08:20:45.398344+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
