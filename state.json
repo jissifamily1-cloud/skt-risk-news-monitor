@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2018884",
-  "https://www.news1.kr/industry/general-industry/6331936",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3732684",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484411",
-  "https://www.techm.kr/news/articleView.html?idxno=156493",
-  "https://www.busan.com/view/busan/view.php?code=2026102614014252600",
-  "http://www.inews24.com/view/2018834",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610261322318150146",
   "http://www.metroseoul.co.kr/article/20261026500291",
   "https://www.newstopkorea.com/news/articleView.html?idxno=48472",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7190710",
@@ -2999,17 +2991,17 @@
   "http://www.newswell.co.kr/news/articleView.html?idxno=23053",
   "https://www.etoday.co.kr/news/view/2640404",
   "http://www.newswell.co.kr/news/articleView.html?idxno=23052",
-  "https://www.yna.co.kr/view/AKR20261027035000371?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261027035000371?input=1195m",
+  "https://www.bntnews.co.kr/article/view/bnt202610270123",
+  "https://www.imaeil.com/page/view/2026102709230011986",
+  "http://www.metroseoul.co.kr/article/20261027500069",
+  "https://www.ziksir.com/news/articleView.html?idxno=150838",
+  "http://www.metroseoul.co.kr/article/20261027500071",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=282649",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=282642",
+  "https://www.yna.co.kr/view/AKR20261027045000008?input=1195m"
  ],
  "seen_titles": [
-  "네카오·SKT,국방AI선점대전…드론통제하고작전짠다",
-  "인사철앞둔삼성·SK·LG,'차기CEO'후보군관리강화",
-  "대홍기획자회사해킹,1.8만여명개인정보유출…계좌번호도포함",
-  "[동정]이용우부여군수",
-  "원주만두축제성황리폐막…원도심에활력더했다",
-  "[템터뷰]\"AI로제작비낮추고창작기회넓혀요\"...네이버,콘텐츠제작...",
-  "G마켓,글로벌수출사업본격확장",
-  "[단독]정의선,국내최대'제네시스광주'찾는다…전시장·공장·자율...",
   "4대금융3분기실적순항,연간순익20조원돌파전망",
   "오픈AI,국내첫스타트업‘모델마스터즈’개최…'컷백'우승",
   "삼성전자,귀막지않는이어폰'갤럭시버즈온'출시",
@@ -6001,7 +5993,15 @@
   "'에버스핀·티카로스'코스닥상장",
   "[특징주]삼성전자5%ㆍSK하이닉스8%급반등⋯美앤스로픽훈풍",
   "황제주,'왕관의무게'를견딜종목은바로~[오인경의그·말·이]",
-  "[임기범의AI혁신스토리]AI해킹시대,금융보안의과제"
+  "[임기범의AI혁신스토리]AI해킹시대,금융보안의과제",
+  "추영우,‘연애박사’비하인드공개",
+  "국립대구과학관,영덕초등학생대상'찾아가는과학관'운영",
+  "[오늘AI]AGI시대선언했지만스스로진화는'아직'…AI기술경쟁의역...",
+  "롯데,AI실무인재확보나선다…그룹첫AX경진대회개최",
+  "오라클,자율운영AI레이크하우스기능확대…기업데이터통합·분석...",
+  "KB국민은행,정보유출2091명추가확인…피해대상총2210명",
+  "[분석]지난해사장11명승진시킨SK…올해는곽노정·장용호부회장...",
+  "[특징주]반도체주,美훈풍에장초반급등…삼전·닉스5∼7%대↑"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,17 @@
   [
    "2026-10-27T09:24:14.615771+09:00",
    "과제 금융보안의 시대"
+  ],
+  [
+   "2026-10-27T09:26:14.687563+09:00",
+   "SK 곽노정 올해는 11명 지난해 사장 부회장 장용호 승진시킨"
+  ],
+  [
+   "2026-10-27T09:26:14.687563+09:00",
+   "닉스 훈풍에 급등 삼전 장초반 반도체주"
   ]
  ],
- "last_run": "2026-10-27T09:24:41.110807+09:00",
+ "last_run": "2026-10-27T09:26:41.179007+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
