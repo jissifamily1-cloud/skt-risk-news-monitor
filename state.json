@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708717",
-  "https://view.asiae.co.kr/article/2026102110564785893",
-  "https://www.ajunews.com/view/20261021113135909",
-  "https://www.news1.kr/it-science/cc-newmedia/6327063",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079849",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=90814",
   "http://www.efnews.co.kr/news/articleView.html?idxno=133369",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079745",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592304604892",
@@ -2999,15 +2993,15 @@
   "http://www.iminju.net/news/articleView.html?idxno=171486",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710285",
   "https://www.g-enews.com/view.php?ud=202610271433143493e30fcb1ba8_1",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=747009"
+  "https://www.polinews.co.kr/news/articleView.html?idxno=747009",
+  "https://www.energy-news.co.kr/news/articleView.html?idxno=229268",
+  "https://www.mydaily.co.kr/page/view/2026102705314365095",
+  "http://www.e2news.com/news/articleView.html?idxno=335482",
+  "https://www.mt.co.kr/industry/2026/10/27/2026102707165397797",
+  "https://www.news1.kr/local/gyeonggi/6333100",
+  "https://www.yna.co.kr/view/AKR20261027030600017?input=1195m"
  ],
  "seen_titles": [
-  "KT·SKB,양자암호통신테스트베드전국확대",
-  "내년양자통신망광주-부산으로확대...양자통신상용화실증기반강...",
-  "양자통신시험망,전국넘어해외로…올해74억원투입",
-  "과기정통부·NIA양자통신상용화작업'시동'",
-  "정부,'양자통신상용화'위한실증기반확대…3개거점구축추진",
-  "과기정통부,양자통신테스트베드확대…상용화·해외진출지원",
   "양자통신시험망전국확대…KT·SK브로드밴드,해외실증도추진",
   "과기정통부,양자기술산업확산추진…KT·SKB와실증",
   "양자통신상용화에민관74억원투입…KT·SKB실증망구축",
@@ -6001,7 +5995,13 @@
   "KT,AI모델모은'토큰팩토리'출시…\"이용료최대25%절감\"",
   "AX힘주는KT'토큰팩토리'공개…\"AI모델자동선택·통합과금\"",
   "[AI해킹속수무책]은행,서버뺏길라서비스폐쇄…새방어망부족한...",
-  "[포커스]금융사555곳보안점검했는데···미래에셋생명해킹막지못..."
+  "[포커스]금융사555곳보안점검했는데···미래에셋생명해킹막지못...",
+  "가스안전공사,복합재난대응점검···수소누출부터폭발·화재까지",
+  "“야구인생에서이렇게크게다친적이없었는데…”삼성김재윤미안...",
+  "수소제품시험평가센터서수소폭발·화재복합재난대응훈련",
+  "'AI전력원'SMR의글로벌트렌드?…내일코엑스에서확인하자",
+  "경쟁불법도박사이트해킹해개인정보103만건넘긴20대",
+  "바다위해킹막는다…KISA,선박용침해사고성능시험장공개"
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,17 @@
   [
    "2026-10-27T15:00:41.574132+09:00",
    "했는데 보안점검 555곳 막지 금융사 미래에셋생명"
+  ],
+  [
+   "2026-10-27T15:02:16.645578+09:00",
+   "해킹해 경쟁 도박사이트 불법 개인정보 20대 넘긴 103만건"
+  ],
+  [
+   "2026-10-27T15:02:16.645578+09:00",
+   "침해사고 공개 시험장 막는다 KISA 바다 성능 선박용"
   ]
  ],
- "last_run": "2026-10-27T15:01:07.093599+09:00",
+ "last_run": "2026-10-27T15:02:42.858582+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
