@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.finomy.com/news/articleView.html?idxno=264708",
-  "https://www.news2day.co.kr/article/20261027500133",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=138244",
-  "https://www.techm.kr/news/articleView.html?idxno=156521",
   "https://www.newsis.com/view/NISX20261023_0003838575",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710219",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=205504",
@@ -2999,13 +2995,13 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16260068",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076014",
   "https://it.chosun.com/news/articleView.html?idxno=2023092172871",
-  "https://vop.co.kr/A00001697346.html"
+  "https://vop.co.kr/A00001697346.html",
+  "https://zdnet.co.kr/view/?no=20261028070249",
+  "https://biz.sbs.co.kr/article_hub/20000342535?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000342524?division=NAVER",
+  "http://www.wsobi.com/news/articleView.html?idxno=320381"
  ],
  "seen_titles": [
-  "[구병두의세상읽기]'피지컬AI'로인한산업현장의대혼란대비해야",
-  "삼성·SK성과급배임사건,수원으로가나...수사는누가?",
-  "선관위특검,올림픽공원핸드볼경기장압수수색…선거서류·CCTV확보",
-  "[데일리토픽]AI주권의역설···SKT가꺼낸'공동검증'카드",
   "[2026국감]이진수법무대행“노태우일가비자금자금원천추적중”",
   "KT,AI모델500개연결하는'토큰팩토리'공개…토큰사용최대25%절감",
   "[테크M이슈]금융권해킹'악화일로'…신한·KB이어미래에셋생명까지...",
@@ -6001,7 +5997,11 @@
   "미국증시나스닥1.18%상승…앤트로픽기대에반도체반등,다우는강보...",
   "최수연'울고',정신아'웃고'…네카오,커머스차이로'실적희비'",
   "한국게이머들러리세운반도체거장리사수[줌인IT]",
-  "[사설]수사기관개편,‘책임공백’막을실효적장치서둘러야"
+  "[사설]수사기관개편,‘책임공백’막을실효적장치서둘러야",
+  "\"AI가모든것바꾼다\"…오라클이그린기업컴퓨팅미래",
+  "[마켓브리핑]앤트로픽,증권신고서수익성양호…AI투자열풍고개",
+  "[증시전략]앤트로픽상장+메타증자…'AI거품론'수그러들까?",
+  "삼성,이재용회장취임4주년'위기속재도약발판'·하반기'삼성고..."
  ],
  "recent_sigs": [
   [
@@ -6203,9 +6203,13 @@
   [
    "2026-10-28T07:08:15.817986+09:00",
    "중간선거 앞두고 마비 연방선거위 공격에 전산망"
+  ],
+  [
+   "2026-10-28T07:14:16.435550+09:00",
+   "메타 증자 수그러들까 앤트로픽 거품론 상장"
   ]
  ],
- "last_run": "2026-10-28T07:12:35.335281+09:00",
+ "last_run": "2026-10-28T07:14:38.093436+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
