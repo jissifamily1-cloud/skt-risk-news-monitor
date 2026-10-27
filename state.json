@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03798246645617184&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=05926966645615544&mediaCodeNo=257",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390173.html",
-  "https://www.venturesquare.net/1123294/",
-  "http://www.inews24.com/view/2018618",
-  "https://www.edaily.co.kr/News/Read?newsId=03814646645617184&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=03811366645617184&mediaCodeNo=257",
   "http://www.popcornnews.net/news/articleView.html?idxno=137121",
   "https://www.newscj.com/news/articleView.html?idxno=3443434",
@@ -2999,15 +2993,15 @@
   "https://www.ajunews.com/view/20261028081936847",
   "https://www.nocutnews.co.kr/news/6598157",
   "https://www.smarttoday.co.kr/ko-kr/articles/113188",
-  "https://www.news1.kr/it-science/cc-newmedia/6334140"
+  "https://www.news1.kr/it-science/cc-newmedia/6334140",
+  "http://www.breaknews.com/1246242",
+  "https://www.edaily.co.kr/News/Read?newsId=02892966645617512&mediaCodeNo=257",
+  "https://www.mt.co.kr/tech/2026/10/28/2026102808150637767",
+  "https://www.newspim.com/news/view/20261028000065",
+  "https://www.newspim.com/news/view/20261028000127",
+  "https://view.asiae.co.kr/article/2026102807580030882"
  ],
  "seen_titles": [
-  "경찰'조희대업추비의혹'광수단배당…\"한동훈딸,요건되면수사진...",
-  "공소청,'노태우비자금의혹'이병기前의전비서관참고인조사",
-  "[포토]'청년AI성장권오픈토크'발언하는오세훈시장",
-  "이훈기\"쿠팡납치광고,카카오브랜드메시지소비자불만커\"",
-  "공소청,'노태우비자금의혹'이병기전靑의전비서관소환",
-  "크라우드웍스,기업AX실패원인5가지분석…데이터설계·품질관리실...",
   "이통사에못받은미환급금…어디서찾을수있을까?",
   "[포토]'청년의성장'발언하는오세훈서울시장",
   "[포토]청년지원발언하는오세훈시장",
@@ -6001,7 +5995,13 @@
   "[마켓프리뷰]美AI반도체주강세·유가하락에코스피반등시도…FO...",
   "이찬진금감원장\"은행지주이사회,CEO승계절차공정성강화해야\"",
   "정부,민간인프라시설172곳보안취약점긴급점검",
-  "SK브로드밴드,LS마린솔루션과해커케이블안정운용'맞손'"
+  "SK브로드밴드,LS마린솔루션과해커케이블안정운용'맞손'",
+  "수자원공사,AI·기후테크오픈이노베이션39개사협약…물산업대전환",
+  "\"네이버,강력매수…브룩필드투자에AI사업본궤도\"-하나",
+  "SK브로드밴드,LS마린솔루션과해저케이블안정운영업무협약",
+  "[미국특징주]오라클,엔비디아AI칩계약확대…구글TPU·세레브라스...",
+  "[모닝리포트]키움증권\"AI수익성기대살아나,국내증시추가반등...",
+  "[굿모닝증시]美증시에분앤스로픽훈풍,韓증시에도불까"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,17 @@
   [
    "2026-10-28T08:26:15.141856+09:00",
    "맞손 LS마린솔루션과 운용 안정 해커케이블"
+  ],
+  [
+   "2026-10-28T08:28:14.939295+09:00",
+   "기대 추가 국내 수익성 반등 살아나 키움증권 증시"
+  ],
+  [
+   "2026-10-28T08:28:14.939295+09:00",
+   "증시에 훈풍 불까 증시에도"
   ]
  ],
- "last_run": "2026-10-28T08:26:38.895461+09:00",
+ "last_run": "2026-10-28T08:28:38.579108+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
