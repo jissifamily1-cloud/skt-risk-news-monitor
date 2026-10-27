@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=20261027125129290044093b5d4e_1",
-  "https://www.sedaily.com/article/20106572",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3734010",
-  "https://www.ddaily.co.kr/page/view/2026102711365618404",
-  "https://www.ddaily.co.kr/page/view/2026102712031911299",
-  "https://www.hankookilbo.com/news/article/A2026102711590000244?did=NA",
-  "https://biz.sbs.co.kr/article_hub/20000342290?division=NAVER",
-  "https://basketkorea.com/news/newsview.php?ncode=1065587112644247",
   "https://www.s-journal.co.kr/news/articleView.html?idxno=44840",
   "https://www.smartbizn.com/news/articleView.html?idxno=157636",
   "https://www.newspim.com/news/view/20261027000699",
@@ -2999,17 +2991,17 @@
   "https://www.wolyo.co.kr/news/articleView.html?idxno=319673",
   "https://www.ajunews.com/view/20261028084002938",
   "https://economist.co.kr/article/view/ecn202610270026",
-  "https://www.livebiz.today/news/articleView.html?idxno=205978"
+  "https://www.livebiz.today/news/articleView.html?idxno=205978",
+  "https://www.thelec.kr/news/articleView.html?idxno=64374",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209098",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209097",
+  "https://www.slist.kr/news/articleView.html?idxno=776988",
+  "https://hbnpress.com/news/view/1065570171928838",
+  "https://biz.chosun.com/stock/stock_general/2026/10/28/AEHMABNQGZGFPLX64PR34L6JP4/",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441503",
+  "https://www.news1.kr/finance/general-finance/6334167"
  ],
  "seen_titles": [
-  "[PHP비상]Node.js취약점까지…\"웹사이트플랫폼·플러그인업데이트론...",
-  "160억보안투자했다더니…두번뚫린더존비즈온,고객정보관리'구멍...",
-  "[특징주]SK텔레콤,투자기업앤트로픽IPO제출..'강세'",
-  "LGU+통합앱‘U+원’,월이용자610만육박...출시1년만",
-  "\"신고해도죽는현실,국가가책임져라\"…대전·세종시민사회보호체계...",
-  "실시간AI위협시대...레드햇“운영단위대응필수,라이트웰·앤서블...",
-  "‘1초’도못멈추는전력망…한전KDN“30년묵은제어시스템,오픈시...",
-  "AI골라쓰고요금한곳서관리…KT,'토큰팩토리'30일출시",
   "[직설]앤트로픽IPO에AI주들썩…반도체상승동력다시살아날까",
   "[BK프리뷰]3연승으로웃는SKvs5연패에고개숙인KCC",
   "신동빈\"AX는그룹생존의핵심\"…롯데그룹,오는28일부터AX챌린지진...",
@@ -6001,7 +5993,15 @@
   "이재용회장,삼성주식5조취득...홍라희여사8조처분",
   "[국제금융리포트]코스피·美10년물국채금리상승…중동긴장완화에...",
   "KT엠모바일‘mobi’,2026레드닷디자인어워드본상수상",
-  "해킹도불안한데전산장애까지...5년간은행전산장애554건,SC제일·토..."
+  "해킹도불안한데전산장애까지...5년간은행전산장애554건,SC제일·토...",
+  "캐나다서테스트중이던알리바바큐웬,중국으로정보유출시도",
+  "AI코딩에이전트오픈핸즈에치명적취약점…인증없이관리자권한명...",
+  "전세계99개국냉장·냉동제어시스템약1만3천건인터넷노출,식품...",
+  "도미노피자,방문포장50%할인'SKTTday'진행",
+  "도미노피자,28일'SKTTday'진행",
+  "[특징주]되살아난반도체투심…삼전닉스,프리마켓서3%상승",
+  "대신증권,해킹사고발생…금융권해킹증권업계로확산(상보)",
+  "[속보]자산운용사1곳서해킹사고…금투업권서처음"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,13 @@
   [
    "2026-10-28T08:46:14.943286+09:00",
    "은행 5년간 불안한데 SC제일 해킹도 전산장애까지 554건 전산장애"
+  ],
+  [
+   "2026-10-28T08:48:16.953775+09:00",
+   "사고 처음 자산운용사 금투업권서 1곳서"
   ]
  ],
- "last_run": "2026-10-28T08:46:38.417474+09:00",
+ "last_run": "2026-10-28T08:48:34.401900+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
