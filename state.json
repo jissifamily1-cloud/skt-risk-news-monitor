@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02092646645617184&mediaCodeNo=257",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172608",
   "https://www.newsis.com/view/NISX20261026_0003841732",
   "https://www.seoul.co.kr/news/society/accident/2026/10/27/20261027010008?wlog_tag3=naver",
   "https://www.donga.com/news/Society/article/all/20261027/134913109/2",
@@ -2999,11 +2997,11 @@
   "https://sports.hankooki.com/news/articleView.html?idxno=6942378",
   "https://www.nytimes.com/2026/10/27/business/dealbook/winners-losers-anthropic-ipo-ai.html?partner=naver",
   "https://economychosun.com/site/data/html_dir/2026/10/16/2026101600010.html",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709566"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709566",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209079",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610231424423970891"
  ],
  "seen_titles": [
-  "AI가가장많이인용한언론은매경…3개월연속1위",
-  "[국감,그후]티빙,개인정보유출해결책으로꺼낸국태호CISO선임…...",
   "\"실적으로평가받겠다\"…일반상장문두드리는기술스타트업들",
   "[국감]홍범식LG유플러스대표,'해킹은폐·조사방해의혹'질타에…\"합...",
   "로봇에일가르치고운영까지…통신사,새먹거리찾는다",
@@ -6001,7 +5999,9 @@
   "'KIA타선봉쇄'후라도,6.2이닝2실점으로승리요건충족[PO2]",
   "WhoStandstoGainfromanAnthropicI.P.O.",
   "[Interview]안나쿠트신경제재단(NEF)수석펠로|“기본소득은시장...",
-  "샘알트먼\"수학계분위기바뀌었다…이제는AI수용단계\""
+  "샘알트먼\"수학계분위기바뀌었다…이제는AI수용단계\"",
+  "PHP2Shell취약점,실제원격명령실행확인...서버침해위험현실화",
+  "[네카오의AI에이전트전략]③자체플랫폼에AI가두는네카오…글로벌..."
  ],
  "recent_sigs": [
   [
@@ -6521,7 +6521,7 @@
    "이긴 DC형도 펀드매니저 빗장 푼다"
   ]
  ],
- "last_run": "2026-10-27T21:14:39.345076+09:00",
+ "last_run": "2026-10-27T21:16:38.158015+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
