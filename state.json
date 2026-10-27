@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03811366645617184&mediaCodeNo=257",
-  "http://www.popcornnews.net/news/articleView.html?idxno=137121",
-  "https://www.newscj.com/news/articleView.html?idxno=3443434",
-  "https://www.khan.co.kr/article/202610261738001",
-  "https://www.edaily.co.kr/News/Read?newsId=03817926645617184&mediaCodeNo=257",
-  "https://www.arirang.com/news/view?id=302342",
-  "https://www.dailian.co.kr/news/view/1706676/?sc=Naver",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710247",
-  "https://www.edaily.co.kr/News/Read?newsId=03827766645617184&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03824486645617184&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03821206645617184&mediaCodeNo=257",
   "https://www.getnews.co.kr/news/articleView.html?idxno=884948",
   "https://www.hellot.net/news/article.html?no=115781",
   "http://www.cctimes.kr/news/articleView.html?idxno=934047",
@@ -2999,20 +2988,20 @@
   "https://www.mt.co.kr/tech/2026/10/28/2026102808150637767",
   "https://www.newspim.com/news/view/20261028000065",
   "https://www.newspim.com/news/view/20261028000127",
-  "https://view.asiae.co.kr/article/2026102807580030882"
+  "https://view.asiae.co.kr/article/2026102807580030882",
+  "https://www.newspim.com/news/view/20261023000867",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/23/2026102390173.html",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441480",
+  "https://www.edaily.co.kr/News/Read?newsId=05926966645615544&mediaCodeNo=257",
+  "https://www.geconomy.co.kr/news/article.html?no=324949",
+  "https://biz.heraldcorp.com/article/10916968",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499077",
+  "https://www.khan.co.kr/article/202610280828001",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441481",
+  "https://biz.sbs.co.kr/article_hub/20000342556?division=NAVER",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66583"
  ],
  "seen_titles": [
-  "이통사에못받은미환급금…어디서찾을수있을까?",
-  "[포토]'청년의성장'발언하는오세훈서울시장",
-  "[포토]청년지원발언하는오세훈시장",
-  "기업AI활용확산에보안·규제대응강화…AI검색최적화도주목",
-  "AI500개에과금·보안도한번에…KT'토큰팩토리'30일출시",
-  "“AI시대엔안전과신뢰필수”SK텔레콤,AI거버넌스리포트첫발간",
-  "[포토]'청년새로운성장기회'발언하는오세훈",
-  "AnthropiceyeshistoricIPOasAIinvestmentfacesscrutiny",
-  "앤트로픽IPO에SKT·네이버함박웃음…AI투자결실기대",
-  "[TechInsight]AI해킹의공습...\"SOC혁신·하이브리드패치가현실적...",
-  "[포토]오세훈시장,청년오픈토크참석하",
   "[포토]청년오픈토크참석하는오세훈서울시장",
   "[포토]‘청년AI성장권오픈토크’참석한오세훈시장",
   "삼성물산'퓨처스케이프데모데이'...스타트업실증성과공유",
@@ -6001,7 +5990,18 @@
   "SK브로드밴드,LS마린솔루션과해저케이블안정운영업무협약",
   "[미국특징주]오라클,엔비디아AI칩계약확대…구글TPU·세레브라스...",
   "[모닝리포트]키움증권\"AI수익성기대살아나,국내증시추가반등...",
-  "[굿모닝증시]美증시에분앤스로픽훈풍,韓증시에도불까"
+  "[굿모닝증시]美증시에분앤스로픽훈풍,韓증시에도불까",
+  "공소청,'노태우비자금의혹'이병기前의전비서관참고인조사",
+  "공소청,'노태우비자금의혹'이병기전靑의전비서관소환",
+  "증권가\"네이버,사업가치아직주가반영안돼…강력매수\"",
+  "이훈기\"쿠팡납치광고,카카오브랜드메시지소비자불만커\"",
+  "이승민·김선영,일본장애인오픈골프선수권대회서우승",
+  "“해저케이블운용역량강화”SKB,LS마린솔루션과맞손",
+  "SK브로드밴드,LS마린솔루션과맞손…해저케이블안정성강화",
+  "[속보]이찬진“주요금투사서전반적인해킹사고발생”",
+  "이찬진\"전날주요금투사서해킹사고발생\"",
+  "[속보]금융·공공잇단해킹에…정부,민간기반시설172곳보안점검",
+  "\"은행이사회,CEO선임부터해킹대응까지\"...'책임경영'시험대올랐..."
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,13 @@
   [
    "2026-10-28T08:28:14.939295+09:00",
    "증시에 훈풍 불까 증시에도"
+  ],
+  [
+   "2026-10-28T08:30:33.349467+09:00",
+   "은행 CEO 책임 선임부터 대응까지 시험대 경영 올랐 이사회"
   ]
  ],
- "last_run": "2026-10-28T08:28:38.579108+09:00",
+ "last_run": "2026-10-28T08:30:51.330055+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
