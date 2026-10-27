@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008785275&plink=ORI&cooper=NAVER",
-  "https://www.thisisgame.com/articles/430702",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=337552",
-  "https://www.thepublic.kr/news/articleView.html?idxno=321175",
-  "https://www.nocutnews.co.kr/news/6587326",
-  "https://www.segye.com/newsView/20261006502980?OutUrl=naver",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=145276",
   "https://www.ytn.co.kr/_ln/0103_202610060719542617",
   "https://www.yeongnam.com/web/view.php?key=20261005023162448",
@@ -2999,15 +2993,15 @@
   "https://biz.chosun.com/topics/law_firm/2026/10/27/DTPY7KPBRZHILMJ5HOQMYMS5SA/",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065601320967529",
   "https://www.delighti.co.kr/news/articleView.html?idxno=123943",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=619900"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=619900",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261027172418aMn",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3734376",
+  "https://www.edaily.co.kr/News/Read?newsId=05057766645617184&mediaCodeNo=257",
+  "https://www.kwnews.co.kr/article/20261027501278",
+  "https://www.hani.co.kr/arti/international/international_general/1284406.html",
+  "https://www.mk.co.kr/article/12187345"
  ],
  "seen_titles": [
-  "브로드컴이빚내서오픈AI칩구매돕는다…67조원차입추진파장",
-  "앤트로픽,‘AI모욕’이용자차단…“욕설반복하면대화종료”",
-  "한국의혹한을널리알리는갓쓴워프레임‘나린’",
-  "AI해킹어디까지왔나…'자율성얻은AI'제멋대로침해",
-  "[사사건건]AI에해킹당한은행…내돈은?내개인정보는?",
-  "JP모건다이먼\"앤트로픽'미토스'이후사이버위험10배커져\"",
   "하나證“AI속도조절론은마케팅⋯피지컬AI확산땐통신장비수혜”",
   "[글로벌D리포트]뉴욕시의회AI청문회개최…기업임원들증언대에",
   "[인터뷰]한국을담은‘워프레임’,13년의여정에새로운도전을더하...",
@@ -6001,7 +5995,13 @@
   "화이트해커영재의몰락…불법도박사이트개설·해킹혐의로실형",
   "네이버,브룩필드와컴퓨팅인프라확보계약",
   "앤트로픽,본격적인상장절차돌입...기업가치2조달러평가받아",
-  "최태원SK그룹회장,AI시대청년생존전략제시…학벌보다문제해결..."
+  "최태원SK그룹회장,AI시대청년생존전략제시…학벌보다문제해결...",
+  "[비즈&]GS엔텍,3천억투입…해상풍력전용공장준공外",
+  "전주사랑상품권온라인충전오후3시로변경…시민불편해소",
+  "안양의가을을빛내는예술의무릉도원'APAP8'",
+  "원주서AI·반도체포럼⋯‘첨단강원·첨단원주’미래모색",
+  "일기업턴해커집단,합의금못받자고객정보공개시작",
+  "[단독]롯데모바일쿠폰당분간못쓴다…해킹여파에서비스중단"
  ],
  "recent_sigs": [
   [
@@ -6747,9 +6747,13 @@
   [
    "2026-10-27T17:26:15.870763+09:00",
    "제시 시대 청년 회장 생존전략 학벌보다 SK그룹 문제해결"
+  ],
+  [
+   "2026-10-27T17:28:16.057627+09:00",
+   "모바일 중단 당분간 여파에 쿠폰 못쓴다 롯데 서비스"
   ]
  ],
- "last_run": "2026-10-27T17:26:39.866216+09:00",
+ "last_run": "2026-10-27T17:28:37.940504+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
