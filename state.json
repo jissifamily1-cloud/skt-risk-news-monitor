@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/view.asp?arcid=9000023488&cp=nv",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000074207",
-  "https://www.g-enews.com/view.php?ud=202610202117158278fda4f5ab74_1",
-  "https://www.chosun.com/economy/tech_it/2026/10/20/PWDMRSRJJNEAPGIRHT3TEDH5KU/",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=407327",
-  "https://www.fnnews.com/news/202610081825391128",
-  "http://www.finomy.com/news/articleView.html?idxno=264617",
-  "https://www.etoday.co.kr/news/view/2640108",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94588",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541681",
   "https://zdnet.co.kr/view/?no=20261026145645",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424580",
   "https://www.discoverynews.kr/news/articleView.html?idxno=1104949",
@@ -2999,19 +2989,19 @@
   "https://zdnet.co.kr/view/?no=20261016084139",
   "https://www.inthenews.co.kr/news/article.html?no=93575",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065578288206372",
-  "https://www.sedaily.com/article/20106514"
+  "https://www.sedaily.com/article/20106514",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441299",
+  "https://view.asiae.co.kr/article/2026102709234897460",
+  "https://www.kukinews.com/article/view/kuk202610270062",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=123890",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242458",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261605234640103512",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076338",
+  "http://www.joseilbo.com/news/news_read.php?uid=578233&class=79",
+  "https://www.nocutnews.co.kr/news/6597590",
+  "https://view.asiae.co.kr/article/2026102709520825187"
  ],
  "seen_titles": [
-  "“美신용위험직격탄맞은코스피…반도체쏠림이급락원인\"",
-  "“그회사다니는남자로…”中여성들이실리콘밸리향하는이유",
-  "엔트로픽,클로드학습에한강·황석영작품무단활용정황",
-  "MS떠난자리에60조원칩을깔다…앤스로픽과엔스케일의승부수",
-  "앤스로픽“지분5%출연해공익기금설립”",
-  "다시고개든'AI고점론'에무너진국내증시···반등시점에시장'촉...",
-  "국내금융사턴해커,훔친정보판매처까지찾아봤다",
-  "한진그룹,IT계열사뚫리고대한항공예약정보까지유출'속수무책'",
-  "\"AI성장과실나누겠다\"...빅테크,AI發고용충격선제대응",
-  "미래에셋생명서도해킹유출…보험사중첫사례",
   "방미통위,'호우피해주민'2개월간TV수신료면제",
   "IST,군통신SIM에양자내성암호얹는다",
   "[증시리스크관리-下]환율급락여파지속···종목'옥석가리기'난...",
@@ -6001,7 +5991,17 @@
   "알트먼도기다리다환불…9년끈테슬라로드스터베일벗는다",
   "KT,500개AI한곳에모은AX플랫폼‘토큰팩토리’공개",
   "오픈AI,GPT-6.1테라공개…성능↑·API가격↓",
-  "최태원의‘AI시대인재육성’실험…설명회에만4000명넘게몰렸다"
+  "최태원의‘AI시대인재육성’실험…설명회에만4000명넘게몰렸다",
+  "환율직격탄맞은LG이노텍…화면깨진아이폰듀오가'변수'",
+  "AI데이터센터넘어'토큰경제'로…통신3사새먹거리낙점",
+  "브라질대법원,‘대선패배’보우소나루출국금지명령",
+  "롯데그룹,실전형AX인재확보위해'롯데AX챌린지2026'개최",
+  "래블업,내달3일코스닥상장…공모가'확정'",
+  "[더벨]JB금융,AI지분투자이어전용펀드결성",
+  "선관위특검,올공핸드볼경기장압수수색…투표지부족사태'정조준'",
+  "AI도골라쓰고요금관리…KT,‘토큰팩토리’30일출시",
+  "방미통위,'인앱결제강제'구글·애플637억과징금막판조율",
+  "[사설]앤스로픽상장이던진질문,韓AI기업어디있나"
  ],
  "recent_sigs": [
   [
@@ -6707,9 +6707,13 @@
   [
    "2026-10-27T11:02:17.249292+09:00",
    "몰렸다 설명회에만 인재육성 4000명 최태원의 넘게 AI시대 실험"
+  ],
+  [
+   "2026-10-27T11:04:26.273286+09:00",
+   "질문 기업 어디 상장이 던진 있나"
   ]
  ],
- "last_run": "2026-10-27T11:02:36.381574+09:00",
+ "last_run": "2026-10-27T11:04:44.385438+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
