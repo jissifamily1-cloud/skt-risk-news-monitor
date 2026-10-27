@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kdfnews.com/news/articleView.html?idxno=189910",
-  "https://www.nocutnews.co.kr/news/6597238",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450279",
-  "http://coinreaders.com/265238",
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=257284",
-  "http://www.inews24.com/view/2019054",
-  "https://news.mtn.co.kr/article/2026102616554077653",
-  "https://www.bloter.net/news/articleView.html?idxno=676742",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=82007",
-  "https://www.insnews.co.kr/news/articleView.html?idxno=93497",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261026170128dHb",
   "https://zdnet.co.kr/view/?no=20261024132650",
   "https://news.tf.co.kr/read/economy/2380904.htm",
   "https://www.joongdo.co.kr/web/view.php?key=20261026010007325",
@@ -2999,20 +2988,20 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710219",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=205504",
   "https://www.etoday.co.kr/news/view/2640562",
-  "https://www.newspost.kr/news/articleView.html?idxno=226743"
+  "https://www.newspost.kr/news/articleView.html?idxno=226743",
+  "https://www.yna.co.kr/view/PYH20261027090200013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261027089700013?input=1196m",
+  "https://www.updownnews.co.kr/news/articleView.html?idxno=319313",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=92013",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279745",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=361328",
+  "https://view.asiae.co.kr/article/2026102702232367406",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=361332",
+  "https://www.yna.co.kr/view/PYH20261027090000013?input=1196m",
+  "https://imnews.imbc.com/news/2026/econo/article/6860997_36932.html",
+  "https://www.yna.co.kr/view/PYH20261027089900013?input=1196m"
  ],
  "seen_titles": [
-  "\"우리홈페이지도해킹위험?\"…정부,PHP취약점긴급점검당부",
-  "금융보안사고,보험업계로확산'초비상'…해킹주의보",
-  "공소청,'노태우비자금의혹'이병기전의전비서관소환조사",
-  "[미국특징주]스페이스X美기지국8만곳확보\"제4이통사\"야심",
-  "[투자노하우]현지시간23일뉴욕증시3대지수일제히하락",
-  "신한금융,스타트업6곳과4개월실증…3개사최종선정",
-  "롯데건설등4개건설사,스타트업과협업모색…스마트건설과제제시",
-  "배재규한투운용홍콩ETF본격화,인적분할앞두고해외서새성장동력...",
-  "기술주몇년만의최대투매...월가\"그래서더강세\"역발상",
-  "'현대차로봇맨영입'구광모LG회장,휴머노이드개발속도낸다",
-  "[PHP취약점파장]과기정통부·KISA,'PHP2Shell'FAQ배포⋯PHP확인사...",
   "[영상]\"소중한기술뺏길라\"…원주·춘천,강원기술지킬'산업보안공...",
   "[단독]이재용회장,이건희6주기다음날진관사찾았다...자녀'지호·...",
   "미래에셋생명도'해킹유출'신고…보험사중첫침해사고",
@@ -6001,7 +5990,18 @@
   "스타링크가빠를까,5G가빠를까…비교해보니",
   "대우건설,3Q영업익1832억원…전년比223%'껑충'[건설·분양오늘]",
   "서울청년50만명에AI이용권·교육지원…오세훈\"경제력격차가기회...",
-  "이진수법무대행\"노태우일가비자금의혹수사중...자금원천추적..."
+  "이진수법무대행\"노태우일가비자금의혹수사중...자금원천추적...",
+  "인사말하는박상원상무",
+  "인사말하는박상원전무",
+  "이랜드키디키디,유아동패션특화'키디AI'론칭...육아큐레이션노...",
+  "쿤텍,AI전주기보안전략공개...모델도입부터실행통제·데이터보...",
+  "AnthropicEyesRecord$2TrillionIPO,WarningofExistentialAIRisks",
+  "[뉴욕증시]앤트로픽IPO기대에3대지수일제히상승마감",
+  "[깐부회동1년②]더넓어진AI협력활용해우리기술로만들어야",
+  "[특징주]SK텔레콤,앤트로픽IPO호재에강세…AI투자성과주목",
+  "'AI를잘쓰는시대'…KTAX사업전략기자간담회",
+  "방미통위,구글·애플'인앱결제강제'과징금제재임박",
+  "KTAX사업전략기자간담회"
  ],
  "recent_sigs": [
   [
@@ -6759,9 +6759,13 @@
   [
    "2026-10-27T11:32:17.379684+09:00",
    "이어 금융권 신한 KB 미래에셋생명까지 악화일로"
+  ],
+  [
+   "2026-10-27T11:36:14.578998+09:00",
+   "~KT 사업전략 AX 기자간담회"
   ]
  ],
- "last_run": "2026-10-27T11:34:34.220163+09:00",
+ "last_run": "2026-10-27T11:36:35.545936+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
