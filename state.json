@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://thetracker.co.kr/View.aspx?No=4279575",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/26/2026102600334.html",
-  "https://www.dt.co.kr/article/12091374",
-  "https://www.ytn.co.kr/_ln/0102_202610261818575080",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690217.html",
-  "https://news.tvchosun.com/site/data/html_dir/2026/10/26/2026102690216.html",
-  "https://www.mk.co.kr/article/12186158",
   "https://www.gukjenews.com/news/articleView.html?idxno=3733135",
   "https://www.gukjenews.com/news/articleView.html?idxno=3733126",
   "https://view.asiae.co.kr/article/2026102317135210904",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/it-science/security-hacking/6333265",
   "https://news.tf.co.kr/read/economy/2381272.htm",
   "https://www.newspim.com/news/view/20261027000865",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710228"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710228",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279025&CMPT_CD=P0010",
+  "https://www.sportsworldi.com/newsView/20261027508668",
+  "https://www.huffingtonpost.kr/article/261555",
+  "https://www.globalepic.co.kr/view.php?ud=20261027133331851348439a4874_29",
+  "https://zdnet.co.kr/view/?no=20261027133451",
+  "https://www.khan.co.kr/article/202610271335001",
+  "https://www.thepublic.kr/news/articleView.html?idxno=323893"
  ],
  "seen_titles": [
-  "전남광주교육청,영재교육한마당성황",
-  "'이유진♥'차경은,시아버지이효정댄스에눈물의하트…결혼전부터...",
-  "네이버,해외AI데이터센터,팩토리로사업확대…시장개척나선다",
-  "미래에셋생명,보험업계첫개인정보유출…홈페이지'차단'",
-  "LG유플러스,'대한민국SNS대상'기업부문종합대상수상",
-  "LG유플러스,SNS채널별전략차별화…기업부문종합대상수상",
-  "119명이라더니2210명해킹…KB국민은행정보유출18배로불어났다",
   "KB국민은행“해킹정보유출2091명추가확인”",
   "미래에셋생명도해킹피해...보험사첫정보유출사례",
   "KB국민은행\"해킹정보유출2091명추가확인\"…피해규모확대",
@@ -6001,7 +5994,14 @@
   "중견중소기업11만곳인사·급여'장부',더존비즈온뚫렸다",
   "오픈AI,가성비AI'GPT-6.1테라'출시…\"성능높이고API가격절반\"",
   "[앤스로픽,상장]'1000조투자·첫흑자·HBM부족'까지…삼성·하이닉...",
-  "비트코인걸고진행한PHP해킹챌린지…19시간만에성공"
+  "비트코인걸고진행한PHP해킹챌린지…19시간만에성공",
+  "'판타스틱5'완성BNK,이번엔도약할차례",
+  "이무진,첫공식팬커뮤니티열었다…소통부터공연예매까지한번에",
+  "앤트로픽IPO최대2조달러목표삼아11월에추진한다:문제는IPO로도...",
+  "삼성물산,'2026퓨처스케이프데모데이'개최",
+  "래블업,내달3일코스닥입성…AI인프라운영SW사업확대",
+  "경찰·중수청‘핑퐁’선그은국가수사본부장“인지통보한다고수사...",
+  "KB국민은행해킹피해119명→2210명,첫발표보다18배늘어...\"초기완..."
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-10-27T13:36:17.055342+09:00",
    "19시간 PHP 비트코인 성공 만에 진행한 챌린지 걸고"
+  ],
+  [
+   "2026-10-27T13:38:14.264401+09:00",
+   "18배 초기 늘어 KB국민은행 2210명 119명 피해 발표보다"
   ]
  ],
- "last_run": "2026-10-27T13:36:49.999485+09:00",
+ "last_run": "2026-10-27T13:38:35.735347+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
