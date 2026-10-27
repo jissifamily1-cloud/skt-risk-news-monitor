@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisaweek.com/news/articleView.html?idxno=238607",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8695338",
-  "https://www.donga.com/news/Economy/article/all/20261026/134912518/1",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303439",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3733145",
-  "https://www.aitimes.com/news/articleView.html?idxno=216662",
   "https://www.yna.co.kr/view/AKR20261026157951002?input=1195m",
   "https://www.etoday.co.kr/news/view/2640260",
   "https://www.fnnews.com/news/202610261838449828",
@@ -2999,15 +2993,15 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=368216",
   "https://www.fnnews.com/news/202610271137207049",
   "https://www.edaily.co.kr/News/Read?newsId=04024566645617184&mediaCodeNo=257",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092172875"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172875",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=241240",
+  "https://www.jasm.co.kr/news/view/323106/?sc=Naver",
+  "https://www.dailian.co.kr/news/view/1706724/?sc=Naver",
+  "https://www.kyosu.net/news/articleView.html?idxno=211702",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90430",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710270"
  ],
  "seen_titles": [
-  "SK브로드밴드AIDC분할심사착수…방송사업재정기반점검",
-  "이진환운영위원장\"여성축구저변확대·인프라개선힘쓸것\"",
-  "공장AI,검사준비부터바꾼다…한국제조업도전환비용을측정해야",
-  "해킹사태'불똥'튈라…모바일신분증데이터관리강화",
-  "미래에셋생명,개인·신용정보유출···보험업권첫해킹신고",
-  "아이에스동서,사이버위기대응훈련참여…해킹메일·보안취약점점...",
   "KB국민은행“해킹유출2,091명추가확인”",
   "KB국민은행,해킹피해자119명이라더니2210명…개인정보보호총체적부...",
   "해킹피해자가119명이러더니2210명…KB국민은행,해킹피해규모제대...",
@@ -6001,17 +5995,15 @@
   "롯데,채용연계형'AX챌린지2026'개최···28일부터예선접수",
   "\"AI모델골라주고비용관리까지\"…KT,'토큰팩토리'공개",
   "삼전·닉스상승세에코스피도반등…매수사이드카발동",
-  "해킹한달,금융사16곳털려…수습커녕확산중"
+  "해킹한달,금융사16곳털려…수습커녕확산중",
+  "롯데,채용연계형AI경진대회개최…실무인재확보",
+  "오세훈,청년AI예산삭감에\"여소야대시의회에서울시끌려다녀\"",
+  "'삼전·닉스'나란히강세…SK하이닉스5%대상승[특징주]",
+  "한국공학대,KT와AI실무인재양성협약…AIDU·AICE지원",
+  "오픈AI,AI모델'GPT-6.1테라'공개…속도∙성능↑API가격↓",
+  "PHP해킹사태…비트코인은'사이버팬데믹'에어떻게대응할까"
  ],
  "recent_sigs": [
-  [
-   "2026-10-27T07:56:15.948799+09:00",
-   "전망 코스피 AI주 기대에 반등 IPO"
-  ],
-  [
-   "2026-10-27T07:56:15.948799+09:00",
-   "금시세는 고개 국제 금값 국내"
-  ],
   [
    "2026-10-27T08:02:16.366673+09:00",
    "강화 시각 높인 효율 테라 GPT 공개 조작 비용"
@@ -6647,9 +6639,13 @@
   [
    "2026-10-27T13:54:15.266427+09:00",
    "금융사 확산 털려 수습 16곳 커녕"
+  ],
+  [
+   "2026-10-27T13:56:15.985211+09:00",
+   "비트코인은 사태 대응할까 어떻게 팬데믹 사이버 PHP"
   ]
  ],
- "last_run": "2026-10-27T13:54:33.571601+09:00",
+ "last_run": "2026-10-27T13:56:36.777530+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
