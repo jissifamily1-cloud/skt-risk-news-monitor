@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.dailypop.kr/news/articleView.html?idxno=103779",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601518",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700177.html",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816756&plink=ORI&cooper=NAVER",
-  "https://www.seoul.co.kr/news/economy/industry/2026/10/27/20261027500094?wlog_tag3=naver",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6861015_36967.html",
-  "https://news.tf.co.kr/read/life/2380091.htm",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/21/2026102100143.html",
   "https://www.newspim.com/news/view/20261027000744",
   "https://view.asiae.co.kr/article/2026102712005113036",
   "https://www.fnnews.com/news/202610271149115702",
@@ -2999,17 +2991,17 @@
   "https://www.etoday.co.kr/news/view/2640851",
   "https://www.news1.kr/world/asia-australia/6334100",
   "https://www.aitimes.com/news/articleView.html?idxno=216623",
-  "https://www.sidae.com/article/2026102808022933496"
+  "https://www.sidae.com/article/2026102808022933496",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280006&t=NN",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076747",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280009&t=NN",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716321",
+  "https://biz.chosun.com/it-science/ict/2026/10/28/IF6BMUWVHNGKVKUOLJG4JTWLQM/",
+  "https://www.newspim.com/news/view/20261028000062",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3734840",
+  "https://www.dt.co.kr/article/12091701"
  ],
  "seen_titles": [
-  "미래기술전략포럼,11월5일국회서3차포럼개최···'전국민무료...",
-  "스페이스X,美기지국확보추진…이동통신진출행보",
-  "CJ·오뚜기·미래에셋증권·교원그룹등청년·연구자지원나선기업들",
-  "롯데,실전형AX인재확보나섰다⋯'롯데AX챌린지2026'개최",
-  "오세훈,'여소야대'시의회에작심발언…\"거절당하면방법없어\"",
-  "선관위특검,올림픽공원압수수색…내일투표지검증",
-  "30년차선배님부터사내부부까지‘밤샘코딩’…58개팀몰린SK브로드밴...",
-  "미국발AI기대감에장중4%대급등‥매수사이드카",
   "공소청,'노태우비자금의혹'이병기전청와대의전비서관조사",
   "\"같은알뜰폰요금제인데경품최대37만원차이\"…이통3사알뜰폰자...",
   "보험사첫개인정보유출…미래에셋생명,보험계약민감정보포함됐나",
@@ -6001,7 +5993,15 @@
   "메타250억달러신주공모에수요5배몰려…AI투자실탄확보[마켓핫...",
   "베트남'반도체굴기'첫발부터삐걱…첫공장건설지연",
   "선거후보선택강요하자...그록은공화당,오픈AI모델은민주당선택",
-  "뉴욕증시,앤트로픽효과에기술주반등…나스닥1.18%↑"
+  "뉴욕증시,앤트로픽효과에기술주반등…나스닥1.18%↑",
+  "뉴욕증시,AI모멘텀회복…나스닥이틀째올라-[글로벌마감시황]",
+  "[뉴욕증시]AI반도체수요기대에나스닥1%대상승…다우는강보합",
+  "이란최고지도자,종전의지강조…WTI100달러아래로[글로벌머니플...",
+  "이찬진금감원장,은행지주이사회에\"IT보안·CEO승계책임강화\"주문",
+  "SK브로드밴드,LS마린솔루션과해저케이블안정운용위한업무협약",
+  "[모닝리포트]네이버AI매출,현실화단계로…\"강력매수추천\"",
+  "\"앤스로픽IPO호재에반도체폭발\"…뉴욕증시,FOMC·빅테크실적앞두...",
+  "美반도체훈풍에프리마켓강세…삼전·SK하닉3%대↑"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,17 @@
   [
    "2026-10-28T08:04:16.721674+09:00",
    "김선영 장애인오픈 일본 동행이 ~SKT 만든 결실 정상 이승민"
+  ],
+  [
+   "2026-10-28T08:10:25.309902+09:00",
+   "IPO FOMC 폭발 앞두 호재에 반도체 빅테크 실적 뉴욕증시"
+  ],
+  [
+   "2026-10-28T08:10:25.309902+09:00",
+   "네이버 매수 강력 현실화 단계로 매출 추천"
   ]
  ],
- "last_run": "2026-10-28T08:08:33.393962+09:00",
+ "last_run": "2026-10-28T08:10:45.881675+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
