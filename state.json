@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20261026007400320?input=2106m",
-  "https://www.mediapen.com/news/view/1132526",
-  "https://zdnet.co.kr/view/?no=20261026145212",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261026010008879",
-  "https://www.m-i.kr/news/articleView.html?idxno=2010422",
-  "https://news.skbroadband.com/news/articleView.html?idxno=241264",
-  "https://www.busan.com/view/busan/view.php?code=2026102615394794562",
-  "https://www.thepowernews.co.kr/view.php?ud=202610261511361675de3f0aa1be_7",
-  "https://www.irobotnews.com/news/articleView.html?idxno=49222",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553645677",
-  "https://www.kbsm.net/news/view.php?idx=539144",
   "https://www.gukjenews.com/news/articleView.html?idxno=3732784",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=361264",
   "https://www.fnnews.com/news/202610261450509015",
@@ -2999,20 +2988,20 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441141",
   "https://www.newsis.com/view/NISX20261027_0003842463",
   "https://www.getnews.co.kr/news/articleView.html?idxno=884927",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900883"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=900883",
+  "https://www.newsis.com/view/NISX20261026_0003841451",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323724",
+  "https://www.joongang.co.kr/article/25473137",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1418416",
+  "https://www.ytn.co.kr/_ln/0102_202610271017057655",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283746",
+  "https://www.chosun.com/national/court_law/2026/10/27/BDTAVXBZ6VBI7FAJATKGVOPBBE/",
+  "https://www.businessplus.kr/news/articleView.html?idxno=118786",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729263",
+  "https://www.seoultimes.news/news/article.html?no=2000101402",
+  "https://www.edaily.co.kr/News/Read?newsId=03293126645617184&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "'이재용4년'삼성전자,메모리부활·AI호황날개…'조직안정'은숙제",
-  "KOSPI200ClosingPriceList-4",
-  "착용감부터통화품질까지…삼성전자,클립형이어폰시장공략",
-  "스페이스X,3배뛴다…주가146달러→500달러로",
-  "SK하닉,美첫'AI메모리'생산거점구축속도…주요기반시설허가...",
-  "FOMC·빅테크실적앞두고코스피1.46%↓...5500선하회[마감시황]",
-  "선관위특검,28일투표지247만장공개검증",
-  "털리고또털리고…놀유니버스,인터파크투어예약자개인정보유출",
-  "날씨·뉴스·코스피를TV첫화면에…LG유플러스,‘오늘일상’출시",
-  "中국유통신사'차이나텔레콤',휴머노이드로봇사업진출",
-  "[오피셜]굿바이레전드!\"다시태어나도같은길\"...韓'역대급커리어...",
   "경주시복합재난대응역량점검,재난대응안전한국훈련",
   "영천시의회김명희의원,'영천말문화축제'개최제안",
   "G마켓,\"3분기연속거래액성장\"",
@@ -6001,7 +5990,18 @@
   "[월가톡톡]달걀이거기서왜…물가부담에전략바꾼日오락실",
   "갈수록힘든‘방문설문’,‘AI모의설문’이대안되나",
   "박윤영KT,'AX플랫폼컴퍼니'핵심사업공개",
-  "앤스로픽,나스닥상장신청…WSJ\"기업가치최대2조달러\""
+  "앤스로픽,나스닥상장신청…WSJ\"기업가치최대2조달러\"",
+  "거제·통영·영광호우피해주민,TV수신료2개월면제",
+  "LGU+'U+one'출시1년만에월이용자610만명",
+  "부상으로빠진세이브왕삼성김재윤“이승민,배찬승믿는다”",
+  "'이재용4년'삼성전자,메모리부활·AI호황날개…조직안정은숙제",
+  "'앤트로픽'발AI훈풍에...삼성전자·하이닉스급등",
+  "경찰,특검투표지검증에기동대3천여명투입...\"불법엄정대응\"",
+  "[속보]선관위특검,올림픽공원핸드볼경기장압수수색…선거서류·CC...",
+  "LG유플러스U+one,앱통합1년만에월사용자610만명돌파",
+  "KT,AI모델선택·과금까지관리'토큰팩토리'출시…AX사업본격화",
+  "KT,AI모델500개통합한'토큰팩토리'공개…토큰사용최대25%절감",
+  "AI가시험환경벗어나관리자권한까지…앤스로픽,IPO신고서공개"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-10-27T10:20:26.293032+09:00",
    "박윤영 공개 컴퍼니 AX 핵심 사업 ~KT 플랫폼"
+  ],
+  [
+   "2026-10-27T10:22:14.514435+09:00",
+   "환경 공개 IPO 신고서 관리자 시험 권한까지 AI가 벗어나"
   ]
  ],
- "last_run": "2026-10-27T10:20:44.369602+09:00",
+ "last_run": "2026-10-27T10:22:32.930342+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
