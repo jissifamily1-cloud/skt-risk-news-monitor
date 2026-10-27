@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261026157951002?input=1195m",
-  "https://www.etoday.co.kr/news/view/2640260",
-  "https://www.fnnews.com/news/202610261838449828",
-  "http://robotzine.co.kr/entry/279297",
-  "https://www.hani.co.kr/arti/economy/marketing/1284263.html",
-  "https://www.edaily.co.kr/News/Read?newsId=04398486645616856&mediaCodeNo=257",
-  "https://view.asiae.co.kr/article/2026102618394358480",
   "https://www.gukjenews.com/news/articleView.html?idxno=3733149",
   "https://dealsite.co.kr/articles/171370",
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=279683",
@@ -2999,16 +2992,16 @@
   "https://www.dailian.co.kr/news/view/1706724/?sc=Naver",
   "https://www.kyosu.net/news/articleView.html?idxno=211702",
   "https://www.it-b.co.kr/news/articleView.html?idxno=90430",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710270"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710270",
+  "https://www.starnewskorea.com/sports/2026/10/27/2026102713534746087",
+  "https://www.techm.kr/news/articleView.html?idxno=156517",
+  "https://biz.chosun.com/it-science/ict/2026/10/27/4TNZQ7DLCBHVPL333VXPMUYNOM/",
+  "http://www.inews24.com/view/2019392",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=396344",
+  "https://www.asiatime.co.kr/article/20261027500194",
+  "https://www.newsis.com/view/NISX20261027_0003842833"
  ],
  "seen_titles": [
-  "KB국민은행“해킹유출2,091명추가확인”",
-  "KB국민은행,해킹피해자119명이라더니2210명…개인정보보호총체적부...",
-  "해킹피해자가119명이러더니2210명…KB국민은행,해킹피해규모제대...",
-  "안극수.김옥수성남시의원,수수회회원들과공산성서소통·화합시간",
-  "MS,관리자없이AI1024개협업하는'에이전시'공개…스스로역할도나...",
-  "해킹발표24일만에…KB국민은행정보유출119→2천210명(종합)",
-  "금융권정보유출확산…국민은행2210명으로확대·미래에셋생명도해킹...",
   "\"포털·TV·생활서비스하나로묶어…일상속AI경험확장\"['모두의...",
   "한국AI·로봇산업협회,2026국제로봇비즈니스컨퍼런스개최.",
   "AI가좌우하나…희비갈리는삼성전기·LG이노텍실적전망",
@@ -6001,7 +5994,14 @@
   "'삼전·닉스'나란히강세…SK하이닉스5%대상승[특징주]",
   "한국공학대,KT와AI실무인재양성협약…AIDU·AICE지원",
   "오픈AI,AI모델'GPT-6.1테라'공개…속도∙성능↑API가격↓",
-  "PHP해킹사태…비트코인은'사이버팬데믹'에어떻게대응할까"
+  "PHP해킹사태…비트코인은'사이버팬데믹'에어떻게대응할까",
+  "[한번에쓱]'괴물안현민의가을전투용'헤어스타일",
+  "래블업,코스닥상장일주일앞으로...공모자금,글로벌사업활용",
+  "KT“AI중개수수료가주력아니다…직접토큰생산해수익낼것”",
+  "[일문일답]\"AI토큰사용이부담된다면?\"⋯25%절약,KT'토큰팩토리'...",
+  "정명근화성시장\"누리집시대끝났다…손안의AI가행정첫창구될것...",
+  "\"끝난줄알았더니\"…되살아난해킹불씨에보험·카드사'촉각'",
+  "두산,3Q영업익전년比2배급증전망…\"엔비디아생태계진입,CCL호조..."
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,25 @@
   [
    "2026-10-27T13:56:15.985211+09:00",
    "비트코인은 사태 대응할까 어떻게 팬데믹 사이버 PHP"
+  ],
+  [
+   "2026-10-27T13:58:15.382791+09:00",
+   "주력 중개 수수료가 수익 직접 아니다 토큰 생산해 ~KT"
+  ],
+  [
+   "2026-10-27T13:58:15.382791+09:00",
+   "토큰팩토리 절약 토큰 ~KT 부담된다면 사용이"
+  ],
+  [
+   "2026-10-27T13:58:15.382791+09:00",
+   "호조 진입 전망 생태계 전년 3Q 영업익 2배 CCL 급증 두산"
+  ],
+  [
+   "2026-10-27T13:58:15.382791+09:00",
+   "보험 되살아난 카드사 촉각 불씨에 끝난줄 알았더니"
   ]
  ],
- "last_run": "2026-10-27T13:56:36.777530+09:00",
+ "last_run": "2026-10-27T13:58:41.316952+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
