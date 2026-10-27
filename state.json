@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.s-journal.co.kr/news/articleView.html?idxno=44840",
-  "https://www.smartbizn.com/news/articleView.html?idxno=157636",
-  "https://www.newspim.com/news/view/20261027000699",
-  "https://news.tf.co.kr/read/economy/2381260.htm",
-  "https://view.asiae.co.kr/article/2026102711291509654",
-  "https://www.newspim.com/news/view/20261027000694",
-  "https://www.dynews.co.kr/news/articleView.html?idxno=870820",
   "https://www.inews365.com/news/article.html?no=940597",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=876616",
   "https://www.edaily.co.kr/News/Read?newsId=03919606645617184&mediaCodeNo=257",
@@ -2999,16 +2992,16 @@
   "https://hbnpress.com/news/view/1065570171928838",
   "https://biz.chosun.com/stock/stock_general/2026/10/28/AEHMABNQGZGFPLX64PR34L6JP4/",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441503",
-  "https://www.news1.kr/finance/general-finance/6334167"
+  "https://www.news1.kr/finance/general-finance/6334167",
+  "http://www.ikld.kr/news/articleView.html?idxno=343033",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=766962",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697199",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710451",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1419105",
+  "https://www.boannews.com/news/articleView.html?idxno=146804",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524244"
  ],
  "seen_titles": [
-  "[직설]앤트로픽IPO에AI주들썩…반도체상승동력다시살아날까",
-  "[BK프리뷰]3연승으로웃는SKvs5연패에고개숙인KCC",
-  "신동빈\"AX는그룹생존의핵심\"…롯데그룹,오는28일부터AX챌린지진...",
-  "[현장]AX전환선언한KT박윤영,'토큰팩토리'공개로첫행보",
-  "KT,AI500개유통은시작…승부처는'토큰생산'",
-  "KT,AI토큰사용량최대25%줄인다…500여개모델통합플랫폼출시",
-  "가격낮추고성능높인테라…오픈AI,에이전트생태계확장속도↑",
   "[앤스로픽,상장]엔스로픽메모리'직거래'…삼성·하이닉스가격협상...",
   "노소영관장기조연설⋯2026유네스코창의도시청주국제공예포럼성료",
   "\"AI는흙을만져본적없다\"…노소영관장이말하는공예의가치",
@@ -6001,7 +5994,14 @@
   "도미노피자,28일'SKTTday'진행",
   "[특징주]되살아난반도체투심…삼전닉스,프리마켓서3%상승",
   "대신증권,해킹사고발생…금융권해킹증권업계로확산(상보)",
-  "[속보]자산운용사1곳서해킹사고…금투업권서처음"
+  "[속보]자산운용사1곳서해킹사고…금투업권서처음",
+  "최상층활용'커뮤니티특화단지'승승장구",
+  "금융지주이사회의장만난이찬진금감원장\"자회사CEO승계절차공정...",
+  "[속보]선관위특검,핸드볼경기장진입…투표지등검증",
+  "SK텔레콤,10년이상장기고객에뮤지컬'시카고'관람혜택",
+  "SK브로드밴드,LS마린솔루션과협력...해저케이블운영강화",
+  "금융권AI해킹여파...정부,IDC등민간주요정보통신기반시설보안...",
+  "[2026국감]수출입은행,해킹시도1년새8배급증…한국은행도공격잇..."
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,13 @@
   [
    "2026-10-28T08:48:16.953775+09:00",
    "사고 처음 자산운용사 금투업권서 1곳서"
+  ],
+  [
+   "2026-10-28T08:50:26.321163+09:00",
+   "1년 한국은행도 급증 8배 공격 시도 수출입은행"
   ]
  ],
- "last_run": "2026-10-28T08:48:34.401900+09:00",
+ "last_run": "2026-10-28T08:50:44.381054+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
