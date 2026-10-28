@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261028000096",
-  "https://www.kukinews.com/article/view/kuk202610280034",
-  "https://www.mt.co.kr/politics/2026/10/28/2026102809524634403",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=86733",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193843",
-  "http://www.finomy.com/news/articleView.html?idxno=264821",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193838",
-  "https://www.viewsnnews.com/article?q=239302",
   "http://www.breaknews.com/1246282",
   "https://www.kgnews.co.kr/news/article.html?no=917020",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303589",
@@ -2999,17 +2991,17 @@
   "https://www.cwn.kr/news/articleView.html?idxno=60235",
   "https://www.todayeconomic.com/news/article.html?no=32646",
   "https://www.betanews.net/article/view/beta202610280114",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697701"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697701",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1189782",
+  "https://www.donga.com/news/Economy/article/all/20261028/134924633/1",
+  "http://news.ebs.co.kr/ebsnews/allView/60784280/N",
+  "https://www.dt.co.kr/article/12091927",
+  "https://www.dt.co.kr/article/12091931",
+  "https://www.todayeconomic.com/news/article.html?no=32647",
+  "https://www.dt.co.kr/article/12091925",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227706"
  ],
  "seen_titles": [
-  "대신증권·미래에셋운용·빗썸줄줄이해킹…금융투자업계보안망'비상...",
-  "앤트로픽상장서류보니…‘25배투자대박’SK텔레콤,구글보다싸게...",
-  "[Car&Now]현대차,차세대'상용연료전지시스템'최초공개·벤츠코리...",
-  "벤츠코리아,전기SUV'디올-뉴일렉트릭GLB'사전계약…6990만원",
-  "벤츠,전기SUV‘디올-뉴일렉트릭GLB’사전계약…6990만원부터",
-  "정점식\"李,뒤에서민주당'조희대학폭'즐겨…'일진'은학교서퇴출...",
-  "교수·대학원생만나미래설계…순천향대'열린연구실'",
-  "제주창조경제혁신센터,스타트업천연자원활용제품개발·실증지원",
   "[특징주]매디슨황내달방한에로봇주'들썩'···레인보우14%↑",
   "선관위특검,올림픽공원진입...투표지247만장공개검증착수",
   "빗썸·미래에셋운용·대신증권줄줄이털려",
@@ -6001,7 +5993,15 @@
   "현대차증권\"미국선거결과따라친환경에너지주급등기대...국내증...",
   "KB증권,SK텔레콤‘모두의AI’합류…맞춤형자산관리협력",
   "주파수대가'2.9조'기준깜깜…한준호\"배분비율15년째55:45\"",
-  "금융권전체로번진해킹…“북한IP다수포착”"
+  "금융권전체로번진해킹…“북한IP다수포착”",
+  "아웃백,오늘(28일)T멤버십VIP대상'25%할인'",
+  "금융권빈틈노렸나…北IP,하루에만440만회접속시도",
+  "전세계웹흔든PHP결함…교육현장보안은?",
+  "SKT,장기고객위해뮤지컬‘시카고’단독대관한다",
+  "LG유플러스,AI데이터센터액체냉각운영표준만든다",
+  "KT,5G에너지효율최적화‘레벨4’인증…AI자율운용기술인정",
+  "KT,5G무선망에너지효율최적화분야‘자율네트워크레벨4’인증...",
+  "증권·코인까지AI해킹공격…\"다수북한IP수상한접속시도\""
  ],
  "recent_sigs": [
   [
@@ -7107,9 +7107,13 @@
   [
    "2026-10-28T19:14:23.574199+09:00",
    "안정성 연결 네트워크는 속도보다 필수 피지컬 인프라"
+  ],
+  [
+   "2026-10-28T19:18:17.568663+09:00",
+   "코인까지 수상한 북한IP 공격 AI해킹 증권 접속 다수 시도"
   ]
  ],
- "last_run": "2026-10-28T19:16:37.545094+09:00",
+ "last_run": "2026-10-28T19:18:35.238479+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
