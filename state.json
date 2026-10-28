@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323889",
-  "https://www.cstimes.com/news/articleView.html?idxno=725506",
-  "http://www.metroseoul.co.kr/article/20261027500653",
-  "https://www.sentv.co.kr/article/view/sentv202610270114",
-  "https://www.knnews.co.kr/news/articleView.php?idxno=1553756",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107520",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3734503",
-  "https://www.etnews.com/20261027000442",
-  "https://www.hidomin.com/news/articleView.html?idxno=726764",
   "https://www.ekn.kr/web/view.php?key=20261027026001943",
   "https://www.newscj.com/news/articleView.html?idxno=3443654",
   "https://www.newspim.com/news/view/20261027001457",
@@ -2999,18 +2990,18 @@
   "https://kbench.com/?q=node%2F282836",
   "https://www.dailysecu.com/news/articleView.html?idxno=209105",
   "http://www.wsobi.com/news/articleView.html?idxno=320519",
-  "https://www.namdonews.com/news/articleView.html?idxno=927486"
+  "https://www.namdonews.com/news/articleView.html?idxno=927486",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3735131",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877065",
+  "https://www.sedaily.com/article/20107085",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=309753",
+  "https://www.namdonews.com/news/articleView.html?idxno=927487",
+  "https://www.etnews.com/20261028000173",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=368330",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=901065",
+  "https://www.khan.co.kr/article/202610281111001"
  ],
  "seen_titles": [
-  "레페리,AI콘텐트제작서글로벌배포까지…’LCMDSTUDIO’출시",
-  "네이버,AI팩토리투자부담낮춘다…매출연동형사용료도입",
-  "“AI골라쓰고사용료줄인다”…KT‘토큰팩토리’승부수",
-  "90억달러'컴퓨팅곳간'채웠다…네이버,엔비디아투자관문넘어",
-  "한국수자원공사,39개사와'기후테크·AI융합'오픈이노베이션다자협...",
-  "박현주“큰시장서M&A·AI금융확대”…반도체낙관·레버리지경계...",
-  "[이슈플러스]‘국내ERP1위’더존비즈온뚫렸다…민관합동조사착수",
-  "항공우주스타트업,기술협력·투자유치확대",
-  "['클릭'증시]관망세깨뜨린앤트로픽상장...AI회의론완화",
   "충남교육청,교육전문직원정책나눔자리개최…교육감직접소통",
   "한국컴퓨터교육학회·성균관대·순천향대·호서대·한신대·전남대,'202...",
   "봉화억지춘양시장,최신시설장착하고얽힌통신선도정리",
@@ -6001,7 +5992,16 @@
   "엔비디아베라루빈AIGPU에무슨일?HBM4대역폭최대26%감소",
   "빗썸사내그룹웨어해킹…임직원개인정보유출,회원정보도조사",
   "SK하이닉스·SK브로드밴드,분기매출첫100조돌파·LS마린솔루션과해...",
-  "[특징주]레인보우로보틱스,엔비디아로보틱스수석방한기대에14.51%..."
+  "[특징주]레인보우로보틱스,엔비디아로보틱스수석방한기대에14.51%...",
+  "계명문화대학교,우즈베키스탄서교육성과포럼개최...직업교육혁신논...",
+  "네이버클라우드,6707억원규모내부거래공시",
+  "메모리정점론일축한SK하이닉스“3년치HBM매진,2030년까지공급부...",
+  "[특별기획]미국중간선거가가상화폐시장에미칠영향분석",
+  "[특징주]SK,하이닉스최대실적·60조추가주주환원에10.95%올라…지...",
+  "KT,6G네트워크보안자문위원회출범…AI·위성통신위협대응",
+  "금투업계로번진해킹...대신증권이어빗썸·미래에셋운용까지",
+  "미래에셋운용·대신증권·빗썸잇단해킹…전금융권보안위협확산",
+  "미래에셋자산운용도해킹사고발생…“고객정보는유출안돼”"
  ],
  "recent_sigs": [
   [
@@ -6911,9 +6911,13 @@
   [
    "2026-10-28T11:12:15.105099+09:00",
    "수석 기대에 레인보우로보틱스 방한 로보틱스"
+  ],
+  [
+   "2026-10-28T11:14:15.242964+09:00",
+   "매진 2030년까지 3년치 메모리 공급 SK하이닉스 HBM 일축한 정점론"
   ]
  ],
- "last_run": "2026-10-28T11:12:39.192858+09:00",
+ "last_run": "2026-10-28T11:14:33.789886+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
