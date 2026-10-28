@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://isplus.com/article/view/isp202610280115",
-  "https://www.cwn.kr/news/articleView.html?idxno=60368",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=747080",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113222",
-  "https://www.m-i.kr/news/articleView.html?idxno=2011394",
-  "https://www.gokorea.kr/news/articleView.html?idxno=883127",
-  "https://www.huffingtonpost.kr/article/261602",
   "http://www.finomy.com/news/articleView.html?idxno=264887",
   "http://www.newslock.co.kr/news/articleView.html?idxno=138813",
   "https://www.kmib.co.kr/article/20261028501195",
@@ -2999,16 +2992,16 @@
   "https://www.ddaily.co.kr/page/view/2026102906222407952",
   "https://it.chosun.com/news/articleView.html?idxno=2023092173025",
   "https://www.ddaily.co.kr/page/view/2026102903261484085",
-  "https://www.tokenpost.kr/news/breaking/428902"
+  "https://www.tokenpost.kr/news/breaking/428902",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=620329",
+  "https://www.sedaily.com/article/20107418",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172976",
+  "https://view.asiae.co.kr/article/2026102817083746356",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193857",
+  "https://news.bizwatch.co.kr/article/industry/2026/10/28/0047",
+  "http://www.metroseoul.co.kr/article/20261029500007"
  ],
  "seen_titles": [
-  "이승민김선영,일본장애인오픈남녀정상'싹쓸이'",
-  "'이례적이다'NC,15개월전떠나보낸손아섭을왜다시데려왔나[IS포...",
-  "329만원폴더블아이폰에디스플레이결함…애플,무상교체나선다",
-  "[KSOI]李대통령국정운영지지율36.5%…국민의힘40.5%,민주당31.5%",
-  "한전KDN,'레드햇APAC이노베이션어워드’수상",
-  "현대차,글로벌車브랜드'빅4'도약…가치250억달러",
-  "글로벌100대브랜드29위,현대차의미래모빌리티혁신주목받다",
   "해커보다먼저빈틈찾는다:과기정통부·국정원금융권공격수법·PH...",
   "금융권서북한IP접근탐지···당국보안점검당부",
   "KB증권,SK텔레콤과금융서비스협약...AI플랫폼확대",
@@ -6001,7 +5994,14 @@
   "美증시3대지수상승…AI인프라주버티브16.5%·오라클10.6%급등",
   "나스닥강보합…대형기술주약세에상승폭제한",
   "[깃허브2026]'코파일럿퓨전'비용절반·작업시간40%줄였다",
-  "100억달러매출기록한마이크로소프트($MSFT),오픈AI계약"
+  "100억달러매출기록한마이크로소프트($MSFT),오픈AI계약",
+  "[폴더블폰품질]\"329만원인데화면이왜이래\"아이폰듀오,무상교체...",
+  "“앤트로픽IPO‘개미’공략나선다…JP모건이주관”",
+  "\"AI공급부터구축·운영까지\"…삼성SDS·LGCNS,기업AX시장격돌",
+  "[C쇼크,벼랑끝K산업｜AI]①공짜공습에속수무책…\"1위넘본다\"",
+  "[AI프리즘]역대급돈가뭄...AI투자자들의'선별작업'시작되다",
+  "LG전자,TV적자3000억털었다…다음승부처는'AI·로봇'",
+  "[해외주식Click]앤트로픽상장앞두고美주식쏠림…서학개미순매수..."
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,17 @@
   [
    "2026-10-29T06:26:15.211658+09:00",
    "MSFT 기록한 계약 매출 마이크로소프트 100억달러"
+  ],
+  [
+   "2026-10-29T06:32:17.929955+09:00",
+   "나선다 공략 개미 주관 JP모건이 IPO 앤트로픽"
+  ],
+  [
+   "2026-10-29T06:32:17.929955+09:00",
+   "넘본다 1위 공습에 공짜 속수무책"
   ]
  ],
- "last_run": "2026-10-29T06:30:49.532154+09:00",
+ "last_run": "2026-10-29T06:32:38.542786+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
