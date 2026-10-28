@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/AKR20261028144330jAP",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499311",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917445",
-  "https://kpenews.com/View.aspx?No=4286836",
   "http://www.newstomato.com/ReadNews.aspx?no=1318287&inflow=N",
   "https://www.newscj.com/news/articleView.html?idxno=3443891",
   "https://www.chosun.com/economy/tech_it/2026/10/28/LHMTS5JAIZAZZFE6XAF2ZF5VFI/",
@@ -2999,13 +2995,13 @@
   "https://www.news1.kr/society/court-prosecution/6335529",
   "http://www.joseilbo.com/news/news_read.php?uid=578354&class=32",
   "https://www.g-enews.com/view.php?ud=2026102906100294772bd56fbc3c_1",
-  "https://www.yna.co.kr/view/AKR20261028174000017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261028174000017?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261029009951091?input=1195m",
+  "https://www.seoul.co.kr/news/economy/2026/10/29/20261029500007?wlog_tag3=naver",
+  "https://www.sedaily.com/article/20107424",
+  "https://www.news1.kr/it-science/security-hacking/6334723"
  ],
  "seen_titles": [
-  "김용판달서구청장,우진이앤씨...임직원30여명참여해복지시설지원",
-  "\"배설물치울일없습니다\"…'로봇개산책시킬분'구인글이유",
-  "AI시대커지는사이버위협…네트워크·클라우드보안주'왕성한식욕...",
-  "밸류엑스,중견기업전용폐쇄망AI인프라'벙커코어'출시…\"오픈AI...",
   "HBM48단전환에도매출성장전망..SK하이닉스\"고객주문량,공급능력...",
   "금융지주이사회99%원안가결…금감원장\"형식적안돼\"",
   "엔비디아매디슨황,내달네번째방한…피지컬AI협력행보주목",
@@ -6001,7 +5997,11 @@
   "올공투표지검증마친특검,선관위핵심의혹수사속도낸다",
   "최태원·노소영'재산분할'재상고심대법2부배당…분할비율다시쟁...",
   "중국의존도낮추는벤츠,미국시장으로눈을돌리다",
-  "대부업체·제약사·병원줄줄이해킹…해커국내활동가능성"
+  "대부업체·제약사·병원줄줄이해킹…해커국내활동가능성",
+  "MS분기매출19%급증124조원…'애저'48%폭풍성장(종합)",
+  "[서울데이터랩]미국증시,반도체강세속혼조…S＆P500·나스닥상승...",
+  "월165만명쓰는빗썸뚫렸다...고객정보유출여부‘깜깜’",
+  "올트먼\"AI가찾아내는취약점규모충격적\"…사이버위협경고"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,13 @@
   [
    "2026-10-29T06:16:17.617680+09:00",
    "국내 줄줄이 대부업체 해커 병원 제약사 가능성 활동"
+  ],
+  [
+   "2026-10-29T06:18:15.205599+09:00",
+   "찾아내는 경고 취약점 위협 충격적 AI가 사이버 규모"
   ]
  ],
- "last_run": "2026-10-29T06:16:34.937001+09:00",
+ "last_run": "2026-10-29T06:18:36.583273+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
