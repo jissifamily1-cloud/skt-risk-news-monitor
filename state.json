@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193859",
-  "https://www.news1.kr/photos/8184210",
-  "https://www.newsis.com/view/NISX20261028_0003844921",
-  "http://www.popcornnews.net/news/articleView.html?idxno=137719",
-  "https://www.news1.kr/photos/8184212",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735405",
-  "https://www.mediapen.com/news/view/1133053",
-  "https://dealsite.co.kr/articles/171518",
   "https://www.newspim.com/news/view/20261028001258",
   "https://www.news1.kr/photos/8184205",
   "https://www.news1.kr/photos/8184206",
@@ -2999,17 +2991,17 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1419416",
   "https://www.enetnews.co.kr/news/articleView.html?idxno=55762",
   "https://www.sedaily.com/article/20107486",
-  "https://www.banronbodo.com/news/articleView.html?idxno=33253"
+  "https://www.banronbodo.com/news/articleView.html?idxno=33253",
+  "https://www.xportsnews.com/article/2212632",
+  "http://www.breaknews.com/1246649",
+  "http://www.breaknews.com/1246652",
+  "https://www.hankyung.com/article/2026102920906",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=268335",
+  "https://www.yna.co.kr/view/AKR20261029021000011?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261029021100011?input=1195m",
+  "https://www.dailian.co.kr/news/view/1706383/?sc=Naver"
  ],
  "seen_titles": [
-  "금융권해킹,증권업계로확산",
-  "빗썸,사내그룹웨어해킹으로개인정보유출…회원정보영향조사",
-  "금융권해킹,증권업계로",
-  "해킹으로이용못한롯데리아·롯데시네마쿠폰은?…\"유효기간연장\"",
-  "SK브로드밴드,LS마린솔루션과해저케이블'SJC2'복구골든타임잡는다",
-  "금투업계로번지는해킹",
-  "경남도-경남경찰,치매환자-고령층금융사기예방공동대응",
-  "[미디어펜창간15주년특별기획②]삼성은설계시간절반,LG는1조원수...",
   "AI투자지속될까…빅테크실적에쏠린반도체업계시선",
   "북한IP서금융권접근시도440만건…당국보안점검요청",
   "대신증권,고객3만8490명개인정보유출…\"깊이사과\"",
@@ -6001,7 +5993,15 @@
   "코스맥스,외부협력으로R&D확장…사업화성과키운다",
   "LG전자베스트샵갤러리아타임월드점,11월팝업스토어GRANDOPEN···아...",
   "학위도채용도없다는데…SK‘2년제교육’에2030몰린이유는?[biz-플...",
-  "[주간미디어동향]JTBC매각공고지연가능성…노사협의체추진外"
+  "[주간미디어동향]JTBC매각공고지연가능성…노사협의체추진外",
+  "KS2차전?3차전?언제나가도고영표는만족!…시리즈전최종점검서호...",
+  "국민의힘장동혁·정점식,“이재명사법권침해·안보폭거에총력맞...",
+  "박충권국민의힘수석대변인“안보·법치흔드는독주...헌정파괴멈춰...",
+  "\"LG전자,3분기영업익기대치하회…본업은견조\"-한투",
+  "삼성전자,오늘3분기확정실적발표...'반도체·배당'에쏠리는관심",
+  "[전국주요신문톱뉴스](29일조간)",
+  "[전국주요신문사설](29일조간)",
+  "버튼하나로등록하는KT엠모바일'mobi',레드닷본상"
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,17 @@
   [
    "2026-10-29T08:00:40.422101+09:00",
    "매각 협의체 지연 노사 공고 가능성 JTBC"
+  ],
+  [
+   "2026-10-29T08:02:16.201655+09:00",
+   "레드닷 mobi 하나로 KT엠모바일 본상 ~KT 버튼 등록하는"
+  ],
+  [
+   "2026-10-29T08:02:16.201655+09:00",
+   "29일 조간"
   ]
  ],
- "last_run": "2026-10-29T08:01:04.759596+09:00",
+ "last_run": "2026-10-29T08:02:42.578808+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
