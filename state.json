@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nc.press/news/articleView.html?idxno=629608",
-  "https://www.etnews.com/20261027000429",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=884990",
-  "https://magazine.hankyung.com/business/article/202610278804b",
-  "http://www.jndn.com/article.php?aid=1793091150441910109",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3734411",
-  "https://www.hankyung.com/article/2026102787751",
-  "https://www.boannews.com/news/articleView.html?idxno=146801",
-  "https://www.newsis.com/view/NISX20261027_0003843538",
-  "https://www.sedaily.com/article/20106802",
-  "https://www.sidae.com/article/2026102713061784246",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=319642",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=205535",
   "https://www.newscj.com/news/articleView.html?idxno=3443619",
@@ -2999,20 +2988,20 @@
   "http://www.beyondpost.co.kr/view.php?ud=20261028103220995be44c0aacd_30",
   "https://www.ddaily.co.kr/page/view/2026102810465420937",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=50097",
-  "https://www.newspim.com/news/view/20261028000501"
+  "https://www.newspim.com/news/view/20261028000501",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=719987",
+  "https://www.mydaily.co.kr/page/view/2026102810491654256",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5227538",
+  "https://www.sisajournal.com/news/articleView.html?idxno=391950",
+  "https://biz.heraldcorp.com/article/10917342",
+  "https://www.newspim.com/news/view/20261028000487",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092172912",
+  "https://biz.chosun.com/topics/law_firm/2026/10/28/Z6SGFP4KTJAVLL35IHCC4PUJEI/",
+  "https://view.asiae.co.kr/article/2026102810493504280",
+  "https://zdnet.co.kr/view/?no=20261028094054",
+  "https://www.newspim.com/news/view/20261028000495"
  ],
  "seen_titles": [
-  "네이버\"브룩필드계약으로엔비디아투자조건충족\"(종합)",
-  "호주\"AI이용해킹,전례없는위협…핵심서비스중단대비해야\"",
-  "그리스제빵업체사기사건에수십명연루",
-  "레페리,AI플랫폼'LCMDSTUDIO'런칭…글로벌마케팅파이프라인구축",
-  "'몸값2700조'앤트로픽“삼전닉스가반도체안주면AI멈춘다”",
-  "다시짚어본요즘삼성전자이재용회장의'동에번쩍서에번쩍'파격...",
-  "박현주미래에셋회장\"아파트값떨어질수도...골프장에주택짓자\"",
-  "영광군,물무산서재난대응안전한국훈련",
-  "울산동구,KCC울산공장서'2026재난대응안전한국훈련'실시",
-  "'돈버는AI'입증한앤트로픽…반도체랠리불씨살렸다",
-  "칼든로봇에'찔러봐'대신'뻗어봐'하면?...\"피지컬AI,'다층적가드...",
   "박현주미래에셋회장\"조만간새M&A발표…中M&A는연내마무리\"",
   "“반도체株,PER3배저평가…빅테크실탄충분해반등할것”",
   "AI모델73종한데모아'기업AX플랫폼'연KT토큰팩토리",
@@ -6001,7 +5990,18 @@
   "빗썸·대신증권·미래에셋운용잇단해킹…금융당국현황파악중",
   "빗썸·대신증권에이어미래에셋운용까지…금융권,해킹피해속출",
   "대신증권3만8490명정보유출…미래에셋운용해킹에금투업계긴장",
-  "이찬진만난은행지주의장들\"해킹대응은생존문제\"…CEO인사공정성..."
+  "이찬진만난은행지주의장들\"해킹대응은생존문제\"…CEO인사공정성...",
+  "순천향대학교,2026학년도2학기대학원오픈랩(OpenLab)LabToYou개최",
+  "대신증권·빗썸이어미래에셋운용까지…금융권해킹비상",
+  "'올공'투표용지검증시작…참관단·여야의원등참석",
+  "빗썸사내시스템뚫렸다…가상자산거래소잇단침해사고",
+  "올공문이열렸다…선관위특검,송파투표지·CCTV검증나서[세상&]",
+  "[특징주]금융권잇단정보유출에보안관련주'들썩'",
+  "3년끈구글·애플인앱결제제재결론나나",
+  "최태원·노소영재산분할재상고심,김성수대법관이주심맡기로",
+  "\"지분승계로5조원확보\"…이재용회장,대기업오너주식순취득1위",
+  "빗썸,사내시스템해킹…이용자개인정보유출가능성조사",
+  "[미국특징주]브로드컴,앤스로픽칩금융에210억달러회사채발행추..."
  ],
  "recent_sigs": [
   [
@@ -6819,9 +6819,13 @@
   [
    "2026-10-28T10:50:25.366781+09:00",
    "은행지주 의장들 해킹대응은 만난 생존 공정성 문제 CEO 인사 이찬진"
+  ],
+  [
+   "2026-10-28T10:52:15.914597+09:00",
+   "발행 회사채 브로드컴 금융에 210억달러"
   ]
  ],
- "last_run": "2026-10-28T10:50:49.577188+09:00",
+ "last_run": "2026-10-28T10:52:34.744989+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
