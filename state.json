@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.finomy.com/news/articleView.html?idxno=264890",
-  "https://www.sedaily.com/article/20107198",
-  "https://www.dailian.co.kr/news/view/1707350/?sc=Naver",
-  "https://www.koit.co.kr/news/articleView.html?idxno=209701",
-  "https://www.mk.co.kr/article/12188422",
-  "https://www.hankookilbo.com/news/article/A2026102808380002971?did=NA",
   "https://www.asiatime.co.kr/article/20261028500327",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=314127",
   "https://www.mediapen.com/news/view/1133188",
@@ -2999,15 +2993,15 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=66671",
   "https://www.chosun.com/national/court_law/2026/10/29/IGKOQWDNMZCVBG2WRHEWXGNCOE/",
   "https://www.yna.co.kr/view/AKR20261029020700009?input=1195m",
-  "http://www.fins.co.kr/news/articleView.html?idxno=110353"
+  "http://www.fins.co.kr/news/articleView.html?idxno=110353",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88387",
+  "https://www.venturesquare.net/1123931/",
+  "https://www.newspim.com/news/view/20261029000070",
+  "https://www.newspim.com/news/view/20261029000075",
+  "https://slownews.kr/168729",
+  "https://www.newspim.com/news/view/20261029000073"
  ],
  "seen_titles": [
-  "KT,6G보안산학연협력체출범···AI·위성·양자위협대응",
-  "SK브로드밴드,LS마린과해저케이블긴급복구체계구축",
-  "증권가까지번진금융권해킹…투자자는보안주매수[줍줍리포트]",
-  "12조계약은시작일뿐…네이버AI팩토리순항조건은'고객확보'",
-  "주파수대가산정·배분불투명…통신인프라투자예측성흔든다",
-  "앤트로픽,11월상장추진…AI기업가치‘시험대’",
   "메모리영업이익률80%시대…사상최대실적에SK하이닉은투자확대승...",
   "이통3사올해영업익5조돌파전망…내년AI인프라로성장잇는다",
   "선관위특검,247만장투표지검증…이상발견땐추가수사",
@@ -6001,7 +5995,13 @@
   "\"한국어쓰고밤10시에움직였다\"…대부업체·병원노린'국내거점해...",
   "[속보]공개검증마친투표함,핸드볼경기장서반출완료",
   "\"미법무부,엔비디아의허깅페이스인수조사\"",
-  "은행다음은보험·증권…해킹뉴스에떠오른'코로나기시감'"
+  "은행다음은보험·증권…해킹뉴스에떠오른'코로나기시감'",
+  "이재용,올해주식순취득5조원…홍라희증여·매입영향",
+  "아이포트폴리오,‘리딩앤·하모니힐스’와디즈펀딩시작…사전알림...",
+  "[미국특징주]오라클,잉여현금흐름흑자복귀시점제시...시간외11%...",
+  "[미국특징주]\"마벨,광통신부품제조사루멘텀인수임박\"",
+  "이재명과펨코,구조적다수를흔드는위험신호:슬로우레터10월29일.",
+  "[미국특징주]\"월가은행들,앤스로픽임차데이터센터채권발행연기..."
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-10-29T07:52:16.718756+09:00",
    "엔비디아는 반도체주 미국 희비 내렸는데 뛰었다 메모리주는"
+  ],
+  [
+   "2026-10-29T07:56:17.286524+09:00",
+   "은행들 데이터센터 임차 발행 채권 월가 연기"
   ]
  ],
- "last_run": "2026-10-29T07:54:33.385127+09:00",
+ "last_run": "2026-10-29T07:56:35.829206+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
