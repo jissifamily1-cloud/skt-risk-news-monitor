@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/2026/10/28/20261028500266?wlog_tag3=naver",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735418",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=125406",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800251.html",
-  "https://www.sedaily.com/article/20107216",
-  "https://www.aitimes.com/news/articleView.html?idxno=216747",
-  "https://www.chosun.com/economy/tech_it/2026/10/28/IM7JOMGEHZHF5JUEBNUZW5H734/",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303635",
   "https://www.sportsworldi.com/newsView/20261028513866",
   "https://www.gukjenews.com/news/articleView.html?idxno=3735444",
   "https://economist.co.kr/article/view/ecn202610280040",
@@ -2999,17 +2991,17 @@
   "https://www.etoday.co.kr/news/view/2641453",
   "https://kpenews.com/View.aspx?No=4287906",
   "https://biz.sbs.co.kr/article_hub/20000342866?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000342867?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000342867?division=NAVER",
+  "https://www.yna.co.kr/view/AKR20261029033300017?input=1195m",
+  "https://www.sportsseoul.com/news/read/1645035",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710805",
+  "https://www.seoul.co.kr/news/society/health-medical/2026/10/28/20261028500265?wlog_tag3=naver",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441753",
+  "https://www.news1.kr/it-science/security-hacking/6335686",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499497",
+  "https://news.tf.co.kr/read/economy/2382145.htm"
  ],
  "seen_titles": [
-  "이승민,제31회일본장애자오픈골프선수권대회종합우승…김선영은여...",
-  "병원도AI검색시대…인사메디AI,7개진료과목GEO노출성과공개",
-  "대구광역시,대구·경북15개대학...'2026대학페스타'동성로서개최",
-  "현대차,글로벌브랜드가치250억달러돌파…세계완성차4위등극",
-  "선관위특검,247만장투표지검증본궤도…장외선\"생중계\"요구지...",
-  "KT클라우드,버티브와AI데이터센터기술협력",
-  "엔비디아·오라클,'베라루빈'대규모동맹…GPU유휴한계넘는다",
-  "‘AI경전’앤스로픽상장신고서…기술·안전·미래담론촉발",
   "\"올해영업이익1조1500억클럽가시권…LG유플러스,탄탄한실적이증명...",
   "왼손엔왼손만?마법사들은‘양손’다쓴다…KS서꺼낼‘강철묘수...",
   "대구광역시,'컬러풀대구'폐지후첫시민인식조사실시",
@@ -6001,7 +5993,15 @@
   "삼성證“SK하이닉스,3년완판으로사이클의심해소⋯100조원주주환원...",
   "LG유플러스,구룡마을화재이재민통신지원..구호소에충전부스·와이...",
   "[굿모닝마켓]빅테크혼조…AI반도체주전반강세속엔비디아하락",
-  "[기업이슈]삼성전기·물산호실적…삼성그룹주동반급등"
+  "[기업이슈]삼성전기·물산호실적…삼성그룹주동반급등",
+  "LGU+,구룡마을화재이재민에와이파이·충전부스지원",
+  "LG유플러스,구룡마을화재이재민에무료충전·와이파이지원",
+  "통신장비→드론→로봇청소기…美,중국산기기차단본격화",
+  "감성마케팅넘어첨단바이오·AI결합…K-뷰티,‘리버스에이징’으...",
+  "HBM12단서8단으로…SK하이닉스수익성셈법달라지나",
+  "PHP취약점악용해韓·美서버25대장악…中연계해커정황",
+  "방미통위,구글·애플에'인앱결제강제'제재…과징금637억원부과",
+  "해킹에서비스멈춘롯데기프티엘…\"미사용쿠폰30일연장\""
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,13 @@
   [
    "2026-10-29T08:28:18.101726+09:00",
    "호실적 삼성그룹주 동반 삼성전기 급등 물산"
+  ],
+  [
+   "2026-10-29T08:30:31.587666+09:00",
+   "쿠폰 해킹에 서비스 기프티엘 30일 미사용 롯데 멈춘 연장"
   ]
  ],
- "last_run": "2026-10-29T08:28:39.729717+09:00",
+ "last_run": "2026-10-29T08:30:52.166215+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
