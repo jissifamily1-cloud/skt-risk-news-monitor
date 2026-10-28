@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=05021686645617512&mediaCodeNo=257",
-  "https://www.fntimes.com/html/view.php?ud=2026102815192186662a735e27af_18",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735441",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450526",
-  "http://www.newstomato.com/ReadNews.aspx?no=1318329&inflow=N",
   "https://daily.hankooki.com/news/articleView.html?idxno=1419332",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441662",
   "https://sports.khan.co.kr/article/202610281535003?pt=nv",
@@ -2999,14 +2994,14 @@
   "https://www.munhwa.com/article/11627136",
   "https://www.munhwa.com/article/11627134",
   "https://www.etnews.com/20261029000026",
-  "https://www.eroun.net/news/articleView.html?idxno=93705"
+  "https://www.eroun.net/news/articleView.html?idxno=93705",
+  "http://coinreaders.com/265945",
+  "https://news.jtbc.co.kr/article/NB12325378?influxDiv=NAVER",
+  "https://www.econovill.com/news/articleView.html?idxno=755260",
+  "https://www.econovill.com/news/articleView.html?idxno=755259",
+  "https://www.newspim.com/news/view/20261029000137"
  ],
  "seen_titles": [
-  "해킹위기넘은SKT…고객우선대응에경영회복속도",
-  "오픈AI,구글AI칩구매추진…엔비디아의존낮추나",
-  "금융권해킹배후북한?…440만건IP접근포착,연쇄침해연관성주목",
-  "세종시교육청-시,유보통합협업회의…어린이집지원연계·자료배포...",
-  "SK하이닉스영업이익률고공행진3분기80%'역대최고',곽노정올해영...",
   "(현장+)'AX기반디지털금융전환'서울핀테크위크",
   "침해사고로벼랑끝섰던SKT…신뢰회복성공사례'주목'",
   "은행부터증권·운용사까지…금융권해킹,외부접점노렸다",
@@ -6001,7 +5996,12 @@
   "충청에100조공격적투자…반도체생산‘전진기지’키운다[창간35주...",
   "‘7세대HBM’세계첫출하…분기영업익100조시대열었다[창간35주...",
   "인성디지탈,금융보안시장공략속도…3분기누적매출117%성장",
-  "KT,생성형AI로고객센터혁신…상담완결률81%로높여"
+  "KT,생성형AI로고객센터혁신…상담완결률81%로높여",
+  "AI에이전트확산에불붙은사이버보안·전력인프라…반도체3배피로...",
+  "금융권노린440만건접근…개인정보줄줄이유출",
+  "인성디지탈,망분리완화시장서보안매출117%성장",
+  "LG유플러스,구룡마을이재민에충전부스와와이파이지원",
+  "[AIMY뉴스]29일중국증시'美금리·빅테크실적변수…선별적반등..."
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-10-29T08:44:14.727154+09:00",
    "상담완결률 높여 AI로 ~KT 생성형 혁신 고객센터"
+  ],
+  [
+   "2026-10-29T08:46:16.180661+09:00",
+   "빅테크 실적 중국증시 반등 금리 29일 변수 선별적"
   ]
  ],
- "last_run": "2026-10-29T08:44:38.758967+09:00",
+ "last_run": "2026-10-29T08:46:38.564916+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
