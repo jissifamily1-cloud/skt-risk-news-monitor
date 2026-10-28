@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1015990",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735454",
-  "https://biz.chosun.com/it-science/ict/2026/10/28/LGZALZFOHZERZH5ERDDUTAOICY/",
-  "https://www.jbnews.com/news/articleView.html?idxno=1514601",
-  "https://www.hellot.net/news/article.html?no=115862",
-  "https://www.news2day.co.kr/article/20261028500238",
-  "https://www.cstimes.com/news/articleView.html?idxno=725653",
-  "http://www.newstomato.com/ReadNews.aspx?no=1318327&inflow=N",
   "https://www.edaily.co.kr/News/Read?newsId=05021686645617512&mediaCodeNo=257",
   "https://www.fntimes.com/html/view.php?ud=2026102815192186662a735e27af_18",
   "https://www.gukjenews.com/news/articleView.html?idxno=3735441",
@@ -2999,17 +2991,17 @@
   "https://news.unn.net/news/articleView.html?idxno=599162",
   "https://www.newspim.com/news/view/20261029000090",
   "https://www.kbsm.net/news/view.php?idx=539523",
-  "https://www.mk.co.kr/article/12189483"
+  "https://www.mk.co.kr/article/12189483",
+  "https://www.munhwa.com/article/11627132",
+  "https://www.munhwa.com/article/11627133",
+  "https://www.munhwa.com/article/11627125",
+  "https://www.munhwa.com/article/11627141",
+  "https://www.munhwa.com/article/11627136",
+  "https://www.munhwa.com/article/11627134",
+  "https://www.etnews.com/20261029000026",
+  "https://www.eroun.net/news/articleView.html?idxno=93705"
  ],
  "seen_titles": [
-  "[오늘의브랜드]삼성전자,식약처허가로갤럭시워치수면무호흡기...",
-  "[오피셜]'경질'5년만에롯데복귀!허문회수석코치,이동욱감독보...",
-  "세종시의회김현미의원,전국최초'청소년마음건강지원조례'제정",
-  "아마존,글로벌스타인수FCC승인…스페이스X와위성통신경쟁본격화",
-  "한국고용정보원'AI일자리추천'공공기관AI혁신챌린지우수상",
-  "예술경영지원센터,2026아트코리아랩AI-융합페스티벌오는11월개최",
-  "시큐리온AI모바일안티바이러스‘OnAV’,AV-TEST인증",
-  "SKT,해킹파고넘어'고객신뢰'재건…월평균해지율0.8%",
   "해킹위기넘은SKT…고객우선대응에경영회복속도",
   "오픈AI,구글AI칩구매추진…엔비디아의존낮추나",
   "금융권해킹배후북한?…440만건IP접근포착,연쇄침해연관성주목",
@@ -6001,7 +5993,15 @@
   "대학생절반\"등록금대비교육가치낮다\"…43.4%\"AI로채용감소\"(종...",
   "[모닝리포트]\"라온시큐어,금융권보안점검확대에인증·모의해킹수...",
   "'인앱결제'구글·애플에과징금637억1천만원",
-  "“나입국거부당하면어떡해”…여권정보까지털렸다,온라인해킹..."
+  "“나입국거부당하면어떡해”…여권정보까지털렸다,온라인해킹...",
+  "냉각기술=전자,ESS=엔솔…데이터센터수주‘원팀시너지’[창간35주...",
+  "‘스마트시티기술’일본진출…아태AX시장정조준[창간35주년특집...",
+  "로봇부터미디어까지…‘AX플랫폼’전환[창간35주년특집]",
+  "‘AI구매어시스턴트’도입…식품원재료시세예측[창간35주년특집...",
+  "충청에100조공격적투자…반도체생산‘전진기지’키운다[창간35주...",
+  "‘7세대HBM’세계첫출하…분기영업익100조시대열었다[창간35주...",
+  "인성디지탈,금융보안시장공략속도…3분기누적매출117%성장",
+  "KT,생성형AI로고객센터혁신…상담완결률81%로높여"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-10-29T08:42:15.453803+09:00",
    "입국 당하면 온라인 털렸다 정보까지 거부 여권 어떡해"
+  ],
+  [
+   "2026-10-29T08:44:14.727154+09:00",
+   "상담완결률 높여 AI로 ~KT 생성형 혁신 고객센터"
   ]
  ],
- "last_run": "2026-10-29T08:42:41.466929+09:00",
+ "last_run": "2026-10-29T08:44:38.758967+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
