@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6593931",
-  "https://www.ilyosisa.co.kr/news/article.html?no=258402",
   "https://www.apnews.kr/news/articleView.html?idxno=3052263",
   "https://www.asiatime.co.kr/article/20261020500038",
   "https://www.joongangenews.com/news/articleView.html?idxno=556358",
@@ -2999,11 +2997,11 @@
   "http://www.worktoday.co.kr/news/articleView.html?idxno=91083",
   "https://www.mk.co.kr/article/12188303",
   "https://biz.sbs.co.kr/article_hub/20000342666?division=NAVER",
-  "https://www.newsis.com/view/NISI20261028_0021508327"
+  "https://www.newsis.com/view/NISI20261028_0021508327",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877099",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729463"
  ],
  "seen_titles": [
-  "'550평'노태우묘역유지비논란…막대한비용출처는?",
-  "노태우비자금수사속…'550평호화묘역'유지비출처도사정권?",
   "‘보통사람’노태우550평초호화묘역유지에수억원…비용출처는?",
   "전남광주통합특별시의회시민주권자치행정연구회,시동",
   "550평‘노태우호화묘역’유지에수억…비용출처의문",
@@ -6001,7 +5999,9 @@
   "디웨이브,서울서양자컴퓨팅기술공개…통신·제조·항만현장적용...",
   "엔비디아·AMD,메타에40억달러투자…AI동맹강화",
   "\"오픈AI도구글TPU구매추진\"…앤트로픽이어TPU확산",
-  "제8기남북방송통신교류추진위원회위원위촉식"
+  "제8기남북방송통신교류추진위원회위원위촉식",
+  "[강소기업이간다]에스엘즈,공간지능AI로건설안전책임진다",
+  "\"위험·비용고객대신떠안았다\"…SKT신뢰회복이끈선택"
  ],
  "recent_sigs": [
   [
@@ -6883,9 +6883,13 @@
   [
    "2026-10-28T13:10:26.652856+09:00",
    "위원 제8기 남북방송통신교류추진위원회 위촉식"
+  ],
+  [
+   "2026-10-28T13:12:16.986514+09:00",
+   "공간지능 에스엘즈 AI로 책임진다 건설안전"
   ]
  ],
- "last_run": "2026-10-28T13:10:44.573769+09:00",
+ "last_run": "2026-10-28T13:12:35.988383+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
