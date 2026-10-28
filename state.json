@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.bizwatch.co.kr/article/mobile/2026/10/28/0020",
-  "https://www.kyeonggi.com/article/20261028580238",
-  "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800272.html",
-  "https://www.edaily.co.kr/News/Read?newsId=04864246645617512&mediaCodeNo=257",
-  "https://www.fntimes.com/html/view.php?ud=2026102814474933172a735e27af_18",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=511001",
   "http://www.wsobi.com/news/articleView.html?idxno=320540",
   "https://www.ddaily.co.kr/page/view/2026102811372723367",
@@ -2999,14 +2994,14 @@
   "https://view.asiae.co.kr/article/2026102907054317566",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441736",
   "https://www.dailian.co.kr/news/view/1707586/?sc=Naver",
-  "https://it.chosun.com/news/articleView.html?idxno=2023092173027"
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173027",
+  "https://biz.sbs.co.kr/article_hub/20000342860?division=NAVER",
+  "https://www.mediapen.com/news/view/1133347",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=283874",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=620395",
+  "https://view.asiae.co.kr/article/2026102815341572764"
  ],
  "seen_titles": [
-  "NIA,AI대전환시대'디지털포용'민관협력강화",
-  "[해킹도미노]①통신부터금융까지...피해전방위확산",
-  "329만원아이폰듀오화면깨짐논란…애플,자급제·통신사무상교체",
-  "[속보]'북한IP'금융권전방위해킹과정서;대량탐지'",
-  "오픈AI“제조업AI사용량격차,반년새2배서5배로”",
   "금융권연쇄해킹수사급물살…경찰,공격자추적본격화",
   "구례군,'섬진강범람·산사태가상'...민·관·군총력대응",
   "LGU+,AX품질만족지수IPTV부문1위·AI데이터센터액체냉각운영표준...",
@@ -6001,7 +5996,12 @@
   "알파벳,3분기시장전망치하회…시간외주가10%급락",
   "하이닉스실적좋지만주가는갇힌다…\"저PER지속·목표주가165만원\"",
   "'뉴노멀'금융권AI해킹…\"방어는정치적문제\"",
-  "오라클10.7%급등…AI투자자금부담완화기대"
+  "오라클10.7%급등…AI투자자금부담완화기대",
+  "MS분기매출19%급증124조원…'애저'48%폭풍성장",
+  "[美증시]'악전고투'오라클돌연10%급등…매출·잉여현금목표파격...",
+  "뉴욕증시,기준금리동결에일제히상승...나스닥0.3%↑",
+  "[사이버경보]새벽3시부터금융권빈틈노렸다…'북한IP'440만건대량...",
+  "\"中빅테크,'10년D램공급'요청…삼성전자,재평가전환점진입\"[클릭..."
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,13 @@
   [
    "2026-10-29T07:13:34.135623+09:00",
    "정치적 문제 뉴노멀 방어는 금융권"
+  ],
+  [
+   "2026-10-29T07:18:14.243245+09:00",
+   "전환점 D램 빅테크 클릭 재평가 10년 진입 공급 요청 삼성전자"
   ]
  ],
- "last_run": "2026-10-29T07:16:33.634132+09:00",
+ "last_run": "2026-10-29T07:18:34.871412+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
