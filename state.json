@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729314",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450395",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=619542",
-  "https://www.etoday.co.kr/news/view/2640606",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=746997",
-  "https://www.m-i.kr/news/articleView.html?idxno=2010689",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=396346",
-  "https://sateconomy.co.kr/news/view/1065598892712652",
-  "https://news.dealsitetv.com/articles/177547",
-  "https://www.jbnews.com/news/articleView.html?idxno=1514490",
-  "https://www.heraldmuse.com/article/10916289",
   "https://www.starnewskorea.com/sports/2026/10/27/2026102714202154675",
   "https://www.gukjenews.com/news/articleView.html?idxno=3734088",
   "https://www.sedaily.com/article/20106613",
@@ -2999,19 +2988,20 @@
   "https://www.news1.kr/finance/general-finance/6334302",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=54037",
   "https://www.hankyung.com/article/2026102896847",
-  "https://news.mtn.co.kr/article/2026102809114436159"
+  "https://news.mtn.co.kr/article/2026102809114436159",
+  "https://www.lawissue.co.kr/view.php?ud=20261028091117347367191f6c6e_12",
+  "https://www.newspim.com/news/view/20261028000260",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=876987",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008816938&plink=ORI&cooper=NAVER",
+  "https://www.etoday.co.kr/news/view/2640587",
+  "https://www.newspim.com/news/view/20261028000108",
+  "https://www.viva100.com/article/20261028500236",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697210",
+  "https://www.yna.co.kr/view/AKR20261028044700002?input=1195m",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=7127",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261028091504MPt"
  ],
  "seen_titles": [
-  "[포토]'상무전역투'대니엘",
-  "애플,아이폰듀오화면결함인정",
-  "[테크NOW]네이버ㆍ카카오ㆍ카카오엔터ㆍNHN링크",
-  "브로드컴CEO막판협상에앤트로픽630억달러조달성사…AI투자부담...",
-  "'민감정보'빼곡한보험사도뚫렸다,미래에셋생명개인정보침해사고...",
-  "[정보유출]\"인터파크투어일부고객정보유출\"…놀유니버스사과",
-  "통신넘어AI사용량과금으로…KT,‘토큰팩토리’30일출시",
-  "KT,AI모델73종연결한'토큰팩토리'출시…기업AX지원확대",
-  "박창훈신한카드사장의'뚝심'국내1호AI결제성공'결실'",
-  "엑스온,생성형AI5종웨딩홀추천분석…\"인용출처85.5%엔진별상이...",
   "SK텔레콤,첫AI거버넌스보고서발간…사내AI에이전트관리체계공개",
   "[재계투데이]삼성전자,GOS공정위제재반발…\"기만광고아냐\"外",
   "충북대병원직업병안심센터,직업성질병의심사례502건발굴",
@@ -6001,7 +5991,17 @@
   "[속보]빗썸\"사내모바일시스템해킹…개인정보유출\"",
   "[속보]대신증권이어미래에셋운용도해킹…금투업계확산",
   "하이닉스\"현금배당14조,자사주20조매입\"",
-  "금융투자업권까지번진해킹…이찬진,이사회에보안강화주문"
+  "금융투자업권까지번진해킹…이찬진,이사회에보안강화주문",
+  "팅크웨어‘아이나비’,KS-QEI블랙박스부문13년연속1위",
+  "이란대통령,푸틴만나\"미국없이도역내문제해결가능\"",
+  "SK하이닉스,매출100조시대열었다…영업익83조'역대최대'",
+  "[뉴스브리핑]오늘의주요뉴스…대통령\"비정상의정상화\"발언배경은...",
+  "현대차증권\"美중간선거불확실성해소시11월K증시반등\"",
+  "[개장시황]SK하이닉스영업익83조'깜짝실적'…코스피2%대상승출발",
+  "[속보]빗썸“사내모바일시스템해킹…개인정보유출”",
+  "이찬진“주요금투사서전반적인해킹사고발생”…IT보안당부",
+  "[속보]미래에셋운용도해킹사고확인돼…당국상황파악중",
+  "대신증권에서도해킹사고발생....금융당국원인파악나서"
  ],
  "recent_sigs": [
   [
@@ -6467,9 +6467,13 @@
   [
    "2026-10-28T09:14:15.608038+09:00",
    "강화 이사회에 주문 이찬진 번진 보안 금융투자업권까지"
+  ],
+  [
+   "2026-10-28T09:16:16.135212+09:00",
+   "미래에셋운용도 당국 파악중 상황 해킹사고 확인돼"
   ]
  ],
- "last_run": "2026-10-28T09:14:41.467212+09:00",
+ "last_run": "2026-10-28T09:16:34.917099+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
