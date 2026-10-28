@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12188131",
-  "https://www.sidae.com/article/2026102809322818262",
-  "https://www.thelec.kr/news/articleView.html?idxno=64398",
-  "https://www.heraldmuse.com/article/10917173",
-  "https://www.news1.kr/sports/baseball/6334433",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3734971",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3734972",
-  "https://www.insight.co.kr/news/579446",
-  "http://www.whosaeng.com/174831",
-  "http://www.beyondpost.co.kr/view.php?ud=20261028094323754946a9e4dd7f_30",
-  "https://it.donga.com/109776/",
   "http://www.metroseoul.co.kr/article/20261027500496",
   "https://www.edaily.co.kr/News/Read?newsId=03650646645617512&mediaCodeNo=257",
   "http://www.econonews.co.kr/news/articleView.html?idxno=446323",
@@ -2999,20 +2988,20 @@
   "https://biz.sbs.co.kr/article_hub/20000342793?division=NAVER",
   "https://www.fnnews.com/news/202610281816137089",
   "https://www.tokenpost.kr/news/blockchain/427991",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193865"
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193865",
+  "http://www.epj.co.kr/news/articleView.html?idxno=39654",
+  "https://it.donga.com/109790/",
+  "https://www.tokenpost.kr/news/ai/427994",
+  "https://www.ddaily.co.kr/page/view/2026102818112931125",
+  "https://www.news2day.co.kr/article/20261028500378",
+  "https://zdnet.co.kr/view/?no=20261027080735",
+  "https://www.tokenpost.kr/news/market/428033",
+  "https://biz.sbs.co.kr/article_hub/20000342794?division=NAVER",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338060",
+  "https://www.ytn.co.kr/_ln/0102_202610281818057973",
+  "https://www.segye.com/newsView/20261028517125?OutUrl=naver"
  ],
  "seen_titles": [
-  "빗썸,사내모바일시스템해킹에개인정보유출…\"피해범위조사중\"",
-  "이찬진금감원장,금투업계잇단해킹에경고“해킹상시화대비해야”",
-  "\"AI해킹의시대\"...개인정보더쉽게빠져나간다[크립토브리핑]",
-  "“주식·코인·보험도털렸다”…금융권해킹줄줄이추가확인",
-  "미래에셋운용,해킹사고확인…금융업계전반확산",
-  "LGU+,AI데이터센터액체냉각운영표준개발추진",
-  "‘연애박사’추영우♥김소현로맨스균열..김민석반대에도“절대포...",
-  "베테랑손아섭,NC복귀확정…연봉5000만원에계약",
-  "광주서10월말부터치매극복걷기행사…예방인식확산",
-  "세종청소년28명,11월1일창작뮤지컬무대선보인다",
-  "싸이월드11월돌아온다...내년엔사진·다이어리도복구",
   "글로벌바이오300개기업집결…BIX2026,역대최대개막",
   "문체부·예술경영지원센터,11월4~8일'AI-융합페스티벌'개최",
   "[위클리AI]오픈AI·구글클라우드손잡았다···앤트로픽·줌새서비...",
@@ -6001,7 +5990,18 @@
   "은행장선임앞쇄신'재압박'…이찬진\"승계절차투명성·공정성강화...",
   "금융권겨냥한AI해킹…증권사·가상자산거래소도뚫렸다",
   "바이낸스,북한연계해킹여러건차단…시스템·자산피해없어",
-  "[증권NOW]미래에셋증권·NH투자증권·KB증권·키움증권·우리투자증권"
+  "[증권NOW]미래에셋증권·NH투자증권·KB증권·키움증권·우리투자증권",
+  "LS마린솔루션·SK브로드밴드,해저통신망유지보수협력확대",
+  "야구엔ABS,농구엔코트뷰…스포인“AI가농구경기기록한다”[인천...",
+  "클라우드플레어AI응답155건에다른고객요청내용섞여",
+  "[종합]AIDC수주3조쌓은LG전자…2030년엔휴머노이드시장겨냥홈로...",
+  "LG전자,가전넘어로봇으로…제조역량앞세워신사업확장",
+  "개보위,내년세종이전하는데'수도권사무소'운영불투명",
+  "미증시선물상승보도…앤스로픽,IPO서류제출",
+  "증권가도줄줄이뚫렸다…금융권해킹전방위확산",
+  "김재호동아일보·채널A사장이채널A감사까지?방미통위'시정명령'",
+  "구글·애플\"법지켜왔다...방미통위결정아쉬워\"",
+  "탈북민131명신상정보,北으로날려보내고통지하나없었다"
  ],
  "recent_sigs": [
   [
@@ -7063,9 +7063,13 @@
   [
    "2026-10-28T18:20:29.146842+09:00",
    "NH투자증권 미래에셋증권 우리투자증권 키움증권 KB증권"
+  ],
+  [
+   "2026-10-28T18:22:18.193260+09:00",
+   "탈북민 보내고 신상정보 하나 없었다 날려 통지 131명"
   ]
  ],
- "last_run": "2026-10-28T18:20:46.928063+09:00",
+ "last_run": "2026-10-28T18:22:35.984541+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
