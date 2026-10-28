@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16260087",
-  "https://www.edaily.co.kr/News/Read?newsId=02719126645617512&mediaCodeNo=257",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729405",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=146283",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557157",
-  "http://www.economytalk.kr/news/articleView.html?idxno=424912",
-  "https://www.gokorea.kr/news/articleView.html?idxno=883025",
-  "https://www.betanews.net/article/view/beta202610260037",
-  "https://www.etoday.co.kr/news/view/2640834",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280018&t=NN",
-  "https://www.sedaily.com/article/20105060",
   "https://www.donga.com/news/Society/article/all/20261023/134897412/1",
   "https://www.yna.co.kr/view/AKR20261027091600008?input=1195m",
   "http://www.srtimes.kr/news/articleView.html?idxno=215595",
@@ -2999,20 +2988,20 @@
   "https://www.khan.co.kr/article/202610281631001",
   "https://www.mt.co.kr/tech/2026/10/28/2026102816231316445",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499354",
-  "https://zdnet.co.kr/view/?no=20261028153400"
+  "https://zdnet.co.kr/view/?no=20261028153400",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88403",
+  "https://www.ytn.co.kr/_ln/0102_202610280727055635",
+  "https://biz.heraldcorp.com/article/10916115",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1419392",
+  "https://biz.sbs.co.kr/article_hub/20000342757?division=NAVER",
+  "https://www.mk.co.kr/article/12188544",
+  "https://www.viva100.com/article/20261028501425",
+  "https://www.joongangenews.com/news/articleView.html?idxno=559243",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261028010010063",
+  "https://www.yna.co.kr/view/AKR20261028139251017?input=1195m",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88400"
  ],
  "seen_titles": [
-  "인스타그램허위정보신고했더니“언론사게시물”…재검토에도같은...",
-  "프랑스,대규모시위로소셜미디어차단검토...민주주의위기?",
-  "국내증시전망…SK하이닉스실적·외국인수급분수령",
-  "[채권/외환]美국채금리·달러동반상승…연준금리결정앞두고관...",
-  "이찬진,8대은행지주의장간담회..\"자회사CEO승계절차투명해야\"",
-  "브로드컴\"앤스로픽구매83조보증\"…반도체주랠리",
-  "'연애박사'시청률소폭상승…2.7%자체최고",
-  "\"아이폰듀오,50만원더주고샀는데\"…유명유튜버도'당황'",
-  "삼성전자,내일3Q확정실적…반도체초호황에연간영업익370조원'청...",
-  "메타,자금조달규모25억달러추가...총129조원",
-  "오늘올림픽공원투표지247만장검증…15시간예상",
   "SKT,'스스로일하는AI'누가책임질까…첫거버넌스리포트",
   "엔비디아매디슨황,삼성·현대차와피지컬AI협력확대위해한국재...",
   "SKT,‘AI트러스트경영’강화…'AI거버넌스리포트'발간",
@@ -6001,7 +5990,18 @@
   "구글·애플‘인앱결제강제’에과징금637억원···3년만에제재확...",
   "[속보]구글429억,애플208.1억…방미통위,'인앱결제'과징금부과",
   "KT,한국품질만족지수조사서3개부문1위선정",
-  "\"2029년윈도PC절반은Arm\"...엔비디아진입으로현실화되나"
+  "\"2029년윈도PC절반은Arm\"...엔비디아진입으로현실화되나",
+  "현대차,글로벌브랜드가치250억달러…17년연속상승",
+  "[스타트경제]'역대급실적'삼전닉스3분기실적공개...주주환원은얼...",
+  "더존비즈온해킹,피해범위확인조사시작",
+  "[증권단신]키움증권·KB증권·미래에셋증권",
+  "[속보]방미통위,'인앱결제강제'구글·애플637억과징금확정",
+  "[속보]방미통위,‘인앱결제’구글429억원·애플208억원과징금",
+  "[속보]방미통위,‘인앱결제’구글429억원·애플208억1천만원과징금",
+  "[속보]방미통위,'인앱결제'구글429억원·애플208억1000만원과징금",
+  "방미통위,구글·애플에과징금637억…외부결제허용·수수료개선명...",
+  "'인앱결제'구글·애플에과징금637억1천만원…시정명령의결",
+  "KB증권,SK텔레콤과'모두의AI'금융서비스협력방안모색키로"
  ],
  "recent_sigs": [
   [
@@ -6915,9 +6915,13 @@
   [
    "2026-10-28T16:34:17.312031+09:00",
    "PC 절반은 Arm 진입으로 윈도 2029년 현실화되나"
+  ],
+  [
+   "2026-10-28T16:36:16.202475+09:00",
+   "모색키로 KB증권 협력 SK텔레콤과 ~SKT 금융서비스 모두의 방안"
   ]
  ],
- "last_run": "2026-10-28T16:34:38.828777+09:00",
+ "last_run": "2026-10-28T16:36:34.412202+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
