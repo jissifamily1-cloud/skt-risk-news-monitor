@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070725",
-  "https://www.yna.co.kr/view/AKR20261027177100001?input=1195m",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=319632",
-  "https://www.kmib.co.kr/article/20261027501327",
-  "https://www.news1.kr/sports/golf/6333920",
-  "https://www.newscj.com/news/articleView.html?idxno=3443643",
-  "https://www.joongang.co.kr/article/25473310",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3734482",
-  "https://www.the-today.com/news/articleView.html?idxno=92510",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3734477",
-  "https://www.donga.com/news/It/article/all/20261027/134919487/2",
   "https://www.newscj.com/news/articleView.html?idxno=3443646",
   "https://view.asiae.co.kr/article/2026102718590325146",
   "http://www.rookie.co.kr/news/articleView.html?idxno=129126",
@@ -2999,20 +2988,20 @@
   "https://www.joongang.co.kr/article/25473563",
   "https://imnews.imbc.com/news/2026/econo/article/6861293_36932.html",
   "https://zdnet.co.kr/view/?no=20261028110701",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710532"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710532",
+  "https://sports.khan.co.kr/article/202610281107003?pt=nv",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450488",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=282996",
+  "https://www.hankyung.com/article/2026102787241",
+  "https://www.yna.co.kr/view/AKR20261028046351004?input=1195m",
+  "https://www.newsis.com/view/NISX20261028_0003844457",
+  "https://www.ytn.co.kr/_ln/0134_202610281106294486",
+  "https://www.hani.co.kr/arti/economy/it/1284541.html",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710515",
+  "https://www.hani.co.kr/arti/economy/economy_general/1284542.html",
+  "https://zdnet.co.kr/view/?no=20261028100138"
  ],
  "seen_titles": [
-  "\"AI가코드짜는시대,깃허브대체한다\"…전깃허브CEO,차세대개발...",
-  "AI모델500여개골라써볼까…KT‘토큰팩토리’출시",
-  "MS,AI투자부담에6만명감원추진",
-  "위로는경주,아래로는부산…올해1~9월울산만내국인방문객'뒷걸음...",
-  "과방위,조희대휴대전화교체내역조회…與황정아\"적법한자료\"",
-  "진화하는금융사기에대응책도세밀화...금융권,인적대응더했다",
-  "“쉿,이렇게하면돼”…비인가테슬라FSD무단설치80명무더기검거",
-  "이승민,日장애인오픈골프선수권종합우승…김선영여자부정상",
-  "\"같은질문에도답달라\"…AI상용화의걸림돌'비결정론'",
-  "상장나선앤트로픽…인프라비용딛고2조달러규모‘프런티어’될...",
-  "체납자거주지·사업장직접찾아…충남도,자진납부유도",
   "러시아\"우크라이나군수기업·교통물류인프라대규모타격\"",
   "김대권수성구청장,수성국제비엔날레개막...11월22일까지도시·자연...",
   "범용AI49%만푼‘급여문제’…딜,인력운영전용모델‘판게아’공...",
@@ -6001,7 +5990,18 @@
   "빗썸·미래에셋·대신증권해킹침해확인…당국현황파악나서",
   "빗썸,사내모바일그룹웨어해킹으로개인정보유출‥\"범위파악중\"",
   "KT,6G보안전문가협의체출범...AI·위성통신위협대응",
-  "앤트로픽보유현금175조원이상…엔비디아·애플합친것보다많아"
+  "앤트로픽보유현금175조원이상…엔비디아·애플합친것보다많아",
+  "‘전승8강진출’은우승을못한다?…3년간이어진‘3승0패징크스’...",
+  "대신증권\"네이버AI인프라자금조달불확실성해소,금융비용연6.6~9...",
+  "AI피크아웃우려끝…삼성·SK,3Q실적으로증명한'반도체드라이브'",
+  "성장멈춘광고업계,영화제작·티켓사업진출",
+  "송파투표지247만장검증착수…촬영불허에野참관단항의(종합)",
+  "6·3지방선거투표용지검증나선특검…이태한\"국민신뢰회복계기...",
+  "'사망설'김정은,단둥만찍고온이유…시진핑없는첫방중[한방이슈...",
+  "금융권해킹·PHP취약점에…정부,민간핵심시설172곳보안점검",
+  "KT,6G보안전문가협의체출범...AI·양자·위성통신대응",
+  "최태원“리딩국가되려면‘한일경제연대’필요”",
+  "[인터뷰]급증하는AI해킹…한국강점살린'정책기반보안자동화'서..."
  ],
  "recent_sigs": [
   [
@@ -6895,9 +6895,17 @@
   [
    "2026-10-28T11:08:14.722538+09:00",
    "이상 앤트로픽 것보다 합친 175조원 현금 애플 보유 많아"
+  ],
+  [
+   "2026-10-28T11:10:25.165398+09:00",
+   "경제연대 리딩국가 한일 되려면 필요"
+  ],
+  [
+   "2026-10-28T11:10:25.165398+09:00",
+   "보안 기반 급증하는 정책 살린 강점 자동화 한국"
   ]
  ],
- "last_run": "2026-10-28T11:08:38.922879+09:00",
+ "last_run": "2026-10-28T11:10:47.705204+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
