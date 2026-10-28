@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704568",
-  "https://www.sciencetimes.co.kr/news/sn/262469",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704506",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=717434",
-  "https://zdnet.co.kr/view/?no=20261001151648",
-  "https://www.ajunews.com/view/20261001140416430",
-  "https://www.aitimes.com/news/articleView.html?idxno=215835",
-  "https://zdnet.co.kr/view/?no=20261001095814",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704237",
   "https://zdnet.co.kr/view/?no=20261001085516",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=704174",
@@ -2999,17 +2991,17 @@
   "https://www.job-post.co.kr/news/articleView.html?idxno=235068",
   "https://byline.network/?p=9004111222625034",
   "https://www.bigtanews.co.kr/article/view/big202610280016",
-  "http://journal.kobeta.com/?post_type=post&p=64307"
+  "http://journal.kobeta.com/?post_type=post&p=64307",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365330",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202610261347206840109030",
+  "https://www.hankyung.com/article/2026102807357",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=124012",
+  "https://www.ziksir.com/news/articleView.html?idxno=151080",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008818990&plink=ORI&cooper=NAVER",
+  "http://www.inews24.com/view/2019900",
+  "https://www.dt.co.kr/article/12091803"
  ],
  "seen_titles": [
-  "오픈AI'에이전트폭주'에사면초가...전세계서법적·규제경고폭풍",
-  "트럼프,신임AI차르에제이클레이턴낙점하나",
-  "[10월2일]\"뜻밖의주인공은로그인과플러그인\"…알트먼이보여준챗GP...",
-  "내편엔관대,네편은검열…진영의무기된표현의자유",
-  "'제브'뜨니판단·결정AI모델단숨에격전지로..유력기업들대거가...",
-  "[디투피플]캡차·기존KYC한계,홍채기반'월드'ID가AI시대진정한...",
-  "‘육아+러닝’유아차런이대세…몸에는괜찮을까",
-  "소프트뱅크,오픈AI에100억달러추가출자…지분13%",
   "노동력로봇으로대체기업,사회보장세(FICA)납부해야:빌게이츠",
   "[SW키트]구글·오픈AI·앤트로픽,신모델안전확보제각각…\"검증한계...",
   "오픈AI·앤트로픽,재무부담가중에\"연내상장계획백지화\"",
@@ -6001,17 +5993,17 @@
   "LG유플러스,'2026AX품질만족지수'IPTV부문1위…AI고객경험혁신성...",
   "KT클라우드,버티브와차세대AIDC기술협력",
   "금융권해킹사태확산",
-  "LG유플러스,한국이콜랩과AI데이터센터액체냉각표준만든다"
+  "LG유플러스,한국이콜랩과AI데이터센터액체냉각표준만든다",
+  "네이버,글로벌AI팩토리시장본격공략",
+  "[더벨][ETF규제완화점검]돌아오지않는서학개미…해외레버리지만...",
+  "금융권겨냥북한IP접근440만건포착…당국,보안점검당부",
+  "이찬진금감원장\"금융지주이사회,'거수기'벗어나'경영진견제'해야...",
+  "KT,'한국품질만족지수'통신3개부문1위석권…장기1위수성",
+  "[자막뉴스]빗썸·미래에셋운용·대신증권도뚫렸다…금융권해킹확산",
+  "방미통위,제8기남북방송통신교류추진委구성⋯임기2년",
+  "[속보]금융권해킹시도서북한IP대량탐지…당국“국적조작도가..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-28T08:38:16.374907+09:00",
-   "HD현대 ~KT 신한지주"
-  ],
-  [
-   "2026-10-28T08:38:16.374907+09:00",
-   "PHP 연쇄 공포 초비상 웹사이트 금융권 쓰는 속에"
-  ],
   [
    "2026-10-28T08:40:26.060507+09:00",
    "대관 장기고객 뮤지컬 ~SKT 시카고 초청 1299명"
@@ -6895,9 +6887,13 @@
   [
    "2026-10-28T14:38:16.088920+09:00",
    "한국이콜랩과 만든다 데이터센터 LG유플러스 ~LGU 액체냉각 표준"
+  ],
+  [
+   "2026-10-28T14:40:25.344160+09:00",
+   "조작도 당국 IP 시도서 대량 금융권 탐지 국적 북한"
   ]
  ],
- "last_run": "2026-10-28T14:38:39.989006+09:00",
+ "last_run": "2026-10-28T14:40:48.946946+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
