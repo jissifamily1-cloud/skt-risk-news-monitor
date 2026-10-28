@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20261028500067",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7191124",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261028.99099008243",
   "https://www.hankyung.com/article/202610280739i",
   "https://isplus.com/article/view/isp202610280115",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/it-science/security-hacking/6334723",
   "https://www.news1.kr/finance/insurance-card/6335439",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=766986",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820012&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820012&plink=ORI&cooper=NAVER",
+  "https://www.ddaily.co.kr/page/view/2026102906222407952",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173025"
  ],
  "seen_titles": [
-  "정부,잇따른금융·공공해킹에민간기반시설172곳긴급점검",
-  "LG유플러스,한국이콜랩과AIDC액체냉각운영표준수립나선다",
   "KT,한국품질만족지수3개부문1위선정",
   "금융권해킹시도서북한IP다수확인",
   "이승민김선영,일본장애인오픈남녀정상'싹쓸이'",
@@ -6001,7 +5999,9 @@
   "올트먼\"AI가찾아내는취약점규모충격적\"…사이버위협경고",
   "은행·보험·증권·가상자산까지뚫렸는데…카드업계아직'무풍지대'",
   "CI까지털렸다는데괜찮을까?...날마다터지는금융사정보유출사고에...",
-  "금융권'해킹'더번졌다…\"북한IP440만건확인\""
+  "금융권'해킹'더번졌다…\"북한IP440만건확인\"",
+  "美증시3대지수상승…AI인프라주버티브16.5%·오라클10.6%급등",
+  "나스닥강보합…대형기술주약세에상승폭제한"
  ],
  "recent_sigs": [
   [
@@ -6161,7 +6161,7 @@
    "찾아내는 경고 취약점 위협 충격적 AI가 사이버 규모"
   ]
  ],
- "last_run": "2026-10-29T06:22:36.202367+09:00",
+ "last_run": "2026-10-29T06:24:31.005783+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
