@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735435",
-  "https://www.yna.co.kr/view/AKR20261028133400057?input=1195m",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200304",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271247058240332",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=130417",
-  "https://www.g-enews.com/view.php?ud=2026102810075025653084322ec9_1",
-  "https://www.dt.co.kr/article/12091799",
-  "https://www.imaeil.com/page/view/2026102814395920265",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94645",
-  "https://sateconomy.co.kr/news/view/1065593942589753",
   "https://www.nocutnews.co.kr/news/6598577",
   "https://www.wikitree.co.kr/articles/1169913",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000077585",
@@ -2999,19 +2989,19 @@
   "https://www.mediapen.com/news/view/1133359",
   "http://www.newsprime.co.kr/news/article.html?no=752866",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499502",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41299"
+  "https://www.globale.co.kr/news/articleView.html?idxno=41299",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729526",
+  "https://www.sentv.co.kr/article/view/sentv202610290007",
+  "https://www.ekn.kr/web/view.php?key=20261029024361831",
+  "https://www.g-enews.com/view.php?ud=2026102908323895940c8c1c064d_1",
+  "https://www.g-enews.com/view.php?ud=202610290830218346906806b77b_1",
+  "https://www.ytn.co.kr/_ln/0103_202610290833238698",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173030",
+  "http://www.nongaek.com/news/articleView.html?idxno=97291",
+  "https://www.newsway.co.kr/news/view?ud=2026102908304038553",
+  "http://www.metroseoul.co.kr/article/20261028500590"
  ],
  "seen_titles": [
-  "[포토뉴스]SK텔레콤,장기고객들과뮤지컬'시카고'같이봐요",
-  "김제시,2028년국가예산확보위해신규사업23건보고회개최",
-  "울산학춤보존회,11월1일정기공연…이예선생재조명",
-  "[기획-반도체신질서]GPU가반도체산업의권력을바꾸고있다②",
-  "[핫마켓]앤트로픽IPO시동…수익성입증했지만AI리스크도부각",
-  "\"금고는잠갔는데'옆문'이뚫렸다\"...AI시대금융권보안비상",
-  "LS마린솔루션·SK브로드밴드,해저통신망긴급복구협력",
-  "최태원-노소영재산분할재상고심심리시작",
-  "금융권해킹시도440만건이북한IP…피해사례는발견안돼",
-  "금융권해킹시도서북한IP다수확인…당국\"각별유의해달라\"",
   "SK브로드밴드,LS마린솔루션과아시아7개국해저통신망긴급복구협약",
   "벤츠,6990만원에신형GLB전기차사전계약시작",
   "‘연애박사’김희애가반했다…故안판석매직“정말최고다”극찬,...",
@@ -6001,7 +5991,17 @@
   "[美증시]클라우드·전력인프라플렉스'어닝서프'11%급등…AI수요...",
   "라온시큐어,공공기관양자보안의무화법안'수혜'…AI보안까지금융...",
   "LG유플러스,구룡마을화재이재민200여명에긴급구호물품·통신서비...",
-  "PHP취약점노린AI해킹피습···美정부서버권한탈취"
+  "PHP취약점노린AI해킹피습···美정부서버권한탈취",
+  "[Telecom&Now]SKT,뮤지컬'시카고'단독대관해장기고객1299명초청...",
+  "LGU+,구룡마을화재이재민위해충전부스·와이파이지원",
+  "[똑똑한유통]대상일본에‘냉·온음용홍초’·하이트진로AX리더1기...",
+  "\"매출70%뛰었지만R&D비용폭증\"…中유니트리,흑자딜레마노출",
+  "구글알파벳\"빅테크어닝쇼크\"...삼전닉스K반도체또위기?",
+  "투표지현장검증종료...투표함,별도장소로반출[뉴스UP]",
+  "\"약끊어도괜찮다\"챗GPT믿은31세여성사망…오픈AI피소",
+  "[오늘의사설]\"北,금융권해킹정황…AI시대보안체계새로짜야\"",
+  "SK하이닉스목표가조정온도차…반등기대속신중론[애널리스트의시...",
+  "경기고양시을한준호의원,주파수대가산정·배분기준법제화촉구"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,25 @@
   [
    "2026-10-29T08:34:15.715661+09:00",
    "취약점 피습 권한 정부 PHP 서버 탈취 노린"
+  ],
+  [
+   "2026-10-29T08:36:15.281243+09:00",
+   "여성 31세 끊어도 괜찮다 사망 믿은 챗GPT 피소"
+  ],
+  [
+   "2026-10-29T08:36:15.281243+09:00",
+   "새로 금융권 짜야 정황 시대 보안체계"
+  ],
+  [
+   "2026-10-29T08:36:15.281243+09:00",
+   "신중론 SK하이닉스 기대 애널리스트의 온도차 반등 조정 목표가"
+  ],
+  [
+   "2026-10-29T08:36:15.281243+09:00",
+   "법제화 경기 한준호 산정 기준 주파수 의원 촉구 대가 배분 고양시을"
   ]
  ],
- "last_run": "2026-10-29T08:34:39.193146+09:00",
+ "last_run": "2026-10-29T08:36:44.312422+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
