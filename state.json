@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20261028500432",
-  "https://www.seoul.co.kr/news/society/health-medical/2026/10/28/20261028500265?wlog_tag3=naver",
-  "https://www.m-economynews.com/news/article.html?no=72230",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697545",
-  "https://www.viva100.com/article/20261028501112",
   "https://www.seoul.co.kr/news/economy/2026/10/28/20261028500266?wlog_tag3=naver",
   "https://www.gukjenews.com/news/articleView.html?idxno=3735418",
   "http://www.newscape.co.kr/news/articleView.html?idxno=125406",
@@ -2999,14 +2994,14 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441751",
   "https://www.slist.kr/news/articleView.html?idxno=777300",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=92272",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499496"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499496",
+  "https://www.etoday.co.kr/news/view/2641441",
+  "https://www.etoday.co.kr/news/view/2641453",
+  "https://kpenews.com/View.aspx?No=4287906",
+  "https://biz.sbs.co.kr/article_hub/20000342866?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000342867?division=NAVER"
  ],
  "seen_titles": [
-  "유통가할인전불붙었다…쓱데이부터와멤데까지",
-  "오픈AI,국내기업대상‘빌더부트캠프’개최…업무에AI적용실습",
-  "감성마케팅넘어첨단바이오·AI결합…K-뷰티,‘리버스에이징’으...",
-  "금융권겨냥북한IP접근440만건탐지...금융당국,해킹경계강화",
-  "금융권해킹시도서‘북한IP’다수확인",
   "이승민,제31회일본장애자오픈골프선수권대회종합우승…김선영은여...",
   "병원도AI검색시대…인사메디AI,7개진료과목GEO노출성과공개",
   "대구광역시,대구·경북15개대학...'2026대학페스타'동성로서개최",
@@ -6001,7 +5996,12 @@
   "구글의검색매출부진…AI가검색시장잠식했나",
   "LG유플러스,구룡마을화재이재민에충전부스·와이파이지원",
   "\"재난현장통신공백막는다\"…LG유플러스,구룡마을화재구호소에Wi...",
-  "엔비디아도20억달러투자한루멘텀…마벨인수성사가능성"
+  "엔비디아도20억달러투자한루멘텀…마벨인수성사가능성",
+  "AI빚투오라클,‘재무청사진’공개에주가11%↑[뉴욕증시무버]",
+  "삼성證“SK하이닉스,3년완판으로사이클의심해소⋯100조원주주환원...",
+  "LG유플러스,구룡마을화재이재민통신지원..구호소에충전부스·와이...",
+  "[굿모닝마켓]빅테크혼조…AI반도체주전반강세속엔비디아하락",
+  "[기업이슈]삼성전기·물산호실적…삼성그룹주동반급등"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,17 @@
   [
    "2026-10-29T08:26:15.447809+09:00",
    "가능성 20억달러 투자한 인수 엔비디아도 성사 마벨 루멘텀"
+  ],
+  [
+   "2026-10-29T08:28:18.101726+09:00",
+   "전반 빅테크 AI반도체주 혼조 하락 강세"
+  ],
+  [
+   "2026-10-29T08:28:18.101726+09:00",
+   "호실적 삼성그룹주 동반 삼성전기 급등 물산"
   ]
  ],
- "last_run": "2026-10-29T08:26:36.118618+09:00",
+ "last_run": "2026-10-29T08:28:39.729717+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
