@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610280859460100445",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242486",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485292",
-  "https://www.g-enews.com/view.php?ud=202610280912085201923c501012_1",
-  "https://www.busan.com/view/busan/view.php?code=2026102809200192002",
-  "http://www.inews24.com/view/2019714",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=817334",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=817333",
-  "https://ysmbc.co.kr/NewsArticle/1542781",
-  "http://www.joseilbo.com/news/news_read.php?uid=578261&class=32",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16260207",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16260206",
   "https://www.gukjenews.com/news/articleView.html?idxno=3734930",
   "https://www.gukjenews.com/news/articleView.html?idxno=3734917",
   "https://zdnet.co.kr/view/?no=20261028092113",
@@ -2999,21 +2987,21 @@
   "https://dealsite.co.kr/articles/171572",
   "https://www.abcn.kr/news/articleView.html?idxno=93729",
   "https://www.mt.co.kr/tech/2026/10/28/2026102817270438634",
-  "https://www.tokenpost.kr/news/ai/427045"
+  "https://www.tokenpost.kr/news/ai/427045",
+  "https://www.khan.co.kr/article/202610262028045",
+  "https://www.namdonews.com/news/articleView.html?idxno=927550",
+  "https://www.tokenpost.kr/news/ai/427102",
+  "https://www.tokenpost.kr/news/briefing/427118",
+  "https://news.mtn.co.kr/article/2026102816163036162",
+  "https://www.ajunews.com/view/20261028171751323",
+  "https://www.tokenpost.kr/news/blockchain/427097",
+  "https://www.hani.co.kr/arti/society/society_general/1284640.html",
+  "https://www.tokenpost.kr/news/policy/427096",
+  "https://www.ngonews.kr/news/articleView.html?idxno=241752",
+  "https://news.mtn.co.kr/article/2026102816284874715",
+  "https://www.ajunews.com/view/20261028173340390"
  ],
  "seen_titles": [
-  "대신증권,고객3만8490명정보유출…\"재발방지이행\"",
-  "대신증권고객정보3만8천여건유출…긴급대응조치",
-  "방미통위,구글·애플'인앱결제강제'600억대과징금가닥",
-  "구글·애플에과징금637억원3년만에부과방침…시정조치범위엔이견",
-  "[텔코NOW]SKTㆍSKBㆍLGU+",
-  "SK브로드밴드,LS마린솔루션과'아시아해저케이블'집중관리",
-  "부산앞바다해저케이블장애대응강화···SKB·LS마린솔루션협력",
-  "'반도체훈풍'확산…코스피,2.3%오른5760선출발",
-  "[속보]대신증권이어미래에셋운용·빗썸도…금융권해킹확산",
-  "[속보]미래에셋운용도해킹⋯당국상황파악중",
-  "[속보]빗썸,사내모바일시스템해킹피해…개인정보유출",
-  "[이슈]대신증권해킹사고'고객3만8490명'정보유출…계좌번호도포함",
   "농협은행,4년간특별시정살림책임진다",
   "이진수법무장관대행\"노태우비자금의혹수사중...재단자금원천추...",
   "김소현,ENA'연애박사'서청춘성장과로맨스동시에그린다",
@@ -6001,7 +5989,19 @@
   "구글·애플에과징금637억원…인앱결제강제첫제재",
   "'인앱결제강제'구글·애플에첫과징금637억원…\"상한높인다\"",
   "'인앱결제'구글·애플637억과징금철퇴…\"법적대응검토\"(종합)",
-  "엔비디아,대만광엔진생산능력2027년중반까지15배목표"
+  "엔비디아,대만광엔진생산능력2027년중반까지15배목표",
+  "SKT,AI시대안전·신뢰확보‘거버넌스리포트’첫발간",
+  "[김명식의질문]타이거즈팬들은왜붉게물드는가",
+  "영국,AI생물안보연구소설립에1억파운드투입",
+  "[저녁뉴스브리핑]ETF자금흐름,과거수익률과더밀접外",
+  "AI발보안위협확산…빅테크는'쩐의전쟁'지속",
+  "[컨콜종합]LG전자,2030년홈휴머노이드출격…AIDC냉각도가속",
+  "[로빈후드온체인]모션에보유지갑855개가몰려있다...스페이스X지...",
+  "특검‘투표용지공개검증’에도…“생중계,생중계”구호바꿔이어...",
+  "리플앨더로티,가상자산발행사에약속공개촉구",
+  "방미통위,구글·애플에과징금637억원부과…\"인앱결제강제첫제재\"",
+  "구글·애플'인앱결제강제'에637억과징금…3년만에제재확정",
+  "금융당국,빗썸과해킹점검회의…금융사급보안강화"
  ],
  "recent_sigs": [
   [
@@ -6951,9 +6951,13 @@
   [
    "2026-10-28T17:38:16.428955+09:00",
    "중반까지 2027년 광엔진 15배 목표 대만 생산능력"
+  ],
+  [
+   "2026-10-28T17:40:28.319520+09:00",
+   "점검회의 빗썸과 강화 금융사급 금융당국 보안"
   ]
  ],
- "last_run": "2026-10-28T17:38:35.785490+09:00",
+ "last_run": "2026-10-28T17:40:45.587647+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
