@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8184207",
-  "https://www.news1.kr/photos/8184203",
   "https://www.news1.kr/photos/8184208",
   "https://byline.network/?p=9004111222625135",
   "https://www.businesspost.co.kr/BP?command=article_view&num=450490",
@@ -2999,11 +2997,11 @@
   "https://www.newspim.com/news/view/20261028000938",
   "https://biz.sbs.co.kr/article_hub/20000342859?division=NAVER",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227738",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077216"
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077216",
+  "https://www.yna.co.kr/view/AKR20261029026500009?input=1195m",
+  "https://dealsite.co.kr/articles/171566"
  ],
  "seen_titles": [
-  "증권사도,가상자산거래소도잇달아해킹…국수본내사착수",
-  "증권사도뚫렸다…대신증권,해킹피해로고객3.8만명정보유출",
   "증권사도뚫렸다…대신증권,해킹피해로고객정보유출",
   "증권업계로번진금융권해킹",
   "오픈AIGPT-6.1테라,보안통제우회평가서29.6%위반",
@@ -6001,7 +5999,9 @@
   "[GAM]드러켄밀러가선택한나테라①암·유전자…분자진단게임체인저",
   "[애프터마켓리뷰]서울반도체,희토류필요없는백색LED개발",
   "방미통위,구글·애플에600억과징금…인앱결제'첫제재'",
-  "[2026국감]'42만명개인정보유출'듀오박수경,울먹…성평등부'관리..."
+  "[2026국감]'42만명개인정보유출'듀오박수경,울먹…성평등부'관리...",
+  "\"마벨,루멘텀인수협상막바지…AI인프라업계메가딜\"",
+  "[통신3사AIDC셈법]SKT,외부투자유치로몸집키운다…투자금회수..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,13 @@
   [
    "2026-10-29T08:04:16.110231+09:00",
    "LED 백색 개발 필요 서울반도체 없는 희토류"
+  ],
+  [
+   "2026-10-29T08:06:16.574637+09:00",
+   "외부 유치로 투자 투자금 회수 ~SKT 키운다 몸집"
   ]
  ],
- "last_run": "2026-10-29T08:04:39.307687+09:00",
+ "last_run": "2026-10-29T08:06:34.464177+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
