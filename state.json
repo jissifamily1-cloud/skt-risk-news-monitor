@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "http://journal.kobeta.com/?post_type=post&p=64281",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=424596",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1107147",
-  "https://isplus.com/article/view/isp202610270111",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1107196",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261027010009162",
-  "https://www.koit.co.kr/news/articleView.html?idxno=209679",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524225",
-  "https://www.newsis.com/view/NISX20261027_0003842041",
-  "https://www.nocutnews.co.kr/news/6597734",
-  "https://thetracker.co.kr/View.aspx?No=4280311",
-  "https://www.hankyung.com/article/202610264870i",
   "https://www.ddaily.co.kr/page/view/2026102714062557477",
   "https://www.topdaily.kr/articles/112516",
   "https://www.job-post.co.kr/news/articleView.html?idxno=234726",
@@ -2999,21 +2987,21 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=368303",
   "https://news.bizwatch.co.kr/article/mobile/2026/10/28/0001",
   "https://www.ajunews.com/view/20261028085247999",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557161"
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557161",
+  "https://www.bntnews.co.kr/article/view/bnt202610280117",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3734911",
+  "https://www.mediapen.com/news/view/1133036",
+  "https://www.etnews.com/20261027000272",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242469",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=54038",
+  "http://www.4th.kr/news/articleView.html?idxno=2120551",
+  "https://www.eroun.net/news/articleView.html?idxno=93618",
+  "https://www.viva100.com/article/20261028500220",
+  "https://news.dealsitetv.com/articles/177606",
+  "https://www.cstimes.com/news/articleView.html?idxno=725572",
+  "https://www.nocutnews.co.kr/news/6598177"
  ],
  "seen_titles": [
-  "노태우일가비자금수사어디까지…법무장관대행\"자금원천추적\"",
-  "KT,AI모델500개통합'토큰팩토리'공개…30일출시",
-  "KT,AI모델500개골라쓰는‘토큰팩토리’공개…30일정식출시",
-  "KT미디어부문장지낸김채희전무,신세계I&C사업전략본부장으로",
-  "계룡시,제7대시의원의정비5%인상결정",
-  "‘미국행고민’추영우,김소현오빠김민석앞얼어붙었다(‘연애박...",
-  "대전TP,위성통신·6G시험장비4종구축…지역기업에개방",
-  "건설사들허리띠졸라도'AI인재'는키운다",
-  "자율주행∙이동로봇,자유롭게실증하고상용화촉진한다",
-  "KB국민은행,정보유출인원119명서2210명으로늘어…초기피해범위...",
-  "\"온라인장바구니커지는데\"식품업계자사몰,고객정보관리'숙제'",
-  "LG유플러스,U+one출시1년…월이용자최고610만명돌파",
   "LG유플러스U+one,MAU610만명…출시1년새20%증가",
   "유통넘어제작까지…종이책에힘주는교보·밀리의서재",
   "예측불가AI,제품화는어떡하나…“운영계층대상평가·관측·통제가...",
@@ -6001,7 +5989,19 @@
   "1만km해저망뚫리면달려간다…LS마린·SKB'긴급복구'결속",
   "SK브로드밴드,LS마린솔루션과업무협약…\"해저케이블협력\"",
   "LG유플러스,AX품질만족지수IPTV부문서1위수상",
-  "대신증권해킹3만8천여명정보유출…휴대전화번호·계좌번호포함"
+  "대신증권해킹3만8천여명정보유출…휴대전화번호·계좌번호포함",
+  "‘연애박사’김소현,현실로맨스입증",
+  "전남도서관,냉난방시설교체마치고30일부터정상운영",
+  "[미르의글로벌레이더]한일건설,방글라데시다카도시철도차량기지...",
+  "지란지교,생성형AI보안솔루션'AX필터2.0'GS인증1등급",
+  "지란지교소프트'AX필터2.0',GS인증1등급획득",
+  "OTT시장,넷플릭스독주'흔들'...쿠팡플레이1000만돌파",
+  "대신증권3만8490명고객정보유출…계좌번호·주소등털려",
+  "SKT,장기고객1299명뮤지컬'시카고'초청",
+  "젠슨황장녀매디슨황내달방한⋯K-기업과피지컬AI협력확대주목",
+  "대신증권,해킹으로고객3만8000여명정보유출…\"재발방지이행\"",
+  "대신증권,해킹사고로고객3만8490명개인정보유출",
+  "대신증권해킹피해·3만8천명정보유출…\"재발방지노력\""
  ],
  "recent_sigs": [
   [
@@ -6449,7 +6449,7 @@
    "금융권 서둘러야 반복되는 보안사고 보완입법 2년째"
   ]
  ],
- "last_run": "2026-10-28T09:08:34.103971+09:00",
+ "last_run": "2026-10-28T09:10:43.724389+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
