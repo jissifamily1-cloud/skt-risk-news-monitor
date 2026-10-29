@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12325341?influxDiv=NAVER",
-  "https://news.jtbc.co.kr/article/NB12325308?influxDiv=NAVER",
-  "https://www.gnnews.co.kr/news/articleView.html?idxno=648446",
-  "https://www.ktv.go.kr/content/view?content_id=763140",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6861426_37004.html",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=420292",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=246934",
-  "https://www.ddaily.co.kr/page/view/2026102817102863442",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735756",
   "http://www.breaknews.com/1246632",
   "http://www.yonhapnewstv.co.kr/news/MYH20261028201552JDQ",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819692&plink=ORI&cooper=NAVER",
@@ -2999,18 +2990,18 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2011944",
   "https://www.mt.co.kr/industry/2026/10/29/2026102914175821843",
   "https://biz.chosun.com/it-science/ict/2026/10/29/I6LXKAH6GFH4HARHEQ2QLF5DEA/",
-  "http://journal.kobeta.com/?post_type=post&p=64342"
+  "http://journal.kobeta.com/?post_type=post&p=64342",
+  "https://www.hankyung.com/article/202610281641i",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3736497",
+  "https://zdnet.co.kr/view/?no=20261028092151",
+  "https://www.ajunews.com/view/20261029145341849",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711013",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209715",
+  "https://www.asiatime.co.kr/article/20261029500347",
+  "https://www.hankyung.com/article/202610293529i",
+  "https://www.boannews.com/news/articleView.html?idxno=146867"
  ],
  "seen_titles": [
-  "선관위특검팀7시간째투표지확인중…절반가량검증",
-  "또당한금융권…\"북한IP440만건\"해킹시도확인",
-  "방미통위,'인앱결제과징금'구글429억·애플209억처분",
-  "백삼철진주시문화관광국장\"10월축제,글로벌축제가능성확인\"",
-  "주요시설잇단해킹피해···정부,핵심시설170여곳점검",
-  "구글·애플'인앱결제강제'과징금637억원‥3년만에결론",
-  "LG유플러스,'2026AX품질만족지수'IPTV부문1위",
-  "수자원공사,AI로질식사고막고로봇으로누수탐사…39개기업과맞...",
-  "머스크가그린‘로봇100억대시대’…AI만똑똑하면될까",
   "충남중소기업,미주수출상담회서4885만달러상담성과",
   "이주희민주당원내대변인\"장동혁,특검검증장외정치빌미…결과에...",
   "'인앱결제'구글·애플에과징금637억원부과",
@@ -6001,7 +5992,16 @@
   "[기획]반도체호황언제까지…기술선점·투자시점이관건",
   "정유·윤활유날았다..SK이노,영업익3.7조'분기역대최대'",
   "이름·전화번호입력했더니상세주소까지조회…개인정보위,고객센터...",
-  "LG유플러스,‘뉴립스2026’서AI토큰최적화연구인정받아"
+  "LG유플러스,‘뉴립스2026’서AI토큰최적화연구인정받아",
+  "'인도최대IPO'지오플랫폼스,상장첫날21%폭등…시총176조원달해",
+  "충남대병원,결핵적정성평가99.2점…최우수1등급",
+  "스마트안경도패션을품다…호피무늬입고날렵해진AI글래스",
+  "마이리얼트립이용자개인정보유출…일부여권번호·만료일까지털렸...",
+  "이준희삼성SDS대표\"AI보안사업서글로벌프런티어AI기업들과협력...",
+  "인성디지탈,금융권맞춤형통합보안으로시장공략",
+  "신영증권,LG유플러스3분기영업익89%증가전망⋯\"데이터센터사업...",
+  "KT에스테이트,춘천도심에‘남춘천센트레빌’264가구공급",
+  "금융보안원\"금융권해킹,북한소행단정어려워\""
  ],
  "recent_sigs": [
   [
@@ -6641,7 +6641,7 @@
    "깜짝 SK온 적자 영업손실 다시 2분기 3분기 805억원 흑자"
   ]
  ],
- "last_run": "2026-10-29T14:58:33.104451+09:00",
+ "last_run": "2026-10-29T15:00:59.309141+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
