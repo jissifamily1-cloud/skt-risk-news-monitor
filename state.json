@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://imnews.imbc.com/news/2026/econo/article/6861372_36932.html",
-  "https://www.dailian.co.kr/news/view/1707513/?sc=Naver",
-  "https://www.busan.com/view/busan/view.php?code=2026102816313857681",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819494&plink=ORI&cooper=NAVER",
-  "https://www.ytn.co.kr/_ln/0102_202610281634197578",
-  "https://www.newsis.com/view/NISX20261028_0003845013",
-  "https://biz.heraldcorp.com/article/10917993",
   "https://it.chosun.com/news/articleView.html?idxno=2023092172978",
   "https://www.junggi.co.kr/news/articleView.html?idxno=38273",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88890",
@@ -2999,16 +2992,16 @@
   "https://www.widedaily.com/news/articleView.html?idxno=302438",
   "https://www.newsmap.co.kr/news/articleView.html?idxno=4583",
   "https://www.cbci.co.kr/news/articleView.html?idxno=620673",
-  "http://www.yonhapnewstv.co.kr/news/AKR202610291011394lP"
+  "http://www.yonhapnewstv.co.kr/news/AKR202610291011394lP",
+  "http://www.newstown.co.kr/news/articleView.html?idxno=720101",
+  "https://www.inthenews.co.kr/news/article.html?no=93689",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=747162",
+  "https://www.sedaily.com/article/20107583",
+  "https://www.cwn.kr/news/articleView.html?idxno=60416",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242531",
+  "https://www.edaily.co.kr/News/Read?newsId=03778566645617840&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[속보]방미통위,‘인앱결제’구글429억원·애플208억1000만원과징금",
-  "[속보]방미통위,'인앱결제'구글·애플에과징금637억원부과",
-  "애플·구글,인앱결제강제등위법행위…과징금637억원부과",
-  "[속보]방미통위,'인앱결제'구글429억원·애플208억1000만원과징...",
-  "[속보]방미통위,'인앱결제'구글429억원·애플208억1천만원과징...",
-  "방미통위\"구글·애플,특정결제방식강요\"...637억과징금",
-  "허문회전감독,5년만에수석코치로롯데복귀…박승민2군감독(종합...",
   "특구딥테크기업,LG와미래신사업발굴나선다",
   "시키지도않은일하는AI…카카오는어떻게통제할까",
   "AI투자외부자금의존커졌다…위험은어디에쌓이나",
@@ -6001,7 +5994,14 @@
   "\"스마트폰AI4.5배빨라진다\"…LG유플러스,세계3대학회뉴립스서기...",
   "우리은행·금융보안원,'우리콘'모의해킹경진대회시상식열어",
   "프라뱅해킹사고발생…핫월렛서비정상출금,피해액약1억원",
-  "코인거래소프라뱅,해킹으로1억피해…\"서비스잠정중단\""
+  "코인거래소프라뱅,해킹으로1억피해…\"서비스잠정중단\"",
+  "이스라엘총선개표율90%,네타냐후우파앞서나과반못미쳐",
+  "신한투자증권,올해주식·ETF배당받은고객143만명…2년전대비31%증...",
+  "[진단]해킹한번에실적이꺾인다…사이버공격이바꾼기업의생존...",
+  "신한證“올해배당수령143만명…국내삼전·해외엔비디아1위”",
+  "국내대부업체·제약사·병원까지해킹피해…다크웹서기업정보판매",
+  "가상자산거래소프라뱅,해킹피해약1억원…'서비스잠정중단'",
+  "‘모두의AI’어떻게확산할까…11월5일국회서AI전략논의"
  ],
  "recent_sigs": [
   [
@@ -6607,9 +6607,17 @@
   [
    "2026-10-29T10:12:14.756991+09:00",
    "264가구 춘천에 센트레빌 남춘천 KT에스테이트 공급 ~KT"
+  ],
+  [
+   "2026-10-29T10:16:15.477104+09:00",
+   "번에 생존 공격이 실적이 기업의 바꾼 사이버 꺾인다"
+  ],
+  [
+   "2026-10-29T10:16:15.477104+09:00",
+   "확산할까 국회서 전략 11월 어떻게 모두의 논의 5일"
   ]
  ],
- "last_run": "2026-10-29T10:14:33.426386+09:00",
+ "last_run": "2026-10-29T10:16:41.962357+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
