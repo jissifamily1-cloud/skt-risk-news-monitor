@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/427514",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1541957",
   "https://www.namdonews.com/news/articleView.html?idxno=927551",
   "https://www.tokenpost.kr/news/blockchain/427567",
   "https://www.bloter.net/news/articleView.html?idxno=677008",
@@ -2999,11 +2997,11 @@
   "http://www.newslock.co.kr/news/articleView.html?idxno=138849",
   "https://www.wikitree.co.kr/articles/1170177",
   "https://byline.network/?p=9004111222625284",
-  "https://www.edaily.co.kr/News/Read?newsId=04434566645617840&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=04434566645617840&mediaCodeNo=257",
+  "https://www.dailian.co.kr/news/view/1708001/?sc=Naver",
+  "https://www.insnews.co.kr/news/articleView.html?idxno=93584"
  ],
  "seen_titles": [
-  "앤스로픽,미국서IPO신청서공개제출보도",
-  "앤스로픽,구글클라우드에2033년까지최소1111억달러약정",
   "국민의힘\"북한IP발해킹시도…정부,총력대응해야\"",
   "[현장속으로]\"AI·반도체부터로봇까지\"…광융합신기술한자리에",
   "폴리곤,AI에이전트결제한도온체인서통제",
@@ -6001,7 +5999,9 @@
   "인천도시가스,데이터센터사업에120억투자...개발법인부채1210억",
   "‘크래시2’T.C.I6인완전체포스터공개…설계된살인암시한예고까...",
   "고객이름만입력해도주소노출…개인정보위,고객센터9개사개선권...",
-  "엔비디아61%vs테슬라5%…로봇용AI칩시장격차뚜렷"
+  "엔비디아61%vs테슬라5%…로봇용AI칩시장격차뚜렷",
+  "조희대대법원장개인정보국회에넘긴통신사…법적책임은",
+  "우리은행·금융보안원,모의해킹대회로금융보안인재발굴"
  ],
  "recent_sigs": [
   [
@@ -6719,9 +6719,13 @@
   [
    "2026-10-29T12:56:16.109600+09:00",
    "vs 테슬라 AI칩 로봇용 시장 격차 뚜렷"
+  ],
+  [
+   "2026-10-29T12:58:16.203075+09:00",
+   "국회에 조희대 넘긴 법적 대법원장 책임은 개인정보"
   ]
  ],
- "last_run": "2026-10-29T12:56:34.121051+09:00",
+ "last_run": "2026-10-29T12:58:37.336520+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
