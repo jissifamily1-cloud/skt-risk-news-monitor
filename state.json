@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1707603/?sc=Naver",
-  "https://www.dailian.co.kr/news/view/1708002/?sc=Naver",
-  "https://www.newsis.com/view/NISX20261029_0003846362",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3736278",
-  "https://kbench.com/?q=node%2F282882",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4441897",
   "https://view.asiae.co.kr/article/2026102910033981236",
   "https://www.dailysecu.com/news/articleView.html?idxno=209153",
@@ -2999,14 +2994,14 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711187",
   "http://kor.theasian.asia/archives/420326",
   "https://www.ddaily.co.kr/page/view/2026103008223774201",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=368535"
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=368535",
+  "https://www.nocutnews.co.kr/news/6599558",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=621032",
+  "https://www.hankyung.com/article/2026103050347",
+  "https://www.newspim.com/news/view/20261030000091",
+  "https://magazine.hankyung.com/business/article/202610293281b"
  ],
  "seen_titles": [
-  "청양군,11월까지모바일상품권결제시5%캐시백이벤트",
-  "靑안보실,빗썸·대신증권해킹에긴급점검…\"2차피해차단만전\"",
-  "[컨콜]SK온\"SK텔레콤과협업…AI데이터센터용다기능통합ESS개발\"",
-  "해킹사고에은행권보안조직도시험대…CISO권한·독립성충분할까",
-  "충남도의회,체육진흥사업효율화위해조례개정추진",
   "1000달러에나왔는데지금은2000달러…RTX5080가격미국서급등",
   "매그니피센트7동조화깨졌다…\"각자제갈길\"",
   "\"AI산업강국조건,에이전트·온톨로지\"[깐부회동1년④·끝]",
@@ -6001,7 +5996,12 @@
   "1년새10배폭증…비자,스테이블코인정산액250억달러돌파",
   "[오늘의신문]‘올공’투표지247만장반출...삼성전자반도체영업익...",
   "역대최대가상자산해킹?바이낸스수십억달러유출정황…스테이블코...",
-  "KT알파쇼핑,11월역대급혜택'쇼핑스타K-올스타11'프로모션"
+  "KT알파쇼핑,11월역대급혜택'쇼핑스타K-올스타11'프로모션",
+  "삼성'신의한수'언성히어로전진배치,KIA는박승규같은2번이없...",
+  "[AI기술동향]순다르피차이\"카본기반에이전트전환\"…검색광고성...",
+  "AI에천문학적돈쏟아부었는데…알파벳,하루새669조증발'패닉'",
+  "아시아증시'검은금요일'오나…알파벳이어아마존·인텔실적쇼크",
+  "\"해킹당하면얼마받을까\"…韓·日보상안따져보니"
  ],
  "recent_sigs": [
   [
@@ -6335,9 +6335,13 @@
   [
    "2026-10-30T08:26:15.500032+09:00",
    "쇼핑 혜택 11월 역대급 올스타 ~KT KT알파 쇼핑스타K 프로모션"
+  ],
+  [
+   "2026-10-30T08:28:14.465309+09:00",
+   "보상안 따져보니 얼마 해킹당하면 받을까"
   ]
  ],
- "last_run": "2026-10-30T08:26:36.150295+09:00",
+ "last_run": "2026-10-30T08:28:34.266730+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
