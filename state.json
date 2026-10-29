@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20261028500408",
-  "https://www.tokenpost.kr/news/economy/427245",
-  "https://www.edaily.co.kr/News/Read?newsId=02332086645616528&mediaCodeNo=257",
-  "https://news.dealsitetv.com/articles/177619",
-  "https://www.fnnews.com/news/202610281715037764",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800377.html",
   "https://platum.kr/archives/297246",
   "https://www.mk.co.kr/article/12188733",
   "https://www.dailian.co.kr/news/view/1707603/?sc=Naver",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/industry/2026/10/29/2026102911443021013",
   "https://kr.aving.net/news/articleView.html?idxno=1816381",
   "https://www.mk.co.kr/article/12189717",
-  "https://www.newsis.com/view/NISX20261029_0003846365"
+  "https://www.newsis.com/view/NISX20261029_0003846365",
+  "https://www.m-economynews.com/news/article.html?no=72276",
+  "https://www.techm.kr/news/articleView.html?idxno=156645",
+  "https://www.socialvalue.kr/news/view/1065581040742300",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1729669",
+  "https://www.edaily.co.kr/News/Read?newsId=04254166645617840&mediaCodeNo=257",
+  "https://www.techm.kr/news/articleView.html?idxno=156644"
  ],
  "seen_titles": [
-  "미대형은행,외부AI에이전트계좌접근제한한다",
-  "[보험뉴스브리핑]신한라이프'슈퍼SOL라이프스위칭저축보험'출시",
-  "[국제금융브리핑]27~28일FOMC금리동결전망...브렌트유주간6.6%급등",
-  "[미리보는이데일리신문]‘중복상장낙인’…대기업美자금조달비상",
-  "KB증권,SKT'모두의AI'합류…금융AI설계·검증협력",
-  "KB증권,SKT'모두의AI'컨소시엄합류",
   "LG전자,AI냉각'통합솔루션'확대…엔비디아와로봇데이터50만시...",
   "'토큰사용량은지표일뿐목표가아니다',아마존의개발자평가원칙",
   "대신證·미래에셋운용·빗썸…해킹사태금융권전체로확산",
@@ -6001,7 +5995,13 @@
   "[사진]'AI도입에필요한OT보안'",
   "AI에이전트까지품은윈도우노트북…엔비디아,RTX스파크생태계넓...",
   "6개월만에같은해킹또당한대교…65만명개인정보유출",
-  "오픈AI,美중간선거'워룸'가동…수백명참여해챗GPT악용감시"
+  "오픈AI,美중간선거'워룸'가동…수백명참여해챗GPT악용감시",
+  "AI가찾아낸소프트웨어결함수천건...글로벌IT업계보안대응비상",
+  "미리캔버스,챗GPT연동AI커넥터공개...대화로디자인초안만든다",
+  "[SV금융단신]NH농협은행,홍콩국경절행서서K-푸드홍보外",
+  "개보위,고객센터개인정보조회통제강화…이름·전화번호마스킹권...",
+  "KT보이스봇월120만건상담…AI도입후상담시간11%줄어",
+  "정진완우리은행장\"해킹막는힘은기본기\"...모의해킹으로취약점점..."
  ],
  "recent_sigs": [
   [
@@ -6835,9 +6835,13 @@
   [
    "2026-10-29T11:48:16.377620+09:00",
    "RTX 품은 노트북 에이전트까지 윈도우 스파크 생태계"
+  ],
+  [
+   "2026-10-29T11:50:24.131930+09:00",
+   "취약점 모의해킹으로 정진완 막는 우리은행장 힘은 기본기"
   ]
  ],
- "last_run": "2026-10-29T11:48:41.070220+09:00",
+ "last_run": "2026-10-29T11:50:41.799013+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
