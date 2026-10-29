@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12188609",
-  "https://www.hankyung.com/article/2026102772811",
-  "https://www.dongponews.net/news/articleView.html?idxno=61334",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2239199",
-  "https://www.tokenpost.kr/news/ai/426613",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=324026",
-  "https://www.etoday.co.kr/news/view/2641259",
-  "https://www.ceoscoredaily.com/page/view/2026102815283097207",
-  "https://www.sidae.com/article/2026102814574163086",
-  "https://www.goodkyung.com/news/articleView.html?idxno=292866",
   "https://www.tokenpost.kr/news/ai/426602",
   "https://www.tokenpost.kr/news/market/426589",
   "https://www.ajunews.com/view/20261028170849275",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2641644",
   "https://thetracker.co.kr/View.aspx?No=4288094",
   "https://www.edaily.co.kr/News/Read?newsId=04054086645617840&mediaCodeNo=257",
-  "https://www.theguru.co.kr/news/article.html?no=108964"
+  "https://www.theguru.co.kr/news/article.html?no=108964",
+  "https://www.seoul.co.kr/news/international/topic-global/2026/10/29/20261029500076?wlog_tag3=naver",
+  "https://www.etnews.com/20261029000192",
+  "https://www.newspim.com/news/view/20261029000501",
+  "https://biz.heraldcorp.com/article/10918794",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261029110444YX5",
+  "https://www.tjb.co.kr/news05/bodo/view/id/105445",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246923",
+  "https://www.dailian.co.kr/news/view/1707889/?sc=Naver",
+  "https://www.sisajournal.com/news/articleView.html?idxno=392117",
+  "https://www.kmib.co.kr/article/20261029500556"
  ],
  "seen_titles": [
-  "680억예고→방통위공백→637억확정…구글·애플제재3년만에결론[...",
-  "거의매일전분야서해킹사고,특단의대책필요하다[사설]",
-  "SK텔레콤,고객신뢰위원회운영…소외지역찾아IT교육",
-  "인도청년층,K-콘텐츠열기속으로…OTT이용자6억5000만시장",
-  "\"업무효율은최고인데\"…돈앞서멈칫한청주시AI업무비서",
-  "크레도,AI데이터센터용1.6T광케이블설계공개",
-  "IBK기업은행,서울시와'핀테크위크데모데이'성료",
-  "HBM4에범용D램까지'쌍끌이'…SK하이닉스,내년영업익400조도전[반...",
-  "[현장]우리은행,삼성월렛머니해외결제확대…마스터카드글로벌가...",
-  "중국서원화로충전,위안화로결제…삼성월렛세계로",
   "[증권이모저모]KB증권,SK텔레콤과'모두의AI'금융서비스맞손",
   "골드만삭스,중소기업1만곳에AI지원…5억달러투입",
   "엔비디아4.4%하락…반도체지수6.72%내리고코어위브10.1%밀려",
@@ -6001,7 +5991,17 @@
   "우리은행,대학생109명참여모의해킹경진대회⋯금융보안인재발굴",
   "[개인정보유출,그너머②]‘누가털렸느냐보다무엇이털렸나’…개...",
   "'현관앞오물투척'배민외주상담사사건에…개인정보위,9개사점검",
-  "엔비디아지원받는인니AI기업잔코어,GPU구매목적31억달러대출..."
+  "엔비디아지원받는인니AI기업잔코어,GPU구매목적31억달러대출...",
+  "“로봇개산책시키고시급2만7000원받으실분”…구인공고화제[월...",
+  "카카오,개인화AI에이전트용임베딩모델2종오픈소스공개",
+  "삼성금융네트웍스,'2026삼성금융C-LabOutside'최종발표회진행",
+  "[사설]삼전닉스초유의실적…‘초격차밸류체인’골든타임",
+  "美국토부직원4만명정보유출…\"비밀작전정보도공개\"",
+  "[T나는보안]'PHP'취약점타고보안방화벽으로침투…美정부기관서...",
+  "롯데손보전산오류902일미인지…'관리부실'논란",
+  "AI도'토성비'경쟁…SKT·KT·LGU+,토큰효율화로AX승부",
+  "잇단해킹에첫자산피해…코인거래소프라뱅,서비스중단",
+  "국민미래포럼참석한오세훈시장-최태원회장"
  ],
  "recent_sigs": [
   [
@@ -6751,9 +6751,13 @@
   [
    "2026-10-29T11:04:15.117771+09:00",
    "31억 GPU 지원 대출 받는 AI기업 구매 인니 잔코어 목적 달러"
+  ],
+  [
+   "2026-10-29T11:06:22.985881+09:00",
+   "참석한 시장 국민미래포럼 회장 오세훈"
   ]
  ],
- "last_run": "2026-10-29T11:04:44.264026+09:00",
+ "last_run": "2026-10-29T11:06:47.948332+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
