@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261028_0003845198",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=620481",
-  "https://www.tokenpost.kr/news/ai/428612",
-  "https://www.newspim.com/news/view/20261028001625",
-  "https://news.cpbc.co.kr/article/1176668?division=NAVER",
-  "https://www.tokenpost.kr/news/market/428592",
-  "http://coinreaders.com/265852",
   "http://www.econonews.co.kr/news/articleView.html?idxno=446372",
   "https://www.newsian.co.kr/news/articleView.html?idxno=100087",
   "https://www.thelec.kr/news/articleView.html?idxno=64386",
@@ -2999,16 +2992,16 @@
   "https://www.korea.kr/news/reporterView.do?newsId=148974499&call_from=naver_news",
   "https://www.hankyung.com/article/2026102944201",
   "https://www.aitimes.com/news/articleView.html?idxno=216779",
-  "https://www.kukinews.com/article/view/kuk202610290215"
+  "https://www.kukinews.com/article/view/kuk202610290215",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716722",
+  "https://www.ddaily.co.kr/page/view/2026102917432585301",
+  "http://www.srtimes.kr/news/articleView.html?idxno=216247",
+  "https://www.mk.co.kr/article/12190223",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450705",
+  "https://news.tf.co.kr/read/economy/2382704.htm",
+  "https://www.hani.co.kr/arti/society/media/1284864.html"
  ],
  "seen_titles": [
-  "현대차브랜드가치250억달러⋯글로벌29위·자동차브랜드4위",
-  "'메타의375억달러승부수'…AI천문학적투자부담에시장시선갈려",
-  "[속보]미국반도체주동반상승…SK하이닉스ADR9%대급등,마이크론·...",
-  "앤트로픽,컴퓨팅비용1달러당매출2.08달러…순손실88조원",
-  "[AIMY뉴스]뉴욕반도체주프리뷰...SK하이닉스호실적에美반도체주...",
-  "[시사천국]3분기경제성장률'깜짝증가'…민간소비는마이너스기록?",
-  "ASMPT주문137.9%증가…SK하이닉스이익률80%",
   "비트코인(BTC),지금이매수적기?...\"2023년3만달러당시데칼코마니...",
   "LS일렉트릭,'빅스포2026'참가…AI데이터센터·전력계통안정화등공...",
   "엔비디아매디슨황,'또방한'…K-제조'피지컬AI'동맹에거는기대",
@@ -6001,13 +5994,16 @@
   "김밥의단짝은과연라면일까요…편의점에서도영양챙길수있다면?",
   "반도체로만106조원벌어…\"삼성전자내년HBM1위\"",
   "엔비디아,40개언어지원하는음성인식AI공개…오픈모델최고정확...",
-  "빗썸해킹,고객정보도샜다"
+  "빗썸해킹,고객정보도샜다",
+  "[무안군소식]'2026년재난대응안전한국훈련'등",
+  "\"오픈소스로\"…카카오,'대화맥락'찾는AI검색모델2종공개",
+  "아테코,코스닥기술특례상장추진…한국거래소에예비심사신청",
+  "\"중간선거후강세장…美주식늘려라\"",
+  "빗썸침해사고로고객개인정보유출확인,'사택지원금사적유용'압수...",
+  "최태원SK그룹회장,다음달5일서울대경제학특강",
+  "[단독]빅테크피해자신상유출못막는한국…국회·정부법개정나선..."
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T11:54:14.832787+09:00",
-   "권한 독립성 시험대 CISO 은행권 충분할까 사고에 보안조직도"
-  ],
   [
    "2026-10-29T12:02:17.539195+09:00",
    "랜드 고객은 부사장 월드런 잠재고객 소버린 모든 오픈AI도"
@@ -6595,9 +6591,13 @@
   [
    "2026-10-29T17:52:15.207921+09:00",
    "오픈 언어 모델 지원하는 40개 음성 최고 정확 공개 인식"
+  ],
+  [
+   "2026-10-29T17:54:18.648139+09:00",
+   "막는 신상 한국 피해자 빅테크 국회 개정 정부 나선 유출"
   ]
  ],
- "last_run": "2026-10-29T17:52:39.945847+09:00",
+ "last_run": "2026-10-29T17:54:40.635301+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
