@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261019000060",
-  "https://www.news1.kr/industry/general-industry/6323424",
-  "https://www.segye.com/newsView/20261018512731?OutUrl=naver",
   "https://www.news1.kr/finance/general-finance/6335372",
   "https://www.g-enews.com/view.php?ud=2026102814414285610c8c1c064d_1",
   "https://www.news1.kr/diplomacy/defense-diplomacy/6335248",
@@ -2999,12 +2996,12 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557516",
   "https://www.ajunews.com/view/20261029195825186",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=877904",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290172&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610290172&t=NN",
+  "https://www.newscj.com/news/articleView.html?idxno=3444329",
+  "https://www.edaily.co.kr/News/Read?newsId=06963446645617840&mediaCodeNo=257",
+  "https://it.donga.com/109801/"
  ],
  "seen_titles": [
-  "[아이!써치]①챗GPT61%·제미나이59%'접전'⋯46%\"이젠검색엔진덜...",
-  "[AIMY뉴스]19일중국증시'3QGDP등발표...내수회복·AI성장성시...",
-  "\"광고만으론한계\"…광고업계,AI활용하고영화·엔터·IP결합",
   "[설왕설래]저작권과‘파나마프로젝트’",
   "\"보안은비용아닌생존\"…금융권,사후대응넘어'선제방어'시급",
   "\"레트로의대반격\"…후지필름,AI發수요에'자기테이프'생산5배로...",
@@ -6001,7 +5998,10 @@
   "빗썸해킹에고객6444명정보유출…844명은주민번호도털렸다",
   "토카예프,142억달러들여'전국대건설'선언…최저임금29%인상도",
   "진에어도해킹당했다...고객정보유출",
-  "전기차안팔려난리인데...SK와달리삼성은웃은까닭"
+  "전기차안팔려난리인데...SK와달리삼성은웃은까닭",
+  "LH,사이버보안긴급점검…AI기반보안체계강화추진",
+  "엔비디아,RTX스파크에AI모델·게임지원확대",
+  "\"피지컬AI시대,신성장동력확보방안을논하다\"경상북도미래전략..."
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-10-29T20:02:16.996773+09:00",
    "인상도 선언 최저임금 142억 전국 대건설 들여 달러 토카예프"
+  ],
+  [
+   "2026-10-29T20:10:25.362970+09:00",
+   "시대 논하다 신성장동력 방안을 미래전략 경상북도 확보 피지컬"
   ]
  ],
- "last_run": "2026-10-29T20:08:33.345962+09:00",
+ "last_run": "2026-10-29T20:10:49.424619+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
