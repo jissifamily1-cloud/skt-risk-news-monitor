@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.delighti.co.kr/news/articleView.html?idxno=124048",
-  "https://www.m-i.kr/news/articleView.html?idxno=2011557",
-  "https://www.tokenpost.kr/news/ai/426949",
-  "https://www.tokenpost.kr/news/cryptocurrency/426982",
-  "https://www.newsis.com/view/NISX20261028_0003845109",
-  "https://www.tokenpost.kr/news/breaking/426966",
   "https://www.hankyung.com/article/2026102813811",
   "https://www.tvreport.co.kr/broadcast/article/1086618/",
   "https://www.gukjenews.com/news/articleView.html?idxno=3735633",
@@ -2999,15 +2993,15 @@
   "https://www.joongang.co.kr/article/25473978",
   "https://www.newspim.com/news/view/20261029000609",
   "https://news.mtn.co.kr/article/2026102910242240551",
-  "https://www.fnnews.com/news/202610291116001204"
+  "https://www.fnnews.com/news/202610291116001204",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3736214",
+  "https://zdnet.co.kr/view/?no=20261028172734",
+  "https://biz.heraldcorp.com/article/10918899",
+  "https://www.gokorea.kr/news/articleView.html?idxno=883241",
+  "https://www.edaily.co.kr/News/Read?newsId=03578486645617512&mediaCodeNo=257",
+  "https://www.gokorea.kr/news/articleView.html?idxno=883248"
  ],
  "seen_titles": [
-  "구글,인앱결제강제과징금429억원에유감…\"법준수노력반영안돼...",
-  "방미통위,구글·애플에과징금637억원…인앱결제강제금지법첫제재",
-  "구글·애플,인앱결제강제첫제재…과징금637억원",
-  "테라울프,회전신용한도4억달러로60%늘렸다",
-  "비트겟,해킹피해3억8800만달러전액보전…외부보안제품취약점지...",
-  "\"AI가짜이력서에양자암호까지\"…北라자루스해킹수법의진화",
   "비트겟해킹연관지갑,52건거래로1948만달러이동",
   "LGU+,AI센터액체냉각표준만든다",
   "영안오르네…4주연속'2%대'시청률→달콤씁쓸멜로로반등노리는韓...",
@@ -6001,7 +5995,13 @@
   "국립부경대등록금수납시스템해킹,5108명개인정보유출",
   "대신증권고객3만8000명정보유출…증권가로해킹번져",
   "[단독]시총1조2500억증발한케이뱅크…'KT그늘'서최우형후임물색",
-  "통일부\"대남확성기추가동향없어\"..北IP금융해킹정보미확인"
+  "통일부\"대남확성기추가동향없어\"..北IP금융해킹정보미확인",
+  "[조간신문뉴스라인]대전∙충남∙세종29일(목)",
+  "\"AI가과학계숙제해결?\"…오픈AI성과검증에노벨상수상자도나선다",
+  "‘올공투표함’148일만에선관위로…부정선거시위사그라드나",
+  "대교·영훈의료재단개인정보유출과징금38억원",
+  "[속보]빗썸\"사내모바일시스템해킹…개인정보유출\"",
+  "美국토안보부해킹으로직원4만명정보유출"
  ],
  "recent_sigs": [
   [
@@ -6791,9 +6791,13 @@
   [
    "2026-10-29T11:24:15.090419+09:00",
    "정보 대남확성기 IP 통일부 미확인 추가 금융해킹 동향 없어"
+  ],
+  [
+   "2026-10-29T11:26:15.941004+09:00",
+   "해킹으로 4만명 정보유출 국토안보부 직원"
   ]
  ],
- "last_run": "2026-10-29T11:24:36.847490+09:00",
+ "last_run": "2026-10-29T11:26:34.219382+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
