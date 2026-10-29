@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100138",
-  "https://zdnet.co.kr/view/?no=20261029120108",
-  "https://www.hankookilbo.com/news/article/A2026102910030000224?did=NA",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209155",
-  "https://www.inthenews.co.kr/news/article.html?no=93714",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=138442",
-  "http://coinreaders.com/265997",
-  "https://www.newsis.com/view/NISX20261029_0003846099",
-  "https://www.newspim.com/news/view/20261029000724",
-  "http://www.press9.kr/news/articleView.html?idxno=85188",
-  "https://bizhankook.com/articles/building-brand-identity-lmnt.html",
   "https://www.newsis.com/view/NISX20261029_0003846147",
   "http://www.wsobi.com/news/articleView.html?idxno=320612",
   "https://news.tf.co.kr/read/economy/2382392.htm",
@@ -2999,20 +2988,20 @@
   "https://www.dailian.co.kr/news/view/1707910/?sc=Naver",
   "https://news.jtbc.co.kr/article/NB12325563?influxDiv=NAVER",
   "https://www.etoday.co.kr/news/view/2642053",
-  "https://www.etnews.com/20261030000009"
+  "https://www.etnews.com/20261030000009",
+  "https://www.ddaily.co.kr/page/view/2026102911510595656",
+  "https://www.sidae.com/article/2026103008294939221",
+  "https://www.g-enews.com/view.php?ud=20261030082906814139bf6e4b2_1",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=268561",
+  "https://www.joongangenews.com/news/articleView.html?idxno=559787",
+  "http://www.newsprime.co.kr/news/article.html?no=753025",
+  "https://www.yna.co.kr/view/AKR20261030029600009?input=1195m",
+  "https://www.eroun.net/news/articleView.html?idxno=93825",
+  "https://www.fnnews.com/news/202610300835408920",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711198",
+  "https://www.fnnews.com/news/202610300810110997"
  ],
  "seen_titles": [
-  "특부가협회,방미통위에카카오신고…\"알림톡차단무력화\"",
-  "'HBM3년치완판'SK하이닉스,'메모리피크아웃'일축한'근자감'",
-  "한컴36년숙제'해외공략'…김연수대표\"환경이바뀌었다\"",
-  "피지컬AI접목‘지능형로봇솔루션’제공",
-  "인성디지탈,맞춤형통합보안으로금융권보안시장공략속도",
-  "[20263분기실적]삼성SDS,영업이익2410억원…전년比3.7%↑",
-  "KT,AI가고객말알아듣고장애까지해결…상담완결률81%로향상",
-  "구글,AI·양자해킹공포대응책공개...\"개인키조각내금고지킨다\"",
-  "中화웨이뉴욕재판“절도아닌연구개발로혁신”변론",
-  "북방실용외교로대미협상력키운김정은의선택은...",
-  "신한투자증권,배당수령고객140만명…삼성전자·엔비디아1위",
   "[BbCONF]\"신뢰가쌓여야브랜드\"최장순LMNT대표가강조한'자기다움...",
   "美법무,엔비디아-허깅페이스인수도조사…\"AI유통망장악여부\"",
   "삼성전자·삼성SDS,3분기영업이익107.4조달성·물류분기매출첫2조...",
@@ -6001,7 +5990,18 @@
   "데이터활용과프라이버시균형모색…11월1일연세대서토론회",
   "'젠슨황'노린중국스파이…백악관은알고도조치안해[소셜픽]",
   "[전일주요공시]삼성전자ㆍ현대차ㆍSK이노베이션ㆍ삼성E&A등",
-  "이해진“사업이지분보다우선”…엔비디아,네이버4.54%주주로"
+  "이해진“사업이지분보다우선”…엔비디아,네이버4.54%주주로",
+  "상담사가고객정보무단조회?…개인정보위,사전실태점검실시",
+  "'벼랑끝'KIA,선발은네일…페덱과리턴매치",
+  "삼성전자,40만원대스마트폰'갤럭시A18LTE'출시",
+  "삼성전자,실속형스마트폰'갤럭시A18LTE'국내출시",
+  "삼성전자,AI품은40만원대'갤럭시A18LTE'출시…가성비스마트폰공...",
+  "[해외시황]뉴욕증시,알파벳실적충격·AI투자우려에'하락'…나스닥...",
+  "美군기지냉동고동시고장…사이버공격가능성수사",
+  "SKT,AI·드론활용해안동산불피해지역산림복원",
+  "엔비디아,네이버3대주주로…10억弗투자내달납입",
+  "바이낸스서7.5조원증발?역대급해킹의혹에테더·서클긴급동결",
+  "구글,해킹구멍찾고수정하는AI'카본'으로AI보안시장공략나서나[..."
  ],
  "recent_sigs": [
   [
@@ -6363,9 +6363,13 @@
   [
    "2026-10-30T08:38:14.609794+09:00",
    "네이버 사업이 이해진 우선 주주로 지분보다"
+  ],
+  [
+   "2026-10-30T08:40:26.428919+09:00",
+   "카본 구멍 구글 찾고 공략 AI보안시장 수정하는 나서나"
   ]
  ],
- "last_run": "2026-10-30T08:38:38.563731+09:00",
+ "last_run": "2026-10-30T08:40:47.360250+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
