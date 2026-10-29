@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261028000048",
-  "https://www.etnews.com/20261028000042",
-  "https://www.etnews.com/20261028000028",
-  "https://www.etnews.com/20261028000045",
-  "https://www.smartbizn.com/news/articleView.html?idxno=157817",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5227652",
-  "https://news.tf.co.kr/read/economy/2382058.htm",
-  "https://imnews.imbc.com/replay/2026/nw1700/article/6861375_36981.html",
-  "https://www.asiatime.co.kr/article/20261026500445",
   "http://www.newswatch.kr/news/articleView.html?idxno=81698",
   "https://www.m-i.kr/news/articleView.html?idxno=2011555",
   "https://www.m-i.kr/news/articleView.html?idxno=2011549",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/News/Read?newsId=03913046645617840&mediaCodeNo=257",
   "https://www.newstree.kr/newsView/ntr202610290006",
   "https://imnews.imbc.com/news/2026/econo/article/6861590_36932.html",
-  "https://www.jbnews.com/news/articleView.html?idxno=1514659"
+  "https://www.jbnews.com/news/articleView.html?idxno=1514659",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260299",
+  "http://www.inews24.com/view/2020257",
+  "https://www.etoday.co.kr/news/view/2641619",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=268403",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7797",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7191232",
+  "https://www.newspim.com/news/view/20261028000132",
+  "http://www.popcornnews.net/news/articleView.html?idxno=137860",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246964"
  ],
  "seen_titles": [
-  "구본환대전시의원\"금고동매립장활용,시설유치보다안전검증먼저...",
-  "[데이터뉴스]AI보호시장,2년만에2.7배…2028년77억달러",
-  "[2026K-오픈소스AX]쿤텍“오픈소스,반입·관리체계갖춰야”",
-  "[2026K-오픈소스AX]AI시대오픈소스,보안거버넌스와데이터플랫폼...",
-  "[2026K-오픈소스AX]데브스택“AI시대제로데이위협,멀티에이전트...",
-  "삼전·SK하닉'불기둥'···코스피,6%대급등하며6000선탈환",
-  "'올공'개표소들어간특검…247만투표지이상여부가린다[짤e몽땅]",
-  "금융권겨냥북한IP대규모접근시도포착…금융보안원'주의보'",
-  "'촬영여부'진통에3시간지연‥247만장검증",
   "보험사도뚫렸다…미래에셋생명해킹사고로고객정보유출",
   "LS세살배기'145억금수저'...효성열네살'133억주식부자'탄생",
   "초고속인터넷11년·IPTV10년…KT,한국품질만족지수3개부문1위",
@@ -6001,7 +5992,16 @@
   "코인거래소프라뱅,핫월렛해킹1억원피해…“서비스잠정중단”",
   "PHP취약점해킹으로글로벌서버25대장악…한국도표적?",
   "가상자산거래소'프라뱅'서해킹으로'1억원'피해발생‥\"서비스중단...",
-  "조승래의원,우주항공·로봇·방위산업·조선국가전략기술추가조특..."
+  "조승래의원,우주항공·로봇·방위산업·조선국가전략기술추가조특...",
+  "[기자수첩]AI가인류를구해도···주주에게남는이익은없다",
+  "LGU+,구룡마을화재이재민에충전·와이파이지원",
+  "BNK'태윤'김태윤\"징동전이제일힘들었다\"⋯DCGI우승비화",
+  "삼성SDS,3Q영업익2410억...전년比3.7%증가",
+  "삼성SDS,3분기영업익2410억원3.7%↑…클라우드·물류성장에매출은...",
+  "신한투자증권\"배당고객143만명…2년새31%늘어\"",
+  "[AIMY뉴스]28일중국증시'美AI·반도체주반등에도中기술주불안...",
+  "토큰효율화나선통신3사…SKT는'일하는방식'까지바꾼다",
+  "가상자산거래소프라뱅해킹으로'1억원피해'"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-10-29T10:44:16.025646+09:00",
    "국가전략기술 조선 방위산업 우주항공 의원 추가 로봇 조특 조승래"
+  ],
+  [
+   "2026-10-29T10:46:14.846153+09:00",
+   "효율화 통신3사 토큰 까지 ~SKT 나선 SKT는 바꾼다"
   ]
  ],
- "last_run": "2026-10-29T10:44:34.446251+09:00",
+ "last_run": "2026-10-29T10:46:34.982343+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
