@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12091915",
-  "https://www.tokenpost.kr/news/tech/428290",
-  "https://www.tokenpost.kr/news/market/428321",
-  "https://www.tokenpost.kr/news/breaking/428337",
-  "https://www.tokenpost.kr/news/policy/428326",
-  "http://www.newskr.kr/news/articleView.html?idxno=107531",
-  "https://www.tokenpost.kr/news/breaking/428318",
   "https://www.tokenpost.kr/news/ai/428373",
   "https://www.tokenpost.kr/news/cryptocurrency/428354",
   "https://www.tokenpost.kr/news/breaking/428346",
@@ -2999,16 +2992,16 @@
   "http://www.iminju.net/news/articleView.html?idxno=171629",
   "https://www.it-b.co.kr/news/articleView.html?idxno=90472",
   "https://www.job-post.co.kr/news/articleView.html?idxno=235271",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=241340"
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=241340",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3736415",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=241342",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=314178",
+  "https://www.ajunews.com/view/20261029133353388",
+  "https://view.asiae.co.kr/article/2026102913311497984",
+  "https://www.nocutnews.co.kr/news/6599143",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283487485714"
  ],
  "seen_titles": [
-  "증권·코인마저뚫린금융권,해킹‘안전지대’실종",
-  "[사설]은행·증권·보험,해킹에‘속수무책’금융권…국민은불안하...",
-  "엔비디아,CUDA13.4에작업별GPU메모리제한추가",
-  "그로우,미국주식1만종목거래…제로다는베타시험",
-  "미연방선관위선거자금전자신고시스템중단",
-  "백악관,민간업체사이버작전승인제…지안카를로“적절”",
-  "코스피6000선대폭발…삼전닉스급등에매수사이드카",
   "디아만테,해킹공격확인하고전액보상약속",
   "AMD,메타공모주식10억달러매입계획발표",
   "비트코인'제로'전망반박…양자컴퓨터위협·ETF이탈론따져보니",
@@ -6001,7 +5994,14 @@
   "[금융계동향]하나금융그룹·삼성금융네트웍스·신한투자증권",
   "LG유플러스,구룡마을화재이재민에통신서비스지원",
   "LG유플러스,구룡마을화재이재민긴급지원…무료와이파이·충전시설...",
-  "우리은행·금융보안원,모의해킹경진대회개최…109명참가"
+  "우리은행·금융보안원,모의해킹경진대회개최…109명참가",
+  "공주밤,미국서인기…20톤추가수출결정",
+  "삼성금융,스타트업395곳몰렸다…AI·위성기술등4곳선정",
+  "얼굴결제,일상으로자리잡을까",
+  "기술·비밀작전까지털렸다…美국토안보부4만명신상유출",
+  "SK텔레콤·쿠팡개인정보소송·분쟁조정,어떻게진행되고있나",
+  "[단독]신한은행해킹피해자29명소송전돌입…추가손배소예고",
+  "AI기술발전으로낮아진해킹문턱,다층적범죄비상한대응책마련서..."
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,21 @@
   [
    "2026-10-29T14:02:16.697977+09:00",
    "해킹까지 증시 대응 점검한다 싱크홀에 복합재난 전산마비 가정"
+  ],
+  [
+   "2026-10-29T14:12:15.226839+09:00",
+   "어떻게 있나 진행되고 개인정보 ~SKT 분쟁조정 소송 쿠팡"
+  ],
+  [
+   "2026-10-29T14:12:15.226839+09:00",
+   "돌입 29명 추가 예고 손배소 피해자 신한은행 소송전"
+  ],
+  [
+   "2026-10-29T14:12:15.226839+09:00",
+   "낮아진 발전으로 마련 문턱 다층적 범죄 기술 비상한 대응책"
   ]
  ],
- "last_run": "2026-10-29T14:10:40.187320+09:00",
+ "last_run": "2026-10-29T14:12:44.056857+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
