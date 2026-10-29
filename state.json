@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/426730",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242517",
-  "https://www.ziksir.com/news/articleView.html?idxno=151153",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105416",
-  "https://www.tokenpost.kr/news/breaking/426716",
-  "https://www.tokenpost.kr/news/ai/426717",
-  "https://www.tokenpost.kr/news/ai/426726",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261028172257jMj",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735624",
-  "https://www.jemin.com/news/articleView.html?idxno=845601",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242519",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=361423",
   "https://www.nocutnews.co.kr/news/6598719",
   "https://www.etnews.com/20261027000272",
@@ -2999,20 +2988,20 @@
   "https://www.mstoday.co.kr/news/articleView.html?idxno=200308",
   "https://www.edaily.co.kr/News/Read?newsId=04096726645617840&mediaCodeNo=257",
   "https://www.businessplus.kr/news/articleView.html?idxno=118922",
-  "https://view.asiae.co.kr/article/2026102909233135024"
+  "https://view.asiae.co.kr/article/2026102909233135024",
+  "https://www.nocutnews.co.kr/news/6599051",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3735780",
+  "https://www.kpinews.kr/newsView/1065578469258562",
+  "https://news.mtn.co.kr/article/2026102911122381228",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499648",
+  "https://www.mt.co.kr/world/2026/10/29/2026102910514623934",
+  "https://www.tokenpost.kr/news/ai/426671",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227786",
+  "https://www.kdpress.co.kr/news/articleView.html?idxno=209589",
+  "http://www.newskr.kr/news/articleView.html?idxno=107551",
+  "https://www.joongang.co.kr/article/25473973"
  ],
  "seen_titles": [
-  "[기자수첩]해킹은전방위인데,1년전정부약속어디로",
-  "텍사스주,챗GPT안전성문제로오픈AI·올트먼제소",
-  "빗썸·미래에셋운용·대신증권잇단해킹에…금융권보안비상",
-  "금융당국,금융권해킹집중점검…북한IP접근440만건포착",
-  "[T나는보안]금융권해킹서北IP440만건접근포착…증권사·가상자산...",
-  "OpenAI,DNS오류로모델외부망접속…훈련11일중단",
-  "엔비디아,텐서RT11.1에추론엔진경로자동탐색도입",
-  "앤스로픽직원91%,AI노벨상급발견가능성예상",
-  "[퇴근길머니]끝나지않은'해킹사태'…토스뱅크,주담대시장진출",
-  "김해시,시내버스노선체계개편...15분이내배차·운행횟수확대추진",
-  "[제민포럼]내통장과유심이범죄의무기가될때",
   "[컨콜]LG전자,전장'캐시카우'로키웠다…AIDC·로봇다음성장축으로",
   "자동차브랜드가치하락속현대차는상승…17년연속성장",
   "LG전자3분기누적영업익4조원돌파…B2B·구독모두성장",
@@ -6001,7 +5990,18 @@
   "美,엔비디아18조원인수조사…AI독점우려",
   "앤스로픽관련데이터센터채권발행차질…은행대출부담↑",
   "금융권해킹전방위확산…20곳침해·보안관리허점노출",
-  "[Why&Next]구글·애플,637억대과징금…솜방망이처벌논란"
+  "[Why&Next]구글·애플,637억대과징금…솜방망이처벌논란",
+  "LGU+,AI토큰최적화기술…세계최고권위학회서인정",
+  "충남도,11월호'월간충남'발간…아산·서산·논산늦가을여행지소개",
+  "쿠팡,대만사업에1.1조원규모추가투자…현지정부증자승인",
+  "카카오,개인화AI에이전트기반기술'카나나2임베딩'모델2종오픈...",
+  "[마켓포인트]삼성SDS,3분기영업익2410억원…전년대비3.7%증가",
+  "\"그돈어디서나오나…AI기업부채내년부터만기\"수익성시험대",
+  "AI에이전트클라우드데이토나,6000만달러유치",
+  "정청래이어현직국방위원장도美비자거부…한미동맹에무슨일이[...",
+  "블렌드엑스\"엔비디아'엔업'선정\",삼일PwCAX프로그램선발...엑시콘...",
+  "우리은행,제6회모의해킹경진대회시상식성료",
+  "외동딸1년도안돼관뒀다…‘세라젬’양자입양,윈윈인까닭"
  ],
  "recent_sigs": [
   [
@@ -6767,9 +6767,13 @@
   [
    "2026-10-29T11:12:14.601473+09:00",
    "권고 정보만 필수 조회 고객센터에 고객"
+  ],
+  [
+   "2026-10-29T11:16:16.455516+09:00",
+   "입양 안돼 까닭 윈윈인 양자 1년도 외동딸 세라젬 관뒀다"
   ]
  ],
- "last_run": "2026-10-29T11:14:36.398856+09:00",
+ "last_run": "2026-10-29T11:16:35.291577+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
