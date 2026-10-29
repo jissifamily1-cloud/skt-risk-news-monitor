@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.sisacast.kr/news/articleView.html?idxno=101430",
-  "https://it.donga.com/109796/",
-  "https://www.dt.co.kr/article/12092061",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=93995",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=138849",
-  "https://www.wikitree.co.kr/articles/1170177",
-  "https://byline.network/?p=9004111222625284",
-  "https://www.edaily.co.kr/News/Read?newsId=04434566645617840&mediaCodeNo=257",
-  "https://www.dailian.co.kr/news/view/1708001/?sc=Naver",
-  "https://www.insnews.co.kr/news/articleView.html?idxno=93584",
-  "https://platum.kr/archives/297338",
   "https://www.the-today.com/news/articleView.html?idxno=92630",
   "https://daily.hankooki.com/news/articleView.html?idxno=1419688",
   "https://www.gukjenews.com/news/articleView.html?idxno=3736281",
@@ -2999,20 +2988,20 @@
   "https://www.viva100.com/article/20261030500057",
   "https://www.ytn.co.kr/_ln/0104_202610300842468922",
   "https://www.g-enews.com/view.php?ud=202610300840087727906806b77b_1",
-  "https://www.etnews.com/20261030000011"
+  "https://www.etnews.com/20261030000011",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005949826",
+  "https://www.maxmovie.com/news/articleView.html?idxno=502661",
+  "https://www.greened.kr/news/articleView.html?idxno=353457",
+  "https://www.newsis.com/view/NISX20261030_0003847643",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=621041",
+  "http://www.nongaek.com/news/articleView.html?idxno=97308",
+  "https://www.newsis.com/view/NISX20261030_0003847675",
+  "https://view.asiae.co.kr/article/2026103008460782249",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=54112",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711197",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699567"
  ],
  "seen_titles": [
-  "이대형이짚은롯데외야진교통정리…\"FA?황성빈,잠재력절반도안터...",
-  "LG유플러스,구룡마을화재이재민에긴급구호물품·통신서비스지원",
-  "“분산된모니터링,데이터독하나로통합…운영복잡성줄였다”오주...",
-  "민주,투표지이송밤새막은국힘에“억지도이런억지가없어”",
-  "우리은행,모의해킹경진대회'우리콘'시상-정진완행장\"보안의기본...",
-  "인천도시가스,데이터센터사업에120억투자...개발법인부채1210억",
-  "‘크래시2’T.C.I6인완전체포스터공개…설계된살인암시한예고까...",
-  "고객이름만입력해도주소노출…개인정보위,고객센터9개사개선권...",
-  "엔비디아61%vs테슬라5%…로봇용AI칩시장격차뚜렷",
-  "조희대대법원장개인정보국회에넘긴통신사…법적책임은",
-  "우리은행·금융보안원,모의해킹대회로금융보안인재발굴",
   "인터넷끊긴사내망에서AI가개발까지,오픈랩스'누비다'설치형론칭",
   "우리은행·금융보안원,모의해킹경진대회'우리콘'시상식개최",
   "SK온,전기차배터리라인ESS로전환…북미추가수주추진",
@@ -6001,7 +5990,18 @@
   "인천TP콘텐츠산업,AI·플랫폼·투자연결한다…‘ICNX2026’송도서...",
   "\"스마트폰다음은안경\"...혁신경쟁속짙어지는그늘",
   "[김대호인물]엔비디아젠슨황\"중국여자스파이\"",
-  "젠슨황과긴밀한관계…“곁에있던그녀,엔비디아정보노린中스파..."
+  "젠슨황과긴밀한관계…“곁에있던그녀,엔비디아정보노린中스파...",
+  "SKT,사번받은AI에이전트'효율'높인다…'잘쓰는AI'로전환",
+  "배우디지털초상AI광고플랫폼열린다",
+  "모델료공개·승인·정산한곳에서…'배우디지털초상'광고시장열린...",
+  "11번가,AI쇼호스트공개…그랜드십일절라이브커머스차별화",
+  "[SK하이닉스]60조원추가주주환원책발표…SK하이닉스,역대급호실적...",
+  "[오늘의사설]\"대통령,다문화·이주노동자발언신중하고절제돼야\"",
+  "AI로분석하고드론으로씨앗뿌리고…SKT,안동산불피해지복원",
+  "머큐리,KT와이파이7공급확대…계약규모142억으로늘어",
+  "엔비디아6일1조4천억입금…네이버3대주주된다",
+  "엔비디아,내달6일네이버에10억달러납입…3대주주오른다",
+  "미군기지냉장고동시고장‘해킹의혹’…프랑스수사팀과협력"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-10-30T08:44:15.467499+09:00",
    "수상한 여성의 젠슨 술자리부터 비즈니스 따라다닌 만찬까지"
+  ],
+  [
+   "2026-10-30T08:48:15.263517+09:00",
+   "미군 의혹 고장 프랑스 기지 협력 동시 수사팀과 냉장고"
   ]
  ],
- "last_run": "2026-10-30T08:46:30.658100+09:00",
+ "last_run": "2026-10-30T08:48:40.581583+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
