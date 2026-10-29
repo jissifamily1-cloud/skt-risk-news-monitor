@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261028155804",
-  "https://zdnet.co.kr/view/?no=20261028152649",
-  "https://www.dailian.co.kr/news/view/1707019/?sc=Naver",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499413",
-  "https://mhnse.com/news/articleView.html?idxno=1635589",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735572",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735573",
-  "https://www.aitimes.com/news/articleView.html?idxno=216623",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2239171",
   "https://www.dailian.co.kr/news/view/1707535/?sc=Naver",
   "https://biz.sbs.co.kr/article_hub/20000342749?division=NAVER",
   "https://www.ytn.co.kr/_ln/0104_202610281645355687",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/News/Read?newsId=03794966645617840&mediaCodeNo=257",
   "https://www.ajunews.com/view/20261029093745490",
   "https://www.newsis.com/view/NISX20261029_0003846104",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610291006471090695"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610291006471090695",
+  "http://www.paxetv.com/news/articleView.html?idxno=285470",
+  "https://www.m-i.kr/news/articleView.html?idxno=2011535",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499599",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16261664",
+  "https://www.newspim.com/news/view/20261029000426",
+  "http://www.wsobi.com/news/articleView.html?idxno=320601",
+  "https://www.insight.co.kr/news/579673",
+  "https://www.joongangenews.com/news/articleView.html?idxno=559402",
+  "https://www.fnnews.com/news/202610291017501197"
  ],
  "seen_titles": [
-  "구글·애플인앱결제강제에과징금637억원...정부,의결지연사과",
-  "공급과잉→쇼티지…SKC,'전지박'판가인상지속전망",
-  "\"가명정보제도시행6년...의료·금융·교통등서다양한분야서성과\"",
-  "‘SK텔레콤동행이만든결실’이승민·김선영,일본장애인오픈정상",
-  "[코스피지수선물옵션]삼성전자·SK하이닉스급등…개별주식선물반...",
-  "[오피셜]그냥잘린게아니라갈등겪은감독불러들였다…롯데'허문회...",
-  "연암공대-KAI-KTL,항공우주강소기업CEO대상AI·DX역량강화",
-  "김대권수성구청장,'건강도시상'혁신상2년째...맞춤형정책·지역사회...",
-  "선거후보선택강요하자...그록은공화당,오픈AI모델은민주당선택",
   "의료·국방AI에승부건지역대학…대전의새성장축된다",
   "현대차브랜드가치250억달러…자동차‘톱4’첫진입",
   "[뉴욕증시전략]10월FOMC유지전망우세…'중간선거'변수",
@@ -6001,7 +5992,16 @@
   "삼성SDS,3분기영업이익2410억원…클라우드·물류동반성장(종합)",
   "[종합]247만장경기장밖·13개상자특검으로…투표지검증다음은정...",
   "가상자산거래소프라뱅해킹…1억원피해에서비스잠정중단",
-  "[텔코NOW]KTㆍLGU+"
+  "[텔코NOW]KTㆍLGU+",
+  "LS마린솔루션·SKB,아시아7개국잇는해저통신망긴급복구맞손",
+  "올해오너일가주식순취득1위이재용…5조원육박",
+  "모바일콘텐츠주줄줄이하락…SK스퀘어·삼성출판사는웃었다",
+  "삼성-KIA플레이오프3차전,오늘(29일)진행…선발투수·중계·한국시리...",
+  "수능서스마트안경부정행위땐형사고발…응시제한3년확대추진",
+  "삼성전자·삼성금융네트웍스,JBL과'사운드레전드'전시개최·'삼성금...",
+  "롯데건설,'S70성수르엘'팝업관오픈...성수4지구미래주거기술직...",
+  "[종합]삼성전자,3분기영업익107조'새역사'…HBM4·D램쌍끌이에내...",
+  "코인거래소프라뱅,해킹으로1억원피해…서비스잠정중단"
  ],
  "recent_sigs": [
   [
@@ -6645,7 +6645,7 @@
    "~LGU LGU ~KT"
   ]
  ],
- "last_run": "2026-10-29T10:24:46.624436+09:00",
+ "last_run": "2026-10-29T10:26:33.469000+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
