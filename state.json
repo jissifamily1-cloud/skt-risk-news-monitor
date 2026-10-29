@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.nongaek.com/news/articleView.html?idxno=97004",
-  "https://www.businessplus.kr/news/articleView.html?idxno=117701",
-  "https://economist.co.kr/article/view/ecn202609220073",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=318648",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261004095553FgE",
-  "https://www.ziksir.com/news/articleView.html?idxno=147866",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=407760",
   "https://www.econovill.com/news/articleView.html?idxno=752627",
   "https://daily.hankooki.com/news/articleView.html?idxno=1411839",
   "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553654273",
@@ -2999,16 +2992,16 @@
   "https://www.g-enews.com/view.php?ud=202610291626037331139bf6e4b2_1",
   "https://biz.heraldcorp.com/article/10919571",
   "https://www.tournews21.com/news/articleView.html?idxno=147009",
-  "https://www.bizwork.co.kr/news/articleView.html?idxno=420342"
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=420342",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499809",
+  "https://www.thepowernews.co.kr/view.php?ud=20261029163930359de3f0aa1be_7",
+  "https://www.khan.co.kr/article/202610291642001",
+  "https://www.newscj.com/news/articleView.html?idxno=3444221",
+  "https://www.slist.kr/news/articleView.html?idxno=777504",
+  "https://www.dt.co.kr/article/12092149",
+  "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1782592"
  ],
  "seen_titles": [
-  "이통3사벽에막혔다?스타링크가'하늘와이파이'서찾은틈새[IT+]",
-  "[논평]\"홀드백만바라보는문체부,유통구조개선의지있나\"",
-  "KT,이통사유일범정부산불훈련참가…재난통신대응망점검완료",
-  "GPU수천장있어도논다…AIDC성능가르는‘데이터길'",
-  "KT·LGU+계열알뜰폰'0원·마이너스요금'도마...\"공정경쟁훼손우려...",
-  "\"범죄의심됩니다\"…AI로피싱예방나선이통사들",
-  "요금제도AI가골라준다\"...이통3사,'AI고객비서'경쟁",
   "알뜰폰시장,이통사자회사점유율상한제이뤄질까…\"공정경쟁위한...",
   "이러려고알뜰폰시작했나...이상한나라의0원알뜰폰",
   "중소알뜰폰업계\"대기업출혈경쟁…규칙은있으나작동하지않는공...",
@@ -6001,13 +5994,16 @@
   "두산로보틱스,3분기영업손실134억…전년比적자축소",
   "이성훈LH사장,사이버보안점검및대책회의개최",
   "우리은행·금융보안원,제6회'우리콘'시상식…대학(원)생4개팀수상",
-  "LH,금융권해킹사태에사이버보안긴급점검"
+  "LH,금융권해킹사태에사이버보안긴급점검",
+  "[코스피지수선물옵션]이차전지·전자부품주줄줄이하락…반도체·금...",
+  "KIA전ERA8.10vs삼성전피안타율0.196…최원태·시라카와,1승1패서격...",
+  "개인정보유출사고기업들‘버티기’에조정·소송하세월…“집단소...",
+  "[속보]빗썸해킹에고객정보수백건유출",
+  "빗썸,해킹사고로고객정보수백건유출뒤늦게확인",
+  "빗썸,해킹에‘고객개인정보’까지털렸다",
+  "일본반다이남코회원메일주소34만건,해킹으로유출"
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T10:44:16.025646+09:00",
-   "국가전략기술 조선 방위산업 우주항공 의원 추가 로봇 조특 조승래"
-  ],
   [
    "2026-10-29T10:46:14.846153+09:00",
    "효율화 통신3사 토큰 까지 ~SKT 나선 SKT는 바꾼다"
@@ -6623,9 +6619,17 @@
   [
    "2026-10-29T16:40:24.828444+09:00",
    "맡기는 운영 레드햇 통신망 필요 통제 AI에 실행 검증"
+  ],
+  [
+   "2026-10-29T16:44:16.450341+09:00",
+   "전자부품주 이차전지 줄줄이 하락 반도체"
+  ],
+  [
+   "2026-10-29T16:44:16.450341+09:00",
+   "반다이남코 회원 주소 메일 유출 34만 일본 해킹으로"
   ]
  ],
- "last_run": "2026-10-29T16:42:37.988193+09:00",
+ "last_run": "2026-10-29T16:44:38.789372+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
