@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=882888",
-  "https://www.hankyung.com/article/202610280458r",
-  "https://www.kmib.co.kr/article/20261028502419",
-  "https://www.hankyung.com/article/202610280933r",
-  "https://biz.heraldcorp.com/article/10918154",
-  "https://www.segye.com/newsView/20261028516724?OutUrl=naver",
-  "https://www.kmib.co.kr/article/20261028502420",
-  "https://www.kmib.co.kr/article/20261028502410",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280191&t=NN",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1729570",
   "https://www.kmib.co.kr/article/20261028502415",
   "https://news.jtbc.co.kr/article/NB12325335?influxDiv=NAVER",
@@ -2999,18 +2990,18 @@
   "https://www.job-post.co.kr/news/articleView.html?idxno=235278",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=324158",
   "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290534",
-  "https://www.tokenpost.kr/news/blockchain/429034"
+  "https://www.tokenpost.kr/news/blockchain/429034",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=324159",
+  "https://www.news1.kr/world/northeast-asia/6336414",
+  "https://www.econovill.com/news/articleView.html?idxno=755313",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=235282",
+  "https://www.viva100.com/article/20261029500875",
+  "https://www.betanews.net/article/view/beta202610280148",
+  "https://www.yna.co.kr/view/AKR20261029122800011?input=1195m",
+  "https://www.m-i.kr/news/articleView.html?idxno=2011958",
+  "https://news.tvchosun.com/site/data/html_dir/2026/10/29/2026102990182.html"
  ],
  "seen_titles": [
-  "KIA,플레이오프승부광주서끝낸다",
-  "알뜰폰요금제갈아타기전확인할5가지",
-  "변동성시대의대안'인프라'…하버베스트\"AI집중도에맞춰포트폴리...",
-  "SK하닉,매출104조·영업익83조…60조더주주환원",
-  "핌코\"자산기반금융,기업대출에대한강력한보완재\"[ASK2026]",
-  "우리은행“삼성월렛머니,중국내위챗페이연동교통카드에도적용할...",
-  "촬영갈등에2시간지연…CCTV영상·투표지등검증",
-  "‘올공사태’145일만에…247만장투표지공개검증",
-  "“정직한선거라면결과수용할것”…트럼프,또선거불복가능성시...",
   "\"3년치완판\"역대급돈잔치…SK하닉,'100조잭팟'고점론마저잠재웠다",
   "[컨콜종합]LG전자\"3Q영업익7819억원…TV흑자·전장수익성견조\"",
   "보안점검‘적정’금융사도뚫려…당국점검실효성‘도마위’",
@@ -6001,7 +5992,16 @@
   "SK하이닉스153만7000원으로3.36%상승…HBM경쟁력에매수세",
   "주말·야간에도AI가장애접수…KT고객센터,보이스봇월120만건처리",
   "국립부경대등록금수납시스템해킹..5천여명개인정보유출",
-  "블록에이드\"아발란체기반볼트해킹…USDC약101만달러유출\""
+  "블록에이드\"아발란체기반볼트해킹…USDC약101만달러유출\"",
+  "LGU+,뉴립스2026에AI토큰최적화논문2편채택",
+  "中함정50여척대만해협인근서활동…대만\"명백한위협\"",
+  "마이크로소프트프론티어전환성적표공개\"에이전트관리가승부처\"",
+  "삼성전기129만4000원으로0.92%하락…AI서버부품기대속숨고르기",
+  "[컨콜]삼성SDS“아시아최초로내년3월베라루빈GPU서비스개시”",
+  "코스피,외인·기관매수세에6천선회복'마감'",
+  "[연합뉴스이시각헤드라인]-14:30",
+  "5년만에구글·애플첫제동…인앱결제'역차별'끝날까",
+  "LG유플러스,구룡마을화재이재민에와이파이·충전지원"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-10-29T14:30:34.198112+09:00",
    "아발란체 유출 볼트 기반 101만 USDC 달러 블록에이드"
+  ],
+  [
+   "2026-10-29T14:32:15.653425+09:00",
+   "화재 이재민에 충전 LG유플러스 와이파이 구룡마을 지원 ~LGU"
   ]
  ],
- "last_run": "2026-10-29T14:30:52.117801+09:00",
+ "last_run": "2026-10-29T14:32:37.105630+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
