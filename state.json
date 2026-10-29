@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ibabynews.com/news/articleView.html?idxno=156197",
-  "https://www.newspim.com/news/view/20261026000404",
-  "https://www.thepublic.kr/news/articleView.html?idxno=323694",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116413",
   "https://www.dailian.co.kr/news/view/1706081/?sc=Naver",
   "http://www.seouleconews.com/news/articleView.html?idxno=94563",
   "https://www.ngonews.kr/news/articleView.html?idxno=241459",
@@ -2999,13 +2995,13 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900295.html",
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=50157",
   "https://www.epnc.co.kr/news/articleView.html?idxno=408962",
-  "https://www.etnews.com/20261029000377"
+  "https://www.etnews.com/20261029000377",
+  "https://en.yna.co.kr/view/AEN20261029010300320?input=2106m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3736551",
+  "https://www.dt.co.kr/article/12092120",
+  "https://www.joongdo.co.kr/web/view.php?key=20261029010008834"
  ],
  "seen_titles": [
-  "에스엘즈,'BuildAR2.0'조달청혁신제품지정",
-  "[AI트렌드]유니세프한국위원회·서울여성가족재단,유아마음건강콘...",
-  "에스엘즈,스마트건설솔루션'BuildAR2.0'조달청혁신제품지정",
-  "SK그룹사장단인사임박…최창원·장용호·곽노정거취촉각",
   "에스엘즈,'BuildAR2.0'조달청혁신제품선점…3년간수의계약자격...",
   "통신3사연말인사키워드는안정·AI…LGU+수사변수",
   "통신3사,데이터넘어AI토큰과금으로성장동력모색…새수익모델...",
@@ -6001,7 +5997,11 @@
   "[컨콜]삼성SDS“내년차세대GPU‘베라루빈’아시아첫도입…로...",
   "신한투자증권,9월까지배당수령고객143만명…2년새31%증가",
   "LG유플러스,스마트폰내AI토큰최적화연구성과인정",
-  "'AI해킹비상'日대형은행,보안인력구하려한국까지"
+  "'AI해킹비상'日대형은행,보안인력구하려한국까지",
+  "KOSPI200ClosingPriceList-3",
+  "\"1559위호국영령이여,편히잠드소서\"…대전서합동위령제",
+  "카카오,임베딩모델2종오픈소스로공개",
+  "대전국회의원들,첨단미래전략산업육성지원입법활발"
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,13 @@
   [
    "2026-10-29T15:42:16.010113+09:00",
    "AI해킹 보안인력 구하려 한국까지 비상 대형은행"
+  ],
+  [
+   "2026-10-29T15:44:15.317892+09:00",
+   "첨단 입법 육성 지원 활발 대전 국회의원들 미래전략산업"
   ]
  ],
- "last_run": "2026-10-29T15:42:34.292457+09:00",
+ "last_run": "2026-10-29T15:44:36.537579+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
