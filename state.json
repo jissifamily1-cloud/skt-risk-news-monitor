@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=620748",
-  "https://www.hankyung.com/article/202610293253i",
-  "https://www.seoul.co.kr/news/sport/2026/10/29/20261029500120?wlog_tag3=naver",
-  "https://www.naeil.com/news/read/606908",
-  "http://www.techholic.co.kr/news/articleView.html?idxno=223451",
-  "http://www.iminju.net/news/articleView.html?idxno=171621",
-  "https://www.ajunews.com/view/20261028151518679",
   "https://www.newsis.com/view/NISX20261029_0003846421",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54544",
   "https://sateconomy.co.kr/news/view/1065585653445278",
@@ -2999,16 +2992,16 @@
   "https://www.hankookilbo.com/news/article/A2026103008260003926?did=NA",
   "https://www.yna.co.kr/view/AKR20261030030400091?input=1195m",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=877982",
-  "https://news.dealsitetv.com/articles/177773"
+  "https://news.dealsitetv.com/articles/177773",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698655",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3737225",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3737217",
+  "https://www.edaily.co.kr/News/Read?newsId=03253766645618168&mediaCodeNo=257",
+  "https://www.yna.co.kr/view/AKR20261030033200017?input=1195m",
+  "https://www.tokenpost.kr/news/ai/429727",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699569"
  ],
  "seen_titles": [
-  "LG유플러스,AI최적화연구성과세계적학회서인정",
-  "무안군,'2026년재난대응안전한국훈련'실시",
-  "39층스카이라운지·짐배송로봇…‘남춘천센트레빌’264가구",
-  "PO관전꿀쨈각인kt...1승1패분위기에누구든길게만",
-  "‘2026아트코리아랩인공지능-융합페스티벌’",
-  "우리은행·금융보안원,금융보안인재발굴'모의해킹경진대회'시상식",
-  "코인마켓프라뱅,해킹으로1억원자산피해…서비스잠정중단",
   "[어메이징SK하이닉스]60조더얹어100조주주환원…솔리다임IPO철회...",
   "美국토안보부직원4만1000명이상개인정보유출",
   "'품질검사수작업95%감축'…워터스,제약AI의빈틈노렸다",
@@ -6001,7 +5994,14 @@
   "NYT\"젠슨황과가까웠던여성사업가는중국스파이\"",
   "아마존,자체칩'트레이니엄'외부에판다…엔비디아에도전장",
   "폴리마켓해킹···고객자산털리고거래중단",
-  "[오늘의비트코인]바이낸스해킹설에3%대급락…7만9000달러붕괴"
+  "[오늘의비트코인]바이낸스해킹설에3%대급락…7만9000달러붕괴",
+  "“고객이름만으로주소까지조회…시정권고”",
+  "\"900명어르신이한목소리로\"…전남광주통합특별시첫시니어합창경연...",
+  "\"서울·부산서남도한바퀴떠나요\"…1박2일관광상품출시,가격은30%↓",
+  "죽기직전까지\"힘들어도유지\"..AI조언에약끊은여성사망",
+  "KT,'토큰팩토리'출시에AI모델이용료할인한다",
+  "AI증명비134억원추정…알트먼,1년뒤100분의1가능성",
+  "폴리마켓35억원해킹피해…“700개계좌피해”"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-10-30T08:54:16.031080+09:00",
    "해킹설에 7만9000달러 급락 붕괴 바이낸스"
+  ],
+  [
+   "2026-10-30T08:56:15.674109+09:00",
+   "100분의 추정 134억원 가능성 1년 증명비"
   ]
  ],
- "last_run": "2026-10-30T08:54:42.897192+09:00",
+ "last_run": "2026-10-30T08:56:39.613027+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
