@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2379630.htm",
-  "https://www.yna.co.kr/view/AKR20261022157000530?input=1195m",
-  "https://biz.heraldcorp.com/article/10911725",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4114105",
-  "http://www.inews24.com/view/2017998",
-  "https://www.yna.co.kr/view/AKR20261022149000530?input=1195m",
   "https://www.ajunews.com/view/20261022153020622",
   "https://zdnet.co.kr/view/?no=20261022151716",
   "https://www.mt.co.kr/tech/2026/10/22/2026102214465199785",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/sports/basketball/6337060",
   "https://www.mt.co.kr/industry/2026/10/29/2026102920573248577",
   "http://www.yonhapnewstv.co.kr/news/MYH20261029211021Jqf",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=91192"
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=91192",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16262290",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3736929",
+  "https://www.g-enews.com/view.php?ud=202610292109517582bd56fbc3c_1",
+  "https://www.ddaily.co.kr/page/view/2026102921152590554",
+  "https://www.kukinews.com/article/view/kuk202610290240",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877926"
  ],
  "seen_titles": [
-  "개보위\"PHP보안취약점악용개인정보유출주의\"",
-  "[2026국감]김종철방미통위원장\"해킹피해보상미흡하면관여하겠다...",
-  "개보위\"PHP보안취약점주의…보안업데이트·접근통제필요\"",
-  "‘PHP보안취약점’난리에…개보위,개인정보유출예방조치당부",
-  "개보위,PHP취약점악용개인정보유출주의당부",
-  "[2026국감]운전정보동의1452만건,할인가입27%…이찬진\"전수조사...",
   "아동권리보장원장,대규모개인정보유출에\"깊이사과\"",
   "김종철방미통위원장\"해킹피해보상미흡할시방미통위관여\"",
   "김종철\"해킹사고피해보상·구제는방미통위소관\"",
@@ -6001,13 +5995,15 @@
   "'베즐리트리플더블'현대모비스,공동8위도약…KCC7연패수렁",
   "진에어고객1454명개인정보유출…이름·전화번호등8개항목",
   "진에어,외부해킹으로1,454명개인정보유출",
-  "엔비디아,음성→텍스트변환AI공개…한국어포함40개언어처리"
+  "엔비디아,음성→텍스트변환AI공개…한국어포함40개언어처리",
+  "'트리플더블'베즐리폭발한현대모비스,KCC7연패몰고공동8위도약",
+  "울산동구청소년상담복지센터,지도자역량강화교육실시",
+  "티센크루프,철강파트너찾기포기하고자본시장독립상장으로전격...",
+  "SK텔레콤,주당830원분기배당…총1768억원지급",
+  "쿠팡“6200억과징금,고객피해”…개보위“현금2조6000억‘납부여...",
+  "[동구오늘]1950년...26년'벤,허각,임한별,케이'와불금"
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T15:16:17.557321+09:00",
-   "스위치 캘리포니아주에 규제 촉구 앤트로픽 강화"
-  ],
   [
    "2026-10-29T15:22:15.809204+09:00",
    "기술 LG유플러스 국제 ~LGU 학회서 최적화 토큰 인정받아"
@@ -6491,9 +6487,13 @@
   [
    "2026-10-29T21:02:19.427163+09:00",
    "몸값 3000억 2년 만에 두뇌 괴력 K로봇"
+  ],
+  [
+   "2026-10-29T21:18:15.977236+09:00",
+   "허각 1950년 26년 불금 임한별 케이"
   ]
  ],
- "last_run": "2026-10-29T21:16:35.308459+09:00",
+ "last_run": "2026-10-29T21:18:37.565523+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
