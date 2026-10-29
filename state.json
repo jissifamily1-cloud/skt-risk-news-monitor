@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202610281807i",
-  "http://www.technoa.co.kr/news/articleView.html?idxno=101558",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16261063",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=601575",
-  "https://biz.chosun.com/international/international_economy/2026/10/28/2QCKIDMC3JAEDOSUVM2XJ4WDQU/",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441710",
-  "https://www.tokenpost.kr/news/ai/428614",
   "https://www.newsis.com/view/NISX20261028_0003845446",
   "https://www.gukjenews.com/news/articleView.html?idxno=3735852",
   "https://www.inven.co.kr/webzine/news/?news=322681",
@@ -2999,16 +2992,16 @@
   "http://www.paxetv.com/news/articleView.html?idxno=285595",
   "https://www.ekn.kr/web/view.php?key=20261029022482978",
   "https://www.joongangenews.com/news/articleView.html?idxno=559704",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005950345"
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005950345",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3736632",
+  "https://www.wikitree.co.kr/articles/1169999",
+  "https://www.bloter.net/news/articleView.html?idxno=677146",
+  "https://www.khan.co.kr/article/202610291654011",
+  "https://www.newsis.com/view/NISX20261029_0003846761",
+  "https://biz.chosun.com/it-science/ict/2026/10/29/Z7SXKDDBSFCKDIHK3Z4MU6X44Q/",
+  "https://www.mt.co.kr/tech/2026/10/29/2026102915494155345"
  ],
  "seen_titles": [
-  "뉴욕증시,FOMC금리결정앞두고상승출발…반도체주강세",
-  "AI대출자금이말라간다[박신영의개장전요것만]",
-  "초지능시대기가와트인프라함께만든다.AMD와메타동맹가속",
-  "미국증시상승출발…SK하이닉스11%급등·마이크론5%강세,연준결정...",
-  "로지텍,개발자겨냥'MXMaster4DeveloperEdition'출시",
-  "뉴욕증시,FOMC앞두고상승출발…SK하이닉스호실적에반도체주강세",
-  "뉴욕증시,FOMC대기하며상승출발",
   "시스코,AI에이전트행동연결해위험찾는도구공개",
   "\"개산책,시급2만7000원\"…美이색아르바이트등장",
   "\"반도체주싹뛰었다\"…뉴욕증시,연준금리결정앞두고상승출발",
@@ -6001,17 +5994,16 @@
   "LH,'사이버보안점검및대책회의'개최…AI기반관제플랫폼구축가...",
   "[은행권풍향계]신한은행,롯데그룹과주거안정·미래성장위한업무...",
   "최태원SK그룹회장,서울대강단선다…AI시대시장경제·미래인재상...",
-  "빗썸,사내시스템해킹사고로직원외고객정보도수백건유출"
+  "빗썸,사내시스템해킹사고로직원외고객정보도수백건유출",
+  "울산항만공사,2026년건설현장사고대응역량강화현장훈련'실시",
+  "기업가치1조달러앤트로픽,IPO서류에약점고백…성장률145%에서45...",
+  "현대차,포티투닷에추가출자...적자확대에도'기술내재화'",
+  "빗썸,해킹에고객수백명정보유출",
+  "금융권연쇄해킹에공격IP17개포착…北·中아닌네덜란드·프랑스...",
+  "방미통위‘인앱결제강제’과징금반발한구글·애플…“제3자결제...",
+  "\"AI시대해킹,수비자에게불리한구조…지키기위한3가지원칙은?\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T10:56:16.262735+09:00",
-   "29일 ~SKT 주가 10월 000원 하락 장중"
-  ],
-  [
-   "2026-10-29T10:56:16.262735+09:00",
-   "AI로 상담시간 120만건 고객 ~KT 처리 단축"
-  ],
   [
    "2026-10-29T10:58:15.808258+09:00",
    "공시로 지정 ~KT 소송 어디에 공시 대규모 늑장 불성실공시법인 책임"
@@ -6631,9 +6623,13 @@
   [
    "2026-10-29T16:52:17.911698+09:00",
    "SK 내달 서울대서 특강 회장 경제 인재상 5일 시대"
+  ],
+  [
+   "2026-10-29T16:56:16.814018+09:00",
+   "위한 구조 지키기 원칙은 시대 불리한 3가지 수비자에게"
   ]
  ],
- "last_run": "2026-10-29T16:54:34.766007+09:00",
+ "last_run": "2026-10-29T16:56:34.672421+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
