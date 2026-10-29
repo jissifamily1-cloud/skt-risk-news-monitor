@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703790",
-  "https://news.jtbc.co.kr/article/NB12320616?influxDiv=NAVER",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703743",
-  "https://zdnet.co.kr/view/?no=20260930072733",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=703722",
-  "https://www.aitimes.com/news/articleView.html?idxno=215779",
-  "https://zdnet.co.kr/view/?no=20260930064128",
-  "https://www.news2day.co.kr/article/20261028500266",
-  "http://www.beyondpost.co.kr/view.php?ud=2026102905460196462aaae0046f_30",
-  "https://www.sedaily.com/article/20107472",
-  "https://www.theguru.co.kr/news/article.html?no=108957",
   "https://www.dt.co.kr/article/12091957",
   "https://www.g-enews.com/view.php?ud=2026102814462056410c8c1c064d_1",
   "https://www.tokenpost.kr/news/breaking/428879",
@@ -2999,20 +2988,20 @@
   "https://www.xportsnews.com/article/2212882",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065602198513524",
   "https://www.ajunews.com/view/20261029173052751",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=901341"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=901341",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010674",
+  "http://www.queen.co.kr/news/articleView.html?idxno=465493",
+  "https://biz.chosun.com/stock/stock_general/2026/10/29/SPTI5TVEMVFIBCKRLLUKYIX2PY/",
+  "https://www.mk.co.kr/article/12190150",
+  "https://www.newdaily.co.kr/site/data/html/2026/10/29/2026102900398.html",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246990",
+  "https://www.news1.kr/it-science/cc-newmedia/6336916",
+  "https://www.hankyung.com/article/2026102944211",
+  "https://www.sedaily.com/article/20107946",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=246986",
+  "https://www.tokenpost.kr/news/ai/429185"
  ],
  "seen_titles": [
-  "교황레오14세,AI규제반대하는엔비디아젠슨황직격…\"AI위험외면...",
-  "오픈AI,IPO미루더니40조원조달?…몸값1900조원눈앞",
-  "내가시키기전에움직인다…오픈AI'닷츠'공개[소셜픽]",
-  "샘알트먼,오픈AI장악력키울3단계구상공개…'모델·구축·유통'제...",
-  "'배6척'띄운샘알트먼…오픈AI가데브데이서꺼낸6가지카드는",
-  "오픈AI,챗GPT에협업공간·문서·슬라이드기능추가",
-  "오픈AI,24시간자율에이전트'닷츠'공개…소비자용아닌B2B승부수",
-  "게임하고로봇움직이고…오픈AI가보여준'행동하는AI'",
-  "[N2모닝경제브리핑-10월29일]美증시,연준금리동결에3대지수동...",
-  "필라델피아반도체지수1.76%,마이크론5.86%↑...반도체주,나흘째상승...",
-  "뉴욕증시,금리동결에상승...‘어닝서프라이즈’SK하닉13%급등[데...",
   "LG전자\"AI냉각수주3조돌파\"…5GW장기계약·美생산확대'속도'",
   "알파벳실적쇼크에9%폭락…SK하닉이키운AI랠리폭탄맞나",
   "\"AI發부품값폭등에두손들었다\"…HP·에이서,동남아서中으로생산...",
@@ -6001,7 +5990,18 @@
   "넥써쓰,'원(ONE)'으로사명변경추진…11월16일임시주총상정",
   "넥써쓰,사명원(ONE)변경추진…원스토어완전자회사편입",
   "빗썸,해킹사고로고객정보도수백건유출뒤늦게확인",
-  "빗썸해킹에고객정보수백건유출…금융당국현장조사"
+  "빗썸해킹에고객정보수백건유출…금융당국현장조사",
+  "[이영환의AI에이전틱이코노미]아무도지시하지않은침입,그리고U...",
+  "시흥시,'바이오플러스인터펙스코리아'서AI·바이오혁신거점홍보",
+  "김승연넥스트증권대표연임…리테일사업본격화",
+  "코인거래소프라뱅서1억탈취…빗썸선고객정보수백건유출",
+  "선관위특검,투표지13개상자별도확보…247만장검증에도의혹규...",
+  "임직원만털렸다던빗썸,고객정보수백건'유출'",
+  "SK텔레콤,주당830원분기배당결정…총1768억원규모",
+  "내비1위티맵,골드만삭스에팔린다",
+  "정책·현장전력통정승일,SK이노‘AI·에너지’지휘",
+  "PHP해킹에서버25대뚫려,한국도공격대상",
+  "20곳협력한앤스로픽,과학연구크레딧지원확대"
  ],
  "recent_sigs": [
   [
@@ -6591,9 +6591,21 @@
   [
    "2026-10-29T17:36:15.732462+09:00",
    "마인크래프트 공개 리믹스 RTX 지원"
+  ],
+  [
+   "2026-10-29T17:42:16.984106+09:00",
+   "티맵 팔린다 내비 골드만삭스에 1위"
+  ],
+  [
+   "2026-10-29T17:42:16.984106+09:00",
+   "정책 SK이노 정승일 현장 전력통 에너지 지휘"
+  ],
+  [
+   "2026-10-29T17:42:16.984106+09:00",
+   "크레딧 20곳 연구 과학 확대 협력한 지원"
   ]
  ],
- "last_run": "2026-10-29T17:40:46.645339+09:00",
+ "last_run": "2026-10-29T17:42:41.019435+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
