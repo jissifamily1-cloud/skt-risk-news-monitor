@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216628",
-  "https://www.newspim.com/news/view/20261023000728",
-  "https://www.mk.co.kr/article/12184406",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=241161",
   "http://www.popcornnews.net/news/articleView.html?idxno=137121",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=875508",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215311",
@@ -2999,13 +2995,13 @@
   "https://www.khan.co.kr/article/202610291909001",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/29/2026102990263.html",
   "https://www.joongangenews.com/news/articleView.html?idxno=559761",
-  "https://www.knnews.co.kr/news/articleView.php?idxno=1553942"
+  "https://www.knnews.co.kr/news/articleView.php?idxno=1553942",
+  "https://www.econovill.com/news/articleView.html?idxno=755386",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=100257",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261029191306yjv",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=228568"
  ],
  "seen_titles": [
-  "[김진수GEO칼럼]AI가나를추천한다는것은무엇을의미하는가?",
-  "[AI모델신작]텐센트월드모델부터잭도시의음성AI까지9종",
-  "[AI신곡]세븐틴정한X조슈아·아이브·에이티즈등…10월넷째주신곡",
-  "AI가가장많이인용한언론은매경…3개월연속1위",
   "NNT\"AI인용,키워드반복보다정보밀도가중요\"",
   "기업AI활용확산에보안·규제대응강화…AI검색최적화도주목",
   "NNT,AI인용패턴리포트발간",
@@ -6001,7 +5997,11 @@
   "“진에어,해킹공격으로1454명개인회원정보유출",
   "진에어,외부해킹으로회원1454명개인정보유출",
   "현대차,포티투닷에2852억원추가출자...누적1조2205억원투자",
-  "[가고파]인공지능반려로봇-조고운(정치부부장대우)"
+  "[가고파]인공지능반려로봇-조고운(정치부부장대우)",
+  "넥스트증권김승연연임확정…리테일사업출시속도",
+  "빗썸,고객844명개인정보유출도확인…\"피해구제·보상최선\"",
+  "투표지반출마친선관위특검…투표지감정·윗선개입규명주력",
+  "최태원회장-노소영관장재산분할재상고심사건배당…주심김성수..."
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-10-29T19:14:17.098333+09:00",
    "반려로봇 조고운 인공지능 정치부 부장대우"
+  ],
+  [
+   "2026-10-29T19:16:16.543805+09:00",
+   "배당 주심 재상고심 회장 관장 김성수 재산분할 사건"
   ]
  ],
- "last_run": "2026-10-29T19:14:35.149508+09:00",
+ "last_run": "2026-10-29T19:16:37.931566+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
