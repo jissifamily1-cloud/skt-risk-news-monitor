@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172688",
-  "https://monthly.chosun.com/news/articleView.html?idxno=71818",
-  "https://www.newspim.com/news/view/20261028001467",
-  "https://www.fnnews.com/news/202610281549230362",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3735543",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=747111",
-  "http://www.inews24.com/view/2020037",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281609232620621",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280155&t=NN",
   "https://www.mk.co.kr/article/12187293",
   "https://www.mydaily.co.kr/page/view/2026102816160887098",
@@ -2999,17 +2991,17 @@
   "https://zdnet.co.kr/view/?no=20261022175056",
   "http://www.thevaluenews.co.kr/news/view.php?idx=202771",
   "https://www.asiatime.co.kr/article/20261029500065",
-  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716576"
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716576",
+  "https://www.wikitree.co.kr/articles/1170077",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3736059",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=205582",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=800095",
+  "https://byline.network/?p=9004111222625016",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641157",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=800098",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5227779"
  ],
  "seen_titles": [
-  "경찰,대신증권·미래에셋·빗썸해킹내사착수",
-  "반도체훈풍,코스피'질주'...삼성화재·한국금융지주'껑충'",
-  "[한일경제연대]\"미국도중국도위험하다…한일기업에싹트는'동병상...",
-  "[일본증시]닛케이1.08%상승...반도체강세에오름세지속",
-  "\"주파수재할당대가산정기준불투명…기금배분협의도1번에불과\"",
-  "박완수경남도지사\"재난현장앞장선이·통장,경남의자부심\"",
-  "[이슈]당정,'청년층민심'에가상자산과세'추가유예'가닥…김민석...",
-  "LG전자김창태CFO\"AI냉각수주3조돌파…로봇부품선점\"",
   "현대차브랜드가치250억달러…글로벌20위권진입",
   "정의선의혁신통했다…현대차,글로벌자동차브랜드첫4위",
   "매경이전하는세상의지식(매-세-지,10월28일)",
@@ -6001,7 +5993,15 @@
   "챗GPT광고주10만곳넘어…오픈AI,89개국으로광고확대",
   "[더밸류브리핑]오늘의신한금융소식...신한투자증권·신한자산운용",
   "PHP취약점공격으로韓·美서버25대최고관리자권한탈취",
-  "우리은행·금융보안원,모의해킹경진대회시상식"
+  "우리은행·금융보안원,모의해킹경진대회시상식",
+  "프로야구은퇴1년만에…종합격투기데뷔하는194cm좌완투수",
+  "전남광주통합특별시,27개시군구마을공동체한마당여수서열려",
+  "이낙연\"조희대국정조사,삼권분립흔드는행위\"[정치오늘]",
+  "[증권가소식]메리츠증권ㆍ삼성증권ㆍ신한투자증권ㆍ대신증권(10.29)",
+  "오라클,오픈AI와기업AI프로젝트뛰어든다",
+  "[뉴욕증시]앤트로픽훈풍에AI·반도체랠리···'속슬'12%↑·코어위...",
+  "[금융권소식]하나금융ㆍ우리은행ㆍiM뱅크(10.29)",
+  "등록금시스템해킹…국립부경대학생5,106명정보유출"
  ],
  "recent_sigs": [
   [
@@ -6569,7 +6569,7 @@
    "~KT 자문계약 100억 해지 2명 대표 호각 KT스카이라이프 투자"
   ]
  ],
- "last_run": "2026-10-29T09:56:31.113110+09:00",
+ "last_run": "2026-10-29T09:58:33.701675+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
