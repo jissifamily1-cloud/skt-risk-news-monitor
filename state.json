@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=725588",
-  "https://www.yna.co.kr/view/AKR20261028047700008?input=1195m",
-  "https://www.yna.co.kr/view/AKR20261028045300009?input=1195m",
-  "https://www.ilovepc.co.kr/news/articleView.html?idxno=61109",
-  "https://www.joongangenews.com/news/articleView.html?idxno=558952",
-  "https://www.viva100.com/article/20261028500220",
   "https://www.newspim.com/news/view/20261028000393",
   "https://biz.sbs.co.kr/article_hub/20000342613?division=NAVER",
   "https://www.cstimes.com/news/articleView.html?idxno=725594",
@@ -2999,15 +2993,15 @@
   "https://zdnet.co.kr/view/?no=20261029175508",
   "https://it.chosun.com/news/articleView.html?idxno=2023092173130",
   "http://www.srtimes.kr/news/articleView.html?idxno=216246",
-  "https://www.news1.kr/society/court-prosecution/6336727"
+  "https://www.news1.kr/society/court-prosecution/6336727",
+  "https://www.sedaily.com/article/20107982",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=747226",
+  "https://www.econovill.com/news/articleView.html?idxno=755378",
+  "https://www.hankyung.com/article/2026102943841",
+  "https://www.hankyung.com/article/2026102940897",
+  "https://www.joongang.co.kr/article/25474120"
  ],
  "seen_titles": [
-  "엔비디아매디슨황,내달네번째방한…韓기업과피지컬AI협력확대...",
-  "[특징주]로봇주,엔비디아매디슨황방한소식에'급등'",
-  "[특징주]매디슨황엔비디아수석이사방한소식에로봇주장초반강...",
-  "오라클,클라우드에구글TPU첫탑재…세레브라스추가",
-  "[디지털포스트모닝픽]퀄컴·앤듀릴'메이드인USA'노트북만든다......",
-  "엔비디아젠슨황딸매디슨황다시한국행…삼성·SK·LG·두산'피지컬...",
   "젠슨황장녀매디슨황내달방한⋯K-기업과피지컬AI협력확대주목",
   "코스피,이틀연속매수사이드카발동…6000선에바짝",
   "앤트로픽,삼전닉스·TSMC결정력우려",
@@ -6001,7 +5995,13 @@
   "통신3사,구룡마을화재이재민지원나서",
   "빗썸,해킹피해확산…임직원이어고객정보도유출",
   "빗썸사내시스템해킹…고객정보수백건유출",
-  "쿠팡\"영업타격\"vs개보위\"나눠내라\"…6200억대과징금법정공방"
+  "쿠팡\"영업타격\"vs개보위\"나눠내라\"…6200억대과징금법정공방",
+  "구글‘돈줄’검색·광고매출둔화…클라우드위주MS는선방",
+  "LG전자,AI데이터센터냉각사업확대…수주실적으로이어질까",
+  "빗썸,고객844명개인정보노출...이재원대표\"깊이사과\"",
+  "[단독]'1500만명'한국인빅데이터탐냈나…골드만'8000억'쓴다",
+  "구룡마을덮친화마에대피200명…통신사들뭉쳤다",
+  "금융권해킹,자산피해도…프라뱅서가상자산1억원빠져나가"
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-10-29T17:58:15.184121+09:00",
    "vs 법정 타격 공방 6200억대 나눠내라 과징금 영업 쿠팡"
+  ],
+  [
+   "2026-10-29T18:00:41.916842+09:00",
+   "덮친 대피 구룡마을 화마에 통신사들 200명 뭉쳤다"
+  ],
+  [
+   "2026-10-29T18:00:41.916842+09:00",
+   "탐냈나 1500만명 8000억 쓴다 골드만 한국인 빅데이터"
   ]
  ],
- "last_run": "2026-10-29T17:58:36.164846+09:00",
+ "last_run": "2026-10-29T18:01:09.229304+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
