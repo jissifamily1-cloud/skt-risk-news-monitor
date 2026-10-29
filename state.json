@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12091934",
-  "https://www.dt.co.kr/article/12091935",
-  "https://www.namdonews.com/news/articleView.html?idxno=927586",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303589",
-  "https://www.seoultimes.news/news/article.html?no=2000101498",
-  "https://www.betanews.net/article/view/beta202610280044",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697746",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261029.22005008499",
-  "http://www.inews24.com/view/2020120",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557290",
   "https://www.munhwa.com/article/11627016",
   "http://www.dailypop.kr/news/articleView.html?idxno=103887",
@@ -2999,18 +2990,18 @@
   "https://www.mt.co.kr/industry/2026/10/29/2026102914151649944",
   "https://www.mk.co.kr/article/12189831",
   "https://www.g-enews.com/view.php?ud=20261029143436985e7e8286d56_1",
-  "https://www.chosun.com/economy/tech_it/2026/10/29/7RHBHINWNJFLZAPRJ73OIZ6AOM/"
+  "https://www.chosun.com/economy/tech_it/2026/10/29/7RHBHINWNJFLZAPRJ73OIZ6AOM/",
+  "https://www.newspim.com/news/view/20261029000757",
+  "https://www.newsq.co.kr/news/articleView.html?idxno=500648",
+  "https://www.mt.co.kr/tech/2026/10/29/2026102913122118236",
+  "https://www.mt.co.kr/industry/2026/10/29/2026102914413830855",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=730249",
+  "https://www.sentv.co.kr/article/view/sentv202610290154",
+  "https://www.eroun.net/news/articleView.html?idxno=93501",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173079",
+  "https://view.asiae.co.kr/article/2026102914421071558"
  ],
  "seen_titles": [
-  "[기고]'학의도시울산',노래로다시날다.",
-  "[기획]3년치완판…‘AI칩고점론’한방에깬SK하닉",
-  "北IP서금융권440만건접속시도…당국,보안점검긴급요청",
-  "SK텔레콤,전남대찾아대학생들과소통…휴대폰케어·진로상담",
-  "SK텔레콤,10년장기고객에뮤지컬초청…'특별한연말선물'제공",
-  "[비즈인사이트]삼성·SK하이닉스·LG전자3분기성적표…반도체'초호...",
-  "에이전트권한·성과측정고민풀었다…오픈AI,서울서'빌더부트캠프...",
-  "‘인앱결제강제’구글·애플에600억대과징금",
-  "여야‘조희대국조’두고공방격화",
   "올림픽공원투표지공개검증7시간째…절반가량완료",
   "봉인4개월만에열렸다…투표용지247만장전수검증",
   "[속보]구글429억원·애플208억원과징금…방미통위,시정명령의결",
@@ -6001,13 +5992,18 @@
   "AI반도체발열잡는다…LG전자,냉각설비생산능력10배확대",
   "서강·연세대이어국립부경대도…학생·교직원5100명정보유출",
   "사이버공격에GDP556억증발…日,소비위축비상",
-  "‘인앱결제강제’과징금에불복하는구글·애플...진짜두려운건손..."
+  "‘인앱결제강제’과징금에불복하는구글·애플...진짜두려운건손...",
+  "잇따른개인정보유출에집단소송제도입요구↑",
+  "베테랑도1라운더도,피할수없었던방출칼바람[프로야구]",
+  "사전예약취소에중고가격↓…혼돈의아이폰듀오크랙게이트",
+  "[사진]'AI인프라산업의과제'",
+  "신약부터생산설비까지…'BIX2026'전시장가보니",
+  "[컨콜]이준희삼성SDS대표“내년3월‘베라루빈’GPU서비스출시...",
+  "\"이익은사상최대라는데왜주가는떨어지나.\"...올해반도체주가걸어...",
+  "SK온,美탈중국ESS수요공략…EV라인전환",
+  "우리은행,모의해킹경진대회시상…보안인재채용우대"
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T08:44:14.727154+09:00",
-   "상담완결률 높여 AI로 ~KT 생성형 혁신 고객센터"
-  ],
   [
    "2026-10-29T08:46:16.180661+09:00",
    "빅테크 실적 중국증시 반등 금리 29일 변수 선별적"
@@ -6623,9 +6619,13 @@
   [
    "2026-10-29T14:36:15.038612+09:00",
    "플랫폼 민주당 갑질 입법 예고 인앱결제 보완 차단"
+  ],
+  [
+   "2026-10-29T14:44:14.852745+09:00",
+   "크랙게이트 듀오 사전예약 중고가격 취소에 아이폰 혼돈의"
   ]
  ],
- "last_run": "2026-10-29T14:42:32.093490+09:00",
+ "last_run": "2026-10-29T14:44:36.035358+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
