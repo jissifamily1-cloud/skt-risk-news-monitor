@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=61793",
-  "https://www.newsgn.com/news/articleView.html?idxno=582146",
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=61807",
-  "https://www.sedaily.com/article/20107420",
-  "https://www.kmib.co.kr/article/20261028501966",
-  "https://www.betanews.net/article/view/beta202610280148",
-  "https://www.g-enews.com/view.php?ud=2026102818483337ea14faf6f5_1",
-  "https://www.namdonews.com/news/articleView.html?idxno=927557",
   "https://www.gokorea.kr/news/articleView.html?idxno=882888",
   "https://www.hankyung.com/article/202610280458r",
   "https://www.kmib.co.kr/article/20261028502419",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261029_0003846509",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=283344",
   "https://news.tf.co.kr/read/economy/2382455.htm",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=885286"
+  "https://www.getnews.co.kr/news/articleView.html?idxno=885286",
+  "https://www.mk.co.kr/article/12189816",
+  "https://zdnet.co.kr/view/?no=20261029142640",
+  "https://www.tfmedia.co.kr/news/article.html?no=208456",
+  "http://www.4th.kr/news/articleView.html?idxno=2120685",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=235278",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=324158",
+  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290534",
+  "https://www.tokenpost.kr/news/blockchain/429034"
  ],
  "seen_titles": [
-  "[오피셜]롯데로이렇게복귀하네!허문회전감독,5년만에수석겸타...",
-  "[ICT종합]네이버해피빈및엔에이치엔페이코소식외",
-  "'247만장'송파투표지검증첫날부터진통",
-  "[게임뉴스]라이온하트및라인게임즈소식외",
-  "GM,115년만에나스닥이전…“전통제조업에서기술기업으로”",
-  "SKT침해사고1년‘해지율1.6→0.8%’…“신뢰재측정과정”",
-  "코스피,외인·기관매수세에6천선회복'마감'",
-  "구글·애플,인앱결제강제에과징금637억원…양사반발",
   "KIA,플레이오프승부광주서끝낸다",
   "알뜰폰요금제갈아타기전확인할5가지",
   "변동성시대의대안'인프라'…하버베스트\"AI집중도에맞춰포트폴리...",
@@ -6001,21 +5993,17 @@
   "\"3초틀렸을뿐인데초음속주행?\"…'시간공격'에금융·전력·통신'도...",
   "KT,AI상담고도화결실…완결률81%쾌거",
   "우리은행·금융보안원,모의해킹경진대회시상...금융보안인재발굴",
-  "잘키운윤활유하나로열반도체안부러울SK이노장용호·추형욱號,..."
+  "잘키운윤활유하나로열반도체안부러울SK이노장용호·추형욱號,...",
+  "스마트폰AI최적화기술…LGU+,국제학회논문채택",
+  "인텔·SAP,기업시스템과연동한창고자동화로봇시연",
+  "[기자수첩]375원저주깬SK하이닉스…다음관건은삼성전자증여",
+  "신한투자배당고객143만명..ETF는'TIGER미국S&P500'·'QQQ'최다",
+  "SK하이닉스153만7000원으로3.36%상승…HBM경쟁력에매수세",
+  "주말·야간에도AI가장애접수…KT고객센터,보이스봇월120만건처리",
+  "국립부경대등록금수납시스템해킹..5천여명개인정보유출",
+  "블록에이드\"아발란체기반볼트해킹…USDC약101만달러유출\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-29T08:28:18.101726+09:00",
-   "전반 빅테크 AI반도체주 혼조 하락 강세"
-  ],
-  [
-   "2026-10-29T08:28:18.101726+09:00",
-   "호실적 삼성그룹주 동반 삼성전기 급등 물산"
-  ],
-  [
-   "2026-10-29T08:30:31.587666+09:00",
-   "쿠폰 해킹에 서비스 기프티엘 30일 미사용 롯데 멈춘 연장"
-  ],
   [
    "2026-10-29T08:34:15.715661+09:00",
    "취약점 피습 권한 정부 PHP 서버 탈취 노린"
@@ -6643,9 +6631,13 @@
   [
    "2026-10-29T14:28:15.469052+09:00",
    "윤활유 키운 반도체 SK이노 부러울 추형욱 장용호 하나로"
+  ],
+  [
+   "2026-10-29T14:30:34.198112+09:00",
+   "아발란체 유출 볼트 기반 101만 USDC 달러 블록에이드"
   ]
  ],
- "last_run": "2026-10-29T14:28:40.223172+09:00",
+ "last_run": "2026-10-29T14:30:52.117801+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
