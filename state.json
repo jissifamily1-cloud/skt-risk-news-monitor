@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/427433",
-  "https://www.mk.co.kr/article/12188762",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100138",
-  "https://www.chosun.com/economy/tech_it/2026/10/28/KPQWFCT3BJHNPDMVGW6R6WPM3Q/",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710716",
   "https://www.sedaily.com/article/20107362",
   "https://sports.donga.com/ent/article/all/20261028/134926947/1",
   "https://www.newspim.com/news/view/20261028001562",
@@ -2999,14 +2994,14 @@
   "http://www.joseilbo.com/news/news_read.php?uid=578446&class=32",
   "https://www.impacton.net/news/articleView.html?idxno=30456",
   "https://www.mt.co.kr/policy/2026/10/29/2026102911244347289",
-  "https://www.fnnews.com/news/202610290942497060"
+  "https://www.fnnews.com/news/202610290942497060",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=511237",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42482",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441907",
+  "https://www.ddaily.co.kr/page/view/2026102911510595656",
+  "https://www.yna.co.kr/view/AKR20261029103800017?input=1195m"
  ],
  "seen_titles": [
-  "로지텍,코딩환경최적화마우스‘MXMaster4DeveloperEdition’출시",
-  "영국가계관리AI서비스Nous,1700만달러조달소식",
-  "“후배가쓴보고서,대놓고AI썼네요”...이제‘사람냄새’풍기는...",
-  "'HBM3년치완판'SK하이닉스,'메모리피크아웃'일축한'근자감'",
-  "SKT,해킹사고로치솟은해지율1년만에회복…학계“고객보상,정보...",
   "금융당국,디지털자산업권해킹긴급점검...보안강화추진",
   "‘인앱결제강제’구글·애플에과징금637억",
   "추영우표멜로,맵고쓰고달다…‘연애박사’에서터진진가",
@@ -6001,7 +5996,12 @@
   "올림픽공원투표지247만장검증완료후반출…野\"야반도주\"반발",
   "10월4주차해외ESG핫클립",
   "\"차세대AI반도체청사진\"…세종대,글로벌연구네트워크주도",
-  "LG유플러스AI토큰최적화연구,세계적AI학술대회서인정"
+  "LG유플러스AI토큰최적화연구,세계적AI학술대회서인정",
+  "무안군,'재난안전통신망실시간가동'...유관기관합동안전한국훈련",
+  "노트북이개인용AI슈퍼컴퓨터로…엔비디아,128GB메모리·1페타플롭스...",
+  "SK이노\"SKIET합병,증권신고서효력발생이후일정확정\"",
+  "상담사가고객정보무단조회?…개인정보위,사전실태점검실시",
+  "특부가협회,방미통위에카카오신고…\"알림톡차단무력화\""
  ],
  "recent_sigs": [
   [
@@ -6703,9 +6703,25 @@
   [
    "2026-10-29T12:02:17.539195+09:00",
    "메모리 경쟁 삼성 IPO로 SK 커진다 앤트로픽 역할"
+  ],
+  [
+   "2026-10-29T12:10:23.506414+09:00",
+   "확정 SKIET 합병 증권신고서 일정 발생 SK이노 효력 이후"
+  ],
+  [
+   "2026-10-29T12:10:23.506414+09:00",
+   "사전 조회 고객정보 실시 상담사가 개인정보위 무단 실태점검"
+  ],
+  [
+   "2026-10-29T12:10:23.506414+09:00",
+   "노트북이 개인용 128GB 슈퍼컴퓨터로 메모리 1페타플롭스"
+  ],
+  [
+   "2026-10-29T12:10:23.506414+09:00",
+   "차단 무력화 특부가협회 신고 알림톡 카카오 방미통위에"
   ]
  ],
- "last_run": "2026-10-29T12:08:33.678575+09:00",
+ "last_run": "2026-10-29T12:10:54.994901+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
