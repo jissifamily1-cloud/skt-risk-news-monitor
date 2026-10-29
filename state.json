@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800365.html",
-  "https://www.tokenpost.kr/news/breaking/426641",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000077639",
-  "https://www.mk.co.kr/article/12188618",
-  "https://www.tokenpost.kr/news/breaking/426706",
-  "https://www.tokenpost.kr/news/ai/426684",
-  "https://www.joongangenews.com/news/articleView.html?idxno=559278",
   "https://zdnet.co.kr/view/?no=20261028171616",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=621546",
   "https://www.viva100.com/article/20261028501123",
@@ -2999,16 +2992,16 @@
   "https://view.asiae.co.kr/article/2026102910503113433",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698563",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008820768&plink=ORI&cooper=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=04073766645617840&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=04073766645617840&mediaCodeNo=257",
+  "https://gamefocus.co.kr/detail.php?number=180145",
+  "https://dealsite.co.kr/articles/171615",
+  "http://www.4th.kr/news/articleView.html?idxno=2120672",
+  "https://www.joongang.co.kr/article/25472940",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485901",
+  "https://biz.heraldcorp.com/article/10918811",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=138425"
  ],
  "seen_titles": [
-  "구글·애플,'인앱결제강제'과징금637억…외부결제제한시정명령",
-  "방미통위“구글·애플과징금산출액4802억원에도상한규정으로한계...",
-  "애플·엔비디아·테슬라토큰,솔라나서거래시작",
-  "광주'밀리플레이스'런칭데이인기…지역관광으로확장",
-  "\"AI흔적없애라\"…AI탐지우회서비스뜬다",
-  "문샷AI,2.8조매개변수키미K3.1프로공개",
-  "GPU활용률절반이하79%…70%는플랫폼도입계획",
   "[종합]LG전자,누적영업익첫4조돌파…AI데이터센터냉각수주도3...",
   "[유미's픽]삼성SDS·LGCNS·현대오토에버,3분기나란히웃나…AI·클...",
   "3년치물량벌써찼다…SK하이닉스,공급과잉우려일축",
@@ -6001,7 +5994,14 @@
   "클라우드·물류쌍끌이…삼성SDS,3분기영업익2410억",
   "미국토안보부직원4만명정보해킹으로유출",
   "미정부기관또해킹피해…국토안보부직원4만명정보유출",
-  "[단독]금융사해킹시도북한IP실체는…당국“北아닌제3자가악용했..."
+  "[단독]금융사해킹시도북한IP실체는…당국“北아닌제3자가악용했...",
+  "엔비디아,RTX스파크윈도우노트북에신규모델·에이전트도구·게임...",
+  "삼성SDS,클라우드·물류동반성장…3분기외형확대",
+  "\"식당이름잊어도찾는다\"..카카오,의미검색AI모델공개",
+  "“늙는게쇠퇴하는건아냐…AI·로봇으로‘초풍요’증명하라”[최...",
+  "세종대박기호교수,그리스서AI반도체국제워크숍개최",
+  "정진완우리은행장‘우리콘’시상“금융사고막는힘,기본에서나와...",
+  "북한IP금융권접속시도440만건…은행·증권·보험연쇄해킹에국가..."
  ],
  "recent_sigs": [
   [
@@ -6765,7 +6765,7 @@
    "악용했 제3자가 아닌 금융사 시도 실체는 북한IP 당국"
   ]
  ],
- "last_run": "2026-10-29T11:08:38.749020+09:00",
+ "last_run": "2026-10-29T11:10:43.238644+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
