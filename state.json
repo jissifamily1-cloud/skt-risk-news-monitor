@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261029001418",
-  "https://www.the-today.com/news/articleView.html?idxno=92688",
-  "https://www.news1.kr/industry/general-industry/6337071",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711160",
-  "https://www.viva100.com/article/20261029501497",
-  "https://www.hankyung.com/article/2026102946367",
   "https://www.socialvalue.kr/news/view/1065617697722523",
   "https://www.ajunews.com/view/20261029212404245",
   "https://www.sportsseoul.com/news/read/1644921",
@@ -2999,15 +2993,15 @@
   "https://www.kukinews.com/article/view/kuk202610290240",
   "https://www.chosun.com/economy/tech_it/2026/10/30/FE24PEW7TNHVZCZZCRFCTX3ONA/",
   "https://www.smartbizn.com/news/articleView.html?idxno=158037",
-  "https://www.chosun.com/economy/science/2026/10/30/L4GHBDBKVZFXBASE6WECTYMZJE/"
+  "https://www.chosun.com/economy/science/2026/10/30/L4GHBDBKVZFXBASE6WECTYMZJE/",
+  "https://econotimes.com/AI-Agents-Analyze-Mouse-Brain-Data-in-32-Minutes-but-Leads-Need-Testing-1765832",
+  "https://www.sedaily.com/article/20108334",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=86920",
+  "https://www.newspim.com/news/view/20261029001412",
+  "https://www.widedaily.com/news/articleView.html?idxno=302579",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=235669"
  ],
  "seen_titles": [
-  "[위클리오늘]가을물살가른의성군율정호…제트스키국가대표선발전...",
-  "빗썸고객6444명개인정보유출…신분증사본도포함",
-  "빗썸그룹웨어해킹에고객844명유출...개인정보노출",
-  "정소이,에쓰오일챔피언십첫날깜짝단독1위[KLPGA]",
-  "프로농구현대모비스,용병부상악재에도연패탈출…KCC는7연패",
-  "SK스퀘어,티맵모빌리티경영권매각추진…글로벌투자은행과협상중",
   "진에어회원1454명개인정보유출…외부해킹공격확인",
   "한·중피싱조직'대동단결',사회초년생상대80억대뜯어",
   "이예선생재조명울산학춤정기공연",
@@ -6001,13 +5995,15 @@
   "쿠팡“6200억과징금,고객피해”…개보위“현금2조6000억‘납부여...",
   "중국,앤스로픽막히자오픈AI아스트라증류공격",
   "북한해킹조직,AI활용사이버공격확대",
-  "AI로반도체해킹취약점찾아낸DGIST연구팀,국제대회준우승"
+  "AI로반도체해킹취약점찾아낸DGIST연구팀,국제대회준우승",
+  "AIAgentsAnalyzeMouse-BrainDatain32Minutes,butLeadsNeedTestin",
+  "삼성전기,8800억규모MLCC계약…올해수주5조돌파",
+  "삼성전기,AI서버용MLCC8800억수주…올해누적5.2조달성",
+  "뉴욕증시프리뷰,알파벳11%폭락에나스닥선물1%대하락...PCE주목",
+  "\"AI로가짜이력서뚝딱\"…北해킹조직,'완전무장'상태로위장취업...",
+  "SK텔레콤7만4700원으로2.48%하락…배당과AI투자균형"
  ],
  "recent_sigs": [
-  [
-   "2026-10-30T09:06:15.645477+09:00",
-   "KT나스미디어 더스퀘어 광고 강남 공간 ~KT 복합 론칭"
-  ],
   [
    "2026-10-30T09:10:25.349824+09:00",
    "6조 쿠팡에 피해 내세운 고객 배당하고도 모회사 반박"
@@ -6623,9 +6619,13 @@
   [
    "2026-10-30T15:06:15.492282+09:00",
    "연구팀 반도체 찾아낸 준우승 AI로 국제대회 DGIST 취약점"
+  ],
+  [
+   "2026-10-30T15:08:14.496630+09:00",
+   "~SKT 투자 하락 7만4700원으로 배당과 균형"
   ]
  ],
- "last_run": "2026-10-30T15:06:39.646480+09:00",
+ "last_run": "2026-10-30T15:08:36.674283+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
