@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.idomin.com/news/articleView.html?idxno=2018221",
-  "https://biz.sbs.co.kr/article_hub/20000342898?division=NAVER",
-  "https://news.tf.co.kr/read/economy/2382396.htm",
-  "https://www.fnnews.com/news/202610291303492860",
-  "http://www.digitalbizon.com/news/articleView.html?idxno=2344140",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557415",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35296",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441926",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2310257",
   "https://biz.heraldcorp.com/article/10917080",
   "https://www.ekn.kr/web/view.php?key=20261029024112787",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=283314",
@@ -2999,18 +2990,18 @@
   "https://www.seoul.co.kr/news/international/USA-amrica/2026/10/30/20261030500027?wlog_tag3=naver",
   "https://zdnet.co.kr/view/?no=20261030085007",
   "https://www.dt.co.kr/article/12090168",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300033&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300033&t=NN",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=202757",
+  "https://www.cstimes.com/news/articleView.html?idxno=725952",
+  "https://www.insight.co.kr/news/579837",
+  "https://www.yna.co.kr/view/PYH20261030021700013?input=1196m",
+  "http://www.popcornnews.net/news/articleView.html?idxno=138027",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1420050",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88554",
+  "https://www.fnnews.com/news/202610300859174514",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877985"
  ],
  "seen_titles": [
-  "[직설]코스피,확실하게반등기회잡았나?",
-  "최형두\"창원SMR인허가정비·경남휴머노이드실증확대해야\"",
-  "[시장따라잡기]FOMC소화한미국증시…빅테크실적·PCE주목",
-  "개보위,'개인정보유출'대교등에과징금38억8500만원부과",
-  "KT에스테이트,춘천도심에'남춘천센트레빌'공급",
-  "엔비디아·AMD,메타에40억달러투자…AI동맹강화",
-  "AI500종골라쓰는KT‘토큰팩토리’내일출시",
-  "[초점]금융권연계서버잇단해킹…3만8490명개인·신용정보유출",
-  "인텔,내일실적발표…데이터센터CPU수요확대·파운드리반등시험...",
   "여권번호까지털렸다…여행플랫폼마이리얼트립개인정보유출",
   "빗썸,사내그룹웨어해킹으로개인정보유출…피해범위파악중",
   "LG유플러스,구룡마을화재대피소에긴급통신망구축",
@@ -6001,7 +5992,16 @@
   "첨단칩밀반입에CEO접촉까지…엔비디아를둘러싼‘中스파이’스...",
   "문자메시지로AI상담부터쇼핑까지...GSMA,'RCS'진화예고",
   "KT엠모바일‘mobi’,편리한eSIM로밍경험으로레드닷수상",
-  "美군기지냉동고도해킹당했나...6곳서일제히'고장'"
+  "美군기지냉동고도해킹당했나...6곳서일제히'고장'",
+  "[통신레이더]통신3사,고객만족총력…품질평가석권부터문화행...",
+  "현대해상,AI기반보험설계지원시스템'Hi-헬퍼'오픈",
+  "산불로탄안동숲에나무1만그루...SKT,급경사지엔AI·드론투입",
+  "SK텔레콤안동산불피해지역복원활동오픈세미나",
+  "KT엠모바일,10월알뜰폰브랜드평판1위...프리티·SK세븐모바일순",
+  "KT,AX플랫폼'토큰팩토리'출시…기념프로모션진행",
+  "엔비디아,네이버에10억달러납입예정…3대주주로합류",
+  "\"AI활용성과우수사례\"가온그룹,LG유플러스우수협력사",
+  "네이버,엔비디아대상1.5조규모유증납입일확정"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,17 @@
   [
    "2026-10-30T09:02:16.376970+09:00",
    "일제히 군기지 고장 6곳서 냉동고도 해킹당했나"
+  ],
+  [
+   "2026-10-30T09:04:15.440166+09:00",
+   "우수사례 우수협력사 활용성과 ~LGU 가온그룹 LG유플러스"
+  ],
+  [
+   "2026-10-30T09:04:15.440166+09:00",
+   "납입일 대상 유증 네이버 확정 5조 규모"
   ]
  ],
- "last_run": "2026-10-30T09:02:42.608441+09:00",
+ "last_run": "2026-10-30T09:04:37.589042+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
