@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706357",
-  "https://www.aitimes.com/news/articleView.html?idxno=216132",
-  "https://www.aitimes.com/news/articleView.html?idxno=216112",
-  "https://www.aitimes.com/news/articleView.html?idxno=216105",
-  "https://www.bbc.com/korean/articles/c6z98g8wjwj7o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.news2day.co.kr/article/20261009500016",
-  "https://zdnet.co.kr/view/?no=20261009073816",
-  "https://www.aitimes.com/news/articleView.html?idxno=216093",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705934",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705810",
   "https://www.aitimes.com/news/articleView.html?idxno=216035",
   "https://www.aitimes.com/news/articleView.html?idxno=216034",
@@ -2999,18 +2990,18 @@
   "https://www.straightnews.co.kr/news/articleView.html?idxno=314314",
   "https://www.seoulfn.com/news/articleView.html?idxno=641522",
   "http://www.newstomato.com/ReadNews.aspx?no=1318714&inflow=N",
-  "https://www.rapportian.com/news/articleView.html?idxno=241865"
+  "https://www.rapportian.com/news/articleView.html?idxno=241865",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6942604",
+  "https://www.dailian.co.kr/news/view/1708940/?sc=Naver",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242586",
+  "https://www.tokenpost.kr/news/ai/430022",
+  "https://biz.sbs.co.kr/article_hub/20000343388?division=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699936",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6862026_36981.html",
+  "http://www.iminju.net/news/articleView.html?idxno=171731",
+  "https://www.mt.co.kr/living/2026/10/30/2026103017001997405"
  ],
  "seen_titles": [
-  "9년늦은테슬라로드스터,공개앞두고커진의문…굳이필요할까?",
-  "엔비디아황CEO,중국AI기업과안전논의촉구",
-  "앤트로픽,3개월만에매출45%늘렸다…AI경쟁속'흑자성장'입증",
-  "오픈AI\"애플이직직원,미공개기기자료100건넘게유출\"주장",
-  "오픈AI핵심인프라총괄교체…사친카티11월퇴임,후임은누구?",
-  "오픈AI,추론감시어려운'루프트랜스포머'적용모델안전확보에전...",
-  "사우디국적직원,오픈AI사무실에'정교한'녹음장치설치혐의로기...",
-  "마이클델“AI안전장치필요”…정부역할도언급",
-  "[10월12일]AI가암을치료해도원리를알아야할까…수학자타오의질문...",
   "미국정부AI규제공백속제3자평가기관급부상...'자금난·독립성'...",
   "\"클로드가의식을가졌다고?\"…앤트로픽'AI신비주의'에맹비난",
   "실리콘밸리거물들은악역?…할리우드,빅테크'정조준'",
@@ -6001,7 +5992,16 @@
   "[종목이보영]삼성SDS,매출성장에도이익은숙제",
   "웹서버넘어NAS까지···PHP보안취약점파장확산",
   "GS건설아파트입주민개인정보유출…\"유출범위조사중\"",
-  "의료기기사이버보안허가·심사가이드라인개정...국제기준반영"
+  "의료기기사이버보안허가·심사가이드라인개정...국제기준반영",
+  "삼성대형호재,원태인-이승민4차전정상출전가능\"몸상태이상없다...",
+  "李대통령“우리시대의아버지”…여야,故최불암한목소리추모등...",
+  "[AI브리프]KOSA,독일AI협회와협력…제조산업·피지컬AI협력확대",
+  "폭스콘신세대AI랙점유율50%목표…출하는칩공급에달려",
+  "'사이버테러'높은가능성...美6곳군기지냉동고동시장애",
+  "국내거래소“바이낸스로출금주의”",
+  "인천공항발권장애‥1천여명'발동동'",
+  "바이낸스9조원대해킹에北연루의혹…\"36시간전부터공격준비\"",
+  "유진이엔티,방미통위에\"YTN인수승인취소절차보류\"요청"
  ],
  "recent_sigs": [
   [
@@ -6513,7 +6513,7 @@
    "수주만 3조 LG전자 블루칩 돌파 데이터센터 냉각 DC 품고"
   ]
  ],
- "last_run": "2026-10-30T17:14:38.950168+09:00",
+ "last_run": "2026-10-30T17:16:34.315367+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
