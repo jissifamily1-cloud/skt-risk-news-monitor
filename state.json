@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2639755",
-  "http://www.newstomato.com/ReadNews.aspx?no=1317898&inflow=N",
-  "https://www.mk.co.kr/article/12185026",
-  "https://www.dt.co.kr/article/12091040",
-  "https://www.ytn.co.kr/_ln/0134_202610250941330307",
-  "https://biz.heraldcorp.com/article/10913707",
   "https://www.dt.co.kr/article/12091005",
   "https://www.yna.co.kr/view/AKR20261025010800009?input=1195m",
   "https://www.ytn.co.kr/_ln/0104_202610250624518040",
@@ -2999,15 +2993,15 @@
   "https://www.hankookilbo.com/news/article/A2026103016350005695?did=NA",
   "https://www.sidae.com/article/2026103016444554860",
   "https://www.donga.com/news/Society/article/all/20261030/134940162/2",
-  "https://www.thelec.kr/news/articleView.html?idxno=64619"
+  "https://www.thelec.kr/news/articleView.html?idxno=64619",
+  "https://www.sportsseoul.com/news/read/1645528",
+  "https://biz.heraldcorp.com/article/10920705",
+  "https://zdnet.co.kr/view/?no=20261030165905",
+  "https://www.joongang.co.kr/article/25474466",
+  "https://www.asiaa.co.kr/news/articleView.html?idxno=268452",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=100320"
  ],
  "seen_titles": [
-  "이재용회장취임4주년…반도체초격차·미래성장밑그림'속도'",
-  "[월가콜]투자의견·목표가상향...골드만·P&G·얼리전(10/23~25)",
-  "백악관“입다물고제품잘만들어야”...AICEO들에커지는불만",
-  "[AI&LAW]오픈AI의총기폭력계정정지,신고는안했는데⋯",
-  "[인터뷰]‘AI3대강국’개정판낸박영선위원장“AI승부처는데이...",
-  "프랑켄슈타인의공포그리고AI사다리걷어차기[데스크칼럼]",
   "[Interview]안나쿠트신경제재단(NEF)수석펠로|“기본소득은시장...",
   "[비즈인사이트]취임4주년이재용,'실적반등'넘어AI·M&A·바이오승...",
   "'근원경쟁력'회복한삼성…AI전환·미래투자속도전",
@@ -6001,17 +5995,15 @@
   "GS건설,아파트커뮤니티예약시스템해킹...입주민개인정보유출",
   "GS건설해킹피해신고…자이아파트입주인개인정보유출",
   "GS건설‘자이커뮤니티’해킹피해…입주민일부정보유출",
-  "오픈AI'코덱스'등인기AI개발도구5종서'보안허점'무더기발견"
+  "오픈AI'코덱스'등인기AI개발도구5종서'보안허점'무더기발견",
+  "“사람못가는급경사지까지”…SKT,AI·드론으로산불피해숲복원",
+  "“AI에수백조쏟아붓더니”…아마존·구글실적에커지는‘거품론’",
+  "국산AI반도체활용법은?…오픈케이클라우드,내달10일데브데이개최",
+  "비드래프트,추론용국산NPU로언어모델사전학습성공",
+  "[A주간서머리]경제·산업계\"삼성전자,사상첫분기영업익100조돌...",
+  "MS\"북한해킹그룹,AI결합해피싱·악성코드대량제작\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-30T11:00:39.920153+09:00",
-   "SK 생각 키우는 근육 갇힌 아이젠 점수에"
-  ],
-  [
-   "2026-10-30T11:00:39.920153+09:00",
-   "입지 곽노정 커졌다 유임 반도체 장자방 최태원의"
-  ],
   [
    "2026-10-30T11:02:17.980953+09:00",
    "이주민돕기 공동캠페인 일일시호일 조계사"
@@ -6529,7 +6521,7 @@
    "개발 허점 인기 보안 코덱스 무더기 도구 발견 5종서"
   ]
  ],
- "last_run": "2026-10-30T17:00:59.859745+09:00",
+ "last_run": "2026-10-30T17:02:33.866309+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
