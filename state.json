@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=2023092173070",
-  "https://www.mt.co.kr/world/2026/10/29/2026102916161587749",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3736697",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1306636",
-  "https://www.seoul.co.kr/news/economy/2026/10/29/20261029500278?wlog_tag3=naver",
-  "http://www.lkp.news/news/articleView.html?idxno=85596",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=667225",
   "http://www.metroseoul.co.kr/article/20261029500600",
   "https://www.econovill.com/news/articleView.html?idxno=755363",
@@ -2999,15 +2993,15 @@
   "https://www.insnews.co.kr/news/articleView.html?idxno=93603",
   "https://www.aitimes.kr/news/articleView.html?idxno=42503",
   "https://www.chosun.com/economy/tech_it/2026/10/29/UZ3XQJZAMNCAJM6MAZORCAH5A4/",
-  "https://biz.sbs.co.kr/article_hub/20000343263?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000343263?division=NAVER",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=133598",
+  "https://news.ifm.kr/news/articleView.html?idxno=483034",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=210596",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172758",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=283607",
+  "https://kpenews.com/View.aspx?No=4290109"
  ],
  "seen_titles": [
-  "KT고객센터,AI가월120만건상담···처리시간11%줄였다",
-  "빗썸,사내망이라더니해킹으로고객정보까지유출",
-  "마벨,'엔비디아투자'루멘텀인수막바지…AI인프라빅딜나올까",
-  "LGU+,‘온디바이스AI’기술력강화…“속도높이고전력소모줄였다...",
-  "빗썸,직원이어고객정보도유출",
-  "금융권'2025ESG임팩트보고서'발간·금융보안원과모의해킹경진대회...",
   "SK스퀘어,티맵모빌리티경영권8천억원대매각추진...AI·반도체투자...",
   "빗썸해킹,임직원정보만털린줄알았더니…고객정보도수백건유출",
   "빗썸,사내시스템해킹에고객정보유출…금융권침해사고확산",
@@ -6001,7 +5995,13 @@
   "현대해상,AI로가입가능상품추리고맞춤설계안제안",
   "의료AI판단오류줄인다…앤테리어,임상기준검증가능한규칙으로...",
   "PHP해킹우려현실로…이스라엘보안기업“美정부관련기관내부망...",
-  "美기술주급락에코스피5600선하락…'삼전닉스'5~8%↓"
+  "美기술주급락에코스피5600선하락…'삼전닉스'5~8%↓",
+  "LGCNS,3분기영업이익1천382억원기록…전년比15%↑'실적개선'",
+  "[빗썸보안민낯①]고객정보가왜사내그룹웨어에서유출됐나...빗썸...",
+  "SK텔레콤·유한킴벌리,안동산림복원작업진행",
+  "현대차그룹,새만금AI밸리'속도'...장중현대차주가는'추락'",
+  "[통신픽]KT,'토큰팩토리'출시…AI모델7종30%할인",
+  "네이버지분구도바꾸는엔비디아..AI인프라동맹에1조원대베팅"
  ],
  "recent_sigs": [
   [
@@ -6807,9 +6807,13 @@
   [
    "2026-10-30T11:36:15.301900+09:00",
    "난색 논란에 통신자료 반복 개인정보 통신업계 요구 정치권"
+  ],
+  [
+   "2026-10-30T11:40:25.071688+09:00",
+   "1조원대 네이버 인프라 바꾸는 동맹에 지분구도 베팅"
   ]
  ],
- "last_run": "2026-10-30T11:38:32.343030+09:00",
+ "last_run": "2026-10-30T11:40:46.122754+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
