@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngetnews.com/news/articleView.html?idxno=555123",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=361335",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=282761",
-  "https://www.newspost.kr/news/articleView.html?idxno=226743",
-  "https://www.news2day.co.kr/article/20261027500133",
-  "http://www.newsbrite.net/news/articleView.html?idxno=201139",
-  "https://www.hankyung.com/article/202610277247H",
-  "https://www.joongangenews.com/news/articleView.html?idxno=558585",
-  "https://biz.chosun.com/topics/law_firm/2026/10/26/7PE7LRP2TJGDZFEFYL2HIDMAUQ/",
   "https://economychosun.com/site/data/html_dir/2026/10/17/2026101700001.html",
   "https://www.dynews.co.kr/news/articleView.html?idxno=870820",
   "https://www.inews365.com/news/article.html?no=940597",
@@ -2999,18 +2990,18 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3737791",
   "https://www.tokenpost.kr/news/blockchain/429975",
   "https://www.kado.net/news/articleView.html?idxno=2081647",
-  "https://www.yna.co.kr/view/AKR20261030022453009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261030022453009?input=1195m",
+  "https://biz.heraldcorp.com/article/10920778",
+  "https://www.joongangenews.com/news/articleView.html?idxno=559884",
+  "http://www.joseilbo.com/news/news_read.php?uid=578571&class=17",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247038",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711374",
+  "https://www.seoul.co.kr/news/economy/2026/10/30/20261030500262?wlog_tag3=naver",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=124158",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=324347",
+  "https://www.ajunews.com/view/20261013075132128"
  ],
  "seen_titles": [
-  "최태원-노소영재산분할재상고심주심김성수…심리개시",
-  "[뉴스앤데이터]대기업오너일가주식취득7조원넘어…삼성이재용...",
-  "이재용회장,삼성주식5조취득...홍라희여사8조처분",
-  "이재용,올해삼성주식5조원취득…홍라희는8조원처분",
-  "[이슈+]이재용,올해주식순취득4.9조…LS구자열세살배기손자,145...",
-  "이재용,삼성주식5조‘취득’-홍라희,8조‘처분’…“LS,세살배...",
-  "법무부“노태우일가은닉자금수사진행중…자금형성명확히규명...",
-  "노태우일가'은닉비자금'수사속도…공소청\"자금원천추적중\"",
-  "이진수법무대행\"노태우일가비자금수사진행···자금원천추적중...",
   "이진수법무장관대행\"노태우비자금의혹수사중...재단자금원천추...",
   "이진수\"노태우일가비자금의혹,수사진행중…자금원천추적\"",
   "노태우일가비자금수사어디까지…법무장관대행\"자금원천추적\"",
@@ -6001,7 +5992,16 @@
   "iM금융그룹,MZ세대공략웹예능대히트...'iM타운'130만·820만·330만뷰...",
   "바이낸스해커,RLUSD4275만개송금실패…8초뒤XRP이체",
   "언론사머니투데이도해킹피해…개인정보1367건유출확인",
-  "바이낸스,8.4조원해킹피해추정…TRM랩스\"북한배후\"(종합3보)"
+  "바이낸스,8.4조원해킹피해추정…TRM랩스\"북한배후\"(종합3보)",
+  "도쿄서K콘텐츠수출전…영화·드라마넘어AI영상까지",
+  "한미반도체,3분기영업이익률50.2%돌파…HBM장비로'수익성압도'",
+  "기아,3분기영업익늘었지만…\"연간수익성목표미달예상\"",
+  "바이낸스8조5000억탈취배후로'북한'지목",
+  "북한라자루스,한국기업노리고AI까지썼다…양자내성암호로악성코...",
+  "충남도,삼성등202조투자‘광속행정’지원",
+  "바이낸스,8.4조규모해킹당했다...\"이용자손실전액보전\"",
+  "[AI해킹시대-하]공격은초단위,방어는실시간…AI보안관제진화",
+  "[기자의눈]급변한방송시장,낡은규제는그대로"
  ],
  "recent_sigs": [
   [
@@ -6571,9 +6571,17 @@
   [
    "2026-10-30T15:44:14.676333+09:00",
    "영국 공격했나 한국 기업도 금융권 해킹범"
+  ],
+  [
+   "2026-10-30T15:48:15.591378+09:00",
+   "방어는 단위 보안관제 실시간 공격은 진화"
+  ],
+  [
+   "2026-10-30T15:48:15.591378+09:00",
+   "급변한 방송시장 그대로 낡은 규제는"
   ]
  ],
- "last_run": "2026-10-30T15:46:31.081832+09:00",
+ "last_run": "2026-10-30T15:48:38.413722+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
