@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ibabynews.com/news/articleView.html?idxno=156197",
-  "https://www.newspim.com/news/view/20261026000404",
-  "https://www.thepublic.kr/news/articleView.html?idxno=323694",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116413",
-  "https://www.dailian.co.kr/news/view/1706081/?sc=Naver",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94563",
-  "https://www.ngonews.kr/news/articleView.html?idxno=241459",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729110",
   "http://www.techholic.co.kr/news/articleView.html?idxno=223389",
   "https://www.edaily.co.kr/News/Read?newsId=02564966645616856&mediaCodeNo=257",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=303398",
@@ -2999,17 +2991,17 @@
   "https://biz.chosun.com/it-science/ict/2026/10/30/XJB3TNIZZNGQTIMPEXHXJEFBCM/",
   "https://www.widedaily.com/news/articleView.html?idxno=302591",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=878222",
-  "https://www.fnnews.com/news/202610301518315705"
+  "https://www.fnnews.com/news/202610301518315705",
+  "http://www.osen.co.kr/article/G1112901145",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260423",
+  "https://www.news1.kr/industry/general-industry/6337968",
+  "https://www.seoul.co.kr/news/economy/industry/2026/10/30/20261030500250?wlog_tag3=naver",
+  "https://economist.co.kr/article/view/ecn202610300031",
+  "https://view.asiae.co.kr/article/2026102902434888524",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=7884",
+  "https://www.hankyung.com/article/2026103063567"
  ],
  "seen_titles": [
-  "농협은행,4년간특별시정살림책임진다",
-  "에스엘즈,건설AI솔루션‘BuildAR2.0’조달청혁신제품지정…공공...",
-  "SKT,AI시대안전·신뢰확보‘거버넌스리포트’첫발간",
-  "SK텔레콤,첫AI거버넌스보고서발간…사내AI에이전트관리체계공개",
-  "“AI시대엔안전과신뢰필수”SK텔레콤,AI거버넌스리포트첫발간",
-  "[게시판]원티드랩,FDE채용박람회에마키나락스·베슬AI참여등단신",
-  "정재헌SKT대표\"AI혁신만큼책임도중요\"",
-  "SKT,‘AI트러스트경영’강화…'AI거버넌스리포트'발간",
   "SKTVs.KT,AI토큰시장주도권경쟁'본격화'",
   "[단독]SK텔레콤,직원10명중1명꼴재배치……AI성장동력힘싣나",
   "에스엘즈,'BuildAR2.0'조달청혁신제품지정",
@@ -6001,25 +5993,17 @@
   "북한해킹조직,AI로사이버공격고도화…한국겨냥피싱문서대량제...",
   "글로벌1위바이낸스8.4조해킹철퇴…국내가상자산시장도'출금경보...",
   "웰링턴,KT지분잇단축소…7.59%로낮아져",
-  "바이낸스60억달러해킹...배후에北해커집단의심-CNN"
+  "바이낸스60억달러해킹...배후에北해커집단의심-CNN",
+  "'아노락자켓첫선'KBO,2026한국시리즈기념한정판상품출시…30일...",
+  "[월가의AI봉쇄]㊦韓은행보안던전열어보니···검증0건,위험관...",
+  "한미반도체,SK하이닉스로부터감사패받아…HBM기술혁신공로",
+  "기업데이터보관소도해킹사각지대…내부망PHP장비96%취약점노출",
+  "바이낸스대규모해킹피해의혹에업비트·빗썸출금주의안내",
+  "[이주의책]나쁜남자의기원外",
+  "[비즈인사이트]엔비디아,네이버에1조3천억쏜다…90억달러AI인프라...",
+  "美보안업체\"北해킹조직,8조5000억규모가상자산탈취\""
  ],
  "recent_sigs": [
-  [
-   "2026-10-30T09:32:15.775084+09:00",
-   "~SKT 드론 띄워 살린다 안동에 산불 유한킴벌리 잿더미"
-  ],
-  [
-   "2026-10-30T09:32:15.775084+09:00",
-   "주목 반도체 500선 주주환원 NH투자 코스피"
-  ],
-  [
-   "2026-10-30T09:32:15.775084+09:00",
-   "제조 데이터 KT와 ~KT 파고든다 동맹 한국 HD현대 현장 팔란티어"
-  ],
-  [
-   "2026-10-30T09:32:15.775084+09:00",
-   "급락 해킹설까지 금리 공포에 비트코인"
-  ],
   [
    "2026-10-30T09:34:15.576014+09:00",
    "네이버 달러 투자 다음달 주주된다 10억"
@@ -6591,9 +6575,21 @@
   [
    "2026-10-30T15:30:33.816023+09:00",
    "배후에 해커 바이낸스 60억달러 의심 CNN 집단"
+  ],
+  [
+   "2026-10-30T15:32:18.319192+09:00",
+   "남자의 기원 나쁜"
+  ],
+  [
+   "2026-10-30T15:32:18.319192+09:00",
+   "네이버에 1조3천억 90억달러 인프라 쏜다"
+  ],
+  [
+   "2026-10-30T15:32:18.319192+09:00",
+   "규모 가상자산 8조5000억 해킹조직 보안업체 탈취"
   ]
  ],
- "last_run": "2026-10-30T15:30:57.985224+09:00",
+ "last_run": "2026-10-30T15:32:42.127817+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
