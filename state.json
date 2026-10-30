@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2020769",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94684",
-  "http://www.yonhapnewstv.co.kr/news/AKR2026103010262656f",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499989",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3737334",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3737327",
-  "https://www.edaily.co.kr/News/Read?newsId=03667046645618168&mediaCodeNo=257",
-  "https://www.news1.kr/local/busan-gyeongnam/6337534",
-  "https://www.yna.co.kr/view/AKR20261030066300017?input=1195m",
-  "https://www.newsis.com/view/NISX20261030_0003847983",
-  "https://www.viva100.com/article/20261030500290",
   "https://www.hankyung.com/article/202610292542i",
   "https://www.sisaweek.com/news/articleView.html?idxno=238683",
   "https://www.smarttoday.co.kr/ko-kr/articles/113302",
@@ -2999,20 +2988,20 @@
   "https://www.sedaily.com/article/20108519",
   "https://www.dailian.co.kr/news/view/1708806/?sc=Naver",
   "https://it.chosun.com/news/articleView.html?idxno=2023092173215",
-  "https://www.news1.kr/finance/blockchain-fintech/6338227"
+  "https://www.news1.kr/finance/blockchain-fintech/6338227",
+  "https://m.sports.naver.com/basketball/article/065/0000303701",
+  "https://www.etoday.co.kr/news/view/2642046",
+  "https://www.sentv.co.kr/article/view/sentv202610300027",
+  "https://www.viva100.com/article/20261025500586",
+  "https://zdnet.co.kr/view/?no=20261030094409",
+  "https://www.wikitree.co.kr/articles/1170643",
+  "https://www.newspim.com/news/view/20261027000690",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700416",
+  "https://www.segye.com/newsView/20261030512445?OutUrl=naver",
+  "https://www.sentv.co.kr/article/view/sentv202610300063",
+  "https://www.sentv.co.kr/article/view/sentv202610300002"
  ],
  "seen_titles": [
-  "대구광역시,군장병대상신종범죄대응특강...'맞춤형법률교육확대...",
-  "넥센타이어,창녕군에800만원상당타이어기탁…복지시설차량17대교...",
-  "트릴리온랩스,자사모델기반해커톤개최…AI에이전트·OCR최적화겨룬...",
-  "회장님제안으로출발해1등앱된티맵…SK가손절나선배경은",
-  "나무가,카메라·고정형라이다결합'하이브리드센서'개발",
-  "포티투닷에1조2205억넣는현대차…매출보다손실이12배큰데도투자...",
-  "[2026국감]AI위험제보4건중3건'무응답'…사업자개선조치도불투...",
-  "[상생경영]SKT,안동산불피해지복원노력'결실'",
-  "SK텔레콤,안동산불피해복원에AI·드론활용…1만그루식재",
-  "KT\"토큰팩토리출시기념AI모델이용료30%할인\"",
-  "네이버,90억달러AI인프라확보충족...美엔비디아10억달러내달6일...",
   "中AI반도체,엔비디아H200성능추월주장…독립검증은미완료",
   "브룩스브라더스,도쿄서찾은빈티지4종현대적으로재현",
   "창녕군장애인복지관,부산서1박2일캠프…100여명참여",
@@ -6001,7 +5990,18 @@
   "“전력없인AI·반도체도없다”…삼성·SK,에너지관료잇단영입[biz...",
   "취임4주년로봇챙긴이재용·서울대강단서는최태원·인도협력정기...",
   "해킹잇따르는데…KISA는원장해임후폭풍",
-  "해킹에도96%뛴이니시아…매도물량제한영향?[코인현미경]"
+  "해킹에도96%뛴이니시아…매도물량제한영향?[코인현미경]",
+  "‘함께한시간은짧아도’소노가기억한홍경기·김영훈의마지막",
+  "초고령사회에달라지는주거선택⋯대형병원인접'의세권'주목",
+  "[기획]프랜차이즈소송잇따르는데…분쟁부르는비용구조",
+  "[비바100]도구에깃든욕망,역사의발자취바꾸다",
+  "[AI는지금]\"결정은사람이,맥락은AI가\"…오픈AI,행동지침개편",
+  "\"북한짓확실\"미국FBI·비밀경호국,공식수사착수",
+  "개인정보유출제재강화에도해킹범죄검거저조…대응역량과제",
+  "애플,엔비디아꺾고시총1위탈환…7월이후석달만",
+  "바이낸스8조원증발…역대최대해킹에비트코인급락[코인브리핑]",
+  "은행서증권·보험까지…AI해킹에한달새금융사20곳'구멍'",
+  "[기획]구글·애플인앱결제‘637억철퇴’…게임업계수수료부담줄..."
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,17 @@
   [
    "2026-10-31T07:02:14.911433+09:00",
    "물량 이니시아 제한 영향 해킹에도 매도"
+  ],
+  [
+   "2026-10-31T07:04:16.601461+09:00",
+   "은행서 20곳 증권 보험까지 금융사 구멍 해킹에"
+  ],
+  [
+   "2026-10-31T07:04:16.601461+09:00",
+   "637억 수수료 게임업계 철퇴 부담 구글 애플 인앱결제"
   ]
  ],
- "last_run": "2026-10-31T07:02:45.586180+09:00",
+ "last_run": "2026-10-31T07:04:37.033363+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
