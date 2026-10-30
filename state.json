@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://thetracker.co.kr/View.aspx?No=4289137",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209170",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=767151",
-  "https://www.sedaily.com/article/20107914",
-  "https://www.huffingtonpost.kr/article/261660",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=7837",
   "https://www.sidae.com/article/2026102916592157784",
   "https://www.busan.com/view/busan/view.php?code=2026102917163006144",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=51050",
@@ -2999,15 +2993,15 @@
   "http://www.smedaily.co.kr/news/articleView.html?idxno=365450",
   "https://biz.heraldcorp.com/article/10920468",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699756",
-  "https://www.newsis.com/view/NISX20261030_0003848002"
+  "https://www.newsis.com/view/NISX20261030_0003848002",
+  "https://kr.aving.net/news/articleView.html?idxno=1816429",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88576",
+  "https://biz.sbs.co.kr/article_hub/20000343266?division=NAVER",
+  "https://it.chosun.com/news/articleView.html?idxno=2023092173070",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94694",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699765"
  ],
  "seen_titles": [
-  "[기자수첩]개인정보유출에익숙해진사회",
-  "빗썸,해킹사고로직원외고객정보도유출",
-  "인텔·SAP,창고자율로봇에'피지컬AI'입힌다",
-  "[컨콜종합]삼성SDS\"AI투자,성과로증명\"…내년IT서비스두자릿수...",
-  "삼성SDS,클라우드·물류쌍끌이…내년'영업이익1조'겨냥",
-  "빗썸,고객정보수백건유출...가상자산업계보안비상",
   "최태원SK회장,내달5일서울대서'AI시대경제·인재상'특강",
   "LG유플러스,구룡마을화재이재민지원…구호물품·통신서비스제공",
   "빗썸해킹여파:고객개인정보유출파문,가상자산보안비상",
@@ -6001,7 +5995,13 @@
   "NAS조준'PHP'보안취약점비상",
   "엔비디아네이버3대주주로",
   "바이낸스해킹피해설…일각서“7조원상당유출”",
-  "\"우리회사도뚫릴라\"…잇단해킹사고에대기업들'긴장'"
+  "\"우리회사도뚫릴라\"…잇단해킹사고에대기업들'긴장'",
+  "피지컬AI부터산업AX까지…최신AIoT기술과산업혁신의미래를한자...",
+  "한화자산운용'PLUS200커버드콜액티브',4개월연속분배금전액비과세",
+  "'기프티콘'받았는데내정보도?…SK플래닛도털렸다",
+  "구글·애플제재에5년…개발사피해구제는뒷전",
+  "SKT·LGU+,5G속도경쟁넘어'통신품질판매'나선다",
+  "프라뱅서유출된1억,이더리움등거래소3번거쳐출금…“해킹으로..."
  ],
  "recent_sigs": [
   [
@@ -6819,9 +6819,17 @@
   [
    "2026-10-30T11:42:15.037613+09:00",
    "사고에 대기업들 우리 긴장 뚫릴라 회사도 잇단"
+  ],
+  [
+   "2026-10-30T11:44:14.570818+09:00",
+   "피지컬 한자 AIoT 기술과 산업 최신 AX까지 AI부터 혁신의 미래를"
+  ],
+  [
+   "2026-10-30T11:44:14.570818+09:00",
+   "해킹으로 거래소 유출된 이더리움 프라뱅서 출금 3번 거쳐 1억"
   ]
  ],
- "last_run": "2026-10-30T11:42:39.605706+09:00",
+ "last_run": "2026-10-30T11:44:35.315280+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
