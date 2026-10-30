@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://view.asiae.co.kr/article/2026102913311497984",
-  "https://www.nocutnews.co.kr/news/6599143",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160283487485714",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=125433",
   "https://www.techm.kr/news/articleView.html?idxno=156653",
   "http://coinreaders.com/266020",
   "https://m.skyedaily.com/news_view.html?ID=313768",
@@ -2999,13 +2995,13 @@
   "https://www.pointe.co.kr/news/articleView.html?idxno=86880",
   "https://www.g-enews.com/view.php?ud=2026103009191092599a1f309431_1",
   "https://www.joongangenews.com/news/articleView.html?idxno=559828",
-  "https://www.thepublic.kr/news/articleView.html?idxno=324392"
+  "https://www.thepublic.kr/news/articleView.html?idxno=324392",
+  "https://www.sedaily.com/article/20106359",
+  "https://magazine.hankyung.com/business/article/202610305299b",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000078057",
+  "https://www.widedaily.com/news/articleView.html?idxno=302501"
  ],
  "seen_titles": [
-  "기술·비밀작전까지털렸다…美국토안보부4만명신상유출",
-  "SK텔레콤·쿠팡개인정보소송·분쟁조정,어떻게진행되고있나",
-  "[단독]신한은행해킹피해자29명소송전돌입…추가손배소예고",
-  "AI기술발전으로낮아진해킹문턱,다층적범죄비상한대응책마련서...",
   "삼성SDS,3분기영업이익2410억원…클라우드·물류성장견인",
   "[테크M피플]남궁훈의AI메신저'뚝심'통했다...200억원투자유치로...",
   "AI패권,2030년이면중국이장악?...블룸버그\"가격경쟁력으로미국추...",
@@ -6001,7 +5997,11 @@
   "SKT,AI·드론기술로안동산불피해지역산림복원",
   "엔비디아,앤스로픽AI데이터센터에수십억달러보증추진",
   "SK그룹,2027년사장단인사단행…장용호유임·정승일SK이노베이션C...",
-  "장애처리부터상담지원까지…KT,AI상담어시스트로고객센터효율..."
+  "장애처리부터상담지원까지…KT,AI상담어시스트로고객센터효율...",
+  "물탱크·광고판까지스페이스X기지국…통신인프라지형바꾼다",
+  "최태원,안정속쇄신택했다…SK,에너지·글로벌경영진재편",
+  "엔비디아,네이버에1조원대투자…3대주주된다",
+  "\"로그인없이53분만에서버장악\"…AI가짠해킹코드,리눅스뚫었다"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,13 @@
   [
    "2026-10-30T09:26:14.681501+09:00",
    "보증 데이터센터에 수십억달러"
+  ],
+  [
+   "2026-10-30T09:28:17.147105+09:00",
+   "코드 서버 AI가 로그인 리눅스 장악 뚫었다 53분 만에 없이"
   ]
  ],
- "last_run": "2026-10-30T09:26:43.802841+09:00",
+ "last_run": "2026-10-30T09:28:38.411933+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
