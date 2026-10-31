@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/579879",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=878160",
-  "https://www.tokenpost.kr/news/breaking/429930",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300102&t=NN",
   "https://www.tokenpost.kr/news/ai/429933",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=314283",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=901440",
@@ -2999,13 +2995,13 @@
   "https://www.topdaily.kr/articles/112604",
   "http://www.paxetv.com/news/articleView.html?idxno=285762",
   "https://www.busan.com/view/busan/view.php?code=2026103115195283784",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442322"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442322",
+  "https://www.segye.com/newsView/20261031505043?OutUrl=naver",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261031.99099009210",
+  "https://www.mediapen.com/news/view/1134118",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=283776"
  ],
  "seen_titles": [
-  "빗썸,고객6444명·임직원715명정보유출",
-  "앤스로픽상장신청으로국내AI기업상장에도관심...실적은부담",
-  "금융차세대시장지킨LGCNS,3Q영업익전년比15%↑",
-  "시흥시,BIX2026참가…AI·바이오클러스터투자유치나서",
   "쿠팡\"고객피해\"vs개보위\"나눠내라\"…6200억과징금법정공방",
   "SKT·유한킴벌리,안동에‘평화의숲’조성...AI로생육상태추적",
   "AI격변기,사라지는기업과살아남는기업은?",
@@ -6001,7 +5997,11 @@
   "SK사장단인사서정재헌·김성수유임…향후과제는",
   "삼성,샘올트먼과AI미래전략논의…전사적AX추진가속",
   "바이낸스사상최대가상화폐해킹,미FBI수사…전문가들,북한해커조...",
-  "트럼프,바이낸스해킹北배후설에\"살펴보는중\""
+  "트럼프,바이낸스해킹北배후설에\"살펴보는중\"",
+  "우주에서날아온첫하이쿠…구글,우주데이터센터시험성과",
+  "삼성사장단50여명,샘올트먼과AI미래전략논의",
+  "북한'코인도둑질'로18조원탈취추정…올해해킹피해89%연루",
+  "YTN지분승인취소갈림길…유진이엔티\"법원판결후진행해야\""
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,13 @@
   [
    "2026-10-31T15:16:16.547622+09:00",
    "discuss strategy meet Altman to executives Samsung"
+  ],
+  [
+   "2026-10-31T15:34:14.683526+09:00",
+   "지분 취소 승인 YTN 진행해야 법원 유진이엔티 갈림길 판결"
   ]
  ],
- "last_run": "2026-10-31T15:32:36.189446+09:00",
+ "last_run": "2026-10-31T15:34:36.608873+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
