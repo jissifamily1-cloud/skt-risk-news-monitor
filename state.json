@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279864&CMPT_CD=P0010",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=365437",
   "https://biz.chosun.com/stock/finance/2026/10/30/4DU63NZ4GNGORNMQBWGWMSHJFQ/",
   "https://www.mediapen.com/news/view/1133826",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711296",
@@ -2999,11 +2997,11 @@
   "https://sports.donga.com/region/article/all/20261031/134942321/1",
   "https://biz.heraldcorp.com/article/10921185",
   "https://www.edaily.co.kr/News/Read?newsId=01879446645618496&mediaCodeNo=257",
-  "https://www.thescoop.co.kr/news/articleView.html?idxno=312125"
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=312125",
+  "http://coinreaders.com/266553",
+  "https://www.tokenpost.kr/news/cryptocurrency/430482"
  ],
  "seen_titles": [
-  "SK텔레콤,AI·드론활용해안동산불피해지복원…나무1만그루심어",
-  "최태원회장,SK사장단인사방점은…기술·글로벌·리밸런싱마무리",
   "알츠하이머앓는엄마와딸이야기,전세계를울렸다",
   "엔비디아네이버3대주주된다",
   "바이낸스도7조원대해킹피해의혹…이용자출금일시중단",
@@ -6001,7 +5999,9 @@
   "고양시,AI반도체기업과손잡고‘글로벌AI허브조성’본격화",
   "“AI투자,언제돈되나”…월가‘냉정한평가’에美증시‘급락’...",
   "AI투자우려에…애플,엔비디아제치고시총1위",
-  "알파벳에흔들린삼전닉스…이번엔'인텔쇼크'덮치나[주간증시해설..."
+  "알파벳에흔들린삼전닉스…이번엔'인텔쇼크'덮치나[주간증시해설...",
+  "\"위험신호감지되면챗봇이먼저방뺀다\"…오픈AI'대화강제종료'...",
+  "바이낸스해킹피해40%동결주장…남은자금회수는추적·사법공조에..."
  ],
  "recent_sigs": [
   [
@@ -6367,9 +6367,17 @@
   [
    "2026-10-31T09:54:14.959258+09:00",
    "덮치나 주간 증시해설 이번엔 알파벳에 쇼크 삼전닉스 인텔 흔들린"
+  ],
+  [
+   "2026-10-31T09:56:52.992394+09:00",
+   "대화 신호 강제 종료 챗봇이 뺀다 위험 먼저 감지되면"
+  ],
+  [
+   "2026-10-31T09:56:52.992394+09:00",
+   "사법 동결 공조에 추적 피해 바이낸스 자금 주장 남은 회수는"
   ]
  ],
- "last_run": "2026-10-31T09:54:36.278220+09:00",
+ "last_run": "2026-10-31T09:57:13.719355+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
