@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700102",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3738105",
-  "https://www.etnews.com/20261030000358",
-  "https://www.hani.co.kr/arti/economy/economy_general/1285099.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700104",
-  "https://www.newspim.com/news/view/20261030001344",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700106",
   "https://news.tvchosun.com/site/data/html_dir/2026/10/30/2026103090275.html",
   "https://isplus.com/article/view/isp202610300112",
@@ -2999,15 +2993,15 @@
   "https://www.mt.co.kr/world/2026/11/01/2026110107554581881",
   "https://www.donga.com/news/Inter/article/all/20261101/134943039/1",
   "https://www.youthdaily.co.kr/news/article.html?no=229171",
-  "https://biz.heraldcorp.com/article/10921477"
+  "https://biz.heraldcorp.com/article/10921477",
+  "https://www.kbsm.net/news/view.php?idx=539833",
+  "https://www.munhwa.com/article/11627780",
+  "https://www.hankyung.com/article/2026110178927",
+  "https://biz.heraldcorp.com/article/10921478",
+  "https://www.sidae.com/article/2026110108100835686",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500269"
  ],
  "seen_titles": [
-  "가짜클로드코드확장이커서에서11시간퍼졌다…최대5,000명SSH백도...",
-  "네이버,엔비디아10억달러투자납입일확정…AI팩토리자금조달본궤...",
-  "영업益100조‘삼성전자’,엔비디아·MS실적추월…시총은여전히저...",
-  "‘꼴찌의반란’삼성,소노꺾고KBL사상첫개막9연승신기록",
-  "바이낸스,8조4000억원규모해킹사고발생",
-  "MS보고서\"북한해킹조직,AI로한국겨냥피싱문서대량제작\"",
   "문경새재공공와이파이2배확대…관광객인터넷환경개선",
   "바이낸스8조4천억원해킹피해…“북한이배후”",
   "[단독]“돈안보내면성형사진공개”…강남성형외과개인정보유출",
@@ -6001,7 +5995,13 @@
   "\"40조원모으려다굴욕\"…오픈AI펀딩난항에AI거품론급부상",
   "美FBI“바이낸스8조원대해킹배후는北…이더리움전환등자금세탁...",
   "\"바이낸스8조원탈취주범은북한\"...FBI,첫공식지목",
-  "美FBI“바이낸스8조원대해킹,북한소행”[크립토360]"
+  "美FBI“바이낸스8조원대해킹,북한소행”[크립토360]",
+  "DGIST연구팀,세계반도체보안대회서준우승",
+  "[이슈]“월요일이두렵다”하루29%급락인텔패닉",
+  "\"젠슨황도푹빠졌다\"…해외서불티난52년된'뚱바'",
+  "북한해킹조직,바이낸스서20분새8조원탈취…피해90%보전[크립토...",
+  "FBI\"'8조도난'바이낸스해킹사건,북한에책임있어\"",
+  "SK하이닉스,내년영업이익474조원전망…메모리슈퍼사이클더길어진..."
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,17 @@
   [
    "2026-11-01T08:12:17.443534+09:00",
    "자금세탁 배후는 FBI 바이낸스 이더리움 8조원대"
+  ],
+  [
+   "2026-11-01T08:16:16.692115+09:00",
+   "뚱바 52년 해외서 빠졌다 불티난 황도 젠슨"
+  ],
+  [
+   "2026-11-01T08:16:16.692115+09:00",
+   "SK하이닉스 슈퍼사이클 길어진 474조원 메모리 전망 영업이익 내년"
   ]
  ],
- "last_run": "2026-11-01T08:14:36.527135+09:00",
+ "last_run": "2026-11-01T08:16:36.838059+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
