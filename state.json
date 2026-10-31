@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261030058600013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261030058300013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261030058500013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261030058200013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261030058400013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261030057900013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261030058000013?input=1196m",
@@ -2999,13 +2995,13 @@
   "https://www.tokenpost.kr/news/cryptocurrency/430460",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=324384",
   "https://www.newsis.com/view/NISX20261027_0003842966",
-  "https://www.hankyung.com/article/202610317174i"
+  "https://www.hankyung.com/article/202610317174i",
+  "https://www.hani.co.kr/arti/sports/baseball/1285117.html",
+  "https://www.newsis.com/view/NISX20261030_0003848856",
+  "https://news.jtbc.co.kr/article/NB12325788?influxDiv=NAVER",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16264389"
  ],
  "seen_titles": [
-  "트릴리온랩스,AI해커톤연다…오픈소스모델활용2개트랙진행",
-  "[컨콜]LGCNS\"로봇실증,실제수주로…구독형사업확대\"",
-  "LGCNS,3분기매출1조6643억...AI·금융이성장이끌었다",
-  "SKT,안동산불피해지에AI·드론투입…나무1만그루심어",
   "KT,'토큰팩토리'선보이며AI모델이용료파격할인...이용자주목",
   "엔비디아,네이버3대주주된다···다음달6일1.3조유상증자납입",
   "최태원의'반도체장자방'곽노정유임…그룹내입지더커졌다",
@@ -6001,7 +5997,11 @@
   "바이낸스63억달러해킹…비트코인위기와구분해야하는이유",
   "오픈월드·MMORPG·서브컬처…위메이드맥스,장르별공략강화",
   "테슬라·스페이스X합병추진…머스크의진짜노림수와최대걸림돌",
-  "\"협력사대표무릎꿇리겠다\"던애플이후…LTA가새로운시대열까[박한..."
+  "\"협력사대표무릎꿇리겠다\"던애플이후…LTA가새로운시대열까[박한...",
+  "후라도vs올러벼랑끝맞대결…KT상대팀은어디?",
+  "'주최자없는'행사도관리…국민생명'국가책임'강화[인파안전진단...",
+  "트럼프,8조원대바이낸스해킹에\"북한소행인지아직모른다\"",
+  "바이낸스해킹충격에도코인거래25%↑…리플XRP1%상승"
  ],
  "recent_sigs": [
   [
@@ -6333,7 +6333,7 @@
    "새로운 무릎 열까 애플 대표 꿇리겠다 이후 LTA가 협력사 박한 시대"
   ]
  ],
- "last_run": "2026-10-31T09:02:35.357066+09:00",
+ "last_run": "2026-10-31T09:04:31.644773+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
