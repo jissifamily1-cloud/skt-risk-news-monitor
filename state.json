@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=622042",
-  "https://news.bizwatch.co.kr/article/real_estate/2026/10/30/0020",
   "https://www.kyosu.net/news/articleView.html?idxno=211837",
   "http://www.atstar1.com/news/articleView.html?idxno=6040169",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699835",
@@ -2999,11 +2997,11 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261031132719LUi",
   "https://www.etnews.com/20261031000025",
   "https://www.mt.co.kr/world/2026/10/31/2026103111480612971",
-  "https://zdnet.co.kr/view/?no=20261029174207"
+  "https://zdnet.co.kr/view/?no=20261029174207",
+  "https://www.news1.kr/finance/blockchain-fintech/6338597",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261031133508DX9"
  ],
  "seen_titles": [
-  "AI해킹에속도맞춘공급망보안…시큐리티스코어카드가제시하는'타...",
-  "'개인정보수천만건털렸는데'…피해구제왜이리더딘가",
   "KT알파쇼핑,11월인기상품11종선정…적립금·경품행사진행",
   "토목적자아팠던GS건설,'자이'만믿는다",
   "실무에바로쓰는일잘러의GPT-6아스트라활용법",
@@ -6001,7 +5999,9 @@
   "'8.4조원해킹'바이낸스\"북소행\"…미,수사착수",
   "뉴욕증시,AI투자우려에일제히하락…인텔28%급락",
   "AI거품론속'안전자산'된애플…엔비디아제치고시총1위탈환",
-  "\"AI에일통째로맡기면역량도못키운다”"
+  "\"AI에일통째로맡기면역량도못키운다”",
+  "바이낸스,8.4조해킹피해전액보상…다음달2일준비금증명공개",
+  "美FBI·비밀경호국,바이낸스해킹수사착수"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,13 @@
   [
    "2026-10-31T13:34:18.506816+09:00",
    "제치고 시총 거품론 안전자산 탈환 1위 애플"
+  ],
+  [
+   "2026-10-31T13:38:17.837294+09:00",
+   "바이낸스 착수 비밀경호국 FBI 수사"
   ]
  ],
- "last_run": "2026-10-31T13:36:37.553580+09:00",
+ "last_run": "2026-10-31T13:38:36.183834+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
