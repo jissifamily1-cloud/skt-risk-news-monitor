@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25474402",
-  "https://platum.kr/archives/297402",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6861954_36967.html",
-  "https://www.tokenpost.kr/news/market/429863",
   "https://news.mtn.co.kr/article/2026103012194321798",
   "https://magazine.hankyung.com/business/article/202610227747b",
   "http://www.wsobi.com/news/articleView.html?idxno=320726",
@@ -2999,13 +2995,13 @@
   "http://www.osen.co.kr/article/G1112901753",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1306995",
   "https://www.jeonmae.co.kr/news/articleView.html?idxno=1306997",
-  "https://www.khan.co.kr/article/202610311244001"
+  "https://www.khan.co.kr/article/202610311244001",
+  "https://www.starnewskorea.com/star/2026/10/31/2026103112385494874",
+  "https://www.tokenpost.kr/news/breaking/430517",
+  "https://www.ytn.co.kr/_ln/0101_202610311239083850",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=621698"
  ],
  "seen_titles": [
-  "바이낸스해킹정황에창펑자오“이용자자금안전”",
-  "시큐리티스코어카드,AI해킹대응위한공급망보안강화방안제시",
-  "교육부,화이트해커·LG유플러스와손잡고AI사이버보안영재키운다",
-  "[스타트업모닝커피1427회]투니온,온톨로지기반웹툰·웹소설영상화...",
   "젠슨황과술마시던여성‥중국스파이?",
   "ADT주가29일전일대비33.20%상승…주당10달러인수합의",
   "[컨콜]LGCNS,AI·로봇사업확대...방산·조선·해외데이터센터까지...",
@@ -6001,7 +5997,11 @@
   "“팀이이기는게첫번째”198승대투수가PS0경기,8번째가을이렇게...",
   "뉴욕증시,AI투자우려에일제히하락…나스닥2.86%급락",
   "北,8조원대바이낸스해킹배후지목…가상화폐탈취로외화벌이",
-  "“올해가상자산해킹89%북한소행으로추정”"
+  "“올해가상자산해킹89%북한소행으로추정”",
+  "'뒷담화논란'31기옥순,결국떠나버렸다..스스로되찾은미소셀카[스...",
+  "타이탄빌더,24시간수익2283만달러로1위",
+  "한미일\"북비핵화\"재확인...진성준,미비자발급",
+  "에버노스홀딩스주가3%대하락…바이낸스63억달러해킹에XRP보유기..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-10-31T12:34:23.512462+09:00",
    "가상자산 세계 피해액 지난해 북한"
+  ],
+  [
+   "2026-10-31T12:48:15.283089+09:00",
+   "바이낸스 63억달러 XRP 하락 주가 에버노스 홀딩스 해킹에 보유기"
   ]
  ],
- "last_run": "2026-10-31T12:46:31.176487+09:00",
+ "last_run": "2026-10-31T12:48:36.042487+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
