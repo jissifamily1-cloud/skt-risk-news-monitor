@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=193974",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823011&plink=ORI&cooper=NAVER",
   "https://www.gukjenews.com/news/articleView.html?idxno=3737510",
   "https://zdnet.co.kr/view/?no=20261030114808",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4442184",
@@ -2999,11 +2997,11 @@
   "https://it.chosun.com/news/articleView.html?idxno=2023092173262",
   "https://www.gukjenews.com/news/articleView.html?idxno=3738305",
   "https://www.gukjenews.com/news/articleView.html?idxno=3738308",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3738306"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3738306",
+  "https://www.jasm.co.kr/news/view/323672/?sc=Naver",
+  "https://www.koreadaily.com/article/20261030193719189"
  ],
  "seen_titles": [
-  "‘반도체안정·에너지쇄신’SK미래찾기",
-  "비트코인7만7000달러대로후퇴…바이낸스보안조사까지겹치며가상자...",
   "SKT,구룡마을화재이재민통신지원…재난현장서사회적역할이어간...",
   "바이낸스해킹피해설…일부긴급자산동결조치",
   "창원시'SMR중심원전산업육성'기업협의회정기회열어",
@@ -6001,7 +5999,9 @@
   "사상최대8.4조원해킹바이낸스…美FBI수사착수",
   "[포토]추경호대구광역시장,소상공인상생페스티벌개최축하및격...",
   "권오상서구청장,\"서대구역이달라진다\"...철도공사손잡고광장활성...",
-  "[포토]추경호대구광역시장,대구·경북대학페스타개막축하및관계..."
+  "[포토]추경호대구광역시장,대구·경북대학페스타개막축하및관계...",
+  "오픈AI,과잉투자논란에자금조달100억달러감축",
+  "총알3발맞은텀블러리지생존여학생,9개월만에퇴원"
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-10-31T11:32:15.018161+09:00",
    "준우승 보안 해킹대회 48시간 국제 DGIST 검증 반도체"
+  ],
+  [
+   "2026-10-31T11:40:23.067562+09:00",
+   "총알 9개월 퇴원 여학생 텀블러리지 3발 만에 생존 맞은"
   ]
  ],
- "last_run": "2026-10-31T11:38:30.702215+09:00",
+ "last_run": "2026-10-31T11:40:44.627772+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
