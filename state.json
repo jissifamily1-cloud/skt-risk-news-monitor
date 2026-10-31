@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8699756",
-  "https://www.newsis.com/view/NISX20261030_0003848002",
-  "https://kr.aving.net/news/articleView.html?idxno=1816429",
   "https://www.industrynews.co.kr/news/articleView.html?idxno=88576",
   "https://biz.sbs.co.kr/article_hub/20000343266?division=NAVER",
   "https://it.chosun.com/news/articleView.html?idxno=2023092173070",
@@ -2999,12 +2996,12 @@
   "https://mhnse.com/news/articleView.html?idxno=1651571",
   "https://www.tvreport.co.kr/breaking/article/1087313/",
   "https://www.segye.com/newsView/20261031503786?OutUrl=naver",
-  "https://www.yna.co.kr/view/AKR20261031025300009?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261031025300009?input=1195m",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365478",
+  "https://www.edaily.co.kr/News/Read?newsId=01990966645618496&mediaCodeNo=257",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16264517"
  ],
  "seen_titles": [
-  "NAS조준'PHP'보안취약점비상",
-  "엔비디아네이버3대주주로",
-  "바이낸스해킹피해설…일각서“7조원상당유출”",
   "\"우리회사도뚫릴라\"…잇단해킹사고에대기업들'긴장'",
   "피지컬AI부터산업AX까지…최신AIoT기술과산업혁신의미래를한자...",
   "한화자산운용'PLUS200커버드콜액티브',4개월연속분배금전액비과세",
@@ -6001,7 +5998,10 @@
   "[오피셜]추운날더잘던졌던올러가유리?VS후라도도만만치않았네...",
   "12월난리났다…'시청률5.2%'유종의미→안방넘어'극장'군기잡으...",
   "[속보]바이낸스8조4000억원털렸다…배후에‘북한’지목",
-  "오픈AI,투자자불안속자금조달목표액100억달러감축"
+  "오픈AI,투자자불안속자금조달목표액100억달러감축",
+  "뉴욕증시급락…인텔28.6%폭락",
+  "北해커들,바이낸스코인20분만에털었다",
+  "북한바이낸스해킹8조원…내코인도사라지나,업비트·빗썸투자자피..."
  ],
  "recent_sigs": [
   [
@@ -6437,7 +6437,7 @@
    "자금조달 투자자 감축 목표액 불안 100억달러"
   ]
  ],
- "last_run": "2026-10-31T11:20:43.926988+09:00",
+ "last_run": "2026-10-31T11:22:30.874465+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
