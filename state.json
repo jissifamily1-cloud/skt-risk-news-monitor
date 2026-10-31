@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.radiokorea.com/news/article.php?uid=508188",
-  "https://www.techm.kr/news/articleView.html?idxno=156695",
-  "https://www.newsis.com/view/NISX20261030_0003848243",
-  "https://www.sisajournal.com/news/articleView.html?idxno=392288",
-  "https://news.unn.net/news/articleView.html?idxno=599597",
-  "https://www.dailian.co.kr/news/view/1708266/?sc=Naver",
-  "https://www.nocutnews.co.kr/news/6599705",
-  "https://www.yna.co.kr/view/AKR20261030052700530?input=1195m",
-  "https://www.newsis.com/view/NISX20261030_0003847658",
   "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279253&CMPT_CD=P0010",
   "https://www.newsis.com/view/NISX20261030_0003847674",
   "https://www.todayeconomic.com/news/article.html?no=32668",
@@ -2999,18 +2990,18 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3738312",
   "https://www.ajunews.com/view/20261030135929588",
   "https://www.newdaily.co.kr/site/data/html/2026/10/31/2026103100033.html",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6862176_36967.html"
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6862176_36967.html",
+  "https://www.jasm.co.kr/news/view/323677/?sc=Naver",
+  "https://www.boannews.com/news/articleView.html?idxno=146771",
+  "https://www.boannews.com/news/articleView.html?idxno=146861",
+  "http://www.metroseoul.co.kr/article/20261031500056",
+  "http://www.economytalk.kr/news/articleView.html?idxno=425005",
+  "https://www.kmib.co.kr/article/20261031500106",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4115923",
+  "https://www.boannews.com/news/articleView.html?idxno=146908",
+  "https://www.g-enews.com/view.php?ud=202610311159197381906806b77b_1"
  ],
  "seen_titles": [
-  "[빗썸보안민낯②]\"임직원만유출된줄알았는데\"…빗썸초동대응체...",
-  "KT,AI모델7종이용료30%할인…'토큰팩토리'로기업AX시장공략",
-  "10월29일이브닝뉴스헤드라인",
-  "[크립토브리핑]비트코인3%급락에7만8000달러대…바이낸스해킹의혹...",
-  "바이낸스대규모해킹의혹…업비트·빗썸출금주의안내",
-  "'6200억원과징금'둘러싸고쿠팡-개보위법정공방",
-  "교육부,LG유플러스·티오리한국'정보보안인재양성'위해협력",
-  "최태원·노소영재산분할2라운드…9440억감액여부쟁점은[법조계에...",
-  "민간전문기업의역량활용해사이버보안인재육성",
   "교육부·LGU+·티오리한국,사이버보안영재교육지원MOU",
   "민관손잡고AI·정보보안영재육성…교육부,LGU+·티오리와MOU",
   "민간플랫폼이내진료기록을?정부안의위험한빈틈",
@@ -6001,7 +5992,16 @@
   "대구보건대학교,상위20%학생들에AI활용자기소개서실습진행",
   "BNK경남은행,모바일뱅킹에'실손24'도입",
   "트럼프\"바이낸스해킹北소행인지살펴보고있다\"…북미정상회담...",
-  "'바이낸스해킹'北소행?‥\"살펴보는중\""
+  "'바이낸스해킹'北소행?‥\"살펴보는중\"",
+  "4차전승자가이길확률78%…'파죽지세'KIAvs'안방수성'삼성'끝장...",
+  "번호판확대부터IP추적까지...드라마속과학수사,전문가에게물었...",
+  "[2026대한민국상장기업리포트-4]국내사이버보안상장기업81.5%,전년...",
+  "한미일외교장관,北비핵화재확인…韓\"북미대화재개페이스메이커\"",
+  "역대급실적거둔정상혁신한은행장거취주목…연임가를변수는",
+  "‘AI에돈아낀’애플,시총1위탈환…3개월만에엔비디아제쳤다",
+  "북한,바이낸스8조원대해킹배후지목…해킹산업외화벌이수단부...",
+  "머니투데이,9월해킹으로개인정보1367건유출확인",
+  "[김대호인물]자오창펑바이낸스역사상최대해킹"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,17 @@
   [
    "2026-10-31T12:04:15.194850+09:00",
    "소행 바이낸스 살펴보는"
+  ],
+  [
+   "2026-10-31T12:06:16.303632+09:00",
+   "9월 유출 확인 1367건 머니투데이 개인정보 해킹으로"
+  ],
+  [
+   "2026-10-31T12:06:16.303632+09:00",
+   "바이낸스 자오창펑 역사상"
   ]
  ],
- "last_run": "2026-10-31T12:04:36.656162+09:00",
+ "last_run": "2026-10-31T12:06:37.088348+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
