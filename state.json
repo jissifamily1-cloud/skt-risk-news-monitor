@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=02004086645618496&mediaCodeNo=257",
-  "http://www.newsprime.co.kr/news/article.html?no=753064",
   "https://it.chosun.com/news/articleView.html?idxno=2023092173262",
   "https://www.gukjenews.com/news/articleView.html?idxno=3738305",
   "https://www.gukjenews.com/news/articleView.html?idxno=3738308",
@@ -2999,11 +2997,11 @@
   "https://www.donga.com/news/Sports/article/all/20261101/134945740/1",
   "http://www.journalist.or.kr/news/article.html?no=61981",
   "https://dgmbc.com/NewsArticle/870687",
-  "https://www.tokenpost.kr/news/ai/430922"
+  "https://www.tokenpost.kr/news/ai/430922",
+  "https://www.edaily.co.kr/News/Read?newsId=03161926645641456&mediaCodeNo=257",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215506"
  ],
  "seen_titles": [
-  "뉴욕증시급락…인텔28.6%폭락",
-  "北해커들,바이낸스코인20분만에털었다",
   "북한바이낸스해킹8조원…내코인도사라지나,업비트·빗썸투자자피...",
   "[VC'sPick]'반도체·에너지·항공우주'…첨단산업에투자집중",
   "서울용산구,AICCTV로핼러윈인파위험실시간감지",
@@ -6001,7 +5999,9 @@
   "호랑이잡은사자,이제마법사노린다…삼성,2년만에KS진출",
   "유진이엔티,방미통위에'YTN최대주주승인'청문보류요청",
   "삼성라이온즈2년만에한국시리즈진출...PO5차전잡고'수원행'",
-  "코어사이언티픽1824억원AI매출…전력요금468억포함"
+  "코어사이언티픽1824억원AI매출…전력요금468억포함",
+  "트럼프“바이낸스해킹,북한소행이면대화”",
+  "체이널리시스\"가상자산해킹89%,북한소행\""
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-11-01T20:44:15.147620+09:00",
    "승인 요청 YTN 최대주주 방미통위에 유진이엔티 보류 청문"
+  ],
+  [
+   "2026-11-01T20:48:15.025732+09:00",
+   "북한 체이널리시스 소행 가상자산"
   ]
  ],
- "last_run": "2026-11-01T20:46:31.819237+09:00",
+ "last_run": "2026-11-01T20:48:32.941688+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
