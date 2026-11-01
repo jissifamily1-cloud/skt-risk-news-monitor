@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000342637?division=NAVER",
-  "https://www.ytn.co.kr/_ln/0134_202610281036483044",
-  "https://www.hankyung.com/article/2026102896986",
-  "https://biz.chosun.com/stock/stock_general/2026/10/28/AEHMABNQGZGFPLX64PR34L6JP4/",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4441480",
-  "http://www.press9.kr/news/articleView.html?idxno=85034",
-  "https://www.ytn.co.kr/_ln/0102_202610280727055635",
-  "https://biz.sbs.co.kr/article_hub/20000342524?division=NAVER",
-  "https://www.mk.co.kr/article/12187293",
   "https://www.seoulfn.com/news/articleView.html?idxno=641157",
   "https://www.ytn.co.kr/_ln/0102_202610280633362820",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271247058240332",
@@ -2999,18 +2990,18 @@
   "https://www.kmib.co.kr/article/20261101500800",
   "https://www.imaeil.com/page/view/2026110116430473718",
   "https://www.seoul.co.kr/news/sport/2026/11/01/20261101500069?wlog_tag3=naver",
-  "https://www.imaeil.com/page/view/2026110116431245966"
+  "https://www.imaeil.com/page/view/2026110116431245966",
+  "https://www.munhwa.com/article/11627869",
+  "https://www.ikbc.co.kr/article/view/kbc202611010031",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261101.99099000165",
+  "https://www.news1.kr/sports/baseball/6339061",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709566",
+  "https://www.aitimes.com/news/articleView.html?idxno=216570",
+  "https://www.aitimes.com/news/articleView.html?idxno=216515",
+  "https://www.g-enews.com/view.php?ud=202610221530216980c8c1c064d_1",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450853"
  ],
  "seen_titles": [
-  "아마존,매출·이익예상하회…시간외주가6%급락",
-  "[사설]일상이된금융권해킹,AI맞춤형보안체계시급하다",
-  "블룸버그\"스페이스X최대단일고객은앤스로픽\"",
-  "오픈AI는MS에100억달러매출…스페이스X는알파벳에90억달러손실",
-  "앤트로픽IPO로본AI메모리경쟁…삼성·SK역할커진다",
-  "SK하이닉스목표주가‘165만~400만원’…증권가전망왜갈리나",
-  "SK하이닉스목표가조정온도차…반등기대속신중론[애널리스트의시...",
-  "\"앤트로픽이어오픈AI도구글TPU구매추진\"...삼성·하이닉스에호재",
-  "\"삼성전자·하이닉스반등때일부털어내야\"…슈퍼개미가경고한리스크",
   "하이닉스실적좋지만주가는갇힌다…\"저PER지속·목표주가165만원\"",
   "'배당받을준비하세요'하닉이어삼전까지,주주환원잭팟터진다",
   "엔트로픽IPO온기확산…'AI거품론'뚫고반도체주훈풍",
@@ -6001,7 +5992,16 @@
   "1500개‘AI비서’돌리는SKT…“조직전체를AI중심으로”",
   "삼성,KIA꺾고2년만에한국시리즈…KT와12년만의우승도전",
   "기다려라kt....삼성,KIA꺾고수원행버스올랐다",
-  "바이낸스,8조4천억해킹후출금재개…피해95%자체보전"
+  "바이낸스,8조4천억해킹후출금재개…피해95%자체보전",
+  "삼성,2년만의한국시리즈...KIA꺾고플레이오프통과",
+  "[속보]삼성,KIA꺾고플레이오프통과…2년만에한국시리즈진출",
+  "삼성,KIA6-1꺾고2년만에한국시리즈진출",
+  "'KT나와'삼성,KIA꺾고KS행…후라도시리즈MVP[PO5](종합)",
+  "샘알트먼\"수학계분위기바뀌었다…이제는AI수용단계\"",
+  "오픈AI,투자열기주춤하자목표기업가치200조낮춰",
+  "[10월22일]테슬라·스페이스X합병,최강'통합AI기업'탄생할까",
+  "\"차량설계검토,단몇시간만에\"…日에픽AI,'中속도전'맞설AI보...",
+  "[11월2일자]비즈니스포스트아침의주요기사"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,13 @@
   [
    "2026-11-01T16:48:15.185014+09:00",
    "~SKT 전체를 중심으로 돌리는 1500개 비서"
+  ],
+  [
+   "2026-11-01T16:50:25.420646+09:00",
+   "아침의 주요기사 비즈니스포스트"
   ]
  ],
- "last_run": "2026-11-01T16:48:33.449629+09:00",
+ "last_run": "2026-11-01T16:50:43.292564+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
