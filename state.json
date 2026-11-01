@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.donga.com/region/article/all/20261031/134942321/1",
-  "https://biz.heraldcorp.com/article/10921185",
   "https://www.edaily.co.kr/News/Read?newsId=01879446645618496&mediaCodeNo=257",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=312125",
   "http://coinreaders.com/266553",
@@ -2999,11 +2997,11 @@
   "https://www.news1.kr/world/international-economy/6337505",
   "https://www.edaily.co.kr/News/Read?newsId=03109446645641456&mediaCodeNo=257",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261102.22016000193",
-  "https://news.jtbc.co.kr/article/NB12325906?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12325906?influxDiv=NAVER",
+  "https://www.kmib.co.kr/article/20261101501232",
+  "https://www.hani.co.kr/arti/opinion/editorial/1285237.html"
  ],
  "seen_titles": [
-  "북한추정해커,63억달러터는데단20분…웃돈주고코인바꾼이유",
-  "BYD,한번충전·주유로1040㎞…이스라엘서신형하이브리드공개",
   "트럼프,바이낸스해킹北소행여부에“아직몰라,살펴보는중”",
   "美수사당국,바이낸스'8조원대해킹'공조…北해커의혹에국제추...",
   "인텔52년만에최악의폭락…나스닥2.86%급락,AI거품공포확산",
@@ -6001,7 +5999,9 @@
   "드러켄밀러,24시간고위험선물거래에베팅…월가번지는코인식투자",
   "보안점검금투사25%미흡…보안구멍알고도보완은더뎌",
   "‘고부가데이터’노린AI해킹…새로운보안패러다임급부상",
-  "'8조규모'해킹당했는데…트럼프\"북한이맞다면대화할것\""
+  "'8조규모'해킹당했는데…트럼프\"북한이맞다면대화할것\"",
+  "“AI쓰는것만으론부족하다”…샘올트먼,삼성사장단과‘AI가바꿀...",
+  "[사설]바이낸스8조원대해킹,국내거래소는안전한가"
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,17 @@
   [
    "2026-11-01T18:44:15.754040+09:00",
    "데이터 노린 AI해킹 패러다임 새로운 보안 고부가 급부상"
+  ],
+  [
+   "2026-11-01T18:46:15.523860+09:00",
+   "쓰는 바꿀 삼성 부족하다 것만으론 사장단과 AI가"
+  ],
+  [
+   "2026-11-01T18:46:15.523860+09:00",
+   "거래소는 바이낸스 안전한가 8조원대 국내"
   ]
  ],
- "last_run": "2026-11-01T18:44:33.421815+09:00",
+ "last_run": "2026-11-01T18:46:36.222439+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
