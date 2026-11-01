@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25474194",
-  "https://www.venturesquare.net/1124227/",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877765",
-  "https://www.ajunews.com/view/20261029191046148",
-  "https://www.newscj.com/news/articleView.html?idxno=3444315",
-  "https://www.ajunews.com/view/20261029183906099",
-  "https://biz.sbs.co.kr/article_hub/20000343124?division=NAVER",
-  "https://www.fnnews.com/news/202610291815227340",
-  "https://www.thepublic.kr/news/articleView.html?idxno=324332",
-  "https://www.smartbizn.com/news/articleView.html?idxno=157949",
   "https://www.viva100.com/article/20261028500445",
   "https://www.hankyung.com/article/2026102940897",
   "https://zdnet.co.kr/view/?no=20261029175508",
@@ -2999,19 +2989,19 @@
   "http://www.beyondpost.co.kr/view.php?ud=2026110109432370914c878f8fa1_30",
   "https://www.m-i.kr/news/articleView.html?idxno=2012786",
   "https://www.gokorea.kr/news/articleView.html?idxno=883624",
-  "https://news.jtbc.co.kr/article/NB12325865?influxDiv=NAVER"
+  "https://news.jtbc.co.kr/article/NB12325865?influxDiv=NAVER",
+  "https://view.asiae.co.kr/article/2026110109490026848",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66838",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711616",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=601665",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711615",
+  "https://biz.chosun.com/it-science/ict/2026/11/01/EYHT2LU745FCTKDOT7RTGVWKDU/",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=446544",
+  "https://www.gokorea.kr/news/articleView.html?idxno=883630",
+  "https://www.gokorea.kr/news/articleView.html?idxno=883625",
+  "https://www.ajunews.com/view/20261101094418209"
  ],
  "seen_titles": [
-  "서인영\"난이혼할줄몰랐다,나빼고는다알았다더라\"",
-  "\"내돈건드리지말라했어야\"…서인영,혼전계약서안써'땅치고후...",
-  "서인영,재혼할땐혼전계약서쓰나…\"초혼때못써,이혼위자료못받...",
-  "서인영,혼전계약서안쓴결혼후회…\"땅을치고후회했다\"",
-  "100억넘게벌었는데..'이혼'서인영\"혼전계약서못써땅을쳤다\"[종...",
-  "서인영“나도이혼할줄몰랐다”…혼전계약서안쓴것후회",
-  "서인영\"나도내가이혼할줄몰라\"…혼전계약서후회고백",
-  "‘유행꼰대’서인영“혼전계약서안써후회”",
-  "[삼성家상속]이재용,1.5조증여세납부…연부연납·배당전략유력",
-  "[Invest]주가반토막난기업들,연말앞두고'주가관리'난제",
   "서인영,위자료안준전남편저격?\"혼인신고해도안주는사람있어,날...",
   "국정감사톺아보기…계약학과졸업생수원으로",
   "한중일예술가들,AI시대인간과기계의공존을묻다",
@@ -6001,7 +5991,17 @@
   "경콘진,경기스토리작가창작소‘비즈니스데이’개최",
   "北,20분만에63억달러탈취…9년간128억달러해킹",
   "FBI,북한배후63억달러가상화폐해킹공식확인…바이낸스사태의전...",
-  "바이낸스서8조4천억원탈취…FBI\"북한해킹조직소행\""
+  "바이낸스서8조4천억원탈취…FBI\"북한해킹조직소행\"",
+  "삼성첫오픈형이어폰'버즈온'통했다…사흘만에온라인초도완판",
+  "'8조5천억털린'바이낸스쇼크…\"사이버절도역사상최대사건\"",
+  "SKT,AI중심으로일하는방식바꾼다…'AX혁신2.0'추진",
+  "올트먼방한,투자유치총력전?⋯\"오픈AI,펀딩목표절반도못채워\"",
+  "LG유플러스,AI시대보안인재키운다…교육부·티오리한국과맞손",
+  "KT,드론공격·화재가정통신망복구훈련…재난로밍·이동기지국투...",
+  "KT,'2026재난대응안전한국훈련'참여…통신망복구체계점검",
+  "북한해킹조직라자루스,한국웹사이트를악성코드거점으로사용했나...",
+  "바이낸스에서발생한63억달러해킹,암호화폐시장을뒤흔들다",
+  "美FBI,바이낸스해킹배후로북한지목\"이더리움돈세탁정황\""
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,13 @@
   [
    "2026-11-01T09:48:14.044748+09:00",
    "바이낸스 순간 사상 북한 지켜 임원진 공포속 8조 배후"
+  ],
+  [
+   "2026-11-01T09:52:16.638332+09:00",
+   "복구체계 점검 참여 통신망 재난대응 ~KT 안전한국훈련"
   ]
  ],
- "last_run": "2026-11-01T09:50:39.389725+09:00",
+ "last_run": "2026-11-01T09:52:35.431688+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
