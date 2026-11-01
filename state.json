@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=202610310927035543d7a510102_1",
-  "https://www.ytn.co.kr/_ln/0104_202610310934584541",
-  "https://dgmbc.com/NewsArticle/870634",
-  "https://www.yna.co.kr/view/AKR20261031019500091?input=1195m",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424682",
   "https://www.aitimes.com/news/articleView.html?idxno=216840",
   "https://www.sentv.co.kr/article/view/sentv202610310008",
@@ -2999,13 +2995,13 @@
   "https://www.hankyung.com/article/2026110186287",
   "http://www.kjdaily.com/article.php?aid=1793525401690860255",
   "https://isplus.com/article/view/isp202611010146",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100385"
+  "https://www.newsian.co.kr/news/articleView.html?idxno=100385",
+  "https://www.xportsnews.com/article/2214090",
+  "https://www.fnnews.com/news/202611011835595203",
+  "https://www.fnnews.com/news/202611011835547475",
+  "https://news.jtbc.co.kr/article/NB12325907?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "\"8조4000억털리고도못막았다\"…코인해커가노린'동결불가'허점",
-  "태풍분석27초만에끝낸다…中,AI위성기상예보기술공개",
-  "해킹에멈춰선금융서비스…보안강화속고객접근성은'뒷전'",
-  "입주임박한3기신도시,기업유치'제자리걸음'…자족기능비상",
   "동국대,바이오헬스융합연구역량결집…2027년국가R&D컨소시엄추진",
   "\"북한외화벌이절반\"…바이낸스사태에'코인도둑질산업화'주목",
   "쿠팡·G마켓·SK브로드밴드등9개사점검…고객정보과다노출·임의검...",
@@ -6001,7 +5997,11 @@
   "스마트안경쓰고미대입시험커닝하면몇점나올까",
   "KIA,한국시리즈문턱서멈췄다…가을야구3위마감",
   "\"원래그런성격아닌데..\"함성내지른삼성이승민“KS에서네번더...",
-  "보안점검에도해킹잇따라…금융당국,5일추가대책회의"
+  "보안점검에도해킹잇따라…금융당국,5일추가대책회의",
+  "KIA잡고수원간다!…'2년만의KS진출'박진만감독\"원태인선발활...",
+  "냉장고·세탁·건조기등두각",
+  "삼성'챗GPT'품고전사AX속도낸다",
+  "\"바이낸스해킹북한소행\"…FBI가지목한'배후조직'"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-11-01T18:18:15.689192+09:00",
    "보안망에 돌아갔다 에이전트 펜타곤 개인 달간"
+  ],
+  [
+   "2026-11-01T18:38:15.704378+09:00",
+   "품고 AX 삼성 챗GPT 속도낸다 전사"
   ]
  ],
- "last_run": "2026-11-01T18:36:31.484835+09:00",
+ "last_run": "2026-11-01T18:38:37.379651+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
