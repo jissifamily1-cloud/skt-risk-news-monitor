@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://gamefocus.co.kr/detail.php?number=180136",
-  "https://gamefocus.co.kr/detail.php?number=180134",
-  "https://www.edaily.co.kr/News/Read?newsId=03729366645617840&mediaCodeNo=257",
-  "https://econotimes.com/Microsoft-Posts-19-Revenue-Growth-as-Azure-Expands-48-1765494",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=279920",
-  "https://www.tokenpost.kr/news/ai/428996",
-  "https://www.g-enews.com/view.php?ud=2026102908323895940c8c1c064d_1",
-  "https://econotimes.com/Parents-Sue-OpenAI-Alleging-ChatGPT-Helped-Daughter-Stop-Epilepsy-Drug-1765423",
   "https://www.dailysecu.com/news/articleView.html?idxno=209149",
   "https://econotimes.com/GPT-6-Astra-Scores-62-7-and-99-9-on-ARC-AGI-3-in-Separate-Setups-1765389",
   "https://www.tokenpost.kr/news/breaking/428953",
@@ -2999,17 +2991,17 @@
   "https://www.sportschosun.com/baseball/2026-11-01/202611010100002850000071",
   "https://www.mk.co.kr/article/12192595",
   "https://www.donga.com/news/Economy/article/all/20261030/134941582/2",
-  "http://www.newstomato.com/ReadNews.aspx?no=1318769&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1318769&inflow=N",
+  "https://www.newspim.com/news/view/20261101000035",
+  "https://www.news1.kr/industry/general-industry/6338782",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261031184744k65",
+  "http://www.newstomato.com/ReadNews.aspx?no=1318764&inflow=N",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=450841",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008823220&plink=ORI&cooper=NAVER",
+  "https://www.ytn.co.kr/_ln/0102_202611011057301497",
+  "https://www.chosun.com/economy/economy_general/2026/11/01/EOKOS7AFJBBXJCICJ5DIVY5S34/"
  ],
  "seen_titles": [
-  "[시사천국]\"원수도시비하지않게\"…4대종교인의'대통령SNS'일침",
-  "소니코리아,5K오픈게이트지원'FX5'출시",
-  "트릴리온랩스,AI에이전트개발·OCR최적화해커톤개최…오픈소스모...",
-  "소니,5K오픈게이트지원풀프레임시네마카메라‘FX5’공개…729만...",
-  "[약국에서바로쓰는AI]약품명넣으면비교표뚝딱'챗GPT스킬만들기...",
-  "QTSandVantagePledgetoShareDataCenterResourceDetails",
-  "아카마이,AI추론서비스및에이전트실행환경신규출시",
-  "StudyLinksAIExposuretoNarrowerSupportGap,WiderSeniorityGapAm",
   "마이크로소프트프론티어전환성적표공개\"에이전트관리가승부처\"",
   "\"AuthenticationIsDead\":CrowdStrikeExecutiveProposesUserRecog",
   "MS,코파일럿·IQ·에이전트365로'프론티어전환'지원…글로벌고객...",
@@ -6001,7 +5993,15 @@
   "'라팍'하늘에가득한먹구름…강수확률은적은데왜이래?→'하루밀리...",
   "퍼가요~AI학습명령어한줄로막는다…“이제와서?”말나오는이유",
   "신용시장까지번진‘AI거품론’…‘탄탄한본업바탕’반론도",
-  "드론공격부터통신장애까지…KT,복합재난대응훈련"
+  "드론공격부터통신장애까지…KT,복합재난대응훈련",
+  "[AI프리뷰]1일대구삼성-KIAPO5차전,삼성후라도-KIA올러어깨에달...",
+  "이영희연구팀'수의학특화소형AI'탐색…\"동물병원상담보조\"",
+  "[기업기상도]가을하늘높은기업vs한파에감기든기업",
+  "SKT,개인AI활용넘어조직업무재설계…AX혁신2.0가속",
+  "오픈AI샘올트먼한국방문해삼성전자사장단과SK최태원만나,\"경영...",
+  "인류의절멸을가져올AI가있다면?…'초지능AI'의경고[SDF]",
+  "금융권해킹피해확산...당국,보안점검추진",
+  "금융권연쇄해킹에당국긴급대응…AI보안관제강화추진"
  ],
  "recent_sigs": [
   [
@@ -6559,9 +6559,21 @@
   [
    "2026-11-01T10:56:14.368223+09:00",
    "경보 에이전트 금융당국 방어 전략 잰걸음 수립"
+  ],
+  [
+   "2026-11-01T11:02:15.064550+09:00",
+   "SK 경영 사장단과 방문해 만나 삼성전자 한국"
+  ],
+  [
+   "2026-11-01T11:02:15.064550+09:00",
+   "경고 AI가 가져올 인류의 절멸을 초지능 있다면"
+  ],
+  [
+   "2026-11-01T11:02:15.064550+09:00",
+   "연쇄 강화 대응 당국 보안관제 해킹에 긴급 금융권"
   ]
  ],
- "last_run": "2026-11-01T11:00:53.703102+09:00",
+ "last_run": "2026-11-01T11:02:44.229881+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
