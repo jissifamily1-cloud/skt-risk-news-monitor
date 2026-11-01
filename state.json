@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://kor.theasian.asia/archives/420453",
-  "https://www.insight.co.kr/news/580062",
-  "https://www.tokenpost.kr/news/blockchain/430652",
-  "http://coinreaders.com/266621",
-  "http://coinreaders.com/266624",
-  "http://coinreaders.com/266622",
   "https://www.tokenpost.kr/news/cryptocurrency/430645",
   "https://www.ajunews.com/view/20261013075132128",
   "https://news.jtbc.co.kr/article/NB12325658?influxDiv=NAVER",
@@ -2999,15 +2993,15 @@
   "https://www.news1.kr/finance/blockchain-fintech/6339016",
   "https://www.tokenpost.kr/news/breaking/431024",
   "https://www.seoul.co.kr/news/editOpinion/editorial/2026/11/02/20261102027012?wlog_tag3=naver",
-  "https://www.hani.co.kr/arti/economy/finance/1285252.html"
+  "https://www.hani.co.kr/arti/economy/finance/1285252.html",
+  "https://www.segye.com/newsView/20261101508272?OutUrl=naver",
+  "https://www.newspim.com/news/view/20261030000313",
+  "https://www.news1.kr/it-science/security-hacking/6337018",
+  "https://www.khan.co.kr/article/202611020600081",
+  "https://www.mt.co.kr/estate/2026/11/02/2026110111204492703",
+  "https://realty.chosun.com/site/data/html_dir/2026/10/30/2026103001427.html"
  ],
  "seen_titles": [
-  "[가상자산·보안]개인키오프라인보관부터실시간경보체계까지…가...",
-  "머스크조롱에발끈했던CZ…10억달러주식언급하더니다시해명한이...",
-  "10월31일모닝뉴스헤드라인",
-  "[N위크]홍콩ELS제재안확정...소비자물가·국제수지도발표",
-  "stETH7일평균APR4.2%…30일일간15.077%반영",
-  "공포·탐욕지수30…비트코인7만3000달러대는200일선",
   "[북한주간브리핑10.25~31]김정은방중이어미사일·드론무력시위…...",
   "장동혁,李대통령'코피터지는순방'주장에\"배우들과셀카찍을시간...",
   "가상자산사고누적손실92억달러…10월에만65억달러",
@@ -6001,7 +5995,13 @@
   "훔친코인어떻게현금화?…北해커'자금세탁'경로[바이낸스해킹]②",
   "63억달러바이낸스해킹,미비밀경호국수사계속",
   "[사설]아찔해지는北해킹·드론역량…안보위협대책세워야",
-  "정보말고돈터는‘코인해킹’…금융불안방아쇠될까"
+  "정보말고돈터는‘코인해킹’…금융불안방아쇠될까",
+  "“흙막이확인하세요!”…AI가공사현장위험잡는다",
+  "[주간IPO]영광·래블업·이에스티,코스닥상장",
+  "AI는취약점쏟아내는데…사람은고치기도벅차다",
+  "[단독]“미기업차별”공정위저격한싱크탱크후원명단에쿠팡",
+  "집은갈수록똑똑해지는데…건설업계보안투자는'찔끔'",
+  "병력·수술이력까지새나갔나…미래에셋생명해킹에보험업계CEO책임..."
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,17 @@
   [
    "2026-11-02T06:02:16.026725+09:00",
    "방아쇠 터는 정보 금융불안 말고 될까 코인"
+  ],
+  [
+   "2026-11-02T06:04:16.929748+09:00",
+   "확인하세요 위험 AI가 잡는다 공사현장 흙막이"
+  ],
+  [
+   "2026-11-02T06:04:16.929748+09:00",
+   "해킹에 책임 보험업계 CEO 병력 새나갔나 수술 이력까지 미래에셋생명"
   ]
  ],
- "last_run": "2026-11-02T06:03:12.518981+09:00",
+ "last_run": "2026-11-02T06:04:40.648486+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
