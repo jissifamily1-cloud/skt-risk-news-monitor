@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202610306530b",
-  "https://magazine.hankyung.com/business/article/202610306346b",
-  "https://m.sports.naver.com/basketball/article/065/0000303703",
-  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307887",
-  "https://www.tfmedia.co.kr/news/article.html?no=208531",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=885493",
-  "https://www.seoulfn.com/news/articleView.html?idxno=641537",
-  "https://zdnet.co.kr/view/?no=20261031075828",
   "https://biz.sbs.co.kr/article_hub/20000343366?division=NAVER",
   "https://www.thebigdata.co.kr/view.php?ud=202610301011175751df3c2a17b7_23",
   "https://www.topstarnews.net/news/articleView.html?idxno=16264246",
@@ -2999,17 +2991,17 @@
   "https://www.mk.co.kr/article/12192923",
   "https://www.mk.co.kr/article/12192922",
   "https://www.mk.co.kr/article/12192921",
-  "https://www.hankyung.com/article/2026110184971"
+  "https://www.hankyung.com/article/2026110184971",
+  "http://www.osen.co.kr/article/G1112902365",
+  "https://www.news1.kr/sports/baseball/6339095",
+  "https://www.boannews.com/news/articleView.html?idxno=146870",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711266",
+  "https://www.hankyung.com/article/2026110185571",
+  "https://www.etoday.co.kr/news/view/2642686",
+  "https://www.newsis.com/view/NISX20261101_0003849918",
+  "http://www.ttlnews.com/news/articleView.html?idxno=3157537"
  ],
  "seen_titles": [
-  "PO4차전서극적역전승거둔KIA,삼성과5차전간다",
-  "한국시리즈일정은?…11월3일시작",
-  "바이넨스,사상최대해킹사고로8조원털려...북한조직추정",
-  "'4차전승리팀78%확률'KIA,삼성과PO5차전서한국시리즈행정면승...",
-  "우주넘어클라우드까지...스페이스X,단숨에매출10위권",
-  "'알파벳쇼크'이어'인텔대폭락'에나스닥또급락…韓다시'검은...",
-  "비야디한국서2만대돌파…일본서는4000대밑돌며희비엇갈려",
-  "미수사당국'바이낸스해킹'조사공조…트럼프\"北배후아직몰라\"",
   "핼러윈안전관리총력...용산구,AICCTV로인파위험실시간감지",
   "\"인텔28%폭락·반도체급락\"…뉴욕증시기술주매도세에하락",
   "[인사이트뉴스]단20분만에8조원털었다…북한해킹,코인넘어기업...",
@@ -6001,7 +5993,15 @@
   "당신의부를GREAT하게…내년투자키워드GREAT",
   "거래소출금권한노리는北해커…업비트·빗썸도초긴장",
   "눈앞에서8조털릴때…넋놓고바라만본바이낸스",
-  "겨울의문턱에서사람의'온기'를전합니다"
+  "겨울의문턱에서사람의'온기'를전합니다",
+  "'배스34점9리바운드9도움괴력!'KT,소노잡고2연승...DB는알바노...",
+  "'3안타3타점'김지찬\"형우형조언덕분…KT에꼭설욕할것\"[PO5]",
+  "소니네트워크커뮤니케이션즈해킹...258만고객개인정보유출",
+  "샘알트먼\"AI시대사회초년생이라면,기존성공공식버려야\"",
+  "중수청개청한달…마약·피싱수사성과",
+  "“월가,AI투자돈줄죄기시작⋯데이터센터증설제동우려”",
+  "8조원대해킹피해바이낸스출금서비스단계적재개",
+  "바이낸스64억달러해킹배후에北조직...온체인증거확보"
  ],
  "recent_sigs": [
   [
@@ -6435,9 +6435,17 @@
   [
    "2026-11-01T17:36:19.373896+09:00",
    "문턱에서 겨울의 사람의 전합니다 온기"
+  ],
+  [
+   "2026-11-01T17:38:15.213124+09:00",
+   "증설 돈줄 시작 데이터센터 월가 제동 우려 죄기 투자"
+  ],
+  [
+   "2026-11-01T17:38:15.213124+09:00",
+   "달러 온체인 바이낸스 확보 증거 64억 배후에"
   ]
  ],
- "last_run": "2026-11-01T17:36:39.173606+09:00",
+ "last_run": "2026-11-01T17:38:39.261749+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
