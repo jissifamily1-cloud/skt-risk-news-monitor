@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.venturesquare.net/1123133/",
-  "https://www.khan.co.kr/article/202610262028045",
-  "https://sateconomy.co.kr/news/view/1065598892712652",
   "https://www.khan.co.kr/article/202610261738001",
   "https://www.aitimes.com/news/articleView.html?idxno=216684",
   "https://www.hankyung.com/article/2026102658871",
@@ -2999,12 +2996,12 @@
   "https://www.news2day.co.kr/article/20261101500002",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078118",
   "https://www.tokenpost.kr/news/breaking/430749",
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=112641"
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=112641",
+  "https://www.mk.co.kr/article/12192553",
+  "https://www.chosun.com/international/international_general/2026/11/01/XOHO2VYZHJACPCGFB4RPIDIIAQ/",
+  "https://www.techm.kr/news/articleView.html?idxno=156741"
  ],
  "seen_titles": [
-  "앤트로픽IPO에SKT·네이버함박웃음…AI투자결실기대",
-  "앤트로픽IPO'카운트다운'…SKT,1억달러베팅재평가",
-  "SK텔레콤,AI에이전트에도직원사번부여",
   "[분석]작년사장11명승진시킨SK…올해곽노정·장용호부회장승진...",
   "농협은행,4년간특별시정살림책임진다",
   "정재헌SKT1년,통신은회복…AI수익화시험대",
@@ -6001,7 +5998,10 @@
   "미국FBI,\"바이낸스해킹배후에북한\"공식확인",
   "北,세계최대가상자산거래소해킹배후로지목…FBI확인",
   "바이낸스해킹연관자금3800만달러,릴레이로7시간이동관측",
-  "[붕괴스타레일]에이언즈가내파티에오는데어떻게기대를안할수..."
+  "[붕괴스타레일]에이언즈가내파티에오는데어떻게기대를안할수...",
+  "“공부열심히해도소용없나요?”…AI안경으로커닝했더니,점수가",
+  "8조원눈앞에서빠져나가는데…바이낸스‘악몽의20분’",
+  "[가봤다]25년DBO노하우,AIDC에녹였다...KT클라우드'목동2DC'"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-11-01T09:04:16.211583+09:00",
    "릴레이로 이동 자금 연관 3800만달러 7시간 바이낸스 관측"
+  ],
+  [
+   "2026-11-01T09:08:14.860274+09:00",
+   "녹였다 KT클라우드 DBO AIDC에 ~KT 노하우 25년 목동2DC"
   ]
  ],
- "last_run": "2026-11-01T09:06:33.771889+09:00",
+ "last_run": "2026-11-01T09:08:33.174864+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
