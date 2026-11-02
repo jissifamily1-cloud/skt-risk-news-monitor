@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261102000284",
-  "https://www.thepublic.kr/news/articleView.html?idxno=324651",
-  "https://www.job-post.co.kr/news/articleView.html?idxno=235857",
-  "https://www.gametoc.co.kr/news/articleView.html?idxno=112685",
-  "https://www.dt.co.kr/article/12092473",
-  "https://www.lawissue.co.kr/view.php?ud=202611021353072961204ead0791_12",
-  "https://www.thepowernews.co.kr/view.php?ud=202611021351089304de3f0aa1be_7",
   "https://www.thepublic.kr/news/articleView.html?idxno=324643",
   "https://edu.donga.com/news/articleView.html?idxno=113393",
   "https://www.suwonilbo.kr/view.html?id=L261101155352bf57",
@@ -2999,16 +2992,16 @@
   "https://www.munhwa.com/article/11628216",
   "https://www.the-today.com/news/articleView.html?idxno=92914",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601718",
-  "https://www.edaily.co.kr/News/Read?newsId=02181206645642112&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02181206645642112&mediaCodeNo=257",
+  "https://www.fnnews.com/news/202611011812557284",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172835",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702083",
+  "https://biz.sbs.co.kr/article_hub/20000343769?division=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702084",
+  "https://www.edaily.co.kr/News/Read?newsId=02214006645642112&mediaCodeNo=257",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008827296&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "홍천군,'2026재난대응안전한국훈련'실시...복합재난상황가정",
-  "[AIoT위크코리아2026]연결넘어자율지능으로…AIoT산업혁신한자...",
-  "오라클,AI솔루션판매문턱낮춘다…마켓플레이스확대",
-  "AI안경쓴사람접근하면경고…‘역감시’앱확산",
-  "[AIoT위크코리아2026]자율주행부터산업안전까지…AIoT혁신기술총...",
-  "KT-삼성전자,수원KT위즈파크서'AI무선망'자율운용기술검증",
-  "도봉구,'2026재난대응안전한국훈련'실시…복합화재대응체계점검",
   "G-CON2026\"김형태,장항준등세션별일정공개\"",
   "[기고]‘AI행정’,각자도생넘어공동대응으로",
   "에이수스,그랜드십일절에게이밍노트북4종선보여",
@@ -6001,7 +5994,14 @@
   "[속보]또고개숙인나스닥1.07%↓",
   "[투데이온]TSMC,텍사스에'60조팹'추진설…삼성과300㎞거리서전면...",
   "엔비디아투자한마벨,루멘텀154조에인수⋯AI반도체초대형빅딜",
-  "유가급락도못막은AI불안…나스닥1.1%↓[월스트리트in]"
+  "유가급락도못막은AI불안…나스닥1.1%↓[월스트리트in]",
+  "삼성·SK·LG,출자저울질…韓기업들日서새기회찾는다[韓日,데이...",
+  "유가폭락에도..뉴욕증시반도체주'출렁',나스닥·나스닥100'급락'",
+  "90초마다천여차례걸쳐송금…출금재개후6조6천억원순유출",
+  "[외신헤드라인]마벨,155조에'엔비디아픽'루멘텀인수",
+  "유럽서또슈퍼마켓냉장고해킹…“식량공급방해”",
+  "바이낸스해킹이후6조원대순유출…전체자산중3%수준",
+  "\"왜이런짓하는지\"분통…유럽서또대규모냉장고해킹"
  ],
  "recent_sigs": [
   [
@@ -6207,9 +6207,17 @@
   [
    "2026-11-03T06:28:18.033518+09:00",
    "나스닥 급락도 유가 막은 불안"
+  ],
+  [
+   "2026-11-03T06:30:32.886834+09:00",
+   "이후 자산중 수준 전체 바이낸스 6조원대 순유출"
+  ],
+  [
+   "2026-11-03T06:30:32.886834+09:00",
+   "분통 대규모 이런 하는지 냉장고 유럽서"
   ]
  ],
- "last_run": "2026-11-03T06:28:39.688191+09:00",
+ "last_run": "2026-11-03T06:30:56.517754+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
