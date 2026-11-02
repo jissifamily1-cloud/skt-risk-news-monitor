@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/topics/law_firm/2026/10/28/Z6SGFP4KTJAVLL35IHCC4PUJEI/",
-  "https://view.asiae.co.kr/article/2026102810493504280",
-  "https://www.hankyung.com/article/2026102801217",
-  "https://www.slist.kr/news/articleView.html?idxno=777052",
-  "https://www.yna.co.kr/view/AKR20261028074900004?input=1195m",
-  "https://www.mt.co.kr/economy/2026/10/28/2026102810201850749",
-  "https://www.mt.co.kr/society/2026/10/28/2026102810001377800",
-  "https://www.busan.com/view/busan/view.php?code=2026102809565954556",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=91064",
-  "https://www.news1.kr/society/court-prosecution/6334420",
   "https://www.newsis.com/view/NISX20261026_0003840882",
   "https://www.seoultimes.news/news/article.html?no=2000101444",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=319673",
@@ -2999,19 +2989,19 @@
   "http://www.joseilbo.com/news/news_read.php?uid=578699&class=79",
   "https://www.news1.kr/world/europe/6339978",
   "https://www.ajunews.com/view/20261102105203958",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730108"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730108",
+  "https://www.chosun.com/sports/baseball/2026/11/02/E4M2AKLQDJCNHHIH24QSCRYMSI/",
+  "https://www.starnewskorea.com/sports/2026/11/02/2026110214431646367",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730075",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591527597631",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500591",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=878852",
+  "https://www.viva100.com/article/20261102500045",
+  "https://www.ddaily.co.kr/page/view/2026110213512779060",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701439",
+  "https://www.hankookilbo.com/news/article/A2026110212370001395?did=NA"
  ],
  "seen_titles": [
-  "농협은행,4년간특별시정살림책임진다",
-  "정재헌SKT1년,통신은회복…AI수익화시험대",
-  "SKT인사부터,KT사업부터…AI기업변신서두른다",
-  "SKT,'AI거버넌스리포트'첫발간…'트러스트경영'강화한다",
-  "에스엘즈,건설AI솔루션‘BuildAR2.0’조달청혁신제품지정…공공...",
-  "최태원·노소영재산분할재상고심,김성수대법관이주심맡기로",
-  "\"지분승계로5조원확보\"…이재용회장,대기업오너주식순취득1위",
-  "최태원-노소영재산분할재상고심주심에김성수대법관…심리시작",
-  "최태원·노소영,'재산분할'재상고심대법원2부배당",
-  "최태원-노소영재산분할재상고심대법원2부배당…주심김성수",
   "동거인김희영응원왔나?…최태원에이수만까지깜짝등장",
   "최태원·노소영'재산분할'재상고심주심김성수대법관…심리시작",
   "오너일가주식취득1위이재용‘5조’…세살배기도145억취득",
@@ -6001,13 +5991,19 @@
   "KT,3G신규가입중단…일부LTE폰도전환대상",
   "러·우크라비상경보앱잇따라해킹…'핵·화학공격'가짜경보전송",
   "[아주사설│기본·원칙·상식]북한은해킹으로8조원털었다는데…\"평화...",
-  "9조원해킹이던진질문…코인거래소,고객돈어디까지책임지나"
+  "9조원해킹이던진질문…코인거래소,고객돈어디까지책임지나",
+  "KT대니엘-삼성최원태,3일한국시리즈수원1차전선발격돌",
+  "[포토]소형준'선취점이포인트'",
+  "'붉은사막'vs'아이온2'…2026게임대상왕좌누가차지할까",
+  "지스타조직위,'지콘2026'전체프로그램공개",
+  "초고성능NPU및전장화확산…차세대시스템반도체주노려라",
+  "청와대AI정책라인재편…삼성출신이지수비서관임명",
+  "“첨단연구새시대연다”…베일벗은국가슈퍼컴6호기‘한강’",
+  "[KB금융인사기상도]이재근號첫인사…계열사CEO10명‘물갈이’촉...",
+  "금융위,가상자산거래소긴급소집…콜드월렛확대·24시간보안관제...",
+  "엔비디아,9~10일서울서'AI데이'...삼성·SK·LG·두산총출동"
  ],
  "recent_sigs": [
-  [
-   "2026-11-02T08:46:14.686938+09:00",
-   "의심하라 사람을 실리콘밸리"
-  ],
   [
    "2026-11-02T08:48:14.066117+09:00",
    "LG유플러스 국제표준 획득 ~LGU 평촌2센터 인증 에너지경영 ISO"
@@ -6711,9 +6707,13 @@
   [
    "2026-11-02T14:44:15.837103+09:00",
    "책임지나 고객 코인거래소 던진 9조원 질문 해킹이 어디까지"
+  ],
+  [
+   "2026-11-02T14:46:15.854475+09:00",
+   "SK 10일 총출동 데이 삼성 LG 두산 서울서"
   ]
  ],
- "last_run": "2026-11-02T14:44:42.095279+09:00",
+ "last_run": "2026-11-02T14:46:34.246062+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
