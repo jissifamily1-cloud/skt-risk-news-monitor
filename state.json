@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026110186001",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16265097",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3738877",
-  "https://www.hankyung.com/article/2026110185881",
-  "https://www.sedaily.com/article/20108813",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1335663",
-  "https://www.fnnews.com/news/202611011808461053",
-  "https://www.edaily.co.kr/News/Read?newsId=05323446645617840&mediaCodeNo=257",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=878504",
   "https://www.khan.co.kr/article/202611011810001",
   "https://www.yna.co.kr/view/AKR20261101041200007?input=1195m",
@@ -2999,15 +2991,17 @@
   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=100190",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88957",
   "https://www.newscj.com/news/articleView.html?idxno=3445145",
-  "http://www.newstomato.com/ReadNews.aspx?no=1318892&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1318892&inflow=N",
+  "https://www.news1.kr/it-science/mobile/6339771",
+  "http://www.newsdream.kr/news/articleView.html?idxno=121299",
+  "https://biz.sbs.co.kr/article_hub/20000343552?division=NAVER",
+  "http://www.iminju.net/news/articleView.html?idxno=171775",
+  "https://www.yna.co.kr/view/PYH20261102136900013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261102137000013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261102137100013?input=1196m",
+  "https://www.public25.com/news/articleView.html?idxno=57693"
  ],
  "seen_titles": [
-  "LG전자,美컨슈머리포트'최고가전'휩쓸어",
-  "KT,데이터센터냉각설비점검",
-  "아이브안유진,강렬콘셉트시선고정…'룩스캔킬'분위기잇는셀카",
-  "대구지방보훈청,'히어로즈보훈드림하우스'준공...6·25유공자19가구...",
-  "샘올트먼,1박2일깜짝방한…최태원과HBM공급논의",
-  "韓제조시설도해킹먹잇감…제어시스템노출‘세계5위’",
   "경기학생18만9709명…5년뒤교실서사라진다",
   "한투·SBI,10조펀드로日데이터센터짓는다[韓日,데이터센터펀드조...",
   "日,올해개인정보유출피해자2억6000만명…인구2배규모",
@@ -6001,13 +5995,15 @@
   "'음바페가사과했는데도중국은용서하지않았다!'…라리가중계중단...",
   "글로벌AI기업,AI학습거부권지원...뒤늦은조치비판",
   "삼성·SK·LG·네이버'총출동'…엔비디아'AI데이서울2026'개막",
-  "정부,피지컬AI예산‘3배’로…힘실리는현대차로봇·자율주행"
+  "정부,피지컬AI예산‘3배’로…힘실리는현대차로봇·자율주행",
+  "글로벌스마트폰출하량20%급감에도삼성,1위수성",
+  "KT,3G서비스신규가입전면중단…LTE·5G전환지원본격화",
+  "[직설]'구글'에이어'인텔'쇼크…파장어디까지?",
+  "바이낸스,해킹후출금재개…약5조원순유출",
+  "바이낸스해킹,국내거래소는안전?",
+  "공노총,2차중앙행정기관이전관련정부에노조와협의요구"
  ],
  "recent_sigs": [
-  [
-   "2026-11-02T07:46:16.413693+09:00",
-   "~KT 공공형 체결 구축 와이파이 업무협약 문경새재 확대 문경시"
-  ],
   [
    "2026-11-02T07:50:24.687848+09:00",
    "침해사고에 오는 긴장 5일 금융권 잇따르는"
@@ -6727,9 +6723,13 @@
   [
    "2026-11-02T13:46:14.678883+09:00",
    "3배 정부 피지컬 현대차 예산 자율주행 실리는 로봇"
+  ],
+  [
+   "2026-11-02T13:48:16.813070+09:00",
+   "쇼크 어디까지 파장 인텔 이어 구글"
   ]
  ],
- "last_run": "2026-11-02T13:46:39.723569+09:00",
+ "last_run": "2026-11-02T13:48:34.262020+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
