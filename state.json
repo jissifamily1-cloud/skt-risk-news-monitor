@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2021504",
-  "https://www.cwn.kr/news/articleView.html?idxno=60735",
-  "https://www.youthdaily.co.kr/news/article.html?no=229226",
   "http://www.wsobi.com/news/articleView.html?idxno=320834",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717171",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=205699",
@@ -2999,12 +2996,12 @@
   "https://www.yna.co.kr/view/AKR20261102164400007?input=1195m",
   "http://www.yonhapnewstv.co.kr/news/MYH20261103061537ng2",
   "https://news.jtbc.co.kr/article/NB12326000?influxDiv=NAVER",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6862673_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6862673_37012.html",
+  "https://www.etoday.co.kr/news/view/2643234",
+  "http://www.newstomato.com/ReadNews.aspx?no=1318892&inflow=N",
+  "https://biz.sbs.co.kr/article_hub/20000343777?division=NAVER"
  ],
  "seen_titles": [
-  "[직설]'구글'에이어'인텔'쇼크…파장어디까지?",
-  "바이낸스,해킹후출금재개…약5조원순유출",
-  "바이낸스해킹,국내거래소는안전?",
   "공노총,2차중앙행정기관이전관련정부에노조와협의요구",
   "LGU+노사임단협결국결렬…중노위조정돌입",
   "KT·삼성전자,야구장통신망에AI입혔다…기지국트래픽불균형최대...",
@@ -6001,7 +5998,10 @@
   "◇내일의경기(4일)",
   "\"北해커,바이낸스탈취자금2차세탁착수\"",
   "절차보류요청에YTN노조\"방미통위,좌고우면말고결단하라\"",
-  "유럽'냉장고해킹'또발생‥식품줄줄이폐기"
+  "유럽'냉장고해킹'또발생‥식품줄줄이폐기",
+  "뉴욕증시,기술주약세속혼조⋯나스닥1.07%↓[상보]",
+  "정부,피지컬AI예산‘3배’로…힘실리는현대차로봇·자율주행",
+  "\"北해킹바이낸스자금,FBI공개목록밖100곳유입\""
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-11-03T06:16:16.466833+09:00",
    "생활형 모두의AI 라이징스타 긴장해야겠네 피클"
+  ],
+  [
+   "2026-11-03T06:20:25.583528+09:00",
+   "유입 FBI 100곳 바이낸스 공개목록 자금"
   ]
  ],
- "last_run": "2026-11-03T06:18:33.947507+09:00",
+ "last_run": "2026-11-03T06:20:44.832816+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
