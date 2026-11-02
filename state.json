@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228102",
-  "https://www.yna.co.kr/view/AKR20261029103800017?input=1195m",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877565",
-  "https://www.sedaily.com/article/20107655",
-  "https://view.asiae.co.kr/article/2026102909233135024",
-  "https://www.ablenews.co.kr/news/articleView.html?idxno=234268",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4115447",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729598",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=365380",
   "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900109.html",
   "https://www.sedaily.com/article/20108866",
   "https://www.dailian.co.kr/news/view/1708272/?sc=Naver",
@@ -2999,18 +2990,18 @@
   "https://www.hidomin.com/news/articleView.html?idxno=727643",
   "https://www.nocutnews.co.kr/news/6600877",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005953090",
-  "https://www.newsis.com/view/NISX20261102_0003851472"
+  "https://www.newsis.com/view/NISX20261102_0003851472",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000036",
+  "https://www.xportsnews.com/article/2214343",
+  "https://www.laborplus.co.kr/news/articleView.html?idxno=41754",
+  "https://www.cctoday.co.kr/news/articleView.html?idxno=2239486",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000078903",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280247",
+  "https://www.ytn.co.kr/_ln/0103_202611021647036448",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280953&CMPT_CD=P0010",
+  "https://biz.sbs.co.kr/article_hub/20000343689?division=NAVER"
  ],
  "seen_titles": [
-  "YTN최대주주항소심12월18일선고...유진ENT\"승인취소미뤄달라\"",
-  "﻿유진이엔티,방미통위에YTN변경승인처분취소절차보류요청",
-  "방미통위,방송재난대응합동훈련실시⋯15개유관기관참여",
-  "유진이엔티\"YTN최대주주승인취소,항소심판결이후로\"",
-  "방미통위,방송중단대비15개기관합동훈련",
-  "EBS사장후보9명압축…김유열연임고배",
-  "재난으로방송중단대비…정부·방송사합동훈련",
-  "'YTN민영화취소'항소심12월18일...유진이엔티,청문등연기요청",
-  "특부가협회,방미통위에카카오신고…\"알림톡차단무력화\"",
   "구글·애플에637억철퇴…'인앱결제갑질'끝날까",
   "민주당,구글·애플‘인앱결제갑질’차단입법추진",
   "[Why&Next]구글·애플,637억대과징금…솜방망이처벌논란",
@@ -6001,7 +5992,16 @@
   "인텔29%폭락에도'검은월요일'없었다…코스피2.24%급등마감",
   "'AI훈풍'탄삼성전기…장덕현CEO\"대형성장의기회가왔다\"",
   "[구민정의크립토포커스]바이낸스,북한해킹한방에'8조원'유출…금...",
-  "'KT지명'충암고김지율,'1순위'하현승제치고고교최동원상수상"
+  "'KT지명'충암고김지율,'1순위'하현승제치고고교최동원상수상",
+  "제작사에맡기던광고,이젠직원이AI로만든다",
+  "\"한국시리즈MVP는원태인!\"박진만감독파격예언…선발+불펜전천후...",
+  "한국노총인천본부'함께땀흘리고응원하며'단결다져",
+  "24배강력해진국가슈퍼컴'한강'AI과학혁신시대연다",
+  "美기술주한파뚫고1.2조기관매수…코스피2.24%반등마감",
+  "[마감시황]美반도체충격딛고일어선코스피…기관중심매수세유...",
+  "\"5분이15일로\"...'수사·기소분리'한달,현장혼란속출",
+  "1차전승리팀우승확률73.8%...KT와삼성,누가먼저웃을까?",
+  "[증시인사이트]국내증시동반상승…외국인은여전히'셀코리아'"
  ],
  "recent_sigs": [
   [
@@ -6771,9 +6771,13 @@
   [
    "2026-11-02T16:50:27.780360+09:00",
    "수상 충암고 ~KT 고교 최동원상 지명 하현승 제치고 1순위 김지율"
+  ],
+  [
+   "2026-11-02T16:52:16.185390+09:00",
+   "동반 여전히 상승 코리아 국내증시 외국인은"
   ]
  ],
- "last_run": "2026-11-02T16:50:46.542845+09:00",
+ "last_run": "2026-11-02T16:52:40.421312+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
