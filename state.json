@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500583",
-  "https://www.newsis.com/view/NISX20261102_0003850880",
-  "https://www.sisajournal.com/news/articleView.html?idxno=392288",
   "https://www.news1.kr/photos/8192271",
   "https://view.asiae.co.kr/article/2026110210163374378",
   "http://www.osen.co.kr/article/G1112902627",
@@ -2999,12 +2996,12 @@
   "https://www.kmib.co.kr/article/20261103500055",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5228646",
   "https://www.insight.co.kr/news/580329",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=66933"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=66933",
+  "https://econotimes.com/Wikimedia-Says-ChatGPT-Pretraining-Likely-Is-Fair-Use-RAG-May-Not-Be-1769318",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078923",
+  "https://www.etoday.co.kr/news/view/2643260"
  ],
  "seen_titles": [
-  "이강철·박진만감독'활짝'",
-  "기자수첩/축사는짧게,축제의실속은깊게",
-  "TC본더부터검사장비까지…HBM밸류체인'왕성한식욕'",
   "8조원털어간北해커들…'트레이더트레이터'어떤조직이길래",
   "'6200억원과징금'둘러싸고쿠팡-개보위법정공방",
   "한국시리즈1차전D-1,KT-삼성미디어데이",
@@ -6001,7 +5998,10 @@
   "유가급락도소용없다…뉴욕증시,‘AI버블우려’기술주매도세",
   "벨기에·스웨덴등또'냉장고해킹'…온도급등에유럽식품망'비상'",
   "한양증권에서도해킹사고...고객정보등일부정보유출",
-  "바이낸스8조원해킹여파…금융위,\"국내거래소도신속출금제한허용..."
+  "바이낸스8조원해킹여파…금융위,\"국내거래소도신속출금제한허용...",
+  "WikimediaSaysChatGPTPretrainingLikelyIsFairUse,RAGMayNotBe",
+  "[07:45가상자산]비트코인,바이낸스·현물ETF자금이탈에약세",
+  "[오늘의투자전략]美AI주급락,반도체3.4%↓…국내증시저PBR·실적..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,13 @@
   [
    "2026-11-03T07:56:16.343914+09:00",
    "바이낸스 8조원 허용 금융위 거래소도 국내 신속 출금제한 여파"
+  ],
+  [
+   "2026-11-03T07:58:14.667082+09:00",
+   "증시 국내 저PBR 실적 급락 AI주 반도체"
   ]
  ],
- "last_run": "2026-11-03T07:56:33.955566+09:00",
+ "last_run": "2026-11-03T07:58:35.668933+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
