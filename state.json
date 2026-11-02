@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0104_202611011614157636",
-  "https://www.hankookilbo.com/news/article/A2026110113330005220?did=NA",
-  "https://www.chosun.com/economy/tech_it/2026/11/01/P6H3S3AXSNENJHIPDN4F7UICDY/",
-  "https://www.betanews.net/article/view/beta202611010029",
-  "https://www.dt.co.kr/article/12092453",
-  "http://www.4th.kr/news/articleView.html?idxno=2120887",
-  "https://www.hidomin.com/news/articleView.html?idxno=727434",
-  "https://www.fnnews.com/news/202611011548085939",
-  "https://www.aitimes.com/news/articleView.html?idxno=216863",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2356343",
   "https://basketkorea.com/news/newsview.php?ncode=1065598052720455",
   "https://basketkorea.com/news/newsview.php?ncode=1065597671948502",
@@ -2999,18 +2990,18 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=409094",
   "https://www.jemin.com/news/articleView.html?idxno=845906",
   "https://www.newsis.com/view/NISX20261102_0003850778",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16266003"
+  "https://www.topstarnews.net/news/articleView.html?idxno=16266003",
+  "https://www.edaily.co.kr/News/Read?newsId=02876566645641784&mediaCodeNo=257",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078588",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3739145",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3739130",
+  "https://view.asiae.co.kr/article/2026110116114272821",
+  "https://www.sedaily.com/article/20109035",
+  "https://www.newspost.kr/news/articleView.html?idxno=226930",
+  "http://www.newsprime.co.kr/news/article.html?no=753236",
+  "https://www.fnnews.com/news/202611021056042575"
  ],
  "seen_titles": [
-  "바이낸스,출금단계적재개…\"고객손실없도록자체부담\"(종합)",
-  "8조턴최정예'라자루스'...중국카르텔통해돈세탁",
-  "'8.4조'바이낸스해킹에벌벌떠는시장...금융권덮친'보안·보상청...",
-  "들썩이는‘AI회의론’,국내AI유니콘상장에영향줄까",
-  "인텔주가하루만에약30%폭락…실적개선에도성장전망에'경고등...",
-  "[이준기의과·알·세]빨라지는‘우주AI데이터센터’선점경쟁…미...",
-  "이재용,日소부장과밀착…AI반도체패키징키운다",
-  "상주시,산불·사찰화재대비재난대응안전한국훈련실시",
-  "AI투자우려에글로벌AI주'급락'…반도체'블랙먼데이'올까",
   "구글,'제미나이노트북'에무료교재수백권추가...AI학습기능확대",
   "[통신]SK텔레콤,AI에이전트1500개활용…LG유플러스,보안영재교육...",
   "[경기후]문경은KT감독,“가다듬어야할게많을것같다”…손창...",
@@ -6001,7 +5992,16 @@
   "SKT이어KT도3G신규가입중단…고객전환부담낮출프로그램마련",
   "KT고영표·삼성최원태,한국시리즈첫판선발격돌…정규시즌우위와...",
   "방미통위,티알엔·티캐스트합병신청반려…태광그룹미디어통합차...",
-  "SK텔레콤주가,11월2일장중76,500원1.46%상승"
+  "SK텔레콤주가,11월2일장중76,500원1.46%상승",
+  "[사고]AI가판단하고로봇이실행한다…산업·경제바꿀AI미래조망",
+  "KT-삼성전자,가을야구에서AI네트워크운용기술검증",
+  "창녕경찰서,외국인밀집지역집중순찰…범죄예방물품도배부",
+  "\"고객덕분입니다\"…창녕농협,우수고객7명에감사패전달",
+  "\"내글AI학습에쓰지마\"…구글·오픈AI,일괄차단허용",
+  "北해커,바이낸스서탈취한비트코인…테슬라보다1.6배많아",
+  "KT,3G서비스종료검토…신규가입중단",
+  "방미통위노조,세종이전반발…\"협의없었다\"",
+  "어도비·엔비디아가송도에떴다…AI콘텐츠'어벤져스'집결"
  ],
  "recent_sigs": [
   [
@@ -6775,9 +6775,13 @@
   [
    "2026-11-02T11:24:16.962044+09:00",
    "상승 장중 11월 ~SKT 500원 2일 주가"
+  ],
+  [
+   "2026-11-02T11:26:15.984338+09:00",
+   "어도비 집결 어벤져스 송도에 콘텐츠 엔비디아가 떴다"
   ]
  ],
- "last_run": "2026-11-02T11:24:35.694536+09:00",
+ "last_run": "2026-11-02T11:26:37.189248+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
