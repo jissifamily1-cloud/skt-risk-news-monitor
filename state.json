@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/01/2026110190048.html",
-  "https://www.mk.co.kr/article/12192686",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42530",
-  "https://www.news1.kr/it-science/general-it/6338986",
-  "https://www.abcn.kr/news/articleView.html?idxno=93893",
-  "https://www.joongang.co.kr/article/25474732",
-  "https://www.joongangenews.com/news/articleView.html?idxno=560112",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611010037&t=NN",
-  "https://www.edaily.co.kr/News/Read?newsId=02250086645641456&mediaCodeNo=257",
-  "https://www.mk.co.kr/article/12192689",
   "https://www.cbci.co.kr/news/articleView.html?idxno=621867",
   "https://www.news1.kr/finance/blockchain-fintech/6338995",
   "https://www.ytn.co.kr/_ln/0102_202611011455587632",
@@ -2999,19 +2989,19 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5228457",
   "https://www.yna.co.kr/view/AKR20261102066600017?input=1195m",
   "https://www.etnews.com/20261102000155",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711743"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711743",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=878653",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3739265",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215517",
+  "https://www.businessplus.kr/news/articleView.html?idxno=119110",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=133643",
+  "https://www.kukinews.com/article/view/kuk202611020043",
+  "https://www.tokenpost.kr/news/breaking/431095",
+  "https://www.mk.co.kr/article/12193254",
+  "https://byline.network/?p=9004111222625641",
+  "https://www.itbiznews.com/news/articleView.html?idxno=229905"
  ],
  "seen_titles": [
-  "AI가장애예측,로봇이실시간점검…달라지는AI데이터센터",
-  "美FBI\"바이낸스8조원해킹,北소행…자금세탁막아야\"",
-  "1이닝8실점→4.2이닝5실점→2이닝4실점…또한번대구악몽에발목...",
-  "AI가과거대화의의미까지찾아낸다…카카오,한국어특화임베딩모델...",
-  "'쩍'갈라진아이폰듀오…구글·애플637억과징금[뉴스잇(IT)쥬]",
-  "1억원상금에채용특혜까지걸었는데…SK하이닉스AI해커톤,시스템장...",
-  "“SK하이닉스채용해택”내건AI해커톤,시스템장애로대회중단",
-  "SK텔레콤,AI에이전트1500개업무활용…전사생산성높이는'AX혁신...",
-  "비상기금까지꺼낸바이낸스…“해킹손실60억달러보전”",
-  "'챗GPT아버지'올트먼만난삼성사장단…AX속도낸다",
   "“드론공격에통신망마비되면?”…KT,복합재난대응점검나서",
   "해킹에미국규제강화움직임…암호화폐거래소감독·고객자산보호...",
   "바이낸스\"1일부터단계적출금재개…해킹자산90→95%보충\"",
@@ -6001,7 +5991,17 @@
   "美바이낸스'8조'해킹배후는북한?…트럼프\"북한이맞는다면대화할...",
   "[테크스냅]클루커스,AI에이전트'마누스'국내도입지원",
   "[ET톡]금융권해킹,2차피해막아야",
-  "63억달러해킹에도비트코인선방…2018년식패닉없었던이유"
+  "63억달러해킹에도비트코인선방…2018년식패닉없었던이유",
+  "슈퍼브에이아이,LH에분류시스템공급",
+  "계명문화대외식창업전공학생3명,관광협회장상수상",
+  "민티그럴,앱스플라이어'퍼포먼스인덱스2026'게이밍·크리에이티브...",
+  "[금융권이모저모]삼성자산운용,美국채ETF순자산2000억원돌파外",
+  "국가슈퍼컴퓨터6호기'한강'본격가동...국가전략R&D중점지원",
+  "美기술주쇼크에도버티는코스피…기관매수에‘상승전환’",
+  "바이낸스탈취금2억4200만달러,트론서세탁관측",
+  "日대기업도북한해커에털렸다…100만불요구에100만불현상금맞불",
+  "SKT,‘AX혁신2.0’본격화",
+  "KT,3G서비스신규가입중단…\"LTE/5G전환지원책마련\""
  ],
  "recent_sigs": [
   [
@@ -6689,7 +6689,7 @@
    "이유 63억달러 2018년식 없었던 패닉 비트코인 선방 해킹에도"
   ]
  ],
- "last_run": "2026-11-02T10:46:41.487831+09:00",
+ "last_run": "2026-11-02T10:48:31.566335+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
