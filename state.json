@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6334777",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877099",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113213",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800103.html",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080399",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303589",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254264",
-  "https://www.hankyung.com/article/2026102772811",
-  "https://www.dailian.co.kr/news/view/1707019/?sc=Naver",
-  "https://www.newspim.com/news/view/20261027001110",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271345437260349",
   "https://biz.chosun.com/it-science/ict/2026/10/27/BSXT5YT5IFHERIZSARLP3UGYY4/",
   "https://www.dailian.co.kr/news/view/1706676/?sc=Naver",
@@ -2999,19 +2989,19 @@
   "https://www.updownnews.co.kr/news/articleView.html?idxno=319385",
   "https://www.wikitree.co.kr/articles/1171088",
   "https://www.newsis.com/view/NISX20261102_0003850977",
-  "https://www.jemin.com/news/articleView.html?idxno=845919"
+  "https://www.jemin.com/news/articleView.html?idxno=845919",
+  "https://www.itbiznews.com/news/articleView.html?idxno=229919",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280858&CMPT_CD=P0010",
+  "http://www.osen.co.kr/article/G1112902628",
+  "https://www.sportsseoul.com/news/read/1646141",
+  "http://www.osen.co.kr/article/G1112902629",
+  "http://news.lghellovision.net/news/articleView.html?idxno=560664",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=361707",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242620",
+  "https://www.etnews.com/20261102000337",
+  "https://www.mk.co.kr/article/12193491"
  ],
  "seen_titles": [
-  "\"많이쓰는AI아닌잘쓰는AI\"…SKT,토큰효율로‘AX시프트'",
-  "오래'제로아이즈',골프·테니스·헬스장으로무인운영확대",
-  "[오늘의통신]SKT·KT·LGU+",
-  "해킹딛고현장서고객신뢰찾은SK텔레콤…\"세계적으로드문사례\"",
-  "앤트로픽초대형IPO에…삼전닉스·SKT도투자'잭팟'기대",
-  "SKT해킹딛고해지율'뚝'…\"정재헌표변화관리,신뢰회복에기여\"",
-  "[강소기업이간다]에스엘즈,공간지능AI로건설안전책임진다",
-  "AI골라주고비용까지관리…SKT'토큰게이트웨이'밑그림들어다보니",
-  "앤트로픽IPO에기대부푼SKT·네이버·LGCNS…최대26배차익전망",
-  "SK텔레콤10년이상고객에시카고초청장",
   "SK텔레콤,10년장기고객에뮤지컬초청…'특별한연말선물'제공",
   "SKT,10년이상장기고객1,299명초청해뮤지컬'시카고'단독공연연...",
   "SK텔레콤,고객신뢰위원회운영…소외지역찾아IT교육",
@@ -6001,7 +5991,17 @@
   "KT,3G신규가입중단…24개월요금할인포함LTE·5G전환지원",
   "고영표아니었다…삼성kt한국시리즈1차전‘선발’,드디어공개됐...",
   "KT대니엘-삼성최원태,1차전선발격돌…73.8%확률노린다[KS]",
-  "비트코인,바이낸스대규모해킹충격에흔들…거래소자금이탈속보..."
+  "비트코인,바이낸스대규모해킹충격에흔들…거래소자금이탈속보...",
+  "LGU+평촌2센터,에너지경영시스템국제표준'ISO50001'인증획득",
+  "김도영과함께할시간은길지않다",
+  "[사진]구자욱-원태인,'삼성분위기좋아'",
+  "[포토]KT이강철감독-삼성박진만감독,미디어데이앞두고...",
+  "[사진]박진만감독,'우승을위헤'",
+  "홍성바비큐축제23만4천명방문…주말사건·사고잇따라",
+  "넥스트증권,김승연2기출범…MTS·오픈API출시추진",
+  "포티넷,3분기매출2조7872억…전년비20%↑",
+  "NIA,제2회청소년'AI윤리ON'캠프개최…올바른AI활용방안교육",
+  "Over4,000SKTemployeescreateAIagentsforwork"
  ],
  "recent_sigs": [
   [
@@ -6711,9 +6711,13 @@
   [
    "2026-11-02T14:37:46.885131+09:00",
    "앞둔 ~KT 한국시리즈 wiz"
+  ],
+  [
+   "2026-11-02T14:42:15.902779+09:00",
+   "employees work Over for create agents ~SKT"
   ]
  ],
- "last_run": "2026-11-02T14:40:48.797963+09:00",
+ "last_run": "2026-11-02T14:42:38.786200+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
