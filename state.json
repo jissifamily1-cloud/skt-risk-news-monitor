@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/sb-founded/6338241",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825419&plink=ORI&cooper=NAVER",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=48651",
-  "https://www.news1.kr/finance/market-exr/6339043",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6862370_37012.html",
-  "http://www.osen.co.kr/article/G1112902367",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825420&plink=ORI&cooper=NAVER",
-  "https://www.hitnews.co.kr/news/articleView.html?idxno=80381",
   "https://www.ytn.co.kr/_ln/0104_202611020611159247",
   "http://www.thesportstimes.co.kr/news/articleView.html?idxno=377093",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/02/2026110290008.html",
@@ -2999,17 +2991,17 @@
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=194103",
   "https://kpenews.com/View.aspx?No=4289197",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4089381",
-  "https://www.kukinews.com/article/view/kuk202611020182"
+  "https://www.kukinews.com/article/view/kuk202611020182",
+  "https://news.dealsitetv.com/articles/177917",
+  "https://www.bntnews.co.kr/article/view/bnt202611020256",
+  "https://zdnet.co.kr/view/?no=20261102172639",
+  "https://www.mt.co.kr/world/2026/11/02/2026110216493825572",
+  "https://www.munhwa.com/article/11628161",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701562",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1021972",
+  "https://www.smartbizn.com/news/articleView.html?idxno=158248"
  ],
  "seen_titles": [
-  "바이낸스,63억弗해킹피해액90%복구...\"이용자피해없을것\"",
-  "1부오늘의주요뉴스",
-  "나사빠진軍…'4명순직사고'KT-1또공중충돌했는데'쉬쉬'",
-  "8.4조털린바이낸스,단계적출금재개…FBI\"배후는北\"",
-  "‘바이낸스해킹’에금융위,가상자산거래소등긴급소집",
-  "삼성이뼈저리게느낀것,원태인무조건잡아야한다…클래스증명에...",
-  "AI가수십년된과학난제풀었다는데…연구공로는누구몫?",
-  "\"춤추는로봇앞세워개발플랫폼띄운다\"…로보티즈,오픈소스승부수",
   "또불거진'AI수익성'의심…오늘코스피는?",
   "\"실기(失機)의늪서되찾은HBM초격차…'사즉생'이재용,1993년프랑크...",
   "'-29%인텔쇼크'에긴장한코스피…'육천피'회복기로",
@@ -6001,13 +5993,17 @@
   "[증권NOW]한국투자증권·미래에셋증권·KB증권·키움증권·신한투자증...",
   "빗썸,사내그룹웨어해킹에고객정보유출..주민번호·신분증사본등...",
   "NIA,전국중학생60여명대상'AI윤리ON'캠프개최",
-  "KT-삼성KS격돌…1차전선발은대니얼-최원태"
+  "KT-삼성KS격돌…1차전선발은대니얼-최원태",
+  "[재계투데이]LGCNS,인도네시아AI데이터센터구축外",
+  "한국시리즈일정…1차전선발투수",
+  "[유미's픽]\"이재용이콕찍은구미\"…삼성60조투자시동,다음은오...",
+  "'美IPO'앤트로픽,일본서최대4.7조조달…머스크눌렀다",
+  "105만몰린워커힐‘더뷔페’…연말‘호텔뷔페전쟁’시작됐다",
+  "국가슈퍼컴퓨터6호기‘한강’구축완료…첫가동시작",
+  "[포토뉴스]KT,삼성전자와AI네트워크운용기술검증",
+  "\"스마트홈이보안구멍됐다\"···GS건설해킹,건설업계통합플랫폼..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-02T11:30:33.812721+09:00",
-   "청문연기 YTN노조 유진 미뤄선 요청에"
-  ],
   [
    "2026-11-02T11:32:14.910021+09:00",
    "민주 여론 ARS 국힘"
@@ -6763,9 +6759,17 @@
   [
    "2026-11-02T17:26:15.810935+09:00",
    "어떻게 됐나 잘하게 제조업 탐내는 중국도 한국은 미국도"
+  ],
+  [
+   "2026-11-02T17:30:35.424695+09:00",
+   "~KT 삼성전자와 검증 기술 네트워크 운용"
+  ],
+  [
+   "2026-11-02T17:30:35.424695+09:00",
+   "됐다 건설업계 플랫폼 GS건설 통합 구멍 스마트홈이 보안"
   ]
  ],
- "last_run": "2026-11-02T17:28:39.340268+09:00",
+ "last_run": "2026-11-02T17:30:56.028604+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
