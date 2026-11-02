@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/briefing/430848",
-  "https://www.dailyt.co.kr/newsView/dlt202611010006",
-  "https://www.dt.co.kr/article/12092448",
-  "https://www.mt.co.kr/world/2026/11/01/2026110110110072238",
-  "http://www.4th.kr/news/articleView.html?idxno=2120885",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/01/20261101500065?wlog_tag3=naver",
-  "https://www.aitimes.com/news/articleView.html?idxno=216856",
-  "https://www.mt.co.kr/tech/2026/11/01/2026110110522915456",
-  "https://www.g-enews.com/view.php?ud=202611011557494931c5557f8da8_1",
-  "https://www.mt.co.kr/tech/2026/11/01/2026110110340848791",
   "https://www.news1.kr/finance/blockchain-fintech/6339029",
   "https://m.sports.naver.com/basketball/article/065/0000303799",
   "https://isplus.com/article/view/isp202611010096",
@@ -2999,19 +2989,19 @@
   "http://www.metroseoul.co.kr/article/20261102500178",
   "https://www.koreaittimes.com/news/articleView.html?idxno=158720",
   "https://www.yna.co.kr/view/AKR20261102075300017?input=1195m",
-  "https://www.mt.co.kr/tech/2026/11/02/2026110211090714850"
+  "https://www.mt.co.kr/tech/2026/11/02/2026110211090714850",
+  "https://www.newsis.com/view/NISX20261102_0003850500",
+  "https://www.hankyung.com/article/202611029878g",
+  "https://www.edaily.co.kr/News/Read?newsId=02804406645641456&mediaCodeNo=257",
+  "https://www.dt.co.kr/article/12092446",
+  "https://www.chosun.com/economy/tech_it/2026/11/02/DBCY7DTM2RFEDGISD3WXXKQMNQ/",
+  "http://www.breaknews.com/1247445",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/02/2026110200147.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825661&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/finance/blockchain-fintech/6339612",
+  "https://www.news1.kr/it-science/cc-newmedia/6339717"
  ],
  "seen_titles": [
-  "알트먼“과학발견묵혀선안돼”…수학성과더있다고확인",
-  "[저녁뉴스브리핑]바이낸스피해액95%보전·출금재개外",
-  "[데일리티뉴스룸]11월1일,어제의주요뉴스네컷정리",
-  "LG유플러스,청소년사이버보안전문가키운다",
-  "AI와슈퍼팩의결합…더은밀하고강력해진'빅머니'",
-  "SK하이닉스입사달렸는데..크래프톤운영해커톤잇단파행",
-  "이재용,日서AI반도체패키징점검…현지소부장협력확대",
-  "오픈AI,투자유치300억달러에서200억달러로축소...기업가치도하향",
-  "LGU+,AI시대정보보안전문가조기육성나선다",
-  "[최홍규의AI리터러시]요약은생성형AI가해도,무엇을버릴지는아이...",
   "AI전환속도내는SKT…기본부터'재설계'하는AX혁신2.0본격화",
   "바이낸스\"비트코인부터1단계출금재개…다른자산도순차허용\"",
   "'34P9R9A트리플더블급활약'배스앞세운KT,소노꺾고2연승질주",
@@ -6001,7 +5991,17 @@
   "[메트로창간24주년기획_리부트코리아]사람중심AI내건LG유플러스...",
   "KT,3G단말신규개통중단…LTE·5G전환지원책마련",
   "방미통위,G1등지역민방7곳재허가조건위반에시정명령",
-  "태광그룹티알엔·티캐스트합병제동…방미통위,승인신청반려"
+  "태광그룹티알엔·티캐스트합병제동…방미통위,승인신청반려",
+  "'KS행숨은주역'삼성이승민\"한국시리즈도전경기나갈준비됐다\"",
+  "'최악의보릿고개'라는데삼성은일냈다…또'세계1위'",
+  "'나문희·故이순재'걸그룹칼군무?'이재용·최태원'버전도[영상]",
+  "‘기술또기술’이재용,日서‘AI칩핵심’패키징열공",
+  "‘주가거품’꺼진中AI…반도체주까지반토막",
+  "KT,3G신규가입중단…LTE·5G전환고객에기기·요금지원",
+  "바이낸스8.4조원해킹에전액보전…국내거래소보안·손실보전체...",
+  "[자막뉴스]북한탈취비트코인등'8조원'규모…단일해킹으론최대",
+  "바이낸스해킹에물건너간'업토버'…비트코인,10월7.3%↓[코인브리핑...",
+  "방미통위,지상파7곳에시정명령…목포MBC과태료부과"
  ],
  "recent_sigs": [
   [
@@ -6755,9 +6755,13 @@
   [
    "2026-11-02T11:18:15.364550+09:00",
    "제동 태광그룹 티알엔 티캐스트 신청 반려 합병 승인"
+  ],
+  [
+   "2026-11-02T11:20:25.776413+09:00",
+   "시정명령 지상파 7곳에 목포MBC 과태료 부과"
   ]
  ],
- "last_run": "2026-11-02T11:18:41.753644+09:00",
+ "last_run": "2026-11-02T11:20:47.438078+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
