@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261016084139",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707398",
-  "https://www.tokenpost.kr/news/ai/422895",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707387",
-  "https://www.edaily.co.kr/News/Read?newsId=03358726645613248&mediaCodeNo=257",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707320",
-  "https://www.aitimes.com/news/articleView.html?idxno=216244",
-  "https://www.bbc.com/korean/articles/c6d092my88ddo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.tokenpost.kr/news/ai/422197",
   "https://www.aitimes.com/news/articleView.html?idxno=216150",
   "https://www.aitimes.com/news/articleView.html?idxno=216158",
   "https://www.aitimes.com/news/articleView.html?idxno=216160",
@@ -2999,18 +2990,18 @@
   "http://mcnews.co.kr/86846",
   "https://www.hidomin.com/news/articleView.html?idxno=727577",
   "https://www.jasm.co.kr/news/view/323837/?sc=Naver",
-  "https://www.etoday.co.kr/news/view/2643095"
+  "https://www.etoday.co.kr/news/view/2643095",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=284090",
+  "https://www.news1.kr/sports/baseball/6340058",
+  "https://www.ddaily.co.kr/page/view/2026110215123471085",
+  "https://www.ytn.co.kr/replay/view.php?idx=21&key=202611021516167964",
+  "https://www.widedaily.com/news/articleView.html?idxno=302629",
+  "https://www.lawissue.co.kr/view.php?ud=202611021522516310f4ab64559d_12",
+  "https://www.yna.co.kr/view/AKR20261102128000007?input=1195m",
+  "https://www.donga.com/news/Inter/article/all/20261102/134949396/1",
+  "https://biz.sbs.co.kr/article_hub/20000343677?division=NAVER"
  ],
  "seen_titles": [
-  "매출15배뛰었는데807억달러적자…앤트로픽,상장앞두고드러난민...",
-  "AGI선점해경쟁사GPU까지파괴…알트먼\"끔찍한시나리오\"",
-  "마약거래폭로갈등..머라이어캐리,친오빠와280억소송서승소[스타...",
-  "테슬라,'하늘나는로드스터'공개…\"전시용일뿐\"지적도",
-  "구글딥마인드\"AI자기개선가속증거없다\"…업계경고와온도차",
-  "일론머스크·샘알트먼정조준…할리우드가실리콘밸리에칼겨눈이유",
-  "美규제당국,오픈AI·앤트로픽AI안전성직접들여다본다",
-  "알트먼도기다리다환불…9년끈테슬라로드스터베일벗는다",
-  "9년늦은테슬라로드스터,공개앞두고커진의문…굳이필요할까?",
   "엔비디아황CEO,중국AI기업과안전논의촉구",
   "앤트로픽,3개월만에매출45%늘렸다…AI경쟁속'흑자성장'입증",
   "오픈AI\"애플이직직원,미공개기기자료100건넘게유출\"주장",
@@ -6001,7 +5992,16 @@
   "이지스,AI기반디지털어스플랫폼오픈베타시작",
   "국내가상자산금융제도권편입탄력붙나",
   "kt대니엘vs삼성최원태'맞대결'…한국시리즈1차전선발예고",
-  "금융당국,글로벌거래소해킹에국내긴급점검⋯보안강화조치논의"
+  "금융당국,글로벌거래소해킹에국내긴급점검⋯보안강화조치논의",
+  "[통신픽]AI로야구장먹통막는다…KT·삼성전자,무선망과부하해결",
+  "[뉴스1PICK]한국시리즈D-1,KT·삼성맞대결…우승트로피주인공은?",
+  "김형태·미카미신지,게임제작논한다…'지콘2026'일정공개",
+  "kt-삼성,내일한국시리즈1차전격돌…대니엘(kt)-최원태(삼성)선발대...",
+  "엔비디아·AMD·브로드컴,메타에6.7조투자…AI'순환금융'우려확산",
+  "위버스브레인,NE능률에AI튜터기술공급",
+  "삼성원태인\"복수심으로던질것\"…kt장성우\"봐주는건없다\"",
+  "바이낸스,해킹후일시중단했던인출재개하자마자4.9조원빠져나가",
+  "'바이낸스해킹'에금융위거래소와긴급회의…콜드월렛확대·준비금..."
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,25 @@
   [
    "2026-11-02T15:22:16.798901+09:00",
    "허위경보 방사능 헤르손 키이우에 끝나며 휴전 공방"
+  ],
+  [
+   "2026-11-02T15:26:14.175123+09:00",
+   "튜터 기술 위버스브레인 NE능률에 공급"
+  ],
+  [
+   "2026-11-02T15:26:14.175123+09:00",
+   "봐주는 삼성 복수심으로 장성우 원태인 던질 없다 ~KT"
+  ],
+  [
+   "2026-11-02T15:26:14.175123+09:00",
+   "일시중단했던 바이낸스 빠져나가 재개하자마자 인출 9조원"
+  ],
+  [
+   "2026-11-02T15:26:14.175123+09:00",
+   "콜드월렛 긴급회의 바이낸스 준비금 금융위 거래소와 확대"
   ]
  ],
- "last_run": "2026-11-02T15:24:33.669093+09:00",
+ "last_run": "2026-11-02T15:26:42.610619+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
