@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261030_0003848980",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=449611",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020011&t=NN",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611020009&t=NN",
-  "https://www.mk.co.kr/article/12192949",
   "https://www.kyeonggi.com/article/20261102580008",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700945",
   "https://www.sedaily.com/article/20108780",
@@ -2999,14 +2994,14 @@
   "https://www.ceoscoredaily.com/page/view/2026110212303527382",
   "https://ilyo.co.kr/?ac=article_view&entry_id=513418",
   "https://news.mtn.co.kr/article/2026110216421256078",
-  "http://www.segyebiz.com/newsView/20261102516199?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20261102516199?OutUrl=naver",
+  "http://www.osen.co.kr/article/G1112902659",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487425",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307903",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=767397",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3739965"
  ],
  "seen_titles": [
-  "[칼럼]누가내밥상을쥐락펴락하는가?",
-  "北해커가훔친비트코인만1.9조원…테슬라보유량도넘었다",
-  "FBI\"바이낸스8조4000억해킹은북한소행\"…업비트·빗썸사례와무엇...",
-  "[IR분석]GS건설,수주목표'적신호'…4Q로넘어간부담",
-  "2025문동주처럼?…'마무리'원태인,KS에서는다시선발로출격하나[초...",
   "삼성,가을야구대진표‘올클리어’…다른팀은영원히못한다[베이...",
   "스마트TV서기능삭제,인스타서릴스삭제…AI활용한‘빼기테크’...",
   "\"고객관리부터업무효율까지\"…업종불문AI전환",
@@ -6001,7 +5996,12 @@
   "SKT이어KT도3G접는다…단말기무료교체·요금할인까지“3G시대,역...",
   "대니엘‘안정감’vs최원태‘반전기대’…KT·삼성한국시리즈1차...",
   "올트먼방한에확인된메모리동맹…삼전닉스,HBM주도권경쟁",
-  "바이낸스8조해킹여파…금융위,국내코인거래소보안긴급점검"
+  "바이낸스8조해킹여파…금융위,국내코인거래소보안긴급점검",
+  "\"선발진힘있다\"3주푹쉬었는데,왜KT는6차전우승예상할까...\"좌타...",
+  "델타항공,아태노선'무료와이파이'도입···전국제선디지털연결",
+  "KT도3G신규가입중단···단말교체·요금할인지원",
+  "LG유플러스,평촌2센터에너지관리체계국제표준'ISO50001'인증획득",
+  "하이브사내시스템해킹…직원·협력사개인정보대량유출"
  ],
  "recent_sigs": [
   [
@@ -6773,7 +6773,7 @@
    "확인된 동맹 삼전닉스 HBM 방한에 주도권 메모리 경쟁"
   ]
  ],
- "last_run": "2026-11-02T17:44:49.106487+09:00",
+ "last_run": "2026-11-02T17:46:36.616566+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
