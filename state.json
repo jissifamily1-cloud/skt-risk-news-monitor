@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsseoul.com/news/read/1646156",
-  "http://www.osen.co.kr/article/G1112902649",
-  "https://www.newsis.com/view/NISI20261102_0021515425",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3739677",
-  "https://www.ezyeconomy.com/news/articleView.html?idxno=241462",
-  "https://www.chosun.com/national/regional/2026/11/02/PISLZFXU75ADDFYN5GL7WAA3II/",
   "https://www.koreatimes.co.kr/path/A2026110214070005580",
   "https://www.ikbc.co.kr/article/view/kbc202611020047",
   "https://www.edaily.co.kr/News/Read?newsId=03611286645641784&mediaCodeNo=257",
@@ -2999,15 +2993,15 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=560591",
   "https://vop.co.kr/A00001697432.html",
   "https://news.mtn.co.kr/article/2026110308510388740",
-  "http://www.choicenews.co.kr/news/articleView.html?idxno=172844"
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172844",
+  "https://www.seoultimes.news/news/article.html?no=2000101692",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=622455",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3740414",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=307908",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261103085338qfP",
+  "https://www.tokenpost.kr/news/breaking/431662"
  ],
  "seen_titles": [
-  "[사진]KT-삼성,'한국시리즈우승을위해'",
-  "“굿바이3G”KT,3G단계적종료수순…LTE·5G전환지원본격화",
-  "[사진]이강철-박진만감독,'우승트로피는우리꺼'",
-  "한국시리즈승부예상하는이강철감독과박진만감독",
-  "박석연유성구의원,먹거리취약계층돌봄체계구축논의",
-  "삼성전자,다카르청소년올림픽공식파트너참여…'빅토리셀피'첫선",
   "세계35개국의료·바이오전문가1500명,대구에모인다",
   "DoubtsonAIinvestmenttotestKoreaneconomy",
   "\"AI서버수명1년줄였을뿐인데\"…빅테크순이익50조원사라진다?",
@@ -6001,7 +5995,13 @@
   "北연계해커,바이낸스탈취자금세탁가속...솔라나서비트코인으로",
   "김여정,바이낸스해킹배후지목에“미국의정치적도발”",
   "한양증권도해킹사고…고객이름·계좌·주민번호등유출",
-  "데이터센터새이름'컴퓨트캠퍼스'?...오픈AI,왜나섰나"
+  "데이터센터새이름'컴퓨트캠퍼스'?...오픈AI,왜나섰나",
+  "[뉴스인데이터]30대그룹CEO인사지도바뀌뀐다...기획통→기술·현...",
+  "[속보]한양증권도해킹피해…주민등록번호운점면허등개인정보유출...",
+  "\"주민번호·계좌번호까지\"…한양증권,해킹으로개인정보유출",
+  "한양증권도해킹피해···고객계좌번호·주민등록번호등31건유출",
+  "김여정,바이낸스해킹부인…\"美정치적도발\"",
+  "무기한계약출시…폴리마켓,앤스로픽사전IPO에최대10배레버리지"
  ],
  "recent_sigs": [
   [
@@ -6411,9 +6411,17 @@
   [
    "2026-11-03T08:54:17.438216+09:00",
    "캠퍼스 데이터센터 나섰나 이름 컴퓨트"
+  ],
+  [
+   "2026-11-03T08:56:15.872795+09:00",
+   "기술 인사지도 바뀌뀐다 CEO 30대 기획통"
+  ],
+  [
+   "2026-11-03T08:56:15.872795+09:00",
+   "10배 레버리지 폴리마켓 IPO에 출시 사전 무기한 계약"
   ]
  ],
- "last_run": "2026-11-03T08:54:38.645948+09:00",
+ "last_run": "2026-11-03T08:56:39.267160+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
