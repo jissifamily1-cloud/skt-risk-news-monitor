@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700753",
-  "https://www.tokenpost.kr/news/breaking/430818",
-  "https://www.hankyung.com/article/2026110182587",
-  "https://www.mt.co.kr/world/2026/11/01/2026110113092113535",
-  "https://www.pennmike.com/news/articleView.html?idxno=130706",
-  "https://m.skyedaily.com/news_view.html?ID=313878",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1108012",
-  "https://www.newspim.com/news/view/20261101000052",
-  "https://www.koreaherald.com/article/10921714",
-  "https://www.seoul.co.kr/news/international/2026/11/01/20261101500048?wlog_tag3=naver",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442365",
   "https://www.dt.co.kr/article/12092411",
   "https://biz.chosun.com/international/international_general/2026/11/01/W3T4B2XCQFAQRBHDULFOI74WME/",
   "https://m.sports.naver.com/basketball/article/065/0000303791",
@@ -2999,20 +2988,20 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008822374&plink=ORI&cooper=NAVER",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711711",
   "https://zdnet.co.kr/view/?no=20261102101822",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280157"
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280157",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711682",
+  "https://www.fnnews.com/news/202611020958034251",
+  "https://www.lecturernews.com/news/articleView.html?idxno=213046",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365502",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94713",
+  "https://kbench.com/?q=node%2F282960",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280612&CMPT_CD=P0010",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209244",
+  "https://www.khan.co.kr/article/202611021019001",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=100422",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=61155"
  ],
  "seen_titles": [
-  "FBI,바이낸스8.4조원코인해킹배후로북한공식지목",
-  "트럼프“바이낸스해킹,북한소행확인되면북한과대화할것”",
-  "바이낸스출금11월1일재개목표유지…워처그루는‘수시간내’주...",
-  "트럼프\"바이낸스해킹,北소행확인되면대화할것\"",
-  "바이낸스해킹에거래소들'비상'…가상자산업계신뢰도시험대",
-  "[재계핫이슈]인텔의역대급대폭락은삼전닉스초호황'반작용'...블랙...",
-  "[스카이만평]<35>해킹,세계는지금리얼전쟁중",
-  "충남홍성글로벌바비큐페스티벌방문객통계확바꿨다!",
-  "[PO]'총력전'KIA,'3차전선발'시라카와도대기…\"올러5이닝넘기면...",
-  "KoreanentertainmentexpandsitspresenceonglobalTVscreens",
-  "20분새8조원털린바이낸스“공포질려지켜보기만”…트럼프“北해...",
   "샘올트먼,삼성·SK회동…AI·반도체협력강화",
   "“北소행이면직접이야기”…트럼프,바이낸스해킹에대응시사",
   "트럼프“바이낸스해킹,北소행일시북한과대화할것”",
@@ -6001,7 +5990,18 @@
   "[정치쇼]박지원\"정청래깃발?무슨깃발드나…김민석흔들때아닌도...",
   "KT,3G신규가입중단...서비스종료검토",
   "방미통위노조\"세종이전졸속추진,직원협의부터다시해야\"",
-  "OpenAICEOSamAltmanMeetsSamsung,SKLeadersDuringKoreaVisit"
+  "OpenAICEOSamAltmanMeetsSamsung,SKLeadersDuringKoreaVisit",
+  "KT·삼성전자,야구장서AI무선망기술실증...트래픽불균형34%개선",
+  "삼성전자,스마트폰보안앞세워상반기아프리카스마트폰시장1위",
+  "충남대학교,국립공주대와정재승KAIST교수특별강연등'2026산학협력...",
+  "AI투자논란에자금조달차질",
+  "코스피,장초반하락뒤1%대상승5,800선…SK닉스2%대상승",
+  "이엠텍아이앤씨,MHS와고발열AIGPU서버냉각기술개발…레드빗에액...",
+  "불안의시대,숲에서아이들이배운것",
+  "[보안칼럼]금융권연쇄침해사고가드러낸API보안의사각지대",
+  "KT도3G신규가입중단…LTE·5G전환지원",
+  "비트코인,바이낸스해킹충격속1억500만원대회복…7만7800달러선",
+  "에이전틱AI·강화학습정조준…에이수스,엔비디아VeraCPU서버'XAP2..."
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-11-02T10:20:25.525787+09:00",
    "Visit Korea Sam During SK Samsung Leaders Altman Meets CEO"
+  ],
+  [
+   "2026-11-02T10:22:15.030985+09:00",
+   "Vera 서버 CPU 에이수스 P2 에이전틱 강화학습 XA 정조준"
   ]
  ],
- "last_run": "2026-11-02T10:20:47.394716+09:00",
+ "last_run": "2026-11-02T10:22:35.849466+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
