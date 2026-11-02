@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026110183597",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228348",
-  "https://www.dizzotv.com/site/data/html_dir/2026/11/01/2026110180031.html",
-  "https://www.econovill.com/news/articleView.html?idxno=755618",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100383",
-  "https://www.dailyt.co.kr/newsView/dlt202611010009",
-  "https://www.pennmike.com/news/articleView.html?idxno=130715",
-  "https://www.newsgn.com/news/articleView.html?idxno=582709",
   "https://www.yna.co.kr/view/AKR20261031047451003?input=1195m",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=878492",
   "http://weekly.chosun.com/news/articleView.html?idxno=56719",
@@ -2999,17 +2991,17 @@
   "https://www.mk.co.kr/article/12193318",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=511736",
   "http://www.kdfnews.com/news/articleView.html?idxno=190277",
-  "https://view.asiae.co.kr/article/2026110209570828960"
+  "https://view.asiae.co.kr/article/2026110209570828960",
+  "https://www.ilovepc.co.kr/news/articleView.html?idxno=61164",
+  "https://www.mt.co.kr/stock/2026/11/02/2026110210205577612",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000078710",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=200337",
+  "https://www.newspost.kr/news/articleView.html?idxno=226938",
+  "https://www.kbsm.net/news/view.php?idx=539973",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=622116",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3739336"
  ],
  "seen_titles": [
-  "트럼프“바이낸스해킹,北소행이면대화”…이란엔추가타격경고",
-  "9조털린코인거래소\"탈취자산95%보충…암호화폐출금재개\"",
-  "바이낸스,출금서비스단계적재개…해킹피해95%복구",
-  "이재용회장,첨단반도체패키징기술일본현장점검",
-  "이재용삼성전자회장,日요코하마연구소찾아…\"첨단패키징기술확...",
-  "[이번주증시]애플·AMD실적에반도체반등달렸다…美중간선거도변...",
-  "FBI,바이낸스60억달러대가상자산탈취배후로북한지목",
-  "FBI,바이낸스63억달러해킹배후로北'트레이더트레이터'지목",
   "북한,바이낸스60억달러해킹배후…사이버위협전방위확산",
   "똑똑해진아파트,개인정보안전할까…건설사해킹에보안우려(종합)",
   "힘빠진사자-호랑이...기다리는KT'함박웃음'",
@@ -6001,7 +5993,15 @@
   "北해커훔친비트코인이정도였나…北연간수출액3배",
   "[뉴스워커_매드포갈릭]2일부터T멤버십할인행사…피자증정은9일부...",
   "위버스브레인,NE능률과교재연계AI말하기학습개발",
-  "日IT기업해킹에北연계정황…\"IP5개일치\""
+  "日IT기업해킹에北연계정황…\"IP5개일치\"",
+  "제피러스G16부터TUF까지…에이수스,11번가그랜드십일절참가",
+  "코스피,인텔쇼크에도상승전환…미국선거변동성은경계",
+  "국가슈퍼컴6호기'한강'본격가동…연산성능24배향상",
+  "8조원털린바이낸스…문열자5조원이탈",
+  "[뉴스포스트한입이슈]北비트코인·10월수출·핼러윈",
+  "NIA,청소년AI윤리캠프개최",
+  "엔비디아,9일서울코엑스서AI데이개최…피지컬AI·로봇·에이전틱...",
+  "튀니지,오픈AI-앤트로픽로고스마트폰…AI모델대결현장"
  ],
  "recent_sigs": [
   [
@@ -6739,9 +6739,13 @@
   [
    "2026-11-02T11:14:16.208888+09:00",
    "IP 일치 IT 5개 해킹에 기업 정황 연계"
+  ],
+  [
+   "2026-11-02T11:16:16.686206+09:00",
+   "튀니지 모델 현장 앤트로픽 스마트폰 대결 로고"
   ]
  ],
- "last_run": "2026-11-02T11:14:34.216903+09:00",
+ "last_run": "2026-11-02T11:16:34.561701+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
