@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20261028517125?OutUrl=naver",
-  "https://zdnet.co.kr/view/?no=20261028180832",
-  "https://www.dailian.co.kr/news/view/1707603/?sc=Naver",
-  "https://www.ajunews.com/view/20261028164440146",
-  "https://zdnet.co.kr/view/?no=20261028152649",
-  "https://biz.heraldcorp.com/article/10917887",
-  "https://www.news1.kr/photos/8183855",
-  "https://www.inews365.com/news/article.html?no=941144",
   "https://zdnet.co.kr/view/?no=20261028110228",
   "https://zdnet.co.kr/view/?no=20261028094054",
   "https://www.asiatime.co.kr/article/20261028500143",
@@ -2999,17 +2991,17 @@
   "https://www.ikbc.co.kr/article/view/kbc202611020059",
   "https://www.ytn.co.kr/_ln/0101_202611021651461408",
   "https://www.ceoscoredaily.com/page/view/2026110215545137699",
-  "https://www.kyeongin.com/article/1773903"
+  "https://www.kyeongin.com/article/1773903",
+  "https://www.nocutnews.co.kr/news/6600892",
+  "https://www.kmib.co.kr/article/20261102501584",
+  "https://www.socialvalue.kr/news/view/1065599617089403",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209262",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261102165657FtP",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=7181",
+  "https://www.sedaily.com/article/20108866",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=200345"
  ],
  "seen_titles": [
-  "개보위,개인정보유출대교·영훈의료재단에과징금38억8500만원",
-  "개보위,고객센터개인정보조회통제강화",
-  "개보위,무방비로개인정보65만건털린대교에과징금32억원부과",
-  "대교·대전선병원등개인정보유출…억대과징금부과",
-  "[2026국감]'42만명개인정보유출'듀오박수경,울먹…성평등부'관리...",
-  "규제기관세종行…IT업계\"상주냐출장이냐\"",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(10월29일목요일)",
-  "탈북민신상정보,北으로날려보내고통지도없었다",
   "\"대신·빗썸·미래에셋도털려\"…국가안보실,직접나섰다",
   "靑안보실,빗썸·대신증권해킹에긴급점검…\"2차피해차단만전\"",
   "[인터뷰]임현성한국안경광학과교수협의회회장(을지대안경광학과교...",
@@ -6001,7 +5993,15 @@
   "'삼성전첫등판'kt대니엘vs'kt전약세'최원태…KS1차전격돌",
   "국가가관리하는북한해커부대...\"AI날개달면지옥문\"",
   "태광그룹티알엔·티캐스트합병급제동…방미통위,승인신청반려",
-  "“수원에서시작해수원에서끝낼것”ktwiz,5년만에통합우승출사..."
+  "“수원에서시작해수원에서끝낼것”ktwiz,5년만에통합우승출사...",
+  "\"선발완봉욕심도나지만…\"팀위해불펜자처한원태인\"우승마지막...",
+  "2026KBO리그대미장식할KS…KT대니엘·삼성최원태1차전격돌",
+  "[SV유통단신]bhc,직영점서한국시리즈전경기중계外",
+  "[보안칼럼]AI시대한국제조업,비즈니스복원력을위한아이덴티티...",
+  "中,北미사일시험에\"정치결해결해야\"…한미일군사동향도거론",
+  "금융위,업비트빗썸등5개가상자산사업자소집해긴급보안점검",
+  "G마켓,정보유출고객에1만원지급…e쿠폰피해는전액보상",
+  "AI데이터센터투자확대…국산기술활용이관건"
  ],
  "recent_sigs": [
   [
@@ -6777,7 +6777,7 @@
    "출사 끝낼 wiz 시작해 만에 5년 수원에서 ~KT 통합우승"
   ]
  ],
- "last_run": "2026-11-02T16:56:35.389966+09:00",
+ "last_run": "2026-11-02T16:58:35.883741+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
