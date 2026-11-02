@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8700862",
-  "https://www.hankookilbo.com/news/article/A2026110121160001915?did=NA",
-  "https://www.ajunews.com/view/20261101214937161",
-  "https://www.khan.co.kr/article/202611012151005",
-  "https://www.dailian.co.kr/news/view/1708266/?sc=Naver",
-  "https://www.xportsnews.com/article/2214085",
-  "https://www.edaily.co.kr/News/Read?newsId=03181606645641456&mediaCodeNo=257",
-  "https://www.sisajournal.com/news/articleView.html?idxno=392288",
   "https://www.munhwa.com/article/11627888",
   "https://economychosun.com/site/data/html_dir/2026/10/26/2026102600039.html",
   "https://biz.chosun.com/it-science/ict/2026/10/29/I6LXKAH6GFH4HARHEQ2QLF5DEA/",
@@ -2999,17 +2991,17 @@
   "http://www.smarttimes.co.kr/news/articleView.html?idxno=50240",
   "https://www.sisaweek.com/news/articleView.html?idxno=238734",
   "http://www.dailypop.kr/news/articleView.html?idxno=104013",
-  "https://www.sidae.com/article/2026110210332685281"
+  "https://www.sidae.com/article/2026110210332685281",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711864",
+  "https://www.mydaily.co.kr/page/view/2026110214292269081",
+  "https://www.joongboo.com/news/articleView.html?idxno=363741185",
+  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039591",
+  "https://www.youthdaily.co.kr/news/article.html?no=229232",
+  "https://www.etnews.com/20261102000324",
+  "https://www.mediawatch.kr/news/article.html?no=261585",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2487198"
  ],
  "seen_titles": [
-  "\"AI돈줄이마르고있다\",'AI빚투공포'현실로",
-  "[속보]사천공군기지서KT-1훈련기공중충돌…‘4명사망’했던동일...",
-  "중국외교부,엔비디아관련스파이의혹보도'억측'반박",
-  "충남도시재생'지역맞춤'으로전환…포럼서실효성·지속가능성논의",
-  "삼성한국시리즈진출이끈김지찬,kt전에서도강했다\"1차전준비할...",
-  "삼성,5차전6-1승,2년만에한국시리즈진출",
-  "KT-1훈련기2대공중충돌...인명피해없었지만사고숨긴공군",
-  "사천공군기지인근서KT-1훈련기2대공중접촉…부상자없어",
   "미FBI“바이낸스해킹배후는북한”…‘인류최대은행강도사건’",
   "최태원·노소영재산분할2라운드…9440억감액여부쟁점은[법조계에...",
   "\"KIA가KS갑니다\"강민호는깨고싶었다…\"옆구리가터져도뛴다고했어...",
@@ -6001,13 +5993,17 @@
   "정용진\"비상위한패러다임시프트\"…AI·글로벌IP로신세계성장판넓...",
   "해킹에개인정보관리논란까지…더존비즈온'시끌'",
   "SK스퀘어,티맵경영권매각추진…AI·반도체투자집중",
-  "AI반도체패권경쟁,삼성·SK가일본으로향한이유"
+  "AI반도체패권경쟁,삼성·SK가일본으로향한이유",
+  "아이폰듀오효과없었나...10월번호이동시장'제자리걸음'",
+  "KT,3G단말신규가입·기기변경중단…무료교체·요금할인지원",
+  "[프로농구주간전망]3연패빠진정관장·소노,연패탈출할수있을까",
+  "프로야구kt위즈,'V2향한역주시작'",
+  "넥스트증권,김승연대표연임...리테일사업확장속도",
+  "[단독]임문영의원,AMD수석부사장만난다…광주AI연구센터유치주목",
+  "이재용,日반도체패키징연구거점첫방문…현지소부장협력논의",
+  "여행업계까지덮친해킹공포···'맞춤형범죄'악용우려커진다"
  ],
  "recent_sigs": [
-  [
-   "2026-11-02T08:28:16.273264+09:00",
-   "반등 전망 삼전닉스 급락은 W자 이달부터 두번째 바닥"
-  ],
   [
    "2026-11-02T08:30:31.766866+09:00",
    "월마트 똑같은 특별 9개사 상품인데 비싸 의회"
@@ -6719,9 +6715,17 @@
   [
    "2026-11-02T14:28:15.986420+09:00",
    "패권 반도체 SK가 향한 이유 삼성 경쟁 일본으로"
+  ],
+  [
+   "2026-11-02T14:30:31.435007+09:00",
+   "논의 현지 소부장 협력 패키징 방문 이재용 연구거점 반도체"
+  ],
+  [
+   "2026-11-02T14:30:31.435007+09:00",
+   "커진다 범죄 맞춤형 우려 악용 덮친 여행업계까지 공포"
   ]
  ],
- "last_run": "2026-11-02T14:28:35.749200+09:00",
+ "last_run": "2026-11-02T14:30:57.767473+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
