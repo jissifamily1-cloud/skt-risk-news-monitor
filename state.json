@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.hankooki.com/news/articleView.html?idxno=6942695",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16266155",
-  "https://www.sportsseoul.com/news/read/1646129",
-  "http://www.stoo.com/article.php?aid=109668439630",
-  "https://www.newspim.com/news/view/20261102001127",
-  "http://www.segyebiz.com/newsView/20261102511520?OutUrl=naver",
-  "https://www.sportschosun.com/entertainment/2026-11-02/202611020100011930000941",
-  "http://www.metroseoul.co.kr/article/20261102500430",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730128",
-  "https://www.etnews.com/20261102000329",
-  "https://magazine.hankyung.com/business/article/202611029816b",
-  "http://www.finomy.com/news/articleView.html?idxno=265295",
   "https://www.viva100.com/article/20261102500919",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=878846",
   "https://www.newsis.com/view/NISX20261102_0003851118",
@@ -2999,21 +2987,21 @@
   "https://www.newsis.com/view/NISX20261103_0003851911",
   "https://www.yna.co.kr/view/AKR20261103022900008?input=1195m",
   "https://www.datanet.co.kr/news/articleView.html?idxno=215522",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442632"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442632",
+  "https://www.youthdaily.co.kr/news/article.html?no=229156",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6862721_37012.html",
+  "https://zdnet.co.kr/view/?no=20261103010513",
+  "https://www.nocutnews.co.kr/news/6601011",
+  "https://www.banronbodo.com/news/articleView.html?idxno=33293",
+  "https://www.banronbodo.com/news/articleView.html?idxno=33276",
+  "https://www.hankyung.com/article/202611031448i",
+  "https://www.esquirekorea.co.kr/article/1912454",
+  "https://www.sisajournal.com/news/articleView.html?idxno=392288",
+  "https://www.news1.kr/finance/general-stock/6340643",
+  "https://www.etoday.co.kr/news/view/2643269",
+  "https://www.dt.co.kr/article/12092757"
  ],
  "seen_titles": [
-  "[기획]UAM에꽂힌산업계…車·통신·항공'영역확장'",
-  "[포토]한국시리즈각오밝히는KT소형준",
-  "구자욱,'좌익수최형우'향해남긴한마디는[KS미디어데이]",
-  "프로농구오늘(2일)경기일정…대구한국가스공사VS안양정관장,중계...",
-  "[포토]한국시리즈각오밝히는KT장성우",
-  "[ST포토]소형준-장성우-이강철감독,우리는신흥명문팀'반드시우승...",
-  "\"美중간선거,비자·관세관련인도에영향...양국무역협상은영향...",
-  "넥스트증권,김승연대표이사연임…리테일서비스집중",
-  "G-CON2026,게임넘어영화·웹툰거장까지총출동…내러티브의확장모...",
-  "[기자수첩]나를아는AI,서로를모르는사회",
-  "김승연넥스트증권대표연임…리테일진출본격화",
-  "[포토]국가슈퍼컴6호기'한강'가동",
   "“AI믿는다더니”…폭락에'보험'드는월가",
   "통신신호에'AI'더했다⋯SKT,'1인1AI'시대알린다",
   "엔비디아,내주‘AI데이서울’⋯에이전틱·피지컬AI혁신기술공개",
@@ -6001,7 +5989,19 @@
   "[속보]한양증권에서도해킹발생…개인정보등일부유출",
   "한양증권에서도해킹…고객정보등일부정보유출",
   "KT엠모바일'모비',레드닷수상···구매부터개통확인까지단순하...",
-  "한양증권,외부그룹웨어해킹…고객·임직원개인정보유출"
+  "한양증권,외부그룹웨어해킹…고객·임직원개인정보유출",
+  "\"3분기영업익소폭반등했지만\"…GS건설,매출총이익은\"4분의1토막\"",
+  "오늘한국시리즈돌입‥'MVP사령탑'맞대결",
+  "데이터저널리즘어워드,4일부터응모작접수…AI시대언론혁신조명",
+  "송길영\"내직업이싹바뀔이유?AI는도구가아니라동료\"[한판승부]",
+  "AI도부익부빈익빈…'디지털월세'가된구독료",
+  "[이달의신문광고]'감사하는마음'가득담은10월의기업광고들",
+  "화이트해커200명두고도뚫렸다…日IT기업보안참사[도쿄나우]",
+  "카시오가새롭게선보인'기계식시계'5",
+  "'6200억원과징금'둘러싸고쿠팡-개보위법정공방",
+  "금융권잇단해킹…한양증권,계좌·주민번호·주소까지유출(상보)",
+  "[속보]한양증권해킹사고발생…고객정보등중요정보유출",
+  "[속보]한양증권서도해킹…고객정보등일부정보유출"
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,13 @@
   [
    "2026-11-03T08:00:40.783117+09:00",
    "임직원 유출 개인정보 고객 외부 한양증권 그룹웨어"
+  ],
+  [
+   "2026-11-03T08:02:16.586065+09:00",
+   "10월의 가득 광고들 마음 기업 감사하는 담은"
   ]
  ],
- "last_run": "2026-11-03T08:01:03.743082+09:00",
+ "last_run": "2026-11-03T08:02:34.516680+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
