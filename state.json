@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825370&plink=ORI&cooper=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000343511?division=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=01994246645641784&mediaCodeNo=257",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=621952",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008825371&plink=ORI&cooper=NAVER",
-  "https://www.smartbizn.com/news/articleView.html?idxno=158107",
   "http://www.inews24.com/view/2018999",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=66854",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/02/2026110290015.html",
@@ -2999,15 +2993,15 @@
   "https://www.daejonilbo.com/news/articleView.html?idxno=2311014",
   "https://www.yakup.com/news/index.html?cat=12&nid=334575",
   "https://www.ilemonde.com/news/articleView.html?idxno=30916",
-  "https://www.fnnews.com/news/202611021815447689"
+  "https://www.fnnews.com/news/202611021815447689",
+  "https://www.thelec.kr/news/articleView.html?idxno=64720",
+  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290636",
+  "https://www.edaily.co.kr/News/Read?newsId=04536246645641784&mediaCodeNo=257",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730175",
+  "https://www.jemin.com/news/articleView.html?idxno=845891",
+  "https://www.segye.com/newsView/20261102517797?OutUrl=naver"
  ],
  "seen_titles": [
-  "KT-문경시,문경새재공공형와이파이확대구축업무협약체결",
-  "\"삼전닉스끝났다고?이걸봐\"…이재용·최태원함께걸그룹칼군무'들...",
-  "AI투자에4000조원쏟아붓더니···월가,'돈줄마비'공포확산",
-  "\"AI로뚫는해커,AI로막는다\"…日,앤트로픽·오픈AI에'첨단보안모...",
-  "[글로벌마켓시황]중간선거앞두고'경계'…미선물일제히하락",
-  "나스닥100,시총2조달러증발로10월마무리...AI거품터질때됐나...",
   "홍성글로벌바비큐축제,악천후에도23만명방문'흥행성공'",
   "후라도'7이닝1실점'호투…삼성,한국시리즈진출",
   "[비즈나우]현금마른빅테크…AI보험찾는월가",
@@ -6001,7 +5995,13 @@
   "소음에시달렸는데안전도불안한軍…서산·충주에부담가중",
   "“검색1위도안심못한다”일리온최승이사가짚은제약바이오·뷰...",
   "[나연수의투자칼럼]AI는성장하는데앤트로픽은항공사가될까요—...",
-  "AI데이터센터활성화…기업\"국산NPU실증기회늘려달라\""
+  "AI데이터센터활성화…기업\"국산NPU실증기회늘려달라\"",
+  "씨케이솔루션,미국괌해병대위성통신시설공사수주",
+  "제9회고교최동원상에충암고김지율선정",
+  "AI키웠더니광고판흔들…빅테크‘제로클릭’딜레마",
+  "같은S&P500인데수익률10%P차이…빅테크비중이갈랐다",
+  "트럼프,젠슨황관련중국정보유출의혹주시…엔비디아기술안보...",
+  "하이브도개인정보털렸다…직원및협력사관계자정보유출"
  ],
  "recent_sigs": [
   [
@@ -6809,7 +6809,7 @@
    "국산 기업 기회 실증 NPU 늘려달라 AI데이터센터 활성화"
   ]
  ],
- "last_run": "2026-11-02T18:36:35.577433+09:00",
+ "last_run": "2026-11-02T18:38:32.000678+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
