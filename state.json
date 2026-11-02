@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8192271",
-  "https://view.asiae.co.kr/article/2026110210163374378",
-  "http://www.osen.co.kr/article/G1112902627",
-  "http://www.osen.co.kr/article/G1112902626",
-  "https://www.m-i.kr/news/articleView.html?idxno=2013164",
-  "https://www.m-i.kr/news/articleView.html?idxno=2013143",
-  "https://www.thepowernews.co.kr/view.php?ud=202611021413041048de3f0aa1be_7",
-  "https://www.m-i.kr/news/articleView.html?idxno=2013142",
-  "https://www.sportsseoul.com/news/read/1646131",
   "https://sports.hankooki.com/news/articleView.html?idxno=6942695",
   "https://www.topstarnews.net/news/articleView.html?idxno=16266155",
   "https://www.sportsseoul.com/news/read/1646129",
@@ -2999,18 +2990,18 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=66933",
   "https://econotimes.com/Wikimedia-Says-ChatGPT-Pretraining-Likely-Is-Fair-Use-RAG-May-Not-Be-1769318",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5078923",
-  "https://www.etoday.co.kr/news/view/2643260"
+  "https://www.etoday.co.kr/news/view/2643260",
+  "https://www.g-enews.com/view.php?ud=202611030754079370e250e8e188_1",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=210623",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=92816",
+  "https://news.mtn.co.kr/article/2026110307565353826",
+  "https://www.smarttoday.co.kr/ko-kr/articles/113377",
+  "https://www.newsis.com/view/NISX20261103_0003851911",
+  "https://www.yna.co.kr/view/AKR20261103022900008?input=1195m",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215522",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442632"
  ],
  "seen_titles": [
-  "8조원털어간北해커들…'트레이더트레이터'어떤조직이길래",
-  "'6200억원과징금'둘러싸고쿠팡-개보위법정공방",
-  "한국시리즈1차전D-1,KT-삼성미디어데이",
-  "\"北,무기개발자금해킹수익으로충당\"",
-  "[사진]생각에잠긴이강철감독",
-  "[사진]이강철-박진만감독,'선수시절이어감독으로한국시리즈맞대...",
-  "[기획]해외는상용화문턱인데…K-UAM골든타임잡을까",
-  "[기획]시험장나온UAM…'하늘길선점'경쟁본격화",
-  "2승2패끝장승부가6-1…후라도7이닝·김지찬3타점,삼성이살아남았...",
   "[기획]UAM에꽂힌산업계…車·통신·항공'영역확장'",
   "[포토]한국시리즈각오밝히는KT소형준",
   "구자욱,'좌익수최형우'향해남긴한마디는[KS미디어데이]",
@@ -6001,7 +5992,16 @@
   "바이낸스8조원해킹여파…금융위,\"국내거래소도신속출금제한허용...",
   "WikimediaSaysChatGPTPretrainingLikelyIsFairUse,RAGMayNotBe",
   "[07:45가상자산]비트코인,바이낸스·현물ETF자금이탈에약세",
-  "[오늘의투자전략]美AI주급락,반도체3.4%↓…국내증시저PBR·실적..."
+  "[오늘의투자전략]美AI주급락,반도체3.4%↓…국내증시저PBR·실적...",
+  "팔란티어,기업용AI폭발에사상첫분기매출20억달러돌파",
+  "[분석]AI반도체고성능화···MLCC시장급성장",
+  "팔란티어,3분기매출96%급증…미국상업매출이정부첫추월",
+  "[속보]한양증권도해킹…개인정보등일부유출",
+  "한양증권서도해킹침해사고..31건정보유출",
+  "[속보]한양증권에서도해킹발생…개인정보등일부유출",
+  "한양증권에서도해킹…고객정보등일부정보유출",
+  "KT엠모바일'모비',레드닷수상···구매부터개통확인까지단순하...",
+  "한양증권,외부그룹웨어해킹…고객·임직원개인정보유출"
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,17 @@
   [
    "2026-11-03T07:58:14.667082+09:00",
    "증시 국내 저PBR 실적 급락 AI주 반도체"
+  ],
+  [
+   "2026-11-03T08:00:40.783117+09:00",
+   "레드닷 ~KT 개통 수상 확인까지 단순하 모비 구매부터 KT엠모바일"
+  ],
+  [
+   "2026-11-03T08:00:40.783117+09:00",
+   "임직원 유출 개인정보 고객 외부 한양증권 그룹웨어"
   ]
  ],
- "last_run": "2026-11-03T07:58:35.668933+09:00",
+ "last_run": "2026-11-03T08:01:03.743082+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
