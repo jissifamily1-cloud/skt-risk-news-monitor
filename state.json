@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2611582",
-  "https://www.ddaily.co.kr/page/view/2026080509453173722",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7176812",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2292005",
-  "https://newscham.net/articles/117005",
-  "https://www.g-enews.com/view.php?ud=202607252218095193906806b77b_1",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7175935",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=273438",
-  "http://www.fnnews.com/news/202607221503516582",
   "https://www.insightkorea.co.kr/news/articleView.html?idxno=250405",
   "http://www.fnnews.com/news/202607071021529227",
   "http://www.fnnews.com/news/202607021827006060",
@@ -2999,18 +2990,18 @@
   "https://view.asiae.co.kr/article/2026110314480129691",
   "https://www.newsian.co.kr/news/articleView.html?idxno=100532",
   "https://www.viewsnnews.com/article?q=239447",
-  "https://www.nocutnews.co.kr/news/6601402"
+  "https://www.nocutnews.co.kr/news/6601402",
+  "https://www.donga.com/news/Economy/article/all/20261103/134957378/1",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3740893",
+  "http://amenews.kr/news/view.php?idx=68546",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=409199",
+  "https://www.news2day.co.kr/article/20261103500083",
+  "https://www.ddaily.co.kr/page/view/2026110314283747118",
+  "https://www.ddaily.co.kr/page/view/2026110313593236826",
+  "https://www.newspim.com/news/view/20261103000943",
+  "https://sateconomy.co.kr/news/view/1065591644647739"
  ],
  "seen_titles": [
-  "엔스로픽\"6개월걸리던개발,직원5명이이틀로단축\"",
-  "앤스로픽,데이터센터확보박차...텍사스시설자금조달마무리",
-  "'국가대표AI'2차평가,업스테이지·SKT·LG勝…정부\"AI전략대대적개...",
-  "인텔,AI투자위해유상증자…불확실성높은AI시대구글과애플은다른...",
-  "[AI쩐의전쟁]①현금떨어진빅테크들...자금조달에물불안가린다",
-  "전력·환경논란에뿔난주민들…美데이터센터건설금지구역500곳돌...",
-  "메타,첫AI코딩에이전트공개⋯오픈AIㆍ엔스로픽과본격경쟁",
-  "\"데이터센터매출2배급증\"…AMD,2분기115억달러사상최대실적",
-  "\"AI거품이라더니\"…삼성전자·SK하이닉스,사상최대실적으로답했다",
   "[세상보기]AI와인문역량",
   "AI와군비경쟁에치솟는광물수요",
   "[김대호진단]반도체열전(22)엔스로픽...인공지능AI남매의반란",
@@ -6001,17 +5992,18 @@
   "이찬진\"해킹금융사CEO책임엄중히묻겠다\"",
   "금융권해킹대응수위높인이찬진…대형사CEO까지책임",
   "금감원장\"대형금융회사도해킹시CEO책임묻겠다\"",
-  "北8조원대해킹,북미대화재개동향에도변수되나"
+  "北8조원대해킹,북미대화재개동향에도변수되나",
+  "보이스피싱범,‘번호’바꿔도못빠져나가…LGU+,피싱범‘연결구조...",
+  "영진전문대글로벌시스템융합과,일본취업확정생12명도쿄정착지원...",
+  "[인터뷰]최홍관㈜쓰리디팩토리대표",
+  "마우저,산업용AI·머신러닝기술조명'자동화리소스센터'공개",
+  "LG에너지솔루션,3분기매출9조6434억'역대최대'…ESS성장에영업익...",
+  "[신한금융인사기상도]진옥동2기‘쇄신성적표’…이봉재·최혁재·...",
+  "李대통령,청소년SNS제한\"세밀하고신속하게논의\"…김종철방미통...",
+  "엔비디아,데이터센터협력사에\"中고객의존도낮춰라\"요구",
+  "이찬진금감원장\"대형금융사해킹사고,CEO책임묻겠다\""
  ],
  "recent_sigs": [
-  [
-   "2026-11-03T08:52:17.589978+09:00",
-   "이재용 시대 삼성의 직접 챙긴다 반도체 승부처 로봇"
-  ],
-  [
-   "2026-11-03T08:52:17.589978+09:00",
-   "빨간불 이어 대신 미래 금융계 한양증권도"
-  ],
   [
    "2026-11-03T08:54:17.438216+09:00",
    "캠퍼스 데이터센터 나섰나 이름 컴퓨트"
@@ -6811,9 +6803,13 @@
   [
    "2026-11-03T14:50:26.041499+09:00",
    "변수되나 8조원대 동향에도 북미대화 재개"
+  ],
+  [
+   "2026-11-03T14:52:20.005475+09:00",
+   "협력사에 낮춰라 요구 데이터센터 고객 의존도"
   ]
  ],
- "last_run": "2026-11-03T14:50:47.846063+09:00",
+ "last_run": "2026-11-03T14:52:40.854475+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
