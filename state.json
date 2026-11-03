@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261103238600061?input=1196m",
-  "https://www.tokenpost.kr/news/ai/431604",
-  "https://www.tokenpost.kr/news/ai/431571",
-  "https://www.ppss.kr/news/articleView.html?idxno=318488",
   "https://imnews.imbc.com/news/2026/society/article/6862924_36918.html",
   "https://www.ppss.kr/news/articleView.html?idxno=318805",
   "http://www.osen.co.kr/article/G1112903443",
@@ -2999,13 +2995,13 @@
   "https://www.mk.co.kr/article/12195798",
   "https://www.newspim.com/news/view/20261104000031",
   "http://www.inews24.com/view/2022302",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730345"
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730345",
+  "https://www.g-enews.com/view.php?ud=2026110406413890542bd56fbc3c_1",
+  "https://www.ajunews.com/view/20261104063701619",
+  "https://www.joongang.co.kr/article/25475569",
+  "https://www.ikbc.co.kr/article/view/kbc202611040003"
  ],
  "seen_titles": [
-  "[사진]체크스윙노스윙판정받은힐리어드",
-  "[포토]힐리어드‘홈런?파울?’",
-  "[포토S]안타날리는김현수",
-  "[포토]힐리어드‘어디로날아가는거야?’",
   "김현수,안타치며PS통산최다루타신기록",
   "'깜짝이야'",
   "한국시리즈응원열기",
@@ -6001,7 +5997,11 @@
   "AMD,데이터센터매출두배가까이급증…시간외주가7%↑",
   "[미국특징주]AMD,4분기전망호조에시간외8%↑",
   "유럽여객기7대폭파위협⋯비상착륙·전투기출격",
-  "美중간선거불확실성완화기대…코스피반등모"
+  "美중간선거불확실성완화기대…코스피반등모",
+  "보쉬,반도체사업부독립재편…2030년매출50억유로목표달성추진",
+  "[뉴욕증시마감]美중간선거'촉각'…반도체주강세에나스닥0.8%반등",
+  "[속보]김여정,바이낸스사태에“선택지대화있지만국익동일시아냐...",
+  "北,바이낸스해킹배후지목에\"美의정치적도발\""
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-11-04T06:42:26.270409+09:00",
    "엔비디아가 파트너십 LG전자 사운드하운드 찜한 전략적"
+  ],
+  [
+   "2026-11-04T06:48:18.284891+09:00",
+   "배후 지목에 도발 바이낸스 정치적"
   ]
  ],
- "last_run": "2026-11-04T06:46:37.650732+09:00",
+ "last_run": "2026-11-04T06:48:36.711333+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
