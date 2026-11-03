@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261028152649",
-  "https://biz.heraldcorp.com/article/10917887",
-  "https://www.news1.kr/photos/8183855",
-  "https://www.inews365.com/news/article.html?no=941144",
-  "https://zdnet.co.kr/view/?no=20261028110228",
-  "https://zdnet.co.kr/view/?no=20261028094054",
-  "https://www.asiatime.co.kr/article/20261028500143",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5227533",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697287",
-  "https://www.edaily.co.kr/News/Read?newsId=03578486645617512&mediaCodeNo=257",
-  "https://biz.heraldcorp.com/article/10917080",
   "https://www.safetimes.co.kr/news/articleView.html?idxno=246898",
   "https://www.newsis.com/view/NISX20261027_0003843442",
   "https://www.greened.kr/news/articleView.html?idxno=353125",
@@ -2999,20 +2988,20 @@
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079204",
   "https://www.ekn.kr/web/view.php?key=20261103025594779",
   "https://www.asiatime.co.kr/article/20261103500332",
-  "https://www.asiatime.co.kr/article/20261103500345"
+  "https://www.asiatime.co.kr/article/20261103500345",
+  "https://www.hankookilbo.com/news/article/A2026110313470000742?did=NA",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=500964",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3740970",
+  "https://platum.kr/archives/297679",
+  "https://www.newsis.com/view/NISX20261103_0003852812",
+  "https://www.khan.co.kr/article/202611031530011",
+  "https://news.bizwatch.co.kr/article/finance/2026/11/03/0018",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1421273",
+  "https://www.donga.com/news/Economy/article/all/20261103/134958180/1",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8011",
+  "https://www.hankookilbo.com/news/article/A2026110314350000115?did=NA"
  ],
  "seen_titles": [
-  "개보위,고객센터개인정보조회통제강화",
-  "[2026국감]'42만명개인정보유출'듀오박수경,울먹…성평등부'관리...",
-  "규제기관세종行…IT업계\"상주냐출장이냐\"",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(10월29일목요일)",
-  "탈북민신상정보,北으로날려보내고통지도없었다",
-  "\"대신·빗썸·미래에셋도털려\"…국가안보실,직접나섰다",
-  "靑안보실,빗썸·대신증권해킹에긴급점검…\"2차피해차단만전\"",
-  "[인터뷰]임현성한국안경광학과교수협의회회장(을지대안경광학과교...",
-  "\"가명정보제도시행6년...의료·금융·교통등서다양한분야서성과\"",
-  "개보위‘과징금의결’위원공정성논란…또‘도마위’에",
-  "개보위전체회의주재하는송경희위원장",
   "행정수도특별법상임위상정…이번엔통과돼야",
   "민관'PHP2셸취약점'총력대응…점검·대응방안제공",
   "빗썸,사내시스템해킹…이용자개인정보유출가능성조사",
@@ -6001,7 +5990,18 @@
   "경찰,李대통령개인정보유출사건정식수사전환",
   "[현장]상담끝나자기록까지척척…KT상담사가반한‘버튼하나’",
   "이찬진금감원장\"IT보안강화…해킹시경영진책임묻겠다\"",
-  "한양증권도개인정보유출…금융권연쇄해킹22곳으로확산"
+  "한양증권도개인정보유출…금융권연쇄해킹22곳으로확산",
+  "리더의품격…베테랑이적생들이써내려갈‘가을의전설’",
+  "밸류업관련주희비…한진칼상한가·파수아이20%폭등",
+  "김제청년축제'성황리마무리…청년기획·시민참여로가족축제자리매...",
+  "풀필먼트'품고'올해매출1,000억원넘본다…늘어난물량으로포장로...",
+  "'45%폭락'인텔,파운드리시험대…PC침체·공급망병목까지'삼중고'",
+  "KT,AI봇이연1440만건상담…미래엔에이전틱고객센터로",
+  "이찬진\"증권·보험해킹,CEO책임묻겠다…GA·가상자산업도전수점검...",
+  "한양증권,해킹사고발생...개인정보등30여건유출",
+  "금감원장“해킹금융사예외없는‘매출3%과징금’위해국회소통...",
+  "국민연금,한화오션·현대로템·효성티앤씨·유한양행투자목적'일반투...",
+  "'北해킹의혹'에김여정까지나서서적극반박...북미대화의식했나"
  ],
  "recent_sigs": [
   [
@@ -6831,9 +6831,17 @@
   [
    "2026-11-03T15:28:15.446081+09:00",
    "정상회담 북한 북미 개최에 강화하나 제재 미국의 가상화폐"
+  ],
+  [
+   "2026-11-03T15:32:17.211784+09:00",
+   "현대로템 국민연금 효성티앤씨 한화오션 투자목적 일반투 유한양행"
+  ],
+  [
+   "2026-11-03T15:32:17.211784+09:00",
+   "의식했나 김여정까지 의혹 북미 적극 대화 나서서 반박"
   ]
  ],
- "last_run": "2026-11-03T15:30:51.617820+09:00",
+ "last_run": "2026-11-03T15:32:37.922333+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
