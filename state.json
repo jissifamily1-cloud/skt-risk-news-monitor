@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=137121",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=875508",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215311",
-  "https://magazine.hankyung.com/business/article/202610230580b",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729776",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900483",
-  "https://www.m-i.kr/news/articleView.html?idxno=2009436",
-  "https://ditoday.com/ai-%ec%9d%b8%ec%9a%a9-%ed%8c%a8%ed%84%b4-%eb%b6%84%ec%84%9d%ed%96%88%eb%8d%94%eb%8b%88%ed%82%a4%ec%9b%8c%eb%93%9c-%ec%9d%bc%ec%b9%98%eb%b3%b4%eb%8b%a4-%ec%a0%95%eb%b3%b4-%eb%b0%80%eb%8f%84/",
   "https://www.newspim.com/news/view/20261023000131",
   "https://zdnet.co.kr/view/?no=20261023083158",
   "https://www.tokenpost.kr/news/ai/426058",
@@ -2999,17 +2991,17 @@
   "https://www.chosun.com/economy/tech_it/2026/11/03/MW24FBI4MVGEVILTOG7HWDYDCY/",
   "https://www.youthdaily.co.kr/news/article.html?no=229295",
   "https://www.jasm.co.kr/news/view/323979/?sc=Naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702592"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702592",
+  "https://www.todayeconomic.com/news/article.html?no=32708",
+  "https://theviewers.co.kr/View.aspx?No=4295266",
+  "https://www.boannews.com/news/articleView.html?idxno=146972",
+  "https://ilyo.co.kr/?ac=article_view&entry_id=513427",
+  "https://www.ngetnews.com/news/articleView.html?idxno=555479",
+  "https://news.ifm.kr/news/articleView.html?idxno=483356",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558174",
+  "http://www.kdfnews.com/news/articleView.html?idxno=190363"
  ],
  "seen_titles": [
-  "[네카오의AI에이전트전략]③자체플랫폼에AI가두는네카오…글로벌...",
-  "[김진수GEO칼럼]AI가나를추천한다는것은무엇을의미하는가?",
-  "[AI모델신작]텐센트월드모델부터잭도시의음성AI까지9종",
-  "[AI신곡]세븐틴정한X조슈아·아이브·에이티즈등…10월넷째주신곡",
-  "AI가가장많이인용한언론은매경…3개월연속1위",
-  "NNT\"AI인용,키워드반복보다정보밀도가중요\"",
-  "기업AI활용확산에보안·규제대응강화…AI검색최적화도주목",
-  "NNT,AI인용패턴리포트발간",
   "NNT,AI인용패턴분석···\"키워드반복보다정보밀도중요\"",
   "\"AI가인용하는글따로있었다\"",
   "NNT,AI인용패턴분석리포트발간…\"정보밀도중요\"",
@@ -6001,7 +5993,15 @@
   "쇼핑객긴줄…‘좀비도시’떠났던유니클로,AI붐타고샌프란‘컴...",
   "금융사해킹사고에경영진책임강화...금감원,CEO제재본격화",
   "이찬진\"해킹사고때대형금융사CEO에책임물을것\"",
-  "이찬진금감원장“해킹사고금융사CEO책임엄중히물을것”"
+  "이찬진금감원장“해킹사고금융사CEO책임엄중히물을것”",
+  "LG에너지솔루션,3분기매출9.6조·영업익7560억…ESS·전기차물량확...",
+  "LG엔솔,3분기영업익7560억원…ESS출하확대에실적개선",
+  "\"AI가사이버공격경제학뒤바꿨다…사고대응의사결정체계전환점\"",
+  "\"테이블세터가경기흐름좌우\"KT·삼성한국시리즈1차전맞대결전망",
+  "\"고객해지책임대리점에떠넘기나\"…LG유플러스,11억대소송휘말려",
+  "\"거래망안뚫렸으니안전?\"…잇단해킹에뚫려버린금융권'보안신뢰...",
+  "통일부,‘北바이낸스해킹’지목에“정확한상황파악부터”",
+  "LG유플러스,서울여대와개인정보보호기술공동연구…보안인재양성"
  ],
  "recent_sigs": [
   [
@@ -6843,9 +6843,17 @@
   [
    "2026-11-03T15:06:18.064618+09:00",
    "긴줄 유니클로 도시 쇼핑객 샌프란 떠났던 타고 좀비"
+  ],
+  [
+   "2026-11-03T15:08:16.441488+09:00",
+   "고객 휘말려 해지 대리점에 책임 11억대 떠넘기나 ~LGU 소송 LG유플러스"
+  ],
+  [
+   "2026-11-03T15:08:16.441488+09:00",
+   "개인정보보호 공동연구 기술 서울여대와 ~LGU LG유플러스 보안인재 양성"
   ]
  ],
- "last_run": "2026-11-03T15:06:41.100560+09:00",
+ "last_run": "2026-11-03T15:08:37.656385+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
