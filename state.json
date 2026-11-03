@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1318456&inflow=N",
-  "https://news.tf.co.kr/read/economy/2382396.htm",
-  "http://journal.kobeta.com/?post_type=post&p=64333",
-  "https://www.naeil.com/news/read/606858",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8698655",
-  "https://byline.network/?p=9004111222625284",
-  "https://www.fnnews.com/news/202610291209391798",
-  "https://www.ddaily.co.kr/page/view/2026102911510595656",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1729669",
-  "https://www.hani.co.kr/arti/economy/it/1284778.html",
   "https://www.ddaily.co.kr/page/view/2026102911322793550",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261029010010386",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=710888",
@@ -2999,19 +2989,19 @@
   "https://www.newsian.co.kr/news/articleView.html?idxno=100510",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702432",
   "http://www.joseilbo.com/news/news_read.php?uid=578777&class=32",
-  "https://www.ytn.co.kr/_ln/0101_202611031128267688"
+  "https://www.ytn.co.kr/_ln/0101_202611031128267688",
+  "https://edu.donga.com/news/articleView.html?idxno=113448",
+  "https://biz.heraldcorp.com/article/10923976",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=88789",
+  "http://www.ddanzi.com/898142604",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=312983",
+  "https://www.hankyung.com/article/202611021336i",
+  "https://www.mt.co.kr/politics/2026/11/03/2026110310325351444",
+  "http://www.seouleconews.com/news/articleView.html?idxno=94747",
+  "http://www.tongilnews.com/news/articleView.html?idxno=218044",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=309946"
  ],
  "seen_titles": [
-  "방미통위,SKB·HCN·티캐스트등장애인방송의무편성사업자89곳지정",
-  "고객센터개인정보과다노출…개보위,관리강화주문",
-  "개보위,'개인정보유출'대교등에과징금38억8500만원부과",
-  "내년1월부터장애인방송의무편성…89개사업자지정",
-  "고객이름만넣어도상세주소‘주루룩’",
-  "“고객이름만으로주소까지조회…시정권고”",
-  "고객이름만입력해도주소노출…개인정보위,고객센터9개사개선권...",
-  "\"고객센터상담화면엔필요한정보만띄워야\"...개인정보보호위권고",
-  "상담사가고객정보무단조회?…개인정보위,사전실태점검실시",
-  "개보위,고객센터개인정보조회통제강화…이름·전화번호마스킹권...",
   "‘이름하나로정보줄줄’고객센터바뀐다…고객정보접근통제강화",
   "방미통위,장애인방송의무사업자89곳지정…내년1월적용",
   "개보위,'84만명유출'대교·선병원에과징금38억8500만원…보안부실...",
@@ -6001,7 +5991,17 @@
   "외교부,대통령내외등순방단168명여권재발급착수…유출경위조...",
   "‘신흥강호’ktvs‘전통명문’삼성…한국시리즈왕좌놓고대격돌",
   "이대통령\"해킹기술날로고도화…강력한사이버보안기구구성검토...",
-  "외교부,1호기탑승자유출에\"해킹은아닌듯\"...청와대긴급회의"
+  "외교부,1호기탑승자유출에\"해킹은아닌듯\"...청와대긴급회의",
+  "'남춘천센트레빌',스카이커뮤니티·특화평면으로주거차별화",
+  "한류주역과시장이바뀌어도성과내려면…[서병기의문화와역사]",
+  "GS샵,AWS와'AIMD큐레이션시스템'구축…프로모션준비시간70%줄였...",
+  "[뉴공아카이브]백년위원회:”AI가일자리위협“37개국중한국이‘...",
+  "비씨카드,소비데이터활용'AI서비스수익화챌린지'공모전개최",
+  "엔비디아가찜한마벨,루멘텀합병…154조원AI반도체빅딜",
+  "與\"예산한푼도허투루쓰지않을것\"…4대분야증액추진",
+  "정부,2100여개공공기관긴급보안점검...민간170여곳도대처",
+  "이대통령,\"허위사실유포강력한대응\"주문",
+  "시장조정에도스트래티지·비트마인가상화폐보유량확대"
  ],
  "recent_sigs": [
   [
@@ -6853,7 +6853,7 @@
    "쏘아 삼성 올린 하루아침에 애플이 폴더블"
   ]
  ],
- "last_run": "2026-11-03T11:32:34.961164+09:00",
+ "last_run": "2026-11-03T11:34:30.805039+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
