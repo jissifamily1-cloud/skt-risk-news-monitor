@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=04096726645641784&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=04100006645641784&mediaCodeNo=257",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598802519704",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=878910",
-  "https://www.dt.co.kr/article/12092671",
-  "http://www.doctorstimes.com/news/articleView.html?idxno=240813",
-  "http://www.doctorstimes.com/news/articleView.html?idxno=240820",
-  "https://www.seoul.co.kr/news/economy/finance/2026/11/02/20261102500249?wlog_tag3=naver",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000050",
-  "https://sateconomy.co.kr/news/view/1065598897509118",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3739867",
   "https://biz.chosun.com/it-science/ict/2026/11/02/X5SX7AQBBJBZ7CU2P55YQ4EMLY/",
   "https://www.newsis.com/view/NISX20261102_0003851550",
   "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91659",
@@ -2999,20 +2988,20 @@
   "https://news.jtbc.co.kr/article/NB12326161?influxDiv=NAVER",
   "https://www.sidae.com/article/2026110215460912712",
   "https://www.edaily.co.kr/News/Read?newsId=03421046645642112&mediaCodeNo=257",
-  "https://biz.sbs.co.kr/article_hub/20000343835?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000343835?division=NAVER",
+  "http://www.osen.co.kr/article/G1112902867",
+  "https://www.itbiznews.com/news/articleView.html?idxno=230069",
+  "https://www.mt.co.kr/living/2026/11/03/2026110309101275273",
+  "http://topclass.chosun.com/news/articleView.html?idxno=36995",
+  "https://www.sedaily.com/article/20109480",
+  "https://www.news1.kr/finance/market-exr/6340964",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/03/2026110390098.html",
+  "https://www.cstimes.com/news/articleView.html?idxno=726398",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247116",
+  "https://www.startuptoday.co.kr/news/articleView.html?idxno=817928",
+  "https://www.news1.kr/politics/president/6340988"
  ],
  "seen_titles": [
-  "중간선거고전전망에도…'호화핼러윈파티'연트럼프",
-  "NIA,제2회청소년‘AI윤리ON’캠프개최",
-  "파파존스,KT멤버십할인나선다…방문포장고객혜택확대",
-  "옴디아\"3분기세계스마트폰출하량급감\"",
-  "클루커스,마누스와제휴…기업용AI에이전트공급확대",
-  "[병원계소식]11월2일",
-  "[의료기기업계소식]11월2일",
-  "바이낸스출금풀리자5조원‘썰물’…금융위,국내거래소긴급소집",
-  "하이브내부망또뚫렸다…전·현직직원등개인정보유출",
-  "금융위,업비트·빗썸등긴급소집…바이낸스해킹에보안체계점검",
-  "허태정대전시장,국회캠프가동첫날여당지도부에국비지원요청",
   "AI가검색삼킨다…구글상장후최대폭락,네이버영향은",
   "'인텔쇼크'에벌벌떨었는데…코스피선방한이유는",
   "[나이스증시전망]요즘증시키워드는잉여현금흐름(FCF)",
@@ -6001,7 +5990,18 @@
   "청와대,대통령포함개인정보무더기유출긴급회의…임광현\"중대사...",
   "티알엔·티캐스트합병,방미통위서제동",
   "LG유플러스,서울여대와개인정보보호AI공동연구…통신서비스적용...",
-  "AI해킹확산에…금감원,실시간위협탐지시스템강화나선다"
+  "AI해킹확산에…금감원,실시간위협탐지시스템강화나선다",
+  "왜삼성유니폼입고KT응원을…“트로피를수원으로”삼성울렸던우...",
+  "서울창조경제혁신센터,2026초창패&창도패'Value-UpConnect'성료",
+  "GS샵,'MD큐레이션시스템'오픈…AI로업무혁신",
+  "[인터뷰]연필이라는도구,265년의변천사/파버카스텔코리아대표이...",
+  "“지금도망갈타이밍아냐”삼전닉스묶어보지마라…개미들뼈때리...",
+  "한양증권고객정보유출'보안주급등'…한싹·파수AI상한가[핫종목]",
+  "8조털어간北해커,비트코인으로갈아탔다…2차돈세탁",
+  "삼전닉스,美기술주약세에동반'급락'…AI투자우려확산",
+  "한양증권,외부그룹웨어해킹으로개인정보'유출'",
+  "[이슈]한양증권도해킹피해…고객·임직원개인정보털렸다",
+  "[속보]李대통령\"해킹차단보안체계근본적혁신·보완…종합예방체..."
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-11-03T10:10:22.301183+09:00",
    "실시간 금감원 위협탐지 확산에 시스템 나선다 강화"
+  ],
+  [
+   "2026-11-03T10:12:15.833191+09:00",
+   "대통령 예방체 차단 보완 근본적 혁신 보안체계"
   ]
  ],
- "last_run": "2026-11-03T10:10:47.124302+09:00",
+ "last_run": "2026-11-03T10:12:33.937257+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
