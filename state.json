@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newstnt.com/news/articleView.html?idxno=726337",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261102202832EBr",
-  "http://www.intn.co.kr/news/articleView.html?idxno=2054458",
-  "https://www.khan.co.kr/article/202611022028015",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711835",
-  "http://sateconomy.co.kr/news/view/1065612533563826",
-  "http://www.inews24.com/view/2021783",
-  "https://www.tokenpost.kr/news/breaking/431327",
-  "https://www.tokenpost.kr/news/breaking/431326",
-  "https://www.news1.kr/world/europe/6340512",
-  "https://www.sportsseoul.com/news/read/1646224",
   "https://www.venturesquare.net/1124912/",
   "https://econotimes.com/Anthropic-Reports-More-Than-11-900-Customers-Above-100-000-1768711",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730178",
@@ -2999,20 +2988,20 @@
   "https://www.etnews.com/20261103000180",
   "https://news.tf.co.kr/read/toto/2384108.htm",
   "https://www.kukinews.com/article/view/kuk202611030052",
-  "http://www.inews24.com/view/2021961"
+  "http://www.inews24.com/view/2021961",
+  "https://vop.co.kr/A00001697405.html",
+  "http://www.metroseoul.co.kr/article/20261103500144",
+  "https://isplus.com/article/view/isp202611030031",
+  "http://www.inews24.com/view/2021114",
+  "https://econotimes.com/OpenAI-and-Anthropic-Plan-Dedicated-Teams-for-U-S-Midterms-1768698",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261103111433ItW",
+  "https://biz.sbs.co.kr/article_hub/20000343881?division=NAVER",
+  "https://www.yna.co.kr/view/AKR20261103083100061?input=1195m",
+  "https://www.news1.kr/finance/blockchain-fintech/6340995",
+  "https://view.asiae.co.kr/article/2026110311134263398",
+  "https://www.pennmike.com/news/articleView.html?idxno=130879"
  ],
  "seen_titles": [
-  "벨기에·스웨덴·룩셈부르크서도슈퍼마켓냉장고겨냥한사이버공격",
-  "[공시]11월3일,코스피상장사46개종목자사주매수신청",
-  "\"냉동고온도치솟아\"…유럽마트해킹의심잇따라",
-  "\"국내가상자산사업자사고대응력제고위해긴밀하고신속한대응\"",
-  "KT“신흥명문의힘증명”…삼성“필요한건1등뿐”",
-  "AI가흔든수학계…샘알트먼\"아직공개안한성과남아있다\"",
-  "미래에셋생명,해킹피해퇴직연금까지…금감원점검연장",
-  "\"냉장고가갑자기왜이래?\"…유럽서벌어지는'냉장고공격'확산",
-  "바이낸스해킹비트코인첫믹싱포착…연계지갑1만2000개",
-  "우크라이나앱에가짜방사능경보…러시아비상앱도해킹",
-  "유럽서마트냉장고연쇄해킹공격…\"55도까지온도급상승\"",
   "‘김재윤없는’삼성,‘PO2홀드-ERA1.69’이승민이있다…KS에서도...",
   "이파피루스,‘PyMuPDFOffice’로제품명변경…한글·오피스문서AI데...",
   "AnthropicReportsMoreThan11,900CustomersAbove$100,000",
@@ -6001,7 +5990,18 @@
   "“냉동고가50도찜질방됐다”…유럽7개국마트도동시다발해킹당...",
   "'가을의전설'KT-삼성KS1차전,프로토승부식뜬다",
   "미래에셋생명해킹,신분증사본·상담기록까지유출…금감원점검연...",
-  "아고다,항공권첫화면가격과결제가달랐다…공정위'다크패턴'경고"
+  "아고다,항공권첫화면가격과결제가달랐다…공정위'다크패턴'경고",
+  "SK브로드밴드,LS마린솔루션과‘해저케이블안정운용’업무협약",
+  "AI토큰시장뛰어든통신3사…이용자효용성입증은숙제",
+  "최원태가버텨야원태인도아낀다…삼성KS시나리오,최원태어깨에달...",
+  "이통사'우군'에서'경쟁자'로…스타링크의변신",
+  "OpenAIandAnthropicPlanDedicatedTeamsforU.S.Midterms",
+  "이대통령\"정치적목적허위사실유포,강력대응필요\"",
+  "국정원,공공시설2천100여곳긴급점검",
+  "경과원'생성형AI'로행정혁신…전직원교육에해커톤개최",
+  "바이낸스해커,솔라나→비트코인바꿔자금세탁…동결피해이동",
+  "[포토]SK텔레콤이동형영상관제솔루션",
+  "[재계핫이슈]'저PBR기업딱지'를붙여주가를올린다?"
  ],
  "recent_sigs": [
   [
@@ -6795,9 +6795,17 @@
   [
    "2026-11-03T11:14:16.162154+09:00",
    "결제가 다크패턴 달랐다 경고 아고다 화면 항공권 가격과 공정위"
+  ],
+  [
+   "2026-11-03T11:16:15.728065+09:00",
+   "영상관제 솔루션 이동형 ~SKT"
+  ],
+  [
+   "2026-11-03T11:16:15.728065+09:00",
+   "저PBR기업 딱지 올린다 붙여 주가를"
   ]
  ],
- "last_run": "2026-11-03T11:14:39.005240+09:00",
+ "last_run": "2026-11-03T11:16:41.740375+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
