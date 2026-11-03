@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.donga.com/it/article/all/20261020/134873626/1",
-  "https://www.hankyung.com/article/202610203545i",
-  "https://www.etnews.com/20261020000281",
-  "https://www.viva100.com/article/20261020500599",
-  "https://biz.heraldcorp.com/article/10908476",
-  "https://biz.heraldcorp.com/article/10908315",
-  "https://www.newsis.com/view/NISX20261019_0003832262",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1728309",
   "https://www.sedaily.com/article/20103531",
   "https://www.mt.co.kr/politics/2026/10/19/2026101917451444230",
@@ -2999,16 +2992,16 @@
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601729",
   "https://www.ccreview.co.kr/news/articleView.html?idxno=361660",
   "https://www.dailian.co.kr/news/view/1709830/?sc=Naver",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442757"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442757",
+  "https://www.mk.co.kr/article/12194632",
+  "https://www.huffingtonpost.kr/article/261753",
+  "http://www.metroseoul.co.kr/article/20261103500186",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88989",
+  "https://www.etnews.com/20261103000215",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712171",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712161"
  ],
  "seen_titles": [
-  "\"6G통신망,3사공동구축해야\"…중대역광대역폭확보제안",
-  "이통사,체험행사로고객잡아라…LGU+“장기고객프로그램3배로확대...",
-  "인도최대통신사지오플랫폼스,IPO공모주청약30배몰려",
-  "“6G망,통신3사공동구축해야광대역폭확보”",
-  "‘해킹·희망퇴직’악재턴이통3사,합산영업이익5조봤다",
-  "“통신사‘기업메시지’개인정보처리실태조사해야”",
-  "한국소비자단체연합“통신사도‘기업메시지’개인정보처리실태조...",
   "\"오픈런해도못산다\"…3개월대기필수된'아이폰듀오'",
   "AI시대돈되는건'토큰'…이통사,새먹거리선점경쟁",
   "“그걸누가사”했는데359만원→450만원...“비싸다”혹평받던아이...",
@@ -6001,7 +5994,14 @@
   "[영상뉴스]AI거품터지기전에싹팔아치운다?엔비디아의위험한고...",
   "충북과기원,AI에이전트업무활용논의포럼",
   "'96이강철vs06박진만'한국시리즈MVP들이펼칠지략대결",
-  "환율누르는'엔비디아'환전물량…10억弗네이버투자금유입"
+  "환율누르는'엔비디아'환전물량…10억弗네이버투자금유입",
+  "5년만의패권이냐,12년만의왕좌탈환이냐?KT위즈vs삼성라이온즈...",
+  "애플중국판매증가힘입어3분기매출사상최고치기록:메모리가격...",
+  "LG엔솔,ESS출하늘며3분기역대최대매출…북미생산확대",
+  "LG엔솔,3분기영업익7560억원…실적반등요인은?",
+  "정재헌SKT대표“AI로생산성·경쟁력제고”…사내에이전트우수작...",
+  "오픈AI,전미육군장관영입…美국가안보·사이버보안강화나선다",
+  "비트코인,바이낸스해킹·ETF순유출버텼다…주간낙폭제한적"
  ],
  "recent_sigs": [
   [
@@ -6699,9 +6699,13 @@
   [
    "2026-11-03T13:16:16.557702+09:00",
    "환율 네이버 유입 10억 환전 누르는 물량 투자금"
+  ],
+  [
+   "2026-11-03T13:18:15.654889+09:00",
+   "순유출 제한적 비트코인 낙폭 버텼다 ETF 바이낸스 주간"
   ]
  ],
- "last_run": "2026-11-03T13:16:42.845779+09:00",
+ "last_run": "2026-11-03T13:18:39.026195+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
