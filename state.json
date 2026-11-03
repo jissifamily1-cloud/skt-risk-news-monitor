@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261029000200",
-  "https://www.chosun.com/economy/tech_it/2026/11/03/GNKQJA2T35CM3LGKSQQ4OO5I74/",
-  "https://www.kmib.co.kr/article/20261102502209",
-  "https://www.tokenpost.kr/news/ai/431473",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16266558",
-  "https://www.wikitree.co.kr/articles/1171200",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=622277",
   "https://www.ekn.kr/web/view.php?key=20261102026064452",
   "https://www.newspim.com/news/view/20261102001642",
   "https://byline.network/?p=9004111222625799",
@@ -2999,16 +2992,16 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261103133842jzR",
   "https://www.mt.co.kr/politics/2026/11/03/2026110311342323816",
   "https://www.mt.co.kr/politics/2026/11/03/2026110311430429965",
-  "https://www.yna.co.kr/view/AKR20261103102400530?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261103102400530?input=1195m",
+  "https://www.ddaily.co.kr/page/view/2026110313250738688",
+  "https://www.ddaily.co.kr/page/view/2026110312404678565",
+  "https://www.ddaily.co.kr/page/view/2026110313093500947",
+  "https://www.cwn.kr/news/articleView.html?idxno=60884",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586885685026",
+  "https://www.edaily.co.kr/News/Read?newsId=04011446645642112&mediaCodeNo=257",
+  "https://www.ddaily.co.kr/page/view/2026110313213265126"
  ],
  "seen_titles": [
-  "[특파원칼럼]닮아가는'M7'의위험한질주",
-  "경북제조현장에이식된'AI심장'…구미·포항산단,자율제조대전환...",
-  "기업들도AI비서경계…JP모건·아마존“보안위험”접근막아",
-  "[김덕우의생활속AI]2300원짜리검색이몇십원에되는순간…AI비서...",
-  "챗GPT광고89개국확대…누적광고주10만곳넘었다",
-  "인간이죽음을극복하는날…부자만젊어지는세상이온다면민주주의...",
-  "뱅크오브아메리카,AI에이전트에로그인정보넘기지말라경고…JP모...",
   "[공모주HOT]래블업,코스닥출사표…284.53대1경쟁률안고3일첫거...",
   "[패트롤]인천시-인천시의회-인천시교육청-인천신보-인천문화재단",
   "[미국특징주]오라클,AI투자위해200억달러조달…부채부담우려에...",
@@ -6001,7 +5994,14 @@
   "외교부\"1호기정보유출수사…대통령내외등여권재발급조치\"",
   "외교부\"대통령개인정보,해킹아닌유출\"…탑승객여권재발급조치",
   "국정원,금융권해킹잇따르자2100여개기관에'긴급보안점검'",
-  "'2차세종시이전'공청회격앙·성토…\"일방적사전협의없어\""
+  "'2차세종시이전'공청회격앙·성토…\"일방적사전협의없어\"",
+  "“AI로반복업무줄인다”…이베이재팬,해커톤서자동화기술공유",
+  "韓문화까지간파한피싱범들…\"행동기반AI로막아라\"",
+  "북한이빼돌린바이낸스자금은어디에…\"FBI미공개지갑으로도흘러가...",
+  "이재명대통령\"사이버보안차르도입검토\"...범정부대응체계강조",
+  "[현장]\"자동차공장은더스마트하게\"…기아'맞춤형생산',현대차그룹...",
+  "\"비트코인에양자컴위협은공포마케팅,현실적위험은AI해킹\"",
+  "연이은금융권해킹,차세대보안전략은?…웨어밸리,FISCON참가"
  ],
  "recent_sigs": [
   [
@@ -6743,9 +6743,21 @@
   [
    "2026-11-03T13:40:30.010969+09:00",
    "2차 사전협의없어 일방적 성토 공청회 이전 세종시 격앙"
+  ],
+  [
+   "2026-11-03T13:42:15.975029+09:00",
+   "스마트하게 기아 맞춤형 생산 자동차 현대차그룹 공장은"
+  ],
+  [
+   "2026-11-03T13:42:15.975029+09:00",
+   "현실적 공포 AI해킹 위협은 양자컴 위험은 비트코인에 마케팅"
+  ],
+  [
+   "2026-11-03T13:42:15.975029+09:00",
+   "참가 연이은 보안 금융권 전략은 FISCON 웨어밸리 차세대"
   ]
  ],
- "last_run": "2026-11-03T13:40:53.223730+09:00",
+ "last_run": "2026-11-03T13:42:45.101816+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
