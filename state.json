@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6334777",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=877099",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113213",
-  "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800103.html",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080399",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=303589",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=254264",
-  "https://www.hankyung.com/article/2026102772811",
   "https://www.dailian.co.kr/news/view/1707019/?sc=Naver",
   "https://www.newspim.com/news/view/20261027001110",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271345437260349",
@@ -2999,17 +2991,17 @@
   "https://www.ddaily.co.kr/page/view/2026110311532287445",
   "https://www.sidae.com/article/2026110310560062782",
   "https://www.ytn.co.kr/_ln/0103_202611031153104216",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209283"
+  "https://www.dailysecu.com/news/articleView.html?idxno=209283",
+  "https://www.munhwa.com/article/11628390",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61954",
+  "https://biz.heraldcorp.com/article/10924039",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712134",
+  "https://www.munhwa.com/article/11628394",
+  "https://www.aitimes.com/news/articleView.html?idxno=216939",
+  "https://www.hidomin.com/news/articleView.html?idxno=727732",
+  "https://www.munhwa.com/article/11628395"
  ],
  "seen_titles": [
-  "앤트로픽초대형IPO에…삼전닉스·SKT도투자'잭팟'기대",
-  "SKT해킹딛고해지율'뚝'…\"정재헌표변화관리,신뢰회복에기여\"",
-  "[강소기업이간다]에스엘즈,공간지능AI로건설안전책임진다",
-  "AI골라주고비용까지관리…SKT'토큰게이트웨이'밑그림들어다보니",
-  "앤트로픽IPO에기대부푼SKT·네이버·LGCNS…최대26배차익전망",
-  "SK텔레콤10년이상고객에시카고초청장",
-  "SK텔레콤,10년장기고객에뮤지컬초청…'특별한연말선물'제공",
-  "SKT,10년이상장기고객1,299명초청해뮤지컬'시카고'단독공연연...",
   "SK텔레콤,고객신뢰위원회운영…소외지역찾아IT교육",
   "‘SK텔레콤동행이만든결실’이승민·김선영,일본장애인오픈정상",
   "[앤스로픽,상장]SKT,지분가치4.5조~6조...\"지분매도없다.협력목적...",
@@ -6001,7 +5993,15 @@
   "거센해킹에공공도비상…국정원,중앙부처·지자체등2100여곳점검",
   "이대통령,AI해킹에\"사이버보안차르기구적극검토\"",
   "극우논객지만원구속송치...5·18왜곡'수괴'판단",
-  "기업망서해킹도구사용217만건탐지…코발트스트라이크등상위"
+  "기업망서해킹도구사용217만건탐지…코발트스트라이크등상위",
+  "경영불확실성지속…30대그룹‘현장형CEO’늘었다",
+  "글로벌1억명돌파한넷이즈'연운',1주년로드맵공개",
+  "LG엔솔,올해매출목표‘40%성장’상향…“ESS,2028년물량까지확...",
+  "XRP좁은박스권공방…단기분수령은1.27달러",
+  "김여정“美의적대적태도,재고해볼문제”…미·북정상회담여부...",
+  "오픈AI,UAE석유·정부·투자업무에AI에이전트도입…4건협약",
+  "北김여정,바이낸스해킹배후설에발끈…\"미국의정치적도발\"",
+  "김여정직접나서해킹부인…정작北해커는2차자금세탁돌입"
  ],
  "recent_sigs": [
   [
@@ -6887,9 +6887,13 @@
   [
    "2026-11-03T11:56:24.008350+09:00",
    "상위 코발트 기업망서 스트라이크 217만건 사용 해킹도구 탐지"
+  ],
+  [
+   "2026-11-03T11:58:13.684139+09:00",
+   "직접 돌입 정작 김여정 2차 나서 부인 해커는 자금세탁"
   ]
  ],
- "last_run": "2026-11-03T11:56:47.943712+09:00",
+ "last_run": "2026-11-03T11:58:35.060965+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
