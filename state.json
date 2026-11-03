@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261103042600013?input=1196m",
-  "http://www.beyondpost.co.kr/view.php?ud=20261103095321511646a9e4dd7f_30",
-  "https://www.sentv.co.kr/article/view/sentv202611030078",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442692",
-  "https://www.hidomin.com/news/articleView.html?idxno=727706",
-  "http://www.beyondpost.co.kr/view.php?ud=202611030951038643be44c0aacd_30",
-  "https://www.etnews.com/20261102000399",
-  "https://www.sentv.co.kr/article/view/sentv202611030080",
   "https://www.yna.co.kr/view/PYH20261103043300013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261103043100013?input=1196m",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711895",
@@ -2999,17 +2991,17 @@
   "https://www.fnnews.com/news/202611031812526018",
   "https://www.edaily.co.kr/News/Read?newsId=05366086645642112&mediaCodeNo=257",
   "https://www.dt.co.kr/article/12092979",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702729"
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8702729",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=61968",
+  "https://www.sportschosun.com/baseball/2026-11-03/202611030100021650002197",
+  "https://www.sportsworldi.com/newsView/20261103518674",
+  "https://www.econovill.com/news/articleView.html?idxno=755904",
+  "https://www.fnnews.com/news/202611031814490461",
+  "https://biz.sbs.co.kr/article_hub/20000344017?division=NAVER",
+  "https://www.joongang.co.kr/article/25475420",
+  "https://www.wikitree.co.kr/articles/1171483"
  ],
  "seen_titles": [
-  "[특징주]금융권해킹확산에보안주급등···한싹·파수AI상한가",
-  "SK텔레콤,전사AI전환가속…사내AI에이전트1500개활용",
-  "LGU+,서울여대와정보보호·AI·데이터공동연구",
-  "제약바이오협회,'KPBMA제약바이오아카데미'오픈",
-  "GS샵,AI로상품선정·행사준비자동화···업무시간70%단축",
-  "[시선집중]성일종“드론전력열세인데사령부본부로격하?...정책일...",
-  "LG유플러스,서울여대와손잡고가명정보결합·분석기술공동연구",
-  "경찰,'5·18왜곡'지만원구속송치…게시글삭제요청",
   "군악대연주에장교들은'기차놀이'…공군음주간담회논란에국방장관...",
   "서명식하는황대일연합뉴스사장과부비엣짱VNA대표",
   "트럼프,이란공격재개에\"서두를것없다\"…국제유가7%↓",
@@ -6001,7 +5993,15 @@
   "LG엔솔,ESS·EV로실적날았다",
   "‘부정선거프레임’으로장동혁의총선승리가능할까[이슈현미경]",
   "[사설]대통령개인정보도유출되는데,국민정보는오죽할까",
-  "바이낸스6조6천억원순유출…“해커,2차세탁착수한듯”"
+  "바이낸스6조6천억원순유출…“해커,2차세탁착수한듯”",
+  "[게임뉴스]드림에이지및웹젠소식외",
+  "[포토]구자욱,우승만생각",
+  "홍성바비큐축제23만명방문…악천우뚫고′맛난축제′로자리매김",
+  "GS샵,'MD큐레이션시스템'오픈…AI활용도'만점'",
+  "빚내거나손잡거나도태되거나...AI패권,이젠'돈줄확보'전쟁",
+  "美중간선거곧시작…AI의구심은해소될까",
+  "외교부“유출순방단명단,외교부문서형식”…“경로가닥잡혀가”",
+  "삼성-KT한국시리즈중계,1차전선발·방송사채널은?"
  ],
  "recent_sigs": [
   [
@@ -6935,9 +6935,13 @@
   [
    "2026-11-03T18:14:19.222447+09:00",
    "채택 중국계 스타트업 휴머노이드 부품"
+  ],
+  [
+   "2026-11-03T18:18:16.939735+09:00",
+   "빚내거나 이젠 손잡거나 돈줄 전쟁 확보 도태되거나 패권"
   ]
  ],
- "last_run": "2026-11-03T18:16:31.729405+09:00",
+ "last_run": "2026-11-03T18:18:38.019546+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
