@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730140",
-  "https://www.viva100.com/article/20261102501083",
-  "http://mcnews.co.kr/86846",
-  "https://www.hidomin.com/news/articleView.html?idxno=727577",
-  "https://www.jasm.co.kr/news/view/323837/?sc=Naver",
-  "https://www.etoday.co.kr/news/view/2643095",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=284090",
   "https://www.news1.kr/sports/baseball/6340058",
   "https://www.ddaily.co.kr/page/view/2026110215123471085",
@@ -2999,15 +2993,15 @@
   "https://www.mk.co.kr/article/12194346",
   "https://www.etoday.co.kr/news/view/2643330",
   "https://www.wikitree.co.kr/articles/1171264",
-  "https://news.tf.co.kr/read/economy/2383962.htm"
+  "https://news.tf.co.kr/read/economy/2383962.htm",
+  "https://www.ddaily.co.kr/page/view/2026110308225624940",
+  "https://www.boannews.com/news/articleView.html?idxno=146897",
+  "https://www.sentv.co.kr/article/view/sentv202611030043",
+  "https://www.boannews.com/news/articleView.html?idxno=146950",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442665",
+  "https://www.etoday.co.kr/news/view/2643312"
  ],
  "seen_titles": [
-  "[Telecom&Now]KT,삼성전자와가을야구서AI무선망자율운용기술검...",
-  "델타항공,아태노선‘무료와이파이’확대…韓고객디지털서비스...",
-  "이지스,AI기반디지털어스플랫폼오픈베타시작",
-  "국내가상자산금융제도권편입탄력붙나",
-  "kt대니엘vs삼성최원태'맞대결'…한국시리즈1차전선발예고",
-  "금융당국,글로벌거래소해킹에국내긴급점검⋯보안강화조치논의",
   "[통신픽]AI로야구장먹통막는다…KT·삼성전자,무선망과부하해결",
   "[뉴스1PICK]한국시리즈D-1,KT·삼성맞대결…우승트로피주인공은?",
   "김형태·미카미신지,게임제작논한다…'지콘2026'일정공개",
@@ -6001,7 +5995,13 @@
   "국제유가7%떨어졌지만기술주‘뚝’…나스닥1.07%↓[뉴욕증시]",
   "[특징주]래블업,상장첫날공모가대비37%상승출발",
   "이대통령부부의신상정보가...믿기지않는사태에청와대발칵",
-  "대신證이어한양證도뚫렸다…주민번호·계좌번호까지유출"
+  "대신證이어한양證도뚫렸다…주민번호·계좌번호까지유출",
+  "LGU+,통신데이터안전활용법찾는다",
+  "AI가뚫어낸리눅스커널...우분투에치명적제로클릭원격실행취약...",
+  "일레븐랩스,대화형음성AI‘일레븐리얼타임’선봬…90여개언어지...",
+  "\"보안미루다진짜회사가망했다\"...대만제이버폐업이남긴경고",
+  "늘어가는해킹피해에사이버보험문의도급증…시장커지나",
+  "미래에셋그룹계열사잇단해킹시도…보안강화"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,17 @@
   [
    "2026-11-03T09:06:16.499724+09:00",
    "서화 국내 경매 129점 마이아트옥션 조선 공개 환수"
+  ],
+  [
+   "2026-11-03T09:10:24.759873+09:00",
+   "문의도 급증 시장 사이버 보험 늘어가는 피해에 커지나"
+  ],
+  [
+   "2026-11-03T09:10:24.759873+09:00",
+   "계열사 보안 강화 잇단 시도 미래에셋그룹"
   ]
  ],
- "last_run": "2026-11-03T09:08:33.982181+09:00",
+ "last_run": "2026-11-03T09:10:46.003521+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
