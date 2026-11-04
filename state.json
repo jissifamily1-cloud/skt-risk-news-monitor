@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.goodkyung.com/news/articleView.html?idxno=293073",
-  "https://www.news1.kr/world/international-economy/6342274",
-  "https://www.ziksir.com/news/articleView.html?idxno=151954",
-  "https://www.mt.co.kr/stock/2026/11/04/2026110409083698236",
-  "https://www.chosun.com/economy/money/2026/11/04/PJHBTS36TFEXJJBH5CDNZFKWBM/",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261104091009Olx",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1542612",
   "https://www.asiatime.co.kr/article/20261104500042",
   "https://www.yna.co.kr/view/PYH20261104023400013?input=1196m",
@@ -2999,15 +2993,15 @@
   "https://www.sisajournal-e.com/news/articleView.html?idxno=424805",
   "https://www.globale.co.kr/news/articleView.html?idxno=41426",
   "https://www.businesspost.co.kr/BP?command=article_view&num=451154",
-  "https://www.kmib.co.kr/article/20261104501847"
+  "https://www.kmib.co.kr/article/20261104501847",
+  "https://www.mk.co.kr/article/12196612",
+  "https://www.sportschosun.com/baseball/2026-11-04/202611040100030740003231",
+  "https://en.yna.co.kr/view/AEN20261104010800315?input=2106m",
+  "https://www.hankookilbo.com/news/article/A2026110416060004968?did=NA",
+  "https://www.newsis.com/view/NISX20261104_0003855125",
+  "https://www.ppss.kr/news/articleView.html?idxno=319089"
  ],
  "seen_titles": [
-  "'신작공백'카카오게임즈,3Q영업손실263억…'도깨비의세계'통해반...",
-  "모빌린트NPU,글로벌AI프레임워크코드'레이'에반영",
-  "[뉴욕증시포커스]중간선거속반도체반등…나스닥0.83%↑·다우0.38%↓",
-  "AMD실적호조에나스닥선물0.21%↑…美중간선거개표주시",
-  "TSMC,삼성테일러3시간거리에60조투자추진…파운드리경쟁격화",
-  "삼전3%·닉스5%대상승…美반도체주반등영향",
   "[속보]코스피,미국반도체주순풍에2.43%상승출발",
   "김여정\"선택지엔대화포함…국익과동일시아냐\"",
   "김여정\"미,적대적신호…마주앉을필요없다는게우리입장\"",
@@ -6001,7 +5995,13 @@
   "SK텔레콤,2300만가입자AI수익화로잇는다···'토큰게이트웨이'준...",
   "〈승리의여신:니케〉PC런처해킹,시프트업·퍼블리셔총력대응",
   "금융사해킹사고과징금'매출3%'입법드라이브,국회11월심사가능...",
-  "“내골프는S&P500이었는데올해는코스닥처럼…값진교훈얻었죠”…..."
+  "“내골프는S&P500이었는데올해는코스닥처럼…값진교훈얻었죠”…...",
+  "박진만감독‘2차전은반드시잡는다’[MK포토]",
+  "\"파울홈런?그래봤자파울이죠\"22세강철심장,'이순간'만큼은철렁했...",
+  "Lionsstackleft-handedbattersagainstsidearmopposingpitcher",
+  "반도체신물질개발기간절반으로줄이겠다는데…'AI과학자'의현주...",
+  "\"해저케이블손상막아라\"…NIA,SKB부산육양국현장방문",
+  "쿠팡Inc,3분기연속적자에도\"일시적부진\"…유출사태이전복귀는난..."
  ],
  "recent_sigs": [
   [
@@ -6863,9 +6863,13 @@
   [
    "2026-11-04T17:30:31.032525+09:00",
    "올해는 골프는 P500이었는데 얻었죠 코스닥처럼 값진 교훈"
+  ],
+  [
+   "2026-11-04T17:32:15.922564+09:00",
+   "쿠팡Inc 적자에도 이전 연속 유출 3분기 복귀는 일시적 부진 사태"
   ]
  ],
- "last_run": "2026-11-04T17:30:54.830894+09:00",
+ "last_run": "2026-11-04T17:32:36.738408+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
