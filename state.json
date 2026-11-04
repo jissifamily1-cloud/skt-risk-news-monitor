@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nongmin.com/article/20261102500391",
-  "https://www.busan.com/view/busan/view.php?code=2026110315364982932",
-  "https://www.newsis.com/view/NISX20261102_0003851674",
-  "https://www.donga.com/news/Politics/article/all/20261103/134958977/1",
-  "https://www.khan.co.kr/article/202611032059035",
-  "https://www.mk.co.kr/article/12191509",
-  "http://www.newstomato.com/ReadNews.aspx?no=1318769&inflow=N",
-  "http://www.breaknews.com/1246675",
-  "https://www.mk.co.kr/article/12195300",
-  "http://www.osen.co.kr/article/G1112903564",
-  "http://www.osen.co.kr/article/G1112903563",
   "http://www.stoo.com/article.php?aid=109708675482",
   "http://www.osen.co.kr/article/G1112903566",
   "https://www.news1.kr/photos/8195502",
@@ -2999,20 +2988,20 @@
   "https://www.viva100.com/article/20261104500238",
   "https://www.sedaily.com/article/20109958",
   "https://www.hankyung.com/article/2026110445337",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001355"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001355",
+  "https://www.techm.kr/news/articleView.html?idxno=156744",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081212",
+  "https://www.hankyung.com/article/202611044401g",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=409230",
+  "https://www.ekn.kr/web/view.php?key=20261104025385142",
+  "https://www.kfenews.co.kr/news/articleView.html?idxno=667497",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501110",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=309970",
+  "https://www.ajunews.com/view/20261104091706096",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079491",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215584"
  ],
  "seen_titles": [
-  "[ST포토]헛스윙하는김헌곤",
-  "'KT1선발'대니엘,기세오른삼성상대로호투…6이닝3실점[KS]",
-  "홈인하는디아즈",
-  "‘알고리즘’에질린AI연구자…‘나만의유튜브’만들었다",
-  "이대통령“청소년SNS제한검토신속히”…방미통위“내년상반기...",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(11월3일화요일)",
-  "김여정,바이낸스해킹北배후지목에“美정치적도발”",
-  "‘냉장고해킹’유럽전역으로확산…“국가테러가능성”",
-  "성공사례6건?…카카오의‘위험한일반화’",
-  "드론공격부터통신장애까지…KT,복합재난대응훈련",
-  "대기업오너가,올해222명지분변동..이재용회장5조원취득1위",
   "이재현‘이악물고때렸는데..두번째파울홈런’[MK포토]",
   "[사진]KT세번째투수손동현",
   "[사진]파울홈런바라보는이재현",
@@ -6001,7 +5990,18 @@
   "[통신업계소식]KT,‘안심365’출시⋯“AI기반고객보호서비스통...",
   "AI가말투·맥락까지분석…KT,‘보이스피싱탐지3.0’출시",
   "\"냉동고고기다녹았네\"…냉장고해킹에유럽마트비상",
-  "바이낸스,63억4000만달러해킹경로공개…가짜면접·사내AI악용...김..."
+  "바이낸스,63억4000만달러해킹경로공개…가짜면접·사내AI악용...김...",
+  "통신사,AX레퍼런스·생태계확보'총력'",
+  "SK텔레콤UNGC2027년리드기업위촉",
+  "매출반토막에적자빠진카겜…'1위신작'으로반등노린다",
+  "오픈소스컨설팅,'플레이스큐브'CNCF공식인증",
+  "삼전·하닉급락하루만에반격…코스피·코스닥동반상승[개장시황...",
+  "코스피,5820선반등…美AI주강세영향",
+  "코스피,장초반3%대급등해5800선회복...삼성전자·SK하이닉스반등",
+  "원스토어,'코리아그랜드페스티벌'맞아게임할인이벤트",
+  "KT,AI가통화중보이스피싱잡는다…어조·말속도까지분석",
+  "KT·고려대,AI공동연구글로벌학회논문12건채택",
+  "\"북한,바이낸스해킹에가짜채용면접수법사용\""
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,13 @@
   [
    "2026-11-04T09:18:17.109548+09:00",
    "제한 SNS 상반기 정부 방안 내년 마련 청소년 이용"
+  ],
+  [
+   "2026-11-04T09:22:15.758842+09:00",
+   "이벤트 맞아 원스토어 게임 그랜드 페스티벌 할인 코리아"
   ]
  ],
- "last_run": "2026-11-04T09:20:47.075199+09:00",
+ "last_run": "2026-11-04T09:22:37.149706+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
