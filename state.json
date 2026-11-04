@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558418",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703941",
-  "https://www.ytn.co.kr/_ln/0101_202611041856224180",
-  "https://www.ngonews.kr/news/articleView.html?idxno=242269",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/05/20261105032002?wlog_tag3=naver",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/04/2026110480238.html",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209310",
-  "https://www.yna.co.kr/view/PYH20261104191700013?input=1196m",
-  "https://view.asiae.co.kr/article/2026110409561970369",
-  "https://www.sportschosun.com/baseball/2026-11-04/202611040100031890003327",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017679",
   "https://www.xportsnews.com/article/2215501",
   "https://www.sportschosun.com/baseball/2026-11-04/202611040100031880003326",
   "http://www.osen.co.kr/article/G1112904187",
@@ -2999,20 +2988,20 @@
   "https://www.ibabynews.com/news/articleView.html?idxno=156552",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=304255",
   "https://www.smartbizn.com/news/articleView.html?idxno=158493",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318825"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318825",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229098",
+  "https://www.ccdailynews.com/news/articleView.html?idxno=2449818",
+  "https://www.newsis.com/view/NISX20261105_0003855518",
+  "https://www.news1.kr/finance/market-exr/6343574",
+  "https://www.ajunews.com/view/20261105080449698",
+  "https://www.etoday.co.kr/news/view/2644324",
+  "https://www.m-i.kr/news/articleView.html?idxno=2014634",
+  "https://view.asiae.co.kr/article/2026110508120979331",
+  "https://www.newspim.com/news/view/20261105000050",
+  "https://www.yna.co.kr/view/AKR20261105025300008?input=1195m",
+  "https://www.tokenpost.kr/news/tech/432928"
  ],
  "seen_titles": [
-  "KAIST,스마트폰개인정보노리는'가짜기지국'…탐지사각지대찾았다",
-  "크리스마스다가오는데…애플,'아이폰듀오'추가재고확신못해",
-  "챗GPT검색량,구글20%까지따라붙었다",
-  "“마주앉을필요없다”…북,미선거날미사일발사",
-  "유럽하늘길불안…여객기7대폭파위협신고",
-  "김건\"트럼프,선거패배로북미대화요인커져...관세문제?큰영향없...",
-  "청소년'SNS규제'논의본격화…가입제한부터과몰입기능차단까지",
-  "아바타모여기도하고사우나…메타버스,AI열풍업고‘부활’",
-  "볼보자동차,엔비디아와파트너십확대…\"차세대자율주행안전기술개...",
-  "미국교육서비스기업해킹…130만명이상개인정보유출",
-  "응원전펼치는kt팬들",
   "해킹악재털고신뢰회복한정재헌호SKT,3분기영업익11배↑",
   "[포토]페덱,KT는내가잡는다",
   "[포토S]류지혁,'안현민꼼짝마'",
@@ -6001,7 +5990,18 @@
   "라플홀딩스,카카오PlayMCP에‘출산지원금계산기’공개…AI로지역...",
   "[굿모닝!글로벌뉴욕증시]중간선거민주당상•하원장악에정치적불...",
   "8만달러탈환에도웃지못하는비트코인,美의회권력교체에규제'빨...",
-  "YTN'김정은사망설'허위보도,누가책임질것인가"
+  "YTN'김정은사망설'허위보도,누가책임질것인가",
+  "실책하나에갈린승패…삼성,연장혈투끝에승부원점으로",
+  "40개국청춘900명대전서한마음",
+  "美반도체부진에프리마켓서삼전·닉스3~4%↓",
+  "삼전닉스3~4%급락vs이차전지·태양광강세…프리마켓희비",
+  "[마켓프리뷰]美증시급등에도코스피변동성전망…반도체수급주목",
+  "애플,민주당압승에최고가경신⋯5%대상승[뉴욕증시무버]",
+  "美민주당'블루웨이브'에다우3.03%급등...반도체는약세[뉴욕증시...",
+  "[굿모닝증시]美중간선거發'블루웨이브'…AI주희비엇갈려",
+  "SK하이닉스,美AI투자법인'HYAICO'출범채비…최태원직접지휘",
+  "IBK증권,LG유플러스목표가↑…\"AI데이터센터중심고성장\"",
+  "CUDA13.5,베라루빈지원GA전환…엔비디아"
  ],
  "recent_sigs": [
   [
@@ -6343,9 +6343,13 @@
   [
    "2026-11-05T08:16:18.349295+09:00",
    "보도 누가 책임질 사망설 것인가 김정은 YTN 허위"
+  ],
+  [
+   "2026-11-05T08:18:23.117873+09:00",
+   "CUDA 베라 지원 루빈 GA"
   ]
  ],
- "last_run": "2026-11-05T08:16:40.036496+09:00",
+ "last_run": "2026-11-05T08:18:41.453106+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
