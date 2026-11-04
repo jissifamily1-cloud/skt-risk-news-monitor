@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261104000013",
-  "https://www.newspim.com/news/view/20261104000012",
-  "https://www.mediapen.com/news/view/1134886",
-  "https://www.news2day.co.kr/article/20261104500001",
-  "https://www.wikitree.co.kr/articles/1171559",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=622540",
   "https://www.cbci.co.kr/news/articleView.html?idxno=622533",
   "https://www.ddaily.co.kr/page/view/2026110318392298657",
   "https://www.g-enews.com/view.php?ud=202611030834203183906806b77b_1",
@@ -2999,15 +2993,15 @@
   "https://www.tokenpost.kr/news/ai/432211",
   "http://www.yonhapnewstv.co.kr/news/MYH20261104114224wIB",
   "https://www.cnbnews.com/news/articleView.html?idxno=1022239",
-  "https://www.yna.co.kr/view/AKR20261104085700008?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261104085700008?input=1195m",
+  "https://www.techm.kr/news/articleView.html?idxno=156902",
+  "http://www.00news.co.kr/news/articleView.html?idxno=107716",
+  "https://www.ngonews.kr/news/articleView.html?idxno=242320",
+  "https://www.donga.com/news/Inter/article/all/20261104/134963401/2",
+  "https://theviewers.co.kr/View.aspx?No=4296656",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172900"
  ],
  "seen_titles": [
-  "딥시크Harness,프롬프트로플러그인만든다…보안감사안거친프리뷰",
-  "로빈후드(HOOD),앤트로픽IPO공모참전...\"개인몫20%로\"",
-  "[GAM]월가,다시아마존으로②잉여현금흐름424억달러적자에도'매수...",
-  "[GAM]월가,다시아마존으로①\"현금소진우려보다AWS성장이크다\"",
-  "특화멤버십으로'단골'만든다…CJ온스타일,고객확보전략다변화",
-  "[마켓인사이드]심상치않은중국AI주식폭락",
   "앤트로픽,3분기매출12배늘어170억달러인데순손실233억달러로두...",
   "[애플성장세둔화]시리는여전히'주방타이머'수준…애플,인공지능...",
   "[AI개발사욕망]팔란티어CEO\"진짜AI위험은개발사의욕망\"...\"기술...",
@@ -6001,7 +5995,13 @@
   "애플,AI에이전트권한초과·거래완료위험10-K에명시",
   "北,탄도미사일추정체발사…김여정,이틀연속대미담화",
   "SK텔레콤,3분기매출4조4973억·당기순익4118억",
-  "스톤브릿지벤처스투자기업'올거나이즈',도쿄증시상장"
+  "스톤브릿지벤처스투자기업'올거나이즈',도쿄증시상장",
+  "통신업계,AI사업도활용도'잰걸음'...승자는?",
+  "LGU+,통신정체뚫은AIDC...3분기영업익84%'껑충'",
+  "현대제철,차세대생성형AI통합플랫폼오픈···전사AX혁신속도",
+  "바이낸스“北해커,CEO로위장접근…면접과제에악성코드심어”",
+  "LG유플러스,3분기영업익2976억원…AIDC매출27.7%↑",
+  "삼성생명,AI로시니어통합돌봄실증...기대효과는?"
  ],
  "recent_sigs": [
   [
@@ -6923,9 +6923,17 @@
   [
    "2026-11-04T11:42:16.540883+09:00",
    "마이콜 아쿠냐가 줄이야 ~KT 모티브였을 머리인 알았는데 안현"
+  ],
+  [
+   "2026-11-04T11:46:15.542412+09:00",
+   "사업도 활용도 잰걸음 통신업계 승자는"
+  ],
+  [
+   "2026-11-04T11:46:15.542412+09:00",
+   "시니어 통합돌봄 효과는 AI로 삼성생명 실증 기대"
   ]
  ],
- "last_run": "2026-11-04T11:44:36.992310+09:00",
+ "last_run": "2026-11-04T11:46:39.281801+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
