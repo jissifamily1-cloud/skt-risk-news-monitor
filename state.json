@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261104000054",
-  "https://www.lawissue.co.kr/view.php?ud=20261104090228660567191f6c6e_12",
-  "https://www.joongboo.com/news/articleView.html?idxno=363741397",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5228895",
-  "https://www.yna.co.kr/view/AKR20261104030600009?input=1195m",
-  "https://www.etnews.com/20261104000051",
-  "https://www.theguru.co.kr/news/article.html?no=109219",
-  "https://www.venturesquare.net/1125324/",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017493",
-  "https://www.bntnews.co.kr/article/view/bnt202611040125",
-  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553670866",
   "https://view.asiae.co.kr/article/2026110409061708588",
   "https://daily.hankooki.com/news/articleView.html?idxno=1421482",
   "https://biz.heraldcorp.com/article/10924908",
@@ -2999,20 +2988,20 @@
   "http://www.consumernews.co.kr/news/articleView.html?idxno=767587",
   "https://www.newspim.com/news/view/20261104001166",
   "https://www.ytn.co.kr/_ln/0107_202611041717473788",
-  "https://econotimes.com/Cisco-and-OpenAI-Highlight-Security-Telemetry-and-Observability-Data-1770568"
+  "https://econotimes.com/Cisco-and-OpenAI-Highlight-Security-Telemetry-and-Observability-Data-1770568",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=879926",
+  "https://isplus.com/article/view/isp202611040157",
+  "https://www.donga.com/news/It/article/all/20261104/134966303/2",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42576",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242699",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443048",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1421827",
+  "http://www.inews24.com/view/2022693",
+  "https://view.asiae.co.kr/article/2026110417211583174",
+  "https://www.techm.kr/news/articleView.html?idxno=156939",
+  "https://www.dizzotv.com/site/data/html_dir/2026/11/04/2026110480194.html"
  ],
  "seen_titles": [
-  "삼성,페덱앞세워설욕노린다…15승고영표와한국시리즈2차전정면...",
-  "“구독자정체,대세가된광고요금제”…국내4대OTT,‘AI·맞춤형광...",
-  "프로젝트캐노피,오픈소스취약점정보공유플랫폼가동",
-  "현대제철,생성형AI플랫폼‘Steel-X’가동…전사AX가속",
-  "인천경제자유구역2차발전계획수립박차...강화남단연내신규지정...",
-  "'북미대화'직접언급한김여정\"선택지에분명있지만…\"",
-  "英·獨도냉장고온도50도로…유럽11개국번진마트해킹",
-  "KT,고려대와미래AI기술공동연구성과공유",
-  "비트코인ETF,美중간선거·해킹악재에2거래일간10억달러유출",
-  "경기창조경제혁신센터,‘BeyondO·I2026’에협업제안377건접수…1...",
-  "4G연속외면당한삼성외야수,반성시간끝났나…KS서맹타대반전,김...",
   "‘연애박사’김소현,이별후깊어진감정",
   "'KT비상'힐리어드이러다한국떠나나,美\"빠르게두각나타내\"집중...",
   "카카오게임즈,8개분기연속적자…신작출시로턴어라운드모색",
@@ -6001,7 +5990,18 @@
   "'일회성'걷어낸SK텔레콤·LG유플러스,3분기영업익'쑥'",
   "[종합]LG유플러스,AIDC10~15년장기계약확보…증설속도높인다",
   "한국시리즈2차전...kt\"홈2연승\"삼성\"원정1승1패\"",
-  "CiscoandOpenAIHighlightSecurityTelemetryandObservabilityData"
+  "CiscoandOpenAIHighlightSecurityTelemetryandObservabilityData",
+  "원태인선발복귀초읽기…박진만삼성감독\"2차전중요\"",
+  "\"너무분했다\"마지막타석떠나지못한박승규,삼성의눈빛이달라졌...",
+  "AI공격엔AI방어…프로젝트캐노피,취약점인텔리전스허브공개",
+  "오픈AI,우버출신'질헤이즐베이커'CCAO로영입…\"AI시대,대중의신...",
+  "[컨콜]SKT\"울산AIDC일부건축허가…글로벌고객사와협의중\"",
+  "SKT\"글로벌사업자3~4곳과AIDC사업협의중\"",
+  "[컨콜종합]SKT,SK하이퍼울산AIDC2029년하반기단계적오픈목표",
+  "[컨콜]SKT\"6G상용화,2030년이후예상\"",
+  "[콘콜]SKT\"앤스로픽지분매각,시장여건고려…토큰게이트웨이사업...",
+  "SKT\"AI'토큰팩토리'준비...AIDC,선고객후투자\"(종합)",
+  "KT,AI기반'안심365'공개...통신보안서비스하나로묶어"
  ],
  "recent_sigs": [
   [
@@ -6851,9 +6851,13 @@
   [
    "2026-11-04T17:22:14.901304+09:00",
    "Cisco Security Highlight Data Observability and Telemetry"
+  ],
+  [
+   "2026-11-04T17:24:15.067678+09:00",
+   "팩토리 후투자 ~SKT 토큰 선고객 준비 AIDC"
   ]
  ],
- "last_run": "2026-11-04T17:22:38.711848+09:00",
+ "last_run": "2026-11-04T17:24:39.779908+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
