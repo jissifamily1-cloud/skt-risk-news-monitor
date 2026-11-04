@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261104000017",
-  "https://sports.donga.com/sports/article/all/20261104/134961170/1",
-  "https://www.seoul.co.kr/news/sport/baseball/2026/11/04/20261104500006?wlog_tag3=naver",
-  "https://sports.donga.com/sports/article/all/20261104/134960803/1",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017494",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017491",
-  "https://www.ftimes.kr/news/articleView.html?idxno=40862",
-  "https://www.kmib.co.kr/article/20261103502428",
-  "https://www.dkilbo.com/news/articleView.html?idxno=559546",
   "http://www.osen.co.kr/article/G1112903455",
   "https://www.mydaily.co.kr/page/view/2026110323050056951",
   "https://www.xportsnews.com/article/2215153",
@@ -2999,18 +2990,18 @@
   "http://www.worktoday.co.kr/news/articleView.html?idxno=91449",
   "https://www.seoulfn.com/news/articleView.html?idxno=641867",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/04/2026110400147.html",
-  "https://view.asiae.co.kr/article/2026110409140616820"
+  "https://view.asiae.co.kr/article/2026110409140616820",
+  "https://www.yna.co.kr/view/AKR20261104076700054?input=1195m",
+  "https://www.yna.co.kr/view/AKR20261104074100371?input=1195m",
+  "https://www.sedaily.com/article/20110050",
+  "https://www.globalepic.co.kr/view.php?ud=20261104110344151548439a4874_29",
+  "https://www.sentv.co.kr/article/view/sentv202611040087",
+  "http://www.newscape.co.kr/news/articleView.html?idxno=125567",
+  "https://www.asiatime.co.kr/article/20261104500089",
+  "https://www.dt.co.kr/article/12093073",
+  "https://www.mk.co.kr/article/12196205"
  ],
  "seen_titles": [
-  "'코디폰태'는없었다!박진만결단임박\"다음선발등판쉽지않아→...",
-  "\"망했다\"가슴철렁했던마무리박영현,삼성타선막고5OUTSV대성공…...",
-  "[KS포커스]KT-삼성모두후회한투수교체…시리즈승부가를마운드...",
-  "험난했던박영현까지가는길…로건·김정운에게위기맡긴KT,히든카드...",
-  "1차전선발이2이닝5실점충격…“최원태출전쉽지않다”삼성결단...",
-  "‘3홈런+2루타로7점’경기감각우려삭제한KT의화력…삼성꺾고73....",
-  "[포토S]한국시리즈1차전애국가부른하현상",
-  "[포토S]박영현,'주먹불끈!'",
-  "KBO명예회복실패한삼성최원태…연속부진속2이닝5실점강판",
   "사자잠재운두남자",
   "삼성,한국시리즈첫판7-8석패…한발늦은맹추격",
   "'이럴수가,작두탔나'강철매직,말하는대로다됐다...8-0에서박영현...",
@@ -6001,7 +5992,16 @@
   "LG유플러스,3분기영업익84.1%급증…AI데이터센터가성장동력부...",
   "LG유플러스,3Q영업이익2976억원···전년比84.1%급증",
   "볼보,엔비디아와자율주행협력확대…'운전자개입없는주행'기술...",
-  "[크립토레이더]美비트코인ETF서이틀간10억달러순유출…선거·해킹..."
+  "[크립토레이더]美비트코인ETF서이틀간10억달러순유출…선거·해킹...",
+  "광주전남언론인회,5·18보도검열관실복원촉구1인시위",
+  "반크,'아프리카약탈문화유산환수홍보대사'1기100명모집",
+  "LG,AI학습데이터저작권도AI로검증…속도45배높였다",
+  "AI가AI의저작권을검증한다…LGAI연구원‘엑사원넥서스’,저작권...",
+  "현대제철,생성형AI‘Steel-X’구축…전사AX가속",
+  "SK텔레콤,3분기매출4조4973억원·영업익5523억원",
+  "KT,고객보호브랜드‘안심365’출범…AI보안강화",
+  "[속보]中텐센트게임‘니케’PC런처,해킹악성코드삽입의혹…“...",
+  "할리우드·음악계,NYT편에섰다...오픈AI저작권소송확산"
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,13 @@
   [
    "2026-11-04T11:08:16.773709+09:00",
    "ETF서 비트코인 선거 이틀간 순유출 10억달러"
+  ],
+  [
+   "2026-11-04T11:10:25.244233+09:00",
+   "NYT 섰다 저작권 확산 할리우드 소송 음악계 편에"
   ]
  ],
- "last_run": "2026-11-04T11:08:40.972328+09:00",
+ "last_run": "2026-11-04T11:10:46.460298+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
