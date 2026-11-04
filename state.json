@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8197413",
-  "https://www.starnewskorea.com/sports/2026/11/04/2026110418524322878",
-  "https://www.starnewskorea.com/sports/2026/11/04/2026110418530586418",
-  "https://www.thelec.kr/news/articleView.html?idxno=64885",
-  "https://www.mt.co.kr/industry/2026/11/04/2026110409324748653",
-  "http://www.jjn.co.kr/news/articleView.html?idxno=1056441",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105676",
   "https://www.sportschosun.com/baseball/2026-11-04/202611040100031390003283",
   "https://www.sportschosun.com/baseball/2026-11-04/202611040100031380003282",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017655",
@@ -2999,16 +2992,16 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=623078",
   "https://www.bntnews.co.kr/article/view/bnt202611050005",
   "https://www.tokenpost.kr/news/ai/432883",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6863277_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6863277_37012.html",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=767444",
+  "https://www.yna.co.kr/view/AKR20261104045400007?input=1195m",
+  "https://www.g-enews.com/view.php?ud=2026110415565646620c8c1c064d_1",
+  "https://www.seoul.co.kr/news/economy/securities/2026/11/05/20261105500004?wlog_tag3=naver",
+  "https://www.aitimes.com/news/articleView.html?idxno=216843",
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2361191",
+  "https://www.news1.kr/world/europe/6343522"
  ],
  "seen_titles": [
-  "OpenAIHighlightsVoiceConversationsinFinancesinChatGPT",
-  "[포토S]최원준,'2루타날렸어요!'",
-  "이닝마친삼성페덱",
-  "한국시리즈등판한페덱",
-  "[포토]'한국시리즈2차전시구와시포'포수출신이만수와조범현",
-  "[포토]페덱'들어갔어'",
-  "AMD\"라이젠AI,RTX스파크대비게이밍성능·전력·가격앞서\"",
   "볼보,엔비디아와손잡고'아이즈·마인드오프'자율주행개발속도",
   "잇단사이버위협속전북공공기관허술한보안어쩌나",
   "'보호인가기본권침해인가'…청소년SNS이용제한본격논의",
@@ -6001,7 +5994,14 @@
   "[오픈AI보안강화]회의실도청장치설치및메신저해킹등보안악재...",
   "삼성,연장12회극적승리…1승1패",
   "팩토리,휴먼레이어인수…기존서비스최소30일유지",
-  "중간선거당일'미사일도발'‥\"선택지엔대화도\""
+  "중간선거당일'미사일도발'‥\"선택지엔대화도\"",
+  "\"AI통번역에일요영업까지\"KB·신한은행외국인고객유치총력전......",
+  "◇내일의경기(6일)",
+  "中바이두,로보택시용AI시뮬레이터'아폴로월드'공개",
+  "[서울데이터랩]미뉴욕증시일제히상승마감…다우3%대급등,반도체...",
+  "구글,AI검색에광고수익성타격…시총5000억달러증발",
+  "SK텔레콤,3분기매출4조4973억원…전년대비13.1%증가",
+  "식료품체인·혈액은행에이어…佛은행,해킹에1억유로털려"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,17 @@
   [
    "2026-11-05T06:12:15.954469+09:00",
    "메신저 도청 회의실 장치 악재 보안 설치"
+  ],
+  [
+   "2026-11-05T06:18:15.889814+09:00",
+   "~SKT 3분기 전년 증가 매출 대비 4조4973억원"
+  ],
+  [
+   "2026-11-05T06:18:15.889814+09:00",
+   "식료품 유로 털려 1억 혈액은행에 해킹에 체인 은행 이어"
   ]
  ],
- "last_run": "2026-11-05T06:16:30.661009+09:00",
+ "last_run": "2026-11-05T06:18:39.785070+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
