@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://econotimes.com/Claude-Haiku-5-5-Matches-GPT-6-Luna-Rates-Below-100-000-Tokens-1768723",
-  "https://www.venturesquare.net/1124937/",
-  "https://econotimes.com/Anthropic-Reports-More-Than-11-900-Customers-Above-100-000-1768711",
-  "https://www.venturesquare.net/1124912/",
-  "https://econotimes.com/OpenAI-and-Anthropic-Plan-Dedicated-Teams-for-U-S-Midterms-1768698",
-  "https://econotimes.com/Altman-Says-People-Must-Retain-Control-as-OpenAI-Expands-UAE-AI-Deals-1768674",
-  "https://econotimes.com/Klein-and-Glazer-Urge-Wealth-Taxes-and-a-Block-on-AI-IPOs-1768672",
-  "https://www.tokenpost.kr/news/breaking/431273",
-  "https://www.nytimes.com/2026/11/02/business/iran-war-gulf-economies.html?partner=naver",
   "https://it.donga.com/109821/",
   "https://www.koreajoongangdaily.com/business/indie-studios-hide-their-demos-as-ai-copycats-circle/12939487",
   "https://econotimes.com/ADNOC-Signs-OpenAI-Frontier-Deal-With-G42-Gulf-News-Reports-1768582",
@@ -2999,18 +2990,18 @@
   "https://www.tokenpost.kr/news/ai/432022",
   "http://www.queen.co.kr/news/articleView.html?idxno=465762",
   "https://www.koreareport.co.kr/news/articleView.html?idxno=54292",
-  "https://www.thepowernews.co.kr/view.php?ud=202611041100303234de3f0aa1be_7"
+  "https://www.thepowernews.co.kr/view.php?ud=202611041100303234de3f0aa1be_7",
+  "https://www.sportsseoul.com/news/read/1646788",
+  "https://www.newspim.com/news/view/20261104000639",
+  "https://www.tgdaily.co.kr/news/articleView.html?idxno=407798",
+  "http://www.incheonin.com/news/articleView.html?idxno=122019",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42582",
+  "https://econotimes.com/Oil-poses-biggest-market-risk-as-AI-trade-grows-more-selective-1770265",
+  "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html?partner=naver",
+  "https://econotimes.com/Heimstaden-cuts-property-image-costs-by-more-than-99-with-AI-1769913",
+  "https://www.yna.co.kr/view/AKR20261104088200017?input=1195m"
  ],
  "seen_titles": [
-  "AbuDhabiAnnouncesFourOpenAIAgreementsAfterSouthKoreaMeetings",
-  "CracksintheA.I.BorrowingBinge",
-  "ClaudeHaiku5.5MatchesGPT-6LunaRatesBelow100,000Tokens",
-  "오라클,마켓플레이스개편…클라우드약정으로AI솔루션구매·공동판...",
-  "AnthropicReportsMoreThan11,900CustomersAbove$100,000",
-  "이파피루스,‘PyMuPDFOffice’로제품명변경…한글·오피스문서AI데...",
-  "OpenAIandAnthropicPlanDedicatedTeamsforU.S.Midterms",
-  "AltmanSaysPeopleMustRetainControlasOpenAIExpandsUAEAIDeals",
-  "KleinandGlazerUrgeWealthTaxesandaBlockonAIIPOs",
   "오픈AI·앤트로픽,미중간선거대비'워룸'나란히설치",
   "GulfEconomies,TornbyWarinIran,DesperatelyNeedaReturntoNormal",
   "[헬스케어픽]인수부터협력까지···오픈AI·오라클·삼성,서로다른...",
@@ -6001,7 +5992,16 @@
   "하임스타덴,AI로자산2만112건환경위험분석",
   "에버스핀\"정상사이트위장악성앱유포증가\"…AI시대통합대응중요",
   "LG유플러스,3분기영업이익2976억원...전년동기比84%증가",
-  "8-0이8-7까지갔다…KT,7점내주고도KS첫판잡았다"
+  "8-0이8-7까지갔다…KT,7점내주고도KS첫판잡았다",
+  "“계속쳐다봤죠”푸른우비에맞서는KT의‘무기’…알록달록‘비트...",
+  "양양군,'인구지구지중사업'내년2월착공...도로·인도정비사업병행",
+  "유니티,11월부산지스타서인디게임과'맞손'",
+  "'2026제약바이오투자대전',19일송도컨벤시아에서열려",
+  "\"AI로아마존산림파괴막는다\"...유네스코·ITU·브라질,글로벌AI기...",
+  "OilposesbiggestmarketriskasAItradegrowsmoreselective",
+  "TechGiantsTrytoStemFlowofElectionDisinfoUnleashedbyA.I.",
+  "Heimstadencutspropertyimagecostsbymorethan99%withAI",
+  "중국연계해킹조직,AI로14개국200여곳공격정황"
  ],
  "recent_sigs": [
   [
@@ -6943,9 +6943,13 @@
   [
    "2026-11-04T11:52:14.906674+09:00",
    "KS 7까지 첫판 0이 갔다 ~KT 잡았다 내주고도 7점"
+  ],
+  [
+   "2026-11-04T11:54:16.090979+09:00",
+   "AI로 14개국 공격 정황 연계 중국 200여곳 해킹조직"
   ]
  ],
- "last_run": "2026-11-04T11:52:39.005800+09:00",
+ "last_run": "2026-11-04T11:54:39.454090+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
