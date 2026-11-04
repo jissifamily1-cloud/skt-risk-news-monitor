@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.donga.com/news/Culture/article/all/20261102/134950204/1",
-  "https://www.etoday.co.kr/news/view/2643115",
-  "https://www.newspim.com/news/view/20261102001404",
-  "https://www.g-enews.com/view.php?ud=202611021456094913923c501012_1",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7191400",
-  "https://www.naeil.com/news/read/607278",
-  "https://view.asiae.co.kr/article/2026110210080719832",
-  "https://www.tokenpost.kr/news/tech/431138",
-  "https://www.fnnews.com/news/202611020953116077",
-  "https://www.edaily.co.kr/News/Read?newsId=02725686645641784&mediaCodeNo=257",
   "https://view.asiae.co.kr/article/2026110210274200302",
   "https://www.donga.com/news/Economy/article/all/20261102/134948261/2",
   "https://www.the-today.com/news/articleView.html?idxno=92858",
@@ -2999,19 +2989,19 @@
   "https://www.dt.co.kr/article/12093114",
   "https://www.cnbnews.com/news/articleView.html?idxno=1022259",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488307",
-  "https://www.m-economynews.com/news/article.html?no=72566"
+  "https://www.m-economynews.com/news/article.html?no=72566",
+  "https://mhnse.com/news/articleView.html?idxno=1672934",
+  "https://www.yna.co.kr/view/AKR20261104106900007?input=1195m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703715",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3742057",
+  "https://www.inthenews.co.kr/news/article.html?no=94013",
+  "https://www.tournews21.com/news/articleView.html?idxno=147496",
+  "https://view.asiae.co.kr/article/2026110316464475439",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=172903",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5040300",
+  "http://coinreaders.com/267404"
  ],
  "seen_titles": [
-  "[이슈플러스]오픈AI,투자유치난항…AI거품론재점화",
-  "앤스로픽,일본투자자에최대35억달러신주매각계획",
-  "AI를만난예술가,새길을찾다…퐁피두센터한화",
-  "美빅테크엔지니어,고객사에전진배치⋯‘FDE’로AI시장선점경쟁",
-  "앤스로픽IPO,日서최대35억달러조달...스페이스X넘어설듯",
-  "삼성증권“커지는AI비용부담…코스피5100선하회할수도”",
-  "\"반도체고점론?3년치일감꽉차\"…삼성·SK하이닉스,합산영업익190兆",
-  "앤스로픽,상장해도‘투기등급’",
-  "AI로광고효율높인메타…구글은챗봇에검색시장잠식위험",
-  "우분투전부원격장악주장은과장…MPTCP에만한정되지않은결함",
   "상장하면꽃길?…앤스로픽,'투기등급'문턱에발목잡히나",
   "美중간선거,정치전문기자들이본'진짜승부처'는어디?",
   "'블랙먼데이'는없었다…美증시급락에도코스피상승",
@@ -6001,7 +5991,17 @@
   "北,美중간선거당일‘미사일도발’…탄도미사일이면나흘만",
   "LG유플러스,3분기영업수익3조9813억·영업이익2976억",
   "모레,AMDGPU추론비용절감기술발표···\"엔비디아와혼합운영가...",
-  "국내마트,냉장고'점포별독립·망분리'...\"해킹우려낮아“"
+  "국내마트,냉장고'점포별독립·망분리'...\"해킹우려낮아“",
+  "KBL,2026신인드래프트순위추첨행사9일개최",
+  "올해가을야구입장수입은100억원…역대최고치는작년157억원",
+  "[영상]또무너진최원태·아픈강민호…삼성의딜레마?",
+  "대전시교육청,딥페이크·스토킹대응등'4대폭력예방교육'실시",
+  "LGAI연구원,‘국제저작권기술컨퍼런스’국가지식재산위원장상수상",
+  "인천경제청,K-콘텐츠·바이오중심미래산업기반확대...투자유치경...",
+  "[기자수첩]정보유출에대한제재가진작강화됐다면",
+  "LG유플러스,3분기호실적발표속...주가도'장중껑충'",
+  "LG유플러스,3분기영업익84%급증…AIDC매출28%↑",
+  "CFTC,주식무기한선물길개방...증거금15.5%로애플·엔비디아베팅"
  ],
  "recent_sigs": [
   [
@@ -6779,9 +6779,13 @@
   [
    "2026-11-04T13:50:25.444312+09:00",
    "사각지대 유출 김형연 막는다 의원 조사 기록 개인정보 삭제"
+  ],
+  [
+   "2026-11-04T13:54:15.797561+09:00",
+   "증거금 무기한 선물 애플 베팅 CFTC 주식 개방"
   ]
  ],
- "last_run": "2026-11-04T13:52:32.681672+09:00",
+ "last_run": "2026-11-04T13:54:33.187067+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
