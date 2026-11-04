@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000341777?division=NAVER",
-  "https://www.betanews.net/article/view/beta202610230005",
-  "http://www.metroseoul.co.kr/article/20261103500574",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3741703",
-  "https://www.youthdaily.co.kr/news/article.html?no=229330",
-  "https://www.siminsori.com/news/articleView.html?idxno=402262",
-  "https://www.widedaily.com/news/articleView.html?idxno=302753",
-  "https://www.tokenpost.kr/news/breaking/431965",
-  "https://www.etoday.co.kr/news/view/2643612",
   "http://www.inews24.com/view/2022370",
   "https://news.mtn.co.kr/article/2026110409371729184",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712417",
@@ -2999,18 +2990,18 @@
   "https://www.nocutnews.co.kr/news/6602276",
   "http://www.popcornnews.net/news/articleView.html?idxno=138766",
   "https://www.segye.com/newsView/20261104517787?OutUrl=naver",
-  "https://www.news2day.co.kr/article/20261104500415"
+  "https://www.news2day.co.kr/article/20261104500415",
+  "https://www.insight.co.kr/news/580530",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017634",
+  "https://www.xportsnews.com/article/2215395",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017632",
+  "http://autotimes.co.kr/detail.php?number=689825&thread=27",
+  "https://www.ekn.kr/web/view.php?key=20261104028045471",
+  "https://www.mt.co.kr/tech/2026/11/04/2026110417594655490",
+  "https://www.aitimes.com/news/articleView.html?idxno=216989",
+  "https://www.newsis.com/view/NISX20261104_0003855186"
  ],
  "seen_titles": [
-  "품귀라더니살수있다?…'아이폰듀오'출시첫날온도차극과극",
-  "\"스페이스X,美기지국확보추진…이동통신진출행보\"",
-  "알뜰폰100명들어올때98명이통3사로…알뜰폰순유입2년새'실종'",
-  "부산문화재단,유아대상역사문화·예술교육운영",
-  "인천경제청,K-콘텐츠·바이오·반도체로미래산업키운다",
-  "현대제철,생성형AI‘Steel-X’가동…임직원이업무용챗봇직접제작",
-  "인천경제청,K-콘텐츠·바이오중심미래산업투자유치확대",
-  "AMD,'AI호황'타고깜짝실적…데이터센터매출두배뛰었다",
-  "오픈AI,댄드리스콜전미육군장관을안보현대화수석고문으로영입",
   "오픈AI,‘밴스측근’前육군장관영입⋯군사AI사업확대",
   "AMD,데이터센터매출97%↑…리사수\"내년매출80%이상성장\"",
   "美반도체주반등에코스피,장초반5700선회복",
@@ -6001,7 +5992,16 @@
   "SKT3분기영업익,전년比11배증가…\"AIDC2029년하반기개소\"",
   "같은AIDC,다른속도…SKT는'수요먼저',LG유플러스는'선제투자'",
   "KT,AI고객보호서비스‘안심365’로통합",
-  "LG유플러스,수익성개선에AI사업성장까지…실적반등본격화(종합)"
+  "LG유플러스,수익성개선에AI사업성장까지…실적반등본격화(종합)",
+  "최태원,한일'1조달러시너지'제안...\"이제함께건널때\"",
+  "[포토S]방망이총든구자욱,'오늘총격전갑시다'",
+  "구자욱‘우승트로피를향해’[포토]",
+  "[포토S]구자욱,'오늘도홈런날린다'",
+  "볼보차,\"엔비디아와자율주행안전기술개발속도낸다\"",
+  "47명CEO임기만료앞둔금융지주...‘보안경영’시험대",
+  "[컨콜]SKT,6G도입시기2030년예상",
+  "오픈AI,AI로하드웨어설계일주일만에완료…실제시제품제작",
+  "KT초대감독조범현,2차전시구나선다…시포는레전드이만수[KS]"
  ],
  "recent_sigs": [
   [
@@ -6867,9 +6867,17 @@
   [
    "2026-11-04T18:08:15.022858+09:00",
    "실적 반등 본격화 LG유플러스 사업 개선에 성장까지 수익성 ~LGU"
+  ],
+  [
+   "2026-11-04T18:10:24.268116+09:00",
+   "시구 나선다 초대 2차전 ~KT 레전드 시포는 이만수 조범현 감독"
+  ],
+  [
+   "2026-11-04T18:10:24.268116+09:00",
+   "완료 제작 일주일 설계 만에 시제품 실제 하드웨어 AI로"
   ]
  ],
- "last_run": "2026-11-04T18:08:34.884082+09:00",
+ "last_run": "2026-11-04T18:10:44.594826+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
