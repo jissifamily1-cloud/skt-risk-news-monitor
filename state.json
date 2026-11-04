@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20109958",
-  "https://www.hankyung.com/article/2026110445337",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001355",
-  "https://www.techm.kr/news/articleView.html?idxno=156744",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081212",
-  "https://www.hankyung.com/article/202611044401g",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=409230",
-  "https://www.ekn.kr/web/view.php?key=20261104025385142",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=667497",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501110",
   "https://www.khgames.co.kr/news/articleView.html?idxno=309970",
   "https://www.ajunews.com/view/20261104091706096",
@@ -2999,18 +2990,18 @@
   "https://news.tf.co.kr/read/economy/2384947.htm",
   "https://www.newspim.com/news/view/20261104001310",
   "https://www.ytn.co.kr/_ln/0102_202611041739442752",
-  "https://www.ajunews.com/view/20261104123921916"
+  "https://www.ajunews.com/view/20261104123921916",
+  "https://www.munhwa.com/article/11628834",
+  "https://www.news1.kr/sports/baseball/6343292",
+  "https://www.tokenpost.kr/news/ai/431529",
+  "https://www.mk.co.kr/article/12196691",
+  "https://www.mk.co.kr/article/12196693",
+  "https://www.bloter.net/news/articleView.html?idxno=677760",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16268352",
+  "https://www.mediapen.com/news/view/1135234",
+  "https://www.koreatimes.com/article/11630289"
  ],
  "seen_titles": [
-  "[통신업계소식]KT,‘안심365’출시⋯“AI기반고객보호서비스통...",
-  "AI가말투·맥락까지분석…KT,‘보이스피싱탐지3.0’출시",
-  "\"냉동고고기다녹았네\"…냉장고해킹에유럽마트비상",
-  "바이낸스,63억4000만달러해킹경로공개…가짜면접·사내AI악용...김...",
-  "통신사,AX레퍼런스·생태계확보'총력'",
-  "SK텔레콤UNGC2027년리드기업위촉",
-  "매출반토막에적자빠진카겜…'1위신작'으로반등노린다",
-  "오픈소스컨설팅,'플레이스큐브'CNCF공식인증",
-  "삼전·하닉급락하루만에반격…코스피·코스닥동반상승[개장시황...",
   "코스피,5820선반등…美AI주강세영향",
   "코스피,장초반3%대급등해5800선회복...삼성전자·SK하이닉스반등",
   "원스토어,'코리아그랜드페스티벌'맞아게임할인이벤트",
@@ -6001,7 +5992,16 @@
   "SKT,글로벌사업자3~4곳과AIDC사업조건협의",
   "글로벌사업자와조건협의중...SKT,울산AIDC2029년가동목표",
   "[기업]KT,AI보이스피싱탐지강화...말투·발화속도분석",
-  "北해커,바이낸스해킹에위장취업·AI도구'악용'"
+  "北해커,바이낸스해킹에위장취업·AI도구'악용'",
+  "삼성선발라인업좌타자7명…박진만감독“고영표높은공대처가관...",
+  "삼성양찹섭,KS데뷔전서4볼넷무실점…\"차라리맞았다면\"[KS2]",
+  "머스크“사람도RAM가질권리”…알트먼발언에반박",
+  "선거졌지만…주식투자는美공화당이이겨",
+  "AMD,데이터센터매출2배껑충",
+  "[단독]최태원회장,SK하이닉스美AI컴퍼니이사회의장으로",
+  "삼성-KT한국시리즈2차전,조범현시구·이만수시포…거미애국가제...",
+  "금감원,'해킹통로'다우오피스사용금융사보안조치당부",
+  "커뮤니티칼리지학자금환급계좌해킹‘비상’"
  ],
  "recent_sigs": [
   [
@@ -6855,9 +6855,17 @@
   [
    "2026-11-04T17:44:14.348319+09:00",
    "해커 취업 위장 도구 악용 바이낸스 해킹에"
+  ],
+  [
+   "2026-11-04T17:46:15.490739+09:00",
+   "컴퍼니 이사회 의장으로 회장 SK하이닉스"
+  ],
+  [
+   "2026-11-04T17:46:15.490739+09:00",
+   "환급계좌 칼리지 학자금 커뮤니티 비상"
   ]
  ],
- "last_run": "2026-11-04T17:44:36.061016+09:00",
+ "last_run": "2026-11-04T17:46:38.784469+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7417,7 +7425,7 @@
   "biotimes.co.kr": "바이오타임즈",
   "ubc.co.kr": "ubc.co.kr",
   "cio.com": "cio.com",
-  "koreatimes.com": "koreatimes.com",
+  "koreatimes.com": "미주한국일보",
   "thegolftimes.co.kr": "골프타임즈",
   "mediagunpo.co.kr": "군포시민신문",
   "robotzine.co.kr": "robotzine.co.kr",
