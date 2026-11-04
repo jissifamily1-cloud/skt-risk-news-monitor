@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2643230",
-  "https://www.edaily.co.kr/News/Read?newsId=02181206645642112&mediaCodeNo=257",
-  "https://www.fnnews.com/news/202611030521460281",
-  "https://view.asiae.co.kr/article/2026110304402228977",
-  "https://www.donga.com/news/Culture/article/all/20261103/134953718/2",
-  "https://www.edaily.co.kr/News/Read?newsId=01508806645642112&mediaCodeNo=257",
-  "https://www.g-enews.com/view.php?ud=2026110220531074899a1f309431_1",
-  "https://www.g-enews.com/view.php?ud=2026110217163241339a1f309431_1",
   "https://www.chosun.com/economy/tech_it/2026/11/03/OTUMTTXURBAD3PBJM2423IQRNE/",
   "https://www.newspim.com/news/view/20261103000003",
   "https://www.donga.com/news/Economy/article/all/20261102/134952567/2",
@@ -2999,17 +2991,17 @@
   "https://news.tf.co.kr/read/life/2384602.htm",
   "https://www.ziksir.com/news/articleView.html?idxno=152012",
   "https://www.thisisgame.com/articles/432018",
-  "https://www.newstree.kr/newsView/ntr202611040007"
+  "https://www.newstree.kr/newsView/ntr202611040007",
+  "https://www.etnews.com/20261104000266",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=205774",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=313059",
+  "https://www.mk.co.kr/article/12196311",
+  "https://www.mt.co.kr/politics/2026/11/04/2026110411195229428",
+  "https://www.busan.com/view/busan/view.php?code=2026110413443232662",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501196",
+  "https://www.newspim.com/news/view/20261104000792"
  ],
  "seen_titles": [
-  "[김윤정의일상혁신]드라마‘육왕’으로본기업과생태계의'줄탁동...",
-  "[기고]AI가배우는경로에도책임이필요하다",
-  "앤스로픽,매출급증ㆍ순손실급감실적공개⋯막대한AI투자약정은부...",
-  "유가급락도못막은AI불안…나스닥1.1%↓[월스트리트in]",
-  "앤스로픽S1수정공시\"수년간8954억달러투자\"",
-  "앤스로픽,수정증권신고서제출…순손실65%축소",
-  "AI손잡은예술가…무한대로펼쳐진미지의길에서다",
-  "앤스로픽,3Q매출추가공개…폭풍성장속비용부담",
   "AI에폭언하면답변도달라질까…앤스로픽연구에논쟁확산",
   "앤스로픽,美IPO서일본투자자에최대35억달러배정추진",
   "“무조건환불받아”AI비서시켰더니…의원에메일폭탄,거짓말까지",
@@ -6001,13 +5993,17 @@
   "공소청,'노태우비자금의혹'전비서실장·경호실장참고인조사",
   "KT,고객보호서비스'안심365'통합개편…AI피싱대응고도화",
   "'니케'PC런처포함,텐센트레벨인피니트서버해킹의혹",
-  "유럽뒤흔든냉장고해킹…우리나라는안전할까?"
+  "유럽뒤흔든냉장고해킹…우리나라는안전할까?",
+  "조선대,'SUMTECH해커톤2026'성료…전국대학생100명참여",
+  "삼성물산,금성백조에'홈닉'도입…21개社로확대[건설·분양오늘]",
+  "현대제철,생성형AI플랫폼'Steel-X'가동…전사AX속도",
+  "중간선거는졌지만,주식은이겼다…美의원님들주식실력담은ETF,올...",
+  "北김여정,바이낸스의혹에또담화…돈줄차단·북미대화변수우려",
+  "SKT·LGU+,3분기영업이익급증…지난해일회성비용기저효과",
+  "챗GPT확산에AI챗봇주들썩…에스피소프트주가폭등랠리",
+  "[AI프리뷰]4일수원KT-삼성KS2차전,투혼의페덱앞세운삼성반격할..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-04T07:46:16.906526+09:00",
-   "입금 관측 바이낸스 주소 연관 SOL 믹서에"
-  ],
   [
    "2026-11-04T07:54:15.806991+09:00",
    "3사 규모 장세에 변동성 1위 배당전략 수익률 돋보인 ~KT 통신"
@@ -6767,9 +6763,17 @@
   [
    "2026-11-04T13:44:16.600308+09:00",
    "우리나라는 냉장고 안전할까 뒤흔든 유럽"
+  ],
+  [
+   "2026-11-04T13:46:17.477835+09:00",
+   "삼성 4일 KS 앞세운 2차전 반격할 수원 투혼의 ~KT 페덱"
+  ],
+  [
+   "2026-11-04T13:46:17.477835+09:00",
+   "주가 폭등랠리 확산에 에스피소프트 챗봇주 챗GPT 들썩"
   ]
  ],
- "last_run": "2026-11-04T13:44:42.787442+09:00",
+ "last_run": "2026-11-04T13:46:37.412141+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
