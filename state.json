@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jasm.co.kr/news/view/324217/?sc=Naver",
-  "https://www.news1.kr/finance/blockchain-fintech/6343600",
-  "http://www.press9.kr/news/articleView.html?idxno=85624",
   "http://www.press9.kr/news/articleView.html?idxno=85621",
   "https://www.ajunews.com/view/20261105084543850",
   "https://www.mt.co.kr/tech/2026/11/05/2026110508461172089",
@@ -2999,12 +2996,12 @@
   "https://biz.sbs.co.kr/article_hub/20000344604?division=NAVER",
   "https://www.seoultimes.news/news/article.html?no=2000101853",
   "http://www.yonhapnewstv.co.kr/news/MYH20261105201320Abg",
-  "https://www.fnnews.com/news/202611052008195859"
+  "https://www.fnnews.com/news/202611052008195859",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6863509_37004.html",
+  "https://www.tokenpost.kr/news/cryptocurrency/433255",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6863510_37004.html"
  ],
  "seen_titles": [
-  "\"그냥맞고나가.아이싱하면돼\"102구자청,'텍사스상남자'는왜놀...",
-  "코스콤,차세대원장시스템에유엔넷타란툴라DB도입",
-  "거액쏟은AI업계의견제에도규제론자들美의회로",
   "몽고DB,조달청나라장터에등록완료",
   "[원자재시황]금·뉴욕증시급등…WTI80달러선",
   "[미중간선거]민주당압승에뉴욕증시급등'다우3%↑'…반도체주는...",
@@ -6001,7 +5998,10 @@
   "최태원\"美선거에증시요동…롤러코스터계속\"",
   "최태원SK회장“AI혁명·미중패권경쟁에한국경제성장방식바꿔...",
   "\"AI해킹,AI로막아야\"…보안위협해법은",
-  "유럽,'냉장고해킹''항공기폭탄'신고잇따라혼란"
+  "유럽,'냉장고해킹''항공기폭탄'신고잇따라혼란",
+  "마트이어혈액원·은행까지‥유럽해킹공포에촉각",
+  "해킹10건뒤BTC5대5…비트와이즈주장",
+  "[단독]\"병원도뚫렸다\"‥랜섬웨어해킹에진료마비"
  ],
  "recent_sigs": [
   [
@@ -6807,9 +6807,17 @@
   [
    "2026-11-05T20:16:17.221375+09:00",
    "유럽 항공기 잇따라 폭탄 신고 냉장고 혼란"
+  ],
+  [
+   "2026-11-05T20:18:14.940174+09:00",
+   "주장 5대5 10건 BTC 비트와이즈"
+  ],
+  [
+   "2026-11-05T20:18:14.940174+09:00",
+   "마비 랜섬웨어 병원도 뚫렸다 해킹에 진료"
   ]
  ],
- "last_run": "2026-11-05T20:16:44.702368+09:00",
+ "last_run": "2026-11-05T20:18:41.762067+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
