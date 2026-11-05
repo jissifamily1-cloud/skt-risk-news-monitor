@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=729776",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900483",
-  "https://www.m-i.kr/news/articleView.html?idxno=2009436",
-  "https://ditoday.com/ai-%ec%9d%b8%ec%9a%a9-%ed%8c%a8%ed%84%b4-%eb%b6%84%ec%84%9d%ed%96%88%eb%8d%94%eb%8b%88%ed%82%a4%ec%9b%8c%eb%93%9c-%ec%9d%bc%ec%b9%98%eb%b3%b4%eb%8b%a4-%ec%a0%95%eb%b3%b4-%eb%b0%80%eb%8f%84/",
-  "https://www.newspim.com/news/view/20261023000131",
-  "https://zdnet.co.kr/view/?no=20261023083158",
-  "https://www.tokenpost.kr/news/ai/426058",
   "https://www.g-enews.com/view.php?ud=20261023014907592720990b2dc5_1",
   "http://www.consumernews.co.kr/news/articleView.html?idxno=766546",
   "https://www.fnnews.com/news/202610221806457709",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261105_0003856732",
   "https://www.edaily.co.kr/News/Read?newsId=06143446645642768&mediaCodeNo=257",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611050152&t=NN",
-  "https://www.econovill.com/news/articleView.html?idxno=756184"
+  "https://www.econovill.com/news/articleView.html?idxno=756184",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1542780",
+  "https://www.the-today.com/news/articleView.html?idxno=93113",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3743407",
+  "https://www.joongangenews.com/news/articleView.html?idxno=561559",
+  "https://www.kado.net/news/articleView.html?idxno=2082911",
+  "https://news.dealsitetv.com/articles/178120",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=886169"
  ],
  "seen_titles": [
-  "PHP2Shell취약점,실제원격명령실행확인...서버침해위험현실화",
-  "[AIMY뉴스]26일중국증시'정책모멘텀과글로벌변수...기대·불확실...",
-  "[네카오의AI에이전트전략]③자체플랫폼에AI가두는네카오…글로벌...",
-  "[김진수GEO칼럼]AI가나를추천한다는것은무엇을의미하는가?",
-  "[AI모델신작]텐센트월드모델부터잭도시의음성AI까지9종",
-  "[AI신곡]세븐틴정한X조슈아·아이브·에이티즈등…10월넷째주신곡",
-  "AI가가장많이인용한언론은매경…3개월연속1위",
   "NNT\"AI인용,키워드반복보다정보밀도가중요\"",
   "기업AI활용확산에보안·규제대응강화…AI검색최적화도주목",
   "NNT,AI인용패턴리포트발간",
@@ -6001,17 +5994,16 @@
   "美선거후폭풍에코스피5380선'털썩'…코스닥도5%급락마감",
   "바이낸스서탈취한8조원대코인,北은어떻게세탁하나",
   "김용태GA협회장\"보험판매전문회사도입필요\"",
-  "\"120만명몰려도끊김없게\"SKT,부산불꽃축제통신품질AI로관리"
+  "\"120만명몰려도끊김없게\"SKT,부산불꽃축제통신품질AI로관리",
+  "[99.9MHz]수원특례시의회도시미래위원회배지환·금가현·김은수의원,...",
+  "EU·美등브뤼셀서우크라재건논의…안전보장협의도이어간다",
+  "권순기경남도교육감,경남초·중체육대회찾아출전학생격려",
+  "[마감시황]코스피5%넘게빠져5300선…양시장사이드카발동",
+  "미국중간선거'블루웨이브'에코스피5.28%내린5383.80마감",
+  "[퇴근길7분뉴스]블루웨이브쇼크·청해부대·카카오·머스크",
+  "삼전닉스,美데이터센터규제가화우려에7∼9%대급락"
  ],
  "recent_sigs": [
-  [
-   "2026-11-05T10:20:22.344529+09:00",
-   "실증 달라 기회 NPU 전력장비에 산업계 국산"
-  ],
-  [
-   "2026-11-05T10:20:22.344529+09:00",
-   "아니냐 보니 5개월 피해당했다 여섯째 임신한 정주리 알고"
-  ],
   [
    "2026-11-05T10:24:24.194256+09:00",
    "8조 채용도 면접관도 CEO도 바이낸스"
@@ -6641,7 +6633,7 @@
    "서울 미래 집결 글로벌 리더 콘텐츠IP 전략 공유 스트리밍 OTT"
   ]
  ],
- "last_run": "2026-11-05T16:18:34.393364+09:00",
+ "last_run": "2026-11-05T16:20:40.721581+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
