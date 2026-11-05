@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261105109300007?input=1195m",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261105010001967",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107757",
-  "https://www.kmib.co.kr/article/20261105500729",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501577",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280571",
   "https://www.cbci.co.kr/news/articleView.html?idxno=623607",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=902032",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1017889",
@@ -2999,15 +2993,15 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172950",
   "https://www.g-enews.com/view.php?ud=2026110607222836192bd56fbc3c_1",
   "https://biz.chosun.com/international/international_general/2026/11/06/VIBKWRJV5ZAUDKFCRFCHTH63O4/",
-  "https://www.yna.co.kr/view/PYH20261105095200017?input=1196m"
+  "https://www.yna.co.kr/view/PYH20261105095200017?input=1196m",
+  "https://biz.sbs.co.kr/article_hub/20000344635?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000344636?division=NAVER",
+  "https://www.chosun.com/economy/int_economy/2026/11/06/NAK2O73FPJF45LWW6KPNGAXPCA/",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261106073332VeL",
+  "https://www.upkoreanews.kr/news/articleView.html?idxno=101039",
+  "https://www.ikbc.co.kr/article/view/kbc202611060010"
  ],
  "seen_titles": [
-  "금융권37개사해킹피해...정보47만건유출·자금10억원탈취",
-  "화이트해커만200명인데…일본IT대기업은왜해킹을막지못했나",
-  "IPTV시청데이터표준화나선다…방미통위,내년민관협의체구성",
-  "스포츠토토,8일올림픽데이런서시민들만난다…투표권무료체험행사...",
-  "대전동구의회의원연구단체,AI활용'위기가구발굴·맞춤지원'모색",
-  "송파접경복정1지구핵심입지…‘에르노플레이스위례’11월본격...",
   "웨이브,비회원도로그인없이본다…'오픈프리뷰'도입",
   "[AI는지금]\"경쟁사AI도돈된다\"…코히어,딥시크·오픈AI품은속내는",
   "대구시공공배달앱'대구로'해킹,계좌번호2만5000여개노출",
@@ -6001,7 +5995,13 @@
   "뉴욕증시다우지수'추락'...'30개종목전멸',엔비디아·은행주'비명'",
   "아우모비오,3분기실적선방속향후몇년간글로벌자동차생산둔화...",
   "뉴욕증시,AI규제·투자둔화우려에급락마감",
-  "인사말하는류신환방미통위위원"
+  "인사말하는류신환방미통위위원",
+  "[마켓브리핑]'블루쓰나미'뉴욕증시폭락…AI관련주중심매도세",
+  "[마켓프리뷰]'블루쓰나미'데이터센터건설우려…반도체관련주폭락",
+  "‘선거안도랠리’하루만에끝났다…AI투자급브레이크공포에나스...",
+  "뉴욕증시,기술주투매에급락…나스닥5.5%↓",
+  "[오늘증시전망]코스피5%대급락후또다시시험대…미국기술주폭...",
+  "\"엔비디아9%·AMD17%폭락\"…AI규제공포에나스닥'와르르'"
  ],
  "recent_sigs": [
   [
@@ -6341,7 +6341,7 @@
    "추락 전멸 은행주 30개종목 비명 다우지수 뉴욕증시"
   ]
  ],
- "last_run": "2026-11-06T07:34:33.506836+09:00",
+ "last_run": "2026-11-06T07:36:31.997979+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
