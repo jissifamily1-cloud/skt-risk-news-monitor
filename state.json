@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://econotimes.com/Oil-poses-biggest-market-risk-as-AI-trade-grows-more-selective-1770265",
-  "https://zdnet.co.kr/view/?no=20261104202822",
-  "https://www.xportsnews.com/article/2215580",
-  "https://www.xportsnews.com/article/2215579",
-  "https://www.mk.co.kr/article/12196870",
-  "https://www.news1.kr/photos/8197640",
-  "https://www.news1.kr/photos/8197639",
-  "https://www.news1.kr/photos/8197642",
-  "https://www.news1.kr/photos/8197641",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1542674",
-  "http://enews.imbc.com/News/RetrieveNewsInfo/523465",
-  "https://www.joongang.co.kr/article/25475645",
   "http://www.osen.co.kr/article/G1112904283",
   "https://www.sportsseoul.com/news/read/1647051",
   "http://www.osen.co.kr/article/G1112904284",
@@ -2999,21 +2987,21 @@
   "https://www.newsis.com/view/NISX20261105_0003855598",
   "https://www.seoultimes.news/news/article.html?no=2000101810",
   "https://www.m-economynews.com/news/article.html?no=72608",
-  "https://www.peoplewatch.co.kr/article/view/ppw202611050001"
+  "https://www.peoplewatch.co.kr/article/view/ppw202611050001",
+  "https://www.mydaily.co.kr/page/view/2026110500323820731",
+  "https://www.widedaily.com/news/articleView.html?idxno=302890",
+  "https://magazine.hankyung.com/business/article/202611057447b",
+  "https://zdnet.co.kr/view/?no=20261105093513",
+  "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63075",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712807",
+  "https://www.thepowernews.co.kr/view.php?ud=202611050937245992de3f0aa1be_7",
+  "http://www.datanews.co.kr/news/article.html?no=147380",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712816",
+  "https://www.kado.net/news/articleView.html?idxno=2082835",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572883611681",
+  "https://www.ziksir.com/news/articleView.html?idxno=152133"
  ],
  "seen_titles": [
-  "김현수,2루타",
-  "OilposesbiggestmarketriskasAItradegrowsmoreselective",
-  "체이널리시스,'바이낸스해킹'북한허위면접수법분석",
-  "페덱'최일언코치에귀기울이며'[포토]",
-  "디아즈'1루로토스'[포토]",
-  "1루에서쓰러진류현인[MK포토]",
-  "페덱,6이닝1실점퀄리티스타트피칭",
-  "헛스윙삼진당하는안현민",
-  "고영표와명품투수전펼치는페덱",
-  "김현수'추격을향해'",
-  "북한,'가짜면접'으로악성코드…김여정은부정",
-  "\"고사위기'K-드라마'에1조원규모투자해달라\"",
   "‘이수만걸그룹’A2O라이트,음방4관왕오른비결은?",
   "[사진]박진만,'체력이딸리네'",
   "[포토]KT‘V2가자’",
@@ -6001,7 +5989,19 @@
   "'가을남자'KT소형준vs'POMVP'삼성후라도,3차전선발격돌[KS]",
   "KT,AI로고속철도통신끊김29%줄여…기업AX지원포털도개설",
   "금융권한달새37개사해킹피해...47만건정보유출·10억원탈취",
-  "[AI해킹비상]⑧37곳뚫리고10억원탈취까지…책임질CEO누굴까'촉각..."
+  "[AI해킹비상]⑧37곳뚫리고10억원탈취까지…책임질CEO누굴까'촉각...",
+  "열흘간3G17이닝295구,삼성이런상남자어떻게데려왔나…\"5714K투수...",
+  "씨앤엠-오픈패스로보틱스손잡았다…로봇심장'액추에이터'장기공급",
+  "더에잇이엔티,'2026틱톡라이브EU프리미엄에이전시라운드테이블'...",
+  "S2W,유럽'it-sa엑스포'서AI솔루션소개",
+  "“공기역할효율81%향상”..에이드로,AI기반플랫폼‘AOX’출시",
+  "바이낸스해커,훔친솔라나쪼개비트코인대량매수…자금이동계속",
+  "금융사37곳서47만건정보유출…10억원탈취에580개사전수점검",
+  "KT,기업맞춤형AI전환지원하는‘AX비즈포털’개설",
+  "샘알트먼,PC메모리논란에해명…\"난램알트먼,램더많이만들자\"",
+  "[속보]금융권한달새47만3000건정보유출…37개사해킹피해·10억원...",
+  "금융위,580개금융사보안체계전면개편…해킹사고경영진책임강화",
+  "이억원금융위원장\"해킹사고경영관리실패\"…금융사580곳보안전수..."
  ],
  "recent_sigs": [
   [
@@ -6575,9 +6575,17 @@
   [
    "2026-11-05T09:40:22.484554+09:00",
    "촉각 CEO 10억원 뚫리고 37곳 책임질 탈취까지 누굴까"
+  ],
+  [
+   "2026-11-05T09:42:14.597745+09:00",
+   "해명 PC 만들자 메모리 논란에 많이"
+  ],
+  [
+   "2026-11-05T09:42:14.597745+09:00",
+   "금융사 이억원 경영관리 580곳 보안 금융위원장 실패 전수 사고"
   ]
  ],
- "last_run": "2026-11-05T09:40:48.748222+09:00",
+ "last_run": "2026-11-05T09:42:38.699115+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
