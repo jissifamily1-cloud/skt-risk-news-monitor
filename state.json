@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/20261104502464",
-  "https://www.sisaweek.com/news/articleView.html?idxno=238790",
-  "https://www.mt.co.kr/tech/2026/11/04/2026110417594655490",
-  "https://www.nocutnews.co.kr/news/6602276",
-  "http://www.popcornnews.net/news/articleView.html?idxno=138766",
-  "https://www.kukinews.com/article/view/kuk202611040227",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261104010001642",
-  "https://www.sentv.co.kr/article/view/sentv202611040245",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712703",
-  "https://www.mt.co.kr/tech/2026/11/04/2026110417371844973",
-  "https://www.sentv.co.kr/article/view/sentv202611040149",
   "http://www.inews24.com/view/2022719",
   "https://dealsite.co.kr/articles/172079",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730483",
@@ -2999,20 +2988,20 @@
   "https://www.dt.co.kr/article/12093471",
   "https://imnews.imbc.com/replay/2026/nw1700/article/6863459_36981.html",
   "https://www.mt.co.kr/stock/2026/11/05/2026110516172255884",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443292"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443292",
+  "https://www.tfmedia.co.kr/news/article.html?no=208641",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3743468",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=424817",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41460",
+  "https://www.g-enews.com/view.php?ud=202611031140098515906806b77b_1",
+  "https://www.chosun.com/economy/tech_it/2026/11/05/FTXO25K2GBAYVM4WKS3BMDCEFQ/",
+  "https://www.kyosu.net/news/articleView.html?idxno=212118",
+  "http://www.metroseoul.co.kr/article/20261105500509",
+  "https://www.hankyung.com/article/202611058941H",
+  "https://www.fnnews.com/news/202611051647452609",
+  "https://www.etoday.co.kr/news/view/2644759"
  ],
  "seen_titles": [
-  "[횡설수설/장원재]고졸-대졸초임같게한日대기업있다",
-  "엔비디아,중국발102조원GPU주문에도공급난심화…AI반도체생산능...",
-  "\"중국AI기업들,엔비디아칩600만개중1%만공급받을듯\"",
-  "로봇이배울'세상'만든다…엔비디아눈길사로잡은韓3D기업",
-  "[GAM]아리스타네트웍스①2014년상장이후최고매출성장률기록",
-  "바이낸스,해킹피해자산약98%보충…출금은아직전면재개안돼",
-  "정주리,여섯째임신으로유튜브중단?\"SM사칭으로해킹당해\"[셀럽캡...",
-  "프랑스서혈액은행냉장고해킹…슈퍼마켓이어표적확산",
-  "SNS규제'입법난항'…연령제한·플랫폼기업책임놓고이견[청소년...",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(11월5일목요일)",
-  "“개인정보보호”칼잡은여권…“한방에궤멸”벌벌떠는기업",
   "한국지능정보사회진흥원(NIA),AI3대강국도약위한해저케이블육양...",
   "[브랜드평판]삼성이재용,CEO11월1위...현대자동차정의선,한화김...",
   "소부장협력넘어인재확보까지…삼전·닉스,日서R&D역량키운다",
@@ -6001,7 +5990,18 @@
   "‘블루쓰나미’국장도흔든다…업종별희비교차",
   "미중간선거여파에‥코스피·코스닥5%대급락",
   "막내린美중간선거에비트코인화색…정책일정은'글쎄'",
-  "미래에셋,디지털엑스새대표에노용우선임…에너지인프라에우신제"
+  "미래에셋,디지털엑스새대표에노용우선임…에너지인프라에우신제",
+  "스페이스X,스타링크이동통신사업본격화…퀄컴과5G망구축",
+  "부여군,수소충전소로친환경미래도시초석다진다...60억투입부여...",
+  "카카오모빌리티,로봇보안표준마련착수···\"국가공인보안기구와...",
+  "지스타2026로출격K-게임사···신작시연부터개발노하우·생성형AI...",
+  "[김대호인물]오픈AI올트먼\"만능키보드\"",
+  "올트먼“메모리부족…PC에D램두는건끔찍”…머스크“개인도자...",
+  "인제대김민재교수,세계최대스마트시티박람회2년연속평가위원...",
+  "D램3분기매출1년새5배성장…삼성전자1위수성,SK하이닉스추격",
+  "최태원,SK주식165만3924주매각…노소영재산분할금마련",
+  "최태원\"우리옵션은일본,美·中이손잡고전세계요리할수있다\"",
+  "코인거래소프라뱅,해킹으로1억원피해이어회원7명개인정보유출"
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,21 @@
   [
    "2026-11-05T17:02:15.204874+09:00",
    "온도 냉동설비 3곳 혈액 프랑스 제상 조작 설정 보관시설"
+  ],
+  [
+   "2026-11-05T17:06:15.237725+09:00",
+   "전세계 우리 요리할 일본 옵션은 있다 손잡고"
+  ],
+  [
+   "2026-11-05T17:06:15.237725+09:00",
+   "주식 매각 SK 165만3924주 재산분할금 마련"
+  ],
+  [
+   "2026-11-05T17:06:15.237725+09:00",
+   "1억원 코인거래소 유출 회원 7명 프라뱅 이어 해킹으로 개인정보 피해"
   ]
  ],
- "last_run": "2026-11-05T17:04:35.139421+09:00",
+ "last_run": "2026-11-05T17:06:39.462293+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
