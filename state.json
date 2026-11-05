@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wsobi.com/news/articleView.html?idxno=320775",
-  "http://www.metroseoul.co.kr/article/20261102500011",
-  "https://slownews.kr/168855",
-  "https://www.greened.kr/news/articleView.html?idxno=353574",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=878537",
-  "https://biz.sbs.co.kr/article_hub/20000343498?division=NAVER",
   "https://www.segye.com/newsView/20261101511219?OutUrl=naver",
   "https://www.sedaily.com/article/20108780",
   "https://news.bizwatch.co.kr/article/industry/2026/11/01/0001",
@@ -2999,15 +2993,15 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3743260",
   "https://www.nocutnews.co.kr/news/6602671",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318839",
-  "https://www.sedaily.com/article/20110674"
+  "https://www.sedaily.com/article/20110674",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3743280",
+  "https://www.news1.kr/finance/general-stock/6344316",
+  "https://www.smartbizn.com/news/articleView.html?idxno=158555",
+  "http://www.newsdream.kr/news/articleView.html?idxno=121577",
+  "https://www.aitimes.com/news/articleView.html?idxno=217053",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/05/2026110500220.html"
  ],
  "seen_titles": [
-  "\"삼전닉스걱정은잊어\"이재용·최태원완벽한칼군무에'시선집중'",
-  "삼성,올트먼초청사장단간담회…내년2월까지전임직원AI교육",
-  "삼성-삼성전자,샘올트먼OpenAICEO초청간담회개최...AI가전크리에...",
-  "메트로신문11월2일자한줄뉴스",
-  "“이재명은외롭다”,폭주하는X는대통령이고립돼있다는증거:슬로...",
-  "이재용삼성전자회장,일본현지반도체패키징연구거점방문...최태원...",
   "이재용의광폭행보…AI·반도체로삼성미래판다시짠다",
   "'주가좀올리세요'…오늘부터이마트·현대제철등에저PBR'꼬리표'",
   "메모리대란에도꼿꼿한애플…빅테크CEO줄방한속'나홀로패싱'[반...",
@@ -6001,7 +5995,13 @@
   "경남벤처해외진출길연다…창원대·벤처협회국제개발협력협약",
   "美데이터센터규제확산…AI인프라투자불확실성커져",
   "美AI데이터센터규제우려확산…국내반도체주동반급락",
-  "프랑스지방은행해킹에1500억털려…코인으로자금세탁"
+  "프랑스지방은행해킹에1500억털려…코인으로자금세탁",
+  "충남대병원\"먹는약,제대로알고복용해야\"…시민건강강좌열어",
+  "코스닥도매도사이드카발동…장중지수5%급락(상보)",
+  "홈3연전주도권쥔삼성,KS우승확률89%3차전승리거머쥘까…kt소...",
+  "아웃백,KT멤버십고객대상'달.달.혜택'프로모션진행",
+  "알트먼,RAM발언역풍에'램알트먼'으로이름까지바꿔",
+  "유럽마트냉장고이어프랑스혈액원도해킹…의료공급망도비상"
  ],
  "recent_sigs": [
   [
@@ -6687,9 +6687,13 @@
   [
    "2026-11-05T14:38:13.070269+09:00",
    "금융권 37곳 총점검 보안 5주 580여곳 나선다"
+  ],
+  [
+   "2026-11-05T14:42:16.713761+09:00",
+   "이름까지 RAM 발언 바꿔 역풍에"
   ]
  ],
- "last_run": "2026-11-05T14:40:40.981427+09:00",
+ "last_run": "2026-11-05T14:42:41.240593+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
