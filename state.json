@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kbsm.net/news/view.php?idx=540606",
-  "https://www.sportschosun.com/baseball/2026-11-05/202611050100038480003824",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3743323",
-  "https://www.livebiz.today/news/articleView.html?idxno=206246",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880245",
-  "https://www.hani.co.kr/arti/international/china/1285931.html",
-  "https://www.topdaily.kr/articles/112727",
-  "https://www.namdonews.com/news/articleView.html?idxno=928298",
   "https://www.m-i.kr/news/articleView.html?idxno=2014999",
   "https://kbench.com/?q=node%2F283092",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229219",
@@ -2999,16 +2991,17 @@
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54663",
   "https://www.sentv.co.kr/article/view/sentv202611060011",
   "https://www.fnnews.com/news/202611060750128124",
-  "https://www.ddaily.co.kr/page/view/2026110608462997431"
+  "https://www.ddaily.co.kr/page/view/2026110608462997431",
+  "https://www.hankyung.com/article/202611069898i",
+  "https://www.yna.co.kr/view/AKR20261106030900009?input=1195m",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=623408",
+  "https://www.dailynk.com/20261106-1",
+  "https://www.dailian.co.kr/news/view/1711554/?sc=Naver",
+  "https://www.yna.co.kr/view/PYH20261106013300013?input=1196m",
+  "https://www.econovill.com/news/articleView.html?idxno=756263",
+  "https://www.yna.co.kr/view/PYH20261106013600013?input=1196m"
  ],
  "seen_titles": [
-  "美'블루쓰나미'에국내증시지도바뀌나…파랗게질린반도체주",
-  "금융권37곳서47만건유출…금융위,580개사전수점검착수",
-  "\"AI발해킹대중화시대도래···중견기업3중폐쇄망도입시급\"",
-  "‘3차전이기면88.9%’kt·삼성,홈런공장대구서KS3차전...힐리어드...",
-  "부상에체력이슈에도헌신…삼성베테랑강민호·구자욱의투혼[KS]",
-  "[IS피플]박승규한테왜그래?...박해민못지않은'복덩이'크·중·샘",
-  "틸론,3세대VDI전략발표…\"클라우드서비스로영토확장\"",
   "SK텔레콤,120만명몰리는부산불꽃축제통신망사수…AI·현장인력100...",
   "경찰,‘동덕여대칼부림·KT폭파협박'등4건에손해배상청구",
   "KT·삼성전자,고속철도통신품질AI로높인다…무선망최적화실증",
@@ -6001,7 +5994,14 @@
   "\"우리는빼주세요\"애플·보잉도거절한월가의블록체인야심",
   "뉴욕증시,AI규제우려에3대지수폭락…나스닥5.52%↓",
   "오픈AI,해킹예방하는AI'GPT-6사이버'공개[글로벌AI브리핑]",
-  "\"中정보원과유착의혹밝혀라\"…美의회,젠슨황엔비디아CEO출석압..."
+  "\"中정보원과유착의혹밝혀라\"…美의회,젠슨황엔비디아CEO출석압...",
+  "SK바이오팜,신약개발특화AI모델구축…714만건데이터로성능검증",
+  "나스닥하루2.5조달러증발…사상최대낙폭",
+  "뉴욕증시,중간선거후급락…기술주·반도체주동반하락",
+  "김여정은부인했지만정찰정보총국간부는\"우리쪽사업맞다”",
+  "장동현SK부회장,경영일선서물러나…SK에코플랜트대표사임",
+  "KT,부산불꽃축제특별소통대책가동",
+  "오픈AI보안특화GPT-6사이버공개\"파이어폭스취약점81건찾았다\""
  ],
  "recent_sigs": [
   [
@@ -6439,9 +6439,13 @@
   [
    "2026-11-06T08:48:15.502001+09:00",
    "출석 의회 의혹 밝혀라 CEO 젠슨 유착 정보원과"
+  ],
+  [
+   "2026-11-06T08:50:29.428784+09:00",
+   "특별 가동 소통 대책 ~KT 부산불꽃축제"
   ]
  ],
- "last_run": "2026-11-06T08:48:40.544473+09:00",
+ "last_run": "2026-11-06T08:50:47.730474+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
