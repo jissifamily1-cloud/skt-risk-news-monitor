@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261105093200017?input=1195m",
-  "https://imnews.imbc.com/replay/2026/nw1200/article/6863389_36967.html",
-  "http://www.kjdaily.com/article.php?aid=1793849622691353276",
-  "https://www.wikitree.co.kr/articles/1172087",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261105010002022",
-  "https://www.jemin.com/news/articleView.html?idxno=846231",
   "https://www.tournews21.com/news/articleView.html?idxno=147610",
   "http://www.osen.co.kr/article/G1112904577",
   "https://www.joongang.co.kr/article/25476005",
@@ -2999,15 +2993,15 @@
   "https://www.sedaily.com/article/20110949",
   "https://www.kmib.co.kr/article/20261106500021",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060004&t=NN",
-  "https://www.jemin.com/news/articleView.html?idxno=846320"
+  "https://www.jemin.com/news/articleView.html?idxno=846320",
+  "https://www.g-enews.com/view.php?ud=202611060622033790e250e8e188_1",
+  "https://www.news1.kr/world/international-economy/6344942",
+  "https://www.tokenpost.kr/news/ai/433620",
+  "https://news.jtbc.co.kr/article/NB12326739?influxDiv=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008833206&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/it-science/cc-newmedia/6344430"
  ],
  "seen_titles": [
-  "'1승1패명승부'KS3차전,누가승기잡나...'토종10승'소형준vs'POM...",
-  "부산교육청,전국최초'스쿨AI리빙랩부트캠프'운영…\"교사현장문...",
-  "대구로해킹에점주계좌번호2만5000여개노출…통보는나흘뒤",
-  "[그게뭔가요]피지컬AI산업의핵심이라는‘월드모델’",
-  "유권자들이거부한AI,앞으로면밀한검증[美중간선거]",
-  "유럽여객기7대에폭탄테러신고…범행동기·배후오리무중",
   "금융권37곳뚫리고정보47만건유출…금융위원장\"CEO책임묻겠다\"",
   "SKT,부산불꽃축제통신망AI로관리…속도보다'끊김없는품질'에집중",
   "“한달새47만건털렸다”…금융권580곳보안전수점검",
@@ -6001,7 +5995,13 @@
   "“트레이더전화통에불나”나스닥5%폭락,조정국면진입[데일리국제...",
   "[속보]뉴욕증시급락‘악몽’…필라델피아반도체12%대하락",
   "\"60분뒤폭발한다\"...유럽여객기수십편회항·비상착륙'소동'",
-  "엔비디아H20060만개홍콩서발묶여…중국의수입장벽에AI반도체공..."
+  "엔비디아H20060만개홍콩서발묶여…중국의수입장벽에AI반도체공...",
+  "[뉴욕증시]'블루쓰나미'덮친반도체와르르…나스닥5.52%대폭락",
+  "美필라델피아반도체지수12.25%폭락…AI규제공포에투매",
+  "TPUv7FP8효율,GB300의1.85배…FP4선뒤져",
+  "뉴욕증시급락'악몽'…나스닥-5.5%,필라델피아반도체-12.25%",
+  "유럽여객기또폭탄위협…비상착륙·회항'대란'",
+  "아직쓰는3G폰“여기까지가끝인가보오”…SKT·KT종료수순"
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,13 @@
   [
    "2026-11-06T06:28:15.066529+09:00",
    "중국의 H200 60만 수입 홍콩서 장벽에 반도체 묶여"
+  ],
+  [
+   "2026-11-06T06:30:31.558557+09:00",
+   "3G폰 ~KT 보오 종료 여기까지가 아직 끝인가 쓰는 수순 ~SKT"
   ]
  ],
- "last_run": "2026-11-06T06:28:35.726678+09:00",
+ "last_run": "2026-11-06T06:30:49.829413+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
