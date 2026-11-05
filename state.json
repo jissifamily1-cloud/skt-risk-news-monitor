@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koit.co.kr/news/articleView.html?idxno=209731",
-  "https://www.m-i.kr/news/articleView.html?idxno=2012670",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=450782",
-  "https://www.ajunews.com/view/20261030125628448",
-  "https://www.edaily.co.kr/News/Read?newsId=04414886645618168&mediaCodeNo=257",
-  "https://www.etnews.com/20261030000097",
-  "http://www.inews24.com/view/2020747",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=878055",
-  "https://www.news1.kr/it-science/cc-newmedia/6337375",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711220",
-  "https://www.yna.co.kr/view/AKR20261030043300017?input=1195m",
   "https://zdnet.co.kr/view/?no=20261030104551",
   "https://www.newsis.com/view/NISX20261030_0003848489",
   "https://www.mt.co.kr/tech/2026/10/30/2026103009060078414",
@@ -2999,20 +2988,20 @@
   "https://www.socialvalue.kr/news/view/1065580500955805",
   "https://www.tokenpost.kr/news/ai/433028",
   "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1782993",
-  "https://www.hankookilbo.com/news/article/A2026110510300003205?did=NA"
+  "https://www.hankookilbo.com/news/article/A2026110510300003205?did=NA",
+  "https://biz.heraldcorp.com/article/10926978",
+  "http://www.osen.co.kr/article/G1112904688",
+  "https://isplus.com/article/view/isp202611050075",
+  "https://www.kmib.co.kr/article/20261105500431",
+  "https://www.smartbizn.com/news/articleView.html?idxno=158522",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000079929",
+  "https://www.tokenpost.kr/news/policy/433032",
+  "https://lawtalknews.co.kr/article/LFJSQEDHVCCD",
+  "https://biz.heraldcorp.com/article/10926980",
+  "https://biz.heraldcorp.com/article/10926977",
+  "https://biz.heraldcorp.com/article/10926979"
  ],
  "seen_titles": [
-  "LS마린솔루션,글로벌해저통신망사업가속…구축·유지보수강화",
-  "SK브로드밴드,LS마린솔루션과‘해저케이블안정운용’업무협약",
-  "민관합동방송통신복합재난대응훈련시행",
-  "과기정통부,통신4사와'통신재난'복구합동훈련",
-  "최태원SK그룹AI·반도체핵심계열사사장모두'유임',에너지·화학...",
-  "과기정통부,통신재난대응체계점검…이용자보호총력",
-  "드론공격에통신망마비되면…KT등통신4사,재난대응훈련",
-  "과기정통부,통신재난대응훈련…신속복구·보호체계점검",
-  "배경훈부총리\"재난에도통신서비스유지·신속복구중요\"",
-  "드론공격에통신망마비된다면?…'복합재난대응훈련'진행",
-  "\"드론공격에통신망마비된다면\"…정부·통신4사,재난대응훈련",
   "과기정통부,통신재난대비안전훈련…재난로밍·와이파이점검",
   "드론공격에통신마비된다면…범정부'통신재난'대응훈련",
   "정부·통신4사,드론공격에따른통신망마비대응훈련",
@@ -6001,7 +5990,18 @@
   "KT,기업AX도입돕는'비즈포털'오픈…전략수립부터솔루션추천까...",
   "캣우,클로드코드떠나오픈AI핵심제품관리맡는다",
   "니케PC런처해킹공식사과\"점검및보안조치해달라\"",
-  "금융권한달새37개사해킹…정보47만건털리고10억원탈취"
+  "금융권한달새37개사해킹…정보47만건털리고10억원탈취",
+  "‘U+일상비일상의틈’체류시간2배껑충",
+  "[토토투데이]스포츠토토,8일‘올림픽데이런2026’서현장프로모션...",
+  "스포츠토토,올림픽데이런서시민들만난다…8일투표권무료체험행사...",
+  "여론조사응답률50%치솟더니…‘선거구민행세’167명송치",
+  "웨이브,'오픈프리뷰'도입···비회원도콘텐츠미리본다",
+  "美'블루웨이브'에멈칫한AI데이터센터…반도체·소부장폭락에韓증...",
+  "금융권37곳침해사고40건…정보47만3000건유출",
+  "기밀명단을백신사이트에통째로업로드…대통령전용기탑승자명단...",
+  "KT,AI로고속철통신끊김29%줄인다",
+  "CCIA<미국컴퓨터산업협회>“공정위과징금,美기업韓기업보다5.1배많...",
+  "SK텔레콤,부산불꽃축제‘체감품질’올린다"
  ],
  "recent_sigs": [
   [
@@ -6819,9 +6819,13 @@
   [
    "2026-11-05T11:36:17.037452+09:00",
    "서비스 반환 디지털 이끄는 최고정책 세계 시대 지우개 착오송금"
+  ],
+  [
+   "2026-11-05T11:40:22.945995+09:00",
+   "부산불꽃축제 체감품질 ~SKT 올린다"
   ]
  ],
- "last_run": "2026-11-05T11:38:30.925145+09:00",
+ "last_run": "2026-11-05T11:40:44.758818+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
