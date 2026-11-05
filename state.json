@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=304255",
-  "https://www.smartbizn.com/news/articleView.html?idxno=158493",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318825",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229098",
   "https://www.ccdailynews.com/news/articleView.html?idxno=2449818",
   "https://www.newsis.com/view/NISX20261105_0003855518",
   "https://www.news1.kr/finance/market-exr/6343574",
@@ -2999,13 +2995,13 @@
   "https://www.thelec.kr/news/articleView.html?idxno=64967",
   "https://www.sportsseoul.com/news/read/1647385",
   "https://www.dt.co.kr/article/12093525",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35344"
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35344",
+  "https://www.nytimes.com/2026/11/05/technology/dario-amodei-anthropic-ai.html?partner=naver",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229295",
+  "https://news.tf.co.kr/read/economy/2385522.htm",
+  "https://www.newspim.com/news/view/20261105001445"
  ],
  "seen_titles": [
-  "[모닝리포트]\"LGU+,AI데이터센터성장본격화…목표가2만1000원유지...",
-  "주식커뮤니티관리강화에도...토스증권,AI검수공정성'시험대'",
-  "[국제금융브리핑]미국민주당상하원압승...S&P5001.58%상승·국채금...",
-  "[뉴욕증시]중간선거불확실성걷히자다우3%급등…데이터센터규제...",
   "[속보]선거불확실성턴美증시급등했지만…삼성전자프리장'하락...",
   "미데이터센터·반도체주↓…하이퍼스케일러↑(종합)",
   "[은행연합회새리더십]3연임문턱높인다는데…은행연합회장하마평...",
@@ -6001,7 +5997,11 @@
   "아이씨티케이-부경대,프로그래머블양자암호엔진만든다",
   "‘아직은촘촘한순위’KBL,초반이라고‘긴장늦출수없다’…아차...",
   "최태원,SK주식9440억원어치매각…노소영재산분할액규모",
-  "AI시대대학의'숙제'…최태원\"내인생의끝이라고생각하지말라\""
+  "AI시대대학의'숙제'…최태원\"내인생의끝이라고생각하지말라\"",
+  "TheMakingofDarioAmodei",
+  "금융위\"보안관리부실,CEO책임묻겠다\"…580여곳전수점검",
+  "장동현SK부회장,SK에코플랜트대표직서물러나",
+  "우상호\"원주KTAI데이터센터유치협의…우주항공·방산거점육성\""
  ],
  "recent_sigs": [
   [
@@ -6845,7 +6845,7 @@
    "대학의 말라 시대 인생의 끝이라고 숙제 생각하지"
   ]
  ],
- "last_run": "2026-11-05T19:02:40.532538+09:00",
+ "last_run": "2026-11-05T19:04:36.775171+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
