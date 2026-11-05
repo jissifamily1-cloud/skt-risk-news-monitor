@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.bizwnews.com/news/articleView.html?idxno=151048",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3743269",
-  "https://www.etoday.co.kr/news/view/2644654",
-  "https://www.kpanews.co.kr/news/articleView.html?idxno=548246",
-  "https://m.skyedaily.com/news_view.html?ID=314140",
-  "https://www.ajunews.com/view/20261105142141984",
-  "https://www.hankyung.com/article/202611058384i",
   "https://news.ifm.kr/news/articleView.html?idxno=483569",
   "https://www.newspim.com/news/view/20261105000925",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601814",
@@ -2999,16 +2992,16 @@
   "https://www.hani.co.kr/arti/international/america/1286054.html",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=146739",
   "https://www.sidae.com/article/2026110608063925103",
-  "https://www.jemin.com/news/articleView.html?idxno=846322"
+  "https://www.jemin.com/news/articleView.html?idxno=846322",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16269553",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443358",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443357",
+  "https://www.ytn.co.kr/_ln/0104_202611060811110509",
+  "https://www.yna.co.kr/view/AKR20261106010053072?input=1195m",
+  "https://www.econovill.com/news/articleView.html?idxno=756251",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000558664"
  ],
  "seen_titles": [
-  "금융당국,580개금융사보안전수점검…공동해킹관제시스템고도화",
-  "[텔코NOW]SKTㆍKTㆍLGU+",
-  "[단독]‘인도·아프리카·유럽’손잡은글로벌통신사령탑…중국입...",
-  "타불라“광고예산늘어도81%는기존고객반복타깃팅”",
-  "대구공공배달앱'대구로'해킹파문…법인계좌서도돈빠져나가",
-  "홍범식LG유플러스대표“AI많이쓰는게능사아냐”…적재적소활용...",
-  "소프트뱅크,MWC27첫단독부스…\"통신사아닌AI플랫폼사업자\"",
   "투스텝스어헤드,AI검색데이터기반해외마케팅지원",
   "김제시,열여섯번째'평생학습한마당'오는6일개최",
   "유휴GPU·NPU공유클라우드'AICON'베타오픈한시그마,12월공식출...",
@@ -6001,7 +5994,14 @@
   "나스닥5.5%폭락…AI투자우려에시총2조5천억달러증발",
   "미반도체10%대동반폭락,삼전닉스'프리마켓12~13%↓...삼전18만원...",
   "AI규제우려덮친뉴욕증시,나스닥5.5%·SOX12.25%하락",
-  "브로드컴,앤스로픽에91조원규모AI인프라금융지원…반도체공급..."
+  "브로드컴,앤스로픽에91조원규모AI인프라금융지원…반도체공급...",
+  "'크레이지트레인'과함께가을마운드오른삼성양창섭,한국시리즈...",
+  "[블루쓰나미긴급진단]\"美데이터센터모라토리엄명분갈수록축소\"",
+  "[블루쓰나미긴급진단]삼전닉스프리마켓서10%넘는급락…美중간선거...",
+  "반도체지수6년여만에최대폭락...미증시덮친'AI투매쇼크'",
+  "AI규제공포에나스닥5.5%↓…하루만에시총3천400조원증발(종합2보...",
+  "\"빗썸보이스피싱예방교육의무화입법제안\"국회입법박람회서디지...",
+  "北‘바이낸스해킹’에도…정부,추가제재여부에“아직논의없어”"
  ],
  "recent_sigs": [
   [
@@ -6389,7 +6389,7 @@
    "규모 인프라 금융 91조원 지원 공급 앤스로픽에 브로드컴 반도체"
   ]
  ],
- "last_run": "2026-11-06T08:12:33.760380+09:00",
+ "last_run": "2026-11-06T08:14:37.507747+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
