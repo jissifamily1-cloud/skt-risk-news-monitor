@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newscj.com/news/articleView.html?idxno=3446152",
-  "https://www.techm.kr/news/articleView.html?idxno=156970",
-  "http://www.osen.co.kr/article/G1112904722",
-  "https://www.tokenpost.kr/news/ai/433066",
-  "https://www.news1.kr/it-science/general-it/6344112",
-  "https://www.wikitree.co.kr/articles/1172086",
   "https://www.yna.co.kr/view/AKR20261105093200017?input=1195m",
   "https://imnews.imbc.com/replay/2026/nw1200/article/6863389_36967.html",
   "http://www.kjdaily.com/article.php?aid=1793849622691353276",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20261106000030",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8134",
   "https://www.sportschosun.com/baseball/2026-11-06/202611060100041460004134",
-  "http://www.jbsori.com/news/articleView.html?idxno=18144"
+  "http://www.jbsori.com/news/articleView.html?idxno=18144",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000390",
+  "https://www.news2day.co.kr/article/20261105500038",
+  "https://www.sedaily.com/article/20110949",
+  "https://www.kmib.co.kr/article/20261106500021",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060004&t=NN",
+  "https://www.jemin.com/news/articleView.html?idxno=846320"
  ],
  "seen_titles": [
-  "PwC컨설팅,한국피씨피·4개대학과실험실창업지원협약",
-  "대신증권\"美블루웨이브發AI규제공포과도…코스피5600이하분할...",
-  "역사에남을명승부와졸전사이...\"이런야구는처음\"2차전은KS향방...",
-  "[오후뉴스브리핑]비트코인거래량1.5배·ETF순유출外",
-  "KT·삼성전자,시속250km고속철'통신끊김'AI로잡는다",
-  "‘北해킹위협’일상침투…현역장교포섭시도도",
   "'1승1패명승부'KS3차전,누가승기잡나...'토종10승'소형준vs'POM...",
   "부산교육청,전국최초'스쿨AI리빙랩부트캠프'운영…\"교사현장문...",
   "대구로해킹에점주계좌번호2만5000여개노출…통보는나흘뒤",
@@ -6001,7 +5995,13 @@
   "뉴욕증시,중간선거발'AI발작'에급락마감…나스닥5.5%폭락",
   "[글로벌마켓뷰]뉴욕증시,AI·반도체투매에패닉…나스닥5.5%↓·반도...",
   "'70억투자'이대로퇴장하나…충격의선발박탈,명예회복기회찾아올...",
-  "'여론조사조작'전북8개시·군광범위수사불구'용두사미'로끝나나..."
+  "'여론조사조작'전북8개시·군광범위수사불구'용두사미'로끝나나...",
+  "﻿귀와눈과입을갖춘AI﻿[정원훈의AI트렌드]",
+  "[N2모닝경제브리핑-11월6일]美증시,공포지수치솟으며폭락…나스...",
+  "“트레이더전화통에불나”나스닥5%폭락,조정국면진입[데일리국제...",
+  "[속보]뉴욕증시급락‘악몽’…필라델피아반도체12%대하락",
+  "\"60분뒤폭발한다\"...유럽여객기수십편회항·비상착륙'소동'",
+  "엔비디아H20060만개홍콩서발묶여…중국의수입장벽에AI반도체공..."
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,13 @@
   [
    "2026-11-06T06:22:16.276834+09:00",
    "면접 수십 해커들 북한 가짜 수법 공격 바이낸스 정교화"
+  ],
+  [
+   "2026-11-06T06:28:15.066529+09:00",
+   "중국의 H200 60만 수입 홍콩서 장벽에 반도체 묶여"
   ]
  ],
- "last_run": "2026-11-06T06:26:33.819769+09:00",
+ "last_run": "2026-11-06T06:28:35.726678+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
