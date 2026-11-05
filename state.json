@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=92816",
-  "https://www.aitimes.com/news/articleView.html?idxno=216890",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41388",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=100471",
-  "https://www.segye.com/newsView/20261102515179?OutUrl=naver",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000032",
-  "https://www.newsis.com/view/NISX20261102_0003851611",
   "https://www.kmib.co.kr/article/20261102502209",
   "https://www.donga.com/news/Economy/article/all/20261102/134953115/2",
   "https://www.hankyung.com/article/202611021336i",
@@ -2999,16 +2992,16 @@
   "https://www.boannews.com/news/articleView.html?idxno=147032",
   "https://www.newsis.com/view/NISX20261105_0003856554",
   "https://www.kukinews.com/article/view/kuk202611050072",
-  "https://www.mk.co.kr/article/12198379"
+  "https://www.mk.co.kr/article/12198379",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=107638",
+  "https://www.sportsseoul.com/news/read/1647315",
+  "https://www.ibabynews.com/news/articleView.html?idxno=156577",
+  "https://www.techm.kr/news/articleView.html?idxno=156974",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000338",
+  "https://www.joongang.co.kr/article/25476057",
+  "https://www.boannews.com/news/articleView.html?idxno=147034"
  ],
  "seen_titles": [
-  "마벨·루멘텀결합,AI광통신공략…\"시장기회600억달러확대\"",
-  "AI에이전트가키운eSSD…삼성·SK,낸드값두자릿수'껑충'",
-  "\"이번엔뭐가부족한데?\"AI붐에닥친새로운위기",
-  "트럼프,젠슨황보호의지표명…엔비디아둘러싼중국정보활동의혹...",
-  "팔란티어,3분기매출96%급증…미국상업매출이정부첫추월",
-  "[11월2일]AI가분석하고내가결정했다…그판단은누구의것일까",
-  "엔비디아,서울서'AI데이'개막···삼성·SK·LG와AI도원결의",
   "삼성·SK·LG,엔비디아AI행사총출동…반도체넘어로봇·제조협력확...",
   "AI거품론뇌관된‘네오클라우드’…반도체공급망도흔드나[심층기...",
   "\"먼저선보였는데\"…삼성·LG는주춤,해외는예약돌입",
@@ -6001,33 +5994,16 @@
   "47만건유출에털린금융권...'낡은'망분리버리고'AI방어막'짠다",
   "'젤렌스키가키이우에핵쐈다'해커,우크라매체뚫고가짜메일",
   "KT·삼성전자고속철도통신끊김29%개선外네이버·삼성D[기업IN]",
-  "GIF애니메이션도만든다...오픈AI,‘이미지2.6’공개"
+  "GIF애니메이션도만든다...오픈AI,‘이미지2.6’공개",
+  "LG그룹,안전환경콘퍼런스'LGSHEC'서16개계열사AI활용혁신사례...",
+  "WC부터KS까지,역시단기전은‘수비’…단순한이치,‘실책은곧재...",
+  "[오늘의브랜드]삼성물산리조트부문,2026IFLA글로벌조경상우수상...",
+  "삼성전자,국내외미래지원'확대'",
+  "美의회권력교체…삼성·SK대관전략비상",
+  "신형방공무기시험에비행장타격훈련까지…北,대미존재감과시에...",
+  "KT·서울대,융합보안인재양성'맞손'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-05T09:16:14.198477+09:00",
-   "120만 서울 총동원 부산으로 인파에 이어 불꽃축제 ~SKT"
-  ],
-  [
-   "2026-11-05T09:16:14.198477+09:00",
-   "문화 성과 리뉴얼 ~LGU 일상비일상의틈 LG유플러스 공간"
-  ],
-  [
-   "2026-11-05T09:16:14.198477+09:00",
-   "통신 품질 ~KT AI로 삼성전자와 고속철도 개선"
-  ],
-  [
-   "2026-11-05T09:16:14.198477+09:00",
-   "내부 융합보안 석사과정 ~KT 서울대와 인력 역량 키워 보안 연다"
-  ],
-  [
-   "2026-11-05T09:16:14.198477+09:00",
-   "네이버 협력 주가 18만원선 기대감 회복"
-  ],
-  [
-   "2026-11-05T09:16:14.198477+09:00",
-   "유출 초비상 해킹으로 쇼크 금융권 한양증권 정보 다우오피스 빗썸"
-  ],
   [
    "2026-11-05T09:18:15.002688+09:00",
    "정완 시대 열어젖힌 AI로 명예교수 AI가 경희대 해킹범람의 막아"
@@ -6639,9 +6615,13 @@
   [
    "2026-11-05T15:14:21.340584+09:00",
    "통신주 매물 기대감 강세속 차익 확산 관련주 양자컴퓨팅"
+  ],
+  [
+   "2026-11-05T15:16:14.299243+09:00",
+   "인재 ~KT 서울대 융합 맞손 보안 양성"
   ]
  ],
- "last_run": "2026-11-05T15:14:39.417523+09:00",
+ "last_run": "2026-11-05T15:16:34.821271+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
