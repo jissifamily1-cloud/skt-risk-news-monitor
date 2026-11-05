@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2384346.htm",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5079394",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=116632",
-  "https://www.ibabynews.com/news/articleView.html?idxno=156506",
-  "https://www.kmib.co.kr/article/20261103501645",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=800737",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=46005",
-  "https://zdnet.co.kr/view/?no=20261103162909",
-  "https://www.it-b.co.kr/news/articleView.html?idxno=90538",
   "https://news.dealsitetv.com/articles/177953",
   "https://www.dt.co.kr/article/12092919",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=210783",
@@ -2999,18 +2990,18 @@
   "https://www.sentv.co.kr/article/view/sentv202611050128",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=324895",
   "https://www.e-science.co.kr/news/articleView.html?idxno=139042",
-  "https://www.boannews.com/news/articleView.html?idxno=147025"
+  "https://www.boannews.com/news/articleView.html?idxno=147025",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=886107",
+  "https://www.kbsm.net/news/view.php?idx=540483",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3743048",
+  "https://theopiniontimes.news/%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ec%a7%80%ec%97%ad-%eb%b9%84%ec%9a%a9%ec%9d%b4-%ed%91%9c%ec%8b%ac-%ea%b0%88%eb%9e%90%eb%8b%a4%e7%be%8e-%ec%a4%91%ea%b0%84%ec%84%a0%ea%b1%b0/",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=82258",
+  "https://www.ppss.kr/news/articleView.html?idxno=319241",
+  "https://www.munhwa.com/article/11629000",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880066",
+  "https://www.newstree.kr/newsView/ntr202611050013"
  ],
  "seen_titles": [
-  "고객이름만입력해도주소노출…개인정보위,고객센터9개사개선권...",
-  "[케이프투자증권인사전망]임태순10년넘게대표…임원19명전원재...",
-  "\"서로겨루며일하는방식혁신\"…AI경연대회잇달아여는기업들",
-  "SKT정재헌\"AI기반생산성·경쟁력제고\"…사내에이전트발굴",
-  "SK텔레콤,사내AI에이전트경연개최…악성앱분석'M-TripleA'대상",
-  "[AI트렌드]코렐,아이그림으로접시만드는‘키즈AI플레이트’캠...",
-  "악성앱발원지까지쫓는‘AI요원’…SKT사내경연대회서나왔다",
-  "[위클리오늘]SK텔레콤소식(11.3)",
-  "[오늘뭐했니?]SK텔레콤",
   "누가더일잘하나...SKT직원이만든AI에이전트맞대결",
   "SKT,사내AI에이전트우수사례시상…전사확산추진",
   "[재계투데이]삼성SDS,구미AI데이터센터착공外",
@@ -6001,7 +5992,16 @@
   "“AI·6G보안인재직접키운다”…KT,서울대와계약학과설립",
   "UAE에서일본까지···이재용이찾은'삼성미래'",
   "금융보안원,AI로클라우드보안구멍찾는다…금융권연쇄해킹예방",
-  "'니케'런처해킹공식사과...\"게임외2차피해접수할것\""
+  "'니케'런처해킹공식사과...\"게임외2차피해접수할것\"",
+  "SK바이오팜,3분기매출2,584억원...누적영업이익3,000억원넘어",
+  "영천시,로봇캠퍼스서재난대응안전한국훈련…현장대응력점검",
+  "창원시,첫조직개편추진'재난안전국·재정국'신설",
+  "데이터센터'지역비용'이표심갈랐다…美중간선거발규제위험에삼...",
+  "코스피'美중간선거쇼크'...SK하이닉스-6.6%삼성전자-5.3%'휘청'",
+  "코스피급락에매도사이드카발동…美AI규제우려에반도체주직격탄",
+  "南이키운北해커[오후여담]",
+  "KT,기업맞춤형AI전략추천…'AX비즈포털'개설",
+  "\"혹시내정보도?\"...금융권37개사한달새해킹으로47만건유출"
  ],
  "recent_sigs": [
   [
@@ -6841,7 +6841,7 @@
    "이재용이 UAE에서 미래 삼성 일본까지 찾은"
   ]
  ],
- "last_run": "2026-11-05T11:46:37.284850+09:00",
+ "last_run": "2026-11-05T11:48:29.447796+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
