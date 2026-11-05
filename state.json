@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.donga.com/sports/article/all/20261105/134972074/1",
-  "https://sports.khan.co.kr/article/202611051448003?pt=nv",
-  "https://www.imaeil.com/page/view/2026110514455198016",
-  "https://www.tfmedia.co.kr/news/article.html?no=208397",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1730612",
-  "https://biz.sbs.co.kr/article_hub/20000344463?division=NAVER",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41447",
-  "https://biz.heraldcorp.com/article/10927238",
   "https://www.ajunews.com/view/20261105144524137",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591940710321",
   "https://view.asiae.co.kr/article/2026110514441920697",
@@ -2999,17 +2991,17 @@
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=338220",
   "https://www.newsis.com/view/NISX20261105_0003856355",
   "https://www.ekn.kr/web/view.php?key=20261106024006221",
-  "https://www.kukinews.com/article/view/kuk202611060013"
+  "https://www.kukinews.com/article/view/kuk202611060013",
+  "https://www.bntnews.co.kr/article/view/bnt202611060088",
+  "https://isplus.com/article/view/isp202611060001",
+  "https://news.bizwatch.co.kr/article/market/2026/11/06/0001",
+  "https://biz.sbs.co.kr/article_hub/20000344645?division=NAVER",
+  "https://www.ajunews.com/view/20261106082051675",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730676",
+  "https://www.newspim.com/news/view/20261106000075",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713197"
  ],
  "seen_titles": [
-  "개인정보위,개인정보안전조치안내서개정",
-  "김용태GA협회장\"보험판매전문회사도입해법으로규율해야\"",
-  "경찰,KT본사폭파협박에2022만원손배청구",
-  "북한해커'가짜채용면접'으로바이낸스해킹",
-  "방미통위,서울서국제OTT포럼개최",
-  "[리빌딩KT,육해공인프라혁신]〈결산〉AI인프라허브도약앞장…초...",
-  "5주새37곳해킹…금융권580여곳보안총점검나선다",
-  "베트남67조투자유치이면에멈춰선설비…삼성·LG현지화정책주시",
   "경남벤처해외진출길연다…창원대·벤처협회국제개발협력협약",
   "美데이터센터규제확산…AI인프라투자불확실성커져",
   "美AI데이터센터규제우려확산…국내반도체주동반급락",
@@ -6001,7 +5993,15 @@
   "YTN정상화방해하는방미통위",
   "\"OTT,가입자경쟁넘어수익모델다변화\"…방미통위OTT포럼개최",
   "최태원“韓경제,G2패권·AI·자본전쟁직면”…4가지해법제시",
-  "최태원,SK주식9440억원처분…재산분할금마련"
+  "최태원,SK주식9440억원처분…재산분할금마련",
+  "‘크래시2’이민기·곽선영,광역수사대출격",
+  "마무리·롱릴리프,이제다시선발로가는원태인\"야마모토처럼,쓰러...",
+  "美나스닥폭락에삼전닉스또직격탄…프리마켓10%대급락",
+  "[굿모닝마켓]'블루쓰나미'뉴욕증시폭락…AI관련주중심매도세",
+  "[특징주]삼성전자·SK하이닉스,'AI투자축소우려'에프리마켓서10%...",
+  "[원자재시황]증시폭락에오르는금값",
+  "[특징주]美반도체주폭락에프리마켓서삼성전자11%·SK하이닉스13%↓",
+  "퍼플렉시티,AI에이전트'팀메이트'공개…슬랙연동지원"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,13 @@
   [
    "2026-11-06T08:26:14.914683+09:00",
    "중앙화 해킹은 역설 바이낸스 단일 실패점 없애려던"
+  ],
+  [
+   "2026-11-06T08:30:30.609855+09:00",
+   "팀메이트 슬랙 에이전트 지원 연동 공개"
   ]
  ],
- "last_run": "2026-11-06T08:28:32.934303+09:00",
+ "last_run": "2026-11-06T08:30:48.220177+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
