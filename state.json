@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.asiatime.co.kr/article/20261105500280",
-  "https://www.etnews.com/20261105000345",
-  "https://www.nocutnews.co.kr/news/6602662",
-  "https://www.newsis.com/view/NISX20261105_0003856355",
-  "http://www.yonhapnewstv.co.kr/news/MYH202611051430051Sw",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338220",
   "http://www.bizwnews.com/news/articleView.html?idxno=151048",
   "https://www.gukjenews.com/news/articleView.html?idxno=3743269",
   "https://www.etoday.co.kr/news/view/2644654",
@@ -2999,15 +2993,15 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=880459",
   "https://www.etoday.co.kr/news/view/2644861",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172951",
-  "https://www.g-enews.com/view.php?ud=2026110521375255819a1f309431_1"
+  "https://www.g-enews.com/view.php?ud=2026110521375255819a1f309431_1",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=81295",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=365791",
+  "https://www.hani.co.kr/arti/international/america/1286054.html",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=146739",
+  "https://www.sidae.com/article/2026110608063925103",
+  "https://www.jemin.com/news/articleView.html?idxno=846322"
  ],
  "seen_titles": [
-  "아정당,모든직원로그인에양자내성암호적용",
-  "이노그리드,탈VM웨어이전넘어운영까지⋯탭클라우드잇3.0고도화",
-  "오픈AI,생성속도높이고편집강화한'이미지2.6'출시",
-  "프로농구오늘(5일)경기일정…울산현대모비스VS서울삼성,중계채...",
-  "금융권37개사서정보47만건유출…580여개사보안전수점검",
-  "'바이낸스해킹'북한추가제재여부에\"아직정부내논의없어\"",
   "금융당국,580개금융사보안전수점검…공동해킹관제시스템고도화",
   "[텔코NOW]SKTㆍKTㆍLGU+",
   "[단독]‘인도·아프리카·유럽’손잡은글로벌통신사령탑…중국입...",
@@ -6001,7 +5995,13 @@
   "뉴욕증시,AI규제공포에급락...국제유가,반등",
   "美반도체주폭락에프리마켓급락…삼전12%·SK하닉14%↓",
   "美증시나스닥100'6%폭락'...반도체·AI인프라·광통신주'휘청'",
-  "엔비디아목표주가25%하향…AI자금조달부담경고"
+  "엔비디아목표주가25%하향…AI자금조달부담경고",
+  "뉴욕증시,3대지수급락…나스닥5.52%↓",
+  "AI규제우려뉴욕증시급락…나스닥5.5%↓",
+  "나스닥5.5%폭락…AI투자우려에시총2조5천억달러증발",
+  "미반도체10%대동반폭락,삼전닉스'프리마켓12~13%↓...삼전18만원...",
+  "AI규제우려덮친뉴욕증시,나스닥5.5%·SOX12.25%하락",
+  "브로드컴,앤스로픽에91조원규모AI인프라금융지원…반도체공급..."
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,13 @@
   [
    "2026-11-06T08:10:26.085245+09:00",
    "하향 경고 자금조달 목표주가 부담"
+  ],
+  [
+   "2026-11-06T08:12:15.622340+09:00",
+   "규모 인프라 금융 91조원 지원 공급 앤스로픽에 브로드컴 반도체"
   ]
  ],
- "last_run": "2026-11-06T08:10:44.786992+09:00",
+ "last_run": "2026-11-06T08:12:33.760380+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
