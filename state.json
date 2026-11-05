@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229087",
-  "https://www.sportschosun.com/entertainment/2026-11-05/202611050100034240003498",
-  "https://biz.heraldcorp.com/article/10926226",
-  "https://www.xportsnews.com/article/2215775",
-  "https://www.tokenpost.kr/news/briefing/432849",
-  "https://www.ytn.co.kr/_ln/0102_202611050504113684",
-  "https://www.seoul.co.kr/news/international/europe/2026/11/05/20261105014006?wlog_tag3=naver",
-  "https://www.seoul.co.kr/news/politics/2026/11/05/20261105008002?wlog_tag3=naver",
-  "https://www.hani.co.kr/arti/politics/politics_general/1285856.html",
-  "https://www.seoul.co.kr/news/international/2026/11/05/20261105008001?wlog_tag3=naver",
-  "http://coinreaders.com/267591",
   "https://www.dailian.co.kr/news/view/1710873/?sc=Naver",
   "https://www.news1.kr/finance/general-finance/6343200",
   "https://www.sidae.com/article/2026110410341189476",
@@ -2999,20 +2988,20 @@
   "http://www.choicenews.co.kr/news/articleView.html?idxno=172941",
   "https://www.yna.co.kr/view/AKR20261105134351008?input=1195m",
   "https://www.sisajournal.com/news/articleView.html?idxno=393044",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209324"
+  "https://www.dailysecu.com/news/articleView.html?idxno=209324",
+  "https://www.starnewskorea.com/sports/2026/11/05/2026110516175037585",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3743398",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=45094",
+  "https://www.etoday.co.kr/news/view/2644735",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000080062",
+  "https://www.sedaily.com/article/20110757",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501565",
+  "https://www.sedaily.com/article/20110756",
+  "http://www.newstomato.com/ReadNews.aspx?no=1319390&inflow=N",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261105162214jTY",
+  "https://www.imaeil.com/page/view/2026110516202652790"
  ],
  "seen_titles": [
-  "[AIMY뉴스]23일중국증시'美기술주급락에中증시부담…AI투자회...",
-  "AI는어떤콘텐츠인용할까…NNT,'10가지GEO기준'제시",
-  "월마트,다음달AI에이전트대리구매허용…아마존은차단유지",
-  "러시아와이란,프랑스시위악용허위정보선전전의혹…새로운하이브...",
-  "[상품백서]카드로AI구독료할인받을수있다....신한·우리카드등...",
-  "\"챗GPT·제미나이에익숙한데\"…인지도·품질신뢰에달렸다[모두의AI...",
-  "“AI가추천하는화장품돼라”…K뷰티,GEO경쟁시동",
-  "챗GPT·제미나이확산에AI챗봇주주목…실적이주가가를듯",
-  "MS도AI도입했다가직원들외면…AI혁신의조건은",
-  "\"AI에이전트,보안판바꾼다\"…엔비디아OpenShell아키텍처공개,위험...",
-  "AI에이전트안전장치가인프라안으로…엔비디아,풀스택보안아키텍...",
   "[인터뷰]남기훈람다256CTO\"바이낸스탈취자금,지금도세탁중\"",
   "마트냉장고이어프랑스혈액원도사이버공격\"온도110도까지\"",
   "정주리,'여섯째임신설'불렀던영상뒤무슨일이…\"피싱당해계정날...",
@@ -6001,7 +5990,18 @@
   "美AI규제변수,코스피'요동'...NAVER·아모레퍼시픽은'껑충'",
   "'블루웨이브쇼크'코스피·코스닥,5%대급락…반도체주'추락'(종합)",
   "박지원\"블루쓰나미에도대통령은트럼프…노벨평화상겨냥할것\"",
-  "[금융사해킹종합]금융권37개사해킹등침해사고40건…개인정보47..."
+  "[금융사해킹종합]금융권37개사해킹등침해사고40건…개인정보47...",
+  "[부고]최재영(KT위즈스카우트팀부장)씨부친상",
+  "대전TP,인도네시아98개도시공공시장연결…스마트시티실증MOU체결",
+  "카카오뱅크,원하는시간·장소에서만보이는'스텔스통장'출시",
+  "3분기D램매출4.7배급증…삼성전자점유율38%로1위",
+  "美'블루웨이브'에한국증시직격탄…AI투자위축우려확산",
+  "금융사개인정보47만건유출...10억원탈취도",
+  "KT,기업AX플랫폼'AX비즈포털'선봬…6개문항으로맞춤솔루션추...",
+  "엔비디아·인텔,다음주서울서네트워크다진다…삼성·SK등국내기업...",
+  "오픈AI·앤트로픽‘정치자금전쟁’…미국AI규제판도바뀌나",
+  "'대구로'해킹에점주계좌번호노출…나흘뒤늑장통보",
+  "마트냉장고까지뚫렸다…유통업계덮친'해킹공포'"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,25 @@
   [
    "2026-11-05T16:22:16.432200+09:00",
    "개인정보 40건 37개사 금융권 침해사고"
+  ],
+  [
+   "2026-11-05T16:24:15.159290+09:00",
+   "규제 바뀌나 미국 전쟁 판도 앤트로픽 정치자금"
+  ],
+  [
+   "2026-11-05T16:24:15.159290+09:00",
+   "기업 인텔 다음 국내 다진다 SK 네트워크 삼성 서울서"
+  ],
+  [
+   "2026-11-05T16:24:15.159290+09:00",
+   "해킹에 늑장 점주 노출 대구로 나흘 계좌번호 통보"
+  ],
+  [
+   "2026-11-05T16:24:15.159290+09:00",
+   "유통업계 공포 덮친 냉장고까지 마트 뚫렸다"
   ]
  ],
- "last_run": "2026-11-05T16:22:34.709088+09:00",
+ "last_run": "2026-11-05T16:24:46.523778+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
