@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news2day.co.kr/article/20261106500003",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=91564",
-  "http://www.paxetv.com/news/articleView.html?idxno=286209",
-  "https://www.newscj.com/news/articleView.html?idxno=3446391",
-  "https://www.news1.kr/world/northeast-asia/6344909",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42613",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=623356",
-  "https://www.businesskorea.co.kr/news/articleView.html?idxno=280622",
-  "https://www.donga.com/news/Economy/article/all/20261105/134974523/2",
   "http://coinreaders.com/267873",
   "https://www.kmib.co.kr/article/20261105501423",
   "https://www.newsis.com/view/NISX20261105_0003856982",
@@ -2999,18 +2990,18 @@
   "https://magazine.hankyung.com/money/article/202611061504c",
   "https://www.edaily.co.kr/News/Read?newsId=06412406645643096&mediaCodeNo=257",
   "https://www.etnews.com/20261106000316",
-  "http://www.newsmaker.or.kr/news/articleView.html?idxno=185423"
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=185423",
+  "https://www.kmib.co.kr/article/20261105502294",
+  "http://www.newsmaker.or.kr/news/articleView.html?idxno=185493",
+  "https://www.newspim.com/news/view/20261106001161",
+  "https://www.greened.kr/news/articleView.html?idxno=354086",
+  "https://www.news2day.co.kr/article/20261106500315",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451430",
+  "https://news.bizwatch.co.kr/article/finance/2026/11/06/0046",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451422",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16270145"
  ],
  "seen_titles": [
-  "최태원\"증시롤러코스터계속\"…과잉유동성·AI투자쏠림경고",
-  "엔비디아,장중5.6%하락해4월이후최저수준",
-  "[마켓인사이드]민주당압승에데이터센터차질우려…엔비디아,마이크...",
-  "최태원\"AI시대,경제패러다임근본변화…한국,새로운성장전략필...",
-  "[리포트]엔비디아가주목한피지컬AI···로보티즈·레인보우로보틱...",
-  "최태원\"AI시대한국경제새접근필요\"…서울대서4가지비전제시",
-  "\"엔비디아AI칩60만개홍콩에쌓여…中,대규모수입승인보류\"",
-  "최태원회장,\"AI혁명에기존경제학만으론한계\"…한국,'AI네이티브...",
-  "최태원,서울대특강서\"중간선거이후시장변동성경계해야\"",
   "최태원회장\"AI시대,전통경제학모형만으론설명불가능\"",
   "인력대폭줄인빅테크…‘AI비용’지원도줄인다",
   "리플(XRP)1.29달러돌파…해킹뒤대형지갑7억7,000만XRP늘렸다",
@@ -6001,7 +5992,16 @@
   "최태원“AI로돈이너무많이풀렸다...롤러코스터시장계속될것”",
   "엔비디아,네이버에1.34조납입…3대주주로'AI동맹'본격화",
   "'150억대엔비디아칩'싣고사라졌다…운송트럭두달째행방불명",
-  "[김경주의뷰파인더]잃어버린밤을찾아서"
+  "[김경주의뷰파인더]잃어버린밤을찾아서",
+  "최태원,SK주식9440억매각…재산분할금마련",
+  "장성군,공연장화재상황가정한실전형재난훈련진행",
+  "[KS3]'최원준·허경민부상이탈'KT,3차전타선대폭변경…장성우지...",
+  "SK네트웍스3분기매출소폭감소한1.9조원...선제적구조개편속'내...",
+  "SK바이오팜,신약개발AI모델구축...후보물질발굴·임상활용확대",
+  "코스피5천위협하는블루웨이브,저점매수가늠자는'코어위브'3분기...",
+  "금융당국580곳보안점검에도…전문가들땜질처방꼬집는이유",
+  "증시급락에주목받는방어주,SKT·KT&G·우리금융실적안정성배당...",
+  "손부상·담증세…ktwiz,KS3차전서최원준·허경민선발제외"
  ],
  "recent_sigs": [
   [
@@ -6795,9 +6795,13 @@
   [
    "2026-11-06T17:36:17.472740+09:00",
    "밤을 찾아서 잃어버린"
+  ],
+  [
+   "2026-11-06T17:38:15.233673+09:00",
+   "실적 주목 ~KT 방어주 안정성 증시 ~SKT 우리금융 급락에 받는 배당"
   ]
  ],
- "last_run": "2026-11-06T17:36:36.808947+09:00",
+ "last_run": "2026-11-06T17:38:34.143634+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
