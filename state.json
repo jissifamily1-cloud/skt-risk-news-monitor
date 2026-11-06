@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16267985",
-  "http://www.wsobi.com/news/articleView.html?idxno=321010",
-  "http://www.metroseoul.co.kr/article/20261104500201",
-  "https://zdnet.co.kr/view/?no=20261104110431",
-  "http://www.joseilbo.com/news/news_read.php?uid=578881&class=53",
-  "https://www.etoday.co.kr/news/view/2643930",
-  "https://www.dt.co.kr/article/12093066",
-  "https://www.fnnews.com/news/202611041013243328",
-  "https://www.techm.kr/news/articleView.html?idxno=156889",
-  "https://www.news1.kr/it-science/cc-newmedia/6342424",
   "https://news.mtn.co.kr/article/2026110410091314360",
   "http://www.newstomato.com/ReadNews.aspx?no=1319185&inflow=N",
   "https://www.newsis.com/view/NISX20261104_0003854097",
@@ -2999,19 +2989,19 @@
   "https://view.asiae.co.kr/article/2026110614374887150",
   "https://www.viva100.com/article/20261106500487",
   "https://www.hankyung.com/article/2026110609947",
-  "https://www.mediapen.com/news/view/1135721"
+  "https://www.mediapen.com/news/view/1135721",
+  "https://news.bizwatch.co.kr/article/market/2026/11/06/0022",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=325073",
+  "https://www.thelec.kr/news/articleView.html?idxno=65029",
+  "https://www.newsis.com/view/NISX20261106_0003857847",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209341",
+  "http://www.e2news.com/news/articleView.html?idxno=335873",
+  "https://www.newsis.com/view/NISX20261106_0003858062",
+  "https://www.ziksir.com/news/articleView.html?idxno=152341",
+  "https://biz.chosun.com/international/international_general/2026/11/06/UKBP53IRSVFDDGDQT5A6XWBXRM/",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834002&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "정재헌체제SKT,실적반등넘어내실다지기···통신수익성회복·...",
-  "SKT,영업익11배늘었지만…AI데이터센터매출7.4%감소",
-  "애니메이션'파리스그린이밝는날에',오늘부터극장동시IPTV·VOD서...",
-  "SKT·LGU+,3분기영업이익5523억·2976억기록",
-  "SK텔레콤,3분기영업이익11배껑충…분기배당도이어가",
-  "SKT,분기영업익5523억원...통신회복에AI사업확장",
-  "통신3사,8년만에성장전환점맞나…내년영업익5.3조전망[주가동...",
-  "SKT,해킹악재딛고반등…3분기영업익5523억'1040%급증'",
-  "SKT,통신사업회복에3분기영업익5000억원대복귀…AIDC사업매출은...",
-  "SKT,3분기연속5천억대영업익달성...AI도수익낸다",
   "SKT,3분기해킹피해복구완료...AIDC육성'시동'",
   "SKT,해킹기저에3분기영업익1040%↑…AIDC'순항'(종합)",
   "'해킹'딛고일어선SKT,3Q영업익1040.28%급등…AI신사업도호조",
@@ -6001,7 +5991,17 @@
   "최태원동거인中간첩설'배터리아저씨',항소심도벌금700만원",
   "오픈AI,보안특화모델‘GPT-6사이버’공개",
   "\"중국간첩과무슨사이냐\"…젠슨황사진한장에美'발칵'",
-  "[왜파운드리인가②]분사후고객사3배…삼성파운드리,‘HPC66%’로..."
+  "[왜파운드리인가②]분사후고객사3배…삼성파운드리,‘HPC66%’로...",
+  "[AI패닉]시스템매도·헤지펀드청산이키운증시하락폭",
+  "카카오,의사결정모델'카나나-2-v-디사이드'오픈소스공개",
+  "[기고]방산으로넓어지는반도체유통의역할",
+  "주가급락부른美AI데이터센터규제변수…\"메모리수요에도영향줄까...",
+  "크립토랩,동형암호보안솔루션'헤라클레스'출시…암호화상태로검...",
+  "한난,AI역량결집을위해'AI해커톤대회'개최",
+  "버스개편민원3780건…\"두달분석뒤재조정\"",
+  "KT,부산불꽃축제특별소통대책가동…네트워크슬라이싱첫투입",
+  "美서150억원대엔비디아반도체싣고출발한트럭실종…경찰수사",
+  "[속보]쿠팡6천억대'개인정보과징금'중2천억원효력정지"
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,13 @@
   [
    "2026-11-06T14:42:16.984652+09:00",
    "삼성 분사 3배 HPC 파운드리 고객사"
+  ],
+  [
+   "2026-11-06T14:44:16.112365+09:00",
+   "변수 AI데이터센터 메모리 주가 부른 영향줄까 수요에도 규제 급락"
   ]
  ],
- "last_run": "2026-11-06T14:42:34.591671+09:00",
+ "last_run": "2026-11-06T14:44:36.802395+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
