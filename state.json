@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.venturesquare.net/1125664/",
-  "https://www.tokenpost.kr/news/ai/432653",
-  "https://econotimes.com/OpenAI-Highlights-Voice-Conversations-in-Finances-in-ChatGPT-1770634",
-  "https://www.aitimes.com/news/articleView.html?idxno=216989",
-  "https://econotimes.com/Cisco-and-OpenAI-Highlight-Security-Telemetry-and-Observability-Data-1770568",
-  "https://www.koreatimes.co.kr/path/A2026110412040005062",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50324",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50322",
   "https://econotimes.com/Altman-Says-AI-Training-Requires-an-Extremely-Strong-Case-for-Human-Control-1770506",
   "https://econotimes.com/OpenAI-Says-Uber-s-Jill-Hazelbaker-Will-Lead-Corporate-Affairs-1770505",
   "https://www.tokenpost.kr/news/ai/432438",
@@ -2999,17 +2991,17 @@
   "https://www.mediawatch.kr/news/article.html?no=261653",
   "https://biz.sbs.co.kr/article_hub/20000344796?division=NAVER",
   "https://www.aitimes.com/news/articleView.html?idxno=217103",
-  "https://biz.sbs.co.kr/article_hub/20000344797?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000344797?division=NAVER",
+  "https://www.hankookilbo.com/news/article/A2026110613470002938?did=NA",
+  "https://www.hankookilbo.com/news/article/A2026110614380004648?did=NA",
+  "https://kidd.co.kr/news/248060",
+  "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601715",
+  "https://www.greened.kr/news/articleView.html?idxno=353990",
+  "https://news.tf.co.kr/read/life/2385847.htm",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=409397",
+  "https://www.yna.co.kr/view/AKR20261106131000009?input=1195m"
  ],
  "seen_titles": [
-  "GPT-5.6사이버,미정부클라우드로제공확대",
-  "오픈AI,피에르인수·코드저장기능코덱스통합추진",
-  "제주창조경제혁신센터,JOIN2026서일본진출·AI혁신논의…21개국청...",
-  "마쓰다(7261),GPT-6Astra로차체앞부분공력설계연구",
-  "OpenAIHighlightsVoiceConversationsinFinancesinChatGPT",
-  "오픈AI,AI로하드웨어설계일주일만에완료…실제시제품제작",
-  "CiscoandOpenAIHighlightSecurityTelemetryandObservabilityData",
-  "Democrats'wincouldcompoundpressuresonAIspending,Koreanchipma",
   "[Series–AIAgentsandOne-PersonBusinesses]ACompanyRunbyOnePer.",
   "[Series–AIAgentsandPlatforms]WhyIsAIEvolvingBeyonda'Tool'i..",
   "AltmanSaysAITrainingRequiresanExtremelyStrongCaseforHumanCon",
@@ -6001,7 +5993,15 @@
   "[미디어이슈]“트라우마에반발여론”中코로나19영화또개봉무산...",
   "20만전자·120만닉스깨졌다…'검은금요일'장중5천피붕괴",
   "문샷AI,엔비디아블랙웰확보위해유럽으로눈돌려...8000개GPU임대...",
-  "쿠팡과징금엇갈린결정…2천억은멈추고4천억은유지"
+  "쿠팡과징금엇갈린결정…2천억은멈추고4천억은유지",
+  "41세동갑내기강민호·우규민,첫우승반지향한힘겨운가을",
+  "제로랩스코리아,스스로학습·진화하는AI어시스턴트민·관에공급",
+  "[2026로보월드]삼현,모션컨트롤기술앞세워로봇사업포트폴리오확...",
+  "제주스타트업의미래,'JOIN2026'스타트업위크'행사성황",
+  "트럼프중간선거패배후미국증시깜짝반등한이유",
+  "'최태원동거인간첩설'유튜버2심도벌금700만원",
+  "오픈AI,사이버보안특화'GPT-6사이버'선보여",
+  "'블루쓰나미'에빅테크들데이터센터해외·사막으로눈돌려"
  ],
  "recent_sigs": [
   [
@@ -6727,9 +6727,13 @@
   [
    "2026-11-06T15:40:24.842174+09:00",
    "GPU 임대 돌려 문샷AI 유럽으로 확보 8000개 블랙웰"
+  ],
+  [
+   "2026-11-06T15:42:24.151787+09:00",
+   "눈돌려 블루쓰나미 빅테크들 사막으로 데이터센터 해외"
   ]
  ],
- "last_run": "2026-11-06T15:40:46.349730+09:00",
+ "last_run": "2026-11-06T15:42:42.372535+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
