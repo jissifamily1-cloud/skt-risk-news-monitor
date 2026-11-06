@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080055",
-  "https://www.vegannews.co.kr/news/article.html?no=400916",
   "https://www.mydaily.co.kr/page/view/2026110618441439671",
   "http://www.osen.co.kr/article/G1112905311",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018126",
@@ -2999,11 +2997,11 @@
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018251",
   "https://www.yna.co.kr/view/AKR20261106029400007?input=1195m",
   "https://www.yna.co.kr/view/AKR20261107008500072?input=1195m",
-  "https://www.tokenpost.kr/news/ai/434294"
+  "https://www.tokenpost.kr/news/ai/434294",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194269",
+  "https://www.tokenpost.kr/news/policy/434295"
  ],
  "seen_titles": [
-  "블루웨이브직격탄맞은美데이터센터…민주당당선인“중단”",
-  "엔비디아,네이버에1조3412억납입완료…AI동맹본격화",
   "고팍스,해킹협박에출금중단",
   "3G종료준비나선통신업계…알뜰폰·고령층보호관건",
   "SKT,미AIDC업체'펭귄솔루션스'지분전량'SK하이닉스'로",
@@ -6001,7 +5999,9 @@
   "롯데가설렌다,대표팀투수보다구위가더좋았다니…찬바람에도150㎞...",
   "◇오늘의경기(7일)",
   "뉴욕증시,AI기술주폭락후저가매수세…나스닥1.1%↑",
-  "엔비디아,RL가중치재반영지연시간최대5.7배단축"
+  "엔비디아,RL가중치재반영지연시간최대5.7배단축",
+  "[AI프리즘]\"AI가수학난제풀어도이해는인간의영역\"…수학자가말...",
+  "오픈AI전엔지니어,회의실도청혐의무죄주장"
  ],
  "recent_sigs": [
   [
@@ -6131,9 +6131,13 @@
   [
    "2026-11-07T06:18:20.277010+09:00",
    "7배 가중치 재반영 지연시간 단축 RL"
+  ],
+  [
+   "2026-11-07T06:20:24.808970+09:00",
+   "도청 주장 엔지니어 혐의 무죄 회의실"
   ]
  ],
- "last_run": "2026-11-07T06:18:44.149331+09:00",
+ "last_run": "2026-11-07T06:20:46.835556+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
