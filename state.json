@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/PYH20261105181400013?input=1196m",
-  "https://www.ajunews.com/view/20261105181855310",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=313206",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35340",
-  "https://www.fnnews.com/news/202611051821169291",
-  "https://news.jtbc.co.kr/article/NB12326711?influxDiv=NAVER",
   "https://www.fnnews.com/news/202611051823154539",
   "https://www.newspim.com/news/view/20261102000998",
   "https://www.sedaily.com/article/20110883",
@@ -2999,15 +2993,15 @@
   "https://www.boannews.com/news/articleView.html?idxno=147069",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705904",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002472",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713316"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713316",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=89032",
+  "https://www.boannews.com/news/articleView.html?idxno=147006",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705007",
+  "https://www.betanews.net/article/view/beta202611040153",
+  "http://www.journalist.or.kr/news/article.html?no=62025",
+  "https://news.mtn.co.kr/article/2026110611520082815"
  ],
  "seen_titles": [
-  "개보위,에이전트·피지컬AI시대개인정보보호방안논의",
-  "'4200억대과징금'쿠팡집행정지신청기각…\"긴급필요없어\"",
-  "2030년10조원·일자리5만개목표…하남시,5대투자거점공개",
-  "대전시의회공공재산정상화특위\"공공재산취득에최대93억추가부담...",
-  "김해시,'2026년시정BEST10'시민온라인투표오는6일부터시작",
-  "'제140회캔톤페어'폐막...역외바이어35만명이상'역대최대'",
   "삼성D램점유율33%→38%..\"내년엔HBM도선두\"",
   "한달간금융권37곳서47만건정보유출",
   "[古典여담]道高一尺魔高一丈<도고일척마고일장>",
@@ -6001,7 +5995,13 @@
   "AI때문에보안위협감당못할속도로증가...탐지에서대응,우선순위...",
   "실리콘밸리서트럭운반엔비디아칩도난…154억원상당",
   "[포토]전국언론노조'방미통위,YTN청문절차즉각재개촉구'",
-  "AI암호화폐해킹급증…보안고삐죄는아시아거래소들"
+  "AI암호화폐해킹급증…보안고삐죄는아시아거래소들",
+  "오토닉스,자동화제품보안개발절차'레벨4'인증획득",
+  "[슬기로운디지털부모생활]#5.우리아이폰에이문구떴다면?청소년...",
+  "“트럼프고뭐고짓지말라고”…텍사스의분노가한국을향한다?[핫클...",
+  "\"SKT,AI관련주자리매김...이익성장도지속\"-하나증권",
+  "유진청문연기에거센비판…\"방미통위즉시해결해야\"",
+  "해킹피해에인증강화하는일본...아톤,현지보안시장진출추진"
  ],
  "recent_sigs": [
   [
@@ -6871,9 +6871,13 @@
   [
    "2026-11-06T11:54:16.013192+09:00",
    "암호화폐 거래소들 급증 고삐 보안 죄는 아시아"
+  ],
+  [
+   "2026-11-06T11:56:18.936944+09:00",
+   "진출 아톤 피해에 강화하는 인증 보안시장 일본 현지"
   ]
  ],
- "last_run": "2026-11-06T11:54:39.728717+09:00",
+ "last_run": "2026-11-06T11:56:36.566174+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
