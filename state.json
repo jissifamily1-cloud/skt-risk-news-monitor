@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026110514000000554?did=NA",
-  "https://www.ekn.kr/web/view.php?key=20261105022576000",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1022437",
-  "https://www.mt.co.kr/world/2026/11/05/2026110511114929101",
-  "https://www.khan.co.kr/article/202611051657001",
-  "https://www.ddaily.co.kr/page/view/2026110516153522358",
-  "https://zdnet.co.kr/view/?no=20261105163806",
-  "https://www.asiatime.co.kr/article/20261105500392",
-  "https://www.ngonews.kr/news/articleView.html?idxno=242326",
   "https://www.etnews.com/20261105000334",
   "https://www.etnews.com/20261105000192",
   "http://www.metroseoul.co.kr/article/20261105500493",
@@ -2999,18 +2990,18 @@
   "http://www.paxetv.com/news/articleView.html?idxno=286242",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713269",
   "https://www.thelec.kr/news/articleView.html?idxno=64955",
-  "https://view.asiae.co.kr/article/2026110609391957816"
+  "https://view.asiae.co.kr/article/2026110609391957816",
+  "https://www.huffingtonpost.kr/article/261844",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3744097",
+  "https://www.sidae.com/article/2026110609553260993",
+  "https://www.pharmnews.com/news/articleView.html?idxno=307678",
+  "https://www.news1.kr/finance/market-exr/6345268",
+  "https://www.dailian.co.kr/news/view/1711660/?sc=Naver",
+  "https://www.etoday.co.kr/news/view/2644981",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=48812",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=93289"
  ],
  "seen_titles": [
-  "이노그리드,‘탭클라우드잇’에오픈시프트가상화연동추가",
-  "계좌번호·신분증까지유출됐는데…다우기술,보안패치현황은'미공개...",
-  "[부음]최동주씨별세,최재영(ktwiz스카우트팀부장)씨부친상",
-  "AI해킹에골든타임놓칠라…금융권'보안공식'바꾼다",
-  "[우리금융인사기상도]해킹피한정진완,연임무게…임종룡2기‘안...",
-  "대전시의회,제300회정례회개막…81개안건·내년예산안'송곳심사'",
-  "래블업,AI추론엔진'MLxcel'AMD지원확대…멀티벤더기술강화",
-  "대구공공배달앱'대구로'대규모정보유출",
-  "러시아APT29연계해커,정상웹사이트로아이폰·안드로이드공격…메...",
   "금융권37개사해킹…금융당국\"부정결제우려아직\"",
   "김대권수성구청장,전통시장활성화앞장...중기부장관표창수상",
   "삼성전기·LG이노텍,AI기판시장공략속도…증설·양산전략차별화",
@@ -6001,7 +5992,16 @@
   "KT,부산불꽃축제통신망보강…\"5G기술로인파안전관제지원\"",
   "데이터센터건설에주민목소리반영…오픈AI,개발원칙손질",
   "제이앤티씨,엔비디아유리기판공급사등록",
-  "해킹취약고리GA74곳,금융보안원가입추진…회비놓고'줄다리기'"
+  "해킹취약고리GA74곳,금융보안원가입추진…회비놓고'줄다리기'",
+  "정재헌SK텔레콤해킹전실적회복에도배당확대는머뭇,AI데이터센...",
+  "거창군,기본소득조례원안가결…'거창형'정책본격추진",
+  "블루쓰나미쇼크…코스피5000도무너졌다",
+  "SK바이오팜,과기정통부AI파운데이션모델실증완료",
+  "서킷풀리자5000선반짝회복도잠시…코스피4900선대로[장중시황]",
+  "사칭URL·악성파일차단…식품진흥원,사이버대응모의훈련",
+  "오늘'ktvs삼성'한국시리즈3차전…중계어디서?",
+  "래블업,애플·엔비디아이어AMD까지…추론엔진지원확대",
+  "\"생성형AI시대,주도권잡는법배운다\"…교보교육재단,'AI윤리ON캠프..."
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,17 @@
   [
    "2026-11-06T10:16:24.556019+09:00",
    "회비 가입 고리 놓고 금융보안원 취약 줄다리기 GA 74곳"
+  ],
+  [
+   "2026-11-06T10:18:17.288124+09:00",
+   "주도권 교보교육재단 캠프 AI윤리ON 생성형 잡는 시대 배운다"
+  ],
+  [
+   "2026-11-06T10:18:17.288124+09:00",
+   "지원 래블업 이어 애플 엔진 확대 AMD까지 추론"
   ]
  ],
- "last_run": "2026-11-06T10:16:49.286944+09:00",
+ "last_run": "2026-11-06T10:18:37.814696+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
