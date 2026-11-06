@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16269150",
-  "https://www.joongang.co.kr/article/25476128",
-  "https://www.fnnews.com/news/202611041816026950",
-  "https://www.thelec.kr/news/articleView.html?idxno=64903",
-  "https://www.tfmedia.co.kr/news/article.html?no=208586",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8701405",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442363",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610300126&t=NN",
-  "https://www.livebiz.today/news/articleView.html?idxno=206084",
   "https://magazine.hankyung.com/business/article/202610305425b",
   "https://www.hankyung.com/article/202610292542i",
   "http://www.press9.kr/news/articleView.html?idxno=85184",
@@ -2999,18 +2990,18 @@
   "https://biz.heraldcorp.com/article/10928375",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=880572",
   "https://www.asiatime.co.kr/article/20261106500115",
-  "https://biz.heraldcorp.com/article/10928380"
+  "https://biz.heraldcorp.com/article/10928380",
+  "https://www.yna.co.kr/view/AKR20261106082900007?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3744239",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718020",
+  "https://www.newscj.com/news/articleView.html?idxno=3446485",
+  "http://www.intn.co.kr/news/articleView.html?idxno=2054546",
+  "https://www.seoulfn.com/news/articleView.html?idxno=642109",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318851",
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=4896",
+  "https://www.cnbizm.com/news/articleView.html?idxno=320559"
  ],
  "seen_titles": [
-  "[올댓차이나]中,소프트뱅크그룹ABB로봇사업인수저지…데이터유출...",
-  "\"차라리없었더라면\"…AI'체르노빌사고'위험경고",
-  "미소스5.5·GPT-6.2아스트라잇달아포착…최첨단모델출시설",
-  "샘알트먼\"AI가보안문제만드는것아냐…오히려결함찾는것\"",
-  "알트먼“과학발견묵혀선안돼”…수학성과더있다고확인",
-  "샘알트먼\"AI시대사회초년생이라면,기존성공공식버려야\"",
-  "[인문자의미국중간선거이야기③|인간·문화·자연]블루쓰나미이...",
-  "[단독]다시논란된해외ETF과세…증권가\"수천억환급해야하나\"긴장",
-  "美중간선거'블루웨이브'후폭풍…코스피5.2%급락한5380선후퇴",
   "넘즈에이아이,미래에셋벤처투자·한국투자파트너스서20억원추가유치",
   "KT,'AX비즈포털'오픈...기업맞춤형솔루션제공",
   "KT,삼성전자와고속철도통신품질개선...끊김발생률29%↓",
@@ -6001,7 +5992,16 @@
   "유명게임·보안프로그램,악성코드통로됐다",
   "SKT·LGU+,영업익나란히'껑충'…AI로실적상승세굳힌다",
   "구글은23조투자·오픈AI는정보공개…데이터센터'주민설득전'",
-  "KT,부산불꽃축제특별대책마련"
+  "KT,부산불꽃축제특별대책마련",
+  "아시안게임금메달이정현등농구월드컵아시아예선출전",
+  "대구교통공사,도시철도차량분야기술교류회개최...전국교통공사유...",
+  "EDB,클릭하우스전문'알티니티'인수",
+  "첨단AI부터지역축제·나눔까지…카카오,일상을잇다",
+  "서울세무사회'업무혁신AI교육'폭발적반응…\"꼭필요,계속해달라\"",
+  "카카오,AI에이전트판단특화모델오픈소스공개",
+  "美반도체쇼크에코스피5,000선붕괴…개미투자자직격탄",
+  "교보교육재단,'청소년AI윤리ON캠프'서가치판단토론교육운영",
+  "강남구,구룡마을화재피해이재민위해숙박과식사,구호물품지원하..."
  ],
  "recent_sigs": [
   [
@@ -6787,9 +6787,13 @@
   [
    "2026-11-06T11:18:18.902473+09:00",
    "부산불꽃축제 특별대책 마련 ~KT"
+  ],
+  [
+   "2026-11-06T11:20:24.336072+09:00",
+   "화재 구룡마을 식사 지원하 강남구 이재민 숙박과 피해 구호물품"
   ]
  ],
- "last_run": "2026-11-06T11:18:39.652140+09:00",
+ "last_run": "2026-11-06T11:20:42.941635+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
