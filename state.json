@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-joongang.com/news/articleView.html?idxno=403287",
-  "https://m.skyedaily.com/news_view.html?ID=314166",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000080067",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000080064",
-  "https://www.chosun.com/economy/tech_it/2026/11/05/6HVQS6V7XNBQZECJ2KLMNJIGI4/",
-  "https://biz.heraldcorp.com/article/10927477",
-  "https://www.tokenpost.kr/news/cryptocurrency/433179",
-  "https://www.yna.co.kr/view/PYH20261105161400013?input=1196m",
-  "https://www.yna.co.kr/view/PYH20261105161300013?input=1196m",
-  "https://www.news1.kr/industry/sb-founded/6344536",
-  "https://www.kukinews.com/article/view/kuk202611050175",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=367240",
   "https://www.yna.co.kr/view/PYH20261105160900013?input=1196m",
   "https://www.news1.kr/photos/8199409",
   "https://www.news1.kr/photos/8199411",
@@ -2999,21 +2987,21 @@
   "https://www.cbci.co.kr/news/articleView.html?idxno=623978",
   "https://www.etnews.com/20261106000075",
   "https://www.seoultimes.news/news/article.html?no=2000101863",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261106095335aEs"
+  "http://www.yonhapnewstv.co.kr/news/AKR20261106095335aEs",
+  "https://www.globalepic.co.kr/view.php?ud=20261106095314769337600e7ec7_29",
+  "https://www.news1.kr/it-science/internet-platform/6345223",
+  "https://www.rapportian.com/news/articleView.html?idxno=242113",
+  "https://biz.chosun.com/it-science/ict/2026/11/06/IWAES7YJERHLBANGJYCHFDFAF4/",
+  "https://biz.heraldcorp.com/article/10928098",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=304397",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=130671",
+  "https://www.news1.kr/finance/general-stock/6345236",
+  "https://www.newsis.com/view/NISX20261106_0003857463",
+  "https://news.tf.co.kr/read/economy/2385607.htm",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080447",
+  "https://www.jemin.com/news/articleView.html?idxno=846324"
  ],
  "seen_titles": [
-  "[아시아AI대상]AX플랫폼으로진화한마이케이티…이용자편의높였다",
-  "대전중구,공무원150명에'민원인심리별응대법'교육",
-  "[기고]기업AI주권,규제와성과를동시에푸는기술적해법",
-  "[아시아AI대상]모티프테크놀로지스,독자모델로글로벌최상위권성능...",
-  "보급형2족보행로봇만든다…XYZ,40억대휴머노이드과제참여",
-  "일본,미국AI기업에미공개소프트웨어취약점정보공유요청",
-  "[아시아AI대상]팀스파르타,폐쇄망AI에이전트로전산업군AX견인",
-  "미중간선거'블루웨이브'에국내증시급락…AI투자위축우려확산",
-  "레드포스PC방,하이엔드게이밍장비갖춘한티역점오픈…PC방창업...",
-  "코스피5.28%폭락'검은목요일'…美블루웨이브충격",
-  "삼성전자D램1위수성…SK반격속HBM4주도권경쟁",
-  "코스피,5.28%급락해5383선…양시장매도사이드카",
   "\"D랩호황은물량아닌가격주도슈퍼사이클\"",
   "코스닥'털썩'...알테오젠·리가켐바이오·메지온은'급등'",
   "김용태GA협회장\"보험판매전문회사도입해법적규율체계마련해야\"",
@@ -6001,7 +5989,19 @@
   "금(금값,금시세)11월6일,뉴욕증시'폭락'속흐름은?",
   "크립토랩,동형암호기반DB보안솔루션'헤라클레스'출시",
   "KT,부산불꽃축제통신망특별관리…임시기지국19곳·CCTV15대지원",
-  "잇단냉장시설사이버공격…美도\"해킹대비\"경계령"
+  "잇단냉장시설사이버공격…美도\"해킹대비\"경계령",
+  "아정당,ISMS이어양자내성암호인증도입",
+  "카카오,자체멀티모달모델공개…\"GPT-6루나보다43배빨라\"",
+  "루닛,의료특화AI파운데이션모델'러닝유닛2.0'공개",
+  "카카오,글·사진함께읽는AI의사결정모델공개…상품분류·검색에...",
+  "불과3분만에5000선붕괴…8%대폭락에서킷브레이커발동[투자360]",
+  "9개월만에무너진5000선…'미국발AI공포'삼전닉스두자릿수급락",
+  "[마켓펄스]\"9개월만에5000포인트증발\"...AI버블공포에삼전닉스'급...",
+  "'美AI쇼크'삼전8%·닉스10%↓…장비·부품주도급락[핫종목]",
+  "\"장열리자마자와르르\"코스피5000선깨져…서킷브레이커도발동[뉴...",
+  "KT,부산불꽃축제통신대책가동…임시기지국19곳·무선CCTV지원",
+  "KT,부산불꽃축제특별대책…5GSA활용",
+  "오픈AI,기업용AI사업으로성장축이동…2027년증시입성가능성시사"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,13 @@
   [
    "2026-11-06T09:56:19.482738+09:00",
    "대비 경계령 냉장시설 잇단 사이버 공격"
+  ],
+  [
+   "2026-11-06T09:58:15.382276+09:00",
+   "이동 가능성 시사 사업으로 성장축 증시 2027년 입성 기업용"
   ]
  ],
- "last_run": "2026-11-06T09:56:39.131768+09:00",
+ "last_run": "2026-11-06T09:58:34.918131+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
