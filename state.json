@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12326727?influxDiv=NAVER",
-  "https://www.ppss.kr/news/articleView.html?idxno=319004",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/05/2026110580054.html",
-  "https://news.cpbc.co.kr/article/1176853?division=NAVER",
-  "http://coinreaders.com/267830",
-  "https://jtv.co.kr/news/article.php?id=71972",
-  "https://www.mk.co.kr/article/12199055",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=880435",
   "https://it.donga.com/109847/",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=880436",
   "http://www.ujeil.com/news/articleView.html?idxno=394777",
@@ -2999,17 +2991,17 @@
   "https://www.hidomin.com/news/articleView.html?idxno=728253",
   "https://economist.co.kr/article/view/ecn202611060022",
   "https://www.newspim.com/news/view/20261106000754",
-  "https://www.insight.co.kr/news/580918"
+  "https://www.insight.co.kr/news/580918",
+  "https://www.hankyung.com/article/202611060782O",
+  "https://www.dt.co.kr/article/12093586",
+  "https://www.news1.kr/realestate/general/6345573",
+  "https://www.techm.kr/news/articleView.html?idxno=157009",
+  "https://www.nocutnews.co.kr/news/6603270",
+  "https://www.dt.co.kr/article/12093587",
+  "https://www.hankookilbo.com/news/article/A2026110614010000792?did=NA",
+  "https://www.yna.co.kr/view/PYH20261106094500017?input=1196m"
  ],
  "seen_titles": [
-  "\"이만큼돈안쓰면,못따라간다\"…서울대간최태원SK회장",
-  "'대구로'해킹에점주계좌번호2.5만개노출",
-  "느린발로KBO첫3루타→주춤하다치명적주루사·실책→'발야구'로결...",
-  "'AI깐부'1년,삼성·SK날때현대차는제자리…정의선의자율주행리...",
-  "씨앤엠,45년모터기술로‘로봇관절’시장공략…피지컬AI핵심부품...",
-  "[시사천국]공짜부터AI구독까지…소비자는정말이득일까",
-  "美민주당의회장악에도리플CEO자신감…\"암호화폐이용자6,700만명...",
-  "'선거구민인척'여론조사허위응답···167명송치",
   "전화한통에롯데타워모델링‘뚝딱’…가장똑똑하고비싼AI비서‘...",
   "스포츠토토,8일올림픽데이런서투표권무료체험행사",
   "[위클리_피지컬AI]이기종산업용이동로봇상호운용성국제표준발표...",
@@ -6001,21 +5993,17 @@
   "쿠팡과징금6000억중2000억효력정지…\"회복어려운손해우려\"",
   "쿠팡,'2000억과징금'철퇴피했다…법원\"회복하기어려운손해\"",
   "法,'이용자활동기록무단수집'쿠팡과징금2011억원집행정지인용",
-  "안재욱,최태원·정의선·구광모틈에앉은사연...\"가시방석\""
+  "안재욱,최태원·정의선·구광모틈에앉은사연...\"가시방석\"",
+  "몰로코,연례컨퍼런스'몰로콘26'개최…AI기반오픈인터넷성장전...",
+  "‘AI투매쇼크’에상장먹구름…앤트로픽,1.5조→1조달러로몸값낮...",
+  "장동현물러난SK에코플랜트…IPO접고김영식원톱'반도체'집중",
+  "\"올해는로컬에이전트의해\"...엔비디아고가AIPC누가쓰나했더니",
+  "법원,'개인정보무단수집'쿠팡2천억대과징금효력정지",
+  "법원,쿠팡‘개인정보무단수집’2000억대과징금효력정지",
+  "법원,쿠팡'개인정보무단수집'과징금2,011억효력정지",
+  "발표하는제프옌엔비디아APAC테크니컬마케팅디렉터"
  ],
  "recent_sigs": [
-  [
-   "2026-11-06T08:26:14.914683+09:00",
-   "활용 대화 라이프밸 평가 수준 과거 공개 충족률"
-  ],
-  [
-   "2026-11-06T08:26:14.914683+09:00",
-   "장세 투자 우려감 급브레이크 반도체 공포"
-  ],
-  [
-   "2026-11-06T08:26:14.914683+09:00",
-   "중앙화 해킹은 역설 바이낸스 단일 실패점 없애려던"
-  ],
   [
    "2026-11-06T08:30:30.609855+09:00",
    "팀메이트 슬랙 에이전트 지원 연동 공개"
@@ -6735,9 +6723,17 @@
   [
    "2026-11-06T14:24:18.643137+09:00",
    "공개 젠슨 훈련법 로봇에 노트북서 돌렸다 축구"
+  ],
+  [
+   "2026-11-06T14:26:15.375609+09:00",
+   "PC 고가 올해는 누가 로컬 에이전트의 했더니 쓰나"
+  ],
+  [
+   "2026-11-06T14:26:15.375609+09:00",
+   "발표하는 테크니컬 디렉터 마케팅 APAC 제프"
   ]
  ],
- "last_run": "2026-11-06T14:24:39.650515+09:00",
+ "last_run": "2026-11-06T14:26:42.337498+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
