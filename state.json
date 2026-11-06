@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261105_0003856921",
-  "http://www.iminju.net/news/articleView.html?idxno=172028",
-  "https://www.newsis.com/view/NISI20261105_0021521046",
-  "https://www.newsis.com/view/NISI20261105_0021521049",
-  "https://www.newsis.com/view/NISI20261105_0021521043",
-  "https://www.newsis.com/view/NISI20261105_0021521045",
-  "https://www.newsis.com/view/NISI20261105_0021521047",
   "https://www.newsis.com/view/NISI20261105_0021521044",
   "https://www.newsis.com/view/NISI20261105_0021521050",
   "https://www.newsis.com/view/NISI20261105_0021521042",
@@ -2999,16 +2992,16 @@
   "https://weekly.hankooki.com/news/articleView.html?idxno=7192561",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705826",
   "https://www.khan.co.kr/article/202611061055001",
-  "https://www.boannews.com/news/articleView.html?idxno=147055"
+  "https://www.boannews.com/news/articleView.html?idxno=147055",
+  "http://www.ikld.kr/news/articleView.html?idxno=343618",
+  "https://www.edaily.co.kr/News/Read?newsId=04388646645643096&mediaCodeNo=257",
+  "https://www.slist.kr/news/articleView.html?idxno=779569",
+  "https://www.newscj.com/news/articleView.html?idxno=3446478",
+  "https://www.polinews.co.kr/news/articleView.html?idxno=747851",
+  "https://www.ajunews.com/view/20261106103043132",
+  "https://www.enetnews.co.kr/news/articleView.html?idxno=56065"
  ],
  "seen_titles": [
-  "\"엔비디아심기거스를라\"...오픈AI도중국칩수출규제에발언자제",
-  "오픈AI,전미육군장관영입...미군AI도입확대에국방사업강화",
-  "[데일리픽]비트코인美중간선거영향은…테슬라사이버캡국내첫전...",
-  "오픈AI,전미육군장관영입…美국가안보·사이버보안강화나선다",
-  "오픈AI,UAE석유·정부·투자업무에AI에이전트도입…4건협약",
-  "일론머스크\"모두에게램필요하다\"…샘알트먼발언공개저격",
-  "오픈AI,UAE에너지·정부·투자분야뚫었다…중동사업확장본격화",
   "머스크“사람도RAM가질권리”…알트먼발언에반박",
   "\"일반인도RAM가질권리있다\"일론머스크,'샘알트먼'저격",
   "AI가흔든수학계…샘알트먼\"아직공개안한성과남아있다\"",
@@ -6001,7 +5994,14 @@
   "교보교육재단,'AI윤리캠프'운영…가치판단토론",
   "미국의회,젠슨황에“‘중국간첩의혹’여성과의관계설명하라”",
   "보안구멍찾고해킹재현…오픈AI,사이버보안신모델공개",
-  "30시간만에루트공격코드948개...오픈AI,AI로리눅스커널결함찾..."
+  "30시간만에루트공격코드948개...오픈AI,AI로리눅스커널결함찾...",
+  "인천교통공사,5G와이파이도입기념시민참여이벤트",
+  "차이커뮤니케이션,제2회대학생AI광고공모전시상식개최",
+  "앤트로픽,기술주급락에기업가치'흔들'...상장전략재검토",
+  "美'블루쓰나미'에휩쓸린韓증시…코스피5000선붕괴(종합)",
+  "최태원SK회장,지분9440억원규모매각…재산분할판결액과동일",
+  "[종합]'발등에불'오픈AI·구글,데이터센터반대여론불식총력…비...",
+  "투스텝스어헤드,레딧·샤오홍슈마케팅계약체결···'분석부터판매..."
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,13 @@
   [
    "2026-11-06T10:58:14.999140+09:00",
    "구멍 찾고 사이버보안 신모델 재현 보안 공개"
+  ],
+  [
+   "2026-11-06T11:00:38.669468+09:00",
+   "투스텝스어헤드 체결 판매 마케팅 샤오홍슈 레딧 계약 분석부터"
   ]
  ],
- "last_run": "2026-11-06T10:58:36.061944+09:00",
+ "last_run": "2026-11-06T11:00:59.597259+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
