@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kizmom.com/news/articleView.html?idxno=113786",
-  "http://www.4th.kr/news/articleView.html?idxno=2121272",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=361970",
-  "https://www.segye.com/newsView/20261105515893?OutUrl=naver",
-  "https://www.wikitree.co.kr/articles/1172249",
-  "https://news.jtbc.co.kr/article/NB12326686?influxDiv=NAVER",
-  "https://www.newstnt.com/news/articleView.html?idxno=727003",
-  "https://www.segye.com/newsView/20261105515892?OutUrl=naver",
   "http://www.yonhapnewstv.co.kr/news/MYH20261105201152uPB",
   "https://biz.chosun.com/industry/company/2026/11/05/EG5OOJQ6QZBBZC5HDGRIDELNSA/",
   "https://biz.sbs.co.kr/article_hub/20000344604?division=NAVER",
@@ -2999,17 +2991,17 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=325431",
   "https://ilyo.co.kr/?ac=article_view&entry_id=513479",
   "https://www.dailysecu.com/news/articleView.html?idxno=209339",
-  "https://www.sedaily.com/article/20111145"
+  "https://www.sedaily.com/article/20111145",
+  "https://news.jtbc.co.kr/article/NB12326822?influxDiv=NAVER",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3744376",
+  "https://www.dt.co.kr/article/12093579",
+  "https://www.thisisgame.com/articles/432281",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834036&plink=ORI&cooper=NAVER",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=228942",
+  "https://www.hani.co.kr/arti/economy/it/1286114.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008834007&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "최태원,규제피해성장멈추는기업지적...'성장인센티브'개편제안",
-  "“너때문에울고웃는다!”가을야구에잠못드는대구시민들",
-  "삼성전자·SK하이닉스급락에…최태원\"너무많이오른만큼빠지기도\"",
-  "최태원\"AI투자,베팅하지않으면경쟁에서뒤처진다\"",
-  "LG,AI로산업현장안전관리혁신…위험감지부터설비제어까지",
-  "[스포츠브리핑]반효진·박하준,사격선수권10m혼성銅외",
-  "해커는왜훔친토큰을가장먼저ETH로바꿀까…동결불가능한자산과...",
-  "[단독]다크웹에선\"한국여권150장팝니다\"사본고스란히'노출'",
   "LG,AI로안전관리혁신한다…'LGSHEC'서15건AI적용사례공유",
   "“우승확률89%잡아라”…어깨무거운秋男들",
   "'대구로'점주계좌2만5천개노출…늑장통보논란",
@@ -6001,7 +5993,15 @@
   "美민주당발AI데이터센터규제'먹구름'…빅테크는우주로눈돌리나...",
   "공화당내부에서도거리두기…중간선거참패트럼프,레임덕넘어데드...",
   "오픈AI,해킹취약점찾아내는'GPT-6Cyber'공개,공격재현성공률48...",
-  "해킹피해웰컴저축銀,뒤늦게ISMS-P취득"
+  "해킹피해웰컴저축銀,뒤늦게ISMS-P취득",
+  "북한'자금세탁블랙리스트'유지에반발…“미국,우리를악마화”",
+  "유성국화축제,직원들이빚은77개조형물'입소문'…3주여정마무리",
+  "몰로코,서울서‘몰로콘26’성황리개최…AI기반오픈인터넷성장...",
+  "128GB메모리·1페타플롭AI,RTX스파크노트북체험현장",
+  "유럽이어미국도\"냉장·냉동시설사이버공격위험\"",
+  "쿠팡-공정위,'자료제출명령'효력정지공방",
+  "미데이터센터반대민심에‘수습’나선오픈AI…“전력비용회사가...",
+  "사라진150억원어치엔비디아칩…트럭도난수사중"
  ],
  "recent_sigs": [
   [
@@ -6697,7 +6697,7 @@
    "뒤늦게 취득 ISMS 웰컴저축 피해"
   ]
  ],
- "last_run": "2026-11-06T13:52:35.760225+09:00",
+ "last_run": "2026-11-06T13:54:33.084844+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
