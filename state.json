@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://econotimes.com/CNAS-Urges-Safeguards-for-Hypothetical-Self-Sustaining-AI-Agents-1770983",
-  "https://econotimes.com/OpenAI-Product-Lead-Says-ChatGPT-Search-Volume-Is-One-Fifth-of-Google-s-1770916",
-  "https://www.tokenpost.kr/news/ai/432813",
-  "https://www.tokenpost.kr/news/breaking/432775",
   "https://www.venturesquare.net/1125664/",
   "https://www.tokenpost.kr/news/ai/432653",
   "https://econotimes.com/OpenAI-Highlights-Voice-Conversations-in-Finances-in-ChatGPT-1770634",
@@ -2999,13 +2995,13 @@
   "https://www.huffingtonpost.kr/article/261868",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/06/2026110690180.html",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443514",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=624143"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=624143",
+  "https://www.mediawatch.kr/news/article.html?no=261653",
+  "https://biz.sbs.co.kr/article_hub/20000344796?division=NAVER",
+  "https://www.aitimes.com/news/articleView.html?idxno=217103",
+  "https://biz.sbs.co.kr/article_hub/20000344797?division=NAVER"
  ],
  "seen_titles": [
-  "코딩AI도구인수한메타,클라우드20일종료",
-  "300달러→200달러…애플,일부엔지니어AI예산상한낮춰",
-  "CNASUrgesSafeguardsforHypotheticalSelf-SustainingAIAgents",
-  "OpenAIProductLeadSaysChatGPTSearchVolumeIsOne-FifthofGoogle’",
   "GPT-5.6사이버,미정부클라우드로제공확대",
   "오픈AI,피에르인수·코드저장기능코덱스통합추진",
   "제주창조경제혁신센터,JOIN2026서일본진출·AI혁신논의…21개국청...",
@@ -6001,7 +5997,11 @@
   "'독서소멸'시대에KT밀리의서재매출은올해1000억넘본다:통신3사...",
   "\"최태원동거인은중국간첩\"주장한50대유튜버,항소심도벌금형",
   "[월가톡톡]챗GPT평판도돈으로산다…억만장자들이찾는Z세대",
-  "미하원위원장3명,젠슨황엔비디아CEO에18일비공개브리핑요청…..."
+  "미하원위원장3명,젠슨황엔비디아CEO에18일비공개브리핑요청…...",
+  "[미디어이슈]“트라우마에반발여론”中코로나19영화또개봉무산...",
+  "20만전자·120만닉스깨졌다…'검은금요일'장중5천피붕괴",
+  "문샷AI,엔비디아블랙웰확보위해유럽으로눈돌려...8000개GPU임대...",
+  "쿠팡과징금엇갈린결정…2천억은멈추고4천억은유지"
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,13 @@
   [
    "2026-11-06T15:38:23.073885+09:00",
    "비공개 3명 CEO에 위원장 브리핑 젠슨 18일 요청 하원"
+  ],
+  [
+   "2026-11-06T15:40:24.842174+09:00",
+   "GPU 임대 돌려 문샷AI 유럽으로 확보 8000개 블랙웰"
   ]
  ],
- "last_run": "2026-11-06T15:38:46.252529+09:00",
+ "last_run": "2026-11-06T15:40:46.349730+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
