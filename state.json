@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20261105_0021520787",
-  "https://www.newsis.com/view/NISI20261105_0021520783",
-  "https://www.newsis.com/view/NISI20261105_0021520785",
-  "https://www.newsis.com/view/NISI20261105_0021520781",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000344",
-  "https://www.kbsm.net/news/view.php?idx=540611",
-  "https://www.yna.co.kr/view/AKR20261105051252053?input=1195m",
-  "https://imnews.imbc.com/news/2026/politics/article/6863422_36911.html",
-  "https://www.factin.co.kr/news/articleView.html?idxno=7324",
-  "https://www.newsis.com/view/NISI20261105_0021520780",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080245",
   "https://www.ddaily.co.kr/page/view/2026110515145762850",
   "https://www.itdaily.kr/news/articleView.html?idxno=242721",
@@ -2999,19 +2989,19 @@
   "https://www.etoday.co.kr/news/view/2644899",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713212",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713214",
-  "https://www.seoulfn.com/news/articleView.html?idxno=641974"
+  "https://www.seoulfn.com/news/articleView.html?idxno=641974",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3743945",
+  "https://www.edaily.co.kr/News/Read?newsId=03532566645643096&mediaCodeNo=257",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488846",
+  "https://www.kmib.co.kr/article/20261106500049",
+  "https://www.womentimes.co.kr/news/articleView.html?idxno=107657",
+  "https://view.asiae.co.kr/article/2026110606200495432",
+  "https://www.mk.co.kr/article/12198379",
+  "https://www.news2day.co.kr/article/20261106500049",
+  "https://www.cstimes.com/news/articleView.html?idxno=726904",
+  "https://www.nspna.com/en/news/?newsid=834883"
  ],
  "seen_titles": [
-  "IBK투자증권,LG유플러스목표가2만2000원상향...AIDC성장기대",
-  "메타\"美밖에데이터센터지어야하나\"…오픈AI도민주당압승에고심",
-  "바이낸스發해킹에스테이블코인'불똥'…\"美국채매도영향미미\"",
-  "'또8회1사'박영현연이틀5아웃괴력투→이강철독한승부수\"안쓰고...",
-  "[스포츠머그]천당과지옥을왔다갔다…한국시리즈연장12회혈투속...",
-  "中CIIE에글로벌500대·업계선도기업300여곳집결…역대최대",
-  "미민주당의회장악에빅테크웃고반도체울었다",
-  "삼성전자,3개월만에장중'20만전자'붕괴…8%급락[핫종목]",
-  "KT,서울대와‘융합보안계약학과’만든다…내년3월개강",
-  "[유미's픽]\"그룹AI전략이끈다\"…대기업SICEO,실적·신사업성과...",
   "카카오,AI서비스4종선보인다…광고·커머스연계로수익화추진",
   "아기사자가왜이리기특해,삼성을웃게한배찬승의'배짱투'",
   "[美중간선거]대만국방장관\"미의회초당적지지…무기판매지속노력...",
@@ -6001,7 +5991,17 @@
   "KT,부산불꽃축제통신망보강…5G기술로인파안전관제지원",
   "中문샷AI,엔비디아블랙웰8000개임대논의…美수출통제피해유럽으...",
   "병원해킹막는다…日,의료사이버보안예산'137배'확대추진",
-  "[산업계해킹비상④]플랫폼몸집커졌지만보안은허점···유통업계..."
+  "[산업계해킹비상④]플랫폼몸집커졌지만보안은허점···유통업계...",
+  "'10조투자유치'목표내건하남시,기업120명앞에서미래비전제시",
+  "[마켓인]TPG,롯데렌탈잔여지분공개매수…자진상장폐지추진",
+  "영상통화시대열고23년만에퇴장···굿바이'3G'",
+  "6800억원규모데이터센터대출채권,하룻밤새매물로",
+  "대전'사이언스컬처센터'청사진나왔다…1만1928㎡·626억원규모",
+  "파라다이스그룹에AI업무혁신바람…10개계열사챗GPT활용",
+  "GIF애니메이션도만든다...오픈AI,‘이미지2.6’공개",
+  "\"美반도체주12%폭락…코스피하락출발·변동성확대전망\"<키움證>",
+  "삼전닉스,美'블루쓰나미'에직격탄…반도체투톱동반'털썩'",
+  "KTandSamsungElectronicsCutHigh-SpeedRailNetworkDisruptionsby"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,13 @@
   [
    "2026-11-06T09:04:16.238494+09:00",
    "커졌지만 허점 몸집 플랫폼 유통업계 보안은"
+  ],
+  [
+   "2026-11-06T09:06:15.318206+09:00",
+   "~KT Disruptions Rail Speed Network by and Cut Electronics Samsung High"
   ]
  ],
- "last_run": "2026-11-06T09:04:42.581226+09:00",
+ "last_run": "2026-11-06T09:06:37.214893+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
