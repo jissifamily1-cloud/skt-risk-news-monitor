@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koit.co.kr/news/articleView.html?idxno=209790",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000261",
-  "https://www.yna.co.kr/view/AKR20261104152500017?input=1195m",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=138965",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4116758",
-  "https://news.bizwatch.co.kr/article/mobile/2026/11/04/0034",
-  "https://www.etnews.com/20261104000416",
   "https://www.mediapen.com/news/view/1135180",
   "http://www.efnews.co.kr/news/articleView.html?idxno=133730",
   "https://www.ekn.kr/web/view.php?key=20261104026065351",
@@ -2999,16 +2992,16 @@
   "http://www.inews24.com/view/2023496",
   "https://www.aitimes.com/news/articleView.html?idxno=217099",
   "https://www.newsis.com/view/NISX20261106_0003858043",
-  "https://zdnet.co.kr/view/?no=20261106143622"
+  "https://zdnet.co.kr/view/?no=20261106143622",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3744436",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5041928",
+  "https://www.inven.co.kr/webzine/news/?news=323085",
+  "https://www.dailian.co.kr/news/view/1711791/?sc=Naver",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443505",
+  "https://www.joongang.co.kr/article/25476367",
+  "https://www.sedaily.com/article/20111173"
  ],
  "seen_titles": [
-  "SKT\"AI'토큰팩토리'준비...AIDC,선고객후투자\"(종합)",
-  "SKT,데이터센터318MW이상확대추진…AI사업구조재편",
-  "해저케이블생존성강화…국제통신망다변화모색",
-  "NIA,해저케이블안정성점검…통신망다변화논의",
-  "AI·클라우드뒷받침할해저케이블…NIA,부산현장점검",
-  "SK텔레콤,3분기영업이익5523억원…통신회복·AI데이터센터확대",
-  "[포토뉴스]김형철NIA원장,SK브로드밴드해저케이블육양국방문",
   "SKT,3분기영업익5523억원…전년比11배성장",
   "김형철NIA원장,SKB부산육양국방문…해저케이블운영현황점검",
   "SKT,3분기영업이익5523억원…통신회복·AI사업확대",
@@ -6001,7 +5994,14 @@
   "엔비디아\"인터넷없는섬에서도다이빙영상편집\"…'RTX스파크'자신...",
   "미하원,젠슨황의회비공개브리핑요청...중국여성사업가와의관...",
   "\"최태원동거인中간첩\"발언한배터리아저씨,2심도벌금형",
-  "방미통위사칭해유튜버속이는사기메일주의하세요"
+  "방미통위사칭해유튜버속이는사기메일주의하세요",
+  "대구시달서구청,달서평생대학올해105명수료...4년간336명배출",
+  "'100일의거짓말'이무생,짙어지는순애보",
+  "\"로컬에이전트부터DLSS5게임까지\"엔비디아'RTX스파크'의가능성",
+  "엔비디아9%급락에젠슨황자산22조증발...세계10대부자탈락",
+  "엔비디아\"SK·삼성과메모리협력지속\"…RTX스파크공급망은비공개",
+  "젠슨황술자리옆에앉았던여성,中간첩의혹…美의회해명요구",
+  "법원,‘개인정보무단수집’쿠팡2000억과징금효력정지"
  ],
  "recent_sigs": [
   [
@@ -6745,7 +6745,7 @@
    "사칭해 속이는 사기메일 주의하세요 유튜버"
   ]
  ],
- "last_run": "2026-11-06T14:38:40.802981+09:00",
+ "last_run": "2026-11-06T14:40:38.762478+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
