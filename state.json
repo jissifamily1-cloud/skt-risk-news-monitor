@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=06143446645642768&mediaCodeNo=257",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611050152&t=NN",
-  "https://www.econovill.com/news/articleView.html?idxno=756184",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1542780",
-  "https://www.the-today.com/news/articleView.html?idxno=93113",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3743407",
-  "https://www.joongangenews.com/news/articleView.html?idxno=561559",
-  "https://www.kado.net/news/articleView.html?idxno=2082911",
-  "https://news.dealsitetv.com/articles/178120",
   "https://www.getnews.co.kr/news/articleView.html?idxno=886169",
   "http://www.newstomato.com/ReadNews.aspx?no=1319404&inflow=N",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=46065",
@@ -2999,18 +2990,18 @@
   "https://www.newstnt.com/news/articleView.html?idxno=727046",
   "https://www.news1.kr/it-science/internet-platform/6345078",
   "https://www.hankyung.com/article/2026110600727",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501532"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=501532",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=623174",
+  "https://www.kukinews.com/article/view/kuk202611060032",
+  "https://news.bizwatch.co.kr/article/market/2026/11/06/0005",
+  "https://www.yna.co.kr/view/AKR20261106047600055?input=1195m",
+  "https://biz.sbs.co.kr/article_hub/20000344668?division=NAVER",
+  "https://www.nc.press/news/articleView.html?idxno=630304",
+  "http://www.wsobi.com/news/articleView.html?idxno=321177",
+  "https://www.news1.kr/it-science/cc-newmedia/6345101",
+  "https://www.cstimes.com/news/articleView.html?idxno=726914"
  ],
  "seen_titles": [
-  "[기업동향]SK텔레콤,청소년AI윤리교육…삼성전자,다카르올림픽영...",
-  "로봇의두뇌,통신망으로옮긴다…통신사수익화해법은'엣지AI'",
-  "韓투수왕국비상사태!제2의오승환말고믿을요원이없다…ERA9.43충...",
-  "금융권580곳'보안전수점검'…중대취약점땐해당서비스중단",
-  "'블루쓰나미'직격탄맞은韓증시…코스피한때6%밀렸다",
-  "반도체주덮친美선거후폭풍…코스피5400선붕괴[마감시황]",
-  "사람닮은로봇도증시간다…애질리티,美첫휴머노이드상장사도전",
-  "블루웨이브쇼크'검은목요일'…데이터센터규제우려에증시급락(종...",
-  "게임·보안프로그램이악성코드유포통로로…“실행중검증·단계적...",
   "두나무,국회입법박람회서가상자산상속재산보호제도개선제안",
   "비트코인10%조정은건전한리셋?…글래스노드\"과열털고반등준비\"",
   "[포토]KT,아시아AI대상'부총리겸과기부장관상'수상",
@@ -6001,7 +5992,16 @@
   "KT,제21회부산불꽃축제특별통신대책가동…5G·LTE망보강하고안전...",
   "오픈AI보안특화모델'GPT-6사이버'공개…취약점검증48.5%",
   "\"냉동고50도로치솟았다\"…유럽덮친해킹에미국도비상",
-  "AI가부른'해킹의대중화'…랜섬웨어90%집중된중견기업,범용AI맹신..."
+  "AI가부른'해킹의대중화'…랜섬웨어90%집중된중견기업,범용AI맹신...",
+  "최태원,SK하이닉스美AI투자이끈다…최대100억달러출자",
+  "에이블리,가을옷수요에10월거래액역대최대…입점쇼핑몰도성장",
+  "코스피8%대폭락에개장직후서킷브레이커…5000선붕괴",
+  "식품진흥원,시스템관련업체와사이버위협대응'모의훈련'",
+  "미국도유럽도\"냉장·냉동시설사이버공격위험\"",
+  "광고붙인무료스트리밍·콘텐츠IP확장…OTT의다음전략은",
+  "SK그룹·SK인텔릭스,최태원회장서울대서'AI시대경제패러다임'특...",
+  "KT,부산불꽃축제통신혼잡대비…임시기지국19곳운영",
+  "AI로해킹막는다…금융권망분리규제전면개편"
  ],
  "recent_sigs": [
   [
@@ -6561,7 +6561,7 @@
    "중견기업 AI가 랜섬웨어 맹신 대중화 집중된 부른 범용 해킹의"
   ]
  ],
- "last_run": "2026-11-06T09:38:37.643550+09:00",
+ "last_run": "2026-11-06T09:40:42.272304+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
