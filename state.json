@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8199598",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261106010002295",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711848",
-  "https://www.sentv.co.kr/article/view/sentv202611050093",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247193",
-  "https://biz.chosun.com/industry/company/2026/11/05/WDUDHVXG6NAGTFI2WWPTURTAV4/",
-  "https://www.hankookilbo.com/news/article/A2026110517510004345?did=NA",
-  "https://biz.heraldcorp.com/article/10927628",
   "https://www.news1.kr/photos/8199600",
   "https://www.news1.kr/photos/8199599",
   "https://www.sedaily.com/article/20110872",
@@ -2999,17 +2991,17 @@
   "https://www.segye.com/newsView/20261106508003?OutUrl=naver",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=130672",
   "https://www.huffingtonpost.kr/article/261857",
-  "https://www.dailian.co.kr/news/view/1711740/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1711740/?sc=Naver",
+  "https://www.newsinside.kr/news/articleView.html?idxno=5041268",
+  "http://www.osen.co.kr/article/G1112905069",
+  "https://www.newstnt.com/news/articleView.html?idxno=727089",
+  "https://www.edaily.co.kr/News/Read?newsId=04496886645643096&mediaCodeNo=257",
+  "https://zdnet.co.kr/view/?no=20261106113829",
+  "https://www.raonnews.com/news/article.html?no=62543",
+  "https://www.betanews.net/article/view/beta202611060033",
+  "https://biz.sbs.co.kr/article_hub/20000344724?division=NAVER"
  ],
  "seen_titles": [
-  "왕이,북한김성남만나“북중관계심화”의지밝혀…당차원교류확...",
-  "메타독주AI안경,삼성도출격…'폰없이길안내'등승부수",
-  "신산업샛별찾았다…차량보안·AI의료금융등혁신두각",
-  "\"전통방식머문의료B2B결제에디지털혁신\"",
-  "美'블루쓰나미'에한국증시5%대폭락…외국인3.4조원투매,삼성·SK...",
-  "코스피5.28%급락5,383선마감...美민주당압승에반도체주‘직격탄...",
-  "장동현SK부회장경영일선서퇴진…최태원,SK㈜지분9440억매각",
-  "2.5배늘어난통신분쟁조정…피해구제강화나서",
   "서울대생들과기념촬영하는최태원SK그룹회장",
   "서울대생들과추억남기는최태원회장",
   "KT·서울대AI보안인재육성...융합보안계약학과신설협약",
@@ -6001,7 +5993,15 @@
   "금융당국“정보유출총37개사에서47만3000건…자금탈취10억원발생...",
   "[강대성의혁신수업]AI가만드는풍요사회,인간은무엇으로살아갈...",
   "엔비디아의첨단AI반도체60만개가홍콩에묶여있다:중국정부‘자...",
-  "최혁진“방발기금적자인데언중위지원왜계속하나”"
+  "최혁진“방발기금적자인데언중위지원왜계속하나”",
+  "최태원,SK주식9440억원어치매각…재산분할금마련",
+  "‘3주쉬었는데’1위팀부상주의보발령!손가락→고관절→발뒤꿈치...",
+  "[특징주]외국인,삼성전자순매도…기관,SK하이닉스·삼성중공업·한...",
+  "“트라우마남았나”코로나19다룬중국영화,또개봉무산?",
+  "공공SW,한번고르면10년…AI시대'갈아탈수있는구조'갖춰야",
+  "금융권해킹2차피해막으려면…’안심차단'걸고해제는영업점방문",
+  "파이어폭스취약점81건찾았다…오픈AI,보안특화'GPT-6사이버'공개",
+  "최태원,주가는출렁여도투자는'앞으로'"
  ],
  "recent_sigs": [
   [
@@ -6851,9 +6851,13 @@
   [
    "2026-11-06T11:42:14.420185+09:00",
    "최혁진 지원 방발기금 적자인데 언중위 계속하나"
+  ],
+  [
+   "2026-11-06T11:44:15.944907+09:00",
+   "출렁여도 주가는 투자는 앞으로"
   ]
  ],
- "last_run": "2026-11-06T11:42:38.244353+09:00",
+ "last_run": "2026-11-06T11:44:36.329503+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
