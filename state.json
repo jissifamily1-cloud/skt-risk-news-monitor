@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8201574",
-  "http://www.osen.co.kr/article/G1112905419",
-  "https://www.mydaily.co.kr/page/view/2026110619344469493",
-  "https://www.starnewskorea.com/sports/2026/11/06/2026110619342736767",
-  "https://isplus.com/article/view/isp202611060061",
-  "https://www.yna.co.kr/view/PYH20261106167400013?input=1196m",
   "https://www.news1.kr/photos/8201575",
   "https://www.news1.kr/photos/8201573",
   "https://www.mydaily.co.kr/page/view/2026110619334854522",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20261107000029",
   "http://game.dailyesports.com/view.php?ud=20261106192637360321ad998911_26",
   "https://www.aitimes.com/news/articleView.html?idxno=217119",
-  "https://www.gokorea.kr/news/articleView.html?idxno=884562"
+  "https://www.gokorea.kr/news/articleView.html?idxno=884562",
+  "http://www.financialreview.co.kr/news/articleView.html?idxno=46057",
+  "https://www.nocutnews.co.kr/news/6603546",
+  "https://zdnet.co.kr/view/?no=20261106174059",
+  "https://www.jemin.com/news/articleView.html?idxno=846388",
+  "https://www.hani.co.kr/arti/society/society_general/1286223.html",
+  "https://www.newspim.com/news/view/20261107000031"
  ],
  "seen_titles": [
-  "[사진]펜스충돌한안현민상태살피는힐리어드",
-  "내가바로구자욱",
-  "[사진]KT선발소형준,'안풀리는한국시리즈3차전'",
-  "[MD포토]구자욱,'3루에날아서들어간다!'",
-  "[포토]구자욱'사자왕의사자후'",
-  "\"들리십니까\"구자욱이싹쓸이하는소리,못달리는구자욱의3루타[KS...",
   "적시타친뒤달리는구자욱",
   "내가구자욱",
   "구자욱'역전이다'",
@@ -6001,7 +5995,13 @@
   "[헐크의일기]2026년한국시리즈를바라보며",
   "제프옌엔비디아디렉터\"'RTX스파크'로AI부터게임까지새로운경험...",
   "오픈AICFO\"중간선거결과와관계없이데이터센터투자계속할것\"",
-  "미래에셋증권해킹사건,3,800명고객정보유출파문"
+  "미래에셋증권해킹사건,3,800명고객정보유출파문",
+  "[오늘의키워드]카브아웃",
+  "삼성제국의흥망성쇠와이승엽의시구,역사적인물3명이모인아이러...",
+  "엔비디아,네이버에1.3조원납입…‘AI팩토리’물살",
+  "미래에셋증권,이틀연속외부공격에고객·임직원정보유출…총3만...",
+  "미래에셋증권도해킹당했다…고객·임직원3만9천명정보유출",
+  "[종합]미래에셋증권,그룹4번째해킹…피해확산차단등후속조치돌..."
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-11-07T10:02:17.453310+09:00",
    "발표한 대책 미래에셋 뚫렸다 증권사 금융당국"
+  ],
+  [
+   "2026-11-07T10:08:15.247564+09:00",
+   "후속조치 피해 확산 차단 미래에셋증권 4번째"
   ]
  ],
- "last_run": "2026-11-07T10:06:31.197226+09:00",
+ "last_run": "2026-11-07T10:08:36.376778+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
