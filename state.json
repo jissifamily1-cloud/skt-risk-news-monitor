@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20111260",
   "https://news.jtbc.co.kr/article/NB12326942?influxDiv=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8706577",
   "https://www.ddaily.co.kr/page/view/2026110707043683590",
@@ -2999,10 +2998,10 @@
   "https://www.news1.kr/sports/basketball/6346530",
   "https://m.sports.naver.com/basketball/article/065/0000304267",
   "https://www.khan.co.kr/article/202611070700031",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=325150"
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=325150",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229603"
  ],
  "seen_titles": [
-  "[美증시]반도체데이터센터공포'탈출'나스닥상승,다우금리우려...",
   "[글로벌마켓뷰]뉴욕증시반도체주반등에코스피한숨돌리나…AI규...",
   "2100조생존베팅최태원·日소부장결합이재용·튀르키예외교정의선...",
   "사진으로보는일주일[뉴시스Pic]",
@@ -6001,7 +6000,8 @@
   "'알바노4쿼터13점'DB,삼성의원정8연승저지",
   "[오늘의농구장여신]KT치어리더'오늘승리는KT'",
   "‘세금더내고,이름바꾸고’…성난데이터센터민심에빅테크백기...",
-  "강남구,구룡마을화재이재민97명숙식·구호물품지원"
+  "강남구,구룡마을화재이재민97명숙식·구호물품지원",
+  "미래에셋증권도정보유출…은행·생명·거래소까지전방위연쇄해킹"
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,13 @@
   [
    "2026-11-07T19:56:16.390051+09:00",
    "강남구 지원 이재민 숙식 구호물품 97명 구룡마을 화재"
+  ],
+  [
+   "2026-11-07T19:58:16.039718+09:00",
+   "전방위 생명 정보 은행 미래에셋증권도 거래소까지 유출 연쇄"
   ]
  ],
- "last_run": "2026-11-07T19:56:38.092347+09:00",
+ "last_run": "2026-11-07T19:58:35.815996+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
