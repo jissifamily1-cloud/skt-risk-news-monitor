@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443555",
-  "https://www.econovill.com/news/articleView.html?idxno=756263",
-  "https://www.socialvalue.kr/news/view/1065570565553746",
-  "http://www.breaknews.com/1248667",
   "https://www.mydaily.co.kr/page/view/2026110619203359675",
   "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018151",
   "https://www.mydaily.co.kr/page/view/2026110619103731831",
@@ -2999,13 +2995,13 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=285388",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443599",
   "https://www.busan.com/view/busan/view.php?code=2026110514400467679",
-  "https://www.newsis.com/view/NISX20261106_0003858425"
+  "https://www.newsis.com/view/NISX20261106_0003858425",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443600",
+  "https://www.seoulfn.com/news/articleView.html?idxno=642044",
+  "https://www.hani.co.kr/arti/economy/economy_general/1286215.html",
+  "https://www.seoulfn.com/news/articleView.html?idxno=641985"
  ],
  "seen_titles": [
-  "[포토S]조대현,'차분하게잡는다'",
-  "[亞증시-종합]'블루웨이브'AI충격에일제히급락",
-  "오픈AI보안특화GPT-6사이버공개\"파이어폭스취약점81건찾았다\"",
-  "도미노피자,하나은행과'나라사랑카드'캐시백프로모션실시…결제시...",
   "최태원,SK하이닉스미국AI투자법인이사회의장맡는다",
   "[MD포토]조대현,'첫타석부터안타'",
   "[포토S]강민호,'아쉽다'",
@@ -6001,7 +5997,11 @@
   "[종합]\"미래에셋증권도뚫렸다\"…3.9만명정보유출사고발생",
   "\"운용·보험넘어증권까지털렸다\"….미래에셋정보보호역량'시험대...",
   "북에서대박난직업이라는데…[논설위원의뉴스요리]",
-  "탈중앙화시대의중앙화된취약점…바이낸스가드러낸민낯"
+  "탈중앙화시대의중앙화된취약점…바이낸스가드러낸민낯",
+  "[뉴욕마켓워치]폭락뒤저가매수로한숨돌린증시…채권↓달러↑",
+  "美빅테크의존줄이는유럽···韓AI기업에기회와장벽",
+  "AI속도조절론…젠슨황과트럼프의동상이몽",
+  "[산업계해킹비상⑤]디지털전환에보안투자도확대···업종별보안..."
  ],
  "recent_sigs": [
   [
@@ -6319,9 +6319,21 @@
   [
    "2026-11-07T09:00:40.444536+09:00",
    "4곳 미래에셋 해킹에 계열사 도마 뚫려 보안관리"
+  ],
+  [
+   "2026-11-07T09:04:16.595493+09:00",
+   "의존 빅테크 기업에 줄이는 유럽 장벽 기회와"
+  ],
+  [
+   "2026-11-07T09:04:16.595493+09:00",
+   "동상이몽 트럼프의 젠슨 황과 속도조절론"
+  ],
+  [
+   "2026-11-07T09:04:16.595493+09:00",
+   "전환에 업종별 보안 디지털 투자도 확대"
   ]
  ],
- "last_run": "2026-11-07T09:02:33.216565+09:00",
+ "last_run": "2026-11-07T09:04:39.467732+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
