@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261030165800017?input=1195m",
-  "https://www.ajunews.com/view/20261030165751257",
-  "https://zdnet.co.kr/view/?no=20261030154118",
-  "https://www.mt.co.kr/tech/2026/10/30/2026103011454960096",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242566",
-  "https://www.yna.co.kr/view/AKR20261029162200017?input=1195m",
-  "https://www.boannews.com/news/articleView.html?idxno=146870",
-  "https://www.hankyung.com/article/202610281641i",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227455",
   "https://www.kukinews.com/article/view/kuk202610270242",
   "https://www.tokenpost.kr/news/policy/434403",
   "http://coinreaders.com/268250",
@@ -2999,18 +2990,18 @@
   "https://www.segye.com/newsView/20261104517798?OutUrl=naver",
   "https://www.ddaily.co.kr/page/view/2026110822545429367",
   "https://www.g-enews.com/view.php?ud=2026110908002366869a1f309431_1",
-  "https://www.socialvalue.kr/news/view/1065600112207356"
+  "https://www.socialvalue.kr/news/view/1065600112207356",
+  "https://www.etoday.co.kr/news/view/2645524",
+  "https://www.smarttoday.co.kr/ko-kr/articles/113445",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730475",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=368819",
+  "http://www.sisafocus.co.kr/news/articleView.html?idxno=367151",
+  "http://www.inews24.com/view/2022032",
+  "https://www.etnews.com/20261102000359",
+  "https://www.wikitree.co.kr/articles/1172935",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900022.html"
  ],
  "seen_titles": [
-  "이통사'우군'에서'경쟁자'로…스타링크의변신",
-  "[가보니]CCTV안봐도낙상위험감지…AI가돕는요양원",
-  "앱등이도등돌린'삼성VS애플'대전...아이폰듀오는'망작'?",
-  "삼성전자,가성비AI스마트폰'갤럭시A18LTE'국내출시",
-  "아이폰'크랙게이트'논란에갤폴드8반격...지원금10만원늘렸다",
-  "삼성전자,42만원대'갤럭시A18LTE'출시…AI·대화면갖춰",
-  "여야통신기록요구에이통3사'진퇴양난'…\"기준부터세워달라\"",
-  "소니네트워크커뮤니케이션즈해킹...258만고객개인정보유출",
-  "'인도최대IPO'지오플랫폼스,상장첫날21%폭등…시총176조원달해",
   "500개AI골라쓰고비용도줄인다…'AI종합쇼핑몰'첫선",
   "이통사공급도빠듯한아이폰듀오…무상교체차질없을까",
   "미민주당,상·하원다수당확보판정…새의회2027년1월출범",
@@ -6001,7 +5992,16 @@
   "이통사영업익‘5조시대’눈앞…新성장동력은AI",
   "[주간클라우드동향/11월②]AI투자늘리는MS,클라우드임차계약은...",
   "엔비디아이사회,中간첩의혹독립조사착수…국가안보위험점검",
-  "해킹·중대재해·신사업철수까지…잇단사건·사고에곤혹스런허윤홍..."
+  "해킹·중대재해·신사업철수까지…잇단사건·사고에곤혹스런허윤홍...",
+  "iM\"미중간선거블루스윕에AI인프라급락⋯통신주는방어주매력부...",
+  "방미통위,휴대폰우회개통조사…통신사들“관여유통점도제재”",
+  "[美권력재편⑥]이통사도AI·통신정책변화'예의주시'",
+  "'아이폰듀오'출시에도10월번호이동썰렁…연말도소강전망",
+  "\"AI경쟁핵심은토큰\"…이통3사,'토큰시장'공략본격화",
+  "SKT에이닷음성스팸신고'1300건'⋯KISA,\"이통사와협업음성스팸분...",
+  "KT도3G신규가입중단…23년만퇴장수순",
+  "중국내몽골갤럭시캠퍼스,첫120MW를1년만에인도…비용은미국의...",
+  "[속보]美반도체저가매수에4%반등…삼전닉스프리장1~2%↑"
  ],
  "recent_sigs": [
   [
@@ -6383,9 +6383,13 @@
   [
    "2026-11-09T08:08:15.634439+09:00",
    "허윤홍 신사업 철수까지 잇단 사건 사고에 중대재해 곤혹스런"
+  ],
+  [
+   "2026-11-09T08:10:28.234076+09:00",
+   "중간선거 통신주는 급락 매력 인프라 블루스윕에 방어주 iM"
   ]
  ],
- "last_run": "2026-11-09T08:08:38.424432+09:00",
+ "last_run": "2026-11-09T08:10:45.364026+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
