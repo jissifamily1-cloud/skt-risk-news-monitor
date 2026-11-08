@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsen.com/news_view.php?uid=202611081414135510",
-  "https://news.jtbc.co.kr/article/NB12327022?influxDiv=NAVER",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018529",
-  "http://www.osen.co.kr/article/G1112906348",
   "http://www.osen.co.kr/article/G1112906343",
   "https://www.sportsseoul.com/news/read/1648092",
   "https://www.sportsseoul.com/news/read/1648089",
@@ -2999,13 +2995,13 @@
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229678",
   "https://www.edaily.co.kr/News/Read?newsId=02332086645643752&mediaCodeNo=257",
   "https://www.sportsworldi.com/newsView/20261108510969",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338296"
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338296",
+  "http://www.osen.co.kr/article/G1112906926",
+  "https://www.mk.co.kr/article/12201938",
+  "https://isplus.com/article/view/isp202611080348",
+  "https://www.newstnt.com/news/articleView.html?idxno=727283"
  ],
  "seen_titles": [
-  "대니엘‘온힘을다해서’[포토]",
-  "‘젠지뉴욕으로간다’中IG3-0완파…2년연속‘4강악몽’끝냈다...",
-  "[사진]원태인,자신감넘치는세리머니",
-  "[포토S]원태인,'우승을향해던진다'",
   "[사진]벼랑끝KT한국시리즈5차전선발대니엘",
   "[포토]세븐틴에스쿱스,대구라팍찾아힘찬시구",
   "[포토]원태인,한국시리즈신중한투구",
@@ -6001,7 +5997,11 @@
   "11월8일MBN뉴스센터주요뉴스",
   "신인은선발,에이스는4이닝마무리…박진만이끝낸삼성의12년기다...",
   "투혼이낳은기적…삼성,14.3%확률뒤집고12년만에KS왕관썼다",
-  "SM엔터도개인정보유출…임직원정보·계약서정보등"
+  "SM엔터도개인정보유출…임직원정보·계약서정보등",
+  "“저도미국도전하겠습니다,진심입니다”데뷔첫우승→KSMVP,FA앞두...",
+  "“우리는팀삼성,라이온즈선수모두가MVP”…마침내KS우승과마주...",
+  "우승순간,페덱보다빨리강민호향했던원태인...\"혼자울고계셔서달...",
+  "LG유플러스수능시즌혜택확대…\"쿠폰5일간·IMAX행사전국으로\""
  ],
  "recent_sigs": [
   [
@@ -6443,9 +6443,13 @@
   [
    "2026-11-08T19:38:15.868472+09:00",
    "8일 11월 MBN 뉴스센터 주요뉴스"
+  ],
+  [
+   "2026-11-08T19:42:18.228412+09:00",
+   "행사 시즌 전국으로 확대 5일간 IMAX 쿠폰 혜택 LG유플러스 ~LGU 수능"
   ]
  ],
- "last_run": "2026-11-08T19:40:44.018083+09:00",
+ "last_run": "2026-11-08T19:42:39.965903+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
