@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/sports/baseball/6346904",
-  "https://en.yna.co.kr/view/AEN20261108003000315?input=2106m",
-  "https://www.newsis.com/view/NISI20261108_0021524908",
-  "https://www.starnewskorea.com/sports/2026/11/08/2026110817252524608",
-  "https://econotimes.com/OpenAI-Announces-Pipeline-to-Find-Exploit-and-Patch-Software-Flaws-1772812",
   "https://econotimes.com/JPMorgan-Plans-Internal-Use-of-OpenAI-Codex-and-Cybersecurity-Models-1772790",
   "http://www.celuvmedia.com/article.php?aid=1794126373530547006",
   "https://www.mt.co.kr/world/2026/11/08/2026110814432452479",
@@ -2999,14 +2994,14 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=67316",
   "https://www.smartbizn.com/news/articleView.html?idxno=158771",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611090019&t=NN",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=624576"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=624576",
+  "http://www.ccnnews.co.kr/news/articleView.html?idxno=417388",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1422906",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1422905",
+  "http://coinreaders.com/268416",
+  "https://www.kado.net/news/articleView.html?idxno=2083481"
  ],
  "seen_titles": [
-  "'왕조끝자락에서우승주장까지'구자욱,한국시리즈MVP[삼성V9]",
-  "'준우승'이강철감독\"벤치움직임늦었다…내판단아쉬워\"[KS]",
-  "Followingdominantregularseason,WizgooutwithwhimperinKoreanSe",
-  "우승꿈이룬삼성강민호",
-  "[포토]삼성라이온즈,9번째우승감동",
   "OpenAIAnnouncesPipelinetoFind,ExploitandPatchSoftwareFlaws",
   "JPMorganPlansInternalUseofOpenAICodexandCybersecurityModels",
   "SM엔터,주민번호·계좌번호등개인정보유출사과[전문]",
@@ -6001,7 +5996,12 @@
   "4대은행,내년정보보호예산'1천억시대'…신한2.8배증액",
   "\"아내에게불충실했다\"젠슨황,中스파이의혹에엔비디아'초비상'",
   "'시장걱정할때오히려좋다'는캐시우드도두려운것은[마켓무버의...",
-  "[AI트렌드]\"1년만에15배쑥\"…챗GPT독주속맹추격시작한대항마의..."
+  "[AI트렌드]\"1년만에15배쑥\"…챗GPT독주속맹추격시작한대항마의...",
+  "북부종합사회복지관,\"시한잔,차한잔에담긴따뜻한위로\"",
+  "추경호대구시장\"삼성우승축하…대구발전계기될것\"",
+  "김장호구미시장\"삼성우승축하…구미와함께더큰대박나길\"",
+  "비트코인ETF서12억8,000만달러증발…이더리움6주연속유출,기관투...",
+  "젠슨황,결국불륜인정하고사과…엔비디아조사착수"
  ],
  "recent_sigs": [
   [
@@ -6337,7 +6337,7 @@
    "1년 독주 15배 시작한 만에 챗GPT 맹추격 대항마의"
   ]
  ],
- "last_run": "2026-11-09T07:42:36.879661+09:00",
+ "last_run": "2026-11-09T07:44:31.000198+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
