@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20261108_0021524968",
-  "https://www.yna.co.kr/view/PYH20261108125600013?input=1196m",
-  "https://www.tfmedia.co.kr/news/article.html?no=208641",
-  "https://www.segye.com/newsView/20261104517798?OutUrl=naver",
-  "https://www.smarttoday.co.kr/ko-kr/articles/113445",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730475",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=368819",
   "http://www.sisafocus.co.kr/news/articleView.html?idxno=367151",
@@ -2999,14 +2994,14 @@
   "https://www.edaily.co.kr/News/Read?newsId=02072966645644080&mediaCodeNo=257",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=67321",
   "http://www.newstown.co.kr/news/articleView.html?idxno=721173",
-  "https://biz.heraldcorp.com/article/10929935"
+  "https://biz.heraldcorp.com/article/10929935",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=203059",
+  "https://www.newsis.com/view/NISI20261109_0002286205",
+  "https://www.yna.co.kr/view/AKR20261109015600005?input=1195m",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=81357",
+  "https://www.edaily.co.kr/News/Read?newsId=02086086645644080&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "삼성,한국시리즈우승'박진만감독헹가래'",
-  "삼성구자욱,민호형우승이야",
-  "우승트로피차지한'최강삼성'",
-  "스페이스X,스타링크이동통신사업본격화…퀄컴과5G망구축",
-  "이통사영업익‘5조시대’눈앞…新성장동력은AI",
   "방미통위,휴대폰우회개통조사…통신사들“관여유통점도제재”",
   "[美권력재편⑥]이통사도AI·통신정책변화'예의주시'",
   "'아이폰듀오'출시에도10월번호이동썰렁…연말도소강전망",
@@ -6001,7 +5996,12 @@
   "‘블루쓰나미’딛고나스닥반등,국장도충격파잦아드나[뉴스새벽배...",
   "[증시전망대]'5천피'턱걸이코스피,반발매수로버틸까…AI규제공포...",
   "오산시,AI사전교육연계한학생해커톤개최",
-  "SM도뚫렸다…하이브이어연예기획사전자결재망잇단해킹"
+  "SM도뚫렸다…하이브이어연예기획사전자결재망잇단해킹",
+  "[박수연칼럼]韓데이터센터,수요는꽉찼는데공급은막혔다…착공...",
+  "[그래픽]2026KBO한국시리즈결과",
+  "문체부,'노동자여가보장'여가친화기업·기관162곳선정",
+  "코스피·코스닥,전거래일(6일)주요공시",
+  "루비오美국무,젠슨황불륜알았다…트럼프방중전경고"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-11-09T08:04:15.708047+09:00",
    "연예기획사 잇단 전자결재망 SM도 이어 하이브 뚫렸다"
+  ],
+  [
+   "2026-11-09T08:06:16.330567+09:00",
+   "수요는 찼는데 막혔다 공급은 데이터센터 착공"
   ]
  ],
- "last_run": "2026-11-09T08:04:36.569615+09:00",
+ "last_run": "2026-11-09T08:06:40.250502+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
