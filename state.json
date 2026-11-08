@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.widedaily.com/news/articleView.html?idxno=303006",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443381",
-  "https://www.newsis.com/view/NISX20261104_0003854928",
-  "https://www.thelec.kr/news/articleView.html?idxno=64903",
-  "https://news.dealsitetv.com/articles/178055",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=304242",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6863040_37012.html",
-  "https://www.mk.co.kr/article/12195008",
-  "https://www.mt.co.kr/opinion/2026/11/04/2026110311250147299",
-  "https://www.newsis.com/view/NISX20261103_0003853449",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611030060&t=NNv",
   "https://www.g-enews.com/view.php?ud=202611040914216797923c501012_1",
   "https://www.joongboo.com/news/articleView.html?idxno=363741134",
@@ -2999,19 +2989,19 @@
   "https://www.tokenpost.kr/news/market/434330",
   "https://www.bloter.net/news/articleView.html?idxno=678026",
   "https://www.hankyung.com/article/202611093752i",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003040"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003040",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=91685",
+  "https://www.newspim.com/news/view/20261109000091",
+  "https://magazine.hankyung.com/business/article/202611058781b",
+  "https://www.hankyung.com/article/202611071913i",
+  "https://biz.sbs.co.kr/article_hub/20000344737?division=NAVER",
+  "https://www.greened.kr/news/articleView.html?idxno=354002",
+  "https://www.kmib.co.kr/article/20261109500036",
+  "https://www.namdonews.com/news/articleView.html?idxno=928554",
+  "https://www.jasm.co.kr/news/view/324619/?sc=Naver",
+  "https://news.tf.co.kr/read/world/2386180.htm"
  ],
  "seen_titles": [
-  "美중간선거민주당압승에도\"AI데이터센터규제가능성제한적\"",
-  "\"불확실성해소\"vs\"AI규제역풍\"…'블루웨이브'덮친증시,반등시점...",
-  "[블루쓰나미긴급진단]\"주도주전환기…반도체선행PBR1배분할매수유...",
-  "\"AI반도체없어서못판다더니\"…삼전닉스발목잡은'빅테크현금흐름...",
-  "앤트로픽,AI출력물의출처증명하는오픈소스기술공개",
-  "[컨콜][SKT]울산AIDC고객확보속도…글로벌사업자와협의중",
-  "\"앤트로픽IPO부터피지컬AI까지…SK텔레콤,2027년AI판뒤흔든다\"",
-  "중간선거결과앞두고뉴욕증시혼조세마감",
-  "매경이전하는세상의지식(매-세-지,11월4일)",
-  "'AI슬롭'문제해결할소버린AI[투데이窓/김헌식]",
   "현대차그룹,핵심R&D조직'외부생성형AI'사용일시중단…\"보안성...",
   "[단독]앤트로픽'잭팟'한투파…다음승부수는AI칩·휴머노이드",
   "NH-Amundi운용\"AI시장평가,현금창출력·AIforScience로이동\"",
@@ -6001,7 +5991,17 @@
   "3분기영업손실258%확대…테라울프매출51%증가",
   "美민주당,데이터센터규제강화예고…백악관\"AI인프라확충지속\"",
   "젠슨황불륜인정…엔비디아,중국스파이연루의혹독립조사",
-  "젠슨황엔비디아CEO,'중국스파이의혹'여성과불륜인정…이사회..."
+  "젠슨황엔비디아CEO,'중국스파이의혹'여성과불륜인정…이사회...",
+  "콘진원,'AI콘텐츠페스티벌2026'개최…창작체험·투자협력확대",
+  "[기고]보안의유통기한",
+  "[이상은의글로벌트렌드]\"美경제지표는서프라이즈,서민은핼러윈...",
+  "\"철도,마트,휴대폰까지다뚫렸다\"…개인정보유출어디까지[도쿄나...",
+  "'폭락증시'에엔트로픽상장도브레이크걸리나?",
+  "반도체주또폭락,지금팔아야하나...증권가\"단기악재,저가매수기...",
+  "TSMC,메모리사업넘보나…“D램생산계획착수…엔비디아요청”",
+  "젠슨황,중국정보기관연계의심여성과부적절한관계인정",
+  "TSMC,엔비디아요청에'메모리반도체'진출검토",
+  "젠슨황,'중국스파이의혹'인물과불륜시인…엔비디아,자체조사착..."
  ],
  "recent_sigs": [
   [
@@ -6405,7 +6405,7 @@
    "역대 들여 구입 발전기 6조원"
   ]
  ],
- "last_run": "2026-11-09T08:24:34.848419+09:00",
+ "last_run": "2026-11-09T08:26:33.731731+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
