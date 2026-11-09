@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.kr/news/articleView.html?idxno=42657",
-  "https://www.g-enews.com/view.php?ud=202611091708368703d7a510102_1",
-  "https://www.globalepic.co.kr/view.php?ud=2026110917233649587cc35ccc5c_29",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8707686",
-  "https://www.wikitree.co.kr/articles/1173146",
-  "https://www.ajunews.com/view/20261109171932414",
-  "https://www.wikitree.co.kr/articles/1173158",
   "https://www.tokenpost.kr/news/international/435099",
   "http://www.yonhapnewstv.co.kr/news/MYH20261109172719nqp",
   "http://www.ikoreanspirit.com/news/articleView.html?idxno=88157",
@@ -2999,16 +2992,16 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443864",
   "https://www.jemin.com/news/articleView.html?idxno=846671",
   "https://www.munhwa.com/article/11630085",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714034"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714034",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173047",
+  "https://kpenews.com/View.aspx?No=4304807",
+  "https://www.joongangenews.com/news/articleView.html?idxno=562487",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714036",
+  "http://weekly.chosun.com/news/articleView.html?idxno=56983",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443875",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443874"
  ],
  "seen_titles": [
-  "美민주당압승에…\"中AI추격기회\"전망나오지만",
-  "나스닥5.5%폭락후반등…AI투자거품우려는여전",
-  "엔비디아,젠슨황논란회피…공급협력질문에답변안해",
-  "\"가장선도적기업이가장오래된미인계에…\"젠슨황'불륜'에충격빠...",
-  "LGU+,한국어로대화하는AI만든다",
-  "국내클라우드·AI관련주분석…NHN·삼성에스디에스주목[이재상의파...",
-  "[프로야구]美매체\"삼성페덱,MLB복귀보다는삼성잔류가최선\"",
   "[동정]추경호대구광역시장",
   "노타,GPU4분의1로초거대AI구동…전력부담낮춘다",
   "\"AI시대개인정보보호,CPO·CEO함께결정해야\"...개인정보정책포럼...",
@@ -6001,7 +5994,14 @@
   "젠슨황집단소송과트럼프'종전긍정'등이시각주요뉴스",
   "구글AI인프라에AMD프로세서탑재…반도체시장서존재감키운다",
   "아빠불륜상대인지모르고…웃으며사진찍어준젠슨황딸",
-  "젠슨황논란에칼빼든고래…엔비디아10배레버리지'숏'풀베팅"
+  "젠슨황논란에칼빼든고래…엔비디아10배레버리지'숏'풀베팅",
+  "머스크의반도체승부수...테라팹,6년내월100만장생산?",
+  "NHN,결제·클라우드쌍끌이..3분기영업이익112.6%증가",
+  "젠슨황스캔들에트럼프도시험대...안보판단도마위로",
+  "\"중국은적아니다\"외쳤던젠슨황망신살…과거대중국발언재조명",
+  "젠슨황감싼트럼프\"中간첩인줄몰랐다더라...고통받고있어\"",
+  "\"젠슨황물러나도엔비디아이끌인재많다\"",
+  "\"엔비디아,중국직간접매출470억달러\"…美정부규제리스크"
  ],
  "recent_sigs": [
   [
@@ -6651,9 +6651,17 @@
   [
    "2026-11-10T08:50:25.220600+09:00",
    "빼든 10배 젠슨 레버리지 고래 풀베팅 논란에"
+  ],
+  [
+   "2026-11-10T08:52:16.048466+09:00",
+   "직간접 리스크 470억달러 중국 정부 매출 규제"
+  ],
+  [
+   "2026-11-10T08:52:16.048466+09:00",
+   "물러나도 많다 인재 젠슨 이끌"
   ]
  ],
- "last_run": "2026-11-10T08:50:46.097708+09:00",
+ "last_run": "2026-11-10T08:52:35.934300+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
