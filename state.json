@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202611061433167862",
-  "https://www.mt.co.kr/tech/2026/11/06/2026110614233111258",
-  "https://www.news1.kr/politics/assembly/6345687",
-  "https://www.yna.co.kr/view/AKR20261106110000017?input=1195m",
-  "https://www.viva100.com/article/20261106500447",
-  "https://www.dailian.co.kr/news/view/1711770/?sc=Naver",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318858",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/06/2026110600150.html",
   "https://www.ytn.co.kr/_ln/0102_202611061220133415",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318856",
   "https://www.news1.kr/it-science/cc-newmedia/6345539",
@@ -2999,17 +2991,17 @@
   "https://www.jemin.com/news/articleView.html?idxno=846533",
   "https://www.inthenews.co.kr/news/article.html?no=94224",
   "https://www.ajunews.com/view/20261109142210572",
-  "https://www.theguru.co.kr/news/article.html?no=109471"
+  "https://www.theguru.co.kr/news/article.html?no=109471",
+  "http://www.osen.co.kr/article/G1112907087",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3746360",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713639",
+  "https://www.mk.co.kr/article/12202416",
+  "https://www.dt.co.kr/article/12093978",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=446932",
+  "https://www.khan.co.kr/article/202611091440001",
+  "https://www.ajunews.com/view/20261109143827660"
  ],
  "seen_titles": [
-  "미래에셋證도뚫렸다…'못지킨죄'물을까",
-  "BNB체인,위험계약경고시스템가동...\"수상한디앱미리알려준다\"",
-  "여객기폭파위협에총기난사까지…공포에휩싸인유럽",
-  "전력망안보,한국은준비돼있는가[손승우의지식재산통찰]",
-  "[사설]도내대학정보보안강화서둘러야",
-  "[자정뉴스브리핑]RLUSD거래의92%가XRP와체결됐다外",
-  "[잡채기칼럼]가짜가진짜를제치는'옹고집현상'",
-  "[朝鮮칼럼]미국중간선거결과,한미관계에득될것없다",
   "한전KDN,'BIXPO'서미래에너지ICT기술력선봬",
   "바이낸스해커,지갑2만개로세탁중인데핵심BTC·ETH는손대지않았...",
   "YTN승인취소청문절차또논란…방미통위\"주재자선정문제,법률검...",
@@ -6001,13 +5993,17 @@
   "제주경찰,피싱예방·범죄검거유공자포상",
   "KT,‘1004·7777’등행운번호155개추첨",
   "[기획-AI가바꾸는산업도시울산]<上>1조5000억원AX실험…울산공...",
-  "타이어도뚫렸다…日요코하마,이용자데이터정보해킹유출"
+  "타이어도뚫렸다…日요코하마,이용자데이터정보해킹유출",
+  "1-12대패에등판조차못한최강마무리,벌써준우승만2번“오늘은정...",
+  "논산시의회,2026년행정사무감사앞두고예산낭비,시정건의제보받...",
+  "ETRI,코딩없이AI개발하는'탱고'공개...LLM개발·운영지원",
+  "TSMC,메모리시장진출설에선긋기…“파운드리집중”",
+  "어쩌다AI왕자젠슨황은‘中미인계’에빠졌나…41년해로한아내두...",
+  "SKT·엔비디아·리벨리온,한국형소버린AI인프라구축협력나선다",
+  "국산AI반도체,엔비디아생태계올라탄다···SKT-리벨리온3자협력",
+  "\"아내가옷골라준다\"며웃던젠슨황…불과5개월전'사랑꾼발언'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-09T08:42:15.712280+09:00",
-   "매출 4배 데이터센터향 필수 수주 비나텍 전력망 800V"
-  ],
   [
    "2026-11-09T08:44:15.634740+09:00",
    "결국 코스피 이렇게 증시 경고 재조명 붕괴"
@@ -7025,7 +7021,7 @@
    "이용자 요코하마 뚫렸다 정보 타이어도 데이터 유출"
   ]
  ],
- "last_run": "2026-11-09T14:40:51.389646+09:00",
+ "last_run": "2026-11-09T14:42:35.762127+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
