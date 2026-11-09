@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://economist.co.kr/article/view/ecn202611090042",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5229860",
-  "https://zdnet.co.kr/view/?no=20261109171556",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229868",
-  "https://www.newsis.com/view/NISX20261109_0003860948",
-  "https://www.edaily.co.kr/News/Read?newsId=04001606645644080&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=04024566645644080&mediaCodeNo=257",
-  "https://www.dailian.co.kr/news/view/1712767/?sc=Naver",
   "https://www.ytn.co.kr/_ln/0107_202611091715488011",
   "https://daily.hankooki.com/news/articleView.html?idxno=1423288",
   "https://news.tf.co.kr/read/economy/2386080.htm",
@@ -2999,17 +2991,17 @@
   "https://view.asiae.co.kr/article/2026111008312648392",
   "https://www.viewsnnews.com/article?q=239587",
   "https://www.g-enews.com/view.php?ud=2026111008275122839a1f309431_1",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611040735428000102524"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611040735428000102524",
+  "https://www.newsis.com/view/NISX20261110_0003861344",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1423393",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1731002",
+  "https://thetracker.co.kr/View.aspx?No=4304788",
+  "http://www.inews24.com/view/2024222",
+  "https://www.fnnews.com/news/202611100821067117",
+  "https://view.asiae.co.kr/article/2026111008271615983",
+  "https://www.mt.co.kr/world/2026/11/10/2026111008245940017"
  ],
  "seen_titles": [
-  "에스앤에스랩,고비파트너스와‘아시아게이트웨이데모데이2026’공...",
-  "AI콘텐츠직접만들고체험한다'AI콘텐츠페스티벌2026'12일코엑스...",
-  "SK바이오팜,美링스입주사31곳선정…K바이오미국행'징검다리'놓는...",
-  "재경장관\"대미투자1호'텍사스발전소',상황지켜볼필요\"",
-  "SKT\"한국서가장싼AI토큰생산\"…리벨리온\"토큰수출국목표\"[일문...",
-  "젠슨황리스크속열린'AI데이'…기대와우려교차",
-  "LG유플러스,초고속인터넷7개지표1위권…다운로드204Mbps",
-  "LG유플러스홍범식AI데이터센터매출올해세분기연속25%넘게성장...",
   "[커머스브리핑]KT알파쇼핑'브랜드데이'성료외",
   "모티프,엔비디아투자유치…글로벌프런티어AI모델경쟁‘참전’",
   "모티브,엔비디아투자유치…차세대LLM‘모티프4’개발착수",
@@ -6001,7 +5993,15 @@
   "다이나믹솔루션,재활로봇손'다이나믹엑스핸드'CES2027혁신상3관왕",
   "트럼프\"젠슨황,스파이인줄전혀몰랐다더라\"",
   "트럼프\"FBI,젠슨황의혹조사\"…직접통화후신뢰표명",
-  "[더벨][thebellinterview]KT30년전략통차재연이사\"이사회는경영가..."
+  "[더벨][thebellinterview]KT30년전략통차재연이사\"이사회는경영가...",
+  "바이브컴퍼니,우리카드AIKMS재구축사업수주",
+  "[부산소식]골목민원살핀전재수시장···동래·금정서해결책모색...",
+  "노타,초거대AI'키미K3.1Pro'최적화…GPU구매비용최대20%절감",
+  "다이나믹솔루션,재활로봇손CES2027혁신상3개부문동시수상…제...",
+  "개보위\"예산·인력·점검투자입증시과징금최대40%감경\"",
+  "\"젠슨황,불륜女스파이의혹전혀몰랐다더라\"…트럼프,황CEO와통화...",
+  "美의원·FBI요원과도부적절관계…젠슨황불륜에다시소환된中여성...",
+  "차등의결권도,후계자도없다…젠슨황거취'50대50'얘기나오는이유"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-11-10T08:34:16.840908+09:00",
    "이사 30년 이사회는 ~KT 차재연 경영 전략통"
+  ],
+  [
+   "2026-11-10T08:36:17.040780+09:00",
+   "없다 50대 얘기 거취 나오는 후계자도 차등의결권도 젠슨황 이유"
   ]
  ],
- "last_run": "2026-11-10T08:34:39.553165+09:00",
+ "last_run": "2026-11-10T08:36:35.490914+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
