@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/it-science/ict/2026/11/08/3SEWDEBSTZAMTBD2YQ5JNTYU7Y/",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713647",
-  "https://view.asiae.co.kr/article/2026110909031865752",
-  "https://www.peoplewatch.co.kr/article/view/ppw202611090001",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54443",
-  "http://www.newscape.co.kr/news/articleView.html?idxno=125653",
-  "https://basketkorea.com/news/newsview.php?ncode=1065558030845111",
-  "https://www.sportschosun.com/entertainment/2026-11-09/202611090100060390005794",
-  "https://view.asiae.co.kr/article/2026110908575379590",
-  "https://www.newsis.com/view/NISX20261109_0003859810",
-  "https://view.asiae.co.kr/article/2026110909065076813",
   "https://www.yna.co.kr/view/AKR20261109027600008?input=1195m",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=314890",
   "https://www.edaily.co.kr/News/Read?newsId=01289046645643752&mediaCodeNo=257",
@@ -2999,20 +2988,20 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=139251",
   "https://www.ajunews.com/view/20261109164241231",
   "https://www.newspim.com/news/view/20261109001094",
-  "https://www.newsis.com/view/NISX20261109_0003860687"
+  "https://www.newsis.com/view/NISX20261109_0003860687",
+  "https://www.mk.co.kr/article/12202626",
+  "https://www.sportschosun.com/baseball/2026-11-09/202611090100065330006176",
+  "https://www.news1.kr/sports/baseball/6348076",
+  "https://zdnet.co.kr/view/?no=20261109163137",
+  "https://en.yna.co.kr/view/AEN20261109005451320?input=2106m",
+  "https://view.asiae.co.kr/article/2026110916262014136",
+  "https://sateconomy.co.kr/news/view/1065597291051010",
+  "https://www.ytn.co.kr/_ln/0102_202611091649542419",
+  "https://www.mk.co.kr/article/12202622",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730973",
+  "https://www.tokenpost.kr/news/breaking/435088"
  ],
  "seen_titles": [
-  "“AI가골라주는게임백엔드서비스”…컴투스플랫폼하이브액실",
-  "[조간브리핑]AI붐의복병된美선거···데이터센터규제에업계긴...",
-  "하나증권\"AI기술산업현장적용확대에로봇주부각,레인보우로보틱...",
-  "TSMC,메모리시장진출설부인.\"파운드리에집중\"",
-  "LG유플러스,한국어음성AI자립시동..서울대·KAIST·연세대와연합...",
-  "LG유플러스,한국어특화'K-보이스엔진'만든다…서울대·KAIST·연세대...",
-  "‘7777’·‘1234’인기휴대전화번호갖는다…KT,골드번호1만개추...",
-  "엔비디아젠슨황,외국정보기관연루의혹…독립조사착수",
-  "\"젠슨황-중국스파이관계기밀문건있었다…미국무장관이감독\"",
-  "中빅테크,엔비디아GPU대량주문..왜?",
-  "[통신리뷰]문화예술입은U+일상비일상의틈,체류시간두배늘어(11월...",
   "안세영코리아오픈결승전중계채널·시간은",
   "대진반도체,글로벌셀룰러IoT톱3'리어다'솔루션국내공급박차",
   "'목이쉰'손주인-'더미팅'무라카미코치\"선수와코치가함께하는전...",
@@ -6001,7 +5990,18 @@
   "SKT,엔비디아·리벨리온과GPU·NPU통합시스템개발나선다…소버린...",
   "젠슨황불륜파문질문에입닫은엔비디아…韓사업영향에도묵묵부...",
   "[프로농구]KT,2023년이후3년만에'1순위'확보…'제2의문유현'누...",
-  "'불륜'젠슨황,CEO직지킬까…예일대교수\"가능성50대50\""
+  "'불륜'젠슨황,CEO직지킬까…예일대교수\"가능성50대50\"",
+  "[손현덕의한국기업탈각의순간들]크래프톤|①“사람에대한애정...",
+  "[오피셜]'타구에얼굴직격'권동진미세골절→\"별도수술필요없다\"...",
+  "강습타구에얼굴맞은권동진,큰부상피했다…\"수술필요없어\"",
+  "케플러지갑서개인키유출…560만달러가상자산긴급이전",
+  "(LEAD)Nvidia,SKT,Rebellionstojointlyestablishheterogeneousco",
+  "LG유플러스,서울대·KAIST·연세대와한국어특화음성AI개발",
+  "LG유플러스,서울대·KAIST·연세대와한국어음성AI개발",
+  "젠슨황'불륜스캔들'파장...엔비디아흔드나[이슈ON]",
+  "[필동정담]젠슨황의색,계",
+  "미래에셋증권정보유출에금감원현장점검…계열사해킹연관성조사",
+  "UXLINK해킹범,1억4800만달러롱청산시작보도"
  ],
  "recent_sigs": [
   [
@@ -7255,9 +7255,17 @@
   [
    "2026-11-09T16:50:26.183335+09:00",
    "내후년으로 올해는 3조 45억만 품은 네이버 과반이 집행"
+  ],
+  [
+   "2026-11-09T16:54:15.368836+09:00",
+   "젠슨 황의"
+  ],
+  [
+   "2026-11-09T16:54:15.368836+09:00",
+   "해킹범 보도 UXLINK 시작 1억4800만달러 청산"
   ]
  ],
- "last_run": "2026-11-09T16:52:37.624540+09:00",
+ "last_run": "2026-11-09T16:54:38.998814+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
