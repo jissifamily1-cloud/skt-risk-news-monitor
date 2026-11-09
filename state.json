@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ppss.kr/news/articleView.html?idxno=319771",
-  "https://www.jbnews.com/news/articleView.html?idxno=1515418",
-  "https://economist.co.kr/article/view/ecn202611090009",
-  "https://www.etnews.com/20261109000114",
-  "https://www.dailian.co.kr/news/view/1712434/?sc=Naver",
-  "https://www.nocutnews.co.kr/news/6603854",
-  "https://www.nc.press/news/articleView.html?idxno=630543",
-  "https://www.sedaily.com/article/20111831",
-  "http://www.seouleconews.com/news/articleView.html?idxno=94866",
-  "https://www.sedaily.com/article/20111829",
   "https://www.sedaily.com/article/20111825",
   "https://www.pressian.com/pages/articles/2026110910141128681",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524778",
@@ -2999,19 +2989,19 @@
   "https://www.viva100.com/article/20261108500406",
   "https://www.getnews.co.kr/news/articleView.html?idxno=886567",
   "https://news.jtbc.co.kr/article/NB12327221?influxDiv=NAVER",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215729"
+  "https://www.datanet.co.kr/news/articleView.html?idxno=215729",
+  "https://www.sentv.co.kr/article/view/sentv202611090131",
+  "https://www.tournews21.com/news/articleView.html?idxno=147875",
+  "https://www.edaily.co.kr/News/Read?newsId=04326326645644080&mediaCodeNo=257",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7193001",
+  "https://www.edaily.co.kr/News/Read?newsId=04332886645644080&mediaCodeNo=257",
+  "https://en.yna.co.kr/view/AEN20261109005452320?input=2106m",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713984",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081481",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=886568",
+  "https://www.edaily.co.kr/News/Read?newsId=04323046645644080&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "백악관이미알았다…루비오,젠슨황·中스파이의심여성관계극비...",
-  "젠슨황불륜에엔비디아주가촉각…베이조스이혼사례보니",
-  "“AI가아이디어쏟아내도인간만할수있는일”…예술·기술전문가...",
-  "KT,‘KT알파쇼핑브랜드데이’성료",
-  "'캡틴'채은성과'차세대에이스'문동주의시린2026시즌",
-  "[뉴스브리핑]AI가대신쇼핑하는시대,입지흔들리는검색광고",
-  "AI반도체시장커진다…디자인하우스·후공정기업에무슨이슈있나",
-  "LGAI연구원,K-엑사원2.5무료API개방…프런티어AI개발가속",
-  "미국발데이터센터규제쇼크…삼전·닉스,장기계약이방어막될까",
-  "하락출발코스피장초반상승전환...삼성전자1.8%,SK하이닉스2.7%...",
   "정부,10일부터SK브로드밴드분할심사의견접수",
   "KT,골드번호155개유형추첨…타사고객도응모가능",
   "메가존클라우드,오픈AI'셀렉트파트너'선정⋯기업AI도입지원",
@@ -6001,7 +5991,17 @@
   "‘바짝엎드린’빅테크⋯데이터센터전기요금떠안고우주도‘눈독’",
   "젠슨황불륜논란,'깐부'삼전닉스에영향끼칠까?",
   "[뉴스룸오프닝]젠슨황'스파이스캔들'/백악관-민주당'전면전'/'...",
-  "엔비디아,국내피지컬AI생태계활성화앞장"
+  "엔비디아,국내피지컬AI생태계활성화앞장",
+  "[이슈플러스]美데이터센터규제론부상…빅테크투자,한국으로향할...",
+  "SK바이오팜,美'링스(LinX)'입주사확정…국내바이오31곳현지진출...",
+  "금감원내년예산안심사착수…특사경·IT인력확충관건",
+  "AI발사이버위험확산에…보험업권\"대응체계마련\"한목소리",
+  "반도체분석18시간→41초…엔비디아,韓산업'밀착'(종합)",
+  "(2ndLD)Nvidia,SKT,Rebellionstojointlyestablishheterogeneousc",
+  "리얼월드,엔비디아서투자유치…로봇AI기술고도화",
+  "엔비디아,국내AI스타트업4사투자추진",
+  "中,'엔비디아젠슨황불륜'에\"中간첩설은뜬구름잡는소리\"",
+  "\"젠슨황불륜사진추가유출\"...'초고속'인정한이유?"
  ],
  "recent_sigs": [
   [
@@ -7365,7 +7365,7 @@
    "피지컬 앞장 생태계 활성화 국내"
   ]
  ],
- "last_run": "2026-11-09T18:48:35.466320+09:00",
+ "last_run": "2026-11-09T18:51:21.518067+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
