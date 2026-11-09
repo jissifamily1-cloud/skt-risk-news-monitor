@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216160",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706357",
-  "https://www.aitimes.com/news/articleView.html?idxno=216132",
-  "https://www.aitimes.com/news/articleView.html?idxno=216112",
-  "https://www.aitimes.com/news/articleView.html?idxno=216105",
-  "https://www.bbc.com/korean/articles/c6z98g8wjwj7o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.news2day.co.kr/article/20261009500016",
-  "https://zdnet.co.kr/view/?no=20261009073816",
-  "https://www.aitimes.com/news/articleView.html?idxno=216093",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705934",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=705810",
   "https://www.aitimes.com/news/articleView.html?idxno=216035",
@@ -2999,18 +2990,18 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713780",
   "https://platum.kr/archives/298060",
   "https://bizhankook.com/articles/jensen-huang-nvidia-investor-guide.html",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713784"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713784",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71921",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=139267",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3746273",
+  "https://www.newsfreezone.co.kr/news/articleView.html?idxno=718337",
+  "https://www.job-post.co.kr/news/articleView.html?idxno=237180",
+  "https://www.econovill.com/news/articleView.html?idxno=756499",
+  "http://www.sisacast.kr/news/articleView.html?idxno=101731",
+  "https://monthly.chosun.com/news/articleView.html?idxno=71920",
+  "https://www.newspim.com/news/view/20261109000784"
  ],
  "seen_titles": [
-  "테슬라,'하늘나는로드스터'공개…\"전시용일뿐\"지적도",
-  "구글딥마인드\"AI자기개선가속증거없다\"…업계경고와온도차",
-  "일론머스크·샘알트먼정조준…할리우드가실리콘밸리에칼겨눈이유",
-  "美규제당국,오픈AI·앤트로픽AI안전성직접들여다본다",
-  "알트먼도기다리다환불…9년끈테슬라로드스터베일벗는다",
-  "9년늦은테슬라로드스터,공개앞두고커진의문…굳이필요할까?",
-  "엔비디아황CEO,중국AI기업과안전논의촉구",
-  "앤트로픽,3개월만에매출45%늘렸다…AI경쟁속'흑자성장'입증",
-  "오픈AI\"애플이직직원,미공개기기자료100건넘게유출\"주장",
   "오픈AI핵심인프라총괄교체…사친카티11월퇴임,후임은누구?",
   "오픈AI,추론감시어려운'루프트랜스포머'적용모델안전확보에전...",
   "사우디국적직원,오픈AI사무실에'정교한'녹음장치설치혐의로기...",
@@ -6001,7 +5992,16 @@
   "트럼프\"젠슨황,CEO계속맡아야…그럴만한사정있었을것\"옹호",
   "카카오모빌리티,엔비디아자율주행플랫폼얹은레벨4차량기아PBV로...",
   "[가장보통의투자]젠슨황사과문,엔비디아주주는무엇을봐야하나",
-  "해킹으로멈춘게임…'마리오카트'등8종일주일만에재가동"
+  "해킹으로멈춘게임…'마리오카트'등8종일주일만에재가동",
+  "삼성라이온즈,12년만에한국시리즈우승…계열사곳간얼마나열릴까",
+  "GS건설목동윤슬자이,주거공간·웰니스시설차별화…지역수요공략",
+  "온통대전'보람마일리지'13만명참여…적립시설28곳→80곳",
+  "SK바이오팜,국내바이오기업31곳미국진출지원",
+  "4대은행,보안예산1000억시대…전문인력부족·CISO권한은'제자리...",
+  "카카오모빌리티,엔비디아와레벨4자율주행협력기아PBV에토르2개얹...",
+  "카카오모빌리티,엔비디아와자율주행기술협력…레벨4상용화속도",
+  "젠슨황,中스파이의심여성과불륜인정…\"아내에불충실했다\"",
+  "서울에서열린엔비디아AI데이"
  ],
  "recent_sigs": [
   [
@@ -6915,9 +6915,13 @@
   [
    "2026-11-09T13:36:15.819470+09:00",
    "멈춘 만에 마리오카트 재가동 일주일 8종 게임 해킹으로"
+  ],
+  [
+   "2026-11-09T13:38:16.132695+09:00",
+   "AI데이 열린 서울에서"
   ]
  ],
- "last_run": "2026-11-09T13:36:40.218637+09:00",
+ "last_run": "2026-11-09T13:38:39.758169+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
