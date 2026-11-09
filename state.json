@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.chosun.com/sports/baseball/2026/11/09/MWSPZ3ETNJDGXOJKNJ6MZNBBWY/",
-  "https://www.chosun.com/sports/baseball/2026/11/09/C7S2AFYFCFHL5A62GS5467M4SQ/",
-  "https://www.chosun.com/sports/baseball/2026/11/09/F4GB6UZRRFFYZF6V4TCJYAKCLE/",
-  "http://www.osen.co.kr/article/G1112906940",
-  "https://www.xportsnews.com/article/2217395",
-  "https://www.xportsnews.com/article/2217394",
-  "https://www.starnewskorea.com/sports/2026/11/09/2026110819162761763",
-  "http://www.osen.co.kr/article/G1112907008",
-  "http://www.osen.co.kr/article/G1112907007",
-  "https://sports.donga.com/ent/article/all/20261109/134988809/1",
-  "http://www.osen.co.kr/article/G1112907009",
-  "https://isplus.com/article/view/isp202611080423",
   "https://isplus.com/article/view/isp202611080422",
   "https://www.hidomin.com/news/articleView.html?idxno=728473",
   "https://www.kado.net/news/articleView.html?idxno=2083450",
@@ -2999,18 +2987,21 @@
   "http://coinreaders.com/268474",
   "https://www.news1.kr/local/busan-gyeongnam/6347619",
   "https://www.boannews.com/news/articleView.html?idxno=147003",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318884"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318884",
+  "https://www.seoul.co.kr/news/sport/baseball/2026/11/09/20261109500118?wlog_tag3=naver",
+  "https://www.sportschosun.com/baseball/2026-11-09/202611090100061730005922",
+  "https://biz.sbs.co.kr/article_hub/20000345082?division=NAVER",
+  "https://www.mediapen.com/news/view/1136166",
+  "https://www.yna.co.kr/view/PYH20261109092600013?input=1196m",
+  "https://biz.chosun.com/it-science/ict/2026/11/09/WHJLF7BSSJG3VBID2AFWBBKXTQ/",
+  "https://www.yna.co.kr/view/PYH20261109092700013?input=1196m",
+  "http://www.yonhapnewstv.co.kr/news/MYH202611091153272Z5",
+  "https://www.yna.co.kr/view/PYH20261109092400013?input=1196m",
+  "https://www.yna.co.kr/view/PYH20261109092200013?input=1196m",
+  "https://byline.network/?p=9004111222626754",
+  "https://www.yna.co.kr/view/PYH20261109092100013?input=1196m"
  ],
  "seen_titles": [
-  "절뚝이며달린캡틴,사자를일으키고라팍을울렸다",
-  "첫우승에감격한강민호,43세최형우끌어안고눈물",
-  "2년연속‘최다관중’삼성,실력으로인기증명했다",
-  "정규시즌과너무달랐던KT",
-  "“우승시켜드렸으니좋은계약서주시겠죠?”12년만의왕조재건이...",
-  "구자욱‘영구결번선배들앞에서받는헹가래’[포토]",
-  "구자욱‘MVP소감을샤우팅’[포토]",
-  "미야지챙긴구자욱의품격\"빨리우승티셔츠챙겨줘라!\"→함께흘린땀...",
-  "[사진]12년만의한국시리즈우승환호하는삼성선수들",
   "[사진]12년만의한국시리즈우승환호하는삼성투수진들",
   "BTS슈가,12년전에도삼성우승인증…박영진은KTX역서환호",
   "[사진]12년만의한국시리즈우승기쁨나누는삼성선수들",
@@ -6001,7 +5992,16 @@
   "머스크\"바이낸스출금이야기한적없어\"...인출논란에본인직접등판",
   "부산외대업무용PC서악성코드감염의심…개인정보유출우려",
   "알고도털린8조4000억원:보안의가장오래된취약점,'사람'",
-  "민주당\"방미통위,이재명법무부의YTN항소포기지휘부정하나\""
+  "민주당\"방미통위,이재명법무부의YTN항소포기지휘부정하나\"",
+  "‘100조’벌었다는데얼마를줘야하나…구자욱·원태인“사장님믿습...",
+  "\"수비는핑계가없다\"악송구하나로갈린우승향방,'수비왕'삼성·KT...",
+  "\"TSMC,메모리진출검토\"…선긋기에도시장촉각",
+  "부담감커지는책무구조도…\"절차간소화하고이사회역할분담해야\"",
+  "환영사하는정소영엔비디아코리아대표",
+  "젠슨황에경영권집중된엔비디아…불륜·간첩논란에승계리스크부...",
+  "젠슨황,中스파이의심여성과불륜인정…트럼프는옹호",
+  "엔비디아AI데이서울2026",
+  "태니엄,엔비디아로컬AI시스템까지보안관리확대"
  ],
  "recent_sigs": [
   [
@@ -7021,7 +7021,7 @@
    "법무부의 YTN 지휘 항소포기 부정하나 이재명 민주당"
   ]
  ],
- "last_run": "2026-11-09T11:54:38.083994+09:00",
+ "last_run": "2026-11-09T11:56:30.952415+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
