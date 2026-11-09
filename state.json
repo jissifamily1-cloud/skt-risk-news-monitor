@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hellot.net/news/article.html?no=116118",
-  "https://www.nocutnews.co.kr/news/6603836",
-  "https://thetracker.co.kr/View.aspx?No=4303158",
-  "https://biz.heraldcorp.com/article/10930283",
-  "https://www.newspim.com/news/view/20261109000327",
-  "https://www.newspim.com/news/view/20261109000296",
-  "https://www.jasm.co.kr/news/view/324647/?sc=Naver",
   "http://www.inews24.com/view/2023921",
   "https://www.jasm.co.kr/news/view/324645/?sc=Naver",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229775",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261109_0003861062",
   "https://view.asiae.co.kr/article/2026110917584628169",
   "https://www.ytn.co.kr/_ln/0134_202611091800060116",
-  "https://www.kado.net/news/articleView.html?idxno=2083657"
+  "https://www.kado.net/news/articleView.html?idxno=2083657",
+  "https://www.fnnews.com/news/202611091826067286",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1730827",
+  "https://www.segye.com/newsView/20261109515729?OutUrl=naver",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451548",
+  "https://www.news1.kr/it-science/internet-platform/6348203",
+  "https://www.khan.co.kr/article/202611091826001",
+  "http://www.journalist.or.kr/news/article.html?no=62041"
  ],
  "seen_titles": [
-  "LG유플러스,서울대·KAIST·연세대와‘K-보이스얼라이언스’출범",
-  "\"황금넘버잡아라\"…KT,16일부터골드번호응모시작",
-  "LGAI연구원'K-엑사원2.5'API무료개방…'엔비디아AI데이서울'참...",
-  "[뉴욕은지금]민주당의AI규제투트랙",
-  "[증시타임]코스피5천선아슬아슬?…한·미증시투자전략은?",
-  "\"가만히갖고있으라더니\"…40%고꾸라진주가에하닉개미들속앓이",
-  "한미약품,GLP-1비만신약‘에페’론칭발대식개최",
   "LGAI연구원,'K-엑사원2.5'API전격무료개방…8주만에AI성능70%↑...",
   "오픈헬스케어,카자흐스탄서제2회헬스케어아카데미개최",
   "LGAI연구원,내년1월프런티어AI승부수",
@@ -6001,7 +5994,14 @@
   "엔비디아가찜한韓AI스타트업4곳어디?…인프라·모델·로봇'풀스택...",
   "젠슨황불륜파장…韓주식에도불똥튈까[클릭e시장]",
   "젠슨황불륜보도터진시점'수상'...뒷말무성[자막뉴스]",
-  "인천공항,일주일새세번전산오류…공사\"해킹가능성은희박\""
+  "인천공항,일주일새세번전산오류…공사\"해킹가능성은희박\"",
+  "AIDC규제쌓는美·유럽…‘인프라강자’韓,반사이익챙길까[AI인사...",
+  "[주간증시전망]폭락장맞은코스피…5000선향방가를美물가·AI실적",
+  "경찰청,압수가상자산‘업비트커스터디’위탁보관",
+  "BNK금융지주정보보호대응체계점검,외부전문가중심보안위원회설...",
+  "엔비디아,韓AI스타트업모티프·리얼월드·업스테이지투자",
+  "[여적]허니트랩",
+  "방미심위\"제품명이파우치\"KBS9시뉴스재심기각"
  ],
  "recent_sigs": [
   [
@@ -7351,9 +7351,17 @@
   [
    "2026-11-09T18:26:17.499388+09:00",
    "일주일새 공사 가능성은 희박 인천공항 전산오류"
+  ],
+  [
+   "2026-11-09T18:28:17.625037+09:00",
+   "트랩 허니"
+  ],
+  [
+   "2026-11-09T18:28:17.625037+09:00",
+   "KBS 파우치 재심 제품명이 9시 방미심위 기각"
   ]
  ],
- "last_run": "2026-11-09T18:26:38.741259+09:00",
+ "last_run": "2026-11-09T18:28:38.458513+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
