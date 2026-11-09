@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=562228",
-  "https://news.dealsitetv.com/articles/178255",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1309611",
-  "https://zdnet.co.kr/view/?no=20261109094728",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1018774",
-  "http://www.spochoo.com/news/articleView.html?idxno=131902",
   "http://www.kdfnews.com/news/articleView.html?idxno=190613",
   "https://www.theguru.co.kr/news/article.html?no=109447",
   "https://www.gukjenews.com/news/articleView.html?idxno=3745880",
@@ -2999,15 +2993,15 @@
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601941",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=194401",
   "https://www.hankyung.com/article/2026110958761",
-  "https://www.insight.co.kr/news/581278"
+  "https://www.insight.co.kr/news/581278",
+  "https://isplus.com/article/view/isp202611090230",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3746705",
+  "https://zdnet.co.kr/view/?no=20261109174825",
+  "https://zdnet.co.kr/view/?no=20261109174701",
+  "https://view.asiae.co.kr/article/2026110917133452418",
+  "https://www.busan.com/view/busan/view.php?code=2026110917475131885"
  ],
  "seen_titles": [
-  "kt는왜최악의정규시즌1위팀이됐나",
-  "\"AI해커속여해킹방어\"...숭실대AI안전성연구센터,새기술개발",
-  "아트코리아랩'AI-융합페스티벌'성료...로봇연주부터AI창작까지",
-  "한미약품,비만신약'에페'론칭발대식…영업활동본격화",
-  "\"까다로운목동눈높이읽었다\"브랜드파워더한'목동윤슬자이'화려...",
-  "한미약품,에페론칭발대식…\"한미를보여주는모범사례\"",
   "[IS피플]삼성우승순간,고개숙인채눈물...쓰라린성장통겪은안...",
   "[오늘의일정]11월9일월요일스포츠경기",
   "더퓨처샵,AI데스크로봇'루나데스크메이트'와디즈본펀딩시작",
@@ -6001,7 +5995,13 @@
   "삼성반도체시뮬레이션18시간→41초⋯엔비디아,韓피지컬AI확장",
   "[엔비디아AI데이]두산로보틱스,피지컬AI기반협동로봇·산업용휴머...",
   "그룹간장벽허문이재용·정의선'깐부케미'",
-  "\"데이터센터·해저케이블떼어냅니다\"...SKB'호라이즌'분할,10일부터..."
+  "\"데이터센터·해저케이블떼어냅니다\"...SKB'호라이즌'분할,10일부터...",
+  "日언론,한국시리즈MVP구자욱해외진출도전표명에관심",
+  "강민국국회의원,공군교육사령부'아름인도서관'개관식직접참석",
+  "메가존클라우드,오픈AI셀렉트파트너선정…기업AI도입사업확대",
+  "모티프,엔비디아투자받는다…글로벌AI'톱5'도전",
+  "\"아들·딸·사위까지엔비디아에\"…불륜파문에젠슨황'후계구도'재조...",
+  "아마존의지역공헌,인천이어울산으로"
  ],
  "recent_sigs": [
   [
@@ -7307,9 +7307,13 @@
   [
    "2026-11-09T17:48:17.530330+09:00",
    "그룹간 이재용 장벽 허문 정의선 케미 깐부"
+  ],
+  [
+   "2026-11-09T17:50:26.469196+09:00",
+   "지역 공헌 인천 울산으로 이어 아마존의"
   ]
  ],
- "last_run": "2026-11-09T17:48:52.916176+09:00",
+ "last_run": "2026-11-09T17:50:50.288566+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
