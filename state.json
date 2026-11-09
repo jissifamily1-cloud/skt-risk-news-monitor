@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216356",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707712",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707689",
-  "https://zdnet.co.kr/view/?no=20261016100808",
-  "https://zdnet.co.kr/view/?no=20261016084139",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707398",
   "https://www.tokenpost.kr/news/ai/422895",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707387",
   "https://www.edaily.co.kr/News/Read?newsId=03358726645613248&mediaCodeNo=257",
@@ -2999,15 +2993,15 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16271971",
   "https://biz.sbs.co.kr/article_hub/20000345040?division=NAVER",
   "http://www.yonhapnewstv.co.kr/news/MYH20261109132915xmj",
-  "https://www.aitimes.com/news/articleView.html?idxno=217166"
+  "https://www.aitimes.com/news/articleView.html?idxno=217166",
+  "http://weekly.chosun.com/news/articleView.html?idxno=56966",
+  "https://www.dt.co.kr/article/12093950",
+  "https://nownews.seoul.co.kr/news/newsView.php?id=20261109601009&wlog_tag3=naver",
+  "https://www.vegannews.co.kr/news/article.html?no=402427",
+  "https://www.newspim.com/news/view/20261109000775",
+  "https://www.edaily.co.kr/News/Read?newsId=03037286645644080&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "샘알트먼\"수학계분위기바뀌었다…이제는AI수용단계\"",
-  "오픈AI,투자열기주춤하자목표기업가치200조낮춰",
-  "[10월22일]테슬라·스페이스X합병,최강'통합AI기업'탄생할까",
-  "\"차량설계검토,단몇시간만에\"…日에픽AI,'中속도전'맞설AI보...",
-  "챗GPT광고주10만곳넘어…오픈AI,89개국으로광고확대",
-  "샘알트먼이보는AI경쟁종착지…국제감시냐,선도기업독주냐",
   "매출15배뛰었는데807억달러적자…앤트로픽,상장앞두고드러난민...",
   "AGI선점해경쟁사GPU까지파괴…알트먼\"끔찍한시나리오\"",
   "마약거래폭로갈등..머라이어캐리,친오빠와280억소송서승소[스타...",
@@ -6001,21 +5995,15 @@
   "젠슨황불륜스캔들·중국스파이의혹…삼성전자·SK하이닉스주가는...",
   "[직설]미중간선거후폭풍…코스피반응과했나?",
   "[이시각헤드라인]11월9일뉴스현장",
-  "엔비디아\"LLM에긴문맥꼭필요하지않아\"…압축해도성능유지"
+  "엔비디아\"LLM에긴문맥꼭필요하지않아\"…압축해도성능유지",
+  "홍준표,삼성라이온즈우승축하…콕집어언급한선수3명",
+  "휴대전화끝자리,‘1111’등골드번호추첨한다…1인당3개응모가능",
+  "“무슨사정있을것”…트럼프,불륜논란젠슨황적극옹호나선이...",
+  "카카오모빌리티,엔비디아와레벨4개발…기아PBV적용추진",
+  "[미국특징주]스페이스X이사도널드해리슨,테슬라합병논의속사임",
+  "해킹협박에나흘째멈춘고팍스…출금은수동,재개는미정"
  ],
  "recent_sigs": [
-  [
-   "2026-11-09T07:32:16.050952+09:00",
-   ""
-  ],
-  [
-   "2026-11-09T07:32:16.050952+09:00",
-   "젠슨 넘은 아내에게 직접 파문 결혼생활에 40년 불충실했던 사실"
-  ],
-  [
-   "2026-11-09T07:32:16.050952+09:00",
-   ""
-  ],
   [
    "2026-11-09T07:36:15.690614+09:00",
    "9일 불확실성 투심 중국증시 기술주 경기 기대와 회복"
@@ -6923,9 +6911,13 @@
   [
    "2026-11-09T13:32:14.316421+09:00",
    "성능 유지 압축해도 필요하지 LLM에 않아 문맥"
+  ],
+  [
+   "2026-11-09T13:34:15.107111+09:00",
+   "사임 해리슨 도널드 스페이스X 이사 논의 테슬라 합병"
   ]
  ],
- "last_run": "2026-11-09T13:32:43.331184+09:00",
+ "last_run": "2026-11-09T13:34:39.013798+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
