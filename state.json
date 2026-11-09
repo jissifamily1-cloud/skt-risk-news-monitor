@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836313&plink=ORI&cooper=NAVER",
-  "https://www.newspim.com/news/view/20261109000021",
-  "https://news.tf.co.kr/read/photomovie/2386556.htm",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5081357",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900285.html",
-  "https://www.seoul.co.kr/news/international/2026/11/09/20261109500272?wlog_tag3=naver",
   "https://www.edaily.co.kr/News/Read?newsId=03581766645644080&mediaCodeNo=257",
   "http://www.ccnnews.co.kr/news/articleView.html?idxno=417388",
   "http://www.gjdream.com/news/articleView.html?idxno=674160",
@@ -2999,15 +2993,15 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090006.html",
   "https://www.sedaily.com/article/20112184",
   "http://www.rookie.co.kr/news/articleView.html?idxno=130031",
-  "https://biz.sbs.co.kr/article_hub/20000345250?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000345250?division=NAVER",
+  "http://www.newsfc.co.kr/news/articleView.html?idxno=82339",
+  "https://www.yna.co.kr/view/AKR20261109149200017?input=1195m",
+  "https://www.news1.kr/world/international-economy/6348378",
+  "http://coinreaders.com/268828",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111006255114512aaae0046f_30",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838122&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "[거래소기관]삼성전자삼성바이오로직스NAVER삼성물산쓸어담았다",
-  "‘크래시2’판제대로키웠다..박준우감독X오수진작가가자신한승...",
-  "12년만의삼성우승에에버랜드도환호…팬1000명과‘데이트’성사...",
-  "충주우륵문화제,방문객7만9000여명…24%↑",
-  "[디지털문서인사이트]전자문서,표준을따르던나라에서만드는나라...",
-  "AI-RANSummit2026개막…글로벌연사30여명발표",
   "[총수家]젠슨황엔비디아CEO⑤ㅣ세계AI시장흔드는'황패밀리'…...",
   "[현대차의저력②]로봇·AI로넓히는미래모빌리티…신성장동력'가속...",
   "인사말하는이도규과기정통부정보통신정책실장[포토]",
@@ -6001,7 +5995,13 @@
   "'젠슨황불륜설'기업,美조사돌연중단…엔비디아개입했나",
   "대만,AI株급락에공매도규제강화…증시3개월만에최대상승",
   "KT가최고승자라면정관장은숨은승자!3%확률로이번에도로터리안...",
-  "[외신헤드라인]엔비디아'흔들'…구글은차세대칩2종출시"
+  "[외신헤드라인]엔비디아'흔들'…구글은차세대칩2종출시",
+  "엔비디아'CEO리스크'돌출...젠슨황스캔들에회사도'흔들'",
+  "미국발AI투자우려에…빅테크한국데이터센터사업주목",
+  "[뉴욕마감]엔비디아위기에도급반등…나스닥2.74%상승",
+  "비트코인(BTC),7만3,500달러까지추락...엔비디아(NVDA)쇼크에11억달...",
+  "필라델피아반도체지수6.8%,마이크론6.2%급반등...반도체주,일제히...",
+  "프랑스\"냉장고해킹,이란혁명수비대소행\""
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,21 @@
   [
    "2026-11-10T06:32:18.128036+09:00",
    "구글은 2종 차세대 흔들 출시"
+  ],
+  [
+   "2026-11-10T06:34:15.861401+09:00",
+   "빅테크 미국발 투자 우려에 주목 사업 한국 데이터센터"
+  ],
+  [
+   "2026-11-10T06:34:15.861401+09:00",
+   "마이크론 급반등 필라델피아반도체지수 일제히 반도체주"
+  ],
+  [
+   "2026-11-10T06:34:15.861401+09:00",
+   "추락 500달러까지 BTC 11억 7만 NVDA 비트코인 쇼크에"
   ]
  ],
- "last_run": "2026-11-10T06:32:38.741018+09:00",
+ "last_run": "2026-11-10T06:34:43.905686+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
