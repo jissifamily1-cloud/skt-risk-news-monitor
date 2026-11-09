@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026110912480001051?did=NA",
-  "http://www.osen.co.kr/article/G1112907239",
-  "https://www.asiatime.co.kr/article/20261109500400",
-  "https://sports.hankooki.com/news/articleView.html?idxno=6943195",
-  "https://www.kmib.co.kr/article/20261109501322",
-  "http://www.kdfnews.com/news/articleView.html?idxno=190655",
-  "https://www.ziksir.com/news/articleView.html?idxno=152585",
   "https://www.smartbizn.com/news/articleView.html?idxno=158830",
   "https://www.nocutnews.co.kr/news/6604231",
   "https://www.newscj.com/news/articleView.html?idxno=3447222",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/world/usa-canada/6348396",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000081094",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443852",
-  "https://www.cstimes.com/news/articleView.html?idxno=727235"
+  "https://www.cstimes.com/news/articleView.html?idxno=727235",
+  "https://www.smartbizn.com/news/articleView.html?idxno=158818",
+  "https://biz.sbs.co.kr/article_hub/20000345274?division=NAVER",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261110075243vWY",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284276",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=146879",
+  "https://www.etoday.co.kr/news/view/2646022",
+  "https://biz.sbs.co.kr/article_hub/20000345273?division=NAVER"
  ],
  "seen_titles": [
-  "추경호대구광역시장,'AX위원회'출범...AI전환본격시동",
-  "서울바이오허브최고경영자과정2기반환점…“경영기본기에성장전략...",
-  "LGAI연구원,'K-엑사원2.5'무료개방…AI에이전트성능70%이상향상",
-  "약세장진입한日닛케이주가...\"연내5만엔전망도\"",
-  "대신증권,정보유출고객에최대1000만원보상보험지원",
-  "엔비디아,리벨리온·SKT와맞손⋯소버린AI인프라고도화",
-  "SKT·엔비디아·리벨리온,한국형소버린AI인프라공동개발나선다",
   "젠슨황리더십논란속서울AI데이…엔비디아측'묵묵부답'",
   "KT나스미디어,3분기영업익57억원...전년비51%↑",
   "젠슨황,中스파이의혹여성과불륜인정...엔비디아이사회조사",
@@ -6001,7 +5994,14 @@
   "트럼프\"젠슨황,스파이인줄몰랐다더라…나도얼마전에야들어\"",
   "젠슨황'불륜시인'에소환된中여성스파이스캔들…美안보'경고등...",
   "젠슨황,中스파이와관계은폐혐의로집단소송피소",
-  "한국인터넷진흥원(KISA)차세대보안리더'팀비오비',대만국제해킹..."
+  "한국인터넷진흥원(KISA)차세대보안리더'팀비오비',대만국제해킹...",
+  "롯데,百·렌탈자산매각으로체질개선···SK식리밸런식시험대",
+  "[애프터마켓리뷰]AI데이터센터투자확대에광통신주급등",
+  "[3분증시]뉴욕증시,저가매수에3대지수상승",
+  "트럼프,젠슨황두둔\"여성이스파이인줄몰랐을것\"",
+  "엔비디아,中스파이불륜스캔들속장중8%대급락",
+  "반등한국제금값…국내금시세는?",
+  "[비즈나우]엔비디아지고구글뜬다?"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,17 @@
   [
    "2026-11-10T07:52:16.443730+09:00",
    "관계 은폐 소송 피소 집단 혐의로 젠슨 스파이와"
+  ],
+  [
+   "2026-11-10T07:54:17.974163+09:00",
+   "지고 구글 뜬다"
+  ],
+  [
+   "2026-11-10T07:54:17.974163+09:00",
+   "반등한 금시세는 국제 국내 금값"
   ]
  ],
- "last_run": "2026-11-10T07:52:39.190892+09:00",
+ "last_run": "2026-11-10T07:54:38.439697+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
