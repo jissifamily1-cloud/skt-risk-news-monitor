@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/international/435099",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261109172719nqp",
-  "http://www.ikoreanspirit.com/news/articleView.html?idxno=88157",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000081050",
-  "https://www.kmib.co.kr/article/20261109501468",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261109010003352",
-  "https://www.klnews.co.kr/news/articleView.html?idxno=323418",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=215726",
   "https://byline.network/?p=9004111222626780",
   "https://www.sisaweek.com/news/articleView.html?idxno=238866",
   "https://www.hani.co.kr/arti/sports/baseball/1286469.html",
@@ -2999,17 +2991,17 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714036",
   "http://weekly.chosun.com/news/articleView.html?idxno=56983",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443875",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443874"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443874",
+  "https://www.hankyung.com/article/2026110957501",
+  "https://www.lecturernews.com/news/articleView.html?idxno=213518",
+  "https://www.nocutnews.co.kr/news/6604377",
+  "https://www.catchnews.kr/news/articleView.html?idxno=130283",
+  "http://www.newsprime.co.kr/news/article.html?no=754270",
+  "https://www.newspim.com/news/view/20261110000052",
+  "https://www.tokenpost.kr/news/ai/435491",
+  "https://www.kyosu.net/news/articleView.html?idxno=212220"
  ],
  "seen_titles": [
-  "[동정]추경호대구광역시장",
-  "노타,GPU4분의1로초거대AI구동…전력부담낮춘다",
-  "\"AI시대개인정보보호,CPO·CEO함께결정해야\"...개인정보정책포럼...",
-  "텐센트,글로벌최상위오픈소스AI모델'하이4'공개…컴퓨터조작부...",
-  "모티프,투자유치마무리…본격적으로차기모델개발시작",
-  "BNK금융,전계열사CISO총동원…그룹보안방어선전면재구축",
-  "금감원,‘정보유출’미래에셋증권현장점검",
-  "젠슨황불륜인정일파만파...불과5개월전'유퀴즈'서부인로리황언...",
   "엔비디아,'독파모'참여한업스테이지·모티프에투자",
   "'젠슨황불륜밈'급속확산...뭘패러디했는지알아봤더니",
   "엔비디아'중국스파이'논조,중국외교부'근거없는억측'반박",
@@ -6001,7 +5993,15 @@
   "\"중국은적아니다\"외쳤던젠슨황망신살…과거대중국발언재조명",
   "젠슨황감싼트럼프\"中간첩인줄몰랐다더라...고통받고있어\"",
   "\"젠슨황물러나도엔비디아이끌인재많다\"",
-  "\"엔비디아,중국직간접매출470억달러\"…美정부규제리스크"
+  "\"엔비디아,중국직간접매출470억달러\"…美정부규제리스크",
+  "LGU+,한국어로대화하는AI만든다",
+  "[조선주의클래식인문학]11월10일,엔니오모리코네탄생…영화《미...",
+  "'최형우·차우찬사태이후10년'구자욱·원태인은붙잡을까,삼성왕조...",
+  "11월9일주식시장주요공시",
+  "래블업,'북미최대'클라우드네이티브행사서쿠버네티스통합가속...",
+  "[모닝리포트]\"코스피반등전망…저가매수기회\"",
+  "젠슨황,불륜인정1년전부터위기관리홍보사와협업",
+  "AI인재키운다며밤11시면불끄는대학"
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,13 @@
   [
    "2026-11-10T08:52:16.048466+09:00",
    "물러나도 많다 인재 젠슨 이끌"
+  ],
+  [
+   "2026-11-10T08:54:15.806655+09:00",
+   "11시면 키운다며 인재 끄는 대학"
   ]
  ],
- "last_run": "2026-11-10T08:52:35.934300+09:00",
+ "last_run": "2026-11-10T08:54:37.175501+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
