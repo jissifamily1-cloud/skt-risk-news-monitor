@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.popcornnews.net/news/articleView.html?idxno=139395",
-  "https://www.ytn.co.kr/_ln/0104_202611101450198095",
-  "https://www.asiatime.co.kr/article/20261110500307",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=313433",
-  "https://www.newspost.kr/news/articleView.html?idxno=227216",
-  "https://www.ytn.co.kr/_ln/0104_202611101451234461",
-  "https://economist.co.kr/article/view/ecn202611100038",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543259",
   "https://monthly.chosun.com/news/articleView.html?idxno=71937",
   "https://www.sportsworldi.com/newsView/20261110507412",
   "http://www.joynews24.com/view/2024579",
@@ -2999,17 +2991,17 @@
   "https://sports.donga.com/sports/article/all/20261111/135000412/1",
   "https://www.newspim.com/news/view/20261110001152",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6864714_37012.html",
-  "https://www.khan.co.kr/article/202611110600121"
+  "https://www.khan.co.kr/article/202611110600121",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489869",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712931",
+  "https://www.hankyung.com/article/202611057577i",
+  "https://www.dt.co.kr/article/12093340",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840038&plink=ORI&cooper=NAVER",
+  "https://www.newsis.com/view/NISX20261111_0003862932",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6864715_37012.html",
+  "https://view.asiae.co.kr/article/2026111106080888613"
  ],
  "seen_titles": [
-  "대구시,'2026대구자활청년타운홀'성황...청년자활·취업·창업의...",
-  "무신사100번째매장은'뷰티'…홍대이어성수로'올영천하'도전장[T...",
-  "“아우디한대사면한대더”알고보니‘모형차’…中당국조사...",
-  "앤트로픽클로드페이블5.2등판\"페르마정리증명30시간만에\"",
-  "TSMC의메모리산업진출?…실현가능성낮은네가지이유[고든정의...",
-  "성균관대-英국립물리연구소,양자기술공동연구위해'맞손'",
-  "바이낸스턴북해커,'1회용밈코인'만들어돈세탁",
-  "젠슨황의혹에흔들리는GPU공급망…K-AI업계‘긴장’",
   "젠슨황스캔들파장…엔비디아-韓협력구도영향은",
   "KT,3분기매출6조9975억원…본업회복세",
   "\"젠슨황은대체불가\"...머스크·월가거물들,'중스파이불륜'감싸나",
@@ -6001,7 +5993,15 @@
   "대표팀핵심으로성장하나…성인첫태극마크단10명의유망주",
   "LGAI'K-엑사원2.0',中딥시크따라잡았다...한국형소버린AI도성장...",
   "1부오늘의주요뉴스",
-  "막대한GPU매출에혹했나···젠슨황불륜으로재조명된AI칩‘뒷문..."
+  "막대한GPU매출에혹했나···젠슨황불륜으로재조명된AI칩‘뒷문...",
+  "[단독]휴대폰개통때민간인증2개로가능···복합인증체계추진",
+  "3G종료준비나선통신업계…알뜰폰·고령층보호관건",
+  "스페이스X,퀄컴과美5G이동통신망구축…양사주가는떨어져",
+  "위장전입식‘여론조사조작’167명송치…휴대폰료청구지옮긴‘가...",
+  "엔비디아이틀째'급락'…장중시총3위로밀려",
+  "젠슨황악재에엔비디아,장중약6%↓…시총3위로밀려나",
+  "물가불안에'빅스텝'거론‥엔비디아또급락",
+  "[속보]엔비디아쇼크·'빅스텝'가능성에뉴욕증시하락마감"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,21 @@
   [
    "2026-11-11T06:08:17.446741+09:00",
    "막대한 매출에 뒷문 GPU 혹했나 재조명된 불륜으로 젠슨"
+  ],
+  [
+   "2026-11-11T06:10:27.396150+09:00",
+   "뉴욕증시 마감 빅스텝 하락 쇼크 가능성에"
+  ],
+  [
+   "2026-11-11T06:10:27.396150+09:00",
+   "젠슨 시총 악재에 밀려나 장중 3위로"
+  ],
+  [
+   "2026-11-11T06:10:27.396150+09:00",
+   "거론 물가 빅스텝 불안에 급락"
   ]
  ],
- "last_run": "2026-11-11T06:08:36.810532+09:00",
+ "last_run": "2026-11-11T06:10:48.899473+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
