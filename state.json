@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1423473",
-  "https://www.smartbizn.com/news/articleView.html?idxno=158913",
-  "https://www.newsway.co.kr/news/view?ud=2026111009274065210",
-  "https://economist.co.kr/article/view/ecn202611100005",
-  "https://www.seoulfn.com/news/articleView.html?idxno=642349",
-  "https://www.news1.kr/finance/market-exr/6348624",
-  "https://www.radiokorea.com/news/article.php?uid=509195",
-  "https://www.jemin.com/news/articleView.html?idxno=846682",
-  "https://www.fnnews.com/news/202611100926453970",
-  "https://www.etnews.com/20261110000075",
-  "https://www.munhwa.com/article/11630115",
   "https://www.theguru.co.kr/news/article.html?no=109483",
   "https://www.dailian.co.kr/news/view/1712939/?sc=Naver",
   "https://www.news1.kr/bio/pharmaceutical-bio/6348646",
@@ -2999,20 +2988,20 @@
   "https://biz.sbs.co.kr/article_hub/20000345511?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000345492?division=NAVER",
   "https://www.dt.co.kr/article/12094360",
-  "https://www.pdjournal.com/news/articleView.html?idxno=90134"
+  "https://www.pdjournal.com/news/articleView.html?idxno=90134",
+  "https://wemakenews.co.kr/news/view.php?no=26783",
+  "https://www.donga.com/news/Economy/article/all/20261110/135001399/1",
+  "https://www.aitimes.com/news/articleView.html?idxno=217239",
+  "https://www.dt.co.kr/article/12094362",
+  "https://www.fnnews.com/news/202611101814537024",
+  "https://www.bloter.net/news/articleView.html?idxno=678253",
+  "https://www.fnnews.com/news/202611101814507985",
+  "https://www.mt.co.kr/world/2026/11/10/2026111016531419934",
+  "https://www.hankyung.com/article/2026111083571",
+  "https://www.hankyung.com/article/2026111083561",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242823"
  ],
  "seen_titles": [
-  "노타,'키미K3.1프로'최적화로GPU구매비용절감···B300대신B20...",
-  "‘바짝엎드린’빅테크⋯데이터센터전기요금떠안고우주‘눈독’",
-  "[특징주]삼성전자·SK하이닉스동반급등…美반도체주반등에투심회...",
-  "[컨콜]NHN\"GPU사업,직접비기준30%가까운이익\"",
-  "[모닝리포트]두산,목표가242만→127만원'반토막'에도…\"업황은견조...",
-  "“코스피,4500선까진열어놔야”외국인·엔비디아실적이갈림길[투자...",
-  "방미심위,KBS박장범'파우치'앵커멘트법정제재유지",
-  "LG유플러스,車사이버보안ML3인증…국내통신사최초획득",
-  "완연한회복세,AX전략본격화…KT,3분기영업익‘5053억’",
-  "KT,3분기영업익5053억…무선서비스회복세",
-  "KT,3분기영업이익5053억···전년비6.1%↓",
   "KT,3분기영업익5053억원…전년比6.1%↓",
   "KT,3분기영업익소폭감소…그룹사실적기여확대",
   "(자료+)KT,3Q영업이익5053억원···분양이익기저효과에6.1%↓",
@@ -6001,7 +5990,18 @@
   "빗썸,또고객불편...'외국인이용불가'떠",
   "젠슨황스캔들'일파만파'…후계자거론도",
   "[맹준호칼럼]‘시한폭탄’젠슨황스캔들,철저한대비필요하다",
-  "\"YTN사태장기간표류...李대통령해결의지밝혀야\""
+  "\"YTN사태장기간표류...李대통령해결의지밝혀야\"",
+  "LG유플러스,초고속인터넷이용자경험평가서7개지표1위권",
+  "경기도경제과학진흥원-한국지능정보사회진흥원,‘2026제2회AI대전환...",
+  "챗GPT,주요AI챗봇이용량81%차지…클로드급성장에도독주",
+  "손정의도‘AI역풍’에굴복…소프트뱅크1조엔순손실,2년만적자전...",
+  "앨리스황행방묘연…싱가포르현지사무실도폐쇄",
+  "KT의투트랙성장전략'통신내실·AI확장'",
+  "젠슨황스캔들에흔들리는엔비디아…AI산업자금줄막히나",
+  "\"中문샷AI,엔비디아최첨단B300임대정황\"",
+  "'깐부'두둔한트럼프\"전적으로믿는다\"",
+  "中스파이\"GPU확보문제없다\"과시하며대규모투자유치",
+  "엔비디아\"피지컬AI가6G수요견인,센서데이터는'엣지'로분배\""
  ],
  "recent_sigs": [
   [
@@ -7107,9 +7107,21 @@
   [
    "2026-11-10T18:10:27.309599+09:00",
    "계약 전문회사와 위기관리 지난해 성추문"
+  ],
+  [
+   "2026-11-10T18:18:17.515441+09:00",
+   "내실 ~KT 성장전략 통신 KT의 확장 투트랙"
+  ],
+  [
+   "2026-11-10T18:18:17.515441+09:00",
+   "GPU 문제없다 대규모 스파이 확보 투자유치 과시하며"
+  ],
+  [
+   "2026-11-10T18:18:17.515441+09:00",
+   "피지컬 분배 수요 센서 6G 엣지 AI가 데이터는 견인"
   ]
  ],
- "last_run": "2026-11-10T18:16:32.440048+09:00",
+ "last_run": "2026-11-10T18:18:39.442164+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
