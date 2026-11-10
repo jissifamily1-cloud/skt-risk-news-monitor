@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/article/2026110917445935046",
-  "https://www.dailian.co.kr/news/view/1712782/?sc=Naver",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42658",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194405",
-  "https://news.mtn.co.kr/article/2026110917141171944",
-  "https://www.techm.kr/news/articleView.html?idxno=157112",
-  "https://www.etnews.com/20261109000414",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261109174700LxU",
-  "https://www.m-i.kr/news/articleView.html?idxno=2016359",
-  "https://www.techm.kr/news/articleView.html?idxno=157110",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=601941",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=194401",
   "https://www.hankyung.com/article/2026110958761",
@@ -2999,19 +2989,19 @@
   "https://zdnet.co.kr/view/?no=20261110084655",
   "https://www.pennmike.com/news/articleView.html?idxno=131434",
   "https://www.joongangenews.com/news/articleView.html?idxno=562492",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000081104"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000081104",
+  "https://mhnse.com/news/articleView.html?idxno=1690761",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3747079",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3747143",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3747158",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3747098",
+  "https://www.etnews.com/20261110000028",
+  "https://www.tokenpost.kr/news/ai/435500",
+  "https://www.gamevu.co.kr/news/articleView.html?idxno=62131",
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4117566",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443882"
  ],
  "seen_titles": [
-  "엔비디아투자등에업은모티프…차세대AI모델‘모티프4’개발착...",
-  "젠슨황불륜논란속‘엔비디아AI데이’…취재진질문에침묵",
-  "KT나스미디어,3분기영업익57억원…비용절감에50.8%↑",
-  "KT,'1111·1234·1004'골드번호추첨…1인당3개까지응모",
-  "中공작표적된젠슨황…33년'원맨리더십'휘청",
-  "엔비디아,삼성·LG·카카오와협력확대…韓피지컬AI공략가속",
-  "[이슈]젠슨황,'中스파이연루의혹'여성과불륜시인⋯트럼프행정...",
-  "\"수술은피했다\"…타구직격아찔했던KT권동진,검진결과'안와미세...",
-  "모티프테크놀로지스,'모티프4'개발착수…내년1분기공개목표",
-  "챗GPT,한국서1800만명넘게쓴다…이용시간도2배급증",
   "대신증권,정보유출고객에피해지원금1만원지급",
   "업스테이지,엔비디아투자유치예정…아마존·AMD이어글로벌빅테크...",
   "[엔비디아AI데이]네이버클라우드,엔비디아와멀티모달AI고도화",
@@ -6001,7 +5991,17 @@
   "트럼프\"젠슨황과통화...스파이인줄몰랐다고해\"",
   "젠슨황불륜후폭풍,하루만에시총258조원증발...엔비디아'나홀로...",
   "엔비디아,'젠슨황악재'에4.3%급락…시총258조원증발",
-  "젠슨황과직접통화한트럼프…\"스파이인줄몰랐다더라\""
+  "젠슨황과직접통화한트럼프…\"스파이인줄몰랐다더라\"",
+  "베이온,일본첫팬미팅…센\"일본서더많이만날수있도록\"",
+  "울산항만공사,지역예술인과손잡고어촌마을관광활성화나서",
+  "동서발전,울산서산·학·연협력으로통합발전소(VPP)발전방안모색",
+  "\"직원가족이함께한하루\"…고려아연,생태숲체험행사성료",
+  "\"9년째인증유지\"…울산항만공사,여가친화기업재인증획득",
+  "수세코리아,PoC에서엔터프라이즈AI운영으로…'SUSEAIFactory'제시",
+  "앤트로픽IPO,AI주회복시험대로본크레이머",
+  "[ICT종합]네이버페이및비댁스소식외",
+  "뉴욕증시,반도체주저가매수에급반등…엔비디아는4%하락",
+  "젠슨황엔비디아CEO,자리지킬까…트럼프·월가의견분분"
  ],
  "recent_sigs": [
   [
@@ -6713,7 +6713,7 @@
    "젠슨 일파만파 산업 의혹 사생활 커진다 불확실성"
   ]
  ],
- "last_run": "2026-11-10T09:08:31.041425+09:00",
+ "last_run": "2026-11-10T09:10:46.764263+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
