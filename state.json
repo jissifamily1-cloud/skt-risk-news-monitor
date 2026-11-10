@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.mtn.co.kr/article/2026111015452578240",
-  "https://www.newsis.com/view/NISX20261110_0003861346",
-  "https://www.etnews.com/20261110000395",
-  "https://biz.heraldcorp.com/article/10932428",
-  "https://www.dailian.co.kr/news/view/1713138/?sc=Naver",
-  "https://www.fnnews.com/news/202611100920262932",
-  "https://www.imaeil.com/page/view/2026111013520872463",
   "https://www.etoday.co.kr/news/view/2646405",
   "http://www.newsfc.co.kr/news/articleView.html?idxno=82367",
   "https://www.kmib.co.kr/article/20261110501255",
@@ -2999,16 +2992,16 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000081481",
   "https://www.mediapen.com/news/view/1136540",
   "https://biz.sbs.co.kr/article_hub/20000345562?division=NAVER",
-  "https://www.news1.kr/world/europe/6349801"
+  "https://www.news1.kr/world/europe/6349801",
+  "https://www.tokenpost.kr/news/ai/435708",
+  "https://www.hankyung.com/article/2026110832541",
+  "https://zdnet.co.kr/view/?no=20261102182648",
+  "https://www.busan.com/view/busan/view.php?code=2026111107304199438",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559357",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338349",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11890"
  ],
  "seen_titles": [
-  "[유미's픽]\"이재용이콕찍은구미\"…삼성60조투자시동,다음은오...",
-  "육아·연애까지AI에?…빅테크CEO들의'황당무계'미래구상",
-  "샘알트먼\"개인용PC에서램쓰는건끔찍…데이터센터에몰아줘야\"",
-  "미소스5.5·GPT-6.2아스트라잇달아포착…최첨단모델출시설",
-  "샘알트먼\"AI가보안문제만드는것아냐…오히려결함찾는것\"",
-  "반도체주급등에코스피5200선복귀…외인·기관쌍끌이매수[MTN마감...",
-  "[현장]삼성전자가14년간육성한스타트업만1000여곳…올해눈에띈혁...",
   "숭실대AI안전성연구센터,해커속여서버보호'AI기만방어'개발",
   "삼성D,업계최초‘자동차사이버보안인증’2종동시획득",
   "[컨콜]KT\"AI상담처리비중높아져…상담인력감소가능성\"",
@@ -6001,7 +5994,14 @@
   "美물가예상보다더올랐다…뉴욕증시일제히하락·나스닥0.74%↓",
   "[美증시]엔비디아젠슨황불륜에시총4조달러'간당간당'…MS에도밀릴...",
   "[마켓프리뷰]매수사이드카발동…중간선거·젠슨황'쇼크'걷힐까?",
-  "이란,佛슈퍼냉장고해킹배후설에반발…\"근거없는비난거부\""
+  "이란,佛슈퍼냉장고해킹배후설에반발…\"근거없는비난거부\"",
+  "오픈AIdot,여러컴퓨터연결해작업별테스트지원",
+  "美선거에결과에희비…삼전닉스떨고'이업종'은웃었다",
+  "알트먼CEO,삼성·SK회동…스타게이트협력강화'기대'",
+  "\"앨리스황,10조원상당엔비디아AI칩중국으로밀반입\"",
+  "“젠슨황내연녀,10조원엔비디아AI칩중국밀반입”",
+  "한덕수20일석방?한겨레\"조희대,이재명사건은전합회부9일만에...",
+  "오세훈·장동혁·이준석·한동훈보수'4자필승론'의허상"
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,17 @@
   [
    "2026-11-11T07:38:16.492246+09:00",
    "쇼크 젠슨 사이드카 발동 중간선거 매수 걷힐까"
+  ],
+  [
+   "2026-11-11T07:40:27.208907+09:00",
+   "9일 조희대 만에 한덕수 한겨레 석방 사건은 회부 20일 전합 이재명"
+  ],
+  [
+   "2026-11-11T07:40:27.208907+09:00",
+   "장동혁 보수 이준석 한동훈 허상 4자 오세훈 필승론"
   ]
  ],
- "last_run": "2026-11-11T07:38:35.671775+09:00",
+ "last_run": "2026-11-11T07:40:45.508550+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
