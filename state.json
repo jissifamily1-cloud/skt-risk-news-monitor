@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202611081638001",
-  "https://www.bloter.net/news/articleView.html?idxno=678218",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=730877",
-  "https://www.venturesquare.net/1126839/",
-  "https://platum.kr/archives/298082",
-  "https://www.hankyung.com/article/2026110831561",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229679",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=194446",
   "https://www.joongangenews.com/news/articleView.html?idxno=562488",
@@ -2999,15 +2993,15 @@
   "https://news.tvchosun.com/site/data/html_dir/2026/11/11/2026111190006.html",
   "https://www.hankyung.com/article/2026111187887",
   "https://www.dt.co.kr/article/12094410",
-  "https://biz.sbs.co.kr/article_hub/20000345555?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000345555?division=NAVER",
+  "https://www.sisain.co.kr/news/articleView.html?idxno=58747",
+  "https://www.yna.co.kr/view/AKR20261111010700009?input=1195m",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261111062734gW1",
+  "https://www.mk.co.kr/article/12204772",
+  "https://www.news1.kr/world/international-economy/6349777",
+  "https://biz.sbs.co.kr/article_hub/20000345547?division=NAVER"
  ],
  "seen_titles": [
-  "'번호만살려두는데연5만원'…KT정지요금14%↑",
-  "클로드앱국내사용자역대최대,생성형AI앱3위",
-  "톰리\"암호화폐강세장,이제시작\"...이더리움(ETH)5만달러도달론...",
-  "[BOOKS]AI가정답을만드는시대,인재는어떻게달라져야하나",
-  "\"AI슈퍼사이클끝나나\"…美데이터센터규제에K반도체성장론시험대",
-  "“미국에못짓는AI데이터센터한국에유치하자”?…정말기회이기만...",
   "[현대차다음성장조건]'정밀한자율주행'삼성과함께이뤄내나",
   "[주간증시전망대]코스피,반등의실마리찾나…美물가·AI실적이분...",
   "킨드레드벤처스,실리콘밸리AI창업자서울집결…23일‘AI웨이브’...",
@@ -6001,7 +5995,13 @@
   "엔비디아이틀째'급락'…시총3위로밀려나",
   "\"앨리스황,10조원규모엔비디아AI칩중국우회유출\"",
   "美IT매체“젠슨황연인앨리스황,10조원규모엔비디아칩중국으로...",
-  "美공화\"젠슨황조사해야\"…트럼프와대립각"
+  "美공화\"젠슨황조사해야\"…트럼프와대립각",
+  "‘책이망하면AI도망한다’AI학습논란에대한출판계의생각들",
+  "앤트로픽19일상장…골드만삭스\"매출5년내150배증가\"",
+  "\"젠슨황연인앨리스황,10조원엔비디아AI칩중국밀반입\"",
+  "“젠슨황불러올수있다”…엔비디아AI칩24만개중국에넘긴앨리스...",
+  "필라델피아반도체0.35%하락…엔비디아·마이크론·SK하이닉스ADR약세",
+  "[외신헤드라인]앤트로픽\"공모가70~78달러…86조원조달계획\""
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,21 @@
   [
    "2026-11-11T06:28:16.372963+09:00",
    "트럼프와 조사해야 공화 대립각 젠슨"
+  ],
+  [
+   "2026-11-11T06:30:32.508643+09:00",
+   "넘긴 젠슨황 중국에 있다 앨리스 24만개 AI칩 불러올"
+  ],
+  [
+   "2026-11-11T06:30:32.508643+09:00",
+   "공모가 계획 78달러 앤트로픽 86조원 조달"
+  ],
+  [
+   "2026-11-11T06:30:32.508643+09:00",
+   "SK하이닉스 반도체 하락 ADR 약세 필라델피아 마이크론"
   ]
  ],
- "last_run": "2026-11-11T06:28:35.106342+09:00",
+ "last_run": "2026-11-11T06:30:55.845466+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
