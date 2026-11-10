@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6348660",
-  "https://www.lawtv.kr/news/articleView.html?idxno=61377",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443908",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=130730",
-  "https://www.dailian.co.kr/news/view/1712933/?sc=Naver",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838518&plink=ORI&cooper=NAVER",
-  "https://www.newsis.com/view/NISX20261110_0003861434",
-  "https://imnews.imbc.com/news/2026/world/article/6864486_36925.html",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=397369",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443907",
   "http://www.weeklytoday.com/news/articleView.html?idxno=801464",
   "https://www.segye.com/newsView/20261109517897?OutUrl=naver",
   "https://www.hankookilbo.com/news/article/A2026110916290000039?did=NA",
@@ -2999,19 +2989,19 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230136",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708444",
   "https://news.jtbc.co.kr/article/NB12327411?influxDiv=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261110195633xDZ"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261110195633xDZ",
+  "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553689911",
+  "https://www.xportsnews.com/article/2217899",
+  "https://www.hidomin.com/news/articleView.html?idxno=728838",
+  "https://view.asiae.co.kr/article/2026111009441669231",
+  "https://biz.heraldcorp.com/article/10932553",
+  "https://news.jtbc.co.kr/article/NB12327451?influxDiv=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6864639_37004.html",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6864638_37004.html",
+  "https://www.news1.kr/finance/general-finance/6349701",
+  "https://www.ikbc.co.kr/article/view/kbc202611100080"
  ],
  "seen_titles": [
-  "SK하이닉스\"'피직스AI도코딩하듯…엔비디아와'바이브모델링'구상\"",
-  "“스포츠가온통파란색!”...삼성치어리더진수화,뜨거운열기프로...",
-  "삼성전자'2026C랩스타트업데모데이'개최…8기기술·성과공유",
-  "레드햇,클라우드플랫폼'오픈시프트5'출시...양자암호·AI에이전트...",
-  "메가존클라우드,오픈AI'셀렉트'파트너선정",
-  "[신윤우의외환분석]중동훈풍에기술주회복까지…잠깐의안도감",
-  "NHN클라우드,내년4조원규모정부GPU사업참여추진",
-  "금(금값,금시세)11월10일,순금18K14K백금등'폴짝'",
-  "유니온바이오메트릭스‘라이브가드’,CES2027사이버보안부문최고...",
-  "KT,3분기영업이익5053억원…전년比감소",
   "\"악재딛고반등신호\"KT,무선회복조짐…AX매출도성장(종합)",
   "'블루웨이브쇼크'에젠슨황스캔들까지...K반도체불확실성확대",
   "트럼프\"대이란군사행동필요치않아…젠슨황,고통겪는중\"(종합)",
@@ -6001,21 +5991,19 @@
   "금융보안원조차해킹당했다…당국에'정보유출'신고",
   "LGU+,국내이통사첫자동차사이버보안‘ML3’인증획득",
   "'미국심사뚫은'중국기업직접가봤더니…흔적도없다",
-  "[뉴스프라임]젠슨황스캔들에…엔비디아시총260조증발"
+  "[뉴스프라임]젠슨황스캔들에…엔비디아시총260조증발",
+  "\"정말죄송합니다\"…'7이닝1실점→1⅓이닝8실점'끝내준우승막지못...",
+  "\"'허수아비'이기면미니콘서트·음원발매\"…'크래시2'가족싸움예고...",
+  "장기침체대구에…'희망'불씨켠라이온즈",
+  "클로드국내계정100여개유출…\"해외기업현장조사제약불가피\"",
+  "中스파이의혹여성과불륜인정…젠슨황운명은?",
+  "\"앨리스황,홍콩영주권자\"...젠슨황과친해진뒤중국에포섭된듯",
+  "\"중국스파이주장은중상모략\"‥APEC앞둔중국의셈법은?",
+  "\"중국시장서엔비디아칩팔려\"막아도넘어갔다",
+  "금융보안원도뚫렸다…상시평가지원시스템해킹으로정보유출",
+  "[속보]금융보안원도해킹뚫렸다…금융사보안정보유출가능성"
  ],
  "recent_sigs": [
-  [
-   "2026-11-10T14:02:16.227306+09:00",
-   "재검토 유럽 움직임 빅테크 규제 확산 전략 확장 데이터센터"
-  ],
-  [
-   "2026-11-10T14:02:16.227306+09:00",
-   "황에게서 중국은 젠슨 얻으려 쟁점 대중국 로비 했나 무엇을"
-  ],
-  [
-   "2026-11-10T14:02:16.227306+09:00",
-   "석간 10일"
-  ],
   [
    "2026-11-10T14:04:16.892244+09:00",
    "극심한 변동성 IPO 속에서도 강행하는 앤트로픽"
@@ -7107,9 +7095,17 @@
   [
    "2026-11-10T19:58:15.890565+09:00",
    "금융보안원조차 유출 정보 당국에 해킹당했다 신고"
+  ],
+  [
+   "2026-11-10T20:02:19.100757+09:00",
+   "주장은 중국의 중상모략 앞둔 스파이 중국 셈법은 APEC"
+  ],
+  [
+   "2026-11-10T20:02:19.100757+09:00",
+   "팔려 시장서 중국 넘어갔다 막아도"
   ]
  ],
- "last_run": "2026-11-10T20:00:55.486619+09:00",
+ "last_run": "2026-11-10T20:02:37.207032+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
