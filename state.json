@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailysecu.com/news/articleView.html?idxno=209420",
-  "https://www.joongang.co.kr/article/25477138",
-  "https://www.wikitree.co.kr/articles/1173216",
-  "https://www.tokenpost.kr/news/briefing/435280",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209417",
-  "https://www.wikitree.co.kr/articles/1173212",
-  "https://www.ytn.co.kr/_ln/0104_202611092321039546",
-  "https://www.donga.com/news/Opinion/article/all/20261109/134995482/2",
-  "https://www.tokenpost.kr/news/breaking/435248",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209415",
-  "https://zdnet.co.kr/view/?no=20261109155158",
   "https://www.tjb.co.kr/news05/bodo/view/id/105883",
   "https://www.dailyt.co.kr/newsView/dlt202611090031",
   "https://www.nbntv.co.kr/news/articleView.html?idxno=4027211",
@@ -2999,20 +2988,20 @@
   "https://www.kyeonggi.com/article/20261110580184",
   "https://www.yna.co.kr/view/AKR20261110097100091?input=1195m",
   "http://www.koreastocknews.com/news/articleView.html?idxno=122191",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261110135549Lb5"
+  "http://www.yonhapnewstv.co.kr/news/AKR20261110135549Lb5",
+  "https://www.ajunews.com/view/20261110112149895",
+  "https://www.huffingtonpost.kr/article/261937",
+  "https://www.m-i.kr/news/articleView.html?idxno=2016605",
+  "https://www.busan.com/view/busan/view.php?code=2026111013534281838",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=93203",
+  "https://www.fnnews.com/news/202611101338382028",
+  "https://economist.co.kr/article/view/ecn202611100034",
+  "https://www.christiantoday.co.kr/news/378521",
+  "https://www.kyeonggi.com/article/20261110580186",
+  "https://www.tokenpost.kr/news/policy/435662",
+  "https://zdnet.co.kr/view/?no=20261110135724"
  ],
  "seen_titles": [
-  "‘러시아판스타링크’내년가동추진…우크라정밀드론타격가능",
-  "비트코인(BTC),나스닥2.35%뛸때뒷걸음…두달버틴7만4,968달러지...",
-  "[단독]미래에셋운용,'연기금투자풀'뚫렸다…정부기금수익률유출",
-  "프랑스“이란혁명수비대가슈퍼마켓냉장고사이버공격”",
-  "프랑스,냉장고사이버공격배후로이란혁명수비대지목",
-  "바이낸스유출주장부인,근거는개인키미보관…고객기기인포스틸러...",
-  "부산블록체인·사이버보안스타트업안암145,CES최고혁신상",
-  "바이낸스,3억3,590만줄유출주장에“사기가능성높다”…조사는...",
-  "엘립틱“북한탈취바이낸스자금,2억달러비트코인전환”",
-  "바이낸스떠나는CFO카이저응,농구·GPU·금토큰화스타트업구상밝...",
-  "경찰이중대범죄3288건넘겼지만,중수청은3건만수사",
   "[단독]민주당,전자투표'날치기'입법...예고기간단하루",
   "김재기S2W이사\"AI공격예방,공격자가보는외부접점부터살펴야\"",
   "[중앙시평]달콤씁쓸한지능의욕망",
@@ -6001,7 +5990,18 @@
   "첨단산업시공부담덜고통신해지간편화…‘산업경쟁력’끌어올린...",
   "앤트로픽,IPO앞두고최신AI모델공개…성능지표압도적1위",
   "LG유플러스·GS네오텍,보안맞손",
-  "젠슨황감싸는중국…관영매체\"정치적마녀사냥\""
+  "젠슨황감싸는중국…관영매체\"정치적마녀사냥\"",
+  "남춘천센트레빌,10일1순위청약…264가구공급",
+  "앤트로픽IPO직전'페이블','미토스'새모델출시:저비용앞세워투...",
+  "농촌진흥청,'농업연구협업용인공지능'개발착수",
+  "北해커,바이낸스털고‘1회용밈코인’찍어돈세탁",
+  "KT3분기영업이익전년보다6.1%↓,3사중유일감소",
+  "LG유플러스,자동차용사이버보안국제인증획득",
+  "\"젠슨황불륜때문에260조날렸다\"엔비디아주주들'집단소송'",
+  "엔비디아주가하락전망...젠슨황불륜스캔들에중국미인계스파이...",
+  "‘불륜고백’젠슨황,1년전부터성추문대응전문업체와협력",
+  "트럼프·젠슨황관계조사촉구한터스크…하원은중국접촉설명요청",
+  "엔비디아,이번엔AI칩중국밀수조사개입의혹"
  ],
  "recent_sigs": [
   [
@@ -7075,9 +7075,13 @@
   [
    "2026-11-10T13:52:16.229838+09:00",
    "제어기 NVHBM 베이스다이로 옮긴 공개 HBM"
+  ],
+  [
+   "2026-11-10T14:00:40.500820+09:00",
+   "중국밀수 개입 이번엔 의혹 조사"
   ]
  ],
- "last_run": "2026-11-10T13:58:33.675506+09:00",
+ "last_run": "2026-11-10T14:00:56.722718+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
