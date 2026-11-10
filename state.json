@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090092.html",
-  "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040401",
-  "https://www.rapportian.com/news/articleView.html?idxno=242190",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1730889",
   "http://www.efnews.co.kr/news/articleView.html?idxno=133842",
   "https://www.newsis.com/view/NISX20261110_0003861669",
@@ -2999,12 +2996,12 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839747&plink=ORI&cooper=NAVER",
   "https://www.edaily.co.kr/News/Read?newsId=06359926645644408&mediaCodeNo=257",
   "https://www.hani.co.kr/arti/economy/finance/1286705.html",
-  "https://www.ajunews.com/view/20261110210107573"
+  "https://www.ajunews.com/view/20261110210107573",
+  "https://zdnet.co.kr/view/?no=20261110210629",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1731156",
+  "https://news.dealsitetv.com/articles/178373"
  ],
  "seen_titles": [
-  "佛'냉장고테러'배후는러시아아닌혁명수비대…\"이란IP썼다\"",
-  "LG유플러스자동차사이버보안국제인증획득,차량소프트웨어경쟁력...",
-  "KT,해킹보상에3분기영업익6.1%↓…AX는성장세",
   "‘불륜스캔들’젠슨황,CEO자리지킬까…전문가들전망은",
   "코스피'美블루쓰나미'털고5,200선회복...삼전닉스5∼8%↑",
   "젠슨황의불륜의혹,파장어디까지…세계AI·반도체업계초긴장",
@@ -6001,21 +5998,12 @@
   "'냉장고50도'공격배후는\"이란혁명수비대\"",
   "금융보안원‘상시평가시스템’해킹…금융사제출서류유출(종합)",
   "금융보안원해킹으로정보유출…금융위“취약점정보유출은없어”",
-  "[종합]'파수꾼'금융보안원해킹피해로보안우려확산…\"서버일시중..."
+  "[종합]'파수꾼'금융보안원해킹피해로보안우려확산…\"서버일시중...",
+  "\"몰래고치면바로티가나는,믿을수있는운전성적표\"",
+  "[EBN오늘(10일)이슈종합]美AIDC투자지형변화…SKT·KT,글로벌빅...",
+  "금융보안원도해킹피해"
  ],
  "recent_sigs": [
-  [
-   "2026-11-10T15:08:16.111297+09:00",
-   "마를 업계 긴장 자금줄 거취에 젠슨 수도"
-  ],
-  [
-   "2026-11-10T15:08:16.111297+09:00",
-   "미스터리한 스캔들까지 앨리스 황의 스파이에 정체 불륜"
-  ],
-  [
-   "2026-11-10T15:08:16.111297+09:00",
-   "지정된 급등 이니시아 해킹에 거래유의"
-  ],
   [
    "2026-11-10T15:10:26.196017+09:00",
    "3분기 ~SKT 성적 영업익 기저효과로 ~LGU 통신3사 LGU 급증"
@@ -6983,9 +6971,13 @@
   [
    "2026-11-10T21:00:41.604507+09:00",
    "데이터센터서 소프트뱅크 손실 어닝쇼크 주범은 2Q 발생한"
+  ],
+  [
+   "2026-11-10T21:08:17.949711+09:00",
+   "금융보안원도 피해"
   ]
  ],
- "last_run": "2026-11-10T21:06:37.872764+09:00",
+ "last_run": "2026-11-10T21:08:36.894412+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
