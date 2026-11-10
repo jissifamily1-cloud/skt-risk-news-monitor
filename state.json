@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongangenews.com/news/articleView.html?idxno=562650",
-  "http://www.popcornnews.net/news/articleView.html?idxno=139393",
-  "https://nownews.seoul.co.kr/news/newsView.php?id=20261110601012&wlog_tag3=naver",
-  "https://www.munhwa.com/article/11630270",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/10/2026111000259.html",
-  "https://www.joongang.co.kr/article/25477318",
-  "https://www.ajunews.com/view/20261110144932453",
-  "https://www.newsis.com/view/NISX20261110_0003862278",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502454",
   "https://www.sportschosun.com/entertainment/2026-11-10/202611100100071650006596",
   "https://www.insight.co.kr/news/581429",
   "https://www.etoday.co.kr/news/view/2646352",
@@ -2999,18 +2990,18 @@
   "https://www.newdaily.co.kr/site/data/html/2026/11/11/2026111100011.html",
   "https://www.fnnews.com/news/202611110631156356",
   "https://www.g-enews.com/view.php?ud=202611110632171869e250e8e188_1",
-  "https://www.newsis.com/view/NISX20261111_0003862948"
+  "https://www.newsis.com/view/NISX20261111_0003862948",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502839",
+  "https://www.ngetnews.com/news/articleView.html?idxno=555752",
+  "https://www.g-enews.com/view.php?ud=2026111022221120380c8c1c064d_1",
+  "https://www.hankyung.com/article/202611118783i",
+  "https://biz.heraldcorp.com/article/10932814",
+  "https://biz.sbs.co.kr/article_hub/20000345557?division=NAVER",
+  "https://www.donga.com/news/Inter/article/all/20261111/135003308/1",
+  "https://www.sidae.com/article/2026111106125034758",
+  "https://www.dailian.co.kr/news/view/1713328/?sc=Naver"
  ],
  "seen_titles": [
-  "정무위\"공정위·개보위인력급증,중장기적으로큰부담될것\"",
-  "7100억→5조...쿠팡'최혜대우'관련매출급증,'징벌적과징금'포석이...",
-  "[오늘의주요일정·9일]김광용재난안전본부장'보행안전주간'캠페인",
-  "피해자구제기금으로개인정보유출기업지원?…예정처\"부적절\"",
-  "LG유플러스,車사이버보안국제표준ML3획득",
-  "프로농구삼성,kt꺾고선두수성…칸터4쿼터맹활약",
-  "KT,3분기영업익5053억전년比6.1%↓…무선·유선매출줄고그룹사...",
-  "나이도학력도경력도‘미스터리’…연기처럼사라진‘젠슨황불륜녀...",
-  "“내가엔비디아위기해결”전청조과거발언재소환이유",
   "셀카·사인즐기던젠슨황,해명할땐어디에…'中스파이의혹'불륜...",
   "‘젠슨황불륜상대’中여성회사,실체불분명…“사무실늘불꺼져...",
   "젠슨황리스크에...엔비디아시총하루새258조증발",
@@ -6001,7 +5992,16 @@
   "[속보]엔비디아파장지속,주가5.53%또급락…이틀새시총4300억달...",
   "[뉴욕증시]인플레우려에하락…엔비디아,5.5%급락",
   "[뉴욕증시]CPI쇼크에연준‘빅스텝공포’…나스닥187P·엔비디아5....",
-  "금융보안원해킹에행정서식·이용자정보유출…“고객민감정보는없..."
+  "금융보안원해킹에행정서식·이용자정보유출…“고객민감정보는없...",
+  "코스피·코스닥전거래일(10일)주요공시는...에코프로비엠\"종속회사...",
+  "무신사뷰티,성수에2호점…패션·잡화아우르는'카테고리시너지'[르...",
+  "\"복잡한쿠폰대신AI판다\"…中광군제,'단순가격제'와'AI토큰'으로...",
+  "美데이터센터서10조손실…손정의‘AI올인’시험대[도쿄나우]",
+  "“젠슨황불륜녀앨리스황,10조원엔비디아AI칩중국으로밀반입”",
+  "엔비디아,'젠슨황스캔들'독립조사에한국계전연방검사선임",
+  "美상원민주당원내대표“트럼프,젠슨황두둔…진상규명해야”",
+  "[속보]뉴욕증시,금리인상가능성에하락마감…엔비디아5%대급락",
+  "[속보]'젠슨황리스크'엔비디아,5.53%↓…뉴욕증시,예상웃돈물가..."
  ],
  "recent_sigs": [
   [
@@ -6295,9 +6295,13 @@
   [
    "2026-11-11T06:36:16.098069+09:00",
    "CPI 187P 쇼크에 나스닥 공포 연준 빅스텝"
+  ],
+  [
+   "2026-11-11T06:38:16.937945+09:00",
+   "젠슨 웃돈 예상 리스크 물가 뉴욕증시"
   ]
  ],
- "last_run": "2026-11-11T06:36:39.348935+09:00",
+ "last_run": "2026-11-11T06:38:32.882314+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
