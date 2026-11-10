@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261110137700009?input=1195m",
-  "https://www.newspim.com/news/view/20261110001292",
-  "http://www.inews24.com/view/2024662",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731135",
-  "http://www.dailysmart.co.kr/news/articleView.html?idxno=132294",
-  "https://www.viva100.com/article/20261110501155",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=320290",
-  "https://www.todayeconomic.com/news/article.html?no=32787",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444010",
   "https://www.etoday.co.kr/news/view/2646434",
   "https://www.newdaily.co.kr/site/data/html/2026/11/10/2026111000318.html",
   "https://www.topstarnews.net/news/articleView.html?idxno=16272972",
@@ -2999,18 +2990,18 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=146923",
   "https://www.etoday.co.kr/news/view/2646550",
   "https://view.asiae.co.kr/article/2026111108174870879",
-  "https://www.smartbizn.com/news/articleView.html?idxno=159034"
+  "https://www.smartbizn.com/news/articleView.html?idxno=159034",
+  "https://biz.chosun.com/distribution/food/2026/11/11/IGSZAJSX7FHS7HZUKV52P7NV6Y/",
+  "https://view.asiae.co.kr/article/2026111108042017622",
+  "https://www.newspim.com/news/view/20261111000075",
+  "https://www.ajunews.com/view/20261110075631918",
+  "http://www.wsobi.com/news/articleView.html?idxno=321456",
+  "http://www.kjdaily.com/article.php?aid=1794352796691880276",
+  "https://www.junggi.co.kr/news/articleView.html?idxno=38449",
+  "http://www.segyebiz.com/newsView/20261111503078?OutUrl=naver",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6864771_37012.html"
  ],
  "seen_titles": [
-  "日소프트뱅크,상반기7680억엔적자...AI데이터센터사업손실",
-  "\"직원실수로…\"조달평가위원189명사진유출",
-  "KT\"GPU인프라확대해AI토큰생산·유통거점도약\"",
-  "코스피,매수사이드카속4.4%반등···'진짜vs데드캣'기로",
-  "코스피4.39%급등해5239선회복…외국인8일만에'사자'",
-  "빌게이츠부터베이조스까지…불륜에얼룩진IT거물들흑역사",
-  "[ETF특징주]증시급락에도미국ETF한주간141억달러유입",
-  "[컨콜]KT\"올해B2C매출,전년수준넘기어려울듯\"",
-  "[컨콜]KT\"AIDC파이프라인,911MW확보…연내260MW의사결정완료\"",
   "\"국가AI경쟁력의초석을다진다\"…단국대AI융합연구원,창립기념'2...",
   "성시경·침착맨·김풍,SBS새토크쇼‘시침풍’MC확정…내년1월첫...",
   "\"통신본업무너지는데신사업만강조\"...KT새노조,박윤영대표에대책...",
@@ -6001,7 +5992,16 @@
   "앤트로픽19일상장...엔비디아·구글각각100억달러투자",
   "젠슨황,‘中스파이와불륜’파문에세계10대부호탈락",
   "\"젠슨황이부릅니다,트러블메이커\"…불륜인정에AI밈폭발",
-  "금융보안원상시평가시스템해킹···개인정보300여건유출"
+  "금융보안원상시평가시스템해킹···개인정보300여건유출",
+  "풀무원,스타트업11곳과AI·푸드테크협업…신사업발굴나선다",
+  "GS리테일,AI스타트업협업성과…\"상품검색노출3.9배↑\"",
+  "[AIMY증시전망]美물가에발목잡힌증시…코스피상승탄력주목",
+  "[아주증시포커스]\"글로벌반도체시장의'새불확실성'\"…엔비디아는...",
+  "KT,3분기영업이익5,053억원기록...골드번호추첨이벤트진행",
+  "뉴욕증시3대지수동반하락…美금리인상우려에기술주약세",
+  "[잠든사이월가]엔비디아5.47%급락…유가는90달러아래로하락",
+  "[뉴욕증시]예상웃돈물가에하락세…나스닥0.7%↓",
+  "예상웃돈물가에뉴욕증시일제히하락"
  ],
  "recent_sigs": [
   [
@@ -6631,9 +6631,13 @@
   [
    "2026-11-11T08:20:26.593014+09:00",
    "내릴 월가 급락"
+  ],
+  [
+   "2026-11-11T08:24:15.908275+09:00",
+   "053억원 진행 이벤트 3분기 추첨 기록 영업이익 ~KT 골드번호"
   ]
  ],
- "last_run": "2026-11-11T08:22:34.740844+09:00",
+ "last_run": "2026-11-11T08:24:32.529782+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
