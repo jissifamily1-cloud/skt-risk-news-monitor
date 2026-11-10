@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.g-enews.com/view.php?ud=2026111009331137319a1f309431_1",
-  "https://www.joongangenews.com/news/articleView.html?idxno=562523",
-  "https://imnews.imbc.com/replay/2026/nw930/article/6864474_36996.html",
-  "https://www.nocutnews.co.kr/news/6604418",
-  "https://www.mydaily.co.kr/page/view/2026111009394205968",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3747203",
   "http://www.newsprime.co.kr/news/article.html?no=754293",
   "https://www.gukjenews.com/news/articleView.html?idxno=3747209",
   "http://www.dailypop.kr/news/articleView.html?idxno=104301",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026111018192648014",
   "https://www.newspim.com/news/view/20261110001458",
   "https://www.techm.kr/news/articleView.html?idxno=157176",
-  "https://www.tokenpost.kr/news/breaking/435781"
+  "https://www.tokenpost.kr/news/breaking/435781",
+  "https://www.fnnews.com/news/202611091003113743",
+  "https://www.sedaily.com/article/20112672",
+  "https://www.welfarenews.net/news/articleView.html?idxno=212798",
+  "https://www.sedaily.com/article/20112668",
+  "http://www.hellodd.com/news/articleView.html?idxno=113816",
+  "https://www.sentv.co.kr/article/view/sentv202611100117"
  ],
  "seen_titles": [
-  "미국발데이터센터규제쇼크…삼전·닉스,장기계약이방어막될까",
-  "美반도체주급등에코스피·코스닥'들썩'…매수사이드카발동",
-  "中스파이와불륜설젠슨황,개인사재조명…식당알바·결혼등인생...",
-  "[특징주]NHN,3분기역대최대실적에상한가…AI데이터센터성장기대",
-  "KT,3분기영업이익5053억원…6.1%감소",
-  "KT,3분기매출6조9975억원·영업이익5053억원기록···\"이익기여...",
   "KT,3분기영업익5053억…6.1%감소에도AX성장세지속",
   "일회성분양이익빠진KT,통신부진속AI확대속도",
   "[개장시황]급락딛고돌아온매수세…코스피·코스닥동반매수사이드...",
@@ -6001,7 +5995,13 @@
   "\"AI,어시스턴트아닌직원으로\"…'네오펌'에VC관심집중",
   "'클릭'한번에정보얻는시대끝났다…건설·부동산,AI'하네스'구축...",
   "\"업스테이지선정,국민눈높이맞나\"...野지적에정부'독파모'재해명",
-  "문샷AI,엔비디아B300탑재서버32대임차보도"
+  "문샷AI,엔비디아B300탑재서버32대임차보도",
+  "젠슨황스파이의혹,美빅테크조사신호탄되나",
+  "LGU+,국내이통사첫車사이버보안국제표준ML3LGU+,인증",
+  "조유진영등포구청장\"천하제일영등포로도약\"…출산·돌봄·무장애도...",
+  "KT“기업맞춤형서비스로AX성장가속화”",
+  "김현우소장\"AI강국되려면우리말부터\"KAIST·엔비디아공동연구소,...",
+  "미래에셋계열사연쇄해킹…금감원,현장점검착수"
  ],
  "recent_sigs": [
   [
@@ -7123,9 +7123,17 @@
   [
    "2026-11-10T18:22:17.922481+09:00",
    "서버 32대 탑재 임차 문샷AI B300 보도"
+  ],
+  [
+   "2026-11-10T18:24:15.881777+09:00",
+   "조유진 영등포구청장 출산 도약 무장애 천하제일 영등포로 돌봄"
+  ],
+  [
+   "2026-11-10T18:24:15.881777+09:00",
+   "계열사 금감원 미래에셋 착수 현장점검 연쇄"
   ]
  ],
- "last_run": "2026-11-10T18:22:37.305083+09:00",
+ "last_run": "2026-11-10T18:24:40.261362+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
