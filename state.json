@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gamevu.co.kr/news/articleView.html?idxno=62143",
-  "https://www.ddaily.co.kr/page/view/2026111010143660767",
-  "http://www.metroseoul.co.kr/article/20261110500084",
-  "https://biz.sbs.co.kr/article_hub/20000345311?division=NAVER",
-  "https://www.tenasia.co.kr/article/2026111068134",
-  "http://www.inews24.com/view/2024395",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838429&plink=ORI&cooper=NAVER",
-  "https://www.joongang.co.kr/article/25477232",
   "https://news.mtn.co.kr/article/2026111009485562248",
   "https://biz.heraldcorp.com/article/10930445",
   "https://biz.heraldcorp.com/article/10931772",
@@ -2999,17 +2991,17 @@
   "https://www.fetv.co.kr/news/articleView.html?idxno=313462",
   "https://www.wikitree.co.kr/articles/1173523",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709129",
-  "https://www.sedaily.com/article/20112706"
+  "https://www.sedaily.com/article/20112706",
+  "https://www.hankookilbo.com/news/article/A2026111020500001497?did=NA",
+  "https://www.newspim.com/news/view/20261110001524",
+  "http://coinreaders.com/269038",
+  "https://www.tokenpost.kr/news/cryptocurrency/435850",
+  "http://coinreaders.com/269031",
+  "https://www.tokenpost.kr/news/breaking/435849",
+  "http://www.inews24.com/view/2024757",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709130"
  ],
  "seen_titles": [
-  "아빠불륜녀인줄몰랐나…젠슨황딸,사위가한자리서'찰칵'",
-  "\"앨리스황,중국투자자들에'엔비디아GPU확보'문제없다해\"",
-  "'드래프트1순위'수원kt유니폼누가입을까",
-  "피플앤드테크놀러지,SKT와'모두의AI'사업업무협약",
-  "앤트로픽상장앞둔SKT,달라진셈법…지분매각·배당재원'저울질'",
-  "NHNKCP,3분기매출4천억원육박…역대최대분기실적경신",
-  "민주당압승에실리콘밸리'AI속도전'균열…주민몫키운다",
-  "실험용어댑터3종추가한구글AI설계검토플러그인",
   "앤트로픽수출빗장에맞선젠슨황“엔비디아시장,내줄수없다”",
   "비트코인(BTC)대신금토큰...테더골드(XAUT)·팍스골드(PAXG)상승질주",
   "[칼럼]서버가켜져있어야기기도산다.스마트시대,'확실한사후지...",
@@ -6001,7 +5993,15 @@
   "금융권보안맡는금융보안원마저해킹…평가자료일부유출",
   "애플,발표없이클로드코드에엑스코드플러그인등록…수동연결은...",
   "앤트로픽도뚫렸다…국내기업100곳도포함",
-  "금융보안원도뚫렸다…평가시스템해킹"
+  "금융보안원도뚫렸다…평가시스템해킹",
+  "금융권보안책임지는금융보안원도뚫렸다…일부개인정보유출",
+  "젠슨황'중국스파이연루'의혹확산…엔비디아주가약세",
+  "짐크레이머\"앤트로픽IPO없인AI주회복어렵다\"…몸값2조→1조달러",
+  "엔비디아경영진리스크에도\"AI투자논리는유효\"…수요지속에주목",
+  "[월가영수증]엔비디아(NVDA)프리마켓1.8%반등…10월CPI앞숨고르...",
+  "앤스로픽IPO초안,공모가70~78달러·합산최대121.6조원전망",
+  "금융보안원도해킹당했다…금융사직원개인정보수백건유출[종합]",
+  "프랑스“이란혁명수비대가냉장고해킹배후”…이란은‘침묵’"
  ],
  "recent_sigs": [
   [
@@ -6963,9 +6963,21 @@
   [
    "2026-11-10T21:12:18.440590+09:00",
    "평가시스템 금융보안원도 뚫렸다"
+  ],
+  [
+   "2026-11-10T21:14:16.439242+09:00",
+   "지속에 주목 수요 논리는 경영진 유효 투자 리스크에도"
+  ],
+  [
+   "2026-11-10T21:14:16.439242+09:00",
+   "프리마켓 CPI 숨고르 10월 반등 NVDA"
+  ],
+  [
+   "2026-11-10T21:14:16.439242+09:00",
+   "IPO 달러 회복 어렵다 몸값 2조 앤트로픽 없인 1조 크레이머 AI주"
   ]
  ],
- "last_run": "2026-11-10T21:12:35.500321+09:00",
+ "last_run": "2026-11-10T21:14:42.126272+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
