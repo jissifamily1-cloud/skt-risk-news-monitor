@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2024097",
-  "https://www.viva100.com/article/20261109500829",
-  "https://www.livebiz.today/news/articleView.html?idxno=206327",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080371",
-  "https://www.newsis.com/view/NISX20261108_0003859482",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5229599",
-  "https://www.edaily.co.kr/News/Read?newsId=04674006645644408&mediaCodeNo=257",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005959233",
   "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89121",
   "https://www.newspim.com/news/view/20261110001109",
@@ -2999,16 +2992,16 @@
   "https://www.kmib.co.kr/article/20261111500052",
   "https://www.kbmaeil.com/article/20261111500017",
   "https://www.cbci.co.kr/news/articleView.html?idxno=625494",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6864718_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6864718_37012.html",
+  "https://www.hellot.net/news/article.html?no=116159",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54695",
+  "https://www.newsis.com/view/NISX20261105_0003857014",
+  "http://www.ddanzi.com/898248706",
+  "https://www.newsis.com/view/NISX20261111_0003862929",
+  "https://www.news2day.co.kr/article/20261110500144",
+  "https://www.ytn.co.kr/_ln/0104_202611110617567785"
  ],
  "seen_titles": [
-  "앤트로픽,AI가잘못된기억스스로수정하는'드리밍'기술효과입증",
-  "챗GPT국내앱사용자1,800만넘었다…클로드15배약진에도점유율91%...",
-  "한국인1800만명'챗GPT'쓴다⋯사용시간은2배↑",
-  "챗GPT국내앱이용자1800만명첫돌파…사용시간2배로",
-  "퍼플렉시티,반복업무맡는‘팀메이트’제공…개인Max웹이용자대...",
-  "[단독]앤트로픽서국내기업계정100여건유출...\"개보위에정보유출...",
-  "쿠팡이츠,공정위최혜대우제재에반발…“과징금3000억원대,형평성...",
   "'배달앱불공정'배민·쿠팡에6300억과징금...정보유출이어과징금'...",
   "[기자수첩]AI딸깍해킹시대…'범부처보안컨트롤타워'시급",
   "[오늘의주요일정]과기정통부·방미통위·개보위(11월9일월요일)",
@@ -6001,7 +5994,14 @@
   "[속보]엔비디아오늘도5%대급락…뉴욕증시일제하락",
   "엔비디아장중시총3위…젠슨황순자산21조원줄어",
   "[증시마감]외국인8거래일만에'사자'돌아선코스피…삼성전자·SK하...",
-  "이란\"근거없고편향된비난\"‥해킹배후설'확전'"
+  "이란\"근거없고편향된비난\"‥해킹배후설'확전'",
+  "젠슨황,엔비디아CEO직지킬수있을까…예일대교수“가능성반반”",
+  "해고는미국식,다툼은한국식…AI감원이바다건너꼬인까닭",
+  "美'블루쓰나미'놓고\"불확실성해소\"vs\"반도체투심제동\"…향후증...",
+  "전인미답의국장3:인텔때문에폭락했다고?",
+  "젠슨황,자산순위10위권밖으로…’中스파이연루불륜'후폭풍",
+  "[N2모닝경제브리핑-11월11일]美증시,물가쇼크에3대지수일제히...",
+  "엔비디아'젠슨황스캔들'독립조사한국계전연방검사총괄"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,17 @@
   [
    "2026-11-11T06:18:16.973490+09:00",
    "삼성전자 SK하 돌아선 8거래일 외국인 만에 사자 코스피"
+  ],
+  [
+   "2026-11-11T06:20:28.241561+09:00",
+   "지수 쇼크에 증시 물가 3대 일제히"
+  ],
+  [
+   "2026-11-11T06:20:28.241561+09:00",
+   "젠슨황 스캔들 독립조사 한국계 총괄 연방검사"
   ]
  ],
- "last_run": "2026-11-11T06:18:35.442037+09:00",
+ "last_run": "2026-11-11T06:20:46.455316+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
