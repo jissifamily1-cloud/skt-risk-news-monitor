@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.iminju.net/news/articleView.html?idxno=172184",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105893",
-  "http://www.ikoreanspirit.com/news/articleView.html?idxno=88163",
-  "https://kpenews.com/View.aspx?No=4304930",
-  "http://www.breaknews.com/1249705",
-  "https://www.sedaily.com/article/20112170",
-  "http://www.4th.kr/news/articleView.html?idxno=2121504",
   "https://www.nextdaily.co.kr/news/articleView.html?idxno=254725",
   "http://www.newslock.co.kr/news/articleView.html?idxno=139697",
   "http://www.newsdream.kr/news/articleView.html?idxno=121785",
@@ -2999,16 +2992,16 @@
   "https://view.asiae.co.kr/article/2026111020170315995",
   "https://imnews.imbc.com/news/2026/econo/article/6864650_36932.html",
   "https://it.chosun.com/news/articleView.html?idxno=3000000000721",
-  "https://www.tokenpost.kr/news/breaking/435826"
+  "https://www.tokenpost.kr/news/breaking/435826",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008839738&plink=ORI&cooper=NAVER",
+  "https://www.hani.co.kr/arti/economy/it/1286527.html",
+  "https://www.busan.com/view/busan/view.php?code=2026111018300631636",
+  "https://www.boannews.com/news/articleView.html?idxno=147156",
+  "https://www.newsis.com/view/NISX20261110_0003862852",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559322",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709123"
  ],
  "seen_titles": [
-  "KT3Q영업익5053억,6.1%감소⋯\"일회성기저효과영향\"(종합)",
-  "카카오,오픈AI와협업한AI애니메이션영상공개한다",
-  "\"앨리스황,중국투자자들에'엔비디아GPU확보'과시\"",
-  "“나스닥2.7%뛰었는데”…엔비디아,'中스파이스캔들'에나홀로4%...",
-  "트럼프“젠슨황,앨리스황이스파이인줄몰랐다해”",
-  "트럼프\"젠슨황,스파이인줄몰랐다고말했다...그를믿는다\"",
-  "젠슨황불륜인정후재소환된영상들...신아영포옹·화사에\"매력적...",
   "피플앤드테크놀러지,SK텔레콤과‘모두의AI’협력…병원밖헬스케어...",
   "불륜에스파이의혹…반도체·AI업계,파장촉각",
   "다나와,AI활용노하우나누는커뮤니티'AI다나와'오픈",
@@ -6001,17 +5994,16 @@
   "금융보안원도해킹…정보유출",
   "'금융보안문지기'금융보안원도해킹돼정보유출",
   "셀렉트스타\"AI평가기술로해외시장넓힌다\"[AI대상2026]",
-  "미국,메가스피드의엔비디아칩중국우회의혹들여다봐"
+  "미국,메가스피드의엔비디아칩중국우회의혹들여다봐",
+  "42세엘리스황행방묘연…화려한이력은가짜?",
+  "앤트로픽,개보위에개인정보유출신고…국내기업클로드계정100여개",
+  "[속보]대만,젠슨황불륜상대'中스파이의혹'에안보조사착수",
+  "금융보안원,해킹으로정보유출...금융위등신고",
+  "금융권보안담당금융보안원도해킹…금융사제출자료일부유출",
+  "[속보]금융보안원도해킹…금융사보안데이터유출가능성",
+  "금융보안원마저뚫렸다…상시평가지원시스템해킹"
  ],
  "recent_sigs": [
-  [
-   "2026-11-10T14:22:14.823935+09:00",
-   "실험 하루 SK하이닉스 엔비디아와 삼성 1분 공동개 가상 반도체"
-  ],
-  [
-   "2026-11-10T14:22:14.823935+09:00",
-   "능사 아니다 처벌 터질지 언제 모를"
-  ],
   [
    "2026-11-10T14:24:16.111698+09:00",
    "엘리엇 사례 갖춰야 경총 방어 꺼낸 수단도 경영권 소버린"
@@ -7091,9 +7083,13 @@
   [
    "2026-11-10T20:20:26.736027+09:00",
    "의혹 메가스피드의 중국 미국 우회 들여다봐"
+  ],
+  [
+   "2026-11-10T20:22:18.223193+09:00",
+   "뚫렸다 금융보안원마저 상시평가 지원시스템"
   ]
  ],
- "last_run": "2026-11-10T20:20:48.781953+09:00",
+ "last_run": "2026-11-10T20:22:37.291066+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
