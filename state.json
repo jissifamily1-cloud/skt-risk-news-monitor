@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20261110512323?OutUrl=naver",
-  "http://www.newskr.kr/news/articleView.html?idxno=107868",
-  "https://www.xportsnews.com/article/2217898",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=139772",
-  "https://www.dailian.co.kr/news/view/1713135/?sc=Naver",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54708",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502775",
-  "https://www.sportschosun.com/entertainment/2026-11-10/202611100100071990006618",
   "https://www.yna.co.kr/view/AKR20261110128000073?input=1195m",
   "https://www.yna.co.kr/view/AKR20261110127900017?input=1195m",
   "https://it.chosun.com/news/articleView.html?idxno=3000000000635",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/News/Read?newsId=02850326645644736&mediaCodeNo=257",
   "https://www.etnews.com/20261111000001",
   "https://www.sedaily.com/article/20112727",
-  "http://coinreaders.com/269189"
+  "http://coinreaders.com/269189",
+  "http://coinreaders.com/269191",
+  "https://www.dailian.co.kr/news/view/1713330/?sc=Naver",
+  "https://www.newsway.co.kr/news/view?ud=2026111015335681001",
+  "https://www.joongang.co.kr/article/25477548",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16273380",
+  "https://www.mediapen.com/news/view/1136538",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000729",
+  "https://www.ytn.co.kr/_ln/0104_202611110703475959"
  ],
  "seen_titles": [
-  "급락전9,400억매도…'세기의이혼'자금마련",
-  "[메트로PM뉴스]무안공항참사유가족,유해합동장례무기한연기외",
-  "[현장]홍대이어성수까지'뷰티전쟁'…무신사,700개브랜드·1만개...",
-  "[AI에이전트시대성큼]①답변넘어먼저제안하고일도하는AI비서",
-  "성시경·침착맨·김풍,SBS새토크쇼'시침풍'MC",
-  "바이낸스턴북한해커들,‘일회용밈코인’만들어43만달러세탁",
-  "\"보이스피싱1000만원보장\"…신한은행,유출고객보상책마련",
-  "\"'허수아비'이기고파\"…2년만에돌아온'크래시2',더커진액션·진화...",
   "LG유플러스,자동차사이버보안국제표준'ML3'인증획득",
   "[컨콜]KT\"내년AX사업에이전트온·매니지드AX투트랙전략\"",
   "\"더똑똑한데더싸다\"앤트로픽이오픈AI에던진도전장",
@@ -6001,7 +5993,15 @@
   "‘빅스텝’경계에나스닥0.74%↓…엔비디아이틀간9.6%급락[월스트리...",
   "“젠슨황외도상대앨리스황,10조원엔비디아AI칩中밀반입”",
   "수주잔고늘고,매출전망올랐다...AI위기한숨돌린코어위브[마켓...",
-  "북한해커들,가짜밈코인으로자금세탁?바이낸스해킹자금이동수법..."
+  "북한해커들,가짜밈코인으로자금세탁?바이낸스해킹자금이동수법...",
+  "비트코인도익명거래가능해지나…스택스창업자가제시한해법",
+  "美증시,물가충격에3대지수동반하락…금리인상공포확산",
+  "엔비디아에기댄한국AI…젠슨황리스크에쏠리는시선",
+  "“젠슨황연인앨리스황,10조원엔비디아AI칩중국으로밀반입”",
+  "미국증시하락마감…CPI충격에나스닥0.74%↓·엔비디아5.47%급락,브...",
+  "[美증시]젠슨황스캔들·빅스텝우려에3대지수하락…엔비디아·메모...",
+  "엔비디아,'젠슨황스캔들'에이틀간10%급락",
+  "'젠슨황스캔들'파장...미정치권\"대중국반도체수출통제강화해야\""
  ],
  "recent_sigs": [
   [
@@ -6431,9 +6431,13 @@
   [
    "2026-11-11T07:08:16.283081+09:00",
    "자금 바이낸스 이동 자금세탁 수법 해커들 북한 밈코인으로 가짜"
+  ],
+  [
+   "2026-11-11T07:10:27.561031+09:00",
+   "리스크에 기댄 쏠리는 젠슨 시선 한국 엔비디아에"
   ]
  ],
- "last_run": "2026-11-11T07:08:38.270592+09:00",
+ "last_run": "2026-11-11T07:10:46.207129+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
