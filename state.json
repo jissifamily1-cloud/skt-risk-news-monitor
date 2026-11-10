@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026111016275960428",
-  "https://mhnse.com/news/articleView.html?idxno=1691497",
-  "https://www.starnewskorea.com/sports/2026/11/10/2026111014544749724",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597484383550",
-  "https://www.econovill.com/news/articleView.html?idxno=756687",
-  "https://www.viva100.com/article/20261110501068",
-  "https://www.etoday.co.kr/news/view/2646439",
-  "https://www.ddaily.co.kr/page/view/2026111016213203187",
-  "https://www.newsis.com/view/NISX20261110_0003862524",
   "https://sports.donga.com/it/article/all/20261110/134998444/1",
   "https://www.cbci.co.kr/news/articleView.html?idxno=624879",
   "https://www.the-today.com/news/articleView.html?idxno=93370",
@@ -2999,18 +2990,18 @@
   "https://www.livebiz.today/news/articleView.html?idxno=206392",
   "https://www.kukinews.com/article/view/kuk202611110010",
   "https://www.newdaily.co.kr/site/data/html/2026/11/11/2026111100034.html",
-  "https://www.m-i.kr/news/articleView.html?idxno=2016952"
+  "https://www.m-i.kr/news/articleView.html?idxno=2016952",
+  "https://bizhankook.com/articles/nvidia-robotics-expansion-korea.html",
+  "https://www.joongangenews.com/news/articleView.html?idxno=562818",
+  "https://www.newsis.com/view/NISX20261111_0003863059",
+  "https://www.kyosu.net/news/articleView.html?idxno=212164",
+  "https://www.joongangenews.com/news/articleView.html?idxno=562824",
+  "http://weekly.chosun.com/news/articleView.html?idxno=57003",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444083",
+  "https://news.bizwatch.co.kr/article/finance/2026/11/11/0002",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004019"
  ],
  "seen_titles": [
-  "블루쓰나미딛고4%대반등성공한코스피·코스닥,흐름이어질까",
-  "\"美AI리더십흔들수없어\"…트럼프·머스크,'스파이불륜'젠슨황...",
-  "[컨콜]KT,AI데이터센터개발후보1.4GW확보…B2B수주내년매출전...",
-  "[해킹의표적된일상]④자율주행시대안전위협하는해킹",
-  "“아내에게충실하지못했다”젠슨황의불륜고백…빌게이츠·베이...",
-  "\"신진시인도독자가뽑는다\"…밀리의서재,'올해의책'투표",
-  "[오피셜]\"LG가얼마나약했는지아십니까\"…암흑기버텨낸유원상최성...",
-  "[오피셜]'한화로떠난김광삼빈자리'21홀드필승조출신이채우나!'...",
-  "매드포갈릭,겨울신메뉴로외식수요공략…스모키풍미앞세워고객...",
   "[가보고서]'성수무신사타운'의새목적지탄생",
   "美규제강화발‘골든타임론’⋯K-AIDC‘잔칫상’될까",
   "KT,실적주춤해도AIDC수주늘었다…통신3사'AI인프라'경쟁",
@@ -6001,7 +5992,16 @@
   "\"앨리스황,10조규모엔비디아AI칩중국으로밀반입\"...美의회,대중...",
   "젠슨황스캔들새국면…엔비디아AI칩24만개中우회공급의혹",
   "물가충격에연준긴축경계확산…뉴욕증시하락,나스닥0.7%↓",
-  "패스트캠퍼스·엔비디아,AI해커톤성료…의약품분석솔루션우승"
+  "패스트캠퍼스·엔비디아,AI해커톤성료…의약품분석솔루션우승",
+  "[현장]로봇가르치고공장까지…엔비디아가지금한국서벌이는일",
+  "김포시,산사태방지분야우수사례공모전국2위영예",
+  "GS리테일,AI로유통현장바꾼다…상품검색노출최대3.9배↑",
+  "44명엔15년,수십만명엔6년짜리계약…중국과학의두얼굴",
+  "젠슨황사적관계가AI칩밀반입통로로?…엔비디아반도체24만개中...",
+  "\"젠슨부를수있어\"...앨리스황,엔비디아칩24만개中밀반입",
+  "댄아이브스\"젠슨황떠나면엔비디아기업가치25~30%감소\"",
+  "금융보안원해킹에이용자정보·개인정보등유출…정밀조사",
+  "금융권보안책임지는금융보안원도해킹…직원개인정보수백건유출"
  ],
  "recent_sigs": [
   [
@@ -6683,9 +6683,13 @@
   [
    "2026-11-11T08:46:15.211841+09:00",
    "해커톤 분석 의약품 패스트캠퍼스 우승 성료 솔루션"
+  ],
+  [
+   "2026-11-11T08:48:16.070087+09:00",
+   "떠나면 기업가치 감소 젠슨 아이브스"
   ]
  ],
- "last_run": "2026-11-11T08:46:34.104612+09:00",
+ "last_run": "2026-11-11T08:48:34.755952+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
