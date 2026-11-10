@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=369114",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489413",
-  "https://gamefocus.co.kr/detail.php?number=180346",
-  "https://byline.network/?p=9004111222626550",
-  "https://www.ajunews.com/view/20261106145734794",
-  "https://zdnet.co.kr/view/?no=20261106103336",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=325073",
   "https://www.inven.co.kr/webzine/news/?news=323085",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=880512",
@@ -2999,15 +2993,15 @@
   "https://biz.sbs.co.kr/article_hub/20000345396?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000345305?division=NAVER",
   "https://www.yna.co.kr/view/AKR20261110097300091?input=1195m",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000081285"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000081285",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090147.html",
+  "https://biz.heraldcorp.com/article/10932170",
+  "https://www.etnews.com/20261110000274",
+  "http://www.yonhapnewstv.co.kr/news/AKR2026111013435682D",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=285769",
+  "https://www.donga.com/news/Economy/article/all/20261110/134998079/1"
  ],
  "seen_titles": [
-  "현대차바이욘실내공간호평…마감은아쉬워",
-  "카카오,문장대신확률·점수내놓는AI공개...에이전트판단지원",
-  "[최경환의AI빛과그림자]당신은보지못했지만,당신의AI는봤습니다",
-  "AI에이전트를노트북에서직접돌린다⋯엔비디아'RTX스파크'",
-  "엔비디아'RTX스파크',AI·창작·게이밍아우르는차세대PC경험제시",
-  "카카오,AI판단속도0.04초'카나나'공개…글로벌의사결정모델에도...",
   "카카오,AI에이전트판단돕는의사결정모델공개",
   "블루닷에이아이,상세페이지변환출시",
   "카카오,멀티모달모델'카나나-2-v-디사이드'오픈소스공개",
@@ -6001,7 +5995,13 @@
   "'의혹투성이'엘리스황,\"후난성TV근무기록없다\"WSJ",
   "[시장따라잡기]규제변수속AI인프라키우는한국에겐기회?",
   "젠슨황물러나면누가후임?…사내임원과자녀·사위까지거론",
-  "젠슨황스캔들에美여야도나섰다…엔비디아中수출제동걸리나"
+  "젠슨황스캔들에美여야도나섰다…엔비디아中수출제동걸리나",
+  "프로야구한화,김강타격코치·안영명퍼포먼스코치영입",
+  "부산-시모노세키,‘자매도시50년’불꽃으로함께하다",
+  "삼성D,車OLED사이버보안인증2종획득",
+  "삼전·닉스4∼6%↑…코스피·코스닥'매수사이드카'",
+  "핀테크플랫폼해킹에카드사법인카드부정결제시도잇따라",
+  "앤스로픽,AI1000개지휘하는새AI공개…성능평가서구글제쳐"
  ],
  "recent_sigs": [
   [
@@ -7083,9 +7083,13 @@
   [
    "2026-11-10T13:44:16.181972+09:00",
    "수출 걸리나 젠슨 제동 스캔들에 여야도 나섰다"
+  ],
+  [
+   "2026-11-10T13:46:14.790998+09:00",
+   "성능평가서 공개 1000개 구글 제쳐 지휘하는"
   ]
  ],
- "last_run": "2026-11-10T13:44:47.769346+09:00",
+ "last_run": "2026-11-10T13:46:33.822322+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
