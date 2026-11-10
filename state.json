@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443693",
-  "https://zdnet.co.kr/view/?no=20261108030741",
-  "http://www.popcornnews.net/news/articleView.html?idxno=139424",
-  "https://bizhankook.com/articles/nvidia-robotics-expansion-korea.html",
-  "https://www.sentv.co.kr/article/view/sentv202611100183",
-  "http://www.inews24.com/view/2024677",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242819",
-  "https://www.mt.co.kr/tech/2026/11/10/2026111016113547424",
   "https://www.news1.kr/it-science/cc-newmedia/6349395",
   "https://www.joongangenews.com/news/articleView.html?idxno=562653",
   "https://www.nocutnews.co.kr/news/6604807",
@@ -2999,17 +2991,17 @@
   "https://www.dailian.co.kr/news/view/1713369/?sc=Naver",
   "https://www.sentv.co.kr/article/view/sentv202611110007",
   "http://www.joseilbo.com/news/news_read.php?uid=579373&class=42",
-  "https://www.tjb.co.kr/news05/bodo/view/id/105941"
+  "https://www.tjb.co.kr/news05/bodo/view/id/105941",
+  "https://www.naeil.com/news/read/608306",
+  "https://www.dailian.co.kr/news/view/1713335/?sc=Naver",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100033.html",
+  "https://www.youthdaily.co.kr/news/article.html?no=229646",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=91823",
+  "https://www.fntoday.co.kr/news/articleView.html?idxno=397563",
+  "https://view.asiae.co.kr/article/2026111108324701949",
+  "https://www.jasm.co.kr/news/view/324887/?sc=Naver"
  ],
  "seen_titles": [
-  "LGU+,자동차부터클라우드까지보안강화속도",
-  "안현민,고영표팬들에게전한사과인사...\"실력부족했다.더철저히...",
-  "KT안현민,한국시리즈부진사과…\"응원해주신팬들께죄송,실력이부...",
-  "겹악재에성공할까…AI투자붐,앤트로픽상장에달렸다",
-  "빅테크AI데이터센터한국집결…투자과실은누가가져가나",
-  "[AIDC투자점검③]빅테크韓투자관심에도전력망걸림돌",
-  "\"사막에지어야할지도\"…데이터센터전략다시짜는美AI기업들",
-  "삼성디스플레이,차량용OLED사이버보안국제표준심사통과…완성차...",
   "[현장]로봇가르치고공장까지…엔비디아가지금한국서벌이는일",
   "[컨콜]KT“AI데이터센터증설분1GW중80%는임차할것”",
   "[컨콜]KT\"AI데이터센터,2031년까지1GW증설\"",
@@ -6001,7 +5993,15 @@
   "AI에힘싣는SK,다음과제는수익성…12일부터CEO세미나",
   "최태원SK회장주재CEO세미나…AI전략·사업재편논의",
   "엔비디아,'젠슨황中스파이연루의혹'조사에한국계前연방검사선...",
-  "10월물가예상치상회에뉴욕증시일제하락…나스닥0.7%↓"
+  "10월물가예상치상회에뉴욕증시일제하락…나스닥0.7%↓",
+  "‘2026아트코리아랩인공지능-융합페스티벌’성료",
+  "‘1200만관중+중계권’프로야구도이제돈버는산업[2026시즌결산①...",
+  "\"모델·연기도전꿈꾼다면\"…서울사이버대모델연기학과,20일체험형...",
+  "24만개AI칩알리바바·텐센트공급…앨리스황'해외동선'도마위",
+  "SK그룹,CEO세미나서내년AI전략점검…사업재편성과창출에집중",
+  "\"중국스파이추정젠슨황연인,10조원엔비디아AI칩중국으로밀반입...",
+  "\"아빠불륜상대인데\"…젠슨황딸,웃으며사진찍어줬다",
+  "대신증권\"KT,착실한주주환원…목표가는유지\""
  ],
  "recent_sigs": [
   [
@@ -6675,9 +6675,13 @@
   [
    "2026-11-11T08:40:27.292175+09:00",
    "구글도 삼성 AI칩 자체 SK하이닉스에 기회인가 위기인가 확대"
+  ],
+  [
+   "2026-11-11T08:44:15.921054+09:00",
+   "목표가는 착실한 주주환원 ~KT 유지 대신증권"
   ]
  ],
- "last_run": "2026-11-11T08:42:29.432776+09:00",
+ "last_run": "2026-11-11T08:44:34.445104+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
