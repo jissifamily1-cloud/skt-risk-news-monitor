@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12094177",
-  "https://kpenews.com/View.aspx?No=4304971",
-  "https://www.techm.kr/news/articleView.html?idxno=157124",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611090187&t=NN",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731040",
   "https://www.businesspost.co.kr/BP?command=article_view&num=451579",
   "https://www.socialvalue.kr/news/view/1065576021416534",
   "https://www.g-enews.com/view.php?ud=2026111009271632033d7a510102_1",
@@ -2999,14 +2994,14 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=93724",
   "https://www.nytimes.com/2026/11/10/technology/anthropic-ipo-valuation-share-price.html?partner=naver",
   "https://www.munhwa.com/article/11630338",
-  "https://view.asiae.co.kr/article/2026111021240280163"
+  "https://view.asiae.co.kr/article/2026111021240280163",
+  "http://www.osen.co.kr/article/G1112907943",
+  "https://www.tokenpost.kr/news/tech/435856",
+  "https://www.tokenpost.kr/news/breaking/435858",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090242.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/10/2026111090240.html"
  ],
  "seen_titles": [
-  "솔리다임상장철회후SK호라이즌출범...중복상장또추진?",
-  "엔비디아美주주들,젠슨황에소송",
-  "[뉴욕증시포커스]3대지수일제히상승…반도체주급반등에나스닥2.7...",
-  "'젠슨황스캔들'직격탄…엔비디아시총258조원증발",
-  "[기고]허시원의바이낸스해킹사태분석",
   "KT,보안사고후폭풍에무선매출4%감소…영업익도6.1%줄어",
   "한남대,5개지역'국방AX거점'구축…AI인재양성돌입",
   "카카오,라이언탄생10주년기념첫AI애니메이션공개",
@@ -6001,21 +5996,14 @@
   "제타글로벌3분기매출46%↑…연간전망또올렸다",
   "AnthropicTargetsValuationofUpto$1.4TrillionforBlockbusterI.P",
   "“어?”메타·오라클·구글…창업자부인모두중국계",
-  "금융보안원해킹에평가신청서류유출…당국,전체시스템재점검요구"
+  "금융보안원해킹에평가신청서류유출…당국,전체시스템재점검요구",
+  "‘2순위신인픽으로누굴뽑아야하나?’더추락하는꼴찌현대모비스...",
+  "5억달러투자회사승인한TSMC,AI지분도별도의결",
+  "앤스로픽,1조달러IPO목표…파트너35조원사모배정추진",
+  "\"스파이인줄몰랐다더라\"…연이틀젠슨황감싼트럼프",
+  "확인안된화려한경력에행방도묘연…앨리스황,중국도피설까지"
  ],
  "recent_sigs": [
-  [
-   "2026-11-10T15:26:16.740410+09:00",
-   "집단소송 나홀로 주주들 폭락"
-  ],
-  [
-   "2026-11-10T15:26:16.740410+09:00",
-   "불륜설 유령회사 의혹 이끈 여성이 항상 꺼진 젠슨 기업"
-  ],
-  [
-   "2026-11-10T15:28:15.692061+09:00",
-   "똑똑한데 오픈AI에 던진 앤트로픽이 싸다 도전장"
-  ],
   [
    "2026-11-10T15:30:34.946186+09:00",
    "밸류업 HD현대일렉트릭 강세 상승 HD건설기계 자릿수"
@@ -6963,9 +6951,13 @@
   [
    "2026-11-10T21:26:16.361051+09:00",
    "메타 오라클 모두 구글 중국계 창업자부인"
+  ],
+  [
+   "2026-11-10T21:28:16.077457+09:00",
+   "행방도 경력에 화려한 확인 묘연 도피설까지 중국 앨리스"
   ]
  ],
- "last_run": "2026-11-10T21:26:32.438813+09:00",
+ "last_run": "2026-11-10T21:28:35.625830+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
