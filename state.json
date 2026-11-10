@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/435461",
-  "https://biz.chosun.com/stock/stock_general/2026/11/09/4WVOEHIEJ5C3LL2LIRNN6FIERQ/",
-  "http://www.beyondpost.co.kr/view.php?ud=2026111006421345362aaae0046f_30",
-  "https://biz.sbs.co.kr/article_hub/20000345264?division=NAVER",
-  "https://www.kbsm.net/news/view.php?idx=541042",
-  "https://www.jasm.co.kr/news/view/324742/?sc=Naver",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=94874",
-  "https://www.yna.co.kr/view/AKR20261110008800075?input=1195m",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=285741",
   "https://www.cbci.co.kr/news/articleView.html?idxno=625066",
   "http://www.econonews.co.kr/news/articleView.html?idxno=446851",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20261110021451009?input=1195m",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54707",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559248",
-  "https://www.hani.co.kr/arti/politics/politics_general/1286612.html"
+  "https://www.hani.co.kr/arti/politics/politics_general/1286612.html",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=304552",
+  "http://www.breaknews.com/1249857",
+  "http://coinreaders.com/268966",
+  "https://biz.chosun.com/stock/finance/2026/11/10/F6JRG5X7CNBP7KP7P7S3WB256M/",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209434",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20261110.99099003001",
+  "https://www.yna.co.kr/view/AKR20261110119900009?input=1195m",
+  "https://www.newsis.com/view/NISX20261110_0003862321"
  ],
  "seen_titles": [
-  "뉴욕증시,반도체강세에2%이상급등...엔비디아는4%↓",
-  "황CEO불륜시인에재조명…中여성스파이사건들",
-  "최태원9440억매각뒤SK주가14.75%↓하락?폭락?",
-  "젠슨황스캔들후폭풍일파만파…대중(對中)안보·AI규제강화",
-  "유가급락에뉴욕증시2%대상승⋯엔비디아제외반도체주급반등",
-  "뉴욕증시,AI충격딛고반등했지만…엔비디아만4%대나홀로급락",
-  "뉴욕증시,AI주급락충격딛고반등‥엔비디아만4%대급락",
-  "'불륜인정'젠슨황,신아영과포옹…과거행보재조명",
   "나스닥2.74%뛰었는데왜나만…'5주째하락'비트코인'한숨'[글로벌...",
   "엔비디아주가하락…젠슨황'중국스파이불륜'후계자리스크영향",
   "클로드화학연구,분자구조분석·치료제구성요소설계다뤄",
@@ -6001,7 +5993,15 @@
   "WSJ\"앤트로픽19일또는20일상장…기업가치에관심집중\"(종합)",
   "젠슨황운명에돈걸었다…예측시장의전망은",
   "기자들앞에‘깜짝’등장한UFC회장…“진짜대변인하나”질문에“...",
-  "[뉴스다이브]이용철후보공방전본격화"
+  "[뉴스다이브]이용철후보공방전본격화",
+  "SK텔레콤·엔비디아·리벨리온,한국형AI인프라구축협력",
+  "［종합］이민기·곽선영→NCT지성‘크래시2’,“감개무량..행복한작...",
+  "리플(XRP)1.10달러마저위태롭다…바이낸스매도세에추가급락하나?",
+  "신한은행,정보유출고객에‘안심보험’지원…수수료1년우대",
+  "LG유플러스-GS네오텍,단말부터클라우드까지아우르는E2E보안구축협...",
+  "젠슨황의불륜상대앨리스황…확인되지않은경력에행방묘연",
+  "엔비디아,2세대로봇두뇌공개…\"시연5번에95%성공\"",
+  "\"남편이만남주선했다?\"…젠슨황내연녀유부녀설확산"
  ],
  "recent_sigs": [
   [
@@ -7107,9 +7107,13 @@
   [
    "2026-11-10T15:18:20.756892+09:00",
    "공방전 후보 본격화 이용철"
+  ],
+  [
+   "2026-11-10T15:20:28.106642+09:00",
+   "리플 추가 매도세에 급락하나 바이낸스 XRP 10달러마저 위태롭다"
   ]
  ],
- "last_run": "2026-11-10T15:18:43.139775+09:00",
+ "last_run": "2026-11-10T15:20:43.687101+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
