@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611060086&t=NNv",
-  "https://www.tokenpost.kr/news/ai/433887",
-  "https://www.joongangenews.com/news/articleView.html?idxno=561834",
-  "https://www.segye.com/newsView/20261106506853?OutUrl=naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705832",
-  "https://www.ytn.co.kr/_ln/0104_202611061014416922",
   "https://www.ajunews.com/view/20261106092218875",
   "https://www.jasm.co.kr/news/view/324390/?sc=Naver",
   "https://www.newsfreezone.co.kr/news/articleView.html?idxno=717964",
@@ -2999,15 +2993,15 @@
   "https://www.donga.com/news/Inter/article/all/20261111/135005578/1",
   "https://edu.donga.com/news/articleView.html?idxno=113706",
   "https://www.imaeil.com/page/view/2026111111340994971",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=67517"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=67517",
+  "https://www.hitnews.co.kr/news/articleView.html?idxno=80691",
+  "https://zdnet.co.kr/view/?no=20261111120847",
+  "https://www.newsis.com/view/NISX20261111_0003863675",
+  "https://www.lawissue.co.kr/view.php?ud=2026111111184275709817d053b9_12",
+  "https://www.hankookilbo.com/news/article/A2026111109590002489?did=NA",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6864826_36967.html"
  ],
  "seen_titles": [
-  "'블루쓰나미'에빅테크들데이터센터해외·사막으로",
-  "'블루쓰나미'피해빅테크,해외·사막으로눈돌린다",
-  "미국AI데이터센터건설제동걸리나…오픈AI·메타해외로눈돌린다",
-  "[노성열의AI경제]AI거품론을돌파할진정한생산성혁명은",
-  "'블루쓰나미'에빅테크들데이터센터해외·사막으로눈돌려",
-  "[월가톡톡]챗GPT평판도돈으로산다…억만장자들이찾는Z세대",
   "AI데이터센터규제압박에빅테크비상…\"해외이전·사막도검토\"",
   "AIDC돈줄에'균열'...5억달러대출채권매각'분수령'[딥시그널]",
   "9개청구담은오픈AI상대소송…챗GPT안전장치결함주장",
@@ -6001,25 +5995,15 @@
   "젠슨황‘풍자’밈봇물…‘콘서트불륜장면’·‘김치따귀’등재...",
   "서울시립대황원석교수연구팀,대규모언어모델(LLM)안전성연구논...",
   "\"'우상'이었는데\"…불륜인정한젠슨황정상출근,사내분위기\"슬프다...",
-  "젠슨황스파이의혹,美상무장관에도전달…中반도체수출승인도마"
+  "젠슨황스파이의혹,美상무장관에도전달…中반도체수출승인도마",
+  "막대과자의날?'11.11'업계에겐1200억'릭시아나제네릭데이'",
+  "\"AI가능성,생산성으로입증해야\"...IITP,내년AI·ICT10대이슈선정",
+  "덴마크,AI슈퍼컴퓨터에1004억원추가투자…기술주권강화",
+  "SK텔레콤,동반성장지수14년연속최우수등급",
+  "'젠슨황불륜상대'앨리스황,中금융인과10년넘게'동업·연인'",
+  "\"10조원AI칩중국에유출\"‥스캔들일파만파"
  ],
  "recent_sigs": [
-  [
-   "2026-11-11T06:12:16.797880+09:00",
-   "삼성전 이익잉여금 1704조 반년 200대 296조 기업"
-  ],
-  [
-   "2026-11-11T06:12:16.797880+09:00",
-   "4곳 효성 중공업 매출 고공행진 자회사 3곳 티앤씨 영업익"
-  ],
-  [
-   "2026-11-11T06:12:16.797880+09:00",
-   "시대 확장 비즈니스 에이전트 ChatGPT를 기업 플랫폼으로"
-  ],
-  [
-   "2026-11-11T06:14:17.413905+09:00",
-   "중국으로 AI칩 10조원 앨리스황 규모 밀반입"
-  ],
   [
    "2026-11-11T06:16:18.794201+09:00",
    "스캔들에 제동 젠슨 반도체 공화당도 정책 트럼프 대립 대중"
@@ -7225,7 +7209,7 @@
    "봇물 콘서트 풍자 젠슨 불륜 장면 김치따귀"
   ]
  ],
- "last_run": "2026-11-11T12:12:33.667628+09:00",
+ "last_run": "2026-11-11T12:14:32.214651+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
