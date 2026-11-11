@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.getnews.co.kr/news/articleView.html?idxno=886722",
-  "https://www.joongangenews.com/news/articleView.html?idxno=562884",
-  "https://www.slist.kr/news/articleView.html?idxno=780729",
-  "https://www.news1.kr/world/usa-canada/6349996",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110039&t=NN",
-  "https://www.ytn.co.kr/_ln/0102_202611110945215139",
-  "https://www.newsis.com/view/NISX20261110_0003861516",
-  "https://www.techm.kr/news/articleView.html?idxno=157181",
   "http://www.newsdream.kr/news/articleView.html?idxno=121872",
   "https://www.mt.co.kr/tech/2026/11/11/2026111109073149634",
   "https://www.asiatime.co.kr/article/20261111500079",
@@ -2999,17 +2991,17 @@
   "http://www.osen.co.kr/article/G1112908313",
   "https://www.joongboo.com/news/articleView.html?idxno=363742259",
   "https://www.heraldmuse.com/article/10933286",
-  "https://biz.chosun.com/it-science/ict/2026/11/11/TJWGD4XIHFB4ZMENMXTXKEJKP4/"
+  "https://biz.chosun.com/it-science/ict/2026/11/11/TJWGD4XIHFB4ZMENMXTXKEJKP4/",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3749201",
+  "https://www.dt.co.kr/article/12094678",
+  "https://www.nytimes.com/2026/11/11/magazine/ai-behavior-incorrigible.html?partner=naver",
+  "http://www.srtimes.kr/news/articleView.html?idxno=217230",
+  "https://www.sedaily.com/article/20113204",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491346",
+  "https://www.g-enews.com/view.php?ud=202611111859554155e7e8286d56_1",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230346"
  ],
  "seen_titles": [
-  "젠슨황은엔비디아를지킬수있을까…집단소송에지분·이혼등'곳곳...",
-  "프랑스·캐나다등6개국,오픈AI·앤트로픽등10개사와'AI안전·보안...",
-  "빅테크韓AI데이터센터,건물·자금은국내기업이부담",
-  "씨케이솔루션,3분기영업익109억달성…사업다각화가이끈'어닝서프...",
-  "‘크래시2’더독해진빌런잡는다",
-  "UAM상용화2026년이후는가능할까",
-  "현성안전기술박향철대표,함안군장학재단에장학금500만원기탁",
-  "[인터뷰]올리버투직시스코부회장\"韓AI기업과협력환영…中AI모...",
   "GS리테일,스타트업5곳과AI실증...상품발굴부터매장운영까지확대",
   "카카오톡,올해상반기차단계정만44만개",
   "[개장시황]美물가부담에코스피약보합…코스닥2%강세",
@@ -6001,29 +5993,17 @@
   "AG→KS→APBC연속대박터지나?'우승중견수'도쿄돔입성\"이번대회...",
   "경기도내프로농구팀,시즌초외국인선수부상에골머리",
   "종영‘연애박사’추영우“많은배움과성장의시간…감정표현의폭...",
-  "구글,‘제미나이4카본’일반에공개…로봇AI신모델도선보여"
+  "구글,‘제미나이4카본’일반에공개…로봇AI신모델도선보여",
+  "울산시,산하공공기관자체감사·내부통제운영개선방안제시",
+  "애플첫폴더블폰‘아이폰듀오’,품질논란에중국시장서고전",
+  "WhyIsItSoHardtoTeachA.I.AgentstoBehave?ResearchersHaveaTheo.",
+  "앤트로픽,개보위에개인정보유출신고…국내기업계정100여개피해",
+  "KT알파,3분기영업이익115억원…전년비1.5%↑",
+  "매출줄어도영업익늘었다···KT알파,모바일전환효과'톡톡'",
+  "닛케이3일째뛰어폭락전회복…코어위브호실적훈풍",
+  "방미통위,'2026차세대미디어축제'개최"
  ],
  "recent_sigs": [
-  [
-   "2026-11-11T13:04:14.682831+09:00",
-   "동반성장 선정 LG이노텍 최우수기업 삼성전자 ~SKT"
-  ],
-  [
-   "2026-11-11T13:04:14.682831+09:00",
-   "플랫폼 빅테크 의료 출시 격돌 구글"
-  ],
-  [
-   "2026-11-11T13:04:14.682831+09:00",
-   "불안 627조 이틀간 CEO 겹쳐 시총 스캔들에 증발 투자"
-  ],
-  [
-   "2026-11-11T13:04:14.682831+09:00",
-   "엔비디아발 글로벌 오나 하락장이"
-  ],
-  [
-   "2026-11-11T13:04:14.682831+09:00",
-   "당해 사고 원인 금융보안원도 조사"
-  ],
   [
    "2026-11-11T13:06:16.504970+09:00",
    "트럼프 감싼 젠슨 공화당도 반발"
@@ -7239,9 +7219,17 @@
   [
    "2026-11-11T19:00:39.103924+09:00",
    "호황의 소프트뱅크는 얼굴 TSMC 적자 5조 실적인데"
+  ],
+  [
+   "2026-11-11T19:04:17.985580+09:00",
+   "회복 뛰어 코어위브 훈풍 호실적 3일째 폭락 닛케이"
+  ],
+  [
+   "2026-11-11T19:04:17.985580+09:00",
+   "축제 개최 차세대 미디어"
   ]
  ],
- "last_run": "2026-11-11T19:02:33.685973+09:00",
+ "last_run": "2026-11-11T19:04:41.109281+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
