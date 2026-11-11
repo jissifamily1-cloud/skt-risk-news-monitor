@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://dealsite.co.kr/articles/172436",
-  "https://slownews.kr/169302",
-  "https://www.yna.co.kr/view/AKR20261110058351083?input=1195m",
-  "https://www.edaily.co.kr/News/Read?newsId=05333286645644408&mediaCodeNo=257",
-  "https://www.news1.kr/it-science/cc-newmedia/6349407",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=367430",
-  "https://www.tokenpost.kr/news/briefing/435745",
-  "https://news.jtbc.co.kr/article/NB12327386?influxDiv=NAVER",
-  "https://www.newsis.com/view/NISX20261110_0003862245",
-  "https://www.joongang.co.kr/article/25477369",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261110164440VLL",
-  "https://www.mk.co.kr/article/12204071",
   "https://www.news2day.co.kr/article/20261110500059",
   "https://www.news1.kr/world/europe/6349330",
   "https://www.gukjenews.com/news/articleView.html?idxno=3747791",
@@ -2999,21 +2987,21 @@
   "http://www.metroseoul.co.kr/article/20261111500034",
   "https://www.nocutnews.co.kr/news/6605014",
   "https://zdnet.co.kr/view/?no=20261111085858",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=409526"
+  "https://www.epnc.co.kr/news/articleView.html?idxno=409526",
+  "https://www.newscj.com/news/articleView.html?idxno=3447696",
+  "https://www.donga.com/news/Economy/article/all/20261110/135000070/1",
+  "https://biz.heraldcorp.com/article/10932863",
+  "https://www.hankyung.com/article/202611108062O",
+  "https://www.yna.co.kr/view/AKR20261111029000003?input=1195m",
+  "https://view.asiae.co.kr/article/2026111108024713896",
+  "https://www.etnews.com/20261111000016",
+  "http://www.inews24.com/view/2024692",
+  "https://www.newsis.com/view/NISX20261109_0003860948",
+  "https://biz.sbs.co.kr/article_hub/20000345590?division=NAVER",
+  "https://www.hankyung.com/article/2026111191647",
+  "https://zdnet.co.kr/view/?no=20261111085910"
  ],
  "seen_titles": [
-  "전청조\"내가엔비디아해결사\"…'206조증발'에과거발언재소환",
-  "\"정부가이드라인무력화\"VS\"OTT수익독식\"…SO·PP정면충돌",
-  "영양군,겨울철대설·한파대비관계기관대책회의개최",
-  "'대어집합'2027KBOFA예상명단·일정은?",
-  "제주대공과대학,에너지특화지원사업고도화로'THE300'추진",
-  "비큐AI,퓨리오사AI투자평가이익반영…3분기순이익큰폭개선",
-  "SlowLetter:November10,2026.",
-  "中관영매체,'젠슨황中스파이불륜의혹'에\"정치적마녀사냥\"(종합)",
-  "통신3사,3QSKT·LGU+수익성개선…KT는해킹보상에'주춤'",
-  "[IR]KT,AIDC1GW확충속도…911MW사업파이프라인확보",
-  "[컨콜]KT\"AIDC·토큰팩토리등AX실행본격화\"",
-  "코스피장중4%상승…CPI앞둔비트코인24시간0.79%올라",
   "젠슨황의그녀,후난성출신42세?…\"보통아니었다\"주장도",
   "젠슨황빠지게되면엔비디아는…\"단기충격,사업안무너져\"전문가들...",
   "같은AI충격인데…한국44%·대만20%급락,왜달랐나",
@@ -6001,7 +5989,19 @@
   "앤트로픽,몸값최대1.4조달러...엔비디아·구글100억달러씩투자",
   "금융보안원도해킹당해850여건정보유출…2차피해우려",
   "KT,KAIST이메일보안AI로지킨다",
-  "KT,무선서비스매출3사유일역성장…새노조,\"회복전략보이지않아..."
+  "KT,무선서비스매출3사유일역성장…새노조,\"회복전략보이지않아...",
+  "'연애박사'추영우·김소현,병재발에도사랑선택…자체최고3.5%종...",
+  "이대·서울창경공동펀드투자기업3곳모두팁스·립스선정",
+  "이노션,강남·명동대형전광판서AI아티스트3인작품송출",
+  "서울창경·이대기술지주'브릿지투자조합',투자기업3개사TIPS·LIPS선...",
+  "이노션,강남·명동옥외디지털전광판AI공공아트무대로조성",
+  "이노션,강남·명동전광판을미술관으로…AI작가3팀작품공개",
+  "피앤피시큐어,국내저축은행에화면정보유출방지솔루션공급",
+  "개보위,앤트로픽개인정보유출사고정식조사착수",
+  "송경희개보위원장\"유출피해회복예산여전히부족\"…국회에증액요...",
+  "뉴욕증시,CPI충격·'빅스텝'우려에일제히하락",
+  "\"트럼프,5월방중길전용기서'젠슨황스파이연루'보고받아\"",
+  "데이원컴퍼니-엔비디아에이전틱AI해커톤서'플라이게이트'팀우승"
  ],
  "recent_sigs": [
   [
@@ -6735,9 +6735,13 @@
   [
    "2026-11-11T09:00:42.669856+09:00",
    "~KT 매출 회복 전략 보이지 무선 3사 않아 유일 새노조 서비스 역성장"
+  ],
+  [
+   "2026-11-11T09:02:17.213417+09:00",
+   "해커톤서 플라이게이트 데이원컴퍼니 우승 에이전틱"
   ]
  ],
- "last_run": "2026-11-11T09:01:03.774296+09:00",
+ "last_run": "2026-11-11T09:02:33.846913+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
