@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=03755606645644736&mediaCodeNo=257",
-  "https://www.hidomin.com/news/articleView.html?idxno=728849",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000081541",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=624407",
   "https://www.etoday.co.kr/news/view/2646694",
   "https://www.heraldmuse.com/article/10933234",
@@ -2999,12 +2996,12 @@
   "https://www.it-b.co.kr/news/articleView.html?idxno=90636",
   "https://www.yna.co.kr/view/AKR20261111044200530?input=1195m",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841685&plink=ORI&cooper=NAVER",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000000811"
+  "https://it.chosun.com/news/articleView.html?idxno=3000000000811",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3749273",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326260",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326275"
  ],
  "seen_titles": [
-  "서울송파구,1사-1다자녀가정결연식개최…9개기업-10가정맞손",
-  "LGU+,국내이통사첫車사이버보안국제표준ML3LGU+,인증",
-  "세종도시교통공사,어린이교통안전체험교육성료…317명참여",
   "젠슨황스파이의혹,美빅테크조사신호탄되나",
   "미국발데이터센터규제쇼크…삼전·닉스,장기계약이방어막될까",
   "코스피,美긴축우려에5200선약보합…코스닥은강세",
@@ -6001,17 +5998,12 @@
   "구글,'제미나이4카본'글로벌출시…'로보틱스2.5'도공개",
   "개보위,아동개인정보보호·사망자정보처리제도개선논의",
   "해킹2주전점검했지만…'기초수법'에뚫렸다",
-  "젠슨황후임에리사수거론…엔비디아\"사퇴계획없어\""
+  "젠슨황후임에리사수거론…엔비디아\"사퇴계획없어\"",
+  "함안군,겨울수박바이러스피해현장점검나서",
+  "젠슨황불륜이국가안보문제로?中으로향한10조원엔비디아AI칩",
+  "KT,KAIST에이메일보안서비스제공…AI로연구·교육자산보호나선..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-11T14:24:16.083122+09:00",
-   "있다면 AI공격 3시에 새벽 막아야 AI로"
-  ],
-  [
-   "2026-11-11T14:24:16.083122+09:00",
-   "지원금 줄까 저소득층에 예측 효과 집중할까 국민에 AI로"
-  ],
   [
    "2026-11-11T14:26:15.409979+09:00",
    "KISA 점검 조치 대민 연쇄 긴급 웹사이트 7곳 따른"
@@ -7099,9 +7091,13 @@
   [
    "2026-11-11T20:20:27.691736+09:00",
    "2주 수법 기초 점검했지만 뚫렸다"
+  ],
+  [
+   "2026-11-11T20:24:16.986343+09:00",
+   "KAIST에 보안 교육 나선 AI로 연구 ~KT 보호 서비스 제공 이메일 자산"
   ]
  ],
- "last_run": "2026-11-11T20:22:36.276497+09:00",
+ "last_run": "2026-11-11T20:24:38.744475+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
