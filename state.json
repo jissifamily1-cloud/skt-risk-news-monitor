@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261110001539",
-  "https://www.newspim.com/news/view/20261110001530",
-  "https://www.edaily.co.kr/News/Read?newsId=06740406645644408&mediaCodeNo=257",
-  "https://www.idaegu.com/news/articleView.html?idxno=666866",
-  "https://www.mt.co.kr/stock/2026/11/10/2026111013305120344",
-  "https://www.thelec.kr/news/articleView.html?idxno=65100",
-  "https://www.tokenpost.kr/news/ai/436093",
-  "https://www.widedaily.com/news/articleView.html?idxno=303247",
   "https://www.donga.com/news/Economy/article/all/20261110/134997381/2",
   "https://www.asiatime.co.kr/article/20261110500134",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002800",
@@ -2999,17 +2991,17 @@
   "https://biz.sbs.co.kr/article_hub/20000345705?division=NAVER",
   "https://www.ajunews.com/view/20261111145158416",
   "https://www.news1.kr/world/usa-canada/6350635",
-  "https://www.livebiz.today/news/articleView.html?idxno=206410"
+  "https://www.livebiz.today/news/articleView.html?idxno=206410",
+  "http://www.wsobi.com/news/articleView.html?idxno=321531",
+  "https://www.namdonews.com/news/articleView.html?idxno=928938",
+  "https://econotimes.com/Australia-Proposes-AI-Regulator-With-Penalty-Powers-After-OpenAI-Portal-Access-1774644",
+  "https://econotimes.com/OpenAI-brings-free-ChatGPT-workshops-to-caregivers-in-five-US-cities-1774479",
+  "https://www.ddaily.co.kr/page/view/2026111114364589942",
+  "https://www.mhj21.com/news/articleView.html?idxno=254756",
+  "https://www.sedaily.com/article/20113006",
+  "https://www.medigatenews.com/news/1339107714"
  ],
  "seen_titles": [
-  "극심한변동성속에서도IPO강행하는앤트로픽...왜?",
-  "데이터센터발목잡힌美빅테크들,한국으로몰려온다",
-  "상장미루겠다는오픈AI,S-1낸앤트로픽은AI덕에개발속도2배로",
-  "[권희춘의인공지능세상]AI강국의조건,반도체넘어전력으로",
-  "美·유럽AI데이터센터규제움직임'확산'…빅테크확장전략재검토",
-  "램10%만남아도샘알트먼에메일폭탄…풍자프로그램'램알트먼'등...",
-  "[스타트UP]쓰던로봇도AI로봇으로…올에이아이의제어기술",
-  "앤스로픽,사무용AI도구출시…MS·구글과경쟁",
   "스티펠($SF),앤스로픽과자문역대시보드개편추진",
   "크라켄,앤스로픽IPO청약개시보도…공식페이지는'곧'",
   "17억5000만달러추산…앤스로픽창업자7명IPO서구주내놓는다",
@@ -6001,7 +5993,15 @@
   "\"젠슨황후임으로리사수AMDCEO도거론\"",
   "앨리스황,10조원엔비디아칩中공급의혹",
   "젠슨황,이혼시아내에게'100조재산분할'…역사상최대규모",
-  "금융보안원해킹경찰수사착수...금감원사칭해접근후48개사130여개..."
+  "금융보안원해킹경찰수사착수...금감원사칭해접근후48개사130여개...",
+  "롯데건설'2026오픈이노베이션성과공유회'개최...보바스기념병원서...",
+  "전남TP,기업현장에AI접목…지역제조업AX전환에'속도'",
+  "AustraliaProposesAIRegulatorWithPenaltyPowersAfterOpenAIPort",
+  "OpenAIbringsfreeChatGPTworkshopstocaregiversinfiveUScities",
+  "메모리호황뒤기지개…삼성파운드리'美빅테크수주발판'",
+  "KT,'AX·그룹사'성장이실적방어﻿﻿…3Q영업익5053억",
+  "美민주,애플·구글등58곳에“백악관과대화내역제출하라”",
+  "오픈AI코리아김경훈대표\"한국병원과AI활용논의이제시작…미국..."
  ],
  "recent_sigs": [
   [
@@ -7135,9 +7135,21 @@
   [
    "2026-11-11T15:04:17.676119+09:00",
    "KT텔레캅 ~SKT ~KT LG유플러스 ~LGU"
+  ],
+  [
+   "2026-11-11T15:06:16.001488+09:00",
+   "AX 3Q 성장이 실적 영업익 방어 5053억 그룹사 ~KT"
+  ],
+  [
+   "2026-11-11T15:06:16.001488+09:00",
+   "시작 김경훈 활용 코리아 미국 한국 대표 병원과 논의 이제"
+  ],
+  [
+   "2026-11-11T15:06:16.001488+09:00",
+   "제출하라 백악관과 민주 구글 대화내역 58곳에 애플"
   ]
  ],
- "last_run": "2026-11-11T15:04:34.006343+09:00",
+ "last_run": "2026-11-11T15:06:39.485933+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
