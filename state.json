@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kado.net/news/articleView.html?idxno=2084078",
-  "https://news.mtn.co.kr/article/2026111109332778776",
-  "https://www.edaily.co.kr/News/Read?newsId=03568646645644736&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03571926645644736&mediaCodeNo=257",
-  "http://weekly.chosun.com/news/articleView.html?idxno=57004",
-  "https://www.mk.co.kr/article/12205043",
-  "https://www.news1.kr/world/northeast-asia/6349889",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/11/2026111190083.html",
-  "https://www.fnnews.com/news/202611110930523810",
   "https://www.yna.co.kr/view/AKR20261111044100008?input=1195m",
   "https://www.dailian.co.kr/news/view/1713272/?sc=Naver",
   "http://www.newsdream.kr/news/articleView.html?idxno=121867",
@@ -2999,18 +2990,18 @@
   "https://www.tokenpost.kr/news/breaking/436246",
   "https://www.g-enews.com/view.php?ud=202611111815296501fbbec65dfb_1",
   "https://futurechosun.com/?p=166358",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=902657"
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=902657",
+  "https://sateconomy.co.kr/news/view/1065602184094487",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=315171",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=882104",
+  "https://www.fnnews.com/news/202611111819327256",
+  "https://www.fnnews.com/news/202611111819363034",
+  "https://www.bbc.com/korean/articles/c63rgdnxjxxgo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://www.fnnews.com/news/202611111819351404",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714581",
+  "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044488"
  ],
  "seen_titles": [
-  "[특징주]해킹당한금융보안원…'보안주'안랩·라온시큐어강세",
-  "한국에너지공단-동서발전,해상풍력유지보수인력양성협약체결",
-  "\"AI적용하니상품검색노출3.9배↑\"…GS리테일,스타트업협업성과",
-  "앤트로픽공모가70~78달러제시…’서학개미'투자길은",
-  "[이시각시황]코스닥강세지속…보안·엔터·로봇주상승세주도PDF...",
-  "비트코인올해16%하락…S&P500은10%상승",
-  "CJENM채널종료에업계충돌…\"시청권침해\"vs\"사용료인하필요\"",
-  "정상메일로위장한공격도탐지…KT,KAIST전구성원메일보안강화",
-  "KT,카이스트에'AI메일보안서비스'제공…연구자산등보호",
   "[특징주]삼전·닉스,美증시약세에장초반1%안팎하락",
   "젠슨황과의관계로AI칩中우회공급?…앨리스황의혹확산",
   "개보위,앤트로픽개인정보유출본격조사착수",
@@ -6001,7 +5992,16 @@
   "오픈AI,여행AI스타트업오데시아인수…창업자도합류",
   "\"2조달러기대어디가고…\"빚더미엔트로픽공모가낮춘뜻밖의안팎...",
   "[더나은미래경제브리핑]금융보안원도‘해킹’에속수무책,금융사제...",
-  "[시큐리티포커스]안랩디지털포렌식챌린지2026우수상수상·KT텔레..."
+  "[시큐리티포커스]안랩디지털포렌식챌린지2026우수상수상·KT텔레...",
+  "풀무원,스타트업11곳과AI·스마트농업협업…사업화검토",
+  "메리츠금융,\"중장기주식투자확대이어갈것\"",
+  "SKT,14년째상생평가'최고'…국내단2곳대기록",
+  "엔비디아칩中밀반입의혹…美'AI봉쇄령'부활하나",
+  "'매출150배'기대안고…앤스로픽IPO강행",
+  "젠슨황과중국스파이의심여성,현재까지알려진사실은?",
+  "APEC일주일앞으로…美·中무역휴전시험대",
+  "해킹에뚫린금융보안원...정책실행력·20주년FISCON타격",
+  "수집에서연결로…삼성·오픈AI가그리는디지털헬스케어"
  ],
  "recent_sigs": [
   [
@@ -7227,9 +7227,17 @@
   [
    "2026-11-11T18:20:30.302032+09:00",
    "어디 안팎 빚더미 공모가 기대 낮춘 뜻밖의 달러 2조 가고"
+  ],
+  [
+   "2026-11-11T18:22:17.444959+09:00",
+   "2곳 ~SKT 14년째 대기록 상생평가 국내 최고"
+  ],
+  [
+   "2026-11-11T18:22:17.444959+09:00",
+   "삼성 오픈AI가 디지털 헬스케어 연결로 그리는 수집에서"
   ]
  ],
- "last_run": "2026-11-11T18:20:48.394787+09:00",
+ "last_run": "2026-11-11T18:22:39.798367+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
