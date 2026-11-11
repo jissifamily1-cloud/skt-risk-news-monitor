@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.widedaily.com/news/articleView.html?idxno=303435",
-  "http://www.joseilbo.com/news/news_read.php?uid=579420&class=17",
-  "https://kpenews.com/View.aspx?No=4307758",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110095&t=NN",
-  "https://www.newsis.com/view/NISI20261111_0021529069",
-  "https://www.newsis.com/view/NISI20261111_0021529059",
-  "https://www.newsis.com/view/NISI20261111_0021529060",
-  "https://www.newsis.com/view/NISI20261111_0021529070",
   "https://www.jbnews.com/news/articleView.html?idxno=1515683",
   "https://www.newsis.com/view/NISI20261111_0021529056",
   "https://www.newsis.com/view/NISI20261111_0021529057",
@@ -2999,17 +2991,17 @@
   "https://www.news1.kr/world/international-economy/6351180",
   "https://www.sedaily.com/article/20113220",
   "https://www.pressian.com/pages/articles/2026111206213708238",
-  "https://view.asiae.co.kr/article/2026111116403886410"
+  "https://view.asiae.co.kr/article/2026111116403886410",
+  "https://www.news2day.co.kr/article/20261111500359",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111206243615682aaae0046f_30",
+  "https://www.ajunews.com/view/20261111142057262",
+  "https://news.jtbc.co.kr/article/NB12327554?influxDiv=NAVER",
+  "https://www.fnnews.com/news/202611120557259233",
+  "https://www.ddaily.co.kr/page/view/2026111206312436415",
+  "https://www.dt.co.kr/article/12094707",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865007_37012.html"
  ],
  "seen_titles": [
-  "[기획]AI도가성비시대…AI효율화모드전환",
-  "'4년연속꼴찌'설종진호키움,2027코칭스태프구성완료…이성열합...",
-  "[사진]선전APEC,광저우베이징로와바이윈공항도성공기원",
-  "울산HD의역사를한눈에!‘K리그최초’구단기록아카이브오픈......",
-  "SK에코플랜트,동반성장지수10년연속최우수…상생협력인정받아",
-  "[오늘의키워드]PHP",
-  "로봇으로의류접기작업시간절반단축",
-  "'기술주권'깃발든덴마크…국가AI슈퍼컴퓨터'게피온'에1000억원...",
   "‘잘돌아가는칩’에서‘믿고쓰는칩’으로…SK하이닉스의다음승부",
   "KT,통신본업회복이관건..3분기영업이익6.1%감소",
   "'젠슨황내연녀'앨리스황,중국에또다른남자있었나",
@@ -6001,7 +5993,15 @@
   "엔비디아2.87%반등…젠슨황스캔들에급락후저가매수유입",
   "‘젠슨황내연녀’가중국에넘긴칩10조원…연준은‘빅스텝’띄우...",
   "대구시의회경제환경위원회,대구로운영실태및해킹사고피해대응...",
-  "장민영기업은행장,해킹대응임직원59명에감사편지"
+  "장민영기업은행장,해킹대응임직원59명에감사편지",
+  "[N2포커스]이통3사,실적희비에도AI데이터센터투자'한목소리'",
+  "필라델피아반도체지수5.7%,마이크론12%↑...반도체주,코어위브호실...",
+  "예결위교육부부별심사격돌…\"기숙사비원룸수준,1조원결단을\"vs...",
+  "한준호,통신·플랫폼과징금기준높인다…\"과징금상한매출3%→10%로...",
+  "美재무·상무장관,엔비디아제재놓고백악관서충돌",
+  "뉴욕증시,AI투자심리회복?…나스닥1.6%·반도체지수5.7%상승",
+  "젠슨황“딸승계도원치않아…20년뒤에도CEO직수행”",
+  "2부오늘의주요뉴스"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,17 @@
   [
    "2026-11-12T06:32:17.998624+09:00",
    "기업은행장 편지 장민영 임직원 대응 감사 59명에"
+  ],
+  [
+   "2026-11-12T06:34:16.596836+09:00",
+   "데이터센터 이통3사 실적 투자 한목소리 희비에도"
+  ],
+  [
+   "2026-11-12T06:34:16.596836+09:00",
+   "뒤에도 수행 CEO직 20년 젠슨 원치않아 승계도"
   ]
  ],
- "last_run": "2026-11-12T06:32:38.736408+09:00",
+ "last_run": "2026-11-12T06:34:35.798916+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
