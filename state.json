@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sportsworldi.com/newsView/20261111510943",
-  "https://www.sedaily.com/article/20112963",
-  "https://www.joongdo.co.kr/web/view.php?key=20261110010003504",
-  "https://www.sedaily.com/article/20112962",
-  "https://www.nocutnews.co.kr/news/6605279",
   "http://www.metroseoul.co.kr/article/20261111500316",
   "https://www.inthenews.co.kr/news/article.html?no=94344",
   "https://view.asiae.co.kr/article/2026111113562152688",
@@ -2999,14 +2994,14 @@
   "https://www.sedaily.com/article/20113232",
   "https://biz.heraldcorp.com/article/10934302",
   "http://www.yonhapnewstv.co.kr/news/MYH20261112060325SSy",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841957&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841957&plink=ORI&cooper=NAVER",
+  "https://www.g-enews.com/view.php?ud=2026111118410833330c8c1c064d_1",
+  "https://www.edaily.co.kr/News/Read?newsId=01922086645645064&mediaCodeNo=257",
+  "https://www.tokenpost.kr/news/ai/436789",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6864994_37012.html",
+  "http://www.fins.co.kr/news/articleView.html?idxno=110517"
  ],
  "seen_titles": [
-  "울산의모든걸담은기록아카이브오픈…‘K리그최초’",
-  "로보티즈8.39%상승…24만원선앞두고매수세",
-  "KTSAT,스카일로와국내위성IoT사업진출",
-  "\"이재용이몇번을말리는데\"…'불륜인정'젠슨황,신아영포옹→19禁...",
-  "젠슨황논란에실리콘밸리첩보전재조명…기업·정부도은폐했나?",
   "금융보안원,해킹사고경찰수사의뢰…금감원사칭해자료유출",
   "“AI가더싸게사서좋았는데…내가먼저산항공권환불안된다면?”...",
   "‘안타왕에특급투수까지’…만만찮은日,K-홈런왕김도영이맞선다",
@@ -6001,7 +5996,12 @@
   "젠슨황에열광했는데...원맨쇼엔비디아,후폭풍도컸다[김창영의실리...",
   "“내후계자는없다”…불륜스캔들에드러난젠슨황의‘위험한고집...",
   "\"젠슨황,과거에엔비디아후계논의거부\"",
-  "[모닝와이드]오늘의주요뉴스"
+  "[모닝와이드]오늘의주요뉴스",
+  "\"매출은美10분의1불과\"…딥시크등中AI군단,'초저비용컴퓨팅'...",
+  "[속보]코어위브호실적에AI주반등…나스닥1.6%상승",
+  "엔비디아,H100GKE추론레시피에AI작업목록기본탑재",
+  "1부오늘의주요뉴스",
+  "금융보안원해킹,GA보안서비스와별개…25곳지원지속"
  ],
  "recent_sigs": [
   [
@@ -6163,9 +6163,17 @@
   [
    "2026-11-12T06:06:17.762558+09:00",
    "오늘의 주요뉴스"
+  ],
+  [
+   "2026-11-12T06:08:15.350924+09:00",
+   "GKE H100 레시피에 탑재 목록 추론 작업 기본"
+  ],
+  [
+   "2026-11-12T06:08:15.350924+09:00",
+   "25곳 보안서비스와 지속 금융보안원 지원 GA 별개"
   ]
  ],
- "last_run": "2026-11-12T06:06:43.391341+09:00",
+ "last_run": "2026-11-12T06:08:36.942537+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
