@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261111110900009?input=1195m",
-  "https://news.tf.co.kr/read/national/2387560.htm",
-  "https://www.sedaily.com/article/20112995",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=139513",
-  "https://www.m-i.kr/news/articleView.html?idxno=2017294",
-  "https://www.dailian.co.kr/news/view/1713639/?sc=Naver",
-  "https://www.jasm.co.kr/news/view/324953/?sc=Naver",
   "https://view.asiae.co.kr/article/2026111114483500720",
   "https://www.gamemeca.com/mv.php?inflow=naver&gid=1783283",
   "https://www.kwnews.co.kr/article/20261111500325",
@@ -2999,16 +2992,16 @@
   "https://www.ajunews.com/view/20261112070443718",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5230361",
   "https://www.donga.com/news/Inter/article/all/20261112/135011128/1",
-  "https://www.fnnews.com/news/202611120657383256"
+  "https://www.fnnews.com/news/202611120657383256",
+  "https://zdnet.co.kr/view/?no=20261111145203",
+  "https://www.asiatime.co.kr/article/20261111500236",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005960427",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885219",
+  "https://www.tokenpost.kr/news/breaking/436816",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503194",
+  "http://coinreaders.com/269496"
  ],
  "seen_titles": [
-  "통계예측도GPT시뮬레이션으로...오픈AI,소비쿠폰효과연구지원",
-  "시험대에오른앤스로픽IPO,'매출150배'기대와AI거품론우려",
-  "[인사이드스토리]젠슨황'中스파이스캔들'불똥…삼성·SK생존전략은...",
-  "\"차기엔비디아수장후보로리사수AMDCEO도거론\"",
-  "대전시교육청,구글계정보안구멍드러나…최지연의원,허술한대응...",
-  "조선소난제해결나섰다…AI로K-조선미래그린대학생들",
-  "LG유플러스,동반성장평가8년연속최우수…협력사금융·기술지원확...",
   "KT,동반성장지수'최우수'등급획득…\"12년연속\"",
   "'젠슨황불륜설'앨리스황,알고보니中금융인과10년연인관계?",
   "금융보안원해킹사고로48개사정보유출…경찰수사의뢰",
@@ -6001,7 +5994,14 @@
   "[뉴욕증시마감]코어위브호실적에일제히상승…나스닥1.60%↑",
   "11월12일굿모닝MBN주요뉴스",
   "6개월전젠슨황‘對中리스크보고서’만든31세청년…“탐정같은...",
-  "\"APEC앞트럼프,중국견제와대중관계해빙유지딜레마에빠졌다\""
+  "\"APEC앞트럼프,중국견제와대중관계해빙유지딜레마에빠졌다\"",
+  "오픈AI,3분기매출50%증가…적자는109억달러로확대",
+  "개인정보유출'사후책임'강화…피해구제보고의무화추진",
+  "증시오늘'핫이슈'…\"코어위브훈풍에뉴욕증시일제히상승\"",
+  "트럼프의중국딜레마:젠슨황스캔들에도불구,경제우선정책유지",
+  "비트겟해킹연관주소서1052.34BTC이동",
+  "엔비디아만오른게아니다…마이크론·AMD·샌디스크동반폭발",
+  "AMD(AMD)선행PER29배,엔비디아(NVDA)11배보다높다"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-11-12T07:12:16.240468+09:00",
    "대중관계 딜레마에 유지 중국 해빙 트럼프 빠졌다 견제와 APEC"
+  ],
+  [
+   "2026-11-12T07:14:18.640750+09:00",
+   "AMD 폭발 오른 동반 엔비디아만 아니다 마이크론 샌디스크"
+  ],
+  [
+   "2026-11-12T07:14:18.640750+09:00",
+   "29배 PER AMD 11배보다 NVDA 선행 높다"
   ]
  ],
- "last_run": "2026-11-12T07:12:40.134919+09:00",
+ "last_run": "2026-11-12T07:14:37.275433+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
