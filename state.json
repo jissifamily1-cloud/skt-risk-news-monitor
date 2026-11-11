@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202610270242",
-  "https://www.sedaily.com/article/20106359",
-  "https://www.mk.co.kr/article/12185866",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484334",
-  "https://sports.donga.com/it/article/all/20261025/134903032/1",
-  "http://www.inews24.com/view/2018618",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=323448",
   "https://www.mk.co.kr/article/12184750",
   "https://www.sedaily.com/article/20105479",
   "https://www.etnews.com/20261023000246",
@@ -2999,16 +2992,16 @@
   "https://www.news1.kr/world/northeast-asia/6350274",
   "https://www.yna.co.kr/view/AKR20261111041851009?input=1195m",
   "https://www.sidae.com/article/2026110813400032976",
-  "https://biz.heraldcorp.com/article/10933574"
+  "https://biz.heraldcorp.com/article/10933574",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1731219",
+  "https://zdnet.co.kr/view/?no=20261111101009",
+  "http://www.datanews.co.kr/news/article.html?no=147519",
+  "https://www.hellot.net/news/article.html?no=116167",
+  "https://biz.sbs.co.kr/article_hub/20000345641?division=NAVER",
+  "https://biz.heraldcorp.com/article/10933585",
+  "https://www.news1.kr/world/usa-canada/6350287"
  ],
  "seen_titles": [
-  "'영업익5조'이통3사뉴노멀된다",
-  "아이폰'크랙게이트'논란에갤폴드8반격...지원금10만원늘렸다",
-  "삼성전자,42만원대'갤럭시A18LTE'출시…AI·대화면갖춰",
-  "여야통신기록요구에이통3사'진퇴양난'…\"기준부터세워달라\"",
-  "소니네트워크커뮤니케이션즈해킹...258만고객개인정보유출",
-  "'인도최대IPO'지오플랫폼스,상장첫날21%폭등…시총176조원달해",
-  "500개AI골라쓰고비용도줄인다…'AI종합쇼핑몰'첫선",
   "이통사공급도빠듯한아이폰듀오…무상교체차질없을까",
   "물탱크·광고판까지스페이스X기지국…통신인프라지형바꾼다",
   "“고객님,제발30억좀찾아가세요”…미환급금방치논란억울한통신...",
@@ -6001,7 +5994,14 @@
   "\"머스크,트럼프와선전APEC동행전망…젠슨황은안올듯\"",
   "\"러트닉미상무장관도'젠슨황中스파이연루'메모받아\"(종합)",
   "인스타겨눈SNS규제,네이버·카카오도사정권될까",
-  "일상이된해킹…안전지대가없다"
+  "일상이된해킹…안전지대가없다",
+  "이노션,서울도심전광판에AI미술관연다",
+  "\"중대사고시72시간내보고\"…美뉴욕,첨단AI기업감독본격화",
+  "롯데건설,스타트업10곳과오픈이노베이션성과공유",
+  "AMD,6세대에픽CPU출시…AI데이터센터시장공략확대",
+  "[이시각주요뉴스]",
+  "엔비디아,젠슨황파장에시총4조달러‘흔들’",
+  "[오늘트럼프는]헤그세스탄핵안표결무산에\"민주당처참히실패\""
  ],
  "recent_sigs": [
   [
@@ -7323,9 +7323,13 @@
   [
    "2026-11-11T11:34:16.595960+09:00",
    "없다 일상이 안전지대가"
+  ],
+  [
+   "2026-11-11T11:36:15.698745+09:00",
+   "탄핵안 실패 처참히 무산에 헤그세스 민주당 표결"
   ]
  ],
- "last_run": "2026-11-11T11:34:35.055189+09:00",
+ "last_run": "2026-11-11T11:36:34.263670+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
