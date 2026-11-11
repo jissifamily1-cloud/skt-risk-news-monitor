@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6350103",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082143",
-  "https://www.donga.com/news/Inter/article/all/20261111/135004455/2",
-  "https://www.ytn.co.kr/_ln/0104_202611110958122532",
   "https://www.sedaily.com/article/20112812",
   "https://www.sedaily.com/article/20112811",
   "https://www.epnc.co.kr/news/articleView.html?idxno=409559",
@@ -2999,13 +2995,13 @@
   "https://www.dt.co.kr/article/12094694",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6864928_37004.html",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841678&plink=ORI&cooper=NAVER",
-  "https://www.fnnews.com/news/202611112001400979"
+  "https://www.fnnews.com/news/202611112001400979",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451780",
+  "https://www.mk.co.kr/article/12205722",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6864930_37004.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841680&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "‘바짝엎드린’빅테크⋯데이터센터전기요금떠안고우주‘눈독’",
-  "K향수본투스탠드아웃,美세포라입점후매출100억",
-  "AMD,에픽베니스CPU세부정보공개,'최대5.3GHz·256코어로경쟁력↑...",
-  "H100·B200선물심사1월8일까지연장…조기종료조건명시",
   "전날4%급등한코스피,美물가충격에상승세제동…5200선등락",
   "미상무부의수상한제재지연...구멍뚫린안보",
   "챗GPT,주요AI챗봇이용량81%차지…클로드급성장에도독주",
@@ -6001,7 +5997,11 @@
   "젠슨황불륜스캔들,정상회담판흔드나…美주중대사“관계험난해져...",
   "\"10조원AI칩중국밀반입\"‥속속드러나는앨리스황의스케일",
   "이틀새570조날아가…\"출근했지만분위기침울\"",
-  "'기업비밀샐라'AI정보유출·해킹뚫리는문제,서울시립대연구진이..."
+  "'기업비밀샐라'AI정보유출·해킹뚫리는문제,서울시립대연구진이...",
+  "과기정통부GS건설직권조사착수,아파트입주민개인정보유출사고...",
+  "젠슨황불륜녀나이까지속였나?…42세아닌49세증거나왔다",
+  "'스파이'경고묵살하고최고훈장까지‥트럼프·젠슨황의수상한1년",
+  "\"수차례보고받았다\"…정경유착에구멍난안보"
  ],
  "recent_sigs": [
   [
@@ -7123,9 +7123,13 @@
   [
    "2026-11-11T20:04:16.718696+09:00",
    "기업 서울시립대 비밀 샐라 연구진이 뚫리는 정보유출 문제"
+  ],
+  [
+   "2026-11-11T20:06:15.329012+09:00",
+   "수차례 정경유착에 안보 보고받았다 구멍"
   ]
  ],
- "last_run": "2026-11-11T20:04:37.015774+09:00",
+ "last_run": "2026-11-11T20:06:37.162095+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
