@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.peoplewatch.co.kr/article/view/ppw202611100017",
-  "https://www.etnews.com/20261111000072",
-  "https://www.youthdaily.co.kr/news/article.html?no=229599",
-  "https://www.widedaily.com/news/articleView.html?idxno=303328",
-  "https://www.bntnews.co.kr/article/view/bnt202611110157",
   "https://www.gokorea.kr/news/articleView.html?idxno=885056",
   "https://www.gukjenews.com/news/articleView.html?idxno=3748500",
   "https://zdnet.co.kr/view/?no=20261111094813",
@@ -2999,14 +2994,14 @@
   "https://www.sentv.co.kr/article/view/sentv202611110081",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=882402",
   "https://www.edaily.co.kr/News/Read?newsId=05720326645644736&mediaCodeNo=257",
-  "https://www.dkilbo.com/news/articleView.html?idxno=560464"
+  "https://www.dkilbo.com/news/articleView.html?idxno=560464",
+  "https://www.dt.co.kr/article/12094676",
+  "https://zdnet.co.kr/view/?no=20261111183252",
+  "https://econotimes.com/Anthropic-and-OpenAI-Set-Different-Rules-for-AI-Model-Access-1775132",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559454",
+  "https://www.edaily.co.kr/News/Read?newsId=05730166645644736&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "구글,‘제미나이4카본’일반에공개…로봇AI신모델도선보여",
-  "개인정보유출에도철옹성같은실적…통신3사과점의그늘",
-  "송파구,다자녀10가정에연간144만원후원…1사1다자녀결연식개최",
-  "대구보훈청,대학생과함께유엔참전용사추모캠페인실시",
-  "코스피,외국인매도에5220선약세…코스닥2%대상승",
   "김태식부산북구의원\"공공CCTV보안강화해야\"촉구",
   "앤트로픽,개보위에개인정보유출신고…국내기업계정100여개피해",
   "물가상승·긴축우려에뉴욕증시하락-엔비디아5.53%급락",
@@ -6001,13 +5996,14 @@
   "잇따르는증권사해킹사고…피해보상은'온도차'",
   "메리츠금융,누적순익1조9621억원…\"국고채담합판단인정못해\"",
   "580조잃은주주들소송,美의회는규제압박…엔비디아‘사면초가’",
-  "대구로해킹·운영사변경불협화음…시의회,행감서집중포화"
+  "대구로해킹·운영사변경불협화음…시의회,행감서집중포화",
+  "네이버등44곳동반성장‘최우수’…기업·우리은행은상생금융우수",
+  "AI가바꾸는플랫폼경쟁새지형…\"국내기업강점살릴정책필요\"",
+  "AnthropicandOpenAISetDifferentRulesforAIModelAccess",
+  "젠슨황,부자순위10위밖으로",
+  "TSMC최대실적인데소프트뱅크는6.5조적자…AI호황의두얼굴"
  ],
  "recent_sigs": [
-  [
-   "2026-11-11T13:00:38.598019+09:00",
-   "11월 10일 헤드라인 이브닝뉴스"
-  ],
   [
    "2026-11-11T13:04:14.682831+09:00",
    "동반성장 선정 LG이노텍 최우수기업 삼성전자 ~SKT"
@@ -7235,9 +7231,17 @@
   [
    "2026-11-11T18:58:15.931897+09:00",
    "잃은 주주들 580조 소송 규제 압박 의회는 사면초가"
+  ],
+  [
+   "2026-11-11T19:00:39.103924+09:00",
+   "10위 부자 순위 밖으로 젠슨"
+  ],
+  [
+   "2026-11-11T19:00:39.103924+09:00",
+   "호황의 소프트뱅크는 얼굴 TSMC 적자 5조 실적인데"
   ]
  ],
- "last_run": "2026-11-11T18:58:34.546063+09:00",
+ "last_run": "2026-11-11T19:00:57.902375+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
