@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=626029",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194528",
-  "https://www.sidae.com/article/2026111209301087710",
   "http://www.wsobi.com/news/articleView.html?idxno=321580",
   "https://www.dt.co.kr/article/12094763",
   "https://www.job-post.co.kr/news/articleView.html?idxno=238014",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20261112_0003866255",
   "https://news.jtbc.co.kr/article/NB12327791?influxDiv=NAVER",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2313330",
-  "https://www.iusm.co.kr/news/articleView.html?idxno=1070489"
+  "https://www.iusm.co.kr/news/articleView.html?idxno=1070489",
+  "https://www.ubc.co.kr/news/28544/",
+  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261113.22002003742",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543602"
  ],
  "seen_titles": [
-  "롯데벤처스,스타트업10개사협업성과공유...직접투자30억원",
-  "[테크스냅]AI가마케팅기획부터실행까지…인핸스'모파이'공개",
-  "젠슨황또'불륜'논란…이번엔사내직속여임원과혼외관계의혹",
   "네이버최수연\"AI인프라기업과2조규모계약\"\"물류자회사설립할...",
   "韓수출93%급증이끈글로벌AI투자…\"꺼지면침체못막아\"",
   "'신뢰회복'나선SK텔레콤,성실성평가하락폭90%회복",
@@ -6001,13 +5998,12 @@
   "[올댓차이나]홍콩증시,지분조정매도에속락마감…H주1.40%↓",
   "'트럼프지시마저뭉갰다'백악관장관들싸움으로확전",
   "38년기술진화…대한민국과학미래를계산하다[사이언스픽]",
-  "\"울산처럼기업지원하라\"…정부가주목한밀착행정"
+  "\"울산처럼기업지원하라\"…정부가주목한밀착행정",
+  "울산친기업행정'호평'..정부,타지자체확산주문",
+  "젠슨황,이사회해임초읽기…‘깐부동맹’삼전닉스도촉각(종합)",
+  "엔비디아이끌젠슨황후계자는?내부인사냐,외부영입이냐"
  ],
  "recent_sigs": [
-  [
-   "2026-11-12T13:36:15.612326+09:00",
-   "스캔들 젠슨황 삼전닉스 영향은"
-  ],
   [
    "2026-11-12T13:38:17.595605+09:00",
    "넷플릭스 할인 요금제 대신 눈길"
@@ -7347,9 +7343,13 @@
   [
    "2026-11-12T19:30:38.805505+09:00",
    "뭉갰다 장관들 지시마저 확전 트럼프 싸움으로 백악관"
+  ],
+  [
+   "2026-11-12T19:36:16.823268+09:00",
+   "후계자는 인사냐 이끌 외부 내부 영입이냐 젠슨"
   ]
  ],
- "last_run": "2026-11-12T19:34:33.031471+09:00",
+ "last_run": "2026-11-12T19:36:37.837658+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
