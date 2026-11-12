@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12202567",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=882752",
-  "https://www.donga.com/news/Economy/article/all/20261112/135014334/1",
-  "https://www.edaily.co.kr/News/Read?newsId=04119686645645064&mediaCodeNo=257",
-  "https://www.sidae.com/article/2026111214591995760",
-  "https://hbnpress.com/news/view/1065597570489938",
-  "https://www.news1.kr/world/northeast-asia/6352228",
-  "http://www.newsprime.co.kr/news/article.html?no=754775",
   "https://www.hani.co.kr/arti/international/international_general/1287036.html",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8382",
   "https://www.newspim.com/news/view/20261112001301",
@@ -2999,17 +2991,17 @@
   "https://www.edaily.co.kr/News/Read?newsId=03854006645645064&mediaCodeNo=257",
   "https://www.raonnews.com/news/article.html?no=62723",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390024.html",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94025"
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94025",
+  "https://www.ddaily.co.kr/page/view/2026111113491749716",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715140",
+  "https://www.ikbc.co.kr/article/view/kbc202611130015",
+  "https://www.munhwa.com/article/11631005",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261113075058WWU",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/13/2026111300021.html",
+  "https://biz.sbs.co.kr/article_hub/20000346136?division=NAVER",
+  "https://www.etoday.co.kr/news/view/2647666"
  ],
  "seen_titles": [
-  "AI도입서두른기업들…이젠'토성비'가경쟁력",
-  "레이븐,한국시장공식진출…디이그제큐티브액션과파트너십",
-  "코어위브CEO“지분매각계획중단”…깜짝실적에20%대주가폭등",
-  "TSMC직원개인정보4.6만건유출…해커,다크웹서'비트코인3개'요구",
-  "법인코인투자1년째표류…기본법에발목",
-  "KT,AI로디지털혁신디자인부터고객안내까지한번에",
-  "中,젠슨황스캔들에엔비디아칩사재기…美수출규제강화대비",
-  "코스피,옵션만기일·젠슨황해임설에'5340선후퇴'…코스닥1.22%↓",
   "젠슨황두번째불륜상대는엔비디아부사장…둘다기혼자",
   "[증시프리즘]美반도체주5.7%급등에도코스피0.6%하락…젠슨황리...",
   "[일본증시]닛케이,'엔비디아쇼크'에4일만에하락...AI주매도확산",
@@ -6001,7 +5993,15 @@
   "[속보]엔비디아발악재에코스피5340선후퇴…코스닥700선붕괴",
   "코인거래소도금융사급보안의무…24시간감시못하면입출금시간제...",
   "젠슨황엔비디아CEO사임…세번째불륜의혹도제기",
-  "[뉴욕증시마감]엔비디아4%↓·국채금리급등…3대지수하락"
+  "[뉴욕증시마감]엔비디아4%↓·국채금리급등…3대지수하락",
+  "같은‘AIDC매출'인데속은제각각…통신3사3분기실적보니",
+  "구글,삼성·젠틀몬스터·와비파커와협력...제미나이기반AI안경공개",
+  "\"젠슨황퇴진충격에유가급등까지\"…뉴욕증시하락·엔비디아4.3%↓",
+  "[속보]젠슨황,세번째불륜스캔들…“사내또다른직원과도내연관계”",
+  "[3분증시]뉴욕증시,엔비디아CEO사퇴에동반하락",
+  "앨리스황,화웨이데이터센터에도손뻗쳤다…'젠슨황스캔들'확산",
+  "[부자들의투자노트]뉴스트리트\"지금이엔비디아매수기회\"",
+  "최저찍은국제금값…국내금시세는?"
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,17 @@
   [
    "2026-11-13T07:52:21.244733+09:00",
    "급등 국채금리 3대 지수 하락"
+  ],
+  [
+   "2026-11-13T07:54:16.412542+09:00",
+   "기회 매수 지금이 뉴스트리트"
+  ],
+  [
+   "2026-11-13T07:54:16.412542+09:00",
+   "국제 국내 금값 찍은 금시세는 최저"
   ]
  ],
- "last_run": "2026-11-13T07:52:44.756544+09:00",
+ "last_run": "2026-11-13T07:54:37.853043+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
