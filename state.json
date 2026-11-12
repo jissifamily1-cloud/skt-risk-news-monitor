@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kukinews.com/article/view/kuk202611120136",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3750053",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=902891",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491670",
-  "https://www.sedaily.com/article/20113534",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242886",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/11/2026111190172.html",
-  "https://www.news1.kr/world/international-economy/6352056",
-  "http://www.srtimes.kr/news/articleView.html?idxno=217438",
   "https://www.ytn.co.kr/_ln/0103_202611101226080980",
   "https://www.yna.co.kr/view/PYH20261110014800017?input=1196m",
   "https://platum.kr/archives/298472",
@@ -2999,18 +2990,18 @@
   "https://www.news1.kr/world/international-economy/6352654",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6865308_37012.html",
   "https://biz.heraldcorp.com/article/10935684",
-  "https://view.asiae.co.kr/article/2026111305130267572"
+  "https://view.asiae.co.kr/article/2026111305130267572",
+  "https://www.ddaily.co.kr/page/view/2026111219550005631",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865309_37012.html",
+  "https://www.newsis.com/view/NISX20261113_0003866376",
+  "https://www.newsis.com/view/NISX20261110_0003862313",
+  "https://www.dailyt.co.kr/newsView/dlt202611120034",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130004&t=NN",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=887025",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843986&plink=ORI&cooper=NAVER",
+  "https://www.mediapen.com/news/view/1137198"
  ],
  "seen_titles": [
-  "\"CEO불륜에내노후가왜?\"…국민연금,엔비디아평가액4조원증발",
-  "젠슨황해임초읽기…엔비디아후임물색",
-  "\"같은AI다른셈법\"...3Q희비엇갈린네이버·카카오,AI수익화'속도...",
-  "[뉴스다이브]오·장·한‘보수삼국지’",
-  "\"엔비디아젠슨황해임하면최대수혜자는中\"",
-  "캠페인기획부터세일즈포스설정까지,마케팅실무를대신하는AI에이...",
-  "주민번호무단수집에암호화도안해…알뜰폰8개사제재",
-  "제주BRT'밀실운영'논란속도민토론회…12월최종결정",
-  "[가보니]'딸깍'하면영상생성,'VR모델하우스'까지…'누구나쉽게'내...",
   "\"챗GPTNO\"외부AI막는완성차···궁극적해법은'독자적데이터센터...",
   "몇달걸리던협업이며칠만에…어도비내년키워드는‘이것’[어도...",
   "네이버클라우드,'보안특화AI'개발속도…\"내년7월700B급공개\"",
@@ -6001,7 +5992,16 @@
   "[속보]필라델피아반도체지수,젠슨황퇴진여파에0.54%하락마감",
   "젠슨황엔비디아CEO사퇴‥33년만에불명예퇴진",
   "美기술주들,‘젠슨황해임’에휘청…AMD·브로드컴은반사이익기대",
-  "[속보]젠슨황사임에AI주↓…일제히하락마감"
+  "[속보]젠슨황사임에AI주↓…일제히하락마감",
+  "모바일신분증'CI제공'근거마련…\"유통량증가제한적\"",
+  "미의회\"조사예정대로\"‥\"안나오면소환장\"",
+  "[속보]뉴욕증시,젠슨황사임·유가상승에하락마감…나스닥0.4%↓",
+  "\"반도체비중늘린외국인,다판것아니다\"…증시반등시점언제?",
+  "함파트너스,베트남‘2026OAC포럼’서자체솔루션‘BRINT’기반실...",
+  "젠슨황,세번째내연녀도있었다…\"상대는엔비디아여직원\"",
+  "'AI제국황제'젠슨황,불륜스캔들시인4일만에퇴출",
+  "젠슨황사실상해임…엔비디아주가급락",
+  "[美증시특징주]AI네트워크아리스타의외의급등…매출가이던스압도..."
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,17 @@
   [
    "2026-11-13T06:08:18.074367+09:00",
    "일제히 사임에 마감 젠슨 하락 AI주"
+  ],
+  [
+   "2026-11-13T06:10:28.257586+09:00",
+   "압도 의외의 AI네트워크 가이던스 매출 아리스타 급등"
+  ],
+  [
+   "2026-11-13T06:10:28.257586+09:00",
+   "해임 사실상 급락 주가 젠슨"
   ]
  ],
- "last_run": "2026-11-13T06:08:35.904219+09:00",
+ "last_run": "2026-11-13T06:10:49.533101+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
