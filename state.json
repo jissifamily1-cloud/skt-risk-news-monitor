@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.youthdaily.co.kr/news/article.html?no=229714",
-  "http://www.newstomato.com/ReadNews.aspx?no=1320094&inflow=N",
-  "https://www.handmk.com/news/articleView.html?idxno=44996",
-  "https://www.seoultimes.news/news/article.html?no=2000102090",
-  "https://www.mt.co.kr/tech/2026/11/12/2026111209093352656",
-  "https://www.ddaily.co.kr/page/view/2026111209203485750",
-  "https://www.dt.co.kr/article/12094742",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611112256585460682",
   "https://www.edaily.co.kr/News/Read?newsId=03191446645644408&mediaCodeNo=257",
   "https://www.edaily.co.kr/News/Read?newsId=02466566645645064&mediaCodeNo=257",
@@ -2999,16 +2992,16 @@
   "https://biz.sbs.co.kr/article_hub/20000346063?division=NAVER",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=667993",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843309&plink=ORI&cooper=NAVER",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284344&CMPT_CD=P0010"
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284344&CMPT_CD=P0010",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3750309",
+  "https://www.mt.co.kr/economy/2026/11/12/2026111216412686929",
+  "https://sports.hankooki.com/news/articleView.html?idxno=6943448",
+  "https://www.dongascience.com/news/view/80855",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318946",
+  "https://www.ekn.kr/web/view.php?key=20261112021408983",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6865205_36981.html"
  ],
  "seen_titles": [
-  "[데스크칼럼]'IT강국'이라는착시,'쓰는나라'의한계",
-  "KT,AI가읽는디자인기준구축..‘KDS2.0’·메시지생성에이전트도...",
-  "오픈AI,챗GPT에기업과직접대화하는'비즈니스에이전트'도입",
-  "SKT소버린AI인프라구축협력",
-  "[통신레이더]LG유플러스·SK텔레콤,대학·빅테크협력으로독자AI경...",
-  "[포토]한중일융합예술포럼성료,\"AI시대진정한우리란?\"",
-  "ENA'그녀는취급주의'이혜리x나인우캐스팅확정",
   "롯데벤처스,스타트업협업성과공개…내년바이오로영역확대",
   "소풍커넥트,농협과'NHarvestX2026'성과공유회개최",
   "'코어위브호실적'속AI투심부활…마이크론시총130조원껑충",
@@ -6001,13 +5994,16 @@
   "국민연금엔비디아평가액,네달새4조원증발",
   "양향자\"워싱턴수출허가기준바뀌면韓메모리주문달라져\"",
   "\"홈캠,사생활유출우려\"…10대중3대해킹무방비",
-  "바이낸스8조해킹후폭풍…금융당국,코인거래소에'금융회사수준'..."
+  "바이낸스8조해킹후폭풍…금융당국,코인거래소에'금융회사수준'...",
+  "울산동구가족센터,다문화아동·청소년성장지원성과공유",
+  "메가프로젝트성과확산본격화…中企공급망진입확대·2조원상생재...",
+  "[건설소식]롯데건설·한화건설부문·현대건설·GS건설",
+  "출연연연구자90%AI쓰지만과학특화활용은3.9%",
+  "민주당\"국힘,방미통진흥원신설-올림픽중계의무화동참하라\"",
+  "“젠슨황때문에트럼프까지”…미중무역휴전흔들리나[이슈+]",
+  "'기술주반등'상승했던지수‥엔비디아급락에약세"
  ],
  "recent_sigs": [
-  [
-   "2026-11-12T11:14:15.321630+09:00",
-   "강해지는 압박 이사회와 점점 국회의"
-  ],
   [
    "2026-11-12T11:16:15.961234+09:00",
    "CFO 부회장 대신 CRO가 CTO 샐러리맨의 대세 승진"
@@ -7287,9 +7283,17 @@
   [
    "2026-11-12T17:12:16.508684+09:00",
    "바이낸스 후폭풍 코인거래소에 금융당국 8조 금융회사 수준"
+  ],
+  [
+   "2026-11-12T17:14:16.340422+09:00",
+   "트럼프까지 무역휴전 때문에 미중 흔들리나 젠슨"
+  ],
+  [
+   "2026-11-12T17:14:16.340422+09:00",
+   "반등 약세 지수 급락에 상승했던 기술주"
   ]
  ],
- "last_run": "2026-11-12T17:12:41.815088+09:00",
+ "last_run": "2026-11-12T17:14:35.035178+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
