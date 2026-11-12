@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/cryptocurrency/436749",
-  "https://www.donga.com/news/Economy/article/all/20261112/135010646/2",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008841947&plink=ORI&cooper=NAVER",
-  "https://www.voakorea.com/a/eset-lazarus-europe-drone-espionage/8221534.html",
-  "http://coinreaders.com/269472",
-  "https://www.mt.co.kr/policy/2026/11/12/2026111119511593316",
-  "https://www.mt.co.kr/economy/2026/11/12/2026111020493771887",
   "https://www.yna.co.kr/view/AKR20261111182151082?input=1195m",
   "http://coinreaders.com/269456",
   "https://news-s.kr/view.html?id=L261112005313e0e6",
@@ -2999,16 +2992,16 @@
   "http://coinreaders.com/269577",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711047",
   "https://biz.heraldcorp.com/article/10935099",
-  "https://www.tokenpost.kr/news/breaking/436983"
+  "https://www.tokenpost.kr/news/breaking/436983",
+  "https://www.jasm.co.kr/news/view/325077/?sc=Naver",
+  "http://journal.kobeta.com/?post_type=post&p=64425",
+  "https://www.techm.kr/news/articleView.html?idxno=157270",
+  "https://biz.heraldcorp.com/article/10935103",
+  "http://www.celuvmedia.com/article.php?aid=1794456118530768008",
+  "https://www.newsis.com/view/NISX20261112_0003865471",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559607"
  ],
  "seen_titles": [
-  "美재무,군사기지로거처옮겨…이란위협영향",
-  "“실사는했나”…月10만원LH임대주택,8년째빈집인이유",
-  "미국하원,‘중소기업방어지침의무화’법안…북한등적대세력사...",
-  "에이브(AAVE)차입속도제한안제안…30분은시뮬레이션값",
-  "4년전경고에도…금융보안원,48개社자료털렸다",
-  "유럽학교7천곳폭파위협…이탈리아등대피소동",
-  "ESET“북한라자루스,유럽드론업계공격…자체생산능력제고목적...",
   "리플XRP,8월이후첫1.05달러…ETF유입멈추고1달러지지선위협",
   "보안인증수년째외면…아이스크림미디어,정보유출불렀다",
   "산업의운명가르는세액공제…'세금의힘'커진다",
@@ -6001,7 +5994,14 @@
   "누가사냐고코웃음치더니...앤트로픽IPO,26시간만에초과청약조짐",
   "‘젠슨황불륜설’킴벌리파월…‘CEO직보’임원60명중1명",
   "“일론,제발젠슨황뽑아주라”…SNS서요청받자반응한머스크“영광...",
-  "7153억원미결제약정…엔비디아($NVDA)연동HIP-3시장최대"
+  "7153억원미결제약정…엔비디아($NVDA)연동HIP-3시장최대",
+  "LG오스틴,200만달러에재계약…KBO외국인타자최고대우",
+  "글로벌문화중립국도약과K-컬처산업확장위한토론회개최",
+  "[FISCON26]\"AI에관리자권한줘도되나\"...금융권보안자동화의딜레...",
+  "‘젠슨황불륜설’킴벌리파월은누구?…‘CEO직보’임원60명중1명",
+  "젠슨황,사내임원과도불륜설제기…이사회해임논의[Ce:월드뷰]",
+  "美민주,트럼프·젠슨황접촉기록보존요구…엔비디아수출문서도",
+  "[경제를부탁해]젠슨황스캔들삼전닉스영향은?"
  ],
  "recent_sigs": [
   [
@@ -7163,9 +7163,13 @@
   [
    "2026-11-12T13:34:17.725780+09:00",
    "머스크 반응한 영광 SNS서 뽑아주라 일론 젠슨황 제발 요청받자"
+  ],
+  [
+   "2026-11-12T13:36:15.612326+09:00",
+   "스캔들 젠슨황 삼전닉스 영향은"
   ]
  ],
- "last_run": "2026-11-12T13:34:36.351866+09:00",
+ "last_run": "2026-11-12T13:36:35.207991+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
