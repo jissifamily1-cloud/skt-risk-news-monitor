@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=05680966645644736&mediaCodeNo=257",
-  "https://www.kmib.co.kr/article/20261111501585",
-  "https://www.sentv.co.kr/article/view/sentv202611110065",
-  "https://www.sentv.co.kr/article/view/sentv202611110099",
-  "https://www.hani.co.kr/arti/opinion/column/1286874.html",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5230310",
-  "http://www.hellodd.com/news/articleView.html?idxno=113834",
-  "https://www.sedaily.com/article/20112624",
-  "https://www.mk.co.kr/article/12205706",
   "https://www.joongang.co.kr/article/25477752",
   "https://www.sentv.co.kr/article/view/sentv202611110049",
   "https://www.venturesquare.net/1127707/",
@@ -2999,18 +2990,18 @@
   "https://www.nocutnews.co.kr/news/6605718",
   "https://kbench.com/?q=node%2F283271",
   "https://www.fnnews.com/news/202611120937373681",
-  "https://www.kukinews.com/article/view/kuk202611120032"
+  "https://www.kukinews.com/article/view/kuk202611120032",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082322",
+  "https://www.cstimes.com/news/articleView.html?idxno=727645",
+  "https://www.gosiweek.com/article/1065574956994741",
+  "https://news.koreanbar.or.kr/news/articleView.html?idxno=36308",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=7287",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318948",
+  "https://www.yna.co.kr/view/AKR20261112051800075?input=1195m",
+  "https://www.news1.kr/world/international-economy/6351503",
+  "https://www.mk.co.kr/article/12206088"
  ],
  "seen_titles": [
-  "TSMCInvests$1BillioninOpenAI,Anthropic",
-  "장동혁,한동훈제명논란정면대응…오세훈'비대위론'에도반격",
-  "전남광주,1313억원지역성장펀드결성…AI·반도체유망기업키운다",
-  "'젠슨황연인'앨리스황은49세?…中금융인과부부설도",
-  "‘몸값1800조’앤트로픽상장…빅테크7곳35조‘실탄’투입",
-  "LG전자,휴머노이드·부품투트랙…내년로봇수익화시동",
-  "LGU+노조,‘4.3%인상’조정안투표…임단협타결될까",
-  "어디를향하는‘구조적다수’인가[뉴스룸에서]",
-  "'불륜인정'젠슨황,하루만에정상출근…사과후업무복귀[뉴스와...",
   "AI데이터센터4경원투자전···미국독주,한국은?",
   "앤트로픽이르면19일상장…기업가치2조달러서‘반토막’",
   "젠슨황불륜파문에美대사도입열었다…“미중관계험난”",
@@ -6001,7 +5992,16 @@
   "코스피,美반도체훈풍에도'젠슨황해임설'에주춤",
   "엔비디아지포스RTX508024GB취소설등장,16GB모델그대로간다?",
   "[속보]박상원금융보안원장대국민사과..\"해킹심려끼쳐송구\"",
-  "에듀테크개인정보관리허술…탈퇴회원정보미파기·보안취약점방치"
+  "에듀테크개인정보관리허술…탈퇴회원정보미파기·보안취약점방치",
+  "롯데온·플래티어AI자사몰플랫폼사업협력",
+  "롯데벤처스,스타트업에30억원투자…계열사협업·현장실증지원",
+  "퀀텀에어로,CES2027드론부문최고혁신상수상…AI혁신상까지2관왕",
+  "AI개발속도논쟁보다안전확보가먼저…\"제3자검증체계마련해야...",
+  "[줌인]후보발표전인데정진완우리은행장'연임론'?",
+  "언론시민사회단체\"김종철방미통위원장,직접나서YTN해결하라\"",
+  "젠슨황,이민자성공신화서불륜설얼룩진위기의CEO로",
+  "골드만\"기술주하락해도뉴욕증시더간다\"…AI투자축소땐위험",
+  "AI식음료추천,석달만에다시물었더니…신라면지키고한맥급등"
  ],
  "recent_sigs": [
   [
@@ -7011,9 +7011,13 @@
   [
    "2026-11-12T10:06:15.579888+09:00",
    "에듀테크 회원 관리 보안취약점 탈퇴 정보 방치 개인정보 허술 미파기"
+  ],
+  [
+   "2026-11-12T10:08:16.548188+09:00",
+   "기술주 투자 축소 위험 뉴욕증시 하락해도 골드만 간다"
   ]
  ],
- "last_run": "2026-11-12T10:06:42.481019+09:00",
+ "last_run": "2026-11-12T10:08:35.585334+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
