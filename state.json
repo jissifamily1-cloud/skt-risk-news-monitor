@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.greened.kr/news/articleView.html?idxno=354002",
-  "https://news.bizwatch.co.kr/article/market/2026/11/06/0004",
-  "https://www.widedaily.com/news/articleView.html?idxno=303006",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4443381",
   "https://www.etoday.co.kr/news/view/2644734",
   "https://www.newsis.com/view/NISX20261105_0003857014",
@@ -2999,12 +2996,12 @@
   "https://www.huffingtonpost.kr/article/262011",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444421",
   "https://www.e-science.co.kr/news/articleView.html?idxno=139621",
-  "https://www.asiatime.co.kr/article/20261112500187"
+  "https://www.asiatime.co.kr/article/20261112500187",
+  "https://www.tokenpost.kr/news/policy/436956",
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=113016",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602041"
  ],
  "seen_titles": [
-  "[주간증시전망]폭락장맞은코스피…5000선향방가를美물가·AI실적",
-  "[AI패닉]\"국내증시한동안변동지속,11월이후반등기회\"",
-  "'폭락증시'에엔트로픽상장도브레이크걸리나?",
   "반도체주또폭락,지금팔아야하나...증권가\"단기악재,저가매수기...",
   "美중간선거민주당압승에도\"AI데이터센터규제가능성제한적\"",
   "\"불확실성해소\"vs\"AI규제역풍\"…'블루웨이브'덮친증시,반등시점...",
@@ -6001,7 +5998,10 @@
   "클라우드기업코어위브실적힘입어AI거품설잦아들었다:미국증시...",
   "젠슨황과혼외관계의혹제기된킴벌리파월은누구",
   "KT,AI로서비스개발8개월→2.4개월…고객안내문작성도92%단축",
-  "'中스파이의혹'에젠슨황거취흔들…엔비디아이사회해임논의"
+  "'中스파이의혹'에젠슨황거취흔들…엔비디아이사회해임논의",
+  "일본,고성능AI안전의무·명령위반벌칙검토",
+  "네이버,3분기매출3조4,724억원...AI영향영업이익은20.9%감소",
+  "[영상뉴스]기술직을영업으로보내버린KT잔혹사의진실"
  ],
  "recent_sigs": [
   [
@@ -7227,9 +7227,13 @@
   [
    "2026-11-12T12:30:34.845830+09:00",
    "의혹 제기된 파월은 킴벌리 젠슨황과 누구 혼외관계"
+  ],
+  [
+   "2026-11-12T12:36:15.638041+09:00",
+   "영업으로 진실 잔혹사의 기술직을 ~KT 보내버린"
   ]
  ],
- "last_run": "2026-11-12T12:34:31.078559+09:00",
+ "last_run": "2026-11-12T12:36:34.301413+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
