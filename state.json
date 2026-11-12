@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0103_202611101226080980",
-  "https://www.yna.co.kr/view/PYH20261110014800017?input=1196m",
-  "https://platum.kr/archives/298472",
-  "https://news.unn.net/news/articleView.html?idxno=600515",
-  "https://byline.network/?p=9004111222627371",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611121459596860837",
-  "https://swtvnews.com/news/newsview.php?ncode=1065575008670136",
-  "https://www.newsis.com/view/NISX20261112_0003865754",
   "https://www.newsway.co.kr/news/view?ud=2026111215101816889",
   "https://www.sidae.com/article/2026111215130173739",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559638",
@@ -2999,17 +2991,17 @@
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130004&t=NN",
   "https://www.getnews.co.kr/news/articleView.html?idxno=887025",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843986&plink=ORI&cooper=NAVER",
-  "https://www.mediapen.com/news/view/1137198"
+  "https://www.mediapen.com/news/view/1137198",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768076",
+  "https://platum.kr/archives/298469",
+  "https://www.sidae.com/article/2026111120175750710",
+  "https://www.yna.co.kr/view/AKR20261113012000072?input=1195m",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865310_37012.html",
+  "https://biz.heraldcorp.com/article/10935686",
+  "https://www.ajunews.com/view/20261113060633785",
+  "https://www.munhwa.com/article/11630973"
  ],
  "seen_titles": [
-  "\"챗GPTNO\"외부AI막는완성차···궁극적해법은'독자적데이터센터...",
-  "몇달걸리던협업이며칠만에…어도비내년키워드는‘이것’[어도...",
-  "네이버클라우드,'보안특화AI'개발속도…\"내년7월700B급공개\"",
-  "與한준호,통신·플랫폼금지행위'과징금상한액'상향추진…\"위법행...",
-  "젠슨황퇴진위기에'AI순환금융'위험…\"투자지속가능성의문\"",
-  "삼양그룹,개인정보15만건유출…개보위,과징금5.5억원부과",
-  "재건축끝낸잠실,중학교달랑한개?윤유진서울시의원\"메가과밀해...",
-  "LG유플러스,국내이통사첫자동차사이버보안ML3인증",
   "가상환경에서먼저배우는휴머노이드,자체로봇AI모델은오픈소스...",
   "'학생창업전국1위'건국대의에너지폭발한공동IR",
   "연말에도고삐죄는네이버…데이터센터·AI에이전트·물류'3대승부수...",
@@ -6001,7 +5993,15 @@
   "젠슨황,세번째내연녀도있었다…\"상대는엔비디아여직원\"",
   "'AI제국황제'젠슨황,불륜스캔들시인4일만에퇴출",
   "젠슨황사실상해임…엔비디아주가급락",
-  "[美증시특징주]AI네트워크아리스타의외의급등…매출가이던스압도..."
+  "[美증시특징주]AI네트워크아리스타의외의급등…매출가이던스압도...",
+  "[데이터&뉴스]SK하이닉스법인세7.5조1위,삼성전자4.2조2위....현대...",
+  "캠페인기획부터세일즈포스설정까지,마케팅실무를대신하는AI에이...",
+  "\"AI에법적권리안돼\"…국제규범마련시급",
+  "젠슨황퇴진·유가급등에뉴욕증시하락…나스닥0.4%↓",
+  "젠슨황충격에주가흔들‥AI산업대혼동예고",
+  "엔비디아이끌임시CEO크레스누구?…재무통베테랑임원",
+  "트럼프,젠슨황후임엔비디아CEO로팀쿡추천…\"전설이전설대체\"",
+  "“제재왜안해”“몰라”…젠슨황스캔들에美장관들까지‘충돌’"
  ],
  "recent_sigs": [
   [
@@ -6199,9 +6199,25 @@
   [
    "2026-11-13T06:10:28.257586+09:00",
    "해임 사실상 급락 주가 젠슨"
+  ],
+  [
+   "2026-11-13T06:12:16.795079+09:00",
+   "삼성전자 2위 2조 법인세 SK하이닉스 1위 5조 현대"
+  ],
+  [
+   "2026-11-13T06:12:16.795079+09:00",
+   "누구 베테랑 크레스 이끌 임시CEO 재무통 임원"
+  ],
+  [
+   "2026-11-13T06:12:16.795079+09:00",
+   "추천 전설이 후임 트럼프 CEO로 대체 전설 젠슨"
+  ],
+  [
+   "2026-11-13T06:12:16.795079+09:00",
+   "장관들까지 안해 제재 스캔들에 충돌 젠슨황 몰라"
   ]
  ],
- "last_run": "2026-11-13T06:10:49.533101+09:00",
+ "last_run": "2026-11-13T06:12:45.721873+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
