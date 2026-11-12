@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newstomato.com/ReadNews.aspx?no=1320236&inflow=N",
-  "https://www.newsis.com/view/NISX20261112_0003865939",
-  "https://www.yeongnam.com/web/view.php?key=20261112026240360",
-  "https://www.hidomin.com/news/articleView.html?idxno=729139",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/12/2026111200294.html",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=81538",
-  "https://www.ajunews.com/view/20261112160523960",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338367",
-  "https://www.busan.com/view/busan/view.php?code=2026111216051983291",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843404&plink=ORI&cooper=NAVER",
   "https://www.g-enews.com/view.php?ud=202611121550285475906806b77b_1",
   "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082900",
   "https://www.cstimes.com/news/articleView.html?idxno=727723",
@@ -2999,19 +2989,19 @@
   "https://www.newstopkorea.com/news/articleView.html?idxno=49011",
   "http://www.newskr.kr/news/articleView.html?idxno=107964",
   "https://news.jtbc.co.kr/article/NB12327872?influxDiv=NAVER",
-  "https://view.asiae.co.kr/article/2026111307404818320"
+  "https://view.asiae.co.kr/article/2026111307404818320",
+  "https://hbnpress.com/news/view/1065596075342343",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768028",
+  "https://www.newsquest.co.kr/news/articleView.html?idxno=304552",
+  "https://www.wikitree.co.kr/articles/1174232",
+  "https://www.etoday.co.kr/news/view/2647661",
+  "https://www.m-economynews.com/news/article.html?no=72958",
+  "https://kpenews.com/View.aspx?No=4310654",
+  "https://www.edaily.co.kr/News/Read?newsId=02200886645645392&mediaCodeNo=257",
+  "https://zdnet.co.kr/view/?no=20261113073707",
+  "https://zdnet.co.kr/view/?no=20261113073253"
  ],
  "seen_titles": [
-  "\"데이터로장사하더라\"…AI스타트업,높은문턱에옴부즈만에개선요...",
-  "㈜LG,올3Q매출전년比2.2%증가한2.4조원…영업익3277억원",
-  "[삼성라이온즈우승,그리고…]“팀을위해내가한발더”3년전구...",
-  "삼성,12년만에우승힘보탠배찬승호주리그파견...김백산·김현준...",
-  "중국《미녀계》말고동독《미남계》도있다…서독총리실여비서까지...",
-  "코스피,기관매도에0.61%하락…코스닥도700선내줘",
-  "입주민정보샌GS건설,조사미동의공방…\"기술지원만동의안한것...",
-  "\"김종철,YTN대주주변경승인직권취소절차언제마무리할건가\"",
-  "'中간첩의혹'젠슨황불륜상대,2년간사업목적8차례대만방문",
-  "젠슨황불륜상대,2년동안사업목적으로8차례타이완방문",
   "[김대호인물]머스크-젠슨황\"엔비디아-스페이스X깐부동맹\"",
   "[마감시황]코스피,차익실현나선개인·기관에약보합…코스닥700선...",
   "코스피,'젠슨황해임설'에약보합마감",
@@ -6001,7 +5991,17 @@
   "젠슨황,엔비디아CEO전격사임…불륜·中스파이의혹에33년경영마...",
   "[오늘의이슈]젠슨황떠난엔비디아,하이닉스엔악재일까",
   "엔비디아한때14%급락…대비나선젠슨황'대형로펌'선임",
-  "젠슨황세번째불륜스캔들나와…\"상대는또엔비디아직원\""
+  "젠슨황세번째불륜스캔들나와…\"상대는또엔비디아직원\"",
+  "SK텔레콤,동반성장지수14년연속최우수...협력사상생성과",
+  "SK텔레콤,동반성장지수14년연속최우수…'최우수명예기업'선정",
+  "SK텔레콤·엔비디아·리벨리온,한국형AI인프라구축협력",
+  "오늘일본과운명의한판…한국야구'결승진출경우의수'떴다",
+  "하나證\"네이버,본업부진에목표가34만원↓…신사업·두나무심의주...",
+  "젠슨황불륜·기술유출의혹,미중정상회담변수로...무역휴전연장...",
+  "젠슨황33년만에퇴진..엔비디아시총장중801조원증발",
+  "젠슨황사임쇼크…엔비디아시총일주일새659조원증발",
+  "엔비디아성장세이어질까...국내반도체공급망도주목",
+  "젠슨황빈자리메우는콜렛크레스,엔비디아리더십재편시작"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,17 @@
   [
    "2026-11-13T07:42:17.342297+09:00",
    "젠슨황 구상도 5000억불 AI금융 표류 떠난"
+  ],
+  [
+   "2026-11-13T07:46:15.071155+09:00",
+   "주목 성장세 국내 이어질까 반도체 공급망도"
+  ],
+  [
+   "2026-11-13T07:46:15.071155+09:00",
+   "리더십 재편 빈자리 메우는 콜렛 크레스 젠슨 시작"
   ]
  ],
- "last_run": "2026-11-13T07:44:32.579385+09:00",
+ "last_run": "2026-11-13T07:46:36.369043+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
