@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fntimes.com/html/view.php?ud=2026111211071085405e6e69892f_18",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101147",
-  "https://kbench.com/?q=node%2F283296",
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=767836",
-  "https://www.news1.kr/industry/general-industry/6352149",
-  "https://en.yna.co.kr/view/AEN20261112008700320?input=2106m",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=731265",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491135",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712931",
   "https://www.hankyung.com/article/202611057577i",
   "https://www.dt.co.kr/article/12093340",
@@ -2999,17 +2991,17 @@
   "https://www.gametoc.co.kr/news/articleView.html?idxno=113047",
   "https://www.newsian.co.kr/news/articleView.html?idxno=101180",
   "https://www.ajunews.com/view/20261113063840833",
-  "http://www.beyondpost.co.kr/view.php?ud=2026111306391359512aaae0046f_30"
+  "http://www.beyondpost.co.kr/view.php?ud=2026111306391359512aaae0046f_30",
+  "https://sports.donga.com/sports/article/all/20261112/135015218/1",
+  "https://www.mediapen.com/news/view/1137200",
+  "https://www.yna.co.kr/view/AKR20261113012800071?input=1195m",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=312279",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284423",
+  "https://biz.heraldcorp.com/article/10935704",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602057",
+  "https://www.edaily.co.kr/News/Read?newsId=01843366645645392&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "에이직랜드,TSMC대만OIP3년연속참가...맞춤형ASIC설계·양산역량...",
-  "박상원금융보안원장\"정보유출로큰심려…이번일거울삼겠다\"",
-  "젠슨황없는엔비디아현실화하나…AI투자생태계흔들리고반도체경...",
-  "“젠슨황도연애하고바람피우는데…”현직변호사'돌직구발언'화...",
-  "젠슨황·트럼프정조준…미민주,정부에엔비디아정보보존요구",
-  "[현장]해킹에고개숙인박상원금보원장…금융위원장빠진씁쓸한‘...",
-  "4대그룹,연말전략회의시즌돌입…'미국發정책리스크'해법찾는다",
-  "제미나이라이브,애플카플레이지원…차량서음성AI대화지원",
   "[데이터&뉴스]200대기업이익잉여금1704조,반년새296조↑...삼성전...",
   "[단독]\"12년만의우승에가전할인\"…삼성스토어,13일부터할인",
   "KOSPI200ClosingPriceList-2",
@@ -6001,7 +5993,15 @@
   "젠슨황,엔비디아CEO전격사임…33년만에퇴진",
   "엔비디아발경영충격에뉴욕증시하락…AI투자낙관론흔들리나",
   "[뉴욕증시마감]젠슨황사임·유가급등에일제히하락…나스닥0.39%↓",
-  "콜레트크레스CFO,엔비디아임시CEO자리맡아...\"지금은극도로힘든..."
+  "콜레트크레스CFO,엔비디아임시CEO자리맡아...\"지금은극도로힘든...",
+  "대표팀타격살린김주원·김휘집의한방…중심타선침체속위안요소",
+  "[美증시]젠슨황퇴진·유가급등에3대지수동반조정…메모리·장비주...",
+  "\"'젠슨황연인'앨리스황,中화웨이측데이터센터간접보유\"",
+  "젠슨황사임에엔비디아급락…금리·강달러까지뉴욕증시압박",
+  "뉴욕증시,젠슨황퇴진·유가급등에하락…엔비디아4%↓",
+  "젠슨황퇴진엔비디아시총도흔들…장중801조원증발",
+  "엔비디아,후임CEO선임착수⋯애플조니스루지·AMD리사수거론",
+  "엔비디아급락후낙폭축소…AI주희비속나스닥0.4%↓[월스트리트in..."
  ],
  "recent_sigs": [
   [
@@ -6307,9 +6307,17 @@
   [
    "2026-11-13T06:44:17.282938+09:00",
    "694만원 8월 비트코인 이후 기준 최저 달러"
+  ],
+  [
+   "2026-11-13T06:48:17.734236+09:00",
+   "AI주 낙폭 나스닥 희비 급락 월스트리트in 축소"
+  ],
+  [
+   "2026-11-13T06:48:17.734236+09:00",
+   "착수 후임 AMD 조니 CEO 리사 선임 애플 거론 스루지"
   ]
  ],
- "last_run": "2026-11-13T06:46:30.149809+09:00",
+ "last_run": "2026-11-13T06:48:36.502397+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
