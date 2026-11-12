@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.theguru.co.kr/news/article.html?no=108731",
-  "https://www.aitimes.com/news/articleView.html?idxno=216572",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=128912",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709566",
-  "https://www.aitimes.com/news/articleView.html?idxno=216570",
-  "https://www.aitimes.com/news/articleView.html?idxno=216515",
-  "https://www.g-enews.com/view.php?ud=202610221530216980c8c1c064d_1",
-  "https://zdnet.co.kr/view/?no=20261022175056",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708839",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708851",
   "https://www.aitimes.com/news/articleView.html?idxno=216469",
   "https://www.starnewskorea.com/star/2026/10/20/2026102017005216322",
   "https://www.tokenpost.kr/news/ai/424607",
@@ -2999,19 +2989,19 @@
   "http://www.economytalk.kr/news/articleView.html?idxno=425275",
   "https://www.etnews.com/20261112000202",
   "https://view.asiae.co.kr/article/2026111211535452683",
-  "https://www.hellot.net/news/article.html?no=116234"
+  "https://www.hellot.net/news/article.html?no=116234",
+  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580029739569",
+  "https://www.globale.co.kr/news/articleView.html?idxno=41598",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=210770",
+  "https://www.ekn.kr/web/view.php?key=20261112024298631",
+  "http://www.newsbrite.net/news/articleView.html?idxno=201434",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004734",
+  "https://www.tokenpost.kr/news/breaking/436937",
+  "https://www.hellot.net/news/article.html?no=116235",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714659",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318958"
  ],
  "seen_titles": [
-  "선거후보선택강요하자...그록은공화당,오픈AI모델은민주당선택",
-  "공격자동화·대용량데이터분석까지...'해커AX'도급물살",
-  "[전창배의AI세상]은행해킹은시작…'AI통제'마지막골든타임",
-  "[로봇온사이트]\"소프트웨어만으론AGI못연다\"AI빅테크,로봇영토...",
-  "[10월23일]AI토큰가격에베팅하는금융상품까지…컴퓨팅,석유처럼거...",
-  "르브론이밝힌장고의이유…\"CLE복귀도고민했었다\"",
-  "샘알트먼\"수학계분위기바뀌었다…이제는AI수용단계\"",
-  "오픈AI,투자열기주춤하자목표기업가치200조낮춰",
-  "[10월22일]테슬라·스페이스X합병,최강'통합AI기업'탄생할까",
-  "\"차량설계검토,단몇시간만에\"…日에픽AI,'中속도전'맞설AI보...",
   "챗GPT광고주10만곳넘어…오픈AI,89개국으로광고확대",
   "샘알트먼이보는AI경쟁종착지…국제감시냐,선도기업독주냐",
   "매출15배뛰었는데807억달러적자…앤트로픽,상장앞두고드러난민...",
@@ -6001,7 +5991,17 @@
   "[Q4전망]\"Q3:식품·콘텐츠웃고,물류·플랫폼투자숨고르기\"CJ그룹...",
   "김남균이노그리드수석연구원,과기정통부장관표창…IoT산업기반조...",
   "산단공,오픈이노베이션스타트업후속지원확대",
-  "로브로스,엔비디아AI데이서울2026서휴머노이드AI로드맵공개"
+  "로브로스,엔비디아AI데이서울2026서휴머노이드AI로드맵공개",
+  "오픈메이드컨설팅,AISQL튜닝솔루션출시…2027년방문형서비스도추...",
+  "롯데벤처스,오픈이노베이션데이개최···스타트업10곳협업성과공...",
+  "[분석]네이버·카카오3분기성적표···사업별경쟁력은?",
+  "‘성장전략’바뀐우리금융...‘임종룡2기’인사도달라지나",
+  "최태원,SKCEO세미나주재...내년AI전략·사업재편성과점검",
+  "젠슨황엔비디아CEO불륜상대첩보의혹…미중정상회담앞트럼프대...",
+  "후임후보찾는엔비디아이사회…블룸버그보도",
+  "인핸스-PwC,AI가세일즈포스직접조작하는마케팅플랫폼'MOPai'공개",
+  "과기정통부,IP카메라해킹위험대응…제조·유통사보안점검강화",
+  "'TBS4자협의체'26일본격가동…\"정상화전환점\""
  ],
  "recent_sigs": [
   [
@@ -7395,9 +7395,17 @@
   [
    "2026-11-12T11:56:16.266732+09:00",
    "금융보안원 위탁한 금융위원회도 면할 책임"
+  ],
+  [
+   "2026-11-12T12:00:39.800178+09:00",
+   "이사회 보도 찾는 블룸버그 후임 후보"
+  ],
+  [
+   "2026-11-12T12:00:39.800178+09:00",
+   "TBS 본격 정상화 26일 4자협의체 전환점 가동"
   ]
  ],
- "last_run": "2026-11-12T11:58:28.957214+09:00",
+ "last_run": "2026-11-12T12:00:58.833164+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
