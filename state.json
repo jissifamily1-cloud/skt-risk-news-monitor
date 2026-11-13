@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insightkorea.co.kr/news/articleView.html?idxno=258792",
-  "https://www.koreajoongangdaily.com/bilingual-news/korea-has-too-many-chamberlains-kor/12971273",
-  "https://www.ziksir.com/news/articleView.html?idxno=153164",
-  "https://www.dailian.co.kr/news/view/1713956/?sc=Naver",
-  "https://www.imaeil.com/page/view/2026111307491692418",
-  "https://biz.heraldcorp.com/article/10935900",
   "https://www.getnews.co.kr/news/articleView.html?idxno=887036",
   "https://www.smartbizn.com/news/articleView.html?idxno=159335",
   "https://www.newsway.co.kr/news/view?ud=2026111309205821506",
@@ -2999,15 +2993,15 @@
   "https://www.yna.co.kr/view/AKR20261113155451017?input=1195m",
   "https://www.news1.kr/finance/blockchain-fintech/6353609",
   "https://www.hankookilbo.com/news/article/A2026111316030003181?did=NA",
-  "https://www.viva100.com/article/20261113500730"
+  "https://www.viva100.com/article/20261113500730",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=882104",
+  "https://www.aitimes.com/news/articleView.html?idxno=217365",
+  "https://www.etnews.com/20261113000291",
+  "https://www.sedaily.com/article/20114200",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242936",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1425106"
  ],
  "seen_titles": [
-  "뤼튼,지스타서AI캐릭터채팅‘크랙’선보인다…대규모체험관마련",
-  "[사설]젠슨황사태일파만파,시장다변화계기되길",
-  "코스피,美증시약세에도장초반외국인'사자'에2%대상승",
-  "\"AI황제의추락인가\"…젠슨황불륜의혹직격탄에엔비디아'임시CE...",
-  "[개장시황]코스피5450선회복…반도체株반등에2%대상승출발",
-  "씨이랩,3분기누적매출약87억원·전년比64%↑",
   "[김세원의문화읽기]헌책의죽음",
   "카톡연동AI에이전트'피클'논란…카카오,법적검토들어간다",
   "KoreahastoomanyChamberlains(KOR)",
@@ -6001,7 +5995,13 @@
   "젠슨황사임에정부긴급점검…GPU공급·협력유지총력(종합)",
   "코인판덮친엔비디아·강제청산쇼크…하루새글로벌시총173조원증...",
   "\"증안펀드가동해야\"증권업계요구에…李\"실효적작동법점검\"",
-  "중기부“2차‘모두의창업’AI공급업체해킹…참가자818명개인정..."
+  "중기부“2차‘모두의창업’AI공급업체해킹…참가자818명개인정...",
+  "SKT,14년째상생평가'최고'…국내단2곳대기록",
+  "앤트로픽,AI에이전트관리서버도기업이직접운영하도록지원",
+  "KT,AI기반통신시설안전관리로총리상수상",
+  "거래소애프터마켓효과없었나…NXT거래비중다시상승",
+  "카카오기업용메신저'카카오워크'해킹…메일·첨부파일까지유출",
+  "현대홈쇼핑,법인분할조건부승인…홈쇼핑·투자사업분리"
  ],
  "recent_sigs": [
   [
@@ -7115,9 +7115,13 @@
   [
    "2026-11-13T17:52:17.657596+09:00",
    "요구에 실효적 작동법 가동해야 점검 증권업계 증안펀드"
+  ],
+  [
+   "2026-11-13T17:54:15.539771+09:00",
+   "거래소 NXT 거래비중 애프터마켓 없었나 다시 상승 효과"
   ]
  ],
- "last_run": "2026-11-13T17:52:36.813348+09:00",
+ "last_run": "2026-11-13T17:54:38.100644+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
