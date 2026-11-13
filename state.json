@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16275768",
-  "https://news.ifm.kr/news/articleView.html?idxno=484284",
-  "https://www.bloter.net/news/articleView.html?idxno=678229",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3751305",
   "https://www.gukjenews.com/news/articleView.html?idxno=3751332",
   "https://www.gukjenews.com/news/articleView.html?idxno=3751308",
   "https://www.g-enews.com/view.php?ud=202611131419045509139bf6e4b2_1",
@@ -2999,13 +2995,13 @@
   "http://www.osen.co.kr/article/G1112909745",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712757",
   "https://www.imaeil.com/page/view/2026111022450974614",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194622"
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194622",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019750",
+  "https://econotimes.com/AI-Task-Force-Weighs-Reporting-as-2015-Cybersecurity-Information-Sharing-Act-Nears-Sunset-1776424",
+  "https://www.ikbc.co.kr/article/view/kbc202611140001",
+  "https://www.newsis.com/view/NISX20261114_0003867937"
  ],
  "seen_titles": [
-  "[외신헤드라인]엔비디아,젠슨황사임에시총장중4조달러붕괴",
-  "\"MS오류덕분에조기퇴근\"…아웃룩등MS265접속오류장기화",
-  "정진완우리은행장연임확정…경영안정성에무게",
-  "회원200곳넘는네트워크활용…TRM랩스,수사지원서비스출시",
   "인사말하는송경희개보위원장",
   "KT,인터넷비즈니스부문국무총리상수상…민간분야확대",
   "KT,AI·데이터기반통신시설안전관리'국무총리상'수상",
@@ -6001,7 +5997,11 @@
   "이러다수비트라우마생길라…KS포구참사→도쿄돔또실책발생,리빙...",
   "“메가스피드제재권한은상무부”…트럼프행정부내부갈등",
   "젠슨황·최태원·이재용,IT거물들의사주팔자?…이혼·혼외자·불륜설...",
-  "[월드투데이]\"젠슨황불륜알면서묵과한이사회직무유기\"…빅테크..."
+  "[월드투데이]\"젠슨황불륜알면서묵과한이사회직무유기\"…빅테크...",
+  "갑자기원태인에게경고했다,\"이상한생각하지마\"…강민호머릿속엔...",
+  "AITaskForceWeighsReportingas2015CybersecurityInformationShar",
+  "엔비디아,젠슨황후임물색…반도체기업ARMCEO와접촉",
+  "뉴욕증시엔비디아영향나스닥지수하락마감"
  ],
  "recent_sigs": [
   [
@@ -6155,9 +6155,13 @@
   [
    "2026-11-14T06:14:25.279675+09:00",
    "불륜 유기 빅테크 묵과한 직무 알면서 이사회 젠슨"
+  ],
+  [
+   "2026-11-14T06:16:17.618381+09:00",
+   "마감 지수 증시 하락 뉴욕 나스닥 영향"
   ]
  ],
- "last_run": "2026-11-14T06:14:44.871803+09:00",
+ "last_run": "2026-11-14T06:16:33.605738+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
