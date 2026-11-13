@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503860",
-  "https://www.hankyung.com/article/202611134361g",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4027438",
-  "https://www.hankyung.com/article/2026111352327",
-  "https://www.hankookilbo.com/news/article/A2026111313470003015?did=NA",
-  "https://www.sidae.com/article/2026111313410319739",
   "https://www.newsis.com/view/NISX20261113_0003867238",
   "https://www.the-today.com/news/articleView.html?idxno=93521",
   "https://view.asiae.co.kr/article/2026111314362406693",
@@ -2999,15 +2993,15 @@
   "https://www.jemin.com/news/articleView.html?idxno=847235",
   "https://www.yna.co.kr/view/AKR20261114009500072?input=1195m",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845594&plink=ORI&cooper=NAVER",
-  "https://www.voakorea.com/a/8223478.html"
+  "https://www.voakorea.com/a/8223478.html",
+  "https://news.ifm.kr/news/articleView.html?idxno=484284",
+  "https://www.bloter.net/news/articleView.html?idxno=678229",
+  "http://www.metroseoul.co.kr/article/20261111500394",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=67724",
+  "http://www.rookie.co.kr/news/articleView.html?idxno=130326",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845589&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "'경영성과'보여준정진완우리은행장…\"임기1년더\"",
-  "젠슨황사임에도국내AI협력유지…엔비디아공급망향방주목",
-  "최태원SK회장,한일경제연대이끌준비…10년로드맵제안",
-  "LG유플러스,글로벌공급망진입돕는다…카데나-엑스'맞손'",
-  "젠슨황사임후폭풍엔비디아…미의회\"대중국반도체수출통제강화...",
-  "젠슨황불명예퇴진에'가죽재킷'도손절?…중고매물등장·검색량감...",
   "\"우상이자회사그자체\"…젠슨황사임에엔비디아눈물바다",
   "젠슨황쇼크에GPU·핫라인흔들…현대차자율주행전략‘급제동’...",
   "AMD·브로드컴,엔비디아스캔들로반사이익기대",
@@ -6001,7 +5995,13 @@
   "엔비디아발불안에美반도체주급락…AI시장,경영리스크에흔들",
   "뉴욕증시혼조마감…엔비디아하락세계속,2%↓",
   "\"러트닉,상원조사응할것\"…경질가능성도거론",
-  "미국의원들,엔비디아에대한조사강화"
+  "미국의원들,엔비디아에대한조사강화",
+  "방송·미디어AI전환본격화…101개사업자실태조사공개",
+  "[박종면의물음표]SK하이닉스의100조원과최태원의9440억원",
+  "소버린바이오,국가전략자산되나...\"AI신약주권확보하라\"",
+  "엔비디아주가·시가총액추이",
+  "연패속에남은KT의반등요소,국내선수가합작한3점슛10개와3명의...",
+  "AI장비밀반출?중국정부요원?…의혹눈덩이"
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,21 @@
   [
    "2026-11-14T06:20:39.107280+09:00",
    "강화 미국 엔비디아에 조사 의원들"
+  ],
+  [
+   "2026-11-14T06:22:16.762727+09:00",
+   "3명의 3점슛 속에 남은 국내선수가 합작한 KT의 10개와 연패 요소 반등 ~KT"
+  ],
+  [
+   "2026-11-14T06:22:16.762727+09:00",
+   "추이 시가총액 주가"
+  ],
+  [
+   "2026-11-14T06:22:16.762727+09:00",
+   "중국 요원 의혹 밀반출 눈덩이 장비 정부"
   ]
  ],
- "last_run": "2026-11-14T06:21:16.769560+09:00",
+ "last_run": "2026-11-14T06:22:40.952332+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
