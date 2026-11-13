@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/434971",
-  "https://www.tokenpost.kr/news/market/434466",
-  "https://www.seoulfn.com/news/articleView.html?idxno=642707",
-  "https://www.etoday.co.kr/news/view/2647941",
-  "https://www.newspim.com/news/view/20261112001216",
-  "http://www.thevaluenews.co.kr/news/view.php?idx=203271",
-  "https://www.segye.com/newsView/20261113510425?OutUrl=naver",
   "https://www.edaily.co.kr/News/Read?newsId=03873686645645392&mediaCodeNo=257",
   "https://www.socialvalue.kr/news/view/1065593350945469",
   "https://view.asiae.co.kr/article/2026111315110834421",
@@ -2999,16 +2992,16 @@
   "https://www.slist.kr/news/articleView.html?idxno=781590",
   "https://www.ajunews.com/view/20261114014700961",
   "https://www.mt.co.kr/society/2026/11/14/2026111122435767975",
-  "http://www.inews24.com/view/2025977"
+  "http://www.inews24.com/view/2025977",
+  "https://www.tokenpost.kr/news/policy/437677",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504020",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845600&plink=ORI&cooper=NAVER",
+  "https://www.kbmaeil.com/article/20261114500022",
+  "https://www.mt.co.kr/society/2026/11/14/2026111312091533592",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111406555644232aaae0046f_30",
+  "https://www.sedaily.com/article/20114286"
  ],
  "seen_titles": [
-  "우리은행'2+1'이어간다…정진완행장1년연임결정",
-  "SK보안컨트롤타워,최창원서'AX전문가'김완종체제로",
-  "로레알R&I총괄\"한국,북아시아'뷰티트라이앵글'축으로글로벌뷰티...",
-  "정진완우리은행장1년연임...6년만에'연임행장'탄생",
-  "“난쓰레기같은인간”…젠슨황,사임직전불륜파문자책",
-  "'엔비디아리스크'에미소짓는삼성전자?AMD·브로드컴'AI동맹확장'...",
-  "국가AI전략위,엔비디아경영진교체긴급점검…국내AI산업영향논의",
   "삼성'왕조재킷'완판…카카오엔터,야구팬덤공략",
   "함안군칠북면,'온(溫)마음담은건강겨울지원사업'진행",
   "패션거리에서뷰티체험성지로…성수,쇼핑지도가바뀐다",
@@ -6001,7 +5994,14 @@
   "뉴욕증시혼조마감…엔비디아하락세지속'2%↓'",
   "[주간증시전망]코스피,美금리·AI전망에좌우…엔비디아실적·앤트로...",
   "[더영상]①카페사장폭행②젠슨황볼뽀뽀③경찰관의촉",
-  "美,중국의해외AI반도체사용막는다…동남아AIDC'대출리스크'부..."
+  "美,중국의해외AI반도체사용막는다…동남아AIDC'대출리스크'부...",
+  "미AI태스크포스,사이버공격신고유도·법적보호검토",
+  "젠슨황없는엔비디아,월가도흔들…AI투자자금줄막히나",
+  "\"난쓰레기\"자책…\"젠슨황돌려달라\"일부직원'눈물'",
+  "다우50달러반등·나스닥0.9%↓…AI주약세지속",
+  "[더차트]세계부호순위머스크'압도적1위'…젠슨황은13위로밀려",
+  "엔비디아2%,필라델피아반도체지수마이크론3%↓...반도체주,젠슨황...",
+  "젠슨황후폭풍에AMD도9%급락...12월‘빅스텝’가능성은후퇴[데일..."
  ],
  "recent_sigs": [
   [
@@ -6299,9 +6299,21 @@
   [
    "2026-11-14T07:04:18.313819+09:00",
    "중국의 AIDC 리스크 대출 사용 반도체 해외 막는다 동남아"
+  ],
+  [
+   "2026-11-14T07:06:17.504858+09:00",
+   "머스크 세계부호 13위로 젠슨 압도적 1위 황은 밀려 순위"
+  ],
+  [
+   "2026-11-14T07:06:17.504858+09:00",
+   "젠슨 필라델피아반도체지수 마이크론 반도체주"
+  ],
+  [
+   "2026-11-14T07:06:17.504858+09:00",
+   "가능성은 데일 젠슨 AMD도 12월 후퇴 후폭풍에 급락 빅스텝"
   ]
  ],
- "last_run": "2026-11-14T07:04:44.749400+09:00",
+ "last_run": "2026-11-14T07:06:38.174311+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
