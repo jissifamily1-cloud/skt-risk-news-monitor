@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.abcn.kr/news/articleView.html?idxno=94504",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300150",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8709919",
-  "https://www.asiatime.co.kr/article/20261113500273",
-  "https://dealsite.co.kr/articles/172731",
-  "https://www.tokenpost.kr/news/cryptocurrency/437674",
-  "https://www.news1.kr/world/usa-canada/6353370",
   "https://www.tokenpost.kr/news/policy/437673",
   "https://biz.chosun.com/it-science/ict/2026/11/13/4C4CF7IJNJFMZOW5DVDPCTFARM/",
   "https://www.dailysecu.com/news/articleView.html?idxno=209505",
@@ -2999,16 +2992,16 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504014",
   "https://www.mt.co.kr/world/2026/11/14/2026111322480465233",
   "https://www.g-enews.com/view.php?ud=202611140630578478fbbec65dfb_1",
-  "http://www.00news.co.kr/news/articleView.html?idxno=107948"
+  "http://www.00news.co.kr/news/articleView.html?idxno=107948",
+  "https://www.yna.co.kr/view/AKR20261114010400072?input=1195m",
+  "https://www.kyeonggi.com/article/20261114580005",
+  "https://www.fnnews.com/news/202611140642023929",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284468",
+  "https://www.bntnews.co.kr/article/view/bnt202611140018",
+  "https://www.news1.kr/world/usa-canada/6353930",
+  "https://www.mediapen.com/news/view/1137474"
  ],
  "seen_titles": [
-  "\"얼어붙은사슴같다\"…젠슨황이공개질책했던CFO의'반전'",
-  "SK는기술협력,GS는금융·안전…동반성장전략차별화",
-  "젠슨황축출에실리콘밸리반발…\"엔비디아이사회,세기의실수\"",
-  "엘리스그룹,B300모듈형AI데이터센터가동",
-  "KT매출의존도높아진밀리의서재,B2C성장엔진재가동",
-  "\"나는쓰레기같은놈이다\"자책…불륜스캔들에무너진'AI황제'젠슨...",
-  "젠슨황사임에日정부\"동향주시할것\"…피지컬AI영향주목",
   "[단독]휴대폰개통때민간인증2개로가능···복합인증체계추진",
   "함안박물관대학,백제의역사문화찾아익산답사...왕궁·사찰살펴",
   "[오늘의제약리뷰]동아제약·대웅제약·메디톡스·보령·일동제약·유한...",
@@ -6001,7 +5994,14 @@
   "엔비디아쇼크에개미들승부수…SOXL·TQQQ에뭉칫돈몰린이유보니",
   "대만의'국민아빠'였는데…젠슨황논란에현지시민들도실망",
   "한화오션,해킹막는초대형원유운반선인도…한화시스템보안기술상...",
-  "[상생빛난기업들]동반성장으로증명한지속가능경영"
+  "[상생빛난기업들]동반성장으로증명한지속가능경영",
+  "젠슨황퇴진에670조원AI금융구상'흔들'…금융사이탈움직임",
+  "“일못해서행복해요”…MS365먹통에‘MS364’조롱까지",
+  "[뉴욕증시]기술주약세속다우지수만0.1%상승…엔비디아,낙폭2%로...",
+  "뉴욕증시,엔비디아매도세에혼조...3대지수주간기준상승",
+  "젠슨황후임누구…르네하스유력",
+  "中'칩빌려쓰기'…젠슨황사태로드러난트럼프수출통제구멍",
+  "[美증시]엔비디아불안·반도체급락나스닥조정…전통주순환매에다..."
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,21 @@
   [
    "2026-11-14T06:42:16.982300+09:00",
    "원유운반선 한화오션 기술 인도 막는 초대형 한화시스템 보안"
+  ],
+  [
+   "2026-11-14T06:46:17.073344+09:00",
+   "반도체 조정 전통주 나스닥 급락 불안 순환매에"
+  ],
+  [
+   "2026-11-14T06:46:17.073344+09:00",
+   "르네하스 누구 유력 후임 젠슨"
+  ],
+  [
+   "2026-11-14T06:46:17.073344+09:00",
+   "쓰기 젠슨황 구멍 트럼프 드러난 수출통제 사태로 빌려"
   ]
  ],
- "last_run": "2026-11-14T06:44:32.999608+09:00",
+ "last_run": "2026-11-14T06:46:37.927511+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
