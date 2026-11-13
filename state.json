@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.dealsitetv.com/articles/178553",
-  "https://biz.sbs.co.kr/article_hub/20000346175?division=NAVER",
-  "https://www.ntoday.co.kr/news/articleView.html?idxno=130837",
-  "https://www.insight.co.kr/news/581862",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563580",
   "https://www.yna.co.kr/view/AKR20261113040200002?input=1195m",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444606",
   "https://www.yna.co.kr/view/AKR20261113050700546?input=1195m",
@@ -2999,14 +2994,14 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559880",
   "https://www.news1.kr/it-science/security-hacking/6352789",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559881",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390242.html"
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390242.html",
+  "https://biz.heraldcorp.com/article/10933261",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54749",
+  "https://www.edaily.co.kr/News/Read?newsId=04657606645645392&mediaCodeNo=257",
+  "https://news.jtbc.co.kr/article/NB12327976?influxDiv=NAVER",
+  "https://www.yna.co.kr/view/AKR20261113170200085?input=1195m"
  ],
  "seen_titles": [
-  "LG유플러스,유럽카테나-X와협력...제조기업지원확대",
-  "KT,‘대한민국인터넷대상’국무총리상…AI·데이터활용안전관리성...",
-  "“AI는기본기,인간다움이필살기…변화적응·협업이승부가른다”[...",
-  "트럼프“팀쿡을엔비디아로”...차기엔비디아CEO누가되나...젠슨...",
-  "[자막뉴스]젠슨황세번째불륜도폭로…\"사내여직원과내연\"",
   "\"양손으로엔비디아주식사들인다\"…젠슨황충격,주가바닥쳤나",
   "엔비디아흔들리자삼성·AMD주목…AI공급망바뀔까",
   "'불륜파문'젠슨황,엔비디아CEO사임…33년만에물러나",
@@ -6001,7 +5996,12 @@
   "‘두번째그녀’킴벌리파월,행사명단서삭제",
   "\"엄마가올린내목욕사진지워주세요\"…청소년들,개보위에제안",
   "젠슨황‘부인시선피한댄스’화제…재산분할땐100조원",
-  "'젠슨황쇼크',코인판도덮쳤다…비트코인,1억선붕괴"
+  "'젠슨황쇼크',코인판도덮쳤다…비트코인,1억선붕괴",
+  "노재헌주중대사피의자입건…범죄수익은닉혐의",
+  "최고의AI전도사잃은실리콘밸리의고민",
+  "180조원쥔젠슨황,마음대로못판다…부인과`공동신탁`",
+  "'러트닉당신부터'백악관불똥…'트럼프승인'까지겨눴다",
+  "\"우크라전러시아사망자최소45만명…러통계청자료해킹당해\""
  ],
  "recent_sigs": [
   [
@@ -7079,9 +7079,13 @@
   [
    "2026-11-13T19:20:28.011016+09:00",
    "금융보안원 차단완료 한국 공격 당한 246개 IP 국적은"
+  ],
+  [
+   "2026-11-13T19:24:18.135103+09:00",
+   "우크라전 사망자 해킹당해 45만명 통계청 자료 최소 러시아"
   ]
  ],
- "last_run": "2026-11-13T19:22:34.093908+09:00",
+ "last_run": "2026-11-13T19:24:36.809924+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
