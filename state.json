@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25472940",
-  "https://www.aitimes.com/news/articleView.html?idxno=216670",
-  "https://www.g-enews.com/view.php?ud=2026102515372195112bd56fbc3c_1",
-  "https://www.aitimes.com/news/articleView.html?idxno=216623",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709759",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900605",
-  "https://www.theguru.co.kr/news/article.html?no=108731",
-  "https://www.aitimes.com/news/articleView.html?idxno=216572",
-  "http://www.rookie.co.kr/news/articleView.html?idxno=128912",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709566",
-  "https://www.aitimes.com/news/articleView.html?idxno=216570",
   "https://www.aitimes.com/news/articleView.html?idxno=216515",
   "https://www.g-enews.com/view.php?ud=202610221530216980c8c1c064d_1",
   "https://zdnet.co.kr/view/?no=20261022175056",
@@ -2999,20 +2988,20 @@
   "https://www.sedaily.com/article/20113943",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444646",
   "https://biz.heraldcorp.com/article/10936202",
-  "https://www.fntimes.com/html/view.php?ud=202611131124272146c1c16452b0_18"
+  "https://www.fntimes.com/html/view.php?ud=202611131124272146c1c16452b0_18",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=87704",
+  "https://www.insight.co.kr/news/581910",
+  "https://www.globalepic.co.kr/view.php?ud=2026111311311295848439a4874_29",
+  "https://www.donga.com/news/Inter/article/all/20261113/135019354/2",
+  "https://www.fnnews.com/news/202611131117498536",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261113010005170",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261113113318ps9",
+  "https://biz.sbs.co.kr/article_hub/20000346214?division=NAVER",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390129.html",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209877",
+  "https://www.fntimes.com/html/view.php?ud=202611131128227208c1c16452b0_18"
  ],
  "seen_titles": [
-  "“늙는게쇠퇴하는건아냐…AI·로봇으로‘초풍요’증명하라”[최...",
-  "알트먼\"수학계,AI에'우린끝났다'절망하다닷새만에수용\"",
-  "테슬라'옵티머스'양산카운트다운…불붙은글로벌로봇대전",
-  "선거후보선택강요하자...그록은공화당,오픈AI모델은민주당선택",
-  "공격자동화·대용량데이터분석까지...'해커AX'도급물살",
-  "[전창배의AI세상]은행해킹은시작…'AI통제'마지막골든타임",
-  "[로봇온사이트]\"소프트웨어만으론AGI못연다\"AI빅테크,로봇영토...",
-  "[10월23일]AI토큰가격에베팅하는금융상품까지…컴퓨팅,석유처럼거...",
-  "르브론이밝힌장고의이유…\"CLE복귀도고민했었다\"",
-  "샘알트먼\"수학계분위기바뀌었다…이제는AI수용단계\"",
-  "오픈AI,투자열기주춤하자목표기업가치200조낮춰",
   "[10월22일]테슬라·스페이스X합병,최강'통합AI기업'탄생할까",
   "\"차량설계검토,단몇시간만에\"…日에픽AI,'中속도전'맞설AI보...",
   "챗GPT광고주10만곳넘어…오픈AI,89개국으로광고확대",
@@ -6001,7 +5990,18 @@
   "‘엔비디아사임’젠슨황,결국美의회증언대서기로",
   "李\"골깊으면산높다\"…코스피·코스닥나란히상승세",
   "무너진AI황제…길잃은엔비디아",
-  "[허시원의바이낸스해킹사태분석②]대규모해킹사태가터진까닭"
+  "[허시원의바이낸스해킹사태분석②]대규모해킹사태가터진까닭",
+  "부산시,겨울철자연재난총력대응···제설·한파대책본격화",
+  "李대통령,빨간넥타이매고거래소방문...\"증시우상향하길\"",
+  "[젠슨황리스크④]황없는엔비디아…‘깐부비즈니스’도물거품?",
+  "“젠슨황떠난엔비디아에또악재?”…중국AI모델6개서블랙웰‘...",
+  "엔비디아스캔들에中딥시크연루?앨리스황관련기업투자",
+  "엔비디아시총장중801조원증발…젠슨황스캔들후폭풍",
+  "[이시각헤드라인]11월13일뉴스센터",
+  "[이시각주요뉴스]",
+  "[티조원수열전]젠슨황불륜녀들줄줄이…'첫사랑'엔비디아안주인로...",
+  "AI해킹만연,디지털연속성확보나선다",
+  "[허시원의바이낸스해킹사태분석③]바이낸스사태가남긴것"
  ],
  "recent_sigs": [
   [
@@ -7527,9 +7527,29 @@
   [
    "2026-11-13T11:34:15.333099+09:00",
    "대규모 해킹사태가 터진 까닭"
+  ],
+  [
+   "2026-11-13T11:36:16.088203+09:00",
+   "물거품 비즈니스 깐부 없는"
+  ],
+  [
+   "2026-11-13T11:36:16.088203+09:00",
+   ""
+  ],
+  [
+   "2026-11-13T11:36:16.088203+09:00",
+   "안주인 줄줄이 첫사랑 젠슨황 불륜녀들"
+  ],
+  [
+   "2026-11-13T11:36:16.088203+09:00",
+   "디지털 확보 연속성 만연 나선다"
+  ],
+  [
+   "2026-11-13T11:36:16.088203+09:00",
+   "사태가 남긴 바이낸스"
   ]
  ],
- "last_run": "2026-11-13T11:34:36.926070+09:00",
+ "last_run": "2026-11-13T11:36:44.653355+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
