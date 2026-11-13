@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.efnews.co.kr/news/articleView.html?idxno=133933",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611111630465360102676",
-  "https://www.sedaily.com/article/20113873",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=320444",
   "https://www.joongangenews.com/news/articleView.html?idxno=563600",
   "https://www.ajunews.com/view/20261113095020213",
@@ -2999,12 +2996,12 @@
   "https://www.newspim.com/news/view/20261113001406",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559883",
   "https://view.asiae.co.kr/article/2026111215475787388",
-  "https://www.mk.co.kr/article/12208339"
+  "https://www.mk.co.kr/article/12208339",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715283",
+  "https://news.jtbc.co.kr/article/NB12327980?influxDiv=NAVER",
+  "https://www.ytn.co.kr/_ln/0115_202611131847431727"
  ],
  "seen_titles": [
-  "토스,AI해킹방어대회대상…'AI공격은AI로막는다'보안기술력입...",
-  "\"홍보만하고싶지않았어요\"10주년'KTY'가생일파티를네번연까닭",
-  "[게시판]개보위,아동·청소년개인정보보호정책제안서전달식개최",
   "울산시,공공예식지원사업연말까지운영...11~12월예식추가신청",
   "계명문화대등5개대학협약...권역별교육자원공유",
   "[특징주]오픈엣지테크놀로지,AI반도체기대에상한가",
@@ -6001,13 +5998,12 @@
   "[코인시황]비트코인일시6만7000달러대로급락…ETF자금이탈에13억...",
   "AMD·브로드컴·구글…제2의엔비디아는?",
   "젠슨황,이혼해도100조원잃지않는방법이있었다는데…[주末머니]",
-  "‘벼랑끝’젠슨황,우회수출관여입증땐최대20년형이라는데"
+  "‘벼랑끝’젠슨황,우회수출관여입증땐최대20년형이라는데",
+  "\"버티지말고차익실현하라\"…젠슨황떠난엔비디아,지금팔아야할...",
+  "\"정보수장직속요원이젠슨황노렸다\"…중국은'칩'사재기",
+  "충남,첨단산업육성속도...인공지능기본사회구축"
  ],
  "recent_sigs": [
-  [
-   "2026-11-13T13:32:16.137222+09:00",
-   "13일 뉴스현장 11월"
-  ],
   [
    "2026-11-13T13:36:21.632743+09:00",
    "칩팀 스파이 앨리스 의혹 정보요원 실체 드러나는"
@@ -7079,9 +7075,13 @@
   [
    "2026-11-13T19:30:34.528355+09:00",
    "젠슨 입증 우회수출 20년형이라는데 벼랑 관여"
+  ],
+  [
+   "2026-11-13T19:32:19.854318+09:00",
+   "육성 충남 인공지능 구축 기본사회 첨단산업 속도"
   ]
  ],
- "last_run": "2026-11-13T19:30:53.063866+09:00",
+ "last_run": "2026-11-13T19:32:40.709249+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7676,6 +7676,7 @@
   "redaily.co.kr": "철도경제신문",
   "djtimes.co.kr": "당진시대",
   "news-s.kr": "news-s.kr",
-  "worklaw.co.kr": "월간노동법률"
+  "worklaw.co.kr": "월간노동법률",
+  "goodnews1.com": "데일리굿뉴스"
  }
 }
