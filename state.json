@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/industry/general-industry/6352316",
-  "https://www.koit.co.kr/news/articleView.html?idxno=209896",
-  "http://www.4th.kr/news/articleView.html?idxno=2121822",
-  "https://www.g-enews.com/view.php?ud=202611131443092148139bf6e4b2_1",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89205",
-  "https://www.thebigdata.co.kr/view.php?ud=202611131511441799bbceadc3c9_23",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712254",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=213566",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=213558",
@@ -2999,15 +2993,15 @@
   "https://www.tokenpost.kr/news/market/434466",
   "https://www.pointe.co.kr/news/articleView.html?idxno=87763",
   "https://www.newspim.com/news/view/20261112001216",
-  "https://biz.chosun.com/international/international_economy/2026/11/14/XEKPACWYDBELXCSATEJ3F2K3EU/"
+  "https://biz.chosun.com/international/international_economy/2026/11/14/XEKPACWYDBELXCSATEJ3F2K3EU/",
+  "http://www.osen.co.kr/article/G1112909785",
+  "http://coinreaders.com/270141",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=315365",
+  "https://www.nocutnews.co.kr/news/6606884",
+  "https://biz.sbs.co.kr/article_hub/20000346379?division=NAVER",
+  "https://www.ytn.co.kr/_ln/0104_202611140711455084"
  ],
  "seen_titles": [
-  "이름도생소하던26년차중소SW기업,포스코전사AI포털뚫었다",
-  "AI대부제프리힌턴\"사고터져야위험깨닫나…기업들도문제\"",
-  "샘알트먼,PC메모리논란에해명…\"난램알트먼,램더많이만들자\"",
-  "KT,AI·데이터기반통신시설안전관리로국무총리상수상",
-  "젠슨황과각별한인연게임업계'당혹속신중'",
-  "비트코인(BTC)6만8,902달러지지선지킬까…엔비디아혼란·ETF자금이...",
   "시바이누(SHIB)0.000004240달러회복할까…시장전반매도·롱청산부담",
   "카카오워크,카카오이관8일만에해킹⋯메일원본·첨부파일까지유출",
   "방미통위,현대홈쇼핑법인분할조건부승인···500억원투입확약요...",
@@ -6001,7 +5995,13 @@
   "오픈AI,2027년IPO검토지속…중간선거뒤에도큰변화없어",
   "[오늘일본은]겨울전기·가스요금에6500억엔지원…가구당7000엔경...",
   "예산안통과인사말하는송경희개보위원장",
-  "뉴욕증시,반도체주약세에나스닥0.91%↓…다우는상승"
+  "뉴욕증시,반도체주약세에나스닥0.91%↓…다우는상승",
+  "‘744억’쓰고떠난손혁단장,‘큰손’한화FA중견수사올까…김...",
+  "비트코인(BTC)6만9,000달러하회…11월ETF순유출94%가IBIT한곳에...",
+  "[지난밤뉴욕에선]나스닥0.91%↓,다우는소폭상승",
+  "엔비디아약세에나스닥0.91%↓뉴욕증시혼조세",
+  "엔비디아,ArmCEO접촉설에\"아직누구와도공식연락안해\"",
+  "엔비디아주가하락세지속...뉴욕증시는혼조"
  ],
  "recent_sigs": [
   [
@@ -6321,7 +6321,7 @@
    "다우는 나스닥 반도체주 약세에 뉴욕증시 상승"
   ]
  ],
- "last_run": "2026-11-14T07:12:34.958478+09:00",
+ "last_run": "2026-11-14T07:14:34.436131+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
