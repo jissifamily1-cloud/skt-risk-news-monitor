@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731552",
-  "https://view.asiae.co.kr/article/2026111314524195398",
-  "https://www.newsis.com/view/NISX20261113_0003867101",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489869",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3751335",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=46300",
   "https://www.abcn.kr/news/articleView.html?idxno=94504",
   "https://www.datanet.co.kr/news/articleView.html?idxno=300150",
@@ -2999,14 +2994,14 @@
   "https://imnews.imbc.com/news/2026/world/article/6865586_36925.html",
   "https://www.medigatenews.com/news/1742147738",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715343",
-  "https://www.radiokorea.com/news/article.php?uid=509609"
+  "https://www.radiokorea.com/news/article.php?uid=509609",
+  "https://www.mk.co.kr/article/12208721",
+  "https://www.etoday.co.kr/news/view/2648130",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504014",
+  "https://www.mt.co.kr/world/2026/11/14/2026111322480465233",
+  "https://www.g-enews.com/view.php?ud=202611140630578478fbbec65dfb_1"
  ],
  "seen_titles": [
-  "[상생빛난기업들]동반성장으로증명한지속가능경영",
-  "KAI,인니PTDI와방산·민항기아우르는'항공혈맹'구축",
-  "KAI,인도네시아와손잡고KF-21후속양산…민항기까지협력확대",
-  "[LS,23년의영토확장③]4인4색날개단3세경영진…'자산50조'눈앞",
-  "[프로야구]삼성구자욱,해외에이전트선임완…우승후너스레아니...",
   "中충칭,첫전자동운행도시철도급행노선개통",
   "\"얼어붙은사슴같다\"…젠슨황이공개질책했던CFO의'반전'",
   "SK는기술협력,GS는금융·안전…동반성장전략차별화",
@@ -6001,7 +5996,12 @@
   "뉴욕증시혼조마감‥엔비디아하락세계속,2%↓",
   "제이엘케이,인텔코리아‘K-AI풀스택얼라이언스’초기멤버참여",
   "젠슨황사임에다시주목받은사촌…AMD를일으킨리사수의성장사",
-  "오늘의증권소식(11월12일)"
+  "오늘의증권소식(11월12일)",
+  "“오늘일못합니다”…이틀째‘먹통대란’에고개숙인MS",
+  "NYT“젠슨황퇴진에아시아AI대사잃었다”⋯한국우려조명",
+  "엔비디아쇼크에개미들승부수…SOXL·TQQQ에뭉칫돈몰린이유보니",
+  "대만의'국민아빠'였는데…젠슨황논란에현지시민들도실망",
+  "한화오션,해킹막는초대형원유운반선인도…한화시스템보안기술상..."
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,21 @@
   [
    "2026-11-14T06:38:16.716235+09:00",
    "오늘의 증권소식 11월 12일"
+  ],
+  [
+   "2026-11-14T06:42:16.982300+09:00",
+   "이유 SOXL 개미들 몰린 TQQQ에 승부수 쇼크에 보니 뭉칫돈"
+  ],
+  [
+   "2026-11-14T06:42:16.982300+09:00",
+   "였는데 아빠 현지 실망 시민들도 젠슨 논란에 국민 대만의"
+  ],
+  [
+   "2026-11-14T06:42:16.982300+09:00",
+   "원유운반선 한화오션 기술 인도 막는 초대형 한화시스템 보안"
   ]
  ],
- "last_run": "2026-11-14T06:40:40.034988+09:00",
+ "last_run": "2026-11-14T06:42:38.583509+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
