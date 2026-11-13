@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261113040200002?input=1195m",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4444606",
-  "https://www.yna.co.kr/view/AKR20261113050700546?input=1195m",
-  "https://www.dailian.co.kr/news/view/1714563/?sc=Naver",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=139700",
-  "https://ditoday.com/%ed%99%8d%eb%b3%b4%eb%a7%8c-%ed%95%98%ea%b3%a0-%ec%8b%b6%ec%a7%80-%ec%95%8a%ec%95%98%ec%96%b4%ec%9a%94-10%ec%a3%bc%eb%85%84-kt-y%ea%b0%80-%ec%83%9d%ec%9d%bc%ed%8c%8c%ed%8b%b0%eb%a5%bc/",
-  "https://www.yna.co.kr/view/AKR20261113035000530?input=1195m",
   "https://www.gukjenews.com/news/articleView.html?idxno=3750853",
   "https://www.gukjenews.com/news/articleView.html?idxno=3750868",
   "http://www.finomy.com/news/articleView.html?idxno=266600",
@@ -2999,16 +2992,16 @@
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54749",
   "https://www.edaily.co.kr/News/Read?newsId=04657606645645392&mediaCodeNo=257",
   "https://news.jtbc.co.kr/article/NB12327976?influxDiv=NAVER",
-  "https://www.yna.co.kr/view/AKR20261113170200085?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261113170200085?input=1195m",
+  "https://www.sportschosun.com/baseball/2026-11-13/202611130100091100008611",
+  "http://www.biztribune.co.kr/news/articleView.html?idxno=362505",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3751641",
+  "https://www.munhwa.com/article/11631054",
+  "https://www.busan.com/view/busan/view.php?code=2026111318101392957",
+  "https://view.asiae.co.kr/article/2026111319230838107",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559882"
  ],
  "seen_titles": [
-  "\"양손으로엔비디아주식사들인다\"…젠슨황충격,주가바닥쳤나",
-  "엔비디아흔들리자삼성·AMD주목…AI공급망바뀔까",
-  "'불륜파문'젠슨황,엔비디아CEO사임…33년만에물러나",
-  "\"아내가젠슨황의개인비서라고했다\"캉웨이가앨리스황소개[WSJ]",
-  "[마켓펄스]'젠슨황사임'충격딛고삼전닉스반등...코스피2%대강세",
-  "젠슨황전엔비디아CEO,불륜상대'중국스파이'확정땐최고징역...",
-  "엘리스그룹,엔비디아B300GPU인프라구축…모듈형AI데이터센터가동...",
   "정부,경기판단'회복흐름'에서'견조한성장세'로상향",
   "[신윤우의외환분석]강달러파도에맞설네고방파제",
   "[머니톡스]위험한황제젠슨황…결국기업의운명은CEO가결정한다",
@@ -6001,7 +5994,14 @@
   "최고의AI전도사잃은실리콘밸리의고민",
   "180조원쥔젠슨황,마음대로못판다…부인과`공동신탁`",
   "'러트닉당신부터'백악관불똥…'트럼프승인'까지겨눴다",
-  "\"우크라전러시아사망자최소45만명…러통계청자료해킹당해\""
+  "\"우크라전러시아사망자최소45만명…러통계청자료해킹당해\"",
+  "'은퇴직전'KIA기적의육성선수성공신화,왜감독은더다그쳤나…...",
+  "KAI,인니와KF-21후속양산협력확대…민항기사업까지손잡는다",
+  "일산새마을금고,'대의원·우수회원의날'기념대의원연수실시",
+  "“AI는기본기,인간다움이필살기…변화적응·협업이승부가른다”[...",
+  "중기부2차'모두의창업'참가자818명개인정보유출…5개월만에다시...",
+  "TSMC직원개인정보4만6000여건온라인에매물로올라와",
+  "엔비디아후임자는깐부회동참석자?"
  ],
  "recent_sigs": [
   [
@@ -7083,9 +7083,13 @@
   [
    "2026-11-13T19:24:18.135103+09:00",
    "우크라전 사망자 해킹당해 45만명 통계청 자료 최소 러시아"
+  ],
+  [
+   "2026-11-13T19:26:17.282540+09:00",
+   "후임자는 참석자 깐부 회동"
   ]
  ],
- "last_run": "2026-11-13T19:24:36.809924+09:00",
+ "last_run": "2026-11-13T19:26:36.733114+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
