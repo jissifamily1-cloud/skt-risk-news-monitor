@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12327957?influxDiv=NAVER",
-  "http://coinreaders.com/269988",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338433",
-  "https://www.etoday.co.kr/news/view/2647969",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563704",
-  "https://www.kado.net/news/articleView.html?idxno=2084704",
-  "https://www.newsis.com/view/NISX20261113_0003867364",
   "https://news.mtn.co.kr/article/2026111315230634743",
   "http://coinreaders.com/269989",
   "https://imnews.imbc.com/replay/2026/nw1400/article/6865456_36974.html",
@@ -2999,16 +2992,16 @@
   "https://www.edaily.co.kr/News/Read?newsId=02148406645645720&mediaCodeNo=257",
   "https://www.hankyung.com/article/2026111462027",
   "https://www.khan.co.kr/article/202611140752001",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147075"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147075",
+  "https://biz.heraldcorp.com/article/10936847",
+  "https://biz.chosun.com/international/international_general/2026/11/14/K6UUKSQA7ZGJ7GIM3WQEHE57YQ/",
+  "https://www.cstimes.com/news/articleView.html?idxno=727881",
+  "https://www.the-today.com/news/articleView.html?idxno=93547",
+  "https://www.cstimes.com/news/articleView.html?idxno=727841",
+  "https://www.mediapen.com/news/view/1137480",
+  "https://www.wikitree.co.kr/articles/1174525"
  ],
  "seen_titles": [
-  "파주시,민통선·통일대교검문소북상여론수렴…주민의견듣는다",
-  "젠슨황불명예퇴장에사상최대위기맞은엔비디아",
-  "엔비디아'젠슨황'사임에…하정우,AI전략위긴급회의소집",
-  "'젠슨황공백'은삼성전자SK하이닉스에도대형악재일까:'엔비디아...",
-  "비트코인·이더리움4%대동반하락…8월이후최저[특징코인]",
-  "[오피셜]구자욱원태인박동원홍창기…FA자격선수28명공시,15일신...",
-  "중국,AI로'1인기업'대량육성…창업문턱낮췄지만생존경쟁도치열",
   "“로봇왕국꿈꿨는데”일본비상",
   "엔비디아위기,삼성·SK엔기회…HBM공급망재편촉각",
   "이번엔육성형아닌생계형?중국발‘미인계첩보전’의진화",
@@ -6001,7 +5994,14 @@
   "잠자던문서를데이터자산으로…AI가바꾼부동산경제학[0과1로보는...",
   "엔비디아,ArmCEO접촉설에선그어…\"공식연락안해\"",
   "뉴욕증시혼조마감…엔비디아2%↓‘하락세’지속",
-  "[오늘의글로벌마켓]뉴욕증시,엔비디아약세지속속3대지수혼조세"
+  "[오늘의글로벌마켓]뉴욕증시,엔비디아약세지속속3대지수혼조세",
+  "젠슨황,잡스처럼부활가능할까…美거대기업창업자해임뒤복귀사례...",
+  "엔비디아,ArmCEO접촉설진화…“공식접촉한후보없어”",
+  "[주간금융동향]젠슨황퇴진파장에금보원해킹까지…11월둘째주금...",
+  "엔비디아4조달러시총붕괴…뉴욕증시AI·반도체주동반급락",
+  "[주간산업동향]혼외관계논란속젠슨황퇴진…엔비디아,크레스임시...",
+  "[美증시]엔비디아시총4조달러붕괴…젠슨황불륜스캔들에1조2천억달...",
+  "일론머스크가젠슨황복귀를바란다며밝힌입장"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,21 @@
   [
    "2026-11-14T07:54:24.198402+09:00",
    "3대지수 혼조세 약세 뉴욕증시 지속"
+  ],
+  [
+   "2026-11-14T07:56:24.223067+09:00",
+   "거대기업 젠슨황 가능할까 부활 복귀 창업자 잡스처럼 해임뒤 사례"
+  ],
+  [
+   "2026-11-14T07:56:24.223067+09:00",
+   "불륜스캔들에 시총 4조달러 젠슨황 1조2천억달 붕괴"
+  ],
+  [
+   "2026-11-14T07:56:24.223067+09:00",
+   "입장 머스크가 밝힌 바란다며 복귀를 젠슨 일론"
   ]
  ],
- "last_run": "2026-11-14T07:54:40.550387+09:00",
+ "last_run": "2026-11-14T07:56:46.079873+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
