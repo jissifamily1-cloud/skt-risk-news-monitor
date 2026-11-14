@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.00news.co.kr/news/articleView.html?idxno=108017",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611091034242960103079",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001014",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000082495",
-  "https://www.bbc.com/korean/articles/cxly44744mvmo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.viewsnnews.com/article?q=239685",
   "https://www.jemin.com/news/articleView.html?idxno=847221",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=315343",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2492147",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/News/Read?newsId=02479686645645720&mediaCodeNo=257",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54762",
   "https://www.newdaily.co.kr/site/data/html/2026/11/13/2026111300249.html",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=626787"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=626787",
+  "https://www.thescoop.co.kr/news/articleView.html?idxno=312292",
+  "https://www.todaykorea.co.kr/news/articleView.html?idxno=408614",
+  "https://imnews.imbc.com/news/2026/econo/article/6865612_36932.html",
+  "https://www.donga.com/news/Inter/article/all/20261114/135023943/1",
+  "https://www.tokenpost.kr/news/breaking/438144",
+  "https://www.yna.co.kr/view/AKR20261114023200011?input=1195m"
  ],
  "seen_titles": [
-  "이통사영업익‘5조시대’눈앞…新성장동력은AI",
-  "슈어소프트테크,3분기누적영업익70억원…전년比4.1배증가",
-  "샘알트먼,삼성·SK연쇄회동…오픈AI메모리확보전본격화",
-  "코난테크놀로지,국방AI플랫폼'아르고엑스'첫공개…내년군실증추...",
-  "젠슨황떠난엔비디아…韓로봇업계,기술동맹향방촉각",
-  "[증시시황]'젠슨황퇴진'엔비디아경영에어떤변화가…뉴욕증시'A...",
   "젠슨황\"나는인간쓰레기\"…CEO사임전무너진모습",
   "[마감시황]코스피,외인7000억'팔자'에5200선후퇴…\"AI·매크로부담...",
   "‘전강후약’코스피,외인매도전환에약보합[시황]",
@@ -6001,7 +5995,13 @@
   "TV조선무죄가남긴숙제…방미통위는‘정치적풍랑’을견딜수있나...",
   "AI선구자리카이푸\"중국기업은돈벌기위해태어났다\"",
   "[포토]TBS관련질문에답하는김종철방미통위위원장",
-  "코스피하락…삼성전자·현대차강세삼성전기약세,엔비디아경영불..."
+  "코스피하락…삼성전자·현대차강세삼성전기약세,엔비디아경영불...",
+  "젠슨황불륜스캔들에출렁…삼전닉스'아슬아슬한버티기'[주간증시...",
+  "배경훈부총리\"엔비디아GPU26만장공급재확인···양측과제지속...",
+  "서학개미,'젠슨황스캔들'엔비디아1천억원순매수",
+  "엔비디아,하스암CEO접촉설부인…“헤드헌팅선정단계”",
+  "트럼프,방중때엔비디아($NVDA)·스파이의혹거론안할계획",
+  "[전국주요신문톱뉴스](14일조간)"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,21 @@
   [
    "2026-11-14T09:58:15.700633+09:00",
    "현대차 코스피 약세 하락 경영 강세 삼성전자 삼성전기"
+  ],
+  [
+   "2026-11-14T10:00:39.050823+09:00",
+   "거론 의혹 방중 NVDA 트럼프 계획 스파이"
+  ],
+  [
+   "2026-11-14T10:00:39.050823+09:00",
+   "단계 접촉설 선정 하스 헤드헌팅 부인 CEO"
+  ],
+  [
+   "2026-11-14T10:00:39.050823+09:00",
+   "14일 조간"
   ]
  ],
- "last_run": "2026-11-14T09:58:36.798309+09:00",
+ "last_run": "2026-11-14T10:01:00.067394+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
