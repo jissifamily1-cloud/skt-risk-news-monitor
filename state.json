@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202611131731526446",
-  "https://www.hankookilbo.com/news/article/A2026111314420005967?did=NA",
-  "https://www.hankyung.com/article/2026111357911",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390226.html",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104461",
   "https://www.sisajournal.com/news/articleView.html?idxno=393959",
   "https://www.fnnews.com/news/202611131732591024",
   "https://news.mtn.co.kr/article/2026111317050267065",
@@ -2999,14 +2994,14 @@
   "https://www.ftimes.kr/news/articleView.html?idxno=41107",
   "https://www.gukjenews.com/news/articleView.html?idxno=3752086",
   "https://www.aitimes.com/news/articleView.html?idxno=217409",
-  "https://www.newsis.com/view/NISX20261114_0003867994"
+  "https://www.newsis.com/view/NISX20261114_0003867994",
+  "https://www.sidae.com/article/2026111113440247933",
+  "https://www.yna.co.kr/view/AKR20261110027700017?input=1195m",
+  "https://www.mt.co.kr/world/2026/11/14/2026111411284468310",
+  "https://www.busan.com/view/busan/view.php?code=2026111417320755821",
+  "http://www.inews24.com/view/2026207"
  ],
  "seen_titles": [
-  "피지오겔DDP'피부장벽보수공사장'오픈",
-  "LG유플러스,국내제조기업글로벌데이터공급망진입지원",
-  "\"불륜은잘못,사임은과했나\"…젠슨황퇴진에직원88%유임지지,실...",
-  "[코인브리핑]'젠슨황사임'비트코인9300만원대로'뚝'…롬바드55%급...",
-  "\"젠슨황아닙니다\"…황영진,불륜검색어에직접해명한이유",
   "\"난쓰레기다,다끝났다\"…中스파이불륜에쫓겨난젠슨황,'AI제국...",
   "'점입가경'앨리스황정체...中국가안전부요원·화웨이와도접점?",
   "반나절만에돌아선외국인[한경프리미엄9TODAY]",
@@ -6001,7 +5996,12 @@
   "'부상복귀전28점·10리바운드폭발'엘런슨,DB연패위기구했다…K...",
   "지방정부첫기후보험…제주도,COP31무대서사례공유",
   "머스크,젠슨황퇴진에영화로경의…앞서\"영입하면영광\"",
-  "\"내년봄증시다시오른다\"…스테이블코인유동성·유가하락에증시..."
+  "\"내년봄증시다시오른다\"…스테이블코인유동성·유가하락에증시...",
+  "\"국채입찰금리왜곡못한다\"는데도공정위1.6조과징금",
+  "LGU+,국내이통사첫자동차사이버보안ML3인증",
+  "빚내서AI투자하는빅테크?AI투자붐의청구서",
+  "[속보]\"트럼프,작년엔비디아주식사고AI칩수출통제완화\"",
+  "\"중국은뒤에서다쓰고있다\"⋯젠슨황사태에드러난美허점"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-11-14T17:40:27.423788+09:00",
    "유동성 증시 내년 오른다 다시 하락에 스테이블코인 유가"
+  ],
+  [
+   "2026-11-14T17:42:19.291126+09:00",
+   "젠슨 드러난 허점 뒤에서 사태에 중국은 있다 쓰고"
   ]
  ],
- "last_run": "2026-11-14T17:40:43.622720+09:00",
+ "last_run": "2026-11-14T17:42:37.263960+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
