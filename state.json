@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2648012",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3751472",
-  "https://www.youthdaily.co.kr/news/article.html?no=229826",
-  "https://www.newspim.com/news/view/20261113000074",
-  "https://biz.sbs.co.kr/article_hub/20000345757?division=NAVER",
-  "https://www.g-enews.com/view.php?ud=202611040914216797923c501012_1",
-  "http://www.netongs.com/news/articleView.html?idxno=336456",
   "https://zdnet.co.kr/view/?no=20261113155458",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130121&t=NN",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=903059",
@@ -2999,16 +2992,16 @@
   "https://news.tf.co.kr/read/world/2388809.htm",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711835",
   "https://www.todaykorea.co.kr/news/articleView.html?idxno=408613",
-  "https://www.fnnews.com/news/202611140917177584"
+  "https://www.fnnews.com/news/202611140917177584",
+  "https://www.sedaily.com/article/20114302",
+  "https://www.sedaily.com/article/20114301",
+  "https://www.sedaily.com/article/20114300",
+  "https://www.jbnews.com/news/articleView.html?idxno=1515932",
+  "https://www.edaily.co.kr/News/Read?newsId=02568246645645720&mediaCodeNo=257",
+  "https://www.sedaily.com/article/20114299",
+  "https://www.yna.co.kr/view/AKR20261114026400089?input=1195m"
  ],
  "seen_titles": [
-  "KeyplayersbehindLions'KoreanSeriestitlerunheadlinelistofpote",
-  "[오늘의유통가]BBQ,남아공에1호점오픈…아프리카공략본격화",
-  "알트먼CEO,삼성·SK회동…스타게이트협력강화'기대'",
-  "[ETF특징주]NVDL한달새64%급락,단일종목레버리지치명타",
-  "AI가AI를만드는단계왔다…“시스템종료거부할수도”[김현지의wi...",
-  "알트코인,5년전으로회귀...\"지금이포지션잡을때\"",
-  "KT,AI·데이터기반통신시설안전관리혁신…국무총리상수상",
   "\"잘가요젠슨황\"…불륜·사퇴충격에코스피5300선아래로",
   "젠슨황사임'불똥'...SK하이닉스3%↓삼성전자0.96%↓",
   "\"젠슨황연인앨리스황,中국가안전부장직속반도체팀공작원\"",
@@ -6001,7 +5994,14 @@
   "엔비디아,르네하스암CEO접촉설부인\"특정후보추측시기상조\"",
   "AI가흔든수학계…샘알트먼\"아직공개안한성과남아있다\"",
   "중기부'모두의창업'프로젝트,6월이어다시개인정보유출",
-  "\"젠슨황여파\"...서학개미,급락한엔비디아1000억원대'저가매수'"
+  "\"젠슨황여파\"...서학개미,급락한엔비디아1000억원대'저가매수'",
+  "구다이글로벌,코스피상장예비심사신청…내년상반기IPO목표",
+  "국제유가상승에달러강세…달러인덱스19개월만에최고",
+  "삼성전자,美데이터센터냉각업체모딘인수협상",
+  "엘런슨복귀전28점,원주DB수원KT에94대83승리",
+  "엔비디아임원들'젠슨황복귀요구서한'은가짜",
+  "엔비디아,크레스임시CEO체제로조직안정화…18일전사회의",
+  "로이터\"'엔비디아칩의존'中AI프로젝트규모4조6천억이상\""
  ],
  "recent_sigs": [
   [
@@ -6723,9 +6723,13 @@
   [
    "2026-11-14T10:42:14.946097+09:00",
    "이사회 항의문과 서한 판박이 요구 퇴진 확산"
+  ],
+  [
+   "2026-11-14T10:50:25.314625+09:00",
+   "엔비디아칩 의존 로이터 이상 AI프로젝트 4조6천억 규모"
   ]
  ],
- "last_run": "2026-11-14T10:48:34.319497+09:00",
+ "last_run": "2026-11-14T10:50:44.096130+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
