@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/270015",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563757",
   "https://www.hani.co.kr/arti/international/international_general/1287259.html",
   "http://www.yonhapnewstv.co.kr/news/AKR202611131701172Dc",
   "https://imnews.imbc.com/replay/2026/nw1700/article/6865489_36981.html",
@@ -2999,11 +2997,11 @@
   "https://www.segye.com/newsView/20261114505105?OutUrl=naver",
   "https://www.busan.com/view/busan/view.php?code=2026111414490217605",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=920751",
-  "https://www.hani.co.kr/arti/international/international_general/1287324.html"
+  "https://www.hani.co.kr/arti/international/international_general/1287324.html",
+  "http://www.breaknews.com/1251006",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=887192"
  ],
  "seen_titles": [
-  "\"엔비디아지금빠져나와라\"…'빅쇼트'버리가주주들에게외친경고",
-  "오픈AI,아스트라'노-CoT'능력향상확인…AI추론감시한계드러나",
   "'유심무상교체'통했다…SKT,해킹이후성실성점수하락폭90%회복",
   "\"사막에지어야할지도\"…데이터센터전략다시짜는美AI기업들",
   "블룸버그“앤트로픽IPO에공모물량6배주문”…역대최대상장가시...",
@@ -6001,7 +5999,9 @@
   "“젠슨황,지난달엔비디아임원진에‘앨리스황과적절한관계’거...",
   "“젠슨황,엔비디아임원진에게‘앨리스와적절한관계’라고거짓해...",
   "[KLPGA2027정규투어시드순위전]통산4승거둔마다솜,시드순위전수...",
-  "젠슨황,엔비디아임원들에게도거짓해명…“적절한관계”"
+  "젠슨황,엔비디아임원들에게도거짓해명…“적절한관계”",
+  "젠슨황의제2막과K-바이오...“바이오파운드리,한국제조업새지평...",
+  "오픈AI,카드사제휴해AI에이전트용'챗GPT월렛'공개"
  ],
  "recent_sigs": [
   [
@@ -6463,9 +6463,17 @@
   [
    "2026-11-14T14:54:17.990091+09:00",
    "4승 시드순위전 통산 거둔 마다솜"
+  ],
+  [
+   "2026-11-14T14:58:16.582474+09:00",
+   "공개 챗GPT 제휴해 월렛 에이전트용 카드사"
+  ],
+  [
+   "2026-11-14T14:58:16.582474+09:00",
+   "젠슨 바이오 파운드리 제조업 지평 제2막과 한국 황의"
   ]
  ],
- "last_run": "2026-11-14T14:56:32.120887+09:00",
+ "last_run": "2026-11-14T14:58:37.618024+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
