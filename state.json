@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6348006",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=624822",
-  "https://wemakenews.co.kr/news/view.php?no=26783",
-  "https://www.kpinews.kr/newsView/1065597549978013",
-  "https://www.insight.co.kr/news/581278",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2490181",
-  "http://www.newstomato.com/ReadNews.aspx?no=1319803&inflow=N",
   "https://www.m-i.kr/news/articleView.html?idxno=2016340",
   "https://www.smartbizn.com/news/articleView.html?idxno=158830",
   "http://www.newswatch.kr/news/articleView.html?idxno=81839",
@@ -2999,16 +2992,16 @@
   "https://www.jemin.com/news/articleView.html?idxno=847280",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504117",
   "https://www.aitimes.com/news/articleView.html?idxno=217413",
-  "https://view.asiae.co.kr/article/2026111311191590083"
+  "https://view.asiae.co.kr/article/2026111311191590083",
+  "https://www.kpinews.kr/newsView/1065566258962315",
+  "https://www.kbsm.net/news/view.php?idx=541692",
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=113051",
+  "http://coinreaders.com/270336",
+  "http://www.breaknews.com/1251056",
+  "http://www.breaknews.com/1251058",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16276875"
  ],
  "seen_titles": [
-  "통신3사,AI데이터센터증설하고토큰사업으로수익다변화한다",
-  "[맞수탐구]통신3사3분기성적…SKT·LGU+기저효과로영업익급증",
-  "통신3사3분기엇갈린성적표…AI인프라는나란히성장(종합)",
-  "솔리다임상장철회후SK호라이즌출범...중복상장또추진?",
-  "전자부터통신까지…K-산업,'양자시대'주도권잡기사활",
-  "빅테크韓AI데이터센터,건물·자금은국내기업이부담",
-  "보안취약한CCTV녹화기4000여대,국내서인터넷노출",
   "'방발기금못낸다'현실로…적자SO2곳,기금미납했다",
   "[기업家]SK그룹㉖ㅣAI·반도체중심사업재편가속…친환경·안전경...",
   "LG유플러스,초고속인터넷이용자경험평가서7개지표1위권",
@@ -6001,7 +5994,14 @@
   "머스크,엔비디아경영공백에경고…젠슨황퇴진후AI공급망재편...",
   "젠슨황떠나자경쟁사움직였다…엔비디아공급망주도권시험대",
   "엔비디아주요투자자들\"젠슨황복귀검토해야\"…머스크등거물들가...",
-  "\"설마전문직시험장도뚫렸을까?\"…학생1명에조력자3명,정답률83%..."
+  "\"설마전문직시험장도뚫렸을까?\"…학생1명에조력자3명,정답률83%...",
+  "삼성전자,랜섬웨어조직협박명단에올라…\"96시간내유출\"",
+  "엔비디아투자자,젠슨황복귀요구서한…온라인청원도후끈",
+  "[박명기칼럼]'깐부치킨'젠슨황의퇴장…한국AI동맹은?",
+  "비트코인6만4,000달러대추락!ETF7거래일연속순유출·12억달러강...",
+  "트럼프리스크·엔비디아쇼크...코스피5300선후퇴",
+  "[현지보고]삶의모습",
+  "미국증시주간전망,엔비디아실적보다중요한'투자지속성'"
  ],
  "recent_sigs": [
   [
@@ -6263,9 +6263,25 @@
   [
    "2026-11-15T07:52:16.137241+09:00",
    "4배 해킹이 코인 금맥 외화벌이 탈취액"
+  ],
+  [
+   "2026-11-15T08:00:39.227003+09:00",
+   "ETF 추락 7거래일 6만 비트코인 000달러대 순유출 12억 달러 연속"
+  ],
+  [
+   "2026-11-15T08:00:39.227003+09:00",
+   "실적보다 중요한 미국증시 지속성 투자 전망 주간"
+  ],
+  [
+   "2026-11-15T08:00:39.227003+09:00",
+   "모습 삶의"
+  ],
+  [
+   "2026-11-15T08:00:39.227003+09:00",
+   "5300선 트럼프 쇼크 코스피 후퇴 리스크"
   ]
  ],
- "last_run": "2026-11-15T07:58:36.944914+09:00",
+ "last_run": "2026-11-15T08:01:03.562653+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
