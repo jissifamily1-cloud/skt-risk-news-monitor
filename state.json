@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bntnews.co.kr/article/view/bnt202611130234",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=300645",
-  "https://www.tokenpost.kr/news/ai/437730",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=668102",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065599088435425",
   "https://www.pointe.co.kr/news/articleView.html?idxno=87752",
   "https://www.gokorea.kr/news/articleView.html?idxno=885469",
@@ -2999,13 +2995,13 @@
   "https://www.m-economynews.com/news/article.html?no=73008",
   "https://www.segye.com/newsView/20261114503918?OutUrl=naver",
   "http://weekly.chosun.com/news/articleView.html?idxno=57121",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261114110410QkA"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261114110410QkA",
+  "https://www.etnews.com/20261112000360",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230826",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001058",
+  "http://www.joseilbo.com/news/news_read.php?uid=579636&class=18"
  ],
  "seen_titles": [
-  "코스피,장중5500선돌파후5290선후퇴...외국인5500억순매도",
-  "'젠슨황리스크'계속된코스피…삼전닉스나란히부진[마감시황]",
-  "러트닉미상무,의회에서'젠슨황스캔들'관련증언키로",
-  "「M포토」의원질의에답변하는김종철방미통위위원장",
   "전기차보급확대에충전전쟁본격화…모트렉스·와이엠텍'방긋'",
   "‘스토브리그어서오시고!’구자욱·원태인잔류or이별?…FA자격선...",
   "2027프로야구FA자격선수명단",
@@ -6001,7 +5997,11 @@
   "「M포토」예산안통과인사말하는김종철방미통위위원장",
   "젠슨황복귀·집단이직요구서한은‘가짜’…오픈AI사태문건짜깁...",
   "젠슨황후임에리사수·팀쿡까지거론…엔비디아\"아직접촉안해\"",
-  "[이시각헤드라인]11월14일토요와이드(11시)"
+  "[이시각헤드라인]11월14일토요와이드(11시)",
+  "3,000개언론라이선스확보한비큐AI,'RDPGROUP'출범3개월만에데이...",
+  "\"젠슨황복귀요구\"엔비디아임원서한은'가짜'",
+  "[젠슨황스캔들]배경훈부총리\"젠슨황사임에도엔비디아韓GPU공급...",
+  "\"금융사편의봐주다보안망허점키웠다\"...박대출,금융보안원해킹..."
  ],
  "recent_sigs": [
   [
@@ -6755,9 +6755,13 @@
   [
    "2026-11-14T11:04:16.295759+09:00",
    "문지기마저 금융보안 해킹에 속수무책"
+  ],
+  [
+   "2026-11-14T11:08:14.555549+09:00",
+   "금융사 박대출 봐주다 키웠다 금융보안원 허점 보안망 편의"
   ]
  ],
- "last_run": "2026-11-14T11:06:35.838499+09:00",
+ "last_run": "2026-11-14T11:08:36.036261+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
