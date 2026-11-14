@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://byline.network/?p=9004111222627612",
-  "https://www.news2day.co.kr/article/20261112500118",
-  "https://www.joongang.co.kr/article/25477745",
-  "https://www.yna.co.kr/view/AKR20261113156100009?input=1195m",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5230754",
   "https://www.news1.kr/finance/general-stock/6353616",
   "https://www.hankyung.com/article/2026111358531",
@@ -2999,13 +2995,13 @@
   "https://www.starnewskorea.com/sports/2026/11/14/2026111418243172694",
   "http://www.newsmaker.or.kr/news/articleView.html?idxno=185819",
   "https://www.gukjenews.com/news/articleView.html?idxno=3752073",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2374403"
+  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2374403",
+  "https://www.mk.co.kr/article/12208982",
+  "https://www.newsis.com/view/NISX20261114_0003868162",
+  "https://biz.heraldcorp.com/article/10936916",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=366151"
  ],
  "seen_titles": [
-  "방미통위,YTN최대주주청문재개촉구",
-  "방미통위,암스테르담영화제서한국다큐멘터리글로벌진출지원",
-  "[야구]FA시장열렸다…원태인·구자욱등28명자격공시",
-  "“고참들자리내줘야”…텐센트작심발언에‘절반감원설’돌기도",
   "KMS랩,포스코차세대포털에온프레미스AI공급",
   "\"AI투자사이클,반도체수출에우려할정도아냐\"<iM證>",
   "‘AI거품론’운명좌우할앤트로픽상장…관전포인트셋",
@@ -6001,7 +5997,11 @@
   "[APBC]韓야구운명의대만전'선발라인업'발표'전격리드오프배치...",
   "국립목포대,생성형AI활용과제평가·피드백도구제작워크숍진행",
   "한국조폐공사지역사랑상품권앱'착(chak)'해킹피해",
-  "[통신]KT인터넷대상국무총리상·LG유플러스글로벌데이터협약및디..."
+  "[통신]KT인터넷대상국무총리상·LG유플러스글로벌데이터협약및디...",
+  "‘김지찬리드오프+김주원3번타자출격’승리절실한최원호호,대만...",
+  "프로농구KCC,4연승질주…현대모비스·정관장도쾌승(종합)",
+  "젠슨황깐부잃은네이버…이틀새주가-11%‘와르르’[투자360]",
+  "조폐공사상품권앱'착'해킹…3083명유출"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-11-14T18:40:25.974894+09:00",
    "LG유플러스 데이터 국무총리상 ~KT 글로벌 ~LGU 협약 인터넷대상"
+  ],
+  [
+   "2026-11-14T18:42:16.787857+09:00",
+   "3083명 조폐공사 상품권앱 유출"
   ]
  ],
- "last_run": "2026-11-14T18:40:46.846699+09:00",
+ "last_run": "2026-11-14T18:42:37.868113+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
