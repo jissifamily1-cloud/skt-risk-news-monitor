@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.joongang.co.kr/article/25478408",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611130114&t=NN",
-  "https://www.ytn.co.kr/_ln/0102_202611131550329762",
-  "https://www.newsis.com/view/NISX20261113_0003867337",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503919",
-  "https://www.nocutnews.co.kr/news/6606709",
   "https://www.gukjenews.com/news/articleView.html?idxno=3751451",
   "https://zdnet.co.kr/view/?no=20261113155654",
   "https://news.bizwatch.co.kr/article/industry/2026/11/13/0001",
@@ -2999,15 +2993,15 @@
   "https://www.hani.co.kr/arti/economy/finance/1287310.html",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504047",
   "https://www.globale.co.kr/news/articleView.html?idxno=41645",
-  "https://www.thepublic.kr/news/articleView.html?idxno=326602"
+  "https://www.thepublic.kr/news/articleView.html?idxno=326602",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611061453246000103317",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715505",
+  "https://economist.co.kr/article/view/ecn202611140001",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326614",
+  "https://www.kizmom.com/news/articleView.html?idxno=113952",
+  "https://www.boannews.com/news/articleView.html?idxno=147262"
  ],
  "seen_titles": [
-  "트리니티항공,비즈니스석기내도서대여‘FlyingLibrary’16일시작",
-  "엘리스그룹,대한민국인터넷대상대통령상수상…AI데이터센터구축공...",
-  "KAI,인도네시아와항공기생산협력추진",
-  "영상통화시대열고23년만에퇴장···굿바이'3G'",
-  "MS아웃룩등대규모장애12시간넘게지속중(종합2보)",
-  "엘리스그룹,온수·외기냉각적용한AI데이터센터가동",
   "[AIMY증시전망]엔비디아發투심위축…코스피반등제한",
   "LG유플러스,글로벌데이터공급망진출지원…카테나-X등과협약",
   "트럼프'초지능TF',AI자율해킹논의…기업신고·정보공유독려",
@@ -6001,7 +5995,13 @@
   "흔들리는AI중앙은행,엔비디아[박상현의경제수다]",
   "제일기획·이노션하락에도디지털광고주는화색…엇갈린광고주",
   "구글·삼성·젠틀몬스터협업'인텔리전트아이웨어'공개",
-  "KAI·인니PTDI,KF-21부터민항기까지협력범위확대"
+  "KAI·인니PTDI,KF-21부터민항기까지협력범위확대",
+  "[더벨]SK하이닉스자회사,플랜B가동'현지공략속도'",
+  "비트코인하루4%하락…미국PPI둔화에도6만8000달러대머물러",
+  "엔비디아또,'스캔들이후13%급락'시총4조달러아래로",
+  "'스파이의혹불륜'젠슨황사임…美·中반도체갈등폭발?",
+  "엔비디아주가급락에1000억담았다…서학개미'젠슨황사임'에도매수",
+  "美전역항공기운항마비…\"관제통신오류,해킹징후는발견안돼\""
  ],
  "recent_sigs": [
   [
@@ -6587,9 +6587,13 @@
   [
    "2026-11-14T09:34:15.771706+09:00",
    "흔들리는 중앙은행"
+  ],
+  [
+   "2026-11-14T09:40:26.874293+09:00",
+   "전역 항공기 발견 마비 오류 안돼 관제통신 징후는 운항"
   ]
  ],
- "last_run": "2026-11-14T09:38:32.494797+09:00",
+ "last_run": "2026-11-14T09:40:42.623482+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
