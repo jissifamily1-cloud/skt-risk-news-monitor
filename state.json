@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261113146400009?input=1195m",
-  "https://www.kmib.co.kr/article/20261113500490",
-  "https://www.fnnews.com/news/202611131725446384",
-  "https://view.asiae.co.kr/article/2026111317145397987",
-  "https://www.slist.kr/news/articleView.html?idxno=781542",
-  "https://www.ajunews.com/view/20261113171920499",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004469",
   "https://www.mk.co.kr/article/12208242",
   "https://www.techm.kr/news/articleView.html?idxno=157331",
   "https://www.edaily.co.kr/News/Read?newsId=04477206645645392&mediaCodeNo=257",
@@ -2999,16 +2992,16 @@
   "https://www.kukinews.com/article/view/kuk202611140029",
   "http://coinreaders.com/270249",
   "https://www.ekn.kr/web/view.php?key=20261114022329680",
-  "https://www.dailian.co.kr/news/view/1714990/?sc=Naver"
+  "https://www.dailian.co.kr/news/view/1714990/?sc=Naver",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845969&plink=ORI&cooper=NAVER",
+  "https://www.newspim.com/news/view/20261114000073",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752077",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=300166",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504070",
+  "https://www.aitimes.com/news/articleView.html?idxno=217406",
+  "https://www.sidae.com/article/2026111415465815885"
  ],
  "seen_titles": [
-  "통신3사,AIDC확대는필연...진행과정은여전히'가시밭길'",
-  "JensenHuangrờighếCEONvidiasau33năm,cổphiếulaodốc13%",
-  "'젠슨황퇴임'엔비디아,전략변화주목…국내게임업계영향은?",
-  "[AIMY뉴스]13일중국증시'엔비디아발AI투심흔들…미중반도체갈...",
-  "[AI의난]AI방어,'총론'보다'각론'필요할때...'보안부채'함께살...",
-  "온라인에TSMC직원개인정보판매글…해커\"4만6천여건보유\"",
-  "젠슨황나갔지만…엔비디아,韓에GPU26만장약속대로공급",
   "배경훈\"젠슨황사임에도엔비디아협력지속…GPU26만장공급재확인...",
   "\"한번더기회주자\"엔비디아직원들74%는젠슨황퇴진반대",
   "엔비디아직원들\"젠슨돌려달라\"…눈물·꽃다발복귀청",
@@ -6001,7 +5994,14 @@
   "트럼프·시진핑회담서‘엔비디아스캔들’빠지나…美“수출통제협...",
   "엔비디아(NVDA),병원내부서버서진료기록읽는AI확대…162.85달러마...",
   "MS서비스장애전세계70여개국강타···금융·행정업무까지‘마비’",
-  "과기정통부,MS서비스장애대응…비상대응반가동"
+  "과기정통부,MS서비스장애대응…비상대응반가동",
+  "KCC,SK꺾고4연승…허웅,4쿼터서'펄펄'",
+  "[프로농구]허웅4쿼터에만11점펄펄...KCC,SK잡고4연승",
+  "제2공항·BRT·행정체제'3대난제'평행선…위성곤지사올해마지막도...",
+  "\"아르텍스,1초내키-권한매칭···3시간내관리자권한탈취\"",
+  "켄코아에어로스페이스상승률선두…UAM관련주투자열기확산",
+  "젠슨황투자에제동걸었던CFO가후임으로…엔비디아전략바뀌나",
+  "젠슨황사임후폭풍…엔비디아4조달러붕괴"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,17 @@
   [
    "2026-11-14T16:46:16.677927+09:00",
    "강타 금융 행정업무까지 전세계 MS 마비 서비스 70여개국 장애"
+  ],
+  [
+   "2026-11-14T16:52:17.535521+09:00",
+   "걸었던 젠슨 전략 투자에 바뀌나 CFO가 제동 후임으로"
+  ],
+  [
+   "2026-11-14T16:52:17.535521+09:00",
+   "젠슨 붕괴 4조달러 후폭풍 사임"
   ]
  ],
- "last_run": "2026-11-14T16:50:42.240835+09:00",
+ "last_run": "2026-11-14T16:52:35.883611+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
