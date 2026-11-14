@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=04204966645644736&mediaCodeNo=257",
-  "https://www.fnnews.com/news/202611111057348835",
-  "https://www.news1.kr/it-science/cc-newmedia/6350333",
   "https://www.ezyeconomy.com/news/articleView.html?idxno=241742",
   "https://zdnet.co.kr/view/?no=20261111111703",
   "http://www.econonews.co.kr/news/articleView.html?idxno=447025",
@@ -2999,12 +2996,12 @@
   "https://www.sisajournal-e.com/news/articleView.html?idxno=425042",
   "http://coinreaders.com/270332",
   "https://www.hankyung.com/article/2026111567777",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865724_37012.html"
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865724_37012.html",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=300924",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846135&plink=ORI&cooper=NAVER",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=626892"
  ],
  "seen_titles": [
-  "통신3사,동반성장'최우수'…협력사와상생보폭확대",
-  "“AI교육까지지원”…SKT,14년연속동반성장최우수",
-  "이통3사,동반성장지수나란히'최우수'…상생경영성과입증",
   "SK텔레콤,동반성장지수14년연속최우수…국내기업2곳뿐",
   "SKT,20년상생제도로14년째정상..동반성장지수최우수획득",
   "SKT,동반성장지수14년연속'최우수'…명절대금조기지급·AI교육등",
@@ -6001,7 +5998,10 @@
   "거래소해킹잇따르자···금감원,19일가상자산업권긴급회의소집",
   "시스코(CSCO),분기최대매출에도6%급락한이유",
   "머스크\"젠슨황없는엔비디아,공급망장악력약화\"",
-  "\"앨리스와적절한관계\"‥거짓해명논란"
+  "\"앨리스와적절한관계\"‥거짓해명논란",
+  "[분석]또'정보유출'뭇매맞는중기부…사흘만에사과하고점검약...",
+  "192만'노란우산'뚫렸나…여전히\"피해자파악중\"",
+  "[슈퍼마이크로연루의혹]AI장비중국밀반출조사보도에해명…\"메..."
  ],
  "recent_sigs": [
   [
@@ -6235,9 +6235,13 @@
   [
    "2026-11-15T07:16:16.484183+09:00",
    "관계 적절한 앨리스와 해명 논란 거짓"
+  ],
+  [
+   "2026-11-15T07:18:15.793895+09:00",
+   "보도에 중국 해명 밀반출 장비 조사"
   ]
  ],
- "last_run": "2026-11-15T07:16:35.687272+09:00",
+ "last_run": "2026-11-15T07:18:34.479743+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
