@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20114190",
-  "https://www.newsis.com/view/NISX20261113_0003867744",
-  "https://www.hankyung.com/article/2026111358251",
-  "https://www.viva100.com/article/20261113500725",
-  "https://www.fnnews.com/news/202611131746123035",
-  "https://www.ytn.co.kr/_ln/0104_202611131745132779",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=140108",
   "https://www.ddaily.co.kr/page/view/2026111316500450204",
   "https://imnews.imbc.com/news/2026/econo/article/6865502_36932.html",
   "https://www.seoul.co.kr/news/life/2026/11/12/20261112500053?wlog_tag3=naver",
@@ -2999,16 +2992,16 @@
   "https://www.joongang.co.kr/article/25477745",
   "https://www.aitimes.kr/news/articleView.html?idxno=42731",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559968",
-  "https://www.g-enews.com/view.php?ud=20261113163415409238169980b3_1"
+  "https://www.g-enews.com/view.php?ud=20261113163415409238169980b3_1",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559974",
+  "https://www.ddaily.co.kr/page/view/2026111317324832594",
+  "https://news.tf.co.kr/read/world/2388844.htm",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559969",
+  "https://news.jtbc.co.kr/article/NB12328104?influxDiv=NAVER",
+  "https://www.ytn.co.kr/_ln/0103_202611141839083630",
+  "https://www.aitimes.com/news/articleView.html?idxno=217411"
  ],
  "seen_titles": [
-  "해커\"TSMC4만6천건,직원비상연락처도갖고있다\"",
-  "최태원\"한일경제연대이끌'빅텐트형'상설플랫폼준비\"",
-  "KT엠모바일,다이렉트몰개편…맞춤요금제탐색기능강화",
-  "황의사임에도흔들림없는엔비디아…한국GPU공급약속재확인",
-  "“앨리스황,中국가안전부‘칩팀’요원”",
-  "젠슨황사퇴에직접입연배경훈…\"GPU26만장공급약속재확인받았...",
-  "임시수장에'황의브레이크'크레스…엔비디아신규투자멈추나",
   "배경훈“젠슨황사임해도협력계속…GPU확보예정대로”",
   "\"스파이스캔들로수장날아갔는데…\"한국행'GPU26만장'어쩌나봤더...",
   "엔비디아차기CEO누구...'크레스·벅·리사수'물망",
@@ -6001,7 +5994,14 @@
   "‘AI거품론’운명좌우할앤트로픽상장…관전포인트셋",
   "오픈AI,AI에이전트가구매·결제하는'챗GPT월렛'공개…실제카드번...",
   "“앨리스황과적절한관계”…젠슨황거짓해명",
-  "[주간가상자산]비트코인9000만원도위태…하락세12월까지가나"
+  "[주간가상자산]비트코인9000만원도위태…하락세12월까지가나",
+  "美항공기올스톱…9·11때보다길었다",
+  "수십조예산심사장서TBS73억놓고격돌…정치공방으로번진과방위",
+  "트럼프대통령,AI규제폐지직전엔비디아주식'대량매입'",
+  "유출·재산뒤가려진본질…‘배신의대가’",
+  "'하스암CEO접촉설'엔비디아부인…차기수장안갯속",
+  "젠슨황스캔들일파만파...15세소녀살해동기미궁",
+  "미재무장관,메가스피드제재지연에상무부공개비판…러트닉경질론..."
  ],
  "recent_sigs": [
   [
@@ -6351,9 +6351,17 @@
   [
    "2026-11-14T18:46:17.063230+09:00",
    "하락세 위태 12월까지 가나 9000만원도 비트코인"
+  ],
+  [
+   "2026-11-14T18:48:17.280187+09:00",
+   "재산 배신의 본질 대가 가려진 유출"
+  ],
+  [
+   "2026-11-14T18:48:17.280187+09:00",
+   "메가스피드 비판 제재 경질론 지연에 러트닉 재무장관 상무부 공개"
   ]
  ],
- "last_run": "2026-11-14T18:46:35.532329+09:00",
+ "last_run": "2026-11-14T18:48:36.559368+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
