@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714989",
-  "https://www.etoday.co.kr/news/view/2647518",
-  "https://www.newspim.com/news/view/20261112000386",
-  "https://www.donga.com/news/Economy/article/all/20261112/135013350/1",
-  "https://www.edaily.co.kr/News/Read?newsId=04195126645645064&mediaCodeNo=257",
-  "https://www.edaily.co.kr/News/Read?newsId=03854006645645064&mediaCodeNo=257",
-  "https://www.news1.kr/finance/general-stock/6351904",
   "https://www.chosun.com/economy/tech_it/2026/11/12/RGHUD4IO75F23NHKA63G3DYXVM/",
   "https://www.edaily.co.kr/News/Read?newsId=03476806645645064&mediaCodeNo=257",
   "https://health.chosun.com/site/data/html_dir/2026/11/12/2026111201891.html",
@@ -2999,16 +2992,16 @@
   "https://www.mk.co.kr/article/12209127",
   "https://www.dt.co.kr/article/12095166",
   "https://www.yna.co.kr/view/AKR20261115021200017?input=1195m",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261115110454tZn"
+  "http://www.yonhapnewstv.co.kr/news/MYH20261115110454tZn",
+  "https://basketkorea.com/news/newsview.php?ncode=1065578609712647",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752286",
+  "http://www.efnews.co.kr/news/articleView.html?idxno=133974",
+  "https://www.sidae.com/article/2026111509022672274",
+  "https://www.joongangenews.com/news/articleView.html?idxno=563888",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846446&plink=ORI&cooper=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000346463?division=NAVER"
  ],
  "seen_titles": [
-  "[동서남북]AI시대에‘사람의가치’가오르는역설",
-  "[미국특징주]AI기업들,전직정보요원'모시기'경쟁...엔비디아사태...",
-  "젠슨황거취불확실해엔비디아'휘청'…美증시선물도끌어내려",
-  "[김세원의문화읽기]헌책의죽음",
-  "코딩할줄모르는데…AI만으로대기업수준게임뚝딱",
-  "'AI중앙은행장'젠슨황사퇴에세계기술기업'돈줄'긴장",
-  "AI판승자독식시작됐다…향후2년글로벌빅테크운명가른다",
   "[데일리픽]젠슨황사태일파만파…해킹정보거래시장확산",
   "'첩첩산중'코스피,젠슨황해임설·옵션만기'이중고'에3일만에하락",
   "[현장에서]AI동맹넘어'자강'으로…최태원SK의다음과제",
@@ -6001,7 +5994,14 @@
   "이번주금융법안심사재개하는정무위…연내쟁점법안처리속도낼까",
   "[人사이더]“젠슨황없이미래없다”…머스크·월가큰손까지복귀...",
   "[AI픽]\"AI가불꽃·연기분석\"…KT,산업단지화재안전강화",
-  "[이시각헤드라인]11월15일일요와이드(11시)"
+  "[이시각헤드라인]11월15일일요와이드(11시)",
+  "[BK프리뷰]‘제임스이탈’소노vs‘엘런슨복귀’DB,연승의주인...",
+  "영남이공대학교,청년취업지원우수사례2개부문수상...우수상·장려...",
+  "최태원회장\"AI시대,성장의선순환구조인'AI플라이휠'만들어가자...",
+  "SK최태원\"AI플라이휠로성장선순환구축\"",
+  "엔비디아17일실적에쏠린눈…젠슨황사임충격속삼성전자·SK하이...",
+  "미,슈퍼의결권논쟁가열…젠슨황퇴진으로'재점화'",
+  "[속보]코인원고객정보유출…비밀번호·주민번호까지해킹피해"
  ],
  "recent_sigs": [
   [
@@ -6625,7 +6625,7 @@
    "11시 일요와이드 15일 11월"
   ]
  ],
- "last_run": "2026-11-15T11:06:37.505783+09:00",
+ "last_run": "2026-11-15T11:08:31.378403+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
