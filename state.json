@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216244",
-  "https://www.bbc.com/korean/articles/c6d092my88ddo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.tokenpost.kr/news/ai/422197",
-  "https://www.aitimes.com/news/articleView.html?idxno=216150",
-  "https://www.aitimes.com/news/articleView.html?idxno=216158",
-  "https://www.aitimes.com/news/articleView.html?idxno=216160",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=706357",
   "https://www.aitimes.com/news/articleView.html?idxno=216132",
   "https://www.aitimes.com/news/articleView.html?idxno=216112",
   "https://www.aitimes.com/news/articleView.html?idxno=216105",
@@ -2999,16 +2992,16 @@
   "https://www.ajunews.com/view/20261115102924632",
   "https://www.ddaily.co.kr/page/view/2026111510245253683",
   "https://www.khan.co.kr/article/202611151049001",
-  "https://view.asiae.co.kr/article/2026111510401727122"
+  "https://view.asiae.co.kr/article/2026111510401727122",
+  "https://www.hidomin.com/news/articleView.html?idxno=729325",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005481",
+  "https://www.straightnews.co.kr/news/articleView.html?idxno=315383",
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=625307",
+  "https://www.mt.co.kr/tech/2026/11/15/2026111509385646040",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261115001049599",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=883296"
  ],
  "seen_titles": [
-  "美규제당국,오픈AI·앤트로픽AI안전성직접들여다본다",
-  "알트먼도기다리다환불…9년끈테슬라로드스터베일벗는다",
-  "9년늦은테슬라로드스터,공개앞두고커진의문…굳이필요할까?",
-  "엔비디아황CEO,중국AI기업과안전논의촉구",
-  "앤트로픽,3개월만에매출45%늘렸다…AI경쟁속'흑자성장'입증",
-  "오픈AI\"애플이직직원,미공개기기자료100건넘게유출\"주장",
-  "오픈AI핵심인프라총괄교체…사친카티11월퇴임,후임은누구?",
   "오픈AI,추론감시어려운'루프트랜스포머'적용모델안전확보에전...",
   "사우디국적직원,오픈AI사무실에'정교한'녹음장치설치혐의로기...",
   "마이클델“AI안전장치필요”…정부역할도언급",
@@ -6001,7 +5994,14 @@
   "삼성전자·SK하이닉스에'빚투'7조원집중…증시변동성확대우려",
   "[PHP비상]北라자루스,한국서버30곳노렸다…국가기관·금융표적",
   "“젠슨황복귀시켜라”…복귀청원10만명서명,주주·직원반발확산",
-  "북한해킹조직,전세계서버581곳노렸다…한국정부도겨냥"
+  "북한해킹조직,전세계서버581곳노렸다…한국정부도겨냥",
+  "'한일전12연패악몽'끊을까…한국야구,일본과APBC결승격돌",
+  "시흥아트센터,8년여정끝공식개관…지역문화예술새거점",
+  "격동속코스피…이번주美반도체·AI소식주목",
+  "라자루스,한국서버·도메인30곳표적…10개국216곳포함",
+  "KT,인천남동산단20개사에AI화재감지기105대구축",
+  "[기고]최고경영자가불륜에빠지는심리학적이유",
+  "유럽냉장고50도해킹에韓긴장…마트·병원보안안전할까?"
  ],
  "recent_sigs": [
   [
@@ -6595,9 +6595,17 @@
   [
    "2026-11-15T10:42:14.770636+09:00",
    "병행 활동 베네핏 ~KT 나은 동탄 교육 환경"
+  ],
+  [
+   "2026-11-15T10:54:22.781015+09:00",
+   "불륜에 이유 빠지는 최고경영자가 심리학적"
+  ],
+  [
+   "2026-11-15T10:54:22.781015+09:00",
+   "보안 유럽 긴장 해킹에 안전할까 마트 50도 냉장고 병원"
   ]
  ],
- "last_run": "2026-11-15T10:52:32.198181+09:00",
+ "last_run": "2026-11-15T10:54:45.112282+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
