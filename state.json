@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.slist.kr/news/articleView.html?idxno=781617",
-  "https://www.the-today.com/news/articleView.html?idxno=93550",
-  "https://www.edaily.co.kr/News/Read?newsId=02322246645645720&mediaCodeNo=257",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16276245",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=626846",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16276246",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611140009&t=NN",
-  "http://coinreaders.com/270158",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94169",
   "https://www.seoulfn.com/news/articleView.html?idxno=642842",
   "https://www.cbci.co.kr/news/articleView.html?idxno=626848",
   "https://www.lecturernews.com/news/articleView.html?idxno=213792",
@@ -2999,18 +2990,18 @@
   "https://www.dailian.co.kr/news/view/1715208/?sc=Naver",
   "https://www.delighti.co.kr/news/articleView.html?idxno=124964",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=902984",
-  "https://www.mt.co.kr/world/2026/11/15/2026111513390071195"
+  "https://www.mt.co.kr/world/2026/11/15/2026111513390071195",
+  "https://www.namdonews.com/news/articleView.html?idxno=929278",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752525",
+  "https://www.edaily.co.kr/News/Read?newsId=01859766645646048&mediaCodeNo=257",
+  "https://www.ajunews.com/view/20261113071127847",
+  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003280960&CMPT_CD=P0010",
+  "https://www.ajunews.com/view/20261115131321002",
+  "https://www.ajunews.com/view/20261115144111160",
+  "https://www.ajunews.com/view/20261115155844345",
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261115010005616"
  ],
  "seen_titles": [
-  "원익홀딩스주가껑충…새주향방은?",
-  "젠슨황스캔들파고들었더니…트럼프최측근아들들회사까지'도마'",
-  "비트코인7만달러붕괴에알트코인직격탄…레인-36%·비트웨이-32%·...",
-  "TCL,성수동서디스플레이·게임체험팝업운영",
-  "中트랙터,오차2.5㎝까지줄였다…위성항법·스마트농기계기술가속",
-  "젠슨황퇴진에엔비디아흔들…인텔,한국AI기업23곳과손잡았다",
-  "엔비디아차기CEO로르네하스부상…직원들은\"젠슨황복귀\"요구",
-  "[속보]미국뉴욕증시반도체주부진…AMD8.75%·마이크론2.52%하락,메...",
-  "젠슨황사임,AI산업'돈줄'흔들리나…삼성전자·SK하이닉스HBM수요...",
   "\"앨리스황,中국가안전부소속…유사임무女요원더있다\"",
   "이더리움2,000달러무너졌다…美물가충격·AI주식급락에매도세확...",
   "[뉴욕증시주간]3대지수2%대동반상승…엔비디아는CEO사임에13%가...",
@@ -6001,7 +5992,16 @@
   "[데일리안오늘뉴스종합]靑,'세무사시험AI부정행위'에\"매우엄중...",
   "최태원회장\"AI플라이휠로성장이성장을이끄는선순환구조구축해...",
   "젠슨황떠난엔비디아…삼성전자웃고,SK하이닉스울게될까",
-  "\"엔비디아의해자는'젠슨황'\"…AI제국흔든'사람'의역설"
+  "\"엔비디아의해자는'젠슨황'\"…AI제국흔든'사람'의역설",
+  "[남도일보,리얼미터무안군민여론조사]어떻게조사했나?",
+  "김용판달서구청장,4개기관과사회보장급여업무협약...조사·관리협...",
+  "[기자수첩]지금불륜이문제가아닙니다",
+  "[아주증시포커스]\"젠슨황해임논의\"소식에엔비디아8%대급락…K-반...",
+  "\"없을땐어떻게일했지?\"AI에쓴정치자금1년만에9배",
+  "젠슨황이탈에삼성·SK·현대차·LG등'멘붕'…AI전략손익계산분...",
+  "재무개선끝낸SK,리밸런싱2.0선언...주력계열사'AI비즈니스'행...",
+  "[APEC정상회의]관세완화·유가안정은'기회'…반도체규제·LNG수급...",
+  "[취재후일담]금융권해킹…안일한대처가피해키웠다"
  ],
  "recent_sigs": [
   [
@@ -6583,9 +6583,17 @@
   [
    "2026-11-15T18:02:16.386416+09:00",
    "매우 세무사 부정행위 시험 엄중"
+  ],
+  [
+   "2026-11-15T18:04:16.622222+09:00",
+   "개선 끝낸 SK 비즈니스 선언 재무 계열사 리밸런싱 주력"
+  ],
+  [
+   "2026-11-15T18:04:16.622222+09:00",
+   "안일한 금융권 피해 대처가 키웠다"
   ]
  ],
- "last_run": "2026-11-15T18:02:37.651755+09:00",
+ "last_run": "2026-11-15T18:04:39.134462+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
