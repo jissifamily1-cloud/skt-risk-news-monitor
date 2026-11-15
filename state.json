@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://econotimes.com/Alibaba-s-Code-Review-Tool-Uses-Fewer-Tokens-but-Catches-Fewer-Issues-1777015",
-  "https://www.kpanews.co.kr/news/articleView.html?idxno=548855",
-  "https://www.etoday.co.kr/news/view/2648231",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=92027",
-  "http://www.press9.kr/news/articleView.html?idxno=86317",
-  "https://www.joongangenews.com/news/articleView.html?idxno=563879",
-  "https://www.newscj.com/news/articleView.html?idxno=3448775",
-  "https://economist.co.kr/article/view/ecn202611150002",
   "https://www.straightnews.co.kr/news/articleView.html?idxno=315374",
   "https://biz.chosun.com/stock/finance/2026/11/15/MYYVLYFID5HSNHW3N6JAVGQJH4/",
   "https://www.yna.co.kr/view/AKR20261112090300017?input=1195m",
@@ -2999,17 +2991,17 @@
   "https://www.tokenpost.kr/news/economy/438754",
   "https://www.econovill.com/news/articleView.html?idxno=757317",
   "https://www.mt.co.kr/society/2026/11/16/2026111608150392947",
-  "http://www.breaknews.com/1251127"
+  "http://www.breaknews.com/1251127",
+  "https://www.catchnews.kr/news/articleView.html?idxno=130528",
+  "https://biz.chosun.com/stock/stock_general/2026/11/16/I5EZKWAWKVE5HPGL6QE35EYUY4/",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=883463",
+  "http://www.legaltimes.co.kr/news/articleView.html?idxno=96940",
+  "https://www.joongangenews.com/news/articleView.html?idxno=563941",
+  "https://www.ajunews.com/view/20261116082724036",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/16/2026111650020.html",
+  "https://www.newspim.com/news/view/20261116000036"
  ],
  "seen_titles": [
-  "KT텔레캅,창립20주년맞아AX보안기업도약선언",
-  "삼성전자,메모리부터가전까지'CES2027'서19개혁신상수상",
-  "Alibaba'sCodeReviewToolUsesFewerTokensbutCatchesFewerIssues",
-  "[약국에서바로쓰는AI]약국에놓는QR브로셔만들기…복약정보안내...",
-  "LG에너지솔루션,미국서ESS신기술공개⋯북미에너지시장공략",
-  "LG에너지솔루션,북미최대신재생에너지전시회참가…AI데이터센터...",
-  "최태원,SKAI사업확장주문…반도체넘어서비스까지연결한다",
-  "최태원SK회장,반도체·인프라·에너지잇는'AI플라이휠'승부수…전...",
   "최태원\"AI반도체서서비스까지연결\"…SK성장선순환주문",
   "\"젠슨황돌아와요\"…엔비디아주주·직원,복직요구에온라인청원까...",
   "젠슨황복귀요구확산…엔비디아주주·직원가세,첩보의혹은조사...",
@@ -6001,7 +5993,15 @@
   "[국제금융브리핑]엔비디아실적·앤트로픽상장시험대...연준금리인...",
   "박현주미래에셋회장,젠슨황복귀청원동참…글로벌CEO들도가세",
   "무속인노슬비\"김정은2년안에사망,틀리면1000만원\"",
-  "‘국가지도자’든‘기업CEO’든소인배가정치·경영하면안되는이..."
+  "‘국가지도자’든‘기업CEO’든소인배가정치·경영하면안되는이...",
+  "11월13일주식시장주요공시",
+  "李간담회에도코스닥정책효과는미지수…SK證“수요회복판단일러...",
+  "토스,통신마이데이터전문기관지정…맞춤형요금제추천",
+  "[2026BestLawFirmsinKorea]법무법인한누리",
+  "젠슨황,사임나흘만에엔비디아복귀시동…머스크등실리콘밸리거...",
+  "[마켓프리뷰]젠슨황여진속AI·외교슈퍼위크'개막'…코스피,불확...",
+  "[속보]삼전닉스,프리마켓서소폭상승…엔비디아실적·앤트로픽상...",
+  "[특징주]美반도체주출렁…'삼전닉스'프리마켓동반하락"
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,17 @@
   [
    "2026-11-16T08:34:22.308281+09:00",
    "정치 되는 기업 소인배가 경영하면 지도자 국가 CEO"
+  ],
+  [
+   "2026-11-16T08:36:16.696939+09:00",
+   "한누리 법무법인"
+  ],
+  [
+   "2026-11-16T08:36:16.696939+09:00",
+   "출렁 삼전닉스 하락 프리마켓 동반 반도체주"
   ]
  ],
- "last_run": "2026-11-16T08:34:42.140006+09:00",
+ "last_run": "2026-11-16T08:36:40.576257+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
