@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1311826",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/15/2026111550014.html",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611150921154850078",
-  "https://www.businessplus.kr/news/articleView.html?idxno=119878",
-  "https://www.gpkorea.com/news/articleView.html?idxno=148620",
-  "https://www.seoulfn.com/news/articleView.html?idxno=642849",
   "https://it.chosun.com/news/articleView.html?idxno=3000000001065",
   "https://www.newsis.com/view/NISX20261115_0003868365",
   "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308040",
@@ -2999,15 +2993,15 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000082961",
   "http://www.kjdaily.com/article.php?aid=1794785166692348276",
   "https://www.newspim.com/news/view/20261116000101",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=318998"
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=318998",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94249",
+  "https://biz.sbs.co.kr/article_hub/20000346559?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000346562?division=NAVER",
+  "https://biz.sbs.co.kr/article_hub/20000346561?division=NAVER",
+  "https://www.bntnews.co.kr/article/view/bnt202611160102",
+  "https://www.etoday.co.kr/news/view/2648392"
  ],
  "seen_titles": [
-  "KT,남동산단에AI화재안전서비스적용…산업현장화재예방강화",
-  "北연계해킹조직라자루스,국내주요산업서버30곳공격표적삼아",
-  "[오늘의일정]11월15일일요일스포츠경기",
-  "삼성전자,'CES2027'혁신상19개수상...최고혁신상4개",
-  "LG엔솔·삼성SDI,美최대에너지전시회참가…ESS·AI데이터센터배터...",
-  "LG에너지솔루션,美RE+서AI데이터센터통합전력솔루션공개",
   "LG엔솔,美RE+2026서AI데이터센터통합전력솔루션공개",
   "LG엔솔,AI데이터센터전력시장정조준···에너지기업변신가속",
   "[젠슨황스캔들]'젠슨황복귀'요구확산…온라인청원11만명참여",
@@ -6001,7 +5995,13 @@
   "'젠슨황쇼크'딛고반등할까…엔비디아실적·앤트로픽상장에쏠린...",
   "[오늘증시전망]엔비디아실적주목",
   "[모닝리포트]\"외국인자금이탈에환율상승,1330원대반등전망\"",
-  "\"방미통위,'YTN정상화'이재명정부의약속지켜야\""
+  "\"방미통위,'YTN정상화'이재명정부의약속지켜야\"",
+  "토스,사기업첫통신마이데이터전문기관지정…맞춤형요금제추천...",
+  "[굿모닝마켓]주간기준상승세…주초AI반도체저가매수세",
+  "[투자자순매수TOP5]외국인수급엇갈려…삼성전자순매수·SK하이닉스...",
+  "[어제장오늘장]전강후약코스피…젠슨황쇼크딛고분위기전환할까",
+  "‘미션산타’보도스틸12종공개",
+  "中AI칩우회로막으랬더니⋯러트닉,가족기업고객사규제완화추진..."
  ],
  "recent_sigs": [
   [
@@ -6539,9 +6539,13 @@
   [
    "2026-11-16T08:30:32.521626+09:00",
    "YTN 약속 이재명 정상화 지켜야 정부의"
+  ],
+  [
+   "2026-11-16T08:32:16.534197+09:00",
+   "완화 막으랬더니 규제 러트닉 가족기업 AI칩 고객사 우회로"
   ]
  ],
- "last_run": "2026-11-16T08:30:57.302682+09:00",
+ "last_run": "2026-11-16T08:32:32.103122+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
