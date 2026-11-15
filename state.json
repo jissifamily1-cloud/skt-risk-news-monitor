@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611061453246000103317",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715505",
-  "https://economist.co.kr/article/view/ecn202611140001",
-  "https://www.thepublic.kr/news/articleView.html?idxno=326614",
-  "https://www.kizmom.com/news/articleView.html?idxno=113952",
   "https://www.boannews.com/news/articleView.html?idxno=147262",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488846",
   "https://www.tokenpost.kr/news/ai/438131",
@@ -2999,14 +2994,14 @@
   "https://www.newsis.com/view/NISX20261115_0003868672",
   "https://www.tokenpost.kr/news/breaking/438650",
   "https://www.gokorea.kr/news/articleView.html?idxno=885672",
-  "https://view.asiae.co.kr/article/2026111314391974839"
+  "https://view.asiae.co.kr/article/2026111314391974839",
+  "https://www.news1.kr/sports/basketball/6354575",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885680",
+  "https://news.tf.co.kr/read/economy/2388984.htm",
+  "https://news.jtbc.co.kr/article/NB12328162?influxDiv=NAVER",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885683"
  ],
  "seen_titles": [
-  "제일기획·이노션하락에도디지털광고주는화색…엇갈린광고주",
-  "구글·삼성·젠틀몬스터협업'인텔리전트아이웨어'공개",
-  "KAI·인니PTDI,KF-21부터민항기까지협력범위확대",
-  "[더벨]SK하이닉스자회사,플랜B가동'현지공략속도'",
-  "비트코인하루4%하락…미국PPI둔화에도6만8000달러대머물러",
   "엔비디아또,'스캔들이후13%급락'시총4조달러아래로",
   "'스파이의혹불륜'젠슨황사임…美·中반도체갈등폭발?",
   "엔비디아주가급락에1000억담았다…서학개미'젠슨황사임'에도매수",
@@ -6001,7 +5996,12 @@
   "프로농구소노,DB꺾고3연승…KCC·LG도나란히미소(종합)",
   "베선트,메가스피드수출통제명단지연책임을상무부에돌렸다",
   "젠슨황퇴진,실리콘밸리충격파...중국심리전설에숨어있는진실은...",
-  "美AI데이터센터규제오해와진실…\"짓지말라아닌돈더내라\""
+  "美AI데이터센터규제오해와진실…\"짓지말라아닌돈더내라\"",
+  "'허훈위닝샷'KCC,가스공사에극적인역전승…5연승신바람",
+  "2차개인정보유출사고,중기부'모두의창업'프로젝트보안논란확산",
+  "박현주미래에셋회장,'젠슨황복귀청원'동참…\"투자자보호차원\"",
+  "'한국정보'노리는북해킹조직…국내서버30곳공격시도",
+  "금융보안원해킹,246개IP차단…한국발공격가능성에금융권긴장"
  ],
  "recent_sigs": [
   [
@@ -6615,9 +6615,13 @@
   [
    "2026-11-15T19:04:17.966619+09:00",
    "짓지 말라 데이터센터 진실 오해와 아닌 규제 내라"
+  ],
+  [
+   "2026-11-15T19:06:16.025820+09:00",
+   "IP 공격 한국발 금융권 금융보안원 차단 246개 긴장 가능성에"
   ]
  ],
- "last_run": "2026-11-15T19:04:36.817185+09:00",
+ "last_run": "2026-11-15T19:06:34.698887+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
