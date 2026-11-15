@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/202610281641i",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5227455",
-  "https://www.kukinews.com/article/view/kuk202610270242",
-  "https://www.sedaily.com/article/20106359",
   "https://www.mk.co.kr/article/12185866",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2484334",
   "https://sports.donga.com/it/article/all/20261025/134903032/1",
@@ -2999,13 +2995,13 @@
   "https://www.viva100.com/article/20261114500186",
   "https://www.newsis.com/view/NISX20261115_0003868359",
   "http://www.srtimes.kr/news/articleView.html?idxno=217599",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504132"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504132",
+  "https://www.ggilbo.com/news/articleView.html?idxno=1192471",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=447199",
+  "https://www.ekn.kr/web/view.php?key=20261115028479641",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=626950"
  ],
  "seen_titles": [
-  "[가보니]CCTV안봐도낙상위험감지…AI가돕는요양원",
-  "앱등이도등돌린'삼성VS애플'대전...아이폰듀오는'망작'?",
-  "삼성전자,가성비AI스마트폰'갤럭시A18LTE'국내출시",
-  "아이폰'크랙게이트'논란에갤폴드8반격...지원금10만원늘렸다",
   "삼성전자,42만원대'갤럭시A18LTE'출시…AI·대화면갖춰",
   "여야통신기록요구에이통3사'진퇴양난'…\"기준부터세워달라\"",
   "소니네트워크커뮤니케이션즈해킹...258만고객개인정보유출",
@@ -6001,7 +5997,11 @@
   "[주간증시전망]‘젠슨황리스크’에반등꺾인코스피…엔비디아실적...",
   "젠슨황복귀온라인서명운동..직원들과\"스탠드위드젠슨\"앞장",
   "\"한국IP대역유망\"…北해킹조직라자루스,국내정부·금융서버30곳...",
-  "KT,인천남동산단에AI기반화재감지시스템구축"
+  "KT,인천남동산단에AI기반화재감지시스템구축",
+  "SK하이닉스,반도체안전·보안국제인증획득…자율주행·로봇시장...",
+  "KT,인천남동산단에'세이프메이트화재감지기'구축",
+  "‘젠슨황없는’엔비디아실적에쏠린눈[주간증시]",
+  "[AI결제]오픈AI,가상지갑'챗GPT월렛'공개...비자·마스터·아메리..."
  ],
  "recent_sigs": [
   [
@@ -6447,9 +6447,13 @@
   [
    "2026-11-15T09:20:26.368790+09:00",
    "시스템 남동산단에 ~KT 화재감지 기반 인천 구축"
+  ],
+  [
+   "2026-11-15T09:22:16.177849+09:00",
+   "아메리 공개 월렛 챗GPT 비자 마스터 지갑 가상"
   ]
  ],
- "last_run": "2026-11-15T09:20:47.722789+09:00",
+ "last_run": "2026-11-15T09:22:33.250052+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
