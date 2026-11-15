@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/industry/company/2026/11/15/TRJSN665CJF65JV4UUH7R5DT24/",
-  "https://www.ajunews.com/view/20261114224053453",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/15/2026111550022.html",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/15/2026111550024.html",
-  "https://www.dt.co.kr/article/12095151",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=300935",
-  "https://www.nocutnews.co.kr/news/6606964",
-  "https://www.khan.co.kr/article/202611151013001",
   "http://weekly.chosun.com/news/articleView.html?idxno=57134",
   "https://www.edaily.co.kr/News/Read?newsId=01338246645646048&mediaCodeNo=257",
   "https://kookbang.dema.mil.kr/newsWeb/20261116/6/ATCE_CTGR_0010030000/view.do",
@@ -2999,17 +2991,17 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=447230",
   "https://hbnpress.com/news/view/1065569814774796",
   "https://www.youthdaily.co.kr/news/article.html?no=229853",
-  "https://economist.co.kr/article/view/ecn202611160001"
+  "https://economist.co.kr/article/view/ecn202611160001",
+  "https://www.sentv.co.kr/article/view/sentv202611160017",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281323",
+  "https://www.econovill.com/news/articleView.html?idxno=757329",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504316",
+  "https://www.newsis.com/view/NISX20261116_0003869041",
+  "https://www.kwnews.co.kr/article/20261116500046",
+  "https://www.wikitree.co.kr/articles/1174868",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173208"
  ],
  "seen_titles": [
-  "[뉴스+]삼성SDI·LG엔솔,美ESS시장서격돌…AI데이터센터전력수요...",
-  "빚투'30%삼전·닉스에쏠려…증시변동성더키웠다",
-  "최태원SK회장“AI플라이휠로성장이다음성장을만들어야”",
-  "'토큰최적화'로B2B시장노린다…LGU+\"이론적효율넘어실전검증마...",
-  "현대백화점,챗GPT로AI쇼핑영토확장…상품추천부터구매까지연결",
-  "현대백화점그룹AI로유통혁신가속…현대홈쇼핑,업계최초'100%AI...",
-  "삼전닉스‘빚투’에7조몰렸다…증시변동성키우나",
-  "최태원회장\"'AI플라이휠'로선순환성장구조창출\"",
   "최태원\"AI플라이휠로성장선순환…AI반도체넘어서비스까지\"",
   "코딩AI비용최대90%‘뚝’…LG유플러스,‘토큰절감’사업뛰어든...",
   "머스크\"젠슨황없으면핵심계약날아간다\"…복귀청원11만명",
@@ -6001,7 +5993,15 @@
   "KT,PASS로경찰청교통과태료모바일전자고지서비스시행",
   "젠슨황,엔비디아경영복귀시도...베선트\"외부에서새CEO찾아야\"",
   "\"투자자보호필요\"...박현주회장,'젠슨황복귀청원'참여",
-  "[속보]젠슨황,엔비디아CEO복귀논의…백악관설득"
+  "[속보]젠슨황,엔비디아CEO복귀논의…백악관설득",
+  "기보,中企2차AX진단착수…“결과는지원정책설계에반영”",
+  "라젠카에이아이,금융감독원'테크파인더쇼케이스2026'참여기업선정",
+  "AI데이터센터를공장에서만든엘리스그룹\"인터넷대상대통령상품었...",
+  "SK증권\"코스닥일주일새9.5%폭등…기관8100억원쓸어담았다\"",
+  "채정환씨이랩대표,'디지털이노베이션어워드'부총리표창",
+  "[속보]젠슨황,엔비디아CEO사임나흘만에복귀추진…실리콘밸리...",
+  "젠슨황이'엔비디아복귀'를위해나섰다는소식이전해졌다",
+  "전세계시총1위애플,다음승부수는'스마트안경'?"
  ],
  "recent_sigs": [
   [
@@ -6627,9 +6627,13 @@
   [
    "2026-11-16T08:54:15.524799+09:00",
    "쇼크 부정시험 코앞 수능대책 있나"
+  ],
+  [
+   "2026-11-16T08:58:20.912223+09:00",
+   "시총 스마트 전세계 1위 다음 승부수는 애플 안경"
   ]
  ],
- "last_run": "2026-11-16T08:56:30.145744+09:00",
+ "last_run": "2026-11-16T08:58:37.316475+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
