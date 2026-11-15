@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54764",
-  "https://www.slist.kr/news/articleView.html?idxno=781826",
-  "https://biz.chosun.com/it-science/ict/2026/11/15/ENK2X7SDIREC3A3FOT7SQRCHHA/",
   "https://view.asiae.co.kr/article/2026111313373714062",
   "https://www.newsis.com/view/NISX20261113_0003867740",
   "https://daily.hankooki.com/news/articleView.html?idxno=1425016",
@@ -2999,12 +2996,12 @@
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560101",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160014&t=NN",
   "https://www.dailian.co.kr/news/view/1715296/?sc=Naver",
-  "https://www.dt.co.kr/article/12095312"
+  "https://www.dt.co.kr/article/12095312",
+  "https://www.hankyung.com/article/2026111679306",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147092",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=627132"
  ],
  "seen_titles": [
-  "[LG유플토큰인사이트]AI에이전트시대,토큰비용잡아라…LG유플러...",
-  "중국산AI서검열·편향걷어내서방에되판다…‘AI개조’틈새시장...",
-  "스파이잡는방첩전문가,AI시대최고인기직무로급부상",
   "더현대하이,AI맞춤쇼핑확대...\"챗GPT가백화점퍼스널쇼퍼로\"",
   "[인터뷰]박중서TI코리아대표“AI데이터센터발공급압박,메모리넘...",
   "\"토큰총비용낮출것\"…LGU+토큰최적화로기업고객공략",
@@ -6001,7 +5998,10 @@
   "베선트美재무장관“젠슨황후임,엔비디아밖에서찾아야”",
   "'젠슨과함께'외친16만명...엔비디아이사회정조준[마켓무버의국...",
   "\"젠슨황이뚫어준中AI뒷문…동남아데이터센터,반도체밀수거점으...",
-  "엔비디아파문,트럼프·시진핑정상회담의새로운변수로부상"
+  "엔비디아파문,트럼프·시진핑정상회담의새로운변수로부상",
+  "\"삼성전자,'연산하는메모리'가주가재평가열쇠\"-LS",
+  "FT\"젠슨황,엔비디아CEO복귀논의중\"",
+  "챗GPT가직접결제하는시대…오픈AI,지갑서비스공개"
  ],
  "recent_sigs": [
   [
@@ -6371,9 +6371,13 @@
   [
    "2026-11-16T07:36:17.289573+09:00",
    "트럼프 변수로 부상 파문 정상회담의 새로운 시진핑"
+  ],
+  [
+   "2026-11-16T07:38:14.908899+09:00",
+   "챗GPT가 결제하는 지갑 서비스 직접 시대 공개"
   ]
  ],
- "last_run": "2026-11-16T07:36:36.023136+09:00",
+ "last_run": "2026-11-16T07:38:33.948403+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
