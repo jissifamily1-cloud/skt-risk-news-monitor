@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gokorea.kr/news/articleView.html?idxno=885595",
-  "https://www.gokorea.kr/news/articleView.html?idxno=885599",
   "https://www.bbc.com/korean/articles/c6792n577rglo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082663",
   "https://www.gokorea.kr/news/articleView.html?idxno=885596",
@@ -2999,11 +2997,11 @@
   "https://www.insight.co.kr/news/582129",
   "https://news.jtbc.co.kr/article/NB12328167?influxDiv=NAVER",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488846",
-  "https://www.tokenpost.kr/news/ai/438131"
+  "https://www.tokenpost.kr/news/ai/438131",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3752630",
+  "https://news.jtbc.co.kr/article/NB12328172?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "'절호의찬스'...서학개미,엔비디아주가급락에한주새1000억'폭풍...",
-  "엔비디아스캔들파문,기술주불안감고조된뉴욕증시혼조마감",
   "젠슨황사임후폭풍,엔비디아CEO후보에암의러네이하스거론되나",
   "트럼프,아시아외교무대에복귀하다:미중협력과김정은만남성사될...",
   "젠슨황떠난엔비디아,5천억달러AI금융지원계획'불확실성'직면",
@@ -6001,7 +5999,9 @@
   "젠슨황\"당신이죽어줬으면\"...엔비디아임원들에충격폭언",
   "머스크도\"젠슨황돌아와\"…엔비디아내부선추가폭로",
   "영상통화시대열고23년만에퇴장···굿바이'3G'",
-  "중단지시뒤최대35초…오픈AI연구모델·3사통제지점달라"
+  "중단지시뒤최대35초…오픈AI연구모델·3사통제지점달라",
+  "윤용근,공주·부여·부산잇따라방문…주말현장소통",
+  "해킹아닌'통신망교체'때문에?…미국하늘길멈춘이유"
  ],
  "recent_sigs": [
   [
@@ -6619,9 +6619,13 @@
   [
    "2026-11-15T19:08:16.010043+09:00",
    "젠슨 폭로 머스크도 내부선 추가 돌아와"
+  ],
+  [
+   "2026-11-15T19:12:16.293153+09:00",
+   "미국 아닌 하늘길 이유 때문에 교체 통신망 멈춘"
   ]
  ],
- "last_run": "2026-11-15T19:10:44.215585+09:00",
+ "last_run": "2026-11-15T19:12:37.388847+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
