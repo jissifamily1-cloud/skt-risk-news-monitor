@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sisain.co.kr/news/articleView.html?idxno=58759",
-  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54695",
-  "https://www.wikitree.co.kr/articles/1173217",
-  "https://m.skyedaily.com/news_view.html?ID=314288",
-  "http://coinreaders.com/268534",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242774",
-  "https://www.g-enews.com/view.php?ud=202611091056531112fbbec65dfb_1",
-  "https://www.fnnews.com/news/202611091003113743",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443716",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4443693",
   "https://economychosun.com/site/data/html_dir/2026/11/02/2026110200016.html",
   "https://www.ziksir.com/news/articleView.html?idxno=152363",
   "https://www.seoul.co.kr/news/economy/industry/2026/11/09/20261109001004?wlog_tag3=naver",
@@ -2999,19 +2989,19 @@
   "https://biz.heraldcorp.com/article/10937355",
   "https://www.businessplus.kr/news/articleView.html?idxno=119882",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000082766",
-  "https://biz.chosun.com/industry/company/2026/11/15/TRJSN665CJF65JV4UUH7R5DT24/"
+  "https://biz.chosun.com/industry/company/2026/11/15/TRJSN665CJF65JV4UUH7R5DT24/",
+  "https://www.ajunews.com/view/20261114224053453",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/15/2026111550022.html",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/15/2026111550024.html",
+  "https://www.dt.co.kr/article/12095151",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=300935",
+  "https://www.nocutnews.co.kr/news/6606964",
+  "https://www.khan.co.kr/article/202611151013001",
+  "http://weekly.chosun.com/news/articleView.html?idxno=57134",
+  "https://www.edaily.co.kr/News/Read?newsId=01338246645646048&mediaCodeNo=257",
+  "https://kookbang.dema.mil.kr/newsWeb/20261116/6/ATCE_CTGR_0010030000/view.do"
  ],
  "seen_titles": [
-  "AI에이전트가정부시스템무단침입…호주,AI사고신고의무화·독립...",
-  "[뉴스의2면]AI‘스타CEO’들이‘위험요인’으로",
-  "카리스마의덫…빅테크'1인왕국'의균열",
-  "극심한변동성속에서도IPO강행하는앤트로픽...왜?",
-  "데이터센터발목잡힌美빅테크들,한국으로몰려온다",
-  "“불륜스캔들에도살아남을까”…젠슨황유임가능성반반",
-  "젠슨황스캔들로드러난‘핵심인물리스크’…“축복이자저주”",
-  "AI가인류를멸망시킬까요?제가공부해봤습니다",
-  "해고는미국식,다툼은한국식…AI감원이바다건너꼬인까닭",
-  "상장미루겠다는오픈AI,S-1낸앤트로픽은AI덕에개발속도2배로",
   "[권희춘의인공지능세상]AI강국의조건,반도체넘어전력으로",
   "톰리\"암호화폐강세장,이제시작\"...이더리움(ETH)5만달러도달론...",
   "[위크픽클라우드]美선거여파로AIDC규제확산…엔비디아메디슨황...",
@@ -6001,7 +5991,17 @@
   "LG엔솔,RE+2026서‘통합에너지설루션’선봬…에너지플랫폼기업...",
   "[뉴스+]삼성SDI·LG엔솔,美ESS시장서격돌…AI데이터센터전력수요...",
   "빚투'30%삼전·닉스에쏠려…증시변동성더키웠다",
-  "최태원SK회장“AI플라이휠로성장이다음성장을만들어야”"
+  "최태원SK회장“AI플라이휠로성장이다음성장을만들어야”",
+  "'토큰최적화'로B2B시장노린다…LGU+\"이론적효율넘어실전검증마...",
+  "현대백화점,챗GPT로AI쇼핑영토확장…상품추천부터구매까지연결",
+  "현대백화점그룹AI로유통혁신가속…현대홈쇼핑,업계최초'100%AI...",
+  "삼전닉스‘빚투’에7조몰렸다…증시변동성키우나",
+  "최태원회장\"'AI플라이휠'로선순환성장구조창출\"",
+  "최태원\"AI플라이휠로성장선순환…AI반도체넘어서비스까지\"",
+  "코딩AI비용최대90%‘뚝’…LG유플러스,‘토큰절감’사업뛰어든...",
+  "머스크\"젠슨황없으면핵심계약날아간다\"…복귀청원11만명",
+  "'대체불가'젠슨황…‘20년래가장어려운후임'찾기",
+  "사이버보안강화…‘해킹방어’기량겨뤘다"
  ],
  "recent_sigs": [
   [
@@ -6567,9 +6567,17 @@
   [
    "2026-11-15T10:10:27.384737+09:00",
    "봇물 핵심 떠나면 머스크까지 그가 이어 구하기 황일병 서명운동"
+  ],
+  [
+   "2026-11-15T10:16:15.698659+09:00",
+   "가장 어려운 대체 20년래 찾기 젠슨황 후임 불가"
+  ],
+  [
+   "2026-11-15T10:16:15.698659+09:00",
+   "강화 사이버보안 기량 겨뤘다 방어"
   ]
  ],
- "last_run": "2026-11-15T10:14:32.063208+09:00",
+ "last_run": "2026-11-15T10:16:34.056947+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
