@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261112_0003864973",
-  "https://www.newspim.com/news/view/20261112000162",
-  "https://www.ajunews.com/view/20261112091950086",
-  "http://www.the-biz.co.kr/news/articleView.html?idxno=731222",
-  "https://www.viva100.com/article/20261112500298",
-  "https://www.news1.kr/finance/market-exr/6351432",
-  "https://www.seoulfn.com/news/articleView.html?idxno=642601",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708807",
   "https://www.mk.co.kr/article/12204014",
   "https://www.idaegu.com/news/articleView.html?idxno=666866",
   "https://www.mt.co.kr/stock/2026/11/10/2026111013305120344",
@@ -2999,17 +2991,17 @@
   "https://www.sedaily.com/article/20114392",
   "http://www.datanews.co.kr/news/article.html?no=147596",
   "https://biz.sbs.co.kr/article_hub/20000346466?division=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=01416966645646048&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01416966645646048&mediaCodeNo=257",
+  "https://view.asiae.co.kr/article/2026111510044145718",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1731692",
+  "https://www.etoday.co.kr/news/view/2648264",
+  "https://www.seoulfn.com/news/articleView.html?idxno=642857",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=887201",
+  "https://www.hani.co.kr/arti/economy/marketing/1287366.html",
+  "https://biz.heraldcorp.com/article/10937387",
+  "https://www.ajunews.com/view/20261115111028762"
  ],
  "seen_titles": [
-  "엔비디아,젠슨황거취불확실성에'휘청'…시간외8%급락",
-  "“젠슨황의장으로남겨야”…해임설에실리콘밸리‘구명운동’",
-  "美AI훈풍vs차익실현…코스피,0.20%오른5380선출발",
-  "코어위브날고엔비디아흔들…코스피,경계감팽팽",
-  "[개장]코스피0.7%상승…이틀급등에장초반눈치보기",
-  "[국제금융브리핑]AI기업실적·투자수요에반도체주급등...필라델피...",
-  "[특징주]AI호재에도반도체주상승제한…젠슨황해임설부담",
-  "코스피,장초반5400선회복…'젠슨황해임설'에변동성장세",
   "[모닝리포트]\"국내증시,이틀간급등에도반등여력여전\"",
   "[개장시황]엔비디아리스크·코어위브호실적에혼조…삼전닉스상승세",
   "코스피,美반도체훈풍에도강보합…코스닥700선위태",
@@ -6001,7 +5993,15 @@
   "KT,인천남동산단에AI화재감지기구축…산업안전서비스확대",
   "KT,인천남동산단20개기업에AI화재감지기105대설치",
   "젠슨황불륜파문에'엔비디아발상지'명판철거…논란일자복원",
-  "엔비디아,기업소송보험없어…황퇴진후법적부담커지나"
+  "엔비디아,기업소송보험없어…황퇴진후법적부담커지나",
+  "한국롤드컵독주끝났다…젠지,중국BLG에패해준우승",
+  "LGU+,내년'AI토큰최적화'사업진출…기업AI비용낮춘다",
+  "현대百그룹,챗GPT로손님끌고AI로방송만든다…유통혁신가속",
+  "삼성전자,CES2027혁신상19개휩쓸어···최고혁신상4개",
+  "최태원\"반도체넘어서비스로…AI플라이휠구축해야\"",
+  "최태원“기존사업틀깨고AI기업으로재정의해야”",
+  "“젠슨황복귀시켜라”청원10만명돌파…머스크도서명했다",
+  "\"젠슨황돌려달라\"…11만명들고일어난엔비디아"
  ],
  "recent_sigs": [
   [
@@ -6635,9 +6635,13 @@
   [
    "2026-11-15T11:14:15.872314+09:00",
    "소송 법적 퇴진 기업 없어 보험 부담 커지나"
+  ],
+  [
+   "2026-11-15T11:16:14.672163+09:00",
+   "돌려달라 11만명 젠슨 들고일어난"
   ]
  ],
- "last_run": "2026-11-15T11:14:37.110059+09:00",
+ "last_run": "2026-11-15T11:16:32.372938+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
