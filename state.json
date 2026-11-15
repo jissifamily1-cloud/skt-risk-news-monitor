@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026111313030004893?did=NA",
-  "http://weekly.chosun.com/news/articleView.html?idxno=57076",
-  "https://www.xportsnews.com/article/2219342",
-  "https://www.donga.com/news/Society/article/all/20261113/135022468/2",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019747",
-  "http://www.osen.co.kr/article/G1112909473",
-  "https://www.cstimes.com/news/articleView.html?idxno=727893",
-  "https://www.chosun.com/sports/baseball/2026/11/14/IB6TNPUKB5B5XF3RRTLIXXVFJM/",
-  "https://www.mediapen.com/news/view/1137458",
-  "http://www.spochoo.com/news/articleView.html?idxno=132093",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=625190",
   "https://www.topstarnews.net/news/articleView.html?idxno=16276144",
   "https://www.newsq.co.kr/news/articleView.html?idxno=500889",
@@ -2999,19 +2989,19 @@
   "https://dealsite.co.kr/articles/172678",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504128",
   "https://www.ddaily.co.kr/page/view/2026111509030426341",
-  "https://www.edaily.co.kr/News/Read?newsId=01193926645646048&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=01193926645646048&mediaCodeNo=257",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019897",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=626984",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082684",
+  "https://news.dealsitetv.com/articles/178611",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326727",
+  "https://www.donga.com/news/Inter/article/all/20261115/135024964/2",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326775",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768191",
+  "https://www.insight.co.kr/news/582095",
+  "http://www.newsbrite.net/news/articleView.html?idxno=201487"
  ],
  "seen_titles": [
-  "LG유플러스,유럽카테나-X와협력...제조기업지원확대",
-  "LG유플러스,글로벌자동차데이터망연계…국내제조기업진출지원",
-  "'류현진쓴소리잊었나'...1년전'23사사구자멸'→대체뭐가달라졌나...",
-  "[단독]'KS우승'삼성박진만감독,역대3호'30억원사령탑'된다!…기...",
-  "[안병익의노포기행]줄서먹는79년역사화상중식당,외대'영화장'",
-  "'와멋있다'33살구자욱진짜였구나,일본도응원했다…\"한국FA최대어...",
-  "'내나이가어때서'韓타격왕평가절하,美매체\"구자욱향한MLB관심...",
-  "'30-30'적토마vs'최다홈런'두목곰...잠실구장역대최고의타자는...",
-  "구·원잡는데만250억?…막오른프로야구FA'쩐의전쟁'",
-  "'또도쿄돔담장넘겼다'한일전12연패에빛바랜동점포…\"다들정말열...",
   "2위팀삼성의뒤집기우승…‘부자=챔프’공식도뒤집다",
   "구자욱저평가심하네,삼성팬들에겐다행일까…FA신분→ML에이전트...",
   "‘KSMVP→깜짝해외진출’구자욱,미국갈수있을까…美매체“한국...",
@@ -6001,7 +5991,17 @@
   "LGU+,\"초고성능AI를커피한잔값에\"…토큰효율화기술공개",
   "삼성전자,갤럭시Z폴드8등으로CES2027혁신상19개수상",
   "美연준,AI데이터센터'순환금융'경고…첨단컴퓨팅부채발행6800억...",
-  "'AI전도사'젠슨황,이젠‘AI밈'주인공…쏟아지는패러디영상"
+  "'AI전도사'젠슨황,이젠‘AI밈'주인공…쏟아지는패러디영상",
+  "삼성선수,日서기자들에게목격당했다!배후엔김지찬이?…\"잘한다내...",
+  "삼성전자·KB금융·현대차상승,레인보우로보틱스9%대급등…코스피·...",
+  "최태원\"스스로를'AI컴퍼니'로재정의해야\"…SK'AI플라이휠'로토큰...",
+  "LG유플러스,내년AI토큰사업진출",
+  "LG유플러스,AI에이전트'토큰최적화레시피'사업화추진…2027년출사...",
+  "젠슨황복귀촉구온라인청원12만명넘어서…머스크·스위니등도서...",
+  "대만매체\"젠슨황불륜상대,中국가안전부반도체팀소속\"의혹제기",
+  "LG유플러스,연말'모두의AI'상용화...내년엔AI운영비낮추는B2B사...",
+  "\"내총은여전히강하다\"...불륜인정한젠슨황,방한때'성드립'재조...",
+  "최태원\"'AI플라이휠'통해선순환구조만들어야\""
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,21 @@
   [
    "2026-11-15T09:06:21.889854+09:00",
    "젠슨황 쏟아지는 AI전도사 패러디 영상 이젠 주인공"
+  ],
+  [
+   "2026-11-15T09:08:16.652932+09:00",
+   "토큰 재정의해야 컴퍼니 스스로를 플라이휠 SK"
+  ],
+  [
+   "2026-11-15T09:08:16.652932+09:00",
+   "구조 플라이휠 선순환 만들어야"
+  ],
+  [
+   "2026-11-15T09:08:16.652932+09:00",
+   "연말 운영비 ~LGU 모두의 B2B 낮추는 상용화 내년엔 LG유플러스"
   ]
  ],
- "last_run": "2026-11-15T09:06:40.996100+09:00",
+ "last_run": "2026-11-15T09:08:40.511215+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
