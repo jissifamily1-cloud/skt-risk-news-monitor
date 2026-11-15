@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202611140905592615",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845234&plink=ORI&cooper=NAVER",
-  "https://www.edaily.co.kr/News/Read?newsId=05021686645644736&mediaCodeNo=257",
-  "https://www.techm.kr/news/articleView.html?idxno=157327",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731660",
-  "https://www.joongang.co.kr/article/25478407",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715503",
   "https://view.asiae.co.kr/article/2026111409093773187",
   "https://www.tfmedia.co.kr/news/article.html?no=208886",
@@ -2999,15 +2993,15 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3752616",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504205",
   "https://www.kmib.co.kr/article/20261115501304",
-  "https://www.aitimes.com/news/articleView.html?idxno=217424"
+  "https://www.aitimes.com/news/articleView.html?idxno=217424",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611110123&t=NN",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885663",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885661",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885662",
+  "https://www.gokorea.kr/news/articleView.html?idxno=885666",
+  "https://www.bloter.net/news/articleView.html?idxno=678621"
  ],
  "seen_titles": [
-  "배경훈“젠슨황떠나도GPU동맹문제없어…26만장공급약속유지”",
-  "엔비디아,ArmCEO접촉설부인…“아직누구와도공식연락안해”",
-  "[뉴욕증시]다우지수만상승,혼조마감…젠슨황스캔들여파지속",
-  "\"젠슨황불륜女정체,中국가안전부반도체담당공작원\"대만언론보...",
-  "[사실은]\"엔비디아매출20~40%가중국우회수출?\"따져보니",
-  "공소청,노재헌주중대사입건…노태우비자금은닉의혹",
   "\"美·日·EU이어대만도낮췄는데...한국은봉인가\"...애플앱스토어수...",
   "젠슨황퇴진에5천억달러AI금융지원'흔들'…월가이탈움직임",
   "“메일못보내서전화”MS서비스장애로국내기업도업무차질",
@@ -6001,13 +5995,15 @@
   "대구보건대학교,'대구를담은런케이션'개설...지역역사·문화예술체...",
   "피에스케이10%대급등…밸류업관련종목매수온기'눈에띄네'",
   "딥시크·키미등중국AI,엔비디아칩으로훈련한증거나와",
-  "KT,인천남동산단에AI기반산업안전솔루션공급"
+  "KT,인천남동산단에AI기반산업안전솔루션공급",
+  "美빅스텝우려에도코스피선방...코스닥은700선탈환",
+  "엔비디아,CEO후임찾기'러네이하스접촉설'부인...일론머스크도관...",
+  "트럼프의아세안·APEC순방,미중러정상회담성사될까?",
+  "기술주급락,엔비디아·AMD주가하락으로투자자들긴장",
+  "미국증시혼조세속엔비디아스캔들여파심화,투자자불안증폭",
+  "美'토스2배ETF'출시6번연기…IPO바라보다7개월째대기"
  ],
  "recent_sigs": [
-  [
-   "2026-11-15T13:00:38.902777+09:00",
-   "Top10 주간의 검색어 이슈"
-  ],
   [
    "2026-11-15T13:02:16.787058+09:00",
    "월가가 대안은 시대 최후의 전력주 승자 이것 집은"
@@ -6611,9 +6607,21 @@
   [
    "2026-11-15T18:58:16.554947+09:00",
    "훈련한 딥시크 키미 증거 나와 칩으로 중국"
+  ],
+  [
+   "2026-11-15T19:00:41.120932+09:00",
+   "AMD 하락으로 기술주 주가 급락 투자자들 긴장"
+  ],
+  [
+   "2026-11-15T19:00:41.120932+09:00",
+   "투자자 미국 증시 증폭 불안 스캔들 심화 혼조세 여파"
+  ],
+  [
+   "2026-11-15T19:00:41.120932+09:00",
+   "IPO 7개월째 ETF 대기 토스 출시 연기 바라보다 6번 2배"
   ]
  ],
- "last_run": "2026-11-15T18:58:39.500807+09:00",
+ "last_run": "2026-11-15T19:01:02.290741+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
