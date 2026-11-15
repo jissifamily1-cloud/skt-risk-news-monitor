@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.beyondpost.co.kr/view.php?ud=2026111406555644232aaae0046f_30",
-  "https://www.sedaily.com/article/20114286",
-  "https://www.bloter.net/news/articleView.html?idxno=678565",
-  "https://basketkorea.com/news/newsview.php?ncode=1065542660500103",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008845601&plink=ORI&cooper=NAVER",
   "https://www.moneystorm.kr/news/articleView.html?idxno=8426",
   "https://www.tokenpost.kr/news/ai/434971",
   "https://www.mk.co.kr/article/12208743",
@@ -2999,14 +2994,14 @@
   "https://www.jemin.com/news/articleView.html?idxno=847343",
   "https://www.newsis.com/view/NISX20261115_0003868498",
   "https://www.hankookilbo.com/news/article/A2026111510530003570?did=NA",
-  "https://www.jbnews.com/news/articleView.html?idxno=1515998"
+  "https://www.jbnews.com/news/articleView.html?idxno=1515998",
+  "https://www.hankookilbo.com/news/article/A2026111515590005975?did=NA",
+  "https://www.m-economynews.com/news/article.html?no=73061",
+  "https://www.namdonews.com/news/articleView.html?idxno=929258",
+  "http://www.newstomato.com/ReadNews.aspx?no=1320472&inflow=N",
+  "https://www.g-enews.com/view.php?ud=2026111516404845200c8c1c064d_1"
  ],
  "seen_titles": [
-  "\"난쓰레기\"자책…\"젠슨황돌려달라\"일부직원'눈물'",
-  "다우50달러반등·나스닥0.9%↓…AI주약세지속",
-  "[더차트]세계부호순위머스크'압도적1위'…젠슨황은13위로밀려",
-  "엔비디아2%,필라델피아반도체지수마이크론3%↓...반도체주,젠슨황...",
-  "젠슨황후폭풍에AMD도9%급락...12월‘빅스텝’가능성은후퇴[데일...",
   "SK보안컨트롤타워,최창원서'AX전문가'김완종체제로",
   "[BK프리뷰]‘최강의방패는누구?’1위삼성vs2위정관장",
   "젠슨황과'AI동맹'…네이버·현대차·삼전닉스괜찮나",
@@ -6001,7 +5996,12 @@
   "앤트로픽,AI성장의숨은병목은전력아닌연산인프라…CEO가털어놓...",
   "AI안경쓰고시험보면?…해외연구서83%정답",
   "MS이메일이틀간먹통에종이·팩스썼다…세계경제손실23조원달할...",
-  "'모두의창업'개인정보유출…중기부,업체제재검토"
+  "'모두의창업'개인정보유출…중기부,업체제재검토",
+  "중기부'모두의창업'정보유출사과...사고업체제재검토",
+  "중기부,'모두의창업'개인정보유출업체제재검토",
+  "반등한코스피,이번주엔비디아실적에달렸다",
+  "사상첫미·중·러회담…막오른'외교슈퍼위크'",
+  "\"해킹능력은빼고방어능력만남긴다\"…中AI기업들,‘오픈웨이트..."
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,21 @@
   [
    "2026-11-15T16:38:16.401495+09:00",
    "챗GPT 출시 결제하는 월렛 인공지능이"
+  ],
+  [
+   "2026-11-15T16:46:17.242028+09:00",
+   "남긴다 능력은 기업들 방어 능력만 빼고 오픈웨이트"
+  ],
+  [
+   "2026-11-15T16:46:17.242028+09:00",
+   "외교 오른 사상 슈퍼위크 회담"
+  ],
+  [
+   "2026-11-15T16:46:17.242028+09:00",
+   "실적에 반등한 코스피 달렸다"
   ]
  ],
- "last_run": "2026-11-15T16:44:32.762266+09:00",
+ "last_run": "2026-11-15T16:46:39.247948+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
