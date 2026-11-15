@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.kjdaily.com/article.php?aid=1794574281692178276",
-  "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html?partner=naver",
-  "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html?partner=naver",
-  "https://www.nytimes.com/2026/11/13/technology/anthropic-ipo-spending-plans.html?partner=naver",
-  "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html?partner=naver",
-  "https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html?partner=naver",
-  "https://www.nytimes.com/es/2026/11/12/espanol/outlook-microsoft-falla-mundial.html?partner=naver",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=513838",
   "https://econotimes.com/AI-agents-drive-eightfold-rise-in-traffic-to-Shopify-stores-1775776",
   "https://www.nytimes.com/2026/11/12/technology/voters-data-centers-construction.html?partner=naver",
   "http://coinreaders.com/269639",
@@ -2999,17 +2991,17 @@
   "https://www.ikbc.co.kr/article/view/kbc202611150012",
   "https://www.etnews.com/20261115000033",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4118588",
-  "https://www.boannews.com/news/articleView.html?idxno=147268"
+  "https://www.boannews.com/news/articleView.html?idxno=147268",
+  "https://www.tjb.co.kr/news05/bodo/view/id/106083",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=369747",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768312",
+  "https://www.ekn.kr/web/view.php?key=20261115027389774",
+  "https://www.newsis.com/view/NISX20261115_0003868388",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90691",
+  "https://www.hidomin.com/news/articleView.html?idxno=729316",
+  "https://www.ajunews.com/view/20261115085256483"
  ],
  "seen_titles": [
-  "AMD,올해매출500달러넘는다?...리사수\"데이터센터100%이상성장\"",
-  "젠틀몬스터AI안경,사전예약수시간만에품절…삼성·구글협업,가...",
-  "김희철제28대세무사고시회장취임...”세무사제도침해입법에단호히...",
-  "GLiDE,SystemOne성능선두에도판단신뢰성7위",
-  "74개국서신고된마이크로소프트365장애…AI연동차질",
-  "델테크놀로지스,6세대AMD에픽프로세서탑재한서버공개",
-  "[AI상보]'빅토리아23점'IBK기업은행,흥국생명3-0완파…개막4연승",
-  "가온칩스29.92%급등…반도체설계주상승률상위권",
   "JensenHuangLostHisJob.WallStreetLostItsBiggestPrize.",
   "SiliconValleyStart-UpsFaceaFutureWithoutJensenHuang’sMoney",
   "WallStreetBracesforAnthropic’sAggressiveSpending",
@@ -6001,7 +5993,15 @@
   "'AI플라이휠'꺼내든최태원회장\"기존틀깨고새로운성장기회찾...",
   "최태원SK그룹회장,“기존사업의틀깨고'AI플라이휠'구조만들어...",
   "엔비디아투자자들,젠슨황복귀요구서한",
-  "한국조폐공사모바일상품권'착',해킹으로3083명개인정보유출"
+  "한국조폐공사모바일상품권'착',해킹으로3083명개인정보유출",
+  "일본전12연패끊어라…결승선발김건우-다카하시맞대결",
+  "삼성전자,'CES2027'최고혁신상4개포함총19개혁신상수상",
+  "최태원회장,'AI플라이휠'전략제시...AI생태계전반으로사업확장...",
+  "SK,반도체→AI팩토리→에너지연결한다…최태원‘AI플라이휠’승부...",
+  "최태원\"AI플라이휠로선순환\"…SK,반도체넘어서비스로외연넓힌다",
+  "KT,인천남동산단에AI화재안전서비스구축…사전예방강화",
+  "北해킹조직,국내서버30곳공격표적삼았다…정부·금융·통신겨냥",
+  "KT,인천남동산단에'세이프메이트화재감지기'구축…AI기반솔루션확..."
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,13 @@
   [
    "2026-11-15T09:46:15.685120+09:00",
    "딜라이브도 이어 채널 송출 갈등 CJ ENM 확산 LG헬로비전"
+  ],
+  [
+   "2026-11-15T09:52:23.384923+09:00",
+   "솔루션 화재감지기 인천남동산단에 AI기반 세이프메이트 ~KT 구축"
   ]
  ],
- "last_run": "2026-11-15T09:50:38.279555+09:00",
+ "last_run": "2026-11-15T09:52:42.727849+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
