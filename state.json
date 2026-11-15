@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6606884",
-  "https://biz.sbs.co.kr/article_hub/20000346379?division=NAVER",
-  "https://www.ytn.co.kr/_ln/0104_202611140711455084",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712885",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712816",
-  "https://www.dailian.co.kr/news/view/1714807/?sc=Naver",
-  "https://www.yna.co.kr/view/AKR20261114009551072?input=1195m",
-  "https://imnews.imbc.com/replay/2026/nwtoday/article/6865591_37012.html",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6865590_37012.html",
   "https://www.news1.kr/industry/general-industry/6352316",
   "https://www.ddaily.co.kr/page/view/2026111407162097672",
@@ -2999,17 +2991,17 @@
   "https://www.m-economynews.com/news/article.html?no=73062",
   "https://www.mt.co.kr/stock/2026/11/15/2026111516504054421",
   "https://www.dailian.co.kr/news/view/1715192/?sc=Naver",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543814"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543814",
+  "https://www.mk.co.kr/article/12209277",
+  "https://www.sedaily.com/article/20114477",
+  "https://www.sedaily.com/article/20114476",
+  "https://www.tokenpost.kr/news/market/434466",
+  "https://www.mk.co.kr/article/12209276",
+  "https://www.newspim.com/news/view/20261112001216",
+  "https://www.news1.kr/finance/general-stock/6354511",
+  "https://www.sedaily.com/article/20114478"
  ],
  "seen_titles": [
-  "‘744억’쓰고떠난손혁단장,‘큰손’한화FA중견수사올까…김...",
-  "비트코인(BTC)6만9,000달러하회…11월ETF순유출94%가IBIT한곳에...",
-  "[지난밤뉴욕에선]나스닥0.91%↓,다우는소폭상승",
-  "엔비디아약세에나스닥0.91%↓뉴욕증시혼조세",
-  "엔비디아,ArmCEO접촉설에\"아직누구와도공식연락안해\"",
-  "엔비디아주가하락세지속...뉴욕증시는혼조",
-  "AI대부제프리힌턴\"사고터져야위험깨닫나…기업들도문제\"",
-  "샘알트먼,PC메모리논란에해명…\"난램알트먼,램더많이만들자\"",
   "\"젠슨황스캔들에날벼락\"…엔비디아ETF투자자'비명'",
   "뉴욕증시,다우지수만0.1%상승…엔비디아2%↓,하락지속(종합)",
   "러트닉상무장관경질위기‥베선트도공개저격",
@@ -6001,13 +5993,17 @@
   "여야,잇단개인정보유출사고에공방...\"보안예산확대\"vs\"정부책임...",
   "5600억날아갔다…박현주미래에셋회장도'젠슨황복귀청원'동참",
   "젠슨황사임에사라진‘엔비디아창업명판’…美식당“다시걸겠다...",
-  "\"북한해킹조직'라자루스',국내서버30곳노렸다\""
+  "\"북한해킹조직'라자루스',국내서버30곳노렸다\"",
+  "\"토큰최적화로AI코딩비용90%까지절감\"",
+  "LGU+,모델·칩최적화로AX승부수…“최대90%토큰절감”",
+  "올해IoT보안인증반토막…홈캠등사생활유출‘비상등’",
+  "오픈AI,2027년IPO검토지속…중간선거뒤에도큰변화없어",
+  "美·中로보택시공세…'팀코리아'맞선다",
+  "예산안통과인사말하는송경희개보위원장",
+  "박현주미래에셋회장,젠슨황복귀청원동참…\"투자자보호\"",
+  "北연계해킹그룹라자루스,韓서버30곳공격시도"
  ],
  "recent_sigs": [
-  [
-   "2026-11-15T10:58:15.941155+09:00",
-   "~KT 만남 공동 KT의 대전 번째 5위 LG와"
-  ],
   [
    "2026-11-15T11:02:16.127974+09:00",
    "선거 데이터센터 득일까 독일까 한국엔 뒤흔든"
@@ -6561,7 +6557,7 @@
    "모델 연구소 중국 최첨단 훈련"
   ]
  ],
- "last_run": "2026-11-15T16:56:30.802907+09:00",
+ "last_run": "2026-11-15T16:58:30.807713+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
