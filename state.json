@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261115_0003868491",
-  "https://www.yna.co.kr/view/AKR20261116003200075?input=1195m",
-  "https://www.etoday.co.kr/news/view/2648021",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/16/20261116010002?wlog_tag3=naver",
-  "https://www.hani.co.kr/arti/international/america/1287460.html",
-  "https://biz.sbs.co.kr/article_hub/20000346525?division=NAVER",
-  "https://www.hani.co.kr/arti/international/america/1287459.html",
-  "https://www.news1.kr/world/usa-canada/6354632",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713292",
-  "https://biz.sbs.co.kr/article_hub/20000346521?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000346519?division=NAVER",
-  "https://www.donga.com/news/Economy/article/all/20261116/135028774/2",
   "https://www.donga.com/news/Inter/article/all/20261116/135028772/2",
   "https://biz.sbs.co.kr/article_hub/20000346517?division=NAVER",
   "https://www.ytn.co.kr/_ln/0104_202611160415444633",
@@ -2999,19 +2987,21 @@
   "https://www.ilovepc.co.kr/news/articleView.html?idxno=61352",
   "https://www.joongangenews.com/news/articleView.html?idxno=564211",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504644",
-  "http://www.metroseoul.co.kr/article/20261116500413"
+  "http://www.metroseoul.co.kr/article/20261116500413",
+  "https://www.discoverynews.kr/news/articleView.html?idxno=1106971",
+  "https://www.etnews.com/20261116000044",
+  "https://www.newspim.com/news/view/20261116001092",
+  "https://www.etnews.com/20261116000164",
+  "https://www.dt.co.kr/article/12095448",
+  "http://www.dailypop.kr/news/articleView.html?idxno=104644",
+  "https://www.newspim.com/news/view/20261116000988",
+  "https://www.mk.co.kr/article/12209992",
+  "https://www.newsis.com/view/NISI20261116_0021534468",
+  "https://www.newsis.com/view/NISI20261116_0021534465",
+  "https://www.kukinews.com/article/view/kuk202611160179",
+  "https://www.newsis.com/view/NISI20261116_0021534463"
  ],
  "seen_titles": [
-  "AI를잃으면패권도잃는다…젠슨황사태,한국에던진세가지과제",
-  "HBM강국한국,AI주권은있나…젠슨황사태가던진경고",
-  "“젠슨황,엔비디아CEO복귀논의중…백악관설득시도”",
-  "젠슨황,사퇴나흘만에복귀추진…머스크까지나섰다,삼성전자·SK하...",
-  "젠슨황떠난엔비디아…삼성·SK하이닉스'HBM공급망'판도바뀌나",
-  "코스피한달간12%급락,AI·美FOMC·엔비디아실적⋯‘운명의한주...",
-  "“젠슨황복귀시켜라”이사회에서한…14만명온라인서명도",
-  "[인터뷰]“젠슨황퇴진,미·중AI발전모두늦출수도”",
-  "[글로벌비즈브리핑]엔비디아차기수장은?…후임에반도체인사들총...",
-  "“네가죽었으면좋겠다”…젠슨황,임원들에게폭언·물병투척의혹",
   "젠슨황,사퇴나흘만에복귀논의…실리콘밸리·백악관지원모색-FT",
   "“‘젠슨황스캔들’로궁지몰린러트닉,트럼프순방동행”",
   "젠슨황스캔들에AI금융구상'휘청'…월가이탈움직임",
@@ -6001,7 +5991,17 @@
   "'해킹공격'금융보안원특정감사착수...금융위'엄정문책'시험대",
   "SK텔레콤주가,11월16일83,900원0.00%보합",
   "[거래소외국인]삼성전자·SK하이닉스대거팔았다…SK스퀘어는집중...",
-  "美선엔비디아,코스피선빚투…반도체반등에건돈"
+  "美선엔비디아,코스피선빚투…반도체반등에건돈",
+  "인천시아암대로도로공사장기지연에미불용지예산까지'비효율'지...",
+  "[이상직변호사의생성과소멸]〈32〉AI시대보안(상):사이버공격,각...",
+  "플랜티넷,3분기누적매출302억원...\"수익성회복\"",
+  "[송민택교수의D-엣지]스테이블코인,앞만보지말고뒤를보라",
+  "SKT-효성중공업,GW급AIDC구축협력…미래AI인프라시장대응",
+  "LG유플러스,네트워크·보안통합'U+SASE'출시...우수협력사에감사패...",
+  "[마감시황]외국인1.7조'매도폭탄'…코스피5100선턱걸이",
+  "“젠슨황믿었다말짱황되는거아니야?”…유통업계AI사업진행‘...",
+  "국힘,방미통위고민수부위원장등국감위증공수처고발",
+  "강원대산학협력단연구관리시스템해킹…개인정보일부유출"
  ],
  "recent_sigs": [
   [
@@ -7043,9 +7043,21 @@
   [
    "2026-11-16T16:00:47.414740+09:00",
    "반등에 빚투 반도체 코스피선"
+  ],
+  [
+   "2026-11-16T16:02:16.812208+09:00",
+   "아니야 되는 사업 말짱 진행 믿었다 젠슨 유통업계"
+  ],
+  [
+   "2026-11-16T16:02:16.812208+09:00",
+   "개인정보 일부 연구관리시스템 강원대 유출 산학협력단"
+  ],
+  [
+   "2026-11-16T16:02:16.812208+09:00",
+   "국감 고민수 위증 부위원장 고발 공수처 국힘"
   ]
  ],
- "last_run": "2026-11-16T16:01:14.115731+09:00",
+ "last_run": "2026-11-16T16:02:40.794964+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
