@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=903099",
-  "https://www.chosun.com/economy/tech_it/2026/11/14/IBWZF5IFYFFZPLUN7BPSLXI45I/",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712859",
-  "https://www.hankyung.com/article/2026111463467",
-  "https://biz.sbs.co.kr/article_hub/20000346391?division=NAVER",
-  "https://www.mk.co.kr/article/12208814",
-  "https://www.yna.co.kr/view/AKR20261114024400091?input=1195m",
-  "https://biz.heraldcorp.com/article/10936847",
   "http://www.choicenews.co.kr/news/articleView.html?idxno=173182",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711835",
   "https://zdnet.co.kr/view/?no=20261102182648",
@@ -2999,17 +2991,17 @@
   "https://www.hani.co.kr/arti/international/international_general/1287527.html",
   "https://www.socialvalue.kr/news/view/1065589486943515",
   "https://www.globale.co.kr/news/articleView.html?idxno=41673",
-  "https://www.newsis.com/view/NISX20261116_0003869774"
+  "https://www.newsis.com/view/NISX20261116_0003869774",
+  "https://dealsite.co.kr/articles/172840",
+  "https://www.m-i.kr/news/articleView.html?idxno=2019038",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504506",
+  "https://www.busan.com/view/busan/view.php?code=2026111614105970451",
+  "http://www.dailypop.kr/news/articleView.html?idxno=104613",
+  "https://news.mtn.co.kr/article/2026111613444654903",
+  "https://www.newspim.com/news/view/20261116000758",
+  "https://dealsite.co.kr/articles/172839"
  ],
  "seen_titles": [
-  "엔비디아‘젠슨황복귀’서한은가짜…오픈AI직원서한짜깁기",
-  "엔비디아임원들'젠슨황복귀요구서한'은가짜",
-  "'젠슨황복귀안시키면집단사직'엔비디아임원서한,가짜였다",
-  "엔비디아이사회퇴진요구서한확산…오픈AI항의문과판박이",
-  "“젠슨황복귀안하면전원사임”…엔비디아임원서한‘가짜’로드...",
-  "엔비디아집단이직협박서한,알고보니'허위'…수장공백틈탄시장...",
-  "“젠슨황안돌아오면집단이직”...엔비디아임원서한은‘가짜’...",
-  "엔비디아임원들연명했다는‘젠슨황복귀촉구서한’은가짜",
   "\"젠슨황복귀시켜라\"엔비디아발칵뒤집혔는데…'대반전'",
   "'젠슨황복귀촉구서한'가짜...엔비디아임원들연명조작",
   "“젠슨황복직안하면스페이스X간다?”…엔비디아발칵뒤집은‘...",
@@ -6001,7 +5993,15 @@
   "젠슨황전기작가,“웨이트리스에게1천달러팁주던그…의심스러웠...",
   "라우프·SK텔레콤,‘SKT뉴스룸굿체인지캠페인’으로한국PR대상조...",
   "[산업pick]무리한상용화의대가?···가스공사,LNG선화물창결함배...",
-  "\"식당서1000달라팁…오만하고자기중심적\"젠슨황전기작가의폭로"
+  "\"식당서1000달라팁…오만하고자기중심적\"젠슨황전기작가의폭로",
+  "세메스,산학협력과제발굴확대…반도체장비난제해결에초점",
+  "투자잇는하나카드,캠퍼스걷는우리카드,6년1위KB국민카드[카드톡...",
+  "호반그룹,AI로봇으로미래형주거서비스검증",
+  "효성중공업,SKT와AI데이터센터전력사업협력",
+  "SKT·효성중공업,공급망부터차세대배전까지협력...AI데이터센터경...",
+  "젠슨황떠나고남은질문들[AI칩인사이드]",
+  "'젠슨황'복귀온라인청원16만명…박현주미래에셋그룹회장도동참",
+  "KT스카이라이프,영업비용증가에3분기영업익감소"
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,17 @@
   [
    "2026-11-16T14:16:15.378758+09:00",
    "상용화의 화물창 대가 가스공사 결함 LNG선 무리한"
+  ],
+  [
+   "2026-11-16T14:18:16.361870+09:00",
+   "증가에 영업비용 ~KT KT스카이라이프 감소 3분기 영업익"
+  ],
+  [
+   "2026-11-16T14:18:16.361870+09:00",
+   "떠나고 젠슨 질문들 남은"
   ]
  ],
- "last_run": "2026-11-16T14:16:36.425809+09:00",
+ "last_run": "2026-11-16T14:18:34.505445+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
