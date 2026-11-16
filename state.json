@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.apnews.kr/news/articleView.html?idxno=3053145",
-  "https://www.slist.kr/news/articleView.html?idxno=782203",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=139881",
-  "https://www.busan.com/view/busan/view.php?code=2026111610024556906",
-  "https://www.tokenpost.kr/news/breaking/438895",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394124",
-  "https://www.koreatimes.com/article/11631607",
   "https://www.newsis.com/view/NISX20261116_0003869776",
   "https://www.lawissue.co.kr/view.php?ud=202611161404448009204ead0791_12",
   "https://news.unn.net/news/articleView.html?idxno=600661",
@@ -2999,16 +2992,16 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445056",
   "http://coinreaders.com/270807",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6866182_37012.html",
-  "https://www.kado.net/news/articleView.html?idxno=2085266"
+  "https://www.kado.net/news/articleView.html?idxno=2085266",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94413",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173237",
+  "https://www.the-today.com/news/articleView.html?idxno=93694",
+  "http://www.yonhapnewstv.co.kr/news/MYH2026111707483645r",
+  "https://biz.heraldcorp.com/article/10939143",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147156",
+  "https://www.etoday.co.kr/news/view/2648956"
  ],
  "seen_titles": [
-  "박지성,오늘(16일)‘크래시2’첫방송..신입순경‘지대세’출격",
-  "우주청‘제2회글로벌뉴스페이스포럼’개최…K-우주해외판로넓힌...",
-  "경남도기록원,지역역사발굴하는'경남기록활동가'양성",
-  "\"빠른납기가곧경쟁력\"KAI,말레이시아수출FA-50'2028년3월전원...",
-  "[HOT마켓트렌드]\"챗GPT가백화점퍼스널쇼퍼로\"…현대百,'앱스인챗...",
-  "MDS테크,3분기영업이익54억…전년比123.4%↑",
-  "[이해붕의디지털자산인사이트]디지털금융기술의시대,사이버보안과...",
   "\"SK그룹전체로파트너십확대\"효성重,SKT에AI데이터센터변전소설비...",
   "\"1000달러팁도연기였다\"…젠슨황전기작가의폭로",
   "[텔코NOW]KTㆍLGU+",
@@ -6001,7 +5994,14 @@
   "'빅쇼트'버리\"엔비디아,당분간어떤가격에도안사…여전히잘못돼\"",
   "엔비디아위기에AMD·브로드컴웃는다?AI시장뒤흔들5개종목주목",
   "AI매도세계속,뉴욕증시일제히하락‥엔비디아4.1%↓",
-  "AI이어폰·초소형카메라악용우려…온라인부정행위정보차단추진"
+  "AI이어폰·초소형카메라악용우려…온라인부정행위정보차단추진",
+  "AI투자불안뉴욕증시급락…국제금값도1년최저",
+  "美증시S&P500'뚝'..반도체·AI인프라·광통신·코인주'출렁'",
+  "뉴욕증시,AI공포다시덮친월가…나스닥2.5%급락",
+  "[3분증시]뉴욕증시,젠슨황거취논란에동반하락",
+  "‘젠슨황파장지속’뉴욕증시일제히하락…엔비디아4.1%·SK하이닉스...",
+  "美반도체지수3일간9%급락...엔비디아전고점대비시총2조달러증발",
+  "한화證“젠슨황떠나도HBM수요는남는다…中규제는韓메모리에호..."
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,13 @@
   [
    "2026-11-17T07:48:17.326107+09:00",
    "AMD 시장 위기에 주목 뒤흔들 종목 웃는다 5개 브로드컴"
+  ],
+  [
+   "2026-11-17T07:50:27.110815+09:00",
+   "메모리에 한화 규제는 젠슨 떠나도 HBM 수요는 남는다"
   ]
  ],
- "last_run": "2026-11-17T07:48:40.910616+09:00",
+ "last_run": "2026-11-17T07:50:45.981024+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
