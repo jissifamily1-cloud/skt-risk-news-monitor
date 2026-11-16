@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankookilbo.com/news/article/A2026111606530002343?did=NA",
-  "https://www.edaily.co.kr/News/Read?newsId=01236566645646376&mediaCodeNo=257",
-  "https://shindonga.donga.com/3/all/13/6458182/1",
-  "https://www.chosun.com/economy/tech_it/2026/11/15/DHTOPICKQJG6BKAQ7VN3ESKR4Y/",
-  "https://www.kizmom.com/news/articleView.html?idxno=113971",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247500",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160008&t=NN",
-  "https://www.dailian.co.kr/news/view/1714849/?sc=Naver",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160011&t=NN",
-  "https://www.slist.kr/news/articleView.html?idxno=781988",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16277389",
   "https://www.ytn.co.kr/_ln/0103_202611160704478286",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160001&t=NN",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160002&t=NN",
@@ -2999,20 +2988,20 @@
   "https://www.etoday.co.kr/news/view/2648844",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445008",
   "https://www.donga.com/news/Economy/article/all/20261116/135032760/1",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4118859"
+  "https://news.bbsi.co.kr/news/articleView.html?idxno=4118859",
+  "https://www.mydaily.co.kr/page/view/2026111613051153390",
+  "https://www.etnews.com/20261116000241",
+  "https://www.yna.co.kr/view/AKR20261116148400017?input=1195m",
+  "https://www.sisaweek.com/news/articleView.html?idxno=238995",
+  "https://www.etnews.com/20261116000238",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713327",
+  "https://www.bbc.com/korean/articles/ck62p4e6jvmvo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://www.joongangenews.com/news/articleView.html?idxno=563967",
+  "https://www.sisajournal.com/news/articleView.html?idxno=394173",
+  "http://www.whitepaper.co.kr/news/articleView.html?idxno=268822",
+  "https://www.nocutnews.co.kr/news/6607424"
  ],
  "seen_titles": [
-  "우직하게수임사건끝까지챙겨신뢰받는LKB평산…기업사전대응자...",
-  "[한국인이만희평화의길(28)-26차순방]HWPL,동남아4개국서평화교...",
-  "[더벨][CompanyWatch]파이오링크,5년주기'대목'앞두고재고확충",
-  "[더벨][thebellinterview|지방시대예비유니콘]조인성아크로멧대표...",
-  "[더벨][반도체테스트소부장점검]CXMT납품앞둔테크윙,삼성의존도...",
-  "[더벨][IRBriefing]네이버,영업익감소에도자신감'AI팩토리흑자청...",
-  "미국증시주간전망,엔비디아실적보다중요한'투자지속성'",
-  "[천지일보이슈종합]세무사수석합격자AI부정행위시인·라우터과부...",
-  "GPU는질문·NPU는답변…SKT이종반도체결합,핵심은데이터전송",
-  "젠슨황복귀온라인서명…42000엔비디아직원중18%참가",
-  "[Invest]깐부회동1년만에젠슨황퇴장…GPU26만장약속은어떻게됐을...",
   "'반격'젠슨황,워룸꾸려복귀시동…美재무장관은\"외부수혈\"",
   "[MUSTKNOW5]애플,사상최고치경신…“기술계의코스트코”",
   "中외교안보전문가들대화에서찾은‘韓외교의길’",
@@ -6001,25 +5990,20 @@
   "아시아증시,AI거품우려에반도체주급락⋯日닛케이2.4%↓",
   "캐피털이코노믹스,AI주식하락세더깊어질수도",
   "“사례비신청하세요”…北김수키의심세력,국회의원실사칭해해킹...",
-  "송경희,브뤼셀GPA총회참석…AI개인정보보호국제공조강화"
+  "송경희,브뤼셀GPA총회참석…AI개인정보보호국제공조강화",
+  "KS업셋도서러운데비시즌도험난…'10개구단최다'결국6명모두FA...",
+  "고려아연,호주맥킨타이어풍력발전소발전소시운전돌입",
+  "AI안경으로시험문제풀고조작법까지…커닝모방우려",
+  "수능코앞인데AI부정행위비상…대책은없나",
+  "딥엑스,美반도체3사와협력타진…NPU생태계확대시동",
+  "“젠슨황돌려달라”…애플잡스처럼복귀할가능성은?[잇슈머니]",
+  "APEC앞두고북미회담설만무성…트럼프·김정은만나기어려운이유",
+  "LG유플러스,협력사43곳에감사패…AI기반미래통신망경쟁력강화",
+  "국회사칭메일부터정부서버조준까지...북한해킹조직'전방위공세...",
+  "금융위,금융보안원해킹에재발방지현장점검…쇄신요구",
+  "개보위,구글·메타와AI개인정보보호논의…국제규범마련주도"
  ],
  "recent_sigs": [
-  [
-   "2026-11-16T11:02:15.514119+09:00",
-   "AI데이터센터 효성중공업이 전력설비 GW급 ~SKT 맡는다"
-  ],
-  [
-   "2026-11-16T11:02:15.514119+09:00",
-   "효성중공업 나선다 AIDC 기가급 손잡고 전력기술 확보 ~SKT"
-  ],
-  [
-   "2026-11-16T11:02:15.514119+09:00",
-   "AIDC 구축한다 전력기술까지 기가와트급 효성중 ~SKT 변전설비에서"
-  ],
-  [
-   "2026-11-16T11:02:15.514119+09:00",
-   "막으면 휴전 깨질까 1년 무역전쟁"
-  ],
   [
    "2026-11-16T11:04:16.953413+09:00",
    "요구 불법 수출로 경영진 실적 재무장관 물갈이 부풀"
@@ -7025,7 +7009,7 @@
    "브뤼셀 개인정보 참석 총회 보호 국제공조 송경희 강화 GPA"
   ]
  ],
- "last_run": "2026-11-16T17:01:20.283094+09:00",
+ "last_run": "2026-11-16T17:02:31.200624+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
