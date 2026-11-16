@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559332",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3752672",
-  "https://www.goodnews1.com/news/articleView.html?idxno=466214",
-  "https://www.edaily.co.kr/News/Read?newsId=02004086645646048&mediaCodeNo=257",
-  "https://www.jasm.co.kr/news/view/325364/?sc=Naver",
-  "https://www.joongboo.com/news/articleView.html?idxno=363741134",
-  "https://www.ppss.kr/news/articleView.html?idxno=321046",
-  "https://www.m-economynews.com/news/article.html?no=73008",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94229",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=565433",
   "https://www.etnews.com/20261112000360",
   "https://www.edaily.co.kr/News/Read?newsId=03296406645645392&mediaCodeNo=257",
   "https://news.mtn.co.kr/article/2026111310095295375",
@@ -2999,19 +2989,19 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=242946",
   "https://www.news1.kr/photos/8215755",
   "https://www.segye.com/newsView/20261116507395?OutUrl=naver",
-  "https://biz.sbs.co.kr/article_hub/20000346657?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000346657?division=NAVER",
+  "https://www.mt.co.kr/world/2026/11/16/2026111610400470606",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194675",
+  "https://www.g-enews.com/view.php?ud=202611040914216797923c501012_1",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=313747",
+  "https://theviewers.co.kr/View.aspx?No=4314056",
+  "https://www.aitimes.com/news/articleView.html?idxno=217437",
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194684",
+  "https://www.mk.co.kr/article/12209825",
+  "https://www.tokenpost.kr/news/breaking/438828",
+  "https://www.news1.kr/world/northeast-asia/6355164"
  ],
  "seen_titles": [
-  "[만물상]수석합격자의‘인간증명’",
-  "北라자루스,한국정부·금융·통신서버30곳겨냥…국가핵심인프라...",
-  "접전승부끝패배KT문경은감독“마무리가아쉽다”",
-  "[JBPICK]운명결정할트라이아웃,선배들이들려주는경험담",
-  "[이용약관]5장.숫자는의심을거쳐야증거가된다",
-  "[김종석의리포트]젠슨황“스파이인줄몰랐다”…트럼프에해명",
-  "최지연대전시의원\"임대주택아이는5분의1?\"…대전교육청학생수요...",
-  "젠슨황불륜추문에中첩보활동다시주목",
-  "'젠슨황'식당명판떼고,엔비디아선'갑질·폭언’폭로나오고",
-  "'젠슨황,임원에폭언하고물병던지고'...\"내부엔이미알려져\"",
   "[시대만필]AI시대,책을읽는다는것",
   "박현주,'젠슨황복귀온라인청원'힘실어…\"AI생태계위기\"",
   "「M포토」예산안통과인사말하는김종철방미통위위원장",
@@ -6001,7 +5991,17 @@
   "SKT·효성중공업,GW급AIDC사업맞손…\"핵심은전력\"",
   "SKT,효성중공업과GW급AI데이터센터구축'맞손'",
   "‘반도체공포’에하락장베팅한개미들…인버스대량매수[주식고수...",
-  "레버리지끝판왕?엔비디아4.6배…칼시,무기한선물거래"
+  "레버리지끝판왕?엔비디아4.6배…칼시,무기한선물거래",
+  "美러트닉회사,中AI칩확보도왔나…늑장규제·이해충돌논란",
+  "[WIKI시승기]안전을넘어편안함까지…볼보'ES90',전동화시대의플...",
+  "NH-Amundi운용\"AI시장평가,현금창출력·AIforScience로이동\"",
+  "SKT·효성중공업,GW급AIDC구축협력…전력인프라확보",
+  "SK텔레콤·효성중공업,AI데이터센터전력인프라협력확대",
+  "SKT,효성중공업과AI데이터센터전력인프라맞손",
+  "LG유플러스,AI운영기술앞세워B2B사업확대…기업AX시장공략",
+  "삼성전자,젠슨황떠나도웃는다?…“탈엔비디아최대수혜주”[오늘...",
+  "황런쉰복귀청원12만명넘어…머스크,엔비디아거래유실우려",
+  "\"나젠슨황인데4000만원만보내줘\"…대만서퍼지는괴문자"
  ],
  "recent_sigs": [
   [
@@ -7227,9 +7227,13 @@
   [
    "2026-11-16T11:44:16.647607+09:00",
    "반도체 인버스 주식고수 하락장 대량 개미들 매수 공포 베팅한"
+  ],
+  [
+   "2026-11-16T11:46:17.058885+09:00",
+   "젠슨 황인데 괴문자 보내줘 대만서 퍼지는 4000만원만"
   ]
  ],
- "last_run": "2026-11-16T11:44:35.569895+09:00",
+ "last_run": "2026-11-16T11:46:36.151731+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
