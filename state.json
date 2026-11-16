@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261116000003",
-  "https://www.hankookilbo.com/news/article/A2026111611500003978?did=NA",
-  "https://www.ajunews.com/view/20261115164005421",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2376594",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1023908",
-  "https://www.kyosu.net/news/articleView.html?idxno=212519",
-  "https://www.donga.com/news/Inter/article/all/20261116/135030492/1",
-  "https://www.tenasia.co.kr/article/2026110952734",
-  "https://www.yna.co.kr/view/AKR20261116034800005?input=1195m",
-  "https://www.newsis.com/view/NISX20261116_0003869207",
-  "https://www.yna.co.kr/view/AKR20261116083100062?input=1195m",
   "https://www.newsis.com/view/NISX20261116_0003869524",
   "https://www.sportschosun.com/baseball/2026-11-16/202611160100103580009557",
   "https://www.tokenpost.kr/news/breaking/438838",
@@ -2999,20 +2988,20 @@
   "https://www.sedaily.com/article/20115161",
   "http://coinreaders.com/270785",
   "https://www.g-enews.com/view.php?ud=202611160825074344906806b77b_1",
-  "https://www.kmib.co.kr/article/20261117500044"
+  "https://www.kmib.co.kr/article/20261117500044",
+  "https://www.lawissue.co.kr/view.php?ud=202611162246275797f4ab64559d_12",
+  "https://www.newsverse.kr/news/articleView.html?idxno=11938",
+  "https://www.newstnt.com/news/articleView.html?idxno=728564",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6866133_37012.html",
+  "https://www.etnews.com/20261112000360",
+  "https://www.joongboo.com/news/articleView.html?idxno=363741134",
+  "https://www.thepublic.kr/news/articleView.html?idxno=327000",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326997",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111705575495202aaae0046f_30",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848800&plink=ORI&cooper=NAVER",
+  "https://www.news1.kr/it-science/security-hacking/6353424"
  ],
  "seen_titles": [
-  "유클릭스,'DHP2026'골드후원사로참가…OCI기반클라우드·AI솔루션...",
-  "차별화상회-네이버업무협약체결…서울·경기새벽배송시작",
-  "'불륜논란'젠슨황,KBS토크쇼서섭외희망…\"인생의선택묻고파\"(...",
-  "KBS이지연아나운서,젠슨황에공개'러브콜'..\"왜'불륜'했는지묻고...",
-  "\"북한김수키,국회의원실사칭사이버공격\"",
-  "현대드림투어,NH여행등서여권정보등유출잇따라",
-  "효성중공업,SKT‘전력인프라파트너’나선다…GW급AI데이터센터협...",
-  "최태원SK그룹회장\"선순환구조AI플라이휠함께만들자\"",
-  "LG전자,엔비디아기반휴머노이드개발가속…로봇안전·품질인증체...",
-  "정상프로그램이해킹통로로…정부기관노린'네탐로더'발견",
-  "[APBC포커스]'라이벌은옛말'…13연패한국야구,일본은점점더멀어...",
   "[속보]교육부장관\"수능날전파차단검토,과기부와협의해17일발표...",
   "[ASIABIZ]\"목소리까지가짜였다\"베트남,진화하는온라인사기에AI경...",
   "SK텔레콤·효성중공업,GW급AI데이터센터구축협력…전력인프라공동...",
@@ -6001,7 +5990,18 @@
   "美,중국의AI칩원격접속차단...동남아수출에도사전허가도입",
   "베센트\"유가보지말고앞을봐라\"...연준12월인상92%꺾을까",
   "[김대호인물]케빈워시연준FOMC공개경고\"AI붕괴\"",
-  "[속보]엔비디아오늘도4.11%↓…뉴욕증시일제히하락마감"
+  "[속보]엔비디아오늘도4.11%↓…뉴욕증시일제히하락마감",
+  "효성중공업,SK텔레콤과AI데이터센터전력사업협력",
+  "젠슨황,복귀가능할까...한국반도체동맹도시험대",
+  "건국대,IIAS서울컨퍼런스개최…\"협력적거버넌스로사회적가치실...",
+  "1부오늘의주요뉴스",
+  "3,000개언론라이선스확보한비큐AI,'RDPGROUP'출범3개월만에데이...",
+  "[시대만필]AI시대,책을읽는다는것",
+  "SKT,효성중공업과맞손…기술실증부터AI데이터센터구축까지협력",
+  "LG유플러스,우수협력사43곳에감사패…AI시대동반성장전략공유",
+  "\"엔비디아이사회,젠슨황전CEO복귀고려안해\"...CNBC,국가안보이...",
+  "[모닝와이드]오늘의주요뉴스",
+  "\"어린아이도국가급해킹…해커는패치기다리지않는다\""
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,17 @@
   [
    "2026-11-17T06:04:18.541208+09:00",
    "붕괴 공개 연준 FOMC 케빈워시 경고"
+  ],
+  [
+   "2026-11-17T06:06:29.161631+09:00",
+   "주요뉴스 오늘의"
+  ],
+  [
+   "2026-11-17T06:06:29.161631+09:00",
+   "않는다 어린아이도 패치 해커는 기다리지 국가급"
   ]
  ],
- "last_run": "2026-11-17T06:04:44.974906+09:00",
+ "last_run": "2026-11-17T06:06:48.261422+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
