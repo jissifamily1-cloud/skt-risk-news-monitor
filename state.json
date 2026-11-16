@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.itooza.com/common/iview.php?no=2026111609233487141",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715592",
-  "http://www.popcornnews.net/news/articleView.html?idxno=140159",
   "https://www.news1.kr/industry/distribution/6354861",
   "https://www.g-enews.com/view.php?ud=202611160919002939d6c92cbcc5_1",
   "https://www.news1.kr/finance/general-stock/6354836",
@@ -2999,12 +2996,12 @@
   "http://www.rookie.co.kr/news/articleView.html?idxno=130529",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065615792085947",
   "https://econotimes.com/Trump-Administration-Plans-to-Name-Nvidia-Among-More-Than-Two-Dozen-AI-Firms-1777632",
-  "https://www.apnews.kr/news/articleView.html?idxno=3053186"
+  "https://www.apnews.kr/news/articleView.html?idxno=3053186",
+  "https://zdnet.co.kr/view/?no=20261116212708",
+  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=291082",
+  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=291080"
  ],
  "seen_titles": [
-  "北'김수키',국회의원실사칭해해킹시도?…신종악성코드포착",
-  "정기윤,관광의활기가지역의일상으로이어지려면",
-  "슈퍼브에이아이,부총리표창수상",
   "트러스테이,日IoT기업손잡고AI솔루션시장진출추진",
   "머스크등실리콘밸리거물,젠슨황복귀촉구…엔비디아'창업자1인...",
   "북한김수키,신종악성코드유포…국회의원실사칭해사이버공격",
@@ -6001,13 +5998,12 @@
   "'이우석의공백은컸다'공수모두만족스럽지않았던양동근감독\"휴...",
   "브룩스브라더스,패션플랫폼매출51%증가…젊은층공략성과",
   "TrumpAdministrationPlanstoNameNvidiaAmongMoreThanTwoDozenAIF",
-  "SKT,효성중공업과GW급AIDC구축맞손…\"글로벌시장선도\""
+  "SKT,효성중공업과GW급AIDC구축맞손…\"글로벌시장선도\"",
+  "[안광섭AI진테제]에이전트가예약하고결제...기록은남는다",
+  "잇따르는금융권해킹..내돈은안전한가?",
+  "′10초면AI해킹가능\"..못따라가는보안능력"
  ],
  "recent_sigs": [
-  [
-   "2026-11-16T15:30:34.326595+09:00",
-   "브로드컴 5억달러 제2의 조성 직접 TSMC 키운다 벤처펀드"
-  ],
   [
    "2026-11-16T15:32:25.079955+09:00",
    "학생들 대학들 입시도 때문에 따라가는 난리 쓰는"
@@ -6827,9 +6823,21 @@
   [
    "2026-11-16T21:12:20.614661+09:00",
    "6개사 앤트로픽 250억 매출 650억 중국 오픈AI보다 많다 달러"
+  ],
+  [
+   "2026-11-16T21:30:43.334800+09:00",
+   "에이전트가 기록은 예약하고 남는다 결제"
+  ],
+  [
+   "2026-11-16T21:30:43.334800+09:00",
+   "돈은 잇따르는 금융권 안전한가"
+  ],
+  [
+   "2026-11-16T21:30:43.334800+09:00",
+   "10초면 따라가는 보안 가능 능력"
   ]
  ],
- "last_run": "2026-11-16T21:28:36.023943+09:00",
+ "last_run": "2026-11-16T21:31:11.478945+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
