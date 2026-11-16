@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611160010&t=NN",
-  "https://www.etoday.co.kr/news/view/2648362",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/16/2026111650008.html",
-  "https://view.asiae.co.kr/article/2026111310091179522",
-  "https://www.bntnews.co.kr/article/view/bnt202611160013",
-  "https://www.ytn.co.kr/_ln/0104_202611160651062652",
-  "https://www.slist.kr/news/articleView.html?idxno=781976",
-  "https://biz.sbs.co.kr/article_hub/20000346545?division=NAVER",
   "https://www.cbci.co.kr/news/articleView.html?idxno=627123",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690058.html",
   "https://vop.co.kr/A00001697607.html",
@@ -2999,17 +2991,17 @@
   "https://www.koreaittimes.com/news/articleView.html?idxno=159189",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=668162",
   "https://www.ddaily.co.kr/page/view/2026111616494710755",
-  "https://www.sedaily.com/article/20114995"
+  "https://www.sedaily.com/article/20114995",
+  "https://www.newsjeju.net/news/articleView.html?idxno=428495",
+  "https://www.thelec.kr/news/articleView.html?idxno=65488",
+  "https://www.venturesquare.net/1128999/",
+  "https://www.youthdaily.co.kr/news/article.html?no=229916",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160285703231627",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=369843",
+  "https://www.mk.co.kr/article/12210062",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445006"
  ],
  "seen_titles": [
-  "[진단]네이버,美데이터센터병목수혜주되나…최수연\"가격협상에...",
-  "'전시상황실'꾸린젠슨황…사임나흘만에복귀움직임",
-  "젠슨황퇴진충격에흔들린기술주…피난처애플·반도체규제불안...",
-  "삼성전자,CES2027최고혁신상4개포함19개수상…'폴드8울트라'첫...",
-  "SK,반도체·인프라·에너지넘어AI서비스까지…'토큰이코노미'핵심...",
-  "“59만명홀린덕”…한성백제문화제,골목상권에74억온기",
-  "‘젠슨황사임’이후실적…엔비디아에쏠린눈[주간증시전망]",
-  "가짜법원공문하나에뚫린인도인터넷…총리실,통신부수장불러진...",
   "한국전력기기업종,美중간선거직후반도체보다낙폭컸던이유",
   "동양생명과징금'95%삭감사태',금융위or금감원'신뢰추락?'",
   "젠슨황퇴진,엔비디아중국칩밀수의혹부각…대만직원기소·미국...",
@@ -6001,25 +5993,17 @@
   "SK텔레콤·효성중공업,AI데이터센터전력인프라동맹구축",
   "최태원SK회장,'AI플라이휠'승부수",
   "[美서울상륙작전①]엔비디아·AMD·인텔·퀄컴릴레이협약행보…한...",
-  "2000조시절어디로…SK그룹,시총1000조턱걸이사수[이런국장저런주..."
+  "2000조시절어디로…SK그룹,시총1000조턱걸이사수[이런국장저런주...",
+  "수능사흘앞두고AI부정행위비상…제주시험장마다전담인력",
+  "세메스,대한기계학회와11회KSOIC대회개최",
+  "[VS현장]창업의첫질문은‘나는누구인가’…벤처스퀘어,‘Founders...",
+  "AI투자불확실성에반도체株'급락'…코스피3.59%·코스닥4.86%↓",
+  "송파구,한성백제문화제대성황···59.3만명방문",
+  "엔비디아흔들리면미래에셋ETF도출렁…박현주,젠슨황복귀지지",
+  "코스피3.6%·코스닥4.9%급락…AI빅위크앞두고‘휘청’",
+  "대만가권지수6%대급락마감…\"엔비디아생산차질우려\""
  ],
  "recent_sigs": [
-  [
-   "2026-11-16T10:52:17.491637+09:00",
-   "11만 수능 돌입 점검 기기 수험생 초비상 커닝"
-  ],
-  [
-   "2026-11-16T10:52:17.491637+09:00",
-   "발목 올라야 본전 반등 코스피 매물 잡는"
-  ],
-  [
-   "2026-11-16T10:54:15.018869+09:00",
-   "일각 스캔들 안보 국가 의원 NVDA 밀수 빙산의"
-  ],
-  [
-   "2026-11-16T10:54:15.018869+09:00",
-   "중단 예약 스카이라이너 해킹에 공항철도"
-  ],
   [
    "2026-11-16T10:56:16.477434+09:00",
    "SK에코플랜트 SK디스커버리 7년 PRS 만에 정산"
@@ -7031,9 +7015,13 @@
   [
    "2026-11-16T16:52:15.670554+09:00",
    "퀄컴 행보 AMD 협약 릴레이 인텔"
+  ],
+  [
+   "2026-11-16T16:54:16.593348+09:00",
+   "마감 지수 차질 대만 가권 생산 급락 우려"
   ]
  ],
- "last_run": "2026-11-16T16:52:34.804727+09:00",
+ "last_run": "2026-11-16T16:54:32.444490+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
