@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://dhnews.co.kr/news/view/1065590342699663",
-  "https://www.fnnews.com/news/202611161210217028",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247528",
-  "https://www.ytn.co.kr/_ln/0115_202611161423075463",
-  "https://www.yna.co.kr/view/AKR20261116109300004?input=1195m",
-  "https://www.mk.co.kr/article/12209892",
-  "https://www.itbiznews.com/news/articleView.html?idxno=231470",
-  "https://www.newspim.com/news/view/20261116000871",
   "https://www.m-i.kr/news/articleView.html?idxno=2019073",
   "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041067",
   "https://biz.chosun.com/topics/topics_social/2026/11/16/2NSS2HMUDRALJFURWPPQACHIAQ/",
@@ -2999,17 +2991,17 @@
   "https://biz.newdaily.co.kr/site/data/html/2026/11/17/2026111750016.html",
   "https://www.newsis.com/view/NISX20261117_0003870709",
   "https://www.ddaily.co.kr/page/view/2026111708042109727",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=67867"
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=67867",
+  "https://www.sedaily.com/article/20115173",
+  "https://platum.kr/archives/298671",
+  "https://www.tokenpost.kr/news/policy/439435",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714608",
+  "https://www.dt.co.kr/article/12095574",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173234",
+  "https://kidd.co.kr/news/248167",
+  "https://www.yna.co.kr/view/AKR20261117019500008?input=1195m"
  ],
  "seen_titles": [
-  "방미통위원장,국경없는기자회면담…\"방송신뢰,국제사회함께고민\"",
-  "태양광'올림픽'세계태양광총회,국내최초대전서개막",
-  "네이버,'네이버플러스사업자몰'오픈…B2B판로지원",
-  "‘AI부정행위’난리통에상한가간종목이있다고?개장하자마자‘불...",
-  "SK텔레콤·효성중,GW급AI데이터센터구축⋯345kV변전설비공급협력",
-  "KT·효성중공업,기가와트급AI데이터센터구축에‘맞손’",
-  "[위클리오늘]산업일반소식_삼양엔씨켐,효성중공업(11.16)",
-  "금융위,해킹당한금융보안원에'전면쇄신'주문",
   "행정기관업무용이메일300여개노출…해킹경로추적",
   "교육부\"수능날'전파차단'검토중\"",
   "라우프와SK텔레콤,한국PR대상조직문화부문최우수상",
@@ -6001,7 +5993,15 @@
   "[속보]삼전닉스프리장2~3%↓…젠슨황여파에美반도체5%급락",
   "美AI주급락에…삼전닉스프리마켓서3%안팎약세",
   "\"젠슨황떠나자빗장걸었다\"…美,동남아·브라질경유대중AI칩우회...",
-  "[로드픽]AI혁명은현실인데투자거품?...美연준·외신,'닷컴버블'위..."
+  "[로드픽]AI혁명은현실인데투자거품?...美연준·외신,'닷컴버블'위...",
+  "암호보안권위자“AI방어에도한계있어...골키퍼바꿔야”[김창영의...",
+  "[중국비즈니스트렌드&동향]중국AI반도체·서버기업잇단상장추진...",
+  "트럼프,대중기술통제이견인정…첨단반도체원격이용규정공개",
+  "미국캘리포니아,AI‘허깅페이스해킹’사건으로오픈AI제소",
+  "오픈AI,AI의‘생각읽는기술’에50억달러베팅검토…왜?",
+  "엔비디아發AI주투매..미국증시'급락',나스닥2.5%'뚝',M7'전멸'",
+  "[구리가격]AI투자우려에4개월만의최저…중국현물프리미엄290달...",
+  "[마켓뷰]젠슨황파장속美증시도흔들…'5천피'또위협받나"
  ],
  "recent_sigs": [
   [
@@ -6579,9 +6579,25 @@
   [
    "2026-11-17T08:06:16.538665+09:00",
    "외신 닷컴버블 혁명은 현실인데 연준 거품 투자"
+  ],
+  [
+   "2026-11-17T08:08:22.030415+09:00",
+   "방어에도 보안 한계 있어 암호 권위자 골키퍼 바꿔야 김창영의"
+  ],
+  [
+   "2026-11-17T08:08:22.030415+09:00",
+   "50억달러 기술 AI의 생각 읽는 검토 베팅"
+  ],
+  [
+   "2026-11-17T08:08:22.030415+09:00",
+   "최저 290달 우려에 4개월 프리미엄 투자 중국 현물 만의"
+  ],
+  [
+   "2026-11-17T08:08:22.030415+09:00",
+   "증시도 젠슨황 흔들 파장속 위협받나 5천피"
   ]
  ],
- "last_run": "2026-11-17T08:06:37.760708+09:00",
+ "last_run": "2026-11-17T08:08:48.944905+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
