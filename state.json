@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ngonews.kr/news/articleView.html?idxno=243267",
-  "https://news.ifm.kr/news/articleView.html?idxno=484523",
-  "https://www.insight.co.kr/news/582209",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209546",
-  "https://www.dailynk.com/20261116-3",
-  "https://www.tokenpost.kr/news/general/438863",
-  "https://www.seoulfn.com/news/articleView.html?idxno=642882",
-  "https://thedrive.co.kr/news/newsview.php?ncode=1065585110124502",
-  "https://www.public25.com/news/articleView.html?idxno=58534",
   "https://www.gukjenews.com/news/articleView.html?idxno=3753105",
   "https://www.itbiznews.com/news/articleView.html?idxno=231463",
   "https://www.dailian.co.kr/news/view/1715440/?sc=Naver",
@@ -2999,18 +2990,18 @@
   "https://www.slist.kr/news/articleView.html?idxno=782286",
   "https://www.etoday.co.kr/news/view/2648939",
   "https://biz.heraldcorp.com/article/10939083",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001183"
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001183",
+  "https://www.etoday.co.kr/news/view/2648940",
+  "https://www.cstimes.com/news/articleView.html?idxno=728161",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504769",
+  "https://www.sidae.com/article/2026111706303369917",
+  "http://www.beyondpost.co.kr/view.php?ud=2026111706293067982aaae0046f_30",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445049",
+  "https://www.newsis.com/view/NISX20261117_0003870633",
+  "https://www.dt.co.kr/article/12095567",
+  "https://www.radiokorea.com/news/article.php?uid=509779"
  ],
  "seen_titles": [
-  "애플,AI안경차별화전략은'시리앱제어'…기존아이폰앱활용",
-  "LG유플러스,네트워크·보안통합플랫폼'U+SASE'선봬",
-  "KT,18일부터PASS로교통과태료고지",
-  "끝나지않은'젠슨황쇼크'…코스피,5100선하락",
-  "정부기관맞춤형윈도우가해킹통로로…정부·기업소프트웨어공급망...",
-  "AI부정행위탐지기술한계...스마트안경·초소형장비까지대응나선...",
-  "AI株'묻지마투자'끝났다…월가뒤흔든2조5000억달러증발",
-  "LG유플러스,네트워크우수협력사43곳에감사패…AI기반자율망전...",
-  "\"엔비디아든블루웨이브든강세장엔진못끈다\"",
   "習과‘희토류협상’앞둔트럼프…韓등동맹국과‘AI공동협정’서...",
   "KT\"과태료부과알림부터납부기한확인까지간편하게해결하세요\"",
   "SK텔레콤·효성중공업,GW급AI데이터센터동맹…전력인프라시장공략",
@@ -6001,7 +5992,16 @@
   "뉴욕증시,젠슨황사임여파에일제히하락…엔비디아4.1%↓",
   "트럼프“젠슨황복귀이의없다…불륜상대,中스파이아닐수도”",
   "젠슨황감싼트럼프“中스파이아닐수도…中자극하고싶지않아”[1...",
-  "나스닥,반도체규제에2.5%후퇴…필반5%급락"
+  "나스닥,반도체규제에2.5%후퇴…필반5%급락",
+  "2027프로야구FA협상시작…‘1호계약’주인공은누구?",
+  "\"글로벌투자유치·수출확대\"인천시,19일'제약바이오투자대전'개최",
+  "코스피·코스닥전거래일(16일)주요공시는...삼성중공업,LNG운반선1척...",
+  "[속보]뉴욕증시,AI주급락에일제히하락…나스닥2.49%↓",
+  "엔비디아4%,필라델피아반도체지수5.2%,마이크론7.2%급락...황전C...",
+  "[뉴욕증시]젠슨황거취에휘둘린증시…필리반도체지수5%급락",
+  "뉴욕증시,엔비디아등AI주급락에일제하락마감…나스닥2.49%↓",
+  "트럼프“젠슨황불륜녀中스파이아닐수도…황복귀나쁜생각아냐”",
+  "오늘의증권소식(11월16일)"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,13 @@
   [
    "2026-11-17T06:34:16.199275+09:00",
    "필라 반도체지수"
+  ],
+  [
+   "2026-11-17T06:38:23.260048+09:00",
+   "16일 11월 증권소식 오늘의"
   ]
  ],
- "last_run": "2026-11-17T06:36:35.789400+09:00",
+ "last_run": "2026-11-17T06:38:42.730772+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
