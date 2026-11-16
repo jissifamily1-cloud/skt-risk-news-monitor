@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ikbc.co.kr/article/view/kbc202611160041",
-  "https://www.edaily.co.kr/News/Read?newsId=02200886645646376&mediaCodeNo=257",
-  "http://www.bizwnews.com/news/articleView.html?idxno=151984",
-  "https://www.newstree.kr/newsView/ntr202611160012",
-  "https://www.aitimes.com/news/articleView.html?idxno=217438",
-  "https://www.m-i.kr/news/articleView.html?idxno=2018987",
-  "https://www.m-i.kr/news/articleView.html?idxno=2018989",
-  "https://news.bizwatch.co.kr/article/market/2026/11/16/0009",
-  "https://www.fnnews.com/news/202611161235236195",
-  "https://www.cwn.kr/news/articleView.html?idxno=61845",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1731803",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=92083",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4444953",
@@ -2999,19 +2989,19 @@
   "https://www.moneystorm.kr/news/articleView.html?idxno=8500",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790006.html",
   "https://www.sedaily.com/article/20115162",
-  "https://www.sedaily.com/article/20114954"
+  "https://www.sedaily.com/article/20114954",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020163",
+  "https://www.news2day.co.kr/article/20261116500367",
+  "https://www.news2day.co.kr/article/20261116500326",
+  "https://biz.sbs.co.kr/article_hub/20000346865?division=NAVER",
+  "https://news.mtn.co.kr/article/2026111706303561846",
+  "https://biz.chosun.com/international/international_economy/2026/11/17/HPRNVXU4YRB5FCW32FFGP3EBOY/",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504766",
+  "https://www.edaily.co.kr/News/Read?newsId=01512086645646704&mediaCodeNo=257",
+  "https://www.fnnews.com/news/202611170555338344",
+  "https://www.viewsnnews.com/article?q=239735"
  ],
  "seen_titles": [
-  "효성중공업-SKT,AI데이터센터전력사업협력…“안정적전력공급기반...",
-  "KT,경찰청교통과태료고지서PASS앱으로모바일발송",
-  "67兆투자금썰물…엔비디아'무제한AI자금지원'제동",
-  "젠슨황,엔비디아CEO복귀시도...\"측근들과논의\"",
-  "엔비디아주주들,젠슨황복귀길요구…34조개방형AI기로",
-  "1000대기업여성CEO3.3%불과…47명중31명은오너가문",
-  "엔비디아($NVDA)로봇엔지니어,황퇴임뒤퇴사결정",
-  "머스크“황없는엔비디아,핵심거래잃을수도”⋯정의선AI동맹불...",
-  "금융위원회,'금융보안원해킹'에강경대응주문...\"조직부터IT까지전...",
-  "[단독]동서울대해킹으로교직원개인정보5,885건유출…28개대학공...",
   "구자욱·원태인·양의지FA시장으로...17일부터협상",
   "최교진\"'AI커닝'막을전파차단검토…내일추가대책발표\"",
   "소풍커넥트,신보'U-CONNECT데모데이'개최…스타트업9개사투자유치...",
@@ -6001,7 +5991,17 @@
   "[뉴욕증시마감시황]엔비디아실적앞두고美반도체주급락…SK하이닉...",
   "\"앨리스황,스파이아닐가능성\"…'젠슨황복귀'힘실은트럼프",
   "워시“AI기대못미치면주가하락,경기둔화,실업률상승”",
-  "급락장에경기방어주눈길…‘5조환원’KT&G강세이어질까[줍줍리포..."
+  "급락장에경기방어주눈길…‘5조환원’KT&G강세이어질까[줍줍리포...",
+  "\"끝나고말하면안될까요\"삼성선수얼마나힘들었으면…하지만어쩌...",
+  "[N2포커스]게임대상투표마감…'붉은사막'·'아이온2'경쟁",
+  "[N2포커스]젠슨황복귀론에K-반도체‘촉각’…기술보안도비상",
+  "[외신헤드라인]美,엔비디아·오픈AI등'국가대표AI기업'지정",
+  "미국,중국AI반도체우회이용차단…동남아수출도허가제",
+  "뉴욕증시3거래일째하락…엔비디아쇼크·대중AI칩추가규제에휘...",
+  "젠슨황떠난엔비디아충격파뉴욕증시'와르르''...나스닥2.49%급락",
+  "젠슨황비호배경?...트럼프,엔비디아주식828억원보유",
+  "\"젠슨황떠났는데4473억원매수\"…서학개미들,엔비디아에베팅",
+  "엔비디아4.12%↓,필라반도체지수5.28%↓"
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,29 @@
   [
    "2026-11-17T06:32:18.157565+09:00",
    "급락장에 이어질까 리포 눈길 ~KT 줍줍 환원 경기방어주 강세 5조"
+  ],
+  [
+   "2026-11-17T06:34:16.199275+09:00",
+   "복귀론에 젠슨 촉각 반도체 기술보안도 비상"
+  ],
+  [
+   "2026-11-17T06:34:16.199275+09:00",
+   "지정 국가대표 AI기업"
+  ],
+  [
+   "2026-11-17T06:34:16.199275+09:00",
+   "배경 주식 트럼프 828억원 젠슨황 비호 보유"
+  ],
+  [
+   "2026-11-17T06:34:16.199275+09:00",
+   "엔비디아에 매수 떠났는데 서학개미들 젠슨 4473억원 베팅"
+  ],
+  [
+   "2026-11-17T06:34:16.199275+09:00",
+   "필라 반도체지수"
   ]
  ],
- "last_run": "2026-11-17T06:32:37.038274+09:00",
+ "last_run": "2026-11-17T06:34:44.915147+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
