@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=82498",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1020039",
-  "http://www.newslock.co.kr/news/articleView.html?idxno=140139",
   "http://coinreaders.com/270544",
   "http://www.00news.co.kr/news/articleView.html?idxno=108066",
   "http://www.newslock.co.kr/news/articleView.html?idxno=140150",
@@ -2999,12 +2996,12 @@
   "https://www.thereport.co.kr/news/articleView.html?idxno=93371",
   "https://www.seoul.co.kr/news/economy/securities/2026/11/17/20261117500006?wlog_tag3=naver",
   "https://www.ytn.co.kr/_ln/0104_202611170610278373",
-  "https://www.news1.kr/world/usa-canada/6356056"
+  "https://www.news1.kr/world/usa-canada/6356056",
+  "https://news.mtn.co.kr/article/2026111706134037608",
+  "https://www.sedaily.com/article/20115135",
+  "https://www.yna.co.kr/view/AKR20261117008200075?input=1195m"
  ],
  "seen_titles": [
-  "[12뉴스]오늘의주요뉴스",
-  "원태인·구자욱포함프로야구FA22명공시",
-  "부산KCC,11점뒤집고5연승…창원LG는2점차신승,고양소노는1쿼터...",
   "中10월생산·수출호조,내수부진·투자위축",
   "[스타트업-ing]위븐‘재밋’,美법인설립이어글로벌결제지원…“...",
   "젠슨황,머스크지원속백악관지지모색…美재무장관은반대",
@@ -6001,7 +5998,10 @@
   "[신동립잡기노트]왜젠슨황은되고'황인훈'은안되나",
   "[서울데이터랩]미국증시,기술주·반도체주급락에일제히하락마감…...",
   "트럼프\"앨리스황,스파이아닐수도\"...미,AI반도체중국원격접속차...",
-  "AI반도체주투매…필라델피아지수5.28%급락·마이크론7.59%↓"
+  "AI반도체주투매…필라델피아지수5.28%급락·마이크론7.59%↓",
+  "\"엔비디아이사회,젠슨황복귀검토안해\"",
+  "시진핑과회담앞둔트럼프,AI‘대중국포위망’부터폈다[글로벌모...",
+  "美캘리포니아,AI'허깅페이스해킹'사건두고오픈AI제소"
  ],
  "recent_sigs": [
   [
@@ -6195,9 +6195,17 @@
   [
    "2026-11-17T06:14:18.037971+09:00",
    "급락 마이크론 투매 반도체주 필라델피아지수"
+  ],
+  [
+   "2026-11-17T06:16:17.196748+09:00",
+   "부터 트럼프 폈다 대중국 앞둔 시진핑과 포위망 글로벌 회담"
+  ],
+  [
+   "2026-11-17T06:16:17.196748+09:00",
+   "제소 두고 허깅페이스 사건 캘리포니아"
   ]
  ],
- "last_run": "2026-11-17T06:14:36.143978+09:00",
+ "last_run": "2026-11-17T06:16:35.172759+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
