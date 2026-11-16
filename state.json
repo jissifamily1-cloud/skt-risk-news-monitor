@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "http://coinreaders.com/270450",
-  "https://www.ilyosisa.co.kr/news/article.html?no=258938",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211406",
-  "https://mhnse.com/news/articleView.html?idxno=1697993",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16277416",
-  "https://sports.donga.com/ent/article/all/20261116/135029334/1",
-  "https://www.greened.kr/news/articleView.html?idxno=354680",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41656",
-  "https://www.bntnews.co.kr/article/view/bnt202611160021",
-  "https://www.gokorea.kr/news/articleView.html?idxno=885753",
-  "https://www.gokorea.kr/news/articleView.html?idxno=885754",
   "https://www.mt.co.kr/world/2026/11/16/2026111606022747410",
   "https://www.fntimes.com/html/view.php?ud=202611160635345079141825007d_18",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=67778",
@@ -2999,20 +2988,20 @@
   "http://www.4th.kr/news/articleView.html?idxno=2121979",
   "https://www.etnews.com/20261116000486",
   "http://okfashion.co.kr/detail.php?number=64391&thread=62r04",
-  "https://www.ytn.co.kr/_ln/0103_202611161702121263"
+  "https://www.ytn.co.kr/_ln/0103_202611161702121263",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326926",
+  "https://view.asiae.co.kr/article/2026111617050533837",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50605",
+  "https://www.safetimes.co.kr/news/articleView.html?idxno=247500",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715720",
+  "https://biz.chosun.com/it-science/ict/2026/11/16/DU5QDVYN6RD27B5VS4BIXN6CAM/",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963514",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281426",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326959",
+  "https://www.sisajournal.com/news/articleView.html?idxno=394170",
+  "https://www.thepublic.kr/news/articleView.html?idxno=326931"
  ],
  "seen_titles": [
-  "美증시,혼조마감…엔비디아하락세지속-[글로벌마감시황]",
-  "美민주,알래스카주28년만에탈환...韓LNG영향주목-[굿모닝글로벌...",
-  "SKB분할심사본격화…데이터센터빠진후성장동력확보과제",
-  "엔비디아젠슨황,사임나흘만에복귀타진…머스크도가세",
-  "베선트美재무\"젠슨황후임,엔비디아밖에서찾아야\"",
-  "젠슨황,엔비디아CEO복귀논의…측근들백악관설득나서",
-  "비트코인채굴장뚫렸다…AI해킹에수천대'해시레이트'강탈충격",
-  "메가스피드\"앨리스황,지난해회사떠나…우린합법사업\"주장",
-  "메가스피드\"앨리스황,현재회사와무관…합법적으로사업운영\"",
-  "美재무\"젠슨황후임,엔비디아밖에서찾아야\"",
-  "'불륜파문'젠슨황,엔비디아CEO복귀논의중…사임나흘만",
   "엔비디아(NVDA)고점대비30%↓…황사임후첫실적,마진이관건",
   "<스페셜화보>‘2026한국시리즈’삼성우승현장",
   "[채널·커머스Pick]유통가,연말주류수요대응·AI기반서비스확대",
@@ -6001,7 +5990,18 @@
   "SK3분기영업익5조278억원전년비609%급증",
   "KT스카이라이프,3분기영업이익156억원…전년比5.5%↓",
   "패션주약세속종목별등락엇갈려,뷰티주상승종목우세",
-  "\"시험못믿겠다\"AI부정행위일파만파[이슈ON]"
+  "\"시험못믿겠다\"AI부정행위일파만파[이슈ON]",
+  "한국야구,일본에1-5패배…APBC3회연속준우승·한일전13연패",
+  "\"AI부정행위방지위해통신차단?\"…정부전파법놓고막판고민",
+  "LG전자,한국로봇산업진흥원과휴머노이드로봇품질강화협력",
+  "[오늘의주요일정·16일]한성숙총리,스마트기기활용부정행위관련...",
+  "[데일리픽]암호화폐급락이유…젠슨황복귀움직임",
+  "돈줄죄는엔비디아…젠슨황퇴진이후AI생태계‘자금절벽’경고...",
+  "코스피3.59%급락하며5,100선으로후퇴…코스닥4.8%↓",
+  "[마감시황]코스피,3.6%급락하며5,100선턱걸이,코스닥은670선무너...",
+  "엔비디아실적부터미중러정상회담까지…뉴욕증시'슈퍼위크'",
+  "해킹뚫린금융보안원…금융위\"조직·IT전면쇄신\"",
+  "미래에셋계열사해킹점검서일부법위반정황…금감원후속조치속도"
  ],
  "recent_sigs": [
   [
@@ -7007,9 +7007,21 @@
   [
    "2026-11-16T17:06:17.926760+09:00",
    "일파만파 시험 부정행위 믿겠다"
+  ],
+  [
+   "2026-11-16T17:08:16.161252+09:00",
+   "미중러 뉴욕증시 실적부터 슈퍼위크 정상회담까지"
+  ],
+  [
+   "2026-11-16T17:08:16.161252+09:00",
+   "전면 쇄신 뚫린 금융위 금융보안원 IT"
+  ],
+  [
+   "2026-11-16T17:08:16.161252+09:00",
+   "후속조치 속도 점검서 정황 계열사 위반 미래에셋 일부 금감원"
   ]
  ],
- "last_run": "2026-11-16T17:06:41.717214+09:00",
+ "last_run": "2026-11-16T17:08:39.364500+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
