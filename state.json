@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3754772",
-  "https://news.tf.co.kr/read/photomovie/2389955.htm",
-  "https://www.viva100.com/article/20261117500927",
-  "https://www.newsis.com/view/NISX20261117_0003871822",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790188.html",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300241",
-  "https://www.asiatime.co.kr/article/20261117500412",
-  "https://www.asiatime.co.kr/article/20261117500271",
-  "https://www.yna.co.kr/view/AKR20261117132500017?input=1195m",
-  "https://view.asiae.co.kr/article/2026111715584243235",
-  "https://www.aitimes.com/news/articleView.html?idxno=217500",
   "https://www.imaeil.com/page/view/2026111713203375081",
   "https://www.kmib.co.kr/article/20261117501175",
   "https://www.kgnews.co.kr/news/article.html?no=919983",
@@ -2999,20 +2988,20 @@
   "https://www.jasm.co.kr/news/view/325597/?sc=Naver",
   "https://news.jtbc.co.kr/article/NB12328592?influxDiv=NAVER",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000083835",
-  "https://www.hankyung.com/article/202611183354i"
+  "https://www.hankyung.com/article/202611183354i",
+  "https://www.the-today.com/news/articleView.html?idxno=93760",
+  "http://www.bizwnews.com/news/articleView.html?idxno=152130",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=211547",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261117155446kUj",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=87914",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261118073804G8T",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=887546",
+  "https://www.bigtanews.co.kr/article/view/big202611180002",
+  "https://www.mt.co.kr/world/2026/11/18/2026111807355345740",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16279429",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850019.html"
  ],
  "seen_titles": [
-  "[전문]\"1,3교시두차례전수점검…걸리면10년응시·입학금지\"",
-  "전주시,시민얼굴사진모아제야축제미디어파사드제작…12월4일까지...",
-  "한총리\"수능스마트기기부정행위원천봉쇄\"…가방복도보관·재난...",
-  "정부,수능휴대폰등모든전자기기수거·별도보관…모든단추에스...",
-  "배경훈\"수능장통신원천차단은불가능…글로벌AI기업협조로사후...",
-  "[수능대책①]옷단추마다스티커부착…숨긴휴대폰은재난문자로찾는...",
-  "AWS,장기실행AI에이전트'키로봇'출시···SW개발프로세스자...",
-  "[산업뉴스브리핑]LS일렉트릭,베트남제2생산동준공…동남아공략가...",
-  "수익성도건전성도'꼴찌'…구겨진롯데카드성적표",
-  "SK브로드밴드노조\"사업분사반대…매각대금재투자해야\"",
-  "KT클라우드조단위투자유치설…\"다방면검토중\"",
   "WSJ\"앨리스황남편,중국정부지원받아13조규모데이터센터사업추...",
   "\"CEO불륜저지른후주가올랐다?\"…젠슨황엔비디아도'반전'노리나",
   "“젠슨황딸매디슨,권력막강…부사장에게고성지르기도”",
@@ -6001,7 +5990,18 @@
   "젠슨황없는엔비디아,3분기매출155조...시장전망치웃돌아",
   "젠슨황없는엔비디아분기매출'155조원'…전망치훌쩍뛰어넘어",
   "젠슨황떠난엔비디아,매출155조원'깜짝실적'…1년새103%급증",
-  "엔비디아\"우리의지도부굳건…회사안팎서후임찾는중\""
+  "엔비디아\"우리의지도부굳건…회사안팎서후임찾는중\"",
+  "[단독]SK하이닉스인디애나공장,검사·기밀보호협약승인…양산은...",
+  "KB자산운용,미국초대형주와만기회사채에투자하는ETF2종출시",
+  "[마감시황]코스피,132.02포인트(-2.59%)내린4968.48마감",
+  "\"방송·미디어88%가AI써봤지만…실제업무활용은31%불과\"",
+  "수능D-2,단추마다스티커붙이고소매걷는다…정부'AI부정행위'초...",
+  "트럼프\"김정은도中오고싶을것…어떻게될지보자\"",
+  "'젠슨황부재'엔비디아분기매출155조원…임시CEO\"로드맵순조\"",
+  "[데일리머니마켓]미국증시3대지수모두하락",
+  "젠슨황복귀설에도…S&P500넉달만에최저[뉴욕마감]",
+  "삼성전자주가19만원선하락…엔비디아실적호조,HBM4·2나노수혜는",
+  "[속보]엔비디아,3분기중국에호퍼GPU24억달러판매…이제출하중..."
  ],
  "recent_sigs": [
   [
@@ -6507,9 +6507,13 @@
   [
    "2026-11-18T07:38:17.148330+09:00",
    "지도부 우리의 굳건 후임 찾는 안팎서 회사"
+  ],
+  [
+   "2026-11-18T07:40:26.500855+09:00",
+   "출하 호퍼 24억달러 이제 중국에 GPU 3분기 판매"
   ]
  ],
- "last_run": "2026-11-18T07:38:36.329086+09:00",
+ "last_run": "2026-11-18T07:40:47.106583+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
