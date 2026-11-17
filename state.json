@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sctoday.co.kr/news/articleView.html?idxno=49006",
-  "https://news.jtbc.co.kr/article/NB12327326?influxDiv=NAVER",
-  "https://biz.chosun.com/topics/law_firm/2026/11/10/5F27Q3GGBJD6VJSD64Q6YOWNN4/",
   "https://www.newsworker.co.kr/news/articleView.html?idxno=513150",
   "https://www.segye.com/newsView/20261109516603?OutUrl=naver",
   "https://shindonga.donga.com/3/all/13/6452269/1",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3754511",
   "https://www.naeil.com/news/read/609081",
   "https://www.naeil.com/news/read/609080",
-  "https://www.naeil.com/news/read/609082"
+  "https://www.naeil.com/news/read/609082",
+  "https://mhnse.com/news/articleView.html?idxno=1700446",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=229541",
+  "https://www.boannews.com/news/articleView.html?idxno=147280"
  ],
  "seen_titles": [
-  "노재헌주중대사,'노태우비자금은닉의혹'피의자입건…904억원메모...",
-  "공소청,'노태우비자금의혹'노재헌주중대사피의자입건",
-  "[김종석의리포트]‘노태우비자금의혹’노재헌연내소환방침",
   "공소청,‘노태우비자금은닉의혹’노재헌피의자입건…연내소환...",
   "공소청,'노태우비자금의혹'노재헌피의자입건…연내소환방침",
   "[단독]‘노태우비자금의혹’노재헌연내소환방침",
@@ -6001,7 +5998,10 @@
   "대전시교육청,중증장애인근로현장'직접점검'…고충해소나선다",
   "“금융권유출경위·대응과정공개하라”",
   "‘법위반혐의’미래에셋,어떤제재받을까",
-  "국제항공예약시스템운영사해킹여파"
+  "국제항공예약시스템운영사해킹여파",
+  "배윤경,티빙'써닝야구단'출연확정…승무원아내역김도연변신('써...",
+  "네플라,대한민국인터넷대상부총리상수상",
+  "통신사장비에숨어든스파이조직...'사일런트에어',대만이용자노..."
  ],
  "recent_sigs": [
   [
@@ -7183,9 +7183,13 @@
   [
    "2026-11-17T13:10:29.159989+09:00",
    "여파 운영사 국제 항공예약시스템"
+  ],
+  [
+   "2026-11-17T13:12:17.496644+09:00",
+   "사일런트에어 스파이 장비에 숨어든 이용자 대만"
   ]
  ],
- "last_run": "2026-11-17T13:10:44.871307+09:00",
+ "last_run": "2026-11-17T13:12:39.206356+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
