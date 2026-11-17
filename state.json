@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cstimes.com/news/articleView.html?idxno=727971",
-  "https://www.smartbizn.com/news/articleView.html?idxno=159447",
-  "https://www.newsworker.co.kr/news/articleView.html?idxno=514102",
-  "https://www.thelec.kr/news/articleView.html?idxno=65452",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101303",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715325",
-  "https://www.greened.kr/news/articleView.html?idxno=354680",
   "https://www.econovill.com/news/articleView.html?idxno=757285",
   "https://www.cbci.co.kr/news/articleView.html?idxno=627094",
   "https://www.segye.com/newsView/20261115508989?OutUrl=naver",
@@ -2999,16 +2992,16 @@
   "https://www.businesskorea.co.kr/news/articleView.html?idxno=281504",
   "https://www.sisaweek.com/news/articleView.html?idxno=239011",
   "https://www.youngnong.co.kr/news/articleView.html?idxno=71877",
-  "https://www.autodaily.co.kr/news/articleView.html?idxno=602157"
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602157",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3754460",
+  "https://www.public25.com/news/articleView.html?idxno=58584",
+  "https://www.itdaily.kr/news/articleView.html?idxno=242977",
+  "https://sateconomy.co.kr/news/view/1065581047590879",
+  "https://www.newscj.com/news/articleView.html?idxno=3449368",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42764",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445161"
  ],
  "seen_titles": [
-  "[그래픽]2026SK그룹CEO세미나핵심논의의제",
-  "최태원\"스스로를AI컴퍼니로재정의\"…'AI플라이휠'로토큰이코노미...",
-  "IT-가전업계,CES202719개혁신상수상...'2026CEO세미나'서미래성장...",
-  "최태원\"AI시대혼자선못해\"…글로벌협력·AI플라이휠강조",
-  "최태원,AI반도체호황이후를준비한다···SK그룹리밸런싱의다음...",
-  "GIST,에너지기술교류회서10개기관투자IR",
-  "SK그룹,AI연산서비스기업으로도약",
   "SK,반도체다음은'서비스'…최태원\"'토큰이코노미'선점해야\"",
   "유리기판시장'빅테크퀄테스트'결과눈앞…양산시점은엇갈려",
   "최태원,SK'CEO세미나'에서\"AI컴퍼니재정의...AI서비스·토큰이코...",
@@ -6001,7 +5994,14 @@
   "NH농협은행,기업뱅킹전면개편사용자편의강화",
   "[단독]바퀴형로봇도계단오른다…LG전자,신기술특허",
   "'AI연구원'나오나…농생명논문3만편학습",
-  "\"AI효율화외치며안전은뒷전\"⋯KT그룹,혹한기현장관리도마위"
+  "\"AI효율화외치며안전은뒷전\"⋯KT그룹,혹한기현장관리도마위",
+  "클래식·국악·무용의'벽'을허문다…대전문화재단DNA프로젝트",
+  "프롬,22일'AI명작감상회'개최…인공지능시대배우의연기본질조...",
+  "美,AI칩수출후용도변경도통제…파운드리·패키징심사강화",
+  "업비트·빗썸·코인원,카바거래유의종목지정…12월중순거래지원여...",
+  "엔비디아충격에AI투자흔들…IMF도'거품붕괴'경고",
+  "오픈AI,전세계과학자최대20만명에챗GPT무료지원…AI연구생태계...",
+  "美의회8개위원회,엔비디아발안보·상무부태만조사계획"
  ],
  "recent_sigs": [
   [
@@ -7223,9 +7223,13 @@
   [
    "2026-11-17T12:58:17.504200+09:00",
    "현장 ~KT 외치며 KT그룹 뒷전 관리 혹한기 도마 효율화 안전은"
+  ],
+  [
+   "2026-11-17T13:00:43.963787+09:00",
+   "생태계 지원 챗GPT 20만 무료 세계 연구 과학자 명에"
   ]
  ],
- "last_run": "2026-11-17T12:58:35.995100+09:00",
+ "last_run": "2026-11-17T13:01:01.366015+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
