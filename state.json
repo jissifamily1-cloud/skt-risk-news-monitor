@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://n.news.naver.com/mnews/article/077/0007240582",
-  "https://n.news.naver.com/mnews/article/077/0007240570",
-  "https://www.nytimes.com/2026/11/16/business/elon-musk-tesla-spacex.html?partner=naver",
-  "https://www.etoday.co.kr/news/view/2648264",
-  "https://www.tokenpost.kr/news/breaking/438511",
   "http://www.metroseoul.co.kr/article/20261115500060",
   "https://econotimes.com/Alibaba-s-Code-Review-Tool-Uses-Fewer-Tokens-but-Catches-Fewer-Issues-1777015",
   "https://www.ziksir.com/news/articleView.html?idxno=153328",
@@ -2999,14 +2994,14 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=447301",
   "https://www.ajunews.com/view/20261117133945010",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714969",
-  "https://www.aitimes.com/news/articleView.html?idxno=217479"
+  "https://www.aitimes.com/news/articleView.html?idxno=217479",
+  "https://www.thisisgame.com/articles/432788",
+  "http://www.dailysmart.co.kr/news/articleView.html?idxno=132694",
+  "https://www.widedaily.com/news/articleView.html?idxno=303901",
+  "https://www.g-enews.com/view.php?ud=202611171125563090923c501012_1",
+  "https://www.news1.kr/world/usa-canada/6356669"
  ],
  "seen_titles": [
-  "'부정행위도구'오명쓸라…스마트안경제조사부담↑",
-  "달라진'쇼핑경험',무엇을주목해야할까[아침을열며]",
-  "입사하면사천만원준다…미국기술업계모시기전쟁",
-  "[설왕설래]위기의순환금융",
-  "법무법인원,기술법무전담조직TIF팀출범",
   "[헬로즈업]유럽형휴머노이드주권지킨다…伊스타트업,유럽최대‘...",
   "USSemaforTechSummit",
   "TechConference",
@@ -6001,25 +5996,14 @@
   "트럼프,\"러트닉상무훌륭하게일해내\"...반도체수출통제놓고내각...",
   "\"젠슨황딸,엔비디아서막강한영향력행사…고위임원들과갈등\"",
   "싱가포르장관“메가스피드아직조사중…법어겼다면책임물을것”",
-  "오픈AI,외부전문가에내부모델·학습데이터개방...AI안전성독립..."
+  "오픈AI,외부전문가에내부모델·학습데이터개방...AI안전성독립...",
+  "26승1패티원,5세트까지간결승에서디플러스기아유스에무릎",
+  "\"지루했던기업뱅킹의대변신\"…NH농협은행,'NH기업뱅킹'전면개편으...",
+  "젠슨황,엔비디아간판행사'GTCDC'연사서제외…대외행보잇단중...",
+  "코스피,역대급저평가에도매수실종…外人한달새12조'매물폭탄'",
+  "트럼프이어밴스도\"젠슨황불륜여성,스파이인지불확실\""
  ],
  "recent_sigs": [
-  [
-   "2026-11-17T08:08:22.030415+09:00",
-   "방어에도 보안 한계 있어 암호 권위자 골키퍼 바꿔야 김창영의"
-  ],
-  [
-   "2026-11-17T08:08:22.030415+09:00",
-   "50억달러 기술 AI의 생각 읽는 검토 베팅"
-  ],
-  [
-   "2026-11-17T08:08:22.030415+09:00",
-   "최저 290달 우려에 4개월 프리미엄 투자 중국 현물 만의"
-  ],
-  [
-   "2026-11-17T08:08:22.030415+09:00",
-   "증시도 젠슨황 흔들 파장속 위협받나 5천피"
-  ],
   [
    "2026-11-17T08:10:38.866660+09:00",
    "경고 삼성에 앤트로픽 걱정 상장엔 설명 AI칩"
@@ -7091,9 +7075,17 @@
   [
    "2026-11-17T14:08:18.370130+09:00",
    "안전성 전문가에 외부 개방 독립 모델 내부 데이터 학습"
+  ],
+  [
+   "2026-11-17T14:10:27.011010+09:00",
+   "매물 매수 코스피 실종 폭탄 저평가에도 역대급 12조 한달새"
+  ],
+  [
+   "2026-11-17T14:10:27.011010+09:00",
+   "스파이인지 불확실 젠슨황 여성 이어 불륜 트럼프 밴스도"
   ]
  ],
- "last_run": "2026-11-17T14:08:37.673646+09:00",
+ "last_run": "2026-11-17T14:10:45.412447+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
