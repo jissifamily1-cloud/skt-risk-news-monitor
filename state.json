@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.venturesquare.net/1129344/",
-  "https://www.newstopkorea.com/news/articleView.html?idxno=49111",
-  "https://www.newspim.com/news/view/20261117001033",
-  "https://www.nocutnews.co.kr/news/6608192",
-  "https://www.edaily.co.kr/News/Read?newsId=04103286645646704&mediaCodeNo=257",
-  "https://www.intn.co.kr/news/articleView.html?idxno=3000306",
-  "http://www.seouleconews.com/news/articleView.html?idxno=95069",
-  "http://www.yonhapnewstv.co.kr/news/AKR202611171515266G6",
   "https://slownews.kr/169632",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=67910",
   "https://www.ajunews.com/view/20261117150852342",
@@ -2999,17 +2991,17 @@
   "https://www.newsian.co.kr/news/articleView.html?idxno=101456",
   "https://www.seoulfn.com/news/articleView.html?idxno=643137",
   "https://www.ytn.co.kr/_ln/0104_202611180651346951",
-  "https://www.hankyung.com/article/202611183276i"
+  "https://www.hankyung.com/article/202611183276i",
+  "https://en.yna.co.kr/view/AEN20261118000900315?input=2106m",
+  "http://coinreaders.com/271130",
+  "https://www.kyeonggi.com/article/20261118580014",
+  "http://www.inews24.com/view/2027401",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284603",
+  "https://www.etoday.co.kr/news/view/2649489",
+  "https://weekly.khan.co.kr/article/202611180657001",
+  "https://www.sedaily.com/article/20115686"
  ],
  "seen_titles": [
-  "스팩스페이스,웹기반3D·4D뷰어오픈소스공개…CAD도면비교·공간...",
-  "코스피장중5000선붕괴...외국인9600억순매도",
-  "中'링성',슈퍼컴퓨터세계1위유지...한국'한강'12위진입",
-  "금감원,대부·전금·온투자업권보안점검…\"부실점검시엄정제재\"",
-  "[단독]KB금융해외법인보안비상…KB증권베트남서21억빠져나갔다",
-  "금융감독원,금융권침해사고관련대부업권설명회개최",
-  "中연계해킹조직,AI로11일간200여곳겨냥…韓외교·정책기관도표적",
-  "中,美첨단AI모델로훈련…\"대중규제효과약화가능성\"",
   "도시재생의키워드:점이아니라네트워크로,상품이아니라스토리를...",
   "\"건강검진은예방의료의출발점\"비바이노베이션,DHP2026서협업모델...",
   "<인터뷰>볼턴\"트럼프,中서김정은만날수도…미·중·러회담은사진...",
@@ -6001,7 +5993,15 @@
   "젠슨황없는엔비디아도질주…3분기매출155조원,103%급증",
   "[뉴욕증시]다우1.64%↓,반도체주반등···엔비디아시간외2%반등",
   "트럼프\"김정은,중국오고싶어할것\"...\"한국투자덕에알래스카LNG...",
-  "엔비디아잉여현금전분기2배인437억달러…지분투자도늘어"
+  "엔비디아잉여현금전분기2배인437억달러…지분투자도늘어",
+  "(EDITORIALfromKoreaTimesonNov.18)",
+  "비트코인63,000달러마저무너지나…美증시·금·달러동시경고신호",
+  "6천800명에서1만명대로…미래에셋생명정보유출규모커졌다",
+  "엔비디아실적앞두고美증시일제히하락⋯다우1.64%↓",
+  "엔비디아,3분기매출155조원,103%↑…전망치뛰어넘어",
+  "엔비디아,실적·전망치기대상회⋯시간외서2%강세[마켓핫]",
+  "‘불륜스캔들’젠슨황“이사회요청하면CEO복귀의향”",
+  "美증시,기밀통신망마비에하락지속...다우지수,5개월만에최저[데일..."
  ],
  "recent_sigs": [
   [
@@ -6315,9 +6315,13 @@
   [
    "2026-11-18T06:58:16.459566+09:00",
    "다우 반등 시간외 반도체주"
+  ],
+  [
+   "2026-11-18T07:00:40.408616+09:00",
+   "증시 기밀통신망 마비에 다우지수 5개월만에 데일 하락 지속 최저"
   ]
  ],
- "last_run": "2026-11-18T06:58:35.888865+09:00",
+ "last_run": "2026-11-18T07:00:55.890830+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
