@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.nocutnews.co.kr/news/6607026",
-  "https://www.techm.kr/news/articleView.html?idxno=157368",
   "https://www.fnnews.com/news/202611151554368166",
   "https://www.sidae.com/article/2026111114493792000",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=300957",
@@ -2999,11 +2997,11 @@
   "https://www.tokenpost.kr/news/breaking/439571",
   "https://www.dailian.co.kr/news/view/1716085/?sc=Naver",
   "https://www.aitimes.com/news/articleView.html?idxno=217481",
-  "https://www.tokenpost.kr/news/breaking/439572"
+  "https://www.tokenpost.kr/news/breaking/439572",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261117125052YrM",
+  "https://www.gamechosun.co.kr/webzine/article/view.php?no=227721"
  ],
  "seen_titles": [
-  "SK하이닉스,협력사R&D실패위험나눈다…5년간1조4000억투입",
-  "실패해도개발비보상…SK하이닉스,협력사R&D위험나눈다",
   "[르포]SK하이닉스용인팹에1000평‘상생실험실’…소부장국산화앞...",
   "[르포]SK하닉'트리니티팹'둘러본외신기자의질문\"이거왜하죠?\"",
   "[가봤다]韓반도체소부장퀀텀점프도약대...SK하이닉스'트리니티팹...",
@@ -6001,13 +5999,11 @@
   "미법무부,메가스피드AI칩수사주도확인…중단보도엔답없었다",
   "[현장]DC분사에뿔난SKB노조…\"영업익1000억빠지는데성장재원전...",
   "최예진교수스타트업,엔비디아등에서1500억유치…'자기개선AI'개...",
-  "비트겟해킹연관주소,BTC이동계속…잔액약35개"
+  "비트겟해킹연관주소,BTC이동계속…잔액약35개",
+  "코스피,美AI주급락에내려…나흘연속하락",
+  "엔비디아,글로벌제조파트너십기반인공지능공급망전략공개"
  ],
  "recent_sigs": [
-  [
-   "2026-11-17T06:50:39.346264+09:00",
-   "지슨 시험 몰리나 정부 아이디스 부정행위에 빼든 매수세"
-  ],
   [
    "2026-11-17T06:54:15.809120+09:00",
    "경고등 기반시설에도 IT 산업 AI로 넘어 가속"
@@ -7239,9 +7235,13 @@
   [
    "2026-11-17T12:48:15.410505+09:00",
    "스타트업 자기 유치 개선 등에서 1500억 최예진 교수"
+  ],
+  [
+   "2026-11-17T12:52:23.357225+09:00",
+   "전략 공개 제조 인공지능 글로벌 공급망 기반 파트너십"
   ]
  ],
- "last_run": "2026-11-17T12:50:45.292828+09:00",
+ "last_run": "2026-11-17T12:52:41.077912+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
@@ -7474,7 +7474,7 @@
   "newsfc.co.kr": "금융소비자뉴스",
   "civicnews.com": "CIVICNEWS(시빅뉴스)",
   "hbnpress.com": "hbnpress.com",
-  "gamechosun.co.kr": "gamechosun.co.kr",
+  "gamechosun.co.kr": "게임조선",
   "bigtanews.co.kr": "빅터뉴스",
   "vop.co.kr": "vop.co.kr",
   "topdaily.kr": "톱데일리",
