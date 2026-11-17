@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=217799",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/17/2026111750055.html",
-  "https://economist.co.kr/article/view/ecn202611170009",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715937",
   "https://www.fnnews.com/news/202611170932533716",
   "https://www.kbsm.net/news/view.php?idx=542003",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849171&plink=ORI&cooper=NAVER",
@@ -2999,13 +2995,13 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=884335",
   "https://www.tenasia.co.kr/article/2026111717864",
   "http://coinreaders.com/271009",
-  "https://www.seoul.co.kr/news/economy/securities/2026/11/18/20261118029002?wlog_tag3=naver"
+  "https://www.seoul.co.kr/news/economy/securities/2026/11/18/20261118029002?wlog_tag3=naver",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611170126&t=NN",
+  "https://www.newsis.com/view/NISX20261115_0003868753",
+  "https://www.hankyung.com/article/2026111574961",
+  "https://www.dailian.co.kr/news/view/1716350/?sc=Naver"
  ],
  "seen_titles": [
-  "[위클리오늘]코스피5000선출발···환율1330원대",
-  "SK하이닉스,美매출비중60%돌파…엔비디아추정매출두배로",
-  "젠슨황떠난엔비디아실적발표D-1…삼성·SK'차세대HBM'가늠자",
-  "美반도체주급락에코스피휘청…이틀째약세",
   "'젠슨황여파'美급락에코스피4900선…삼전닉스1~2%↓",
   "'엔비디아반전은없었다',젠슨황복귀설부인과함께하향곡선",
   "엔비디아\"지포스끝아니다\"…철수설일축에도게이머들불안한이유",
@@ -6001,7 +5997,11 @@
   "앨리스황소개한남편캉웨이,중국에데이터센터짓고있었다",
   "이민기·곽선영,급발진사고인줄알았는데…'설계된살인'정황포착...",
   "비트코인(BTC)2018년악몽재현?...호건\"몇주만버티면2027년아주좋...",
-  "악재가된AI…‘5000P’도내줬다"
+  "악재가된AI…‘5000P’도내줬다",
+  "'1만피'꿈꿨지만9달만에'반토막'…\"국장매콤하다\"vs\"이제사볼만\"",
+  "[오늘의주요일정]과기정통부·방미통위·개보위(11월16일월요일)",
+  "[데스크칼럼]강한처벌이해킹을없앨까",
+  "[데일리안오늘뉴스종합]수능시험전위급재난문자발송해미제출..."
  ],
  "recent_sigs": [
   [
@@ -6911,9 +6911,13 @@
   [
    "2026-11-17T21:04:18.517650+09:00",
    "내줬다 악재가 5000P"
+  ],
+  [
+   "2026-11-17T21:06:22.172165+09:00",
+   "수능 위급재난문자 발송해 시험 미제출"
   ]
  ],
- "last_run": "2026-11-17T21:04:34.508796+09:00",
+ "last_run": "2026-11-17T21:06:43.301593+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
