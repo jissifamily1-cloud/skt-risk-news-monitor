@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.imaeil.com/page/view/2026111713203375081",
-  "https://www.kmib.co.kr/article/20261117501175",
-  "https://www.kgnews.co.kr/news/article.html?no=919983",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084481",
-  "https://www.m-i.kr/news/articleView.html?idxno=2019751",
-  "https://www.hankyung.com/article/2026111723587",
-  "https://www.pointdaily.co.kr/news/articleView.html?idxno=326325",
-  "https://game.donga.com/125163/",
-  "http://www.breaknews.com/1251638",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=903310",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611170108&t=NN",
   "https://www.etnews.com/20261117000305",
@@ -2999,18 +2990,18 @@
   "https://www.bigtanews.co.kr/article/view/big202611180002",
   "https://www.mt.co.kr/world/2026/11/18/2026111807355345740",
   "https://www.topstarnews.net/news/articleView.html?idxno=16279429",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850019.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850019.html",
+  "https://biz.sbs.co.kr/article_hub/20000347079?division=NAVER",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850699&plink=ORI&cooper=NAVER",
+  "https://www.chosun.com/economy/tech_it/2026/11/18/6PV66QAFSBFAVE6XKME3K5BMDE/",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445243",
+  "https://www.kukinews.com/article/view/kuk202611180010",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16279430",
+  "https://www.ytn.co.kr/_ln/0104_202611180739272221",
+  "https://www.fnnews.com/news/202611180739387950",
+  "https://www.jemin.com/news/articleView.html?idxno=847553"
  ],
  "seen_titles": [
-  "WSJ\"앨리스황남편,중국정부지원받아13조규모데이터센터사업추...",
-  "\"CEO불륜저지른후주가올랐다?\"…젠슨황엔비디아도'반전'노리나",
-  "“젠슨황딸매디슨,권력막강…부사장에게고성지르기도”",
-  "코스피5000선붕괴…이틀새6.1%하락",
-  "'젠슨황후폭풍'5000피마저무너졌다",
-  "WSJ\"앨리스황남편,中정부지원속12조원데이터센터사업\"",
-  "WSJ\"앨리스황남편,중국정부지원받아데이터센터추진\"",
-  "'AI해킹'공습에한국외교·싱크탱크뚫렸다…中연계조직,침투성...",
-  "[동영상]엔비디아가직접만든게임이있다?",
   "북한김정은,심복조용원을러시아에급파한3가지이유",
   "LG,계열사협업으로'AI3축'승부…전문가\"엔비디아의존,이익의질...",
   "\"시험장도공항처럼보안검색…AI해킹은전제조건\"",
@@ -6001,7 +5992,16 @@
   "[데일리머니마켓]미국증시3대지수모두하락",
   "젠슨황복귀설에도…S&P500넉달만에최저[뉴욕마감]",
   "삼성전자주가19만원선하락…엔비디아실적호조,HBM4·2나노수혜는",
-  "[속보]엔비디아,3분기중국에호퍼GPU24억달러판매…이제출하중..."
+  "[속보]엔비디아,3분기중국에호퍼GPU24억달러판매…이제출하중...",
+  "SK브로드밴드노조\"사업분사반대…매각대금재투자해야\"",
+  "[글로벗마켓시황]'기밀통신망장애'투자위축…3거래일째약세",
+  "엔비디아이사회“AI생태계지원하지만,엄격히심사할것...젠슨황...",
+  "\"젠슨황복귀선언에엔비디아이사회압박거세질것\"",
+  "엔비디아3분기매출155조원,103%↑…시장예상치상회",
+  "젠슨황,엔비디아CEO복귀의사밝혔지만…이사회의장\"재선임계획...",
+  "엔비디아이사회의장\"젠슨황재선임의사없어\"...트럼프\"복귀보고...",
+  "엔비디아\"젠슨황없어도TSMC협력흔들림없다\"",
+  "미국,엔비디아아시아거래망정밀점검…싱가포르업체수사확대"
  ],
  "recent_sigs": [
   [
@@ -6511,9 +6511,17 @@
   [
    "2026-11-18T07:40:26.500855+09:00",
    "출하 호퍼 24억달러 이제 중국에 GPU 3분기 판매"
+  ],
+  [
+   "2026-11-18T07:42:15.573358+09:00",
+   "없다 TSMC 협력 흔들림 젠슨 없어도"
+  ],
+  [
+   "2026-11-18T07:42:15.573358+09:00",
+   "점검 싱가포르 거래망 정밀 수사 확대 미국 업체 아시아"
   ]
  ],
- "last_run": "2026-11-18T07:40:47.106583+09:00",
+ "last_run": "2026-11-18T07:42:36.732016+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
