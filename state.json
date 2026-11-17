@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559338",
-  "https://www.joongang.co.kr/article/25477425",
-  "https://www.newsis.com/view/NISX20261110_0003862859",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000559307",
   "https://www.sctoday.co.kr/news/articleView.html?idxno=49006",
   "https://news.jtbc.co.kr/article/NB12327326?influxDiv=NAVER",
   "https://biz.chosun.com/topics/law_firm/2026/11/10/5F27Q3GGBJD6VJSD64Q6YOWNN4/",
@@ -2999,13 +2995,13 @@
   "https://www.yna.co.kr/view/PYH20261117100300013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261117100000013?input=1196m",
   "https://www.yna.co.kr/view/PYH20261117100200013?input=1196m",
-  "https://www.naeil.com/news/read/609083"
+  "https://www.naeil.com/news/read/609083",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3754511",
+  "https://www.naeil.com/news/read/609081",
+  "https://www.naeil.com/news/read/609080",
+  "https://www.naeil.com/news/read/609082"
  ],
  "seen_titles": [
-  "'노태우비자금의혹'노재헌주중대사피의자입건…소환방침",
-  "‘노태우비자금의혹’…子노재헌주중대사피의자입건",
-  "'노태우비자금의혹'수사새국면…공소청,아들노재헌피의자입건",
-  "공소청,'노태우비자금의혹'노재헌피의자입건…연내소환추진",
   "노재헌주중대사,'노태우비자금은닉의혹'피의자입건…904억원메모...",
   "공소청,'노태우비자금의혹'노재헌주중대사피의자입건",
   "[김종석의리포트]‘노태우비자금의혹’노재헌연내소환방침",
@@ -6001,7 +5997,11 @@
   "허깅페이스뚫은에이전트수백개...캘리포니아주,오픈AI상대로소송",
   "젠슨황복귀,트럼프는찬성·이사회는반대",
   "시민단체,금융권해킹개인정보유출규탄",
-  "시험부정행위정보확산…차단은쉽지않아"
+  "시험부정행위정보확산…차단은쉽지않아",
+  "대전시교육청,중증장애인근로현장'직접점검'…고충해소나선다",
+  "“금융권유출경위·대응과정공개하라”",
+  "‘법위반혐의’미래에셋,어떤제재받을까",
+  "국제항공예약시스템운영사해킹여파"
  ],
  "recent_sigs": [
   [
@@ -7179,9 +7179,13 @@
   [
    "2026-11-17T13:08:16.600834+09:00",
    "젠슨 반대 복귀 찬성 이사회는 트럼프는"
+  ],
+  [
+   "2026-11-17T13:10:29.159989+09:00",
+   "여파 운영사 국제 항공예약시스템"
   ]
  ],
- "last_run": "2026-11-17T13:08:32.086141+09:00",
+ "last_run": "2026-11-17T13:10:44.871307+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
