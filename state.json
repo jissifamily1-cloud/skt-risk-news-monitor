@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261116113751008?input=1195m",
-  "https://www.donga.com/news/Economy/article/all/20261116/135032627/1",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=513579",
-  "https://www.seoul.co.kr/news/life/2026/11/12/20261112500053?wlog_tag3=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=02601046645645064&mediaCodeNo=257",
-  "https://www.the-today.com/news/articleView.html?idxno=93439",
-  "https://nownews.seoul.co.kr/news/newsView.php?id=20261111601015&wlog_tag3=naver",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41567",
-  "https://www.gokorea.kr/news/articleView.html?idxno=884999",
-  "https://www.sidae.com/article/2026111113440247933",
   "https://www.mt.co.kr/tech/2026/11/12/2026111113105543075",
   "https://www.thepublic.kr/news/articleView.html?idxno=326000",
   "https://www.mt.co.kr/tech/2026/11/11/2026111015272427390",
@@ -2999,19 +2989,19 @@
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715937",
   "https://www.fnnews.com/news/202611170932533716",
   "https://www.kbsm.net/news/view.php?idx=542003",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849171&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849171&plink=ORI&cooper=NAVER",
+  "https://www.etoday.co.kr/news/view/2641159",
+  "https://www.insight.co.kr/news/581681",
+  "https://www.youthdaily.co.kr/news/article.html?no=229941",
+  "https://www.koit.co.kr/news/articleView.html?idxno=209947",
+  "https://www.smartbizn.com/news/articleView.html?idxno=159674",
+  "https://www.econovill.com/news/articleView.html?idxno=757495",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=802150",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42756",
+  "http://www.inews24.com/view/2026966",
+  "https://www.industrynews.co.kr/news/articleView.html?idxno=89648"
  ],
  "seen_titles": [
-  "코스피저평가라는데왜떨어지나…반등가로막는3대악재[이슈+]",
-  "[마감시황]엔비디아發'AI경계령'에반도체株급락…5100선가까스로...",
-  "외인'매도폭탄'에삼전·닉스급락…20만원·120만원붕괴",
-  "'젠슨황'파장지속,'AI빅위크'경계감…증시다시출렁(종합)",
-  "엔비디아악재에D램담합소송까지…코스피5100선‘턱걸이’",
-  "최태원지분팔았는데주가하락걱정?SK(주)‘4000억PRS’정산부담...",
-  "한중일융합예술포럼‘trulyseeyou’성료...인간과기술의새로운...",
-  "한중일융합예술포럼‘trulyseeyou’성료…특별전통해‘우리’의...",
-  "[최태원과젠슨황]같은불륜고백…SK최태원·젠슨황의서로다른문...",
-  "젠슨황이혼땐100조원?…한국에선‘절반분할’이원칙아닌이유[...",
   "[포토]한중일융합예술포럼성료,\"AI시대진정한우리란?\"",
   "노태우전대통령비자금의혹,노재헌대사입건...동아시아문화재단...",
   "\"국채입찰금리왜곡못한다\"는데도공정위1.6조과징금",
@@ -6001,7 +5991,17 @@
   "엔비디아\"지포스끝아니다\"…철수설일축에도게이머들불안한이유",
   "구글\"AI가사람없이공격코드개발\"…해킹시간더빨라진다",
   "AI커닝장비구매처까지SNS확산…정부,유통방지나서",
-  "고민수방미통위부위원장\"낡고경직된규제는과감히혁신해야\""
+  "고민수방미통위부위원장\"낡고경직된규제는과감히혁신해야\"",
+  "코어위브에놀라고앤스로픽에안도⋯AI거품논쟁뒤남은‘회수의시...",
+  "통신3사,동반성장지수나란히'최우수'...SKT14년·KT12년·LG유플8년...",
+  "2027년'FA1호'계약성사…오태곤,3년11억원에SSG잔류",
+  "이노그리드,3분기역대최대매출…영업흑자전환",
+  "파수AI,FDI서밋서AI에이전트권한관리전략제시",
+  "디플리,항만크레인이상음99.9%감지\"PSA해외터미널공급타진\"",
+  "[위클리오늘]이동통신소식_SK텔레콤,LG유플러스(11.17)",
+  "오픈AI올트먼\"AI에인간의미래통제권넘겨선안돼\"…초지능시대인...",
+  "엔비디아發AI우려지속⋯코스피한때'5000선'붕괴",
+  "GIST,'2026G.E.T.&Re:Born'개최…전남·광주에너지산업의혁신과성..."
  ],
  "recent_sigs": [
   [
@@ -6959,9 +6959,21 @@
   [
    "2026-11-17T09:48:17.421965+09:00",
    "과감히 규제는 고민수 경직된 부위원장 낡고 혁신해야"
+  ],
+  [
+   "2026-11-17T09:50:37.057473+09:00",
+   "이동통신 LG유플러스 ~SKT ~LGU 소식"
+  ],
+  [
+   "2026-11-17T09:50:37.057473+09:00",
+   "GIST 혁신과 Re 전남 광주 Born 에너지산업의 개최"
+  ],
+  [
+   "2026-11-17T09:50:37.057473+09:00",
+   "시대 통제권 미래 초지능 인간의 넘겨선 AI에"
   ]
  ],
- "last_run": "2026-11-17T09:48:42.583521+09:00",
+ "last_run": "2026-11-17T09:50:58.680378+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
