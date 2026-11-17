@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.segye.com/newsView/20261116518821?OutUrl=naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714269",
-  "https://enter.etoday.co.kr/news/view/305363",
-  "https://www.mk.co.kr/article/12210384",
-  "https://www.tokenpost.kr/news/breaking/439106",
-  "https://www.bntnews.co.kr/article/view/bnt202611160245",
-  "https://www.m-i.kr/news/articleView.html?idxno=2019316",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560263",
-  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160311149553600",
-  "https://www.seoul.co.kr/news/economy/industry/2026/11/16/20261116500374?wlog_tag3=naver",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714267",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690307.html",
   "http://www.popcornnews.net/news/articleView.html?idxno=139605",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261111010004288",
@@ -2999,20 +2988,20 @@
   "https://www.kmib.co.kr/article/20261117500568",
   "https://www.joongang.co.kr/article/25479360",
   "https://www.yna.co.kr/view/AKR20261116170051017?input=1195m",
-  "https://www.news1.kr/it-science/security-hacking/6356554"
+  "https://www.news1.kr/it-science/security-hacking/6356554",
+  "https://www.edaily.co.kr/News/Read?newsId=04037686645646376&mediaCodeNo=257",
+  "https://www.mhj21.com/news/articleView.html?idxno=254823",
+  "https://basketkorea.com/news/newsview.php?ncode=1065611853556750",
+  "https://www.betanews.net/article/view/beta202611170039",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001200",
+  "https://www.datasom.co.kr/news/articleView.html?idxno=210836",
+  "http://www.ferrotimes.com/news/articleView.html?idxno=51514",
+  "https://www.edaily.co.kr/News/Read?newsId=03535846645646704&mediaCodeNo=257",
+  "https://www.aitimes.com/news/articleView.html?idxno=217473",
+  "https://www.newsis.com/view/NISX20261117_0003871347",
+  "https://www.ytn.co.kr/_ln/0102_202611171155331063"
  ],
  "seen_titles": [
-  "[이시각헤드라인]11월16일뉴스투나잇",
-  "IsJensenHuangPlottingaComeback?",
-  "시험장파고든AI안경…수만원대부터100만원대까지국내판매돼",
-  "“北해킹조직.AI활용정착단계…사이버공격역량확대”",
-  "조폐공사,‘착’해킹사고사과…부정결제정황없어",
-  "'크래시2:분노의도로',박지성합류…등장인물관계도본격전개",
-  "“나젠슨황입니다,4000만원만”…대만서사칭피싱문자확산",
-  "엔비디아개장전3%넘게하락…UBS·미즈호등목표가하향",
-  "'크래시2'등장인물관계도,몇부작,OTT는?",
-  "정부,수능사흘앞두고AI부정행위긴급점검…문제풀이차단검토",
-  "[김종석의샷]젠슨황복귀움직임?",
   "\"젠승황초대하고싶다\"...여자아나운서의색다른발언의미는?",
   "삼성전자,3분기누적매출500조원사상최대…SK하이닉스는엔비디아...",
   "젠슨황복귀론에갑질폭로까지…미재무“후임은엔비디아밖에서”",
@@ -6001,85 +5990,20 @@
   "트럼프,김정은과깜짝‘외교쇼’띄우기…극적반전있을까,또‘말...",
   "캘리포니아주,오픈AI제소…AI사이버공격에법적책임묻다",
   "AI커닝장비구매처까지SNS확산…정부,유통방지나선다(종합)",
-  "中해킹조직,'아르텍스'로한국외교기관노렸다…국내공격확인"
+  "中해킹조직,'아르텍스'로한국외교기관노렸다…국내공격확인",
+  "[미리보는이데일리신문]몇달째못갚았는데또오르는대출금리",
+  "효성중공업·SK텔레콤,AI데이터센터전력인프라구축'맞손'",
+  "[BK프리뷰]아직들쭉날쭉한DB,상승세타고있는정관장",
+  "델테크놀로지스,에이전틱엔터프라이즈AI확장위한데이터및AI인...",
+  "Samsungweighsin-houseAIasforeignsoftwarefeessurge",
+  "[분석]AI데이터센터전력·냉각···삼성·LG·GS·포스코각축",
+  "페로타임즈손바닥뉴스11월17일(화)",
+  "제왕이떠났다…엔비디아실적발표무엇이다른가",
+  "알트먼\"젠슨황없이도AI산업괜찮을것\"...복귀지지는유보",
+  "미·중·러정상회담앞'젠슨황스캔들'…시진핑정상외교에'암초'",
+  "엔비디아·AI규제투매여파...코스피,사흘째하락"
  ],
  "recent_sigs": [
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "맞손 GW급 ~SKT 데이터센터 구축 효성중공업"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "~SKT 손잡았다 효성 확보전 전력 데이터센터 기가와트급"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "국내 서비스 카뱅 애플페이 2번째로"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "열린다 국민소통포럼 성장엔진 AI인프라"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "11월 패치 A57 보안 20건 받는다 등급 막고 S11도 심각 갤럭시"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "1만원대 알뜰폰 3사도 어쩌나 이통"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "수정 여론 완화 팽팽 종부세 유지 조사서 30대 50대"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "흐름 ARS 지지율 이재명 긍정평가 엇갈린 전화면접"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "민주 정당지지율 vs ARS 국힘"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "~LGU SASE 클라우드 정식 보안 출시 모니터랩과 LG유플러스 플랫폼"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "NW ~LGU 초청의 우수 43곳에 열고 LG유플러스 협력사 감사패"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "PASS로 고지 교통 ~KT 과태료"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "실적 나스닥 선물 앞두고 앤트로픽 상장"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "외산 급등 삼성 사용료 자체 검토 SW"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "줄이고 AI칩 복귀 거스너 50억달러 청약 젠슨 투자 앤스로픽에"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "제소 안전 문제로 캘리포니아주"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "스캔들에도 젠슨 국가대표"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "괜찮을 있다 영웅도 업계 해임에 결점 젠슨"
-  ],
-  [
-   "2026-11-17T06:00:42.236699+09:00",
-   "역할 접는다 WSJ 돈줄 AI판"
-  ],
   [
    "2026-11-17T06:02:18.635715+09:00",
    "1조 30대 AI에는 타법인 줄였지만 투자 이상"
@@ -7489,7 +7413,7 @@
    "아르텍스 국내 외교기관 확인 노렸다 한국 공격 해킹조직"
   ]
  ],
- "last_run": "2026-11-17T11:58:34.401468+09:00",
+ "last_run": "2026-11-17T12:01:04.406815+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
