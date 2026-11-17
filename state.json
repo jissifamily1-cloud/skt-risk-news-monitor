@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/blockchain-fintech/6356541",
-  "https://www.jasm.co.kr/news/view/325554/?sc=Naver",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211541",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=125090",
-  "http://www.newskr.kr/news/articleView.html?idxno=108073",
-  "https://www.etnews.com/20261117000329",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101418",
   "https://www.khan.co.kr/article/202611171508001",
   "https://magazine.hankyung.com/business/article/202611172053b",
   "https://www.fnnews.com/news/202611171135033061",
@@ -2999,16 +2992,16 @@
   "https://www.kmib.co.kr/article/20261118500072",
   "https://news.jtbc.co.kr/article/NB12328581?influxDiv=NAVER",
   "https://www.mediapen.com/news/view/1138148",
-  "https://www.dt.co.kr/article/12095814"
+  "https://www.dt.co.kr/article/12095814",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308069",
+  "https://www.mediapen.com/news/view/1138144",
+  "https://www.slist.kr/news/articleView.html?idxno=782592",
+  "https://www.sedaily.com/article/20115635",
+  "https://www.etnews.com/20261118000001",
+  "https://www.edaily.co.kr/News/Read?newsId=01603926645647032&mediaCodeNo=257",
+  "https://www.hankyung.com/article/202611183264i"
  ],
  "seen_titles": [
-  "\"코인은거래소밖에보관\"…바이낸스해킹에기관거래방식바뀌나",
-  "NH농협은행,'NH기업뱅킹'전면개편오픈",
-  "[금융게시판]우리은행,환전고객에해외데이터제공…우리은행·농...",
-  "NH농협은행,'NH기업뱅킹'리뉴얼오픈...\"더쉽고편리해져\"",
-  "스테이블코인네오뱅크조스,커뮤니티세일진행...11월29일까지참여...",
-  "중고폰거래플랫폼'폰가비',고객계좌번호등개인정보유출",
-  "금감원,대부업권에보안점검주문…\"취약점방치로정보유출시엄정...",
   "“젠슨황딸,엔비디아서‘막후실세’역할···임원들에고성·압박...",
   "“젠슨황떠나도”韓반도체청신호",
   "\"엔비디아670조원금융구상,젠슨황부재로위축불가피\"",
@@ -6001,7 +5994,14 @@
   "‘젠슨황부재’엔비디아,3분기매출155조원…시장전망치상회",
   "\"젠슨황딸,엔비디아'중국스파이의혹'논란대응깊이관여…아무...",
   "[美증시특징주]엔비디아,실적·가이던스'상상이상'…시간외강세",
-  "AI해킹위협에금융권보안‘고삐’…대형사취약점점검연2회로확..."
+  "AI해킹위협에금융권보안‘고삐’…대형사취약점점검연2회로확...",
+  "\"AI를사회문제푸는따뜻한도구로\"···SK이노'소셜스타트업'선정...",
+  "[美증시]앤트로픽상장앞두고3대지수동반조정…소프트웨어주도",
+  "뉴욕증시하락세계속…S&P5001%↓,7월이후최저",
+  "AI안경이산업기밀훔칠라…삼성·SK·현대차·LG‘철통보안’",
+  "젠슨황없는엔비디아,3분기매출1158억달러'역대최대'",
+  "엔비디아,고객사보증최대157조원…지원조건은?",
+  "엔비디아투자약정5180억달러…3개월만에41%급증"
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,17 @@
   [
    "2026-11-18T06:46:17.280267+09:00",
    "강세 이상 상상 시간외 실적 가이던스"
+  ],
+  [
+   "2026-11-18T06:48:22.069759+09:00",
+   "157조원 조건은 지원 고객사 보증"
+  ],
+  [
+   "2026-11-18T06:48:22.069759+09:00",
+   "만에 급증 투자약정 5180억달러 3개월"
   ]
  ],
- "last_run": "2026-11-18T06:46:35.736695+09:00",
+ "last_run": "2026-11-18T06:48:40.367690+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
