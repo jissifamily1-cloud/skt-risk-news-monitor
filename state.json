@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261116212708",
-  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=291082",
-  "https://busanmbc.co.kr/01_new/new01_view.asp?idx=291080",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3753886",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=565518",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690289.html",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690287.html",
   "https://www.webeconomy.co.kr/news/articleView.html?idxno=2376672",
   "https://www.mhj21.com/news/articleView.html?idxno=254823",
@@ -2999,15 +2993,15 @@
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=883840",
   "https://www.asiatime.co.kr/article/20261117500217",
   "https://www.munhwa.com/article/11631907",
-  "https://www.munhwa.com/article/11631906"
+  "https://www.munhwa.com/article/11631906",
+  "http://kor.theasian.asia/archives/422051",
+  "https://magazine.hankyung.com/job-joy/article/202611171633d",
+  "https://www.tokenpost.kr/news/cryptocurrency/439548",
+  "https://www.irobotnews.com/news/articleView.html?idxno=49634",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790124.html",
+  "https://biz.sbs.co.kr/article_hub/20000346981?division=NAVER"
  ],
  "seen_titles": [
-  "브룩스브라더스,패션플랫폼매출51%증가…젊은층공략성과",
-  "TrumpAdministrationPlanstoNameNvidiaAmongMoreThanTwoDozenAIF",
-  "SKT,효성중공업과GW급AIDC구축맞손…\"글로벌시장선도\"",
-  "[안광섭AI진테제]에이전트가예약하고결제...기록은남는다",
-  "잇따르는금융권해킹..내돈은안전한가?",
-  "′10초면AI해킹가능\"..못따라가는보안능력",
   "인천시,19일제약바이오투자대전개최…300여명참여",
   "원태인·구자욱…'FA최대어'누가잡을까",
   "의심받는러트닉부자…두아들은자금조달,아버지는칩규제완화",
@@ -6001,7 +5995,13 @@
   "브랜딥,AI에어프라이어노출분석",
   "野잇단개인정보유출에‘정부책임론’…“보안체계무너져”",
   "복귀론선그은엔비디아이사회…올트먼은“황,내오랜영웅”",
-  "젠슨황파문·對中반도체규제‘이중충격’…AI투심‘경고음’"
+  "젠슨황파문·對中반도체규제‘이중충격’…AI투심‘경고음’",
+  "[아시아라운드업20261117]아시아'AI커닝'비상…중국은전파차단,일...",
+  "[2026국립순천대학교Startup창업이야기]문서기반온프레미스AI전...",
+  "통제벗어난AI,랜섬웨어로암호화폐벌어스스로확장할수있다는경...",
+  "AI활용해로봇소프트웨어취약점28건발견…피지컬AI보안위협부상",
+  "젠슨황사임뒤에도남은딸…\"사실상아버지비서실장,막강한권력행...",
+  "'해킹안전지대유지하자'…인뱅,보안인력집중채용"
  ],
  "recent_sigs": [
   [
@@ -7479,9 +7479,13 @@
   [
    "2026-11-17T11:54:15.808457+09:00",
    "선그은 복귀론 오랜 올트먼은 이사회 영웅"
+  ],
+  [
+   "2026-11-17T11:56:16.908736+09:00",
+   "유지하자 인력 안전지대 인뱅 보안 집중 채용"
   ]
  ],
- "last_run": "2026-11-17T11:54:31.984717+09:00",
+ "last_run": "2026-11-17T11:56:33.140182+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
