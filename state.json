@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.breaknews.com/1250991",
-  "https://biz.heraldcorp.com/article/10936620",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338444",
-  "https://www.newsis.com/view/NISX20261113_0003867759",
-  "https://www.mt.co.kr/tech/2026/11/16/2026111317361648526",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1425106",
-  "https://www.ddaily.co.kr/page/view/2026111316500450204",
-  "https://www.ddaily.co.kr/page/view/2026111317324832594",
-  "https://imnews.imbc.com/news/2026/econo/article/6865502_36932.html",
-  "https://zdnet.co.kr/view/?no=20261113174441",
   "https://zdnet.co.kr/view/?no=20261113173657",
   "http://journal.kobeta.com/?post_type=post&p=64434",
   "https://www.mediaus.co.kr/news/articleView.html?idxno=318995",
@@ -2999,19 +2989,19 @@
   "http://www.metroseoul.co.kr/article/20261117500422",
   "https://www.econovill.com/news/articleView.html?idxno=757525",
   "https://www.edaily.co.kr/News/Read?newsId=04221366645646704&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445191"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445191",
+  "https://www.hellot.net/news/article.html?no=116372",
+  "https://weekly.hankooki.com/news/articleView.html?idxno=7194367",
+  "https://www.yna.co.kr/view/AKR20261117129400017?input=1195m",
+  "https://www.cnet.co.kr/view/?no=20261117153318",
+  "http://www.newskr.kr/news/articleView.html?idxno=108076",
+  "https://www.greened.kr/news/articleView.html?idxno=354857",
+  "https://www.sedaily.com/article/20115444",
+  "https://www.ddaily.co.kr/page/view/2026111715402467129",
+  "https://view.asiae.co.kr/article/2026111715373571458",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261117154033D8o"
  ],
  "seen_titles": [
-  "비트코인6만5,000달러깨졌다…앤트로픽상장앞두고스페이스X때흐...",
-  "\"방미통위,'YTN정상화'이재명정부의약속지켜야\"",
-  "LG헬로비전이어딜라이브도…CJENM채널송출갈등확산",
-  "지상파비대칭규제개선모색…\"연내규제혁신종합방안발표\"",
-  "TV조선점수조작사건,윤석열정부검찰·감사원은왜한상혁을노렸나",
-  "방송광고·협찬제도개선모색‥\"연내규제혁신종합방안발표\"",
-  "국민의힘장동혁·정점식,‘특검·예산·사법’여권전방위맹공",
-  "“덕분에‘멍’때렸다”“강제‘월급루팡’”MS발난리에‘발칵...",
-  "과방위,TBS지원73억등내년예산안가결…국민의힘퇴장",
-  "국힘과방위원,내년도예산안일방통과에\"미래약탈기금…예산심의...",
   "국회과방위,내년도과기부예산안의결…R&D·AI등1.3조증액",
   "현대홈쇼핑,법인분할조건부승인…홈쇼핑·투자사업분리",
   "합의제기구방미통위,합의만기다릴것인가[강소현의방송통신문]",
@@ -6001,7 +5991,17 @@
   "엔비디아,젠슨황퇴진속공급망역량부각…완제품출하3주단축",
   "젠슨황떠난엔비디아주가'흔들'…실적·후임자에쏠린눈",
   "\"AI가설계하고시공오류잡는다\"…에스엘즈,조선·해양플랜트까지공...",
-  "\"인퍼런스스택,신경망하드웨어관련특허2건근거로AMD·엔비디아동..."
+  "\"인퍼런스스택,신경망하드웨어관련특허2건근거로AMD·엔비디아동...",
+  "포티넷코리아,김종덕신임지사장선임...20년만에복귀",
+  "韓총리\"수능전자기기반입전면금지\"…부정행위자응시10년제한",
+  "과기부\"전파·통신차단기술상불가능…휴대전화분리노력\"",
+  "개발자세션관리부담덜었다…AWS,역할분리형AI에이전트‘키로봇...",
+  "코스피5000선붕괴…외국인1.4조투매",
+  "[젠슨황후폭풍]국내피지컬AI업계긴장속···\"엔비디아협력은이...",
+  "[속보]코스피,9개월여만에종가5000선아래로",
+  "“해킹사고나면책임묻겠다”…금감원,전자금융업체274곳점검",
+  "메가MGC커피도개인정보유출…\"위탁업체해킹당해\"",
+  "[뉴스초점]트럼프러브콜·김정은접경지행…북미회담열리나"
  ],
  "recent_sigs": [
   [
@@ -7051,9 +7051,17 @@
   [
    "2026-11-17T15:40:27.498989+09:00",
    "하드웨어 AMD 특허 스택 근거로 신경망 인퍼런스 2건"
+  ],
+  [
+   "2026-11-17T15:42:16.443471+09:00",
+   "업계 협력은 국내 긴장 피지컬AI"
+  ],
+  [
+   "2026-11-17T15:42:16.443471+09:00",
+   "러브콜 북미회담 김정은 열리나 접경지행 트럼프"
   ]
  ],
- "last_run": "2026-11-17T15:40:54.218024+09:00",
+ "last_run": "2026-11-17T15:42:35.016294+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
