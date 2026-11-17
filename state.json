@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.inews24.com/view/2026774",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1193516",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690257.html",
-  "https://www.hani.co.kr/arti/opinion/column/1287622.html",
-  "https://zdnet.co.kr/view/?no=20261116193018",
-  "https://zdnet.co.kr/view/?no=20261116194844",
-  "https://www.etoday.co.kr/news/view/2648918",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1543982",
-  "https://www.yna.co.kr/view/AKR20261116173400079?input=1195m",
   "https://www.dongponews.net/news/articleView.html?idxno=61715",
   "https://news.jtbc.co.kr/article/NB12328314?influxDiv=NAVER",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504753",
@@ -2999,18 +2990,18 @@
   "https://www.newsis.com/view/NISX20261117_0003871260",
   "https://www.widedaily.com/news/articleView.html?idxno=303878",
   "https://www.ytn.co.kr/_ln/0102_202611171128115684",
-  "https://economist.co.kr/article/view/ecn202611170025"
+  "https://economist.co.kr/article/view/ecn202611170025",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493129",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3754370",
+  "https://www.econovill.com/news/articleView.html?idxno=757520",
+  "https://www.tokenpost.kr/news/tech/439529",
+  "https://www.tokenpost.kr/news/breaking/439530",
+  "https://www.newsis.com/view/NISX20261117_0003871053",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716016",
+  "https://www.nocutnews.co.kr/news/6608001",
+  "https://www.joongangenews.com/news/articleView.html?idxno=564473"
  ],
  "seen_titles": [
-  "[이슈빡]추락한AI황제젠슨황…'귀환'노린다?",
-  "롯데카드,3분기누적순이익1026억원…전년比5.4%↓",
-  "스파이의혹벗어도엔비디아복귀어렵다?…젠슨황운명가를핵심쟁...",
-  "세메스,반도체장비난제해결할산학기술발굴…21개팀선정",
-  "[주식마감]'AI안경·부정행위논란'에나무가,지슨,지니틱스,세코닉...",
-  "\"엔비디아,경영진바뀌며과감한지원축소\"",
-  "AI가낮춘범죄의문턱[유레카]",
-  "\"오메가3먹으면심혈관질환예방?\"…홈쇼핑5곳법정제재위기",
-  "포티넷,1년5개월만에새한국지사장찾았다...김종덕선임",
   "SK하이닉스,3분기누적미국매출147조원…1년새102조원증가",
   "\"러트닉,가족회사와연관된반도체수출규제완화추진\"",
   "이란공격받은바레인,시아파성직자등에무더기종신형",
@@ -6001,7 +5992,16 @@
   "젠슨황엔'돌아오라'외친머스크…정작자기후계자는안밝힌다",
   "중국해킹조직'베이퍼판다',AI'딥시크'앞세워한국외교·정책기관...",
   "금감원,전자금융업·온투업계에'AI해킹'점검요청",
-  "[오늘의삼전닉스]'순현금'100조육박,SK하이닉스주주환원기대감'..."
+  "[오늘의삼전닉스]'순현금'100조육박,SK하이닉스주주환원기대감'...",
+  "효성重·SKT,AIDC전력인프라공동구축",
+  "포드림,가나70억규모드론인력양성사업수행기관선정…2027년부터...",
+  "네오사피엔스타입캐스트API유료구독자1년새152배\"AI영상자동화...",
+  "삼성전자,메타AI칩용맞춤HBM개발보도…2나노베이스다이거론",
+  "필라델피아반도체지수16일5%급락…미,중국기업AI연산해외임차...",
+  "전직상무부관료\"러트닉'AI칩밀수의혹조치미흡'으로혼란가중\"",
+  "젠슨황사임후첫실적발표…엔비디아가답해야할5가지질문",
+  "트럼프,젠슨황'中스파이연루'의혹진화안간힘",
+  "젠슨황딸매디슨,엔비디아'실세'행세논란…고위임원12명퇴사의..."
  ],
  "recent_sigs": [
   [
@@ -7415,9 +7415,13 @@
   [
    "2026-11-17T11:32:23.508637+09:00",
    "기대감 순현금 육박 주주환원 SK하이닉스 100조"
+  ],
+  [
+   "2026-11-17T11:34:16.012363+09:00",
+   "12명 퇴사 행세 매디슨 고위 논란 임원 젠슨 실세"
   ]
  ],
- "last_run": "2026-11-17T11:32:42.499285+09:00",
+ "last_run": "2026-11-17T11:34:34.672197+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
