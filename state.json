@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000347083?division=NAVER",
-  "http://www.joseilbo.com/news/news_read.php?uid=579841&class=32",
-  "https://www.namdonews.com/news/articleView.html?idxno=929543",
-  "https://www.newsway.co.kr/news/view?ud=2026111713530814465",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3754863",
-  "https://www.gokorea.kr/news/articleView.html?idxno=886126",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3754851",
   "http://www.paxetv.com/news/articleView.html?idxno=287213",
   "https://www.newsway.co.kr/news/view?ud=2026111714432968621",
   "http://www.finomy.com/news/articleView.html?idxno=266966",
@@ -2999,16 +2992,16 @@
   "https://www.slist.kr/news/articleView.html?idxno=782679",
   "https://www.edaily.co.kr/News/Read?newsId=01984406645647032&mediaCodeNo=257",
   "https://www.tokenpost.kr/news/ai/440071",
-  "https://www.techm.kr/news/articleView.html?idxno=157462"
+  "https://www.techm.kr/news/articleView.html?idxno=157462",
+  "https://www.bntnews.co.kr/article/view/bnt202611180105",
+  "https://www.fnnews.com/news/202611180759315296",
+  "https://www.aitimes.com/news/articleView.html?idxno=217488",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=369937",
+  "https://www.mediapen.com/news/view/1137855",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715775",
+  "https://biz.chosun.com/stock/finance/2026/11/18/RIUU7XLRVVG7BPY2EJEUTBEBUI/"
  ],
  "seen_titles": [
-  "젠슨황·앤트로픽·금리…'삼중고'에5,000선무너진코스피",
-  "메가커피,일부고객연락처유출…위탁업체해킹여파",
-  "한총리\"수능우려,엄중인식\"…'AI부정행위'대응총력전",
-  "韓총리\"수능시작전옷깃·단추마다스티커가려\"…수능부정행위대...",
-  "임상기다리는사이매출부터…로킷헬스케어가스마트병실을택한이유",
-  "[동정]심영재대구광역시행정부시장",
-  "오디오가이,'2026데모데이'서AI공간음향플랫폼공개…글로벌시장...",
   "AI스마트안경이용한수능부정행위,응시제한1년→5년확대추진",
   "美AI투자불확실성에반도체주약세…코스피,9개월만에5000선붕괴",
   "288일만에무너진'오천피'…AI꺽이자코스피'날개없는추락'",
@@ -6001,7 +5994,14 @@
   "엔비디아,젠슨황CEO복귀가능성일축…\"재선임의사없다\"",
   "FT\"아무도못막는젠슨황딸,메가스피드대응깊이관여\"",
   "마이크로소프트앨소프,엔비디아'풍파'로고객이AI칩대안검토할수...",
-  "삼성전기\"엔비디아패키지기판·MLCC공급확대\""
+  "삼성전기\"엔비디아패키지기판·MLCC공급확대\"",
+  "‘크래시2’박지영,국수본장변신",
+  "MS\"클로드급코딩AI를10분의1가격으로\"...신모델AI7종공개[글로벌...",
+  "오픈AI,'AI내부분석'굿파이어인수검토…무산후안전성평가협력",
+  "'완제품·부품'다잡는다…LG전자,로봇수익화본궤도오르나",
+  "[美증시]엔비디아악재·AI칩중국수출규제에3대지수급락…반도체...",
+  "캘리포니아법무,“엔비디아사태‘위험신호’감지…조사중”",
+  "비트코인,엔트로픽IPO앞두고6만4000달러대횡보"
  ],
  "recent_sigs": [
   [
@@ -6763,9 +6763,17 @@
   [
    "2026-11-18T08:36:16.047796+09:00",
    "삼성전기 확대 공급 MLCC 패키지기판"
+  ],
+  [
+   "2026-11-18T08:38:16.799280+09:00",
+   "캘리포니아 법무 위험 신호 조사중 사태 감지"
+  ],
+  [
+   "2026-11-18T08:38:16.799280+09:00",
+   "비트코인 앞두고 6만4000달러대 IPO 횡보"
   ]
  ],
- "last_run": "2026-11-18T08:36:36.910433+09:00",
+ "last_run": "2026-11-18T08:38:37.885686+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
