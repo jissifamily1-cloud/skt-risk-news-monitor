@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "http://www.metroseoul.co.kr/article/20261116500403",
-  "https://www.sedaily.com/article/20114948",
-  "https://www.techm.kr/news/articleView.html?idxno=157396",
-  "https://www.kmaeil.com/news/articleView.html?idxno=658479",
-  "https://www.etnews.com/20261116000415",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7194098",
-  "https://www.mfgkr.com/news/articleView.html?idxno=28493",
-  "http://www.newsprime.co.kr/news/article.html?no=755112",
   "https://www.inthenews.co.kr/news/article.html?no=94560",
   "https://biz.heraldcorp.com/article/10938802",
   "https://www.ziksir.com/news/articleView.html?idxno=153507",
@@ -2999,17 +2991,17 @@
   "https://www.newsworks.co.kr/news/articleView.html?idxno=903290",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008849132&plink=ORI&cooper=NAVER",
   "https://www.mk.co.kr/article/12210880",
-  "http://www.newsprime.co.kr/news/article.html?no=755202"
+  "http://www.newsprime.co.kr/news/article.html?no=755202",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16278607",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3754183",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715897",
+  "http://www.beyondpost.co.kr/view.php?ud=20261117092129136be44c0aacd_30",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445101",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445102",
+  "https://www.smartbizn.com/news/articleView.html?idxno=159650",
+  "https://www.etoday.co.kr/news/view/2649061"
  ],
  "seen_titles": [
-  "행정기관업무용이메일300개해킹…정부,합동점검",
-  "[지상중계]“K-컬처400조시대,국가표준문화지수(KCPI)로지속가능성...",
-  "2027충청유니버시아드조직위,당근서대회소식전한다…공식프로필...",
-  "대기업·스타트업오픈이노베이션확산…실제협업은'초기단계'",
-  "무역협회인천본부,AI활용해외온라인쇼핑몰활용교육실시",
-  "코스피,3.6%하락마감…코스닥도4.86%급락",
-  "엔비디아차기CEO인선3가지시나리오…내부승진·외부영입·젠슨...",
-  "젠슨황앞에선웃고자리뜨면수군…독선키운침묵,전기작가의진...",
   "트럼프,APEC서19일13시45분미중회담…15시30분미중러3자회담",
   "[속보]코스피,3%내려5100선턱걸이…SK하닉7%대급락",
   "外人1.4조'팔자'에코스피5100선턱걸이…AI투심'급랭'",
@@ -6001,7 +5993,15 @@
   "코스피,美AI주약세에5000선'위태'…1%대하락",
   "트럼프\"젠슨황불륜녀중국스파이아닐수도…중국자극원치않아\"",
   "젠슨황충격에...3대지수일제히↓[뉴욕증시]",
-  "[이윤선의뉴인력경영]기업을키운영웅이떠나도,기업은살아남아야..."
+  "[이윤선의뉴인력경영]기업을키운영웅이떠나도,기업은살아남아야...",
+  "곽선영,'크래시2'서행동파반장민소희로컴백…첫회긴장감이끌었...",
+  "섬마을안전지킨다…추자남성의용소방대,선박화재대응훈련",
+  "비트와이즈CIO\"비트코인2018년식하락가능성…장기강세는유지\"",
+  "코스피,美반도체주폭락에장중5000선붕괴…삼성전자2%↓",
+  "엔비디아우려에코스피장중5,000하회…외국인순매도(상보)",
+  "월가\"엔비디아실적낙관론에도리더십불확실성경계\"",
+  "초소형카메라·AI악용우려···방미통위,부정행위정보대응나서",
+  "나홀로해킹하는AI등장…여론공작에도활용"
  ],
  "recent_sigs": [
   [
@@ -6847,9 +6847,21 @@
   [
    "2026-11-17T09:26:24.210654+09:00",
    "살아남아야 기업은 기업을 키운 떠나도 영웅이"
+  ],
+  [
+   "2026-11-17T09:28:16.666900+09:00",
+   "하회 외국인 순매도 우려에 장중 코스피 상보"
+  ],
+  [
+   "2026-11-17T09:28:16.666900+09:00",
+   "낙관론에도 실적 경계 월가 리더십 불확실성"
+  ],
+  [
+   "2026-11-17T09:28:16.666900+09:00",
+   "공작에도 여론 나홀로 해킹하는 등장 활용"
   ]
  ],
- "last_run": "2026-11-17T09:26:46.126831+09:00",
+ "last_run": "2026-11-17T09:28:41.866253+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
