@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ddaily.co.kr/page/view/2026111715085443035",
-  "https://www.ddaily.co.kr/page/view/2026111715030273558",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=409900",
-  "https://news.jtbc.co.kr/article/NB12328463?influxDiv=NAVER",
-  "https://www.mt.co.kr/world/2026/11/17/2026111711072110908",
-  "https://www.mt.co.kr/society/2026/11/17/2026111711393930046",
-  "http://coinreaders.com/270920",
-  "http://coinreaders.com/270914",
-  "https://www.joongang.co.kr/article/25479408",
-  "http://coinreaders.com/270916",
   "http://coinreaders.com/270917",
   "https://www.jemin.com/news/articleView.html?idxno=847466",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505078",
@@ -2999,19 +2989,19 @@
   "https://view.asiae.co.kr/article/2026111806483970835",
   "https://www.newsis.com/view/NISX20261118_0003872329",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732040",
-  "https://www.tokenpost.kr/news/market/440041"
+  "https://www.tokenpost.kr/news/market/440041",
+  "https://www.etoday.co.kr/news/view/2649486",
+  "https://www.jemin.com/news/articleView.html?idxno=847549",
+  "https://imnews.imbc.com/news/2026/world/article/6866487_36925.html",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=884188",
+  "https://www.aitimes.com/news/articleView.html?idxno=217513",
+  "https://www.dailian.co.kr/news/view/1716382/?sc=Naver",
+  "https://www.busan.com/view/busan/view.php?code=2026111806385094930",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732041",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=301572",
+  "https://www.munhwa.com/article/11632080"
  ],
  "seen_titles": [
-  "개발자는지휘만…AWS,개발과정개별담당하는AI에이전트‘키로봇...",
-  "기업데이터를AI에이전트에…델테크,데이터플랫폼·관리SW공개",
-  "네오사피엔스,타입캐스트API유료구독자1년새152배늘어",
-  "\"젠슨황딸매디슨,사실상비서실장…경영진보다막강권력\"",
-  "'엔비디아탄생식당'젠슨황명패뗐다가복구…\"역사는소중해\"",
-  "금융권AI해킹에개인정보11만건유출…시민단체\"피해보상강화해야...",
-  "시바이누(SHIB)0.000003720달러지지선지킬까…시장전반약세부담",
-  "이더리움(ETH)1,785달러지지선지킬까…금리불확실성에자금유출부...",
-  "벤츠,고속도로넘어도심에서도자율주행…테슬라에도전장",
-  "리플(XRP)1달러회복할까…ETF자금유출속0.9400달러시험대",
   "카르다노(ADA)0.153달러지지선지킬까…ETF자금유출·기술주약세부...",
   "비트코인,6만2천달러까지밀렸다반등…기관자금이탈에시장긴장...",
   "아이크래프트·RFHIC상승세,삼성전자·SK텔레콤은약세…5G주무슨이...",
@@ -6001,7 +5991,17 @@
   "[뉴욕증시]엔비디아실적앞두고2거래일연속급락",
   "엔비디아,매출155억원'예상치상회'…젠슨황사임후첫실적발표",
   "엔비디아실적은웃었지만…코스피,여전히외인매도부담",
-  "엔비디아,분기주주환원281억달러최대…자사주매입에221억달러"
+  "엔비디아,분기주주환원281억달러최대…자사주매입에221억달러",
+  "뉴욕증시,NSA기밀통신망마비에하락⋯다우1.64%↓[종합]",
+  "마이크론주가도AI한파에흔들…반도체업계,조정국면벗어날까",
+  "뉴욕증시,하락세계속‥S&P5001%↓,7월이후최저",
+  "수능코앞에서야AI커닝단속…'뒷북대응'에공정성비상",
+  "오픈AI,세계2위성능'GPT-6.2아스트라'출시...API20%인하",
+  "젠슨황떠난엔비디아,첫실적발표서매출1158억달러…월가예상웃...",
+  "젠슨황\"이사회요청시엔비디아CEO로복귀…영광일것\"",
+  "엔비디아,3분기실적시장전망치상회…4분기도'청신호'",
+  "젠슨황,사퇴후첫공식입장\"이사회요청시엔비디아경영복귀\"",
+  "[속보]3Q엔비디아‘어닝서프’시간외서3%급등"
  ],
  "recent_sigs": [
   [
@@ -6303,9 +6303,13 @@
   [
    "2026-11-18T06:50:28.012032+09:00",
    "자사주 매입에 분기 281억달러 주주환원 221억달러"
+  ],
+  [
+   "2026-11-18T06:52:16.268549+09:00",
+   "어닝서프 급등 시간외서 3Q"
   ]
  ],
- "last_run": "2026-11-18T06:50:46.190510+09:00",
+ "last_run": "2026-11-18T06:52:35.071723+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
