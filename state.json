@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261117000829",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445184",
-  "https://www.tfmedia.co.kr/news/article.html?no=208962",
-  "https://www.hankookilbo.com/news/article/A2026111714460002449?did=NA",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/17/2026111790181.html",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505065",
-  "https://www.slist.kr/news/articleView.html?idxno=782505",
-  "https://www.ytn.co.kr/_ln/0103_202611171518507762",
   "https://www.wolyo.co.kr/news/articleView.html?idxno=320625",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505083",
   "http://coinreaders.com/270929",
@@ -2999,17 +2991,17 @@
   "https://www.newscj.com/news/articleView.html?idxno=3449623",
   "https://biz.sbs.co.kr/article_hub/20000347166?division=NAVER",
   "https://www.segye.com/newsView/20261117518123?OutUrl=naver",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611161514497040103181"
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611161514497040103181",
+  "https://basketkorea.com/news/newsview.php?ncode=1065543805718215",
+  "https://www.thesportstimes.co.kr/news/articleView.html?idxno=377677",
+  "https://biz.sbs.co.kr/article_hub/20000347168?division=NAVER",
+  "https://dealsite.co.kr/articles/172926",
+  "https://dealsite.co.kr/articles/172859",
+  "https://www.greened.kr/news/articleView.html?idxno=354895",
+  "https://www.news1.kr/world/international-economy/6357398",
+  "https://www.edaily.co.kr/News/Read?newsId=01659686645647032&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "네카오도초소형카메라·이어폰단속,'검색어규제'나서",
-  "[도쿄환시]달러-엔,위험회피심리에하락…159엔선초반",
-  "대부업체정보유출이보이스피싱으로?…금감원보안점검강화",
-  "경찰,24개국과사기범죄대응논의…\"검거넘어피해회복으로\"",
-  "\"젠슨황딸매디슨도임원진혼내고막강권력휘둘러\"…\"12명퇴사한...",
-  "[하나금융청라시대-中]금융역량총집결..AI지능연결·인재통합인프...",
-  "정부,수능부정행위차단총력…재난문자발송·안경전수검사·단추...",
-  "수능D-2,AI에'수능금지코드'심으면해결될까?[뉴스퀘어2PM]",
   "\"블록체인선점마지막기회\"...장현국원대표,원스토어앞세워글로...",
   "AI도입확산에도수익성은과제…로봇·소프트웨어주차별화확대",
   "앤트로픽1조4,000억달러IPO,거품일까…투자전확인해야할3가지위...",
@@ -6001,7 +5993,15 @@
   "[천지일보이슈종합]대학수학능력시험·스마트안경·AI부정행위·초소...",
   "[증시전략]차세대AI플랫폼'베라루빈'양산일정핵심변수",
   "‘젠슨황쇼크’파장에9개월여만에‘5천피’붕괴[한강로경제브...",
-  "[더벨][안랩밸류업점검]'정치현안'없이오른주가,상승동력'해킹..."
+  "[더벨][안랩밸류업점검]'정치현안'없이오른주가,상승동력'해킹...",
+  "[BK프리뷰]‘단독선두걸렸다’삼성,시즌첫연승노리는LG와맞대...",
+  "'부상'이우석·하윤기,월드컵예선앞두고대표팀부상하차…이규태...",
+  "'AI커닝'막겠다더니대응은'단추에스티커'…불안한수능",
+  "[ETF언박싱]앤트로픽상장맞춰…미래운용첫LLMETF출격",
+  "거래시스템멀쩡한데고객정보'줄줄'…코인원보안에뚫린'옆문'",
+  "젠슨황CEO복귀청원운동에샘올트먼·일론머스크'지지'...이재용...",
+  "[속보]엔비디아이사회의장\"젠슨황CEO복귀시킬계획없다\"",
+  "엔비디아에떤美증시…장끝나자실적에안도[월스트리트in]"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-11-18T07:04:15.952606+09:00",
    "오른 동력 주가 없이 현안 상승 정치"
+  ],
+  [
+   "2026-11-18T07:06:16.905804+09:00",
+   "안도 증시 엔비디아에 끝나자 실적에"
   ]
  ],
- "last_run": "2026-11-18T07:04:55.439420+09:00",
+ "last_run": "2026-11-18T07:06:32.376089+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
