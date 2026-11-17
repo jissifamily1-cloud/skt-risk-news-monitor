@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=398654",
-  "https://www.news1.kr/world/usa-canada/6356772",
-  "https://www.ytn.co.kr/_ln/0104_202611171444144382",
-  "https://news.appstory.co.kr/daily19711",
-  "https://www.fnnews.com/news/202611171316290792",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3754645",
   "https://www.ibabynews.com/news/articleView.html?idxno=156995",
   "http://www.wsobi.com/news/articleView.html?idxno=321941",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=884007",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/News/Read?newsId=01472726645647032&mediaCodeNo=257",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890007.html",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850764&plink=ORI&cooper=NAVER",
-  "https://www.g-enews.com/view.php?ud=202611180324424105e7e8286d56_1"
+  "https://www.g-enews.com/view.php?ud=202611180324424105e7e8286d56_1",
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171033592760408",
+  "https://www.mt.co.kr/world/2026/11/18/2026111713141799976",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=883997",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716085",
+  "https://www.voakorea.com/a/fbi-cyber-attacks-111726/8224753.html",
+  "https://www.hankyung.com/article/202611183238i"
  ],
  "seen_titles": [
-  "코스피,\"장중5,000선무너졌다\"…엔비디아·미수출통제악재에살얼...",
-  "\"엔비디아,670조AI금융지원유지하되…신생클라우드는피할듯\"",
-  "싱가포르장관\"메가스피드아직조사중...타국법위반용납안해\"",
-  "캘리포니아주,오픈AI제소…AI에이전트의허깅페이스해킹책임추궁",
-  "데브쇼퀴스트엔비디아수석부사장,'2026리사수여성혁신상'수상",
-  "iM에셋자산운용·iM증권,전주사무소개소...호남권금융망강화",
   "[오늘의특가]한세엠케이,‘2026한세페’개최…주요브랜드최대80...",
   "금융권'포인트자동투자서비스'오픈·AI차량-금융상품추천서비스...",
   "위로보틱스,美오토복과유통계약…윔S현지판매착수",
@@ -6001,7 +5995,13 @@
   "美증권당국,젠슨황스캔들아래엔비디아조사착수",
   "젠슨황복귀의사밝혔지만…엔비디아,헤드헌터통해후임적극물색",
   "젠슨황\"이사회원하면복귀\"…곧실적발표",
-  "중국우회클라우드정조준…동남아데이터센터주가급락한이유"
+  "중국우회클라우드정조준…동남아데이터센터주가급락한이유",
+  "[커닝도구너머,AI안경]①해외건설현장선‘숙련공조수’…도면묻...",
+  "美캘리포니아,오픈AI상대소송…\"통제실패로공공에위협\"",
+  "PTKOREA,자사AI솔루션으로GEO시장공략",
+  "주소오타한번에악성코드설치…AI사용자겨냥한해킹수법",
+  "FBI\"국가지원해커들,ARTEX소프트웨어로기업공격\"",
+  "엔비디아3분기실적발표"
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,13 @@
   [
    "2026-11-18T06:22:15.500555+09:00",
    "주가 클라우드 중국 동남아 정조준 데이터센터 급락한 우회 이유"
+  ],
+  [
+   "2026-11-18T06:24:17.449587+09:00",
+   "발표 3분기 실적"
   ]
  ],
- "last_run": "2026-11-18T06:22:34.447122+09:00",
+ "last_run": "2026-11-18T06:24:33.497635+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
