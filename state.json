@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445224",
-  "https://www.ajunews.com/view/20261118021031661",
-  "https://www.news1.kr/world/usa-canada/6357358",
-  "https://www.newsis.com/view/NISX20261118_0003872313",
-  "https://www.nocutnews.co.kr/news/6608488",
-  "https://www.yna.co.kr/view/AKR20261118002951072?input=1195m",
-  "https://www.dt.co.kr/article/12095809",
-  "https://imnews.imbc.com/news/2026/world/article/6866444_36925.html",
-  "https://www.mk.co.kr/article/12211834",
-  "https://news.mtn.co.kr/article/2026111801475542535",
   "https://www.joongang.co.kr/article/25479624",
   "https://news.jtbc.co.kr/article/NB12328570?influxDiv=NAVER",
   "https://www.sedaily.com/article/20115674",
@@ -2999,19 +2989,19 @@
   "https://www.vegannews.co.kr/news/article.html?no=407055",
   "https://www.naeil.com/news/read/609198",
   "https://www.naeil.com/news/read/609199",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300281"
+  "https://www.datanet.co.kr/news/articleView.html?idxno=300281",
+  "http://www.journalist.or.kr/news/article.html?no=62095",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755678",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755691",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755695",
+  "https://www.aitimes.com/news/articleView.html?idxno=217521",
+  "https://www.vegannews.co.kr/news/article.html?no=407056",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3755684",
+  "https://www.naeil.com/news/read/609197",
+  "https://www.newsis.com/view/NISX20261118_0003873086",
+  "https://www.busan.com/view/busan/view.php?code=2026111813035221825"
  ],
  "seen_titles": [
-  "[美증시특징주]엔비디아장중하락폭축소…젠슨황\"이사회가부르면...",
-  "젠슨황퇴진에…현대차자율주행동맹에도불똥?",
-  "[글로벌비즈브리핑]젠슨황돌아오고싶다던데…엔비디아는헤드헌터...",
-  "[美증시]반도체,엔비디아실적경계감에또하락…브로드컴·암홀딩스...",
-  "美,AI칩中유출규제강화…젠슨황통해드러난구멍뒤늦게땜질",
-  "젠슨황후폭풍에‘5000P’무너져…9개월새최저",
-  "엔비디아,中에GPU과반임대하는업체칩공급제한…美규제강화에...",
-  "엔비디아가누른코스피,실적이만회할까",
-  "젠슨황,12월1일미의회청문회출석…하원\"안보위협사건청취\"",
-  "[사설]美연준AI거품경고,우린대비하나",
   "WSJ\"엔비디아,차기CEO물색에헤드헌팅업체선임\"",
   "11월엔비디아실적발표일한국시간은",
   "젠슨황복귀의향표명에도…CNN\"엔비디아이사회고려안해\"(상보)",
@@ -6001,7 +5991,17 @@
   "엔비디아매출1158억달러…코스피5000선회복뒤상승폭축소",
   "엔비디아매출2배로늘어…AI투자엔신중",
   "소로스는팔고테퍼는샀다…엔비디아에갈린월가큰손",
-  "\"프롬프트한줄로해킹하는데…서버주인찾다골든타임놓친다\""
+  "\"프롬프트한줄로해킹하는데…서버주인찾다골든타임놓친다\"",
+  "TV조선,축구대표팀A매치중계포기…\"인기추락상징\"",
+  "경남교육청,2027학년도수능부정행위예방총력",
+  "대전시교육청,수능'안경벗고·소매걷는다'…복도감독관163명추가...",
+  "강화군,흩어진사이트16개로재구축…관리자홈페이지통합",
+  "중국,미국반도체원격접근규제에반발…\"강행하면보복조치\"",
+  "코스피2.62%상승출발뒤5000선밑으로밀려",
+  "최태원회장,사회적가치보상기반새성장시스템제안…AI로신시장...",
+  "젠슨황복귀선언,엔비디아는일축",
+  "엔비디아,고객사에경고…\"中기업AI칩원격사용에법적위험\"",
+  "미래에셋생명해킹피해1만명넘어…고팍스2천명으로늘어"
  ],
  "recent_sigs": [
   [
@@ -7277,7 +7277,7 @@
    "서버 주인 놓친다 찾다 줄로 골든타임 프롬프트 해킹하는데"
   ]
  ],
- "last_run": "2026-11-18T13:04:43.093305+09:00",
+ "last_run": "2026-11-18T13:06:35.573795+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
