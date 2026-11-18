@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=883997",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716085",
-  "https://www.voakorea.com/a/fbi-cyber-attacks-111726/8224753.html",
-  "https://www.hankyung.com/article/202611183238i",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261118062504me7",
-  "https://biz.chosun.com/international/international_economy/2026/11/18/UNDRNOLRGZDDZCHDL4M63ZM2LQ/",
-  "https://www.etoday.co.kr/news/view/2649478",
   "https://www.yna.co.kr/view/AKR20261118011300072?input=1195m",
   "https://biz.sbs.co.kr/article_hub/20000347162?division=NAVER",
   "https://www.news1.kr/world/international-economy/6357392",
@@ -2999,16 +2992,16 @@
   "https://www.newsquest.co.kr/news/articleView.html?idxno=305331",
   "https://www.autodaily.co.kr/news/articleView.html?idxno=602195",
   "https://www.huffingtonpost.kr/article/262173",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083203"
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083203",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=628219",
+  "https://www.newspim.com/news/view/20261118000031",
+  "https://realty.chosun.com/site/data/html_dir/2026/11/18/2026111801924.html",
+  "https://www.ezyeconomy.com/news/articleView.html?idxno=241970",
+  "https://www.donga.com/news/Economy/article/all/20261118/135046258/1",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42786",
+  "https://www.newspim.com/news/view/20261118000880"
  ],
  "seen_titles": [
-  "젠슨황“이사회요청시엔비디아CEO로복귀할것”…사임후첫공개...",
-  "[속보]美증권거래소,엔비디아조사…'투자자오도'공시위반의혹",
-  "마이크로소프트,AI에이전트'셀프개선'루프공개...자체AI모델군도...",
-  "[속보]뉴욕증시,엔비디아실적경계감에하락마감…나스닥한때4월...",
-  "3분기누적영업익2.4배↑…MDS테크,피지컬AI수주도가시화[줌인e종...",
-  "4거래일째떨어지는코스피...다시5천선붕괴",
-  "美증권당국,젠슨황스캔들아래엔비디아조사착수",
   "젠슨황복귀의사밝혔지만…엔비디아,헤드헌터통해후임적극물색",
   "젠슨황\"이사회원하면복귀\"…곧실적발표",
   "중국우회클라우드정조준…동남아데이터센터주가급락한이유",
@@ -6001,25 +5994,16 @@
   "SK텔레콤,AI-RAN무인자율이송기술로장관상…5년연속수상",
   "SK최태원·요미우리신문그룹,韓日경제협력'빅텐트'구축",
   "삼성전기엔비디아와끈끈해지는동맹:AI반도체기판증설추가지원...",
-  "[카카오게임즈인사전망]김태환·이시우체제첫연말…본사·자회사..."
+  "[카카오게임즈인사전망]김태환·이시우체제첫연말…본사·자회사...",
+  "삼성E&A주가,양대지수강세에도6%대털썩…국내증시흐름과'엇박자...",
+  "뉴욕증시,엔비디아실적앞두고일제히하락마감…다우1.64%↓",
+  "200만다운로드단기임대리브애니웨어,고객정보줄줄샜다",
+  "\"자율주행기능없어도무인이송\"…SKT,AI기지국기술로장관상",
+  "삼성전기·엔비디아,기판이어MLCC협력…생산인프라추가지원도검...",
+  "DGIST이태훈교수팀,엔비디아고성능GPU지원받아에이전틱AI기반신...",
+  "[미국특징주]앤스로픽IPO후아마존·구글지분합산28%넘는다"
  ],
  "recent_sigs": [
-  [
-   "2026-11-18T07:58:20.064430+09:00",
-   "법리 확대 배상책임 통신사에 실효성 의문 보이스피싱"
-  ],
-  [
-   "2026-11-18T07:58:20.064430+09:00",
-   "네오클라우드는 위기 달라질까 젠슨 DS TP 생태계도 사임에"
-  ],
-  [
-   "2026-11-18T07:58:20.064430+09:00",
-   "엔비디아와 기판 강화 동맹 캐패시터 협력 삼성전기"
-  ],
-  [
-   "2026-11-18T07:58:20.064430+09:00",
-   "원격 기업 실행환경까지 PHP 점검 자바도 이어 서버 위험"
-  ],
   [
    "2026-11-18T08:00:49.824123+09:00",
    "젠슨 훌륭한 리사 반도체 호황 변화 아닌 사이클 리더 세대적"
@@ -7223,9 +7207,13 @@
   [
    "2026-11-18T13:58:15.890001+09:00",
    "이시우 자회사 김태환 연말 본사 체제"
+  ],
+  [
+   "2026-11-18T14:00:43.975065+09:00",
+   "아마존 구글 넘는다 지분 IPO 합산"
   ]
  ],
- "last_run": "2026-11-18T13:58:31.630948+09:00",
+ "last_run": "2026-11-18T14:00:57.953003+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
