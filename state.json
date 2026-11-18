@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thevaluenews.co.kr/news/view.php?idx=203429",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=301658",
-  "https://www.mk.co.kr/article/12212518",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94715",
-  "https://biz.chosun.com/it-science/ict/2026/11/18/NMM5GRJOHFAEXPI6BDJNTXKZPE/",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611160951375840104520",
-  "http://coinreaders.com/271306",
-  "https://www.dt.co.kr/article/12095955",
-  "https://www.eroun.net/news/articleView.html?idxno=95888",
-  "https://www.donga.com/news/Economy/article/all/20261118/135046957/1",
   "http://www.srtimes.kr/news/articleView.html?idxno=217969",
   "https://www.newsis.com/view/NISX20261118_0003873536",
   "https://www.mediawatch.kr/news/article.html?no=261793",
@@ -2999,19 +2989,19 @@
   "https://daily.hankooki.com/news/articleView.html?idxno=1426743",
   "http://www.4th.kr/news/articleView.html?idxno=2122185",
   "https://www.yna.co.kr/view/AKR20261119030800008?input=1195m",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001365"
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001365",
+  "https://www.ytn.co.kr/_ln/0103_202611190853144934",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505713",
+  "https://www.sentv.co.kr/article/view/sentv202611190016",
+  "https://news.mtn.co.kr/article/2026111908535039048",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94735",
+  "https://www.joongboo.com/news/articleView.html?idxno=363741134",
+  "http://www.yonhapnewstv.co.kr/news/AKR2026111908544250m",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261119085332xCM",
+  "https://biz.sbs.co.kr/article_hub/20000347481?division=NAVER",
+  "https://www.jasm.co.kr/news/view/325762/?sc=Naver"
  ],
  "seen_titles": [
-  "[통신레이더]통신3사,AI·네트워크현장적용확대…기술성과공개",
-  "'종이없는은행으로한걸음'…Sh수협은행,문서관리전면디지털화",
-  "당정,수능‘커닝하면’최대10년응시제한…올해부터소급적용추...",
-  "F5,AI시대국내기업보안전략제시...2027년사이버보안3대전망발...",
-  "美시마AI,팔레트3.0’공개…피지컬AI성능개선",
-  "[더벨]윤진파트너스,'순금주얼리제조사'스태리그룹품었다",
-  "솔라나5%급반등!ETF에1,168만달러유입되며75달러선탈환",
-  "미래에셋생명,개인정보유출1만명으로확대…초기추산대비53%↑",
-  "SK텔레콤,AI-RAN기반무인자율이송기술로전파방송기술대상장관상...",
-  "최태원회장,日요미우리신문과한일경제안보협력플랫폼출범",
   "최태원,사회문제해결경제적보상있어야…AI가정확성·신뢰도확보...",
   "'최태원동거인에1000억썼다'유튜버…공소청,징역1년구형",
   "[26.11.18증시인싸잇]오늘의종목-삼성전기,엔비디아와AI동맹확...",
@@ -6001,7 +5991,17 @@
   "SK텔레콤,수험생프로모션시작…문화생활·AI혜택제공",
   "엔비디아직원56%\"젠슨황복귀해야\"…대타는이언벅선두",
   "유진증권\"엔비디아,호실적으로AI수요견조…주가저평가\"",
-  "[젠슨황스캔들]엔비디아,직원급여·주식보상앞당긴다"
+  "[젠슨황스캔들]엔비디아,직원급여·주식보상앞당긴다",
+  "김건희·한덕수'운명의날'...대법,'내란'첫판단[뉴스UP]",
+  "중국산AI확산에칼빼든미국...삼성SDS·솔트룩스수혜가능성",
+  "앤트로픽,공모가83달러…스페이스X넘어역대최대IPO",
+  "\"앤트로픽상장韓미소\"국민연금'1조원대'뿌듯[여의도Pick!]",
+  "변동성장세속'장기성과·배당'두토끼잡는다…삼성'KODEX미국S&P500...",
+  "[시대만필]AI시대,책을읽는다는것",
+  "전북교육청서1만명개인정보유출…경찰수사의뢰",
+  "전주대학교,개인정보18만건유출…\"2.5만건은주민번호포함\"",
+  "뉴욕증시,엔비디아호실적에도혼조마감",
+  "엔비디아직원56%\"젠슨황복귀해야\"…후임으로는'이언벅'1위"
  ],
  "recent_sigs": [
   [
@@ -6649,7 +6649,7 @@
    "저평가 유진증권 주가 호실적으로 수요 견조"
   ]
  ],
- "last_run": "2026-11-19T08:54:36.684097+09:00",
+ "last_run": "2026-11-19T08:56:31.442423+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
