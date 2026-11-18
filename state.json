@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=54864",
-  "https://www.nocutnews.co.kr/news/6608633",
-  "https://www.dailian.co.kr/news/view/1716554/?sc=Naver",
   "https://newscham.net/130185/",
   "https://www.biotimes.co.kr/news/articleView.html?idxno=36265",
   "https://zdnet.co.kr/view/?no=20261118101051",
@@ -2999,12 +2996,12 @@
   "https://www.hani.co.kr/arti/economy/it/1288042.html",
   "https://www.gukjenews.com/news/articleView.html?idxno=3756368",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2314669",
-  "https://view.asiae.co.kr/article/2026111821405952085"
+  "https://view.asiae.co.kr/article/2026111821405952085",
+  "https://daily.hankooki.com/news/articleView.html?idxno=1426693",
+  "https://www.tokenpost.kr/news/tech/440378",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42792"
  ],
  "seen_titles": [
-  "[현장]최태원회장\"자본주의이기심활용해야\"…사회적가치성장시스...",
-  "엔비디아,3분기호실적…임시CEO\"해낼수있다\"자신감",
-  "젠슨황퇴진에AI진영희비...오픈소스밀리고앤스로픽뜨나",
   "삼성전기-엔비디아\"반도체기판및MLCC협력강화\"",
   "엔비디아사면초가…美증권거래위,공시위반조사착수",
   "\"외주업체까지관리하라\"…금감원,AI해킹우려에운용사간담회",
@@ -6001,21 +5998,12 @@
   "수능AI부정행위전수조사가능할까…빅테크협력여부도관건",
   "대전경찰청,AI·스마트기기시험부정행위'끝까지추적한다'",
   "내일수능부터부정행위제보시포상금1억원",
-  "전주대서18만건학생·교직원정보유출…주민번호도포함돼"
+  "전주대서18만건학생·교직원정보유출…주민번호도포함돼",
+  "수능부정행위신고자에최대1억포상금...범정부대응TF도가동",
+  "현재의3배목표…SPIL,2029년중반까지패키징생산능력확대",
+  "연세대·엔비디아,1,049억건전파데이터오픈소스로공개…6G·AI-RAN위..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-18T15:46:17.067929+09:00",
-   "코스닥 로봇주 반도체 반등 코스피 질주"
-  ],
-  [
-   "2026-11-18T15:46:17.067929+09:00",
-   "~LGU LG유플러스 3분기 사태에도 경영진 증가 보상"
-  ],
-  [
-   "2026-11-18T15:46:17.067929+09:00",
-   "엔비디아에 기관이 밀렸다 외국인 되찾은 오천피 fn마감 매도에 뛰고"
-  ],
   [
    "2026-11-18T15:50:26.870867+09:00",
    "필요 경제적 보상 사회문제 확실한 해결에"
@@ -6767,9 +6755,13 @@
   [
    "2026-11-18T21:38:17.351723+09:00",
    "전주대 온라인 교육과정 털렸다 주민등록번호까지 서비스"
+  ],
+  [
+   "2026-11-18T21:46:19.589049+09:00",
+   "전파 049억 6G 연세대 데이터 RAN 오픈소스로 공개"
   ]
  ],
- "last_run": "2026-11-18T21:44:33.038553+09:00",
+ "last_run": "2026-11-18T21:46:40.655786+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
