@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://econotimes.com/OpenAI-Names-Aleph-Exclusive-ChatGPT-Ads-Reseller-in-44-Markets-1778312",
-  "https://www.boannews.com/news/articleView.html?idxno=147321",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42764",
-  "https://weekly.khan.co.kr/article/202611180027001",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8715132",
-  "https://www.tokenpost.kr/news/ai/439560",
-  "https://www.aitimes.com/news/articleView.html?idxno=217473",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=722206",
-  "https://zdnet.co.kr/view/?no=20261117101352",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715971",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715560",
   "https://www.tokenpost.kr/news/ai/438375",
@@ -2999,18 +2990,18 @@
   "https://www.etnews.com/20261118000236",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560519",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=366310",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=628193"
+  "https://www.cbci.co.kr/news/articleView.html?idxno=628193",
+  "http://www.legaltimes.co.kr/news/articleView.html?idxno=96940",
+  "https://www.sedaily.com/article/20113336",
+  "https://biz.heraldcorp.com/article/10933261",
+  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084847",
+  "https://www.widedaily.com/news/articleView.html?idxno=304021",
+  "https://www.aitimes.kr/news/articleView.html?idxno=42785",
+  "https://www.newscj.com/news/articleView.html?idxno=3449812",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768540",
+  "https://www.tokenpost.kr/news/breaking/440249"
  ],
  "seen_titles": [
-  "LG유플러스,대한민국소통어워즈4관왕…종합대상2년연속",
-  "'이승민은꼭대기,최원태는맨아래'…삼성퍼레이드에서엇갈린두선...",
-  "[AI커닝파장]이통사,수능시험장와이파이차단할듯⋯\"LTE·5G는차단...",
-  "\"내달부터'5G단독모드'개시\"",
-  "LGU+,국내이통사첫車사이버보안국제표준ML3LGU+,인증",
-  "美이통3사에퇴짜맞은스페이스X…왜'퀄컴'과손잡았나[IT+]",
-  "\"초소형카메라팔지마\"이커머스나섰지만…해외직구는?구멍'숭숭'",
-  "DB그룹,프로농구부터골프유망주까지…20년후원의힘",
-  "트럼프보란듯중남미끌어안은시진핑…300억원지원·AI협력",
   "[창업,대전㊤]동네카페가투자상담장…대전창경센터,대학가통째...",
   "\"나도AI로합격했다\"자백글봇물…실제AI커닝언제부터가능했을까",
   "블루웨이브딜레마:전기료도잡고AI투자도잡으려면",
@@ -6001,7 +5992,16 @@
   "SKT,AI-RAN차량제어기술로전파방송기술대상장관상",
   "‘복귀의사’밝힌젠슨황…이사회는선그어",
   "PHP이어자바도'해킹비상'",
-  "[AI공포확산]전문가들이밝힌은행·항공마비사태...배후에'AI해킹'..."
+  "[AI공포확산]전문가들이밝힌은행·항공마비사태...배후에'AI해킹'...",
+  "[2026BestLawFirmsinKorea]법무법인한누리",
+  "최태원,노소영재산분할금9440억원전액한투에예치",
+  "노재헌주중대사피의자입건…범죄수익은닉혐의",
+  "삼척도계역세권도시재생에331억원투입…2027년말까지사업완료",
+  "금융권IT자산'사각지대'없앤다…전산자산식별의무화·취약점평가...",
+  "SKT,AI기지국으로일반차량무인이송…2027년KG모빌리티공장적용...",
+  "최태원,日요미우리와'한일신시대전략플랫폼'출범",
+  "'한일신시대전략플랫폼'출범...공동대표맡은최태원회장\"새로운...",
+  "앤스로픽IPO,같은공모가에도개인과전략투자자조건달라"
  ],
  "recent_sigs": [
   [
@@ -7235,9 +7235,13 @@
   [
    "2026-11-18T13:24:24.611678+09:00",
    "네고에 외국인 아래로 매도 달러선물 330원 90원"
+  ],
+  [
+   "2026-11-18T13:28:18.462976+09:00",
+   "개인과 같은 전략 조건 달라 IPO 투자자 공모가에도"
   ]
  ],
- "last_run": "2026-11-18T13:26:36.372902+09:00",
+ "last_run": "2026-11-18T13:28:34.016122+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
