@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=408772",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=301635",
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1313057",
-  "https://www.ddaily.co.kr/page/view/2026111809482201989",
-  "https://www.fnnews.com/news/202611180948485393",
-  "https://www.ddaily.co.kr/page/view/2026111809541792831",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445301",
-  "http://www.weeklytoday.com/news/articleView.html?idxno=802150",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=513579",
-  "https://www.seoul.co.kr/news/life/2026/11/12/20261112500053?wlog_tag3=naver",
   "https://www.edaily.co.kr/News/Read?newsId=02601046645645064&mediaCodeNo=257",
   "https://www.the-today.com/news/articleView.html?idxno=93439",
   "https://nownews.seoul.co.kr/news/newsView.php?id=20261111601015&wlog_tag3=naver",
@@ -2999,19 +2989,19 @@
   "https://www.hankyung.com/article/2026111855091",
   "https://www.fnnews.com/news/202611181821231746",
   "https://www.sisaon.co.kr/news/articleView.html?idxno=206205",
-  "https://www.busan.com/view/busan/view.php?code=2026111818183435618"
+  "https://www.busan.com/view/busan/view.php?code=2026111818183435618",
+  "https://byline.network/?p=9004111222628360",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3756216",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3756199",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3756194",
+  "https://www.pressman.kr/news/articleView.html?idxno=104551",
+  "https://www.khan.co.kr/article/202611172115015",
+  "https://www.sedaily.com/article/20116131",
+  "https://www.fnnews.com/news/202611181823093123",
+  "https://www.sentv.co.kr/article/view/sentv202611180102",
+  "https://www.sentv.co.kr/article/view/sentv202611180112"
  ],
  "seen_titles": [
-  "[오늘의주요일정]과기정통부·방미통위·개보위(11월16일월요일)",
-  "[데스크칼럼]강한처벌이해킹을없앨까",
-  "원스토어,캐주얼게임30여종결제액12%적립",
-  "최태원\"사회문제해결에도경제적보상필요…AI가유효한도구\"",
-  "LG유플러스,AI로IPTV품질관리'사전예방'…인터넷무선공유기순차적...",
-  "LG유플러스,AI로IPTV장애사전차단",
-  "LG유플러스,AI품질관리확대…IPTV420만대에적용",
-  "[AI픽]어린이환자와놀고검사안내까지…KT,병원AI로봇실증",
-  "KT알파쇼핑,말레이시아미디어그룹과글로벌커머스협력모색",
-  "삼성전기,세종·부산패키지기판생산능력확대…엔비디아추가지원...",
   "[투데이's특징주]삼성전기,엔비디아와협력강화소식에장중6%대강...",
   "엔비디아호실적에코스피5100선회복…코스닥도3%대상승",
   "엔비디아이사회,젠슨황복귀거부…후임CEO선임절차착수",
@@ -6001,7 +5991,17 @@
   "코리아써키트,기판수주잭팟…한달새주가43%'뜀박질'",
   "[사설]PHP이어자바도취약,국가전산망긴급점검을",
   "AI해킹,기계속도로막는다…F5,국내전략공개[현장에서]",
-  "‘엔비디아’계약에삼성전기생산확장"
+  "‘엔비디아’계약에삼성전기생산확장",
+  "F5“가속화되는AI사이버공격,‘기계의속도’로‘자동화’된대응...",
+  "대구시달서구청,직원100여명대상AI시대홍보교육...보도자료작...",
+  "대구보건대,서울카페쇼서지역커피기업6개사공동관운영...판로확대...",
+  "계명대이호택교수,B2B국제학술지논문8편게재...최근2편은Q1",
+  "[G-STAR2026①]'붉게'물든게임대상…펄어비스'붉은사막'8관왕싹...",
+  "방미통위,‘AI커닝조장’온라인게시물차단…기기판매는못막을...",
+  "젠슨황“이사회가원한다면복귀”…하비존스“재선임할뜻없다”",
+  "돌아오겠다는젠슨황…엔비디아는내·외부서차기리더물색",
+  "삼성전기,엔비디아와‘AI부품동맹’…기판·MLCC공급확대",
+  "젠슨황없는엔비디아,깜짝실적…코스피반등불씨되나"
  ],
  "recent_sigs": [
   [
@@ -7155,9 +7155,13 @@
   [
    "2026-11-18T18:24:16.877638+09:00",
    "확장 생산 계약에 삼성전기"
+  ],
+  [
+   "2026-11-18T18:26:18.276612+09:00",
+   "속도 사이버공격 자동화 대응 F5 가속화되는 기계의"
   ]
  ],
- "last_run": "2026-11-18T18:24:35.812429+09:00",
+ "last_run": "2026-11-18T18:26:36.072401+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
