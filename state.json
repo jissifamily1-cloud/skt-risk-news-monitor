@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20115735",
-  "https://www.ytn.co.kr/_ln/0104_202611180910169064",
-  "https://www.newsway.co.kr/news/view?ud=2026111808183724831",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850043.html",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/18/2026111850042.html",
-  "https://www.ajunews.com/view/20261118090943121",
-  "https://www.wikitree.co.kr/articles/1175509",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445279",
-  "https://www.newsquest.co.kr/news/articleView.html?idxno=305271",
   "https://www.newspim.com/news/view/20261118000177",
   "https://www.hankyung.com/article/202611183436i",
   "http://coinreaders.com/271187",
@@ -2999,18 +2990,18 @@
   "https://www.newsinside.kr/news/articleView.html?idxno=5051076",
   "https://www.getnews.co.kr/news/articleView.html?idxno=887639",
   "http://www.thevaluenews.co.kr/news/view.php?idx=203437",
-  "https://www.joongang.co.kr/article/25479841"
+  "https://www.joongang.co.kr/article/25479841",
+  "https://www.newscj.com/news/articleView.html?idxno=3449895",
+  "https://www.mediapen.com/news/view/1138330",
+  "https://biz.chosun.com/stock/stock_general/2026/11/18/FSFIHKOPY5FAHGEBWYQWWLQVYE/",
+  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89258",
+  "https://www.g-enews.com/view.php?ud=202611181643406038112616b072_1",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001330",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8570",
+  "http://www.inews24.com/view/2027792",
+  "https://www.sisajournal-e.com/news/articleView.html?idxno=425136"
  ],
  "seen_titles": [
-  "엔비디아의존도낮추는오픈AI,AMD와의동맹에속도",
-  "[개장시황]코스피,엔비디아훈풍에2%대상승출발…5100선회복",
-  "삼성전기,엔비디아와'AI동맹'확대…기판넘어MLCC까지공급",
-  "\"고맙다,엔비디아\"…호실적에삼전닉스동반상승",
-  "[전문번역]젠슨황전NVIDIACEO의공식성명",
-  "금시세·금값18일",
-  "농협은행,'NH기업뱅킹'리뉴얼오픈…\"더쉽고편리해졌다\"",
-  "\"불륜인줄만알았는데\"…'젠슨황스캔들'대반전오나",
-  "[속보]광통신관련주일제히강세…성호전자12%대급등·RF머트리얼즈...",
   "[모닝리포트]\"코스피5000선붕괴에도비중축소보다반등대비\"",
   "[AI출근길]AI제작웹사이트7,403곳,로그인없이고객정보열렸다",
   "최종현학술원·요미우리,'한일신시대전략플랫폼'출범",
@@ -6001,7 +5992,16 @@
   "LG유플러스,전원없이통신음영해소…기술대상대통령상",
   "삼성전자,2.3%상승마감…하닉은4.2%↑",
   "[더밸류브리핑]오늘의은행소식...하나은행·IBK기업은행",
-  "“엔비디아가알리바바에앨리스황연결”…美규제전우회통로마련..."
+  "“엔비디아가알리바바에앨리스황연결”…美규제전우회통로마련...",
+  "AI확산에'보안주권'부상…\"소버린AI·멀티모델·공격가속화대비...",
+  "\"AI로비용낮추고수익높인다\"…11번가,수익구조재편가속",
+  "2월로돌아간코스피,기초체력은딴판…거래대금40%줄고‘반도체...",
+  "\"AI환각,아직도못잡았다\"...전문가도속이는오류에기업들대응강...",
+  "무뇨스현대차사장\"젠슨황사임파장커…엔비디아협력은지속\"",
+  "엔비디아,美수출승인에도中AI반도체공급중단",
+  "[특징주]원익홀딩스,엔비디아호실적에10%대급등…로봇핸드사업재...",
+  "\"엔비디아'루빈'전환에삼성·하닉성장기회…중국규제는변수\"",
+  "KT클라우드손해배상피소···원고\"데이터날라가24억원피해\""
  ],
  "recent_sigs": [
   [
@@ -7103,9 +7103,21 @@
   [
    "2026-11-18T16:46:17.077369+09:00",
    "하나은행 오늘의 IBK기업은행 은행 소식"
+  ],
+  [
+   "2026-11-18T16:48:15.904580+09:00",
+   "주권 공격 확산에 대비 멀티모델 부상 소버린 가속화 보안"
+  ],
+  [
+   "2026-11-18T16:48:15.904580+09:00",
+   "피해 손해배상 피소 24억원 KT클라우드 날라가 원고 데이터 ~KT"
+  ],
+  [
+   "2026-11-18T16:48:15.904580+09:00",
+   "삼성 성장 기회 하닉 변수 루빈 전환에 중국 규제는"
   ]
  ],
- "last_run": "2026-11-18T16:46:39.256236+09:00",
+ "last_run": "2026-11-18T16:48:40.487013+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
