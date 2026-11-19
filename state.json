@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.abcn.kr/news/articleView.html?idxno=93971",
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=368819",
-  "https://www.mt.co.kr/opinion/2026/11/04/2026110216134186344",
-  "http://www.sisafocus.co.kr/news/articleView.html?idxno=367151",
-  "http://www.inews24.com/view/2022032",
-  "https://www.etnews.com/20261102000359",
-  "http://www.inews24.com/view/2021114",
-  "https://www.yna.co.kr/view/AKR20261030165800017?input=1195m",
   "https://www.ajunews.com/view/20261030165751257",
   "https://zdnet.co.kr/view/?no=20261030154118",
   "https://www.mt.co.kr/tech/2026/10/30/2026103011454960096",
@@ -2999,17 +2991,17 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=140734",
   "https://www.m-i.kr/news/articleView.html?idxno=2020805",
   "https://www.mt.co.kr/world/2026/11/19/2026111911290589480",
-  "https://www.ajunews.com/view/20261119133806934"
+  "https://www.ajunews.com/view/20261119133806934",
+  "https://www.vegannews.co.kr/news/article.html?no=407651",
+  "https://www.mt.co.kr/policy/2026/11/19/2026111819595874616",
+  "https://www.mt.co.kr/tech/2026/11/19/2026111815092476832",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3757075",
+  "http://www.whosaeng.com/175460",
+  "https://www.newstopkorea.com/news/articleView.html?idxno=49172",
+  "https://www.fnnews.com/news/202611191134414534",
+  "https://www.tokenpost.kr/news/ai/440548"
  ],
  "seen_titles": [
-  "30년고객덤터기씌우는SKT...해킹,실수결제도환불ㆍ취소안돼(1)",
-  "'아이폰듀오'출시에도10월번호이동썰렁…연말도소강전망",
-  "[우보세]한국독자AI,우려보다응원을",
-  "\"AI경쟁핵심은토큰\"…이통3사,'토큰시장'공략본격화",
-  "SKT에이닷음성스팸신고'1300건'⋯KISA,\"이통사와협업음성스팸분...",
-  "KT도3G신규가입중단…23년만퇴장수순",
-  "이통사'우군'에서'경쟁자'로…스타링크의변신",
-  "[가보니]CCTV안봐도낙상위험감지…AI가돕는요양원",
   "앱등이도등돌린'삼성VS애플'대전...아이폰듀오는'망작'?",
   "삼성전자,가성비AI스마트폰'갤럭시A18LTE'국내출시",
   "아이폰'크랙게이트'논란에갤폴드8반격...지원금10만원늘렸다",
@@ -6001,7 +5993,15 @@
   "삼성자산운용KODEX미국S&P500,개인순매수3조원돌파",
   "저축은행직원정보유출…중앙회\"사칭금융사기주의\"",
   "AI기업'부도위험'에베팅하는ETF등장…코어위브·오라클겨냥",
-  "[종합]中빅테크덮친AI이중고…美반도체규제에수익성압박까지"
+  "[종합]中빅테크덮친AI이중고…美반도체규제에수익성압박까지",
+  "아트앤하트,전국가맹교육원원장연례세미나개최",
+  "와이파이끄고'AI흔적'색출…과기부·NIA·이통3사,수능부정행위...",
+  "\"AI부정행위,꼼짝마\"…과기정통부·이통사·NIA100여명통신모니터링",
+  "김순택경남도의원,\"통합항만공사본사진해신항설치해야\"",
+  "의학한림원,24일‘2026보건의료R&D혁신오픈포럼’개최",
+  "SK,이사회중심경영고도화...최태원\"주주가치극대화관점소통\"",
+  ".미국의반도체규제정책어떻게달라질까....대중국규제및제재강화...",
+  "AI추론용량증가분74%,엔비디아블랙웰기여추정"
  ],
  "recent_sigs": [
   [
@@ -6915,9 +6915,17 @@
   [
    "2026-11-19T13:52:17.774113+09:00",
    "압박까지 수익성 반도체 빅테크 규제에 이중고 덮친"
+  ],
+  [
+   "2026-11-19T13:54:17.928696+09:00",
+   "추론 증가분 용량 기여 추정 블랙웰"
+  ],
+  [
+   "2026-11-19T13:54:17.928696+09:00",
+   "규제 대중국 강화 정책 미국의 반도체 달라질까 어떻게 제재"
   ]
  ],
- "last_run": "2026-11-19T13:52:36.854177+09:00",
+ "last_run": "2026-11-19T13:54:37.337369+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
