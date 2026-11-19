@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/president/6359486",
-  "https://www.huffingtonpost.kr/article/262212",
-  "http://www.popcornnews.net/news/articleView.html?idxno=140734",
   "https://www.m-i.kr/news/articleView.html?idxno=2020805",
   "https://www.mt.co.kr/world/2026/11/19/2026111911290589480",
   "https://www.ajunews.com/view/20261119133806934",
@@ -2999,12 +2996,12 @@
   "https://www.sedaily.com/article/20116745",
   "https://www.ytn.co.kr/_ln/0104_202611200719305468",
   "https://www.g-enews.com/view.php?ud=2026112007170595779a1f309431_1",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716878"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716878",
+  "https://www.autodaily.co.kr/news/articleView.html?idxno=602265",
+  "http://www.inews24.com/view/2028441",
+  "https://www.edaily.co.kr/News/Read?newsId=01748246645647688&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "SK그룹,이사회중심경영강화…거버넌스고도화논의",
-  "미국전역전산장애원인은해킹아닌'졸속패치'",
-  "현대차그룹,자율주행상용화속도…애플·엔비디아출신인재영입",
   "에임인텔리전스연구논문'XL-SafetyBench',NeurIPS2026에채택",
   "韓총리\"작년수능시험지보관유지\"긴급지시…부정행위의혹규명",
   "'쉰스타그램'홍역뒤다시대화기능에집중하는카카오:외국어자동...",
@@ -6001,7 +5998,10 @@
   "중국,SK하이닉스HBM기술까지베끼나...반도체장비수입4배폭증[Pi...",
   "\"삼성전자·TSMC,중국고객사에일부칩출하중단\"",
   "앤스로픽·스페이스X,美IPO자금3분의2차지",
-  "\"JP모건·비자·마스터카드,협력업체해킹으로일부고객정보노출\""
+  "\"JP모건·비자·마스터카드,협력업체해킹으로일부고객정보노출\"",
+  "앤트로픽직원들'돈벼락'⋯초기입사자수백명1300억지분",
+  "뉴욕증시,2%대급락...앤트로픽상장에도AI매도세확산",
+  "美은행주4일새6.6%급락…약세신호'데드크로스'떴다"
  ],
  "recent_sigs": [
   [
@@ -6287,9 +6287,13 @@
   [
    "2026-11-20T07:22:17.314282+09:00",
    "비자 마스터카드 고객 노출 해킹으로 일부 정보 협력업체 JP모건"
+  ],
+  [
+   "2026-11-20T07:24:17.054107+09:00",
+   "약세 신호 은행주 급락 4일새 떴다 데드크로스"
   ]
  ],
- "last_run": "2026-11-20T07:22:32.827634+09:00",
+ "last_run": "2026-11-20T07:24:36.462984+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
