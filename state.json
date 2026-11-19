@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.m-economynews.com/news/article.html?no=73300",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3757064",
-  "https://weekly.hankooki.com/news/articleView.html?idxno=7194740",
-  "https://www.etnews.com/20261119000251",
   "https://www.news1.kr/society/education/6359468",
   "https://www.inven.co.kr/webzine/news/?news=323596",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=903661",
@@ -2999,13 +2995,13 @@
   "https://www.inthenews.co.kr/news/article.html?no=94756",
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=94874",
   "https://www.imaeil.com/page/view/2026112007095568105",
-  "https://www.ajunews.com/view/20261120070723733"
+  "https://www.ajunews.com/view/20261120070723733",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16281078",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083489",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=122390",
+  "https://news.mtn.co.kr/article/2026112007122058663"
  ],
  "seen_titles": [
-  "동서대,'2026DSUANCHORFAIR'개최…산학연성과한자리에",
-  "'북한판챗GPT'출시됐는데…질문은가려받는다?",
-  "실무자부터화이트해커까지한자리에...'OWASPKoreaDay2026'열린다",
-  "패럴림픽8년동행…하나금융의'포용경영'",
   "NGINX서치명적보안취약점발견...정부,긴급업데이트권고",
   "대전보훈청,\"군경력살려국가중요시설지킨다\"…제대군인17명특수경...",
   "저축銀직원개인정보도털려…외부교육사이트서성명·직위·소속은행...",
@@ -6001,7 +5997,11 @@
   "SKB,한국-싱가포르잇는해저케이블에‘양자보안’국제시험망구축",
   "[뉴욕증시마감]앤트로픽17%상승에도AI주급락…다우2.19%↓",
   "2천700억넣었는데4조됐다…SKT,앤트로픽상장에'16배잭팟'",
-  "[뉴욕증시마감]앤트로픽상장에도2%대하락…나스닥2.25%↓"
+  "[뉴욕증시마감]앤트로픽상장에도2%대하락…나스닥2.25%↓",
+  "미국증시,앤트로픽상장호재에도다우1100P급락…AI·반도체매도확...",
+  "[뉴스클레임사설]공공기관정보유출,기관장책임까지물어야",
+  "LG유플러스안형균·노성주전무승진,B2BAI·통신인프라전문가전진...",
+  "앤트로픽상장에도2%대급락…다우5만선아래로[뉴욕마감]"
  ],
  "recent_sigs": [
   [
@@ -6279,9 +6279,13 @@
   [
    "2026-11-20T07:10:30.029152+09:00",
    "강자 술렁 굿모닝 피했더니 공매도 보고서에 반도체"
+  ],
+  [
+   "2026-11-20T07:16:18.085229+09:00",
+   "전무 B2B LG유플러스 승진 ~LGU 노성주 통신인프라 안형균 전진 전문가"
   ]
  ],
- "last_run": "2026-11-20T07:14:35.613591+09:00",
+ "last_run": "2026-11-20T07:16:34.489937+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
