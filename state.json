@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.globale.co.kr/news/articleView.html?idxno=41735",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209608",
-  "https://www.newsis.com/view/NISX20261118_0003874082",
-  "https://www.news1.kr/local/daegu-gyeongbuk/6358770",
-  "https://www.tokenpost.kr/news/cryptocurrency/440388",
-  "https://www.newsis.com/view/NISX20261118_0003873912",
-  "https://www.vegannews.co.kr/news/article.html?no=407331",
-  "https://www.seoul.co.kr/news/economy/2026/11/19/20261119031004?wlog_tag3=naver",
-  "https://www.kmib.co.kr/article/20261118502354",
-  "https://www.kmib.co.kr/article/20261118502418",
-  "https://www.donga.com/news/Economy/article/all/20261118/135050232/2",
   "https://www.hankyung.com/article/2026111855261",
   "http://www.gjdream.com/news/articleView.html?idxno=674464",
   "https://www.thedailypost.kr/news/articleView.html?idxno=117037",
@@ -2999,20 +2988,20 @@
   "https://www.newsinside.kr/news/articleView.html?idxno=5051736",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611190104&t=NN",
   "https://www.m-i.kr/news/articleView.html?idxno=2021025",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921774"
+  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921774",
+  "https://www.kukinews.com/article/view/kuk202611190179",
+  "https://www.dailian.co.kr/news/view/1717371/?sc=Naver",
+  "http://www.kdfnews.com/news/articleView.html?idxno=191160",
+  "https://www.hani.co.kr/arti/economy/finance/1288163.html",
+  "http://www.4th.kr/news/articleView.html?idxno=2122229",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=203473",
+  "https://www.newsway.co.kr/news/view?ud=2026111916330101553",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=203475",
+  "https://www.tokenpost.kr/news/cryptocurrency/440668",
+  "https://www.mediapen.com/news/view/1138434",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321136&inflow=N"
  ],
  "seen_titles": [
-  "전주대해킹,주민번호2.5만건포함개인정보18만여건유출",
-  "전주대해킹으로개인정보약18만건유출…주민등록번호포함2만5천...",
-  "영남대·대구한의대·경일대해킹…개인정보유출",
-  "대구·경북대학,잇따른해킹에시스템뚫려…대책마련비상",
-  "앤스로픽IPO자금이동설,분석가들이견",
-  "[오늘의주요일정]과기정통부·방미통위·개보위(11월19일목요일)",
-  "SK텔레콤AI-RAN무인이송,2027년KG모빌리티실증",
-  "세계행정학회서울대회참석",
-  "“사회문제해결한만큼경제적보상”최태원회장新자본주의모델제...",
-  "최태원·요미우리,한·일플랫폼출범…첫의제는‘에너지안보’",
-  "한일경제협력확대빅텐트띄운최태원…日요미우리신문과‘신시대...",
   "[윤성민칼럼]수출1조달러라는단군이래최대횡재",
   "전남광주반도체하도급지원컨트롤타워없다",
   "LG유플러스,'패시브리피터'로2026전파방송기술대상대통령상받아",
@@ -6001,7 +5990,18 @@
   "LG유플러스,AI·통신전문가전진배치…전무2명승진",
   "서학개미,美반도체3배ETF에3조베팅",
   "한한령해제기대에중국소비주들썩...코스피5100선회복[마감시황...",
-  "세종시사회서비스원,통합돌봄포럼열어...지역맞춤형돌봄체계논의"
+  "세종시사회서비스원,통합돌봄포럼열어...지역맞춤형돌봄체계논의",
+  "LG헬로비전새CEO에김지훈사업총괄…“본업다지고재도약”",
+  "HCN인수5년만에합병추진에…스카이라이프노조\"경영실패부터따...",
+  "수능끝나자소비혜택확대…외식∙헬스케어∙통신업계고객공략",
+  "초대형IPO효과?“상장초기상승분대체로반납”…오늘밤앤트로픽...",
+  "[르포]웹젠신작·엔씨상생부터현대차N까지..다채로워진지스타",
+  "[더밸류브리핑]오늘의NH농협은행소식...오픈비즈니스데이·퇴직연금...",
+  "이세영뤼튼대표\"AI콘텐츠국경넘는다…글로벌창작생태계확장\"[지...",
+  "[더밸류브리핑]오늘의운용사소식...삼성자산운용·미래에셋자산운용...",
+  "앤트로픽계약,대형주소매도포지션2000만달러우위",
+  "[美증시]엔비디아어닝서프에도반도체주'조정'…브로드컴·AMD만급등",
+  "(인사)LG유플러스"
  ],
  "recent_sigs": [
   [
@@ -6927,9 +6927,13 @@
   [
    "2026-11-19T16:50:35.357581+09:00",
    "논의 열어 포럼 지역 돌봄체계 통합돌봄 맞춤형 세종시사회서비스원"
+  ],
+  [
+   "2026-11-19T16:52:18.421292+09:00",
+   "~LGU 인사 LG유플러스"
   ]
  ],
- "last_run": "2026-11-19T16:50:57.945253+09:00",
+ "last_run": "2026-11-19T16:52:39.178925+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
