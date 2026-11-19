@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/19/2026111990038.html",
-  "http://www.wsobi.com/news/articleView.html?idxno=322083",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261119081609xmf",
-  "http://www.kjdaily.com/article.php?aid=1795043472692865276",
-  "http://www.newsroad.co.kr/news/articleView.html?idxno=68027",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611101513493600102522",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611101416293040104760",
-  "http://www.breaknews.com/1252144",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366328",
   "https://www.viewsnnews.com/article?q=239794",
   "https://www.epnc.co.kr/news/articleView.html?idxno=409994",
   "https://www.hankyung.com/article/202611122647O",
@@ -2999,18 +2990,18 @@
   "http://www.breaknews.com/1252368",
   "https://www.hankyung.com/article/2026111982161",
   "https://www.dt.co.kr/article/12096250",
-  "http://www.4th.kr/news/articleView.html?idxno=2122275"
+  "http://www.4th.kr/news/articleView.html?idxno=2122275",
+  "https://www.sedaily.com/article/20116652",
+  "https://www.thedailypost.kr/news/articleView.html?idxno=117078",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3757477",
+  "https://www.fnnews.com/news/202611191817509563",
+  "https://www.fnnews.com/news/202611191816311170",
+  "https://www.mk.co.kr/article/12213223",
+  "https://biz.chosun.com/it-science/ict/2026/11/19/ELR2TEML2RCIFLD6NPFWPHARTI/",
+  "https://www.sentv.co.kr/article/view/sentv202611190127",
+  "https://www.tokenpost.kr/news/market/440719"
  ],
  "seen_titles": [
-  "미중러정상,사상첫3자회담…세계질서분수령",
-  "KT,서울대병원과'의료피지컬AI'실증…PASS앱통해교통과태료전...",
-  "'AI부정'우려에긴장감…수능곧입실마감",
-  "[오늘증시전망]코스피,앤트로픽상장에촉각",
-  "앤스로픽,IPO공모가83달러확정…기업가치1조5000억달러",
-  "[더벨][thebellLeagueTable|2026이사회평가]14개그룹계열사이사...",
-  "[더벨][thebellLeagueTable|2026이사회평가]삼성전자이사회평가...",
-  "경기도,사회연대경제박람회27일개막",
-  "AI투자불안속뉴욕증시혼조…다우1%↓",
   "미연준도\"순환금융,손실증폭시킬수도\"",
   "SKT,AI-RAN무인자율이송기술로전파방송기술대상5년연속수상",
   "한중일융합예술포럼‘trulyseeyou’마무리…특별전12월12일까지",
@@ -6001,7 +5992,16 @@
   "지스타2026개막...AI부터글로벌콘솔대작까지,게임산업의새로운지...",
   "회사만든지6년만에…'몸값2000조'찍은괴물기업정체",
   "[古典여담]美人計<미인계>",
-  "저축은행직원들개인정보도뚫렸다…KG에듀원교육사이트해킹"
+  "저축은행직원들개인정보도뚫렸다…KG에듀원교육사이트해킹",
+  "“AI평판이경쟁력”…전담팀꾸린기업들",
+  "'변화'보다'안정'택한LG…미래사업인재중용'초점'",
+  "창녕군깨끗한축산농장100호달성…개미농장Ⅲ서기념식",
+  "현대모비스,미래모빌리티기술개발박차",
+  "게임신작빈자리채운'창작신세계’…AI가점령한지스타[지스타2...",
+  "앤트로픽상장,한국의시험대[김세형칼럼]",
+  "원스토어모회사‘원’,부산으로본사이전…블록체인·AI사업확대",
+  "SKT,AIDC사업분할에…SKB노조“매각대금재투자해야”",
+  "엔비디아($NVDA)매출103%성장…SOX6월고점서34%하락"
  ],
  "recent_sigs": [
   [
@@ -6911,9 +6911,17 @@
   [
    "2026-11-19T18:18:17.537776+09:00",
    "개인정보도 KG에듀원 뚫렸다 교육사이트 직원들 저축은행"
+  ],
+  [
+   "2026-11-19T18:20:28.873797+09:00",
+   "노조 SKB ~SKT 매각대금 사업 재투자해야 AIDC 분할에"
+  ],
+  [
+   "2026-11-19T18:20:28.873797+09:00",
+   "6월 NVDA SOX 매출 고점서 하락 성장"
   ]
  ],
- "last_run": "2026-11-19T18:18:42.697808+09:00",
+ "last_run": "2026-11-19T18:20:50.317361+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
