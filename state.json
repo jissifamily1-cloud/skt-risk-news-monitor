@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=214124",
-  "https://www.sisajournal-e.com/news/articleView.html?idxno=425153",
-  "https://www.kgnews.co.kr/news/article.html?no=920306",
-  "https://www.idaegu.co.kr/news/articleView.html?idxno=565853",
   "http://www.newstomato.com/ReadNews.aspx?no=1321062&inflow=N",
   "http://www.thefirstmedia.net/news/articleView.html?idxno=214119",
   "https://www.gukjenews.com/news/articleView.html?idxno=3757145",
@@ -2999,13 +2995,13 @@
   "https://www.sisajournal-e.com/news/articleView.html?idxno=425175",
   "https://www.newspim.com/news/view/20261120000084",
   "https://www.newspim.com/news/view/20261120000075",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=302083"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=302083",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200017&t=NN",
+  "https://www.newsis.com/view/NISX20261120_0003876001",
+  "https://www.tokenpost.kr/news/breaking/441155",
+  "https://www.g-enews.com/view.php?ud=202611170759036469906806b77b_1"
  ],
  "seen_titles": [
-  "엔비디아(NVDA),호실적에도주가'흔들'...금·구리까지의문의하락세",
-  "\"전세사기수법알려줘\"통했다…AI,한국어공격2번중1번뚫려",
-  "진안군,산림치유창업23개팀육성…치유골목중심지역경제활력모...",
-  "앤트로픽,공모가83달러확정…813억달러역대최대IPO",
   "NH농협은행,스타트업협업성과공개…AI금융업무혁신추진",
   "\"지난번처럼해줘\"알아듣는능력이AI에이전트경쟁승부가른다",
   "그래픽카드한달새59만원'껑충'…AI수요에PC부품값부담",
@@ -6001,7 +5997,11 @@
   "KT노조위원장선거돌연'중단'···KT임원인사·조직개편지연되나",
   "트럼프행정부,기업들에중국산AI사용공개의무화검토",
   "[AIMY뉴스]20일중국증시'美AI주급락에中기술주도긴장…반도체...",
-  "[분석]LG유플러스,파주AIDC3단계7890억원'보수적'베팅…한도130%..."
+  "[분석]LG유플러스,파주AIDC3단계7890억원'보수적'베팅…한도130%...",
+  "\"삼성전자,中에일부칩출하중단\"...美새수출통제영향",
+  "엔비디아이어AMD도'中스캔들'…수출규제위반의혹에주가7.7%↓",
+  "캘리포니아,엔비디아논란검토…본타'레드플래그'",
+  "[김대호인물]엔비디아주식대량매각\"조지소로스\"...중앙은행을..."
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,17 @@
   [
    "2026-11-20T08:06:17.780560+09:00",
    "행정부 공개 사용 중국산 검토 기업들에 트럼프 의무화"
+  ],
+  [
+   "2026-11-20T08:08:17.685700+09:00",
+   "검토 본타 캘리포니아 플래그 레드 논란"
+  ],
+  [
+   "2026-11-20T08:08:17.685700+09:00",
+   "소로스 매각 대량 조지 주식 중앙은행을"
   ]
  ],
- "last_run": "2026-11-20T08:06:41.811385+09:00",
+ "last_run": "2026-11-20T08:08:39.021956+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
