@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ppss.kr/news/articleView.html?idxno=321904",
-  "https://econotimes.com/OpenAI-Finds-Coding-Agents-Estimated-Success-Rates-Vary-by-Task-1779341",
-  "https://www.dailian.co.kr/news/view/1717118/?sc=Naver",
-  "https://www.busan.com/view/busan/view.php?code=2026111913062188550",
-  "https://www.naeil.com/news/read/609400",
-  "https://www.mhns.co.kr/news/articleView.html?idxno=769870",
   "https://www.jemin.com/news/articleView.html?idxno=847717",
   "http://www.iminju.net/news/articleView.html?idxno=172730",
   "https://mhnse.com/news/articleView.html?idxno=1703117",
@@ -2999,15 +2993,15 @@
   "https://www.chosun.com/economy/int_economy/2026/11/20/3Z3LIBFZ4FGYRPYNWPVIWGO4JM/",
   "https://www.newsian.co.kr/news/articleView.html?idxno=101646",
   "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html?partner=naver",
-  "https://www.ddaily.co.kr/page/view/2026112006350247153"
+  "https://www.ddaily.co.kr/page/view/2026112006350247153",
+  "http://www.4th.kr/news/articleView.html?idxno=2122284",
+  "https://www.sedaily.com/article/20116740",
+  "https://www.tokenpost.kr/news/breaking/441123",
+  "https://www.hankyung.com/article/2026112087987",
+  "https://www.tokenpost.kr/news/breaking/441122",
+  "https://www.g-enews.com/view.php?ud=202611200636353344e250e8e188_1"
  ],
  "seen_titles": [
-  "구대성에게배운체인지업으로전체1순위도전!191㎝휘문고이준범...",
-  "대전대덕구의회,29일간정례회돌입…행정사무감사·6800억예산안심...",
-  "대전트램11공구유등교공사본격화…23일부터'6→4차로'축소",
-  "권순기경남교육감,수능수험생격려…시험장철저관리당부",
-  "정시원서전략정보,컨설팅없이네이버에서쉽게…오디바이스'입시...",
-  "OpenAIFindsCodingAgents’EstimatedSuccessRatesVarybyTask",
   "중국의'한국길들이기'…'비차별최혜국대우'에미디어·여행주'방긋...",
   "SK,이사회중심경영강화…최태원“거버넌스한단계격상”",
   "‘최태원SK그룹회장동거녀김희영씨관련허위사실’유튜버징역1년...",
@@ -6001,7 +5995,13 @@
   "앤스로픽상장에도뉴욕증시3대지수2%대급락…다우5만선붕괴",
   "뉴욕증시,AI투자회의론에2%대급락…다우5만선붕괴",
   "HowMuchAnthropicAreYouAbouttoOwn?",
-  "뉴욕증시일제히하락…앤트로픽상장흥행에도AI반도체·데이터센터..."
+  "뉴욕증시일제히하락…앤트로픽상장흥행에도AI반도체·데이터센터...",
+  "AMD,중국반도체수출규제위반의혹…\"제재기업에최신펌웨어유입...",
+  "‘앤트로픽쏠림’에AI주약세...다우,5개월만에5만선붕괴[데일리국...",
+  "미국,중국기업AI칩87만9868개수출신청승인",
+  "\"극도로무례\"…트럼프에'젠슨황'물은기자쫓아낸中",
+  "앤스로픽,나스닥첫날완전희석가치2조달러…스페이스X앞서",
+  "앤스로픽,사상최대IPO신기록쓰며첫날17%급등"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,21 @@
   [
    "2026-11-20T06:34:17.168963+09:00",
    "키워드는 총수 해외 행보 바퀴 수십 지구 4대"
+  ],
+  [
+   "2026-11-20T06:40:29.480944+09:00",
+   "신기록 급등 사상 첫날 IPO 쓰며"
+  ],
+  [
+   "2026-11-20T06:40:29.480944+09:00",
+   "젠슨 트럼프에 무례 물은 쫓아낸 극도로"
+  ],
+  [
+   "2026-11-20T06:40:29.480944+09:00",
+   "앞서 나스닥 스페이스X 가치 완전희석 2조달러 첫날"
   ]
  ],
- "last_run": "2026-11-20T06:38:35.907118+09:00",
+ "last_run": "2026-11-20T06:40:50.354853+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
