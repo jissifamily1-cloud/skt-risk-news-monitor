@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bloter.net/news/articleView.html?idxno=679013",
-  "https://www.ytn.co.kr/_ln/0102_202611190520383580",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=117036",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261342",
-  "https://www.sidae.com/article/2026111714594514642",
-  "https://www.g-enews.com/view.php?ud=20261117080731921906806b77b_1",
-  "https://www.g-enews.com/view.php?ud=202611180855517693906806b77b_1",
-  "https://www.gqkorea.co.kr/2026/11/19/%ec%84%b8%ec%83%81-%eb%aa%a8%eb%93%a0-%ec%97%84%eb%a7%88%eb%93%a4%ec%9d%b4-%ec%a2%8b%ec%95%84%ed%95%a0-%ec%95%a4%eb%93%9c%eb%a5%98-%ea%b0%80%ed%95%84%eb%93%9c-%ec%9d%b4-%ec%8b%9c%ea%b3%84/",
   "https://www.kmib.co.kr/article/20261118502117",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445429",
   "https://www.donga.com/news/Inter/article/all/20261118/135050575/2",
@@ -2999,17 +2991,17 @@
   "http://www.popcornnews.net/news/articleView.html?idxno=140780",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=302020",
   "https://biz.sbs.co.kr/article_hub/20000347612?division=NAVER",
-  "https://www.mt.co.kr/tech/2026/11/19/2026111916154450856"
+  "https://www.mt.co.kr/tech/2026/11/19/2026111916154450856",
+  "https://zdnet.co.kr/view/?no=20261119163736",
+  "https://www.yna.co.kr/view/AKR20261119138800004?input=1195m",
+  "https://www.wikitree.co.kr/articles/1176053",
+  "https://www.etoday.co.kr/news/view/2650535",
+  "https://www.lawtimes.co.kr/news/articleView.html?idxno=229734",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=410035",
+  "https://www.khan.co.kr/article/202611191637001",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209626"
  ],
  "seen_titles": [
-  "앤트로픽상장초읽기…투자결실앞둔SKT,AI포트폴리오재편하나",
-  "■11월19일(목)경제캘린더",
-  "SOOPTV,ktHCN입점확정…내달1일부터채널520번서송출",
-  "자체AI'믿음'못키운KT,외부모델500개연결···고객서버가실험...",
-  "엔비디아생태계파고드는한국산AI칩",
-  "[김대호진단]엔트로픽IPO...수혜주vs피해주",
-  "[김대호진단]젠슨황복귀?...스티브잡스와올트먼의교훈",
-  "세상모든엄마들이좋아할,앤드류가필드‘이시계’",
   "[데스크시각]AI시대의시험",
   "'월가큰손'애크먼\"젠슨황복귀차단,이사회의무위반\"",
   "젠슨황“이사회가원하면복귀”…이사회의장은“후임CEO물색”",
@@ -6001,7 +5993,15 @@
   "LG유플러스,2027년임원인사단행…AI사업·통신경쟁력강화에방점",
   "[LG인사]LG유플러스'AI실행력'전면에…B2BAI·AIDC핵심인재중용",
   "LG유플러스,전무2명등11명승진…AI·통신경쟁력강화",
-  "LG유플러스,노성주·안형균전무승진…안정속새먹거리에방점"
+  "LG유플러스,노성주·안형균전무승진…안정속새먹거리에방점",
+  "LGU+,2027년임원인사...AI·NW전문가전진발탁",
+  "[일지]김건희'3대의혹'제기부터대법원선고까지",
+  "'스마트안경'쓴수험생등장...천안수능시험장발칵",
+  "티오리,웹서버엔진엑스치명적취약점발견…원격으로악성코드실...",
+  "동인,개인정보보호·기술유출대응센터신설",
+  "LG유플러스,2027년임원인사단행…AI사업·통신경쟁력강화집중",
+  "트럼프엔활주로포옹,푸틴엔측근영접···기린산장에모인미·중·...",
+  "배재대해킹으로학생·교직원개인정보유출…LMS·학사시스템동시피..."
  ],
  "recent_sigs": [
   [
@@ -6887,9 +6887,13 @@
   [
    "2026-11-19T16:36:17.457232+09:00",
    "했다 젠슨 언급하기는 시진핑에게 트럼프"
+  ],
+  [
+   "2026-11-19T16:40:29.662227+09:00",
+   "영접 트럼프엔 측근 모인 기린산장에 푸틴엔 포옹 활주로"
   ]
  ],
- "last_run": "2026-11-19T16:38:31.481552+09:00",
+ "last_run": "2026-11-19T16:40:50.918841+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
