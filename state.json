@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tf.co.kr/read/economy/2390944.htm",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247688",
-  "https://www.cstimes.com/news/articleView.html?idxno=728581",
-  "https://www.hellot.net/news/article.html?no=116448",
   "https://www.news1.kr/politics/president/6359486",
   "https://www.huffingtonpost.kr/article/262212",
   "http://www.popcornnews.net/news/articleView.html?idxno=140734",
@@ -2999,13 +2995,13 @@
   "https://www.edaily.co.kr/News/Read?newsId=01731846645647688&mediaCodeNo=257",
   "https://www.yna.co.kr/view/AKR20261120010751072?input=1195m",
   "https://it.chosun.com/news/articleView.html?idxno=3000000001474",
-  "https://www.joongang.co.kr/article/25480387"
+  "https://www.joongang.co.kr/article/25480387",
+  "https://www.sedaily.com/article/20116745",
+  "https://www.ytn.co.kr/_ln/0104_202611200719305468",
+  "https://www.g-enews.com/view.php?ud=2026112007170595779a1f309431_1",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716878"
  ],
  "seen_titles": [
-  "외부교육사이트해킹에저축은행직원정보유출…중앙회\"직원사칭...",
-  "2026KBOMVP·신인상주인공은누구?…26일시상식서발표",
-  "대전중구,내년예산7715억편성…'주민주권·기본돌봄'시동",
-  "베이징현대,전기차대응실기영향가중,중국시장회복난항",
   "SK그룹,이사회중심경영강화…거버넌스고도화논의",
   "미국전역전산장애원인은해킹아닌'졸속패치'",
   "현대차그룹,자율주행상용화속도…애플·엔비디아출신인재영입",
@@ -6001,7 +5997,11 @@
   "“달려도안빠진다”…삼성운동용이어폰나온다[모닝폰]",
   "앤트로픽상장에도뉴욕증시2%대급락…다우50,000선붕괴(종합)",
   "앤트로픽흥행에도나스닥2%대하락…엔비디아하락전환",
-  "미중회담서젠슨황기습질문한美기자…中당국,취재차단"
+  "미중회담서젠슨황기습질문한美기자…中당국,취재차단",
+  "중국,SK하이닉스HBM기술까지베끼나...반도체장비수입4배폭증[Pi...",
+  "\"삼성전자·TSMC,중국고객사에일부칩출하중단\"",
+  "앤스로픽·스페이스X,美IPO자금3분의2차지",
+  "\"JP모건·비자·마스터카드,협력업체해킹으로일부고객정보노출\""
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,13 @@
   [
    "2026-11-20T07:16:18.085229+09:00",
    "전무 B2B LG유플러스 승진 ~LGU 노성주 통신인프라 안형균 전진 전문가"
+  ],
+  [
+   "2026-11-20T07:22:17.314282+09:00",
+   "비자 마스터카드 고객 노출 해킹으로 일부 정보 협력업체 JP모건"
   ]
  ],
- "last_run": "2026-11-20T07:20:48.223690+09:00",
+ "last_run": "2026-11-20T07:22:32.827634+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
