@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.weeklytoday.com/news/articleView.html?idxno=802146",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104613",
-  "https://www.the-pr.co.kr/news/articleView.html?idxno=63335",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=139881",
-  "http://www.breaknews.com/1251203",
   "https://www.electimes.com/news/articleView.html?idxno=374820",
   "https://www.catchnews.kr/news/articleView.html?idxno=130569",
   "https://www.econovill.com/news/articleView.html?idxno=757382",
@@ -2999,14 +2994,14 @@
   "https://mhnse.com/news/articleView.html?idxno=1703117",
   "https://www.newsis.com/view/NISX20261119_0003874904",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000084523",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=301904"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=301904",
+  "https://www.pharmnews.com/news/articleView.html?idxno=308139",
+  "https://www.yna.co.kr/view/AKR20261119000251017?input=1195m",
+  "https://www.ytn.co.kr/_ln/0104_202611191310348261",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=731687",
+  "https://www.news1.kr/local/daejeon-chungnam/6359431"
  ],
  "seen_titles": [
-  "[위클리오늘]산업일반소식_삼양엔씨켐,효성중공업(11.16)",
-  "SKT·효성중공업,공급망부터차세대배전까지협력...AI데이터센터경...",
-  "SKT,효성중공업과GW급AI데이터센터'전력동맹'…변압기부터잡는다",
-  "SKT·효성중공업,GW급AI데이터센터구축협력…전력설비공급망확보",
-  "SKT-효성중공업,GW급AI데이터센터구축협력",
   "효성중공업·SKT,AIDC전력망맞손…글로벌시장공략가속화",
   "\"SK그룹전체로파트너십확대\"효성重,SKT에AI데이터센터변전소설비...",
   "효성중공업,SK텔레콤AI데이터센터전력사업맡는다",
@@ -6001,21 +5996,14 @@
   "서혜진표'밴드왕'오픈..한일마스터라인업공개윤도현이홍기요스케...",
   "中칩뒷문은닫고AI안전은손잡아라…美여야의원,트럼프압박",
   "與,정보통신특위출범…AI악용막는다",
-  "SK브로드밴드,국제'양자보안실증'가속"
+  "SK브로드밴드,국제'양자보안실증'가속",
+  "2026제약바이오투자대전개막…\"기술·투자·해외진출연결생태계구...",
+  "세계웹사이트30%쓰는엔진엑스'보안비상'…정부긴급권고(종합)",
+  "트럼프\"적대관계였던중·러밀착이3자회담배경\"",
+  "젠슨황파동…'동맹'현대차괜찮을까?",
+  "대전대학가도해킹피해잇따라…유출안내하고보안강화"
  ],
  "recent_sigs": [
-  [
-   "2026-11-19T07:12:18.195331+09:00",
-   "5G 시대 열리는데 투자비 3사 회수는 과제 통신 진짜"
-  ],
-  [
-   "2026-11-19T07:12:18.195331+09:00",
-   "지지율 1위는 과반 돌아와요 후임 젠슨 직원들"
-  ],
-  [
-   "2026-11-19T07:12:18.195331+09:00",
-   "털썩 매출에도 사상"
-  ],
   [
    "2026-11-19T07:18:17.593634+09:00",
    "주주 이중 가격담합 이어 위기 SK하이닉스 소송 D램"
@@ -6947,9 +6935,17 @@
   [
    "2026-11-19T13:12:17.973667+09:00",
    "양자보안 가속 국제 실증"
+  ],
+  [
+   "2026-11-19T13:14:19.950723+09:00",
+   "동맹 현대차 괜찮을까 파동 젠슨"
+  ],
+  [
+   "2026-11-19T13:14:19.950723+09:00",
+   "보안 강화 안내하고 대학가도 피해 대전 유출 잇따라"
   ]
  ],
- "last_run": "2026-11-19T13:12:33.951734+09:00",
+ "last_run": "2026-11-19T13:14:38.585660+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
