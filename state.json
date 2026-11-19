@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202611197446b",
-  "https://imnews.imbc.com/news/2026/politics/article/6866948_36911.html",
-  "https://biz.sbs.co.kr/article_hub/20000347573?division=NAVER",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853871&plink=ORI&cooper=NAVER",
-  "https://www.m-i.kr/news/articleView.html?idxno=2020804",
-  "https://www.gamemeca.com/mv.php?inflow=naver_s&gid=1783810",
-  "https://www.tokenpost.kr/news/market/440580",
-  "http://www.newstomato.com/ReadNews.aspx?no=1321072&inflow=N",
   "https://www.widedaily.com/news/articleView.html?idxno=304186",
   "https://www.kukinews.com/article/view/kuk202611190094",
   "https://www.hankyung.com/article/202611197441i",
@@ -2999,17 +2991,17 @@
   "https://www.g-enews.com/view.php?ud=2026112008175951379a1f309431_1",
   "https://www.newspim.com/news/view/20261120000107",
   "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63241",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001475"
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001475",
+  "https://www.starnewskorea.com/business-life/2026/11/19/2026111914335046752",
+  "https://www.eroun.net/news/articleView.html?idxno=96040",
+  "http://www.datanews.co.kr/news/article.html?no=147703",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=68081",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445660",
+  "https://www.mt.co.kr/world/2026/11/20/2026112008231152532",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854821&plink=ORI&cooper=NAVER",
+  "http://www.wsobi.com/news/articleView.html?idxno=322179"
  ],
  "seen_titles": [
-  "한총리,작년수능시험지보관긴급지시…\"부정행위의혹규명\"",
-  "에스엠산업문성군대표,김제시에고향사랑기부금500만원전달",
-  "차량정비부터부산공장까지...르노코리아의스타트업협력이정부포...",
-  "'리트만점자',강동구인근에서심정지상태로발견",
-  "“2720억원넣었는데4조원됐다”…앤트로픽투자한韓기업대박",
-  "민주\"전혀예상못한새문제부딪혀\"‥당내정보특위출범",
-  "앤트로픽상장으로최태원SK그룹4조4천억원'잭팟'",
-  "앤트로픽상장으로최태원SK그룹4조4천억원'잭폿'",
   "최태원회장\"SK이사회중심경영,더고도화할것\"",
   "엔비디아,AI특화RTX스파크소형데스크톱출시",
   "엔비디아관련계약매도평가이익265만달러…5개계정합산318만달러",
@@ -6001,7 +5993,15 @@
   "코어위브,창업자회사채매입에도6.1%급락",
   "[모닝리포트]\"코스피5000선,추가하락보다반등에무게\"",
   "프랑스,웨이브·스텔란티스·엔비디아와자율주행차상용화속도낸다...",
-  "앤스로픽日공모에1.5조엔몰려…韓은개인청약제외"
+  "앤스로픽日공모에1.5조엔몰려…韓은개인청약제외",
+  "SK그룹,독립이사와거버넌스성과점검…지배구조혁신이어간다",
+  "LG그룹,2027년임원인사…승진35%늘리고AI·로봇인재전진배치",
+  "메리츠증권,리테일강화통했다…위탁매매수익88%↑",
+  "[단독]2020년中대학이사간SK자회사양자장비…2026년엔AI칩수출길...",
+  "마이크론CTO\"메모리반도체공급제약2027년에더심화\"",
+  "\"앤트로픽역대최대IPO인데왜\"…다우5만선붕괴[뉴욕마감]",
+  "[글로벗마켓시황]3대지수하락…VIX'18%'폭등",
+  "롯데하이마트-KT'하이마트수능패스'진행...'Y수능페스타'이벤트개..."
  ],
  "recent_sigs": [
   [
@@ -6451,9 +6451,17 @@
   [
    "2026-11-20T08:24:17.380726+09:00",
    "개인 공모에 청약 제외 몰려 5조엔"
+  ],
+  [
+   "2026-11-20T08:26:16.617896+09:00",
+   "양자장비 2026년엔 수출길 자회사 대학이 SK 사간 2020년"
+  ],
+  [
+   "2026-11-20T08:26:16.617896+09:00",
+   "하이마트 수능패스 페스타 진행 롯데하이마트 이벤트 Y수능 ~KT"
   ]
  ],
- "last_run": "2026-11-20T08:24:42.502094+09:00",
+ "last_run": "2026-11-20T08:26:40.838657+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
