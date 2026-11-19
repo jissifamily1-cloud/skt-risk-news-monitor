@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202611191406001",
-  "https://www.koit.co.kr/news/articleView.html?idxno=210009",
-  "https://www.asiatime.co.kr/article/20261119500266",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=8596",
-  "https://www.mt.co.kr/politics/2026/11/19/2026111913473716577",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3757112",
   "https://www.newspim.com/news/view/20261119000925",
   "https://www.sedaily.com/article/20116418",
   "https://www.dailian.co.kr/news/view/1717213/?sc=Naver",
@@ -2999,15 +2993,15 @@
   "https://www.edaily.co.kr/News/Read?newsId=01863046645647688&mediaCodeNo=257",
   "https://www.smartbizn.com/news/articleView.html?idxno=160051",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445646",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001476"
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001476",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=68113",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6867160_37012.html",
+  "https://www.g-enews.com/view.php?ud=202611200747065579a1f309431_1",
+  "https://www.news2day.co.kr/article/20261120500015",
+  "https://www.tokenpost.kr/news/breaking/441151",
+  "https://www.khan.co.kr/article/202611200749001"
  ],
  "seen_titles": [
-  "처방약임의중단부작용이‘AI탓’?…본질흐린한국소비자원조사",
-  "트럼프따라선전온머스크…\"투키디데스함정피할수있을까\"",
-  "한국IT서비스학회,오는25일'추계학술대회'개최…5극3특시대AX전략...",
-  "[데스크라인]축제의그늘을밝힐게임제작비세액공제",
-  "앤트로픽공모가83달러확정…역대최대IPO로나스닥데뷔",
-  "뤼튼,AI창작자생태계확장…월1000만원버는크리에이터수십명",
   "[오토뉴스브리핑]기아,'노사합동사랑나누기'기부캠페인실시",
   "[게임돋보기]'K-게임'우수성입증…펄어비스8관왕·엔씨·컴투스·크...",
   "與\"AI기술악용방지,정치·정책의책무…국힘저주성정치공세\"",
@@ -6001,7 +5995,13 @@
   "“반도체가격떨어져도계약가올랐다…비관론정점”",
   "앤트로픽,화려한증시데뷔에도월가'패닉'···중동긴장속유가혼...",
   "\"트럼프계좌,9월엔비디아·팔란티어·스페이스X매수…정부계약시점...",
-  "비자·마스터카드·JP모건고객정보유출…외부업체해킹"
+  "비자·마스터카드·JP모건고객정보유출…외부업체해킹",
+  "AI열풍도못막은뉴욕증시급락…다우5만선다시무너졌다",
+  "앤트로픽나스닥상장‥기술주엇갈려",
+  "AMD도‘순환금융’논란…엔비디아반사이익에제동",
+  "JP모건고객이메일·전화번호·계정ID다크웹노출…협력업체해킹",
+  "엔비디아중국칩유입의혹,캘리포니아검찰총장이들여다본다",
+  "‘냉장고해킹’에이어···EU집행위도AI사이버공격표적돼"
  ],
  "recent_sigs": [
   [
@@ -6327,9 +6327,21 @@
   [
    "2026-11-20T07:50:30.474182+09:00",
    "팔란티어 스페이스X 트럼프 정부 매수 9월 계좌 계약시점"
+  ],
+  [
+   "2026-11-20T07:52:17.266736+09:00",
+   "제동 반사이익에 AMD도 순환금융 논란"
+  ],
+  [
+   "2026-11-20T07:52:17.266736+09:00",
+   "유입 들여다본다 의혹 중국 캘리포니아 검찰총장이"
+  ],
+  [
+   "2026-11-20T07:52:17.266736+09:00",
+   "EU 사이버 냉장고 이어 표적돼 공격 집행위도"
   ]
  ],
- "last_run": "2026-11-20T07:50:47.983744+09:00",
+ "last_run": "2026-11-20T07:52:39.375326+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
