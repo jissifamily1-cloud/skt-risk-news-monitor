@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/education/6359468",
-  "https://www.inven.co.kr/webzine/news/?news=323596",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=903661",
-  "https://www.mk.co.kr/article/12213529",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885139",
   "https://www.gosiweek.com/article/1065588033912301",
   "https://www.widedaily.com/news/articleView.html?idxno=304141",
   "http://www.spochoo.com/news/articleView.html?idxno=132237",
@@ -2999,14 +2994,14 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16281078",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083489",
   "http://www.koreastocknews.com/news/articleView.html?idxno=122390",
-  "https://news.mtn.co.kr/article/2026112007122058663"
+  "https://news.mtn.co.kr/article/2026112007122058663",
+  "https://www.wikitree.co.kr/articles/1176162",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6867146_37012.html",
+  "https://www.gokorea.kr/news/articleView.html?idxno=886490",
+  "https://www.edaily.co.kr/News/Read?newsId=01712166645647688&mediaCodeNo=257",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=301873"
  ],
  "seen_titles": [
-  "NGINX서치명적보안취약점발견...정부,긴급업데이트권고",
-  "대전보훈청,\"군경력살려국가중요시설지킨다\"…제대군인17명특수경...",
-  "저축銀직원개인정보도털려…외부교육사이트서성명·직위·소속은행...",
-  "젠슨황發미국수출통제,전력반도체공급망도영향권…“국산화·수...",
-  "교육부,지난해수능시험지보관요청…AI부정행위의혹확산",
   "GTA6개발자들의말말말...바이스시티탄생비화",
   "앤트로픽,오늘나스닥상장……813억달러조달해스페이스X넘어",
   "EU사이버복원력법시행앞두고제조업비상…“부품아닌시스템보안...",
@@ -6001,7 +5996,12 @@
   "미국증시,앤트로픽상장호재에도다우1100P급락…AI·반도체매도확...",
   "[뉴스클레임사설]공공기관정보유출,기관장책임까지물어야",
   "LG유플러스안형균·노성주전무승진,B2BAI·통신인프라전문가전진...",
-  "앤트로픽상장에도2%대급락…다우5만선아래로[뉴욕마감]"
+  "앤트로픽상장에도2%대급락…다우5만선아래로[뉴욕마감]",
+  "2회만에3.7%찍고0.9%p껑충…곽선영주연한국드라마",
+  "'앤트로픽'나스닥상장‥주가는롤러코스터",
+  "삼성전자와TSMC,미국수출제한으로중국반도체공급중단위기",
+  "美수출통제강화에삼성전자·TSMC中반도체출하일부중단",
+  "상장사10곳중7곳,4분기실적하향…삼전닉스맑음,석화·배터리먹..."
  ],
  "recent_sigs": [
   [
@@ -6285,7 +6285,7 @@
    "전무 B2B LG유플러스 승진 ~LGU 노성주 통신인프라 안형균 전진 전문가"
   ]
  ],
- "last_run": "2026-11-20T07:16:34.489937+09:00",
+ "last_run": "2026-11-20T07:18:33.702963+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
