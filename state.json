@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2489869",
-  "https://www.g-enews.com/view.php?ud=202611190831353842112616b072_1",
-  "http://www.newsbrite.net/news/articleView.html?idxno=201602",
-  "http://www.segyebiz.com/newsView/20261119503192?OutUrl=naver",
-  "https://www.abcn.kr/news/articleView.html?idxno=94242",
-  "https://www.itdaily.kr/news/articleView.html?idxno=242757",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712931",
   "https://www.ilemonde.com/news/articleView.html?idxno=31023",
   "https://www.jemin.com/news/articleView.html?idxno=847660",
   "https://www.econovill.com/news/articleView.html?idxno=757764",
@@ -2999,16 +2992,16 @@
   "https://www.newsway.co.kr/news/view?ud=2026111918435519226",
   "https://www.livebiz.today/news/articleView.html?idxno=206703",
   "https://biz.chosun.com/it-science/ict/2026/11/19/5TOAQVME5JDATGEK2TPE3ARIGY/",
-  "https://www.hani.co.kr/arti/economy/economy_general/1288204.html"
+  "https://www.hani.co.kr/arti/economy/economy_general/1288204.html",
+  "https://www.m-i.kr/news/articleView.html?idxno=2016708",
+  "https://www.mt.co.kr/tech/2026/11/11/2026111019502038256",
+  "https://www.ytn.co.kr/_ln/0103_202611101226080980",
+  "https://www.yna.co.kr/view/PYH20261110014800017?input=1196m",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8708444",
+  "https://www.news2day.co.kr/article/20261119500391",
+  "https://www.ddaily.co.kr/page/view/2026111918102060391"
  ],
  "seen_titles": [
-  "[단독]휴대폰개통때민간인증2개로가능···복합인증체계추진",
-  "르노코리아,스타트업협업성과로서울중기청장상수상",
-  "LG유플러스,IoT음영지역해소기술로대통령상수상",
-  "[뉴욕증시]엔비디아호실적에도혼조세…S&P5005일연속하락",
-  "해킹피해등긴급상황때전화연결안되는SKT(2)",
-  "4분기이통사경쟁완화될까…고객확보보다'장기이용'무게",
-  "3G종료준비나선통신업계…알뜰폰·고령층보호관건",
   "손정의회장의'인공지능(AI)올인투자'스토리",
   "MS,중국틱톡모회사와AI거래추진…미의회,기술유출우려에제동",
   "SK텔레콤이수험생에게건넨카드는\"가요대전과구글AI\"",
@@ -6001,7 +5994,14 @@
   "KT스카이라이프,KTHCN흡수합병…인수5년만에한몸으로",
   "엔비디아,AI전용소형데스크톱'RTX스파크'출시...클라우드연결없...",
   "젠슨황떠나자‘순환금융’수술대…네오클라우드자금조달먹구름",
-  "수출1조달러열었지만…통상압박·양극화·반도체사이클‘삼중과제..."
+  "수출1조달러열었지만…통상압박·양극화·반도체사이클‘삼중과제...",
+  "망빌려주고가격경쟁까지…SKT'에어',알뜰폰업계긴장",
+  "'영업익5조'이통3사뉴노멀된다",
+  "재건축끝낸잠실,중학교달랑한개?윤유진서울시의원\"메가과밀해...",
+  "LG유플러스,국내이통사첫자동차사이버보안ML3인증",
+  "LGU+,국내이통사첫자동차사이버보안‘ML3’인증획득",
+  "[이태희의JOB채(106)]LG구광모의정중동(靜中動)행보,새로운서막...",
+  "한지붕아래모이는KT위성·케이블,비용절감다음숙제는[IT클로즈..."
  ],
  "recent_sigs": [
   [
@@ -6923,9 +6923,17 @@
   [
    "2026-11-19T18:48:21.153964+09:00",
    "순환금융 젠슨 떠나자 수술대 먹구름 자금 조달 네오클라우드"
+  ],
+  [
+   "2026-11-19T18:50:29.581852+09:00",
+   "다음 모이는 비용 숙제는 아래 지붕 절감 IT클로즈 위성 케이블 ~KT"
+  ],
+  [
+   "2026-11-19T18:50:29.581852+09:00",
+   "새로운 행보 정중동 LG 구광모의 서막"
   ]
  ],
- "last_run": "2026-11-19T18:48:40.078309+09:00",
+ "last_run": "2026-11-19T18:50:51.144633+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
