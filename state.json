@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452299",
-  "https://www.mk.co.kr/article/12212551",
-  "https://www.tokenpost.kr/news/briefing/440310",
-  "http://www.lkp.news/news/articleView.html?idxno=86204",
-  "https://www.itdaily.kr/news/articleView.html?idxno=243028",
-  "https://www.ajunews.com/view/20261118155952773",
-  "https://www.g-enews.com/view.php?ud=202611181544362164923c501012_1",
-  "https://www.ajunews.com/view/20261118154602734",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505560",
   "https://www.gukjenews.com/news/articleView.html?idxno=3755988",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716405",
   "https://www.asiatime.co.kr/article/20261118500153",
@@ -2999,18 +2990,18 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732223",
   "https://www.ekn.kr/web/view.php?key=20261119027451827",
   "https://news.skbroadband.com/news/articleView.html?idxno=243662",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3756641"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3756641",
+  "https://view.asiae.co.kr/article/2026111909142906957",
+  "https://www.news2day.co.kr/article/20261119500095",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445465",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001367",
+  "https://www.edaily.co.kr/News/Read?newsId=02063126645647360&mediaCodeNo=257",
+  "https://magazine.hankyung.com/business/article/202611196414b",
+  "https://slownews.kr/169780",
+  "https://www.news2day.co.kr/article/20261119500079",
+  "https://view.asiae.co.kr/article/2026111909135483670"
  ],
  "seen_titles": [
-  "TSMC최대20%가격인상에삼성전자반사이익예상,한진만빅테크반도...",
-  "손정의의후회“앤트로픽에도투자할걸…”",
-  "[저녁뉴스브리핑]이더리움ETF3거래일연속순유출外",
-  "SKAX,3분기별도영업익804억원…에이전틱AI·클라우드전환으로수...",
-  "\"취약점나와도서버못찾아\"…AI스페라,AITEM으로해법제시",
-  "[마감시황]코스피,엔비디아호실적에5000선회복…기관매수에2%가...",
-  "\"땡큐엔비디아\"…코스피,5거래일만에반등5000선안착",
-  "엔비디아發혼란지속…ETF자산줄고ELS손실우려에금투업계긴장",
-  "[거래소외국인]LG엔솔사고삼성SDI팔았다…배터리주선택달랐다",
   "전남광주통합특별시,시민주권정부4개년로드맵발표…1천명위원회...",
   "기업용AI경쟁판도바뀐다…GPU확보보다'토큰비용'중요",
   "[지스타26]게임축제넘어융합의장으로…‘지스타’,부산서막오른...",
@@ -6001,7 +5992,16 @@
   "SK,AI시대이사회역할재정립…독립이사와경영전략논의",
   "“젠슨황돌아올자리없다”…엔비디아,ARMCEO영입추진",
   "전주대해킹…학생등개인정보18만건유출",
-  "전주대온라인교육사이트해킹…개인정보약18만건유출"
+  "전주대온라인교육사이트해킹…개인정보약18만건유출",
+  "벤츠,전기SUV'디올-뉴일렉트릭GLB'국내출시…6990만원",
+  "이스트소프트,AI더빙특화K-FAST확산지원사업2년연속수행",
+  "시추에이셔널,여름폭락에도AI투자확대…앤트로픽지분도있어",
+  "웹서버SW'엔진엑스'도치명적취약점…보안패치시급",
+  "카카오톡10차정기업데이트…게시글함께고치고외국어도자동번역",
+  "“125조베팅”스페이스X넘은AI다크호스",
+  "SlowLetter:November19,2026.",
+  "“코스피,美긴축우려에하락출발전망…외국인매도완화기대”<키...",
+  "SK,이사회중심경영5년점검…최태원\"거버넌스한단계더높일것\""
  ],
  "recent_sigs": [
   [
@@ -6699,9 +6699,13 @@
   [
    "2026-11-19T09:14:18.510402+09:00",
    "ARM 영입 젠슨 CEO 없다 자리 돌아올"
+  ],
+  [
+   "2026-11-19T09:16:19.034820+09:00",
+   "거버넌스 이사회 SK 중심 단계 점검 높일 경영 5년"
   ]
  ],
- "last_run": "2026-11-19T09:14:34.467313+09:00",
+ "last_run": "2026-11-19T09:16:39.486234+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
