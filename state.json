@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.consumernews.co.kr/news/articleView.html?idxno=768399",
-  "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89238",
-  "https://www.cstimes.com/news/articleView.html?idxno=728115",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493035",
-  "http://www.newstomato.com/ReadNews.aspx?no=1320621&inflow=N",
-  "https://www.nocutnews.co.kr/news/6607649",
   "http://www.newstomato.com/ReadNews.aspx?no=1320606&inflow=N",
   "https://www.koreaittimes.com/news/articleView.html?idxno=159189",
   "http://www.thevaluenews.co.kr/news/view.php?idx=203340",
@@ -2999,15 +2993,15 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853580&plink=ORI&cooper=NAVER",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=326635",
   "https://www.the-today.com/news/articleView.html?idxno=93818",
-  "http://coinreaders.com/271606"
+  "http://coinreaders.com/271606",
+  "https://www.ddaily.co.kr/page/view/2026111912440376790",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008853672&plink=ORI&cooper=NAVER",
+  "https://www.ddaily.co.kr/page/view/2026111912251931172",
+  "https://www.aitimes.com/news/articleView.html?idxno=217552",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=319087",
+  "https://news.jtbc.co.kr/article/NB12328837?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "효성중공업,SK텔레콤과AIDC전력사업협력...800V직류배전·반도체변...",
-  "SKT·효성중공업,GW급AI데이터센터구축협력",
-  "효성중공업·SKT,AI데이터센터전력인프라구축협약",
-  "SKT·효성중공업,AI데이터센터전력망협력···345kV변전설비확보...",
-  "SKT,효성중공업과GW급AID구축협력…전력인프라확보",
-  "SKT,효성중공업과GW급AI데이터센터구축한다",
   "효성중공업,SKT와AI데이터센터전력사업협력",
   "SK텔레콤·효성중공업,AI데이터센터전력인프라동맹구축",
   "[통신레이더]SKT·KT·LG유플러스,전력망부터공공·기업보안까지B2...",
@@ -6001,7 +5995,13 @@
   "ATM서수억원털며유유히'셀카'…신종수법[월드리포트]",
   "SK그룹,전·현직독립이사와'이사회중심경영'고도화모색",
   "[핫이슈]앤스로픽공모가83달러…기본공모813억달러,기업가치1조5...",
-  "美상무장관아들소유기업,엔비디아(NVDA)비중50%축소...칩밀수의..."
+  "美상무장관아들소유기업,엔비디아(NVDA)비중50%축소...칩밀수의...",
+  "'GTA6'에글로벌통신망도'들썩'…차세대전송기술시험대",
+  "한중\"문화교류확대합의'…중화권언론\"한한령완화신호\"",
+  "\"AI가대학별합격가능성분석\"…'입시캐스트'오픈",
+  "광주비엔날레AI해설에질문20만건…해외미술관은어떻게활용하나",
+  "민주당,'AI위협대응'정보통신특위출범…'디지털안전법'추진",
+  "수능국어시험지던지고\"풀어봐\"했더니…AI,2분만에100점"
  ],
  "recent_sigs": [
   [
@@ -7003,9 +7003,13 @@
   [
    "2026-11-19T12:54:17.734009+09:00",
    "상무장관 기업 비중 NVDA 축소 밀수 아들 소유"
+  ],
+  [
+   "2026-11-19T12:56:18.794696+09:00",
+   "국어 했더니 풀어봐 100점 수능 시험지 만에 던지고 2분"
   ]
  ],
- "last_run": "2026-11-19T12:54:33.664320+09:00",
+ "last_run": "2026-11-19T12:56:34.725383+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
