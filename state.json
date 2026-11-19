@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1701967",
-  "https://www.ajunews.com/view/20261118152309615",
-  "https://www.hankookilbo.com/news/article/A2026111815130003374?did=NA",
-  "https://www.edaily.co.kr/News/Read?newsId=01948326645647032&mediaCodeNo=257",
-  "https://biz.sbs.co.kr/article_hub/20000346865?division=NAVER",
-  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083269",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=362737",
-  "https://www.g-enews.com/view.php?ud=202611181532337763923c501012_1",
-  "https://www.newsis.com/view/NISX20261118_0003873591",
   "https://www.joongangenews.com/news/articleView.html?idxno=564911",
   "https://www.viva100.com/article/20261118500018",
   "http://www.smedaily.co.kr/news/articleView.html?idxno=366319",
@@ -2999,18 +2990,18 @@
   "https://www.edaily.co.kr/News/Read?newsId=02020486645647360&mediaCodeNo=257",
   "https://www.ekn.kr/web/view.php?key=20261119020081828",
   "https://www.fnnews.com/news/202611190858100697",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=81761"
+  "http://www.issuenbiz.com/news/articleView.html?idxno=81761",
+  "https://dealsite.co.kr/articles/173008",
+  "https://www.econovill.com/news/articleView.html?idxno=757773",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94737",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716551",
+  "https://www.boannews.com/news/articleView.html?idxno=147362",
+  "https://www.newspim.com/news/view/20261119000193",
+  "https://www.boannews.com/news/articleView.html?idxno=147342",
+  "https://www.yna.co.kr/view/AKR20261118139800017?input=1195m",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445463"
  ],
  "seen_titles": [
-  "[오피셜]전업3루수고작2년만에최고수비수등극…김도영의놀라운...",
-  "쇼핑대신한AI,은행문턱서멈췄다…보안과편의의딜레마",
-  "삼성·현대차·LG·포스코,중소기업AI보급에힘보탠다",
-  "앤스로픽IPO끝나면코스피오른다?…“과거8번중6번반등”",
-  "[외신헤드라인]美,엔비디아·오픈AI등'국가대표AI기업'지정",
-  "SK텔레콤전파방송기술대상5년연속장관상",
-  "LG유플러스,IoT통신음영해소기술로대통령상…데이터속도최대1...",
-  "엔비디아발훈풍에코스피'활짝'…外人매도세진정되나",
-  "엔비디아,칩고객사계속돕는다…일부보증은데이터센터완공돼야",
   "[마감시황]코스피,엔비디아호실적·기관매수에2%반등…5000선회복",
   "[마감시황]엔비디아에울고웃은코스피⋯5000선재탈환",
   "'엔비디아호실적'에코스피5060대로AI장기수요확인…SK하이닉스4%↑",
@@ -6001,7 +5992,16 @@
   "11년간숨은웹서버'nginx'보안구멍…韓AI가찾았다",
   "최태원“사회문제해결하면돈버는시장만들자”…‘새로운자본주...",
   "\"AI로업무혁신\"…세일즈포스,산업별AX전략제시",
-  "금융사해킹,핵심전산망아닌주변시스템뚫렸다"
+  "금융사해킹,핵심전산망아닌주변시스템뚫렸다",
+  "[AI수익성점검]이스트소프트,AI·SW성장했지만…글로벌수익화과제",
+  "NHN커머스고도몰이AI에이전트에게쇼핑몰문을열었다",
+  "스타트업과범농협의시너지결실…NH농협은행,'2026NH오픈비즈니스데...",
+  "\"노후자금까지털었다\"…스페이스X넘보는앤트로픽,개미들몰린이유",
+  "동곡기정,AI안경이용한시험부정행위차단위해금속탐지장비도입",
+  "삼성자산운용,'KODEX미국S&P500'연초이후개인순매수3조유입",
+  "깃허브·셰어포인트를명령통로로쓴백도어,아시아·아프리카정부...",
+  "방송사팩트체크노력에최대10점가점…방송평가바뀐다",
+  "[뉴욕마켓워치]엔비디아호실적도못살린투심…주식·채권혼조·달러..."
  ],
  "recent_sigs": [
   [
@@ -6681,7 +6681,7 @@
    "금융사 전산망 핵심 주변 아닌 시스템 뚫렸다"
   ]
  ],
- "last_run": "2026-11-19T09:04:46.870251+09:00",
+ "last_run": "2026-11-19T09:06:31.390395+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
