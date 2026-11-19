@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000347290?division=NAVER",
-  "https://it.donga.com/109955/",
-  "https://www.ddaily.co.kr/page/view/2026111818143907482",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=95533",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261118010007133",
-  "https://news.mtn.co.kr/article/2026111817573861499",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2380995",
-  "https://www.sidae.com/article/2026111113440247933",
-  "https://www.ceoscoredaily.com/page/view/2026111818163611563",
-  "https://www.mt.co.kr/tech/2026/11/12/2026111113105543075",
   "https://www.thepublic.kr/news/articleView.html?idxno=326000",
   "https://www.mt.co.kr/industry/2026/11/18/2026111817233991639",
   "https://www.ytn.co.kr/_ln/0102_202611181840025015",
@@ -2999,19 +2989,19 @@
   "https://biz.heraldcorp.com/article/10942526",
   "https://www.ddaily.co.kr/page/view/2026111809541792831",
   "http://www.wsobi.com/news/articleView.html?idxno=322104",
-  "https://www.boannews.com/news/articleView.html?idxno=147383"
+  "https://www.boannews.com/news/articleView.html?idxno=147383",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716634",
+  "https://www.wikitree.co.kr/articles/1175888",
+  "https://www.slist.kr/news/articleView.html?idxno=783113",
+  "https://www.ekn.kr/web/view.php?key=20261119029001858",
+  "https://zdnet.co.kr/view/?no=20261119111443",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=326631",
+  "http://www.smedaily.co.kr/news/articleView.html?idxno=366342",
+  "http://coinreaders.com/271358",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=92286",
+  "https://www.chosun.com/economy/tech_it/2026/11/19/XR73KKQJZ5CYVCQXISH7SV6ABM/"
  ],
  "seen_titles": [
-  "[집중진단]\"시진핑이판깔았다\"트럼프·푸틴부른시진핑…미중러정...",
-  "[2026강소특구]서울홍릉강소특구“세계수준의인공지능융합헬스...",
-  "KISTI국가슈퍼컴퓨터6호기‘한강’,세계12위…HPCG평가선8위",
-  "코스피,1.99%상승하며5,000선탈환-반도체주강세에5거래일만에반...",
-  "SK하닉,美AI투자법인지분8200억추가취득…투자장부금액만3조",
-  "자바보안취약점에개인정보유출우려...개인정보위,긴급점검당부",
-  "[은행]IBK기업은행,투자·상장상담과캐릭터개편…NH농협은행,기업...",
-  "\"국채입찰금리왜곡못한다\"는데도공정위1.6조과징금",
-  "[지스타2026]게임대상새역사쓴펄어비스…‘붉은사막’역대최다...",
-  "\"12월진짜5G온다\"…요금제·이용방식어떻게달라지나",
   "LG유플러스,이통사최초자동차사이버보안'ML3'획득…SDV시장선점...",
   "트리즈엔·오이솔루션,차세대10G보안광통신망개발MOU",
   "엔비디아호실적훈풍에...코스피,5천선탈환",
@@ -6001,7 +5991,17 @@
   "금융보안원원장모집요건에정작‘보안경력’기준빠졌다",
   "與정보통신특위19일출범…첫과제는'AI해킹·개인정보유출'",
   "SK그룹·SK브로드밴드,이사회중심거버넌스고도화·한국-싱가포르해...",
-  "쿤텍,엔비디아'DGXB300'도입...AI보안고도화자체인프라구축"
+  "쿤텍,엔비디아'DGXB300'도입...AI보안고도화자체인프라구축",
+  "원,슈퍼워크운영사에30억원투자…토큰소각정책'에버번'추진",
+  "‘AI커닝’초비상…오늘수능시험장서포착된‘이장면’(사진6장...",
+  "북한,AI챗봇'지혜의샘'공개…사회·정치질문금지",
+  "“143조원빨아들인앤트로픽”…스페이스X폭락악몽재현되나[머니+...",
+  "여러명목소리구분해텍스트로…일레븐랩스,음성AI출시",
+  "스페이스X넘었다…앤트로픽,공모가83달러로새역사",
+  "앤트로픽IPO흥행에'수급블랙홀'외국인·기관이탈…삼전닉스약세",
+  "퍼플렉시티공동창립자\"앤트로픽IPO관심없다\"...진짜변수는AI데이...",
+  "SOOPTV,ktHCN신규입점…스포츠콘텐츠시청접점확대",
+  "젠슨황‘사퇴반대’74%였는데사퇴후복귀찬성은56%…달라진직원..."
  ],
  "recent_sigs": [
   [
@@ -7085,7 +7085,7 @@
    "쿤텍 구축 고도화 도입 DGX 자체 B300 인프라 보안"
   ]
  ],
- "last_run": "2026-11-19T11:16:39.144612+09:00",
+ "last_run": "2026-11-19T11:18:29.872045+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
