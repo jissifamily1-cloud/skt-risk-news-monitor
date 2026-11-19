@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kmib.co.kr/article/20261118502407",
-  "https://www.donga.com/news/Economy/article/all/20261118/135049429/2",
-  "https://www.tokenpost.kr/news/breaking/440399",
-  "http://www.kjdaily.com/article.php?aid=1795014977692859276",
-  "https://www.webeconomy.co.kr/news/articleView.html?idxno=2381861",
-  "https://www.wikitree.co.kr/articles/1175766",
-  "https://www.news2day.co.kr/article/20261119500002",
-  "https://www.joongang.co.kr/article/25479955",
   "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072946",
   "https://www.newsis.com/view/NISX20261117_0003871864",
   "https://www.newsis.com/view/NISX20261118_0003874071",
@@ -2999,17 +2991,17 @@
   "https://www.newscj.com/news/articleView.html?idxno=3450297",
   "https://www.edaily.co.kr/News/Read?newsId=03191446645647360&mediaCodeNo=257",
   "https://www.itdaily.kr/news/articleView.html?idxno=243061",
-  "https://economist.co.kr/article/view/ecn202611190027"
+  "https://economist.co.kr/article/view/ecn202611190027",
+  "https://www.sportsseoul.com/news/read/1650906",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885114",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3757138",
+  "https://www.mhns.co.kr/news/articleView.html?idxno=769890",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3757132",
+  "https://econotimes.com/GPT-6-2-Astra-Omitted-Coding-Obstacles-in-22-28-of-Internal-Trials-1779391",
+  "https://www.news1.kr/world/usa-canada/6359530",
+  "http://coinreaders.com/271627"
  ],
  "seen_titles": [
-  "‘자바’서도치명적보안허점…국내공공정보시스템70%에사용",
-  "행정-공공기관70%쓰는‘자바’서도치명적취약점",
-  "1억1000만달러조달한베리어셔널,기업가치2조원인정받았다",
-  "오리콤공매도거래대금240배…8종목거래제한",
-  "[게임대상]펄어비스'붉은사막'대상(대통령상)포함8관왕…엔씨'아...",
-  "LeanData,클로드·챗GPT에MCP연결…AI도입93%인데위반우려60%",
-  "[마켓인사이드]앤트로픽,기업가치1.5조달러도전…공모가얼마나상...",
-  "행정기관89%쓰는‘자바’뚫렸다…국가인프라도비상",
   "흩어진정보한곳에'울산창업통합포털'추진",
   "\"AI쩐의흐름바뀐다\"…앤트로픽IPO,삼성·SK하이닉스반등신호탄될...",
   "AI부정행위논란…정재승\"앞으로구술시험보편화될것\"",
@@ -6001,7 +5993,15 @@
   "APEC서'자유무역'외친시진핑…푸틴은9년만에참석",
   "재난문자온지몰랐다는반응속출…\"3G구형·개조휴대전화등은예...",
   "쿤텍,엔비디아'DGXB300'도입…AI보안연구인프라구축",
-  "\"젠슨황돌아와vs재선임없을것\"줄다리기팽팽…리더십교체'난항..."
+  "\"젠슨황돌아와vs재선임없을것\"줄다리기팽팽…리더십교체'난항...",
+  "‘투수·내야·외야-A·B·C골고루’KTFA6명,시장전체판도흔들‘...",
+  "피플에듀,밀알복지재단과발달장애청년AI교육운영",
+  "김제시,민·관·학고용플랫폼통합운영첫발…유관기관·기업협...",
+  "동서대학생들,창업아이디어·연구성과한자리에",
+  "김찬술대덕구청장,일본도시재생현장점검…\"지역맞춤정책으로\"",
+  "GPT-6.2AstraOmittedCodingObstaclesin22.28%ofInternalTrials",
+  "美NSA전산망이틀째장애…이란전정보작전지원시설도차질",
+  "엔비디아(NVDA),호실적에도주가'흔들'...금·구리까지의문의하락세"
  ],
  "recent_sigs": [
   [
@@ -6891,9 +6891,13 @@
   [
    "2026-11-19T14:22:17.979617+09:00",
    "돌아와 vs 리더십 젠슨 재선임 난항 교체 줄다리기 팽팽 없을"
+  ],
+  [
+   "2026-11-19T14:24:17.522399+09:00",
+   "흔들 구리까지 주가 하락세 의문의 호실적에도 NVDA"
   ]
  ],
- "last_run": "2026-11-19T14:22:39.780591+09:00",
+ "last_run": "2026-11-19T14:24:33.375139+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
