@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261119000925",
-  "https://www.sedaily.com/article/20116418",
-  "https://www.dailian.co.kr/news/view/1717213/?sc=Naver",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3757122",
-  "https://www.seoultimes.news/news/article.html?no=2000102412",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007584",
-  "https://magazine.hankyung.com/business/article/202611197340b",
-  "https://www.fetv.co.kr/news/articleView.html?idxno=313960",
   "https://biz.heraldcorp.com/article/10942758",
   "https://www.edaily.co.kr/News/Read?newsId=03155366645647360&mediaCodeNo=257",
   "https://www.dailian.co.kr/news/view/1717214/?sc=Naver",
@@ -2999,17 +2991,17 @@
   "https://www.g-enews.com/view.php?ud=202611200747065579a1f309431_1",
   "https://www.news2day.co.kr/article/20261120500015",
   "https://www.tokenpost.kr/news/breaking/441151",
-  "https://www.khan.co.kr/article/202611200749001"
+  "https://www.khan.co.kr/article/202611200749001",
+  "https://biz.sbs.co.kr/article_hub/20000347725?division=NAVER",
+  "https://www.kukinews.com/article/view/kuk202611200007",
+  "https://www.tfmedia.co.kr/news/article.html?no=209044",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718061",
+  "https://www.kgnews.co.kr/news/article.html?no=920328",
+  "https://www.hankyung.com/article/2026112088797",
+  "https://www.insight.co.kr/news/582820",
+  "https://www.etoday.co.kr/news/view/2650668"
  ],
  "seen_titles": [
-  "[오토뉴스브리핑]기아,'노사합동사랑나누기'기부캠페인실시",
-  "[게임돋보기]'K-게임'우수성입증…펄어비스8관왕·엔씨·컴투스·크...",
-  "與\"AI기술악용방지,정치·정책의책무…국힘저주성정치공세\"",
-  "수능부정행위막으려위급재난문자발송…전국9개시도서스마트폰2...",
-  "[미국특징주]오픈AI,스마트폰시장진출시동…폭스콘계열사,조립...",
-  "트럼프“美도中상대로스파이활동해...우리가더잘한다”[이태규...",
-  "‘45홈런’김도영vs'197탈삼진’곽빈,KBO리그MVP26일공개",
-  "대전시설관리공단,김장김치400㎏나눔…취약계층50가구에전달",
   "이동훈SK바이오팜사장“세노바메이트성장영역확대…새로운성장...",
   "외교관30년고윤주,LG의미국성장사조명…라디오62대에서AI까지",
   "최태원SK회장,퇴임이사찾은이유…\"지배구조한단계격상\"",
@@ -6001,7 +5993,15 @@
   "AMD도‘순환금융’논란…엔비디아반사이익에제동",
   "JP모건고객이메일·전화번호·계정ID다크웹노출…협력업체해킹",
   "엔비디아중국칩유입의혹,캘리포니아검찰총장이들여다본다",
-  "‘냉장고해킹’에이어···EU집행위도AI사이버공격표적돼"
+  "‘냉장고해킹’에이어···EU집행위도AI사이버공격표적돼",
+  "[비즈나우]앤트로픽성공데뷔…AI투심살릴까",
+  "“앤트로픽상장도소용없었다”…美증시2%대급락",
+  "'젠슨황스캔들'AMD리사수\"황,엄청난리더…소음가라앉을것\"",
+  "“미국,작년말부터6달동안중국기업에첨단칩90만개수출승인”",
+  "처방약임의중단부작용이‘AI탓’?…본질흐린한국소비자원조사",
+  "중국반도체막는다면서?…美,엔비디아·AMD칩88만개수출승인",
+  "중국,젠슨황질문한블룸버그기자3국정상회담서배제",
+  "주저앉은국제금값…국내금시세는?"
  ],
  "recent_sigs": [
   [
@@ -6339,9 +6339,13 @@
   [
    "2026-11-20T07:52:17.266736+09:00",
    "EU 사이버 냉장고 이어 표적돼 공격 집행위도"
+  ],
+  [
+   "2026-11-20T07:54:16.483001+09:00",
+   "국제 국내 주저앉은 금값 금시세는"
   ]
  ],
- "last_run": "2026-11-20T07:52:39.375326+09:00",
+ "last_run": "2026-11-20T07:54:36.625207+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
