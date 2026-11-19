@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714601",
-  "https://www.hankyung.com/article/2026111707127",
-  "http://www.inews24.com/view/2026897",
-  "https://www.bbc.com/korean/articles/cxly44744mvmo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=713583",
-  "https://www.bbc.com/korean/articles/cq4g11lnevy9o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://zdnet.co.kr/view/?no=20261104182143",
-  "https://www.aitimes.com/news/articleView.html?idxno=217053",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712885",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712816",
   "https://www.aitimes.com/news/articleView.html?idxno=216992",
   "https://www.aitimes.com/news/articleView.html?idxno=217001",
@@ -2999,18 +2990,18 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68068",
   "https://www.widedaily.com/news/articleView.html?idxno=304190",
   "https://cn.asiatoday.co.kr/view.php?key=20261119001324224",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716693"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716693",
+  "https://www.thebigdata.co.kr/view.php?ud=2026111914451592037600e7ec7_23",
+  "https://dealsite.co.kr/articles/173123",
+  "https://www.newspim.com/news/view/20261119001018",
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=113228",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321070&inflow=N",
+  "https://www.ytn.co.kr/_ln/0104_202611191437443674",
+  "http://www.whosaeng.com/175465",
+  "https://www.seoulfn.com/news/articleView.html?idxno=643326",
+  "https://www.greened.kr/news/articleView.html?idxno=355063"
  ],
  "seen_titles": [
-  "올트먼“젠슨황은내영웅…영웅에게도결점있어”",
-  "'오픈AI'올트먼\"젠슨황,영웅에게도결점은있어\"",
-  "샘올트먼\"젠슨황은내영웅…영웅도결점은있어\"",
-  "미국중간선거가AI주식매도세를촉발한이유",
-  "샘알트먼,삼성·SK연쇄회동…오픈AI메모리확보전본격화",
-  "'미국증시급락',중간선거이후AI성장둔화우려커지나",
-  "[유미's픽]\"그룹AI전략이끈다\"…대기업SICEO,실적·신사업성과...",
-  "알트먼,RAM발언역풍에'램알트먼'으로이름까지바꿔",
-  "AI대부제프리힌턴\"사고터져야위험깨닫나…기업들도문제\"",
   "샘알트먼,PC메모리논란에해명…\"난램알트먼,램더많이만들자\"",
   "\"엔비디아심기거스를라\"...오픈AI도중국칩수출규제에발언자제",
   "오픈AI,전미육군장관영입...미군AI도입확대에국방사업강화",
@@ -6001,7 +5992,16 @@
   "최태원,앤트로픽상장으로4조3천억'대박'…SKT투자3년만에15.7배...",
   "엔비디아,'젠슨황퇴진'속내년매출75%성장제시…월가는신중론",
   "SKT对Anthropic投资增值15.7倍股份价值32亿美元",
-  "상위10%가하루에3000만원대…오픈AI연구진,AI활용급증"
+  "상위10%가하루에3000만원대…오픈AI연구진,AI활용급증",
+  "자이스웍스,대만Garage+글로벌스타트업프로그램선정...PhysicalAI기...",
+  "[지스타2026]새벽5시부터'오픈런'…대형게임사빠져도열기후끈",
+  "[미국ETF히든챔피언](88)블랙록AI로테마자동환승THRO",
+  "장현국원대표\"부산이전으로AI·블록체인·게임생태계확장\"",
+  "올트먼,‘수요중복’우려…삼성,‘AI성장지속’자신",
+  "트럼프·시진핑·푸틴한자리에...세계질서재편분수령",
+  "생성형AI과신위험수위…의약품자가처방부작용심각",
+  "AI건강정보맹신주의···처방약임의변경자절반부작용",
+  "해킹뚫린은행·캐피탈수장들,그대로연임심사대…보안이연말인사..."
  ],
  "recent_sigs": [
   [
@@ -6863,9 +6863,13 @@
   [
    "2026-11-19T14:48:16.886564+09:00",
    "3000만원대 급증 상위 연구진 활용 하루에"
+  ],
+  [
+   "2026-11-19T14:50:28.118312+09:00",
+   "그대로 연임 인사 은행 뚫린 보안이 수장들 캐피탈 연말 심사대"
   ]
  ],
- "last_run": "2026-11-19T14:48:38.480686+09:00",
+ "last_run": "2026-11-19T14:50:47.013640+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
