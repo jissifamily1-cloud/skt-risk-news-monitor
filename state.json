@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.econonews.co.kr/news/articleView.html?idxno=447474",
-  "https://biz.heraldcorp.com/article/10943923",
-  "http://www.yonhapnewstv.co.kr/news/AKR202611201129399hH",
-  "https://www.widedaily.com/news/articleView.html?idxno=304295",
-  "https://biz.heraldcorp.com/article/10943927",
   "http://www.popcornnews.net/news/articleView.html?idxno=140915",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445739",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855241&plink=ORI&cooper=NAVER",
@@ -2999,14 +2994,14 @@
   "https://www.tokenpost.kr/news/breaking/441827",
   "https://www.news2day.co.kr/article/20261121500002",
   "https://www.tokenpost.kr/news/breaking/441826",
-  "https://www.yna.co.kr/view/AKR20261121010600071?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261121010600071?input=1195m",
+  "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html?partner=naver",
+  "https://www.slist.kr/news/articleView.html?idxno=783551",
+  "https://www.etoday.co.kr/news/view/2651148",
+  "http://www.beyondpost.co.kr/view.php?ud=2026112106354561852aaae0046f_30",
+  "https://www.mediapen.com/news/view/1138969"
  ],
  "seen_titles": [
-  "AI와함께돌아보는2026년…SKT,T팩토리성수에서연말전시",
-  "알뜰폰독과점차단법발의…\"통신3사계열사점유율상한법률로정해...",
-  "애플'AI에이전트'뒤늦게출시해도메타와오픈AI위협전망,개인정보...",
-  "CA주검찰,엔비디아전CEO'중국스파이'연루의혹조사착수",
-  "캘리포니아주,엔비디아에조사소환장발부…중국에AI칩유출됐나",
   "[기자수첩]삼성전자,글로벌반도체생태계역할확대기대",
   "CEO대거유임속기술인재전진배치…R&D승진자30%",
   "100개이상앱·워크플로,AMDXDNA2NPU첫지원",
@@ -6001,7 +5996,12 @@
   "엔비디아약10%하락…SEC회계조사보도속나스닥100약세",
   "실적보다커진AI거품론…뉴욕증시,조정한파속나스닥5.28%↓",
   "엔비디아($NVDA)분기매출1158억달러…시간외주가상승",
-  "트럼프,밴스·루비오세워둔채비서실장에\"대선출마원하나\""
+  "트럼프,밴스·루비오세워둔채비서실장에\"대선출마원하나\"",
+  "AnthropicMathematicianClaimstoHaveSolvedMath’sMostFamousProb",
+  "뉴욕증시,기술주매도에급락...다우·S&P500도조정진입",
+  "뉴욕증시다우·S&P500조정장진입…나스닥,AI주투매에올해상승분...",
+  "\"젠슨황,두번째기회줘야\"...\"트럼프,\"그는블랙웰로대단한일을...",
+  "[美증시]엔비디아·앤트로픽쇼크나스닥'대폭락'…반도체'블랙프라..."
  ],
  "recent_sigs": [
   [
@@ -6239,9 +6239,13 @@
   [
    "2026-11-21T06:48:15.819315+09:00",
    "밴스 세워둔 비서실장에 대선출마 루비오 원하나 트럼프"
+  ],
+  [
+   "2026-11-21T06:50:30.333126+09:00",
+   "블랙프라 나스닥 대폭락 쇼크 앤트로픽 반도체"
   ]
  ],
- "last_run": "2026-11-21T06:48:41.723154+09:00",
+ "last_run": "2026-11-21T06:50:49.364473+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
