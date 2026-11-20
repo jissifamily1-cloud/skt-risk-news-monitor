@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dt.co.kr/article/12096205",
-  "https://www.mt.co.kr/tech/2026/11/19/2026111916363612291",
-  "https://www.edaily.co.kr/News/Read?newsId=03791686645647360&mediaCodeNo=257",
-  "https://www.segye.com/newsView/20261119513096?OutUrl=naver",
-  "https://news.mtn.co.kr/article/2026111916452697472",
-  "http://www.ttlnews.com/news/articleView.html?idxno=3164144",
-  "http://www.metroseoul.co.kr/article/20261119500534",
-  "http://www.issuenbiz.com/news/articleView.html?idxno=81808",
-  "https://www.ziksir.com/news/articleView.html?idxno=154043",
-  "http://www.queen.co.kr/news/articleView.html?idxno=466627",
-  "https://www.thelec.kr/news/articleView.html?idxno=65665",
   "https://www.tokenpost.kr/news/ai/440665",
   "https://www.ddaily.co.kr/page/view/2026111916454060990",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732367",
@@ -2999,20 +2988,20 @@
   "https://www.veritas-a.com/news/articleView.html?idxno=638292",
   "https://www.boannews.com/news/articleView.html?idxno=147407",
   "https://www.mt.co.kr/tech/2026/11/20/2026112010014444827",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=38571"
+  "https://www.junggi.co.kr/news/articleView.html?idxno=38571",
+  "http://www.osen.co.kr/article/G1112912522",
+  "https://www.betanews.net/article/view/beta202611190150",
+  "https://wemakenews.co.kr/news/view.php?no=26903",
+  "https://www.widedaily.com/news/articleView.html?idxno=304229",
+  "http://www.kjdaily.com/article.php?aid=1795136886692968227",
+  "https://www.munhwa.com/article/11632780",
+  "https://www.busan.com/view/busan/view.php?code=2026112010095670574",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=447467",
+  "https://www.ddaily.co.kr/page/view/2026112010041968960",
+  "http://www.datanews.co.kr/news/article.html?no=147745",
+  "https://www.yna.co.kr/view/AKR20261120052600002?input=1195m"
  ],
  "seen_titles": [
-  "LG유플러스,안형균·노성주전무승진···AI·통신경쟁력강화",
-  "LG유플러스,안형균·노성주전무승진…AI·통신경쟁력강화",
-  "LG유플러스,노성주·안형균전무승진…AI·통신전문가발탁",
-  "LG유플러스,AI성능·비용동시잡는다…코딩운영비90%절감",
-  "LG헬로비전,김지훈신임CEO선임…7년만에수장교체",
-  "LG헬로비전,신임CEO에김지훈사업총괄…\"성장견인기대\"",
-  "LGU+,11명임원승진…AI사업경쟁력강화중점",
-  "LG그룹,미래사업·기술인재에힘싣는다…LG전자사장2명승진",
-  "LG헬로비전새CEO에김지훈사업총괄…\"재도약기회만들것\"",
-  "LGU+인사,홍범식대표유임…안형균·노성주전무승진",
-  "“재난문자안왔다”SNS시끌…정부“휴대전화개조·통신음영땐예...",
   "코스피5100선안착…코스닥3%대상승[MTN마감시황]",
   "SK그룹,'디렉터스서밋'·'거버넌스데이'연이어개최…이사회중심경...",
   "LG유플러스,임원11명승진·선임…AIDC·네트워크전문가전진배치",
@@ -6001,7 +5990,18 @@
   "성신여대학생연구팀한국정보보호학회동계학술대회서우수논문상3편...",
   "양자상태에직접정보인코딩...KT-LG전자,차세대양자통신기술'QS...",
   "IBS,양자과학과예술의만남…'결맞음미술공모전'수상작7점선정",
-  "원달러환율1330.0원마감…달러인덱스19개월만에최고,국제금1.51%..."
+  "원달러환율1330.0원마감…달러인덱스19개월만에최고,국제금1.51%...",
+  "\"일본에1골차로빼앗긴우승컵,이번엔반드시되찾는다\"한국여자핸...",
+  "LG헬로비전,신임CEO에김지훈사업총괄선임",
+  "‘K’붙인광화문빵축제,운영은낙제점…결제먹통에빈손귀가",
+  "시총2조달러돌파한'앤트로픽',챗GPT대항마로우뚝선비결은",
+  "금시세(금값)급락",
+  "[속보]삼성전자장초반4%급락,SK하이닉스도6%↓",
+  "앤트로픽상장첫날17%상승…SKT지분가치5조추정",
+  "SKT,T팩토리성수서연말전시개최…AI체험·문화유산콘텐츠선보여",
+  "KT·LG전자,양자상태로이미지·문자전송성공…양자통신기술확대",
+  "KT,양자상태로이미지·문자전송성공…양자통신기술진전",
+  "바이낸스\"해킹자산회수법원명령확보\""
  ],
  "recent_sigs": [
   [
@@ -6785,7 +6785,7 @@
    "국제 달러인덱스 만에 0원 19개월 원달러 환율 마감 최고"
   ]
  ],
- "last_run": "2026-11-20T10:10:51.497076+09:00",
+ "last_run": "2026-11-20T10:12:33.351548+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
