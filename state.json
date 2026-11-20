@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000347794?division=NAVER",
-  "https://weeklytrade.co.kr/news/view.html?no=102344",
-  "https://www.newspost.kr/news/articleView.html?idxno=227624",
-  "https://www.pointe.co.kr/news/articleView.html?idxno=88151",
-  "https://www.hankookilbo.com/news/article/A2026112009590003511?did=NA",
   "https://www.viva100.com/article/20261120500361",
   "http://www.seouleconews.com/news/articleView.html?idxno=95152",
   "https://www.itbiznews.com/news/articleView.html?idxno=232242",
@@ -2999,14 +2994,14 @@
   "https://www.globalepic.co.kr/view.php?ud=20261120104801892948439a4874_29",
   "https://www.ytn.co.kr/_ln/0115_202611210558382275",
   "https://www.ytn.co.kr/_ln/0134_202611201055247467",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211781"
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=211781",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=903802",
+  "https://www.yna.co.kr/view/AKR20261121007800091?input=1195m",
+  "https://www.mediapen.com/news/view/1138967",
+  "https://www.seoulfn.com/news/articleView.html?idxno=643536",
+  "https://www.tokenpost.kr/news/breaking/441807"
  ],
  "seen_titles": [
-  "KG에듀원해킹에저축은행직원정보유출…2차피해우려당부",
-  "[숏폼]2700억→5조됐는데주가는-10%…SK텔레콤의기묘한대박",
-  "SK호라이즌,DC고객사잡기'전력투구'…AWS잇는후속수주어디?",
-  "쿤텍,디지엑스B300도입해AI검증자체수행",
-  "시리넘어컴퓨터까지직접조작…애플,AI에이전트개발본격화",
   "\"너무비싸지만사고싶다\"…앤트로픽IPO흥행에中개미들눈독",
   "김범수사법리스크걷어내고카카오재도약'시험대'",
   "외국인과기관의매도세속주식시장불안,AI반도체기업제재우려...",
@@ -6001,7 +5996,12 @@
   "최태원앤트로픽베팅에SKT4조벌었다",
   "스마트하게막는다？...5천만원전파탐지기용역이전부",
   "젠슨황없이도해낼수있다...엔비디아가꺼낸초강수[자막뉴스]",
-  "SK증권,AI종목검색·차트분석서비스출시…HTS·MTS동시적용"
+  "SK증권,AI종목검색·차트분석서비스출시…HTS·MTS동시적용",
+  "[특징주]SK텔레콤,앤트로픽상장에10%↓…차익매물출회",
+  "엔비디아,中간첩연루메가스피드관련사에칩4만개판매신청",
+  "[美증시특징주]엔비디아최악14%폭락…이번엔SEC회계부정조사가...",
+  "[속보]뉴욕증시,앤스로픽급락에붕괴…나스닥5.3%폭락",
+  "엔비디아10.6%급락…SEC회계조사보도"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,21 @@
   [
    "2026-11-21T06:04:18.305198+09:00",
    "인텔 경쟁 배달 로봇으로 현장 광산 퀄컴 점검 음식"
+  ],
+  [
+   "2026-11-21T06:10:25.609889+09:00",
+   "회계부정 이번엔 최악 폭락 조사가 SEC"
+  ],
+  [
+   "2026-11-21T06:10:25.609889+09:00",
+   "메가스피드 4만개 연루 판매신청 관련사에 간첩"
+  ],
+  [
+   "2026-11-21T06:10:25.609889+09:00",
+   "급락 회계조사 보도 SEC"
   ]
  ],
- "last_run": "2026-11-21T06:08:38.292080+09:00",
+ "last_run": "2026-11-21T06:10:46.523399+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
