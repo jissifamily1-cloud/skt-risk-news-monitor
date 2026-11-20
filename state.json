@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jasm.co.kr/news/view/325950/?sc=Naver",
-  "https://weekly.donga.com/3/all/11/6466663/1",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000084888",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394395",
-  "https://biz.heraldcorp.com/article/10943919",
-  "https://www.ekn.kr/web/view.php?key=20261120021052460",
   "http://www.econonews.co.kr/news/articleView.html?idxno=447474",
   "https://biz.heraldcorp.com/article/10943923",
   "http://www.yonhapnewstv.co.kr/news/AKR202611201129399hH",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719026",
   "https://biz.chosun.com/international/international_general/2026/11/21/PXYH3O4QTRDXJFF4Q54VMBJHJI/",
   "https://www.womennews.co.kr/news/articleView.html?idxno=284759",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=8692"
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8692",
+  "https://www.news1.kr/world/international-economy/6361486",
+  "https://www.thelec.kr/news/articleView.html?idxno=65702",
+  "https://www.tokenpost.kr/news/breaking/441827",
+  "https://www.news2day.co.kr/article/20261121500002",
+  "https://www.tokenpost.kr/news/breaking/441826",
+  "https://www.yna.co.kr/view/AKR20261121010600071?input=1195m"
  ],
  "seen_titles": [
-  "최혁진의원,'알뜰폰독과점차단법'대표발의",
-  "수면·운동기록챗GPT가읽는다…미국안드로이드먼저",
-  "이수페타시스주가장중15%대급락,미반도체주약세에기판주동반하...",
-  "앤트로픽상장에도급락삼전닉스…증권가\"비관정점,펀더멘털견조...",
-  "코스피장중4900선하회…'美반도체급락'외인·기관1.2조매도[장중...",
-  "KT스카이라이프,자회사KTHCN과합병추진…내년상반기목표",
   "AI와함께돌아보는2026년…SKT,T팩토리성수에서연말전시",
   "알뜰폰독과점차단법발의…\"통신3사계열사점유율상한법률로정해...",
   "애플'AI에이전트'뒤늦게출시해도메타와오픈AI위협전망,개인정보...",
@@ -6001,7 +5995,13 @@
   "“미국증권위,엔비디아회계조사”…싱가포르매출기준변경주목",
   "美증권위,엔비디아회계조사…대중국수출·반독점이어사법리스크...",
   "기술주매도에나스닥5.3%폭락...다우·S&P조정국면진입",
-  "[글로벌마켓뷰]뉴욕증시'AI패닉'에반도체주붕괴…필리델피아지수..."
+  "[글로벌마켓뷰]뉴욕증시'AI패닉'에반도체주붕괴…필리델피아지수...",
+  "[뉴욕마감]앤트로픽상장도못잠재운AI우려…나스닥5.13%급락",
+  "앤트로픽,거래첫날장중시총2조달러돌파",
+  "엔비디아약10%하락…SEC회계조사보도속나스닥100약세",
+  "실적보다커진AI거품론…뉴욕증시,조정한파속나스닥5.28%↓",
+  "엔비디아($NVDA)분기매출1158억달러…시간외주가상승",
+  "트럼프,밴스·루비오세워둔채비서실장에\"대선출마원하나\""
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,21 @@
   [
    "2026-11-21T06:44:21.997026+09:00",
    "증권위 대중국 수출 반독점 사법 이어 회계 리스크 조사"
+  ],
+  [
+   "2026-11-21T06:48:15.819315+09:00",
+   "시간외 매출 상승 NVDA 분기 1158억달러 주가"
+  ],
+  [
+   "2026-11-21T06:48:15.819315+09:00",
+   "뉴욕증시 나스닥 한파 커진 실적보다 조정 거품론"
+  ],
+  [
+   "2026-11-21T06:48:15.819315+09:00",
+   "밴스 세워둔 비서실장에 대선출마 루비오 원하나 트럼프"
   ]
  ],
- "last_run": "2026-11-21T06:46:29.453503+09:00",
+ "last_run": "2026-11-21T06:48:41.723154+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
