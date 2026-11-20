@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ytn.co.kr/_ln/0101_202611192238166036",
-  "https://www.nbntv.co.kr/news/articleView.html?idxno=4027704",
-  "https://www.edaily.co.kr/News/Read?newsId=04628086645647360&mediaCodeNo=257",
-  "https://www.hani.co.kr/arti/politics/politics_general/1288234.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717820",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=319067",
-  "http://www.yonhapnewstv.co.kr/news/AKR202611181557214aI",
-  "https://www.yna.co.kr/view/AKR20261118139800017?input=1195m",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/18/2026111890193.html",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716418",
   "https://www.mediatoday.co.kr/news/articleView.html?idxno=338538",
   "https://www.etnews.com/20261118000345",
@@ -2999,18 +2990,18 @@
   "https://futurechosun.com/?p=167285",
   "https://www.cstimes.com/news/articleView.html?idxno=728826",
   "https://www.aitimes.com/news/articleView.html?idxno=217632",
-  "https://www.tokenpost.kr/news/breaking/441473"
+  "https://www.tokenpost.kr/news/breaking/441473",
+  "https://www.huffingtonpost.kr/article/262269",
+  "https://sports.khan.co.kr/article/202611201720013?pt=nv",
+  "https://www.pointe.co.kr/news/articleView.html?idxno=88200",
+  "https://www.tokenpost.kr/news/ai/441472",
+  "https://www.slist.kr/news/articleView.html?idxno=783514",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=410104",
+  "https://sateconomy.co.kr/news/view/1065594542489828",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1024704",
+  "https://www.newspim.com/news/view/20261120000930"
  ],
  "seen_titles": [
-  "바이낸스,아부다비법원서65억달러동결명령확보…회수액은밝히지...",
-  "EU집행위도AI이용한사이버공격받아...\"일부앱일시중단\"",
-  "니어프로토콜,바이낸스연계자금니어인텐트경유시도96%차단",
-  "수능부정행위적발위해위급재난문자3차례발송…휴대전화22대적발",
-  "공공부문개인정보유출땐기관장도‘문책’",
-  "김휘강靑사이버안보비서관,보안업체주식4억보유",
-  "트럼프·김정은만남'불발'…다음북미대화시간표는",
-  "반포아파트분양권만42억…김휘강靑비서관,재산75억신고",
-  "'해커'출신김휘강국가안보실비서관재산75억...반포분양권42억보...",
   "'집값급등사과'김용범,서초아파트값4.7억뛰었다…퇴직재산49....",
   "수능부정행위적발에위급재난문자…전국9개시도서스마트폰22대",
   "'리트만점'이진우사망...한덕수2심파기환송[포커스]",
@@ -6001,7 +5992,16 @@
   "코스피,앤트로픽상장흥행에도5%대급락...10개월만최저",
   "LG유플러스,전기차전문기업볼트업단독경영…지분전량인수",
   "오픈AI,'GPT-6.2'응답늦게받으면API요금최대40%할인",
-  "바이낸스63억달러해킹…서클·트럼프가족연계사등18곳에탈취자산..."
+  "바이낸스63억달러해킹…서클·트럼프가족연계사등18곳에탈취자산...",
+  "LG구광모이제'육성'에서'실행'으로:취임뒤처음,LG전자사업본부...",
+  "44명도전해30명웃었다…KBL신인드래프트지명률68.2%",
+  "수능끝나자본격화한'AI커닝'색출…중앙제보센터운영·대학별고사...",
+  "GPT-Live-1.1API공개…대기요금분당0.02달러",
+  "'검은금요일'코스피4800대로급락...10개월만최저",
+  "권영찬교수,'하인리히법칙으로본기업CEO의리스크관리'CEO특강",
+  "금감원,가상자산업계에해킹대비강화주문…“취약점방치시엄정...",
+  "[포토뉴스]KT,LG전자와양자직접통신시스템구현",
+  "[ETF시황]폭락장에인버스2조거래…반도체ETF19%급락"
  ],
  "recent_sigs": [
   [
@@ -6671,9 +6671,17 @@
   [
    "2026-11-20T17:20:29.364218+09:00",
    "요금 할인 API 받으면 늦게 GPT 응답"
+  ],
+  [
+   "2026-11-20T17:22:24.476923+09:00",
+   "LG전자와 ~KT 시스템 구현 양자직접통신"
+  ],
+  [
+   "2026-11-20T17:22:24.476923+09:00",
+   "반도체 2조 폭락장에 거래 급락 ETF 인버스"
   ]
  ],
- "last_run": "2026-11-20T17:20:51.048492+09:00",
+ "last_run": "2026-11-20T17:22:43.105094+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
