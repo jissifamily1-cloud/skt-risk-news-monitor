@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708174",
-  "https://www.tokenpost.kr/news/ai/441101",
-  "https://www.tokenpost.kr/news/breaking/441099",
-  "https://biz.heraldcorp.com/article/10943328",
-  "https://www.the-today.com/news/articleView.html?idxno=93844",
-  "https://www.mediapen.com/news/view/1138722",
-  "https://www.mediapen.com/news/view/1138720",
-  "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120029001?wlog_tag3=naver",
   "https://www.yna.co.kr/view/AKR20261120003151091?input=1195m",
   "https://www.nocutnews.co.kr/news/6609897",
   "https://www.ddaily.co.kr/page/view/2026111918084312983",
@@ -2999,17 +2991,17 @@
   "https://www.jemin.com/news/articleView.html?idxno=847915",
   "https://biz.chosun.com/stock/stock_general/2026/11/20/36J6QCNVP5HS7JKP4QYU3ZJ2VU/",
   "https://biz.chosun.com/stock/finance/2026/11/20/VFKGAOVLNJCR3IFCYKDUDGRYKQ/",
-  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080163.html"
+  "http://digitalchosun.dizzo.com/site/data/html_dir/2026/11/20/2026112080163.html",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261120163426oN8",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=203509",
+  "https://www.ajunews.com/view/20261120162533325",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445791",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=302290",
+  "https://www.yna.co.kr/view/AKR20261120085151008?input=1195m",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1544448",
+  "https://www.joongangenews.com/news/articleView.html?idxno=565521"
  ],
  "seen_titles": [
-  "\"차량설계검토,단몇시간만에\"…日에픽AI,'中속도전'맞설AI보...",
-  "챗GPT광고주10만곳넘어…오픈AI,89개국으로광고확대",
-  "샘알트먼이보는AI경쟁종착지…국제감시냐,선도기업독주냐",
-  "매출15배뛰었는데807억달러적자…앤트로픽,상장앞두고드러난민...",
-  "AGI선점해경쟁사GPU까지파괴…알트먼\"끔찍한시나리오\"",
-  "마약거래폭로갈등..머라이어캐리,친오빠와280억소송서승소[스타...",
-  "알트먼,AI경쟁종착점세가지제시…한기업독주는'끔찍'",
-  "앤트로픽IPO연내발표가능성75%,칼시23개사중유일",
   "[데일리픽]美물가상승에도BTC8만달러방어…테슬라\"로드스터인도...",
   "RTX스파크데스크톱11월18일판매시작",
   "중국행AI칩87만9000개수출승인…마스트가자료공개",
@@ -6001,13 +5993,17 @@
   "코스피5%넘게추락…미국AI주매도충격에4900선붕괴",
   "AI뉴스에하루는환호,하루는비명…살얼음판코스피",
   "금감원,가상자산업자보안강화간담회…“취약점방치업체엄중조...",
-  "패션·명품·가전총출동…유통업계,연말‘블프’쇼핑대전돌입"
+  "패션·명품·가전총출동…유통업계,연말‘블프’쇼핑대전돌입",
+  "수능스마트기기부정행위만'111명'…대학별고사도'비상'",
+  "[더밸류브리핑]오늘의증권사소식...교보증권·SK증권",
+  "반도체진두지휘중공서열6위,'앨리스황조사'싱가포르방문",
+  "코스피10개월만에저점…하나운용,'위기냐기회냐'긴급웹세미나",
+  "증시,'검은금요일'...삼성전자,中에칩출하중단우려7%급락",
+  "코스피추락어디까지…앤트로픽역대급IPO에도투심회복실패(종합)",
+  "[OBS뉴스오늘2]'AI버블론'향방은…'APEC폐막'성과와기대는",
+  "SK텔레콤주가,11월20일애프터마켓70,000원12.72%하락"
  ],
  "recent_sigs": [
-  [
-   "2026-11-20T10:36:16.756314+09:00",
-   "연산 기술 메모리 내부 공개 슈퍼컴퓨팅서 SK하이닉스 CXL D램"
-  ],
   [
    "2026-11-20T10:40:33.680459+09:00",
    "5조 앤트로픽 에도 ~SKT 수혜주 향방은 잭팟 폭락"
@@ -6651,9 +6647,17 @@
   [
    "2026-11-20T16:34:22.051564+09:00",
    "유통업계 가전 패션 돌입 총출동 쇼핑 대전 명품 연말 블프"
+  ],
+  [
+   "2026-11-20T16:36:17.319409+09:00",
+   "~SKT 20일 하락 애프터마켓 000원 주가 11월"
+  ],
+  [
+   "2026-11-20T16:36:17.319409+09:00",
+   "기대는 폐막 버블론 향방은 APEC 성과와"
   ]
  ],
- "last_run": "2026-11-20T16:34:43.557584+09:00",
+ "last_run": "2026-11-20T16:36:36.159111+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
