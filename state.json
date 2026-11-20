@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717678",
-  "https://www.newspim.com/news/view/20261119001452",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=418072",
-  "http://www.osen.co.kr/article/G1112912308",
-  "http://www.osen.co.kr/article/G1112912311",
-  "http://www.osen.co.kr/article/G1112912306",
-  "http://www.osen.co.kr/article/G1112912309",
-  "http://www.osen.co.kr/article/G1112912307",
   "http://www.osen.co.kr/article/G1112912310",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6867037_37004.html",
   "https://www.sedaily.com/article/20116708",
@@ -2999,17 +2991,17 @@
   "https://www.joongangenews.com/news/articleView.html?idxno=565462",
   "https://www.m-joongang.com/news/articleView.html?idxno=403321",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090157.html",
-  "https://www.tokenpost.kr/news/breaking/441373"
+  "https://www.tokenpost.kr/news/breaking/441373",
+  "https://m.sports.naver.com/basketball/article/065/0000304975",
+  "https://zdnet.co.kr/view/?no=20261120130354",
+  "https://www.thelec.kr/news/articleView.html?idxno=65704",
+  "https://www.koreadaily.com/article/20261115191101999",
+  "https://biz.chosun.com/it-science/ict/2026/11/20/QEKWRY2AAVFCJBQKXEM37PCUQI/",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611201300582680102144",
+  "https://www.mk.co.kr/article/12214531",
+  "https://www.greened.kr/news/articleView.html?idxno=355132"
  ],
  "seen_titles": [
-  "KBL,'판정항의테크니컬파울'KT포터반칙금부과철회",
-  "['클릭'증시]앤트로픽초기투자빛본SKT...지분가치4조돌파",
-  "현대차권정현부사장“엔비디아와협력문제없다”",
-  "에임인텔리전스,LLM안정성평가새기준발표…'뉴립스2026'채택",
-  "\"수능끝,이제수시면접·논술\"…가채점,최저기준걸쳤다면응시해...",
-  "[산업뉴스브리핑]최태원\"SK거버넌스고도화\"…독립이사들과경영방...",
-  "댄아이브스\"젠슨황,엔비디아(NVDA)복귀가능성커져\"...내년2~3월승...",
-  "영남대개인정보유출…지역대학해킹잇따라",
   "FT\"TSMC·삼성전자,일부중국고객사에반도체출하중단…美수출규...",
   "한남대,(주)케이티샛과우주·위성인재양성협약",
   "[사진]이금주치어리더,상큼발랄",
@@ -6001,25 +5993,17 @@
   "이재근號KB금융공식출항…조직개편·계열사인사속도",
   "\"클래리티법입법막힌상황…비트코인가격,의회아닌연준이정할...",
   "[단독]접수마감날'보안점검'…국방부채용포털먹통에'분통'",
-  "코인베이스,앤스로픽주식증명서베이스서거래…직접소유아냐"
+  "코인베이스,앤스로픽주식증명서베이스서거래…직접소유아냐",
+  "\"강호들과귀중한경험\"광주맨투맨U18,i-챔피언십3위입상",
+  "이준희삼성SDS대표체제'굳건'…실적안정속노사관계시험대",
+  "AMD,언슬로스데스크톱에NPU지원",
+  "민주당압승,소셜연금개혁본격화전망",
+  "AMD,中제재기업에기술유출의혹…주가8%급락",
+  "[더벨][i-point]센스톤,미국‘수도인프라사이버방어’프로젝트합...",
+  "업비트·빗썸사상처음동시적자,뒤따르는시장침체의신호[엠블록...",
+  "KT·LG전자,QSDC구현맞손…양자암호넘어'정보직접전송'"
  ],
  "recent_sigs": [
-  [
-   "2026-11-20T08:12:23.946712+09:00",
-   "제치고 넘은 앤트로픽 우주를 뛰어 스페이스X 신고식 화려한"
-  ],
-  [
-   "2026-11-20T08:12:23.946712+09:00",
-   "성장 약세 ~KT 가능성 아니다 훼손 KB 삼성SDS 수요 실적 주목"
-  ],
-  [
-   "2026-11-20T08:12:23.946712+09:00",
-   "중국 제2의 밀반출 반도체 충격 AMD 너마저"
-  ],
-  [
-   "2026-11-20T08:14:16.254352+09:00",
-   "임원 인사 2027년 실시 ~LGU LG유플러스"
-  ],
   [
    "2026-11-20T08:16:18.007670+09:00",
    "할인권이 햄버거 손잡고 무신사 먹었는데 롯데리아 세일"
@@ -6737,7 +6721,7 @@
    "주식 거래 소유 증명서 코인베이스 직접 아냐 베이스서"
   ]
  ],
- "last_run": "2026-11-20T14:12:37.907610+09:00",
+ "last_run": "2026-11-20T14:14:36.622422+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
