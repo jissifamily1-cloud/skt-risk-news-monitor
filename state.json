@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://en.yna.co.kr/view/AEN20261119008100320?input=2106m",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3757348",
-  "https://kr.aving.net/news/articleView.html?idxno=1817203",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963776",
-  "https://www.mt.co.kr/world/2026/11/19/2026111916163094257",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=82601",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=125255",
-  "https://biz.chosun.com/it-science/ict/2026/11/19/35ZNR7TI4ZCRZHYSQNSSCBNYE4/",
-  "https://view.asiae.co.kr/article/2026111916421021872",
-  "https://www.news2day.co.kr/article/20261119500301",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716788",
   "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963779",
   "https://www.dailian.co.kr/news/view/1717363/?sc=Naver",
   "http://www.datanews.co.kr/news/article.html?no=147731",
@@ -2999,20 +2988,20 @@
   "https://kpenews.com/View.aspx?No=4321624",
   "https://magazine.hankyung.com/business/article/202611209382b",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4119779",
-  "https://www.techm.kr/news/articleView.html?idxno=157617"
+  "https://www.techm.kr/news/articleView.html?idxno=157617",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885274",
+  "https://www.ikbc.co.kr/article/view/kbc202611200016",
+  "https://www.thisisgame.com/articles/433056",
+  "https://www.fntimes.com/html/view.php?ud=2026112009590315257492587736_18",
+  "https://www.news1.kr/world/usa-canada/6360570",
+  "https://www.segye.com/newsView/20261120505170?OutUrl=naver",
+  "https://www.tokenpost.kr/news/ai/441231",
+  "https://www.etoday.co.kr/news/view/2650817",
+  "https://www.ikbc.co.kr/article/view/kbc202611200020",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=255132",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001493"
  ],
  "seen_titles": [
-  "AI의료정보의존확산...처방약임의변경소비자50.9%부작용",
-  "[텔코NOW]SKTㆍKTㆍSKB",
-  "[수능끝나고뭐해]롯데시네마·SK텔레콤·현대백화점등,문화생활즐...",
-  "코스피5137선회복…코스닥3.28%급등",
-  "LG헬로비전,7년만에수장교체…김지훈신임CEO선임",
-  "LG헬로비전신임CEO에김지훈사업총괄",
-  "[일지]김건희'3대의혹'제기부터상고심선고까지",
-  "KOSPI200ClosingPriceList-3",
-  "영진전문대학교,중학생161명직업체험...진로탐색교육기부",
-  "경과원,In-Best판교4차투자교류회성료...유망딥테크8개사IR발표",
-  "스페이스X제친앤트로픽,'역대급IPO'초읽기…오늘밤나스닥상장",
   "앤트로픽공모가흥행에도힘못쓰는亞증시[Asia마감]",
   "앤트로픽상장으로최태원SK그룹4조3천억원'잭팟'",
   "앤트로픽IPO에SKT'4조3천억잭폿'…초기투자3년만에15.7배수익",
@@ -6001,7 +5990,18 @@
   "KT,차세대양자인터넷기술협력지속..양자직접통신시스템구현",
   "코스피4900선붕괴…'대어'앤트로픽IPO도못막았다",
   "코스피4%대급락해'5천피'밑으로...코스닥도4.5%급락",
-  "\"AI해킹에코인탈취우려\"…금감원,거래소28곳에보안전면점검지시"
+  "\"AI해킹에코인탈취우려\"…금감원,거래소28곳에보안전면점검지시",
+  "SK브로드밴드,한·싱가포르해저케이블양자보안강화",
+  "\"수능끝나도신고는계속받는다\"...AI부정행위,성적발표후에도추...",
+  "1페타플롭연산1.1L미니PC,'ProArtGR1X'출시",
+  "[지스타2026]120분대기줄만든웹젠신작'디펜스게임의폭군이되었...",
+  "백악관사이버보안사령탑사임…\"레임덕의회서후임인준노려\"",
+  "앤트로픽‘성공적’데뷔라는데왜…오천피깨지고4900도‘위태’",
+  "1,200만TPP원격접속규정발효…블룸버그,엔스케일의바이트댄스공...",
+  "삼전ㆍSK하닉손절생각에‘아찔’…증권가“비관론정점가까워”",
+  "\"中반도체통제\"외치는美,뒤로는90만개수출허가'이중플레이'?",
+  "KT·LG전자,양자직접통신시스템구현…이미지·문자전송후복원성공",
+  "[개장]美AI우려에코스피4%급락…4900선붕괴"
  ],
  "recent_sigs": [
   [
@@ -6777,7 +6777,7 @@
    "지시 우려 거래소 금감원 보안 코인 28곳에 탈취 해킹에 전면점검"
   ]
  ],
- "last_run": "2026-11-20T10:06:41.419754+09:00",
+ "last_run": "2026-11-20T10:08:31.717873+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
