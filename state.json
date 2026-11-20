@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.topstarnews.net/news/articleView.html?idxno=16280868",
-  "https://thedrive.co.kr/news/newsview.php?ncode=1065603128648272",
-  "http://news.lghellovision.net/news/articleView.html?idxno=563070",
-  "https://it.donga.com/109966/",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194914",
   "https://www.edaily.co.kr/News/Read?newsId=01781046645647360&mediaCodeNo=257",
   "http://www.newstomato.com/ReadNews.aspx?no=1321128&inflow=N",
   "https://www.hankyung.com/article/2026111982221",
@@ -2999,14 +2994,14 @@
   "https://www.sedaily.com/article/20116885",
   "https://news.jtbc.co.kr/article/NB12329020?influxDiv=NAVER",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083501",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000084898"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000084898",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261120115028pfX",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452499",
+  "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=200&CONTENTS_NO=1&bbsGbn=403&bbsSn=403&pNttSn=245159",
+  "https://www.thefairnews.co.kr/news/articleView.html?idxno=94934",
+  "https://www.techm.kr/news/articleView.html?idxno=157633"
  ],
  "seen_titles": [
-  "'KBO홀드왕'KT위즈스기모토,일본행확정…소프트뱅크육성선수로새...",
-  "챗봇과제거부해도성적깎지말라…美대학가‘AI안쓸권리'요구확...",
-  "SK하이닉스,'수출1조달러'이끈HBM생태계이끈다...고부가메모리가...",
-  "아마존·구글·SKT·LG'앤트로픽잭팟'",
-  "SKT'AI투자'선구안…'앤트로픽상장'에지분가치4조원대",
   "'수능끝자유'경남곳곳수험생겨냥할인행사",
   "LGU+,AI·통신인프라책임자전무승진···임원11명인사",
   "'크래시2'2회시청률3.7%상승…이민기·곽선영·허성태등등장인물...",
@@ -6001,7 +5996,12 @@
   "SK하이닉스6%밀리자…상위1%고수들이틀째순매수[주식초고수는지...",
   "2700억원이3년만에4조…최태원SK,앤트로픽상장에'16배'",
   "[신세계I&C인사]양윤지전무체제…KT·CJ출신전략·AI전문가영입",
-  "트럼프,젠슨황스캔들직전엔비디아주식3억5000만원매수"
+  "트럼프,젠슨황스캔들직전엔비디아주식3억5000만원매수",
+  "스마트기기부정행위111명…대학논술시험장도비상",
+  "유엔기후변화보고서차질에전지구적점검도흔들,글로벌온실가스...",
+  "2026년카자흐스탄AI산업정보",
+  "자연어질문만으로종목탐색·기술적분석지원…SK증권,'AI조건검색...",
+  "엔비디아,딥시크키운中펀드에H2007만5000개수출신청...美공식문..."
  ],
  "recent_sigs": [
   [
@@ -6951,9 +6951,13 @@
   [
    "2026-11-20T11:50:27.017511+09:00",
    "CJ 전문가 ~KT 양윤지 전략 체제 출신 영입 전무"
+  ],
+  [
+   "2026-11-20T11:52:15.848469+09:00",
+   "H200 수출 펀드에 키운 7만5000개 딥시크 신청"
   ]
  ],
- "last_run": "2026-11-20T11:50:46.061552+09:00",
+ "last_run": "2026-11-20T11:52:34.981901+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
