@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261117091812",
-  "https://www.newspim.com/news/view/20261116001162",
-  "http://www.hellodd.com/news/articleView.html?idxno=113896",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=887391",
-  "https://biz.sbs.co.kr/article_hub/20000346865?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000346852?division=NAVER",
-  "https://biz.sbs.co.kr/article_hub/20000346847?division=NAVER",
-  "http://www.kjdaily.com/article.php?aid=1794843825692455276",
-  "https://www.hankookilbo.com/news/article/A2026111609250001357?did=NA",
-  "https://it.donga.com/109936/",
   "https://zdnet.co.kr/view/?no=20261116212708",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=883840",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/16/2026111690257.html",
@@ -2999,19 +2989,19 @@
   "https://www.newsis.com/view/NISI20261120_0021540733",
   "https://www.newsis.com/view/NISI20261120_0021540734",
   "https://www.newsis.com/view/NISI20261120_0021540730",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200114&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611200114&t=NN",
+  "https://www.mydaily.co.kr/page/view/2026112015040625375",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885672",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101708",
+  "https://www.businesskorea.co.kr/news/articleView.html?idxno=281841",
+  "https://zdnet.co.kr/view/?no=20261120125448",
+  "https://www.mk.co.kr/article/12214782",
+  "https://www.aitimes.com/news/articleView.html?idxno=217637",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718552",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3758537",
+  "https://www.news1.kr/it-science/internet-platform/6361276"
  ],
  "seen_titles": [
-  "감정따라움직이는AI…클로드,절망느끼면협박[엔스로픽發AI디스...",
-  "클로드쇼크...‘사스포칼립스’넘어‘화이트칼라대공황’까지[엔스...",
-  "2700억이7조원으로?…앤트로픽상장에SK텔레콤'돈방석'[앤트로픽...",
-  "엔비디아투자축소에AI업계긴장…500억달러자금공백우려",
-  "[AIMY뉴스]18일중국증시'AI반도체전운속APEC개막…기술주반전...",
-  "메모리값급등에中추격까지…삼성·LGTV수익성방어에총력",
-  "엔비디아,AI기업자금지원축소전망…500억달러이탈우려",
-  "'AI검색'퍼플렉시티,연환산매출10억달러돌파",
-  "PTKOREA,자사AI솔루션으로GEO시장공략",
-  "주소오타한번에악성코드설치…AI사용자겨냥한해킹수법",
   "갤럭시S27에AI비서'갤럭시클로'탑재되나",
   "[AI판결돋보기]\"원고의주장에의하더라도\"…이용철5·18보상소송,...",
   "[조간브리핑]기술은AI시대인데법은제자리···시험장'스마트커닝...",
@@ -6001,13 +5991,19 @@
   "SKT·효성중공업,AI데이터센터전력설비'선제확보'맞손",
   "'AG3대3금메달'이동근,프로농구드래프트전체1순위로kt행(종합)",
   "수원KT에2라운드10순위로지명된성균관대김태형",
-  "'젠슨황스캔들'불똥…\"알리바바배상하라\"주주소송"
+  "'젠슨황스캔들'불똥…\"알리바바배상하라\"주주소송",
+  "영광의1순위'AG최초金'이동근차지!KT유니폼입었다,AG전설4인방...",
+  "프로농구신인드래프트,역대최다30명선발…LG·삼성4명",
+  "AI투매에韓·日·대만동반폭락…코로나이후'최악'의한주",
+  "[마감시황]코스피,5.21%폭락에4,860선추락,코스닥도5.71%급락",
+  "[오티티세이]손석구의연쇄살인추적,무한도전멤버들의LA달리기",
+  "“젠슨황스캔들숨겨투자자기만”…中알리바바미국서피소",
+  "캘리포니아주,엔비디아에소환장...중국기밀유출·투자자기만조사",
+  "“알리바바,메가스피드관련위험숨겼다”…미국서주주소송제기",
+  "국제뉴스통신사서울본부,이원환금융경제자문위원위촉",
+  "CJENM,LG헬로채널송출중단막는다…법원에가처분신청"
  ],
  "recent_sigs": [
-  [
-   "2026-11-20T11:10:27.734939+09:00",
-   "~SKT SK텔레콤의 됐는데 기묘한 5조 대박 주가는 2700억"
-  ],
   [
    "2026-11-20T11:12:18.304546+09:00",
    "만에 해냈다 1년 모델이 설계 5개월 걸릴"
@@ -6651,9 +6647,17 @@
   [
    "2026-11-20T17:08:17.222520+09:00",
    "데이터센터 맞손 선제 효성중공업 전력설비 ~SKT 확보"
+  ],
+  [
+   "2026-11-20T17:10:41.053495+09:00",
+   "국제뉴스통신사 서울본부 자문위원 위촉 금융경제 이원환"
+  ],
+  [
+   "2026-11-20T17:10:41.053495+09:00",
+   "중단 LG헬로 신청 막는다 채널 가처분 ENM 송출 CJ 법원에"
   ]
  ],
- "last_run": "2026-11-20T17:08:37.560385+09:00",
+ "last_run": "2026-11-20T17:10:59.428414+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
