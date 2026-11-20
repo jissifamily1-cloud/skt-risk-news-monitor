@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smartbizn.com/news/articleView.html?idxno=160038",
-  "https://www.ikbc.co.kr/article/view/kbc202611190070",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732384",
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5231815",
-  "https://www.mk.co.kr/article/12213817",
-  "http://www.biztribune.co.kr/news/articleView.html?idxno=362862",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41749",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191639358730854",
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611191736303290871",
   "https://news.mtn.co.kr/article/2026111916361826075",
   "http://www.inews24.com/view/2027948",
@@ -2999,17 +2991,17 @@
   "https://www.businesspost.co.kr/BP?command=article_view&num=452504",
   "https://www.radiokorea.com/news/article.php?uid=510202",
   "https://news.appstory.co.kr/daily19717",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716598"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716598",
+  "https://biz.heraldcorp.com/article/10943909",
+  "https://www.tokenpost.kr/news/ai/441263",
+  "https://www.thelec.kr/news/articleView.html?idxno=65702",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452500",
+  "https://www.jasm.co.kr/news/view/325950/?sc=Naver",
+  "https://weekly.donga.com/3/all/11/6466663/1",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000084888",
+  "https://www.sisajournal.com/news/articleView.html?idxno=394395"
  ],
  "seen_titles": [
-  "코스피,장중급락딛고5100선회복하며상승마감…코스닥3%대급등",
-  "앤트로픽IPO,공모가83달러확정⋯직원2800명'백만장자'탄생",
-  "일상으로다가온디지털위험사회",
-  "'30일후면망한다'는위기감으로회사를이끌던젠슨황의몰락",
-  "젠슨황없는엔비디아,돈부터풀었다…직원이탈막기총력",
-  "LGU+,‘파주AIDC’3단계구축에7890억신규투자",
-  "LG임원인사.주요수장유임으로'경영안정'…AI·신사업리더발탁",
-  "구광모,2027년LG그룹인사마무리···권봉석·하범종중심경영체제...",
   "\"전화·문자만되는데인기?\"…日Z세대가'지루한폰'에빠진이유",
   "KT스카이라이프,KTHCN흡수합병결정…내년6월통합",
   "앤트로픽상장에'4조3천억'잠정수익…'15.7배잭팟'기업은?",
@@ -6001,7 +5993,15 @@
   "애플'AI에이전트'뒤늦게출시해도메타와오픈AI위협전망,개인정보...",
   "CA주검찰,엔비디아전CEO'중국스파이'연루의혹조사착수",
   "캘리포니아주,엔비디아에조사소환장발부…중국에AI칩유출됐나",
-  "[기자수첩]삼성전자,글로벌반도체생태계역할확대기대"
+  "[기자수첩]삼성전자,글로벌반도체생태계역할확대기대",
+  "CEO대거유임속기술인재전진배치…R&D승진자30%",
+  "100개이상앱·워크플로,AMDXDNA2NPU첫지원",
+  "앤트로픽,거래첫날장중시총2조달러넘어서",
+  "삼성전자주가장중5%대SK하이닉스6%대내려,미국AI·반도체주약세...",
+  "금감원,가상자산사업자보안간담회…\"취약점엄정문책\"",
+  "‘역대최대109조IPO’성공했지만…앤스로픽도꺾지못한AI버블의...",
+  "코스피4%대급락에4900선위협…삼성전자·SK하이닉스6%대추락",
+  "[데이터뉴스]국민1인당스팸월8.52통"
  ],
  "recent_sigs": [
   [
@@ -6919,9 +6919,13 @@
   [
    "2026-11-20T11:26:25.732272+09:00",
    "데이터센터 결사반대한 미국인들이 실체 이유 전기요금 폭탄 진짜"
+  ],
+  [
+   "2026-11-20T11:30:46.889944+09:00",
+   "1인당 52통 스팸 국민"
   ]
  ],
- "last_run": "2026-11-20T11:28:30.973544+09:00",
+ "last_run": "2026-11-20T11:31:03.200310+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
