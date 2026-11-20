@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cnbizm.com/news/articleView.html?idxno=322070",
-  "http://www.osen.co.kr/article/G1112912317",
-  "http://www.osen.co.kr/article/G1112912318",
-  "http://www.osen.co.kr/article/G1112912319",
-  "http://www.osen.co.kr/article/G1112912316",
-  "https://www.yna.co.kr/view/AKR20261119176700007?input=1195m",
-  "https://www.mt.co.kr/economy/2026/11/19/2026111919555937385",
   "https://www.donga.com/news/Economy/article/all/20261119/135056940/1",
   "https://www.apnews.kr/news/articleView.html?idxno=3053324",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717705",
@@ -2999,16 +2992,16 @@
   "https://www.m-economynews.com/news/article.html?no=73381",
   "https://www.gukjenews.com/news/articleView.html?idxno=3758317",
   "https://www.ajunews.com/view/20261120141632962",
-  "https://www.widedaily.com/news/articleView.html?idxno=304302"
+  "https://www.widedaily.com/news/articleView.html?idxno=304302",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/20/2026112050194.html",
+  "https://www.nocutnews.co.kr/news/6610160",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173371",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732491",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338566",
+  "https://www.huffingtonpost.kr/article/262252",
+  "https://www.edaily.co.kr/News/Read?newsId=03168486645647688&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "[김학균의쓰고달콤한경제]중국제조업의약진과자본효율성의딜레...",
-  "급여올려직원달랜엔비디아…“AI칩로드맵도예정대로”",
-  "[코인시황]비트코인6만3000달러대약세…금대비상대적강세에도AI...",
-  "40대로봇리더전진배치,신임임원30%가R&D…LG,'기술·젊은피'승...",
-  "[사진]워니,파리채슛블록",
-  "앤트로픽효과에반등…코스피5,100선탈환",
-  "習\"中·美갈등격화막아야\"…트럼프\"대만독립지지안해\"",
   "[인사]LG,R&D·AX인재전진배치…132명승진·신규임원89명",
   "[사진]워니,포터공스틸성공",
   "[사진]배스,완벽한골밑슛",
@@ -6001,7 +5994,14 @@
   "KISA,민간기업과스팸데이터공유…악성문자5억건·스팸전화1천200...",
   "김용원둔산경찰서장,다중밀집지역이마트찾아'강력범죄예방'나서",
   "\"정치질문하면책임져라\"…북한판챗GPT의섬뜩한경고",
-  "역대최대IPO로증시입성한앤트로픽…월가\"제2의구글\"기대속변동..."
+  "역대최대IPO로증시입성한앤트로픽…월가\"제2의구글\"기대속변동...",
+  "LS전선,LS마린솔루션과해저케이블주도권강화에박차",
+  "코스피장중5%대급락…코스피·코스닥매도사이드카발동",
+  "亞증시'검은금요일'...한국·일본증시&韓日반도체주'장중추락'",
+  "앤트로픽상장에도AI株급락…1000억달러자금흡수에반도체주'휘청...",
+  "점수조작인가,조작기소인가",
+  "SK텔레콤KTLG유플러스알뜰폰자회사과점방지규제,등록조건에서...",
+  "독일\"사이버위협'위험'수준\"…AI해킹에공격지수83%급등"
  ],
  "recent_sigs": [
   [
@@ -6711,9 +6711,17 @@
   [
    "2026-11-20T14:18:17.069981+09:00",
    "4만개 내연녀 판매 추진했다 젠슨황 기업에 H200"
+  ],
+  [
+   "2026-11-20T14:22:16.516112+09:00",
+   "~SKT 자회사 ~LGU LG유플러스 방지 ~KT 과점 알뜰폰 등록조건에서 규제"
+  ],
+  [
+   "2026-11-20T14:22:16.516112+09:00",
+   "독일 급등 해킹에 공격지수 위협 위험 수준 사이버"
   ]
  ],
- "last_run": "2026-11-20T14:20:42.139567+09:00",
+ "last_run": "2026-11-20T14:22:40.569433+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
