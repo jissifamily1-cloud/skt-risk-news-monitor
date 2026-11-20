@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001510",
-  "https://www.news1.kr/finance/general-stock/6360759",
-  "https://www.ajunews.com/view/20261119164300913",
-  "https://news.tf.co.kr/read/economy/2391434.htm",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1427367",
   "https://www.businesspost.co.kr/BP?command=article_view&num=452504",
   "https://www.radiokorea.com/news/article.php?uid=510202",
   "https://news.appstory.co.kr/daily19717",
@@ -2999,14 +2994,14 @@
   "https://www.jemin.com/news/articleView.html?idxno=847953",
   "https://www.bntnews.co.kr/article/view/bnt202611210028",
   "https://www.mt.co.kr/world/2026/11/21/2026112106320926639",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209644"
+  "https://www.dailysecu.com/news/articleView.html?idxno=209644",
+  "https://www.hani.co.kr/arti/sports/sports_general/1288308.html",
+  "https://biz.sbs.co.kr/article_hub/20000347781?division=NAVER",
+  "https://www.mk.co.kr/article/12215127",
+  "https://biz.chosun.com/international/international_general/2026/11/21/GUFMFQIKCZCB7LURHYF5S6OSPA/",
+  "https://www.edaily.co.kr/News/Read?newsId=01525206645648016&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "금감원,가상자산업계에'AI해킹'경고…\"외부접점·API원점재점검해...",
-  "‘이제만나러갑니다’해킹으로훔친10조원,北공작자금으로쓰였...",
-  "'사법족쇄'한겹더벗은김범수…카카오인적분할·AI전환탄력",
-  "글로벌금융공룡도뚫렸다…JP모건·비자·마스터,고객정보유출",
-  "AI로올해추억을간직해요…SKT,T팩토리성수서체험전시진행",
   "코스피,4%대급락에5,000선밑으로…삼전닉스,5~6%↓",
   "앤스로픽,1.3조달러시총화려한데뷔…공동창업자지분가치218兆'잭...",
   "앤트로픽상장에도뉴욕증시일제히급락...다우5만선붕괴·S&P5006거래...",
@@ -6001,7 +5996,12 @@
   "엔비디아주가급락에시총수백조원증발…AI투자열풍흔들",
   "트럼프,젠슨황두둔…시진핑발언까지공개",
   "엔비디아14%급락'52주신저가'…나스닥5%넘게추락[뉴욕마감]",
-  "컬리해킹으로1만701명개인정보유출…일부주민등록번호·계좌번호까..."
+  "컬리해킹으로1만701명개인정보유출…일부주민등록번호·계좌번호까...",
+  "아시안게임우승여자핸드볼,아시아선수권제패노린다",
+  "엔비디아'시즌2'개막…\"젠슨황없어도돼.돈줄도여기까지\"",
+  "트럼프“젠슨황,사과하고복귀하길…미국은두번째기회주는나라”",
+  "엔비디아,中군연계기업에AI칩수출추진…앨리스황연관사도포함",
+  "앤스로픽주가급락한날…아모데이CEO는이탈리아리조트로"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,21 @@
   [
    "2026-11-21T06:38:22.932983+09:00",
    "해킹으로 일부 1만701명 개인정보 유출 컬리 계좌번호까 주민등록번호"
+  ],
+  [
+   "2026-11-21T06:40:27.939274+09:00",
+   "복귀하길 주는 트럼프 사과하고 기회 미국은 번째 나라 젠슨황"
+  ],
+  [
+   "2026-11-21T06:40:27.939274+09:00",
+   "연계 포함 기업에 AI칩 앨리스 수출 연관사도"
+  ],
+  [
+   "2026-11-21T06:40:27.939274+09:00",
+   "이탈리아 아모데이 리조트로 주가 급락한 CEO는"
   ]
  ],
- "last_run": "2026-11-21T06:38:45.535545+09:00",
+ "last_run": "2026-11-21T06:40:48.756327+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
