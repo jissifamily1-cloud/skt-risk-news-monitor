@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261412",
-  "https://www.seoul.co.kr/news/economy/securities/2026/11/20/20261120500143?wlog_tag3=naver",
-  "https://sateconomy.co.kr/news/view/1065573734031095",
-  "https://www.itbiznews.com/news/articleView.html?idxno=232234",
   "https://www.gukjenews.com/news/articleView.html?idxno=3758222",
   "https://www.gukjenews.com/news/articleView.html?idxno=3758190",
   "https://www.tokenpost.kr/news/ai/441309",
@@ -2999,13 +2995,13 @@
   "https://www.lcnews.co.kr/news/articleView.html?idxno=211761",
   "https://news.bbsi.co.kr/news/articleView.html?idxno=4119950",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732544",
-  "https://www.tokenpost.kr/news/breaking/441886"
+  "https://www.tokenpost.kr/news/breaking/441886",
+  "https://www.tokenpost.kr/news/insights/441887",
+  "https://www.hani.co.kr/arti/international/international_general/1288420.html",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210008&t=NN",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000085110"
  ],
  "seen_titles": [
-  "\"삼전닉스,1년내50%떨어질수도...본격폭락아직시작안했다\"",
-  "[증시긴급진단]앤트로픽IPO도못막은AI투매…코스피4%대급락,490...",
-  "딥시크장밋빛,단번에20조원조달,기업가치6155억위안",
-  "앤스로픽발수급충격·AMD악재…코스피4900선붕괴",
   "AI투자또다른장애물'對中규제'",
   "미국수도시설해킹막는다,국산OT보안기술텍사스프로젝트합류",
   "김도영·곽빈·오스틴,프로야구MVP경쟁누가웃을까…26일시상식열...",
@@ -6001,7 +5997,11 @@
   "SK텔레콤,T팩토리성수서'AI기억결산'·국중박유물전시",
   "나스닥5.28%폭락...다우·S&P500도조정",
   "美뉴욕증시급락…나스닥5.28%·엔비디아14%폭락",
-  "엔비디아이사회,젠슨황CEO복귀배제방침확인"
+  "엔비디아이사회,젠슨황CEO복귀배제방침확인",
+  "[온체인주식선물]SK하이닉스,정규장종가보다8.13%할인",
+  "AI투매에미증시급락,조정장진입…AI거품터지기시작",
+  "젠슨황스캔들에'폭풍매수'…믿었던개미들비명",
+  "엔비디아14%추락에나스닥5.3%폭락…미국증시덮친'AI쇼크'"
  ],
  "recent_sigs": [
   [
@@ -6369,7 +6369,7 @@
    "뉴욕증시 지수 3대 마감 급락"
   ]
  ],
- "last_run": "2026-11-21T08:32:33.591517+09:00",
+ "last_run": "2026-11-21T08:34:32.355167+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
