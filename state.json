@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3758205",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=748834",
-  "https://economist.co.kr/article/view/ecn202611200028",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1731413",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16281411",
-  "https://www.businessplus.kr/news/articleView.html?idxno=120218",
   "https://www.epnc.co.kr/news/articleView.html?idxno=410085",
   "https://www.g-enews.com/view.php?ud=202611201303429615923c501012_1",
   "https://kjmbc.co.kr/NewsArticle/1546509",
@@ -2999,15 +2993,15 @@
   "https://magazine.hankyung.com/business/article/202611211187b",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=147318",
   "https://www.tfmedia.co.kr/news/article.html?no=209067",
-  "https://www.etnews.com/20261120000205"
+  "https://www.etnews.com/20261120000205",
+  "https://www.sedaily.com/article/20117056",
+  "https://www.tokenpost.kr/news/ai/441906",
+  "https://www.g-enews.com/view.php?ud=202611210858568218112616b072_1",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719086",
+  "https://www.mt.co.kr/world/2026/11/21/2026112108332289824",
+  "https://www.tokenpost.kr/news/breaking/441907"
  ],
  "seen_titles": [
-  "한중일융합예술포럼‘trulyseeyou’마무리…특별전12월12일까지",
-  "[사이드B]젠슨황\"아내를배신\"…회장님들의사과문",
-  "젠슨황불륜인정…이혼하면재산분할얼마나할까?[더머니이스트-...",
-  "대전시,항공사진에AI입힌다…불법개발·건축물변화정밀판독",
-  "대전둔산경찰서,수능끝난거리지켰다…청소년일탈예방총력",
-  "창원시,제11회건축대상제개최'대한민국민주주의전당대상'",
   "대전타슈,올해'800만번탔슈'…역대최다이용",
   "이삼남대덕구의원,의회교섭단체'제도화'추진",
   "울주군,청량119안전센터와합동소방훈련ㆍ교육실시",
@@ -6001,7 +5995,13 @@
   "“확실한위험회피”…뉴욕증시3대지수일제히급락",
   "[위클리PICK3]엔비디아3Q사상최대실적부터삼성전자2027사장단인...",
   "[김우일의세상돋보기]“사내결혼OK,사내불륜NO”…故김우중회장...",
-  "[ET톡]공공기관해킹사전예방이먼저"
+  "[ET톡]공공기관해킹사전예방이먼저",
+  "전력규제문턱낮춘AIDC…모듈형데이터센터시장커진다[빛이나는...",
+  "11분만에서버파일쓴AI에이전트…아마존($AMZN),자동대응권고",
+  "나스닥,기술주투매에5.3%폭락…올해상승분반납",
+  "“북한해커총공세”…내은행적금안전할까?[경제한방]",
+  "트럼프,밀러에\"대선나갈래?\"…밴스·루비오옆에서\"이둘보다낫다...",
+  "20일장중엔비디아4.9%내려138.84달러…콜옵션스큐확대"
  ],
  "recent_sigs": [
   [
@@ -6407,9 +6407,13 @@
   [
    "2026-11-21T09:02:16.070969+09:00",
    "예방이 공공기관 사전 먼저"
+  ],
+  [
+   "2026-11-21T09:04:17.893203+09:00",
+   "콜옵션 내려 장중 확대 84달러 스큐 20일"
   ]
  ],
- "last_run": "2026-11-21T09:02:37.261735+09:00",
+ "last_run": "2026-11-21T09:04:33.603636+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
