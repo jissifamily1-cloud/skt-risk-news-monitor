@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=56634",
-  "https://www.mt.co.kr/world/2026/11/20/2026112011085613593",
-  "http://www.seouleconews.com/news/articleView.html?idxno=95162",
-  "https://www.etoday.co.kr/news/view/2650961",
-  "https://www.yna.co.kr/view/AKR20261120110900008?input=1195m",
-  "https://www.econovill.com/news/articleView.html?idxno=757876",
-  "https://www.sentv.co.kr/article/view/sentv202611200154",
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50751",
-  "https://www.newsis.com/view/NISX20261120_0003876854",
   "https://www.mediapen.com/news/view/1138850",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732471",
   "https://www.gukjenews.com/news/articleView.html?idxno=3758362",
@@ -2999,18 +2990,18 @@
   "https://www.public25.com/news/articleView.html?idxno=58778",
   "https://www.dailysecu.com/news/articleView.html?idxno=209646",
   "https://biz.heraldcorp.com/article/10944624",
-  "https://www.thisisgame.com/articles/433094"
+  "https://www.thisisgame.com/articles/433094",
+  "https://www.fnnews.com/news/202611210844105367",
+  "https://www.donga.com/news/Economy/article/all/20261120/135043948/2",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6867461_36967.html",
+  "https://www.tokenpost.kr/news/cryptocurrency/442015",
+  "http://www.press9.kr/news/articleView.html?idxno=86755",
+  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525419",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885746",
+  "https://www.ddaily.co.kr/page/view/2026112016070672117",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=140409"
  ],
  "seen_titles": [
-  "[IT소식]라이너,‘제1회스콜라연구공모전’개최外",
-  "PHP,'치명적결함'7개더발견···AI가찾아냈다",
-  "日소프트뱅크,장중16%폭락…아시아증시매도세주도",
-  "권오현“제조업경쟁력키울적기…고용·노동시장유연성높여야”",
-  "“엔비디아불안이기회”…ASIC매출70%넘는다",
-  "미중정상,'젠슨황스캔들'침묵…기자질문엔\"무례\"경고",
-  "KISA,AI로악성문자5억건·스팸전화1200만건차단",
-  "창업자재판에'잃어버린3년'…카카오,AI로판뒤집는다",
-  "“AI믿고처방약끊었다가”…2명중1명부작용겪었다",
   "[취재수첩]해커를느긋하게만든우리의'보안부채'",
   "'AG금메달'여자핸드볼,아시아선수권정상탈환위해출국",
   "시중은행해킹피해속출,인뱅은무사…\"영업압박이보안구멍키워\"",
@@ -6001,7 +5992,16 @@
   "[부고]유창섭씨(KTENA제작부장)모친상",
   "[단독]랜섬웨어조직에베레스트,에이비엘바이오해킹주장…실제유...",
   "젠슨황낙마이유는불륜아닌거짓말?…폭언의혹까지확산",
-  "[지스타B2B]\"게임사자체AI와결다르다\"…애피어의고가치유저공략..."
+  "[지스타B2B]\"게임사자체AI와결다르다\"…애피어의고가치유저공략...",
+  "\"이선수없었으면우승도없다,1억500만원에V9을샀다\"…8억구원왕...",
+  "“자동차회사가왜예술가에게투자하냐고요?”…현대차노규승상무의...",
+  "트럼프\"데이터센터해외건설시세금폭탄\"",
+  "비트코인,2022년약세장재현하나…추가하락가능성경고",
+  "현대차,美로보택시·韓자율주행생태계공략…기술내재화속도",
+  "[전자투표의민낯④]블록체인만으론부족하다…'내표'끝까지검증할...",
+  "SKT,성수서AI추억결산…국립박물관유물로연말장식",
+  "치명적자바취약점에AI해킹까지…국내외연쇄침해'비상'",
+  "앤트로픽아모데이\"AI로100년과학발전10년으로\"…기술가속과안전..."
  ],
  "recent_sigs": [
   [
@@ -6495,9 +6495,21 @@
   [
    "2026-11-21T11:54:17.558168+09:00",
    "불만 직원들에게 전부터 20여년 위협 젠슨 이어져 폭언 제기"
+  ],
+  [
+   "2026-11-21T12:02:16.018831+09:00",
+   "연말 국립박물관 결산 유물로 장식 성수서 ~SKT 추억"
+  ],
+  [
+   "2026-11-21T12:02:16.018831+09:00",
+   "아모데이 발전 앤트로픽 과학 가속과 100년 기술 AI로 안전 10년으로"
+  ],
+  [
+   "2026-11-21T12:02:16.018831+09:00",
+   "취약점에 연쇄 비상 치명적 국내외 침해 해킹까지 자바"
   ]
  ],
- "last_run": "2026-11-21T12:00:56.519086+09:00",
+ "last_run": "2026-11-21T12:02:39.230954+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
