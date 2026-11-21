@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026112002326",
-  "https://www.betanews.net/article/view/beta202611200078",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261120151826yXZ",
   "https://www.edaily.co.kr/News/Read?newsId=03306246645647688&mediaCodeNo=257",
   "https://www.lawissue.co.kr/view.php?ud=202611201518461714204ead0791_12",
   "https://www.m-i.kr/news/articleView.html?idxno=2021485",
@@ -2999,12 +2996,12 @@
   "https://zdnet.co.kr/view/?no=20261121112741",
   "https://zdnet.co.kr/view/?no=20261121124933",
   "https://zdnet.co.kr/view/?no=20261121114119",
-  "https://zdnet.co.kr/view/?no=20261121122920"
+  "https://zdnet.co.kr/view/?no=20261121122920",
+  "https://www.getnews.co.kr/news/articleView.html?idxno=887386",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719130",
+  "https://www.joongang.co.kr/article/25480693"
  ],
  "seen_titles": [
-  "[종합]노란우산가입자개인정보피해36.2만명으로확대…조사결과...",
-  "[네이버클라우드인사전망]김유원체제4년…국방·보안AI책임자재...",
-  "美규제에…中문샷AI,엔비디아첨단칩확보차질",
   "[26드래프트]‘대학최고스코어러’중앙대고찬유,전체3순위로SK유...",
   "센스톤,美텍사스수도시설OT보안프로젝트참여",
   "KT,LG전자와양자통신으로이미지·문자전송성공",
@@ -6001,7 +5998,10 @@
   "트럼프,커스틴데이비스국가사이버국장지명",
   "프랑스총리\"사이버위협,전례없는수준\"",
   "도이체뱅크,APT10공격에IT정보유출의심",
-  "FBI,전국범죄정보DB해킹정황조사착수"
+  "FBI,전국범죄정보DB해킹정황조사착수",
+  "뉴욕증시,AIㆍ반도체중심기술주약세에하락...엔비디아,'젠슨황...",
+  "이대통령,울산AI데이터센터현장방문…“글로벌투자마중물기대...",
+  "李대통령,울산SKAI데이터센터방문…“국제경쟁서속도가생명”"
  ],
  "recent_sigs": [
   [
@@ -6369,7 +6369,7 @@
    "다크웹서 정보 등장 한전 이용자 게시물 확보"
   ]
  ],
- "last_run": "2026-11-21T13:52:36.220263+09:00",
+ "last_run": "2026-11-21T13:54:33.413884+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
