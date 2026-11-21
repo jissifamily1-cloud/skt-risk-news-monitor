@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261120001037",
   "https://www.newspim.com/news/view/20261120001039",
   "https://www.newspim.com/news/view/20261120001031",
   "https://www.newspim.com/news/view/20261120001030",
@@ -2999,10 +2998,10 @@
   "https://www.yna.co.kr/view/AKR20261121030200008?input=1195m",
   "https://www.koreatimes.com/article/11632381",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=194887",
-  "https://www.yna.co.kr/view/AKR20261120131200017?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261120131200017?input=1195m",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220001&t=NN"
  ],
  "seen_titles": [
-  "삼성전자,전영현·노태문‘투톱유지’…메모리황상준·모바일최원...",
   "컬리,큐레이터1만699명개인정보유출…일부주민번호·계좌번호도포...",
   "컬리,큐레이터1만699명개인정보유출",
   "화이트보물트리점등식참석한김대현차관과이부진위원장,정재헌...",
@@ -6001,7 +6000,8 @@
   "스페이스X때보다는'뚝'…서학개미,상장첫날앤트로픽2천200억매수",
   "미FBI범죄정보망에외부인침입…“농무부도해킹당해”(종합)",
   "[인공지능줌인]\"할머니도청소년도해킹할수있다\"…더빠르고,더쉬...",
-  "국내대학연쇄해킹에중국해킹커뮤니티연관AI도구흔적"
+  "국내대학연쇄해킹에중국해킹커뮤니티연관AI도구흔적",
+  "'검은월요일'될라개미들벌벌떠는데…골드만의'서늘한전망'"
  ],
  "recent_sigs": [
   [
@@ -6151,9 +6151,13 @@
   [
    "2026-11-22T06:18:15.591604+09:00",
    "중국 해킹에 연관 커뮤니티 도구 국내 연쇄 흔적 대학"
+  ],
+  [
+   "2026-11-22T06:28:16.545286+09:00",
+   "떠는데 골드만의 개미들 월요일 검은 서늘한 전망 될라 벌벌"
   ]
  ],
- "last_run": "2026-11-22T06:26:34.652124+09:00",
+ "last_run": "2026-11-22T06:28:35.478743+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
