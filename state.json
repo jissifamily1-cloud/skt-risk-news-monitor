@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://nownews.seoul.co.kr/news/newsView.php?id=20261120601005&wlog_tag3=naver",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300383",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=320816",
-  "https://www.hidomin.com/news/articleView.html?idxno=730281",
   "https://www.widedaily.com/news/articleView.html?idxno=304299",
   "https://biz.sbs.co.kr/article_hub/20000347761?division=NAVER",
   "http://www.e2news.com/news/articleView.html?idxno=336330",
@@ -2999,13 +2995,13 @@
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=147334",
   "https://www.viewsnnews.com/article?q=239848",
   "https://www.bntnews.co.kr/article/view/bnt202611210100",
-  "https://www.gokorea.kr/news/articleView.html?idxno=886682"
+  "https://www.gokorea.kr/news/articleView.html?idxno=886682",
+  "http://www.newskr.kr/news/articleView.html?idxno=108195",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717235",
+  "https://www.jemin.com/news/articleView.html?idxno=847963",
+  "https://www.newstnt.com/news/articleView.html?idxno=729612"
  ],
  "seen_titles": [
-  "AMD발악재에아시아증시'검은금요일'…동반하락세",
-  "팔머럭키“중국은젠슨황퇴진원해”…H20060만개근거제시",
-  "KISA,'2026스팸데이터개방성과공유회'개최",
-  "에이수스코리아,RTX스파크기반'프로아트GR1X'출시",
   "\"AI가뚫고양자도막는다\"…성신여대,국내정보보호학술대회서우수...",
   "센시스,금융·공공기관대상‘PHP2Shell’무상점검실시…엔큐리티...",
   "삼성전자,AI거품론우려일축...\"네오클라우드시장비중8%불과\"",
@@ -6001,7 +5997,11 @@
   "美증권위,엔비디아회계처리방식조사",
   "'AI거품'본격파열,엔비디아14%폭락",
   "금시세·금값21일",
-  "AI가바꾼세상:금융해킹에서시험부정행위까지,당신의개인정보는..."
+  "AI가바꾼세상:금융해킹에서시험부정행위까지,당신의개인정보는...",
+  "월가대폭락에한국증시초비상…'검은월요일'오나",
+  "[TechInsight]대마불사AI기업은없다",
+  "스페이스X주가7.5%급락…AI반도체투자에금융부담확대",
+  "KT·LG전자,양자직접통신QSDC시스템구현…이미지·문자전송·복원성..."
  ],
  "recent_sigs": [
   [
@@ -6441,7 +6441,7 @@
    "시험 금융 세상 AI가 당신의 개인정보는 해킹에서 바꾼 부정행위까지"
   ]
  ],
- "last_run": "2026-11-21T09:20:50.587692+09:00",
+ "last_run": "2026-11-21T09:22:30.227101+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
