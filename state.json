@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoulfn.com/news/articleView.html?idxno=643505",
-  "https://www.newspim.com/news/view/20261120000891",
-  "http://www.osen.co.kr/article/G1112912806",
   "https://dealsite.co.kr/articles/173214",
   "https://www.smartbizn.com/news/articleView.html?idxno=160149",
   "https://hbnpress.com/news/view/1065597377065690",
@@ -2999,12 +2996,12 @@
   "https://www.g-enews.com/view.php?ud=202611211955035906e7e8286d56_1",
   "https://www.the-today.com/news/articleView.html?idxno=93915",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232197",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1544574"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1544574",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3759123",
+  "https://www.hankyung.com/article/202611211559i",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=302342"
  ],
  "seen_titles": [
-  "'검은금요일'코스피4800선마감⋯10개월만최저치",
-  "앤트로픽이짚은AI병목지도…GPU넘어전력·냉각·광통신인프라로",
-  "5%급락한코스피10개월만에최저…시총4000조붕괴[시황종합]",
   "[국제금융브리핑]미중러정상‘평화’공동성명…S&P5002%급락·12월...",
   "韓증시'검은금요일'…코스피사이드카5%대대폭락,4900선도붕괴",
   "코스피·코스닥동반매도사이드카…‘검은금요일’에증시패닉(종합...",
@@ -6001,7 +5998,10 @@
   "앤스로픽상장직후급락에미증시투매…닛케이연내5만엔경고",
   "COP31폐막연기…핵심의제이견에'밤샘협상'",
   "트럼프\"미중러정상,한반도문제논의\"…젠슨황복귀촉구",
-  "앤트로픽,상장이틀만에폭락…AI거품터지나"
+  "앤트로픽,상장이틀만에폭락…AI거품터지나",
+  "추경호대구광역시장,대구경북청년들과행정통합·지역발전논의...7...",
+  "AI버블붕괴신호탄인가,숨고르기인가…유동성한계부딪힌미국증...",
+  "AWS이어엔비디아·오픈AI까지손잡나…SK,신설법인앞세워GW급AI공..."
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,13 @@
   [
    "2026-11-21T20:02:16.467434+09:00",
    "급락에 증시 연내 5만엔 닛케이 투매 상장 경고 직후"
+  ],
+  [
+   "2026-11-21T20:10:28.526605+09:00",
+   "앞세워 오픈AI까지 신설법인 GW급 이어 손잡나 AWS SK"
   ]
  ],
- "last_run": "2026-11-21T20:08:28.605828+09:00",
+ "last_run": "2026-11-21T20:10:45.085152+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
