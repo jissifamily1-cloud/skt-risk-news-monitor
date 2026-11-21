@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855962&plink=ORI&cooper=NAVER",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8718496",
-  "https://www.fnnews.com/news/202611201512230373",
-  "https://www.hankookilbo.com/news/article/A2026112009590003183?did=NA",
-  "https://www.insight.co.kr/news/582941",
   "http://www.metroseoul.co.kr/article/20261120500178",
   "https://www.chosun.com/sports/basketball/2026/11/20/LG466ILRR5G7NIE3UQP6YKGJAI/",
   "http://www.osen.co.kr/article/G1112912755",
@@ -2999,14 +2994,14 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3759036",
   "https://www.chosun.com/economy/real_estate/2026/11/21/LI5ICO4QQBFGHJ6EKJWZVZCIGA/",
   "https://www.chosun.com/politics/politics_general/2026/11/21/T4XLJFK2MRG5ZK73GKO2T6AMVI/",
-  "https://www.sentv.co.kr/article/view/sentv202611210017"
+  "https://www.sentv.co.kr/article/view/sentv202611210017",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885767",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963841",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261121135736Cz2",
+  "https://www.edaily.co.kr/News/Read?newsId=02004086645648016&mediaCodeNo=257",
+  "https://www.hani.co.kr/arti/international/international_general/1288432.html"
  ],
  "seen_titles": [
-  "SK텔레콤,T팩토리성수서연말전시선보여…AI기억결산·화이트보...",
-  "팩트체크사업에서인건비과다산정등으로방통위가수사요청한사회...",
-  "이용우부여군수,리더십경영부문수상…민선9기소통행정주목",
-  "우리자산운용\"우리미국단기채공모주펀드,앤트로픽IPO물량배정\"",
-  "에이수스,엔비디아RTXSpark기반'ProArtGR1X'미니PC출시",
   "트럼프,'젠슨황스캔들'직전엔비디아주식단타매매",
   "엔스로픽상장도못막은日증시…닛케이장중3000엔폭락",
   "TCL,성수동팝업서미니LED기술·게이밍제품체험공간운영",
@@ -6001,21 +5996,14 @@
   "황인호동구청장,공정률80%천동중찾아…\"개교지원빈틈없이\"",
   "삼전닉스더떨어진다?삼전7만,하닉20만원전망전문가“폭락,시작...",
   "李울산AI데이터센터건설현장방문…“인력부족문제정부에서고...",
-  "앤트로픽,상장이틀째8.5%하락마감…장중공모가'근접'"
+  "앤트로픽,상장이틀째8.5%하락마감…장중공모가'근접'",
+  "[지스타ON_AIR]\"돈쓰는강함은없다\"…1억명뚫은강호의법칙",
+  "트럼프,젠슨황복귀촉구…\"잘못된선택을내린좋은사람\"",
+  "젠슨황,불륜보다더한문제따로…\"직원들에'낙태'폭언까지\"",
+  "'6만달러'붕괴된비트코인,5만5000달러대까지하락",
+  "FBI범죄정보망까지해킹당한미국…국가안보국도접속장애"
  ],
  "recent_sigs": [
-  [
-   "2026-11-21T07:58:15.752204+09:00",
-   "국가대표 공개 3팀 추계학술대회 헬스케어 디지털헬스학회 전략"
-  ],
-  [
-   "2026-11-21T07:58:15.752204+09:00",
-   "엔비디아가 언론 실리콘밸리 중앙은행 은행 AMD는 이면"
-  ],
-  [
-   "2026-11-21T08:00:40.302371+09:00",
-   "유럽 해킹까지 몰래 안경 사지 당국 촬영에 마라"
-  ],
   [
    "2026-11-21T08:02:17.294981+09:00",
    "11월 2가지 할인 문화 4주 로밍 마치고 ~SKT 수능"
@@ -6367,9 +6355,21 @@
   [
    "2026-11-21T13:50:33.686066+09:00",
    "다크웹서 정보 등장 한전 이용자 게시물 확보"
+  ],
+  [
+   "2026-11-21T14:00:42.382509+09:00",
+   "6만달러 붕괴된 비트코인 하락 5만5000달러대까지"
+  ],
+  [
+   "2026-11-21T14:00:42.382509+09:00",
+   "낙태 폭언까지 젠슨 불륜보다 직원들에 더한 따로 문제"
+  ],
+  [
+   "2026-11-21T14:00:42.382509+09:00",
+   "범죄정보망까지 당한 FBI 미국 접속 국가안보국도 장애"
   ]
  ],
- "last_run": "2026-11-21T13:58:31.183929+09:00",
+ "last_run": "2026-11-21T14:01:03.188325+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
