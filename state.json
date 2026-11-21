@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3758245",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506292",
-  "https://www.ajunews.com/view/20261118105635637",
-  "https://www.mk.co.kr/article/12214471",
-  "http://www.4th.kr/news/articleView.html?idxno=2122288",
-  "https://www.maniareport.com/view.php?ud=202611201125352107dad9f33a29_19",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3758203",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3758214",
   "https://www.gukjenews.com/news/articleView.html?idxno=3758205",
   "https://www.polinews.co.kr/news/articleView.html?idxno=748834",
   "https://economist.co.kr/article/view/ecn202611200028",
@@ -2999,17 +2991,17 @@
   "http://coinreaders.com/272174",
   "https://www.sisajournal-e.com/news/articleView.html?idxno=425187",
   "http://coinreaders.com/272172",
-  "https://www.busan.com/view/busan/view.php?code=2026111710142219568"
+  "https://www.busan.com/view/busan/view.php?code=2026111710142219568",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445758",
+  "https://www.s-journal.co.kr/news/articleView.html?idxno=45485",
+  "http://www.osen.co.kr/article/G1112913046",
+  "https://www.greened.kr/news/articleView.html?idxno=355227",
+  "https://magazine.hankyung.com/business/article/202611211187b",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147318",
+  "https://www.tfmedia.co.kr/news/article.html?no=209067",
+  "https://www.etnews.com/20261120000205"
  ],
  "seen_titles": [
-  "[경제읽기]앤트로픽상장흥행에도투심불안…코스피하락",
-  "AMD,중국제재기업거래의혹에8%↓",
-  "'안정속변화'택한이재용,삼성전자반도체기술통전면배치",
-  "[젠슨황네트워크-②]320억달러약정,황이후가문제다",
-  "[젠슨황네트워크-③]너무가까웠던중국",
-  "[젠슨황네트워크-①]세상의모든길은그에게로통했다",
-  "엔비디아스캔들후폭풍…中AI굴기에'직격탄',딥시크·알리바바비상",
-  "백악관,잇따른전산망마비에사이버보안책임자교체",
   "한중일융합예술포럼‘trulyseeyou’마무리…특별전12월12일까지",
   "[사이드B]젠슨황\"아내를배신\"…회장님들의사과문",
   "젠슨황불륜인정…이혼하면재산분할얼마나할까?[더머니이스트-...",
@@ -6001,7 +5993,15 @@
   "나스닥올해상승분날아갔다…반도체지수‘-10.73%’",
   "알뜰폰규제법잇단발의···통신3사자회사겨냥",
   "ANTX사도주주는아니다…쿠코인앤스로픽토큰상장",
-  "AI로만수능부정가능할까?[논설위원의뉴스요리]"
+  "AI로만수능부정가능할까?[논설위원의뉴스요리]",
+  "[젠슨황네트워크-④]한국의깐부들은어쩌나",
+  "[TheCeo-Verse]'통신의경계를넘어AI플랫폼으로…'18조원투자승부...",
+  "\"3대3전용선수라는말많이들었다\"금메달따고도의심받았던이주영...",
+  "[지스타2026현장]하루만에만든게임,직접해보니…AI가바꾼게임...",
+  "“확실한위험회피”…뉴욕증시3대지수일제히급락",
+  "[위클리PICK3]엔비디아3Q사상최대실적부터삼성전자2027사장단인...",
+  "[김우일의세상돋보기]“사내결혼OK,사내불륜NO”…故김우중회장...",
+  "[ET톡]공공기관해킹사전예방이먼저"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,21 @@
   [
    "2026-11-21T09:00:48.955806+09:00",
    "수능 AI로만 부정 가능할까"
+  ],
+  [
+   "2026-11-21T09:02:16.070969+09:00",
+   "사장단 삼성전자 사상 3Q 실적부터"
+  ],
+  [
+   "2026-11-21T09:02:16.070969+09:00",
+   "사내결혼 회장 김우중 OK 사내불륜 NO"
+  ],
+  [
+   "2026-11-21T09:02:16.070969+09:00",
+   "예방이 공공기관 사전 먼저"
   ]
  ],
- "last_run": "2026-11-21T09:01:10.504725+09:00",
+ "last_run": "2026-11-21T09:02:37.261735+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
