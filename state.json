@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dongascience.com/news/view/80993",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452549",
-  "https://www.hellot.net/news/article.html?no=116482",
   "https://www.ytn.co.kr/_ln/0104_202611201744346548",
   "https://www.mk.co.kr/article/12214884",
   "http://www.rookie.co.kr/news/articleView.html?idxno=130787",
@@ -2999,12 +2996,12 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719321",
   "http://coinreaders.com/272338",
   "https://www.edaily.co.kr/News/Read?newsId=01180806645648344&mediaCodeNo=257",
-  "http://coinreaders.com/272335"
+  "http://coinreaders.com/272335",
+  "http://www.popcornnews.net/news/articleView.html?idxno=140994",
+  "https://www.munhwa.com/article/11633046",
+  "https://www.hankyung.com/article/202611200944i"
  ],
  "seen_titles": [
-  "‘아시안게임金’이동근,전체1순위로수원kt행…KBL신인30명프로...",
-  "'검은금요일'코스피5.2%급락,5천선붕괴",
-  "컬리,외부해킹에개인정보유출···김슬아대표사과·피해전액보...",
   "CJENM-LG헬로비전갈등결국법정으로…채널송출중단에가처분",
   "정상외교'슈퍼위크'…CPTPP만빠졌다['CPTPP'문밖의한국①]",
   "[공식발표]'이정현·허훈·변준형부상OUT'男농구대표팀,엔트리대...",
@@ -6001,7 +5998,10 @@
   "NYT“AI발전에향후1∼2년특히위험”",
   "[AI라이프]애플도‘기기조종AI’개발…채용공고올렸다지웠다",
   "젠슨황스캔들,형사처벌로번지나…캘리포니아\"민·형사다볼것\"",
-  "[AI예측]엔비디아14%급락…‘거품붕괴’61%,5%p↑"
+  "[AI예측]엔비디아14%급락…‘거품붕괴’61%,5%p↑",
+  "\"한일산학연계플랫폼구축하자\"...최태원SK그룹회장,도쿄포럼서'...",
+  "엔비디아이어AMD도?…‘중국리스크’美제재기업에기술유출의혹",
+  "“공들여만든에이전트가기밀퍼준다”...‘AI해킹’시대달라진보..."
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,17 @@
   [
    "2026-11-22T08:30:32.718051+09:00",
    "급락 붕괴 거품"
+  ],
+  [
+   "2026-11-22T08:32:15.057495+09:00",
+   "AMD도 이어 의혹 기술유출 제재기업에 중국리스크"
+  ],
+  [
+   "2026-11-22T08:32:15.057495+09:00",
+   "기밀 만든 에이전트가 시대 달라진 퍼준다 들여"
   ]
  ],
- "last_run": "2026-11-22T08:30:54.012838+09:00",
+ "last_run": "2026-11-22T08:32:37.212260+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
