@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200534",
-  "https://www.newsq.co.kr/news/articleView.html?idxno=500985",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=117104",
-  "https://news.jtbc.co.kr/article/NB12329050?influxDiv=NAVER",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3758385",
   "https://www.hankyung.com/article/2026112002326",
   "https://www.betanews.net/article/view/beta202611200078",
   "http://www.yonhapnewstv.co.kr/news/AKR20261120151826yXZ",
@@ -2999,14 +2994,14 @@
   "https://www.mt.co.kr/world/2026/11/21/2026112113330177820",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856931&plink=ORI&cooper=NAVER",
   "https://www.mhj21.com/news/articleView.html?idxno=254938",
-  "https://zdnet.co.kr/view/?no=20261121133800"
+  "https://zdnet.co.kr/view/?no=20261121133800",
+  "https://www.mk.co.kr/article/12215239",
+  "https://zdnet.co.kr/view/?no=20261121112741",
+  "https://zdnet.co.kr/view/?no=20261121124933",
+  "https://zdnet.co.kr/view/?no=20261121114119",
+  "https://zdnet.co.kr/view/?no=20261121122920"
  ],
  "seen_titles": [
-  "브리즘,오픈이어스마트글라스‘인사이트’공개…성수서5종체험...",
-  "SK증권,말로종목찾는AI검색·차트분석서비스출시",
-  "마이렌,핀란드SLUSH·스페인SCEWC연계MOU8건체결",
-  "뉴욕증시,AIㆍ반도체중심기술주약세에하락...엔비디아,'젠슨황...",
-  "美앤트로픽상장에AI자금이동본격화...삼성전자·SK하이닉스도영향...",
   "[종합]노란우산가입자개인정보피해36.2만명으로확대…조사결과...",
   "[네이버클라우드인사전망]김유원체제4년…국방·보안AI책임자재...",
   "美규제에…中문샷AI,엔비디아첨단칩확보차질",
@@ -6001,7 +5996,12 @@
   "美FBI도털렸다…전국범죄정보데이터해킹정황",
   "FBI범죄정보망도해킹의혹…미수사당국조사착수",
   "[지스타2026]마왕토벌부터코스어대결까지…'크랙'관람객홀렸다",
-  "다크웹서\"한전이용자정보확보\"게시물등장"
+  "다크웹서\"한전이용자정보확보\"게시물등장",
+  "서울도심한복판에서지금바로연차낼수있냐는질문에돌아온답...",
+  "트럼프,커스틴데이비스국가사이버국장지명",
+  "프랑스총리\"사이버위협,전례없는수준\"",
+  "도이체뱅크,APT10공격에IT정보유출의심",
+  "FBI,전국범죄정보DB해킹정황조사착수"
  ],
  "recent_sigs": [
   [
@@ -6369,7 +6369,7 @@
    "다크웹서 정보 등장 한전 이용자 게시물 확보"
   ]
  ],
- "last_run": "2026-11-21T13:50:49.799137+09:00",
+ "last_run": "2026-11-21T13:52:36.220263+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
