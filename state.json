@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261120000814",
-  "https://www.newspim.com/news/view/20261120000812",
   "https://www.newspim.com/news/view/20261120000809",
   "https://www.newspim.com/news/view/20261120000808",
   "https://www.newspim.com/news/view/20261120000806",
@@ -2999,11 +2997,11 @@
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732560",
   "https://www.imaeil.com/page/view/2026112115344701450",
   "https://www.tokenpost.kr/news/breaking/442113",
-  "https://economist.co.kr/article/view/ecn202611210009"
+  "https://economist.co.kr/article/view/ecn202611210009",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232157",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/21/2026112190071.html"
  ],
  "seen_titles": [
-  "AI로'올해의나'결산…SKT,T팩토리성수서연말전시",
-  "SK하이닉스,키옥시아CB주식전환검토…최대주주통해의결권확보",
   "리사수AMDCEO,엔비디아경영진교체에신중론…AI사업확대에무게",
   "“10년안에암·치매정복”…앤스로픽공언에과학계는“글쎄”",
   "'Lovewinsall'무대선보이는시리나",
@@ -6001,7 +5999,9 @@
   "李대통령,울산AI데이터센터점검…\"속도가생명\"",
   "넥타이대신안전모쓴李대통령…SK엔\"특별히감사\"",
   "엔비디아하루14.01%급락…한달반새시총3594조원증발",
-  "李대통령\"지방중심AI투자로균형발전\"…울산AI데이터센터건설현..."
+  "李대통령\"지방중심AI투자로균형발전\"…울산AI데이터센터건설현...",
+  "\"AI가수학최대난제리만가설증명\"주장…치열한검증예고",
+  "김구라\"젠슨황,느낌좋지않았다…일반적인외도아냐\""
  ],
  "recent_sigs": [
   [
@@ -6291,9 +6291,13 @@
   [
    "2026-11-21T15:38:17.342347+09:00",
    "대신 SK엔 감사 안전모 대통령 특별히 넥타이"
+  ],
+  [
+   "2026-11-21T15:42:17.224681+09:00",
+   "않았다 느낌 일반적인 김구라 좋지 외도 젠슨 아냐"
   ]
  ],
- "last_run": "2026-11-21T15:40:40.763852+09:00",
+ "last_run": "2026-11-21T15:42:37.755137+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
