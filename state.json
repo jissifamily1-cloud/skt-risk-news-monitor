@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963842",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/21/2026112150050.html",
-  "https://news.jtbc.co.kr/article/NB12329178?influxDiv=NAVER",
-  "http://www.joseilbo.com/news/news_read.php?uid=580151&class=32",
-  "https://www.yna.co.kr/view/AKR20261121034900017?input=1195m",
-  "https://www.mt.co.kr/world/2026/11/21/2026112113493960999",
-  "https://www.edaily.co.kr/News/Read?newsId=02023766645648016&mediaCodeNo=257",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732558",
-  "https://www.donga.com/news/Economy/article/all/20261121/135061314/1",
   "https://www.gukjenews.com/news/articleView.html?idxno=3759040",
   "https://www.gukjenews.com/news/articleView.html?idxno=3759043",
   "https://www.m-economynews.com/news/article.html?no=73415",
@@ -2999,18 +2990,18 @@
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68210",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=305553",
   "https://www.edaily.co.kr/News/Read?newsId=01387446645648672&mediaCodeNo=257",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506819"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506819",
+  "https://www.koreajoongangdaily.com/opinion/global-ai-industry-faces-nvidia-taper-tantrum/12984857",
+  "https://www.kbmaeil.com/article/20261123500041",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=410123",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445927",
+  "https://www.newspim.com/news/view/20261123000022",
+  "https://news.jtbc.co.kr/article/NB12329053?influxDiv=NAVER",
+  "http://www.wsobi.com/news/articleView.html?idxno=322280",
+  "https://view.asiae.co.kr/article/2026112308185846850",
+  "https://www.viva100.com/article/20261123500055"
  ],
  "seen_titles": [
-  "AI보안성장기대에도차익실현…안랩·드림시큐리티'휘청'",
-  "나스닥5.3%폭락…‘AI거품’공포에다우·S&P500도조정진입",
-  "울산AI데이터센터건설현장찾은이재명대통령“세계경쟁서속도가...",
-  "범죄자잡는FBI가해킹당했나…핵심수사정보망침입정황",
-  "마이크론·브로드컴·TSMC동반급락…삼성전자·SK하이닉스에쏠리는'...",
-  "FBI범죄정보망도외부침입정황…해커소행의심",
-  "이대통령,울산AI데이터센터현장에서\"세계경쟁서속도가생명\"",
-  "손정의,‘1조달러베팅’으로SK하이닉스인수타진했었다",
-  "이대통령,울산SKAI데이터센터방문…\"AI고속도로가AI대전환열것...",
   "“경부고속도로처럼AI길열것”…李대통령,울산SKAI데이터센터방...",
   "SK,울산서AI데이터센터15GW구상첫발…성패가를변수는",
   "\"네엄마가널낙태했어야\"…젠슨황폭언,20년동안엔비디아문화",
@@ -6001,7 +5992,16 @@
   "[증시전망대]'AI투매'공포번진증시…정부,18년만의증안펀드카드...",
   "[굿모닝!글로벌뉴욕증시]앤틀로픽차익매물출회와엔비디아회계...",
   "이스트시큐리티,앤스로픽사이버검증프로그램‘CVP’합류",
-  "유통량31.2%가양자해킹사정권…비트코인지갑600만개공개키노출..."
+  "유통량31.2%가양자해킹사정권…비트코인지갑600만개공개키노출...",
+  "GlobalAIindustryfaces'Nvidiatapertantrum'",
+  "美반도체주급락…코스피야간선물7%하락",
+  "모레,SC26서자기개선형AI추론프레임워크'타이드'공개",
+  "[증시AI충격파]키움증권\"코스피,최악시나리오대비…저점4,200선\"",
+  "[AIMY증시전망]코스피,美반도체주폭락에약세전망…정부증안펀...",
+  "'역대흥행'앤트로픽상장…\"직원평균680억,창업자30조부자로\"",
+  "SK-SKT,최태원회장도쿄포럼2026참가...에어,무신사'무진장'서이벤...",
+  "\"앨리스황처럼꾸미면50달러\"…뉴욕서열린'스파이닮은꼴대회'",
+  "엔비디아칩밀반입의혹,미·중무역전쟁재점화변수부상"
  ],
  "recent_sigs": [
   [
@@ -6519,9 +6519,13 @@
   [
    "2026-11-23T08:20:26.593457+09:00",
    "비트코인 노출 600만 지갑 공개 양자 유통량 사정권"
+  ],
+  [
+   "2026-11-23T08:22:15.041206+09:00",
+   "무역전쟁 재점화 의혹 밀반입 변수 부상"
   ]
  ],
- "last_run": "2026-11-23T08:20:50.175201+09:00",
+ "last_run": "2026-11-23T08:22:35.615210+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
