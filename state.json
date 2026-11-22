@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20117195",
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=95018",
-  "https://www.livebiz.today/news/articleView.html?idxno=206757",
-  "http://www.kjdaily.com/article.php?aid=1795223351693018227",
-  "https://www.kmib.co.kr/article/20261121500036",
-  "http://www.queen.co.kr/news/articleView.html?idxno=466687",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=418118",
   "https://www.tokenpost.kr/news/breaking/441957",
   "https://www.hidomin.com/news/articleView.html?idxno=730317",
   "https://www.edaily.co.kr/News/Read?newsId=01823686645648016&mediaCodeNo=257",
@@ -2999,16 +2992,16 @@
   "https://www.segye.com/newsView/20261122510781?OutUrl=naver",
   "https://www.mstoday.co.kr/news/articleView.html?idxno=200502",
   "https://www.yakup.com/news/index.html?cat=12&nid=335524",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000085425"
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000085425",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768750",
+  "https://www.etnews.com/20261121000021",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768570",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768742",
+  "https://www.news1.kr/industry/distribution/6361247",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768154",
+  "https://www.newstopkorea.com/ko-kr/articles/49227"
  ],
  "seen_titles": [
-  "옛회원정보까지줄줄이유출…기업들보안조직강화·투자수요확대",
-  "[현장]올리브영K색조전진기지'컬러그라운드홍대'...내취향찾는...",
-  "AI와우정·사랑까지나누는시대…인간주체성에대한고뇌",
-  "앤트로픽,상장이틀째8.5%급락…공모가까지위협",
-  "'12명중7명교체'마줄스호,월드컵분수령서위기넘을까",
-  "성성호수조망에19조투자호재까지…'더샵천안라크원'본격분양돌...",
-  "10개월만에최저치찍은코스피…나경원“국민들,계좌열기도두려워...",
   "[뉴욕증시주간결산]나스닥한주10%↓…AI주투매에S&P500·다우조정...",
   "[유경동의특허토커]獨로봇패권의뒷심,노이라로보틱스",
   "금시세(금값)약세",
@@ -6001,7 +5994,14 @@
   "“엔비디아칩中밀수망에앨리스황·캄보디아범죄조직얽혀“",
   "젠슨황퇴진에AI업계긴장…성장세는계속될까",
   "2025년웰니스경제7.5조弗..전년比8.9%↑",
-  "\"엔비디아AI칩중국밀반출배후인물은앨리스황의동업자리밍\""
+  "\"엔비디아AI칩중국밀반출배후인물은앨리스황의동업자리밍\"",
+  "[총수신년공약성적표⑦끝]허태수GS그룹회장,'AX·에너지전환'결...",
+  "앤트로픽연구원“AI클로드,수학최대난제리만가설증명”주장",
+  "삼성전자·SK하이닉스,中매출3배이상급증…매출증가율美크게앞...",
+  "[KB금융이재근시대㊦]'AI대전환·글로벌영토확장'으로초격차리딩...",
+  "쿠팡정보유출사건1년…'6247억과징금'형평성논란은여전",
+  "[데이터&뉴스]200대기업유동비율136%...롯데정밀화학·태광산업500%...",
+  "엔비디아실적발표하면'삼전닉스'주가오른다고?"
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,21 @@
   [
    "2026-11-23T06:10:24.986493+09:00",
    "앨리스 중국 황의 배후인물은 동업자 AI칩 리밍 밀반출"
+  ],
+  [
+   "2026-11-23T06:12:15.839096+09:00",
+   "사건 형평성 1년 여전 정보유출 쿠팡 과징금 논란은 6247억"
+  ],
+  [
+   "2026-11-23T06:12:15.839096+09:00",
+   "유동비율 기업 태광산업 200대 롯데정밀화학"
+  ],
+  [
+   "2026-11-23T06:12:15.839096+09:00",
+   "발표하면 주가 실적 삼전닉스 오른다고"
   ]
  ],
- "last_run": "2026-11-23T06:10:43.570764+09:00",
+ "last_run": "2026-11-23T06:12:39.779260+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
