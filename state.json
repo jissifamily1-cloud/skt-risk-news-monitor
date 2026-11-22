@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714815",
-  "https://zdnet.co.kr/view/?no=20261111145203",
-  "https://zdnet.co.kr/view/?no=20261111101009",
   "https://www.epnc.co.kr/news/articleView.html?idxno=409423",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=714139",
   "https://www.aitimes.com/news/articleView.html?idxno=217162",
@@ -2999,12 +2996,12 @@
   "https://www.mk.co.kr/article/12215685",
   "https://www.ajunews.com/view/20261122135055798",
   "https://www.mk.co.kr/article/12215693",
-  "https://www.mk.co.kr/article/12215689"
+  "https://www.mk.co.kr/article/12215689",
+  "https://www.hani.co.kr/arti/international/globaleconomy/1288516.html",
+  "https://www.hankyung.com/article/2026112225211",
+  "https://www.ajunews.com/view/20261122171448176"
  ],
  "seen_titles": [
-  "美,엔비디아AI칩‘우회사용’봉쇄⋯동남아등5개국수출통제",
-  "[팩플]캘리포니아주,오픈AI제소…“올해AI통제권잃은횟수만80번...",
-  "[월드이슈]“돌아와요,보스!”젠슨황복귀설‘솔솔’…과연가능...",
   "트럼프도복귀지지···젠슨황,'제2의올트먼'될까",
   "美캘리포니아,오픈AI상대소송…\"통제실패로공공에위협\"",
   "AMD리사수부터아내로리황까지…엔비디아차기CEO후보군",
@@ -6001,7 +5998,10 @@
   "美증시투매에코스피도'벌벌'…\"월요일이두렵다\"",
   "서학개미,이달美주식6조사들이고도앤트로픽엔2200억'선별베팅'",
   "\"AI쇼핑비서실수할라\"금융사머리맞댄다",
-  "\"닷컴버블붕괴직전과닮았다\""
+  "\"닷컴버블붕괴직전과닮았다\"",
+  "상장이틀만에앤트로픽‘147조원증발’…업계낙관에도시장‘불안...",
+  "AI호황떠받친'테크노달러'가흔들린다",
+  "10조원대엔비디아칩中밀반입의혹…캄보디아범죄조직도얽혀있나"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,13 @@
   [
    "2026-11-22T17:38:14.872204+09:00",
    "머리 AI쇼핑비서 맞댄다 실수할라 금융사"
+  ],
+  [
+   "2026-11-22T17:40:25.016291+09:00",
+   "10조원대 캄보디아 범죄조직도 의혹 밀반입 얽혀있나"
   ]
  ],
- "last_run": "2026-11-22T17:38:36.474994+09:00",
+ "last_run": "2026-11-22T17:40:45.579806+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
