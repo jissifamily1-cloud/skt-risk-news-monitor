@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://magazine.hankyung.com/business/article/202611211279b",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963836",
-  "https://www.tokenpost.kr/news/breaking/441985",
-  "http://www.newsprime.co.kr/news/article.html?no=755930",
   "https://www.bbc.com/korean/articles/cm0ev4vlv93no?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
   "https://www.hankyung.com/article/2026112112727",
   "https://www.kado.net/news/articleView.html?idxno=2086223",
@@ -2999,13 +2995,13 @@
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6867697_37012.html",
   "https://www.slist.kr/news/articleView.html?idxno=783839",
   "https://www.newsian.co.kr/news/articleView.html?idxno=101770",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194794"
+  "https://www.wikileaks-kr.org/news/articleView.html?idxno=194794",
+  "https://www.edaily.co.kr/News/Read?newsId=01243126645648672&mediaCodeNo=257",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8705",
+  "https://www.g-enews.com/view.php?ud=20261123064933234e250e8e188_1",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719545"
  ],
  "seen_titles": [
-  "“내가경고했잖아”…AI株폭락에금융시장패닉,‘빅쇼트’가옳았나...",
-  "AI가AI를만드는단계왔다…“시스템종료거부할수도”[김현지의wi...",
-  "NH-Amundi운용\"AI시장평가,현금창출력·AIforScience로이동\"",
-  "앤트로픽,상장이틀째8.5%급락…장중공모가턱밑추락",
   "\"167년수학난제AI가풀었다\"…앤트로픽發주장에'발칵'",
   "엔비디아급락에시장불안확산…방어주로자금이동",
   "삼성전자도결국멈췄다...중국'초비상'",
@@ -6001,7 +5997,11 @@
   "[와글와글]'앨리스황'닮은참가자들줄줄이등장",
   "CU,인터넷∙IPTV가입서비스개시....SK브로드밴드혜택",
   "[2027월가의선택④]AI쇼핑시대유망주는…월마트·웨이페어·비자...",
-  "[인공지능줌인]아시아에파고든중국AI'의존'으로까지굳어질까"
+  "[인공지능줌인]아시아에파고든중국AI'의존'으로까지굳어질까",
+  "[MUSTKNOW5]앤트로픽,상장이틀만에8.5%급락…월가는그래도‘매수...",
+  "[인사이트뉴스]엔비디아중국밀수망실체드러나나…앨리스황은'얼...",
+  "월가\"우량주헐값세일중\"vs\"구조적이탈신호\"…AI폭락장두고정...",
+  "구글계정해킹사태일파만파…두달가까이오리무중"
  ],
  "recent_sigs": [
   [
@@ -6259,9 +6259,17 @@
   [
    "2026-11-23T06:46:15.375116+09:00",
    "닮은 앨리스 등장 줄줄이 참가자들"
+  ],
+  [
+   "2026-11-23T06:56:20.601971+09:00",
+   "vs 월가 폭락장 세일 우량주 이탈 헐값 신호 구조적 두고"
+  ],
+  [
+   "2026-11-23T06:56:20.601971+09:00",
+   "사태 가까이 일파만파 오리무중 계정 구글"
   ]
  ],
- "last_run": "2026-11-23T06:54:29.407769+09:00",
+ "last_run": "2026-11-23T06:56:39.544431+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
