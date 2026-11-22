@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2315157",
-  "https://www.etoday.co.kr/news/view/2651211",
-  "https://www.ajunews.com/view/20261121163133087",
-  "https://www.aitimes.com/news/articleView.html?idxno=217648",
-  "https://www.tokenpost.kr/news/breaking/442137",
-  "https://www.yna.co.kr/view/AKR20261121041400009?input=1195m",
-  "https://m.sports.naver.com/basketball/article/065/0000305057",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083685",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561033",
   "https://www.thescoop.co.kr/news/articleView.html?idxno=312371",
@@ -2999,16 +2992,16 @@
   "http://www.ftoday.co.kr/news/articleView.html?idxno=370297",
   "https://www.chosun.com/economy/int_economy/2026/11/23/5GC2BBAFINGLHEBE47YMYF3TXM/",
   "https://www.globale.co.kr/news/articleView.html?idxno=41785",
-  "https://www.ytn.co.kr/_ln/0134_202611230831196422"
+  "https://www.ytn.co.kr/_ln/0134_202611230831196422",
+  "https://view.asiae.co.kr/article/2026112116192801624",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3759800",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445948",
+  "https://www.yna.co.kr/view/AKR20261123021000030?input=1195m",
+  "https://www.edaily.co.kr/News/Read?newsId=01492406645648672&mediaCodeNo=257",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445947",
+  "https://www.newspim.com/news/view/20261123000089"
  ],
  "seen_titles": [
-  "에이수스,로컬AI미니PC'프로아트GR1X'출시",
-  "시험제도의신뢰붕괴,땜방식처리로버틸수있을까",
-  "트루디♥이대은‘불꽃베이비’돌지나자…韓·美·日거친아빠는첫...",
-  "[KBL드림컵]'3P2개포함12점'KTAU12승리이끈김강희\"연습많이...",
-  "최태원\"한일기업·대학AI교육플랫폼만들자\"",
-  "[AI커닝의시대]②수능AI부정행위111건…이미지나간커닝은누가...",
-  "최태원\"AI시대대학,현재의시스템무시해야\"",
   "최태원\"AI시대,기존대학틀깨야\"…한일산학플랫폼구축제안",
   "최태원회장,한일기업·대학잇는'AI인재플랫폼'구축띄웠다",
   "구글,제미나이앱에GIF생성기능출시…오픈AI이어도입",
@@ -6001,7 +5994,14 @@
   "CU,SK브로드밴드와편의점서인터넷·IPTV가입서비스도입",
   "엔비디아반토막,나스닥20%추락…AI버블은이미터졌나",
   "엔비디아,차세대과학연산GPU'루빈HPC'공개···2028년출시",
-  "\"내연녀는얼굴마담일뿐\"...동남아범죄조직과손잡은中?[Y녹취록]"
+  "\"내연녀는얼굴마담일뿐\"...동남아범죄조직과손잡은中?[Y녹취록]",
+  "李대통령,AI전력·인력확보강조…\"AIDC·메모리수요더늘것\"(종합...",
+  "추경호대구시장,공동주택일조심의기준통일...정비사업도80%적용",
+  "[증시AI충격파]엔론사태떠올린증권가…대만식안정화교훈은",
+  "CU,인터넷·IPTV가입서비스…SK브로드밴드와협업",
+  "[마켓무버]뉴욕증시급락…엔비디아회계조사에AI투매확산",
+  "美재무장관\"엔비디아,칩中유출신속히해명해야\"",
+  "[AIMY뉴스]23일중국증시'中기술주급락에당국개입시동…반등동..."
  ],
  "recent_sigs": [
   [
@@ -6603,9 +6603,17 @@
   [
    "2026-11-23T08:54:15.604219+09:00",
    "손잡은 범죄조직과 내연녀는 얼굴마담일 동남아"
+  ],
+  [
+   "2026-11-23T08:56:16.077238+09:00",
+   "유출 신속히 재무장관 해명해야"
+  ],
+  [
+   "2026-11-23T08:56:16.077238+09:00",
+   "시동 23일 급락에 반등 당국 중국증시 기술주 개입"
   ]
  ],
- "last_run": "2026-11-23T08:54:41.858590+09:00",
+ "last_run": "2026-11-23T08:56:39.505118+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
