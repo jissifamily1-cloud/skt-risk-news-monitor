@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://vop.co.kr/A00001697698.html",
-  "https://www.newsis.com/view/NISI20261121_0021541199",
-  "https://www.newsis.com/view/NISI20261121_0021541200",
-  "https://www.esgeconomy.com/news/articleView.html?idxno=17495",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300417",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856906&plink=ORI&cooper=NAVER",
   "https://www.pennmike.com/news/articleView.html?idxno=132406",
   "http://www.rookie.co.kr/news/articleView.html?idxno=130837",
@@ -2999,14 +2994,14 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445912",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232318",
   "http://www.yonhapnewstv.co.kr/news/MYH20261123074201OIG",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611230009&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611230009&t=NN",
+  "http://kor.theasian.asia/archives/422720",
+  "https://www.newstopkorea.com/ko-kr/articles/49234",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008858180&plink=ORI&cooper=NAVER",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/23/2026112390060.html",
+  "https://www.dt.co.kr/article/12096601"
  ],
  "seen_titles": [
-  "논란의젠슨황,한국에또왔나했더니…'김민교'였다[MD★스타]",
-  "지슨주가72.83%급등…스튜디오드래곤·에스엠·한국화장품강세",
-  "“거짓말일삼았다”…젠슨황관련폭로연이어나와",
-  "서학개미,MS·SK하이닉스ADR매도우위",
-  "[이창근의헤디트]게임과전통문화,무엇을함께만들것인가",
   "\"낙마결정은스캔들아닌거짓말때문\"...1년간거짓해명",
   "AI·반도체투매에뉴욕증시급락나스닥5.3%",
   "SKAI데이터센터건설현장찾은이대통령",
@@ -6001,7 +5996,12 @@
   "NDF,1,345.20/1,345.60원…10.10원↑(재송)",
   "엔비디아중국밀수망에\"캄보디아범죄조직연루\"의혹제기",
   "트럼프\"이란,항상말만해\"…새해공격경고",
-  "월가는'검은금요일'이라고말하지않았다[마켓무버의국장힌트]"
+  "월가는'검은금요일'이라고말하지않았다[마켓무버의국장힌트]",
+  "[동북아정세브리핑]미·중·러정상회담이후에도동북아긴장지속...",
+  "[주간팩트체크]‘AI커닝비상’,‘AI커닝해외는?’,‘미인가국제...",
+  "아마존,이스라엘계AI스타트업'데카르트'10조원인수막바지",
+  "\"앨리스황,캄보디아범죄조직과도연루\"…中밀수망에역할",
+  "아마존,AI칩스타트업데카르트75억달러에인수임박"
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-11-23T07:44:16.441346+09:00",
    "말하지 이라고 검은 않았다 금요일 월가는"
+  ],
+  [
+   "2026-11-23T07:46:15.344302+09:00",
+   "인수 임박 아마존 데카르트 AI칩 75억달러에 스타트업"
   ]
  ],
- "last_run": "2026-11-23T07:44:37.115374+09:00",
+ "last_run": "2026-11-23T07:46:33.530426+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
