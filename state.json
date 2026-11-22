@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://mhnse.com/news/articleView.html?idxno=1700801",
-  "https://www.newscj.com/news/articleView.html?idxno=3450888",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394521",
-  "https://www.pennmike.com/news/articleView.html?idxno=132435",
-  "https://www.junggi.co.kr/news/articleView.html?idxno=38587",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611201535261420966",
-  "https://www.hani.co.kr/arti/international/international_general/1288436.html",
   "https://biz.heraldcorp.com/article/10944688",
   "https://www.newsis.com/view/NISX20261121_0003877698",
   "https://biz.sbs.co.kr/article_hub/20000347973?division=NAVER",
@@ -2999,16 +2992,16 @@
   "https://www.swtvnews.com/news/newsview.php?ncode=1065568677810340",
   "http://www.joseilbo.com/news/news_read.php?uid=580189&class=53",
   "https://www.datanet.co.kr/news/articleView.html?idxno=300413",
-  "https://zdnet.co.kr/view/?no=20261118165352"
+  "https://zdnet.co.kr/view/?no=20261118165352",
+  "https://www.kukinews.com/article/view/kuk202611230009",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445938",
+  "https://www.tokenpost.kr/news/insights/442607",
+  "https://www.newspim.com/news/view/20261123000044",
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101780",
+  "https://biz.chosun.com/stock/stock_general/2026/11/23/ML5QQPGQ45ETPGH5BDFVA67COE/",
+  "https://www.tokenpost.kr/news/economy/442609"
  ],
  "seen_titles": [
-  "[AI자산관리]카드번호없이AI가결제…그런데실패율42.8%",
-  "비트코인5만5,800달러추락…월요일코스피‘시험대’",
-  "통신사,양자·클라우드보안고도화경쟁'점화'",
-  "앤트로픽상장효과제한적…AI투자회의론지속",
-  "[여의도는지금]전화→PC→스마트폰…주식주문,다음은AI안경?",
-  "[월가톡톡]올트먼\"인간이AI의'리트리버'되는미래원치않아\"",
-  "김구라,'불륜의혹'젠슨황제대로저격…\"처음부터느낌안좋았다\"...",
   "트럼프\"젠슨황,두번째기회줘야\"…엔비디아는복귀일축",
   "'불륜스캔들'젠슨황복귀의사공식화…엔비디아이사회는'불가'",
   "[막전막후]증시와함께소멸된'뉴이재명동력'과퇴행의유혹",
@@ -6001,7 +5994,14 @@
   "‘크래시2’이민기X곽선영,수사중현행범체포(?)→나란히유치장수...",
   "'검은월요일'공포에떠는증시...18년만에증안펀드투입하나",
   "\"AI시대병목은데이터접근에있다\"",
-  "국산NPU상용시대열었다...리벨리온,SKT에'리벨'칩서버40대공급"
+  "국산NPU상용시대열었다...리벨리온,SKT에'리벨'칩서버40대공급",
+  "“美반도체폭락충격”…삼성전자·SK하이닉스프리마켓서6%안팎급...",
+  "[증시AI충격파]DS증권,1997년초와닮은美증시…\"긴축우려잦아들면...",
+  "[온체인주식선물]SK하이닉스,정규장종가보다5.59%할인",
+  "[특징주]삼전닉스,美반도체주폭락여파에프리마켓서6%급락",
+  "차기은행연합회장에박종복전SC제일은행장단독추천",
+  "“코스피최악엔4000까지”…유안타證,내년전망상단1만→7300대폭...",
+  "[국제금융브리핑]미10월근원PCE상승률3.2%전망...S&P500주간8.61..."
  ],
  "recent_sigs": [
   [
@@ -6553,7 +6553,7 @@
    "시대 데이터 있다 병목은 접근에"
   ]
  ],
- "last_run": "2026-11-23T08:32:34.690937+09:00",
+ "last_run": "2026-11-23T08:34:35.564665+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
