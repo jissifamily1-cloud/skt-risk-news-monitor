@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.4th.kr/news/articleView.html?idxno=2122370",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=89957",
-  "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525413",
-  "https://www.etoday.co.kr/news/view/2651099",
-  "http://news.lghellovision.net/news/articleView.html?idxno=563239",
   "https://www.newspim.com/news/view/20261120001095",
   "https://www.newspim.com/news/view/20261120001096",
   "https://www.newspim.com/news/view/20261120001097",
@@ -2999,14 +2994,14 @@
   "https://www.dt.co.kr/article/12096448",
   "https://www.chosun.com/economy/int_economy/2026/11/22/VEG4VZFW6FCABL3RY5ORCXT5GE/",
   "https://www.edaily.co.kr/News/Read?newsId=01233286645648344&mediaCodeNo=257",
-  "https://news.mtn.co.kr/article/2026112207444431069"
+  "https://news.mtn.co.kr/article/2026112207444431069",
+  "https://www.ytn.co.kr/_ln/0104_202611220901299851",
+  "https://www.ajunews.com/view/20261120170101455",
+  "http://www.newstomato.com/ReadNews.aspx?no=1321302&inflow=N",
+  "https://www.sidae.com/article/2026112208202829511",
+  "https://www.bntnews.co.kr/article/view/bnt202611220017"
  ],
  "seen_titles": [
-  "1순위신인이동근\"수비·리바운드자신…kt레전드되고싶다\"",
-  "바이낸스해킹연관주소,16분간19만7000ETH분산이체",
-  "[26드래프트]‘김선형키즈’고찬유,SK의속공에날개달아줄까?",
-  "수능끝났지만AI부정행위추적본격화…빅테크이용기록조사",
-  "SK증권,'AI조건검색·차트분석'서비스출시…HTS·MTS동시도입",
   "세계는지금생존가방을싼다!!!",
   "‘K-보물길’화이트보물트리점등식참석한이부진-김대현-정재헌[포...",
   "LG헬로비전,김지훈CEO신규선임",
@@ -6001,7 +5996,12 @@
   "“엔비디아칩,동남아암시장거쳐중국으로들어갔다”",
   "앤스로픽상장이던진2조달러짜리질문…AI는투자한만큼벌수있나",
   "LG유플러스,AI수익화승부수…LGCNS출신에게기업사업맡겼다",
-  "'자바포셸'비상에보안업계긴급대응...취약점점검부터해킹차단까..."
+  "'자바포셸'비상에보안업계긴급대응...취약점점검부터해킹차단까...",
+  "트럼프\"이란과영구적합의추구\"...부정선거언급하며음모론제기",
+  "CJENM,LG헬로비전채널송출중단에가처분신청",
+  "CJENM,채널송출중단금지가처분…LG헬로비전\"종료방침유지\"",
+  "최태원회장\"한일기업·대학,AI인재공동육성하자\"",
+  "금시세·금값22일"
  ],
  "recent_sigs": [
   [
@@ -6355,9 +6355,13 @@
   [
    "2026-11-22T09:04:16.471863+09:00",
    "차단까 대응 점검부터 긴급 보안업계 취약점 자바포셸 비상에"
+  ],
+  [
+   "2026-11-22T09:06:22.885241+09:00",
+   "금시세 금값 22일"
   ]
  ],
- "last_run": "2026-11-22T09:04:42.801237+09:00",
+ "last_run": "2026-11-22T09:06:39.206846+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
