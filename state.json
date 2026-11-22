@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.thefairnews.co.kr/news/articleView.html?idxno=95010",
-  "https://www.ytn.co.kr/_ln/0104_202611210400360984",
-  "https://www.ytn.co.kr/_ln/0104_202611210357468213",
-  "https://www.ytn.co.kr/_ln/0104_202611210351240356",
-  "https://www.hankyung.com/article/202611211034i",
   "https://www.wikitree.co.kr/articles/1176458",
   "https://www.tokenpost.kr/news/cryptocurrency/441715",
   "http://coinreaders.com/272101",
@@ -2999,14 +2994,14 @@
   "https://www.incheonilbo.com/news/articleView.html?idxno=1337468",
   "https://www.seoul.co.kr/news/economy/industry/2026/11/22/20261122500097?wlog_tag3=naver",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506761",
-  "https://www.sedaily.com/article/20117460"
+  "https://www.sedaily.com/article/20117460",
+  "https://www.fnnews.com/news/202611221833154024",
+  "https://www.imaeil.com/page/view/2026112218254858751",
+  "http://www.worktoday.co.kr/news/articleView.html?idxno=92467",
+  "https://www.aitimes.com/news/articleView.html?idxno=217664",
+  "https://www.sedaily.com/article/20117462"
  ],
  "seen_titles": [
-  "마약거래폭로갈등..머라이어캐리,친오빠와280억소송서승소[스타...",
-  "알파벳이사회의장“법률문서업무,AI에완전히대체될것”[김창영...",
-  "\"흔들리는삼성·하이닉스,팔아야할까?…내년실적'역대급반전'예고...",
-  "위성스타트업이로켓기업사나…유럽서우주산업3조빅딜승부수",
-  "XRP,1달러밑일주일…고점대비75%날아갔다",
   "트럼프\"해외데이터센터건립시엄청난세금부여\"...미국내건설강...",
   "[뉴욕증시장중]반도체지수8%↓·나스닥3%대급락…앤트로픽공모가...",
   "앤트로픽상장이틀째10%급락...AI투자불안확산",
@@ -6001,7 +5996,12 @@
   "13년째헛바퀴…인천청각·언어장애인복지관언제쯤",
   "징벌적과징금에도민·관막론‘개인정보유출봇물’",
   "30분만에500달러→1달러폭락…하이퍼리퀴드XMR1투매에420명1350만...",
-  "美FBI범죄정보망도뚫려…농무부·댐까지해킹표적됐다"
+  "美FBI범죄정보망도뚫려…농무부·댐까지해킹표적됐다",
+  "이통망투자2위韓…미래기술은제자리[AI시대통신인프라고도화...",
+  "[속보]정부'증안펀드'즉시가동준비·자사주매수한도3개월완화",
+  "한전,고객·조달시스템서개인정보152만명분유출…계좌·카드번호...",
+  "알트먼,메타의딥페이크영상에등장…메타\"정책위반아니다\"",
+  "엔비디아칩中밀반입에‘캄보디아스캠’조직도얽혀"
  ],
  "recent_sigs": [
   [
@@ -6403,9 +6403,17 @@
   [
    "2026-11-22T18:32:15.959001+09:00",
    "뚫려 범죄정보망도 농무부 댐까지 FBI 표적됐다"
+  ],
+  [
+   "2026-11-22T18:34:14.701548+09:00",
+   "딥페이크 정책 아니다 메타의 등장 영상에 위반 메타"
+  ],
+  [
+   "2026-11-22T18:34:14.701548+09:00",
+   "얽혀 캄보디아 스캠 밀반입에 조직도"
   ]
  ],
- "last_run": "2026-11-22T18:32:37.541690+09:00",
+ "last_run": "2026-11-22T18:34:33.222012+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
