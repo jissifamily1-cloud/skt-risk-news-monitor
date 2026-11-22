@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261121114119",
-  "https://zdnet.co.kr/view/?no=20261121122920",
-  "https://www.getnews.co.kr/news/articleView.html?idxno=887386",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719130",
-  "https://www.joongang.co.kr/article/25480693",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506588",
-  "https://www.etnews.com/20261121000040",
   "https://www.sedaily.com/article/20117228",
   "https://www.viva100.com/article/20261118501152",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2315149",
@@ -2999,16 +2992,16 @@
   "https://www.newsis.com/view/NISX20261123_0003878486",
   "https://www.lawissue.co.kr/view.php?ud=20261120150237380204ead0791_12",
   "https://news.dealsitetv.com/articles/178987",
-  "https://www.newspim.com/news/view/20261123000031"
+  "https://www.newspim.com/news/view/20261123000031",
+  "https://www.mydaily.co.kr/page/view/2026112305332992187",
+  "https://www.wikitree.co.kr/articles/1176823",
+  "https://www.newspim.com/news/view/20261123000036",
+  "https://www.joongang.co.kr/article/25480692",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=370286",
+  "https://www.m-i.kr/news/articleView.html?idxno=2021849",
+  "https://www.newsis.com/view/NISX20261123_0003878482"
  ],
  "seen_titles": [
-  "FBI범죄정보망도해킹의혹…미수사당국조사착수",
-  "[지스타2026]마왕토벌부터코스어대결까지…'크랙'관람객홀렸다",
-  "다크웹서\"한전이용자정보확보\"게시물등장",
-  "서울도심한복판에서지금바로연차낼수있냐는질문에돌아온답...",
-  "트럼프,커스틴데이비스국가사이버국장지명",
-  "프랑스총리\"사이버위협,전례없는수준\"",
-  "도이체뱅크,APT10공격에IT정보유출의심",
   "FBI,전국범죄정보DB해킹정황조사착수",
   "뉴욕증시,AIㆍ반도체중심기술주약세에하락...엔비디아,'젠슨황...",
   "이대통령,울산AI데이터센터현장방문…“글로벌투자마중물기대...",
@@ -6001,7 +5994,14 @@
   "\"美반도체폭락에…\"프리마켓서삼성전자·SK하닉6%동반급락",
   "에이수스,엔비디아RTX기반로컬AI미니PCProArtGR1X출시",
   "예별손보,66명개인정보유출",
-  "월가강세론자야데니,연말S&P500전망치또하향…\"약세장가능성은..."
+  "월가강세론자야데니,연말S&P500전망치또하향…\"약세장가능성은...",
+  "김호령은말할것도없고,FA는C등급이볼매…전병우와김상수도?삼성...",
+  "애플iOS27아이폰핸드오프,번호하나를두대에써도활성화는한대...",
+  "'돈빌려주식사세요'융자증거금100%→80%로,中증시부양팔걷어",
+  "앤트로픽연구원“클로드와‘리만가설’증명”…160여년난제풀었...",
+  "피할수없는블랙먼데이…패닉장속'저점매수'신호탄",
+  "LG유플러스,조직개편단행…AI사업성과창출·통신경쟁력강화",
+  "예별손보,수탁업체해킹에피보험자66명정보유출"
  ],
  "recent_sigs": [
   [
@@ -6471,9 +6471,13 @@
   [
    "2026-11-23T08:08:15.696750+09:00",
    "러시아 데이터베이스 의혹에 스캔들 드러 FBI 핵심 트럼프 진실"
+  ],
+  [
+   "2026-11-23T08:12:15.098641+09:00",
+   "해킹에 피보험자 유출 수탁업체 66명 정보 예별손보"
   ]
  ],
- "last_run": "2026-11-23T08:10:44.943843+09:00",
+ "last_run": "2026-11-23T08:12:34.392743+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
