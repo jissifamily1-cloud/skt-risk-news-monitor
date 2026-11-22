@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.gukjenews.com/news/articleView.html?idxno=3759040",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3759043",
-  "https://www.m-economynews.com/news/article.html?no=73415",
-  "https://www.kwnews.co.kr/article/20261121500078",
-  "https://www.mk.co.kr/article/12215253",
-  "https://biz.sbs.co.kr/article_hub/20000347972?division=NAVER",
-  "https://www.hankookilbo.com/news/article/A2026112114000002303?did=NA",
   "https://www.newscj.com/news/articleView.html?idxno=3450885",
   "https://www.jemin.com/news/articleView.html?idxno=847986",
   "https://www.sedaily.com/article/20117232",
@@ -2999,16 +2992,16 @@
   "https://news.jtbc.co.kr/article/NB12329053?influxDiv=NAVER",
   "http://www.wsobi.com/news/articleView.html?idxno=322280",
   "https://view.asiae.co.kr/article/2026112308185846850",
-  "https://www.viva100.com/article/20261123500055"
+  "https://www.viva100.com/article/20261123500055",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445929",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083713",
+  "https://www.etoday.co.kr/news/view/2651430",
+  "https://www.newspim.com/news/view/20261123000041",
+  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611161426146720104055",
+  "https://www.hankookilbo.com/news/article/A2026112308120000053?did=NA",
+  "https://www.newspim.com/news/view/20261123000042"
  ],
  "seen_titles": [
-  "“경부고속도로처럼AI길열것”…李대통령,울산SKAI데이터센터방...",
-  "SK,울산서AI데이터센터15GW구상첫발…성패가를변수는",
-  "\"네엄마가널낙태했어야\"…젠슨황폭언,20년동안엔비디아문화",
-  "美FBI범죄정보망해킹정황…수사당국조사나서",
-  "FBI핵심정보망해킹가능성…美수사망보안우려",
-  "“AI일상화시대,AI사용전제로평가다시설계해야”[김현지의with...",
-  "대전동구청장배골프대회'첫티샷'…38개팀선의의경쟁",
   "대전교통공사,판암역·차량기지'겨울철안전'집중점검",
   "李대통령,울산SKAI데이터센터방문...“AI고속도로로대한민국대전...",
   "[속보]이재명대통령“AI데이터센터,지역균형발전핵심”…울산SK...",
@@ -6001,7 +5994,14 @@
   "'역대흥행'앤트로픽상장…\"직원평균680억,창업자30조부자로\"",
   "SK-SKT,최태원회장도쿄포럼2026참가...에어,무신사'무진장'서이벤...",
   "\"앨리스황처럼꾸미면50달러\"…뉴욕서열린'스파이닮은꼴대회'",
-  "엔비디아칩밀반입의혹,미·중무역전쟁재점화변수부상"
+  "엔비디아칩밀반입의혹,미·중무역전쟁재점화변수부상",
+  "[증시AI충격파]삼성증권\"코스피,하단지지선4,300선될것\"",
+  "AI거품162조미래기금곳간어떡하나…반도체세수끊기면?",
+  "메모리값폭등에AI서버값도인상⋯계약후최대45%추가요구",
+  "[GAM]월가\"저가매수이르다...왜?연준이아직매파니까\"",
+  "[더벨][독립이사인센티브진단]견제와보상사이…독립이사보상의현...",
+  "美정보수장\"젠슨황연루中스파이의혹수사\"…엔비디아칩유출조사...",
+  "[GAM]앤스로픽흥행마저역부족...월가,AI반등재료찾지못해고심"
  ],
  "recent_sigs": [
   [
@@ -6523,9 +6523,17 @@
   [
    "2026-11-23T08:22:15.041206+09:00",
    "무역전쟁 재점화 의혹 밀반입 변수 부상"
+  ],
+  [
+   "2026-11-23T08:24:15.845248+09:00",
+   "독립이사 견제와 보상의 보상 사이"
+  ],
+  [
+   "2026-11-23T08:24:15.845248+09:00",
+   "반등 재료 월가 찾지 못해 고심 흥행마저 역부족"
   ]
  ],
- "last_run": "2026-11-23T08:22:35.615210+09:00",
+ "last_run": "2026-11-23T08:24:41.136928+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
