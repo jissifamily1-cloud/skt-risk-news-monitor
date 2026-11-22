@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261104182143",
-  "https://www.aitimes.com/news/articleView.html?idxno=217053",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712885",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712816",
   "https://www.aitimes.com/news/articleView.html?idxno=216992",
   "https://www.aitimes.com/news/articleView.html?idxno=217001",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712199",
@@ -2999,13 +2995,13 @@
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091672",
   "https://www.mk.co.kr/article/12215714",
   "https://www.gukjenews.com/news/articleView.html?idxno=3759585",
-  "https://www.ajunews.com/view/20261122130026715"
+  "https://www.ajunews.com/view/20261122130026715",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1337455",
+  "http://www.yonhapnewstv.co.kr/news/MYH20261122175521m9K",
+  "https://www.news1.kr/world/northeast-asia/6362087",
+  "https://www.sedaily.com/article/20117434"
  ],
  "seen_titles": [
-  "마커스,오픈AI‘AI의위워크’가능성거론",
-  "\"사막에지어야할지도\"…데이터센터전략다시짜는美AI기업들",
-  "오픈AI,2027년IPO검토지속…중간선거뒤에도큰변화없어",
-  "미국중간선거가AI주식매도세를촉발한이유",
   "샘알트먼,삼성·SK연쇄회동…오픈AI메모리확보전본격화",
   "'미국증시급락',중간선거이후AI성장둔화우려커지나",
   "[유미's픽]\"그룹AI전략이끈다\"…대기업SICEO,실적·신사업성과...",
@@ -6001,7 +5997,11 @@
   "정부,수능AI부정행위추적…글로벌AI기업과협력",
   "“이미속이시커먼데또검은월요일?”…주말美증시투매에‘벌벌’",
   "[포토]울산동구소식,남목청소년센터밀알영상제ㆍ건강달리기대회",
-  "[韓블랙먼데이전운]순환금융멈춘엔비디아…삼성·하이닉스슈퍼사..."
+  "[韓블랙먼데이전운]순환금융멈춘엔비디아…삼성·하이닉스슈퍼사...",
+  "수능부정엔'발칵'…여성안전엔'무딘사회'",
+  "[일요와이드]트럼프'대화제의'불발…北,조건내걸어무산",
+  "美FCC,中통신사전화번호접근차단…中\"악의적탄압\"반발",
+  "AI해킹위협커지는데…‘이사회역량표’서보안은빠졌다"
  ],
  "recent_sigs": [
   [
@@ -6359,9 +6359,17 @@
   [
    "2026-11-22T17:56:15.545939+09:00",
    "하이닉스 슈퍼사 순환금융 삼성 멈춘"
+  ],
+  [
+   "2026-11-22T17:58:13.910757+09:00",
+   "차단 전화번호 접근 반발 FCC 악의적 탄압"
+  ],
+  [
+   "2026-11-22T17:58:13.910757+09:00",
+   "보안은 역량표 빠졌다 위협 이사회 커지는데"
   ]
  ],
- "last_run": "2026-11-22T17:56:36.276214+09:00",
+ "last_run": "2026-11-22T17:58:37.362785+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
