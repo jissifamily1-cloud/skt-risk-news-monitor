@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.atstar1.com/news/articleView.html?idxno=6041024",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572355758095",
-  "https://www.etoday.co.kr/news/view/2651511",
-  "https://news.mtn.co.kr/article/2026112309232783585",
-  "https://www.mt.co.kr/finance/2026/11/23/2026112309053973783",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=302417",
   "http://www.paxetv.com/news/articleView.html?idxno=287553",
   "https://www.ajunews.com/view/20261123091952920",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=302422",
@@ -2999,15 +2993,15 @@
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232504",
   "https://www.hankyung.com/article/2026112351477",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732721",
-  "https://www.ajunews.com/view/20261123155528717"
+  "https://www.ajunews.com/view/20261123155528717",
+  "https://www.hankyung.com/article/2026112350891",
+  "https://www.fnnews.com/news/202611231804044426",
+  "https://www.hankyung.com/article/2026112350371",
+  "https://www.fnnews.com/news/202611231802221593",
+  "https://view.asiae.co.kr/article/2026112317430850505",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611230167&t=NN"
  ],
  "seen_titles": [
-  "[단독]아워홈,한화리조트에새뷔페‘다이브’…식음사업협력본격...",
-  "전남광주통합특별시,정당현수막연말집중점검…위반땐철거·과태료",
-  "[인터뷰]AI가코딩해도개발자는살아남는다…AWS가전한생존전략은",
-  "TomHanksGotA.I.-Cloned.Here’sHowWeStopItFromHappeningtoYou.",
-  "\"반도체충격일시적일수도\"…靑,'비관론'선그었다",
-  "‘긴급대책’통했나…코스피블랙먼데이우려딛고‘선방’출발[...",
   "美반도체지수10%급락…삼성전자3%·SK하이닉스2%↓[핫종목]",
   "이재근KB금융회장취임…“리딩뱅크넘어글로벌리딩플랫폼으로”",
   "스마트홈앱,집주소·위치까지가져간다…구글·아마존앱데이터수...",
@@ -6001,7 +5995,13 @@
   "\"앨리스황,중국정보기관과1년넘게접촉…남편도협력\"",
   "젠슨황과사귀던1년간中정보기관과연락…앨리스황새의혹",
   "금융위,롯데카드에과징금10억…'해킹위험'공시미흡",
-  "날이갈수록커지는AI가전해킹위협…삼성·LG,자체보안체계강화"
+  "날이갈수록커지는AI가전해킹위협…삼성·LG,자체보안체계강화",
+  "반도체고점론공방확산…삼전닉스\"빅테크장기계약변동없다\"",
+  "'닷컴붕괴'닮아가는AI주…증시넘어실물경제침체우려[증시장중...",
+  "최태원\"9440억다줄것\"…대법에'화해권고'요청",
+  "9000피꿈반토막..4700겨우지켰다[증시장중4600도붕괴]",
+  "손정의도탐낸하이닉스메모리…20년치물량확보나선빅테크[클릭e산...",
+  "\"해킹위험공시안해\"…롯데카드에과징금10억원"
  ],
  "recent_sigs": [
   [
@@ -7111,9 +7111,13 @@
   [
    "2026-11-23T18:04:26.188418+09:00",
    "강화 날이 커지는 갈수록 삼성 자체 가전 LG 위협 보안체계"
+  ],
+  [
+   "2026-11-23T18:06:17.589397+09:00",
+   "겨우 지켰다 9000피 반토막"
   ]
  ],
- "last_run": "2026-11-23T18:04:42.845293+09:00",
+ "last_run": "2026-11-23T18:06:33.131811+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
