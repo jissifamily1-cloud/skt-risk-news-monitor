@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.segyebiz.com/newsView/20261123510741?OutUrl=naver",
-  "https://www.mt.co.kr/economy/2026/11/23/2026112313391873139",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=410160",
-  "https://biz.sbs.co.kr/article_hub/20000348203?division=NAVER",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507075",
-  "http://www.newsdream.kr/news/articleView.html?idxno=122800",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=302433",
   "https://biz.sbs.co.kr/article_hub/20000348202?division=NAVER",
   "https://www.gukjenews.com/news/articleView.html?idxno=3760343",
@@ -2999,15 +2993,15 @@
   "https://it.chosun.com/news/articleView.html?idxno=3000000001672",
   "https://www.jasm.co.kr/news/view/326242/?sc=Naver",
   "https://www.sedaily.com/article/20118015",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261124010009044"
+  "https://www.asiatoday.co.kr/kn/view.php?key=20261124010009044",
+  "https://www.ajunews.com/view/20261124063809643",
+  "https://www.fnnews.com/news/202611240634086915",
+  "https://www.bloter.net/news/articleView.html?idxno=679470",
+  "https://www.etoday.co.kr/news/view/2651921",
+  "http://coinreaders.com/272764",
+  "https://www.ngonews.kr/news/articleView.html?idxno=243971"
  ],
  "seen_titles": [
-  "KT스카이라이프·HCN합병,유료방송부진돌파구찾는다",
-  "GS건설,데이터센터구축속도전...4개사와통합체계구축",
-  "대구농업기술센터,토마토갈색주름과실바이러스예방·위생관리강조",
-  "대우건설,목동8단지홍보관개관…'써밋디아보목동'청사진공개",
-  "금융사아닌협력업체가뚫린다…예별손보·저축은행잇단정보유출",
-  "컬리,임직원199명·고객2명개인정보추가유출",
   "LG유플러스,공급망보안체계강화…협력사160곳'취약점'진단",
   "앨리스황연루된엔비디아칩中밀수의혹…캄보디아범죄조직간부...",
   "예별손보,수탁업체해킹에단체보험피보험자66명개인정보유출",
@@ -6001,7 +5995,13 @@
   "젠슨황돌아오자나스닥6.5%급등…반도체지수14%올라",
   "[뉴욕증시]\"젠슨황돌아왔다\"...엔비디아31.5%폭등,나스닥6%대급등",
   "젠슨황복귀에엔비디아31.5%폭등...SK하닉도20%↑[데일리국제금융...",
-  "가죽재킷대신워크재킷에운동화차림다시출근젠슨황\"두번째엔더..."
+  "가죽재킷대신워크재킷에운동화차림다시출근젠슨황\"두번째엔더...",
+  "[뉴욕증시마감]젠슨황복귀에일제히폭등…나스닥6.51%↑",
+  "11일만에출근한엔비디아젠슨황\"2번째기회에감사\"",
+  "젠슨황복귀에AI투자심리회복…자본지출우려는여전",
+  "뉴욕증시,젠슨황복귀에엔비디아31%폭등⋯나스닥6.51%↑[상보]",
+  "리플(XRP)'1달러의함정'빠졌나…1.026달러돌파가반등관건",
+  "뉴욕증시,엔비디아발훈풍에급반등…나스닥6.5%상승"
  ],
  "recent_sigs": [
   [
@@ -6255,9 +6255,17 @@
   [
    "2026-11-24T06:44:26.110998+09:00",
    "출근 운동화 젠슨 대신 번째엔 차림 워크재킷에 가죽재킷 다시"
+  ],
+  [
+   "2026-11-24T06:46:15.904468+09:00",
+   "빠졌나 026달러 1달러의 리플 돌파가 반등 관건 함정 XRP"
+  ],
+  [
+   "2026-11-24T06:46:15.904468+09:00",
+   "훈풍에 뉴욕증시 나스닥 급반등 상승 엔비디아발"
   ]
  ],
- "last_run": "2026-11-24T06:44:42.605083+09:00",
+ "last_run": "2026-11-24T06:46:34.339990+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
