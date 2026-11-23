@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.cbci.co.kr/news/articleView.html?idxno=629713",
-  "https://www.smartbizn.com/news/articleView.html?idxno=160227",
-  "https://www.donga.com/news/Economy/article/all/20261123/135071652/1",
   "https://biz.sbs.co.kr/article_hub/20000348115?division=NAVER",
   "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922065",
   "https://sports.khan.co.kr/article/202611231007003?pt=nv",
@@ -2999,12 +2996,12 @@
   "https://www.newsis.com/view/NISX20261123_0003880031",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720418",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859626&plink=ORI&cooper=NAVER",
-  "https://www.ekn.kr/web/view.php?key=20261123020563586"
+  "https://www.ekn.kr/web/view.php?key=20261123020563586",
+  "https://www.jemin.com/news/articleView.html?idxno=848225",
+  "https://www.busan.com/view/busan/view.php?code=2026112321041915189",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=886381"
  ],
  "seen_titles": [
-  "얼어붙은개인투심…美반도체쇼크에코스피2%대하락",
-  "비트코인,6만달러선되찾았지만…美증시·ETF유출변수[코인브리핑]",
-  "슈퍼브에이아이,AI응용‘마트로봇대회’은상",
   "[편의점브리핑]CU인터넷가입서비스·GS25캄보디아진출·세븐일레...",
   "\"AI거품이미터졌는가\"…미국증시급락에2000년닷컴버블붕괴재조...",
   "[개장]코스피,미기술주급락여파에3%대하락…4600선후퇴",
@@ -6001,13 +5998,12 @@
   "[올댓차이나]홍콩증시,미중갈등우려등에닷새째속락마감…H주...",
   "[단독]다크웹에올라온한전유출정보…해커“입찰정보도있어”",
   "젠슨황감쌌는데…\"밀수망에프린스그룹도엮였다\"",
-  "[똑똑한유통]CU,세븐일레븐,IFC몰,애경산업,번개장터,이브자리"
+  "[똑똑한유통]CU,세븐일레븐,IFC몰,애경산업,번개장터,이브자리",
+  "엔비디아,98조원규모중국수요에경고등…젠슨황퇴진여파확산",
+  "한전,이용고객등‘152만명개인정보유출’사과…개보위,한전조사...",
+  "미래에셋운용,앤트로픽·오픈AI등LLM겨냥한ETF24일출시"
  ],
  "recent_sigs": [
-  [
-   "2026-11-23T15:22:15.823127+09:00",
-   "급등에 서버업체 추가금 메모리값 가격 계약 배짱 요구 확산"
-  ],
   [
    "2026-11-23T15:24:23.375566+09:00",
    "통역 음성 실시간 공구리 AI의 진화 오함마"
@@ -6811,9 +6807,17 @@
   [
    "2026-11-23T21:20:26.487187+09:00",
    "프린스그룹도 밀수망에 감쌌는데 젠슨 엮였다"
+  ],
+  [
+   "2026-11-23T21:24:15.790456+09:00",
+   "겨냥한 출시 앤트로픽 미래에셋운용 24일 ETF LLM"
+  ],
+  [
+   "2026-11-23T21:24:15.790456+09:00",
+   "젠슨 확산 98조원 규모 경고등 퇴진 수요에 중국 여파"
   ]
  ],
- "last_run": "2026-11-23T21:22:31.241933+09:00",
+ "last_run": "2026-11-23T21:24:37.872870+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
