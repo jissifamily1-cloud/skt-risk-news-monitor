@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.apparelnews.co.kr/news/news_view/?idx=229161",
-  "https://www.cctoday.co.kr/news/articleView.html?idxno=2240710",
-  "https://www.nytimes.com/es/2026/11/22/espanol/estados-unidos/fallas-tecnologicas-ia.html?partner=naver",
-  "https://www.nytimes.com/es/2026/11/22/espanol/negocios/anthropic-wall-street-silicon-valley.html?partner=naver",
-  "https://www.nytimes.com/2026/11/20/business/dealbook/anthropic-ipo-ai-rally.html?partner=naver",
-  "https://econotimes.com/Reuters-Reports-Europe-Supermarket-Fridge-Hacks-Amid-Java-PHP-Risks-1780237",
   "https://www.tokenpost.kr/news/ai/441552",
   "https://www.tokenpost.kr/news/breaking/441540",
   "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?partner=naver",
@@ -2999,15 +2993,15 @@
   "http://www.econonews.co.kr/news/articleView.html?idxno=447540",
   "https://www.news1.kr/it-science/cc-newmedia/6362453",
   "https://www.etoday.co.kr/news/view/2651441",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231452371510205"
+  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231452371510205",
+  "https://www.donga.com/news/Economy/article/all/20261123/135073807/2",
+  "https://dealsite.co.kr/articles/173299",
+  "https://www.thebigdata.co.kr/view.php?ud=202611231500513017d0a8833aad_23",
+  "https://view.asiae.co.kr/article/2026112315031151752",
+  "https://economychosun.com/site/data/html_dir/2026/11/15/2026111500028.html",
+  "https://zdnet.co.kr/view/?no=20261123150151"
  ],
  "seen_titles": [
-  "마이크로소프트취약점처리1년새68건→1,235건…AI가패치부담키웠...",
-  "챗GPT접속오류확산…데이터베이스장애에서비스운영차질",
-  "앤트로픽상장주도권놓고월가와갈등…은행업무까지제한요구",
-  "낙찰차액1억3500만원남을줄알면서또7억5천…인미동\"고민없이편...",
-  "브로드컴,AI반도체성장에장기주가반등기대…2030년두배상승가...",
-  "AI가들춰낸보안패치취약성…“부실업데이트가‘먹통’자초”",
   "“167년난제리만가설,AI가증명…학계대사건”",
   "“손정의,하이닉스1조달러에인수검토”…SK측“아는바없다”",
   "리만가설풀었다는AI…“수학자들,이젠체념”",
@@ -6001,33 +5995,15 @@
   "KT,행안부와사회연대경제AI전환협력…춘천·청도서시범사업",
   "KT·행안부,지역문제해결에AI접목…춘천·청도서첫실증",
   "행안부-KT,지역문제해결에AI접목…춘천상권·청도돌봄시범사업",
-  "[텔코NOW]SKT·KT·LGU+"
+  "[텔코NOW]SKT·KT·LGU+",
+  "서울창업허브,대·중견기업92곳과협업…스타트업766곳발굴·기술실...",
+  "[오늘의게임·IT소식]두나무,‘전통시장디지털혁신아이디어공모...",
+  "DL이앤씨,‘성수2지구재개발사업’수주…10월온라인관심도전년比...",
+  "\"삼전·하닉주식산사람,2029년까지기다려야\"…손절늦었다는전문...",
+  "[김태형의AI트렌드맵<2>AI기업의바이오진출]바이브코딩다음먹...",
+  "[단독]카카오표모두의AI,'톡톡'으로선보일까"
  ],
  "recent_sigs": [
-  [
-   "2026-11-23T09:04:16.629967+09:00",
-   "싱가포르 일본 AR 에스엘즈 진출 Build"
-  ],
-  [
-   "2026-11-23T09:04:16.629967+09:00",
-   "열흘 인재까지 외쳤다 일본 에너지 경제연"
-  ],
-  [
-   "2026-11-23T09:04:16.629967+09:00",
-   "1B 하나에어로다이내믹스 수명연장 ~KT KAI 수주"
-  ],
-  [
-   "2026-11-23T09:06:14.740668+09:00",
-   "1차 코스피 청문회 내년 관건 젠슨황 투심 포인트"
-  ],
-  [
-   "2026-11-23T09:06:14.740668+09:00",
-   "코스피 엔비디아발 충격 확산시 밀릴 000선 후반까지 NH투 수도"
-  ],
-  [
-   "2026-11-23T09:06:14.740668+09:00",
-   "저가매수 반등 머뭇 급락에도 촉매 보인다 증시"
-  ],
   [
    "2026-11-23T09:08:19.254469+09:00",
    "AAA 발전채 올해 잔액 돌파 회사채"
@@ -6971,9 +6947,13 @@
   [
    "2026-11-23T15:04:15.722766+09:00",
    "LGU ~SKT ~KT ~LGU"
+  ],
+  [
+   "2026-11-23T15:06:20.858850+09:00",
+   "카카오표 톡톡 모두의 선보일까"
   ]
  ],
- "last_run": "2026-11-23T15:04:49.427683+09:00",
+ "last_run": "2026-11-23T15:06:40.004565+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
