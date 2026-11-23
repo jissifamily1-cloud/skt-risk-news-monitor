@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.e-science.co.kr/news/articleView.html?idxno=140217",
-  "https://www.itbiznews.com/news/articleView.html?idxno=232029",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732259",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=108061",
   "http://www.datanews.co.kr/news/article.html?no=147710",
   "https://www.etoday.co.kr/news/view/2650254",
   "https://www.newspost.kr/news/articleView.html?idxno=227565",
@@ -2999,13 +2995,13 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261123142833SfY",
   "https://www.news1.kr/photos/8228262",
   "http://www.breaknews.com/1253063",
-  "https://www.etnews.com/20261123000357"
+  "https://www.etnews.com/20261123000357",
+  "http://www.thefirstmedia.net/news/articleView.html?idxno=214380",
+  "https://www.yna.co.kr/view/AKR20261123105600011?input=1195m",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=886010",
+  "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611230093&t=NNv"
  ],
  "seen_titles": [
-  "SKB,해저케이블양자보안강화…싱가포르와국제실증",
-  "SK브로드밴드,부산~싱가포르해저케이블에양자보안망구축…아시아...",
-  "SK브로드밴드,부산-싱가포르해저케이블양자보안망구축실증",
-  "SOOPTV,ktHCN신규입점…스포츠콘텐츠시청접점확대",
   "SK그룹·SK브로드밴드,이사회중심거버넌스고도화·한국-싱가포르해...",
   "SKB,싱가포르와양자보안망연결…유럽까지실증확대",
   "SK브로드밴드,한국~싱가포르해저케이블에양자보안시험망구축…국가...",
@@ -6001,7 +5997,11 @@
   "‘코스피5%급락’여파…환율1350원으로상승",
   "엔비디아AI칩밀반입에中정보기관개입의혹",
   "한국수자원공사,KT손잡고물관리피지컬AI시대연다",
-  "LG헬로-CJENM송출종료3일앞으로...법원가처분판단'촉각'"
+  "LG헬로-CJENM송출종료3일앞으로...법원가처분판단'촉각'",
+  "CJONE글로벌,외국인관광객공략강화…여행동선따라K라이프스타일...",
+  "[연합뉴스이시각헤드라인]-14:30",
+  "LG유플러스,해킹우회로차단나선다…협력사160곳진단",
+  "증안펀드발동은언제…\"바닥권투매,실익없다\"[딥시그널]"
  ],
  "recent_sigs": [
   [
@@ -6915,9 +6915,13 @@
   [
    "2026-11-23T14:30:34.224247+09:00",
    "송출 종료 LG헬로 앞으로 판단 촉각 법원 3일 ENM 가처분 CJ"
+  ],
+  [
+   "2026-11-23T14:32:15.024629+09:00",
+   "바닥권 없다 실익 증안펀드 투매 언제 발동은"
   ]
  ],
- "last_run": "2026-11-23T14:31:05.477409+09:00",
+ "last_run": "2026-11-23T14:32:33.701393+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
