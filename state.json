@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ttlnews.com/news/articleView.html?idxno=3164822",
-  "https://www.ajunews.com/view/20261120094925208",
-  "https://www.seoul.co.kr/news/plan/phj-Cleaning-time/2026/11/23/20261123035001?wlog_tag3=naver",
-  "https://www.edaily.co.kr/News/Read?newsId=01121766645648672&mediaCodeNo=257",
-  "https://www.xportsnews.com/article/2222014",
-  "https://www.xportsnews.com/article/2222032",
-  "https://www.kmib.co.kr/article/20261122501291",
-  "https://www.chosun.com/sports/basketball/2026/11/23/QEYFZFAHYZH4DK2OAHGEJYC2NA/",
-  "https://www.sportschosun.com/baseball/2026-11-22/202611230100137600012901",
-  "https://m.sports.naver.com/basketball/article/065/0000305127",
   "https://sports.donga.com/sports/article/all/20261122/135068381/1",
   "https://www.ftimes.kr/news/articleView.html?idxno=41279",
   "https://www.mt.co.kr/tech/2026/11/18/2026111818231260385",
@@ -2999,19 +2989,19 @@
   "https://www.newspim.com/news/view/20261123000816",
   "https://www.100ssd.co.kr/news/articleView.html?idxno=214704",
   "https://www.chosun.com/economy/tech_it/2026/11/23/PXPLIGXOMFGZVHE6NXHASEJ2P4/",
-  "http://www.srtimes.kr/news/articleView.html?idxno=218370"
+  "http://www.srtimes.kr/news/articleView.html?idxno=218370",
+  "https://www.lawissue.co.kr/view.php?ud=20261123144803172367191f6c6e_12",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3760352",
+  "http://www.segyebiz.com/newsView/20261123510741?OutUrl=naver",
+  "https://www.mt.co.kr/economy/2026/11/23/2026112313391873139",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=410160",
+  "https://biz.sbs.co.kr/article_hub/20000348203?division=NAVER",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507075",
+  "http://www.newsdream.kr/news/articleView.html?idxno=122800",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=302433",
+  "https://biz.sbs.co.kr/article_hub/20000348202?division=NAVER"
  ],
  "seen_titles": [
-  "광주시내버스노선개편후민원3780건…배차·환승개선추진",
-  "공소청,'노태우비자금의혹'이병기前의전비서관재차소환",
-  "젠슨황'스파이스캔들'...100조원이혼설까지[2PM]",
-  "\"배차지연·환승불편\"…'광주시내버스개편'민원3,780건달해",
-  "배차간격길고환승도불편…'광주시내버스개편'시민민원봇물",
-  "\"버스제발돌려놔라\"…광주시내버스개편9일만에민원4493건'폭주'",
-  "광주시내버스개편6일만에민원3780건쏟아졌다",
-  "젠슨황부터빌게이츠까지…권력자들이외도를정당화하는심리[이윤...",
-  "최태원,SK지분9440억매각…반도체·AI2100조투자청사진속도",
-  "광주시내버스개편일주일만민원4000여건…노선손본다",
   "SK급락전9440억챙긴최태원…경영권도지켰다",
   "최태원9440억매각뒤SK주가14.75%↓하락?폭락?",
   "“AI시장대응”…LGU+,조직재편-4개부문장교체",
@@ -6001,7 +5991,17 @@
   "컬리,임직원199명·고객2명개인정보추가유출",
   "LG유플러스,공급망보안체계강화…협력사160곳'취약점'진단",
   "앨리스황연루된엔비디아칩中밀수의혹…캄보디아범죄조직간부...",
-  "예별손보,수탁업체해킹에단체보험피보험자66명개인정보유출"
+  "예별손보,수탁업체해킹에단체보험피보험자66명개인정보유출",
+  "GS건설,데이터센터짓는시간줄인다…4개사와통합엔지니어링구축",
+  "[동정]추경호대구광역시장",
+  "[MONEY]AI투자다변화속도…한화·미래에셋운용,인프라·LLMETF상장",
+  "저평가외치다5000선도붕괴…증안펀드에도'정부책임론'",
+  "슈퍼브에이아이,'마트휴머노이드로봇경진대회'은상…에이전틱로보...",
+  "[셀럽의한수]한은기준금리무조건인상?\"주식대응어떡하죠\"",
+  "전력거래소,전력운영시스템안정화·사이버보안점검",
+  "KT,한국수자원공사와'물관리피지컬AI'구축업무협약체결",
+  "KT,K-water와손잡고물관리피지컬AI구축나선다",
+  "[반도체따라잡기]바닥가늠어려운'삼전닉스'2030년전망은이렇습..."
  ],
  "recent_sigs": [
   [
@@ -6955,9 +6955,13 @@
   [
    "2026-11-23T14:50:33.797257+09:00",
    "범죄조직 앨리스 간부 연루된 의혹 밀수 캄보디아"
+  ],
+  [
+   "2026-11-23T14:52:15.592647+09:00",
+   "어려운 가늠 삼전닉스 이렇습 2030년 전망은 바닥"
   ]
  ],
- "last_run": "2026-11-23T14:50:50.049714+09:00",
+ "last_run": "2026-11-23T14:52:36.328883+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
