@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216894",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711772",
-  "https://www.aitimes.com/news/articleView.html?idxno=216852",
-  "https://www.aitimes.com/news/articleView.html?idxno=216850",
-  "https://www.tokenpost.kr/news/ai/430570",
-  "https://zdnet.co.kr/view/?no=20261031160238",
-  "https://zdnet.co.kr/view/?no=20261031124538",
-  "https://www.tokenpost.kr/news/ai/430235",
-  "https://www.100ssd.co.kr/news/articleView.html?idxno=214024",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4442242",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711266",
   "https://zdnet.co.kr/view/?no=20261030094409",
   "https://www.tokenpost.kr/news/ai/429727",
@@ -2999,18 +2989,19 @@
   "https://biz.sbs.co.kr/article_hub/20000348246?division=NAVER",
   "https://www.hankyung.com/article/2026112344957",
   "https://www.news1.kr/industry/general-industry/6362884",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101828"
+  "https://www.newsian.co.kr/news/articleView.html?idxno=101828",
+  "https://view.asiae.co.kr/article/2026112315251751881",
+  "https://www.ytn.co.kr/_ln/0103_202611231524444734",
+  "https://www.newspim.com/news/view/20261123000898",
+  "http://www.popcornnews.net/news/articleView.html?idxno=141142",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=211865",
+  "http://www.metroseoul.co.kr/article/20261123500443",
+  "https://www.newsworks.co.kr/news/articleView.html?idxno=904054",
+  "https://www.ytn.co.kr/_ln/0134_202611231432495407",
+  "https://www.bloter.net/news/articleView.html?idxno=679407",
+  "https://www.aitimes.com/news/articleView.html?idxno=217696"
  ],
  "seen_titles": [
-  "알트먼,RAM발언역풍에'램알트먼'으로이름까지바꿔",
-  "AI대부제프리힌턴\"사고터져야위험깨닫나…기업들도문제\"",
-  "샘알트먼,PC메모리논란에해명…\"난램알트먼,램더많이만들자\"",
-  "\"엔비디아심기거스를라\"...오픈AI도중국칩수출규제에발언자제",
-  "오픈AI,전미육군장관영입...미군AI도입확대에국방사업강화",
-  "[데일리픽]비트코인美중간선거영향은…테슬라사이버캡국내첫전...",
-  "샘알트먼\"PC메모리5%만활용\"발언,소비자도동의할까",
-  "오픈AI,전미육군장관영입…美국가안보·사이버보안강화나선다",
-  "오픈AI,UAE석유·정부·투자업무에AI에이전트도입…4건협약",
   "일론머스크\"모두에게램필요하다\"…샘알트먼발언공개저격",
   "오픈AI,UAE에너지·정부·투자분야뚫었다…중동사업확장본격화",
   "머스크“사람도RAM가질권리”…알트먼발언에반박",
@@ -6001,7 +5992,16 @@
   "SK하이닉스윤풍영사장,자사주16억원어치매입",
   "최태원\"9440억전액지급\"…노소영과9년소송끝내나",
   "엔비디아이어AMD까지AI투심급랭…삼전닉스'위기이자기회'",
-  "예별손보수탁업체해킹…피보험자66명주민번호등유출"
+  "예별손보수탁업체해킹…피보험자66명주민번호등유출",
+  "[속보]최태원SK회장,재산분할재상고심재판부에화해권고신청",
+  "[속보]최태원,재산분할재상고심재판부에화해권고요청",
+  "적자사업에510억추가투입…LG유플러스,완전자회사볼트업수익성...",
+  "KT·K-water,물관리현장에피지컬AI…실증협력추진",
+  "KT,행정안전부와사회연대경제AX지원나서…지역현안공동협력",
+  "AI투자'반도체다음은어디'…한투운용,밸류체인분산전략제시",
+  "\"외부에서데려와야\"했던베선트...이번엔젠슨황도외부인?[자막뉴스...",
+  "오픈AI'보이스AI',건설현장통역사됐다…\"속도·정확성이생명\"",
+  "오픈AI이사\"1년내AI재앙위험4%→10%수준\"…개발중단촉구"
  ],
  "recent_sigs": [
   [
@@ -6951,9 +6951,17 @@
   [
    "2026-11-23T15:26:15.651942+09:00",
    "유출 66명 주민번호 수탁업체 피보험자 예별손보"
+  ],
+  [
+   "2026-11-23T15:28:15.002028+09:00",
+   "속도 건설현장 정확성이 보이스 통역사 생명 됐다"
+  ],
+  [
+   "2026-11-23T15:28:15.002028+09:00",
+   "중단 촉구 수준 재앙 위험 개발 1년 이사"
   ]
  ],
- "last_run": "2026-11-23T15:26:47.473815+09:00",
+ "last_run": "2026-11-23T15:28:36.415108+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
