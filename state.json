@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISI20261123_0021543002",
-  "https://www.news1.kr/photos/8228365",
-  "https://www.newsis.com/view/NISI20261123_0021543004",
-  "https://zdnet.co.kr/view/?no=20261123110308",
-  "https://www.newsis.com/view/NISI20261123_0021543006",
-  "https://www.news1.kr/photos/8228366",
-  "https://www.newsis.com/view/NISI20261123_0021543012",
-  "https://www.newsis.com/view/NISI20261123_0021543016",
-  "https://www.newsis.com/view/NISI20261123_0021543013",
-  "http://www.financialreview.co.kr/news/articleView.html?idxno=46514",
-  "https://www.fnnews.com/news/202611231424298037",
   "https://www.viva100.com/article/20261123500209",
   "https://www.news1.kr/photos/8228346",
   "https://www.yna.co.kr/view/AKR20261123090900089?input=1195m",
@@ -2999,20 +2988,20 @@
   "https://www.munhwa.com/article/11633490",
   "https://www.mt.co.kr/world/2026/11/24/2026112406211340957",
   "https://www.newsis.com/view/NISX20261124_0003880104",
-  "https://www.mediapen.com/news/view/1139445"
+  "https://www.mediapen.com/news/view/1139445",
+  "https://www.moneystorm.kr/news/articleView.html?idxno=8722",
+  "https://www.yna.co.kr/view/AKR20261124009600075?input=1195m",
+  "https://www.edaily.co.kr/News/Read?newsId=02548566645648672&mediaCodeNo=257",
+  "https://biz.sbs.co.kr/article_hub/20000348348?division=NAVER",
+  "https://www.news1.kr/world/usa-canada/6363508",
+  "https://www.dailian.co.kr/news/view/1718711/?sc=Naver",
+  "https://www.newspim.com/news/view/20261124000019",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/24/2026112490010.html",
+  "https://www.ytn.co.kr/_ln/0104_202611240619413127",
+  "https://www.mk.co.kr/article/12216700",
+  "https://www.news1.kr/world/usa-canada/6363509"
  ],
  "seen_titles": [
-  "엔비디아AI칩밀반입에中정보기관개입의혹",
-  "한국수자원공사,KT손잡고물관리피지컬AI시대연다",
-  "LG헬로-CJENM송출종료3일앞으로...법원가처분판단'촉각'",
-  "CJONE글로벌,외국인관광객공략강화…여행동선따라K라이프스타일...",
-  "[연합뉴스이시각헤드라인]-14:30",
-  "LG유플러스,해킹우회로차단나선다…협력사160곳진단",
-  "증안펀드발동은언제…\"바닥권투매,실익없다\"[딥시그널]",
-  "“데이터센터구축병목푼다”…GS건설,4개사통합엔지니어링체계구...",
-  "GS건설,데이터센터구축기간단축위해4사협력[건설·분양오늘]",
-  "수자원公,피지컬AI전환위한기술개발·적용추진",
-  "기념촬영하는윤호중-박윤영",
   "기념촬영하는참석자들",
   "협약서들고기념촬영하는윤호중-박윤영",
   "추경호대구시장,삼성라이온즈통산9번째우승카퍼레이드...대구도심...",
@@ -6001,7 +5990,18 @@
   "[속보]젠슨황복귀에일제히급등…나스닥6%대급등마감,엔비디아31...",
   "트럼프\"젠슨황잃는게안보위협\"…엔비디아이사회직접설득",
   "뉴욕증시,'젠슨황귀환'에폭등…엔비디아시총하루새1조달러↑",
-  "[美증시특징주]테슬라11%폭등…자율주행상용화기대감증폭"
+  "[美증시특징주]테슬라11%폭등…자율주행상용화기대감증폭",
+  "SK텔레콤,AI시대미래인재상조명…'상상·연결·지혜·개성'",
+  "젠슨황\"두번째엔더나은CEO될것\"…직원들박수치며환호",
+  "홍콩증시19개월만에최저…美AI주급락여파아시아로",
+  "젠슨황복귀에시장은반색…정치권시끌[글로벌뉴스픽]",
+  "젠슨황복귀에엔비디아31.48%폭등마감…트럼프직접개입",
+  "[속보]뉴욕증시,젠슨황복귀에엔비디아31.5%폭등…나스닥6.51%↑",
+  "트럼프개입에젠슨황엔비디아CEO복귀…美정치권초당적비판",
+  "트럼프\"내가엔비디아이사회설득,이후젠슨황과통화\"",
+  "젠슨황복귀에엔비디아주가30%대폭등...미의회\"불법행위조사\"",
+  "“사장님도물렸습니다”…폭락장에등장한‘-50%계좌인증’미용실...",
+  "\"美정부,'젠슨황스캔들'메가스피드블랙리스트추가예정\""
  ],
  "recent_sigs": [
   [
@@ -6187,9 +6187,17 @@
   [
    "2026-11-24T06:24:16.462191+09:00",
    "상용화 테슬라 증폭 자율주행 폭등 기대감"
+  ],
+  [
+   "2026-11-24T06:26:15.825848+09:00",
+   "인증 계좌 미용실 사장님도 물렸습니다 폭락장에 등장한"
+  ],
+  [
+   "2026-11-24T06:26:15.825848+09:00",
+   "메가스피드 젠슨황 정부 블랙리스트 스캔들 추가"
   ]
  ],
- "last_run": "2026-11-24T06:24:35.138707+09:00",
+ "last_run": "2026-11-24T06:26:38.931005+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
