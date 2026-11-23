@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ftoday.co.kr/news/articleView.html?idxno=370249",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=195065",
   "https://www.thebigdata.co.kr/view.php?ud=2026112309453031990ecbf9426b_23",
   "https://www.bbc.com/korean/articles/cr1ewnj2wjxgo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
   "https://www.hinews.co.kr/view.php?ud=202611231004094316cd8b879b3c_48",
@@ -2999,11 +2997,11 @@
   "https://www.idaegu.co.kr/news/articleView.html?idxno=566192",
   "https://www.khan.co.kr/article/202611232123015",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720425",
-  "http://www.rightknow.co.kr/news/articleView.html?idxno=35477"
+  "http://www.rightknow.co.kr/news/articleView.html?idxno=35477",
+  "https://www.vegannews.co.kr/news/article.html?no=409986",
+  "https://www.betanews.net/article/view/beta202611230088"
  ],
  "seen_titles": [
-  "LGU+,협력사160곳보안취약점점검…“공급망보안선제강화”",
-  "LGU+,협력사160곳보안점검…공급망사이버위협대응",
   "[조간신문뉴스라인]대전∙충남∙세종23일",
   "[분석]코스피역대급조정...\"분할매수vs.보수적접근\"",
   "靑\"주식시장충격일시적일수도…비관적으로보진않아\"",
@@ -6001,7 +5999,9 @@
   "삼성라이온즈우승,대구시민의저력",
   "코스피4700턱걸이",
   "최태원“노소영에9,440억전액지급하겠다”",
-  "최태원\"노소영에9440억전액지급\"…대법원에화해권고요청"
+  "최태원\"노소영에9440억전액지급\"…대법원에화해권고요청",
+  "인스피언인수공시서라온시큐리티지분율엇갈려",
+  "건설현장통역도AI가…오픈AI,보이스모델기업활용법공개"
  ],
  "recent_sigs": [
   [
@@ -6779,9 +6779,13 @@
   [
    "2026-11-23T21:24:15.790456+09:00",
    "젠슨 확산 98조원 규모 경고등 퇴진 수요에 중국 여파"
+  ],
+  [
+   "2026-11-23T21:30:34.836467+09:00",
+   "보이스 통역도 활용법 모델 건설현장 공개 기업 AI가"
   ]
  ],
- "last_run": "2026-11-23T21:28:30.527563+09:00",
+ "last_run": "2026-11-23T21:30:53.650179+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
