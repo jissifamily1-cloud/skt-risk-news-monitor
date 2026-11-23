@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.chosun.com/international/international_general/2026/11/22/WOCWYZAWDRHBJP626PDTJQ7IKI/",
-  "https://www.mydaily.co.kr/page/view/2026112207224921955",
-  "https://www.tokenpost.kr/news/cryptocurrency/442345",
-  "https://www.dailian.co.kr/news/view/1718049/?sc=Naver",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220003&t=NN",
-  "https://www.ddaily.co.kr/page/view/2026112207245152357",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506643",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=101747",
   "https://www.hankyung.com/article/202611209135H",
   "https://www.ddaily.co.kr/page/view/2026112207274822105",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220004&t=NN",
@@ -2999,17 +2991,17 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445984",
   "https://www.yna.co.kr/view/AKR20261123055900008?input=1195m",
   "https://www.etoday.co.kr/news/view/2651566",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=140420"
+  "https://www.e-science.co.kr/news/articleView.html?idxno=140420",
+  "https://www.sportsseoul.com/news/read/1651581",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3759941",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=802936",
+  "https://www.fnnews.com/news/202611231014404412",
+  "https://www.g-enews.com/view.php?ud=20261123095652977844093b5d4e_1",
+  "https://www.newspim.com/news/view/20261120000679",
+  "https://www.businessplus.kr/news/articleView.html?idxno=120289",
+  "https://www.thepowernews.co.kr/view.php?ud=202611231015178515de3f0aa1be_7"
  ],
  "seen_titles": [
-  "[천지일보이슈종합]울산SKAI데이터센터찾은李대통령·조희대탄핵...",
-  "골드만,다음주에도매도세지속경고···\"패닉지수최고치근접\"",
-  "엔비디아($NVDA)중국칩조사,캘리포니아형사법도검토",
-  "엇갈린증시전망…공포냐반등이냐갈림길",
-  "다시금리의시간…연말코스피웃을까울까",
-  "[마켓뷰]美AI투매진정될까…삼전닉스추가충격피할5가지조건",
-  "FBI까지해킹추정공격당해…美계속되는사이버보안사고",
-  "FBI범죄정보망마저뚫렸는데…트럼프“긍정적으로보고싶다”",
   "\"네엄마가낙태했어야\"…'유퀴즈사랑꾼'젠슨황의섬뜩한공포경영...",
   "AI기업상장에엇갈린시장…구글추격과자체칩경쟁도주목",
   "美뉴욕증시,AI‘버블’공포에곤두박질…나스닥5.28%폭락",
@@ -6001,7 +5993,15 @@
   "[속보]삼성증권도해킹피해…8천여명개인정보유출",
   "삼성증권서도해킹터졌다…고객정보8천241건유출(종합)",
   "[특징주]엔비디아14%·브로드컴12%급락여파…삼전닉스3~4%대약세",
-  "한국전력,한전ON·전자조달시스템해킹…외부침입경로·접근권한관..."
+  "한국전력,한전ON·전자조달시스템해킹…외부침입경로·접근권한관...",
+  "‘종영까지단2회’이무생,작전앞에서는냉철한전략가…사랑에는...",
+  "논산시,장애인일자리사업참여자80명모집...전일제·시간제·복지...",
+  "[건설업계동향]삼성물산ㆍDL이앤씨ㆍ롯데건설(11.23)",
+  "\"4600선까지내렸다\"…'개인매도'속코스피·코스닥동반약세[fn오전...",
+  "[특징주]삼성전자·SK하이닉스,美반도체주폭락여파..'급락'",
+  "SK그룹美투자판재편…SKT자산넘겨받은하이닉스,투자허브로",
+  "LG유플러스,협력사160곳보안취약점점검완료…공급망보안체계강...",
+  "에듀윌,KT컨소시엄통해KDTAI캠퍼스운영…3년간지역인재양성"
  ],
  "recent_sigs": [
   [
@@ -6907,9 +6907,13 @@
   [
    "2026-11-23T10:16:19.507924+09:00",
    "한전ON 경로 한국전력 외부 침입 전자조달시스템 접근권한"
+  ],
+  [
+   "2026-11-23T10:18:24.180659+09:00",
+   "자산 하이닉스 SK그룹 넘겨받은 허브로 재편 ~SKT 투자판 투자"
   ]
  ],
- "last_run": "2026-11-23T10:16:41.479792+09:00",
+ "last_run": "2026-11-23T10:18:40.802852+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
