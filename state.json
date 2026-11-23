@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.the-today.com/news/articleView.html?idxno=93914",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=629347",
-  "https://www.nocutnews.co.kr/news/6610315",
-  "http://kor.theasian.asia/archives/422460",
-  "http://coinreaders.com/272274",
-  "https://www.g-enews.com/view.php?ud=202611211955035906e7e8286d56_1",
-  "https://www.the-today.com/news/articleView.html?idxno=93915",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232197",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1544574",
   "https://www.gukjenews.com/news/articleView.html?idxno=3759123",
   "https://www.hankyung.com/article/202611211559i",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261123_0003878649",
   "https://zdnet.co.kr/view/?no=20261120160251",
   "https://www.widedaily.com/news/articleView.html?idxno=304330",
-  "https://www.ddaily.co.kr/page/view/2026112309085787253"
+  "https://www.ddaily.co.kr/page/view/2026112309085787253",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3759849",
+  "https://www.itdaily.kr/news/articleView.html?idxno=243115",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173412",
+  "https://zdnet.co.kr/view/?no=20261123084030",
+  "https://www.newspim.com/news/view/20261123000161",
+  "https://www.ytn.co.kr/_ln/0102_202611230903126529",
+  "https://www.hankyung.com/article/2026112331766",
+  "https://www.seoul.co.kr/news/economy/securities/2026/11/23/20261123500023?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "에릭슨·알테어,경량5G연결성공…상용화는비용검증이관건",
-  "李대통령\"AI데이터센터가산업화시대경부고속도로…인력·전력지원...",
-  "하이난,열대우림보호넘어한·중저어새공동연구확대",
-  "이대통령,\"대한민국AI대전환,인공지능고속도로가열것\"...울산SK...",
-  "中,해저데이터센터·수중호텔에자본유도…해양산업투자확대",
-  "비트코인장중5만5,500달러까지폭락…2024년9월이후처음",
-  "“중고폰사기전확인”…IMEI로분실·도난조회",
-  "中전기차,동남아'판매'넘어현지생산망구축",
   "[데뷔전명암]앤트로픽,역대최대161조원조달했지만주가는흔들…...",
   "광주군공항이전주민투표연내가능?…시의회,주민소통강화주문",
   "실리콘밸리판‘땅콩회항’…젠슨황일가가흔든엔비디아의실력주...",
@@ -6001,7 +5993,15 @@
   "\"美반도체폭락에…\"삼성전자·SK하닉,장초반3%하락[핫스탁]",
   "\"K-FAST글로벌기회커...정부,해외진출지원늘려야\"",
   "LG유플러스,협력사160곳보안취약점점검완료…공급망안전망강화",
-  "오픈AI·구글매주진화하는데애플1년단위고집…'예산삭감·전산대..."
+  "오픈AI·구글매주진화하는데애플1년단위고집…'예산삭감·전산대...",
+  "전남광주통합특별시,취약계층겨울보호대책추진…1만4500가구지원",
+  "AWS,'커뮤니티데이서울2026'개최…AI커뮤니티합류",
+  "롯데건설,무역협회와'베트남오픈이노베이션'협력...기대성과는?",
+  "아마존,AI스타트업‘데카트’인수임박…10조원투입",
+  "[모닝리포트]LS證\"코스피PBR0.91배…공포에따른추격매도지양\"",
+  "미AI투매에'검은월요일'우려...오늘증시는?",
+  "AI투자지속우려…코스피,장초반2%대하락",
+  "[서울데이터랩]개장직후인기검색종목20選"
  ],
  "recent_sigs": [
   [
@@ -6695,9 +6695,13 @@
   [
    "2026-11-23T09:12:15.680214+09:00",
    "애플 매주 고집 진화하는데 1년단위 구글 삭감 예산 전산"
+  ],
+  [
+   "2026-11-23T09:14:15.608175+09:00",
+   "종목 인기 검색 개장 직후"
   ]
  ],
- "last_run": "2026-11-23T09:12:31.822320+09:00",
+ "last_run": "2026-11-23T09:14:31.366173+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
