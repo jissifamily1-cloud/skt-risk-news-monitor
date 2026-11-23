@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261123023600008?input=1195m",
-  "http://www.osen.co.kr/article/G1112913814",
-  "https://www.youthdaily.co.kr/news/article.html?no=230179",
-  "https://isplus.com/article/view/isp202611230017",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350033.html",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261123083959F0Q",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41784",
-  "https://www.decenter.kr/article/20117529",
-  "https://www.newspim.com/news/view/20261123000101",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/23/2026112390048.html",
-  "http://www.newswell.co.kr/news/articleView.html?idxno=23808",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506843",
   "https://www.viva100.com/article/20261123500047",
   "http://www.newstomato.com/ReadNews.aspx?no=1321314&inflow=N",
   "https://www.gukjenews.com/news/articleView.html?idxno=3757086",
@@ -2999,21 +2987,21 @@
   "https://www.m-i.kr/news/articleView.html?idxno=2022298",
   "https://www.dailybrief.co.kr/news/articleView.html?idxno=7390",
   "https://www.mk.co.kr/article/12216306",
-  "https://www.mk.co.kr/article/12216304"
+  "https://www.mk.co.kr/article/12216304",
+  "https://www.dt.co.kr/article/12096770",
+  "http://www.weeklytoday.com/news/articleView.html?idxno=803068",
+  "https://www.newsis.com/view/NISX20261123_0003879759",
+  "https://www.ppss.kr/news/articleView.html?idxno=322492",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=300413",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=131070",
+  "https://www.mediafine.co.kr/news/articleView.html?idxno=95755",
+  "http://www.newswatch.kr/news/articleView.html?idxno=82031",
+  "http://www.newskr.kr/news/articleView.html?idxno=108226",
+  "https://www.hani.co.kr/arti/economy/finance/1288687.html",
+  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91948",
+  "https://www.edaily.co.kr/News/Read?newsId=03322646645648672&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "통신사,양자·클라우드보안고도화경쟁'점화'",
-  "[패트롤]경기도-화성시",
-  "[월가톡톡]올트먼\"인간이AI의'리트리버'되는미래원치않아\"",
-  "삼성전자·SK하이닉스,개장전프리마켓서5%넘게하락[특징주]",
-  "NH證\"코스피,최악의경우3000선후반까지밀릴수도\"",
-  "삼성·SK주식어쩌나…美반도체쇼크에동반급락",
-  "편의점서인터넷·IPTV가입…CU,SK브로드밴드와제휴",
-  "LG유플러스,글로벌여행멤버십'원더조이'출시…7개국혜택제공",
-  "주가급락우려에'증안펀드'18년만에가동준비...F4긴급회의",
-  "증시급락에비상걸린정부,18년만에증안펀드가동하나...\"불법공매...",
-  "[세계는지금]심리가지배한뉴욕증시폭락장...AI시장검증중",
-  "DC분할로투자여력키운SKB…“3대핵심사업키워2030년매출5조달...",
   "하나에어로,KAI와'KT-1B'기체수명연장수리계약",
   "[텔코NOW]SKTㆍKT",
   "AEN,데뷔100일기념뮤직비디오…지용\"오랜만에교복을입으니좋다\"...",
@@ -6001,7 +5989,19 @@
   "천안시복지재단,'희망2027나눔캠페인공개모금행사'12월3일개최",
   "최태원회장의변심\"재산분할금9440억원전액지급\"이유는?",
   "\"AI로지역문제해결\"KT·행안부맞손",
-  "한국등9개국軍방화벽,절반넘게해킹취약"
+  "한국등9개국軍방화벽,절반넘게해킹취약",
+  "화이트해커가찾은보안취약점202건,참여기업·기관모두보완",
+  "[건설업계동향]대우건설ㆍGS건설ㆍIPARK현대산업개발(11.23)",
+  "\"서로다른보안제품,현장서함께검증하자\"…한국트러스트연합출범",
+  "삼성전자·SK하이닉스,장중6%대급락...3~4월수준으로후퇴",
+  "\"AI시대병목은데이터접근에있다\"",
+  "최태원,화해권고신청…\"노소영에9440억전액지급\"",
+  "최태원SK회장,재산분할9천440억원전액지급의사-대법원에화해권...",
+  "KT·수자원공사,물관리분야에피지컬AI도입…AX·현장실증추진",
+  "미국앞에선'중국AI칩통제'…뒤로는엔비디아·AMD반도체수출승인",
+  "증시계속된추락…투자목적·구성재정비할때",
+  "[업계만화경]불붙은음성AI개발경쟁…오픈AI,통역서비스공개",
+  "임문영의원,앤스로픽에'광주AI연구소'제안"
  ],
  "recent_sigs": [
   [
@@ -7019,9 +7019,25 @@
   [
    "2026-11-23T17:16:17.975519+09:00",
    "9개국 한국 취약 방화벽 절반넘게"
+  ],
+  [
+   "2026-11-23T17:18:16.902973+09:00",
+   "경쟁 음성AI 불붙은 공개 개발 통역서비스"
+  ],
+  [
+   "2026-11-23T17:18:16.902973+09:00",
+   "미국 통제 반도체 AMD AI칩 승인 수출 중국 앞에선 뒤로는"
+  ],
+  [
+   "2026-11-23T17:18:16.902973+09:00",
+   "증시 목적 투자 재정비할 계속된 구성 추락"
+  ],
+  [
+   "2026-11-23T17:18:16.902973+09:00",
+   "광주 연구소 의원 앤스로픽에 제안 임문영"
   ]
  ],
- "last_run": "2026-11-23T17:16:34.063238+09:00",
+ "last_run": "2026-11-23T17:18:41.535270+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
