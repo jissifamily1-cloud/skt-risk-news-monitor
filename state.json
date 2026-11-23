@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tjb.co.kr/news05/bodo/view/id/106374",
-  "https://www.livebiz.today/news/articleView.html?idxno=206772",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=284787",
-  "https://biz.heraldcorp.com/article/10945450",
-  "https://www.newsis.com/view/NISX20261123_0003878509",
-  "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611201535261420966",
-  "https://mhnse.com/news/articleView.html?idxno=1706792",
-  "https://biz.heraldcorp.com/article/10945463",
-  "https://www.bntnews.co.kr/article/view/bnt202611230114",
-  "https://www.news1.kr/world/usa-canada/6362221",
   "https://www.yna.co.kr/view/AKR20261123023600008?input=1195m",
   "http://www.osen.co.kr/article/G1112913814",
   "https://www.youthdaily.co.kr/news/article.html?no=230179",
@@ -2999,19 +2989,19 @@
   "https://www.tokenpost.kr/news/cryptocurrency/442824",
   "https://www.dailian.co.kr/news/view/1718494/?sc=Naver",
   "http://www.financialreview.co.kr/news/articleView.html?idxno=46539",
-  "https://www.fnnews.com/news/202611231612179754"
+  "https://www.fnnews.com/news/202611231612179754",
+  "https://news.dealsitetv.com/articles/179038",
+  "https://www.seoul.co.kr/news/life/health-news/2026/11/23/20261123500303?wlog_tag3=naver",
+  "http://coinreaders.com/272499",
+  "https://www.thelec.kr/news/articleView.html?idxno=65234",
+  "https://www.kukinews.com/article/view/kuk202611230180",
+  "https://news.dealsitetv.com/articles/179018",
+  "https://www.m-i.kr/news/articleView.html?idxno=2022298",
+  "https://www.dailybrief.co.kr/news/articleView.html?idxno=7390",
+  "https://www.mk.co.kr/article/12216306",
+  "https://www.mk.co.kr/article/12216304"
  ],
  "seen_titles": [
-  "'검은월요일'공포에떠는증시...18년만에증안펀드투입하나",
-  "\"AI시대병목은데이터접근에있다\"",
-  "국산NPU상용시대열었다...리벨리온,SKT에'리벨'칩서버40대공급",
-  "“美반도체폭락충격”…삼성전자·SK하이닉스프리마켓서6%안팎급...",
-  "[증시AI충격파]DS증권,1997년초와닮은美증시…\"긴축우려잦아들면...",
-  "[온체인주식선물]SK하이닉스,정규장종가보다5.59%할인",
-  "[특징주]삼전닉스,美반도체주폭락여파에프리마켓서6%급락",
-  "차기은행연합회장에박종복전SC제일은행장단독추천",
-  "“코스피최악엔4000까지”…유안타證,내년전망상단1만→7300대폭...",
-  "[국제금융브리핑]미10월근원PCE상승률3.2%전망...S&P500주간8.61...",
   "통신사,양자·클라우드보안고도화경쟁'점화'",
   "[패트롤]경기도-화성시",
   "[월가톡톡]올트먼\"인간이AI의'리트리버'되는미래원치않아\"",
@@ -6001,7 +5991,17 @@
   "엔비디아AI수요견조에도주가급락…단기반등가능성과하락추세...",
   "\"AI도7개분야로나눠담는다?\"…한투운용의연금전략은?",
   "[오늘의통신]KT·LG유플러스",
-  "앤스로픽,IPO성공에도채권은정크본드등급예상돼"
+  "앤스로픽,IPO성공에도채권은정크본드등급예상돼",
+  "[증권투데이]금융위,자사주1일취득한도3개월간완화外",
+  "“약끊기전AI에먼저묻는다면필독!”…임의변경자50.9%부작용경...",
+  "[AI예측]검증통과에도8%p밀렸다…리만가설AI해결73%",
+  "AI발기판품귀에...중견업계도증설또증설",
+  "코스피4700선턱걸이…이틀연속매도사이드카",
+  "카카오페이\"마이데이터로생활밀착강화하겠다\"",
+  "천안시복지재단,'희망2027나눔캠페인공개모금행사'12월3일개최",
+  "최태원회장의변심\"재산분할금9440억원전액지급\"이유는?",
+  "\"AI로지역문제해결\"KT·행안부맞손",
+  "한국등9개국軍방화벽,절반넘게해킹취약"
  ],
  "recent_sigs": [
   [
@@ -7015,9 +7015,13 @@
   [
    "2026-11-23T17:14:16.682371+09:00",
    "등급 채권은 예상돼 성공에도 정크본드 IPO"
+  ],
+  [
+   "2026-11-23T17:16:17.975519+09:00",
+   "9개국 한국 취약 방화벽 절반넘게"
   ]
  ],
- "last_run": "2026-11-23T17:14:45.590278+09:00",
+ "last_run": "2026-11-23T17:16:34.063238+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
