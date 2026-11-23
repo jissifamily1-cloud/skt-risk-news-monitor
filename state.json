@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12216087",
-  "https://www.wikitree.co.kr/articles/1176987",
-  "https://www.m-i.kr/news/articleView.html?idxno=2022063",
-  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51468",
-  "https://www.mk.co.kr/article/12216086",
-  "http://www.breaknews.com/1253065",
-  "https://www.khan.co.kr/article/202611231428001",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=8722",
-  "http://www.datanews.co.kr/news/article.html?no=147782",
-  "https://www.news1.kr/photos/8228284",
-  "https://www.news1.kr/photos/8228272",
   "https://www.edaily.co.kr/News/Read?newsId=02548566645648672&mediaCodeNo=257",
   "https://www.news1.kr/photos/8228264",
   "https://www.edaily.co.kr/News/Read?newsId=02551846645648672&mediaCodeNo=257",
@@ -2999,20 +2988,20 @@
   "http://coinreaders.com/272753",
   "https://www.mk.co.kr/article/12216691",
   "https://www.getnews.co.kr/news/articleView.html?idxno=888227",
-  "https://www.ajunews.com/view/20261124060929624"
+  "https://www.ajunews.com/view/20261124060929624",
+  "http://www.finomy.com/news/articleView.html?idxno=267527",
+  "http://www.ujeil.com/news/articleView.html?idxno=395706",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240005&t=NN",
+  "https://biz.chosun.com/international/international_general/2026/11/24/SSXQKEVYNJALTIHFC5ALPMVGLI/",
+  "https://www.kmib.co.kr/article/20261124500044",
+  "https://biz.heraldcorp.com/article/10946751",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446118",
+  "https://it.chosun.com/news/articleView.html?idxno=3000000001671",
+  "https://www.hani.co.kr/arti/international/america/1288764.html",
+  "https://www.bntnews.co.kr/article/view/bnt202611240012",
+  "http://www.consumernews.co.kr/news/articleView.html?idxno=768879"
  ],
  "seen_titles": [
-  "최태원회장\"한일기업·대학함께AI인재육성하자\"",
-  "GS건설,LS일렉트릭등3사와데이터센터서비스개시앞당긴다",
-  "LG세이커스,30일D리그첫경기예정",
-  "경남도,\"환경오염방지시설지원사칭사기주의하세요\"",
-  "대구공업대헤어디자인과,주민에무료헤어커트봉사...복지관서맞춤...",
-  "네이버커넥트재단,기술인재양성위한청소년로보틱스대회개최",
-  "WhatMachinesLove",
-  "AI말듣고약끊은절반이부작용경험",
-  "한국전력공사(한전),152만명개인정보유출후폭풍…2차피해위험",
-  "KT,수자원공사와물관리분야피지컬AI구축협력",
-  "닮은꼴대회우승자'젠슨황닮았나요?'",
   "美AI칩규제강화동남아비상,데이터센터업계\"칩확보난항\"",
   "최태원SK회장,도쿄포럼서\"AI네이티브사회,교육·대학부터완전히...",
   "엔비디아,SSD에대량데이터기록하는오류…핫픽스배포",
@@ -6001,7 +5990,18 @@
   "이더리움1,535달러폭락에도비트마인매수는7,819개뿐…톰리전략바...",
   "통신보안외치면뭐하나…“군대방화벽57%자동문수준입니다”",
   "\"GPU예수부활\"...젠슨황CEO복귀에실리콘밸리·월가환호",
-  "트럼프,젠슨황복귀에직접개입…\"내가설득하고성사시켜\""
+  "트럼프,젠슨황복귀에직접개입…\"내가설득하고성사시켜\"",
+  "인터넷가입창구된CU···점포망활용한새실험",
+  "李대통령,울산SKAI데이터센터점검",
+  "\"트럼프'젠슨황복귀작전'비밀리추진...밴스에특명\"",
+  "美정치권,젠슨황복귀에비판…“안보팔아넘겨”",
+  "“국가안보위협없다”트럼프각본,밴스주연의‘젠슨황구하기...",
+  "젠슨황복귀에나스닥6.51%폭등마감…엔비디아31.5%급등",
+  "[뉴욕증시-1보]젠슨황전격복귀에대환호…필리13.4%↑",
+  "엔비디아,젠슨황복귀에32%급등…시총하루새1조달러불어",
+  "젠슨황복귀에엔비디아30%대급등…나스닥6.47%반등",
+  "젠슨황돌아오자머스크도웃었다…재산76조원증가",
+  "[데이터&뉴스]SK하이닉스영업이익률76.7%1000대기업중'톱'…삼성전..."
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,17 @@
   [
    "2026-11-24T06:12:26.689001+09:00",
    "조사 내가 민주 전면 설득 이사회 트럼프"
+  ],
+  [
+   "2026-11-24T06:18:18.893764+09:00",
+   "삼성전 기업 1000대 SK하이닉스 영업이익률"
+  ],
+  [
+   "2026-11-24T06:18:18.893764+09:00",
+   "머스크도 웃었다 젠슨황 76조원 재산 증가 돌아오자"
   ]
  ],
- "last_run": "2026-11-24T06:16:39.924594+09:00",
+ "last_run": "2026-11-24T06:18:40.337451+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
