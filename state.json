@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01492406645648672&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4445947",
-  "https://www.newspim.com/news/view/20261123000089",
-  "https://www.the-stock.kr/news/articleView.html?idxno=33873",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495522",
-  "https://www.munhwa.com/article/11633197",
-  "https://www.ziksir.com/news/articleView.html?idxno=154256",
-  "https://www.itdaily.kr/news/articleView.html?idxno=243092",
   "https://www.cbci.co.kr/news/articleView.html?idxno=629673",
   "https://www.todayenergy.kr/news/articleView.html?idxno=305897",
   "https://www.public25.com/news/articleView.html?idxno=58833",
@@ -2999,17 +2991,17 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=888175",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=302624",
   "https://www.huffingtonpost.kr/article/262315",
-  "https://zdnet.co.kr/view/?no=20261123172851"
+  "https://zdnet.co.kr/view/?no=20261123172851",
+  "http://www.interview365.com/news/articleView.html?idxno=112404",
+  "https://www.the-today.com/news/articleView.html?idxno=93991",
+  "https://www.hankookilbo.com/news/article/A2026112315490001723?did=NA",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3760631",
+  "https://www.newspim.com/news/view/20261123001121",
+  "https://www.apnews.kr/news/articleView.html?idxno=3053437",
+  "https://www.khan.co.kr/article/202611231730001",
+  "https://www.mt.co.kr/industry/2026/11/23/2026112316063996545"
  ],
  "seen_titles": [
-  "아태어디든통신사혜택,LGU+'원더조이'국내서비스개시",
-  "베선트,젠슨황엔비디아복귀배제안해…입장변화",
-  "李대통령“AI데이터센터가산업성장의핵심”…SK울산현장서투자...",
-  "김어준여론조사에서도...조희대탄핵‘반대’50.1%vs‘찬성’44.6%",
-  "\"단순서술형전환,해법아니다…평가자체를바꿔야\"",
-  "KB證“AI매도세,내년1월에진정…채권매수세돌아오면주식도반등...",
-  "래블업,美인사이트와손잡고현지엔터프라이즈AI인프라시장'공략...",
-  "[외환+]美기술주투매에원화'출렁'···환율1340원대출발",
   "리플(XRP),2년만의최저치로...과거바닥처럼4개월버텨야한다?",
   "박종복前SC제일은행장,차기은행연합회장내정",
   "CU,SK브로드밴드와편의점서인터넷·IPTV가입서비스도입",
@@ -6001,7 +5993,15 @@
   "\"재산분할액9440억원다낼테니분쟁끝내자\"SK그룹최태원회장,대법...",
   "'9440억전액지급'결단내린최태원회장…9년이혼·재산분할분쟁마...",
   "LG유플러스홍범식2027조직개편에AI데이터센터직접투자기조담았...",
-  "엔비디아,AI에이전트로신약·신소재개발앞당긴다"
+  "엔비디아,AI에이전트로신약·신소재개발앞당긴다",
+  "류경수,'신병유니버스'합류...영화'신병더무비'서의문의병사로...",
+  "2만6천명달렸다…2026난징마라톤개막",
+  "음성AI가건설·조선은어도통역한다...외국인노동자소통공백메워",
+  "코스피4708.54로마감,2거래일연속하락…하락종목824개",
+  "최태원회장,2440억다툼대신'SK의미래'택했다",
+  "최태원,9440억전액지급'대승적결단'…\"AI강국도약에전념\"",
+  "미·중·동남아업계모두위기…글로벌AI붐취약성드러낸엔비디아...",
+  "AI투자불안에D램값도'흔들'..분기점에선삼전닉스슈퍼사이클"
  ],
  "recent_sigs": [
   [
@@ -7075,9 +7075,13 @@
   [
    "2026-11-23T17:30:36.452551+09:00",
    "에이전트로 앞당긴다 신소재 신약 개발"
+  ],
+  [
+   "2026-11-23T17:32:15.775107+09:00",
+   "슈퍼사이클 불안에 D램값도 분기점에 흔들 투자 삼전닉스"
   ]
  ],
- "last_run": "2026-11-23T17:30:55.431939+09:00",
+ "last_run": "2026-11-23T17:32:32.851256+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
