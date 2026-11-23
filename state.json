@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01259526645648672&mediaCodeNo=257",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261123010008530",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000085439",
-  "http://coinreaders.com/272485",
-  "https://www.mt.co.kr/world/2026/11/23/2026112307041398922",
-  "https://biz.sbs.co.kr/article_hub/20000348075?division=NAVER",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=206171",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717273",
-  "https://www.fntimes.com/html/view.php?ud=202611230713134251141825007d_18",
-  "https://www.hankyung.com/article/2026112328496",
-  "https://www.sisaon.co.kr/news/articleView.html?idxno=206036",
   "https://www.etnews.com/20261120000244",
   "https://www.sedaily.com/article/20117405",
   "https://www.edaily.co.kr/News/Read?newsId=01269366645648672&mediaCodeNo=257",
@@ -2999,20 +2988,20 @@
   "https://www.kyeonggi.com/article/20261123580241",
   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091735",
   "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292677192441",
-  "https://www.dt.co.kr/article/12096746"
+  "https://www.dt.co.kr/article/12096746",
+  "https://www.aitimes.com/news/articleView.html?idxno=217665",
+  "https://www.edaily.co.kr/News/Read?newsId=03155366645648672&mediaCodeNo=257",
+  "https://www.tokenpost.kr/news/ai/442806",
+  "https://www.mt.co.kr/stock/2026/11/23/2026112315194830663",
+  "https://www.ytn.co.kr/_ln/0102_202611211116080371",
+  "https://www.joongboo.com/news/articleView.html?idxno=363741134",
+  "https://www.mk.co.kr/article/12216265",
+  "https://www.joongang.co.kr/article/25481128",
+  "http://www.queen.co.kr/news/articleView.html?idxno=466784",
+  "https://www.jasm.co.kr/news/view/326209/?sc=Naver",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720102"
  ],
  "seen_titles": [
-  "앤트로픽,월가에'오픈AI일하지마라'…118조IPO무기로은행압박",
-  "\"잔치뒤가더무섭다\"…반도체산업의'핏줄'화물노동자의노동과불...",
-  "집토끼다잡은SSG…프로야구FA일주일,계약상황은?",
-  "[사설]미국발주가폭락,과도한공포보다냉정한대응을",
-  "[단독]심형래'디워',AI예고편최초공개...힉스필드AI·김대식교수...",
-  "‘크래시2’이민기·곽선영,‘놀토’첫출격…김동현과의외의공통...",
-  "부문장‘전부교체’초강수…LG유플러스조직개편키워드는?",
-  "'검은월요일'공포...정부,'증안펀드'가동준비착수",
-  "'검은월요일'우려에정부긴급회의…18년만에'증권시장안정펀드'준...",
-  "“저평가우량주사놓고주식창끕니다”…그와중에‘더싼종목’찾...",
-  "삼성전자18만원·SK하이닉스110만원지킬까…반도체업황전망엇갈려",
   "오픈AI\"사전학습으로AI지능급성장…자기개선대비해개발제한\"",
   "미재무\"엔비디아규정준수여부,스캔들과별개\"...\"국제밀수망얽혀...",
   "월가강세론자S&P500목표7500로하향…골드만삭스\"최대806억달러매...",
@@ -6001,7 +5990,18 @@
   "“젠슨황,불륜논란전14조원옮겼다”…주가폭락전무슨일이?",
   "[아침광장]AI시대를주도할리더십과사용법",
   "ktMOS남부부산본부,송현사회적협동조합과함께지역사회나눔이어...",
-  "[이혜선의차이나는테크]美,중국통신사규제전방위확대…미중갈..."
+  "[이혜선의차이나는테크]美,중국통신사규제전방위확대…미중갈...",
+  "오픈AI\"사전학습으로AI지능급성장…RSI대비해개발제한해야\"",
+  "\"증시6조달러증발,100%민주당때문\"…트럼프의'뒤끝'",
+  "연5823만5839달러우주쓰레기비용추산…BQP궤도식별AI개발",
+  "코스피4700선턱걸이…기대했던증안펀드효과는'미미'",
+  "4,900선무너진코스피...다음주미국물가·한은금통위'주목'",
+  "[시대만필]AI시대,책을읽는다는것",
+  "앤트로픽상장하자SK텔레콤주가‘뚝’[오늘,이종목]",
+  "최태원,대법원에재산분할‘화해권고’신청…9440억지급의사밝혀",
+  "[오늘증시]코스피3%급락하며4700선턱걸이…반도체쇼크에투심얼어...",
+  "'152만명'개인정보털린한전…개보위,조사착수",
+  "빗썸에381조원해킹코인유입…이상거래감지‘구멍’"
  ],
  "recent_sigs": [
   [
@@ -6987,9 +6987,13 @@
   [
    "2026-11-23T16:36:16.629165+09:00",
    "리더십과 주도할 AI시대를 사용법"
+  ],
+  [
+   "2026-11-23T16:38:15.959477+09:00",
+   "빗썸에 유입 이상 381조 구멍 코인 감지 거래"
   ]
  ],
- "last_run": "2026-11-23T16:36:39.809437+09:00",
+ "last_run": "2026-11-23T16:38:35.342824+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
