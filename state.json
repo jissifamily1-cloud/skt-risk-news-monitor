@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://isplus.com/article/view/isp202611220056",
-  "http://www.inews24.com/view/2028973",
-  "https://www.news1.kr/economy/trend/6361977",
-  "https://view.asiae.co.kr/article/2026112214284920436",
-  "https://www.hankookilbo.com/news/article/A2026110814460005810?did=NA",
-  "https://www.fnnews.com/news/202611221402468636",
-  "https://www.hidomin.com/news/articleView.html?idxno=730434",
-  "https://www.asiatime.co.kr/article/20261122500065",
   "http://www.jeollailbo.com/news/articleView.html?idxno=817471",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=903950",
   "https://www.edaily.co.kr/News/Read?newsId=01672806645648344&mediaCodeNo=257",
@@ -2999,17 +2991,17 @@
   "https://www.jnilbo.com/news/articleView.html?idxno=90000085623",
   "http://coinreaders.com/272559",
   "https://www.edaily.co.kr/News/Read?newsId=02161526645648672&mediaCodeNo=257",
-  "https://www.munhwa.com/article/11633309"
+  "https://www.munhwa.com/article/11633309",
+  "https://www.itdaily.kr/news/articleView.html?idxno=243119",
+  "https://www.itdaily.kr/news/articleView.html?idxno=243109",
+  "https://www.itdaily.kr/news/articleView.html?idxno=243121",
+  "https://www.itdaily.kr/news/articleView.html?idxno=243117",
+  "https://www.ppss.kr/news/articleView.html?idxno=322329",
+  "https://www.cnbizm.com/news/articleView.html?idxno=322330",
+  "https://www.munhwa.com/article/11633318",
+  "https://biz.sbs.co.kr/article_hub/20000348178?division=NAVER"
  ],
  "seen_titles": [
-  "최태원\"AI시대대학교육다시설계해야\"..SK,데이터센터인재양성...",
-  "\"앨리스황은'얼굴노릇'만…엔비디아칩중국밀수주도자는50대중국인...",
-  "외국인매도85.6%,삼전·하이닉스직격…코스피시험대",
-  "아마존,이스라엘AI스타트업75억달러인수임박",
-  "[IS이슈]'수도권구단도참전'너도나도구자욱,A등급이지만역대급...",
-  "코스피5000선붕괴⋯美반도체주폭락에'검은월요일'오나",
-  "이형일부총리,긴급F4회의소집…美반도체폭락에시장점검",
-  "\"앨리스황은앞에,리밍은뒤에\"…엔비디아칩中밀수망실세지목",
   "KT\"AI시대기술의기회와혜택,누구나누릴수있도록\"",
   "이억원\"글로벌금융시스템복원력높여야\"",
   "앤트로픽발AI거품론정말터지나…코스피\"나떨고있니\"",
@@ -6001,7 +5993,15 @@
   "삼성증권'고객센터첨부파일'해킹에8천여명개인정보유출",
   "대만당국,공매도전면금지…엔비디아(NVDA)쇼크AI투매멈출까",
   "코스피,장중매도사이드카발동…4600선위태",
-  "차주·경로정보폐차해도남아…中정부마음먹으면통제가능[위기의..."
+  "차주·경로정보폐차해도남아…中정부마음먹으면통제가능[위기의...",
+  "협력사보안빗장채운다…LGU+,160곳공급망취약점점검완료",
+  "[기고]AI자율침투도구'아르텍스'가드러낸보안의새과제①",
+  "중소팹리스,메모리·기판조달난…정부,공급망협력모색",
+  "LGU+,여행멤버십'원더조이'출시…글로벌통신사와현지혜택공유",
+  "코스피,장초반3%급락…4,600선까지밀려",
+  "삼성증권,고객8241명개인정보유출…VOC시스템해킹",
+  "美,中‘AI데이터센터우회접속’차단…“한국엔기회”",
+  "HD현대또해킹…로봇사뚫려"
  ],
  "recent_sigs": [
   [
@@ -7163,9 +7163,17 @@
   [
    "2026-11-23T11:54:15.450585+09:00",
    "금지 공매도 NVDA 당국 투매 멈출까 쇼크 전면 대만"
+  ],
+  [
+   "2026-11-23T11:58:20.195831+09:00",
+   "한국엔 데이터센터 우회접속 차단 기회"
+  ],
+  [
+   "2026-11-23T11:58:20.195831+09:00",
+   "HD현대 뚫려 로봇사"
   ]
  ],
- "last_run": "2026-11-23T11:56:30.594526+09:00",
+ "last_run": "2026-11-23T11:58:42.070654+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
