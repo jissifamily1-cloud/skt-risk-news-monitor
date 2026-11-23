@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/photos/8226612",
-  "https://www.newspim.com/news/view/20261122000031",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=903930",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086164",
-  "https://www.kado.net/news/articleView.html?idxno=2086268",
-  "http://www.metroseoul.co.kr/article/20261122500099",
-  "https://biz.heraldcorp.com/article/10944968",
-  "https://www.dailian.co.kr/news/view/1718077/?sc=Naver",
-  "https://www.kado.net/news/articleView.html?idxno=2086266",
-  "https://www.yna.co.kr/view/AKR20261122016400009?input=1195m",
-  "https://www.kfenews.co.kr/news/articleView.html?idxno=668532",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717183",
   "https://zdnet.co.kr/view/?no=20261122102419",
   "http://www.metroseoul.co.kr/article/20261122500105",
@@ -2999,20 +2988,20 @@
   "https://www.boannews.com/news/articleView.html?idxno=147441",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1544633",
   "https://www.lawissue.co.kr/view.php?ud=20261123105717195667191f6c6e_12",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=302458"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=302458",
+  "https://www.fnnews.com/news/202611230140263069",
+  "https://view.asiae.co.kr/article/2026112309235537815",
+  "https://www.kmaeil.com/news/articleView.html?idxno=659306",
+  "https://dgmbc.com/NewsArticle/874274",
+  "https://www.livebiz.today/news/articleView.html?idxno=206783",
+  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1314649",
+  "http://www.paxetv.com/news/articleView.html?idxno=287603",
+  "https://www.tokenpost.kr/news/tech/442685",
+  "https://www.newscj.com/news/articleView.html?idxno=3451208",
+  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50791",
+  "https://view.asiae.co.kr/article/2026111608400439777"
  ],
  "seen_titles": [
-  "최태원\"AI네이티브사회맞춰교육새롭게설계해야\"",
-  "[김대호인물]앤스로픽IPO아모데이남매",
-  "\"오픈AI기업문화무너져\"…퇴사직원,AI폭주경고",
-  "다시확산되는'AI투자불안'",
-  "라디오뺀'팩트체크가점'…CBS\"불합리한역차별\"",
-  "최태원회장,도쿄포럼2026참석",
-  "최태원회장,도쿄포럼2026발표",
-  "트럼프\"이란핵무기못갖게할것\"…영구적합의추진",
-  "최태원\"한·일AI시대교육새로설계해인재양성해야\"",
-  "SK최태원\"한국·일본,기업·대학함께AI인재공동육성하자\"",
-  "트럼프\"이란과영구적인합의할것\"…FBI해킹엔\"부정선거파악기회...",
   "LG유플러스,AIB2B사업힘준다…김홍근LGCNS부사장영입",
   "젠슨황후폭풍어디까지…美,실리콘밸리전체에‘규제칼날’빼드나...",
   "트럼프,FBI해킹사태에\"부정선거파악하게될수도…긍정적\"",
@@ -6001,7 +5990,18 @@
   "삼성증권고객개인정보8241건유출...'고객의소리'서비스노린해킹",
   "삼성증권해킹피해…8천여명개인정보유출",
   "타이어뱅크,ktwiz선수단에특별후원금전달",
-  "[기자수첩]KT스카이·HCN합병,유료방송한계돌파위한생존몸부림"
+  "[기자수첩]KT스카이·HCN합병,유료방송한계돌파위한생존몸부림",
+  "'30경기악몽'딛고45홈런폭발…김도영,올겨울KBO트로피싹쓸이예...",
+  "사법리스크덜어낸김범수…카카오,'잃어버린3년'되찾는다",
+  "[문인찬의新技術論]NewTechnologyParadigm#6",
+  "AI믿고처방약임의중단·변경···절반이상부작용겪어",
+  "컬리,임직원199명·개인회원2명개인정보추가유출확인",
+  "[특징주]SK텔레콤'지분보유'앤트로픽급락영향속-8%대하락",
+  "타이어뱅크,ktwiz에특별후원금전달···11년동행이어간다",
+  "젠슨황청원서명20만건넘어…엔비디아이사회는복귀계획없어",
+  "코스피,4700선까지밀렸다…SK하닉'110만닉스'붕괴",
+  "삼성증권고객민원시스템해킹…8241명개인정보유출",
+  "[K우먼톡]AI가일의80%를하면,사람은무엇을해야하나"
  ],
  "recent_sigs": [
   [
@@ -7063,9 +7063,13 @@
   [
    "2026-11-23T11:00:39.231895+09:00",
    "돌파 HCN ~KT 생존 KT스카이 합병 한계 몸부림 유료방송 위한"
+  ],
+  [
+   "2026-11-23T11:02:15.207316+09:00",
+   "사람은 AI가 무엇을 하나 하면 일의 해야"
   ]
  ],
- "last_run": "2026-11-23T11:00:57.654893+09:00",
+ "last_run": "2026-11-23T11:02:36.645488+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
