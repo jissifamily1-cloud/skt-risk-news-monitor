@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003287073&CMPT_CD=P0010",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300419",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065570284335057",
-  "https://www.wolyo.co.kr/news/articleView.html?idxno=320882",
-  "https://www.hankyung.com/article/202611233126i",
-  "https://www.ekn.kr/web/view.php?key=20261121024092851",
-  "https://www.hankyung.com/article/202611233120i",
-  "https://www.kyosu.net/news/articleView.html?idxno=212724",
-  "https://biz.chosun.com/stock/stock_general/2026/11/23/T2S5YMU2XFCIPITAYFQITJNSSE/",
-  "http://www.newsprime.co.kr/news/article.html?no=755976",
   "https://www.seoulfn.com/news/articleView.html?idxno=643579",
   "http://coinreaders.com/272508",
   "https://news.dealsitetv.com/articles/178992",
@@ -2999,19 +2989,19 @@
   "https://www.ytn.co.kr/_ln/0102_202611211504504105",
   "https://www.hankyung.com/article/2026112330656",
   "https://byline.network/?p=9004111222628755",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627100"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627100",
+  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232157",
+  "https://www.gokorea.kr/news/articleView.html?idxno=886954",
+  "https://www.m-economynews.com/news/article.html?no=73485",
+  "https://www.tfmedia.co.kr/news/article.html?no=209138",
+  "https://imnews.imbc.com/replay/2026/nw1700/article/6867890_36981.html",
+  "https://www.goodmorningcc.com/news/articleView.html?idxno=456374",
+  "https://www.huffingtonpost.kr/article/262312",
+  "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350340.html",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720134",
+  "https://www.newsis.com/view/NISX20261123_0003879758"
  ],
  "seen_titles": [
-  "TTA,글로벌AI성능벤치마크'MLPerf'에국내최초전력측정결과등재",
-  "악성문자5억건,수신전에막았다",
-  "\"어머니가낙태했어야\"…젠슨황,직원들에게상습폭언",
-  "美재무부,엔비디아대중국반도체거래정조준…경영진책임규명착...",
-  "미국주가급락에도저가매수자들여전히주춤주춤",
-  "코스피'검은월요일'공포...'10조증안펀드'방파제될까[뉴스UP]",
-  "영국인뱅스타링창업자,새‘AI네이티브뱅크’추진중",
-  "이대통령,울산AI데이터센터현장점검…\"속도가생명,인력대책...",
-  "李대통령“AI데이터센터ㆍ메모리수요더커질것⋯투자속도높여야...",
-  "이대통령\"AI인프라지방중심투자…균형발전핵심동력\"",
   "입국부터출국까지여행동선맞춘멤버십…CJONE글로벌,방한객에10...",
   "KT알파쇼핑,ktwiz와10년째유소년야구단후원…1000만원전달",
   "\"경쟁사와일하지말라\"...미IPO대어들,월가에전례없는갑질",
@@ -6001,7 +5991,17 @@
   "4,900선무너진코스피...다음주미국물가·금통위주목",
   "\"칩장기계약10년넘어20년까지\"…메모리반도체'슈퍼을'된다",
   "“용접소음도뚫고통역한다”…오픈AI음성AI입은하이워커",
-  "현대홈쇼핑인적분할확정…현대百그룹지배구조개편속도"
+  "현대홈쇼핑인적분할확정…현대百그룹지배구조개편속도",
+  "\"AI가수학최대난제리만가설증명\"주장…치열한검증예고",
+  "코스피3%대급락4708선추락·코스닥2년만에최저,사이드카2거래일...",
+  "코스피3.31%급락4,708선마감...AI투자불안에이틀연속매도사이드...",
+  "최태원,大法에화해권고결정요청…\"노소영에9440억원전액지급의사...",
+  "최태원\"재산분할금9천440억원전액내겠다\"",
+  "수자원공사,KT와물관리분야피지컬AI구축협력",
+  "베센트미국재무장관이엔비디아'하위직급'의책임까지거론했다:반...",
+  "[정정보도]'조승아KT전사외이사'기사관련",
+  "미재무“엔비디아수출통제준수여부가핵심”…젠슨황복귀가능성...",
+  "안경써야시험지가보인다?…AI커닝막는역발상"
  ],
  "recent_sigs": [
   [
@@ -7063,9 +7063,25 @@
   [
    "2026-11-23T17:26:21.081006+09:00",
    "확정 현대홈쇼핑 인적분할 속도 현대 지배구조 개편"
+  ],
+  [
+   "2026-11-23T17:28:15.313768+09:00",
+   "~KT 기사 사외이사 조승아"
+  ],
+  [
+   "2026-11-23T17:28:15.313768+09:00",
+   "베센트 재무장관이 거론했다 미국 직급 하위 책임까지"
+  ],
+  [
+   "2026-11-23T17:28:15.313768+09:00",
+   "재무 준수 수출통제 복귀 가능성 핵심 여부가 젠슨"
+  ],
+  [
+   "2026-11-23T17:28:15.313768+09:00",
+   "역발상 커닝 보인다 안경 막는 써야 시험지가"
   ]
  ],
- "last_run": "2026-11-23T17:26:40.059603+09:00",
+ "last_run": "2026-11-23T17:28:44.693834+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
