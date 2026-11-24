@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300473",
-  "https://www.nocutnews.co.kr/news/6611601",
-  "https://www.gokorea.kr/news/articleView.html?idxno=887044",
-  "https://www.newsis.com/view/NISX20261124_0003880394",
   "https://www.edaily.co.kr/News/Read?newsId=02587926645649000&mediaCodeNo=257",
   "https://www.hankookilbo.com/news/article/A2026112409460000196?did=NA",
   "https://www.gokorea.kr/news/articleView.html?idxno=887046",
@@ -2999,13 +2995,13 @@
   "https://www.edaily.co.kr/News/Read?newsId=04247606645649000&mediaCodeNo=257",
   "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450382.html",
   "https://www.edaily.co.kr/News/Read?newsId=04244326645649000&mediaCodeNo=257",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446317"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446317",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3761969",
+  "https://www.yna.co.kr/view/AKR20261124174000002?input=1195m",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861673&plink=ORI&cooper=NAVER",
+  "https://news.jtbc.co.kr/article/NB12329605?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "한세대,AI보다사람의통찰앞세운다…2035년대학대전환선언",
-  "대구교통공사,제21회기관사역량경연대회개최...이상신최우수상",
-  "메모리호황에후공정장비까지수혜…테크윙·ISC상승동력보니",
-  "삼성전기,반도체기판서부사장2명배출…1등기술력힘싣는다",
   "레드펜소프트,네트워크장비취약점점검기능탑재",
   "'2026KDUG도미노밋업'성료···도미노최신기술로드맵조명",
   "젠슨황복귀에코스피'활짝'",
@@ -6001,7 +5997,11 @@
   "의혹조사도안끝났는데컴백…백악관압박에이사회무용론대두",
   "젠슨황,알려진두여성외에또있었다…WSJ\"이사회에추가불륜고...",
   "'스파이의혹강력부인'중국정부,젠슨황복귀엔\"논평없다\"",
-  "[亞증시-종합]젠슨황복귀에日·臺↑…中혼조·홍콩↓"
+  "[亞증시-종합]젠슨황복귀에日·臺↑…中혼조·홍콩↓",
+  "대전시,방산소부장특화단지국비414억확보…첨단국방산업도약본...",
+  "하나저축은행도뚫렸다…고객552명개인정보유출",
+  "GPU예수부활?…젠슨황복귀에환영?아부?",
+  "엔비디아31%폭등…'판뒤집은'트럼프,200억잭팟?"
  ],
  "recent_sigs": [
   [
@@ -7263,9 +7263,13 @@
   [
    "2026-11-24T19:20:27.836525+09:00",
    "젠슨 복귀에 홍콩 혼조"
+  ],
+  [
+   "2026-11-24T19:22:16.104835+09:00",
+   "트럼프 폭등 잭팟 뒤집은 200억"
   ]
  ],
- "last_run": "2026-11-24T19:20:43.336798+09:00",
+ "last_run": "2026-11-24T19:22:34.790718+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
