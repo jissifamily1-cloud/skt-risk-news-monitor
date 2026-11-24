@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.idaegu.com/news/articleView.html?idxno=667246",
-  "https://www.ytn.co.kr/_ln/0134_202611241550158906",
-  "https://tk.newdaily.co.kr/site/data/html/2026/11/24/2026112450303.html",
-  "https://www.news1.kr/local/moi/6364296",
-  "https://www.fomos.kr/redirect/news_view?news_cate_id=39&entry_id=157596",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452777",
-  "https://www.updownnews.co.kr/news/articleView.html?idxno=319730",
-  "https://www.jemin.com/news/articleView.html?idxno=848310",
-  "https://www.intn.co.kr/news/articleView.html?idxno=3000481",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=327215",
   "https://www.intn.co.kr/news/articleView.html?idxno=3000459",
   "http://www.segyebiz.com/newsView/20261124514342?OutUrl=naver",
@@ -2999,18 +2990,18 @@
   "https://www.m-economynews.com/news/article.html?no=73544",
   "https://biz.sbs.co.kr/article_hub/20000348661?division=NAVER",
   "https://www.ajunews.com/view/20261125072113855",
-  "https://news.tf.co.kr/read/world/2392967.htm"
+  "https://news.tf.co.kr/read/world/2392967.htm",
+  "https://www.edaily.co.kr/News/Read?newsId=01731846645649328&mediaCodeNo=257",
+  "https://www.hankookilbo.com/news/article/A2026112410380004405?did=NA",
+  "https://www.edaily.co.kr/News/Read?newsId=01718726645649328&mediaCodeNo=257",
+  "https://www.tjb.co.kr/news05/bodo/view/id/106484",
+  "https://www.fnnews.com/news/202611250737408007",
+  "https://www.ziksir.com/news/articleView.html?idxno=154556",
+  "https://www.mt.co.kr/world/2026/11/25/2026112506532449773",
+  "https://zdnet.co.kr/view/?no=20261125073442",
+  "https://dealsite.co.kr/articles/173366"
  ],
  "seen_titles": [
-  "코스피6.32%급등…대구경북상장사도일제히반등",
-  "젠슨황은복귀시키더니'중국스파이의혹'메가스피드는결국...[이슈...",
-  "포항영일만항,북극항로거점도약전략국회서논의",
-  "\"AI가민원답하고국민이정책평가\"…정부혁신박람회열린다",
-  "DN수퍼스,LCK로스터확정후워크숍\"목표는롤드컵,팬들웃게하겠...",
-  "엔키화이트햇국내유일공격형보안상장사노린다,이성권\"보안은기...",
-  "\"AI시대승자는자체LLM기업\"…미래에셋자산운용,글로벌LLM액티브ETF...",
-  "제주대공대연구실문활짝…고3수험생진로체험기회",
-  "미래에셋,글로벌LLM기업투자하는'TIGER글로벌LLM액티브ETF'신규상...",
   "디지털자산법정부안공개…거래소대주주지분20%제한·국내ICO허용",
   "'디지털자산업의혁신과이용자보호에관한법률'제정안입법추진",
   "디지털자산기본법정부안공개…거래소지분최대34%로묶고스테이블...",
@@ -6001,7 +5992,16 @@
   "앤트로픽,상장4거래일만에공모가하회...AI투자우려에6.5%급락",
   "[마켓프리뷰]글로벌증시살린젠슨황…커지는변동성'경고음'",
   "[아주증시포커스]'황의귀환'에엔비디아시총1300조원'쑥'…삼전닉스...",
-  "美CIA·국가정보국도해킹피해…비기밀정보유출"
+  "美CIA·국가정보국도해킹피해…비기밀정보유출",
+  "‘하루천하’젠슨황복귀효과…“코스피추세전환아직”",
+  "블룸버그\"젠슨황,매일심리치료받는중\"",
+  "AI랠리하루만에꺾여…앤스로픽공모가아래로[뉴스새벽배송]",
+  "뉴욕증시AI·반도체주차익실현에혼조마감...엔비디아5.9%↓",
+  "\"심리치료받고있다\"며전직원앞에사과한젠슨황",
+  "젠슨황복귀랠리'1일천하'…엔비디아5.9%·나스닥1.48%하락",
+  "화웨이미국서유죄평결…이란제재위반·영업비밀탈취혐의",
+  "미CIA·ODNI,해킹으로비기밀정보일부노출",
+  "[벤처캐피탈리스트]성장금융황인정,웨이브벤처스독립…PE·VC동시구..."
  ],
  "recent_sigs": [
   [
@@ -6491,9 +6491,17 @@
   [
    "2026-11-25T07:42:18.482407+09:00",
    "황의 시총 귀환 삼전닉스 1300조원"
+  ],
+  [
+   "2026-11-25T07:44:15.688817+09:00",
+   "웨이브벤처스 독립 VC 동시 PE 성장금융 황인정"
+  ],
+  [
+   "2026-11-25T07:44:15.688817+09:00",
+   "꺾여 아래로 랠리 공모가 하루만에"
   ]
  ],
- "last_run": "2026-11-25T07:42:39.077430+09:00",
+ "last_run": "2026-11-25T07:44:39.673500+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
