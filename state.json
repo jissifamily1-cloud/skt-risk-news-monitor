@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/local/daejeon-chungnam/6364389",
-  "https://news.jtbc.co.kr/article/NB12329562?influxDiv=NAVER",
-  "https://www.businesspost.co.kr/BP?command=article_view&num=452780",
-  "https://www.news1.kr/world/usa-canada/6364313",
-  "https://www.hani.co.kr/arti/politics/politics_general/1288844.html",
-  "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91973",
-  "https://view.asiae.co.kr/article/2026112415163645091",
-  "https://www.aitimes.com/news/articleView.html?idxno=217742",
-  "https://biz.chosun.com/stock/finance/2026/11/24/TSR2PW7QQZGOZNQPRO5SSMZAUI/",
-  "https://www.edaily.co.kr/News/Read?newsId=03424326645649000&mediaCodeNo=257",
   "https://www.businesspost.co.kr/BP?command=article_view&num=452759",
   "https://www.gukjenews.com/news/articleView.html?idxno=3761591",
   "https://www.onews.tv/news/articleView.html?idxno=292398",
@@ -2999,19 +2989,19 @@
   "https://view.asiae.co.kr/article/2026112505591772779",
   "https://www.thereport.co.kr/news/articleView.html?idxno=93680",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550003.html",
-  "https://biz.heraldcorp.com/article/10948112"
+  "https://biz.heraldcorp.com/article/10948112",
+  "http://www.seouleconews.com/news/articleView.html?idxno=95198",
+  "https://www.nocutnews.co.kr/news/6612118",
+  "https://biz.sbs.co.kr/article_hub/20000348658?division=NAVER",
+  "https://www.news1.kr/world/international-economy/6364918",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861923&plink=ORI&cooper=NAVER",
+  "https://www.ajunews.com/view/20261125060906815",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721706",
+  "https://www.ytn.co.kr/_ln/0104_202611250606360962",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6868309_37012.html",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6868310_37012.html"
  ],
  "seen_titles": [
-  "조달청,세종창조경제혁신센터방문혁신제품실증현장점검",
-  "중국관영매체\"젠슨리,젠슨장또나올것…'중국의침투'퍼뜨리려...",
-  "젠슨황복귀에삼성전자·SK하이닉스'한숨돌려',중국AI칩수출통제...",
-  "[일지]젠슨황의추락과귀환…불륜·스파이의혹부터사임·반전",
-  "[뉴스다이브]김민석취임100일!점수는?",
-  "[통신브리핑]SK텔레콤·KT·LG유플러스",
-  "KT,육군교육사령부와차세대지휘통제체계고도화",
-  "[AI모델신작]호요버스의게임AI·엔비디아의확산언어모델등7종",
-  "시세조종에해킹물량유입…빗썸,코인관리부실논란",
-  "자동차도해킹시대…“차량부터피지컬AI까지보안시장선도”",
   "[김재섭의뒤집어보기]사람이한게아니라AI가한것이라괜찮다?,테...",
   "iM뱅크·포항상의,제28회포항CEO포럼개최...허준영교수강연",
   "\"먹통·파손공공와이파이잡는다\"…경남도,117곳점검해51곳재정비",
@@ -6001,7 +5991,17 @@
   "[속보]AI반등하루만에나스닥1.48%↓…앤스로픽공모가하회",
   "[신동립잡기노트]남자는능력,여자는외모(feat젠슨황)",
   "[속보]엔비디아5.86%마이크론11%급락…'젠슨황컴백환호'하루도...",
-  "정식스파이아니어도안보위협?…젠슨황사태로드러난中첩보활동의..."
+  "정식스파이아니어도안보위협?…젠슨황사태로드러난中첩보활동의...",
+  "오픈AI,AI개발속도에제동제안…업계공동상한선촉구",
+  "젠슨황복귀에'불기둥'…AI에울고웃는코스피",
+  "[속보]급등하루만에엔비디아'뚝'…나스닥,1.5%↓",
+  "[속보]엔비디아5.86%↓…전날31%폭등했다가하루만에반락",
+  "젠슨황복귀에공화당도반발…엔비디아다시하락",
+  "젠슨황,복귀후첫전사회의서사과…\"매우심각한개인적실수저질...",
+  "‘젠슨황복귀’트럼프개입에비판고조…엔비디아주가는하락",
+  "엔비디아차익실현에뉴욕증시동반하락마감...엔비디아7%넘게하...",
+  "\"젠슨황복귀내가설득\"‥트럼프'자축'",
+  "\"국가자본주의·마오이즘\"‥트럼프개입비난봇물"
  ],
  "recent_sigs": [
   [
@@ -6211,9 +6211,17 @@
   [
    "2026-11-25T06:12:17.658473+09:00",
    "마이크론 급락 젠슨 컴백 하루도 환호"
+  ],
+  [
+   "2026-11-25T06:14:25.140665+09:00",
+   "뉴욕 차익 하락 넘게 동반 마감 실현에 증시"
+  ],
+  [
+   "2026-11-25T06:14:25.140665+09:00",
+   "봇물 국가자본주의 트럼프 마오이즘 비난 개입"
   ]
  ],
- "last_run": "2026-11-25T06:12:48.513785+09:00",
+ "last_run": "2026-11-25T06:14:44.190876+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
