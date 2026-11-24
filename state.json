@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.sedaily.com/article/20118158",
-  "https://biz.heraldcorp.com/article/10947247",
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/24/2026112490134.html",
-  "https://www.asiatime.co.kr/article/20261124500155",
-  "https://www.news1.kr/sports/baseball/6364031",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561382",
-  "https://biz.heraldcorp.com/article/10947261",
   "https://nownews.seoul.co.kr/news/newsView.php?id=20261124601005&wlog_tag3=naver",
   "https://www.widedaily.com/news/articleView.html?idxno=304524",
   "https://theviewers.co.kr/View.aspx?No=4326509",
@@ -2999,16 +2992,16 @@
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1544859",
   "https://www.cbci.co.kr/news/articleView.html?idxno=630165",
   "https://www.obsnews.co.kr/news/articleView.html?idxno=1544858",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3762037"
+  "https://www.gukjenews.com/news/articleView.html?idxno=3762037",
+  "https://www.newstnt.com/news/articleView.html?idxno=730340",
+  "https://www.news1.kr/local/incheon/6364840",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16285123",
+  "https://www.yna.co.kr/view/AKR20261124178900082?input=1195m",
+  "https://www.lcnews.co.kr/news/articleView.html?idxno=211947",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16285122",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452841"
  ],
  "seen_titles": [
-  "최태원재산분할액9440억전액수용\"추가분쟁막고경영에집중한단...",
-  "[조경일의시사직격]돌아온젠슨황",
-  "LG유플러스,데이터독과‘익시오’품질·안정성강화나서",
-  "투니온日주요애니메이션제작사와전략적업무협약체결",
-  "AI패권에정권명운건트럼프…젠슨황복귀에이례적개입",
-  "가죽재킷벗은젠슨황,복귀첫날직원들에사과…“더나은CEO되겠다...",
-  "[사설]AI불확실성에짓눌린증시,변동성견딜체력키워야",
   "'젠슨황후임거론'하스,ArmCEO로2033년까지재계약",
   "[사설]젠슨황복귀,투자보단‘AI내러티브’지속성에방점둘때",
   "[부고]오윤석씨(프로야구KT위즈선수)조모상",
@@ -6001,7 +5994,14 @@
   "트럼프입김에입장바꾼엔비디아…오너리스크여전",
   "[나스닥19개월만폭등]S&P500·나스닥동반랠리에불붙은AI투심…\"감...",
   "\"대체불가젠슨황?\"…AI시대구조적불안정성",
-  "제주4·3이뒤틀어놓은가족관계…제자리찾는다"
+  "제주4·3이뒤틀어놓은가족관계…제자리찾는다",
+  "[공시]11월25일,코스피상장사65개종목자사주매수신청",
+  "박찬대인천시장\"세계인이함께만든글로벌도시…인천이대한민국그...",
+  "다리오아모데이,창업5년만에28조원거부…남매재산56조원",
+  "독일외무\"젠슨황CEO복귀에트럼프개입충격\"",
+  "11일만에돌아온젠슨황…한·미증시급반등,진짜바닥일까",
+  "EU하이브리드차수입제한…급등한현대차·기아주가변수",
+  "정부감사원·경찰청·방미통위등31개기관2031년까지세종이전고시"
  ],
  "recent_sigs": [
   [
@@ -7139,9 +7139,13 @@
   [
    "2026-11-24T20:48:17.684241+09:00",
    "나스닥 P500 동반 랠리에 불붙은 투심"
+  ],
+  [
+   "2026-11-24T20:52:15.538715+09:00",
+   "기아 변수 주가 현대차 하이브리드차 수입 EU 급등한 제한"
   ]
  ],
- "last_run": "2026-11-24T20:50:45.067928+09:00",
+ "last_run": "2026-11-24T20:52:36.658244+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
