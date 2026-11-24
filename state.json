@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005968656",
-  "https://www.daejonilbo.com/news/articleView.html?idxno=2315712",
-  "https://www.mk.co.kr/article/12216302",
-  "https://www.kukinews.com/article/view/kuk202611240004",
-  "https://www.asiatoday.co.kr/kn/view.php?key=20261124010009048",
-  "https://www.edaily.co.kr/News/Read?newsId=01649846645649000&mediaCodeNo=257",
-  "https://www.munhwa.com/article/11633507",
-  "http://www.segyebiz.com/newsView/20261124500229?OutUrl=naver",
-  "https://www.cstimes.com/news/articleView.html?idxno=729070",
-  "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611200744411180108364",
   "https://shindonga.donga.com/3/all/13/6470212/1",
   "https://biz.sbs.co.kr/article_hub/20000348352?division=NAVER",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611171012587360105547",
@@ -2999,19 +2989,19 @@
   "https://www.tokenpost.kr/news/insights/443338",
   "https://www.munhwa.com/article/11633709",
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083946",
-  "https://www.ytn.co.kr/_ln/0101_202611241419251518"
+  "https://www.ytn.co.kr/_ln/0101_202611241419251518",
+  "https://www.techm.kr/news/articleView.html?idxno=157753",
+  "https://biz.sbs.co.kr/article_hub/20000348528?division=NAVER",
+  "https://www.kado.net/news/articleView.html?idxno=2086874",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=327168",
+  "https://www.itbiznews.com/news/articleView.html?idxno=232547",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240116&t=NN",
+  "https://www.jbnews.com/news/articleView.html?idxno=1516773",
+  "https://www.newspim.com/news/view/20261124000991",
+  "http://www.metroseoul.co.kr/article/20261124500321",
+  "https://www.yna.co.kr/view/AKR20261124106400009?input=1195m"
  ],
  "seen_titles": [
-  "나눠관리한금고도뚫렸다…체인플립해킹에디파이경고등",
-  "‘AI시대’명암마주한경찰…업무효율화됐지만해킹·커닝범죄수사...",
-  "법전덮고역사속으로…14년째함께걷는원변호사들[방과후법조인...",
-  "빗썸거래몰린배경은?…앱속'기관식주문법'TWAP주목",
-  "[WhoIs?]문덕식DB대표이사",
-  "‘자율제조’CJ제일제당vs‘오픈이노베이션’풀무원…AI로바뀌는식...",
-  "[11월23일]'GPT-6'가로봇의두뇌까지맡기시작했다는것의의미",
-  "경기살아날조짐…기업경기전망3개월만에'긍정적'으로반전",
-  "[대덕포럼]AI시대의정보보안",
-  "매경이전하는세상의지식(매-세-지,11월24일)",
   "‘젠슨황복귀’에엔비디아31.5%↑…나스닥6.5%폭등",
   "[굿모닝美증시]엔비디아발반등에'뉴욕증시급등'…나스닥6.51%↑",
   "[MUSTKNOW5]젠슨황은복귀·SK하이닉스ADR20%폭등…시장하락멈췄나",
@@ -6001,7 +5991,17 @@
   "미국증시잠든사이엔비디아가격은어디서?…카이코리서치,무기한...",
   "SK하닉사장‘어제’자사주샀다…하루만에번돈이",
   "[에치에프알인사전망]정종민·김은철내년재선임시점…신윤재COO...",
-  "[YTN실시간뉴스]이용철\"측근아냐...무리한지휘안할것\""
+  "[YTN실시간뉴스]이용철\"측근아냐...무리한지휘안할것\"",
+  "AI학습·추론넘어업무실행으로...AWS,AI에이전트시대클라우드진...",
+  "\"그가나스닥을,시장을구했다\"크레이머",
+  "한전유출개인정보중주민등록번호·카드번호등민감정보포함",
+  "이혼재산분할이주주구도바꾸나…최태원·권혁빈,다른이혼셈법",
+  "KT·육군교육사령부,차세대지휘통제체계고도화'맞손'",
+  "\"금융위기때보다아찔한증시\"…하루가멀다하고급등락",
+  "김승규엔비디아코리아대표,젠슨황복귀후첫행보충북…글로벌...",
+  "[일본특징주]키옥시아,젠슨황복귀소식에주가10%급등",
+  "고개숙인젠슨황\"두번째기회감사\"…직원들환호[영상PICK]",
+  "무려200조육박…젠슨황부부가족자산관리법베일벗었다"
  ],
  "recent_sigs": [
   [
@@ -7195,9 +7195,21 @@
   [
    "2026-11-24T14:26:16.270897+09:00",
    "이용철 지휘 측근 무리한 아냐"
+  ],
+  [
+   "2026-11-24T14:28:17.051127+09:00",
+   "다른 권혁빈 구도 주주 셈법 바꾸나 이혼 재산분할이"
+  ],
+  [
+   "2026-11-24T14:28:17.051127+09:00",
+   "기회 환호 감사 직원들 고개 숙인 젠슨 번째"
+  ],
+  [
+   "2026-11-24T14:28:17.051127+09:00",
+   "젠슨황 가족자산 부부 무려 벗었다 베일 관리법 200조 육박"
   ]
  ],
- "last_run": "2026-11-24T14:26:44.225234+09:00",
+ "last_run": "2026-11-24T14:28:37.973829+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
