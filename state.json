@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.huffingtonpost.kr/article/262252",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3761719",
-  "https://www.mk.co.kr/article/12217176",
-  "https://www.ddaily.co.kr/page/view/2026112416010854698",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300497",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366559",
-  "https://zdnet.co.kr/view/?no=20261124154508",
-  "http://www.paxetv.com/news/articleView.html?idxno=287739",
   "https://www.smarttoday.co.kr/ko-kr/articles/114021",
   "https://kbench.com/?q=node%2F283601",
   "https://www.mdtoday.co.kr/news/articleView.html?idxno=627389",
@@ -2999,17 +2991,17 @@
   "https://www.viva100.com/article/20261125500068",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/25/2026112550021.html",
   "https://www.smartbizn.com/news/articleView.html?idxno=160499",
-  "https://www.youthdaily.co.kr/news/article.html?no=230235"
+  "https://www.youthdaily.co.kr/news/article.html?no=230235",
+  "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html?partner=naver",
+  "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html?partner=naver",
+  "https://www.g-enews.com/view.php?ud=202611250800377176e250e8e188_1",
+  "https://www.hankyung.com/article/2026112582726",
+  "http://www.issuenbiz.com/news/articleView.html?idxno=81986",
+  "http://www.newswell.co.kr/news/articleView.html?idxno=23867",
+  "https://www.newspim.com/news/view/20261125000069",
+  "https://www.etoday.co.kr/news/view/2652516"
  ],
  "seen_titles": [
-  "SK텔레콤KTLG유플러스알뜰폰자회사과점방지규제,등록조건에서...",
-  "이삼남대덕구의원,장동경관농업관광자원화주문…\"1박2일체류형으...",
-  "교원빨간펜,발달단계맞춰'10단계책읽기'…교사,매주방문우리아...",
-  "한컴,공공‘한글’기본저장HWPX로전환…행정시스템연계까지지...",
-  "서울,카운터포인트글로벌AI도시지수2위···1위싱가포르와격...",
-  "무신사겨울블프역대최단1000억돌파",
-  "독파모3차평가'블라인드'전환하나…평가인프라확보착수",
-  "[이슈]中저가공세속스테인리스업계'고부가승부'···AIDC·자동차...",
   "한화에어로스페이스,창원에180MW국방AI데이터센터추진",
   "삼성,세계최초1100Hz게이밍모니터출시…'오디세이G6'미국서899달...",
   "금융위,은행과반컨소시엄에원화스테이블코인발행허용",
@@ -6001,7 +5993,15 @@
   "앤트로픽IPO흥행무색⋯나흘만에공모가붕괴",
   "[속보]삼전닉스프리장4~5%↓…美반도체8%폭락,젠슨황복귀에도...",
   "코스피,바닥확인이냐반짝반등이냐···AI불안속15조자사주변수",
-  "AI투자열기뜨겁지만...내년증시키워드는'수익성'"
+  "AI투자열기뜨겁지만...내년증시키워드는'수익성'",
+  "TheCostofBeingPragmaticinaChaoticWorld",
+  "AftertheUpheavalFromtheMidtermElections,WhoHastheEdgein2028?",
+  "AI데이터센터투자둔화우려에마이크론등반도체주일제히폭락",
+  "\"모래주머니2개벗는다\"…코스피바닥지났다는이유",
+  "엔비디아급등하루만에반도체주급락…뉴욕증시혼조마감",
+  "반토막난국장,'다섯달의기록'[오인경의그·말·이]",
+  "[AIMY뉴스]25일중국증시'뉴욕AI주조정경계감…인민은행유동성...",
+  "美CIA·ODNI해킹피해⋯비기밀정보일부노출"
  ],
  "recent_sigs": [
   [
@@ -6547,9 +6547,17 @@
   [
    "2026-11-25T08:04:17.005159+09:00",
    "수익성 투자 키워드는 열기 증시 뜨겁지만 내년"
+  ],
+  [
+   "2026-11-25T08:06:16.118089+09:00",
+   "달의 토막 기록 국장 다섯"
+  ],
+  [
+   "2026-11-25T08:06:16.118089+09:00",
+   "경계감 AI주 25일 유동성 조정 뉴욕 중국증시 인민은행"
   ]
  ],
- "last_run": "2026-11-25T08:04:37.841237+09:00",
+ "last_run": "2026-11-25T08:06:39.808920+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
