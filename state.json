@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.ifm.kr/news/articleView.html?idxno=485307",
-  "https://biz.sbs.co.kr/article_hub/20000348434?division=NAVER",
-  "https://zdnet.co.kr/view/?no=20261124101239",
-  "http://www.segyebiz.com/newsView/20261124505918?OutUrl=naver",
-  "https://www.cnbizm.com/news/articleView.html?idxno=322440",
-  "https://www.widedaily.com/news/articleView.html?idxno=304472",
-  "https://www.newspim.com/news/view/20261124000312",
   "https://www.chosun.com/economy/tech_it/2026/11/24/52NMDNLSTRHGFJPFYLBOJBYIAI/",
   "https://www.ddaily.co.kr/page/view/2026112410275020376",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450070.html",
@@ -2999,16 +2992,16 @@
   "https://www.fnnews.com/news/202611241814142177",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232708",
   "https://www.fnnews.com/news/202611241813314605",
-  "https://biz.sbs.co.kr/article_hub/20000348621?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000348621?division=NAVER",
+  "https://www.etnews.com/20261124000498",
+  "https://www.venturesquare.net/1131135/",
+  "https://www.fnnews.com/news/202611241816382881",
+  "https://www.hani.co.kr/arti/opinion/editorial/1288909.html",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=886810",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=630317",
+  "https://www.aitimes.com/news/articleView.html?idxno=217728"
  ],
  "seen_titles": [
-  "비트코인급락뒤반등…피터브랜트\"핵심지지선지켜냈다\"",
-  "[특징주]예스티,세계최초D램용125매HPA출하·반도체강세에13%대...",
-  "LGU+,데이터독과협력…익시오서비스장애대응시간85%↓",
-  "공공기관한글문서,AI가읽기쉽게바뀐다…한컴,26일까지HWPX전환",
-  "미래에셋,AI모델성능·매출로기업선별…'TIGER글로벌LLM액티브ETF'...",
-  "[금융街]KB국민은행·부산은행·하나은행·미래에셋자산운용",
-  "'TIGER글로벌LLM액티브ETF'신규상장…앤트로픽편입",
   "SKT·KT·LG유플·네이버,AI에이전트가건고객센터상담막는다",
   "천호엔케어,SK텔레콤과‘Tday럭키찬스’프로모션진행",
   "LG유플러스,데이터독과'익시오'품질높인다…장애대응시간85%단축",
@@ -6001,21 +5994,16 @@
   "'黃의귀환'…코스피단숨에5000선탈환[젠슨황복귀]",
   "\"더나은CEO될것\"젠슨황,초고속복귀…트럼프의작전성공?[뉴스...",
   "트럼프특명에밴스까지뛰었다..엔비디아이사회찾아직접설득[젠슨...",
-  "국고채금리혼조세…금리인상전망에단기물상승"
+  "국고채금리혼조세…금리인상전망에단기물상승",
+  "서울시,글로벌AI도시지수서2년연속2위",
+  "사람이만들고AI가일한다…AWS,20년된클라우드의기본기를다시설...",
+  "트럼프'젠슨황구하기'역풍…\"안보위협여전\"정치권반발",
+  "[사설]젠슨황돌아왔지만취약성드러난‘반도체호황’",
+  "[마감]'황의귀환'에...똥밟은새내기주엠비디",
+  "젠슨황추가불륜이사회에고백…사임11일만에복귀한배경은",
+  "Z.ai,'GLM-5.4'에루프트랜스포머적용…오픈AI이어반복연산경쟁"
  ],
  "recent_sigs": [
-  [
-   "2026-11-24T12:18:15.169983+09:00",
-   "HBM4 국내 대규모 장비업 마이크론 3파전 한미반도체 본격화 증설에"
-  ],
-  [
-   "2026-11-24T12:18:15.169983+09:00",
-   "내가 안보 팔아넘겨 사익 설득 이사회"
-  ],
-  [
-   "2026-11-24T12:18:15.169983+09:00",
-   "이전 이용자 자산 지갑 서비스 후폭풍 디센트 접는다 안내"
-  ],
   [
    "2026-11-24T12:20:26.133614+09:00",
    "협력 차단 우회수출 싱가포르 반도체의 총리"
@@ -7255,9 +7243,13 @@
   [
    "2026-11-24T18:16:15.793107+09:00",
    "방점 AI시대 넘어 디지털 통신비 해소 지원 키워야 접근성 격차"
+  ],
+  [
+   "2026-11-24T18:18:15.372618+09:00",
+   "적용 트랜스포머 연산 GLM 루프 이어 반복 경쟁 ai"
   ]
  ],
- "last_run": "2026-11-24T18:16:31.855265+09:00",
+ "last_run": "2026-11-24T18:18:34.809685+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
