@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inven.co.kr/webzine/news/?news=323777",
-  "https://www.asiaa.co.kr/news/articleView.html?idxno=272630",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496444",
-  "https://www.newsis.com/view/NISX20261124_0003881132",
-  "https://imnews.imbc.com/replay/2026/nw1400/article/6867858_36974.html",
-  "https://biz.chosun.com/it-science/ict/2026/11/24/Q35ERL445VATTKA3V7GUIHXLXU/",
   "http://www.metroseoul.co.kr/article/20261124500390",
   "https://www.newsquest.co.kr/news/articleView.html?idxno=305737",
   "https://www.topstarnews.net/news/articleView.html?idxno=16284868",
@@ -2999,15 +2993,15 @@
   "https://www.segye.com/newsView/20261124519264?OutUrl=naver",
   "https://www.khan.co.kr/article/202611250600131",
   "https://www.segye.com/newsView/20261124519249?OutUrl=naver",
-  "https://www.ddaily.co.kr/page/view/2026112506040732097"
+  "https://www.ddaily.co.kr/page/view/2026112506040732097",
+  "https://sports.khan.co.kr/article/202611250605006?pt=nv",
+  "https://biz.heraldcorp.com/article/10948107",
+  "https://www.news1.kr/world/usa-canada/6364913",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008861921&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6868307_37012.html",
+  "https://www.news1.kr/world/international-economy/6364915"
  ],
  "seen_titles": [
-  "20만장팔린'슬롯바운드',경험없는개발자가혼자만들었다",
-  "거래소지분20%제한...은행주도스테이블코인도입",
-  "정부,디지털자산통합법안공개···입법추진본격화",
-  "안철수\"美,강금실지명'中간첩'의국정원접수로볼것\"",
-  "[외전인터뷰]계속되는개인정보유출‥과도한개인정보수집문제인...",
-  "‘AI투자큰손’젠슨황돌아왔다…삼성전자·SK하이닉스,수요불확...",
   "젠슨황복귀에'5000피'회복…사이드카101회'역대최다'",
   "젠슨황돌아오자공매도16조원증발…엔비디아하루새31.5%급등",
   "젠슨황,사임11일만엔비디아CEO복귀→이사회에추가불륜고백",
@@ -6001,7 +5995,13 @@
   "내신시험서스마트기기적발땐당일전과목0점…코스피5000선회복...",
   "트럼프가선택한‘황’금만능주의",
   "[법조브리핑]노소영,'노태우비자금의혹'증인불출석…과태료100만...",
-  "패치나올때까지AI가방패…오픈AI·시스코,오픈소스'시루도'공개"
+  "패치나올때까지AI가방패…오픈AI·시스코,오픈소스'시루도'공개",
+  "“태극마크보다임플란트?”…농구대표팀무더기낙마에농구계안팎의...",
+  "젠슨황복귀밀어붙인트럼프…안보논란커지자핵심참모들은‘침묵...",
+  "젠슨황,직원회의서사과…\"실망시켜죄송,매일심리치료받아\"(종합...",
+  "[모닝와이드]오늘의주요뉴스",
+  "1부오늘의주요뉴스",
+  "[속보]필라델피아반도체지수7.8%↓…엔비디아반등랠리하루만에꺾..."
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,21 @@
   [
    "2026-11-25T06:06:17.398859+09:00",
    "트럼프가 선택한 금만능주의"
+  ],
+  [
+   "2026-11-25T06:08:16.193418+09:00",
+   "받아 실망시켜 직원회의서 젠슨 사과 매일 심리치료 죄송"
+  ],
+  [
+   "2026-11-25T06:08:16.193418+09:00",
+   "반도체지수 랠리 필라델피아 반등 하루 만에"
+  ],
+  [
+   "2026-11-25T06:08:16.193418+09:00",
+   "오늘의 주요뉴스"
   ]
  ],
- "last_run": "2026-11-25T06:06:40.445071+09:00",
+ "last_run": "2026-11-25T06:08:38.458614+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
