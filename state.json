@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/insights/443389",
-  "https://www.kmib.co.kr/article/20261124501143",
-  "http://www.metroseoul.co.kr/article/20261124500415",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3761608",
-  "https://www.newsis.com/view/NISX20261124_0003881249",
-  "https://www.kukinews.com/article/view/kuk202611240164",
-  "https://www.dt.co.kr/article/12096936",
-  "http://www.newstomato.com/ReadNews.aspx?no=1321654&inflow=N",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240070&t=NN",
   "https://www.donga.com/news/Economy/article/all/20261124/135081200/1",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717780",
@@ -2999,17 +2991,17 @@
   "https://www.ddaily.co.kr/page/view/2026112506281873829",
   "https://www.hankyung.com/article/2026112581477",
   "https://www.newspim.com/news/view/20261125000048",
-  "https://biz.sbs.co.kr/article_hub/20000348654?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000348654?division=NAVER",
+  "https://view.asiae.co.kr/article/2026112413405595484",
+  "https://www.edaily.co.kr/News/Read?newsId=01498966645649328&mediaCodeNo=257",
+  "https://www.hankyung.com/article/2026112474896",
+  "https://www.yna.co.kr/view/AKR20261124167800017?input=1195m",
+  "https://www.kyeonggi.com/article/20261125580003",
+  "https://www.joongang.co.kr/article/25481727",
+  "https://www.hankyung.com/article/2026112474316",
+  "https://www.fnnews.com/news/202611250626366579"
  ],
  "seen_titles": [
-  "해킹하러간AI가함정에빠졌다…a16zcrypto리서치,목표완수집착의...",
-  "‘무과실해킹피해’에도배상책임...디지털자산법정부안공개",
-  "스타링크관리공백여전…요금은멋대로데이터는일본행",
-  "대구광역시,가연성폐기물연료화시설최우수상...전국14개시설평가",
-  "연합뉴스전북취재본부장에최영수부장취임",
-  "[통하는충남]‘충효예충청정신’첫도민설명회성료",
-  "오티콘,청각전문가평가서4개핵심항목모두1위…프리미엄보청기...",
-  "머스크“램너무비싸”백기…AI칩도‘메모리다이어트’",
   "삼전닉스급락할때10%대뛴中반도체…비결은‘내수자립화’",
   "스테이블코인발행,銀과반컨소시엄부터…금융위,디지털자산법제정...",
   "거래소대주주지분20%제한...원화스테이블코인은행주도",
@@ -6001,7 +5993,15 @@
   "뉴욕증시,'젠슨황복귀효과'하루만에꺾여…나스닥1.5%하락",
   "젠슨황\"심리치료받고있다\"…복귀후전사회의서사과",
   "뉴욕증시,젠슨황복귀효과되돌리며혼조마감…나스닥1.5%↓·다우...",
-  "[외신헤드라인]\"젠슨황복귀에도의문여전…넘어야할산많아\""
+  "[외신헤드라인]\"젠슨황복귀에도의문여전…넘어야할산많아\"",
+  "[금융현미경]연말환율레벨주시하는시장…달러수요·美긴축변수",
+  "델,AI서버수주잔고'사상최대'…연매출전망또상향",
+  "\"젠슨황복귀에한숨돌렸지만\"…삼전닉스전망여전히'안갯속'[종목...",
+  "젠슨황돌아왔지만…'복귀찬성'엔비디아직원절반밑돌아",
+  "\"매일심리치료받고있다\"…젠슨황,복귀하루만에전직원사과",
+  "젠슨황,전사회의열고“개인적실수”사과…“심리치료받고있다”",
+  "\"일주일만에67%뛰었다\"…피지컬AI기대에로봇주'들썩'[분석+]",
+  "[뉴욕증시]엔비디아약세속기술주후퇴…앤스로픽,공모가붕괴"
  ],
  "recent_sigs": [
   [
@@ -6251,9 +6251,17 @@
   [
    "2026-11-25T06:30:34.195484+09:00",
    "많아 의문 넘어야 여전 젠슨 복귀에도"
+  ],
+  [
+   "2026-11-25T06:32:15.891819+09:00",
+   "뛰었다 들썩 기대에 일주일 로봇주 만에 피지컬"
+  ],
+  [
+   "2026-11-25T06:32:15.891819+09:00",
+   "공모가 붕괴 후퇴 약세 기술주"
   ]
  ],
- "last_run": "2026-11-25T06:30:54.775858+09:00",
+ "last_run": "2026-11-25T06:32:38.213646+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
