@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etnews.com/20261123000253",
-  "https://www.apnews.kr/news/articleView.html?idxno=3053415",
-  "https://www.womentimes.co.kr/news/articleView.html?idxno=108219",
-  "https://www.newsis.com/view/NISX20261124_0003881261",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065594384916962",
   "https://www.lcnews.co.kr/news/articleView.html?idxno=211867",
   "https://www.epnc.co.kr/news/articleView.html?idxno=410228",
@@ -2999,13 +2995,13 @@
   "https://health.chosun.com/site/data/html_dir/2026/11/23/2026112301986.html",
   "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590009.html",
   "https://imnews.imbc.com/news/2026/world/article/6868324_36925.html",
-  "https://imnews.imbc.com/news/2026/world/article/6868326_36925.html"
+  "https://imnews.imbc.com/news/2026/world/article/6868326_36925.html",
+  "https://www.tokenpost.kr/news/cryptocurrency/443851",
+  "http://www.beyondpost.co.kr/view.php?ud=2026112506341431332aaae0046f_30",
+  "https://www.g-enews.com/view.php?ud=202611250638074766e250e8e188_1",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507716"
  ],
  "seen_titles": [
-  "[미리보는소프트웨이브2026]〈2〉공공기관·협단체,AI·SW성과한자...",
-  "'에어'5G특가…SKT,무신사블프에통신브랜드최초로참여한다",
-  "LGU+,데이터독과협력해AI통화에이전트'익시오(ixi-O)'품질제고",
-  "한전,해커와협상설일축…\"추가접촉·협상한사실없어\"",
   "한컴,공공문서HWPX전환전면지원…원천기술로'AI행정'뒷받침",
   "[마감시황]코스피,161.42포인트(-3.31%)내린4708.54마감",
   "엔키화이트햇,코스닥상장후'오펜'중심사업공략가속…\"글로벌기...",
@@ -6001,7 +5997,11 @@
   "“AI말믿고처방약끊었다가”…2명중1명부작용겪었다",
   "'젠슨황복귀'효과바로꺾였다…엔비디아,하루만에5.86%급락",
   "젠슨황,엔비디아전사회의열고사과‥\"심리치료받고있다\"",
-  "\"CIA·국가정보국해킹피해\"‥美정보당국보안우려고조"
+  "\"CIA·국가정보국해킹피해\"‥美정보당국보안우려고조",
+  "AI가사이버공격역량확산…방어체계에도최첨단모델필요",
+  "앤트로픽,4거래일만에공모가하회...6.54%급락하며82달러에마감",
+  "[뉴욕증시]엔비디아급락-앤스로픽공모가붕괴에나스닥1.48%↓",
+  "미국정보기관도해킹못피했다…안랩·윈스사이버보안주들썩이나"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,13 @@
   [
    "2026-11-25T06:36:15.847248+09:00",
    "반도체지수 의문에 효과 급반락 젠슨황"
+  ],
+  [
+   "2026-11-25T06:44:16.652693+09:00",
+   "사이버 보안주 피했다 들썩이나 미국 윈스 정보기관도 안랩"
   ]
  ],
- "last_run": "2026-11-25T06:42:33.904997+09:00",
+ "last_run": "2026-11-25T06:44:32.957267+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
