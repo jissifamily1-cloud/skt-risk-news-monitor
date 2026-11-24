@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://www.fnnews.com/news/202611200740393369",
-  "https://www.yna.co.kr/view/AKR20261120077400017?input=1195m",
-  "https://www.sisajournal.com/news/articleView.html?idxno=394395",
-  "https://www.apnews.kr/news/articleView.html?idxno=3053325",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338566",
-  "https://www.mediaus.co.kr/news/articleView.html?idxno=319094",
-  "https://www.ajunews.com/view/20261119164300913",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716818",
-  "https://www.ytn.co.kr/_ln/0102_202611191652268216",
   "http://www.biztribune.co.kr/news/articleView.html?idxno=362812",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716765",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854017&plink=ORI&cooper=NAVER",
@@ -2999,18 +2990,18 @@
   "https://theviewers.co.kr/View.aspx?No=4326594",
   "https://www.techm.kr/news/articleView.html?idxno=157736",
   "https://imnews.imbc.com/news/2026/world/article/6868110_36925.html",
-  "https://www.munhwa.com/article/11633646"
+  "https://www.munhwa.com/article/11633646",
+  "http://www.newswell.co.kr/news/articleView.html?idxno=23901",
+  "https://www.aitimes.com/news/articleView.html?idxno=217722",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446249",
+  "https://www.munhwa.com/article/11633653",
+  "https://www.munhwa.com/article/11633654",
+  "https://www.hankookilbo.com/news/article/A2026112409560001765?did=NA",
+  "https://biz.sbs.co.kr/article_hub/20000348476?division=NAVER",
+  "https://www.edaily.co.kr/News/Read?newsId=02837206645649000&mediaCodeNo=257",
+  "http://coinreaders.com/272869"
  ],
  "seen_titles": [
-  "\"K-FAST글로벌기회커...정부,해외진출지원늘려야\"",
-  "AI로악성문자5억건차단했다…스팸전화도1,200만건잡아",
-  "악성문자5억건,수신전에막았다",
-  "KISA,삼성전자·LGU+와협력해악성문자5억건·스팸전화1200만건차단",
-  "팩트체크사업에서인건비과다산정등으로방통위가수사요청한사회...",
-  "KISA,AI로악성문자5억건·스팸전화1200만건차단",
-  "KISA,민간기업과스팸데이터공유…악성문자5억건·스팸전화1천200...",
-  "\"큰손들은발빼는데지주사는지분확대\"…현대百그룹의엇갈린셈법...",
-  "AI로악성문자5억건걸렀다…스팸전화도1천200만건차단",
   "[데이터뉴스]국민1인당스팸월8.52통",
   "[AP미디어동향11월3주]네이버뉴스제휴합격률'제로'",
   "점수조작인가,조작기소인가",
@@ -6001,7 +5992,16 @@
   "[유통갤러리]히트텍부터파카까지…유니클로,2주간감사제연다外",
   "돌아온젠슨황...네이버,엔비디아'AI동맹'불확실성덜까",
   "젠슨황복귀시킨트럼프,엔비디아급등에최대221억원수익",
-  "“생큐젠슨황”…엔비디아시총1280조원↑,삼전닉스불기둥"
+  "“생큐젠슨황”…엔비디아시총1280조원↑,삼전닉스불기둥",
+  "세종대,'2026웹툰멘토링부트캠프'성료",
+  "미국,메가스피드블랙리스트등재…황CEO복귀당일AI칩공급차단",
+  "연준,12월FOMC서구원투수로등판할까…'美증시불안'",
+  "미국,현상금걸고북한해외노동자제보모집…WMD자금차단",
+  "[단독]북한위협여전한데…‘국가보안법전면폐지안’법사위상정",
+  "잡스12년·올트먼5일·젠슨황11일…빅테크창업자귀환의역사",
+  "中\"젠슨황복귀,'중국간첩의혹'허구라는뜻\"",
+  "\"3천조날아간게문제아냐\"…'오천피'붕괴에눈물터진이광수",
+  "[AI커리어]하루1,000개해킹함정…크롬AI비서모의훈련"
  ],
  "recent_sigs": [
   [
@@ -7451,9 +7451,17 @@
   [
    "2026-11-24T11:58:16.419681+09:00",
    "생큐 삼전닉스 젠슨황 불기둥 1280조원 시총"
+  ],
+  [
+   "2026-11-24T12:00:39.455562+09:00",
+   "붕괴에 3천조 오천피 날아간 문제 터진 이광수 눈물 아냐"
+  ],
+  [
+   "2026-11-24T12:00:39.455562+09:00",
+   "비서 함정 훈련 000개 모의 하루 크롬"
   ]
  ],
- "last_run": "2026-11-24T11:58:33.058269+09:00",
+ "last_run": "2026-11-24T12:00:58.127244+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
