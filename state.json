@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712199",
-  "https://zdnet.co.kr/view/?no=20261103152816",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712171",
-  "https://www.aitimes.com/news/articleView.html?idxno=216939",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712127",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=712126",
-  "https://www.tokenpost.kr/news/ai/431529",
-  "https://www.inven.co.kr/webzine/news/?news=322900",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711835",
-  "https://zdnet.co.kr/view/?no=20261102182648",
   "https://zdnet.co.kr/view/?no=20261102172639",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711891",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=711848",
@@ -2999,19 +2989,19 @@
   "https://www.news2day.co.kr/article/20261124500133",
   "https://magazine.hankyung.com/business/article/202611246438b",
   "http://www.sisunnews.co.kr/news/articleView.html?idxno=250238",
-  "http://www.newskr.kr/news/articleView.html?idxno=108252"
+  "http://www.newskr.kr/news/articleView.html?idxno=108252",
+  "https://www.ziksir.com/news/articleView.html?idxno=154250",
+  "https://www.segye.com/newsView/20261124506781?OutUrl=naver",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3761220",
+  "https://www.joongangenews.com/news/articleView.html?idxno=566058",
+  "http://www.thevaluenews.co.kr/news/view.php?idx=203576",
+  "https://www.bbc.com/korean/articles/cr1ewnj2wjxgo?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507434",
+  "https://www.it-b.co.kr/news/articleView.html?idxno=90827",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/24/2026112490123.html",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/24/2026112490125.html"
  ],
  "seen_titles": [
-  "'미국증시급락',중간선거이후AI성장둔화우려커지나",
-  "[유미's픽]\"그룹AI전략이끈다\"…대기업SICEO,실적·신사업성과...",
-  "알트먼,RAM발언역풍에'램알트먼'으로이름까지바꿔",
-  "AI대부제프리힌턴\"사고터져야위험깨닫나…기업들도문제\"",
-  "샘알트먼,PC메모리논란에해명…\"난램알트먼,램더많이만들자\"",
-  "\"엔비디아심기거스를라\"...오픈AI도중국칩수출규제에발언자제",
-  "오픈AI,전미육군장관영입...미군AI도입확대에국방사업강화",
-  "[데일리픽]비트코인美중간선거영향은…테슬라사이버캡국내첫전...",
-  "샘알트먼\"PC메모리5%만활용\"발언,소비자도동의할까",
-  "오픈AI,전미육군장관영입…美국가안보·사이버보안강화나선다",
   "오픈AI,UAE석유·정부·투자업무에AI에이전트도입…4건협약",
   "일론머스크\"모두에게램필요하다\"…샘알트먼발언공개저격",
   "오픈AI,UAE에너지·정부·투자분야뚫었다…중동사업확장본격화",
@@ -6001,7 +5991,17 @@
   "앤트로픽주가'주춤'에도…국내외운용사ETF상품경쟁",
   "“삼전닉스제쳤다”20%폭등한깐부주",
   "[카드뉴스]12년의노고에쏟아지는선물...'2027학년도수능수험생혜...",
-  "삼성E&A,삼성전기세종신공장7103억수주…엔비디아공급거점"
+  "삼성E&A,삼성전기세종신공장7103억수주…엔비디아공급거점",
+  "[IT직썰]美대중제재,클라우드·광통신부품까지확산…국내ICT업계...",
+  "수입차‘큰손’40대,공간·연비다음은‘소프트웨어’",
+  "영남이공대·CFS,고교생·지역청년채용면접...올해158명합격",
+  "델테크놀로지스,AMD와AI인프라협력확대…72개GPU·2.9엑사플롭스...",
+  "[더밸류브리핑]오늘의디지털금융소식...네이버페이·카카오페이·DS...",
+  "앤트로픽상장돌풍…시장기대만큼가치있을까",
+  "GPU공급불확실성걷히나…이수페타시스·ISC까지번지는젠슨황엔비...",
+  "LG유플러스,'익시오'에데이터독AI적용…서비스품질∙안정성↑",
+  "LG유플러스,리사의솔로도전담은다큐멘터리상영",
+  "\"트럼프,엔비디아주식으로하루사이200억벌었다\""
  ],
  "recent_sigs": [
   [
@@ -7255,9 +7255,13 @@
   [
    "2026-11-24T11:00:38.589269+09:00",
    "7103억 신공장 삼성E 수주 삼성전기 거점 공급 세종"
+  ],
+  [
+   "2026-11-24T11:02:17.849296+09:00",
+   "트럼프 하루 사이 주식으로 벌었다 200억"
   ]
  ],
- "last_run": "2026-11-24T11:01:02.458598+09:00",
+ "last_run": "2026-11-24T11:02:33.913424+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
