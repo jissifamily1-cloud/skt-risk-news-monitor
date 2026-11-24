@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261119000035",
-  "http://coinreaders.com/271358",
-  "https://www.aitimes.com/news/articleView.html?idxno=217536",
-  "https://www.aitimes.com/news/articleView.html?idxno=217543",
-  "https://ilyo.co.kr/?ac=article_view&entry_id=513673",
-  "http://coinreaders.com/271334",
-  "https://www.tjb.co.kr/news05/bodo/view/id/106235",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850274.html",
   "https://www.thepublic.kr/news/articleView.html?idxno=327259",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4445288",
   "https://www.newspim.com/news/view/20261118000048",
@@ -2999,17 +2991,17 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=749072",
   "http://www.yonhapnewstv.co.kr/news/MYH20261124114125ZMK",
   "http://www.yonhapnewstv.co.kr/news/AKR20261124114208Qf5",
-  "https://www.koreareport.co.kr/news/articleView.html?idxno=55075"
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=55075",
+  "https://biz.sbs.co.kr/article_hub/20000348474?division=NAVER",
+  "https://www.sisaon.co.kr/news/articleView.html?idxno=206332",
+  "https://www.ize.co.kr/news/articleView.html?idxno=82950",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=140600",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561388",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860727&plink=ORI&cooper=NAVER",
+  "https://www.mt.co.kr/world/2026/11/24/2026112411152387542",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209683"
  ],
  "seen_titles": [
-  "AI말만믿고처방약바꾸거나끊어...이중과반부작용겪는다",
-  "AI정보로약중단·변경한소비자절반부작용경험",
-  "AI추천연고발랐다가두드러기…자가처방주의보",
-  "\"생성형AI가추천한의약품먹었다가…부작용사례속출”",
-  "'AI주치의'믿었다가치료차질…처방약임의변경절반부작용",
-  "소비자원“인공지능으로의약품자가처방삼가야…부작용우려”",
-  "\"의사대신AI믿고처방약끊었더니\"…2명중1명\"부작용\"",
-  "[AIMY뉴스]19일중국증시'APEC서마주한미중정상…AI반도체패권...",
   "퍼플렉시티공동창립자\"앤트로픽IPO관심없다\"...진짜변수는AI데이...",
   "리퀴드AI,의사결정모델'd1.2'출시…AA평가1위",
   "퍼플렉시티,AI에이전트16개가협업·상호검증하는기능출시",
@@ -6001,7 +5993,15 @@
   "[이슈]젠슨황,사퇴11일만에전격복귀…트럼프행정부'국가안보무...",
   "젠슨황\"더나은CEO되겠다\"…업계도,월가도복귀환영",
   "\"트럼프,엔비디아주가급등에최대221억원수익\"",
-  "미국\"북해킹11억달러몰수…해외노동자제보접수\""
+  "미국\"북해킹11억달러몰수…해외노동자제보접수\"",
+  "젠슨황복귀에대만증시역사상최대상승폭",
+  "미래에셋·한화자산운용,AI테마액티브ETF2종상장",
+  "방탄소년단의,'더시티'에의한,아미를위한'위버스고'출시",
+  "토스의이색채용'커피챗·당일통보·문제풀이'…인재를만나는남다...",
+  "공소청,‘노태우비자금의혹’노소영‘공판전증인신문’청구",
+  "\"젠슨황복귀시킨트럼프,엔비디아급등에최대221억수익\"",
+  "\"젠슨황이돌아왔다\"투자자열광…대만증시9%↑[Asia오전]",
+  "이강인뛰는스페인라리가,디지털플랫폼해킹…여러구단팬개인정..."
  ],
  "recent_sigs": [
   [
@@ -7427,9 +7427,17 @@
   [
    "2026-11-24T11:44:14.307471+09:00",
    "11억달러 몰수 해외 미국 노동자 제보 접수"
+  ],
+  [
+   "2026-11-24T11:46:15.753122+09:00",
+   "대만증시 젠슨황이 열광 돌아왔다 투자자"
+  ],
+  [
+   "2026-11-24T11:46:15.753122+09:00",
+   "라리가 개인정 구단 여러 디지털 플랫폼 뛰는 이강인 스페인"
   ]
  ],
- "last_run": "2026-11-24T11:44:33.398946+09:00",
+ "last_run": "2026-11-24T11:46:36.992836+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
