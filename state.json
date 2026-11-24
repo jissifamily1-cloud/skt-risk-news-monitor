@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261124001251",
-  "https://www.khan.co.kr/article/202611241622001",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240154&t=NN",
-  "https://www.news1.kr/world/northeast-asia/6364578",
-  "http://www.newsfc.co.kr/news/articleView.html?idxno=82711",
-  "https://dealsite.co.kr/articles/173379",
-  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561431",
   "https://www.fntimes.com/html/view.php?ud=202611241611323639fa6b69a559_18",
   "https://www.irobotnews.com/news/articleView.html?idxno=49771",
   "https://www.etoday.co.kr/news/view/2652409",
@@ -2999,16 +2992,16 @@
   "https://www.epnc.co.kr/news/articleView.html?idxno=410259",
   "https://www.newsis.com/view/NISX20261125_0003882032",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717922",
-  "https://www.kukinews.com/article/view/kuk202611250014"
+  "https://www.kukinews.com/article/view/kuk202611250014",
+  "https://www.edaily.co.kr/News/Read?newsId=03306246645647688&mediaCodeNo=257",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717926",
+  "https://www.edaily.co.kr/News/Read?newsId=01895846645649328&mediaCodeNo=257",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446364",
+  "https://www.cstimes.com/news/articleView.html?idxno=729289",
+  "http://www.datanews.co.kr/news/article.html?no=147795",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446363"
  ],
  "seen_titles": [
-  "[GAM]젠슨황퇴진에반색했던앤스로픽…백악관결정에헛물켰다",
-  "젠슨황복귀에반도체훈풍…코스피6%급등,5000선탈환",
-  "흔들린건체면뿐…위기속돋보인젠슨황家200조자산관리법",
-  "中외교부,젠슨황엔비디아CEO복귀에\"논평않겠다\"",
-  "디지털자산업자,해킹·전산장애시피해과실없어도배상해야",
-  "'블랙아웃'압박확산…'손놓은'방미통위,시청권보호필요",
-  "114년전타이타닉탈출때낀반지…2억6300만원낙찰",
   "AI데이터센터·전력인프라잇는포스코…미래소재시장'정조준'",
   "과기정통부,5년간535억원투입해국가대표휴머노이드육성추진",
   "‘천재CEO’는예외인가⋯젠슨복귀에美재계논쟁",
@@ -6001,7 +5994,14 @@
   "사이오닉에이아이,LLM게이트웨이'오픈게이트웨이'출시",
   "[대구소식]트리니티항공,국제선할인인스타팔로우이벤트등",
   "비트코인,엔비디아발반등꺾였다…다시6만달러아래로",
-  "‘젠슨황랠리’하루만에꺾여…美반도체지수7.9%↓"
+  "‘젠슨황랠리’하루만에꺾여…美반도체지수7.9%↓",
+  "엔스로픽상장도못막은日증시…닛케이장중3000엔폭락",
+  "21셰어스\"비트코인하락세,수요둔화·강제청산영향\"",
+  "하루만에식은'젠슨황효과'…삼전닉스4~5%하락세[특징주]",
+  "젠슨황복귀는하루짜리반등이었나",
+  "하나저축은행'해킹'피해…고객552명개인정보유출",
+  "SK에코플랜트,쉽지않은건설부문…하이테크수익성은8배↑",
+  "엔비디아30%상승에환호?우리는지난7월에같은걸봤습니다"
  ],
  "recent_sigs": [
   [
@@ -6659,9 +6659,17 @@
   [
    "2026-11-25T08:40:25.868217+09:00",
    "밤새 뭐길래 흔들까 벌어진 필라델피아지수 코스피까지 미국에서"
+  ],
+  [
+   "2026-11-25T08:44:15.334787+09:00",
+   "SK에코플랜트 하이테크 8배 쉽지 수익성은 않은 건설부문"
+  ],
+  [
+   "2026-11-25T08:44:15.334787+09:00",
+   "지난 상승에 7월에 우리는 환호 같은 봤습니다"
   ]
  ],
- "last_run": "2026-11-25T08:42:38.460642+09:00",
+ "last_run": "2026-11-25T08:44:36.815860+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
