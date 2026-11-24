@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/ai/429727",
-  "https://www.tokenpost.kr/news/ai/429421",
-  "https://www.chiefexe.com/news/ArticleView.asp",
-  "https://www.tokenpost.kr/news/ai/428754",
-  "https://zdnet.co.kr/view/?no=20261028172734",
-  "https://zdnet.co.kr/view/?no=20261028025822",
-  "https://zdnet.co.kr/view/?no=20261026172208",
-  "https://www.joongang.co.kr/article/25472940",
-  "https://www.aitimes.com/news/articleView.html?idxno=216670",
-  "https://www.g-enews.com/view.php?ud=2026102515372195112bd56fbc3c_1",
-  "https://www.aitimes.com/news/articleView.html?idxno=216623",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709759",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=900605",
   "https://www.theguru.co.kr/news/article.html?no=108731",
@@ -2999,20 +2988,20 @@
   "https://www.yna.co.kr/view/AKR20261124074400009?input=1195m",
   "https://view.asiae.co.kr/article/2026112409570075415",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=819873",
-  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147404"
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147404",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3761218",
+  "http://www.inews24.com/view/2029648",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=300474",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=630166",
+  "https://www.cnbnews.com/news/articleView.html?idxno=1025001",
+  "https://kpenews.com/View.aspx?No=4326492",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232607",
+  "https://www.mt.co.kr/world/2026/11/24/2026112410231077819",
+  "https://www.fetv.co.kr/news/articleView.html?idxno=314202",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=452758",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/24/2026112490133.html"
  ],
  "seen_titles": [
-  "삼성사장단,알트먼과'AI미래전략'논의",
-  "[AI는지금]나스닥급락에오픈AI도'흔들'…AI투자열기식나",
-  "알트먼“과학발견묵혀선안돼”…수학성과더있다고확인",
-  "[백세시대금요칼럼]AI시대양극화현상:거대한균열의원인과공존...",
-  "[월가톡톡]시간당자문료1만弗받는수낵전英총리",
-  "샘알트먼\"AI시대사회초년생이라면,기존성공공식버려야\"",
-  "[AI는지금]\"결정은사람이,맥락은AI가\"…오픈AI,행동지침개편",
-  "AI증명비134억원추정…알트먼,1년뒤100분의1가능성",
-  "오픈AI,로봇으로데이터센터건설과부품생산추진",
-  "[NowAmerica]‘겨우겨우’생존넘어‘무럭무럭’성장하는법",
-  "메이어,딸생일자료에AI활용…시제품시험설명",
   "\"AI가과학계숙제해결?\"…오픈AI성과검증에노벨상수상자도나선다",
   "오라클,오픈AI와AI보안위협공동대응…\"취약점찾아고친다\"",
   "빌게이츠\"AI풍요오기전,인류역사최대격동기온다\"",
@@ -6001,7 +5990,18 @@
   "AI패권에정권명운건트럼프…젠슨황복귀로승부수",
   "[사설]젠슨황복귀가보여준AI패권의현실",
   "[오늘증시]젠승황컴백,코스피5000복귀...천군만마얻다",
-  "롯데카드,해킹관련공시의무위반…금융위과징금10억2000만원"
+  "롯데카드,해킹관련공시의무위반…금융위과징금10억2000만원",
+  "창원대남해캠퍼스,지산학협력으로지역특화먹거리'상괭이빵'개발",
+  "한컴,공공한글기본저장HWPX로전환⋯기존HWP도일괄변환",
+  "델,AMD와협력강화···단일서버부터랙스케일까지AI구축옵션확...",
+  "[금융家]토스뱅크③ㅣAI금융혁신과사업영역확대…금융신뢰확...",
+  "삼성전자임원인사···부사장39명등131명승진",
+  "SK텔레콤,주가상승여력KT·LG유플러스압도..내년배당증가율LG유플...",
+  "[알고보면]사고직후내차부터살폈다?…경찰출석한고경표의해명...",
+  "'젠슨황복귀'미의회분노,반도체3법급물살…고강도조사예고",
+  "삼성자산운용,앤트로픽더담았다…비중대폭상향조정",
+  "삼성전자주가장중8%대올라,미반도체주강세에SK하이닉스도9%대...",
+  "美,北바이낸스해킹자금1조5천억원몰수소송"
  ],
  "recent_sigs": [
   [
@@ -7263,9 +7263,25 @@
   [
    "2026-11-24T11:04:15.260233+09:00",
    "컴백 얻다 복귀 천군만마 젠승 코스피"
+  ],
+  [
+   "2026-11-24T11:06:15.312773+09:00",
+   "주가상승여력 LG유플 배당 압도 ~SKT ~LGU 증가율 내년 ~KT LG유플러스"
+  ],
+  [
+   "2026-11-24T11:06:15.312773+09:00",
+   "사고 출석한 경찰 차부터 고경표의 해명 직후 살폈다"
+  ],
+  [
+   "2026-11-24T11:06:15.312773+09:00",
+   "올라 주가 반도체주 SK하이닉스도 장중 강세에 삼성전자"
+  ],
+  [
+   "2026-11-24T11:06:15.312773+09:00",
+   "조정 앤트로픽 상향 담았다 비중 대폭 삼성자산운용"
   ]
  ],
- "last_run": "2026-11-24T11:04:34.567605+09:00",
+ "last_run": "2026-11-24T11:06:41.959352+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
