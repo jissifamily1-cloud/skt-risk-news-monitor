@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.tokenpost.kr/news/breaking/441135",
-  "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html?partner=naver",
-  "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html?partner=naver",
-  "https://www.womennews.co.kr/news/articleView.html?idxno=284708",
-  "https://www.nytimes.com/2026/11/19/upshot/anthropic-ipo-stock.html?partner=naver",
-  "https://www.tokenpost.kr/news/ai/441097",
-  "https://www.nytimes.com/es/2026/11/19/espanol/negocios/anthropic-bolsa-inversion.html?partner=naver",
-  "https://www.mk.co.kr/article/12215211",
   "https://www.joongang.co.kr/article/25480681",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611210017&t=NN",
   "https://www.ikbc.co.kr/article/view/kbc202611210011",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261124_0003880394",
   "https://www.edaily.co.kr/News/Read?newsId=02587926645649000&mediaCodeNo=257",
   "https://www.hankookilbo.com/news/article/A2026112409460000196?did=NA",
-  "https://www.gokorea.kr/news/articleView.html?idxno=887046"
+  "https://www.gokorea.kr/news/articleView.html?idxno=887046",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=886446",
+  "https://www.itbiznews.com/news/articleView.html?idxno=232541",
+  "http://www.newsroad.co.kr/news/articleView.html?idxno=68315",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51504",
+  "https://www.widedaily.com/news/articleView.html?idxno=304485",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446225",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173461",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860263&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "앤트로픽나스닥상장성공적…30조원대부자탄생",
-  "SlowLetter:November20,2026.",
-  "전장학습하는AI개발논의…국기연,무인자율체계적용모색",
-  "국기연,오픈AI등과'국방피지컬AI'활용논의…전장월드모델주목",
-  "[더벨]파마리서치서밀당PT까지…KCR파트너스의성장투자승부수",
-  "앤트로픽선물거래대금95억달러…스페이스X의2.4배",
-  "〈호주는지금〉상장철회11일뒤퍼머스\"웨슬리베일1단계자금확보...",
-  "AI에이전트통제상실80회주장한캘리포니아,오픈AI제소",
   "Anthropic’sI.P.O.TurnsTechResearchersIntoOvernightMillionair",
   "ThisBillionaireJustMadeaBundleOffA.I.ButItCouldHaveBeenMore.",
   "앤트로픽,상장첫날97.17달러,17%↑...장중시총2조달러",
@@ -6001,7 +5993,15 @@
   "트럼프가밀고이사회가뒤집었다…젠슨황복귀막전막후",
   "젠슨황11일만에복귀하자금값도뛰었다…위험선호확산",
   "'엔비디아주주'트럼프,젠슨황복귀로최대200억원벌었다",
-  "젠슨황복귀,삼성전자·SK하이닉스반도체협력기대감상승"
+  "젠슨황복귀,삼성전자·SK하이닉스반도체협력기대감상승",
+  "델,AMD협력AI옵션확대",
+  "한컴,공공문서HWPX전환지원…전용변환기공급",
+  "서버한대부터GPU72개까지…델·AMD,기업용AI서버확대",
+  "삼성전자,임원승진30명줄여도AI·반도체인재중용",
+  "젠슨황복귀로위험선호심리회복…원·달러환율1340원대중반횡보",
+  "엔비디아이사회의장,내부직원들에\"황복귀,신중하게결정\"",
+  "\"젠슨황훈풍\"...코스피&삼성전자·SK하이닉스'장중폭등'",
+  "[자막뉴스]젠슨황복귀작전,트럼프작품이었다"
  ],
  "recent_sigs": [
   [
@@ -7225,7 +7225,7 @@
    "삼전닉스 급등 북귀에 젠슨"
   ]
  ],
- "last_run": "2026-11-24T10:50:46.264594+09:00",
+ "last_run": "2026-11-24T10:52:35.320549+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
