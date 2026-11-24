@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446221",
-  "https://www.imaeil.com/page/view/2026112408535744485",
-  "https://view.asiae.co.kr/article/2026112409483579431",
-  "https://www.thepublic.kr/news/articleView.html?idxno=328151",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000085976",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4446222",
   "https://www.greened.kr/news/articleView.html?idxno=355378",
@@ -2999,13 +2995,13 @@
   "https://www.kmib.co.kr/article/20261124501999",
   "https://www.donga.com/news/Inter/article/all/20261124/135080031/1",
   "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232661",
-  "https://www.sedaily.com/article/20118513"
+  "https://www.sedaily.com/article/20118513",
+  "https://www.kmib.co.kr/article/20261124502001",
+  "https://www.todayeconomic.com/news/article.html?no=32975",
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232712",
+  "http://www.00news.co.kr/news/articleView.html?idxno=108329"
  ],
  "seen_titles": [
-  "세븐일레븐,겨울철스무디수요공략…'홍시스무디'출시",
-  "AI연산기기안에서처리한다…가온칩스·오픈엣지테크놀로지노려라",
-  "\"3화뽑고바로연재뚫었다\"…세종대,'펜타곤IP'로신진웹툰작가...",
-  "AWS맷가먼CEO\"AI안전,모델의행동을신뢰하는것은희망에의존하...",
   "미래에셋운용,앤트로픽에25%..글로벌언어모델ETF상장",
   "[인터뷰]'학력고사전국수석'오석태\"반도체성과급소비효과0수렴...",
   "울산시민'정보보안'불안감가장높아…2년전보다7.6%p증가",
@@ -6001,17 +5997,13 @@
   "사이버위협고도화하는데…국내정보보안산업‘삼중고’",
   "美의회,내달3일젠슨황공개청문회…中수출규제우회여부묻는...",
   "MBN뉴스7주요뉴스(11월24일화요일)",
-  "AI주오르는데나혼자빠진앤트로픽…남매는7500억벌어[마켓무버]"
+  "AI주오르는데나혼자빠진앤트로픽…남매는7500억벌어[마켓무버]",
+  "반도체등핵심기술보유기업,보안전담인력은‘0명’",
+  "SK텔레콤‘AI케어’,시슐랭스타10선선정…산업통상부장관상",
+  "가죽재킷벗고11일만에'황의귀환'…\"두번째기회감사\"",
+  "['클릭'증시]겸손해진젠슨황의귀환...오천피회복"
  ],
  "recent_sigs": [
-  [
-   "2026-11-24T13:04:21.346500+09:00",
-   "~LGU 모호한 자사주 주가는 뛰었는데 제자리 LG유플러스 영업이익"
-  ],
-  [
-   "2026-11-24T13:04:21.346500+09:00",
-   "1277조원 폭증 환호 하루 월가 시총"
-  ],
   [
    "2026-11-24T13:08:14.755173+09:00",
    "~KT 노조위원장 선거 논란 박윤영 개입 의혹 불법"
@@ -7269,7 +7261,7 @@
    "남매는 벌어 빠진 7500억 AI주 나혼자 오르는데 앤트로픽"
   ]
  ],
- "last_run": "2026-11-24T19:04:35.915431+09:00",
+ "last_run": "2026-11-24T19:06:32.738717+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
