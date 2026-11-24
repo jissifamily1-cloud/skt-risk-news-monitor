@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smarttimes.co.kr/news/articleView.html?idxno=50860",
-  "https://www.bbc.com/korean/articles/cm0ev4vlv93no?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.seoul.co.kr/news/economy/finance/2026/11/24/20261124500254?wlog_tag3=naver",
-  "https://biz.sbs.co.kr/article_hub/20000348061?division=NAVER",
-  "https://www.donga.com/news/article/all/20261106/134971335/1",
-  "https://www.g-enews.com/view.php?ud=202611040914216797923c501012_1",
   "https://www.tokenpost.kr/news/cryptocurrency/443412",
   "https://www.greened.kr/news/articleView.html?idxno=355431",
   "https://www.updownnews.co.kr/news/articleView.html?idxno=319732",
@@ -2999,15 +2993,15 @@
   "https://www.slist.kr/news/articleView.html?idxno=784516",
   "https://www.lecturernews.com/news/articleView.html?idxno=214500",
   "https://www.mt.co.kr/world/2026/11/25/2026112507502351969",
-  "https://www.sidae.com/article/2026112507504523543"
+  "https://www.sidae.com/article/2026112507504523543",
+  "http://www.joseilbo.com/news/news_read.php?uid=580369&class=18",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=630412",
+  "https://www.kmib.co.kr/article/20261125500061",
+  "https://www.edaily.co.kr/News/Read?newsId=01764646645649328&mediaCodeNo=257",
+  "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590018.html",
+  "https://www.edaily.co.kr/News/Read?newsId=01758086645649328&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "한컴,공공문서HWPX전환지원…기존HWP일괄변환기공급",
-  "앤트로픽상장으로수십조원대자산가가될창업자7명",
-  "젠슨황복귀에반등한코스피",
-  "[증시전략]\"또검은월요일오나\"…뉴욕증시폭락에코스피초긴장",
-  "AI가AI를만드는단계왔다…“시스템종료거부할수도”[김현지의wi...",
-  "NH-Amundi운용\"AI시장평가,현금창출력·AIforScience로이동\"",
   "원화스테이블코인허용·거래소지분20%제한…디지털자산법제정안...",
   "[삼전닉스는지금]AI성장서사되살린'젠슨황'귀환…HBM투톱반등...",
   "LG유플러스,데이터독AI로익시오서비스품질개선...장애대응시간8...",
@@ -6001,7 +5995,13 @@
   "앤트로픽,상장4거래일만에공모가밑으로...81.91달러마감",
   "미국CIA·국가정보국해킹피해…비기밀정보노출에미국정보기관보...",
   "FBI·국토안보부이어CIA까지해킹…美정보당국보안'빨간불'",
-  "미CIA·국가정보장실,해킹당해…기밀시스템은유출안돼"
+  "미CIA·국가정보장실,해킹당해…기밀시스템은유출안돼",
+  "원·달러환율,1343.0원…달러,AI관련기술주약세에하락",
+  "[뉴욕증시혼조마감]마이크론·AMD추락,앤트로픽공모가하회",
+  "영국“北위장기업4만여곳…제재회피의심”",
+  "젠슨황복귀에'옵션대박'…美개미,2500만원으로5억벌었다",
+  "젠슨황효과하루만에반도체주폭락…피크아웃보고서도잇따라",
+  "젠슨황돌아와도숏은안뺐다…네오클라우드'빚공포'그대로"
  ],
  "recent_sigs": [
   [
@@ -6515,9 +6515,13 @@
   [
    "2026-11-25T07:56:16.469252+09:00",
    "해킹당해 시스템은 CIA 국가정보장실 기밀 유출"
+  ],
+  [
+   "2026-11-25T07:58:15.634072+09:00",
+   "젠슨황 공포 숏은 뺐다 돌아와도 네오클라우드 그대로"
   ]
  ],
- "last_run": "2026-11-25T07:56:34.365359+09:00",
+ "last_run": "2026-11-25T07:58:33.039239+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
