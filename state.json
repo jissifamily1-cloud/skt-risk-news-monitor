@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newspim.com/news/view/20261124001155",
-  "https://www.mstoday.co.kr/news/articleView.html?idxno=200502",
-  "https://view.asiae.co.kr/article/2026112415555164167",
-  "https://www.yna.co.kr/view/AKR20261124092451008?input=1195m",
-  "https://biz.heraldcorp.com/article/10943647",
-  "https://www.datasom.co.kr/news/articleView.html?idxno=210956",
-  "https://economist.co.kr/article/view/ecn202611240142",
   "http://www.newsdream.kr/news/articleView.html?idxno=122920",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7195497",
   "https://www.news1.kr/world/usa-canada/6364497",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026112582197",
   "https://www.m-economynews.com/news/article.html?no=73543",
   "http://www.inews24.com/view/2030032",
-  "https://www.tfmedia.co.kr/news/article.html?no=209189"
+  "https://www.tfmedia.co.kr/news/article.html?no=209189",
+  "http://www.koreastocknews.com/news/articleView.html?idxno=122447",
+  "https://www.etnews.com/20261125000068",
+  "http://www.yonhapnewstv.co.kr/news/MYH202611250737044un",
+  "https://biz.sbs.co.kr/article_hub/20000348660?division=NAVER",
+  "https://www.news1.kr/world/general-world/6364936",
+  "https://www.yna.co.kr/view/AKR20261125018500075?input=1195m",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=283062"
  ],
  "seen_titles": [
-  "이케아코리아,현대백화점판교점에세번째팝업오픈",
-  "젠슨황퇴진에AI업계긴장…성장세는계속될까",
-  "한화에어로,창원에180MW국방AI데이터센터짓는다…2028년첫가동",
-  "증권가,젠슨황복귀에\"AI불안완화…변수여전·회복엔시간\"(종합)",
-  "200여곳고객상담대행메타엠해킹일파만파…피해기업3사→10여개사...",
-  "SKTAI케어,전국4만1000가구이용···긴급구조1661건기록",
-  "[오늘의증시]\"웰컴백,젠슨황!\"삼전닉스6%,현대차11%폭등…5000선...",
   "젠슨황과함께돌아온코스피…오천피회복마감",
   "\"젠슨황귀환에엔비디아31%폭등\"…코스피5000선회복",
   "\"젠슨황,복귀직전엔비디아이사회에'추가불륜'고백\"",
@@ -6001,7 +5994,14 @@
   "\"美,'과잉생산관세'이르면오늘발표…韓15%유지예상\"",
   "뉴욕증시,젠슨황복귀효과하루만에약화...나스닥1.48%하락",
   "지분확보에경영개입까지...美서'트럼프식국가자본주의'비판확산",
-  "中,핵심광물美수출통제미루고보잉구매…\"휴전의지\"관측"
+  "中,핵심광물美수출통제미루고보잉구매…\"휴전의지\"관측",
+  "SKT,실적반등에도인력재편지속···3년연속퇴직프로그램가동",
+  "앤트로픽주가상장나흘만에공모가밑으로",
+  "'젠슨황복귀'트럼프개입후폭풍…공화강경파도반발",
+  "[마켓브리핑]젠슨황복귀소식에급등했던AI관련주중심매도세",
+  "젠슨황복귀첫날엔비디아본사앞에서직접샌드위치나눠줬다[영상...",
+  "\"유명무실이사회·모럴해저드CEO\"…리스크짊어진엔비디아",
+  "[젠슨황복귀]엔비디아시총'요요현상'...이틀간1조달러변동성"
  ],
  "recent_sigs": [
   [
@@ -6479,9 +6479,17 @@
   [
    "2026-11-25T07:38:16.991104+09:00",
    "핵심광물 관측 미루고 의지 구매 보잉 수출통제 휴전"
+  ],
+  [
+   "2026-11-25T07:40:26.167585+09:00",
+   "유명무실 이사회 리스크 모럴해저드 짊어진 CEO"
+  ],
+  [
+   "2026-11-25T07:40:26.167585+09:00",
+   "현상 1조달러 변동성 요요 시총 이틀간"
   ]
  ],
- "last_run": "2026-11-25T07:38:35.800022+09:00",
+ "last_run": "2026-11-25T07:40:46.789320+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
