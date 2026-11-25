@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.wsobi.com/news/articleView.html?idxno=322552",
-  "https://www.newspim.com/news/view/20261125000627",
-  "https://monthly.chosun.com/news/articleView.html?idxno=72152",
-  "https://monthly.chosun.com/news/articleView.html?idxno=72150",
-  "https://www.etnews.com/20261125000404",
-  "https://www.viva100.com/article/20261125500933",
   "https://www.ddaily.co.kr/page/view/2026112514430618906",
   "https://biz.heraldcorp.com/article/10949076",
   "https://www.dailysecu.com/news/articleView.html?idxno=209713",
@@ -2999,15 +2993,15 @@
   "https://view.asiae.co.kr/article/2026112606554024692",
   "https://www.yna.co.kr/view/AKR20261126010700091?input=1195m",
   "https://www.ytn.co.kr/_ln/0103_202611260652545711",
-  "http://coinreaders.com/273470"
+  "http://coinreaders.com/273470",
+  "https://www.businesspost.co.kr/BP?command=article_view&num=451587",
+  "https://www.lecturernews.com/news/articleView.html?idxno=214340",
+  "http://coinreaders.com/273467",
+  "https://www.seoulfn.com/news/articleView.html?idxno=643949",
+  "http://coinreaders.com/273466",
+  "http://coinreaders.com/273468"
  ],
  "seen_titles": [
-  "'해킹피해'전북교육청,보안강화에26억원투입",
-  "크래프톤,자체개발300억파라미터AI모델'라온-1미니'정식공개",
-  "크래프톤,독자개발LLM'라온-1미니'정식공개…추론·에이전트성능...",
-  "[건설레이더]현대건설·현대엔지니어링·BS한양,스타트업협업·발전...",
-  "노소영“진정성있다면상고취하하라”…‘9천440억원전액지급’최...",
-  "LG유플러스,AI통화앱'익시오'에'가족보호알리미'기능출시",
   "삼전·닉스,나란히10%가까이↓…'젠슨황'효과하루만에소멸하며반...",
   "中시골마을소녀에서'AI칩거물'의곁까지…'스파이의혹'앨리스황",
   "[특징주]안랩,美CIA·ODIN해킹소식에상한가…국내금융권잇단정보...",
@@ -6001,7 +5995,13 @@
   "[뉴욕증시]다우급락딛고반등…AI주약세에나스닥0.62%↓",
   "'美제재무색'中상가서수출금지엔비디아최첨단칩버젓이유통",
   "[YTN실시간뉴스]미\"한국에관세15%...협의불만족시25%\"",
-  "비트코인채굴보상도해킹당한다?1초만에채굴시설1,000곳공격"
+  "비트코인채굴보상도해킹당한다?1초만에채굴시설1,000곳공격",
+  "[WhoIs?]양윤지신세계I&C대표이사",
+  "[이용호의손에잡히는인공지능]계속일하는AI,누가멈추고누가이...",
+  "[시세]엔비디아3.9%하락,장중낙폭컸다",
+  "[뉴욕증시]AI투매딛고보합권혼조'전약후강'···엔비디아4%↓·앤...",
+  "[시세]엔비디아-3.9%,아마존-3.1%약세",
+  "[시세]엔비디아-3.9%,149.3달러에마감"
  ],
  "recent_sigs": [
   [
@@ -6283,9 +6283,17 @@
   [
    "2026-11-26T06:58:14.470367+09:00",
    "000곳 만에 공격 1초 비트코인 보상도 채굴 해킹당한다 시설"
+  ],
+  [
+   "2026-11-26T07:00:37.865426+09:00",
+   "아마존 약세"
+  ],
+  [
+   "2026-11-26T07:00:37.865426+09:00",
+   "3달러에 마감"
   ]
  ],
- "last_run": "2026-11-26T06:58:38.493760+09:00",
+ "last_run": "2026-11-26T07:01:01.619006+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
