@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261125127900073?input=1195m",
-  "https://www.newspim.com/news/view/20261125001077",
-  "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087265",
-  "https://www.theguru.co.kr/news/article.html?no=110044",
-  "https://www.epnc.co.kr/news/articleView.html?idxno=410080",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3762852",
-  "https://www.m-i.kr/news/articleView.html?idxno=2023275",
-  "https://biz.sbs.co.kr/article_hub/20000348834?division=NAVER",
   "https://zdnet.co.kr/view/?no=20261125144812",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732996",
   "https://www.m-i.kr/news/articleView.html?idxno=2023366",
@@ -2999,17 +2991,17 @@
   "https://www.newspim.com/news/view/20261126000101",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525611",
   "https://www.yna.co.kr/view/AKR20261126011151017?input=1195m",
-  "https://www.topdaily.kr/articles/112651"
+  "https://www.topdaily.kr/articles/112651",
+  "https://www.m-i.kr/news/articleView.html?idxno=2023510",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=370467",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=370561",
+  "http://www.fieldnews.kr/news/articleView.html?idxno=33414",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508218",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446586",
+  "https://www.news1.kr/it-science/cc-newmedia/6366417",
+  "https://www.sedaily.com/article/20119112"
  ],
  "seen_titles": [
-  "[동정]문정우금산군수",
-  "금산군,2029국제건강기능성소재산업전국제행사승인준비...기본...",
-  "크래프톤,자체개발고효율LLM'라온-1미니'정식공개…해외동급...",
-  "코스피6%대급락,매도사이드카이틀만에또발동",
-  "[오늘의주요일정·25일]김성환장관'원전공론화'공개토론회",
-  "노소영화해신청거부…법정다툼과상고취하갈림길",
-  "최태원측\"노관장화해거부,착잡유감...재판성실히임할것\"",
-  "KT,금감원과AI금융사기예방캠페인진행...시민체험관운영",
   "\"'中스파이의혹'젠슨황불륜상대,오사카에도법인설립\"",
   "[인도특징주]인도,신흥시장지수비중4%p확대...外人유입지속시킬...",
   "SKT정재헌,국내외AI인프라영역넓힌다…수익화정조준",
@@ -6001,7 +5993,15 @@
   "[미국특징주]앤스로픽'매도'vs'장기매력'…한솥밥애널리스트의...",
   "KT·금감원,AI금융사기예방나섰다…딥페이크·딥보이스체험관운영",
   "[속보]LG헬로비전\"방미통위중재로CJENM과콘텐츠대가합의\"",
-  "티엑스알로보틱스,독립이사역할론…'정무감각'앞세운노림수는"
+  "티엑스알로보틱스,독립이사역할론…'정무감각'앞세운노림수는",
+  "양자전시·컨퍼런스'IQTKOREA2026',송도컨벤시아서개막",
+  "닥터지,로레알인수이후글로벌확장가속화…미국·호주공략속도",
+  "정용진의이마트,유통본업경쟁력강화…AI·호텔·콘텐츠로외연확...",
+  "한국첨단솔루션파이버랩스,'파이버'에엔비디아GPU·네모트론분석...",
+  "엔비디아등급강등현실화할까…HBM·AI전력인프라수혜주다시따져...",
+  "미국관세압박과엔비디아신용등급경고등이시각주요뉴스",
+  "\"블랙아웃피했다\"LG헬로-CJENM,콘텐츠협상극적합의",
+  "엔비디아4%하락에도…SK하이닉스프리마켓서2%상승[줍줍리포트]"
  ],
  "recent_sigs": [
   [
@@ -6643,9 +6643,13 @@
   [
    "2026-11-26T08:38:15.353618+09:00",
    "앞세운 티엑스알로보틱스 역할론 노림수는 정무 독립이사 감각"
+  ],
+  [
+   "2026-11-26T08:40:25.840585+09:00",
+   "SK하이닉스 하락에도 상승 프리마켓서"
   ]
  ],
- "last_run": "2026-11-26T08:38:39.606856+09:00",
+ "last_run": "2026-11-26T08:40:47.181157+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
