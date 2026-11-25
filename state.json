@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232845",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1732984",
-  "https://www.polinews.co.kr/news/articleView.html?idxno=749199",
-  "https://www.asiatime.co.kr/article/20261125500315",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=904313",
-  "http://www.thefirstmedia.net/news/articleView.html?idxno=214399",
   "https://www.1conomynews.co.kr/news/articleView.html?idxno=51471",
   "https://daily.hankooki.com/news/articleView.html?idxno=1427778",
   "https://www.socialvalue.kr/news/view/1065591783439965",
@@ -2999,15 +2993,15 @@
   "https://www.slist.kr/news/articleView.html?idxno=784869",
   "https://www.gokorea.kr/news/articleView.html?idxno=887320",
   "https://www.dailian.co.kr/news/view/1719830/?sc=Naver",
-  "https://www.dt.co.kr/article/12097314"
+  "https://www.dt.co.kr/article/12097314",
+  "https://www.vegannews.co.kr/news/article.html?no=410114",
+  "https://www.etnews.com/20261126000047",
+  "https://www.gokorea.kr/news/articleView.html?idxno=887322",
+  "https://www.gokorea.kr/news/articleView.html?idxno=887324",
+  "https://www.newsis.com/view/NISX20261126_0003883640",
+  "https://www.yna.co.kr/view/AKR20261126012300071?input=1195m"
  ],
  "seen_titles": [
-  "“美는벌써병목,韓AIDC뜬다”…SKTAI연구원“전력망연계·인허가...",
-  "부족한AI데이터센터,韓에는성장동력·균형발전기회된다",
-  "KT,LG전자와6G기술검증…업로드용량최대4.9배늘려",
-  "크래프톤,경량AI'라온-1미니'정식출시…수능평가서국내모델1위",
-  "OpenAI,코덱스GPT-6.2사용량과소차감오류수정",
-  "젠슨황CEO복귀이끌어낸트럼프,워싱턴정가로부터고립",
   "젠슨황사임·복귀혼란속에도…엔비디아韓AI기업투자는'이상無...",
   "심기일전엔비디아의향방,'베라루빈'에달렸다",
   "삼성전자주가9%털렸다…‘젠슨황랠리’하루만에증발",
@@ -6001,7 +5995,13 @@
   "S&P,엔비디아신용등급강등검토…젠슨황복귀에도지배구조우려",
   "AI투자불확실성에흔들리는뉴욕증시,나스닥4.6%폭락후회복",
   "美증시,AI거품에관세폭탄까지…나스닥장중4%폭락",
-  "널뛰는뉴욕증시…다우급락딛고상승,나스닥은하락"
+  "널뛰는뉴욕증시…다우급락딛고상승,나스닥은하락",
+  "BGF리테일,CU서SK브로드밴드인터넷·IPTV가입접수",
+  "S&P,엔비디아신용등급강등검토…“경영·지배구조체계악화”",
+  "엔비디아,경영진문제로신용등급강등위기직면—젠슨황복귀의그...",
+  "젠슨황복귀결정의비밀:미국과중국의미묘한힘겨루기",
+  "\"경제성장지속\"발표에도대다수미국인은침체체감",
+  "젠슨황복귀에'美부통령·상무장관vs국무·재무장관'편갈려"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,17 @@
   [
    "2026-11-26T07:12:17.201222+09:00",
    "제한 에이전트 이유는 접근 강화 기업들의 보안"
+  ],
+  [
+   "2026-11-26T07:16:25.345652+09:00",
+   "경제 대다수 지속 발표에도 미국인은 성장 침체 체감"
+  ],
+  [
+   "2026-11-26T07:16:25.345652+09:00",
+   "복귀에 갈려 부통령 젠슨황 재무장관 상무장관 vs 국무"
   ]
  ],
- "last_run": "2026-11-26T07:14:37.027634+09:00",
+ "last_run": "2026-11-26T07:16:44.502956+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
