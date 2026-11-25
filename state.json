@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=217575",
-  "https://www.tokenpost.kr/news/ai/439560",
-  "https://www.aitimes.com/news/articleView.html?idxno=217473",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=722206",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=195248",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16285955",
-  "https://www.wikileaks-kr.org/news/articleView.html?idxno=195251",
-  "https://www.cstimes.com/news/articleView.html?idxno=729407",
   "http://www.yonhapnewstv.co.kr/news/AKR20261125155102ni0",
   "https://www.joongangenews.com/news/articleView.html?idxno=566549",
   "http://www.opinionnews.co.kr/news/articleView.html?idxno=147492",
@@ -2999,17 +2991,17 @@
   "https://www.yna.co.kr/view/AKR20261126030700091?input=1195m",
   "https://www.sedaily.com/article/20119115",
   "http://www.paxetv.com/news/articleView.html?idxno=287898",
-  "https://www.yna.co.kr/view/AKR20261126032500052?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261126032500052?input=1195m",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1733034",
+  "https://www.gokorea.kr/news/articleView.html?idxno=887238",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717578",
+  "https://www.yna.co.kr/view/AKR20261126028200009?input=1195m",
+  "https://www.etnews.com/20261126000060",
+  "https://www.dt.co.kr/article/12097328",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718251",
+  "https://news.mtn.co.kr/article/2026112608430858816"
  ],
  "seen_titles": [
-  "“앨리스황,군수공장직원딸…간호학교출신”NYT보도[자막뉴스]",
-  "코스피6%대↓,4,697마감...전날상승분모두반납",
-  "[속보]삼전시총1000조깨지고하이닉스11%급락…코스피,하루만에...",
-  "'AI해킹·디지털뱅크런'겹치면어떻게막나…금융당국·5대금융첫...",
-  "한세대AI리터러시교육…KT와AI인재양성협력",
-  "JW중외제약,'STAT6표적호산구성식도염'신약과제선정",
-  "김동빈세종시의원,마을회관게스트하우스활용제안",
-  "바이오벤처데스밸리넘자…업계·정부,사업화지원한목소리",
   "오픈AI'GPT-6.2'출시직후일부혹평…알트먼\"사용성개선필요\"",
   "샘알트먼\"AI칩수요에중복계산있다\"…상장은'언젠가'",
   "알트먼\"젠슨황없이도AI산업괜찮을것\"...복귀지지는유보",
@@ -6001,7 +5993,15 @@
   "'中원격접속차단'규제신설되자엔비디아칩매물쏟아져",
   "LG헬로비전·CJENM콘텐츠사용료협상타결…방송중단사태피했다",
   "페스카로,실차기반자동차해킹경진대회과제출제...\"보안인재육성...",
-  "경남대도해킹피해…교직원·학생개인정보1천202건유출"
+  "경남대도해킹피해…교직원·학생개인정보1천202건유출",
+  "14억뷰'템빨',MMORPG로…넥슨'오버기어드'정식출시",
+  "한국마케팅진흥원,'2026년소상공인AI상생협업교육'성료…수료생펀...",
+  "\"GPU예수가부활했다\"…젠슨황복귀에월가·실리콘밸리들썩",
+  "미국AI칩규제강화로아시아데이터센터대출속속중단",
+  "LG헬로비전·CJENM“방미통위중재로콘텐츠대가산정합의”",
+  "[속보]LG헬로비전“방미통위중재로CJENM과콘텐츠대가합의”",
+  "LG헬로·CJENM,콘텐츠사용료협상타결…블랙아웃피했다",
+  "LG헬로비전·CJENM,콘텐츠사용료합의…'블랙아웃'피했다"
  ],
  "recent_sigs": [
   [
@@ -6681,7 +6681,7 @@
    "유출 교직원 개인정보 1천202건 학생 경남대도 피해"
   ]
  ],
- "last_run": "2026-11-26T08:50:53.777000+09:00",
+ "last_run": "2026-11-26T08:52:37.389474+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
