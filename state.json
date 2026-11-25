@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.bbc.com/korean/articles/cm62p5kp3n0ko?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
-  "https://www.ceoscoredaily.com/page/view/2026112514451749083",
-  "https://www.mt.co.kr/tech/2026/11/25/2026112510272085813",
-  "https://news.tf.co.kr/read/economy/2393217.htm",
-  "https://www.newsis.com/view/NISX20261125_0003882913",
-  "https://www.cnbnews.com/news/articleView.html?idxno=1025250",
-  "https://www.fnnews.com/news/202611250935500319",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001780",
-  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496975",
-  "http://coinreaders.com/273252",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232845",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732984",
   "https://www.polinews.co.kr/news/articleView.html?idxno=749199",
@@ -2999,19 +2989,19 @@
   "https://www.newsis.com/view/NISX20261124_0003881555",
   "https://www.gokorea.kr/news/articleView.html?idxno=887313",
   "https://www.hankyung.com/article/2026112608776",
-  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232975"
+  "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5232975",
+  "https://www.econovill.com/news/articleView.html?idxno=758339",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=302769",
+  "https://www.ddaily.co.kr/page/view/2026112015540845486",
+  "https://www.edaily.co.kr/News/Read?newsId=01600646645649656&mediaCodeNo=257",
+  "https://biz.chosun.com/international/international_general/2026/11/26/MZJCKBJPF5DZ3CLB7V5YPVMVPU/",
+  "https://www.edaily.co.kr/News/Read?newsId=01610486645649656&mediaCodeNo=257",
+  "https://www.slist.kr/news/articleView.html?idxno=784869",
+  "https://www.gokorea.kr/news/articleView.html?idxno=887320",
+  "https://www.dailian.co.kr/news/view/1719830/?sc=Naver",
+  "https://www.dt.co.kr/article/12097314"
  ],
  "seen_titles": [
-  "BGF리테일,CU서SK브로드밴드인터넷·IPTV가입접수",
-  "매일신문'손정의회장극비대구방문'단독보도…전국언론도주목",
-  "추경호대구시장,올림픽금메달리스트반효진·아시안게임2관왕이건...",
-  "경복대학교,수험생위한'2026OPENCAMPUSDAY'개최…등록전대학생...",
-  "레드햇-MS,차세대엔터프라이즈가상화협력'확대'",
-  "HS효성인포,AI·미션크리티컬용'VSPOneBlock하이엔드'출시",
-  "로봇·AI테마차익실현매물폭탄…삼성SDS·에스투더블유강세속큐렉...",
-  "美델,PC넘어AI인프라기업으로…서버수주잔고1323억달러",
-  "[테크M리포트]안랩·파수AI장중상한가기록하며보안株'들썩'...업계...",
-  "'러시아자체통계'우크라전쟁사망자,50만명육박",
   "“美는벌써병목,韓AIDC뜬다”…SKTAI연구원“전력망연계·인허가...",
   "부족한AI데이터센터,韓에는성장동력·균형발전기회된다",
   "KT,LG전자와6G기술검증…업로드용량최대4.9배늘려",
@@ -6001,7 +5991,17 @@
   "[오늘의주요일정]과기정통부·방미통위·개보위(11월25일수요일)",
   "AI에이전트접근제한,기업들의보안강화이유는?",
   "AI투자불안에극심한변동장…나스닥0.6%하락[뉴욕증시브리핑]",
-  "'젠슨황'복귀약발끝…AI거품론에엔비디아주가이틀째하락"
+  "'젠슨황'복귀약발끝…AI거품론에엔비디아주가이틀째하락",
+  "SK브로드밴드가AI로제작시간3분의1걸려지역뉴스하루10회정시방...",
+  "[CEO리더십]위기딛고재신임받은SKB김성수…'AI수익화'승부수",
+  "대량문자사업자재등록지연…유예기간끝났는데왜?",
+  "“이직하려면AI프롬프트내라고?”…직장인78%“노하우도용우려”",
+  "뉴욕증시,AI투자불안에혼조마감…나스닥0.6%↓",
+  "같은회사서\"공매도하라\"vs\"92달러\"…앤스로픽정반대전망",
+  "S&P,엔비디아신용등급강등검토…젠슨황복귀에도지배구조우려",
+  "AI투자불확실성에흔들리는뉴욕증시,나스닥4.6%폭락후회복",
+  "美증시,AI거품에관세폭탄까지…나스닥장중4%폭락",
+  "널뛰는뉴욕증시…다우급락딛고상승,나스닥은하락"
  ],
  "recent_sigs": [
   [
@@ -6381,7 +6381,7 @@
    "제한 에이전트 이유는 접근 강화 기업들의 보안"
   ]
  ],
- "last_run": "2026-11-26T07:12:38.312342+09:00",
+ "last_run": "2026-11-26T07:14:37.027634+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
