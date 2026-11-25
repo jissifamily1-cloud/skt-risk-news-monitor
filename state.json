@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.newsprime.co.kr/news/article.html?no=756010",
-  "https://economist.co.kr/article/view/ecn202611180029",
-  "https://www.datanet.co.kr/news/articleView.html?idxno=300407",
-  "https://www.newsway.co.kr/news/view?ud=2026112512030543504",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1428742",
-  "http://www.metroseoul.co.kr/article/20261125500372",
   "https://www.monews.co.kr/news/articleView.html?idxno=415787",
   "https://www.ekn.kr/web/view.php?key=20261125025524568",
   "https://daily.hankooki.com/news/articleView.html?idxno=1428750",
@@ -2999,15 +2993,15 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=95531",
   "https://www.etoday.co.kr/news/view/2653059",
   "https://news.tf.co.kr/read/world/2393497.htm",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718235"
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718235",
+  "https://www.asiatime.co.kr/article/20261125500315",
+  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021894",
+  "https://www.thesportstimes.co.kr/news/articleView.html?idxno=377891",
+  "https://www.slist.kr/news/articleView.html?idxno=784872",
+  "https://www.ajunews.com/view/20261126070948884",
+  "https://www.ytn.co.kr/_ln/0102_202611260715144937"
  ],
  "seen_titles": [
-  "편의점서인터넷가입도…CU,생활서비스중개플랫폼역할확대",
-  "[유통레이더]신세계백화점,쿠팡,롯데온,G마켓,서울신라호텔,천재...",
-  "SK텔레콤,'AI케어'로산업통상부장관상수상…AI기반사회안전망구...",
-  "화순군,화순출신농협임직원9명...고향사랑기부금700만원기탁",
-  "포항영일만항,북극항로핵심원료·인공지능항만으로…국회서국가정...",
-  "단기할인·경품혜택에알뜰폰끼리번호이동사상최대",
   "휴대폰명의도용막는'가입제한서비스'···기존가입자는직접챙겨...",
   "\"AI모델마다일일이비용계산어렵네\"…통신사'새먹거리'로뜨는사...",
   "수능끝난자녀에새폰선물하려다“가격이왜이래?”…최신폰최고...",
@@ -6001,7 +5995,13 @@
   "뉴욕증시혼조마감...트럼프관세충격·AI수익성우려나스닥0.62%↓",
   "젠슨황복귀에도후폭풍⋯S&P,엔비디아신용등급강등검토",
   "뉴욕증시,AI투자불안속혼조세마감…나스닥0.62%↓",
-  "AI버블붕괴의충격은어느정도일까?다양한시나리오"
+  "AI버블붕괴의충격은어느정도일까?다양한시나리오",
+  "해킹사고보다대응이성패갈랐다…SKT,신뢰회복41%로선두",
+  "\"지금은외부FA검토안해\"못박았다…집토끼만6명,이것도바쁜데...",
+  "'허훈-안영준,소속팀에선35분이상뛰더니국가대표는부상낙마'월...",
+  "G마켓,26일'뷰티컨퍼런스'개최→내년초'뷰티홈'오픈",
+  "[뉴욕증시]AI불확실성에또롤러코스터...나스닥0.62%↓",
+  "미,한국등14곳에'과잉생산'관세...'많이만든다'고관세?의미와파..."
  ],
  "recent_sigs": [
   [
@@ -6393,7 +6393,7 @@
    "정도일까 붕괴의 버블 어느 충격은 다양한 시나리오"
   ]
  ],
- "last_run": "2026-11-26T07:20:44.236820+09:00",
+ "last_run": "2026-11-26T07:22:29.525266+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
