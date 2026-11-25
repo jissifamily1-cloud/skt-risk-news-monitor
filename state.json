@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.hankyung.com/article/2026112477511",
-  "https://www.chosun.com/economy/tech_it/2026/11/25/53BEBHRDGJHNTH2IRFH5ZEN7YY/",
-  "https://www.joongang.co.kr/article/25481676",
   "https://www.newsis.com/view/NISX20261124_0003881233",
   "https://www.ytn.co.kr/_ln/0104_202611242332143684",
   "https://www.dongponews.net/news/articleView.html?idxno=61881",
@@ -2999,12 +2996,12 @@
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508167",
   "https://imnews.imbc.com/replay/2026/nwtoday/article/6868643_37012.html",
   "https://www.news1.kr/world/international-economy/6366307",
-  "https://www.fnnews.com/news/202611260631005468"
+  "https://www.fnnews.com/news/202611260631005468",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508168",
+  "http://www.nongaek.com/news/articleView.html?idxno=97607",
+  "https://www.g-enews.com/view.php?ud=2026112519272119250c8c1c064d_1"
  ],
  "seen_titles": [
-  "노소영\"최태원화해권고요청동의안해...즉시상고취하하라\"",
-  "트럼프“젠슨황사면선택지있어…엔비디아지분확보생각해봤다”",
-  "불현듯떠오르는그영화?...\"젠슨황구하려다AI시장붕괴할수도\"[Y...",
   "이름·이메일유출첫확인...EU집행위원회,해킹당한EU아카데미접...",
   "딥시크급문장력뽐낸‘공짜AI’K-엑사원…잦은끊김은숙제",
   "현대건설,스타트업14곳과혁신기술공유…오픈이노베이션데이개최",
@@ -6001,7 +5998,10 @@
   "업비트경쟁력회복과제부상…한화투자증권·미래에셋증권디지털금...",
   "'세기의이혼'재점화‥최태원제안거절이유는?",
   "뉴욕증시AI주투매에도낙폭축소…다우0.33%반등성공",
-  "[뉴욕증시]패닉매도진정속기술주소폭하락…엔비디아낙폭,9.1→..."
+  "[뉴욕증시]패닉매도진정속기술주소폭하락…엔비디아낙폭,9.1→...",
+  "빅테크데이터센터투자부담커졌다…삼성전자·SK하이닉스도영향권",
+  "[논객단상]\"개인정보가유출됐습니다...\"그래서?",
+  "젠슨황복귀에도아시아AI랠리‘가시밭길’…美규제강화·투자둔..."
  ],
  "recent_sigs": [
   [
@@ -6219,9 +6219,17 @@
   [
    "2026-11-26T06:36:16.743322+09:00",
    "낙폭 소폭 기술주 진정 하락 패닉 매도"
+  ],
+  [
+   "2026-11-26T06:38:17.137116+09:00",
+   "유출됐습니다 개인정보가 그래서"
+  ],
+  [
+   "2026-11-26T06:38:17.137116+09:00",
+   "규제 가시밭길 랠리 아시아 강화 투자 복귀에도 젠슨"
   ]
  ],
- "last_run": "2026-11-26T06:36:34.577564+09:00",
+ "last_run": "2026-11-26T06:38:35.440006+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
