@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.jeonmae.co.kr/news/articleView.html?idxno=1315624",
-  "https://www.tokenpost.kr/news/blockchain/443885",
-  "https://www.kukinews.com/article/view/kuk202611250038",
-  "https://www.fnnews.com/news/202611250947327715",
-  "https://www.fntoday.co.kr/news/articleView.html?idxno=400114",
   "https://www.newspim.com/news/view/20261125000300",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4446400",
   "https://www.kfenews.co.kr/news/articleView.html?idxno=668726",
@@ -2999,14 +2994,14 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261125184843TFp",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=904463",
   "https://news.jtbc.co.kr/article/NB12329812?influxDiv=NAVER",
-  "https://www.kmib.co.kr/article/20261125501826"
+  "https://www.kmib.co.kr/article/20261125501826",
+  "https://zdnet.co.kr/view/?no=20261125173251",
+  "https://www.ytn.co.kr/_ln/0102_202611251850006413",
+  "http://www.00news.co.kr/news/articleView.html?idxno=108362",
+  "https://news.jtbc.co.kr/article/NB12329811?influxDiv=NAVER",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722350"
  ],
  "seen_titles": [
-  "[운용NOW]삼성자산운용·미래에셋운용·한화자산운용",
-  "월가\"AI수퍼사이클건재\"...내년美증시두자릿수상승\"",
-  "한전,정보유출2차피해막는다...보상·차단지원",
-  "보이스피싱위험바로알린다…LG유플러스,‘가족보호알리미’기능...",
-  "SK스퀘어'국민내비'티맵외국매각…안이한보안의식'도마'",
   "코스피,하루만에4%대급락…장초반매도사이드카발동",
   "비트코인,엔비디아발상승분반납하며주식보다약세",
   "‘매도-매도-매수-매도’사이드카…코스피5000선하루만에반납",
@@ -6001,7 +5996,12 @@
   "조폭끼고'최대300%수익'사기…일당44명적발",
   "\"10조규모방어막으론역부족\"…금융권,증안펀드추가출자여력파악",
   "'젠슨황효과'딱하루갔다…코스피상승분모두반납",
-  "다시시작된美관세압박…15%상한지켜도디지털규제복병"
+  "다시시작된美관세압박…15%상한지켜도디지털규제복병",
+  "디에스앤지\"28년간서버·GPU에특화...풀스택AI컨설팅제공\"",
+  "한국투자저축은행8만6천여명고객정보유출",
+  "['클릭'증시]AI대장주노리는트럼프올가미...젠슨황효과증발",
+  "말로만\"더나은CEO\"…젠슨황\"승계계획필요없다\"",
+  "한국투자저축은행8만6천여명고객정보유출…모바일웹해킹"
  ],
  "recent_sigs": [
   [
@@ -7275,9 +7275,17 @@
   [
    "2026-11-25T18:50:34.512461+09:00",
    "지켜도 다시 시작된 규제 압박 상한 복병 디지털 관세"
+  ],
+  [
+   "2026-11-25T18:52:22.718428+09:00",
+   "승계 나은 CEO 젠슨황 계획 말로만 필요없다"
+  ],
+  [
+   "2026-11-25T18:52:22.718428+09:00",
+   "모바일웹 8만6천여 한국투자저축은행 고객정보 유출"
   ]
  ],
- "last_run": "2026-11-25T18:50:53.496716+09:00",
+ "last_run": "2026-11-25T18:52:44.597993+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
