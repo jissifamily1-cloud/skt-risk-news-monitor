@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12329764?influxDiv=NAVER",
-  "https://www.industrynews.co.kr/news/articleView.html?idxno=90215",
-  "https://www.joongangenews.com/news/articleView.html?idxno=566347",
-  "https://thetracker.co.kr/View.aspx?No=4329045",
-  "https://www.sidae.com/article/2026112508551697703",
-  "https://www.mt.co.kr/finance/2026/11/25/2026112513414287099",
-  "https://www.etnews.com/20261125000412",
-  "https://www.etnews.com/20261125000097",
   "http://www.journalist.or.kr/news/article.html?no=62154",
   "https://www.g-enews.com/view.php?ud=2026112509234367653d7a510102_1",
   "http://www.incheonnews.com/news/articleView.html?idxno=443591",
@@ -2999,17 +2991,17 @@
   "https://www.newsworker.co.kr/news/articleView.html?idxno=515851",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717408",
   "https://dealsite.co.kr/articles/173397",
-  "https://biz.sbs.co.kr/article_hub/20000348948?division=NAVER"
+  "https://biz.sbs.co.kr/article_hub/20000348948?division=NAVER",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495802",
+  "https://www.hankyung.com/article/202611233202g",
+  "https://www.sedaily.com/article/20117764",
+  "http://www.newsprime.co.kr/news/article.html?no=756010",
+  "https://economist.co.kr/article/view/ecn202611180029",
+  "https://www.etoday.co.kr/news/view/2653051",
+  "http://www.bizwnews.com/news/articleView.html?idxno=153098",
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=303241"
  ],
  "seen_titles": [
-  "KISA·방미통위\"공공·민간협력해불법스팸대응\"",
-  "막자니반발,두자니책임론…'AI안경'딜레마에빠진이커머스",
-  "[유통레이더]CJ온스타일,롯데홈쇼핑,CJ올리브영,골프존,롯데월드아...",
-  "NH-Amundi운용AIETF,상장직후앤트로픽편입…비중23.74%",
-  "베링거,한국바이오와협력확대나선다",
-  "[똑똑한여행]하나투어제우스월드,모두투어,교원투어여행이지,여기...",
-  "[신상브리핑]롯데웰푸드,매일유업셀렉스,배스킨라빈스,공영홈쇼핑...",
-  "레드햇,MS와클라우드가상화협력확대…기업IT비용절감",
   "해외선AI결제경쟁본격화...국내는상용화'걸음마'",
   "\"사람속이는데성공할수도\"…차세대AI출시반대한연구원들",
   "노소영,최태원'9440억원화해권고'요청에반대…재상고취하촉구",
@@ -6001,7 +5993,15 @@
   "화순군,화순출신농협임직원9명...고향사랑기부금700만원기탁",
   "단기할인·경품혜택에알뜰폰끼리번호이동사상최대",
   "[금융in라이브러리]유호재주금공이사\"AI기반닦은2년…내년엔국...",
-  "美금융범죄단속기관도뚫렸다…해킹에가동중단"
+  "美금융범죄단속기관도뚫렸다…해킹에가동중단",
+  "휴대폰명의도용막는'가입제한서비스'···기존가입자는직접챙겨...",
+  "\"AI모델마다일일이비용계산어렵네\"…통신사'새먹거리'로뜨는사...",
+  "수능끝난자녀에새폰선물하려다“가격이왜이래?”…최신폰최고...",
+  "[카드]LGU+,해외7개국여행혜택'원더조이'출시",
+  "“공짜폰에현금까지?”…6개월요금따져보니[정길준의위클리성지]",
+  "뉴욕증시,AI불안·관세우려속혼조마감⋯나스닥0.6%↓[종합]",
+  "LG유플러스,블랙프라이데이'유독'유튜브구독료50%할인…\"생활혜택...",
+  "[밤사이세계는]요미우리\"젠슨황CEO복귀과정,백악관개입정면비..."
  ],
  "recent_sigs": [
   [
@@ -6391,9 +6391,13 @@
   [
    "2026-11-26T07:20:25.363385+09:00",
    "정도일까 붕괴의 버블 어느 충격은 다양한 시나리오"
+  ],
+  [
+   "2026-11-26T07:26:16.010976+09:00",
+   "유튜브 할인 블랙프라이데이 혜택 유독 ~LGU LG유플러스 구독료 생활"
   ]
  ],
- "last_run": "2026-11-26T07:24:29.423771+09:00",
+ "last_run": "2026-11-26T07:26:31.642238+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
