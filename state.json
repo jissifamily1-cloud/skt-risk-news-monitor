@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717212",
-  "https://www.news1.kr/economy/trend/6358872",
-  "http://www.yonhapnewstv.co.kr/news/AKR20261119095632Jsj",
-  "https://www.newspim.com/news/view/20261119000035",
-  "http://coinreaders.com/271358",
-  "https://www.aitimes.com/news/articleView.html?idxno=217536",
   "https://www.aitimes.com/news/articleView.html?idxno=217543",
   "https://ilyo.co.kr/?ac=article_view&entry_id=513673",
   "http://coinreaders.com/271334",
@@ -2999,15 +2993,15 @@
   "http://www.yonhapnewstv.co.kr/news/MYH20261125135326YKP",
   "https://www.mt.co.kr/world/2026/11/25/2026112513494792162",
   "https://www.bloter.net/news/articleView.html?idxno=679652",
-  "https://www.viva100.com/article/20261125500836"
+  "https://www.viva100.com/article/20261125500836",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1732954",
+  "https://www.incheonilbo.com/news/articleView.html?idxno=1337778",
+  "https://hbnpress.com/news/view/1065588862122281",
+  "https://www.newspim.com/news/view/20261125000543",
+  "https://www.mt.co.kr/tech/2026/11/25/2026112417372012164",
+  "https://www.ziksir.com/news/articleView.html?idxno=154631"
  ],
  "seen_titles": [
-  "소비자원“인공지능으로의약품자가처방삼가야…부작용우려”",
-  "\"의사대신AI믿고처방약끊었더니\"…2명중1명\"부작용\"",
-  "\"생성형AI가추천한의약품먹었다가…부작용사례속출”",
-  "[AIMY뉴스]19일중국증시'APEC서마주한미중정상…AI반도체패권...",
-  "퍼플렉시티공동창립자\"앤트로픽IPO관심없다\"...진짜변수는AI데이...",
-  "리퀴드AI,의사결정모델'd1.2'출시…AA평가1위",
   "퍼플렉시티,AI에이전트16개가협업·상호검증하는기능출시",
   "갤럭시기본검색에'챗GPT'까지?삼성전자가영국규제에반발한이유",
   "젠슨황떠난오픈소스AI,누가잇나...퍼플렉시티\"모든모델공개\"선...",
@@ -6001,7 +5995,13 @@
   "한전,정보유출피해고객에최대1천만원보상보험제공",
   "돌아온젠슨황,직원들에샌드위치…\"두번째기회감사\"",
   "LS에코에너지,희토류양산초읽기…美中반도체갈등이수혜로",
-  "방미통위‘2025앱마켓실태조사’⋯개발자“수수료부담”,이용자..."
+  "방미통위‘2025앱마켓실태조사’⋯개발자“수수료부담”,이용자...",
+  "케이뱅크수수료수익70%가BC카드서…높아진대주주의존도",
+  "<속보>경기도첫돔구장후보지수원과광명확정…최종유치전본격화",
+  "현대건설,'2026오픈이노베이션데이'개최...스타트업협업성과공유",
+  "삼성,HBM값하락대비고심...'커스텀설계'로수익성방어키로",
+  "\"AI커닝,꼼짝마\"…빅테크는메타데이터,이통사는통신사실확인자료...",
+  "[이슈직썰]젠슨황복귀후에도승계구상없다…엔비디아'1인체제'..."
  ],
  "recent_sigs": [
   [
@@ -7187,9 +7187,13 @@
   [
    "2026-11-25T13:56:26.140362+09:00",
    "반도체 수혜로 양산 갈등이 초읽기 LS에코에너지 희토류"
+  ],
+  [
+   "2026-11-25T13:58:14.629255+09:00",
+   "빅테크는 이통사는 커닝 꼼짝 통신사실확인자료 메타데이터"
   ]
  ],
- "last_run": "2026-11-25T13:56:42.720033+09:00",
+ "last_run": "2026-11-25T13:58:35.341317+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
