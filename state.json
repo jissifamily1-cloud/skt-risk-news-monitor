@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261124_0003881233",
-  "https://www.ytn.co.kr/_ln/0104_202611242332143684",
-  "https://www.dongponews.net/news/articleView.html?idxno=61881",
-  "https://www.newspim.com/news/view/20261124001470",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68369",
   "https://biz.chosun.com/topics/law_firm/2026/11/25/HQZMAXF7FVBTJNL73HNHWRM224/",
   "https://daily.hankooki.com/news/articleView.html?idxno=1428886",
@@ -2999,13 +2995,13 @@
   "https://www.fnnews.com/news/202611260631005468",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508168",
   "http://www.nongaek.com/news/articleView.html?idxno=97607",
-  "https://www.g-enews.com/view.php?ud=2026112519272119250c8c1c064d_1"
+  "https://www.g-enews.com/view.php?ud=2026112519272119250c8c1c064d_1",
+  "https://www.nocutnews.co.kr/news/6612739",
+  "https://www.edaily.co.kr/News/Read?newsId=01482566645649656&mediaCodeNo=257",
+  "https://news.mtn.co.kr/article/2026112606370361719",
+  "https://biz.sbs.co.kr/article_hub/20000348938?division=NAVER"
  ],
  "seen_titles": [
-  "이름·이메일유출첫확인...EU집행위원회,해킹당한EU아카데미접...",
-  "딥시크급문장력뽐낸‘공짜AI’K-엑사원…잦은끊김은숙제",
-  "현대건설,스타트업14곳과혁신기술공유…오픈이노베이션데이개최",
-  "크래프톤,독자개발고효율거대언어모델'라온-1미니'정식출시",
   "\"서울이세계2위?\"샌프란시스코·런던다제쳤다…부산도26계단'껑충...",
   "[씨줄날줄]11일만에돌아온황제",
   "[천자칼럼]창업자의복귀",
@@ -6001,7 +5997,11 @@
   "[뉴욕증시]패닉매도진정속기술주소폭하락…엔비디아낙폭,9.1→...",
   "빅테크데이터센터투자부담커졌다…삼성전자·SK하이닉스도영향권",
   "[논객단상]\"개인정보가유출됐습니다...\"그래서?",
-  "젠슨황복귀에도아시아AI랠리‘가시밭길’…美규제강화·투자둔..."
+  "젠슨황복귀에도아시아AI랠리‘가시밭길’…美규제강화·투자둔...",
+  "'조희대탄핵'속도전에사법부첫회의…한은,오늘기준금리결정[오...",
+  "S&P,엔비디아신용등급하향검토…젠슨황·지배구조우려",
+  "다우,장중2%대급락딛고반등…나스닥0.62%↓[뉴욕마감]",
+  "\"수사받고있지않아\"…밴스,젠슨황사면론일축"
  ],
  "recent_sigs": [
   [
@@ -6227,9 +6227,13 @@
   [
    "2026-11-26T06:38:17.137116+09:00",
    "규제 가시밭길 랠리 아시아 강화 투자 복귀에도 젠슨"
+  ],
+  [
+   "2026-11-26T06:40:28.724586+09:00",
+   "밴스 수사 받고 사면론 젠슨황 있지 않아 일축"
   ]
  ],
- "last_run": "2026-11-26T06:38:35.440006+09:00",
+ "last_run": "2026-11-26T06:40:44.017315+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
