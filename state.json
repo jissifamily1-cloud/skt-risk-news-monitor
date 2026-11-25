@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/cc-newmedia/6365171",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=125554",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211957",
-  "https://www.cbci.co.kr/news/articleView.html?idxno=630450",
-  "https://www.dailian.co.kr/news/view/1719345/?sc=Naver",
-  "https://biz.heraldcorp.com/article/10948402",
   "https://www.nocutnews.co.kr/news/6612173",
   "https://www.sedaily.com/article/20118630",
   "http://www.the-biz.co.kr/news/articleView.html?idxno=732059",
@@ -2999,15 +2993,15 @@
   "https://www.gameple.co.kr/news/articleView.html?idxno=217070",
   "https://www.aitimes.com/news/articleView.html?idxno=217758",
   "https://www.sedaily.com/article/20119010",
-  "https://www.fnnews.com/news/202611251823598802"
+  "https://www.fnnews.com/news/202611251823598802",
+  "https://www.fnnews.com/news/202611251825413053",
+  "https://biz.chosun.com/it-science/ict/2026/11/25/BZAFMYKR3JFJFBRKXUHKUXYRBE/",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561631",
+  "https://www.fnnews.com/news/202611251824384069",
+  "https://www.fnnews.com/news/202611251824060700",
+  "https://www.seoul.co.kr/news/economy/securities/2026/11/25/20261125500322?wlog_tag3=naver"
  ],
  "seen_titles": [
-  "[오늘장탑픽]다시부는AI훈풍속광통신주도재조명될까?",
-  "코스피,美반도체주급락에4700선까지후퇴…매도사이드카발동[개장...",
-  "[국제]美정보당국심장부‘CIA·국가정보국’도뚫렸다…비기밀정보...",
-  "디지털자산사고책임강화…이용자자산보호장치확대",
-  "'젠슨황효과'증발에'깐부주'약세전환…두산12%급락[핫종목]",
-  "SKT,고객만족도해킹이전수준으로…통신3사중선두",
   "LG유플러스,보이스피싱의심통화가족에게실시간알린다",
   "LG유플러스,보이스피싱의심되면가족에문자…'가족보호알리미'출...",
   "KT·LG전자,5G보다업로드용량최대4.9배6G기술검증",
@@ -6001,7 +5995,13 @@
   "[11월25일]넷마블'솔:인챈트',신규클래스'랜서'·지역'헬론드'업...",
   "오픈AI\"범용AIGPT-6,전문모델없이단백질설계…실험서검증\"",
   "[만화경]‘고무도장이사회’의그늘",
-  "안랩‘상한가’…美CIA·국가정보국해킹에매수세"
+  "안랩‘상한가’…美CIA·국가정보국해킹에매수세",
+  "亞대표드론전시회'DSK'참가기업모집",
+  "엔비디아AI칩임대료최대35%하락…공급과잉우려고개",
+  "“‘중국스파이의혹’앨리스황,일본오사카에도회사설립”",
+  "'黃랠리'하루천하…코스피시총257조증발[코스피4700붕괴]",
+  "美정보당국\"앨리스황,中에정보넘겼다\"",
+  "‘일장황몽’코스피,관세까지덮치나"
  ],
  "recent_sigs": [
   [
@@ -7263,9 +7263,13 @@
   [
    "2026-11-25T18:26:16.409249+09:00",
    "고무도장 그늘 이사회"
+  ],
+  [
+   "2026-11-25T18:28:16.678173+09:00",
+   "관세까지 덮치나 일장황몽 코스피"
   ]
  ],
- "last_run": "2026-11-25T18:26:31.965706+09:00",
+ "last_run": "2026-11-25T18:28:38.221365+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
