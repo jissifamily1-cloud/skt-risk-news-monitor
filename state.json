@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://news.tvchosun.com/site/data/html_dir/2026/11/25/2026112590086.html",
-  "https://www.topstarnews.net/news/articleView.html?idxno=16285554",
-  "https://www.news1.kr/photos/8231370",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446393",
   "https://www.news1.kr/photos/8231368",
   "https://view.asiae.co.kr/article/2026112509280557399",
   "https://www.newspim.com/news/view/20261125000278",
@@ -2999,13 +2995,13 @@
   "http://www.metroseoul.co.kr/article/20261125500580",
   "https://www.mk.co.kr/article/12218470",
   "http://coinreaders.com/273309",
-  "https://www.ktv.go.kr/content/view?content_id=764582"
+  "https://www.ktv.go.kr/content/view?content_id=764582",
+  "http://www.breaknews.com/1253931",
+  "https://sports.donga.com/sports/article/all/20261125/135089545/1",
+  "https://www.mediawatch.kr/news/article.html?no=261881",
+  "https://www.news1.kr/finance/general-finance/6365988"
  ],
  "seen_titles": [
-  "[개장시황]코스피,4%대급락에5000선반납…매도사이드카발동",
-  "美반도체주투매…삼전닉스반등하루만에7%대급락[핫종목]",
-  "코스피3%대하락출발...하루만에'5천선'반납",
-  "미법원,화웨이'영업비밀탈취·은행사기'등유죄평결",
   "돌아온젠슨황\"후계자필요없다\"…기존경영체제고수",
   "코스피9000서4000대로…연일사이드카,무엇이증시를무너뜨렸나",
   "'젠슨황효과'하루만에증발",
@@ -6001,7 +5997,11 @@
   "KT·LG전자,6G무선통신기술검증…5G업로드용량대비4.9배↑",
   "[단독]박현주,코스피무너진날“10조증안펀드,100조로키우자”제...",
   "엔비디아(NVDA),S&P500상승분3분의1책임...이번반등믿을수있나...",
-  "앱마켓거래10조원돌파···개발자68%\"수수료부담\""
+  "앱마켓거래10조원돌파···개발자68%\"수수료부담\"",
+  "대전한민시장서김장김치400포기나눔'취약계층에전달'",
+  "[한국스포츠레저·스포츠동아공동기획]2라운드도중쓰러진핵심자원...",
+  "美AI기술주급락에삼성전자·SK하이닉스10%대급락…코스피6%넘게...",
+  "6년째10.7조'증안펀드'규모늘리나…산은,금융권추가출자타진"
  ],
  "recent_sigs": [
   [
@@ -7199,9 +7199,13 @@
   [
    "2026-11-25T17:44:15.313979+09:00",
    "믿을 상승분 반등 책임 있나 3분의 NVDA"
+  ],
+  [
+   "2026-11-25T17:46:15.812313+09:00",
+   "출자 타진 늘리나 산은 6년째 금융권 7조 추가 증안펀드 규모"
   ]
  ],
- "last_run": "2026-11-25T17:44:35.221485+09:00",
+ "last_run": "2026-11-25T17:46:36.851084+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
