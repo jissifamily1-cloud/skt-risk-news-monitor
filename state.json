@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1719549/?sc=Naver",
-  "http://news.lghellovision.net/news/articleView.html?idxno=563682",
-  "https://www.cstimes.com/news/articleView.html?idxno=729392",
-  "http://www.seouleconews.com/news/articleView.html?idxno=95198",
-  "https://www.ajunews.com/view/20261125143919570",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722209",
   "https://www.segye.com/newsView/20261125510935?OutUrl=naver",
   "https://www.ytn.co.kr/_ln/0103_202611251513057071",
   "http://www.newsdream.kr/news/articleView.html?idxno=123016",
@@ -2999,15 +2993,15 @@
   "https://www.dt.co.kr/article/12097318",
   "https://www.edaily.co.kr/News/Read?newsId=01708886645649656&mediaCodeNo=257",
   "https://kjmbc.co.kr/NewsArticle/1547455",
-  "https://kidd.co.kr/news/248275"
+  "https://kidd.co.kr/news/248275",
+  "https://slownews.kr/170219",
+  "https://www.bigtanews.co.kr/article/view/big202611260001",
+  "https://www.edaily.co.kr/News/Read?newsId=01722006645649656&mediaCodeNo=257",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=630828",
+  "https://www.edaily.co.kr/News/Read?newsId=01718726645649656&mediaCodeNo=257",
+  "https://biz.sbs.co.kr/article_hub/20000348944?division=NAVER"
  ],
  "seen_titles": [
-  "KT,개보위과징금불복소송확정…법률대리인태평양선임",
-  "KT,금융감독원과AI금융사기예방체험관운영",
-  "KT,금감원과AI금융사기예방체험관운영",
-  "\"가족목소리도가짜일수있다\"...KT·금감원,AI금융사기예방나서",
-  "국민의힘\"이태현KBS사장후보자진사퇴해야\"",
-  "KT스카이라이프-HCN합병에…노조\"회사의일방적결정\"",
   "해킹공포에보험찾는기업들…日사이버보험시장급성장",
   "\"꽁꽁숨어라,구독해지버튼보일라\"...앱마켓다크패턴규제추진",
   "구글·애플'인앱결제꼼수'제동…방미통위,시정조치카운트다운돌입",
@@ -6001,7 +5995,13 @@
   "젠슨황복귀놓고트럼프행정부분열…밴스·러트닉과루비오·베선트...",
   "홍콩도사이버보안'비상'…정부티켓예매시스템해킹",
   "한전,정보유출2차피해방지‥최대1천만원보상보험제공",
-  "[구리가격]미국신규관세·엔비디아급락에11개월만의최저…11월..."
+  "[구리가격]미국신규관세·엔비디아급락에11개월만의최저…11월...",
+  "만점자급증,의사냥이-간호냥이도있었나:슬로우레터11월26일.",
+  "[데일리머니마켓]뉴욕증시혼조…나스닥0.61%하락",
+  "\"오늘자본시장개혁TF서증안펀드확대방안나올지주목\"",
+  "[속보]엔비디아150달러붕괴…마이크론4.53%하락,앤트로픽은반등",
+  "트럼프,올해엔비디아주식44번사고팔았다",
+  "[부자들의투자노트]\"AI비중줄이되,하이퍼스케일러투자해야\""
  ],
  "recent_sigs": [
   [
@@ -6455,9 +6455,17 @@
   [
    "2026-11-26T07:48:15.026907+09:00",
    "11월 만의 신규 11개월 급락에 관세 최저 미국"
+  ],
+  [
+   "2026-11-26T07:50:30.792450+09:00",
+   "줄이되 하이퍼스케일러 비중 투자해야"
+  ],
+  [
+   "2026-11-26T07:50:30.792450+09:00",
+   "올해 트럼프 주식 사고팔았다 44번"
   ]
  ],
- "last_run": "2026-11-26T07:48:34.418192+09:00",
+ "last_run": "2026-11-26T07:50:49.742764+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
