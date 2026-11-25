@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/world/usa-canada/6365645",
-  "https://www.tjb.co.kr/news05/bodo/view/id/106502",
-  "https://www.newscj.com/news/articleView.html?idxno=3451978",
-  "https://nownews.seoul.co.kr/news/newsView.php?id=20261125601005&wlog_tag3=naver",
   "https://www.vegannews.co.kr/news/article.html?no=410999",
   "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591046173315",
   "https://www.medigatenews.com/news/3110583809",
@@ -2999,13 +2995,13 @@
   "https://imnews.imbc.com/news/2026/world/article/6868637_36925.html",
   "https://imnews.imbc.com/news/2026/world/article/6868636_36925.html",
   "https://www.news2day.co.kr/article/20261125500060",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446573"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446573",
+  "https://www.fnnews.com/news/202611260609274451",
+  "https://biz.heraldcorp.com/article/10949550",
+  "https://www.hankyung.com/article/2026112608137",
+  "https://www.munhwa.com/article/11634171"
  ],
  "seen_titles": [
-  "대구도시개발공사,대한민국주거복지실천대상우수상수상",
-  "김제시,2027년본예산안1조2407억원편성…전년보다951억원증가",
-  "NH아문디운용,'하나로미국에이전틱AITOP2+'ETF에앤트로픽편입",
-  "‘기술자립’中화웨이독자OS탑재기기1억대돌파",
   "\"AI부정행위,교사감독만으론한계…기술·시스템으로대응해야\"",
   "美USTR,한국등16개주요교역국'과잉산업생산'조사결과발표임...",
   "트럼프“김정은과러브레터다시쓸수있다…어쨌든그와잘지내”",
@@ -6001,7 +5997,11 @@
   "S&P,엔비디아신용등급강등검토‥\"경영·지배구조평가악화\"",
   "뉴욕증시,AI투자불안에연일롤러코스터‥나스닥0.6%↓",
   "[N2모닝경제브리핑-11월26일]美증시,물가충격에반도체주또‘...",
-  "[뉴욕증시]AI불안에또출렁…저가매수속보합권혼조마감"
+  "[뉴욕증시]AI불안에또출렁…저가매수속보합권혼조마감",
+  "밴스부통령\"젠슨황범죄증거없어…사면도필요없다\"",
+  "엔비디아3.9%↓·나스닥0.6%↓…AI투자불안에식어가는‘젠슨황랠...",
+  "진짜로中기관에정보넘긴젠슨황내연녀…美정보당국확인",
+  "[속보]뉴욕증시급락딛고낙폭만회,다우는0.3%반등마감"
  ],
  "recent_sigs": [
   [
@@ -6191,9 +6191,17 @@
   [
    "2026-11-26T06:24:17.044116+09:00",
    "출렁 저가 불안에 보합권 마감 혼조 매수"
+  ],
+  [
+   "2026-11-26T06:26:23.195983+09:00",
+   "급락 딛고 다우는 뉴욕증시 반등 낙폭 만회 마감"
+  ],
+  [
+   "2026-11-26T06:26:23.195983+09:00",
+   "진짜로 확인 기관에 정보당국 내연녀 정보 넘긴 젠슨황"
   ]
  ],
- "last_run": "2026-11-26T06:24:32.668070+09:00",
+ "last_run": "2026-11-26T06:26:42.324629+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
