@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000347781?division=NAVER",
-  "https://www.newspim.com/news/view/20261120000075",
-  "https://www.chosun.com/economy/economy_general/2026/11/20/4Q5AZUYG6JFLPBJSLGRGQXPNHY/",
-  "https://www.nongmin.com/article/20261119500287",
-  "http://www.jeollailbo.com/news/articleView.html?idxno=817303",
-  "https://www.kmib.co.kr/article/20261119501754",
   "https://idsn.co.kr/news/view/1065598003448909",
   "https://www.ktv.go.kr/content/view?content_id=764262",
   "https://byline.network/?p=9004111222628454",
@@ -2999,15 +2993,15 @@
   "https://biz.sbs.co.kr/article_hub/20000348797?division=NAVER",
   "https://biz.sbs.co.kr/article_hub/20000348800?division=NAVER",
   "https://www.kyeonggi.com/article/20261125580183",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250054&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250054&t=NN",
+  "https://www.fnnews.com/news/202611251325049327",
+  "https://www.widedaily.com/news/articleView.html?idxno=304745",
+  "http://www.inews24.com/view/2030228",
+  "http://www.yonhapnewstv.co.kr/news/MYH202611251348004Wf",
+  "http://www.econonews.co.kr/news/articleView.html?idxno=447710",
+  "https://biz.chosun.com/international/international_economy/2026/11/25/X6UCCJZFE5EEPMRQRFS4LYRY5U/"
  ],
  "seen_titles": [
-  "엔비디아'시즌2'개막…\"젠슨황없어도돼.돈줄도여기까지\"",
-  "[AIMY뉴스]20일중국증시'美AI주급락에中기술주도긴장…반도체...",
-  "“AI가먹지말래서피부과약끊었더니악화”복용약중단·변경소비...",
-  "“AI믿고처방약끊었다가”…2명중1명부작용겪었다",
-  "AI믿고약먹고끊었다가치료차질···처방약바꾼소비자2명중1...",
-  "“AI가약만먹으면된다고했는데요?”…AI권고로복약선택환자2명...",
   "AI의료정보의존확산...처방약임의변경소비자50.9%부작용",
   "AI말듣고약먹었다가···이중절반은'부작용'",
   "“AI와함께혼자서도창업한다”…카이스트오버엣지,최종창업가25인...",
@@ -6001,13 +5995,15 @@
   "돌아온황제,식어버린시장…젠슨황의귀환이남긴씁쓸한반전",
   "젠슨황의고백\"매일90분심리치료받고있다\"",
   "中군수공장마을서자란소녀,어떻게‘젠슨황’곁으로갔을까",
-  "\"성과급수억씩줘도불안한데\"…한국까지찾아온마이크론"
+  "\"성과급수억씩줘도불안한데\"…한국까지찾아온마이크론",
+  "크래프톤,자체LLM'라온-1미니'정식공개…해외동급모델앞섰다",
+  "[특징주]엑스게이트,네트워크보안·관제사업부각·보안주훈풍에...",
+  "국내앱마켓거래액첫10조원돌파⋯1년새9103억늘었다",
+  "[이시각헤드라인]11월25일뉴스현장",
+  "블랜치미국법무장관\"젠슨황범죄증거못찾아\"…메가스피드수사...",
+  "[Why]중간선거참패에도새‘트럼프관세’강행…통상유산수호승..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-25T07:50:27.521885+09:00",
-   "직원 복귀하자 사표 젠슨황 퇴진에 어쩌나 던진 너무"
-  ],
   [
    "2026-11-25T07:52:15.348640+09:00",
    "반신반의 월가도 일장춘몽"
@@ -7175,9 +7171,17 @@
   [
    "2026-11-25T13:48:16.012261+09:00",
    "마이크론 찾아온 성과급 줘도 한국까지 수억씩 불안한데"
+  ],
+  [
+   "2026-11-25T13:50:33.086384+09:00",
+   "뉴스현장 25일 11월"
+  ],
+  [
+   "2026-11-25T13:50:33.086384+09:00",
+   "강행 중간선거 수호 유산 관세 트럼프 참패에도 통상"
   ]
  ],
- "last_run": "2026-11-25T13:48:43.003720+09:00",
+ "last_run": "2026-11-25T13:50:51.956173+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
