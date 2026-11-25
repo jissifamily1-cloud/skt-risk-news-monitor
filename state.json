@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/society/court-prosecution/6365804",
-  "http://www.sisunnews.co.kr/news/articleView.html?idxno=250458",
-  "https://www.newsis.com/view/NISX20261125_0003883012",
-  "https://www.m-i.kr/news/articleView.html?idxno=2023345",
-  "https://www.m-i.kr/news/articleView.html?idxno=2023349",
-  "https://www.jejusori.net/news/articleView.html?idxno=508664",
   "https://byline.network/?p=9004111222629112",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250131&t=NN",
   "https://www.khan.co.kr/article/202611251527001",
@@ -2999,15 +2993,15 @@
   "https://www.newspim.com/news/view/20261126000054",
   "https://www.mediapen.com/news/view/1140108",
   "http://www.issuenbiz.com/news/articleView.html?idxno=82030",
-  "https://www.etoday.co.kr/news/view/2653081"
+  "https://www.etoday.co.kr/news/view/2653081",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6868682_37012.html",
+  "https://www.yna.co.kr/view/AKR20261126007151072?input=1195m",
+  "https://news.jtbc.co.kr/article/NB12329865?influxDiv=NAVER",
+  "https://www.donga.com/news/Inter/article/all/20261126/135093096/1",
+  "http://www.kjdaily.com/article.php?aid=1795647790693606276",
+  "https://www.edaily.co.kr/News/Read?newsId=01754806645649656&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "\"자체LLM상용화기업투자\"미래에셋'TIGER글로벌LLM액티브ETF'상장",
-  "\"주식시장은경제가아니다\"…AI투자붐의고용·분배효과에경고",
-  "앤트로픽IPO성공에도채권은정크본드등급예상",
-  "“AI말믿고처방약끊었다가”…2명중1명부작용겪었다",
-  "더존비즈온,‘사이버보안·정보보호특별자문위원회’출범",
-  "FBI이어CIA등미정보기관3곳사이버침해",
   "빗썸,모회사지분73.56%중절반넘게의결권잃는다…합산기준확정",
   "[속보]최태원측,노소영화해권고거부에“진정성폄훼유감”",
   "[속보]최태원측,노소영화해권고요청거부에\"진정성의심유감\"",
@@ -6001,7 +5995,13 @@
   "[일본특징주]소프트뱅크,시총35조엔증발...AI투자역풍에'삼중고...",
   "[美증시특징주]양자컴퓨팅주투심회복에급등…아이온큐주도",
   "뉴욕증시,기술주약세에혼조…나스닥0.62%하락",
-  "[오늘의투자전략]\"코스피반등시도예상…증안펀드증액·공매도금..."
+  "[오늘의투자전략]\"코스피반등시도예상…증안펀드증액·공매도금...",
+  "뉴욕증시,AI투자불안에혼조마감",
+  "S&P\"엔비디아등급강등검토\"…무디스\"안정적전망유지\"(종합)",
+  "중국에정보넘긴앨리스황…젠슨황은수사없이'혐의없음'",
+  "트럼프“증시급락,중간선거탓…이겼으면호황누렸을것”",
+  "[증시전망]美반도체·AI신용위험변수",
+  "“엑셀·이미지편집기대신내앱만든다”…앤스로픽,AI로PC앱제작..."
  ],
  "recent_sigs": [
   [
@@ -6535,9 +6535,17 @@
   [
    "2026-11-26T08:04:15.820694+09:00",
    "시밀러웹 데이터 시대 흑자 달성으로 파는 석유 수혜주"
+  ],
+  [
+   "2026-11-26T08:08:18.152614+09:00",
+   "변수 반도체 신용위험"
+  ],
+  [
+   "2026-11-26T08:08:18.152614+09:00",
+   "제작 만든다 PC 엑셀 대신 AI로 편집기 이미지"
   ]
  ],
- "last_run": "2026-11-26T08:06:29.704741+09:00",
+ "last_run": "2026-11-26T08:08:36.457106+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
