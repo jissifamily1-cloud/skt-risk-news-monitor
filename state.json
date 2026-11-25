@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.insight.co.kr/news/583461",
-  "http://www.hellodd.com/news/articleView.html?idxno=113996",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247880",
   "http://www.hansbiz.co.kr/news/articleView.html?idxno=886747",
   "https://www.kukinews.com/article/view/kuk202611240235",
   "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240133&t=NNv",
@@ -2999,12 +2996,12 @@
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=195195",
   "https://news.jtbc.co.kr/article/NB12329784?influxDiv=NAVER",
   "https://www.news1.kr/finance/general-finance/6366197",
-  "https://www.vegannews.co.kr/news/article.html?no=411128"
+  "https://www.vegannews.co.kr/news/article.html?no=411128",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435957",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446538",
+  "https://www.joongboo.com/news/articleView.html?idxno=363743633"
  ],
  "seen_titles": [
-  "코스피,4%대급락하며4,700선후퇴…개장8분만에'매도사이드카'",
-  "[특징주]AI투자우려재부각...반도체소부장株줄줄이급락",
-  "[신윤우의외환분석]반도체롤러코스터와숨고를이유들",
   "코스피,4760선급락…美AI주불안여파",
   "[특징주]美정보기관잇단해킹에보안주강세…안랩·이글루11%↑",
   "FBI이어CIA·ODNI도뚫렸다...美정보기관연쇄해킹비상",
@@ -6001,7 +5998,10 @@
   "[운용NOW]삼성자산운용·미래에셋운용·한화자산운용",
   "'국가안보'걸리자공화당도작심…트럼프대위기",
   "한국투자저축은행도뚫렸다…8.6만명정보유출'저축은행최대'",
-  "노소영측,최태원화해권고반대…상고취하요구"
+  "노소영측,최태원화해권고반대…상고취하요구",
+  "'이없으면잇몸으로'한국남자농구,주축7명이탈악재딛고월드컵...",
+  "[채권-마감]금통위대기속코스피급락·外人매수…국고3년3.5%대진...",
+  "[경고등켜진개인정보下]털린정보는소비자몫?…기업책임강화목..."
  ],
  "recent_sigs": [
   [
@@ -7267,9 +7267,13 @@
   [
    "2026-11-25T18:52:22.718428+09:00",
    "모바일웹 8만6천여 한국투자저축은행 고객정보 유출"
+  ],
+  [
+   "2026-11-25T18:58:17.824709+09:00",
+   "기업 강화 책임 소비자 털린 정보는"
   ]
  ],
- "last_run": "2026-11-25T18:56:30.210382+09:00",
+ "last_run": "2026-11-25T18:58:33.877115+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
