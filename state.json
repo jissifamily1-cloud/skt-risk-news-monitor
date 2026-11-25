@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.aitimes.com/news/articleView.html?idxno=216623",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=709759",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=900605",
-  "https://www.g-enews.com/view.php?ud=202611242211132330c8c1c064d_1",
-  "https://www.yna.co.kr/view/AKR20261125007300071?input=1195m",
   "https://www.mediapen.com/news/view/1139810",
   "https://www.newspim.com/news/view/20261125000038",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507713",
@@ -2999,14 +2994,14 @@
   "https://imnews.imbc.com/replay/2026/nw1200/article/6868419_36967.html",
   "https://www.newspim.com/news/view/20261125000642",
   "https://www.ytn.co.kr/_ln/0104_202611251220492330",
-  "https://www.chiefexe.com/news/ArticleView.asp"
+  "https://www.chiefexe.com/news/ArticleView.asp",
+  "https://www.newscj.com/news/articleView.html?idxno=3451960",
+  "https://www.yna.co.kr/view/AKR20261125094900004?input=1195m",
+  "https://imnews.imbc.com/replay/2026/nw1200/article/6868418_36967.html",
+  "https://www.nextdaily.co.kr/news/articleView.html?idxno=255311",
+  "https://www.newspim.com/news/view/20261125000643"
  ],
  "seen_titles": [
-  "선거후보선택강요하자...그록은공화당,오픈AI모델은민주당선택",
-  "공격자동화·대용량데이터분석까지...'해커AX'도급물살",
-  "[전창배의AI세상]은행해킹은시작…'AI통제'마지막골든타임",
-  "글로벌출하량97%장악한中휴머노이드굴기…애지봇등‘6대천왕’...",
-  "트럼프'젠슨황비호'논란확산에…슬그머니발빼는참모들",
   "[美증시특징주]HPE어닝서프에도17%폭락'쇼크'…델등서버주동반...",
   "[금/유가]호르무즈선박피격에유가2%상승…매파연준우려에금값...",
   "AMD까지무너졌다…미국반도체주급락에삼성전자·SK하이닉스'초긴장...",
@@ -6001,7 +5996,12 @@
   "한전,정보유출고객에보안서비스무상제공",
   "류현진감독vs이정후감독'제너레이션매치'출전선수34명공개",
   "\"사랑이죄는아니잖아!\"...이번엔'래퍼젠슨황'[나우쇼츠]",
-  "[디지털인사이트]AI를SI로바꾸면위험도사라질까"
+  "[디지털인사이트]AI를SI로바꾸면위험도사라질까",
+  "SKT,해킹충격딛고만족도·신뢰회복'1위'…쿠팡은'최하위'",
+  "공소청,'노태우비자금의혹'노재헌주중대사소환통보",
+  "노소영,최태원9,440억원거절‥\"상고취하해야\"",
+  "LG유플러스AI통화앱'익시오',보이스피싱의심시가족에문자알림...",
+  "미·중AI빅테크들의글로벌자금쟁탈전본격화하나"
  ],
  "recent_sigs": [
   [
@@ -7259,9 +7259,21 @@
   [
    "2026-11-25T12:28:22.747439+09:00",
    "래퍼 죄는 젠슨 이번엔 아니잖아 사랑이"
+  ],
+  [
+   "2026-11-25T12:30:33.161228+09:00",
+   "노재헌 노태우 의혹 주중대사 공소청 소환통보 비자금"
+  ],
+  [
+   "2026-11-25T12:30:33.161228+09:00",
+   "상고 취하해야 440억 거절"
+  ],
+  [
+   "2026-11-25T12:30:33.161228+09:00",
+   "자금 글로벌 본격화하나 쟁탈전 빅테크들의"
   ]
  ],
- "last_run": "2026-11-25T12:28:45.846782+09:00",
+ "last_run": "2026-11-25T12:30:57.025579+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
