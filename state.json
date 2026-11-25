@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "http://www.queen.co.kr/news/articleView.html?idxno=466687",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=408846",
-  "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921941",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3758057",
-  "https://www.pressman.kr/news/articleView.html?idxno=104577",
-  "https://www.ggilbo.com/news/articleView.html?idxno=1194392",
-  "https://www.bloter.net/news/articleView.html?idxno=679127",
-  "https://www.insight.co.kr/news/582793",
-  "https://www.geconomy.co.kr/news/article.html?no=325870",
   "https://www.pointdaily.co.kr/news/articleView.html?idxno=326744",
   "https://www.sentv.co.kr/article/view/sentv202611190127",
   "http://www.finomy.com/news/articleView.html?idxno=267282",
@@ -2999,18 +2990,18 @@
   "https://www.newscj.com/news/articleView.html?idxno=3451924",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722024",
   "https://www.ytn.co.kr/_ln/0134_202611251101322758",
-  "https://www.smartbizn.com/news/articleView.html?idxno=160505"
+  "https://www.smartbizn.com/news/articleView.html?idxno=160505",
+  "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435930",
+  "https://www.ziksir.com/news/articleView.html?idxno=154608",
+  "https://www.sidae.com/article/2026112511062475678",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3762520",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=732063",
+  "https://www.kyosu.net/news/articleView.html?idxno=212887",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862356&plink=ORI&cooper=NAVER",
+  "https://www.etnews.com/20261125000227",
+  "https://www.econovill.com/news/articleView.html?idxno=758458"
  ],
  "seen_titles": [
-  "SKB,韓-싱가포르해저케이블양자보안시험망설치나서",
-  "보령시,'함박민화전람회:민화로행복을함박드림展'개최",
-  "보령시,23일부터'함박민화전람회'개최",
-  "이미지도양자로전송…국내기업들차세대통신기술검증",
-  "[특징주]SK텔레콤주가,9%대↓...4거래일연속하락세",
-  "[한국의CISO-권력지도]'기술산하'꼬리표뗀SKT보안…이종현이바꾼...",
-  "\"해킹위협막는다\"...SK브로드밴드,한국·싱가포르해저케이블에양자...",
-  "양자컴퓨터해킹위협막는다…SKB,한-싱가포르해저케이블에‘양자...",
-  "SKB,부산~싱가포르해저케이블에양자보안시험망구축",
   "SKT,AIDC사업분할에…SKB노조“매각대금재투자해야”",
   "SK브로드밴드,부산-싱가포르해저케이블에양자보안기술적용",
   "한~싱가포르해저케이블보안강화",
@@ -6001,7 +5992,16 @@
   "하루만에끝난'젠슨황효과'…코스피,급락에매도사이드카발동",
   "트럼프“젠슨황사실대로말할것…필요없지만사면도선택지”",
   "무리수?승부수?...트럼프과감한베팅에'부글부글'[자막뉴스]",
-  "삼성증권,2.2조불법운용에검사방해·해킹까지···무너진내부통제"
+  "삼성증권,2.2조불법운용에검사방해·해킹까지···무너진내부통제",
+  "최현욱·정채연,1997년레트로로맨스'그린라이트'호흡",
+  "JW중외제약,'STAT6표적호산구성식도염치료제'국가신약개발사업선...",
+  "한전,개인정보유출2차피해막는다…금융사기최대1000만원보상",
+  "권오상서구청장,전통맛집10곳'전통名家'지정...현판·홍보지원",
+  "수자원공사,수도시설보안부터AI까지…중기상생협력확대",
+  "개인정보보호,법무팀아닌CEO의일",
+  "[자막뉴스]\"젠슨황,당신은대체…\"알려진것말고도불륜또있었다...",
+  "오픈AI·앤트로픽,인간통제벗어난초강력AI미공개의혹",
+  "가상자산해킹무과실배상·매출10%과징금\"ICO9년만에허용\""
  ],
  "recent_sigs": [
   [
@@ -7295,9 +7295,13 @@
   [
    "2026-11-25T11:08:15.099388+09:00",
    "삼성증권 해킹까지 2조 검사방해 내부통제 무너진 운용에 불법"
+  ],
+  [
+   "2026-11-25T11:10:28.397185+09:00",
+   "의혹 통제 앤트로픽 초강력 인간 미공개 벗어난"
   ]
  ],
- "last_run": "2026-11-25T11:08:39.411613+09:00",
+ "last_run": "2026-11-25T11:10:44.419655+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
