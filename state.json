@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "http://www.journalist.or.kr/news/article.html?no=62154",
-  "https://www.g-enews.com/view.php?ud=2026112509234367653d7a510102_1",
-  "http://www.incheonnews.com/news/articleView.html?idxno=443591",
-  "http://www.ccnnews.co.kr/news/articleView.html?idxno=418380",
-  "https://www.irobotnews.com/news/articleView.html?idxno=49769",
-  "http://www.beyondpost.co.kr/view.php?ud=202611241337184199be44c0aacd_30",
   "https://www.koreajoongangdaily.com/business/i-made-the-deal-trump-says-he-pushed-nvidia-to-bring-jensen-huang-back-as-ceo-after-meeting-with-xi-jinping/12987125",
   "https://www.mstoday.co.kr/news/articleView.html?idxno=200580",
   "https://www.aitimes.com/news/articleView.html?idxno=217725",
@@ -2999,15 +2993,15 @@
   "https://economist.co.kr/article/view/ecn202611180029",
   "https://www.etoday.co.kr/news/view/2653051",
   "http://www.bizwnews.com/news/articleView.html?idxno=153098",
-  "https://www.financialpost.co.kr/news/articleView.html?idxno=303241"
+  "https://www.financialpost.co.kr/news/articleView.html?idxno=303241",
+  "https://www.datanet.co.kr/news/articleView.html?idxno=300407",
+  "http://www.metroseoul.co.kr/article/20261125500372",
+  "https://www.the-today.com/news/articleView.html?idxno=94115",
+  "https://www.greened.kr/news/articleView.html?idxno=355596",
+  "https://www.fnnews.com/news/202611260717142693",
+  "https://www.ytn.co.kr/_ln/0104_202611260724172976"
  ],
  "seen_titles": [
-  "해외선AI결제경쟁본격화...국내는상용화'걸음마'",
-  "\"사람속이는데성공할수도\"…차세대AI출시반대한연구원들",
-  "노소영,최태원'9440억원화해권고'요청에반대…재상고취하촉구",
-  "KT,행정업무에AI에이전트적용…정부혁신박람회서공공AX기술공개",
-  "KT,금감원과AI금융사기예방체험관운영…딥보이스탐지기술공개",
-  "AI해킹이뱅크런될수도…5대은행,위기대응훈련",
   "해킹에디지털뱅크런까지…금융당국,5대은행과첫합동위기훈련",
   "KT-금감원,AI금융사기예방체험관운영",
   "금융당국,AI해킹·디지털뱅크런가정한대형은행위기훈련실시",
@@ -6001,7 +5995,13 @@
   "“공짜폰에현금까지?”…6개월요금따져보니[정길준의위클리성지]",
   "뉴욕증시,AI불안·관세우려속혼조마감⋯나스닥0.6%↓[종합]",
   "LG유플러스,블랙프라이데이'유독'유튜브구독료50%할인…\"생활혜택...",
-  "[밤사이세계는]요미우리\"젠슨황CEO복귀과정,백악관개입정면비..."
+  "[밤사이세계는]요미우리\"젠슨황CEO복귀과정,백악관개입정면비...",
+  "KISA·방미통위\"공공·민간협력해불법스팸대응\"",
+  "NH-Amundi운용AIETF,상장직후앤트로픽편입…비중23.74%",
+  "[투데이온]SK하이닉스,12월4일키옥시아의결권확보…9년전'방어투...",
+  "[종합분석]노소영\"진정성있다면상고취하해야\"...최태원\"화해요청...",
+  "그리어USTR대표...트럼프,경제·안보균형택해젠슨황복귀",
+  "뉴욕증시,AI투자불안에혼조...연일롤러코스터"
  ],
  "recent_sigs": [
   [
@@ -6395,9 +6395,13 @@
   [
    "2026-11-26T07:26:16.010976+09:00",
    "유튜브 할인 블랙프라이데이 혜택 유독 ~LGU LG유플러스 구독료 생활"
+  ],
+  [
+   "2026-11-26T07:28:17.417535+09:00",
+   "9년 SK하이닉스 확보 키옥시아 의결권 방어 4일 12월"
   ]
  ],
- "last_run": "2026-11-26T07:26:31.642238+09:00",
+ "last_run": "2026-11-26T07:28:33.803308+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
