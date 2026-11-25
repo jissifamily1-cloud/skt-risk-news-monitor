@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.sbs.co.kr/article_hub/20000348637?division=NAVER",
-  "http://www.00news.co.kr/news/articleView.html?idxno=108334",
-  "https://www.kmib.co.kr/article/20261124502269",
-  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338625",
-  "http://www.inews24.com/view/2028872",
-  "https://www.greened.kr/news/articleView.html?idxno=355235",
-  "https://www.news1.kr/society/incident-accident/6361415",
   "https://www.m-i.kr/news/articleView.html?idxno=2021597",
   "https://www.dailian.co.kr/news/view/1717949/?sc=Naver",
   "https://zdnet.co.kr/view/?no=20261120194250",
@@ -2999,16 +2992,16 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862590&plink=ORI&cooper=NAVER",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1732966",
   "https://www.ajunews.com/view/20261125135639369",
-  "https://www.koit.co.kr/news/articleView.html?idxno=210086"
+  "https://www.koit.co.kr/news/articleView.html?idxno=210086",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3762340",
+  "https://www.ccdn.co.kr/news/articleView.html?idxno=1113399",
+  "https://www.viva100.com/article/20261125500849",
+  "https://www.newsis.com/view/NISX20261125_0003882788",
+  "https://theviewers.co.kr/View.aspx?No=4328950",
+  "https://www.m-i.kr/news/articleView.html?idxno=2023286",
+  "https://www.joongdo.co.kr/web/view.php?key=20261125010008709"
  ],
  "seen_titles": [
-  "저축은행또털렸다…하나저축은행552명개인정보유출",
-  "규제빗장풀고지배구조손본다…코인시장재편본격화",
-  "금융위등31개기관2031년까지세종행확정",
-  "TV조선사건공소청항소에방미통위원장\"냉혹한결정\"",
-  "CJENM,LG헬로비전채널송출중단가처분신청⋯양측갈등격화",
-  "1540억세금소송이긴구글,이번엔'14조매출'과세논란…경실련\"싱...",
-  "\"AI가초점조절\"커닝사태에뜬AI안경…허위광고도기승",
   "CJENM,송출중단금지가처분…LG헬로비전\"종료방침유지\"",
   "CJENM,LG헬로비전송출중단금지가처분…LG헬로\"CJ가갈등키워\"",
   "LG헬로비전\"CJENM채널송출종료입장변화없다\"",
@@ -6001,7 +5994,14 @@
   "[자막뉴스]젠슨황복귀밀어붙인트럼프…'불똥'튈라?'호위무사'마저...",
   "[영상]엔비디아부터테슬라까지…CEO한사람에흔들리는주가",
   "[특징주]CIA해킹피해소식에보안주급등…안랩·파수AI'上'기록",
-  "미디어경계허물어졌다…통합미디어법제개편목소리확산"
+  "미디어경계허물어졌다…통합미디어법제개편목소리확산",
+  "124억늘고준공2년늦어진'구대전공회당'…허태정\"속도보다원형보...",
+  "충남아산,홈페이지인공지능(AI)검색서비스12월1일정식오픈",
+  "한전,정보유출고객에신용조회차단·피해보상이용권제공",
+  "공소청,'노태우비자금'의혹노재헌주중대사에소환통보",
+  "KT·LG전자,6G서데이터동시송수신검증…업로드용량4.9배",
+  "KT,LG전자와맞손…6G핵심기술검증",
+  "시아첫양자산업전시회'2026IQTKOREA'인천송도서개막"
  ],
  "recent_sigs": [
   [
@@ -7187,9 +7187,13 @@
   [
    "2026-11-25T14:04:17.060504+09:00",
    "확산 개편 통합미디어법제 허물어졌다 경계 목소리 미디어"
+  ],
+  [
+   "2026-11-25T14:06:15.673627+09:00",
+   "IQT 개막 KOREA 송도서 시아 양자산업전시회 인천"
   ]
  ],
- "last_run": "2026-11-25T14:04:36.132707+09:00",
+ "last_run": "2026-11-25T14:06:37.476974+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
