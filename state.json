@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ziksir.com/news/articleView.html?idxno=154652",
-  "https://www.newsis.com/view/NISX20261125_0003882880",
-  "https://www.ikbc.co.kr/article/view/kbc202611250039",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=8836",
   "http://www.wsobi.com/news/articleView.html?idxno=322552",
   "https://www.newspim.com/news/view/20261125000627",
   "https://monthly.chosun.com/news/articleView.html?idxno=72152",
@@ -2999,13 +2995,13 @@
   "https://www.gametoc.co.kr/news/articleView.html?idxno=113405",
   "https://www.newsian.co.kr/news/articleView.html?idxno=102038",
   "https://www.edaily.co.kr/News/Read?newsId=01538326645649656&mediaCodeNo=257",
-  "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650013.html"
+  "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650013.html",
+  "https://view.asiae.co.kr/article/2026112606554024692",
+  "https://www.yna.co.kr/view/AKR20261126010700091?input=1195m",
+  "https://www.ytn.co.kr/_ln/0103_202611260652545711",
+  "http://coinreaders.com/273470"
  ],
  "seen_titles": [
-  "최태원화해권고요청에노소영거부…법원판결요구",
-  "'추가불륜'고백한젠슨황...'황제경영'고수하나[뉴스퀘어2PM]",
-  "KT·LG전자,6G핵심기술검증…업로드용량5G의최대4.9배",
-  "올해사이드카'102회'신기록…'롤러코스피'증시4700선도'붕괴'",
   "'해킹피해'전북교육청,보안강화에26억원투입",
   "크래프톤,자체개발300억파라미터AI모델'라온-1미니'정식공개",
   "크래프톤,독자개발LLM'라온-1미니'정식공개…추론·에이전트성능...",
@@ -6001,7 +5997,11 @@
   "크래프톤,'라온-1미니'정식공개\"동급MoE모델성능앞섰다\"",
   "**[월드프리즘]머스크'우주데이터센터'현실로…상용화까지3대과제",
   "'패닉'뒤반전…다우,2%낙폭지우고상승마감[월스트리트in]",
-  "S&P,엔비디아신용등급강등검토…젠슨황복귀에도지배구조논란"
+  "S&P,엔비디아신용등급강등검토…젠슨황복귀에도지배구조논란",
+  "[뉴욕증시]다우급락딛고반등…AI주약세에나스닥0.62%↓",
+  "'美제재무색'中상가서수출금지엔비디아최첨단칩버젓이유통",
+  "[YTN실시간뉴스]미\"한국에관세15%...협의불만족시25%\"",
+  "비트코인채굴보상도해킹당한다?1초만에채굴시설1,000곳공격"
  ],
  "recent_sigs": [
   [
@@ -6271,9 +6271,21 @@
   [
    "2026-11-26T06:54:15.361757+09:00",
    "회복에도 불안 투자 급락폭 미국증시 지속"
+  ],
+  [
+   "2026-11-26T06:58:14.470367+09:00",
+   "무색 버젓이 유통 최첨단칩 상가서 수출금지 제재"
+  ],
+  [
+   "2026-11-26T06:58:14.470367+09:00",
+   "한국에 불만족 관세 협의"
+  ],
+  [
+   "2026-11-26T06:58:14.470367+09:00",
+   "000곳 만에 공격 1초 비트코인 보상도 채굴 해킹당한다 시설"
   ]
  ],
- "last_run": "2026-11-26T06:56:31.487115+09:00",
+ "last_run": "2026-11-26T06:58:38.493760+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
