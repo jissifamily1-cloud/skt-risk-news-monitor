@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mydaily.co.kr/page/view/2026112514565329410",
-  "https://www.joongang.co.kr/article/25481852",
-  "https://www.newsis.com/view/NISX20261124_0003881555",
-  "https://www.yna.co.kr/view/AKR20261125110500017?input=1195m",
-  "https://www.dailian.co.kr/news/view/1719593/?sc=Naver",
   "https://www.khan.co.kr/article/202611251455001",
   "https://www.imaeil.com/page/view/2026112514540782067",
   "https://www.econovill.com/news/articleView.html?idxno=758339",
@@ -2999,14 +2994,14 @@
   "https://www.topstarnews.net/news/articleView.html?idxno=16286455",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611260006&t=NN",
   "https://biz.sbs.co.kr/article_hub/20000348792?division=NAVER",
-  "https://www.newsway.co.kr/news/view?ud=2026112517073209035"
+  "https://www.newsway.co.kr/news/view?ud=2026112517073209035",
+  "https://www.mediapen.com/news/view/1140101",
+  "https://biz.heraldcorp.com/article/10949561",
+  "https://www.gokorea.kr/news/articleView.html?idxno=887305",
+  "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54872",
+  "https://imnews.imbc.com/replay/2026/nwtoday/article/6868658_37012.html"
  ],
  "seen_titles": [
-  "SK스토아,'AI쇼호스트'실전투입..협업형AI방송선보여",
-  "화락바베큐치킨,가맹점주전용통합지원시스템'화락가족점지원센...",
-  "특구재단-SK에코플랜트,특구기업등7개사'혁신기업'선정",
-  "한전,고객보호3단계조치가동…2차피해차단나선다",
-  "[Biz&Law]삼성전자,美개인정보유출집단소송항소심'승리'",
   "KT·LG전자,6G핵심기술검증..데이터업로드용량최대4.9배↑",
   "美정보당국,의회브리핑서'젠슨황스캔들'수위조절...\"中지시증거...",
   "KT&G,청년과함께‘연말김장김치나눔’…성동구300가구에전달",
@@ -6001,7 +5996,12 @@
   "삼전닉스반등할까…증안펀드기대·금리변수",
   "금리인상3박자완성...美10월근원PCE,예상상회-[굿모닝글로벌이...",
   "[셀럽의한수]'5천피'하루만에반납전세계증시AI의존'발목",
-  "반기든KT스카이라이프노조,지정용혁신가도'흔들'"
+  "반기든KT스카이라이프노조,지정용혁신가도'흔들'",
+  "[美증시]기술주조정속메타돋보인급등…아마존과뮤즈서비스협상",
+  "하루만에11%폭락한SK하이닉스…“200만원vs105만원”증권가전망...",
+  "정부,주식시장안정위해10조펀드확대논의…외부요인변수주목",
+  "GTA6대박났는데월가는왜시큰둥할까",
+  "[뉴스픽]\"보름동안해킹사실몰랐다\""
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,25 @@
   [
    "2026-11-26T07:06:15.085788+09:00",
    "흔들 노조 ~KT 혁신가도 반기 지정용 KT스카이라이프"
+  ],
+  [
+   "2026-11-26T07:08:15.381548+09:00",
+   "105만원 200만원 하루 vs 증권가 만에 전망 폭락한 SK하이닉스"
+  ],
+  [
+   "2026-11-26T07:08:15.381548+09:00",
+   "변수 주식시장 10조 안정 펀드 논의 주목 요인 확대 정부 외부"
+  ],
+  [
+   "2026-11-26T07:08:15.381548+09:00",
+   "월가는 났는데 대박 GTA 시큰둥할까"
+  ],
+  [
+   "2026-11-26T07:08:15.381548+09:00",
+   "사실 동안 몰랐다 보름"
   ]
  ],
- "last_run": "2026-11-26T07:06:31.377638+09:00",
+ "last_run": "2026-11-26T07:08:42.102802+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
