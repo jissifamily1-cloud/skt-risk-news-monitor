@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20261121500078",
-  "https://www.m-economynews.com/news/article.html?no=73415",
-  "http://www.joseilbo.com/news/news_read.php?uid=580151&class=32",
-  "https://news.jtbc.co.kr/article/NB12329178?influxDiv=NAVER",
-  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005963842",
-  "https://www.mk.co.kr/article/12215249",
-  "https://economist.co.kr/article/view/ecn202611210009",
-  "https://www.segye.com/newsView/20261121504606?OutUrl=naver",
   "https://www.newspim.com/news/view/20261121000086",
   "https://www.hankookilbo.com/news/article/A2026112113550002796?did=NA",
   "https://www.chosun.com/politics/politics_general/2026/11/21/T4XLJFK2MRG5ZK73GKO2T6AMVI/",
@@ -2999,17 +2991,17 @@
   "https://www.ajunews.com/view/20261125110444956",
   "https://kpenews.com/View.aspx?No=4328394",
   "https://zdnet.co.kr/view/?no=20261125111022",
-  "https://www.newsis.com/view/NISX20261125_0003882236"
+  "https://www.newsis.com/view/NISX20261125_0003882236",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=159443",
+  "https://www.upkoreanews.kr/news/articleView.html?idxno=101354",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/25/2026112550115.html",
+  "https://www.news1.kr/society/court-prosecution/6365406",
+  "https://www.chosun.com/national/court_law/2026/11/25/6JUVTRBJ2VGKTGW2Y725B37NMQ/",
+  "https://www.newsis.com/view/NISX20261125_0003882504",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718010",
+  "https://www.fnnews.com/news/202611250908070199"
  ],
  "seen_titles": [
-  "李대통령,울산SKAI데이터센터방문...“AI고속도로로대한민국대전...",
-  "“울산AI데이터센터,글로벌투자마중물기대”…李대통령,균형발전...",
-  "이대통령,울산SKAI데이터센터방문…\"AI고속도로가AI대전환열것...",
-  "이대통령,울산AI데이터센터현장에서\"세계경쟁서속도가생명\"",
-  "울산AI데이터센터건설현장찾은이재명대통령“세계경쟁서속도가...",
-  "李대통령\"지방중심AI투자로균형발전\"…울산AI데이터센터건설현...",
-  "李대통령,울산AI데이터센터찾아“지방중심AI투자로균형발전”",
-  "李대통령,울산SKAI데이터센터현장방문...\"글로벌추가투자마중물...",
   "이대통령,울산SKAI데이터센터방문\"AI투자로균형발전\"",
   "李울산AI데이터센터건설현장방문…“인력부족문제정부에서고...",
   "이대통령\"AI경쟁속도전이핵심\"",
@@ -6001,7 +5993,15 @@
   "[인문자의젠슨황복귀이야기2|인간·문화·자연]젠슨황은왜대...",
   "SK하이닉스,키옥시아선긋기에도지분유지..낸드판도주목",
   "[AI는지금]시스코,앤트로픽이어오픈AI와도손잡았다…무슨일?",
-  "EU집행위,해킹에교육사이트닫아…이름·이메일유출"
+  "EU집행위,해킹에교육사이트닫아…이름·이메일유출",
+  "HS효성인포메이션시스템,AI시대겨냥한차세대스토리지출시",
+  "LG전자,북미5GW공급계약·AIDC냉각수주3조돌파·2200억생산투자…...",
+  "국정원장강금실내정에…범여권,'국보법폐지'속도",
+  "[속보]노소영측\"최태원재산분할화해권고요청동의안해\"",
+  "[속보]노소영측,최태원‘9440억원화해권고’요청에“동의안해”",
+  "[속보]노소영측\"최태원,상고취하하라\"…화해권고거부",
+  "비트코인6만달러선재이탈…금까지'휘청'",
+  "'심리치료호소'젠슨황중앙집권고수에\"거세당한이사회·워킹모럴..."
  ],
  "recent_sigs": [
   [
@@ -7327,9 +7327,25 @@
   [
    "2026-11-25T11:14:21.919771+09:00",
    "EU 해킹에 이름 이메일 유출 닫아 사이트 교육 집행위"
+  ],
+  [
+   "2026-11-25T11:16:15.311103+09:00",
+   "화해권고 안해 9440억원 동의 요청에"
+  ],
+  [
+   "2026-11-25T11:16:15.311103+09:00",
+   "화해권고 거부 상고취하 하라"
+  ],
+  [
+   "2026-11-25T11:16:15.311103+09:00",
+   "거세당한 고수에 젠슨황 중앙집권 호소 이사회 모럴 심리치료 워킹"
+  ],
+  [
+   "2026-11-25T11:16:15.311103+09:00",
+   "비트코인 재이탈 6만달러선 휘청 금까지"
   ]
  ],
- "last_run": "2026-11-25T11:14:48.744085+09:00",
+ "last_run": "2026-11-25T11:16:44.256136+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
