@@ -1,14 +1,5 @@
 {
  "seen_urls": [
-  "https://sports.khan.co.kr/article/202611260600006?pt=nv",
-  "http://www.newstomato.com/ReadNews.aspx?no=1321791&inflow=N",
-  "https://www.abcn.kr/news/articleView.html?idxno=95051",
-  "https://www.yna.co.kr/view/AKR20261125118900017?input=1195m",
-  "https://www.mt.co.kr/tech/2026/11/26/2026112417372012164",
-  "https://www.ziksir.com/news/articleView.html?idxno=154600",
-  "https://www.mk.co.kr/article/12217484",
-  "https://www.nocutnews.co.kr/news/6612503",
-  "https://www.newsis.com/view/NISX20261125_0003883342",
   "https://www.yakup.com/news/index.html?cat=12&nid=335730",
   "https://www.news1.kr/it-science/cc-newmedia/6364589",
   "https://www.etnews.com/20261125000313",
@@ -2999,18 +2990,18 @@
   "https://www.newsis.com/view/NISX20261125_0003883411",
   "http://www.newstomato.com/ReadNews.aspx?no=1322022&inflow=N",
   "https://view.asiae.co.kr/article/2026112616474899978",
-  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627975"
+  "https://www.mdtoday.co.kr/news/articleView.html?idxno=627975",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=887078",
+  "https://www.econovill.com/news/articleView.html?idxno=758471",
+  "https://www.idaegu.com/news/articleView.html?idxno=667271",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3763955",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=55192",
+  "https://www.pointdaily.co.kr/news/articleView.html?idxno=327606",
+  "https://www.yna.co.kr/view/AKR20261126128551009?input=1195m",
+  "https://www.ddaily.co.kr/page/view/2026112615361936923",
+  "https://www.fnnews.com/news/202611261400021643"
  ],
  "seen_titles": [
-  "KBL데뷔는우리가먼저!",
-  "대주주심사없는국적항공사…산은지분이유일한방패",
-  "윤한득,일상을바꾸는기후컨트롤타워",
-  "사람대신전화걸고계약하는AI…업무대리어디까지",
-  "\"AI커닝,꼼짝마\"…빅테크는메타데이터,이통사는통신사실확인자료...",
-  "싱가포르이통시장3사체제복귀…요금경쟁장기화에통합수순",
-  "이통사가국민선정‘맛집’?…이유알고보니“그럴만하네”",
-  "비결은장기공연과스폰서유치…런던O2가북항에던진질문",
-  "나대신쇼핑·상담하는AI'피클'이던진숙제…\"AI가한일,누구책임...",
   "임기막바지노연홍회장…AI인프라‘성과’vs약가개편‘숙제’",
   "AI커닝에재난문자먹통까지…과기정통부대책고심",
   "크리어스강동훈대표,'2026벤처창업진흥유공'청년기업부문중기부...",
@@ -6001,7 +5992,16 @@
   "[오늘의주요일정]과기정통부·방미통위·개보위(11월26일목요일)",
   "KT가이끌던5GSA…LGU+11월30일·SKT12월1일상용화",
   "\"괜찮다며버텨보자했는데\"…삼전레버리지차트에결국울음터진경...",
-  "﻿빗썸,그룹웨어해킹피해추가확인…보름간주민번호·신분증사본..."
+  "﻿빗썸,그룹웨어해킹피해추가확인…보름간주민번호·신분증사본...",
+  "'블랙아웃D-1'…손발잘린케이블TV,CJ압박속뒷짐진방미통위",
+  "[IT큐레이션]넷플릭스얽힌'망사용료협상카드'로읽어본SKB인사이...",
+  "봉화군,농촌기본소득시행준비본격화…10개읍·면순회",
+  "대전시낭송인협회,파독광부·간호사삶을시로…47번째시민콘서트",
+  "G마켓,'2026뷰티컨퍼런스'진행...내년1분기뷰티전용쇼핑공간연...",
+  "'그룹보안협의회'있다더니…NHN,보름새결제망·협업툴연쇄사고",
+  "\"미칩규제강화,中새AI모델개발직격…출시연기\"(종합)",
+  "차이나텔레콤,화웨이칩으로만LLM학습…'탈엔비디아'한걸음",
+  "\"힘들때가진짜친구\"…머스크,젠슨황복귀첫날엔비디아行"
  ],
  "recent_sigs": [
   [
@@ -6931,9 +6931,13 @@
   [
    "2026-11-26T17:04:17.074447+09:00",
    "레버리지 터진 삼전 괜찮다며 울음 차트에 했는데 결국 버텨보자"
+  ],
+  [
+   "2026-11-26T17:06:16.842737+09:00",
+   "차이나텔레콤 걸음 탈엔비디아 화웨이 칩으로만 LLM 학습"
   ]
  ],
- "last_run": "2026-11-26T17:04:32.938632+09:00",
+ "last_run": "2026-11-26T17:06:38.000198+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
