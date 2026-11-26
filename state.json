@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446590",
-  "https://www.sentv.co.kr/article/view/sentv202611260006",
   "https://www.ajunews.com/view/20261126082726071",
   "http://kor.theasian.asia/archives/422481",
   "https://www.hankyung.com/article/2026112610286",
@@ -2999,11 +2997,11 @@
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865645&plink=ORI&cooper=NAVER",
   "https://www.ytn.co.kr/_ln/0103_202611262022593622",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4446853",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6868904_37004.html"
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6868904_37004.html",
+  "http://www.kjdaily.com/article.php?aid=1795693031693720276",
+  "https://www.news2day.co.kr/article/20261126500377"
  ],
  "seen_titles": [
-  "[뉴욕환시]AI주낙폭만회에달러약세…엔·스위스프랑반등",
-  "넥슨,신작MMORPG‘템빨:오버기어드’출시",
   "넥슨,신작MMORPG'템빨:오버기어드'출시…한국·대만등4개지역공...",
   "[오늘의신문]코스피6.16%폭락,미국발관세충격…법관탄핵반발확...",
   "삼전닉스실적가를변수…\"中메모리수요줄고美규제강화\"",
@@ -6001,7 +5999,9 @@
   "[단독]텔레그램서\"건당500원\"…해커손에'한전정보'",
   "부정행위의혹'세무냥이'구속영장신청...\"사회적파급력고려\"",
   "[亞증시-종합]기술주반등속日·臺·홍콩↑…중국혼조",
-  "\"원장님만나예뻐졌죠\"혹했는데‥의술아니라'댓글케어'?"
+  "\"원장님만나예뻐졌죠\"혹했는데‥의술아니라'댓글케어'?",
+  "삼성전자·SK하이닉스거래대금6.2조…21%감소",
+  "美대형미디어USA투데이해킹의혹…사용자정보1억6600만건탈취주..."
  ],
  "recent_sigs": [
   [
@@ -6875,9 +6875,13 @@
   [
    "2026-11-26T20:32:17.220087+09:00",
    "혼조 중국 홍콩 반등 기술주"
+  ],
+  [
+   "2026-11-26T20:40:27.315414+09:00",
+   "미디어 1억6600만 탈취 사용자 대형 의혹 정보 USA투데이"
   ]
  ],
- "last_run": "2026-11-26T20:38:32.963314+09:00",
+ "last_run": "2026-11-26T20:40:44.108274+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
