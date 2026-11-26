@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.jtbc.co.kr/article/NB12329812?influxDiv=NAVER",
-  "https://www.kmib.co.kr/article/20261125501826",
-  "https://zdnet.co.kr/view/?no=20261125173251",
-  "https://www.ytn.co.kr/_ln/0102_202611251850006413",
-  "http://www.00news.co.kr/news/articleView.html?idxno=108362",
   "https://news.jtbc.co.kr/article/NB12329811?influxDiv=NAVER",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722350",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=195195",
@@ -2999,14 +2994,14 @@
   "https://www.m-economynews.com/news/article.html?no=73618",
   "https://www.hani.co.kr/arti/international/america/1289201.html",
   "https://www.ytn.co.kr/_ln/0104_202611261148292510",
-  "http://coinreaders.com/273574"
+  "http://coinreaders.com/273574",
+  "https://biz.sbs.co.kr/article_hub/20000349023?division=NAVER",
+  "https://www.businessplus.kr/news/articleView.html?idxno=120535",
+  "https://www.yna.co.kr/view/AKR20261126091500009?input=1195m",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446686",
+  "https://www.munhwa.com/article/11634344"
  ],
  "seen_titles": [
-  "“내년에도‘반도체쏠림’변동성장세불가피…하락장대비현금비중...",
-  "“AI시대,블록체인에새성장기회”…신뢰인프라로주목",
-  "전북특구,대한항공,HS효성과방위산업육성을위한기술협업이음비즈...",
-  "조폭끼고'최대300%수익'사기…일당44명적발",
-  "\"10조규모방어막으론역부족\"…금융권,증안펀드추가출자여력파악",
   "'젠슨황효과'딱하루갔다…코스피상승분모두반납",
   "다시시작된美관세압박…15%상한지켜도디지털규제복병",
   "디에스앤지\"28년간서버·GPU에특화...풀스택AI컨설팅제공\"",
@@ -6001,7 +5996,12 @@
   "삼성전자,반도체조직개편단행...미주법인장에윤하룡부사장내정",
   "젠슨황만이아니었다…엔비디아임원,‘대중국반도체밀수’혐의기...",
   "\"수사도없이젠슨황불법없다\"...커지는면죄부논란",
-  "빅테크AI자금줄막히나...채권시장\"쓴만큼벌었는지증명하라\""
+  "빅테크AI자금줄막히나...채권시장\"쓴만큼벌었는지증명하라\"",
+  "월말에도버스넷플안버벅댄다고?…5배빨라진다",
+  "JP모건,내년S&P500목표치8200제시",
+  "트럼프정부,젠슨황복귀에총력…냉전때법까지동원검토",
+  "S&P500,6,883선깨질지주목…'당분간연옥장세'",
+  "美또털렸다…재무부산하금융범죄방지기관해킹"
  ],
  "recent_sigs": [
   [
@@ -7211,9 +7211,13 @@
   [
    "2026-11-26T11:54:16.332499+09:00",
    "빅테크 막히나 시장 자금줄 증명하라 채권 벌었는지 만큼"
+  ],
+  [
+   "2026-11-26T11:56:15.243906+09:00",
+   "883선 장세 연옥 주목 깨질지 당분간"
   ]
  ],
- "last_run": "2026-11-26T11:54:33.989160+09:00",
+ "last_run": "2026-11-26T11:56:34.782136+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
