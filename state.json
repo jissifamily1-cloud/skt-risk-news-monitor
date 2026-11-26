@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.smarttoday.co.kr/ko-kr/articles/114042",
-  "https://www.wikitree.co.kr/articles/1177790",
-  "https://www.kizmom.com/news/articleView.html?idxno=114208",
-  "https://imnews.imbc.com/replay/2026/nwdesk/article/6868564_37004.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722577",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508152",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=117275",
-  "https://www.ytn.co.kr/_ln/0104_202611242148558715",
   "https://www.ajunews.com/view/20261125200727620",
   "https://www.seoul.co.kr/news/international/japan/2026/11/25/20261125500141?wlog_tag3=naver",
   "https://www.ngonews.kr/news/articleView.html?idxno=244206",
@@ -2999,17 +2991,17 @@
   "https://www.polinews.co.kr/news/articleView.html?idxno=749297",
   "https://www.naeil.com/news/read/610168",
   "https://www.naeil.com/news/read/610176",
-  "https://www.naeil.com/news/read/610188"
+  "https://www.naeil.com/news/read/610188",
+  "https://www.the-today.com/news/articleView.html?idxno=94130",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3763918",
+  "https://www.edaily.co.kr/News/Read?newsId=02955286645649656&mediaCodeNo=257",
+  "https://kpenews.com/View.aspx?No=4330894",
+  "https://www.newsworker.co.kr/news/articleView.html?idxno=516376",
+  "https://www.naeil.com/news/read/610205",
+  "https://www.naeil.com/news/read/610210",
+  "https://www.naeil.com/news/read/610206"
  ],
  "seen_titles": [
-  "빗썸해킹피해규모확대…유출인원·기간모두당초발표보다커져",
-  "'젠슨황효과'하루만에끝…코스피4,600선후퇴",
-  "빗썸해킹피해자,더있다…고객신분증·지갑주소·직장·여권번호까...",
-  "현대건설,'오픈이노베이션데이'열고스타트업14곳과협업성과공유",
-  "코스피,5000또붕괴..젠슨황약발은하루",
-  "금융위,ICO금지약10년만에풀겠다…해외로빠져나간토큰발행국내...",
-  "빗썸개인정보유출에주민번호·신분증사본도…협력업체직원피해확...",
-  "'세기의이혼'이쏘아올린'비자금의혹'‥노재헌대사출석통보",
   "빗썸,해킹피해추가확인…“사고발생보름뒤인지”",
   "빗썸해킹피해더커졌다…보름간정보빼간해커,안랩등보안주움...",
   "HS효성인포메이션시스템,AI·미션크리티컬환경겨냥'VSPOneBlock하이...",
@@ -6001,7 +5993,15 @@
   "LG유플러스,전국시내버스3만대와이파이7로교체",
   "관세악재,AI주매도세에부채질",
   "복귀한젠슨황,미의회선다",
-  "KT,인공지능데이터센터확대나서"
+  "KT,인공지능데이터센터확대나서",
+  "[NZSIINDEX]2026년11월25일…코스피6.16%급락...증권사목표주가...",
+  "돌봄수요는늘고예산은제자리…강철남의원\"사실상사업축소\"",
+  "몸값40조美시에라에도전장…유베이스,‘K-AI에이전트’로글로벌...",
+  "국무총리상수상한전북특별자치도,적극행정우수사례경진대회서AI시...",
+  "[진단_저축은행⑧예가람저축은행]대출외형성장에가려진수익성한...",
+  "노소영,최태원화해권고요청거부",
+  "‘노태우비자금의혹’노재헌소환통보",
+  "빗썸해킹추가피해,한투저축은행도유출"
  ],
  "recent_sigs": [
   [
@@ -6999,9 +6999,21 @@
   [
    "2026-11-26T13:06:15.874237+09:00",
    "복귀한 의회 젠슨 선다"
+  ],
+  [
+   "2026-11-26T13:08:15.016638+09:00",
+   "비자금 노재헌 의혹 노태우 소환통보"
+  ],
+  [
+   "2026-11-26T13:08:15.016638+09:00",
+   "요청 화해권고 거부"
+  ],
+  [
+   "2026-11-26T13:08:15.016638+09:00",
+   "추가피해 유출 빗썸 한투저축은행도"
   ]
  ],
- "last_run": "2026-11-26T13:06:41.592280+09:00",
+ "last_run": "2026-11-26T13:08:39.206849+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
