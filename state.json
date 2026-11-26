@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261117_0003872103",
-  "https://www.joongang.co.kr/article/25479561",
-  "https://economist.co.kr/article/view/ecn202611170059",
-  "https://www.safetimes.co.kr/news/articleView.html?idxno=247540",
   "https://www.newsis.com/view/NISX20261116_0003870395",
   "https://zdnet.co.kr/view/?no=20261116225420",
   "https://zdnet.co.kr/view/?no=20261116202311",
@@ -2999,13 +2995,13 @@
   "https://www.sedaily.com/article/20119441",
   "https://www.viva100.com/article/20261126501396",
   "https://www.dailysecu.com/news/articleView.html?idxno=209763",
-  "https://www.mk.co.kr/article/12219508"
+  "https://www.mk.co.kr/article/12219508",
+  "http://news.lghellovision.net/news/articleView.html?idxno=563885",
+  "https://www.etoday.co.kr/news/view/2653550",
+  "http://www.inews24.com/view/2030839",
+  "https://www.joongangenews.com/news/articleView.html?idxno=566845"
  ],
  "seen_titles": [
-  "노란우산개인정보유출20만5천명규모…가입자10명중1명꼴",
-  "與정보통신특위19일출범…첫과제는'AI해킹·개인정보유출'",
-  "시험장침투한AI안경…정부,제조사설계가이드라인만든다",
-  "잇단정보유출사고에커진법률수요…개인정보보호전문가에노태영...",
   "[오늘의주요일정]과기정통부·방미통위·개보위(11월18일수요일)",
   "개인정보잇단유출에위기관리능력입증,노태영·손금주·안정호",
   "규제가권력인나라",
@@ -6001,7 +5997,11 @@
   "뒷심부족한코스피,상승폭반납하며4711.21마감[마켓시그널]",
   "실적개선무색⋯‘AI독주’속반도체슈퍼사이클,지속가능할까",
   "랜섬웨어조직에베레스트,코스닥상장사\"고영테크놀러지해킹\"주장...",
-  "앱마켓거래액10조돌파의‘두얼굴’…개발자등골휘고소비자숨바..."
+  "앱마켓거래액10조돌파의‘두얼굴’…개발자등골휘고소비자숨바...",
+  "AIDC특구꿈꾸는강원도…국가전력계획총력대응",
+  "중국AI개발정체기진입⋯美'칩수출통제강화'여파",
+  "[데스크칼럼]AI와제도사이,그불편한간극",
+  "정부,'모두의AI'내달공개…KTX예매부터GPU공급까지국내AI생태계..."
  ],
  "recent_sigs": [
   [
@@ -6955,9 +6955,13 @@
   [
    "2026-11-26T16:30:40.614210+09:00",
    "얼굴 숨바 거래액 앱마켓 10조 돌파의 등골휘고 소비자 개발자"
+  ],
+  [
+   "2026-11-26T16:32:16.135684+09:00",
+   "예매부터 공급까지 GPU 정부 국내 내달 생태계 모두의 KTX 공개"
   ]
  ],
- "last_run": "2026-11-26T16:31:06.377851+09:00",
+ "last_run": "2026-11-26T16:32:32.100487+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
