@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoul.co.kr/news/economy/securities/2026/11/25/20261125500322?wlog_tag3=naver",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3763090",
-  "https://www.news1.kr/local/incheon/6366161",
-  "https://www.ekn.kr/web/view.php?key=20261125028404701",
-  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261591",
-  "http://www.epj.co.kr/news/articleView.html?idxno=39863",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250196&t=NN",
-  "https://www.news1.kr/it-science/cc-newmedia/6365171",
-  "https://www.busan.com/view/busan/view.php?code=2026112518280446621",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250194&t=NN",
-  "https://www.g-enews.com/view.php?ud=202611251816179289e7e8286d56_1",
   "https://www.news1.kr/finance/general-finance/6366146",
   "https://biz.chosun.com/it-science/ict/2026/11/25/MDBRRKTLMNB3VAWBG65CUPYHEU/",
   "https://www.ajunews.com/view/20261125181622416",
@@ -2999,20 +2988,20 @@
   "https://www.khan.co.kr/article/202611232026005",
   "http://www.4th.kr/news/articleView.html?idxno=2122739",
   "https://www.huffingtonpost.kr/article/262419",
-  "https://news.tf.co.kr/read/world/2393703.htm"
+  "https://news.tf.co.kr/read/world/2393703.htm",
+  "https://www.starnewskorea.com/sports/2026/11/26/2026112611264170669",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3763819",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=410336",
+  "https://www.aitimes.com/news/articleView.html?idxno=217758",
+  "https://biz.sbs.co.kr/article_hub/20000349015?division=NAVER",
+  "https://www.ziksir.com/news/articleView.html?idxno=154780",
+  "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308174",
+  "https://www.news1.kr/politics/assembly/6366878",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261126113824baR",
+  "https://www.jemin.com/news/articleView.html?idxno=848512",
+  "https://www.kyeonggi.com/article/20261126580140"
  ],
  "seen_titles": [
-  "亞대표드론전시회'DSK'참가기업모집",
-  "엔비디아AI칩임대료최대35%하락…공급과잉우려고개",
-  "“‘중국스파이의혹’앨리스황,일본오사카에도회사설립”",
-  "'黃랠리'하루천하…코스피시총257조증발[코스피4700붕괴]",
-  "美정보당국\"앨리스황,中에정보넘겼다\"",
-  "‘일장황몽’코스피,관세까지덮치나",
-  "대구시수성구,아동학대예방캠페인...수성경찰서등3개기관참여",
-  "\"인천풍경의절정은송도\"…외국인청년들,360도파노라마절경에탄...",
-  "[금융풍향계]JB금융,깐깐해진ESG평가서‘통합A+등급’外",
-  "[AI칩지정학]㉓美공화당삼인방의엉터리칩봉쇄···파라미터는...",
-  "한전,고객정보유출2차피해···\"끝까지막는다\"",
   "AI붐에몸값뛴'한국산철강'…관세뚫고미국으로",
   "SKT,고객만족도해킹이전수준으로…통신3사중선두",
   "젠슨황효과증발또무너진코스피",
@@ -6001,7 +5990,18 @@
   "‘인간의감시기술,AI속도못따라간다’…기업들“개발제한”목...",
   "SKT고객84.6%'모두의AI'이용의향..라이프스타일1위",
   "KT클라우드김봉균안산에60MW규모두번째AI데이터센터추진:수도...",
-  "밴스부통령\"젠슨황,범죄증거없어\"…미국행정부갈등도격화"
+  "밴스부통령\"젠슨황,범죄증거없어\"…미국행정부갈등도격화",
+  "[공식발표]레이예스,日구단관심에도'끝내'한국남았다!롯데와18...",
+  "정주용대전중구의원,부동산불법행위신고포상금도입촉구…\"전세사...",
+  "LG전자베스트샵롯데백화점건대스타시티점,팝업'GRANDOPEN'…웨딩·입...",
+  "오픈AI\"범용AIGPT-6,전문모델없이단백질설계…실험서검증\"",
+  "코스피4800회복시도…롤로코스터이후뉴욕증시혼조마감",
+  "[이슈직썰]美대중규제,동남아로불똥…데이터센터돈줄막힌다",
+  "'홀짝장세'빠진코스피···급락깊고반등얕다",
+  "36년전강금실논문공개…주진우\"대놓고북한편\"",
+  "'中원격접속차단'에판로막힌엔비디아칩…시장에매물'홍수'",
+  "엔비디아,젠슨황복귀에도신용악재…S&P등급하향검토착수",
+  "KT경기남부지사,화성소상공인연합회와디지털전환맞손"
  ],
  "recent_sigs": [
   [
@@ -7187,9 +7187,13 @@
   [
    "2026-11-26T11:36:15.869858+09:00",
    "간첩 국가보안법 폐지 논란 범여권 민주당 대응 북한"
+  ],
+  [
+   "2026-11-26T11:40:29.102153+09:00",
+   "맞손 소상공인연합회와 ~KT 경기남부지사 디지털 화성"
   ]
  ],
- "last_run": "2026-11-26T11:38:36.990306+09:00",
+ "last_run": "2026-11-26T11:40:48.281407+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
