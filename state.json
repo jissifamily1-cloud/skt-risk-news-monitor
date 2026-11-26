@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "http://www.yonhapnewstv.co.kr/news/MYH202611251730360QF",
-  "https://www.incheonilbo.com/news/articleView.html?idxno=1337821",
-  "http://www.jmbc.co.kr/news/view/70045",
-  "https://www.mk.co.kr/article/12218423",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021789",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3762704",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717731",
-  "https://www.mk.co.kr/article/12218416",
-  "https://www.hankyung.com/article/2026112502691",
-  "https://www.boannews.com/news/articleView.html?idxno=147538",
   "http://www.srtimes.kr/news/articleView.html?idxno=218634",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722257",
   "http://mbn.mk.co.kr/pages/news/newsView.php?news_seq_no=5232904",
@@ -2999,19 +2989,19 @@
   "https://www.thefairnews.co.kr/news/articleView.html?idxno=95582",
   "https://www.widedaily.com/news/articleView.html?idxno=304810",
   "https://www.busan.com/view/busan/view.php?code=2026112610471874165",
-  "https://www.newsis.com/view/NISX20261126_0003884137"
+  "https://www.newsis.com/view/NISX20261126_0003884137",
+  "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084172",
+  "https://www.yna.co.kr/view/AKR20261126076100005?input=1195m",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3763725",
+  "https://www.widedaily.com/news/articleView.html?idxno=304812",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508322",
+  "https://www.inthenews.co.kr/news/article.html?no=95045",
+  "https://www.newdaily.co.kr/site/data/html/2026/11/26/2026112650120.html",
+  "https://www.ytn.co.kr/_ln/0134_202611261041014096",
+  "https://www.ceoscoredaily.com/page/view/2026112610491468396",
+  "https://www.ytn.co.kr/_ln/0134_202611261043543381"
  ],
  "seen_titles": [
-  "개인형AI에이전트'경쟁'본격화...네이버VS카카오\"누가웃을까\"",
-  "KT,금융감독원과AI금융사기예방나선다…딥페이크·딥보이스대응...",
-  "KT,LG전자와손잡고차세대6G기술경쟁력검증했다:데이터업로드...",
-  "오픈AI·시스코,AI로리눅스공격막는보안기술'시루도'공개",
-  "‘젠슨황불륜·간첩의혹’앨리스황,日오사카에도‘메가스피드’...",
-  "리더십금간젠슨황…엔비디아왕국재건'산넘어산'",
-  "[퇴근길머니]하루짜리'젠슨황효과'…AI시대,일자리의두얼굴",
-  "[썰물밀물]엔비디아제국은무엇으로사는가",
-  "'통학버스시스템해킹'전북교육청,보안강화에26억원투입",
-  "[부음]임종영씨별세외",
   "FA구자욱·원태인,대구카퍼레이드참석안한다…KS우승주역들은참...",
   "김제시보건소,현안사업점검연찬회…2027년계획공유",
   "[데일리픽]엔비디아로돌아온젠슨황…리플CEO가말하는XRP수요처",
@@ -6001,7 +5991,17 @@
   "[단독①]ISMS-P인증내건GS건설자이(Xi),뒤엔'구멍뚫린옛사이트...",
   "주식·금·코인동반약세에투자자'갈곳잃어'…현금성자산으로뭉...",
   "빗썸,해킹개인정보유출피해추가확인",
-  "믿었던AI가배신한다…기업안방노리는'공급망해킹'"
+  "믿었던AI가배신한다…기업안방노리는'공급망해킹'",
+  "[삼성인사추적]②이재용체제삼성전자131명승진…애플·브로드컴...",
+  "[방송소식]'사막의별똥별찾기'공모전대상'어른일지도?'",
+  "우도농민들빚더미에앉을판인데…정다운의원,제주시늑장대응질...",
+  "쇼핑·상담대신하는AI'피클'확산에'책임소재'논란…정부,AI기본...",
+  "유니테스트·테크윙폭등랠…HBM4생산경쟁에검사장비주뜬다",
+  "네이버클라우드,공공AI도구에이미지생성모델도입…공공AX고도화",
+  "'빅쇼트'마이클버리,나스닥하락베팅청산…주식매수로선회",
+  "노소영,최태원9440억'화해요청'거부...왜?[자막뉴스]",
+  "KT,안산2AIDC추진…“AI인프라·서비스수익화기반넓힌다”",
+  "피할수없는자국의연락...앨리스황진짜정체는[자막뉴스]"
  ],
  "recent_sigs": [
   [
@@ -7059,9 +7059,13 @@
   [
    "2026-11-26T10:50:24.774617+09:00",
    "잃어 주식 자산으로 코인 약세에 현금성 동반 투자자"
+  ],
+  [
+   "2026-11-26T10:52:22.155283+09:00",
+   "연락 진짜 없는 자국의 앨리스 피할 정체는"
   ]
  ],
- "last_run": "2026-11-26T10:50:48.113461+09:00",
+ "last_run": "2026-11-26T10:52:41.600100+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
