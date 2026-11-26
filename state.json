@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://zdnet.co.kr/view/?no=20261123091858",
-  "https://www.m-i.kr/news/articleView.html?idxno=2021874",
-  "https://www.viva100.com/article/20261123500138",
-  "https://www.etoday.co.kr/news/view/2651475",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3759704",
-  "https://www.enetnews.co.kr/news/articleView.html?idxno=56651",
   "https://www.yna.co.kr/view/AKR20261123021000030?input=1195m",
   "http://www.ftoday.co.kr/news/articleView.html?idxno=370297",
   "https://www.newsis.com/view/NISX20261123_0003878583",
@@ -2999,15 +2993,15 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=303406",
   "https://imnews.imbc.com/news/2026/politics/article/6868782_36911.html",
   "https://www.job-post.co.kr/news/articleView.html?idxno=241205",
-  "https://www.joongdo.co.kr/web/view.php?key=20261126010009133"
+  "https://www.joongdo.co.kr/web/view.php?key=20261126010009133",
+  "https://www.widedaily.com/news/articleView.html?idxno=304890",
+  "https://view.asiae.co.kr/article/2026112614093178049",
+  "https://biz.chosun.com/it-science/ict/2026/11/26/MHECZULRJ5CZLMRECVSKVEISGM/",
+  "https://www.viva100.com/article/20261126501078",
+  "https://www.edaily.co.kr/News/Read?newsId=03191446645649656&mediaCodeNo=257",
+  "https://www.sisaweek.com/news/articleView.html?idxno=239206"
  ],
  "seen_titles": [
-  "[유통브리핑]CU,통신상품가입서비스도입외",
-  "\"편의점에서인터넷도가입한다\"···CU,SK브로드밴드와서비스개시",
-  "반도체훈풍탄SK에코플랜트…외형·수익성장지속",
-  "[유통갤러리]신세계百,대전인기빵집'대전빵축제in서울'개최外",
-  "\"하루한번지역뉴스,매시간마다\"...SKB,AI아나운서로하루10회방송",
-  "CU,SK브로드밴드와손잡고인터넷·IPTV가입서비스개시",
   "편의점QR찍고인터넷가입신청…CU,IPTV결합상품도중개",
   "CU,인터넷·IPTV가입창구로변신⋯3년간월최대2200원할인",
   "\"10년간290억모았다\"천안시복지재단,내달3일'희망2027'공개모금",
@@ -6001,7 +5995,13 @@
   "[CEO리더십]정재헌SK텔레콤대표,통신의기본되찾고AI의기준높였...",
   "국조실,한국전력개인정보유출관련\"공직복무점검검토\"",
   "SK텔레콤6만4800원으로하락…3분기주당배당830원",
-  "진주시계동골목안전물었더니'KT에전화하라'"
+  "진주시계동골목안전물었더니'KT에전화하라'",
+  "[특징주]케이엠더블유,통신장비·5G테마매수세유입에급등…기지국...",
+  "\"AI·데이터로최적색상매칭\"…SP삼화,'디지털컬러서비스'확대",
+  "삼성전자,DS부문미주법인장에윤하룡부사장…메모리개발조직은사...",
+  "한국투자저축은행,개인정보유출…업권최대",
+  "엔비디아또다른임원,中AI칩밀수의혹기업임원과결혼",
+  "빗썸,보름에걸친해킹인지조차못했다…정보유출파문'일파만파'"
  ],
  "recent_sigs": [
   [
@@ -6927,9 +6927,17 @@
   [
    "2026-11-26T14:10:26.231213+09:00",
    "KT에 진주시 안전 골목 전화하라 ~KT 물었더니 계동"
+  ],
+  [
+   "2026-11-26T14:12:15.454005+09:00",
+   "의혹 결혼 임원 임원과 다른 기업 밀수 AI칩"
+  ],
+  [
+   "2026-11-26T14:12:15.454005+09:00",
+   "못했다 인지조차 정보유출 파문 일파만파 보름에 빗썸 걸친"
   ]
  ],
- "last_run": "2026-11-26T14:10:47.432930+09:00",
+ "last_run": "2026-11-26T14:12:34.259259+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
