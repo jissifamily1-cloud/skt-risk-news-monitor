@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://daily.hankooki.com/news/articleView.html?idxno=1429099",
-  "https://www.newsverse.kr/news/articleView.html?idxno=12044",
-  "https://www.donga.com/news/Society/article/all/20261125/135089248/1",
-  "https://www.thedailypost.kr/news/articleView.html?idxno=117267",
-  "https://www.ytn.co.kr/_ln/0104_202611251927209672",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446543",
   "https://news.hidoc.co.kr/news/articleView.html?idxno=70565",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863541&plink=ORI&cooper=NAVER",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508128",
@@ -2999,15 +2993,15 @@
   "https://www.gameshot.net/common/con_view.php?code=GA6b07a3686dba0",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=904525",
   "https://biz.chosun.com/topics/topics_social/2026/11/26/DBYUJTRYV5DZNAI3ENAMYAZLYA/",
-  "https://www.boannews.com/news/articleView.html?idxno=147566"
+  "https://www.boannews.com/news/articleView.html?idxno=147566",
+  "https://www.etnews.com/20261126000246",
+  "https://www.edaily.co.kr/News/Read?newsId=02827366645649656&mediaCodeNo=257",
+  "https://www.sedaily.com/article/20119283",
+  "https://dealsite.co.kr/articles/173555",
+  "https://www.edaily.co.kr/News/Read?newsId=02830646645649656&mediaCodeNo=257",
+  "https://www.mediatoday.co.kr/news/articleView.html?idxno=338721"
  ],
  "seen_titles": [
-  "11월25일'뉴스9'예고",
-  "노소영,최태원‘9440억지급화해’거부…‘진정성의심’",
-  "HS효성인포,‘에잇나인’AI용하이엔드블록스토리지출시",
-  "美정보당국\"앨리스황,젠슨과만남중中에정보넘겨\"의회보고(종합)",
-  "한국투자저축은행서개인정보유출…고객8만6433명피해",
-  "'젠슨황랠리'하루만에붕괴…코스피6%급락",
   "[단독]AI로쉬워진해킹,올해에만3732건‘역대최다’…검거율은17....",
   "크래프톤,독자개발30B급LLM'라온-1미니'출시…해외동급모델6종...",
   "일증시도젠슨황효과증발...닛케이지수2.78%급락마감",
@@ -6001,7 +5995,13 @@
   "14억뷰신화이어간다…‘템빨:오버기어드’정식출시",
   "르몽드\"스페이스X우주데이터센터용위성100만기발사승인\"",
   "해킹계정으로…성형외과‘가짜후기’작성일당검거",
-  "'정보암시장'해킹포럼우후죽순...탈취데이터확산우려↑"
+  "'정보암시장'해킹포럼우후죽순...탈취데이터확산우려↑",
+  "3분기아프리카스마트폰출하량40%급감…내년에도25%감소전망",
+  "AI데이터센터커질수록‘지역사회수용성’중요…네이버,UN서‘각’...",
+  "물가폭주에도“호남팹”관세얹고“10%더”[트럼프스톡커]",
+  "S&P,엔비디아신용등급하향검토…韓반도체긴장",
+  "中국채금리사상최저1.565%…'AI공포'에배당주로피신",
+  "넷플릭스·유튜브시대,새미디어법다시화두…방미통위\"협의진행..."
  ],
  "recent_sigs": [
   [
@@ -7091,9 +7091,21 @@
   [
    "2026-11-26T12:18:14.445673+09:00",
    "정보 우후죽순 포럼 우려 암시장 데이터 탈취 확산"
+  ],
+  [
+   "2026-11-26T12:20:25.565331+09:00",
+   "검토 신용등급 반도체 하향 긴장"
+  ],
+  [
+   "2026-11-26T12:20:25.565331+09:00",
+   "공포 국채금리 사상 최저 배당주로 피신"
+  ],
+  [
+   "2026-11-26T12:20:25.565331+09:00",
+   "다시 협의 미디어법 진행 유튜브 화두 넷플릭스 시대"
   ]
  ],
- "last_run": "2026-11-26T12:18:34.442839+09:00",
+ "last_run": "2026-11-26T12:20:48.988526+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
