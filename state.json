@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.etoday.co.kr/news/view/2653065",
-  "https://www.mediafine.co.kr/news/articleView.html?idxno=95958",
-  "https://www.sedaily.com/article/20119091",
-  "https://www.hankyung.com/article/202611260882H",
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366629",
-  "https://www.hankookilbo.com/news/article/A2026112607370000188?did=NA",
-  "https://www.dt.co.kr/article/12097318",
   "https://www.edaily.co.kr/News/Read?newsId=01708886645649656&mediaCodeNo=257",
   "https://kjmbc.co.kr/NewsArticle/1547455",
   "https://kidd.co.kr/news/248275",
@@ -2999,16 +2992,16 @@
   "https://www.financialpost.co.kr/news/articleView.html?idxno=303527",
   "https://www.fnnews.com/news/202611261828362054",
   "https://view.asiae.co.kr/article/2026112415000815628",
-  "https://www.kbmaeil.com/article/20261126500032"
+  "https://www.kbmaeil.com/article/20261126500032",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=717885",
+  "https://zdnet.co.kr/view/?no=20261126165342",
+  "https://www.mydaily.co.kr/page/view/2026112615080648410",
+  "https://www.khgames.co.kr/news/articleView.html?idxno=310775",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3764376",
+  "https://weekly.khan.co.kr/article/202611261831001",
+  "https://www.imaeil.com/page/view/2026112618031692647"
  ],
  "seen_titles": [
-  "[오늘의IR]현대제철ㆍ사피엔반도체ㆍ이엠텍등",
-  "'크래시2',4회만에4.4%-자체최고경신'지금부터'",
-  "계약끝났는데갑자기돈더내라니…45%인상통보에난리난AI서버시...",
-  "\"블랙웰도있어요\"…중국전자상가서'수출금지'엔비디아칩유통",
-  "AI불확실성에뉴욕증시혼조…나스닥0.6%↓",
-  "S&P,엔비디아신용등급강등경고…\"이사회독립성훼손됐을수도\"",
-  "젠슨황복귀놓고트럼프행정부분열…밴스·러트닉과루비오·베선트...",
   "홍콩도사이버보안'비상'…정부티켓예매시스템해킹",
   "한전,정보유출2차피해방지‥최대1천만원보상보험제공",
   "[구리가격]미국신규관세·엔비디아급락에11개월만의최저…11월...",
@@ -6001,13 +5994,16 @@
   "황상준사장'진두지휘'로직개발팀신설…삼성,커스텀HBM·빅테크공략...",
   "[fn이사람]\"숫자너머사람을봐야…경영진역량도투자판단기준\"",
   "화순출신농협임직원,4년째고향사랑기부금'귀감'",
-  "법원이화해를권한다고요?"
+  "법원이화해를권한다고요?",
+  "실행형AI에이전트확산...외부서비스와연동쟁점으로",
+  "[이슈진단+]재난엔소방통신먼저,회사앱은전용망으로...맞춤형5G...",
+  "\"KIA팬들에게마지막인사를못드려서...\"'득점상'최원준,왜'데뷔팀...",
+  "젠지떠난'기인'-'캐니언',한화생명e스포츠서재회!",
+  "한국자산관리공사의정부지사,성금400만원기탁…사랑릴레이동참",
+  "“소득관계없이1인당81만원”,대만전국민에AI보너스",
+  "[속보]최태원,노소영에\"7일내9천440억지급,서로추가소송말자\"제..."
  ],
  "recent_sigs": [
-  [
-   "2026-11-26T12:34:15.425298+09:00",
-   "AMD 3억 NVDA 5일 폭락 700만 매물 폭탄 까지"
-  ],
   [
    "2026-11-26T12:44:15.589901+09:00",
    "역량 모델로 국산 방어 사이버 겨뤄 대회 해킹방어 내달"
@@ -6995,9 +6991,13 @@
   [
    "2026-11-26T18:32:17.736114+09:00",
    "권한다고요 법원이 화해를"
+  ],
+  [
+   "2026-11-26T18:34:22.324729+09:00",
+   "통신 회사 전용망으로 먼저 앱은 재난엔 5G 맞춤형 소방"
   ]
  ],
- "last_run": "2026-11-26T18:32:33.943961+09:00",
+ "last_run": "2026-11-26T18:34:41.801997+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
