@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20261126082726071",
-  "http://kor.theasian.asia/archives/422481",
   "https://www.hankyung.com/article/2026112610286",
   "https://www.etoday.co.kr/news/view/2653092",
   "https://www.fnnews.com/news/202611260808230827",
@@ -2999,11 +2997,11 @@
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4446853",
   "https://imnews.imbc.com/replay/2026/nwdesk/article/6868904_37004.html",
   "http://www.kjdaily.com/article.php?aid=1795693031693720276",
-  "https://www.news2day.co.kr/article/20261126500377"
+  "https://www.news2day.co.kr/article/20261126500377",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865630&plink=ORI&cooper=NAVER",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1545140"
  ],
  "seen_titles": [
-  "넥슨,신작MMORPG'템빨:오버기어드'출시…한국·대만등4개지역공...",
-  "[오늘의신문]코스피6.16%폭락,미국발관세충격…법관탄핵반발확...",
   "삼전닉스실적가를변수…\"中메모리수요줄고美규제강화\"",
   "美반도체,급락딛고0.65%하락으로선방⋯엔비디아4%↓[뉴욕증시무...",
   "\"공매도금지나올까\"…코스피6%폭락다음날,증권가가꼽은'단기처...",
@@ -6001,7 +5999,9 @@
   "[亞증시-종합]기술주반등속日·臺·홍콩↑…중국혼조",
   "\"원장님만나예뻐졌죠\"혹했는데‥의술아니라'댓글케어'?",
   "삼성전자·SK하이닉스거래대금6.2조…21%감소",
-  "美대형미디어USA투데이해킹의혹…사용자정보1억6600만건탈취주..."
+  "美대형미디어USA투데이해킹의혹…사용자정보1억6600만건탈취주...",
+  "[D리포트]성형외과가짜후기8천건적발…중국해킹조직에서사들인...",
+  "미금융범죄단속기관도해킹…일부시스템중단"
  ],
  "recent_sigs": [
   [
@@ -6859,9 +6859,13 @@
   [
    "2026-11-26T20:40:27.315414+09:00",
    "미디어 1억6600만 탈취 사용자 대형 의혹 정보 USA투데이"
+  ],
+  [
+   "2026-11-26T20:44:15.540031+09:00",
+   "중단 시스템 일부 금융범죄 단속기관도"
   ]
  ],
- "last_run": "2026-11-26T20:42:31.317134+09:00",
+ "last_run": "2026-11-26T20:44:37.598749+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
