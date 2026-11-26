@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dongponews.net/news/articleView.html?idxno=61907",
-  "https://www.news1.kr/world/usa-canada/6366218",
-  "https://www.newspim.com/news/view/20261125001299",
-  "https://www.ytn.co.kr/_ln/0102_202611251950224231",
   "https://www.xportsnews.com/article/2223023",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863495&plink=ORI&cooper=NAVER",
   "https://view.asiae.co.kr/article/2026112519545830542",
@@ -2999,13 +2995,13 @@
   "https://m.skyedaily.com/news_view.html?ID=315259",
   "https://sports.khan.co.kr/article/202611261233003?pt=nv",
   "https://zdnet.co.kr/view/?no=20261126115859",
-  "http://www.kjdaily.com/article.php?aid=1795664291693618276"
+  "http://www.kjdaily.com/article.php?aid=1795664291693618276",
+  "https://www.wikitree.co.kr/articles/1177966",
+  "https://www.sentv.co.kr/article/view/sentv202611260112",
+  "http://kor.theasian.asia/archives/423206",
+  "https://www.jasm.co.kr/news/view/326575/?sc=Naver"
  ],
  "seen_titles": [
-  "한국투자저축은행8.6만명개인정보유출",
-  "통합미디어법에방송사전규제완화주문…방미통위\"법안윤곽마련\"",
-  "AI투자의존도커진美경제…\"거품붕괴시닷컴버블보다큰충격\"",
-  "빗썸,해킹피해추가확인…보름동안해킹사실몰랐다",
   "젠슨황살린트럼프,엔비디아에'복귀청구서'내미나",
   "이란전쟁도젠슨황스캔들도…트럼프,입맛따라첩보취사선택",
   "젠슨황복귀에도AI신용시장'빨간불'…코어위브·오라클CDS사상최고",
@@ -6001,7 +5997,11 @@
   "젠슨황복귀,게이밍용GPU생산부터줄였다",
   "똑같이‘7승9패’,5위에몰린네팀…휴식기에어떤반전을?",
   "SKT‘모두의AI’기대감높다...가입자10명중8명\"이용의향\"",
-  "하나에어로·나노팀30%안팎급등…코스닥종목강세"
+  "하나에어로·나노팀30%안팎급등…코스닥종목강세",
+  "한국다이소에는안파나?…일본에서연령불문불티나게팔린다는신박...",
+  "한국첨단솔루션,‘파이버’에엔비디아GPU데이터·AI연동",
+  "[아시아라운드업20261126]\"이란,호르무즈안전통항대가로암호화폐...",
+  "내달'AI해킹방어대회'…국산모델로사이버방어역량겨뤄"
  ],
  "recent_sigs": [
   [
@@ -7067,9 +7067,17 @@
   [
    "2026-11-26T12:34:15.425298+09:00",
    "AMD 3억 NVDA 5일 폭락 700만 매물 폭탄 까지"
+  ],
+  [
+   "2026-11-26T12:44:15.589901+09:00",
+   "역량 모델로 국산 방어 사이버 겨뤄 대회 해킹방어 내달"
+  ],
+  [
+   "2026-11-26T12:44:15.589901+09:00",
+   "호르무즈 이란 암호화폐 안전통항 대가로"
   ]
  ],
- "last_run": "2026-11-26T12:42:35.231135+09:00",
+ "last_run": "2026-11-26T12:44:39.251010+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
