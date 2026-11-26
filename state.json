@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "http://www.ddanzi.com/900356345",
-  "https://www.joongang.co.kr/article/25482044",
-  "https://www.wikitree.co.kr/articles/1177819",
-  "https://www.kado.net/news/articleView.html?idxno=2087308",
-  "https://www.lawissue.co.kr/view.php?ud=202611252347109045204ead0791_12",
-  "https://www.lawissue.co.kr/view.php?ud=202611252330275951f4ab64559d_12",
-  "https://news.bbsi.co.kr/news/articleView.html?idxno=4120959",
   "http://www.technoa.co.kr/news/articleView.html?idxno=101662",
   "http://www.newsbrite.net/news/articleView.html?idxno=201770",
   "https://www.busan.com/view/busan/view.php?code=2026112513174492093",
@@ -2999,16 +2992,16 @@
   "https://www.donga.com/news/Economy/article/all/20261126/135096107/1",
   "https://www.donga.com/news/Economy/article/all/20261126/135097046/1",
   "https://www.newsway.co.kr/news/view?ud=2026112615253625947",
-  "https://www.joongangenews.com/news/articleView.html?idxno=566875"
+  "https://www.joongangenews.com/news/articleView.html?idxno=566875",
+  "https://www.boannews.com/news/articleView.html?idxno=147450",
+  "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160286771250044",
+  "http://www.the-biz.co.kr/news/articleView.html?idxno=732225",
+  "https://www.newspim.com/news/view/20261126001177",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611260133&t=NN",
+  "https://news.tf.co.kr/read/ptoday/2393927.htm",
+  "https://www.ppss.kr/news/articleView.html?idxno=323215"
  ],
  "seen_titles": [
-  "“세금돌려막기”…공공기관정보유출과징금,나랏돈으로낸다",
-  "FBI·CIA이어FinCEN도뚫렸다…드림시큐리티·라온시큐어투자자들'시...",
-  "“수익300%보장”조폭끼고스포츠베팅사기44명덜미",
-  "11월25일모닝뉴스헤드라인",
-  "듄으로읽는20264:기계를없앤인류는왜구원받지못했나",
-  "[사설]정보문외한국정원장후보자,‘정보전쟁’준비돼있나",
-  "미국현물비트코인ETF11월49억달러순유출…출시이후가장부진한...",
   "\"AI시대,20세기식규제·시스템탈피…서울복사판아닌강원도만의...",
   "더존비즈온,외부전문가중심‘사이버보안·정보보호특별자문위원회...",
   "한전,고객정보유출2차피해방지대책추진",
@@ -6001,7 +5994,14 @@
   "이통3사,내달부터‘5G단독모드’도입…공연장서영상끊김줄인다",
   "LG유플러스,전국시내버스에최신와이파이구축…지역별공공와이파이...",
   "최태원·노소영재산분할다시원점…9년소송장기전불가피",
-  "트럼프,내달4일TSMC美공장증설착공식참석…첨단반도체공급망..."
+  "트럼프,내달4일TSMC美공장증설착공식참석…첨단반도체공급망...",
+  "[2026보안이슈결산-6]사람대신'비인간신원'(NHI)노린해커...API...",
+  "송파구,28일청년센터개관식",
+  "코스피,'퐁당퐁당'흐름지속…6%폭락하루만에'찔끔'반등,4700선회...",
+  "[일본증시]닛케이0.86%반등...AI·반도체주에저가매수유입",
+  "코스피,강보합마감...AI수익성우려'여전'",
+  "이성권\"증안펀드미루는사이증시곤두박질…李자격박탈고민\"",
+  "LG헬로비전·CJENM콘텐츠사용료분쟁극적타결…시청권볼모로한갈..."
  ],
  "recent_sigs": [
   [
@@ -6939,9 +6939,13 @@
   [
    "2026-11-26T16:18:16.819359+09:00",
    "연산시장 수급 하락에 GPU 경계 변화 긴장 임대료"
+  ],
+  [
+   "2026-11-26T16:20:27.225472+09:00",
+   "박탈 이성권 사이 증시 자격 고민 곤두박질 증안펀드 미루는"
   ]
  ],
- "last_run": "2026-11-26T16:18:38.746347+09:00",
+ "last_run": "2026-11-26T16:20:47.893956+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
