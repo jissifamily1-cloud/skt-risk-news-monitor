@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "http://www.smedaily.co.kr/news/articleView.html?idxno=366634",
-  "https://zdnet.co.kr/view/?no=20261125195833",
   "https://www.kyeonggi.com/article/20261126580153",
   "https://www.newsis.com/view/NISX20261126_0003884468",
   "https://www.dailian.co.kr/news/view/1720055/?sc=Naver",
@@ -2999,11 +2997,11 @@
   "https://www.economytalk.kr/news/articleView.html?idxno=425573",
   "https://www.mt.co.kr/world/2026/11/27/2026112704311972226",
   "https://www.aitimes.com/news/articleView.html?idxno=217838",
-  "https://www.yna.co.kr/view/AKR20261127004500091?input=1195m"
+  "https://www.yna.co.kr/view/AKR20261127004500091?input=1195m",
+  "https://www.bntnews.co.kr/article/view/bnt202611270012",
+  "https://www.newspim.com/news/view/20261127000037"
  ],
  "seen_titles": [
-  "YTN\"반복적제재처분에행정소송등법적대응\"",
-  "'괜찮다'vs'어둡다'…혼돈의AI",
   "한국IT서비스학회'2026추계학술대회'성료...150편이상연구사례발...",
   "KT-에브리포터블,보조배터리대여인프라확대MOU",
   "경계넘어스미는빛의파동…에이엔,내년1월첫싱글'텔레파시'",
@@ -6001,7 +5999,9 @@
   "[현장]\"외국인겨냥'K명소'전략\"…스타벅스'더남산서울타워점'스페...",
   "\"1%라도빌려주면안팔아\"…엔비디아판매상,中연결클라우드손절",
   "Z.ai'GLM-5.5'출시지연…문샷AI도개발주기두배전망",
-  "엔비디아칩대량구매실리콘밸리업체2곳…알고보니中소유"
+  "엔비디아칩대량구매실리콘밸리업체2곳…알고보니中소유",
+  "젠슨황복귀에중국·대만열광…반도체규제는강화",
+  "엔비디아칩판매사들,中에연산력임대하는네오클라우드엔공급중단..."
  ],
  "recent_sigs": [
   [
@@ -6175,9 +6175,13 @@
   [
    "2026-11-27T06:26:14.889143+09:00",
    "보니 알고 2곳 엔비디아칩 소유 대량구매 업체 실리콘밸리"
+  ],
+  [
+   "2026-11-27T06:28:17.077937+09:00",
+   "임대하는 네오클라우드엔 공급 연산력 중단 판매사들"
   ]
  ],
- "last_run": "2026-11-27T06:26:33.776180+09:00",
+ "last_run": "2026-11-27T06:28:33.415887+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
