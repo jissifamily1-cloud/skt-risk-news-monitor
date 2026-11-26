@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.heraldcorp.com/article/10949288",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209736",
-  "https://www.m-i.kr/news/articleView.html?idxno=2022305",
-  "https://kpenews.com/View.aspx?No=4329228",
-  "https://www.donga.com/news/Economy/article/all/20261125/135089093/1",
-  "https://www.kukinews.com/article/view/kuk202611250183",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508038",
-  "https://www.ytn.co.kr/_ln/0102_202611251629371463",
   "https://www.econovill.com/news/articleView.html?idxno=758497",
   "https://www.newspim.com/news/view/20261124001114",
   "https://www.hankookilbo.com/news/article/A2026112515570005850?did=NA",
@@ -2999,17 +2991,17 @@
   "https://www.newsis.com/view/NISX20261126_0003883947",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4446628",
   "https://www.newsway.co.kr/news/view?ud=2026112609433495051",
-  "https://www.boannews.com/news/articleView.html?idxno=147547"
+  "https://www.boannews.com/news/articleView.html?idxno=147547",
+  "https://www.bizwork.co.kr/news/articleView.html?idxno=421186",
+  "http://www.samdailbo.com/news/articleView.html?idxno=273177",
+  "https://www.hankyung.com/article/202611261449i",
+  "https://www.etnews.com/20261126000113",
+  "http://www.beyondpost.co.kr/view.php?ud=2026112609434316092aaae0046f_30",
+  "https://www.ytn.co.kr/_ln/0104_202611260947550626",
+  "http://www.hellodd.com/news/articleView.html?idxno=114015",
+  "https://www.edaily.co.kr/News/Read?newsId=02138566645649656&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "앤스로픽AI의리만가설증명1700만줄…수학계는이해에난항",
-  "노소영,화해권고거부…\"진정성있다면취하\"",
-  "트럼프옹호하루만에…\"불륜女,중국에정보넘겼다\"의회보고",
-  "코스피6%대급락에‘5천피’다시반납…‘젠슨황복귀’기대감하...",
-  "日증시덮친AI투자우려…닛케이지수2.78%↓",
-  "한국카드망은AI가결제했는지조차몰라…'피클'사태가드러낸책임...",
-  "대전동부소방서,긴급대응협력관회의ㆍ기관합동도상훈련",
-  "‘원투펀치’빠지고,7명줄부상...마줄스호‘잇몸’으로중동2연전",
   "“AI폭락에화들짝”요즘월가는‘이주식’주목한다…투자매력커...",
   "AI개발에개인정보활용길열린다…개인정보위,안전조치·사전위험...",
   "개보위,한국전력개인정보유출조사착수",
@@ -6001,7 +5993,15 @@
   "ETRI,연구주제부터논문까지자율작성AI'유라'개발…\"연구동반자\"",
   "CJENM·LG헬로비전,콘텐츠사용료협상타결…송출중단위기넘겨",
   "국내외잇단해킹사고에안랩등보안주연일강세[특징주]",
-  "FIFA도뚫렸다...해킹조직데이터공개"
+  "FIFA도뚫렸다...해킹조직데이터공개",
+  "SK에코플랜트,'콘테크미트업데이'서혁신기술7개선정",
+  "제주서글로벌고등교육혁신포럼",
+  "트럼프장남투자기업4곳조사…美민주당,특혜의혹정조준",
+  "어드밴텍,'소프트웨이브2026'서WEDA기반엣지AI생태계공개",
+  "美AI칩규제강화로아시아지역데이터센터대출속속중단...블룸버그...",
+  "IPO3대주모두공모가하회...앤트로픽·스페이스X·SK하이닉스부진",
+  "[조간브리핑]AI데이터센터,이제우주로···스페이스X100만위성시...",
+  "AI에좁아진취업문…학위필요없는일하는美대졸자급증"
  ],
  "recent_sigs": [
   [
@@ -6887,9 +6887,13 @@
   [
    "2026-11-26T09:50:34.555319+09:00",
    "데이터 뚫렸다 FIFA도 공개"
+  ],
+  [
+   "2026-11-26T09:52:15.041889+09:00",
+   "하는 급증 학위 필요 없는 좁아진 대졸자 취업문 AI에"
   ]
  ],
- "last_run": "2026-11-26T09:50:56.232093+09:00",
+ "last_run": "2026-11-26T09:52:34.135263+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
