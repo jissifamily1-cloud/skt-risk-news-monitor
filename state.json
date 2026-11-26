@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/finance/blockchain-fintech/6366147",
-  "https://www.imaeil.com/page/view/2026112517530803982",
-  "https://www.ccdn.co.kr/news/articleView.html?idxno=1113615",
-  "https://www.segye.com/newsView/20261125516143?OutUrl=naver",
-  "https://www.decenter.kr/article/20119037",
-  "https://sjbnews.com/news/news.php?number=893634",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261125184843TFp",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=904463",
   "https://news.jtbc.co.kr/article/NB12329812?influxDiv=NAVER",
   "https://www.kmib.co.kr/article/20261125501826",
   "https://zdnet.co.kr/view/?no=20261125173251",
@@ -2999,17 +2991,17 @@
   "https://www.munhwa.com/article/11634325",
   "https://www.munhwa.com/article/11634329",
   "https://www.ytn.co.kr/_ln/0104_202611261146126046",
-  "http://www.dailypop.kr/news/articleView.html?idxno=104981"
+  "http://www.dailypop.kr/news/articleView.html?idxno=104981",
+  "https://news.bizwatch.co.kr/article/mobile/2026/11/25/0038",
+  "https://www.ddaily.co.kr/page/view/2026112611424513565",
+  "https://www.m-i.kr/news/articleView.html?idxno=2021548",
+  "http://www.ftoday.co.kr/news/articleView.html?idxno=370249",
+  "https://www.m-economynews.com/news/article.html?no=73618",
+  "https://www.hani.co.kr/arti/international/america/1289201.html",
+  "https://www.ytn.co.kr/_ln/0104_202611261148292510",
+  "http://coinreaders.com/273574"
  ],
  "seen_titles": [
-  "[외환-마감]外人주식투매에도'방탄'네고로보합",
-  "젠슨황효과‘1일천하’…AI거품론·트럼프개입이악재로",
-  "[뉴스룸오프닝]어제오른만큼빠졌다/\"첫만남날짜부터오류\"/등...",
-  "권오상서구청장,서구인재육성재단이사회개최...2027년예산안등2건...",
-  "권오상서구청장,직원들과급여끝전기부...카스테라나눔봉사",
-  "[단독]코인거래소'무과실배상책임'예외뒀다…블록체인장애땐면책",
-  "美정보당국\"앨리스황,불륜중정보넘긴건맞아…남편은한때中정...",
-  "한전도뚫렸다...잇단개인정보유출에불안확산",
   "“내년에도‘반도체쏠림’변동성장세불가피…하락장대비현금비중...",
   "“AI시대,블록체인에새성장기회”…신뢰인프라로주목",
   "전북특구,대한항공,HS효성과방위산업육성을위한기술협업이음비즈...",
@@ -6001,7 +5993,15 @@
   "KT클라우드,안산에데이터센터추가구축",
   "李만기친람과무기력정부[뉴스와시각]",
   "\"젠슨황이탈은금리3번인상충격\"...미국경제의민낯",
-  "고용부,'K-뉴딜아카데미'5만명으로…청년일자리지원늘린다"
+  "고용부,'K-뉴딜아카데미'5만명으로…청년일자리지원늘린다",
+  "SKT,고객만족도해킹이전수준…신뢰회복도1위",
+  "출퇴근길인터넷더빨라진다…전국버스'와이파이7'전환",
+  "이통3사알뜰폰자회사점유율50%제한추진…IoT회선제외",
+  "SKT,T팩토리성수서AI기억전시·문화유산트리체험진행",
+  "삼성전자,반도체조직개편단행...미주법인장에윤하룡부사장내정",
+  "젠슨황만이아니었다…엔비디아임원,‘대중국반도체밀수’혐의기...",
+  "\"수사도없이젠슨황불법없다\"...커지는면죄부논란",
+  "빅테크AI자금줄막히나...채권시장\"쓴만큼벌었는지증명하라\""
  ],
  "recent_sigs": [
   [
@@ -7207,9 +7207,13 @@
   [
    "2026-11-26T11:52:17.869357+09:00",
    "경제의 금리 충격 인상 3번 이탈은 젠슨 민낯 미국"
+  ],
+  [
+   "2026-11-26T11:54:16.332499+09:00",
+   "빅테크 막히나 시장 자금줄 증명하라 채권 벌었는지 만큼"
   ]
  ],
- "last_run": "2026-11-26T11:52:39.119914+09:00",
+ "last_run": "2026-11-26T11:54:33.989160+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
