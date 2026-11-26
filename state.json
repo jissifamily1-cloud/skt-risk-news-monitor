@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202611260700001",
-  "https://www.aitimes.com/news/articleView.html?idxno=217759",
-  "https://www.donga.com/news/Inter/article/all/20261126/135092934/1",
-  "https://biz.sbs.co.kr/article_hub/20000348931?division=NAVER",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863988&plink=ORI&cooper=NAVER",
-  "https://www.yna.co.kr/view/AKR20261126009851072?input=1195m",
-  "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288514&CMPT_CD=P0010",
-  "https://www.mk.co.kr/article/12218293",
-  "https://www.newsis.com/view/NISX20261125_0003883161",
-  "https://www.itooza.com/common/iview.php?no=2026112514054353915",
   "https://www.businesspost.co.kr/BP?command=article_view&num=452720",
   "https://www.daejonilbo.com/news/articleView.html?idxno=2316369",
   "https://www.sedaily.com/article/20118944",
@@ -2999,19 +2989,19 @@
   "https://www.sedaily.com/article/20119496",
   "https://www.dailysecu.com/news/articleView.html?idxno=209767",
   "https://www.digitaltoday.co.kr/news/articleView.html?idxno=718456",
-  "https://www.sedaily.com/article/20119497"
+  "https://www.sedaily.com/article/20119497",
+  "https://www.imaeil.com/page/view/2026112616315758808",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3764313",
+  "https://www.the-today.com/news/articleView.html?idxno=94151",
+  "https://www.womaneconomy.co.kr/news/articleView.html?idxno=261624",
+  "https://www.dt.co.kr/article/12097499",
+  "https://www.viva100.com/article/20261126501583",
+  "https://www.sidae.com/article/2026112617073990740",
+  "https://www.sedaily.com/article/20119500",
+  "https://view.asiae.co.kr/article/2026112617325503139",
+  "https://www.newsis.com/view/NISX20261126_0003884878"
  ],
  "seen_titles": [
-  "‘프랑켄슈타인인용’신조어…국제적으로도허위참고문헌큰폭증가",
-  "[11월25일]\"AI의의식,문제는만드는법도막는법도모른다는것\"",
-  "뉴욕증시,AI주투매에도낙폭축소…나스닥0.6%↓",
-  "[증시전략]조사리스크여전,젠슨황복귀이후관전포인트는?",
-  "뉴욕증시,AI투자불확실성에극심한변동장…나스닥0.6%하락",
-  "뉴욕증시,AI투자불안에또롤러코스터…나스닥0.6%↓(종합)",
-  "[손병관의뉴스프레소]중국,억류정보원석방조건으로'대미첩보협...",
-  "매경이전하는세상의지식(매-세-지,11월26일)",
-  "\"사이드카정도론놀라지않아\"…AI發롤러코스터장세언제까지?",
-  "[리스트]SK하이닉스매출328%↑...3Q트리플증가30선",
   "[WhoIs?]김성환한국투자증권대표이사사장",
   "[여백]조선통신사와'외교지능'",
   "젠슨황도못살린투심…한달새반도체레버리지반토막,인도ETF는4...",
@@ -6001,7 +5991,17 @@
   "美‘中우회임대’차단에…블랙웰재판매매물쏟아져",
   "엠클라우독,기업데이터보호위한'백업가이드'와자가점검표공개",
   "삼성전자,반도체조직개편…메모리'개발속도'·시스템LSI'영업력강...",
-  "“엔비디아는하루내고쳐달라는데…주52시간제막혀대응못해”"
+  "“엔비디아는하루내고쳐달라는데…주52시간제막혀대응못해”",
+  "與,각계우려에도'언론4법'소위서단독처리",
+  "iM금융그룹iM사회공헌재단,대구·경북대학생25명에장학금...1인당2...",
+  "中네이멍구,최초4F급국제공항운영개시",
+  "클로드소스코드51만줄유출은'사형선고'···JP모건·CIA사태로커진...",
+  "재능대,‘재정지원사업성과포럼’…혁신·산업·인천잇는‘열린대...",
+  "삼성전자,반도체조직개편⋯시스템LSI마케팅부활·메모리개발직속...",
+  "삼성전자,메모리개발체제일원화…미주법인장윤하룡부사장",
+  "[단독]부실코인업체고객자산강제이전한다",
+  "\"힘들때지지해야진짜친구\"머스크,황복귀날본사방문",
+  "머스크,젠슨황복귀일엔비디아깜짝방문…\"친구는어려울때곁에\""
  ],
  "recent_sigs": [
   [
@@ -6983,9 +6983,13 @@
   [
    "2026-11-26T17:36:16.851459+09:00",
    "개발 영업력 메모리 개편 반도체 속도 시스템LSI 삼성전자"
+  ],
+  [
+   "2026-11-26T17:38:18.348416+09:00",
+   "머스크 깜짝 젠슨 방문 복귀일 친구는 곁에 어려울"
   ]
  ],
- "last_run": "2026-11-26T17:36:35.262428+09:00",
+ "last_run": "2026-11-26T17:38:35.344720+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
