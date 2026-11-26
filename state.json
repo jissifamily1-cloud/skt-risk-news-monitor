@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mk.co.kr/article/12218335",
-  "https://www.sportsseoul.com/news/read/1652274",
-  "https://www.kmaeil.com/news/articleView.html?idxno=659819",
-  "https://www.xportsnews.com/article/2222671",
-  "https://www.aitimes.com/news/articleView.html?idxno=217783",
-  "https://www.mt.co.kr/world/2026/11/25/2026112516080974075",
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/23/2026112350351.html",
-  "https://www.todaykorea.co.kr/news/articleView.html?idxno=409211",
-  "https://www.dt.co.kr/article/12097242",
-  "https://www.sedaily.com/article/20118933",
-  "https://www.dkilbo.com/news/articleView.html?idxno=562168",
   "http://coinreaders.com/273305",
   "https://www.seoulfn.com/news/articleView.html?idxno=643934",
   "https://imnews.imbc.com/news/2026/world/article/6868524_36925.html",
@@ -2999,20 +2988,20 @@
   "https://www.econovill.com/news/articleView.html?idxno=757355",
   "http://www.newsroad.co.kr/news/articleView.html?idxno=68490",
   "https://www.newsis.com/view/NISX20261126_0003884167",
-  "https://www.edaily.co.kr/News/Read?newsId=02361606645649656&mediaCodeNo=257"
+  "https://www.edaily.co.kr/News/Read?newsId=02361606645649656&mediaCodeNo=257",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3762875",
+  "https://www.sedaily.com/article/20119208",
+  "https://sateconomy.co.kr/news/view/1065574206844960",
+  "https://www.fnnews.com/news/202611260918472978",
+  "https://www.todayeconomic.com/news/article.html?no=33000",
+  "https://news.mtn.co.kr/article/2026112609355440901",
+  "https://www.munhwa.com/article/11634271",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16286704",
+  "https://www.sidae.com/article/2026112609332396396",
+  "https://www.newsis.com/view/NISX20261126_0003884092",
+  "https://www.mediaus.co.kr/news/articleView.html?idxno=319190"
  ],
  "seen_titles": [
-  "인젠트,INZENTECM으로'대한민국SW제품품질대상'우수상수상",
-  "의회반발에참모도외면하는“공산당식컴백”[트럼프스톡커]",
-  "[김광석의경제읽어주는남자]데이터센터…반도체다음성장동력",
-  "최태원,대법에화해권고요청…노소영‘거부’",
-  "최태원측,노소영화해권고요청거부에\"진정성의심·취지폄훼유감...",
-  "KT·LG전자,6G데이터업로드용량최대4.9배…피지컬AI시대대비",
-  "[기자24시]젠슨황복귀후삼전닉스의과제",
-  "KT,금감원과AI금융사기예방나서…딥보이스·딥페이크체험",
-  "인천시,아시아최초글로벌양자기술전시·컨퍼런스'IQTKOREA2026'송도...",
-  "네살맞이한'승리의여신:니케',4주년기념앨범'AGF2026'서선보인...",
-  "MS,자체강화학습인프라'로켓'공개…\"외부모델증류없이성능향상...",
   "美\"앨리스황,정보넘긴건맞아…남편이中국가안전부출신\"",
   "개보위,한전152만건정보유출조사착수…한달만에또보안사고",
   "최태원회장,화해권고거절한노소영관장에\"진정성의심착잡\"",
@@ -6001,7 +5990,18 @@
   "[대전환의시대,미래를읽어라]정유신넥스체인지대표\"2027년글로벌...",
   "[로드뷰]젠슨황복귀가뒤흔든美권력구도…트럼프·러트닉vs베선트...",
   "안랩4%·파수AI6%대↑…美정보기관해킹에보안주이틀째강세",
-  "오픈AI\"GPT-6,추론·코드만으로단백질설계\""
+  "오픈AI\"GPT-6,추론·코드만으로단백질설계\"",
+  "도민에겐긴축,공무원성과상여금은78억원…정다운의원\"납득하겠나...",
+  "“폭탄제조법답하면안된다”…日,AI기업에책임묻는다",
+  "미래에셋자산운용,휴머노이드ETF개인순매수5551억원…핵심3종목비...",
+  "軍국방표준법제화\"무기성능극대화부터'청정부품망'까지안보방...",
+  "코인발행허용추진...매출최대10%철퇴",
+  "KT클라우드,안산2AI데이터센터추진…\"110MW공급기반확보\"",
+  "“증시급락은민주당때문…11월3일이겼다면증시호황누렸을것”...",
+  "빗썸,해킹피해추가확인…\"보상진행할것\"",
+  "CJENM-LG헬로,콘텐츠사용료합의",
+  "美정부전산망또해킹…이번엔재무부금융범죄단속기관",
+  "'사추위미구성'연합TV또제재…노조\"노사동수수용하라\""
  ],
  "recent_sigs": [
   [
@@ -7011,9 +7011,17 @@
   [
    "2026-11-26T10:36:16.204896+09:00",
    "GPT 설계 추론 코드만으로 단백질"
+  ],
+  [
+   "2026-11-26T10:38:14.893688+09:00",
+   "재무부 이번엔 금융범죄 단속기관 정부 전산망"
+  ],
+  [
+   "2026-11-26T10:38:14.893688+09:00",
+   "노조 노사동수 수용하라 제재 연합TV 사추위 미구성"
   ]
  ],
- "last_run": "2026-11-26T10:36:30.302486+09:00",
+ "last_run": "2026-11-26T10:38:36.314413+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
