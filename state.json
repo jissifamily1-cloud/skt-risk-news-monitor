@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261125165100530?input=1195m",
-  "https://www.boannews.com/news/articleView.html?idxno=147542",
-  "https://www.fnnews.com/news/202611251807316756",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3762870",
-  "https://www.seoultimes.news/news/article.html?no=2000102707",
-  "https://biz.sbs.co.kr/article_hub/20000348887?division=NAVER",
-  "http://www.yonhapnewstv.co.kr/news/MYH20261125180656jTD",
-  "https://www.greened.kr/news/articleView.html?idxno=355586",
-  "https://www.fnnews.com/news/202611251807447100",
-  "https://biz.sbs.co.kr/article_hub/20000348886?division=NAVER",
-  "https://www.cnbizm.com/news/articleView.html?idxno=322285",
   "https://www.the-today.com/news/articleView.html?idxno=94097",
   "https://www.busan.com/view/busan/view.php?code=2026112518094246312",
   "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000561628",
@@ -2999,20 +2988,20 @@
   "http://www.bokuennews.com/news/article.html?no=287803",
   "https://www.yna.co.kr/view/AKR20261126075600017?input=1195m",
   "https://www.thebigdata.co.kr/view.php?ud=202611261109281020a47484cf8_23",
-  "https://www.sedaily.com/article/20119254"
+  "https://www.sedaily.com/article/20119254",
+  "https://www.newsis.com/view/NISX20261126_0003884259",
+  "https://www.joongang.co.kr/article/25482179",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3763790",
+  "http://www.enewstoday.co.kr/news/articleView.html?idxno=2497433",
+  "https://www.etnews.com/20261126000229",
+  "https://www.yna.co.kr/view/AKR20261126084300003?input=1195m",
+  "https://www.econovill.com/news/articleView.html?idxno=758597",
+  "https://www.delighti.co.kr/news/articleView.html?idxno=125666",
+  "https://www.chosun.com/economy/tech_it/2026/11/26/KRSGDCRXNJFLJLKSWVHCAFIJOY/",
+  "https://www.newsis.com/view/NISX20261126_0003884044",
+  "https://www.yna.co.kr/view/AKR20261126085800054?input=1195m"
  ],
  "seen_titles": [
-  "한투저축은행,8만6433명정보유출…금융권최대규모",
-  "9440억에하루1.3억이자까지…최태원·노소영의엇갈린‘화해’셈법",
-  "[오늘증시]코스피,하루만에6%급락…'젠슨황랠리'반납에외국인...",
-  "방송·OTT경계무너졌는데법은칸막이...통합미디어법시급",
-  "AI인프라비용부담부각…맥못추는‘K소버린AI’ETF",
-  "안전문화우수사례대상에KT…성심당·제주노사민정협최우수상",
-  "더존비즈온해킹에보안기업도유출피해우려...이스트시큐리티유출...",
-  "글로벌AIDC공급난…\"한국에거점유치할기회\"",
-  "추경호대구광역시장,바르게살기운동회원대회참석...회원800여명함...",
-  "크래프톤,독자개발LLM‘라온-1미니’정식버전공개…해외동급모...",
-  "순환금융불씨안꺼진다…도로3천피경고등까지",
   "노소영측,화해권고거부…최태원측\"대승적취지폄훼\"",
   "노소영,최태원'9440억원화해제안'거부…\"진정성있다면상고취하해...",
   "KT·금감원,딥보이스등AI금융사기대응력강화",
@@ -6001,7 +5990,18 @@
   "'제10차식품영양정보민관협의체오픈포럼'개최",
   "\"AI서비스확산에전략물자수출통제제도재정비해야\"",
   "LG유플러스,전국시내버스에최신와이파이구축...대역폭2배확대",
-  "‘MAGA’아니라던머스크,일주일만에트럼프계좌기부"
+  "‘MAGA’아니라던머스크,일주일만에트럼프계좌기부",
+  "사격공기소총유망주8명,독일과학훈련캠프참가",
+  "강남·명동·DDP·홍대잇는다…심야‘반딧불이버스’27일운행",
+  "김석환대전중구의원,동청사사업주민참여예산편성질타…\"의회심...",
+  "성균언론인회,'2026자랑스러운성균언론인상'수상자6명선정",
+  "연구·논문작성모든과정스스로...ETRI,日보다앞선AI에이전트개발",
+  "삼성전자,메모리사업부장직속개발체제로…미주법인장윤하룡",
+  "ktcloud안산에110㎿AI데이터센터캠퍼스꾸린다",
+  "KT알파,취약계층200가구에방한용품·보양식전달",
+  "금가는엔비디아독점생태계…AI기업들,AMD·자체칩으로",
+  "트럼프행정부,젠슨황복귀두고분열…트럼프·밴스vs루비오·베선...",
+  "광주도시철도2호선사업비또늘듯…최대3조5천억전망"
  ],
  "recent_sigs": [
   [
@@ -7167,9 +7167,17 @@
   [
    "2026-11-26T11:24:14.967032+09:00",
    "화해 노소영이 속내 고개 카드 저은"
+  ],
+  [
+   "2026-11-26T11:28:15.554196+09:00",
+   "3조5천억 늘듯 2호선 도시철도 전망 사업비 광주"
+  ],
+  [
+   "2026-11-26T11:28:15.554196+09:00",
+   "독점 칩으로 금가는 AMD 자체 생태계 AI기업들"
   ]
  ],
- "last_run": "2026-11-26T11:26:32.873796+09:00",
+ "last_run": "2026-11-26T11:28:38.179415+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
