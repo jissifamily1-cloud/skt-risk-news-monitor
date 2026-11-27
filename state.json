@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.viva100.com/article/20261127500053",
-  "https://www.nextdaily.co.kr/news/articleView.html?idxno=255395",
   "https://www.imaeil.com/page/view/2026112614380624990",
   "https://www.g-enews.com/view.php?ud=202611270914267118923c501012_1",
   "https://biz.chosun.com/science-chosun/science/2026/11/26/KYBONSKNNBEQNGT4R3EGC73PYM/",
@@ -2999,11 +2997,11 @@
   "https://www.kyeonggi.com/article/20261128580003",
   "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509079",
   "https://www.news2day.co.kr/article/20261128500004",
-  "https://www.newsian.co.kr/news/articleView.html?idxno=102185"
+  "https://www.newsian.co.kr/news/articleView.html?idxno=102185",
+  "https://www.gametoc.co.kr/news/articleView.html?idxno=113489",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509081"
  ],
  "seen_titles": [
-  "영남이공대,AI로심야교통사각지대해법제시···전국대학경진대...",
-  "삼성바이오에피스,中오픈이노베이션확대⋯‘이노타테라퓨틱스’선...",
   "아모레퍼시픽,제3회'바이브코딩해커톤'개최…현업구성원이AI로업...",
   "OpenAI코딩툴로도청장치개조…직원보석풀려났다",
   "코스피,美증시휴장속저가매수유입…4720선시작",
@@ -6001,7 +5999,9 @@
   "젠슨황부담커지나…‘불륜상대’연계中시설서엔비디아최첨단칩...",
   "AI공포잦아들자반도체주폭발…삼성전자·SK하이닉스도본격반등'신...",
   "외국인반도체'팔자'지속…기관은LG엔솔,개인은삼성전자담았다",
-  "[월드프리즘]\"천재는법위에있다\"…가디언\"트럼프,젠슨황구하려..."
+  "[월드프리즘]\"천재는법위에있다\"…가디언\"트럼프,젠슨황구하려...",
+  "올해개인정보유출1019건...개인정보위,점검지원체계가동",
+  "중국데이터센터서블랙웰72개발견…SK하이닉스·삼성전자에기회일까..."
  ],
  "recent_sigs": [
   [
@@ -6179,9 +6179,13 @@
   [
    "2026-11-28T06:52:22.717130+09:00",
    "있다 가디언 젠슨 위에 트럼프 구하려 천재는"
+  ],
+  [
+   "2026-11-28T06:56:19.481062+09:00",
+   "SK하이닉스 기회일까 발견 블랙웰 데이터센터서 72개 중국 삼성전자에"
   ]
  ],
- "last_run": "2026-11-28T06:54:29.343593+09:00",
+ "last_run": "2026-11-28T06:56:39.194233+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
