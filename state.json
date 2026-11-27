@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "http://www.srtimes.kr/news/articleView.html?idxno=218752",
-  "https://weekly.chosun.com/news/articleView.html?idxno=60117",
-  "https://www.ddaily.co.kr/page/view/2026112616174599651",
-  "https://www.hani.co.kr/arti/economy/it/1289297.html",
   "https://weekly.chosun.com/news/articleView.html?idxno=60125",
   "https://www.sedaily.com/article/20119483",
   "https://www.aitimes.com/news/articleView.html?idxno=217835",
@@ -2999,13 +2995,13 @@
   "https://www.newsmap.co.kr/news/articleView.html?idxno=5918",
   "https://www.cwn.kr/news/articleView.html?idxno=62782",
   "https://www.nocutnews.co.kr/news/6613665",
-  "https://www.viva100.com/article/20261127500336"
+  "https://www.viva100.com/article/20261127500336",
+  "http://www.4th.kr/news/articleView.html?idxno=2122842",
+  "https://www.nocutnews.co.kr/news/6613666",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=141184",
+  "https://news.jtbc.co.kr/article/NB12330150?influxDiv=NAVER"
  ],
  "seen_titles": [
-  "어드밴텍,로봇·피지컬AI용통합카메라솔루션'유니캠'출시",
-  "박종복전SC제일은행장,제16대은행연합회장선출…12월1일취임",
-  "주진우\"강금실,대놓고북한편들어왔다…국정원장과상극\"",
-  "인핸스,국방정보본부AI자문기업위촉…데이터표준화·기술지원",
   "7년만에나온‘진짜5G’…통신사들뒤늦은투자에내년말‘모두의...",
   "\"칩이바닥날때지지해야진정한친구\"…젠슨황복귀첫날찾아간머...",
   "엔비디아신용강등위기…S&P“젠슨황에지나친의존”",
@@ -6001,7 +5997,11 @@
   "기술검증넘어사업화로…KT,중소벤처와AX혁신가속",
   "과기공제회,개인정보16종유출'회원피해우려'...사칭주의당부",
   "논술장엔앞치마,홈플러스엔휴업안내문[노컷한컷]",
-  "靑,해킹2차피해차단위해금융당국긴급대응회의개최"
+  "靑,해킹2차피해차단위해금융당국긴급대응회의개최",
+  "삼성바이오에피스,中바이오벤처와차세대신약개발협력",
+  "하정우\"中'한국과EU는쓰지마'…AI주권키워야큰소리쳐\"",
+  "한국투자저축은행,개인정보8만6611명유출…긴급보안조치에도추가...",
+  "연합뉴스TV·YTN,방미통위'승인유효기간단축'처분에행정소송"
  ],
  "recent_sigs": [
   [
@@ -6943,9 +6943,13 @@
   [
    "2026-11-27T12:30:39.392293+09:00",
    "홈플러스엔 앞치마 안내문 논술장엔 휴업"
+  ],
+  [
+   "2026-11-27T12:32:15.921266+09:00",
+   "YTN 연합뉴스TV 유효기간 승인 처분에 단축 행정소송"
   ]
  ],
- "last_run": "2026-11-27T12:30:55.546190+09:00",
+ "last_run": "2026-11-27T12:32:32.039365+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
