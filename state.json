@@ -1,13 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01741686645649656&mediaCodeNo=257",
-  "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065565454686118",
-  "https://www.edaily.co.kr/News/Read?newsId=01610486645649656&mediaCodeNo=257",
-  "https://www.seoulfn.com/news/articleView.html?idxno=643949",
-  "https://www.newspim.com/news/view/20261126000034",
-  "https://www.seoul.co.kr/news/economy/2026/11/26/20261126500001?wlog_tag3=naver",
-  "https://www.g-enews.com/view.php?ud=202611260354476133e7e8286d56_1",
-  "https://www.g-enews.com/view.php?ud=202611252158004749a1f309431_1",
   "https://www.g-enews.com/view.php?ud=2026112520443742159a1f309431_1",
   "https://www.chosun.com/economy/tech_it/2026/11/26/DFMTG4U2ZJDPJELAPIOBMIRXVQ/",
   "https://www.chosun.com/economy/tech_it/2026/11/26/JVE7WLJBRBCZVF6CIT3SYSDQNU/",
@@ -2999,17 +2991,17 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3765663",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724746",
   "https://view.asiae.co.kr/article/2026112719550978535",
-  "https://www.aflnews.co.kr/news/articleView.html?idxno=332538"
+  "https://www.aflnews.co.kr/news/articleView.html?idxno=332538",
+  "https://www.topstarnews.net/news/articleView.html?idxno=16288078",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3765668",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3765667",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865611&plink=ORI&cooper=NAVER",
+  "https://www.g-enews.com/view.php?ud=202611271929198047fbbec65dfb_1",
+  "http://www.yonhapnewstv.co.kr/news/AKR20261127195844y7D",
+  "https://www.segye.com/newsView/20261127513265?OutUrl=naver",
+  "https://www.hankookilbo.com/news/article/A2026112719120001414?did=NA"
  ],
  "seen_titles": [
-  "앤트로픽935억달러IPO가비트코인발목잡았다?…\"결국다시돌아올...",
-  "AI불안속美증시혼조마감…관세·긴축부담여전[뉴스새벽배송]",
-  "[개장전체크]뉴욕증시,장초반AI투매딛고낙폭축소…다우0.33%↑...",
-  "같은회사서\"공매도하라\"vs\"92달러\"…앤스로픽정반대전망",
-  "[뉴욕증시]AI'깔딱고개'넘었다,투매진정'전약후강'···나스닥4.6...",
-  "젠슨황복귀로재조명되는美개방형AI전략",
-  "“두주식에‘몰빵’했다가3억잃어”…눈물흘린전문가“삼전·하...",
-  "AI반도체주급락,키옥시아80%추락에반대매매공포",
   "앤스로픽공모물량확대역풍…오픈AI상장에도부담",
   "앤스로픽공모가하회에도월가목표가150달러…투자판단엇갈려",
   "기업들‘스몰AI’로비용줄여…빅테크도AI모델자동배분경쟁",
@@ -6001,7 +5993,15 @@
   "김선옥대전중구의원\"농식품바우처예산42.6%못썼다\"…이용불편점...",
   "전북은행상대해킹공격…고객등460여명정보유출",
   "이나인페이,해킹으로25억피해…금감원점검착수",
-  "한국청과,제철과일기부로보건복지부장관상"
+  "한국청과,제철과일기부로보건복지부장관상",
+  "농구월드컵아시아예선,현재순위→남은일정?",
+  "정종훈대전중구의원\"지역상권은경제의실핏줄\"…맞춤형지원정책촉...",
+  "충남문화관광재단,경서와서부내륙권브랜드음원발매",
+  "[AFTER8NEWS]167년난제까지AI가?수학계또'발칵'…인간수학자의시...",
+  "美수출통제에맞춤형HBM설계꺼낸화웨이…삼성·SK양산벽넘을까",
+  "유럽1위소프트웨어업체SAP보안사고…\"AI해킹의심\"",
+  "국내1호소액해외송금업체이나인페이,25억원해킹피해…금감원현...",
+  "경찰,'민원사주'혐의류희림전방심위원장공소청송치"
  ],
  "recent_sigs": [
   [
@@ -6623,9 +6623,13 @@
   [
    "2026-11-27T19:58:17.072040+09:00",
    "보건복지부 장관상 제철과일 한국청과 기부로"
+  ],
+  [
+   "2026-11-27T20:00:51.831816+09:00",
+   "혐의 공소청 사주 송치 민원 경찰 류희림 방심위원장"
   ]
  ],
- "last_run": "2026-11-27T19:58:36.646253+09:00",
+ "last_run": "2026-11-27T20:01:08.769780+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
