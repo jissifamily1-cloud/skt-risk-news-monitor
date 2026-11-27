@@ -1,16 +1,5 @@
 {
  "seen_urls": [
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022048",
-  "https://www.sportsseoul.com/news/read/1652487",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3764035",
-  "https://zdnet.co.kr/view/?no=20261126125426",
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001924",
-  "https://www.yna.co.kr/view/AKR20261126123600009?input=1195m",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008864662&plink=ORI&cooper=NAVER",
-  "https://www.etnews.com/20261126000364",
-  "https://www.asiatime.co.kr/article/20261126500319",
-  "https://www.xportsnews.com/article/2223314",
-  "https://www.spotvnews.co.kr/news/articleView.html?idxno=1022050",
   "http://www.stoo.com/article.php?aid=110100372038",
   "https://www.xportsnews.com/article/2223311",
   "https://www.starnewskorea.com/sports/2026/11/26/2026112614265355209",
@@ -2999,20 +2988,20 @@
   "https://dealsite.co.kr/articles/173500",
   "https://news.mtn.co.kr/article/2026112708455432794",
   "https://www.financialpost.co.kr/news/articleView.html?idxno=303575",
-  "https://www.globale.co.kr/news/articleView.html?idxno=41879"
+  "https://www.globale.co.kr/news/articleView.html?idxno=41879",
+  "https://www.news1.kr/it-science/cc-newmedia/6367903",
+  "https://isplus.com/article/view/isp202611260202",
+  "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005971519",
+  "http://www.inews24.com/view/2030808",
+  "https://www.etnews.com/20261127000029",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446881",
+  "https://www.mt.co.kr/world/2026/11/27/2026112708421139529",
+  "https://www.bloter.net/news/articleView.html?idxno=679820",
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508702",
+  "https://www.jnilbo.com/news/articleView.html?idxno=90000087126",
+  "https://weekly.chosun.com/news/articleView.html?idxno=60140"
  ],
  "seen_titles": [
-  "[KBO시상식]'韓홀드왕찍고일본으로'KT스기모토,\"한국야구생활...",
-  "[포토S]스기모토,'홀드상수상했어요'",
-  "[포토]KT스기모토,홀드상수상",
-  "세종충남대병원,신규간호사성장격려…자부심·소속감높여",
-  "정의선,내부'믿을맨'전진배치…외부영입인재는시험대",
-  "삼성,메모리개발체제일원화…미주법인장에윤하룡부사장",
-  "트럼프,내달4일TSMC애리조나공장증설착공식참석",
-  "[자막뉴스]산골소녀는어떻게'젠슨황'곁을차지했나?…'팜므파탈'...",
-  "국조실,개인정보잇단유출한전에공직복무점검검토…“위반시일...",
-  "'진짜5G'시대온다…이통3사,SA전국망상용화",
-  "소형준'뜻깊은수상'[포토]",
   "[포토S]승률상수상한소형준",
   "[ST포토]소형준,2026KBO승률상수상",
   "소형준'승률상수상'[포토]",
@@ -6001,7 +5990,18 @@
   "[정재헌SKT취임1년]통신본업집중…고객이탈줄고신뢰회복세",
   "LG유플러스,현대차·기아와'5G단독모드'기반로봇통신실증",
   "[통신픽]LG유플러스,현대차·기아와손잡고'피지컬AI'통신기술실...",
-  "빗썸해킹피해당초7,159명넘어···해커,보름간사내시스템무단..."
+  "빗썸해킹피해당초7,159명넘어···해커,보름간사내시스템무단...",
+  "로봇움직임제어에5GSA전용망…LGU+·현대차기술실증",
+  "\"인생에한번뿐\"시상식위해도쿄에서건너온남자,구자욱과투샷...",
+  "메모리가격상승의나비효과…미국스마트폰출하량9%'뚝'",
+  "이통3사,12월1일5G단독모드상용화...과기정통부\"통신서비스혁신...",
+  "디에스앤지,차세대AI데이터센터구축전략제시…글로벌기술협력...",
+  "서학개미가골라담은다섯종목…공통점은널뛰는주가",
+  "도이치뱅크\"기술주곧바닥찾을것…내년S&P500지수9000간다\"",
+  "SKT·KT·LGU+,'5GSA'시대연다…맞춤형서비스로승부",
+  "KT,'산리오캐릭터즈키즈폰'출시…출고가45만1000원",
+  "일주일새8%넘게떨어진코스피…반등가를변수는",
+  "AI거품이라던'빅쇼트'주인공의변심…엔비디아상승에돈걸었다"
  ],
  "recent_sigs": [
   [
@@ -6543,9 +6543,21 @@
   [
    "2026-11-27T09:04:14.944811+09:00",
    "빗썸 넘어 해커 보름간 무단 159명 당초 사내 시스템 피해"
+  ],
+  [
+   "2026-11-27T09:06:15.478402+09:00",
+   "~LGU 시대 SA LGU 승부 5G 서비스로 ~SKT ~KT 연다 맞춤형"
+  ],
+  [
+   "2026-11-27T09:06:15.478402+09:00",
+   "주인공의 빅쇼트 거품이라던 걸었다 상승에 변심"
+  ],
+  [
+   "2026-11-27T09:06:15.478402+09:00",
+   "떨어진 코스피 일주일 넘게 반등 변수는 가를"
   ]
  ],
- "last_run": "2026-11-27T09:04:36.607241+09:00",
+ "last_run": "2026-11-27T09:06:39.392754+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
