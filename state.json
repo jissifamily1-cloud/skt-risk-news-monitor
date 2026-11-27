@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "https://news.ifm.kr/news/articleView.html?idxno=485661",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3764918",
-  "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1172194",
-  "https://www.newspim.com/news/view/20261127000198",
-  "https://www.ebn.co.kr/news/articleView.html?idxno=1733127",
   "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010686",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008866243&plink=ORI&cooper=NAVER",
   "https://www.sedaily.com/article/20119701",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20261128018700091?input=1195m",
   "https://www.imaeil.com/page/view/2026112807410133612",
   "https://www.joongang.co.kr/article/25482754",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509110"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=509110",
+  "https://www.insight.co.kr/news/583931",
+  "http://www.choicenews.co.kr/news/articleView.html?idxno=173578",
+  "https://biz.heraldcorp.com/article/10952351",
+  "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000562043",
+  "https://www.namdonews.com/news/articleView.html?idxno=930684"
  ],
  "seen_titles": [
-  "\"주심이술에취했다!\"초유의'음주판정'논란...해당심판,의혹에정...",
-  "[경기도노동이야기⑳]계약서엔프리랜서,현실은노동자…'근로자추...",
-  "김대권수성구청장,메트로안과이웃돕기성금1000만원기탁받아",
-  "삼성에피스중국서기술발굴…차세대항암협력확대",
-  "국민연금최대출자3510억펀드,美퀀티넘부터코스닥소부장·바이오...",
   "지마켓·알리익스프레스,고객정보별도관리…개보위\"위탁업무감독...",
   "엔비디아,동남아4개국서버선적중단…중국AI개발지연·미국기술...",
   "\"역사의일부\"…젠슨황복귀에'엔비디아발상지'함께복귀",
@@ -6001,7 +5996,12 @@
   "美블랙프라이데이대목에도…AI쇼핑에이전트는아직'찬바람'",
   "인터넷우체국해킹,이름·주소·전화번호털렸다…하루치만11만명↑",
   "앨리스황연계中데이터센터에엔비디아최첨단칩설치",
-  "엔비디아신용등급흔들리고화웨이HBM추격…삼성전자·SK하이닉스위..."
+  "엔비디아신용등급흔들리고화웨이HBM추격…삼성전자·SK하이닉스위...",
+  "'손나은동생'손새은,LG임찬규와12월결혼...다듀콘서트서무릎꿇...",
+  "영업비밀소송맞불…이번엔오픈AI가애플때렸다",
+  "‘젠슨황의그녀’연관中기업서버에엔비디아블랙웰버젓이탑재",
+  "인터넷우체국해킹으로개인정보유출…하루치만11.3만명",
+  "[뉴스분석]은행·한전이어우체국까지뚫렸다…개인정보해킹전방위..."
  ],
  "recent_sigs": [
   [
@@ -6311,9 +6311,17 @@
   [
    "2026-11-28T08:46:18.979758+09:00",
    "SK하이닉스 흔들리고 추격 신용등급 HBM 화웨이 삼성전자"
+  ],
+  [
+   "2026-11-28T08:48:15.265487+09:00",
+   "버젓이 서버에 블랙웰 탑재 기업 젠슨황의 연관 그녀"
+  ],
+  [
+   "2026-11-28T08:48:15.265487+09:00",
+   "은행 이어 뚫렸다 한전 우체국까지 전방위 개인정보"
   ]
  ],
- "last_run": "2026-11-28T08:46:38.631630+09:00",
+ "last_run": "2026-11-28T08:48:36.900950+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
