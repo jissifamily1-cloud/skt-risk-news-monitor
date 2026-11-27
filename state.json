@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/it-science/security-hacking/6367496",
-  "https://biz.sbs.co.kr/article_hub/20000349221?division=NAVER",
-  "https://www.donga.com/news/Society/article/all/20261126/135090521/2",
-  "https://www.bloter.net/news/articleView.html?idxno=679839",
   "https://www.wikitree.co.kr/articles/1178172",
   "https://www.venturesquare.net/1132084/",
   "https://www.joongang.co.kr/article/25482412",
@@ -2999,13 +2995,13 @@
   "https://www.hankyung.com/article/2026112752821",
   "https://www.thebigdata.co.kr/view.php?ud=2026112716322141590a47484cf8_23",
   "http://www.newskr.kr/news/articleView.html?idxno=108380",
-  "https://www.e-science.co.kr/news/articleView.html?idxno=140909"
+  "https://www.e-science.co.kr/news/articleView.html?idxno=140909",
+  "https://www.hani.co.kr/arti/international/asiapacific/1289473.html",
+  "https://www.mt.co.kr/industry/2026/11/27/2026112715181238783",
+  "https://www.donga.com/news/Economy/article/all/20261127/135104828/1",
+  "https://www.ytn.co.kr/_ln/0102_202611271659009357"
  ],
  "seen_titles": [
-  "[현장+]인바디\"오픈이노베이션연내마무리···선정기업과협업AX...",
-  "정상프로그램믿었는데악성코드…SW공급망공격우려확산",
-  "[글로벌비즈브리핑]中화웨이,'삼전닉스'정조준…\"차세대HBM공개...",
-  "지역기업이원하는수소에너지인재양성…산학협력본격화하는우석...",
   "\"화웨이,삼성·SK하이닉스추월노리고차세대HBM개발\"",
   "코덱스쓴아마추어천문학자,NASA자료서외계행성후보찾았지만확...",
   "디캠프,지역실증에서공공시장진출까지…스타트업7개사사업화가능...",
@@ -6001,7 +5997,11 @@
   "인증컨설팅만1억…中企울리는'보안규제'",
   "KT,무선사업정체에1위SKT와격차더벌어졌다...\"내년반등기대\"",
   "코스닥8.13%급등에'매수사이드카'발동",
-  "KT,중소·벤처기업신기술사업화지원확대…AI기반협력성과공유"
+  "KT,중소·벤처기업신기술사업화지원확대…AI기반협력성과공유",
+  "대만수도타이베이쟁탈전,차세대간판맞붙었다",
+  "디에스앤지,차세대AI인프라다룬'이노베이션데이2026'개최",
+  "LG유플러스,현대차·기아배송로봇에‘5G단독모드’적용…안정적통...",
+  "전문가도울린증시...30조'삼성추경'효과는?[이슈ON]"
  ],
  "recent_sigs": [
   [
@@ -6731,9 +6731,13 @@
   [
    "2026-11-27T17:14:16.364453+09:00",
    "1위 내년 ~SKT 벌어졌다 정체에 무선사업 반등 ~KT 기대 SKT와 격차"
+  ],
+  [
+   "2026-11-27T17:16:16.271072+09:00",
+   "증시 울린 30조 전문가도 삼성 효과는 추경"
   ]
  ],
- "last_run": "2026-11-27T17:14:32.326070+09:00",
+ "last_run": "2026-11-27T17:16:32.375665+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
