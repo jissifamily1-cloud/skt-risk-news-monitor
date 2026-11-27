@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.yna.co.kr/view/AKR20261126132100005?input=1195m",
-  "https://news.ifm.kr/news/articleView.html?idxno=485681",
-  "https://www.edaily.co.kr/News/Read?newsId=01610486645649984&mediaCodeNo=257",
   "https://www.seoulfn.com/news/articleView.html?idxno=644115",
   "https://www.fnnews.com/news/202611270915106229",
   "https://www.ekn.kr/web/view.php?key=20261127025505611",
@@ -2999,12 +2996,12 @@
   "https://www.newspim.com/news/view/20261127000716",
   "https://www.ikbc.co.kr/article/view/kbc202611280004",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4447036",
-  "https://www.newspim.com/news/view/20261127000719"
+  "https://www.newspim.com/news/view/20261127000719",
+  "http://www.opinionnews.co.kr/news/articleView.html?idxno=147628",
+  "https://www.dt.co.kr/article/12097572",
+  "https://www.sentv.co.kr/article/view/sentv202611280002"
  ],
  "seen_titles": [
-  "수협은행까지덮친해킹…피해은행5곳으로확대",
-  "[방송소식]중화TV,中드라마'양경십오일'한중동시공개",
-  "KT새노조,박윤영사장에\"구조조정인사회귀멈춰라\"…노사유착의혹...",
   "반도체자회사찾은알리바바마윈,AI칩자립의지보였다",
   "CJ올리브영업무시스템해킹···임직원·고객790명개인정보유출",
   "Sh수협은행도뚫렸다,해킹으로고객54명정보유출...\"대출·신용정보...",
@@ -6001,7 +5998,10 @@
   "[GAM]디지털오션10년래최대성장①AI추론앞세워클라우드전성기",
   "\"인터넷우체국도털렸다\"…하루치만11만여명개인정보유출",
   "[다음주재정경제부등경제부처일정]",
-  "[GAM]디지털오션10년래최대성장②AI매출4배폭증'주가3배뛴다'"
+  "[GAM]디지털오션10년래최대성장②AI매출4배폭증'주가3배뛴다'",
+  "[오늘의글로벌마켓]뉴욕증시,中증시부양의지속기술주반등",
+  "“중,AI미국에격차더벌어져”…칩접속차단에비상",
+  "인터넷우체국해킹…하루치개인정보유출만11만명넘어"
  ],
  "recent_sigs": [
   [
@@ -6275,9 +6275,13 @@
   [
    "2026-11-28T08:04:16.169293+09:00",
    "3배 매출 디지털오션 4배 성장 10년래 뛴다 폭증 주가"
+  ],
+  [
+   "2026-11-28T08:06:16.320646+09:00",
+   "인터넷우체국 넘어 11만명 하루치 유출만 개인정보"
   ]
  ],
- "last_run": "2026-11-28T08:04:33.954801+09:00",
+ "last_run": "2026-11-28T08:06:37.316733+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
