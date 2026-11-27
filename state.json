@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.kwnews.co.kr/article/20261126500504",
-  "https://econotimes.com/Intentful-founder-cuts-proposal-preparation-to-hours-using-AI-1780624",
-  "https://www.wikitree.co.kr/articles/1177487",
-  "https://www.apnews.kr/news/articleView.html?idxno=3053494",
-  "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html?partner=naver",
-  "https://www.nytimes.com/2026/11/24/opinion/nvidia-board-jensen-huang-reinstated.html?partner=naver",
-  "https://it.donga.com/110001/",
   "https://www.venturesquare.net/1131135/",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=195195",
   "https://www.cnbizm.com/news/articleView.html?idxno=322518",
@@ -2999,16 +2992,16 @@
   "https://www.getnews.co.kr/news/articleView.html?idxno=888733",
   "https://www.newspim.com/news/view/20261126001359",
   "https://www.m-i.kr/news/articleView.html?idxno=2024497",
-  "https://www.mt.co.kr/world/2026/11/27/2026112716500696604"
+  "https://www.mt.co.kr/world/2026/11/27/2026112716500696604",
+  "http://www.finomy.com/news/articleView.html?idxno=267891",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3765539",
+  "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html?partner=naver",
+  "https://www.wikitree.co.kr/articles/1178153",
+  "https://biz.chosun.com/stock/finance/2026/11/27/VZXSS6YT7RHSRAP77CG7IOGD4E/",
+  "https://www.1conomynews.co.kr/news/articleView.html?idxno=51672",
+  "https://www.thereport.co.kr/news/articleView.html?idxno=93808"
  ],
  "seen_titles": [
-  "GoogleTrendsliststopU.S.,SouthKoreansearchesforNov.26",
-  "‘강원앵커’전국최고A등급…성과금85억지역대학생들에게재투자",
-  "IntentfulfoundercutsproposalpreparationtohoursusingAI",
-  "Inkling2Mini,32GB맥이면Ollama로바로실행…PC는지원안돼",
-  "미래운용,'앤트로픽25%'담은ETF상장…글로벌LLM시장정조준",
-  "HowHuang’sReturnRewroteCorporateAmerica’sRules",
-  "WhytheNvidiaBoardFolded",
   "[위클리AI]오픈AI·구글·마이크로소프트,가격대비성능경쟁본격화",
   "사람이만들고AI가일한다…AWS,20년된클라우드의기본기를다시설...",
   "[운용NOW]삼성자산운용·미래에셋운용·한화자산운용",
@@ -6001,17 +5994,16 @@
   "LCK,2026년뜨거웠던승부의순간사진으로만난다",
   "[미국특징주]머스크,美어린이에스페이스X주식2주씩'통큰선물'...",
   "유료방송가입자5개반기연속감소…IPTV점유율첫60%돌파",
-  "\"젠슨황복귀,내가큰일했다\"트럼프자랑…안보위협'일축'"
+  "\"젠슨황복귀,내가큰일했다\"트럼프자랑…안보위협'일축'",
+  "[2026결산]통신3사,AIDC미래는···울산·부천·파주내년가동채비",
+  "금산군,'달리는국민신문고'운영...생활법률·지적민원도상담",
+  "3ThingsWeLearnedAboutHowanEpsteinFriendBecameBritishAmbassad",
+  "에이전트주문51%차지한메타뮤즈,아마존서막힌결제풀리나…양사...",
+  "금융감독원,이나인페이25억원유출확인…“국내최대규모”",
+  "한국생산성본부,상장사생산성12.7%↑…삼성·SK하이닉스빼면'마이너...",
+  "전체유료방송10만명감소···IPTV만증가"
  ],
  "recent_sigs": [
-  [
-   "2026-11-27T11:26:15.473181+09:00",
-   "석유는 삼전닉스의 주가 남아돌고 역설 반도체는 부족"
-  ],
-  [
-   "2026-11-27T11:26:15.473181+09:00",
-   "잃을것 대체 테슬라 노스트라다무스 가치"
-  ],
   [
    "2026-11-27T11:28:14.816595+09:00",
    "위한 안보 젠슨황 복귀 세계 트럼프 위대한 위협 개입은 아냐"
@@ -6739,9 +6731,13 @@
   [
    "2026-11-27T17:24:16.639281+09:00",
    "5개 점유율 돌파 감소 IPTV 유료방송 연속 반기 가입자"
+  ],
+  [
+   "2026-11-27T17:26:16.730573+09:00",
+   "통신3사 미래는 AIDC 가동 내년 채비 울산 부천 파주"
   ]
  ],
- "last_run": "2026-11-27T17:24:33.689751+09:00",
+ "last_run": "2026-11-27T17:26:35.750838+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
