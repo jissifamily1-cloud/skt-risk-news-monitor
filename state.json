@@ -1,10 +1,5 @@
 {
  "seen_urls": [
-  "http://www.00news.co.kr/news/articleView.html?idxno=108394",
-  "http://www.inews24.com/view/2031011",
-  "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&key=20261127.22015008559",
-  "https://www.nytimes.com/2026/11/26/books/books-holiday-gift-guide.html?partner=naver",
-  "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html?partner=naver",
   "http://www.popcornnews.net/news/articleView.html?idxno=141764",
   "http://www.inews24.com/view/2030996",
   "http://coinreaders.com/273708",
@@ -2999,14 +2994,14 @@
   "https://www.yna.co.kr/view/AKR20261127101800009?input=1195m",
   "https://view.asiae.co.kr/article/2026112618495039848",
   "https://www.newsis.com/view/NISX20261127_0003886337",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270089&t=NN"
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270089&t=NN",
+  "https://www.mediawatch.kr/news/article.html?no=261904",
+  "https://www.etnews.com/20261127000267",
+  "https://news.tf.co.kr/read/national/2394314.htm",
+  "http://www.osen.co.kr/article/G1112915792",
+  "https://www.hellot.net/news/article.html?no=116724"
  ],
  "seen_titles": [
-  "“미인계아닌연애관계”",
-  "['클릭'증시]약발떨어진美관세...아시아증시'무덤덤'",
-  "\"고화질동영상끊김없어\"⋯'와이파이7'버스타보니",
-  "KBO가장빛난별김도영",
-  "OurFavoriteBookstoGiveEveryTypeofReader",
   "BipartisanDesiretoRegulateA.I.FacesObstaclesinCongress",
   "KT클라우드,안산AI데이터센터공급기반확대…110MW규모캠퍼스추...",
   "박윤규NIPA원장\"모두의AI,산업플랫폼으로\"⋯KTX예매등AI에이전...",
@@ -6001,7 +5996,12 @@
   "트럼프\"내정보로는젠슨황전혀문제없어\"",
   "머스크\"美아동에게스페이스X주식2주씩기부\"…24조원규모",
   "금감원,이나인페이해킹사고현장점검…피해규모파악중",
-  "쿠팡사태1년…역대최대과징금에도정보유출은'진행형'"
+  "쿠팡사태1년…역대최대과징금에도정보유출은'진행형'",
+  "[금주의화장품톡톡]CJ,방한외국인소비잡는다…멤버십으로‘입...",
+  "넵튠,BGMI광고운영으로인도애드테크확장...게임트래픽수익화본...",
+  "전북문화관광재단,관광기업73곳육성…상반기매출158억원·일자리...",
+  "대충격“FIFA보안도뻥뚫렸다!”해커들개인정보·기업내부자료탈...",
+  "美,중국AI반도체우회접근차단…엔비디아칩판매업체들새고객물..."
  ],
  "recent_sigs": [
   [
@@ -6851,9 +6851,13 @@
   [
    "2026-11-27T14:38:15.221385+09:00",
    "역대 과징금에도 사태 정보유출은 1년 진행형 쿠팡"
+  ],
+  [
+   "2026-11-27T14:40:25.027134+09:00",
+   "접근 차단 우회 고객 반도체 판매업체들 중국"
   ]
  ],
- "last_run": "2026-11-27T14:38:31.451514+09:00",
+ "last_run": "2026-11-27T14:40:44.927917+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
