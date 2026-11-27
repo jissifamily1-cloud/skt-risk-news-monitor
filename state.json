@@ -1,17 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/finance/2026/11/26/2026112618003425503",
-  "https://www.fnnews.com/news/202611261810202484",
-  "https://kr.aving.net/news/articleView.html?idxno=1817436",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716591",
-  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716561",
-  "https://www.aitimes.com/news/articleView.html?idxno=217542",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611260167&t=NN",
-  "https://www.ilemonde.com/news/articleView.html?idxno=31041",
-  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611240015&t=NN",
-  "https://www.khan.co.kr/article/202611240600081",
-  "https://www.ytn.co.kr/_ln/0102_202611240350376599",
-  "https://www.newsworks.co.kr/news/articleView.html?idxno=904612",
   "https://www.newscj.com/news/articleView.html?idxno=3452455",
   "https://mhnse.com/news/articleView.html?idxno=1712737",
   "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611231618133520105112",
@@ -2999,21 +2987,21 @@
   "http://www.newsprime.co.kr/news/article.html?no=756828",
   "https://www.fortunekorea.co.kr/news/articleView.html?idxno=54897",
   "https://zdnet.co.kr/view/?no=20261127125050",
-  "https://www.segye.com/newsView/20261127507815?OutUrl=naver"
+  "https://www.segye.com/newsView/20261127507815?OutUrl=naver",
+  "http://www.newstomato.com/ReadNews.aspx?no=1322118&inflow=N",
+  "https://zdnet.co.kr/view/?no=20261127140249",
+  "http://www.joseilbo.com/news/news_read.php?uid=580606&class=17",
+  "https://www.mstoday.co.kr/news/articleView.html?idxno=200580",
+  "https://www.aitimes.com/news/articleView.html?idxno=217725",
+  "https://www.aitimes.com/news/articleView.html?idxno=217711",
+  "https://www.aitimes.com/news/articleView.html?idxno=217664",
+  "https://www.aitimes.com/news/articleView.html?idxno=217561",
+  "https://www.tokenpost.kr/news/ai/440505",
+  "https://www.tokenpost.kr/news/ai/440496",
+  "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716641",
+  "https://www.hidomin.com/news/articleView.html?idxno=731333"
  ],
  "seen_titles": [
-  "KT클라우드,안산에60MWAIDC추가추진⋯110MW규모확대",
-  "AI활용추정해킹에수협은행도뚫렸다…피해은행5곳으로",
-  "전화·포털·카톡‘AI비서’3사승부…개인정보·안전성관건",
-  "[판교인터뷰]테스티파이,생성형AIQA플랫폼'베리젠'으로글로벌소...",
-  "\"나는AI의반려견이되고싶지않다\"…샘알트먼,일론머스크의섬뜩...",
-  "\"AI가인류위협\"…전오픈AI연구원,보유지분전액기부선언",
-  "오픈AI\"사이버보안,코딩보다큰사업될것\"…신성장동력육성",
-  "삼성전자,메모리개발체제일원화…시스템LSI영업확대",
-  "비트코인'극단적공포구간'진입⋯21만명강제청산·퇴출",
-  "대형호재?트럼프대통령이직접나섰다|구제된젠슨황,엔비디아제...",
-  "‘에브리씽랠리’→‘에브리씽크래시’,주식·비트코인·금·구리도...",
-  "AI규제·미금리인상,코스피주요변수로부각",
   "최태원회장,노소영관장에\"일주일안에9440억지급…5%지연이자부...",
   "[야구]KIA김도영,2년만에다시KBOMVP수상",
   "'27세'男가수,음주뺑소니→'사망사고'냈다…2심에서도끝내'징역...",
@@ -6001,17 +5989,21 @@
   "씨지인사이드,NH농협은행오픈이노베이션최우수상수상",
   "크리에이터에서캐스터로,레페리가넓히는K-뷰티",
   "류재철LG전자사장\"CES서공개할휴머노이드열심히준비\"",
-  "7년만에찐5G시대개막...SKT·LG유플,SA상용화시작"
+  "7년만에찐5G시대개막...SKT·LG유플,SA상용화시작",
+  "(단독)적자늪빠진대동,부사장3인해임…경영체제재편",
+  "트리포AI,지스타서3D생성기술공개…한국게임시장공략강화",
+  "\"안전관리직원이피지컬AI구현\"…아모레,바이브코딩으로AX가속",
+  "오픈AI,GPT-6.2적용…이미지이해력24%p향상",
+  "오픈AI,챗GPT에'GPT-6.2솔'탑재…지시수행·이미지이해강화",
+  "황복귀에엔비디아직원들환호…머스크·알트먼도환영",
+  "알트먼,메타의딥페이크영상에등장…메타\"정책위반아니다\"",
+  "[11월19일]앤트로픽IPO앞두고오픈AI창업진이던진견제구",
+  "황사임에알트먼공감…CEO복귀지지는유보했다",
+  "오픈AI,독립평가기관4곳과계약…접근·공개조건제시",
+  "오픈AI'GPT-6.2아스트라'혹평확산…창의성도코딩도기대이하",
+  "北해커들,바이낸스서훔친9조7000억원가상자산세탁본격화"
  ],
  "recent_sigs": [
-  [
-   "2026-11-27T08:04:16.561075+09:00",
-   "덕분 트럼프 오르면 내리면 주가 NYT"
-  ],
-  [
-   "2026-11-27T08:04:16.561075+09:00",
-   "GXO 박리다매에서 창고의 계약물류 고마진 진화 모델로 강자"
-  ],
   [
    "2026-11-27T08:06:15.547591+09:00",
    "격차 미중 확대 기술 원격접속 전망 중국의 차단"
@@ -6889,7 +6881,7 @@
    "만에 권용현 1년 승진 체제 보직 정성권 구광모"
   ]
  ],
- "last_run": "2026-11-27T14:02:37.481170+09:00",
+ "last_run": "2026-11-27T14:04:30.061205+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
