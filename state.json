@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.news1.kr/politics/president/6367962",
-  "https://www.news1.kr/world/usa-canada/6367963",
-  "https://www.etnews.com/20261127000041",
   "https://www.ekn.kr/web/view.php?key=20261127028580162",
   "https://www.news1.kr/diplomacy/defense-diplomacy/6367928",
   "https://www.gukjenews.com/news/articleView.html?idxno=3764863",
@@ -2999,12 +2996,12 @@
   "https://www.mt.co.kr/society/2026/11/28/2026112710184733367",
   "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611280001&t=NN",
   "https://www.edaily.co.kr/News/Read?newsId=01302166645650312&mediaCodeNo=257",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867473&plink=ORI&cooper=NAVER"
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867473&plink=ORI&cooper=NAVER",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=55241",
+  "https://www.ytn.co.kr/_ln/0104_202611280619048999",
+  "https://www.mk.co.kr/article/12220586"
  ],
  "seen_titles": [
-  "뉴욕증시,추수감사절휴장…블랙프라이데이소비주목",
-  "靑\"美관세상한15%다행이지만어떻게될지…대응책마련중\"",
-  "\"트럼프,지지율20%대추락시상원서파면될수도\"-美여론조사전문가",
   "우길수아톤대표“AI해킹·양자위협시대,금융보안해법은'검증'”",
   "7년여만열린‘완전체5G’…통신품질에도‘가격표’붙을까",
   "만나보지못한아빠와첫캠핑…AI로되살린순직영웅과의일상",
@@ -6001,7 +5998,10 @@
   "[더차트]서울,세계글로벌AI도시2년째2위…1위는어디?",
   "'너무빠졌나'저가매수에기술주일제히반등…나스닥2.3%↑",
   "“메모리중심으로AI인프라재설계”…파네시아,한국형데이터센터...",
-  "\"엔비디아AI칩중국반입확인…앨리스황연계시설\""
+  "\"엔비디아AI칩중국반입확인…앨리스황연계시설\"",
+  "앤스로픽,공모가밑돈주가와AI회의론넘을까...'증명의시간'돌입",
+  "예년만못한쇼핑대목블랙프라이데이...증시영향",
+  "“중국냄새만풍겨도거래중단”엔비디아결단…中AI독립빨라질까"
  ],
  "recent_sigs": [
   [
@@ -6143,9 +6143,17 @@
   [
    "2026-11-28T06:20:32.326489+09:00",
    "중국 반입 앨리스 연계 시설 확인"
+  ],
+  [
+   "2026-11-28T06:22:16.259140+09:00",
+   "냄새만 빨라질까 거래중단 결단 AI독립 풍겨도 중국"
+  ],
+  [
+   "2026-11-28T06:22:16.259140+09:00",
+   "쇼핑 블랙프라이데이 증시 영향 예년만 못한 대목"
   ]
  ],
- "last_run": "2026-11-28T06:20:51.194492+09:00",
+ "last_run": "2026-11-28T06:22:40.239918+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
