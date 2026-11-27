@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ceoscoredaily.com/page/view/2026112514451749083",
-  "https://www.mk.co.kr/article/12218103",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1428886",
-  "https://www.sidae.com/article/2026112513140320118",
-  "https://www.cstimes.com/news/articleView.html?idxno=729368",
-  "https://www.ddaily.co.kr/page/view/2026112513422198102",
   "https://www.kgnews.co.kr/news/article.html?no=921138",
   "https://www.news1.kr/it-science/cc-newmedia/6365543",
   "https://www.dailian.co.kr/news/view/1719492/?sc=Naver",
@@ -2999,15 +2993,15 @@
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724586",
   "https://biz.chosun.com/it-science/ict/2026/11/27/VR4BOESMJVFYDB7NJSEPU3F7VA/",
   "https://biz.heraldcorp.com/article/10952013",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446982"
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446982",
+  "https://www.greened.kr/news/articleView.html?idxno=355792",
+  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446984",
+  "https://www.yna.co.kr/view/AKR20261127111800089?input=1195m",
+  "https://www.aitimes.com/news/articleView.html?idxno=217869",
+  "https://news.jtbc.co.kr/article/NB12330169?influxDiv=NAVER",
+  "https://news.tf.co.kr/read/economy/2394368.htm"
  ],
  "seen_titles": [
-  "부족한AI데이터센터,韓에는성장동력·균형발전기회된다",
-  "“美는벌써병목,韓AIDC뜬다”…SKTAI연구원“전력망연계·인허가...",
-  "해킹이후엇갈린신뢰도…SKT는회복세,쿠팡은‘최하위’",
-  "해킹5개사소비자조사…SKT'신뢰회복'응답가장많아",
-  "\"AI데이터센터공급,수요의3분의1도못미쳐\"",
-  "SKT,하반기이통3사체감만족도1위…해킹사고이전수준근접",
   "시키지않았는데스스로전화거는AI비서논란…배경훈“AI에이전트전...",
   "보안사고전신뢰되찾았다는응답6~12%…5개사모두대응에‘부정’...",
   "AI연산수요폭증에데이터센터공급난…SKT\"한국에새로운기회\"",
@@ -6001,13 +5995,15 @@
   "일본정부,사이버공격선제대응팀신설…공격징후포착·대응조언",
   "개인정보유출신고벌써작년2배넘어…개인정보위,긴급대응돌입",
   "해남솔라시도국가AI컴퓨팅센터‘이상무’",
-  "국부펀드,사모펀드처럼GP역할…직접투자확대에위험도증가"
+  "국부펀드,사모펀드처럼GP역할…직접투자확대에위험도증가",
+  "[현장+]한미약품,디지털융합의약품전략공개···수면관리'꿀잠닥터...",
+  "[월가톡톡]\"젠슨황을메뉴서뺄수없죠\"…美식당의복귀인사",
+  "中당국,'증시안정의지'강조…이례적장중발표에지수급등",
+  "중국기업,미국법인통해엔비디아첨단AI칩확보…또다른규제허...",
+  "'강남에집하나있었으면'옛말…'공시가상승'압박에영향은[이슈가...",
+  "GS건설해킹사태에자이입주민들대책촉구…공동대응논의"
  ],
  "recent_sigs": [
-  [
-   "2026-11-27T09:36:17.355871+09:00",
-   "근본 소집 금융당국 2차 국가안보실 피해 긴급 방지"
-  ],
   [
    "2026-11-27T09:40:25.149199+09:00",
    "접속 벌어져 미국에 비상 격차 차단에"
@@ -6823,9 +6819,25 @@
   [
    "2026-11-27T15:28:16.250132+09:00",
    "젠슨황 집요한 트럼프의 정보 문제될 없다 감싸기"
+  ],
+  [
+   "2026-11-27T15:38:20.289924+09:00",
+   "미국 첨단 다른 확보 중국 규제 기업 법인"
+  ],
+  [
+   "2026-11-27T15:38:20.289924+09:00",
+   "급등 당국 이례적 강조 장중 발표에 지수 증시 안정 의지"
+  ],
+  [
+   "2026-11-27T15:38:20.289924+09:00",
+   "공시가 상승 있었으면 이슈가 압박에 강남에 영향은 하나 옛말"
+  ],
+  [
+   "2026-11-27T15:38:20.289924+09:00",
+   "논의 대책 GS건설 자이 입주민들 공동 대응 촉구 사태에"
   ]
  ],
- "last_run": "2026-11-27T15:36:30.227497+09:00",
+ "last_run": "2026-11-27T15:38:47.365474+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
