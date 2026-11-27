@@ -1,15 +1,5 @@
 {
  "seen_urls": [
-  "https://www.dailian.co.kr/news/view/1720316/?sc=Naver",
-  "https://www.hani.co.kr/arti/politics/politics_general/1289338.html",
-  "https://www.bloter.net/news/articleView.html?idxno=679834",
-  "https://www.sedaily.com/article/20119586",
-  "http://www.ddanzi.com/900410015",
-  "https://news.einfomax.co.kr/news/articleView.html?idxno=4446501",
-  "https://www.aitimes.com/news/articleView.html?idxno=217724",
-  "https://www.mk.co.kr/article/12219770",
-  "https://daily.hankooki.com/news/articleView.html?idxno=1429582",
-  "http://coinreaders.com/273507",
   "https://news.sbs.co.kr/news/endPage.do?news_id=N1008865645&plink=ORI&cooper=NAVER",
   "https://www.ytn.co.kr/_ln/0103_202611262022593622",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4446853",
@@ -2999,19 +2989,19 @@
   "https://www.segye.com/newsView/20261127506452?OutUrl=naver",
   "https://www.yna.co.kr/view/AKR20261127106100009?input=1195m",
   "https://www.mk.co.kr/article/12220168",
-  "https://www.hankyung.com/article/202611262378r"
+  "https://www.hankyung.com/article/202611262378r",
+  "https://www.namdonews.com/news/articleView.html?idxno=930638",
+  "https://www.dongascience.com/news/view/81112",
+  "https://www.gukjenews.com/news/articleView.html?idxno=3765318",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=410412",
+  "https://www.pressman.kr/news/articleView.html?idxno=104718",
+  "https://www.tgdaily.co.kr/news/articleView.html?idxno=408265",
+  "https://www.mk.co.kr/article/12220171",
+  "https://www.womennews.co.kr/news/articleView.html?idxno=284900",
+  "https://isplus.com/article/view/isp202611270085",
+  "https://view.asiae.co.kr/article/2026112715042066678"
  ],
  "seen_titles": [
-  "올리브영,업무시스템해킹피해…보안조치및신고완료",
-  "삼성전자,DX부문M&A전담조직신설…신사업발굴강화",
-  "허위정보유통언론,최대1년정부광고규제…‘언론4법’문체위소...",
-  "SK바이오팜,단기차입약정50%확대…신약투자·상환부담",
-  "“이제출퇴근길유튜브맘껏”버스·지하철타는직장인희소식…전...",
-  "젠슨황,이웬수야1:남자는왜미인계에털리나",
-  "[월가톡톡]젠슨황사임에사표던진엔비디아직원…\"너무성급했나...",
-  "[11월24일]AI업계,초지능경고넘어개발제한방안까지…미국규제에...",
-  "중국“AI재앙터졌다”…칩우회쇼핑·美모델학습막히자벌어진일",
-  "최태원SK회장,9440억원일주일내지급제안…노소영은반발",
   "[AI예측]‘쌍둥이난제’증명에PvsNP확률7%p뛴13%",
   "[단독]텔레그램서\"건당500원\"…해커손에'한전정보'",
   "부정행위의혹'세무냥이'구속영장신청...\"사회적파급력고려\"",
@@ -6001,7 +5991,17 @@
   "은행연합회장에박종복前SC제일은행장선출…해결해야할과제는",
   "日정부,사이버공격대응팀신설…피해우려기업선제지원",
   "엔비디아AI칩사들인美기업…알고보니中자회사",
-  "[단독]하이닉스간윤풍영사장,'그룹투자·전략통'불러모은다"
+  "[단독]하이닉스간윤풍영사장,'그룹투자·전략통'불러모은다",
+  "'돈먹는하마인가'광주도시철도2호선사업비또늘어난다",
+  "워커린스페이스,KTSAT과'우주AS'협력…퇴역위성실증검토",
+  "대구광역시,국회서복합돔구장조성·운영방안논의...50여명참석",
+  "트리포AI,'지스타2026'서AI기반3D게임제작기술공개…한국사업...",
+  "아모레퍼시픽,직원손으로AI혁신…업무현장에변화확산",
+  "[X파일]부산게임융복합스페이스원점서재검토",
+  "‘AI회의론자’마이클버리의변심?…하락대신반등에베팅",
+  "뉴욕증시,여전한엔비디아우려등에혼조...엔트로픽공모가붕괴",
+  "제로트러스트기반프로세스통제로AI위협선제차단…와이시큐리티...",
+  "상장사생산성12%올랐지만…'반도체'빼면마이너스"
  ],
  "recent_sigs": [
   [
@@ -6859,9 +6859,13 @@
   [
    "2026-11-27T15:04:15.367981+09:00",
    "보니 알고 기업 사들인 자회사"
+  ],
+  [
+   "2026-11-27T15:06:15.193970+09:00",
+   "마이너스 생산성 상장사 반도체 빼면 올랐지만"
   ]
  ],
- "last_run": "2026-11-27T15:04:35.544986+09:00",
+ "last_run": "2026-11-27T15:06:34.342845+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
