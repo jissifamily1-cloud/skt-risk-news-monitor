@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=01813846645649328&mediaCodeNo=257",
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859387&plink=ORI&cooper=NAVER",
-  "https://www.yna.co.kr/view/AKR20261123133200009?input=1195m",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=211867",
   "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495790",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720015",
   "https://biz.sbs.co.kr/article_hub/20000348119?division=NAVER",
@@ -2999,13 +2995,13 @@
   "https://www.koreareport.co.kr/news/articleView.html?idxno=55272",
   "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20261127.99099008931",
   "https://econotimes.com/CZ-Says-Bitcoin-Near-60-000-Is-Favorable-as-AI-Valuations-Draw-Some-Liquidity-1781086",
-  "https://www.newspim.com/news/view/20261127001372"
+  "https://www.newspim.com/news/view/20261127001372",
+  "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270105&t=NN",
+  "https://www.mk.co.kr/article/12214619",
+  "https://www.mt.co.kr/world/2026/11/27/2026112720015243728",
+  "https://www.dailian.co.kr/news/view/1720769/?sc=Naver"
  ],
  "seen_titles": [
-  "뉴욕증시혼조마감...AI반도체주급락나스닥1.48%↓",
-  "AI주급락불똥튄데이터센터…돈빌리기깐깐해졌다",
-  "앤트로픽IPO성공했지만…채권등급은정크본드?",
-  "앤트로픽IPO성공에도채권은정크본드등급예상",
   "[마감시황]코스피,161.42포인트(-3.31%)내린4708.54마감",
   "18년만에꺼낸'증안펀드'카드···어떻게작동할까",
   "[성공예감]AI서사의구심,순환금융위험,코스피반토막,금리상승…...",
@@ -6001,7 +5997,11 @@
   "LG유플러스,현대차그룹로보틱스랩과배송로봇5GSA통신실증",
   "젠슨황퇴출되자기념명판뗐던美식당,다시제자리걸어",
   "CZSaysBitcoinNear$60,000IsFavorableasAIValuationsDrawSomeLiq",
-  "[AI상보]'실바30점'GS칼텍스,흥국생명셧아웃제압...5연승+선두질..."
+  "[AI상보]'실바30점'GS칼텍스,흥국생명셧아웃제압...5연승+선두질...",
+  "이재용8년전낙점한사업…머스크發기회오나",
+  "돌아온젠슨황,엔비디아어디로",
+  "트럼프뼈때린화웨이런정페이\"中기술자립촉진…감사\"",
+  "[데일리안오늘뉴스종합][단독]에스티팜,병원내'작은암백신공장..."
  ],
  "recent_sigs": [
   [
@@ -6503,9 +6503,17 @@
   [
    "2026-11-27T20:56:16.495415+09:00",
    "뗐던 식당 퇴출되자 명판 다시 기념 제자리 젠슨황 걸어"
+  ],
+  [
+   "2026-11-27T21:02:16.988693+09:00",
+   "어디로 돌아온 젠슨"
+  ],
+  [
+   "2026-11-27T21:02:16.988693+09:00",
+   "암백신 작은 공장 병원 에스티팜"
   ]
  ],
- "last_run": "2026-11-27T21:00:57.735100+09:00",
+ "last_run": "2026-11-27T21:02:38.772809+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
