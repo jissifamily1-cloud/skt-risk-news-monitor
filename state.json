@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.edaily.co.kr/News/Read?newsId=04480486645649656&mediaCodeNo=257",
-  "https://www.wikitree.co.kr/articles/1178148",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3764589",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3764584",
-  "https://biz.heraldcorp.com/article/10950995",
-  "https://www.greened.kr/news/articleView.html?idxno=355716",
-  "https://www.greened.kr/news/articleView.html?idxno=355705",
   "https://www.news1.kr/it-science/security-hacking/6367496",
   "https://biz.sbs.co.kr/article_hub/20000349221?division=NAVER",
   "https://www.donga.com/news/Society/article/all/20261126/135090521/2",
@@ -2999,16 +2992,16 @@
   "https://www.hankyung.com/article/2026112752831",
   "https://www.joongang.co.kr/article/25482617",
   "https://news.mtn.co.kr/article/2026112716044235967",
-  "http://www.newstomato.com/ReadNews.aspx?no=1322191&inflow=N"
+  "http://www.newstomato.com/ReadNews.aspx?no=1322191&inflow=N",
+  "https://www.the-today.com/news/articleView.html?idxno=94206",
+  "http://coinreaders.com/273993",
+  "https://www.mk.co.kr/article/12220350",
+  "https://www.hankyung.com/article/2026112752821",
+  "https://www.thebigdata.co.kr/view.php?ud=2026112716322141590a47484cf8_23",
+  "http://www.newskr.kr/news/articleView.html?idxno=108380",
+  "https://www.e-science.co.kr/news/articleView.html?idxno=140909"
  ],
  "seen_titles": [
-  "서태원가평군수,2027년예산안4,665억편성…5대분야집중",
-  "아프리카스마트폰출하40%급감…삼성점유율8%p↑",
-  "화웨이,미국법원서12개혐의중10개유죄…제재위반·영업비밀절취...",
-  "제주에뿌리내린창업가들…애월서새로운가능성을잇다",
-  "김치1만포기에담은온기…제주개발공사등8개기관'한마음'",
-  "“남친생겼는데이혼어떻게꺼내지?”…아내‘AI대화’로‘불륜’...",
-  "[현장+]이태규스케일업파트너스\"AI신약개발2상병목돌파과제\"",
   "[현장+]인바디\"오픈이노베이션연내마무리···선정기업과협업AX...",
   "정상프로그램믿었는데악성코드…SW공급망공격우려확산",
   "[글로벌비즈브리핑]中화웨이,'삼전닉스'정조준…\"차세대HBM공개...",
@@ -6001,13 +5994,16 @@
   "올개인정보유출신고1019건,작년의두배넘어'역대최다'",
   "엔비디아‘VIP고객’알고보니중국계…우회로막히자,칩쏟아지고...",
   "AI가해킹하고금융거래하는시대...아톤\"거래마다정당성검증해야\"",
-  "'국내1호소액해외송금'이나인페이해킹사고발생"
+  "'국내1호소액해외송금'이나인페이해킹사고발생",
+  "中로봇110개팀기술력대결…산업현장투입겨뤘다",
+  "빅테크설비투자증가율'반토막'...월가,2027년데이터센터기업실적...",
+  "과기공제회도뚫렸다…20만과기인연락처·주소유출",
+  "인증컨설팅만1억…中企울리는'보안규제'",
+  "KT,무선사업정체에1위SKT와격차더벌어졌다...\"내년반등기대\"",
+  "코스닥8.13%급등에'매수사이드카'발동",
+  "KT,중소·벤처기업신기술사업화지원확대…AI기반협력성과공유"
  ],
  "recent_sigs": [
-  [
-   "2026-11-27T11:14:15.475660+09:00",
-   "4대 리스크 다지기 방점 내실 피하고"
-  ],
   [
    "2026-11-27T11:18:15.705940+09:00",
    "지원 이번엔 미납 송출료마저 번째 예산 시도 통과 TBS"
@@ -6731,9 +6727,13 @@
   [
    "2026-11-27T17:12:17.633533+09:00",
    "1호 소액해외송금 사고 발생 국내 이나인페이"
+  ],
+  [
+   "2026-11-27T17:14:16.364453+09:00",
+   "1위 내년 ~SKT 벌어졌다 정체에 무선사업 반등 ~KT 기대 SKT와 격차"
   ]
  ],
- "last_run": "2026-11-27T17:12:39.308501+09:00",
+ "last_run": "2026-11-27T17:14:32.326070+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
