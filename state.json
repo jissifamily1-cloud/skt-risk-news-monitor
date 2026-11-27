@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856998&plink=ORI&cooper=NAVER",
-  "http://www.newstomato.com/ReadNews.aspx?no=1321314&inflow=N",
-  "https://www.nocutnews.co.kr/news/6610525",
-  "http://www.hansbiz.co.kr/news/articleView.html?idxno=885786",
-  "https://www.yna.co.kr/view/AKR20261121033751001?input=1195m",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000085151",
-  "https://www.hankyung.com/article/2026112113577",
   "https://www.mk.co.kr/article/12215257",
   "https://vop.co.kr/A00001697699.html",
   "https://www.newscj.com/news/articleView.html?idxno=3450885",
@@ -2999,16 +2992,16 @@
   "https://www.mt.co.kr/industry/2026/11/27/2026112609535540472",
   "https://weekly.hankooki.com/news/articleView.html?idxno=7196132",
   "https://www.hankyung.com/article/2026112751366",
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508963"
+  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508963",
+  "https://www.kwnews.co.kr/article/20261127500253",
+  "https://www.koreareport.co.kr/news/articleView.html?idxno=55263",
+  "https://www.ddaily.co.kr/page/view/2026112715544495873",
+  "https://www.insight.co.kr/news/583891",
+  "https://www.news1.kr/finance/market-exr/6368650",
+  "https://www.dailian.co.kr/news/view/1720679/?sc=Naver",
+  "https://www.nocutnews.co.kr/news/6613840"
  ],
  "seen_titles": [
-  "李대통령,삼성이어SK데이터센터방문…AI메가프로젝트현장점검",
-  "이대통령,울산AI데이터센터현장찾아\"세계경쟁서속도가생명\"",
-  "'울산AI데이터센터'깜짝방문…이대통령\"속도가생명\"",
-  "李대통령,울산AI데이터센터현장찾아\"新성장모멘텀될것\"",
-  "李,울산SK데이터센터찾아…\"AI고속도로가대전환이끌것\"",
-  "李대통령\"AI데이터센터·메모리수요더늘것…속도가생명\"(종합)",
-  "李대통령,울산AIDC현장점검…\"속도가생명\"",
   "李대통령\"AI인프라지방으로\"…2주연속'메가프로젝트'현장점검",
   "李대통령,울산AI데이터센터현장점검…“빠른속도로추진한SK에...",
   "울산AI데이터센터찾은이대통령“첨단시설건설인력부족,정부대...",
@@ -6001,7 +5994,14 @@
   "세명소프트,GPU·국산NPU통합AI운영플랫폼GS인증1등급획득",
   "[핀테크위크2026]\"금융첫관문은AI\"…'고객접점·보안·규제'판바뀐...",
   "외국인·기관쌍끌이매수에코스피4.3%급등…4900선탈환",
-  "[거래소외국인]두산에너빌리티·LSELECTRIC까지매수…AI전력인프라..."
+  "[거래소외국인]두산에너빌리티·LSELECTRIC까지매수…AI전력인프라...",
+  "원주미래항공산업거점도약…미래항공기술센터개소",
+  "아모레퍼시픽,'제3회바이브코딩해커톤'개최...56건과제출품",
+  "파네시아,SK'K-AI얼라이언스'출격…\"CXL기반메모리중심소버린...",
+  "'AI산업'호황으로세수증가하자국민에환원...1인당80만원지급법...",
+  "'증안펀드'기대,코스피4900선회복…코스닥8%↑'사이드카'[시황종합...",
+  "[코인뉴스]비트코인반등했지만…14%추가하락경고",
+  "트럼프\"젠슨황전혀문제없고,난훌륭한일을했다\""
  ],
  "recent_sigs": [
   [
@@ -6775,9 +6775,13 @@
   [
    "2026-11-27T16:16:16.856575+09:00",
    "LS ELECTRIC까지 두산에너빌리티 인프라 매수 전력"
+  ],
+  [
+   "2026-11-27T16:18:18.562697+09:00",
+   "CXL 메모리 기반 소버린 중심 얼라이언스 SK 파네시아 출격"
   ]
  ],
- "last_run": "2026-11-27T16:16:34.466785+09:00",
+ "last_run": "2026-11-27T16:18:37.965920+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
