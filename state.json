@@ -1,12 +1,5 @@
 {
  "seen_urls": [
-  "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508540",
-  "http://www.whitepaper.co.kr/news/articleView.html?idxno=269232",
-  "https://www.ppss.kr/news/articleView.html?idxno=323240",
-  "https://www.newsis.com/view/NISI20261125_0021545032",
-  "https://www.newsis.com/view/NISI20261125_0021545017",
-  "https://news.tf.co.kr/read/economy/2393979.htm",
-  "https://www.ppss.kr/news/articleView.html?idxno=323232",
   "https://news.appstory.co.kr/daily19728",
   "https://www.dailysecu.com/news/articleView.html?idxno=209765",
   "https://biz.chosun.com/it-science/ict/2026/11/26/65MTPPFHMVHVRA7NG75M2O4ORI/",
@@ -2999,16 +2992,16 @@
   "https://biz.sbs.co.kr/article_hub/20000349332?division=NAVER",
   "http://kor.theasian.asia/archives/423437",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/27/2026112750161.html",
-  "https://biz.chosun.com/stock/stock_general/2026/11/27/CYZWV67FGJGPXAEXJJ3HNETNEM/"
+  "https://biz.chosun.com/stock/stock_general/2026/11/27/CYZWV67FGJGPXAEXJJ3HNETNEM/",
+  "http://www.newslock.co.kr/news/articleView.html?idxno=141166",
+  "http://coinreaders.com/273900",
+  "https://www.seoul.co.kr/news/society/accident/2026/11/26/20261126500283?wlog_tag3=naver",
+  "https://www.edaily.co.kr/News/Read?newsId=04106566645649656&mediaCodeNo=257",
+  "https://www.koreaittimes.com/news/articleView.html?idxno=159535",
+  "https://www.bntnews.co.kr/article/view/bnt202611270200",
+  "https://www.aitimes.com/news/articleView.html?idxno=217859"
  ],
  "seen_titles": [
-  "KIA김도영,2년만에다시KBOMVP...한화허인서는'신인왕'",
-  "HBM넘어첨단패키징까지불꽃랠리…엘티씨·심텍홀딩스두자릿수상...",
-  "삼성전자,메모리개발사업부장직속개편···미주법인장에윤하룡",
-  "청소년SNS금지가해법일까...법학계\"위헌소지·실효성한계\"",
-  "개보위전체회의주재하는송경희위원장",
-  "개보위전체회의발언하는송경희위원장",
-  "9440억부족했나…노소영'상고취하'요청이유는",
   "엔비디아,동남아4개국행AI서버출하중단지시…美수출통제여파",
   "오픈AI회의실도청혐의전직직원,100만달러보석금내고석방",
   "[단독]다우키움그룹계열사이머니'엑스원'해킹정황…고객개인정보...",
@@ -6001,7 +5994,14 @@
   "[단독]피해자주민번호까지공개…국토안전관리원황당한실수",
   "[아시아라운드업20261127]중국천지닝낙마,시진핑에'충성맹세'속...",
   "증안펀드기대에코스닥사이드카발동…5%대급등690선'점프'",
-  "[AI쇼크흔들린亞증시]②젠슨황복귀시킨미국·공매도막은대만…..."
+  "[AI쇼크흔들린亞증시]②젠슨황복귀시킨미국·공매도막은대만…...",
+  "아모레퍼시픽,현업AI과제56건발굴…바이브코딩업무적용확대",
+  "'빅쇼트'버리,나스닥하락베팅접고매수...왜?",
+  "사전대신챗GPT켜는초등생…‘13세미만금지’는유명무실",
+  "AI가학습한내데이터,보상어떻게?'데이터이익공유제'논의본격화",
+  "SK하이닉스,HBM넘어AI인프라혁신으로…차세대메모리시장주도",
+  "선우용여,젠슨황불륜소식에분노“돈만벌면바람”",
+  "실험실패하면가설다시세운다…ETRI,스스로연구하고논문쓰는AI개..."
  ],
  "recent_sigs": [
   [
@@ -7091,9 +7091,13 @@
   [
    "2026-11-27T11:56:16.150161+09:00",
    "대만 공매도 젠슨 복귀시킨 막은 미국"
+  ],
+  [
+   "2026-11-27T11:58:23.741865+09:00",
+   "실험 가설 논문 실패하면 스스로 다시 쓰는 ETRI 세운다 연구하고"
   ]
  ],
- "last_run": "2026-11-27T11:56:37.763273+09:00",
+ "last_run": "2026-11-27T11:58:40.464395+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
