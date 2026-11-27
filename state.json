@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.newsis.com/view/NISX20261124_0003881233",
-  "https://www.dt.co.kr/article/12097494",
-  "https://www.thelec.kr/news/articleView.html?idxno=65981",
   "http://www.srtimes.kr/news/articleView.html?idxno=218752",
   "https://weekly.chosun.com/news/articleView.html?idxno=60117",
   "https://www.ddaily.co.kr/page/view/2026112616174599651",
@@ -2999,12 +2996,12 @@
   "https://www.itdaily.kr/news/articleView.html?idxno=243271",
   "http://www.newstomato.com/ReadNews.aspx?no=1322012&inflow=N",
   "https://www.asiatime.co.kr/article/20261127500131",
-  "https://www.newsmap.co.kr/news/articleView.html?idxno=5918"
+  "https://www.newsmap.co.kr/news/articleView.html?idxno=5918",
+  "https://www.cwn.kr/news/articleView.html?idxno=62782",
+  "https://www.nocutnews.co.kr/news/6613665",
+  "https://www.viva100.com/article/20261127500336"
  ],
  "seen_titles": [
-  "내쫓고보니대체불가…잡스·올트먼처럼귀환",
-  "\"돌아온젠슨황예전같을까\"…실리콘밸리의'경고'이유",
-  "‘키옥시아너마저?’…낸드로HBM확장,삼전닉스위협하나",
   "어드밴텍,로봇·피지컬AI용통합카메라솔루션'유니캠'출시",
   "박종복전SC제일은행장,제16대은행연합회장선출…12월1일취임",
   "주진우\"강금실,대놓고북한편들어왔다…국정원장과상극\"",
@@ -6001,13 +5998,12 @@
   "[취재.txt]메모리'슈퍼을',증설위험도협상할때",
   "쿠팡개인정보유출사태1년…경찰수사는‘답보’",
   "유료방송가입자2년째감소…IPTV'나홀로증가'",
-  "기술검증넘어사업화로…KT,중소벤처와AX혁신가속"
+  "기술검증넘어사업화로…KT,중소벤처와AX혁신가속",
+  "과기공제회,개인정보16종유출'회원피해우려'...사칭주의당부",
+  "논술장엔앞치마,홈플러스엔휴업안내문[노컷한컷]",
+  "靑,해킹2차피해차단위해금융당국긴급대응회의개최"
  ],
  "recent_sigs": [
-  [
-   "2026-11-27T06:28:17.077937+09:00",
-   "임대하는 네오클라우드엔 공급 연산력 중단 판매사들"
-  ],
   [
    "2026-11-27T06:32:16.821308+09:00",
    "하나라도 못팔아 판매상 임대시"
@@ -6943,9 +6939,13 @@
   [
    "2026-11-27T12:26:15.508039+09:00",
    "듯합니다 황을 한국의 공학과 보는 박우찬 젠슨 교수 컴퓨터"
+  ],
+  [
+   "2026-11-27T12:30:39.392293+09:00",
+   "홈플러스엔 앞치마 안내문 논술장엔 휴업"
   ]
  ],
- "last_run": "2026-11-27T12:28:32.236410+09:00",
+ "last_run": "2026-11-27T12:30:55.546190+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
