@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.inthenews.co.kr/news/article.html?no=95124",
-  "https://www.news2day.co.kr/article/20261127500141",
   "https://it.chosun.com/news/articleView.html?idxno=3000000001974",
   "https://www.startuptoday.co.kr/news/articleView.html?idxno=820307",
   "http://www.worktoday.co.kr/news/articleView.html?idxno=92784",
@@ -2999,11 +2997,11 @@
   "https://www.newdaily.co.kr/site/data/html/2026/11/28/2026112850062.html",
   "https://www.gukjenews.com/news/articleView.html?idxno=3766230",
   "https://www.munhwa.com/article/11634779",
-  "https://www.mk.co.kr/article/12220763"
+  "https://www.mk.co.kr/article/12220763",
+  "https://www.sedaily.com/article/20120025",
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1545319"
  ],
  "seen_titles": [
-  "아모레퍼시픽,임직원AI개발역량키운다…바이브코딩해커톤개최",
-  "부산창경,스타트업34개사해외진출경험공유…미국까지지원확대",
   "[N2증시풍향계]로봇주·방산주줄줄이급등세…안랩52주신고가·윙...",
   "유료방송가입자3605만명…2년째감소",
   "[이슈]LG유플러스·현대차·기아,피지컬AI통신협력…5GSA실증",
@@ -6001,7 +5999,9 @@
   "李대통령주말저격에성형병원발칵…'일부병원성형후기조작'...",
   "[GJ포토]기념촬영하는최현덕시장",
   "‘75만명개인정보유출’동행복권,과징금취소소송1심패소",
-  "중앙그룹두번째대형매각시험대…SK호라이즌거래종결도관심[M&A..."
+  "중앙그룹두번째대형매각시험대…SK호라이즌거래종결도관심[M&A...",
+  "머스크,엔비디아주가올리나…GPU구매대폭확대[김기혁의테슬라월...",
+  "인터넷우체국해킹…11만명개인정보유출"
  ],
  "recent_sigs": [
   [
@@ -6167,9 +6167,13 @@
   [
    "2026-11-28T20:00:40.983329+09:00",
    "시험대 종결도 중앙그룹 매각 SK호라이즌 거래 관심 번째 대형"
+  ],
+  [
+   "2026-11-28T20:02:17.294312+09:00",
+   "구매 테슬라월 김기혁의 주가 GPU 대폭 머스크 확대 올리나"
   ]
  ],
- "last_run": "2026-11-28T20:00:59.708089+09:00",
+ "last_run": "2026-11-28T20:02:33.191371+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
