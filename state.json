@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://biz.newdaily.co.kr/site/data/html/2026/11/27/2026112750070.html",
-  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724299",
-  "https://www.socialvalue.kr/news/view/1065574121565065",
-  "https://www.lcnews.co.kr/news/articleView.html?idxno=212129",
-  "https://www.asiatime.co.kr/article/20261127500045",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3764938",
   "https://www.sedaily.com/article/20119714",
   "https://www.newsworks.co.kr/news/articleView.html?idxno=904642",
   "https://www.wikileaks-kr.org/news/articleView.html?idxno=195372",
@@ -2999,15 +2993,15 @@
   "http://coinreaders.com/274135",
   "https://economist.co.kr/article/view/ecn202611280001",
   "https://www.ntoday.co.kr/news/articleView.html?idxno=131206",
-  "https://www.dailysecu.com/news/articleView.html?idxno=209796"
+  "https://www.dailysecu.com/news/articleView.html?idxno=209796",
+  "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725092",
+  "https://www.hankyung.com/article/2026112750696",
+  "https://www.sedaily.com/article/20120104",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=131200",
+  "https://www.thepublic.kr/news/articleView.html?idxno=328904",
+  "https://www.news1.kr/it-science/security-hacking/6369038"
  ],
  "seen_titles": [
-  "미의회,중국산자동차수입금지'마지막관문'",
-  "90%폭락SOXL에3조'베팅'…\"반등과추세회복구분해야\"",
-  "청와대국가안보실,금융당국소집해킹2차피해방지점검",
-  "웨이브,12월볼거리폭탄...'연애남매2'부터'무한상사'까지라인업공...",
-  "반도체가깔아준길,물가가당긴방아쇠…한은\"내년상반기더올릴...",
-  "지방아파트절반'준공20년'이상…입주물량도감소세",
   "세종·충남·전북,서부내륙권관광브랜드송'HERE,HEART'발매",
   "애플,또한국속였나…‘AI기능’소비자기만의혹",
   "삼성바이오에피스,中바이오텍'이노타'와오픈이노베이션협력",
@@ -6001,7 +5995,13 @@
   "[서학개미레이더]앤트로픽주가11%급반등…서학개미3,742억원담았...",
   "우체국도털렸다,등기우편고객정보유출'하루치만11만명이상'",
   "[마켓펄스]\"AI거품우려과했나\"…뉴욕증시,기술주반등에일제히강...",
-  "인터넷우체국마저해킹당했다…하루치분석만11만3,855명개인정보유..."
+  "인터넷우체국마저해킹당했다…하루치분석만11만3,855명개인정보유...",
+  "마법의문장‘취재가시작되자’…저도겪었습니다",
+  "삼성·SK성과급잔치할때中·日칼갈았다…HBM턱밑추격[강경주의...",
+  "가죽재킷벗고수수해진젠슨황…“겸손해지겠다”더니옷가격은무...",
+  "증안펀드약발먹힐까...\"규모작아추세반전한계\"",
+  "[집중분석]美·中휴머노이드패권경쟁에출사표던지는'삼성'",
+  "인터넷우체국해킹당했다…등기이용자11만명이상정보유출"
  ],
  "recent_sigs": [
   [
@@ -6379,9 +6379,17 @@
   [
    "2026-11-28T09:30:34.355544+09:00",
    "과했나 뉴욕증시 일제히 거품 우려 반등에 기술주"
+  ],
+  [
+   "2026-11-28T09:32:31.468947+09:00",
+   "던지는 삼성 휴머노이드 경쟁에 출사표 패권"
+  ],
+  [
+   "2026-11-28T09:32:31.468947+09:00",
+   "반전 한계 약발 작아 증안펀드 규모 추세 먹힐까"
   ]
  ],
- "last_run": "2026-11-28T09:30:49.740243+09:00",
+ "last_run": "2026-11-28T09:32:50.080299+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
