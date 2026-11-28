@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://theviewers.co.kr/View.aspx?No=4332319",
-  "https://www.moneystorm.kr/news/articleView.html?idxno=8927",
-  "https://www.aitimes.kr/news/articleView.html?idxno=42918",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000087204",
   "https://www.sedaily.com/article/20119766",
   "http://www.nongaek.com/news/articleView.html?idxno=97657",
   "https://www.thisisgame.com/articles/433450",
@@ -2999,13 +2995,13 @@
   "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611281533084760027",
   "https://www.ebn.co.kr/news/articleView.html?idxno=1733317",
   "https://news.mtn.co.kr/article/2026112710091410683",
-  "https://www.ajunews.com/view/20261127094926725"
+  "https://www.ajunews.com/view/20261127094926725",
+  "https://www.viva100.com/article/20261127500214",
+  "https://www.boannews.com/news/articleView.html?idxno=147587",
+  "https://www.sidae.com/article/2026112815401273048",
+  "https://zdnet.co.kr/view/?no=20261128153922"
  ],
  "seen_titles": [
-  "아모레퍼시픽,직원이직접AI도구만든다…바이브코딩으로업무혁...",
-  "[N-제약Bio]셀트리온,‘JSIBD2026’서램시마SC日임상3상결과발표...",
-  "삼성바이오에피스,中바이오텍'이노타'와오픈이노베이션협력본격화",
-  "AI로다시만나는순직영웅…보훈부·SKT,유가족에게함께하지못한일...",
   "젠슨황사태가바꿀미중기술경쟁…中반도체자립빨라지나",
   "과기공,해킹공격에회원정보21만건유출[시그널]",
   "LTE걷어낸'진짜5G시대'…달라지는서비스는?",
@@ -6001,7 +5997,11 @@
   "GS,동해AI데이터센터착공…허태수회장“AI산업의미래를보여주...",
   "이나인페이,해킹에25억탈취피해…코스닥상장'빨간불'",
   "케이블TV반년새19만가입자이탈…IPTV점유율60%돌파",
-  "유료방송가입자5반기연속감소…IPTV점유율60%넘어"
+  "유료방송가입자5반기연속감소…IPTV점유율60%넘어",
+  "방미통위“2026년상반기유료방송가입자수3605만⋯전년比10만↓”",
+  "[보안으로본게임]GTA6,범죄활극에서포착된물리보안요소는?",
+  "이대통령\"성형후기조작기막혀…개인정보악용한범죄엄정대응\"",
+  "사이트여는것만으로도해킹?…텔레그램,구형iOS보안경고"
  ],
  "recent_sigs": [
   [
@@ -6215,9 +6215,13 @@
   [
    "2026-11-28T15:42:15.696839+09:00",
    "탈취 빨간불 코스닥 상장 해킹에 피해 이나인페이 25억"
+  ],
+  [
+   "2026-11-28T15:48:14.745075+09:00",
+   "텔레그램 구형 사이트 경고 여는 iOS 보안 것만으로도"
   ]
  ],
- "last_run": "2026-11-28T15:46:30.136622+09:00",
+ "last_run": "2026-11-28T15:48:33.909984+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
