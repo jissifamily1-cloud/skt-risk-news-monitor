@@ -1,9 +1,5 @@
 {
  "seen_urls": [
-  "https://www.seoultimes.news/news/article.html?no=2000102779",
-  "https://www.itdaily.kr/news/articleView.html?idxno=243249",
-  "http://www.inews24.com/view/2031098",
-  "https://www.koreaittimes.com/news/articleView.html?idxno=159510",
   "https://biz.heraldcorp.com/article/10951315",
   "http://www.beyondpost.co.kr/view.php?ud=202611270940463382aaae0046f_30",
   "http://www.newsprime.co.kr/news/article.html?no=756782",
@@ -2999,13 +2995,13 @@
   "https://www.newsclaim.co.kr/news/articleView.html?idxno=3084276",
   "https://www.greened.kr/news/articleView.html?idxno=355829",
   "https://news.einfomax.co.kr/news/articleView.html?idxno=4447044",
-  "http://www.segyebiz.com/newsView/20261128502396?OutUrl=naver"
+  "http://www.segyebiz.com/newsView/20261128502396?OutUrl=naver",
+  "https://www.epnc.co.kr/news/articleView.html?idxno=410393",
+  "https://view.asiae.co.kr/article/2026112808265088852",
+  "https://biz.sbs.co.kr/article_hub/20000349491?division=NAVER",
+  "https://news.bizwatch.co.kr/article/market/2026/11/27/0024"
  ],
  "seen_titles": [
-  "아모레퍼시픽,바이브코딩으로임직원AI활용확대",
-  "삼성바이오에피스,中이노타테라퓨틱스선정…차세대바이오기술확...",
-  "한국AI스마트홈산업협회,지능형홈보안기술세미나개최",
-  "Sh수협은행도뚫렸다⋯고객54명대출·신용정보유출",
   "로봇도전용통신망시대…LG유플러스·현대차그룹,5GSA실증성공",
   "선우용녀,젠슨황불륜소식에“돈만벌면이XX”격노",
   "\"코스피고평가부담,상당부분해소...본격적인반등아직아니야\"......",
@@ -6001,7 +5997,11 @@
   "[SK그룹인사추적]①지난해발탁한사장들1년뒤…강동수에너지로·...",
   "나스닥주간6.7%반등·SOXL14%급등…외국인돌아온코스피,5000선회...",
   "[뉴욕마켓워치]블프엔AI주쇼핑…주식·달러↑채권↓",
-  "연휴끝낸뉴욕증시,기술주랠리…나스닥2.31%↑·주간6.68%급등"
+  "연휴끝낸뉴욕증시,기술주랠리…나스닥2.31%↑·주간6.68%급등",
+  "쇼핑몰아닌'카페들의본사'…만월회,발주데이터와AI로독립카페운...",
+  "젠슨황복귀에억울하다는中…풀리지않는스파이의혹[시사쇼]",
+  "뉴욕증시,AI·기술주반등에상승…나스닥2.3%올라",
+  "[ETF워치]롤러코스터증시에도…개미는인버스팔고레버리지샀다"
  ],
  "recent_sigs": [
   [
@@ -6331,9 +6331,13 @@
   [
    "2026-11-28T08:56:16.282520+09:00",
    "주식 채권 달러 쇼핑 블프엔 AI주"
+  ],
+  [
+   "2026-11-28T09:00:42.042781+09:00",
+   "롤러코스터 레버리지 샀다 팔고 개미는 인버스 증시에도"
   ]
  ],
- "last_run": "2026-11-28T08:58:31.267023+09:00",
+ "last_run": "2026-11-28T09:00:59.387028+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
