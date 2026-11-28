@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ppss.kr/news/articleView.html?idxno=323369",
-  "http://www.osen.co.kr/article/G1112915738",
-  "https://www.gukjenews.com/news/articleView.html?idxno=3765010",
   "http://www.press9.kr/news/articleView.html?idxno=87148",
   "https://ditoday.com/%eb%84%a4%ec%9d%b4%eb%b2%84%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b3%b5%ea%b3%b5-%ed%8a%b9%ed%99%94-ai-%ec%84%9c%eb%b9%84%ec%8a%a4-%ea%b3%a0%eb%8f%84%ed%99%94-%eb%82%98%ec%84%a0%eb%8b%a4/",
   "https://www.businessplus.kr/news/articleView.html?idxno=120613",
@@ -2999,12 +2996,12 @@
   "https://www.gukjenews.com/news/articleView.html?idxno=3766014",
   "https://www.dailysecu.com/news/articleView.html?idxno=209814",
   "https://www.gukjenews.com/news/articleView.html?idxno=3766022",
-  "https://www.fnnews.com/news/202611281231083861"
+  "https://www.fnnews.com/news/202611281231083861",
+  "https://www.ebn.co.kr/news/articleView.html?idxno=1733307",
+  "http://www.hansbiz.co.kr/news/articleView.html?idxno=888260",
+  "https://kidd.co.kr/news/248305"
  ],
  "seen_titles": [
-  "‘젠슨황명판’뗐던미국식당,하루만에다시걸어…뒷이야기알고보...",
-  "14억뷰인기웹툰·웹소설의게임화…넥슨'템빨:오버기어드'출시",
-  "\"벌써운동시작했다\"풀타임이면MVP,아직배고픈슈퍼스타새도전.....",
   "대구공업대학교,월성재가노인돌봄센터와산학협력...봉사·취업연계",
   "삼성바이오에피스,中바이오텍과신약개발협력…TPD기술주목",
   "네이버클라우드,공공특화AI서비스고도화나선다",
@@ -6001,7 +5998,10 @@
   "울산동구,노인복지관운영법인친한친구들선정…위수탁협약체결",
   "일본마넥스증권해킹…이메일112만여건·462명신분증이미지유출",
   "울산농협사랑나눔봉사단,동구취약계층에'30호사랑의집수리'봉사",
-  "李\"성형후기조작기가막혀…국민기만범죄에엄정대응\""
+  "李\"성형후기조작기가막혀…국민기만범죄에엄정대응\"",
+  "GS,동해에아시아최대AI데이터센터첫삽…인프라구축에30조투입",
+  "[피플H]\"영업으로돈못벌고주주돈으로연명하는기업경계해야\"",
+  "AI답변이선택하는콘텐츠는…검색순위보다노출범위·정보품질주목"
  ],
  "recent_sigs": [
   [
@@ -6347,9 +6347,17 @@
   [
    "2026-11-28T12:38:14.865755+09:00",
    "일본 462명 유출 이메일 마넥스증권 신분증 112만여 이미지"
+  ],
+  [
+   "2026-11-28T12:42:15.322995+09:00",
+   "벌고 주주 돈으로 기업 경계해야 연명하는 영업으로"
+  ],
+  [
+   "2026-11-28T12:42:15.322995+09:00",
+   "순위보다 주목 노출 콘텐츠는 선택하는 품질 답변이 검색 정보 범위"
   ]
  ],
- "last_run": "2026-11-28T12:40:41.674278+09:00",
+ "last_run": "2026-11-28T12:42:34.575855+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
