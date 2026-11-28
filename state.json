@@ -1,7 +1,5 @@
 {
  "seen_urls": [
-  "https://www.khan.co.kr/article/202611271107001",
-  "https://www.jnilbo.com/news/articleView.html?idxno=90000087208",
   "https://www.m-i.kr/news/articleView.html?idxno=2024251",
   "https://biz.heraldcorp.com/article/10951527",
   "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525692",
@@ -2999,11 +2997,11 @@
   "https://www.dailian.co.kr/news/view/1720848/?sc=Naver",
   "https://news.tf.co.kr/read/economy/2394552.htm",
   "https://www.jemin.com/news/articleView.html?idxno=848740",
-  "https://www.etnews.com/20261128000028"
+  "https://www.etnews.com/20261128000028",
+  "https://www.edaily.co.kr/News/Read?newsId=01984406645649984&mediaCodeNo=257",
+  "https://www.aitimes.com/news/articleView.html?idxno=217894"
  ],
  "seen_titles": [
-  "삼성바이오에피스,오픈이노베이션中'이노타'낙점…차세대기술확보",
-  "미투이후의원칙을무너뜨린,젠슨황의화려한복귀[플랫]",
   "AI로낮아진해킹문턱…올해개인정보유출신고1000건넘어",
   "수협은행도해킹뚫렸다…고객54명개인정보유출",
   "벤츠코리아,국내스타트업과AI·무선충전기술검증성과공유",
@@ -6001,7 +5999,9 @@
   "가죽재킷벗고면재킷입은젠슨황...이미지변신시도?",
   "GS,동해1.2GW급AI데이터센터착공…15조원투자",
   "美반도체주저평가논쟁…마이크론PER3.6배·샌디스크2.7배까지추락",
-  "다나와해킹으로개인정보유출…이틀째서비스중단"
+  "다나와해킹으로개인정보유출…이틀째서비스중단",
+  "IPTV점유율첫60%돌파…유료방송가입자는2년째'내리막'",
+  "바이트댄스,AI에이전트강화학습도구'라미나'공개...GPU사용시간..."
  ],
  "recent_sigs": [
   [
@@ -6213,7 +6213,7 @@
    "중단 해킹으로 다나와 서비스 개인정보 이틀째 유출"
   ]
  ],
- "last_run": "2026-11-28T16:10:42.330177+09:00",
+ "last_run": "2026-11-28T16:12:37.856913+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
