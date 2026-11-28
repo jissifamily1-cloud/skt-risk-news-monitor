@@ -1,8 +1,5 @@
 {
  "seen_urls": [
-  "https://it.chosun.com/news/articleView.html?idxno=3000000001974",
-  "https://www.startuptoday.co.kr/news/articleView.html?idxno=820307",
-  "http://www.worktoday.co.kr/news/articleView.html?idxno=92784",
   "https://www.jnilbo.com/news/articleView.html?idxno=90000087242",
   "https://www.idaegu.com/news/articleView.html?idxno=667271",
   "https://isplus.com/article/view/isp202611270046",
@@ -2999,12 +2996,12 @@
   "https://www.munhwa.com/article/11634779",
   "https://www.mk.co.kr/article/12220763",
   "https://www.sedaily.com/article/20120025",
-  "https://www.obsnews.co.kr/news/articleView.html?idxno=1545319"
+  "https://www.obsnews.co.kr/news/articleView.html?idxno=1545319",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008868013&plink=ORI&cooper=NAVER",
+  "https://imnews.imbc.com/replay/2026/nwdesk/article/6869342_37004.html",
+  "https://news.sbs.co.kr/news/endPage.do?news_id=N1008868012&plink=ORI&cooper=NAVER"
  ],
  "seen_titles": [
-  "[N2증시풍향계]로봇주·방산주줄줄이급등세…안랩52주신고가·윙...",
-  "유료방송가입자3605만명…2년째감소",
-  "[이슈]LG유플러스·현대차·기아,피지컬AI통신협력…5GSA실증",
   "KT,중소벤처와상생협력성과공유…AI혁신기업육성확대",
   "9조7000억원규모바이낸스해킹…北해커자금세탁나섰나",
   "봉화군,농촌기본소득시행준비본격화…10개읍·면순회",
@@ -6001,7 +5998,10 @@
   "‘75만명개인정보유출’동행복권,과징금취소소송1심패소",
   "중앙그룹두번째대형매각시험대…SK호라이즌거래종결도관심[M&A...",
   "머스크,엔비디아주가올리나…GPU구매대폭확대[김기혁의테슬라월...",
-  "인터넷우체국해킹…11만명개인정보유출"
+  "인터넷우체국해킹…11만명개인정보유출",
+  "미중'AI전쟁'…동남아가격전지된이유는?",
+  "인터넷우체국도뚫렸다‥11만명개인정보유출'맞춤형보이스피싱'우...",
+  "'앨리스황'얽힌곳인데…엔비디아최첨단칩발견"
  ],
  "recent_sigs": [
   [
@@ -6171,9 +6171,13 @@
   [
    "2026-11-28T20:02:17.294312+09:00",
    "구매 테슬라월 김기혁의 주가 GPU 대폭 머스크 확대 올리나"
+  ],
+  [
+   "2026-11-28T20:12:16.904995+09:00",
+   "최첨단 곳인데 얽힌 앨리스 발견"
   ]
  ],
- "last_run": "2026-11-28T20:10:41.156700+09:00",
+ "last_run": "2026-11-28T20:12:33.623386+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
