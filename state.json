@@ -1,6 +1,5 @@
 {
  "seen_urls": [
-  "https://www.mt.co.kr/tech/2026/11/27/2026112709134665202",
   "https://www.newsis.com/view/NISX20261127_0003885803",
   "https://www.joongang.co.kr/article/25482516",
   "https://biz.heraldcorp.com/article/10951174",
@@ -2999,10 +2998,10 @@
   "https://www.dailysecu.com/news/articleView.html?idxno=209822",
   "https://www.newspost.kr/news/articleView.html?idxno=227834",
   "https://www.g-enews.com/view.php?ud=20261128151024355fbbec65dfb_1",
-  "https://www.ytn.co.kr/_ln/0103_202611281432530187"
+  "https://www.ytn.co.kr/_ln/0103_202611281432530187",
+  "https://www.edaily.co.kr/News/Read?newsId=01679366645650312&mediaCodeNo=257"
  ],
  "seen_titles": [
-  "Sh수협은행,해킹공격에고객54명정보유출",
   "올해개인정보유출신고폭증…월평균100건,지난해2배\"AI해킹위협...",
   "개인정보유출1년새2배폭증…정부,내달부터3개월간AI해킹집중점...",
   "끝없는AI기반해킹에…정부긴급대응체계가동한다",
@@ -6001,7 +6000,8 @@
   "대학30여곳연쇄해킹여파…연구관리시스템외부접속차단하고2차...",
   "노재헌소환통보·노소영은불출석…시민단체\"비자금수사컨트롤타워...",
   "美ITC,갤럭시S25제한적수입배제…재설계모델은제외",
-  "DL그룹회장,한밤중직원수백명비상소집...법적쟁점은?"
+  "DL그룹회장,한밤중직원수백명비상소집...법적쟁점은?",
+  "美공군클라우드까지해킹에털렸다…군수정보노출우려"
  ],
  "recent_sigs": [
   [
@@ -6231,9 +6231,13 @@
   [
    "2026-11-28T15:16:16.664794+09:00",
    "대학 연구관리시스템 연쇄 30여 여파 외부 접속 2차 차단하고"
+  ],
+  [
+   "2026-11-28T15:22:19.416540+09:00",
+   "군수정보 클라우드까지 해킹에 노출 털렸다 우려 공군"
   ]
  ],
- "last_run": "2026-11-28T15:20:41.821206+09:00",
+ "last_run": "2026-11-28T15:22:38.960260+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
