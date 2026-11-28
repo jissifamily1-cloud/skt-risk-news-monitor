@@ -1,11 +1,5 @@
 {
  "seen_urls": [
-  "https://www.ajunews.com/view/20261127094928726",
-  "https://www.news2day.co.kr/article/20261127500051",
-  "https://www.delighti.co.kr/news/articleView.html?idxno=125763",
-  "https://www.businessplus.kr/news/articleView.html?idxno=120611",
-  "https://www.munhwa.com/article/11634546",
-  "http://www.newstown.co.kr/news/articleView.html?idxno=723611",
   "https://biz.newdaily.co.kr/site/data/html/2026/11/27/2026112750070.html",
   "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724299",
   "https://www.socialvalue.kr/news/view/1065574121565065",
@@ -2999,15 +2993,15 @@
   "https://www.thepublic.kr/news/articleView.html?idxno=328803",
   "https://www.thepublic.kr/news/articleView.html?idxno=328802",
   "https://www.busan.com/view/busan/view.php?code=2026112809233862631",
-  "https://www.jasm.co.kr/news/view/326772/?sc=Naver"
+  "https://www.jasm.co.kr/news/view/326772/?sc=Naver",
+  "https://www.thepublic.kr/news/articleView.html?idxno=328844",
+  "https://www.cbci.co.kr/news/articleView.html?idxno=631551",
+  "http://coinreaders.com/274135",
+  "https://economist.co.kr/article/view/ecn202611280001",
+  "https://www.ntoday.co.kr/news/articleView.html?idxno=131206",
+  "https://www.dailysecu.com/news/articleView.html?idxno=209796"
  ],
  "seen_titles": [
-  "﻿백억커피,의정부범골역점·대구평리점동시오픈",
-  "삼성바이오에피스,오픈이노베이션본격화…中바이오텍'이노타'선정",
-  "코스피,4,700선강보합…삼성전자·SK하이닉스동반약세",
-  "KT,'산리오캐릭터즈키즈폰'출시…전용액세서리·안심서비스등제공",
-  "KT,산리오캐릭터입힌키즈폰출시…자녀보호·요금할인결합",
-  "‘국정원장자격논란’강금실…‘만장일치로복귀’젠슨황[금주의...",
   "미의회,중국산자동차수입금지'마지막관문'",
   "90%폭락SOXL에3조'베팅'…\"반등과추세회복구분해야\"",
   "청와대국가안보실,금융당국소집해킹2차피해방지점검",
@@ -6001,7 +5995,13 @@
   "AI가바꾸는콘텐츠산업…중앙대,실감미디어국제컨퍼런스개최",
   "LG전자美법인,3분기누적순이익'1조원돌파'…관세환급빼고도순...",
   "젠슨황불륜상대연계中데이터센터서‘블랙웰’발견",
-  "이나인페이,해킹으로25억원탈취…금감원현장점검"
+  "이나인페이,해킹으로25억원탈취…금감원현장점검",
+  "글쓰던AI가'단백질설계'까지…GPT-6.2,암·면역표적5종결합성공",
+  "다우1.18%·S&P5001.60%상승…M7도일제히올라[미국뉴욕증시]",
+  "[서학개미레이더]앤트로픽주가11%급반등…서학개미3,742억원담았...",
+  "우체국도털렸다,등기우편고객정보유출'하루치만11만명이상'",
+  "[마켓펄스]\"AI거품우려과했나\"…뉴욕증시,기술주반등에일제히강...",
+  "인터넷우체국마저해킹당했다…하루치분석만11만3,855명개인정보유..."
  ],
  "recent_sigs": [
   [
@@ -6375,9 +6375,13 @@
   [
    "2026-11-28T09:28:21.135004+09:00",
    "해킹으로 25억원 현장점검 탈취 이나인페이 금감원"
+  ],
+  [
+   "2026-11-28T09:30:34.355544+09:00",
+   "과했나 뉴욕증시 일제히 거품 우려 반등에 기술주"
   ]
  ],
- "last_run": "2026-11-28T09:28:37.682475+09:00",
+ "last_run": "2026-11-28T09:30:49.740243+09:00",
  "initialized": true,
  "press_names": {
   "wikileaks-kr.org": "위키리크스한국",
